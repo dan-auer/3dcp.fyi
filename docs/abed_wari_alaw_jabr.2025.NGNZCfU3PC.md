@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammadmadhi Abedi, Muhammad Waris, Mubarak Alawi, Khalifa Jabri
+    - footer
+title: Abedi Mohammadmadhi, Waris Muhammad, Alawi Mubarak, Jabri Khalifa
 description:
 tags:
  - composite
@@ -21,37 +22,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>:aca-blank: Hybrid Machine Learning Optimized LC3 with Recycled Rubber ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jmrt.2025.10.084" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2025.10.084</a>
+#Next-Generation Net-Zero Composite for Underwater 3D Printing Construction&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Hybrid Machine Learning Optimized LC3 with Recycled Rubber</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jmrt.2025.10.084" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.10.084" target="_blank">10.1016/j.jmrt.2025.10.084</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b>&nbsp;Mohammadmadhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waris_bilal_muhammad"><b>Waris</b>&nbsp;Muhammad</a></span>, <a href="../../../author/alawi_khamis_mubarak"><b>al&nbsp;Alawi</b>&nbsp;Mubarak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabri_saif_khalifa"><b>al&nbsp;Jabri</b>&nbsp;Khalifa</a></span><br>
+Journal Article - Journal of Materials Research and Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> <a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a> <a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alawi_khamis_mubarak"><b>al Alawi</b> Mubarak</a>
-,     <a href="../../../author/jabri_saif_khalifa"><b>al Jabri</b> Khalifa</a> <a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#generation`](keyword/generation)
-    [`#hybrid`](keyword/hybrid)
-    [`#lc3`](keyword/lc3)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#rubber`](keyword/rubber)
-    [`#underwater`](keyword/underwater)
-    [`#zero`](keyword/zero)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> <a href="../../keyword/zero"><button class="btn">#zero</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Next-Generation%20Net-Zero%20Composite%20for%20Underwater%203D%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020918035&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415305186" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2025.10.084" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2025.10.084?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study introduces the first sustainable limestone-calcined clay cement (LC3) composite specifically developed for underwater 3D printing applications. Kaolinite, illite, and montmorillonite identified as the dominant clay types in Oman’s indigenous deposits were selected as the basis for formulating scalable, printable, and low-carbon LC3 binders. A systematic factorial mix design strategy was employed to generate 287 unique formulations, each experimentally evaluated for the most critical mechanical and rheological properties for 3D printing, including compressive strength, flexural strength, and yield stress. Multiple machine learning (ML) models were trained to predict these properties, with a hybrid Random Forest + ANN framework selected to optimize the mix design. The optimization process was guided by practical engineering constraints, including raw material availability, printability thresholds, rheological performance, and mechanical strength requirements, ensuring industrial feasibility. The final formulation was designed to be user-friendly and adaptable for use by construction professionals and field engineers. It was further enhanced with underwater-compatible additives—anti-washout admixture (AWA), water-repellent admixture (WRA), and accelerator (ACC)—and incorporated recycled waste rubber (WR) at various sand replacement levels. WR was introduced to enhance resistance against wave impact, cyclic fatigue, and hydrodynamic loads, while simultaneously improving crack-bridging and long-term chemical durability in aggressive submerged environments. The WR–LC3-3DPC composite demonstrated compressive and flexural strength of 30.5 MPa and 3.8 MPa, respectively, and a yield stress of approximately 700 Pa. XCT and TGA analyses revealed matrix densification and thermal stability. After 120 days of immersion in acid–chloride solution, WR–LC3-3DPC retained up to 87% of its strength. These findings serve as a stepping stone toward the development of resilient, eco-efficient, and digitally printable materials for underwater construction, establishing a foundation for future research and large-scale implementation. All Python codes, decision tree outputs, and the complete experimental dataset are provided in the Appendix to facilitate reproducibility and further research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/an_xuehui"><b>An</b> Xuehui</a>, <a href="../../../author/liang_qimin"><b>Liang</b> Qimin</a>, <a href="../../../author/li_pengfei"><b>Li</b> Pengfei</a>, <a href="../../../author/you_wei"><b>You</b> Wei</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../an_lian_li_you.2025.EAoPPaMPoUSP3PC/">Experimental Assessment on Printing Performance and Mechanical Properties of Underwater Self-Protecting 3D Printing Concrete</a></li>
@@ -95,7 +69,35 @@ tags:
       <li><a href="../../../author/yan_ruizhen"><b>Yan</b> Ruizhen</a>, <a href="../../../author/meng_fangqi"><b>Meng</b> Fangqi</a>, <a href="../../../author/ke_guoju"><b>Ke</b> Guoju</a>, <a href="../../../author/jia_kerui"><b>Jia</b> Kerui</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yan_meng_ke_jia.2024.CEotAo3PMwDWP/">Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zuo_cort_huan_chen.2024.STLS3PWSC/">Strategies Towards Large-Scale 3D Printing Without Size-Constraints</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abed_wari_alaw_jabr.2025.NGNZCfU3PC,
+      author            = "Mohammadmadhi Abedi and Muhammad Bilal Waris and Mubarak Khamis Al Alawi and Khalifa Saif Al Jabri",
+      title             = "Next-Generation Net-Zero Composite for Underwater 3D Printing Construction: Hybrid Machine Learning Optimized LC3 with Recycled Rubber",
+      doi               = "10.1016/j.jmrt.2025.10.084",
+      year              = "2025",
+      journal           = "Journal of Materials Research and Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Abedi, M. B. Waris, M. K. A. Alawi and K. S. A. Jabri, “Next-Generation Net-Zero Composite for Underwater 3D Printing Construction: Hybrid Machine Learning Optimized LC3 with Recycled Rubber”, <i>Journal of Materials Research and Technology</i>, 2025, doi: 10.1016/j.jmrt.2025.10.084.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abedi, Mohammadmadhi, Muhammad Bilal Waris, Mubarak Khamis Al Alawi, and Khalifa Saif Al Jabri. “Next-Generation Net-Zero Composite for Underwater 3D Printing Construction: Hybrid Machine Learning Optimized LC3 with Recycled Rubber”. <i>Journal of Materials Research and Technology</i>, 2025. https://doi.org/10.1016/j.jmrt.2025.10.084.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

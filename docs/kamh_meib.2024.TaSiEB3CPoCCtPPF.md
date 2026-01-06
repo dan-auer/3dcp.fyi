@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdallah Kamhawi, Mania Meibodi
+    - footer
+title: Kamhawi Abdallah, Meibodi Mania
 description:
 tags:
  - base
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.autcon.2024.105768" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105768</a>
+#Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105768" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105768" target="_blank">10.1016/j.autcon.2024.105768</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b>&nbsp;Abdallah</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b>&nbsp;Mania</a></span><br>
+Journal Article - Automation in Construction, Vol. 168, No. 105768
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a> <a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 168, No. 105768
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#complexity`](keyword/complexity)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#failure`](keyword/failure)
-    [`#prevention`](keyword/prevention)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/prevention"><button class="btn">#prevention</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Techniques%20and%20Strategies%20in%20Extrusion-Based%203D%20Concrete%20Printing%20of%20Complex%20Components%20to%20Prevent%20Premature%20Failure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203869356&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402565809" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105768" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105768?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion based 3D Concrete Printing (E-3DCP) is a rapidly growing method of construction due to its ability to manufacture bespoke architectural and structural elements without incurring the additional time and costs typically associated with the manufacturing of the formwork of these components. However, Complex geometries such as overhangs, bridges, and cantilevers pose significant challenges to E-3DCP, increasing the risk of premature failure during 3D printing and complicating the integration of longitudinal reinforcement. In response to these challenges, researchers have developed various techniques and strategies to mitigate these complexities and failures. This paper provides a comprehensive review of these methods, evaluating their advantages and disadvantages, and identifying research gaps in the current literature.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "117 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
@@ -187,8 +165,11 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
@@ -203,7 +184,35 @@ tags:
       <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/bayramvand_alireza"><b>Bayramvand</b> Alireza</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../lin_bayr_meib.2025.TLS/">Towards Lightweight Structure:<br/>Coupling Topology Optimization with Non-Planar 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_meib.2024.ISP/">Integrated Sensing Printhead:<br/>In-line Data Collection for Non-Planar 3D Concrete Printing</a></li>
-      <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/brown_jacob"><b>Brown</b> Jacob</a>, <a href="../../../author/fahmy_ali"><b>Fahmy</b> Ali</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_brow_fahm_meib.2024.WFPoUTCPvR3PaCDBD/">Waste-Free Production of Ultra-Thin Concrete Panels via Robotic 3D Printing and CNC Dynamic Bed Device</a></li>
-      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../meib_lin_chen.2024.HAT3CPfLRCS/">Hybrid Approaches Towards 3D Concrete Printing for Lightweight Reinforced Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kamh_meib.2024.TaSiEB3CPoCCtPPF,
+      author            = "Abdallah Kamhawi and Mania Aghaei Meibodi",
+      title             = "Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure",
+      doi               = "10.1016/j.autcon.2024.105768",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "168",
+      pages             = "105768",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kamhawi  and M. A. Meibodi, “Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure”, <i>Automation in Construction</i>, vol. 168, p. 105768, 2024, doi: 10.1016/j.autcon.2024.105768.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kamhawi, Abdallah, and Mania Aghaei Meibodi. “Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure”. <i>Automation in Construction</i> 168 (2024): 105768. https://doi.org/10.1016/j.autcon.2024.105768.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

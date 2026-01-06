@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shadi Ostovari, Hooman Shayani
+    - footer
+title: Ostovari Shadi, Shayani Hooman
 description:
 tags:
  - analysis
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.istruc.2024.106719) Simulation and Analysis of Automated Generalised Interleaved Layered Execution (AGILE) Process for Concrete Shell-Structures ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.istruc.2024.106719" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2024.106719</a>
+#Simulation and Analysis of Automated Generalised Interleaved Layered Execution (AGILE) Process for Concrete Shell-Structures ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.istruc.2024.106719) <a href="https://doi.org/10.1016/j.istruc.2024.106719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.106719" target="_blank">10.1016/j.istruc.2024.106719</a>
 
--------------------------
+<a href="../../../author/ostovari_shadi"><b>Ostovari</b>&nbsp;Shadi</a></span>, <a href="../../../author/shayani_hooman"><b>Shayani</b>&nbsp;Hooman</a></span><br>
+Journal Article - Structures, Vol. 65, No. 106719
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ostovari_shadi"><b>Ostovari</b> Shadi</a>
-,     <a href="../../../author/shayani_hooman"><b>Shayani</b> Hooman</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 65, No. 106719
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#layer`](keyword/layer)
-    [`#process`](keyword/process)
-    [`#shell`](keyword/shell)
-    [`#simulation`](keyword/simulation)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Simulation%20and%20Analysis%20of%20Automated%20Generalised%20Interleaved%20Layered%20Execution%20%28AGILE%29%20Process%20for%20Concrete%20Shell-Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195815888&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399662790" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2024.106719" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2024.106719?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There has been increased research and interest in new methods of automated construction. This study presents a novel computational model for an augmented and generalised version of an automated construction process that was previously tested experimentally only for vertical concrete walls. The Automated Generalised Interleaved Layer Execution (AGILE) utilises a robotic arm for the alternating deposition of formwork and concrete, aiming to facilitate the creation of free-form concrete shell structures with enhanced design and construction versatility, overcoming the constraints of previous methods. The paper proposes an FEA analysis framework for this construction methodology, evaluating its implications, limitations, and challenges via a detailed case study that includes calculating lateral pressures and displacements throughout the construction process. Moreover, it introduces new failure criteria specific to this construction method, enabling the optimisation of the design and geometry of the shell and formwork, as well as the construction process details and parameters. The proposed computational analysis method allows designers to improve the performance of a broader range of shell structures while reducing construction costs, time, complexity, and environmental impact by replacing early-stage experimental methods with finite-element analysis. In conclusion, apart from generalising the limited process and identifying its design options and parameters, this study proposes a new and straightforward computational method for analysis of the AGILE construction method in its general form in the absence of any other analysis method and where only the experimental method in one particular case was used before, identifies four different construction failure modes, and paves the way for experimental verification and calibration of this analysis method for different specific setups and applications of this general construction process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -77,7 +57,37 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../weng_li_wong_tan.2021.SCaBADSfILBSEi3CP/">Synchronized Concrete and Bonding-Agent-Deposition-System for Inter-Layer Bond Strength Enhancement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{osto_shay.2024.SaAoAGILEAPfCSS,
+      author            = "Shadi Ostovari and Hooman Shayani",
+      title             = "Simulation and Analysis of Automated Generalised Interleaved Layered Execution (AGILE) Process for Concrete Shell-Structures",
+      doi               = "10.1016/j.istruc.2024.106719",
+      year              = "2024",
+      journal           = "Structures",
+      volume            = "65",
+      pages             = "106719",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ostovari  and H. Shayani, “Simulation and Analysis of Automated Generalised Interleaved Layered Execution (AGILE) Process for Concrete Shell-Structures”, <i>Structures</i>, vol. 65, p. 106719, 2024, doi: 10.1016/j.istruc.2024.106719.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ostovari, Shadi, and Hooman Shayani. “Simulation and Analysis of Automated Generalised Interleaved Layered Execution (AGILE) Process for Concrete Shell-Structures”. <i>Structures</i> 65 (2024): 106719. https://doi.org/10.1016/j.istruc.2024.106719.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

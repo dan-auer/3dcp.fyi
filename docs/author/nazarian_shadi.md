@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Nazarian Shadi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../park_mema_hoja_radl.2024.EoAMBoNMCo3PCBwR/">Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement</a></li>
   <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hoja_sedg_li_mema.2024.FSo3PCB/">Flexural Strength of 3D Printed Concrete Beams:<br/>Exploring Barbed-Wire Reinforcement and Cross-Sectional Geometry</a></li>
   <li><a href="../../../author/baghi_ali"><b>Baghi</b> Ali</a>, <a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bagh_amin_mema_bile.2024.3CPoSSFvEC/">3D Concrete Printing of Self-Supported Filaments via Entrained Cables:<br/>Constructing Formwork-Free Spanning Structures</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Javier Madrid, Guillermo Ortega, Nils Olsson, José Tenorio Ríos
+    - footer
+title: Madrid Javier, Ortega Guillermo, Olsson Nils, Tenorio Ríos José
 description:
 tags:
  - architecture
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3989/ic.6627) 3D Constructing:<br/>:aca-blank: Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation ([2024-10](date/2024/10))
-<a href="https://doi.org/10.3989/ic.6627" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3989/ic.6627</a>
+#3D Constructing&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3989/ic.6627) <a href="https://doi.org/10.3989/ic.6627" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3989/ic.6627" target="_blank">10.3989/ic.6627</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/madrid_alonso_javier"><b>Madrid</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2213-1699" title="ORCID: 0000-0002-2213-1699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b>&nbsp;Guillermo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b>&nbsp;Nils</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0273-3414" title="ORCID: 0000-0002-0273-3414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b>&nbsp;José</a></span><br>
+Journal Article - Informes de la Construcción, Vol. 76, Iss. 574, No. 6627
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> <a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a> <a href="https://orcid.org/0000-0002-2213-1699" title="ORCID: 0000-0002-2213-1699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> <a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="https://orcid.org/0000-0002-0273-3414" title="ORCID: 0000-0002-0273-3414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Informes de la Construcción, Vol. 76, Iss. 574, No. 6627
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#exploration`](keyword/exploration)
-    [`#generation`](keyword/generation)
-    [`#innovation`](keyword/innovation)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Constructing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207135813&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403035823" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3989/ic.6627" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3989/ic.6627?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The architectural and construction sectors are experiencing a transformative shift with the advent of 3D constructing. This research delves into the potential of 3D printing technologies when combined with generative design principles to reshape traditional construction methods. Through a comprehensive lens, the study evaluates the generative design workflow, decision-making algorithms, machines capacities and material considerations. Results indicate that, when synergized with generative design, these technologies offer sustainable, efficient, and tailored solutions. The use of accesible materials, such as clay and cement, demonstrates their superiority over conventional alternatives. However, the challenge lies in harmoniously integrating these innovations into architectural practice, ensuring a balance between cutting-edge advancements and practical application. Conclusively, this new approach heralds a future of sustainable and user-centric design, but its full potential can only be tapped with a holistic strategy that encompasses both design and material facets.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -93,7 +70,38 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_sanj.2024.PL3CPUQNM/">Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{madr_orte_olss_teno.2024.3C,
+      author            = "Javier Alonso Madrid and Guillermo Sotorrío Ortega and Nils Olof Emanuel Olsson and José Antonio Tenorio Ríos",
+      title             = "3D Constructing: Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation",
+      doi               = "10.3989/ic.6627",
+      year              = "2024",
+      journal           = "Informes de la Construcción",
+      volume            = "76",
+      number            = "574",
+      pages             = "6627",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. A. Madrid, G. S. Ortega, N. O. E. Olsson and J. A. T. Ríos, “3D Constructing: Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation”, <i>Informes de la Construcción</i>, vol. 76, no. 574, p. 6627, 2024, doi: 10.3989/ic.6627.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Madrid, Javier Alonso, Guillermo Sotorrío Ortega, Nils Olof Emanuel Olsson, and José Antonio Tenorio Ríos. “3D Constructing: Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation”. <i>Informes De La Construcción</i> 76, no. 574 (2024): 6627. https://doi.org/10.3989/ic.6627.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

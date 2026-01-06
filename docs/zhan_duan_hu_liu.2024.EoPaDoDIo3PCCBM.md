@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongping Zhang, Shuni Duan, Zhichao Hu, Litao Liu, Qi Han
+    - footer
+title: Zhang Hongping, Duan Shuni, Hu Zhichao, Liu Litao, Han Qi
 description:
 tags:
  - base
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/17452759.2024.2391476) Evaluation of Plasticity and Determination of Deformation Index of 3D Printed Composite Cement-Based Materials ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1080/17452759.2024.2391476" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2391476</a>
+#Evaluation of Plasticity and Determination of Deformation Index of 3D Printed Composite Cement-Based Materials ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2391476) <a href="https://doi.org/10.1080/17452759.2024.2391476" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2391476" target="_blank">10.1080/17452759.2024.2391476</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9799-6374" title="ORCID: 0000-0001-9799-6374" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hongping"><b>Zhang</b>&nbsp;Hongping</a></span>, <a href="../../../author/duan_shuni"><b>Duan</b>&nbsp;Shuni</a></span>, <a href="../../../author/hu_zhichao"><b>Hu</b>&nbsp;Zhichao</a></span>, <a href="../../../author/liu_litao"><b>Liu</b>&nbsp;Litao</a></span>, <a href="../../../author/han_qi"><b>Han</b>&nbsp;Qi</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a> <a href="https://orcid.org/0000-0001-9799-6374" title="ORCID: 0000-0001-9799-6374" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duan_shuni"><b>Duan</b> Shuni</a>
-,     <a href="../../../author/hu_zhichao"><b>Hu</b> Zhichao</a>
-,     <a href="../../../author/liu_litao"><b>Liu</b> Litao</a>
-,     <a href="../../../author/han_qi"><b>Han</b> Qi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#deformation`](keyword/deformation)
-    [`#determination`](keyword/determination)
-    [`#evaluation`](keyword/evaluation)
-    [`#material`](keyword/material)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Plasticity%20and%20Determination%20of%20Deformation%20Index%20of%203D%20Printed%20Composite%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202971000&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402133402" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2391476" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2391476?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Given the current situation that the evaluation system of the deformation and instability failure of 3DPC is immature, this study was devoted to shaping the performance of 3DPC to provide new ideas and ways for exploring the stable forming of 3DPC. The relationship between the deformation in different directions and the number of layers was analysed. The deformation regulation of 3DPC was revealed, and the controllable index was determined. Results show that the vertical and horizontal deformation in the plastic state is correlated to evaluate the overall deformation by considering only the lateral deformation. The horizontal and vertical deformation of each layer decreases as the number of layers increases, forming a trapezoidal shape. The relationship between the horizontal deformation and the number of layers varies with the shape of the printed component. This relationship follows a linear pattern in the vertical direction and remains independent of the printing shape. The deformation process of 3DPC can be divided into three stages: linear deformation, elastoplastic, and plastic failure. The elastoplastic stage is identified as the primary stage, and the horizontal deformation begins here. Comparatively, the horizontal strain is more suitable for evaluating the plasticity of 3DPC than the vertical strain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
@@ -91,7 +67,37 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM/">Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_duan_hu_liu.2024.EoPaDoDIo3PCCBM,
+      author            = "Hongping Zhang and Shuni Duan and Zhichao Hu and Litao Liu and Qi Han",
+      title             = "Evaluation of Plasticity and Determination of Deformation Index of 3D Printed Composite Cement-Based Materials",
+      doi               = "10.1080/17452759.2024.2391476",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhang, S. Duan, Z. Hu, L. Liu and Q. Han, “Evaluation of Plasticity and Determination of Deformation Index of 3D Printed Composite Cement-Based Materials”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2391476.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Hongping, Shuni Duan, Zhichao Hu, Litao Liu, and Qi Han. “Evaluation of Plasticity and Determination of Deformation Index of 3D Printed Composite Cement-Based Materials”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2391476.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

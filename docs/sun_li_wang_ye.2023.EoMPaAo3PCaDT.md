@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bochao Sun, Peichen Li, Dianchao Wang, Jun Ye, Gaoyang Liu, Weijian Zhao
+    - footer
+title: Sun Bochao, Li Peichen, Wang Dianchao, Ye Jun, Liu Gaoyang, Zhao Weijian
 description:
 tags:
  - anisotropy
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.istruc.2023.03.045" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2023.03.045</a>
+#Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2023.03.045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.03.045" target="_blank">10.1016/j.istruc.2023.03.045</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_bochao"><b>Sun</b>&nbsp;Bochao</a></span>, <a href="../../../author/li_peichen"><b>Li</b>&nbsp;Peichen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dianchao"><b>Wang</b>&nbsp;Dianchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6857-7450" title="ORCID: 0000-0002-6857-7450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_jun"><b>Ye</b>&nbsp;Jun</a></span>, <a href="../../../author/liu_gaoyang"><b>Liu</b>&nbsp;Gaoyang</a></span>, <a href="../../../author/zhao_weijian"><b>Zhao</b>&nbsp;Weijian</a></span><br>
+Journal Article - Structures, Vol. 51, pp. 391-401
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a> <a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>
-,     <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a> <a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="https://orcid.org/0000-0002-6857-7450" title="ORCID: 0000-0002-6857-7450" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_gaoyang"><b>Liu</b> Gaoyang</a>
-,     <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 51, pp. 391-401
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#evaluation`](keyword/evaluation)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Mechanical%20Properties%20and%20Anisotropy%20of%203D%20Printed%20Concrete%20at%20Different%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150249386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4327948452" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2023.03.045" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2023.03.045?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In-situ printing leads to distinctive features of 3D printed concrete (3DPC) to conventional casting concrete, and the temperature of its service environment has significant impacts on the performance development of 3DPC. This emphasizes the importance of investigating the relationships between the structural strength and tempertures considering the characteristics of 3DPC. A maturity model that is suitable for 3DPC was therefore established via tests and least squares regression analysis of the tested results in this paper. The maturity model was verified and calibrated by examining the mechanical properties of 3DPC cured under both fixed and varied environmental temperatures. The anisotropy of the specimens with different temperatures and curing ages was also examined and discussed. It was observed that the proposed maturity model might be able to be applied to the in-place evaluation of early age mechanical properties of 3DPC, with a maximum error of 6.67% for compressive strength and 3.27% for flexural strength under outdoor temperature curing conditions. With the increase of age and curing temperature, the anisotropy parameter of compressive strength tends to approach the limit value obtained by Su. It was also found that there are no significant mechanical-anisotropic behaviors for flexural strength between Y and Z directions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -96,8 +72,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
@@ -125,4 +102,34 @@ tags:
       <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pal_chou_kapo.2024.IoVPPoMBoACC/">Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete</a></li>
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/hu_yan-ye"><b>Hu</b> Yan-Ye</a>, <a href="../../../author/cheng_song-gui"><b>Cheng</b> Song-Gui</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_qiu_hu_chen.2023.IFoMPaMCoU3PC/">Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_li_wang_ye.2023.EoMPaAo3PCaDT,
+      author            = "Bochao Sun and Peichen Li and Dianchao Wang and Jun Ye and Gaoyang Liu and Weijian Zhao",
+      title             = "Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures",
+      doi               = "10.1016/j.istruc.2023.03.045",
+      year              = "2023",
+      journal           = "Structures",
+      volume            = "51",
+      pages             = "391--401",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Sun, P. Li, D. Wang, J. Ye, G. Liu and W. Zhao, “Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures”, <i>Structures</i>, vol. 51, pp. 391–401, 2023, doi: 10.1016/j.istruc.2023.03.045.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Bochao, Peichen Li, Dianchao Wang, Jun Ye, Gaoyang Liu, and Weijian Zhao. “Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures”. <i>Structures</i> 51 (2023): 391–401. https://doi.org/10.1016/j.istruc.2023.03.045.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

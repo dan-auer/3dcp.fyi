@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mouad Nadi, Hicham Majdoubi, Younesse Haddaji, Oumaima Bili, Mohammed Chahid, Mina Oumam, Youssef Tamraoui, Hassan Hannache
+    - footer
+title: Nadi Mouad, Majdoubi Hicham, Haddaji Younesse, Bili Oumaima, Chahid Mohammed, Oumam Mina, Tamraoui Youssef, Hannache Hassan
 description:
 tags:
  - cement
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Fabrication Processes for Cementitious Materials Using Three-Dimensional 3D Printing Technologies ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/b978-0-443-23895-6.00023-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-23895-6.00023-6</a>
+#Digital Fabrication Processes for Cementitious Materials Using Three-Dimensional 3D Printing Technologies ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-23895-6.00023-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-23895-6.00023-6" target="_blank">10.1016/b978-0-443-23895-6.00023-6</a>
 
--------------------------
+<a href="../../../author/nadi_mouad"><b>Nadi</b>&nbsp;Mouad</a></span>, <a href="../../../author/majdoubi_hicham"><b>Majdoubi</b>&nbsp;Hicham</a></span>, <a href="../../../author/haddaji_younesse"><b>Haddaji</b>&nbsp;Younesse</a></span>, <a href="../../../author/bili_oumaima"><b>Bili</b>&nbsp;Oumaima</a></span>, <a href="../../../author/chahid_mohammed"><b>Chahid</b>&nbsp;Mohammed</a></span>, <a href="../../../author/oumam_mina"><b>Oumam</b>&nbsp;Mina</a></span>, <a href="../../../author/tamraoui_youssef"><b>Tamraoui</b>&nbsp;Youssef</a></span>, <a href="../../../author/hannache_hassan"><b>Hannache</b>&nbsp;Hassan</a></span><br>
+Contribution - Recent Developments and Innovations in the Sustainable Production of Concrete, pp. 595-620
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nadi_mouad"><b>Nadi</b> Mouad</a>
-,     <a href="../../../author/majdoubi_hicham"><b>Majdoubi</b> Hicham</a>
-,     <a href="../../../author/haddaji_younesse"><b>Haddaji</b> Younesse</a>
-,     <a href="../../../author/bili_oumaima"><b>Bili</b> Oumaima</a>
-,     <a href="../../../author/chahid_mohammed"><b>Chahid</b> Mohammed</a>
-,     <a href="../../../author/oumam_mina"><b>Oumam</b> Mina</a>
-,     <a href="../../../author/tamraoui_youssef"><b>Tamraoui</b> Youssef</a>
-,     <a href="../../../author/hannache_hassan"><b>Hannache</b> Hassan</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Developments and Innovations in the Sustainable Production of Concrete, pp. 595-620
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#digital`](keyword/digital)
-    [`#dimension`](keyword/dimension)
-    [`#fabrication`](keyword/fabrication)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#technology`](keyword/technology)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20Processes%20for%20Cementitious%20Materials%20Using%20Three-Dimensional%203D%20Printing%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218380396&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406567853" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-23895-6.00023-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-23895-6.00023-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector accounts for a substantial portion of global greenhouse gas emissions, contributing approximately 38% of the total, along with generating 40% of solid waste and consuming 12% of potable water (Billah, Azoubi, et al., 2023; Majdoubi, Billah, et al., 2023; Majdoubi, Alqadami, et al., 2023). With urbanization projected to reach 68% of the world’s population by 2050, the demand for built environment projects, construction activities, and concrete usage is anticipated to rise significantly (Bhattacherjee et al., 2021; Gengnagel et al., 2020). The evolution of three-dimensional (3D) printing and digitalization within the construction industry has been a journey marked by both challenges and breakthroughs (Bhattacherjee et al., 2021; De Schutter et al., 2018). Initially, traditional construction methods were fraught with inefficiencies, leading to high energy consumption, significant waste generation, and exorbitant costs (Majdoubi, Haddaji, et al., 2023; Nadi et al., 2023). The complexity involved in shaping specific structures further compounded these issues, making it challenging to achieve desired architectural designs within reasonable timeframes and budgets (Khan et al., 2023; Alhumayani et al., 2020; Ning et al., 2021). However, amid these challenges, the advent of digitalization and 3D printing (3DP) has emerged as a beacon of hope, offering innovative solutions to age-old problems (Khan et al., 2023; Adaloudis & Bonnin Roca, 2021; Pan et al., 2021). By leveraging digital technologies, architects and engineers can now create intricate designs with unprecedented precision and efficiency. The introduction of 3DP has revolutionized the construction process, allowing for the fabrication of complex structures layer by layer, thereby minimizing material waste and streamlining production timelines. Moreover, the integration of digitalization and 3DP has opened up new avenues for sustainable construction practices, as these technologies enable the use of environment-friendly materials and promote resource optimization (Billah et al., 2024; Hager et al., 2016; Xia et al., 2019). As we delve deeper into the intersection of digitalization and 3DP in construction, it becomes evident that these advancements are not merely reshaping the physical landscape but also revolutionizing the very essence of how we conceptualize and execute architectural projects (Han et al., 2021; Salaimanimagudam & Jayaprakash, 2022; Xia & Sanjayan, 2016; Buchli et al., 2018). In a world where technological innovation is constantly redefining the boundaries of construction and manufacturing, digital manufacturing processes for cementitious materials using 3DP technologies are emerging as a major revolution. This chapter delves into the heart of this revolution, exploring how 3DP, an emerging and transformative technology, is radically reshaping traditional manufacturing paradigms in the cement industry. By combining digital precision and design flexibility, these processes open up unprecedented pathways for creating complex architectural structures and elements while promising to reduce construction timescales and improve environmental sustainability. We will examine the fundamental principles underlying these innovative techniques, the challenges they pose, as well as the opportunities they offer to rethink the future of construction and architectural design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "83 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -157,8 +130,37 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shukla_kant_bishnu"><b>Shukla</b> Bishnu</a>, <a href="../../../author/bharti_gaurav"><b>Bharti</b> Gaurav</a>, <a href="../../../author/parashar_bhupender"><b>Parashar</b> Bhupender</a>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b> Pushpendra</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../shuk_bhar_para_shar.2025.VItPo3CPfSC/">Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction:<br/>Current Status and Future Prospects</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nadi_majd_hadd_bili.2025.DFPfCMUTD3PT,
+      author            = "Mouad Nadi and Hicham Majdoubi and Younesse Haddaji and Oumaima Bili and Mohammed Chahid and Mina Oumam and Youssef Tamraoui and Hassan Hannache",
+      title             = "Digital Fabrication Processes for Cementitious Materials Using Three-Dimensional 3D Printing Technologies",
+      doi               = "10.1016/b978-0-443-23895-6.00023-6",
+      year              = "2025",
+      pages             = "595--620",
+      booktitle         = "Recent Developments and Innovations in the Sustainable Production of Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Nadi, “Digital Fabrication Processes for Cementitious Materials Using Three-Dimensional 3D Printing Technologies”, in <i>Recent Developments and Innovations in the Sustainable Production of Concrete</i>,  2025, pp. 595–620. doi: 10.1016/b978-0-443-23895-6.00023-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nadi, Mouad, Hicham Majdoubi, Younesse Haddaji, Oumaima Bili, Mohammed Chahid, Mina Oumam, Youssef Tamraoui, and Hassan Hannache. “Digital Fabrication Processes for Cementitious Materials Using Three-Dimensional 3D Printing Technologies”. In <i>Recent Developments and Innovations in the Sustainable Production of Concrete</i>, 595–620, 2025. https://doi.org/10.1016/b978-0-443-23895-6.00023-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

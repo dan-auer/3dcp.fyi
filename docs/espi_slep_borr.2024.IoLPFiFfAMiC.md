@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Simon Espinosa, Martin Slepicka, André Borrmann
+    - footer
+title: Espinosa Simon, Slepicka Martin, Borrmann André
 description:
 tags:
  - additive
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction ([2024-06](date/2024/06))
-<a href="https://doi.org/10.22260/isarc2024/0013" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2024/0013</a>
+#Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0013" target="_blank">10.22260/isarc2024/0013</a>
 
--------------------------
+<a href="../../../author/espinosa_simon"><b>Espinosa</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
+Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/espinosa_simon"><b>Espinosa</b> Simon</a>
-,     <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a> <a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#feedback`](keyword/feedback)
-    [`#integration`](keyword/integration)
-    [`#laser`](keyword/laser)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#profiler`](keyword/profiler)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/laser"><button class="btn">#laser</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/profiler"><button class="btn">#profiler</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%20Laser%20Profiler%20Feedback%20into%20FIM%20for%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199627564&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,24 +37,47 @@ tags:
 <a href="https://inciteful.xyz/p/W4399043549" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2024/0013" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2024/0013?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research delves into the utilization of laser profiling technology within the realm of Three-Dimensional (3D) printing in the construction industry. The primary emphasis is on achieving a seamless integration of Fabrication Inforg g mation Modeling (FIM), Additive Manufacturing (AM), and Digital Twinning (DT). The study involves the capture of precise measurements at various stages and storing them as Point Cloud (PC) data. Moreover, the objective is to transform operational planning and enhance real-time “as-built” data generation by intricately mapping shape and height deviations and storing the corresponding data in the FIM model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/espinosa_simon"><b>Espinosa</b> Simon</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../espi_slep_borr.2024.IoLPFiFfAMiC/">Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction</a></li>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/helou_jalal"><b>Helou</b> Jalal</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../slep_helo_borr.2023.RTDERCIfFIM/">Real-Time Data Exchange Robot-Control Integration for Fabrication Information Modeling</a></li>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b> Simon</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../slep_vilg_borr.2022.FIM/">Fabrication Information Modeling:<br/>Interfacing Building Information Modeling with Digital Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../slep_borr.2024.FIMfCLDaQIiAMfC/">Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction</a></li>
-      <li><a href="../../../author/espinosa_simon"><b>Espinosa</b> Simon</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../espi_slep_borr.2024.IoLPFiFfAMiC/">Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{espi_slep_borr.2024.IoLPFiFfAMiC,
+      author            = "Simon Espinosa and Martin Slepicka and André Borrmann",
+      title             = "Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction",
+      doi               = "10.22260/isarc2024/0013",
+      year              = "2024",
+      booktitle         = "Proceedings of the 41st International Symposium on Automation and Robotics in Construction",
+      editor            = "Vincente Gonzalez-Moret and Jiansong Zhang and Borja García de Soto and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Espinosa, M. Slepicka and A. Borrmann, “Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction”, in <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>,  2024. doi: 10.22260/isarc2024/0013.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Espinosa, Simon, Martin Slepicka, and André Borrmann. “Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction”. In <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>, edited by Vincente Gonzalez-Moret, Jiansong Zhang, Borja García de Soto, and Ioannis Brilakis, 2024. https://doi.org/10.22260/isarc2024/0013.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

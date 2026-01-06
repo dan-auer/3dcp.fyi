@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yan Yang, Hangzi Wu, Lifang Han, Qingling Huang, Shuo Yang, Bai Shuo, Mingyang Feng
+    - footer
+title: Yang Yan, Wu Hangzi, Han Lifang, Huang Qingling, Yang Shuo, Shuo Bai, Feng Mingyang
 description:
 tags:
  - concrete
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation on Geometric and Surface Finish Quality of 3D Concrete Printed Walls with Hollow Section ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1177/13694332231222088" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1177/13694332231222088</a>
+#Investigation on Geometric and Surface Finish Quality of 3D Concrete Printed Walls with Hollow Section ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/13694332231222088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332231222088" target="_blank">10.1177/13694332231222088</a>
 
--------------------------
+<a href="../../../author/yang_yan"><b>Yang</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3930-9617" title="ORCID: 0000-0002-3930-9617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hangzi"><b>Wu</b>&nbsp;Hangzi</a></span>, <a href="../../../author/han_lifang"><b>Han</b>&nbsp;Lifang</a></span>, <a href="../../../author/huang_qingling"><b>Huang</b>&nbsp;Qingling</a></span>, <a href="../../../author/yang_shuo"><b>Yang</b>&nbsp;Shuo</a></span>, <a href="../../../author/shuo_bai"><b>Shuo</b>&nbsp;Bai</a></span>, <a href="../../../author/feng_mingyang"><b>Feng</b>&nbsp;Mingyang</a></span><br>
+Journal Article - Advances in Structural Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_yan"><b>Yang</b> Yan</a>
-,     <a href="../../../author/wu_hangzi"><b>Wu</b> Hangzi</a> <a href="https://orcid.org/0000-0002-3930-9617" title="ORCID: 0000-0002-3930-9617" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_lifang"><b>Han</b> Lifang</a>
-,     <a href="../../../author/huang_qingling"><b>Huang</b> Qingling</a>
-,     <a href="../../../author/yang_shuo"><b>Yang</b> Shuo</a>
-,     <a href="../../../author/shuo_bai"><b>Shuo</b> Bai</a>
-,     <a href="../../../author/feng_mingyang"><b>Feng</b> Mingyang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Structural Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#finish`](keyword/finish)
-    [`#geometry`](keyword/geometry)
-    [`#hollow`](keyword/hollow)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#section`](keyword/section)
-    [`#surface`](keyword/surface)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/finish"><button class="btn">#finish</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20Geometric%20and%20Surface%20Finish%20Quality%20of%203D%20Concrete%20Printed%20Walls%20with%20Hollow%20Section" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179737539&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389728128" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1177/13694332231222088" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1177/13694332231222088?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printed walls with hollow sections are now widely adopted in 3D concrete printing applications across the construction industry. One of the significant challenges in the printing process is achieving superior surface finishes. Previous research has predominantly focused on the overall geometry of these walls, often neglecting surface finish quality at the intersections of formwork and supporting filaments. This study is dedicated to optimizing the geometric arrangement of supporting filaments and enhancing print quality at these critical intersections. Firstly, two arrangement strategies, the standard approach and the average approach, are introduced to establish high-quality geometric section configurations, with practical demonstrations on both rectangular and arc-shaped walls. Subsequently, the width of concrete filaments is considered to enhance surface finish quality at the intersections. Two print quality control methods, namely the e-Δ control rule and the r-Δ control rule, are then developed. To assess the effectiveness of these arrangement strategies and control methods, configurations of walls with specific dimensions are compared, and printing experiments are conducted. Finally, recommendations for practical application are provided, aimed at improving both the geometric and surface finish quality of 3D concrete printed walls with hollow sections.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
@@ -103,8 +76,36 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/hackney_phil"><b>Hackney</b> Phil</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sunt_naga_pool_hack.2021.EoPFotWPoECM/">Effect of Polypropylene-Fibers on the Workability Parameters of Extrudable Cementitious Materials</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_wu_han_huan.2023.IoGaSFQo3CPWwHS,
+      author            = "Yan Yang and Hangzi Wu and Lifang Han and Qingling Huang and Shuo Yang and Bai Shuo and Mingyang Feng",
+      title             = "Investigation on Geometric and Surface Finish Quality of 3D Concrete Printed Walls with Hollow Section",
+      doi               = "10.1177/13694332231222088",
+      year              = "2023",
+      journal           = "Advances in Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yang, “Investigation on Geometric and Surface Finish Quality of 3D Concrete Printed Walls with Hollow Section”, <i>Advances in Structural Engineering</i>, 2023, doi: 10.1177/13694332231222088.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Yan, Hangzi Wu, Lifang Han, Qingling Huang, Shuo Yang, Bai Shuo, and Mingyang Feng. “Investigation on Geometric and Surface Finish Quality of 3D Concrete Printed Walls with Hollow Section”. <i>Advances in Structural Engineering</i>, 2023. https://doi.org/10.1177/13694332231222088.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

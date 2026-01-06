@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sungwoo Lim, Richard Buswell, Philip Valentine, Daniel Piker, Simon Austin, Xavier Kestelier
+    - footer
+title: Lim Sungwoo, Buswell Richard, Valentine Philip, Piker Daniel, Austin Simon, Kestelier Xavier
 description:
 tags:
  - component
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/articles/journal_contribution/Modelling_curved-layered_printing_paths_for_fabricating_large-scale_construction_components/9450128/1/files/17072150.pdf) Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components ([2016-06](date/2016/06))
-<a href="https://doi.org/10.1016/j.addma.2016.06.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2016.06.004</a>
+#Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components ([2016-06](date/2016/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/Modelling_curved-layered_printing_paths_for_fabricating_large-scale_construction_components/9450128/1/files/17072150.pdf) <a href="https://doi.org/10.1016/j.addma.2016.06.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2016.06.004" target="_blank">10.1016/j.addma.2016.06.004</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9371-2968" title="ORCID: 0000-0002-9371-2968" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_sungwoo"><b>Lim</b>&nbsp;Sungwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7711-5349" title="ORCID: 0000-0001-7711-5349" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valentine_j_philip"><b>Valentine</b>&nbsp;Philip</a></span>, <a href="../../../author/piker_daniel"><b>Piker</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/austin_a_simon"><b>Austin</b>&nbsp;Simon</a></span>, <a href="../../../author/kestelier_xavier"><b>de&nbsp;Kestelier</b>&nbsp;Xavier</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 12, pp. 216-230
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a> <a href="https://orcid.org/0000-0002-9371-2968" title="ORCID: 0000-0002-9371-2968" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a> <a href="https://orcid.org/0000-0001-7711-5349" title="ORCID: 0000-0001-7711-5349" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a>
-,     <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> <a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kestelier_xavier"><b>de Kestelier</b> Xavier</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 12, pp. 216-230
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#construction`](keyword/construction)
-    [`#curve`](keyword/curve)
-    [`#fabrication`](keyword/fabrication)
-    [`#large`](keyword/large)
-    [`#layer`](keyword/layer)
-    [`#model`](keyword/model)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modelling%20Curved-Layered%20Printing%20Paths%20for%20Fabricating%20Large-Scale%20Construction%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85006341342&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,25 +40,22 @@ tags:
 <a href="https://inciteful.xyz/p/W2412903523" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2016.06.004" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2016.06.004?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, a non-conventional way of additive manufacturing, curved-layered printing, has been applied to large-scale construction process. Despite the number of research works on Curved Layered Fused Deposition Modelling (CLFDM) over the last decade, few practical applications have been reported. An alternative method adopting the CLFDM principle, that generates a curved-layered printing path, was developed using a single scripting environment called Grasshopper – a plugin of Rhinoceros®. The method was evaluated with the 3D Concrete Printing process developed at Loughborough University. The evaluation of the method including the results of simulation and printing revealed three principal benefits compared with existing flat-layered printing paths, which are particularly beneficial to large-scale AM techniques: (i) better surface quality, (ii) shorter printing time and (iii) higher surface strengths.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "112 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bassi_utkarsh"><b>Bassi</b> Utkarsh</a>, <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/verma_kumar_yash"><b>Verma</b> Yash</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bass_saha_bish_verm.2026.DAaDoaB3CP/">Design Analysis and Development of a Benchtop 3D Concrete Printer</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/shukla_kant_bishnu"><b>Shukla</b> Bishnu</a>, <a href="../../../author/bharti_gaurav"><b>Bharti</b> Gaurav</a>, <a href="../../../author/parashar_bhupender"><b>Parashar</b> Bhupender</a>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b> Pushpendra</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../shuk_bhar_para_shar.2025.VItPo3CPfSC/">Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction:<br/>Current Status and Future Prospects</a></li>
@@ -193,4 +168,34 @@ tags:
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lim_busw_vale_pike.2016.MCLPPfFLSCC,
+      author            = "Sungwoo Lim and Richard A. Buswell and Philip J. Valentine and Daniel Piker and Simon A. Austin and Xavier de Kestelier",
+      title             = "Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components",
+      doi               = "10.1016/j.addma.2016.06.004",
+      year              = "2016",
+      journal           = "Additive Manufacturing",
+      volume            = "12",
+      pages             = "216--230",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Lim, R. A. Buswell, P. J. Valentine, D. Piker, S. A. Austin and X. de Kestelier, “Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components”, <i>Additive Manufacturing</i>, vol. 12, pp. 216–230, 2016, doi: 10.1016/j.addma.2016.06.004.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lim, Sungwoo, Richard A. Buswell, Philip J. Valentine, Daniel Piker, Simon A. Austin, and Xavier de Kestelier. “Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components”. <i>Additive Manufacturing</i> 12 (2016): 216–30. https://doi.org/10.1016/j.addma.2016.06.004.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

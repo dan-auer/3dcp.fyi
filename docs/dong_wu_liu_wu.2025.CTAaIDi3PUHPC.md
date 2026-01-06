@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Liang Dong, Chengqing Wu, Zhongxian Liu, Pengtao Wu, Ruizhe Shao, Quanchang Ren, Jiaojian Liu
+    - footer
+title: Dong Liang, Wu Chengqing, Liu Zhongxian, Wu Pengtao, Shao Ruizhe, Ren Quanchang, Liu Jiaojian
 description:
 tags:
  - anisotropy
@@ -22,41 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>:aca-blank: Multi-Scale Evaluation and Engineering Implications ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142722" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142722</a>
+#Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Multi-Scale Evaluation and Engineering Implications</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142722" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142722" target="_blank">10.1016/j.conbuildmat.2025.142722</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_liang"><b>Dong</b>&nbsp;Liang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <a href="../../../author/wu_pengtao"><b>Wu</b>&nbsp;Pengtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2648-6892" title="ORCID: 0000-0002-2648-6892" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shao_ruizhe"><b>Shao</b>&nbsp;Ruizhe</a></span>, <a href="../../../author/ren_quanchang"><b>Ren</b>&nbsp;Quanchang</a></span>, <a href="../../../author/liu_jiaojian"><b>Liu</b>&nbsp;Jiaojian</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 491, No. 142722
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> <a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-,     <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a>
-,     <a href="../../../author/shao_ruizhe"><b>Shao</b> Ruizhe</a> <a href="https://orcid.org/0000-0002-2648-6892" title="ORCID: 0000-0002-2648-6892" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a>
-,     <a href="../../../author/liu_jiaojian"><b>Liu</b> Jiaojian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 491, No. 142722
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#chloride`](keyword/chloride)
-    [`#concrete`](keyword/concrete)
-    [`#degradation`](keyword/degradation)
-    [`#engineered`](keyword/engineered)
-    [`#evaluation`](keyword/evaluation)
-    [`#height`](keyword/height)
-    [`#implication`](keyword/implication)
-    [`#interface`](keyword/interface)
-    [`#multi`](keyword/multi)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#transport`](keyword/transport)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/degradation"><button class="btn">#degradation</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Chloride%20Transport%20Anisotropy%20and%20Interfacial%20Degradation%20in%203D-Printed%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010558473&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412466209" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142722" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142722?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the chloride transport behaviour and interfacial degradation mechanisms of 3D-printed ultra-high-performance concrete (3DP-UHPC) under chloride exposure. A comprehensive comparison was conducted between different printing orientations (X, Y, Z) and mould-casting UHPC (MC-UHPC) in terms of mechanical performance, chloride diffusion, pore structure, and hydration product evolution. Long-term immersion tests in 3.5 % NaCl solution were performed, coupled with multi-scale characterisations including CT (computed tomography) -based 3D reconstruction, X-ray diffraction (XRD), Fourier-transform infrared spectroscopy (FTIR), and scanning electron microscopy with energy-dispersive spectroscopy (SEM-EDS) analyses. The results revealed a typical surface-enrichment and deep-layer shielding pattern of chloride penetration, strongly influenced by printing orientation. Notably, the 3D-Z direction exhibited enhanced interfacial density and superior resistance to chloride ingress, while the 3D-X direction showed the highest porosity, leading to severe localised degradation. Correlation models between porosity, chloride content, and C-S-H integrity were established, confirming a coupled mechanism wherein structural anisotropy governs ion transport and chloride accumulation drives interfacial deterioration. These findings provide engineering insight into the durability design of 3D-printed concrete structures and offer quantitative guidance for interfacial optimisation and printing process control.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
@@ -113,8 +83,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dong_wu_liu_wu.2025.CTAaIDi3PUHPC,
+      author            = "Liang Dong and Chengqing Wu and Zhongxian Liu and Pengtao Wu and Ruizhe Shao and Quanchang Ren and Jiaojian Liu",
+      title             = "Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete: Multi-Scale Evaluation and Engineering Implications",
+      doi               = "10.1016/j.conbuildmat.2025.142722",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "491",
+      pages             = "142722",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Dong, “Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete: Multi-Scale Evaluation and Engineering Implications”, <i>Construction and Building Materials</i>, vol. 491, p. 142722, 2025, doi: 10.1016/j.conbuildmat.2025.142722.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dong, Liang, Chengqing Wu, Zhongxian Liu, Pengtao Wu, Ruizhe Shao, Quanchang Ren, and Jiaojian Liu. “Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete: Multi-Scale Evaluation and Engineering Implications”. <i>Construction and Building Materials</i> 491 (2025): 142722. https://doi.org/10.1016/j.conbuildmat.2025.142722.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

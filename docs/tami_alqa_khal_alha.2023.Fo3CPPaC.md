@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adil Tamimi, Habib Alqamish, Ahlam Khaldoune, Haidar Alhaidary, Kamyar Shirvanimoghaddam
+    - footer
+title: Tamimi Adil, Alqamish Habib, Khaldoune Ahlam, Alhaidary Haidar, Shirvanimoghaddam Kamyar
 description:
 tags:
  - challenge
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/3/827/pdf?version=1679471995) Framework of 3D Concrete Printing Potential and Challenges ([2023-03](date/2023/03))
-<a href="https://doi.org/10.3390/buildings13030827" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13030827</a>
+#Framework of 3D Concrete Printing Potential and Challenges ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/3/827/pdf?version=1679471995) <a href="https://doi.org/10.3390/buildings13030827" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13030827" target="_blank">10.3390/buildings13030827</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tamimi_k_adil"><b>al&nbsp;Tamimi</b>&nbsp;Adil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8618-0019" title="ORCID: 0000-0002-8618-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alqamish_h_habib"><b>Alqamish</b>&nbsp;Habib</a></span>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b>&nbsp;Ahlam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3037-3655" title="ORCID: 0000-0002-3037-3655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alhaidary_haidar"><b>Alhaidary</b>&nbsp;Haidar</a></span>, <a href="../../../author/shirvanimoghaddam_kamyar"><b>Shirvanimoghaddam</b>&nbsp;Kamyar</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tamimi_k_adil"><b>al Tamimi</b> Adil</a> <a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a> <a href="https://orcid.org/0000-0002-8618-0019" title="ORCID: 0000-0002-8618-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>
-,     <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> <a href="https://orcid.org/0000-0002-3037-3655" title="ORCID: 0000-0002-3037-3655" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shirvanimoghaddam_kamyar"><b>Shirvanimoghaddam</b> Kamyar</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#framework`](keyword/framework)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Framework%20of%203D%20Concrete%20Printing%20Potential%20and%20Challenges" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151619202&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4353067004" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13030827" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13030827?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The technology of additive manufacturing, especially 3D concrete printing (3DCP), has been recently adopted in the construction industry as a viable alternative to traditional construction methods. Although the technology offers a wide variety of structural, economic, and environmental benefits, it is still restricted in use due to certain limitations that are still under research. This paper explains the fundamentals of the 3D printing process, its potential, challenges, as well as the different 3D printing systems. The recent literature is explored for recommended materials that possess the required properties for 3D printing, as well as reinforcement methods and techniques. This paper also reviews 3D printing extrusion using concrete and foam and explores the effect of both materials and extruding systems on the final product. The application of different additive construction systems with Building Information Modeling (BIM)-integrated algorithms are also discussed in this paper. It is believed that with providing a comprehensive knowledge of 3D printing for concrete construction, there is a huge potential to change the way cementitious materials are formulated and sustainability aspects are implemented, especially for complicated designs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "81 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -144,8 +124,11 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
@@ -183,4 +166,34 @@ tags:
       <li><a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/vieira_gomes_manuel"><b>Vieira</b> Manuel</a>, <a href="../../../author/oliveira_jose_miguel"><b>Oliveira</b> Miguel</a>, <a href="../../../author/yanamala_akhileswar"><b>Yanamala</b> Akhileswar</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../mcco_viei_oliv_yana.2023.3CP/">3D Concrete Printing:<br/>Factors Affecting the US and Portugal</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ungu_onut_isop_tara.2023.ANAf3PFRM/">A Novel Approach for 3D Printing Fiber-Reinforced Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tami_alqa_khal_alha.2023.Fo3CPPaC,
+      author            = "Adil K. Al Tamimi and Habib H. Alqamish and Ahlam Khaldoune and Haidar Alhaidary and Kamyar Shirvanimoghaddam",
+      title             = "Framework of 3D Concrete Printing Potential and Challenges",
+      doi               = "10.3390/buildings13030827",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. K. A. Tamimi, H. H. Alqamish, A. Khaldoune, H. Alhaidary and K. Shirvanimoghaddam, “Framework of 3D Concrete Printing Potential and Challenges”, <i>Buildings</i>, vol. 13, no. 3, 2023, doi: 10.3390/buildings13030827.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tamimi, Adil K. Al, Habib H. Alqamish, Ahlam Khaldoune, Haidar Alhaidary, and Kamyar Shirvanimoghaddam. “Framework of 3D Concrete Printing Potential and Challenges”. <i>Buildings</i> 13, no. 3 (2023). https://doi.org/10.3390/buildings13030827.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

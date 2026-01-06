@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tao Ding, Ziyue Wang, Haoran Liu, Jianzhuang Xiao
+    - footer
+title: Ding Tao, Wang Ziyue, Liu Haoran, Xiao Jianzhuang
 description:
 tags:
  - bar
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.engstruct.2023.115910" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.115910</a>
+#Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.115910" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.115910" target="_blank">10.1016/j.engstruct.2023.115910</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <a href="../../../author/wang_ziyue"><b>Wang</b>&nbsp;Ziyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_haoran"><b>Liu</b>&nbsp;Haoran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
+Journal Article - Engineering Structures, Vol. 283
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>
-,     <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> <a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 283, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#concrete`](keyword/concrete)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Simulation%20on%20Pull-Out%20Performance%20of%20Steel-Bar%20from%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149791552&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323844306" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.115910" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.115910?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, a finite element (FE) model for the pull-out test was established and verified to examine the influence of printed concrete-to-concrete interfaces on the pull-out performance of steel bar from 3D-printed concrete. The stress transfer, debonding process, and failure mechanism of 3D-printed specimen were revealed by detailed interfacial stress analysis. Moreover, the effects of the interfacial bond strength, filament size, angle between the steel bar and the printing direction (α), and bond length on the pull-out performance were intensively investigated. The numerical results showed that the failure pattern changed from the conventional pull-out failure to interfacial bond failure induced by 3D-printed concrete-to-concrete interfaces. Compared with the pullout specimen with α = 0◦, the peak load of pull-out specimen with α = 90◦ increases by 9.6%, which became the weakest when angle α = 30◦. Moreover, the failure mode was observed to be influenced by the relative strength of the interlayer and interstrip interfaces and their distributions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -85,8 +65,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yao_jiaxu"><b>Yao</b> Jiaxu</a>, <a href="../../../author/luo_jie"><b>Luo</b> Jie</a>, <a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/nagai_kohei"><b>Nagai</b> Kohei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../yao_luo_qiu_naga.2025.MMoACBaPOPo3PCwSBU3R/">Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM</a></li>
       <li><a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mukh.2025.3PCF/">3D-Printed Concrete Fracture:<br/>Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</a></li>
       <li><a href="../../../author/an_ning"><b>An</b> Ning</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a>, <a href="../../../author/xu_chuanhua"><b>Xu</b> Chuanhua</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../an_wang_wang_xu.2025.TCACMftIIo3PCCS/">Tension-Compression Anisotropic Cohesion Model for the Interlayer Interface of 3D-Printed Concrete Compression Specimens</a></li>
@@ -100,4 +80,33 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../rehm_perr_birr_kim.2023.RfQCiI3CPCwMCC/">Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete:<br/>A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../shah_li.2023.AIMfBAo3PCaEA/">An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_wang_liu_xiao.2023.SoPOPoSBf3PC,
+      author            = "Tao Ding and Ziyue Wang and Haoran Liu and Jianzhuang Xiao",
+      title             = "Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete",
+      doi               = "10.1016/j.engstruct.2023.115910",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "283",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ding, Z. Wang, H. Liu and J. Xiao, “Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete”, <i>Engineering Structures</i>, vol. 283, 2023, doi: 10.1016/j.engstruct.2023.115910.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Tao, Ziyue Wang, Haoran Liu, and Jianzhuang Xiao. “Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete”. <i>Engineering Structures</i> 283 (2023). https://doi.org/10.1016/j.engstruct.2023.115910.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

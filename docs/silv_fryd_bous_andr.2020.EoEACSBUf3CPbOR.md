@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wilson Silva, Hervé Fryda, Jean-Noël Bousseau, Pierre-Antoine Andreani, Thomas Andersen, Wilson Silva, Thomas Andersen
+    - footer
+title: Silva Wilson, Fryda Hervé, Bousseau Jean-Noël, Andreani Pierre-Antoine, Andersen Thomas, Silva Wilson, Andersen Thomas
 description:
 tags:
  - age
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry ([2019-07](date/2019/07))
-<a href="https://doi.org/10.1007/978-3-030-20216-3_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-20216-3_4</a>
+#Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry ([2019-07](date/2019/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-20216-3_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-20216-3_4" target="_blank">10.1007/978-3-030-20216-3_4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <a href="../../../author/fryda_herve"><b>Fryda</b>&nbsp;Hervé</a></span>, <a href="../../../author/bousseau_jean-noel"><b>Bousseau</b>&nbsp;Jean-Noël</a></span>, <a href="../../../author/andreani_pierre-antoine"><b>Andreani</b>&nbsp;Pierre-Antoine</a></span>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b>&nbsp;Thomas</a></span><br>
+Contribution - Proceedings of the 2019 International Conference on Additive Manufacturing, Modeling Systems and 3D Prototyping, pp. 35-47
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> <a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fryda_herve"><b>Fryda</b> Hervé</a>
-,     <a href="../../../author/bousseau_jean-noel"><b>Bousseau</b> Jean-Noël</a>
-,     <a href="../../../author/andreani_pierre-antoine"><b>Andreani</b> Pierre-Antoine</a>
-,     <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>
-,     <a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> <a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2019 International Conference on Additive Manufacturing, Modeling Systems and 3D Prototyping, pp. 35-47
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#evaluation`](keyword/evaluation)
-    [`#oscillation`](keyword/oscillation)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/oscillation"><button class="btn">#oscillation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Early-Age%20Concrete%20Structural%20Build-Up%20for%203D%20Concrete%20Printing%20by%20Oscillatory%20Rheometry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067418969&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2951614759" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-20216-3_4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-20216-3_4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper addresses the material buildability challenge in extrusionbased 3D Concrete Printing (3DCP) applications, since this is paramount to increase production rates of vertical elements such as columns. We utilized oscillatory rheology to determine the early-age structural build-up curves of 3DCP mixes comprising White Ordinary Portland Cement (OPC), Calcium Aluminate Cement (CAC), limestone filler, sand, viscosity modifying agent, retarder, and a plasticizer. Such curves served as basis to verify whether a geometry is printable, allowing for tuning the printing process parameters. The material characterization approach is validated through a case study, in which a column was designed – defining the structural build-up requirements – and printed using a robot-based 3DCP at a 0.68 m/h vertical build rate. Such case study and lessons thereof provide valuable insights into the link between design, material properties and 3DCP process parameters, setting the basis for a comprehensive study on the early-age structural build-up measurements to support 3DCP mix design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -81,8 +55,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kand_bodd_nant.2025.NRTPfPCo3PM/">Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/ramahi_siraj"><b>Ramahi</b> Siraj</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../irsh_cabi_fadl_rama.2024.WMUi3PCfSCA/">Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications:<br/>A Review</a></li>
       <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../prih_gupt_esma_moin.2024.TDBACEbRAM/">Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing</a></li>
@@ -108,4 +82,35 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{silv_fryd_bous_andr.2020.EoEACSBUf3CPbOR,
+      author            = "Wilson Ricardo Leal da Silva and Hervé Fryda and Jean-Noël Bousseau and Pierre-Antoine Andreani and Thomas Juul Andersen and Wilson Ricardo Leal da Silva and Thomas Juul Andersen",
+      title             = "Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry",
+      doi               = "10.1007/978-3-030-20216-3_4",
+      year              = "2020",
+      volume            = "975",
+      pages             = "35--47",
+      booktitle         = "Proceedings of the 2019 International Conference on Additive Manufacturing, Modeling Systems and 3D Prototyping",
+      editor            = "Massimo di Nicolantonio and Emilio Rossi and Thomas Alexander",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. R. L. da Silva, “Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry”, in <i>Proceedings of the 2019 International Conference on Additive Manufacturing, Modeling Systems and 3D Prototyping</i>,  2020, vol. 975, pp. 35–47. doi: 10.1007/978-3-030-20216-3_4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silva, Wilson Ricardo Leal da, Hervé Fryda, Jean-Noël Bousseau, Pierre-Antoine Andreani, Thomas Juul Andersen, Wilson Ricardo Leal da Silva, and Thomas Juul Andersen. “Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry”. In <i>Proceedings of the 2019 International Conference on Additive Manufacturing, Modeling Systems and 3D Prototyping</i>, edited by Massimo di Nicolantonio, Emilio Rossi, and Thomas Alexander, 975:35–47, 2020. https://doi.org/10.1007/978-3-030-20216-3_4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

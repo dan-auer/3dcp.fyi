@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Francesco Soave, Giovanni Muciaccia, Liberato Ferrara
+    - footer
+title: Soave Francesco, Muciaccia Giovanni, Ferrara Liberato
 description:
 tags:
  - bond
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-# Experimental Setup for Shear and Inter-Layer Bonding in a 3D Printed Concrete Framework ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408171005-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408171005-0</a>
+#Experimental Setup for Shear and Inter-Layer Bonding in a 3D Printed Concrete Framework ([2024-09](date/2024/09))
+ <a href="https://doi.org/10.24355/dbbs.084-202408171005-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408171005-0" target="_blank">10.24355/dbbs.084-202408171005-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2763-1430" title="ORCID: 0000-0002-2763-1430" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soave_francesco"><b>Soave</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1224-5449" title="ORCID: 0000-0002-1224-5449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b>&nbsp;Giovanni</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/soave_francesco"><b>Soave</b> Francesco</a> <a href="https://orcid.org/0000-0002-2763-1430" title="ORCID: 0000-0002-2763-1430" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b> Giovanni</a> <a href="https://orcid.org/0000-0002-1224-5449" title="ORCID: 0000-0002-1224-5449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#framework`](keyword/framework)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#setup`](keyword/setup)
-    [`#shear`](keyword/shear)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setup"><button class="btn">#setup</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Setup%20for%20Shear%20and%20Inter-Layer%20Bonding%20in%20a%203D%20Printed%20Concrete%20Framework" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6963982295" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408171005-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408171005-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) represents a revolutionary advancement in the construction industry, fundamentally reshaping traditional construction methods. This cutting-edge technology not only holds the promise of enabling the construction of architecturally optimized structures but also addresses crucial issues including material conservation and streamlined construction processes. However, the complex nature of 3DCP poses challenges in order to fully unlock its potential. The primary focus is on scrutinizing the bond strength between consecutively deposited layers, a critical factor influencing structural integrity and the overall quality of printed structures. The strength of this bond depends on several factors, including surface moisture, temperature, surface roughness, and the times of the printing process as related to the material strength development, affecting the formation of cold joints and collectively governing structural quality and reliability. Existing literature has explored various methodologies to improve this bonding parameter, such as wire mesh, U-nails, steel reinforcement, and fibers. This study introduces an inventive approach utilizing stainless steel nails for establishing interlayer connections. In the context of this research project, the primary objective was to evaluate the enhancement to bond strength between successive layers of fresh concrete in the additive manufacturing process. A specialized testing configuration, consisting of a shear box equipped with two “chambers”, was employed. In this setup, the initial layer underwent 3D printing in the lower chamber, followed by the deposition of the second layer in the upper chamber, accompanied by the positioning of reinforcement nails. This approach facilitated a meticulous assessment of bond quality between these layers. The methodology enabled the identification of variations in bond strength and allowed for time-dependent tests to monitor the initiation and progression of cold joint formation, if any. Notably, different deposition times for the second layer in the upper chamber were explored, ranging from one minute after the first layer to as long as 60 minutes later, following the insertion of reinforcements. This research has provided valuable insights into the pivotal domain of interlayer bonding in 3DCP, illustrating how the integration of specific reinforcements throughout the structure can enhance this parameter and how it evolves over time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
@@ -75,7 +53,36 @@ tags:
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moei_hoss_yahi.2022.3PoCBMwAB/">3D Printing of Cement-Based Materials with Adapted Buildability</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{soav_muci_ferr.2024.ESfSaILBia3PCF,
+      author            = "Francesco Soave and Giovanni Muciaccia and Liberato Ferrara",
+      title             = "Experimental Setup for Shear and Inter-Layer Bonding in a 3D Printed Concrete Framework",
+      doi               = "10.24355/dbbs.084-202408171005-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Soave, G. Muciaccia and L. Ferrara, “Experimental Setup for Shear and Inter-Layer Bonding in a 3D Printed Concrete Framework”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408171005-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Soave, Francesco, Giovanni Muciaccia, and Liberato Ferrara. “Experimental Setup for Shear and Inter-Layer Bonding in a 3D Printed Concrete Framework”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408171005-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

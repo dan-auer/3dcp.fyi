@@ -8,7 +8,8 @@ search:
 
 # #early
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_suik.2025.CoEAEPPo3PMUIT/">Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing</a></li>
   <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
   <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>

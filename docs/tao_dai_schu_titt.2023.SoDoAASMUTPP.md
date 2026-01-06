@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Xiaodi Dai, Geert Schutter, Kim Tittelboom
+    - footer
+title: Tao Yaxin, Dai Xiaodi, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - activation
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Set-on-Demand of Alkali-Activated Slag Mixture Using Twin-Pipe Pumping ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132003</a>
+#Set-on-Demand of Alkali-Activated Slag Mixture Using Twin-Pipe Pumping ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132003" target="_blank">10.1016/j.conbuildmat.2023.132003</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_xiaodi"><b>Dai</b>&nbsp;Xiaodi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 392, No. 132003
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> <a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 392, No. 132003
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#demand`](keyword/demand)
-    [`#mixture`](keyword/mixture)
-    [`#pipe`](keyword/pipe)
-    [`#pump`](keyword/pump)
-    [`#setting`](keyword/setting)
-    [`#slag`](keyword/slag)
-    [`#twin`](keyword/twin)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Set-on-Demand%20of%20Alkali-Activated%20Slag%20Mixture%20Using%20Twin-Pipe%20Pumping" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163330374&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4379137249" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To achieve the set-on-demand purpose of concrete for digital fabrication where the opposing requirements for pumpability and buildability exist during the process, an inline mixing strategy, named twin-pipe pumping, has been developed utilizing a static mixer to blend two separate streams to accelerate setting right before extrusion. The system was initially developed utilizing two streams including a Portland cement-based mixture (without accelerator) and a limestone powder-based mixture (with an accelerator but without cement). However, the high content of cement may result in higher material costs along with lower sustainability, given the fact that the production of Portland cement contributes to around 8% of global CO2 emissions. This study aims to develop an alkali-activated slag mixture to increase the sustainability in digital fabrication, using twin-pipe pumping. The constituent mixtures consisting of a slag-based (without alkali) and a limestone powder-based (with varying alkali content) mix were formulated and their rheological behavior was measured for good pumpability. Phase transition from liquid to solid phase, mechanical strength, and pore structure was evaluated. Twin-pipe pumping was used in a printing trial. Results showed that the alkali-activated slag mixture achieved fast phase transition for set-on-demand purposes by combining the alkali in the limestone-based mixture with the slag in the slag-based mixture. Increasing the NaOH concentration or incorporating nano clay improved the structural build-up for high buildability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
@@ -95,8 +72,8 @@ tags:
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zuo_tao_huan_zhan.2025.RTTMtEtSEo3PC/">Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete:<br/>From Lab to In-Situ Printing</a></li>
@@ -107,4 +84,34 @@ tags:
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ding_luchuan"><b>Ding</b> Luchuan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../dai_tao_zhan_ding.2024.Do3PAASMC/">Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../tao_moha_rahu_schu.2024.HaMoCSPCBSfSoDA/">Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_dai_schu_titt.2023.SoDoAASMUTPP,
+      author            = "Yaxin Tao and Xiaodi Dai and Geert de Schutter and Kim van Tittelboom",
+      title             = "Set-on-Demand of Alkali-Activated Slag Mixture Using Twin-Pipe Pumping",
+      doi               = "10.1016/j.conbuildmat.2023.132003",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "392",
+      pages             = "132003",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, X. Dai, G. de Schutter and K. van Tittelboom, “Set-on-Demand of Alkali-Activated Slag Mixture Using Twin-Pipe Pumping”, <i>Construction and Building Materials</i>, vol. 392, p. 132003, 2023, doi: 10.1016/j.conbuildmat.2023.132003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Xiaodi Dai, Geert de Schutter, and Kim van Tittelboom. “Set-on-Demand of Alkali-Activated Slag Mixture Using Twin-Pipe Pumping”. <i>Construction and Building Materials</i> 392 (2023): 132003. https://doi.org/10.1016/j.conbuildmat.2023.132003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

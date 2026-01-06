@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Patrick Bedarf, Alessandro Dutto, Michele Zanini, Benjamin Dillenburger
+    - footer
+title: Bedarf Patrick, Dutto Alessandro, Zanini Michele, Dillenburger Benjamin
 description:
 tags:
  - application
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2021.103861) Foam 3D Printing for Construction:<br/>:aca-blank: A Review of Applications, Materials, and Processes ([2021-08](date/2021/08))
-<a href="https://doi.org/10.1016/j.autcon.2021.103861" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2021.103861</a>
+#Foam 3D Printing for Construction&nbsp;([2021-08](date/2021/08))
+<div class="h1-like">A Review of Applications, Materials, and Processes</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2021.103861) <a href="https://doi.org/10.1016/j.autcon.2021.103861" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103861" target="_blank">10.1016/j.autcon.2021.103861</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bedarf_patrick"><b>Bedarf</b>&nbsp;Patrick</a></span>, <a href="../../../author/dutto_alessandro"><b>Dutto</b>&nbsp;Alessandro</a></span>, <a href="../../../author/zanini_michele"><b>Zanini</b>&nbsp;Michele</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Journal Article - Automation in Construction, Vol. 130
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a> <a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>
-,     <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 130, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#construction`](keyword/construction)
-    [`#foam`](keyword/foam)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Foam%203D%20Printing%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111652210&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3192563598" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2021.103861" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2021.103861?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale additive manufacturing for construction has gained momentum during the last two decades as a promising fabrication technology that can save materials, labor, and costs. Although foams are a significant material group in construction and explored in 3D printing (3DP) studies, no comprehensive review about this field exists to date. Consequently, the aim of this review is to define the field of foam 3DP (F3DP) in construction and provide an overview of relevant developments, challenges, and future research. Based on the analysis of more than 150 peer-reviewed articles and research reports, three major themes within the academic debate about F3DP could be identified: developments in material composition and material design, printing and processing technologies, and future challenges in application and material processing development. This review brings together promising advancements in F3DP for construction into a systematic overview and opens new horizons in research and development for sustainable construction processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b> Dinorah</a>, <a href="../../../author/senol_ayca"><b>Şenol</b> Ayça</a>, <a href="../../../author/jeoffroy_etienne"><b>Jeoffroy</b> Etienne</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../beda_schu_seno_jeof.2021.R3PoMFfaLCFSP/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Facade Shading Panel</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -96,8 +76,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "50 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
       <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
       <li><a href="../../../author/liang_jingwen"><b>Liang</b> Jingwen</a>, <a href="../../../author/zeng_zuo"><b>Zeng</b> Zuo</a>, <a href="../../../author/wang_penglin"><b>Wang</b> Penglin</a>, <a href="../../../author/wang_zhongxu"><b>Wang</b> Zhongxu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lian_zeng_wang_wang.2025.ERM3PS/">Emergency Response Mobile 3D Printing System:<br/>A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges</a></li>
@@ -149,4 +129,33 @@ tags:
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{beda_dutt_zani_dill.2021.F3PfC,
+      author            = "Patrick Bedarf and Alessandro Dutto and Michele Zanini and Benjamin Dillenburger",
+      title             = "Foam 3D Printing for Construction: A Review of Applications, Materials, and Processes",
+      doi               = "10.1016/j.autcon.2021.103861",
+      year              = "2021",
+      journal           = "Automation in Construction",
+      volume            = "130",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Bedarf, A. Dutto, M. Zanini and B. Dillenburger, “Foam 3D Printing for Construction: A Review of Applications, Materials, and Processes”, <i>Automation in Construction</i>, vol. 130, 2021, doi: 10.1016/j.autcon.2021.103861.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bedarf, Patrick, Alessandro Dutto, Michele Zanini, and Benjamin Dillenburger. “Foam 3D Printing for Construction: A Review of Applications, Materials, and Processes”. <i>Automation in Construction</i> 130 (2021). https://doi.org/10.1016/j.autcon.2021.103861.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

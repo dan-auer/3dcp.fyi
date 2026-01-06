@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kailun Xia, Yuning Chen, Yu Chen, Zijian Jia, Lutao Jia, Yueyi Gao, Yamei Zhang
+    - footer
+title: Xia Kailun, Chen Yuning, Chen Yu, Jia Zijian, Jia Lutao, Gao Yueyi, Zhang Yamei
 description:
 tags:
  - base
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.addma.2024.104132" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104132</a>
+#Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104132" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104132" target="_blank">10.1016/j.addma.2024.104132</a>
 
--------------------------
+<a href="../../../author/xia_kailun"><b>Xia</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/gao_yueyi"><b>Gao</b>&nbsp;Yueyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Additive Manufacturing, No. 104132
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104132
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#creep`](keyword/creep)
-    [`#deformation`](keyword/deformation)
-    [`#model`](keyword/model)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/creep"><button class="btn">#creep</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Understanding%20and%20Modeling%20the%20Plastic%20Deformation%20of%203D%20Printed%20Concrete%20Based%20on%20Viscoelastic%20Creep%20Behavior" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190305067&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394793333" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104132" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104132?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) is susceptible to plastic deformation, for example, plastic shrinkage and plastic settlement, due to the absence of formwork. Monitoring and determining plastic deformation of 3DPC in large-scale construction remains challenging. In this study, we developed an analytical modeling method for predicting plastic deformation based on the creep behavior of 3DPC. A new creep model with high fitting accuracy was proposed for capturing creep characteristics over different resting time and applied stress level. Feasible acquisition of model parameters was achieved by correlating creep test results with UUCT (unconfined uniaxial compressive test) results. A multi-parameter modeling procedure based on superposition principle was then developed, and further validated by experimental results. This research may contribute to a better understanding and assessment of the plastic deformation of 3DPC in digital construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
       <li><a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../espo_casa_menn_aspr.2021.EACBo3PM/">Early-Age Creep Behavior of 3D Printable Mortars:<br/>Experimental Characterisation and Analytical Modelling</a></li>
       <li><a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b> Sadegh</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/kruger_markus"><b>Krüger</b> Markus</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ghou_butl_krug_mech.2021.MtDoCPiF3PCE/">Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements</a></li>
@@ -95,8 +69,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
@@ -110,4 +84,33 @@ tags:
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lim_tan.2024.ARMfCAM/">A Rheological Model for Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_xia_dong_cao.2024.AMCCMCPCfBMiC3P/">A Mechanical Characteristic Capture-Method Considering Printing-Configurations for Buildability-Modeling in Concrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xia_chen_chen_jia.2024.UaMtPDo3PCBoVCB,
+      author            = "Kailun Xia and Yuning Chen and Yu Chen and Zijian Jia and Lutao Jia and Yueyi Gao and Yamei Zhang",
+      title             = "Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior",
+      doi               = "10.1016/j.addma.2024.104132",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104132",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Xia, “Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior”, <i>Additive Manufacturing</i>, p. 104132, 2024, doi: 10.1016/j.addma.2024.104132.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xia, Kailun, Yuning Chen, Yu Chen, Zijian Jia, Lutao Jia, Yueyi Gao, and Yamei Zhang. “Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior”. <i>Additive Manufacturing</i>, 2024, 104132. https://doi.org/10.1016/j.addma.2024.104132.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

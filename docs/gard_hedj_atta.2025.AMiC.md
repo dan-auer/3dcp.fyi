@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Julien Gardan, Lofti Hedjazi, Ali Attajer
+    - footer
+title: Gardan Julien, Hedjazi Lofti, Attajer Ali
 description:
 tags:
  - additive
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.36680/j.itcon.2025.005) Additive Manufacturing in Construction:<br/>:aca-blank: State of the Art and Emerging Trends in Civil Engineering ([2025-02](date/2025/02))
-<a href="https://doi.org/10.36680/j.itcon.2025.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.36680/j.itcon.2025.005</a>
+#Additive Manufacturing in Construction&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">State of the Art and Emerging Trends in Civil Engineering</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.36680/j.itcon.2025.005) <a href="https://doi.org/10.36680/j.itcon.2025.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.36680/j.itcon.2025.005" target="_blank">10.36680/j.itcon.2025.005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6521-4526" title="ORCID: 0000-0001-6521-4526" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gardan_julien"><b>Gardan</b>&nbsp;Julien</a></span>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b>&nbsp;Lofti</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1567-8653" title="ORCID: 0000-0002-1567-8653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/attajer_ali"><b>Attajer</b>&nbsp;Ali</a></span><br>
+Journal Article - Journal of Information Technology in Construction, Vol. 30, pp. 92-112
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gardan_julien"><b>Gardan</b> Julien</a> <a href="https://orcid.org/0000-0001-6521-4526" title="ORCID: 0000-0001-6521-4526" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a>
-,     <a href="../../../author/attajer_ali"><b>Attajer</b> Ali</a> <a href="https://orcid.org/0000-0002-1567-8653" title="ORCID: 0000-0002-1567-8653" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Information Technology in Construction, Vol. 30, pp. 92-112
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#emergent`](keyword/emergent)
-    [`#engineered`](keyword/engineered)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#state`](keyword/state)
-    [`#trend`](keyword/trend)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219584729&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407868855" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.36680/j.itcon.2025.005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.36680/j.itcon.2025.005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     For decades, there has been an increasing interest in the development of Additive Manufacturing (AM) in both the construction industry and civil engineering. The rapid evolution of this field requires a review to maintain a global vision. This has led to the emergence of large robotic arm and gantry systems capable of printing building components using various materials such as concrete, including supplementary cementitious materials or natural fibres. Other less recent technologies, such as Fused Deposition Modelling and Laminated Object Manufacturing contribute to the production of components for construction. AM offers several advantages including automated production processes and design flexibility for complex geometry. This article provides an overview of the current state of AM in construction, including an examination of engineering and AM processes, concretes and reinforced materials, advanced materials, and the development of new applications. Additionally, the article discusses recent standards for 3D Concrete Printing. It is aimed at those seeking a comprehensive understanding of AM and its applications in construction 5.0.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -95,11 +76,41 @@ tags:
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a>, <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB/">Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building</a></li>
       <li><a href="../../../author/disu_oluwatimilehin"><b>Disu</b> Oluwatimilehin</a>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a>, <a href="../../../author/wood_luke"><b>Wood</b> Luke</a>, <a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b> Andreas</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../disu_isma_wood_chry.2025.ESoBo3PCBSUAS/">Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gard_hedj_atta.2025.AMiC,
+      author            = "Julien Gardan and Lofti Hedjazi and Ali Attajer",
+      title             = "Additive Manufacturing in Construction: State of the Art and Emerging Trends in Civil Engineering",
+      doi               = "10.36680/j.itcon.2025.005",
+      year              = "2025",
+      journal           = "Journal of Information Technology in Construction",
+      volume            = "30",
+      pages             = "92--112",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Gardan, L. Hedjazi and A. Attajer, “Additive Manufacturing in Construction: State of the Art and Emerging Trends in Civil Engineering”, <i>Journal of Information Technology in Construction</i>, vol. 30, pp. 92–112, 2025, doi: 10.36680/j.itcon.2025.005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gardan, Julien, Lofti Hedjazi, and Ali Attajer. “Additive Manufacturing in Construction: State of the Art and Emerging Trends in Civil Engineering”. <i>Journal of Information Technology in Construction</i> 30 (2025): 92–112. https://doi.org/10.36680/j.itcon.2025.005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

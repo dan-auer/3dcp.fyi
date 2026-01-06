@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ki-Yeol Kim, Dong-Kyu Lim, Myoungsung Choi
+    - footer
+title: Kim Ki-Yeol, Lim Dong-Kyu, Choi Myoungsung
 description:
 tags:
  - cement
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Comparison of Pumping Mechanism for Various Cementitious Materials ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05289" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05289</a>
+#Comparison of Pumping Mechanism for Various Cementitious Materials ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05289" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05289" target="_blank">10.1016/j.cscm.2025.e05289</a>
 
--------------------------
+<a href="../../../author/kim_ki-yeol"><b>Kim</b>&nbsp;Ki-Yeol</a></span>, <a href="../../../author/lim_dong-kyu"><b>Lim</b>&nbsp;Dong-Kyu</a></span>, <a href="../../../author/choi_myoungsung"><b>Choi</b>&nbsp;Myoungsung</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05289
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kim_ki-yeol"><b>Kim</b> Ki-Yeol</a>
-,     <a href="../../../author/lim_dong-kyu"><b>Lim</b> Dong-Kyu</a>
-,     <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05289
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#comparison`](keyword/comparison)
-    [`#material`](keyword/material)
-    [`#mechanism`](keyword/mechanism)
-    [`#pump`](keyword/pump)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Pumping%20Mechanism%20for%20Various%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020428515&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7081967163" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05289" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05289?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the pumping mechanisms within pipes during the pumping of various cementitious materials, including normal concrete, 3D printing concrete, and high-density mortar. The distinct rheological properties of each material were assessed using rheological measurements, which facilitated the analysis of their behavior during pumping. Pumping experiments were conducted to evaluate the physical properties of the materials under varying conditions of pumping pressure, flow rate, and filling rate. By systematically comparing and analyzing the results, this study offers a comprehensive understanding of the pumping mechanisms for these three cementitious materials, ensuring the accurate assessment and optimization of their pumping performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/park_kyoungsoo"><b>Park</b> Kyoungsoo</a>, <a href="../../../author/oh_taekeun"><b>Oh</b> Taekeun</a> <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../choi_park_oh.2016.VPoFCPtStFB/">Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior</a></li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/le_d_h"><b>Le</b> H.</a>, <a href="../../../author/kadri_hadj"><b>Kadri</b> Hadj</a>, <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a>, <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> et al. <a href="../../../date/2015/01">(2015-01)</a><br><a href="../../../le_kadr_aggo_vier.2015.EoLLoVPoCiaPP/">Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe</a></li>
@@ -74,7 +55,36 @@ tags:
       <li><a href="../../../author/tu_haidong"><b>Tu</b> Haidong</a>, <a href="../../../author/wei_zhenyun"><b>Wei</b> Zhenyun</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/kahla_nabil"><b>Kahla</b> Nabil</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tu_wei_bahr_kahl.2023.RAaFTi3PCUWM/">Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials</a></li>
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../xie_zhan_shi_liu.2022.PoLLPoPCBoFIPM/">Prediction of Lubrication-Layer Properties of Pumped Concrete Based on Flow-Induced Particle-Migration</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kim_lim_choi.2025.CoPMfVCM,
+      author            = "Ki-Yeol Kim and Dong-Kyu Lim and Myoungsung Choi",
+      title             = "Comparison of Pumping Mechanism for Various Cementitious Materials",
+      doi               = "10.1016/j.cscm.2025.e05289",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05289",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-Y. Kim, D.-K. Lim and M. Choi, “Comparison of Pumping Mechanism for Various Cementitious Materials”, <i>Case Studies in Construction Materials</i>, p. e05289, 2025, doi: 10.1016/j.cscm.2025.e05289.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kim, Ki-Yeol, Dong-Kyu Lim, and Myoungsung Choi. “Comparison of Pumping Mechanism for Various Cementitious Materials”. <i>Case Studies in Construction Materials</i>, 2025, e05289. https://doi.org/10.1016/j.cscm.2025.e05289.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

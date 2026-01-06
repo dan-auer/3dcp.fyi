@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hussam Alghamdi, Narayanan Neithalath
+    - footer
+title: Alghamdi Hussam, Neithalath Narayanan
 description:
 tags:
  - buildability
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0958946519306365) Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials ([2019-07](date/2019/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2019.103377" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2019.103377</a>
+#Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials ([2019-07](date/2019/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0958946519306365) <a href="https://doi.org/10.1016/j.cemconcomp.2019.103377" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2019.103377" target="_blank">10.1016/j.cemconcomp.2019.103377</a>
 
--------------------------
+<a href="../../../author/alghamdi_hussam"><b>Alghamdi</b>&nbsp;Hussam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 104
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 104, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#characteristic`](keyword/characteristic)
-    [`#efficient`](keyword/efficient)
-    [`#envelope`](keyword/envelope)
-    [`#foam`](keyword/foam)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#synthesis`](keyword/synthesis)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/synthesis"><button class="btn">#synthesis</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Synthesis%20and%20Characterization%20of%203D%20Printable%20Geopolymeric%20Foams%20for%20Thermally%20Efficient%20Building%20Envelope%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85069637809&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2962929317" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2019.103377" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2019.103377?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Synthesis and characterization of 3D-printable foamed fly ash-based geopolymer matrices for thermal insulation is the focus of this paper. A surfactant-based foaming process, multi-step mixing that ensures foam jamming transition and thus a dry foam, and microstructural packing to ensure adequate skeletal density are implemented to develop foamed suspensions amenable to 3D-printing. The foamed suspensions show lower yield stress with increasing surfactant contents, especially above the foam jamming transition. The mixtures demonstrate adequate extrudability, shape retention, and buildability. The geopolymeric foams show porosities ranging from 55 to 75% and bulk densities from 0.6 to 1.0 g/cm3, and these properties are similar irrespective of whether the mixtures are extruded or conventionally cast. The thermal conductivities of the foamed matrices range from 0.15 to 0.25 W/m-K. It is shown that designed architectures that minimize heat transfer can be printed using foamed matrices to obtain sandwich wall panels with thermal insulation properties comparable to or better than those of currently available insulated concrete wall panels. This positions 3D-printing as a strategy to develop composite systems with previously unattainable thermal performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -89,8 +68,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "58 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
@@ -150,4 +129,33 @@ tags:
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/panda_subhashree"><b>Panda</b> Subhashree</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../nair_pand_sant_sant.2020.ACEotIoMCaEGo3PoCB/">A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../pand_ruan_unlu_tan.2020.IotPoAASMItUoNCaNSf3P/">Investigation of the Properties of Alkali-Activated Slag Mixes Involving the Use of Nano-Clay and Nucleation-Seeds for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{algh_neit.2019.SaCo3PGFfTEBEM,
+      author            = "Hussam Alghamdi and Narayanan Neithalath",
+      title             = "Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials",
+      doi               = "10.1016/j.cemconcomp.2019.103377",
+      year              = "2019",
+      journal           = "Cement and Concrete Composites",
+      volume            = "104",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Alghamdi  and N. Neithalath, “Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials”, <i>Cement and Concrete Composites</i>, vol. 104, 2019, doi: 10.1016/j.cemconcomp.2019.103377.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alghamdi, Hussam, and Narayanan Neithalath. “Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials”. <i>Cement and Concrete Composites</i> 104 (2019). https://doi.org/10.1016/j.cemconcomp.2019.103377.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

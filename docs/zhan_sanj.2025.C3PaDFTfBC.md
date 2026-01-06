@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nan Zhang, Jay Sanjayan
+    - footer
+title: Zhang Nan, Sanjayan Jay
 description:
 tags:
  - bridge
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.autcon.2025.106485" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106485</a>
+#Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction ([2025-08](date/2025/08))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106485" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106485" target="_blank">10.1016/j.autcon.2025.106485</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_nan"><b>Zhang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Automation in Construction, Vol. 179, No. 106485
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a> <a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 179, No. 106485
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%203D%20Printing%20and%20Digital%20Fabrication%20Technologies%20for%20Bridge%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013680425&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413387627" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106485" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106485?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper reviews the current state of 3D concrete printing (3DCP) and digital fabrication technologies, with a focus on their applicability to bridge construction. Four major categories, including extrusion-based, particle-based, shotcrete-based 3DCP and digital casting, are analyzed in terms of process integration and limitations. Recent innovations in concrete handling process and advanced nozzle-based mixing technologies are emphasized, which address the long-standing conflict between pumpability and buildability in digital concrete. Representative case studies illustrate the structural diversity, reinforcement strategies, and implementation challenges of 3D-printed bridges. These examples also highlight the transformative potential and the current limitations of 3DCP. Several key challenges are identified, including anisotropic mechanical behavior, material sustainability, on-site assembly and construction process, and the absence of established design standards. With continued advancements in material science, digital workflows, and interdisciplinary collaboration, 3DCP and other digital methods hold the potential to reshape future bridge construction through enhanced efficiency, flexibility, and sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "100 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
@@ -164,8 +145,39 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_sanj.2025.C3PaDFTfBC,
+      author            = "Nan Zhang and Jay Gnananandan Sanjayan",
+      title             = "Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction",
+      doi               = "10.1016/j.autcon.2025.106485",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "179",
+      pages             = "106485",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Zhang  and J. G. Sanjayan, “Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction”, <i>Automation in Construction</i>, vol. 179, p. 106485, 2025, doi: 10.1016/j.autcon.2025.106485.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Nan, and Jay Gnananandan Sanjayan. “Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction”. <i>Automation in Construction</i> 179 (2025): 106485. https://doi.org/10.1016/j.autcon.2025.106485.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

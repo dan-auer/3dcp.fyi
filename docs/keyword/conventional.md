@@ -8,7 +8,7 @@ search:
 
 # #conventional
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pour_k_arash"><b>Pour</b> Arash</a>, <a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b> Ehsan</a>, <a href="../../../author/yang_y_t"><b>Yang</b> T.</a>, <a href="../../../author/li_shaofan"><b>Li</b> Shaofan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pour_fars_yang_li.2025.3PoCaGC/">3D Printing of Conventional and Geopolymer Concretes:<br/>Advancements, Challenges, Future Directions, and Cost Analysis</a></li>
   <li><a href="../../../author/rosa_marco"><b>Rosa</b> Marco</a>, <a href="../../../author/brito_diogo"><b>Brito</b> Diogo</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a>, <a href="../../../author/sousa_pedro_jose"><b>Sousa</b> José</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rosa_brit_vila_sous.2025.3vCC/">3DCP vs Conventional Construction:<br/>Comparative Analysis of Energy Performance and Embodied Carbon</a></li>
   <li><a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/kamath_muralidhar"><b>Kamath</b> Muralidhar</a>, <a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b> Rahul</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chip_lanj_kama_rale.2025.PoCMfCaAA3CP/">Prediction of Construction Materials for Conventional and Alkali-Activated 3D Concrete Printing</a></li>

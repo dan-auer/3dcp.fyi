@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Zhao, Guang Yang, Lingli Zhu, Yahong Ding, Xuemao Guan, Xikai Wu, Yang Zhang
+    - footer
+title: Zhao Yu, Yang Guang, Zhu Lingli, Ding Yahong, Guan Xuemao, Wu Xikai, Zhang Yang
 description:
 tags:
  - accuracy
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmrt.2022.10.124) Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.jmrt.2022.10.124" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2022.10.124</a>
+#Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials ([2022-10](date/2022/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2022.10.124) <a href="https://doi.org/10.1016/j.jmrt.2022.10.124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2022.10.124" target="_blank">10.1016/j.jmrt.2022.10.124</a>
 
--------------------------
+<a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/yang_guang"><b>Yang</b>&nbsp;Guang</a></span>, <a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <a href="../../../author/ding_yahong"><b>Ding</b>&nbsp;Yahong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guan_xuemao"><b>Guan</b>&nbsp;Xuemao</a></span>, <a href="../../../author/wu_xikai"><b>Wu</b>&nbsp;Xikai</a></span>, <a href="../../../author/zhang_yang"><b>Zhang</b>&nbsp;Yang</a></span><br>
+Journal Article - Journal of Materials Research and Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>
-,     <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>
-,     <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>
-,     <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>
-,     <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_xikai"><b>Wu</b> Xikai</a>
-,     <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accuracy`](keyword/accuracy)
-    [`#basalt`](keyword/basalt)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#mould`](keyword/mould)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#speed`](keyword/speed)
-
-
--------------------------
+<a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/speed"><button class="btn">#speed</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Rheological%20Properties%20and%20Printing%20Speed%20on%20Molding%20Accuracy%20of%203D%20Printing%20Basalt-Fiber%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145882813&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4307902447" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2022.10.124" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2022.10.124?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In order to use the material's rheological properties to adjust and optimize the process parameters of 3D printed cement-based materials. The rheological properties of cementitious materials are tested at different settling times with the same ratio. The 3D printing speed (extrusion speed and feed speed) is analyzed based on the 3D printing strip molding accuracy. The test results are indicated as follows. Within the group of seven with settling time for 10 min, 30 min, 50 min, 60 min, 70 min, 80 min and 100 min, the yield stress and plastic viscosity increases with increasing settling time of the freshly mixed cementitious material. The width of the print strips decreases with increasing rheological parameters when the printing speed is fixed. The width of the print strips increases with the increasing the extrusion speed when the rheological parameters and the feed speed are fixed. The width of the print strip decreases as the feed speed increases when the rheological parameters and extrusion speed are fixed. In addition, the feed speed has a greater impact on the uniformity of the print strip, and the extrusion speed only affects the width of the print strip. There is linear correlation between plastic viscosity, static yield stress and extrusion speed, the plastic viscosity has the strongest positive correlation with extrusion speed. The ratio of optimal extrusion speed to optimal feed speed is stabilized between 4 and 5. Therefore, the optimal printing speed can be determined by testing the rheological properties of the material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC/">Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/tan_ze-mei_jolyn"><b>Tan</b> Jolyn</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../he_tan_chow_li.2021.DoNNfHILSo3PCP/">Design of Novel Nozzles for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
@@ -97,8 +69,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>
@@ -116,4 +88,32 @@ tags:
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM,
+      author            = "Yu Zhao and Guang Yang and Lingli Zhu and Yahong Ding and Xuemao Guan and Xikai Wu and Yang Zhang",
+      title             = "Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials",
+      doi               = "10.1016/j.jmrt.2022.10.124",
+      year              = "2022",
+      journal           = "Journal of Materials Research and Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhao, “Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials”, <i>Journal of Materials Research and Technology</i>, 2022, doi: 10.1016/j.jmrt.2022.10.124.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Yu, Guang Yang, Lingli Zhu, Yahong Ding, Xuemao Guan, Xikai Wu, and Yang Zhang. “Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials”. <i>Journal of Materials Research and Technology</i>, 2022. https://doi.org/10.1016/j.jmrt.2022.10.124.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

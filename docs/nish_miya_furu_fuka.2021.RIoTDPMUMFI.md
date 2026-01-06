@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tomoya Nishiwaki, Yoshihiro Miyata, Shoko Furue, Shiko Fukatsu, Hideyuki Kajita
+    - footer
+title: Nishiwaki Tomoya, Miyata Yoshihiro, Furue Shoko, Fukatsu Shiko, Kajita Hideyuki
 description:
 tags:
  - dimension
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Reinforcing Interlayers of Three-Dimensional-Printed Mortar Using Metal-Fiber-Insertion ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733133" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733133</a>
+#Reinforcing Interlayers of Three-Dimensional-Printed Mortar Using Metal-Fiber-Insertion ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733133" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733133" target="_blank">10.14359/51733133</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6745-3141" title="ORCID: 0000-0001-6745-3141" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b>&nbsp;Tomoya</a></span>, <a href="../../../author/miyata_yoshihiro"><b>Miyata</b>&nbsp;Yoshihiro</a></span>, <a href="../../../author/furue_shoko"><b>Furue</b>&nbsp;Shoko</a></span>, <a href="../../../author/fukatsu_shiko"><b>Fukatsu</b>&nbsp;Shiko</a></span>, <a href="../../../author/kajita_hideyuki"><b>Kajita</b>&nbsp;Hideyuki</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 331-340
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> <a href="https://orcid.org/0000-0001-6745-3141" title="ORCID: 0000-0001-6745-3141" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/miyata_yoshihiro"><b>Miyata</b> Yoshihiro</a>
-,     <a href="../../../author/furue_shoko"><b>Furue</b> Shoko</a>
-,     <a href="../../../author/fukatsu_shiko"><b>Fukatsu</b> Shiko</a>
-,     <a href="../../../author/kajita_hideyuki"><b>Kajita</b> Hideyuki</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 331-340
-
-:aca-blank:{ .lg .middle}
-    [`#dimension`](keyword/dimension)
-    [`#fiber`](keyword/fiber)
-    [`#insertion`](keyword/insertion)
-    [`#interlayer`](keyword/interlayer)
-    [`#metal`](keyword/metal)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/insertion"><button class="btn">#insertion</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/metal"><button class="btn">#metal</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinforcing%20Interlayers%20of%20Three-Dimensional-Printed%20Mortar%20Using%20Metal-Fiber-Insertion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122100787&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3205872686" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733133" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733133?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, various three-dimensional (3D) concrete printing (3DCP) systems have been developed extensively in the construction field. The extrusion-based 3DCP method using yield pseudoplastic mortar has emerged as the most promising system owing to its attractive properties. However, the poor bonding property of the interlayers brings cold joint-like gaps/voids, which decrease the mechanical properties of the printed elements. In this study, a novel reinforcing system was proposed for 3DCP-printed elements, in which metal fibers were inserted in the interlayers. Fundamental experiments were performed to verify the effectiveness of the proposed methods using different sizes and types of metal fibers. The results revealed that the tensile and flexural strengths of the printed elements improved when the reinforcing fibers were properly placed without air voids around the fibers. In addition, it was found that straight-shaped fibers were more suitable reinforcing fibers for avoiding voids.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../best_heev_krug_cho.2020.SFLi3PC/">Steel-Fiber Links in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -91,12 +67,43 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yassin_m_ahmed"><b>Yassin</b> Ahmed</a>, <a href="../../../author/hafez_ahmed_mohamed"><b>Hafez</b> Mohamed</a>, <a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b> Mohamed</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yass_hafe_aboe.2025.EaNIotEoDToSFotFBaMPo3CCPPwCCIAP/">Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P</a></li>
       <li><a href="../../../author/egawa_ryo"><b>Egawa</b> Ryo</a>, <a href="../../../author/nezu_shoichi"><b>Nezu</b> Shoichi</a>, <a href="../../../author/nishijo_keisuke"><b>Nishijo</b> Keisuke</a>, <a href="../../../author/ohno_kazunori"><b>Ohno</b> Kazunori</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../egaw_nezu_nish_ohno.2024.DSMRISUCRMf3CP/">Different Sized Metal Reinforcement Insertion System Using Cartridge Replacement Mechanism for 3D Concrete Printer</a></li>
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ahme_giwa_game_arce.2024.ARDLSAM/">Automated Reinforcement During Large-Scale Additive Manufacturing:<br/>Structural-Assessment of a Dual Approach</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/asakawa_tomoya"><b>Asakawa</b> Tomoya</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a>, <a href="../../../author/ohno_kazunori"><b>Ohno</b> Kazunori</a>, <a href="../../../author/yokoyama_shigeru"><b>Yokoyama</b> Shigeru</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../asak_nish_ohno_yoko.2022.FSoAILRSwMFIf3CP/">Fundamental Study on Automated Inter-Layer Reinforcing System with Metal-Fiber-Insertion for 3D Concrete Printer</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nish_miya_furu_fuka.2021.RIoTDPMUMFI,
+      author            = "Tomoya Nishiwaki and Yoshihiro Miyata and Shoko Furue and Shiko Fukatsu and Hideyuki Kajita",
+      title             = "Reinforcing Interlayers of Three-Dimensional-Printed Mortar Using Metal-Fiber-Insertion",
+      doi               = "10.14359/51733133",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "331--340",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Nishiwaki, Y. Miyata, S. Furue, S. Fukatsu and H. Kajita, “Reinforcing Interlayers of Three-Dimensional-Printed Mortar Using Metal-Fiber-Insertion”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 331–340, 2021, doi: 10.14359/51733133.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nishiwaki, Tomoya, Yoshihiro Miyata, Shoko Furue, Shiko Fukatsu, and Hideyuki Kajita. “Reinforcing Interlayers of Three-Dimensional-Printed Mortar Using Metal-Fiber-Insertion”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 331–40. https://doi.org/10.14359/51733133.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

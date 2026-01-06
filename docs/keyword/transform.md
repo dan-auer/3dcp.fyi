@@ -8,7 +8,7 @@ search:
 
 # #transform
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abed_wari_alaw_jabr.2025.TLC3PI/">Transformative Low-Carbon 3D-Printed Infrastructure:<br/>Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</a></li>
   <li><a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../krav_raza_besk_lazo.2025.TCWiRf3PC/">Transforming Construction Waste into Resources for 3D Printed Concrete</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhao_wang_chen_liu.2025.MIo3PCUMTN/">Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks</a></li>

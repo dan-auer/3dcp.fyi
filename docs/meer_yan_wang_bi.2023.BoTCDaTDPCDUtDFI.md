@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hani Meere, Shuaxing Yan, Dongpo Wang, Yuzhang Bi
+    - footer
+title: Meere Hani, Yan Shuaxing, Wang Dongpo, Bi Yuzhang
 description:
 tags:
  - behavior
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Behavior of Traditional Concrete Dams and Three-Dimensional Printed Concrete Dams Under the Debris Flow Impact ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1007/s11629-023-8059-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11629-023-8059-9</a>
+#Behavior of Traditional Concrete Dams and Three-Dimensional Printed Concrete Dams Under the Debris Flow Impact ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11629-023-8059-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11629-023-8059-9" target="_blank">10.1007/s11629-023-8059-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4241-3041" title="ORCID: 0000-0003-4241-3041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meere_hani"><b>Meere</b>&nbsp;Hani</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4456-5834" title="ORCID: 0000-0002-4456-5834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_shuaxing"><b>Yan</b>&nbsp;Shuaxing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6172-4753" title="ORCID: 0000-0002-6172-4753" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dongpo"><b>Wang</b>&nbsp;Dongpo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2631-6620" title="ORCID: 0000-0003-2631-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bi_yuzhang"><b>Bi</b>&nbsp;Yuzhang</a></span><br>
+Journal Article - Journal of Mountain Science, Vol. 20, Iss. 12, pp. 3703-3717
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/meere_hani"><b>Meere</b> Hani</a> <a href="https://orcid.org/0000-0003-4241-3041" title="ORCID: 0000-0003-4241-3041" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yan_shuaxing"><b>Yan</b> Shuaxing</a> <a href="https://orcid.org/0000-0002-4456-5834" title="ORCID: 0000-0002-4456-5834" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_dongpo"><b>Wang</b> Dongpo</a> <a href="https://orcid.org/0000-0002-6172-4753" title="ORCID: 0000-0002-6172-4753" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bi_yuzhang"><b>Bi</b> Yuzhang</a> <a href="https://orcid.org/0000-0003-2631-6620" title="ORCID: 0000-0003-2631-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Mountain Science, Vol. 20, Iss. 12, pp. 3703-3717
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#flow`](keyword/flow)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-    [`#tradition`](keyword/tradition)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Behavior%20of%20Traditional%20Concrete%20Dams%20and%20Three-Dimensional%20Printed%20Concrete%20Dams%20Under%20the%20Debris%20Flow%20Impact" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181241915&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390549388" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11629-023-8059-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11629-023-8059-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the resilience of traditional concrete dams compared to 3D printed concrete dams (3DPC) when subjected to debris flow. Three types of dams, namely check dams, arch dams, and curve dams, were numerically analyzed using a three-dimensional Coupled Eulerian-Lagrangian (CEL) methodology. The research focused on critical factors such as impact force and viscous energy dissipation to compare dam performance. Additionally, the study examined the printing and service phases of 3DPC models, determining potential failure modes and analyzing printing parameters. The results demonstrated that 3DPC dams outperformed traditional concrete dams, with filament deposition orientation, perpendicular to the debris flow direction, identified as a pivotal factor. Infill percentage and pattern were also found to influence the behavior of 3DPC models. Notably, curved dams exhibited superior performance based on dam geometry. These findings have significant potential for advancing the development of resilient dam structures capable of withstanding debris flow impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/ingaglio_joseph"><b>Ingaglio</b> Joseph</a>, <a href="../../../author/fox_t_john"><b>Fox</b> John</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a>, <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../inga_fox_nait_bocc.2019.MCoBJ3PHCCwtAoFA/">Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates</a></li>
@@ -83,8 +62,39 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{meer_yan_wang_bi.2023.BoTCDaTDPCDUtDFI,
+      author            = "Hani Meere and Shuaxing Yan and Dongpo Wang and Yuzhang Bi",
+      title             = "Behavior of Traditional Concrete Dams and Three-Dimensional Printed Concrete Dams Under the Debris Flow Impact",
+      doi               = "10.1007/s11629-023-8059-9",
+      year              = "2023",
+      journal           = "Journal of Mountain Science",
+      volume            = "20",
+      number            = "12",
+      pages             = "3703--3717",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Meere, S. Yan, D. Wang and Y. Bi, “Behavior of Traditional Concrete Dams and Three-Dimensional Printed Concrete Dams Under the Debris Flow Impact”, <i>Journal of Mountain Science</i>, vol. 20, no. 12, pp. 3703–3717, 2023, doi: 10.1007/s11629-023-8059-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Meere, Hani, Shuaxing Yan, Dongpo Wang, and Yuzhang Bi. “Behavior of Traditional Concrete Dams and Three-Dimensional Printed Concrete Dams Under the Debris Flow Impact”. <i>Journal of Mountain Science</i> 20, no. 12 (2023): 3703–17. https://doi.org/10.1007/s11629-023-8059-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

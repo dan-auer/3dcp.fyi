@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jingyuan Guan, Li Wang, Qian Wan, Guowei Ma
+    - footer
+title: Guan Jingyuan, Wang Li, Wan Qian, Ma Guowei
 description:
 tags:
  - arch
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.engstruct.2025.119734" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.119734</a>
+#Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.119734" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.119734" target="_blank">10.1016/j.engstruct.2025.119734</a>
 
--------------------------
+<a href="../../../author/guan_jingyuan"><b>Guan</b>&nbsp;Jingyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_qian"><b>Wan</b>&nbsp;Qian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Engineering Structures, Vol. 328, No. 119734
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan_qian"><b>Wan</b> Qian</a> <a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 328, No. 119734
-
-:aca-blank:{ .lg .middle}
-    [`#arch`](keyword/arch)
-    [`#concrete`](keyword/concrete)
-    [`#fatigue`](keyword/fatigue)
-    [`#formwork`](keyword/formwork)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/arch"><button class="btn">#arch</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fatigue"><button class="btn">#fatigue</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Material%20and%20Structural%20Fatigue-Performance%20of%2018m%20Span%20Reinforced%20Arch%20Structure%20Manufactured%20by%203D%20Printing%20Concrete%20as%20Permanent%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215221757&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406555546" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.119734" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.119734?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper proposes a rapid construction method using 3D printed concrete as permanent formwork followed by conventional reinforcement installation and cast-in-place concrete, which has been successfully applied to the real practice of 3D printing bridge in China. In this paper, a basalt fiber reinforced cementitious composite was prepared for 3D printing large-scale formwork. The printable and mechanical properties of the basalt fiber reinforced 3D printing materials were systematically investigated and the requirement for formwork application had been met. Meanwhile, the effect of interlayer on long-term durability, e.g, the carbonation and frost resistances of the 3D printed concrete formwork were investigated through accelerated carbonation and freezethaw cycles tests. The interlayer regions perform 326 % larger carbonation depth than filaments matrix. The 3D printed specimens show 147 % higher weight loss ratio at 200 freeze-thaw cycles compared to cast ones. Additionally, the optimized 3D printed concrete was adopted for the manufacturing of largescale reinforced arch structures with a net span of 18 m. To evaluate the structural integrity of reinforced arch structure with 3D printed concrete formwork, fatigue testing with 2 million cycles at 40 %–60 % of the design load capacity was performed. Experimental investigations validated the favorable bonding of the 3D printed formwork. The construction practice of 3D printed arch structure for bridge project was illustrated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
@@ -109,8 +84,8 @@ tags:
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
@@ -125,4 +100,34 @@ tags:
       <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a></li>
       <li><a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/chen_xuemei"><b>Chen</b> Xuemei</a>, <a href="../../../author/deng_yongjun"><b>Deng</b> Yongjun</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_zou_chen_deng.2025.FSo3PRCaaPF/">Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork:<br/>Mechanical Properties, Interlayer Interface and Durability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{guan_wang_wan_ma.2025.MaSFPo1SRASMb3PCaPF,
+      author            = "Jingyuan Guan and Li Wang and Qian Wan and Guowei Ma",
+      title             = "Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork",
+      doi               = "10.1016/j.engstruct.2025.119734",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "328",
+      pages             = "119734",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Guan, L. Wang, Q. Wan and G. Ma, “Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork”, <i>Engineering Structures</i>, vol. 328, p. 119734, 2025, doi: 10.1016/j.engstruct.2025.119734.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Guan, Jingyuan, Li Wang, Qian Wan, and Guowei Ma. “Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork”. <i>Engineering Structures</i> 328 (2025): 119734. https://doi.org/10.1016/j.engstruct.2025.119734.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

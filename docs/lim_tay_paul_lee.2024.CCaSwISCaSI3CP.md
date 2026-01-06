@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sean Lim, Yi Tay, Suvash Paul, Junghyun Lee, Issam Amr, Bandar Fadhel, Aqil Jamal, Ahmad Khowaiter, Ming Tan
+    - footer
+title: Lim Sean, Tay Yi, Paul Suvash, Lee Junghyun, Amr Issam, Fadhel Bandar, Jamal Aqil, Khowaiter Ahmad, Tan Ming
 description:
 tags:
  - carbon
@@ -16,37 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.ccst.2024.100306) Carbon Capture and Sequestration with In-Situ CO2 and Steam Integrated 3D Concrete Printing ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.ccst.2024.100306" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ccst.2024.100306</a>
+#Carbon Capture and Sequestration with In-Situ CO2 and Steam Integrated 3D Concrete Printing ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.ccst.2024.100306) <a href="https://doi.org/10.1016/j.ccst.2024.100306" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ccst.2024.100306" target="_blank">10.1016/j.ccst.2024.100306</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_gip_sean"><b>Lim</b>&nbsp;Sean</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_chandra_suvash"><b>Paul</b>&nbsp;Suvash</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0362-9704" title="ORCID: 0000-0003-0362-9704" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_junghyun"><b>Lee</b>&nbsp;Junghyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3976-932X" title="ORCID: 0000-0003-3976-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amr_t_issam"><b>Amr</b>&nbsp;Issam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7007-5313" title="ORCID: 0000-0001-7007-5313" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fadhel_a_bandar"><b>Fadhel</b>&nbsp;Bandar</a></span>, <a href="../../../author/jamal_aqil"><b>Jamal</b>&nbsp;Aqil</a></span>, <a href="../../../author/khowaiter_o_ahmad"><b>al&nbsp;Khowaiter</b>&nbsp;Ahmad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Carbon Capture Science & Technology, Vol. 13, No. 100306
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> <a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> <a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> <a href="https://orcid.org/0000-0003-0362-9704" title="ORCID: 0000-0003-0362-9704" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> <a href="https://orcid.org/0000-0003-3976-932X" title="ORCID: 0000-0003-3976-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> <a href="https://orcid.org/0000-0001-7007-5313" title="ORCID: 0000-0001-7007-5313" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jamal_aqil"><b>Jamal</b> Aqil</a>
-,     <a href="../../../author/khowaiter_o_ahmad"><b>al Khowaiter</b> Ahmad</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Carbon Capture Science & Technology, Vol. 13, No. 100306
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-    [`#sequestration`](keyword/sequestration)
-    [`#situ`](keyword/situ)
-    [`#steam`](keyword/steam)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sequestration"><button class="btn">#sequestration</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/steam"><button class="btn">#steam</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Carbon%20Capture%20and%20Sequestration%20with%20In-Situ%20CO2%20and%20Steam%20Integrated%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204912397&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402867554" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ccst.2024.100306" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ccst.2024.100306?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Profound reliance of the building and construction sector on cement exacerbates its immense carbon footprint, accounting for a substantial portion of worldwide emissions. In this paper, we investigate the possibilities of insitu carbon capture and sequestration to eliminate spatial constraints from a chamber confined curing solution via CO2 and steam integrated 3D concrete printing. The presented technology involves a two-step extrusion-based system that sequesters captured CO2 directly into concrete prior deposition at the nozzle printhead, so as to achieve artificially accelerated carbonation reactions with enhancement of mechanical properties. Accordingly, samples subjected to in-situ CO2 and steam integration showed increases of up to 50.0 % 3D printability, 36.8 % compressive strength, and 45.3 % flexural strength compared to control at its respective curing conditions. The results of said approach demonstrated 38.2 % increase in bulk carbon uptake compared to accelerated carbonation confined curing methods, offering an alternative pathway towards decarbonized construction with 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../harb_rozi_yahi_louk.2022.PAoCBMBoRHKaVP/">Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties</a></li>
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a>, <a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lim_tay_amr_fadh.2024.CSw3CP/">Carbon Sequestration with 3D Concrete Printing:<br/>Potentials and Challenges</a></li>
@@ -89,10 +62,40 @@ tags:
       <li><a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../wang_xiao_sun_zhan.2023.MPo3PMCbC/">Mechanical Properties of 3D Printed Mortar Cured by CO2</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../paul_lee_tay_lim.2026.UtSPo3CPwLAaSCC/">Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lim_tay_paul_lee.2024.CCaSwISCaSI3CP,
+      author            = "Sean Gip Lim and Yi Wei Daniel Tay and Suvash Chandra Paul and Junghyun Lee and Issam T. Amr and Bandar A. Fadhel and Aqil Jamal and Ahmad O. Al Khowaiter and Ming Jen Tan",
+      title             = "Carbon Capture and Sequestration with In-Situ CO2 and Steam Integrated 3D Concrete Printing",
+      doi               = "10.1016/j.ccst.2024.100306",
+      year              = "2024",
+      journal           = "Carbon Capture Science & Technology",
+      volume            = "13",
+      pages             = "100306",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. G. Lim, “Carbon Capture and Sequestration with In-Situ CO2 and Steam Integrated 3D Concrete Printing”, <i>Carbon Capture Science & Technology</i>, vol. 13, p. 100306, 2024, doi: 10.1016/j.ccst.2024.100306.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lim, Sean Gip, Yi Wei Daniel Tay, Suvash Chandra Paul, Junghyun Lee, Issam T. Amr, Bandar A. Fadhel, Aqil Jamal, Ahmad O. Al Khowaiter, and Ming Jen Tan. “Carbon Capture and Sequestration with In-Situ CO2 and Steam Integrated 3D Concrete Printing”. <i>Carbon Capture Science & Technology</i> 13 (2024): 100306. https://doi.org/10.1016/j.ccst.2024.100306.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

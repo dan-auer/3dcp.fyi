@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ruben Castano-Alvarez, Iñigo Calderon-Uriszar-Aldaca, Ignacio Marcos
+    - footer
+title: Castano-Alvarez Ruben, Calderon-Uriszar-Aldaca Iñigo, Marcos Ignacio
 description:
 tags:
  - application
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Applicability of Existing Models for the Strength Development of 3D Printed Thixotropic Concretes During Hardening ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1080/15376494.2021.2018072" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/15376494.2021.2018072</a>
+#Applicability of Existing Models for the Strength Development of 3D Printed Thixotropic Concretes During Hardening ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15376494.2021.2018072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15376494.2021.2018072" target="_blank">10.1080/15376494.2021.2018072</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5427-0012" title="ORCID: 0000-0001-5427-0012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b>&nbsp;Ruben</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6911-161X" title="ORCID: 0000-0002-6911-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b>&nbsp;Iñigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2419-5204" title="ORCID: 0000-0003-2419-5204" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marcos_ignacio"><b>Marcos</b>&nbsp;Ignacio</a></span><br>
+Journal Article - Mechanics of Advanced Materials and Structures, Vol. None, Iss. None, pp. 1-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b> Ruben</a> <a href="https://orcid.org/0000-0001-5427-0012" title="ORCID: 0000-0001-5427-0012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a> <a href="https://orcid.org/0000-0002-6911-161X" title="ORCID: 0000-0002-6911-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marcos_ignacio"><b>Marcos</b> Ignacio</a> <a href="https://orcid.org/0000-0003-2419-5204" title="ORCID: 0000-0003-2419-5204" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Mechanics of Advanced Materials and Structures, Vol. None, Iss. None, pp. 1-10
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#existence`](keyword/existence)
-    [`#hardened`](keyword/hardened)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/existence"><button class="btn">#existence</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Applicability%20of%20Existing%20Models%20for%20the%20Strength%20Development%20of%203D%20Printed%20Thixotropic%20Concretes%20During%20Hardening" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122544174&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4205611564" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/15376494.2021.2018072" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/15376494.2021.2018072?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The special properties of 3 D-Printed Concrete in terms of rheology, deposition technology, and dosage substantially modify its mechanical properties after hardening. In this paper, comparisons are drawn between different concrete strength development models specified in the main Building-Codes and Standards and experimental data from tests on various thixotropic mortar mixes suitable for 3DPC. The aim was to develop an empirical procedure to improve the current models, so that their results could predict the properties of the 3DPC bulk materials more closely. An updated set of parameters for the models was obtained via curve-fitting of the models to the experimental data.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -99,8 +77,39 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a>, <a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b> Ruben</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../aram_cald_puen_cast.2024.Eo3PotTSSoCS/">Effects of 3D Printing on the Tensile Splitting Strength of Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cast_cald_marc.2021.AoEMftSDo3PTCDH,
+      author            = "Ruben Castano-Alvarez and Iñigo Calderon-Uriszar-Aldaca and Ignacio Marcos",
+      title             = "Applicability of Existing Models for the Strength Development of 3D Printed Thixotropic Concretes During Hardening",
+      doi               = "10.1080/15376494.2021.2018072",
+      year              = "2021",
+      journal           = "Mechanics of Advanced Materials and Structures",
+      volume            = "None",
+      number            = "None",
+      pages             = "1--10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Castano-Alvarez, I. Calderon-Uriszar-Aldaca and I. Marcos, “Applicability of Existing Models for the Strength Development of 3D Printed Thixotropic Concretes During Hardening”, <i>Mechanics of Advanced Materials and Structures</i>, vol. None, no. None, pp. 1–10, 2021, doi: 10.1080/15376494.2021.2018072.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Castano-Alvarez, Ruben, Iñigo Calderon-Uriszar-Aldaca, and Ignacio Marcos. “Applicability of Existing Models for the Strength Development of 3D Printed Thixotropic Concretes During Hardening”. <i>Mechanics of Advanced Materials and Structures</i> None, no. None (2021): 1–10. https://doi.org/10.1080/15376494.2021.2018072.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

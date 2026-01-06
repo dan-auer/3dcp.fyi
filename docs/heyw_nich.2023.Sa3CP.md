@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kate Heywood, Paul Nicholas
+    - footer
+title: Heywood Kate, Nicholas Paul
 description:
 tags:
  - approach
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s44223-023-00030-3.pdf) Sustainability and 3D Concrete Printing:<br/>:aca-blank: Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1007/s44223-023-00030-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44223-023-00030-3</a>
+#Sustainability and 3D Concrete Printing&nbsp;([2023-06](date/2023/06))
+<div class="h1-like">Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44223-023-00030-3.pdf) <a href="https://doi.org/10.1007/s44223-023-00030-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-023-00030-3" target="_blank">10.1007/s44223-023-00030-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7015-5783" title="ORCID: 0000-0002-7015-5783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heywood_kate"><b>Heywood</b>&nbsp;Kate</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span><br>
+Journal Article - Architectural Intelligence, Vol. 2, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a> <a href="https://orcid.org/0000-0002-7015-5783" title="ORCID: 0000-0002-7015-5783" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Intelligence, Vol. 2, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#environment`](keyword/environment)
-    [`#identification`](keyword/identification)
-    [`#imapct`](keyword/imapct)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/identification"><button class="btn">#identification</button></a> <a href="../../keyword/imapct"><button class="btn">#imapct</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainability%20and%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380367202" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44223-023-00030-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44223-023-00030-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to identify the current status of research in 3D concrete printing (3DCP), locate the sustainability considerations relevant to these trajectories, and to identify a gap in knowledge and future research challenge regarding the sustainability of 3DCP. To categorize the broad range of research topics within 3DCP, the paper introduces an assessment framework that subdivides this field into three sub-fields: material science, computational design, and structure and performance. Common sustainability considerations are identified for each of these sub-fields. As a result of this analysis, a lack of critical assessments on claims about the sustainability and environmental impacts of 3DCP is identified. Our survey of literature, and its analysis via this framework, finds that whilst certain sustainability aspects are highlighted, other measures and considerations are skimmed over, or omitted. It is found that whilst material optimization and the ability to create formwork-free, complex forms is noted as a main argument for the implementation of 3DCP, this claim is largely unsupported by reference or reported outcomes, and the environmental impacts are often only briefly discussed. There is a clear need for a holistic view on the sustainability issues which surround 3DCP. This paper further highlights the lack of comprehensive assessment tools and metrics for measuring the environmental impact of 3DCP and concludes that further research must be done to develop these tools, to allow architects to integrate 3DCP into sustainability-oriented design workflows. Our paper concludes that the development of these tools will lead to a more comprehensive understanding on the environmental sustainability of 3DCP, allowing research resources to be focused within each field to ensure 3DCP continues to develop in a sustainable way.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
@@ -115,8 +96,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/amegouz_driss"><b>Amegouz</b> Driss</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../meso_foul_ameg.2025.3CP/">3D Concrete Printing:<br/>Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
@@ -135,4 +116,34 @@ tags:
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../heyw_nich.2024.3CPiaCE/">3D Concrete Printing in a Circular Economy:<br/>What We Can Learn from a 3DCP Slab Designed for Dissassembly</a></li>
       <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{heyw_nich.2023.Sa3CP,
+      author            = "Kate Heywood and Paul Nicholas",
+      title             = "Sustainability and 3D Concrete Printing: Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts",
+      doi               = "10.1007/s44223-023-00030-3",
+      year              = "2023",
+      journal           = "Architectural Intelligence",
+      volume            = "2",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Heywood  and P. Nicholas, “Sustainability and 3D Concrete Printing: Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts”, <i>Architectural Intelligence</i>, vol. 2, no. 1, 2023, doi: 10.1007/s44223-023-00030-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Heywood, Kate, and Paul Nicholas. “Sustainability and 3D Concrete Printing: Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts”. <i>Architectural Intelligence</i> 2, no. 1 (2023). https://doi.org/10.1007/s44223-023-00030-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

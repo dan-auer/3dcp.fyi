@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Fischer Oliver 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/auer_daniel"><b>Auer</b> Daniel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../auer_bos_fisc.2024.3f/">3DCP.fyi:<br/>A Comprehensive Citation Network Graph on the State of the Art in 3D Concrete Printing</a></li>
   <li><a href="../../../author/auer_daniel"><b>Auer</b> Daniel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/olabi_mohammad"><b>Olabi</b> Mohammad</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../auer_bos_olab_fisc.2023.FRo3PCbMETPAtPST/">Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories</a></li>
   <li><a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fisc_bos.2023.AMiCC/">Additive Manufacturing in Concrete Construction:<br/>Ways to Implement It in Engineering Practice</a></li>

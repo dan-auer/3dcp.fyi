@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhijian Li, Li Wang, Guowei Ma
+    - footer
+title: Li Zhijian, Wang Li, Ma Guowei
 description:
 tags:
  - bending
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1186/s40069-018-0269-0) Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar ([2018-05](date/2018/05))
-<a href="https://doi.org/10.1186/s40069-018-0269-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1186/s40069-018-0269-0</a>
+#Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar ([2018-05](date/2018/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1186/s40069-018-0269-0) <a href="https://doi.org/10.1186/s40069-018-0269-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1186/s40069-018-0269-0" target="_blank">10.1186/s40069-018-0269-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - International Journal of Concrete Structures and Materials, Vol. 12, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Concrete Structures and Materials, Vol. 12, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bending`](keyword/bending)
-    [`#buildability`](keyword/buildability)
-    [`#enhancement`](keyword/enhancement)
-    [`#method`](keyword/method)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#resistance`](keyword/resistance)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Method%20for%20the%20Enhancement%20of%20Buildability%20and%20Bending-Resistance%20of%203D%20Printable%20Tailing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85047784870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2807254152" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1186/s40069-018-0269-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1186/s40069-018-0269-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The innovative 3D printing has been successfully applied to layeredly build-up construction-scale structures through the extrusion of various cementitious materials. Favourable buildability offresh cement mixture and the hardened properties of the printed structures are essential requirement for the application of 3D concrete printing. This paper firstly proposed a 3D printable cement mixture containing 40% mining tailings. The influence of paste age on the buildability of forty-layer structure was evaluated, as well as the bending resistance of prism specimen sawed from the printed structure. The bonding between layers is a critical factor that influences the structural capacity. In particular, the weak bonding interface formed in the layered extrusion process was identified through high-resolution X-ray CT scanning. It is necessary and desirable for the cement paste to perform both well buildability and mechanical performances. Thereafter, a proper amount of viscosity modify agent (VMA) was used to improve the structural integrity by increasing the contact behaviour between the adjacent extruded layers. Meanwhile, the impact of curing method on the hardened properties of 3D printed structures was accessed. Results indicated that the prepared tailing mortar achieved sufficient buildability to be used in an extrusion-typed 3D printer at the paste age of 45 min. The mould-cast specimens process flexural strength of 7.87 MPa. In contrast, the flexural strength of printed specimens values 5.22 MPa and 12.93 MPa, respectively, after the addition of 1.5% VMA and 90 °C steam curing
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -88,8 +67,8 @@ tags:
       <li><a href="../../../author/voigt_thomas"><b>Voigt</b> Thomas</a>, <a href="../../../author/malonn_tim"><b>Malonn</b> Tim</a>, <a href="../../../author/shah_p_surendra"><b>Shah</b> Surendra</a> <a href="../../../date/2005/10">(2005-10)</a><br><a href="../../../voig_malo_shah.2006.GaEACSoECMMwCTaUT/">Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "75 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
@@ -166,4 +145,34 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ma_sun_wang_asla.2018.EaMAPoCCf3PCWCS/">Electromagnetic and Microwave-Absorbing Properties of Cementitious Composite for 3D Printing Containing Waste Copper Solids</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../ma_zhan_wang_li.2018.MCo3PACMbtET/">Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_wang_ma.2018.MftEoBaBRo3PTM,
+      author            = "Zhijian Li and Li Wang and Guowei Ma",
+      title             = "Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar",
+      doi               = "10.1186/s40069-018-0269-0",
+      year              = "2018",
+      journal           = "International Journal of Concrete Structures and Materials",
+      volume            = "12",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, L. Wang and G. Ma, “Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar”, <i>International Journal of Concrete Structures and Materials</i>, vol. 12, no. 1, 2018, doi: 10.1186/s40069-018-0269-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zhijian, Li Wang, and Guowei Ma. “Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar”. <i>International Journal of Concrete Structures and Materials</i> 12, no. 1 (2018). https://doi.org/10.1186/s40069-018-0269-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

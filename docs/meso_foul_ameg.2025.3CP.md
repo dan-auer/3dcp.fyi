@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mouad Mesoudy, Rida Foulki, Driss Amegouz
+    - footer
+title: Mesoudy Mouad, Foulki Rida, Amegouz Driss
 description:
 tags:
  - block
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.matec-conferences.org/articles/matecconf/pdf/2025/09/matecconf_icmce2025_01002.pdf) 3D Concrete Printing:<br/>:aca-blank: Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1051/matecconf/202541501002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1051/matecconf/202541501002</a>
+#3D Concrete Printing&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.matec-conferences.org/articles/matecconf/pdf/2025/09/matecconf_icmce2025_01002.pdf) <a href="https://doi.org/10.1051/matecconf/202541501002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202541501002" target="_blank">10.1051/matecconf/202541501002</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-4921-9030" title="ORCID: 0009-0002-4921-9030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b>&nbsp;Mouad</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-7174-6245" title="ORCID: 0009-0004-7174-6245" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/foulki_rida"><b>Foulki</b>&nbsp;Rida</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5170-0491" title="ORCID: 0000-0002-5170-0491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amegouz_driss"><b>Amegouz</b>&nbsp;Driss</a></span><br>
+Journal Article - MATEC Web of Conferences, Vol. 415, No. 01002
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a> <a href="https://orcid.org/0009-0002-4921-9030" title="ORCID: 0009-0002-4921-9030" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a> <a href="https://orcid.org/0009-0004-7174-6245" title="ORCID: 0009-0004-7174-6245" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amegouz_driss"><b>Amegouz</b> Driss</a> <a href="https://orcid.org/0000-0002-5170-0491" title="ORCID: 0000-0002-5170-0491" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - MATEC Web of Conferences, Vol. 415, No. 01002
-
-:aca-blank:{ .lg .middle}
-    [`#block`](keyword/block)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#fast`](keyword/fast)
-    [`#interlocking`](keyword/interlocking)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fast"><button class="btn">#fast</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415629635" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1051/matecconf/202541501002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1051/matecconf/202541501002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In a world where construction faces environmental challenges and high labor de-mands, optimizing sustainable methods is crucial. 3D Concrete Printing (3DCP) stands out as an innovative, efficient technique, eliminating molds, reducing waste, and enhancing design flexibility while significantly improving construc-tion speed and cost effectiveness. This study explores interlocking 3D printed concrete blocks as an alternative to traditional modular construction, minimizing mortar dependency for rapid, precise assembly and increasing structural stability. Experimental validation examines geometric accuracy, mechanical strength, and printing efficiency, proving that 3DCP blocks can match or surpass conventional ones. Customizable thermal, acoustic, and mechanical properties, enhanced by specialized concrete mixtures and reinforcements, expand its construction applica- tions. By bridging automation and sustainability, this work demonstrates 3D printed modular construction’s potential for cost-effective, scalable, and eco-friendly building solutions, particularly for rapid housing, disaster relief, infra-structure development, and customized architectural projects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
@@ -87,7 +66,37 @@ tags:
       <li><a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a>, <a href="../../../author/park_in-beom"><b>Park</b> In-Beom</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_park_lee_kwon.2022.EoNDoPQaHPoU3PC/">Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{meso_foul_ameg.2025.3CP,
+      author            = "Mouad el Mesoudy and Rida Foulki and Driss Amegouz",
+      title             = "3D Concrete Printing: Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction",
+      doi               = "10.1051/matecconf/202541501002",
+      year              = "2025",
+      journal           = "MATEC Web of Conferences",
+      volume            = "415",
+      pages             = "01002",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. el Mesoudy, R. Foulki and D. Amegouz, “3D Concrete Printing: Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction”, <i>MATEC Web of Conferences</i>, vol. 415, p. 01002, 2025, doi: 10.1051/matecconf/202541501002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mesoudy, Mouad el, Rida Foulki, and Driss Amegouz. “3D Concrete Printing: Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction”. <i>MATEC Web of Conferences</i> 415 (2025): 01002. https://doi.org/10.1051/matecconf/202541501002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

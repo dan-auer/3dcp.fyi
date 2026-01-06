@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Verian Kho 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a>, <a href="../../../author/ashcroft_jarron"><b>Ashcroft</b> Jarron</a>, <a href="../../../author/ziemlaski_jim"><b>Ziemlaski</b> Jim</a>, <a href="../../../author/brodesser_tim"><b>Brodesser</b> Tim</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../veri_ashc_ziem_brod.2021.TAotBaILASo3PM/">The Assessment of the Buildability and Inter-Layer Adhesion Strength of 3D Printed Mortar</a></li>
   <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../batt_mill_veri.2020.PCC/">Print-Cast Concrete:<br/>Additive Manufacturing for 3D Printing Mortar in Robotically Fabricated Green Sand Molds</a></li>
   <li><a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a>, <a href="../../../author/ashcroft_jarron"><b>Ashcroft</b> Jarron</a>, <a href="../../../author/carli_d_matthew"><b>Carli</b> Matthew</a>, <a href="../../../author/bright_p_randall"><b>Bright</b> Randall</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../veri_ashc_carl_brig.2020.ItBAotCJoNaL3PM/">Improving the Bonding Adhesion of the Cold Joints of Normal and Lightweight 3D Printing Mortars</a></li>

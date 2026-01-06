@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Najeeb Manhanpally, Suman Saha
+    - footer
+title: Manhanpally Najeeb, Saha Suman
 description:
 tags:
  - analysis
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Benefit-Cost Analysis of 3D Printed Concrete Building ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1007/978-981-19-3371-4_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-19-3371-4_34</a>
+#Benefit-Cost Analysis of 3D Printed Concrete Building ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-19-3371-4_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-3371-4_34" target="_blank">10.1007/978-981-19-3371-4_34</a>
 
--------------------------
+<a href="../../../author/manhanpally_najeeb"><b>Manhanpally</b>&nbsp;Najeeb</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7684-3395" title="ORCID: 0000-0001-7684-3395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saha_suman"><b>Saha</b>&nbsp;Suman</a></span><br>
+Contribution - Proceedings of the 2nd International Conference on Materials, Mechanics & Structures, pp. 381-392
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/manhanpally_najeeb"><b>Manhanpally</b> Najeeb</a>
-,     <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> <a href="https://orcid.org/0000-0001-7684-3395" title="ORCID: 0000-0001-7684-3395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International Conference on Materials, Mechanics & Structures, pp. 381-392
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#benefit`](keyword/benefit)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#cost`](keyword/cost)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Benefit-Cost%20Analysis%20of%203D%20Printed%20Concrete%20Building" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140770254&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4301396659" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-19-3371-4_34" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-19-3371-4_34?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To have a safe shelter is considered amongst the primary need of human beings. Throughout the history of mankind, we have been in constant search for better building materials, which allow us to build stronger but cheaper houses. Invention of cement and concrete has revolutionised the construction industry. With an annual production of 10 million tons, concrete is the most widely consumed resource material after water [1]. Due to increased rate of construction all over the world, construction industry is now facing shortage of materials leading to high material cost. Also, the construction world is now facing a shortage of labour. Both increased material and labour cost are causing high expenditures in building construction [2]. Even today in the modern times of automation in every field, construction industry is still based on the labour-intensive construction practices. This has forced the construction industry not to taste the benefit of less cost which many other industries are already getting. There is an urgent demand for transforming and upgrading the practices in construction industry with different construction automation technology [2]. Cement-based additive manufacturing, which is often referred to as 3D concrete printing, has been under research and development for the past decade [3, 4]. In 3D printed concrete (3DPC), use conventional moulds like formworks are avoided by precisely placing and setting of concrete material printed in sequential layers under an automated process. 3D printing technology is an intelligent technology which is making great impacts in the fields of manufacturing. This technology allows to prepare complex-shaped parts with ease according to the imagination of the user. The use of 3D printing technology in the construction industry is gaining more and more interest in recent years. In comparison with conventional labour-intensive construction practices, 3D printing technology in manufacturing allows faster construction with lesser labour consumption and thus leading to lower cost. Since no formworks are required in this method, it allows design liberalisation and low resource consumption [5]. The 3D printing construction market is projected to grow about 250% between 2019 and 2024. The market for 3D printed structures is growing at a fastpaced rate due to the high demand for complex-shape structures in the building and infrastructure sectors. 3D printing is considered as an important tool for the third industrial revolution [2].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -82,9 +64,40 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../kone_raje_sanj.2023.DoaPCfU3CPiPC/">Development of a Prototype Concept for Using 3D Concrete Printing in Pavement Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{manh_saha.2023.BCAo3PCB,
+      author            = "Najeeb Manhanpally and Suman Saha",
+      title             = "Benefit-Cost Analysis of 3D Printed Concrete Building",
+      doi               = "10.1007/978-981-19-3371-4_34",
+      year              = "2023",
+      volume            = "269",
+      pages             = "381--392",
+      booktitle         = "Proceedings of the 2nd International Conference on Materials, Mechanics & Structures: Recent Advances in Materials, Mechanics and Structures",
+      editor            = "Suman Saha and A. S. Sajith and Dipti Ranjan Sahoo and Pradip Sarkar",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Manhanpally  and S. Saha, “Benefit-Cost Analysis of 3D Printed Concrete Building”, in <i>Proceedings of the 2nd International Conference on Materials, Mechanics & Structures: Recent Advances in Materials, Mechanics and Structures</i>,  2023, vol. 269, pp. 381–392. doi: 10.1007/978-981-19-3371-4_34.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Manhanpally, Najeeb, and Suman Saha. “Benefit-Cost Analysis of 3D Printed Concrete Building”. In <i>Proceedings of the 2nd International Conference on Materials, Mechanics & Structures: Recent Advances in Materials, Mechanics and Structures</i>, edited by Suman Saha, A. S. Sajith, Dipti Ranjan Sahoo, and Pradip Sarkar, 269:381–92, 2023. https://doi.org/10.1007/978-981-19-3371-4_34.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

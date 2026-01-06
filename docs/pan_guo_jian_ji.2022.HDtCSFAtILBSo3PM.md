@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tinghong Pan, Rongxin Guo, Yaqing Jiang, Xuping Ji
+    - footer
+title: Pan Tinghong, Guo Rongxin, Jiang Yaqing, Ji Xuping
 description:
 tags:
  - bond
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar? ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104675" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104675</a>
+#How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar? ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104675" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104675" target="_blank">10.1016/j.cemconcomp.2022.104675</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2290-4911" title="ORCID: 0000-0002-2290-4911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_rongxin"><b>Guo</b>&nbsp;Rongxin</a></span>, <a href="../../../author/jiang_yaqing"><b>Jiang</b>&nbsp;Yaqing</a></span>, <a href="../../../author/ji_xuping"><b>Ji</b>&nbsp;Xuping</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> <a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a> <a href="https://orcid.org/0000-0002-2290-4911" title="ORCID: 0000-0002-2290-4911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>
-,     <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 133, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#contact`](keyword/contact)
-    [`#force`](keyword/force)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/contact"><button class="btn">#contact</button></a> <a href="../../keyword/force"><button class="btn">#force</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=How%20Do%20the%20Contact%20Surface%20Forces%20Affect%20the%20Inter-Layer%20Bond%20Strength%20of%203D%20Printed%20Mortar%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134434638&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285034019" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104675" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104675?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Depositing of printing layer on the previous printed structures leads to the formation of contact surface forces between two layers. However, it is not clear how do the contact surface forces affect the interlayer bond strength of 3D printed mortar? In order to answer the above-mentioned question, the contact surface forces and the resulting interlayer bond strength of double−layer printed structures with different nozzle stand−off distance and travel speed of the nozzle are analyzed in this paper. Results indicate that the outflow of the extrudate and movement of the nozzle may strike and shear the previously deposited layer, resulting in a highest pressure directly below the nozzle, which is several times larger than those caused by the self-weight of a single layer. Increasing the nozzle stand−off distance would decrease contact surface forces, while increasing the travel speed of the nozzle would increase contact surface forces. The contact surface forces between two layers directly affect the interlayer bond strength of printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "60 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -130,8 +107,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
@@ -157,4 +135,33 @@ tags:
       <li><a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mune_krug_zijl.2023.IILBi3PCTITH/">Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../pan_guo_jian_ji.2022.FaDBoCMTNwDGP/">Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters:<br/>Experimental and Numerical Approaches</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM,
+      author            = "Tinghong Pan and Rongxin Guo and Yaqing Jiang and Xuping Ji",
+      title             = "How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?",
+      doi               = "10.1016/j.cemconcomp.2022.104675",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Pan, R. Guo, Y. Jiang and X. Ji, “How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?”, <i>Cement and Concrete Composites</i>, vol. 133, 2022, doi: 10.1016/j.cemconcomp.2022.104675.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Tinghong, Rongxin Guo, Yaqing Jiang, and Xuping Ji. “How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?”. <i>Cement and Concrete Composites</i> 133 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104675.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

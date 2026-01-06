@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Youbau Jiang, Jun Wen, Pengxiang Gao, Yan Liu, Zupan Zhang
+    - footer
+title: Jiang Youbau, Wen Jun, Gao Pengxiang, Liu Yan, Zhang Zupan
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1177/13694332251377539" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1177/13694332251377539</a>
+#Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/13694332251377539" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332251377539" target="_blank">10.1177/13694332251377539</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0276-818X" title="ORCID: 0000-0003-0276-818X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_youbau"><b>Jiang</b>&nbsp;Youbau</a></span>, <a href="../../../author/wen_jun"><b>Wen</b>&nbsp;Jun</a></span>, <a href="../../../author/gao_pengxiang"><b>Gao</b>&nbsp;Pengxiang</a></span>, <a href="../../../author/liu_yan"><b>Liu</b>&nbsp;Yan</a></span>, <a href="../../../author/zhang_zupan"><b>Zhang</b>&nbsp;Zupan</a></span><br>
+Journal Article - Advances in Structural Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a> <a href="https://orcid.org/0000-0003-0276-818X" title="ORCID: 0000-0003-0276-818X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>
-,     <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>
-,     <a href="../../../author/liu_yan"><b>Liu</b> Yan</a>
-,     <a href="../../../author/zhang_zupan"><b>Zhang</b> Zupan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Structural Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#graphene`](keyword/graphene)
-    [`#mechanics`](keyword/mechanics)
-    [`#physics`](keyword/physics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Graphene%20Oxide%20on%20Physical%20and%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016860224&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414141934" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1177/13694332251377539" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1177/13694332251377539?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Graphene oxide (GO), as a novel nanomaterial, can effectively improve the properties of 3D printed concrete. However, the optimization mechanism of the dosage control on the physical and mechanical properties of the material still requires systematic research. In this study, through fluidity tests, axial compression tests, porosity tests, and scanning electron microscopy (SEM), the effects of a gradient GO dosage on the fluidity, compressive strength, and microstructure of 3D printed concrete were evaluated. The findings indicate that: (1) The fluidity of the 3D printed concrete increases with increasing GO content. Notably, the concrete with more than 0.4 weight percent (wt.%) GO falls below the process standard for 3D printed technology. (2) For the cast-in-place group, when the GO content is 0.1, 0.2, and 0.3 wt.%, the compressive strength increases by approximately 4%, 7.3%, and 16.8%, respectively, compared to concrete without GO, reaching values of 42.8, 44, and 47.9 MPa. The compressive strength of the 3D printed group also shows an increase of 0.2%, 4.9%, and 9.9%, resulting in values of 48.5, 48.6, 50.9, and 53.3 MPa, respectively. (3) The incorporation of GO into concrete causes a porosity reduction of 2.22% to 4.03%, respectively, accompanied by a decrease of approximately 7000 gel pores and a reduction in the maximum pore size by nearly 6.7 times. (4) The microstructural diagram reveals that in the absence of GO, various pores, micro-cracks, spherical voids, and loose cementitious materials appear on the concrete microsurface. However, with the addition of 0.3 wt.% GO, only a limited number of pores and voids are observed. This study establishes a novel dosage-microstructure-property paradigm where 0.3 wt.% GO optimally balances processability (ensured by rheology) with performance (driven by pore homogenization and accelerated hydration). These results inform the optimization of mix designs for additive manufacturing of cementitious composites.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_ning"><b>An</b> Ning</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/le_liu"><b>Le</b> Liu</a>, <a href="../../../author/li_shuo"><b>Li</b> Shuo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../an_wang_le_li.2024.RTMoEaBi3CPBoTDM/">Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method</a></li>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/adhikari_sondipon"><b>Adhikari</b> Sondipon</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../jian_gao_adhi_yao.2024.SotMPoILI3PCBoaNN/">Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle</a></li>
@@ -89,7 +67,35 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_zhan_qian_liu.2023.IoSFotWAo3PC/">Influence of Steel-Fiber on the Water-Absorption of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_wen_gao_liu.2025.EoGOoPaMPo3PC,
+      author            = "Youbau Jiang and Jun Wen and Pengxiang Gao and Yan Liu and Zupan Zhang",
+      title             = "Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete",
+      doi               = "10.1177/13694332251377539",
+      year              = "2025",
+      journal           = "Advances in Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jiang, J. Wen, P. Gao, Y. Liu and Z. Zhang, “Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete”, <i>Advances in Structural Engineering</i>, 2025, doi: 10.1177/13694332251377539.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Youbau, Jun Wen, Pengxiang Gao, Yan Liu, and Zupan Zhang. “Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete”. <i>Advances in Structural Engineering</i>, 2025. https://doi.org/10.1177/13694332251377539.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

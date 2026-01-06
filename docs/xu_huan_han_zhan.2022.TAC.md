@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weiguo Xu, Shuyi Huang, Dong Han, Zhiling Zhang, Yuan Gao, Peng Feng, Daobo Zhang
+    - footer
+title: Xu Weiguo, Huang Shuyi, Han Dong, Zhang Zhiling, Gao Yuan, Feng Peng, Zhang Daobo
 description:
 tags:
  - automation
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2022.e01442) Toward Automated Construction:<br/>:aca-blank: The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.cscm.2022.e01442" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2022.e01442</a>
+#Toward Automated Construction&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2022.e01442) <a href="https://doi.org/10.1016/j.cscm.2022.e01442" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e01442" target="_blank">10.1016/j.cscm.2022.e01442</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weiguo"><b>Xu</b>&nbsp;Weiguo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5498-2730" title="ORCID: 0000-0001-5498-2730" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_shuyi"><b>Huang</b>&nbsp;Shuyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3292-979X" title="ORCID: 0000-0003-3292-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_dong"><b>Han</b>&nbsp;Dong</a></span>, <a href="../../../author/zhang_zhiling"><b>Zhang</b>&nbsp;Zhiling</a></span>, <a href="../../../author/gao_yuan"><b>Gao</b>&nbsp;Yuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_peng"><b>Feng</b>&nbsp;Peng</a></span>, <a href="../../../author/zhang_daobo"><b>Zhang</b>&nbsp;Daobo</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 17
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a> <a href="https://orcid.org/0000-0001-5498-2730" title="ORCID: 0000-0001-5498-2730" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_dong"><b>Han</b> Dong</a> <a href="https://orcid.org/0000-0003-3292-979X" title="ORCID: 0000-0003-3292-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a>
-,     <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>
-,     <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 17
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#situ`](keyword/situ)
-    [`#workflow`](keyword/workflow)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Toward%20Automated%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137162479&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4293660580" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2022.e01442" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2022.e01442?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the construction industry, the labor shortage is a global issue. Characterized by the forming process of layered extrusion and rapid solidification, 3D concrete printing (3DCP) technology begins to be used in digital concrete construction to minimize the demand for manpower. However, the utilization of 3DCP in full-scale architectural constructions is still in its infancy, involving many manual processes like rebars-binding and formwork-making, which reduces the benefits of construction automation that should be brought by such technology. Therefore, this study proposes a design-to-printing workflow to 3D print the entire structure of a farmhouse in Wujiazhuang (WJZ) village. Firstly, design strategies are built up by a series of multi-disciplinary research, including printing system development, site planning, material design, and structure evaluation. Secondly, construction strategies involving printing process organization and manhour-saving construction methods are utilized in the 3D printing process. By applying the introduced workflow, the project saves 62.4 % of human resources compared with the traditional reinforced concrete (RC) method, and the participation of 3D printing technologies arises from 18.3 % in the common 3DCP scenario to 76.5 % in this project. The on-site construction duration of the WJZ farmhouse is also reduced by 24.5 % in comparison with the unplanned construction process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -93,8 +69,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teix_jesu_ribe_rang.2026.LFAMwCaCA/">Large Format Additive Manufacturing with Cement and Clay Applications</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhon_huan_liu_wang.2025.DSfECCi3PSSM/">Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>Material Modification and Curing Process Innovation</a></li>
@@ -130,4 +106,33 @@ tags:
       <li><a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a>, <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../wang_asla_dysk_past.2023.DTAi3CP/">Digital Twin Applications in 3D Concrete Printing</a></li>
       <li><a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/zahedi_ata"><b>Zahedi</b> Ata</a>, <a href="../../../author/petzold_frank"><b>Petzold</b> Frank</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../li_zahe_petz.2022.PDDSfACUFKaIPfSwaFM/">Pragmatic Design Decision Support for Additive Construction Using Formal Knowledge and Its Prospects for Synergy with a Feedback Mechanism</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_huan_han_zhan.2022.TAC,
+      author            = "Weiguo Xu and Shuyi Huang and Dong Han and Zhiling Zhang and Yuan Gao and Peng Feng and Daobo Zhang",
+      title             = "Toward Automated Construction: The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House",
+      doi               = "10.1016/j.cscm.2022.e01442",
+      year              = "2022",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "17",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Xu, “Toward Automated Construction: The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House”, <i>Case Studies in Construction Materials</i>, vol. 17, 2022, doi: 10.1016/j.cscm.2022.e01442.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Weiguo, Shuyi Huang, Dong Han, Zhiling Zhang, Yuan Gao, Peng Feng, and Daobo Zhang. “Toward Automated Construction: The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House”. <i>Case Studies in Construction Materials</i> 17 (2022). https://doi.org/10.1016/j.cscm.2022.e01442.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

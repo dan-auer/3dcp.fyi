@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Freek Bos, Robert Wolfs, Theo Salet
+    - footer
+title: Bos Freek, Wolfs Robert, Salet Theo
 description:
 tags:
  - concrete
@@ -10,25 +11,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} CCR Digital Concrete 2020 SI:<br/>:aca-blank: Editorial ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1016/j.cemconres.2020.106157" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2020.106157</a>
+#CCR Digital Concrete 2020 SI&nbsp;([2020-06](date/2020/06))
+<div class="h1-like">Editorial</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2020.106157" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2020.106157" target="_blank">10.1016/j.cemconres.2020.106157</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 135
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 135, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=CCR%20Digital%20Concrete%202020%20SI" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086459204&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -43,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3036601978" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2020.106157" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2020.106157?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of digital fabrication of cement-based materials (DFC) is taking the construction industry by storm. New horizons come into view by the promises of geometrical freedom, high construction speed, lack of hard physical labour, and reduced use of primary and secondary materials. However, this comes at a price. Behind the seemingly easy free deposition of fresh material, complex phenomena and fundamental questions hide. DFC engages the material in a phase that is normally left untouched: during the transition from fluid to solid. The (partial) absence of formwork that characterizes most DFC processes, poses many fascinating new challenges, in fields ranging from material design (including reinforcement) and process modelling, to quality control and product application. The complete interaction between design, material, process, and product needs to be rethought (Fig. 1a). This is now attracting attention from research groups around the world. In the slipstream, an increasing number of conferences on the topic has been initiated as well. Two years ago, Digital Concrete 2018, hosted by the ETH Zurich, was the first dedicated conference in this field worldwide. In July of this year, the TU Eindhoven hosts Digital Concrete 2020, the 2nd RILEM International Conference of Concrete and Digital Fabrication, online. In a mere two years, the number of papers has almost quadrupled, which illustrates the rapid expansion of the field. The Digital Concrete conferences are sponsored by the RILEM Technical Committee 276 Digital Fabrication with Cement-based materials, and are set to be continued under the umbrella of subsequent RILEM Technical Committees after the termination of TC 276, with the follow-up event expected to take place at Loughborough University in 2022. Digital Concrete 2020 is the topic of this Special Issue of Cement and Concrete Research. In a sense, it is the successor of issue 112, which was dedicated to the 2018 event. The current issue collects 13 keynote and invited papers across the scale of the conference scope: from the studies of the crucial physico-chemical phenomena, through process modelling, to mixture design, and finally applications. A bird's eye view of the field is provided by Khan et al. [1]. They present a solid historical and technological embedding of the technologies now recognized under the umbrella of DFC. Based on their broad review, featuring a particularly worthwhile section on numerical modelling, the authors conclude the future for 3D printing in construction is bright and outline a path for its further development. This paper thus provides an excellent introduction into the subject matter.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -76,12 +62,11 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
-      <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.SAo3PCWUQSCLUCMM/">Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model</a></li>
@@ -101,4 +86,33 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../vasi.2020.AMiCC/">Additive Manufacturing in Concrete Construction:<br/>Current Status</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bos_wolf_sale.2020.CDC2S,
+      author            = "Freek Paul Bos and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+      title             = "CCR Digital Concrete 2020 SI: Editorial",
+      doi               = "10.1016/j.cemconres.2020.106157",
+      year              = "2020",
+      journal           = "Cement and Concrete Research",
+      volume            = "135",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. P. Bos, R. J. M. Wolfs and T. A. M. Salet, “CCR Digital Concrete 2020 SI: Editorial”, <i>Cement and Concrete Research</i>, vol. 135, 2020, doi: 10.1016/j.cemconres.2020.106157.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bos, Freek Paul, Robert Johannes Maria Wolfs, and Theo A. M. Salet. “CCR Digital Concrete 2020 SI: Editorial”. <i>Cement and Concrete Research</i> 135 (2020). https://doi.org/10.1016/j.cemconres.2020.106157.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

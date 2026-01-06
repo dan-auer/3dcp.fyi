@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hatice Şahin, Fatih Akgümüş, Ali Mardani
+    - footer
+title: Şahin Hatice, Akgümüş Fatih, Mardani Ali
 description:
 tags:
  - aspects
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1002/suco.202400030) Mechanical and Rheological Properties of Fiber‐Reinforced 3D Printable Concrete in Terms of Fiber Content and Aspect Ratio ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1002/suco.202400030" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202400030</a>
+#Mechanical and Rheological Properties of Fiber‐Reinforced 3D Printable Concrete in Terms of Fiber Content and Aspect Ratio ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1002/suco.202400030) <a href="https://doi.org/10.1002/suco.202400030" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202400030" target="_blank">10.1002/suco.202400030</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-6037-1105" title="ORCID: 0009-0002-6037-1105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b>&nbsp;Fatih</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a> <a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a> <a href="https://orcid.org/0009-0002-6037-1105" title="ORCID: 0009-0002-6037-1105" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aspects`](keyword/aspects)
-    [`#concrete`](keyword/concrete)
-    [`#content`](keyword/content)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#ratio`](keyword/ratio)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#term`](keyword/term)
-
-
--------------------------
+<a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Rheological%20Properties%20of%20Fiber%E2%80%90Reinforced%203D%20Printable%20Concrete%20in%20Terms%20of%20Fiber%20Content%20and%20Aspect%20Ratio" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200979509&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401457912" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.202400030" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.202400030?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this study is to improve the mechanical and dimensional stability properties of 3D printable concrete by using fibers. Ten mixtures containing polypropylene fiber in three different lengths (3, 6, and 12 mm) and ratios (0.2%, 0.4%, and 0.6%) were prepared. Rheological properties, compressive strength, threepoint flexural strength, and drying-shrinkage performance of 3D printable concretemixtureswereexaminedinthisstudy. Strength properties were determined by perpendicular and lateral loading. Thixotropic properties of the mixtures were determined using three different approaches (structural build-up development, hysteresis area and dynamic structural build-up). The dynamic yield stress value increased with fiber addition up to 0.4% of the total volume. It was determined that this value decreases with the use of fiber above this rate. In terms ofmechanical and dimensional stability properties of 3D printable concrete, the optimum fiber length and utilization ratio were 6 mm and 0.4%, respectively. This parameters were adversely affected when fiber utilization ratio was 0.6% and length was 12 mm. Also, there is a strong correlation between structural build-up development and dynamic structural build-up.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -104,12 +80,40 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/zhou_yuecheng"><b>Zhou</b> Yuecheng</a>, <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>, <a href="../../../author/li_haonian"><b>Li</b> Haonian</a>, <a href="../../../author/wang_chong"><b>Wang</b> Chong</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhou_xiao_li_wang.2025.SotRPaPoMSMMMf3P/">Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/akarsu-ozenc_aliye"><b>Akarsu Özenç</b> Aliye</a>, <a href="../../../author/saka-dinc_zaide"><b>Saka Dinç</b> Zaide</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sahi_akar_saka_mard.2024.IoFaHPo3PCCOMCF/">Investigation of Fresh and Hardened Properties of 3D Printable Concrete Containing Ozone-Modified Carbon-Fiber</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sahi_akgu_mard.2024.MaRPoFR3PCiToFCaAR,
+      author            = "Hatice Gizem Şahin and Fatih Eren Akgümüş and Ali Mardani",
+      title             = "Mechanical and Rheological Properties of Fiber‐Reinforced 3D Printable Concrete in Terms of Fiber Content and Aspect Ratio",
+      doi               = "10.1002/suco.202400030",
+      year              = "2024",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. G. Şahin, F. E. Akgümüş and A. Mardani, “Mechanical and Rheological Properties of Fiber‐Reinforced 3D Printable Concrete in Terms of Fiber Content and Aspect Ratio”, <i>Structural Concrete</i>, 2024, doi: 10.1002/suco.202400030.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Şahin, Hatice Gizem, Fatih Eren Akgümüş, and Ali Mardani. “Mechanical and Rheological Properties of Fiber‐Reinforced 3D Printable Concrete in Terms of Fiber Content and Aspect Ratio”. <i>Structural Concrete</i>, 2024. https://doi.org/10.1002/suco.202400030.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

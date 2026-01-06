@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Kazemian, Xiao Yuan, Evan Cochran, Behrokh Khoshnevis
+    - footer
+title: Kazemian Ali, Yuan Xiao, Cochran Evan, Khoshnevis Behrokh
 description:
 tags:
  - cement
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Cementitious Materials for Construction-Scale 3D Printing:<br/>:aca-blank: Laboratory Testing of Fresh Printing Mixture ([2017-04](date/2017/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2017.04.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2017.04.015</a>
+#Cementitious Materials for Construction-Scale 3D Printing&nbsp;([2017-04](date/2017/04))
+<div class="h1-like">Laboratory Testing of Fresh Printing Mixture</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2017.04.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.04.015" target="_blank">10.1016/j.conbuildmat.2017.04.015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <a href="../../../author/cochran_evan"><b>Cochran</b>&nbsp;Evan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 145, pp. 639-647
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>
-,     <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 145, pp. 639-647
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#fresh`](keyword/fresh)
-    [`#labor`](keyword/labor)
-    [`#material`](keyword/material)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cementitious%20Materials%20for%20Construction-Scale%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85018474554&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2606387782" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2017.04.015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2017.04.015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, a framework for performance-based laboratory testing of cementitious mixtures for construction-scale 3D printing is developed, where workability of a fresh ‘‘printing mixture” is studied in terms of print quality, shape stability, and printability window. Print quality is described using measures of surface quality and dimensions of printed layers. Details of two proposed test methods for evaluation of shape stability, namely, ‘‘layer settlement” and ‘‘cylinder stability” are also provided. Experimental study of four different mixtures revealed that inclusion of silica fume and Nano-clay significantly enhance shape stability. The results of five conventional test methods, as well as four proposed tests are used to discuss the performance of mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -79,12 +57,14 @@ tags:
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "492 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
@@ -574,6 +554,35 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>
-      <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kaze_yuan_coch_khos.2017.CMfCS3P,
+      author            = "Ali Kazemian and Xiao Yuan and Evan Cochran and Behrokh Khoshnevis",
+      title             = "Cementitious Materials for Construction-Scale 3D Printing: Laboratory Testing of Fresh Printing Mixture",
+      doi               = "10.1016/j.conbuildmat.2017.04.015",
+      year              = "2017",
+      journal           = "Construction and Building Materials",
+      volume            = "145",
+      pages             = "639--647",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kazemian, X. Yuan, E. Cochran and B. Khoshnevis, “Cementitious Materials for Construction-Scale 3D Printing: Laboratory Testing of Fresh Printing Mixture”, <i>Construction and Building Materials</i>, vol. 145, pp. 639–647, 2017, doi: 10.1016/j.conbuildmat.2017.04.015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kazemian, Ali, Xiao Yuan, Evan Cochran, and Behrokh Khoshnevis. “Cementitious Materials for Construction-Scale 3D Printing: Laboratory Testing of Fresh Printing Mixture”. <i>Construction and Building Materials</i> 145 (2017): 639–47. https://doi.org/10.1016/j.conbuildmat.2017.04.015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jean-François Caron, Léo Demont, Nicolas Ducoulombier, Romain Mesnil
+    - footer
+title: Caron Jean-François, Demont Léo, Ducoulombier Nicolas, Mesnil Romain
 description:
 tags:
  - application
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0926580521002570) 3D Printing of Mortar with Continuous Fibers:<br/>:aca-blank: Principle, Properties and Potential for Application ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1016/j.autcon.2021.103806" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2021.103806</a>
+#3D Printing of Mortar with Continuous Fibers&nbsp;([2021-06](date/2021/06))
+<div class="h1-like">Principle, Properties and Potential for Application</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0926580521002570) <a href="https://doi.org/10.1016/j.autcon.2021.103806" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103806" target="_blank">10.1016/j.autcon.2021.103806</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demont_leo"><b>Demont</b>&nbsp;Léo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span><br>
+Journal Article - Automation in Construction, Vol. 129
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 129, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#continuous`](keyword/continuous)
-    [`#fiber`](keyword/fiber)
-    [`#mortar`](keyword/mortar)
-    [`#potential`](keyword/potential)
-    [`#principal`](keyword/principal)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/principal"><button class="btn">#principal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Mortar%20with%20Continuous%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108596843&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3175553408" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2021.103806" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2021.103806?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Important developments in additive manufacturing with concrete have been achieved in the past decades. Yet, printed components usually do not comply with building standards or basic reliability principles, and are not commonly used as load-bearing components. A gap between research and practice exists and despite several attempts, off-the-shelf commercial solutions for the reinforcement of the 3D printed structural components seem always expected. This article presents an alternative (pending for patent [1]) for reinforcement of 3D printed structures. This technology inspired by the composite industry is called Flow-Based Pultrusion for additive manufacturing (FBP). A strict control of the rheological behavior of the cementitious matrix ensures the routing and impregnation of continuous rovings of thin fibres (glass, basalt, etc.) without any motorization. The resulting material, Anisotropic Concrete, homogeneously reinforced in a single direction, provides new possibilities, may enhance strength and ductility for hardened material but also help to a better handling of the fresh laces during the deposition, permitting inclined or cantilever paths. This paper describes the process, its constraints, first experimental achievements and first investigations about the mechanical performances of such a material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
@@ -88,8 +67,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bran_figu_cruz.2025.WFTf3CRP/">Winding Fiber Thread for 3D Concrete Robotic Printing</a></li>
       <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
@@ -117,4 +96,33 @@ tags:
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
       <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/schulz_michael"><b>Schulz</b> Michael</a>, <a href="../../../author/moosburger-will_judith"><b>Moosburger-Will</b> Judith</a>, <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../rutz_schu_moos_lauf.2021.3PaaAMMfaCFRCCwOFS1Nm/">3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{caro_demo_duco_mesn.2021.3PoMwCF,
+      author            = "Jean-François Caron and Léo Demont and Nicolas Ducoulombier and Romain Mesnil",
+      title             = "3D Printing of Mortar with Continuous Fibers: Principle, Properties and Potential for Application",
+      doi               = "10.1016/j.autcon.2021.103806",
+      year              = "2021",
+      journal           = "Automation in Construction",
+      volume            = "129",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-F. Caron, L. Demont, N. Ducoulombier and R. Mesnil, “3D Printing of Mortar with Continuous Fibers: Principle, Properties and Potential for Application”, <i>Automation in Construction</i>, vol. 129, 2021, doi: 10.1016/j.autcon.2021.103806.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Caron, Jean-François, Léo Demont, Nicolas Ducoulombier, and Romain Mesnil. “3D Printing of Mortar with Continuous Fibers: Principle, Properties and Potential for Application”. <i>Automation in Construction</i> 129 (2021). https://doi.org/10.1016/j.autcon.2021.103806.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

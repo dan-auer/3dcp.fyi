@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mona Sando, Dietmar Stephan
+    - footer
+title: Sando Mona, Stephan Dietmar
 description:
 tags:
  - ash
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03407) The Development of a Fly-Ash-Based Geopolymer for Extrusion-Based 3D Printing, Along with a Printability Prediction Method ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03407" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03407</a>
+#The Development of a Fly-Ash-Based Geopolymer for Extrusion-Based 3D Printing, Along with a Printability Prediction Method ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03407) <a href="https://doi.org/10.1016/j.cscm.2024.e03407" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03407" target="_blank">10.1016/j.cscm.2024.e03407</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-6802-4113" title="ORCID: 0009-0003-6802-4113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sando_mona"><b>Sando</b>&nbsp;Mona</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03407
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sando_mona"><b>Sando</b> Mona</a> <a href="https://orcid.org/0009-0003-6802-4113" title="ORCID: 0009-0003-6802-4113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03407
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#development`](keyword/development)
-    [`#extrusion`](keyword/extrusion)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#method`](keyword/method)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Development%20of%20a%20Fly-Ash-Based%20Geopolymer%20for%20Extrusion-Based%203D%20Printing%2C%20Along%20with%20a%20Printability%20Prediction%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196324638&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399600690" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03407" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03407?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents insights into the design and development of a geopolymer consisting of fly ash and ground granulated blast furnace slag (GGBFS) usable for extrusion-based 3D printing. It also reports on factors influencing the printability of the geopolymer, such as the amount of GGBFS, the solids content, mixing time, and activator ratio. Besides measuring the setting behaviour, the yield stress, and the ultrasonic velocity, we also conducted a modified flow spread test to investigate the geopolymer’s early physical material properties. We also used analytical methods (SEM, XRD, and TG) to explain its physical behaviour. We introduced an adjusted test for the flow spread (VFS test), which gives information about the thixotropic behaviour depending on the shear stress and the opentime for printing. By comparing the derivatives of the yield stress curve with printing tests on an XYZ gantry printer and analysis of the yield stress measurement’s transition point, we also present a unique method that allows researchers to assess the printability of the geopolymer solely on one small-scale laboratory tests without requiring printing tests on a physical 3D printer.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/maitenaz_sebastien"><b>Maitenaz</b> Sébastien</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arch_mait_demo_char.2021.StSoaHMSaGCSbAM/">Strategy to Shape, on a Half-Meter Scale, a Geopolymer Composite Structure by Additive Manufacturing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
@@ -98,8 +77,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/khalid_waleed_lawand"><b>Khalid</b> Lawand</a>, <a href="../../../author/mermerdas_kasim"><b>Mermerdaş</b> Kasım</a>, <a href="../../../author/ekmen_sevin"><b>Ekmen</b> Şevin</a>, <a href="../../../author/khidhir-bzeni_dillshad"><b>Khidhir Bzeni</b> Dillshad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khal_merm_ekme_khid.2025.OoFaHPoFR3PGCURSM/">Optimization of Fresh and Hardened Properties of Fiber-Reinforced 3D Printed Geopolymer Composites Using Response Surface Methodology:<br/>A Data-Driven Approach Based on Prior Experimental Studies</a></li>
@@ -108,4 +87,34 @@ tags:
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sand_step.2025.TRoMSiSt3PoG/">The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sand_step.2024.TDoaFABGfEB3PAwaPPM,
+      author            = "Mona Sando and Dietmar Stephan",
+      title             = "The Development of a Fly-Ash-Based Geopolymer for Extrusion-Based 3D Printing, Along with a Printability Prediction Method",
+      doi               = "10.1016/j.cscm.2024.e03407",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "21",
+      pages             = "e03407",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sando  and D. Stephan, “The Development of a Fly-Ash-Based Geopolymer for Extrusion-Based 3D Printing, Along with a Printability Prediction Method”, <i>Case Studies in Construction Materials</i>, vol. 21, p. e03407, 2024, doi: 10.1016/j.cscm.2024.e03407.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sando, Mona, and Dietmar Stephan. “The Development of a Fly-Ash-Based Geopolymer for Extrusion-Based 3D Printing, Along with a Printability Prediction Method”. <i>Case Studies in Construction Materials</i> 21 (2024): e03407. https://doi.org/10.1016/j.cscm.2024.e03407.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

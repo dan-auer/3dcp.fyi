@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kaijian Zhang, Wenqiang Lin, Qingtian Zhang, Dehui Wang, Surong Luo
+    - footer
+title: Zhang Kaijian, Lin Wenqiang, Zhang Qingtian, Wang Dehui, Luo Surong
 description:
 tags:
  - anisotropy
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137417" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137417</a>
+#Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137417" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137417" target="_blank">10.1016/j.conbuildmat.2024.137417</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_kaijian"><b>Zhang</b>&nbsp;Kaijian</a></span>, <a href="../../../author/lin_wenqiang"><b>Lin</b>&nbsp;Wenqiang</a></span>, <a href="../../../author/zhang_qingtian"><b>Zhang</b>&nbsp;Qingtian</a></span>, <a href="../../../author/wang_dehui"><b>Wang</b>&nbsp;Dehui</a></span>, <a href="../../../author/luo_surong"><b>Luo</b>&nbsp;Surong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 440, No. 137417
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>
-,     <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>
-,     <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a>
-,     <a href="../../../author/luo_surong"><b>Luo</b> Surong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 440, No. 137417
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#statistics`](keyword/statistics)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/statistics"><button class="btn">#statistics</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Anisotropy%20and%20Statistical%20Parameters%20of%20Compressive%20Strength%20for%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198724112&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400721328" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137417" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137417?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The compressive strength data of 3D printed concrete (3DPC) in X (Print direction), Y (Adjacent stripes), and Z (Stacked stripes) were collected and analyzed to evaluate its anisotropic behavior and statistical parameters. Similar to conventional cast concrete, there is a linear relationship between the compressive strength of 3DPC and the binder-to-water ratio (B/W). For the normalized strength data, the average ratios of X/C, Y/C, and Z/C at 28 days are 0.87, 0.80, and 0.82 respectively, indicating a decrease in the compressive strength and anisotropy compared to cast concrete. Compared to the coefficient of variation (COV) of cast specimens mentioned in the specifications, there is an increase of 4.3–69 %. The weak interfaces and unique pore shapes in 3DPC interact to cause stress concentration and redistribution of internal stresses, resulting in decreased compressive strength, anisotropy, and variability. This investigation can provide material parameters for studying the structural performance of 3DPC components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "84 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -153,8 +130,8 @@ tags:
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
@@ -179,4 +156,34 @@ tags:
       <li><a href="../../../author/over_derya"><b>Over</b> Derya</a>, <a href="../../../author/ozbakan_nesil"><b>Ozbakan</b> Nesil</a>, <a href="../../../author/bustani_ali_mehmet"><b>Bustani</b> Mehmet</a>, <a href="../../../author/karali_can_bulut"><b>Karali</b> Bulut</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../over_ozba_bust_kara.2024.AIoRPaSoV3PCMwABaRM/">An Investigation of Rheological Properties and Sustainability of Various 3D Printing Concrete Mixtures with Alternative Binders and Rheological Modifiers</a></li>
       <li><a href="../../../author/ma_xin-rui"><b>Ma</b> Xin-Rui</a>, <a href="../../../author/wang_xian-lin"><b>Wang</b> Xian-Lin</a>, <a href="../../../author/chen_shi-zi"><b>Chen</b> Shi-Zi</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_wang_chen.2024.TMLE3CP/">Trustworthy Machine Learning-Enhanced 3D Concrete Printing:<br/>Predicting Bond Strength and Designing Reinforcement Embedment Length</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC,
+      author            = "Kaijian Zhang and Wenqiang Lin and Qingtian Zhang and Dehui Wang and Surong Luo",
+      title             = "Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.137417",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "440",
+      pages             = "137417",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Zhang, W. Lin, Q. Zhang, D. Wang and S. Luo, “Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 440, p. 137417, 2024, doi: 10.1016/j.conbuildmat.2024.137417.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Kaijian, Wenqiang Lin, Qingtian Zhang, Dehui Wang, and Surong Luo. “Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete”. <i>Construction and Building Materials</i> 440 (2024): 137417. https://doi.org/10.1016/j.conbuildmat.2024.137417.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

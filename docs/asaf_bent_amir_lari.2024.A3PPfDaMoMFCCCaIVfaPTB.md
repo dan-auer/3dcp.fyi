@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ofer Asaf, Arnon Bentur, Oded Amir, Pavel Larianovsky, Ohad Meyuhas, Eliad Michli, Aaron Sprecher
+    - footer
+title: Asaf Ofer, Bentur Arnon, Amir Oded, Larianovsky Pavel, Meyuhas Ohad, Michli Eliad, Sprecher Aaron
 description:
 tags:
  - beam
@@ -21,40 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma17184653) A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam ([2024-09](date/2024/09))
-<a href="https://doi.org/10.3390/ma17184653" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17184653</a>
+#A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17184653) <a href="https://doi.org/10.3390/ma17184653" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17184653" target="_blank">10.3390/ma17184653</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asaf_ofer"><b>Asaf</b>&nbsp;Ofer</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-0991-5471" title="ORCID: 0000-0001-0991-5471" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bentur_arnon"><b>Bentur</b>&nbsp;Arnon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-3286" title="ORCID: 0000-0002-2871-3286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amir_oded"><b>Amir</b>&nbsp;Oded</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/larianovsky_pavel"><b>Larianovsky</b>&nbsp;Pavel</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-6648-5524" title="ORCID: 0009-0006-6648-5524" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b>&nbsp;Ohad</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-4233-3476" title="ORCID: 0009-0004-4233-3476" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/michli_eliad"><b>Michli</b>&nbsp;Eliad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprecher_aaron"><b>Sprecher</b>&nbsp;Aaron</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 18, No. 4653
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a> <a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a> <a href="https://orcid.org/0000-0001-0991-5471" title="ORCID: 0000-0001-0991-5471" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="https://orcid.org/0000-0002-2871-3286" title="ORCID: 0000-0002-2871-3286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a> <a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b> Ohad</a> <a href="https://orcid.org/0009-0006-6648-5524" title="ORCID: 0009-0006-6648-5524" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/michli_eliad"><b>Michli</b> Eliad</a> <a href="https://orcid.org/0009-0004-4233-3476" title="ORCID: 0009-0004-4233-3476" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 18, No. 4653
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#cement`](keyword/cement)
-    [`#component`](keyword/component)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#function`](keyword/function)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#multi`](keyword/multi)
-    [`#platform`](keyword/platform)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#tension`](keyword/tension)
-    [`#validation`](keyword/validation)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%203D%20Printing%20Platform%20for%20Design%20and%20Manufacturing%20of%20Multi-Functional%20Cementitious%20Construction%20Components%20and%20Its%20Validation%20for%20a%20Post-Tensioned%20Beam" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205375471&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402763287" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17184653" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17184653?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing of cementitious materials for construction has been extensively investigated in recent years, with several demonstration projects successfully carried out. These efforts aim to leverage the printing process to achieve more efficient production of components compared to conventional concrete technologies. This includes both the process itself (eliminating the formwork stage) and the flexibility in producing complexly shaped elements. To maximize the potential of 3D printing in the construction industry, additional steps must be taken, grounded in a holistic view of the entire process. This involves integration of the production chain, including design, materials, and manufacturing of components, to create elements with optimal performance, encompassing structural, environmental, and architectural aspects. Such multi-functionality requires the viewing of 3D printing not just as a production technology but as a platform enabling the integration of all these components. To advance this approach, quantitative tools are developed to optimize the following three key components: material composition; manufacturing parameters to ensure buildability; and design tools to optimize multiple performance criteria, particularly structural and architectural shape. A demonstration component, namely a post-tensioned beam, featuring two multi-functional characteristics—structural and architectural—is designed, produced, and evaluated. The scientific concepts and research tools used to develop these quantitative design tools are multidisciplinary, including rheological characterization, control of the internal structure and composition of granular materials, simulation of the mechanical behavior of green material during printing, and the hardened properties of the components, all utilizing structural optimization to enhance performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../anto_yoo_beda_reit.2019.VM/">Vertical Modulations</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
@@ -125,10 +95,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2015/08">(2015-08)</a><br><a href="../../../zhou_li.2015.MCBMaBPvE/">Manufacturing Cement-Based Materials and Building Products via Extrusion:<br/>From Laboratory to Factory</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
       <li><a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b> Ohad</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/magdassi_shlomo"><b>Magdassi</b> Shlomo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../meyu_lari_bent_magd.2025.MfEBFiMMAMaaAS/">Methods for Earth-Based Falsework in Multi-Material Additive Manufacturing at an Architectural Scale</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{asaf_bent_amir_lari.2024.A3PPfDaMoMFCCCaIVfaPTB,
+      author            = "Ofer Asaf and Arnon Bentur and Oded Amir and Pavel Larianovsky and Ohad Yaacov Meyuhas and Eliad Michli and Aaron Sprecher",
+      title             = "A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam",
+      doi               = "10.3390/ma17184653",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "18",
+      pages             = "4653",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Asaf, “A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam”, <i>Materials</i>, vol. 17, no. 18, p. 4653, 2024, doi: 10.3390/ma17184653.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Asaf, Ofer, Arnon Bentur, Oded Amir, Pavel Larianovsky, Ohad Yaacov Meyuhas, Eliad Michli, and Aaron Sprecher. “A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam”. <i>Materials</i> 17, no. 18 (2024): 4653. https://doi.org/10.3390/ma17184653.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

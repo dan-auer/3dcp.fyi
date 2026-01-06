@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Pham Quang-Cuong 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nghia_quoc_vuong"><b>Nghia</b> Vuong</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/nam_quang_nguyen"><b>Nam</b> Nguyen</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../nghi_lim_nam_lu.2024.AFSRf3/">Automated Force-Sensitive Reinforcement for 3DCP</a></li>
   <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lim_zhan_ting_pham.2021.SC3PoFFCS/">Stress-Cognizant 3D Printing of Free-Form Concrete Structures</a></li>
   <li><a href="../../../author/tiryaki_efe_mehmet"><b>Tiryaki</b> Mehmet</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../tiry_zhan_pham.2019.PWM/">Printing-While-Moving:<br/>A New Paradigm for Large-Scale Robotic 3D Printing</a></li>

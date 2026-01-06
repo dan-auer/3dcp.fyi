@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Raymond Xu, Luka Morita, Parmida Khosravian, Anas Itani
+    - footer
+title: Xu Raymond, Morita Luka, Khosravian Parmida, Itani Anas
 description:
 tags:
  - analysis
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Scaled-Down Simulation and Analysis of On-Site Robotic Fabrication and Construction ([2025-07](date/2025/07))
-<a href="https://doi.org/10.22260/isarc2025/0062" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2025/0062</a>
+#Scaled-Down Simulation and Analysis of On-Site Robotic Fabrication and Construction ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2025/0062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0062" target="_blank">10.22260/isarc2025/0062</a>
 
--------------------------
+<a href="../../../author/xu_raymond"><b>Xu</b>&nbsp;Raymond</a></span>, <a href="../../../author/morita_luka"><b>Morita</b>&nbsp;Luka</a></span>, <a href="../../../author/khosravian_parmida"><b>Khosravian</b>&nbsp;Parmida</a></span>, <a href="../../../author/itani_anas"><b>Itani</b>&nbsp;Anas</a></span><br>
+Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 468-476
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_raymond"><b>Xu</b> Raymond</a>
-,     <a href="../../../author/morita_luka"><b>Morita</b> Luka</a>
-,     <a href="../../../author/khosravian_parmida"><b>Khosravian</b> Parmida</a>
-,     <a href="../../../author/itani_anas"><b>Itani</b> Anas</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 468-476
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#construction`](keyword/construction)
-    [`#fabrication`](keyword/fabrication)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-    [`#simulation`](keyword/simulation)
-    [`#site`](keyword/site)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Scaled-Down%20Simulation%20and%20Analysis%20of%20On-Site%20Robotic%20Fabrication%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,19 +37,45 @@ tags:
 <a href="https://inciteful.xyz/p/W4412690940" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2025/0062" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2025/0062?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Canadian construction industry faces challenges in accessing remote sites, resulting in logistical and environmental issues. Robotic construction, especially in situ or on-site assembly with industrial robots, offers a promising solution. This paper explores the feasibility and impact of on-site fabrication and construction (OSF&C) by performing a scaled down simulation with two UR5e Universal Robots. The study utilizes additive manufacturing (AM) for key construction elements to achieve increased performance. The case study involves the fabrication of a complex pentagonal-cross section bridge structure consisting of foam beams and 3D-printed brackets. The methodology includes detailed description of the fabrication and stacking procedures, material handling optimization, and human-robot interaction. The study proposes a scaled-down robotic simulation approach, which is then used to evaluate production consistency and time, demonstrating the benefits of utilizing additive manufacturing into OSF&C.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{xu_mori_khos_itan.2025.SDSaAoOSRFaC,
+      author            = "Raymond Xu and Luka Morita and Parmida Khosravian and Anas Itani",
+      title             = "Scaled-Down Simulation and Analysis of On-Site Robotic Fabrication and Construction",
+      doi               = "10.22260/isarc2025/0062",
+      year              = "2025",
+      pages             = "468--476",
+      booktitle         = "Proceedings of the 42nd International Symposium on Automation and Robotics in Construction",
+      editor            = "Jiansong Zhang and Qian Chen and Gaang Lee and Vicente Gonzalez and Kamat Vineet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Xu, L. Morita, P. Khosravian and A. Itani, “Scaled-Down Simulation and Analysis of On-Site Robotic Fabrication and Construction”, in <i>Proceedings of the 42nd International Symposium on Automation and Robotics in Construction</i>,  2025, pp. 468–476. doi: 10.22260/isarc2025/0062.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Raymond, Luka Morita, Parmida Khosravian, and Anas Itani. “Scaled-Down Simulation and Analysis of On-Site Robotic Fabrication and Construction”. In <i>Proceedings of the 42nd International Symposium on Automation and Robotics in Construction</i>, edited by Jiansong Zhang, Qian Chen, Gaang Lee, Vicente Gonzalez, and Kamat Vineet, 468–76, 2025. https://doi.org/10.22260/isarc2025/0062.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

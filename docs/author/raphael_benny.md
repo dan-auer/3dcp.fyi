@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Raphael Benny 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
   <li><a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pate_raph.2025.RCEi3PRS/">Reducing Carbon Emissions in 3D Printed RCC Slabs</a></li>
   <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sant_raph_sant.2025.EoSBDUVPiC3P/">Exploration of Sustainable Beam Design Using Voronoi Patterns in Concrete 3D Printing</a></li>

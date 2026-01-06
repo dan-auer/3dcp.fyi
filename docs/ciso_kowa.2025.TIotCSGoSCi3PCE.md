@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adam Cisowski, Michał Kowalik
+    - footer
+title: Cisowski Adam, Kowalik Michał
 description:
 tags:
  - concentration
@@ -17,31 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2025.120728) The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements:<br/>:aca-blank: A Preliminary Study ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.engstruct.2025.120728" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.120728</a>
+#The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">A Preliminary Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2025.120728) <a href="https://doi.org/10.1016/j.engstruct.2025.120728" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120728" target="_blank">10.1016/j.engstruct.2025.120728</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4066-6598" title="ORCID: 0000-0003-4066-6598" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cisowski_adam"><b>Cisowski</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7632-6782" title="ORCID: 0000-0002-7632-6782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b>&nbsp;Michał</a></span><br>
+Journal Article - Engineering Structures
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a> <a href="https://orcid.org/0000-0003-4066-6598" title="ORCID: 0000-0003-4066-6598" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> <a href="https://orcid.org/0000-0002-7632-6782" title="ORCID: 0000-0002-7632-6782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concentration`](keyword/concentration)
-    [`#concrete`](keyword/concrete)
-    [`#cross`](keyword/cross)
-    [`#element`](keyword/element)
-    [`#geometry`](keyword/geometry)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-    [`#section`](keyword/section)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/concentration"><button class="btn">#concentration</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20the%20Cross-Sectional%20Geometry%20on%20Stress%20Concentration%20in%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007523818&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411137061" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.120728" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.120728?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the influence of path geometry on stress concentration at notches located at layer interfaces in 3D Concrete Printing (3DCP) elements. Concrete specimens with circular and trapezoidal paths as well as the reference specimens without defined paths, were cast to ensure precise geometry. It is important to note that specimens were intentionally cast rather than printed. It was done to overcome challenges related to dimensional and curvature variability inherent in 3D printing processes caused by concrete rheology. The primary objective of this approach was to validate the experimental methodology against Finite Element Method (FEM) analysis. In this case using FEM would have been impractical with printed specimens due to uncontrolled geometrical variability. The experimental results obtained from cast specimens were compared with numerical FEM analyses and measurements using Digital Image Correlation (DIC). The findings indicated that circular paths resulted in the highest stress concentrations. The strong agreement between FEM and DIC results confirmed the reliability of both methods in stress concentration assessment for concrete structures. The next discussed point was that the geometry proposed and verified through these tests provided an effective standard for future mechanical strength evaluations of 3DCP elements. The outcomes of the conducted research highlighted the necessity of developing the new designed guidelines for 3DCP elements, aiming to optimize structural performance considering path geometry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
@@ -86,7 +66,35 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b> Wojciech</a>, <a href="../../../author/pietras_daniel"><b>Pietras</b> Daniel</a>, <a href="../../../author/sadowski_tomasz"><b>Sadowski</b> Tomasz</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zbys_piet_sado.2023.DICAotDPo3PLBSttTPBP/">Data-Image-Correlation-Analysis of the Destruction-Process of 3D Printable Layered Beams Subjected to the Three-Point Bending Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ciso_kowa.2025.TIotCSGoSCi3PCE,
+      author            = "Adam Cisowski and Michał Piotr Kowalik",
+      title             = "The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements: A Preliminary Study",
+      doi               = "10.1016/j.engstruct.2025.120728",
+      year              = "2025",
+      journal           = "Engineering Structures",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Cisowski  and M. P. Kowalik, “The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements: A Preliminary Study”, <i>Engineering Structures</i>, 2025, doi: 10.1016/j.engstruct.2025.120728.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cisowski, Adam, and Michał Piotr Kowalik. “The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements: A Preliminary Study”. <i>Engineering Structures</i>, 2025. https://doi.org/10.1016/j.engstruct.2025.120728.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

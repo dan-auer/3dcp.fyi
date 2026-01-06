@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luis Flor Juncal, Allan Scott, Don Clucas, Giuseppe Loporcaro
+    - footer
+title: Flor Juncal Luis, Scott Allan, Clucas Don, Loporcaro Giuseppe
 description:
 tags:
  - clay
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Permeability and Electrical Resistivity of 3D-Printed Mortars Using Local Materials (Zeolite, Calcined Clay, and Mussel Shell Powder):<br/>:aca-blank: Aotearoa, New Zealand ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04448" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04448</a>
+#Permeability and Electrical Resistivity of 3D-Printed Mortars Using Local Materials (Zeolite, Calcined Clay, and Mussel Shell Powder)&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">Aotearoa, New Zealand</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2025.e04448" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04448" target="_blank">10.1016/j.cscm.2025.e04448</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-5755-8879" title="ORCID: 0009-0001-5755-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flor-juncal_luis"><b>de la&nbsp;Flor Juncal</b>&nbsp;Luis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7385-7633" title="ORCID: 0000-0002-7385-7633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scott_allan"><b>Scott</b>&nbsp;Allan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/clucas_don"><b>Clucas</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1834-8879" title="ORCID: 0000-0002-1834-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b>&nbsp;Giuseppe</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04448
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/flor-juncal_luis"><b>de la Flor Juncal</b> Luis</a> <a href="https://orcid.org/0009-0001-5755-8879" title="ORCID: 0009-0001-5755-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scott_allan"><b>Scott</b> Allan</a> <a href="https://orcid.org/0000-0002-7385-7633" title="ORCID: 0000-0002-7385-7633" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="https://orcid.org/0000-0002-1834-8879" title="ORCID: 0000-0002-1834-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04448
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#electrical`](keyword/electrical)
-    [`#local`](keyword/local)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#permeability`](keyword/permeability)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#shell`](keyword/shell)
-    [`#zeolite`](keyword/zeolite)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/electrical"><button class="btn">#electrical</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/zeolite"><button class="btn">#zeolite</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Permeability%20and%20Electrical%20Resistivity%20of%203D-Printed%20Mortars%20Using%20Local%20Materials%20%28Zeolite%2C%20Calcined%20Clay%2C%20and%20Mussel%20Shell%20Powder%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000153083&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407893640" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04448" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04448?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is an innovative technique that promises to enhance the global construction industry. However, due to the absence of large aggregates in printable mixes, most of the mixes for 3DCP in the literature contain a significant component (480 kg/m3) of Portland cement, which contributes to large embodied carbon emissions. In response to the limited supply of traditional supplementary cementitious materials (SCMs) (e.g., fly ash and ground granulated blast-furnace slag) in Aotearoa - New Zealand, it is necessary to explore alternative local materials. The durability properties, which are crucial for the long-term performance and sustainability of structures, remain underexplored in 3DCP. This study analyses the permeability and electrical resistivity of novel 3D concrete printing mixes developed using locally-sourced zeolite and calcined clay, and recycled mussel shell powder materials as SCMs. Printed and cast specimens were subjected to oxygen permeability, electrical resistivity, and porosity tests at 7, 28, and 90 days. Results showed that zeolite can be used in printable mixes for 3DCP, especially in binary blends with up to 40% cement substitution. Z40 printed samples were the only specimens with an electrical resistivity greater than 1340 from 28 days onwards, which indicates negligible chloride ion penetration. On the other hand, the use of local clay negatively influenced the porosity levels and electrical resistivity of samples, compared to the benchmark and the zeolite-based binders. The use of mussel shell powder, as a source of calcium carbonate, is not feasible in the proportion used in this study, and further research is required.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -95,9 +71,38 @@ tags:
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_scot_cluc_lopo.2025.UPVfRTFQMi3CPC/">Ultrasonic Pulse Velocity for Real-Time Filament Quality Monitoring in 3D Concrete Printing Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{flor_scot_cluc_lopo.2025.PaERo3PMULMZCCaMSP,
+      author            = "Luis de la Flor Juncal and Allan Scott and Don Clucas and Giuseppe Loporcaro",
+      title             = "Permeability and Electrical Resistivity of 3D-Printed Mortars Using Local Materials (Zeolite, Calcined Clay, and Mussel Shell Powder): Aotearoa, New Zealand",
+      doi               = "10.1016/j.cscm.2025.e04448",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04448",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. de la Flor Juncal, A. Scott, D. Clucas and G. Loporcaro, “Permeability and Electrical Resistivity of 3D-Printed Mortars Using Local Materials (Zeolite, Calcined Clay, and Mussel Shell Powder): Aotearoa, New Zealand”, <i>Case Studies in Construction Materials</i>, p. e04448, 2025, doi: 10.1016/j.cscm.2025.e04448.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Flor Juncal, Luis de la, Allan Scott, Don Clucas, and Giuseppe Loporcaro. “Permeability and Electrical Resistivity of 3D-Printed Mortars Using Local Materials (Zeolite, Calcined Clay, and Mussel Shell Powder): Aotearoa, New Zealand”. <i>Case Studies in Construction Materials</i>, 2025, e04448. https://doi.org/10.1016/j.cscm.2025.e04448.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

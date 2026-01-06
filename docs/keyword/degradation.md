@@ -8,7 +8,7 @@ search:
 
 # #degradation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
   <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../raza_yuan.2025.DMaMPo3PECCwYRSUCIWDC/">Degradation Mechanisms and Microstructural Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Under Chloride Ion Wet-Dry Cycles</a></li>
   <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../dong_wu_liu_wu.2025.CTAaIDi3PUHPC/">Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>Multi-Scale Evaluation and Engineering Implications</a></li>

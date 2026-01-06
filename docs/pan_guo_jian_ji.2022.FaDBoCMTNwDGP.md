@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tinghong Pan, Rongxin Guo, Yaqing Jiang, Xuping Ji, Rongqing Qi
+    - footer
+title: Pan Tinghong, Guo Rongxin, Jiang Yaqing, Ji Xuping, Qi Rongqing
 description:
 tags:
  - approach
@@ -20,37 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters:<br/>:aca-blank: Experimental and Numerical Approaches ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.129605" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129605</a>
+#Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">Experimental and Numerical Approaches</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129605" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129605" target="_blank">10.1016/j.conbuildmat.2022.129605</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2290-4911" title="ORCID: 0000-0002-2290-4911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_rongxin"><b>Guo</b>&nbsp;Rongxin</a></span>, <a href="../../../author/jiang_yaqing"><b>Jiang</b>&nbsp;Yaqing</a></span>, <a href="../../../author/ji_xuping"><b>Ji</b>&nbsp;Xuping</a></span>, <a href="../../../author/qi_rongqing"><b>Qi</b>&nbsp;Rongqing</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 360
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> <a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a> <a href="https://orcid.org/0000-0002-2290-4911" title="ORCID: 0000-0002-2290-4911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>
-,     <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a>
-,     <a href="../../../author/qi_rongqing"><b>Qi</b> Rongqing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 360, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#deformation`](keyword/deformation)
-    [`#difference`](keyword/difference)
-    [`#experiment`](keyword/experiment)
-    [`#flow`](keyword/flow)
-    [`#geometry`](keyword/geometry)
-    [`#material`](keyword/material)
-    [`#nozzle`](keyword/nozzle)
-    [`#numeric`](keyword/numeric)
-    [`#parameter`](keyword/parameter)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flow%20and%20Deformation%20Behaviors%20of%20Cementitious%20Materials%20Through%20Nozzles%20with%20Different%20Geometric%20Parameters" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141255710&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308310312" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129605" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129605?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nozzle geometric parameters are important to control the flow and deformation behaviors of printed filament. Choosing the right nozzle geometric parameters before the printing process is critical and requires considerable attention. In this study, nozzles with various geometric characteristics were designed and fabricated. Experiment and computational fluid dynamics (CFD) simulation were used to investigate the flow and deformation behaviour of printing ink via these nozzles. The results indicated that increasing of the area ratio of outlet to inlet AR (Aoutlet/Aintlet) and direction of material deposition θ will reduce the extrusion pressure. Changing the direction of material deposition θ is a critical means for controlling the printing pressure. Increasing of nozzle aspect ratio Ψ (Wn/Hn) and decreasing of direction of material deposition θ will reduces the deformation rate of deposited filament. This study may provide a theoretical guidance for the design and selection of nozzle before printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
@@ -117,8 +91,8 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
       <li><a href="../../../author/zhang_ziqi"><b>Zhang</b> Ziqi</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guoa_rongxin"><b>Guoa</b> Rongxin</a>, <a href="../../../author/lin_runsheng"><b>Lin</b> Runsheng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC/">Simulation and Analysis of Material Stacking and Migration Induced by Extrusion Behavior in 3D Printed Concrete</a></li>
@@ -127,4 +101,33 @@ tags:
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/fu_chaoshu"><b>Fu</b> Chaoshu</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pan_guo_fu_ji.2023.EB3CPwDFD/">Extrusion-Based 3D Concrete Printing with Different Flow-Direction</a></li>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_guo_jian_ji.2022.FaDBoCMTNwDGP,
+      author            = "Tinghong Pan and Rongxin Guo and Yaqing Jiang and Xuping Ji and Rongqing Qi",
+      title             = "Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters: Experimental and Numerical Approaches",
+      doi               = "10.1016/j.conbuildmat.2022.129605",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "360",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Pan, R. Guo, Y. Jiang, X. Ji and R. Qi, “Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters: Experimental and Numerical Approaches”, <i>Construction and Building Materials</i>, vol. 360, 2022, doi: 10.1016/j.conbuildmat.2022.129605.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Tinghong, Rongxin Guo, Yaqing Jiang, Xuping Ji, and Rongqing Qi. “Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters: Experimental and Numerical Approaches”. <i>Construction and Building Materials</i> 360 (2022). https://doi.org/10.1016/j.conbuildmat.2022.129605.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

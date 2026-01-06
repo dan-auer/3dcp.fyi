@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shantanu Bhattacherjee, Smrati Jain, Manu Santhanam
+    - footer
+title: Bhattacherjee Shantanu, Jain Smrati, Santhanam Manu
 description:
 tags:
  - aggregate
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131058" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131058</a>
+#Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131058" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131058" target="_blank">10.1016/j.conbuildmat.2023.131058</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6047-3294" title="ORCID: 0000-0002-6047-3294" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b>&nbsp;Shantanu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2840-183X" title="ORCID: 0000-0002-2840-183X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jain_smrati"><b>Jain</b>&nbsp;Smrati</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 376
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> <a href="https://orcid.org/0000-0002-6047-3294" title="ORCID: 0000-0002-6047-3294" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a> <a href="https://orcid.org/0000-0002-2840-183X" title="ORCID: 0000-0002-2840-183X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 376, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#content`](keyword/content)
-    [`#development`](keyword/development)
-    [`#height`](keyword/height)
-    [`#limestone`](keyword/limestone)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Developing%203D%20Printable%20and%20Buildable%20Limestone-Calcined-Clay-Based%20Cement%20Composites%20with%20Higher%20Aggregate%20Content" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150235376&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4327756776" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131058" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131058?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The study investigates the effect of increasing aggregate volume on the buildability of printable mixes having ordinary Portland cement and limestone calcined clay, and aggregate-to-binder ratio of 1.5 to 3 (by weight). The experimental program is planned considering the evaluation of extrudability requirements, open time, and buildability requirements (layer compression) while printing. The effect of water-to-binder and aggregate-tobinder ratio on flowability is analysed and the dosage of superplasticizer required to attain 200 mm and 180 mm spread is determined. Further, squeeze flow and step load tests are performed to analyse the compressive resistance of the mix at different time intervals in the fresh state, while compressive strength and drying shrinkage are considered to compare the mixes in the hardened state. The factors of energy consumption and carbon emission are considered to compare the sustainability of the mixes. It is concluded that the binderaggregate matrix governs the compression of the material in the fresh state, with the paste governing the properties in the first few minutes and then the aggregate skeleton. The compression in the fresh state is observed not to be dependent on the mix’s flowability, leading to the possibility of designing a flowable as well as buildable mix with a larger aggregate volume. Further, with an increase in the aggregate ratio from 1.5 to 3, the energy consumption of the mix reduces from 3571 to 2426 MJ and carbon dioxide emission from 462 to 314 kg CO2 for each m3 of concrete. Hence, it is concluded that a sustainable 3D printable mix with a higher aggregateto-binder ratio can be designed while satisfying the functional needs of the concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
@@ -89,8 +65,8 @@ tags:
       <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../peng_unlu.2023.DoACBf3PA/">Development of Alternative Cementitious Binders for 3D Printing Applications:<br/>A Critical Review of Progress, Advantages and Challenges</a></li>
       <li><a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>, <a href="../../../author/unis_h"><b>Unis</b> H.</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../qaid_yahi_taye_unis.2022.3PGC/">3D Printed Geopolymer Composites:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/kaur_zinnia"><b>Kaur</b> Zinnia</a>, <a href="../../../author/goyal_shweta"><b>Goyal</b> Shweta</a>, <a href="../../../author/kwatra_naveen"><b>Kwatra</b> Naveen</a>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b> Tarun</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB/">Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders</a></li>
@@ -113,4 +89,33 @@ tags:
       <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../over_savi_bos_schl.2023.3PSHCC3S/">3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC):<br/>Tailoring Fresh and Hardened State Properties</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../liu_zhan_bant.2023.UPFaIIoMPaSDo3PFCMwHMaSF/">Unveiling Pore Formation and Its Influence on Micromechanical Property and Stress-Distribution of 3D Printed Foam-Concrete Modified with Hydroxypropyl-Methylcellulose and Silica-Fume</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bhat_jain_sant.2023.D3PaBLCCBCCwHAC,
+      author            = "Shantanu Bhattacherjee and Smrati Jain and Manu Santhanam",
+      title             = "Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content",
+      doi               = "10.1016/j.conbuildmat.2023.131058",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "376",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Bhattacherjee, S. Jain and M. Santhanam, “Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content”, <i>Construction and Building Materials</i>, vol. 376, 2023, doi: 10.1016/j.conbuildmat.2023.131058.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhattacherjee, Shantanu, Smrati Jain, and Manu Santhanam. “Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content”. <i>Construction and Building Materials</i> 376 (2023). https://doi.org/10.1016/j.conbuildmat.2023.131058.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuecheng Zhou, Sai Xiao, Haonian Li, Chong Wang, Fuhai Li, Gengyuan Liu, Zhao Chen
+    - footer
+title: Zhou Yuecheng, Xiao Sai, Li Haonian, Wang Chong, Li Fuhai, Liu Gengyuan, Chen Zhao
 description:
 tags:
  - material
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143293" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143293</a>
+#Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143293" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143293" target="_blank">10.1016/j.conbuildmat.2025.143293</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-5951-5304" title="ORCID: 0009-0008-5951-5304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_yuecheng"><b>Zhou</b>&nbsp;Yuecheng</a></span>, <a href="../../../author/xiao_sai"><b>Xiao</b>&nbsp;Sai</a></span>, <a href="../../../author/li_haonian"><b>Li</b>&nbsp;Haonian</a></span>, <a href="../../../author/wang_chong"><b>Wang</b>&nbsp;Chong</a></span>, <a href="../../../author/li_fuhai"><b>Li</b>&nbsp;Fuhai</a></span>, <a href="../../../author/liu_gengyuan"><b>Liu</b>&nbsp;Gengyuan</a></span>, <a href="../../../author/chen_zhao"><b>Chen</b>&nbsp;Zhao</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 493, No. 143293
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_yuecheng"><b>Zhou</b> Yuecheng</a> <a href="https://orcid.org/0009-0008-5951-5304" title="ORCID: 0009-0008-5951-5304" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>
-,     <a href="../../../author/li_haonian"><b>Li</b> Haonian</a>
-,     <a href="../../../author/wang_chong"><b>Wang</b> Chong</a>
-,     <a href="../../../author/li_fuhai"><b>Li</b> Fuhai</a>
-,     <a href="../../../author/liu_gengyuan"><b>Liu</b> Gengyuan</a>
-,     <a href="../../../author/chen_zhao"><b>Chen</b> Zhao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 493, No. 143293
-
-:aca-blank:{ .lg .middle}
-    [`#material`](keyword/material)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Rheological%20Properties%20and%20Printability%20of%20Multi-Scale%20Material%20Modified%20Mortar%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013838525&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413453307" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143293" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143293?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While 3D-printed concrete (3DPC) improves material utilization, construction speed, and sustainability (reducing waste/emissions), its practical use is hindered by difficulties in controlling rheological properties and printability. This study systematically investigates the synergistic effects of nano-silica (NS), calcium carbonate whiskers (CW), and polypropylene fibers (PP) on the rheology and printability of 3DPC. Based on the theories of water film thickness and thixotropy, the mechanisms by which multiscale materials regulate rheological behavior are elucidated. Based on experimental results, a “rheology box” framework is proposed for printable mix design. The combined incorporation of NS, CW, and PP significantly increases paste viscosity and yield stress, enhances structural build-up rate, and improves shape stability and print quality. NS exhibits the most pronounced effect by promoting flocculation and hydration, while CW and PP improve rheology through fiber networking and micro-aggregation. A “Critical Fiber Dosage Theory” is introduced, identifying optimal thixotropic recovery rates at dosages of NS ≤ 2 %, CW ≤ 1 %, and PP ≤ 0.2 %. The established rheology box defines an optimal printable window—viscosity of 32.74–60.06 Pa·s, yield stress of 379.2–1081.03 Pa, and thixotropic area of 20.38–60.58—providing theoretical and practical guidance for the mix design and performance optimization of 3DPC materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
@@ -105,8 +79,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_xiao_li_wang.2025.SotRPaPoMSMMMf3P,
+      author            = "Yuecheng Zhou and Sai Xiao and Haonian Li and Chong Wang and Fuhai Li and Gengyuan Liu and Zhao Chen",
+      title             = "Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2025.143293",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "493",
+      pages             = "143293",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhou, “Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing”, <i>Construction and Building Materials</i>, vol. 493, p. 143293, 2025, doi: 10.1016/j.conbuildmat.2025.143293.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Yuecheng, Sai Xiao, Haonian Li, Chong Wang, Fuhai Li, Gengyuan Liu, and Zhao Chen. “Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing”. <i>Construction and Building Materials</i> 493 (2025): 143293. https://doi.org/10.1016/j.conbuildmat.2025.143293.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

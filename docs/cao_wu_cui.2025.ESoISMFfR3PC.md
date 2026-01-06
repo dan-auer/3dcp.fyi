@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangpeng Cao, Shuoli Wu, Hongzhi Cui
+    - footer
+title: Cao Xiangpeng, Wu Shuoli, Cui Hongzhi
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study on In-Situ Mesh Fabrication for Reinforcing 3D Printed Concrete ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.autcon.2024.105923" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105923</a>
+#Experimental Study on In-Situ Mesh Fabrication for Reinforcing 3D Printed Concrete ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105923" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105923" target="_blank">10.1016/j.autcon.2024.105923</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/wu_shuoli"><b>Wu</b>&nbsp;Shuoli</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span><br>
+Journal Article - Automation in Construction, Vol. 170, No. 105923
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a> <a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>
-,     <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 170, No. 105923
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#fabrication`](keyword/fabrication)
-    [`#mesh`](keyword/mesh)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#situ`](keyword/situ)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20In-Situ%20Mesh%20Fabrication%20for%20Reinforcing%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212311568&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405539431" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105923" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105923?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The lack of reinforcements persisted as a significant issue in 3D-printed concrete, particularly concerning the continuous vertical reinforcement along the direction of mortar stacking. This paper introduced an in-situ mesh fabrication technique that involved injecting high-flowability material to connect reinforcement segments, resulting in a reinforcing mesh within the stacked mortar. Parallel and interwoven reinforcing steel fibers were inserted and epoxy-coated in-situ within the cast and 3D-printed beams for flexural experiments and interfacial characterizations. The in-situ fabricated mesh exhibited more significant enhancement than the parallel independent reinforcements, both in the horizontal and vertical directions, achieving a maximum flexural enhancement of 123.6 % by an epoxy-coated steel fiber mesh. The high-flowability epoxy healed the gaps inside the concrete caused by the mesh fabrication. This paper provides experimental validation for the feasibility of reinforcement integration in all directions within the final 3D-printed concrete structure, thereby supporting the practical application of 3D printing technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -102,8 +82,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_wu_cui.2025.ESoISMFfR3PC,
+      author            = "Xiangpeng Cao and Shuoli Wu and Hongzhi Cui",
+      title             = "Experimental Study on In-Situ Mesh Fabrication for Reinforcing 3D Printed Concrete",
+      doi               = "10.1016/j.autcon.2024.105923",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "170",
+      pages             = "105923",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Cao, S. Wu and H. Cui, “Experimental Study on In-Situ Mesh Fabrication for Reinforcing 3D Printed Concrete”, <i>Automation in Construction</i>, vol. 170, p. 105923, 2025, doi: 10.1016/j.autcon.2024.105923.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Xiangpeng, Shuoli Wu, and Hongzhi Cui. “Experimental Study on In-Situ Mesh Fabrication for Reinforcing 3D Printed Concrete”. <i>Automation in Construction</i> 170 (2025): 105923. https://doi.org/10.1016/j.autcon.2024.105923.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

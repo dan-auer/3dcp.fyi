@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alireza Hasani, Sattar Dorafshan
+    - footer
+title: Hasani Alireza, Dorafshan Sattar
 description:
 tags:
  - concrete
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Transforming Construction?:<br/>:aca-blank: Evaluation of the State of Structural 3D Concrete Printing in Research and Practice ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137027" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137027</a>
+#Transforming Construction?&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137027" target="_blank">10.1016/j.conbuildmat.2024.137027</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-0171-5047" title="ORCID: 0009-0008-0171-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasani_alireza"><b>Hasani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8307-9193" title="ORCID: 0000-0002-8307-9193" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorafshan_sattar"><b>Dorafshan</b>&nbsp;Sattar</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 438, No. 137027
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a> <a href="https://orcid.org/0009-0008-0171-5047" title="ORCID: 0009-0008-0171-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="https://orcid.org/0000-0002-8307-9193" title="ORCID: 0000-0002-8307-9193" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 438, No. 137027
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#evaluation`](keyword/evaluation)
-    [`#practice`](keyword/practice)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-    [`#structure`](keyword/structure)
-    [`#transform`](keyword/transform)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Transforming%20Construction%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195615482&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399780632" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137027" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137027?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing in construction has witnessed exponential growth over the recent years. In this paper, advancements in 3D Concrete Printing (3DCP) in additive construction are explored. The authors synthesize the states of research and practice of 3DCP technology for construction through an extensive examination of 137 projects and various publications. Insights are provided into the key factors influencing 3DCP structural performance. The technology is shown to be advantageous, although with varying benefits observed in different cases, including but not limited to reduced cost, labor requirements, material, and construction time. Nevertheless, challenges, such as limited control over the quality, unexplored long-term performance, being counter-cost-effective in certain circumstances, manual intervention during printing, and the absence of adapted code and regulations are identified. It is found that the practiced 3DCP construction automates some but not all aspects of traditional construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "98 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
@@ -164,11 +145,13 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aden_rashid_abdishukri"><b>Aden</b> Abdishukri</a>, <a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b> Alejandra</a>, <a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aden_nune_ponc_rang.2026.FB/">FAB-BIO:<br/>A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</a></li>
       <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
+      <li><a href="../../../author/sifan_mohamed"><b>Sifan</b> Mohamed</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b> Sunday</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sifa_upas_pool_popo.2025.FPaDoLWPw3PCaSLCS/">Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections</a></li>
       <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shek_kuma_math.2025.AMoCwLIYSTCHoPL/">Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers</a></li>
@@ -186,4 +169,34 @@ tags:
       <li><a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a>, <a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lind_glin_funk_gelb.2024.AFPoLPCE/">Additive Flow Production of Lightweight Precision Concrete Elements</a></li>
       <li><a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a>, <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>, <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huse_tan_sale_lim.2024.TPaMPoTDPCEDMP/">Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>A Review and Bibliometric Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hasa_dora.2024.TC,
+      author            = "Alireza Hasani and Sattar Dorafshan",
+      title             = "Transforming Construction?: Evaluation of the State of Structural 3D Concrete Printing in Research and Practice",
+      doi               = "10.1016/j.conbuildmat.2024.137027",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "438",
+      pages             = "137027",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Hasani  and S. Dorafshan, “Transforming Construction?: Evaluation of the State of Structural 3D Concrete Printing in Research and Practice”, <i>Construction and Building Materials</i>, vol. 438, p. 137027, 2024, doi: 10.1016/j.conbuildmat.2024.137027.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hasani, Alireza, and Sattar Dorafshan. “Transforming Construction?: Evaluation of the State of Structural 3D Concrete Printing in Research and Practice”. <i>Construction and Building Materials</i> 438 (2024): 137027. https://doi.org/10.1016/j.conbuildmat.2024.137027.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

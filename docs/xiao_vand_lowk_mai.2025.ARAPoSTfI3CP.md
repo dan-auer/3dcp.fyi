@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yinan Xiao, Aileen Vandenberg, Dirk Lowke, Inka Mai (née Dressler), Pierluigi D'Acunto, Harald Kloft, Norman Hack
+    - footer
+title: Xiao Yinan, Vandenberg Aileen, Lowke Dirk, Mai (née Dressler) Inka, D'Acunto Pierluigi, Kloft Harald, Hack Norman
 description:
 tags:
  - assembly
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.autcon.2025.106440" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106440</a>
+#Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing ([2025-08](date/2025/08))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106440" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106440" target="_blank">10.1016/j.autcon.2025.106440</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-4606-5201" title="ORCID: 0009-0008-4606-5201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_yinan"><b>Xiao</b>&nbsp;Yinan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1373-2230" title="ORCID: 0000-0002-1373-2230" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vandenberg_aileen"><b>Vandenberg</b>&nbsp;Aileen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b>&nbsp;Pierluigi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span><br>
+Journal Article - Automation in Construction, Vol. 179, No. 106440
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a> <a href="https://orcid.org/0009-0008-4606-5201" title="ORCID: 0009-0008-4606-5201" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a> <a href="https://orcid.org/0000-0002-1373-2230" title="ORCID: 0000-0002-1373-2230" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 179, No. 106440
-
-:aca-blank:{ .lg .middle}
-    [`#assembly`](keyword/assembly)
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#injection`](keyword/injection)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#space`](keyword/space)
-    [`#truss`](keyword/truss)
-
-
--------------------------
+<a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/truss"><button class="btn">#truss</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Robotic%20Assembly%20Planning%20of%20Space%20Trusses%20for%20Injection%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012825821&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413142987" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106440" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106440?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Injection 3D Concrete Printing (I3DCP) is an emerging fabrication technique that enables spatial concrete extrusion within a carrier liquid, reducing gravitational effects and allowing the creation of complex space trusses. However, I3DCP introduces new challenges in toolpath planning due to material rheology and mechanical constraints. This paper introduces an automated planning method tailored for I3DCP, integrating a constraint satisfaction problem (CSP)-based sequence planner with a Cartesian motion planner. The sequence planner uses heuristic local search with forward checking and backtracking, while the motion planner addresses end-effector redundancy with kinematic and velocity constraints. The method is validated by fabricating a 3-meter-span pedestrian bridge using a stationary 6-axis robotic arm and tested on multiple prototypes of increasing geometric complexity through simulation, demonstrating its effectiveness and scalability for intricate structural designs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adams_julian_thomas"><b>Adams</b> Thomas</a>, <a href="../../../author/heuer_christoph"><b>Heuer</b> Christoph</a>, <a href="../../../author/brell-cokcan_sigrid"><b>Brell-Cokcan</b> Sigrid</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../adam_heue_brel.2022.D3PHfSSEoFRC/">Dynamic 3D Print-Head for Spatial Strand-Extrusion of Fiber-Reinforced Concrete:<br/>Requirements, Development and Application</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/benamara_abdeslam"><b>Benamara</b> Abdeslam</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bena_pier_kaci_meli.2020.3PoaCBMiaCFS/">3D Printing of a Cement-Based Mortar in a Complex Fluid Suspension:<br/>Analytical Modeling and Experimental Tests</a></li>
@@ -95,7 +70,37 @@ tags:
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../xiao_khad_vand_lowk.2022.I3CPICwVB3GS/">Injection 3D Concrete Printing (I3DCP) Combined with Vector-Based 3D Graphic Statics</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xiao_vand_lowk_mai.2025.ARAPoSTfI3CP,
+      author            = "Yinan Xiao and Aileen Vandenberg and Dirk Lowke and Inka Mai (née Dressler) and Pierluigi D'Acunto and Harald Kloft and Norman Peter Hack",
+      title             = "Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing",
+      doi               = "10.1016/j.autcon.2025.106440",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "179",
+      pages             = "106440",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Xiao, “Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing”, <i>Automation in Construction</i>, vol. 179, p. 106440, 2025, doi: 10.1016/j.autcon.2025.106440.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xiao, Yinan, Aileen Vandenberg, Dirk Lowke, Inka Mai (née Dressler), Pierluigi D'Acunto, Harald Kloft, and Norman Peter Hack. “Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing”. <i>Automation in Construction</i> 179 (2025): 106440. https://doi.org/10.1016/j.autcon.2025.106440.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Atteyeh Natanzi, Ciaran McNally
+    - footer
+title: Natanzi Atteyeh, McNally Ciaran
 description:
 tags:
  - carbon
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.trpro.2023.11.550) Experimental Investigation of Low-Carbon 3D Printed Concrete ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.trpro.2023.11.550" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.trpro.2023.11.550</a>
+#Experimental Investigation of Low-Carbon 3D Printed Concrete ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.trpro.2023.11.550) <a href="https://doi.org/10.1016/j.trpro.2023.11.550" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.trpro.2023.11.550" target="_blank">10.1016/j.trpro.2023.11.550</a>
 
--------------------------
+<a href="../../../author/natanzi_s_atteyeh"><b>Natanzi</b>&nbsp;Atteyeh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
+Journal Article - Transportation Research Procedia, Vol. 72, pp. 3696-3702
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/natanzi_s_atteyeh"><b>Natanzi</b> Atteyeh</a>
-,     <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Transportation Research Procedia, Vol. 72, pp. 3696-3702
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#investigation`](keyword/investigation)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigation%20of%20Low-Carbon%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182939066&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389692511" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.trpro.2023.11.550" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.trpro.2023.11.550?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is currently experiencing significant change due to key advances in building information modeling The construction industry is currently experiencing significant change due to key advances in building information modeling (BIM), digital design and construction automation. These are each exerting intense pressure on traditional technologies, and an (BIM), digital design and construction automation. These are each exerting intense pressure on traditional technologies, and an example of this can be seen in 3D concrete printing. This is a rapidly developing technique that can potentially accelerate example of this can be seen in 3D concrete printing. This is a rapidly developing technique that can potentially accelerate construction times and improve efficiency. There are however major challenges associated with printing materials, as the majority construction times and improve efficiency. There are however major challenges associated with printing materials, as the majority of the research to date has focused on the use of traditional cements with high embodied carbon. This paper reports on the design of the research to date has focused on the use of traditional cements with high embodied carbon. This paper reports on the design of concrete printing mixtures using secondary cementitious materials, and show that it is feasible to develop printing concretes in of concrete printing mixture a more sustainable manner.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -71,8 +53,38 @@ tags:
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../qian_schu.2018.EToFCPwNCiPoPESP/">Enhancing Thixotropy of Fresh Cement-Pastes with Nano-Clay in Presence of Polycarboxylate-Ether Superplasticizer (PCE)</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nata_mcna.2023.EIoLC3PC,
+      author            = "Atteyeh S. Natanzi and Ciaran McNally",
+      title             = "Experimental Investigation of Low-Carbon 3D Printed Concrete",
+      doi               = "10.1016/j.trpro.2023.11.550",
+      year              = "2023",
+      journal           = "Transportation Research Procedia",
+      volume            = "72",
+      pages             = "3696--3702",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. Natanzi  and C. McNally, “Experimental Investigation of Low-Carbon 3D Printed Concrete”, <i>Transportation Research Procedia</i>, vol. 72, pp. 3696–3702, 2023, doi: 10.1016/j.trpro.2023.11.550.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Natanzi, Atteyeh S., and Ciaran McNally. “Experimental Investigation of Low-Carbon 3D Printed Concrete”. <i>Transportation Research Procedia</i> 72 (2023): 3696–3702. https://doi.org/10.1016/j.trpro.2023.11.550.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

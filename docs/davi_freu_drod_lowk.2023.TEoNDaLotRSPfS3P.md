@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martin David, Niklas Freund, Klaus Dröder, Dirk Lowke
+    - footer
+title: David Martin, Freund Niklas, Dröder Klaus, Lowke Dirk
 description:
 tags:
  - diameter
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-023-02246-1.pdf) The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1617/s11527-023-02246-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-023-02246-1</a>
+#The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing ([2023-09](date/2023/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-023-02246-1.pdf) <a href="https://doi.org/10.1617/s11527-023-02246-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-023-02246-1" target="_blank">10.1617/s11527-023-02246-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/david_martin"><b>David</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Journal Article - Materials and Structures, Vol. 56, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/david_martin"><b>David</b> Martin</a> <a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 56, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#diameter`](keyword/diameter)
-    [`#effect`](keyword/effect)
-    [`#length`](keyword/length)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#result`](keyword/result)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#strand`](keyword/strand)
-
-
--------------------------
+<a href="../../keyword/diameter"><button class="btn">#diameter</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/result"><button class="btn">#result</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/strand"><button class="btn">#strand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effects%20of%20Nozzle-Diameter%20and%20Length%20on%20the%20Resulting%20Strand%20Properties%20for%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173578773&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387117857" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-023-02246-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-023-02246-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing in construction (AMC) enables new design methods and strategies within the construction industry. In particular, Shotcrete 3D Printing (SC3DP) offers a high degree of design freedom by enabling the deposition of concrete at variable layer orientation based on a wet-mix shotcrete process. However, the mechanical properties and geometry of the printed layers are dependent on the material and process parameters used. In this context, the effects of air and concrete flow rates, path planning parameters, and material parameters have been investigated in previous research. The presented study investigates the influence of the nozzle geometry on the resulting strand properties, e.g. strand geometry, layer bond strength, and compressive strength, to evaluate nozzle diameter and length as control parameters for the SC3DP process. Experimental investigations were performed with fixed nozzle diameters between 10 and 30 mm and nozzle lengths ranging from 100 to 200 mm. The results show a significant influence of the nozzle diameter on the resulting strand geometry as well as the mechanical properties. Finally, concepts for a nozzle with a controllable outlet diameter were developed and evaluated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bohl_mai_freu_lach.2022.IoMaPPoHSPoS3PE/">Influence of Material and Process Parameters on Hardened State Properties of Shotcrete 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
@@ -89,8 +66,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
@@ -105,4 +82,34 @@ tags:
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorr_klof_sawi_freu.2024.ARIiS3PTGSM/">Automated Reinforcement Integration in Shotcrete 3D Printing Through Green State Milling</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{davi_freu_drod_lowk.2023.TEoNDaLotRSPfS3P,
+      author            = "Martin David and Niklas Freund and Klaus Dröder and Dirk Lowke",
+      title             = "The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing",
+      doi               = "10.1617/s11527-023-02246-1",
+      year              = "2023",
+      journal           = "Materials and Structures",
+      volume            = "56",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. David, N. Freund, K. Dröder and D. Lowke, “The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing”, <i>Materials and Structures</i>, vol. 56, no. 8, 2023, doi: 10.1617/s11527-023-02246-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">David, Martin, Niklas Freund, Klaus Dröder, and Dirk Lowke. “The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing”. <i>Materials and Structures</i> 56, no. 8 (2023). https://doi.org/10.1617/s11527-023-02246-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

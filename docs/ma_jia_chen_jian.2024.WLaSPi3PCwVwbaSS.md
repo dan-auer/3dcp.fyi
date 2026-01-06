@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lei Ma, Zijian Jia, Yuning Chen, Yifan Jiang, Bruno Huet, Arnaud Delaplace, Yamei Zhang, Qing Zhang
+    - footer
+title: Ma Lei, Jia Zijian, Chen Yuning, Jiang Yifan, Huet Bruno, Delaplace Arnaud, Zhang Yamei, Zhang Qing
 description:
 tags:
  - concrete
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying w/b and Specimen Sizes ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105523" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105523</a>
+#Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying w/b and Specimen Sizes ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105523" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105523" target="_blank">10.1016/j.cemconcomp.2024.105523</a>
 
--------------------------
+<a href="../../../author/ma_lei"><b>Ma</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <a href="../../../author/jiang_yifan"><b>Jiang</b>&nbsp;Yifan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9101-4605" title="ORCID: 0000-0002-9101-4605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huet_bruno"><b>Huet</b>&nbsp;Bruno</a></span>, <a href="../../../author/delaplace_arnaud"><b>Delaplace</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7518-2302" title="ORCID: 0000-0001-7518-2302" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_qing"><b>Zhang</b>&nbsp;Qing</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105523
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a>
-,     <a href="../../../author/huet_bruno"><b>Huet</b> Bruno</a> <a href="https://orcid.org/0000-0002-9101-4605" title="ORCID: 0000-0002-9101-4605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/delaplace_arnaud"><b>Delaplace</b> Arnaud</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a> <a href="https://orcid.org/0000-0001-7518-2302" title="ORCID: 0000-0001-7518-2302" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105523
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#loss`](keyword/loss)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#size`](keyword/size)
-    [`#specimen`](keyword/specimen)
-    [`#variation`](keyword/variation)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/loss"><button class="btn">#loss</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Water%20Loss%20and%20Shrinkage%20Prediction%20in%203D%20Printed%20Concrete%20with%20Varying%20w/b%20and%20Specimen%20Sizes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190132261&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393320920" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105523" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105523?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In 3D printed concrete (3DPC), the absence of formwork leads to increased shrinkage compared to traditional cast concrete which uses formwork. This increase in shrinkage is primarily due to the rapid evaporation of moisture during the early stages. Therefore, our research focused on how the initial water content and the exposed surface area affect the total shrinkage by varying water-to-cement ratio (w/c) and the surface-to-volume ratio (s/v). For 3DPC with high w/c, we used calcium formate (CaF) to improve its printability by increasing static yield stress. Dry environment makes the evaporation the predominant mode of water loss, significantly decelerating the hydration process in samples with fully exposed surfaces. At 28 d, the evaporated moisture in 3DPC is 2.8 times higher than the moisture consumed by hydration. A predictive model for the shrinkage properties of 3DPC has been developed by considering that 3DPC experiences both hydration and evaporation simultaneously from early stages on the basis of the water mass conservation principle. The predictions were found to align with actual shrinkage test results, as evidenced by quantitative analysis of parameters like internal RH, mass loss, degree of hydration, and porosity, thus validating the accuracy of the model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
@@ -103,8 +76,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>
@@ -119,4 +92,33 @@ tags:
       <li><a href="../../../author/peng_chengming"><b>Peng</b> Chengming</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../peng_yang_li.2024.APMfIWEaEVo3PCM/">A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/begaud_fabienne"><b>Bégaud</b> Fabienne</a>, <a href="../../../author/khatib_omar"><b>Khatib</b> Omar</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_bega_khat.2024.QCoEMMTiEA3PM/">Quantitative Comparison of Elastic Modulus Measurement Techniques in Early-Age 3D Printable Mortar:<br/>Insights from Compression, Ultrasonic, and Microindentation Methods</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_jia_chen_jian.2024.WLaSPi3PCwVwbaSS,
+      author            = "Lei Ma and Zijian Jia and Yuning Chen and Yifan Jiang and Bruno Huet and Arnaud Delaplace and Yamei Zhang and Qing Zhang",
+      title             = "Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying w/b and Specimen Sizes",
+      doi               = "10.1016/j.cemconcomp.2024.105523",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105523",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Ma, “Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying w/b and Specimen Sizes”, <i>Cement and Concrete Composites</i>, p. 105523, 2024, doi: 10.1016/j.cemconcomp.2024.105523.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Lei, Zijian Jia, Yuning Chen, Yifan Jiang, Bruno Huet, Arnaud Delaplace, Yamei Zhang, and Qing Zhang. “Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying W/b and Specimen Sizes”. <i>Cement and Concrete Composites</i>, 2024, 105523. https://doi.org/10.1016/j.cemconcomp.2024.105523.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

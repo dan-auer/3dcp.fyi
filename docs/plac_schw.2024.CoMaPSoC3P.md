@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gerrit Placzek, Patrick Schwerdtner
+    - footer
+title: Placzek Gerrit, Schwerdtner Patrick
 description:
 tags:
  - comparison
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparison of Machine- and Performance Specifications of Concrete 3D Printers ([2024-10](date/2024/10))
-<a href="https://doi.org/10.3311/ccc2024-028" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3311/ccc2024-028</a>
+#Comparison of Machine- and Performance Specifications of Concrete 3D Printers ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.3311/ccc2024-028" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3311/ccc2024-028" target="_blank">10.3311/ccc2024-028</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span><br>
+Contribution - Proceedings of the Creative Construction Conference 2024
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> <a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the Creative Construction Conference 2024, pp. 
-
-:aca-blank:{ .lg .middle}
-    [`#comparison`](keyword/comparison)
-    [`#concrete`](keyword/concrete)
-    [`#machine`](keyword/machine)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#specification`](keyword/specification)
-
-
--------------------------
+<a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/specification"><button class="btn">#specification</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Machine-%20and%20Performance%20Specifications%20of%20Concrete%203D%20Printers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403196205" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3311/ccc2024-028" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3311/ccc2024-028?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is increasingly recognizing the potential of concrete 3D printing (C3DP) to revolutionize the current way of construction. Pilot projects worldwide are on the rise, and startups and construction companies are investing more in research and development activities related to C3DP. In particular, the involvement of formwork manufacturers in this new construction technology can be seen as an indication of its disruptive nature. The technological diversity of concrete 3D printers is enormous, each offering unique advantages and consequences for construction process. However, little research has been done so far on how 3D printers affect conventional building processes. There have been only few studies exploring the impact of 3D printers on construction operations, and these studies tend to overlook the operational construction planning. From a contractor’s perspective, it is crucial to determine which situations call for specific types of 3D printers and which printer technologies are worth investing in. It is important to understand the C3DP-related challenges that may arise from using 3D printing and different types of 3D printers. Therefore, by analysing technical data sheets from different C3DP companies, we attempt to compare individual concrete 3D printers and their key metrics. For this purpose, technical data such as the shape and size of the workspace, geometric dimensions and space requirements of the 3D printer are analysed in more detail. The main performance properties compared are the time and labour required for transport, assembly and disassembly, as well as the printing speed. The data analysed shows that for smaller build volumes the use of mobile systems may be more appropriate than large scale frame-based or gantry systems. However, there are still challenges in establishing general and comparative parameters, which require further research to include practical data and real costs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bello_d_nicholas"><b>Bello</b> Nicholas</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bell_mema.2023.CRotTaCSo3CPoBbSC/">Comparative Review of the Technology and Case Studies of 3D Concrete Printing of Buildings by Several Companies</a></li>
       <li><a href="../../../author/bici_andjol"><b>Bici</b> Andjol</a>, <a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b> Anna</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bici_yuni.2023.Ao3PTfBC/">Analysis of 3D Printing Techniques for Building Construction:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -80,7 +62,35 @@ tags:
       <li><a href="../../../author/xu_zhen"><b>Xu</b> Zhen</a>, <a href="../../../author/song_tao"><b>Song</b> Tao</a>, <a href="../../../author/guo_shuai"><b>Guo</b> Shuai</a>, <a href="../../../author/peng_jiangtao"><b>Peng</b> Jiangtao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xu_song_guo_peng.2022.RTAf3PiC/">Robotics Technologies Aided for 3D Printing in Construction:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{plac_schw.2024.CoMaPSoC3P,
+      author            = "Gerrit Placzek and Patrick Schwerdtner",
+      title             = "Comparison of Machine- and Performance Specifications of Concrete 3D Printers",
+      doi               = "10.3311/ccc2024-028",
+      year              = "2024",
+      booktitle         = "Proceedings of the Creative Construction Conference 2024",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Placzek  and P. Schwerdtner, “Comparison of Machine- and Performance Specifications of Concrete 3D Printers”,  2024. doi: 10.3311/ccc2024-028.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Placzek, Gerrit, and Patrick Schwerdtner. “Comparison of Machine- and Performance Specifications of Concrete 3D Printers”. In <i>Proceedings of the Creative Construction Conference 2024</i>, 2024. https://doi.org/10.3311/ccc2024-028.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

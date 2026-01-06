@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenxuan Zhu, Chao Liu, Yu Zhang, Yunsheng Zhang, Yifei Wang, Tilin Wang
+    - footer
+title: Zhu Wenxuan, Liu Chao, Zhang Yu, Zhang Yunsheng, Wang Yifei, Wang Tilin
 description:
 tags:
  - concrete
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141735" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141735</a>
+#Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141735" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141735" target="_blank">10.1016/j.conbuildmat.2025.141735</a>
 
--------------------------
+<a href="../../../author/zhu_wenxuan"><b>Zhu</b>&nbsp;Wenxuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <a href="../../../author/wang_yifei"><b>Wang</b>&nbsp;Yifei</a></span>, <a href="../../../author/wang_tilin"><b>Wang</b>&nbsp;Tilin</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 483, No. 141735
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>
-,     <a href="../../../author/wang_tilin"><b>Wang</b> Tilin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 483, No. 141735
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#regulations`](keyword/regulations)
-    [`#rheology`](keyword/rheology)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/regulations"><button class="btn">#regulations</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Performance%20Regulation%20and%20Material%20Optimization%20of%20Manufactured%20Sand%20Concrete%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004926999&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410388931" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141735" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141735?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study systematically explores the rheological properties and printability of 3D printed manufactured sand concrete (3DPMSC), aiming to optimize the use of manufactured sand in 3D printed concrete (3DPC). The effects of water-binder ratio (W/B), superplasticizer (PCE) dosage, and cellulose ether (HPMC) content on the yield stress, plastic viscosity, and thixotropy of concrete were comprehensively analyzed through rheological and printing experiments. A secondary mixing process based on the cement-coated sand method, combined with a gradient PCE incorporation technique, was proposed to effectively mitigate the time-dependent rheological degradation of manufactured sand concrete. The results showed that a low W/B significantly enhanced the structural stability and thixotropy of the concrete while reducing its flowability. HPMC enhanced buildability by strengthening the particle network structure, and an appropriate dosage of PCE achieved a dynamic balance between shear thinning and thixotropic recovery, optimizing the printing quality. A material optimization design framework specifically for 3DPMSC is ultimately established, offering theoretical and practical guidance for sustainable use of manufactured sand in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../li_wang_ma.2018.MftEoBaBRo3PTM/">Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar</a></li>
@@ -84,10 +59,40 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/zhu_shidong"><b>Zhu</b> Shidong</a>, <a href="../../../author/li_wangxin"><b>Li</b> Wangxin</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhu_zhu_li_zhan.2023.ASotPoMSC/">A Study on the Printability of Manufactured Sand Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yous_khan_koc.2025.MPaDOoLESRwNFWaNf3oFS/">Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P,
+      author            = "Wenxuan Zhu and Chao Liu and Yu Zhang and Yunsheng Zhang and Yifei Wang and Tilin Wang",
+      title             = "Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2025.141735",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "483",
+      pages             = "141735",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zhu, C. Liu, Y. Zhang, Y. Zhang, Y. Wang and T. Wang, “Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing”, <i>Construction and Building Materials</i>, vol. 483, p. 141735, 2025, doi: 10.1016/j.conbuildmat.2025.141735.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Wenxuan, Chao Liu, Yu Zhang, Yunsheng Zhang, Yifei Wang, and Tilin Wang. “Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing”. <i>Construction and Building Materials</i> 483 (2025): 141735. https://doi.org/10.1016/j.conbuildmat.2025.141735.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

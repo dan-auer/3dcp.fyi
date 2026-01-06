@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yidong Chen, Wenhua Zhang, Yunsheng Zhang, Yu Zhang, Cheng Liu, Dafu Wang, Zhiyong Liu, Guojian Liu, Bo Pang, Lin Yang
+    - footer
+title: Chen Yidong, Zhang Wenhua, Zhang Yunsheng, Zhang Yu, Liu Cheng, Wang Dafu, Liu Zhiyong, Liu Guojian, Pang Bo, Yang Lin
 description:
 tags:
  - aggregate
@@ -18,40 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete with Coarse Aggregates:<br/>:aca-blank: Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.jobe.2023.106362" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106362</a>
+#3D Printed Concrete with Coarse Aggregates&nbsp;([2023-03](date/2023/03))
+<div class="h1-like">Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106362" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106362" target="_blank">10.1016/j.jobe.2023.106362</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yidong"><b>Chen</b>&nbsp;Yidong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6516-655X" title="ORCID: 0000-0002-6516-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_wenhua"><b>Zhang</b>&nbsp;Wenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <a href="../../../author/liu_cheng"><b>Liu</b>&nbsp;Cheng</a></span>, <a href="../../../author/wang_dafu"><b>Wang</b>&nbsp;Dafu</a></span>, <a href="../../../author/liu_zhiyong"><b>Liu</b>&nbsp;Zhiyong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_guojian"><b>Liu</b>&nbsp;Guojian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pang_bo"><b>Pang</b>&nbsp;Bo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2596" title="ORCID: 0000-0002-6910-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_lin"><b>Yang</b>&nbsp;Lin</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 70
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> <a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a> <a href="https://orcid.org/0000-0002-6516-655X" title="ORCID: 0000-0002-6516-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a>
-,     <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a>
-,     <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>
-,     <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> <a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pang_bo"><b>Pang</b> Bo</a> <a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> <a href="https://orcid.org/0000-0002-6910-2596" title="ORCID: 0000-0002-6910-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 70, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#buildability`](keyword/buildability)
-    [`#coarse`](keyword/coarse)
-    [`#column`](keyword/column)
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#stirrup`](keyword/stirrup)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/stirrup"><button class="btn">#stirrup</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20with%20Coarse%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150870233&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4353095425" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106362" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106362?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the axial compression performance of reinforced columns with 3D‒ printed permanent concrete (with coarse aggregate) formwork. A novel square stirrup with reserved longitudinal reinforcement holes and its built‒in‒stirrup permanent concrete formwork method (BSPCF) were presented. Reinforced columns using BSPCF, only 3D printed permanent concrete formwork (3DPCPF), and conventional cast were manufactured and tested by axial compression experiments. Digital image correlation (DIC) was used to obtain the full‒field strain evolution of concrete columns during loading and the results were confirmed by comparison with traditional measurement methods. Results indicated that the column with only 3DPCPF faced concrete formwork early spalling and severe bearing capacity reduction problems. Using BSPCF could adequately avoid the above problems and enhance the column bearing capacity close to that of conventional cast concrete columns. The DIC measurement accurately detected the interlayer fracture of the 3DPCPF under axial compression, which might be responsible for the sudden main crack development. Subsequently, a calculation method suitable for evaluating the effective part of the thicker concrete cover was proposed and discussed. The sudden decrease in aggregate content and increase of voids in the interface region between the confined core concrete and the 3D-printed concrete formwork of columns were found by X-ray computed tomography (X-CT). This phenomenon further proved the importance of BSPCF in lateral stress transfer passing over the interface region.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -125,8 +96,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/niu_huaxian"><b>Niu</b> Huaxian</a>, <a href="../../../author/yu_bo"><b>Yu</b> Bo</a>, <a href="../../../author/hao_ji"><b>Hao</b> Ji</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../niu_yu_hao.2025.CBFFAoSNi3CP/">CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing</a></li>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>
@@ -158,4 +129,33 @@ tags:
       <li><a href="../../../author/wang_hao"><b>Wang</b> Hao</a>, <a href="../../../author/jiang_minghui"><b>Jiang</b> Minghui</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/zhou_gangming"><b>Zhou</b> Gangming</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_jian_hang_zhou.2023.RotMPaFRoAS3PM/">Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar</a></li>
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_zhan_zhan.2023.3PCwCA,
+      author            = "Yidong Chen and Wenhua Zhang and Yunsheng Zhang and Yu Zhang and Cheng Liu and Dafu Wang and Zhiyong Liu and Guojian Liu and Bo Pang and Lin Yang",
+      title             = "3D Printed Concrete with Coarse Aggregates: Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns",
+      doi               = "10.1016/j.jobe.2023.106362",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "70",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, “3D Printed Concrete with Coarse Aggregates: Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns”, <i>Journal of Building Engineering</i>, vol. 70, 2023, doi: 10.1016/j.jobe.2023.106362.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yidong, Wenhua Zhang, Yunsheng Zhang, Yu Zhang, Cheng Liu, Dafu Wang, Zhiyong Liu, Guojian Liu, Bo Pang, and Lin Yang. “3D Printed Concrete with Coarse Aggregates: Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns”. <i>Journal of Building Engineering</i> 70 (2023). https://doi.org/10.1016/j.jobe.2023.106362.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

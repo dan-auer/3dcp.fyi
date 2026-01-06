@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arslan Yousaf, Ans Rashid, Muammer Koç
+    - footer
+title: Yousaf Arslan, Rashid Ans, Koç Muammer
 description:
 tags:
  - additive
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.engstruct.2025.121321" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.121321</a>
+#Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.engstruct.2025.121321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121321" target="_blank">10.1016/j.engstruct.2025.121321</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6814-695X" title="ORCID: 0000-0002-6814-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yousaf_arslan"><b>Yousaf</b>&nbsp;Arslan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rashid_ans"><b>al&nbsp;Rashid</b>&nbsp;Ans</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Engineering Structures, Vol. 344, No. 121321
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a> <a href="https://orcid.org/0000-0002-6814-695X" title="ORCID: 0000-0002-6814-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rashid_ans"><b>al Rashid</b> Ans</a> <a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 344, No. 121321
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#architecture`](keyword/architecture)
-    [`#bio`](keyword/bio)
-    [`#earth`](keyword/earth)
-    [`#local`](keyword/local)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#soil`](keyword/soil)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20for%20Vernacular%20Architecture%20Using%20Local%20Earthen%20Soil%20and%20Bio-Waste%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015382388&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7081986167" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.121321" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.121321?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry heavily relies on ordinary portland cement (OPC), contributing significantly to global carbon emissions while offering poor thermal insulation. Despite growing interest in sustainable construction, limited studies have explored the integration of 3D printing (3DP) with locally sourced, fiber-reinforced earthen materials for culturally resonant vernacular architecture. This study addresses this gap by evaluating the 3D printability and design adaptability of local earthen soil reinforced with 0–4.5 wt% date palm fibers. Rheological characterization showed that increasing fiber content improved shear strength from 18 to 40 kPa, plastic viscosity from 25 to 38 Pa⋅s, and open time from 70 to 150 min. Optimal extrudability was achieved at 3 wt% fiber concentration. However, buildability declined with increasing nozzle diameter, fiber content, and structural diameter. Mechanical testing revealed a maximum compressive strength of 7.7 MPa for mold-casted samples and 6.8 MPa for 3D-printed samples after 28 days. Based on these results, the optimum composition was used to study 3DP design flexibility. Geometrical optimization identified the ideal dome shape at a wall thickness ratio (tb/th) and dome height-to-base width ratio (hd/bd) of 1.0. The gyroid infill pattern demonstrated the best balance between print time of 4.76 min., material usage of 9.4 g, and energy consumption of 0.24 Wh. Door and window designs with curvature angles of 90◦ and sizes of 10 × 10 mm were also optimized to enhance natural ventilation and lighting. These findings enabled the successful 3DP of a 200 mm × 200 mm interconnected 3-dome structure, showcasing a viable pathway for sustainable, climate-adaptive vernacular housing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhusal_shiva"><b>Bhusal</b> Shiva</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../bhus_sedg_hoja.2023.EtPaRaMPo3PEMfCNB/">Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings</a></li>
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
@@ -85,7 +63,37 @@ tags:
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yous_rash_koc.2024.PTfS3PoCS/">Parameter-Tuning for Sustainable 3D Printing of Clay Structures</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yous_rash_koc.2025.AMfVAULESaBWM,
+      author            = "Arslan Yousaf and Ans Al Rashid and Muammer Koç",
+      title             = "Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials",
+      doi               = "10.1016/j.engstruct.2025.121321",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "344",
+      pages             = "121321",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Yousaf, A. A. Rashid and M. Koç, “Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials”, <i>Engineering Structures</i>, vol. 344, p. 121321, 2025, doi: 10.1016/j.engstruct.2025.121321.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yousaf, Arslan, Ans Al Rashid, and Muammer Koç. “Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials”. <i>Engineering Structures</i> 344 (2025): 121321. https://doi.org/10.1016/j.engstruct.2025.121321.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

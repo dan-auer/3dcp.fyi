@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bruno Dias, Douglas Rocha, Paulina Faria, Sandra Lucas, V. Silva, B. Lobo, Alberto Reaes Pinto
+    - footer
+title: Dias Bruno, Rocha Douglas, Faria Paulina, Lucas Sandra, Silva V., Lobo B., Reaes Pinto Alberto
 description:
 tags:
  - hydraulic
@@ -12,31 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Limes with Hydraulic Properties for 3D Printing Mortars ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1007/978-3-031-25795-7_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-25795-7_3</a>
+#Limes with Hydraulic Properties for 3D Printing Mortars ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-25795-7_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-25795-7_3" target="_blank">10.1007/978-3-031-25795-7_3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2012-1278" title="ORCID: 0000-0002-2012-1278" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dias_duarte_bruno"><b>Dias</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1363-0186" title="ORCID: 0000-0003-1363-0186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rocha_douglas"><b>Rocha</b>&nbsp;Douglas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0372-949X" title="ORCID: 0000-0003-0372-949X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/faria_paulina"><b>Faria</b>&nbsp;Paulina</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span>, <a href="../../../author/silva_a_v"><b>Silva</b>&nbsp;V.</a></span>, <a href="../../../author/lobo_b"><b>Lobo</b>&nbsp;B.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0907-7595" title="ORCID: 0000-0002-0907-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reaes-pinto_alberto"><b>Reaes Pinto</b>&nbsp;Alberto</a></span><br>
+Contribution - Sustainable and Digital Building, pp. 41-50
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dias_duarte_bruno"><b>Dias</b> Bruno</a> <a href="https://orcid.org/0000-0002-2012-1278" title="ORCID: 0000-0002-2012-1278" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a> <a href="https://orcid.org/0000-0003-1363-0186" title="ORCID: 0000-0003-1363-0186" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a> <a href="https://orcid.org/0000-0003-0372-949X" title="ORCID: 0000-0003-0372-949X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva_a_v"><b>Silva</b> V.</a>
-,     <a href="../../../author/lobo_b"><b>Lobo</b> B.</a>
-,     <a href="../../../author/reaes-pinto_alberto"><b>Reaes Pinto</b> Alberto</a> <a href="https://orcid.org/0000-0002-0907-7595" title="ORCID: 0000-0002-0907-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Sustainable and Digital Building, pp. 41-50
-
-:aca-blank:{ .lg .middle}
-    [`#hydraulic`](keyword/hydraulic)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/hydraulic"><button class="btn">#hydraulic</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Limes%20with%20Hydraulic%20Properties%20for%203D%20Printing%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203612091&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4367459780" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-25795-7_3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-25795-7_3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The adoption of 3D printing in the global construction industry is still in its infancy, but the technology is already being used to build street furniture, bridges, and even multistory buildings. While this technology allows using fewer resources than some conventional construction processes, most of the printing-adapted mortars available on the market are cement-based, with a high mechanical performance that is suitable for many uses. But these mortars have a high ecological footprint and may not be the most suitable as interior finishes because they have low hygroscopicity and do not contribute significantly to regulating the relative humidity inside buildings. To address some of the concerns mentioned above, a 3D printing mortar was developed using limes with hydraulic properties, namely, hydraulic lime and natural hydraulic lime, as the main binder. The combination of fine sand, limestone powder, superplasticizer, viscosity modifiers, and setting accelerators allowed to achieve the required characteristics for a printing mortar. To develop the lime mortars, comparing them with conventional mortars used in the literature, extrusion tests were performed using a robotic arm and an auger extruder. Through the extrusion tests, it was possible to confirm that cement can be replaced by lime to build nonstructural elements. The study evaluates the change in workability over time. The proposed mortars exhibit very similar behavior, but over time they show different properties in comparison with the 3D ready-mix mortar. The buildability test shows that lime-based mortars can support self-height deformation as any cement-based mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -74,11 +53,41 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jesu_teix_guim_rang.2025.F3SDoCHAt3PPBoCaLBM/">From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jesu_ribe_teix_rang.2024.3PMwMPTSC/">3D Printed Mortars with Marble-Powder Towards Sustainable Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{dias_roch_fari_luca.2023.LwHPf3PM,
+      author            = "Bruno Duarte Dias and Douglas Rocha and Paulina Faria and Sandra Simaria de Oliveira Lucas and V. A. Silva and B. Lobo and Alberto Reaes Pinto",
+      title             = "Limes with Hydraulic Properties for 3D Printing Mortars",
+      doi               = "10.1007/978-3-031-25795-7_3",
+      year              = "2023",
+      pages             = "41--50",
+      booktitle         = "Sustainable and Digital Building",
+      editor            = "Florindo Gaspar and Artur Mateus",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. D. Dias, “Limes with Hydraulic Properties for 3D Printing Mortars”, in <i>Sustainable and Digital Building</i>,  2023, pp. 41–50. doi: 10.1007/978-3-031-25795-7_3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dias, Bruno Duarte, Douglas Rocha, Paulina Faria, Sandra Simaria de Oliveira Lucas, V. A. Silva, B. Lobo, and Alberto Reaes Pinto. “Limes with Hydraulic Properties for 3D Printing Mortars”. In <i>Sustainable and Digital Building</i>, edited by Florindo Gaspar and Artur Mateus, 41–50, 2023. https://doi.org/10.1007/978-3-031-25795-7_3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

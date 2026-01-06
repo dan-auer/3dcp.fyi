@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Oleh Kulaienko, Oleksii Kabus
+    - footer
+title: Kulaienko Oleh, Kabus Oleksii
 description:
 tags:
  - concrete
@@ -12,26 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing Technology:<br/>:aca-blank: Implementing Tasks in Ukraine ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1007/978-3-031-20141-7_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-20141-7_49</a>
+#3D Concrete Printing Technology&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">Implementing Tasks in Ukraine</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-20141-7_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-20141-7_49" target="_blank">10.1007/978-3-031-20141-7_49</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2915-3946" title="ORCID: 0000-0002-2915-3946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kulaienko_oleh"><b>Kulaienko</b>&nbsp;Oleh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2940-0513" title="ORCID: 0000-0002-2940-0513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kabus_oleksii"><b>Kabus</b>&nbsp;Oleksii</a></span><br>
+Contribution - Smart Technologies in Urban Engineering, pp. 537-546
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kulaienko_oleh"><b>Kulaienko</b> Oleh</a> <a href="https://orcid.org/0000-0002-2915-3946" title="ORCID: 0000-0002-2915-3946" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kabus_oleksii"><b>Kabus</b> Oleksii</a> <a href="https://orcid.org/0000-0002-2940-0513" title="ORCID: 0000-0002-2940-0513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Smart Technologies in Urban Engineering, pp. 537-546
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#implementation`](keyword/implementation)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144188162&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4310124590" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-20141-7_49" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-20141-7_49?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper describes the development tasks of localized for Ukraine 3D concrete printing technology, the ways of design, manufacture and testing in industrial conditions a technological equipment set as a part of Smart Manufacturing conception in construction. It is necessary to create design documentation, technological regulations, guidelines and special software for technology implementation. As the same the object of novelty should be the technology of manufacturing special concrete mixtures localized for raw materials available in Ukraine. According to the project objectives, it justified the use BIM technologies, which corresponds to the target program of the Ministry of Regional Development of Ukraine. The work results should be the solution for the mass construction of affordable durable middle-class housing for the housing stock in Ukraine restoration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../aspr_menn_bos_mata.2022.SDaToDMCS/">Structural Design and Testing of Digitally Manufactured Concrete Structures</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -72,8 +57,39 @@ tags:
       <li><a href="../../../author/sharma_shivam"><b>Sharma</b> Shivam</a>, <a href="../../../author/mitra_soham"><b>Mitra</b> Soham</a>, <a href="../../../author/adesina_adeyemi"><b>Adesina</b> Adeyemi</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../shar_mitr_ades_das.2022.CIw3P/">Construction Industry with 3D Printer:<br/>A New Era</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kajzr_daniel"><b>Kajzr</b> Daniel</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a>, <a href="../../../author/cernohorsky_josef"><b>Černohorský</b> Josef</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../kajz_mysl_cern.2023.AOPBRCSf3CP/">An Open PLC-Based Robot-Control-System for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kula_kabu.2023.3CPT,
+      author            = "Oleh Kulaienko and Oleksii Kabus",
+      title             = "3D Concrete Printing Technology: Implementing Tasks in Ukraine",
+      doi               = "10.1007/978-3-031-20141-7_49",
+      year              = "2023",
+      volume            = "536",
+      pages             = "537--546",
+      booktitle         = "Smart Technologies in Urban Engineering",
+      editor            = "Olga Arsenyeva and Tatiana Romanova and Maria Sukhonos and Yevgen Tsegelnyk",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Kulaienko  and O. Kabus, “3D Concrete Printing Technology: Implementing Tasks in Ukraine”, in <i>Smart Technologies in Urban Engineering</i>,  2023, vol. 536, pp. 537–546. doi: 10.1007/978-3-031-20141-7_49.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kulaienko, Oleh, and Oleksii Kabus. “3D Concrete Printing Technology: Implementing Tasks in Ukraine”. In <i>Smart Technologies in Urban Engineering</i>, edited by Olga Arsenyeva, Tatiana Romanova, Maria Sukhonos, and Yevgen Tsegelnyk, 536:537–46, 2023. https://doi.org/10.1007/978-3-031-20141-7_49.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

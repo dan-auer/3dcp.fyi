@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shuyi Huang, Weiguo Xu, Yuqian Li
+    - footer
+title: Huang Shuyi, Xu Weiguo, Li Yuqian
 description:
 tags:
  - buildability
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.foar.2022.03.004) The Impacts of Fabrication Systems on 3D Concrete Printing Building Forms ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.foar.2022.03.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.foar.2022.03.004</a>
+#The Impacts of Fabrication Systems on 3D Concrete Printing Building Forms ([2022-04](date/2022/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.foar.2022.03.004) <a href="https://doi.org/10.1016/j.foar.2022.03.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.foar.2022.03.004" target="_blank">10.1016/j.foar.2022.03.004</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5498-2730" title="ORCID: 0000-0001-5498-2730" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_shuyi"><b>Huang</b>&nbsp;Shuyi</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weiguo"><b>Xu</b>&nbsp;Weiguo</a></span>, <a href="../../../author/li_yuqian"><b>Li</b>&nbsp;Yuqian</a></span><br>
+Journal Article - Frontiers of Architectural Research, Vol. 11, Iss. 4, pp. 653-669
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a> <a href="https://orcid.org/0000-0001-5498-2730" title="ORCID: 0000-0001-5498-2730" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_yuqian"><b>Li</b> Yuqian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Architectural Research, Vol. 11, Iss. 4, pp. 653-669
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#form`](keyword/form)
-    [`#imapct`](keyword/imapct)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/imapct"><button class="btn">#imapct</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Impacts%20of%20Fabrication%20Systems%20on%203D%20Concrete%20Printing%20Building%20Forms" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128130256&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4223557329" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.foar.2022.03.004" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.foar.2022.03.004?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, 3D concrete printing (3DCP) technology starts entering the market from factories and laboratories, contributing to the creation of new construction methods and architectural forms. However, since the technologies of most 3DCP institutions are independently developed, there is a lack of consensus in terms of construction methods and development approaches in the industry. In this paper, based on 42 3DCP architectural works completed in last five years, a quantitative analysis was made to evaluate the impacts of the fabrication system on 3DCP building forms. The paper introduced three criteria, including Workspace Index, Geometric Complexity Index, and Tectonic Prospect Index, analyzing and answering the discussions about “adopting in-situ printing or prefabrication”, “using gantry printers or robotic arms” from the perspective of architectural form. By analyzing specific construction methods and design strategies in these projects, the research summarized three development trends, “mobile equipment, algorithmic structure, and intelligent construction”, which will affect the future development of 3DCP building forms. Finally, the paper discussed the advantages, limitations, and potential of four different 3DCP fabrication systems, expecting to point out the directions to further optimize each system and realize more diverse 3DCP buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
@@ -71,7 +51,6 @@ tags:
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../anto_yoo_beda_reit.2019.VM/">Vertical Modulations</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
-      <li><a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/bouten_sam"><b>Bouten</b> Sam</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dell_bout_mele_bloc.2023.SDaEoSaU3CPMAB/">Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge</a></li>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../gaud_duba_bouy_mall.2019.BAULFOTLSAMoUHPC/">Building Applications Using Lost Formworks Obtained Through Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -89,8 +68,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/perez_banda_pablo"><b>Perez</b> Pablo</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>, <a href="../../../author/valenzuela_rozas_sebastian"><b>Valenzuela</b> Sebastián</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_pere_alva_vale.2025.3PoSD/">3D Printing of Surrealist Dreams:<br/>Constraints, Failures, and Craftsmanship in 1:1 Digital Fabrication</a></li>
@@ -120,4 +99,35 @@ tags:
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/aljawi_abdulla"><b>Aljawi</b> Abdulla</a>, <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b> Ahmed</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../mans_bina_alja_alha.2022.TMotCHTitLACot3CPW/">Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{huan_xu_li.2022.TIoFSo3CPBF,
+      author            = "Shuyi Huang and Weiguo Xu and Yuqian Li",
+      title             = "The Impacts of Fabrication Systems on 3D Concrete Printing Building Forms",
+      doi               = "10.1016/j.foar.2022.03.004",
+      year              = "2022",
+      journal           = "Frontiers of Architectural Research",
+      volume            = "11",
+      number            = "4",
+      pages             = "653--669",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Huang, W. Xu and Y. Li, “The Impacts of Fabrication Systems on 3D Concrete Printing Building Forms”, <i>Frontiers of Architectural Research</i>, vol. 11, no. 4, pp. 653–669, 2022, doi: 10.1016/j.foar.2022.03.004.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Huang, Shuyi, Weiguo Xu, and Yuqian Li. “The Impacts of Fabrication Systems on 3D Concrete Printing Building Forms”. <i>Frontiers of Architectural Research</i> 11, no. 4 (2022): 653–69. https://doi.org/10.1016/j.foar.2022.03.004.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

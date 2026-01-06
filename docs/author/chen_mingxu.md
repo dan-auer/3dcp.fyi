@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Chen Mingxu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
   <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>, <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../jin_jian_gan_sun.2025.EtPo3PWCMwA/">Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>Evolution of Early-Age Hydration and Rheology</a></li>
   <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/quan_hongzhu"><b>Quan</b> Hongzhu</a>, <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_zhan_quan_liu.2024.EATDMPo3PCwCA/">Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates</a></li>

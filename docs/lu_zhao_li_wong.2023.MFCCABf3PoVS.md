@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Lu, Huanyu Zhao, Mingyang Li, Teck Wong, Shunzhi Qian
+    - footer
+title: Lu Bing, Zhao Huanyu, Li Mingyang, Wong Teck, Qian Shunzhi
 description:
 tags:
  - ash
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} MgO/Fluid Catalytic Cracking Ash-Blends for 3D Printing on Vertical Surfaces ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1080/21650373.2023.2270571" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2023.2270571</a>
+#MgO/Fluid Catalytic Cracking Ash-Blends for 3D Printing on Vertical Surfaces ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2023.2270571" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2023.2270571" target="_blank">10.1080/21650373.2023.2270571</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <a href="../../../author/zhao_huanyu"><b>Zhao</b>&nbsp;Huanyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> <a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_huanyu"><b>Zhao</b> Huanyu</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-14
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#blend`](keyword/blend)
-    [`#crack`](keyword/crack)
-    [`#fluid`](keyword/fluid)
-    [`#print`](keyword/print)
-    [`#surface`](keyword/surface)
-    [`#vertical`](keyword/vertical)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/vertical"><button class="btn">#vertical</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=MgO/Fluid%20Catalytic%20Cracking%20Ash-Blends%20for%203D%20Printing%20on%20Vertical%20Surfaces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174247212&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387703751" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2023.2270571" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2023.2270571?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fluid catalytic cracking (FCC) ash is a common industrial waste in the crude oil refinery process. In this study, raw FCC ash was incorporated to develop sustainable MgO/FCC ash blends for 3D printing on vertical surfaces. Rheological and tack behaviors of MgO/FCC ash blends were systematically studied, followed by the assessment of mechanical property and hydration products. On this basis, the suitable mixture for 3D printing on the vertical surfaces was determined, and its feasibility was verified with lab-scale 3D printing. Finally, the environmental impact of the developed mixture was estimated through batch leaching and composition tests. This study provides an alternative method to upcycle FCC ash as an ingredient for 3D concrete printing, which brings benefits to both the construction and oil refinery industries. Besides, the rheological, tack, and hydration investigations of the MgO/FCC ash blends guide the future design of similar mixtures with upcycled wastes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/jenny_david"><b>Jenny</b> David</a>, <a href="../../../author/sounigo_eliott"><b>Sounigo</b> Eliott</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jenn_llor_jenn_soun.2022.RPS/">Robotic Plaster Spraying:<br/>Crafting Surfaces with Adaptive Thin-Layer Printing</a></li>
@@ -85,10 +63,39 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aman_mohammed_abdulkerim"><b>Aman</b> Abdulkerim</a>, <a href="../../../author/yang_zhe"><b>Yang</b> Zhe</a>, <a href="../../../author/xin_yubo"><b>Xin</b> Yubo</a>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b> Xiaoman</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../aman_yang_xin_zhan.2025.IMOi3PCtMDS/">Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_li_guo_wang.2025.SB3PTSC/">Spray-Based 3D Printed Tunnel Slag Concrete:<br/>Evaluation for Printability and Mechanical Performance</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lu_wang_wang_tan.2024.DoRSSSCMfSSHM/">Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_zhao_li_wong.2023.MFCCABf3PoVS,
+      author            = "Bing Lu and Huanyu Zhao and Mingyang Li and Teck Neng Wong and Shunzhi Qian",
+      title             = "MgO/Fluid Catalytic Cracking Ash-Blends for 3D Printing on Vertical Surfaces",
+      doi               = "10.1080/21650373.2023.2270571",
+      year              = "2023",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Lu, H. Zhao, M. Li, T. N. Wong and S. Qian, “MgO/Fluid Catalytic Cracking Ash-Blends for 3D Printing on Vertical Surfaces”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–14, 2023, doi: 10.1080/21650373.2023.2270571.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Bing, Huanyu Zhao, Mingyang Li, Teck Neng Wong, and Shunzhi Qian. “MgO/Fluid Catalytic Cracking Ash-Blends for 3D Printing on Vertical Surfaces”. <i>Journal of Sustainable Cement-Based Materials</i>, 2023, 1–14. https://doi.org/10.1080/21650373.2023.2270571.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

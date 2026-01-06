@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Caspeele Robby 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO/">Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization</a></li>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sael_titt_casp_wan.2025.EAotSBoHC3PCBS/">Experimental Analysis of the Structural Behavior of Hybrid Concrete 3D Printed-Cast Beam Systems</a></li>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sael_wan_casp_titt.2024.MVRwAM/">Material-Volume Reduction with Additive Manufacturing:<br/>Challenges for Structural Application</a></li>

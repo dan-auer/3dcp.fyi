@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehran Khan, Ciaran McNally
+    - footer
+title: Khan Mehran, McNally Ciaran
 description:
 tags:
  - buildability
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2023.100273) A Holistic Review on the Contribution of Civil Engineers for Driving Sustainable Concrete Construction in the Built Environment ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.dibe.2023.100273" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2023.100273</a>
+#A Holistic Review on the Contribution of Civil Engineers for Driving Sustainable Concrete Construction in the Built Environment ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100273) <a href="https://doi.org/10.1016/j.dibe.2023.100273" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100273" target="_blank">10.1016/j.dibe.2023.100273</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_mehran"><b>Khan</b>&nbsp;Mehran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
+Journal Article - Developments in the Built Environment, Vol. 16, No. 100273
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> <a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, Vol. 16, No. 100273
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#contribution`](keyword/contribution)
-    [`#engineer`](keyword/engineer)
-    [`#environment`](keyword/environment)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contribution"><button class="btn">#contribution</button></a> <a href="../../keyword/engineer"><button class="btn">#engineer</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Holistic%20Review%20on%20the%20Contribution%20of%20Civil%20Engineers%20for%20Driving%20Sustainable%20Concrete%20Construction%20in%20the%20Built%20Environment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178071532&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388706473" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2023.100273" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2023.100273?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Comprehending civil engineer’s crucial role in promoting sustainable construction practices is becoming increasingly essential as the globe faces severe environmental and economic concerns. This study discusses civil engineer’s pivotal role in promoting sustainable concrete construction, highlighting the need for their expertise in creating environmentally friendly and resilient infrastructure. The manuscript further discusses the importance of procurement rules in endorsing sustainable development, emphasizing the need for well-crafted policies and guidelines that incentivize eco-friendly practices. The possible collaborative efforts between civil engineers and policymakers are highlighted as a fundamental driver for sustainable construction. Furthermore, the emergence of low-carbon 3D printing concrete technology is also explored as an innovative technique for sustainable construction, addressing its potential to reduce carbon emissions and enhance construction efficiency. Moreover, valuable insights for future research directions and opportunities are also identified to encourage further investigation for advancing sustainable construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -95,12 +75,42 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>, <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>, <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../drag_sale_drag_hedj.2025.DViCPMU3P/">Design Validation in Construction Project Management Using 3D Printing</a></li>
       <li><a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/li_dianmo"><b>Li</b> Dianmo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_nere_li_zhan.2024.BACP3PC/">Biochar-Augmented Climate-Positive 3D Printable Concrete</a></li>
       <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_mcna.2023.AHRotCoCEfDSCCitBE,
+      author            = "Mehran Khan and Ciaran McNally",
+      title             = "A Holistic Review on the Contribution of Civil Engineers for Driving Sustainable Concrete Construction in the Built Environment",
+      doi               = "10.1016/j.dibe.2023.100273",
+      year              = "2023",
+      journal           = "Developments in the Built Environment",
+      volume            = "16",
+      pages             = "100273",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Khan  and C. McNally, “A Holistic Review on the Contribution of Civil Engineers for Driving Sustainable Concrete Construction in the Built Environment”, <i>Developments in the Built Environment</i>, vol. 16, p. 100273, 2023, doi: 10.1016/j.dibe.2023.100273.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Mehran, and Ciaran McNally. “A Holistic Review on the Contribution of Civil Engineers for Driving Sustainable Concrete Construction in the Built Environment”. <i>Developments in the Built Environment</i> 16 (2023): 100273. https://doi.org/10.1016/j.dibe.2023.100273.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

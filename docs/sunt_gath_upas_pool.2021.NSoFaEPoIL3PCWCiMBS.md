@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thadshajini Suntharalingam, Perampalam Gatheeshgar, Irindu Upasiri, Keerthan Poologanathan, Brabha Nagaratnam, Heshachanaa Rajanayagam, Satheeskumar Navaratnam
+    - footer
+title: Suntharalingam Thadshajini, Gatheeshgar Perampalam, Upasiri Irindu, Poologanathan Keerthan, Nagaratnam Brabha, Rajanayagam Heshachanaa, Navaratnam Satheeskumar
 description:
 tags:
  - buildability
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/13/4/2314/pdf?version=1614176292) Numerical Study of Fire and Energy Performance of Innovative Lightweight 3D Printed Concrete Wall-Configurations in Modular Building System ([2021-02](date/2021/02))
-<a href="https://doi.org/10.3390/su13042314" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su13042314</a>
+#Numerical Study of Fire and Energy Performance of Innovative Lightweight 3D Printed Concrete Wall-Configurations in Modular Building System ([2021-02](date/2021/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/13/4/2314/pdf?version=1614176292) <a href="https://doi.org/10.3390/su13042314" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su13042314" target="_blank">10.3390/su13042314</a>
 
--------------------------
+<a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b>&nbsp;Thadshajini</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b>&nbsp;Perampalam</a></span>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b>&nbsp;Irindu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b>&nbsp;Keerthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8818-7567" title="ORCID: 0000-0001-8818-7567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b>&nbsp;Brabha</a></span>, <a href="../../../author/rajanayagam_heshachanaa"><b>Rajanayagam</b>&nbsp;Heshachanaa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7772-4531" title="ORCID: 0000-0001-7772-4531" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b>&nbsp;Satheeskumar</a></span><br>
+Journal Article - Sustainability, Vol. 13, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>
-,     <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> <a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>
-,     <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> <a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a> <a href="https://orcid.org/0000-0001-8818-7567" title="ORCID: 0000-0001-8818-7567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajanayagam_heshachanaa"><b>Rajanayagam</b> Heshachanaa</a>
-,     <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a> <a href="https://orcid.org/0000-0001-7772-4531" title="ORCID: 0000-0001-7772-4531" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 13, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#energy`](keyword/energy)
-    [`#fire`](keyword/fire)
-    [`#innovation`](keyword/innovation)
-    [`#light`](keyword/light)
-    [`#modular`](keyword/modular)
-    [`#numeric`](keyword/numeric)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Study%20of%20Fire%20and%20Energy%20Performance%20of%20Innovative%20Lightweight%203D%20Printed%20Concrete%20Wall-Configurations%20in%20Modular%20Building%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101871031&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3132662150" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su13042314" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su13042314?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Printed Concrete (3DPC) technology is currently evolving with high demand amongst researches and the integration of modular building system (MBS) with this technology would provide a sustainable solution to modern construction challenges. The use of lightweight concrete in such innovative construction methods offers lightweight structures with better heat and sound insulation compared to normal weight concrete. It is worth noting that fire and energy performance has become central to building design. However, there are limited research studies on the combined thermal energy and fire performance of 3DPC walls. Therefore, this study investigates fire performance of 20 numbers of varying 3DPC wall configurations using validated finite element models under standard fire conditions. The fire performance analysis demonstrated that 3DPC non-load bearing cavity walls have substantial resistance under standard fire load and its performance can be further improved with Rockwool insulation. There is significant improvement in terms of fire performance when the thickness of the walls increases in a parallel row manner. Previous thermal energy investigation also showed a lower U-value for increased thickness of similar 3DPC walls. This research concludes with a proposal of using 3DPC wall with Rockwool insulation for amplified combined thermal energy and fire performance to be used in MBS.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
@@ -91,13 +62,11 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_tan.2019.RBoHVFAMCMSfDCA/">Rheological Behavior of High-Volume Fly-Ash Mixtures Containing Micro-Silica for Digital Construction Application</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
-      <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sunt_gath_upas_pool.2021.FPoI3PCCWP/">Fire Performance of Innovative 3D Printed Concrete Composite Wall Panels:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/hackney_phil"><b>Hackney</b> Phil</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sunt_naga_pool_hack.2021.EoPFotWPoECM/">Effect of Polypropylene-Fibers on the Workability Parameters of Extrudable Cementitious Materials</a></li>
-      <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../sunt_upas_gath_pool.2021.FRo3PCCWPEtVFS/">Fire-Resistance of 3D Printed Concrete Composite Wall Panels Exposed to Various Fire Scenarios</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
@@ -125,4 +94,34 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sunt_upas_naga_pool.2022.FEMtPtFPoBI3PCWPEtRF/">Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sunt_gath_upas_pool.2021.NSoFaEPoIL3PCWCiMBS,
+      author            = "Thadshajini Suntharalingam and Perampalam Gatheeshgar and Irindu Upasiri and Keerthan Poologanathan and Brabha Nagaratnam and Heshachanaa Rajanayagam and Satheeskumar Navaratnam",
+      title             = "Numerical Study of Fire and Energy Performance of Innovative Lightweight 3D Printed Concrete Wall-Configurations in Modular Building System",
+      doi               = "10.3390/su13042314",
+      year              = "2021",
+      journal           = "Sustainability",
+      volume            = "13",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Suntharalingam, “Numerical Study of Fire and Energy Performance of Innovative Lightweight 3D Printed Concrete Wall-Configurations in Modular Building System”, <i>Sustainability</i>, vol. 13, no. 4, 2021, doi: 10.3390/su13042314.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Suntharalingam, Thadshajini, Perampalam Gatheeshgar, Irindu Upasiri, Keerthan Poologanathan, Brabha Nagaratnam, Heshachanaa Rajanayagam, and Satheeskumar Navaratnam. “Numerical Study of Fire and Energy Performance of Innovative Lightweight 3D Printed Concrete Wall-Configurations in Modular Building System”. <i>Sustainability</i> 13, no. 4 (2021). https://doi.org/10.3390/su13042314.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

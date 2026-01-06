@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Binrong Zhu, Jinlong Pan, Junrui Li, Penghui Wang, Mingzhong Zhang
+    - footer
+title: Zhu Binrong, Pan Jinlong, Li Junrui, Wang Penghui, Zhang Mingzhong
 description:
 tags:
  - behavior
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://discovery.ucl.ac.uk/10152118/1/Accepted%20Version.pdf) Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104677" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104677</a>
+#Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites ([2022-07](date/2022/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://discovery.ucl.ac.uk/10152118/1/Accepted%20Version.pdf) <a href="https://doi.org/10.1016/j.cemconcomp.2022.104677" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104677" target="_blank">10.1016/j.cemconcomp.2022.104677</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span>, <a href="../../../author/li_junrui"><b>Li</b>&nbsp;Junrui</a></span>, <a href="../../../author/wang_penghui"><b>Wang</b>&nbsp;Penghui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mingzhong"><b>Zhang</b>&nbsp;Mingzhong</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>
-,     <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a>
-,     <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 133, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#hardened`](keyword/hardened)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Relationship%20Between%20Microstructure%20and%20Strain-Hardening%20Behavior%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134608793&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285403816" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104677" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104677?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The tensile behaviour of engineered cementitious composites (ECC) is highly dependent on their microstructure characteristics. To date, the strain-hardening behaviour of printed ECC in relation to its microstructure is not yet fully understood. This study presents a systematic investigation on the macroscopic mechanical properties of normal and printed ECC with various polyethylene (PE) fibre lengths (6 and 12 mm) in relation to their microstructural features in terms of pore structure characteristics, fibre orientation and fibre dispersion through a series of mechanical tests and X-ray computed tomography (CT) and backscattered electron (BSE) image acquisition, processing and analysis. Results indicate that it is desirable to use block specimens for mould-casting fabrication as contrast to printed ECC samples. The printed ECC containing 1.5 vol% 6 mm and 0.5 vol% 12 mm PE fibres by extrusion-based 3D printing exhibits unique tensile ductility of over 5% and average crack width of less than 100 μm. Regarding pore structure, normal ECC has a higher probability of large pores (over 1 mm3) than printed ECC, which would increase the risk of damage localization and lead to a significant variation in tensile properties. Besides, normal ECC with thickness of 30 mm and printed ECC possess a similar fist cracking strength as indicated by similar pore size and fracture toughness. Compared to normal ECC, printed ECC has a more uniform dispersion of PE fibres, the orientation of which is more perpendicular to the loading direction, resulting in a higher average tensile strength and strain capacity than normal ECC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
@@ -104,7 +80,6 @@ tags:
       <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../vall_farz_khay.2021.EoFBaPIVoSSo3PE/">Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>A Review</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
-      <li><a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../wang_yang_wang_bai.2025.RDaSPftTO3PCTB/">Reinforcement Design and Structural Performance for the Topology Optimized 3D Printed Concrete Truss Beams</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
@@ -117,8 +92,11 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "36 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
+      <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
@@ -153,4 +131,33 @@ tags:
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/lin_qian"><b>Lin</b> Qian</a>, <a href="../../../author/xu_wei"><b>Xu</b> Wei</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../luo_lin_xu_wang.2023.EoITaIAotMCoUHTCCU3PT/">Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_pan_li_wang.2022.RBMaSHBo3PECC,
+      author            = "Binrong Zhu and Jinlong Pan and Junrui Li and Penghui Wang and Mingzhong Zhang",
+      title             = "Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2022.104677",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zhu, J. Pan, J. Li, P. Wang and M. Zhang, “Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, vol. 133, 2022, doi: 10.1016/j.cemconcomp.2022.104677.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Binrong, Jinlong Pan, Junrui Li, Penghui Wang, and Mingzhong Zhang. “Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i> 133 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104677.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

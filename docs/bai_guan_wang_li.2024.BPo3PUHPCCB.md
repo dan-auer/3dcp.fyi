@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gang Bai, Jingyuan Guan, Li Wang, Zhijian Li, Guowei Ma
+    - footer
+title: Bai Gang, Guan Jingyuan, Wang Li, Li Zhijian, Ma Guowei
 description:
 tags:
  - beam
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.addma.2024.104298" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104298</a>
+#Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104298" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104298" target="_blank">10.1016/j.addma.2024.104298</a>
 
--------------------------
+<a href="../../../author/bai_gang"><b>Bai</b>&nbsp;Gang</a></span>, <a href="../../../author/guan_jingyuan"><b>Guan</b>&nbsp;Jingyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Additive Manufacturing, No. 104298
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>
-,     <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104298
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#bending`](keyword/bending)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bending%20Performance%20of%203D%20Printed%20Ultra-High-Performance%20Concrete%20Composite%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197552792&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400370736" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104298" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104298?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integrated optimization of materials, processes, and structural performance is the development trend for 3D concrete printing. Composite beam reinforced by 3D printed ultra high-performance concrete (3DP-UHPC) was proposed, i.e., 3DP-UHPC was applied as the strengthen skeleton for the entire composite beam. In this study, three 3DP-UHPC skeleton optimized forms were derived through topology optimization design. Four-point bending tests were conducted on 3DP-UHPC skeleton composite reinforced concrete beams (CRC), rebars locally reinforced CRC beams (R-CRC), and rebars locally reinforced 3D printed concrete beams (R-PC). Additionally, conventionally reinforced concrete beam (RC) was produced for comparison. The results showed that the of CRC and R-PC perform 1/4 and 1/2 flexural capacity of RC, respectively. Their limited flexural capacity led to sudden failures, failing to meet structural load requirements. In contrast, R-CRC exhibited superior stiffness and strength, demonstrating exceptional bending performance for 3D printed concrete beams without the reinforcement of reinforcement cages. This approach significantly enhances the structural load capacity of 3D printed structures while preserving flexibility and reducing reliance on reinforcement cages. The study provides valuable experimental data and methodological guidance for the application of 3D printed concrete structures in structural load-bearing engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -110,8 +88,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
@@ -129,4 +107,33 @@ tags:
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/khieu_hoang_hai"><b>Khieu</b> Hai</a>, <a href="../../../author/black_r_jay"><b>Black</b> Jay</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_khie_blac_nguy.2025.TS3PSFRSfCS/">Two-Scale 3D Printed Steel-Fiber-Reinforcements-Strategy for Concrete Structures</a></li>
       <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>, <a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_zhan_sun_pi.2024.MPaFMo3PUHPC/">Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bai_guan_wang_li.2024.BPo3PUHPCCB,
+      author            = "Gang Bai and Jingyuan Guan and Li Wang and Zhijian Li and Guowei Ma",
+      title             = "Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams",
+      doi               = "10.1016/j.addma.2024.104298",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104298",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Bai, J. Guan, L. Wang, Z. Li and G. Ma, “Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams”, <i>Additive Manufacturing</i>, p. 104298, 2024, doi: 10.1016/j.addma.2024.104298.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bai, Gang, Jingyuan Guan, Li Wang, Zhijian Li, and Guowei Ma. “Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams”. <i>Additive Manufacturing</i>, 2024, 104298. https://doi.org/10.1016/j.addma.2024.104298.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

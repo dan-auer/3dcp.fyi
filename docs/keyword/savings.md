@@ -8,7 +8,7 @@ search:
 
 # #savings
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/gortzen_tom"><b>Görtzen</b> Tom</a>, <a href="../../../author/niemeyer_alice"><b>Niemeyer</b> Alice</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../neef_gort_niem_mech.2024.MSCCMf3PIB/">Material-Saving Concrete Ceiling Made from 3D-Printed Interlocking Blocks</a></li>
   <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/herdan_annika"><b>Herdan</b> Annika</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rei_herd_mech.2024.CotRBoaRSSCitCo3P/">Characterisation of the Rheological Behavior of a Resource-Saving Sustainable Concrete in the Context of 3D Printing</a></li>
   <li><a href="../../../author/khalilidermani_mitra"><b>Khalilidermani</b> Mitra</a>, <a href="../../../author/knez_dariusz"><b>Knez</b> Dariusz</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khal_knez.2023.ASoEHSwaFoES3PT/">A Survey on Extraterrestrial Habitation Structures with a Focus on Energy-Saving 3D Printing Techniques</a></li>

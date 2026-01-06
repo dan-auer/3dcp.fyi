@@ -8,7 +8,8 @@ search:
 
 # #pattern
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a>, <a href="../../../author/wan_yujia"><b>Wan</b> Yujia</a>, <a href="../../../author/owyong_shawn"><b>Owyong</b> Shawn</a>, <a href="../../../author/connie-lim_en"><b>Connie Lim</b> En</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wan_owyo_conn.2026.TLCC/">Towards Low-Carbon Construction:<br/>Nature-Inspired Internal Patterns for Thermal Insulation in Lightweight Concrete Component Cast Using 3D-Printed Formwork</a></li>
   <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
   <li><a href="../../../author/pandum_jeero"><b>Pandum</b> Jeero</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pand_hash_sugi_naka.2025.ADEo3PC/">AI-Driven Evaluation of 3D-Printed Concrete:<br/>Analyzing Printed Patterns Using Impact-Echo and Acoustic Emission</a></li>
   <li><a href="../../../author/pal_abhipsa"><b>Pal</b> Abhipsa</a>, <a href="../../../author/wan-wendner_lin"><b>Wan-Wendner</b> Lin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pal_wan.2025.3CPaIPoEESWE/">3D Concrete Printing and Infill Patterns of Energy Efficient Structural Wall Elements</a></li>

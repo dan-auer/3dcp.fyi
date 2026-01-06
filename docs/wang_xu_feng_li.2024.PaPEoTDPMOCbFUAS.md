@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qinghua Wang, Jinggang Xu, Duo Feng, Wei Li, Yuanyuan Zhou, Qiao Wang
+    - footer
+title: Wang Qinghua, Xu Jinggang, Feng Duo, Li Wei, Zhou Yuanyuan, Wang Qiao
 description:
 tags:
  - cement
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1007/s11709-023-0994-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-023-0994-6</a>
+#Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-023-0994-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0994-6" target="_blank">10.1007/s11709-023-0994-6</a>
 
--------------------------
+<a href="../../../author/wang_qinghua"><b>Wang</b>&nbsp;Qinghua</a></span>, <a href="../../../author/xu_jinggang"><b>Xu</b>&nbsp;Jinggang</a></span>, <a href="../../../author/feng_duo"><b>Feng</b>&nbsp;Duo</a></span>, <a href="../../../author/li_wei"><b>Li</b>&nbsp;Wei</a></span>, <a href="../../../author/zhou_yuanyuan"><b>Zhou</b>&nbsp;Yuanyuan</a></span>, <a href="../../../author/wang_qiao"><b>Wang</b>&nbsp;Qiao</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_qinghua"><b>Wang</b> Qinghua</a>
-,     <a href="../../../author/xu_jinggang"><b>Xu</b> Jinggang</a>
-,     <a href="../../../author/feng_duo"><b>Feng</b> Duo</a>
-,     <a href="../../../author/li_wei"><b>Li</b> Wei</a>
-,     <a href="../../../author/zhou_yuanyuan"><b>Zhou</b> Yuanyuan</a>
-,     <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#dimension`](keyword/dimension)
-    [`#evaluation`](keyword/evaluation)
-    [`#full`](keyword/full)
-    [`#magnesium`](keyword/magnesium)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#sand`](keyword/sand)
-    [`#three`](keyword/three)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20and%20Printability%20Evaluation%20of%20Three-Dimensional%20Printing%20Magnesium-Oxychloride%20Cement%20by%20Fully%20Utilizing%20Aeolian-Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182206860&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390820084" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-023-0994-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-023-0994-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is increasingly being applied in harsh environments and isolated regions. However, the effective utilization of aeolian sand (AS) resources and by-products derived from arid zones for 3DCP is yet to be fully realized. This study developed a three-dimensional (3D) printing composite using AS and magnesium oxychloride cement (MOC) from local materials. The effects of the mole ratio of MgO/MgCl2 and sand/binder (S/B) ratio on the mechanical properties such as water resistance, drying shrinkage strain, rheology, and printability, were investigated systematically. The results indicated that the optimal mole ratio of MgO/MgCl2 was 8, which yielded the desired mechanical performance and water resistance. Furthermore, the S/B ratio can be increased to three within the desired printability to increase the AS utilization rate. The rheological recovery and buildability of the 3D-printed MOC with AS were verified. These findings provide a promising strategy for construction in remote deserts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../li_wang_ma.2020.MIoCSMCRGCf3PStDLC/">Mechanical Improvement of Continuous Steel-Micro-Cable-Reinforced Geopolymer Composites for 3D Printing Subjected to Different Loading Conditions</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
@@ -85,7 +58,35 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_xu_feng_li.2024.PaPEoTDPMOCbFUAS,
+      author            = "Qinghua Wang and Jinggang Xu and Duo Feng and Wei Li and Yuanyuan Zhou and Qiao Wang",
+      title             = "Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand",
+      doi               = "10.1007/s11709-023-0994-6",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Wang, J. Xu, D. Feng, W. Li, Y. Zhou and Q. Wang, “Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-023-0994-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Qinghua, Jinggang Xu, Duo Feng, Wei Li, Yuanyuan Zhou, and Qiao Wang. “Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-023-0994-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

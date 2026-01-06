@@ -8,7 +8,7 @@ search:
 
 # #mitigation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
   <li><a href="../../../author/motiani_ronak"><b>Motiani</b> Ronak</a>, <a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b> Saha</a>, <a href="../../../author/dalal_p_sejal"><b>Dalal</b> Sejal</a>, <a href="../../../author/vora_jay"><b>Vora</b> Jay</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../moti_sylv_dala_vora.2025.IRTf3PC/">Innovative Reinforcement Techniques for 3D-Printed Concrete:<br/>The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation</a></li>
   <li><a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/awawdeh_m_najemaldeen"><b>Awawdeh</b> Najemaldeen</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rous_alne_abda_awaw.2025.MoECWU3PCwPCM/">Mitigation of Energy Crisis Worldwide Using 3D-Printed Concrete with Phase Change Materials</a></li>

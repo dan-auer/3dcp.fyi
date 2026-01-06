@@ -8,7 +8,7 @@ search:
 
 # #helical
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gao_jianhao"><b>Gao</b> Jianhao</a>, <a href="../../../author/niu_yujun"><b>Niu</b> Yujun</a>, <a href="../../../author/wang_chaofeng"><b>Wang</b> Chaofeng</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../gao_niu_wang.2025.LHP/">Linear Helical Printing:<br/>A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity</a></li>
   <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../hass_bos_sale.2024.BGIBHRa3PC/">Bond Governed Interactions Between Helical Reinforcement and 3D Printed Concrete</a></li>
   <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC/">Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression</a></li>

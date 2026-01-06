@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Li Heng 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../teng_ye_yu_li.2024.EILBSaFPi3CPwSBA/">Enhancing Inter-Layer Bond Strength and Flexural Performance in 3D Concrete Printing with SHCC Bonding Agents</a></li>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../teng_zhan_li_weng.2024.FSoRPwaBECRS/">Feasibility Study on Reinforcement Placement with a BIM-Enabled Collaborative Robot System</a></li>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../teng_ye_yu_li.2024.DoSHCCSABMtEILaFPo3PC/">Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete</a></li>

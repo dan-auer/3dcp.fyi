@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Şahmaran Mustafa 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
   <li><a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b> Zeynep</a>, <a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../iler_takv_top_gokg.2025.TEo3CPTiAD/">The Effectiveness of 3D Concrete Printing Technology in Architectural Design:<br/>Different Corner-Wall Combinations in 3D Printed Elements and Geometric Form Configurations in Residential Buildings</a></li>
   <li><a href="../../../author/mahmoodi_obaid"><b>Mahmoodi</b> Obaid</a>, <a href="../../../author/siad_hocine"><b>Siad</b> Hocine</a>, <a href="../../../author/lachemi_mohamed"><b>Lachemi</b> Mohamed</a>, <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mahm_siad_lach_sahm.2025.RAiCBG/">Recent Advances in CDW-Based Geopolymers:<br/>A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability</a></li>

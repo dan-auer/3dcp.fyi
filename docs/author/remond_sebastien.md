@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Rémond Sébastien 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khou_chei_schu_caza.2025.UVMf3PoMMwRS/">Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand</a></li>
   <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
   <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../thib_tale_bela_bult.2025.HPo3PMwFRoNSbRS/">Hardened Properties of 3D Printable Mortars with Full Replacement of Natural Sand by Recycled Sand</a></li>

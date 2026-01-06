@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xinlei Song, Quanbiao Xu, Hailong Wang, Xiaoyan Sun, Feng Xue
+    - footer
+title: Song Xinlei, Xu Quanbiao, Wang Hailong, Sun Xiaoyan, Xue Feng
 description:
 tags:
  - anisotropy
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/15/11/6070/pdf?version=1748435347) Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete:<br/>:aca-blank: Experimental and Theoretical Study ([2025-05](date/2025/05))
-<a href="https://doi.org/10.3390/app15116070" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app15116070</a>
+#Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Experimental and Theoretical Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/15/11/6070/pdf?version=1748435347) <a href="https://doi.org/10.3390/app15116070" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15116070" target="_blank">10.3390/app15116070</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-3887-4466" title="ORCID: 0009-0007-3887-4466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/song_xinlei"><b>Song</b>&nbsp;Xinlei</a></span>, <a href="../../../author/xu_quanbiao"><b>Xu</b>&nbsp;Quanbiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <a href="../../../author/xue_feng"><b>Xue</b>&nbsp;Feng</a></span><br>
+Journal Article - Applied Sciences, Vol. 15, Iss. 11, No. 6070
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a> <a href="https://orcid.org/0009-0007-3887-4466" title="ORCID: 0009-0007-3887-4466" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_quanbiao"><b>Xu</b> Quanbiao</a>
-,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xue_feng"><b>Xue</b> Feng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 15, Iss. 11, No. 6070
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#experiment`](keyword/experiment)
-    [`#flow`](keyword/flow)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#theory`](keyword/theory)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flowability-Dependent%20Anisotropic%20Mechanical%20Properties%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007674400&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410813141" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app15116070" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app15116070?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing concrete (3DPC) has garnered significant attention for its construction efficiency and complex geometric capabilities. However, its mechanical properties differ markedly from cast-in-place concrete due to interlayer/intralayer interface weakening and pore anisotropy. Flowability directly regulates printability and pore distribution, thereby influencing mechanical properties. This study systematically examines flowability’s effects on 3DPC mechanical properties through compressive, flexural, and interfacial splitting tensile tests, integrated with Griffith’s fracture theory and stress intensity factor calculations. The key findings are as follows: (1) 3DPC exhibits pronounced anisotropy—compressive strength (X > Y > Z), flexural strength (Y ≈ Z > X2 > X1), and splitting tensile strength (C > T). Increased flowability enables compressive and Y/Z direction flexural strengths to approach cast concrete levels. (2) The anisotropy coefficient 𝐼a decreases significantly with flowability (66.7% for compressive, 66.8% for flexural strength). Flexural strength shows greater sensitivity to interfacial defects than compressive strength. (3) The aspect ratio of ellipsoidal pores directly influences the anisotropic compressive behavior. Increased flowability promotes morphological transformation of elliptical pores toward more spherical geometries with reduced flattening, thereby mitigating the anisotropy in compressive performance. These results establish a theoretical framework for optimizing and predicting 3DPC mechanical performance, supporting its practical application in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -102,7 +79,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{song_xu_wang_sun.2025.FDAMPo3PC,
+      author            = "Xinlei Song and Quanbiao Xu and Hailong Wang and Xiaoyan Sun and Feng Xue",
+      title             = "Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete: Experimental and Theoretical Study",
+      doi               = "10.3390/app15116070",
+      year              = "2025",
+      journal           = "Applied Sciences",
+      volume            = "15",
+      number            = "11",
+      pages             = "6070",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Song, Q. Xu, H. Wang, X. Sun and F. Xue, “Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete: Experimental and Theoretical Study”, <i>Applied Sciences</i>, vol. 15, no. 11, p. 6070, 2025, doi: 10.3390/app15116070.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Song, Xinlei, Quanbiao Xu, Hailong Wang, Xiaoyan Sun, and Feng Xue. “Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete: Experimental and Theoretical Study”. <i>Applied Sciences</i> 15, no. 11 (2025): 6070. https://doi.org/10.3390/app15116070.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

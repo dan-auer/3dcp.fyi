@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Qian Shunzhi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/zhao_huanyu"><b>Zhao</b> Huanyu</a>, <a href="../../../author/meng_dan"><b>Meng</b> Dan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../qian_zhao_meng.2024.NSoCBw3PSHCCS/">Numerical Study of Concrete Beams with 3D Printed Strain-Hardening Cementitious Composites (SHCC)</a></li>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lu_li_qian_li.2024.HP3CPwZ/">High-Performance 3D Concrete Printing with Zeolite</a></li>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_ziyang"><b>Li</b> Ziyang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/feng_jianhang"><b>Feng</b> Jianhang</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../lu_li_li_feng.2023.SoCbMCiSB3CP/">Substitution of Cement by Marine-Clay in Spray-Based 3D Concrete Printing</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alper Bayrak, Nefize Shaban, Afsin Sarıtaş, Cagla Meral Akgul
+    - footer
+title: Bayrak Alper, Shaban Nefize, Sarıtaş Afsin, Meral Akgul Cagla
 description:
 tags:
  - anisotropy
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142648" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142648</a>
+#A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142648" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142648" target="_blank">10.1016/j.conbuildmat.2025.142648</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2300-9433" title="ORCID: 0000-0002-2300-9433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b>&nbsp;Alper</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8556-3790" title="ORCID: 0000-0001-8556-3790" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaban_nefize"><b>Shaban</b>&nbsp;Nefize</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8772-0497" title="ORCID: 0000-0001-8772-0497" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saritas_afsin"><b>Sarıtaş</b>&nbsp;Afsin</a></span>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b>&nbsp;Cagla</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 491, No. 142648
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a> <a href="https://orcid.org/0000-0002-2300-9433" title="ORCID: 0000-0002-2300-9433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a> <a href="https://orcid.org/0000-0001-8556-3790" title="ORCID: 0000-0001-8556-3790" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a> <a href="https://orcid.org/0000-0001-8772-0497" title="ORCID: 0000-0001-8772-0497" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 491, No. 142648
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#empirical`](keyword/empirical)
-    [`#failure`](keyword/failure)
-    [`#framework`](keyword/framework)
-    [`#mechanism`](keyword/mechanism)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#space`](keyword/space)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/empirical"><button class="btn">#empirical</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Semi-Empirical%20Framework%20for%20Modeling%20Anisotropy%2C%20Spatial%20Variation%20and%20Failure%20Mechanisms%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011208075&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,20 +40,15 @@ tags:
 <a href="https://inciteful.xyz/p/W4412561522" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142648" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142648?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study introduces a modeling approach to simulate the anisotropic mechanical behavior of 3D-printed concrete (3DPC), considering the influence of porosity inherent to the printing process. Computed tomography (CT) scans of cylindrical cores extracted from a 2.35 m 3DPC wall revealed two key porosity types: large and elongated voids at interlayer-interstrip intersections and finer pores within and between layers. Building on these observations, a novel Equivalent Porosity Geometry (EPG) representation was developed to idealize interface porosity through mechanically representative shapes, while the porosity effects in the intralayer matrix was incorporated using spatially calibrated parameters within an isotropic Concrete Damage Plasticity (CDP) framework. The proposed approach predicted anisotropic mechanical properties (compressive strength, elastic modulus, and Poisson’s ratio) with strong agreement to experimental data, capturing spatial property variations along the wall height and reliably reproduced the direction-dependent ascending portion of the compressive stress–strain response. Furthermore, the numerically observed fracture patterns aligned with experimental results, capturing fracture initiation at the tips of interfacial voids and revealing the progressive failure mechanisms responsible for anisotropic behavior in 3DPC. A comparative analysis with existing models highlights the superior predictive performance and practical scalability of the semi-empirical framework. Drawing from both continuum and interface-based modeling strategies, proposed hybrid modeling strategy offers a physically grounded and computationally efficient tool for linking CT-derived porosity to anisotropic mechanical behavior, supporting future optimization of printing parameters and structural design in 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
-      <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/seyedian-choubi_sepehr"><b>Seyedian Choubi</b> Sepehr</a>, <a href="../../../author/tuncer_emran"><b>Tuncer</b> Emran</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bayr_shab_seye_tunc.2024.SVoPMaTPo3PCAaFSW/">Spatial Variation of Physical, Mechanical, and Thermophysical Properties of 3D Printed Concrete Across a Full-Scale Wall</a></li>
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
@@ -120,9 +95,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhu_cerv_ren.2025.PABAo3PCS/">Peridynamic Anisotropic Behavior Analysis of 3D-Printed Concrete Structures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
-      <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC,
+      author            = "Alper Tunga Bayrak and Nefize Shaban and Afsin Sarıtaş and Cagla Meral Akgul",
+      title             = "A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.142648",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "491",
+      pages             = "142648",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. T. Bayrak, N. Shaban, A. Sarıtaş and C. M. Akgul, “A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 491, p. 142648, 2025, doi: 10.1016/j.conbuildmat.2025.142648.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bayrak, Alper Tunga, Nefize Shaban, Afsin Sarıtaş, and Cagla Meral Akgul. “A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete”. <i>Construction and Building Materials</i> 491 (2025): 142648. https://doi.org/10.1016/j.conbuildmat.2025.142648.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

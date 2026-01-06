@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wan-Wendner Roman 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO/">Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization</a></li>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sael_titt_casp_wan.2025.EAotSBoHC3PCBS/">Experimental Analysis of the Structural Behavior of Hybrid Concrete 3D Printed-Cast Beam Systems</a></li>
   <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/shields_yasmina"><b>Shields</b> Yasmina</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC/">Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings</a></li>

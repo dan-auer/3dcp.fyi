@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ana-Maria Anton, Eleni Skevaki, Patrick Bischof, Lex Reiter, Benjamin Dillenburger
+    - footer
+title: Anton Ana-Maria, Skevaki Eleni, Bischof Patrick, Reiter Lex, Dillenburger Benjamin
 description:
 tags:
  - assembly
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Column-Slab Interfaces for 3D Concrete Printing:<br/>:aca-blank: Design, Fabrication and Assembly Strategies ([2024-11](date/2024/11))
-<a href="https://doi.org/10.52842/conf.acadia.2024.1.058" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.acadia.2024.1.058</a>
+#Column-Slab Interfaces for 3D Concrete Printing&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Design, Fabrication and Assembly Strategies</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.acadia.2024.1.058" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2024.1.058" target="_blank">10.52842/conf.acadia.2024.1.058</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4820-4048" title="ORCID: 0000-0003-4820-4048" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skevaki_eleni"><b>Skevaki</b>&nbsp;Eleni</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3032-5482" title="ORCID: 0000-0003-3032-5482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bischof_patrick"><b>Bischof</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Contribution - Proceedings of the 44th Annual Conference of the Association of Computer Aided Design in Architecture, pp. 58-67
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a> <a href="https://orcid.org/0000-0003-4820-4048" title="ORCID: 0000-0003-4820-4048" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a> <a href="https://orcid.org/0000-0003-3032-5482" title="ORCID: 0000-0003-3032-5482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 44th Annual Conference of the Association of Computer Aided Design in Architecture, pp. 58-67
-
-:aca-blank:{ .lg .middle}
-    [`#assembly`](keyword/assembly)
-    [`#column`](keyword/column)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#interface`](keyword/interface)
-    [`#print`](keyword/print)
-    [`#slab`](keyword/slab)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Column-Slab%20Interfaces%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414834868" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.acadia.2024.1.058" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.acadia.2024.1.058?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) currently dominates the scene of digital fabrication with concrete. 3DCP can be utilized on-site or in prefabrication setups. While prefabrication with 3DCP allows for more complex construction elements, it also requires the design for connections and assembly. In the context of prefabrication using 3DCP, this paper illustrates the state of research in the design, construction, and assembly of 3D printed components. It proposes segmentation and fabrication strategies to produce horizontal and vertical structural members of a column-slab building system following the typology of mushroom slabs. The design proposal was experimen- tally investigated with two prototypes. Each prototype consists of five elements assembled into 1:1 scale, column-slab connection demonstrators. These prototypes were robotically fabricated using a three-component 3DCP material system and a hardware setup enhanced by a sensor system that supplies online fabrication data for process monitoring and quality control. Based on 3D scans, the recorded fabrication data set is benchmarked against the initial design models to assess the accuracy of the printed elements. Conclusions about process robustness and prefabrication quality of the components are drawn, focusing on the interfaces between components. Finally, mitigation strategies are suggested to enhance the accuracy of the proposed fabrication method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../anto_yoo_beda_reit.2019.VM/">Vertical Modulations</a></li>
@@ -87,7 +64,37 @@ tags:
       <li><a href="../../../author/shaker_aya"><b>Shaker</b> Aya</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../shak_khad_reit_anto.2021.3PCT/">3D Printed Concrete Tectonics</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{anto_skev_bisc_reit.2024.CSIf3CP,
+      author            = "Ana-Maria Anton and Eleni Skevaki and Patrick Bischof and Lex Reiter and Benjamin Dillenburger",
+      title             = "Column-Slab Interfaces for 3D Concrete Printing: Design, Fabrication and Assembly Strategies",
+      doi               = "10.52842/conf.acadia.2024.1.058",
+      year              = "2024",
+      pages             = "58--67",
+      booktitle         = "Proceedings of the 44th Annual Conference of the Association of Computer Aided Design in Architecture: Designing Change",
+      editor            = "Alicia Nahmad-Vazquez and Jason S. Johnson and Guy E. Gardner and Matthew Parker and Kristen Forward and Joshua M. Taron",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A.-M. Anton, E. Skevaki, P. Bischof, L. Reiter and B. Dillenburger, “Column-Slab Interfaces for 3D Concrete Printing: Design, Fabrication and Assembly Strategies”, in <i>Proceedings of the 44th Annual Conference of the Association of Computer Aided Design in Architecture: Designing Change</i>,  2024, pp. 58–67. doi: 10.52842/conf.acadia.2024.1.058.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Anton, Ana-Maria, Eleni Skevaki, Patrick Bischof, Lex Reiter, and Benjamin Dillenburger. “Column-Slab Interfaces for 3D Concrete Printing: Design, Fabrication and Assembly Strategies”. In <i>Proceedings of the 44th Annual Conference of the Association of Computer Aided Design in Architecture: Designing Change</i>, edited by Alicia Nahmad-Vazquez, Jason S. Johnson, Guy E. Gardner, Matthew Parker, Kristen Forward, and Joshua M. Taron, 58–67, 2024. https://doi.org/10.52842/conf.acadia.2024.1.058.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

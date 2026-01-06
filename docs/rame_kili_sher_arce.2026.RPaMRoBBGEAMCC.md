@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mahyar Ramezani, Ugur Kilic, Muhammad Sherif, Gabriel Arce, Osman Ozbulut
+    - footer
+title: Ramezani Mahyar, Kilic Ugur, Sherif Muhammad, Arce Gabriel, Ozbulut Osman
 description:
 tags:
  - additive
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.jobe.2025.114872" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114872</a>
+#Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114872" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114872" target="_blank">10.1016/j.jobe.2025.114872</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3053-7736" title="ORCID: 0000-0002-3053-7736" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramezani_mahyar"><b>Ramezani</b>&nbsp;Mahyar</a></span>, <a href="../../../author/kilic_ugur"><b>Kilic</b>&nbsp;Ugur</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9691-7953" title="ORCID: 0000-0001-9691-7953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sherif_m_muhammad"><b>Sherif</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arce_amador_gabriel"><b>Arce</b>&nbsp;Gabriel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b>&nbsp;Osman</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 117, No. 114872
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a> <a href="https://orcid.org/0000-0002-3053-7736" title="ORCID: 0000-0002-3053-7736" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>
-,     <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a> <a href="https://orcid.org/0000-0001-9691-7953" title="ORCID: 0000-0001-9691-7953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> <a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 117, No. 114872
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#bio`](keyword/bio)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#enhancement`](keyword/enhancement)
-    [`#graphene`](keyword/graphene)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mechanics`](keyword/mechanics)
-    [`#property`](keyword/property)
-    [`#response`](keyword/response)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Properties%20and%20Mechanical%20Response%20of%20Bio-Based%20Graphene%20Enhanced%20Additively%20Manufactured%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416971975" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114872" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114872?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research characterizes the influence of graphene nanoplatelets (GNPs) on the rheological properties and mechanical response of additively manufactured cementitious composites using a screw-type printing mechanism. Cementitious composites were reinforced with bio-based GNPs at 0.025 %, 0.05 %, 0.10 %, 0.15 %, and 0.20 % of the weight of the binder. The rheological properties of the bio-based GNP-reinforced cementitious composites were evaluated using a rheometer in terms of the static and dynamic yield stresses, plastic viscosity, and storage modulus. Additionally, compressive, tensile, and flexural specimens were additively manufactured and tested in two main configurations, parallel and perpendicular to the printing direction, alongside cast-in-place control samples to evaluate the anisotropic response of the 3D printed specimens. Rheological test results indicated that incorporating bio-based GNPs had minimal influence on storage modulus, while 0.20 wt% GNPs increased the static yield stress by 55 % compared to the control mixture. In terms of mechanical response, the average compressive strength of 3D printed specimens containing 0.10 wt% GNPs increased by 106 % and 90 % for specimens with filaments oriented perpendicular and parallel to the printing direction, respectively, compared to 3D printed control specimens. Besides, the addition of bio-based GNPs enhanced the tensile and interlayer bond strengths of the additively manufactured cementitious composites by up to 55 %. Also, the average flexural strength of 3D printed GNP-reinforced cementitious composites consistently exceeded that of the printed controls in both loading directions, with perpendicular loading showed up to a 46 % improvement, demonstrating enhanced interlayer bonding and reduced anisotropy. An optimal GNP content of 0.10 wt%–0.15 wt% provided a balanced rheological profile, enabling smooth extrusion, improved buildability, and superior mechanical performance. SEM analysis also confirmed that optimal GNP contents refined pore structure and promoted C–S–H nucleation, forming a denser matrix, whereas higher contents led to agglomeration and reduced strength. Finally, cradle-to-gate life cycle assessment demonstrated that incorporating bio-based GNPs reduced the global warming potential, confirming their contribution to enhanced structural performance and overall sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
@@ -120,7 +93,37 @@ tags:
       <li><a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>, <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/sun_xuemei"><b>Sun</b> Xuemei</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_zhan_li_sun.2022.EoFaGoCSRaPPoCB3PM/">Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material</a></li>
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../yang_li_che.2020.3PCMCNC/">3D Printing Cementitious Materials Containing Nano-CaCO3:<br/>Workability, Strength, and Microstructure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rame_kili_sher_arce.2026.RPaMRoBBGEAMCC,
+      author            = "Mahyar Ramezani and Ugur Kilic and Muhammad M. Sherif and Gabriel Amador Arce and Osman E. Ozbulut",
+      title             = "Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites",
+      doi               = "10.1016/j.jobe.2025.114872",
+      year              = "2026",
+      journal           = "Journal of Building Engineering",
+      volume            = "117",
+      pages             = "114872",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Ramezani, U. Kilic, M. M. Sherif, G. A. Arce and O. E. Ozbulut, “Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites”, <i>Journal of Building Engineering</i>, vol. 117, p. 114872, 2026, doi: 10.1016/j.jobe.2025.114872.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ramezani, Mahyar, Ugur Kilic, Muhammad M. Sherif, Gabriel Amador Arce, and Osman E. Ozbulut. “Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites”. <i>Journal of Building Engineering</i> 117 (2026): 114872. https://doi.org/10.1016/j.jobe.2025.114872.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kathrin Dörfler, Norman Hack, Timothy Sandy, Markus Giftthaler, Manuel Lussi, Alexander Walzer, Jonas Buchli, Fabio Gramazio, Matthias Kohler
+    - footer
+title: Dörfler Kathrin, Hack Norman, Sandy Timothy, Giftthaler Markus, Lussi Manuel, Walzer Alexander, Buchli Jonas, Gramazio Fabio, Kohler Matthias
 description:
 tags:
  - case
@@ -18,39 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.research-collection.ethz.ch/bitstream/20.500.11850/407460/1/Mobile_robotic_fabrication_beyond_factory_conditions-FinalSubmission-small%281%29.pdf) Mobile Robotic Fabrication Beyond Factory Conditions:<br/>:aca-blank: Case Study Mesh Mould Wall of the DFAB HOUSE ([2019-09](date/2019/09))
-<a href="https://doi.org/10.1007/s41693-019-00020-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-019-00020-w</a>
+#Mobile Robotic Fabrication Beyond Factory Conditions&nbsp;([2019-09](date/2019/09))
+<div class="h1-like">Case Study Mesh Mould Wall of the DFAB HOUSE</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/407460/1/Mobile_robotic_fabrication_beyond_factory_conditions-FinalSubmission-small%281%29.pdf) <a href="https://doi.org/10.1007/s41693-019-00020-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-019-00020-w" target="_blank">10.1007/s41693-019-00020-w</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6777-0857" title="ORCID: 0000-0002-6777-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sandy_timothy"><b>Sandy</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1839-9449" title="ORCID: 0000-0002-1839-9449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giftthaler_markus"><b>Giftthaler</b>&nbsp;Markus</a></span>, <a href="../../../author/lussi_manuel"><b>Lussi</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3946-7954" title="ORCID: 0000-0003-3946-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7494-8492" title="ORCID: 0000-0001-7494-8492" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buchli_jonas"><b>Buchli</b>&nbsp;Jonas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
+Journal Article - Construction Robotics, Vol. 3, Iss. 1-4, pp. 53-67
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a> <a href="https://orcid.org/0000-0002-6777-0857" title="ORCID: 0000-0002-6777-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> <a href="https://orcid.org/0000-0002-1839-9449" title="ORCID: 0000-0002-1839-9449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a>
-,     <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a> <a href="https://orcid.org/0000-0003-3946-7954" title="ORCID: 0000-0003-3946-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a> <a href="https://orcid.org/0000-0001-7494-8492" title="ORCID: 0000-0001-7494-8492" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, Vol. 3, Iss. 1-4, pp. 53-67
-
-:aca-blank:{ .lg .middle}
-    [`#case`](keyword/case)
-    [`#condition`](keyword/condition)
-    [`#fabrication`](keyword/fabrication)
-    [`#factory`](keyword/factory)
-    [`#house`](keyword/house)
-    [`#mesh`](keyword/mesh)
-    [`#mobile`](keyword/mobile)
-    [`#mould`](keyword/mould)
-    [`#robot`](keyword/robot)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/factory"><button class="btn">#factory</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mobile%20Robotic%20Fabrication%20Beyond%20Factory%20Conditions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,27 +41,22 @@ tags:
 <a href="https://inciteful.xyz/p/W2972745872" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-019-00020-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-019-00020-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of novel robotic fabrication technologies in architecture concentrates largely on integrating stationary industrial-type robots into off-site prefabrication processes. By contrast, few enabling robotic technologies exist today that allow robotic fabrication processes to be mobile and implemented directly on building sites. While mobile in situ fabrication offers a large range of architectural potentials, its realization requires to address fundamental challenges. First, the production of large-scale and potentially monolithic structures on-site requires an advanced robotic fabrication system that can fulfill the material, structural- and architectural-related demands associated with it. Second, the poorly structured nature of building sites requires mobile robotic systems to be equipped with advanced sensing and control solutions to contend with uncertain conditions found on-site. The research discussed in this paper addresses both of these subjects. It applies a novel construction system for non-standard reinforced concrete structures, termed Mesh Mould, to explore the fabrication of large-scale and monolithic building structures using a mobile robot on site. It further investigates sensor-integrated adaptive fabrication strategies to achieve the accurate fabrication of such a large-scale structure, and this is done despite prevalent uncertainties related to the building site environment, the mobile robotic system, and the material behavior during fabrication. The results of this research were realized in a slender, doubly curved, reinforced concrete wall at the DFAB HOUSE at NEST. This research demonstrator provides the unique opportunity to present robotic in situ fabrication not merely as a future possibility, but as a reality applied to a tangible construction project.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2012/10">(2012-10)</a><br><a href="../../../helm_jenn_gram_kohl.2012.MRFoCS/">Mobile Robotic Fabrication on Construction Sites:<br/>DimRob</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kuma_hack_dorf_walz.2017.DDaEAoaREEfNSCA/">Design, Development and Experimental Assessment of a Robotic End-Effector for Non-Standard Concrete Applications</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.AGSo3PB/">A Global Snapshot of 3D Printed Buildings:<br/>Uncovering Robotic-Oriented Fabrication-Strategies</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.CoMaPSoC3P/">Comparison of Machine- and Performance Specifications of Concrete 3D Printers</a></li>
@@ -115,6 +86,36 @@ tags:
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
-      <li><a href="../../../author/pfandler_patrick"><b>Pfändler</b> Patrick</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../pfan_wang_mata_flat.2019.PoSFfMME/">Potentials of Steel-Fibers for Mesh Mould Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dorf_hack_sand_gift.2019.MRFBFC,
+      author            = "Kathrin Dörfler and Norman Peter Hack and Timothy Sandy and Markus Giftthaler and Manuel Lussi and Alexander Nikolas Walzer and Jonas Buchli and Fabio Gramazio and Matthias Daniel Kohler",
+      title             = "Mobile Robotic Fabrication Beyond Factory Conditions: Case Study Mesh Mould Wall of the DFAB HOUSE",
+      doi               = "10.1007/s41693-019-00020-w",
+      year              = "2019",
+      journal           = "Construction Robotics",
+      volume            = "3",
+      number            = "1-4",
+      pages             = "53--67",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Dörfler, “Mobile Robotic Fabrication Beyond Factory Conditions: Case Study Mesh Mould Wall of the DFAB HOUSE”, <i>Construction Robotics</i>, vol. 3, no. 1–4, pp. 53–67, 2019, doi: 10.1007/s41693-019-00020-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dörfler, Kathrin, Norman Peter Hack, Timothy Sandy, Markus Giftthaler, Manuel Lussi, Alexander Nikolas Walzer, Jonas Buchli, Fabio Gramazio, and Matthias Daniel Kohler. “Mobile Robotic Fabrication Beyond Factory Conditions: Case Study Mesh Mould Wall of the DFAB HOUSE”. <i>Construction Robotics</i> 3, no. 1-4 (2019): 53–67. https://doi.org/10.1007/s41693-019-00020-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

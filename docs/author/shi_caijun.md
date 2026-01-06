@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Shi Caijun 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../xie_zhan_shi_liu.2022.PoLLPoPCBoFIPM/">Prediction of Lubrication-Layer Properties of Pumped Concrete Based on Flow-Induced Particle-Migration</a></li>
   <li><a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../jiao_shi_schu.2022.MRCi3CP/">Magneto-Rheology-Control in 3D Concrete Printing:<br/>A Rheological Attempt</a></li>
   <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zuo_li_shi.2021.OTDPBCoOPCaCSCwR/">Optimizing Three-Dimensional Printing Binder Composed of Ordinary-Portland-Cement and Calcium-Sulfoaluminate-Cement with Retarders</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Geng Songyuan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
   <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>, <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_chen_li_wang.2024.SotFBaAo3PPFRC/">Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC/">Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete</a></li>

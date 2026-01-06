@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Mechtcherine Viktor 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

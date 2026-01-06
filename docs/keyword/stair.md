@@ -8,7 +8,7 @@ search:
 
 # #stair
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b> Stefan</a>, <a href="../../../author/weininger_florian"><b>Weininger</b> Florian</a>, <a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../albr_hell_wein_thie.2025.PfRtEIitCIUtEoa3PS/">Possibilities for Reducing the Environmental Impact in the Construction Industry Using the Example of a 3D Printed Staircase</a></li>
   <li><a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b> Stefan</a>, <a href="../../../author/weininger_florian"><b>Weininger</b> Florian</a>, <a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../albr_hell_wein_thie.2025.SfMEIiC/">Strategies for Minimizing Environmental Impact in Construction:<br/>A Case Study of a Cementitious 3D Printed Lost Formwork for a Staircase</a></li>
   <li><a href="../../../author/rudolph_enrico"><b>Rudolph</b> Enrico</a>, <a href="../../../author/schonfelder_daniel"><b>Schönfelder</b> Daniel</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rudo_scho_funk_gelb.2025.EPoPCCSUAMCIFS/">Efficient Production of Pre-Cast Concrete Staircases Using Additive-Manufactured, Component-Integrated Formworks Systems</a></li>

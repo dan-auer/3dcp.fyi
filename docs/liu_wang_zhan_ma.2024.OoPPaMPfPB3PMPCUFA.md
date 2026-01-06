@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Nan Wang, Yi Zhang, Guowei Ma
+    - footer
+title: Liu Xiongfei, Wang Nan, Zhang Yi, Ma Guowei
 description:
 tags:
  - ash
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimization of Printing Precision and Mechanical Property for Powder-Based 3D Printed Magnesium Phosphate Cement Using Fly-Ash ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105482" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105482</a>
+#Optimization of Printing Precision and Mechanical Property for Powder-Based 3D Printed Magnesium Phosphate Cement Using Fly-Ash ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105482" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105482" target="_blank">10.1016/j.cemconcomp.2024.105482</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/wang_nan"><b>Wang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 148, No. 105482
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_nan"><b>Wang</b> Nan</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 148, No. 105482
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#magnesium`](keyword/magnesium)
-    [`#mechanics`](keyword/mechanics)
-    [`#optimization`](keyword/optimization)
-    [`#powder`](keyword/powder)
-    [`#precision`](keyword/precision)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/precision"><button class="btn">#precision</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Printing%20Precision%20and%20Mechanical%20Property%20for%20Powder-Based%203D%20Printed%20Magnesium%20Phosphate%20Cement%20Using%20Fly-Ash" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186530727&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392337832" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105482" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105482?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fly ash (FA) is employed to optimize the hydration process of powder-based (inkjet) 3D printed magnesium phosphate cement (MPC), aiming to enhance the printing precision and mechanical properties of powder-based 3D printed structures. This paper systematically evaluates the effects of FA on the printability, printing precision, and mechanical properties of printed MPC. In addition, SEM, XRD, and X-CT are used to analyze the hydration morphology, products, and pore structure of printed MPC, respectively. The test results reveal that the proper addition of FA can effectively optimize the penetration process between the binder and powder bed to improve the printing precision of powder-based 3D printed MPC with the minimum printing size error controlled within 1%, which also achieves the maximum compressive strength of 10.1 MPa at 28d under room environment curing. Due to the pozzolanic and micro-aggregate effects, FA can significantly improve the hydration degree and optimize the pore structure of printed MPC with the total porosity decreased by 24%. The high precision of the printed complicated electromagnetic metasurface models further demonstrates the applicability of powder-based 3D printing with FA-optimized MPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM/">Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>Rheological and Technological Requirements</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -91,8 +67,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../xu_chen_zhao_li.2021.PaECoAM3PWPCBMBotRSM/">Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
       <li><a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/li_nan"><b>Li</b> Nan</a>, <a href="../../../author/zhong_jianjun"><b>Zhong</b> Jianjun</a>, <a href="../../../author/liang_yun"><b>Liang</b> Yun</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../deng_li_zhon_lian.2025.USMPCPfLBMOfMSEFI3PA/">Ultrafast-Setting Magnesium Phosphate Cement Prepared from Low-Burned Magnesium Oxide for Mixed Stirring Extrusion Function Integrated 3D Printing Applications</a></li>
@@ -106,4 +82,34 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/liu_minghao"><b>Liu</b> Minghao</a>, <a href="../../../author/kang_aihong"><b>Kang</b> Aihong</a>, <a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_liu_kang_cai.2024.RaBoS3PMPPCCIMSK/">Rheology and Buildability of Sustainable 3D Printed Magnesium-Potassium-Phosphate-Cement Composites Incorporating MgO-SiO2-K2HPO4</a></li>
       <li><a href="../../../author/du_jiashuai"><b>Du</b> Jiashuai</a>, <a href="../../../author/wei_yazhi"><b>Wei</b> Yazhi</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/idriss_i-b_aboubaker"><b>Idriss</b> Aboubaker</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../du_wei_zhan_idri.2024.EoOSDoPEoBB3PC/">Effects of Oyster-Shell-Derivatives on Performance Enhancement of Biomass-Based 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_wang_zhan_ma.2024.OoPPaMPfPB3PMPCUFA,
+      author            = "Xiongfei Liu and Nan Wang and Yi Zhang and Guowei Ma",
+      title             = "Optimization of Printing Precision and Mechanical Property for Powder-Based 3D Printed Magnesium Phosphate Cement Using Fly-Ash",
+      doi               = "10.1016/j.cemconcomp.2024.105482",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "148",
+      pages             = "105482",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, N. Wang, Y. Zhang and G. Ma, “Optimization of Printing Precision and Mechanical Property for Powder-Based 3D Printed Magnesium Phosphate Cement Using Fly-Ash”, <i>Cement and Concrete Composites</i>, vol. 148, p. 105482, 2024, doi: 10.1016/j.cemconcomp.2024.105482.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Nan Wang, Yi Zhang, and Guowei Ma. “Optimization of Printing Precision and Mechanical Property for Powder-Based 3D Printed Magnesium Phosphate Cement Using Fly-Ash”. <i>Cement and Concrete Composites</i> 148 (2024): 105482. https://doi.org/10.1016/j.cemconcomp.2024.105482.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

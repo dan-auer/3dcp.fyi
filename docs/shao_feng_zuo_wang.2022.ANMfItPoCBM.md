@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lijing Shao, Pan Feng, Wenqiang Zuo, Haochuan Wang, Zifan Geng, Qi Liu, Changwen Miao, Zhaolong Liu
+    - footer
+title: Shao Lijing, Feng Pan, Zuo Wenqiang, Wang Haochuan, Geng Zifan, Liu Qi, Miao Changwen, Liu Zhaolong
 description:
 tags:
  - admixture
@@ -19,39 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Novel Method for Improving the Printability of Cement-Based Materials:<br/>:aca-blank: Controlling the Releasing of Capsules Containing Chemical Admixtures ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104456" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104456</a>
+#A Novel Method for Improving the Printability of Cement-Based Materials&nbsp;([2022-02](date/2022/02))
+<div class="h1-like">Controlling the Releasing of Capsules Containing Chemical Admixtures</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104456" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104456" target="_blank">10.1016/j.cemconcomp.2022.104456</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4209-3888" title="ORCID: 0000-0002-4209-3888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shao_lijing"><b>Shao</b>&nbsp;Lijing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2692-5971" title="ORCID: 0000-0002-2692-5971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_pan"><b>Feng</b>&nbsp;Pan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_wenqiang"><b>Zuo</b>&nbsp;Wenqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1123-5636" title="ORCID: 0000-0002-1123-5636" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_haochuan"><b>Wang</b>&nbsp;Haochuan</a></span>, <a href="../../../author/geng_zifan"><b>Geng</b>&nbsp;Zifan</a></span>, <a href="../../../author/liu_qi"><b>Liu</b>&nbsp;Qi</a></span>, <a href="../../../author/miao_changwen"><b>Miao</b>&nbsp;Changwen</a></span>, <a href="../../../author/liu_zhaolong"><b>Liu</b>&nbsp;Zhaolong</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 128
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a> <a href="https://orcid.org/0000-0002-4209-3888" title="ORCID: 0000-0002-4209-3888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_pan"><b>Feng</b> Pan</a> <a href="https://orcid.org/0000-0002-2692-5971" title="ORCID: 0000-0002-2692-5971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a> <a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_haochuan"><b>Wang</b> Haochuan</a> <a href="https://orcid.org/0000-0002-1123-5636" title="ORCID: 0000-0002-1123-5636" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>
-,     <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>
-,     <a href="../../../author/miao_changwen"><b>Miao</b> Changwen</a>
-,     <a href="../../../author/liu_zhaolong"><b>Liu</b> Zhaolong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 128, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#base`](keyword/base)
-    [`#capsule`](keyword/capsule)
-    [`#cement`](keyword/cement)
-    [`#chemical`](keyword/chemical)
-    [`#containment`](keyword/containment)
-    [`#control`](keyword/control)
-    [`#improvement`](keyword/improvement)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/capsule"><button class="btn">#capsule</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%20Method%20for%20Improving%20the%20Printability%20of%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125014310&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4212916736" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104456" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104456?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an emerging additive manufacturing technology in construction, 3D printed concrete (3DPC), has different requirements on rheological properties of cement-based materials in the fresh state. On the one hand, low yield stress or so-called high flowability of printed materials must be delivered by the pump system and extruded swimmingly. On the other hand, high yield stress guarantees the shape of printed materials upon deposition. Therefore, the rheological properties of fresh materials demand a mutation in a short time before and after extrusion from the nozzle. In this paper, a novel method controlling the release of accelerators and thickeners from responsive capsules by external stimulations was introduced and used in 3DPC to adjust the rheological properties of printed materials. This study first focuses on the preparation and characterization of the “smart” capsules. Secondly, the practicality of this method on controlling the rheological properties of cement-based materials was investigated. Our results show that, the printed materials were able to keep high flowability before extrusion. After applying the stimulations, the flowability decrease dramatically accompanied by the increase in yield stress, which improves the buildability of printed materials. This proposed method provides a novel approach to actively tune the rheology of 3DPC and with this new method, pastes with high flowability are qualified to be printed, which further broadens the mix design of the cement-based materials for printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
@@ -96,8 +68,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
@@ -116,4 +88,33 @@ tags:
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../muth_rama_sanj.2023.REASDoILAGfC3P/">Rapid Early-Age Strength Development of In-Line Activated Geopolymer for Concrete 3D Printing</a></li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../noai_ghaf_chou_khee.2023.ARo3PLCCwOPG/">A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer:<br/>Engineering, Environmental and Economic Feasibility</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shao_feng_zuo_wang.2022.ANMfItPoCBM,
+      author            = "Lijing Shao and Pan Feng and Wenqiang Zuo and Haochuan Wang and Zifan Geng and Qi Liu and Changwen Miao and Zhaolong Liu",
+      title             = "A Novel Method for Improving the Printability of Cement-Based Materials: Controlling the Releasing of Capsules Containing Chemical Admixtures",
+      doi               = "10.1016/j.cemconcomp.2022.104456",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "128",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Shao, “A Novel Method for Improving the Printability of Cement-Based Materials: Controlling the Releasing of Capsules Containing Chemical Admixtures”, <i>Cement and Concrete Composites</i>, vol. 128, 2022, doi: 10.1016/j.cemconcomp.2022.104456.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shao, Lijing, Pan Feng, Wenqiang Zuo, Haochuan Wang, Zifan Geng, Qi Liu, Changwen Miao, and Zhaolong Liu. “A Novel Method for Improving the Printability of Cement-Based Materials: Controlling the Releasing of Capsules Containing Chemical Admixtures”. <i>Cement and Concrete Composites</i> 128 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104456.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcin Maroszek, Magdalena Rudziewicz, Adam Hutyra, Paweł Dziura, Marek Hebda
+    - footer
+title: Maroszek Marcin, Rudziewicz Magdalena, Hutyra Adam, Dziura Paweł, Hebda Marek
 description:
 tags:
  - concrete
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/app142411866) Evaluation of 3D Concrete Printing Extrusion-Efficiency ([2024-12](date/2024/12))
-<a href="https://doi.org/10.3390/app142411866" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app142411866</a>
+#Evaluation of 3D Concrete Printing Extrusion-Efficiency ([2024-12](date/2024/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/app142411866) <a href="https://doi.org/10.3390/app142411866" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app142411866" target="_blank">10.3390/app142411866</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hutyra_adam"><b>Hutyra</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4739-9146" title="ORCID: 0000-0003-4739-9146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dziura_pawel"><b>Dziura</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - Applied Sciences, Vol. 14, Iss. 24, No. 11866
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a> <a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dziura_pawel"><b>Dziura</b> Paweł</a> <a href="https://orcid.org/0000-0003-4739-9146" title="ORCID: 0000-0003-4739-9146" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 14, Iss. 24, No. 11866
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#efficient`](keyword/efficient)
-    [`#evaluation`](keyword/evaluation)
-    [`#extrusion`](keyword/extrusion)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%203D%20Concrete%20Printing%20Extrusion-Efficiency" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213254902&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405585587" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app142411866" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app142411866?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, three-dimensional concrete printing (3DCP) has garnered significant attention within the scientific community. The ongoing development and widespread adoption of this technology in the near future will be nearly inevitable. However, to ensure the safe and effective use of 3DCP in building construction, standardization of its processes is essential. A critical component of this standardization involves guaranteeing the repeatability of element production, regardless of variations in shape or material composition. Therefore, the present study focuses on analyzing factors that influence extrusion efficiency, incorporating measurements of material dispensing rates relative to input parameters. Based on the results, it was found that reducing the printer nozzle size from 20 mm to 12 mm significantly decreases the extrusion efficiency, resulting in a 15% reduction. The addition of polypropylene fibers to the concrete mixture has an even greater impact, reducing extrusion efficiency by up to 28%. On the other hand, changing the mixture’s flow from 150 mm to 130 mm had relatively minor effect, decreasing process efficiency by only 4.5%. To achieve consistent repeatability in the 3DCP process, introducing corrective factors adjusted for variations in input parameters appears to be a necessary step. The development and implementation of such adjustments will be a critical aspect of future research efforts aimed at optimizing 3D concrete printing technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -92,12 +72,43 @@ tags:
       <li><a href="../../../author/wei_ying"><b>Wei</b> Ying</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wei_han_chen_lu.2024.NSo3CPDfPHaPP/">Numerical Simulation of 3D Concrete Printing Derived from Printer Head and Printing Process</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b> Karina</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_rusi_hage.2025.RMaLIAtMf3CP/">Recycled Materials and Lightweight Insulating Additions to Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../rudz_huty_maro_korn.2025.3PLFCwDR/">3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{maro_rudz_huty_dziu.2024.Eo3CPEE,
+      author            = "Marcin Maroszek and Magdalena Rudziewicz and Adam Hutyra and Paweł Dziura and Marek Hebda",
+      title             = "Evaluation of 3D Concrete Printing Extrusion-Efficiency",
+      doi               = "10.3390/app142411866",
+      year              = "2024",
+      journal           = "Applied Sciences",
+      volume            = "14",
+      number            = "24",
+      pages             = "11866",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Maroszek, M. Rudziewicz, A. Hutyra, P. Dziura and M. Hebda, “Evaluation of 3D Concrete Printing Extrusion-Efficiency”, <i>Applied Sciences</i>, vol. 14, no. 24, p. 11866, 2024, doi: 10.3390/app142411866.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Maroszek, Marcin, Magdalena Rudziewicz, Adam Hutyra, Paweł Dziura, and Marek Hebda. “Evaluation of 3D Concrete Printing Extrusion-Efficiency”. <i>Applied Sciences</i> 14, no. 24 (2024): 11866. https://doi.org/10.3390/app142411866.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

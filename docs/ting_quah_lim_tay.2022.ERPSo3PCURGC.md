@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guan Ting, Tan Quah, Jian Lim, Yi Tay, Ming Tan
+    - footer
+title: Ting Guan, Quah Tan, Lim Jian, Tay Yi, Tan Ming
 description:
 tags:
  - concrete
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1016/j.jobe.2022.104091" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2022.104091</a>
+#Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete ([2022-01](date/2022/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.104091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.104091" target="_blank">10.1016/j.jobe.2022.104091</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ting_heng-andrew_guan"><b>Ting</b>&nbsp;Guan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6124-3020" title="ORCID: 0000-0001-6124-3020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quah_kai-noel_tan"><b>Quah</b>&nbsp;Tan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8424-5624" title="ORCID: 0000-0002-8424-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_hui_jian"><b>Lim</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 50
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> <a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a> <a href="https://orcid.org/0000-0001-6124-3020" title="ORCID: 0000-0001-6124-3020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a> <a href="https://orcid.org/0000-0002-8424-5624" title="ORCID: 0000-0002-8424-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 50, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#glass`](keyword/glass)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-    [`#region`](keyword/region)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/region"><button class="btn">#region</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrudable%20Region%20Parametrical%20Study%20of%203D%20Printable%20Concrete%20Using%20Recycled-Glass%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123774585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,18 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4207021645" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2022.104091" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2022.104091?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is gaining much attention due to the absence of formwork, allowing more freedom in the architectural design, and reducing construction costs significantly. The lack of formwork configuration in the 3DCP technique requires the printable concrete to possess self-supporting properties. Furthermore, the yield stress evolution over time caused by the structuration build-up of the cement also allows a larger buildable height of the print. However, before the structuration in the material occurs, the concrete needs to possess high initial yield stress to maintain its shape upon extrusion during the early stage of the printing process. Although it is advantageous to have higher yield stress for the buildability of the concrete, the extrudability of the concrete should also be considered. When the yield stress of the concrete is too high, the pumping effort to cause flow in the concrete becomes too high and the extruded filament displays defects on the surface of the filament. This study aims to study the effects of various material parameters on the concrete extrudability and buildability to determine the extrudable region of the concrete mix design using a graphical approach. The material parameters that are being studied in this research includes aggregates fraction, attapulgite nano-clay content, and aggregates fineness. The results shows that the mix designs at the extrudable limit surface is most optimal for 3D concrete printing as it has the maximum buildability with the extrudable region.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../alva_guer_gonz_pren.2025.MwMTA/">Mortars with Mining Tailings Aggregates:<br/>Implications for Additive Manufacturing</a></li>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jaya_raje_sanj.2021.ERf3CP/">Extrusion Rheometer for 3D Concrete Printing</a></li>
@@ -90,8 +68,8 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "42 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/zhou_lu"><b>Zhou</b> Lu</a>, <a href="../../../author/jia_xiangxi"><b>Jia</b> Xiangxi</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../chen_zhou_jia_liu.2025.ESoCDaFPo3PGECC/">Experimental Study on Crack Development and Fracture Performance of 3D Printed Green Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
@@ -135,4 +113,33 @@ tags:
       <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a></li>
       <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ting_quah_lim_tay.2022.ERPSo3PCURGC,
+      author            = "Guan Heng Andrew Ting and Tan Kai Noel Quah and Jian Hui Lim and Yi Wei Daniel Tay and Ming Jen Tan",
+      title             = "Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete",
+      doi               = "10.1016/j.jobe.2022.104091",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "50",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. H. A. Ting, T. K. N. Quah, J. H. Lim, Y. W. D. Tay and M. J. Tan, “Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete”, <i>Journal of Building Engineering</i>, vol. 50, 2022, doi: 10.1016/j.jobe.2022.104091.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ting, Guan Heng Andrew, Tan Kai Noel Quah, Jian Hui Lim, Yi Wei Daniel Tay, and Ming Jen Tan. “Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete”. <i>Journal of Building Engineering</i> 50 (2022). https://doi.org/10.1016/j.jobe.2022.104091.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

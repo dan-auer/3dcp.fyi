@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Akshay Sahu, Biranchi Panda
+    - footer
+title: Sahu Akshay, Panda Biranchi
 description:
 tags:
  - additive
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A TSP-Based Continuous Path-Planning for Additive Manufacturing of Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1007/s40964-024-00746-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-024-00746-2</a>
+#A TSP-Based Continuous Path-Planning for Additive Manufacturing of Concrete ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-024-00746-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00746-2" target="_blank">10.1007/s40964-024-00746-2</a>
 
--------------------------
+<a href="../../../author/sahu_akshay"><b>Sahu</b>&nbsp;Akshay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#path`](keyword/path)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20TSP-Based%20Continuous%20Path-Planning%20for%20Additive%20Manufacturing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202146213&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401908372" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-024-00746-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-024-00746-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advent of additive manufacturing of concrete technology has emphasized the critical role of print path strategies in construction efficiency and part quality. However, most of the current print path solutions are inefficient and lack the adaptability to meet the scale and material challenges of concrete extrusion. In response, this research draws inspiration from travel salesman problem (TSP) and proposes continuous print path strategy for (solid) space-filling applications. Compared with control groups that focuses on non-continues print path, the proposed method provides better print quality, less sharp turns, and reduced anisotropic strength. The effectiveness of this method is demonstrated through generation, printing, and (experimental and numerical) evaluation of different planer design examples. Moreover, by leveraging on optimization techniques such as contour offset and boundary trim, the TSP print path effectively mitigates underfilling while ensuring structural integrity of the printed structures. The TSP print path is combined with a sharp turn removal technique to ensure continuous and smooth concrete deposition. An example of additively manufactured topology-optimized design is presented by combining with TSP print path at the end of this research, illustrating the applicability and scalability of the proposed method for efficient, cost-effective construction scale additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -78,8 +60,36 @@ tags:
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wars_pand_bisw.2023.EFAMaMPoFR3PC/">Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/sharma_deepak"><b>Sharma</b> Deepak</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sahu_shar_pand.2025.TTOLCBDfAM/">Tailoring Topology-Optimized Lightweight Concrete Beam Design for Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sahu_pand.2024.ATBCPPfAMoC,
+      author            = "Akshay Sahu and Biranchi Narayan Panda",
+      title             = "A TSP-Based Continuous Path-Planning for Additive Manufacturing of Concrete",
+      doi               = "10.1007/s40964-024-00746-2",
+      year              = "2024",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Sahu  and B. N. Panda, “A TSP-Based Continuous Path-Planning for Additive Manufacturing of Concrete”, <i>Progress in Additive Manufacturing</i>, 2024, doi: 10.1007/s40964-024-00746-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sahu, Akshay, and Biranchi Narayan Panda. “A TSP-Based Continuous Path-Planning for Additive Manufacturing of Concrete”. <i>Progress in Additive Manufacturing</i>, 2024. https://doi.org/10.1007/s40964-024-00746-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

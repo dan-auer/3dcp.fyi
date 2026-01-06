@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ehsan Hosseini, Mohammad Zakertabrizi, Asghar Korayem, Zafar Zaker, Rouzbeh Shahsavari
+    - footer
+title: Hosseini Ehsan, Zakertabrizi Mohammad, Korayem Asghar, Zaker Zafar, Shahsavari Rouzbeh
 description:
 tags:
  - binder
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Orbital Overlapping Through Induction Bonding Overcomes the Intrinsic Delamination of 3D Printed Cementitious Binders ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1021/acsnano.0c02038" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1021/acsnano.0c02038</a>
+#Orbital Overlapping Through Induction Bonding Overcomes the Intrinsic Delamination of 3D Printed Cementitious Binders ([2020-06](date/2020/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1021/acsnano.0c02038" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1021/acsnano.0c02038" target="_blank">10.1021/acsnano.0c02038</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1958-159X" title="ORCID: 0000-0003-1958-159X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hosseini_ehsan"><b>Hosseini</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9756-2445" title="ORCID: 0000-0001-9756-2445" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b>&nbsp;Asghar</a></span>, <a href="../../../author/zaker_zafar"><b>Zaker</b>&nbsp;Zafar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6897-881X" title="ORCID: 0000-0002-6897-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahsavari_rouzbeh"><b>Shahsavari</b>&nbsp;Rouzbeh</a></span><br>
+Journal Article - ACS Nano, Vol. 14, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a> <a href="https://orcid.org/0000-0003-1958-159X" title="ORCID: 0000-0003-1958-159X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a> <a href="https://orcid.org/0000-0001-9756-2445" title="ORCID: 0000-0001-9756-2445" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zaker_zafar"><b>Zaker</b> Zafar</a>
-,     <a href="../../../author/shahsavari_rouzbeh"><b>Shahsavari</b> Rouzbeh</a> <a href="https://orcid.org/0000-0002-6897-881X" title="ORCID: 0000-0002-6897-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACS Nano, Vol. 14, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#bond`](keyword/bond)
-    [`#cement`](keyword/cement)
-    [`#delamination`](keyword/delamination)
-    [`#induction`](keyword/induction)
-    [`#overlap`](keyword/overlap)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/delamination"><button class="btn">#delamination</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/overlap"><button class="btn">#overlap</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Orbital%20Overlapping%20Through%20Induction%20Bonding%20Overcomes%20the%20Intrinsic%20Delamination%20of%203D%20Printed%20Cementitious%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85090076782&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3032341714" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1021/acsnano.0c02038" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1021/acsnano.0c02038?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious materials holds a great promise for construction due to its rapid, consistent, modular, and geometry-controlled ability. However, its major drawback is low cohesion in the interlayer region. Herein, we report a combined experimental and computational approach to understand and control fabrication of 3D-printed cementitious materials with significantly enhanced interlayer strength using multimaterial 3D printing, in which the composition, function, and structure of the materials are programmed. Our results show that the intrinsic low interlayer cohesion is caused by excess moisture and time lag that block the majority of valuable interactions in the interlayer zone between the adjacent cement matrices. As a remedy, a thin epoxy layer is introduced as an intermediator between the adjacent extruded layers, both to improve the interlayer cohesion and to extend the possible time delay between printed adjacent layers. Our ab initio calculations demonstrate that an orbital overlap between the calcium ions, as the main electrophilic part of the cement structure, and the hydroxyl groups, as the nucleophilic part of the epoxy, create strong interfacial absorption sites. These electronic absorptions lead to several iono-covalent bonds between the cement matrix and epoxy, leading to significant improvements in tensile, shear, and compressive strengths as well as ductility of the 3D-printed composites. This is verified by our experimental data, which showed an average of 84% improvement in interlayer bonding. The upward augmentation of interlayer bonding helps 3D printing cementitious material to overcome their intrinsic limitation of weak interlayer cohesion, thereby mitigating/eliminating the key bottleneck of additive manufacturing in constructing materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
@@ -84,8 +62,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../most_krug.2025.ISaFPoM3PCBTFI/">Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a>, <a href="../../../author/huang_zhongkai"><b>Huang</b> Zhongkai</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_xu_chen_huan.2025.3PCTL/">3D Printed Concrete Tunnel Lining:<br/>Comparative Study on Mechanical Properties of Curved and Straight Printed Specimens</a></li>
@@ -100,4 +78,34 @@ tags:
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../cao_yu_cui_li.2023.ISCTfRIf3PRC/">In-Situ Coating Technique for Rebar Installation for 3D Printed Reinforced Concrete</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/wu_peipei"><b>Wu</b> Peipei</a>, <a href="../../../author/pan_hao"><b>Pan</b> Hao</a>, <a href="../../../author/zheng_qi"><b>Zheng</b> Qi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../geng_wu_pan_zhen.2022.RLIiCAMvSPaP/">Robust Layer Interface in Cement Additive Manufacturing via Silicate-Penetration and Precipitation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hoss_zake_kora_zake.2020.OOTIBOtIDo3PCB,
+      author            = "Ehsan Hosseini and Mohammad Zakertabrizi and Asghar Habibnejad Korayem and Zafar Zaker and Rouzbeh Shahsavari",
+      title             = "Orbital Overlapping Through Induction Bonding Overcomes the Intrinsic Delamination of 3D Printed Cementitious Binders",
+      doi               = "10.1021/acsnano.0c02038",
+      year              = "2020",
+      journal           = "ACS Nano",
+      volume            = "14",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Hosseini, M. Zakertabrizi, A. H. Korayem, Z. Zaker and R. Shahsavari, “Orbital Overlapping Through Induction Bonding Overcomes the Intrinsic Delamination of 3D Printed Cementitious Binders”, <i>ACS Nano</i>, vol. 14, no. 8, 2020, doi: 10.1021/acsnano.0c02038.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hosseini, Ehsan, Mohammad Zakertabrizi, Asghar Habibnejad Korayem, Zafar Zaker, and Rouzbeh Shahsavari. “Orbital Overlapping Through Induction Bonding Overcomes the Intrinsic Delamination of 3D Printed Cementitious Binders”. <i>ACS Nano</i> 14, no. 8 (2020). https://doi.org/10.1021/acsnano.0c02038.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

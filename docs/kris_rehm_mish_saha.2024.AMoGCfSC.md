@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: R. Krishna, Asif Rehman, Jyotirmoy Mishra, Suman Saha, Kinga Korniejenko, Rashid Rehman, Metin Salamci, Vincenzo Sglavo, Faiz Shaikh, Tanvir Qureshi
+    - footer
+title: Krishna R., Rehman Asif, Mishra Jyotirmoy, Saha Suman, Korniejenko Kinga, Rehman Rashid, Salamci Metin, Sglavo Vincenzo, Shaikh Faiz, Qureshi Tanvir
 description:
 tags:
  - additive
@@ -20,42 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1007/s40964-024-00703-z) Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>:aca-blank: Critical Factors, Advancements, Challenges, and Future Directions ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1007/s40964-024-00703-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-024-00703-z</a>
+#Additive Manufacturing of Geopolymer Composites for Sustainable Construction&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">Critical Factors, Advancements, Challenges, and Future Directions</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s40964-024-00703-z) <a href="https://doi.org/10.1007/s40964-024-00703-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00703-z" target="_blank">10.1007/s40964-024-00703-z</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2025-0317" title="ORCID: 0000-0003-2025-0317" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krishna_s_r"><b>Krishna</b>&nbsp;R.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0163-7017" title="ORCID: 0000-0002-0163-7017" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_asif"><b>Rehman</b>&nbsp;Asif</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4834-6556" title="ORCID: 0000-0003-4834-6556" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mishra_jyotirmoy"><b>Mishra</b>&nbsp;Jyotirmoy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7684-3395" title="ORCID: 0000-0001-7684-3395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saha_suman"><b>Saha</b>&nbsp;Suman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korniejenko_kinga"><b>Korniejenko</b>&nbsp;Kinga</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4852-2305" title="ORCID: 0000-0002-4852-2305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_rashid"><b>Rehman</b>&nbsp;Rashid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6150-8014" title="ORCID: 0000-0002-6150-8014" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salamci_uymaz_metin"><b>Salamci</b>&nbsp;Metin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9133-7204" title="ORCID: 0000-0001-9133-7204" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b>&nbsp;Vincenzo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b>&nbsp;Faiz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8959-9181" title="ORCID: 0000-0002-8959-9181" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qureshi_s_tanvir"><b>Qureshi</b>&nbsp;Tanvir</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a> <a href="https://orcid.org/0000-0003-2025-0317" title="ORCID: 0000-0003-2025-0317" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a> <a href="https://orcid.org/0000-0002-0163-7017" title="ORCID: 0000-0002-0163-7017" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a> <a href="https://orcid.org/0000-0003-4834-6556" title="ORCID: 0000-0003-4834-6556" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> <a href="https://orcid.org/0000-0001-7684-3395" title="ORCID: 0000-0001-7684-3395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rehman_ur_rashid"><b>Rehman</b> Rashid</a> <a href="https://orcid.org/0000-0002-4852-2305" title="ORCID: 0000-0002-4852-2305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salamci_uymaz_metin"><b>Salamci</b> Metin</a> <a href="https://orcid.org/0000-0002-6150-8014" title="ORCID: 0000-0002-6150-8014" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b> Vincenzo</a> <a href="https://orcid.org/0000-0001-9133-7204" title="ORCID: 0000-0001-9133-7204" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> <a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qureshi_s_tanvir"><b>Qureshi</b> Tanvir</a> <a href="https://orcid.org/0000-0002-8959-9181" title="ORCID: 0000-0002-8959-9181" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#challenge`](keyword/challenge)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#critical`](keyword/critical)
-    [`#direction`](keyword/direction)
-    [`#factor`](keyword/factor)
-    [`#future`](keyword/future)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Geopolymer%20Composites%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201409146&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401628864" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-024-00703-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-024-00703-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Increasing pollution poses enormous pressure on the global ecosystem, with a need to limit the carbon emissions from the construction materials industry. Mitigation of this carbon is possible by converting industrial wastes into alternative cement and optimisation in the building process. Taking this into account, advancement is taking place in sustainable geopolymer composites-based additive manufacturing (AM) technology. Typical precursors for geopolymer binder are industrial waste by-products (such as slag, fly ash, and metakaolin). In another aspect, AM entails several benefits such as easy fabrication, freedom of design, the ability to generate sophisticated structural elements and reduce: expenses, time, waste generation, and labor demands. This review journal paper on geopolymer AM presents a bibliometric study followed by an overview of AM methods and influencing parameters, techniques in geopolymer AM (such as extrusion and powder bed), materials, improvements in AM process, and fresh-state and hardened-state properties. Recent developments in AM processes within the geopolymer are critically discussed while investigating the properties and applications of the same. The discussion includes an analysis pinpointing research gaps essential in developing geopolymer AM.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "106 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -188,11 +157,39 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/aly-ahmed_muhammed_aly"><b>Aly Ahmed</b> Aly</a>, <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../aly_mant.2025.ACoLECC/">Additive Construction of Low Embodied Carbon Concrete:<br/>Geopolymer Concrete</a></li>
       <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW/">Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kris_rehm_mish_saha.2024.AMoGCfSC,
+      author            = "R. S. Krishna and Asif Ur Rehman and Jyotirmoy Mishra and Suman Saha and Kinga Korniejenko and Rashid Ur Rehman and Metin Uymaz Salamci and Vincenzo M. Sglavo and Faiz Uddin Ahmed Shaikh and Tanvir S. Qureshi",
+      title             = "Additive Manufacturing of Geopolymer Composites for Sustainable Construction: Critical Factors, Advancements, Challenges, and Future Directions",
+      doi               = "10.1007/s40964-024-00703-z",
+      year              = "2024",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. S. Krishna, “Additive Manufacturing of Geopolymer Composites for Sustainable Construction: Critical Factors, Advancements, Challenges, and Future Directions”, <i>Progress in Additive Manufacturing</i>, 2024, doi: 10.1007/s40964-024-00703-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Krishna, R. S., Asif Ur Rehman, Jyotirmoy Mishra, Suman Saha, Kinga Korniejenko, Rashid Ur Rehman, Metin Uymaz Salamci, Vincenzo M. Sglavo, Faiz Uddin Ahmed Shaikh, and Tanvir S. Qureshi. “Additive Manufacturing of Geopolymer Composites for Sustainable Construction: Critical Factors, Advancements, Challenges, and Future Directions”. <i>Progress in Additive Manufacturing</i>, 2024. https://doi.org/10.1007/s40964-024-00703-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

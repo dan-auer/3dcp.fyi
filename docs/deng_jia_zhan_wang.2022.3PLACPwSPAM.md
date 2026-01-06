@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhicong Deng, Zijian Jia, Chao Zhang, Zhibin Wang, Lutao Jia, Lei Ma, Xianggang Wang, Yamei Zhang
+    - footer
+title: Deng Zhicong, Jia Zijian, Zhang Chao, Wang Zhibin, Jia Lutao, Ma Lei, Wang Xianggang, Zhang Yamei
 description:
 tags:
  - aggregate
@@ -20,40 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method:<br/>:aca-blank: Printability, Mechanical Properties and Pore-Structure ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.jobe.2022.105404" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2022.105404</a>
+#3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method&nbsp;([2022-10](date/2022/10))
+<div class="h1-like">Printability, Mechanical Properties and Pore-Structure</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.105404" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.105404" target="_blank">10.1016/j.jobe.2022.105404</a>
 
--------------------------
+<a href="../../../author/deng_zhicong"><b>Deng</b>&nbsp;Zhicong</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <a href="../../../author/wang_zhibin"><b>Wang</b>&nbsp;Zhibin</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/ma_lei"><b>Ma</b>&nbsp;Lei</a></span>, <a href="../../../author/wang_xianggang"><b>Wang</b>&nbsp;Xianggang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Journal of Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> <a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>
-,     <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#light`](keyword/light)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#packing`](keyword/packing)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#shell`](keyword/shell)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Lightweight%20Aggregate%20Concrete%20Prepared%20with%20Shell-Packing-Aggregate%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140219935&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4306253376" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2022.105404" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2022.105404?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     It is a challenge to use porous lightweight aggregates to prepare 3D printing concrete as the water absorption process of porous lightweight aggregates has significant effect on its printability, especially when the content of lightweight aggregate is relatively high. In this paper, the effects of preparation methods on the rheological properties and printability of 3D printing lightweight aggregate (3DPLWC) are studied, aiming to prepare 3DPLWC with high lightweight aggregate content. 3DPLWC with 50, 75 and 100 vol.-% substitution of fine river sand with clay ceramsite sand (CCS) are successfully prepared with shell-packing-aggregate method. The mechanical properties and pore structure of 3DPLWC with different CCS contents are then studied. It is found that the printing process has caused the anisotropy of 3DPLWC, and the specific strength of 3DPLWC is lower than cast counterparts. For 3DPLWC, the increase of pre-wetted CCS content contributes to the decrease of matrix porosity and the increase of circularities of matrix pores in the printed specimens. The results of this study can provide guidance for the preparation of 3DPLWC with different density levels.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
@@ -108,8 +79,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/ali_sufiyan_syed"><b>Ali</b> Syed</a>, <a href="../../../author/haq_moin_mohd"><b>Haq</b> Mohd</a>, <a href="../../../author/khan_ahmad_rizwan"><b>Khan</b> Rizwan</a>, <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b> Ahmad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ali_haq_khan_hash.2025.ACRo3PoC/">A Comprehensive Review on 3D Printing of Concrete:<br/>Materials, Methods and Mechanical Properties</a></li>
@@ -133,4 +104,32 @@ tags:
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../liu_zhan_bant.2023.UPFaIIoMPaSDo3PFCMwHMaSF/">Unveiling Pore Formation and Its Influence on Micromechanical Property and Stress-Distribution of 3D Printed Foam-Concrete Modified with Hydroxypropyl-Methylcellulose and Silica-Fume</a></li>
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../xu_qian.2023.EoFVFFLWBRaNCAot3PoSHCC/">Effects of Fiber-Volume Fraction, Fiber Length, Water-Binder Ratio, and Nano-Clay Addition on the 3D Printability of Strain-Hardening Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{deng_jia_zhan_wang.2022.3PLACPwSPAM,
+      author            = "Zhicong Deng and Zijian Jia and Chao Zhang and Zhibin Wang and Lutao Jia and Lei Ma and Xianggang Wang and Yamei Zhang",
+      title             = "3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method: Printability, Mechanical Properties and Pore-Structure",
+      doi               = "10.1016/j.jobe.2022.105404",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Deng, “3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method: Printability, Mechanical Properties and Pore-Structure”, <i>Journal of Building Engineering</i>, 2022, doi: 10.1016/j.jobe.2022.105404.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Deng, Zhicong, Zijian Jia, Chao Zhang, Zhibin Wang, Lutao Jia, Lei Ma, Xianggang Wang, and Yamei Zhang. “3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method: Printability, Mechanical Properties and Pore-Structure”. <i>Journal of Building Engineering</i>, 2022. https://doi.org/10.1016/j.jobe.2022.105404.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

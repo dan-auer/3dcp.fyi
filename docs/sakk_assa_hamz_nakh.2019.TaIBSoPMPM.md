@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatima Sakka, Joseph Assaad, Farook Hamzeh, Charbel Nakhoul
+    - footer
+title: Sakka Fatima, Assaad Joseph, Hamzeh Farook, Nakhoul Charbel
 description:
 tags:
  - bond
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars ([2019-07](date/2019/07))
-<a href="https://doi.org/10.1617/s11527-019-1356-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-019-1356-7</a>
+#Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars ([2019-07](date/2019/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-019-1356-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-019-1356-7" target="_blank">10.1617/s11527-019-1356-7</a>
 
--------------------------
+<a href="../../../author/sakka_fatima"><b>el&nbsp;Sakka</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/assaad_j_joseph"><b>Assaad</b>&nbsp;Joseph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b>&nbsp;Farook</a></span>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b>&nbsp;Charbel</a></span><br>
+Journal Article - Materials and Structures, Vol. 52, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sakka_fatima"><b>el Sakka</b> Fatima</a>
-,     <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a> <a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b> Charbel</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 52, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#interface`](keyword/interface)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thixotropy%20and%20Interfacial%20Bond%20Strengths%20of%20Polymer-Modified%20Printed%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068756359&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2958637763" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-019-1356-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-019-1356-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an emerging construction technique for building structures layer-by-layer based on digital computer models without the need of formwork. The monitoring of interlayer bonding is crucial to ensure durability and structural integrity. This investigation aims at proposing a new methodology to assess the concurrent effects of material structural build-up (thixotropy), time gap between successive filaments, and incorporation of styrene-butadiene rubber (SBR) polymers on bond strengths of deposited layers. Four mortar series prepared with 450–750 kg/m3 binder and effective water-to-binder ratio of 0.35–0.55 are tested; the resulting thixotropy rate ranged from 0.16 to 1.1 Pa/s. Results showed that mixtures exhibiting moderate thixotropy levels (i.e., about 0.48–0.64 Pa/s) yielded the best performance regarding interfacial bonding. The incorporation of SBR proved efficient to enhance the bond strength as well as attenuate its rate of drop over the time gap between successive layers. This was related to the polymer films that coalesce in the cementitious system, thus binding the cement hydrates together and causing increased tensile strength properties. The bond strengths recorded on specimens exposed to hot temperature of 45 °C were consistently lower than those determined in standard curing conditions. The methodology proposed was successfully validated using 3D laboratory printing machine.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -83,8 +61,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../si_khan_mcna.2025.ACRoRDaPPi3CP/">A Comprehensive Review of Rheological Dynamics and Process Parameters in 3D Concrete Printing</a></li>
       <li><a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mune_krug_zijl.2025.STo3IwSBSfEIB/">Surface Treatment of 3DPC Interlayers with Silicate-Based Solution for Enhanced Interfacial Bonding</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/kaya_yahya"><b>Kaya</b> Yahya</a>, <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET/">Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures</a></li>
@@ -111,4 +89,34 @@ tags:
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../pand_unlu_tan.2019.EaRCoGNUi3P/">Extrusion and Rheology Characterization of Geopolymer Nanocomposites Used in 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sakk_assa_hamz_nakh.2019.TaIBSoPMPM,
+      author            = "Fatima El Sakka and Joseph J. Assaad and Farook R. Hamzeh and Charbel Nakhoul",
+      title             = "Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars",
+      doi               = "10.1617/s11527-019-1356-7",
+      year              = "2019",
+      journal           = "Materials and Structures",
+      volume            = "52",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. E. Sakka, J. J. Assaad, F. R. Hamzeh and C. Nakhoul, “Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars”, <i>Materials and Structures</i>, vol. 52, no. 4, 2019, doi: 10.1617/s11527-019-1356-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sakka, Fatima El, Joseph J. Assaad, Farook R. Hamzeh, and Charbel Nakhoul. “Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars”. <i>Materials and Structures</i> 52, no. 4 (2019). https://doi.org/10.1617/s11527-019-1356-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

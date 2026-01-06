@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kamoru Ibrahim, Gideon Zijl, Adewumi Babafemi
+    - footer
+title: Ibrahim Kamoru, Zijl Gideon, Babafemi Adewumi
 description:
 tags:
  - ash
@@ -22,37 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2023.108016) Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete:<br/>:aca-blank: Rheological and Quasi-Static Mechanical Characteristics ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.jobe.2023.108016" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.108016</a>
+#Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">Rheological and Quasi-Static Mechanical Characteristics</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2023.108016) <a href="https://doi.org/10.1016/j.jobe.2023.108016" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108016" target="_blank">10.1016/j.jobe.2023.108016</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b>&nbsp;Kamoru</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 80, No. 108016
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a> <a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 80, No. 108016
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#blend`](keyword/blend)
-    [`#characteristic`](keyword/characteristic)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#quasi`](keyword/quasi)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#static`](keyword/static)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quasi"><button class="btn">#quasi</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Studies%20of%20LC%C2%B3-%20and%20Fly-Ash-Based%20Blended%20Binders%20in%20Fiber-Reinforced%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166613141&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387953332" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.108016" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.108016?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Supplementary cementitious materials (SCMs) became in recent decades popular and promising materials as partial replacements for cement in construction engineering. These neutralise the effects of high cement content required for the extrusion process of 3D concrete printing and enhance its sustainable benefits. The crucial advantages are the reduction of CO2 emission and energy consumption of cement-based materials, high performance, and cost-effectiveness. This study compares the rheology and hardened mechanical properties of fibre-reinforced printed concrete (FRPC) containing limestone calcined clay cement (LC3-FRPC) and fly ash (FA-FRPC). Microstructural evolution, including the porosity, CT image, and pore volume distribution in mould-cast and extrusion-based 3D printed fibre-reinforced concrete was analysed by X-ray computed tomography to examine its influence on mechanical performance. Scanning electron microscopy, augmented by Energy dispersive X-ray spectroscopy was also used to analyse the macropores structure of the mixtures. SCMs mixtures considered exhibit more than 160 min printing open time, thereby displaying satisfactory material rheological performance and suitable for 3D printability. However, LC3-FRPC enhanced the workability, open time, and buildability by 1.7 %, 15.4 %, and 19 %, respectively, in comparison to FA-FRPC. The yield shear stresses and shear modulus of the mixtures, particularly LC3-FRPC increased linearly with resting time intervals and are within the minimum recommended limits for sound shape retention and buildability of materials. The results confirm higher strengths for mould-cast and intralayer concrete specimens, particularly D3 in compression and D1 in tension and flexure for FA-FRPC compared to its 3D-printed interlayer counterpart. The strengths obtained in LC3-FRPC follow the trends observed in the literature, with mould-cast > D1 > D3 by 18.4 % and 41.7 %, and mould-cast > D1 > D3 by 6.5 % and 57.4 % for tension and flexure, respectively. These could be ascribed to the low total porosity and critical pore diameter at the interface of the specimens. Although there is a slight reduction in the compressive, tensile, and flexural strengths of LC3-FRPC (due to the highwater demanded) compared to FA-FRPC, the significant levels of C-A-S-H gel polymerisation and ettringite formation in LC3-FRPC is beneficial for improving the flexural strength of the fibrematrices. The polypropylene fibres in the macropores, as seen by SEM imaging enhance the mechanical characteristics of the mould-cast and printed specimens of both mixtures. Then, the interfacial bond strength is enhanced in LC3-FRPC compared to FA-FRPC by 8.1 % and 9.8 % for tension and flexure, respectively, thereby implying lower level of anisotropy in tension (7.2 %) and flexure (9.2 %). Conclusively, the observed mechanisms of FA- and LC3-based blend binders incorporated in FRPC strengths development, and their influence based on the macropores structure at the interfacial regions of mould-cast and printed concrete are presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
@@ -128,8 +102,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kaur_zinnia"><b>Kaur</b> Zinnia</a>, <a href="../../../author/goyal_shweta"><b>Goyal</b> Shweta</a>, <a href="../../../author/kwatra_naveen"><b>Kwatra</b> Naveen</a>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b> Tarun</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB/">Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders</a></li>
@@ -146,4 +120,34 @@ tags:
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ibra_zijl_baba.2024.MoLoFi3PLCCCCIbEMO/">Mitigation of Lack-of-Fusion in 3D Printed Limestone-Calcined-Clay-Cement Concrete Induced by Effective Micro-Organisms</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../baba_norv_kola_paul.2024.3PLCCCCIRPW/">3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>RESIN8</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ibra_zijl_baba.2023.CSoLaFABBBiFRPC,
+      author            = "Kamoru Ademola Ibrahim and Gideon Pieter Adriaan Greeff van Zijl and Adewumi John Babafemi",
+      title             = "Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete: Rheological and Quasi-Static Mechanical Characteristics",
+      doi               = "10.1016/j.jobe.2023.108016",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "80",
+      pages             = "108016",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. A. Ibrahim, G. P. A. G. van Zijl and A. J. Babafemi, “Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete: Rheological and Quasi-Static Mechanical Characteristics”, <i>Journal of Building Engineering</i>, vol. 80, p. 108016, 2023, doi: 10.1016/j.jobe.2023.108016.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ibrahim, Kamoru Ademola, Gideon Pieter Adriaan Greeff van Zijl, and Adewumi John Babafemi. “Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete: Rheological and Quasi-Static Mechanical Characteristics”. <i>Journal of Building Engineering</i> 80 (2023): 108016. https://doi.org/10.1016/j.jobe.2023.108016.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

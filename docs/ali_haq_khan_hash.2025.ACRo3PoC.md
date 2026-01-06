@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Syed Ali, Mohd Haq, Rizwan Khan, Ahmad Hashmi
+    - footer
+title: Ali Syed, Haq Mohd, Khan Rizwan, Hashmi Ahmad
 description:
 tags:
  - comprehension
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comprehensive Review on 3D Printing of Concrete:<br/>:aca-blank: Materials, Methods and Mechanical Properties ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1007/978-981-96-0746-4_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-0746-4_1</a>
+#A Comprehensive Review on 3D Printing of Concrete&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Materials, Methods and Mechanical Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-0746-4_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-0746-4_1" target="_blank">10.1007/978-981-96-0746-4_1</a>
 
--------------------------
+<a href="../../../author/ali_sufiyan_syed"><b>Ali</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9059-0697" title="ORCID: 0000-0001-9059-0697" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haq_moin_mohd"><b>ul&nbsp;Haq</b>&nbsp;Mohd</a></span>, <a href="../../../author/khan_ahmad_rizwan"><b>Khan</b>&nbsp;Rizwan</a></span>, <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b>&nbsp;Ahmad</a></span><br>
+Contribution - Proceedings of the 3rd International Conference on Advances in Concrete, Structural, and Geotechnical Engineering, pp. 1-19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ali_sufiyan_syed"><b>Ali</b> Syed</a>
-,     <a href="../../../author/haq_moin_mohd"><b>ul Haq</b> Mohd</a> <a href="https://orcid.org/0000-0001-9059-0697" title="ORCID: 0000-0001-9059-0697" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khan_ahmad_rizwan"><b>Khan</b> Rizwan</a>
-,     <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b> Ahmad</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd International Conference on Advances in Concrete, Structural, and Geotechnical Engineering, pp. 1-19
-
-:aca-blank:{ .lg .middle}
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20on%203D%20Printing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016798103&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411851522" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-0746-4_1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-0746-4_1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) is undoubtedly an astonishing construction technology having good socio-economic impacts in future. Looking back to past, originally this technology came into picture in 1980 which was initially sophisticated to minor products but later it laid its foundation in the areas of construction. In this paper, a comprehensive review is presented focussing on various materials and techniques being used for printing the concrete while making comparsion and discussing on merits and demerits. The effect of admixtures has also been compared along with efficiency standard required for 3D printing concrete (3DPC). The mix proportioning used for making the printable concrete with their mechanical behaviour and printing methodology are also compared. Future perspective and recommendations are also illustrated with advantages and disadvantage of technique’s application that will be helpful for the researchers and engineers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "54 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -122,7 +101,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ali_haq_khan_hash.2025.ACRo3PoC,
+      author            = "Syed Sufiyan Ali and Mohd Moin ul Haq and Rizwan Ahmad Khan and Ahmad Fuzail Hashmi",
+      title             = "A Comprehensive Review on 3D Printing of Concrete: Materials, Methods and Mechanical Properties",
+      doi               = "10.1007/978-981-96-0746-4_1",
+      year              = "2025",
+      volume            = "29",
+      pages             = "1--19",
+      booktitle         = "Proceedings of the 3rd International Conference on Advances in Concrete, Structural, and Geotechnical Engineering",
+      editor            = "Shamsher Bahadur Singh and Muthukumar Gopalarathnam and Nishant Roy",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. S. Ali, M. M. ul Haq, R. A. Khan and A. F. Hashmi, “A Comprehensive Review on 3D Printing of Concrete: Materials, Methods and Mechanical Properties”, in <i>Proceedings of the 3rd International Conference on Advances in Concrete, Structural, and Geotechnical Engineering</i>,  2025, vol. 29, pp. 1–19. doi: 10.1007/978-981-96-0746-4_1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ali, Syed Sufiyan, Mohd Moin ul Haq, Rizwan Ahmad Khan, and Ahmad Fuzail Hashmi. “A Comprehensive Review on 3D Printing of Concrete: Materials, Methods and Mechanical Properties”. In <i>Proceedings of the 3rd International Conference on Advances in Concrete, Structural, and Geotechnical Engineering</i>, edited by Shamsher Bahadur Singh, Muthukumar Gopalarathnam, and Nishant Roy, 29:1–19, 2025. https://doi.org/10.1007/978-981-96-0746-4_1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

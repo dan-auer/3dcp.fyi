@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Blessing Ayegba, King-James Egbe, Ali Nazar, Mingzhi Huang, Mohammad Hariri-Ardebili
+    - footer
+title: Ayegba Blessing, Egbe King-James, Nazar Ali, Huang Mingzhi, Hariri-Ardebili Mohammad
 description:
 tags:
  - buildability
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/15/3/1069/pdf?version=1644376670) Resource Efficiency and Thermal Comfort of 3D Printable Concrete Building Envelopes Optimized by Performance Enhancing Insulation:<br/>:aca-blank: A Numerical Study ([2022-01](date/2022/01))
-<a href="https://doi.org/10.3390/en15031069" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en15031069</a>
+#Resource Efficiency and Thermal Comfort of 3D Printable Concrete Building Envelopes Optimized by Performance Enhancing Insulation&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">A Numerical Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/15/3/1069/pdf?version=1644376670) <a href="https://doi.org/10.3390/en15031069" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en15031069" target="_blank">10.3390/en15031069</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7932-8505" title="ORCID: 0000-0002-7932-8505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ayegba_onyeche_blessing"><b>Ayegba</b>&nbsp;Blessing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9388-2596" title="ORCID: 0000-0002-9388-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/egbe_idala_king-james"><b>Egbe</b>&nbsp;King-James</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6303-3764" title="ORCID: 0000-0001-6303-3764" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazar_matin_ali"><b>Nazar</b>&nbsp;Ali</a></span>, <a href="../../../author/huang_mingzhi"><b>Huang</b>&nbsp;Mingzhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6772-1468" title="ORCID: 0000-0001-6772-1468" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hariri-ardebili_amin_mohammad"><b>Hariri-Ardebili</b>&nbsp;Mohammad</a></span><br>
+Journal Article - Energies, Vol. 15, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ayegba_onyeche_blessing"><b>Ayegba</b> Blessing</a> <a href="https://orcid.org/0000-0002-7932-8505" title="ORCID: 0000-0002-7932-8505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a> <a href="https://orcid.org/0000-0002-9388-2596" title="ORCID: 0000-0002-9388-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazar_matin_ali"><b>Nazar</b> Ali</a> <a href="https://orcid.org/0000-0001-6303-3764" title="ORCID: 0000-0001-6303-3764" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_mingzhi"><b>Huang</b> Mingzhi</a>
-,     <a href="../../../author/hariri-ardebili_amin_mohammad"><b>Hariri-Ardebili</b> Mohammad</a> <a href="https://orcid.org/0000-0001-6772-1468" title="ORCID: 0000-0001-6772-1468" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 15, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#efficient`](keyword/efficient)
-    [`#enhancement`](keyword/enhancement)
-    [`#envelope`](keyword/envelope)
-    [`#insulation`](keyword/insulation)
-    [`#numeric`](keyword/numeric)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Resource%20Efficiency%20and%20Thermal%20Comfort%20of%203D%20Printable%20Concrete%20Building%20Envelopes%20Optimized%20by%20Performance%20Enhancing%20Insulation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124037587&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4210817415" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en15031069" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en15031069?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     concrete printing has gained tremendous popularity as a promising technique with the potential to remarkably push the boundaries of conventional concrete technology. Enormous research efforts have been directed towards improving the material properties and structural safety of 3D printed concrete (3DPC) over the last decade. In contrast, little attention has been accorded to its sustainability performance in the built environment. This study compares the energy efficiency, operational carbon emission, and thermal comfort of air cavity 3DPC building envelopes against insulated models. Four insulations, namely expanded polystyrene (EPS), extruded polystyrene (XPS), polyurethane foam (PUF), and fiberglass (FG), are iteratively paired with three different 3DPC mix designs, and their resulting performances are reported. A numerical optimization analysis is performed to obtain combinations of 3DPC building models and insulation with the least energy expenditure, carbon production, and thermal efficiency. The results indicate that insulation considerably enhances the overall environmental performance of 3DPC structures. The optimization process also demonstrates the potential of using 3D printable fiber reinforced engineered cementitious concrete (3DPFRECC) with polyurethane infill for amplified sustainable performance in modern construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
@@ -99,8 +74,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../iqba_besk_kasi.2025.AFf3CPTiAwC50C/">Assessment Framework for 3D Concrete Printing Technology in Alignment with Construction 5.0 Criteria</a></li>
       <li><a href="../../../author/latifiilkhechi_leva"><b>Latifiilkhechi</b> Leva</a>, <a href="../../../author/aminbakhsh_saman"><b>Aminbakhsh</b> Saman</a>, <a href="../../../author/akcay_caner_emre"><b>Akcay</b> Emre</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../lati_amin_akca.2025.ItBttAo3PTitTCI/">Investigating the Barriers to the Adoption of 3D Printing Technology in the Turkish Construction Industry</a></li>
       <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a>, <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>, <a href="../../../author/thorne_garret"><b>Thorne</b> Garret</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../koss_brow_thor_sanc.2024.IoIAaIFotTBo3PCM/">Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials</a></li>
@@ -109,4 +84,34 @@ tags:
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wars_pand_bisw.2023.EFAMaMPoFR3PC/">Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../samu_muje_lanj_chip.2023.3PCfEEB/">3D Printable Concrete for Energy-Efficient Buildings</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ayeg_egbe_naza_huan.2022.REaTCo3PCBEObPEI,
+      author            = "Blessing Onyeche Ayegba and King-James Idala Egbe and Ali Matin Nazar and Mingzhi Huang and Mohammad Amin Hariri-Ardebili",
+      title             = "Resource Efficiency and Thermal Comfort of 3D Printable Concrete Building Envelopes Optimized by Performance Enhancing Insulation: A Numerical Study",
+      doi               = "10.3390/en15031069",
+      year              = "2022",
+      journal           = "Energies",
+      volume            = "15",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. O. Ayegba, K.-J. I. Egbe, A. M. Nazar, M. Huang and M. A. Hariri-Ardebili, “Resource Efficiency and Thermal Comfort of 3D Printable Concrete Building Envelopes Optimized by Performance Enhancing Insulation: A Numerical Study”, <i>Energies</i>, vol. 15, no. 3, 2022, doi: 10.3390/en15031069.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ayegba, Blessing Onyeche, King-James Idala Egbe, Ali Matin Nazar, Mingzhi Huang, and Mohammad Amin Hariri-Ardebili. “Resource Efficiency and Thermal Comfort of 3D Printable Concrete Building Envelopes Optimized by Performance Enhancing Insulation: A Numerical Study”. <i>Energies</i> 15, no. 3 (2022). https://doi.org/10.3390/en15031069.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

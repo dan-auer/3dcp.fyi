@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Weger Daniel 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gartner_benjamin"><b>Gartner</b> Benjamin</a>, <a href="../../../author/rausch_anne"><b>Rausch</b> Anne</a>, <a href="../../../author/schiessl-pecka_angelika"><b>Schießl-Pecka</b> Angelika</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wege_gart_raus_schi.2024.RoaRSF/">Realization of a Reinforced SPI Façade:<br/>Direction-Dependent Material-Properties and Durability-Assessment</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mech_kuhn_mai_nere.2024.AMwC/">Additive Manufacturing with Concrete:<br/>Guidelines for Planning and Implementing Projects</a></li>

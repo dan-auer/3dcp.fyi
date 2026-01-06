@@ -8,7 +8,7 @@ search:
 
 # #inclusion
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
   <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/shields_yasmina"><b>Shields</b> Yasmina</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC/">Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings</a></li>
   <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.EoNSODPIaIoGFMRi3PC/">Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete</a></li>

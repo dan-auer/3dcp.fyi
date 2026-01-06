@@ -8,7 +8,7 @@ search:
 
 # #conductivity
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
   <li><a href="../../../author/galeote_eduardo"><b>Galeote</b> Eduardo</a>, <a href="../../../author/claramunt_josep"><b>Claramunt</b> Josep</a>, <a href="../../../author/hermida_luis_jose"><b>Hermida</b> José</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gale_clar_herm_fuen.2025.IoFaIDotECo3PCM/">Influence of Fibers and Iron Dust on the Electrical Conductivity of 3D-Printed Concrete Mixes</a></li>
   <li><a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a>, <a href="../../../author/peeters_sef"><b>Peeters</b> Sef</a>, <a href="../../../author/poorsolhjouy_payam"><b>Poorsolhjouy</b> Payam</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dula_peet_poor_sale.2024.CAaNMotECo3PCNTCNC/">Combined Analytical and Numerical Modelling of the Electrical Conductivity of 3D Printed Carbon-Nano-Tube-Cementitious-Nano-Composites</a></li>

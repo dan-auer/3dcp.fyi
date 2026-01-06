@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chengming Peng, Zhenjun Yang, Hui Li
+    - footer
+title: Peng Chengming, Yang Zhenjun, Li Hui
 description:
 tags:
  - cement
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138712" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138712</a>
+#A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138712" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138712" target="_blank">10.1016/j.conbuildmat.2024.138712</a>
 
--------------------------
+<a href="../../../author/peng_chengming"><b>Peng</b>&nbsp;Chengming</a></span>, <a href="../../../author/yang_zhenjun"><b>Yang</b>&nbsp;Zhenjun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 451, No. 138712
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/peng_chengming"><b>Peng</b> Chengming</a>
-,     <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a>
-,     <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 451, No. 138712
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#experiment`](keyword/experiment)
-    [`#interlayer`](keyword/interlayer)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#validation`](keyword/validation)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Predictive%20Model%20for%20Interlayer-Water-Evolution%20and%20Experimental%20Validation%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206521090&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403537381" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138712" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138712?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The physical and mechanical properties of interlayer zones in freshly 3D printed cementitious (3DPC) specimens are highly dependent on the time evolution of water content inside. This study develops a predictive model for water evolution, considering water bleeding, evaporation, adsorption and desorption processes affected by hydration and capillary pressure change, before and after overlays are printed. In particular, to overcome the insensitivity of humidity to time for the first a few minutes and hours after printing, a new water content equation for the desorption process of the substrate is proposed, based on a new humidity - capillary pressure relation and the microscale pore size distribution. In total, 24 3DPC specimens with different water-to-cement ratios and pass times were measured, regarding bleeding and evaporation rates, capillary pressure evolution and hydration degrees etc, to validate the model. The water evolution curves before overlay printing predicted by the new model were found in good agreement with the measured data, and parametric studies demonstrated significant effects of the water-binder ratio and the pass time on the interlayer water content after overlay printing. The new model thus provides a quantitative tool to predict the interlayer water content that may significantly affect the interlayer microstructures and bond strength in 3D-printed cementitious specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
       <li><a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b> Sadegh</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/kruger_markus"><b>Krüger</b> Markus</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ghou_butl_krug_mech.2021.MtDoCPiF3PCE/">Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements</a></li>
@@ -97,7 +74,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{peng_yang_li.2024.APMfIWEaEVo3PCM,
+      author            = "Chengming Peng and Zhenjun Yang and Hui Li",
+      title             = "A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials",
+      doi               = "10.1016/j.conbuildmat.2024.138712",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "451",
+      pages             = "138712",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Peng, Z. Yang and H. Li, “A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials”, <i>Construction and Building Materials</i>, vol. 451, p. 138712, 2024, doi: 10.1016/j.conbuildmat.2024.138712.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Peng, Chengming, Zhenjun Yang, and Hui Li. “A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials”. <i>Construction and Building Materials</i> 451 (2024): 138712. https://doi.org/10.1016/j.conbuildmat.2024.138712.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

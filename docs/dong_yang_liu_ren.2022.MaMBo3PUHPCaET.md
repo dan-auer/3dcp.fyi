@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Liang Dong, Yekai Yang, Zhongxian Liu, Quanchang Ren, Jun Li, Yan Zhang, Chengqing Wu
+    - footer
+title: Dong Liang, Yang Yekai, Liu Zhongxian, Ren Quanchang, Li Jun, Zhang Yan, Wu Chengqing
 description:
 tags:
  - behavior
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.addma.2022.103032" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.103032</a>
+#Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.103032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103032" target="_blank">10.1016/j.addma.2022.103032</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_liang"><b>Dong</b>&nbsp;Liang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yekai"><b>Yang</b>&nbsp;Yekai</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <a href="../../../author/ren_quanchang"><b>Ren</b>&nbsp;Quanchang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2457-1994" title="ORCID: 0000-0003-2457-1994" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_jun"><b>Li</b>&nbsp;Jun</a></span>, <a href="../../../author/zhang_yan"><b>Zhang</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 58
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> <a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> <a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-,     <a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a>
-,     <a href="../../../author/li_jun"><b>Li</b> Jun</a> <a href="https://orcid.org/0000-0003-2457-1994" title="ORCID: 0000-0003-2457-1994" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yan"><b>Zhang</b> Yan</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 58, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#elevation`](keyword/elevation)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#micro`](keyword/micro)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Microstructure%20and%20Mechanical%20Behavior%20of%203D%20Printed%20Ultra-High-Performance%20Concrete%20after%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134654952&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285400685" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.103032" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.103032?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the characteristics of 3D printed ultra-high performance concrete (3DP-UHPC) after elevated temperatures. The effects of the bonding strip, steel fibre, specimen preparation method, loading direction and temperature on the fire resistance of 3DP-UHPC were analysed. The variations in microstructure and mineral composition of 3DP-UHPC after different temperatures were examined using scanning electron microscopy (SEM) and energy spectrum analyser (EDS). The strength degradation mechanism of 3DP-UHPC after the elevated temperatures was revealed in terms of the macro and micro levels. Meanwhile, the compressive strength of 3DP-UHPC after the elevated temperatures was measured, and its corresponding compressive constitutive model was proposed. The experimental results indicated that 3DP-UHPC had certain fire resistance, and the addition of steel fibre and the preparation method improved its fire resistance. The expansion of the crack at the junction of the steel fibre and matrix, as well as the oxidation and decarburization of steel fibre, affected the compressive strength of 3DP-UHPC after 400 ℃. During heating, water vapour escaped from the weak interface of the bonding strip endowed 3DP-UHPC with slightly better elevated-temperature burst resistance as compared to mould-casting ultra-high performance concrete (MC-UHPC). The compressive strength of 3DP-UHPC was the highest after 300 ℃ for the target temperatures set in this study, but the temperature had little effect on the strength difference between each direction of 3DP-UHPC. The compressive constitutive model of 3DP-UHPC after the elevated temperatures was developed, facilitating its engineering application in the field of fire safety.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -93,8 +67,8 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
@@ -131,4 +105,33 @@ tags:
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../sun_li_wang_ye.2023.EoMPaAo3PCaDT/">Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dong_yang_liu_ren.2022.MaMBo3PUHPCaET,
+      author            = "Liang Dong and Yekai Yang and Zhongxian Liu and Quanchang Ren and Jun Li and Yan Zhang and Chengqing Wu",
+      title             = "Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures",
+      doi               = "10.1016/j.addma.2022.103032",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "58",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Dong, “Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures”, <i>Additive Manufacturing</i>, vol. 58, 2022, doi: 10.1016/j.addma.2022.103032.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dong, Liang, Yekai Yang, Zhongxian Liu, Quanchang Ren, Jun Li, Yan Zhang, and Chengqing Wu. “Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete After Elevated Temperatures”. <i>Additive Manufacturing</i> 58 (2022). https://doi.org/10.1016/j.addma.2022.103032.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

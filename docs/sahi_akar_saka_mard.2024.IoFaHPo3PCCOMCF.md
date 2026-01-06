@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hatice Şahin, Aliye Akarsu Özenç, Zaide Saka Dinç, Ali Mardani, Semiha Eren
+    - footer
+title: Şahin Hatice, Akarsu Özenç Aliye, Saka Dinç Zaide, Mardani Ali, Eren Semiha
 description:
 tags:
  - carbon
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation of Fresh and Hardened Properties of 3D Printable Concrete Containing Ozone-Modified Carbon-Fiber ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1080/21650373.2024.2432008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2024.2432008</a>
+#Investigation of Fresh and Hardened Properties of 3D Printable Concrete Containing Ozone-Modified Carbon-Fiber ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2432008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2432008" target="_blank">10.1080/21650373.2024.2432008</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <a href="../../../author/akarsu-ozenc_aliye"><b>Akarsu Özenç</b>&nbsp;Aliye</a></span>, <a href="../../../author/saka-dinc_zaide"><b>Saka Dinç</b>&nbsp;Zaide</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span>, <a href="../../../author/eren_semiha"><b>Eren</b>&nbsp;Semiha</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a> <a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akarsu-ozenc_aliye"><b>Akarsu Özenç</b> Aliye</a>
-,     <a href="../../../author/saka-dinc_zaide"><b>Saka Dinç</b> Zaide</a>
-,     <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/eren_semiha"><b>Eren</b> Semiha</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-15
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#investigation`](keyword/investigation)
-    [`#modification`](keyword/modification)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printable%20Concrete%20Containing%20Ozone-Modified%20Carbon-Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210596462&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404795320" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2024.2432008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2024.2432008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, the effect of using carbon fiber surface modified with ozone on the fresh-hardened state properties, high temperature resistance and rheological properties of 3D printable concrete (3DPC) was investigated. A total of 7 different 3DPC were prepared by adding modified and unmodified carbon fibers to the mixture at different ratios. Fiber surface modification was characterized by XPS analysis. The modification process improves the fiber/matrix adherence of 3DPC mixtures, resulting in an increase in compressive strength. The flexural strength of the mixtures increases with fiber modification, regardless of the fiber utilization ratio. Dynamic yield stress and apparent viscosity values of the mixtures decreased with the increase in fiber utilization ratio τ3.p/τ2.p and Athix methods are more suitable for comparing the thixotropic properties of 3DPC mixtures with modified fibers suitable for comparing the thixotropic properties of 3DPC mixtures with modified fibers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/biricik_oznur"><b>Biricik</b> Öznur</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../biri_mard.2022.PATBoSCCa3PC/">Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete:<br/>A State of the Art Review</a></li>
@@ -97,9 +72,37 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
-      <li><a href="../../../author/silveira-junior_gomes_jairon"><b>Silveira Júnior</b> Jairon</a>, <a href="../../../author/moura-cerqueira_kevin"><b>Moura Cerqueira</b> Kevin</a>, <a href="../../../author/moura_carlos-araujo_ruan"><b>Moura</b> Ruan</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../silv_mour_mour_mato.2024.IoTGotBoCMDf3P/">Influence of Time-Gap on the Buildability of Cement Mixtures Designed for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sahi_akar_saka_mard.2024.IoFaHPo3PCCOMCF,
+      author            = "Hatice Gizem Şahin and Aliye Akarsu Özenç and Zaide Saka Dinç and Ali Mardani and Semiha Eren",
+      title             = "Investigation of Fresh and Hardened Properties of 3D Printable Concrete Containing Ozone-Modified Carbon-Fiber",
+      doi               = "10.1080/21650373.2024.2432008",
+      year              = "2024",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--15",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. G. Şahin, A. A. Özenç, Z. S. Dinç, A. Mardani and S. Eren, “Investigation of Fresh and Hardened Properties of 3D Printable Concrete Containing Ozone-Modified Carbon-Fiber”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–15, 2024, doi: 10.1080/21650373.2024.2432008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Şahin, Hatice Gizem, Aliye Akarsu Özenç, Zaide Saka Dinç, Ali Mardani, and Semiha Eren. “Investigation of Fresh and Hardened Properties of 3D Printable Concrete Containing Ozone-Modified Carbon-Fiber”. <i>Journal of Sustainable Cement-Based Materials</i>, 2024, 1–15. https://doi.org/10.1080/21650373.2024.2432008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

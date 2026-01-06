@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shijie Liu, Tong Liu, Muwaffaq Alqurashi, Ahmed Abdou Elabbasy, Nasser Alanazi, Pshtiwan Shakor
+    - footer
+title: Liu Shijie, Liu Tong, Alqurashi Muwaffaq, Abdou Elabbasy Ahmed, Alanazi Nasser, Shakor Pshtiwan
 description:
 tags:
  - advance
@@ -26,44 +27,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>:aca-blank: A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05259" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05259</a>
+#Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05259" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05259" target="_blank">10.1016/j.cscm.2025.e05259</a>
 
--------------------------
+<a href="../../../author/liu_shijie"><b>Liu</b>&nbsp;Shijie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3132-8589" title="ORCID: 0000-0003-3132-8589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_tong"><b>Liu</b>&nbsp;Tong</a></span>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b>&nbsp;Muwaffaq</a></span>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b>&nbsp;Ahmed</a></span>, <a href="../../../author/alanazi_nasser"><b>Alanazi</b>&nbsp;Nasser</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05259
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>
-,     <a href="../../../author/liu_tong"><b>Liu</b> Tong</a> <a href="https://orcid.org/0000-0003-3132-8589" title="ORCID: 0000-0003-3132-8589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>
-,     <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a>
-,     <a href="../../../author/alanazi_nasser"><b>Alanazi</b> Nasser</a>
-,     <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05259
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#base`](keyword/base)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#emission`](keyword/emission)
-    [`#fiber`](keyword/fiber)
-    [`#hybrid`](keyword/hybrid)
-    [`#intelligence`](keyword/intelligence)
-    [`#machine`](keyword/machine)
-    [`#mechanics`](keyword/mechanics)
-    [`#model`](keyword/model)
-    [`#optimization`](keyword/optimization)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%203D-Printed%20Fiber-Reinforced%20Concrete%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015148996&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -78,17 +49,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414001441" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05259" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05259?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the increasing demand for sustainable and resilient marine infrastructure in marine environments, 3D printing technologies offer a promising solution for fabricating customized, durable components under challenging conditions. 3D-printed fiber-reinforced concrete (3DPFRC) presents significant potential for rapid, waste-reducing construction of complex geometries, making it suitable for marine structures such as sea walls, breakwaters, underwater pipelines, and floating platforms. However, optimizing 3DPFRC for mechanical performance and environmental sustainability remains a complex challenge. This study proposes advanced machine learning (ML) models to simultaneously predict compressive strength and CO₂ emissions of 3DPFRC, enabling both mechanical and environmental performance evaluation. A user-friendly graphical user interface (GUI) was also developed to facilitate practical deployment by engineers without programming expertise. Four hybrid ML models were evaluated: CNN-LSTM, RA-PSO, XGBoost-PSO, and SVM-PSO. RA-PSO outperformed others with an R² of 0.9819 (training) and 0.9674 (testing) for compressive strength and 0.97 (training) and 0.94 (testing) for CO₂ emissions, alongside the lowest MSE (48.24 MPa²) and highest F1-score (0.9519). This superior performance is primarily due to RA-PSO’s adaptive parameter tuning and randomized search, which maintain population diversity and prevent premature convergence, enabling the model to capture complex nonlinear interactions in 3DPFRC mix parameters. Sensitivity analysis revealed that water content (34%), silica fume (30%), and the water-to-binder ratio (23%) were the most influential parameters on compressive strength. These findings confirm RA-PSO as a highly reliable tool for optimizing 3DPFRC mix designs while minimizing environmental impact, particularly in Sustainable Marine and Civil Infrastructure Applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/javed_faisal_muhammad"><b>Javed</b> Muhammad</a>, <a href="../../../author/ali_mujahid"><b>Ali</b> Mujahid</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../alya_khan_jave_ali.2024.AoMOAiPtCSo3PFRC/">Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/arif_muhammad"><b>Arif</b> Muhammad</a>, <a href="../../../author/jan_faizullah"><b>Jan</b> Faizullah</a>, <a href="../../../author/rezzoug_aissa"><b>Rezzoug</b> Aïssa</a>, <a href="../../../author/afridi_ali_muhammad"><b>Afridi</b> Muhammad</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../arif_jan_rezz_afri.2024.DDMfPCSo3PFRCUIMLA/">Data-Driven Models for Predicting Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Interpretable Machine Learning Algorithms</a></li>
@@ -117,7 +84,36 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/zhou_boyu"><b>Zhou</b> Boyu</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zhou_zhan_ma.2024.AESo3PCRwFRfWTB/">An Experimental Study on 3D Printed Concrete Reinforced with Fibers Recycled from Wind Turbine Blades</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_liu_alqu_abdo.2025.A3PFRCfSC,
+      author            = "Shijie Liu and Tong Liu and Muwaffaq Alqurashi and Ahmed A. Abdou Elabbasy and Nasser Alanazi and Pshtiwan N. Shakor",
+      title             = "Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction: A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions",
+      doi               = "10.1016/j.cscm.2025.e05259",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05259",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Liu, T. Liu, M. Alqurashi, A. A. A. Elabbasy, N. Alanazi and P. N. Shakor, “Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction: A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions”, <i>Case Studies in Construction Materials</i>, p. e05259, 2025, doi: 10.1016/j.cscm.2025.e05259.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Shijie, Tong Liu, Muwaffaq Alqurashi, Ahmed A. Abdou Elabbasy, Nasser Alanazi, and Pshtiwan N. Shakor. “Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction: A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions”. <i>Case Studies in Construction Materials</i>, 2025, e05259. https://doi.org/10.1016/j.cscm.2025.e05259.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

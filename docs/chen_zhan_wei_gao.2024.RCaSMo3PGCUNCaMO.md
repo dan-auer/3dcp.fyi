@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuxuan Chen, Longfei Zhang, Kai Wei, Huaxing Gao, Zhenyao Liu, Yuanshan She, Feixiang Chen, Hongbo Gao, Qingliang Yu
+    - footer
+title: Chen Yuxuan, Zhang Longfei, Wei Kai, Gao Huaxing, Liu Zhenyao, She Yuanshan, Chen Feixiang, Gao Hongbo, Yu Qingliang
 description:
 tags:
  - cellulose
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.136421) Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136421" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136421</a>
+#Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide ([2024-04](date/2024/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.136421) <a href="https://doi.org/10.1016/j.conbuildmat.2024.136421" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136421" target="_blank">10.1016/j.conbuildmat.2024.136421</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1284-7933" title="ORCID: 0000-0002-1284-7933" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuxuan"><b>Chen</b>&nbsp;Yuxuan</a></span>, <a href="../../../author/zhang_longfei"><b>Zhang</b>&nbsp;Longfei</a></span>, <a href="../../../author/wei_kai"><b>Wei</b>&nbsp;Kai</a></span>, <a href="../../../author/gao_huaxing"><b>Gao</b>&nbsp;Huaxing</a></span>, <a href="../../../author/liu_zhenyao"><b>Liu</b>&nbsp;Zhenyao</a></span>, <a href="../../../author/she_yuanshan"><b>She</b>&nbsp;Yuanshan</a></span>, <a href="../../../author/chen_feixiang"><b>Chen</b>&nbsp;Feixiang</a></span>, <a href="../../../author/gao_hongbo"><b>Gao</b>&nbsp;Hongbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_qingliang"><b>Yu</b>&nbsp;Qingliang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 429, No. 136421
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a> <a href="https://orcid.org/0000-0002-1284-7933" title="ORCID: 0000-0002-1284-7933" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_longfei"><b>Zhang</b> Longfei</a>
-,     <a href="../../../author/wei_kai"><b>Wei</b> Kai</a>
-,     <a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>
-,     <a href="../../../author/liu_zhenyao"><b>Liu</b> Zhenyao</a>
-,     <a href="../../../author/she_yuanshan"><b>She</b> Yuanshan</a>
-,     <a href="../../../author/chen_feixiang"><b>Chen</b> Feixiang</a>
-,     <a href="../../../author/gao_hongbo"><b>Gao</b> Hongbo</a>
-,     <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 429, No. 136421
-
-:aca-blank:{ .lg .middle}
-    [`#cellulose`](keyword/cellulose)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#magnesium`](keyword/magnesium)
-    [`#mitigation`](keyword/mitigation)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology-Control%20and%20Shrinkage-Mitigation%20of%203D%20Printed%20Geopolymer%20Concrete%20Using%20Nano-Cellulose%20and%20Magnesium-Oxide" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191525372&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396239101" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136421" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136421?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) is an emerging technology that produces concrete using digital method and has revolutionized the traditional labor-intensive construction mode. However, the free formwork printing and layerby-layer production of 3DPC induce severe shrinkage and plastic cracking during the early ages, especially for the geopolymer based materials. This research utilizes the nano-fibrillated cellulose (NFC) with the combination of magnesium oxides expansive agent (MEA) to mitigate the plastic and drying shrinkage of 3D printing geopolymer concrete (3DPGC), while optimizing its rheological behavior. The results show that after modification with proper dosages of NFC and MEA, 3DPGC showed reduced plastic and drying shrinkage at early ages, with improved printability, buildability, and mechanical strength. The underlying role of NFC and MEA on the performance of 3DPGC was thoroughly analyzed with rheometry, calorimetry, scanning electron microscopy, and internal humidity test. The water retention ability of nanocellulose can provide more moisture at early ages, thus mitigating cracking, while MEA can compromise the drying shrinkage at later ages. The contribution of the study shed light on the application of nanocellulose and MgO to increase the volume stability and mechanical performance of 3D printing geopolymer concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../gao_chen_chen_yu.2023.TaMPo3PFGC/">Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete:<br/>The Role of SAC on the Rheology and Phase Evolution of 3DPC</a></li>
@@ -102,8 +74,10 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
@@ -119,4 +93,34 @@ tags:
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../tany_selo_cosk.2024.TEoNZOoFTRo3PGM/">The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars</a></li>
       <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/soliman_a_nancy"><b>Soliman</b> Nancy</a>, <a href="../../../author/omran_ahmed"><b>Omran</b> Ahmed</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kili_soli_omra_ozbu.2024.EoCNoRaMPo3PCC/">Effects of Cellulose Nanofibrils on Rheological and Mechanical Properties of 3D Printable Cement Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_wei_gao.2024.RCaSMo3PGCUNCaMO,
+      author            = "Yuxuan Chen and Longfei Zhang and Kai Wei and Huaxing Gao and Zhenyao Liu and Yuanshan She and Feixiang Chen and Hongbo Gao and Qingliang Yu",
+      title             = "Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide",
+      doi               = "10.1016/j.conbuildmat.2024.136421",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "429",
+      pages             = "136421",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, “Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide”, <i>Construction and Building Materials</i>, vol. 429, p. 136421, 2024, doi: 10.1016/j.conbuildmat.2024.136421.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yuxuan, Longfei Zhang, Kai Wei, Huaxing Gao, Zhenyao Liu, Yuanshan She, Feixiang Chen, Hongbo Gao, and Qingliang Yu. “Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide”. <i>Construction and Building Materials</i> 429 (2024): 136421. https://doi.org/10.1016/j.conbuildmat.2024.136421.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

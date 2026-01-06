@@ -8,7 +8,7 @@ search:
 
 # #expansion
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_maia.2026.E3CPCwBT/">Expanding 3D Concrete Printing Customization with Biomimetic Textures</a></li>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
   <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>

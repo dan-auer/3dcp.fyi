@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Albanela Dulaj, Theo Salet, Sandra Lucas
+    - footer
+title: Dulaj Albanela, Salet Theo, Lucas Sandra
 description:
 tags:
  - ability
@@ -21,36 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matpr.2022.09.278) Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.matpr.2022.09.278" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2022.09.278</a>
+#Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2022.09.278) <a href="https://doi.org/10.1016/j.matpr.2022.09.278" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2022.09.278" target="_blank">10.1016/j.matpr.2022.09.278</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8304-4716" title="ORCID: 0000-0002-8304-4716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dulaj_albanela"><b>Dulaj</b>&nbsp;Albanela</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Materials Today: Proceedings, Vol. in Press, Iss. in Press
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a> <a href="https://orcid.org/0000-0002-8304-4716" title="ORCID: 0000-0002-8304-4716" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, Vol. in Press, Iss. in Press, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ability`](keyword/ability)
-    [`#application`](keyword/application)
-    [`#composite`](keyword/composite)
-    [`#content`](keyword/content)
-    [`#difference`](keyword/difference)
-    [`#graphene`](keyword/graphene)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#self`](keyword/self)
-    [`#sensor`](keyword/sensor)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/ability"><button class="btn">#ability</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Self-Sensing%20Ability%20of%20Graphene-Mortar%20Compositions%20with%20Different%20Water-Content%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138771962&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,23 +43,18 @@ tags:
 <a href="https://inciteful.xyz/p/W4296977044" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2022.09.278" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2022.09.278?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There is an increasing ongoing research on concrete compositions with enhanced properties such as self sensing given by the use of carbon nanomaterials. Carbon nanotubes-cement composites have been studied for over a decade to produce smart materials, with interesting results. However, since first synthetized in 2004, Graphene is rapidly growing in popularity due to similar conductive properties, high stiffness and strength, lower environmental impact and ease of production and lower production prices. More recent studies have tried to incorporate this material into concrete compositions with positive results. On the other hand, the construction industry is moving towards more automated production processes and new technologies such as 3D printing concrete are gaining popularity. However, there is little research on the effects of nanomaterials in 3D printable concrete compositions. In this paper, the effects of Graphene nanoplatelets (GnPs) on a the mechanical properties and conductivity of a printable mortar are investigated. Five different compositions with different water content and graphene content were prepared to create cast and printed samples with dimensions 40x40x160 mm3 that were tested to evaluate the mechanical strength and the resistivity change between unloaded and loaded to failure conditions. A linear regression model using Matlab was created to have an overview on the strength and resistivity change depending on the water-cement ratio (w/c) and Graphene nanoplatelet content (GnP). The results showed that in cast samples, GnPs improve the compressive strength and the self sensing ability of the material, while in printed samples, GnPs has a detrimental effect on the compressive strength and the self sensing ability depends heavily on the printed layers direction. Future studies should concentrate on the effect of interlayer adhesion on the self sensing and mechanical properties, and on the additives necessary to improve the printability of GnP-mortar compositions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dula_sale_luca.2022.MPaSSAoGMCwDWCf3PA/">Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications</a></li>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
@@ -92,6 +65,35 @@ tags:
       <li><a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/mesquita_esequiel"><b>Mesquita</b> Esequiel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sous_ales_mesq_lafl.2024.CRo3PCCwCI/">Comprehensive Review of 3D Printed Cementitious Composites with Carbon Inclusions:<br/>Current Status and Perspective for Self-Sensing Capabilities</a></li>
       <li><a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dula_sale_luca.2024.ASotEoMotFaHSPo3PC/">A Study of the Effects of MWCNTs on the Fresh and Hardened State Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
-      <li><a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dula_sale_luca.2022.MPaSSAoGMCwDWCf3PA/">Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dula_sale_luca.2022.MPaSSAoGMCwDWCf3PA,
+      author            = "Albanela Dulaj and Theo A. M. Salet and Sandra Simaria de Oliveira Lucas",
+      title             = "Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications",
+      doi               = "10.1016/j.matpr.2022.09.278",
+      year              = "2022",
+      journal           = "Materials Today: Proceedings",
+      volume            = "in Press",
+      number            = "in Press",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Dulaj, T. A. M. Salet and S. S. de Oliveira Lucas, “Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications”, <i>Materials Today: Proceedings</i>, vol. in Press, no. in Press, 2022, doi: 10.1016/j.matpr.2022.09.278.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dulaj, Albanela, Theo A. M. Salet, and Sandra Simaria de Oliveira Lucas. “Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications”. <i>Materials Today: Proceedings</i> in Press, no. in Press (2022). https://doi.org/10.1016/j.matpr.2022.09.278.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

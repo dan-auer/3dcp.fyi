@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marco Lindner, Ralf Gliniorz, Henrik Funke, Sandra Gelbrich
+    - footer
+title: Lindner Marco, Gliniorz Ralf, Funke Henrik, Gelbrich Sandra
 description:
 tags:
  - assistance
@@ -21,35 +22,11 @@ tags:
 
 ---
 
-# Robot-Assisted Flow-Production-Processes Tool-Development for the Fabrication of Thin-Walled Fiber-Reinforced Concrete Elements ([2022-09](date/2022/09))
--------------------------
+#Robot-Assisted Flow-Production-Processes Tool-Development for the Fabrication of Thin-Walled Fiber-Reinforced Concrete Elements ([2022-09](date/2022/09))
+<span class="author"><a href="https://orcid.org/0000-0001-5238-6361" title="ORCID: 0000-0001-5238-6361" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lindner_marco"><b>Lindner</b>&nbsp;Marco</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-3070-6490" title="ORCID: 0009-0004-3070-6490" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gliniorz_ralf"><b>Gliniorz</b>&nbsp;Ralf</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3423-9952" title="ORCID: 0000-0003-3423-9952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/funke_henrik"><b>Funke</b>&nbsp;Henrik</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gelbrich_sandra"><b>Gelbrich</b>&nbsp;Sandra</a></span><br>
+Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, pp. 771-778
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a> <a href="https://orcid.org/0000-0001-5238-6361" title="ORCID: 0000-0001-5238-6361" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a> <a href="https://orcid.org/0009-0004-3070-6490" title="ORCID: 0009-0004-3070-6490" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a> <a href="https://orcid.org/0000-0003-3423-9952" title="ORCID: 0000-0003-3423-9952" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, pp. 771-778
-
-:aca-blank:{ .lg .middle}
-    [`#assistance`](keyword/assistance)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#element`](keyword/element)
-    [`#fabrication`](keyword/fabrication)
-    [`#fiber`](keyword/fiber)
-    [`#flow`](keyword/flow)
-    [`#process`](keyword/process)
-    [`#production`](keyword/production)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-    [`#thin`](keyword/thin)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robot-Assisted%20Flow-Production-Processes%20Tool-Development%20for%20the%20Fabrication%20of%20Thin-Walled%20Fiber-Reinforced%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -64,20 +41,44 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Spray extrusion, especially in combination with a thin layer of sprayed concrete and ribbed support structures, for example for facade elements, results in very efficient components with high load-bearing capacities and high-quality surfaces. The developed combined spray-extrusion nozzle offers the possibility of both: spraying and extruding, adapted mortar and concrete. Based on characteristic value determinations, practicability and the increase in productivity could be proven. This increase in productivity at the additive manufacturing leads to positive economic effects, applications of high-strength lightweight structures in construction become more attractive, and it enables the serial implementation ib of free-formed modular constructions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a>, <a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lind_glin_funk_gelb.2024.AFPoLPCE/">Additive Flow Production of Lightweight Precision Concrete Elements</a></li>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lind_glin_funk_gelb.2022.RAFPPTDftFoTWFRCE,
+      author            = "Marco Lindner and Ralf Gliniorz and Henrik Funke and Sandra Gelbrich",
+      title             = "Robot-Assisted Flow-Production-Processes Tool-Development for the Fabrication of Thin-Walled Fiber-Reinforced Concrete Elements",
+      year              = "2022",
+      pages             = "771--778",
+      booktitle         = "Proceedings of the 14th fib PhD Symposium in Civil Engineering",
+      editor            = "fédération internationale du béton",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Lindner, R. Gliniorz, H. Funke and S. Gelbrich, “Robot-Assisted Flow-Production-Processes Tool-Development for the Fabrication of Thin-Walled Fiber-Reinforced Concrete Elements”, in <i>Proceedings of the 14th fib PhD Symposium in Civil Engineering</i>,  2022, pp. 771–778.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lindner, Marco, Ralf Gliniorz, Henrik Funke, and Sandra Gelbrich. “Robot-Assisted Flow-Production-Processes Tool-Development for the Fabrication of Thin-Walled Fiber-Reinforced Concrete Elements”. In <i>Proceedings of the 14th Fib PhD Symposium in Civil Engineering</i>, edited by fédération internationale du béton, 771–78, 2022.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

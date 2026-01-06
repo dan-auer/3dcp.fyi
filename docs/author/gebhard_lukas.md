@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gebhard Lukas 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
   <li><a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/thoma_karel"><b>Thoma</b> Karel</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../amma_gebh_thom_mata.2024.EBoCFSPwDFF/">Environmental Benefits of Concrete Floor Slabs Produced with Digitally Fabricated Formworks:<br/>A Case Study</a></li>
   <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jipa_anto_gebh_dill.2024.TNS/">The Nubian Slab:<br/>3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs</a></li>

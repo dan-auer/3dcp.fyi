@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Panagis Foteinopoulos, Alexios Papacharalampopoulos, Panagiotis Stavropoulos
+    - footer
+title: Foteinopoulos Panagis, Papacharalampopoulos Alexios, Stavropoulos Panagiotis
 description:
 tags:
  - additive
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.procir.2019.03.233) Block-Based Analytical Hierarchy Process Applied for the Evaluation of Construction Sector Additive Manufacturing ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1016/j.procir.2019.03.233" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.procir.2019.03.233</a>
+#Block-Based Analytical Hierarchy Process Applied for the Evaluation of Construction Sector Additive Manufacturing ([2019-06](date/2019/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procir.2019.03.233) <a href="https://doi.org/10.1016/j.procir.2019.03.233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2019.03.233" target="_blank">10.1016/j.procir.2019.03.233</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2912-9660" title="ORCID: 0000-0003-2912-9660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b>&nbsp;Panagis</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7666-2156" title="ORCID: 0000-0001-7666-2156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b>&nbsp;Alexios</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0724-7957" title="ORCID: 0000-0003-0724-7957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stavropoulos_panagiotis"><b>Stavropoulos</b>&nbsp;Panagiotis</a></span><br>
+Journal Article - Procedia CIRP, Vol. 81, pp. 950-955
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b> Panagis</a> <a href="https://orcid.org/0000-0003-2912-9660" title="ORCID: 0000-0003-2912-9660" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a> <a href="https://orcid.org/0000-0001-7666-2156" title="ORCID: 0000-0001-7666-2156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stavropoulos_panagiotis"><b>Stavropoulos</b> Panagiotis</a> <a href="https://orcid.org/0000-0003-0724-7957" title="ORCID: 0000-0003-0724-7957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia CIRP, Vol. 81, pp. 950-955
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#block`](keyword/block)
-    [`#construction`](keyword/construction)
-    [`#evaluation`](keyword/evaluation)
-    [`#hierarchy`](keyword/hierarchy)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/hierarchy"><button class="btn">#hierarchy</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Block-Based%20Analytical%20Hierarchy%20Process%20Applied%20for%20the%20Evaluation%20of%20Construction%20Sector%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068465169&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,23 +40,48 @@ tags:
 <a href="https://inciteful.xyz/p/W2953404722" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.procir.2019.03.233" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.procir.2019.03.233?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Studies indicate that the utilization of Additive Manufacturing (AM) will greatly increase the automation and efficiency of the construction sector, which is not on par with other industrial sectors. A modified version of the Analytical Hierarchy Process is developed in this study, which greatly decreases the required comparisons, minimizing the method preparation time, especially for a high number of variables, constituting it ideal for industrial benchmarking in competitive environments, like the construction sector. The minimized time and effort required for the modified method is pointed out in the presented benchmarking case study for the evaluation of a concrete-based AM process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b> Panagis</a>, <a href="../../../author/esnault_vivien"><b>Esnault</b> Vivien</a>, <a href="../../../author/komineas_george"><b>Komineas</b> George</a>, <a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../fote_esna_komi_papa.2020.CBAM/">Cement-Based Additive Manufacturing:<br/>Experimental Investigation of Process Quality</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/chantin_marjorie"><b>Chantin</b> Marjorie</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a>, <a href="../../../author/fabritius_marc"><b>Fabritius</b> Marc</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../muni_chan_vint_fabr.2021.CHM/">Concrete Hybrid Manufacturing:<br/>A Machine Architecture</a></li>
       <li><a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a>, <a href="../../../author/bikas_harry"><b>Bikas</b> Harry</a>, <a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b> Panagis</a>, <a href="../../../author/stavropoulos_panagiotis"><b>Stavropoulos</b> Panagiotis</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../papa_bika_fote_stav.2020.APPOFfCBAMP/">A Path-Planning-Optimization Framework for Concrete-Based Additive Manufacturing Processes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fote_papa_stav.2019.BBAHPAftEoCSAM,
+      author            = "Panagis Foteinopoulos and Alexios Papacharalampopoulos and Panagiotis Stavropoulos",
+      title             = "Block-Based Analytical Hierarchy Process Applied for the Evaluation of Construction Sector Additive Manufacturing",
+      doi               = "10.1016/j.procir.2019.03.233",
+      year              = "2019",
+      journal           = "Procedia CIRP",
+      volume            = "81",
+      pages             = "950--955",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Foteinopoulos, A. Papacharalampopoulos and P. Stavropoulos, “Block-Based Analytical Hierarchy Process Applied for the Evaluation of Construction Sector Additive Manufacturing”, <i>Procedia CIRP</i>, vol. 81, pp. 950–955, 2019, doi: 10.1016/j.procir.2019.03.233.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Foteinopoulos, Panagis, Alexios Papacharalampopoulos, and Panagiotis Stavropoulos. “Block-Based Analytical Hierarchy Process Applied for the Evaluation of Construction Sector Additive Manufacturing”. <i>Procedia CIRP</i> 81 (2019): 950–55. https://doi.org/10.1016/j.procir.2019.03.233.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

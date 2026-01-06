@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Herui Zhao, Quan Jiang, Yong Xia, Jian Liu, Dongqi Hou, Pengfei Chen, Jianpo Liu
+    - footer
+title: Zhao Herui, Jiang Quan, Xia Yong, Liu Jian, Hou Dongqi, Chen Pengfei, Liu Jianpo
 description:
 tags:
  - carbonation
@@ -17,36 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Microbial-Induced Carbonate Reinforcement for 3D Printed Concrete:<br/>:aca-blank: Testing in Printable and Mechanical Strength ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1617/s11527-024-02502-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-024-02502-y</a>
+#Microbial-Induced Carbonate Reinforcement for 3D Printed Concrete&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Testing in Printable and Mechanical Strength</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-024-02502-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-024-02502-y" target="_blank">10.1617/s11527-024-02502-y</a>
 
--------------------------
+<a href="../../../author/zhao_herui"><b>Zhao</b>&nbsp;Herui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/xia_yong"><b>Xia</b>&nbsp;Yong</a></span>, <a href="../../../author/liu_jian"><b>Liu</b>&nbsp;Jian</a></span>, <a href="../../../author/hou_dongqi"><b>Hou</b>&nbsp;Dongqi</a></span>, <a href="../../../author/chen_pengfei"><b>Chen</b>&nbsp;Pengfei</a></span>, <a href="../../../author/liu_jianpo"><b>Liu</b>&nbsp;Jianpo</a></span><br>
+Journal Article - Materials and Structures, Vol. 57, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>
-,     <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a> <a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>
-,     <a href="../../../author/liu_jian"><b>Liu</b> Jian</a>
-,     <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a>
-,     <a href="../../../author/chen_pengfei"><b>Chen</b> Pengfei</a>
-,     <a href="../../../author/liu_jianpo"><b>Liu</b> Jianpo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 57, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#concrete`](keyword/concrete)
-    [`#induction`](keyword/induction)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Microbial-Induced%20Carbonate%20Reinforcement%20for%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208597624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403970401" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-024-02502-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-024-02502-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study introduces a microbial-induced calcium precipitation technique into cement-based 3D printing by incorporating Bacillus pasteurii into 3D printing (3DP) mortar. The printability, physical–mechanical properties, and microstructure are analyzed to compare the differences between control concrete and bacterial concrete. Experimental results demonstrated that mixing bacteria in 3DP mortars can enhance printability and increase the uniaxial compressive strength (UCS) and Brazilian splitting tensile strength of printed specimens. Particularly, this method significantly improved the interlayer strength of 3DP concrete. With a bacterial concentration of 1 × 10^7 cells/ml, the UCS improved by 35.8% and 57.3% in the YZ and XY directions, respectively, compared to the control concrete UCS. The tensile strength in the YZ direction improved by 23.65% compared to control concrete at the same bacterial concentration. Moreover, the tensile strength in the XY direction continued to improve with increasing bacterial concentration, while it decreased in the YZ direction, indicating that incorporating bacteria is an effective method for enhancing interlayer tensile strength. Additionally, nitrogen adsorption results revealed that mixing bacteria reduced pore volume and surface area of printed specimens, leading to denser microstructure by filling granular calcium carbonate precipitates at internal pores of 3D-printed concrete, as observed by SEM and XRD. These findings offer a new approach for modifying cement-based 3D-printing mortars and provide valuable insights for enhancing the mechanical performance of architectural 3DP concrete, thereby promoting the advancement of cement-based 3DP technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -114,8 +89,38 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_sanj.2023.MoRMfQMMi3CP/">Mechanisms of Rheological Modifiers for Quick Mixing Method in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_jian_xia_liu.2024.MICRf3PC,
+      author            = "Herui Zhao and Quan Jiang and Yong Xia and Jian Liu and Dongqi Hou and Pengfei Chen and Jianpo Liu",
+      title             = "Microbial-Induced Carbonate Reinforcement for 3D Printed Concrete: Testing in Printable and Mechanical Strength",
+      doi               = "10.1617/s11527-024-02502-y",
+      year              = "2024",
+      journal           = "Materials and Structures",
+      volume            = "57",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhao, “Microbial-Induced Carbonate Reinforcement for 3D Printed Concrete: Testing in Printable and Mechanical Strength”, <i>Materials and Structures</i>, vol. 57, no. 9, 2024, doi: 10.1617/s11527-024-02502-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Herui, Quan Jiang, Yong Xia, Jian Liu, Dongqi Hou, Pengfei Chen, and Jianpo Liu. “Microbial-Induced Carbonate Reinforcement for 3D Printed Concrete: Testing in Printable and Mechanical Strength”. <i>Materials and Structures</i> 57, no. 9 (2024). https://doi.org/10.1617/s11527-024-02502-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

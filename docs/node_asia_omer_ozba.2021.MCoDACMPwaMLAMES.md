@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehrab Nodehi, Bahram Asiabanpour, Liam Omer, Togay Ozbakkaloglu
+    - footer
+title: Nodehi Mehrab, Asiabanpour Bahram, Omer Liam, Ozbakkaloglu Togay
 description:
 tags:
  - additive
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-# Material-Characterization of Diversity Aggregated Cementitious Materials Produced with a Modular Lightweight Additive Manufacturing Extrusion-System ([2021-08](date/2021/08))
-<a href="https://doi.org/10.26153/tsw/17667" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.26153/tsw/17667</a>
+#Material-Characterization of Diversity Aggregated Cementitious Materials Produced with a Modular Lightweight Additive Manufacturing Extrusion-System ([2021-08](date/2021/08))
+ <a href="https://doi.org/10.26153/tsw/17667" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.26153/tsw/17667" target="_blank">10.26153/tsw/17667</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nodehi_mehrab"><b>Nodehi</b>&nbsp;Mehrab</a></span>, <a href="../../../author/asiabanpour_bahram"><b>Asiabanpour</b>&nbsp;Bahram</a></span>, <a href="../../../author/omer_liam"><b>Omer</b>&nbsp;Liam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b>&nbsp;Togay</a></span><br>
+Contribution - Proceedings of the 32nd Annual International Solid Freeform Fabrication Symposium, pp. 1553-1570
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a> <a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/asiabanpour_bahram"><b>Asiabanpour</b> Bahram</a>
-,     <a href="../../../author/omer_liam"><b>Omer</b> Liam</a>
-,     <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> <a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 32nd Annual International Solid Freeform Fabrication Symposium, pp. 1553-1570
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#aggregate`](keyword/aggregate)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#extrusion`](keyword/extrusion)
-    [`#light`](keyword/light)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#modular`](keyword/modular)
-    [`#production`](keyword/production)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Material-Characterization%20of%20Diversity%20Aggregated%20Cementitious%20Materials%20Produced%20with%20a%20Modular%20Lightweight%20Additive%20Manufacturing%20Extrusion-System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6889821200" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.26153/tsw/17667" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.26153/tsw/17667?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Applications of additive manufacturing in the construction industry started three decades ago with the first patent and prototype of the contour crafting process. Since then, its obvious benefits in reducing labor cost, construction waste while improving efficiency and flexibility have led to the development of several large-scale commercial machines in this field. However, proper lab-scale machines for training experts in automated construction and research-based activities such as material optimizations for civil and structural engineers are not available. The only available small-scale apparatus in AM-based construction is limited to a minimal list of materials and properties. Those machines are not capable of fabricating samples from cementitious materials with a variety of aggregate sizes. This paper compares two low-cost, modular AM-based construction systems capable of extruding a wide variety of cementitious materials with diverse aggregate sizes. The systems are capable of controlled extrusion with a variety of cross-section forms. The system can be attached to a robotic arm, CNC machine, or other programmable machines. As a proof-of-concept, the developed system is utilized to fabricate cement mortar with larger aggregate sizes with different materials mixture ratios. Mechanical performance of the resulting additively manufactured cementitious parts is examined and compared.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -98,8 +73,39 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{node_asia_omer_ozba.2021.MCoDACMPwaMLAMES,
+      author            = "Mehrab Nodehi and Bahram Asiabanpour and Liam Omer and Togay Ozbakkaloglu",
+      title             = "Material-Characterization of Diversity Aggregated Cementitious Materials Produced with a Modular Lightweight Additive Manufacturing Extrusion-System",
+      doi               = "10.26153/tsw/17667",
+      year              = "2021",
+      volume            = "32",
+      pages             = "1553--1570",
+      booktitle         = "Proceedings of the 32nd Annual International Solid Freeform Fabrication Symposium: An Additive Manufacturing Conference",
+      editor            = "David L. Bourell and Joseph J. Beaman and Richard H. Crawford and Scott Fish and Carolyn Seepersad",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Nodehi, B. Asiabanpour, L. Omer and T. Ozbakkaloglu, “Material-Characterization of Diversity Aggregated Cementitious Materials Produced with a Modular Lightweight Additive Manufacturing Extrusion-System”, in <i>Proceedings of the 32nd Annual International Solid Freeform Fabrication Symposium: An Additive Manufacturing Conference</i>,  2021, vol. 32, pp. 1553–1570. doi: 10.26153/tsw/17667.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nodehi, Mehrab, Bahram Asiabanpour, Liam Omer, and Togay Ozbakkaloglu. “Material-Characterization of Diversity Aggregated Cementitious Materials Produced with a Modular Lightweight Additive Manufacturing Extrusion-System”. In <i>Proceedings of the 32nd Annual International Solid Freeform Fabrication Symposium: An Additive Manufacturing Conference</i>, edited by David L. Bourell, Joseph J. Beaman, Richard H. Crawford, Scott Fish, and Carolyn Seepersad, 32:1553–70, 2021. https://doi.org/10.26153/tsw/17667.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

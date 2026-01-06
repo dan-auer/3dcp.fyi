@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhi Wan, Yading Xu, Shan He, Erik Schlangen, Branko Šavija
+    - footer
+title: Wan Zhi, Xu Yading, He Shan, Schlangen Erik, Šavija Branko
 description:
 tags:
  - additive
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100334) The Use of Additive Manufacturing in Self-Healing Cementitious Materials:<br/>:aca-blank: A State of the Art Review ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.dibe.2024.100334" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100334</a>
+#The Use of Additive Manufacturing in Self-Healing Cementitious Materials&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">A State of the Art Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100334) <a href="https://doi.org/10.1016/j.dibe.2024.100334" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100334" target="_blank">10.1016/j.dibe.2024.100334</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1974-6510" title="ORCID: 0000-0002-1974-6510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_zhi"><b>Wan</b>&nbsp;Zhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_shan"><b>He</b>&nbsp;Shan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Developments in the Built Environment
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> <a href="https://orcid.org/0000-0002-1974-6510" title="ORCID: 0000-0002-1974-6510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_yading"><b>Xu</b> Yading</a> <a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_shan"><b>He</b> Shan</a> <a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#review`](keyword/review)
-    [`#self`](keyword/self)
-    [`#state`](keyword/state)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Use%20of%20Additive%20Manufacturing%20in%20Self-Healing%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183182025&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391069302" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100334" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100334?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a state-of-the-art review on the application of additive manufacturing (AM) in self-healing cementitious materials. AM has been utilized in self-healing cementitious materials in three ways: (1) concrete with 3D-printed capsules/vasculatures; (2) 3D concrete printing (3DCP) with fibers or supplementary cementitious materials (SCMs); and (3) a combination of (1) and (2). 3D-printed capsules/vascular systems are the most extensively investigated, which are capable of housing larger volumes of healing agents. However, due to the dimension restraints of printers, most of the printed vasculatures/capsules are in small scale, making them difficult for upscaling. Meanwhile, 3DCP shows great potential to lower the environmental footprint of concrete construction. Incorporation of fibers and SCMs helps improve the autogenous healing performance of 3DCP. Besides, 3D-printed concrete with hollow channels as the vasculature could further improve the autonomous healing and scalability of self-healing cementitious materials. Finally, possible directions for future research are discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmadi_khatereh"><b>Ahmadi</b> Khatereh</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ahma_mous_dehe.2023.IoNCMSFoMaSHPo3PCUGOaPA/">Influence of Nano-Coated Micro-Steel-Fibers on Mechanical and Self-Healing Properties of 3D Printable Concrete Using Graphene-Oxide and Polyvinyl-Alcohol</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -87,8 +65,36 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zaha_pere_pere_cunh.2025.SHAoFRCMDf3CP/">Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing:<br/>Recovery of Mechanical Performance and Self-Sealing Capability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wan_xu_he_schl.2024.TUoAMiSHCM,
+      author            = "Zhi Wan and Yading Xu and Shan He and Erik Schlangen and Branko Šavija",
+      title             = "The Use of Additive Manufacturing in Self-Healing Cementitious Materials: A State of the Art Review",
+      doi               = "10.1016/j.dibe.2024.100334",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Wan, Y. Xu, S. He, E. Schlangen and B. Šavija, “The Use of Additive Manufacturing in Self-Healing Cementitious Materials: A State of the Art Review”, <i>Developments in the Built Environment</i>, 2024, doi: 10.1016/j.dibe.2024.100334.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wan, Zhi, Yading Xu, Shan He, Erik Schlangen, and Branko Šavija. “The Use of Additive Manufacturing in Self-Healing Cementitious Materials: A State of the Art Review”. <i>Developments in the Built Environment</i>, 2024. https://doi.org/10.1016/j.dibe.2024.100334.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #grain
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
   <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
   <li><a href="../../../author/aldabergenova_gaziza"><b>Aldabergenova</b> Gaziza</a>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a>, <a href="../../../author/konkanov_marat"><b>Konkanov</b> Marat</a>, <a href="../../../author/kirgizbayev_akpan"><b>Kirgizbayev</b> Akpan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../alda_jexe_konk_kirg.2024.TEWBFGFCf3P/">The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yue Lu, Jianzhuang Xiao, Yan Li
+    - footer
+title: Lu Yue, Xiao Jianzhuang, Li Yan
 description:
 tags:
  - comprehension
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>:aca-blank: A Comprehensive Review ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135951" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135951</a>
+#3D Printing Recycled Concrete Incorporating Plant-Fibers&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">A Comprehensive Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135951" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135951" target="_blank">10.1016/j.conbuildmat.2024.135951</a>
 
--------------------------
+<a href="../../../author/lu_yue"><b>Lu</b>&nbsp;Yue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/li_yan"><b>Li</b>&nbsp;Yan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 425, No. 135951
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_yue"><b>Lu</b> Yue</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_yan"><b>Li</b> Yan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 425, No. 135951
-
-:aca-blank:{ .lg .middle}
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#incorporation`](keyword/incorporation)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Recycled%20Concrete%20Incorporating%20Plant-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188994445&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393250932" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135951" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135951?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the integration of 3D concrete printing (3DCP) with recycled aggregate concrete (RAC) and plant fibres, highlighting its role in advancing sustainable construction practices. The findings demonstrate that plant fibres enhance the mechanical and thermal properties and environmental impact of normal concrete and RAC, including the improvements in compressive, flexural, fracture characteristics. Building on these substantial enhancements, the study further investigates the potential of combining 3DCP with plant fibre-reinforced RAC. Researches indicate that fibres can mitigate the negative performance impacts brought about by the use of RAC in 3D printing, particularly in terms of tensile and flexural resistance. Based on these findings, the introduction of plant fibres is expected to optimise the mechanical properties while also having a notable impact on carbon emissions. This synergy between 3DCP and plant fibre-reinforced RAC not only aligns with sustainable construction goals but also marks a significant shift towards environmentally responsible practices and innovations in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "68 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
@@ -133,8 +114,9 @@ tags:
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_song"><b>Yang</b> Song</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sing_yang_wang_xiao.2025.CTFCfFTRi3PC/">Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
@@ -155,4 +137,34 @@ tags:
       <li><a href="../../../author/aldabergenova_gaziza"><b>Aldabergenova</b> Gaziza</a>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a>, <a href="../../../author/konkanov_marat"><b>Konkanov</b> Marat</a>, <a href="../../../author/kirgizbayev_akpan"><b>Kirgizbayev</b> Akpan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../alda_jexe_konk_kirg.2024.TEWBFGFCf3P/">The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing</a></li>
       <li><a href="../../../author/lee_myung_jae"><b>Lee</b> Jae</a>, <a href="../../../author/park_mee_boo"><b>Park</b> Boo</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lee_park.2024.ASoEFMf3P/">A Study on Eco-Friendly Materials for 3D Printing:<br/>Focused on Korean Hwangto(Loess)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_xiao_li.2024.3PRCIPF,
+      author            = "Yue Lu and Jianzhuang Xiao and Yan Li",
+      title             = "3D Printing Recycled Concrete Incorporating Plant-Fibers: A Comprehensive Review",
+      doi               = "10.1016/j.conbuildmat.2024.135951",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "425",
+      pages             = "135951",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Lu, J. Xiao and Y. Li, “3D Printing Recycled Concrete Incorporating Plant-Fibers: A Comprehensive Review”, <i>Construction and Building Materials</i>, vol. 425, p. 135951, 2024, doi: 10.1016/j.conbuildmat.2024.135951.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Yue, Jianzhuang Xiao, and Yan Li. “3D Printing Recycled Concrete Incorporating Plant-Fibers: A Comprehensive Review”. <i>Construction and Building Materials</i> 425 (2024): 135951. https://doi.org/10.1016/j.conbuildmat.2024.135951.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

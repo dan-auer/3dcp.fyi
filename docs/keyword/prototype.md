@@ -8,7 +8,7 @@ search:
 
 # #prototype
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jesu_teix_guim_rang.2025.F3SDoCHAt3PPBoCaLBM/">From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars</a></li>
   <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/rossetti_pietro"><b>Rossetti</b> Pietro</a>, <a href="../../../author/polidoro_anthony"><b>Polidoro</b> Anthony</a>, <a href="../../../author/rossi_emilio"><b>Rossi</b> Emilio</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_ross_poli_ross.2025.SREBAw3PF/">Sustainable Raw-Earth Blocks Achieved with 3D-Printed Formworks:<br/>Parametric Modeling, Prototyping, and Laboratory Testing</a></li>
   <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF/">3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers</a></li>

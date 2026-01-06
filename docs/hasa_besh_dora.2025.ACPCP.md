@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alireza Hasani, Boshra Besharatian, Sattar Dorafshan
+    - footer
+title: Hasani Alireza, Besharatian Boshra, Dorafshan Sattar
 description:
 tags:
  - additive
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additively Constructed Plain Concrete Pipes:<br/>:aca-blank: Structural Performance and Site Implementation ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1061/jaeied.aeeng-2013" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jaeied.aeeng-2013</a>
+#Additively Constructed Plain Concrete Pipes&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Structural Performance and Site Implementation</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeied.aeeng-2013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-2013" target="_blank">10.1061/jaeied.aeeng-2013</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-0171-5047" title="ORCID: 0009-0008-0171-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasani_alireza"><b>Hasani</b>&nbsp;Alireza</a></span>, <a href="../../../author/besharatian_boshra"><b>Besharatian</b>&nbsp;Boshra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8307-9193" title="ORCID: 0000-0002-8307-9193" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorafshan_sattar"><b>Dorafshan</b>&nbsp;Sattar</a></span><br>
+Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a> <a href="https://orcid.org/0009-0008-0171-5047" title="ORCID: 0009-0008-0171-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/besharatian_boshra"><b>Besharatian</b> Boshra</a>
-,     <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="https://orcid.org/0000-0002-8307-9193" title="ORCID: 0000-0002-8307-9193" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#implementation`](keyword/implementation)
-    [`#performance`](keyword/performance)
-    [`#pipe`](keyword/pipe)
-    [`#plain`](keyword/plain)
-    [`#site`](keyword/site)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/plain"><button class="btn">#plain</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additively%20Constructed%20Plain%20Concrete%20Pipes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004002863&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409735311" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jaeied.aeeng-2013" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jaeied.aeeng-2013?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Worldwide, extrusion-based additive construction of cementitious materials or 3D concrete printing (3DCP) has gained significant momentum for large-scale construction in recent years. This technology has advanced building construction across the world; however, it is rather underdeveloped in transportation infrastructure construction. This paper addresses major hurdles hindering the wider adoption of 3DCP for unreinforced/plain pipe culvert construction. More specifically, the authors investigated the load-bearing capacity of large-scale pipes under the three-edge bearing test. Additionally, the effects of printing discontinuities or seam sections on the structural behavior of 3DCP pipes and their site implementation considerations as culvert structures were studied in this paper. The mechanical properties of 3DCP pipes made with commercially available material exceeded the standard requirements. The seam section location was placed between 0° and 45° from the left springline toward the invert, indicated that pipes failed at the seam section rather than springlines when the offset was 20° and more from the left springline. The ultimate load capacity varied with a coefficient of variation of 17% between all specimens, which was higher than precast pipes reported by other studies illustrating the variability of 3DCP pipes' structural performance. The average measured deformation was 14% lower for pipes that failed at the seam section than when they failed at the spring line. To meet other considerations, the 3DCP pipe Manning’s values and its compliance with standard practices were determined. Tongue and groove fitting was successfully designed and implemented to integrate modular construction of 3DCP pipes, demonstrating the technology viability for rapid precast construction of pipe culverts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/gopu_vijaya"><b>Gopu</b> Vijaya</a>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../giwa_kaze_gopu_rupn.2024.ACLBAo3PCE/">A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements</a></li>
@@ -80,8 +59,38 @@ tags:
       <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/schulz_michael"><b>Schulz</b> Michael</a>, <a href="../../../author/moosburger-will_judith"><b>Moosburger-Will</b> Judith</a>, <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../rutz_schu_moos_lauf.2021.3PaaAMMfaCFRCCwOFS1Nm/">3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²)</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hasa_besh_dora.2025.ACPCP,
+      author            = "Alireza Hasani and Boshra Besharatian and Sattar Dorafshan",
+      title             = "Additively Constructed Plain Concrete Pipes: Structural Performance and Site Implementation",
+      doi               = "10.1061/jaeied.aeeng-2013",
+      year              = "2025",
+      journal           = "Journal of Architectural Engineering",
+      volume            = "31",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Hasani, B. Besharatian and S. Dorafshan, “Additively Constructed Plain Concrete Pipes: Structural Performance and Site Implementation”, <i>Journal of Architectural Engineering</i>, vol. 31, no. 3, 2025, doi: 10.1061/jaeied.aeeng-2013.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hasani, Alireza, Boshra Besharatian, and Sattar Dorafshan. “Additively Constructed Plain Concrete Pipes: Structural Performance and Site Implementation”. <i>Journal of Architectural Engineering</i> 31, no. 3 (2025). https://doi.org/10.1061/jaeied.aeeng-2013.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

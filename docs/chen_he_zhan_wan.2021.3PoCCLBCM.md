@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Chen, Shan He, Yu Zhang, Zhi Wan, Oğuzhan Çopuroğlu, Erik Schlangen
+    - footer
+title: Chen Yu, He Shan, Zhang Yu, Wan Zhi, Çopuroğlu Oğuzhan, Schlangen Erik
 description:
 tags:
  - base
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2021.106553) 3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials ([2021-08](date/2021/08))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106553" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106553</a>
+#3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2021.106553) <a href="https://doi.org/10.1016/j.cemconres.2021.106553" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106553" target="_blank">10.1016/j.cemconres.2021.106553</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_shan"><b>He</b>&nbsp;Shan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1974-6510" title="ORCID: 0000-0002-1974-6510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_zhi"><b>Wan</b>&nbsp;Zhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 149
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_shan"><b>He</b> Shan</a> <a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> <a href="https://orcid.org/0000-0002-1974-6510" title="ORCID: 0000-0002-1974-6510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 149, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#limestone`](keyword/limestone)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Calcined-Clay-Limestone-Based%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111883270&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,21 +36,16 @@ tags:
 <a href="https://inciteful.xyz/p/W3190464476" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106553" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106553?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to investigate the influences of high Portland cement substitutions (>60 wt%) by low-grade calcined clay (CC) and limestone (LF) on 3D concrete printability, stiffness evolution and early-age hydration. Results show that, with the same dosage of admixtures (superplasticizer and viscosity modifier), increasing LF and CC content reduced the slump, flowability and initial material flow rate, and significantly improved the buildability of fresh mixtures, which can be attributed to the reduced water film thickness (WFT). Furthermore, the stiffness evolution and SSAtotal development up to the first 3 h were accelerated by increasing CC content, which can also be linked to the change of WFT, and consumption of superplasticizer for the dispersion induced by hydration products. Additionally, the dilution effect on compressive strength and hydration caused by the high cement replacement was observed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
-      <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
@@ -115,8 +92,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "110 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
       <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
@@ -228,4 +205,33 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM/">Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_he_zhan_wan.2021.3PoCCLBCM,
+      author            = "Yu Chen and Shan He and Yu Zhang and Zhi Wan and Oğuzhan Çopuroğlu and Erik Schlangen",
+      title             = "3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials",
+      doi               = "10.1016/j.cemconres.2021.106553",
+      year              = "2021",
+      journal           = "Cement and Concrete Research",
+      volume            = "149",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, S. He, Y. Zhang, Z. Wan, O. Çopuroğlu and E. Schlangen, “3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials”, <i>Cement and Concrete Research</i>, vol. 149, 2021, doi: 10.1016/j.cemconres.2021.106553.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yu, Shan He, Yu Zhang, Zhi Wan, Oğuzhan Çopuroğlu, and Erik Schlangen. “3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials”. <i>Cement and Concrete Research</i> 149 (2021). https://doi.org/10.1016/j.cemconres.2021.106553.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

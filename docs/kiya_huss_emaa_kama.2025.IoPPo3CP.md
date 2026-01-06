@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Kiyani, Syed Hussain, Rajja Emaan, Muhammad Kamal, Saif Rehman, Raja Riaz, Muhammad Usman
+    - footer
+title: Kiyani Muhammad, Hussain Syed, Emaan Rajja, Kamal Muhammad, Rehman Saif, Riaz Raja, Usman Muhammad
 description:
 tags:
  - approach
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Influence of Process Parameters on 3D Concrete Printing:<br/>:aca-blank: A Step Towards Standardized Approaches ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05212" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05212</a>
+#Influence of Process Parameters on 3D Concrete Printing&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">A Step Towards Standardized Approaches</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05212" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05212" target="_blank">10.1016/j.cscm.2025.e05212</a>
 
--------------------------
+<a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b>&nbsp;Muhammad</a></span>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b>&nbsp;Syed</a></span>, <a href="../../../author/emaan_rajja"><b>Emaan</b>&nbsp;Rajja</a></span>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-4430-1452" title="ORCID: 0009-0000-4430-1452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_saif"><b>Rehman</b>&nbsp;Saif</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/riaz_dilawar_raja"><b>Riaz</b>&nbsp;Raja</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usman_muhammad"><b>Usman</b>&nbsp;Muhammad</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05212
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>
-,     <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>
-,     <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>
-,     <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a>
-,     <a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a> <a href="https://orcid.org/0009-0000-4430-1452" title="ORCID: 0009-0000-4430-1452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> <a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> <a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05212
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#influence`](keyword/influence)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#standard`](keyword/standard)
-    [`#step`](keyword/step)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> <a href="../../keyword/step"><button class="btn">#step</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Process%20Parameters%20on%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015095019&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413466393" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05212" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05212?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is an innovative technology driving automation in the construction industry. This technology holds the potential to reduce carbon footprint, construction costs, and waste through the careful selection of materials and process parameters. While recent studies have extensively focused on material selection for 3DCP, the influence of process parameters is often overlooked, resulting in performance variations. Different printing scenarios yield varying outcomes, even with the same mix design, underscoring the need to tailor process parameters for optimal compatibility. This paper addresses critical gaps by analyzing seven key process parameters: nozzle shape, nozzle size, nozzle standoff distance, printing speed, extrusion rate, interlayer interval time, and surface dehydration, and their effects on fresh and hardened properties. The paper's significance lies in its synthesis of quantitative findings and practical guidelines for optimizing these parameters. The use of square or rectangular nozzles boosts compressive strength by 43% and flexural strength by 28% compared to circular ones. Optimal nozzle size requires a critical ratio of at least 4. For strong interlayer bonding, the standoff distance should be less than the nozzle opening. The synchronization of printing speed and extrusion rate is crucial and should be calibrated according to the material's yield stress. Finally, maintaining ambient conditions, 20-25°C, 80-100% relative humidity, and wind speeds under 3 m/s, is essential to prevent surface dehydration. By providing application-specific recommendations and empirical formulas, this paper offers a comprehensive guide for tailoring process parameters to various printing scenarios.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "131 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
@@ -202,8 +178,37 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kiya_huss_emaa_kama.2025.IoPPo3CP,
+      author            = "Muhammad Mughees Raza Kiyani and Syed Muhammad Hussain and Rajja Emaan and Muhammad Babar Kamal and Saif Ur Rehman and Raja Dilawar Riaz and Muhammad Usman",
+      title             = "Influence of Process Parameters on 3D Concrete Printing: A Step Towards Standardized Approaches",
+      doi               = "10.1016/j.cscm.2025.e05212",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05212",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. M. R. Kiyani, “Influence of Process Parameters on 3D Concrete Printing: A Step Towards Standardized Approaches”, <i>Case Studies in Construction Materials</i>, p. e05212, 2025, doi: 10.1016/j.cscm.2025.e05212.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kiyani, Muhammad Mughees Raza, Syed Muhammad Hussain, Rajja Emaan, Muhammad Babar Kamal, Saif Ur Rehman, Raja Dilawar Riaz, and Muhammad Usman. “Influence of Process Parameters on 3D Concrete Printing: A Step Towards Standardized Approaches”. <i>Case Studies in Construction Materials</i>, 2025, e05212. https://doi.org/10.1016/j.cscm.2025.e05212.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

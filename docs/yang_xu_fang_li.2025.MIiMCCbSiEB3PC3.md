@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rijiao Yang, Chengji Xu, Sen Fang, Xinze Li, Yu Peng, Zhendi Wang, Qiang Zeng
+    - footer
+title: Yang Rijiao, Xu Chengji, Fang Sen, Li Xinze, Peng Yu, Wang Zhendi, Zeng Qiang
 description:
 tags:
  - base
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC) ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.cemconres.2025.107998" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2025.107998</a>
+#Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC) ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2025.107998" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.107998" target="_blank">10.1016/j.cemconres.2025.107998</a>
 
--------------------------
+<a href="../../../author/yang_rijiao"><b>Yang</b>&nbsp;Rijiao</a></span>, <a href="../../../author/xu_chengji"><b>Xu</b>&nbsp;Chengji</a></span>, <a href="../../../author/fang_sen"><b>Fang</b>&nbsp;Sen</a></span>, <a href="../../../author/li_xinze"><b>Li</b>&nbsp;Xinze</a></span>, <a href="../../../author/peng_yu"><b>Peng</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhendi"><b>Wang</b>&nbsp;Zhendi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_qiang"><b>Zeng</b>&nbsp;Qiang</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 198, No. 107998
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>
-,     <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>
-,     <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>
-,     <a href="../../../author/li_xinze"><b>Li</b> Xinze</a>
-,     <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>
-,     <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> <a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> <a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 198, No. 107998
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cause`](keyword/cause)
-    [`#change`](keyword/change)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#insights`](keyword/insights)
-    [`#print`](keyword/print)
-    [`#staples`](keyword/staples)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cause"><button class="btn">#cause</button></a> <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/staples"><button class="btn">#staples</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanistic%20Insights%20into%20Microstructural%20Changes%20Caused%20by%20Stapling%20in%20Extrusion-Based%203D%20Printed%20Concrete%20%283DPC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010559187&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412429719" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2025.107998" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2025.107998?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Stapling is an effective post-implantation method for reinforcing three-dimensional (3D) printed concrete (3DPC); however, it may alter the microstructure of the adjacent concrete slurry. To uncover the mechanisms of microstructural alterations induced by stapling, remaining inadequately understood, we comprehensively characterized the microstructure of extrusion-based 3DPC with two viscosity levels, stapled using steels of five different diameters. The results suggest that the anchoring effect of the staples enhanced the interlayer bonding, while the formation of the staple-matrix interfacial defects decreased the compressive strength. These defects were non-uniformly distributed along the staples, and the 3DPC with higher viscosity exhibited more severe defects. The contribution of staple-matrix defects to mechanical strength was assessed based on defect ratio and connected length. Finally, a model was developed to capture the deformation of concrete slurry during the stapling process. These findings deepen the mechanistic understanding of the conflict between stapling reinforcement and interfacial weakness in 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "56 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../best_krug_zijl.2023.RRfCP/">Rivet Reinforcement for Concrete Printing</a></li>
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../cao_yu_cui.2023.ESotISRSTtR3PCiVD/">Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions</a></li>
@@ -127,7 +102,37 @@ tags:
       <li><a href="../../../author/zhou_boyu"><b>Zhou</b> Boyu</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zhou_zhan_ma.2024.AESo3PCRwFRfWTB/">An Experimental Study on 3D Printed Concrete Reinforced with Fibers Recycled from Wind Turbine Blades</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_xu_fang_li.2025.MIiMCCbSiEB3PC3,
+      author            = "Rijiao Yang and Chengji Xu and Sen Fang and Xinze Li and Yu Peng and Zhendi Wang and Qiang Zeng",
+      title             = "Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)",
+      doi               = "10.1016/j.cemconres.2025.107998",
+      year              = "2025",
+      journal           = "Cement and Concrete Research",
+      volume            = "198",
+      pages             = "107998",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Yang, “Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)”, <i>Cement and Concrete Research</i>, vol. 198, p. 107998, 2025, doi: 10.1016/j.cemconres.2025.107998.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Rijiao, Chengji Xu, Sen Fang, Xinze Li, Yu Peng, Zhendi Wang, and Qiang Zeng. “Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)”. <i>Cement and Concrete Research</i> 198 (2025): 107998. https://doi.org/10.1016/j.cemconres.2025.107998.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

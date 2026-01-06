@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behzad Nematollahi, Ming Xia, Praful Vijay, Jay Sanjayan
+    - footer
+title: Nematollahi Behzad, Xia Ming, Vijay Praful, Sanjayan Jay
 description:
 tags:
  - application
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties of Extrusion-Based 3D Printable Geopolymers for Digital Construction Applications ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/b978-0-12-815481-6.00018-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-12-815481-6.00018-x</a>
+#Properties of Extrusion-Based 3D Printable Geopolymers for Digital Construction Applications ([2019-02](date/2019/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00018-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00018-x" target="_blank">10.1016/b978-0-12-815481-6.00018-x</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <a href="../../../author/vijay_praful"><b>Vijay</b>&nbsp;Praful</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Contribution - 3D Concrete Printing Technology, pp. 371-388
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing Technology, pp. 371-388
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#extrusion`](keyword/extrusion)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%20Extrusion-Based%203D%20Printable%20Geopolymers%20for%20Digital%20Construction%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071432500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2915209560" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-12-815481-6.00018-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-12-815481-6.00018-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM), commonly known as three-dimensional (3D) printing is rapidly transforming manufacturing, aerospace, and medical industries. It has “the potential to revolutionize the way we make almost everything” as said by the former US President, Barack Obama in his state of the union address. If the 3D printing can be used with concrete, it can potentially change the way we build concrete structures, saving huge costs in formworks and allow freeform construction. Freeform construction would enhance architectural expression, where the cost of producing a structural component will be independent of the shape, providing the much-needed freedom from the rectilinear design [1,2]. In the past few years, several emerging 3D concrete printing (3DCP) technologies have been explored in the construction industry. These 3DCP technologies are principally based on two techniques, namely: (1) powder-based; and (2) extrusion-based techniques. The powder-based 3DCP technique is an offsite process, which has the potential to make building components with complex geometries such as panels, permanent formworks and interior structures which can be later assembled onsite [1,2].There is a demand in the construction industry for such components. Based on the available construction systems, the use of expensive formworks are essential to build such components. The powder-based 3DCP technique can satisfy this industrial demand as it is capable ofmaking robust and durable building components at a reasonable speed without the use of expensive formworks. However, the commercially available powder-based 3D printers usually use proprietary printing materials, which are not suitable for the construction applications. To tackle this limitation, the authors of this study developed an innovative methodology to adopt geopolymer materials in commercially available powder-based 3D printers for construction applications [2-9].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/dodd_elise"><b>Dodd</b> Elise</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../marc_xia_dodd_sanj.2017.EoDTotMPoEB3PC/">Effect of Delay-Time on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
@@ -75,11 +53,10 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/shazad_qamar"><b>Shazad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../shaz_li.2025.IBEoSSaDi3PCS/">Interfacial Bond-Effects on Shear-Strength and Damage in 3D Printed Concrete Structures:<br/>A Combined Experimental and Numerical Study</a></li>
       <li><a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC/">A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete</a></li>
@@ -101,4 +78,34 @@ tags:
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../arun_nema_bong_rana.2019.HPo3PUHPFRCfDCA/">Hardened Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction Applications</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bong_nema_xia_naza.2019.Po3PDFRGCfDCA/">Properties of 3D Printable Ductile Fiber-Reinforced Geopolymer Composite for Digital Construction Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nema_xia_vija_sanj.2019.PoEB3PGfDCA,
+      author            = "Behzad Nematollahi and Ming Xia and Praful Vijay and Jay Gnananandan Sanjayan",
+      title             = "Properties of Extrusion-Based 3D Printable Geopolymers for Digital Construction Applications",
+      doi               = "10.1016/b978-0-12-815481-6.00018-x",
+      year              = "2019",
+      pages             = "371--388",
+      booktitle         = "3D Concrete Printing Technology: Construction and Building Applications",
+      editor            = "Jay Gnananandan Sanjayan and Ali Nazari and Behzad Nematollahi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Nematollahi, M. Xia, P. Vijay and J. G. Sanjayan, “Properties of Extrusion-Based 3D Printable Geopolymers for Digital Construction Applications”, in <i>3D Concrete Printing Technology: Construction and Building Applications</i>,  2019, pp. 371–388. doi: 10.1016/b978-0-12-815481-6.00018-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nematollahi, Behzad, Ming Xia, Praful Vijay, and Jay Gnananandan Sanjayan. “Properties of Extrusion-Based 3D Printable Geopolymers for Digital Construction Applications”. In <i>3D Concrete Printing Technology: Construction and Building Applications</i>, edited by Jay Gnananandan Sanjayan, Ali Nazari, and Behzad Nematollahi, 371–88, 2019. https://doi.org/10.1016/b978-0-12-815481-6.00018-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

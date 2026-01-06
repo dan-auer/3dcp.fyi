@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pradeep Saravanan, Ananth Ramaswamy
+    - footer
+title: Saravanan Pradeep, Ramaswamy Ananth
 description:
 tags:
  - buildability
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.jobe.2025.114779" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114779</a>
+#Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114779" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114779" target="_blank">10.1016/j.jobe.2025.114779</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-2501-5814" title="ORCID: 0009-0007-2501-5814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saravanan_pradeep"><b>Saravanan</b>&nbsp;Pradeep</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0391-8952" title="ORCID: 0000-0003-0391-8952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b>&nbsp;Ananth</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114779
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a> <a href="https://orcid.org/0009-0007-2501-5814" title="ORCID: 0009-0007-2501-5814" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="https://orcid.org/0000-0003-0391-8952" title="ORCID: 0000-0003-0391-8952" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114779
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#model`](keyword/model)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modelling%20Buildability%20Performance%20of%203D%20Printable%20Cementitious%20Materials%20Using%20Chemo-Mechanical%20Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023318909&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416713225" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114779" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114779?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study develops a chemo-mechanical numerical framework to simulate the buildability behavior of 3D-printed cementitious materials. The model incorporates a quiet element activation method to replicate the layer - by - layer printing process accurately. The hydration kinetics are governed by alite phase hydration up to the dormant period, capturing the early-age chemical evolution of the material. Time-dependent mechanical behavior is modeled using a combination of Burger’s viscoelastic model (early age creep) and the Drucker – Prager plasticity criterion, both linked through an aging mechanism (hydration process) to represent the evolving mechanical properties of the mix. The proposed model is applied to evaluate the buildability performance of two distinct printable mortar mixes. Simulation results demonstrate strong agreement with observed buildability trends and effectively capture different failure modes across varied printing geometries, including straight wall, semi-hollow, and hollow structures. Furthermore, the influence of key printing process parameters, such as material placement time, printing speed, and layer height, on buildability is systematically investigated. These findings provide a more predictive understanding of early-age mechanical stability in 3DCP and offer valuable insights for optimizing process parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_chen_schl.2023.DEACIBo3PC/">Does Early-Age Creep Influence Buildability of 3D Printed Concrete?:<br/>Insights from Numerical Simulations</a></li>
@@ -97,7 +78,36 @@ tags:
       <li><a href="../../../author/zhang_tianjie"><b>Zhang</b> Tianjie</a>, <a href="../../../author/wang_donglei"><b>Wang</b> Donglei</a>, <a href="../../../author/lu_yang"><b>Lu</b> Yang</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_wang_lu.2025.ANSINNfStFBoFCPi3CP/">A Navier-Stokes-Informed Neural Network for Simulating the Flow-Behavior of Flowable Cement-Paste in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sara_rama.2025.MBPo3PCMUCMM,
+      author            = "Pradeep Saravanan and Ananth Ramaswamy",
+      title             = "Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model",
+      doi               = "10.1016/j.jobe.2025.114779",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114779",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Saravanan  and A. Ramaswamy, “Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model”, <i>Journal of Building Engineering</i>, p. 114779, 2025, doi: 10.1016/j.jobe.2025.114779.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Saravanan, Pradeep, and Ananth Ramaswamy. “Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model”. <i>Journal of Building Engineering</i>, 2025, 114779. https://doi.org/10.1016/j.jobe.2025.114779.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

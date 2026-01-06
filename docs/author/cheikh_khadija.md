@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # el Cheikh Khadija 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khou_chei_schu_caza.2025.UVMf3PoMMwRS/">Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand</a></li>
   <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/rahier_hubert"><b>Rahier</b> Hubert</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_chei_rahi.2025.MftDaOoPSASUatBo3PM/">Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials</a></li>
   <li><a href="../../../author/muy_yeakleang"><b>Muy</b> Yeakleang</a>, <a href="../../../author/courard_luc"><b>Courard</b> Luc</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muy_cour_bult_remo.2024.IoNDotAoCS/">Influence of Nozzle-Diameter on the Anisotropy of Compressive Strength:<br/>Measured on 3D Printing Concrete Designed with Recycled Fine Aggregates</a></li>

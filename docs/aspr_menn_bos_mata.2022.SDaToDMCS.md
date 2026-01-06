@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Domenico Asprone, Costantino Menna, Freek Bos, Jaime Mata-Falcón, Liberato Ferrara, Ferdinando Auricchio, Ezio Cadoni, Vítor Cunha, Laura Esposito, Asko Fromm, Steffen Grünewald, Harald Kloft, Viktor Mechtcherine, Venkatesh Nerella, Roel Schipper
+    - footer
+title: Asprone Domenico, Menna Costantino, Bos Freek, Mata-Falcón Jaime, Ferrara Liberato, Auricchio Ferdinando, Cadoni Ezio, Cunha Vítor, Esposito Laura, Fromm Asko, Grünewald Steffen, Kloft Harald, Mechtcherine Viktor, Nerella Venkatesh, Schipper Roel
 description:
 tags:
  - concrete
@@ -14,41 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://repository.tudelft.nl/islandora/object/uuid%3A40002069-54f1-422d-b399-aae98788dcfb/datastream/OBJ/download) Structural Design and Testing of Digitally Manufactured Concrete Structures ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1007/978-3-030-90535-4_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-90535-4_6</a>
+#Structural Design and Testing of Digitally Manufactured Concrete Structures ([2022-01](date/2022/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3A40002069-54f1-422d-b399-aae98788dcfb/datastream/OBJ/download) <a href="https://doi.org/10.1007/978-3-030-90535-4_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-90535-4_6" target="_blank">10.1007/978-3-030-90535-4_6</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asprone_domenico"><b>Asprone</b>&nbsp;Domenico</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3735-2400" title="ORCID: 0000-0002-3735-2400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/auricchio_ferdinando"><b>Auricchio</b>&nbsp;Ferdinando</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1254-1619" title="ORCID: 0000-0002-1254-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cadoni_ezio"><b>Cadoni</b>&nbsp;Ezio</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b>&nbsp;Vítor</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/esposito_laura"><b>Esposito</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1592-0857" title="ORCID: 0000-0003-1592-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fromm_asko"><b>Fromm</b>&nbsp;Asko</a></span>, <a href="../../../author/grunewald_steffen"><b>Grünewald</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0549-4516" title="ORCID: 0000-0003-0549-4516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schipper_h_roel"><b>Schipper</b>&nbsp;Roel</a></span><br>
+Contribution - Digital Fabrication with Cement-Based Materials, pp. 187-222
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a> <a href="https://orcid.org/0000-0002-3735-2400" title="ORCID: 0000-0002-3735-2400" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cadoni_ezio"><b>Cadoni</b> Ezio</a> <a href="https://orcid.org/0000-0002-1254-1619" title="ORCID: 0000-0002-1254-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> <a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fromm_asko"><b>Fromm</b> Asko</a> <a href="https://orcid.org/0000-0003-1592-0857" title="ORCID: 0000-0003-1592-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/grunewald_steffen"><b>Grünewald</b> Steffen</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> <a href="https://orcid.org/0000-0003-0549-4516" title="ORCID: 0000-0003-0549-4516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Digital Fabrication with Cement-Based Materials, pp. 187-222
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#structure`](keyword/structure)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Design%20and%20Testing%20of%20Digitally%20Manufactured%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123588020&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,18 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4206213520" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-90535-4_6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-90535-4_6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The form freedom enabled by digital fabrication with concrete technologies provides advantages for a wide range of concrete based objects, from architectural to structural elements. The current chapter focuses on the specifics of structural design and engineering of DFC with emphasis on those technologies based on Additive Manufacturing with extrusion. Since it is a new and innovative way to build, a clear common approach to structural engineering has not yet been developed. As a result, this chapter aims to introduce the specific challenges of structural design and engineering with the additive manufacturing technology, providing an overview of structural typologies that have been developed (especially concerning the reinforcement strategies, including fibre reinforcement). Furthermore, the structural principles adopted in DFC and the codified approaches used in conventional reinforced concrete is compared, and putative structural testing procedures and validation methods for DFC are reported.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -113,11 +81,42 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zaha_cunh_pere_gonc.2019.TEoLDotCBoa3PCBM/">The Effect of Loading-Direction on the Compressive Behavior of a 3D Printed Cement-Based Material</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/pressmair_nadine"><b>Pressmair</b> Nadine</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../gebh_mata_amma_pres.2024.ESEwDC/">Enhancing Structural Efficiency with Digital Concrete:<br/>Principles, Opportunities and Case Studies</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_lagh.2023.PBAM/">Powder-Bed Additive Manufacturing</a></li>
       <li><a href="../../../author/kulaienko_oleh"><b>Kulaienko</b> Oleh</a>, <a href="../../../author/kabus_oleksii"><b>Kabus</b> Oleksii</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kula_kabu.2023.3CPT/">3D Concrete Printing Technology:<br/>Implementing Tasks in Ukraine</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../busw.2022.CDC2S/">CCR Digital Concrete 2022 SI:<br/>Editorial</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{aspr_menn_bos_mata.2022.SDaToDMCS,
+      author            = "Domenico Asprone and Costantino Menna and Freek Paul Bos and Jaime Mata-Falcón and Liberato Ferrara and Ferdinando Auricchio and Ezio Cadoni and Vítor M. C. F. Cunha and Laura Esposito and Asko Fromm and Steffen Grünewald and Harald Kloft and Viktor Mechtcherine and Venkatesh Naidu Nerella and Roel H. Schipper",
+      title             = "Structural Design and Testing of Digitally Manufactured Concrete Structures",
+      doi               = "10.1007/978-3-030-90535-4_6",
+      year              = "2022",
+      volume            = "36",
+      pages             = "187--222",
+      booktitle         = "Digital Fabrication with Cement-Based Materials",
+      editor            = "Nicolas Roussel and Dirk Lowke",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Asprone, “Structural Design and Testing of Digitally Manufactured Concrete Structures”, in <i>Digital Fabrication with Cement-Based Materials</i>,  2022, vol. 36, pp. 187–222. doi: 10.1007/978-3-030-90535-4_6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Asprone, Domenico, Costantino Menna, Freek Paul Bos, Jaime Mata-Falcón, Liberato Ferrara, Ferdinando Auricchio, Ezio Cadoni, et al.. “Structural Design and Testing of Digitally Manufactured Concrete Structures”. In <i>Digital Fabrication with Cement-Based Materials</i>, edited by Nicolas Roussel and Dirk Lowke, 36:187–222, 2022. https://doi.org/10.1007/978-3-030-90535-4_6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

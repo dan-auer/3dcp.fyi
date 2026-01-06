@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jacques Kruger, Stephan Zeranka, Gideon Zijl
+    - footer
+title: Kruger Jacques, Zeranka Stephan, Zijl Gideon
 description:
 tags:
  - base
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Rheology-Based Quasi-Static Shape-Retention-Model for Digitally Fabricated Concrete ([2020-04](date/2020/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.119241" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.119241</a>
+#A Rheology-Based Quasi-Static Shape-Retention-Model for Digitally Fabricated Concrete ([2020-04](date/2020/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.119241" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119241" target="_blank">10.1016/j.conbuildmat.2020.119241</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b>&nbsp;Stephan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 254
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 254, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#model`](keyword/model)
-    [`#quasi`](keyword/quasi)
-    [`#retainment`](keyword/retainment)
-    [`#rheology`](keyword/rheology)
-    [`#shape`](keyword/shape)
-    [`#static`](keyword/static)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/quasi"><button class="btn">#quasi</button></a> <a href="../../keyword/retainment"><button class="btn">#retainment</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Rheology-Based%20Quasi-Static%20Shape-Retention-Model%20for%20Digitally%20Fabricated%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083679288&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3019303873" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.119241" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.119241?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The shape retention capability of an extruded filament is of cardinal importance for quality 3D printed concrete elements. Not only is it a prerequisite for surface aesthetics, but it also contributes towards buildability. Optimisation of filament layer height allows for construction time and cost saving possibilities. This research develops the theoretical framework for an analytical shape retention model that predicts the maximum stable filament layer height at which no plastic yielding occurs, based only on the rheology of a material. The Mohr-Coulomb failure criterion is employed and the model simplified by conservatively negating the effect of interparticle friction. A model is also developed that determines whether sufficient friction is present to induce confinement within a filament layer. An experimental verification process via filament extrusion confirms the applicability of the model. A 6.7% difference in stable filament layer height is obtained by comparison with a finite element analysis, proffering as numerical verification for the model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../cho_krug_rooy_zera.2019.Ro3PLFCINS/">Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica</a></li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
@@ -87,8 +64,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../vant_boel_cort_stee.2019.CSBaMPTOf3PCS/">Compliance, Stress-Based and Multi-Physics Topology-Optimization for 3D Printed Concrete Structures</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "50 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/verma_shilpi"><b>Verma</b> Shilpi</a>, <a href="../../../author/parghi_anant"><b>Parghi</b> Anant</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../verm_parg.2025.MLBPoCSiAMoCT/">Machine Learning-Based Prediction of Compressive Strength in Additive Manufacturing of Concrete Technology</a></li>
       <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
@@ -139,7 +116,34 @@ tags:
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
-      <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../krug_cho_zera_vint.2020.3CPPOfHRDCAPC/">3D Concrete Printer Parameter Optimization for High-Rate Digital Construction Avoiding Plastic Collapse</a></li>
-      <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../krug_zera_zijl.2019.QCPo3CPvRBAM/">Quantifying Constructability Performance of 3D Concrete Printing via Rheology-Based Analytical Models</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{krug_zera_zijl.2020.ARBQSSRMfDFC,
+      author            = "Jacques Pienaar Kruger and Stephan Zeranka and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "A Rheology-Based Quasi-Static Shape-Retention-Model for Digitally Fabricated Concrete",
+      doi               = "10.1016/j.conbuildmat.2020.119241",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "254",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. P. Kruger, S. Zeranka and G. P. A. G. van Zijl, “A Rheology-Based Quasi-Static Shape-Retention-Model for Digitally Fabricated Concrete”, <i>Construction and Building Materials</i>, vol. 254, 2020, doi: 10.1016/j.conbuildmat.2020.119241.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kruger, Jacques Pienaar, Stephan Zeranka, and Gideon Pieter Adriaan Greeff van Zijl. “A Rheology-Based Quasi-Static Shape-Retention-Model for Digitally Fabricated Concrete”. <i>Construction and Building Materials</i> 254 (2020). https://doi.org/10.1016/j.conbuildmat.2020.119241.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

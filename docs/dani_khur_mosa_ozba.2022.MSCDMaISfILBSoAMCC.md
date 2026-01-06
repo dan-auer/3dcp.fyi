@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Aamar Danish, Kiran Khurshid, Mohammad Mosaberpanah, Togay Ozbakkaloglu, Muhammad Salim
+    - footer
+title: Danish Aamar, Khurshid Kiran, Mosaberpanah Mohammad, Ozbakkaloglu Togay, Salim Muhammad
 description:
 tags:
  - additive
@@ -23,40 +24,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2022.e01217) Micro-Structural Characterization, Driving Mechanisms, and Improvement-Strategies for Inter-Layer Bond Strength of Additive Manufactured Cementitious Composites:<br/>:aca-blank: A Review ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.cscm.2022.e01217" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2022.e01217</a>
+#Micro-Structural Characterization, Driving Mechanisms, and Improvement-Strategies for Inter-Layer Bond Strength of Additive Manufactured Cementitious Composites&nbsp;([2022-06](date/2022/06))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2022.e01217) <a href="https://doi.org/10.1016/j.cscm.2022.e01217" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e01217" target="_blank">10.1016/j.cscm.2022.e01217</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2905-3638" title="ORCID: 0000-0002-2905-3638" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/danish_aamar"><b>Danish</b>&nbsp;Aamar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0262-3178" title="ORCID: 0000-0002-0262-3178" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khurshid_kiran"><b>Khurshid</b>&nbsp;Kiran</a></span>, <a href="../../../author/mosaberpanah_ali_mohammad"><b>Mosaberpanah</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b>&nbsp;Togay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3756-3072" title="ORCID: 0000-0002-3756-3072" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salim_usama_muhammad"><b>Salim</b>&nbsp;Muhammad</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 17
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/danish_aamar"><b>Danish</b> Aamar</a> <a href="https://orcid.org/0000-0002-2905-3638" title="ORCID: 0000-0002-2905-3638" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khurshid_kiran"><b>Khurshid</b> Kiran</a> <a href="https://orcid.org/0000-0002-0262-3178" title="ORCID: 0000-0002-0262-3178" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mosaberpanah_ali_mohammad"><b>Mosaberpanah</b> Mohammad</a>
-,     <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> <a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salim_usama_muhammad"><b>Salim</b> Muhammad</a> <a href="https://orcid.org/0000-0002-3756-3072" title="ORCID: 0000-0002-3756-3072" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 17
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bond`](keyword/bond)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#improvement`](keyword/improvement)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mechanism`](keyword/mechanism)
-    [`#micro`](keyword/micro)
-    [`#review`](keyword/review)
-    [`#strategy`](keyword/strategy)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Micro-Structural%20Characterization%2C%20Driving%20Mechanisms%2C%20and%20Improvement-Strategies%20for%20Inter-Layer%20Bond%20Strength%20of%20Additive%20Manufactured%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131678713&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281619990" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2022.e01217" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2022.e01217?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed cementitious composites (3DPCC) are one of the contemporary digitization and fabrication techniques being adopted by the construction industry. Improving interlayer bond strength (IBS) is one of the most significant barriers to commercializing 3DPCC. This article focuses on the characterization of interlayer bond mechanism via microstructural characterization techniques such as scanning electron microscopy, computed tomography imaging, and mercury intrusion porosimetry. Moreover, different driving mechanisms that result in poor IBS of 3DPCC are critically analyzed, including thixotropic behavior, surface moisture content, mix design, surface roughness, time gap, nozzle standoff distance, and curing regime. Finally, this article thoroughly reviews mitigation strategies (such as mechanical interlocking and chemical bonding agent) to determine the best appropriate strategy for enhancing the IBS of 3DPCC. The results reveal that the poor IBS of 3DPCC is due to the formation of voids between the layers, which is caused primarily by a loss of surface moisture content and thixotropic behavior. However, because of its complex dependence on various parameters, the precise cause of weak interfacial properties is still unknown. With the use of a chemical bonding agent and mechanical interlocking mechanisms, the IBS of 3DPCC can be increased by 20–30% and 50–60%, respectively. The long-term performance of mitigation strategies, on the other hand, has not been thoroughly investigated. This article will help researchers understand the mechanism underlying 3DPCC's poor interfacial properties and develop new or improved enhancement strategies to promote 3DPCC preparation in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "65 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -148,8 +119,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
@@ -162,4 +133,33 @@ tags:
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../quah_tay_lim_tan.2023.C3P/">Concrete 3D Printing:<br/>Process-Parameters for Process-Control, Monitoring and Diagnosis in Automation and Construction</a></li>
       <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../che_yang.2022.HPPSaCSoEB3PCPCNCC/">Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dani_khur_mosa_ozba.2022.MSCDMaISfILBSoAMCC,
+      author            = "Aamar Danish and Kiran Khurshid and Mohammad Ali Mosaberpanah and Togay Ozbakkaloglu and Muhammad Usama Salim",
+      title             = "Micro-Structural Characterization, Driving Mechanisms, and Improvement-Strategies for Inter-Layer Bond Strength of Additive Manufactured Cementitious Composites: A Review",
+      doi               = "10.1016/j.cscm.2022.e01217",
+      year              = "2022",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "17",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Danish, K. Khurshid, M. A. Mosaberpanah, T. Ozbakkaloglu and M. U. Salim, “Micro-Structural Characterization, Driving Mechanisms, and Improvement-Strategies for Inter-Layer Bond Strength of Additive Manufactured Cementitious Composites: A Review”, <i>Case Studies in Construction Materials</i>, vol. 17, 2022, doi: 10.1016/j.cscm.2022.e01217.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Danish, Aamar, Kiran Khurshid, Mohammad Ali Mosaberpanah, Togay Ozbakkaloglu, and Muhammad Usama Salim. “Micro-Structural Characterization, Driving Mechanisms, and Improvement-Strategies for Inter-Layer Bond Strength of Additive Manufactured Cementitious Composites: A Review”. <i>Case Studies in Construction Materials</i> 17 (2022). https://doi.org/10.1016/j.cscm.2022.e01217.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

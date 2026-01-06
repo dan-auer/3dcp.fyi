@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lewei He, Bingzhi Chen, Qimin Liu, Hao Chen, Hua Li, Wai Chow, Jiaoning Tang, Zhibin Du, Yang He, Jiahui Pan
+    - footer
+title: He Lewei, Chen Bingzhi, Liu Qimin, Chen Hao, Li Hua, Chow Wai, Tang Jiaoning, Du Zhibin, He Yang, Pan Jiahui
 description:
 tags:
  - concrete
@@ -19,41 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2024.104296) A Quasi-Exponential Distribution of Interfacial Voids and Its Effect on the Inter-Layer Strength of 3D Printed Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.addma.2024.104296" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104296</a>
+#A Quasi-Exponential Distribution of Interfacial Voids and Its Effect on the Inter-Layer Strength of 3D Printed Concrete ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2024.104296) <a href="https://doi.org/10.1016/j.addma.2024.104296" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104296" target="_blank">10.1016/j.addma.2024.104296</a>
 
--------------------------
+<a href="../../../author/he_lewei"><b>He</b>&nbsp;Lewei</a></span>, <a href="../../../author/chen_bingzhi"><b>Chen</b>&nbsp;Bingzhi</a></span>, <a href="../../../author/liu_qimin"><b>Liu</b>&nbsp;Qimin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0520-6190" title="ORCID: 0000-0003-0520-6190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_hao"><b>Chen</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4899-9477" title="ORCID: 0000-0003-4899-9477" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hua"><b>Li</b>&nbsp;Hua</a></span>, <a href="../../../author/chow_tuck_wai"><b>Chow</b>&nbsp;Wai</a></span>, <a href="../../../author/tang_jiaoning"><b>Tang</b>&nbsp;Jiaoning</a></span>, <a href="../../../author/du_zhibin"><b>Du</b>&nbsp;Zhibin</a></span>, <a href="../../../author/he_yang"><b>He</b>&nbsp;Yang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7576-6743" title="ORCID: 0000-0002-7576-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jiahui"><b>Pan</b>&nbsp;Jiahui</a></span><br>
+Journal Article - Additive Manufacturing, No. 104296
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/he_lewei"><b>He</b> Lewei</a>
-,     <a href="../../../author/chen_bingzhi"><b>Chen</b> Bingzhi</a>
-,     <a href="../../../author/liu_qimin"><b>Liu</b> Qimin</a>
-,     <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> <a href="https://orcid.org/0000-0003-0520-6190" title="ORCID: 0000-0003-0520-6190" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_hua"><b>Li</b> Hua</a> <a href="https://orcid.org/0000-0003-4899-9477" title="ORCID: 0000-0003-4899-9477" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>
-,     <a href="../../../author/tang_jiaoning"><b>Tang</b> Jiaoning</a>
-,     <a href="../../../author/du_zhibin"><b>Du</b> Zhibin</a>
-,     <a href="../../../author/he_yang"><b>He</b> Yang</a>
-,     <a href="../../../author/pan_jiahui"><b>Pan</b> Jiahui</a> <a href="https://orcid.org/0000-0002-7576-6743" title="ORCID: 0000-0002-7576-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104296
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#distribution`](keyword/distribution)
-    [`#effect`](keyword/effect)
-    [`#exponent`](keyword/exponent)
-    [`#inter`](keyword/inter)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#quasi`](keyword/quasi)
-    [`#strength`](keyword/strength)
-    [`#void`](keyword/void)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/exponent"><button class="btn">#exponent</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quasi"><button class="btn">#quasi</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Quasi-Exponential%20Distribution%20of%20Interfacial%20Voids%20and%20Its%20Effect%20on%20the%20Inter-Layer%20Strength%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198394260&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400313332" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104296" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104296?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this work, a novel theoretical model of the void length probability distribution in 3D printed concrete is established based on a zigzag analog of the layer interface. A quasi-exponential distribution of void length is predicted and subsequently validated on both the zigzag analog and the actual 3D printed concrete, with different void ratios that determine the descending rate and node intervals that decide the horizontal scaling of the distribution. Moreover, the relationships between the interlayer strength, void ratio, and quantity of voids are also studied based on the theoretical model. It is found that the quantity of voids is symmetric about a void ratio of 0.5, and the decrease in the interlayer strength against the void ratio is non-linear which is approximated well by combined exponential and linear functions. This work is believed to reveal the nature of the interfacial void distributions and significantly advance the understanding of the layer interface in 3D printed concrete. The code for the zigzag analog with the computation of its interlayer strength is publicly available at: https://github.com/Human-HLW/Layer-interface.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
@@ -113,8 +82,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
@@ -124,4 +93,33 @@ tags:
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE/">Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/pan_jiahui"><b>Pan</b> Jiahui</a>, <a href="../../../author/hee_sheng_yu"><b>Hee</b> Yu</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP/">Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{he_chen_liu_chen.2024.AQEDoIVaIEotILSo3PC,
+      author            = "Lewei He and Bingzhi Chen and Qimin Liu and Hao Chen and Hua Li and Wai Tuck Chow and Jiaoning Tang and Zhibin Du and Yang He and Jiahui Pan",
+      title             = "A Quasi-Exponential Distribution of Interfacial Voids and Its Effect on the Inter-Layer Strength of 3D Printed Concrete",
+      doi               = "10.1016/j.addma.2024.104296",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104296",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. He, “A Quasi-Exponential Distribution of Interfacial Voids and Its Effect on the Inter-Layer Strength of 3D Printed Concrete”, <i>Additive Manufacturing</i>, p. 104296, 2024, doi: 10.1016/j.addma.2024.104296.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">He, Lewei, Bingzhi Chen, Qimin Liu, Hao Chen, Hua Li, Wai Tuck Chow, Jiaoning Tang, Zhibin Du, Yang He, and Jiahui Pan. “A Quasi-Exponential Distribution of Interfacial Voids and Its Effect on the Inter-Layer Strength of 3D Printed Concrete”. <i>Additive Manufacturing</i>, 2024, 104296. https://doi.org/10.1016/j.addma.2024.104296.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

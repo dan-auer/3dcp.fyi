@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenzhen Zhi, Yanfei Guo, Huahui Qi, Hongbo Tan, Zihao Jin, Yujiang Wang, Ying Su, Baoguo Ma
+    - footer
+title: Zhi Zhenzhen, Guo Yanfei, Qi Huahui, Tan Hongbo, Jin Zihao, Wang Yujiang, Su Ying, Ma Baoguo
 description:
 tags:
  - alkali
@@ -14,34 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.mtcomm.2024.110864" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.mtcomm.2024.110864</a>
+#Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mtcomm.2024.110864" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2024.110864" target="_blank">10.1016/j.mtcomm.2024.110864</a>
 
--------------------------
+<a href="../../../author/zhi_zhenzhen"><b>Zhi</b>&nbsp;Zhenzhen</a></span>, <a href="../../../author/guo_yanfei"><b>Guo</b>&nbsp;Yanfei</a></span>, <a href="../../../author/qi_huahui"><b>Qi</b>&nbsp;Huahui</a></span>, <a href="../../../author/tan_hongbo"><b>Tan</b>&nbsp;Hongbo</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-1709-8569" title="ORCID: 0009-0003-1709-8569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_zihao"><b>Jin</b>&nbsp;Zihao</a></span>, <a href="../../../author/wang_yujiang"><b>Wang</b>&nbsp;Yujiang</a></span>, <a href="../../../author/su_ying"><b>Su</b>&nbsp;Ying</a></span>, <a href="../../../author/ma_baoguo"><b>Ma</b>&nbsp;Baoguo</a></span><br>
+Journal Article - Materials Today Communications, Vol. 41, No. 110864
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhi_zhenzhen"><b>Zhi</b> Zhenzhen</a>
-,     <a href="../../../author/guo_yanfei"><b>Guo</b> Yanfei</a>
-,     <a href="../../../author/qi_huahui"><b>Qi</b> Huahui</a>
-,     <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a>
-,     <a href="../../../author/jin_zihao"><b>Jin</b> Zihao</a> <a href="https://orcid.org/0009-0003-1709-8569" title="ORCID: 0009-0003-1709-8569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yujiang"><b>Wang</b> Yujiang</a>
-,     <a href="../../../author/su_ying"><b>Su</b> Ying</a>
-,     <a href="../../../author/ma_baoguo"><b>Ma</b> Baoguo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today Communications, Vol. 41, No. 110864
-
-:aca-blank:{ .lg .middle}
-    [`#alkali`](keyword/alkali)
-    [`#effect`](keyword/effect)
-    [`#hydration`](keyword/hydration)
-    [`#metal`](keyword/metal)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/metal"><button class="btn">#metal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Alkali-Metal-Sulfates%20on%20Hydration%20Properties%20of%20Alpha-Calcium-Sulfate-Hemihydrate%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208058593&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404048833" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.mtcomm.2024.110864" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.mtcomm.2024.110864?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing (3DP) technology is an important means of achieving decorative convenience, personalization, and functional integration for future building construction. However, the setting time and hydration process of calcium sulfate hemihydrate (HH) present chanllenges for the 3DP application. This study aims to investigate the accelerating effect of alkali metal sulfates accelerators on the hydration transformation of HH into calcium sulfate dihydrate (DH). The setting time, conductivity, Ca2+ ion concentration, size distribution, and zeta (ζ) potential of gypsum slurries with different accelerators were measured. The results demonstrated that the accelerators significantly enhanced the hydration process of αlpha-calcium sulfate hemihydrate (α-HH). On the effect of accelerators, the setting times of gypsum slurries containing 30 wt% lithium sulfate (LS), sodium sulfate (NS) and potassium sulfate (KS) were accelerated by 82.56 %, 86.06 % and 97.13 %, respectively, compared to the control sample. The crystal particle sizes of hydration products decreased, and the absolute values of ζ potential increased to 1.85 mV, 3.1 mV, and 5.3 mV, respectively. The X-ray photoelectron spectroscopy (XPS) analysis revealed a shift in the peak values of the hardened specimens towards higher electric fields. This was accompanied by improved ion dispersion within the slurry, resulting in enhanced supersaturation of calcium sulfate dihydrate and crystallization of the crystal nuclei. Thus, the suitable accelerators can effectively achieve rapid solidification and hardening of high-fluidity gypsum slurries.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bhat_sant.2020.EBo3PCbSoAAoS/">Enhancing Buildability of 3D Printable Concrete by Spraying of Accelerating-Admixture on Surface</a></li>
@@ -111,11 +87,39 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
-      <li><a href="../../../author/zhi_zhenzhen"><b>Zhi</b> Zhenzhen</a>, <a href="../../../author/guo_yanfei"><b>Guo</b> Yanfei</a>, <a href="../../../author/qi_huahui"><b>Qi</b> Huahui</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhi_guo_qi_tan.2024.EoAMSoHPoACSHf3P/">Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/zhi_zhenzhen"><b>Zhi</b> Zhenzhen</a>, <a href="../../../author/guo_yanfei"><b>Guo</b> Yanfei</a>, <a href="../../../author/qi_huahui"><b>Qi</b> Huahui</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhi_guo_qi_tan.2024.EoAMSoHPoACSHf3P/">Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhi_guo_qi_tan.2024.EoAMSoHPoACSHf3P,
+      author            = "Zhenzhen Zhi and Yanfei Guo and Huahui Qi and Hongbo Tan and Zihao Jin and Yujiang Wang and Ying Su and Baoguo Ma",
+      title             = "Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing",
+      doi               = "10.1016/j.mtcomm.2024.110864",
+      year              = "2024",
+      journal           = "Materials Today Communications",
+      volume            = "41",
+      pages             = "110864",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zhi, “Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing”, <i>Materials Today Communications</i>, vol. 41, p. 110864, 2024, doi: 10.1016/j.mtcomm.2024.110864.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhi, Zhenzhen, Yanfei Guo, Huahui Qi, Hongbo Tan, Zihao Jin, Yujiang Wang, Ying Su, and Baoguo Ma. “Effect of Alkali-Metal-Sulfates on Hydration Properties of Alpha-Calcium-Sulfate-Hemihydrate for 3D Printing”. <i>Materials Today Communications</i> 41 (2024): 110864. https://doi.org/10.1016/j.mtcomm.2024.110864.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

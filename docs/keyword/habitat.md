@@ -8,7 +8,7 @@ search:
 
 # #habitat
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a>, <a href="../../../author/sanchez_salgado_p"><b>Sánchez</b> P.</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/ezquerro_m_j"><b>Ezquerro</b> J.</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kach_sanc_moll_ezqu.2025.NAoC3PLH/">Numerical Analysis of Coaxially 3D Printed Lunar Habitats:<br/>Integrating Regolith and PCM for Passive Temperature Control</a></li>
   <li><a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/sumini_valentina"><b>Sumini</b> Valentina</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../flor_sumi_nabo.2024.ADaACoRSLH/">Automated Design and Additive Construction of Regolith-Shielded Lunar Habitats</a></li>
   <li><a href="../../../author/hoang_duy_pham"><b>Hoang</b> Pham</a>, <a href="../../../author/moon_hyosoo"><b>Moon</b> Hyosoo</a>, <a href="../../../author/ahn_yonghan"><b>Ahn</b> Yonghan</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../hoan_moon_ahn.2024.O3PCMfEH/">Optimizing 3D Printed Concrete Mixtures for Extraterrestrial Habitats:<br/>A Machine Learning Framework</a></li>

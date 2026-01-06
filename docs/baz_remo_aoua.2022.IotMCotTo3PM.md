@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bilal Baz, Sébastien Rémond, Georges Aouad
+    - footer
+title: Baz Bilal, Rémond Sébastien, Aouad Georges
 description:
 tags:
  - composite
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1680/jmacr.20.00193" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jmacr.20.00193</a>
+#Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars ([2021-01](date/2021/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.20.00193" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.20.00193" target="_blank">10.1680/jmacr.20.00193</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baz_bilal"><b>Baz</b>&nbsp;Bilal</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aouad_georges"><b>Aouad</b>&nbsp;Georges</a></span><br>
+Journal Article - Magazine of Concrete Research, Vol. 74, Iss. 6, pp. 271-283
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> <a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Magazine of Concrete Research, Vol. 74, Iss. 6, pp. 271-283
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#influence`](keyword/influence)
-    [`#mixing`](keyword/mixing)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20the%20Mix%20Composition%20on%20the%20Thixotropy%20of%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85094830248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3083911135" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jmacr.20.00193" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jmacr.20.00193?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication of concrete elements requires a better understanding of the rheological behaviour of the cementitious material used. Fresh concrete is known to be a thixotropic material having time-dependent characteristics. Moreover, fresh mortars used in three-dimensional (3D) printing should maintain a sufficient shear stress to avoid any deformation or failure during printing. This paper concentrates on the experimental investigation of the buildability properties of different printable materials, on the basis of shear stress, measured using the Fall cone test. The effect of different constituents such as high-range water reducer, viscosity-modifying agent, limestone filler and water content on the evolution of the yield stress in mortars, derived from the shear stress, are studied experimentally and discussed in detail. Accordingly, the change of variables induces a quasi-linear relationship with the growth of the structuration rate and structural build-up (Athix) of mortars, which corresponds to the variation of the yield stress with time. These findings enable the use of the Athix concept and the proposed curves for designing new printable mixes that better suit the buildability properties of large-scale 3D printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -87,8 +68,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tarh_tarh_perr.2025.FPoGFTR3PC/">Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete</a></li>
@@ -112,6 +93,36 @@ tags:
       <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/yao_xiao"><b>Yao</b> Xiao</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yue_hua_qian_yao.2022.IoAoSEAFSaFAiSF3PC/">Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
-      <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baz_remo_aoua.2022.IotMCotTo3PM,
+      author            = "Bilal Baz and Sébastien Rémond and Georges Aouad",
+      title             = "Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars",
+      doi               = "10.1680/jmacr.20.00193",
+      year              = "2022",
+      journal           = "Magazine of Concrete Research",
+      volume            = "74",
+      number            = "6",
+      pages             = "271--283",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Baz, S. Rémond and G. Aouad, “Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars”, <i>Magazine of Concrete Research</i>, vol. 74, no. 6, pp. 271–283, 2022, doi: 10.1680/jmacr.20.00193.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baz, Bilal, Sébastien Rémond, and Georges Aouad. “Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars”. <i>Magazine of Concrete Research</i> 74, no. 6 (2022): 271–83. https://doi.org/10.1680/jmacr.20.00193.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

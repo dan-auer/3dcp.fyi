@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yong Yuan, Yaxin Tao
+    - footer
+title: Yuan Yong, Tao Yaxin
 description:
 tags:
  - concrete
@@ -12,26 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1201/9781315182964-22) Mixing and Extrusion of Printing Concrete ([2018-03](date/2018/03))
-<a href="https://doi.org/10.1201/9781315182964-22" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781315182964-22</a>
+#Mixing and Extrusion of Printing Concrete ([2018-03](date/2018/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1201/9781315182964-22) <a href="https://doi.org/10.1201/9781315182964-22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781315182964-22" target="_blank">10.1201/9781315182964-22</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
+Contribution - Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures, pp. 183-187
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures, pp. 183-187
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mixing%20and%20Extrusion%20of%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85061302569&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,21 +34,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2905379602" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781315182964-22" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781315182964-22?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing gains great attention in recent years because it is labor-saving and free of formwork. The workability of printable concrete is of vital importance because it would change during 3D printing process. The printable concrete should be easy to convey in pipelines and well set in a short period of time after extrusion. The paper simulates the process of mixing and extrusion of printable concrete, with the means of CFD approach. Mixing processes are modelled on a predefined concrete mixture. The rheological behavior of the fresh mixture is expected to be given. For modelling extrusion flow of pumped fresh concrete is supposed through Archimedes auger. Where liquid Flash Setting Admixture (FSA) in liquid state is merged in. Simulating the distribution of liquid FSA aims at finding the way to inject it uniformly before printing concrete out of jet head. This study could provide hints to the design of printing schedule.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_lagh.2023.PBAM/">Powder-Bed Additive Manufacturing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_lagh.2023.SAM/">Shotcrete Additive Manufacturing</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../tao_lesa_titt_yuan.2022.ULPaaCftAiEB3CP/">Using Limestone-Powder as a Carrier for the Accelerator in Extrusion-Based 3D Concrete Printing</a></li>
@@ -68,4 +52,34 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{yuan_tao.2018.MaEoPC,
+      author            = "Yong Yuan and Yaxin Tao",
+      title             = "Mixing and Extrusion of Printing Concrete",
+      doi               = "10.1201/9781315182964-22",
+      year              = "2018",
+      pages             = "183--187",
+      booktitle         = "Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures: Computational Modelling of Concrete Structures",
+      editor            = "Günther Meschke and Bernhard L. A. Pichler and Jan G. Rots",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yuan  and Y. Tao, “Mixing and Extrusion of Printing Concrete”, in <i>Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures: Computational Modelling of Concrete Structures</i>,  2018, pp. 183–187. doi: 10.1201/9781315182964-22.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Yong, and Yaxin Tao. “Mixing and Extrusion of Printing Concrete”. In <i>Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures: Computational Modelling of Concrete Structures</i>, edited by Günther Meschke, Bernhard L. A. Pichler, and Jan G. Rots, 183–87, 2018. https://doi.org/10.1201/9781315182964-22.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

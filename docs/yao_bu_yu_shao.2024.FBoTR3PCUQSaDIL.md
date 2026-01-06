@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiming Yao, Dechao Bu, Jiamian Yu, Lijing Shao, Pan Feng, Cong Lu, Jingquan Wang
+    - footer
+title: Yao Yiming, Bu Dechao, Yu Jiamian, Shao Lijing, Feng Pan, Lu Cong, Wang Jingquan
 description:
 tags:
  - behavior
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03645" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03645</a>
+#Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2024.e03645" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03645" target="_blank">10.1016/j.cscm.2024.e03645</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_yiming"><b>Yao</b>&nbsp;Yiming</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-0686-1616" title="ORCID: 0009-0001-0686-1616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bu_dechao"><b>Bu</b>&nbsp;Dechao</a></span>, <a href="../../../author/yu_jiamian"><b>Yu</b>&nbsp;Jiamian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4209-3888" title="ORCID: 0000-0002-4209-3888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shao_lijing"><b>Shao</b>&nbsp;Lijing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2692-5971" title="ORCID: 0000-0002-2692-5971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_pan"><b>Feng</b>&nbsp;Pan</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span>, <a href="../../../author/wang_jingquan"><b>Wang</b>&nbsp;Jingquan</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03645
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a> <a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a> <a href="https://orcid.org/0009-0001-0686-1616" title="ORCID: 0009-0001-0686-1616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiamian"><b>Yu</b> Jiamian</a>
-,     <a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a> <a href="https://orcid.org/0000-0002-4209-3888" title="ORCID: 0000-0002-4209-3888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_pan"><b>Feng</b> Pan</a> <a href="https://orcid.org/0000-0002-2692-5971" title="ORCID: 0000-0002-2692-5971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>
-,     <a href="../../../author/wang_jingquan"><b>Wang</b> Jingquan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03645
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#flexural`](keyword/flexural)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#quasi`](keyword/quasi)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#static`](keyword/static)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quasi"><button class="btn">#quasi</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Behavior%20of%20Textile%20Reinforced%203D%20Printed%20Concrete%20Under%20Quasi-Static%20and%20Dynamic%20Impact%20Loads" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201506542&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401598906" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03645" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03645?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There has been a growing interest in utilizing 3D printing technology for military and civil defense engineering, especially in enhancing the resilience of infrastructure against impacts. Due to its distinctive additive manufacturing process, 3D printed concrete (3DPC) shows anisotropic behavior when subjected to static loads. However, research on its performance under dynamic conditions remains limited. Therefore, this study explores the characteristics of 3DPC under static and dynamic loads. Quasi-static results showed that incorporating textile significantly enhanced the deformation capacity of specimens, with the ultimate deflection and flexural toughness of basalt textile reinforced specimens in the X direction reaching 1.07 mm and 4206.9 N·mm, which are 118 % and 117 % higher than control specimens without textiles, respectively. The mechanical properties of 3DPC specimens showed increasing trend from static to impact loads. The impact results indicated that the peak load increased with the increase in impact energy. Adding two types of textiles showed different anisotropic mechanical properties which are associated with the patterns of cracking and failure. The addition of basalt textiles primarily enhanced the energy dissipation properties of 3DPC, with increases up to 98.2 %. The AR-glass textile was superior in terms of maintaining peak force under multiple impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -103,12 +76,42 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC/">Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_xu_laci.2025.FBo3PGCCWC/">Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tarh_tarh_perr.2025.FPoGFTR3PC/">Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chen_chen_zhan_wang.2025.ECaCMotADCBo3PECC/">Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yao_bu_yu_shao.2024.FBoTR3PCUQSaDIL,
+      author            = "Yiming Yao and Dechao Bu and Jiamian Yu and Lijing Shao and Pan Feng and Cong Lu and Jingquan Wang",
+      title             = "Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads",
+      doi               = "10.1016/j.cscm.2024.e03645",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "21",
+      pages             = "e03645",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yao, “Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads”, <i>Case Studies in Construction Materials</i>, vol. 21, p. e03645, 2024, doi: 10.1016/j.cscm.2024.e03645.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yao, Yiming, Dechao Bu, Jiamian Yu, Lijing Shao, Pan Feng, Cong Lu, and Jingquan Wang. “Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads”. <i>Case Studies in Construction Materials</i> 21 (2024): e03645. https://doi.org/10.1016/j.cscm.2024.e03645.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

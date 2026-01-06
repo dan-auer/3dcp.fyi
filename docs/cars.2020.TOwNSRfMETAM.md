@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Josephine Carstensen
+    - footer
+title: Carstensen Josephine
 description:
 tags:
  - additive
@@ -17,30 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dspace.mit.edu/bitstream/1721.1/129539/1/158_2020_2620_ReferencePDF.pdf) Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1007/s00158-020-02620-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00158-020-02620-5</a>
+#Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing ([2020-06](date/2020/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dspace.mit.edu/bitstream/1721.1/129539/1/158_2020_2620_ReferencePDF.pdf) <a href="https://doi.org/10.1007/s00158-020-02620-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00158-020-02620-5" target="_blank">10.1007/s00158-020-02620-5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1885-2338" title="ORCID: 0000-0002-1885-2338" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carstensen_v_josephine"><b>Carstensen</b>&nbsp;Josephine</a></span><br>
+Journal Article - Structural and Multidisciplinary Optimization, Vol. 62, Iss. 5, pp. 2481-2497
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="https://orcid.org/0000-0002-1885-2338" title="ORCID: 0000-0002-1885-2338" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural and Multidisciplinary Optimization, Vol. 62, Iss. 5, pp. 2481-2497
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#extrusion`](keyword/extrusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#nozzle`](keyword/nozzle)
-    [`#optimization`](keyword/optimization)
-    [`#size`](keyword/size)
-    [`#topology`](keyword/topology)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Topology-Optimization%20with%20Nozzle-Size-Restrictions%20for%20Material-Extrusion-Type%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085938517&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,21 +39,17 @@ tags:
 <a href="https://inciteful.xyz/p/W3034133646" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00158-020-02620-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00158-020-02620-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Topology optimization that is tailored to additive manufacturing constraints and possibilities is an important area of research with direct implications on solution manufacturability. This paper focuses on implementing the nozzle size constraint that is associated with most material extrusion-type additive manufacturing processes, such as fused filament fabrication and concrete 3D printing. The constraint is especially important for manufacturability in situations where the size of used nozzle is large in comparison with the size of the design domain. This paper suggests a new projection-based algorithm that embeds material extrusion-type primitives into the projection methodology used for material distribution approaches to topology optimization. Projection-based algorithms for continuum topology optimization have received considerable attention in recent years due to their ability to improve manufacturability in a flexible and computationally efficient manner. A formulation for single-directional primitives is presented and extended to allow the use of two-directional primitives that can simulate a more realistic nozzle movement. The proposed algorithms are demonstrated on 2D benchmark problems and are shown to satisfy the imposed nozzle size restrictions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/kim-tackowiak_hajin"><b>Kim-Tackowiak</b> Hajin</a>, <a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kim_cars.2025.TOo3PMA/">Topology Optimization of 3D-Printed Material Architectures:<br/>Testing Toolpath Consideration in Design</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -84,4 +64,35 @@ tags:
       <li><a href="../../../author/pastore_tommaso"><b>Pastore</b> Tommaso</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../past_espo_menn_aspr.2022.OFCiC3PUIBC/">Overcoming Fabrication-Constraints in Concrete 3D Printing Using Interlacing Bezier-Curves:<br/>A Numerical and Experimental Analysis</a></li>
       <li><a href="../../../author/pastore_tommaso"><b>Pastore</b> Tommaso</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../past_menn_aspr.2022.BBBRKGAtAPCitTOoCS/">Bézier-Based Biased Random-Key Genetic Algorithm to Address Printability-Constraints in the Topology-Optimization of Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cars.2020.TOwNSRfMETAM,
+      author            = "Josephine V. Carstensen",
+      title             = "Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing",
+      doi               = "10.1007/s00158-020-02620-5",
+      year              = "2020",
+      journal           = "Structural and Multidisciplinary Optimization",
+      volume            = "62",
+      number            = "5",
+      pages             = "2481--2497",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. V. Carstensen, “Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing”, <i>Structural and Multidisciplinary Optimization</i>, vol. 62, no. 5, pp. 2481–2497, 2020, doi: 10.1007/s00158-020-02620-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Carstensen, Josephine V.. “Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing”. <i>Structural and Multidisciplinary Optimization</i> 62, no. 5 (2020): 2481–97. https://doi.org/10.1007/s00158-020-02620-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

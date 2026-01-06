@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Taylor Marchment, Jay Sanjayan
+    - footer
+title: Marchment Taylor, Sanjayan Jay
 description:
 tags:
  - bar
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations ([2021-04](date/2021/04))
-<a href="https://doi.org/10.1016/j.autcon.2021.103694" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2021.103694</a>
+#Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations ([2021-04](date/2021/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2021.103694" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103694" target="_blank">10.1016/j.autcon.2021.103694</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchment_taylor"><b>Marchment</b>&nbsp;Taylor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Automation in Construction, Vol. 127
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 127, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#coat`](keyword/coat)
-    [`#concrete`](keyword/concrete)
-    [`#method`](keyword/method)
-    [`#paste`](keyword/paste)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinforcement%20Method%20for%203D%20Concrete%20Printing%20Using%20Paste-Coated%20Bar%20Penetrations" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103949236&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3153118256" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2021.103694" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2021.103694?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Reinforcement integration is the largest technological challenge in 3D Concrete Printing. Recent studies of in-process ‘bar penetrations’ into fresh printed layers shows promise as an interlayer reinforcement. The formation of induced voids around penetrated bars reduces the bond, hindering reinforcing potential. In this study, cement paste-coating bars during penetration is investigated to increase bar bond by void filling. A cement paste is developed with red pigment added allowing visual analysis of paste coverage and embedment. Printed wall sections reinforced with and without paste-coated bars are tested in 3-point bending and compared to casted variants. Results show that paste-coated bars performed significantly better than non-paste coated bars. Strength and ductility are comparable to casted variants thereby concluding the paste-coating method effective. The hypothesis of void filling is validated through analysis of paste embedment which occurred in the top 50% of penetration. Whereas compaction of surrounding concrete occurred in the bottom region
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "69 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -116,7 +96,6 @@ tags:
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../nema_xia_sanj.2019.PpMtISoPB3PGfDCA/">Post-processing Methods to Improve Strength of Particle-Bed 3D Printed Geopolymer for Digital Construction Applications</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
-      <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../over_savi_bos_schl.2023.Eo3CPPotMPoPSHCC/">Effects of 3D Concrete Printing Phases on the Mechanical Performance of Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
@@ -136,8 +115,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "44 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
       <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
@@ -183,4 +162,33 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../liu_li_fox_tran.2022.3CPoBIBS/">3D Concrete Printing of Bio-Inspired Bouligand Structure:<br/>A Study on Impact-Resistance</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{marc_sanj.2021.RMf3CPUPCBP,
+      author            = "Taylor Marchment and Jay Gnananandan Sanjayan",
+      title             = "Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations",
+      doi               = "10.1016/j.autcon.2021.103694",
+      year              = "2021",
+      journal           = "Automation in Construction",
+      volume            = "127",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Marchment  and J. G. Sanjayan, “Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations”, <i>Automation in Construction</i>, vol. 127, 2021, doi: 10.1016/j.autcon.2021.103694.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Marchment, Taylor, and Jay Gnananandan Sanjayan. “Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations”. <i>Automation in Construction</i> 127 (2021). https://doi.org/10.1016/j.autcon.2021.103694.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sean Lim, Junghyun Lee, Nuran Bawarith, Suvash Paul, Jihye Jhun, Issam Amr, Bandar Fadhel, Ming Tan
+    - footer
+title: Lim Sean, Lee Junghyun, Bawarith Nuran, Paul Suvash, Jhun Jihye, Amr Issam, Fadhel Bandar, Tan Ming
 description:
 tags:
  - accelerator
@@ -20,40 +21,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.addlet.2025.100339" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addlet.2025.100339</a>
+#The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing ([2025-11](date/2025/11))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.addlet.2025.100339" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addlet.2025.100339" target="_blank">10.1016/j.addlet.2025.100339</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_gip_sean"><b>Lim</b>&nbsp;Sean</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0362-9704" title="ORCID: 0000-0003-0362-9704" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_junghyun"><b>Lee</b>&nbsp;Junghyun</a></span>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b>&nbsp;Nuran</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_chandra_suvash"><b>Paul</b>&nbsp;Suvash</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-0488-0478" title="ORCID: 0009-0008-0488-0478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jhun_jihye"><b>Jhun</b>&nbsp;Jihye</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3976-932X" title="ORCID: 0000-0003-3976-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amr_t_issam"><b>Amr</b>&nbsp;Issam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7007-5313" title="ORCID: 0000-0001-7007-5313" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fadhel_a_bandar"><b>Fadhel</b>&nbsp;Bandar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Additive Manufacturing Letters, No. 100339
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> <a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> <a href="https://orcid.org/0000-0003-0362-9704" title="ORCID: 0000-0003-0362-9704" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>
-,     <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> <a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a> <a href="https://orcid.org/0009-0008-0488-0478" title="ORCID: 0009-0008-0488-0478" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> <a href="https://orcid.org/0000-0003-3976-932X" title="ORCID: 0000-0003-3976-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> <a href="https://orcid.org/0000-0001-7007-5313" title="ORCID: 0000-0001-7007-5313" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing Letters, No. 100339
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#agent`](keyword/agent)
-    [`#carbonation`](keyword/carbonation)
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#cure`](keyword/cure)
-    [`#enhancement`](keyword/enhancement)
-    [`#integration`](keyword/integration)
-    [`#internal`](keyword/internal)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#steam`](keyword/steam)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/steam"><button class="btn">#steam</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Efficacy%20of%20Self-Curing%20Agents%20on%20Enhanced%20Internal%20Curing%20and%20Accelerated%20Carbonation%20with%20CO2-Steam%20Integrated%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022646672&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7105700082" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addlet.2025.100339" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addlet.2025.100339?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction industry, responsible for a substantial portion of global carbon emissions, faces an urgent demand to adopt sustainable practices. Traditional concrete manufacturing processes contribute significantly to these emissions, underscoring a pressing need for innovative technologies that not only reduce carbon footprint but also improve material performances. This study presents an extension of CO2-steam integrated 3D construction printing by incorporating functional self-curing agents, specifically Polyethylene Glycol (PEG-6000), to enhance both early-age carbonation reactions and mechanical strength developments of 3D printed cementitious materials. The presented method aims to suppress moisture loss that delays hydration and carbonation activities during unconfined atmospheric curing, which would otherwise hinder strength developments. The combined usage of in-situ CO2-steam printing with PEG-6000 demonstrated improvements in early-age carbon uptake up to 137%, along with substantial developments in compressive, flexural, and interlayer bond strengths of up to 29.4%, 51.9%, and 36.5%, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -99,7 +69,36 @@ tags:
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/du_liangfen"><b>Du</b> Liangfen</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_du_liu_li.2024.3CCPwPRCR/">3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber:<br/>Mechanical and Acoustic Insulation Properties</a></li>
       <li><a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../wang_xiao_sun_zhan.2023.MPo3PMCbC/">Mechanical Properties of 3D Printed Mortar Cured by CO2</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP,
+      author            = "Sean Gip Lim and Junghyun Lee and Nuran Khalid A. Bawarith and Suvash Chandra Paul and Jihye Jhun and Issam T. Amr and Bandar A. Fadhel and Ming Jen Tan",
+      title             = "The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing",
+      doi               = "10.1016/j.addlet.2025.100339",
+      year              = "2025",
+      journal           = "Additive Manufacturing Letters",
+      pages             = "100339",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. G. Lim, “The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing”, <i>Additive Manufacturing Letters</i>, p. 100339, 2025, doi: 10.1016/j.addlet.2025.100339.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lim, Sean Gip, Junghyun Lee, Nuran Khalid A. Bawarith, Suvash Chandra Paul, Jihye Jhun, Issam T. Amr, Bandar A. Fadhel, and Ming Jen Tan. “The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing”. <i>Additive Manufacturing Letters</i>, 2025, 100339. https://doi.org/10.1016/j.addlet.2025.100339.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

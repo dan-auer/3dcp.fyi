@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matthias Kalthoff, Michael Raupach, Thomas Matschei
+    - footer
+title: Kalthoff Matthias, Raupach Michael, Matschei Thomas
 description:
 tags:
  - carbon
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/23/7406/pdf?version=1638518615) Investigation into the Integration of Impregnated Glass and Carbon Textiles in a Laboratory Mortar Extruder (LabMorTex) ([2021-12](date/2021/12))
-<a href="https://doi.org/10.3390/ma14237406" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14237406</a>
+#Investigation into the Integration of Impregnated Glass and Carbon Textiles in a Laboratory Mortar Extruder (LabMorTex) ([2021-12](date/2021/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/23/7406/pdf?version=1638518615) <a href="https://doi.org/10.3390/ma14237406" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14237406" target="_blank">10.3390/ma14237406</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9313-7617" title="ORCID: 0000-0002-9313-7617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kalthoff_matthias"><b>Kalthoff</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raupach_michael"><b>Raupach</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matschei_thomas"><b>Matschei</b>&nbsp;Thomas</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 23
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a> <a href="https://orcid.org/0000-0002-9313-7617" title="ORCID: 0000-0002-9313-7617" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a> <a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 23, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#extrusion`](keyword/extrusion)
-    [`#glass`](keyword/glass)
-    [`#impregnation`](keyword/impregnation)
-    [`#integration`](keyword/integration)
-    [`#investigation`](keyword/investigation)
-    [`#labor`](keyword/labor)
-    [`#mortar`](keyword/mortar)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/impregnation"><button class="btn">#impregnation</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20into%20the%20Integration%20of%20Impregnated%20Glass%20and%20Carbon%20Textiles%20in%20a%20Laboratory%20Mortar%20Extruder%20%28LabMorTex%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120753307&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3214931220" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14237406" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14237406?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A promising process for the automatization of concrete structures is extrusion or extrusion molding. An innovative approach is the extrusion of concrete with imbedded technical textiles as reinforcement. For a successful extrusion, the rheological properties of the fresh concrete have to be optimized, as it must be extrudable and have sufficient early strength after leaving the mouthpiece. Within the scope of this paper, a process was developed which allows the integration of flexible as well as stiff impregnated textiles into the extrusion process. For this purpose, different textile-reinforced mortars (TRM) were extruded and their material characteristics were investigated. The results show that the mortar cross-section is considerably strengthened, especially when using carbon textiles, and that extrusion has considerable potential to produce high-performance TRM composites. In uniaxial tension tests with TRM, as well as in the pure roving tensile strength tests, textile stresses of approx. 1200 MPa were achieved for the glass textile and approx. 2250 MPa for the carbon textile. The position of the textile layer deviated a maximal 0.4 mm from its predesigned position, which shows its potential for producing tailor-made TRM elements. In addition, by adjusting the mortar mix design, it was possible to reduce the global warming potential (GWP) of the extrusion compound by up to 49.3% compared to the initial composition from preliminary studies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -85,8 +63,8 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../neef_mech.2024.CFRfEB3CP/">Continuous Fiber-Reinforcement for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a>, <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a>, <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../kalt_cruz_raup_mats.2023.MMCwETRC/">Material‐Minimized Construction with Extruded Textile-Reinforced Concrete</a></li>
@@ -98,4 +76,34 @@ tags:
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/backes_gerta_jana"><b>Backes</b> Jana</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../neef_kalt_mull_back.2023.EoHYSCRCwMIR/">Extrusion of High Yield Strength Carbon-Reinforced Concrete with Mineral Impregnated Rovings</a></li>
       <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a>, <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../kalt_raup_mats.2022.IoRTMftSoMfMoTRCUaLME/">Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder:<br/>LabMorTex</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kalt_raup_mats.2021.IitIoIGaCTiaLMEL,
+      author            = "Matthias Kalthoff and Michael Raupach and Thomas Matschei",
+      title             = "Investigation into the Integration of Impregnated Glass and Carbon Textiles in a Laboratory Mortar Extruder (LabMorTex)",
+      doi               = "10.3390/ma14237406",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "23",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Kalthoff, M. Raupach and T. Matschei, “Investigation into the Integration of Impregnated Glass and Carbon Textiles in a Laboratory Mortar Extruder (LabMorTex)”, <i>Materials</i>, vol. 14, no. 23, 2021, doi: 10.3390/ma14237406.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kalthoff, Matthias, Michael Raupach, and Thomas Matschei. “Investigation into the Integration of Impregnated Glass and Carbon Textiles in a Laboratory Mortar Extruder (LabMorTex)”. <i>Materials</i> 14, no. 23 (2021). https://doi.org/10.3390/ma14237406.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

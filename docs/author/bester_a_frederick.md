@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Bester Frederick 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../best_krug_zijl.2023.RRfCP/">Rivet Reinforcement for Concrete Printing</a></li>
   <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../heev_ples_best_krug.2022.AMERMMtaMMGCSCMf3PC/">A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete</a></li>
   <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../heev_best_krug_zijl.2022.NMSfR3CPE/">Numerical Modelling-Strategies for Reinforced 3D Concrete Printed Elements</a></li>

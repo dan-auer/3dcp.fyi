@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yubo Sun, Xinyue Zhang, Jiangang Zhou, Yilin Wang, Bo Zhang, Yiyuan Zhang, Weijiu Cui, Yaxin Tao
+    - footer
+title: Sun Yubo, Zhang Xinyue, Zhou Jiangang, Wang Yilin, Zhang Bo, Zhang Yiyuan, Cui Weijiu, Tao Yaxin
 description:
 tags:
  - analysis
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.111252) Extrudability-Analysis of 3D Printable Concrete as a Two-Phase Discrete Flow ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111252" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111252</a>
+#Extrudability-Analysis of 3D Printable Concrete as a Two-Phase Discrete Flow ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.111252) <a href="https://doi.org/10.1016/j.jobe.2024.111252" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111252" target="_blank">10.1016/j.jobe.2024.111252</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8348-8280" title="ORCID: 0000-0001-8348-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yubo"><b>Sun</b>&nbsp;Yubo</a></span>, <a href="../../../author/zhang_xinyue"><b>Zhang</b>&nbsp;Xinyue</a></span>, <a href="../../../author/zhou_jiangang"><b>Zhou</b>&nbsp;Jiangang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3436-0886" title="ORCID: 0000-0002-3436-0886" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yilin"><b>Wang</b>&nbsp;Yilin</a></span>, <a href="../../../author/zhang_bo"><b>Zhang</b>&nbsp;Bo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6388-2413" title="ORCID: 0000-0002-6388-2413" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yiyuan"><b>Zhang</b>&nbsp;Yiyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111252
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_yubo"><b>Sun</b> Yubo</a> <a href="https://orcid.org/0000-0001-8348-8280" title="ORCID: 0000-0001-8348-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_xinyue"><b>Zhang</b> Xinyue</a>
-,     <a href="../../../author/zhou_jiangang"><b>Zhou</b> Jiangang</a>
-,     <a href="../../../author/wang_yilin"><b>Wang</b> Yilin</a> <a href="https://orcid.org/0000-0002-3436-0886" title="ORCID: 0000-0002-3436-0886" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>
-,     <a href="../../../author/zhang_yiyuan"><b>Zhang</b> Yiyuan</a> <a href="https://orcid.org/0000-0002-6388-2413" title="ORCID: 0000-0002-6388-2413" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111252
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#discrete`](keyword/discrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#flow`](keyword/flow)
-    [`#phase`](keyword/phase)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrudability-Analysis%20of%203D%20Printable%20Concrete%20as%20a%20Two-Phase%20Discrete%20Flow" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208138184&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404028978" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111252" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111252?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing with concrete is primarily achieved through an extrusion process, where the material is precisely deposited layer by layer to construct structures. Proper control of extrusion ensures consistent material flow, accurate layer formation, and the overall stability of the 3D-printed structure. However, clogging during the extrusion process can occur as the nozzle size is too small relative to the aggregate size. To fundamentally understand the clogging mechanism and optimize the extrusion process, a precise two-phase discrete element model was established to simulate the extrusion process. A cluster of particles was used to model fresh concrete, with hard cores representing the aggregates and concentric soft shells representing fresh cement paste surrounding them. Five nozzles with different outlet diameters were designed and 3D printable concrete with different fineness modulus levels was formulated. The parameters of the two-phase discrete element model were determined based on rheological properties and calibrated using slump flow test results. The simulation results showed good agreement with the experimental pressure values and the quality of extruded filaments. Based on these results, it suggested that ensuring a proper balance between the aggregate fineness modulus and the outlet diameter of printing nozzles is essential for the extrusion process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
@@ -94,7 +69,37 @@ tags:
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_sanj.2024.PL3CPUQNM/">Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_zhan_zhou_wang.2024.EAo3PCaaTPDF,
+      author            = "Yubo Sun and Xinyue Zhang and Jiangang Zhou and Yilin Wang and Bo Zhang and Yiyuan Zhang and Weijiu Cui and Yaxin Tao",
+      title             = "Extrudability-Analysis of 3D Printable Concrete as a Two-Phase Discrete Flow",
+      doi               = "10.1016/j.jobe.2024.111252",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111252",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Sun, “Extrudability-Analysis of 3D Printable Concrete as a Two-Phase Discrete Flow”, <i>Journal of Building Engineering</i>, p. 111252, 2024, doi: 10.1016/j.jobe.2024.111252.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Yubo, Xinyue Zhang, Jiangang Zhou, Yilin Wang, Bo Zhang, Yiyuan Zhang, Weijiu Cui, and Yaxin Tao. “Extrudability-Analysis of 3D Printable Concrete as a Two-Phase Discrete Flow”. <i>Journal of Building Engineering</i>, 2024, 111252. https://doi.org/10.1016/j.jobe.2024.111252.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

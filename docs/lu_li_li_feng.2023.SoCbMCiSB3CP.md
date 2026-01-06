@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Lu, Ziyang Li, Mingyang Li, Jianhang Feng, Teck Wong, Shunzhi Qian
+    - footer
+title: Lu Bing, Li Ziyang, Li Mingyang, Feng Jianhang, Wong Teck, Qian Shunzhi
 description:
 tags:
  - base
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Substitution of Cement by Marine-Clay in Spray-Based 3D Concrete Printing ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1080/21650373.2023.2278754" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2023.2278754</a>
+#Substitution of Cement by Marine-Clay in Spray-Based 3D Concrete Printing ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2023.2278754" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2023.2278754" target="_blank">10.1080/21650373.2023.2278754</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9121-9363" title="ORCID: 0000-0001-9121-9363" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_ziyang"><b>Li</b>&nbsp;Ziyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/feng_jianhang"><b>Feng</b>&nbsp;Jianhang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> <a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_ziyang"><b>Li</b> Ziyang</a> <a href="https://orcid.org/0000-0001-9121-9363" title="ORCID: 0000-0001-9121-9363" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_jianhang"><b>Feng</b> Jianhang</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-14
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#marine`](keyword/marine)
-    [`#print`](keyword/print)
-    [`#spray`](keyword/spray)
-    [`#substitution`](keyword/substitution)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/substitution"><button class="btn">#substitution</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Substitution%20of%20Cement%20by%20Marine-Clay%20in%20Spray-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176802336&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388590735" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2023.2278754" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2023.2278754?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Spray-based 3D concrete printing (S-3DCP) is a type of 3D concrete printing specifically for automated constructions on vertical and overhanging surfaces, e.g. facades and ceilings. In this study, cement is partially substituted by calcined marine clay to develop a high-performance mixture for S-3DCP. Through setting, rheological, and tack tests, the fresh properties of the mixtures with marine clays calcined after different temperatures have been assessed. Considering pumping and deposition performance, tackiness, and sustainability, the optimum calcination temperature of marine clay is determined as 700 °C. The subsequent spray-based printing test shows that compared with the mixture without marine clay, the mixture with the marine clay calcined at 700 °C has a more uniform thickness distribution and 185% higher building capacity. The study contributes to the deeper understanding of the rheological and tack properties of the mixtures with calcined marine clay, which guides the future utilization of marine clay.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/wang_tianheng"><b>Wang</b> Tianheng</a>, <a href="../../../author/chen_xu"><b>Chen</b> Xu</a>, <a href="../../../author/shen_wenkai"><b>Shen</b> Wenkai</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../cui_wang_chen_shen.2023.So3PCwLCCMBoIRPaMP/">Study of 3D Printed Concrete with Low-Carbon Cementitious Materials Based on Its Rheological Properties and Mechanical Performances</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -93,11 +69,40 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/manalo_c_allan"><b>Manalo</b> Allan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P/">Rheological, Mechanical and Fire Resistance Performance of Waste Glass Activated Geopolymers for Concrete 3D Printing</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_li_guo_wang.2025.SB3PTSC/">Spray-Based 3D Printed Tunnel Slag Concrete:<br/>Evaluation for Printability and Mechanical Performance</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_li_li_feng.2023.SoCbMCiSB3CP,
+      author            = "Bing Lu and Ziyang Li and Mingyang Li and Jianhang Feng and Teck Neng Wong and Shunzhi Qian",
+      title             = "Substitution of Cement by Marine-Clay in Spray-Based 3D Concrete Printing",
+      doi               = "10.1080/21650373.2023.2278754",
+      year              = "2023",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Lu, Z. Li, M. Li, J. Feng, T. N. Wong and S. Qian, “Substitution of Cement by Marine-Clay in Spray-Based 3D Concrete Printing”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–14, 2023, doi: 10.1080/21650373.2023.2278754.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Bing, Ziyang Li, Mingyang Li, Jianhang Feng, Teck Neng Wong, and Shunzhi Qian. “Substitution of Cement by Marine-Clay in Spray-Based 3D Concrete Printing”. <i>Journal of Sustainable Cement-Based Materials</i>, 2023, 1–14. https://doi.org/10.1080/21650373.2023.2278754.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shoukat Khan, Muhammad Jassim, Hüseyin İlcan, Oğuzhan Şahin, Ismail Bayer, Mustafa Şahmaran, Muammer Koç
+    - footer
+title: Khan Shoukat, Jassim Muhammad, İlcan Hüseyin, Şahin Oğuzhan, Bayer Ismail, Şahmaran Mustafa, Koç Muammer
 description:
 tags:
  - analysis
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e02059) 3D Printing of Circular Materials:<br/>:aca-blank: Comparative Environmental Analysis of Materials and Construction Techniques ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.cscm.2023.e02059" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e02059</a>
+#3D Printing of Circular Materials&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">Comparative Environmental Analysis of Materials and Construction Techniques</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02059) <a href="https://doi.org/10.1016/j.cscm.2023.e02059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02059" target="_blank">10.1016/j.cscm.2023.e02059</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <a href="../../../author/jassim_muhammad"><b>Jassim</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <a href="../../../author/bayer_raci_ismail"><b>Bayer</b>&nbsp;Ismail</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Case Studies in Construction Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> <a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bayer_raci_ismail"><b>Bayer</b> Ismail</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#circular`](keyword/circular)
-    [`#comparision`](keyword/comparision)
-    [`#construction`](keyword/construction)
-    [`#environment`](keyword/environment)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Circular%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152935215&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4365151021" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e02059" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e02059?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of 3D printing in construction activities can help to reduce waste, lower energy consumption, and minimize the environmental impact of building projects. As technology continues to advance, it has the potential to play a major role in the development of cleaner, more sustainable production processes in the construction industry. For each such innovation, it is essential to ensure its environmental sustainability at an early stage of development. This study aims to assess the potential environmental advantages and disadvantages of newly developed construction and demolition waste (CDW)-based geopolymer materials for 3D printing of builtenvironment structures. The study identifies potential "hot spots" of the developed process where environmental impact is highest and develops strategies to reduce or mitigate negative impacts. Life Cycle Assessment (LCA) was carried out for three cases of CDW-based 3D printed structures, Portland cement-based 3D printed structures, and conventional masonry construction methods and materials, to analyze the environmental impact of CDW-based 3D-printed designs and their comparative analysis. The results showed that geopolymer-based 3D printed construction resulted in the lowest global warming potential of 488 [kg CO2 eq] as compared to 595.6 [kg CO2 eq] for ordinary Portland cement-based structure and 533.7 [kg CO2 eq] for conventional masonry construction of the equivalent structure. The main environmental "hot spot" identified for the geopolymer-based 3D printed construction process was the amount of electrical energy required for the mechanical processing of waste materials, which was more than 61% of the total GWP impact. In addition to decreasing solid CDW, the developed approach has significant potential for improvement by using more sustainable energy sources and reducing the amount of solid CDW generated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../demi_ozka_sahi_ilca.2022.MAEaBPo3PCaDWBGM/">Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars</a></li>
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../khan_koc.2022.NMaSfEB3CP/">Numerical Modelling and Simulation for Extrusion-Based 3D Concrete Printing:<br/>The Underlying Physics, Potential, and Challenges</a></li>
@@ -83,8 +59,8 @@ tags:
       <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/atesli_tolga_anil"><b>Ateşli</b> Anıl</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sahi_ilca_ates_kul.2021.CaDWBGSfUi3AM/">Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
       <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/vu_h_tran"><b>Vu</b> Tran</a>, <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../tran_vu_nguy.2023.SAfOP3PGCBoSaSFM/">Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/assi_n_lateef"><b>Assi</b> Lateef</a>, <a href="../../../author/alsalman_ali"><b>Alsalman</b> Ali</a>, <a href="../../../author/kareem_s_rahman"><b>Kareem</b> Rahman</a>, <a href="../../../author/carter_kealy"><b>Carter</b> Kealy</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../assi_alsa_kare_cart.2025.AaCo3GBCiC/">Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
@@ -106,4 +82,32 @@ tags:
       <li><a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ozk_ilca_amin_tugl.2023.BPaAPo3PCaDWBG/">Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers:<br/>Effect of Operational- and Material-Oriented Parameters</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_jass_ilca_sahi.2023.3PoCM,
+      author            = "Shoukat Alim Khan and Muhammad Jassim and Hüseyin İlcan and Oğuzhan Şahin and Ismail Raci Bayer and Mustafa Şahmaran and Muammer Koç",
+      title             = "3D Printing of Circular Materials: Comparative Environmental Analysis of Materials and Construction Techniques",
+      doi               = "10.1016/j.cscm.2023.e02059",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. A. Khan, “3D Printing of Circular Materials: Comparative Environmental Analysis of Materials and Construction Techniques”, <i>Case Studies in Construction Materials</i>, 2023, doi: 10.1016/j.cscm.2023.e02059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Shoukat Alim, Muhammad Jassim, Hüseyin İlcan, Oğuzhan Şahin, Ismail Raci Bayer, Mustafa Şahmaran, and Muammer Koç. “3D Printing of Circular Materials: Comparative Environmental Analysis of Materials and Construction Techniques”. <i>Case Studies in Construction Materials</i>, 2023. https://doi.org/10.1016/j.cscm.2023.e02059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

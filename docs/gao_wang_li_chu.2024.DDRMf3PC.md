@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianhao Gao, Chaofeng Wang, Jiaqi Li, S. Chu
+    - footer
+title: Gao Jianhao, Wang Chaofeng, Li Jiaqi, Chu S.
 description:
 tags:
  - concrete
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Data-Driven Rheological-Model for 3D Printable Concrete ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137912" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137912</a>
+#Data-Driven Rheological-Model for 3D Printable Concrete ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137912" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137912" target="_blank">10.1016/j.conbuildmat.2024.137912</a>
 
--------------------------
+<a href="../../../author/gao_jianhao"><b>Gao</b>&nbsp;Jianhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8534-9276" title="ORCID: 0000-0001-8534-9276" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chaofeng"><b>Wang</b>&nbsp;Chaofeng</a></span>, <a href="../../../author/li_jiaqi"><b>Li</b>&nbsp;Jiaqi</a></span>, <a href="../../../author/chu_h_s"><b>Chu</b>&nbsp;S.</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 447, No. 137912
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gao_jianhao"><b>Gao</b> Jianhao</a>
-,     <a href="../../../author/wang_chaofeng"><b>Wang</b> Chaofeng</a> <a href="https://orcid.org/0000-0001-8534-9276" title="ORCID: 0000-0001-8534-9276" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jiaqi"><b>Li</b> Jiaqi</a>
-,     <a href="../../../author/chu_h_s"><b>Chu</b> S.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 447, No. 137912
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#data`](keyword/data)
-    [`#model`](keyword/model)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Rheological-Model%20for%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202822554&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402186317" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137912" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137912?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing in construction demands an in-depth understanding of the rheological properties of fresh concrete. However, the abundant data in this field remains underexplored. This conventional fragmented approach has hindered broader progress and innovation. This study aims to develop rheological models for 3D printable concrete through a comprehensive, data-driven paradigm, emphasizing the urgent need for a unified, large-scale dataset. By compiling data spanning a decade, we have created an open-access dataset that contains mix designs and experimental results on the rheological behaviors of additive construction concrete. A machine learning-based model and explicit polynomial expressions for estimating rheological properties were developed. The developed machine learning model can take nineteen different parameters as inputs to predict the rheological behavior of printed concrete, showing superiority over models considering a few parameters. Our model can predict the properties of unexplored mix designs, with tailored expressions for practical engineering in additive construction. This enhances understanding of concrete mix design and rheology, highlighting the importance of data-driven method in unveiling the complexity of concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "87 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -149,10 +130,40 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gao_jianhao"><b>Gao</b> Jianhao</a>, <a href="../../../author/niu_yujun"><b>Niu</b> Yujun</a>, <a href="../../../author/wang_chaofeng"><b>Wang</b> Chaofeng</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../gao_niu_wang.2025.LHP/">Linear Helical Printing:<br/>A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lori_mehr.2025.FGCoPGUEaDDA/">Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gao_wang_li_chu.2024.DDRMf3PC,
+      author            = "Jianhao Gao and Chaofeng Wang and Jiaqi Li and S. H. Chu",
+      title             = "Data-Driven Rheological-Model for 3D Printable Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.137912",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "447",
+      pages             = "137912",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Gao, C. Wang, J. Li and S. H. Chu, “Data-Driven Rheological-Model for 3D Printable Concrete”, <i>Construction and Building Materials</i>, vol. 447, p. 137912, 2024, doi: 10.1016/j.conbuildmat.2024.137912.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gao, Jianhao, Chaofeng Wang, Jiaqi Li, and S. H. Chu. “Data-Driven Rheological-Model for 3D Printable Concrete”. <i>Construction and Building Materials</i> 447 (2024): 137912. https://doi.org/10.1016/j.conbuildmat.2024.137912.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

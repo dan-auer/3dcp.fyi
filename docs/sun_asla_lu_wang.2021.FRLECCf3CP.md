@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junbo Sun, Farhad Aslani, Jenny Lu, Lining Wang, Yimiao Huang, Guowei Ma
+    - footer
+title: Sun Junbo, Aslani Farhad, Lu Jenny, Wang Lining, Huang Yimiao, Ma Guowei
 description:
 tags:
  - cement
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1016/j.ceramint.2021.06.124" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ceramint.2021.06.124</a>
+#Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing ([2021-06](date/2021/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ceramint.2021.06.124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ceramint.2021.06.124" target="_blank">10.1016/j.ceramint.2021.06.124</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3926-6637" title="ORCID: 0000-0002-3926-6637" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_jenny"><b>Lu</b>&nbsp;Jenny</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_lining"><b>Wang</b>&nbsp;Lining</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4013-7215" title="ORCID: 0000-0003-4013-7215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yimiao"><b>Huang</b>&nbsp;Yimiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Ceramics International, Vol. 47, Iss. 19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_jenny"><b>Lu</b> Jenny</a> <a href="https://orcid.org/0000-0002-3926-6637" title="ORCID: 0000-0002-3926-6637" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> <a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a> <a href="https://orcid.org/0000-0003-4013-7215" title="ORCID: 0000-0003-4013-7215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Ceramics International, Vol. 47, Iss. 19, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#engineered`](keyword/engineered)
-    [`#fiber`](keyword/fiber)
-    [`#light`](keyword/light)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fiber-Reinforced%20Lightweight%20Engineered%20Cementitious%20Composites%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108965991&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3173553037" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ceramint.2021.06.124" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ceramint.2021.06.124?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While the 3D printing technology for cementitious composites has developed rapidly, a combination of 3DP technology and lightweight engineered cementitious composites (LWECCs) could improve many aspects of the construction industry. In this study, a fibre-reinforced high-performance LWECC for extrusion-based printing was proposed. First, six LWECCs were prepared, incorporating two kinds of hollow glass microspheres (HGMs) in varying replacement ratios of fly ash (FA) at 60 wt%, 80 wt%, and 100 wt%. In addition, polyvinyl alcohol (PVA) fibre was introduced given its shrinkage resistance and improvement in printability performance. Thereafter, fresh property (slump loss and setting time), unconfined compression strength (UCS), and flexural strength experiments thoroughly investigated the optimised LWECC design, which was later calibrated for the printing procedure via a printability assessment, including extrudability and buildability. The UCS, flexural strength, and densities of the printed and cast specimens were compared. Lastly, a microstructural investigation using a scanning electron microscope described the reinforcement mechanism of PVA fibre upon the performance of the printed structures and HGMs. The addition of HGMs significantly improve the lightweight property that reaches a value at 1384 kg/m3 but inevitably negates mechanical properties. The printed LWECC obtains 33.6 MPa for UCS and 9.29 MPa for flexural strength. When the printed filament was perpendicular to loading direction, superior toughness was observed, creating a 63% and 40% increase for UCS and flexural strength, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -92,8 +68,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "67 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -162,4 +138,34 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM/">Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../cao_yu_cui.2022.EIoIaISRf3PCvASIT/">Experimental Investigation on Inner- and Inter-Strip Reinforcements for 3D Printed Concrete via Automatic Staple Inserting Technique</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_asla_lu_wang.2021.FRLECCf3CP,
+      author            = "Junbo Sun and Farhad Aslani and Jenny Lu and Lining Wang and Yimiao Huang and Guowei Ma",
+      title             = "Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing",
+      doi               = "10.1016/j.ceramint.2021.06.124",
+      year              = "2021",
+      journal           = "Ceramics International",
+      volume            = "47",
+      number            = "19",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Sun, F. Aslani, J. Lu, L. Wang, Y. Huang and G. Ma, “Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing”, <i>Ceramics International</i>, vol. 47, no. 19, 2021, doi: 10.1016/j.ceramint.2021.06.124.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Junbo, Farhad Aslani, Jenny Lu, Lining Wang, Yimiao Huang, and Guowei Ma. “Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing”. <i>Ceramics International</i> 47, no. 19 (2021). https://doi.org/10.1016/j.ceramint.2021.06.124.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

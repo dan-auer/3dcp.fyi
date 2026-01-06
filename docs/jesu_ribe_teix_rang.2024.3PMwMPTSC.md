@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manuel Jesus, Elis Ribeiro, João Teixeira, Bárbara Rangel, Ana Guimarães, Jorge Alves
+    - footer
+title: Jesus Manuel, Ribeiro Elis, Teixeira João, Rangel Bárbara, Guimarães Ana, Alves Jorge
 description:
 tags:
  - construction
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Mortars with Marble-Powder Towards Sustainable Construction ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1201/9781003403890-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003403890-4</a>
+#3D Printed Mortars with Marble-Powder Towards Sustainable Construction ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003403890-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003403890-4" target="_blank">10.1201/9781003403890-4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-5795-0229" title="ORCID: 0009-0002-5795-0229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_elis"><b>Ribeiro</b>&nbsp;Elis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span><br>
+Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 70-95
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> <a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a> <a href="https://orcid.org/0009-0002-5795-0229" title="ORCID: 0009-0002-5795-0229" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> <a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 70-95
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#mortar`](keyword/mortar)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Mortars%20with%20Marble-Powder%20Towards%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401514209" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003403890-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003403890-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, we ask if there are broadly scalable methods for additively manufacturing low-carbon, climate-specific architecture that are thermally and structurally performative for housing. We then demonstrate that high-performance, hierarchical building elements can be produced from extremely low-cost, low-carbon materials like earth using increasingly available 3D printing tools. We present a set of novel design methods and building systems from the scale of a brick to the scale of a wall, utilizing a combination of simulation-driven design and additive manufacturing with earth and clay. By leveraging materials readily available in all climates, bespoke, simulation-driven building elements could be manufactured from these low or no-cost materials to create performative, low-carbon buildings. By presenting a methodology for material and fabrication-aware energy simulation for additive manufacturing, this work provides scalable groundwork for future studies across climates and local building requirements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/dias_duarte_bruno"><b>Dias</b> Bruno</a>, <a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../dias_roch_fari_luca.2023.LwHPf3PM/">Limes with Hydraulic Properties for 3D Printing Mortars</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2005/11">(2005-11)</a><br><a href="../../../hwan_khos.2005.AICPCCC/">An Innovative Construction Process-Contour Crafting (CC)</a></li>
@@ -83,9 +62,39 @@ tags:
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../teix_scha_rang_alve.2021.Do3PSMBoaBA/">Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jesu_ribe_teix_rang.2024.3PMwMPTSC,
+      author            = "Manuel Jesus and Elis Ribeiro and João Teixeira and Bárbara Rangel and Ana Sofia Guimarães and Jorge Lino Alves",
+      title             = "3D Printed Mortars with Marble-Powder Towards Sustainable Construction",
+      doi               = "10.1201/9781003403890-4",
+      year              = "2024",
+      pages             = "70--95",
+      booktitle         = "3D Printing for Construction in the Transformation of the Building Industry",
+      editor            = "Bárbara Rangel and Ana Sofia Guimarães and João Teixeira",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Jesus, E. Ribeiro, J. Teixeira, B. Rangel, A. S. Guimarães and J. L. Alves, “3D Printed Mortars with Marble-Powder Towards Sustainable Construction”, in <i>3D Printing for Construction in the Transformation of the Building Industry</i>,  2024, pp. 70–95. doi: 10.1201/9781003403890-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jesus, Manuel, Elis Ribeiro, João Teixeira, Bárbara Rangel, Ana Sofia Guimarães, and Jorge Lino Alves. “3D Printed Mortars with Marble-Powder Towards Sustainable Construction”. In <i>3D Printing for Construction in the Transformation of the Building Industry</i>, edited by Bárbara Rangel, Ana Sofia Guimarães, and João Teixeira, 70–95, 2024. https://doi.org/10.1201/9781003403890-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

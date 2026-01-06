@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bin Xu, Zhaoyang Sun, Ming Sun, Binmeng Chen
+    - footer
+title: Xu Bin, Sun Zhaoyang, Sun Ming, Chen Binmeng
 description:
 tags:
  - adjustment
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>:aca-blank: Towards 3D Concrete Printing Applications ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143631" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143631</a>
+#Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Towards 3D Concrete Printing Applications</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143631" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143631" target="_blank">10.1016/j.conbuildmat.2025.143631</a>
 
--------------------------
+<a href="../../../author/xu_bin"><b>Xu</b>&nbsp;Bin</a></span>, <a href="../../../author/sun_zhaoyang"><b>Sun</b>&nbsp;Zhaoyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3401-1395" title="ORCID: 0000-0002-3401-1395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_ming"><b>Sun</b>&nbsp;Ming</a></span>, <a href="../../../author/chen_binmeng"><b>Chen</b>&nbsp;Binmeng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 495, No. 143631
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_bin"><b>Xu</b> Bin</a>
-,     <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>
-,     <a href="../../../author/sun_ming"><b>Sun</b> Ming</a> <a href="https://orcid.org/0000-0002-3401-1395" title="ORCID: 0000-0002-3401-1395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 495, No. 143631
-
-:aca-blank:{ .lg .middle}
-    [`#adjustment`](keyword/adjustment)
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#manipulator`](keyword/manipulator)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#rheology`](keyword/rheology)
-    [`#situ`](keyword/situ)
-
-
--------------------------
+<a href="../../keyword/adjustment"><button class="btn">#adjustment</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manipulator"><button class="btn">#manipulator</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Realizing%20Rheological%20Manipulation%20by%20Adjusting%20Initiator%20Concentrations%20for%20In-Situ%20Polymerization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015949495&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414222739" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143631" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143631?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Employing a high water-to-cement ratio (w/c) represents an effective strategy for mitigating the carbon footprint associated with the 3D concrete printing (3DCP) process. Here, we propose a novel method for achieving targeted rheological control for 3DCP via adjusting initiator concentrations for in-situ polymerization of sodium acrylate (SA) with a high w/c ratio of 0.55. Results indicate that the slower polymerization rate in the in-situ polymerization-modified cement paste (IPC) with lower initiator concentrations leads to inadequate dynamic and static yield stress during the extrusion and early stacking stages, potentially causing the flow-out of the printed filament. Conversely, more rapid polymerization occurs in IPC with higher initiator concentrations, resulting in the formation of extensive polymer bridges between cement particles. Consequently, their rheological properties are optimized for both the extrusion and stacking stages, with the static yield stress reaching the build strength of 100 kPa within 45 min, thereby ensuring stability during multi-layer stacking. Furthermore, in-situ formed polymers refine the pore structure and establish polymer networks within the cement matrix, enhancing the mechanical performance of IPC. As a result, IPC demonstrates adequate compressive strength and a significant increase in flexural strength, meeting the requirements for non-load-bearing elements even at a high water-to-cement ratio of 0.55. These findings highlight the potential of initiator concentration tuning in in-situ polymerization as a viable approach to optimize both rheological and mechanical properties in 3DCP, thereby improving printability and structural integrity in 3D printed cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -89,7 +67,37 @@ tags:
       <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/zhao_yuyang"><b>Zhao</b> Yuyang</a>, <a href="../../../author/hou_dongshuai"><b>Hou</b> Dongshuai</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sun_zhao_hou_li.2025.RCoCPbISPf3PA/">Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_sun_sun_chen.2025.RRMbAICfISP,
+      author            = "Bin Xu and Zhaoyang Sun and Ming Sun and Binmeng Chen",
+      title             = "Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization: Towards 3D Concrete Printing Applications",
+      doi               = "10.1016/j.conbuildmat.2025.143631",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "495",
+      pages             = "143631",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Xu, Z. Sun, M. Sun and B. Chen, “Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization: Towards 3D Concrete Printing Applications”, <i>Construction and Building Materials</i>, vol. 495, p. 143631, 2025, doi: 10.1016/j.conbuildmat.2025.143631.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Bin, Zhaoyang Sun, Ming Sun, and Binmeng Chen. “Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization: Towards 3D Concrete Printing Applications”. <i>Construction and Building Materials</i> 495 (2025): 143631. https://doi.org/10.1016/j.conbuildmat.2025.143631.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

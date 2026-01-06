@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaodi Dai, Yaxin Tao, Yi Zhang, Luchuan Ding, Kim Tittelboom, Geert Schutter
+    - footer
+title: Dai Xiaodi, Tao Yaxin, Zhang Yi, Ding Luchuan, Tittelboom Kim, Schutter Geert
 description:
 tags:
  - activation
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137775" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137775</a>
+#Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137775" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137775" target="_blank">10.1016/j.conbuildmat.2024.137775</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_xiaodi"><b>Dai</b>&nbsp;Xiaodi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5870-3276" title="ORCID: 0000-0001-5870-3276" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_luchuan"><b>Ding</b>&nbsp;Luchuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 444, No. 137775
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> <a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_luchuan"><b>Ding</b> Luchuan</a> <a href="https://orcid.org/0000-0001-5870-3276" title="ORCID: 0000-0001-5870-3276" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 444, No. 137775
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#printability`](keyword/printability)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printable%20Alkali-Activated%20Slag-Metakaolin%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201380415&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401599705" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137775" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137775?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the current landscape of 3D-printed construction, the extensive utilization of Portland cement has undeniably resulted in significant carbon dioxide emissions. This paper introduces an environmentally friendly 3D printing material, alkali-activated slag-metakaolin concrete, addressing the imperative for a cleaner and greener alternative in the realm of 3D-printed architecture. The findings indicate that incorporating metakaolin (MK) into alkali-activated slag mixtures markedly improves static yield stress due to its higher specific surface area, thereby promoting favorable conditions for the extrusion stage. Additionally, it only results in a marginal increase in dynamic yield stress, necessitating only modest pumping pressure during 3D printing. Higher content of Na2O in the activator also can lead to higher dynamic and static yield stress. Plastic cracking could occur for the samples containing a higher MK content of 20 %. A notable improvement in compressive strength is achieved with a 10 % addition of MK, with the principal gel conferring strength identified as calcium aluminosilicate hydrate and geopolymer as identified by XRD, FTIR, TGA and thermodynamic modeling. The carbon dioxide emissions from producing a 3D printable alkali-activated slag-MK mixture were estimated to be reduced by up to approximately 30 % compared to those from Portland cement production.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../dai_tao_titt_schu.2023.RaMPo3PAASMwAoNC/">Rheological and Mechanical Properties of 3D Printable Alkali-Activated Slag Mixtures with Addition of Nano Clay</a></li>
       <li><a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../demi_ozka_sahi_ilca.2022.MAEaBPo3PCaDWBGM/">Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars</a></li>
@@ -90,11 +68,42 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/akturk_busra"><b>Aktürk</b> Büşra</a>, <a href="../../../author/ertugrul_onur"><b>Ertuğrul</b> Onur</a>, <a href="../../../author/ozen_can_omer"><b>Özen</b> Ömer</a>, <a href="../../../author/oktay_didem"><b>Oktay</b> Didem</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../aktu_ertu_ozen_okta.2025.IoNSaRMoRP3PaMPoOPSCASBM/">Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes</a></li>
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a>, <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dai_kand_neit_kuma.2024.TSSaFAsAAbCO2AF3P/">Thermally Stimulated Stiffening and Fly-Ash’s Alkaline-Activation by Ca(OH)2 Addition Facilitates 3D Printing</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD/">Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dai_tao_zhan_ding.2024.Do3PAASMC,
+      author            = "Xiaodi Dai and Yaxin Tao and Yi Zhang and Luchuan Ding and Kim van Tittelboom and Geert de Schutter",
+      title             = "Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.137775",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "444",
+      pages             = "137775",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Dai, Y. Tao, Y. Zhang, L. Ding, K. van Tittelboom and G. de Schutter, “Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete”, <i>Construction and Building Materials</i>, vol. 444, p. 137775, 2024, doi: 10.1016/j.conbuildmat.2024.137775.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dai, Xiaodi, Yaxin Tao, Yi Zhang, Luchuan Ding, Kim van Tittelboom, and Geert de Schutter. “Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete”. <i>Construction and Building Materials</i> 444 (2024): 137775. https://doi.org/10.1016/j.conbuildmat.2024.137775.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

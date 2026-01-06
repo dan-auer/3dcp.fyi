@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guowei Ma, Gang Bai, Li Wang, Fang Wang
+    - footer
+title: Ma Guowei, Bai Gang, Wang Li, Wang Fang
 description:
 tags:
  - base
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Explosion-Resistance of 3D Printing Ultra-High-Performance Concrete Based on Contact-Explosion Tests ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.ijimpeng.2022.104316" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ijimpeng.2022.104316</a>
+#Explosion-Resistance of 3D Printing Ultra-High-Performance Concrete Based on Contact-Explosion Tests ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ijimpeng.2022.104316" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijimpeng.2022.104316" target="_blank">10.1016/j.ijimpeng.2022.104316</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/bai_gang"><b>Bai</b>&nbsp;Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/wang_fang"><b>Wang</b>&nbsp;Fang</a></span><br>
+Journal Article - International Journal of Impact Engineering, Vol. 169
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Impact Engineering, Vol. 169, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#contact`](keyword/contact)
-    [`#explosion`](keyword/explosion)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contact"><button class="btn">#contact</button></a> <a href="../../keyword/explosion"><button class="btn">#explosion</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Explosion-Resistance%20of%203D%20Printing%20Ultra-High-Performance%20Concrete%20Based%20on%20Contact-Explosion%20Tests" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133661019&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283783468" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ijimpeng.2022.104316" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ijimpeng.2022.104316?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In spite of anisotropy and layer interface weakness intrinsic to the 3D printing procedure, 3D printed ultra-high performance concrete (3DP-UHPC) exhibits excellent mechanical performance due to fiber alignment. For the first time, 3DP-UHPC slab, 3DP-UHPC reinforced normal concrete (PURN) slabs are tested against contact explosions. Explosion resistances with regard to different reinforcing methods, layer thickness ratios and construction methods for base materials are investigated. Specifically, PURN, steel bar reinforced 3DP-UHPC (RU), steel bar reinforced normal concrete (RC), and normal concrete (NC) slabs of similar sizes are constructed to compare the explosion resistances. Different reinforcing layer thickness are attempted. From the contact explosion tests, it exhibits that the extrusion-based 3D printing procedure enhances the explosion resistance substantially via fiber orientation alignment. With the layer thickness ratio of 40% (PURN6) as the watershed, both the top and bottom surface crater diameters of PURN slabs increase first and then decrease with increasing reinforcing layer thickness. In particular, crater diameters and failure modes for PURN8 and PURN15 are consistent with those of RC and RU, respectively. The underlying mechanism for the fibers to be aligned by the 3D printing procedure is theoretically analyzed to support the conclusions. The material costs of all the slabs are compared. The costs of PURN8 and PURN15 are 1.7 and 0.8 times of those for RC and RU, respectively. Thus, it can be stated that the 3D extrusion-based printing procedure will avail explosion resistance for 3DP-UHPC. Current test results prove the feasibility and cost-effectiveness of PURN for protective structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
@@ -91,8 +68,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_zhu_yu_xiao.2025.DTBoTDPSFRUPC/">Direct Tensile Behavior of Three-Dimensional-Printable Steel Fiber-Reinforced Ultrahigh Performance Concrete</a></li>
@@ -111,4 +88,33 @@ tags:
       <li><a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a>, <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>, <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fan_zhu_fan_lu.2023.IDaMoUHPC/">Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_bai_wang_wang.2022.ERo3PUHPCBoCET,
+      author            = "Guowei Ma and Gang Bai and Li Wang and Fang Wang",
+      title             = "Explosion-Resistance of 3D Printing Ultra-High-Performance Concrete Based on Contact-Explosion Tests",
+      doi               = "10.1016/j.ijimpeng.2022.104316",
+      year              = "2022",
+      journal           = "International Journal of Impact Engineering",
+      volume            = "169",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Ma, G. Bai, L. Wang and F. Wang, “Explosion-Resistance of 3D Printing Ultra-High-Performance Concrete Based on Contact-Explosion Tests”, <i>International Journal of Impact Engineering</i>, vol. 169, 2022, doi: 10.1016/j.ijimpeng.2022.104316.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Guowei, Gang Bai, Li Wang, and Fang Wang. “Explosion-Resistance of 3D Printing Ultra-High-Performance Concrete Based on Contact-Explosion Tests”. <i>International Journal of Impact Engineering</i> 169 (2022). https://doi.org/10.1016/j.ijimpeng.2022.104316.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

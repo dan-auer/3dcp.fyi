@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Flora Faleschini, Daniel Trento, Mariano Zanini
+    - footer
+title: Faleschini Flora, Trento Daniel, Zanini Mariano
 description:
 tags:
  - additive
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Earth as a Building Material:<br/>:aca-blank: From Traditional Building Techniques to Additive Manufacturing ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1007/978-3-031-97818-0_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-97818-0_7</a>
+#Earth as a Building Material&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">From Traditional Building Techniques to Additive Manufacturing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-97818-0_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-97818-0_7" target="_blank">10.1007/978-3-031-97818-0_7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2126-9300" title="ORCID: 0000-0003-2126-9300" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/faleschini_flora"><b>Faleschini</b>&nbsp;Flora</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2241-8251" title="ORCID: 0000-0002-2241-8251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/trento_daniel"><b>Trento</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9326-802X" title="ORCID: 0000-0001-9326-802X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zanini_angelo_mariano"><b>Zanini</b>&nbsp;Mariano</a></span><br>
+Contribution - Sustainable Materials for the Built Environment, pp. 111-133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a> <a href="https://orcid.org/0000-0003-2126-9300" title="ORCID: 0000-0003-2126-9300" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a> <a href="https://orcid.org/0000-0002-2241-8251" title="ORCID: 0000-0002-2241-8251" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="https://orcid.org/0000-0001-9326-802X" title="ORCID: 0000-0001-9326-802X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Sustainable Materials for the Built Environment, pp. 111-133
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#earth`](keyword/earth)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#technique`](keyword/technique)
-    [`#tradition`](keyword/tradition)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Earth%20as%20a%20Building%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020949297&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7102677399" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-97818-0_7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-97818-0_7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The research interest for earth-based building materials has increased extremely in recent years because of a tremendous rise of housing-demand worldwide, together with the necessity of fostering environmentally friendly solutions within the construction industry. Nevertheless, the diffusion of earthen construction is still limited due to many reasons among which it is worth mentioning the poor durability of these materials (e.g., their sensitivity to moisture) and the lack of Codes and regulation for their design. In the meanwhile, new construction methods disrupt the market, among them, additive manufacturing (AM) has demonstrated its potential to transform the construction industry, especially through the 3D printing technology by extrusion. This technique has been widely studied for concrete production but only recently has been applied for earth-based materials, being only validated under laboratory conditions with few real-scale applications. In this chapter, a review on earth-based materials for the building industry is presented, paying attention to the characteristics needed by these materials to be suitably applied in modern AM processes. Advantages, current limits and open challenges in 3D printing such geomaterials will be presented. Lastly, some case studies will be shown.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
@@ -117,7 +98,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{fale_tren_zani.2025.EaaBM,
+      author            = "Flora Faleschini and Daniel Trento and Mariano Angelo Zanini",
+      title             = "Earth as a Building Material: From Traditional Building Techniques to Additive Manufacturing",
+      doi               = "10.1007/978-3-031-97818-0_7",
+      year              = "2025",
+      volume            = "352",
+      pages             = "111--133",
+      booktitle         = "Sustainable Materials for the Built Environment",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Faleschini, D. Trento and M. A. Zanini, “Earth as a Building Material: From Traditional Building Techniques to Additive Manufacturing”, in <i>Sustainable Materials for the Built Environment</i>,  2025, vol. 352, pp. 111–133. doi: 10.1007/978-3-031-97818-0_7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Faleschini, Flora, Daniel Trento, and Mariano Angelo Zanini. “Earth as a Building Material: From Traditional Building Techniques to Additive Manufacturing”. In <i>Sustainable Materials for the Built Environment</i>, 352:111–33, 2025. https://doi.org/10.1007/978-3-031-97818-0_7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

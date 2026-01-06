@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arun Arunothayan, Behzad Nematollahi, Ravi Ranade, Shin Bong, Jay Sanjayan
+    - footer
+title: Arunothayan Arun, Nematollahi Behzad, Ranade Ravi, Bong Shin, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.preprints.org/manuscript/201911.0377/v1/download) Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction ([2020-10](date/2020/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.119546" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.119546</a>
+#Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction ([2020-10](date/2020/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.preprints.org/manuscript/201911.0377/v1/download) <a href="https://doi.org/10.1016/j.conbuildmat.2020.119546" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119546" target="_blank">10.1016/j.conbuildmat.2020.119546</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b>&nbsp;Arun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6030-8371" title="ORCID: 0000-0001-6030-8371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranade_ravi"><b>Ranade</b>&nbsp;Ravi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bong_hau_shin"><b>Bong</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 257
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> <a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> <a href="https://orcid.org/0000-0001-6030-8371" title="ORCID: 0000-0001-6030-8371" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> <a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 257, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#digital`](keyword/digital)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printable%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete%20for%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084671966&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2990427106" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.119546" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.119546?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the systematic development and performance characterization of a non-proprietary 3D-printable ultra-high-performance fiber-reinforced concrete (UHPFRC). Several fresh and hardened state properties of the 3D-printable UHPFRC matrix (without fiber) and composite (with 2% volume fraction of steel fibers) were evaluated and compared to that of conventionally mold-cast UHPFRC. Additionally, the effects of test direction on the compressive strength and modulus of rupture of the printed UHPFRC were investigated. The fresh properties of the UHPFRC developed in this study satisfied the criteria for extrudability, buildability, and shape-retention-ability, which are relevant for ensuring printability. The printed UHPFRC exhibited superior flexural performance to the mold-cast UHPFRC due to alignment of the short fibers in the printing direction. The high compressive and flexural strengths, along with the deflection-hardening behavior, of the developed UHPFRC can enable the production of thin 3D-printed components with significant reduction or complete elimination of conventional steel bars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bong_nema_xia_naza.2019.Po3PDFRGCfDCA/">Properties of 3D Printable Ductile Fiber-Reinforced Geopolymer Composite for Digital Construction Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -91,7 +67,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
@@ -100,8 +75,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "214 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P/">Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
@@ -315,9 +291,34 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/luhar_salmabanu"><b>Luhar</b> Salmabanu</a>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/luhar_ismail"><b>Luhar</b> Ismail</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../luha_sunt_nava_luha.2020.SaRBBNFaIAf3PC/">Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/xiong_z"><b>Xiong</b> Z.</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../li_xiao_fang_xion.2021.FoGBFRSCSMf3P/">Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing</a></li>
-      <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
-      <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../marc_sanj.2020.BPoRBPi3CP/">Bond Properties of Reinforcing Bar Penetrations in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_wang_ma_sanj.2020.SaDEo3PSRbECMC/">Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables</a></li>
-      <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../arun_nema_sanj_rana.2020.QEoOoSFi3PUHPC/">Quantitative Evaluation of Orientation of Steel-Fibers in 3D Printed Ultra-High-Performance Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{arun_nema_rana_bong.2020.Do3PUHPFRCfDC,
+      author            = "Arun Ravendran Arunothayan and Behzad Nematollahi and Ravi Ranade and Shin Hau Bong and Jay Gnananandan Sanjayan",
+      title             = "Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction",
+      doi               = "10.1016/j.conbuildmat.2020.119546",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "257",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. R. Arunothayan, B. Nematollahi, R. Ranade, S. H. Bong and J. G. Sanjayan, “Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction”, <i>Construction and Building Materials</i>, vol. 257, 2020, doi: 10.1016/j.conbuildmat.2020.119546.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Arunothayan, Arun Ravendran, Behzad Nematollahi, Ravi Ranade, Shin Hau Bong, and Jay Gnananandan Sanjayan. “Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction”. <i>Construction and Building Materials</i> 257 (2020). https://doi.org/10.1016/j.conbuildmat.2020.119546.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

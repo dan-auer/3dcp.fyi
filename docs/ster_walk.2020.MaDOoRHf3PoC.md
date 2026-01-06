@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peter Sterckx, Ian Walker
+    - footer
+title: Sterckx Peter, Walker Ian
 description:
 tags:
  - cement
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modeling and Design-Optimization of Robotic Hoses for 3D Printing of Cement ([2020-11](date/2020/11))
-<a href="https://doi.org/10.1115/imece2020-23829" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1115/imece2020-23829</a>
+#Modeling and Design-Optimization of Robotic Hoses for 3D Printing of Cement ([2020-11](date/2020/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/imece2020-23829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/imece2020-23829" target="_blank">10.1115/imece2020-23829</a>
 
--------------------------
+<a href="../../../author/sterckx_peter"><b>Sterckx</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9465-2960" title="ORCID: 0000-0002-9465-2960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walker_d_ian"><b>Walker</b>&nbsp;Ian</a></span><br>
+Contribution - Volume 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sterckx_peter"><b>Sterckx</b> Peter</a>
-,     <a href="../../../author/walker_d_ian"><b>Walker</b> Ian</a> <a href="https://orcid.org/0000-0002-9465-2960" title="ORCID: 0000-0002-9465-2960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Volume 6, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#hose`](keyword/hose)
-    [`#model`](keyword/model)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/hose"><button class="btn">#hose</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%20and%20Design-Optimization%20of%20Robotic%20Hoses%20for%203D%20Printing%20of%20Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101282005&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,21 +37,45 @@ tags:
 <a href="https://inciteful.xyz/p/W3130170354" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1115/imece2020-23829" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1115/imece2020-23829?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Modeling tendon tensions for applications of tendon-actuated continuum robots under significant loading is necessary for sizing motors, tendons, and other components to ensure that the robot can safely support its mass during operation. While models exist that express tendon tensions as a function of continuum robot configuration, previously proposed models do not consider the effects of gravity on tendon tensions. In this paper, we discuss the addition of gravity to a static model previously developed for low-mass tendon-actuated continuum robots. Using the Euler-Lagrange methodology, the potential energy due to gravity is incorporated into the formulation of the equations that describe tendon tensions as a function of robot configuration. Preliminary experimental results reveal the potential of this nonzero-gravity tendon-tension model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ster_walk.2020.MaDOoRHf3PoC,
+      author            = "Peter Sterckx and Ian D. Walker",
+      title             = "Modeling and Design-Optimization of Robotic Hoses for 3D Printing of Cement",
+      doi               = "10.1115/imece2020-23829",
+      year              = "2020",
+      booktitle         = "Volume 6: Design, Systems, and Complexity",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sterckx  and I. D. Walker, “Modeling and Design-Optimization of Robotic Hoses for 3D Printing of Cement”,  2020. doi: 10.1115/imece2020-23829.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sterckx, Peter, and Ian D. Walker. “Modeling and Design-Optimization of Robotic Hoses for 3D Printing of Cement”. In <i>Volume 6: Design, Systems, and Complexity</i>, 2020. https://doi.org/10.1115/imece2020-23829.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

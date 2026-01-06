@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Namra Mir, Shoukat Khan, Anil Kul, Oğuzhan Şahin, Mustafa Şahmaran, Muammer Koç
+    - footer
+title: Mir Namra, Khan Shoukat, Kul Anil, Şahin Oğuzhan, Şahmaran Mustafa, Koç Muammer
 description:
 tags:
  - additive
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.clet.2022.100553) Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.clet.2022.100553" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.clet.2022.100553</a>
+#Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing ([2022-08](date/2022/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.clet.2022.100553) <a href="https://doi.org/10.1016/j.clet.2022.100553" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clet.2022.100553" target="_blank">10.1016/j.clet.2022.100553</a>
 
--------------------------
+<a href="../../../author/mir_namra"><b>Mir</b>&nbsp;Namra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kul_anil"><b>Kul</b>&nbsp;Anil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Cleaner Engineering and Technology, Vol. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mir_namra"><b>Mir</b> Namra</a>
-,     <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> <a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> <a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Engineering and Technology, Vol. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#construction`](keyword/construction)
-    [`#cycle`](keyword/cycle)
-    [`#demolition`](keyword/demolition)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#life`](keyword/life)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#suitability`](keyword/suitability)
-    [`#use`](keyword/use)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Construction%20and%20Demolition%20Waste-Based%20Geopolymers%20Suited%20for%20Use%20in%203D%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137646646&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,23 +42,19 @@ tags:
 <a href="https://inciteful.xyz/p/W4293729679" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.clet.2022.100553" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.clet.2022.100553?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study performs a life cycle assessment (LCA) on a novel process to produce geopolymer binders for 3-dimensional additive manufacturing (3D-AM). The method utilises construction and demolition waste (CDW) [hollow brick (HB), red clay brick (RCB), roof tile (RT), and glass (G)] as a sustainable resource for geopolymers production to replace Portland cement. The life cycle assessment is performed to identify hotspots (relevant processes or raw material) to improve the environmental performance of the whole process at an early stage of development and to evaluate the environmental impacts of energy, water, and waste emissions at various points in the life cycle. The CDW requires crushing, milling/grinding, and mixing with electrical input to produce the geopolymer binders. The alkali activators’ composition [6.25M NaOH, 10% Ca(OH)2] is selected as the base case for the assessment. The life cycle impact assessment (LCIA) results show the environmental impacts to be 635 (kg CO2 eq.), 5.06 (kg SO2 eq.), 0.104 (kg N eq.), 3.14E-10 (kg N eq.), and 12.2 (CTUe.) for the global warming potential (GWP), acidification potential (AP), eutrophication potential (EP), ozone layer depletion potential (ODP), and Ecotox air respectively for 1 m3 of geopolymer binder produced. Electricity contributes over 60% to the GWP, AP, EP, and Ecotox Air; therefore, a sensitivity analysis is performed with varying sources of renewable electricity. Also, compared to ordinary Portland cement (OPC), the GWP for the geopolymer binder produced is 21% less.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/atesli_tolga_anil"><b>Ateşli</b> Anıl</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sahi_ilca_ates_kul.2021.CaDWBGSfUi3AM/">Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/mahmoodi_obaid"><b>Mahmoodi</b> Obaid</a>, <a href="../../../author/siad_hocine"><b>Siad</b> Hocine</a>, <a href="../../../author/lachemi_mohamed"><b>Lachemi</b> Mohamed</a>, <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mahm_siad_lach_sahm.2025.RAiCBG/">Recent Advances in CDW-Based Geopolymers:<br/>A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability</a></li>
@@ -121,4 +93,33 @@ tags:
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/hou_gunayu"><b>Hou</b> Gunayu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../liu_li_li_hou.2023.MPOiSBTDPMUCF/">Mechanical Performance Optimization in Spray-Based Three-Dimensional-Printed Mortar Using Carbon-Fiber</a></li>
       <li><a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../demi_ozka_sahi_ilca.2022.MAEaBPo3PCaDWBGM/">Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mir_khan_kul_sahi.2022.LCAoCaDWBGSfUi3AM,
+      author            = "Namra Mir and Shoukat Alim Khan and Anil Kul and Oğuzhan Şahin and Mustafa Şahmaran and Muammer Koç",
+      title             = "Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing",
+      doi               = "10.1016/j.clet.2022.100553",
+      year              = "2022",
+      journal           = "Cleaner Engineering and Technology",
+      volume            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Mir, S. A. Khan, A. Kul, O. Şahin, M. Şahmaran and M. Koç, “Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing”, <i>Cleaner Engineering and Technology</i>, vol. 10, 2022, doi: 10.1016/j.clet.2022.100553.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mir, Namra, Shoukat Alim Khan, Anil Kul, Oğuzhan Şahin, Mustafa Şahmaran, and Muammer Koç. “Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing”. <i>Cleaner Engineering and Technology</i> 10 (2022). https://doi.org/10.1016/j.clet.2022.100553.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

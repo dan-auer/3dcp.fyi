@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Andersen Thomas 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/kaasgaard_martin"><b>Kaasgaard</b> Martin</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../silv_kaas_ande.2022.S3CPwLA/">Sustainable 3D Concrete Printing with Large Aggregates</a></li>
   <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../span_silv_moll_comm.2022.IRw3CP/">Integrating Reinforcement with 3D Concrete Printing:<br/>Experiments and Numerical Modelling</a></li>
   <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../span_silv_comm_moll.2021.NSoML3CP/">Numerical Simulation of Multi-Layer 3D Concrete Printing</a></li>

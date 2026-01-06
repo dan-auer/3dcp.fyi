@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pitabash Sahoo, Souradeep Gupta
+    - footer
+title: Sahoo Pitabash, Gupta Souradeep
 description:
 tags:
  - control
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing with Geopolymer-Stabilized Excavated Earth:<br/>:aca-blank: Enhancement of Printability and Engineering-Performance Through Controlled Retardation ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105861" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105861</a>
+#3D Printing with Geopolymer-Stabilized Excavated Earth&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Enhancement of Printability and Engineering-Performance Through Controlled Retardation</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105861" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105861" target="_blank">10.1016/j.cemconcomp.2024.105861</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-2747-4976" title="ORCID: 0009-0000-2747-4976" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahoo_pitabash"><b>Sahoo</b>&nbsp;Pitabash</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_souradeep"><b>Gupta</b>&nbsp;Souradeep</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 156, No. 105861
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a> <a href="https://orcid.org/0009-0000-2747-4976" title="ORCID: 0009-0000-2747-4976" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 156, No. 105861
-
-:aca-blank:{ .lg .middle}
-    [`#control`](keyword/control)
-    [`#earth`](keyword/earth)
-    [`#engineered`](keyword/engineered)
-    [`#enhancement`](keyword/enhancement)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#retarder`](keyword/retarder)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/retarder"><button class="btn">#retarder</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20Geopolymer-Stabilized%20Excavated%20Earth" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209733235&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404697489" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105861" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105861?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Excavated soil from widescale tunneling and excavation can be used in 3D-printed constructions. This research investigates the feasibility of 3D printing using geopolymer stabilized excavated soil (GP-E) containing 42% clay rich in kaolinite minerals. At dosages 0.50–1.5 wt%, sucrose is added to control the hydration and timedependent rheological properties, enabling adequate open printing time (OPT) for large-scale printing. Experimental findings show that 1% and 1.5% sucrose addition to GP-E offers OPT of 130 min and 170 min respectively compared to 32 min for GP-E. By enabling better dispersion, the addition of sucrose allows smooth extrusion with shape retention of 90 – 92% at a lower NaOH solution-to-binder ratio (0.68) than GP-E (0.75). Sucrose and clay (in the soil) act synergistically to reduce the time-dependent static yield stress but maintain it at an adequate level of 5–8 kPa required for stacking up the layers without collapse. Flow retention and thixotropy are maintained at 100% during the printing window, which balances extrusion and buildability. As a result, the sucrose-GP-E mix could be built up to a height of 1.05 m compared to 0.19 m for GP-E. 1 % sucrose-added GP-E possesses 28 – 40% and 70% higher wet compressive strength and inter-layer bonding respectively compared to GP-E depending on the loading direction. These are linked to the refinement of capillary porosity and a 13–15% reduction in shrinkage. In summary, the findings present a potential route for controlling the printing time of geopolymer-stabilized earthen materials while reducing the embodied carbon and enhancing the mechanical performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
       <li><a href="../../../author/bhusal_shiva"><b>Bhusal</b> Shiva</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../bhus_sedg_hoja.2023.EtPaRaMPo3PEMfCNB/">Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings</a></li>
@@ -94,9 +73,39 @@ tags:
       <li><a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../soda_dwiv_saha_gupt.2024.Do3PSEBCMUES/">Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil:<br/>Evaluation of Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b> Muhammad</a>, <a href="../../../author/zhu_xingyi"><b>Zhu</b> Xingyi</a>, <a href="../../../author/zhang_yating"><b>Zhang</b> Yating</a>, <a href="../../../author/wang_jiakang"><b>Wang</b> Jiakang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../anwa_zhu_zhan_wang.2025.SEoMCRoEMaLTSaMPoFASB3PG/">Synergistic Effects of Microwave Curing Regimes on Early, Mid, and Long-Term Strengths and Microstructural Performance of Fly Ash-Slag Based 3D-Printed Geopolymers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saho_gupt.2025.3PwGSEE,
+      author            = "Pitabash Sahoo and Souradeep Gupta",
+      title             = "3D Printing with Geopolymer-Stabilized Excavated Earth: Enhancement of Printability and Engineering-Performance Through Controlled Retardation",
+      doi               = "10.1016/j.cemconcomp.2024.105861",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "156",
+      pages             = "105861",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sahoo  and S. Gupta, “3D Printing with Geopolymer-Stabilized Excavated Earth: Enhancement of Printability and Engineering-Performance Through Controlled Retardation”, <i>Cement and Concrete Composites</i>, vol. 156, p. 105861, 2025, doi: 10.1016/j.cemconcomp.2024.105861.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sahoo, Pitabash, and Souradeep Gupta. “3D Printing with Geopolymer-Stabilized Excavated Earth: Enhancement of Printability and Engineering-Performance Through Controlled Retardation”. <i>Cement and Concrete Composites</i> 156 (2025): 105861. https://doi.org/10.1016/j.cemconcomp.2024.105861.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

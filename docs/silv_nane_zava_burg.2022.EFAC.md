@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guido Silva, Robert Ñañez, Diana Zavaleta, Valeria Burgos, Suyeon Kim, Gaby Ruiz, Miguel Pando, Rafael Aguilar, Javier Nakamatsu
+    - footer
+title: Silva Guido, Ñañez Robert, Zavaleta Diana, Burgos Valeria, Kim Suyeon, Ruiz Gaby, Pando Miguel, Aguilar Rafael, Nakamatsu Javier
 description:
 tags:
  - additive
@@ -17,38 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Eco-Friendly Additive Construction:<br/>:aca-blank: Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.128556" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128556</a>
+#Eco-Friendly Additive Construction&nbsp;([2022-07](date/2022/07))
+<div class="h1-like">Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128556" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128556" target="_blank">10.1016/j.conbuildmat.2022.128556</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_guido"><b>Silva</b>&nbsp;Guido</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8866-2196" title="ORCID: 0000-0001-8866-2196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanez_robert"><b>Ñañez</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4755-791X" title="ORCID: 0000-0002-4755-791X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavaleta_diana"><b>Zavaleta</b>&nbsp;Diana</a></span>, <a href="../../../author/burgos_valeria"><b>Burgos</b>&nbsp;Valeria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_suyeon"><b>Kim</b>&nbsp;Suyeon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3835-9708" title="ORCID: 0000-0003-3835-9708" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruiz_gaby"><b>Ruiz</b>&nbsp;Gaby</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9940-7887" title="ORCID: 0000-0001-9940-7887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pando_a_miguel"><b>Pando</b>&nbsp;Miguel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aguilar_rafael"><b>Aguilar</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b>&nbsp;Javier</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 347
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> <a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a> <a href="https://orcid.org/0000-0001-8866-2196" title="ORCID: 0000-0001-8866-2196" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a> <a href="https://orcid.org/0000-0002-4755-791X" title="ORCID: 0000-0002-4755-791X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a>
-,     <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> <a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> <a href="https://orcid.org/0000-0003-3835-9708" title="ORCID: 0000-0003-3835-9708" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pando_a_miguel"><b>Pando</b> Miguel</a> <a href="https://orcid.org/0000-0001-9940-7887" title="ORCID: 0000-0001-9940-7887" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> <a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> <a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 347, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#construction`](keyword/construction)
-    [`#earth`](keyword/earth)
-    [`#fiber`](keyword/fiber)
-    [`#matrix`](keyword/matrix)
-    [`#printability`](keyword/printability)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Eco-Friendly%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134893051&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4288681096" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.128556" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.128556?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing for construction purposes is a disruptive technology with the potential for rapid and massive applications making it a feasible alternative for social housing, temporary shelters after disasters, and, recently, for extraterrestrial habitats. However, most of the matrices used for construction by 3D printing are based on hydraulic cement as the main constituent, which is not easily available in remote locations and is an important greenhouse gases generator. Therefore, a good understanding to formulate and evaluate alternative matrices using soil and organic materials with the required fresh and hardened-state properties compatible with this emerging technology is needed. This article studies the printable capabilities of eco-friendly earthen-based matrices which uses potato starch as a natural stabilizer for raw soil mortars aiming to obtain 3D printed filaments with adequate fresh and hardened-states properties. The aqueous starch gel was combined with sisal fibers in the printing mixture to control shrinkage cracking problems during hardening. The optimization of the dosage of the stabilizer was carried out considering different tests in fresh and hardened printed filaments namely, pumpability and extrudability, stacking, shear vane, shrinkage cracking, Vicat needle, compression strength, and capillarity absorption tests. The results indicate that printable earthen-based matrices reinforced with 1 % of sisal fibers by weight of soil and stabilized with aqueous starch gels with concentrations up to 5 % (w/w) showed improved workability and minor cracking and can be used for 3D printing. These promising results in the field of material science combined with novel 3D printing technology that is also presented in the article open new lines of research for eco-friendly alternatives for the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
@@ -103,8 +76,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF/">3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tarh_tarh_jacq_perr.2024.MBo3PaTREFC/">Mechanical Behavior of 3D Printed and Textile-Reinforced Eco-Friendly Composites</a></li>
@@ -121,4 +94,33 @@ tags:
       <li><a href="../../../author/baldoceda_jordan"><b>Baldoceda</b> Jordan</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a>, <a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bald_silv_kim_ruiz.2023.PEEoBIMfCf3P/">Preliminary Experimental Evaluation of Buildability Improvement Methods for Concrete for 3D Printing</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../silv_burg_nane_kim.2023.SCMfAC/">Soil-Cement Matrices for Additive Construction:<br/>3D Printing System Validation and Printing Tests</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{silv_nane_zava_burg.2022.EFAC,
+      author            = "Guido Silva and Robert Ñañez and Diana Zavaleta and Valeria Burgos and Suyeon Kim and Gaby Ruiz and Miguel A. Pando and Rafael Aguilar and Javier Nakamatsu",
+      title             = "Eco-Friendly Additive Construction: Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers",
+      doi               = "10.1016/j.conbuildmat.2022.128556",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "347",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Silva, “Eco-Friendly Additive Construction: Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers”, <i>Construction and Building Materials</i>, vol. 347, 2022, doi: 10.1016/j.conbuildmat.2022.128556.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silva, Guido, Robert Ñañez, Diana Zavaleta, Valeria Burgos, Suyeon Kim, Gaby Ruiz, Miguel A. Pando, Rafael Aguilar, and Javier Nakamatsu. “Eco-Friendly Additive Construction: Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers”. <i>Construction and Building Materials</i> 347 (2022). https://doi.org/10.1016/j.conbuildmat.2022.128556.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #limestone
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/castro-chincho_ana"><b>Castro-Chincho</b> Ana</a>, <a href="../../../author/ivorra-martinez_juan"><b>Ivorra-Martinez</b> Juan</a>, <a href="../../../author/perejon_antonio"><b>Perejón</b> Antonio</a>, <a href="../../../author/sanchez-jimenez_e_pedro"><b>Sánchez-Jiménez</b> Pedro</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../cast_ivor_pere_sanc.2025.3PMLSfCLTES/">3D-Printed Mineral Limestone Structures for Calcium Looping Thermochemical Energy Storage:<br/>Reactivity and Performance Across Cycles</a></li>
   <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>

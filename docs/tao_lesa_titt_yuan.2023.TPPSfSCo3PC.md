@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Karel Lesage, Kim Tittelboom, Yong Yuan, Geert Schutter
+    - footer
+title: Tao Yaxin, Lesage Karel, Tittelboom Kim, Yuan Yong, Schutter Geert
 description:
 tags:
  - concrete
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete:<br/>:aca-blank: From Transportation to Fabrication ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.cemconres.2023.107137" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2023.107137</a>
+#Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete&nbsp;([2023-03](date/2023/03))
+<div class="h1-like">From Transportation to Fabrication</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2023.107137" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2023.107137" target="_blank">10.1016/j.cemconres.2023.107137</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesage_karel"><b>Lesage</b>&nbsp;Karel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 168
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 168, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#fabrication`](keyword/fabrication)
-    [`#pipe`](keyword/pipe)
-    [`#printability`](keyword/printability)
-    [`#pump`](keyword/pump)
-    [`#stiffness`](keyword/stiffness)
-    [`#strategy`](keyword/strategy)
-    [`#transport`](keyword/transport)
-    [`#twin`](keyword/twin)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Twin-Pipe%20Pumping-Strategy%20for%20Stiffening-Control%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149916748&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323869924" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2023.107137" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2023.107137?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Resolving the contradictions between the pumping and deposition process still remain as a bottleneck in 3D concrete printing. Fluidity retention is beneficial for pumping operations, while fast stiffening after extrusion is indispensable for a high construction rate. To overcome this drawback, an inline mixing strategy, named twinpipe pumping, using a motionless static mixer and two pumps is proposed. During the printing process, two distinct mixtures are premixed, including a Portland cement-based mixture (without accelerator) and a limestone powder-based mixture (with a high dosage of accelerator). Both mixtures come with a long open time and a high fluidity to optimize the pumping performance. These mixtures are pumped from two separate pipes and merged by the static mixer before extrusion. The stiffening rate of the mixture is then drastically modified inside the static mixer and the combined mixture can reach a high construction rate with good shape stability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/esnault_vivien"><b>Esnault</b> Vivien</a>, <a href="../../../author/labyad_a"><b>Labyad</b> A.</a>, <a href="../../../author/chantin_marjorie"><b>Chantin</b> Marjorie</a>, <a href="../../../author/toussaint_fabrice"><b>Toussaint</b> Fabrice</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../esna_laby_chan_tous.2019.EiOLMoRaSAo3PM/">Experience in On-Line Modification of Rheology and Strength Acquisition of 3D Printable Mortars</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -96,8 +72,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../wang_scot_llor_flat.2019.RTDiCPoC/">Residence-Time-Distributions in Continuous Processing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -128,8 +104,34 @@ tags:
       <li><a href="../../../author/poldaru_mattias"><b>Põldaru</b> Mattias</a>, <a href="../../../author/tammkorv_karl"><b>Tammkõrv</b> Karl</a>, <a href="../../../author/tusik_tanel"><b>Tusik</b> Tanel</a>, <a href="../../../author/kiviste_mihkel"><b>Kiviste</b> Mihkel</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../pold_tamm_tusi_kivi.2023.TEoPDotSCoa3PCWS/">The Effect of Printing-Direction on the Strength Characteristics of a 3D Printed Concrete Wall-Section</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tao_moha_rahu_schu.2023.IoRoMHaMBoTP3PC/">Influence of Rheology on Mixing Homogeneity and Mechanical Behavior of Twin-Pipe 3D Printable Concrete</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../muth_rama_sanj.2023.REASDoILAGfC3P/">Rapid Early-Age Strength Development of In-Line Activated Geopolymer for Concrete 3D Printing</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../tao_rahu_moha_titt.2022.BPoHSMUfTP3CP/">Blending Performance of Helical Static Mixer Used for Twin-Pipe 3D Concrete Printing</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../tao_moha_rahu_yuan.2022.SCCMwRPPfTPP/">Stiffening Controllable Concrete Modified with Redispersible Polymer Powder for Twin-Pipe Printing</a></li>
-      <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../moha_rahu_tao_schu.2022.HRIoBCSwaTSMP/">Hydration Re-Initiation of Borated CSA Systems with a Two-Stage Mixing Process:<br/>An Application in Extrusion-Based Concrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_lesa_titt_yuan.2023.TPPSfSCo3PC,
+      author            = "Yaxin Tao and Karel Lesage and Kim van Tittelboom and Yong Yuan and Geert de Schutter",
+      title             = "Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete: From Transportation to Fabrication",
+      doi               = "10.1016/j.cemconres.2023.107137",
+      year              = "2023",
+      journal           = "Cement and Concrete Research",
+      volume            = "168",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, K. Lesage, K. van Tittelboom, Y. Yuan and G. de Schutter, “Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete: From Transportation to Fabrication”, <i>Cement and Concrete Research</i>, vol. 168, 2023, doi: 10.1016/j.cemconres.2023.107137.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Karel Lesage, Kim van Tittelboom, Yong Yuan, and Geert de Schutter. “Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete: From Transportation to Fabrication”. <i>Cement and Concrete Research</i> 168 (2023). https://doi.org/10.1016/j.cemconres.2023.107137.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

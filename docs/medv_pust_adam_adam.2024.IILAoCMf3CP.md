@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vyacheslav Medvedev, Andrey Pustovgar, Aleksey Adamtsevich, Liubov Adamtsevich, Anastasia Abramova
+    - footer
+title: Medvedev Vyacheslav, Pustovgar Andrey, Adamtsevich Aleksey, Adamtsevich Liubov, Abramova Anastasia
 description:
 tags:
  - adhesion
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings14123793) Improving Inter-Layer Adhesion of Cementitious Materials for 3D Construction Printing ([2024-11](date/2024/11))
-<a href="https://doi.org/10.3390/buildings14123793" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14123793</a>
+#Improving Inter-Layer Adhesion of Cementitious Materials for 3D Construction Printing ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14123793) <a href="https://doi.org/10.3390/buildings14123793" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14123793" target="_blank">10.3390/buildings14123793</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5542-8157" title="ORCID: 0000-0002-5542-8157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/medvedev_vyacheslav"><b>Medvedev</b>&nbsp;Vyacheslav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0480-2401" title="ORCID: 0000-0002-0480-2401" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pustovgar_andrey"><b>Pustovgar</b>&nbsp;Andrey</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4878-2737" title="ORCID: 0000-0003-4878-2737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b>&nbsp;Aleksey</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5843-0076" title="ORCID: 0000-0002-5843-0076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b>&nbsp;Liubov</a></span>, <a href="../../../author/abramova_anastasia"><b>Abramova</b>&nbsp;Anastasia</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 12, No. 3793
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/medvedev_vyacheslav"><b>Medvedev</b> Vyacheslav</a> <a href="https://orcid.org/0000-0002-5542-8157" title="ORCID: 0000-0002-5542-8157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a> <a href="https://orcid.org/0000-0002-0480-2401" title="ORCID: 0000-0002-0480-2401" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="https://orcid.org/0000-0003-4878-2737" title="ORCID: 0000-0003-4878-2737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a> <a href="https://orcid.org/0000-0002-5843-0076" title="ORCID: 0000-0002-5843-0076" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abramova_anastasia"><b>Abramova</b> Anastasia</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 12, No. 3793
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#improvement`](keyword/improvement)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20Inter-Layer%20Adhesion%20of%20Cementitious%20Materials%20for%203D%20Construction%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213081749&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404756557" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14123793" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14123793?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The popularity of additive technologies in construction is increasing every year. At the same time, there are still a significant number of unresolved issues in this area related to the complexity of ensuring uniformity of printing due to technical difficulties with the mortar. One of the main issues is the adhesion of printed layers. This is especially true for continuing the printing process after it has been suspended with the formation of a cold joint. The authors consider the possibility of improving the technological properties of 3D construction printing (3DCP) mortars by introducing redispersible polymer powders (RPPs) and surface-active substances (SASs) into their composition. A comprehensive analysis of the effectiveness of various RPPs and SASs was carried out using standard testing methods to identify the most effective options and combinations of admixtures depending on their structure and mechanism of action. Laboratory tests of the mortar composition for 3DCP using the selected RPPs and SASs were carried out with the imitation of the formation of a cold joint. The most effective combination of RPPs and SASs was used to create the mortar for making the formforming element using a construction 3D printer. Based on the results of the tests, the patterns of RPPs and SASs influence on the adhesive strength of such mixtures were determined.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
@@ -87,9 +64,40 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/li_keyan"><b>Li</b> Keyan</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_li_liu.2025.S3PECCIRCM/">Sustainable 3D Printed Engineered Cementitious Composites Incorporating Recycled Ceramic Materials:<br/>Rheology and Mechanical Behavior</a></li>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{medv_pust_adam_adam.2024.IILAoCMf3CP,
+      author            = "Vyacheslav Medvedev and Andrey Pustovgar and Aleksey Adamtsevich and Liubov Adamtsevich and Anastasia Abramova",
+      title             = "Improving Inter-Layer Adhesion of Cementitious Materials for 3D Construction Printing",
+      doi               = "10.3390/buildings14123793",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "12",
+      pages             = "3793",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Medvedev, A. Pustovgar, A. Adamtsevich, L. Adamtsevich and A. Abramova, “Improving Inter-Layer Adhesion of Cementitious Materials for 3D Construction Printing”, <i>Buildings</i>, vol. 14, no. 12, p. 3793, 2024, doi: 10.3390/buildings14123793.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Medvedev, Vyacheslav, Andrey Pustovgar, Aleksey Adamtsevich, Liubov Adamtsevich, and Anastasia Abramova. “Improving Inter-Layer Adhesion of Cementitious Materials for 3D Construction Printing”. <i>Buildings</i> 14, no. 12 (2024): 3793. https://doi.org/10.3390/buildings14123793.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

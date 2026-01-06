@@ -8,7 +8,7 @@ search:
 
 # #estimation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/kozlova_mariia"><b>Kozlova</b> Mariia</a>, <a href="../../../author/yeomans_scott_julian"><b>Yeomans</b> Julian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../walz_kozl_yeom.2024.PH/">Printing Homes:<br/>Unit Cost Estimation for Additive Manufacturing in Construction</a></li>
   <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bono_duco_mesn_caro.2024.TLCFCMf3P/">Tailored Low-Carbon Footprint Cementitious Material for 3D Printing:<br/>Strategies for Rheology Adjustment and Mechanical Performance Estimation</a></li>
   <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/haque_aminul_m"><b>Haque</b> M.</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../uddi_ye_haqu_yu.2024.ANCSEAf3PFRC/">A Novel Compressive Strength Estimation Approach for 3D Printed Fiber-Reinforced Concrete:<br/>Integrating Machine Learning and Gene Expression Programming</a></li>

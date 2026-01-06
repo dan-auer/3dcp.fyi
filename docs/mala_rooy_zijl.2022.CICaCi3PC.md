@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jean Malan, Algurnon Rooyen, Gideon Zijl
+    - footer
+title: Malan Jean, Rooyen Algurnon, Zijl Gideon
 description:
 tags:
  - carbonation
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2412-3811/7/1/1/pdf?version=1640660328) Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete ([2021-12](date/2021/12))
-<a href="https://doi.org/10.3390/infrastructures7010001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/infrastructures7010001</a>
+#Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete ([2021-12](date/2021/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2412-3811/7/1/1/pdf?version=1640660328) <a href="https://doi.org/10.3390/infrastructures7010001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures7010001" target="_blank">10.3390/infrastructures7010001</a>
 
--------------------------
+<a href="../../../author/malan_jean"><b>de'm&nbsp;Malan</b>&nbsp;Jean</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rooyen_steve_algurnon"><b>van&nbsp;Rooyen</b>&nbsp;Algurnon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Infrastructures, Vol. 7, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/malan_jean"><b>de'm Malan</b> Jean</a>
-,     <a href="../../../author/rooyen_steve_algurnon"><b>van Rooyen</b> Algurnon</a> <a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Infrastructures, Vol. 7, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#chloride`](keyword/chloride)
-    [`#concrete`](keyword/concrete)
-    [`#corrosion`](keyword/corrosion)
-    [`#induction`](keyword/induction)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/corrosion"><button class="btn">#corrosion</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Chloride-Induced%20Corrosion%20and%20Carbonation%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121662500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,22 +36,17 @@ tags:
 <a href="https://inciteful.xyz/p/W4200098633" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/infrastructures7010001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/infrastructures7010001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The durability of reinforced concrete structures is dependent on the ability of the concrete cover to combat the ingress of chlorides and carbon dioxide in marine and urban environments. In recent years, interest in additive manufacturing, specifically referring to extrusion based three-dimensional concrete printing (3DCP), has been growing in the construction industry. Despite this being a promising technology that can save construction time, costs and resources, certain issues regarding the lack of fusion between subsequent printed layers have been brought to light. Research has shown that the lack of fusion at the interlayer regions can act as ingress pathways for corrosion contaminants, such as carbon dioxide and chloride aqueous solution, that can cause deterioration. This study investigates the interlayer bond strength (flexural strength) and durability performance of 3D printed concrete subjected to pass times between 0 and 30 min and compares the results to reference cast concrete of the same concrete mixture. The durability study includes Durability Index testing (oxygen permeability, water sorptivity and chloride conductivity index), accelerated concrete carbonation and chloride-induced corrosion. The results show that the cast samples outperform printed samples, yielding greater flexural strength and durability properties, and emphasize the importance of improving the 3DCP interfacial bond. Cast samples are shown to have randomly distributed, compact voids compared to the interconnected and elongated pores located at the interlayer regions of printed samples. In addition, printed samples yield lower interlayer bond strength and durability properties with an increase in pass time, which is attributed to surface moisture evaporation as well as the thixotropic behaviour of the concrete mixture. Good relationships between the mechanical strength and durability performance are also presented
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
-      <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/azima_m"><b>Azima</b> M.</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/mullem_t"><b>Mullem</b> T.</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../putt_azim_heed_mull.2020.NRtStWIvtILo3PCMfCL/">Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering</a></li>
@@ -75,8 +55,8 @@ tags:
       <li><a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a>, <a href="../../../author/elsener_bernhard"><b>Elsener</b> Bernhard</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../stef_angs_else.2019.CCaOiDFoRC/">Corrosion Challenges and Opportunities in Digital Fabrication of Reinforced Concrete</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_li_ma.2021.CCBwHBSaMHPCfLS3P/">Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
@@ -114,6 +94,35 @@ tags:
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../han_xiao_zhan_peng.2022.AMSBNMfIHTMBo3PCaET/">A Micro-Scale-Based Numerical Model for Investigating Hygro-Thermo-Mechanical Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
-      <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mala_rooy_zijl.2022.CICaCi3PC,
+      author            = "Jean de'M Malan and Algurnon Steve van Rooyen and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete",
+      doi               = "10.3390/infrastructures7010001",
+      year              = "2022",
+      journal           = "Infrastructures",
+      volume            = "7",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. de'M Malan, A. S. van Rooyen and G. P. A. G. van Zijl, “Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete”, <i>Infrastructures</i>, vol. 7, no. 1, 2022, doi: 10.3390/infrastructures7010001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Malan, Jean de'M, Algurnon Steve van Rooyen, and Gideon Pieter Adriaan Greeff van Zijl. “Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete”. <i>Infrastructures</i> 7, no. 1 (2022). https://doi.org/10.3390/infrastructures7010001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

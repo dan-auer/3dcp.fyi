@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Attupurathu Rahul, Manu Mohan, Kim Tittelboom, Yong Yuan, Geert Schutter
+    - footer
+title: Tao Yaxin, Rahul Attupurathu, Mohan Manu, Tittelboom Kim, Yuan Yong, Schutter Geert
 description:
 tags:
  - blend
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Blending Performance of Helical Static Mixer Used for Twin-Pipe 3D Concrete Printing ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104741" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104741</a>
+#Blending Performance of Helical Static Mixer Used for Twin-Pipe 3D Concrete Printing ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104741" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104741" target="_blank">10.1016/j.cemconcomp.2022.104741</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohan_k_manu"><b>Mohan</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> <a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#blend`](keyword/blend)
-    [`#concrete`](keyword/concrete)
-    [`#helical`](keyword/helical)
-    [`#mixing`](keyword/mixing)
-    [`#performance`](keyword/performance)
-    [`#pipe`](keyword/pipe)
-    [`#print`](keyword/print)
-    [`#static`](keyword/static)
-    [`#twin`](keyword/twin)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/helical"><button class="btn">#helical</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Blending%20Performance%20of%20Helical%20Static%20Mixer%20Used%20for%20Twin-Pipe%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137172960&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4294203912" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104741" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104741?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A twin-pipe pumping system has been developed to overcome the conflicting requirements in 3D concrete printing between pumping and deposition. In the twin-pipe pumping system, a helical static mixer, consisting of a series of mixing elements, is used to blend a cement-based mixture and a limestone-based mixture right before extrusion. As these two mixtures go through the static mixer, non-moving mixing elements continuously blend the materials in a flow-division pattern. However, the blending performance of the helical static mixer used for twin-pipe 3D concrete printing has not yet been reported. This paper presents the results of an experimental study on the relation between the mechanical behavior and the blending efficiency of the helical static mixer. Based on the binary images of the polished specimens printed with a different number of mixing elements, the blending performance was characterized by the coefficient of variation of the row-wise intensity distribution. A reasonable linear relationship was established between the mechanical strength (flexural strength and tensile strength) and the mixing homogeneity of the two mixtures. In addition, a higher number of mixing elements was observed to lead to a more dense pore structure, most probably due to the better compaction of the material by the higher pumping pressure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
@@ -94,7 +68,6 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_lesa_titt_yuan.2022.IoSSRaMCoTAPo3PC/">Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tao_lesa_titt_yuan.2023.TPPSfSCo3PC/">Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete:<br/>From Transportation to Fabrication</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_rahu_lesa_titt.2022.MaMPo3PCitCotTPPS/">Mechanical and Microstructural Properties of 3D Printable Concrete in the Context of the Twin-Pipe Pumping-Strategy</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
@@ -103,8 +76,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tao_yuan_zhan_wang.2025.PSAoPUVT/">Pore Structure Analysis of Printcrete Under Varying Temperature</a></li>
@@ -129,4 +102,32 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../tao_rahu_moha_schu.2023.EMPoTPPCUaBBS/">Enhancing Mechanical Performance of Twin-Pipe Printable Concrete Using a Binary Binder System</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_moha_rahu_schu.2023.DoaCSPCBSfTP3CP/">Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_rahu_moha_titt.2022.BPoHSMUfTP3CP,
+      author            = "Yaxin Tao and Attupurathu Vijayan Rahul and Manu K. Mohan and Kim van Tittelboom and Yong Yuan and Geert de Schutter",
+      title             = "Blending Performance of Helical Static Mixer Used for Twin-Pipe 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2022.104741",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, A. V. Rahul, M. K. Mohan, K. van Tittelboom, Y. Yuan and G. de Schutter, “Blending Performance of Helical Static Mixer Used for Twin-Pipe 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, 2022, doi: 10.1016/j.cemconcomp.2022.104741.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Attupurathu Vijayan Rahul, Manu K. Mohan, Kim van Tittelboom, Yong Yuan, and Geert de Schutter. “Blending Performance of Helical Static Mixer Used for Twin-Pipe 3D Concrete Printing”. <i>Cement and Concrete Composites</i>, 2022. https://doi.org/10.1016/j.cemconcomp.2022.104741.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

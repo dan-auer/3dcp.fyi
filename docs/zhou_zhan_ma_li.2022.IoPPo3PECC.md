@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wen Zhou, Yamei Zhang, Lei Ma, Victor Li
+    - footer
+title: Zhou Wen, Zhang Yamei, Ma Lei, Li Victor
 description:
 tags:
  - cement
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104562" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104562</a>
+#Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104562" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104562" target="_blank">10.1016/j.cemconcomp.2022.104562</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_wen"><b>Zhou</b>&nbsp;Wen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/ma_lei"><b>Ma</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 130
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>
-,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 130, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#influence`](keyword/influence)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Printing%20Parameters%20on%203D%20Printing%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129562500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224950656" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104562" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104562?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of engineered cementitious composites (3DP-ECC) serves as an effective means to enable digital and automated construction while removing the dependence of steel reinforcement typical in normal concrete construction. As generally recognized, process control in 3DP is as crucial as material constituents to the performance of the printed structure. Printing parameters pose direct influence on the micro-structure of material, which further impacts the macro-scale properties of printed ECC. In this paper, the effects of different nozzle standoff distances and nozzle travelling speeds are investigated. It is found that lowering the nozzle standoff distance within a certain range increases the in-plane tensile strength and strain capacity of 3DP-ECC by 39% and 30%, respectively. The tensile performance is also enhanced by a moderate printing speed. In addition, a 141% increase in interfacial fiber bridging force is found with elevated nozzle standoff distance. Furthermore, the micro-structure observed via μ-CT correlates well with the printing parameters, micro-structure and macro-scale properties of 3DP-ECC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
@@ -93,8 +73,10 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "92 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
+      <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -186,4 +168,33 @@ tags:
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_dexin"><b>Li</b> Dexin</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wang_lin_ma_li.2022.MaMPo3PACBCEtET/">Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_zhan_ma_li.2022.IoPPo3PECC,
+      author            = "Wen Zhou and Yamei Zhang and Lei Ma and Victor C. Li",
+      title             = "Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2022.104562",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "130",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zhou, Y. Zhang, L. Ma and V. C. Li, “Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, vol. 130, 2022, doi: 10.1016/j.cemconcomp.2022.104562.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Wen, Yamei Zhang, Lei Ma, and Victor C. Li. “Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i> 130 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104562.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

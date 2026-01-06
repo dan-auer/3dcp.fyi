@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: João Teixeira, Cecília Schaefer, Bárbara Rangel, Jorge Alves, Lino Maia, Sandra Nunes, Rui Neto, Maria Lopes
+    - footer
+title: Teixeira João, Schaefer Cecília, Rangel Bárbara, Alves Jorge, Maia Lino, Nunes Sandra, Neto Rui, Lopes Maria
 description:
 tags:
  - analysis
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://journals.sagepub.com/doi/pdf/10.1177/1464420721995210) Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis ([2021-03](date/2021/03))
-<a href="https://doi.org/10.1177/1464420721995210" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1177/1464420721995210</a>
+#Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis ([2021-03](date/2021/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://journals.sagepub.com/doi/pdf/10.1177/1464420721995210) <a href="https://doi.org/10.1177/1464420721995210" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/1464420721995210" target="_blank">10.1177/1464420721995210</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b>&nbsp;Cecília</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_lino"><b>Maia</b>&nbsp;Lino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4876-2587" title="ORCID: 0000-0002-4876-2587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nunes_sandra"><b>Nunes</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2719-5672" title="ORCID: 0000-0003-2719-5672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neto_rui"><b>Neto</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2390-4825" title="ORCID: 0000-0002-2390-4825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lopes_lurdes-costa_maria"><b>Lopes</b>&nbsp;Maria</a></span><br>
+Journal Article - Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications, Vol. 235, Iss. 6, pp. 1419-1429
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> <a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nunes_sandra"><b>Nunes</b> Sandra</a> <a href="https://orcid.org/0000-0002-4876-2587" title="ORCID: 0000-0002-4876-2587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neto_rui"><b>Neto</b> Rui</a> <a href="https://orcid.org/0000-0003-2719-5672" title="ORCID: 0000-0003-2719-5672" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lopes_lurdes-costa_maria"><b>Lopes</b> Maria</a> <a href="https://orcid.org/0000-0002-2390-4825" title="ORCID: 0000-0002-2390-4825" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications, Vol. 235, Iss. 6, pp. 1419-1429
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#bibliometry`](keyword/bibliometry)
-    [`#development`](keyword/development)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printing%20Sustainable%20Mortars%20Based%20on%20a%20Bibliometric%20Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85102128005&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3135795424" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1177/1464420721995210" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1177/1464420721995210?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In construction, three-dimensional concrete printing technology is an innovative method that opens new design possibilities, reducing the construction time process. The incremental material deposition allows organic shapes without formwork, a mandatory constraint in preparatory phases of conventional complex concrete structures. Nowadays, in three-dimensional printing for construction industry, concrete is the most used material due to its workability, extrudability, and pumpability properties favorable for the printing conditions. Hence, this composition still has a poor sustainable efficiency due to the high levels of Portland Cement. In this research, a reduction of this material was studied and experimented searching for a mortar composition with better ecological footprint, with the objective of decreasing the CO2 emissions. A bibliometric analysis was made to study the constituents of a mortar for three-dimensional printing and respective dosage. The knowledge acquired in the analysis of the compositions contributed to the development of mortars with lower Portland Cement content. A mechanical extruder was used to check the extrusion capacity of the developed mortars, and the best compositions are presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
@@ -113,8 +88,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/pal_abhipsa"><b>Pal</b> Abhipsa</a>, <a href="../../../author/wan-wendner_lin"><b>Wan-Wendner</b> Lin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pal_wan.2025.3CPaIPoEESWE/">3D Concrete Printing and Infill Patterns of Energy Efficient Structural Wall Elements</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../kasz_skib.2025.SDAf3CP/">Sustainable Development Approach for 3D Concrete Printing</a></li>
@@ -127,4 +102,35 @@ tags:
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../teix_scha_maia_rang.2022.IoSCMoFPo3PM/">Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials</a></li>
       <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../guim_delg_luca.2021.TaEBo3PoBC/">Thermal and Environmental Benefits of 3D Printing on Building Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{teix_scha_rang_alve.2021.Do3PSMBoaBA,
+      author            = "João Teixeira and Cecília Ogliari Schaefer and Bárbara Rangel and Jorge Lino Alves and Lino Maia and Sandra Nunes and Rui Neto and Maria Lurdes Costa Lopes",
+      title             = "Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis",
+      doi               = "10.1177/1464420721995210",
+      year              = "2021",
+      journal           = "Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications",
+      volume            = "235",
+      number            = "6",
+      pages             = "1419--1429",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Teixeira, “Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis”, <i>Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications</i>, vol. 235, no. 6, pp. 1419–1429, 2021, doi: 10.1177/1464420721995210.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Teixeira, João, Cecília Ogliari Schaefer, Bárbara Rangel, Jorge Lino Alves, Lino Maia, Sandra Nunes, Rui Neto, and Maria Lurdes Costa Lopes. “Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis”. <i>Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications</i> 235, no. 6 (2021): 1419–29. https://doi.org/10.1177/1464420721995210.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

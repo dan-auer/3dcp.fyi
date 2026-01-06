@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tao Ding, Fei Qin, Jianzhuang Xiao, Xiaoming Chen, Zibo Zuo
+    - footer
+title: Ding Tao, Qin Fei, Xiao Jianzhuang, Chen Xiaoming, Zuo Zibo
 description:
 tags:
  - bar
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1016/j.jobe.2022.104105" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2022.104105</a>
+#Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete ([2022-01](date/2022/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.104105" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.104105" target="_blank">10.1016/j.jobe.2022.104105</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <a href="../../../author/qin_fei"><b>Qin</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/chen_xiaoming"><b>Chen</b>&nbsp;Xiaoming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 49
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a>
-,     <a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> <a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 49, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20the%20Bond%20Behavior%20Between%20Steel-Bars%20and%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123805198&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4206931405" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2022.104105" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2022.104105?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The effects of the steel bar direction, steel bar anchorage length, and incorporation of recycled sand and fibre on the bond behaviour of 3D printed concrete specimens were investigated with pull-out tests. The steel bar was placed and covered by multiple printed concrete layers in this study. Compared with mould-cast concrete specimens, the bond failure pattern was similar when the steel bar was pulled out for the 3D printed concrete specimen. However, because the 3D printed concrete specimens had multiple internal interfaces, the probability of splitting failure was higher, and the failure patterns were clearly different. In general, the bond strengths of the 3D printed concrete specimens were lower than those of mould-cast specimens, and there were differences in the bond strength when the steel bars were placed in various directions. Moreover, the modified bond strength model proposed in this study agrees well with the test results and can be used to predict the bond strength between steel bars and 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -107,8 +85,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../syed_abid_khan.2025.AIMLAfPRBPi3CP/">An Interpretable Machine Learning Approach for Predicting Reinforcement Bond Performance in 3D Concrete Printing</a></li>
       <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
@@ -132,4 +110,33 @@ tags:
       <li><a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../wang_jia_deng_zhan.2022.BBBSBa3PC/">Bond Behavior Between Steel-Bars and 3D Printed Concrete:<br/>Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../gebh_espo_menn_mata.2022.ILSotIo3CPSUotBBoVR/">Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_qin_xiao_chen.2022.ESotBBBSBa3PC,
+      author            = "Tao Ding and Fei Qin and Jianzhuang Xiao and Xiaoming Chen and Zibo Zuo",
+      title             = "Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete",
+      doi               = "10.1016/j.jobe.2022.104105",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "49",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ding, F. Qin, J. Xiao, X. Chen and Z. Zuo, “Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete”, <i>Journal of Building Engineering</i>, vol. 49, 2022, doi: 10.1016/j.jobe.2022.104105.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Tao, Fei Qin, Jianzhuang Xiao, Xiaoming Chen, and Zibo Zuo. “Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete”. <i>Journal of Building Engineering</i> 49 (2022). https://doi.org/10.1016/j.jobe.2022.104105.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joris Burger, Tobias Huber, Ena Lloret-Fritschi, Jaime Mata-Falcón, Fabio Gramazio, Matthias Kohler
+    - footer
+title: Burger Joris, Huber Tobias, Lloret-Fritschi Ena, Mata-Falcón Jaime, Gramazio Fabio, Kohler Matthias
 description:
 tags:
  - concrete
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.research-collection.ethz.ch/bitstream/20.500.11850/575365/1/Burgeretal_2022_Designandfabricationofoptimisedribbedconcretefloorslabsusinglarge.pdf) Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.autcon.2022.104599" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104599</a>
+#Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork ([2022-10](date/2022/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/575365/1/Burgeretal_2022_Designandfabricationofoptimisedribbedconcretefloorslabsusinglarge.pdf) <a href="https://doi.org/10.1016/j.autcon.2022.104599" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104599" target="_blank">10.1016/j.autcon.2022.104599</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/burger_jan_joris"><b>Burger</b>&nbsp;Joris</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9248-1662" title="ORCID: 0000-0001-9248-1662" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huber_tobias"><b>Huber</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
+Journal Article - Automation in Construction, Vol. 144
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> <a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a> <a href="https://orcid.org/0000-0001-9248-1662" title="ORCID: 0000-0001-9248-1662" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 144, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#floor`](keyword/floor)
-    [`#formwork`](keyword/formwork)
-    [`#large`](keyword/large)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#rib`](keyword/rib)
-    [`#scale`](keyword/scale)
-    [`#slab`](keyword/slab)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Fabrication%20of%20Optimised%20Ribbed%20Concrete%20Floor%20Slabs%20Using%20Large-Scale%203D%20Printed%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139595247&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4304112904" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104599" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104599?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper describes the design, fabrication, and testing process of an optimised, reinforced concrete ribbed floor slab fabricated using robotically 3D printed formwork. The design of the floor slab is based on the alignment of ribs along the trajectories of the principal bending moments. A workflow is described that generates a rib layout based on structural analysis, which is used to create a three-dimensional model of the slab. A full-scale prototype is fabricated by using an industrial robotic arm with a pellet extruder mounted as an end effector to 3D print the formwork. Reinforcement is inserted and the formwork is cast using self-compacting concrete. The successful design, fabrication, and structural testing of the full-scale floor slab prototype showed that the described workflow is suitable for realizing material-optimised, ribbed reinforced concrete floor slabs using 3D printed formwork.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bisc_mata_burg_kauf.2022.DFKCC/">Digitally Fabricated Keyed Concrete Connections</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
@@ -82,7 +55,6 @@ tags:
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/chiu_yu-hung"><b>Chiu</b> Yu-Hung</a>, <a href="../../../author/techathuvanun_chanon"><b>Techathuvanun</b> Chanon</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../burg_wang_chiu_tech.2021.MIFG/">Material-Informed Formwork Geometry:<br/>The Effects of Cross-Sectional Variation and Patterns on the Strength of 3D Printed Eggshell Formworks</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../gebh_burg_mata_llor.2022.TECSwUT3PF/">Towards Efficient Concrete Structures with Ultra-Thin 3D Printed Formwork:<br/>Exploring Reinforcement-Strategies and Optimization</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
-      <li><a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../hube_burg_mata_kauf.2023.SDaToMORRSw3PF/">Structural Design and Testing of Material-Optimized Ribbed RC Slabs with 3D Printed Formwork</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../jipa_giac_gies_chou.2019.3PFfBCS/">3D Printed Formwork for Bespoke Concrete Stairs</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/fuhrimann_lukas"><b>Fuhrimann</b> Lukas</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../llor_quad_scot_fuhr.2022.ADC/">Additive Digital Casting:<br/>From Lab to Industry</a></li>
@@ -95,8 +67,8 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../wang_flat.2019.Pot1RICoCaDFb/">Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication:<br/>Correction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guan_wang_bai_ma.2025.E3PFCvFHSCR/">Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement</a></li>
       <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../huan_anto_dill_xu.2025.LI3CPCSS/">Lamella-Inspired 3D Concrete Printed Column-Slab System:<br/>Balancing Act for Productivity and Sustainability</a></li>
@@ -123,6 +95,34 @@ tags:
       <li><a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../hube_burg_mata_kauf.2023.SDaToMORRSw3PF/">Structural Design and Testing of Material-Optimized Ribbed RC Slabs with 3D Printed Formwork</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/arre_lidiana"><b>Arrè</b> Lidiana</a>, <a href="../../../author/kienbaum_gabriela"><b>Kienbaum</b> Gabriela</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dorr_lagh_arre_kien.2022.CAMTfACPS/">Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures</a></li>
-      <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mata_bisc_hube_anto.2022.DFRCFS/">Digitally Fabricated Ribbed Concrete Floor Slabs:<br/>A Sustainable Solution for Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{burg_hube_llor_mata.2022.DaFoORCFSULS3PF,
+      author            = "Joris Jan Burger and Tobias Huber and Ena Lloret-Fritschi and Jaime Mata-Falcón and Fabio Gramazio and Matthias Daniel Kohler",
+      title             = "Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork",
+      doi               = "10.1016/j.autcon.2022.104599",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "144",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. J. Burger, T. Huber, E. Lloret-Fritschi, J. Mata-Falcón, F. Gramazio and M. D. Kohler, “Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork”, <i>Automation in Construction</i>, vol. 144, 2022, doi: 10.1016/j.autcon.2022.104599.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Burger, Joris Jan, Tobias Huber, Ena Lloret-Fritschi, Jaime Mata-Falcón, Fabio Gramazio, and Matthias Daniel Kohler. “Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork”. <i>Automation in Construction</i> 144 (2022). https://doi.org/10.1016/j.autcon.2022.104599.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

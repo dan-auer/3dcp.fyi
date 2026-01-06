@@ -8,7 +8,7 @@ search:
 
 # #seismic
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/fatima_warsi"><b>Fatima</b> Warsi</a>, <a href="../../../author/syed_bustan"><b>Syed</b> Bustan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../fati_syed_pand_bisw.2025.NEotSPoSC3PCW/">Numerical Evaluation of the Seismic Performance of Self-Centering 3D Printed Concrete Wall</a></li>
   <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a>, <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a>, <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chor_gkou_meli_kata.2025.SPEo3PCWTNM/">Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods</a></li>
   <li><a href="../../../author/yamamoto_yujin"><b>Yamamoto</b> Yujin</a>, <a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>, <a href="../../../author/murata_satoshi"><b>Murata</b> Satoshi</a>, <a href="../../../author/asaue_hisafumi"><b>Asaue</b> Hisafumi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yama_kino_mura_asau.2025.SPoRCSb3PCPFwSF/">Seismic Performance of RC Column Surrounded by 3D Printed Concrete Permanent Formwork with Short Fiber</a></li>

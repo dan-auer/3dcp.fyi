@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shravan Muthukrishnan, Sayanthan Ramakrishnan, Jay Sanjayan
+    - footer
+title: Muthukrishnan Shravan, Ramakrishnan Sayanthan, Sanjayan Jay
 description:
 tags:
  - buildability
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Technologies for Improving Buildability in 3D Concrete Printing ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104144" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104144</a>
+#Technologies for Improving Buildability in 3D Concrete Printing ([2021-06](date/2021/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104144" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104144" target="_blank">10.1016/j.cemconcomp.2021.104144</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b>&nbsp;Shravan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b>&nbsp;Sayanthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 122
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a> <a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> <a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 122, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#improvement`](keyword/improvement)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Technologies%20for%20Improving%20Buildability%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111052218&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3177398462" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104144" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104144?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Buildability is the ability to 3D print by adding concrete layer by layer continuously to the required level without significant deformation or collapse of the freshly printed component. This paper presents a systematic review of the reported studies to improve the buildability of concrete. The paper also presents original concepts and some results for improving the buildability of geopolymer concrete. Two methods to enhance the buildability are discussed: (1) Additives during initial mixing of concrete (2) Buildability enhancement at the print-head by an intervention (set-on-demand). The former method is the most widely studied, however, it affects the pumpability. The latter includes mixing accelerators, heating, ultrasonication, or magnetorheological control, performed at the print-head to rapidly increase the yield strength of the material immediately prior to extrusion. This method does not affect the pumpability of the mix until it reaches the print-head. Finally, the prospects of a new set-on-demand method are presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "56 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -117,8 +99,9 @@ tags:
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "137 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
       <li><a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shek_kuma_math.2025.AMoCwLIYSTCHoPL/">Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers</a></li>
@@ -256,4 +239,33 @@ tags:
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../rama_muth_sanj_pasu.2021.C3PoLEUHCEoF/">Concrete 3D Printing of Lightweight Elements Using Hollow-Core Extrusion of Filaments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{muth_rama_sanj.2021.TfIBi3CP,
+      author            = "Shravan Muthukrishnan and Sayanthan Ramakrishnan and Jay Gnananandan Sanjayan",
+      title             = "Technologies for Improving Buildability in 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2021.104144",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "122",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Muthukrishnan, S. Ramakrishnan and J. G. Sanjayan, “Technologies for Improving Buildability in 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, vol. 122, 2021, doi: 10.1016/j.cemconcomp.2021.104144.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Muthukrishnan, Shravan, Sayanthan Ramakrishnan, and Jay Gnananandan Sanjayan. “Technologies for Improving Buildability in 3D Concrete Printing”. <i>Cement and Concrete Composites</i> 122 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104144.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

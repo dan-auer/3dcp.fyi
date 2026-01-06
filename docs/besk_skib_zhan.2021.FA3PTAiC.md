@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Svetlana Besklubova, Mirosław Skibniewski, Xueqing Zhang
+    - footer
+title: Besklubova Svetlana, Skibniewski Mirosław, Zhang Xueqing
 description:
 tags:
  - adaption
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Factors Affecting 3D Printing Technology Adaptation in Construction ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1061/(asce)co.1943-7862.0002034" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/(asce)co.1943-7862.0002034</a>
+#Factors Affecting 3D Printing Technology Adaptation in Construction ([2021-02](date/2021/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002034" target="_blank">10.1061/(asce)co.1943-7862.0002034</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b>&nbsp;Mirosław</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9397-1011" title="ORCID: 0000-0002-9397-1011" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xueqing"><b>Zhang</b>&nbsp;Xueqing</a></span><br>
+Journal Article - Journal of Construction Engineering and Management, Vol. 147, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> <a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>
-,     <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="https://orcid.org/0000-0002-9397-1011" title="ORCID: 0000-0002-9397-1011" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Construction Engineering and Management, Vol. 147, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#construction`](keyword/construction)
-    [`#factor`](keyword/factor)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Factors%20Affecting%203D%20Printing%20Technology%20Adaptation%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100873503&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3132407562" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/(asce)co.1943-7862.0002034" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/(asce)co.1943-7862.0002034?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing in construction technology has rapidly developed in recent years and is being implemented on a prototype basis for relatively small building and bridge construction projects. A number of 3D printing-based solutions are still at the laboratory experiment stage. Thus, understanding how to adapt 3D printing successfully is still one of the challenging issues facing the construction industry. Although the innovative literature provides clues about potentially relevant factors for construction 3D printing technology adaptation, research has still not specifically addressed this topic. This knowledge gap hampers further advancements in 3D printing for construction, launching new products, and the development of related services for the industry. Hence, as a response to the aforementioned shortcomings, this paper reveals nine potential factors and thirty-two of their measurements that determine the decision to adapt 3D printing technology for construction projects. To quantify the influence of the relevant factors and measurements, the structural equation modeling technique was employed. The results indicate that the top significant factors in ensuring the success of 3D printing technology in construction are “technology compatibility,”“supply-side benefits,” and “complexity.” Based on these findings, current and future 3D printing project managers may utilize the results of this study to guide their efforts in adapting this technology to produce high-value construction components and related products and to generate new business opportunities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -90,8 +72,8 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/mararo_m_ian"><b>Mararo</b> Ian</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mara_baba_aigb.2025.TUtPo3CPiK/">Towards Understanding the Perceptions of 3D Construction Printing in Kenya</a></li>
       <li><a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>, <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>, <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../drag_sale_drag_hedj.2025.DViCPMU3P/">Design Validation in Construction Project Management Using 3D Printing</a></li>
@@ -113,4 +95,34 @@ tags:
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../volp_sang_fior_varu.2022.Oo3CPaFP/">Overview of 3D Construction Printing and Future Perspectives:<br/>A Review of Technology, Companies and Research Progression</a></li>
       <li><a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>, <a href="../../../author/woods_ruth"><b>Woods</b> Ruth</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../olss_aric_wood_madr.2021.I40iaPC/">Industry 4.0 in a Project Context:<br/>Introducing 3D Printing in Construction Projects</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{besk_skib_zhan.2021.FA3PTAiC,
+      author            = "Svetlana Besklubova and Mirosław J. Skibniewski and Xueqing Zhang",
+      title             = "Factors Affecting 3D Printing Technology Adaptation in Construction",
+      doi               = "10.1061/(asce)co.1943-7862.0002034",
+      year              = "2021",
+      journal           = "Journal of Construction Engineering and Management",
+      volume            = "147",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Besklubova, M. J. Skibniewski and X. Zhang, “Factors Affecting 3D Printing Technology Adaptation in Construction”, <i>Journal of Construction Engineering and Management</i>, vol. 147, no. 5, 2021, doi: 10.1061/(asce)co.1943-7862.0002034.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Besklubova, Svetlana, Mirosław J. Skibniewski, and Xueqing Zhang. “Factors Affecting 3D Printing Technology Adaptation in Construction”. <i>Journal of Construction Engineering and Management</i> 147, no. 5 (2021). https://doi.org/10.1061/(asce)co.1943-7862.0002034.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

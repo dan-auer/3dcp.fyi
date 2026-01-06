@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangyu Wang, Padmaja Krishnan, Kemal Celik
+    - footer
+title: Wang Xiangyu, Krishnan Padmaja, Celik Kemal
 description:
 tags:
  - base
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing Carbonation and Thermal Insulation of Reactive Magnesium Oxide Cement (RMC)-Based 3D Printable Pastes with Cenospheres ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105559" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105559</a>
+#Enhancing Carbonation and Thermal Insulation of Reactive Magnesium Oxide Cement (RMC)-Based 3D Printable Pastes with Cenospheres ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105559" target="_blank">10.1016/j.cemconcomp.2024.105559</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/krishnan_padmaja"><b>Krishnan</b>&nbsp;Padmaja</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7623-0943" title="ORCID: 0000-0001-7623-0943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/celik_kemal"><b>Celik</b>&nbsp;Kemal</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 150, No. 105559
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/krishnan_padmaja"><b>Krishnan</b> Padmaja</a>
-,     <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="https://orcid.org/0000-0001-7623-0943" title="ORCID: 0000-0001-7623-0943" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 150, No. 105559
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#cenosphere`](keyword/cenosphere)
-    [`#enhancement`](keyword/enhancement)
-    [`#insulation`](keyword/insulation)
-    [`#magnesium`](keyword/magnesium)
-    [`#paste`](keyword/paste)
-    [`#printability`](keyword/printability)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/cenosphere"><button class="btn">#cenosphere</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Carbonation%20and%20Thermal%20Insulation%20of%20Reactive%20Magnesium%20Oxide%20Cement%20%28RMC%29-Based%203D%20Printable%20Pastes%20with%20Cenospheres" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191234476&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4395085468" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105559" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105559?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Reactive magnesium oxide cement (RMC) has been proposed as a sustainable alternative to ordinary Portland cement (OPC) due to its lower production temperature and ability to permanently sequester carbon dioxide (CO2) through carbonation. However, mixtures with only RMC can have significantly reduced CO2 absorption capacity due to limited CO2 diffusion, thereby compromising the performance of RMCs. This paper demonstrates the adoption of cenospheres, an industrial waste, as a lightweight filler in RMC-based 3D printable composites to enhance carbonation and improve thermal insulation. This work investigates the effect of incorporating different dosages of cenospheres on the rheological properties, compressive strength, thermal conductivity, and microstructural development of the RMC mixtures using X-ray diffraction (XRD), thermogravimetric analysis (TGA), and scanning electron microscopy (SEM). The study reveals that substituting 30 % of RMC with cenospheres not only improves the printability and carbonation of the composite but also results in a 16 % reduction in density, achieving 1.72 g/cm³, and reduces the thermal conductivity by 59 % compared to the control without cenospheres to 0.63 W/(m·K). The findings provide valuable insights for developing lightweight 3D printable RMC-based composites.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP/">Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -94,11 +71,41 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhon_huan_liu_wang.2025.DSfECCi3PSSM/">Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>Material Modification and Curing Process Innovation</a></li>
       <li><a href="../../../author/fahim_abdullah"><b>Fahim</b> Abdullah</a>, <a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a>, <a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../fahi_bukh_khan.2025.AMoCTCSwCN/">Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals</a></li>
       <li><a href="../../../author/avsar_e_yunus"><b>Avşar</b> Yunus</a>, <a href="../../../author/uysal_mucteba"><b>Uysal</b> Mücteba</a>, <a href="../../../author/akca_h_abdullah"><b>Akca</b> Abdullah</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../avsa_uysa_akca.2025.Io3PPoMDBbCCiHS/">Improvement of 3D Printing Properties of MgO Derived Binders by CO2 Curing in Hardened State</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_kris_celi.2024.ECaTIoRMOCRB3PPwC,
+      author            = "Xiangyu Wang and Padmaja Krishnan and Kemal Celik",
+      title             = "Enhancing Carbonation and Thermal Insulation of Reactive Magnesium Oxide Cement (RMC)-Based 3D Printable Pastes with Cenospheres",
+      doi               = "10.1016/j.cemconcomp.2024.105559",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "150",
+      pages             = "105559",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Wang, P. Krishnan and K. Celik, “Enhancing Carbonation and Thermal Insulation of Reactive Magnesium Oxide Cement (RMC)-Based 3D Printable Pastes with Cenospheres”, <i>Cement and Concrete Composites</i>, vol. 150, p. 105559, 2024, doi: 10.1016/j.cemconcomp.2024.105559.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Xiangyu, Padmaja Krishnan, and Kemal Celik. “Enhancing Carbonation and Thermal Insulation of Reactive Magnesium Oxide Cement (RMC)-Based 3D Printable Pastes with Cenospheres”. <i>Cement and Concrete Composites</i> 150 (2024): 105559. https://doi.org/10.1016/j.cemconcomp.2024.105559.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

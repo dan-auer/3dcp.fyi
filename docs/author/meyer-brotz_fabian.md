@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Meyer-Brötz Fabian 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/nana_serge-auguste_w"><b>Nana</b> W.</a>, <a href="../../../author/mothe_regnault_loic"><b>Mothe</b> Loïc</a>, <a href="../../../author/florentin_jerome"><b>Florentin</b> Jérôme</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../baz_nana_moth_flor.2024.SBo3PLBE/">Structural Behavior of 3D Printed Load Bearing Elements</a></li>
   <li><a href="../../../author/lok_leslie"><b>Lok</b> Leslie</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a>, <a href="../../../author/zerbe_hikmat"><b>Zerbe</b> Hikmat</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lok_zivk_meye_zerb.2024.HoC/">House of Cores</a></li>
   <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/evers_clara"><b>Evers</b> Clara</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ditt_sche_ever_meye.2023.SPoTR3PCE/">Structural Performance of Textile Reinforced 3D Printed Concrete Elements</a></li>

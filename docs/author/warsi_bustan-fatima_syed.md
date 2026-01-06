@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Warsi Syed 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wars_pand_bisw.2025.DoER3PCWBoA31/">Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19:<br/>Analytical Investigation and Numerical Modelling</a></li>
   <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.SAo3PCWUQSCLUCMM/">Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model</a></li>
   <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.DoUDSH3PCCUCFVaCA/">Development of Ultra-Ductile Strain-Hardening 3D Printed Concrete Composite Utilizing Critical Fiber Volume and Coarse Aggregate</a></li>

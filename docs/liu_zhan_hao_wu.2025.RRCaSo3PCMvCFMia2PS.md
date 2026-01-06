@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junli Liu, Shipeng Zhang, Lucen Hao, Bo Wu, Kaiyin Zhao, Chi Poon
+    - footer
+title: Liu Junli, Zhang Shipeng, Hao Lucen, Wu Bo, Zhao Kaiyin, Poon Chi
 description:
 tags:
  - 2k
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.addma.2025.105003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.105003</a>
+#Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.105003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.105003" target="_blank">10.1016/j.addma.2025.105003</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junli"><b>Liu</b>&nbsp;Junli</a></span>, <a href="../../../author/zhang_shipeng"><b>Zhang</b>&nbsp;Shipeng</a></span>, <a href="../../../author/hao_lucen"><b>Hao</b>&nbsp;Lucen</a></span>, <a href="../../../author/wu_bo"><b>Wu</b>&nbsp;Bo</a></span>, <a href="../../../author/zhao_kaiyin"><b>Zhao</b>&nbsp;Kaiyin</a></span>, <a href="../../../author/poon_sun_chi"><b>Poon</b>&nbsp;Chi</a></span><br>
+Journal Article - Additive Manufacturing, No. 105003
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_junli"><b>Liu</b> Junli</a> <a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>
-,     <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>
-,     <a href="../../../author/wu_bo"><b>Wu</b> Bo</a>
-,     <a href="../../../author/zhao_kaiyin"><b>Zhao</b> Kaiyin</a>
-,     <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 105003
-
-:aca-blank:{ .lg .middle}
-    [`#2k`](keyword/2k)
-    [`#cement`](keyword/cement)
-    [`#co2`](keyword/co2)
-    [`#control`](keyword/control)
-    [`#mixing`](keyword/mixing)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#rapid`](keyword/rapid)
-    [`#rheology`](keyword/rheology)
-    [`#stiffness`](keyword/stiffness)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/2k"><button class="btn">#2k</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rapid%20Rheology%20Control%20and%20Stiffening%20of%203D-Printed%20Cement%20Mortar%20via%20CO2%20Flash%20Mixing%20in%20a%202K%20Printing%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022485800&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415612870" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.105003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.105003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Carbon dioxide (CO2) has been increasingly applied to modify the fresh and rheological properties of cement mortars and concrete, enhancing the mortars’ mechanical properties through CO2 capture. For 3D printing, most research has adopted the 1 K (one-component) printing system for CO2-integrated cement mortar prepared by batch mixing. In contrast, limited work has been conducted on mortars subjected to CO2 flash mixing in the 2 K (two-component) system, where pumped fresh mortar was mixed with continuously injected CO2 within a timeframe of seconds during secondary mixing. In this paper, we report the development of a novel low-carbon cement mortar mixture single bond consisting of ordinary Portland cement (OPC), ground granulated blast furnace slag (GGBS) and calcium hydroxide (CH) in binders single bond that exhibited instant change in rheological properties and rapid stiffening when subjected to CO2 flash mixing. The rheological properties of the CO2-mixed mortar improved with increasing proportions of GGBS and CH in the mortar mix. In-situ chord length measurements suggested that the improved rheological properties of the mortar after CO2 flash mixing were related to the rapid growth of fine CaCO3 crystals, driving subsequent particle flocculation. The instant flocculation was primarily attributed to electrostatic attraction between particles with opposite surface charges in the OPC-GGBS-CH system induced by CO2 flash mixing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/cai_jianguo"><b>Cai</b> Jianguo</a>, <a href="../../../author/wang_jingsong"><b>Wang</b> Jingsong</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a>, <a href="../../../author/du_caixia"><b>Du</b> Caixia</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cai_wang_zhan_du.2024.SotAoMPo3PC/">State of the Art of Mechanical Properties of 3D Printed Concrete</a></li>
@@ -107,7 +80,36 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS,
+      author            = "Junli Liu and Shipeng Zhang and Lucen Hao and Bo Wu and Kaiyin Zhao and Chi Sun Poon",
+      title             = "Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System",
+      doi               = "10.1016/j.addma.2025.105003",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "105003",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Liu, S. Zhang, L. Hao, B. Wu, K. Zhao and C. S. Poon, “Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System”, <i>Additive Manufacturing</i>, p. 105003, 2025, doi: 10.1016/j.addma.2025.105003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Junli, Shipeng Zhang, Lucen Hao, Bo Wu, Kaiyin Zhao, and Chi Sun Poon. “Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System”. <i>Additive Manufacturing</i>, 2025, 105003. https://doi.org/10.1016/j.addma.2025.105003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

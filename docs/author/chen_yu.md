@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Chen Yu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

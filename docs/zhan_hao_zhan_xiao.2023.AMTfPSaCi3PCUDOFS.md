@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hanghua Zhang, Lucen Hao, Shipeng Zhang, Jianzhuang Xiao, Chi Poon
+    - footer
+title: Zhang Hanghua, Hao Lucen, Zhang Shipeng, Xiao Jianzhuang, Poon Chi
 description:
 tags:
  - advance
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advanced Measurement Techniques for Plastic Shrinkage and Cracking in 3D Printed Concrete Utilising Distributed Optical Fiber Sensor ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.addma.2023.103722" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103722</a>
+#Advanced Measurement Techniques for Plastic Shrinkage and Cracking in 3D Printed Concrete Utilising Distributed Optical Fiber Sensor ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2023.103722" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103722" target="_blank">10.1016/j.addma.2023.103722</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7224-4555" title="ORCID: 0000-0001-7224-4555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hanghua"><b>Zhang</b>&nbsp;Hanghua</a></span>, <a href="../../../author/hao_lucen"><b>Hao</b>&nbsp;Lucen</a></span>, <a href="../../../author/zhang_shipeng"><b>Zhang</b>&nbsp;Shipeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/poon_sun_chi"><b>Poon</b>&nbsp;Chi</a></span><br>
+Journal Article - Additive Manufacturing, No. 103722
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a> <a href="https://orcid.org/0000-0001-7224-4555" title="ORCID: 0000-0001-7224-4555" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>
-,     <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 103722
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#distribution`](keyword/distribution)
-    [`#fiber`](keyword/fiber)
-    [`#measurement`](keyword/measurement)
-    [`#optics`](keyword/optics)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#sensor`](keyword/sensor)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#technique`](keyword/technique)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/optics"><button class="btn">#optics</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advanced%20Measurement%20Techniques%20for%20Plastic%20Shrinkage%20and%20Cracking%20in%203D%20Printed%20Concrete%20Utilising%20Distributed%20Optical%20Fiber%20Sensor" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169910517&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385507377" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103722" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103722?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to the absence of formwork, 3D-printed concrete (3DPC) suffers from high plastic shrinkage and cracking risks at an early age. Compared with conventional cast concrete, 3DPC has a unique layered structure and irregular shape of elements, which causes the uneven shrinkage strains distribution that cannot be fully characterised by traditional methods. This study developed a novel method that aims to measure the plastic shrinkage of 3DPC and monitor the cracking risks in the early stage with the aid of distributed optical fiber sensors (DOFS). The feasibility of using the optical frequency domain reflectometry to measure the plastic shrinkage of 3DPC was experimentally studied, and the coefficient of variation of the results was between 6.99% and 8.05%. The accuracy of the plastic shrinkage obtained by the DOFS method was validated by comparing with the image processing method. Besides, this advanced measurement technique provided multiple functions, which could not only detect the location, width, and development of cracks, but also predict the occurrence of cracks. The utilisation of DOFS method to measure the strains of 3DPC at various positions along the fiber direction has good potential to explore the short and long-term properties of 3DPC and monitor the structural health of 3DPC structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -96,8 +68,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
       <li><a href="../../../author/els_heinrich"><b>Els</b> Heinrich</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../els_zijl_vill.2025.ARoSaRSCi3CP/">A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing</a></li>
@@ -114,4 +86,33 @@ tags:
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/tan_yanke"><b>Tan</b> Yanke</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zheng_shipeng"><b>Zheng</b> Shipeng</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM/">Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_hao_zhan_xiao.2023.AMTfPSaCi3PCUDOFS,
+      author            = "Hanghua Zhang and Lucen Hao and Shipeng Zhang and Jianzhuang Xiao and Chi Sun Poon",
+      title             = "Advanced Measurement Techniques for Plastic Shrinkage and Cracking in 3D Printed Concrete Utilising Distributed Optical Fiber Sensor",
+      doi               = "10.1016/j.addma.2023.103722",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+      pages             = "103722",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhang, L. Hao, S. Zhang, J. Xiao and C. S. Poon, “Advanced Measurement Techniques for Plastic Shrinkage and Cracking in 3D Printed Concrete Utilising Distributed Optical Fiber Sensor”, <i>Additive Manufacturing</i>, p. 103722, 2023, doi: 10.1016/j.addma.2023.103722.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Hanghua, Lucen Hao, Shipeng Zhang, Jianzhuang Xiao, and Chi Sun Poon. “Advanced Measurement Techniques for Plastic Shrinkage and Cracking in 3D Printed Concrete Utilising Distributed Optical Fiber Sensor”. <i>Additive Manufacturing</i>, 2023, 103722. https://doi.org/10.1016/j.addma.2023.103722.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

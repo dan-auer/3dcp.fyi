@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ramesh Akilesh 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../rame_raje_sanj.2024.AoTRf3CPS/">Application of Textile Reinforcement for 3D Concrete Printed Structures</a></li>
   <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../raje_rame_nava_sanj.2024.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
   <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/xu_shanqing"><b>Xu</b> Shanqing</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../rame_raje_xu_sanj.2024.IRoTR3PCP/">Impact Response of Textile-Reinforced 3D Printed Concrete Panels</a></li>

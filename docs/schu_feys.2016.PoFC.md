@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Geert Schutter, Dimitri Feys
+    - footer
+title: Schutter Geert, Feys Dimitri
 description:
 tags:
  - challenge
@@ -13,27 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://letters.rilem.net/index.php/rilem/article/download/15/19) Pumping of Fresh Concrete:<br/>:aca-blank: Insights and Challenges ([2016-11](date/2016/11))
-<a href="https://doi.org/10.21809/rilemtechlett.2016.15" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21809/rilemtechlett.2016.15</a>
+#Pumping of Fresh Concrete&nbsp;([2016-11](date/2016/11))
+<div class="h1-like">Insights and Challenges</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://letters.rilem.net/index.php/rilem/article/download/15/19) <a href="https://doi.org/10.21809/rilemtechlett.2016.15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2016.15" target="_blank">10.21809/rilemtechlett.2016.15</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1146-7998" title="ORCID: 0000-0002-1146-7998" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feys_dimitri"><b>Feys</b>&nbsp;Dimitri</a></span><br>
+Journal Article - RILEM Technical Letters, Vol. 1, pp. 76-80
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="https://orcid.org/0000-0002-1146-7998" title="ORCID: 0000-0002-1146-7998" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - RILEM Technical Letters, Vol. 1, pp. 76-80
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#fresh`](keyword/fresh)
-    [`#insights`](keyword/insights)
-    [`#pump`](keyword/pump)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pumping%20of%20Fresh%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85016781281&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,22 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2552516550" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21809/rilemtechlett.2016.15" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21809/rilemtechlett.2016.15?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Pumping of fresh concrete is of utmost importance for concrete practice. Required pumping pressures are typically estimated based on design charts. However, with the increased use of chemical admixtures and the development of more flowable concrete mixtures, the accuracy of traditional design charts is questioned. In recent years, significant progress has been obtained in understanding the flow of the material in the pumping pipe, including the behavior of the lubrication layer near the pipe surface. In comparison with traditional design charts, this results in more reliable pressure predictions when considering very fluid concrete types like self-consolidating concrete. Some remaining challenges can be defined however.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "58 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../cui_liu_guo_da.2025.GQIi3CPUAACV/">Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision</a></li>
@@ -122,4 +107,34 @@ tags:
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../secr_fata_schr_mech.2017.SoCPCDLTaLtR/">Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{schu_feys.2016.PoFC,
+      author            = "Geert de Schutter and Dimitri Feys",
+      title             = "Pumping of Fresh Concrete: Insights and Challenges",
+      doi               = "10.21809/rilemtechlett.2016.15",
+      year              = "2016",
+      journal           = "RILEM Technical Letters",
+      volume            = "1",
+      pages             = "76--80",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. de Schutter  and D. Feys, “Pumping of Fresh Concrete: Insights and Challenges”, <i>RILEM Technical Letters</i>, vol. 1, pp. 76–80, 2016, doi: 10.21809/rilemtechlett.2016.15.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Schutter, Geert de, and Dimitri Feys. “Pumping of Fresh Concrete: Insights and Challenges”. <i>RILEM Technical Letters</i> 1 (2016): 76–80. https://doi.org/10.21809/rilemtechlett.2016.15.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

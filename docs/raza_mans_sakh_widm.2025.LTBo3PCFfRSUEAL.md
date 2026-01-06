@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Saim Raza, Behzad Manshadi, Mahsa Sakha, Robert Widmann, Xiaomeng Wang, Haifeng Fan, Moslem Shahverdi
+    - footer
+title: Raza Saim, Manshadi Behzad, Sakha Mahsa, Widmann Robert, Wang Xiaomeng, Fan Haifeng, Shahverdi Moslem
 description:
 tags:
  - axis
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2024.119148) Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.engstruct.2024.119148" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2024.119148</a>
+#Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2024.119148) <a href="https://doi.org/10.1016/j.engstruct.2024.119148" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.119148" target="_blank">10.1016/j.engstruct.2024.119148</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_saim"><b>Raza</b>&nbsp;Saim</a></span>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sakha_mahsa"><b>Sakha</b>&nbsp;Mahsa</a></span>, <a href="../../../author/widmann_robert"><b>Widmann</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8136-0731" title="ORCID: 0000-0002-8136-0731" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiaomeng"><b>Wang</b>&nbsp;Xiaomeng</a></span>, <a href="../../../author/fan_haifeng"><b>Fan</b>&nbsp;Haifeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahverdi_moslem"><b>Shahverdi</b>&nbsp;Moslem</a></span><br>
+Journal Article - Engineering Structures, Vol. 322, No. 119148
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raza_saim"><b>Raza</b> Saim</a> <a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a>
-,     <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a> <a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/widmann_robert"><b>Widmann</b> Robert</a>
-,     <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a> <a href="https://orcid.org/0000-0002-8136-0731" title="ORCID: 0000-0002-8136-0731" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a>
-,     <a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> <a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 322, No. 119148
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#eccentricity`](keyword/eccentricity)
-    [`#formwork`](keyword/formwork)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#rib`](keyword/rib)
-    [`#slab`](keyword/slab)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/eccentricity"><button class="btn">#eccentricity</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Load%20Transfer%20Behavior%20of%203D%20Printed%20Concrete%20Formwork%20for%20Ribbed%20Slabs%20Under%20Eccentric%20Axial%20Loads" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206829654&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403599969" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2024.119148" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2024.119148?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) has primarily been used for non-structural applications, with limited exploration into its potential for structural load-bearing applications. This is mainly due to the layered structure of 3DPC and the lack of compatibility of conventional reinforcement strategies to be integrated within the 3D concrete printing process. The post-tensioning of 3DPC structures presents an effective solution to improve the load-carrying capacity and cracking behavior of 3DPC. However, understanding the load transfer behavior and failure modes of 3DPC structures under a particular post-tensioning configuration are crucial to determine the permissible posttensioning load for a structure without premature failure and to understand the distribution of stresses within the concrete structure under post-tensioning loads. The current study aims to investigate the load transfer behavior and failure mode of a 30 mm thick 3DPC formwork designed for one-way ribbed slabs when subjected to endanchorage post-tensioning. For this purpose, a series of mechanical characterization and load transfer experiments were conducted on ribbed 3DPC formwork. The mechanical characterization investigations involved examining the compressive and flexural strength, as well as the elastic modulus of 3DPC, under various loading orientations relative to the print path. In the load transfer experiments, the end anchorage post-tensioning system was simulated by applying the axial load to the specimen via end plates bonded to the specimen. The variable parameters of the load transfer experiments were the boundary conditions, the eccentricity of the axial load from the neutral axis, and the topology of the ribbed 3DPC formwork. A digital image correlation system was used to study the axial and transverse strain evolution during the load transfer experiments. The experimental results showed that, regardless of the eccentricity of the applied load, the ribbed 3DPC formwork specimens exhibited higher axial load capacity when the load was applied near the bottom flange rather than the top flange. This was because of the reduced effective cross-sectional area for compression when the load was positioned near the top flanges, a consequence of the selected formwork topology, where top flanges were discontinuous to allow for pouring of the cast concrete within the formwork.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
       <li><a href="../../../author/coward_andy"><b>Coward</b> Andy</a>, <a href="../../../author/sorensen_harrild_jesper"><b>Sørensen</b> Jesper</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../cowa_sre.2023.3PCBaOLCSE/">3D Printed Concrete Beams as Optimised Load Carrying Structural Elements:<br/>The Minimass Beam</a></li>
@@ -93,12 +67,42 @@ tags:
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_raza_wang_fan.2025.AoPTCiN3PT/">Assessment of Post-Tension Capacity in Novel 3D-Printed Topology:<br/>Optimized Formwork via Load Transfer Testing</a></li>
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS/">Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raza_mans_sakh_widm.2025.LTBo3PCFfRSUEAL,
+      author            = "Saim Raza and Behzad Manshadi and Mahsa Sakha and Robert Widmann and Xiaomeng Wang and Haifeng Fan and Moslem Shahverdi",
+      title             = "Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads",
+      doi               = "10.1016/j.engstruct.2024.119148",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "322",
+      pages             = "119148",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Raza, “Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads”, <i>Engineering Structures</i>, vol. 322, p. 119148, 2025, doi: 10.1016/j.engstruct.2024.119148.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raza, Saim, Behzad Manshadi, Mahsa Sakha, Robert Widmann, Xiaomeng Wang, Haifeng Fan, and Moslem Shahverdi. “Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads”. <i>Engineering Structures</i> 322 (2025): 119148. https://doi.org/10.1016/j.engstruct.2024.119148.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

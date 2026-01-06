@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huaxing Gao, Lang Jin, Yuxuan Chen, Qian Chen, Xiaopeng Liu, Qingliang Yu
+    - footer
+title: Gao Huaxing, Jin Lang, Chen Yuxuan, Chen Qian, Liu Xiaopeng, Yu Qingliang
 description:
 tags:
  - behavior
@@ -16,34 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.109626) Rheological Behavior of 3D Printed Concrete:<br/>:aca-blank: Influential Factors and Printability Prediction Scheme ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.jobe.2024.109626" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109626</a>
+#Rheological Behavior of 3D Printed Concrete&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">Influential Factors and Printability Prediction Scheme</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.109626) <a href="https://doi.org/10.1016/j.jobe.2024.109626" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109626" target="_blank">10.1016/j.jobe.2024.109626</a>
 
--------------------------
+<a href="../../../author/gao_huaxing"><b>Gao</b>&nbsp;Huaxing</a></span>, <a href="../../../author/jin_lang"><b>Jin</b>&nbsp;Lang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1284-7933" title="ORCID: 0000-0002-1284-7933" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuxuan"><b>Chen</b>&nbsp;Yuxuan</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4103-3259" title="ORCID: 0009-0009-4103-3259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_qian"><b>Chen</b>&nbsp;Qian</a></span>, <a href="../../../author/liu_xiaopeng"><b>Liu</b>&nbsp;Xiaopeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_qingliang"><b>Yu</b>&nbsp;Qingliang</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109626
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>
-,     <a href="../../../author/jin_lang"><b>Jin</b> Lang</a>
-,     <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a> <a href="https://orcid.org/0000-0002-1284-7933" title="ORCID: 0000-0002-1284-7933" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_qian"><b>Chen</b> Qian</a> <a href="https://orcid.org/0009-0009-4103-3259" title="ORCID: 0009-0009-4103-3259" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_xiaopeng"><b>Liu</b> Xiaopeng</a>
-,     <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109626
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#factor`](keyword/factor)
-    [`#influence`](keyword/influence)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Behavior%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194048330&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396952608" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109626" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109626?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rheological properties of cementitious materials play a crucial role in determining the printability for extrusion-based 3D concrete printing. This study develops data-driven machine learning (ML) models to predict two key rheological parameters - plastic viscosity (PV) and yield stress (YS) of 3D printable cementitious composites based on the mixture composition and time after water addition. A systematic experimental study is conducted by varying the contents of cement, fly ash, silica fume, sulfoaluminate cement, superplasticizer, and water-to-binder ratio, and time after water addition. The measured rheological data is used to construct a database for training predictive models including linear regression, support vector regression, random forest, extreme gradient boosting, and multi-layer perceptron neural network. The extreme gradient boosting model achieves the highest prediction accuracy with low root mean square error and all coefficients of determination exceeding 0.9 for both plastic viscosity and yield stress. Importance analysis identifies the most influential parameters affecting the rheological properties. A printability classification scheme is proposed using the model predictions by defining a printable zone of PV and YS. The data-driven framework is validated to effectively predict printability of new mixtures without trial-and-error. This study demonstrates the potential of ML models to accelerate the design and optimization of 3D printable cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
@@ -92,8 +69,9 @@ tags:
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
@@ -111,4 +89,33 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gao_jin_chen_chen.2024.RBo3PC,
+      author            = "Huaxing Gao and Lang Jin and Yuxuan Chen and Qian Chen and Xiaopeng Liu and Qingliang Yu",
+      title             = "Rheological Behavior of 3D Printed Concrete: Influential Factors and Printability Prediction Scheme",
+      doi               = "10.1016/j.jobe.2024.109626",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109626",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Gao, L. Jin, Y. Chen, Q. Chen, X. Liu and Q. Yu, “Rheological Behavior of 3D Printed Concrete: Influential Factors and Printability Prediction Scheme”, <i>Journal of Building Engineering</i>, p. 109626, 2024, doi: 10.1016/j.jobe.2024.109626.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gao, Huaxing, Lang Jin, Yuxuan Chen, Qian Chen, Xiaopeng Liu, and Qingliang Yu. “Rheological Behavior of 3D Printed Concrete: Influential Factors and Printability Prediction Scheme”. <i>Journal of Building Engineering</i>, 2024, 109626. https://doi.org/10.1016/j.jobe.2024.109626.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

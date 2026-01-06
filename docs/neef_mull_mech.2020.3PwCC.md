@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tobias Neef, Steffen Müller, Viktor Mechtcherine
+    - footer
+title: Neef Tobias, Müller Steffen, Mechtcherine Viktor
 description:
 tags:
  - carbon
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing with Carbon Concrete:<br/>:aca-blank: Technology and the First Test Results ([2020-11](date/2020/11))
-<a href="https://doi.org/10.1002/best.202000069" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/best.202000069</a>
+#3D Printing with Carbon Concrete&nbsp;([2020-11](date/2020/11))
+<div class="h1-like">Technology and the First Test Results</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202000069" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202000069" target="_blank">10.1002/best.202000069</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8256-1455" title="ORCID: 0000-0002-8256-1455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neef_tobias"><b>Neef</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muller_steffen"><b>Müller</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 12, pp. 943-951
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> <a href="https://orcid.org/0000-0002-8256-1455" title="ORCID: 0000-0002-8256-1455" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> <a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 12, pp. 943-951
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#first`](keyword/first)
-    [`#print`](keyword/print)
-    [`#result`](keyword/result)
-    [`#technology`](keyword/technology)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/result"><button class="btn">#result</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20Carbon%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097009099&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3104333458" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/best.202000069" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/best.202000069?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing with cementitious materials requires suitable solutions for the integration of reinforcement during the manufacturing process. This paper presents a new technology that uses mineral-impregnated carbon-fiber (MCF) yarns for this purpose. This new type of non-corrosive reinforcement has excellent mechanical properties, high sustainability and durability. Crucially, however, MCF offers extremely high technological flexibility, as it can be easily shaped and processed fully automatically when fresh. The article describes a new nozzle developed for the integration of MCF reinforcement directly into concrete filaments in extrusion-based 3D printing processes. Three carbon yarns were simultaneously introduced into each concrete layer. The existing test methods were adapted to assess the tensile and flexural behavior of printed carbon concrete as well as the quality of the bond between reinforcement and concrete. The tests revealed a mechanical performance of the printed concrete that is comparable to that of textile concrete made from carbon fibers. The research presented has demonstrated the feasibility and the very high potential of the new technology in terms of the digitalization and automation of concrete construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dezaire_steven"><b>Dezaire</b> Steven</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hoekstra_anne"><b>Hoekstra</b> Anne</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bos_deza_ahme_hoek.2020.BoRCi3PC/">Bond of Reinforcement-Cable in 3D Printed Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -86,8 +67,8 @@ tags:
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../enge_hegg_cla.2025.MAFwC/">Multimodal Automated Fabrication with Concrete:<br/>Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</a></li>
       <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pfle_sam_radl_vill.2024.AotSoCLFaRfAMC/">Assessment of the Suitability of Carbon Long Fibers as Reinforcement for Additively Manufactured Components</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>
@@ -111,4 +92,35 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{neef_mull_mech.2020.3PwCC,
+      author            = "Tobias Neef and Steffen Müller and Viktor Mechtcherine",
+      title             = "3D Printing with Carbon Concrete: Technology and the First Test Results",
+      doi               = "10.1002/best.202000069",
+      year              = "2020",
+      journal           = "Beton- und Stahlbetonbau",
+      volume            = "115",
+      number            = "12",
+      pages             = "943--951",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Neef, S. Müller and V. Mechtcherine, “3D Printing with Carbon Concrete: Technology and the First Test Results”, <i>Beton- und Stahlbetonbau</i>, vol. 115, no. 12, pp. 943–951, 2020, doi: 10.1002/best.202000069.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Neef, Tobias, Steffen Müller, and Viktor Mechtcherine. “3D Printing with Carbon Concrete: Technology and the First Test Results”. <i>Beton- Und Stahlbetonbau</i> 115, no. 12 (2020): 943–51. https://doi.org/10.1002/best.202000069.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehmet Tiryaki, Xu Zhang, Quang-Cuong Pham
+    - footer
+title: Tiryaki Mehmet, Zhang Xu, Pham Quang-Cuong
 description:
 tags:
  - large
@@ -13,28 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://arxiv.org/pdf/1809.07940) Printing-While-Moving:<br/>:aca-blank: A New Paradigm for Large-Scale Robotic 3D Printing ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1109/iros40897.2019.8967524" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/iros40897.2019.8967524</a>
+#Printing-While-Moving&nbsp;([2019-11](date/2019/11))
+<div class="h1-like">A New Paradigm for Large-Scale Robotic 3D Printing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://arxiv.org/pdf/1809.07940) <a href="https://doi.org/10.1109/iros40897.2019.8967524" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iros40897.2019.8967524" target="_blank">10.1109/iros40897.2019.8967524</a>
 
--------------------------
+<a href="../../../author/tiryaki_efe_mehmet"><b>Tiryaki</b>&nbsp;Mehmet</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1370-7681" title="ORCID: 0000-0003-1370-7681" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xu"><b>Zhang</b>&nbsp;Xu</a></span>, <a href="../../../author/pham_quang-cuong"><b>Pham</b>&nbsp;Quang-Cuong</a></span><br>
+Contribution - International Conference on Intelligent Robots and Systems, pp. 2286-2291
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tiryaki_efe_mehmet"><b>Tiryaki</b> Mehmet</a>
-,     <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a> <a href="https://orcid.org/0000-0003-1370-7681" title="ORCID: 0000-0003-1370-7681" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - International Conference on Intelligent Robots and Systems, pp. 2286-2291
-
-:aca-blank:{ .lg .middle}
-    [`#large`](keyword/large)
-    [`#movement`](keyword/movement)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/movement"><button class="btn">#movement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printing-While-Moving" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85081155315&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3004335173" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/iros40897.2019.8967524" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/iros40897.2019.8967524?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Building and Construction have recently become an exciting application ground for robotics. In particular, rapid progress in material formulation and in robotics technology has made robotic 3D Printing of concrete a promising technique for in-situ construction. Yet, scalability remains an important hurdle to widespread adoption: the printing systems (gantry-based or arm-based) are often much larger than the structure to be printed, hence cumbersome. Recently, a mobile printing system-A manipulator mounted on a mobile base - was proposed to alleviate this issue: such a system, by moving its base, can potentially print a structure larger than itself. However, the proposed system could only print while being stationary, imposing thereby a limit on the size of structures that can be printed in a single take. Here, we develop a system that implements the printing-while-moving paradigm, which enables printing single-piece structures of arbitrary sizes with a single robot. This development requires solving motion planning, localization, and motion control problems that are specific to mobile 3D Printing. We report our framework to address those problems, and demonstrate, for the first time, a printing-while-moving experiment, wherein a 210 cm × 45 cm × 10 cm concrete structure is printed by a robot arm that has a reach of 87 cm.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -72,8 +55,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
       <li><a href="../../../author/ke_zhijiang"><b>Ke</b> Zhijiang</a>, <a href="../../../author/li_zichang"><b>Li</b> Zichang</a>, <a href="../../../author/chen_zhengfei"><b>Chen</b> Zhengfei</a>, <a href="../../../author/xu_yao"><b>Xu</b> Yao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ke_li_chen_xu.2026.TAaCoRAB3PfHTL/">Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
@@ -101,6 +84,34 @@ tags:
       <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lim_zhan_ting_pham.2021.SC3PoFFCS/">Stress-Cognizant 3D Printing of Free-Form Concrete Structures</a></li>
       <li><a href="../../../author/sauter_andreas"><b>Sauter</b> Andreas</a>, <a href="../../../author/nasirov_aslan"><b>Nasirov</b> Aslan</a>, <a href="../../../author/fidan_ismail"><b>Fidan</b> Ismail</a>, <a href="../../../author/allen_michael"><b>Allen</b> Michael</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../saut_nasi_fida_alle.2021.DIaOoaM3PP/">Development, Implementation and Optimization of a Mobile 3D Printing Platform</a></li>
       <li><a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/chettibi_taha"><b>Chettibi</b> Taha</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/dherbomez_gerald"><b>Dherbomez</b> Gerald</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lakh_chet_bela_dher.2020.RAMoFAGBoBM/">Robotized Additive Manufacturing of Funicular Architectural Geometries Based on Building Materials</a></li>
-      <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../lim_weng_pham.2020.3PoCCSUAMF/">3D Printing of Curved Concrete Surfaces Using Adaptable Membrane Formwork</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{tiry_zhan_pham.2019.PWM,
+      author            = "Mehmet Efe Tiryaki and Xu Zhang and Quang-Cuong Pham",
+      title             = "Printing-While-Moving: A New Paradigm for Large-Scale Robotic 3D Printing",
+      doi               = "10.1109/iros40897.2019.8967524",
+      year              = "2019",
+      pages             = "2286--2291",
+      booktitle         = "International Conference on Intelligent Robots and Systems",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. E. Tiryaki, X. Zhang and Q.-C. Pham, “Printing-While-Moving: A New Paradigm for Large-Scale Robotic 3D Printing”, in <i>International Conference on Intelligent Robots and Systems</i>,  2019, pp. 2286–2291. doi: 10.1109/iros40897.2019.8967524.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tiryaki, Mehmet Efe, Xu Zhang, and Quang-Cuong Pham. “Printing-While-Moving: A New Paradigm for Large-Scale Robotic 3D Printing”. In <i>International Conference on Intelligent Robots and Systems</i>, 2286–91, 2019. https://doi.org/10.1109/iros40897.2019.8967524.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Rasehorn Inken 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a>, <a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b> Inken</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../glot_rase_petr.2024.MBoHPCatEoCJ/">Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints:<br/>An Experimental Investigation</a></li>

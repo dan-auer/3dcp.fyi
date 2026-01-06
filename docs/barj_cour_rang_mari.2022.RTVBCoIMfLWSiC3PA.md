@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Erfan Barjuei, Eric Courteille, Damien Rangeard, F. Marie, Arnaud Perrot
+    - footer
+title: Barjuei Erfan, Courteille Eric, Rangeard Damien, Marie F., Perrot Arnaud
 description:
 tags:
  - application
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.aime.2022.100094) Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.aime.2022.100094" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.aime.2022.100094</a>
+#Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications ([2022-07](date/2022/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.aime.2022.100094) <a href="https://doi.org/10.1016/j.aime.2022.100094" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.aime.2022.100094" target="_blank">10.1016/j.aime.2022.100094</a>
 
--------------------------
+<a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b>&nbsp;Erfan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8780-2732" title="ORCID: 0000-0001-8780-2732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/courteille_eric"><b>Courteille</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span>, <a href="../../../author/marie_f"><b>Marie</b>&nbsp;F.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - Advances in Industrial and Manufacturing Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>
-,     <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="https://orcid.org/0000-0001-8780-2732" title="ORCID: 0000-0001-8780-2732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marie_f"><b>Marie</b> F.</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Industrial and Manufacturing Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#industry`](keyword/industry)
-    [`#layer`](keyword/layer)
-    [`#manipulator`](keyword/manipulator)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#setting`](keyword/setting)
-    [`#time`](keyword/time)
-    [`#vision`](keyword/vision)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manipulator"><button class="btn">#manipulator</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Vision-Based%20Control%20of%20Industrial%20Manipulators%20for%20Layer-Width%20Setting%20in%20Concrete%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135304445&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4287881772" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.aime.2022.100094" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.aime.2022.100094?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, to have control over geometry specifications of rectangular bar-shaped layers in a robotic concrete 3D printing process, a real-time vision-based control framework is developed and proposed. The proposed control system is able to set the layer-width by automatically adjusting the velocity of an industrial manipulator during the 3D printing process of concrete based materials relying on a vision system feedback. Initially, details related to the control system, vision and processing units, and robotic platform are discussed. In continue, technical descriptions related to the printhead design, conversion process from a digital 3D drawing model to numerical motion control commands of an industrial manipulator and building material used in this work are reported. The reliability and responsiveness of the developed system is then evaluated through experimental tests by printing several single bar-shaped layers with different wideness by means of an unique printhead geometry and also by printing two layers with the same dimension centrally above another. Overall, the high accuracy and responsiveness of the developed system demonstrate a great potential for real-time vision-based control of industrial manipulators for layer-width setting in concrete 3D printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
@@ -116,8 +88,9 @@ tags:
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
@@ -149,4 +122,32 @@ tags:
       <li><a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a>, <a href="../../../author/keller_petr"><b>Keller</b> Petr</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../mend_kell.2023.AoODPbEoCMU3S/">Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning</a></li>
       <li><a href="../../../author/garcia_rill_rodrigo"><b>García</b> Rodrigo</a>, <a href="../../../author/dokladalova_eva"><b>Dokladalova</b> Eva</a>, <a href="../../../author/dokladal_petr"><b>Dokládal</b> Petr</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../garc_dokl_dokl_caro.2022.ILMo3CPUCV/">In-Line Monitoring of 3D Concrete Printing Using Computer-Vision</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA,
+      author            = "Erfan Shojaei Barjuei and Eric Courteille and Damien Rangeard and F. Marie and Arnaud Perrot",
+      title             = "Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications",
+      doi               = "10.1016/j.aime.2022.100094",
+      year              = "2022",
+      journal           = "Advances in Industrial and Manufacturing Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. S. Barjuei, E. Courteille, D. Rangeard, F. Marie and A. Perrot, “Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications”, <i>Advances in Industrial and Manufacturing Engineering</i>, 2022, doi: 10.1016/j.aime.2022.100094.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Barjuei, Erfan Shojaei, Eric Courteille, Damien Rangeard, F. Marie, and Arnaud Perrot. “Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications”. <i>Advances in Industrial and Manufacturing Engineering</i>, 2022. https://doi.org/10.1016/j.aime.2022.100094.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

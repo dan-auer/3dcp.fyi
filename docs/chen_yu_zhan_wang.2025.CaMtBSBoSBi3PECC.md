@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meng Chen, Kanghao Yu, Tong Zhang, Yuting Wang
+    - footer
+title: Chen Meng, Yu Kanghao, Zhang Tong, Wang Yuting
 description:
 tags:
  - bar
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Characterizing and Modelling the Bond-Slip-Behavior of Steel-Bars in 3D Printed Engineered Cementitious Composites ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.105936" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.105936</a>
+#Characterizing and Modelling the Bond-Slip-Behavior of Steel-Bars in 3D Printed Engineered Cementitious Composites ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.105936" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.105936" target="_blank">10.1016/j.cemconcomp.2025.105936</a>
 
--------------------------
+<a href="../../../author/chen_meng"><b>Chen</b>&nbsp;Meng</a></span>, <a href="../../../author/yu_kanghao"><b>Yu</b>&nbsp;Kanghao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tong"><b>Zhang</b>&nbsp;Tong</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yuting"><b>Wang</b>&nbsp;Yuting</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 157, No. 105936
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>
-,     <a href="../../../author/yu_kanghao"><b>Yu</b> Kanghao</a>
-,     <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 157, No. 105936
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#cement`](keyword/cement)
-    [`#character`](keyword/character)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#slip`](keyword/slip)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slip"><button class="btn">#slip</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterizing%20and%20Modelling%20the%20Bond-Slip-Behavior%20of%20Steel-Bars%20in%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215369358&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406826329" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.105936" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.105936?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Embedding rebars in 3D printed engineered cementitious composites (3DP-ECC) promises to improve the structural toughness and loading capacity, while a robust bond between them is critical for digital construction with reinforcements. This paper presents a series of pull-out tests on the bond behaviour between rebars and 3DP-ECC to investigate the effects of variable rebar arrangement direction, diameter and anchorage length. Results indicate that the failure patterns mainly showed pull-out failure due to the lower probability of interlayer splitting failure caused by the improved interlayer fracture resistance capacity in 3DP-ECC compared to ordinary 3D printed concrete. The rebar direction most significantly affected the slip stage in the bond stress-slip curve, whereas the rebar diameter and anchorage length had almost no effect on the curves. The bond strength of the printed specimens in the parallel direction enhanced by 2.9%–10.5 % than that in the vertical direction, while it declined by 27.4%–27.6 % as the rebar diameter increased from 8 to 14 mm. Moreover, a bond-slip constitutive model for steel bar reinforced 3DP-ECC was established to predict the bond behaviour as a function of the rebar location and physical characteristics. The exploration of the bond behaviour and constitutive relationships of steel bar reinforced 3DP-ECC provides a basis for integrated performance evaluation in practical application.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -107,10 +82,40 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_yu_zhan_wang.2025.CaMtBSBoSBi3PECC,
+      author            = "Meng Chen and Kanghao Yu and Tong Zhang and Yuting Wang",
+      title             = "Characterizing and Modelling the Bond-Slip-Behavior of Steel-Bars in 3D Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2025.105936",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "157",
+      pages             = "105936",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, K. Yu, T. Zhang and Y. Wang, “Characterizing and Modelling the Bond-Slip-Behavior of Steel-Bars in 3D Printed Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, vol. 157, p. 105936, 2025, doi: 10.1016/j.cemconcomp.2025.105936.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Meng, Kanghao Yu, Tong Zhang, and Yuting Wang. “Characterizing and Modelling the Bond-Slip-Behavior of Steel-Bars in 3D Printed Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i> 157 (2025): 105936. https://doi.org/10.1016/j.cemconcomp.2025.105936.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

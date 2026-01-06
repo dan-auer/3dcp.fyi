@@ -8,7 +8,7 @@ search:
 
 # #structuration
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
   <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../demo_mesn_caro.2024.SRMUaDPV/">Structuration-Rate-Measurement Using a Digital Pocket Vane</a></li>
   <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/nugraha_agung_joshua"><b>Nugraha</b> Joshua</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../bash_nugr_rehm_choi.2024.SaYSCoHAACCfUR3CP/">Structuration and Yield Strength Characterization of Hybrid Alkali-Activated Cement Composites for Ultra-Rapid 3D Construction Printing</a></li>

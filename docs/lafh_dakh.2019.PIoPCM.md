@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zoubeir Lafhaj, Zakaria Dakhli
+    - footer
+title: Lafhaj Zoubeir, Dakhli Zakaria
 description:
 tags:
  - approach
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/9/4/97/pdf?version=1555913464) Performance Indicators of Printed Construction Materials:<br/>:aca-blank: A Durability-Based Approach ([2019-04](date/2019/04))
-<a href="https://doi.org/10.3390/buildings9040097" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings9040097</a>
+#Performance Indicators of Printed Construction Materials&nbsp;([2019-04](date/2019/04))
+<div class="h1-like">A Durability-Based Approach</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/9/4/97/pdf?version=1555913464) <a href="https://doi.org/10.3390/buildings9040097" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings9040097" target="_blank">10.3390/buildings9040097</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b>&nbsp;Zoubeir</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6097-0015" title="ORCID: 0000-0001-6097-0015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dakhli_zakaria"><b>Dakhli</b>&nbsp;Zakaria</a></span><br>
+Journal Article - Buildings, Vol. 9, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a> <a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> <a href="https://orcid.org/0000-0001-6097-0015" title="ORCID: 0000-0001-6097-0015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 9, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#construction`](keyword/construction)
-    [`#durability`](keyword/durability)
-    [`#indicator`](keyword/indicator)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/indicator"><button class="btn">#indicator</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20Indicators%20of%20Printed%20Construction%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85065499238&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2936016291" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings9040097" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings9040097?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Studying the durability of materials and structures, including 3D-printed structures, is now a key step in better meeting the challenges of sustainable development and integrating technical and economic aspects from the design phase into the execution phase. While digital and robotics technologies have been well developed for construction 3D printing, the material aspect still faces critical issues to meet the evolving requirements for buildings. This research aims to develop performance indicators for 3D-printed materials used in construction regardless of the nature of the material. A general guideline is to be established as a result of this research. Thus, the literature review analyzes traditional durability approaches to construction materials and challenges are identified for potential applications in construction. The results suggest that performance indicators for 3D-printed materials should be checked as printable through an experimental case study. This research could be of interest to researchers, professionals, and start-ups in the construction and materials research fields.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/mullett_paul"><b>Mullett</b> Paul</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ghaf_mull.2018.C/">Commentary:<br/>3D Printing Set to Transform the Construction Industry</a></li>
@@ -80,8 +61,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC/">A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete</a></li>
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>, <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>, <a href="../../../author/haddaji_badreddine"><b>Haddaji</b> Badreddine</a>, <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arre_fabi_hadd_chat.2023.RoAi3PToCM/">Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>Key Printing Parameters and Properties Characterization</a></li>
@@ -90,4 +71,34 @@ tags:
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/rabenantoandro_zaid_andry"><b>Rabenantoandro</b> Andry</a>, <a href="../../../author/moussaoui_soufiane"><b>Moussaoui</b> Soufiane</a>, <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../lafh_rabe_mous_dakh.2019.EAfPA/">Experimental Approach for Printability-Assessment:<br/>Toward a Practical Decision-Making Framework of Printability for Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lafh_dakh.2019.PIoPCM,
+      author            = "Zoubeir Lafhaj and Zakaria Dakhli",
+      title             = "Performance Indicators of Printed Construction Materials: A Durability-Based Approach",
+      doi               = "10.3390/buildings9040097",
+      year              = "2019",
+      journal           = "Buildings",
+      volume            = "9",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Lafhaj  and Z. Dakhli, “Performance Indicators of Printed Construction Materials: A Durability-Based Approach”, <i>Buildings</i>, vol. 9, no. 4, 2019, doi: 10.3390/buildings9040097.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lafhaj, Zoubeir, and Zakaria Dakhli. “Performance Indicators of Printed Construction Materials: A Durability-Based Approach”. <i>Buildings</i> 9, no. 4 (2019). https://doi.org/10.3390/buildings9040097.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

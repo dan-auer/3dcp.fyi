@@ -8,7 +8,7 @@ search:
 
 # #craf
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
   <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rang_sale_luca.2024.AFfCSLCiAM/">A Framework for Crafting Sustainable Lightweight Concrete in Additive Manufacturing</a></li>
   <li><a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b> Mohamad</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../hani_figu_mahd_mend.2024.COo3PSSS/">Continuum Optimization of 3D Printed Self-Supported Shell:<br/>Hybrid Strategy for Crafting Ribbed System</a></li>

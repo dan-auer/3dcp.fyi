@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ronak Motiani, Saha Sylvain, Sejal Dalal, Jay Vora, Rakesh Chaudhari
+    - footer
+title: Motiani Ronak, Sylvain Saha, Dalal Sejal, Vora Jay, Chaudhari Rakesh
 description:
 tags:
  - concrete
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Innovative Reinforcement Techniques for 3D-Printed Concrete:<br/>:aca-blank: The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.nxmate.2025.101052" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.nxmate.2025.101052</a>
+#Innovative Reinforcement Techniques for 3D-Printed Concrete&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.nxmate.2025.101052" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.nxmate.2025.101052" target="_blank">10.1016/j.nxmate.2025.101052</a>
 
--------------------------
+<a href="../../../author/motiani_ronak"><b>Motiani</b>&nbsp;Ronak</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3852-2246" title="ORCID: 0009-0009-3852-2246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b>&nbsp;Saha</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3703-0169" title="ORCID: 0000-0003-3703-0169" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dalal_p_sejal"><b>Dalal</b>&nbsp;Sejal</a></span>, <a href="../../../author/vora_jay"><b>Vora</b>&nbsp;Jay</a></span>, <a href="../../../author/chaudhari_rakesh"><b>Chaudhari</b>&nbsp;Rakesh</a></span><br>
+Journal Article - Next Materials, Vol. 9, No. 101052
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/motiani_ronak"><b>Motiani</b> Ronak</a>
-,     <a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b> Saha</a> <a href="https://orcid.org/0009-0009-3852-2246" title="ORCID: 0009-0009-3852-2246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dalal_p_sejal"><b>Dalal</b> Sejal</a> <a href="https://orcid.org/0000-0003-3703-0169" title="ORCID: 0000-0003-3703-0169" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vora_jay"><b>Vora</b> Jay</a>
-,     <a href="../../../author/chaudhari_rakesh"><b>Chaudhari</b> Rakesh</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Next Materials, Vol. 9, No. 101052
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#flexural`](keyword/flexural)
-    [`#innovation`](keyword/innovation)
-    [`#mitigation`](keyword/mitigation)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shape`](keyword/shape)
-    [`#strength`](keyword/strength)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Innovative%20Reinforcement%20Techniques%20for%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013193124&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6902889274" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.nxmate.2025.101052" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.nxmate.2025.101052?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The flexural performance (FP) of 3D Printed Concrete (3DPC) remains a challenge due to its limitations in tensile strength and resistance to cracking. To address these issues, innovative reinforcement materials, such as Shape Memory Alloys (SMAs), which can return to their original shape upon heating or stress removal, thus closing cracks, have been explored recently. The integration of SMAs into conventional concrete has been well-documented, yet their potential in 3D-printed concrete for enhancing flexural strength and enabling crack recovery is still an emerging area of research. This study investigates the crack mitigation and FP of 3DPC beams under various reinforcement conditions. The flexural strength (fb) was evaluated via three-point bending tests (ASTM C78), while crack mitigation was quantified using Ultrasonic Pulse Velocity (UPV, ASTM C597). The recovery mechanisms were driven by SMA superelasticity (stress-induced strain recovery) and shape memory effect (heat-activated crack closure). Initially, the behavior of unreinforced 3DPC beams was assessed, followed by the addition of fiber reinforcement (FR), and finally, the integration of SMAs. By varying the SMA's content from 0.25 % to 0.5 % by volume, the optimal dosage for enhancing the fb value, displacement recovery, and crack closure was determined. An addition of 0.5 % of SMAs showed a drastic increase in the fb value from 3.61 MPa to 8.67 MPa, which is nearly a 140 % rise. Flexural displacement recovery also improved significantly, attributed to the super elasticity and shape memory effect of SMAs, with FR plus 0.5 % SMAs beams showing a reduction in displacement from 1.97 mm to 1.27 mm, representing a 35.53 % recovery. In comparison, FR with 0.25 % SMAs achieved a 21.66 % recovery. Additionally, SMAs substantially reduced crack width and depth. FR plus 0.5 % SMAs specimens showed a 35.3 % reduction in crack width and a 31.42 % reduction in crack depth, while FR with 0.25 % SMAs showed reductions of 20.80 % in crack width and 12.48 % in crack depth. The outcome of the present study highlights the potential of SMAs to improve the load-bearing capacity, flexural displacement recovery, and crack closure of 3DPC beams, and highlighting their potential as a valuable option for future construction methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -104,7 +80,37 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moti_sylv_dala_vora.2025.IRTf3PC,
+      author            = "Ronak Motiani and Saha Keunang Sylvain and Sejal P. Dalal and Jay Vora and Rakesh Chaudhari",
+      title             = "Innovative Reinforcement Techniques for 3D-Printed Concrete: The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation",
+      doi               = "10.1016/j.nxmate.2025.101052",
+      year              = "2025",
+      journal           = "Next Materials",
+      volume            = "9",
+      pages             = "101052",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Motiani, S. K. Sylvain, S. P. Dalal, J. Vora and R. Chaudhari, “Innovative Reinforcement Techniques for 3D-Printed Concrete: The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation”, <i>Next Materials</i>, vol. 9, p. 101052, 2025, doi: 10.1016/j.nxmate.2025.101052.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Motiani, Ronak, Saha Keunang Sylvain, Sejal P. Dalal, Jay Vora, and Rakesh Chaudhari. “Innovative Reinforcement Techniques for 3D-Printed Concrete: The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation”. <i>Next Materials</i> 9 (2025): 101052. https://doi.org/10.1016/j.nxmate.2025.101052.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

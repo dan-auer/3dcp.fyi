@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shantanu Bhattacherjee, Manu Santhanam
+    - footer
+title: Bhattacherjee Shantanu, Santhanam Manu
 description:
 tags:
  - accelerator
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104521" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104521</a>
+#Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104521" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104521" target="_blank">10.1016/j.cemconcomp.2022.104521</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6047-3294" title="ORCID: 0000-0002-6047-3294" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b>&nbsp;Shantanu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 130
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> <a href="https://orcid.org/0000-0002-6047-3294" title="ORCID: 0000-0002-6047-3294" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 130, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#alkali`](keyword/alkali)
-    [`#aluminium`](keyword/aluminium)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#investigation`](keyword/investigation)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/aluminium"><button class="btn">#aluminium</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20the%20Effect%20of%20Alkali-Free%20Aluminium%20Sulfate-Based%20Accelerator%20on%20the%20Fresh%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128183569&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224289366" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104521" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104521?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the effect of the alkali-free aluminium sulphate based accelerator on the printability and buildability of 3D printable concrete. The accelerator is introduced at various locations in the printing system – at the mixer, nozzle and sprayed on the surface post-printing. The influence of accelerator on setting and hardening is examined using penetration resistance test and semi-adiabatic calorimetry test. Flow table test and vane shear test are used to determine the effect on static yield stress, structuration, and resistance to flow (spread), which determines the suitable dosage of the accelerator for a printable and buildable structure. The forced bleed test is used to determine the effect of the accelerator on the potential for phase separation and to determine the flowable free water in the accelerated mix. The test results are compared with the observations from print trials. Through print trials, it is concluded that the mix with 1% accelerator dosage provides better buildability when added at the mixer, and the 2% dosage is suitable for addition at the nozzle. A new method of enhancing buildability post-printing by spraying a high dosage of the accelerator is also studied. The higher stiffness of the sprayed surface due to the quick set (up to 5 mm depth) arrests compression of layers while printing. The depth of penetration and evolution of phases is examined by XRD analysis. A large-scale structure printed with this technique is demonstrated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bhat_sant.2020.EBo3PCbSoAAoS/">Enhancing Buildability of 3D Printable Concrete by Spraying of Accelerating-Admixture on Surface</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/hirsch_tamino"><b>Hirsch</b> Tamino</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorn_hirs_step.2019.SotIoAotHoPCaTAi3P/">Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing</a></li>
@@ -94,8 +72,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
       <li><a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shek_kuma_math.2025.AMoCwLIYSTCHoPL/">Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers</a></li>
       <li><a href="../../../author/disu_oluwatimilehin"><b>Disu</b> Oluwatimilehin</a>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a>, <a href="../../../author/wood_luke"><b>Wood</b> Luke</a>, <a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b> Andreas</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../disu_isma_wood_chry.2025.ESoBo3PCBSUAS/">Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate</a></li>
@@ -120,4 +98,33 @@ tags:
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhat_jain_sant.2022.CoMEaaEAotBoaA3PC/">Criticality of Microstructural Evolution at an Early-Age on the Buildability of an Accelerated 3D Printable Concrete</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bhat_sant.2022.IotEoAFASBAotFPo3PC,
+      author            = "Shantanu Bhattacherjee and Manu Santhanam",
+      title             = "Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete",
+      doi               = "10.1016/j.cemconcomp.2022.104521",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "130",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Bhattacherjee  and M. Santhanam, “Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete”, <i>Cement and Concrete Composites</i>, vol. 130, 2022, doi: 10.1016/j.cemconcomp.2022.104521.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhattacherjee, Shantanu, and Manu Santhanam. “Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete”. <i>Cement and Concrete Composites</i> 130 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104521.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

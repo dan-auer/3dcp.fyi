@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Farzaneh Saadati, Ebrahim Kani
+    - footer
+title: Saadati Farzaneh, Kani Ebrahim
 description:
 tags:
  - application
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Phosphorous Slag-Based Geopolymer Cement Incorporate with Mullite for 3D Printing Application ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133444" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133444</a>
+#Phosphorous Slag-Based Geopolymer Cement Incorporate with Mullite for 3D Printing Application ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133444" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133444" target="_blank">10.1016/j.conbuildmat.2023.133444</a>
 
--------------------------
+<a href="../../../author/saadati_farzaneh"><b>Saadati</b>&nbsp;Farzaneh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9613-8060" title="ORCID: 0000-0001-9613-8060" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kani_najafi_ebrahim"><b>Kani</b>&nbsp;Ebrahim</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 406, No. 133444
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/saadati_farzaneh"><b>Saadati</b> Farzaneh</a>
-,     <a href="../../../author/kani_najafi_ebrahim"><b>Kani</b> Ebrahim</a> <a href="https://orcid.org/0000-0001-9613-8060" title="ORCID: 0000-0001-9613-8060" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 406, No. 133444
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#incorporation`](keyword/incorporation)
-    [`#print`](keyword/print)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Phosphorous%20Slag-Based%20Geopolymer%20Cement%20Incorporate%20with%20Mullite%20for%203D%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172293021&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386922008" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133444" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133444?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In successful 3D printing, the primary key is the proper binder and correct formulation, which leads to the printable mortar. In this work an attempt has been made to fabricate a 3D printable phosphorous slag-based geopolymer concrete with the incorporation of mullite and precisely determined liquid-based activator. The results showed that with the increase of Si/Na from 0.2 to 0.6 increases initial setting time and open time. Presence of mullite resulted in more orientation of Al(IV)-O vibration band in the produced geopolymer matrix so that the maximum compressive strength has achieved in the sample incorporated with mullite and with Si/Na of 0.4 in the activator. The designed geopolymer paste is following the Herschel-Buckley model and show thixotropic behavior, which is useful rheological property for 3D printing applications especially for continuous extrusion and having a desirable layer-by-layer printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -80,8 +61,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
@@ -89,4 +70,34 @@ tags:
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../oulk_akhr_jai.2024.3CPS/">3D Concrete Printing Success:<br/>An Exhaustive Diagnosis and Failure-Modes-Analysis</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jaji_zijl_baba.2024.DaPSoMB3PGC/">Durability and Pore-Structure of Metakaolin-Based 3D Printed Geopolymer Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saad_kani.2023.PSBGCIwMf3PA,
+      author            = "Farzaneh Saadati and Ebrahim Najafi Kani",
+      title             = "Phosphorous Slag-Based Geopolymer Cement Incorporate with Mullite for 3D Printing Application",
+      doi               = "10.1016/j.conbuildmat.2023.133444",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "406",
+      pages             = "133444",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Saadati  and E. N. Kani, “Phosphorous Slag-Based Geopolymer Cement Incorporate with Mullite for 3D Printing Application”, <i>Construction and Building Materials</i>, vol. 406, p. 133444, 2023, doi: 10.1016/j.conbuildmat.2023.133444.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Saadati, Farzaneh, and Ebrahim Najafi Kani. “Phosphorous Slag-Based Geopolymer Cement Incorporate with Mullite for 3D Printing Application”. <i>Construction and Building Materials</i> 406 (2023): 133444. https://doi.org/10.1016/j.conbuildmat.2023.133444.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

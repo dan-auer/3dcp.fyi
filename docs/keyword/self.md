@@ -8,7 +8,7 @@ search:
 
 # #self
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/lopes_joana"><b>Lopes</b> Joana</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jesu_lope_teix_guim.2026.AoSCPo3PBE/">Application of Self-Cleaning Products on 3D-Printed Building Elements:<br/>An Experimental Study</a></li>
   <li><a href="../../../author/fatima_warsi"><b>Fatima</b> Warsi</a>, <a href="../../../author/syed_bustan"><b>Syed</b> Bustan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../fati_syed_pand_bisw.2025.NEotSPoSC3PCW/">Numerical Evaluation of the Seismic Performance of Self-Centering 3D Printed Concrete Wall</a></li>
   <li><a href="../../../author/manickavasakam_karnan"><b>Manickavasakam</b> Karnan</a>, <a href="../../../author/huri_a-al_mohammed"><b>Huri</b> Mohammed</a>, <a href="../../../author/kharma_m_khaled"><b>Kharma</b> Khaled</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_huri_khar_hosa.2025.S3PC/">Smart 3D-Printed Concrete:<br/>Recent Advances in Self-Sensing Mix Design and Functional Reinforcements</a></li>

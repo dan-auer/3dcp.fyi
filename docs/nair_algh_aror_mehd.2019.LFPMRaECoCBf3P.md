@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sooraj Nair, Hussam Alghamdi, Aashay Arora, Iman Mehdipour, Gaurav Sant, Narayanan Neithalath
+    - footer
+title: Nair Sooraj, Alghamdi Hussam, Arora Aashay, Mehdipour Iman, Sant Gaurav, Neithalath Narayanan
 description:
 tags:
  - binder
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing ([2019-01](date/2019/01))
-<a href="https://doi.org/10.1111/jace.16305" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1111/jace.16305</a>
+#Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing ([2019-01](date/2019/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1111/jace.16305" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jace.16305" target="_blank">10.1111/jace.16305</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b>&nbsp;Sooraj</a></span>, <a href="../../../author/alghamdi_hussam"><b>Alghamdi</b>&nbsp;Hussam</a></span>, <a href="../../../author/arora_aashay"><b>Arora</b>&nbsp;Aashay</a></span>, <a href="../../../author/mehdipour_iman"><b>Mehdipour</b>&nbsp;Iman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Journal of the American Ceramic Society, Vol. 102, Iss. 7, pp. 3951-3964
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> <a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>
-,     <a href="../../../author/arora_aashay"><b>Arora</b> Aashay</a>
-,     <a href="../../../author/mehdipour_iman"><b>Mehdipour</b> Iman</a>
-,     <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> <a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of the American Ceramic Society, Vol. 102, Iss. 7, pp. 3951-3964
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#extrusion`](keyword/extrusion)
-    [`#fresh`](keyword/fresh)
-    [`#link`](keyword/link)
-    [`#micro`](keyword/micro)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Linking%20Fresh%20Paste%20Microstructure%2C%20Rheology%20and%20Extrusion-Characteristics%20of%20Cementitious%20Binders%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85060622256&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2909806153" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1111/jace.16305" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1111/jace.16305?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious binders amenable to extrusion‐based 3D printing are formulated by tailoring the fresh microstructure through the use of fine limestone powder or a combination of limestone powder and microsilica or metakaolin. Mixtures are proportioned with and without a superplasticizer to enable different particle packings at similar printability levels. A simple microstructural parameter, which implicitly accounts for the solid volume and inverse square dependence of particle size on yield stress can be used to select preliminary material combinations for printable binders. The influence of composition/microstructure on the response of pastes to extension or squeezing are also brought out. Extrusion rheology is used in conjunction with a phenomenological model to better understand the properties of significance in extrusion‐based printing of cementitious materials. The extrusion yield stress and die wall slip shear stress extracted from the model enables an understanding of their relationships with the fresh paste microstructure, which are crucial in selecting binders, extrusion geometry, and processing parameters for 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -98,8 +72,8 @@ tags:
       <li><a href="../../../author/yang_pu"><b>Yang</b> Pu</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yang_nair_neit.2019.DESoRRoCBaAt3P/">Discrete Element Simulations of Rheological Response of Cementitious Binders as Applied to 3D Printing</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "58 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
@@ -158,6 +132,36 @@ tags:
       <li><a href="../../../author/ozalp_fatih"><b>Özalp</b> Fatih</a>, <a href="../../../author/yilmaz_dilsad_halit"><b>Yılmaz</b> Halit</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ozal_ylm.2020.FaHPo3HSPCaIRA/">Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
-      <li><a href="../../../author/yang_pu"><b>Yang</b> Pu</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yang_nair_neit.2019.DESoRRoCBaAt3P/">Discrete Element Simulations of Rheological Response of Cementitious Binders as Applied to 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nair_algh_aror_mehd.2019.LFPMRaECoCBf3P,
+      author            = "Sooraj Kumar A. O. Nair and Hussam Alghamdi and Aashay Arora and Iman Mehdipour and Gaurav Sant and Narayanan Neithalath",
+      title             = "Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing",
+      doi               = "10.1111/jace.16305",
+      year              = "2019",
+      journal           = "Journal of the American Ceramic Society",
+      volume            = "102",
+      number            = "7",
+      pages             = "3951--3964",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. A. O. Nair, H. Alghamdi, A. Arora, I. Mehdipour, G. Sant and N. Neithalath, “Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing”, <i>Journal of the American Ceramic Society</i>, vol. 102, no. 7, pp. 3951–3964, 2019, doi: 10.1111/jace.16305.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nair, Sooraj Kumar A. O., Hussam Alghamdi, Aashay Arora, Iman Mehdipour, Gaurav Sant, and Narayanan Neithalath. “Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing”. <i>Journal of the American Ceramic Society</i> 102, no. 7 (2019): 3951–64. https://doi.org/10.1111/jace.16305.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lingli Zhu, Jie Yao, Yu Zhao, Wenqiang Ruan, Yali Ge, Xuemao Guan
+    - footer
+title: Zhu Lingli, Yao Jie, Zhao Yu, Ruan Wenqiang, Ge Yali, Guan Xuemao
 description:
 tags:
  - base
@@ -22,40 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.jobe.2023.107837" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107837</a>
+#Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107837" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107837" target="_blank">10.1016/j.jobe.2023.107837</a>
 
--------------------------
+<a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-6814-3941" title="ORCID: 0009-0009-6814-3941" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_jie"><b>Yao</b>&nbsp;Jie</a></span>, <a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b>&nbsp;Wenqiang</a></span>, <a href="../../../author/ge_yali"><b>Ge</b>&nbsp;Yali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guan_xuemao"><b>Guan</b>&nbsp;Xuemao</a></span><br>
+Journal Article - Journal of Building Engineering, No. 107837
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>
-,     <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> <a href="https://orcid.org/0009-0009-6814-3941" title="ORCID: 0009-0009-6814-3941" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>
-,     <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a>
-,     <a href="../../../author/ge_yali"><b>Ge</b> Yali</a>
-,     <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 107837
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#early`](keyword/early)
-    [`#engineered`](keyword/engineered)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#response`](keyword/response)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Early%20Mechanical%20Properties%20of%20Material-Composition%20Modified%203D%20Printing%20Engineered%20Cementitious%20Composites%20Based%20on%20the%20Response-Surface-Methodology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174213993&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,23 +44,18 @@ tags:
 <a href="https://inciteful.xyz/p/W4387232140" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107837" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107837?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To explore the influence mechanism between material composition and the early performance of 3D printing engineered cementitious composites (3DP-ECC). In this paper, the effects of different dosages of fly ash (FA), Sand and hydroxypropyl methylcellulose (HPMC) on the printability and early mechanical properties of 3DP-ECC were studied based on response surface method (RSM). The results revealed that with the increase of HPMC dosage, the yield stress and plastic viscosity gradually increased, and the mechanical properties initially increased and then decreased. With the increase of FA dosage, the yield stress initially decreased and then increased, and the plastic viscosity gradually decreased. At the same time, the compressive strength reduced and the tensile properties were improved. The optimal dosages of 28–29% FA, 0.545–0.550 sand to binder rate (S/B) and 0.302–0.305% HPMC were determined by RSM. It provided a theoretical basis for the calculation and analysis of ECC components and structures in 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/gawady_mohamed"><b>Gawady</b> Mohamed</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../abud_goma_ghen_gawa.2022.DMPfCCFABAA3PCM/">Developing Mix Proportions for Class C Fly-Ash-Based Alkali-Activated 3D Printed Concrete Mixtures</a></li>
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
-      <li><a href="../../../author/ge_yali"><b>Ge</b> Yali</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ge_yao.2024.IoFaHotFPaAo3PECC/">Influence of FA and HPMC on the Fresh Properties and Anisotropy of 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -109,11 +78,40 @@ tags:
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../du_sun_qian.2025.NIAfEtFPo3PSHCC3S/">Nature-Inspired Approach for Enhancing the Fracture Performance of 3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_yao_zhao_ruan.2023.PaEMPoMCM3PECCBotRSM,
+      author            = "Lingli Zhu and Jie Yao and Yu Zhao and Wenqiang Ruan and Yali Ge and Xuemao Guan",
+      title             = "Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology",
+      doi               = "10.1016/j.jobe.2023.107837",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "107837",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Zhu, J. Yao, Y. Zhao, W. Ruan, Y. Ge and X. Guan, “Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology”, <i>Journal of Building Engineering</i>, p. 107837, 2023, doi: 10.1016/j.jobe.2023.107837.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Lingli, Jie Yao, Yu Zhao, Wenqiang Ruan, Yali Ge, and Xuemao Guan. “Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology”. <i>Journal of Building Engineering</i>, 2023, 107837. https://doi.org/10.1016/j.jobe.2023.107837.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #support
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/dara_seni"><b>Dara</b> Seni</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_dara_abde.2025.ESSoSS3PEBCURA/">Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM</a></li>
   <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../marc.2024.C3PMWSaESSS/">Concrete 3D Printed Marine Wind, Solar and Energy Storage Support Structures</a></li>
   <li><a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/kozlova_mariia"><b>Kozlova</b> Mariia</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/yeomans_scott_julian"><b>Yeomans</b> Julian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../walz_kozl_mohi_yeom.2024.Ia3CPFUSMfDS/">Improving a 3D Concrete Printing Factory Using Stochastic Modelling for Decision-Support</a></li>

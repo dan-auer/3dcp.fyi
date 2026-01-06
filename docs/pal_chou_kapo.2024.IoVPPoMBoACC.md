@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Biswajit Pal, Ajay Chourasia, Ashish Kapoor
+    - footer
+title: Pal Biswajit, Chourasia Ajay, Kapoor Ashish
 description:
 tags:
  - additive
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1007/s43452-023-00853-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43452-023-00853-x</a>
+#Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s43452-023-00853-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-023-00853-x" target="_blank">10.1007/s43452-023-00853-x</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9519-1038" title="ORCID: 0000-0001-9519-1038" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pal_biswajit"><b>Pal</b>&nbsp;Biswajit</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6595-2465" title="ORCID: 0000-0001-6595-2465" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chourasia_ajay"><b>Chourasia</b>&nbsp;Ajay</a></span>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b>&nbsp;Ashish</a></span><br>
+Journal Article - Archives of Civil and Mechanical Engineering, Vol. 24, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> <a href="https://orcid.org/0000-0001-9519-1038" title="ORCID: 0000-0001-9519-1038" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> <a href="https://orcid.org/0000-0001-6595-2465" title="ORCID: 0000-0001-6595-2465" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Civil and Mechanical Engineering, Vol. 24, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#mechanics`](keyword/mechanics)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Intricacies%20of%20Various%20Printing%20Parameters%20on%20Mechanical%20Behavior%20of%20Additively%20Constructed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182463886&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390882137" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43452-023-00853-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43452-023-00853-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based three-dimensional (3D) printing has seen rapid growth in the last few years, including in the construction sector owing to its reduced construction cost, minimal labour intervention, freeform design, implementation of complex architectural structural design and more. However, like other technologies, additive construction or 3D concrete printing has several limitations such as additional requirement of printing performance of the material along with hardened mechanical properties, construction challenges of the additive construction in the case of large-scale reinforced concrete structures, accuracy and performance of the digital 3D print model are the few. Moreover, the lack of understanding about the effect of various printing-related parameters on the load capacity of additively manufactured structural element is another barrier in the popularisation of such technology. Consequently, in this article, a finite-element (FE)-based framework is utilised and the load–deflection of additively constructed concrete beam under 4-point loading is simulated. In the model, measured geometrical specifications of additively manufactured specimen (length and sectional curvatures, varying width and thickness at different layers along the beam depth), are utilised. Each concrete filament is modelled using coupled damage-plasticity-based material behaviour, whereas cohesive zone-based constitutive behaviour is used to represent the interfacial bond characteristics between two printed filaments. In the model, the input properties such as mechanical properties of concrete (e.g. compressive and tensile strength) and the tensile bond strength value of the interfaces are obtained from the respective experiments conducted. A detailed sensitivity analysis for the various printing-related parameters, e.g. tensile and shear bond strength, bond stiffness, plastic or failure displacement of bond, pores or gaps that exist between two consecutive printed filament and the number of printed layers, have been conducted. In the simulation, one parameter at a time is varied keeping all other fixed and the resultant effect on the load–deflection behaviour is analysed. The simulated results of the concrete specimen for various above-mentioned printing parameters are also compared with the results obtained from the perfect bond condition. Consequently, simplified statistically fitted relations are proposed that helps in quick evaluation of the variability in load-carrying capacity of additively constructed concrete beam for variable bond or printing conditions. The results of such studies would be helpful for the research community in the design and prediction of load capacity of additively manufactured concrete beam.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -103,10 +82,41 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chou_pal_kapo.2025.IoPDaIPTotBCaHMPoAIWB3PC/">Influence of Printing Direction and Interlayer Printing Time on the Bond Characteristics and Hardened Mechanical Properties of Agro-Industrial Waste-Based 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pal_chou_kapo.2024.IoVPPoMBoACC,
+      author            = "Biswajit Pal and Ajay Chourasia and Ashish Kapoor",
+      title             = "Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete",
+      doi               = "10.1007/s43452-023-00853-x",
+      year              = "2024",
+      journal           = "Archives of Civil and Mechanical Engineering",
+      volume            = "24",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Pal, A. Chourasia and A. Kapoor, “Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete”, <i>Archives of Civil and Mechanical Engineering</i>, vol. 24, no. 1, 2024, doi: 10.1007/s43452-023-00853-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pal, Biswajit, Ajay Chourasia, and Ashish Kapoor. “Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete”. <i>Archives of Civil and Mechanical Engineering</i> 24, no. 1 (2024). https://doi.org/10.1007/s43452-023-00853-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

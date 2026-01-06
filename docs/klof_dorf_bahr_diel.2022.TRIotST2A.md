@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harald Kloft, Kathrin Dörfler, Meike Bährens, Gido Dielemans, Johannes Diller, Robin Dörrie, Stefan Gantner, Jonas Hensel, Anna Keune, Dirk Lowke, Inka Mai (née Dressler), Jeldrik Mainka, Gerrit Placzek, Bettina Saile, Ronny Scharf‐Wildenhain, Patrick Schwerdtner, Sebastian Kock, Dorina Siebert, Daniel Talke, David Wenzler
+    - footer
+title: Kloft Harald, Dörfler Kathrin, Bährens Meike, Dielemans Gido, Diller Johannes, Dörrie Robin, Gantner Stefan, Hensel Jonas, Keune Anna, Lowke Dirk, Mai (née Dressler) Inka, Mainka Jeldrik, Placzek Gerrit, Saile Bettina, Scharf‐Wildenhain Ronny, Schwerdtner Patrick, Kock Sebastian, Siebert Dorina, Talke Daniel, Wenzler David
 description:
 tags:
  - additive
@@ -12,44 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Research Infrastructure of the SFB TRR 277 AMC:<br/>:aca-blank: Additive Manufacturing in Construction ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1002/bate.202200076" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/bate.202200076</a>
+#The Research Infrastructure of the SFB TRR 277 AMC&nbsp;([2022-09](date/2022/09))
+<div class="h1-like">Additive Manufacturing in Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/bate.202200076" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.202200076" target="_blank">10.1002/bate.202200076</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <a href="../../../author/bahrens_meike"><b>Bährens</b>&nbsp;Meike</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dielemans_gido"><b>Dielemans</b>&nbsp;Gido</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0059-0544" title="ORCID: 0000-0002-0059-0544" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/diller_johannes"><b>Diller</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gantner_stefan"><b>Gantner</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1843-6473" title="ORCID: 0000-0002-1843-6473" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hensel_jonas"><b>Hensel</b>&nbsp;Jonas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1985-2313" title="ORCID: 0000-0002-1985-2313" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keune_anna"><b>Keune</b>&nbsp;Anna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8941-5661" title="ORCID: 0000-0002-8941-5661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mainka_jeldrik"><b>Mainka</b>&nbsp;Jeldrik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span>, <a href="../../../author/saile_bettina"><b>Saile</b>&nbsp;Bettina</a></span>, <a href="../../../author/scharf-wildenhain_ronny"><b>Scharf‐Wildenhain</b>&nbsp;Ronny</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span>, <a href="../../../author/kock_sebastian"><b>Kock</b>&nbsp;Sebastian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4211-7103" title="ORCID: 0000-0003-4211-7103" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/siebert_dorina"><b>Siebert</b>&nbsp;Dorina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/talke_daniel"><b>Talke</b>&nbsp;Daniel</a></span>, <a href="../../../author/wenzler_david"><b>Wenzler</b>&nbsp;David</a></span><br>
+Journal Article - Bautechnik
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bahrens_meike"><b>Bährens</b> Meike</a>
-,     <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> <a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/diller_johannes"><b>Diller</b> Johannes</a> <a href="https://orcid.org/0000-0002-0059-0544" title="ORCID: 0000-0002-0059-0544" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hensel_jonas"><b>Hensel</b> Jonas</a> <a href="https://orcid.org/0000-0002-1843-6473" title="ORCID: 0000-0002-1843-6473" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/keune_anna"><b>Keune</b> Anna</a> <a href="https://orcid.org/0000-0002-1985-2313" title="ORCID: 0000-0002-1985-2313" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a> <a href="https://orcid.org/0000-0002-8941-5661" title="ORCID: 0000-0002-8941-5661" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> <a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saile_bettina"><b>Saile</b> Bettina</a>
-,     <a href="../../../author/scharf-wildenhain_ronny"><b>Scharf‐Wildenhain</b> Ronny</a>
-,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kock_sebastian"><b>Kock</b> Sebastian</a>
-,     <a href="../../../author/siebert_dorina"><b>Siebert</b> Dorina</a> <a href="https://orcid.org/0000-0003-4211-7103" title="ORCID: 0000-0003-4211-7103" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a> <a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wenzler_david"><b>Wenzler</b> David</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Bautechnik, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Research%20Infrastructure%20of%20the%20SFB%20TRR%20277%20AMC" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139502087&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296458236" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/bate.202200076" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/bate.202200076?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The global challenges of our time are climate change, population growth and the reduction of resource consumption. For the construction industry, this means building more in the coming decades while at the same time reducing resource consumption and emissions. The craft-based construction industry is not prepared, either technologically or in terms of personnel, to meet these challenges economically and ecologically. This is where the Collaborative Research Center TRR 277 Additive Manufacturing in Construction (AMC) of the two universities TU Braunschweig and TU Munich comes in with its basic research. The AMC regards additive manufacturing as a key digital technology for the construction industry, as it combines the advantages of automated and individualized manufacturing. In additive manufacturing, components are built up layer by layer without the need for molds. This creates fundamentally new requirements for materials, process technologies, design and construction and can only be researched in highly interdisciplinary teams of scientists from the fields of civil and mechanical engineering. The basis for cross-material research into different additive manufacturing technologies for use in the construction industry is the research infrastructure in the field of digital construction fabrication that has been systematically built up over many years. At its two locations, the TU Braunschweig and the TU Munich, the AMC can draw on the most innovative research facilities. These include DFG-funded large-scale research facilities such as the Digital Building Fabrication Laboratory (DBFL) and the RoboCoop3D as well as a large number of self-financed innovative research facilities at both locations. The AMC research infrastructure will be continuously expanded and extended over the course of the research project. This article presents the existing research infrastructure as well as the research infrastructure currently being acquired and planned.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/jaugstetter_fabian"><b>Jaugstetter</b> Fabian</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../diel_brie_jaug_henk.2021.AMoTELCWEwCCS/">Additive Manufacturing of Thermally Enhanced Lightweight Concrete Wall Elements with Closed Cellular Structures</a></li>
       <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/atanasova_lidia"><b>Atanasova</b> Lidia</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../diel_lach_reck_atan.2022.MAM/">Mobile Additive Manufacturing:<br/>A Case Study of Clay Formwork for Bespoke In-Situ Concrete Construction</a></li>
@@ -102,8 +69,8 @@ tags:
       <li><a href="../../../author/tan_yuan"><b>Tan</b> Yuan</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a>, <a href="../../../author/kessler_stephan"><b>Kessler</b> Stephan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tan_dahl_fott_kess.2022.IFotMPoaNNCMf3CP/">Influencing Factors of the Mixing Performance of a Near-Nozzle Continuous Mixer for 3D Concrete Printing:<br/>An Analysis Based on Spatial-Lacey-Mixing-Index</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
@@ -111,4 +78,32 @@ tags:
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../plac_schw.2023.CAMiC/">Concrete Additive Manufacturing in Construction:<br/>Integration Based on Component-Related Fabrication-Strategies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{klof_dorf_bahr_diel.2022.TRIotST2A,
+      author            = "Harald Kloft and Kathrin Dörfler and Meike Bährens and Gido Dielemans and Johannes Diller and Robin Dörrie and Stefan Gantner and Jonas Hensel and Anna Keune and Dirk Lowke and Inka Mai (née Dressler) and Jeldrik Mainka and Gerrit Placzek and Bettina Saile and Ronny Scharf‐Wildenhain and Patrick Schwerdtner and Sebastian Kock and Dorina Siebert and Daniel Talke and David Wenzler",
+      title             = "The Research Infrastructure of the SFB TRR 277 AMC: Additive Manufacturing in Construction",
+      doi               = "10.1002/bate.202200076",
+      year              = "2022",
+      journal           = "Bautechnik",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kloft, “The Research Infrastructure of the SFB TRR 277 AMC: Additive Manufacturing in Construction”, <i>Bautechnik</i>, 2022, doi: 10.1002/bate.202200076.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kloft, Harald, Kathrin Dörfler, Meike Bährens, Gido Dielemans, Johannes Diller, Robin Dörrie, Stefan Gantner, et al.. “The Research Infrastructure of the SFB TRR 277 AMC: Additive Manufacturing in Construction”. <i>Bautechnik</i>, 2022. https://doi.org/10.1002/bate.202200076.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

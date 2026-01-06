@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alice Gribonval, Maxime Pierre, Nicolas Ducoulombier, Karam Sab, Romain Mesnil, Jérémy Bleyer
+    - footer
+title: Gribonval Alice, Pierre Maxime, Ducoulombier Nicolas, Sab Karam, Mesnil Romain, Bleyer Jérémy
 description:
 tags:
  - concrete
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2025.107918) Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cemconres.2025.107918" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2025.107918</a>
+#Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2025.107918) <a href="https://doi.org/10.1016/j.cemconres.2025.107918" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.107918" target="_blank">10.1016/j.cemconres.2025.107918</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-9557-3857" title="ORCID: 0009-0006-9557-3857" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gribonval_alice"><b>Gribonval</b>&nbsp;Alice</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1654-7169" title="ORCID: 0000-0003-1654-7169" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_maxime"><b>Pierre</b>&nbsp;Maxime</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <a href="../../../author/sab_karam"><b>Sab</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8212-9921" title="ORCID: 0000-0001-8212-9921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bleyer_jeremy"><b>Bleyer</b>&nbsp;Jérémy</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 196, No. 107918
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a> <a href="https://orcid.org/0009-0006-9557-3857" title="ORCID: 0009-0006-9557-3857" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a> <a href="https://orcid.org/0000-0003-1654-7169" title="ORCID: 0000-0003-1654-7169" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sab_karam"><b>Sab</b> Karam</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bleyer_jeremy"><b>Bleyer</b> Jérémy</a> <a href="https://orcid.org/0000-0001-8212-9921" title="ORCID: 0000-0001-8212-9921" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 196, No. 107918
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#condition`](keyword/condition)
-    [`#environment`](keyword/environment)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#model`](keyword/model)
-    [`#multi`](keyword/multi)
-    [`#physics`](keyword/physics)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Physics%20Modelling%20of%203D-Printed%20Concrete%20Evolution%20in%20Environmental%20Conditions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004802870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410359654" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2025.107918" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2025.107918?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D-printed cementitious structures have high water loss after printing provoking significant plastic shrinkage. In this study, we propose a thermo-poro-mechanical model of printed cementitious materials, driven by the experimental observation of a positive correlation between the printed wall thickness and compressive strength at the hardened state. The model is developed to represent evaporation at free surfaces, water consumption associated to the cement hydration and water flow within the material, accounting for their effect on temperature variations, strains and on the evolution of stiffness and compressive strength. Comparisons of compressive strength and plastic shrinkage with experiments are presented, demonstrating the validity of the proposed model. In the absence of protective measures, wall thickness is positively correlated with compressive strength and negatively correlated with shrinkage. When preventing evaporation by putting printed specimens in water, plastic shrinkage is significantly reduced and the compressive strength is increased, reaching similar values as cast samples.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ashr_naza_meis_duar.2022.AGBAfTPG/">A Grammar-Based Algorithm for Tool-Path-Generation:<br/>Compensating for Material-Deformation in the Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../best_krug_zijl.2023.RRfCP/">Rivet Reinforcement for Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -97,9 +73,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{grib_pier_duco_sab.2025.MPMo3PCEiEC,
+      author            = "Alice Gribonval and Maxime Pierre and Nicolas Ducoulombier and Karam Sab and Romain Mesnil and Jérémy Bleyer",
+      title             = "Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions",
+      doi               = "10.1016/j.cemconres.2025.107918",
+      year              = "2025",
+      journal           = "Cement and Concrete Research",
+      volume            = "196",
+      pages             = "107918",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Gribonval, M. Pierre, N. Ducoulombier, K. Sab, R. Mesnil and J. Bleyer, “Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions”, <i>Cement and Concrete Research</i>, vol. 196, p. 107918, 2025, doi: 10.1016/j.cemconres.2025.107918.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gribonval, Alice, Maxime Pierre, Nicolas Ducoulombier, Karam Sab, Romain Mesnil, and Jérémy Bleyer. “Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions”. <i>Cement and Concrete Research</i> 196 (2025): 107918. https://doi.org/10.1016/j.cemconres.2025.107918.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

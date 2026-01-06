@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behzad Nematollahi, Ming Xia, Jay Sanjayan
+    - footer
+title: Nematollahi Behzad, Xia Ming, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Current Progress of 3D Concrete Printing Technologies ([2017-07](date/2017/07))
-<a href="https://doi.org/10.22260/isarc2017/0035" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2017/0035</a>
+#Current Progress of 3D Concrete Printing Technologies ([2017-07](date/2017/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2017/0035" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2017/0035" target="_blank">10.22260/isarc2017/0035</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Contribution - Proceedings of the 34th International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 34th International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Current%20Progress%20of%203D%20Concrete%20Printing%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85032331213&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,28 +34,22 @@ tags:
 <a href="https://inciteful.xyz/p/W2744298129" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2017/0035" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2017/0035?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is expected to go through large transformations since construction automation is anticipated to drastically alter standard processing technologies and could lead to possible disrupting technologies such as 3D concrete printing (3DCP). While 3D printing techniques have been successfully applied in a wide range of industries such as aerospace and automotive, its application in concrete construction industry is still in its infancy. 3DCP can allow freeform construction without the use of expensive formwork, which in return offers excellent advantages compared to conventional approach of casting concrete into a formwork. In the last few years, different 3DCP technologies have been developed. This paper presents the current progress of 3DCP technologies. An innovative methodology recently developed by the authors of this study for formulating geopolymer-based material for the requirements and demands of commercially available powder-based 3D printers is also briefly presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
-      <li><a href="../../../author/holt_camille"><b>Holt</b> Camille</a>, <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>, <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../holt_edwa_keyt_mogh.2019.C3P/">Construction 3D Printing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "154 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bate_asla.2025.Po3PCCwGRUAC/">Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression</a></li>
       <li><a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/amegouz_driss"><b>Amegouz</b> Driss</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../meso_foul_ameg.2025.3CP/">3D Concrete Printing:<br/>Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction</a></li>
@@ -223,6 +204,34 @@ tags:
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
-      <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kont_tryf.2018.IPDwRAMf3CP/">Integrating Parametric Design with Robotic Additive Manufacturing for 3D Clay Printing:<br/>An Experimental Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nema_xia_sanj.2017.CPo3CPT,
+      author            = "Behzad Nematollahi and Ming Xia and Jay Gnananandan Sanjayan",
+      title             = "Current Progress of 3D Concrete Printing Technologies",
+      doi               = "10.22260/isarc2017/0035",
+      year              = "2017",
+      booktitle         = "Proceedings of the 34th International Symposium on Automation and Robotics in Construction: ISARC 2017",
+      editor            = "Min-Yuan Cheng and Hung-Ming Chen and Kuan Chang Chiu",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Nematollahi, M. Xia and J. G. Sanjayan, “Current Progress of 3D Concrete Printing Technologies”, in <i>Proceedings of the 34th International Symposium on Automation and Robotics in Construction: ISARC 2017</i>,  2017. doi: 10.22260/isarc2017/0035.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nematollahi, Behzad, Ming Xia, and Jay Gnananandan Sanjayan. “Current Progress of 3D Concrete Printing Technologies”. In <i>Proceedings of the 34th International Symposium on Automation and Robotics in Construction: ISARC 2017</i>, edited by Min-Yuan Cheng, Hung-Ming Chen, and Kuan Chang Chiu, 2017. https://doi.org/10.22260/isarc2017/0035.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

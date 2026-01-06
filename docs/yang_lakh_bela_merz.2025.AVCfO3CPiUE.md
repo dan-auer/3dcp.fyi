@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xinrui Yang, Othman Lakhal, Abdelkader Belarouci, Rochdi Merzouki
+    - footer
+title: Yang Xinrui, Lakhal Othman, Belarouci Abdelkader, Merzouki Rochdi
 description:
 tags:
  - adaption
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Adaptive Velocity Compensation for Optimal 3D Concrete Printing in Uncontrolled Environments ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1109/tmech.2025.3608456" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/tmech.2025.3608456</a>
+#Adaptive Velocity Compensation for Optimal 3D Concrete Printing in Uncontrolled Environments ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/tmech.2025.3608456" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tmech.2025.3608456" target="_blank">10.1109/tmech.2025.3608456</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7841-4321" title="ORCID: 0000-0002-7841-4321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_xinrui"><b>Yang</b>&nbsp;Xinrui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakhal_othman"><b>Lakhal</b>&nbsp;Othman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belarouci_abdelkader"><b>Belarouci</b>&nbsp;Abdelkader</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/merzouki_rochdi"><b>Merzouki</b>&nbsp;Rochdi</a></span><br>
+Journal Article - IEEE/ASME Transactions on Mechatronics, pp. 1-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a> <a href="https://orcid.org/0000-0002-7841-4321" title="ORCID: 0000-0002-7841-4321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a> <a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a> <a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IEEE/ASME Transactions on Mechatronics, pp. 1-10
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#compensation`](keyword/compensation)
-    [`#concrete`](keyword/concrete)
-    [`#environment`](keyword/environment)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#velocity`](keyword/velocity)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/compensation"><button class="btn">#compensation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Adaptive%20Velocity%20Compensation%20for%20Optimal%203D%20Concrete%20Printing%20in%20Uncontrolled%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018348264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414798927" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/tmech.2025.3608456" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/tmech.2025.3608456?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3-D concrete printing is revolutionizing construction, but ensuring consistent filament size remains a key challenge for both structural stability and surface quality. Existing solutions rely on specialized materials and manual adjustments, limiting scalability and adaptability. This article introduces an automated assistance system that compensates for material fluctuations in real time by leveraging artificial intelligence. The system detects variations in filament width and dynamically adjusts the robot nozzle’s velocity, significantly improving print quality and structural integrity. Extensive experiments conducted at 10 ∘C, 20 ∘C, and 30 ∘C validate its robustness, demonstrating a scalable approach for enhancing the reliability of 3-D concrete printing in diverse environmental conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -77,7 +56,36 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yang_lakh_bela_merz.2023.ADaIoFWDD3PoRCM/">Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_lakh_bela_merz.2025.AVCfO3CPiUE,
+      author            = "Xinrui Yang and Othman Lakhal and Abdelkader Belarouci and Rochdi Merzouki",
+      title             = "Adaptive Velocity Compensation for Optimal 3D Concrete Printing in Uncontrolled Environments",
+      doi               = "10.1109/tmech.2025.3608456",
+      year              = "2025",
+      journal           = "IEEE/ASME Transactions on Mechatronics",
+      pages             = "1--10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Yang, O. Lakhal, A. Belarouci and R. Merzouki, “Adaptive Velocity Compensation for Optimal 3D Concrete Printing in Uncontrolled Environments”, <i>IEEE/ASME Transactions on Mechatronics</i>, pp. 1–10, 2025, doi: 10.1109/tmech.2025.3608456.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Xinrui, Othman Lakhal, Abdelkader Belarouci, and Rochdi Merzouki. “Adaptive Velocity Compensation for Optimal 3D Concrete Printing in Uncontrolled Environments”. <i>IEEE/ASME Transactions on Mechatronics</i>, 2025, 1–10. https://doi.org/10.1109/tmech.2025.3608456.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

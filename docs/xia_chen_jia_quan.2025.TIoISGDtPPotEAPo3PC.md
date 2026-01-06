@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kailun Xia, Yuning Chen, Lutao Jia, Shitao Quan, Hanquan Yuan, Enlai Dong, Zedi Zhang, Yu Chen, Nemkumar Banthia, Yamei Zhang
+    - footer
+title: Xia Kailun, Chen Yuning, Jia Lutao, Quan Shitao, Yuan Hanquan, Dong Enlai, Zhang Zedi, Chen Yu, Banthia Nemkumar, Zhang Yamei
 description:
 tags:
  - age
@@ -16,38 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106365" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106365</a>
+#The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106365" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106365" target="_blank">10.1016/j.cemconcomp.2025.106365</a>
 
--------------------------
+<a href="../../../author/xia_kailun"><b>Xia</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/quan_shitao"><b>Quan</b>&nbsp;Shitao</a></span>, <a href="../../../author/yuan_hanquan"><b>Yuan</b>&nbsp;Hanquan</a></span>, <a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106365
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a>
-,     <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>
-,     <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106365
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#internal`](keyword/internal)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#property`](keyword/property)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Impact%20of%20Internal%20Stress%20Generated%20During%20the%20Printing%20Process%20on%20the%20Early-Age%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018860222&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415195229" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106365" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106365?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Internal stress induced by extrusion-based 3D printing process may exert impacts on properties of the products. This work aims to map out the internal stress induced by the 3D printing process and corresponding impacts on early age shape stability and structural performances of 3D printed concrete (3DPC). By using computational fluid dynamics (CFD) technique, extrusion-based 3D concrete printing processes were simulated, with variations in printing parameters including the nozzle travel velocity (VN), extrusion flow velocity (VE) and nozzle standoff distance (DN). Based on the CFD results, the shape stability contributors during printing process and internal stress fields within printed structures are comprehensively clarified. Then, the effects of internal stress fields on early age properties including deformation and mechanical performances are analyzed and validated by experiments. Finally, a comprehensive instruction encompassing specific printing parameter ranges and corresponding outcomes is provided. This study can offer valuable references for printing process optimization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../chen_liu_cao_chen.2022.SIoRPR3PPfAAM/">Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials:<br/>Effect of Precursor Nature</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chen_xia_jia_gao.2024.EAo3PGtLSPSvCoSCaNS/">Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica</a></li>
@@ -101,7 +73,36 @@ tags:
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../xia_chen_chen_jia.2024.UaMtPDo3PCBoVCB/">Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC,
+      author            = "Kailun Xia and Yuning Chen and Lutao Jia and Shitao Quan and Hanquan Yuan and Enlai Dong and Zedi Zhang and Yu Chen and Nemkumar Banthia and Yamei Zhang",
+      title             = "The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete",
+      doi               = "10.1016/j.cemconcomp.2025.106365",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106365",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Xia, “The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete”, <i>Cement and Concrete Composites</i>, p. 106365, 2025, doi: 10.1016/j.cemconcomp.2025.106365.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xia, Kailun, Yuning Chen, Lutao Jia, Shitao Quan, Hanquan Yuan, Enlai Dong, Zedi Zhang, Yu Chen, Nemkumar Banthia, and Yamei Zhang. “The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete”. <i>Cement and Concrete Composites</i>, 2025, 106365. https://doi.org/10.1016/j.cemconcomp.2025.106365.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Léo Demont, Romain Mesnil, Nicolas Ducoulombier, Jean-François Caron
+    - footer
+title: Demont Léo, Mesnil Romain, Ducoulombier Nicolas, Caron Jean-François
 description:
 tags:
  - affordability
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://arxiv.org/pdf/2307.14137) Affordable In-Line Structuration Measurements of Printable Mortar with a Pocket-Shear-Vane ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133602" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133602</a>
+#Affordable In-Line Structuration Measurements of Printable Mortar with a Pocket-Shear-Vane ([2023-10](date/2023/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://arxiv.org/pdf/2307.14137) <a href="https://doi.org/10.1016/j.conbuildmat.2023.133602" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133602" target="_blank">10.1016/j.conbuildmat.2023.133602</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demont_leo"><b>Demont</b>&nbsp;Léo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 408, No. 133602
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 408, No. 133602
-
-:aca-blank:{ .lg .middle}
-    [`#affordability`](keyword/affordability)
-    [`#line`](keyword/line)
-    [`#measurement`](keyword/measurement)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#shear`](keyword/shear)
-    [`#structuration`](keyword/structuration)
-
-
--------------------------
+<a href="../../keyword/affordability"><button class="btn">#affordability</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Affordable%20In-Line%20Structuration%20Measurements%20of%20Printable%20Mortar%20with%20a%20Pocket-Shear-Vane" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173483032&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387468666" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133602" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133602?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The control of mortar rheology is of paramount importance in 3D printing concrete by extrusion. This is particularly sensitive for two-component (2K) processes that use an accelerator to switch the printed mortar very quickly from a liquid behavior to a sufficiently solid behavior to be able to be printed (i.e. structuration). After some main key points about measuring the structuration of printed mortars, we propose an original and simple inline test using a pocket shear vane tester. The test is able to measure over several decades of yield stress range, mobilizes small quantities of mortar and enables in-situ measurements on freshly printed layers. The results highlight the difference of structuration between a benchtop-prepared printable material and a truly printed material, fostering the importance of inline measurements, and demonstrating the quality of the method. This pocket shear vane test appears as good contender for a light and affordable rheometer for 2K printable mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM/">Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>Rheological and Technological Requirements</a></li>
@@ -83,8 +62,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC/">Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>
       <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
@@ -101,4 +80,34 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bono_duco_mesn_caro.2024.MfFLCPMTPPO/">Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{demo_mesn_duco_caro.2023.AILSMoPMwaPSV,
+      author            = "Léo Demont and Romain Mesnil and Nicolas Ducoulombier and Jean-François Caron",
+      title             = "Affordable In-Line Structuration Measurements of Printable Mortar with a Pocket-Shear-Vane",
+      doi               = "10.1016/j.conbuildmat.2023.133602",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "408",
+      pages             = "133602",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Demont, R. Mesnil, N. Ducoulombier and J.-F. Caron, “Affordable In-Line Structuration Measurements of Printable Mortar with a Pocket-Shear-Vane”, <i>Construction and Building Materials</i>, vol. 408, p. 133602, 2023, doi: 10.1016/j.conbuildmat.2023.133602.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Demont, Léo, Romain Mesnil, Nicolas Ducoulombier, and Jean-François Caron. “Affordable In-Line Structuration Measurements of Printable Mortar with a Pocket-Shear-Vane”. <i>Construction and Building Materials</i> 408 (2023): 133602. https://doi.org/10.1016/j.conbuildmat.2023.133602.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

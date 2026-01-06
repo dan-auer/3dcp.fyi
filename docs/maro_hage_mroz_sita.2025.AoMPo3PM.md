@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcin Maroszek, Izabela Hager, Katarzyna Mróz, Mateusz Sitarz, Marek Hebda
+    - footer
+title: Maroszek Marcin, Hager Izabela, Mróz Katarzyna, Sitarz Mateusz, Hebda Marek
 description:
 tags:
  - anisotropy
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/18/16/3845/pdf?version=1755267856) Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>:aca-blank: Influence of Application Time of Subsequent Layers ([2025-08](date/2025/08))
-<a href="https://doi.org/10.3390/ma18163845" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18163845</a>
+#Anisotropy of Mechanical Properties of 3D-Printed Materials&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Influence of Application Time of Subsequent Layers</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/16/3845/pdf?version=1755267856) <a href="https://doi.org/10.3390/ma18163845" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18163845" target="_blank">10.3390/ma18163845</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mroz_katarzyna"><b>Mróz</b>&nbsp;Katarzyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6219-3256" title="ORCID: 0000-0001-6219-3256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sitarz_mateusz"><b>Sitarz</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 16, No. 3845
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> <a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a> <a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> <a href="https://orcid.org/0000-0001-6219-3256" title="ORCID: 0000-0001-6219-3256" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 16, No. 3845
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#application`](keyword/application)
-    [`#influence`](keyword/influence)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anisotropy%20of%20Mechanical%20Properties%20of%203D-Printed%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014292120&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413379141" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18163845" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18163845?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is an emerging additive manufacturing technology with increasing application potential in the construction industry, offering advantages such as reduced labor requirements, shortened construction time, and material efficiency. However, structural integrity remains a challenge, particularly due to weak interlayer bonding resulting from the layered manufacturing process. This study investigates the mechanical performance and anisotropy of 3D-printed mineral-based composites with respect to the time interval between successive layers. Specimens were printed with varying interlayer intervals (0, 25, and 50 min) and tested in different loading directions. Flexural, compressive, and tensile strengths (direct and splitting methods) were measured both parallel and perpendicular to the layer orientation. Results showed a clear degradation in mechanical properties with increasing interlayer time, particularly in the direction perpendicular to the layers. Flexural strength decreased by over 25% and direct tensile strength by up to 40% with a 25 min interval. Compressive strength also declined, though less dramatically. Compared to cast specimens, printed elements showed 3–4 times lower compressive strength, highlighting the significant impact of interlayer cohesion. This study confirms that both the time between layers and the loading direction strongly influence mechanical behavior, underlining the anisotropic nature of 3DCP elements and the need for process optimization to ensure structural reliability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
@@ -113,10 +90,42 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/li_keyan"><b>Li</b> Keyan</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_li_liu.2025.S3PECCIRCM/">Sustainable 3D Printed Engineered Cementitious Composites Incorporating Recycled Ceramic Materials:<br/>Rheology and Mechanical Behavior</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{maro_hage_mroz_sita.2025.AoMPo3PM,
+      author            = "Marcin Maroszek and Izabela Hager and Katarzyna Mróz and Mateusz Sitarz and Marek Hebda",
+      title             = "Anisotropy of Mechanical Properties of 3D-Printed Materials: Influence of Application Time of Subsequent Layers",
+      doi               = "10.3390/ma18163845",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "16",
+      pages             = "3845",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Maroszek, I. Hager, K. Mróz, M. Sitarz and M. Hebda, “Anisotropy of Mechanical Properties of 3D-Printed Materials: Influence of Application Time of Subsequent Layers”, <i>Materials</i>, vol. 18, no. 16, p. 3845, 2025, doi: 10.3390/ma18163845.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Maroszek, Marcin, Izabela Hager, Katarzyna Mróz, Mateusz Sitarz, and Marek Hebda. “Anisotropy of Mechanical Properties of 3D-Printed Materials: Influence of Application Time of Subsequent Layers”. <i>Materials</i> 18, no. 16 (2025): 3845. https://doi.org/10.3390/ma18163845.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

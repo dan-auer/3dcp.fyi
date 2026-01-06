@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amaia Aramburu, Iñigo Calderon-Uriszar-Aldaca, Iñigo Puente
+    - footer
+title: Aramburu Amaia, Calderon-Uriszar-Aldaca Iñigo, Puente Iñigo
 description:
 tags:
  - bond
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127827" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127827</a>
+#Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127827" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127827" target="_blank">10.1016/j.conbuildmat.2022.127827</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3804-8478" title="ORCID: 0000-0002-3804-8478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aramburu_amaia"><b>Aramburu</b>&nbsp;Amaia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6911-161X" title="ORCID: 0000-0002-6911-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b>&nbsp;Iñigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2633-1783" title="ORCID: 0000-0003-2633-1783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puente_inigo"><b>Puente</b>&nbsp;Iñigo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 340
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a> <a href="https://orcid.org/0000-0002-3804-8478" title="ORCID: 0000-0002-3804-8478" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a> <a href="https://orcid.org/0000-0002-6911-161X" title="ORCID: 0000-0002-6911-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="https://orcid.org/0000-0003-2633-1783" title="ORCID: 0000-0003-2633-1783" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 340, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#rebar`](keyword/rebar)
-    [`#steel`](keyword/steel)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bonding%20Strength%20of%20Steel-Rebars%20Perpendicular%20to%20the%20Hardened%203D%20Printed%20Concrete-Layers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130321347&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4280524066" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127827" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127827?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Passive rebars are inserted into interior hollow channels within a 3D-printed mortar geometry and then bonded with a wet joint of filling mortar, in order to test the bonding strength of the rebars within the mortar structure. Standardized test procedures are adapted for the test procedure. The test results revealed bonding strengths with shear stresses within an interval between 16.75 MPa and 18 MPa, dependent upon rebar diameter, and good early strength development of the bonding mortar of at least 14 MPa during the first week. No specimen failed because of debonding between the filling mortar and the 3D-printed cylinder, nor because of debonding of the cylinder and the concrete poured around its exterior.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
@@ -83,8 +62,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../sun_gao_wang.2021.BPBBBa3PC/">Bond-Performance Between BFRP-Bars and 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
       <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
@@ -102,4 +81,33 @@ tags:
       <li><a href="../../../author/kan_deyuan"><b>Kan</b> Deyuan</a>, <a href="../../../author/liu_guifeng"><b>Liu</b> Guifeng</a>, <a href="../../../author/cao_cindy_shuang"><b>Cao</b> Shuang</a>, <a href="../../../author/chen_zhengfa"><b>Chen</b> Zhengfa</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kan_liu_cao_chen.2022.MPaPSoMWCNTRRPCfTDPMbME/">Mechanical Properties and Pore-Structure of Multi-Walled Carbon-Nano-Tube-Reinforced Reactive Powder-Concrete for Three-Dimensional Printing Manufactured by Material-Extrusion</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aram_cald_puen.2022.BSoSRPttH3PCL,
+      author            = "Amaia Aramburu and Iñigo Calderon-Uriszar-Aldaca and Iñigo Puente",
+      title             = "Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers",
+      doi               = "10.1016/j.conbuildmat.2022.127827",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "340",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Aramburu, I. Calderon-Uriszar-Aldaca and I. Puente, “Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers”, <i>Construction and Building Materials</i>, vol. 340, 2022, doi: 10.1016/j.conbuildmat.2022.127827.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aramburu, Amaia, Iñigo Calderon-Uriszar-Aldaca, and Iñigo Puente. “Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers”. <i>Construction and Building Materials</i> 340 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127827.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Mostert Jean-Pierre 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
   <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../most_krug.2025.RABo3PCTIF/">Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

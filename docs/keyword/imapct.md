@@ -8,7 +8,7 @@ search:
 
 # #imapct
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
   <li><a href="../../../author/jia_yanhong"><b>Jia</b> Yanhong</a>, <a href="../../../author/chen_yao"><b>Chen</b> Yao</a>, <a href="../../../author/li_yanchen"><b>Li</b> Yanchen</a>, <a href="../../../author/le_huirong"><b>Le</b> Huirong</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jia_chen_li_le.2025.IotRPoDPoMBG/">Impacts of the Rheological Performance on Dynamic Printing of Metakaolin-Based Geopolymer</a></li>
   <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../liu_hu_guo.2025.IIBo3PFRGbHA/">Improved Interlayer-Bonding of 3D Printed Fiber-Reinforced Geopolymer by Healing-Agents:<br/>Properties, Mechanism, and Environmental Impacts</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Giwa Ilerioluwa 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/boldini_alain"><b>Boldini</b> Alain</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bold_giwa_kame_kaze.2025.STPi3PSCfACoEaB/">Spatiotemporal Temperature Prediction in 3D-Printed Sulfur Concrete for Automated Construction on Earth and Beyond</a></li>
   <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/gopu_vijaya"><b>Gopu</b> Vijaya</a>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../giwa_kaze_gopu_rupn.2024.ACLBAo3PCE/">A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements</a></li>
   <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../giwa_demp_fisk_kaze.2024.3PSRCPEfWERC/">3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction</a></li>

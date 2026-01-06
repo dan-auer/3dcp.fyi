@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bolin Wang, Xiaofei Yao, Min Yang, Runhong Zhang, Jizhuo Huang, Xiangyu Wang, Zhejun Dong, Hongyu Zhao
+    - footer
+title: Wang Bolin, Yao Xiaofei, Yang Min, Zhang Runhong, Huang Jizhuo, Wang Xiangyu, Dong Zhejun, Zhao Hongyu
 description:
 tags:
  - concrete
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/8/2864/pdf?version=1650116732) Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions ([2022-04](date/2022/04))
-<a href="https://doi.org/10.3390/ma15082864" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15082864</a>
+#Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions ([2022-04](date/2022/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/8/2864/pdf?version=1650116732) <a href="https://doi.org/10.3390/ma15082864" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15082864" target="_blank">10.3390/ma15082864</a>
 
--------------------------
+<a href="../../../author/wang_bolin"><b>Wang</b>&nbsp;Bolin</a></span>, <a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_min"><b>Yang</b>&nbsp;Min</a></span>, <a href="../../../author/zhang_runhong"><b>Zhang</b>&nbsp;Runhong</a></span>, <a href="../../../author/huang_jizhuo"><b>Huang</b>&nbsp;Jizhuo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/dong_zhejun"><b>Dong</b>&nbsp;Zhejun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>
-,     <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>
-,     <a href="../../../author/yang_min"><b>Yang</b> Min</a> <a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_runhong"><b>Zhang</b> Runhong</a>
-,     <a href="../../../author/huang_jizhuo"><b>Huang</b> Jizhuo</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dong_zhejun"><b>Dong</b> Zhejun</a>
-,     <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#condition`](keyword/condition)
-    [`#cure`](keyword/cure)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#steam`](keyword/steam)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steam"><button class="btn">#steam</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%203D%20Printed%20Concrete%20in%20Steam-Curing%20Conditions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129016066&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224017262" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15082864" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15082864?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing (3DCP) technology attracts significant attention from research and industry. Moreover, adequate mechanical performance is one of the primary properties for materials, meeting the demand of structural safety using 3DCP technology. However, research on curing conditions as the significant influence factor of mechanical capacity is required to accelerate the practical application of 3DCP technology. This study aims to explore the impact of various steam curing conditions (heating rate, constant temperature time, and constant temperature) on the mechanical performance of printed concrete containing solid wastes. Moreover, the optimal steam curing conditions are obtained for compressive, tensile, and flexural properties in different directions. Subsequently, anisotropies in the mechanical properties of printed composites and interlayer bonding behaviors are investigated when various curing conditions are employed. The result shows that steam curing conditions and solid waste incorporation improves the interlayer bond for 3D printed cement-based composites.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pankratow_pawel"><b>Pankratow</b> Paweł</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../hoff_skib_pank_ziel.2020.AitCoa3PCWwtUoaLG/">Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper</a></li>
@@ -79,8 +54,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/li_hualong"><b>Li</b> Hualong</a>, <a href="../../../author/shi_ye"><b>Shi</b> Ye</a>, <a href="../../../author/rong_hui"><b>Rong</b> Hui</a>, <a href="../../../author/dai_kaichao"><b>Dai</b> Kaichao</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_shi_rong_dai.2025.EoAotPo3PUHPC/">Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete</a></li>
@@ -99,4 +74,34 @@ tags:
       <li><a href="../../../author/shen_yuhang"><b>Shen</b> Yuhang</a>, <a href="../../../author/lin_li"><b>Lin</b> Li</a>, <a href="../../../author/wei_shengjie"><b>Wei</b> Shengjie</a>, <a href="../../../author/yan_jie"><b>Yan</b> Jie</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../shen_lin_wei_yan.2022.RotPaMPoS3PCM/">Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials</a></li>
       <li><a href="../../../author/medicis_carolina"><b>Medicis</b> Carolina</a>, <a href="../../../author/gonzalez_sergio"><b>Gonzalez</b> Sergio</a>, <a href="../../../author/alvarado_a_yezid"><b>Alvarado</b> Yezid</a>, <a href="../../../author/vacca_ariel_hermes"><b>Vacca</b> Hermes</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../medi_gonz_alva_vacc.2022.MPoCAPUB3PC/">Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_yao_yang_zhan.2022.MPo3PCiSCC,
+      author            = "Bolin Wang and Xiaofei Yao and Min Yang and Runhong Zhang and Jizhuo Huang and Xiangyu Wang and Zhejun Dong and Hongyu Zhao",
+      title             = "Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions",
+      doi               = "10.3390/ma15082864",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Wang, “Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions”, <i>Materials</i>, vol. 15, no. 8, 2022, doi: 10.3390/ma15082864.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Bolin, Xiaofei Yao, Min Yang, Runhong Zhang, Jizhuo Huang, Xiangyu Wang, Zhejun Dong, and Hongyu Zhao. “Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions”. <i>Materials</i> 15, no. 8 (2022). https://doi.org/10.3390/ma15082864.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

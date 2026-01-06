@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martina Álvarez-Fernández, Diego-José Guerrero-Miguel, Celestino González-Nicieza, María Prendes-Gero, Juan Peñas-Espinosa, Román Fernández-Rodríguez
+    - footer
+title: Álvarez-Fernández Martina, Guerrero-Miguel Diego-José, González-Nicieza Celestino, Prendes-Gero María, Peñas-Espinosa Juan, Fernández-Rodríguez Román
 description:
 tags:
  - additive
@@ -14,32 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/11/1912/pdf?version=1748762616) Mortars with Mining Tailings Aggregates:<br/>:aca-blank: Implications for Additive Manufacturing ([2025-06](date/2025/06))
-<a href="https://doi.org/10.3390/buildings15111912" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15111912</a>
+#Mortars with Mining Tailings Aggregates&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Implications for Additive Manufacturing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/11/1912/pdf?version=1748762616) <a href="https://doi.org/10.3390/buildings15111912" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15111912" target="_blank">10.3390/buildings15111912</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5681-6530" title="ORCID: 0000-0002-5681-6530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b>&nbsp;Martina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9125-4860" title="ORCID: 0000-0002-9125-4860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b>&nbsp;Diego-José</a></span>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b>&nbsp;Celestino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9125-4863" title="ORCID: 0000-0001-9125-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b>&nbsp;María</a></span>, <a href="../../../author/penas-espinosa_carlos_juan"><b>Peñas-Espinosa</b>&nbsp;Juan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9278-3692" title="ORCID: 0000-0002-9278-3692" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernandez-rodriguez_roman"><b>Fernández-Rodríguez</b>&nbsp;Román</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 11, No. 1912
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a> <a href="https://orcid.org/0000-0002-5681-6530" title="ORCID: 0000-0002-5681-6530" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> <a href="https://orcid.org/0000-0002-9125-4860" title="ORCID: 0000-0002-9125-4860" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>
-,     <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a> <a href="https://orcid.org/0000-0001-9125-4863" title="ORCID: 0000-0001-9125-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/penas-espinosa_carlos_juan"><b>Peñas-Espinosa</b> Juan</a>
-,     <a href="../../../author/fernandez-rodriguez_roman"><b>Fernández-Rodríguez</b> Román</a> <a href="https://orcid.org/0000-0002-9278-3692" title="ORCID: 0000-0002-9278-3692" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 11, No. 1912
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#aggregate`](keyword/aggregate)
-    [`#implication`](keyword/implication)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mortar`](keyword/mortar)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mortars%20with%20Mining%20Tailings%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007810226&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410966501" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15111912" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15111912?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There is no doubt that additive manufacturing (AM) with mortars presents an opportunity within the framework of a circular economy that should not be overlooked. The concepts of reduce, reuse, and recycle are fully aligned with this technology. One of the less explored possibilities is the utilisation of mining tailings as aggregates in printing mortars. This idea not only incorporates the concept of recycling but also contributes to a reduction in the production of potentially hazardous waste that would otherwise require storage in dams, thereby decreasing long-term environmental risks and improving the management of mineral resources. We employed a mortar composed of 12.5% material derived from mining tailings to highlight aspects of AM that are typically not subject to analysis, such as the necessity of considering contact interfaces between layers in structural design, the stackability of layers during the construction process, and the behaviour under fire and seismic events, which must be taken into account during the operational phase. Without aiming for exhaustiveness, we conducted a series of tests and computational modelling to show the significance of these factors, with the intention of drawing the attention of different stakeholders—including construction companies, regulatory authorities, standardisation agencies, insurers, and end-users.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
@@ -83,8 +62,38 @@ tags:
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
       <li><a href="../../../author/valle-pello_p"><b>Valle‐Pello</b> P.</a>, <a href="../../../author/alvarez-rabanal_pedro_felipe"><b>Álvarez‐Rabanal</b> Felipe</a>, <a href="../../../author/alonso-martinez_m"><b>Alonso‐Martínez</b> M.</a>, <a href="../../../author/coz-diaz_j_j"><b>Coz Díaz</b> J.</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../vall_alva_alon_coz.2019.NSotIo3PCUDEM/">Numerical Study of the Interfaces of 3D Printed Concrete Using Discrete Element Method</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ting_quah_lim_tay.2022.ERPSo3PCURGC/">Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alva_guer_gonz_pren.2025.MwMTA,
+      author            = "Martina Inmaculada Álvarez-Fernández and Diego-José Guerrero-Miguel and Celestino González-Nicieza and María Belén Prendes-Gero and Juan Carlos Peñas-Espinosa and Román Fernández-Rodríguez",
+      title             = "Mortars with Mining Tailings Aggregates: Implications for Additive Manufacturing",
+      doi               = "10.3390/buildings15111912",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "11",
+      pages             = "1912",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. I. Álvarez-Fernández, D.-J. Guerrero-Miguel, C. González-Nicieza, M. B. Prendes-Gero, J. C. Peñas-Espinosa and R. Fernández-Rodríguez, “Mortars with Mining Tailings Aggregates: Implications for Additive Manufacturing”, <i>Buildings</i>, vol. 15, no. 11, p. 1912, 2025, doi: 10.3390/buildings15111912.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Álvarez-Fernández, Martina Inmaculada, Diego-José Guerrero-Miguel, Celestino González-Nicieza, María Belén Prendes-Gero, Juan Carlos Peñas-Espinosa, and Román Fernández-Rodríguez. “Mortars with Mining Tailings Aggregates: Implications for Additive Manufacturing”. <i>Buildings</i> 15, no. 11 (2025): 1912. https://doi.org/10.3390/buildings15111912.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

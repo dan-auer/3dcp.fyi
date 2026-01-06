@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Buswell Richard 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/crook_thomas"><b>Crook</b> Thomas</a>, <a href="../../../author/li_matthew"><b>Li</b> Matthew</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/allinson_david"><b>Allinson</b> David</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../croo_li_busw_alli.2025.AHPo3PC/">Anisotropic Hygrothermal Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

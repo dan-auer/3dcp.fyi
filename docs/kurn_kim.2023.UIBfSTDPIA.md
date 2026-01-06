@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eka Kurniati, Heejeong Kim
+    - footer
+title: Kurniati Eka, Kim Heejeong
 description:
 tags:
  - application
@@ -19,33 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2412-3811/8/10/140/pdf?version=1696411090) Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications:<br/>:aca-blank: A Comprehensive Review ([2023-10](date/2023/10))
-<a href="https://doi.org/10.3390/infrastructures8100140" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/infrastructures8100140</a>
+#Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">A Comprehensive Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2412-3811/8/10/140/pdf?version=1696411090) <a href="https://doi.org/10.3390/infrastructures8100140" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures8100140" target="_blank">10.3390/infrastructures8100140</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4827-9739" title="ORCID: 0000-0002-4827-9739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b>&nbsp;Eka</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_heejeong"><b>Kim</b>&nbsp;Heejeong</a></span><br>
+Journal Article - Infrastructures, Vol. 8, Iss. 10, No. 140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a> <a href="https://orcid.org/0000-0002-4827-9739" title="ORCID: 0000-0002-4827-9739" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Infrastructures, Vol. 8, Iss. 10, No. 140
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#byproduct`](keyword/byproduct)
-    [`#comprehension`](keyword/comprehension)
-    [`#dimension`](keyword/dimension)
-    [`#industry`](keyword/industry)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#three`](keyword/three)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/byproduct"><button class="btn">#byproduct</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Utilizing%20Industrial%20Byproducts%20for%20Sustainable%20Three-Dimensional-Printed%20Infrastructure%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175309759&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387343486" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/infrastructures8100140" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/infrastructures8100140?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Industrial secondary products (e.g., fly ash, blast furnace slag, and silica fume) have found extensive application as alternative construction materials in conventional manufacturing methods to reduce carbon emissions due to cement usage and solve the waste management problem. To date, additive manufacturing or 3D printing has been massively developed for every material, including cement-based materials. Some possibilities have arisen to incorporate industrial wastes in cement mixtures in 3D printing applications. However, a comprehensive study about fly ash (FA), ground granulated blast-furnace slag (GGBFS), and silica fume (SF) usage in 3D-printed materials needs to be conducted. This paper shows that some aspects of 3D printing, such as printability, buildability, and rheological properties, need to be considered, and waste materials affect these fresh mixture properties. Applying waste materials as supplementary cementitious materials also gives different mechanical properties and durability performances. Furthermore, the environmental and economic benefits of 3D-printed and conventional materials are compared. The results show that 3D printing methods can enhance the environmental and economic benefits while maintaining the performance of materials created using traditional methods. Studying industrial waste application in 3D printing has become a promising way to develop sustainable materials in this digitalization era.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
@@ -110,8 +88,40 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kurn_kim.2023.UIBfSTDPIA,
+      author            = "Eka Oktavia Kurniati and Heejeong Kim",
+      title             = "Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications: A Comprehensive Review",
+      doi               = "10.3390/infrastructures8100140",
+      year              = "2023",
+      journal           = "Infrastructures",
+      volume            = "8",
+      number            = "10",
+      pages             = "140",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. O. Kurniati  and H. Kim, “Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications: A Comprehensive Review”, <i>Infrastructures</i>, vol. 8, no. 10, p. 140, 2023, doi: 10.3390/infrastructures8100140.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kurniati, Eka Oktavia, and Heejeong Kim. “Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications: A Comprehensive Review”. <i>Infrastructures</i> 8, no. 10 (2023): 140. https://doi.org/10.3390/infrastructures8100140.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

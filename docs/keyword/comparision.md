@@ -8,7 +8,7 @@ search:
 
 # #comparision
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b> Anies</a>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b> Leyla</a>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b> Reham</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../gnan_more_thab_rang.2026.CAoOVO3PiC/">Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction:<br/>Benefits, Challenges, and Case Studies</a></li>
   <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
   <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>

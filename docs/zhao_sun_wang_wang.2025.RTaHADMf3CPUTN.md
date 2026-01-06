@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongyu Zhao, Junbo Sun, Xiangyu Wang, Yufei Wang, Yang Su, Jun Wang, Li Wang
+    - footer
+title: Zhao Hongyu, Sun Junbo, Wang Xiangyu, Wang Yufei, Su Yang, Wang Jun, Wang Li
 description:
 tags:
  - accuracy
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.autcon.2024.105925" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105925</a>
+#Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105925" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105925" target="_blank">10.1016/j.autcon.2024.105925</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <a href="../../../author/su_yang"><b>Su</b>&nbsp;Yang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_jun"><b>Wang</b>&nbsp;Jun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span><br>
+Journal Article - Automation in Construction, Vol. 170, No. 105925
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/su_yang"><b>Su</b> Yang</a>
-,     <a href="../../../author/wang_jun"><b>Wang</b> Jun</a> <a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 170, No. 105925
-
-:aca-blank:{ .lg .middle}
-    [`#accuracy`](keyword/accuracy)
-    [`#concrete`](keyword/concrete)
-    [`#defect`](keyword/defect)
-    [`#height`](keyword/height)
-    [`#monitoring`](keyword/monitoring)
-    [`#network`](keyword/network)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#time`](keyword/time)
-    [`#transform`](keyword/transform)
-
-
--------------------------
+<a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20and%20High-Accuracy%20Defect%20Monitoring%20for%203D%20Concrete%20Printing%20Using%20Transformer%20Networks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211992155&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405431422" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105925" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105925?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Defects and anomalies during the 3D concrete printing (3DCP) process significantly affect final construction quality. This paper proposes a real-time, high-accuracy method for monitoring defects in the printing process using a transformer-based detector. Despite limited data availability, deep learning-based data augmentation and image processing techniques were employed to enable effective training of this complex transformer model. A range of enhancement strategies was applied to the RT-DETR, resulting in remarkable improvements, including a mAP50 of 98.1 %, mAP50–95 of 68.0 %, and a computation speed of 72 FPS. The enhanced RT-DETR outperformed state-of-the-art detectors such as YOLOv8 and YOLOv7 in detecting defects in 3DCP. Furthermore, the improved RT-DETR was used to analyze the relationships between defect count, size, and printer parameters, providing guidance for operators to fine-tune printer settings and promptly address defects. This monitoring method reduces material waste and minimizes the risk of structural collapse during the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -110,8 +83,8 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
@@ -121,4 +94,34 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhao_wang_sun_wu.2025.AASfMDi3PC/">Automated Analysis System for Micro-Defects in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhao_wang_chen_liu.2025.MIo3PCUMTN/">Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_sun_wang_wang.2025.RTaHADMf3CPUTN,
+      author            = "Hongyu Zhao and Junbo Sun and Xiangyu Wang and Yufei Wang and Yang Su and Jun Wang and Li Wang",
+      title             = "Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks",
+      doi               = "10.1016/j.autcon.2024.105925",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "170",
+      pages             = "105925",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhao, “Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks”, <i>Automation in Construction</i>, vol. 170, p. 105925, 2025, doi: 10.1016/j.autcon.2024.105925.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Hongyu, Junbo Sun, Xiangyu Wang, Yufei Wang, Yang Su, Jun Wang, and Li Wang. “Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks”. <i>Automation in Construction</i> 170 (2025): 105925. https://doi.org/10.1016/j.autcon.2024.105925.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Nemkumar Banthia, Yifan Shi, Zijian Jia, Yamei Zhang, Yu Chen, Yuanliang Xiong, Chun Chen
+    - footer
+title: Liu Chao, Banthia Nemkumar, Shi Yifan, Jia Zijian, Zhang Yamei, Chen Yu, Xiong Yuanliang, Chen Chun
 description:
 tags:
  - age
@@ -21,41 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Early-Age Shrinkage Mitigation and Quantitative Study on Water Loss Kinetics of 3D Printed Foam-Concrete Modified with Superabsorbent Polymers ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.addma.2024.104448" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104448</a>
+#Early-Age Shrinkage Mitigation and Quantitative Study on Water Loss Kinetics of 3D Printed Foam-Concrete Modified with Superabsorbent Polymers ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104448" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104448" target="_blank">10.1016/j.addma.2024.104448</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <a href="../../../author/shi_yifan"><b>Shi</b>&nbsp;Yifan</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b>&nbsp;Yuanliang</a></span>, <a href="../../../author/chen_chun"><b>Chen</b>&nbsp;Chun</a></span><br>
+Journal Article - Additive Manufacturing, No. 104448
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_yifan"><b>Shi</b> Yifan</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>
-,     <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104448
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#foam`](keyword/foam)
-    [`#kinetic`](keyword/kinetic)
-    [`#loss`](keyword/loss)
-    [`#mitigation`](keyword/mitigation)
-    [`#modification`](keyword/modification)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#quantity`](keyword/quantity)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/kinetic"><button class="btn">#kinetic</button></a> <a href="../../keyword/loss"><button class="btn">#loss</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Shrinkage%20Mitigation%20and%20Quantitative%20Study%20on%20Water%20Loss%20Kinetics%20of%203D%20Printed%20Foam-Concrete%20Modified%20with%20Superabsorbent%20Polymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204930078&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402901419" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104448" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104448?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to direct exposure to the environment during the printing process and after printing and its own porous characteristics, 3D printed foam concrete (3DPFC) will inevitably have a large shrinkage at early age. In this study, the early age shrinkage of 3DPFC was modified by using various dosages of superabsorbent polymer (SAP). The water loss kinetics of 3DPFC at early age were elucidated, and the mechanism influencing early age shrinkage of 3DPFC was revealed. The 8-hour total shrinkage of 3DPFC with two foam contents was reduced by 23.1% and 24.3% at most, respectively. Based on low-field nuclear magnetic transverse relaxation time, liquids in bubble liquid film, capillary pores of the matrix, and inside SAP were quantified and tracked in real time. Under exposure conditions, there exists a quantitative relationship between internal water loss variations in 3DPFC and the matrix T21 peak water (water adsorbed by binder particles and small capillary water between particles), bubble volume fraction, and surface tension of the matrix pore solution. The early age shrinkage of 3DPFC is indeed influenced by the combined effect of water loss and bubble volume fraction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chen_lian_zhan_li.2023.CSPBUaRMfCMitCo3CP/">Can Superabsorbent Polymers Be Used as Rheology-Modifiers for Cementitious Materials in the Context of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/kearsley_elsabe"><b>Kearsley</b> Elsabe</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cho_rooy_kear_zijl.2022.FSo3PFC/">Foam Stability of 3D Printable Foamed Concrete</a></li>
@@ -105,8 +74,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jia_dong_xia_niu.2025.IPSo3PCIRBFA/">Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates:<br/>Insights from Water Transport and Structural Evolution</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_bant_shi_jia.2024.EASMaQSoWLKo3PFCMwSP,
+      author            = "Chao Liu and Nemkumar Banthia and Yifan Shi and Zijian Jia and Yamei Zhang and Yu Chen and Yuanliang Xiong and Chun Chen",
+      title             = "Early-Age Shrinkage Mitigation and Quantitative Study on Water Loss Kinetics of 3D Printed Foam-Concrete Modified with Superabsorbent Polymers",
+      doi               = "10.1016/j.addma.2024.104448",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104448",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “Early-Age Shrinkage Mitigation and Quantitative Study on Water Loss Kinetics of 3D Printed Foam-Concrete Modified with Superabsorbent Polymers”, <i>Additive Manufacturing</i>, p. 104448, 2024, doi: 10.1016/j.addma.2024.104448.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Nemkumar Banthia, Yifan Shi, Zijian Jia, Yamei Zhang, Yu Chen, Yuanliang Xiong, and Chun Chen. “Early-Age Shrinkage Mitigation and Quantitative Study on Water Loss Kinetics of 3D Printed Foam-Concrete Modified with Superabsorbent Polymers”. <i>Additive Manufacturing</i>, 2024, 104448. https://doi.org/10.1016/j.addma.2024.104448.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

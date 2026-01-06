@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Negar Ashrafi, Shadi Nazarian, Nicholas Meisel, José Duarte
+    - footer
+title: Ashrafi Negar, Nazarian Shadi, Meisel Nicholas, Duarte José
 description:
 tags:
  - additive
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete ([2020-10](date/2020/10))
-<a href="https://doi.org/10.1016/j.addma.2020.101656" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2020.101656</a>
+#Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete ([2020-10](date/2020/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2020.101656" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101656" target="_blank">10.1016/j.addma.2020.101656</a>
 
--------------------------
+<a href="../../../author/ashrafi_negar"><b>Ashrafi</b>&nbsp;Negar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3718-9279" title="ORCID: 0000-0002-3718-9279" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meisel_a_nicholas"><b>Meisel</b>&nbsp;Nicholas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 37
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="https://orcid.org/0000-0002-3718-9279" title="ORCID: 0000-0002-3718-9279" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 37, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#deformation`](keyword/deformation)
-    [`#experiment`](keyword/experiment)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#prediction`](keyword/prediction)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Prediction%20of%20Material-Deformation%20in%20Large-Scale%20Additive%20Manufacturing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85094847652&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3093021825" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2020.101656" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2020.101656?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) of cementitious material has become a popular subject over the oof last decade. The multidisciplinary nature of this topic has led researchers from multiple areas of oo expertise such as architecture, engineering, and materials science to collaborate to improve the roo technology, which does not permit yet to print mixtures with coarse aggregates, but is often pro referred to as AM of “concrete” or “concrete” printing. An important aspect of research in the pr area is finding a Portland cement-based mortar with adequate rheological, hardening and strength p properties for printing architectural structures. In addition, the properties of fresh and hardened e-p mortar and its deformation behavior affect the shape accuracy of the printed geometries and ep require designers to adjust the toolpaths and technology to account for issues in the printing. This Pre paper is aimed at studying the deformation of a printed concrete mix, which previous studies Pre have shown to be printable. It is focused on the effect of the number of layers, the number of Pr beads and time on layer height and width. It proceeds through a series of experimental tests and l P it uses regression analysis to model material behavior. The resulting equations can be used in al P toolpath design to compensate for such deformation and have more accurate printed geometries al subsequently. Future studies will be concerned with linking material properties with material na deformation and use results to develop a more generic toolpath generator.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../carn_mesn_rous_bave.2019.AEo3PDSIbM/">An Exploration of 3D Printing Design Space Inspired by Masonry</a></li>
@@ -100,8 +77,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
       <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../vers_wolf_sale.2025.DDAMwCEILSDwDKb/">Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge:<br/>Part II: Moisture and Heat</a></li>
@@ -128,4 +105,33 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
       <li><a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../sepa_shi_yang_shir.2020.AMAfI40/">Additive Manufacturing Applications for Industry 4.0:<br/>A Systematic Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ashr_naza_meis_duar.2021.EPoMDiLSAMoC,
+      author            = "Negar Ashrafi and Shadi Nazarian and Nicholas A. Meisel and José Pinto Duarte",
+      title             = "Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete",
+      doi               = "10.1016/j.addma.2020.101656",
+      year              = "2021",
+      journal           = "Additive Manufacturing",
+      volume            = "37",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ashrafi, S. Nazarian, N. A. Meisel and J. P. Duarte, “Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete”, <i>Additive Manufacturing</i>, vol. 37, 2021, doi: 10.1016/j.addma.2020.101656.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ashrafi, Negar, Shadi Nazarian, Nicholas A. Meisel, and José Pinto Duarte. “Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete”. <i>Additive Manufacturing</i> 37 (2021). https://doi.org/10.1016/j.addma.2020.101656.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

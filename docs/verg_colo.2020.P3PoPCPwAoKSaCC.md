@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luis Vergara, Henry Colorado
+    - footer
+title: Vergara Luis, Colorado Henry
 description:
 tags:
  - carbonation
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Portland 3D Printing of Portland-Cement-Pastes with Additions of Kaolin, Superplastificant, and Calcium-Carbonate ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1007/978-3-030-36296-6_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-36296-6_20</a>
+#Portland 3D Printing of Portland-Cement-Pastes with Additions of Kaolin, Superplastificant, and Calcium-Carbonate ([2020-02](date/2020/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-36296-6_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-36296-6_20" target="_blank">10.1007/978-3-030-36296-6_20</a>
 
--------------------------
+<a href="../../../author/vergara_adolfo_luis"><b>Vergara</b>&nbsp;Luis</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4948-0482" title="ORCID: 0000-0003-4948-0482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/colorado_a_henry"><b>Colorado</b>&nbsp;Henry</a></span><br>
+Contribution - Proceedings of the 149th Annual Meeting & Exhibition, pp. 217-226
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vergara_adolfo_luis"><b>Vergara</b> Luis</a>
-,     <a href="../../../author/colorado_a_henry"><b>Colorado</b> Henry</a> <a href="https://orcid.org/0000-0003-4948-0482" title="ORCID: 0000-0003-4948-0482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 149th Annual Meeting & Exhibition, pp. 217-226
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#kaolin`](keyword/kaolin)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#superplasticizer`](keyword/superplasticizer)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/kaolin"><button class="btn">#kaolin</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Portland%203D%20Printing%20of%20Portland-Cement-Pastes%20with%20Additions%20of%20Kaolin%2C%20Superplastificant%2C%20and%20Calcium-Carbonate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85081321176&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3006534515" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-36296-6_20" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-36296-6_20?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The main goal in this investigation is to develop inexpensive formulations of Portland cement pastes for additive manufacturing using the direct ink writing technique. Kaolin, a superplastificant, and calcium carbonate additions were used as additives and modifiers of the printing material. A total of 3 formulations were developed with acceptable shape stability and finishing of the manufactured parts. Cylindrical samples of 17 mm in diameter and 26 mm of height were built in order to be tested in compression tests. The microstructure was characterized with scanning electron microscopy, density, and compression tests. Results showed one formulation to be the best one, which was associated mainly to an optimal kaolin content as rheology regulator.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -72,8 +54,37 @@ tags:
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2011/10">(2011-10)</a><br><a href="../../../rael_frat.2011.DCPBCf3P/">Developing Concrete Polymer Building Components for 3D Printing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>, <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a>, <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sing_cola_fari.2023.SNCC3P/">Sustainable Non-Conventional Concrete 3D Printing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{verg_colo.2020.P3PoPCPwAoKSaCC,
+      author            = "Luis Adolfo Vergara and Henry A. Colorado",
+      title             = "Portland 3D Printing of Portland-Cement-Pastes with Additions of Kaolin, Superplastificant, and Calcium-Carbonate",
+      doi               = "10.1007/978-3-030-36296-6_20",
+      year              = "2020",
+      pages             = "217--226",
+      booktitle         = "Proceedings of the 149th Annual Meeting & Exhibition",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. A. Vergara  and H. A. Colorado, “Portland 3D Printing of Portland-Cement-Pastes with Additions of Kaolin, Superplastificant, and Calcium-Carbonate”, in <i>Proceedings of the 149th Annual Meeting & Exhibition</i>,  2020, pp. 217–226. doi: 10.1007/978-3-030-36296-6_20.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vergara, Luis Adolfo, and Henry A. Colorado. “Portland 3D Printing of Portland-Cement-Pastes with Additions of Kaolin, Superplastificant, and Calcium-Carbonate”. In <i>Proceedings of the 149th Annual Meeting & Exhibition</i>, 217–26, 2020. https://doi.org/10.1007/978-3-030-36296-6_20.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

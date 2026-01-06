@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yidong Chen, Yunsheng Zhang, Zhiyong Liu, Wenhua Zhang, Bo Pang, Yu Zhang, Dafu Wang
+    - footer
+title: Chen Yidong, Zhang Yunsheng, Liu Zhiyong, Zhang Wenhua, Pang Bo, Zhang Yu, Wang Dafu
 description:
 tags:
  - aggregate
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03077) Quantitative Surface Quality Evaluation for 3D Printed Concrete with Coarse Aggregate Through 3D Scanning ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03077" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03077</a>
+#Quantitative Surface Quality Evaluation for 3D Printed Concrete with Coarse Aggregate Through 3D Scanning ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03077) <a href="https://doi.org/10.1016/j.cscm.2024.e03077" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03077" target="_blank">10.1016/j.cscm.2024.e03077</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yidong"><b>Chen</b>&nbsp;Yidong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <a href="../../../author/liu_zhiyong"><b>Liu</b>&nbsp;Zhiyong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6516-655X" title="ORCID: 0000-0002-6516-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_wenhua"><b>Zhang</b>&nbsp;Wenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pang_bo"><b>Pang</b>&nbsp;Bo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <a href="../../../author/wang_dafu"><b>Wang</b>&nbsp;Dafu</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 20, No. e03077
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> <a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>
-,     <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a> <a href="https://orcid.org/0000-0002-6516-655X" title="ORCID: 0000-0002-6516-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pang_bo"><b>Pang</b> Bo</a> <a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 20, No. e03077
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#quantity`](keyword/quantity)
-    [`#scan`](keyword/scan)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Surface%20Quality%20Evaluation%20for%203D%20Printed%20Concrete%20with%20Coarse%20Aggregate%20Through%203D%20Scanning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188661176&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393124322" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03077" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03077?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The undulating appearance of 3D-printed concrete (3DPC) is an essential feature that impacts the integrity and stability of the multilayer structure, yet the related evaluation parameters have rarely been proposed. This study proposed a quantitative evaluation and parameters through the on-site 3D scan technology to impel a direct and precise understanding of the surface quality of 3DPC, especially concrete with coarse aggregates. Firstly, 8-layer 3DPC walls are produced at four different printer printing rates and then 3D scanned. After point cloud correction, noise reduction, and 2D processing onto acquired points cloud, the evaluation parameters for evaluating 3DPC surface characteristics are defined and calculated. Results indicate that a higher 3D printer printing rate helps reduce surface fluctuation of 3DPC multilayer structures but disfavor the vertical flatness, of which the linear relationship between the parameters and the printing speed of the printer is explored and discussed. Recommendation of 3DPC straight wall structures controlled to surface defects ratio within 2% and slope within 0.2% is suggested. These conclusions provide precise external surface quality control and treatment basements that contribute to improving the practical application of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -102,12 +76,44 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a>, <a href="../../../author/andreou_alexis"><b>Andreou</b> Alexis</a>, <a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kont_geor_andr_andr.2025.MaELHtWRi3THGC/">Measuring and Evaluating Layer Height to Width Ratio in 3DCP Towards Higher Geometric Conformity</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>
       <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../bang_yim.2024.UILEiF3PCUERM/">Unbonded Inter-Layer Evaluation in Freshly 3D Printed Concrete Using Electrical Resistivity Measurements</a></li>
       <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_dong_jia_jia.2024.SSEoCSo3PCCCAwVWtBR/">Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../du_sun_qian.2024.3PSHCC3SRSRIbtWS/">3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC) Reticulated Shell Roof Inspired by the Water Spider</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S,
+      author            = "Yidong Chen and Yunsheng Zhang and Zhiyong Liu and Wenhua Zhang and Bo Pang and Yu Zhang and Dafu Wang",
+      title             = "Quantitative Surface Quality Evaluation for 3D Printed Concrete with Coarse Aggregate Through 3D Scanning",
+      doi               = "10.1016/j.cscm.2024.e03077",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "20",
+      pages             = "e03077",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, “Quantitative Surface Quality Evaluation for 3D Printed Concrete with Coarse Aggregate Through 3D Scanning”, <i>Case Studies in Construction Materials</i>, vol. 20, p. e03077, 2024, doi: 10.1016/j.cscm.2024.e03077.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yidong, Yunsheng Zhang, Zhiyong Liu, Wenhua Zhang, Bo Pang, Yu Zhang, and Dafu Wang. “Quantitative Surface Quality Evaluation for 3D Printed Concrete with Coarse Aggregate Through 3D Scanning”. <i>Case Studies in Construction Materials</i> 20 (2024): e03077. https://doi.org/10.1016/j.cscm.2024.e03077.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

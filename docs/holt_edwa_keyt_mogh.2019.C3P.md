@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Camille Holt, Laurie Edwards, Louise Keyte, Farzad Moghaddam, Belinda Townsend
+    - footer
+title: Holt Camille, Edwards Laurie, Keyte Louise, Moghaddam Farzad, Townsend Belinda
 description:
 tags:
  - construction
@@ -10,27 +11,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Construction 3D Printing ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/b978-0-12-815481-6.00017-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-12-815481-6.00017-8</a>
+#Construction 3D Printing ([2019-02](date/2019/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00017-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00017-8" target="_blank">10.1016/b978-0-12-815481-6.00017-8</a>
 
--------------------------
+<a href="../../../author/holt_camille"><b>Holt</b>&nbsp;Camille</a></span>, <a href="../../../author/edwards_laurie"><b>Edwards</b>&nbsp;Laurie</a></span>, <a href="../../../author/keyte_louise"><b>Keyte</b>&nbsp;Louise</a></span>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b>&nbsp;Farzad</a></span>, <a href="../../../author/townsend_belinda"><b>Townsend</b>&nbsp;Belinda</a></span><br>
+Contribution - 3D Concrete Printing Technology, pp. 349-370
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/holt_camille"><b>Holt</b> Camille</a>
-,     <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>
-,     <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>
-,     <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a>
-,     <a href="../../../author/townsend_belinda"><b>Townsend</b> Belinda</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing Technology, pp. 349-370
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85072404781&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,23 +32,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2916352236" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-12-815481-6.00017-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-12-815481-6.00017-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacture or 3D printing is revolutionizing manufacturing—from titanium aircraft parts to chocolate. 3D printing allows individually customized products to be produced without any of the tool and set-up costs usually associated with manufacturing. The process of designing a 3D model and then fabricating it layer-by-layer also allows complex shapes with optimized structural properties to be produced. There is no doubt that 3D concrete printing will continue to grow as the technology matures and becomes one of the key manufacturing technologies of the 21st century. Despite the clear benefits, the application of 3D printing in construction, and particularly concrete, has been relatively slow. This chapter examines some of the key technologies in additive manufacture, their benefits and drawbacks, and explores how they can be applied in concrete construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "38 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../daun_phei_pans.2025.Bo3PCWEtHT/">Behavior of 3D Printed Concrete Walls Exposed to High Temperatures</a></li>
       <li><a href="../../../author/syed_mohammad"><b>Syed</b> Mohammad</a>, <a href="../../../author/sharma_sumedh"><b>Sharma</b> Sumedh</a>, <a href="../../../author/koliou_maria"><b>Koliou</b> Maria</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../syed_shar_koli_side.2025.EAo3PHB/">Economic Analysis of 3D-Printed Hempcrete Buildings</a></li>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>Bakri Abdullah</b> Mohd</a>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tany_selo_bakr_raza.2025.TRaMPo3PG/">The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>A Review</a></li>
@@ -100,7 +83,35 @@ tags:
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>, <a href="../../../author/jiang_xuepeng"><b>Jiang</b> Xuepeng</a>, <a href="../../../author/singh_a_amit"><b>Singh</b> Amit</a>, <a href="../../../author/li_beiwen"><b>Li</b> Beiwen</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../mani_jian_sing_li.2020.EoNGo3PoCC/">Effects of Nozzle Geometries on 3D Printing of Clay Constructs:<br/>Quantifying Contour-Deviation and Mechanical Properties</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
-      <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
-      <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{holt_edwa_keyt_mogh.2019.C3P,
+      author            = "Camille Holt and Laurie Edwards and Louise Keyte and Farzad Moghaddam and Belinda Townsend",
+      title             = "Construction 3D Printing",
+      doi               = "10.1016/b978-0-12-815481-6.00017-8",
+      year              = "2019",
+      pages             = "349--370",
+      booktitle         = "3D Concrete Printing Technology: Construction and Building Applications",
+      editor            = "Jay Gnananandan Sanjayan and Ali Nazari and Behzad Nematollahi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Holt, L. Edwards, L. Keyte, F. Moghaddam and B. Townsend, “Construction 3D Printing”, in <i>3D Concrete Printing Technology: Construction and Building Applications</i>,  2019, pp. 349–370. doi: 10.1016/b978-0-12-815481-6.00017-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Holt, Camille, Laurie Edwards, Louise Keyte, Farzad Moghaddam, and Belinda Townsend. “Construction 3D Printing”. In <i>3D Concrete Printing Technology: Construction and Building Applications</i>, edited by Jay Gnananandan Sanjayan, Ali Nazari, and Behzad Nematollahi, 349–70, 2019. https://doi.org/10.1016/b978-0-12-815481-6.00017-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

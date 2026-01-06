@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Salma Ahmed, Lotfi Romdhane, Sameh Sayegh, Solair Manjikian
+    - footer
+title: Ahmed Salma, Romdhane Lotfi, Sayegh Sameh, Manjikian Solair
 description:
 tags:
  - assessment
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Risk-Assessment for 3D Printing in Construction Projects ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1108/jfmpc-10-2023-0071" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/jfmpc-10-2023-0071</a>
+#Risk-Assessment for 3D Printing in Construction Projects ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/jfmpc-10-2023-0071" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jfmpc-10-2023-0071" target="_blank">10.1108/jfmpc-10-2023-0071</a>
 
--------------------------
+<a href="../../../author/ahmed_salma"><b>Ahmed</b>&nbsp;Salma</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8509-2386" title="ORCID: 0000-0001-8509-2386" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/romdhane_lotfi"><b>Romdhane</b>&nbsp;Lotfi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9127-0318" title="ORCID: 0000-0002-9127-0318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sayegh_monir_sameh"><b>el&nbsp;Sayegh</b>&nbsp;Sameh</a></span>, <a href="../../../author/manjikian_solair"><b>Manjikian</b>&nbsp;Solair</a></span><br>
+Journal Article - Journal of Financial Management of Property and Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ahmed_salma"><b>Ahmed</b> Salma</a>
-,     <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a> <a href="https://orcid.org/0000-0001-8509-2386" title="ORCID: 0000-0001-8509-2386" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sayegh_monir_sameh"><b>el Sayegh</b> Sameh</a> <a href="https://orcid.org/0000-0002-9127-0318" title="ORCID: 0000-0002-9127-0318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Financial Management of Property and Construction, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#projection`](keyword/projection)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Risk-Assessment%20for%203D%20Printing%20in%20Construction%20Projects" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200037463&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401184644" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/jfmpc-10-2023-0071" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/jfmpc-10-2023-0071?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The purpose of this study is to identify and assess new risks in construction projects that use 3D printing. A mixed approach of both qualitative and quantitative methods was used. Literature review was conducted to extract 30 risks of 3D printing in construction. A survey was then developed to assess the probability and impact of these risks. In total, 37 respondents, who have experience and/or knowledge of 3D printing, completed the survey. The risk priority was calculated using a fuzzy logic approach. The main benefit of the proposed model is being able to use numerical and linguistic data in the risk assessment model. The results show that the main risks, in terms of priority, are lack of codes and regulations for 3D printing in construction, delay in government approvals, shortage in labour skilled in 3D printed construction, lack of knowledge and information of 3D printed design concepts and changes in 3D construction codes and regulations. This paper fills an identified gap in the literature related to 3D printing in construction and provides insights into the key risks affecting this disruptive technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -87,8 +69,36 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ahme_romd_saye_manj.2024.RAf3PiCP,
+      author            = "Salma Ahmed and Lotfi Romdhane and Sameh Monir El Sayegh and Solair Manjikian",
+      title             = "Risk-Assessment for 3D Printing in Construction Projects",
+      doi               = "10.1108/jfmpc-10-2023-0071",
+      year              = "2024",
+      journal           = "Journal of Financial Management of Property and Construction",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ahmed, L. Romdhane, S. M. E. Sayegh and S. Manjikian, “Risk-Assessment for 3D Printing in Construction Projects”, <i>Journal of Financial Management of Property and Construction</i>, 2024, doi: 10.1108/jfmpc-10-2023-0071.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahmed, Salma, Lotfi Romdhane, Sameh Monir El Sayegh, and Solair Manjikian. “Risk-Assessment for 3D Printing in Construction Projects”. <i>Journal of Financial Management of Property and Construction</i>, 2024. https://doi.org/10.1108/jfmpc-10-2023-0071.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

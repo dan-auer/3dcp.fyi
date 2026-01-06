@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Syed Warsi, Biranchi Panda, Pankaj Biswas
+    - footer
+title: Warsi Syed, Panda Biranchi, Biswas Pankaj
 description:
 tags:
  - concrete
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2023.100295) Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete:<br/>:aca-blank: A Review ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.dibe.2023.100295" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2023.100295</a>
+#Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete&nbsp;([2023-12](date/2023/12))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100295) <a href="https://doi.org/10.1016/j.dibe.2023.100295" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100295" target="_blank">10.1016/j.dibe.2023.100295</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/biswas_pankaj"><b>Biswas</b>&nbsp;Pankaj</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100295
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> <a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100295
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#exploration`](keyword/exploration)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Fiber%20Addition%20Methods%20and%20Mechanical%20Properties%20of%20Fiber-Reinforced%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179138507&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389430094" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2023.100295" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2023.100295?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is a growing field of sustainable technology that offers an avenue for rapid industrialisation of the construction industry. Over the years, many non-structural elements have been fabricated by 3D printing, thus demonstrating significant advantages over traditional casting process, including freedom from the need of mold, realisation of complex geometries and reduction of material use etc. However, examples of 3D printed structural parts are still limited with addition of fibres into concrete mixes. The fibres can be incorporated in 3D printed concrete either before mixing or printing; or during the printing. The present study adopted systematic review methodology to recommend effective fibre addition method in terms of mechanical properties of the printed concrete composite. In this review work, an attempt has been made to summarise the effect of different fibres including their type, dosage, entrainment methods, while highlighting the technical challenges and approaches adopted in the past for increasing the fibre dosages, controlling their distribution and orientation. This may save a significant amount of time and resources for the industrial sector for 3D printing high strength fibre reinforced concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "68 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -137,8 +116,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bran_dias_aros_reis.2026.UoWF/">Upcycling of Waste Fibers:<br/>Enhancing Structural Integrity in 3DCP Through Fiber Reinforcement</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P/">Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.</a></li>
@@ -166,4 +145,33 @@ tags:
       <li><a href="../../../author/feng_xiaowei"><b>Feng</b> Xiaowei</a>, <a href="../../../author/du_gaoming"><b>Du</b> Gaoming</a>, <a href="../../../author/carvelli_valter"><b>Carvelli</b> Valter</a>, <a href="../../../author/lin_gongshun"><b>Lin</b> Gongshun</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../feng_du_carv_lin.2024.FAo3CPBLMGS/">Failure-Analysis of 3D Concrete Printing Bolted Laminates Mimicking Geological Strata</a></li>
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wars_pand_bisw.2023.EFAMaMPoFR3PC,
+      author            = "Syed Bustan Fatima Warsi and Biranchi Narayan Panda and Pankaj Biswas",
+      title             = "Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete: A Review",
+      doi               = "10.1016/j.dibe.2023.100295",
+      year              = "2023",
+      journal           = "Developments in the Built Environment",
+      pages             = "100295",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. B. F. Warsi, B. N. Panda and P. Biswas, “Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete: A Review”, <i>Developments in the Built Environment</i>, p. 100295, 2023, doi: 10.1016/j.dibe.2023.100295.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Warsi, Syed Bustan Fatima, Biranchi Narayan Panda, and Pankaj Biswas. “Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete: A Review”. <i>Developments in the Built Environment</i>, 2023, 100295. https://doi.org/10.1016/j.dibe.2023.100295.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

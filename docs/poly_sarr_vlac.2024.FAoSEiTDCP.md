@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nickolas Polychronopoulos, Ioannis Sarris, John Vlachopoulos
+    - footer
+title: Polychronopoulos Nickolas, Sarris Ioannis, Vlachopoulos John
 description:
 tags:
  - analysis
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0193235/19668923/023110_1_5.0193235.pdf) Flow-Analysis of Screw-Extrusion in Three-Dimensional Concrete Printing ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1063/5.0193235" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1063/5.0193235</a>
+#Flow-Analysis of Screw-Extrusion in Three-Dimensional Concrete Printing ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0193235/19668923/023110_1_5.0193235.pdf) <a href="https://doi.org/10.1063/5.0193235" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0193235" target="_blank">10.1063/5.0193235</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3477-2979" title="ORCID: 0000-0002-3477-2979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/polychronopoulos_d_nickolas"><b>Polychronopoulos</b>&nbsp;Nickolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6542-0490" title="ORCID: 0000-0002-6542-0490" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sarris_e_ioannis"><b>Sarris</b>&nbsp;Ioannis</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6256-8230" title="ORCID: 0000-0001-6256-8230" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vlachopoulos_john"><b>Vlachopoulos</b>&nbsp;John</a></span><br>
+Journal Article - Physics of Fluids, Vol. 36, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/polychronopoulos_d_nickolas"><b>Polychronopoulos</b> Nickolas</a> <a href="https://orcid.org/0000-0002-3477-2979" title="ORCID: 0000-0002-3477-2979" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sarris_e_ioannis"><b>Sarris</b> Ioannis</a> <a href="https://orcid.org/0000-0002-6542-0490" title="ORCID: 0000-0002-6542-0490" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vlachopoulos_john"><b>Vlachopoulos</b> John</a> <a href="https://orcid.org/0000-0001-6256-8230" title="ORCID: 0000-0001-6256-8230" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Physics of Fluids, Vol. 36, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#extrusion`](keyword/extrusion)
-    [`#flow`](keyword/flow)
-    [`#print`](keyword/print)
-    [`#screw`](keyword/screw)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/screw"><button class="btn">#screw</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flow-Analysis%20of%20Screw-Extrusion%20in%20Three-Dimensional%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185004179&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391787896" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1063/5.0193235" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1063/5.0193235?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent advances in three-dimensional concrete printing necessitated the detailed understanding of the operation and performance of screw extruders. This paper shows that the volumetric output rate can be approximated using the rotating barrel and stationary screw assumption (drag flow equation), which is used routinely in polymer melt extrusion calculations. Verification is provided by comparisons to experimental results available in the literature and to computer flow simulations for fluids with yield stress. Significant insight is obtained using fully three-dimensional simulations. This includes particle pathlines, which form “a helix within a helix,” axial pressure profiles, and the effect of yield stress, which is relatively small on the output rate but large on torque and power. The computer simulation also predicts unyielded flow zones in the extruder channel at low screw rotation speeds.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jaya_sanj_raje.2020.CEf3CPUDES/">Characterizing Extrudability for 3D Concrete Printing Using Discrete Element Simulations</a></li>
@@ -79,8 +58,38 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a>, <a href="../../../author/yan_ming"><b>Yan</b> Ming</a>, <a href="../../../author/yang_kun"><b>Yang</b> Kun</a>, <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wang_yan_yang_ao.2025.EoWSotECo3PoCM/">Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{poly_sarr_vlac.2024.FAoSEiTDCP,
+      author            = "Nickolas D. Polychronopoulos and Ioannis E. Sarris and John Vlachopoulos",
+      title             = "Flow-Analysis of Screw-Extrusion in Three-Dimensional Concrete Printing",
+      doi               = "10.1063/5.0193235",
+      year              = "2024",
+      journal           = "Physics of Fluids",
+      volume            = "36",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. D. Polychronopoulos, I. E. Sarris and J. Vlachopoulos, “Flow-Analysis of Screw-Extrusion in Three-Dimensional Concrete Printing”, <i>Physics of Fluids</i>, vol. 36, no. 2, 2024, doi: 10.1063/5.0193235.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Polychronopoulos, Nickolas D., Ioannis E. Sarris, and John Vlachopoulos. “Flow-Analysis of Screw-Extrusion in Three-Dimensional Concrete Printing”. <i>Physics of Fluids</i> 36, no. 2 (2024). https://doi.org/10.1063/5.0193235.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

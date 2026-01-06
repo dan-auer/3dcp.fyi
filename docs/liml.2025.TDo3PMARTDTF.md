@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Torpong Limlunjakorn
+    - footer
+title: Limlunjakorn Torpong
 description:
 tags:
  - artificial
@@ -15,28 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s43621-025-01691-y.pdf) The Designing of 3D-Printed Modular Artificial Reefs Through Design Thinking Framework:<br/>:aca-blank: A Case Study in Koh Khai, Chumphon Province, Thailand ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1007/s43621-025-01691-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43621-025-01691-y</a>
+#The Designing of 3D-Printed Modular Artificial Reefs Through Design Thinking Framework&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">A Case Study in Koh Khai, Chumphon Province, Thailand</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s43621-025-01691-y.pdf) <a href="https://doi.org/10.1007/s43621-025-01691-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43621-025-01691-y" target="_blank">10.1007/s43621-025-01691-y</a>
 
--------------------------
+<a href="../../../author/limlunjakorn_torpong"><b>Limlunjakorn</b>&nbsp;Torpong</a></span><br>
+Journal Article - Discover Sustainability, Vol. 6, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/limlunjakorn_torpong"><b>Limlunjakorn</b> Torpong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Discover Sustainability, Vol. 6, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#case`](keyword/case)
-    [`#design`](keyword/design)
-    [`#framework`](keyword/framework)
-    [`#modular`](keyword/modular)
-    [`#print`](keyword/print)
-    [`#reef`](keyword/reef)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Designing%20of%203D-Printed%20Modular%20Artificial%20Reefs%20Through%20Design%20Thinking%20Framework" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012832302&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,20 +38,47 @@ tags:
 <a href="https://inciteful.xyz/p/W4413131119" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43621-025-01691-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43621-025-01691-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Coral reefs degradation in Thailand demands scalable, community-accessible restoration solutions. This study addresses the limitations of conventional artificial reefs by developing 3D-printed modular artificial reefs (3DMARs) optimized for ecological performance, usability, and low-resource deployment. Formulated through the lens of design expertise and applying a design thinking framework, the research integrates qualitative content analysis, interdisciplinary collaboration, and user-centered design to establish key criteria, including modularity, flexibility, and environmental sustainability. Prototypes were co-developed with SCG Co., Ltd. Field deployment at Koh Khai, Chumphon Province, demonstrated ease of transport, manual installation, and ecological compatibility. Initial observations suggest that the system enhances coral habitat complexity while promoting local engagement. The study presents a replicable and adaptable model for decentralized reef restoration, supporting sustainable marine efforts in regions with limited technical capacity, such as Thailand and similar Southeast Asian coastal areas.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../pham_huan.2024.3PACR/">3D Printed Artificial Coral Reefs:<br/>Design and Manufacture</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liml.2025.TDo3PMARTDTF,
+      author            = "Torpong Limlunjakorn",
+      title             = "The Designing of 3D-Printed Modular Artificial Reefs Through Design Thinking Framework: A Case Study in Koh Khai, Chumphon Province, Thailand",
+      doi               = "10.1007/s43621-025-01691-y",
+      year              = "2025",
+      journal           = "Discover Sustainability",
+      volume            = "6",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Limlunjakorn, “The Designing of 3D-Printed Modular Artificial Reefs Through Design Thinking Framework: A Case Study in Koh Khai, Chumphon Province, Thailand”, <i>Discover Sustainability</i>, vol. 6, no. 1, 2025, doi: 10.1007/s43621-025-01691-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Limlunjakorn, Torpong. “The Designing of 3D-Printed Modular Artificial Reefs Through Design Thinking Framework: A Case Study in Koh Khai, Chumphon Province, Thailand”. <i>Discover Sustainability</i> 6, no. 1 (2025). https://doi.org/10.1007/s43621-025-01691-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

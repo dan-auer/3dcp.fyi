@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Zhang, Hongxia Qiao, Rusheng Qian, Cuizhen Xue, Qiong Feng, Li Su, Yunsheng Zhang, Guojian Liu, Hongjian Du
+    - footer
+title: Zhang Yu, Qiao Hongxia, Qian Rusheng, Xue Cuizhen, Feng Qiong, Su Li, Zhang Yunsheng, Liu Guojian, Du Hongjian
 description:
 tags:
  - behavior
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.126731" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.126731</a>
+#Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete ([2022-02](date/2022/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.126731" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.126731" target="_blank">10.1016/j.conbuildmat.2022.126731</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <a href="../../../author/qiao_hongxia"><b>Qiao</b>&nbsp;Hongxia</a></span>, <a href="../../../author/qian_rusheng"><b>Qian</b>&nbsp;Rusheng</a></span>, <a href="../../../author/xue_cuizhen"><b>Xue</b>&nbsp;Cuizhen</a></span>, <a href="../../../author/feng_qiong"><b>Feng</b>&nbsp;Qiong</a></span>, <a href="../../../author/su_li"><b>Su</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_guojian"><b>Liu</b>&nbsp;Guojian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 326
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>
-,     <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>
-,     <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a>
-,     <a href="../../../author/feng_qiong"><b>Feng</b> Qiong</a>
-,     <a href="../../../author/su_li"><b>Su</b> Li</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> <a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 326, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-    [`#transport`](keyword/transport)
-    [`#void`](keyword/void)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Relationship%20Between%20Water-Transport%20Behavior%20and%20Inter-Layer%20Voids%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124702334&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213004788" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.126731" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.126731?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete is a rising technology recently developed for construction industry. Unlike conventional concrete, since 3D printed elements are built by using a layer-deposition process, the distinct void generated between the printed concrete filaments considerably reduce mechanical strength and durability of 3D printed concrete. Using X-CT technology combined with CsCl enhancement, this study aims at investigating the water transport characteristics at different interlayer zones of 3D printed concrete, cast concrete as the reference. Meanwhile, the void characteristics of different interlayer zones are analyzed to establish quantitatively the relationship between the void distribution and the water transport process. It can be found that those voids at the interlayer zone led to a faster water transport along the printed concrete’ interlayer zone than that of cast concrete. In addition, the percentages of 0.1 mm-0.6 mm and 1 mm-4 mm voids size are observed to have an opposite effect on the water.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -101,8 +73,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "46 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
@@ -150,4 +122,33 @@ tags:
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_qiao_qian_xue.2022.RBWTBaILVo3PC,
+      author            = "Yu Zhang and Hongxia Qiao and Rusheng Qian and Cuizhen Xue and Qiong Feng and Li Su and Yunsheng Zhang and Guojian Liu and Hongjian Du",
+      title             = "Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2022.126731",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "326",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, “Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 326, 2022, doi: 10.1016/j.conbuildmat.2022.126731.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yu, Hongxia Qiao, Rusheng Qian, Cuizhen Xue, Qiong Feng, Li Su, Yunsheng Zhang, Guojian Liu, and Hongjian Du. “Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete”. <i>Construction and Building Materials</i> 326 (2022). https://doi.org/10.1016/j.conbuildmat.2022.126731.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

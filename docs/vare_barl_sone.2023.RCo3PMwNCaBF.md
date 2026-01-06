@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hugo Varela, Gonzalo Barluenga, Mohammed Sonebi
+    - footer
+title: Varela Hugo, Barluenga Gonzalo, Sonebi Mohammed
 description:
 tags:
  - basalt
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matpr.2023.07.151) Rheology Characterization of 3D Printing Mortars with Nano-Clays and Basalt-Fibers ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.matpr.2023.07.151" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.07.151</a>
+#Rheology Characterization of 3D Printing Mortars with Nano-Clays and Basalt-Fibers ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2023.07.151) <a href="https://doi.org/10.1016/j.matpr.2023.07.151" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.07.151" target="_blank">10.1016/j.matpr.2023.07.151</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varela_hugo"><b>Varela</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barluenga_gonzalo"><b>Barluenga</b>&nbsp;Gonzalo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> <a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#basalt`](keyword/basalt)
-    [`#characteristic`](keyword/characteristic)
-    [`#clay`](keyword/clay)
-    [`#fiber`](keyword/fiber)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20Characterization%20of%203D%20Printing%20Mortars%20with%20Nano-Clays%20and%20Basalt-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385073698" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.07.151" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.07.151?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing has become one of the most innovative technologies for cement-based systems (CBS). However, recent studies have shown some issues related to printability and buildability (water drainage, plugs on extruder die, spreading of first layer, etc). To achieve a proper rheology control of CBS, it is essential to adapt the material fresh state properties (initial shear yield stress and structural build-up). In this study, a reference cement-based mortar with fly ash (25%), a 1:1.5 binder to sand ratio and a 0.38 water to binder ratio was used. A polycarboxilate ether-based superplasticizer was added until a consistency of around 1 kPa, measured with the cone-penetration test, was reached. Then, small amounts of several types of nanoclays (NC) in powder and slurry form (sepiolite, attapulgite and bentonite) and natural fibers were added to modify mortar rheological properties. The aim of the study was to characterize the rheological properties of 3D printing mortar samples with NC and basalt fibers (BF) to understand printability and buildability of this material. Cone-penetration test, flow table test and slump test were used to characterize 3D printing capacities. The cone-penetration test was performed in stirred and left at rest samples to assess shear yield stress before and after material deposition. Nanoclays showed a remarkable capacity to retain water and avoid drainage during extrusion but also to increase fresh state strength of material over time. Besides, they increased shear yield stress over time when left at rest. On the contrary, samples stirred over time did not show any increase of shear yield stress, especially samples with slurry nanoclays. Natural fibers also reduced drainage and enhance printability control regarding to reference mortar. BF also enhanced a performance on stirred sample but showed slightly changes on structural build-up at rest, mainly governed by NC effect.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_jaji_zijl_baba.2023.IoEMOotRaFSPoSBCfDF/">Influence of Effective Micro-Organisms on the Rheology and Fresh State Properties of SCMs-Based Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
@@ -81,11 +61,39 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../wolf_bos_sale.2023.LLoPM/">Lessons Learned of Project Milestone:<br/>The First 3D Printed Concrete House in the Netherlands</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../vare_tino_mend_tole.2024.3PCBCRwSF/">3D Printable Cement-Based Composites Reinforced with Sisal-Fibers:<br/>Rheology, Printability and Hardened Properties</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vare_barl_sone.2024.EoBFaNCtEEaBo3PM/">Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars</a></li>
       <li><a href="../../../author/valera_hugo"><b>Valera</b> Hugo</a>, <a href="../../../author/pimentel-tinoco_matheus"><b>Pimentel Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vale_pime_mend_tole.2024.Ra3PAoSFMfAA/">Rheological and 3D Printing-Assessment of Sisal-Fiber Mortar for Architectural Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vare_barl_sone.2023.RCo3PMwNCaBF,
+      author            = "Hugo Varela and Gonzalo Barluenga and Mohammed Sonebi",
+      title             = "Rheology Characterization of 3D Printing Mortars with Nano-Clays and Basalt-Fibers",
+      doi               = "10.1016/j.matpr.2023.07.151",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Varela, G. Barluenga and M. Sonebi, “Rheology Characterization of 3D Printing Mortars with Nano-Clays and Basalt-Fibers”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.07.151.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Varela, Hugo, Gonzalo Barluenga, and Mohammed Sonebi. “Rheology Characterization of 3D Printing Mortars with Nano-Clays and Basalt-Fibers”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.07.151.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

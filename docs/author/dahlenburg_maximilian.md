@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 #  Dahlenburg Maximilian 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/tan_yuan"><b>Tan</b> Yuan</a>, <a href="../../../author/li_mengxue"><b>Li</b> Mengxue</a>, <a href="../../../author/ajmal_moshin"><b>Ajmal</b> Moshin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../dahl_tan_li_ajma.2024.AFaECMfDESoAMiC/">A Flexible and Efficient Calibration Method for Discrete Element Simulations of Additive Manufacturing in Construction</a></li>

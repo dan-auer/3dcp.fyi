@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Farhad Aslani, Yifan Zhang
+    - footer
+title: Aslani Farhad, Zhang Yifan
 description:
 tags:
  - concrete
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/b978-0-443-15672-4.00014-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-15672-4.00014-0</a>
+#Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-15672-4.00014-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-15672-4.00014-0" target="_blank">10.1016/b978-0-443-15672-4.00014-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0614-4016" title="ORCID: 0000-0003-0614-4016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yifan"><b>Zhang</b>&nbsp;Yifan</a></span><br>
+Contribution - Sustainable Concrete Materials and Structures, pp. 399-443
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="https://orcid.org/0000-0003-0614-4016" title="ORCID: 0000-0003-0614-4016" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Sustainable Concrete Materials and Structures, pp. 399-443
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#raw`](keyword/raw)
-    [`#secondary`](keyword/secondary)
-    [`#structure`](keyword/structure)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/secondary"><button class="btn">#secondary</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%203D%20Printed%20Concrete%20Structures%20Using%20High-Quality%20Secondary%20Raw%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202900712&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399680282" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-15672-4.00014-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-15672-4.00014-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the onset of rapid urbanization, modernization of urban centers, and population growth, there has been a consequential increase in consumption and waste generation. Traditional waste treatment methods, such as landfilling or combustion in energy plants, are no longer aligned with the requisites and objectives of sustainable development. In response to this challenge, pioneering researchers have diligently sought innovative approaches to address the issue of waste materials. Within the construction sector, both the academic and industrial realms have made concerted efforts to incorporate high-quality waste materials into concrete production. Empirical findings have substantiated the potential efficacy of recycled materials in formulating structural and specialized concretes. Thus the deliberate inclusion of high-quality waste materials in concrete emerges as a viable strategy to mitigate the waste predicament and advance the cause of sustainability. Furthermore, the rapid evolution of concrete technology has generated substantial interest in 3D concrete printing (3DCP) due to its promising advantages, which encompass cost-effectiveness, expedited construction processes, commendable strength and durability, and reduced waste generation. Consequently, 3DCP has demonstrated significant strides in bolstering sustainability efforts. As a result, the synergistic incorporation of high-quality secondary raw materials within the ambit of 3DCP has risen to prominence as a compelling topic of exploration. This amalgamation not only amplifies the utilization of recyclable solid waste but also harnesses the inherent benefits of 3DCP, thereby extending its positive impact on sustainable development. This chapter offers a comprehensive summary of prior research endeavors focused on integrating high-quality secondary raw materials into 3DCP, with a specific emphasis on secondary supplementary raw materials, recycled aggregates, recycled fibers, and waste materials in the context of geopolymer concrete. It is anticipated that the integration of high-quality secondary raw materials into 3DCP will manifest considerable potential in augmenting the properties of concrete. However, it is underscored that the successful implementation of these secondary materials necessitates meticulous attention and proper mix design optimization, encompassing considerations of mix composition and the judicious use of chemical admixtures to modulate rheological properties and achieve adequate mechanical strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "74 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
@@ -142,8 +121,8 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_asla.2025.MaUPVPo3PRCCRwPF/">Mechanical and Ultrasonic Pulse Velocity Performance of 3D Printed Rubberised Cementitious Composites Reinforced with PVA Fibers</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
@@ -152,4 +131,34 @@ tags:
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{asla_zhan.2024.S3PCSUHQSRM,
+      author            = "Farhad Aslani and Yifan Zhang",
+      title             = "Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials",
+      doi               = "10.1016/b978-0-443-15672-4.00014-0",
+      year              = "2024",
+      pages             = "399--443",
+      booktitle         = "Sustainable Concrete Materials and Structures",
+      editor            = "Ashraf Ashour and Xinyue Wang and Baoguo Han",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Aslani  and Y. Zhang, “Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials”, in <i>Sustainable Concrete Materials and Structures</i>,  2024, pp. 399–443. doi: 10.1016/b978-0-443-15672-4.00014-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aslani, Farhad, and Yifan Zhang. “Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials”. In <i>Sustainable Concrete Materials and Structures</i>, edited by Ashraf Ashour, Xinyue Wang, and Baoguo Han, 399–443, 2024. https://doi.org/10.1016/b978-0-443-15672-4.00014-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

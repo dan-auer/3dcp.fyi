@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mónica Villaquirán-Caicedo, Alejandro Fernández-González, Daniel Fernández-García, Ruby Gutiérrez
+    - footer
+title: Villaquirán-Caicedo Mónica, Fernández-González Alejandro, Fernández-García Daniel, Gutiérrez Ruby
 description:
 tags:
  - activation
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Valorization of a Low-Quality Coal-Ash, in the Preparation of Alkali-Activated Inks for Applications in 3D Additive Manufacturing ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132598" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132598</a>
+#Valorization of a Low-Quality Coal-Ash, in the Preparation of Alkali-Activated Inks for Applications in 3D Additive Manufacturing ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132598" target="_blank">10.1016/j.conbuildmat.2023.132598</a>
 
--------------------------
+<a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b>&nbsp;Mónica</a></span>, <a href="../../../author/fernandez-gonzalez_alejandro"><b>Fernández-González</b>&nbsp;Alejandro</a></span>, <a href="../../../author/fernandez-garcia_a_daniel"><b>Fernández-García</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gutierrez_mejia_ruby"><b>de&nbsp;Gutiérrez</b>&nbsp;Ruby</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 399, No. 132598
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>
-,     <a href="../../../author/fernandez-gonzalez_alejandro"><b>Fernández-González</b> Alejandro</a>
-,     <a href="../../../author/fernandez-garcia_a_daniel"><b>Fernández-García</b> Daniel</a>
-,     <a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> <a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 399, No. 132598
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#additive`](keyword/additive)
-    [`#alkali`](keyword/alkali)
-    [`#application`](keyword/application)
-    [`#ash`](keyword/ash)
-    [`#low`](keyword/low)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#quality`](keyword/quality)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Valorization%20of%20a%20Low-Quality%20Coal-Ash%2C%20in%20the%20Preparation%20of%20Alkali-Activated%20Inks%20for%20Applications%20in%203D%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165958657&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385323670" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132598" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132598?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the potential of coal ash-based alkali-activated materials (AAM) for additive manufacturing (AM), coal ash with a high loss on ignition, which is traditionally discarded in landfills. This research evaluated the effect of mineral additions such as metakaolin, CaCO3, and glass residues in AAM. The fresh stage properties were examined by extrudability, shape retention factor (SRF), and buildability. In addition, the microstructure was analyzed by x-ray diffraction (XRD) and scanning electron microscopy (SEM). Mechanical tests such as compression and flexural strength were conducted on the casted and printed AAM. The AAM optimized was employed to print layer-by-layer directly from Crealty Ender 3 with a ceramic extrusion 3D printer kit. The experimental results found that AAM elaborated with alkali activators based on NaOH/Na-sulfate solutions show the best characteristics to be printed: shape retention of 80%, initial setting time of 125 min, extrusion pressure between 160 and 240 kPa, compressive strength of 12.5 MPa, and 5.2 MPa of flexural strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/chaiyotha_danai"><b>Chaiyotha</b> Danai</a>, <a href="../../../author/kantawong_watcharapong"><b>Kantawong</b> Watcharapong</a>, <a href="../../../author/payakanitia_panjasila"><b>Payakanitia</b> Panjasila</a>, <a href="../../../author/pinitsoontorn_supree"><b>Pinitsoontorn</b> Supree</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chai_kant_paya_pini.2023.FOCf3PHCFABAAM/">Finding Optimized Conditions for 3D Printed High-Calcium Fly-Ash-Based Alkali-Activated Mortar</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
@@ -95,8 +73,38 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b> Biswajoy</a>, <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bhat_sahu.2025.RIaIo3PitBaCS/">Recent Innovations and Implementations of 3D Printing in the Building and Construction Sector</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vill_fern_fern_guti.2023.VoaLQCAitPoAAIfAi3AM,
+      author            = "Mónica A. Villaquirán-Caicedo and Alejandro Fernández-González and Daniel A. Fernández-García and Ruby Mejía de Gutiérrez",
+      title             = "Valorization of a Low-Quality Coal-Ash, in the Preparation of Alkali-Activated Inks for Applications in 3D Additive Manufacturing",
+      doi               = "10.1016/j.conbuildmat.2023.132598",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "399",
+      pages             = "132598",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Villaquirán-Caicedo, A. Fernández-González, D. A. Fernández-García and R. M. de Gutiérrez, “Valorization of a Low-Quality Coal-Ash, in the Preparation of Alkali-Activated Inks for Applications in 3D Additive Manufacturing”, <i>Construction and Building Materials</i>, vol. 399, p. 132598, 2023, doi: 10.1016/j.conbuildmat.2023.132598.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Villaquirán-Caicedo, Mónica A., Alejandro Fernández-González, Daniel A. Fernández-García, and Ruby Mejía de Gutiérrez. “Valorization of a Low-Quality Coal-Ash, in the Preparation of Alkali-Activated Inks for Applications in 3D Additive Manufacturing”. <i>Construction and Building Materials</i> 399 (2023): 132598. https://doi.org/10.1016/j.conbuildmat.2023.132598.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

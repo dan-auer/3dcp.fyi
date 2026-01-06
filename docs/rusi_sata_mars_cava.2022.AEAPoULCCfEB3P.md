@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rutendo Rusike, Michael Sataya, Alastair Marsh, Sergio Cavalaro, Chris Goodier, Susan Bernal, Samuel Amankwah
+    - footer
+title: Rusike Rutendo, Sataya Michael, Marsh Alastair, Cavalaro Sergio, Goodier Chris, Bernal Susan, Amankwah Samuel
 description:
 tags:
  - accelerator
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/articles/chapter/Accelerating_early_age_properties_of_ultra-low_clinker_cements_for_extrusion-based_3D_printing/23836986/1/files/41823423.pdf) Accelerating Early-Age Properties of Ultra-Low Clinker Cements for Extrusion-Based 3D Printing ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/978-3-031-06116-5_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-06116-5_13</a>
+#Accelerating Early-Age Properties of Ultra-Low Clinker Cements for Extrusion-Based 3D Printing ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/chapter/Accelerating_early_age_properties_of_ultra-low_clinker_cements_for_extrusion-based_3D_printing/23836986/1/files/41823423.pdf) <a href="https://doi.org/10.1007/978-3-031-06116-5_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_13" target="_blank">10.1007/978-3-031-06116-5_13</a>
 
--------------------------
+<a href="../../../author/rusike_rutendo"><b>Rusike</b>&nbsp;Rutendo</a></span>, <a href="../../../author/sataya_michael"><b>Sataya</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5603-4643" title="ORCID: 0000-0002-5603-4643" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marsh_t-m_alastair"><b>Marsh</b>&nbsp;Alastair</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalaro_sergio"><b>Cavalaro</b>&nbsp;Sergio</a></span>, <a href="../../../author/goodier_chris"><b>Goodier</b>&nbsp;Chris</a></span>, <a href="../../../author/bernal_a_susan"><b>Bernal</b>&nbsp;Susan</a></span>, <a href="../../../author/amankwah_samuel"><b>adu&nbsp;Amankwah</b>&nbsp;Samuel</a></span><br>
+Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 87-92
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rusike_rutendo"><b>Rusike</b> Rutendo</a>
-,     <a href="../../../author/sataya_michael"><b>Sataya</b> Michael</a>
-,     <a href="../../../author/marsh_t-m_alastair"><b>Marsh</b> Alastair</a> <a href="https://orcid.org/0000-0002-5603-4643" title="ORCID: 0000-0002-5603-4643" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/goodier_chris"><b>Goodier</b> Chris</a>
-,     <a href="../../../author/bernal_a_susan"><b>Bernal</b> Susan</a>
-,     <a href="../../../author/amankwah_samuel"><b>adu Amankwah</b> Samuel</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 87-92
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#age`](keyword/age)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#clinker`](keyword/clinker)
-    [`#early`](keyword/early)
-    [`#extrusion`](keyword/extrusion)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clinker"><button class="btn">#clinker</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Accelerating%20Early-Age%20Properties%20of%20Ultra-Low%20Clinker%20Cements%20for%20Extrusion-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133162108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285263545" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-06116-5_13" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-06116-5_13?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, we investigated the influence of commercial sodium nitrate/thiocyanate accelerator compared to calcium sulfoaluminate cement addition on setting time, rheology and reaction kinetics of ultra-low clinker composite cement for extrusion-based 3D printing application. CEM I 52.5 N and a ternary composite cement with 70% clinker replaced by slag and limestone were evaluated. Results indicate that final setting time of 30 min and buildable yield stresses can be attained with less than 5% addition of calcium sulfoaluminate, with ettringite and C-(A)-S-H as main reaction products. This demonstrates the synergy between slag and calcium sulfoaluminate cements can be harnessed to control rheology and hardening. This is significance for evidencing suitability of ultralow clinker composite cements for extrusion-based 3DCP, thus helping to fulfil its wider potential as a low-carbon concrete technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -85,7 +58,38 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{rusi_sata_mars_cava.2022.AEAPoULCCfEB3P,
+      author            = "Rutendo Rusike and Michael Sataya and Alastair T. M. Marsh and Sergio Cavalaro and Chris Goodier and Susan A. Bernal and Samuel Adu Amankwah",
+      title             = "Accelerating Early-Age Properties of Ultra-Low Clinker Cements for Extrusion-Based 3D Printing",
+      doi               = "10.1007/978-3-031-06116-5_13",
+      year              = "2022",
+      volume            = "37",
+      pages             = "87--92",
+      booktitle         = "Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022",
+      editor            = "Richard A. Buswell and Ana Blanco and Sergio Cavalaro and Peter Kinnell",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Rusike, “Accelerating Early-Age Properties of Ultra-Low Clinker Cements for Extrusion-Based 3D Printing”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 87–92. doi: 10.1007/978-3-031-06116-5_13.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rusike, Rutendo, Michael Sataya, Alastair T. M. Marsh, Sergio Cavalaro, Chris Goodier, Susan A. Bernal, and Samuel Adu Amankwah. “Accelerating Early-Age Properties of Ultra-Low Clinker Cements for Extrusion-Based 3D Printing”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:87–92, 2022. https://doi.org/10.1007/978-3-031-06116-5_13.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

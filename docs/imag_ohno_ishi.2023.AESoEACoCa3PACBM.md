@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Koichi Imagawa, Motohiro Ohno, Tetsuya Ishida
+    - footer
+title: Imagawa Koichi, Ohno Motohiro, Ishida Tetsuya
 description:
 tags:
  - absorbent
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/82/e3sconf_gcee2023_01013.pdf) An Experimental Study on Energy-Absorption-Capability of Cast and 3D Printed Architected Cement-Based Materials ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1051/e3sconf/202344501013" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1051/e3sconf/202344501013</a>
+#An Experimental Study on Energy-Absorption-Capability of Cast and 3D Printed Architected Cement-Based Materials ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/82/e3sconf_gcee2023_01013.pdf) <a href="https://doi.org/10.1051/e3sconf/202344501013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202344501013" target="_blank">10.1051/e3sconf/202344501013</a>
 
--------------------------
+<a href="../../../author/imagawa_koichi"><b>Imagawa</b>&nbsp;Koichi</a></span>, <a href="../../../author/ohno_motohiro"><b>Ohno</b>&nbsp;Motohiro</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ishida_tetsuya"><b>Ishida</b>&nbsp;Tetsuya</a></span><br>
+Journal Article - E3S Web of Conferences, Vol. 445, No. 01013
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/imagawa_koichi"><b>Imagawa</b> Koichi</a>
-,     <a href="../../../author/ohno_motohiro"><b>Ohno</b> Motohiro</a>
-,     <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - E3S Web of Conferences, Vol. 445, No. 01013
-
-:aca-blank:{ .lg .middle}
-    [`#absorbent`](keyword/absorbent)
-    [`#architecture`](keyword/architecture)
-    [`#base`](keyword/base)
-    [`#capability`](keyword/capability)
-    [`#cast`](keyword/cast)
-    [`#cement`](keyword/cement)
-    [`#energy`](keyword/energy)
-    [`#experiment`](keyword/experiment)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/capability"><button class="btn">#capability</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Experimental%20Study%20on%20Energy-Absorption-Capability%20of%20Cast%20and%203D%20Printed%20Architected%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179175483&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388659645" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1051/e3sconf/202344501013" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1051/e3sconf/202344501013?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Previous studies have demonstrated that Architected Cementbased Materials (ACMs), which have architected internal configurations at mm-cm scale, can have desired and/or unusual mechanical characteristics that the brittle base material does not possess. 3D Concrete Printing (3DCP) is promising technology to fabricate the complicated geometry of ACMs, but relevant research and development are still scarce. In this study, we fabricated truss-type ACMs with enhanced specific energy absorption capacity by either casting or 3D-printing. The ACM was designed by a generative design framework that integrates reinforcement learning and nonlinear structural analysis. The performances of the ACMs were evaluated by uniaxial compression tests. The cast series showed same trend in the cracking characteristics as the simulation. However, the printed ACM showed significantly lower strength and energy absorption than the simulation result. Unexpected damage localization was observed in the printed ACM, especially around the corners of the truss members where relatively large voids tend to be formed during 3D-printing. The degree and location of these defects can be partly controlled by the printing path, which was not considered in the simulation. Therefore, to realize high-performance ACMs by 3DCP, base material properties, internal geometry, and printing path should be simultaneously considered in the design process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -90,7 +67,37 @@ tags:
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../xu_zhan_schl_luko.2020.CCCwAB/">Cementitious Cellular Composites with Auxetic Behavior</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{imag_ohno_ishi.2023.AESoEACoCa3PACBM,
+      author            = "Koichi Imagawa and Motohiro Ohno and Tetsuya Ishida",
+      title             = "An Experimental Study on Energy-Absorption-Capability of Cast and 3D Printed Architected Cement-Based Materials",
+      doi               = "10.1051/e3sconf/202344501013",
+      year              = "2023",
+      journal           = "E3S Web of Conferences",
+      volume            = "445",
+      pages             = "01013",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Imagawa, M. Ohno and T. Ishida, “An Experimental Study on Energy-Absorption-Capability of Cast and 3D Printed Architected Cement-Based Materials”, <i>E3S Web of Conferences</i>, vol. 445, p. 01013, 2023, doi: 10.1051/e3sconf/202344501013.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Imagawa, Koichi, Motohiro Ohno, and Tetsuya Ishida. “An Experimental Study on Energy-Absorption-Capability of Cast and 3D Printed Architected Cement-Based Materials”. <i>E3S Web of Conferences</i> 445 (2023): 01013. https://doi.org/10.1051/e3sconf/202344501013.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

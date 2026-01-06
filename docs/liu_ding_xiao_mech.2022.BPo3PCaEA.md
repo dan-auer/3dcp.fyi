@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Haoran Liu, Tao Ding, Jianzhuang Xiao, Viktor Mechtcherine
+    - footer
+title: Liu Haoran, Ding Tao, Xiao Jianzhuang, Mechtcherine Viktor
 description:
 tags:
  - age
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Buildability Prediction of 3D Printed Concrete at Early-Ages:<br/>:aca-blank: A Numerical Study with Drucker-Prager-Model ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.addma.2022.102821" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102821</a>
+#Buildability Prediction of 3D Printed Concrete at Early-Ages&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">A Numerical Study with Drucker-Prager-Model</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.102821" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102821" target="_blank">10.1016/j.addma.2022.102821</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_haoran"><b>Liu</b>&nbsp;Haoran</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 55
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> <a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 55, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability%20Prediction%20of%203D%20Printed%20Concrete%20at%20Early-Ages" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128282829&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4223599117" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102821" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102821?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D–Printed concrete (3DPC) at early-ages often collapses during the printing process owing to insufficient buildability, which affects continuous printing. To correctly simulate the buildability of early-age 3DPC, a finite element (FE) model with the Drucker–Prager (D–P) model reflecting the fundamental concrete material properties was proposed. The yield criterion, flow, and hardening rule of the D–P and the Mohr–Coulomb (M–C) models were comparatively analyzed. A nonlinear stress–strain relationship was selected to describe the mechanical behavior of early-age 3DPC. Uniaxial compression tests, hollow cylinder, and straight wall printing tests were used to calibrate and verify the simulation results. The predicted peak stress in uniaxial compression tests and the elastic buckling of straight walls agree with the test results. The predicted error of the plastic collapse of the hollow cylinder with the D–P model decreased by 13.8% compared with that of the M–C model. Finally, the feasibility of the D–P model is demonstrated and discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
@@ -102,8 +81,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "49 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
@@ -154,4 +133,33 @@ tags:
       <li><a href="../../../author/kan_deyuan"><b>Kan</b> Deyuan</a>, <a href="../../../author/liu_guifeng"><b>Liu</b> Guifeng</a>, <a href="../../../author/cao_cindy_shuang"><b>Cao</b> Shuang</a>, <a href="../../../author/chen_zhengfa"><b>Chen</b> Zhengfa</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kan_liu_cao_chen.2022.MPaPSoMWCNTRRPCfTDPMbME/">Mechanical Properties and Pore-Structure of Multi-Walled Carbon-Nano-Tube-Reinforced Reactive Powder-Concrete for Three-Dimensional Printing Manufactured by Material-Extrusion</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_ding_xiao_mech.2022.BPo3PCaEA,
+      author            = "Haoran Liu and Tao Ding and Jianzhuang Xiao and Viktor Mechtcherine",
+      title             = "Buildability Prediction of 3D Printed Concrete at Early-Ages: A Numerical Study with Drucker-Prager-Model",
+      doi               = "10.1016/j.addma.2022.102821",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "55",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Liu, T. Ding, J. Xiao and V. Mechtcherine, “Buildability Prediction of 3D Printed Concrete at Early-Ages: A Numerical Study with Drucker-Prager-Model”, <i>Additive Manufacturing</i>, vol. 55, 2022, doi: 10.1016/j.addma.2022.102821.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Haoran, Tao Ding, Jianzhuang Xiao, and Viktor Mechtcherine. “Buildability Prediction of 3D Printed Concrete at Early-Ages: A Numerical Study with Drucker-Prager-Model”. <i>Additive Manufacturing</i> 55 (2022). https://doi.org/10.1016/j.addma.2022.102821.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

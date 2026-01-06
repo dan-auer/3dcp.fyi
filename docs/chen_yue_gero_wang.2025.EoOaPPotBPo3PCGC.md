@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhaohui Chen, Ziyi Yue, Wangdui Gerong, Zhenyue Wang, Xiaoyue Zhang, Hongyu Zhao, Minmao Liao
+    - footer
+title: Chen Zhaohui, Yue Ziyi, Gerong Wangdui, Wang Zhenyue, Zhang Xiaoyue, Zhao Hongyu, Liao Minmao
 description:
 tags:
  - bending
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04777) Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04777" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04777</a>
+#Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04777) <a href="https://doi.org/10.1016/j.cscm.2025.e04777" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04777" target="_blank">10.1016/j.cscm.2025.e04777</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span>, <a href="../../../author/yue_ziyi"><b>Yue</b>&nbsp;Ziyi</a></span>, <a href="../../../author/gerong_wangdui"><b>Gerong</b>&nbsp;Wangdui</a></span>, <a href="../../../author/wang_zhenyue"><b>Wang</b>&nbsp;Zhenyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6420-9984" title="ORCID: 0000-0002-6420-9984" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xiaoyue"><b>Zhang</b>&nbsp;Xiaoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <a href="../../../author/liao_minmao"><b>Liao</b>&nbsp;Minmao</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04777
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yue_ziyi"><b>Yue</b> Ziyi</a>
-,     <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>
-,     <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a>
-,     <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a> <a href="https://orcid.org/0000-0002-6420-9984" title="ORCID: 0000-0002-6420-9984" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04777
-
-:aca-blank:{ .lg .middle}
-    [`#bending`](keyword/bending)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#pattern`](keyword/pattern)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Orthotropy%20and%20Printing%20Patterns%20on%20the%20Bending%20Performance%20of%203D%20Printed%20Concrete%20Grid%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005089723&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410360879" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04777" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04777?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study systematically investigates the bending performance of 3D printed concrete (3DPC) grid components, focusing on the synergistic effects of printing patterns and interfacial anisotropy. Experimental and numerical analyses were conducted on W- and Y-grid specimens fabricated with 10 mm and 20 mm nozzles. A refined finite element model (RFEM) integrating plastic damage elements for filaments and bilinear cohesive zone models (CZM) for interfaces was developed. Key findings reveal that Y-grid components exhibit 80% higher load-bearing capacity than W-grid counterparts, attributed to enhanced node strength, uniform stress distribution, and increased moment of inertia. Smaller nozzles improve mechanical performance by reducing interfacial defects, with 10 mm nozzles increasing ultimate loads by 10–24% compared to 20 mm nozzles. Crucially, interfacial damage remained absent prior to structural failure, demonstrating that optimized printing patterns can mitigate anisotropy effects. The validated RFEM achieved less than 10% error in predicting failure loads and displacements, confirming its utility for 3DPC design. This work advances the understanding of pattern-driven structural optimization in additive manufacturing and provides a computational framework for performance prediction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a>, <a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../chen_wang_liao_sun.2024.IoPPoBCo3PCHS/">Influence of Printing-Pattern on Bearing-Capacity of 3D Printed Concrete Hollow Structures</a></li>
@@ -96,7 +72,36 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_yue_gero_wang.2025.EoOaPPotBPo3PCGC,
+      author            = "Zhaohui Chen and Ziyi Yue and Wangdui Gerong and Zhenyue Wang and Xiaoyue Zhang and Hongyu Zhao and Minmao Liao",
+      title             = "Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components",
+      doi               = "10.1016/j.cscm.2025.e04777",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04777",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Chen, “Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components”, <i>Case Studies in Construction Materials</i>, p. e04777, 2025, doi: 10.1016/j.cscm.2025.e04777.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Zhaohui, Ziyi Yue, Wangdui Gerong, Zhenyue Wang, Xiaoyue Zhang, Hongyu Zhao, and Minmao Liao. “Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components”. <i>Case Studies in Construction Materials</i>, 2025, e04777. https://doi.org/10.1016/j.cscm.2025.e04777.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

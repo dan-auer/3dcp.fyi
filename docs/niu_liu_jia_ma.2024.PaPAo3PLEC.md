@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Geng Niu, Chao Liu, Lutao Jia, Lei Ma, Yifan Shi, Yifan Jiang, Zijian Jia, Yu Chen, Nemkumar Banthia, Yamei Zhang
+    - footer
+title: Niu Geng, Liu Chao, Jia Lutao, Ma Lei, Shi Yifan, Jiang Yifan, Jia Zijian, Chen Yu, Banthia Nemkumar, Zhang Yamei
 description:
 tags:
  - analysis
@@ -16,38 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Preparation and Performance-Analysis of 3D Printed Lightweight EPS-Concrete:<br/>:aca-blank: Insights from the Excess-Paste-Theory ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105509" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105509</a>
+#Preparation and Performance-Analysis of 3D Printed Lightweight EPS-Concrete&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">Insights from the Excess-Paste-Theory</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105509" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105509" target="_blank">10.1016/j.cemconcomp.2024.105509</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niu_geng"><b>Niu</b>&nbsp;Geng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/ma_lei"><b>Ma</b>&nbsp;Lei</a></span>, <a href="../../../author/shi_yifan"><b>Shi</b>&nbsp;Yifan</a></span>, <a href="../../../author/jiang_yifan"><b>Jiang</b>&nbsp;Yifan</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 149, No. 105509
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> <a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>
-,     <a href="../../../author/shi_yifan"><b>Shi</b> Yifan</a>
-,     <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 149, No. 105509
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#insights`](keyword/insights)
-    [`#light`](keyword/light)
-    [`#paste`](keyword/paste)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#theory`](keyword/theory)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Preparation%20and%20Performance-Analysis%20of%203D%20Printed%20Lightweight%20EPS-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187955488&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392660015" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105509" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105509?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed EPS concrete integrates the advantages of 3D printing technology and EPS lightweight concrete, offering the potential to reduce carbon emissions and enhance the environmental sustainability of construction. In this study, we successfully printed EPS concrete with densities ranging from 500 to 1900 kg/m3, using EPS particles to substitute for sand up to 100% volume ratio. The rheology of the mortars was elucidated through the excess paste theory. We introduced a composite aggregate model to calculate excess paste volume when composite aggregates were used. This study revealed that aggregates with distinct properties exhibited different excess paste layer thicknesses under similar rheological states. To address this, the excess paste thickness ratio of different aggregates was measured, enabling precise calculation of excess paste thickness, which aligns with mortar rheological properties. The study further indicates that the relatively high static yield stress of 3D printed concrete mitigates the floating of EPS particles, thereby promoting the uniformity of EPS concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/kearsley_elsabe"><b>Kearsley</b> Elsabe</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cho_rooy_kear_zijl.2022.FSo3PFC/">Foam Stability of 3D Printable Foamed Concrete</a></li>
@@ -92,8 +65,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b> Karina</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_rusi_hage.2025.RMaLIAtMf3CP/">Recycled Materials and Lightweight Insulating Additions to Mixtures for 3D Concrete Printing</a></li>
@@ -104,4 +77,34 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/araujo_m-o_olga"><b>Araújo</b> Olga</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA/">Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../du_qian.2024.BIIi3CP/">Bio-Inspired Innovations in 3D Concrete Printing:<br/>Structures, Materials and Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{niu_liu_jia_ma.2024.PaPAo3PLEC,
+      author            = "Geng Niu and Chao Liu and Lutao Jia and Lei Ma and Yifan Shi and Yifan Jiang and Zijian Jia and Yu Chen and Nemkumar Banthia and Yamei Zhang",
+      title             = "Preparation and Performance-Analysis of 3D Printed Lightweight EPS-Concrete: Insights from the Excess-Paste-Theory",
+      doi               = "10.1016/j.cemconcomp.2024.105509",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "149",
+      pages             = "105509",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Niu, “Preparation and Performance-Analysis of 3D Printed Lightweight EPS-Concrete: Insights from the Excess-Paste-Theory”, <i>Cement and Concrete Composites</i>, vol. 149, p. 105509, 2024, doi: 10.1016/j.cemconcomp.2024.105509.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Niu, Geng, Chao Liu, Lutao Jia, Lei Ma, Yifan Shi, Yifan Jiang, Zijian Jia, Yu Chen, Nemkumar Banthia, and Yamei Zhang. “Preparation and Performance-Analysis of 3D Printed Lightweight EPS-Concrete: Insights from the Excess-Paste-Theory”. <i>Cement and Concrete Composites</i> 149 (2024): 105509. https://doi.org/10.1016/j.cemconcomp.2024.105509.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

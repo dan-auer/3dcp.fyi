@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ramesh Nayaka, H. Kumar, Ahamed Sharif, Y. Zhang
+    - footer
+title: Nayaka Ramesh, Kumar H., Sharif Ahamed, Zhang Y.
 description:
 tags:
  - 3dcp
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP):<br/>:aca-blank: A Selective Review ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/978-981-96-3165-0_31" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-3165-0_31</a>
+#Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP)&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">A Selective Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-3165-0_31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-3165-0_31" target="_blank">10.1007/978-981-96-3165-0_31</a>
 
--------------------------
+<a href="../../../author/nayaka_ramesh"><b>Nayaka</b>&nbsp;Ramesh</a></span>, <a href="../../../author/kumar_ujwal_h"><b>Kumar</b>&nbsp;H.</a></span>, <a href="../../../author/sharif_ahamed"><b>Sharif</b>&nbsp;Ahamed</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span><br>
+Contribution - Recent Advances in Additive Manufacturing, pp. 407-418
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nayaka_ramesh"><b>Nayaka</b> Ramesh</a>
-,     <a href="../../../author/kumar_ujwal_h"><b>Kumar</b> H.</a>
-,     <a href="../../../author/sharif_ahamed"><b>Sharif</b> Ahamed</a>
-,     <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Advances in Additive Manufacturing, pp. 407-418
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#aspects`](keyword/aspects)
-    [`#benefit`](keyword/benefit)
-    [`#concrete`](keyword/concrete)
-    [`#exploration`](keyword/exploration)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#selective`](keyword/selective)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Key%20Aspects%20and%20Sustainable%20Benefits%20of%203D%20Concrete%20Printing%20%283DCP%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006913738&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410715856" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-3165-0_31" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-3165-0_31?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry, traditionally conservative, lags technologically advanced sectors adopting automation. The utilization of additive manufacturing, specifically 3D printing, in civil infrastructure, particularly with cementitious materials, is bringing about a transformative change. This technological advance presents numerous opportunities, including flexible geometry, reduced manpower, faster construction, and decreased waste. Despite the inception of 3D concrete printing (3DCP) in 1995, research on 3DCP mixes with supplementary cementitious materials (SCM), viscosity modifiers, accelerators, retarders, and nanomaterials has been limited. This paper addresses the gap by providing an overview of 3DCP incorporating fly ash, silica fume, calcium sulfoaluminate (CSA), and other SCMs. It extensively reviews the effects of SCM on workability, extrudability, printability, buildability, and the sustainable benefits of 3DCP. Additionally, properties such as viscosity, yield stress, and Young's modulus in 3DCP are discussed. Literature reviews indicate that the yield stress for 3DCP mixes ranged from 1.5 to 2.5 kPa. Fly ash emerges as a cost-effective and energy-saving binder in 3DCP. However, there remains substantial room for developing high early strength 3DCP mixes with SCM due to limited codes of practice and literature providing guidelines for digital construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -100,8 +78,38 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{naya_kuma_shar_zhan.2025.EKAaSBo3CP3,
+      author            = "Ramesh Nayaka and H. Ujwal Kumar and Ahamed Sharif and Y. X. Zhang",
+      title             = "Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP): A Selective Review",
+      doi               = "10.1007/978-981-96-3165-0_31",
+      year              = "2025",
+      pages             = "407--418",
+      booktitle         = "Recent Advances in Additive Manufacturing",
+      editor            = "Manjaiah Mallaiah and Shivraman Thapliyal and Subhash Chandra Bose",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Nayaka, H. U. Kumar, A. Sharif and Y. X. Zhang, “Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP): A Selective Review”, in <i>Recent Advances in Additive Manufacturing</i>,  2025, pp. 407–418. doi: 10.1007/978-981-96-3165-0_31.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nayaka, Ramesh, H. Ujwal Kumar, Ahamed Sharif, and Y. X. Zhang. “Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP): A Selective Review”. In <i>Recent Advances in Additive Manufacturing</i>, edited by Manjaiah Mallaiah, Shivraman Thapliyal, and Subhash Chandra Bose, 407–18, 2025. https://doi.org/10.1007/978-981-96-3165-0_31.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tao Ding, Changwei Qu, Dingming Guo
+    - footer
+title: Ding Tao, Qu Changwei, Guo Dingming
 description:
 tags:
  - aggregate
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Thermal and Mechanical Properties of 3D Printed Functionally Graded Concrete:<br/>:aca-blank: Utilizing Fibers and Recycled Aggregates as Gradient Components ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.jobe.2025.113144" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113144</a>
+#Thermal and Mechanical Properties of 3D Printed Functionally Graded Concrete&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Utilizing Fibers and Recycled Aggregates as Gradient Components</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113144" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113144" target="_blank">10.1016/j.jobe.2025.113144</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7958-9804" title="ORCID: 0000-0001-7958-9804" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qu_changwei"><b>Qu</b>&nbsp;Changwei</a></span>, <a href="../../../author/guo_dingming"><b>Guo</b>&nbsp;Dingming</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113144
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qu_changwei"><b>Qu</b> Changwei</a> <a href="https://orcid.org/0000-0001-7958-9804" title="ORCID: 0000-0001-7958-9804" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_dingming"><b>Guo</b> Dingming</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113144
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#temperature`](keyword/temperature)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20and%20Mechanical%20Properties%20of%203D%20Printed%20Functionally%20Graded%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007598133&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411119021" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113144" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113144?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printed functionally graded concrete (3D-FGC) represents a viable approach for integrating structural and functional elements through tailored material distributions. Two gradient configurations were developed using recycled aggregates (RAs) and polyethylene (PE) fibres. We systematically investigated the printability, mechanical properties, and thermal conductivity of 3D-FGC, supported by microstructural analysis. The findings seek to elucidate the potential mechanisms of impact related to diverse material distributions. The results show that the linear gradient effectively positions the fibres in the tensile zone, resulting in a significant increase in flexural properties and material efficiency, with a peak flexural strength of 6.0 MPa and a thermal conductivity of 0.61 W·m-1·K-1. The liner gradient (LG) specimens exhibited higher porosity (8.38%) and rougher pore surfaces compared to sandwich gradient (SG) samples. Microcracks with reduced widths (from 1.8 μm to 0.8 μm in fiber-reinforced regions) were observed, alongside weak interfacial transition zones (ITZ) between recycled aggregate (RA) and cement. The LG specimen exhibits a multi-stage crack pattern, with densely distributed cracks appearing in the tensile region, which is a primary contributor to enhanced bending performance. The gradient designs demonstrate strong potential for applications requiring tailored mechanical and thermal properties, such as prefabricated and on-site printed structural elements. In conclusion, this work paves the way for innovative design strategies in the additive manufacturing of functionally graded concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -124,7 +100,36 @@ tags:
       <li><a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>, <a href="../../../author/shen_zhenglai"><b>Shen</b> Zhenglai</a>, <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>, <a href="../../../author/li_yucen"><b>Li</b> Yucen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zand_shen_sorg_li.2024.PtFLaUL3PCC/">Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_qu_guo.2025.TaMPo3PFGC,
+      author            = "Tao Ding and Changwei Qu and Dingming Guo",
+      title             = "Thermal and Mechanical Properties of 3D Printed Functionally Graded Concrete: Utilizing Fibers and Recycled Aggregates as Gradient Components",
+      doi               = "10.1016/j.jobe.2025.113144",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113144",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ding, C. Qu and D. Guo, “Thermal and Mechanical Properties of 3D Printed Functionally Graded Concrete: Utilizing Fibers and Recycled Aggregates as Gradient Components”, <i>Journal of Building Engineering</i>, p. 113144, 2025, doi: 10.1016/j.jobe.2025.113144.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Tao, Changwei Qu, and Dingming Guo. “Thermal and Mechanical Properties of 3D Printed Functionally Graded Concrete: Utilizing Fibers and Recycled Aggregates as Gradient Components”. <i>Journal of Building Engineering</i>, 2025, 113144. https://doi.org/10.1016/j.jobe.2025.113144.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

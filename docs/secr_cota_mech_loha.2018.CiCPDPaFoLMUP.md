@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Egor Secrieru, Dario Cotardo, Viktor Mechtcherine, Ludger Lohaus, Christof Schröfl, Christoph Begemann
+    - footer
+title: Secrieru Egor, Cotardo Dario, Mechtcherine Viktor, Lohaus Ludger, Schröfl Christof, Begemann Christoph
 description:
 tags:
  - change
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure ([2018-04](date/2018/04))
-<a href="https://doi.org/10.1016/j.cemconres.2018.03.018" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2018.03.018</a>
+#Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure ([2018-04](date/2018/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2018.03.018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.03.018" target="_blank">10.1016/j.cemconres.2018.03.018</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/secrieru_egor"><b>Secrieru</b>&nbsp;Egor</a></span>, <a href="../../../author/cotardo_dario"><b>Cotardo</b>&nbsp;Dario</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/lohaus_ludger"><b>Lohaus</b>&nbsp;Ludger</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7737-6669" title="ORCID: 0000-0002-7737-6669" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/begemann_christoph"><b>Begemann</b>&nbsp;Christoph</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 108, pp. 129-139
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a> <a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cotardo_dario"><b>Cotardo</b> Dario</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lohaus_ludger"><b>Lohaus</b> Ludger</a>
-,     <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/begemann_christoph"><b>Begemann</b> Christoph</a> <a href="https://orcid.org/0000-0002-7737-6669" title="ORCID: 0000-0002-7737-6669" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 108, pp. 129-139
-
-:aca-blank:{ .lg .middle}
-    [`#change`](keyword/change)
-    [`#concrete`](keyword/concrete)
-    [`#form`](keyword/form)
-    [`#lubrication`](keyword/lubrication)
-    [`#material`](keyword/material)
-    [`#pressure`](keyword/pressure)
-    [`#property`](keyword/property)
-    [`#pump`](keyword/pump)
-
-
--------------------------
+<a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/lubrication"><button class="btn">#lubrication</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Changes%20in%20Concrete%20Properties%20During%20Pumping%20and%20Formation%20of%20Lubricating%20Material%20Under%20Pressure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85044587171&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,25 +38,21 @@ tags:
 <a href="https://inciteful.xyz/p/W2796264040" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2018.03.018" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2018.03.018?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study quantifies the changes in the rheological properties of fresh concrete while focusing on lubricating layer (LL) formation during pumping. Full-scale pumping experiments were carried out on ready-mix concrete accompanied by the state-of-the-art rheological tests. Pumping markedly increased the yield stress. It also led to an increase in the air content, which contributed to a decrease in viscosity of fresh concrete. The dynamic loading from pumping generates a pressure gradient in concrete over the pipe cross-section. The pressure gradient is assumed to facilitate the movement of lubricating material to the concrete-wall interface, completing the formation of LL. This postulate is based on experimental evidence obtained by a portable high-pressure filter press and the extracted filtrate. The amount of filtrate depends on the specific surface of the fines, on concrete bulk viscosity, and on chemical admixtures. Finally, an increase in concrete temperature was observed depending on the concrete's composition and the properties of the LL.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2014/11">(2014-11)</a><br><a href="../../../secr_butl_mech.2014.TPoC/">Testing Pumpability of Concrete:<br/>From Laboratory into Practice</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../secr_fata_schr_mech.2017.SoCPCDLTaLtR/">Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology</a></li>
-      <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/nissanka_nilusha"><b>Nissanka</b> Nilusha</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../raje_niss_sanj.2025.ESoTDPBo3CP/">Experimental Study on Time-Dependent Pumping Behaviour of 3D Concrete Printing</a></li>
@@ -107,4 +83,34 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{secr_cota_mech_loha.2018.CiCPDPaFoLMUP,
+      author            = "Egor Secrieru and Dario Cotardo and Viktor Mechtcherine and Ludger Lohaus and Christof Schröfl and Christoph Begemann",
+      title             = "Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure",
+      doi               = "10.1016/j.cemconres.2018.03.018",
+      year              = "2018",
+      journal           = "Cement and Concrete Research",
+      volume            = "108",
+      pages             = "129--139",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Secrieru, D. Cotardo, V. Mechtcherine, L. Lohaus, C. Schröfl and C. Begemann, “Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure”, <i>Cement and Concrete Research</i>, vol. 108, pp. 129–139, 2018, doi: 10.1016/j.cemconres.2018.03.018.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Secrieru, Egor, Dario Cotardo, Viktor Mechtcherine, Ludger Lohaus, Christof Schröfl, and Christoph Begemann. “Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure”. <i>Cement and Concrete Research</i> 108 (2018): 129–39. https://doi.org/10.1016/j.cemconres.2018.03.018.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

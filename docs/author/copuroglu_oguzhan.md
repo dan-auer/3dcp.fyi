@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Çopuroğlu Oğuzhan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC/">A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete</a></li>
   <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../kaya_ciza_yalc_fele.2024.EoHMaAVoFaHPo3PC/">Effect of Hydroxypropyl-Methylcellulose and Aggregate Volume on Fresh and Hardened Properties of 3D Printable Concrete</a></li>
   <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhan_schl_copu.2024.DoSoD3PLCCBCMUDB/">Development of Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Desalination Brine</a></li>

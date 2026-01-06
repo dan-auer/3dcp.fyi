@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Tay, Jian Lim, Mingyang Li, Ming Tan
+    - footer
+title: Tay Yi, Lim Jian, Li Mingyang, Tan Ming
 description:
 tags:
  - concrete
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2022.2048521?needAccess=true) Creating Functionally Graded Concrete Materials with Varying 3D Printing Parameters ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1080/17452759.2022.2048521" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2022.2048521</a>
+#Creating Functionally Graded Concrete Materials with Varying 3D Printing Parameters ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2022.2048521?needAccess=true) <a href="https://doi.org/10.1080/17452759.2022.2048521" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2022.2048521" target="_blank">10.1080/17452759.2022.2048521</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8424-5624" title="ORCID: 0000-0002-8424-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_hui_jian"><b>Lim</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 17, Iss. 3, pp. 662-681
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a> <a href="https://orcid.org/0000-0002-8424-5624" title="ORCID: 0000-0002-8424-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 17, Iss. 3, pp. 662-681
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#material`](keyword/material)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Creating%20Functionally%20Graded%20Concrete%20Materials%20with%20Varying%203D%20Printing%20Parameters" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126555553&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220775249" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2022.2048521" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2022.2048521?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The varying physical property in a functionally graded material can be tailored to its specific requirements while using material resources effectively. 3D concrete printing can produce robust and lightweight functionally graded material for the construction industry. In this study, an approach was developed to create an objective tailored functionally graded concrete material by examining the filament material property correlations with the printing parameters. It was found that the physical property of the printed material is closely correlated to the flow rate and travel speed of the printer. Results obtained from the experiment show that the optimised structure achieved an approximately 50% improvement in the strength-to-weight ratio. This preliminary examination of the 2D optimised concrete structure opens the realm of possibility for future work in 3D optimised functionally graded concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
@@ -87,8 +66,8 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
@@ -123,4 +102,35 @@ tags:
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM/">How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/pan_hao"><b>Pan</b> Hao</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../geng_pan_zuo_she.2022.FGLCBCwOMPvAM/">Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tay_lim_li_tan.2022.CFGCMwV3PP,
+      author            = "Yi Wei Daniel Tay and Jian Hui Lim and Mingyang Li and Ming Jen Tan",
+      title             = "Creating Functionally Graded Concrete Materials with Varying 3D Printing Parameters",
+      doi               = "10.1080/17452759.2022.2048521",
+      year              = "2022",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "17",
+      number            = "3",
+      pages             = "662--681",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. W. D. Tay, J. H. Lim, M. Li and M. J. Tan, “Creating Functionally Graded Concrete Materials with Varying 3D Printing Parameters”, <i>Virtual and Physical Prototyping</i>, vol. 17, no. 3, pp. 662–681, 2022, doi: 10.1080/17452759.2022.2048521.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tay, Yi Wei Daniel, Jian Hui Lim, Mingyang Li, and Ming Jen Tan. “Creating Functionally Graded Concrete Materials with Varying 3D Printing Parameters”. <i>Virtual and Physical Prototyping</i> 17, no. 3 (2022): 662–81. https://doi.org/10.1080/17452759.2022.2048521.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

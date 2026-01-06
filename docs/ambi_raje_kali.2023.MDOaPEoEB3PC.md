@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Parukutty Ambily, Neeraja Rajendran, Senthil Kaliyavaradhan
+    - footer
+title: Ambily Parukutty, Rajendran Neeraja, Kaliyavaradhan Senthil
 description:
 tags:
  - base
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1680/jcoma.23.00077" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jcoma.23.00077</a>
+#Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jcoma.23.00077" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jcoma.23.00077" target="_blank">10.1680/jcoma.23.00077</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b>&nbsp;Neeraja</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b>&nbsp;Senthil</a></span><br>
+Journal Article - Proceedings of the Institution of Civil Engineers - Construction Materials, pp. 1-44
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a>
-,     <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Proceedings of the Institution of Civil Engineers - Construction Materials, pp. 1-44
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#evaluation`](keyword/evaluation)
-    [`#extrusion`](keyword/extrusion)
-    [`#mixing`](keyword/mixing)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mix-Design%2C%20Optimization%20and%20Performance-Evaluation%20of%20Extrusion-Based%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85177670763&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388328007" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jcoma.23.00077" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jcoma.23.00077?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is a cutting-edge construction method that has recently received much attention. Most of the 3DCP research works focused on printer development, printable material mix design, and the complexity of the geometry shapes. This research primarily focuses on determining appropriate mix proportions and suitable 3D printable concrete (3DPC) mix design using a trial and error approach. The experimental tests are performed on 27 mix trials with different materials to determine the printable properties such as flowability, buildability, extrudability, and open time. Also, printed and cast samples were tested for compressive strength. The 3DPC mix with 19% OPC, 23% of fly ash, 7% of silica fume, 13% of GGBS, 4% limestone and 0.22% superplasticizer (% by mass of total binder) was found as identified mix proportion, which exhibits the required 3DPC characteristics such as good buildability, easy extrusion, less setting time, cohesiveness of mix, and reduction in deformation. The proposed mixing protocol and suggested 3DPC mix design were encouraging for large-scale 3DCP. To demonstrate the application of the 3DPC mix, the 3D printed concrete furniture was printed with a nozzle of size 30 mm, extrusion speed of 100mm/s and a printing speed of 60mm/s.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
@@ -100,8 +78,8 @@ tags:
       <li><a href="../../../author/salleh_norhafizah"><b>Salleh</b> Norhafizah</a>, <a href="../../../author/jamalulail_syahera_nur"><b>Jamalulail</b> Nur</a>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b> Noor</a>, <a href="../../../author/jamellodin_zalipah"><b>Jamellodin</b> Zalipah</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sall_jama_abdu_jame.2021.NTi3CPbUGGBFS/">New Technology in 3D Concrete Printing by Using Ground-Granulated Blast-Furnace-Slag:<br/>A Review</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
@@ -109,4 +87,33 @@ tags:
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ambi_kali_seba_shek.2025.S3PCMUCS/">Sustainable 3D Printable Concrete-Mix Using Copper-Slag</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../ambi_kali_seba_shek.2023.MAf3PC/">Mixing Approach for 3D Printable Concrete:<br/>Method of Addition and Optimization of Superplasticizer Dosage</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ambi_raje_kali.2023.MDOaPEoEB3PC,
+      author            = "Parukutty S. Ambily and Neeraja Rajendran and Senthil Kumar Kaliyavaradhan",
+      title             = "Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete",
+      doi               = "10.1680/jcoma.23.00077",
+      year              = "2023",
+      journal           = "Proceedings of the Institution of Civil Engineers - Construction Materials",
+      pages             = "1--44",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. S. Ambily, N. Rajendran and S. K. Kaliyavaradhan, “Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete”, <i>Proceedings of the Institution of Civil Engineers - Construction Materials</i>, pp. 1–44, 2023, doi: 10.1680/jcoma.23.00077.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ambily, Parukutty S., Neeraja Rajendran, and Senthil Kumar Kaliyavaradhan. “Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete”. <i>Proceedings of the Institution of Civil Engineers - Construction Materials</i>, 2023, 1–44. https://doi.org/10.1680/jcoma.23.00077.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

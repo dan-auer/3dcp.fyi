@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Faham Tahmasebinia, Amir Jabbari, Krzysztof Skrzypkowski
+    - footer
+title: Tahmasebinia Faham, Jabbari Amir, Skrzypkowski Krzysztof
 description:
 tags:
  - application
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/13/6/3929/pdf?version=1679296292) The Application of Finite Element Simulation and 3D Printing in Structural Design Within Construction Industry 4.0 ([2023-03](date/2023/03))
-<a href="https://doi.org/10.3390/app13063929" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app13063929</a>
+#The Application of Finite Element Simulation and 3D Printing in Structural Design Within Construction Industry 4.0 ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/13/6/3929/pdf?version=1679296292) <a href="https://doi.org/10.3390/app13063929" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app13063929" target="_blank">10.3390/app13063929</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0730-2998" title="ORCID: 0000-0002-0730-2998" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tahmasebinia_faham"><b>Tahmasebinia</b>&nbsp;Faham</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-4307-456X" title="ORCID: 0009-0007-4307-456X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabbari_abbas_amir"><b>Jabbari</b>&nbsp;Amir</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0819-2345" title="ORCID: 0000-0003-0819-2345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skrzypkowski_krzysztof"><b>Skrzypkowski</b>&nbsp;Krzysztof</a></span><br>
+Journal Article - Applied Sciences, Vol. 13, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tahmasebinia_faham"><b>Tahmasebinia</b> Faham</a> <a href="https://orcid.org/0000-0002-0730-2998" title="ORCID: 0000-0002-0730-2998" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jabbari_abbas_amir"><b>Jabbari</b> Amir</a> <a href="https://orcid.org/0009-0007-4307-456X" title="ORCID: 0009-0007-4307-456X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skrzypkowski_krzysztof"><b>Skrzypkowski</b> Krzysztof</a> <a href="https://orcid.org/0000-0003-0819-2345" title="ORCID: 0000-0003-0819-2345" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 13, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#element`](keyword/element)
-    [`#finite`](keyword/finite)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Application%20of%20Finite%20Element%20Simulation%20and%203D%20Printing%20in%20Structural%20Design%20Within%20Construction%20Industry%204.0" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151534713&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4327984292" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app13063929" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app13063929?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing, or additive manufacturing (AM), is a production can be utilised to fabricate 3D shapes from a simulated file. This technology has gained global popularity in the construction industry since 2014 due to its wide range of applications. AM promotes a more automated, innovative, flexible, and sustainable construction method, making it an integral part of the Construction Industry 4.0. However, there need to be more detailed studies regarding the effectiveness of AM as the future direction in the construction industry. This paper investigates the application of the finite element method (FEM) in assessing 3D-printed structures to get insight into the performance of these structures. Three leading 3D-printed structures were selected, including Dubai Future Foundation in the United Arab Emirates, Apis Cor house in Russia and PERI house in Germany. Structural and thermal analyses, including linear static, natural frequency, spectral response, and steady state heat, were performed using Strand7 to assess the effectiveness of AM in construction and the reliability of FEM in analysing 3D-printed structures. Although there are limited standards and regulations for 3D-printed structures in most countries, it was concluded that 3D-printed structures presented a similar strength to traditional ones. Moreover, FEM can be used to provide a reasonable analysis of the performance of these structures, while complying with the relevant standards. This paper presents a novel numerical procedure to assess the performance of small-scale 3D-printed structures under various mechanical and thermal loadings by checking against the relevant standards.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -86,8 +64,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kubjana_lucy"><b>Kubjana</b> Lucy</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/adekunle_peter"><b>Adekunle</b> Peter</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kubj_aigb_adek.2025.AS3PC/">Advancing Sustainable 3D-Printed Concrete:<br/>A Bibliometric Study on Financing Housing Options</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zhou_sama_roti_feng.2025.EPIotAo3CPT/">Exploring Policy Influences on the Adoption of 3D Concrete Printing Technology:<br/>A Hypothetical Model</a></li>
@@ -95,4 +73,34 @@ tags:
       <li><a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_sama_roti_feng.2025.EGPIotAo3CPT/">Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology:<br/>A Roadmap for New Zealand</a></li>
       <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a>, <a href="../../../author/gebel_seyma"><b>Gebel</b> Şeyma</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../takv_top_gokg_gebe.2024.Ao3CPTiBCwDADDiH/">Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tahm_jabb_skrz.2023.TAoFESa3PiSDWCI40,
+      author            = "Faham Tahmasebinia and Amir Abbas Jabbari and Krzysztof Skrzypkowski",
+      title             = "The Application of Finite Element Simulation and 3D Printing in Structural Design Within Construction Industry 4.0",
+      doi               = "10.3390/app13063929",
+      year              = "2023",
+      journal           = "Applied Sciences",
+      volume            = "13",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Tahmasebinia, A. A. Jabbari and K. Skrzypkowski, “The Application of Finite Element Simulation and 3D Printing in Structural Design Within Construction Industry 4.0”, <i>Applied Sciences</i>, vol. 13, no. 6, 2023, doi: 10.3390/app13063929.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tahmasebinia, Faham, Amir Abbas Jabbari, and Krzysztof Skrzypkowski. “The Application of Finite Element Simulation and 3D Printing in Structural Design Within Construction Industry 4.0”. <i>Applied Sciences</i> 13, no. 6 (2023). https://doi.org/10.3390/app13063929.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

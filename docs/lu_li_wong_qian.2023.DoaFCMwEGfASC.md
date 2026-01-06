@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Lu, Hongliang Li, Teck Wong, Shunzhi Qian
+    - footer
+title: Lu Bing, Li Hongliang, Wong Teck, Qian Shunzhi
 description:
 tags:
  - automation
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of a Functional Cementitious Mixture with Expanded Graphite for Automated Spray Construction ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1061/jmcee7.mteng-14854" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-14854</a>
+#Development of a Functional Cementitious Mixture with Expanded Graphite for Automated Spray Construction ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-14854" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-14854" target="_blank">10.1061/jmcee7.mteng-14854</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <a href="../../../author/li_hongliang"><b>Li</b>&nbsp;Hongliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 35, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> <a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 35, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#expansion`](keyword/expansion)
-    [`#function`](keyword/function)
-    [`#graphite`](keyword/graphite)
-    [`#mixture`](keyword/mixture)
-    [`#spray`](keyword/spray)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/graphite"><button class="btn">#graphite</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Functional%20Cementitious%20Mixture%20with%20Expanded%20Graphite%20for%20Automated%20Spray%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160440815&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4377839838" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-14854" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-14854?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Spray-based three-dimensional (3D) concrete printing is an innovative method to automatically construct structures on vertical and overhead surfaces, which contributes to less labor investment and construction time. On the other hand, expanded graphite is widely known for its high thermal and electrical conductivity as a lightweight ingredient, and thus its potential in functional cementitious materials has been gradually realized in recent years. In this study, a lightweight cementitious material containing expanded graphite has been developed specifically for spray-based 3D concrete printing with added values. Through the characterization and overall evaluation of densities, mechanical and rheological properties, and Joule-heating performance, the appropriate expanded graphite content was determined as 1% by weight of cement. Afterward, silica fume was introduced into the matrix to tailor the rheological properties of the mixtures. The subsequent spray-based printing showed that the tailored mixture had significant improvements in the building capacity and spray quality. On the other hand, it also possessed superior Joule-heating performance than the control mixture without expanded graphite. The potential engineering applications of the developed material include deicing and structural health monitoring, and the compatibility with spray-based 3D concrete printing provides extra values of higher construction efficiency and adaptivity to the structures of complex contours.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/pan_hao"><b>Pan</b> Hao</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../geng_pan_zuo_she.2022.FGLCBCwOMPvAM/">Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing</a></li>
@@ -86,10 +63,40 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lu_wang_wang_tan.2024.DoRSSSCMfSSHM/">Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_li_wong_qian.2023.DoaFCMwEGfASC,
+      author            = "Bing Lu and Hongliang Li and Teck Neng Wong and Shunzhi Qian",
+      title             = "Development of a Functional Cementitious Mixture with Expanded Graphite for Automated Spray Construction",
+      doi               = "10.1061/jmcee7.mteng-14854",
+      year              = "2023",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "35",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Lu, H. Li, T. N. Wong and S. Qian, “Development of a Functional Cementitious Mixture with Expanded Graphite for Automated Spray Construction”, <i>Journal of Materials in Civil Engineering</i>, vol. 35, no. 8, 2023, doi: 10.1061/jmcee7.mteng-14854.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Bing, Hongliang Li, Teck Neng Wong, and Shunzhi Qian. “Development of a Functional Cementitious Mixture with Expanded Graphite for Automated Spray Construction”. <i>Journal of Materials in Civil Engineering</i> 35, no. 8 (2023). https://doi.org/10.1061/jmcee7.mteng-14854.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

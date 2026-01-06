@@ -8,7 +8,7 @@ search:
 
 # #magnesium
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
   <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
   <li><a href="../../../author/jankovsky_ondrej"><b>Jankovský</b> Ondřej</a>, <a href="../../../author/lodnanek_petr"><b>Lodňánek</b> Petr</a>, <a href="../../../author/lauermannova_anna-marie"><b>Lauermannová</b> Anna-Marie</a>, <a href="../../../author/jirickova_adela"><b>Jiříčková</b> Adéla</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../jank_lodn_laue_jiri.2025.UoLFSaFRiMOC/">Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement:<br/>Towards Sustainable 3D-Printable Building Composites</a></li>

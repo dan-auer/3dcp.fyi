@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Venkatesh Nerella, Mirza Beigh, Shirin Fataei, Viktor Mechtcherine
+    - footer
+title: Nerella Venkatesh, Beigh Mirza, Fataei Shirin, Mechtcherine Viktor
 description:
 tags:
  - approach
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction ([2018-11](date/2018/11))
-<a href="https://doi.org/10.1016/j.cemconres.2018.08.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2018.08.003</a>
+#Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction ([2018-11](date/2018/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2018.08.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.08.003" target="_blank">10.1016/j.cemconres.2018.08.003</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7525-6807" title="ORCID: 0000-0002-7525-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b>&nbsp;Mirza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7102-5094" title="ORCID: 0000-0001-7102-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fataei_shirin"><b>Fataei</b>&nbsp;Shirin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 115, pp. 530-544
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a> <a href="https://orcid.org/0000-0002-7525-6807" title="ORCID: 0000-0002-7525-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a> <a href="https://orcid.org/0000-0001-7102-5094" title="ORCID: 0000-0001-7102-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 115, pp. 530-544
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#measurement`](keyword/measurement)
-    [`#paste`](keyword/paste)
-    [`#strain`](keyword/strain)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strain-Based%20Approach%20for%20Measuring%20Structural%20Build-Up%20of%20Cement-Pastes%20in%20the%20Context%20of%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85055910800&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,26 +40,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2899509297" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2018.08.003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2018.08.003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As a first step toward characterising structural build-up of high-strength, printable concrete mixes, the structural build-up of cement pastes of varying compositions and rheological properties is investigated. It is demonstrated that applying low shear rates over short measurement periods does not always result in the achievement of flow-onset in stiffer cementitious materials, commonly used in digital construction. For such materials, a characteristic delay exists before the effective shear rate reaches the applied shear rate. This leads to effective strains in the materials tested and consequently to the erroneous characterisation of structural build-up. A strain-based approach is suggested here as a more appropriate method for characterising structural build-up in the case of stiff materials. Maintaining a low, constant shear rate among various measurements is not necessary if the total effective strain is kept constant. Investigations on pastes with different compositions show that pastes in which a portion of the cement was replaced with micro-silica and fly ash exhibited high structuration rate. The use of secondary cementitious materials (SCM) appears to be similarly appropriate measure to make cementitious materials ‘printable’ when compared to using set-accelerators, in the absence of inline mixing of accelerators in the printhead.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "89 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_seka.2025.Ei3P/">Extrudability in 3D Printing:<br/>A Comprehensive Approach to S/C, W/C Ratios and Superplasticizer Content</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
@@ -169,9 +143,35 @@ tags:
       <li><a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b> Charbel</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../sakk_assa_hamz_nakh.2019.TaIBSoPMPM/">Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../mech_nere.2019.3CPbSD/">3D-Concrete-Printing by Selective Deposition:<br/>Requirements for Fresh Concrete and Testing</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
-      <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC,
+      author            = "Venkatesh Naidu Nerella and Mirza Abdul Basit Beigh and Shirin Fataei and Viktor Mechtcherine",
+      title             = "Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction",
+      doi               = "10.1016/j.cemconres.2018.08.003",
+      year              = "2019",
+      journal           = "Cement and Concrete Research",
+      volume            = "115",
+      pages             = "530--544",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. N. Nerella, M. A. B. Beigh, S. Fataei and V. Mechtcherine, “Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction”, <i>Cement and Concrete Research</i>, vol. 115, pp. 530–544, 2019, doi: 10.1016/j.cemconres.2018.08.003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nerella, Venkatesh Naidu, Mirza Abdul Basit Beigh, Shirin Fataei, and Viktor Mechtcherine. “Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction”. <i>Cement and Concrete Research</i> 115 (2019): 530–44. https://doi.org/10.1016/j.cemconres.2018.08.003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

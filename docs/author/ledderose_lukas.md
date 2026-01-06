@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ledderose Lukas 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../klof_hack_sawi_dorr.2025.DFSfS/">Digital Fabrication Strategies for Sustainability</a></li>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/ameri_shaghayegh"><b>Ameri</b> Shaghayegh</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bagh_ledd_amer_klof.2023.EaNAoNCDCCPoRCMT/">Experimental and Numerical Assessments of New Concrete Dry Connections Concerning Potentials of Robotic CNC Manufacturing Technique</a></li>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/heristchian_mahmoud"><b>Heristchian</b> Mahmoud</a>, <a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../bagh_heri_ledd_klof.2023.EaNAoNCDCCPotRSMT/">Experimental and Numerical Assessments of New Concrete Dry Connections Concerning Potentials of the Robotic Subtractive Manufacturing Technique</a></li>

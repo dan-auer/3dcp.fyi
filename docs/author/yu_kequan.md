@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Yu Kequan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_zhu_yu_xiao.2025.DTBoTDPSFRUPC/">Direct Tensile Behavior of Three-Dimensional-Printable Steel Fiber-Reinforced Ultrahigh Performance Concrete</a></li>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yali Ge, Jie Yao
+    - footer
+title: Ge Yali, Yao Jie
 description:
 tags:
  - anisotropy
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of FA and HPMC on the Fresh Properties and Anisotropy of 3D Printing Engineered Cementitious Composites ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.matlet.2024.137748" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matlet.2024.137748</a>
+#Influence of FA and HPMC on the Fresh Properties and Anisotropy of 3D Printing Engineered Cementitious Composites ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2024.137748" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2024.137748" target="_blank">10.1016/j.matlet.2024.137748</a>
 
--------------------------
+<a href="../../../author/ge_yali"><b>Ge</b>&nbsp;Yali</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-6814-3941" title="ORCID: 0009-0009-6814-3941" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_jie"><b>Yao</b>&nbsp;Jie</a></span><br>
+Journal Article - Materials Letters, No. 137748
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ge_yali"><b>Ge</b> Yali</a>
-,     <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> <a href="https://orcid.org/0009-0009-6814-3941" title="ORCID: 0009-0009-6814-3941" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Letters, No. 137748
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#fresh`](keyword/fresh)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20FA%20and%20HPMC%20on%20the%20Fresh%20Properties%20and%20Anisotropy%20of%203D%20Printing%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209997417&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404600719" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matlet.2024.137748" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matlet.2024.137748?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To investigate the effect of material compositions on the fresh properties and anisotropy of 3DP-ECC, the shape retention and the anisotropy of the compressive strength of 3DP-ECC with different contents of fly ash (FA) and Hydroxypropyl methyl cellulose (HPMC) were studied. The research results indicated that FA could weaken the shape retention, but HPMC significantly enhanced the shape retention of the fresh slurry of 3DP-ECC. The compressive strength in different directions was ranked as Z > Y > X. With the increase of dosage (FA/HPMC), the isotropy in the compressive strength of 3DP-ECC with HPMC decreased, but the difference of 3DP-ECC with FA became more obvious gradually.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/pang_zhiming"><b>Pang</b> Zhiming</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/wang_jiajie"><b>Wang</b> Jiajie</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../pang_lu_li_wang.2023.AMSMfQFOEotTPo3PECC/">A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
@@ -76,10 +56,38 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
-      <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.PaEMPoMCM3PECCBotRSM/">Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ge_yao.2024.IoFaHotFPaAo3PECC,
+      author            = "Yali Ge and Jie Yao",
+      title             = "Influence of FA and HPMC on the Fresh Properties and Anisotropy of 3D Printing Engineered Cementitious Composites",
+      doi               = "10.1016/j.matlet.2024.137748",
+      year              = "2024",
+      journal           = "Materials Letters",
+      pages             = "137748",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Ge  and J. Yao, “Influence of FA and HPMC on the Fresh Properties and Anisotropy of 3D Printing Engineered Cementitious Composites”, <i>Materials Letters</i>, p. 137748, 2024, doi: 10.1016/j.matlet.2024.137748.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ge, Yali, and Jie Yao. “Influence of FA and HPMC on the Fresh Properties and Anisotropy of 3D Printing Engineered Cementitious Composites”. <i>Materials Letters</i>, 2024, 137748. https://doi.org/10.1016/j.matlet.2024.137748.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

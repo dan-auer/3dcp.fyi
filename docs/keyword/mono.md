@@ -8,7 +8,7 @@ search:
 
 # #mono
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/krakovska_ema"><b>Krakovská</b> Ema</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krak_brie_stra_kran.2024.FHLCC/">Functionally Hybridised Lightweight Concrete Components:<br/>Monolithic Building Construction Using Selective Paste-Intrusion</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mech_taub_mull_butl.2024.IoSRiEB3CPoMCE/">Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements</a></li>
   <li><a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../will_stor_plas_taub.2024.LSMPwRMC/">Large-Scale Monolithic Printing with Ready-Mixed Concrete:<br/>Challenges and Solutions</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Malek Mohammad, Eyad Masad, Sami Ghamdi
+    - footer
+title: Mohammad Malek, Masad Eyad, Ghamdi Sami
 description:
 tags:
  - assessment
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/10/12/245/pdf?version=1608544265) 3D Concrete Printing Sustainability:<br/>:aca-blank: A Comparative Life Cycle Assessment of Four Construction Method Scenarios ([2020-12](date/2020/12))
-<a href="https://doi.org/10.3390/buildings10120245" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings10120245</a>
+#3D Concrete Printing Sustainability&nbsp;([2020-12](date/2020/12))
+<div class="h1-like">A Comparative Life Cycle Assessment of Four Construction Method Scenarios</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/10/12/245/pdf?version=1608544265) <a href="https://doi.org/10.3390/buildings10120245" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings10120245" target="_blank">10.3390/buildings10120245</a>
 
--------------------------
+<a href="../../../author/mohammad_malek"><b>Mohammad</b>&nbsp;Malek</a></span>, <a href="../../../author/masad_eyad"><b>Masad</b>&nbsp;Eyad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7416-5153" title="ORCID: 0000-0002-7416-5153" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghamdi_g_sami"><b>al&nbsp;Ghamdi</b>&nbsp;Sami</a></span><br>
+Journal Article - Buildings, Vol. 10, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>
-,     <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>
-,     <a href="../../../author/ghamdi_g_sami"><b>al Ghamdi</b> Sami</a> <a href="https://orcid.org/0000-0002-7416-5153" title="ORCID: 0000-0002-7416-5153" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 10, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#cycle`](keyword/cycle)
-    [`#four`](keyword/four)
-    [`#life`](keyword/life)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/four"><button class="btn">#four</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Sustainability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098113801&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3110976172" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings10120245" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings10120245?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) has become recognized as a possible alternative to conventional concrete construction, mainly due to its potential to increase productivity and reduce the environmental impact of the construction industry. Despite its up-and-coming popularity within the field, limited research has quantitively investigated the environmental benefits that 3DCP brings. This paper investigates the environmental tradeoff of utilizing 3DCP over conventional construction by conducting a detailed cradle-to-gate life cycle assessment (LCA) study of four case-scenarios (conventional concrete construction, 3DCP with reinforcement elements, 3DCP without any reinforcement, and 3DCP without any reinforcement and utilizing a lightweight printable concrete material.) These case-scenarios were carefully selected to quantify the environmental impact of 3DCP while emphasizing the importance of the material composition. The LCA was conducted for a 1 m2 external load-bearing wall in all four scenarios. The LCA analysis showed that 3DCP significantly reduced environmental effects in terms of global warming potential (GWP), acidification potential (AP), eutrophication potential (EP), smog formation potential (SFP), and fossil fuel depletion (FFD), as compared to conventional construction methods. However, these environmental improvements diminished when 3DCP was coupled with the use of conventional reinforcement elements. Moreover, the use of an alternative concrete mixture in 3DCP showed a further decrease in the GWP, AP, EP, and FFD impact. Ultimately, the findings in this paper support the advantages of 3DCP technology and recommend the investigation of the development of (i) sustainable printable concrete materials and (ii) novel reinforcement techniques that are suitable for 3DCP rather than adopting conventional reinforcement techniques.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -86,9 +64,10 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "90 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aden_rashid_abdishukri"><b>Aden</b> Abdishukri</a>, <a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b> Alejandra</a>, <a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aden_nune_ponc_rang.2026.FB/">FAB-BIO:<br/>A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</a></li>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>, <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA/">Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino</a></li>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
@@ -178,4 +157,34 @@ tags:
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bres_sani_nabo.2021.TPSDaMiR3CP/">Tool-Path Simulation, Design and Manipulation in Robotic 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moha_masa_gham.2020.3CPS,
+      author            = "Malek Mohammad and Eyad Masad and Sami G. Al Ghamdi",
+      title             = "3D Concrete Printing Sustainability: A Comparative Life Cycle Assessment of Four Construction Method Scenarios",
+      doi               = "10.3390/buildings10120245",
+      year              = "2020",
+      journal           = "Buildings",
+      volume            = "10",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Mohammad, E. Masad and S. G. A. Ghamdi, “3D Concrete Printing Sustainability: A Comparative Life Cycle Assessment of Four Construction Method Scenarios”, <i>Buildings</i>, vol. 10, no. 12, 2020, doi: 10.3390/buildings10120245.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mohammad, Malek, Eyad Masad, and Sami G. Al Ghamdi. “3D Concrete Printing Sustainability: A Comparative Life Cycle Assessment of Four Construction Method Scenarios”. <i>Buildings</i> 10, no. 12 (2020). https://doi.org/10.3390/buildings10120245.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

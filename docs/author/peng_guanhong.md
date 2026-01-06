@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,6 +9,6 @@ search:
 
 #  Peng Guanhong 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/peng_guanhong"><b>Peng</b> Guanhong</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../peng.2022.DFaMPo3PC/">Digital Fabrication and Mechanical Properties of 3D Printing Concrete</a></li>
 </ol>

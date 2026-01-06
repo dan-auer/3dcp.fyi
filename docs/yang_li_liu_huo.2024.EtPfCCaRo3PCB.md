@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Min Yang, Chao Li, Hao Liu, Longfei Huo, Xiaofei Yao, Bolin Wang, Wenqi Yao, Zedi Zhang, Jianming Ding, Yamei Zhang, Xiaojun Ding
+    - footer
+title: Yang Min, Li Chao, Liu Hao, Huo Longfei, Yao Xiaofei, Wang Bolin, Yao Wenqi, Zhang Zedi, Ding Jianming, Zhang Yamei, Ding Xiaojun
 description:
 tags:
  - arch
@@ -16,39 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e02938) Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges:<br/>:aca-blank: Construction, Dismantlement, and Reconstruction of a Box Arch Bridge ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.cscm.2024.e02938" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e02938</a>
+#Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">Construction, Dismantlement, and Reconstruction of a Box Arch Bridge</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e02938) <a href="https://doi.org/10.1016/j.cscm.2024.e02938" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02938" target="_blank">10.1016/j.cscm.2024.e02938</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_min"><b>Yang</b>&nbsp;Min</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1385-071X" title="ORCID: 0000-0003-1385-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_chao"><b>Li</b>&nbsp;Chao</a></span>, <a href="../../../author/liu_hao"><b>Liu</b>&nbsp;Hao</a></span>, <a href="../../../author/huo_longfei"><b>Huo</b>&nbsp;Longfei</a></span>, <a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span>, <a href="../../../author/wang_bolin"><b>Wang</b>&nbsp;Bolin</a></span>, <a href="../../../author/yao_wenqi"><b>Yao</b>&nbsp;Wenqi</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <a href="../../../author/ding_jianming"><b>Ding</b>&nbsp;Jianming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/ding_xiaojun"><b>Ding</b>&nbsp;Xiaojun</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e02938
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_min"><b>Yang</b> Min</a> <a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_chao"><b>Li</b> Chao</a> <a href="https://orcid.org/0000-0003-1385-071X" title="ORCID: 0000-0003-1385-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_hao"><b>Liu</b> Hao</a>
-,     <a href="../../../author/huo_longfei"><b>Huo</b> Longfei</a>
-,     <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>
-,     <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>
-,     <a href="../../../author/yao_wenqi"><b>Yao</b> Wenqi</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/ding_jianming"><b>Ding</b> Jianming</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_xiaojun"><b>Ding</b> Xiaojun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e02938
-
-:aca-blank:{ .lg .middle}
-    [`#arch`](keyword/arch)
-    [`#bridge`](keyword/bridge)
-    [`#capacity`](keyword/capacity)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#exploration`](keyword/exploration)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/arch"><button class="btn">#arch</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20the%20Potential%20for%20Carrying%20Capacity%20and%20Reusability%20of%203D%20Printed%20Concrete%20Bridges" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184515676&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391451616" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e02938" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e02938?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing technology has enabled the construction full-scale bridges. However, structural carbon emissions due to higher cement content and limitations of embedded reinforcement have limited its widespread adoption. This paper presents a non-reinforced 3D printed concrete box arch bridge and describes its design, construction, dismantlement, and reconstruction, as well as evaluation of the carrying capacity of reconstructed primary arch ring. The bridge adheres to current technical principles and bridge engineering specifications. By taking into account the mechanical anisotropy and primary stress characteristics of the arch, the design negates the need for reinforcement. The study showcases the reusability and potential carbon emission reduction through block printing, on-site assembly, block removal, and secondary usage. The safety of the reconstructed arch bridge was confirmed through an in-situ load test.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -94,12 +66,41 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/luo_zhe"><b>Luo</b> Zhe</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhan_jia_luo_deng.2022.PaPSo3PLCCURCBPwVPF/">Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jia_dong_xia_niu.2025.IPSo3PCIRBFA/">Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates:<br/>Insights from Water Transport and Structural Evolution</a></li>
       <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../miri_baaj_pola.2025.3PCB/">3D-Printed Concrete Bridges:<br/>Material, Design, Construction, and Reinforcement</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>, <a href="../../../author/cai_yili"><b>Cai</b> Yili</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../luo_li_cai_zhan.2025.EoCRSotIBPo3PCBM/">Effects of Carbonated Recycled Sand on the Interfacial Bonding Performance of 3D Printed Cement-Based Material</a></li>
       <li><a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zhao_liguo"><b>Zhao</b> Liguo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../yang_yao_zhao_zhan.2024.BAAaME/">Bridging Ancient Artistry and Modern Engineering:<br/>A 3D Printed Concrete Arch Bridge Inspired by Millennium-Old Bronze Patterns Using an Integrated Concrete 3D Printing System</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_li_liu_huo.2024.EtPfCCaRo3PCB,
+      author            = "Min Yang and Chao Li and Hao Liu and Longfei Huo and Xiaofei Yao and Bolin Wang and Wenqi Yao and Zedi Zhang and Jianming Ding and Yamei Zhang and Xiaojun Ding",
+      title             = "Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges: Construction, Dismantlement, and Reconstruction of a Box Arch Bridge",
+      doi               = "10.1016/j.cscm.2024.e02938",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e02938",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Yang, “Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges: Construction, Dismantlement, and Reconstruction of a Box Arch Bridge”, <i>Case Studies in Construction Materials</i>, p. e02938, 2024, doi: 10.1016/j.cscm.2024.e02938.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Min, Chao Li, Hao Liu, Longfei Huo, Xiaofei Yao, Bolin Wang, Wenqi Yao, et al.. “Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges: Construction, Dismantlement, and Reconstruction of a Box Arch Bridge”. <i>Case Studies in Construction Materials</i>, 2024, e02938. https://doi.org/10.1016/j.cscm.2024.e02938.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

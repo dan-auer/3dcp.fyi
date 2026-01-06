@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mingyang Li, Xu Zhang, Yi Tay, Guan Ting, Bing Lu, Ming Tan
+    - footer
+title: Li Mingyang, Zhang Xu, Tay Yi, Ting Guan, Lu Bing, Tan Ming
 description:
 tags:
  - buildability
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Three-Dimensional (3D) Printing for Building and Construction ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/b978-0-323-95062-6.00004-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-323-95062-6.00004-8</a>
+#Three-Dimensional (3D) Printing for Building and Construction ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-323-95062-6.00004-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-95062-6.00004-8" target="_blank">10.1016/b978-0-323-95062-6.00004-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1370-7681" title="ORCID: 0000-0003-1370-7681" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xu"><b>Zhang</b>&nbsp;Xu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ting_heng-andrew_guan"><b>Ting</b>&nbsp;Guan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Contribution - Digital Manufacturing, pp. 345-385
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a> <a href="https://orcid.org/0000-0003-1370-7681" title="ORCID: 0000-0003-1370-7681" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> <a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> <a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Digital Manufacturing, pp. 345-385
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#dimension`](keyword/dimension)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20%283D%29%20Printing%20for%20Building%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143346122&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4288788277" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-323-95062-6.00004-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-323-95062-6.00004-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The world of construction lags behind manufacturing, agriculture, and wholesale/retail in terms of productivity over the last few centuries. Although the productivity of farming and production has increased 1015 times in the past 80 years, construction remains stuck at the same pace as the 1950s, i.e., at about 1% per annum. The growth of automation in construction has been slow despite construction being one of the largest industries in the world economy, which contributes approximately 13% of GDP or US$10 trillion globally. Construction remains manual mainly due to the deeper cyclical nature of the industry, which makes long-term investments untenable and the flexible use of labor/migrant labor more attractive. In contrast, the use of automation, sensing, and digital technologies have been widely adopted in manufacturing and other industries. The construction industry faces various significant challenges. These challenges include increasing labor efficiency and decreasing accident rates at construction sites. Because of some conditions on the building sites that workers face, including dangerous fixtures or inclement weather conditions, the construction industry has the highest rate of work-related injuries (59 per 1000 workers, according to the Australian Bureau of Statistics). Another consideration is the production of traditional cement contributes about 5% to the carbon in the atmosphere. Moreover, a large shift in climate change worsening will require a significant reduction in these polluting substances, which new technology and sustainable materials are needed; moreover, modern buildings and housing are mainly built with concrete. More than 20 billion tons of concrete are consumed every year, second only to water in usage. Three-dimensional (3D) printing can automatically produce complex shape geometries without any dies, fixtures, and tooling from a 3D computer-aided design (CAD) model. 3D printing (3DP) for building and construction is a potential solution to the construction industry’s problems. The technique will also allow architects to produce more creative designs for new structures without considering the building procedure. Due to its significant advantages of fabricating functional products with minimum material wastage, less human intervention, and reasonable build time, 3DP today has already been applied to other industries. Furthermore, researchers are looking forward to more applications of 3DP in building and construction to improve traditional building strategies while reducing material waste, human resources, and high capital investments in the built environment. Research interest to employ 3DP for building and construction has significantly increased in the past few years [1].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
@@ -96,7 +75,37 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{li_zhan_tay_ting.2022.TD3PfBaC,
+      author            = "Mingyang Li and Xu Zhang and Yi Wei Daniel Tay and Guan Heng Andrew Ting and Bing Lu and Ming Jen Tan",
+      title             = "Three-Dimensional (3D) Printing for Building and Construction",
+      doi               = "10.1016/b978-0-323-95062-6.00004-8",
+      year              = "2022",
+      pages             = "345--385",
+      booktitle         = "Digital Manufacturing: The Industrialization of Art to Part 3D Additive Printing",
+      editor            = "Chandrakant D. Patel",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Li, X. Zhang, Y. W. D. Tay, G. H. A. Ting, B. Lu and M. J. Tan, “Three-Dimensional (3D) Printing for Building and Construction”, in <i>Digital Manufacturing: The Industrialization of Art to Part 3D Additive Printing</i>,  2022, pp. 345–385. doi: 10.1016/b978-0-323-95062-6.00004-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Mingyang, Xu Zhang, Yi Wei Daniel Tay, Guan Heng Andrew Ting, Bing Lu, and Ming Jen Tan. “Three-Dimensional (3D) Printing for Building and Construction”. In <i>Digital Manufacturing: The Industrialization of Art to Part 3D Additive Printing</i>, edited by Chandrakant D. Patel, 345–85, 2022. https://doi.org/10.1016/b978-0-323-95062-6.00004-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

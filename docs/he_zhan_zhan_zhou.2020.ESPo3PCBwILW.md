@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yawen He, Yamei Zhang, Chao Zhang, Hongyu Zhou
+    - footer
+title: He Yawen, Zhang Yamei, Zhang Chao, Zhou Hongyu
 description:
 tags:
  - buildability
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0378778820306939) Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1016/j.enbuild.2020.110110" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.enbuild.2020.110110</a>
+#Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall ([2020-05](date/2020/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0378778820306939) <a href="https://doi.org/10.1016/j.enbuild.2020.110110" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2020.110110" target="_blank">10.1016/j.enbuild.2020.110110</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3185-7395" title="ORCID: 0000-0002-3185-7395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_yawen"><b>He</b>&nbsp;Yawen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span><br>
+Journal Article - Energy and Buildings, Vol. 222
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/he_yawen"><b>He</b> Yawen</a> <a href="https://orcid.org/0000-0002-3185-7395" title="ORCID: 0000-0002-3185-7395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> <a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energy and Buildings, Vol. 222, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#energy`](keyword/energy)
-    [`#integration`](keyword/integration)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#savings`](keyword/savings)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/savings"><button class="btn">#savings</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Energy-Saving-Potential%20of%203D%20Printed%20Concrete%20Building%20with%20Integrated%20Living%20Wall" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084560213&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3022372809" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.enbuild.2020.110110" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.enbuild.2020.110110?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale concrete 3D printing and digital construction has brought enormous potential to expand the design space of building components (e.g., building envelope) for the integration of multiple architectural functionalities including energy saving. In this research, a modular 3D printed vertical concrete green wall system – namely the 3D-VtGW, was developed. The 3D-VtGW envelope was assembled with prefabricated (3D printed) multifunctional wall modular elements, which serves as the enclosure of the building as well as the backbone for a green wall system to improve building’s energy efficiency. Using this design concept and large-scale concrete 3D printing, a prototype commercial building was built in Nanjing, China. To quantify the energy-saving potential of the 3D-VtGW system, a thermal network model was developed to simulate the thermal behavior of buildings with 3D-VtGW system and for thermal comfort analysis. Whole-building energy simulation was carried out using Chinese Standard Weather Data (CSWD) of Nanjing, China. The simulation results indicate that the building with 3D-VtGW exhibited prominent potential for energy saving and improved thermal comfort. The integrated greenery system in 3D-VtGW largely reduces wall exterior surface temperature and through-wall heat flux via the combined effects of plant shading, evapotranspiration, and heat storage from soil. This study presents the immense opportunities brought by digital fabrication and construction to extend the design space and function integration in buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
@@ -89,8 +67,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../wang_flat.2019.Pot1RICoCaDFb/">Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication:<br/>Correction</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "79 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/panchal_priyanka"><b>Panchal</b> Priyanka</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../panc_choi.2025.ARoEoNFtMCFaEEPo3PC/">A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete</a></li>
@@ -170,6 +148,34 @@ tags:
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/xiong_z"><b>Xiong</b> Z.</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../li_xiao_fang_xion.2021.FoGBFRSCSMf3P/">Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
-      <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{he_zhan_zhan_zhou.2020.ESPo3PCBwILW,
+      author            = "Yawen He and Yamei Zhang and Chao Zhang and Hongyu Zhou",
+      title             = "Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall",
+      doi               = "10.1016/j.enbuild.2020.110110",
+      year              = "2020",
+      journal           = "Energy and Buildings",
+      volume            = "222",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. He, Y. Zhang, C. Zhang and H. Zhou, “Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall”, <i>Energy and Buildings</i>, vol. 222, 2020, doi: 10.1016/j.enbuild.2020.110110.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">He, Yawen, Yamei Zhang, Chao Zhang, and Hongyu Zhou. “Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall”. <i>Energy and Buildings</i> 222 (2020). https://doi.org/10.1016/j.enbuild.2020.110110.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

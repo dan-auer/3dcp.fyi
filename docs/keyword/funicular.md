@@ -8,7 +8,7 @@ search:
 
 # #funicular
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/welch_ryan"><b>Welch</b> Ryan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chai_oror_zhi_welc.2024.DAfaPTFCB/">Design Approach for a Post-Tensioned Funicular Concrete Beam</a></li>
   <li><a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/vakhshouri_pouria"><b>Vakhshouri</b> Pouria</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../oror_chai_zhi_vakh.2024.ESoaFCBP/">Experimental Study of a Funicular Concrete Beam Prototype</a></li>
   <li><a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/li_ziyan"><b>Li</b> Ziyan</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/wu_xinyu"><b>Wu</b> Xinyu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wu_li_zhou_wu.2022.DDaFoa3CPFSS/">Digital Design and Fabrication of a 3D Concrete Printed Funicular Spatial Structure</a></li>

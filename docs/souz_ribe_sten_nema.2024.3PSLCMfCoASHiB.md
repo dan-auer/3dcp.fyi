@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eduarda Souza, Paulo Ribeiro Borges, Thorsten Stengel, Behzad Nematollahi, Freek Bos
+    - footer
+title: Souza Eduarda, Ribeiro Borges Paulo, Stengel Thorsten, Nematollahi Behzad, Bos Freek
 description:
 tags:
  - affordability
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil:<br/>:aca-blank: Potential, Challenges, and Research Needs ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.jobe.2024.108985" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108985</a>
+#3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">Potential, Challenges, and Research Needs</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108985" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108985" target="_blank">10.1016/j.jobe.2024.108985</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6584-1738" title="ORCID: 0000-0002-6584-1738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza_araujo_eduarda"><b>de&nbsp;Souza</b>&nbsp;Eduarda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4072-6557" title="ORCID: 0000-0002-4072-6557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stengel_thorsten"><b>Stengel</b>&nbsp;Thorsten</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span><br>
+Journal Article - Journal of Building Engineering, No. 108985
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/souza_araujo_eduarda"><b>de Souza</b> Eduarda</a> <a href="https://orcid.org/0000-0002-6584-1738" title="ORCID: 0000-0002-6584-1738" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a> <a href="https://orcid.org/0000-0002-4072-6557" title="ORCID: 0000-0002-4072-6557" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 108985
-
-:aca-blank:{ .lg .middle}
-    [`#affordability`](keyword/affordability)
-    [`#challenge`](keyword/challenge)
-    [`#construction`](keyword/construction)
-    [`#cost`](keyword/cost)
-    [`#house`](keyword/house)
-    [`#low`](keyword/low)
-    [`#material`](keyword/material)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/affordability"><button class="btn">#affordability</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Sustainable%20Low-Cost%20Materials%20for%20Construction%20of%20Affordable%20Social%20Housing%20in%20Brazil" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188100023&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392620283" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108985" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108985?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is presented as an important process in the future of civil engineering, as it accelerates the construction process, reduces labor costs, and potentially generates significantly less waste materials. Currently, 3DCP has been delayed as a technical solution for Latin American. However, it could be an important option for tackling the housing deficit in developing countries as well. The deployment of 3DCP depends on many different local factors, either political, economic, or technological. This paper discusses the potential, challenges, and research needs to deploy 3DCP in Brazil. It starts presenting the Brazilian economic context in the struggle to reduce the housing deficit over the years. Then, the challenges related to the implementation of 3DCP are compared with the opportunities, such as the abundance of low-carbon materials (earth-based, biomass, etc.), which could turn 3DCP into a sustainable business. Although this review is focused on Brazil, the authors believe that the context also applies to many other developing countries with similar social inequality conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "78 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/gawady_mohamed"><b>Gawady</b> Mohamed</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../abud_goma_ghen_gawa.2022.DMPfCCFABAA3PCM/">Developing Mix Proportions for Class C Fly-Ash-Based Alkali-Activated 3D Printed Concrete Mixtures</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
@@ -151,8 +127,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mato_emir_milh.2025.PSSMPf3P/">Predicting Stabilized Soil Mixture Proportions for 3D Printing:<br/>Preliminary Study Using the Design of Experiments Approach</a></li>
@@ -165,4 +141,33 @@ tags:
       <li><a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b> P.</a>, <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b> G.</a>, <a href="../../../author/roy_dipankar"><b>Roy</b> Dipankar</a>, <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b> George</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../venu_nakk_roy_alan.2024.EtUoRFAi3P/">Evaluating the Use of Recycled Fine Aggregates in 3D Printing:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{souz_ribe_sten_nema.2024.3PSLCMfCoASHiB,
+      author            = "Eduarda Araujo de Souza and Paulo Henrique Ribeiro Borges and Thorsten Stengel and Behzad Nematollahi and Freek Paul Bos",
+      title             = "3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil: Potential, Challenges, and Research Needs",
+      doi               = "10.1016/j.jobe.2024.108985",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "108985",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. A. de Souza, P. H. R. Borges, T. Stengel, B. Nematollahi and F. P. Bos, “3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil: Potential, Challenges, and Research Needs”, <i>Journal of Building Engineering</i>, p. 108985, 2024, doi: 10.1016/j.jobe.2024.108985.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Souza, Eduarda Araujo de, Paulo Henrique Ribeiro Borges, Thorsten Stengel, Behzad Nematollahi, and Freek Paul Bos. “3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil: Potential, Challenges, and Research Needs”. <i>Journal of Building Engineering</i>, 2024, 108985. https://doi.org/10.1016/j.jobe.2024.108985.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

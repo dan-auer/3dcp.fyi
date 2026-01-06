@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qifeng Lyu, Yalun Wang, Dongjian Chen, Shiyuan Liu, Justin Mbabazi, Pinghua Zhu, Jiquan Lu, Shaowei Wang, Fengxiang Yin
+    - footer
+title: Lyu Qifeng, Wang Yalun, Chen Dongjian, Liu Shiyuan, Mbabazi Justin, Zhu Pinghua, Lu Jiquan, Wang Shaowei, Yin Fengxiang
 description:
 tags:
  - black
@@ -22,43 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.105926" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.105926</a>
+#Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.105926" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.105926" target="_blank">10.1016/j.cemconcomp.2025.105926</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span>, <a href="../../../author/wang_yalun"><b>Wang</b>&nbsp;Yalun</a></span>, <a href="../../../author/chen_dongjian"><b>Chen</b>&nbsp;Dongjian</a></span>, <a href="../../../author/liu_shiyuan"><b>Liu</b>&nbsp;Shiyuan</a></span>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b>&nbsp;Justin</a></span>, <a href="../../../author/zhu_pinghua"><b>Zhu</b>&nbsp;Pinghua</a></span>, <a href="../../../author/lu_jiquan"><b>Lu</b>&nbsp;Jiquan</a></span>, <a href="../../../author/wang_shaowei"><b>Wang</b>&nbsp;Shaowei</a></span>, <a href="../../../author/yin_fengxiang"><b>Yin</b>&nbsp;Fengxiang</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 157, No. 105926
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>
-,     <a href="../../../author/chen_dongjian"><b>Chen</b> Dongjian</a>
-,     <a href="../../../author/liu_shiyuan"><b>Liu</b> Shiyuan</a>
-,     <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a>
-,     <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a>
-,     <a href="../../../author/lu_jiquan"><b>Lu</b> Jiquan</a>
-,     <a href="../../../author/wang_shaowei"><b>Wang</b> Shaowei</a>
-,     <a href="../../../author/yin_fengxiang"><b>Yin</b> Fengxiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 157, No. 105926
-
-:aca-blank:{ .lg .middle}
-    [`#black`](keyword/black)
-    [`#carbon`](keyword/carbon)
-    [`#coat`](keyword/coat)
-    [`#concrete`](keyword/concrete)
-    [`#energy`](keyword/energy)
-    [`#foam`](keyword/foam)
-    [`#mechanics`](keyword/mechanics)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#storage`](keyword/storage)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/black"><button class="btn">#black</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Energy%20Storage%20Properties%20and%20Mechanical%20Strengths%20of%203D%20Printed%20Porous%20Concrete%20Structural%20Supercapacitors%20Reinforced%20by%20Electrodes%20Made%20of%20Carbon-Black-Coated%20Ni%20Foam" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214332340&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -73,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406203739" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.105926" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.105926?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To increase the manufacturing efficiency of rechargeable concrete which can alleviate the problem that intermittent new energy is difficult to integrate into the power grid, a new type of concrete structural supercapacitor (CSSC) was proposed here by using mortar-extrusion 3D printing with the carbon-black-coated Ni foam being the electrodes and reinforcement. The printability, energy storage properties, mechanical strengths, and microstructures of the printed CSSC were investigated and analyzed. Results showed adding electrodes increased the buildability because the Ni foam provided more supportiveness for the mortar. However, too many electrodes, especially for thicker ones, would damage the buildability, because thicker electrodes hindered mortar extrusion. The energy storage properties, i.e., the maximum areal capacitance and ionic conductivity of the printed CSSC are 1.59 mF/cm2 and 7.2 mS/cm, respectively, which can be increased by using more conductive electrolytes. Furthermore, adding carbon black to the electrodes or increasing the thickness of the electrodes enhanced the areal capacitance and ionic conductivity, because these methods increased the contact area of electrons and ions. The maximum compressive strength and flexural strength of the printed CSSC are 32.5 MPa and 12.9 MPa, respectively, which benefited from better printability and reinforcement. However, more thicker electrodes would over-reinforce the concrete. Moreover, the carbon black reduced the bonding between the printing mortar and Ni foam, resulting in decreased mechanical strength of the printed CSSC. This study provides an efficient method to manufacture the CSSC, and insights into the properties of the printed CSSC, which may facilitate future CSSC applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../cao_yu_wu_cui.2023.ESoHMoPaCiPtR3PC/">Experimental Study of Hybrid Manufacture of Printing and Cast-in-Process to Reinforce 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_dai_lyu.2024.EoASFotPoTDPCC/">Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite</a></li>
@@ -117,9 +84,39 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF,
+      author            = "Qifeng Lyu and Yalun Wang and Dongjian Chen and Shiyuan Liu and Justin Mbabazi and Pinghua Zhu and Jiquan Lu and Shaowei Wang and Fengxiang Yin",
+      title             = "Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam",
+      doi               = "10.1016/j.cemconcomp.2025.105926",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "157",
+      pages             = "105926",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Lyu, “Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam”, <i>Cement and Concrete Composites</i>, vol. 157, p. 105926, 2025, doi: 10.1016/j.cemconcomp.2025.105926.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lyu, Qifeng, Yalun Wang, Dongjian Chen, Shiyuan Liu, Justin Mbabazi, Pinghua Zhu, Jiquan Lu, Shaowei Wang, and Fengxiang Yin. “Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam”. <i>Cement and Concrete Composites</i> 157 (2025): 105926. https://doi.org/10.1016/j.cemconcomp.2025.105926.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

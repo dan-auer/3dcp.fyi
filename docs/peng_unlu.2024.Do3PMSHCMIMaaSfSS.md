@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiming Peng, Cise Unluer
+    - footer
+title: Peng Yiming, Unluer Cise
 description:
 tags:
  - cement
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/17452759.2024.2382173) Development of 3D Printed Magnesium-Silicate-Hydrate-Cement Mixes Involving Metakaolin as a Substitute for Silica-Source ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1080/17452759.2024.2382173" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2382173</a>
+#Development of 3D Printed Magnesium-Silicate-Hydrate-Cement Mixes Involving Metakaolin as a Substitute for Silica-Source ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2382173) <a href="https://doi.org/10.1080/17452759.2024.2382173" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2382173" target="_blank">10.1080/17452759.2024.2382173</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_yiming"><b>Peng</b>&nbsp;Yiming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unluer_cise"><b>Unluer</b>&nbsp;Cise</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a> <a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#development`](keyword/development)
-    [`#hydration`](keyword/hydration)
-    [`#magnesium`](keyword/magnesium)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#silica`](keyword/silica)
-    [`#source`](keyword/source)
-    [`#substitution`](keyword/substitution)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/source"><button class="btn">#source</button></a> <a href="../../keyword/substitution"><button class="btn">#substitution</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printed%20Magnesium-Silicate-Hydrate-Cement%20Mixes%20Involving%20Metakaolin%20as%20a%20Substitute%20for%20Silica-Source" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199546764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400972277" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2382173" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2382173?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The printability of MgO-SiO2 cement pastes involving the use of microsilica (MS) and metakaolin (MK) as a SiO2 source was thoroughly investigated. Fresh properties, including rheology and early-age strength, mechanical properties and microstructures of pastes incorporating different contents of MK were presented and analyzed. Amongst samples studied, those containing 5% MK as a substitute for MS exhibited the highest static yield stress, and fastest re-flocculation and structuration rates, resulting in the best buildability. Although the inclusion of 10% MK resulted in enhanced paste strength at 7 and 28 days, increased MK content impeded paste printability due to diminished formation of hydrate phases. Use of 5% MK led to higher M-S-H generation compared to other samples at 28 days, contributing to subsequent strength development. Results demonstrated that optimisation of the MK content in MgO-SiO2 pastes can yield satisfactory mechanical strengths without compromising printability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
@@ -90,10 +69,40 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
       <li><a href="../../../author/akturk_busra"><b>Aktürk</b> Büşra</a>, <a href="../../../author/ertugrul_onur"><b>Ertuğrul</b> Onur</a>, <a href="../../../author/ozen_can_omer"><b>Özen</b> Ömer</a>, <a href="../../../author/oktay_didem"><b>Oktay</b> Didem</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../aktu_ertu_ozen_okta.2025.IoNSaRMoRP3PaMPoOPSCASBM/">Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{peng_unlu.2024.Do3PMSHCMIMaaSfSS,
+      author            = "Yiming Peng and Cise Unluer",
+      title             = "Development of 3D Printed Magnesium-Silicate-Hydrate-Cement Mixes Involving Metakaolin as a Substitute for Silica-Source",
+      doi               = "10.1080/17452759.2024.2382173",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Peng  and C. Unluer, “Development of 3D Printed Magnesium-Silicate-Hydrate-Cement Mixes Involving Metakaolin as a Substitute for Silica-Source”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2382173.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Peng, Yiming, and Cise Unluer. “Development of 3D Printed Magnesium-Silicate-Hydrate-Cement Mixes Involving Metakaolin as a Substitute for Silica-Source”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2382173.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

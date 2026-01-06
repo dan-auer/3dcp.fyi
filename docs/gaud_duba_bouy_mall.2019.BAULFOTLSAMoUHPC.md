@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nadja Gaudillière-Jami, Romain Duballet, Charles Bouyssou, Alban Mallet, Philippe Roux, Mahriz Zakeri, Justin Dirrenberger
+    - footer
+title: Gaudillière-Jami Nadja, Duballet Romain, Bouyssou Charles, Mallet Alban, Roux Philippe, Zakeri Mahriz, Dirrenberger Justin
 description:
 tags:
  - additive
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.archives-ouvertes.fr/hal-02088122/file/PIMM-Gaudilliere-3DCP-2019.pdf) Building Applications Using Lost Formworks Obtained Through Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/b978-0-12-815481-6.00003-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-12-815481-6.00003-8</a>
+#Building Applications Using Lost Formworks Obtained Through Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete ([2019-02](date/2019/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-02088122/file/PIMM-Gaudilliere-3DCP-2019.pdf) <a href="https://doi.org/10.1016/b978-0-12-815481-6.00003-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00003-8" target="_blank">10.1016/b978-0-12-815481-6.00003-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b>&nbsp;Nadja</a></span>, <a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b>&nbsp;Charles</a></span>, <a href="../../../author/mallet_alban"><b>Mallet</b>&nbsp;Alban</a></span>, <a href="../../../author/roux_philippe"><b>Roux</b>&nbsp;Philippe</a></span>, <a href="../../../author/zakeri_mahriz"><b>Zakeri</b>&nbsp;Mahriz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span><br>
+Contribution - 3D Concrete Printing Technology, pp. 37-58
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>
-,     <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>
-,     <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a>
-,     <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>
-,     <a href="../../../author/zakeri_mahriz"><b>Zakeri</b> Mahriz</a>
-,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing Technology, pp. 37-58
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#height`](keyword/height)
-    [`#large`](keyword/large)
-    [`#loss`](keyword/loss)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#performance`](keyword/performance)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/loss"><button class="btn">#loss</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Building%20Applications%20Using%20Lost%20Formworks%20Obtained%20Through%20Large-Scale%20Additive%20Manufacturing%20of%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85066988151&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2915124640" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-12-815481-6.00003-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-12-815481-6.00003-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this chapter a new additive manufacturing (AM) processing route is introduced for ultra-high-performance concrete. Interdisciplinary work involving materials science, computation, robotics, architecture, and design resulted in the development of an innovative way of 3D cementitious material printing. The 3D printing process involved is based on a fused deposition modeling-like technique, in the sense that a material is deposited layer by layer through an extrusion printhead mounted on a six-axis robotic arm. The mechanical properties of 3D-printed materials are then assessed. The proposed technology succeeds in solving many of the problems that can be found in the literature. Most notably, this process allows the production of 3D large-scale complex geometries without the use of temporary supports, as opposed to 2.5D examples found in the literature for 3D concrete printing. Architectural cases of application are used as examples in order to demonstrate the potentialities of this innovative technology. Two structural elements were produced and constitute some of the largest 3D-printed concrete parts available until now. Multifunctionality was enabled for both structural elements by taking advantage of the complex geometry which can be achieved using our technology for large-scale AM.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../duba_bave_dirr.2018.DoSTBIWfRFiC/">Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete</a></li>
@@ -83,8 +55,8 @@ tags:
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../mesn_duba_bave.2025.SAo3P/">Structural Applications of 3D Printing</a></li>
       <li><a href="../../../author/rycke_klaas"><b>Rycke</b> Klaas</a>, <a href="../../../author/bourriche_meriem"><b>Bourriche</b> Meriem</a>, <a href="../../../author/daffner_tim"><b>Daffner</b> Tim</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ryck_bour_daff.2024.CitME/">Construction in the Modern Era</a></li>
@@ -108,4 +80,34 @@ tags:
       <li><a href="../../../author/grigoryan_a_erik"><b>Grigoryan</b> Erik</a>, <a href="../../../author/semenova_d_m"><b>Semenova</b> M.</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../grig_seme.2020.AotCPbUaHRwIN/">Automation of the Construction Process by Using a Hinged Robot with Interchangeable Nozzles</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gaud_duba_bouy_mall.2019.BAULFOTLSAMoUHPC,
+      author            = "Nadja Gaudillière-Jami and Romain Duballet and Charles Bouyssou and Alban Mallet and Philippe Roux and Mahriz Zakeri and Justin Dirrenberger",
+      title             = "Building Applications Using Lost Formworks Obtained Through Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete",
+      doi               = "10.1016/b978-0-12-815481-6.00003-8",
+      year              = "2019",
+      pages             = "37--58",
+      booktitle         = "3D Concrete Printing Technology: Construction and Building Applications",
+      editor            = "Jay Gnananandan Sanjayan and Ali Nazari and Behzad Nematollahi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Gaudillière-Jami, “Building Applications Using Lost Formworks Obtained Through Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete”, in <i>3D Concrete Printing Technology: Construction and Building Applications</i>,  2019, pp. 37–58. doi: 10.1016/b978-0-12-815481-6.00003-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gaudillière-Jami, Nadja, Romain Duballet, Charles Bouyssou, Alban Mallet, Philippe Roux, Mahriz Zakeri, and Justin Dirrenberger. “Building Applications Using Lost Formworks Obtained Through Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete”. In <i>3D Concrete Printing Technology: Construction and Building Applications</i>, edited by Jay Gnananandan Sanjayan, Ali Nazari, and Behzad Nematollahi, 37–58, 2019. https://doi.org/10.1016/b978-0-12-815481-6.00003-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

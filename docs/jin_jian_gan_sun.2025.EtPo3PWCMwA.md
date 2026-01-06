@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuan Jin, Chengzhi Jiang, Xingyu Gan, Zhaoyang Sun, Mingxu Chen, Lingchao Lu, Binmeng Chen
+    - footer
+title: Jin Yuan, Jiang Chengzhi, Gan Xingyu, Sun Zhaoyang, Chen Mingxu, Lu Lingchao, Chen Binmeng
 description:
 tags:
  - accelerator
@@ -20,39 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>:aca-blank: Evolution of Early-Age Hydration and Rheology ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.jobe.2025.113480" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113480</a>
+#Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Evolution of Early-Age Hydration and Rheology</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113480" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113480" target="_blank">10.1016/j.jobe.2025.113480</a>
 
--------------------------
+<a href="../../../author/jin_yuan"><b>Jin</b>&nbsp;Yuan</a></span>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b>&nbsp;Chengzhi</a></span>, <a href="../../../author/gan_xingyu"><b>Gan</b>&nbsp;Xingyu</a></span>, <a href="../../../author/sun_zhaoyang"><b>Sun</b>&nbsp;Zhaoyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span>, <a href="../../../author/chen_binmeng"><b>Chen</b>&nbsp;Binmeng</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113480
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>
-,     <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>
-,     <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>
-,     <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>
-,     <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113480
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#age`](keyword/age)
-    [`#cement`](keyword/cement)
-    [`#early`](keyword/early)
-    [`#enhancement`](keyword/enhancement)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#hydration`](keyword/hydration)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#white`](keyword/white)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/white"><button class="btn">#white</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20the%20Printability%20of%203D%20Printed%20White%20Cementitious%20Materials%20with%20Accelerators" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011140732&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6921861575" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113480" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113480?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The uncontrollable setting time of white Portland cement restricts its application in 3D printed architectural decoration field. This study systematically investigated the effect of aluminum sulfate (AS) on the early-age rheological properties, hydration kinetics and structural build-up of 3D printed white cementitious materials (3DPWCMs). AS enhanced the dynamic, static yield stress (SYS) and thixotropy as well as structural stability of 3DPWCMs, among which 2% was considered as the optimized content due to moderate yield stress and reduced structure deformation. This improvement is attributed to accelerated formation of C-S-H gel and ettringite, driven by faster hydration of C3A and C3S with AS. In addition, a strong correlation was observed between bound water content and rheological properties evolution of 3DPWCMs with 2% AS over 50 min. Elastic modulus was found to be more reliable for predicting the printability of 3DPWCMs with AS. These findings offer mechanistic insights into the interaction between hydration and rheology during the critical early stage of 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/nugraha_agung_joshua"><b>Nugraha</b> Joshua</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../bash_nugr_rehm_choi.2024.SaYSCoHAACCfUR3CP/">Structuration and Yield Strength Characterization of Hybrid Alkali-Activated Cement Composites for Ultra-Rapid 3D Construction Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_chen_schl.2023.DEACIBo3PC/">Does Early-Age Creep Influence Buildability of 3D Printed Concrete?:<br/>Insights from Numerical Simulations</a></li>
@@ -105,8 +77,37 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jin_jian_gan_sun.2025.EtPo3PWCMwA,
+      author            = "Yuan Jin and Chengzhi Jiang and Xingyu Gan and Zhaoyang Sun and Mingxu Chen and Lingchao Lu and Binmeng Chen",
+      title             = "Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators: Evolution of Early-Age Hydration and Rheology",
+      doi               = "10.1016/j.jobe.2025.113480",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113480",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jin, “Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators: Evolution of Early-Age Hydration and Rheology”, <i>Journal of Building Engineering</i>, p. 113480, 2025, doi: 10.1016/j.jobe.2025.113480.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jin, Yuan, Chengzhi Jiang, Xingyu Gan, Zhaoyang Sun, Mingxu Chen, Lingchao Lu, and Binmeng Chen. “Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators: Evolution of Early-Age Hydration and Rheology”. <i>Journal of Building Engineering</i>, 2025, 113480. https://doi.org/10.1016/j.jobe.2025.113480.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

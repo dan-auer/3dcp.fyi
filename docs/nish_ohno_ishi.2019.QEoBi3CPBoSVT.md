@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Keisuke Nishijo, Motohiro Ohno, Tetsuya Ishida
+    - footer
+title: Nishijo Keisuke, Ohno Motohiro, Ishida Tetsuya
 description:
 tags:
  - base
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test ([2019-12](date/2019/12))
-<a href="https://doi.org/10.1007/978-981-15-8079-6_174" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-15-8079-6_174</a>
+#Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test ([2019-12](date/2019/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-15-8079-6_174" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-8079-6_174" target="_blank">10.1007/978-981-15-8079-6_174</a>
 
--------------------------
+<a href="../../../author/nishijo_keisuke"><b>Nishijo</b>&nbsp;Keisuke</a></span>, <a href="../../../author/ohno_motohiro"><b>Ohno</b>&nbsp;Motohiro</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ishida_tetsuya"><b>Ishida</b>&nbsp;Tetsuya</a></span><br>
+Contribution - Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction, pp. 1891-1901
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nishijo_keisuke"><b>Nishijo</b> Keisuke</a>
-,     <a href="../../../author/ohno_motohiro"><b>Ohno</b> Motohiro</a>
-,     <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction, pp. 1891-1901
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#print`](keyword/print)
-    [`#quantity`](keyword/quantity)
-    [`#shear`](keyword/shear)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Evaluation%20of%20Buildability%20in%203D%20Concrete%20Printing%20Based%20on%20Shear-Vane-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104128439&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,25 +38,21 @@ tags:
 <a href="https://inciteful.xyz/p/W3117625832" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-15-8079-6_174" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-15-8079-6_174?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While the slump test is widely used in conventional in situ concrete construction, no field test has yet been proposed for additive manufacturing of cementitious materials. In the extrusion-based 3D printing technology, one of the important material characteristics is buildability; when deposited fresh mortar is not stiff enough, the 3D printed object could collapse during the printing process, resulting in a limited number of buildable layers. The buildability is likely to depend on environmental conditions. Therefore, to apply the innovative 3D concrete printing technology to in situ field construction, the buildability of materials on site under varying temperature and humidity needs to be evaluated. In this research, the applicability of an evaluation method of buildability based on shear strength has been studied. The shear strength of fresh cement mortar is measured by shear vane test, which can be easily conducted on site. At an arbitrary point of the 3D printed structure, the shear stress is calculated based on the self-weight of upper layers. By comparing the strength and applied stress, potential risks of collapsing can be evaluated over the entire object and the maximum buildable height can be predicted. To verify the evaluation method, square thin-walled structures were printed by using a 3D concrete printer and the actual pintable height observed was compared with the prediction. The objects were printed with varying test parameters, including temperature conditions of 10 and 20 °C, three mix designs of cement mortar, and different sizes of 3D printers. The shear vane test was conducted under each condition during the printing process. The result showed that the evaluation method significantly underestimates the actual printable height. The discrepancy might be attributed to the significant amount of air voids in deposited filaments and to accelerated setting of fresh mortar due to moisture evaporation in the printed object.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_ik-gyeom"><b>Kim</b> Ik-Gyeom</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kim_kim.2024.EtIotPPotSBUitCo3CP/">Exploring the Impact of the Pumping Process on the Structural Build-Up in the Context of 3D Concrete Printing</a></li>
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_ik-gyeom"><b>Kim</b> Ik-Gyeom</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../rehm_kim_kim.2024.TFAi3CPC/">Towards Full Automation in 3D Concrete Printing Construction:<br/>Development of an Automated and In-Line Test-Method for In-Situ Assessment of Structural Build-Up and Quality of Concrete</a></li>
@@ -83,4 +62,35 @@ tags:
       <li><a href="../../../author/nishijo_keisuke"><b>Nishijo</b> Keisuke</a>, <a href="../../../author/ohno_motohiro"><b>Ohno</b> Motohiro</a>, <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../nish_ohno_ishi.2022.DoCMwCSHC/">Development of Cementitious Metamaterial with Compressive Strain-Hardening Characteristics</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nish_ohno_ishi.2019.QEoBi3CPBoSVT,
+      author            = "Keisuke Nishijo and Motohiro Ohno and Tetsuya Ishida",
+      title             = "Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test",
+      doi               = "10.1007/978-981-15-8079-6_174",
+      year              = "2019",
+      volume            = "101",
+      pages             = "1891--1901",
+      booktitle         = "Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction",
+      editor            = "Chien Ming Wang and Vinh Dao and Sritawat Kitipornchai",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Nishijo, M. Ohno and T. Ishida, “Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test”, in <i>Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction</i>,  2019, vol. 101, pp. 1891–1901. doi: 10.1007/978-981-15-8079-6_174.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nishijo, Keisuke, Motohiro Ohno, and Tetsuya Ishida. “Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test”. In <i>Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction</i>, edited by Chien Ming Wang, Vinh Dao, and Sritawat Kitipornchai, 101:1891–1901, 2019. https://doi.org/10.1007/978-981-15-8079-6_174.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ben Li, Kaihang Li, Xuetao Lyu, Canhao Zhao, Xianzhang Guan
+    - footer
+title: Li Ben, Li Kaihang, Lyu Xuetao, Zhao Canhao, Guan Xianzhang
 description:
 tags:
  - basalt
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e04087) Microscopic Mechanism and Predicting Calculation on Mechanical Properties of Basalt-Fiber-Modified 3D Printing Cement-Based Materials ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.cscm.2024.e04087" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e04087</a>
+#Microscopic Mechanism and Predicting Calculation on Mechanical Properties of Basalt-Fiber-Modified 3D Printing Cement-Based Materials ([2024-12](date/2024/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e04087) <a href="https://doi.org/10.1016/j.cscm.2024.e04087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e04087" target="_blank">10.1016/j.cscm.2024.e04087</a>
 
--------------------------
+<a href="../../../author/li_ben"><b>Li</b>&nbsp;Ben</a></span>, <a href="../../../author/li_kaihang"><b>Li</b>&nbsp;Kaihang</a></span>, <a href="../../../author/lyu_xuetao"><b>Lyu</b>&nbsp;Xuetao</a></span>, <a href="../../../author/zhao_canhao"><b>Zhao</b>&nbsp;Canhao</a></span>, <a href="../../../author/guan_xianzhang"><b>Guan</b>&nbsp;Xianzhang</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04087
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_ben"><b>Li</b> Ben</a>
-,     <a href="../../../author/li_kaihang"><b>Li</b> Kaihang</a>
-,     <a href="../../../author/lyu_xuetao"><b>Lyu</b> Xuetao</a>
-,     <a href="../../../author/zhao_canhao"><b>Zhao</b> Canhao</a>
-,     <a href="../../../author/guan_xianzhang"><b>Guan</b> Xianzhang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04087
-
-:aca-blank:{ .lg .middle}
-    [`#basalt`](keyword/basalt)
-    [`#base`](keyword/base)
-    [`#calculation`](keyword/calculation)
-    [`#cement`](keyword/cement)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#mechanism`](keyword/mechanism)
-    [`#micro`](keyword/micro)
-    [`#modification`](keyword/modification)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/calculation"><button class="btn">#calculation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Microscopic%20Mechanism%20and%20Predicting%20Calculation%20on%20Mechanical%20Properties%20of%20Basalt-Fiber-Modified%203D%20Printing%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211143840&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405088454" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e04087" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e04087?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focuses on the modification and intelligent-digital control of 3D printing materials. Based on the significant effect of basalt fiber in improving toughness, the influence mechanism of basalt fiber substitution rate, length and other factors on the macroscopic properties and microstructure scores of 3D printing cement-based materials was explored. The results show that under the combined effect of basalt fiber length and content, the optimal improvement is achieved with 3% content and 8 mm length, increasing the flexural strength and compressive strength by 10.21% (28 days) and 13.11% (28 days), respectively. And the structure has been optimised at the micro level with an increase in type II gels. Also further use of microdata, through data fusion and refined analysis, a model (R2>0.85, error<10%) and intelligent control method that can comprehensively and accurately predict the service performance of basalt fiber modified 3D printing cement-based materials are established, which provides new development ideas for the intelligent construction and design of future building structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
@@ -99,10 +71,39 @@ tags:
       <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../yan_zeng_zhug_liao.2023.CBoFC3PUHPCC/">Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_li_lyu_zhao.2024.MMaPCoMPoBFM3PCBM,
+      author            = "Ben Li and Kaihang Li and Xuetao Lyu and Canhao Zhao and Xianzhang Guan",
+      title             = "Microscopic Mechanism and Predicting Calculation on Mechanical Properties of Basalt-Fiber-Modified 3D Printing Cement-Based Materials",
+      doi               = "10.1016/j.cscm.2024.e04087",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04087",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Li, K. Li, X. Lyu, C. Zhao and X. Guan, “Microscopic Mechanism and Predicting Calculation on Mechanical Properties of Basalt-Fiber-Modified 3D Printing Cement-Based Materials”, <i>Case Studies in Construction Materials</i>, p. e04087, 2024, doi: 10.1016/j.cscm.2024.e04087.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Ben, Kaihang Li, Xuetao Lyu, Canhao Zhao, and Xianzhang Guan. “Microscopic Mechanism and Predicting Calculation on Mechanical Properties of Basalt-Fiber-Modified 3D Printing Cement-Based Materials”. <i>Case Studies in Construction Materials</i>, 2024, e04087. https://doi.org/10.1016/j.cscm.2024.e04087.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

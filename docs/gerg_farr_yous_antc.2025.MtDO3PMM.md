@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Isabelle Gerges, Faten Farraj, Nicolas Youssef, Emmanuel Antczak, Fadi Chehade
+    - footer
+title: Gerges Isabelle, Farraj Faten, Youssef Nicolas, Antczak Emmanuel, Chehade Fadi
 description:
 tags:
  - design
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/14/2497/pdf?version=1752667337) Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>:aca-blank: A Review ([2025-07](date/2025/07))
-<a href="https://doi.org/10.3390/buildings15142497" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15142497</a>
+#Methodologies to Design Optimum 3D Printable Mortar Mix&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/14/2497/pdf?version=1752667337) <a href="https://doi.org/10.3390/buildings15142497" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15142497" target="_blank">10.3390/buildings15142497</a>
 
--------------------------
+<a href="../../../author/gerges_isabelle"><b>Gerges</b>&nbsp;Isabelle</a></span>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b>&nbsp;Faten</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3171-0470" title="ORCID: 0000-0003-3171-0470" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youssef_nicolas"><b>Youssef</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7486-2031" title="ORCID: 0000-0001-7486-2031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/antczak_emmanuel"><b>Antczak</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/chehade_hage_fadi"><b>Chehade</b>&nbsp;Fadi</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 14, No. 2497
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>
-,     <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>
-,     <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3171-0470" title="ORCID: 0000-0003-3171-0470" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-7486-2031" title="ORCID: 0000-0001-7486-2031" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chehade_hage_fadi"><b>Chehade</b> Fadi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 14, No. 2497
-
-:aca-blank:{ .lg .middle}
-    [`#design`](keyword/design)
-    [`#method`](keyword/method)
-    [`#mixing`](keyword/mixing)
-    [`#mortar`](keyword/mortar)
-    [`#optimization`](keyword/optimization)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Methodologies%20to%20Design%20Optimum%203D%20Printable%20Mortar%20Mix" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011648313&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412476578" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15142497" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15142497?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nowadays, 3D printing has revolutionized the construction and building industry, enabling researchers to push the boundaries of creating structural components with this innovative technique. A key factor for the success of this approach lies in selecting the optimal mix design, which must possess suitable properties for printing while ensuring strong performance once hardened. However, achieving this optimal mix is complex due to limited knowledge regarding the necessary fresh-state properties, the characteristics and proportions of the constituents, the influence of printing parameters on these properties, and the various challenges encountered during and post printing. This paper aims to address these aspects by offering a comprehensive review of the steps researchers have taken to develop an optimized 3D printable mix.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "111 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ahme_giwa_game_arce.2024.ARDLSAM/">Automated Reinforcement During Large-Scale Additive Manufacturing:<br/>Structural-Assessment of a Dual Approach</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
@@ -178,7 +157,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gerg_farr_yous_antc.2025.MtDO3PMM,
+      author            = "Isabelle Gerges and Faten Abi Farraj and Nicolas Youssef and Emmanuel Antczak and Fadi Hage Chehade",
+      title             = "Methodologies to Design Optimum 3D Printable Mortar Mix: A Review",
+      doi               = "10.3390/buildings15142497",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "14",
+      pages             = "2497",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Gerges, F. A. Farraj, N. Youssef, E. Antczak and F. H. Chehade, “Methodologies to Design Optimum 3D Printable Mortar Mix: A Review”, <i>Buildings</i>, vol. 15, no. 14, p. 2497, 2025, doi: 10.3390/buildings15142497.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gerges, Isabelle, Faten Abi Farraj, Nicolas Youssef, Emmanuel Antczak, and Fadi Hage Chehade. “Methodologies to Design Optimum 3D Printable Mortar Mix: A Review”. <i>Buildings</i> 15, no. 14 (2025): 2497. https://doi.org/10.3390/buildings15142497.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

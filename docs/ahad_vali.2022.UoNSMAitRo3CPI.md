@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bahram Ahadi, María Valiente López
+    - footer
+title: Ahadi Bahram, Valiente López María
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry ([2022-11](date/2022/11))
-<a href="https://doi.org/10.21125/iceri.2022.1898" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21125/iceri.2022.1898</a>
+#Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.21125/iceri.2022.1898" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21125/iceri.2022.1898" target="_blank">10.21125/iceri.2022.1898</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5043-2990" title="ORCID: 0000-0002-5043-2990" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahadi_bahram"><b>Ahadi</b>&nbsp;Bahram</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8643-7921" title="ORCID: 0000-0001-8643-7921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b>&nbsp;María</a></span><br>
+Contribution - Proceedings, pp. 7470-7479
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a> <a href="https://orcid.org/0000-0002-5043-2990" title="ORCID: 0000-0002-5043-2990" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="https://orcid.org/0000-0001-8643-7921" title="ORCID: 0000-0001-8643-7921" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings, pp. 7470-7479
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shape`](keyword/shape)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Nitinol-Shape%20Memory%20Alloy%20in%20the%20Reinforcement%20of%203D%20Concrete%20Printing%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4310049480" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21125/iceri.2022.1898" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21125/iceri.2022.1898?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing method in structures with respect to its numerous benefits such as being faster, cheaper, safer, eco-friendly and also its ability to print complicated shapes will be the dominant constructing method in future of the construction industry. One of the challenges which this method should overcome to reach this position is to show an acceptance structural behaviour against applied loads, especially seismic loads. In conventional structures, steel bars, stirrups and meshes are also used to help concrete to increase its tensile, shear and flexural capacity; These materials are in 3D concrete printing industry, too. Setting up experimental studies always are not possible due to some factors such as, lack of special materials, cost effects, time consumption of a real experiment and etc. Software simulations are suitable options in order to be replaced with experimental studies in some cases. In this study, we are going to use ABAQUS finite-element software and explain the path of simulation in the study of reinforcement of 3D concrete printing. To evaluate the result of software simulations, an experimental study in the in-process reinforcement of 3D concrete printing was selected. The model, was made in ABAQUS finite-element software with the same characteristics. Path of making the model, properties and load conditions are explained. After analyzing and verifying our model with the related experimental study, a new reinforcement material, nitinol shape memory alloy is proposed.The model was analyzed with the new material and results were compared. At the end of this study, we will see that software simulations have potential to prevent spending too much time and costs in some cases and reliable results will be presented
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
@@ -79,8 +61,38 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ahad_vali.2025.ZRMf3CP/">Zigzag Reinforcement Method for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ahad_vali.2022.UoNSMAitRo3CPI,
+      author            = "Bahram Ahadi and María Mercedes Valiente López",
+      title             = "Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry",
+      doi               = "10.21125/iceri.2022.1898",
+      year              = "2022",
+      pages             = "7470--7479",
+      booktitle         = "Proceedings",
+      editor            = "Luis Gómez Chova and Agustín López Martínez and Ignacio Candel Torres",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Ahadi  and M. M. V. López, “Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry”, in <i>Proceedings</i>,  2022, pp. 7470–7479. doi: 10.21125/iceri.2022.1898.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahadi, Bahram, and María Mercedes Valiente López. “Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry”. In <i>Proceedings</i>, edited by Luis Gómez Chova, Agustín López Martínez, and Ignacio Candel Torres, 7470–79, 2022. https://doi.org/10.21125/iceri.2022.1898.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

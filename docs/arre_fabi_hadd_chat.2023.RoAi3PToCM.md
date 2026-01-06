@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manon Arrêteau, Aurélie Fabien, Badreddine Haddaji, Daniel Chateigner, Mohammed Sonebi, Nassim Sebaibi
+    - footer
+title: Arrêteau Manon, Fabien Aurélie, Haddaji Badreddine, Chateigner Daniel, Sonebi Mohammed, Sebaibi Nassim
 description:
 tags:
  - advance
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/7/1828/pdf?version=1689767197) Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>:aca-blank: Key Printing Parameters and Properties Characterization ([2023-07](date/2023/07))
-<a href="https://doi.org/10.3390/buildings13071828" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13071828</a>
+#Review of Advances in 3D Printing Technology of Cementitious Materials&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">Key Printing Parameters and Properties Characterization</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/7/1828/pdf?version=1689767197) <a href="https://doi.org/10.3390/buildings13071828" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13071828" target="_blank">10.3390/buildings13071828</a>
 
--------------------------
+<a href="../../../author/arreteau_manon"><b>Arrêteau</b>&nbsp;Manon</a></span>, <a href="../../../author/fabien_aurelie"><b>Fabien</b>&nbsp;Aurélie</a></span>, <a href="../../../author/haddaji_badreddine"><b>el&nbsp;Haddaji</b>&nbsp;Badreddine</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7792-8702" title="ORCID: 0000-0001-7792-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chateigner_daniel"><b>Chateigner</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1241-2745" title="ORCID: 0000-0002-1241-2745" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sebaibi_nassim"><b>Sebaibi</b>&nbsp;Nassim</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 7, No. 1828
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>
-,     <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>
-,     <a href="../../../author/haddaji_badreddine"><b>el Haddaji</b> Badreddine</a>
-,     <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> <a href="https://orcid.org/0000-0001-7792-8702" title="ORCID: 0000-0001-7792-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a> <a href="https://orcid.org/0000-0002-1241-2745" title="ORCID: 0000-0002-1241-2745" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 7, No. 1828
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#material`](keyword/material)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Review%20of%20Advances%20in%203D%20Printing%20Technology%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166230396&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4384929489" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13071828" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13071828?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The field of 3D printing is in rapid evolution. The 3D printing technology applied to civil engineering is a promising advancement. From equipment and mixture design to testing methods, new developments are popping up to respond to specific demands either for the fresh or hardened state. Standardizing methods are still at an early age. For this reason, there is a multitude of 3D printers with different capabilities to print cementitious materials. In addition, norms are not applicable in 3D printing material science. Advances are being made to create new methods of testing. The key parameters of this new 3D printing process based on stratification, multiple uses of binders, and measurement at fresh and hardened states are being perfected to achieve an industrial application. This article gives an overview of how 3D-printed structures are made along with critical parameters that influence their performances. Our review suggests that the quality of the 3D prints is determined by the printing method, key printing parameters, and the mix design. We list different tests to help characterize these 3D-printed cementitious materials at the fresh state and to assess their performances at the hardened state. We aim throughout this work to give a state-of-the-art of recent advances in 3D printing technology. This could help for a better understanding of cementitious materials 3D printing for current and future related research work.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "106 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -178,11 +154,42 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../harb_yahi_rozi_louk.2025.ST/">Squeeze Test:<br/>A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b> Pedro</a>, <a href="../../../author/valenzuela-astudillo_eduardo"><b>Valenzuela-Astudillo</b> Eduardo</a>, <a href="../../../author/martuffi-lazo_daniela"><b>Martuffi-Lazo</b> Daniela</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../garc_soza_vale_mart.2024.DoaGDSf3PHiC/">Development of a Generative Design System for 3D Printed Houses in Chile</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{arre_fabi_hadd_chat.2023.RoAi3PToCM,
+      author            = "Manon Arrêteau and Aurélie Fabien and Badreddine El Haddaji and Daniel Chateigner and Mohammed Sonebi and Nassim Sebaibi",
+      title             = "Review of Advances in 3D Printing Technology of Cementitious Materials: Key Printing Parameters and Properties Characterization",
+      doi               = "10.3390/buildings13071828",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "7",
+      pages             = "1828",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Arrêteau, A. Fabien, B. E. Haddaji, D. Chateigner, M. Sonebi and N. Sebaibi, “Review of Advances in 3D Printing Technology of Cementitious Materials: Key Printing Parameters and Properties Characterization”, <i>Buildings</i>, vol. 13, no. 7, p. 1828, 2023, doi: 10.3390/buildings13071828.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Arrêteau, Manon, Aurélie Fabien, Badreddine El Haddaji, Daniel Chateigner, Mohammed Sonebi, and Nassim Sebaibi. “Review of Advances in 3D Printing Technology of Cementitious Materials: Key Printing Parameters and Properties Characterization”. <i>Buildings</i> 13, no. 7 (2023): 1828. https://doi.org/10.3390/buildings13071828.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

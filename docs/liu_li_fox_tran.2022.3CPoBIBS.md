@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junli Liu, Shuai Li, Kate Fox, Jonathan Tran
+    - footer
+title: Liu Junli, Li Shuai, Fox Kate, Tran Jonathan
 description:
 tags:
  - bio
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing of Bio-Inspired Bouligand Structure:<br/>:aca-blank: A Study on Impact-Resistance ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.addma.2021.102544" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2021.102544</a>
+#3D Concrete Printing of Bio-Inspired Bouligand Structure&nbsp;([2021-12](date/2021/12))
+<div class="h1-like">A Study on Impact-Resistance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2021.102544" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102544" target="_blank">10.1016/j.addma.2021.102544</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junli"><b>Liu</b>&nbsp;Junli</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shuai"><b>Li</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8090-3215" title="ORCID: 0000-0001-8090-3215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fox_kate"><b>Fox</b>&nbsp;Kate</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 50
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_junli"><b>Liu</b> Junli</a> <a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_shuai"><b>Li</b> Shuai</a> <a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> <a href="https://orcid.org/0000-0001-8090-3215" title="ORCID: 0000-0001-8090-3215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 50, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bio`](keyword/bio)
-    [`#bouligand`](keyword/bouligand)
-    [`#concrete`](keyword/concrete)
-    [`#inspiration`](keyword/inspiration)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20of%20Bio-Inspired%20Bouligand%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120666948&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200471747" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2021.102544" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2021.102544?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     For extrusion-based 3D concrete printing, research work on mechanical properties mainly focuses on static behaviour, whereas dynamic performance has been rarely reported. Meanwhile, biomimicry is getting increasing interests in the field of 3D concrete printing, due to its advantage of improving structural properties and optimising material usage by learning from nature. Inspired by the Bouligand structure in the dactyl club of mantis shrimp, this study explored the impact resistance of 3D-printed concrete specimens with and without steel fibres under drop weight impact tests. Four different printing patterns were designed, including the pitch angle of 0˚, 15˚, 30˚ and 45˚. For fibre-reinforced specimens, those with helicoidal patterns performed better than the one with unidirectional pattern (i.e. 0˚) in terms of impact duration, peak impact force and energy absorption. For specimens without fibres, the effect of pitch angle on the impact resistance was insignificant. The influence of pitch angle on impact resistance was more profound when specimens were incorporated with steel fibres during the printing process. Micro-CT images showed the size and geometry of internal pores were influenced by the printing pattern, thus affecting the mechanical response. Meanwhile, fibre-reinforced specimens presented complex cracking mechanisms with mixed modes, including crack deflection, twisting, branching, bridging and micro-cracks. Analysis on fibre orientation revealed the fibre alignment in the direction of the toolpath, leading to effective crack-bridge actions by steel fibres as the crack propagated during the impact process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
@@ -78,7 +58,6 @@ tags:
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
-      <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../liu_nguy_pand_fox.2022.AMoSCMaFFS/">Additive Manufacturing of Sustainable Construction Materials and Form-Finding Structures:<br/>A Review on Recent Progresses</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ma_li_wang_zhan.2020.RTQoFaHMPf3PMbIwPT/">Real-Time Quantification of Fresh and Hardened Mechanical Property for 3D Printing Material by Intellectualization with Piezoelectric Transducers</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../marc_sanj.2021.RMf3CPUPCBP/">Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations</a></li>
@@ -87,7 +66,6 @@ tags:
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../nguy_pand_zhan_nguy.2021.DDCaMf3CP/">Digital Design Computing and Modelling for 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/lu_guoxing"><b>Lu</b> Guoxing</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../pham_lu_tran.2022.IoPPoMPoTDPFRC/">Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>, <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chun_liar_loot.2021.TEoNSotFaHPo3PM/">The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars</a></li>
@@ -95,8 +73,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "50 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
@@ -148,4 +126,33 @@ tags:
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_yali"><b>Li</b> Yali</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP/">Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../nguy_nguy_pand_tran.2022.3CPMoTWS/">3D Concrete Printing Modelling of Thin-Walled Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_fox_tran.2022.3CPoBIBS,
+      author            = "Junli Liu and Shuai Li and Kate Fox and Jonathan Phuong Tran",
+      title             = "3D Concrete Printing of Bio-Inspired Bouligand Structure: A Study on Impact-Resistance",
+      doi               = "10.1016/j.addma.2021.102544",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "50",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Liu, S. Li, K. Fox and J. P. Tran, “3D Concrete Printing of Bio-Inspired Bouligand Structure: A Study on Impact-Resistance”, <i>Additive Manufacturing</i>, vol. 50, 2022, doi: 10.1016/j.addma.2021.102544.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Junli, Shuai Li, Kate Fox, and Jonathan Phuong Tran. “3D Concrete Printing of Bio-Inspired Bouligand Structure: A Study on Impact-Resistance”. <i>Additive Manufacturing</i> 50 (2022). https://doi.org/10.1016/j.addma.2021.102544.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

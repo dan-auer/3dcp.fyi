@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Irshidat, Umar Amjad, Kishor Kumar, John John, Khadeejath Rizmin, Naeem Albeitjali
+    - footer
+title: Irshidat Mohammad, Amjad Umar, Kumar Kishor, John John, Rizmin Khadeejath, Albeitjali Naeem
 description:
 tags:
  - concrete
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Significance of Nozzle Parameters for 3D Printing of Concrete ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/978-3-031-92754-6_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-92754-6_15</a>
+#Significance of Nozzle Parameters for 3D Printing of Concrete ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92754-6_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92754-6_15" target="_blank">10.1007/978-3-031-92754-6_15</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9631-5485" title="ORCID: 0000-0001-9631-5485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b>&nbsp;Mohammad</a></span>, <a href="../../../author/amjad_umar"><b>Amjad</b>&nbsp;Umar</a></span>, <a href="../../../author/kumar_kishor"><b>Kumar</b>&nbsp;Kishor</a></span>, <a href="../../../author/john_john"><b>John</b>&nbsp;John</a></span>, <a href="../../../author/rizmin_khadeejath"><b>Rizmin</b>&nbsp;Khadeejath</a></span>, <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b>&nbsp;Naeem</a></span><br>
+Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering, pp. 154-162
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a> <a href="https://orcid.org/0000-0001-9631-5485" title="ORCID: 0000-0001-9631-5485" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>
-,     <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>
-,     <a href="../../../author/john_john"><b>John</b> John</a>
-,     <a href="../../../author/rizmin_khadeejath"><b>Rizmin</b> Khadeejath</a>
-,     <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering, pp. 154-162
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#nozzle`](keyword/nozzle)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#significance`](keyword/significance)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/significance"><button class="btn">#significance</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Significance%20of%20Nozzle%20Parameters%20for%203D%20Printing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009900983&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411488453" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-92754-6_15" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-92754-6_15?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nozzles play a crucial role in the 3D printing process as they are responsible for depositing the material onto the build surface in order (i.e. layer by layer). In 3D concrete printing nozzle determines the final form of the concrete as it directly influences the deposition of each layer. The size of the nozzle not only determines the proportions of the extruded concrete, such as its height and width, but also significantly affects the accuracy, resolution, and aesthetic value of the final outcome. Increasing the diameter of the nozzle increases the volume of concrete flow, leading to a faster construction process. This can greatly reduce the time required to print a structure. Nevertheless, there is a compromise in terms of a coarser surface texture and a possible decrease in the precision needed for intricate and complex building components. The coarseness of the finish may be unacceptable for certain designs where a sleek, smooth surface detailing is of utmost importance. Alternatively, using a narrower nozzle diameter can improve the 3D-printed concrete’s resolution, allowing for the acquisition of finer details and the creation of more elaborate, accurate patterns and textures. This can lead to a significantly smoother and more visually appealing surface. Nevertheless, the reduced dimensions can impede the movement of concrete, resulting in a deceleration of the printing pace and perhaps prolonging the time of the construction process. The geometrical configuration of the printing nozzle is a determinant factor in the 3D concrete printing process as it significantly affects the mechanisms of compaction and adhesion, which are vital for the construction of each layer. The shape of the nozzle has to be meticulously designed to guide the concrete deposition in a way that promotes optimal compaction. This is essential to eliminate voids or air pockets within the extruded material. These air gaps, if not addressed, can lead to a reduction in the overall density and strength of the concrete, making it more susceptible to mechanical failure and degradation over time. Additionally, the nozzle’s design (dimensions) governs the interface where new concrete meets already-deposited layers, playing a pivotal role in ensuring that each layer adheres firmly to the previous one. Strong interlayer bonding is not merely beneficial but imperative for structural integrity. The nozzle must be engineered to optimize all of these qualities, guaranteeing that every layer is effectively bonded to the adjacent one, resulting in a robust, cohesive structure that fulfills both functional and aesthetic requirements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
       <li><a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>, <a href="../../../author/jiang_xuepeng"><b>Jiang</b> Xuepeng</a>, <a href="../../../author/singh_a_amit"><b>Singh</b> Amit</a>, <a href="../../../author/li_beiwen"><b>Li</b> Beiwen</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../mani_jian_sing_li.2020.EoNGo3PoCC/">Effects of Nozzle Geometries on 3D Printing of Clay Constructs:<br/>Quantifying Contour-Deviation and Mechanical Properties</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
@@ -72,7 +51,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{irsh_amja_kuma_john.2025.SoNPf3PoC,
+      author            = "Mohammad R. Irshidat and Umar Amjad and Kishor Kumar and John John and Khadeejath Rizmin and Naeem Albeitjali",
+      title             = "Significance of Nozzle Parameters for 3D Printing of Concrete",
+      doi               = "10.1007/978-3-031-92754-6_15",
+      year              = "2025",
+      volume            = "650",
+      pages             = "154--162",
+      booktitle         = "Proceedings of the International Conferences on Digital Technology Driven Engineering",
+      editor            = "Nikos D. Lagaros and Rajai Z. Alrrousan and Khairedin M. Abdalla and Marios C. Phocas and Giuseppe Carlo Marano",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Irshidat, U. Amjad, K. Kumar, J. John, K. Rizmin and N. Albeitjali, “Significance of Nozzle Parameters for 3D Printing of Concrete”, in <i>Proceedings of the International Conferences on Digital Technology Driven Engineering</i>,  2025, vol. 650, pp. 154–162. doi: 10.1007/978-3-031-92754-6_15.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Irshidat, Mohammad R., Umar Amjad, Kishor Kumar, John John, Khadeejath Rizmin, and Naeem Albeitjali. “Significance of Nozzle Parameters for 3D Printing of Concrete”. In <i>Proceedings of the International Conferences on Digital Technology Driven Engineering</i>, edited by Nikos D. Lagaros, Rajai Z. Alrrousan, Khairedin M. Abdalla, Marios C. Phocas, and Giuseppe Carlo Marano, 650:154–62, 2025. https://doi.org/10.1007/978-3-031-92754-6_15.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

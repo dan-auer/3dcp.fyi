@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gamze Gündüz, Mine Özkar
+    - footer
+title: Gündüz Gamze, Özkar Mine
 description:
 tags:
  - adaption
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Process-Based Framework for Adaptable Modules in Robotic Clay 3D Printing ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1177/14780771231225698" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1177/14780771231225698</a>
+#A Process-Based Framework for Adaptable Modules in Robotic Clay 3D Printing ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/14780771231225698" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/14780771231225698" target="_blank">10.1177/14780771231225698</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0999-7401" title="ORCID: 0000-0003-0999-7401" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gunduz_gamze"><b>Gündüz</b>&nbsp;Gamze</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4317-9664" title="ORCID: 0000-0003-4317-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozkar_mine"><b>Özkar</b>&nbsp;Mine</a></span><br>
+Journal Article - International Journal of Architectural Computing, Vol. 22, Iss. 1, pp. 45-61
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gunduz_gamze"><b>Gündüz</b> Gamze</a> <a href="https://orcid.org/0000-0003-0999-7401" title="ORCID: 0000-0003-0999-7401" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozkar_mine"><b>Özkar</b> Mine</a> <a href="https://orcid.org/0000-0003-4317-9664" title="ORCID: 0000-0003-4317-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Architectural Computing, Vol. 22, Iss. 1, pp. 45-61
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#base`](keyword/base)
-    [`#clay`](keyword/clay)
-    [`#framework`](keyword/framework)
-    [`#modular`](keyword/modular)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Process-Based%20Framework%20for%20Adaptable%20Modules%20in%20Robotic%20Clay%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185485975&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391782200" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1177/14780771231225698" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1177/14780771231225698?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic Clay Printing (RCP) offers opportunities in sustainable architectural applications. This paper presents a framework to integrate locally sourced earth-based materials with robotic fabrication techniques while enhancing designer’s control over the process. The methodology involves two key steps: first, refining critical 3DP (3DP) control parameters to develop an informed toolpath algorithm. This algorithm grants designers’ direct control over factors like layer height and extrusion speed, enabling customization and ensuring structural integrity. Second, the framework is applied to design and RCP of an interlocking modular wall component system. Evaluation encompasses the impact of 3DP control parameters, informed toolpath planning, RCP performance, and assembly possibilities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
@@ -78,9 +58,40 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b> Zeynep</a>, <a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../iler_takv_top_gokg.2025.TEo3CPTiAD/">The Effectiveness of 3D Concrete Printing Technology in Architectural Design:<br/>Different Corner-Wall Combinations in 3D Printed Elements and Geometric Form Configurations in Residential Buildings</a></li>
       <li><a href="../../../author/giacomobono_leonardo"><b>Giacomobono</b> Leonardo</a>, <a href="../../../author/argenti_maria"><b>Argenti</b> Maria</a>, <a href="../../../author/ferretti_elena"><b>Ferretti</b> Elena</a>, <a href="../../../author/paparella_giulio"><b>Paparella</b> Giulio</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../giac_arge_ferr_papa.2024.TDPwEM/">Three-Dimensional Printing with Earthen Materials:<br/>A Settlement-Scale Design Experience</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gund_ozka.2024.APBFfAMiRC3P,
+      author            = "Gamze Gündüz and Mine Özkar",
+      title             = "A Process-Based Framework for Adaptable Modules in Robotic Clay 3D Printing",
+      doi               = "10.1177/14780771231225698",
+      year              = "2024",
+      journal           = "International Journal of Architectural Computing",
+      volume            = "22",
+      number            = "1",
+      pages             = "45--61",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Gündüz  and M. Özkar, “A Process-Based Framework for Adaptable Modules in Robotic Clay 3D Printing”, <i>International Journal of Architectural Computing</i>, vol. 22, no. 1, pp. 45–61, 2024, doi: 10.1177/14780771231225698.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gündüz, Gamze, and Mine Özkar. “A Process-Based Framework for Adaptable Modules in Robotic Clay 3D Printing”. <i>International Journal of Architectural Computing</i> 22, no. 1 (2024): 45–61. https://doi.org/10.1177/14780771231225698.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

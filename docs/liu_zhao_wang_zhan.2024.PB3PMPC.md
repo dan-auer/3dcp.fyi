@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Xi Zhao, Nan Wang, Yi Zhang, Ziheng Dai
+    - footer
+title: Liu Xiongfei, Zhao Xi, Wang Nan, Zhang Yi, Dai Ziheng
 description:
 tags:
  - base
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Powder-Based 3D Printed Magnesium Phosphate Cement:<br/>:aca-blank: Mechanical Isotropy Optimization Using Borax ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136660" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136660</a>
+#Powder-Based 3D Printed Magnesium Phosphate Cement&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">Mechanical Isotropy Optimization Using Borax</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136660" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136660" target="_blank">10.1016/j.conbuildmat.2024.136660</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/zhao_xi"><b>Zhao</b>&nbsp;Xi</a></span>, <a href="../../../author/wang_nan"><b>Wang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <a href="../../../author/dai_ziheng"><b>Dai</b>&nbsp;Ziheng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 432, No. 136660
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_xi"><b>Zhao</b> Xi</a>
-,     <a href="../../../author/wang_nan"><b>Wang</b> Nan</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_ziheng"><b>Dai</b> Ziheng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 432, No. 136660
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#magnesium`](keyword/magnesium)
-    [`#mechanics`](keyword/mechanics)
-    [`#optimization`](keyword/optimization)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Powder-Based%203D%20Printed%20Magnesium%20Phosphate%20Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193514731&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4397031288" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136660" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136660?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Mechanical isotropy is essential for improving the integrity and application of 3D printed structures. In this paper, based on the high bonding, fast-hardening, and early strengthening characteristics of magnesium phosphate cement (MPC), the exothermic rate of MPC hydration reaction is optimized by controlling the content of borax (0.5%-3%) to improve the adhesive integrity for the interlayer interface of powder-based 3D printed MPC. In addition, the physical phase components, microscopic morphology, degree of hydration, and pore structure of borax-modified powder-based 3D printed MPC are analyzed by using various microscopic characterization methods of XRD, SEM, thermal analysis, and X-CT. Experimental findings demonstrate that borax, through its influence on the hydration environment and encapsulation of the hydration film, reduces the exothermic rate of the MPC reaction, thereby enhancing the structural integrity with improved mechanical isotropy. Printed MPC specimens with 2% borax content reach compressive strengths of 10.45–11.39 MPa at 28d in the X/Y/Z directions, with an optimum mechanical isotropy index of 3.6%. Furthermore, microscopic analysis reveals that the 2% borax-modified MPC displays a denser morphology, with the main hydration product struvite enhanced by 8.53% compared to the 0% specimen. The interlayer interfaces of the printed MPC demonstrate exceptional qualities, being small and homogeneous, with 4.20% less total porosity than the unmodified group.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/chun_seung-yeop"><b>Chun</b> Seung-Yeop</a>, <a href="../../../author/kim_su-jin"><b>Kim</b> Su-jin</a>, <a href="../../../author/kim_woon-gi"><b>Kim</b> Woon-Gi</a>, <a href="../../../author/lee_geumyeon"><b>Lee</b> Geumyeon</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../chun_kim_kim_lee.2023.PBB3PwCfSC/">Powder-Bed-Based 3D Printing with Cement for Sustainable Casting</a></li>
@@ -81,7 +60,37 @@ tags:
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../sun_li_wang_ye.2023.EoMPaAo3PCaDT/">Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures</a></li>
       <li><a href="../../../author/wang_xingjian"><b>Wang</b> Xingjian</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a>, <a href="../../../author/fox_t_john"><b>Fox</b> John</a>, <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_nait_fox_bocc.2024.IoMPoPB3PCP/">Impact of Mix Proportions on Particle-Bed 3D Printed Concrete Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_zhao_wang_zhan.2024.PB3PMPC,
+      author            = "Xiongfei Liu and Xi Zhao and Nan Wang and Yi Zhang and Ziheng Dai",
+      title             = "Powder-Based 3D Printed Magnesium Phosphate Cement: Mechanical Isotropy Optimization Using Borax",
+      doi               = "10.1016/j.conbuildmat.2024.136660",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "432",
+      pages             = "136660",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, X. Zhao, N. Wang, Y. Zhang and Z. Dai, “Powder-Based 3D Printed Magnesium Phosphate Cement: Mechanical Isotropy Optimization Using Borax”, <i>Construction and Building Materials</i>, vol. 432, p. 136660, 2024, doi: 10.1016/j.conbuildmat.2024.136660.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Xi Zhao, Nan Wang, Yi Zhang, and Ziheng Dai. “Powder-Based 3D Printed Magnesium Phosphate Cement: Mechanical Isotropy Optimization Using Borax”. <i>Construction and Building Materials</i> 432 (2024): 136660. https://doi.org/10.1016/j.conbuildmat.2024.136660.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

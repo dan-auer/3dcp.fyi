@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hu Feng, Xiang Yuan, Zhenyu Yu, Aofei Guo, Xuhui Zheng, Yuyang Huang, Guosen Zhou
+    - footer
+title: Feng Hu, Yuan Xiang, Yu Zhenyu, Guo Aofei, Zheng Xuhui, Huang Yuyang, Zhou Guosen
 description:
 tags:
  - base
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.jmrt.2025.11.161" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2025.11.161</a>
+#Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jmrt.2025.11.161" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.11.161" target="_blank">10.1016/j.jmrt.2025.11.161</a>
 
--------------------------
+<a href="../../../author/feng_hu"><b>Feng</b>&nbsp;Hu</a></span>, <a href="../../../author/yuan_xiang"><b>Yuan</b>&nbsp;Xiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1646-8543" title="ORCID: 0009-0001-1646-8543" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_zhenyu"><b>Yu</b>&nbsp;Zhenyu</a></span>, <a href="../../../author/guo_aofei"><b>Guo</b>&nbsp;Aofei</a></span>, <a href="../../../author/zheng_xuhui"><b>Zheng</b>&nbsp;Xuhui</a></span>, <a href="../../../author/huang_yuyang"><b>Huang</b>&nbsp;Yuyang</a></span>, <a href="../../../author/zhou_guosen"><b>Zhou</b>&nbsp;Guosen</a></span><br>
+Journal Article - Journal of Materials Research and Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/feng_hu"><b>Feng</b> Hu</a>
-,     <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>
-,     <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a> <a href="https://orcid.org/0009-0001-1646-8543" title="ORCID: 0009-0001-1646-8543" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a>
-,     <a href="../../../author/zheng_xuhui"><b>Zheng</b> Xuhui</a>
-,     <a href="../../../author/huang_yuyang"><b>Huang</b> Yuyang</a>
-,     <a href="../../../author/zhou_guosen"><b>Zhou</b> Guosen</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#ductility`](keyword/ductility)
-    [`#height`](keyword/height)
-    [`#magnesium`](keyword/magnesium)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Rheological%20Properties%20of%203D%20Printing%20Ultra-High%20Ductility%20Magnesium%20Phosphate%20Cement-Based%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416844539" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2025.11.161" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2025.11.161?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the aim to develop a 3D printing ultra-high ductility magnesium phosphate cement-based composites (3DP-UHDMC), the effects of thixotropic agent type and dosage, magnesium-phosphate ratio (M/P), water-solid ratio (W/SO), powder-binder ratio (P/B), borax-MgO ratio (BO/M) and PE fiber volume content on the printability and rheological properties were studied. Furthermore, a correlation between printability parameters (filament width, tanθ) and rheological characteristics (yield stress, consistency coefficient) was established to predict printability under varying rheological behaviors. The optimal mixture proportion for 3DP-UHDMC was identified and a comparative analysis of the mechanical properties of cast and printed specimens was then completed. Experimental results indicated the optimum mixture proportion for 3DP-UHDMC as below: attapulgite content of 10%, M/P of 2.5, W/SO of 0.10, P/B of 0.35, BO/M of 0.3, and PE fiber volume content of 1.5%. The relationship between the filament width and the dynamic yield stress is a negative power function. The tanθ and static yield stress, as well as the spread diameter and dynamic yield stress, exhibit a negative exponential function relationship. Printability factors can be characterized by rheological parameters and optimal printability occurs within specific rheological parameters ranges: dynamic yield stress (284.87-541.09Pa), static yield stress (3379.78-4996.16Pa), and consistency coefficient (643.99-1016.41Pa·sn). Compared with cast specimens, printed specimens exhibited reduced compressive strength and lower ultimate tensile stress, yet exhibited enhanced ultimate tensile strain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -110,7 +83,35 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC,
+      author            = "Hu Feng and Xiang Yuan and Zhenyu Yu and Aofei Guo and Xuhui Zheng and Yuyang Huang and Guosen Zhou",
+      title             = "Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites",
+      doi               = "10.1016/j.jmrt.2025.11.161",
+      year              = "2025",
+      journal           = "Journal of Materials Research and Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Feng, “Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites”, <i>Journal of Materials Research and Technology</i>, 2025, doi: 10.1016/j.jmrt.2025.11.161.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Feng, Hu, Xiang Yuan, Zhenyu Yu, Aofei Guo, Xuhui Zheng, Yuyang Huang, and Guosen Zhou. “Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites”. <i>Journal of Materials Research and Technology</i>, 2025. https://doi.org/10.1016/j.jmrt.2025.11.161.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

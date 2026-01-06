@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rodrigo Schossler, Shafi Ullah, Zaid Alajlan, Xiong Yu
+    - footer
+title: Schossler Rodrigo, Ullah Shafi, Alajlan Zaid, Yu Xiong
 description:
 tags:
  - analysis
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1007/s43503-024-00044-4) Data-Driven Analysis in 3D Concrete Printing:<br/>:aca-blank: Predicting and Optimizing Construction Mixtures ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1007/s43503-024-00044-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43503-024-00044-4</a>
+#Data-Driven Analysis in 3D Concrete Printing&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Predicting and Optimizing Construction Mixtures</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s43503-024-00044-4) <a href="https://doi.org/10.1007/s43503-024-00044-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43503-024-00044-4" target="_blank">10.1007/s43503-024-00044-4</a>
 
--------------------------
+<a href="../../../author/schossler_teixeira_rodrigo"><b>Schossler</b>&nbsp;Rodrigo</a></span>, <a href="../../../author/ullah_shafi"><b>Ullah</b>&nbsp;Shafi</a></span>, <a href="../../../author/alajlan_zaid"><b>Alajlan</b>&nbsp;Zaid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6879-2567" title="ORCID: 0000-0001-6879-2567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_xiong"><b>Yu</b>&nbsp;Xiong</a></span><br>
+Journal Article - AI in Civil Engineering, Vol. 4, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/schossler_teixeira_rodrigo"><b>Schossler</b> Rodrigo</a>
-,     <a href="../../../author/ullah_shafi"><b>Ullah</b> Shafi</a>
-,     <a href="../../../author/alajlan_zaid"><b>Alajlan</b> Zaid</a>
-,     <a href="../../../author/yu_xiong"><b>Yu</b> Xiong</a> <a href="https://orcid.org/0000-0001-6879-2567" title="ORCID: 0000-0001-6879-2567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - AI in Civil Engineering, Vol. 4, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#data`](keyword/data)
-    [`#mixture`](keyword/mixture)
-    [`#optimization`](keyword/optimization)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Analysis%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010958880&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406037859" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43503-024-00044-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43503-024-00044-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Accurately predicting 3D concrete printing (3DCP) properties through the utilization of machine learning holds promise for advancing cost-effective, eco-friendly construction practices that prioritize safety, reliability, and environmental sustainability. In this study, a comprehensive exploration of seven regression models was undertaken, complemented by the application of Bayesian optimization techniques to forecast critical metrics such as compressive strength, pump speed, and carbon footprint within the realm of 3DCP technology. Drawing upon a compilation of various 3DCP mixtures sourced from existing literature, an intricate carbon footprint calculation methodology was devised, resulting in the establishment of a bespoke database tailored to the study’s objectives. The performance evaluation of the developed models was conducted through the analysis of key statistical indicators, including R2, RMSE, MAE, and Pearson correlation. To enhance the robustness and generalizability of the models, a rigorous tenfold crossvalidation strategy coupled with a strategic introduction of noise was employed during the validation process. The incorporation of Shapley Additive Explanations (SHAP) analysis provided insightful interpretability into the predictive capabilities of the models, enabling a nuanced understanding of the underlying relationships between input variables and target outputs. Furthermore, the application of multi-objective optimization techniques facilitated judicious decision-making processes, enabling the identification of optimal 3DCP mixture compositions that concurrently enhance performance metrics, reduce operational costs, and mitigate CO₂ emissions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -111,10 +90,40 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
       <li><a href="../../../author/akter_usmi"><b>Akter</b> Usmi</a>, <a href="../../../author/rezvi_effti_syed"><b>Rezvi</b> Syed</a>, <a href="../../../author/ratul_jobayer-parvez_md"><b>Ratul</b> Md.</a>, <a href="../../../author/kishor_kaiyum_saad"><b>Kishor</b> Saad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../akte_rezv_ratu_kish.2025.OoDDEMUFAfE3PCSP/">Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{scho_ulla_alaj_yu.2025.DDAi3CP,
+      author            = "Rodrigo Teixeira Schossler and Shafi Ullah and Zaid Alajlan and Xiong Yu",
+      title             = "Data-Driven Analysis in 3D Concrete Printing: Predicting and Optimizing Construction Mixtures",
+      doi               = "10.1007/s43503-024-00044-4",
+      year              = "2025",
+      journal           = "AI in Civil Engineering",
+      volume            = "4",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. T. Schossler, S. Ullah, Z. Alajlan and X. Yu, “Data-Driven Analysis in 3D Concrete Printing: Predicting and Optimizing Construction Mixtures”, <i>AI in Civil Engineering</i>, vol. 4, no. 1, 2025, doi: 10.1007/s43503-024-00044-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Schossler, Rodrigo Teixeira, Shafi Ullah, Zaid Alajlan, and Xiong Yu. “Data-Driven Analysis in 3D Concrete Printing: Predicting and Optimizing Construction Mixtures”. <i>AI in Civil Engineering</i> 4, no. 1 (2025). https://doi.org/10.1007/s43503-024-00044-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

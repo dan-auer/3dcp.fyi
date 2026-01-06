@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jie Liu, Chun Lv
+    - footer
+title: Liu Jie, Lv Chun
 description:
 tags:
  - fiber
@@ -15,29 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2073-4360/14/7/1315/pdf?version=1648694852) Properties of 3D Printed Polymer Fiber-Reinforced Mortars:<br/>:aca-blank: A Review ([2022-03](date/2022/03))
-<a href="https://doi.org/10.3390/polym14071315" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/polym14071315</a>
+#Properties of 3D Printed Polymer Fiber-Reinforced Mortars&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2073-4360/14/7/1315/pdf?version=1648694852) <a href="https://doi.org/10.3390/polym14071315" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym14071315" target="_blank">10.3390/polym14071315</a>
 
--------------------------
+<a href="../../../author/liu_jie"><b>Liu</b>&nbsp;Jie</a></span>, <a href="../../../author/lv_chun"><b>Lv</b>&nbsp;Chun</a></span><br>
+Journal Article - Polymers, Vol. 14, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_jie"><b>Liu</b> Jie</a>
-,     <a href="../../../author/lv_chun"><b>Lv</b> Chun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Polymers, Vol. 14, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#fiber`](keyword/fiber)
-    [`#mortar`](keyword/mortar)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%203D%20Printed%20Polymer%20Fiber-Reinforced%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127605050&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220907439" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/polym14071315" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/polym14071315?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The engineering applications and related research of fiber-reinforced cement and geopolymer mortar composites are becoming more and more extensive. These reinforced fibers include not only traditional steel fibers and carbon fibers, but also synthetic polymer fibers and natural polymer fibers. Polymer fiber has good mechanical properties, good bonding performance with cement and geopolymer mortars, and excellent performance of cracking resistance and reinforcement. In this paper, representative organic synthetic polymer fibers, such as polypropylene, polyethylene and polyvinyl alcohol, are selected to explore their effects on the flow properties, thixotropic properties and printing time interval of fresh 3D-printed cement and geopolymer mortars. At the same time, the influence of mechanical properties, such as the compressive strength, flexural strength and interlaminar bonding strength of 3D-printed cement and geopolymer mortars after hardening, is also analyzed. Finally, the effect of polymer fiber on the anisotropy of 3D-printed mortars is summarized briefly. The existing problems of 3D-printed cement and polymer mortars are summarized, and the development trend of polymer fiber reinforced 3D-printed mortars is prospected.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "50 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -114,8 +96,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/panchal_priyanka"><b>Panchal</b> Priyanka</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../panc_choi.2025.ARoEoNFtMCFaEEPo3PC/">A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete</a></li>
       <li><a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a>, <a href="../../../author/baliakas_dimitrios"><b>Baliakas</b> Dimitrios</a>, <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pema_bali_pech_stef.2025.MPoBPMwBAfGaSC/">Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
@@ -131,4 +113,34 @@ tags:
       <li><a href="../../../author/wang_hao"><b>Wang</b> Hao</a>, <a href="../../../author/jiang_minghui"><b>Jiang</b> Minghui</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/zhou_gangming"><b>Zhou</b> Gangming</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_jian_hang_zhou.2023.RotMPaFRoAS3PM/">Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar</a></li>
       <li><a href="../../../author/lv_chun"><b>Lv</b> Chun</a>, <a href="../../../author/shen_hongtao"><b>Shen</b> Hongtao</a>, <a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/wu_dan"><b>Wu</b> Dan</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../lv_shen_liu_wu.2022.Po3PFRGBoILBaA/">Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_lv.2022.Po3PPFRM,
+      author            = "Jie Liu and Chun Lv",
+      title             = "Properties of 3D Printed Polymer Fiber-Reinforced Mortars: A Review",
+      doi               = "10.3390/polym14071315",
+      year              = "2022",
+      journal           = "Polymers",
+      volume            = "14",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Liu  and C. Lv, “Properties of 3D Printed Polymer Fiber-Reinforced Mortars: A Review”, <i>Polymers</i>, vol. 14, no. 7, 2022, doi: 10.3390/polym14071315.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Jie, and Chun Lv. “Properties of 3D Printed Polymer Fiber-Reinforced Mortars: A Review”. <i>Polymers</i> 14, no. 7 (2022). https://doi.org/10.3390/polym14071315.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

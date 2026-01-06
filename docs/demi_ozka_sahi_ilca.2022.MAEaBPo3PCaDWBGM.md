@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nazim Demiral, Mehmet Ozkan Ekinci, Oğuzhan Şahin, Hüseyin İlcan, Anil Kul, Gürkan Yıldırım, Mustafa Şahmaran
+    - footer
+title: Demiral Nazim, Ozkan Ekinci Mehmet, Şahin Oğuzhan, İlcan Hüseyin, Kul Anil, Yıldırım Gürkan, Şahmaran Mustafa
 description:
 tags:
  - anisotropy
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104814" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104814</a>
+#Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104814" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104814" target="_blank">10.1016/j.cemconcomp.2022.104814</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5927-7299" title="ORCID: 0000-0001-5927-7299" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b>&nbsp;Nazim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7199-3703" title="ORCID: 0000-0002-7199-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b>&nbsp;Mehmet</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kul_anil"><b>Kul</b>&nbsp;Anil</a></span>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b>&nbsp;Gürkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 134
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a> <a href="https://orcid.org/0000-0001-5927-7299" title="ORCID: 0000-0001-5927-7299" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> <a href="https://orcid.org/0000-0002-7199-3703" title="ORCID: 0000-0002-7199-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> <a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 134, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#evaluation`](keyword/evaluation)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Anisotropy%20Evaluation%20and%20Bonding%20Properties%20of%203D%20Printable%20Construction%20and%20Demolition%20Waste-Based%20Geopolymer%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140768974&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4306393475" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104814" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104814?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work aims at evaluating the anisotropy (direction-dependency) in terms of mechanical performance and bonding properties of entirely construction and demolition waste (CDW)-based geopolymer mortars fabricated by 3D-additive manufacturing (3D-AM) technique. In the study, a combination of hollow brick (HB), red clay brick (RCB), roof tile (RT), concrete waste (CW) and glass waste (GW) obtained from various demolition sites and different combinations of alkaline activators including sodium hydroxide (NaOH) and calcium hydroxide (Ca (OH)2) were used for geopolymerization. CW was also used as fine aggregate in geopolymer mortar production. Specimens were subjected to ambient curing conditions until testing ages. Direction-dependent mechanical performance of printed specimens was evaluated at 7-, 28- and 90-day via compressive strength test in three different loading directions of perpendicular, parallel, and lateral to the printing path and flexural strength test in two different loading directions of perpendicular and lateral to the printing path. Moreover, bond strength between the consecutive printed layers were tested through direct and splitting tensile strength tests at the end of 7-, 28- and 90-day ambient curing and used to compare the directional performance of tested mixtures. In addition, compressive and flexural strength test results of printed specimens were compared with those of conventional mold-casted specimens. Results showed that alkaline activator content affects the mechanical properties considerably. According to compressive and flexural strength test results, 3D-printed geopolymer mortar specimens have anisotropic behavior and the bond performance between consecutive layers is one of the main influencing parameters for the anisotropic behavior of 3D-printed structures. However, perpendicular-loaded 3Dprinted specimens showed similar or slightly better performance compared to the mold-casted ones, indicating that the bond zone had little influence on the performance of specimens loaded in perpendicular loading direction. This study pointed out that the anisotropic performance of printed structures can be diminished with the enhanced bond adhesion between consecutive layers and the adhesion can be improved by optimizing the rheological properties and matrix performance of the mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beer_luca_pont.2020.AFRSBMf3P/">An Fe-Rich Slag-Based Mortar for 3D Printing</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -112,8 +83,9 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
@@ -155,4 +127,33 @@ tags:
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/martinez_fabio"><b>Martínez</b> Fabio</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../roba_mart_varg_guti.2023.3PoHCBoHCoPfCCaBWCAwSSN/">3D Printing of Hybrid Cements Based on High Contents of Powders from Concrete, Ceramic and Brick Waste Chemically Activated with Sodium Sulphate (Na2SO4)</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../khan_jass_ilca_sahi.2023.3PoCM/">3D Printing of Circular Materials:<br/>Comparative Environmental Analysis of Materials and Construction Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{demi_ozka_sahi_ilca.2022.MAEaBPo3PCaDWBGM,
+      author            = "Nazim Çağatay Demiral and Mehmet Ozkan Ekinci and Oğuzhan Şahin and Hüseyin İlcan and Anil Kul and Gürkan Yıldırım and Mustafa Şahmaran",
+      title             = "Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars",
+      doi               = "10.1016/j.cemconcomp.2022.104814",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "134",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ç. Demiral, “Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars”, <i>Cement and Concrete Composites</i>, vol. 134, 2022, doi: 10.1016/j.cemconcomp.2022.104814.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Demiral, Nazim Çağatay, Mehmet Ozkan Ekinci, Oğuzhan Şahin, Hüseyin İlcan, Anil Kul, Gürkan Yıldırım, and Mustafa Şahmaran. “Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars”. <i>Cement and Concrete Composites</i> 134 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104814.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,30 +2,20 @@
 hide:
     - navigation
     - tags
-title: Sisi Zhang, Matthias Kalus, Sven Engel, Martin Claßen
+    - footer
+title: Zhang Sisi, Kalus Matthias, Engel Sven, Claßen Martin
 description:
 tags:
 
 ---
 
-# Entwicklung praxisorientierter Methoden für den 3D Druck des Verbundwerkstoffs Stahlbeton ([2023-09](date/2023/09))
-<a href="https://doi.org/10.18154/rwth-2023-06693" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.18154/rwth-2023-06693</a>
+#Entwicklung praxisorientierter Methoden für den 3D Druck des Verbundwerkstoffs Stahlbeton ([2023-09](date/2023/09))
+ <a href="https://doi.org/10.18154/rwth-2023-06693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.18154/rwth-2023-06693" target="_blank">10.18154/rwth-2023-06693</a>
 
--------------------------
-
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a> <a href="https://orcid.org/0000-0002-1469-9786" title="ORCID: 0000-0002-1469-9786" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kalus_matthias"><b>Kalus</b> Matthias</a> <a href="https://orcid.org/0000-0001-5425-0396" title="ORCID: 0000-0001-5425-0396" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/engel_sven"><b>Engel</b> Sven</a> <a href="https://orcid.org/0000-0003-4161-7595" title="ORCID: 0000-0003-4161-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Beiträge zur 10. DAfStb-Jahrestagung mit 62. Forschungskolloquium, pp. 150-160
-
-:aca-blank:{ .lg .middle}
+<span class="author"><a href="https://orcid.org/0000-0002-1469-9786" title="ORCID: 0000-0002-1469-9786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_sisi"><b>Zhang</b>&nbsp;Sisi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5425-0396" title="ORCID: 0000-0001-5425-0396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kalus_matthias"><b>Kalus</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4161-7595" title="ORCID: 0000-0003-4161-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/engel_sven"><b>Engel</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span><br>
+Contribution - Beiträge zur 10. DAfStb-Jahrestagung mit 62. Forschungskolloquium, pp. 150-160
 
 
--------------------------
 
 <a href="https://scholar.google.com/scholar_lookup?title=Entwicklung%20praxisorientierter%20Methoden%20f%C3%BCr%20den%203D%20Druck%20des%20Verbundwerkstoffs%20Stahlbeton" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -40,17 +30,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6888013079" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.18154/rwth-2023-06693" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.18154/rwth-2023-06693?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, a novel 3D printing process for reinforced concrete structures called Additive Manufacturing of Reinforced Concrete (AMoRC) is proposed. The process consists of a continuous concrete extrusion process and an intermittent stud welding process, both carried out by a robotic arm respectively. The welding robot runs ahead of the concrete extrusion robot and produces the spatial reinforcement mesh from prefabricated reinforcing bar segments. A novel fork-shaped print head with four adjustable nozzles allows for concrete extrusion around the reinforcement with different diameters. By joining segmented rebars of limited length to a reinforcement mesh in the AMoRC process, the consumption of energy and time can drastically be reduced compared to shape welding. The length of the joined rebars can be adapted to the component geometry and the extrusion speed. The bar segments to be joined are kept ready in a magazine belonging to the print head, which enables the feeding of bars with different diameters to arrange a load-efficient and economical reinforcement mesh. The preliminary testing of the additively fabricated reinforced concrete components is also implemented to char- acterize the structural behaviour of those 3D-printed composite specimens. In the initial phase, the reinforcement installation was performed manually until the second robot will be added to the process and experiments were done to characterize the printed structures. The pull-out test is used to investigate the bonding behavior between reinforcement and printed concrete. The four-point bending test is also utilized to study the mechanical behavior of the printed reinforced concrete specimen in a larger scale.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/classen_johannes"><b>Claßen</b> Johannes</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../cla_cla_shar.2020.CoaRW3PMfRCA/">Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)</a></li>
@@ -64,7 +50,37 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a>, <a href="../../../author/kalus_matthias"><b>Kalus</b> Matthias</a>, <a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_kalu_enge_hegg.2023.DoaI3PPfRC/">Development of an Innovative 3D Printing Process for Reinforced Concrete:<br/>AMoRC Method</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zhan_kalu_enge_cla.2023.EpMfd3DdVS,
+      author            = "Sisi Zhang and Matthias Kalus and Sven Engel and Martin Claßen",
+      title             = "Entwicklung praxisorientierter Methoden für den 3D Druck des Verbundwerkstoffs Stahlbeton",
+      doi               = "10.18154/rwth-2023-06693",
+      year              = "2023",
+      pages             = "150--160",
+      booktitle         = "Beiträge zur 10. DAfStb-Jahrestagung mit 62. Forschungskolloquium",
+      editor            = "Josef Hegger and Martin Claßen and Michael Raupach and Thomas Matschei and Maximilian Schmidt and Angela Alvarez y Leal",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Zhang, M. Kalus, S. Engel and M. Claßen, “Entwicklung praxisorientierter Methoden für den 3D Druck des Verbundwerkstoffs Stahlbeton”, in <i>Beiträge zur 10. DAfStb-Jahrestagung mit 62. Forschungskolloquium</i>,  2023, pp. 150–160. doi: 10.18154/rwth-2023-06693.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Sisi, Matthias Kalus, Sven Engel, and Martin Claßen. “Entwicklung Praxisorientierter Methoden Für Den 3D Druck Des Verbundwerkstoffs Stahlbeton”. In <i>Beiträge Zur 10. DAfStb-Jahrestagung Mit 62. Forschungskolloquium</i>, edited by Josef Hegger, Martin Claßen, Michael Raupach, Thomas Matschei, Maximilian Schmidt, and Angela Alvarez y Leal, 150–60, 2023. https://doi.org/10.18154/rwth-2023-06693.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

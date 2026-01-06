@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Valeriy Lesovik, Aleksandr Tolstoy, Roman Fediuk, Mugahed Amran, Mujahid Ali, Afonso Azevedo
+    - footer
+title: Lesovik Valeriy, Tolstoy Aleksandr, Fediuk Roman, Amran Mugahed, Ali Mujahid, Azevedo Afonso
 description:
 tags:
  - improvement
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/8/1181/pdf?version=1660038989) Improving the Performances of a Mortar for 3D Printing by Mineral Modifiers ([2022-08](date/2022/08))
-<a href="https://doi.org/10.3390/buildings12081181" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12081181</a>
+#Improving the Performances of a Mortar for 3D Printing by Mineral Modifiers ([2022-08](date/2022/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/8/1181/pdf?version=1660038989) <a href="https://doi.org/10.3390/buildings12081181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12081181" target="_blank">10.3390/buildings12081181</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2378-3947" title="ORCID: 0000-0002-2378-3947" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesovik_stanislavovich_valeriy"><b>Lesovik</b>&nbsp;Valeriy</a></span>, <a href="../../../author/tolstoy_aleksandr"><b>Tolstoy</b>&nbsp;Aleksandr</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fediuk_roman"><b>Fediuk</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4434-6295" title="ORCID: 0000-0002-4434-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amran_mugahed"><b>Amran</b>&nbsp;Mugahed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4376-0459" title="ORCID: 0000-0003-4376-0459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_mujahid"><b>Ali</b>&nbsp;Mujahid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-4459" title="ORCID: 0000-0002-4694-4459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/azevedo_r-g_afonso"><b>de&nbsp;Azevedo</b>&nbsp;Afonso</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lesovik_stanislavovich_valeriy"><b>Lesovik</b> Valeriy</a> <a href="https://orcid.org/0000-0002-2378-3947" title="ORCID: 0000-0002-2378-3947" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tolstoy_aleksandr"><b>Tolstoy</b> Aleksandr</a>
-,     <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> <a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a> <a href="https://orcid.org/0000-0002-4434-6295" title="ORCID: 0000-0002-4434-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ali_mujahid"><b>Ali</b> Mujahid</a> <a href="https://orcid.org/0000-0003-4376-0459" title="ORCID: 0000-0003-4376-0459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/azevedo_r-g_afonso"><b>de Azevedo</b> Afonso</a> <a href="https://orcid.org/0000-0002-4694-4459" title="ORCID: 0000-0002-4694-4459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#improvement`](keyword/improvement)
-    [`#mineral`](keyword/mineral)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20the%20Performances%20of%20a%20Mortar%20for%203D%20Printing%20by%20Mineral%20Modifiers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137115009&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4290466159" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12081181" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12081181?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Erection of buildings using 3D printing has great potential. However, its mass use for high-rise buildings is hampered by the lack of cement mortars with the required technical characteristics, the most important of which is high plastic strength (in the first minutes after pouring). The significance of the work (novelty) lies in the creation of a composite binder using a mineral modifier obtained by joint grinding up to 500 m2/kg of bentonite clay, chalk, and sand. A comprehensive study of the developed mortars was carried out from the standpoint of the necessary characteristics for volumetric concreting of high-rise thin-walled buildings. A composite binder for high-strength composites (compressive strength up to 70 MPa) has been obtained, which can provide effective mortars for 3D-additive high-rise construction technologies. The influence of the genetic characteristics of the modifier components on the properties of the composite binder has been established. The hydration process in this system of hardening concrete of the optimal composition proceeds more intensively due to the significantly larger specific surface of the mineral modifier components, which act as an active additive and activators of the crystallization of new growths. It has been proven that the features of mortars of high-strength fine-grained composites for 3D-additive technologies of high-rise buildings must meet special properties, such the rheotechnological index and the bearing capacity of the freshly formed layer (plastic strength or dimensional stability). Compared with a conventional mortar, the plastic strength of the developed one increases much faster (in 15 min, it is 762.2 kPa, in contrast to 133.0 kPa for the control composition). Thus, the strength remains sufficient for 3D printing of high-rise buildings and structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
@@ -96,12 +74,42 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ali_sufiyan_syed"><b>Ali</b> Syed</a>, <a href="../../../author/haq_moin_mohd"><b>Haq</b> Mohd</a>, <a href="../../../author/khan_ahmad_rizwan"><b>Khan</b> Rizwan</a>, <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b> Ahmad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ali_haq_khan_hash.2025.ACRo3PoC/">A Comprehensive Review on 3D Printing of Concrete:<br/>Materials, Methods and Mechanical Properties</a></li>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
       <li><a href="../../../author/buson_marcio"><b>Buson</b> Márcio</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a>, <a href="../../../author/rezende_antonio_marco"><b>Rezende</b> Marco</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../buso_varu_reze.2024.FIoTDPwEBMatFoEotUoP/">First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/shen_yuhang"><b>Shen</b> Yuhang</a>, <a href="../../../author/lin_li"><b>Lin</b> Li</a>, <a href="../../../author/wei_shengjie"><b>Wei</b> Shengjie</a>, <a href="../../../author/yan_jie"><b>Yan</b> Jie</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../shen_lin_wei_yan.2022.RotPaMPoS3PCM/">Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{leso_tols_fedi_amra.2022.ItPoaMf3PbMM,
+      author            = "Valeriy Stanislavovich Lesovik and Aleksandr Tolstoy and Roman Fediuk and Mugahed Amran and Mujahid Ali and Afonso R. G. de Azevedo",
+      title             = "Improving the Performances of a Mortar for 3D Printing by Mineral Modifiers",
+      doi               = "10.3390/buildings12081181",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. S. Lesovik, A. Tolstoy, R. Fediuk, M. Amran, M. Ali and A. R. G. de Azevedo, “Improving the Performances of a Mortar for 3D Printing by Mineral Modifiers”, <i>Buildings</i>, vol. 12, no. 8, 2022, doi: 10.3390/buildings12081181.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lesovik, Valeriy Stanislavovich, Aleksandr Tolstoy, Roman Fediuk, Mugahed Amran, Mujahid Ali, and Afonso R. G. de Azevedo. “Improving the Performances of a Mortar for 3D Printing by Mineral Modifiers”. <i>Buildings</i> 12, no. 8 (2022). https://doi.org/10.3390/buildings12081181.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

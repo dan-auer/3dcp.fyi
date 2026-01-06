@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jinggao Zhu, Miguel Cervera, Xiaodan Ren
+    - footer
+title: Zhu Jinggao, Cervera Miguel, Ren Xiaodan
 description:
 tags:
  - analysis
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Peridynamic Anisotropic Behavior Analysis of 3D-Printed Concrete Structures ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.compstruc.2025.107764" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruc.2025.107764</a>
+#Peridynamic Anisotropic Behavior Analysis of 3D-Printed Concrete Structures ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruc.2025.107764" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruc.2025.107764" target="_blank">10.1016/j.compstruc.2025.107764</a>
 
--------------------------
+<a href="../../../author/zhu_jinggao"><b>Zhu</b>&nbsp;Jinggao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cervera_miguel"><b>Cervera</b>&nbsp;Miguel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_xiaodan"><b>Ren</b>&nbsp;Xiaodan</a></span><br>
+Journal Article - Computers & Structures, Vol. 314, No. 107764
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>
-,     <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Computers & Structures, Vol. 314, No. 107764
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Peridynamic%20Anisotropic%20Behavior%20Analysis%20of%203D-Printed%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002015671&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409318736" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruc.2025.107764" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruc.2025.107764?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As a layer-wise construction method, 3D-printed concrete (3DPC) introduces weak interfaces between layers, resulting in different mechanical behavior in different directions. Most studies investigate this anisotropic behavior based on experimental specimen-scale samples and do not apply it in practical engineering. To address this need, the present paper develops a peridynamic (PD) method for the anisotropic behavior analysis of 3DPC structures. As a bond-based method, the interfaces of 3DPC are easily identified by bond division and modeled by reducing bond properties in PD, establishing a simple numerical scheme for structural analysis. Through bond-based correspondence, the bi-scalar plasticity-damage model is incorporated to describe the hardened properties of 3DPC after printing. On this basis, the dynamic effect is included to consider the threat of extreme loads, under which structures show more pronounced anisotropic behavior. The developed method is rigorously verified against two experiments and is finally applied to a systematic numerical study of an arch bridge, including both static and dynamic cases. The results provide a deep understanding of the anisotropic behavior of 3DPC structures. Furthermore, the proposed method shows good performance in guiding 3D printing design and determining the optimal printing direction, demonstrating its capability for practical engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
@@ -92,8 +73,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_cerv_ren.2025.PABAo3PCS,
+      author            = "Jinggao Zhu and Miguel Cervera and Xiaodan Ren",
+      title             = "Peridynamic Anisotropic Behavior Analysis of 3D-Printed Concrete Structures",
+      doi               = "10.1016/j.compstruc.2025.107764",
+      year              = "2025",
+      journal           = "Computers & Structures",
+      volume            = "314",
+      pages             = "107764",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhu, M. Cervera and X. Ren, “Peridynamic Anisotropic Behavior Analysis of 3D-Printed Concrete Structures”, <i>Computers & Structures</i>, vol. 314, p. 107764, 2025, doi: 10.1016/j.compstruc.2025.107764.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Jinggao, Miguel Cervera, and Xiaodan Ren. “Peridynamic Anisotropic Behavior Analysis of 3D-Printed Concrete Structures”. <i>Computers & Structures</i> 314 (2025): 107764. https://doi.org/10.1016/j.compstruc.2025.107764.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

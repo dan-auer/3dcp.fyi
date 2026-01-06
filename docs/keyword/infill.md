@@ -8,8 +8,9 @@ search:
 
 # #infill
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/serra_valentina"><b>Serra</b> Valentina</a>, <a href="../../../author/callegari_guido"><b>Callegari</b> Guido</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../varg_card_serr_call.2026.DFfP3BCwCI/">DfAM Framework for Prefabricated 3DP Building Components with Cellular Infills</a></li>
+  <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
   <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
   <li><a href="../../../author/pal_abhipsa"><b>Pal</b> Abhipsa</a>, <a href="../../../author/wan-wendner_lin"><b>Wan-Wendner</b> Lin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pal_wan.2025.3CPaIPoEESWE/">3D Concrete Printing and Infill Patterns of Energy Efficient Structural Wall Elements</a></li>
   <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>

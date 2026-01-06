@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bjorn Haar, Jacques Kruger, Gideon Zijl
+    - footer
+title: Haar Bjorn, Kruger Jacques, Zijl Gideon
 description:
 tags:
  - beam
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Off-Site 3D Printed Concrete Beam Design and Fabrication ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.jobe.2024.109117" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109117</a>
+#Off-Site 3D Printed Concrete Beam Design and Fabrication ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109117" target="_blank">10.1016/j.jobe.2024.109117</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7132-8260" title="ORCID: 0000-0002-7132-8260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haar_bjorn"><b>ter&nbsp;Haar</b>&nbsp;Bjorn</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109117
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/haar_bjorn"><b>ter Haar</b> Bjorn</a> <a href="https://orcid.org/0000-0002-7132-8260" title="ORCID: 0000-0002-7132-8260" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109117
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#print`](keyword/print)
-    [`#site`](keyword/site)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Off-Site%203D%20Printed%20Concrete%20Beam%20Design%20and%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190330920&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393948684" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109117" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109117?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study identifies the need for a prefabricated reinforced 3D printed concrete (3DPC) beam that can integrate into a building system. A novel 3DPC beam for a specified target structure is designed, fabricated, and experimentally tested. The beam design is experimentally investigated by fabricating the beam with design-determined print parameters and performing a set of two large-scale 4-point bending tests which determine the shear and flexural resistance of the beam. Modified Eurocode design equations successfully predict the flexural resistance within 6%, however the shear design equations overpredict the shear resistance by 51%. The study provides a replicable design and fabrication workflow for 3DPC elements, and a feasible 3DPC beam concept that requires shear strengthening before application in the target frame. 3D concrete printing designers are provided with a 3DPC beam solution with the potential to integrate into a building system and are further equipped to design and fabricate future 3DPC building elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../best_krug_zijl.2023.RRfCP/">Rivet Reinforcement for Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -95,8 +76,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/qu_yao"><b>Qu</b> Yao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_wang_li_qu.2025.IPi3PUHPCCBfSFP/">Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance</a></li>
       <li><a href="../../../author/haar_bjorn"><b>Haar</b> Bjorn</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../haar_krug_zijl.2025.3PCPBCCD/">3D Printed Concrete Pinned Beam-Column Connection Development</a></li>
@@ -113,4 +94,33 @@ tags:
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../du_sun_qian.2024.3PSHCC3SRSRIbtWS/">3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC) Reticulated Shell Roof Inspired by the Water Spider</a></li>
       <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{haar_krug_zijl.2024.OS3PCBDaF,
+      author            = "Bjorn ter Haar and Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Off-Site 3D Printed Concrete Beam Design and Fabrication",
+      doi               = "10.1016/j.jobe.2024.109117",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109117",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. ter Haar, J. P. Kruger and G. P. A. G. van Zijl, “Off-Site 3D Printed Concrete Beam Design and Fabrication”, <i>Journal of Building Engineering</i>, p. 109117, 2024, doi: 10.1016/j.jobe.2024.109117.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Haar, Bjorn ter, Jacques Pienaar Kruger, and Gideon Pieter Adriaan Greeff van Zijl. “Off-Site 3D Printed Concrete Beam Design and Fabrication”. <i>Journal of Building Engineering</i>, 2024, 109117. https://doi.org/10.1016/j.jobe.2024.109117.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

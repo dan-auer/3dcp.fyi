@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Akilesh Ramesh, Pathmanathan Rajeev, Jay Sanjayan, Viktor Mechtcherine
+    - footer
+title: Ramesh Akilesh, Rajeev Pathmanathan, Sanjayan Jay, Mechtcherine Viktor
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2024.118337) In-Process Textile Reinforcement Method for 3D Concrete Printing and Its Structural Performance ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.engstruct.2024.118337" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2024.118337</a>
+#In-Process Textile Reinforcement Method for 3D Concrete Printing and Its Structural Performance ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2024.118337) <a href="https://doi.org/10.1016/j.engstruct.2024.118337" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.118337" target="_blank">10.1016/j.engstruct.2024.118337</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-2850-9500" title="ORCID: 0009-0004-2850-9500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramesh_akilesh"><b>Ramesh</b>&nbsp;Akilesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Engineering Structures, Vol. 314, No. 118337
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> <a href="https://orcid.org/0009-0004-2850-9500" title="ORCID: 0009-0004-2850-9500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 314, No. 118337
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#method`](keyword/method)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Process%20Textile%20Reinforcement%20Method%20for%203D%20Concrete%20Printing%20and%20Its%20Structural%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195068188&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399450161" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2024.118337" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2024.118337?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is an innovative technology for constructing complex freeform structures that are difficult or expensive to build using conventional construction methods. The printing of double-curved shells and aesthetically pleasing geometries for façade panels and roof elements requires a detailed investigation of the load-carrying capacity and failure mode during complex loading. Moreover, integrating reinforcement into printed elements is one of the major challenges in 3DCP for manufacturing structural components. Textile reinforcement has high formability and tensile strength and can be used as an in-process reinforcing method during printing. In this study, one layer of alkali-resistant glass textile was used to reinforce the 3D printed and mould-cast high-performance concrete curved members. The commonly used concrete printing nozzle was modified to allow ease in textile placement along the printing path. Further, the feasibility of the modified nozzle was evaluated by printing two different curved structures and was validated. In addition, two different curvatures of curved elements, with and without textile reinforcement were printed to study the effect of textile reinforcement and geometry when subjected to a point load in the middle. The deformation behaviour, crack development, and propagation were monitored using digital image correlation. It was observed that the textile reinforcement enhances the interlayer bonding leading to slower crack propagation and enhanced load-carrying capacity. An increase of about 10 % in the peak load-carrying capacity of 3D printed specimens was observed with the addition of textile reinforcement when compared to their mould-cast. Also, 3D printed specimens was observed to have larger deformation ductility compared to mould-cast specimens. Further, the textile aligns better with increasing curvature which enhances the resistance of membrane forces more uniformly resulting in a 15.5 % increase in the ultimate moment capacity. In addition, the first crack load and the ultimate load were predicted based on the arch equations and the results showed that the current method predicts the capacity with reasonable accuracy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -93,15 +71,15 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
       <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../raje_rame_nava_sanj.2023.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../raje_rame_nava_sanj.2024.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../rama_kana_sanj.2022.ILAoCMf3CP/">In-Line Activation of Cementitious Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../rame_raje_sanj.2024.BSBoTRi3PC/">Bond-Slip Behavior of Textile-Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../sanj_jaya_raje.2021.VIARCf3CP/">Vibration-Induced Active Rheology-Control for 3D Concrete Printing</a></li>
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
@@ -120,4 +98,34 @@ tags:
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../rame_raje_sanj.2024.AoTRf3CPS/">Application of Textile Reinforcement for 3D Concrete Printed Structures</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/xu_shanqing"><b>Xu</b> Shanqing</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../rame_raje_xu_sanj.2024.IRoTR3PCP/">Impact Response of Textile-Reinforced 3D Printed Concrete Panels</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rame_raje_sanj_mech.2024.IPTRMf3CPaISP,
+      author            = "Akilesh Ramesh and Pathmanathan Rajeev and Jay Gnananandan Sanjayan and Viktor Mechtcherine",
+      title             = "In-Process Textile Reinforcement Method for 3D Concrete Printing and Its Structural Performance",
+      doi               = "10.1016/j.engstruct.2024.118337",
+      year              = "2024",
+      journal           = "Engineering Structures",
+      volume            = "314",
+      pages             = "118337",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Ramesh, P. Rajeev, J. G. Sanjayan and V. Mechtcherine, “In-Process Textile Reinforcement Method for 3D Concrete Printing and Its Structural Performance”, <i>Engineering Structures</i>, vol. 314, p. 118337, 2024, doi: 10.1016/j.engstruct.2024.118337.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ramesh, Akilesh, Pathmanathan Rajeev, Jay Gnananandan Sanjayan, and Viktor Mechtcherine. “In-Process Textile Reinforcement Method for 3D Concrete Printing and Its Structural Performance”. <i>Engineering Structures</i> 314 (2024): 118337. https://doi.org/10.1016/j.engstruct.2024.118337.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huawei Liu, Chao Liu, Yiwen Wu, Guoliang Bai, Chunhui He, Rongfei Zhang, Youqiang Wang
+    - footer
+title: Liu Huawei, Liu Chao, Wu Yiwen, Bai Guoliang, He Chunhui, Zhang Rongfei, Wang Youqiang
 description:
 tags:
  - aggregate
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106868" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106868</a>
+#Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2022.106868" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106868" target="_blank">10.1016/j.cemconres.2022.106868</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <a href="../../../author/bai_guoliang"><b>Bai</b>&nbsp;Guoliang</a></span>, <a href="../../../author/he_chunhui"><b>He</b>&nbsp;Chunhui</a></span>, <a href="../../../author/zhang_rongfei"><b>Zhang</b>&nbsp;Rongfei</a></span>, <a href="../../../author/wang_youqiang"><b>Wang</b>&nbsp;Youqiang</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 159
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>
-,     <a href="../../../author/he_chunhui"><b>He</b> Chunhui</a>
-,     <a href="../../../author/zhang_rongfei"><b>Zhang</b> Rongfei</a>
-,     <a href="../../../author/wang_youqiang"><b>Wang</b> Youqiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 159, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hardened%20Properties%20of%203D%20Printed%20Concrete%20with%20Recycled%20Coarse%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132238361&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4282943113" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106868" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106868?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, a novel extrusion-based 3D printed material was obtained by preparing 3D printed recycled coarse aggregate concrete (3DPRAC) using recycled coarse aggregate (RCA), and the compressive and flexural properties were investigated at different RCA replacement ratios, ages, and construction forms. The porosity, pore volume distribution, pore geometry characteristics were analyzed by X-CT. MIP and SEM were used to analyze the pore structure of the RCA. The results showed that the compressive and flexural strengths have obvious anisotropic characteristics. With increasing replacement ratio, the compressive and flexural strengths generally decreased. Internal pores of 3DPRAC were found to exhibit the geometric characteristics of flat ellipsoidal and uniaxially oriented arrangements along the printing direction. A multiple partition-interface model was proposed to establish the connection between pore structure characteristics and force cracking, and the anisotropic mechanical property mechanism of 3DPRAC was revealed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -116,8 +92,9 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "98 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
@@ -216,4 +193,33 @@ tags:
       <li><a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../deng_jia_zhan_wang.2022.3PLACPwSPAM/">3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method:<br/>Printability, Mechanical Properties and Pore-Structure</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_liu_wu_bai.2022.HPo3PCwRCA,
+      author            = "Huawei Liu and Chao Liu and Yiwen Wu and Guoliang Bai and Chunhui He and Rongfei Zhang and Youqiang Wang",
+      title             = "Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate",
+      doi               = "10.1016/j.cemconres.2022.106868",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "159",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Liu, “Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate”, <i>Cement and Concrete Research</i>, vol. 159, 2022, doi: 10.1016/j.cemconres.2022.106868.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Huawei, Chao Liu, Yiwen Wu, Guoliang Bai, Chunhui He, Rongfei Zhang, and Youqiang Wang. “Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate”. <i>Cement and Concrete Research</i> 159 (2022). https://doi.org/10.1016/j.cemconres.2022.106868.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

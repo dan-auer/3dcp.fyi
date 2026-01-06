@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatima Sakka, Farook Hamzeh
+    - footer
+title: Sakka Fatima, Hamzeh Farook
 description:
 tags:
  - concrete
@@ -11,25 +12,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://iglcstorage.blob.core.windows.net/papers/iglc-c515170f-bcc7-4912-9401-ad7964246962.pdf) 3D Concrete Printing in the Service of Lean Construction ([2017-07](date/2017/07))
-<a href="https://doi.org/10.24928/2017/0246" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24928/2017/0246</a>
+#3D Concrete Printing in the Service of Lean Construction ([2017-07](date/2017/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://iglcstorage.blob.core.windows.net/papers/iglc-c515170f-bcc7-4912-9401-ad7964246962.pdf) <a href="https://doi.org/10.24928/2017/0246" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24928/2017/0246" target="_blank">10.24928/2017/0246</a>
 
--------------------------
+<a href="../../../author/sakka_fatima"><b>el&nbsp;Sakka</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b>&nbsp;Farook</a></span><br>
+Contribution - 25th Annual Conference of the International Group for Lean Construction, pp. 781-788
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sakka_fatima"><b>el Sakka</b> Fatima</a>
-,     <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 25th Annual Conference of the International Group for Lean Construction, pp. 781-788
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20in%20the%20Service%20of%20Lean%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85029573873&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -44,20 +33,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2735509798" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24928/2017/0246" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24928/2017/0246?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the current conventional construction practices, the application of lean thinking is deemed challenging. Yet the introduction of 3D printing to the construction industry seems to bolster the lean philosophy goals. The literature, however, has not yet sufficiently addressed the correlation between 3D concrete printing and lean construction. Thus, this research aims at uncovering the complementary relationship between the two. The Study is based on mapping the value stream of the construction process of a residential house using data extracted from an actual project. Value stream mapping is conducted for both methods of construction, the conventional method and 3D concrete printing. Comparing the value stream maps revealed a 60% reduction in the production lead time. Further analysis unveiled reduction in construction cost, especially labour cost, minimization of different types of waste as well as improvement of quality. Such achievements satisfy the essential goals of a lean process including higher quality, lower cost, and shorter lead time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a>, <a href="../../../author/baliakas_dimitrios"><b>Baliakas</b> Dimitrios</a>, <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pema_bali_pech_stef.2025.MPoBPMwBAfGaSC/">Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/dahlberg_maike"><b>Dahlberg</b> Maike</a>, <a href="../../../author/thormahlen_jan"><b>Thormählen</b> Jan</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../plac_dahl_thor_schw.2025.HPI3CP/">How Productive Is 3D Concrete Printing?:<br/>A Systematic Review</a></li>
@@ -68,4 +53,33 @@ tags:
       <li><a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../yass_hamz_sakk.2020.ABMtOWoRSaC3P/">Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers</a></li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sakk_hamz.2017.3CPitSoLC,
+      author            = "Fatima El Sakka and Farook R. Hamzeh",
+      title             = "3D Concrete Printing in the Service of Lean Construction",
+      doi               = "10.24928/2017/0246",
+      year              = "2017",
+      pages             = "781--788",
+      booktitle         = "25th Annual Conference of the International Group for Lean Construction",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. E. Sakka  and F. R. Hamzeh, “3D Concrete Printing in the Service of Lean Construction”, in <i>25th Annual Conference of the International Group for Lean Construction</i>,  2017, pp. 781–788. doi: 10.24928/2017/0246.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sakka, Fatima El, and Farook R. Hamzeh. “3D Concrete Printing in the Service of Lean Construction”. In <i>25th Annual Conference of the International Group for Lean Construction</i>, 781–88, 2017. https://doi.org/10.24928/2017/0246.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

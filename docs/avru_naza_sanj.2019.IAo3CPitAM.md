@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Avrutis, Ali Nazari, Jay Sanjayan
+    - footer
+title: Avrutis Daniel, Nazari Ali, Sanjayan Jay
 description:
 tags:
  - adoption
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Industrial Adoption of 3D Concrete Printing in the Australian Market ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/b978-0-12-815481-6.00019-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-12-815481-6.00019-1</a>
+#Industrial Adoption of 3D Concrete Printing in the Australian Market ([2019-02](date/2019/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00019-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00019-1" target="_blank">10.1016/b978-0-12-815481-6.00019-1</a>
 
--------------------------
+<a href="../../../author/avrutis_daniel"><b>Avrutis</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazari_ali"><b>Nazari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Contribution - 3D Concrete Printing Technology, pp. 389-409
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>
-,     <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> <a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing Technology, pp. 389-409
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#concrete`](keyword/concrete)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Industrial%20Adoption%20of%203D%20Concrete%20Printing%20in%20the%20Australian%20Market" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85077150616&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,25 +34,21 @@ tags:
 <a href="https://inciteful.xyz/p/W2945026632" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-12-815481-6.00019-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-12-815481-6.00019-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing is an innovative technological advancement which is quickly overtaking many forms of manufacturing and now seeping into the industry of construction. The basis of this technology allows for digitally designed 3D objects to be autonomously printed via robotic control, removing the need for the majority of human involvement and is, thus, capable of changing the entire construction process as currently known into a cleaner and more sustainable production. Since the construction industry is of high importance for the Australian employment segment and its overall economic position, it is essential that this industry be carefully assessed prior to any major changes. Therefore, since 3D printing is in its initial stages in the construction industry, its potential impact on future stability, national employment, and economic solidity is unknown and, thus, this chapter reviews various literature studies in an attempt to identify all impacts and associated consequences which 3D printing may have on this industry. As a result, a review will be undertaken via the Fishbone Diagram management technique to determine six major influences and all the possible causes and affects this advanced technology could potentially have on the Australian construction industry. Each subsection will be given a yes or no/positive or negative rating allowing for a statistical representation of results to be developed and ultimately will be the basis of the viability evaluation of such an industry changing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2011/10">(2011-10)</a><br><a href="../../../rael_frat.2011.DCPBCf3P/">Developing Concrete Polymer Building Components for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/bhowmik_anirban"><b>Bhowmik</b> Anirban</a>, <a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b> Biswajoy</a>, <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bhow_bhat_sahu.2026.3CP/">3D Concrete Printing:<br/>Pioneering Innovations and Recent Development</a></li>
       <li><a href="../../../author/wijethunge_anjalee"><b>Wijethunge</b> Anjalee</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/le_an"><b>Le</b> An</a>, <a href="../../../author/gajanayake_akvan"><b>Gajanayake</b> Akvan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wije_sama_le_gaja.2025.ASRoS3CP/">A Systematic Review on Sustainable 3D Concrete Printing:<br/>Opportunities and Challenges</a></li>
@@ -95,4 +78,34 @@ tags:
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../yass_hamz_sakk.2020.ABMtOWoRSaC3P/">Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{avru_naza_sanj.2019.IAo3CPitAM,
+      author            = "Daniel Avrutis and Ali Nazari and Jay Gnananandan Sanjayan",
+      title             = "Industrial Adoption of 3D Concrete Printing in the Australian Market",
+      doi               = "10.1016/b978-0-12-815481-6.00019-1",
+      year              = "2019",
+      pages             = "389--409",
+      booktitle         = "3D Concrete Printing Technology: Construction and Building Applications",
+      editor            = "Jay Gnananandan Sanjayan and Ali Nazari and Behzad Nematollahi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Avrutis, A. Nazari and J. G. Sanjayan, “Industrial Adoption of 3D Concrete Printing in the Australian Market”, in <i>3D Concrete Printing Technology: Construction and Building Applications</i>,  2019, pp. 389–409. doi: 10.1016/b978-0-12-815481-6.00019-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Avrutis, Daniel, Ali Nazari, and Jay Gnananandan Sanjayan. “Industrial Adoption of 3D Concrete Printing in the Australian Market”. In <i>3D Concrete Printing Technology: Construction and Building Applications</i>, edited by Jay Gnananandan Sanjayan, Ali Nazari, and Behzad Nematollahi, 389–409, 2019. https://doi.org/10.1016/b978-0-12-815481-6.00019-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

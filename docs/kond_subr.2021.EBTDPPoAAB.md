@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kala Kondepudi, Kolluru Subramaniam
+    - footer
+title: Kondepudi Kala, Subramaniam Kolluru
 description:
 tags:
  - activation
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Extrusion-Based Three-Dimensional Printing Performance of Alkali-Activated Binders ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733107" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733107</a>
+#Extrusion-Based Three-Dimensional Printing Performance of Alkali-Activated Binders ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733107" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733107" target="_blank">10.14359/51733107</a>
 
--------------------------
+<a href="../../../author/kondepudi_kala"><b>Kondepudi</b>&nbsp;Kala</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 87-96
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 87-96
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#dimension`](keyword/dimension)
-    [`#extrusion`](keyword/extrusion)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrusion-Based%20Three-Dimensional%20Printing%20Performance%20of%20Alkali-Activated%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121622175&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3203867630" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733107" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733107?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Printable alkali-activated fly ash-slag mixtures, which are homogeneous under pressure and achieve buildability in the extrusion-based three-dimensonal (3D) layer printing process, are developed. A baseline mixture of fly ash and slag with a sodium hydroxide activator is modified to achieve extrusion-based printing requirements, including printability, shape retention, and buildability. The role of additional dry constituents such as microsilica and clay in reducing phase separation under pressure for producing printable mixtures is evaluated. Phase separation in the mixture under pressure is sensitive to the particle size distribution. Printable mixtures, which do not segregate under pressure, have a narrower distribution of particle sizes, indicated by the Rosin-Rammler fit. The link between the rheological behavior of the mixture and its performance in printing is evaluated. The constant strain rate rheological response of the mixtures is distinguished between the yield-type and Maxwell-flow behaviors. Mixtures that exhibit a Maxwell-flow type response produce a steadily continuing deformation and are not buildable. The distinction between Maxwell-flow and yield-type behaviors is essential for identifying buildable mixtures. Alkali-activated mixtures exhibit a viscoelastic response with both elastic and viscous components. The proportion of the storage to the loss modulus from rheological measurements provides an index of buildability. Achieving buildability with multiple layers depends on an internal structure capable of resisting elastic deformation, which is indicated by the development of the storage modulus with time. The role of additives on specific aspects of the rheological behavior of the mixtures is evaluated. The rheological behavior required for printing is achieved using carboxymethylcellulose (CMC), which produces a yield-type behavior, and enhances the storage modulus and thixotropy of the alkali-activated mixture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -95,11 +74,42 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/thakur_singh_manideep"><b>Thakur</b> Manideep</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../kama_thak_subr.2024.FPCMBoPRaAC/">Formulating Printable Concrete Mixtures Based on Paste-Rheology and Aggregate-Content:<br/>Application to Alkali-Activated Binders</a></li>
       <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../kama_subr.2024.RCa3CPwFABANSEAAB/">Rheology-Control and 3D Concrete Printing with Fly Ash-Based Aqueous Nano-Silica Enhanced Alkali-Activated Binders</a></li>
       <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kama_subr.2022.DPFASGBwRM/">Developing Printable Fly-Ash-Slag Geopolymer Binders with Rheology Modification</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kond_subr.2021.EBTDPPoAAB,
+      author            = "Kala Kondepudi and Kolluru V. L. Subramaniam",
+      title             = "Extrusion-Based Three-Dimensional Printing Performance of Alkali-Activated Binders",
+      doi               = "10.14359/51733107",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "87--96",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Kondepudi  and K. V. L. Subramaniam, “Extrusion-Based Three-Dimensional Printing Performance of Alkali-Activated Binders”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 87–96, 2021, doi: 10.14359/51733107.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kondepudi, Kala, and Kolluru V. L. Subramaniam. “Extrusion-Based Three-Dimensional Printing Performance of Alkali-Activated Binders”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 87–96. https://doi.org/10.14359/51733107.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

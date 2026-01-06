@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huanyu Wu, Yongqi Liu, Ruidong Chang, Lingyi Wu
+    - footer
+title: Wu Huanyu, Liu Yongqi, Chang Ruidong, Wu Lingyi
 description:
 tags:
  - analysis
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Research Status Quo and Trends of Construction Robotics:<br/>:aca-blank: A Bibliometric Analysis ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1061/jccee5.cpeng-5274" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jccee5.cpeng-5274</a>
+#Research Status Quo and Trends of Construction Robotics&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">A Bibliometric Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jccee5.cpeng-5274" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jccee5.cpeng-5274" target="_blank">10.1061/jccee5.cpeng-5274</a>
 
--------------------------
+<a href="../../../author/wu_huanyu"><b>Wu</b>&nbsp;Huanyu</a></span>, <a href="../../../author/liu_yongqi"><b>Liu</b>&nbsp;Yongqi</a></span>, <a href="../../../author/chang_ruidong"><b>Chang</b>&nbsp;Ruidong</a></span>, <a href="../../../author/wu_lingyi"><b>Wu</b>&nbsp;Lingyi</a></span><br>
+Journal Article - Journal of Computing in Civil Engineering, Vol. 38, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_huanyu"><b>Wu</b> Huanyu</a>
-,     <a href="../../../author/liu_yongqi"><b>Liu</b> Yongqi</a>
-,     <a href="../../../author/chang_ruidong"><b>Chang</b> Ruidong</a>
-,     <a href="../../../author/wu_lingyi"><b>Wu</b> Lingyi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Computing in Civil Engineering, Vol. 38, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#bibliometry`](keyword/bibliometry)
-    [`#construction`](keyword/construction)
-    [`#robot`](keyword/robot)
-    [`#trend`](keyword/trend)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20Status%20Quo%20and%20Trends%20of%20Construction%20Robotics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173805143&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387014288" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jccee5.cpeng-5274" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jccee5.cpeng-5274?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Labor shortage and low labor productivity are critical issues in the construction industry. Robotics, as a powerful technology to improve productivity in the digitization era, is being used to assist in addressing these problems. Particularly in recent years, interest in construction robotics research has risen remarkably. To gain a deeper understanding of this burgeoning research field, this study provides a bibliometric analysis of 498 related papers retrieved from WoS (Web of Science). Performance analysis and science mapping were used in the paper to identify the research trends, relationship among authors, top publication sources, regional activities, as well as knowledge base and dominant research sub-fields. The results indicated that the number of papers focusing on construction robotics has been continuously growing since 2013. “Automation,” “system,” and “design” have been the most addressed topics in construction robotics. The findings are indicative of identifying the deficiencies in existing research and provide directions for future research. Those include greater attention paid to the experimental results of on-site construction robots, while ignoring the impacts of practical construction situations, and the development of off-site construction robots needs more support. For theoretical research, there is a lack of studies on human–robot collaboration workflow and management models. Therefore, the study would be valuable in providing practitioners and researchers with a better perspective on the development of construction robotics and facilitating the building of the intellectual wealth of robotics in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/willmann_jan"><b>Willmann</b> Jan</a>, <a href="../../../author/tibbits_skylar"><b>Tibbits</b> Skylar</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../aejm_will_tibb_gram.2016.JAS/">Jammed Architectural Structures:<br/>Towards Large-Scale Reversible Construction</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/davila-delgado_manuel_juan"><b>Davila Delgado</b> Juan</a>, <a href="../../../author/oyedele_lukumon"><b>Oyedele</b> Lukumon</a>, <a href="../../../author/ajayi_anuoluwapo"><b>Ajayi</b> Anuoluwapo</a>, <a href="../../../author/akanbi_lukman"><b>Akanbi</b> Lukman</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../davi_oyed_ajay_akan.2019.RaASiC/">Robotics and Automated Systems in Construction:<br/>Understanding Industry-Specific Challenges for Adoption</a></li>
@@ -79,8 +61,38 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_tingpeng"><b>Wang</b> Tingpeng</a>, <a href="../../../author/mao_chao"><b>Mao</b> Chao</a>, <a href="../../../author/sun_bing"><b>Sun</b> Bing</a>, <a href="../../../author/li_zhiqiang"><b>Li</b> Zhiqiang</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_mao_sun_li.2024.GoCR/">Genealogy of Construction Robotics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_liu_chan_wu.2024.RSQaToCR,
+      author            = "Huanyu Wu and Yongqi Liu and Ruidong Chang and Lingyi Wu",
+      title             = "Research Status Quo and Trends of Construction Robotics: A Bibliometric Analysis",
+      doi               = "10.1061/jccee5.cpeng-5274",
+      year              = "2024",
+      journal           = "Journal of Computing in Civil Engineering",
+      volume            = "38",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Wu, Y. Liu, R. Chang and L. Wu, “Research Status Quo and Trends of Construction Robotics: A Bibliometric Analysis”, <i>Journal of Computing in Civil Engineering</i>, vol. 38, no. 1, 2024, doi: 10.1061/jccee5.cpeng-5274.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Huanyu, Yongqi Liu, Ruidong Chang, and Lingyi Wu. “Research Status Quo and Trends of Construction Robotics: A Bibliometric Analysis”. <i>Journal of Computing in Civil Engineering</i> 38, no. 1 (2024). https://doi.org/10.1061/jccee5.cpeng-5274.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

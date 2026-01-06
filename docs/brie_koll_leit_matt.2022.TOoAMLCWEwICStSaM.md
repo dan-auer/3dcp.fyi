@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: David Briels, Stefan Kollmannsberger, Felicitas Leithner, Carla Matthäus, Ahmad Nouman, Oguz Oztoprak, Ernst Rank
+    - footer
+title: Briels David, Kollmannsberger Stefan, Leithner Felicitas, Matthäus Carla, Nouman Ahmad, Oztoprak Oguz, Rank Ernst
 description:
 tags:
  - additive
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/7/1023/pdf?version=1657889517) Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements ([2022-07](date/2022/07))
-<a href="https://doi.org/10.3390/buildings12071023" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12071023</a>
+#Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements ([2022-07](date/2022/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/7/1023/pdf?version=1657889517) <a href="https://doi.org/10.3390/buildings12071023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12071023" target="_blank">10.3390/buildings12071023</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2537-9267" title="ORCID: 0000-0003-2537-9267" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/briels_david"><b>Briels</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0823-8649" title="ORCID: 0000-0003-0823-8649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b>&nbsp;Stefan</a></span>, <a href="../../../author/leithner_felicitas"><b>Leithner</b>&nbsp;Felicitas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b>&nbsp;Carla</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2451-8280" title="ORCID: 0000-0002-2451-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b>&nbsp;Ahmad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5326-6721" title="ORCID: 0000-0002-5326-6721" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oztoprak_oguz"><b>Oztoprak</b>&nbsp;Oguz</a></span>, <a href="../../../author/rank_ernst"><b>Rank</b>&nbsp;Ernst</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/briels_david"><b>Briels</b> David</a> <a href="https://orcid.org/0000-0003-2537-9267" title="ORCID: 0000-0003-2537-9267" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a> <a href="https://orcid.org/0000-0003-0823-8649" title="ORCID: 0000-0003-0823-8649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leithner_felicitas"><b>Leithner</b> Felicitas</a>
-,     <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b> Ahmad</a> <a href="https://orcid.org/0000-0002-2451-8280" title="ORCID: 0000-0002-2451-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oztoprak_oguz"><b>Oztoprak</b> Oguz</a> <a href="https://orcid.org/0000-0002-5326-6721" title="ORCID: 0000-0002-5326-6721" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#internal`](keyword/internal)
-    [`#light`](keyword/light)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#measurement`](keyword/measurement)
-    [`#optimization`](keyword/optimization)
-    [`#simulation`](keyword/simulation)
-    [`#structure`](keyword/structure)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Optimization%20of%20Additively%20Manufactured%20Lightweight%20Concrete%20Wall%20Elements%20with%20Internal%20Cellular%20Structure%20through%20Simulations%20and%20Measurements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137326807&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285733907" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12071023" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12071023?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Combining the additive manufacturing (AM) process of extrusion with lightweight concrete, mono-material but multi-functional elements with an internal cellular structure can be created to achieve good thermal performance of a wall at low resource consumption. The aim of this paper is to analyze and optimize the actual thermal performance of such a component. A sensitivity analysis and a parametric optimization were conducted based on a mathematical description of heat transfer in cellular structures. To investigate the thermal performance, 2D and 3D heat transfer simulations were used and validated by heat flux measurements on an existing prototype. A geometric optimization led to a further reduction of the U-value by up to 24%, reaching 0.58 W/m2 K. The ratio of solid material to air inside the cells (relative density) was identified as the main driver, in addition to cell diameter, cell height, and cell wall thickness. The comparison of analytical and numerical results showed high correspondence with deviations of 3–10%, and for the experimental results 25%. These remaining deviations can be traced back to simplifications of the theoretical models and discrepancies between as designed and as built. The presented approach provides a good basis for optimizing the thermal design of complex AM components by investigating practical thermal problems with the help of 2D and 3D simulations, and thus offers a great potential for further applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/jaugstetter_fabian"><b>Jaugstetter</b> Fabian</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../diel_brie_jaug_henk.2021.AMoTELCWEwCCS/">Additive Manufacturing of Thermally Enhanced Lightweight Concrete Wall Elements with Closed Cellular Structures</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -88,9 +59,10 @@ tags:
       <li><a href="../../../author/sarakinioti_valentini_maria"><b>Sarakinioti</b> Maria</a>, <a href="../../../author/turrin_michela"><b>Turrin</b> Michela</a>, <a href="../../../author/konstantinou_thaleia"><b>Konstantinou</b> Thaleia</a>, <a href="../../../author/tenpierik_martin"><b>Tenpierik</b> Martin</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../sara_turr_kons_tenp.2018.DaI3PFwCGfATC/">Developing an Integrated 3D Printed Façade with Complex Geometries for Active Temperature-Control</a></li>
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/serra_valentina"><b>Serra</b> Valentina</a>, <a href="../../../author/callegari_guido"><b>Callegari</b> Guido</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../varg_card_serr_call.2026.DFfP3BCwCI/">DfAM Framework for Prefabricated 3DP Building Components with Cellular Infills</a></li>
+      <li><a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../alva_curt_muel_norf.2026.EtDTPoWCTSO/">Enhancing the Dynamic Thermal Performance of Wall Components Through Shape Optimization:<br/>Method and Application to Extruded Blocks and 3D-Printed Walls</a></li>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/ruckrich_stefanie"><b>Rückrich</b> Stefanie</a>, <a href="../../../author/austern_guy"><b>Austern</b> Guy</a>, <a href="../../../author/denay_ofer"><b>Denay</b> Ofer</a>, <a href="../../../author/seiwert_paul"><b>Seiwert</b> Paul</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ruck_aust_dena_seiw.2025.3PEFE/">3D-Printed Earth-Fiber Envelopes:<br/>Optimization of Thermal Performance and Industrial Applicability</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>, <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../dey_pand_shuk_rawa.2025.ACAoTPo3PCLW/">A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls</a></li>
@@ -105,4 +77,34 @@ tags:
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../plac_schw.2023.CAMiC/">Concrete Additive Manufacturing in Construction:<br/>Integration Based on Component-Related Fabrication-Strategies</a></li>
       <li><a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a>, <a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/seshadri_bharath"><b>Seshadri</b> Bharath</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lesc_chei_picc_sesh.2023.3PF/">3D Printing Facades:<br/>Design, Fabrication, and Assessment Methods</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{brie_koll_leit_matt.2022.TOoAMLCWEwICStSaM,
+      author            = "David Briels and Stefan Kollmannsberger and Felicitas Leithner and Carla Irmgard Ingeborg Matthäus and Ahmad Saleem Nouman and Oguz Oztoprak and Ernst Rank",
+      title             = "Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements",
+      doi               = "10.3390/buildings12071023",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Briels, “Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements”, <i>Buildings</i>, vol. 12, no. 7, 2022, doi: 10.3390/buildings12071023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Briels, David, Stefan Kollmannsberger, Felicitas Leithner, Carla Irmgard Ingeborg Matthäus, Ahmad Saleem Nouman, Oguz Oztoprak, and Ernst Rank. “Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure Through Simulations and Measurements”. <i>Buildings</i> 12, no. 7 (2022). https://doi.org/10.3390/buildings12071023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sahu Akshay 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
   <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/sharma_deepak"><b>Sharma</b> Deepak</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sahu_shar_pand.2025.TTOLCBDfAM/">Tailoring Topology-Optimized Lightweight Concrete Beam Design for Additive Manufacturing</a></li>
   <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sahu_pand.2024.ATBCPPfAMoC/">A TSP-Based Continuous Path-Planning for Additive Manufacturing of Concrete</a></li>

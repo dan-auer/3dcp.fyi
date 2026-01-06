@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matteo Sambucci, Ilario Biblioteca, Marco Valente
+    - footer
+title: Sambucci Matteo, Biblioteca Ilario, Valente Marco
 description:
 tags:
  - assessment
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2313-4321/8/1/15/pdf?version=1674348939) Life Cycle Assessment (LCA) of 3D Concrete Printing and Casting Processes for Cementitious Materials Incorporating Ground Waste Tire Rubber ([2023-01](date/2023/01))
-<a href="https://doi.org/10.3390/recycling8010015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/recycling8010015</a>
+#Life Cycle Assessment (LCA) of 3D Concrete Printing and Casting Processes for Cementitious Materials Incorporating Ground Waste Tire Rubber ([2023-01](date/2023/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2313-4321/8/1/15/pdf?version=1674348939) <a href="https://doi.org/10.3390/recycling8010015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/recycling8010015" target="_blank">10.3390/recycling8010015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sambucci_matteo"><b>Sambucci</b>&nbsp;Matteo</a></span>, <a href="../../../author/biblioteca_ilario"><b>Biblioteca</b>&nbsp;Ilario</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valente_marco"><b>Valente</b>&nbsp;Marco</a></span><br>
+Journal Article - Recycling, Vol. 8, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/biblioteca_ilario"><b>Biblioteca</b> Ilario</a>
-,     <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Recycling, Vol. 8, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#cast`](keyword/cast)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#incorporation`](keyword/incorporation)
-    [`#life`](keyword/life)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#rubber`](keyword/rubber)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20%28LCA%29%20of%203D%20Concrete%20Printing%20and%20Casting%20Processes%20for%20Cementitious%20Materials%20Incorporating%20Ground%20Waste%20Tire%20Rubber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148716192&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4317608710" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/recycling8010015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/recycling8010015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Ordinary concrete is an indispensable construction material of modern society which is used for everything from mundane road pavements to building structures. However, it is often used for non-load-bearing applications (for instance, insulating lightweight building units) where mechanical strength is not a priority. This leads to an avoidable depletion of natural aggregates which could instead be replaced by alternative waste materials capable of conferring to the material the desired performance while ensuring a “green” route for their disposal. Furthermore, the automation of production processes via 3D printing can further assist in the achievement of a more advanced and sustainable scenario in the construction sector. In this work, performance and environmental analyses were conducted on a 3D-printable cementitious mix engineered with ground waste tire rubber aggregates. The research proposed a comparative study between rubberized concrete mixes obtained by 3D printing and traditional mold-casting methods to achieve a comprehensive analysis in terms of the mix design and manufacturing process. To evaluate the environmental performance (global warming potential and cumulative energy demand) of the investigated samples, Life Cycle Assessment models were built by using the SimaPro software and the Ecoinvent database. The Empathetic Added Sustainability Index, which includes mechanical strength, durability, thermoacoustic insulation, and environmental indicators, was defined to quantify the overall performance of the samples in relation to their engineering properties and eco-footprint.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
@@ -98,8 +73,9 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/panchal_priyanka"><b>Panchal</b> Priyanka</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../panc_choi.2025.ARoEoNFtMCFaEEPo3PC/">A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
@@ -120,4 +96,34 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
       <li><a href="../../../author/motalebi_arash"><b>Motalebi</b> Arash</a>, <a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b> Mohammad</a>, <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mota_khon_kabi.2023.ASRoLCAo3CP/">A Systematic Review of Life Cycle Assessments of 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{samb_bibl_vale.2023.LCALo3CPaCPfCMIGWTR,
+      author            = "Matteo Sambucci and Ilario Biblioteca and Marco Valente",
+      title             = "Life Cycle Assessment (LCA) of 3D Concrete Printing and Casting Processes for Cementitious Materials Incorporating Ground Waste Tire Rubber",
+      doi               = "10.3390/recycling8010015",
+      year              = "2023",
+      journal           = "Recycling",
+      volume            = "8",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sambucci, I. Biblioteca and M. Valente, “Life Cycle Assessment (LCA) of 3D Concrete Printing and Casting Processes for Cementitious Materials Incorporating Ground Waste Tire Rubber”, <i>Recycling</i>, vol. 8, no. 1, 2023, doi: 10.3390/recycling8010015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sambucci, Matteo, Ilario Biblioteca, and Marco Valente. “Life Cycle Assessment (LCA) of 3D Concrete Printing and Casting Processes for Cementitious Materials Incorporating Ground Waste Tire Rubber”. <i>Recycling</i> 8, no. 1 (2023). https://doi.org/10.3390/recycling8010015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

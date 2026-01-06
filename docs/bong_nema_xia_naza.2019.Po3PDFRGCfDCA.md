@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shin Bong, Behzad Nematollahi, Ming Xia, Ali Nazari, Jay Sanjayan, Jinlong Pan
+    - footer
+title: Bong Shin, Nematollahi Behzad, Xia Ming, Nazari Ali, Sanjayan Jay, Pan Jinlong
 description:
 tags:
  - application
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties of 3D Printable Ductile Fiber-Reinforced Geopolymer Composite for Digital Construction Applications ([2019-09](date/2019/09))
-<a href="https://doi.org/10.1007/978-3-030-22566-7_42" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-22566-7_42</a>
+#Properties of 3D Printable Ductile Fiber-Reinforced Geopolymer Composite for Digital Construction Applications ([2019-09](date/2019/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-22566-7_42" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_42" target="_blank">10.1007/978-3-030-22566-7_42</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bong_hau_shin"><b>Bong</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazari_ali"><b>Nazari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span><br>
+Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 363-372
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> <a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> <a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 363-372
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#ductility`](keyword/ductility)
-    [`#fiber`](keyword/fiber)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%203D%20Printable%20Ductile%20Fiber-Reinforced%20Geopolymer%20Composite%20for%20Digital%20Construction%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071514900&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2969911006" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-22566-7_42" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-22566-7_42?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Two main limitations of extrusion-based 3D concrete printing process are the incorporation of conventional steel bars and the limited range of printable concretes. To tackle both limitations, this paper investigates feasibility of developing a 3D-printable ductile fibre-reinforced geopolymer composite (DFRGC) for digital construction applications. Instead of the conventional cement binder, a “just-add-water” geopolymer binder was used for production of the 3D-printable DFRGC, which considerably improves its sustainability performance and commercial viability in the construction industry. A series of experiments including bulk density, apparent porosity, compression, and flexural tests were conducted to characterize the mechanical properties of the 3Dprintable DFRGC. The effect of number of printed layers on the mechanical properties of the 3D-printable DFRGC was also investigated. Further, dependency of the compressive strength of the printed sample on the testing direction was also evaluated. The developed 3D-printable DFRGC exhibited deflectionhardening behaviour in flexure with high modulus of rupture of up to 10.2 MPa and deflection capacity of up to 5.3 mm. Therefore, the feasibility of developing 3D-printable deflection-hardening ductile geopolymer composites was established. The results also showed that the compressive and flexural performances of the 3D-printed DFRGC specimens depended on the testing direction and number of printed layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../marc_sanj_nema_xia.2019.ILSo3PC/">Inter-Layer Strength of 3D Printed Concrete</a></li>
@@ -83,10 +57,9 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nema_xia_vija_sanj.2019.PoEB3PGfDCA/">Properties of Extrusion-Based 3D Printable Geopolymers for Digital Construction Applications</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maralapalle_vedprakash"><b>Maralapalle</b> Vedprakash</a>, <a href="../../../author/kumavat_r_hemraj"><b>Kumavat</b> Hemraj</a>, <a href="../../../author/nadaf_b_maheboobsab"><b>Nadaf</b> Maheboobsab</a>, <a href="../../../author/zende_ahmad_aijaz"><b>Zende</b> Aijaz</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mara_kuma_nada_zend.2025.O3GCfSC/">Optimizing 3D Geopolymer Concrete for Sustainable Construction:<br/>A Review of Material Selection, Printing Methods, and Properties</a></li>
       <li><a href="../../../author/hassan_amer"><b>Hassan</b> Amer</a>, <a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a>, <a href="../../../author/noaman_faisal_mohammed"><b>Noaman</b> Mohammed</a>, <a href="../../../author/zhang_chunwei"><b>Zhang</b> Chunwei</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hass_alom_noam_zhan.2025.3PCfSC/">3D Printed Concrete for Sustainable Construction:<br/>A Review of Mechanical Properties and Environmental Impact</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
@@ -108,4 +81,35 @@ tags:
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../arun_nema_sanj_rana.2020.QEoOoSFi3PUHPC/">Quantitative Evaluation of Orientation of Steel-Fibers in 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../marc_sanj.2020.PRMf3CP/">Penetration Reinforcing Method for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bong_nema_xia_naza.2019.Po3PDFRGCfDCA,
+      author            = "Shin Hau Bong and Behzad Nematollahi and Ming Xia and Ali Nazari and Jay Gnananandan Sanjayan and Jinlong Pan",
+      title             = "Properties of 3D Printable Ductile Fiber-Reinforced Geopolymer Composite for Digital Construction Applications",
+      doi               = "10.1007/978-3-030-22566-7_42",
+      year              = "2019",
+      volume            = "23",
+      pages             = "363--372",
+      booktitle         = "Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete",
+      editor            = "Viktor Mechtcherine and Kamal H. Khayat and Egor Secrieru",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Bong, B. Nematollahi, M. Xia, A. Nazari, J. G. Sanjayan and J. Pan, “Properties of 3D Printable Ductile Fiber-Reinforced Geopolymer Composite for Digital Construction Applications”, in <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>,  2019, vol. 23, pp. 363–372. doi: 10.1007/978-3-030-22566-7_42.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bong, Shin Hau, Behzad Nematollahi, Ming Xia, Ali Nazari, Jay Gnananandan Sanjayan, and Jinlong Pan. “Properties of 3D Printable Ductile Fiber-Reinforced Geopolymer Composite for Digital Construction Applications”. In <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>, edited by Viktor Mechtcherine, Kamal H. Khayat, and Egor Secrieru, 23:363–72, 2019. https://doi.org/10.1007/978-3-030-22566-7_42.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

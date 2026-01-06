@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: In-Hwan Yang, The Bui, Jihun Park, Seung-Tae Jeong
+    - footer
+title: Yang In-Hwan, Bui The, Park Jihun, Jeong Seung-Tae
 description:
 tags:
  - application
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/16/20/7218/pdf?version=1698129816) A Feasibility Study on the Lateral Behavior of a 3D Printed Column for Application in a Wind Turbine Tower ([2023-10](date/2023/10))
-<a href="https://doi.org/10.3390/en16207218" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en16207218</a>
+#A Feasibility Study on the Lateral Behavior of a 3D Printed Column for Application in a Wind Turbine Tower ([2023-10](date/2023/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/16/20/7218/pdf?version=1698129816) <a href="https://doi.org/10.3390/en16207218" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en16207218" target="_blank">10.3390/en16207218</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1937-0610" title="ORCID: 0000-0003-1937-0610" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_in-hwan"><b>Yang</b>&nbsp;In-Hwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6575-6322" title="ORCID: 0000-0002-6575-6322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bui_quang_the"><b>Bui</b>&nbsp;The</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6543-1536" title="ORCID: 0000-0002-6543-1536" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_jihun"><b>Park</b>&nbsp;Jihun</a></span>, <a href="../../../author/jeong_seung-tae"><b>Jeong</b>&nbsp;Seung-Tae</a></span><br>
+Journal Article - Energies, Vol. 16, Iss. 20, No. 7218
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_in-hwan"><b>Yang</b> In-Hwan</a> <a href="https://orcid.org/0000-0003-1937-0610" title="ORCID: 0000-0003-1937-0610" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bui_quang_the"><b>Bui</b> The</a> <a href="https://orcid.org/0000-0002-6575-6322" title="ORCID: 0000-0002-6575-6322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> <a href="https://orcid.org/0000-0002-6543-1536" title="ORCID: 0000-0002-6543-1536" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jeong_seung-tae"><b>Jeong</b> Seung-Tae</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 16, Iss. 20, No. 7218
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#behavior`](keyword/behavior)
-    [`#column`](keyword/column)
-    [`#feasibility`](keyword/feasibility)
-    [`#lateral`](keyword/lateral)
-    [`#print`](keyword/print)
-    [`#wind`](keyword/wind)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/lateral"><button class="btn">#lateral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Feasibility%20Study%20on%20the%20Lateral%20Behavior%20of%20a%203D%20Printed%20Column%20for%20Application%20in%20a%20Wind%20Turbine%20Tower" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175310541&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387909276" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en16207218" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en16207218?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Although 3D printing technology has been applied worldwide, the problem of connecting a printed structure and a foundation has rarely been examined. In particular, loads in the horizontal direction, such as wind loads and earthquake loads, can significantly affect the stability of a printed structure. Therefore, in this study, the effect of lateral loads on printed columns that were connected to a foundation by two types of connectors was investigated. A steel angle with bolts and couplers was used to connect the printed column to a concrete footing. In addition, two types of lateral reinforcement were applied to the printed column to enhance its bonding strength and shear resistance. The lateral reinforcements were attached to the interface of the printed layers at distances of 100 and 200 mm to investigate the effect of lateral reinforcement distance on the lateral behavior of the printed column. The results showed that the use of couplers as connections between the columns and foundation significantly improved the load capacity. Furthermore, the effects of the lateral reinforcement types and lateral reinforcement distances were assessed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../best_heev_krug_cho.2020.SFLi3PC/">Steel-Fiber Links in 3D Printed Concrete</a></li>
@@ -88,8 +67,40 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_bui_park_jeon.2023.AFSotLBoa3PCfAiaWTT,
+      author            = "In-Hwan Yang and The Quang Bui and Jihun Park and Seung-Tae Jeong",
+      title             = "A Feasibility Study on the Lateral Behavior of a 3D Printed Column for Application in a Wind Turbine Tower",
+      doi               = "10.3390/en16207218",
+      year              = "2023",
+      journal           = "Energies",
+      volume            = "16",
+      number            = "20",
+      pages             = "7218",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I.-H. Yang, T. Q. Bui, J. Park and S.-T. Jeong, “A Feasibility Study on the Lateral Behavior of a 3D Printed Column for Application in a Wind Turbine Tower”, <i>Energies</i>, vol. 16, no. 20, p. 7218, 2023, doi: 10.3390/en16207218.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, In-Hwan, The Quang Bui, Jihun Park, and Seung-Tae Jeong. “A Feasibility Study on the Lateral Behavior of a 3D Printed Column for Application in a Wind Turbine Tower”. <i>Energies</i> 16, no. 20 (2023): 7218. https://doi.org/10.3390/en16207218.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wujian Long, Jie-Lin Tao, Can Lin, Yucun Gu, Liu Mei, Hua-Bo Duan, Feng Xing
+    - footer
+title: Long Wujian, Tao Jie-Lin, Lin Can, Gu Yucun, Mei Liu, Duan Hua-Bo, Xing Feng
 description:
 tags:
  - base
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing ([2019-08](date/2019/08))
-<a href="https://doi.org/10.1016/j.jclepro.2019.118054" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2019.118054</a>
+#Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing ([2019-08](date/2019/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2019.118054" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2019.118054" target="_blank">10.1016/j.jclepro.2019.118054</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_jie-lin"><b>Tao</b>&nbsp;Jie-Lin</a></span>, <a href="../../../author/lin_can"><b>Lin</b>&nbsp;Can</a></span>, <a href="../../../author/gu_yucun"><b>Gu</b>&nbsp;Yucun</a></span>, <a href="../../../author/mei_liu"><b>Mei</b>&nbsp;Liu</a></span>, <a href="../../../author/duan_hua-bo"><b>Duan</b>&nbsp;Hua-Bo</a></span>, <a href="../../../author/xing_feng"><b>Xing</b>&nbsp;Feng</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 239
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a> <a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_can"><b>Lin</b> Can</a>
-,     <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>
-,     <a href="../../../author/mei_liu"><b>Mei</b> Liu</a>
-,     <a href="../../../author/duan_hua-bo"><b>Duan</b> Hua-Bo</a>
-,     <a href="../../../author/xing_feng"><b>Xing</b> Feng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 239, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#containment`](keyword/containment)
-    [`#crystal`](keyword/crystal)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/crystal"><button class="btn">#crystal</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Buildability%20of%20Sustainable%20Cement-Based%20Composites%20Containing%20Micro-Crystalline%20Cellulose%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070917665&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2969193009" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2019.118054" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2019.118054?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is becoming increasingly popular for construction owing to its reduced environmental impact and lower energy demand than conventional manufacturing. Rapid application of this technology relies largely on the development of high-performance cement-based composites compatible with 3D printers. This study aims to develop high-quality and sustainable cement-based composites containing microcrystalline cellulose (MCC) that can satisfy the requirements for 3D printing. The workability, rheological behavior, buildability, and mechanical properties of the cement-based composites for 3D printing were examined systematically. The rheological analysis revealed that the plastic viscosity and yield stress of mortars with 1 wt% MCC were increased by 20.9% and 190.0%, respectively, compared with those of mortars without MCC. The buildability of mortars with 1 wt% MCC was also improved, and the printed structure exhibited neither large cracks among the printed filaments nor distorted components in the printing process. Compared with the mortars without MCC, the 28-d compressive and flexural strengths of the mortars with 1 wt% MCC were increased by 18.6% and 12.5%, respectively. In addition, the carbon emissions from the overall life cycle of a printed residence were quantified by considering the material attributes of additive manufacturing and using software tools to conduct building information modeling (BIM)-enabled life cycle assessment (LCA) modeling. The results indicated that compared with the mortars without MCC at equivalent mechanical strengths, the mortars containing 1 wt% MCC could reduce the CO2 emissions by 6.82%. The comprehensive improvement in rheological properties and buildability as well as the environmental benefits can promote the sustainable industrial utilization of MCC-reinforced cement-based materials in the 3D-printing industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -93,8 +65,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "131 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
@@ -227,4 +199,33 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{long_tao_lin_gu.2019.RaBoSCBCCMCCf3P,
+      author            = "Wujian Long and Jie-Lin Tao and Can Lin and Yucun Gu and Liu Mei and Hua-Bo Duan and Feng Xing",
+      title             = "Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing",
+      doi               = "10.1016/j.jclepro.2019.118054",
+      year              = "2019",
+      journal           = "Journal of Cleaner Production",
+      volume            = "239",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Long, “Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing”, <i>Journal of Cleaner Production</i>, vol. 239, 2019, doi: 10.1016/j.jclepro.2019.118054.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Long, Wujian, Jie-Lin Tao, Can Lin, Yucun Gu, Liu Mei, Hua-Bo Duan, and Feng Xing. “Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing”. <i>Journal of Cleaner Production</i> 239 (2019). https://doi.org/10.1016/j.jclepro.2019.118054.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #stage
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
   <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
   <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../oztu_luns_nair.2025.AUCw3P/">Advancing Underwater Construction with 3D Printing:<br/>A Two-Stage Approach</a></li>

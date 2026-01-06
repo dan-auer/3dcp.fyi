@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matheus Tinoco, Lucas Gouvêa, Karenn Cássia Magalhães Martins, Romildo Toledo Filho, Oscar Mendoza Reales
+    - footer
+title: Tinoco Matheus, Gouvêa Lucas, Cássia Magalhães Martins Karenn, Toledo Filho Romildo, Mendoza Reales Oscar
 description:
 tags:
  - adjustment
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.130046" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.130046</a>
+#The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption ([2022-12](date/2022/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.130046" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.130046" target="_blank">10.1016/j.conbuildmat.2022.130046</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b>&nbsp;Matheus</a></span>, <a href="../../../author/gouvea_lucas"><b>Gouvêa</b>&nbsp;Lucas</a></span>, <a href="../../../author/cassia-magalhaes-martins_karenn"><b>de&nbsp;Cássia Magalhães Martins</b>&nbsp;Karenn</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 365
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a> <a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gouvea_lucas"><b>Gouvêa</b> Lucas</a>
-,     <a href="../../../author/cassia-magalhaes-martins_karenn"><b>de Cássia Magalhães Martins</b> Karenn</a>
-,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 365, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adjustment`](keyword/adjustment)
-    [`#adsorption`](keyword/adsorption)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#particle`](keyword/particle)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#use`](keyword/use)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/adjustment"><button class="btn">#adjustment</button></a> <a href="../../keyword/adsorption"><button class="btn">#adsorption</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Use%20of%20Rice%20Husk%20Particles%20to%20Adjust%20the%20Rheological%20Properties%20of%203D%20Printable%20Cementitious%20Composites%20Through%20Water%20Sorption" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144351097&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313201825" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.130046" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.130046?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work presents an experimental investigation on the use of rice husk fine particles to produce 3D printable cementitious composites. Rice husk was chosen as a potential component for printable composites due to its highwater sorption capacity and its high amount of embodied biogenic carbon. These key features were used to adjust the fresh-state properties of the composites, required for the printing process, while decreasing its environmental impact. In this study, a high-early strength Portland cement was used, and the rice husk content varied from 5 to 15 %, in mass of solids. The hydration kinetics was studied using isothermal calorimetry while the rheology of the composites was evaluated using a viscosimeter equipped with a Vane spindle. The rheological parameters were used to assess the buildability and printability of the concrete mixtures. Results demonstrated that rice husk delays the hydration, but this effect can be mitigated through alkaline treatment of the particles. The rheological tests showed that the water sorption by the particles plays an important role on the fresh properties of the composites. The use of rice husk increased the initial yield stress from 176.5 Pa to 2251.9 Pa, and the structuration rate from 6.03 Pa/min to 23.4 Pa/min, when 15 % of particles were used. Finally, rice husk particles increased the maximum object height and reduced the maximum time between layers, which proved the feasibility of using high water sorption biomass particles to produce 3D printable cementitious composites.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
@@ -95,8 +70,8 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
@@ -116,4 +91,33 @@ tags:
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tino_mend_tole.2023.RBo3PBCPwRH/">Rheological Behavior of 3D Printable Bio-Concretes Produced with Rice Husk</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tino_gouv_cass_tole.2023.TUoRHPtAtRPo3PCCTWS,
+      author            = "Matheus Pimentel Tinoco and Lucas Gouvêa and Karenn de Cássia Magalhães Martins and Romildo Dias Toledo Filho and Oscar Aurelio Mendoza Reales",
+      title             = "The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption",
+      doi               = "10.1016/j.conbuildmat.2022.130046",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "365",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Tinoco, L. Gouvêa, K. de Cássia Magalhães Martins, R. D. T. Filho and O. A. M. Reales, “The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption”, <i>Construction and Building Materials</i>, vol. 365, 2023, doi: 10.1016/j.conbuildmat.2022.130046.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tinoco, Matheus Pimentel, Lucas Gouvêa, Karenn de Cássia Magalhães Martins, Romildo Dias Toledo Filho, and Oscar Aurelio Mendoza Reales. “The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption”. <i>Construction and Building Materials</i> 365 (2023). https://doi.org/10.1016/j.conbuildmat.2022.130046.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tinghong Pan, Yaqing Jiang, Xuping Ji
+    - footer
+title: Pan Tinghong, Jiang Yaqing, Ji Xuping
 description:
 tags:
  - bond
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://arxiv.org/pdf/2109.05154) Inter-Layer Bonding Investigation of 3D Printing Cementitious Materials with Fluidity-Retaining Polycarboxylate-Superplasticizer and High-Dispersion Polycarboxylate Superplasticizer ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127151" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127151</a>
+#Inter-Layer Bonding Investigation of 3D Printing Cementitious Materials with Fluidity-Retaining Polycarboxylate-Superplasticizer and High-Dispersion Polycarboxylate Superplasticizer ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://arxiv.org/pdf/2109.05154) <a href="https://doi.org/10.1016/j.conbuildmat.2022.127151" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127151" target="_blank">10.1016/j.conbuildmat.2022.127151</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <a href="../../../author/jiang_yaqing"><b>Jiang</b>&nbsp;Yaqing</a></span>, <a href="../../../author/ji_xuping"><b>Ji</b>&nbsp;Xuping</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 330
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> <a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>
-,     <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 330, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#cement`](keyword/cement)
-    [`#dispersion`](keyword/dispersion)
-    [`#fluid`](keyword/fluid)
-    [`#height`](keyword/height)
-    [`#inter`](keyword/inter)
-    [`#investigation`](keyword/investigation)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#retainment`](keyword/retainment)
-    [`#superplasticizer`](keyword/superplasticizer)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dispersion"><button class="btn">#dispersion</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/retainment"><button class="btn">#retainment</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Bonding%20Investigation%20of%203D%20Printing%20Cementitious%20Materials%20with%20Fluidity-Retaining%20Polycarboxylate-Superplasticizer%20and%20High-Dispersion%20Polycarboxylate%20Superplasticizer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126945239&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4221080281" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127151" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127151?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Proposed special requirements exist for the rheological properties and time-varying characteristics of 3D printing cementitious materials (3DPC). In this study, high-dispersion polycarboxylate superplasticizer (HD-PC) and fluidity-retaining polycarboxylate superplasticizer (FR-PC) were used to control the rheological behaviors of 3DPC. The correlation of the time interval, the time varying characteristics of the rheological properties and the interlayer bonding strength were investigated. The results indicated that FR-PC improved the fluidity-retention ability and thixotropy of the fresh pastes. The thixotropic hysteresis loop area and reflocculation rate (Rthix) of FR-PC were 101.9% and 80.4% higher than those of HD-PC, respectively. Furthermore, the FR-PC polymer has a positive effect on the interlayer bonding and may reduce the negative effect caused by extending the time interval. During the time interval of 20 s to 30 min, the interlayer bonding strength with FR-PC decreases by 14.1%, while that with HD-PC decreases by 50.0%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -108,8 +83,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC/">Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>
@@ -127,4 +102,33 @@ tags:
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM/">How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_jian_ji.2022.ILBIo3PCMwFRPSaHDPS,
+      author            = "Tinghong Pan and Yaqing Jiang and Xuping Ji",
+      title             = "Inter-Layer Bonding Investigation of 3D Printing Cementitious Materials with Fluidity-Retaining Polycarboxylate-Superplasticizer and High-Dispersion Polycarboxylate Superplasticizer",
+      doi               = "10.1016/j.conbuildmat.2022.127151",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "330",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Pan, Y. Jiang and X. Ji, “Inter-Layer Bonding Investigation of 3D Printing Cementitious Materials with Fluidity-Retaining Polycarboxylate-Superplasticizer and High-Dispersion Polycarboxylate Superplasticizer”, <i>Construction and Building Materials</i>, vol. 330, 2022, doi: 10.1016/j.conbuildmat.2022.127151.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Tinghong, Yaqing Jiang, and Xuping Ji. “Inter-Layer Bonding Investigation of 3D Printing Cementitious Materials with Fluidity-Retaining Polycarboxylate-Superplasticizer and High-Dispersion Polycarboxylate Superplasticizer”. <i>Construction and Building Materials</i> 330 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127151.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

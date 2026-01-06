@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yun-Chen Wu, Xinbo Wang, Mo Li
+    - footer
+title: Wu Yun-Chen, Wang Xinbo, Li Mo
 description:
 tags:
  - additive
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2024.107460) Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107460" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107460</a>
+#Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2024.107460) <a href="https://doi.org/10.1016/j.cemconres.2024.107460" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107460" target="_blank">10.1016/j.cemconres.2024.107460</a>
 
--------------------------
+<a href="../../../author/wu_yun-chen"><b>Wu</b>&nbsp;Yun-Chen</a></span>, <a href="../../../author/wang_xinbo"><b>Wang</b>&nbsp;Xinbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mo"><b>Li</b>&nbsp;Mo</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 179, No. 107460
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>
-,     <a href="../../../author/wang_xinbo"><b>Wang</b> Xinbo</a>
-,     <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 179, No. 107460
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#micro`](keyword/micro)
-    [`#property`](keyword/property)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Role%20of%20Thixotropy%20in%20Inter-Layer%20Microstructure%20and%20Properties%20of%20Additively%20Manufactured%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186349426&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392432777" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107460" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107460?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study revealed the relationship among early-age thixotropic behavior, air-phase microstructure, and fracture properties of the interlayer region in additively manufactured (AM) cementitious materials. Cementitious materials were designed and characterized to possess distinctive rheological properties and were additively manufactured into cementitious specimens. The effects of thixotropy and printing time interval on the volume, size and aspect ratios of air-phase clusters and on their statistical distributions were analyzed comprehensively through three-dimensional micro-computed tomography. Also determined were the effects of thixotropy and printing time interval on the fracture properties of the interlayer regions. Based on the experimental evidence, the underlying mechanisms of how the time-dependent thixotropic behavior of AM cementitious materials impacts interlayer microstructure and fracture properties were discussed. The results shed light on material design strategies, through tailoring the fresh-state thixotropy of AM cementitious materials, to mitigate the sensitivity of their hardened-state properties to printing parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
@@ -88,9 +66,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/li_mo"><b>Li</b> Mo</a>, <a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/wang_xinbo"><b>Wang</b> Xinbo</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../li_wu_wang.2025.FBoAMCM/">Fracture Behavior of Additively Manufactured Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_wang_li.2024.RoTiILMaPoAMCM,
+      author            = "Yun-Chen Wu and Xinbo Wang and Mo Li",
+      title             = "Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials",
+      doi               = "10.1016/j.cemconres.2024.107460",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "179",
+      pages             = "107460",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y.-C. Wu, X. Wang and M. Li, “Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials”, <i>Cement and Concrete Research</i>, vol. 179, p. 107460, 2024, doi: 10.1016/j.cemconres.2024.107460.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Yun-Chen, Xinbo Wang, and Mo Li. “Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials”. <i>Cement and Concrete Research</i> 179 (2024): 107460. https://doi.org/10.1016/j.cemconres.2024.107460.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

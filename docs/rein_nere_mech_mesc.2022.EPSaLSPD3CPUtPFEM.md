@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Janis Reinold, Venkatesh Nerella, Viktor Mechtcherine, Günther Meschke
+    - footer
+title: Reinold Janis, Nerella Venkatesh, Mechtcherine Viktor, Meschke Günther
 description:
 tags:
  - concrete
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.autcon.2022.104173" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104173</a>
+#Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method ([2022-02](date/2022/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104173" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104173" target="_blank">10.1016/j.autcon.2022.104173</a>
 
--------------------------
+<a href="../../../author/reinold_michel_janis"><b>Reinold</b>&nbsp;Janis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meschke_gunther"><b>Meschke</b>&nbsp;Günther</a></span><br>
+Journal Article - Automation in Construction, Vol. 136
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 136, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#extrusion`](keyword/extrusion)
-    [`#finite`](keyword/finite)
-    [`#layer`](keyword/layer)
-    [`#method`](keyword/method)
-    [`#particle`](keyword/particle)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#shape`](keyword/shape)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrusion-Process-Simulation%20and%20Layer-Shape-Prediction%20During%203D%20Concrete%20Printing%20Using%20the%20Particle-Finite-Element-Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125017515&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225726948" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104173" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104173?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Product quality and processing of additively manufactured concrete components strongly depend on the flow processes during material extrusion. To control layer deformations and enable purposeful design, numerical analyses with varying process and material parameters were performed to obtain a deeper understanding of flow processes and forces developing in the vicinity of the nozzle using the Lagrangian-based Particle Finite Element Method in association with a Bingham constitutive model. This model was validated by comparing the simulated layer geometries with those obtained from laboratory 3D-printing experiments. Within the investigated parameter range, the forces generated under the extrusion nozzle can be 6 times higher than those induced by self-weight and may cause deformations in substrate layers. Since the distribution of extrusion forces may change substantially under the nozzle for varying parameters, a novel indicator based on the yielding material is introduced to find optimal 3D-printing parameters to prevent plastic deformations in substrate layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -114,8 +88,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "45 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../yu_zhan_liew_yin.2026.SMFaEDi3CP/">Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
@@ -162,4 +136,33 @@ tags:
       <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ribe_figu_cruz_camo.2022.CA/">Concrete AM:<br/>An Insight into the Control of Main Parameters</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM,
+      author            = "Janis Michel Reinold and Venkatesh Naidu Nerella and Viktor Mechtcherine and Günther Meschke",
+      title             = "Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method",
+      doi               = "10.1016/j.autcon.2022.104173",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "136",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. M. Reinold, V. N. Nerella, V. Mechtcherine and G. Meschke, “Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method”, <i>Automation in Construction</i>, vol. 136, 2022, doi: 10.1016/j.autcon.2022.104173.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reinold, Janis Michel, Venkatesh Naidu Nerella, Viktor Mechtcherine, and Günther Meschke. “Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method”. <i>Automation in Construction</i> 136 (2022). https://doi.org/10.1016/j.autcon.2022.104173.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

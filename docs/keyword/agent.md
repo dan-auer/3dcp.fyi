@@ -8,7 +8,7 @@ search:
 
 # #agent
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
   <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>

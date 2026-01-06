@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gu Yucun 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gu_han_khay.2025.EoAKoSPo3PC/">Effect of Absorption Kinetics of Superabsorbent Polymer on 3D Printing Characteristics</a></li>
   <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../han_adda_gu_khay.2025.ESSoFMTCIf3CPA/">Enhanced Shape Stability of Flowable Mortar Through CO2 Injection for 3D Concrete Printing Application</a></li>
   <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../gu_khay.2024.EoSPo3PCaRMA/">Effect of Superabsorbent Polymer on 3D Printing Characteristics as Rheology-Modified-Agent</a></li>

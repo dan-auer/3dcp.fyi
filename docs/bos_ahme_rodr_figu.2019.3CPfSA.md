@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Freek Bos, Zeeshan Ahmed, Claudia Rodríguez, Stefan Figueiredo
+    - footer
+title: Bos Freek, Ahmed Zeeshan, Rodríguez Claudia, Figueiredo Stefan
 description:
 tags:
  - application
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-# 3D Concrete Printing for Structural Applications ([2019-12](date/2019/12))
-<a href="https://doi.org/10.7480/spool.2019.2.4366" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.7480/spool.2019.2.4366</a>
+#3D Concrete Printing for Structural Applications ([2019-12](date/2019/12))
+ <a href="https://doi.org/10.7480/spool.2019.2.4366" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7480/spool.2019.2.4366" target="_blank">10.7480/spool.2019.2.4366</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b>&nbsp;Zeeshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5348-6620" title="ORCID: 0000-0001-5348-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b>&nbsp;Claudia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7945-7171" title="ORCID: 0000-0002-7945-7171" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b>&nbsp;Stefan</a></span><br>
+Journal Article - Spool, Vol. 6, Iss. 2, pp. 5-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> <a href="https://orcid.org/0000-0001-5348-6620" title="ORCID: 0000-0001-5348-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a> <a href="https://orcid.org/0000-0002-7945-7171" title="ORCID: 0000-0002-7945-7171" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Spool, Vol. 6, Iss. 2, pp. 5-10
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20for%20Structural%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85077912003&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,19 +34,46 @@ tags:
 <a href="https://inciteful.xyz/p/W3004471639" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.7480/spool.2019.2.4366" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.7480/spool.2019.2.4366?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent years have seen a rapid growth of additive manufacturing methods for concrete construction. Potential advantages include reduced material use and cost, reduced labor, mass customization and CO2 footprint reduction. None of these methods, however, has yet been able to produce additively manufactured concrete with material properties suitable for structural applications, i.e. ductility and (flexural) tensile strength. In order to make additive manufacturing viable as a production method for structural concrete, a quality leap had to be made. In the project ‘3D Concrete Printing for Structural Applications’, 3 concepts have been explored to achieve the required structural performance: applying steel fiber reinforcement to an existing printable concrete mortar, developing a strain-hardening cementitious composite based on PVA fibers, and embedding high strength steel cable as reinforcement in the concrete filament. Whereas the former produced only an increase in flexural tensile strength, but limited post-peak resistance, the latter two provided promising strain hardening behavior, thus opening the road to a wide range of structural applications of 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bos_ahme_rodr_figu.2019.3CPfSA,
+      author            = "Freek Paul Bos and Zeeshan Yunus Ahmed and Claudia Romero Rodríguez and Stefan Chaves Figueiredo",
+      title             = "3D Concrete Printing for Structural Applications",
+      doi               = "10.7480/spool.2019.2.4366",
+      year              = "2019",
+      journal           = "Spool",
+      volume            = "6",
+      number            = "2",
+      pages             = "5--10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. P. Bos, Z. Y. Ahmed, C. R. Rodríguez and S. C. Figueiredo, “3D Concrete Printing for Structural Applications”, <i>Spool</i>, vol. 6, no. 2, pp. 5–10, 2019, doi: 10.7480/spool.2019.2.4366.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bos, Freek Paul, Zeeshan Yunus Ahmed, Claudia Romero Rodríguez, and Stefan Chaves Figueiredo. “3D Concrete Printing for Structural Applications”. <i>Spool</i> 6, no. 2 (2019): 5–10. https://doi.org/10.7480/spool.2019.2.4366.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

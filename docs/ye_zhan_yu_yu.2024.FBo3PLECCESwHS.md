@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junhong Ye, Jiangdi Zhang, Jie Yu, Jiangtao Yu, Kequan Yu
+    - footer
+title: Ye Junhong, Zhang Jiangdi, Yu Jie, Yu Jiangtao, Yu Kequan
 description:
 tags:
  - behavior
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flexural Behaviors of 3D Printed Lightweight Engineered Cementitious Composites (ECC) Slab with Hollow Sections ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.engstruct.2023.117113" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.117113</a>
+#Flexural Behaviors of 3D Printed Lightweight Engineered Cementitious Composites (ECC) Slab with Hollow Sections ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.117113" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.117113" target="_blank">10.1016/j.engstruct.2023.117113</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/zhang_jiangdi"><b>Zhang</b>&nbsp;Jiangdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jie"><b>Yu</b>&nbsp;Jie</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Engineering Structures, Vol. 299, No. 117113
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_jiangdi"><b>Zhang</b> Jiangdi</a>
-,     <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> <a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 299, No. 117113
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#ecc`](keyword/ecc)
-    [`#engineered`](keyword/engineered)
-    [`#flexural`](keyword/flexural)
-    [`#hollow`](keyword/hollow)
-    [`#light`](keyword/light)
-    [`#print`](keyword/print)
-    [`#section`](keyword/section)
-    [`#slab`](keyword/slab)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Behaviors%20of%203D%20Printed%20Lightweight%20Engineered%20Cementitious%20Composites%20%28ECC%29%20Slab%20with%20Hollow%20Sections" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176221250&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388550083" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.117113" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.117113?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is a form-free construction method that offers the potential to construct load-efficient structures with unique shapes. However, 3DCP currently lacks a compatible reinforcement method. This paper aims to print self-reinforced lightweight slabs using engineered cementitious composites (ECC). By introducing honeycomb-like (HS) and rectangular hollow sections (RS) into printed ECC slabs, the self-weight of HS and RS slabs is reduced by over 30.5% and 35.7%, respectively, compared to that of a solid slab. The flexural behaviors of the printed slabs were investigated via four-point bending test and finite element modeling. Experimental results show that the printed ECC slabs exhibit typical ductile failure even in the absence of steel reinforcement. The maximum flexural strength-to-mass ratio of HS and RS slabs approaches 0.049 MPa/kg, which almost equals to the value of solid slab. The numerical models were validated using the experimental results. Furthermore, parametric analysis reveals that bond strength higher than 1.5 MPa can achieve a stable flexural behavior for HS slab. The findings lay the groundwork for load-efficient and lightweight structural design by using ECC in 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
@@ -93,8 +67,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -119,4 +93,34 @@ tags:
       <li><a href="../../../author/yan_kang-tai"><b>Yan</b> Kang-Tai</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/bazarov_dilshod"><b>Bazarov</b> Dilshod</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yan_li_ye_baza.2024.ASEo3PLBECC/">Anisotropic Size-Effect of 3D Printed LC3-Based Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/dai_jian-guo"><b>Dai</b> Jian-Guo</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../qiu_qian_dai.2024.EtFPoCBw3PUSPFvGFVF/">Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ye_zhan_yu_yu.2024.FBo3PLECCESwHS,
+      author            = "Junhong Ye and Jiangdi Zhang and Jie Yu and Jiangtao Yu and Kequan Yu",
+      title             = "Flexural Behaviors of 3D Printed Lightweight Engineered Cementitious Composites (ECC) Slab with Hollow Sections",
+      doi               = "10.1016/j.engstruct.2023.117113",
+      year              = "2024",
+      journal           = "Engineering Structures",
+      volume            = "299",
+      pages             = "117113",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ye, J. Zhang, J. Yu, J. Yu and K. Yu, “Flexural Behaviors of 3D Printed Lightweight Engineered Cementitious Composites (ECC) Slab with Hollow Sections”, <i>Engineering Structures</i>, vol. 299, p. 117113, 2024, doi: 10.1016/j.engstruct.2023.117113.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ye, Junhong, Jiangdi Zhang, Jie Yu, Jiangtao Yu, and Kequan Yu. “Flexural Behaviors of 3D Printed Lightweight Engineered Cementitious Composites (ECC) Slab with Hollow Sections”. <i>Engineering Structures</i> 299 (2024): 117113. https://doi.org/10.1016/j.engstruct.2023.117113.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

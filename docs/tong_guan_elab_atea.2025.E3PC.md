@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhongling Tong, Qingtao Guan, Ahmed Elabbasy, Ali Ateah, Ahmed Maglad, Mohammad Alharthai
+    - footer
+title: Tong Zhongling, Guan Qingtao, Elabbasy Ahmed, Ateah Ali, Maglad Ahmed, Alharthai Mohammad
 description:
 tags:
  - concrete
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0181/pdf) Empowering 3D Printed Concrete:<br/>:aca-blank: Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1515/rams-2025-0181" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1515/rams-2025-0181</a>
+#Empowering 3D Printed Concrete&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0181/pdf) <a href="https://doi.org/10.1515/rams-2025-0181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1515/rams-2025-0181" target="_blank">10.1515/rams-2025-0181</a>
 
--------------------------
+<a href="../../../author/tong_zhongling"><b>Tong</b>&nbsp;Zhongling</a></span>, <a href="../../../author/guan_qingtao"><b>Guan</b>&nbsp;Qingtao</a></span>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b>&nbsp;Ahmed</a></span>, <a href="../../../author/ateah_h_ali"><b>al&nbsp;Ateah</b>&nbsp;Ali</a></span>, <a href="../../../author/maglad_m_ahmed"><b>Maglad</b>&nbsp;Ahmed</a></span>, <a href="../../../author/alharthai_mohammad"><b>Alharthai</b>&nbsp;Mohammad</a></span><br>
+Journal Article - Reviews on Advanced Materials Science, Vol. 64, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>
-,     <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>
-,     <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>
-,     <a href="../../../author/ateah_h_ali"><b>al Ateah</b> Ali</a>
-,     <a href="../../../author/maglad_m_ahmed"><b>Maglad</b> Ahmed</a>
-,     <a href="../../../author/alharthai_mohammad"><b>Alharthai</b> Mohammad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Reviews on Advanced Materials Science, Vol. 64, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Empowering%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7115883218" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1515/rams-2025-0181" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1515/rams-2025-0181?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing offers design freedom, eliminates formwork, reduces costs and waste, and accelerates construction, making it a powerful alternative to traditional methods. Reinforcing concrete during 3D printing remains a major challenge. Conventional reinforcement disrupts the extrusion process, while continuous methods using steel cables or wires face issues such as nozzle blockage, misalignment, and poor anchorage, limiting their effectiveness. Incorporating short, discrete fibers into 3DPCM provides self-reinforcement, simplifying the process while enhancing mechanical properties. However, including fibers affects the fresh state properties of 3DPCM, particularly the extrusion. This study reviews the effects of steel fibers addition on the fresh and hardened properties of 3DPCM by analyzing published literature results. Various journal articles are reviewed, and extracted data is summarized to identify the influence ofsteel fiber on flowability, static yield stress, dynamic yield stress, printability, buildability, compressive strength and flexural strength of 3DPCM. The effect ofsteel fibers orientational distribution in printed filaments is also analyzed, and efforts to control the distribution to obtain favorable changes in the properties of 3DPCM are also highlighted.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "54 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/hebert_marc"><b>Hebert</b> Marc</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ahme_giwa_game_hebe.2022.SSFRf3PEaS/">Studying Steel-Fiber-Reinforcement for 3D Printed Elements and Structures</a></li>
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
@@ -122,7 +100,37 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tong_guan_elab_atea.2025.E3PC,
+      author            = "Zhongling Tong and Qingtao Guan and Ahmed A. Abdou Elabbasy and Ali H. al Ateah and Ahmed M. Maglad and Mohammad Alharthai",
+      title             = "Empowering 3D Printed Concrete: Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance",
+      doi               = "10.1515/rams-2025-0181",
+      year              = "2025",
+      journal           = "Reviews on Advanced Materials Science",
+      volume            = "64",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Tong, Q. Guan, A. A. A. Elabbasy, A. H. al Ateah, A. M. Maglad and M. Alharthai, “Empowering 3D Printed Concrete: Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance”, <i>Reviews on Advanced Materials Science</i>, vol. 64, no. 1, 2025, doi: 10.1515/rams-2025-0181.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tong, Zhongling, Qingtao Guan, Ahmed A. Abdou Elabbasy, Ali H. al Ateah, Ahmed M. Maglad, and Mohammad Alharthai. “Empowering 3D Printed Concrete: Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance”. <i>Reviews on Advanced Materials Science</i> 64, no. 1 (2025). https://doi.org/10.1515/rams-2025-0181.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

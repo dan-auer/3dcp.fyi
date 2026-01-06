@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Omid Davtalab, Ali Kazemian, Xiao Yuan, Behrokh Khoshnevis
+    - footer
+title: Davtalab Omid, Kazemian Ali, Yuan Xiao, Khoshnevis Behrokh
 description:
 tags:
  - additive
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection ([2020-10](date/2020/10))
-<a href="https://doi.org/10.1007/s10845-020-01684-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s10845-020-01684-w</a>
+#Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection ([2020-10](date/2020/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s10845-020-01684-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10845-020-01684-w" target="_blank">10.1007/s10845-020-01684-w</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8033-9287" title="ORCID: 0000-0002-8033-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/davtalab_omid"><b>Davtalab</b>&nbsp;Omid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Journal of Intelligent Manufacturing, Vol. 33, Iss. 3, pp. 771-784
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a> <a href="https://orcid.org/0000-0002-8033-9287" title="ORCID: 0000-0002-8033-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Intelligent Manufacturing, Vol. 33, Iss. 3, pp. 771-784
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#automation`](keyword/automation)
-    [`#deformation`](keyword/deformation)
-    [`#depth`](keyword/depth)
-    [`#detection`](keyword/detection)
-    [`#inspection`](keyword/inspection)
-    [`#layer`](keyword/layer)
-    [`#learn`](keyword/learn)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Inspection%20in%20Robotic%20Additive%20Manufacturing%20Using%20Deep%20Learning%20for%20Layer%20Deformation%20Detection" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85095679786&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3092226864" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s10845-020-01684-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s10845-020-01684-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, an automated layer defect detection system for construction 3D printing is proposed. Initially, a step-by-step procedure is implemented to develop a deep convolutional neural network that receives images as input and is able to distinguish concrete layers from other surrounding objects through semantic pixel-wise segmentation. Using data augmentation techniques, 1M labeled images are generated and used to train and test the CNN model. Then, a defect detection module is developed which is able to detect deformations in the printed concrete layers extracted from the images using the CNN model. The evaluation results based on metrics such as accuracy, F1 score, and miss rate verify the acceptable performance of the developed system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>, <a href="../../../author/che_haichao"><b>Che</b> Haichao</a> <a href="../../../date/2014/12">(2014-12)</a><br><a href="../../../ding_wei_che.2014.DoaBBACS/">Development of a BIM-Based Automated Construction System</a></li>
@@ -90,10 +66,11 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "43 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
       <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
@@ -135,4 +112,35 @@ tags:
       <li><a href="../../../author/miryousefi-ata_sara"><b>Miryousefi Ata</b> Sara</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../miry_kaze_jafa.2022.AoC3PfBC/">Application of Concrete 3D Printing for Bridge Construction:<br/>Current Challenges and Future Directions</a></li>
       <li><a href="../../../author/villacres_juan"><b>Villacrés</b> Juan</a>, <a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/menendez_oswaldo"><b>Menéndez</b> Oswaldo</a>, <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../vill_guam_mene_chee.2021.3PDEUAVSfSC/">3D Printing Deformation Estimation Using Artificial Vision-Strategies for Smart-Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD,
+      author            = "Omid Davtalab and Ali Kazemian and Xiao Yuan and Behrokh Khoshnevis",
+      title             = "Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection",
+      doi               = "10.1007/s10845-020-01684-w",
+      year              = "2022",
+      journal           = "Journal of Intelligent Manufacturing",
+      volume            = "33",
+      number            = "3",
+      pages             = "771--784",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Davtalab, A. Kazemian, X. Yuan and B. Khoshnevis, “Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection”, <i>Journal of Intelligent Manufacturing</i>, vol. 33, no. 3, pp. 771–784, 2022, doi: 10.1007/s10845-020-01684-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Davtalab, Omid, Ali Kazemian, Xiao Yuan, and Behrokh Khoshnevis. “Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection”. <i>Journal of Intelligent Manufacturing</i> 33, no. 3 (2022): 771–84. https://doi.org/10.1007/s10845-020-01684-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kee-Hong Ler, Chau-Khun Ma, Chee-Long Chin, Izni Ibrahim, Khairul Padil, Mohd Ghafar, Alva Lenya
+    - footer
+title: Ler Kee-Hong, Ma Chau-Khun, Chin Chee-Long, Ibrahim Izni, Padil Khairul, Ghafar Mohd, Lenya Alva
 description:
 tags:
  - concrete
@@ -14,33 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Porosity and Durability Tests on 3D Printing Concrete:<br/>:aca-blank: A Review ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137973" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137973</a>
+#Porosity and Durability Tests on 3D Printing Concrete&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137973" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137973" target="_blank">10.1016/j.conbuildmat.2024.137973</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-7953-8447" title="ORCID: 0009-0009-7953-8447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ler_kee-hong"><b>Ler</b>&nbsp;Kee-Hong</a></span>, <a href="../../../author/ma_chau-khun"><b>Ma</b>&nbsp;Chau-Khun</a></span>, <a href="../../../author/chin_chee-long"><b>Chin</b>&nbsp;Chee-Long</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6718-3970" title="ORCID: 0000-0001-6718-3970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b>&nbsp;Izni</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4025-3275" title="ORCID: 0000-0003-4025-3275" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/padil_hazman_khairul"><b>Padil</b>&nbsp;Khairul</a></span>, <a href="../../../author/ghafar_aminul-izmeer_mohd"><b>ab&nbsp;Ghafar</b>&nbsp;Mohd</a></span>, <a href="../../../author/lenya_ami_alva"><b>Lenya</b>&nbsp;Alva</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 446, No. 137973
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a> <a href="https://orcid.org/0009-0009-7953-8447" title="ORCID: 0009-0009-7953-8447" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>
-,     <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>
-,     <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> <a href="https://orcid.org/0000-0001-6718-3970" title="ORCID: 0000-0001-6718-3970" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a> <a href="https://orcid.org/0000-0003-4025-3275" title="ORCID: 0000-0003-4025-3275" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghafar_aminul-izmeer_mohd"><b>ab Ghafar</b> Mohd</a>
-,     <a href="../../../author/lenya_ami_alva"><b>Lenya</b> Alva</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 446, No. 137973
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Porosity%20and%20Durability%20Tests%20on%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202290739&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401942130" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137973" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137973?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing represents a modern trend in construction automation, characterized by the layer-by-layer deposition of concrete using 3D printers to construct structures without traditional formwork. This process alters the rheological behavior, microstructure, mechanical properties, and durability of 3D-printed concrete compared to conventional cast concrete. This review outlines the porosity and durability tests conducted in previous research papers. It presents the details and procedures of these tests, along with any referenced standards or guidelines. By comparing printed specimens to cast specimens, both similar and controversial results from the tests are also comprehensively discussed. It becomes evident that the durability properties of printed specimens differ from those of cast specimens due to their distinct pore systems. Ultimately, this review aims to bridge research gaps in 3DPC durability performance and assist in the selection of methodologies for porosity and durability tests.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "108 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
@@ -114,7 +92,6 @@ tags:
       <li><a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lafh_dakh.2019.PIoPCM/">Performance Indicators of Printed Construction Materials:<br/>A Durability-Based Approach</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CBPCaTBSoAMMUXRCT/">Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a></li>
-      <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/li_xiao-sheng"><b>Li</b> Xiao-Sheng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../li_hao_li_xiao.2023.DoCI3PC/">Development of CO2-Integrated 3D Printing Concrete</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a></li>
@@ -176,8 +153,8 @@ tags:
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
@@ -192,6 +169,35 @@ tags:
       <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
       <li><a href="../../../author/kuang_weifeng"><b>Kuang</b> Weifeng</a>, <a href="../../../author/pavlenko_petro"><b>Pavlenko</b> Petro</a>, <a href="../../../author/guo_haoyu"><b>Guo</b> Haoyu</a>, <a href="../../../author/tian_kuo"><b>Tian</b> Kuo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../kuan_pavl_guo_tian.2025.UoMMSWi3PECfAR/">Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs</a></li>
       <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a>, <a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a>, <a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a>, <a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nan_qiao_leng_bai.2025.ASRi3PC/">Advancing Structural Reinforcement in 3D Printed Concrete:<br/>Current Methods, Challenges, and Innovations</a></li>
-      <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ler_ma_chin_ibra.2024.PaDTo3PC,
+      author            = "Kee-Hong Ler and Chau-Khun Ma and Chee-Long Chin and Izni Syahrizal Ibrahim and Khairul Hazman Padil and Mohd Aminul Izmeer Ab Ghafar and Alva Ami Lenya",
+      title             = "Porosity and Durability Tests on 3D Printing Concrete: A Review",
+      doi               = "10.1016/j.conbuildmat.2024.137973",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "446",
+      pages             = "137973",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-H. Ler, “Porosity and Durability Tests on 3D Printing Concrete: A Review”, <i>Construction and Building Materials</i>, vol. 446, p. 137973, 2024, doi: 10.1016/j.conbuildmat.2024.137973.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ler, Kee-Hong, Chau-Khun Ma, Chee-Long Chin, Izni Syahrizal Ibrahim, Khairul Hazman Padil, Mohd Aminul Izmeer Ab Ghafar, and Alva Ami Lenya. “Porosity and Durability Tests on 3D Printing Concrete: A Review”. <i>Construction and Building Materials</i> 446 (2024): 137973. https://doi.org/10.1016/j.conbuildmat.2024.137973.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

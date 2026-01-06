@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paweł Sikora, Mehdi Chougan, Karla Cuevas Villalobos, Marco Liebscher, Viktor Mechtcherine, Seyed Ghaffar, Maxime Liard, Didier Lootens, Pavel Krivenko, Myroslav Sanytsky, Dietmar Stephan
+    - footer
+title: Sikora Paweł, Chougan Mehdi, Cuevas Villalobos Karla, Liebscher Marco, Mechtcherine Viktor, Ghaffar Seyed, Liard Maxime, Lootens Didier, Krivenko Pavel, Sanytsky Myroslav, Stephan Dietmar
 description:
 tags:
  - activation
@@ -18,41 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s13204-021-01738-2.pdf) The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>:aca-blank: A Review ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1007/s13204-021-01738-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s13204-021-01738-2</a>
+#The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites&nbsp;([2021-02](date/2021/02))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s13204-021-01738-2.pdf) <a href="https://doi.org/10.1007/s13204-021-01738-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s13204-021-01738-2" target="_blank">10.1007/s13204-021-01738-2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b>&nbsp;Karla</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4054-6414" title="ORCID: 0000-0003-4054-6414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liebscher_marco"><b>Liebscher</b>&nbsp;Marco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <a href="../../../author/liard_maxime"><b>Liard</b>&nbsp;Maxime</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3510-6847" title="ORCID: 0000-0002-3510-6847" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lootens_didier"><b>Lootens</b>&nbsp;Didier</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7697-2437" title="ORCID: 0000-0001-7697-2437" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krivenko_pavel"><b>Krivenko</b>&nbsp;Pavel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8609-6079" title="ORCID: 0000-0002-8609-6079" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanytsky_myroslav"><b>Sanytsky</b>&nbsp;Myroslav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Applied Nanoscience, Vol. 12, Iss. 4, pp. 805-823
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a> <a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> <a href="https://orcid.org/0000-0003-4054-6414" title="ORCID: 0000-0003-4054-6414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>
-,     <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> <a href="https://orcid.org/0000-0002-3510-6847" title="ORCID: 0000-0002-3510-6847" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/krivenko_pavel"><b>Krivenko</b> Pavel</a> <a href="https://orcid.org/0000-0001-7697-2437" title="ORCID: 0000-0001-7697-2437" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanytsky_myroslav"><b>Sanytsky</b> Myroslav</a> <a href="https://orcid.org/0000-0002-8609-6079" title="ORCID: 0000-0002-8609-6079" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Nanoscience, Vol. 12, Iss. 4, pp. 805-823
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#additive`](keyword/additive)
-    [`#alkali`](keyword/alkali)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#micro`](keyword/micro)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-    [`#size`](keyword/size)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effects%20of%20Nano-%20and%20Micro-Sized%20Additives%20on%203D%20Printable%20Cementitious%20and%20Alkali-Activated%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101857846&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3134049043" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s13204-021-01738-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s13204-021-01738-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM), also referred as 3D printing, is a technology that enables building automated three-dimensional objects in a layer-by-layer manner. AM of cement-based and alkali-activated composites has gathered attention over the last decade and is one of the most rapidly developing civil engineering fields. Development of proper mixture compositions which are suitable in fresh and hardened state is one of the key challenges of AM technology in construction. As the behaviour of cement-based materials (CBM) and alkali-activated materials (AAM) is determined by chemical and physical processes at the nano-level, incorporation of nano- and micro-sized admixtures has great influence on the performance of printable composites. These modifications are attributed to the unique reactivity of nanoparticles associated with their small size and large surface area. This review paper summarizes recent developments in the application of nano- and micro-particles on 3D printable cementitious composites and how they influence the performance of 3D-printed construction materials. The research progress on nano-engineered CBM and AAM is reviewed from the view of fresh and hardened properties. Moreover, comparison between nano- and micro-sized admixtures including nanosilica, graphene-based materials, and clay nanoparticles as well as chemical admixtures such as viscosity-modifying admixtures and superplasticizers is presented. Finally, the existing problems in current research and future perspectives are summarized. This review provides useful recommendations toward the significant influence of nano- and micro-sized admixtures on the performance of 3D printable CBMs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "62 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -141,8 +111,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "52 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b> Mohammed</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../alna.2026.LFAMwCaGM/">Large Format Additive Manufacturing with Cementitious and Geo Materials:<br/>General Considerations, Drivers, and Context</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
@@ -195,4 +166,35 @@ tags:
       <li><a href="../../../author/song_hongwei"><b>Song</b> Hongwei</a>, <a href="../../../author/li_xinle"><b>Li</b> Xinle</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../song_li.2021.AOotRMPD3PaMPoNiCC/">An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC,
+      author            = "Paweł Sikora and Mehdi Chougan and Karla Francisca Cuevas Villalobos and Marco Liebscher and Viktor Mechtcherine and Seyed Hamidreza Ghaffar and Maxime Liard and Didier Lootens and Pavel Krivenko and Myroslav Sanytsky and Dietmar Stephan",
+      title             = "The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites: A Review",
+      doi               = "10.1007/s13204-021-01738-2",
+      year              = "2021",
+      journal           = "Applied Nanoscience",
+      volume            = "12",
+      number            = "4",
+      pages             = "805--823",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sikora, “The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites: A Review”, <i>Applied Nanoscience</i>, vol. 12, no. 4, pp. 805–823, 2021, doi: 10.1007/s13204-021-01738-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sikora, Paweł, Mehdi Chougan, Karla Francisca Cuevas Villalobos, Marco Liebscher, Viktor Mechtcherine, Seyed Hamidreza Ghaffar, Maxime Liard, et al.. “The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites: A Review”. <i>Applied Nanoscience</i> 12, no. 4 (2021): 805–23. https://doi.org/10.1007/s13204-021-01738-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

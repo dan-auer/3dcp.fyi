@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuning Chen, Yamei Zhang, Yudong Xie, Zedi Zhang, Nemkumar Banthia
+    - footer
+title: Chen Yuning, Zhang Yamei, Xie Yudong, Zhang Zedi, Banthia Nemkumar
 description:
 tags:
  - alternative
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.addma.2022.103137" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.103137</a>
+#Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.103137" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103137" target="_blank">10.1016/j.addma.2022.103137</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/xie_yudong"><b>Xie</b>&nbsp;Yudong</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 59
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 59, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#alternative`](keyword/alternative)
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#imapct`](keyword/imapct)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/imapct"><button class="btn">#imapct</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Unraveling%20Pore-Structure%20Alternations%20in%203D%20Printed%20Geopolymer%20Concrete%20and%20Corresponding%20Impacts%20on%20Macro-Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137682700&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4295204350" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.103137" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.103137?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D-printed concrete (3DPC) structures are reported to hold mechanical anisotropy behaviors and weak transport properties compared with cast concrete. Fundamental insights into the pore structure discrepancy between printed and cast concrete are essential to the performance prediction and improvement strategy for 3DPC. This study analyzes the pore structure alternations in 3D-printed geopolymer concrete (3DPGC) with cast ones as the reference. Several pore characteristics, i.e., pore volume, distribution, specific surface area (SSA), shape and connectivity are investigated via X-ray CT and MIP. The results demonstrate that a larger porosity, coarser pore size distribution and higher pore SSA exist in 3DPGC compared with CGC. The coarser pore size distribution respectively lies in large voids (>0.2 mm) and small pores (<400 nm) for printed concrete. The pulling stress applied by nozzle movements during the extrusion process contributes to the pore elongation of printed concrete. The mechanical anisotropy of printed concrete without fibers originates from two factors: (i) Oriented pore elongation induces the discrepancy in stress concentration and deformation, and (ii) The weak interlayer presence may cause sliding between layers during loading. However, the pore elongation effect decays with the pore size reduction, limiting its impact on mechanical-anisotropic behaviors. Targeted strategies are then proposed for the matrix strengthening and mechanical anisotropy mitigation in printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -112,8 +89,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "62 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC/">Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics</a></li>
@@ -177,4 +154,33 @@ tags:
       <li><a href="../../../author/cui_dong"><b>Cui</b> Dong</a>, <a href="../../../author/wu_yingxuan"><b>Wu</b> Yingxuan</a>, <a href="../../../author/xie_xiaoying"><b>Xie</b> Xiaoying</a>, <a href="../../../author/tian_guanfei"><b>Tian</b> Guanfei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../cui_wu_xie_tian.2023.IotMSoa3PMTaNLST/">Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography</a></li>
       <li><a href="../../../author/chaiyotha_danai"><b>Chaiyotha</b> Danai</a>, <a href="../../../author/kantawong_watcharapong"><b>Kantawong</b> Watcharapong</a>, <a href="../../../author/payakanitia_panjasila"><b>Payakanitia</b> Panjasila</a>, <a href="../../../author/pinitsoontorn_supree"><b>Pinitsoontorn</b> Supree</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chai_kant_paya_pini.2023.FOCf3PHCFABAAM/">Finding Optimized Conditions for 3D Printed High-Calcium Fly-Ash-Based Alkali-Activated Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP,
+      author            = "Yuning Chen and Yamei Zhang and Yudong Xie and Zedi Zhang and Nemkumar Banthia",
+      title             = "Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties",
+      doi               = "10.1016/j.addma.2022.103137",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "59",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, Y. Zhang, Y. Xie, Z. Zhang and N. Banthia, “Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties”, <i>Additive Manufacturing</i>, vol. 59, 2022, doi: 10.1016/j.addma.2022.103137.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yuning, Yamei Zhang, Yudong Xie, Zedi Zhang, and Nemkumar Banthia. “Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties”. <i>Additive Manufacturing</i> 59 (2022). https://doi.org/10.1016/j.addma.2022.103137.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

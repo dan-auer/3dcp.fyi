@@ -8,7 +8,7 @@ search:
 
 # #double
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../du_qian.2025.EtFaFBo3PSHCCwNISaDBS/">Enhancing the Fracture and Flexural Behavior of 3D Printed Strain-Hardening Cementitious Composites with Nature-Inspired Single and Double Bouligand Structures</a></li>
   <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/bauer_simon"><b>Bauer</b> Simon</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wolf_baue_knaa.2024.GK/">Green Klinkers:<br/>A Strategy to Include Plants in Double-Shell Masonry</a></li>

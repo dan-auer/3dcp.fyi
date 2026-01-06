@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Demont Léo 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/rosa_sarkis_pedro"><b>Rosa</b> Pedro</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mesn_rosa_demo.2025.TOi3PCS/">Thickness Optimisation in 3D Printed Concrete Structures</a></li>
   <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../caro_duco_demo.2025.RoPS/">Reinforcement of Printed Structures</a></li>
   <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../demo_bono_duco_mesn.2024.AC/">Anisotropic Concrete:<br/>A Composite Look on the Engineering and Architecture of Concrete Construction</a></li>

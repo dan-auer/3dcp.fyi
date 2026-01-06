@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huaxian Niu, Bo Yu, Ji Hao
+    - footer
+title: Niu Huaxian, Yu Bo, Hao Ji
 description:
 tags:
  - analysis
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s42452-025-07823-3.pdf) CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/s42452-025-07823-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s42452-025-07823-3</a>
+#CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing ([2025-10](date/2025/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s42452-025-07823-3.pdf) <a href="https://doi.org/10.1007/s42452-025-07823-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42452-025-07823-3" target="_blank">10.1007/s42452-025-07823-3</a>
 
--------------------------
+<a href="../../../author/niu_huaxian"><b>Niu</b>&nbsp;Huaxian</a></span>, <a href="../../../author/yu_bo"><b>Yu</b>&nbsp;Bo</a></span>, <a href="../../../author/hao_ji"><b>Hao</b>&nbsp;Ji</a></span><br>
+Journal Article - Discover Applied Sciences, Vol. 7, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/niu_huaxian"><b>Niu</b> Huaxian</a>
-,     <a href="../../../author/yu_bo"><b>Yu</b> Bo</a>
-,     <a href="../../../author/hao_ji"><b>Hao</b> Ji</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Discover Applied Sciences, Vol. 7, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#cfd`](keyword/cfd)
-    [`#concrete`](keyword/concrete)
-    [`#field`](keyword/field)
-    [`#flow`](keyword/flow)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cfd"><button class="btn">#cfd</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=CFD-Based%20Flow%20Field%20Analysis%20of%20Spiral%20Nozzles%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019371250&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415382349" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s42452-025-07823-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s42452-025-07823-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is an emerging intelligent construction technology that is reshaping conventional building methods. Among the critical components of 3DCP systems, the extrusion nozzle plays a decisive role in determining the stability and quality of printed layers. In this study, a nozzle with spiral blades, one of the common designs used in 3DCP, was investigated. Although spiral blades can simultaneously transport and mix concrete slurry, they are also prone to issues such as non-uniform mixing and extrusion blockage. To address these challenges, Computational Fluid Dynamics (CFD) simulations based on solid–liquid multiphase flow theory were carried out using Fluent. The internal flow field of a prototype nozzle was modeled and analyzed, focusing on the distribution of cement mortar and water, as well as the mixing and transport characteristics of the multiphase system. The results provide insights into flow uniformity and extrusion performance, offering valuable guidance for optimizing nozzle design to enhance print quality and minimize the risk of blockage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jaya_sanj_raje.2020.CEf3CPUDES/">Characterizing Extrudability for 3D Concrete Printing Using Discrete Element Simulations</a></li>
@@ -85,7 +64,37 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yu_sanj_du.2022.EoCMCoAB3CP/">Effects of Cement Mortar Characteristics on Aggregate-Bed 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{niu_yu_hao.2025.CBFFAoSNi3CP,
+      author            = "Huaxian Niu and Bo Yu and Ji Hao",
+      title             = "CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing",
+      doi               = "10.1007/s42452-025-07823-3",
+      year              = "2025",
+      journal           = "Discover Applied Sciences",
+      volume            = "7",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Niu, B. Yu and J. Hao, “CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing”, <i>Discover Applied Sciences</i>, vol. 7, no. 11, 2025, doi: 10.1007/s42452-025-07823-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Niu, Huaxian, Bo Yu, and Ji Hao. “CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing”. <i>Discover Applied Sciences</i> 7, no. 11 (2025). https://doi.org/10.1007/s42452-025-07823-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

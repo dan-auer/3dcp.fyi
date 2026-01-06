@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shutong Yang, Tian Lan, Zhongke Sun, Mingqi Xu, Mingxin Wang, Yaodong Feng
+    - footer
+title: Yang Shutong, Lan Tian, Sun Zhongke, Xu Mingqi, Wang Mingxin, Feng Yaodong
 description:
 tags:
  - concrete
@@ -22,40 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.tafmec.2022.103309" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.tafmec.2022.103309</a>
+#A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tafmec.2022.103309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tafmec.2022.103309" target="_blank">10.1016/j.tafmec.2022.103309</a>
 
--------------------------
+<a href="../../../author/yang_shutong"><b>Yang</b>&nbsp;Shutong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lan_tian"><b>Lan</b>&nbsp;Tian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7702-0075" title="ORCID: 0000-0001-7702-0075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_zhongke"><b>Sun</b>&nbsp;Zhongke</a></span>, <a href="../../../author/xu_mingqi"><b>Xu</b>&nbsp;Mingqi</a></span>, <a href="../../../author/wang_mingxin"><b>Wang</b>&nbsp;Mingxin</a></span>, <a href="../../../author/feng_yaodong"><b>Feng</b>&nbsp;Yaodong</a></span><br>
+Journal Article - Theoretical and Applied Fracture Mechanics, Vol. 119
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>
-,     <a href="../../../author/lan_tian"><b>Lan</b> Tian</a> <a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a> <a href="https://orcid.org/0000-0001-7702-0075" title="ORCID: 0000-0001-7702-0075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a>
-,     <a href="../../../author/wang_mingxin"><b>Wang</b> Mingxin</a>
-,     <a href="../../../author/feng_yaodong"><b>Feng</b> Yaodong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Theoretical and Applied Fracture Mechanics, Vol. 119, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#determination`](keyword/determination)
-    [`#difference`](keyword/difference)
-    [`#direction`](keyword/direction)
-    [`#fiber`](keyword/fiber)
-    [`#fracture`](keyword/fracture)
-    [`#load`](keyword/load)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-    [`#tension`](keyword/tension)
-    [`#toughness`](keyword/toughness)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/toughness"><button class="btn">#toughness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Predictive%20Model%20to%20Determine%20Tensile%20Strength%20and%20Fracture-Toughness%20of%203D%20Printed%20Fiber-Reinforced%20Concrete%20Loaded%20in%20Different%20Directions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126803797&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220804341" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.tafmec.2022.103309" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.tafmec.2022.103309?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is getting increased attention in civil engineering. Fibers are generally added to reinforce printed concrete. Crack resistance of 3D printed fiber reinforced concrete in different directions need to be evaluated in a rational manner due to its anisotropic behavior. Therefore, fracture test was performed on printed and mold-cast concrete first in this paper, and failure mechanism were then examined. An analytical model was subsequently proposed based on the analysis of test results to predict the realistic tensile strength ft, fracture toughness KIC and fracture energy GF in different loading directions by incorporating material heterogeneity and discontinuity. The physical meaning of microstructure characteristic parameter reflecting the material heterogeneity was clarified according to the degree of fiber toughness. Closed-form solutions of ft, KIC and GF were obtained related to the maximum fracture load Fmax. The influence of loading direction on the predicted fracture parameters was analyzed and discussed. Results show that the ft, KIC and GF from specimens loaded perpendicularly to the printing direction were significantly larger than those parallel to the printing direction. Besides, the formers were also higher than the parameters from mold-cast specimens due to the fiber preferential alignment along the printing direction in printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -112,8 +82,8 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P/">Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_juanlan"><b>Zhou</b> Juanlan</a>, <a href="../../../author/shi_xiangwen"><b>Shi</b> Xiangwen</a>, <a href="../../../author/zheng_hongrun"><b>Zheng</b> Hongrun</a>, <a href="../../../author/jin_ruoyu"><b>Jin</b> Ruoyu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA/">Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates:<br/>Rheology, Strength, and Anisotropy</a></li>
@@ -139,4 +109,33 @@ tags:
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../giri_prem_kuma.2023.DoCMf3PUSTaT/">Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../nguy_liu_li_zhan.2023.Mo3PBIBCSRwSF/">Modelling of 3D Printed Bio-Inspired Bouligand Cementitious Structures Reinforced with Steel-Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD,
+      author            = "Shutong Yang and Tian Lan and Zhongke Sun and Mingqi Xu and Mingxin Wang and Yaodong Feng",
+      title             = "A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions",
+      doi               = "10.1016/j.tafmec.2022.103309",
+      year              = "2022",
+      journal           = "Theoretical and Applied Fracture Mechanics",
+      volume            = "119",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Yang, T. Lan, Z. Sun, M. Xu, M. Wang and Y. Feng, “A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions”, <i>Theoretical and Applied Fracture Mechanics</i>, vol. 119, 2022, doi: 10.1016/j.tafmec.2022.103309.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Shutong, Tian Lan, Zhongke Sun, Mingqi Xu, Mingxin Wang, and Yaodong Feng. “A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions”. <i>Theoretical and Applied Fracture Mechanics</i> 119 (2022). https://doi.org/10.1016/j.tafmec.2022.103309.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

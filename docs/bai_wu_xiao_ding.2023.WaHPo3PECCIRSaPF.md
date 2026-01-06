@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meiyan Bai, Yuching Wu, Jianzhuang Xiao, Tao Ding, Kequan Yu
+    - footer
+title: Bai Meiyan, Wu Yuching, Xiao Jianzhuang, Ding Tao, Yu Kequan
 description:
 tags:
  - cement
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.jobe.2023.106477" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106477</a>
+#Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106477" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106477" target="_blank">10.1016/j.jobe.2023.106477</a>
 
--------------------------
+<a href="../../../author/bai_meiyan"><b>Bai</b>&nbsp;Meiyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_yuching"><b>Wu</b>&nbsp;Yuching</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Journal of Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>
-,     <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> <a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#fiber`](keyword/fiber)
-    [`#hardened`](keyword/hardened)
-    [`#incorporation`](keyword/incorporation)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Workability%20and%20Hardened%20Properties%20of%203D%20Printed%20Engineered%20Cementitious%20Composites%20Incorporating%20Recycled%20Sand%20and%20PE-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153104976&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4364381152" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106477" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106477?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing technology has seen rapid development due to its high digitalization and automation. Using recycled sand from solid waste construction resources to replace natural sand has great environmental and economic benefits. The objective of this study was to investigate the workability and anisotropic hardened properties of 3D printed engineered cementitious composites (3DP-ECC) incorporating recycled sand. Effects of recycled sand replacement ratio, fiber content, and printing direction on workability and hardened mechanical properties of 3DP-ECC were investigated. The test results show that the addition of recycled sand reduced fluidity, while strengthened buildability of 3DP-ECC. Compressive strength of the casted concrete dropped 2.1% and 7.2% when the replacement ratio of RS was set at 50% and 100%, respectively. The highest compressive strength in X axis of the 3D-printed specimens was observed. At 100% replacement ratio of recycled sand, the tensile strain capacity of both casted and 3D printed specimens increased by 57% and 55% respectively, compared with the reference group with natural sand. It is demonstrated that the ductility of the proposed 3DP-ECC could be significantly improved. The proposed 3DP-ECC incorporating recycled sand provides a potential solution for utilization of sustainable 3DP concrete in large-scale 3D concrete printing construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -106,8 +80,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "45 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -154,4 +128,32 @@ tags:
       <li><a href="../../../author/tong_jiaqi"><b>Tong</b> Jiaqi</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>, <a href="../../../author/lv_xiuwen"><b>Lv</b> Xiuwen</a>, <a href="../../../author/ning_wei"><b>Ning</b> Wei</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../tong_ding_lv_ning.2023.EoCRCAotMPo3PRC/">Effect of Carbonated Recycled Coarse Aggregates on the Mechanical Properties of 3D Printed Recycled Concrete</a></li>
       <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sedg_zafa_hoja.2023.EFaHPoS3PLCM/">Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF,
+      author            = "Meiyan Bai and Yuching Wu and Jianzhuang Xiao and Tao Ding and Kequan Yu",
+      title             = "Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers",
+      doi               = "10.1016/j.jobe.2023.106477",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Bai, Y. Wu, J. Xiao, T. Ding and K. Yu, “Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers”, <i>Journal of Building Engineering</i>, 2023, doi: 10.1016/j.jobe.2023.106477.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bai, Meiyan, Yuching Wu, Jianzhuang Xiao, Tao Ding, and Kequan Yu. “Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers”. <i>Journal of Building Engineering</i>, 2023. https://doi.org/10.1016/j.jobe.2023.106477.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

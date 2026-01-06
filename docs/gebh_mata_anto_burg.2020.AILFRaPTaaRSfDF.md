@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lukas Gebhard, Jaime Mata-Falcón, Ana-Maria Anton, Joris Burger, Ena Lloret-Fritschi, Lex Reiter, Benjamin Dillenburger, Fabio Gramazio, Matthias Kohler, Robert Flatt, Walter Kaufmann
+    - footer
+title: Gebhard Lukas, Mata-Falcón Jaime, Anton Ana-Maria, Burger Joris, Lloret-Fritschi Ena, Reiter Lex, Dillenburger Benjamin, Gramazio Fabio, Kohler Matthias, Flatt Robert, Kaufmann Walter
 description:
 tags:
  - alignment
@@ -17,40 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.research-collection.ethz.ch/bitstream/20.500.11850/445978/1/Gebhardetal.-2020-AlignedInterlayerFibreReinforcementandPost-te.pdf) Aligned Inter-Layer Fiber-Reinforcement and Post-Tensioning as a Reinforcement-Strategy for Digital Fabrication ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_63" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_63</a>
+#Aligned Inter-Layer Fiber-Reinforcement and Post-Tensioning as a Reinforcement-Strategy for Digital Fabrication ([2020-07](date/2020/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/445978/1/Gebhardetal.-2020-AlignedInterlayerFibreReinforcementandPost-te.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_63" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_63" target="_blank">10.1007/978-3-030-49916-7_63</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gebhard_lukas"><b>Gebhard</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/burger_jan_joris"><b>Burger</b>&nbsp;Joris</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaufmann_walter"><b>Kaufmann</b>&nbsp;Walter</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 622-631
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a> <a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> <a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 622-631
-
-:aca-blank:{ .lg .middle}
-    [`#alignment`](keyword/alignment)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#fiber`](keyword/fiber)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#post`](keyword/post)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Aligned%20Inter-Layer%20Fiber-Reinforcement%20and%20Post-Tensioning%20as%20a%20Reinforcement-Strategy%20for%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088241621&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,18 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3041728399" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_63" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_63?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital Fabrication with Concrete (DFC) brings many new possibilities for the design and production of concrete structures, promising to revolutionise the concrete construction industry. While technological and material challenges have already been overcome to a large extent, there is still a lack of sufficiently mature reinforcement solutions. Therefore, most digital technologies encounter difficulties in producing load-bearing concrete members. Fibre reinforced concrete (FRC) is one of the most promising reinforcing strategies for DFC due to its capability for producing complex geometries. In conventional FRC, the fibres are dispersed randomly in the concrete matrix; for DFC applications this (i) forces to re-engineer the concrete processing (pumpability and rheology), and (ii) requires using very short and expensive fibres due to pumpability constraints. This paper presents a new reinforcement strategy for using FRC in layered DFC technologies that overcomes the stated limitations of conventional FRC. It consists in adding fibres right after the deposition of each layer of concrete in a controlled amount and orientation and providing a posttensioning reinforcement in the perpendicular direction. The mechanical behaviour, as well as the potential and first implementation steps in the Concrete Extrusion 3D Printing and Eggshell technologies under development at ETH Zurich, are discussed. The mechanical results show a significant increase in tensile resistance of the aligned interlayer fibre reinforcement compared to conventional FRC. However, for large-scale applications, the main loads still need to be carried by post-tensioning reinforcement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -84,9 +53,6 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
-      <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../gebh_mata_anto_dill.2020.EIoRSfCE3PB/">Experimental Investigation of Reinforcement-Strategies for Concrete-Extrusion 3D Printed Beams</a></li>
-      <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>
-      <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/markic_tomislav"><b>Markić</b> Tomislav</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../gebh_mata_mark_kauf.2021.AILFRfDFwC/">Aligned Inter-Layer Fiber-Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/lopez_lopez_d"><b>López</b> D.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../liew_lope_mele_bloc.2017.DFaToaPTVUCF/">Design, Fabrication and Testing of a Prototype, Thin-Vaulted, Unreinforced Concrete Floor</a></li>
@@ -97,10 +63,9 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../wang_flat.2019.Pot1RICoCaDFb/">Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication:<br/>Correction</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ahad_vali.2025.ZRMf3CP/">Zigzag Reinforcement Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../caro_duco_demo.2025.RoPS/">Reinforcement of Printed Structures</a></li>
@@ -122,6 +87,36 @@ tags:
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../gebh_mata_anto_dill.2020.EIoRSfCE3PB/">Experimental Investigation of Reinforcement-Strategies for Concrete-Extrusion 3D Printed Beams</a></li>
-      <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gebh_mata_anto_burg.2020.AILFRaPTaaRSfDF,
+      author            = "Lukas Gebhard and Jaime Mata-Falcón and Ana-Maria Anton and Joris Jan Burger and Ena Lloret-Fritschi and Lex Reiter and Benjamin Dillenburger and Fabio Gramazio and Matthias Daniel Kohler and Robert Johann Flatt and Walter Kaufmann",
+      title             = "Aligned Inter-Layer Fiber-Reinforcement and Post-Tensioning as a Reinforcement-Strategy for Digital Fabrication",
+      doi               = "10.1007/978-3-030-49916-7_63",
+      year              = "2020",
+      volume            = "28",
+      pages             = "622--631",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Gebhard, “Aligned Inter-Layer Fiber-Reinforcement and Post-Tensioning as a Reinforcement-Strategy for Digital Fabrication”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 622–631. doi: 10.1007/978-3-030-49916-7_63.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gebhard, Lukas, Jaime Mata-Falcón, Ana-Maria Anton, Joris Jan Burger, Ena Lloret-Fritschi, Lex Reiter, Benjamin Dillenburger, et al.. “Aligned Inter-Layer Fiber-Reinforcement and Post-Tensioning as a Reinforcement-Strategy for Digital Fabrication”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:622–31, 2020. https://doi.org/10.1007/978-3-030-49916-7_63.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

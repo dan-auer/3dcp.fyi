@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luong Pham, Guoxing Lu, Jonathan Tran
+    - footer
+title: Pham Luong, Lu Guoxing, Tran Jonathan
 description:
 tags:
  - concrete
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831533) Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1089/3dp.2020.0172" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2020.0172</a>
+#Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete ([2022-02](date/2022/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831533) <a href="https://doi.org/10.1089/3dp.2020.0172" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0172" target="_blank">10.1089/3dp.2020.0172</a>
 
--------------------------
+<a href="../../../author/pham_luong"><b>Pham</b>&nbsp;Luong</a></span>, <a href="../../../author/lu_guoxing"><b>Lu</b>&nbsp;Guoxing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 1, pp. 46-63
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pham_luong"><b>Pham</b> Luong</a>
-,     <a href="../../../author/lu_guoxing"><b>Lu</b> Guoxing</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 1, pp. 46-63
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#fiber`](keyword/fiber)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#pattern`](keyword/pattern)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influences%20of%20Printing-Pattern%20on%20Mechanical%20Performance%20of%20Three-Dimensional-Printed%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124878079&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3120517238" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2020.0172" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2020.0172?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Underperformed interfacial bond and anisotropic properties are often observed in three-dimensional-printed concrete, where the printing pattern is unidirectional. Such issues could be potentially alleviated by replicating microstructures of natural materials or applying different architectures, where printed layers are arranged into unique and unconventional patterns. Furthermore, the quest to develop printing methods for highly complex or self-support concrete architecture could benefit from these nature-inspired patterns. In this work, the influences of different architectural arrangements of layers on mechanical properties of hardened concrete on compressive and flexural strengths are investigated. Specifically, unidirectional (0), cross-ply (0/90), quasi-isotropic (0/ –45/90), and helicoidal patterns (with pitch angles of 10,20, and 30) are used to create unidirectional, bidirectional, and multidirectional layers in printed objects without and with 0.75% by volume of 6 mm-long steel fibers. The experimental results demonstrate considerable improvements in the flexural strengths of nontraditional specimens without steel fibers over the unidirectional control with a few exceptions. Among investigated patterns, the quasiisotropic demonstrates significant influences in both compressive and flexural responses of printed concrete samples without steel fibers. The addition of steel fibers leads to noticeable improvement on both compressive and flexural strengths of samples in any pattern compared with their counterparts without fibers. Besides, the inclusion of steel fibers into unconventional layups (cross-ply, quasi-isotropic, and helicoidal patterns) leads to the alleviation of directional dependence of mechanical properties, which is a limitation of the unidirectional samples with fibers. Of all helicoidal patterns, the one with a 10-angle layup is shown to be more beneficial to the flexural strength enhancement and damage resistance in bending. X-ray microcomputed tomography measurements are performed to visualize the direction and distribution of fibers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -91,8 +68,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
@@ -130,12 +107,36 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/setunge_sujeeva"><b>Setunge</b> Sujeeva</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_setu_tran.2022.3CPwCCRCR/">3D Concrete Printing with Cement-Coated Recycled Crumb Rubber:<br/>Compressive and Microstructural Properties</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
-      <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../liu_li_fox_tran.2022.3CPoBIBS/">3D Concrete Printing of Bio-Inspired Bouligand Structure:<br/>A Study on Impact-Resistance</a></li>
-      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/choudhry_kumar_niranjan"><b>Choudhry</b> Niranjan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../nguy_chou_pand_nguy.2022.PoCBRw3PBIPSStTPB/">Performance of Concrete Beam Reinforced with 3D Printed Bio-Inspired Primitive Scaffold Subjected to Three-Point Bending</a></li>
-      <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
-      <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a></li>
-      <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
-      <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bres_sani_nabo.2021.TPSDaMiR3CP/">Tool-Path Simulation, Design and Manipulation in Robotic 3D Concrete Printing</a></li>
-      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../nguy_pand_zhan_nguy.2021.DDCaMf3CP/">Digital Design Computing and Modelling for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pham_lu_tran.2022.IoPPoMPoTDPFRC,
+      author            = "Luong Pham and Guoxing Lu and Jonathan Phuong Tran",
+      title             = "Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete",
+      doi               = "10.1089/3dp.2020.0172",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+      volume            = "9",
+      number            = "1",
+      pages             = "46--63",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Pham, G. Lu and J. P. Tran, “Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete”, <i>3D Printing and Additive Manufacturing</i>, vol. 9, no. 1, pp. 46–63, 2022, doi: 10.1089/3dp.2020.0172.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pham, Luong, Guoxing Lu, and Jonathan Phuong Tran. “Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete”. <i>3D Printing and Additive Manufacturing</i> 9, no. 1 (2022): 46–63. https://doi.org/10.1089/3dp.2020.0172.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 #  Suiker Akke 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_suik.2025.CoEAEPPo3PMUIT/">Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing</a></li>
   <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/gumruk_idil"><b>Gümrük</b> Idil</a>, <a href="../../../author/driessen_a_saar"><b>Driessen</b> Saar</a>, <a href="../../../author/ferguson_matthew"><b>Ferguson</b> Matthew</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wolf_gumr_drie_ferg.2024.3CPaC/">3D Concrete Printing and Circularity:<br/>Designing, Testing, and Modelling Dry Joints for Structural Applications</a></li>
   <li><a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/menkovski_vlado"><b>Menkovski</b> Vlado</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../nefs_menk_bos_suik.2023.AISo3PFCMSUaNN/">Automated Image Segmentation of 3D Printed Fibrous Composite Micro-Structures Using a Neural Network</a></li>
   <li><a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../nefs_over_sale_suik.2022.CoMPo3PSHCCWOPS/">Consistency of Mechanical Properties of 3D Printed Strain-Hardening Cementitious Composites Within One Printing System</a></li>

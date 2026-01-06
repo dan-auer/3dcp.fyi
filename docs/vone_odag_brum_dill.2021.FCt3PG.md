@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vera Voney, Pietro Odaglia, Coralie Brumaud, Benjamin Dillenburger, Guillaume Habert
+    - footer
+title: Voney Vera, Odaglia Pietro, Brumaud Coralie, Dillenburger Benjamin, Habert Guillaume
 description:
 tags:
  - cast
@@ -13,30 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2021.106374) From Casting to 3D Printing Geopolymers:<br/>:aca-blank: A Proof of Concept ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106374" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106374</a>
+#From Casting to 3D Printing Geopolymers&nbsp;([2021-02](date/2021/02))
+<div class="h1-like">A Proof of Concept</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2021.106374) <a href="https://doi.org/10.1016/j.cemconres.2021.106374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106374" target="_blank">10.1016/j.cemconres.2021.106374</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8005-1187" title="ORCID: 0000-0002-8005-1187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/voney_vera"><b>Voney</b>&nbsp;Vera</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6939-8366" title="ORCID: 0000-0002-6939-8366" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/odaglia_pietro"><b>Odaglia</b>&nbsp;Pietro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8892-9214" title="ORCID: 0000-0002-8892-9214" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brumaud_coralie"><b>Brumaud</b>&nbsp;Coralie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habert_guillaume"><b>Habert</b>&nbsp;Guillaume</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 143
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/voney_vera"><b>Voney</b> Vera</a> <a href="https://orcid.org/0000-0002-8005-1187" title="ORCID: 0000-0002-8005-1187" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a> <a href="https://orcid.org/0000-0002-6939-8366" title="ORCID: 0000-0002-6939-8366" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> <a href="https://orcid.org/0000-0002-8892-9214" title="ORCID: 0000-0002-8892-9214" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 143, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#concept`](keyword/concept)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#proof`](keyword/proof)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proof"><button class="btn">#proof</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Casting%20to%203D%20Printing%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100423667&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3128772871" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106374" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106374?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The objective of this paper is to define a mix design strategy allowing the implementation of geopolymer in powder bed 3D printing. In a selective binder approach, an aluminosilicate powder bed is activated through the deposit of an alkaline silicate solution. We first show that, in comparison to casting, this technology requires mastering the spreading of the liquid into the powder bed to ensure that the reaction takes place where it is needed. A series of experiments at the drop level, mimicking the 3D printing process, were performed to determine the printing solution composition for a given powder bed packing. We then highlight the relationship between the compressive strength of the printed geopolymer and the powder bed saturation, controlled by the printing parameters. Finally, SEM/EDX analysis confirm the formation of geopolymer with desired Si/Al and Na/ Al ratios in the resulting printed material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -72,8 +53,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vone_odag_brum_dill.2020.GFfBJ3P/">Geopolymer Formulation for Binder-Jet 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>Bakri Abdullah</b> Mohd</a>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tany_selo_bakr_raza.2025.TRaMPo3PG/">The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>A Review</a></li>
@@ -101,6 +82,34 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../mai_lowk_perr.2022.FIiPBfSCA/">Fluid-Intrusion in Powder-Beds for Selective Cement-Activation:<br/>An Experimental and Analytical Study</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../salm_ma_ijaz_wang.2021.IaPoCMaDiEB3CP/">Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing:<br/>Prospects and Challenges</a></li>
-      <li><a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../salm_ma_ijaz_wang.2021.WILBiE3CP/">Weak Inter-Layer Bonding in Extrusion 3D Concrete Printing:<br/>A Comparative Analysis of Mitigation Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vone_odag_brum_dill.2021.FCt3PG,
+      author            = "Vera Voney and Pietro Odaglia and Coralie Brumaud and Benjamin Dillenburger and Guillaume Habert",
+      title             = "From Casting to 3D Printing Geopolymers: A Proof of Concept",
+      doi               = "10.1016/j.cemconres.2021.106374",
+      year              = "2021",
+      journal           = "Cement and Concrete Research",
+      volume            = "143",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Voney, P. Odaglia, C. Brumaud, B. Dillenburger and G. Habert, “From Casting to 3D Printing Geopolymers: A Proof of Concept”, <i>Cement and Concrete Research</i>, vol. 143, 2021, doi: 10.1016/j.cemconres.2021.106374.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Voney, Vera, Pietro Odaglia, Coralie Brumaud, Benjamin Dillenburger, and Guillaume Habert. “From Casting to 3D Printing Geopolymers: A Proof of Concept”. <i>Cement and Concrete Research</i> 143 (2021). https://doi.org/10.1016/j.cemconres.2021.106374.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

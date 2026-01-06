@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Swapnil Ghodke, Arshdeep Singh, Bhupinder Singh, Shubhankar Chowdhury
+    - footer
+title: Ghodke Swapnil, Singh Arshdeep, Singh Bhupinder, Chowdhury Shubhankar
 description:
 tags:
  - additive
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additively Manufactured Smart Materials and Structures in Construction and Building Applications ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/b978-0-443-16144-5.00019-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-16144-5.00019-3</a>
+#Additively Manufactured Smart Materials and Structures in Construction and Building Applications ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-16144-5.00019-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-16144-5.00019-3" target="_blank">10.1016/b978-0-443-16144-5.00019-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0796-2566" title="ORCID: 0000-0002-0796-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b>&nbsp;Swapnil</a></span>, <a href="../../../author/singh_arshdeep"><b>Singh</b>&nbsp;Arshdeep</a></span>, <a href="../../../author/singh_bhupinder"><b>Singh</b>&nbsp;Bhupinder</a></span>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b>&nbsp;Shubhankar</a></span><br>
+Contribution - Additively Manufactured Smart Materials and Structures, pp. 337-365
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="https://orcid.org/0000-0002-0796-2566" title="ORCID: 0000-0002-0796-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>
-,     <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>
-,     <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Additively Manufactured Smart Materials and Structures, pp. 337-365
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#smart`](keyword/smart)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additively%20Manufactured%20Smart%20Materials%20and%20Structures%20in%20Construction%20and%20Building%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019728513&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413832161" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-16144-5.00019-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-16144-5.00019-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The global population growth demands matching infrastructure facilities from the construction industry, which is likely to continue since the average global population growth rate is expected to be 0.84% annually from 2010 to 2050 [1]. To overcome the housing shortage and other infrastructure requirements, governments of different nations are shifting from conventional Reinforced Concrete (RC) construction to precast construction and other speedy construction technologies. For instance, the Government of India has started the Global Housing Technology Challenge—India (GHTC-India), which aims to recognize and mainstream innovative construction technologies from across the globe for the housing construction sector that is seismicresilient, sustainable, speedier, and cost-effective [2]. The concept of additive manufacturing (AM) in the construction sector is recent and progressing well day by day. 3D concrete printing (3DCP) is an example of additive manufacturing in the construction sector, which, like conventional technologies, utilizes materials such as sand, water, superplasticizers, fibers, steel reinforcement, and cementitious materials as raw materials. The 3DCP involves a layer-by-layer construction with the help of a concrete printer. In order to construct a 3D-printed concrete structure, first, a digital model of the structure is created in modeling software. Then, based on the design prototype, a digitally controlled 3D printer builds the structure layer by layer [3–5]. The speed of construction is faster by 50%–80% than conventional construction since no formwork is used in this technology, which also costs about up to 50% of the construction cost [4]. Material consumption and waste are also reduced by 30%–60%. The 3DCP possesses flexibility in construction and benefits in terms of increased construction speed, reduced labor requirements, reduced material wastage, increased safety at the site, construction of complex structures, and overall construction costs [4]. The collaboration of robotics with engineering plays a vital role in successfully implementing 3DCP. In the last decade, many advancements have been made in placement methods [6–11], materials [12–14], and the design of concrete printers from lab scale to the real construction scale for the construction of 3D-printed concrete structures [14]. Robotics in the construction sector can be helpful in realizing the goals of developing countries by fostering faster, more economical, and sustainable construction in the near future.  The construction industry consumes approximately 40% of the natural resources globally [5], and 3DCP technology helps in reducing this amount by minimizing material wastage. The raw material in 3DCP can be in the form of powder (cementitious, ceramic, geopolymer, calcined clay), liquid (water, admixtures), and solid (aggregates, fibers) [15,16]. The extrusion of cementitious material is done with the help of a printing head mounted on a large-scale computer-controlled gantry and a nozzle, which can be of different shapes. The mixed design of the printable material is a crucial factor in deciding the printing quality as it will determine the flowability, extrudability, buildability, and, ultimately, the strength of the material [3,5]. An inadequate mix can lead to increased pressure in the printing head, clogging of material, weak surface bonding, poor buildability, and poor surface finish. So, materials used in a 3DCP mix need careful attention. In addition, compared to conventional construction, reinforcement placement is a major challenge in 3DCP structures. A minimum reinforcement is required in the structure not only to increase the ductility of the structures but also to prevent shrinkage cracks. Some of the ways adopted to provide reinforcement in 3DCP structures are placing steel bars before printing, reinforcement by providing ducts, and fiber reinforcement [3]. However, so far, there is no proven reinforcement strategy in 3DCP that can compete with the reinforcement efficiency of conventional technologies. To advance concrete 3DCP as a sustainable building option, it’s essential to analyze all critical steps, including material production, mixing, transportation, pumping, printing, maintenance, and recycling [17–19]. Optimizing material utilization, carbon footprint, and energy use can lead to more sustainable solutions [20–22]. This chapter provides a comprehensive overview of the materials used in the 3DCP, different reinforcement strategies, test methods for 3DCP materials, sustainability and cost-effectiveness, applications, and challenges in constructing large-scale 3DCP structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "62 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
@@ -130,7 +108,36 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ghod_sing_sing_chow.2025.AMSMaSiCaBA,
+      author            = "Swapnil Balasaheb Ghodke and Arshdeep Singh and Bhupinder Singh and Shubhankar Roy Chowdhury",
+      title             = "Additively Manufactured Smart Materials and Structures in Construction and Building Applications",
+      doi               = "10.1016/b978-0-443-16144-5.00019-3",
+      year              = "2025",
+      pages             = "337--365",
+      booktitle         = "Additively Manufactured Smart Materials and Structures",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. B. Ghodke, A. Singh, B. Singh and S. R. Chowdhury, “Additively Manufactured Smart Materials and Structures in Construction and Building Applications”, in <i>Additively Manufactured Smart Materials and Structures</i>,  2025, pp. 337–365. doi: 10.1016/b978-0-443-16144-5.00019-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghodke, Swapnil Balasaheb, Arshdeep Singh, Bhupinder Singh, and Shubhankar Roy Chowdhury. “Additively Manufactured Smart Materials and Structures in Construction and Building Applications”. In <i>Additively Manufactured Smart Materials and Structures</i>, 337–65, 2025. https://doi.org/10.1016/b978-0-443-16144-5.00019-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

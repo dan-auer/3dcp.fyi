@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: M. Gurunandan, Aparna Nedunuri, Jayant Tanwar, Prakash Nanthagopalan, Salman Muhammad
+    - footer
+title: Gurunandan M., Nedunuri Aparna, Tanwar Jayant, Nanthagopalan Prakash, Muhammad Salman
 description:
 tags:
  - activation
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.105954" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.105954</a>
+#Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.105954" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.105954" target="_blank">10.1016/j.cemconcomp.2025.105954</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6140-7432" title="ORCID: 0000-0002-6140-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gurunandan_m"><b>Gurunandan</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3672-2729" title="ORCID: 0000-0003-3672-2729" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nedunuri_sai-surya-sree_aparna"><b>Nedunuri</b>&nbsp;Aparna</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-6353-9833" title="ORCID: 0009-0005-6353-9833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanwar_jayant"><b>Tanwar</b>&nbsp;Jayant</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b>&nbsp;Prakash</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2812-9351" title="ORCID: 0000-0003-2812-9351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muhammad_salman"><b>Muhammad</b>&nbsp;Salman</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 157, No. 105954
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gurunandan_m"><b>Gurunandan</b> M.</a> <a href="https://orcid.org/0000-0002-6140-7432" title="ORCID: 0000-0002-6140-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nedunuri_sai-surya-sree_aparna"><b>Nedunuri</b> Aparna</a> <a href="https://orcid.org/0000-0003-3672-2729" title="ORCID: 0000-0003-3672-2729" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tanwar_jayant"><b>Tanwar</b> Jayant</a> <a href="https://orcid.org/0009-0005-6353-9833" title="ORCID: 0009-0005-6353-9833" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muhammad_salman"><b>Muhammad</b> Salman</a> <a href="https://orcid.org/0000-0003-2812-9351" title="ORCID: 0000-0003-2812-9351" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 157, No. 105954
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#aggregate`](keyword/aggregate)
-    [`#alkali`](keyword/alkali)
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#concrete`](keyword/concrete)
-    [`#demolition`](keyword/demolition)
-    [`#development`](keyword/development)
-    [`#ggbfs`](keyword/ggbfs)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/ggbfs"><button class="btn">#ggbfs</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D-Printable%20Alkali-Activated%20GGBFS%20and%20Fly-Ash-Binder-Based%20Mortars%20with%20Concrete-Demolition-Waste%20as%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216869199&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407167427" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.105954" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.105954?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printable alkali-activated mortar mixtures using concrete demolition waste (CDW) as aggregates, which are pumpable, extrudable, buildable up to 1000 mm with an open time of 180 minutes were developed in this study. The mixtures provided a minimum compressive strength of 50 MPa at 28 days age. The effect of various parameters such as binder composition, water-to-binder ratio, molar modulus and activator dosage on workability of the mixtures was investigated. The mixtures were assessed for pumpability, extrudability and buildability in fresh state and for compressive and splitting tensile strength in hardened state. The high workability mixtures (spread diameter>180 mm) recorded lower pumping pressure (<6 bar) and higher extrusion test discharge (>25 cm3/s at 25 rpm) inferring that they were easier to pump and extrude. However, they possessed lower strength (<1 kg) and stiffness (<2 kg/mm) at 20th minute in empirical buildability test, leading to lower buildable height (100 mm). The mixtures with spread diameter of 135–165 mm having static yield stress of 1.8–2.4 kPa, were apt for 3D-printing as it was buildable (>500 mm) without compromising on pumpability and extrudability. FTIR, XRD and TGA studies revealed that the prolonged workable time was due to the formation of sodium carbonate resulting from the reaction of carbonate phases in CDW with sodium hydroxide. The printing process has not affected the mechanical properties of the mixtures and there is no cold joint formed between subsequently printed layers. The 3D-printed specimens exhibited an anisotropic index of less than 0.30 indicating that they were isotopic in compression.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
@@ -111,7 +83,38 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{guru_nedu_tanw_nant.2025.Do3PAAGaFABBMwCDWaA,
+      author            = "M. Gurunandan and Aparna Sai Surya Sree Nedunuri and Jayant Tanwar and Prakash Nanthagopalan and Salman Muhammad",
+      title             = "Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates",
+      doi               = "10.1016/j.cemconcomp.2025.105954",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "157",
+      pages             = "105954",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Gurunandan, A. S. S. S. Nedunuri, J. Tanwar, P. Nanthagopalan and S. Muhammad, “Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates”, <i>Cement and Concrete Composites</i>, vol. 157, p. 105954, 2025, doi: 10.1016/j.cemconcomp.2025.105954.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gurunandan, M., Aparna Sai Surya Sree Nedunuri, Jayant Tanwar, Prakash Nanthagopalan, and Salman Muhammad. “Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates”. <i>Cement and Concrete Composites</i> 157 (2025): 105954. https://doi.org/10.1016/j.cemconcomp.2025.105954.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

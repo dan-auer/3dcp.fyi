@@ -8,7 +8,7 @@ search:
 
 # #exposure
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../daun_phei_pans.2025.Bo3PCWEtHT/">Behavior of 3D Printed Concrete Walls Exposed to High Temperatures</a></li>
   <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
   <li><a href="../../../author/ma_jinyi"><b>Ma</b> Jinyi</a>, <a href="../../../author/zhang_haiyan"><b>Zhang</b> Haiyan</a>, <a href="../../../author/wang_yanzhi"><b>Wang</b> Yanzhi</a>, <a href="../../../author/xiong_lu"><b>Xiong</b> Lu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ma_zhan_wang_xion.2025.EoCBPaRFAoPo3PCAHTE/">Effect of Clay Brick Powder and Recycled Fine Aggregates on Properties of 3D Printed Concrete After High Temperature Exposure</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jana Daher, Joelle Kleib, Mahfoud Benzerzour, Nor-Edine Abriak, Georges Aouad
+    - footer
+title: Daher Jana, Kleib Joelle, Benzerzour Mahfoud, Abriak Nor-Edine, Aouad Georges
 description:
 tags:
  - base
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/7/1618/pdf?version=1687934498) The Development of Soil-Based 3D Printable Mixtures:<br/>:aca-blank: A Mix-Design Methodology and a Case Study ([2023-06](date/2023/06))
-<a href="https://doi.org/10.3390/buildings13071618" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13071618</a>
+#The Development of Soil-Based 3D Printable Mixtures&nbsp;([2023-06](date/2023/06))
+<div class="h1-like">A Mix-Design Methodology and a Case Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/7/1618/pdf?version=1687934498) <a href="https://doi.org/10.3390/buildings13071618" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13071618" target="_blank">10.3390/buildings13071618</a>
 
--------------------------
+<a href="../../../author/daher_jana"><b>Daher</b>&nbsp;Jana</a></span>, <a href="../../../author/kleib_joelle"><b>Kleib</b>&nbsp;Joelle</a></span>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b>&nbsp;Mahfoud</a></span>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b>&nbsp;Nor-Edine</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aouad_georges"><b>Aouad</b>&nbsp;Georges</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 7, No. 1618
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/daher_jana"><b>Daher</b> Jana</a>
-,     <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>
-,     <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>
-,     <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a>
-,     <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 7, No. 1618
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#case`](keyword/case)
-    [`#design`](keyword/design)
-    [`#development`](keyword/development)
-    [`#method`](keyword/method)
-    [`#mixing`](keyword/mixing)
-    [`#mixture`](keyword/mixture)
-    [`#printability`](keyword/printability)
-    [`#soil`](keyword/soil)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Development%20of%20Soil-Based%203D%20Printable%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166176173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382467000" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13071618" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13071618?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is one of the newest technologies in the field of construction. However, despite the various opportunities that this technique offers today, it still has a high environmental impact, as most 3D-printable materials contain high amounts of cement. On the other hand, due to the large volumes of soil excavated each year across the world, there is a pressing need for proper management to dispose of it or reuse it efficiently. This study aims to develop sustainable and resistant 3D-printable materials with low environmental impact using excavated soil. Firstly, a series of tests were carried out to find the most appropriate superplasticizer and the amount required to develop the printable mixtures. Next, the extrudability and buildability were evaluated and verified to validate the printability of the developed mixtures. A 3D laboratory printer was also used to validate the printability of the mixtures on a larger scale. Then, the fresh and hardened properties of the printable mixtures were investigated. Three printable mixtures were developed, with the most environmentally friendly mixture having a soil content of 1602 kg/m3 and a cement content of 282 kg/m3. The mixtures demonstrated satisfactory characteristics and properties in both fresh and hardened states. On the one hand, the mixtures were extrudable and buildable at two laboratory scales. On the other hand, the mixtures presented sufficient compressive strengths, ranging from 16 MPa to 34 MPa, despite their high soil content and low cement content. In addition, their compressive strengths were found to be higher than the minimum strength required for structural concrete. Consequently, this study highlights the possibility of developing ecological, sustainable and resistant mixtures that can be used in 3D-printing construction applications using excavated soil.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -114,8 +91,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yous_rash_koc.2025.AMfVAULESaBWM/">Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials</a></li>
@@ -126,4 +103,35 @@ tags:
       <li><a href="../../../author/buson_marcio"><b>Buson</b> Márcio</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a>, <a href="../../../author/rezende_antonio_marco"><b>Rezende</b> Marco</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../buso_varu_reze.2024.FIoTDPwEBMatFoEotUoP/">First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto</a></li>
       <li><a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../roch_fari_luca.2024.AMoEBM/">Additive Manufacturing of Earth-Based Materials:<br/>A Literature Review on Mortar-Composition, Extrusion, and Processing Earth</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dahe_klei_benz_abri.2023.TDoSB3PM,
+      author            = "Jana Daher and Joelle Kleib and Mahfoud Benzerzour and Nor-Edine Abriak and Georges Aouad",
+      title             = "The Development of Soil-Based 3D Printable Mixtures: A Mix-Design Methodology and a Case Study",
+      doi               = "10.3390/buildings13071618",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "7",
+      pages             = "1618",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Daher, J. Kleib, M. Benzerzour, N.-E. Abriak and G. Aouad, “The Development of Soil-Based 3D Printable Mixtures: A Mix-Design Methodology and a Case Study”, <i>Buildings</i>, vol. 13, no. 7, p. 1618, 2023, doi: 10.3390/buildings13071618.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Daher, Jana, Joelle Kleib, Mahfoud Benzerzour, Nor-Edine Abriak, and Georges Aouad. “The Development of Soil-Based 3D Printable Mixtures: A Mix-Design Methodology and a Case Study”. <i>Buildings</i> 13, no. 7 (2023): 1618. https://doi.org/10.3390/buildings13071618.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

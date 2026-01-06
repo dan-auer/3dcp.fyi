@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mingxu Chen, Jiabin Xu, Lianwang Yuan, Piqi Zhao, Qiuyi Li, Lingchao Lu, Liang Wang
+    - footer
+title: Chen Mingxu, Xu Jiabin, Yuan Lianwang, Zhao Piqi, Li Qiuyi, Lu Lingchao, Wang Liang
 description:
 tags:
  - assessment
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2331201?needAccess=true) Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1080/17452759.2024.2331201" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2331201</a>
+#Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2331201?needAccess=true) <a href="https://doi.org/10.1080/17452759.2024.2331201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2331201" target="_blank">10.1080/17452759.2024.2331201</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/xu_jiabin"><b>Xu</b>&nbsp;Jiabin</a></span>, <a href="../../../author/yuan_lianwang"><b>Yuan</b>&nbsp;Lianwang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_piqi"><b>Zhao</b>&nbsp;Piqi</a></span>, <a href="../../../author/li_qiuyi"><b>Li</b>&nbsp;Qiuyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span>, <a href="../../../author/wang_liang"><b>Wang</b>&nbsp;Liang</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>
-,     <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>
-,     <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> <a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_qiuyi"><b>Li</b> Qiuyi</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_liang"><b>Wang</b> Liang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#creep`](keyword/creep)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#protocol`](keyword/protocol)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#use`](keyword/use)
-    [`#white`](keyword/white)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/creep"><button class="btn">#creep</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/protocol"><button class="btn">#protocol</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/white"><button class="btn">#white</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Creep%20and%20Recovery-Protocol%20to%20Assess%20the%20Printability%20of%20Fiber-Reinforced%203D%20Printed%20White-Portland-Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188416755&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393072102" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2331201" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2331201?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     White Portland cement is an ideal choice for producing 3D printed coloured composites due to its inherent whiteness. However, the uncontrollable rheological properties limit the establishment of printed structures and thus affect the mechanical properties. In this study, the polyvinyl alcohol (PVA) and polypropylene (PP) fibres were utilised as reinforcement materials in 3D printed white Portland cement composites (WPCCs) to improve the printability and toughness by controlling creep properties, aiming to build better printed structures. Experimental results show that the addition of PVA and PP fibres effectively improve the creep properties of WPCCs, and printed structures can be well built by controlling creep properties. Specifically, the thixotropy of WPCCs with PVA and PP fibre is improved within specific content ranges of 0∼1% and 0.4∼0.8%, respectively. Compared with reference sample, the flexural strength increases by approximately 148.8% and 90.2% when the PVA and PP fibre contents reach 1.25% and 1%, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -112,8 +84,8 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
@@ -139,4 +111,34 @@ tags:
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asaf_bent_lari_spre.2024.GMf3PoCCaS/">Granular Materials for 3D Printing of Construction Components and Structures</a></li>
       <li><a href="../../../author/duan_jiaqi"><b>Duan</b> Jiaqi</a>, <a href="../../../author/sun_shouzheng"><b>Sun</b> Shouzheng</a>, <a href="../../../author/chi_shengfeng"><b>Chi</b> Shengfeng</a>, <a href="../../../author/hu_chunyou"><b>Hu</b> Chunyou</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../duan_sun_chi_hu.2024.EoPPoFQaFSoCFRCB3PC/">Effect of Process Parameters on Forming Quality and Flexural Strength of Continuous-Fiber-Reinforced Cement-Based 3D Printed Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC,
+      author            = "Mingxu Chen and Jiabin Xu and Lianwang Yuan and Piqi Zhao and Qiuyi Li and Lingchao Lu and Liang Wang",
+      title             = "Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites",
+      doi               = "10.1080/17452759.2024.2331201",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, “Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2331201.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Mingxu, Jiabin Xu, Lianwang Yuan, Piqi Zhao, Qiuyi Li, Lingchao Lu, and Liang Wang. “Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2331201.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

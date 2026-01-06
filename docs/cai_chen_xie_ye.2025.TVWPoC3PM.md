@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lixiong Cai, Feida Chen, Dingkun Xie, Keming Ye
+    - footer
+title: Cai Lixiong, Chen Feida, Xie Dingkun, Ye Keming
 description:
 tags:
  - cement
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04809) Time-Varying Work Performance of Cementitious 3D Printing Mortar:<br/>:aca-blank: Effect of SAC, H-PC and HPMC ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04809" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04809</a>
+#Time-Varying Work Performance of Cementitious 3D Printing Mortar&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Effect of SAC, H-PC and HPMC</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04809) <a href="https://doi.org/10.1016/j.cscm.2025.e04809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04809" target="_blank">10.1016/j.cscm.2025.e04809</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3177-8897" title="ORCID: 0000-0003-3177-8897" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_lixiong"><b>Cai</b>&nbsp;Lixiong</a></span>, <a href="../../../author/chen_feida"><b>Chen</b>&nbsp;Feida</a></span>, <a href="../../../author/xie_dingkun"><b>Xie</b>&nbsp;Dingkun</a></span>, <a href="../../../author/ye_keming"><b>Ye</b>&nbsp;Keming</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04809
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a> <a href="https://orcid.org/0000-0003-3177-8897" title="ORCID: 0000-0003-3177-8897" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_feida"><b>Chen</b> Feida</a>
-,     <a href="../../../author/xie_dingkun"><b>Xie</b> Dingkun</a>
-,     <a href="../../../author/ye_keming"><b>Ye</b> Keming</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04809
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#computer`](keyword/computer)
-    [`#effect`](keyword/effect)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#time`](keyword/time)
-    [`#variation`](keyword/variation)
-    [`#workforce`](keyword/workforce)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Varying%20Work%20Performance%20of%20Cementitious%203D%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005572516&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410556034" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04809" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04809?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Appropriate working performance of cementitious 3D printing materials is a crucial factor in the feasibility and efficiency of the 3D printing construction process. The time-varying performance of mortar is essential for designing and conducting a continuous printing process, and the quantification of the time-varying work performance of cementitious 3D printing materials is indispensable. In this study, cementitious 3D printing mortar was prepared from binding materials (52.5 portland cement (PI52.5) and sulfoaluminate cement (SAC)), aggregate (0.5-1 mm silica sand), additives (polycarboxylate superplasticizer (H-PC), hydroxypropyl methylcellulose ether (HPMC)), and polypropylene fiber (PP-F). Measuring the representative node performance, setting time, time-varying performance, fluidity, extrudability, continuity, shape retention, and deforming-bearing capacity of mortars with varied SAC, H-PC, and HPMC contents. The extrudability and continuity of mortar are characterized by measuring the feedback force and continuous nonbreaking length during the extrusion process, respectively. Meanwhile, autogenous deformation and feedback force under continuous deformation were detected to represent the autogenous deformation and deforming-bearing capacity of the 3D printing mortar, respectively. The results showed that the order of influence on setting time and open time was SAC > H-PC > HPMC. Increasing the SAC content not only reduced the autogenous deformation but also accelerated the increasing rate of bearing capacity, while increasing the H-PC content gradually slowed the development of the bearing capacity, and changing the HPMC content had little effect on the development of the deforming-bearing capacity. With the use of selected materials to print solid components, the compressive strength of the printed samples was approximately 30% lower than that of casting mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -101,8 +79,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vico-lujano_raul"><b>Vico Lujano</b> Raúl</a>, <a href="../../../author/perez-villarejo_luis"><b>Pérez Villarejo</b> Luis</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/hidalgo-torrano_pilar"><b>Hidalgo-Torrano</b> Pilar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../vico_pere_nova_hida.2025.OMFf3P/">Optimized Mortar Formulations for 3D Printing:<br/>A Rheological Study of Cementitious Pastes Incorporating Potassium-Rich Biomass Fly Ash Wastes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cai_chen_xie_ye.2025.TVWPoC3PM,
+      author            = "Lixiong Cai and Feida Chen and Dingkun Xie and Keming Ye",
+      title             = "Time-Varying Work Performance of Cementitious 3D Printing Mortar: Effect of SAC, H-PC and HPMC",
+      doi               = "10.1016/j.cscm.2025.e04809",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04809",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Cai, F. Chen, D. Xie and K. Ye, “Time-Varying Work Performance of Cementitious 3D Printing Mortar: Effect of SAC, H-PC and HPMC”, <i>Case Studies in Construction Materials</i>, p. e04809, 2025, doi: 10.1016/j.cscm.2025.e04809.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cai, Lixiong, Feida Chen, Dingkun Xie, and Keming Ye. “Time-Varying Work Performance of Cementitious 3D Printing Mortar: Effect of SAC, H-PC and HPMC”. <i>Case Studies in Construction Materials</i>, 2025, e04809. https://doi.org/10.1016/j.cscm.2025.e04809.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

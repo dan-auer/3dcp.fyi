@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zeeshan Ahmed, Freek Bos, Maikel Brunschot, Theo Salet
+    - footer
+title: Ahmed Zeeshan, Bos Freek, Brunschot Maikel, Salet Theo
 description:
 tags:
  - additive
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2019.1709009?needAccess=true&) On-Demand Additive Manufacturing of Functionally Graded Concrete ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1080/17452759.2019.1709009" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2019.1709009</a>
+#On-Demand Additive Manufacturing of Functionally Graded Concrete ([2020-02](date/2020/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2019.1709009?needAccess=true&) <a href="https://doi.org/10.1080/17452759.2019.1709009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2019.1709009" target="_blank">10.1080/17452759.2019.1709009</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b>&nbsp;Zeeshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <a href="../../../author/brunschot_caj_maikel"><b>van&nbsp;Brunschot</b>&nbsp;Maikel</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 15, Iss. 2, pp. 194-210
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brunschot_caj_maikel"><b>van Brunschot</b> Maikel</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 15, Iss. 2, pp. 194-210
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#demand`](keyword/demand)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=On-Demand%20Additive%20Manufacturing%20of%20Functionally%20Graded%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079138624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3004602880" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2019.1709009" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2019.1709009?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
-    emergence of a new design paradigm, namely functional grading of material properties by location. Target performance parameters could be material weight and insulation value or (particularly important) ductility. A generic concept to achieve this, is through the selective addition of fibres or aggregates. In 3D concrete printing (3DCP), this concept can be developed into two strategies: by adding particles (i) to the bulk mixture through a second stage mixing process at the printer head (Simultaneous Process, SP), or (ii) in between the layers of deposited cementitious filament (Repetitive Sequential Process, RSP). The present paper presents the development of specific equipment required to obtain on–demand functional grading of the printed material. Subsequently, the application of these systems in print trials is shown. The current study focussed on ductility by creating fibre–reinforced 3D printed concrete through both strategies. The mechanical performance of the obtained material has been established through compressive, flexural, and crack–mouth opening displacement tests. To underline the generic nature of the strategies, a trial with lightweight aggregates has also been performed. It was shown that particularly the SP is capable of achieving improvements in ductility and self– weight.
+    The rapid development of additive manufacturing of cementitious materials has enabled the emergence of a new design paradigm, namely functional grading of material properties by location. Target performance parameters could be material weight and insulation value or (particularly important) ductility. A generic concept to achieve this, is through the selective addition of fibres or aggregates. In 3D concrete printing (3DCP), this concept can be developed into two strategies: by adding particles (i) to the bulk mixture through a second stage mixing process at the printer head (Simultaneous Process, SP), or (ii) in between the layers of deposited cementitious filament (Repetitive Sequential Process, RSP). The present paper presents the development of specific equipment required to obtain on–demand functional grading of the printed material. Subsequently, the application of these systems in print trials is shown. The current study focussed on ductility by creating fibre–reinforced 3D printed concrete through both strategies. The mechanical performance of the obtained material has been established through compressive, flexural, and crack–mouth opening displacement tests. To underline the generic nature of the strategies, a trial with lightweight aggregates has also been performed. It was shown that particularly the SP is capable of achieving improvements in ductility and self– weight.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -82,11 +62,10 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
-      <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "44 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../ghod_sing_sing_chow.2025.AMSMaSiCaBA/">Additively Manufactured Smart Materials and Structures in Construction and Building Applications</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -131,4 +110,35 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ahme_bos_brun_sale.2020.ODAMoFGC,
+      author            = "Zeeshan Yunus Ahmed and Freek Paul Bos and Maikel C.A.J. van Brunschot and Theo A. M. Salet",
+      title             = "On-Demand Additive Manufacturing of Functionally Graded Concrete",
+      doi               = "10.1080/17452759.2019.1709009",
+      year              = "2020",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "15",
+      number            = "2",
+      pages             = "194--210",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Y. Ahmed, F. P. Bos, M. C. A. J. van Brunschot and T. A. M. Salet, “On-Demand Additive Manufacturing of Functionally Graded Concrete”, <i>Virtual and Physical Prototyping</i>, vol. 15, no. 2, pp. 194–210, 2020, doi: 10.1080/17452759.2019.1709009.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahmed, Zeeshan Yunus, Freek Paul Bos, Maikel C.A.J. van Brunschot, and Theo A. M. Salet. “On-Demand Additive Manufacturing of Functionally Graded Concrete”. <i>Virtual and Physical Prototyping</i> 15, no. 2 (2020): 194–210. https://doi.org/10.1080/17452759.2019.1709009.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

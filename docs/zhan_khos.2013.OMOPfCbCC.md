@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jing Zhang, Behrokh Khoshnevis
+    - footer
+title: Zhang Jing, Khoshnevis Behrokh
 description:
 tags:
  - construction
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimal Machine Operation Planning for Construction by Contour Crafting ([2012-09](date/2012/09))
-<a href="https://doi.org/10.1016/j.autcon.2012.08.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2012.08.006</a>
+#Optimal Machine Operation Planning for Construction by Contour Crafting ([2012-09](date/2012/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2012.08.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2012.08.006" target="_blank">10.1016/j.autcon.2012.08.006</a>
 
--------------------------
+<a href="../../../author/zhang_jing"><b>Zhang</b>&nbsp;Jing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Automation in Construction, Vol. 29, pp. 50-67
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 29, pp. 50-67
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#machine`](keyword/machine)
-    [`#operation`](keyword/operation)
-    [`#optimization`](keyword/optimization)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimal%20Machine%20Operation%20Planning%20for%20Construction%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84866550916&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,21 +36,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2067114962" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2012.08.006" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2012.08.006?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Contour Crafting is an emerging technology that uses robotics to construct free form building structures by repeatedly laying down layers of material such as concrete. The Contour Crafting technology scales up automated additive fabrication from building small industrial parts to constructing buildings. Optimal machine operation planning for Contour Crafting benefits the technology by increasing the efficiency of construction, especially for complicated structures. The research reported here has aimed at providing a systematic solution for improving the overall Contour Crafting system efficiency in building custom-designed buildings. An approach is first presented to find the optimal machine operation plan for the single nozzle Contour Crafting system. Other approaches are then presented to determine collision-free operation plans for machines with multiple nozzles. The models developed incorporate physical constraints as well as some practical construction issues.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "85 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/ye-htun_htet_thet"><b>Ye Htun</b> Thet</a>, <a href="../../../author/panuwatwanich_kriengsak"><b>Panuwatwanich</b> Kriengsak</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/jongvisuttisun_passarin"><b>Jongvisuttisun</b> Passarin</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yeh_panu_tana_jong.2025.CEAo3PHMCB/">Carbon Emission Assessment of 3D Printed Hybrid Modular Concrete Building:<br/>Work Breakdown Structure</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -151,4 +133,34 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/carlo_tony"><b>Carlo</b> Tony</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/chen_yong"><b>Chen</b> Yong</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../carl_khos_chen.2013.MAwFC/">Manufacturing Additively, with Fresh Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_khos.2013.OMOPfCbCC,
+      author            = "Jing Zhang and Behrokh Khoshnevis",
+      title             = "Optimal Machine Operation Planning for Construction by Contour Crafting",
+      doi               = "10.1016/j.autcon.2012.08.006",
+      year              = "2013",
+      journal           = "Automation in Construction",
+      volume            = "29",
+      pages             = "50--67",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhang  and B. Khoshnevis, “Optimal Machine Operation Planning for Construction by Contour Crafting”, <i>Automation in Construction</i>, vol. 29, pp. 50–67, 2013, doi: 10.1016/j.autcon.2012.08.006.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Jing, and Behrokh Khoshnevis. “Optimal Machine Operation Planning for Construction by Contour Crafting”. <i>Automation in Construction</i> 29 (2013): 50–67. https://doi.org/10.1016/j.autcon.2012.08.006.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

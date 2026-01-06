@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yanli Su, Chang Wu, Jiaqi Shang, Pu Zhang
+    - footer
+title: Su Yanli, Wu Chang, Shang Jiaqi, Zhang Pu
 description:
 tags:
  - cement
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142072" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142072</a>
+#Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142072" target="_blank">10.1016/j.conbuildmat.2025.142072</a>
 
--------------------------
+<a href="../../../author/su_yanli"><b>Su</b>&nbsp;Yanli</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5480-4547" title="ORCID: 0000-0001-5480-4547" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chang"><b>Wu</b>&nbsp;Chang</a></span>, <a href="../../../author/shang_jiaqi"><b>Shang</b>&nbsp;Jiaqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1205-3826" title="ORCID: 0000-0002-1205-3826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_pu"><b>Zhang</b>&nbsp;Pu</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 486, No. 142072
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/su_yanli"><b>Su</b> Yanli</a>
-,     <a href="../../../author/wu_chang"><b>Wu</b> Chang</a> <a href="https://orcid.org/0000-0001-5480-4547" title="ORCID: 0000-0001-5480-4547" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shang_jiaqi"><b>Shang</b> Jiaqi</a>
-,     <a href="../../../author/zhang_pu"><b>Zhang</b> Pu</a> <a href="https://orcid.org/0000-0002-1205-3826" title="ORCID: 0000-0002-1205-3826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 486, No. 142072
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#ductility`](keyword/ductility)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rubber`](keyword/rubber)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D-Printed%20High-Ductility%20Cementitious%20Composite%20with%20Sulphoaluminate%20Cement%20and%20Modified%20Crumb%20Rubber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007102071&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410944740" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142072" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142072?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A novel high-ductility cementitious composite (HDCC) for 3D printing was developed by incorporating NaOH surface-modified CR as a sustainable aggregate replacement and polyethylene (PE) fibers, while substituting ordinary Portland cement with sulphoaluminate cement (SAC) and fly ash to minimize greenhouse gas emissions. The study systematically investigated the influence of modified CR and varying fiber volume fractions (FVFs) on the balance between printability and mechanical performance. The proposed 3D-printed HDCC was assessed for flowability and printability to determine the optimal mix proportions, followed by an evaluation of their mechanical properties, including compressive strength, flexural strength, tensile properties, bending strength, and interlayer/intralayer bonding strength. Experimental findings showed that all HDCC specimens, except for specimen RPE-1.5, were successfully printed. The compressive anisotropy coefficient was higher than the flexural anisotropy coefficients for all 3D-printed HDCC specimens, with specimen RPE-1.2 emerging as the optimal mixture. Increasing FVFs had a positive effect on tensile, bending, interlayer/intralayer bonding strengths of 3D-printed HDCC specimens, while decreasing the compressive strength. Additionally, the incorporation of CR resulted in an increase in the flexural, bending and tensile properties, and a slightly reduction compressive strength of 3D-printed HDCC specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -116,7 +93,37 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{su_wu_shan_zhan.2025.MPo3PHDCCwSCaMCR,
+      author            = "Yanli Su and Chang Wu and Jiaqi Shang and Pu Zhang",
+      title             = "Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber",
+      doi               = "10.1016/j.conbuildmat.2025.142072",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "486",
+      pages             = "142072",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Su, C. Wu, J. Shang and P. Zhang, “Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber”, <i>Construction and Building Materials</i>, vol. 486, p. 142072, 2025, doi: 10.1016/j.conbuildmat.2025.142072.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Su, Yanli, Chang Wu, Jiaqi Shang, and Pu Zhang. “Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber”. <i>Construction and Building Materials</i> 486 (2025): 142072. https://doi.org/10.1016/j.conbuildmat.2025.142072.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

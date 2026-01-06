@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangpeng Cao, Shiheng Yu, Dapeng Zheng, Hongzhi Cui
+    - footer
+title: Cao Xiangpeng, Yu Shiheng, Zheng Dapeng, Cui Hongzhi
 description:
 tags:
  - bond
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.autcon.2022.104392" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104392</a>
+#Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104392" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104392" target="_blank">10.1016/j.autcon.2022.104392</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/yu_shiheng"><b>Yu</b>&nbsp;Shiheng</a></span>, <a href="../../../author/zheng_dapeng"><b>Zheng</b>&nbsp;Dapeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span><br>
+Journal Article - Automation in Construction, Vol. 141
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a> <a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>
-,     <a href="../../../author/zheng_dapeng"><b>Zheng</b> Dapeng</a>
-,     <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 141, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#interface`](keyword/interface)
-    [`#nail`](keyword/nail)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/nail"><button class="btn">#nail</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nail-Planting%20to%20Enhance%20the%20Interface%20Bonding%20Strength%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131437116&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281771594" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104392" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104392?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Weak adhesion between layers heavily declined the mechanical behavior of the 3D printed concrete. Six types of nails were inserted, screwed, and cast into the printable cementitious material to investigate the interfacial enhancement. The thread locking mechanism and nail planting were thoroughly studied via the pull-out, splitting, and computed tomography scanning tests. Flooring nails, screw nails, and self-tapping nails achieved promising pull-out strengths when inserted or screwed into the cast specimen and improved the layer bonding strength by 20.3%, 34.4%, and 38.2%, with one nail inserted, respectively; and the optimal inserted flooring nail density was found 0.3 nail/cm2 based on multi-nail inserting tests. The nail planting technique presented a promising and viable solution to improve the bonding strength between printed layers via mechanical thread locking. A hybrid manufacturing system of concrete printing and nail planting can be investigated and developed to fabricate 3D printed and nail reinforced structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -96,8 +75,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../syed_abid_khan.2025.AIMLAfPRBPi3CP/">An Interpretable Machine Learning Approach for Predicting Reinforcement Bond Performance in 3D Concrete Printing</a></li>
@@ -126,4 +105,33 @@ tags:
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../cao_yu_cui_li.2023.ISCTfRIf3PRC/">In-Situ Coating Technique for Rebar Installation for 3D Printed Reinforced Concrete</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_yu_zhen_cui.2022.NPtEtIBSi3PC,
+      author            = "Xiangpeng Cao and Shiheng Yu and Dapeng Zheng and Hongzhi Cui",
+      title             = "Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete",
+      doi               = "10.1016/j.autcon.2022.104392",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "141",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Cao, S. Yu, D. Zheng and H. Cui, “Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete”, <i>Automation in Construction</i>, vol. 141, 2022, doi: 10.1016/j.autcon.2022.104392.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Xiangpeng, Shiheng Yu, Dapeng Zheng, and Hongzhi Cui. “Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete”. <i>Automation in Construction</i> 141 (2022). https://doi.org/10.1016/j.autcon.2022.104392.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

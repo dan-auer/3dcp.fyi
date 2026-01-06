@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Burger Joris 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/vangen_kathrina"><b>Vangen</b> Kathrina</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wang_vang_burg_flat.2024.DFMPSfBLCMCC/">Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components</a></li>
   <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/akerman_marc"><b>Akerman</b> Marc</a>, <a href="../../../author/schwendemann_daniel"><b>Schwendemann</b> Daniel</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../burg_llor_aker_schw.2023.CF/">Circular Formwork:<br/>Recycling of 3D Printed Thermoplastic Formwork for Concrete</a></li>
   <li><a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../hube_burg_mata_kauf.2023.SDaToMORRSw3PF/">Structural Design and Testing of Material-Optimized Ribbed RC Slabs with 3D Printed Formwork</a></li>

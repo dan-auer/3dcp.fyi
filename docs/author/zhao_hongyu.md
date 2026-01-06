@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhao Hongyu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/yue_ziyi"><b>Yue</b> Ziyi</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_yue_gero_wang.2025.EoOaPPotBPo3PCGC/">Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhao_wang_sun_wu.2025.AASfMDi3PC/">Automated Analysis System for Micro-Defects in 3D Printed Concrete</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhao_wang_chen_liu.2025.MIo3PCUMTN/">Microcrack Investigations of 3D Printing Concrete Using Multiple Transformer Networks</a></li>

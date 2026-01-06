@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: S. Geetha, M. Selvakumar, S. Lakshmi
+    - footer
+title: Geetha S., Selvakumar M., Lakshmi S.
 description:
 tags:
  - concrete
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing Matrix Reinforced with Geogrid ([2021-07](date/2021/07))
-<a href="https://doi.org/10.1016/j.matpr.2021.07.212" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2021.07.212</a>
+#3D Concrete Printing Matrix Reinforced with Geogrid ([2021-07](date/2021/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2021.07.212" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2021.07.212" target="_blank">10.1016/j.matpr.2021.07.212</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6117-9564" title="ORCID: 0000-0002-6117-9564" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/geetha_s"><b>Geetha</b>&nbsp;S.</a></span>, <a href="../../../author/selvakumar_m"><b>Selvakumar</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5328-7883" title="ORCID: 0000-0001-5328-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakshmi_muthu_s"><b>Lakshmi</b>&nbsp;S.</a></span><br>
+Journal Article - Materials Today: Proceedings, Vol. 49, pp. 1443-1447
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geetha_s"><b>Geetha</b> S.</a> <a href="https://orcid.org/0000-0002-6117-9564" title="ORCID: 0000-0002-6117-9564" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/selvakumar_m"><b>Selvakumar</b> M.</a>
-,     <a href="../../../author/lakshmi_muthu_s"><b>Lakshmi</b> S.</a> <a href="https://orcid.org/0000-0001-5328-7883" title="ORCID: 0000-0001-5328-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, Vol. 49, pp. 1443-1447
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#matrix`](keyword/matrix)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Matrix%20Reinforced%20with%20Geogrid" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123407184&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3185638352" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2021.07.212" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2021.07.212?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the most widely used Construction material is Concrete. The quality of the concrete is highly dependent on the material proportion which in turn depends on the application that it is being used for. In the conventional method, hike in the cost of the project is majorly synonymous to the use of formwork. And this gets added up with a list that includes safety issues, wastage of material, time elapse, space constrain, labour problems, etc. The aforementioned subjects can be made effective with the application of 3D Printing Techniques in Concrete Technology. This Paper targets on optimizing the mortar mix for 3D Printing Concrete with adaptable mineral and chemical admixtures. Use of accelerators reduced the final setting time to 95 min from conventional time of 310 min. Also the use of fly ash as replacement to sand enhanced the compressive strength to 30 MPa compared to conventional concrete that had 25 MPa. Other durability parameters were also improved compared to control mix.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -75,8 +58,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>Bakri Abdullah</b> Mohd</a>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tany_selo_bakr_raza.2025.TRaMPo3PG/">The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/durmaz_taner"><b>Durmaz</b> Taner</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../tany_cosk_selo_durm.2025.EoMPo3PGMUtTM/">Examination of Mechanical Properties of 3D Printed Geopolymer-Mortar Using the Taguchi -Method</a></li>
       <li><a href="../../../author/ziada_mahmoud"><b>Ziada</b> Mahmoud</a>, <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ziad_tany_selo_cosk.2024.BBCHo3PPFRGM/">Bacteria-Based Crack-Healing of 3D Printed PVA-Fiber-Reinforced Geopolymer Mortars</a></li>
@@ -84,4 +67,34 @@ tags:
       <li><a href="../../../author/nunez-varillas_joseph_christoper"><b>Núñez Varillas</b> Christoper</a>, <a href="../../../author/regalado-espinoza_steewar_marck"><b>Regalado Espinoza</b> Marck</a>, <a href="../../../author/gago-gamboa_cecilia_angela"><b>Gago Gamboa</b> Angela</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../nune_rega_gago.2023.3P/">3D Printing:<br/>An Opportunity for the Sustainable Development of Building Construction</a></li>
       <li><a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>, <a href="../../../author/unis_h"><b>Unis</b> H.</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../qaid_yahi_taye_unis.2022.3PGC/">3D Printed Geopolymer Composites:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geet_selv_laks.2022.3CPMRwG,
+      author            = "S. Geetha and M. Selvakumar and S. Muthu Lakshmi",
+      title             = "3D Concrete Printing Matrix Reinforced with Geogrid",
+      doi               = "10.1016/j.matpr.2021.07.212",
+      year              = "2022",
+      journal           = "Materials Today: Proceedings",
+      volume            = "49",
+      pages             = "1443--1447",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Geetha, M. Selvakumar and S. M. Lakshmi, “3D Concrete Printing Matrix Reinforced with Geogrid”, <i>Materials Today: Proceedings</i>, vol. 49, pp. 1443–1447, 2022, doi: 10.1016/j.matpr.2021.07.212.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geetha, S., M. Selvakumar, and S. Muthu Lakshmi. “3D Concrete Printing Matrix Reinforced with Geogrid”. <i>Materials Today: Proceedings</i> 49 (2022): 1443–47. https://doi.org/10.1016/j.matpr.2021.07.212.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

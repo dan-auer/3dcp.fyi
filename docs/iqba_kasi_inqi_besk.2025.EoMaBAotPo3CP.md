@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Imtiaz Iqbal, Tala Kasim, Waleed Inqiad, Svetlana Besklubova, Payam Sadrolodabaee, Daniel Nowakowski, Mujib Rahman
+    - footer
+title: Iqbal Imtiaz, Kasim Tala, Inqiad Waleed, Besklubova Svetlana, Sadrolodabaee Payam, Nowakowski Daniel, Rahman Mujib
 description:
 tags:
  - analysis
@@ -14,33 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/17/23/10725/pdf?version=1764497160) Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>:aca-blank: A Meta-Analysis Approach ([2025-11](date/2025/11))
-<a href="https://doi.org/10.3390/su172310725" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su172310725</a>
+#Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">A Meta-Analysis Approach</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/17/23/10725/pdf?version=1764497160) <a href="https://doi.org/10.3390/su172310725" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su172310725" target="_blank">10.3390/su172310725</a>
 
--------------------------
+<a href="../../../author/iqbal_imtiaz"><b>Iqbal</b>&nbsp;Imtiaz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kasim_tala"><b>Kasim</b>&nbsp;Tala</a></span>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b>&nbsp;Waleed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2789-4406" title="ORCID: 0000-0003-2789-4406" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadrolodabaee_payam"><b>Sadrolodabaee</b>&nbsp;Payam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8056-5316" title="ORCID: 0000-0001-8056-5316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nowakowski_jozef_daniel"><b>Nowakowski</b>&nbsp;Daniel</a></span>, <a href="../../../author/rahman_mujib"><b>Rahman</b>&nbsp;Mujib</a></span><br>
+Journal Article - Sustainability, Vol. 17, Iss. 23, No. 10725
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>
-,     <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> <a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>
-,     <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> <a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sadrolodabaee_payam"><b>Sadrolodabaee</b> Payam</a> <a href="https://orcid.org/0000-0003-2789-4406" title="ORCID: 0000-0003-2789-4406" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nowakowski_jozef_daniel"><b>Nowakowski</b> Daniel</a> <a href="https://orcid.org/0000-0001-8056-5316" title="ORCID: 0000-0001-8056-5316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 17, Iss. 23, No. 10725
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Metakaolin%20and%20Biochar%20Addition%20on%20the%20Performance%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416843873" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su172310725" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su172310725?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing (3DCP) is an emerging digital construction technology that enables geometrically complex structures with reduced labour, material waste, and formwork. However, the sustainability of 3DCP remains constrained by its heavy reliance on Portland cement, a major source of global CO2 emissions. This study systematically examines metakaolin (MK) and biochar (BC) as sustainable additives for 3DCP, focusing on their independent effects on mechanical performance, printability, dimensional stability, and environmental impact. A comprehensive literature review (2015 to June 2025) identified 254 publications, of which 21 met the inclusion criteria for quantitative meta-analysis, contributing a total of 95 datasets for compressive and flexural strength. Pooled effect sizes were calculated using a random-effects model, supported by risk-of-bias and heterogeneity analyses. The results indicate statistically significant improvements in mechanical properties, with an overall pooled ratio of means (ROM) of 1.12 (95% CI: 1.06–1.20; I2 = 48.9%), representing the overall mechanical performance effect across all datasets, while ROM for compressive and flexural strength was calculated separately in the main analysis. Meta-regression revealed that BC increased compressive and flexural strengths by 7% and 9%, respectively, while MK achieved greater enhancements of 21% and 13.4%. Optimum performance was observed at 15–20% MK for compressive strength and 10–15% for flexural strength, whereas BC performed best at 3–5% and 2–5%, respectively. BC contributed to CO2 reductions of up to 43% through clinker substitution and biogenic carbon sequestration. These findings demonstrate that MK and BC are complementary eco-efficient modifiers capable of enhancing both structural and environmental performance in 3DCP. Future research should address long-term durability, standardisation of printing parameters, and cradle-to-grave life cycle assessments to strengthen practical implementation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
@@ -104,7 +82,38 @@ tags:
       <li><a href="../../../author/zhang_junyi"><b>Zhang</b> Junyi</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_zhan_zhan_li.2025.DPCCwPBUaEWFTT/">Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP,
+      author            = "Imtiaz Iqbal and Tala Kasim and Waleed bin Inqiad and Svetlana Besklubova and Payam Sadrolodabaee and Daniel Jozef Nowakowski and Mujib Rahman",
+      title             = "Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing: A Meta-Analysis Approach",
+      doi               = "10.3390/su172310725",
+      year              = "2025",
+      journal           = "Sustainability",
+      volume            = "17",
+      number            = "23",
+      pages             = "10725",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Iqbal, “Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing: A Meta-Analysis Approach”, <i>Sustainability</i>, vol. 17, no. 23, p. 10725, 2025, doi: 10.3390/su172310725.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Iqbal, Imtiaz, Tala Kasim, Waleed bin Inqiad, Svetlana Besklubova, Payam Sadrolodabaee, Daniel Jozef Nowakowski, and Mujib Rahman. “Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing: A Meta-Analysis Approach”. <i>Sustainability</i> 17, no. 23 (2025): 10725. https://doi.org/10.3390/su172310725.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maria Taleb, David Bulteel, Alex Montagne, Francine Roudet, Sébastien Rémond, Didier Chicot
+    - footer
+title: Taleb Maria, Bulteel David, Montagne Alex, Roudet Francine, Rémond Sébastien, Chicot Didier
 description:
 tags:
  - bond
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Thermo-Hygrometric Conditions on the Interface Bond in 3D Printed Concrete ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1617/s11527-024-02522-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-024-02522-8</a>
+#Influence of Thermo-Hygrometric Conditions on the Interface Bond in 3D Printed Concrete ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-024-02522-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-024-02522-8" target="_blank">10.1617/s11527-024-02522-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taleb_maria"><b>Taleb</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bulteel_david"><b>Bulteel</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5564-985X" title="ORCID: 0000-0001-5564-985X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/montagne_alex"><b>Montagne</b>&nbsp;Alex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8689-1013" title="ORCID: 0000-0002-8689-1013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roudet_francine"><b>Roudet</b>&nbsp;Francine</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5203-3168" title="ORCID: 0000-0002-5203-3168" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chicot_didier"><b>Chicot</b>&nbsp;Didier</a></span><br>
+Journal Article - Materials and Structures, Vol. 57, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a> <a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> <a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/montagne_alex"><b>Montagne</b> Alex</a> <a href="https://orcid.org/0000-0001-5564-985X" title="ORCID: 0000-0001-5564-985X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roudet_francine"><b>Roudet</b> Francine</a> <a href="https://orcid.org/0000-0002-8689-1013" title="ORCID: 0000-0002-8689-1013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chicot_didier"><b>Chicot</b> Didier</a> <a href="https://orcid.org/0000-0002-5203-3168" title="ORCID: 0000-0002-5203-3168" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 57, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#condition`](keyword/condition)
-    [`#influence`](keyword/influence)
-    [`#interface`](keyword/interface)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Thermo-Hygrometric%20Conditions%20on%20the%20Interface%20Bond%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209565097&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404479186" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-024-02522-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-024-02522-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     For the additive manufacturing in civil engineering, the cementitious ink must have contradictory properties to be printable, indeed it must be initially fluid enough to be pumpable and extrudable, and also should stiffen quickly after deposition to be buildable. These can influence the mechanical properties and the behavior of the printed structure. This work is focused on the role of the printing conditions, mainly time gap between successive layers and environmental conditions, on the quality of the interface between printed layers. The mechanical properties of the interface were studied by means of classical and instrumented indentation tests at micro and macroscopic scales jointly to bidirectional macro compression tests. In addition to the macrohardness tests, microindentation allows to study the role of the interface at a local scale by applying the interfacial weakness criterion based on a hardness profile established on a cross-section in the neighborhood to the plane of the interface. The influence of the printing conditions on the mechanical behavior of the interface is clearly highlighted. As an example, this criterion shows a degradation of the interface property with an increase in the time gap between layers in addition to the influence of the thermo-hygrometric conditions. For a better understanding of the mechanical behavior at the interface, additional instrumented indentation tests in the plane of the interface using macro-loads are carried out until the rupture. The critical load of fracture confirms the role of the printing conditions, whereas the compression tests are not able to show significant differences between the elaboration conditions. The indentation test, which is not widespread in the field of civil engineering, proves here that it can be very useful for a finest mechanical characterization of the material, especially for the characterization of the interface at a local scale.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -96,8 +74,38 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tale_bult_mont_roud.2024.IoTHCotIBi3PC,
+      author            = "Maria Taleb and David Bulteel and Alex Montagne and Francine Roudet and Sébastien Rémond and Didier Chicot",
+      title             = "Influence of Thermo-Hygrometric Conditions on the Interface Bond in 3D Printed Concrete",
+      doi               = "10.1617/s11527-024-02522-8",
+      year              = "2024",
+      journal           = "Materials and Structures",
+      volume            = "57",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Taleb, D. Bulteel, A. Montagne, F. Roudet, S. Rémond and D. Chicot, “Influence of Thermo-Hygrometric Conditions on the Interface Bond in 3D Printed Concrete”, <i>Materials and Structures</i>, vol. 57, no. 10, 2024, doi: 10.1617/s11527-024-02522-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Taleb, Maria, David Bulteel, Alex Montagne, Francine Roudet, Sébastien Rémond, and Didier Chicot. “Influence of Thermo-Hygrometric Conditions on the Interface Bond in 3D Printed Concrete”. <i>Materials and Structures</i> 57, no. 10 (2024). https://doi.org/10.1617/s11527-024-02522-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

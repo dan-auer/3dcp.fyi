@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wen Zhou, Wesley McGee, H. Gökçe, Victor Li
+    - footer
+title: Zhou Wen, McGee Wesley, Gökçe H., Li Victor
 description:
 tags:
  - anisotropy
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>:aca-blank: Knitting/Tilting Filaments ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.autcon.2023.105051" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.105051</a>
+#A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC)&nbsp;([2023-08](date/2023/08))
+<div class="h1-like">Knitting/Tilting Filaments</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.105051" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105051" target="_blank">10.1016/j.autcon.2023.105051</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_wen"><b>Zhou</b>&nbsp;Wen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcgee_wesley"><b>McGee</b>&nbsp;Wesley</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6978-0135" title="ORCID: 0000-0002-6978-0135" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gokce_suleyman_h"><b>Gökçe</b>&nbsp;H.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span><br>
+Journal Article - Automation in Construction, Vol. 155
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> <a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> <a href="https://orcid.org/0000-0002-6978-0135" title="ORCID: 0000-0002-6978-0135" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 155, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#bio`](keyword/bio)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#ecc`](keyword/ecc)
-    [`#engineered`](keyword/engineered)
-    [`#filament`](keyword/filament)
-    [`#inspiration`](keyword/inspiration)
-    [`#knit`](keyword/knit)
-    [`#print`](keyword/print)
-    [`#solution`](keyword/solution)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/knit"><button class="btn">#knit</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Bio-Inspired%20Solution%20to%20Alleviate%20Anisotropy%20of%203D%20Printed%20Engineered%20Cementitious%20Composites%20%283DP-ECC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166954796&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385697146" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.105051" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.105051?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Widely reported anisotropy in 3D printed cementitious structures has been a primary concern to structural integrity, especially for fiber-reinforced cementitious material, e.g., engineered cementitious composites (ECC). To alleviate the anisotropy present in 3D printed ECC (3DP-ECC), two innovative printing patterns, “knitting” and “tilting” filaments, were proposed, mimicking the natural crossed-lamellar structure of conch shells. 3D spatial paths were designed to allocate tensile/flexural resistance to multiple directions and to create an interwoven interface system to strengthen the structure. Four-point bending tests loading from three different directions were conducted. It was found that knitted and tilted filaments revealed superior or comparable bending performance to cast ECC in two favorable orientations. Furthermore, flexural performance in the weakest orientation was notably improved by knitting and tilting, with up-to-179% increases in flexural strength compared with that of parallel filaments. This novel approach holds great promise in alleviating anisotropy of 3DP-ECC without introducing additional reinforcement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "56 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
@@ -130,8 +106,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -157,4 +133,33 @@ tags:
       <li><a href="../../../author/yan_kang-tai"><b>Yan</b> Kang-Tai</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/bazarov_dilshod"><b>Bazarov</b> Dilshod</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yan_li_ye_baza.2024.ASEo3PLBECC/">Anisotropic Size-Effect of 3D Printed LC3-Based Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E,
+      author            = "Wen Zhou and Wesley McGee and H. Süleyman Gökçe and Victor C. Li",
+      title             = "A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC): Knitting/Tilting Filaments",
+      doi               = "10.1016/j.autcon.2023.105051",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "155",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zhou, W. McGee, H. S. Gökçe and V. C. Li, “A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC): Knitting/Tilting Filaments”, <i>Automation in Construction</i>, vol. 155, 2023, doi: 10.1016/j.autcon.2023.105051.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Wen, Wesley McGee, H. Süleyman Gökçe, and Victor C. Li. “A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC): Knitting/Tilting Filaments”. <i>Automation in Construction</i> 155 (2023). https://doi.org/10.1016/j.autcon.2023.105051.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

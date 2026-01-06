@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gerke Markus 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
   <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mabo_mawa_gerk.2025.GIi3CM/">Geometric Inspection in 3D Concrete Manufacturing:<br/>Comparison of Data Capturing Techniques</a></li>
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/thormahlen_jan"><b>Thormählen</b> Jan</a>, <a href="../../../author/altmann_matti"><b>Altmann</b> Matti</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../plac_thor_altm_gerk.2025.EEzBbaF/">Erste Erkenntnisse zur Bewegungsanalyse bei additiven Fertigungsprozessen</a></li>

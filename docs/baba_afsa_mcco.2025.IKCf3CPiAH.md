@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vida Babajaniniashirvani, Kereshmeh Afsari, Andrew McCoy
+    - footer
+title: Babajaniniashirvani Vida, Afsari Kereshmeh, McCoy Andrew
 description:
 tags:
  - affordability
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigating Key Competencies for 3D Concrete Printing in Affordable Housing ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1061/9780784486139.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/9780784486139.003</a>
+#Investigating Key Competencies for 3D Concrete Printing in Affordable Housing ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784486139.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784486139.003" target="_blank">10.1061/9780784486139.003</a>
 
--------------------------
+<a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b>&nbsp;Vida</a></span>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b>&nbsp;Kereshmeh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mccoy_p_andrew"><b>McCoy</b>&nbsp;Andrew</a></span><br>
+Contribution - Computing in Civil Engineering, pp. 19-28
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>
-,     <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>
-,     <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Computing in Civil Engineering, pp. 19-28
-
-:aca-blank:{ .lg .middle}
-    [`#affordability`](keyword/affordability)
-    [`#competence`](keyword/competence)
-    [`#concrete`](keyword/concrete)
-    [`#house`](keyword/house)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/affordability"><button class="btn">#affordability</button></a> <a href="../../keyword/competence"><button class="btn">#competence</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigating%20Key%20Competencies%20for%203D%20Concrete%20Printing%20in%20Affordable%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/9780784486139.003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/9780784486139.003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) shows much potential for the construction industry. With rising building costs across the world, there is a need for innovative technologies and processes that can provide affordable housing options. Therefore, 3DCP has been used as a viable solution for affordable housing because this technology can decrease costs, time, labor, and construction waste. However, the architecture, engineering, and construction (AEC) industry requires a skilled workforce equipped with competencies for working with 3DCP technology. This paper first provides a review of current literature to identify key focus areas associated with the adoption of 3DCP in the AEC industry. The researchers then conduct a focus group study of seven AEC experts in 3DCP to identify key competencies required for the AEC workforce in adopting 3DCP technology for affordable housing. Findings reveal requisite knowledge and skills that are critical for successful adoption of 3DCP for affordable housing through workforce development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/akulova_i"><b>Akulova</b> I.</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../akul_slav.2020.MAtCotMCf3BPE/">Methodical Approach to Calculation of the Maintenance Cost for 3D Built Printing Equipment</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -91,7 +72,36 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a>, <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../wang_asla_dysk_past.2023.DTAi3CP/">Digital Twin Applications in 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{baba_afsa_mcco.2025.IKCf3CPiAH,
+      author            = "Vida Babajaniniashirvani and Kereshmeh Afsari and Andrew P. McCoy",
+      title             = "Investigating Key Competencies for 3D Concrete Printing in Affordable Housing",
+      doi               = "10.1061/9780784486139.003",
+      year              = "2025",
+      pages             = "19--28",
+      booktitle         = "Computing in Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Babajaniniashirvani, K. Afsari and A. P. McCoy, “Investigating Key Competencies for 3D Concrete Printing in Affordable Housing”, in <i>Computing in Civil Engineering</i>,  2025, pp. 19–28. doi: 10.1061/9780784486139.003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Babajaniniashirvani, Vida, Kereshmeh Afsari, and Andrew P. McCoy. “Investigating Key Competencies for 3D Concrete Printing in Affordable Housing”. In <i>Computing in Civil Engineering</i>, 19–28, 2025. https://doi.org/10.1061/9780784486139.003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

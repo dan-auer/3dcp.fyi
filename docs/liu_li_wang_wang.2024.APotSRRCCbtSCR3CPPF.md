@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenbang Liu, Mingyang Li, Xiangyu Wang, Sizhe Wang, Lining Wang, Teck Wong, Ming Tan
+    - footer
+title: Liu Zhenbang, Li Mingyang, Wang Xiangyu, Wang Sizhe, Wang Lining, Wong Teck, Tan Ming
 description:
 tags:
  - axis
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/17452759.2024.2382163) Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1080/17452759.2024.2382163" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2382163</a>
+#Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2382163) <a href="https://doi.org/10.1080/17452759.2024.2382163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2382163" target="_blank">10.1080/17452759.2024.2382163</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhenbang"><b>Liu</b>&nbsp;Zhenbang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9966-9630" title="ORCID: 0000-0002-9966-9630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_sizhe"><b>Wang</b>&nbsp;Sizhe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_lining"><b>Wang</b>&nbsp;Lining</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> <a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a> <a href="https://orcid.org/0000-0002-9966-9630" title="ORCID: 0000-0002-9966-9630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> <a href="https://orcid.org/0000-0003-4453-0516" title="ORCID: 0000-0003-4453-0516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#cable`](keyword/cable)
-    [`#column`](keyword/column)
-    [`#concrete`](keyword/concrete)
-    [`#confinement`](keyword/confinement)
-    [`#formwork`](keyword/formwork)
-    [`#performance`](keyword/performance)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-    [`#rebar`](keyword/rebar)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/confinement"><button class="btn">#confinement</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Axial%20Performances%20of%20the%20Steel-Rebar-Reinforced%20Column%20Confined%20by%20the%20Steel-Cable-Reinforced%203D%20Concrete%20Printing%20Permanent%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199754838&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401024960" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2382163" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2382163?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Among reinforcement methods for 3D concrete printing (3DCP) structures, steel cable reinforcement and reinforced concrete confined by 3DCP formwork (RC-3DPF) methods offer high design freedom and automation. However, the former lacks reinforcement in directions perpendicular to the printing direction, and the latter cannot satisfy constructional requirements. This paper proposed a hybrid approach: the steel rebar reinforced concrete column confined by the steel cable reinforced 3DCP permanent formwork (RC-SC-3DPF). Axial compression tests and theoretical analysis were conducted to study axial performances. Test results showed steel cables and fibres added to 3DCP formwork benefit RC-SC-3DPF structural performances. With a steel cable confinement ratio above 0.534%, RC-SC-3DPF outperforms the traditional case. Steel fibre, compared to PVA fibre, demonstrates greater potential for RC-SC-3DPF due to improved axial load resistance and reduced ductility loss. A theoretical model, based on experimental results, existing standards, and M&T model, was developed to effectively evaluate RC-SC-3DPF structural behaviour.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
@@ -112,8 +83,9 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guan_wang_bai_ma.2025.E3PFCvFHSCR/">Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement</a></li>
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_cort_ooms_wan.2025.MPoPB3PCIP/">Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns</a></li>
@@ -122,4 +94,34 @@ tags:
       <li><a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../wang_yang_wang_bai.2025.RDaSPftTO3PCTB/">Reinforcement Design and Structural Performance for the Topology Optimized 3D Printed Concrete Truss Beams</a></li>
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/du_liangfen"><b>Du</b> Liangfen</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_du_liu_li.2024.3CCPwPRCR/">3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber:<br/>Mechanical and Acoustic Insulation Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_wang_wang.2024.APotSRRCCbtSCR3CPPF,
+      author            = "Zhenbang Liu and Mingyang Li and Xiangyu Wang and Sizhe Wang and Lining Wang and Teck Neng Wong and Ming Jen Tan",
+      title             = "Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork",
+      doi               = "10.1080/17452759.2024.2382163",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Liu, “Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2382163.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Zhenbang, Mingyang Li, Xiangyu Wang, Sizhe Wang, Lining Wang, Teck Neng Wong, and Ming Jen Tan. “Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2382163.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

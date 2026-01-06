@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Yi Zhang, Manu Mohan, Xiaodi Dai, Qiang Ren, Attupurathu Rahul
+    - footer
+title: Tao Yaxin, Zhang Yi, Mohan Manu, Dai Xiaodi, Ren Qiang, Rahul Attupurathu
 description:
 tags:
  - aggregate
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://sciopen.com/article_pdf/1926898426253414402.pdf) Waste-Derived Aggregates in 3D Printable Concrete:<br/>:aca-blank: Current Insights and Future Perspectives ([2025-05](date/2025/05))
-<a href="https://doi.org/10.26599/mrse.2025.9520013" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.26599/mrse.2025.9520013</a>
+#Waste-Derived Aggregates in 3D Printable Concrete&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Current Insights and Future Perspectives</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://sciopen.com/article_pdf/1926898426253414402.pdf) <a href="https://doi.org/10.26599/mrse.2025.9520013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.26599/mrse.2025.9520013" target="_blank">10.26599/mrse.2025.9520013</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohan_k_manu"><b>Mohan</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_xiaodi"><b>Dai</b>&nbsp;Xiaodi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_qiang"><b>Ren</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span><br>
+Journal Article - Materials Reports: Solidwaste and Ecomaterials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> <a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> <a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Reports: Solidwaste and Ecomaterials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#derivative`](keyword/derivative)
-    [`#future`](keyword/future)
-    [`#insights`](keyword/insights)
-    [`#printability`](keyword/printability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Waste-Derived%20Aggregates%20in%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410757372" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.26599/mrse.2025.9520013" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.26599/mrse.2025.9520013?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The growing demand for sustainable construction practices has driven significant interest in integrating waste-derived aggregates into 3D printable concrete. However, challenges remain in ensuring that these materials meet the performance requirements of 3D printable concrete. To this end, this paper examines the viability, challenges, and innovations in replacing natural aggregates with waste-derived aggregates in 3D printable concrete. The aggregates are categorized into four main types based on their origin: construction and demolition waste, end-of-life manufactured materials, forest and agricultural residues, and industrial or synthetic aggregates from secondary resources. Subsequently, the influence of these materials on rheological properties, mechanical properties, and durability is thoroughly reviewed. Finally, novel applications of waste-derived aggregates are discussed, including functionally graded concrete, impact-resistant systems, carbon-capturing materials, and magneto-responsive composites, demonstrating the potential of waste-derived aggregates to expand the functionality of 3D printable concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "65 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/almomani_a_mohammed"><b>Almomani</b> Mohammed</a>, <a href="../../../author/ababneh_nedal"><b>Ababneh</b> Nedal</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/shbeeb_i_nadim"><b>Shbeeb</b> Nadim</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../almo_abab_abda_shbe.2023.StB3CPTfRCsSCUAHP/">Selecting the Best 3D Concrete Printing Technology for Refugee Camp’s Shelter Construction Using Analytical Hierarchy Process:<br/>The Case of Syrian Refugees in Jordan</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
@@ -133,7 +111,35 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_zhan_moha_dai.2025.WDAi3PC,
+      author            = "Yaxin Tao and Yi Zhang and Manu K. Mohan and Xiaodi Dai and Qiang Ren and Attupurathu Vijayan Rahul",
+      title             = "Waste-Derived Aggregates in 3D Printable Concrete: Current Insights and Future Perspectives",
+      doi               = "10.26599/mrse.2025.9520013",
+      year              = "2025",
+      journal           = "Materials Reports: Solidwaste and Ecomaterials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, Y. Zhang, M. K. Mohan, X. Dai, Q. Ren and A. V. Rahul, “Waste-Derived Aggregates in 3D Printable Concrete: Current Insights and Future Perspectives”, <i>Materials Reports: Solidwaste and Ecomaterials</i>, 2025, doi: 10.26599/mrse.2025.9520013.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Yi Zhang, Manu K. Mohan, Xiaodi Dai, Qiang Ren, and Attupurathu Vijayan Rahul. “Waste-Derived Aggregates in 3D Printable Concrete: Current Insights and Future Perspectives”. <i>Materials Reports: Solidwaste and Ecomaterials</i>, 2025. https://doi.org/10.26599/mrse.2025.9520013.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

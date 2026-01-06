@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Klaudius Henke, Daniel Talke, Carla Matthäus
+    - footer
+title: Henke Klaudius, Talke Daniel, Matthäus Carla
 description:
 tags:
  - additive
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>:aca-blank: Strand Geometry, Nozzle Design and Layer Layout ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_88" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_88</a>
+#Additive Manufacturing by Extrusion of Lightweight Concrete&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">Strand Geometry, Nozzle Design and Layer Layout</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_88" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_88" target="_blank">10.1007/978-3-030-49916-7_88</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6589-6053" title="ORCID: 0000-0001-6589-6053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/henke_klaudius"><b>Henke</b>&nbsp;Klaudius</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/talke_daniel"><b>Talke</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b>&nbsp;Carla</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 906-915
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> <a href="https://orcid.org/0000-0001-6589-6053" title="ORCID: 0000-0001-6589-6053" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a> <a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 906-915
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#extrusion`](keyword/extrusion)
-    [`#geometry`](keyword/geometry)
-    [`#layer`](keyword/layer)
-    [`#light`](keyword/light)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#nozzle`](keyword/nozzle)
-    [`#strand`](keyword/strand)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/strand"><button class="btn">#strand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20by%20Extrusion%20of%20Lightweight%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088242486&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,24 +41,18 @@ tags:
 <a href="https://inciteful.xyz/p/W3041153606" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_88" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_88?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In additive manufacturing by concrete extrusion, objects are built up by depositing strands of fresh concrete. The form and size of the strands as well as the order in which they are arranged are decisive parameters for the properties of the resulting construction element. Extrusion of lightweight concrete can be used as a method to construct monolithic structural building elements with an optimized thermal insulation. They may have zones of different functionality and can be augmented by voids to house building technology. This paper discusses the possibilities and limitations in the design of appropriate strand structures and gives recommendations on how strand geometry, nozzle design and layer layout have to be chosen to obtain the desired results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../henk_talk_matt.2020.AMbEoLC/">Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>Strand Geometry, Nozzle Design and Layer Layout</a></li>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mark_sahm_nere_nath.2019.IotFCPTSf3PwFC/">Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../oliv_picc_mila_gram.2025.TEoHC3TNDC/">Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization</a></li>
       <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sedg_zafa_hoja.2023.EFaHPoS3PLCM/">Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures</a></li>
       <li><a href="../../../author/jones_es_kathryn"><b>Jones</b> Kathryn</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../jone_li.2023.LCAoUTWTTCCAMtCM/">Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing</a></li>
@@ -90,8 +66,36 @@ tags:
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2b/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/jaugstetter_fabian"><b>Jaugstetter</b> Fabian</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../diel_brie_jaug_henk.2021.AMoTELCWEwCCS/">Additive Manufacturing of Thermally Enhanced Lightweight Concrete Wall Elements with Closed Cellular Structures</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
-      <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../henk_talk_matt.2020.AMbEoLC/">Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>Strand Geometry, Nozzle Design and Layer Layout</a></li>
-      <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/back_daniel"><b>Back</b> Daniel</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../matt_back_wege_kran.2020.EoCTaLPCoEoLC/">Effect of Cement-Type and Limestone-Powder-Content on Extrudability of Lightweight Concrete</a></li>
-      <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{henk_talk_matt.2020.AMbEoLC,
+      author            = "Klaudius Henke and Daniel Talke and Carla Irmgard Ingeborg Matthäus",
+      title             = "Additive Manufacturing by Extrusion of Lightweight Concrete: Strand Geometry, Nozzle Design and Layer Layout",
+      doi               = "10.1007/978-3-030-49916-7_88",
+      year              = "2020",
+      volume            = "28",
+      pages             = "906--915",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Henke, D. Talke and C. I. I. Matthäus, “Additive Manufacturing by Extrusion of Lightweight Concrete: Strand Geometry, Nozzle Design and Layer Layout”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 906–915. doi: 10.1007/978-3-030-49916-7_88.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Henke, Klaudius, Daniel Talke, and Carla Irmgard Ingeborg Matthäus. “Additive Manufacturing by Extrusion of Lightweight Concrete: Strand Geometry, Nozzle Design and Layer Layout”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:906–15, 2020. https://doi.org/10.1007/978-3-030-49916-7_88.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

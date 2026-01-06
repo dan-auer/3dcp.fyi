@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bochao Sun, Qiang Zeng, Dianchao Wang, Weijian Zhao
+    - footer
+title: Sun Bochao, Zeng Qiang, Wang Dianchao, Zhao Weijian
 description:
 tags:
  - aggregate
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104800" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104800</a>
+#Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104800" target="_blank">10.1016/j.cemconcomp.2022.104800</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_bochao"><b>Sun</b>&nbsp;Bochao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_qiang"><b>Zeng</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dianchao"><b>Wang</b>&nbsp;Dianchao</a></span>, <a href="../../../author/zhao_weijian"><b>Zhao</b>&nbsp;Weijian</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 134
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a> <a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> <a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a> <a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 134, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#co2`](keyword/co2)
-    [`#fine`](keyword/fine)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%203D%20Printed%20Mortar%20with%20CO2%20Pretreated%20Recycled%20Fine%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140769925&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4302362356" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104800" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104800?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recycling of construction and demolition wastes (CDW) for the development of intelligent construction materials has the potential to lower the environmental burden and promote the development of intelligent construction. Herein, CO2 pretreatment to a type of recycled fine aggregate (RFA) was employed to upcycle the waste for developing 3D printable mortar (3DPM). The replacement ratios of natural fine aggregates (NFA) by recycled fine aggregates (RFA) and carbonated recycled fine aggregates (CRFA) up to 100% were designed, and the engineering properties, including compressive strength, flexural strength and interlayer bonding strength, of 3DPM were investigated. Comprehensive microscopic tests with X-ray diffraction (XRD), scanning electron microscopybackscattered electrons (SEM-BSE), and X-ray computed tomography (X-CT), were used to demonstrate the microstructure mechanism of the 3DPM specimens with upcycled fine aggregates at the microscopic level. Systematical enhancements in engineering properties of 3DPM with CRFA were reported when compared with those of 3DPM with RFA. The compressive strength at 28 days was noticeably enhanced by 68.5% for the 3DPM with 100% upcycled fine aggregates. Carbonation enables significant calcite precipitates in the adhered cement paste area and formation of cement hydrates in the new cement paste area. The findings of the present work not only deepen the understandings in the microstructure alterations of RFA by CO2 pretreatments, but also pave a path towards the upcycling of CDW towards sustainable intelligent constructions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -87,8 +66,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "38 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
@@ -128,4 +107,33 @@ tags:
       <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a></li>
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../sun_li_wang_ye.2023.EoMPaAo3PCaDT/">Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_zeng_wang_zhao.2022.S3PMwCPRFA,
+      author            = "Bochao Sun and Qiang Zeng and Dianchao Wang and Weijian Zhao",
+      title             = "Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates",
+      doi               = "10.1016/j.cemconcomp.2022.104800",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "134",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Sun, Q. Zeng, D. Wang and W. Zhao, “Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates”, <i>Cement and Concrete Composites</i>, vol. 134, 2022, doi: 10.1016/j.cemconcomp.2022.104800.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Bochao, Qiang Zeng, Dianchao Wang, and Weijian Zhao. “Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates”. <i>Cement and Concrete Composites</i> 134 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104800.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

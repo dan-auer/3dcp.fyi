@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manideep Thakur, Omkar Kulkarni, Tippabhotla Kamakshi, Spandana Paritala, Kolluru Subramaniam
+    - footer
+title: Thakur Manideep, Kulkarni Omkar, Kamakshi Tippabhotla, Paritala Spandana, Subramaniam Kolluru
 description:
 tags:
  - behavior
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Cold Joint on Fracture Behavior of 3D Printed Concrete ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1007/978-3-031-53389-1_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-53389-1_19</a>
+#Influence of Cold Joint on Fracture Behavior of 3D Printed Concrete ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-53389-1_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53389-1_19" target="_blank">10.1007/978-3-031-53389-1_19</a>
 
--------------------------
+<a href="../../../author/thakur_singh_manideep"><b>Thakur</b>&nbsp;Manideep</a></span>, <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b>&nbsp;Omkar</a></span>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b>&nbsp;Tippabhotla</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paritala_spandana"><b>Paritala</b>&nbsp;Spandana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
+Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 194-202
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/thakur_singh_manideep"><b>Thakur</b> Manideep</a>
-,     <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a>
-,     <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>
-,     <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a> <a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 194-202
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cold`](keyword/cold)
-    [`#concrete`](keyword/concrete)
-    [`#fracture`](keyword/fracture)
-    [`#influence`](keyword/influence)
-    [`#joint`](keyword/joint)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Cold%20Joint%20on%20Fracture%20Behavior%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186433069&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391935382" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-53389-1_19" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-53389-1_19?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based layer deposition is the most popular form of 3D Concrete Printing (3DCP). The inter-layer bonding is an important parameter in the case of extrusion-based layer deposition in 3DCP, which affects the homogeneity of the element and thus its mechanical behaviour. The bond between the layers depends upon several factors including the fluidity ofthemixture and the print time gap between layers. Weak interfaces develop in the form of cold joints between two adjacent layers of concrete when they are placed with a time gap. The study involves the understanding of influence of time gap between the vertical layers on the fracture behaviour of the printed beams. Crack propagation in the layered beam is evaluated using digital image correlation. The influence of wait time on the crack planes across the printed interfaces are studied. The reduction in the bond between layers with waiting time is related to fracture behaviour of the printed beam.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
@@ -85,9 +63,40 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a>, <a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b> Inken</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../glot_rase_petr.2024.MBoHPCatEoCJ/">Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints:<br/>An Experimental Investigation</a></li>
       <li><a href="../../../author/medvedev_vyacheslav"><b>Medvedev</b> Vyacheslav</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a>, <a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../medv_pust_adam_adam.2024.IILAoCMf3CP/">Improving Inter-Layer Adhesion of Cementitious Materials for 3D Construction Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{thak_kulk_kama_pari.2024.IoCJoFBo3PC,
+      author            = "Manideep Singh Thakur and Omkar Kulkarni and Tippabhotla A. Kamakshi and Spandana Paritala and Kolluru V. L. Subramaniam",
+      title             = "Influence of Cold Joint on Fracture Behavior of 3D Printed Concrete",
+      doi               = "10.1007/978-3-031-53389-1_19",
+      year              = "2024",
+      volume            = "48",
+      pages             = "194--202",
+      booktitle         = "Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure: Building a Greener Tomorrow",
+      editor            = "Nemkumar Banthia and Salman Soleimani-Dashtaki and Sidney Mindess",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. S. Thakur, O. Kulkarni, T. A. Kamakshi, S. Paritala and K. V. L. Subramaniam, “Influence of Cold Joint on Fracture Behavior of 3D Printed Concrete”, in <i>Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure: Building a Greener Tomorrow</i>,  2024, vol. 48, pp. 194–202. doi: 10.1007/978-3-031-53389-1_19.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Thakur, Manideep Singh, Omkar Kulkarni, Tippabhotla A. Kamakshi, Spandana Paritala, and Kolluru V. L. Subramaniam. “Influence of Cold Joint on Fracture Behavior of 3D Printed Concrete”. In <i>Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure: Building a Greener Tomorrow</i>, edited by Nemkumar Banthia, Salman Soleimani-Dashtaki, and Sidney Mindess, 48:194–202, 2024. https://doi.org/10.1007/978-3-031-53389-1_19.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Kazemian, Ilerioluwa Giwa, Mahmut Ekenel
+    - footer
+title: Kazemian Ali, Giwa Ilerioluwa, Ekenel Mahmut
 description:
 tags:
  - additive
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Large-Scale Additive Manufacturing for Automated Construction:<br/>:aca-blank: An Overview ([2023-06](date/2023/06))
-<a href="https://doi.org/10.31399/asm.hb.v24a.a0006959" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.31399/asm.hb.v24a.a0006959</a>
+#Large-Scale Additive Manufacturing for Automated Construction&nbsp;([2023-06](date/2023/06))
+<div class="h1-like">An Overview</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.31399/asm.hb.v24a.a0006959" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31399/asm.hb.v24a.a0006959" target="_blank">10.31399/asm.hb.v24a.a0006959</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giwa_ilerioluwa"><b>Giwa</b>&nbsp;Ilerioluwa</a></span>, <a href="../../../author/ekenel_mahmut"><b>Ekenel</b>&nbsp;Mahmut</a></span><br>
+Contribution - Additive Manufacturing Design and Applications, pp. 1-8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> <a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Additive Manufacturing Design and Applications, pp. 1-8
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#automation`](keyword/automation)
-    [`#construction`](keyword/construction)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#overview`](keyword/overview)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%20Additive%20Manufacturing%20for%20Automated%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366715218" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.31399/asm.hb.v24a.a0006959" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.31399/asm.hb.v24a.a0006959?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital transformation is a radical paradigm shift that is fundamentally changing every major industry, with different levels of visible impact. It is enabled by a confluence of new technologies that promote advanced manufacturing, automation, connectivity, and advanced analytics (Ref 1). For example, in complex asset-intensive industries such as oil and gas as well as logistics, a digital transformation is taking hold through the deployment of applications powered by artificial intelligence. This transformation is driving dramatic gains in productivity, efficiency, and costsavings. Construction is classified as a low-digitization sector in the earliest stages of digital transformation, but that transformation could be a huge driver of economic growth (Ref 1, 2). Productivity in the construction sector has remained almost the same during the past few decades, while other industries such as manufacturing have achieved significant improvements in productivity (Ref 3). Digital technology, new materials, and advanced automation are key factors in realizing a much-needed productivity boost in the construction industry. There are various ongoing efforts and technological advancements toward digitization of the construction industry. For example, building information modeling (BIM) provides a digital platform to streamline design as well as the collection and analysis of data by different stakeholders and teams (Ref 4, 5). In addition, integrating cloud computing technology with BIM allows project stakeholders to work and collaborate in real-time from different locations (Ref 6). Cloud-BIM data can be accessed by mobile devices that enable timely access to updated information, thereby improving the decision-making process (Ref 7, 8). The Internet of Things (IoT) is another area with the potential to contribute to digital transformation in construction. This is a system in which objects are connected to the internet via wireless or wired network connections and cloud cyber infrastructure (Ref 9) through integrated or attached sensors (Ref 10). Jobsite safety can be significantly enhanced using IoT solutions (Ref 7). In addition, IoT can be used to track asset utilization and performance of construction assets and equipment. While some improvements are achieved through implementing technologies such as BIM and IoT, actual construction processes are still mainly manual and heavily reliant on skilled construction workers. Low construction productivity, poor construction quality, high accident rates, and overruns in cost and schedule are some of the usual consequences of traditional construction methods. Construction-scale additive manufacturing, also known as construction three-dimensional printing (C3DP), has received significant attention during the past several years as a technology that could transform the construction industry by offering a highly automated construction process for various applications. This article discusses an overview of the past and current developments in C3DP as well as future prospects and technical and regulatory barriers to its widespread adoption by the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -95,8 +76,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/chen_jianhua"><b>Chen</b> Jianhua</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bani_demp_chen_kaze.2025.MLAtPtEAFSoSE3PS/">Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures</a></li>
       <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a></li>
@@ -107,4 +88,34 @@ tags:
       <li><a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../alha.2024.TDCPaaCASaAfaCSB/">Three-Dimensional Concrete Printing as a Construction-Automation-Strategy and Assessments from a Case Study Building</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../bani_voso_arce_noor.2024.EASMoSE3PS/">Early-Age Strength Monitoring of Sensor-Embedded 3D Printed Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kaze_giwa_eken.2023.LSAMfAC,
+      author            = "Ali Kazemian and Ilerioluwa Giwa and Mahmut Ekenel",
+      title             = "Large-Scale Additive Manufacturing for Automated Construction: An Overview",
+      doi               = "10.31399/asm.hb.v24a.a0006959",
+      year              = "2023",
+      pages             = "1--8",
+      booktitle         = "Additive Manufacturing Design and Applications",
+      editor            = "Mohsen Seifi and David L. Bourell and William Frazier and Howard Kuhn",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kazemian, I. Giwa and M. Ekenel, “Large-Scale Additive Manufacturing for Automated Construction: An Overview”, in <i>Additive Manufacturing Design and Applications</i>,  2023, pp. 1–8. doi: 10.31399/asm.hb.v24a.a0006959.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kazemian, Ali, Ilerioluwa Giwa, and Mahmut Ekenel. “Large-Scale Additive Manufacturing for Automated Construction: An Overview”. In <i>Additive Manufacturing Design and Applications</i>, edited by Mohsen Seifi, David L. Bourell, William Frazier, and Howard Kuhn, 1–8, 2023. https://doi.org/10.31399/asm.hb.v24a.a0006959.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

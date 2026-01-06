@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Bolhassani Damon 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
   <li><a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/tapia_javier"><b>Tapia</b> Javier</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bolh_yava_tapi_akba.2024.TEoPTotBoSS3PCB/">The Effect of Post-Tensioning on the Behavior of Small-Scale 3D Printed Concrete Beams</a></li>
   <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/welch_ryan"><b>Welch</b> Ryan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chai_oror_zhi_welc.2024.DAfaPTFCB/">Design Approach for a Post-Tensioned Funicular Concrete Beam</a></li>

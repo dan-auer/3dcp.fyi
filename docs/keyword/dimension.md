@@ -8,7 +8,7 @@ search:
 
 # #dimension
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
   <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
   <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>

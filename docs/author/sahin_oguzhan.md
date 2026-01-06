@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Şahin Oğuzhan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
   <li><a href="../../../author/demirbas_osman_ali"><b>Demirbaş</b> Ali</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../demi_tugl_sahi_ilca.2025.ACSotVoRCAi3PCS/">A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems</a></li>
   <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW/">Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste</a></li>

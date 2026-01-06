@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Wu, Ziyan Li, Xinjie Zhou, Xinyu Wu, Ding Bao, Philip Yuan
+    - footer
+title: Wu Hao, Li Ziyan, Zhou Xinjie, Wu Xinyu, Bao Ding, Yuan Philip
 description:
 tags:
  - concrete
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/caadria2022_406.pdf) Digital Design and Fabrication of a 3D Concrete Printed Funicular Spatial Structure ([2022-04](date/2022/04))
-<a href="https://doi.org/10.52842/conf.caadria.2022.2.071" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.caadria.2022.2.071</a>
+#Digital Design and Fabrication of a 3D Concrete Printed Funicular Spatial Structure ([2022-04](date/2022/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2022_406.pdf) <a href="https://doi.org/10.52842/conf.caadria.2022.2.071" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2022.2.071" target="_blank">10.52842/conf.caadria.2022.2.071</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hao"><b>Wu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2027-9227" title="ORCID: 0000-0002-2027-9227" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_ziyan"><b>Li</b>&nbsp;Ziyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2543-2307" title="ORCID: 0000-0002-2543-2307" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_xinjie"><b>Zhou</b>&nbsp;Xinjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0616-6787" title="ORCID: 0000-0002-0616-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_xinyu"><b>Wu</b>&nbsp;Xinyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bao_wen_ding"><b>Bao</b>&nbsp;Ding</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span><br>
+Contribution - Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia (CAADRIA) [Volume 2], pp. 71-80
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> <a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_ziyan"><b>Li</b> Ziyan</a> <a href="https://orcid.org/0000-0002-2027-9227" title="ORCID: 0000-0002-2027-9227" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="https://orcid.org/0000-0002-2543-2307" title="ORCID: 0000-0002-2543-2307" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_xinyu"><b>Wu</b> Xinyu</a> <a href="https://orcid.org/0000-0002-0616-6787" title="ORCID: 0000-0002-0616-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia (CAADRIA) [Volume 2], pp. 71-80
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#funicular`](keyword/funicular)
-    [`#print`](keyword/print)
-    [`#space`](keyword/space)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/funicular"><button class="btn">#funicular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Design%20and%20Fabrication%20of%20a%203D%20Concrete%20Printed%20Funicular%20Spatial%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4286384542" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.caadria.2022.2.071" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.caadria.2022.2.071?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, additive manufacturing (AM) and 3D concrete printing technologies have been increasingly used in the field of construction engineering. Several 3D concrete printing bridges were built with post-tensioning technology. However, the current posttensioned 3D concrete printing projects are mostly in a single direction of force. There are fewer cases of concrete printing funicular spatial structures, and most funicular spatial structures are currently manufactured by casting-in-place in formwork. This paper presents a case of manufacturing spatial 3D concrete printed structure using posttensioned technology with multiple force direction. The design of the non-parallel printing path, the joints between single units, and the posttensioned steel cable system in the design and research process are discussed. A funicular spatial structure is built, and a method of manufacturing 3DCP funicular spatial structure is proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -81,8 +57,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhou_yuan_zhou.2021.DaFoa3CPPSB/">Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhi_teng_akba.2024.D3PCSwSFM/">Designing 3D Printed Concrete Structures with Scaled Fabrication Models</a></li>
       <li><a href="../../../author/lu_ming"><b>Lu</b> Ming</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lu_wu_yuan.2024.OfIRJMiNH3PA/">Optimization for Industrial Robot Joint Movement in Non-Horizontal 3D Printing Application</a></li>
@@ -91,4 +67,34 @@ tags:
       <li><a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/xie_xingje"><b>Xie</b> Xingje</a>, <a href="../../../author/gao_xiaofan"><b>Gao</b> Xiaofan</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wu_li_xie_gao.2024.SPB3CPfaECB/">Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam</a></li>
       <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/hu_hanyang"><b>Hu</b> Hanyang</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../huan_xu_hu.2023.SFaPPGMfLA3CPP/">Space-Filling and Print-Path-Generation-Methods for Large-Area 3D Concrete Printing Pavements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wu_li_zhou_wu.2022.DDaFoa3CPFSS,
+      author            = "Hao Wu and Ziyan Li and Xinjie Zhou and Xinyu Wu and Ding Wen Bao and Philip F. Yuan",
+      title             = "Digital Design and Fabrication of a 3D Concrete Printed Funicular Spatial Structure",
+      doi               = "10.52842/conf.caadria.2022.2.071",
+      year              = "2022",
+      pages             = "71--80",
+      booktitle         = "Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia (CAADRIA) [Volume 2]",
+      editor            = "Jeroen van Ameijde and Nicole Gardner and Kyung Hoon Hyun and Dan Luo and Urvi Sheth",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Wu, Z. Li, X. Zhou, X. Wu, D. W. Bao and P. F. Yuan, “Digital Design and Fabrication of a 3D Concrete Printed Funicular Spatial Structure”, in <i>Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia (CAADRIA) [Volume 2]</i>,  2022, pp. 71–80. doi: 10.52842/conf.caadria.2022.2.071.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Hao, Ziyan Li, Xinjie Zhou, Xinyu Wu, Ding Wen Bao, and Philip F. Yuan. “Digital Design and Fabrication of a 3D Concrete Printed Funicular Spatial Structure”. In <i>Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia (CAADRIA) [Volume 2]</i>, edited by Jeroen van Ameijde, Nicole Gardner, Kyung Hoon Hyun, Dan Luo, and Urvi Sheth, 71–80, 2022. https://doi.org/10.52842/conf.caadria.2022.2.071.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

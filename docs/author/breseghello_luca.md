@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Breseghello Luca 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../varg_bres_silf.2025.CHF/">Circular Hybrid Façades:<br/>Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements</a></li>
   <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPP/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>
   <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPPb/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianzhuang Xiao, Haoran Liu, Tao Ding
+    - footer
+title: Xiao Jianzhuang, Liu Haoran, Ding Tao
 description:
 tags:
  - analysis
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure ([2020-11](date/2020/11))
-<a href="https://doi.org/10.1016/j.addma.2020.101712" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2020.101712</a>
+#Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure ([2020-11](date/2020/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2020.101712" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101712" target="_blank">10.1016/j.addma.2020.101712</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_haoran"><b>Liu</b>&nbsp;Haoran</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 39
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> <a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 39, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#finite`](keyword/finite)
-    [`#flexural`](keyword/flexural)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Finite-Element-Analysis%20on%20the%20Anisotropic%20Behavior%20of%203D%20Printed%20Concrete%20under%20Compression%20and%20Flexure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099623712&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3101054164" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2020.101712" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2020.101712?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to explore effects of interfacial bond properties on the anisotropic mechanical behavior of 3D printed concrete. One finite element (FE) model which fully considered the interfacial bond properties with the traction-separation law was established and verified by the experimental results. The influence of nozzle dimensions, interfacial bond strength and concrete properties on the compressive and flexural strengths was analyzed. The results show that the horizontal shear deformation between printed filaments leads to the strength reduction for the 3D printed specimen under compression, and the tensile strength at the mid-span determines the flexural strength of 3D printed specimen. The compressive strength is relatively lower while the flexural strength is much higher for the specimens loaded in Y and Z directions. The simulation shows that the number of interfaces, the tensile and shear properties of the interface between printed filaments contribute the variation of anisotropy under compression and flexure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
@@ -96,7 +74,6 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
@@ -104,8 +81,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "182 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
@@ -289,4 +266,33 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../ding_xiao_zou_yu.2021.FPo3PFRCwRS/">Flexural Properties of 3D Printed Fiber-Reinforced Concrete with Recycled Sand</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xiao_liu_ding.2021.FEAotABo3PCuCaF,
+      author            = "Jianzhuang Xiao and Haoran Liu and Tao Ding",
+      title             = "Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure",
+      doi               = "10.1016/j.addma.2020.101712",
+      year              = "2021",
+      journal           = "Additive Manufacturing",
+      volume            = "39",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Xiao, H. Liu and T. Ding, “Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure”, <i>Additive Manufacturing</i>, vol. 39, 2021, doi: 10.1016/j.addma.2020.101712.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xiao, Jianzhuang, Haoran Liu, and Tao Ding. “Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete Under Compression and Flexure”. <i>Additive Manufacturing</i> 39 (2021). https://doi.org/10.1016/j.addma.2020.101712.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

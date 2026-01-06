@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kala Kondepudi, Kolluru Subramaniam, Behzad Nematollahi, Shin Bong, Jay Sanjayan
+    - footer
+title: Kondepudi Kala, Subramaniam Kolluru, Nematollahi Behzad, Bong Shin, Sanjayan Jay
 description:
 tags:
  - activation
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104581" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104581</a>
+#Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104581" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104581" target="_blank">10.1016/j.cemconcomp.2022.104581</a>
 
--------------------------
+<a href="../../../author/kondepudi_kala"><b>Kondepudi</b>&nbsp;Kala</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bong_hau_shin"><b>Bong</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 131
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> <a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 131, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#concrete`](keyword/concrete)
-    [`#demand`](keyword/demand)
-    [`#mixture`](keyword/mixture)
-    [`#packing`](keyword/packing)
-    [`#particle`](keyword/particle)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20of%20Particle-Packing%20and%20Paste-Rheology%20in%20Alkali-Activated%20Mixtures%20to%20Meet%20the%20Rheology%20Demands%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130614080&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4280619728" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104581" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104581?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rheological behavior of concrete mixtures made with alkali-activated fly ash-slag (AAFS) binder paste is investigated for varying aggregate content. The static yield stress, plastic viscosity and thixotropy of the mixtures are evaluated and related with the performance in 3D Concrete Printing (3DCP). The thixotropy of the concrete mixture is primarily influenced by AAFS binder paste composition and does not change with the aggregate content. Rheology control of the AAFS binder paste is achieved using additives like nano-clay, which enhance the buildup of internal structure and provide thixotropy in the concrete mixtures. The paste content, the surface area of aggregate, and the packing of solids in a concrete mixture influence its yield stress. The static yield stress increases sensitively in relation to the proportion of the surface area of the solids to the paste volume content in the concrete mixture. The minimum requirement of the paste content from packing of solids in the mixture is given by the Fuller-Thompson curve. Excess paste content in proportion to the demand determined from the surface area of aggregate and packing of solids in the concrete mixture produces a decrease in the static yield stress. For producing AAFS concrete mixtures suitable for 3DCP, the paste content in the concrete mixture should meet the requirement of paste demand, which depends on the aggregate content and packing of solids
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -89,8 +64,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>
       <li><a href="../../../author/shilton_robert"><b>Shilton</b> Robert</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../shil_wang_bant.2025.UoPaaRMAfAAMf3P/">Use of Polysaccharides as a Rheology-Modifying-Admixture for Alkali-Activated Materials for 3D Printing</a></li>
@@ -113,4 +88,33 @@ tags:
       <li><a href="../../../author/diniz_alessandro-almeida_hugo"><b>Diniz</b> Hugo</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/ferreira_landolfo-silva_ruan"><b>Ferreira</b> Ruan</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../dini_mart_cabr_ferr.2023.SEotUoMSaWotPoCCf3P/">Synergistic Effects of the Use of Metakaolin, Sand and Water on the Properties of Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../li_weng_liu_zhan.2022.OoCAf3PCMbCCD/">Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kond_subr_nema_bong.2022.SoPPaPRiAAMtMtRDo3CP,
+      author            = "Kala Kondepudi and Kolluru V. L. Subramaniam and Behzad Nematollahi and Shin Hau Bong and Jay Gnananandan Sanjayan",
+      title             = "Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2022.104581",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "131",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Kondepudi, K. V. L. Subramaniam, B. Nematollahi, S. H. Bong and J. G. Sanjayan, “Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, vol. 131, 2022, doi: 10.1016/j.cemconcomp.2022.104581.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kondepudi, Kala, Kolluru V. L. Subramaniam, Behzad Nematollahi, Shin Hau Bong, and Jay Gnananandan Sanjayan. “Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing”. <i>Cement and Concrete Composites</i> 131 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104581.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

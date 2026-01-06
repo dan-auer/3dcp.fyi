@@ -8,7 +8,8 @@ search:
 
 # #comprehension
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
   <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
   <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_seka.2025.Ei3P/">Extrudability in 3D Printing:<br/>A Comprehensive Approach to S/C, W/C Ratios and Superplasticizer Content</a></li>
   <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>

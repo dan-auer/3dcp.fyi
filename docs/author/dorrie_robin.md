@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Dörrie Robin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>

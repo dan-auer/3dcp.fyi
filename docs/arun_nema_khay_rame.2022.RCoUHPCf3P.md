@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arun Arunothayan, Behzad Nematollahi, Kamal Khayat, Akilesh Ramesh, Jay Sanjayan
+    - footer
+title: Arunothayan Arun, Nematollahi Behzad, Khayat Kamal, Ramesh Akilesh, Sanjayan Jay
 description:
 tags:
  - characteristic
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104854" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104854</a>
+#Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104854" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104854" target="_blank">10.1016/j.cemconcomp.2022.104854</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b>&nbsp;Arun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-2850-9500" title="ORCID: 0009-0004-2850-9500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramesh_akilesh"><b>Ramesh</b>&nbsp;Akilesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> <a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> <a href="https://orcid.org/0009-0004-2850-9500" title="ORCID: 0009-0004-2850-9500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Characterization%20of%20Ultra-High-Performance%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145550021&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4309632158" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104854" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104854?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The authors recently developed a 3D-printable ultra-high performance fiber-reinforced concrete (3DP-UHPFRC) for additive construction of structural members with significantly reduced reliance on steel bars. This study investigates the rheological behavior of the developed 3DP-UHPFRC. The effects of two major factors affecting the performance of 3DP-UHPFRC, namely steel fiber volume (0, 1%, and 2%) and nano-clay (NC) content (0, 0.1%, and 0.2% by binder mass) on workability, static yield stress, dynamic yield stress, and apparent viscosity were determined. Test results showed that the inclusion of steel fibers and NC reduced the workability and led to a significant increase in the static yield stress, dynamic yield stress, and apparent viscosity. However, the effect of NC content on the rheological properties became negligible in the mixtures made with 2% fiber content. Similarly, the effect of steel fiber volume became negligible in the mixtures made with 0.2% NC. In addition, the influence of changes in rheology due to the addition of steel fiber and NC on the extrudability and buildability of the mixtures were investigated by 3D-printing of 500 mm high hollow columns with three different print speeds. The results showed all mixtures exhibited satisfactory extrudability (i.e., no blockage of extruder or tearing of filaments was observed). In addition, the buildability of the mixtures increased as the steel fiber and NC contents increased.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../arun_nema_bong_rana.2019.HPo3PUHPFRCfDCA/">Hardened Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction Applications</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -93,8 +72,10 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "69 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
@@ -163,4 +144,32 @@ tags:
       <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../raje_rame_nava_sanj.2023.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{arun_nema_khay_rame.2022.RCoUHPCf3P,
+      author            = "Arun Ravendran Arunothayan and Behzad Nematollahi and Kamal H. Khayat and Akilesh Ramesh and Jay Gnananandan Sanjayan",
+      title             = "Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing",
+      doi               = "10.1016/j.cemconcomp.2022.104854",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. R. Arunothayan, B. Nematollahi, K. H. Khayat, A. Ramesh and J. G. Sanjayan, “Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing”, <i>Cement and Concrete Composites</i>, 2022, doi: 10.1016/j.cemconcomp.2022.104854.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Arunothayan, Arun Ravendran, Behzad Nematollahi, Kamal H. Khayat, Akilesh Ramesh, and Jay Gnananandan Sanjayan. “Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing”. <i>Cement and Concrete Composites</i>, 2022. https://doi.org/10.1016/j.cemconcomp.2022.104854.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

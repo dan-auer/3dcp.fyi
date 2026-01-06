@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xia Yang, Jiuyuan Wang, Han Huang, Gengchen Wu, Jie Wu
+    - footer
+title: Yang Xia, Wang Jiuyuan, Huang Han, Wu Gengchen, Wu Jie
 description:
 tags:
  - analysis
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing:<br/>:aca-blank: Design, Mechanical Properties and Microstructural Analysis ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.istruc.2025.109859" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.109859</a>
+#Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Design, Mechanical Properties and Microstructural Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109859" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109859" target="_blank">10.1016/j.istruc.2025.109859</a>
 
--------------------------
+<a href="../../../author/yang_xia"><b>Yang</b>&nbsp;Xia</a></span>, <a href="../../../author/wang_jiuyuan"><b>Wang</b>&nbsp;Jiuyuan</a></span>, <a href="../../../author/huang_han"><b>Huang</b>&nbsp;Han</a></span>, <a href="../../../author/wu_gengchen"><b>Wu</b>&nbsp;Gengchen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4107-8336" title="ORCID: 0000-0002-4107-8336" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_jie"><b>Wu</b>&nbsp;Jie</a></span><br>
+Journal Article - Structures, Vol. 80, No. 109859
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_xia"><b>Yang</b> Xia</a>
-,     <a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a>
-,     <a href="../../../author/huang_han"><b>Huang</b> Han</a>
-,     <a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a>
-,     <a href="../../../author/wu_jie"><b>Wu</b> Jie</a> <a href="https://orcid.org/0000-0002-4107-8336" title="ORCID: 0000-0002-4107-8336" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 80, No. 109859
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anti-Washout%20Cement-Based%20Material%20for%20Under-Seawater%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012637838&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413123095" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.109859" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.109859?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The proposal of under-seawater 3D concrete printing (US3DCP) technique offers a promising solution to marine engineering construction and ocean energy development. It addresses the technical challenges in traditional underwater construction, for instance, poor working security, inaccurate placement and poor construction quality. To promote the application of US3DCP in actual engineering projects, a cement-based material available for the printing condition of under seawater was designed and produced in this study, validating the feasibility of US3DCP. Considering the variables of curing age and load direction, the compressive strength and flexural strength of concrete printed under seawater was compared with that of samples printed in air and underwater. It is recommended that an anti-washout admixture (AWA) content of 2 % and a sulphoaluminate cement (SAC) content of 25 % led to high washout resistance and good printability. The mechanical anisotropy of 3D-printed concrete is independent of printing conditions. After 28-day of curing age, the compressive strength of underwater and under seawater samples were 0.87 and 1.02 times that of air samples, and their flexural strength were 8 % and 5 % lower than as compared to air samples. Finally, the impact mechanism of printing conditions on the mechanical properties of 3D-printed concrete was analyzed from a microscopic perspective.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -101,7 +78,38 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_wang_huan_wu.2025.AWCBMfUS3CP,
+      author            = "Xia Yang and Jiuyuan Wang and Han Huang and Gengchen Wu and Jie Wu",
+      title             = "Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing: Design, Mechanical Properties and Microstructural Analysis",
+      doi               = "10.1016/j.istruc.2025.109859",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "80",
+      pages             = "109859",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Yang, J. Wang, H. Huang, G. Wu and J. Wu, “Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing: Design, Mechanical Properties and Microstructural Analysis”, <i>Structures</i>, vol. 80, p. 109859, 2025, doi: 10.1016/j.istruc.2025.109859.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Xia, Jiuyuan Wang, Han Huang, Gengchen Wu, and Jie Wu. “Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing: Design, Mechanical Properties and Microstructural Analysis”. <i>Structures</i> 80 (2025): 109859. https://doi.org/10.1016/j.istruc.2025.109859.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

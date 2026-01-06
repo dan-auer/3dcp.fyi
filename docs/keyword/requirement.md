@@ -8,7 +8,7 @@ search:
 
 # #requirement
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/cheung_hang_lok"><b>Cheung</b> Lok</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marc_cheu.2025.MLLMfA3CP/">Multimodal Large Language Models for Adaptive 3D Concrete Printing:<br/>Real-Time Control of Materials and Settings According to Performance Requirements and Environmental Conditions</a></li>
   <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
   <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/li_lixao"><b>Li</b> Lixao</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../geng_luo_chen_li.2024.IMOOo3PLCCfMSR/">Intelligent Multi-Objective Optimization of 3D Printing Low-Carbon Concrete for Multi-Scenario Requirements</a></li>

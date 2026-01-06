@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shaodan Hou, Zhenhua Duan, Jianzhuang Xiao, Jun Ye
+    - footer
+title: Hou Shaodan, Duan Zhenhua, Xiao Jianzhuang, Ye Jun
 description:
 tags:
  - concrete
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://strathprints.strath.ac.uk/81118/1/Hou_etal_CBM_2021_A_review_of_3D_printed_concrete_performance_requirements_testing.pdf) A Review of 3D Printed Concrete:<br/>:aca-blank: Performance-Requirements, Testing Measurements and Mix-Design ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.121745" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.121745</a>
+#A Review of 3D Printed Concrete&nbsp;([2020-12](date/2020/12))
+<div class="h1-like">Performance-Requirements, Testing Measurements and Mix-Design</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://strathprints.strath.ac.uk/81118/1/Hou_etal_CBM_2021_A_review_of_3D_printed_concrete_performance_requirements_testing.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2020.121745" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.121745" target="_blank">10.1016/j.conbuildmat.2020.121745</a>
 
--------------------------
+<a href="../../../author/hou_shaodan"><b>Hou</b>&nbsp;Shaodan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6857-7450" title="ORCID: 0000-0002-6857-7450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_jun"><b>Ye</b>&nbsp;Jun</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 273
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="https://orcid.org/0000-0002-6857-7450" title="ORCID: 0000-0002-6857-7450" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 273, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#measurement`](keyword/measurement)
-    [`#mixing`](keyword/mixing)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#requirement`](keyword/requirement)
-    [`#review`](keyword/review)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097775555&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3111944458" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.121745" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.121745?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As one of the ways contributing to the progress of the industrialization of the construction industry, 3D printed concrete (3DPC) has attracted more and more attention in recent years. The utilization of 3DPC can accelerate the construction speed, save the labor and raw materials, as well as improve the design freedom of construction without formworks. However, one of the most significant challenges for the application of 3DPC is the printing materials. These is a significant difference in the mixtures and performance between 3DPC and normal concrete. In order to provide an intensive reference for future studies to satisfy the performance requirements of 3DPC structures, this study firstly reviews the performance requirements of 3DPC, including the printability, fresh and hardened mechanical properties, and durability. Based on this, the specialized test methods for 3DPC are reviewed for the effective quality evaluation of 3DPC. The last part presents a review of mix design from the point of view of different materials and mix design approaches. The results show that 3DPC needs to meet the printability that it has higher requirements for rheology, hydration, and green strength than normal concrete. The interlayer bond is the key to study the anisotropic strength and durability degradation. More accurate test methods and testing standards should be developed. Besides, coarse aggregates and recycled materials need to be considered in the mix design of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "100 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
@@ -88,7 +66,6 @@ tags:
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
-      <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ivan_mech.2020.EoVFaSAoAotSYSaSBUoFC/">Effects of Volume Fraction and Surface Area of Aggregates on the Static Yield-Stress and Structural Build-Up of Fresh Concrete</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a></li>
@@ -150,7 +127,6 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../secr_fata_schr_mech.2017.SoCPCDLTaLtR/">Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
@@ -172,8 +148,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "237 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
@@ -411,6 +387,34 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_li_ma.2021.CCBwHBSaMHPCfLS3P/">Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET/">Mechanical and Microstructural Evolution of 3D Printed Concrete with Polyethylene-Fiber and Recycled Sand at Elevated Temperatures</a></li>
-      <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hou_duan_xiao_ye.2021.ARo3PC,
+      author            = "Shaodan Hou and Zhenhua Duan and Jianzhuang Xiao and Jun Ye",
+      title             = "A Review of 3D Printed Concrete: Performance-Requirements, Testing Measurements and Mix-Design",
+      doi               = "10.1016/j.conbuildmat.2020.121745",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "273",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Hou, Z. Duan, J. Xiao and J. Ye, “A Review of 3D Printed Concrete: Performance-Requirements, Testing Measurements and Mix-Design”, <i>Construction and Building Materials</i>, vol. 273, 2021, doi: 10.1016/j.conbuildmat.2020.121745.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hou, Shaodan, Zhenhua Duan, Jianzhuang Xiao, and Jun Ye. “A Review of 3D Printed Concrete: Performance-Requirements, Testing Measurements and Mix-Design”. <i>Construction and Building Materials</i> 273 (2021). https://doi.org/10.1016/j.conbuildmat.2020.121745.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

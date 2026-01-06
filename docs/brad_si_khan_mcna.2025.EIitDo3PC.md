@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: James Bradshaw, Wen Si, Mehran Khan, Ciaran McNally
+    - footer
+title: Bradshaw James, Si Wen, Khan Mehran, McNally Ciaran
 description:
 tags:
  - advance
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2411-9660/9/4/85/pdf?version=1751898482) Emerging Insights into the Durability of 3D-Printed Concrete:<br/>:aca-blank: Recent Advances in Mix Design Parameters and Testing ([2025-07](date/2025/07))
-<a href="https://doi.org/10.3390/designs9040085" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/designs9040085</a>
+#Emerging Insights into the Durability of 3D-Printed Concrete&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Recent Advances in Mix Design Parameters and Testing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2411-9660/9/4/85/pdf?version=1751898482) <a href="https://doi.org/10.3390/designs9040085" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/designs9040085" target="_blank">10.3390/designs9040085</a>
 
--------------------------
+<a href="../../../author/bradshaw_james"><b>Bradshaw</b>&nbsp;James</a></span>, <a href="../../../author/si_wen"><b>Si</b>&nbsp;Wen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_mehran"><b>Khan</b>&nbsp;Mehran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
+Journal Article - Designs, Vol. 9, Iss. 4, No. 85
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>
-,     <a href="../../../author/si_wen"><b>Si</b> Wen</a>
-,     <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> <a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Designs, Vol. 9, Iss. 4, No. 85
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#durability`](keyword/durability)
-    [`#emergent`](keyword/emergent)
-    [`#insights`](keyword/insights)
-    [`#mixing`](keyword/mixing)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Emerging%20Insights%20into%20the%20Durability%20of%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014241929&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412071715" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/designs9040085" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/designs9040085?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Although 3D-printed concrete (3DPC) offers advantages such as faster construction, reduced labour costs, and minimized material waste, concerns remain about its long-term durability. This review examines these challenges by assessing how the unique layerby-layer manufacturing process of 3DPC influences key material properties and overall durability. The formation of interfacial porosity and anisotropic microstructures can compromise structural integrity over time, increasing susceptibility to environmental degradation. Increased porosity at layer interfaces and the presence of shrinkage-induced cracking, including both plastic and autogenous shrinkage, contribute to reduced durability. Studies on freeze–thaw performance indicate that 3DPC can achieve durability comparable to cast concrete when proper mix designs and air-entraining agents are used. Chemical resistance, particularly under sulfuric acid exposure, remains a challenge, but improvements have been observed with the inclusion of supplementary cementitious materials such as silica fume. In addition, tests for chloride ingress and carbonation reveal that permeability and resistance are highly sensitive to printing parameters, material composition, and curing conditions. Carbonation resistance, in particular, appears to be lower in 3DPC than in traditional concrete. This review highlights the need for further research and emphasizes that optimizing mix designs and printing processes is critical to improving the long-term performance of 3D-printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "50 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
@@ -122,8 +99,8 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
@@ -132,4 +109,35 @@ tags:
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_khan_mcna.2025.EoNSwHRoGoEMPaRo3PC/">Effect of Nano Silica with High Replacement of GGBS on Enhancing Mechanical Properties and Rheology of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{brad_si_khan_mcna.2025.EIitDo3PC,
+      author            = "James Bradshaw and Wen Si and Mehran Khan and Ciaran McNally",
+      title             = "Emerging Insights into the Durability of 3D-Printed Concrete: Recent Advances in Mix Design Parameters and Testing",
+      doi               = "10.3390/designs9040085",
+      year              = "2025",
+      journal           = "Designs",
+      volume            = "9",
+      number            = "4",
+      pages             = "85",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Bradshaw, W. Si, M. Khan and C. McNally, “Emerging Insights into the Durability of 3D-Printed Concrete: Recent Advances in Mix Design Parameters and Testing”, <i>Designs</i>, vol. 9, no. 4, p. 85, 2025, doi: 10.3390/designs9040085.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bradshaw, James, Wen Si, Mehran Khan, and Ciaran McNally. “Emerging Insights into the Durability of 3D-Printed Concrete: Recent Advances in Mix Design Parameters and Testing”. <i>Designs</i> 9, no. 4 (2025): 85. https://doi.org/10.3390/designs9040085.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

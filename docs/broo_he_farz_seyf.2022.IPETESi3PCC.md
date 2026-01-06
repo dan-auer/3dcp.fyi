@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adam Brooks, Yawen He, Nima Farzadnia, Shayan Seyfimakrani, Hongyu Zhou
+    - footer
+title: Brooks Adam, He Yawen, Farzadnia Nima, Seyfimakrani Shayan, Zhou Hongyu
 description:
 tags:
  - cement
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.osti.gov/biblio/1976934) Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104492" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104492</a>
+#Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.osti.gov/biblio/1976934) <a href="https://doi.org/10.1016/j.cemconcomp.2022.104492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104492" target="_blank">10.1016/j.cemconcomp.2022.104492</a>
 
--------------------------
+<a href="../../../author/brooks_lee_adam"><b>Brooks</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3185-7395" title="ORCID: 0000-0002-3185-7395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_yawen"><b>He</b>&nbsp;Yawen</a></span>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2179-8862" title="ORCID: 0000-0002-2179-8862" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b>&nbsp;Shayan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 129
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/brooks_lee_adam"><b>Brooks</b> Adam</a>
-,     <a href="../../../author/he_yawen"><b>He</b> Yawen</a> <a href="https://orcid.org/0000-0002-3185-7395" title="ORCID: 0000-0002-3185-7395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>
-,     <a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b> Shayan</a> <a href="https://orcid.org/0000-0002-2179-8862" title="ORCID: 0000-0002-2179-8862" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 129, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#enabler`](keyword/enabler)
-    [`#energy`](keyword/energy)
-    [`#incorporation`](keyword/incorporation)
-    [`#printability`](keyword/printability)
-    [`#storage`](keyword/storage)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Incorporating%20PCM-Enabled%20Thermal%20Energy%20Storage%20into%203D%20Printable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126587210&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220991250" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104492" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104492?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper delineates the feasibility of incorporating microencapsulated phase change materials (mPCM) into 3D printable cementitious composite materials. A comprehensive experimental program was carried out to evaluate the impacts of mPCM on the printability, microstructures, mechanical and thermal properties of cementitious 3D printing ‘inks’. Results showed that the mPCM affected the printability of the cementitious ink material based on its physical properties (e.g., particle size) and volume loading – at lower volume loadings, mPCM increased the flowability of the cementitious ink material while leading to increased compressive strength and thermal conductivity for the hardened printed material. However, further increase in mPCM dosage led to a decrease in printability and, therefore, decrease in compressive strength and thermal conductivity as compared to the reference mixture. The results also showed that the inclusion of mPCM influence the printing parameters. In general, the inclusion of higher volume contents of mPCM necessitates a higher extrusion rate to achieve a desirable extrudability. Lastly, a thermal network model was formulated for 3D printed mPCM charged building components (e.g., wall). The study shows that microencapsulated PCM materials have good potential to be used in 3D printable cementitious mixtures for improving the thermal and energy performance of 3D printed buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -84,8 +61,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../wang_flat.2019.Pot1RICoCaDFb/">Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication:<br/>Correction</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
       <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
       <li><a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/awawdeh_m_najemaldeen"><b>Awawdeh</b> Najemaldeen</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rous_alne_abda_awaw.2025.MoECWU3PCwPCM/">Mitigation of Energy Crisis Worldwide Using 3D-Printed Concrete with Phase Change Materials</a></li>
@@ -103,4 +80,33 @@ tags:
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_xing_sun_feng.2023.MSSCaHMPo3PBW/">Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>A Review</a></li>
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../srin_dey_pand_sith.2022.PTaCSPoCM/">Printability, Thermal and Compressive Strength Properties of Cementitious Materials:<br/>A Comparative Study with Silica-Fume and Limestone</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{broo_he_farz_seyf.2022.IPETESi3PCC,
+      author            = "Adam Lee Brooks and Yawen He and Nima Farzadnia and Shayan Seyfimakrani and Hongyu Zhou",
+      title             = "Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2022.104492",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "129",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. L. Brooks, Y. He, N. Farzadnia, S. Seyfimakrani and H. Zhou, “Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites”, <i>Cement and Concrete Composites</i>, vol. 129, 2022, doi: 10.1016/j.cemconcomp.2022.104492.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Brooks, Adam Lee, Yawen He, Nima Farzadnia, Shayan Seyfimakrani, and Hongyu Zhou. “Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites”. <i>Cement and Concrete Composites</i> 129 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104492.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

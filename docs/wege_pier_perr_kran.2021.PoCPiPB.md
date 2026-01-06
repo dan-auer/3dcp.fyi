@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Weger, Alexandre Pierre, Arnaud Perrot, Thomas Kränkel, Dirk Lowke, Christoph Gehlen
+    - footer
+title: Weger Daniel, Pierre Alexandre, Perrot Arnaud, Kränkel Thomas, Lowke Dirk, Gehlen Christoph
 description:
 tags:
  - bed
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/2/389/pdf) Penetration of Cement-Pastes into Particle-Beds:<br/>:aca-blank: A Comparison of Penetration Models ([2021-01](date/2021/01))
-<a href="https://doi.org/10.3390/ma14020389" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14020389</a>
+#Penetration of Cement-Pastes into Particle-Beds&nbsp;([2021-01](date/2021/01))
+<div class="h1-like">A Comparison of Penetration Models</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/2/389/pdf) <a href="https://doi.org/10.3390/ma14020389" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14020389" target="_blank">10.3390/ma14020389</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_alexandre"><b>Pierre</b>&nbsp;Alexandre</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krankel_thomas"><b>Kränkel</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> <a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bed`](keyword/bed)
-    [`#cement`](keyword/cement)
-    [`#comparison`](keyword/comparison)
-    [`#model`](keyword/model)
-    [`#particle`](keyword/particle)
-    [`#paste`](keyword/paste)
-    [`#penetration`](keyword/penetration)
-
-
--------------------------
+<a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Penetration%20of%20Cement-Pastes%20into%20Particle-Beds" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099477441&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3121096148" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14020389" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14020389?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     For the selective paste intrusion (SPI) method, thin layers of aggregate are locally bound by cement paste where the structure shall arise. After completion of the printing process, the structure is excavated from the particle-bed and the unbound particles are removed. However, for a sufficient layer bonding and shape accuracy, the rheology of the cement paste must be adapted to the flow resistance of the particle-bed. For practical application, that means mostly time and material consuming "trial and error" tests. To prevent that, analytical models can help to predict the penetration of the cement paste. This paper presents four analytical models to calculate the penetration depth of a cement paste into a particle packing. Based on Darcy's law, an already existing model is slightly modified (model A+) and a generalized (model C), an advanced generalized (model D) as well as a simplified model (model B/B+) are developed. Compared to conducted tests on the penetration depth, model B showed good accuracy (deviation <1.5 mm) for pastes with a yield stress ≥8.2 Pa, model A+/B+/C for ≥ 5.4 Pa and model D even for <5.4 Pa. Finally, an application guide for each model for practical use will be given.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -96,8 +74,8 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_cort_ooms_wan.2025.MPoPB3PCIP/">Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq_amzi.2025.3CP/">3D Concrete Printing</a></li>
@@ -122,4 +100,34 @@ tags:
       <li><a href="../../../author/benamara_abdeslam"><b>Benamara</b> Abdeslam</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../bena_pier_kaci_meli.2021.DPoMiCL/">Digital Printing of Mortar in Carrier-Liquid:<br/>Comparison of Approaches to Predict Print Stability</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_gehl.2021.PBBbSPI/">Particle-Bed Binding by Selective Paste-Intrusion:<br/>Strength and Durability of Printed Fine-Grain Concrete Members</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wege_pier_perr_kran.2021.PoCPiPB,
+      author            = "Daniel Weger and Alexandre Pierre and Arnaud Perrot and Thomas Kränkel and Dirk Lowke and Christoph Gehlen",
+      title             = "Penetration of Cement-Pastes into Particle-Beds: A Comparison of Penetration Models",
+      doi               = "10.3390/ma14020389",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Weger, A. Pierre, A. Perrot, T. Kränkel, D. Lowke and C. Gehlen, “Penetration of Cement-Pastes into Particle-Beds: A Comparison of Penetration Models”, <i>Materials</i>, vol. 14, no. 2, 2021, doi: 10.3390/ma14020389.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weger, Daniel, Alexandre Pierre, Arnaud Perrot, Thomas Kränkel, Dirk Lowke, and Christoph Gehlen. “Penetration of Cement-Pastes into Particle-Beds: A Comparison of Penetration Models”. <i>Materials</i> 14, no. 2 (2021). https://doi.org/10.3390/ma14020389.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dirk Lowke, Inka Mai (née Dressler), Emmanuel Keita, Arnaud Perrot, Daniel Weger, Christoph Gehlen, Friedrich Herding, Wenqiang Zuo, Nicolas Roussel
+    - footer
+title: Lowke Dirk, Mai (née Dressler) Inka, Keita Emmanuel, Perrot Arnaud, Weger Daniel, Gehlen Christoph, Herding Friedrich, Zuo Wenqiang, Roussel Nicolas
 description:
 tags:
  - bed
@@ -15,36 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.science/hal-04211039/file/Particle%20bed%203D%20printing%20in%20concrete%20construction_clean.pdf) Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106748" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106748</a>
+#Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics ([2022-02](date/2022/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.science/hal-04211039/file/Particle%20bed%203D%20printing%20in%20concrete%20construction_clean.pdf) <a href="https://doi.org/10.1016/j.cemconres.2022.106748" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106748" target="_blank">10.1016/j.cemconres.2022.106748</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keita_emmanuel"><b>Keita</b>&nbsp;Emmanuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1124-6295" title="ORCID: 0000-0003-1124-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/herding_friedrich"><b>Herding</b>&nbsp;Friedrich</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_wenqiang"><b>Zuo</b>&nbsp;Wenqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 156
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a> <a href="https://orcid.org/0000-0003-1124-6295" title="ORCID: 0000-0003-1124-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a> <a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 156, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bed`](keyword/bed)
-    [`#interaction`](keyword/interaction)
-    [`#material`](keyword/material)
-    [`#particle`](keyword/particle)
-    [`#physics`](keyword/physics)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Material-Process%20Interactions%20in%20Particle-Bed%203D%20Printing%20and%20the%20Underlying%20Physics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125494950&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,36 +37,26 @@ tags:
 <a href="https://inciteful.xyz/p/W4214496948" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106748" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106748?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper focuses on material-process interactions in particle bed binding. After a classification of particle bed binding techniques currently available for cement-based materials, the most important material-process interactions and their underlying physics are discussed in detail for the selective cement activation (SCA) and the selective paste intrusion technique (SPI). Here, we consider the sub-processes layer application, layer compaction, fluid application, fluid penetration and after printing treatment. We show that, by varying the material and process parameters in these sub-processes, the printing process and the resulting material properties of the printed component, such as compressive strength, durability and dimensional accuracy, can be specifically controlled. Furthermore, we illustrate how these sub-processes can be both understood and described on the basis of the underlying mechanisms and physically based material models.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
-      <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
-      <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/ingaglio_joseph"><b>Ingaglio</b> Joseph</a>, <a href="../../../author/fox_t_john"><b>Fox</b> John</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a>, <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../inga_fox_nait_bocc.2019.MCoBJ3PHCCwtAoFA/">Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates</a></li>
-      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2b/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
-      <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../kuzm_duco_fera_rous.2022.EIoEBAM/">Environmental Impact of Extrusion-Based Additive Manufacturing:<br/>Generic Model, Power-Measurements and Influence of Printing-Resolution</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
-      <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
-      <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../mai_lowk_perr.2022.FIiPBfSCA/">Fluid-Intrusion in Powder-Beds for Selective Cement-Activation:<br/>An Experimental and Analytical Study</a></li>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../pier_wege_perr_lowk.2018.PoCPiSPD3P/">Penetration of Cement-Pastes into Sand-Packings During 3D Printing:<br/>Analytical and Experimental Study</a></li>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../pier_wege_perr_lowk.2020.AMoCMbSPI/">Additive Manufacturing of Cementitious Materials by Selective Paste-Intrusion:<br/>Numerical Modeling of the Flow Using a 2D-Axisymmetric Phase-Field-Method</a></li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
@@ -103,8 +71,8 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/dong_chenghao"><b>Dong</b> Chenghao</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../zuo_dong_keit_rous.2020.PSoLiPBf3PBP/">Penetration Study of Liquid in Powder-Bed for 3D Powder-Bed Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
@@ -141,4 +109,33 @@ tags:
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a>, <a href="../../../author/blanco_ana"><b>Blanco</b> Ana</a>, <a href="../../../author/galeote_eduardo"><b>Galeote</b> Eduardo</a>, <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../fuen_blan_gale_cava.2022.SFRCBCDfPB3PS/">Structural Fiber-Reinforced Cement-Based Composite Designed for Particle-Bed 3D Printing Systems:<br/>Case Study Parque De Castilla Footbridge in Madrid</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lowk_mai_keit_perr.2022.MPIiPB3PatUP,
+      author            = "Dirk Lowke and Inka Mai (née Dressler) and Emmanuel Keita and Arnaud Perrot and Daniel Weger and Christoph Gehlen and Friedrich Herding and Wenqiang Zuo and Nicolas Roussel",
+      title             = "Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics",
+      doi               = "10.1016/j.cemconres.2022.106748",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "156",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Lowke, “Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics”, <i>Cement and Concrete Research</i>, vol. 156, 2022, doi: 10.1016/j.cemconres.2022.106748.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lowke, Dirk, Inka Mai (née Dressler), Emmanuel Keita, Arnaud Perrot, Daniel Weger, Christoph Gehlen, Friedrich Herding, Wenqiang Zuo, and Nicolas Roussel. “Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics”. <i>Cement and Concrete Research</i> 156 (2022). https://doi.org/10.1016/j.cemconres.2022.106748.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

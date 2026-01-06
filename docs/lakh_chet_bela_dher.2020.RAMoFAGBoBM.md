@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Othman Lakhal, Taha Chettibi, Abdelkader Belarouci, Gerald Dherbomez, Rochdi Merzouki
+    - footer
+title: Lakhal Othman, Chettibi Taha, Belarouci Abdelkader, Dherbomez Gerald, Merzouki Rochdi
 description:
 tags:
  - additive
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotized Additive Manufacturing of Funicular Architectural Geometries Based on Building Materials ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1109/tmech.2020.2974057" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/tmech.2020.2974057</a>
+#Robotized Additive Manufacturing of Funicular Architectural Geometries Based on Building Materials ([2020-02](date/2020/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/tmech.2020.2974057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tmech.2020.2974057" target="_blank">10.1109/tmech.2020.2974057</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakhal_othman"><b>Lakhal</b>&nbsp;Othman</a></span>, <a href="../../../author/chettibi_taha"><b>Chettibi</b>&nbsp;Taha</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belarouci_abdelkader"><b>Belarouci</b>&nbsp;Abdelkader</a></span>, <a href="../../../author/dherbomez_gerald"><b>Dherbomez</b>&nbsp;Gerald</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/merzouki_rochdi"><b>Merzouki</b>&nbsp;Rochdi</a></span><br>
+Journal Article - IEEE/ASME Transactions on Mechatronics, Vol. 25, Iss. 5, pp. 2387-2397
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a> <a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chettibi_taha"><b>Chettibi</b> Taha</a>
-,     <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a> <a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dherbomez_gerald"><b>Dherbomez</b> Gerald</a>
-,     <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IEEE/ASME Transactions on Mechatronics, Vol. 25, Iss. 5, pp. 2387-2397
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#architecture`](keyword/architecture)
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#funicular`](keyword/funicular)
-    [`#geometry`](keyword/geometry)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/funicular"><button class="btn">#funicular</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotized%20Additive%20Manufacturing%20of%20Funicular%20Architectural%20Geometries%20Based%20on%20Building%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85094166348&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3005605357" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/tmech.2020.2974057" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/tmech.2020.2974057?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) technology has been identified as one of the major digital innovations that has revolutionized not only the field of the industry but also the construction. From a research side, AM is a multidisciplinary domain, combining between materials science, mechatronics engineering, and architectural design. The AM concept needs to consider the geometry and the shape of printed objects regarding material properties and robot kinematics which are adaptable to the object size. In this article, we present an integrated design and control of an omnidirectional mobile manipulator robot (MMR), capable of extruding concrete and clay materials, to print complex and funicular architectural geometries. The studied robot allows printing building pieces with different shapes and sizes by additive deposit which can later be assembled on-site. The main issue concerns the control of continuous material deposit, with specified accuracy and respecting the desired shape. This problem involves to solve, in real time, the nonlinear kinematic model of a ten-degrees-offreedom heterogeneous robot. The kinematic model and the control of utilized MMR are discussed, and an optimization method based on quadratic programming is used for handling the robot redundancy. Finally, we present the experimental results to illustrate the efficiency of AM on the developed concept
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/ferron_raissa"><b>Ferron</b> Raissa</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../delg_clay_brie_ferr.2017.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Prospective Review</a></li>
       <li><a href="../../../author/dubois_vincent"><b>Dubois</b> Vincent</a>, <a href="../../../author/leblanc_alexandre"><b>Leblanc</b> Alexandre</a>, <a href="../../../author/carpentier_olivier"><b>Carpentier</b> Olivier</a>, <a href="../../../author/alhaik_ghaith"><b>Alhaik</b> Ghaith</a> et al. <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../dubo_lebl_carp_alha.2018.PoFSBLCwRH/">Performances of Flax Shive-Based Lightweight Composites with Rapid Hardening</a></li>
@@ -89,11 +65,42 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_lakh_bela_merz.2025.FQDtACfFIDOSR3P/">From Qualitative Diagnosis to Adaptive Compensation for Filament Imperfections During On-Site Robotic 3D Printing</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/youcef-toumi_kamal"><b>Youcef-Toumi</b> Kamal</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../yang_lakh_bela_youc.2023.AEaDoFWDD3RPoCM/">Adaptive Estimation and Detection of Filament-Width-Deviation During 3D Robotic Printing of Construction Materials</a></li>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/youcef-toumi_kamal"><b>Youcef-Toumi</b> Kamal</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_lakh_bela_youc.2023.EWIfADoFDi3RPP/">Experimental Workflow Implementation for Automatic Detection of Filament-Deviation in 3D Robotic Printing Process</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lakh_chet_bela_dher.2020.RAMoFAGBoBM,
+      author            = "Othman Lakhal and Taha Chettibi and Abdelkader Belarouci and Gerald Dherbomez and Rochdi Merzouki",
+      title             = "Robotized Additive Manufacturing of Funicular Architectural Geometries Based on Building Materials",
+      doi               = "10.1109/tmech.2020.2974057",
+      year              = "2020",
+      journal           = "IEEE/ASME Transactions on Mechatronics",
+      volume            = "25",
+      number            = "5",
+      pages             = "2387--2397",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Lakhal, T. Chettibi, A. Belarouci, G. Dherbomez and R. Merzouki, “Robotized Additive Manufacturing of Funicular Architectural Geometries Based on Building Materials”, <i>IEEE/ASME Transactions on Mechatronics</i>, vol. 25, no. 5, pp. 2387–2397, 2020, doi: 10.1109/tmech.2020.2974057.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lakhal, Othman, Taha Chettibi, Abdelkader Belarouci, Gerald Dherbomez, and Rochdi Merzouki. “Robotized Additive Manufacturing of Funicular Architectural Geometries Based on Building Materials”. <i>IEEE/ASME Transactions on Mechatronics</i> 25, no. 5 (2020): 2387–97. https://doi.org/10.1109/tmech.2020.2974057.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

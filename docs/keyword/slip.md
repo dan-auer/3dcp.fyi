@@ -8,7 +8,7 @@ search:
 
 # #slip
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
   <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/yu_kanghao"><b>Yu</b> Kanghao</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_yu_zhan_wang.2025.CaMtBSBoSBi3PECC/">Characterizing and Modelling the Bond-Slip-Behavior of Steel-Bars in 3D Printed Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a>, <a href="../../../author/yan_ming"><b>Yan</b> Ming</a>, <a href="../../../author/yang_kun"><b>Yang</b> Kun</a>, <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wang_yan_yang_ao.2025.EoWSotECo3PoCM/">Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials</a></li>

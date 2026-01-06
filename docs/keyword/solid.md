@@ -8,7 +8,7 @@ search:
 
 # #solid
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
   <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
   <li><a href="../../../author/lale_erol"><b>Lale</b> Erol</a>, <a href="../../../author/ayhan_bahar"><b>Ayhan</b> Bahar</a>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC/">Computational Simulations Fresh-to-Solid Transition for Additive Manufacturing of Ultra-High-Performance Fiber Reinforced Concrete</a></li>

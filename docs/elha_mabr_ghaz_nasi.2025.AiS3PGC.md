@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ahmed Elhag, Abdelkader Mabrouk, Nejib Ghazouani, Umara Nasir
+    - footer
+title: Elhag Ahmed, Mabrouk Abdelkader, Ghazouani Nejib, Nasir Umara
 description:
 tags:
  - advance
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>:aca-blank: Materials, Performance, and Environmental Impact in Next Generation Green Construction ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1007/s11837-025-07710-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11837-025-07710-7</a>
+#Advances in Sustainable 3D-Printed Geopolymer Concrete&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Materials, Performance, and Environmental Impact in Next Generation Green Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11837-025-07710-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11837-025-07710-7" target="_blank">10.1007/s11837-025-07710-7</a>
 
--------------------------
+<a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b>&nbsp;Ahmed</a></span>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b>&nbsp;Abdelkader</a></span>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b>&nbsp;Nejib</a></span>, <a href="../../../author/nasir_umara"><b>Nasir</b>&nbsp;Umara</a></span><br>
+Journal Article - Journal of The Minerals, Metals & Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>
-,     <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>
-,     <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>
-,     <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of The Minerals, Metals & Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#environment`](keyword/environment)
-    [`#generation`](keyword/generation)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#green`](keyword/green)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advances%20in%20Sustainable%203D-Printed%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016239341&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414199905" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11837-025-07710-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11837-025-07710-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review presents a comprehensive assessment of sustainable 3D-printed geopolymer concrete (3DPG), emphasizing its potential as a low-carbon, eco-efficient alternative to traditional construction materials. The study explores the integration of geopolymer technology with 3D printing to enhance design flexibility, reduce environmental impact, and improve construction efficiency. Key objectives include evaluating the influence of printing parameters and raw materials on fresh properties (flowability, thixotropy, yield stress), mechanical performance (compressive, flexural, tensile strength), and microstructural development. Particular attention is given to interlayer bonding, porosity, shrinkage, and durability characteristics, which are critical for structural reliability. The review also highlights the role of activators, supplementary materials (slag, silica fume, metakaolin), and reinforcement strategies in optimizing performance. Additionally, advanced characterization techniques such as SEM, XRD, and FTIR are discussed for microstructural analysis. From an environmental perspective, the benefits of using industrial byproducts and life cycle impacts of 3DPG are evaluated, supporting its application in next-generation green construction. This study provides valuable insights for researchers and practitioners aiming to develop high-performance, sustainable, and digitally fabricated geopolymer-based structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "64 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -138,7 +114,35 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{elha_mabr_ghaz_nasi.2025.AiS3PGC,
+      author            = "Ahmed Babeker Elhag and Abdelkader Mabrouk and Nejib Ghazouani and Umara Nasir",
+      title             = "Advances in Sustainable 3D-Printed Geopolymer Concrete: Materials, Performance, and Environmental Impact in Next Generation Green Construction",
+      doi               = "10.1007/s11837-025-07710-7",
+      year              = "2025",
+      journal           = "Journal of The Minerals, Metals & Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. B. Elhag, A. Mabrouk, N. Ghazouani and U. Nasir, “Advances in Sustainable 3D-Printed Geopolymer Concrete: Materials, Performance, and Environmental Impact in Next Generation Green Construction”, <i>Journal of The Minerals, Metals & Materials</i>, 2025, doi: 10.1007/s11837-025-07710-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Elhag, Ahmed Babeker, Abdelkader Mabrouk, Nejib Ghazouani, and Umara Nasir. “Advances in Sustainable 3D-Printed Geopolymer Concrete: Materials, Performance, and Environmental Impact in Next Generation Green Construction”. <i>Journal of The Minerals, Metals & Materials</i>, 2025. https://doi.org/10.1007/s11837-025-07710-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

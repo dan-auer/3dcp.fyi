@@ -8,7 +8,7 @@ search:
 
 # #arch
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/peng_zechen"><b>Peng</b> Zechen</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ding_peng_dong.2025.MPoCGR3PCAS/">Mechanical Properties of CFRP Grid Reinforced 3D Printed Concrete Arch Structures</a></li>
   <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../guan_wang_wan_ma.2025.MaSFPo1SRASMb3PCaPF/">Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork</a></li>
   <li><a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zhao_liguo"><b>Zhao</b> Liguo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../yang_yao_zhao_zhan.2024.BAAaME/">Bridging Ancient Artistry and Modern Engineering:<br/>A 3D Printed Concrete Arch Bridge Inspired by Millennium-Old Bronze Patterns Using an Integrated Concrete 3D Printing System</a></li>

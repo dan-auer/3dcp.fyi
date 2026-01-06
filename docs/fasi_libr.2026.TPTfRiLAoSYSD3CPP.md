@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Fasihi, Nicolas Libre
+    - footer
+title: Fasihi Ali, Libre Nicolas
 description:
 tags:
  - assessment
@@ -19,33 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106412" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106412</a>
+#Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106412" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106412" target="_blank">10.1016/j.cemconcomp.2025.106412</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7372-653X" title="ORCID: 0000-0001-7372-653X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fasihi_ali"><b>Fasihi</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/libre_ali_nicolas"><b>Libre</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 166, No. 106412
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a> <a href="https://orcid.org/0000-0001-7372-653X" title="ORCID: 0000-0001-7372-653X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 166, No. 106412
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#line`](keyword/line)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#rapid`](keyword/rapid)
-    [`#static`](keyword/static)
-    [`#stress`](keyword/stress)
-    [`#test`](keyword/test)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tip%20Penetration%20Test%20for%20Rapid%20in-Line%20Assessment%20of%20Static%20Yield%20Stress%20During%203D%20Concrete%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022826849&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106505120" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106412" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106412?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The static yield stress of printable cementitious materials is a critical parameter governing the shape stability and buildability of 3D printed concrete structures. Among various testing techniques, the penetration test has emerged as a promising method for in-situ measurement of static yield stress during printing process. However, the applicability of the penetration test for in-line monitoring of static yield stress remains limited due to the necessity for substantial material thickness. To address this challenge, this study proposes a novel tip penetration test, which enables static yield stress determination without the requirement for full cone submergence, thereby facilitating assessment of thin printed filaments while reducing the testing time. The effects of key process parameters such as penetration speed (0.25 mm/s, 0.5 mm/s and 1 mm/s), cone surface condition (rough and smooth), and cone semi-angle (30◦, 45◦ and 60◦) on the accuracy of the tip penetration test results were systematically investigated by comparing the results with the standard vane rheometer test. Furthermore, a theoretical framework based on solid plasticity theory was proposed to convert the tip penetration test results to static yield stress. The optimum penetration speed was identified as 0.5 mm/s and smooth cones with semi-angles of 45◦ and 60◦ provided the best correlation with vane test results. The proposed theoretical model effectively estimated the static yield stress from tip penetration test results. The accuracy of the predictions was found to be highly sensitive to the selected failure criterion.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../demo_mesn_duco_caro.2023.AILSMoPMwaPSV/">Affordable In-Line Structuration Measurements of Printable Mortar with a Pocket-Shear-Vane</a></li>
@@ -91,7 +68,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fasi_libr.2026.TPTfRiLAoSYSD3CPP,
+      author            = "Ali Fasihi and Nicolas Ali Libre",
+      title             = "Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process",
+      doi               = "10.1016/j.cemconcomp.2025.106412",
+      year              = "2026",
+      journal           = "Cement and Concrete Composites",
+      volume            = "166",
+      pages             = "106412",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Fasihi  and N. A. Libre, “Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process”, <i>Cement and Concrete Composites</i>, vol. 166, p. 106412, 2026, doi: 10.1016/j.cemconcomp.2025.106412.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fasihi, Ali, and Nicolas Ali Libre. “Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process”. <i>Cement and Concrete Composites</i> 166 (2026): 106412. https://doi.org/10.1016/j.cemconcomp.2025.106412.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guowei Ma, Richard Buswell, Wilson Silva, Li Wang, Jie Xu, Scott Jones
+    - footer
+title: Ma Guowei, Buswell Richard, Silva Wilson, Wang Li, Xu Jie, Jones Scott
 description:
 tags:
  - concrete
@@ -14,32 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/articles/journal_contribution/Technology_readiness_A_global_snapshot_of_3D_concrete_printing_and_the_frontiers_for_development/19650456/1/files/34895217.pdf) Technology Readiness:<br/>:aca-blank: A Global Snapshot of 3D Concrete Printing and the Frontiers for Development ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106774" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106774</a>
+#Technology Readiness&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/Technology_readiness_A_global_snapshot_of_3D_concrete_printing_and_the_frontiers_for_development/19650456/1/files/34895217.pdf) <a href="https://doi.org/10.1016/j.cemconres.2022.106774" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106774" target="_blank">10.1016/j.cemconres.2022.106774</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 156
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> <a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a> <a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 156, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#global`](keyword/global)
-    [`#print`](keyword/print)
-    [`#ready`](keyword/ready)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/global"><button class="btn">#global</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ready"><button class="btn">#ready</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Technology%20Readiness" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125467820&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4221035474" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106774" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106774?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Since the inception of 3D concrete printing (3DCP) in the early to mid-2000's, the commercial landscape for this technology has expanded rapidly in parallel with developments of relevant materials, production technologies and knowhow. To benchmark the state-of-the-art of 3DCP technology in the construction field, this study presents a systematic review and analysis of 3DCP's development and applications based on information from articles, patents and publicly available data. An estimation of Technology Readiness Level (TRL) for 3DCP has been formulated through expert review, and the evidence suggests this is in the region of TRL6-7 similar to that reported for polymer-based fused deposition modelling processes. A new schema for the TRL assessment process is suggested and applied to two case studies: 1) the production of decorative works; 2) the fabrication of dwellings. Finally, we have identified four frontiers for research and development that should be exploited to raise the TRL of 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "54 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -76,12 +55,9 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
-      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
-      <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
-      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/ketel_sabrina"><b>Ketel</b> Sabrina</a>, <a href="../../../author/falzone_gabriel"><b>Falzone</b> Gabriel</a>, <a href="../../../author/wang_bu"><b>Wang</b> Bu</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../kete_falz_wang_wash.2019.APIfLSRttGAo3PC/">A Printability Index for Linking Slurry Rheology to the Geometrical Attributes of 3D Printed Components</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
@@ -98,7 +74,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ma_sun_wang_asla.2018.EaMAPoCCf3PCWCS/">Electromagnetic and Microwave-Absorbing Properties of Cementitious Composite for 3D Printing Containing Waste Copper Solids</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/munoz_ivan"><b>Muñoz</b> Ivan</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/uhart_maylis"><b>Uhart</b> Maylis</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../muno_madr_muni_uhar.2021.LCAoIASC3P/">Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing</a></li>
@@ -124,9 +99,12 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "197 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/perez_banda_pablo"><b>Perez</b> Pablo</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>, <a href="../../../author/valenzuela_rozas_sebastian"><b>Valenzuela</b> Sebastián</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_pere_alva_vale.2025.3PoSD/">3D Printing of Surrealist Dreams:<br/>Constraints, Failures, and Craftsmanship in 1:1 Digital Fabrication</a></li>
@@ -320,7 +298,34 @@ tags:
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a>, <a href="../../../author/blanco_ana"><b>Blanco</b> Ana</a>, <a href="../../../author/galeote_eduardo"><b>Galeote</b> Eduardo</a>, <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../fuen_blan_gale_cava.2022.SFRCBCDfPB3PS/">Structural Fiber-Reinforced Cement-Based Composite Designed for Particle-Bed 3D Printing Systems:<br/>Case Study Parque De Castilla Footbridge in Madrid</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
-      <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
-      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../lowk_mai_keit_perr.2022.MPIiPB3PatUP/">Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_busw_silv_wang.2022.TR,
+      author            = "Guowei Ma and Richard A. Buswell and Wilson Ricardo Leal da Silva and Li Wang and Jie Jerry Xu and Scott Z. Jones",
+      title             = "Technology Readiness: A Global Snapshot of 3D Concrete Printing and the Frontiers for Development",
+      doi               = "10.1016/j.cemconres.2022.106774",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "156",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Ma, R. A. Buswell, W. R. L. da Silva, L. Wang, J. J. Xu and S. Z. Jones, “Technology Readiness: A Global Snapshot of 3D Concrete Printing and the Frontiers for Development”, <i>Cement and Concrete Research</i>, vol. 156, 2022, doi: 10.1016/j.cemconres.2022.106774.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Guowei, Richard A. Buswell, Wilson Ricardo Leal da Silva, Li Wang, Jie Jerry Xu, and Scott Z. Jones. “Technology Readiness: A Global Snapshot of 3D Concrete Printing and the Frontiers for Development”. <i>Cement and Concrete Research</i> 156 (2022). https://doi.org/10.1016/j.cemconres.2022.106774.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

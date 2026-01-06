@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md. Mollah, Raphaël Comminal, Marcin Serdeczny, Berin Šeta, Jon Spangenberg
+    - footer
+title: Mollah Md., Comminal Raphaël, Serdeczny Marcin, Šeta Berin, Spangenberg Jon
 description:
 tags:
  - additive
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2023.103605) Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.addma.2023.103605" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103605</a>
+#Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing ([2023-05](date/2023/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2023.103605) <a href="https://doi.org/10.1016/j.addma.2023.103605" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103605" target="_blank">10.1016/j.addma.2023.103605</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mollah_tusher_md"><b>Mollah</b>&nbsp;Md.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/comminal_raphael"><b>Comminal</b>&nbsp;Raphaël</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1691-773X" title="ORCID: 0000-0003-1691-773X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5989-1122" title="ORCID: 0000-0002-5989-1122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seta_berin"><b>Šeta</b>&nbsp;Berin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
+Journal Article - Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> <a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> <a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a> <a href="https://orcid.org/0000-0003-1691-773X" title="ORCID: 0000-0003-1691-773X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> <a href="https://orcid.org/0000-0002-5989-1122" title="ORCID: 0000-0002-5989-1122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#buildup`](keyword/buildup)
-    [`#computer`](keyword/computer)
-    [`#deposition`](keyword/deposition)
-    [`#extrusion`](keyword/extrusion)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#stability`](keyword/stability)
-    [`#stress`](keyword/stress)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildup"><button class="btn">#buildup</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Computational%20Analysis%20of%20Yield-Stress-Buildup%20and%20Stability%20of%20Deposited%20Layers%20in%20Material-Extrusion%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159164030&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4381462737" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103605" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103605?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the stability of deformable layers produced by material extrusion additive manufacturing. A Computational Fluid Dynamics (CFD) model is developed to predict the deposition flow of viscoplastic materials such as ceramic pastes, thermosets, and concrete. The viscoplastic materials are modelled with the Bingham rheological equations and implemented with a generalized Newtonian fluid model. The developed CFD model applies a scalar approach to differentiate the rheology of two layers in order to capture the deposition of a wet layer onto a semi solidified printed layer (i.e., wet-on-semisolid printing). The semi solidification is modelled by a yield stress buildup. The cross-sectional shapes of the deposited layers are predicted, and the relative deformation of the first layer is studied for different yield stress buildups and processing conditions such as printing- and extrusion-speed, layer height, and nozzle diameter. The results of the CFD model illustrate that the relative deformation of the first layer decreases non-linearly with an increase in yield stress, and that stable prints can be obtained when taking into account the semi solidification. Furthermore, it is found that the deformation is dependent on a non-trivial interplay between the extrusion pressure, the shape of the cross-section, and the contact area between the layers. Finally, the results highlight which process conditions can be changed with benefit in order to limit the requirement on the yield stress buildup and still provide stable prints.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC/">Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -88,7 +61,6 @@ tags:
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../mark_mech.2022.MPSaRCo3PC/">Measuring Plastic Shrinkage and Related Cracking of 3D Printed Concretes</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
-      <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../moll_comm_serd_seta.2023.CAoYSBaSoDLiMEAM/">Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
       <li><a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../serd_comm_pede_span.2019.NSotMFiMEAM/">Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing</a></li>
@@ -96,8 +68,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a>, <a href="../../../author/qian_hui"><b>Qian</b> Hui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>, <a href="../../../author/fenglin_liu"><b>Fenglin</b> Liu</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF/">Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
@@ -117,6 +89,33 @@ tags:
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/daadouch_koussay"><b>Daadouch</b> Koussay</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../rein_daad_mesc.2024.NSoTDCPBoaUFaSMF/">Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_li_quah_wong.2023.CIotRBt3CPFCaPoFSCM/">Comprehensive Investigations on the Relationship Between the 3D Concrete Printing Failure Criterion and Properties of Fresh-State Cementitious Materials</a></li>
       <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP/">Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../moll_comm_serd_seta.2023.CAoYSBaSoDLiMEAM/">Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moll_comm_serd_seta.2023.CAoYSBaSoDLiMEAM,
+      author            = "Md. Tusher Mollah and Raphaël Comminal and Marcin P. Serdeczny and Berin Šeta and Jon Spangenberg",
+      title             = "Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing",
+      doi               = "10.1016/j.addma.2023.103605",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. T. Mollah, R. Comminal, M. P. Serdeczny, B. Šeta and J. Spangenberg, “Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing”, <i>Additive Manufacturing</i>, 2023, doi: 10.1016/j.addma.2023.103605.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mollah, Md. Tusher, Raphaël Comminal, Marcin P. Serdeczny, Berin Šeta, and Jon Spangenberg. “Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing”. <i>Additive Manufacturing</i>, 2023. https://doi.org/10.1016/j.addma.2023.103605.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

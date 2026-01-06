@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jihye Jhun, Dong-Hyun Lee, Atta Rehman, Seungwoo Kang, Jung-Hoon Kim
+    - footer
+title: Jhun Jihye, Lee Dong-Hyun, Rehman Atta, Kang Seungwoo, Kim Jung-Hoon
 description:
 tags:
  - concrete
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://ieeexplore.ieee.org/ielx7/6287639/6514899/10530624.pdf) Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1109/access.2024.3401472" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/access.2024.3401472</a>
+#Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://ieeexplore.ieee.org/ielx7/6287639/6514899/10530624.pdf) <a href="https://doi.org/10.1109/access.2024.3401472" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/access.2024.3401472" target="_blank">10.1109/access.2024.3401472</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-0488-0478" title="ORCID: 0009-0008-0488-0478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jhun_jihye"><b>Jhun</b>&nbsp;Jihye</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-8943-8987" title="ORCID: 0009-0008-8943-8987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_dong-hyun"><b>Lee</b>&nbsp;Dong-Hyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_atta"><b>Rehman</b>&nbsp;Atta</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-0345-8828" title="ORCID: 0009-0006-0345-8828" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kang_seungwoo"><b>Kang</b>&nbsp;Seungwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
+Journal Article - IEEE Access, pp. 1-1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a> <a href="https://orcid.org/0009-0008-0488-0478" title="ORCID: 0009-0008-0488-0478" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_dong-hyun"><b>Lee</b> Dong-Hyun</a> <a href="https://orcid.org/0009-0008-8943-8987" title="ORCID: 0009-0008-8943-8987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> <a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a> <a href="https://orcid.org/0009-0006-0345-8828" title="ORCID: 0009-0006-0345-8828" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IEEE Access, pp. 1-1
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#extrusion`](keyword/extrusion)
-    [`#filament`](keyword/filament)
-    [`#geometry`](keyword/geometry)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#real`](keyword/real)
-    [`#system`](keyword/system)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Real-Time%20Geometric%20Quality%20Monitoring%20System%20for%20Extruded%20Filaments%20of%203D%20Concrete%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193294898&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,21 +42,16 @@ tags:
 <a href="https://inciteful.xyz/p/W4396941483" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/access.2024.3401472" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/access.2024.3401472?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D concrete printing (3DCP) is an additive manufacturing (AM) technology in the construction field and is gaining significant attention as an emerging construction method for the future. The variability in concrete composite material properties in this field poses a challenge in maintaining consistent printing quality. Furthermore, the economic and environmental costs of discarding large structures in case of printing failures are significantly higher compared to other AM technologies. These inherent characteristics highlight the critical need for real-time, in-situ quality monitoring of printed filaments during the 3DCP process. Existing studies on geometric quality monitoring techniques provide only partial information on the extruded concrete filaments, such as width or height, and some studies are limited to linear paths. Moreover, the requirements of 3DCP, such as cost, weight, installation space, minimum object distance (MOD), field of view (FOV), and maintenance, make it challenging to find suitable commercial 2D laser profile sensors. Therefore, this paper presents the design of a 2D profile sensing system tailored to meet the requirements of 3DCP and proposes an algorithm that can compute comprehensive cross-sectional information, including the width, thickness, and area of the extruded concrete filament during 3D printing. Notably, the proposed sensing system is integrated with an infinitely rotatable nozzle device on the end effector of a 3D printer robot arm, enabling continuous monitoring of extrusion in all directions along the printing path. Comprehensive experimental results from static, motion, and concrete 3D printing tests validate that the developed 2D profile sensing system is capable of performing real-time, in-situ quality monitoring in 3DCP by accurately computing filament cross-sectional shape information. Furthermore, this paper provides a comprehensive solution that includes practical calibration method along with design, offering a crucial technology for detecting defects and failures, ultimately contributing to the high-quality and safe construction of structures in 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
       <li><a href="../../../author/jeon_kwang-hyun"><b>Jeon</b> Kwang-Hyun</a>, <a href="../../../author/park_min-beom"><b>Park</b> Min-Beom</a>, <a href="../../../author/kang_min-kyung"><b>Kang</b> Min-Kyung</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../jeon_park_kang_kim.2013.DoaAFCSaICM/">Development of an Automated Freeform Construction System and Its Construction Materials</a></li>
-      <li><a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a>, <a href="../../../author/lee_dong-hyun"><b>Lee</b> Dong-Hyun</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../jhun_lee_rehm_kang.2024.DoaRTGQMSfEFo3CPC/">Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../kaze_khos.2021.RTEQMTfC3P/">Real-Time Extrusion-Quality-Monitoring-Techniques for Construction 3D Printing</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a></li>
@@ -95,11 +67,11 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
@@ -117,6 +89,34 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_ik-gyeom"><b>Kim</b> Ik-Gyeom</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kim_kim.2024.EtIotPPotSBUitCo3CP/">Exploring the Impact of the Pumping Process on the Structural Build-Up in the Context of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zimmermann_stefan"><b>Zimmermann</b> Stefan</a>, <a href="../../../author/griego_danielle"><b>Griego</b> Danielle</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zimm_grie_flat.2024.VDoC3PSwARBoMLDIA/">Visualizing Defects of Concrete 3D Printed Structures with Augmented Reality Based on Machine Learning-Driven Image-Analysis</a></li>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
-      <li><a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a>, <a href="../../../author/lee_dong-hyun"><b>Lee</b> Dong-Hyun</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../jhun_lee_rehm_kang.2024.DoaRTGQMSfEFo3CPC/">Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jhun_lee_rehm_kang.2024.DoaRTGQMSfEFo3CPC,
+      author            = "Jihye Jhun and Dong-Hyun Lee and Atta Ur Rehman and Seungwoo Kang and Jung-Hoon Kim",
+      title             = "Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction",
+      doi               = "10.1109/access.2024.3401472",
+      year              = "2024",
+      journal           = "IEEE Access",
+      pages             = "1--1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Jhun, D.-H. Lee, A. U. Rehman, S. Kang and J.-H. Kim, “Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction”, <i>IEEE Access</i>, pp. 1–1, 2024, doi: 10.1109/access.2024.3401472.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jhun, Jihye, Dong-Hyun Lee, Atta Ur Rehman, Seungwoo Kang, and Jung-Hoon Kim. “Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction”. <i>IEEE Access</i>, 2024, 1–1. https://doi.org/10.1109/access.2024.3401472.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

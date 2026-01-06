@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ting Guan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ting_tay_quah_tan.2024.SSMfOPi3CPT/">Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology</a></li>
   <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../tay_ting_pand_wong.2022.TNZi3fBC/">Towards Net-Zero in 3DP for Building & Construction</a></li>
   <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../li_zhan_tay_ting.2022.TD3PfBaC/">Three-Dimensional (3D) Printing for Building and Construction</a></li>

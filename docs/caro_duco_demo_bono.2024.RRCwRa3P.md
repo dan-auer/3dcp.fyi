@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jean-François Caron, Nicolas Ducoulombier, Léo Demont, Victor Bono, Romain Mesnil
+    - footer
+title: Caron Jean-François, Ducoulombier Nicolas, Demont Léo, Bono Victor, Mesnil Romain
 description:
 tags:
  - concrete
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Reinvent Reinforced Concrete with Robotics and 3D Printing ([2024-06](date/2024/06))
-<a href="https://doi.org/10.22260/isarc2024/0021" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2024/0021</a>
+#Reinvent Reinforced Concrete with Robotics and 3D Printing ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0021" target="_blank">10.22260/isarc2024/0021</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demont_leo"><b>Demont</b>&nbsp;Léo</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-7596-9395" title="ORCID: 0009-0006-7596-9395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bono_victor"><b>de&nbsp;Bono</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span><br>
+Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> <a href="https://orcid.org/0009-0006-7596-9395" title="ORCID: 0009-0006-7596-9395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinvent%20Reinforced%20Concrete%20with%20Robotics%20and%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199635255&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399043541" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2024/0021" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2024/0021?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete has undergone significant development over the last few decades. Yet unreinforced printed elements generally do not comply with existing building standards or regulations and are therefore not used as load-bearing elements. There is still a gap between research and use, and despite several proposals, standard commercial solutions for the reinforcement of 3D-printed structural elements are still some way off. The proposed concept is inspired by the composites industry and echoing Pier Luigi Nervi’s last century Ferrocement, uses 3D Concrete Printing (3DCP) and a patented technology called FBP for Flow-Based Pultrusion for additive manufacturing. The reinforcement is provided by long, aligned fibers, and produces a transverse isotropic composite mortar. The first experiments demonstrate an increase in tensile strength and ductility, and an industrial prototype, in collaboration with XtreeE company, is currently under development to push away the Reinforced Concrete limits proposing a disruptive way to design and build with concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -87,7 +68,36 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{caro_duco_demo_bono.2024.RRCwRa3P,
+      author            = "Jean-François Caron and Nicolas Ducoulombier and Léo Demont and Victor de Bono and Romain Mesnil",
+      title             = "Reinvent Reinforced Concrete with Robotics and 3D Printing",
+      doi               = "10.22260/isarc2024/0021",
+      year              = "2024",
+      booktitle         = "Proceedings of the 41st International Symposium on Automation and Robotics in Construction",
+      editor            = "Vincente Gonzalez-Moret and Jiansong Zhang and Borja García de Soto and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-F. Caron, N. Ducoulombier, L. Demont, V. de Bono and R. Mesnil, “Reinvent Reinforced Concrete with Robotics and 3D Printing”, in <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>,  2024. doi: 10.22260/isarc2024/0021.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Caron, Jean-François, Nicolas Ducoulombier, Léo Demont, Victor de Bono, and Romain Mesnil. “Reinvent Reinforced Concrete with Robotics and 3D Printing”. In <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>, edited by Vincente Gonzalez-Moret, Jiansong Zhang, Borja García de Soto, and Ioannis Brilakis, 2024. https://doi.org/10.22260/isarc2024/0021.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

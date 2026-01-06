@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zijian Jia, Mengting Zhou, Yu Chen, Wei Wang, Lei Ma, Yuning Chen, Chao Liu, Yamei Zhang
+    - footer
+title: Jia Zijian, Zhou Mengting, Chen Yu, Wang Wei, Ma Lei, Chen Yuning, Liu Chao, Zhang Yamei
 description:
 tags:
  - cement
@@ -21,41 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03080) Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03080" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03080</a>
+#Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03080) <a href="https://doi.org/10.1016/j.cscm.2024.e03080" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03080" target="_blank">10.1016/j.cscm.2024.e03080</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/zhou_mengting"><b>Zhou</b>&nbsp;Mengting</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <a href="../../../author/ma_lei"><b>Ma</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 20, No. e03080
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_mengting"><b>Zhou</b> Mengting</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-,     <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 20, No. e03080
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#content`](keyword/content)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#micro`](keyword/micro)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#shape`](keyword/shape)
-    [`#steel`](keyword/steel)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Steel-Fiber%20Shape%20and%20Content%20on%20Printability%2C%20Microstructure%20and%20Mechanical%20Properties%20of%203D%20Printable%20High-Strength%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188996175&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393183982" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03080" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03080?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the effects of steel fiber shape (straight and hooked-end) and content (0, 0.5, 1.0, and 1.5 vol%) on rheological properties, printability, mechanical performance and microstructure of 3D printable steel fiber reinforced high strength concrete (3DP-SFHSC). The results indicate that the increase of fiber content improves the mechanical behaviors of 3DP-SFHSC, but the extrudability suffers from reduction when the fiber content exceeded 1.0 vol% due to the significant increase in yield stress. The addition of 1.5 vol% hooked-end fibers enhances the compressive strength of 3DP-SFHSC by 8%, 25.7%, and 40.4% in the X, Y, and Z directions, respectively. Additionally, it also improves the tensile strength in the X direction by 37.67%. The printed specimens exhibit weaker mechanical properties compared to the cast specimens. On the one hand, the lower fiber-matrix compactness resulting from the absence of vibration during printing leads to increased porosity and weak bonding between the steel fibers and matrix. On the other hand, the inconsistent movement between fibers and mortar matrix during extrusion process may also cause the formation of gaps around fibers. Straight fibers show pronounced enhancements in buildability, compressive strength and tensile strength compared to hooked-end fibers at the same fiber volume fraction. Straight fibers align easily during the extrusion process, contributing to a matrix with lower porosity and smaller average pore size.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
@@ -101,8 +70,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
@@ -123,4 +92,34 @@ tags:
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/khieu_hoang_hai"><b>Khieu</b> Hai</a>, <a href="../../../author/black_r_jay"><b>Black</b> Jay</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_khie_blac_nguy.2025.TS3PSFRSfCS/">Two-Scale 3D Printed Steel-Fiber-Reinforcements-Strategy for Concrete Structures</a></li>
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jia_zhou_chen_wang.2024.EoSFSaCoPMaMPo3PHSCM,
+      author            = "Zijian Jia and Mengting Zhou and Yu Chen and Wei Wang and Lei Ma and Yuning Chen and Chao Liu and Yamei Zhang",
+      title             = "Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials",
+      doi               = "10.1016/j.cscm.2024.e03080",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "20",
+      pages             = "e03080",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Jia, “Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials”, <i>Case Studies in Construction Materials</i>, vol. 20, p. e03080, 2024, doi: 10.1016/j.cscm.2024.e03080.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jia, Zijian, Mengting Zhou, Yu Chen, Wei Wang, Lei Ma, Yuning Chen, Chao Liu, and Yamei Zhang. “Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials”. <i>Case Studies in Construction Materials</i> 20 (2024): e03080. https://doi.org/10.1016/j.cscm.2024.e03080.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maryam Hojati, Ali Memari, Mehrzad Zahabi, Zhengyu Wu, Zhanzhao Li, Keunhyoung Park, Shadi Nazarian, José Duarte
+    - footer
+title: Hojati Maryam, Memari Ali, Zahabi Mehrzad, Wu Zhengyu, Li Zhanzhao, Park Keunhyoung, Nazarian Shadi, Duarte José
 description:
 tags:
  - concrete
@@ -12,32 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Barbed-Wire Reinforcement for 3D Concrete Printing ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.autcon.2022.104438" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104438</a>
+#Barbed-Wire Reinforcement for 3D Concrete Printing ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104438" target="_blank">10.1016/j.autcon.2022.104438</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b>&nbsp;Mehrzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6321-3420" title="ORCID: 0000-0002-6321-3420" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_zhengyu"><b>Wu</b>&nbsp;Zhengyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7674-7424" title="ORCID: 0000-0001-7674-7424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhanzhao"><b>Li</b>&nbsp;Zhanzhao</a></span>, <a href="../../../author/park_keunhyoung"><b>Park</b>&nbsp;Keunhyoung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Automation in Construction, Vol. 141
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b> Mehrzad</a>
-,     <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> <a href="https://orcid.org/0000-0002-6321-3420" title="ORCID: 0000-0002-6321-3420" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a> <a href="https://orcid.org/0000-0001-7674-7424" title="ORCID: 0000-0001-7674-7424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 141, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#wire`](keyword/wire)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Barbed-Wire%20Reinforcement%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132743489&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283261371" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104438" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104438?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printing has been growing in acceptance in the construction industry owing to its transformative potential in concrete materials. One of the main challenges for its further adoption is the integration of reinforcement given the difficulty of incorporating steel rebars and the formation of cold joints between filaments. This study proposes the use of barbed wires, fencing wires with sharp thorn-like projections, as a reinforcing component to improve tensile capacity and bond between printed filaments. Results indicated that incorporating barbed wire into 3D-printed concrete increases overall mechanical performance (e.g., moment capacity and bond strengths up to 363% and 71%, respectively, compared to plain 3D-printed concrete). This improvement can be attributed to the twisting of wires and the unique geometry of the 4-point barbs. The proposed barb-wire reinforcement method demonstrates the feasibility of in-process reinforcing during 3D-printing and can be further advanced to achieve full automation of the printing and reinforcement processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -102,8 +80,9 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "47 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
@@ -150,7 +129,34 @@ tags:
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
-      <li><a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../meis_wats_bile_duar.2022.DaSCfCSCAMiREvRAD/">Design and System Considerations for Construction-Scale Concrete Additive Manufacturing in Remote Environments via Robotic-Arm-Deposition</a></li>
-      <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../hoja_li_mema_park.2022.3PQCMTSD/">3D Printable Quaternary-Cementitious-Materials Towards Sustainable Development:<br/>Mixture Design and Mechanical Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hoja_mema_zaha_wu.2022.BWRf3CP,
+      author            = "Maryam Hojati and Ali M. Memari and Mehrzad Zahabi and Zhengyu Wu and Zhanzhao Li and Keunhyoung Park and Shadi Nazarian and José Pinto Duarte",
+      title             = "Barbed-Wire Reinforcement for 3D Concrete Printing",
+      doi               = "10.1016/j.autcon.2022.104438",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "141",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Hojati, “Barbed-Wire Reinforcement for 3D Concrete Printing”, <i>Automation in Construction</i>, vol. 141, 2022, doi: 10.1016/j.autcon.2022.104438.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hojati, Maryam, Ali M. Memari, Mehrzad Zahabi, Zhengyu Wu, Zhanzhao Li, Keunhyoung Park, Shadi Nazarian, and José Pinto Duarte. “Barbed-Wire Reinforcement for 3D Concrete Printing”. <i>Automation in Construction</i> 141 (2022). https://doi.org/10.1016/j.autcon.2022.104438.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

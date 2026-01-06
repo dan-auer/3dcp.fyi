@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mana Alyami, Majid Khan, Muhammad Javed, Mujahid Ali, Hisham Alabduljabbar, Taoufik Najeh, Yaser Gamil
+    - footer
+title: Alyami Mana, Khan Majid, Javed Muhammad, Ali Mujahid, Alabduljabbar Hisham, Najeh Taoufik, Gamil Yaser
 description:
 tags:
  - algorithm
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2023.100307) Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.dibe.2023.100307" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2023.100307</a>
+#Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100307) <a href="https://doi.org/10.1016/j.dibe.2023.100307" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100307" target="_blank">10.1016/j.dibe.2023.100307</a>
 
--------------------------
+<a href="../../../author/alyami_mana"><b>Alyami</b>&nbsp;Mana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6629-4257" title="ORCID: 0000-0001-6629-4257" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_majid"><b>Khan</b>&nbsp;Majid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5478-9324" title="ORCID: 0000-0001-5478-9324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/javed_faisal_muhammad"><b>Javed</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4376-0459" title="ORCID: 0000-0003-4376-0459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_mujahid"><b>Ali</b>&nbsp;Mujahid</a></span>, <a href="../../../author/alabduljabbar_hisham"><b>Alabduljabbar</b>&nbsp;Hisham</a></span>, <a href="../../../author/najeh_taoufik"><b>Najeh</b>&nbsp;Taoufik</a></span>, <a href="../../../author/gamil_yaser"><b>Gamil</b>&nbsp;Yaser</a></span><br>
+Journal Article - Developments in the Built Environment, Vol. 17, No. 100307
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>
-,     <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="https://orcid.org/0000-0001-6629-4257" title="ORCID: 0000-0001-6629-4257" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/javed_faisal_muhammad"><b>Javed</b> Muhammad</a> <a href="https://orcid.org/0000-0001-5478-9324" title="ORCID: 0000-0001-5478-9324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ali_mujahid"><b>Ali</b> Mujahid</a> <a href="https://orcid.org/0000-0003-4376-0459" title="ORCID: 0000-0003-4376-0459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alabduljabbar_hisham"><b>Alabduljabbar</b> Hisham</a>
-,     <a href="../../../author/najeh_taoufik"><b>Najeh</b> Taoufik</a>
-,     <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, Vol. 17, No. 100307
-
-:aca-blank:{ .lg .middle}
-    [`#algorithm`](keyword/algorithm)
-    [`#application`](keyword/application)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#optimization`](keyword/optimization)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Application%20of%20Metaheuristic%20Optimization%20Algorithms%20in%20Predicting%20the%20Compressive%20Strength%20of%203D%20Printed%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180983178&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390108621" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2023.100307" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2023.100307?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, the construction industry has been striving to make production faster and handle more complex architectural designs. Waste reduction, geometric freedom, lower construction costs, and speedy construction make the 3D-printed fiber-reinforced concrete (3DPFRC) alternative for future construction. However, achieving the optimum mixture composition for 3DPFRC remains a daunting task, entailing the consideration of multiple variables and necessitating an extensive trial-and-error experimental process. Therefore, this study investigated the application of different metaheuristic optimization algorithms to predict the compressive strength (CS) of 3DPFRC. A database of 299 data samples with 16 different input features was compiled from the experimental studies in the literature. Six metaheuristic algorithms, such as human felicity algorithm (HFA), differential evolution algorithm (DEA), nuclear reaction optimization (NRO), Harris hawks optimization (HHO), lightning search algorithm (LSA), and tunicate swarm algorithm (TSA) were applied to identify the optimal hyperparameter combination for the random forest (RF) model in predicting the CS of 3DPFRC. Different statistical metrics and 10-fold cross-validation were used to evaluate the accuracy of the models. The TSA-RF model exhibited superior performance compared to other models, achieving correlation (R), mean absolute error (MAE), and root mean square error (RMSE) values of 0.99, 2.10 MPa, and 3.59 MPa, respectively. The LSA-RF model also performed well, with R, MAE, and RMSE values of 0.99, 2.93 MPa, and 6.23 MPa, respectively. SHapley Additive exPlanation (SHAP) interpretability elucidates the intricate relationships between features and their effects on the CS, thereby offering invaluable insights for the performance-based mix proportion design of 3DPFRC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "62 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -137,12 +110,42 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
       <li><a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../syed_abid_khan.2025.AIMLAfPRBPi3CP/">An Interpretable Machine Learning Approach for Predicting Reinforcement Bond Performance in 3D Concrete Printing</a></li>
       <li><a href="../../../author/alizamir_meysam"><b>Alizamir</b> Meysam</a>, <a href="../../../author/kim_sungwon"><b>Kim</b> Sungwon</a>, <a href="../../../author/ikram_muhammad-adnan_rana"><b>Ikram</b> Rana</a>, <a href="../../../author/ahmed_othman_kaywan"><b>Ahmed</b> Kaywan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../aliz_kim_ikra_ahme.2025.ARHELMMFfESPo3PFRC/">A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alya_khan_jave_ali.2024.AoMOAiPtCSo3PFRC,
+      author            = "Mana Alyami and Majid Khan and Muhammad Faisal Javed and Mujahid Ali and Hisham Alabduljabbar and Taoufik Najeh and Yaser Gamil",
+      title             = "Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.dibe.2023.100307",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      volume            = "17",
+      pages             = "100307",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Alyami, “Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete”, <i>Developments in the Built Environment</i>, vol. 17, p. 100307, 2024, doi: 10.1016/j.dibe.2023.100307.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alyami, Mana, Majid Khan, Muhammad Faisal Javed, Mujahid Ali, Hisham Alabduljabbar, Taoufik Najeh, and Yaser Gamil. “Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete”. <i>Developments in the Built Environment</i> 17 (2024): 100307. https://doi.org/10.1016/j.dibe.2023.100307.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

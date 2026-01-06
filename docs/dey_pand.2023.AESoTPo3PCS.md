@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dhrutiman Dey, Biranchi Panda
+    - footer
+title: Dey Dhrutiman, Panda Biranchi
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.matlet.2022.133273" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matlet.2022.133273</a>
+#An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2022.133273" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2022.133273" target="_blank">10.1016/j.matlet.2022.133273</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dey_dhrutiman"><b>Dey</b>&nbsp;Dhrutiman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span><br>
+Journal Article - Materials Letters, Vol. 330
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> <a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Letters, Vol. 330, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#slab`](keyword/slab)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Experimental%20Study%20of%20Thermal%20Performance%20of%203D%20Printed%20Concrete%20Slabs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139181264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4300818490" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matlet.2022.133273" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matlet.2022.133273?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work presents the most important advances in 3D printing, specifically the thermal performance of 3D printed concrete slabs with potential use as walls elements. One of the principal factors restricting widespread adoption of 3D printed concrete is the lack of thermal insulation, which needs an immediate attention. It is with this backdrop that this paper conducts a preliminary investigation on the thermal performance of 3D printed slabs containing two different cavity patterns with and without insulation material. The 3D printed solid slab has shown slight reduction in inside surface temperature (1℃) than casted slab owing to the cold joints between the printed layers. Compared to solid printed slab, 3D printed hollow slab with two and three identical cavities have shown 6℃ and 4 ◦C higher inside surface temperature respectively. However, with added insulation, the inside temperature of printed hollow slabs was found to be similar to the solid slab due to increased insulation capacity. The delayed heat transfer resulted in higher outside surface temperature for the 3D printed hollow insulated slabs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/marais_hannelie"><b>Marais</b> Hannelie</a>, <a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../mara_chri_cho_vill.2021.CAoTPo3PCWSwC/">Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
@@ -69,8 +51,8 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
@@ -94,4 +76,33 @@ tags:
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bodd_gand_pand.2023.SoTDPFCaFoSC/">Stability of Three-Dimensional Printable Foam-Concrete as Function of Surfactant Characteristics</a></li>
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../srin_dey_pand_sith.2022.PTaCSPoCM/">Printability, Thermal and Compressive Strength Properties of Cementitious Materials:<br/>A Comparative Study with Silica-Fume and Limestone</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dey_pand.2023.AESoTPo3PCS,
+      author            = "Dhrutiman Dey and Biranchi Narayan Panda",
+      title             = "An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs",
+      doi               = "10.1016/j.matlet.2022.133273",
+      year              = "2023",
+      journal           = "Materials Letters",
+      volume            = "330",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Dey  and B. N. Panda, “An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs”, <i>Materials Letters</i>, vol. 330, 2023, doi: 10.1016/j.matlet.2022.133273.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dey, Dhrutiman, and Biranchi Narayan Panda. “An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs”. <i>Materials Letters</i> 330 (2023). https://doi.org/10.1016/j.matlet.2022.133273.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

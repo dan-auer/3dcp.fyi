@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anatole Geffrault, Hela Bessaies-Bey, Nicolas Roussel, Philippe Coussot
+    - footer
+title: Geffrault Anatole, Bessaies-Bey Hela, Roussel Nicolas, Coussot Philippe
 description:
 tags:
  - fluid
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2023.103752) Printing by Yield-Stress Fluid-Shaping ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.addma.2023.103752" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103752</a>
+#Printing by Yield-Stress Fluid-Shaping ([2023-08](date/2023/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2023.103752) <a href="https://doi.org/10.1016/j.addma.2023.103752" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103752" target="_blank">10.1016/j.addma.2023.103752</a>
 
--------------------------
+<a href="../../../author/geffrault_anatole"><b>Geffrault</b>&nbsp;Anatole</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b>&nbsp;Hela</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3980-0825" title="ORCID: 0000-0003-3980-0825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/coussot_philippe"><b>Coussot</b>&nbsp;Philippe</a></span><br>
+Journal Article - Additive Manufacturing, No. 103752
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geffrault_anatole"><b>Geffrault</b> Anatole</a>
-,     <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a> <a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/coussot_philippe"><b>Coussot</b> Philippe</a> <a href="https://orcid.org/0000-0003-3980-0825" title="ORCID: 0000-0003-3980-0825" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 103752
-
-:aca-blank:{ .lg .middle}
-    [`#fluid`](keyword/fluid)
-    [`#print`](keyword/print)
-    [`#shape`](keyword/shape)
-    [`#stress`](keyword/stress)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printing%20by%20Yield-Stress%20Fluid-Shaping" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169502063&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386171981" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103752" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103752?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of yield stress fluids (i.e., materials able to flow like liquids only beyond a critical stress) is opening new doors in the fields of construction, food or medicine. The usual printing technique consists to extrude and then deposit a filament of yield stress fluid onto the previous layer. One major difficulty is that, during the deposition process, some instabilities may appear and have a catastrophic impact on the final 3D structure. Here we show that these instabilities can be predicted as a function of the material properties and/or the printing parameters. More generally, we study the deposit of a filament from systematic tests with a model yield stress fluid, varying the material yield stress value, the distance between the nozzle and the substrate, the extrusion velocity, the nozzle diameter, and the nozzle displacement velocity. We show that a diversity of patterns arises: drops, discontinuous lines, straight lines, meanders, alternated loops or translated loops. Then, we demonstrate that the transitions (frontier curves) between pattern regions can be predicted by theoretical arguments. Finally, we present a generic diagram predicting the patterns observed as a function of dimensionless numbers depending on the various characteristics of the system. This provides a reference scheme for optimizing practical processes or devising specific deposit patterns, valid for a wide range of conditions and yield stress fluids.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
@@ -76,12 +57,41 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/meni_simone"><b>Meni</b> Simone</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rizz_meni_crem_ferr.2025.APFEMfItIoMaPPi3CP/">A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq.2025.3CPbEaFD/">3D Concrete Printing by Extrusion and Filament-Deposition</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lori_mehr.2025.FGCoPGUEaDDA/">Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wolf.2024.TSQo3CP/">The Status Quo of 3D Concrete Printing:<br/>Are We There Yet?</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geff_bess_rous_cous.2023.PbYSFS,
+      author            = "Anatole Geffrault and Hela Bessaies-Bey and Nicolas Roussel and Philippe Coussot",
+      title             = "Printing by Yield-Stress Fluid-Shaping",
+      doi               = "10.1016/j.addma.2023.103752",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+      pages             = "103752",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Geffrault, H. Bessaies-Bey, N. Roussel and P. Coussot, “Printing by Yield-Stress Fluid-Shaping”, <i>Additive Manufacturing</i>, p. 103752, 2023, doi: 10.1016/j.addma.2023.103752.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geffrault, Anatole, Hela Bessaies-Bey, Nicolas Roussel, and Philippe Coussot. “Printing by Yield-Stress Fluid-Shaping”. <i>Additive Manufacturing</i>, 2023, 103752. https://doi.org/10.1016/j.addma.2023.103752.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

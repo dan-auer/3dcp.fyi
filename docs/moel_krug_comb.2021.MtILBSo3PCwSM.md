@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gerrit Moelich, Jacques Kruger, Riaan Combrinck
+    - footer
+title: Moelich Gerrit, Kruger Jacques, Combrinck Riaan
 description:
 tags:
  - bond
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture ([2021-09](date/2021/09))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106559" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106559</a>
+#Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture ([2021-09](date/2021/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2021.106559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106559" target="_blank">10.1016/j.cemconres.2021.106559</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8438-1968" title="ORCID: 0000-0002-8438-1968" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moelich_marius_gerrit"><b>Moelich</b>&nbsp;Gerrit</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/combrinck_riaan"><b>Combrinck</b>&nbsp;Riaan</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 150
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a> <a href="https://orcid.org/0000-0002-8438-1968" title="ORCID: 0000-0002-8438-1968" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 150, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#model`](keyword/model)
-    [`#moist`](keyword/moist)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/moist"><button class="btn">#moist</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modelling%20the%20Inter-Layer%20Bond%20Strength%20of%203D%20Printed%20Concrete%20with%20Surface%20Moisture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85114126903&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3198823078" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106559" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106559?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Providing additional water to the hydrating cementitious particles is essential to achieve the optimal mechanical performance of the low w/b concrete mixes preferred for 3D printing. This study incorporates superabsorbent polymers (SAP) and additional water in 3D printed concrete (3DPC) to promote the hydration process through delayed internal water release. The study shows that a retentive SAP modifies the rheological development by absorbing the pore fluid for a short period after printing. The absorption-induced stiffening increases the thixotropy and buildability by 49% and 25%, respectively. A retentive SAP increases the flexural strength and interlayer adhesion by 19% and 10%, respectively. This is due to the internal water release that promotes hydration. Evaporation of the interlayer moisture during the pass time has the opposite effect— evaporation reduces the interlayer adhesion. Based on this assumption, an analytical model is proposed. The model accounts for the pass time, bleeding, and the environmental evaporation rate to estimate the surface moisture and predict the lack of interlayer adhesion. In this study, the model accurately (RMSE = 2.5%) predicted an interlayer adhesion reduction from 30% to 50%. The interlayer adhesion results of other studies could also be predicted.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../heev_best_krug_zijl.2019.EoSCNPo3PoCBM/">Effect of Silicon-Carbide-Nano-Particles on 3D Printability of Cement-Based Materials</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
@@ -94,8 +72,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "117 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
@@ -214,4 +192,33 @@ tags:
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../pan_jian_ji.2022.ILBIo3PCMwFRPSaHDPS/">Inter-Layer Bonding Investigation of 3D Printing Cementitious Materials with Fluidity-Retaining Polycarboxylate-Superplasticizer and High-Dispersion Polycarboxylate Superplasticizer</a></li>
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moel_krug_comb.2021.MtILBSo3PCwSM,
+      author            = "Gerrit Marius Moelich and Jacques Pienaar Kruger and Riaan Combrinck",
+      title             = "Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture",
+      doi               = "10.1016/j.cemconres.2021.106559",
+      year              = "2021",
+      journal           = "Cement and Concrete Research",
+      volume            = "150",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. M. Moelich, J. P. Kruger and R. Combrinck, “Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture”, <i>Cement and Concrete Research</i>, vol. 150, 2021, doi: 10.1016/j.cemconres.2021.106559.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moelich, Gerrit Marius, Jacques Pienaar Kruger, and Riaan Combrinck. “Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture”. <i>Cement and Concrete Research</i> 150 (2021). https://doi.org/10.1016/j.cemconres.2021.106559.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

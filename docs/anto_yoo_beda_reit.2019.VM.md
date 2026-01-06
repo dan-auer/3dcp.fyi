@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ana-Maria Anton, Angela Yoo, Patrick Bedarf, Lex Reiter, Timothy Wangler, Benjamin Dillenburger
+    - footer
+title: Anton Ana-Maria, Yoo Angela, Bedarf Patrick, Reiter Lex, Wangler Timothy, Dillenburger Benjamin
 description:
 tags:
  - modular
@@ -10,28 +11,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/acadia19_596.pdf) Vertical Modulations ([2019-10](date/2019/10))
-<a href="https://doi.org/10.52842/conf.acadia.2019.596" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.acadia.2019.596</a>
+#Vertical Modulations ([2019-10](date/2019/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia19_596.pdf) <a href="https://doi.org/10.52842/conf.acadia.2019.596" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2019.596" target="_blank">10.52842/conf.acadia.2019.596</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-8864-9751" title="ORCID: 0009-0003-8864-9751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoo_angela"><b>Yoo</b>&nbsp;Angela</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bedarf_patrick"><b>Bedarf</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Contribution - Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 596-605
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a> <a href="https://orcid.org/0009-0003-8864-9751" title="ORCID: 0009-0003-8864-9751" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a> <a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 596-605
-
-:aca-blank:{ .lg .middle}
-    [`#modular`](keyword/modular)
-    [`#vertical`](keyword/vertical)
-
-
--------------------------
+<a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/vertical"><button class="btn">#vertical</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Vertical%20Modulations" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +32,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4288673969" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.acadia.2019.596" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.acadia.2019.596?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The context of digital fabrication allows architects to reinvestigate material, process and the design decisions they entail to explore novel expression in architecture. This demands a new approach to design thinking, as well as the relevant tools to couple the form of artefacts with the process in which they are made. This paper presents a customised computational design tool developed for exploring the novel design space of Concrete Extrusion 3D Printing (CE3DP), enabling a reinterpretation of the concrete column building typology. This tool allows the designer to access generative engines such as trigonometric functions and mesh subdivision through an intuitive graphical user interface. Balancing process efficiency as understood by our industry with a strong design focus, we aim to articulate the unique architectural qualities inherent to CE3DP, energising much needed innovation in concrete technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/ladinig_johannes"><b>Ladinig</b> Johannes</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bhoo_ladi_mele_bloc.2019.FRfR3PC/">Function Representation for Robotic 3D Printed Concrete</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../flat_wang.2018.EfSIoDC/">Editorial for Special Issue on Digital Concrete</a></li>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../gaud_duba_bouy_mall.2019.LSAMoUHPCoIFfTSP/">Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars</a></li>
@@ -67,8 +49,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>
       <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/bayramvand_alireza"><b>Bayramvand</b> Alireza</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../lin_bayr_meib.2025.TLS/">Towards Lightweight Structure:<br/>Coupling Topology Optimization with Non-Planar 3D Concrete Printing</a></li>
       <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_meib.2024.ISP/">Integrated Sensing Printhead:<br/>In-line Data Collection for Non-Planar 3D Concrete Printing</a></li>
@@ -90,4 +72,34 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{anto_yoo_beda_reit.2019.VM,
+      author            = "Ana-Maria Anton and Angela Yoo and Patrick Bedarf and Lex Reiter and Timothy Paul Wangler and Benjamin Dillenburger",
+      title             = "Vertical Modulations",
+      doi               = "10.52842/conf.acadia.2019.596",
+      year              = "2019",
+      pages             = "596--605",
+      booktitle         = "Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture: Ubiquity and Autonomy",
+      editor            = "Kory Bieg and Danelle Briscoe and Clay Odom",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A.-M. Anton, A. Yoo, P. Bedarf, L. Reiter, T. P. Wangler and B. Dillenburger, “Vertical Modulations”, in <i>Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture: Ubiquity and Autonomy</i>,  2019, pp. 596–605. doi: 10.52842/conf.acadia.2019.596.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Anton, Ana-Maria, Angela Yoo, Patrick Bedarf, Lex Reiter, Timothy Paul Wangler, and Benjamin Dillenburger. “Vertical Modulations”. In <i>Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture: Ubiquity and Autonomy</i>, edited by Kory Bieg, Danelle Briscoe, and Clay Odom, 596–605, 2019. https://doi.org/10.52842/conf.acadia.2019.596.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

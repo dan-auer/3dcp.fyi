@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnesh Das, Cedric Wenger, Lukas Walpen, Robert Flatt
+    - footer
+title: Das Arnesh, Wenger Cedric, Walpen Lukas, Flatt Robert
 description:
 tags:
  - accelerator
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2025.105991) Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.105991" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.105991</a>
+#Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2025.105991) <a href="https://doi.org/10.1016/j.cemconcomp.2025.105991" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.105991" target="_blank">10.1016/j.cemconcomp.2025.105991</a>
 
--------------------------
+<a href="../../../author/das_arnesh"><b>Das</b>&nbsp;Arnesh</a></span>, <a href="../../../author/wenger_cedric"><b>Wenger</b>&nbsp;Cedric</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-5235-2913" title="ORCID: 0009-0003-5235-2913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walpen_lukas"><b>Walpen</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105991
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>
-,     <a href="../../../author/wenger_cedric"><b>Wenger</b> Cedric</a>
-,     <a href="../../../author/walpen_lukas"><b>Walpen</b> Lukas</a> <a href="https://orcid.org/0009-0003-5235-2913" title="ORCID: 0009-0003-5235-2913" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105991
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#age`](keyword/age)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#digital`](keyword/digital)
-    [`#early`](keyword/early)
-    [`#fabrication`](keyword/fabrication)
-    [`#hydration`](keyword/hydration)
-    [`#low`](keyword/low)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Hydration%20of%20Accelerated%20Low-Carbon%20Cements%20for%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218076378&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407598404" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.105991" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.105991?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication processes with concrete offer several advantages compared to conventional processes, however, a major criticism with related concrete mixes has been with regard to their high cement paste content and consequent carbon footprint. One of the ways to address this is to reduce ordinary Portland cement (OPC) content in such mixes by using supplementary cementitious materials. This paper reports on such an approach for two different digital fabrication methods: digital casting system and 3D concrete printing. Results focus on the combined use of such low carbon blends with a calcium aluminate cement (CAC) based accelerator. Two such accelerators were studied: one being mainly crystalline based and the other mainly amorphous. Their performance is assessed at different temperatures. It is concluded that crystalline CAC is more suitable for applications above 200C while at temperature below 200C, amorphous CAC should be preferred. This paper also delves deeper into the effect of amorphous CAC on the hydration of tricalcium silicate present in OPC. It shows that the effect of amorphous CAC on that silicate depends on the OPC content of the system as well as on the type and amount of calcium sulfate used in the accelerator formulation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -96,8 +73,37 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b> Matineh</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wang_tao_das_mahm.2024.A2SiDC/">Aluminate 2K Systems in Digital Concrete:<br/>Process, Design, Chemistry, and Outlook</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{das_weng_walp_flat.2025.EAHoALCCfDF,
+      author            = "Arnesh Das and Cedric Wenger and Lukas Walpen and Robert Johann Flatt",
+      title             = "Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication",
+      doi               = "10.1016/j.cemconcomp.2025.105991",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105991",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Das, C. Wenger, L. Walpen and R. J. Flatt, “Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication”, <i>Cement and Concrete Composites</i>, p. 105991, 2025, doi: 10.1016/j.cemconcomp.2025.105991.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Das, Arnesh, Cedric Wenger, Lukas Walpen, and Robert Johann Flatt. “Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication”. <i>Cement and Concrete Composites</i>, 2025, 105991. https://doi.org/10.1016/j.cemconcomp.2025.105991.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Attupurathu Rahul, Karel Lesage, Yong Yuan, Kim Tittelboom, Geert Schutter
+    - footer
+title: Tao Yaxin, Rahul Attupurathu, Lesage Karel, Yuan Yong, Tittelboom Kim, Schutter Geert
 description:
 tags:
  - accelerator
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>:aca-blank: Possibilities and Challenges ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.103972" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.103972</a>
+#Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes&nbsp;([2021-02](date/2021/02))
+<div class="h1-like">Possibilities and Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.103972" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.103972" target="_blank">10.1016/j.cemconcomp.2021.103972</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesage_karel"><b>Lesage</b>&nbsp;Karel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 119
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 119, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#challenge`](keyword/challenge)
-    [`#control`](keyword/control)
-    [`#line`](keyword/line)
-    [`#material`](keyword/material)
-    [`#mixing`](keyword/mixing)
-    [`#process`](keyword/process)
-    [`#stiffness`](keyword/stiffness)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Stiffening%20Control%20of%20Cement-Based%20Materials%20Using%20Accelerators%20in%20In-Line%20Mixing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101853201&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3132824665" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.103972" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.103972?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In many applications such as grouting, shotcrete, and 3D concrete printing, conflicting material requirements exist between the transportation and fabrication process, as fresh materials should be pumped easily with a low stiffening rate and a high fluidity while a rapid strength gain must occur after placement. In such applications, it is therefore imperative to achieve a stiffening control of the concrete. In this paper, we discuss how the inline mixing process of an accelerator post-pumping can be used to achieve this stiffening control. We begin with a review of the mechanisms of various commonly used accelerators. This is followed by a detailed discussion on the inline mixing process of accelerators. Finally, we also point out the problems and challenges of using accelerators in these applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/esnault_vivien"><b>Esnault</b> Vivien</a>, <a href="../../../author/labyad_a"><b>Labyad</b> A.</a>, <a href="../../../author/chantin_marjorie"><b>Chantin</b> Marjorie</a>, <a href="../../../author/toussaint_fabrice"><b>Toussaint</b> Fabrice</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../esna_laby_chan_tous.2019.EiOLMoRaSAo3PM/">Experience in On-Line Modification of Rheology and Strength Acquisition of 3D Printable Mortars</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -104,7 +79,6 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schu_lesa.2018.ACoPoC/">Active Control of Properties of Concrete:<br/>A (P)Review</a></li>
@@ -117,8 +91,8 @@ tags:
       <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../yuan_tao.2018.MaEoPC/">Mixing and Extrusion of Printing Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "76 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ke_zhijiang"><b>Ke</b> Zhijiang</a>, <a href="../../../author/li_zichang"><b>Li</b> Zichang</a>, <a href="../../../author/chen_zhengfei"><b>Chen</b> Zhengfei</a>, <a href="../../../author/xu_yao"><b>Xu</b> Yao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ke_li_chen_xu.2026.TAaCoRAB3PfHTL/">Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
@@ -146,7 +120,7 @@ tags:
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/sun_haijun"><b>Sun</b> Haijun</a>, <a href="../../../author/zhou_jiangang"><b>Zhou</b> Jiangang</a>, <a href="../../../author/wang_sheng"><b>Wang</b> Sheng</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../cui_sun_zhou_wang.2024.GQEoTDPCUCFD/">Geometric Quality Evaluation of Three-Dimensional Printable Concrete Using Computational Fluid Dynamics</a></li>
       <li><a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kana_rama_sanj.2024.EoSStAoDBEiC3P/">Encapsulation of Sodium-Silicate to Attain on Demand Buildability Enhancement in Concrete 3D Printing</a></li>
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
       <li><a href="../../../author/jiang_wei"><b>Jiang</b> Wei</a>, <a href="../../../author/li_wenqian"><b>Li</b> Wenqian</a>, <a href="../../../author/chen_xi"><b>Chen</b> Xi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../jian_li_chen.2024.AENMotFEPfTDPCBM/">An Extended Numerical Model of the First Exothermic Peak for Three Dimensional Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
       <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shen_zhu_cai_li.2024.DoaNEDtItPo3PGC/">Development of a Novel Extrusion-Device to Improve the Printability of 3D Printable Geopolymer Concrete</a></li>
@@ -196,4 +170,33 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP,
+      author            = "Yaxin Tao and Attupurathu Vijayan Rahul and Karel Lesage and Yong Yuan and Kim van Tittelboom and Geert de Schutter",
+      title             = "Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes: Possibilities and Challenges",
+      doi               = "10.1016/j.cemconcomp.2021.103972",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "119",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, A. V. Rahul, K. Lesage, Y. Yuan, K. van Tittelboom and G. de Schutter, “Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes: Possibilities and Challenges”, <i>Cement and Concrete Composites</i>, vol. 119, 2021, doi: 10.1016/j.cemconcomp.2021.103972.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Attupurathu Vijayan Rahul, Karel Lesage, Yong Yuan, Kim van Tittelboom, and Geert de Schutter. “Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes: Possibilities and Challenges”. <i>Cement and Concrete Composites</i> 119 (2021). https://doi.org/10.1016/j.cemconcomp.2021.103972.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rijiao Yang, Chengji Xu, Xiufei You, Xinze Li, Hao Xue, Yu Peng, Qiang Zeng, Zhendi Wang
+    - footer
+title: Yang Rijiao, Xu Chengji, You Xiufei, Li Xinze, Xue Hao, Peng Yu, Zeng Qiang, Wang Zhendi
 description:
 tags:
  - concrete
@@ -13,33 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106336" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106336</a>
+#Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106336" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106336" target="_blank">10.1016/j.cemconcomp.2025.106336</a>
 
--------------------------
+<a href="../../../author/yang_rijiao"><b>Yang</b>&nbsp;Rijiao</a></span>, <a href="../../../author/xu_chengji"><b>Xu</b>&nbsp;Chengji</a></span>, <a href="../../../author/you_xiufei"><b>You</b>&nbsp;Xiufei</a></span>, <a href="../../../author/li_xinze"><b>Li</b>&nbsp;Xinze</a></span>, <a href="../../../author/xue_hao"><b>Xue</b>&nbsp;Hao</a></span>, <a href="../../../author/peng_yu"><b>Peng</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_qiang"><b>Zeng</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhendi"><b>Wang</b>&nbsp;Zhendi</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106336
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>
-,     <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>
-,     <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>
-,     <a href="../../../author/li_xinze"><b>Li</b> Xinze</a>
-,     <a href="../../../author/xue_hao"><b>Xue</b> Hao</a>
-,     <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>
-,     <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> <a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> <a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106336
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#enabler`](keyword/enabler)
-    [`#interface`](keyword/interface)
-    [`#print`](keyword/print)
-    [`#toughness`](keyword/toughness)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/toughness"><button class="btn">#toughness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Saddle%20Stitching-Enabled%20Interfacial%20Toughening%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016465318&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414285321" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106336" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106336?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Reinforcement implantation in concrete 3D printing is always a challenging task. Herein, a saddle stitching reinforcement (SSR) was developed to reinforce 3D printed concrete (3DPC). Compression and splitting tests were conducted to evaluate the mechanical properties of SSR-3DPC with anisotropy assessment; digital image correlation (DIC) analysis was integrated to track the failure process and mode; and X-ray computed tomography (XCT) was employed to characterize the interfacial microstructure of stitched 3DPC specimens and quantitatively analyze defects. Results demonstrate that the proposed saddle stitching technique effectively mitigates the splitting strength anisotropy, and enhances the slipping strength, ductility, and absorption energy through the combined action of stitch legs and crotch reinforcement. However, a weaker interface between stitches and concrete matrix occurs due to the inadequate self-recovery of 3DPC slurries after implantation. These findings deepen the understanding of reinforcement implantation in viscous concrete slurries, and provide valuable insights for optimizing reinforcement strategies in concrete 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "58 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
@@ -124,7 +101,36 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_xu_you_li.2025.SSEITi3PC,
+      author            = "Rijiao Yang and Chengji Xu and Xiufei You and Xinze Li and Hao Xue and Yu Peng and Qiang Zeng and Zhendi Wang",
+      title             = "Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete",
+      doi               = "10.1016/j.cemconcomp.2025.106336",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106336",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Yang, “Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete”, <i>Cement and Concrete Composites</i>, p. 106336, 2025, doi: 10.1016/j.cemconcomp.2025.106336.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Rijiao, Chengji Xu, Xiufei You, Xinze Li, Hao Xue, Yu Peng, Qiang Zeng, and Zhendi Wang. “Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete”. <i>Cement and Concrete Composites</i>, 2025, 106336. https://doi.org/10.1016/j.cemconcomp.2025.106336.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

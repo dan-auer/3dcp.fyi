@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Isaac Perkins, Martin Skitmore
+    - footer
+title: Perkins Isaac, Skitmore Martin
 description:
 tags:
  - construction
@@ -14,28 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Three-Dimensional Printing in the Construction Industry:<br/>:aca-blank: A Review ([2015-03](date/2015/03))
-<a href="https://doi.org/10.1080/15623599.2015.1012136" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/15623599.2015.1012136</a>
+#Three-Dimensional Printing in the Construction Industry&nbsp;([2015-03](date/2015/03))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15623599.2015.1012136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2015.1012136" target="_blank">10.1080/15623599.2015.1012136</a>
 
--------------------------
+<a href="../../../author/perkins_isaac"><b>Perkins</b>&nbsp;Isaac</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7135-1201" title="ORCID: 0000-0001-7135-1201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skitmore_martin"><b>Skitmore</b>&nbsp;Martin</a></span><br>
+Journal Article - International Journal of Construction Management, Vol. 15, Iss. 1, pp. 1-9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>
-,     <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="https://orcid.org/0000-0001-7135-1201" title="ORCID: 0000-0001-7135-1201" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Construction Management, Vol. 15, Iss. 1, pp. 1-9
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#dimension`](keyword/dimension)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84961323123&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2065406009" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/15623599.2015.1012136" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/15623599.2015.1012136?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing has long been used in the manufacturing sector as a way to automate, accelerate production and reduce waste materials. By using this technology, it is possible to build a wide variety of objects if the necessary specifications are provided to the printer and no problems are presented by the limited range of materials available. With 3D printing becoming cheaper, more reliable and, as a result, more prevalent in the world at large, it may soon make inroads into the construction industry. Little is known, however, of 3D printing in current use in the construction industry and its potential for the future, and this paper seeks to investigate this situation by providing a review of the relevant literature. In doing this, the three main 3D printing methods of contour crafting, concrete printing and Dshape 3D printing are described, which, as opposed to the traditional construction method of cutting materials down to size, deliver only what is needed for completion, vastly reducing waste. The paper also identifies 3D printing’s potential to enable buildings to be constructed many times faster and with significantly reduced labour costs. In addition, it is clear that construction 3D printing can allow the further inclusion of building information modelling into the construction process, thus streamlining and improving the scheduling requirements of a project. However, the current 3D printing processes are known to be costly, unsuited to large-scale products and conventional design approaches and have a very limited range of materials that can be used. Moreover, the only successful examples of construction in action to date have occurred in controlled laboratory environments and, as real world trials have yet to be completed, it is yet to be seen whether it can be equally proficient in practical situations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
@@ -75,8 +58,8 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "114 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/alsuwaidi_abdulla"><b>Alsuwaidi</b> Abdulla</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/binshaqooi_essa"><b>Binshaqooi</b> Essa</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mans_alsu_bina_bins.2025.CHTaUVAo3CPEwVTACiHAC/">Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates</a></li>
@@ -192,4 +175,35 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{perk_skit.2015.TDPitCI,
+      author            = "Isaac Perkins and Martin Skitmore",
+      title             = "Three-Dimensional Printing in the Construction Industry: A Review",
+      doi               = "10.1080/15623599.2015.1012136",
+      year              = "2015",
+      journal           = "International Journal of Construction Management",
+      volume            = "15",
+      number            = "1",
+      pages             = "1--9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Perkins  and M. Skitmore, “Three-Dimensional Printing in the Construction Industry: A Review”, <i>International Journal of Construction Management</i>, vol. 15, no. 1, pp. 1–9, 2015, doi: 10.1080/15623599.2015.1012136.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perkins, Isaac, and Martin Skitmore. “Three-Dimensional Printing in the Construction Industry: A Review”. <i>International Journal of Construction Management</i> 15, no. 1 (2015): 1–9. https://doi.org/10.1080/15623599.2015.1012136.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

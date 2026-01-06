@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arjen Deetman, Derk Bos, Sandra Lucas, Theo Salet, Robert Wolfs
+    - footer
+title: Deetman Arjen, Bos Derk, Lucas Sandra, Salet Theo, Wolfs Robert
 description:
 tags:
  - concrete
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } A Database Framework for 3D Concrete Printing ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.rineng.2025.108669" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2025.108669</a>
+#A Database Framework for 3D Concrete Printing ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.rineng.2025.108669" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.108669" target="_blank">10.1016/j.rineng.2025.108669</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6756-5151" title="ORCID: 0000-0001-6756-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deetman_h_arjen"><b>Deetman</b>&nbsp;Arjen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1668-2638" title="ORCID: 0000-0002-1668-2638" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_h_derk"><b>Bos</b>&nbsp;Derk</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span><br>
+Journal Article - Results in Engineering, No. 108669
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a> <a href="https://orcid.org/0000-0001-6756-5151" title="ORCID: 0000-0001-6756-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> <a href="https://orcid.org/0000-0002-1668-2638" title="ORCID: 0000-0002-1668-2638" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, No. 108669
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#database`](keyword/database)
-    [`#framework`](keyword/framework)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/database"><button class="btn">#database</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Database%20Framework%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417266016" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2025.108669" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2025.108669?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A database framework is designed and presented to store data from 3D concrete printing (3DCP) processes. By systematically collecting and storing cross-disciplinary information obtained from these processes across multiple time scales, quality control methods can be improved, materials and systems can be optimized, and the digital product passport can be enriched with data that describes the history of the constructed object. Additionally, data sharing can accelerate the development of 3DCP as a wide range of systems and materials are utilized that are not always readily accessible to others. Making the often unique experimental data publicly available can push and accelerate innovation in the field. The presented database framework can describe the wide range of materials and systems used, which plays a central role in the framework as the processing method that can have a significant influence on the material properties and constructed objects. The experimental data from both the processing and evolution phases are stored in systematic and structured formats, allowing the results to be reproducible, interpretable, and analyzed over extended periods. The use of the framework is showcased on a modular 3D concrete printing system, and case studies show how the processing and evolution phases can be linked. Besides, data records are presented that follow the introduced framework and open-source software tools are provided that were used to acquire and analyze the data.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../alhu_duar_brow.2024.DaDDFSPMf3CP/">Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
@@ -67,7 +48,7 @@ tags:
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD/">Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
       <li><a href="../../../author/garcia_rill_rodrigo"><b>García</b> Rodrigo</a>, <a href="../../../author/dokladalova_eva"><b>Dokladalova</b> Eva</a>, <a href="../../../author/dokladal_petr"><b>Dokládal</b> Petr</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../garc_dokl_dokl_caro.2022.ILMo3CPUCV/">In-Line Monitoring of 3D Concrete Printing Using Computer-Vision</a></li>
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../jacq_pica_rang_perr.2020.GIFtCRPoPCBM/">Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials</a></li>
@@ -96,7 +77,37 @@ tags:
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zuo_tao_cort.2024.ERoCTDDLSOS3PBoITI/">Experimental Research of Concrete Temperature-Distribution During Large-Scale On-Site 3D Printing Based on Infrared-Thermal-Imaging</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_suik.2025.CoEAEPPo3PMUIT/">Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{deet_bos_luca_sale.2025.ADFf3CP,
+      author            = "Arjen H. Deetman and Derk H. Bos and Sandra Simaria de Oliveira Lucas and Theo A. M. Salet and Robert Johannes Maria Wolfs",
+      title             = "A Database Framework for 3D Concrete Printing",
+      doi               = "10.1016/j.rineng.2025.108669",
+      year              = "2025",
+      journal           = "Results in Engineering",
+      pages             = "108669",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. H. Deetman, D. H. Bos, S. S. de Oliveira Lucas, T. A. M. Salet and R. J. M. Wolfs, “A Database Framework for 3D Concrete Printing”, <i>Results in Engineering</i>, p. 108669, 2025, doi: 10.1016/j.rineng.2025.108669.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Deetman, Arjen H., Derk H. Bos, Sandra Simaria de Oliveira Lucas, Theo A. M. Salet, and Robert Johannes Maria Wolfs. “A Database Framework for 3D Concrete Printing”. <i>Results in Engineering</i>, 2025, 108669. https://doi.org/10.1016/j.rineng.2025.108669.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xu Zhang, Mingyang Li, Jian Lim, Yiwei Weng, Yi Tay, Hung Pham, Quang-Cuong Pham
+    - footer
+title: Zhang Xu, Li Mingyang, Lim Jian, Weng Yiwei, Tay Yi, Pham Hung, Pham Quang-Cuong
 description:
 tags:
  - large
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/84188/1/Large-Scale%203D%20Printing%20by%20a%20Team%20of%20Mobile%20Robots.pdf) Large-Scale 3D Printing by a Team of Mobile Robots ([2018-08](date/2018/08))
-<a href="https://doi.org/10.1016/j.autcon.2018.08.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2018.08.004</a>
+#Large-Scale 3D Printing by a Team of Mobile Robots ([2018-08](date/2018/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/84188/1/Large-Scale%203D%20Printing%20by%20a%20Team%20of%20Mobile%20Robots.pdf) <a href="https://doi.org/10.1016/j.autcon.2018.08.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2018.08.004" target="_blank">10.1016/j.autcon.2018.08.004</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1370-7681" title="ORCID: 0000-0003-1370-7681" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xu"><b>Zhang</b>&nbsp;Xu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8424-5624" title="ORCID: 0000-0002-8424-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_hui_jian"><b>Lim</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <a href="../../../author/pham_hung"><b>Pham</b>&nbsp;Hung</a></span>, <a href="../../../author/pham_quang-cuong"><b>Pham</b>&nbsp;Quang-Cuong</a></span><br>
+Journal Article - Automation in Construction, Vol. 95, pp. 98-106
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a> <a href="https://orcid.org/0000-0003-1370-7681" title="ORCID: 0000-0003-1370-7681" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a> <a href="https://orcid.org/0000-0002-8424-5624" title="ORCID: 0000-0002-8424-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pham_hung"><b>Pham</b> Hung</a>
-,     <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 95, pp. 98-106
-
-:aca-blank:{ .lg .middle}
-    [`#large`](keyword/large)
-    [`#mobile`](keyword/mobile)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Printing%20by%20a%20Team%20of%20Mobile%20Robots" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85051653808&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2887785894" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2018.08.004" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2018.08.004?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Scalability is a problem common to most existing 3D printing processes, where the size of the design is strictly constrained by the chamber volume of the 3D printer. This issue is more pronounced in the building and construction industry, where it is impractical to have printers that are larger than actual buildings. One workaround consists in printing smaller pieces, which can then be assembled on-site. This workaround generates however additional design and process complexities, as well as creates potential weaknesses at the assembly interfaces. In this paper, we propose a 3D printing system that employs multiple mobile robots printing concurrently a large, single-piece, structure. We present our system in detail, and report simulation and experimental results. To our knowledge, this is the first physical demonstration of large-scale, concurrent, 3D printing of a concrete structure by multiple mobile robots
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
@@ -90,8 +68,11 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "141 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
+      <li><a href="../../../author/bassi_utkarsh"><b>Bassi</b> Utkarsh</a>, <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/verma_kumar_yash"><b>Verma</b> Yash</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bass_saha_bish_verm.2026.DAaDoaB3CP/">Design Analysis and Development of a Benchtop 3D Concrete Printer</a></li>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
       <li><a href="../../../author/lee_chang-hwan"><b>Lee</b> Chang-Hwan</a>, <a href="../../../author/gwak_kwan-woong"><b>Gwak</b> Kwan-Woong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lee_gwak.2025.EVoaCDPRf3PBC/">Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction</a></li>
@@ -231,4 +212,34 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_li_lim_weng.2018.LS3PbaToMR,
+      author            = "Xu Zhang and Mingyang Li and Jian Hui Lim and Yiwei Weng and Yi Wei Daniel Tay and Hung Pham and Quang-Cuong Pham",
+      title             = "Large-Scale 3D Printing by a Team of Mobile Robots",
+      doi               = "10.1016/j.autcon.2018.08.004",
+      year              = "2018",
+      journal           = "Automation in Construction",
+      volume            = "95",
+      pages             = "98--106",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Zhang, “Large-Scale 3D Printing by a Team of Mobile Robots”, <i>Automation in Construction</i>, vol. 95, pp. 98–106, 2018, doi: 10.1016/j.autcon.2018.08.004.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Xu, Mingyang Li, Jian Hui Lim, Yiwei Weng, Yi Wei Daniel Tay, Hung Pham, and Quang-Cuong Pham. “Large-Scale 3D Printing by a Team of Mobile Robots”. <i>Automation in Construction</i> 95 (2018): 98–106. https://doi.org/10.1016/j.autcon.2018.08.004.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

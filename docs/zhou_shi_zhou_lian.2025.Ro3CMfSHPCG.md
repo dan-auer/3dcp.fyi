@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhuang Zhou, Xinyu Shi, Haining Zhou, Yuan Liang, Chengpeng Sun, Kang Bi
+    - footer
+title: Zhou Zhuang, Shi Xinyu, Zhou Haining, Liang Yuan, Sun Chengpeng, Bi Kang
 description:
 tags:
  - component
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Research on 3DPC Construction Method for Structural High-Performance Component Generation ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/978-981-96-5693-6_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-5693-6_21</a>
+#Research on 3DPC Construction Method for Structural High-Performance Component Generation ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-5693-6_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-5693-6_21" target="_blank">10.1007/978-981-96-5693-6_21</a>
 
--------------------------
+<a href="../../../author/zhou_zhuang"><b>Zhou</b>&nbsp;Zhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <a href="../../../author/zhou_haining"><b>Zhou</b>&nbsp;Haining</a></span>, <a href="../../../author/liang_yuan"><b>Liang</b>&nbsp;Yuan</a></span>, <a href="../../../author/sun_chengpeng"><b>Sun</b>&nbsp;Chengpeng</a></span>, <a href="../../../author/bi_kang"><b>Bi</b>&nbsp;Kang</a></span><br>
+Contribution - Advances in Computer Science and Ubiquitous Computing, pp. 135-140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_zhuang"><b>Zhou</b> Zhuang</a>
-,     <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> <a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_haining"><b>Zhou</b> Haining</a>
-,     <a href="../../../author/liang_yuan"><b>Liang</b> Yuan</a>
-,     <a href="../../../author/sun_chengpeng"><b>Sun</b> Chengpeng</a>
-,     <a href="../../../author/bi_kang"><b>Bi</b> Kang</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Advances in Computer Science and Ubiquitous Computing, pp. 135-140
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#construction`](keyword/construction)
-    [`#generation`](keyword/generation)
-    [`#height`](keyword/height)
-    [`#method`](keyword/method)
-    [`#performance`](keyword/performance)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20on%203DPC%20Construction%20Method%20for%20Structural%20High-Performance%20Component%20Generation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006837422&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410358397" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-5693-6_21" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-5693-6_21?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The building structure is the most material-intensive component of construction. Optimization can reducematerial consumption and overall structural weight. Therefore, designing structures with a focus on structural performance is essential. The benefits of 3D concrete printing, such as increased design versatility and reduced material consumption, facilitate the adoption of performancebased design in construction. However, constraints persist between components designed for high structural performance and their construction, and a holistic approach to integrating design generation with construction remains lacking. This paper reviews recent construction cases, examines the constraints affecting the constructability of structural high-performance components, and proposes a set of process methods for their design and construction, these methods provide a foundation for expanding the buildability range of these components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
       <li><a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/bouten_sam"><b>Bouten</b> Sam</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dell_bout_mele_bloc.2023.SDaEoSaU3CPMAB/">Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -80,7 +57,38 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zhou_shi_zhou_lian.2025.Ro3CMfSHPCG,
+      author            = "Zhuang Zhou and Xinyu Shi and Haining Zhou and Yuan Liang and Chengpeng Sun and Kang Bi",
+      title             = "Research on 3DPC Construction Method for Structural High-Performance Component Generation",
+      doi               = "10.1007/978-981-96-5693-6_21",
+      year              = "2025",
+      volume            = "1416",
+      pages             = "135--140",
+      booktitle         = "Advances in Computer Science and Ubiquitous Computing",
+      editor            = "Ji Su Park and David Camacho and Stefanos Gritzalis and James J. Park",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zhou, X. Shi, H. Zhou, Y. Liang, C. Sun and K. Bi, “Research on 3DPC Construction Method for Structural High-Performance Component Generation”, in <i>Advances in Computer Science and Ubiquitous Computing</i>,  2025, vol. 1416, pp. 135–140. doi: 10.1007/978-981-96-5693-6_21.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Zhuang, Xinyu Shi, Haining Zhou, Yuan Liang, Chengpeng Sun, and Kang Bi. “Research on 3DPC Construction Method for Structural High-Performance Component Generation”. In <i>Advances in Computer Science and Ubiquitous Computing</i>, edited by Ji Su Park, David Camacho, Stefanos Gritzalis, and James J. Park, 1416:135–40, 2025. https://doi.org/10.1007/978-981-96-5693-6_21.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

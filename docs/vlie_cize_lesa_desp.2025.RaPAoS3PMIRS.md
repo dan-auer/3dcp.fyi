@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jentel Vlieger, Özlem Cizer, Karel Lesage, Frederik Desplentere, Elke Gruyaert
+    - footer
+title: Vlieger Jentel, Cizer Özlem, Lesage Karel, Desplentere Frederik, Gruyaert Elke
 description:
 tags:
  - analysis
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological- and Pumpability-Analysis of Sustainable 3D Printing Mortars Incorporating Recycled Sand ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1007/978-3-031-70281-5_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70281-5_29</a>
+#Rheological- and Pumpability-Analysis of Sustainable 3D Printing Mortars Incorporating Recycled Sand ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70281-5_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70281-5_29" target="_blank">10.1007/978-3-031-70281-5_29</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0439-8514" title="ORCID: 0000-0003-0439-8514" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vlieger_jentel"><b>de&nbsp;Vlieger</b>&nbsp;Jentel</a></span>, <a href="../../../author/cizer_ozlem"><b>Cizer</b>&nbsp;Özlem</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesage_karel"><b>Lesage</b>&nbsp;Karel</a></span>, <a href="../../../author/desplentere_frederik"><b>Desplentere</b>&nbsp;Frederik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0117-2544" title="ORCID: 0000-0003-0117-2544" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gruyaert_elke"><b>Gruyaert</b>&nbsp;Elke</a></span><br>
+Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 255-264
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vlieger_jentel"><b>de Vlieger</b> Jentel</a> <a href="https://orcid.org/0000-0003-0439-8514" title="ORCID: 0000-0003-0439-8514" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cizer_ozlem"><b>Cizer</b> Özlem</a>
-,     <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/desplentere_frederik"><b>Desplentere</b> Frederik</a>
-,     <a href="../../../author/gruyaert_elke"><b>Gruyaert</b> Elke</a> <a href="https://orcid.org/0000-0003-0117-2544" title="ORCID: 0000-0003-0117-2544" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 255-264
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#incorporation`](keyword/incorporation)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#pumpability`](keyword/pumpability)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-    [`#sand`](keyword/sand)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological-%20and%20Pumpability-Analysis%20of%20Sustainable%203D%20Printing%20Mortars%20Incorporating%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208955290&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404054874" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70281-5_29" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70281-5_29?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a comprehensive investigation into the rheological behaviour and pumpability of a mortar designed for 3D printing, incorporating fine recycled aggregates (recycled sand) sourced from construction and demolition waste. The research addresses the growing demand for sustainable construction materials by exploring the viability of recycled sand in 3D mortar printing applications. The study aims to modify a highly thixotropic reference mortar for 3D printing by substituting natural sand with recycled sand. Various aggregate-tobinder (a/b) ratios are used to assess their influence on the mortar’s rheological properties and pumpability. The methodology extensively employs rheological oscillatory tests conducted with an Anton Paar MCR102e rheometer to obtain the storage modulus (G’) and loss modulus (G”) evolution over time for each mixture. Additionally, oscillatory step tests are conducted to measure the degree of thixotropy exhibited by the mixtures. The findings of the Sliding Pipe Rheometer (SLIPER) are instrumental in characterizing the slip layer’s rheological properties, providing essential insights into the pumpability of the mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
@@ -83,7 +59,38 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{vlie_cize_lesa_desp.2025.RaPAoS3PMIRS,
+      author            = "Jentel de Vlieger and Özlem Cizer and Karel Lesage and Frederik Desplentere and Elke Gruyaert",
+      title             = "Rheological- and Pumpability-Analysis of Sustainable 3D Printing Mortars Incorporating Recycled Sand",
+      doi               = "10.1007/978-3-031-70281-5_29",
+      year              = "2025",
+      volume            = "56",
+      pages             = "255--264",
+      booktitle         = "Proceedings of the RILEM Spring Convention and Conference 2024",
+      editor            = "Liberato Ferrara and Giovanni Muciaccia and Davide di Summa",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. de Vlieger, Ö. Cizer, K. Lesage, F. Desplentere and E. Gruyaert, “Rheological- and Pumpability-Analysis of Sustainable 3D Printing Mortars Incorporating Recycled Sand”, in <i>Proceedings of the RILEM Spring Convention and Conference 2024</i>,  2025, vol. 56, pp. 255–264. doi: 10.1007/978-3-031-70281-5_29.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vlieger, Jentel de, Özlem Cizer, Karel Lesage, Frederik Desplentere, and Elke Gruyaert. “Rheological- and Pumpability-Analysis of Sustainable 3D Printing Mortars Incorporating Recycled Sand”. In <i>Proceedings of the RILEM Spring Convention and Conference 2024</i>, edited by Liberato Ferrara, Giovanni Muciaccia, and Davide di Summa, 56:255–64, 2025. https://doi.org/10.1007/978-3-031-70281-5_29.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

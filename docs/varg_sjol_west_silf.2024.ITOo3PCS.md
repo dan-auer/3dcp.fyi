@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: José Vargas, Andreas Sjölander, Helena Westerlind, Johan Silfwerbrand
+    - footer
+title: Vargas José, Sjölander Andreas, Westerlind Helena, Silfwerbrand Johan
 description:
 tags:
  - concrete
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2346290?needAccess=true) Internal Topology-Optimization of 3D Printed Concrete Structures:<br/>:aca-blank: A Method for Enhanced Performance and Material-Efficiency ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1080/17452759.2024.2346290" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2346290</a>
+#Internal Topology-Optimization of 3D Printed Concrete Structures&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">A Method for Enhanced Performance and Material-Efficiency</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2346290?needAccess=true) <a href="https://doi.org/10.1080/17452759.2024.2346290" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2346290" target="_blank">10.1080/17452759.2024.2346290</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0641-0567" title="ORCID: 0000-0002-0641-0567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_hernandez_jose"><b>Vargas</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8375-581X" title="ORCID: 0000-0001-8375-581X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sjolander_andreas"><b>Sjölander</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2313-8809" title="ORCID: 0000-0002-2313-8809" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/westerlind_helena"><b>Westerlind</b>&nbsp;Helena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1526-9331" title="ORCID: 0000-0002-1526-9331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b>&nbsp;Johan</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> <a href="https://orcid.org/0000-0002-0641-0567" title="ORCID: 0000-0002-0641-0567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sjolander_andreas"><b>Sjölander</b> Andreas</a> <a href="https://orcid.org/0000-0001-8375-581X" title="ORCID: 0000-0001-8375-581X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> <a href="https://orcid.org/0000-0002-2313-8809" title="ORCID: 0000-0002-2313-8809" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="https://orcid.org/0000-0002-1526-9331" title="ORCID: 0000-0002-1526-9331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#efficient`](keyword/efficient)
-    [`#enhancement`](keyword/enhancement)
-    [`#internal`](keyword/internal)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Internal%20Topology-Optimization%20of%203D%20Printed%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192551840&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396718787" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2346290" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2346290?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D concrete printing (3DCP) is a promising technique for fabricating complex concrete elements without formwork, offering advantages like cost reduction and enhanced design flexibility by decoupling manufacturing costs from part complexity. However, this extended formal freedom is still constrained by the fabrication process and material properties. This paper presents a novel method for applying topology optimisation internally i.e. preserving the external boundaries of the concrete element while reducing material use and weight. This method adapts the extrusion thickness along the part according to the expected stresses, reducing the material use while enhancing structural performance. To validate this method, three different unreinforced 3DCP beams are tested in three-point bending. Results show that beams with optimised material distributions presented a higher strength-to-weight ratio, averaging 47% and 63% compared with the conventional 3D printed beam. This paper demonstrates the potential of internal topology optimisation for improving the efficiency and sustainability of 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
@@ -114,8 +90,9 @@ tags:
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../varg_bres_silf.2025.CHF/">Circular Hybrid Façades:<br/>Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements</a></li>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
@@ -123,4 +100,34 @@ tags:
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.SPoTOaLSiC3PB/">Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sala_jaya.2024.OSoCRfC3PLB/">Optimal Selection of Cable-Reinforcement for Concrete 3D Printed Lattice-Beam</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{varg_sjol_west_silf.2024.ITOo3PCS,
+      author            = "José Hernández Vargas and Andreas Sjölander and Helena Westerlind and Johan Silfwerbrand",
+      title             = "Internal Topology-Optimization of 3D Printed Concrete Structures: A Method for Enhanced Performance and Material-Efficiency",
+      doi               = "10.1080/17452759.2024.2346290",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. H. Vargas, A. Sjölander, H. Westerlind and J. Silfwerbrand, “Internal Topology-Optimization of 3D Printed Concrete Structures: A Method for Enhanced Performance and Material-Efficiency”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2346290.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vargas, José Hernández, Andreas Sjölander, Helena Westerlind, and Johan Silfwerbrand. “Internal Topology-Optimization of 3D Printed Concrete Structures: A Method for Enhanced Performance and Material-Efficiency”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2346290.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

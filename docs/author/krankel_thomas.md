@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 #  Kränkel Thomas 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
   <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/haynack_alexander"><b>Haynack</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../stra_hayn_kran_gehl.2024.AMbtSPI/">Additive Manufacturing by the Selective Paste-Intrusion:<br/>Effect of the Distance of the Print Nozzle to the Particle-Bed on the Print Quality</a></li>
   <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hech_kran_gehl.2024.IitDoPTiDF/">Investigations into the Dynamics of Penetration Tests in Digital Fabrication</a></li>
   <li><a href="../../../author/krakovska_ema"><b>Krakovská</b> Ema</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krak_brie_stra_kran.2024.FHLCC/">Functionally Hybridised Lightweight Concrete Components:<br/>Monolithic Building Construction Using Selective Paste-Intrusion</a></li>

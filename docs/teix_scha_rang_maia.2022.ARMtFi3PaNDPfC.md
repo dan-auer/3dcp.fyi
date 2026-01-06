@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: João Teixeira, Cecília Schaefer, Bárbara Rangel, Lino Maia, Jorge Alves
+    - footer
+title: Teixeira João, Schaefer Cecília, Rangel Bárbara, Maia Lino, Alves Jorge
 description:
 tags:
  - construction
@@ -14,31 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.foar.2022.10.001) A Road Map to Find in 3D Printing a New Design Plasticity for Construction:<br/>:aca-blank: The State of Art ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.foar.2022.10.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.foar.2022.10.001</a>
+#A Road Map to Find in 3D Printing a New Design Plasticity for Construction&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">The State of Art</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.foar.2022.10.001) <a href="https://doi.org/10.1016/j.foar.2022.10.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.foar.2022.10.001" target="_blank">10.1016/j.foar.2022.10.001</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b>&nbsp;Cecília</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_lino"><b>Maia</b>&nbsp;Lino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span><br>
+Journal Article - Frontiers of Architectural Research
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> <a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Architectural Research, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#finding`](keyword/finding)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/finding"><button class="btn">#finding</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Road%20Map%20to%20Find%20in%203D%20Printing%20a%20New%20Design%20Plasticity%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142509371&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4309289732" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.foar.2022.10.001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.foar.2022.10.001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent years are showing a rapid adoption of digital manufacturing techniques to the construction industry, with a focus on additive manufacturing. Although 3D printing for construction (3DPC) has notably advanced in recent years, publications on the subject are recent and date a growth in 2019, indicating that it is a promising technology as it enables greater efficiency with fair consumption of material, minimization of waste generation, encouraging the construction industrialization and enhancing and accelerating the constructive process. This new building system not only gives an optimization of the building process but provides a new approach to the building design materiality. The direct connection between design and manufacturing allows the reduction in the number of the various construction phases needed. It is opening a new and wide range of options both formal and chromatic in customization, avoiding complex formworks, reducing costs and manufacturing time. The creative process has a strict and direct link with the constructive process, straightening design with its materiality. Cement-based materials lead the way, but new alternatives are being explored to further reduce its carbon footprint. In order to leverage its sustainability and enhance the system capacity, initiatives are being pursued to allow the reduction of the use of PC. Geopolimers are taking the first steps in 3DPC. Construction and Demolition Waste (CDW) materials are used to substitute natural aggregates. Even soil is being explored has a structural and aesthetic material. These research trends are opening a wider range of possibilities for architecture and design, broadening the spectrum of color, texture, and formal variations. The concern about textures and colours is not yet evident in many the structures already printed, opening the opportunity for future research. More can be done in the mixture and formal design of this building system, “discovering” other raw materials in others waste. This article aims to make a critical review of technologies, materials and methodologies to support the development of new sustainable materials to be used as a plastic element in the printed structure. A roadmap of 3D printing for construction is presented, and an approach on mix design, properties in the fresh and hardened state, highlighting the possibilities for obtaining alternative materials are pointed. With this review possible directions are presented to find solutions to enhance the sustainability of this system discovering “new” materiality for architecture and design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "91 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../alba_swas_ghaf.2019.TDaDoaESf3PCM/">The Design and Development of an Extrusion-System for 3D Printing Cementitious Materials</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -156,8 +136,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teix_jesu_ribe_rang.2026.LFAMwCaCA/">Large Format Additive Manufacturing with Cement and Clay Applications</a></li>
@@ -182,4 +162,32 @@ tags:
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../jesu_pess_guim_rang.2023.ARoSOf3PiC/">A Reflection on Sustainable Opportunities for 3D Printing in Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{teix_scha_rang_maia.2022.ARMtFi3PaNDPfC,
+      author            = "João Teixeira and Cecília Ogliari Schaefer and Bárbara Rangel and Lino Maia and Jorge Lino Alves",
+      title             = "A Road Map to Find in 3D Printing a New Design Plasticity for Construction: The State of Art",
+      doi               = "10.1016/j.foar.2022.10.001",
+      year              = "2022",
+      journal           = "Frontiers of Architectural Research",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Teixeira, C. O. Schaefer, B. Rangel, L. Maia and J. L. Alves, “A Road Map to Find in 3D Printing a New Design Plasticity for Construction: The State of Art”, <i>Frontiers of Architectural Research</i>, 2022, doi: 10.1016/j.foar.2022.10.001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Teixeira, João, Cecília Ogliari Schaefer, Bárbara Rangel, Lino Maia, and Jorge Lino Alves. “A Road Map to Find in 3D Printing a New Design Plasticity for Construction: The State of Art”. <i>Frontiers of Architectural Research</i>, 2022. https://doi.org/10.1016/j.foar.2022.10.001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

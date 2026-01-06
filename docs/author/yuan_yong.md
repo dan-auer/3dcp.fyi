@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Yuan Yong 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tao_yuan_zhan_wang.2025.PSAoPUVT/">Pore Structure Analysis of Printcrete Under Varying Temperature</a></li>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>

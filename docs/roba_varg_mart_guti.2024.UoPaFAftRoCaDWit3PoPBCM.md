@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rafael Robayo-Salazar, Armando Vargas, Fabio Martínez, Ruby Gutiérrez
+    - footer
+title: Robayo-Salazar Rafael, Vargas Armando, Martínez Fabio, Gutiérrez Ruby
 description:
 tags:
  - aggregate
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.clema.2024.100234) Utilization of Powders and Fine Aggregates from the Recycling of Construction and Demolition Waste in the 3D Printing of Portland-Based Cementitious Materials ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.clema.2024.100234" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.clema.2024.100234</a>
+#Utilization of Powders and Fine Aggregates from the Recycling of Construction and Demolition Waste in the 3D Printing of Portland-Based Cementitious Materials ([2024-02](date/2024/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.clema.2024.100234) <a href="https://doi.org/10.1016/j.clema.2024.100234" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clema.2024.100234" target="_blank">10.1016/j.clema.2024.100234</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_armando"><b>Vargas</b>&nbsp;Armando</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-2147-8941" title="ORCID: 0009-0000-2147-8941" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinez_fabio"><b>Martínez</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gutierrez_mejia_ruby"><b>de&nbsp;Gutiérrez</b>&nbsp;Ruby</a></span><br>
+Journal Article - Cleaner Materials, No. 100234
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> <a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a> <a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinez_fabio"><b>Martínez</b> Fabio</a> <a href="https://orcid.org/0009-0000-2147-8941" title="ORCID: 0009-0000-2147-8941" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> <a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Materials, No. 100234
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#fine`](keyword/fine)
-    [`#material`](keyword/material)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#util`](keyword/util)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Utilization%20of%20Powders%20and%20Fine%20Aggregates%20from%20the%20Recycling%20of%20Construction%20and%20Demolition%20Waste%20in%20the%203D%20Printing%20of%20Portland-Based%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187015334&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392303185" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.clema.2024.100234" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.clema.2024.100234?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper analysed the possibility of using recycled powders (<75 µm) and recycling fine aggregates (<1.18 mm) obtained during the crushing and grinding of concrete waste (CoW), ceramic waste (CeW) and red clay brick waste (RCBW) when designing cementitious pastes and mortars for 3D printing. The effects of the type of powder (CoW-powder, CeW-powder and RCBW-powder) and of the liquid/solid (L/S) ratio on the mixture properties in the fresh and hardened states were studied. In the fresh state, the level of flowability (mini-slump), flow index (flow table), buildability and setting time characteristics of the cementitious pastes were evaluated. In addition, the rheological behaviour was analysed through a rotational rheometer. In the hardened state, the compressive strength was determined at 3, 7, 28 and 90 days. The effects of the type of recycled fine aggregate (RFA − CoW, RFA − CeW and RFA − RCBW) were evaluated for mortars with a cement:aggregate ratio of 1:0.5. Based on the results obtained, the most suitable mixtures were selected to carry out 3D printing tests on a laboratory scale. From the 3D printing of beam-type specimens, it was possible to determine the flexural and compressive strengths (28 days) of the selected mixtures. The results obtained validated the possibility of using recycled powders (CoW, CeW and RCBW) to replace 30 % of ordinary Portland cement (OPC) and to incorporate 100 % recycled fine aggregates in the design of cementitious materials (pastes and mortars) for 3D printing. In this regard, the recycled powders and recycled fine aggregates increase the buildability and thixotropy of cementitious mixtures. With an adjustment in the L/S (liquid/solids) ratio, their application in 3D printing becomes feasible. This alternative for the use of powders and fine aggregates from construction and demolition waste (CDW) could be considered a contribution towards the sustainability of the sector and the implementation of a circular economy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -103,8 +77,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
@@ -118,4 +92,33 @@ tags:
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../fede_cend_siko.2025.LCCCIwBaRFSf3PA/">Low-Carbon Cementitious Composite Incorporated with Biochar and Recycled Fines Suitable for 3D Printing Applications:<br/>Hydration, Shrinkage and Early-Age Performance</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{roba_varg_mart_guti.2024.UoPaFAftRoCaDWit3PoPBCM,
+      author            = "Rafael Robayo-Salazar and Armando Vargas and Fabio Martínez and Ruby Mejía de Gutiérrez",
+      title             = "Utilization of Powders and Fine Aggregates from the Recycling of Construction and Demolition Waste in the 3D Printing of Portland-Based Cementitious Materials",
+      doi               = "10.1016/j.clema.2024.100234",
+      year              = "2024",
+      journal           = "Cleaner Materials",
+      pages             = "100234",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Robayo-Salazar, A. Vargas, F. Martínez and R. M. de Gutiérrez, “Utilization of Powders and Fine Aggregates from the Recycling of Construction and Demolition Waste in the 3D Printing of Portland-Based Cementitious Materials”, <i>Cleaner Materials</i>, p. 100234, 2024, doi: 10.1016/j.clema.2024.100234.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Robayo-Salazar, Rafael, Armando Vargas, Fabio Martínez, and Ruby Mejía de Gutiérrez. “Utilization of Powders and Fine Aggregates from the Recycling of Construction and Demolition Waste in the 3D Printing of Portland-Based Cementitious Materials”. <i>Cleaner Materials</i>, 2024, 100234. https://doi.org/10.1016/j.clema.2024.100234.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

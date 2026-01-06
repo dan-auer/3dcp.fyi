@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Wu, Yu Li, Xingje Xie, Xiaofan Gao, Philip Yuan
+    - footer
+title: Wu Hao, Li Yu, Xie Xingje, Gao Xiaofan, Yuan Philip
 description:
 tags:
  - base
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1007/978-3-031-36554-6_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-36554-6_22</a>
+#Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-36554-6_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36554-6_22" target="_blank">10.1007/978-3-031-36554-6_22</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hao"><b>Wu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9054-7840" title="ORCID: 0000-0001-9054-7840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yu"><b>Li</b>&nbsp;Yu</a></span>, <a href="../../../author/xie_xingje"><b>Xie</b>&nbsp;Xingje</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6003-5561" title="ORCID: 0000-0001-6003-5561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_xiaofan"><b>Gao</b>&nbsp;Xiaofan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span><br>
+Contribution - Design for Rethinking Resources, pp. 343-354
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> <a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_yu"><b>Li</b> Yu</a> <a href="https://orcid.org/0000-0001-9054-7840" title="ORCID: 0000-0001-9054-7840" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_xingje"><b>Xie</b> Xingje</a>
-,     <a href="../../../author/gao_xiaofan"><b>Gao</b> Xiaofan</a> <a href="https://orcid.org/0000-0001-6003-5561" title="ORCID: 0000-0001-6003-5561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Design for Rethinking Resources, pp. 343-354
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#efficient`](keyword/efficient)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance-Based%203D%20Concrete%20Printing%20for%20an%20Efficient%20Concrete%20Beam" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193992624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388726374" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-36554-6_22" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-36554-6_22?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the design and fabrication of an efficient steel–concrete composite beam prototype using structural optimization methods and innovative 3D concrete printing (3DCP). In traditional building industry, concrete objects like slabs or beams are cast by using low-cost standardized formwork, resulting in their high material usage and large carbon footprints. Although the development of large-scale 3DCP offers a formwork-free and rapid construction method, the elements created are like those created by standardized formwork. To achieve formwork-free construction of efficient concrete structures, this paper proposes the method of structural performance-based 3DCP. The work in this paper uses multi-material BESO technique and non-horizontal 3D printing to fabricate an efficient steel–concrete composite beam prototype with a span of 4 m. According to rough calculations, the optimized structure saves approximately 60% of concrete and 50% of steel compared to a conventional concrete beam. Combined with previous studies, this paper summarizes and proposes an important shift that is taking place in 3DCP. The general workflow of Structural Performance-Based 3D Concrete Printing is summarized, and future research topics are discussed. The study in this paper demonstrates the valuable outlook of the combination of structural performance-based design and precise material deposition methods, which could contribute to the UN Sustainable Development Goals.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -77,9 +55,39 @@ tags:
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../zhan_wu_zhan_yuan.2021.3CPwVWF/">3D Concrete Printing with Variable-Width Filament</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kinski_wojciech"><b>Kiński</b> Wojciech</a>, <a href="../../../author/siwicki_przemyslaw"><b>Siwicki</b> Przemysław</a>, <a href="../../../author/zielinski_jacek"><b>Zieliński</b> Jacek</a>, <a href="../../../author/smater_michal"><b>Smater</b> Michał</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kins_siwi_ziel_smat.2026.AoaLSMPMMf3PfC/">Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete</a></li>
       <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../huan_anto_dill_xu.2025.LI3CPCSS/">Lamella-Inspired 3D Concrete Printed Column-Slab System:<br/>Balancing Act for Productivity and Sustainability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wu_li_xie_gao.2024.SPB3CPfaECB,
+      author            = "Hao Wu and Yu Li and Xingje Xie and Xiaofan Gao and Philip F. Yuan",
+      title             = "Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam",
+      doi               = "10.1007/978-3-031-36554-6_22",
+      year              = "2024",
+      pages             = "343--354",
+      booktitle         = "Design for Rethinking Resources",
+      editor            = "Mette Ramsgaard Thomsen and Carlo Ratti and Martin Tamke",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Wu, Y. Li, X. Xie, X. Gao and P. F. Yuan, “Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam”, in <i>Design for Rethinking Resources</i>,  2024, pp. 343–354. doi: 10.1007/978-3-031-36554-6_22.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Hao, Yu Li, Xingje Xie, Xiaofan Gao, and Philip F. Yuan. “Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam”. In <i>Design for Rethinking Resources</i>, edited by Mette Ramsgaard Thomsen, Carlo Ratti, and Martin Tamke, 343–54, 2024. https://doi.org/10.1007/978-3-031-36554-6_22.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

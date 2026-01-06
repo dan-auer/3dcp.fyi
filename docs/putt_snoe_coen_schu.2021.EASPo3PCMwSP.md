@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jolien Putten, Didier Snoeck, R. Coensel, Geert Schutter, Kim Tittelboom
+    - footer
+title: Putten Jolien, Snoeck Didier, Coensel R., Schutter Geert, Tittelboom Kim
 description:
 tags:
  - age
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Early-Age Shrinkage Phenomena of 3D Printed Cementitious Materials with Superabsorbent Polymers ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1016/j.jobe.2020.102059" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2020.102059</a>
+#Early-Age Shrinkage Phenomena of 3D Printed Cementitious Materials with Superabsorbent Polymers ([2020-12](date/2020/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2020.102059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2020.102059" target="_blank">10.1016/j.jobe.2020.102059</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9427-6312" title="ORCID: 0000-0001-9427-6312" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snoeck_didier"><b>Snoeck</b>&nbsp;Didier</a></span>, <a href="../../../author/coensel_r"><b>de&nbsp;Coensel</b>&nbsp;R.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 35
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/putten_jolien"><b>van der Putten</b> Jolien</a> <a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/snoeck_didier"><b>Snoeck</b> Didier</a> <a href="https://orcid.org/0000-0001-9427-6312" title="ORCID: 0000-0001-9427-6312" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/coensel_r"><b>de Coensel</b> R.</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 35, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#cement`](keyword/cement)
-    [`#early`](keyword/early)
-    [`#material`](keyword/material)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Shrinkage%20Phenomena%20of%203D%20Printed%20Cementitious%20Materials%20with%20Superabsorbent%20Polymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097722511&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3108574521" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2020.102059" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2020.102059?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious materials is a novel construction method, capable of producing complex geometries without the use of expensive formwork. However, due to the lack of molding, additional shrinkage will be induced and the risk of crack formation will increase. As cracks introduce ingress paths for chemical substances, it will harm the durability of the printed element. One potential way to tackle this disadvantage is by including superabsorbent polymers (SAPs) in the cementitious material. As these polymers are able to absorb part of the mixing water and to release it during hardening, they induce internal curing and can mitigate self-desiccation, plastic and autogenous shrinkage. Additionally, as drying shrinkage and the related early-age crack formation are major issues in printed structures, the mitigating effect of the SAPs on the latter is also investigated. Three different SAPs (bulk-polymerized monovalent salt polyacrylates with an irregular shape and different size) were used in this research to fabricate printed elements and their influence on the durability and the mechanical properties was correlated with the microstructural changes. First results showed that in general, the addition of superabsorbent polymers mitigates shrinkage in printed materials up to 200%. Inclusion of SAPs also reduced the nanoporosity in the pore size range of 100 nm–500 nm and increase the amount of voids with a diameter above 700 nm, resulting in less microcracks and a decreased amount of preferential ingress paths for chemical substances. On the other hand, the total air content increases with the addition of SAPs, proportional to the amount of SAPs and additional water added, due to the formation of macropores. The addition of SAPs did not seem to have a pronounced influence on the mechanical properties of the printed specimens with a reference water-to-cement ratio of 0.37.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -76,8 +54,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "62 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
@@ -140,6 +118,34 @@ tags:
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a></li>
-      <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{putt_snoe_coen_schu.2021.EASPo3PCMwSP,
+      author            = "Jolien van der Putten and Didier Snoeck and R. de Coensel and Geert de Schutter and Kim van Tittelboom",
+      title             = "Early-Age Shrinkage Phenomena of 3D Printed Cementitious Materials with Superabsorbent Polymers",
+      doi               = "10.1016/j.jobe.2020.102059",
+      year              = "2021",
+      journal           = "Journal of Building Engineering",
+      volume            = "35",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. van der Putten, D. Snoeck, R. de Coensel, G. de Schutter and K. van Tittelboom, “Early-Age Shrinkage Phenomena of 3D Printed Cementitious Materials with Superabsorbent Polymers”, <i>Journal of Building Engineering</i>, vol. 35, 2021, doi: 10.1016/j.jobe.2020.102059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Putten, Jolien van der, Didier Snoeck, R. de Coensel, Geert de Schutter, and Kim van Tittelboom. “Early-Age Shrinkage Phenomena of 3D Printed Cementitious Materials with Superabsorbent Polymers”. <i>Journal of Building Engineering</i> 35 (2021). https://doi.org/10.1016/j.jobe.2020.102059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Šinka Māris 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
   <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/pluminss_ernests"><b>Pluminss</b> Ernests</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../sapa_plum_slos_sink.2025.UCDWAiCFCf3P/">Utilizing Construction Demolition Waste Aggregates in Cement- Free Concrete for 3D Printing</a></li>
   <li><a href="../../../author/balina_karina"><b>Balina</b> Karina</a>, <a href="../../../author/gailitis_rihards"><b>Gailitis</b> Rihards</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/argalis_pavils_pauls"><b>Argalis</b> Pauls</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bali_gail_sink_arga.2025.PLf3PFGCUCWaA/">Prospective LCA for 3D-Printed Foamed Geopolymer Composites Using Construction Waste as Additives</a></li>

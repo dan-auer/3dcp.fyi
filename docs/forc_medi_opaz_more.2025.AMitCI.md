@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eric Forcael, Moisés Medina, Alexander Opazo-Vega, Francisco Moreno, Gonzalo Pincheira
+    - footer
+title: Forcael Eric, Medina Moisés, Opazo-Vega Alexander, Moreno Francisco, Pincheira Gonzalo
 description:
 tags:
  - additive
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing in the Construction Industry ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.autcon.2024.105888" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105888</a>
+#Additive Manufacturing in the Construction Industry ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105888" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105888" target="_blank">10.1016/j.autcon.2024.105888</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3036-4329" title="ORCID: 0000-0002-3036-4329" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forcael_eric"><b>Forcael</b>&nbsp;Eric</a></span>, <a href="../../../author/medina_moises"><b>Medina</b>&nbsp;Moisés</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9059-8242" title="ORCID: 0000-0001-9059-8242" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4058-9350" title="ORCID: 0000-0003-4058-9350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moreno_francisco"><b>Moreno</b>&nbsp;Francisco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5853-0448" title="ORCID: 0000-0002-5853-0448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pincheira_gonzalo"><b>Pincheira</b>&nbsp;Gonzalo</a></span><br>
+Journal Article - Automation in Construction, Vol. 169, No. 105888
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> <a href="https://orcid.org/0000-0002-3036-4329" title="ORCID: 0000-0002-3036-4329" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/medina_moises"><b>Medina</b> Moisés</a>
-,     <a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b> Alexander</a> <a href="https://orcid.org/0000-0001-9059-8242" title="ORCID: 0000-0001-9059-8242" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moreno_francisco"><b>Moreno</b> Francisco</a> <a href="https://orcid.org/0000-0003-4058-9350" title="ORCID: 0000-0003-4058-9350" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pincheira_gonzalo"><b>Pincheira</b> Gonzalo</a> <a href="https://orcid.org/0000-0002-5853-0448" title="ORCID: 0000-0002-5853-0448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 169, No. 105888
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210061258&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404797966" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105888" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105888?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     New sustainable technologies, such as additive manufacturing (AM), have recently been adopted in the construction industry, significantly reducing construction completion times and effectively repairing and remanufacturing components. While AM's implementation in construction is still diffuse, this review contributes to a better understanding of how this technology is interpreted and utilized, exploring the main trends in AM within the construction industry. The systematic review of recent publications identified eight critical topics for AM, whose processes are characterized by their materials: aggregate-based materials, metals, and polymers. The findings reveal an increase in the published works, with the United States, Germany, and China rising as the prominent contributors, where AM technologies are mainly defined by processes such as Material extrusion, Particle bed, Powder bed fusion, Directed energy deposition and Vat photopolymerization. Finally, other challenges regarding AM in the construction industry, such as its role in large-scale construction and prefabrication, are also discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "60 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -121,9 +102,39 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a>, <a href="../../../author/georgiou_ioulios"><b>Georgiou</b> Ioulios</a>, <a href="../../../author/carrasco-perez_emanuel_patricio"><b>Carrasco Pérez</b> Patricio</a>, <a href="../../../author/soria_romanella"><b>Soria</b> Romanella</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../band_geor_carr_sori.2025.DfACTDP/">Deployment for Additive Construction Through Digital Platforms:<br/>Gananoque Project as a Case Study</a></li>
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../alva_guer_gonz_pren.2025.MwMTA/">Mortars with Mining Tailings Aggregates:<br/>Implications for Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{forc_medi_opaz_more.2025.AMitCI,
+      author            = "Eric Forcael and Moisés Medina and Alexander Opazo-Vega and Francisco Moreno and Gonzalo Pincheira",
+      title             = "Additive Manufacturing in the Construction Industry",
+      doi               = "10.1016/j.autcon.2024.105888",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "169",
+      pages             = "105888",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Forcael, M. Medina, A. Opazo-Vega, F. Moreno and G. Pincheira, “Additive Manufacturing in the Construction Industry”, <i>Automation in Construction</i>, vol. 169, p. 105888, 2025, doi: 10.1016/j.autcon.2024.105888.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Forcael, Eric, Moisés Medina, Alexander Opazo-Vega, Francisco Moreno, and Gonzalo Pincheira. “Additive Manufacturing in the Construction Industry”. <i>Automation in Construction</i> 169 (2025): 105888. https://doi.org/10.1016/j.autcon.2024.105888.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

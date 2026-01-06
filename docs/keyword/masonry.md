@@ -8,7 +8,7 @@ search:
 
 # #masonry
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kul_koca_alde_yld.2024.3POPAAMDfBMW/">3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes</a></li>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_wang_zhu_wu.2025.Do3PCMfWS/">Design of 3D Printed Concrete Masonry for Wall Structures:<br/>Mechanical Behavior and Strength Calculation Methods Under Various Loads</a></li>
   <li><a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../teng_zhi_akba.2024.GMP/">Gradient Multimaterial Printing:<br/>Integrated and Tailored Thermal Insulation Through Gradient Multimaterial Additive Manufacturing for Masonry Architectural Components</a></li>

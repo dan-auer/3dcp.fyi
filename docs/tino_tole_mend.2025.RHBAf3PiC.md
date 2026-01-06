@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matheus Tinoco, Romildo Toledo Filho, Oscar Mendoza Reales
+    - footer
+title: Tinoco Matheus, Toledo Filho Romildo, Mendoza Reales Oscar
 description:
 tags:
  - aggregate
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rice Husk Bio-Aggregates for 3D Printing in Construction:<br/>:aca-blank: Balancing Fresh and Hardened Properties ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/978-3-031-92777-5_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-92777-5_1</a>
+#Rice Husk Bio-Aggregates for 3D Printing in Construction&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Balancing Fresh and Hardened Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92777-5_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92777-5_1" target="_blank">10.1007/978-3-031-92777-5_1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b>&nbsp;Matheus</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
+Contribution - Proceedings of the 6th International Conference on Bio-Based Building Materials, pp. 3-12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a> <a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 6th International Conference on Bio-Based Building Materials, pp. 3-12
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#bio`](keyword/bio)
-    [`#construction`](keyword/construction)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rice%20Husk%20Bio-Aggregates%20for%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009228542&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411108440" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-92777-5_1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-92777-5_1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing focus on sustainable construction has driven interest in 3D printing technology, particularly in developing bio-based cementitious composites that incorporate agricultural by-products. This strategy aims to improve the performance of printable materials while promoting an innovative solution for eco-friendly building practices. In this context, this paper investigates the effect of rice husk bio-aggregates on fresh properties, mechanical strength, and microstructure of 3D printable bio-based cementitious composites. A reference mortar was prepared with 0–0.6 mm natural sand and 0.38 water-to-cement ratio. Different volume fractions of rice husk were used (15%, 20%, and 25%). Rheological properties over time were assessed using fresh compression tests, while mechanical properties were evaluated through uniaxial compression tests, on both mold-cast and printed samples. Microstructure and porosity were analyzed using optical microscopy. The results demonstrated that rice husk increases the green strength, critical time, and structuration rate of the composites. Mechanical tests indicated that the addition of rice husk negatively affects compressive strength, due to an increase in porosity and debonding between the rice husk and the matrix. The findings indicate that the rice husk volumetric fraction should be carefully selected to optimize the rheological properties without excessively compromising the mechanical performance of cementitious composites for 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../rehm_perr_birr_kim.2023.RfQCiI3CPCwMCC/">Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete:<br/>A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
@@ -74,7 +55,38 @@ tags:
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../vare_tino_mend_tole.2024.3PCBCRwSF/">3D Printable Cement-Based Composites Reinforced with Sisal-Fibers:<br/>Rheology, Printability and Hardened Properties</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{tino_tole_mend.2025.RHBAf3PiC,
+      author            = "Matheus Pimentel Tinoco and Romildo Dias Toledo Filho and Oscar Aurelio Mendoza Reales",
+      title             = "Rice Husk Bio-Aggregates for 3D Printing in Construction: Balancing Fresh and Hardened Properties",
+      doi               = "10.1007/978-3-031-92777-5_1",
+      year              = "2025",
+      volume            = "60",
+      pages             = "3--12",
+      booktitle         = "Proceedings of the 6th International Conference on Bio-Based Building Materials: Volume 1 & 2",
+      editor            = "Sofiane Amziane and Romildo Dias Toledo Filho and M'hamed Yassin Rajiv da Gloria and Jonathan Page",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Tinoco, R. D. T. Filho and O. A. M. Reales, “Rice Husk Bio-Aggregates for 3D Printing in Construction: Balancing Fresh and Hardened Properties”, in <i>Proceedings of the 6th International Conference on Bio-Based Building Materials: Volume 1 & 2</i>,  2025, vol. 60, pp. 3–12. doi: 10.1007/978-3-031-92777-5_1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tinoco, Matheus Pimentel, Romildo Dias Toledo Filho, and Oscar Aurelio Mendoza Reales. “Rice Husk Bio-Aggregates for 3D Printing in Construction: Balancing Fresh and Hardened Properties”. In <i>Proceedings of the 6th International Conference on Bio-Based Building Materials: Volume 1 & 2</i>, edited by Sofiane Amziane, Romildo Dias Toledo Filho, M'hamed Yassin Rajiv da Gloria, and Jonathan Page, 60:3–12, 2025. https://doi.org/10.1007/978-3-031-92777-5_1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

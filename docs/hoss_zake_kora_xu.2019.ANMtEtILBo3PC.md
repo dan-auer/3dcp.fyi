@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ehsan Hosseini, Mohammad Zakertabrizi, Asghar Korayem, Guanzhong Xu
+    - footer
+title: Hosseini Ehsan, Zakertabrizi Mohammad, Korayem Asghar, Xu Guanzhong
 description:
 tags:
  - bond
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>:aca-blank: An Experimental and Computational Investigation ([2019-03](date/2019/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2019.03.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2019.03.008</a>
+#A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete&nbsp;([2019-03](date/2019/03))
+<div class="h1-like">An Experimental and Computational Investigation</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2019.03.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2019.03.008" target="_blank">10.1016/j.cemconcomp.2019.03.008</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1958-159X" title="ORCID: 0000-0003-1958-159X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hosseini_ehsan"><b>Hosseini</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9756-2445" title="ORCID: 0000-0001-9756-2445" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b>&nbsp;Asghar</a></span>, <a href="../../../author/xu_guanzhong"><b>Xu</b>&nbsp;Guanzhong</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 99, pp. 112-119
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a> <a href="https://orcid.org/0000-0003-1958-159X" title="ORCID: 0000-0003-1958-159X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a> <a href="https://orcid.org/0000-0001-9756-2445" title="ORCID: 0000-0001-9756-2445" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 99, pp. 112-119
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#experiment`](keyword/experiment)
-    [`#inter`](keyword/inter)
-    [`#investigation`](keyword/investigation)
-    [`#layer`](keyword/layer)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%20Method%20to%20Enhance%20the%20Inter-Layer%20Bonding%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85062895977&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2921961080" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2019.03.008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2019.03.008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focuses on one of the bottlenecks facing the concrete 3D printing technology, the lack of proper bonding between the two adjacent layers of 3D printed concrete. Herein, a new polymer consisting of black carbon and sulfur was used to glue the two layers together. The experimental results, verified via molecular dynamics and density functional theory calculations, showed a considerable increase in the interlayer bonding strength. Two-fold rise in interlayer tensile strength as well as chemical cohesion depicted by scanning electron microscopy proves this approach to be successful in providing enhanced bonding between two adjacent printed mortar layers without hindering the printing process. The improvement arises from different types of forces in the interlayer region of modified samples, compared to that of the interlayer region of original sample. The uniform surface provided by the hardened polymer is a good substrate for the top layer in addition to extending the time gap between printing layers. This novel method can accelerate the automation of the construction industry, while reducing the costs in terms of both human labor and capital.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -89,14 +66,13 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "125 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
@@ -223,4 +199,34 @@ tags:
       <li><a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/rabenantoandro_zaid_andry"><b>Rabenantoandro</b> Andry</a>, <a href="../../../author/moussaoui_soufiane"><b>Moussaoui</b> Soufiane</a>, <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../lafh_rabe_mous_dakh.2019.EAfPA/">Experimental Approach for Printability-Assessment:<br/>Toward a Practical Decision-Making Framework of Printability for Cementitious Materials</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hoss_zake_kora_xu.2019.ANMtEtILBo3PC,
+      author            = "Ehsan Hosseini and Mohammad Zakertabrizi and Asghar Habibnejad Korayem and Guanzhong Xu",
+      title             = "A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete: An Experimental and Computational Investigation",
+      doi               = "10.1016/j.cemconcomp.2019.03.008",
+      year              = "2019",
+      journal           = "Cement and Concrete Composites",
+      volume            = "99",
+      pages             = "112--119",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Hosseini, M. Zakertabrizi, A. H. Korayem and G. Xu, “A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete: An Experimental and Computational Investigation”, <i>Cement and Concrete Composites</i>, vol. 99, pp. 112–119, 2019, doi: 10.1016/j.cemconcomp.2019.03.008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hosseini, Ehsan, Mohammad Zakertabrizi, Asghar Habibnejad Korayem, and Guanzhong Xu. “A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete: An Experimental and Computational Investigation”. <i>Cement and Concrete Composites</i> 99 (2019): 112–19. https://doi.org/10.1016/j.cemconcomp.2019.03.008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

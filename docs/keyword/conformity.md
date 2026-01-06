@@ -8,7 +8,7 @@ search:
 
 # #conformity
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a>, <a href="../../../author/andreou_alexis"><b>Andreou</b> Alexis</a>, <a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kont_geor_andr_andr.2025.MaELHtWRi3THGC/">Measuring and Evaluating Layer Height to Width Ratio in 3DCP Towards Higher Geometric Conformity</a></li>
   <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a>, <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../capu_farr_bile_duar.2025.VBSaDTTiC3CP/">Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing:<br/>Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications</a></li>
   <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/jovanovic_balsa"><b>Jovanović</b> Balša</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../mira_jova_lesa_schu.2023.GCo3CPMfaRP/">Geometric Conformability of 3D Concrete Printing Mixtures from a Rheological Perspective</a></li>

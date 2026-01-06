@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ronald Rael, Virginia Fratello
+    - footer
+title: Rael Ronald, Fratello Virginia
 description:
 tags:
  - buildability
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/acadia11_152.content.pdf) Developing Concrete Polymer Building Components for 3D Printing ([2011-10](date/2011/10))
-<a href="https://doi.org/10.52842/conf.acadia.2011.152" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.acadia.2011.152</a>
+#Developing Concrete Polymer Building Components for 3D Printing ([2011-10](date/2011/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia11_152.content.pdf) <a href="https://doi.org/10.52842/conf.acadia.2011.152" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2011.152" target="_blank">10.52842/conf.acadia.2011.152</a>
 
--------------------------
+<a href="../../../author/rael_ronald"><b>Rael</b>&nbsp;Ronald</a></span>, <a href="../../../author/fratello_virginia"><b>san&nbsp;Fratello</b>&nbsp;Virginia</a></span><br>
+Contribution - Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 152-157
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>
-,     <a href="../../../author/fratello_virginia"><b>san Fratello</b> Virginia</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 152-157
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Developing%20Concrete%20Polymer%20Building%20Components%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,20 +36,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2566449662" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.acadia.2011.152" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.acadia.2011.152?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The creation of building components that can be seen as sustainable, inexpensive, stronger, recyclable, customizable and perhaps even reparable to the environment is an urgent, and critical focus of architectural research. In the U.S. alone, the construction industry produced 143.5 million tons of building-related construction and demolition debris in 2008, and buildings, in their consumption of energy produce more greenhouse gasses than automobiles or industry. Because the inherent nature of 3D printing opens new possibilities for shaping materials, the process will reshape the way we think about architectural building components. Digital materiality, a term coined by Italian and Swiss architects Fabio Gramazio and Matthias Kohler, describes materiality increasingly enriched with digital characteristics where data, material, programming and construction are interwoven (Gramazio and Kohler, 2008). The research aspires towards this classification through the use of parametric modeling tools, analytic software and quantitative and qualitative analysis. Rapid prototyping, which is the automatic construction of physical objects using additive manufacturing technology, typically employs materials intended for the immediate analysis of form, scale, and tactility. Rarely do the materials used in this process have any long-term value, nor does the process - except in rare cases with expensive metal prototyping - have the ability to create actual and sustainable working products. This research intends to alter this state of affairs by developing methods for 3D printing using concrete for the production of longlasting performance-based components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/najar_mohamed"><b>Najar</b> Mohamed</a>, <a href="../../../author/deshpande_sachin"><b>Deshpande</b> Sachin</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../sakh_naja_desh.2024.PPo3PGTPEBP/">Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties:<br/>A Review</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_nan"><b>Wang</b> Nan</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../liu_wang_zhan_ma.2024.OoPPaMPfPB3PMPCUFA/">Optimization of Printing Precision and Mechanical Property for Powder-Based 3D Printed Magnesium Phosphate Cement Using Fly-Ash</a></li>
       <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../sure_trip_neit.2023.AiAMCSUCL/">Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading:<br/>Quantification of the Effects of Layer-Height and Fiber-Reinforcement</a></li>
@@ -102,4 +84,34 @@ tags:
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{rael_frat.2011.DCPBCf3P,
+      author            = "Ronald Rael and Virginia san Fratello",
+      title             = "Developing Concrete Polymer Building Components for 3D Printing",
+      doi               = "10.52842/conf.acadia.2011.152",
+      year              = "2011",
+      pages             = "152--157",
+      booktitle         = "Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture",
+      editor            = "Joshua M. Taron and Vera Parlac and Branko Kolarevic and Jason S. Johnson",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Rael  and V. san Fratello, “Developing Concrete Polymer Building Components for 3D Printing”, in <i>Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture</i>,  2011, pp. 152–157. doi: 10.52842/conf.acadia.2011.152.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rael, Ronald, and Virginia san Fratello. “Developing Concrete Polymer Building Components for 3D Printing”. In <i>Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture</i>, edited by Joshua M. Taron, Vera Parlac, Branko Kolarevic, and Jason S. Johnson, 152–57, 2011. https://doi.org/10.52842/conf.acadia.2011.152.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Freek Bos, Emanuela Bosco, Theo Salet
+    - footer
+title: Bos Freek, Bosco Emanuela, Salet Theo
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2018.1548069?needAccess=true) Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers ([2018-11](date/2018/11))
-<a href="https://doi.org/10.1080/17452759.2018.1548069" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2018.1548069</a>
+#Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers ([2018-11](date/2018/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2018.1548069?needAccess=true) <a href="https://doi.org/10.1080/17452759.2018.1548069" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2018.1548069" target="_blank">10.1080/17452759.2018.1548069</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1985-2150" title="ORCID: 0000-0003-1985-2150" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bosco_emanuela"><b>Bosco</b>&nbsp;Emanuela</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 14, Iss. 2, pp. 160-174
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a> <a href="https://orcid.org/0000-0003-1985-2150" title="ORCID: 0000-0003-1985-2150" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 14, Iss. 2, pp. 160-174
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#ductility`](keyword/ductility)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#short`](keyword/short)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Ductility%20of%203D%20Printed%20Concrete%20Reinforced%20with%20Short%20Straight%20Steel-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85057546258&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2901027061" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2018.1548069" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2018.1548069?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the number of 3D printed concrete structures rapidly increasing, the demand for concepts that allow for robust and ductile printed objects becomes increasingly pressing. An obvious solution strategy is the inclusion of fibers in the printed material. In this study, the effect of adding short straight steel fibers on the failure behaviour of Weber 3D 115-1 print mortar has been studied through several CMOD tests on cast and printed concrete, on different scales. The experiments have also been simulated numerically. The research has shown that the fibers cause an important increase in flexural strength, and eliminate the strength difference between cast and printed concrete that exists without fibers. The post-peak behaviour, nevertheless, has to be characterised as strongly strain-softening. In the printed specimens, a strong fiber orientation in the direction of the filament occurs. However, this has no notable effect on the performance in the tested direction: cast and printed concrete with fibers behave similarly in the CMOD test. For the key parameters, no scale effect was found for the specimens with fibers, contrary to the ones without. Numerical modelling of the test by using the Concrete Damage Plasticity material model of Abaqus, with a Thorenfeldt-based constitutive law in compression and a customised constitutive law in tension, results in a reasonable fit with the experimental results
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -84,8 +64,9 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "172 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bran_dias_aros_reis.2026.UoWF/">Upcycling of Waste Fibers:<br/>Enhancing Structural Integrity in 3DCP Through Fiber Reinforcement</a></li>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P/">Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
@@ -258,4 +239,35 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bos_bosc_sale.2019.Do3PCRwSSSF,
+      author            = "Freek Paul Bos and Emanuela Bosco and Theo A. M. Salet",
+      title             = "Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers",
+      doi               = "10.1080/17452759.2018.1548069",
+      year              = "2019",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "14",
+      number            = "2",
+      pages             = "160--174",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. P. Bos, E. Bosco and T. A. M. Salet, “Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers”, <i>Virtual and Physical Prototyping</i>, vol. 14, no. 2, pp. 160–174, 2019, doi: 10.1080/17452759.2018.1548069.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bos, Freek Paul, Emanuela Bosco, and Theo A. M. Salet. “Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers”. <i>Virtual and Physical Prototyping</i> 14, no. 2 (2019): 160–74. https://doi.org/10.1080/17452759.2018.1548069.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

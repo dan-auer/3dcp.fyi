@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Viktor Mechtcherine, Jasmin Grafe, Venkatesh Nerella, Erik Spaniol, Martin Hertel, Uwe Füssel
+    - footer
+title: Mechtcherine Viktor, Grafe Jasmin, Nerella Venkatesh, Spaniol Erik, Hertel Martin, Füssel Uwe
 description:
 tags:
  - behavior
@@ -19,37 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>:aca-blank: Manufacture, Mechanical Properties and Bond Behavior ([2018-05](date/2018/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2018.05.202" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2018.05.202</a>
+#3D Printed Steel-Reinforcement for Digital Concrete Construction&nbsp;([2018-05](date/2018/05))
+<div class="h1-like">Manufacture, Mechanical Properties and Bond Behavior</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2018.05.202" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.05.202" target="_blank">10.1016/j.conbuildmat.2018.05.202</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/grafe_jasmin"><b>Grafe</b>&nbsp;Jasmin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <a href="../../../author/spaniol_erik"><b>Spaniol</b>&nbsp;Erik</a></span>, <a href="../../../author/hertel_martin"><b>Hertel</b>&nbsp;Martin</a></span>, <a href="../../../author/fussel_uwe"><b>Füssel</b>&nbsp;Uwe</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 179, pp. 125-137
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a>
-,     <a href="../../../author/hertel_martin"><b>Hertel</b> Martin</a>
-,     <a href="../../../author/fussel_uwe"><b>Füssel</b> Uwe</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 179, pp. 125-137
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Steel-Reinforcement%20for%20Digital%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85045276359&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,28 +42,23 @@ tags:
 <a href="https://inciteful.xyz/p/W2807049491" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2018.05.202" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2018.05.202?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital concrete construction has recently become the subject of very rapidly growing research activities all over the world. Various technologies involving 3D-printing with concrete have been developed, and the number of demonstration projects and practical applications has been increasing exponentially. Most of these approaches are focused on the placement of concrete, while the suggested solutions for incorporation of reinforcement are still rudimentary, and as such they lag behind the concepts for printing concrete. Since the use of (steel) reinforcement is mandatory in most structural applications, there is an urgent need to bring the technology of reinforcing 3D-printed structural elements forward. The article starts with a brief overview of the existing approaches in using reinforcement in digital concrete construction. Then the authors’ own research work is presented, namely a feasibility study on 3D-printing of steel reinforcement using gas-metal arc welding. A description of the newly developed 3D-printing process is followed by a demonstration of its feasibility in producing vertical steel reinforcement bars with and without extra ribs. The mechanical performance of the printed bars was investigated by means of uniaxial tension tests. The samples exhibited comparable mechanical properties to common steel reinforcement of the same diameter. The investigation of fracture surfaces confirmed a ductile mode of failure of the printed steel bars. Finally, the bond between printed steel bars and printable fine-grained concrete was tested by means of pull-out experiments. Here the overall performance could be rated as satisfactory, even though it could be improved by introducing extra ribs in the process of bar manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../mech_nere.2018.3PwC/">3D Printing with Concrete:<br/>State-of-the-Art, Trends, Challenges</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../mech_nere.2018.IRi3PwC/">Incorporating Reinforcement in 3D-Printing with Concrete</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "219 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
       <li><a href="../../../author/huang_qunyi"><b>Huang</b> Qunyi</a>, <a href="../../../author/huang_qingyu"><b>Huang</b> Qingyu</a>, <a href="../../../author/yang_hong"><b>Yang</b> Hong</a>, <a href="../../../author/zhang_jiahang"><b>Zhang</b> Jiahang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_huan_yang_zhan.2026.RotWo3PFRCM/">Research on the Workability of 3D Printed Fiber-Reinforced Concrete Materials</a></li>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
@@ -304,7 +277,35 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../mech_nere_ogur_graf.2019.ARfDCC/">Alternative Reinforcements for Digital Concrete Construction</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../nere_ogur_mech.2018.IRiDCC/">Incorporating Reinforcement into Digital Concrete Construction</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../mech_nere.2018.IRi3PwC/">Incorporating Reinforcement in 3D-Printing with Concrete</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../mech_nere.2018.3PwC/">3D Printing with Concrete:<br/>State-of-the-Art, Trends, Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mech_graf_nere_span.2018.3PSRfDCC,
+      author            = "Viktor Mechtcherine and Jasmin Grafe and Venkatesh Naidu Nerella and Erik Spaniol and Martin Hertel and Uwe Füssel",
+      title             = "3D Printed Steel-Reinforcement for Digital Concrete Construction: Manufacture, Mechanical Properties and Bond Behavior",
+      doi               = "10.1016/j.conbuildmat.2018.05.202",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "179",
+      pages             = "125--137",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Mechtcherine, J. Grafe, V. N. Nerella, E. Spaniol, M. Hertel and U. Füssel, “3D Printed Steel-Reinforcement for Digital Concrete Construction: Manufacture, Mechanical Properties and Bond Behavior”, <i>Construction and Building Materials</i>, vol. 179, pp. 125–137, 2018, doi: 10.1016/j.conbuildmat.2018.05.202.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mechtcherine, Viktor, Jasmin Grafe, Venkatesh Naidu Nerella, Erik Spaniol, Martin Hertel, and Uwe Füssel. “3D Printed Steel-Reinforcement for Digital Concrete Construction: Manufacture, Mechanical Properties and Bond Behavior”. <i>Construction and Building Materials</i> 179 (2018): 125–37. https://doi.org/10.1016/j.conbuildmat.2018.05.202.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

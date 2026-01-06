@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thadshajini Suntharalingam, Brabha Nagaratnam, Keerthan Poologanathan, Phil Hackney, Jeffri Ramli
+    - footer
+title: Suntharalingam Thadshajini, Nagaratnam Brabha, Poologanathan Keerthan, Hackney Phil, Ramli Jeffri
 description:
 tags:
  - cement
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://nrl.northumbria.ac.uk/id/eprint/41636/1/EFFECT_OF_POLYPROPYLENE_FIBRES_ON_THE_WORKABILITY_PARAMETERS_OF_EXTRUDABLE_CEMENTITIOUS_MATERIALS.pdf) Effect of Polypropylene-Fibers on the Mechanical Properties of Extrudable Cementitious Material ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_53" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_53</a>
+#Effect of Polypropylene-Fibers on the Mechanical Properties of Extrudable Cementitious Material ([2020-07](date/2020/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://nrl.northumbria.ac.uk/id/eprint/41636/1/EFFECT_OF_POLYPROPYLENE_FIBRES_ON_THE_WORKABILITY_PARAMETERS_OF_EXTRUDABLE_CEMENTITIOUS_MATERIALS.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_53" target="_blank">10.1007/978-3-030-49916-7_53</a>
 
--------------------------
+<a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b>&nbsp;Thadshajini</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8818-7567" title="ORCID: 0000-0001-8818-7567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b>&nbsp;Brabha</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b>&nbsp;Keerthan</a></span>, <a href="../../../author/hackney_phil"><b>Hackney</b>&nbsp;Phil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2814-831X" title="ORCID: 0000-0002-2814-831X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramli_jeffri"><b>Ramli</b>&nbsp;Jeffri</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 516-526
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>
-,     <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a> <a href="https://orcid.org/0000-0001-8818-7567" title="ORCID: 0000-0001-8818-7567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> <a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hackney_phil"><b>Hackney</b> Phil</a>
-,     <a href="../../../author/ramli_jeffri"><b>Ramli</b> Jeffri</a> <a href="https://orcid.org/0000-0002-2814-831X" title="ORCID: 0000-0002-2814-831X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 516-526
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Polypropylene-Fibers%20on%20the%20Mechanical%20Properties%20of%20Extrudable%20Cementitious%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088244248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2991335798" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_53" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_53?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) has aa potentiality to produce complex, geometries and can modify the details rapidly using a printer integrated with a pump and nozzle. From the earlier studies on 3DCP, it is distinguished that the rheological behaviour of the material, printing direction, and printing time may have significant effects on the overall structural behaviour of the printed structure. The layered concrete may create weak joints in the specimens and reduce the load bearing capacity in terms of compressive, tensile and flexural strength that requires stress transfer across or along these joints The present study focuses on the examination of the effect of adding polypropylene (PP) fibres on the failure behaviour of print mortar on printed concrete, on different print directions. The Silica Fume (SF) based control mix was used in the analysis with fibre addition in different mass fraction of binder ranging from 0.5% to 3.0%. Those mixes were designated after the detailed fresh property analysis and control cementitious specimens without fibre inclusion were also printed for comparison. The specimens were collected in different orientations from manual extruded concrete blocks and tested for mechanical properties. For the materials tested, it is found that the mechanical properties such as compressive and flexural strength of extruded samples are governed by its printing directions. The mixes with 1.0% and 0.5% PP fibre addition exhibit the better performance in terms offlexural strength and 0.5% PP mix can be considered as the optimum fibre content with respect to the compressive strength
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -82,11 +60,10 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/hackney_phil"><b>Hackney</b> Phil</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sunt_naga_pool_hack.2021.EoPFotWPoECM/">Effect of Polypropylene-Fibers on the Workability Parameters of Extrudable Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/hassan_amer"><b>Hassan</b> Amer</a>, <a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a>, <a href="../../../author/noaman_faisal_mohammed"><b>Noaman</b> Mohammed</a>, <a href="../../../author/zhang_chunwei"><b>Zhang</b> Chunwei</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hass_alom_noam_zhan.2025.3PCfSC/">3D Printed Concrete for Sustainable Construction:<br/>A Review of Mechanical Properties and Environmental Impact</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
@@ -100,4 +77,35 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../sunt_upas_gath_pool.2021.FRo3PCCWPEtVFS/">Fire-Resistance of 3D Printed Concrete Composite Wall Panels Exposed to Various Fire Scenarios</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sunt_naga_pool_hack.2020.EoPFotMPoECM,
+      author            = "Thadshajini Suntharalingam and Brabha Nagaratnam and Keerthan Poologanathan and Phil Hackney and Jeffri Ramli",
+      title             = "Effect of Polypropylene-Fibers on the Mechanical Properties of Extrudable Cementitious Material",
+      doi               = "10.1007/978-3-030-49916-7_53",
+      year              = "2020",
+      volume            = "28",
+      pages             = "516--526",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Suntharalingam, B. Nagaratnam, K. Poologanathan, P. Hackney and J. Ramli, “Effect of Polypropylene-Fibers on the Mechanical Properties of Extrudable Cementitious Material”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 516–526. doi: 10.1007/978-3-030-49916-7_53.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Suntharalingam, Thadshajini, Brabha Nagaratnam, Keerthan Poologanathan, Phil Hackney, and Jeffri Ramli. “Effect of Polypropylene-Fibers on the Mechanical Properties of Extrudable Cementitious Material”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:516–26, 2020. https://doi.org/10.1007/978-3-030-49916-7_53.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

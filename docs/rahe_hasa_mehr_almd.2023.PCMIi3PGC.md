@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sahand Rahemipoor, Masoud Hasany, Mohammad Mehrali, Kristoffer Almdal, Navid Ranjbar, Mehdi Mehrali
+    - footer
+title: Rahemipoor Sahand, Hasany Masoud, Mehrali Mohammad, Almdal Kristoffer, Ranjbar Navid, Mehrali Mehdi
 description:
 tags:
  - approach
@@ -21,39 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jclepro.2023.138005) Phase-Change-Materials Incorporation into 3D Printed Geopolymer Cement:<br/>:aca-blank: A Sustainable Approach to Enhance the Comfort and Energy Efficiency of Buildings ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.jclepro.2023.138005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2023.138005</a>
+#Phase-Change-Materials Incorporation into 3D Printed Geopolymer Cement&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">A Sustainable Approach to Enhance the Comfort and Energy Efficiency of Buildings</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jclepro.2023.138005) <a href="https://doi.org/10.1016/j.jclepro.2023.138005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.138005" target="_blank">10.1016/j.jclepro.2023.138005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1426-0105" title="ORCID: 0000-0003-1426-0105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahemipoor_sahand"><b>Rahemipoor</b>&nbsp;Sahand</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1407-257X" title="ORCID: 0000-0002-1407-257X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasany_masoud"><b>Hasany</b>&nbsp;Masoud</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6667-9368" title="ORCID: 0000-0001-6667-9368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mehrali_mohammad"><b>Mehrali</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5490-9303" title="ORCID: 0000-0002-5490-9303" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/almdal_kristoffer"><b>Almdal</b>&nbsp;Kristoffer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1485-3931" title="ORCID: 0000-0002-1485-3931" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranjbar_navid"><b>Ranjbar</b>&nbsp;Navid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mehrali_mehdi"><b>Mehrali</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 417
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rahemipoor_sahand"><b>Rahemipoor</b> Sahand</a> <a href="https://orcid.org/0000-0003-1426-0105" title="ORCID: 0000-0003-1426-0105" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a> <a href="https://orcid.org/0000-0002-1407-257X" title="ORCID: 0000-0002-1407-257X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mehrali_mohammad"><b>Mehrali</b> Mohammad</a> <a href="https://orcid.org/0000-0001-6667-9368" title="ORCID: 0000-0001-6667-9368" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/almdal_kristoffer"><b>Almdal</b> Kristoffer</a> <a href="https://orcid.org/0000-0002-5490-9303" title="ORCID: 0000-0002-5490-9303" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ranjbar_navid"><b>Ranjbar</b> Navid</a> <a href="https://orcid.org/0000-0002-1485-3931" title="ORCID: 0000-0002-1485-3931" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 417, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#change`](keyword/change)
-    [`#efficient`](keyword/efficient)
-    [`#energy`](keyword/energy)
-    [`#enhancement`](keyword/enhancement)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#incorporation`](keyword/incorporation)
-    [`#material`](keyword/material)
-    [`#phase`](keyword/phase)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Phase-Change-Materials%20Incorporation%20into%203D%20Printed%20Geopolymer%20Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164697763&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383373759" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2023.138005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2023.138005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advent of 3D printing has revolutionized conventional construction, offering cost-effective and fast construction of complex structures. Nevertheless, there remain challenges to be addressed regarding the effective integration of functional additives into 3D printing construction materials. Herein, we present a straightforward and environmentally friendly approach to promote sustainable buildings while reducing energy consumption. This is achieved by integrating Macroencapsulated Phase Change Materials (MEPCM) into a 3D printable geopolymer paste (GPP) derived from fly ashes. The research followed a systematic methodology, encompassing the assessment of fresh and hardened properties of geopolymer pastes with varying amounts of MEPCM, analyzing their thermal properties, and investigating the thermal performance by printing miniature houses without and with 20 vol% MEPCM. Notably, MEPCM demonstrated its dual functionality as a thermal energy management component and a viscosity modifier for 3D printable geopolymer paste. Overall, this study paves an innovative path toward sustainable construction, highlighting the significance of energy efficiency and waste reduction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/brooks_lee_adam"><b>Brooks</b> Adam</a>, <a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b> Shayan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../broo_he_farz_seyf.2022.IPETESi3PCC/">Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites</a></li>
       <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yang_haibin"><b>Yang</b> Haibin</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../cui_yu_cao_yang.2022.EoPaTPo3PCMwPCM/">Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials</a></li>
@@ -90,8 +62,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a>, <a href="../../../author/naseem_rabia"><b>Naseem</b> Rabia</a>, <a href="../../../author/yao_yonggang"><b>Yao</b> Yonggang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../shah_shen_nase_yao.2021.IoPCMoCBfC3P/">Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
       <li><a href="../../../author/kim_ki_young"><b>Kim</b> Young</a>, <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>, <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_scop_hadd.2025.AIitRo3PiRB/">An Investigation into the Role of 3D Printing in Residential Buildings:<br/>An Emirati Housing Case Study</a></li>
       <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a>, <a href="../../../author/sanchez_salgado_p"><b>Sánchez</b> P.</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/ezquerro_m_j"><b>Ezquerro</b> J.</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kach_sanc_moll_ezqu.2025.NAoC3PLH/">Numerical Analysis of Coaxially 3D Printed Lunar Habitats:<br/>Integrating Regolith and PCM for Passive Temperature Control</a></li>
@@ -108,4 +80,33 @@ tags:
       <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rahe_hasa_mehr_almd.2023.PCMIi3PGC,
+      author            = "Sahand Rahemipoor and Masoud Hasany and Mohammad Mehrali and Kristoffer Almdal and Navid Ranjbar and Mehdi Mehrali",
+      title             = "Phase-Change-Materials Incorporation into 3D Printed Geopolymer Cement: A Sustainable Approach to Enhance the Comfort and Energy Efficiency of Buildings",
+      doi               = "10.1016/j.jclepro.2023.138005",
+      year              = "2023",
+      journal           = "Journal of Cleaner Production",
+      volume            = "417",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Rahemipoor, M. Hasany, M. Mehrali, K. Almdal, N. Ranjbar and M. Mehrali, “Phase-Change-Materials Incorporation into 3D Printed Geopolymer Cement: A Sustainable Approach to Enhance the Comfort and Energy Efficiency of Buildings”, <i>Journal of Cleaner Production</i>, vol. 417, 2023, doi: 10.1016/j.jclepro.2023.138005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rahemipoor, Sahand, Masoud Hasany, Mohammad Mehrali, Kristoffer Almdal, Navid Ranjbar, and Mehdi Mehrali. “Phase-Change-Materials Incorporation into 3D Printed Geopolymer Cement: A Sustainable Approach to Enhance the Comfort and Energy Efficiency of Buildings”. <i>Journal of Cleaner Production</i> 417 (2023). https://doi.org/10.1016/j.jclepro.2023.138005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

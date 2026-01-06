@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaoyan Sun, Boxing Ye, Kangjian Lin, Hailong Wang
+    - footer
+title: Sun Xiaoyan, Ye Boxing, Lin Kangjian, Wang Hailong
 description:
 tags:
  - base
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.jobe.2021.103860" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.103860</a>
+#Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.103860" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103860" target="_blank">10.1016/j.jobe.2021.103860</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <a href="../../../author/ye_boxing"><b>Ye</b>&nbsp;Boxing</a></span>, <a href="../../../author/lin_kangjian"><b>Lin</b>&nbsp;Kangjian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 48
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_boxing"><b>Ye</b> Boxing</a>
-,     <a href="../../../author/lin_kangjian"><b>Lin</b> Kangjian</a>
-,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 48, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#flexibility`](keyword/flexibility)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rigid`](keyword/rigid)
-    [`#shear`](keyword/shear)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexibility"><button class="btn">#flexibility</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rigid"><button class="btn">#rigid</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Shear-Performance%20of%203D%20Printed%20Concrete%20Reinforced%20with%20Flexible%20or%20Rigid%20Materials%20Based%20on%20Direct-Shear-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121604102&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200537011" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.103860" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.103860?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Flexible and rigid materials, such as stainless steel cable (SSC), stainless steel cable with blades (SSCB), stainless steel cable mesh (SSCM), and carbon fibre reinforced polymer grid (CFG), were used to reinforce printed concrete. Based on the directed double-sided shear test, the shear responses of printed concrete, such as the failure mode, shear strength, and shear load–displacement curve, were obtained, and the enhancement efficiencies of different reinforcing methods were discussed by considering the variation in the ratio of reinforcement. Furthermore, the mechanical mechanism was proposed, and prediction models were established based on the different contributions of the flexible and rigid reinforcing materials to the shear behaviour of printed concrete. The results indicated that the stiffness of the reinforcing materials evidently affects the shear performance of printed concrete, and lateral reinforcement is beneficial for improving the shear strength and toughness of printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -90,8 +66,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
@@ -112,4 +88,33 @@ tags:
       <li><a href="../../../author/budiman_franky"><b>Budiman</b> Franky</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a>, <a href="../../../author/halim_alvin"><b>Halim</b> Alvin</a>, <a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b> Pamuda</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../budi_chan_hali_pudj.2023.FaSBo3PRCB/">Flexural and Shear Behavior of 3D Printed Reinforced Concrete Beams:<br/>An Experimental Study</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_ye_lin_wang.2022.SPo3PCRwFoRMBoDST,
+      author            = "Xiaoyan Sun and Boxing Ye and Kangjian Lin and Hailong Wang",
+      title             = "Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test",
+      doi               = "10.1016/j.jobe.2021.103860",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "48",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Sun, B. Ye, K. Lin and H. Wang, “Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test”, <i>Journal of Building Engineering</i>, vol. 48, 2022, doi: 10.1016/j.jobe.2021.103860.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Xiaoyan, Boxing Ye, Kangjian Lin, and Hailong Wang. “Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test”. <i>Journal of Building Engineering</i> 48 (2022). https://doi.org/10.1016/j.jobe.2021.103860.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

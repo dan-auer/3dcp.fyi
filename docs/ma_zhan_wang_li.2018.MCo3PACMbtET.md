@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guowei Ma, Junfei Zhang, Li Wang, Zhijian Li, Junbo Sun
+    - footer
+title: Ma Guowei, Zhang Junfei, Wang Li, Li Zhijian, Sun Junbo
 description:
 tags:
  - anisotropy
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer ([2018-06](date/2018/06))
-<a href="https://doi.org/10.1088/1361-665x/aac789" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1361-665x/aac789</a>
+#Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer ([2018-06](date/2018/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1088/1361-665x/aac789" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1361-665x/aac789" target="_blank">10.1088/1361-665x/aac789</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9241-9367" title="ORCID: 0000-0001-9241-9367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_junfei"><b>Zhang</b>&nbsp;Junfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span><br>
+Journal Article - Smart Materials and Structures, Vol. 27, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> <a href="https://orcid.org/0000-0001-9241-9367" title="ORCID: 0000-0001-9241-9367" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Smart Materials and Structures, Vol. 27, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Characterization%20of%203D%20Printed%20Anisotropic%20Cementitious%20Material%20by%20the%20Electromechanical%20Transducer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85049677082&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2804150194" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1361-665x/aac789" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1361-665x/aac789?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an innovative and promising construction method that is rapidly gaining ground in recent years. This technique extrudes premixed concrete materials through a nozzle to build structural components layer upon layer without formworks. The build-up process of depositing filaments or layers intrinsically produce laminated structures and create weak joints between adjacent layers. It is of great significance to clearly elaborate the mechanical characteristics of 3D printed components response to various applied loads and the different performance from the mould-cast ones. In this study, a self-developed 3D printing system was invented and applied to fabricate concrete samples. Three points bending test and direct double shear test were carried out to investigate the mechanical properties of 3D printed prisms. The anisotropic behaviors were probed by loading in different directions. Meanwhile, piezoelectric lead zirconate titanate (PZT) transducers were implemented to monitor the damage evolution of the printed samples in the loading process based on the electromechanical impedance method. Test results demonstrate that the tensile stresses perpendicular to the weaken interfaces formed between filaments were prone to induce cracks than those parallel to the interfaces. The damages of concrete materials resulted in the decrease in the frequency and a change in the amplitude in the conductance spectrum acquired by mounted PZT patches. The admittance signatures showed a clear gradation of the examined damage levels of printed prisms exposed to applied loadings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -78,8 +57,9 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "73 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
@@ -153,4 +133,34 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ma_li_wang_bai.2019.MCRGCfEB3P/">Micro-Cable-Reinforced Geopolymer Composite for Extrusion-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_zhan_wang_li.2018.MCo3PACMbtET,
+      author            = "Guowei Ma and Junfei Zhang and Li Wang and Zhijian Li and Junbo Sun",
+      title             = "Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer",
+      doi               = "10.1088/1361-665x/aac789",
+      year              = "2018",
+      journal           = "Smart Materials and Structures",
+      volume            = "27",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Ma, J. Zhang, L. Wang, Z. Li and J. Sun, “Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer”, <i>Smart Materials and Structures</i>, vol. 27, no. 7, 2018, doi: 10.1088/1361-665x/aac789.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Guowei, Junfei Zhang, Li Wang, Zhijian Li, and Junbo Sun. “Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer”. <i>Smart Materials and Structures</i> 27, no. 7 (2018). https://doi.org/10.1088/1361-665x/aac789.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

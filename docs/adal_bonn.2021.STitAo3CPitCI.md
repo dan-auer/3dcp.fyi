@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Max Adaloudis, Jaime Bonnin Roca
+    - footer
+title: Adaloudis Max, Bonnin Roca Jaime
 description:
 tags:
  - adoption
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jclepro.2021.127201) Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry ([2021-05](date/2021/05))
-<a href="https://doi.org/10.1016/j.jclepro.2021.127201" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2021.127201</a>
+#Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry ([2021-05](date/2021/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jclepro.2021.127201) <a href="https://doi.org/10.1016/j.jclepro.2021.127201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2021.127201" target="_blank">10.1016/j.jclepro.2021.127201</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0883-4619" title="ORCID: 0000-0003-0883-4619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adaloudis_max"><b>Adaloudis</b>&nbsp;Max</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4244-0357" title="ORCID: 0000-0003-4244-0357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b>&nbsp;Jaime</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 307
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a> <a href="https://orcid.org/0000-0003-0883-4619" title="ORCID: 0000-0003-0883-4619" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="https://orcid.org/0000-0003-4244-0357" title="ORCID: 0000-0003-4244-0357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 307, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainability%20Tradeoffs%20in%20the%20Adoption%20of%203D%20Concrete%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105274147&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3158863374" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2021.127201" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2021.127201?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, 3D Concrete Printing (3DCP) has gained traction as a technological solution for reducing cement production’s hefty carbon footprint. Studies assessing the sustainability benefits of 3DCP have not included its impact on social sustainability, nor how construction firms’ implementation of this new technology has affected its success. This study applies grounded theory methods to analyze the tradeoffs between environmental, economic, and social sustainability, and how firms’ decisions impact these tradeoffs. We gather insights from 20 interviews with 3DCP pioneers in Central and Northern Europe. Our findings suggest that firms’ greatest incentive to invest in the technology is not related to the environmental benefits, but rather 3DCP’s potential to increase automation and combat the current shortage of skilled labor in the construction sector. Current government procurement rules do not reward sustainability benefits sufficiently to encourage the uptake of 3DCP. Based on our findings, we identify five strategic decisions that companies make which affect 3DCP’s sustainability, and discuss opportunities for government to foster the adoption of this technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -75,8 +57,9 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "57 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
@@ -134,4 +117,33 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sunt_upas_naga_pool.2022.FEMtPtFPoBI3PCWPEtRF/">Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire</a></li>
       <li><a href="../../../author/pajonk_adam"><b>Pajonk</b> Adam</a>, <a href="../../../author/prieto_alejandro"><b>Prieto</b> Alejandro</a>, <a href="../../../author/blum_ulrich"><b>Blum</b> Ulrich</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../pajo_prie_blum_knaa.2022.MMAMiAaC/">Multi-Material Additive Manufacturing in Architecture and Construction:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{adal_bonn.2021.STitAo3CPitCI,
+      author            = "Max Adaloudis and Jaime Bonnin Roca",
+      title             = "Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry",
+      doi               = "10.1016/j.jclepro.2021.127201",
+      year              = "2021",
+      journal           = "Journal of Cleaner Production",
+      volume            = "307",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Adaloudis  and J. B. Roca, “Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry”, <i>Journal of Cleaner Production</i>, vol. 307, 2021, doi: 10.1016/j.jclepro.2021.127201.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Adaloudis, Max, and Jaime Bonnin Roca. “Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry”. <i>Journal of Cleaner Production</i> 307 (2021). https://doi.org/10.1016/j.jclepro.2021.127201.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

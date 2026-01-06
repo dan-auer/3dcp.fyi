@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeou-Fong Li, Pei-Jen Tsai, Jin-Yuan Syu, Man-Hoi Lok, Huei-Shiung Chen
+    - footer
+title: Li Yeou-Fong, Tsai Pei-Jen, Syu Jin-Yuan, Lok Man-Hoi, Chen Huei-Shiung
 description:
 tags:
  - carbon
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2079-6439/11/12/109/pdf?version=1702305506) Mechanical Properties of 3D Printed Carbon Fiber-Reinforced Cement Mortar ([2023-12](date/2023/12))
-<a href="https://doi.org/10.3390/fib11120109" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/fib11120109</a>
+#Mechanical Properties of 3D Printed Carbon Fiber-Reinforced Cement Mortar ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2079-6439/11/12/109/pdf?version=1702305506) <a href="https://doi.org/10.3390/fib11120109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/fib11120109" target="_blank">10.3390/fib11120109</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7054-7293" title="ORCID: 0000-0002-7054-7293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yeou-fong"><b>Li</b>&nbsp;Yeou-Fong</a></span>, <a href="../../../author/tsai_pei-jen"><b>Tsai</b>&nbsp;Pei-Jen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8859-3693" title="ORCID: 0000-0002-8859-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/syu_jin-yuan"><b>Syu</b>&nbsp;Jin-Yuan</a></span>, <a href="../../../author/lok_man-hoi"><b>Lok</b>&nbsp;Man-Hoi</a></span>, <a href="../../../author/chen_huei-shiung"><b>Chen</b>&nbsp;Huei-Shiung</a></span><br>
+Journal Article - Fibers, Vol. 11, Iss. 12, No. 109
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a> <a href="https://orcid.org/0000-0002-7054-7293" title="ORCID: 0000-0002-7054-7293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tsai_pei-jen"><b>Tsai</b> Pei-Jen</a>
-,     <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a> <a href="https://orcid.org/0000-0002-8859-3693" title="ORCID: 0000-0002-8859-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lok_man-hoi"><b>Lok</b> Man-Hoi</a>
-,     <a href="../../../author/chen_huei-shiung"><b>Chen</b> Huei-Shiung</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Fibers, Vol. 11, Iss. 12, No. 109
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D%20Printed%20Carbon%20Fiber-Reinforced%20Cement%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180430426&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389548385" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/fib11120109" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/fib11120109?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D printing process is different from traditional construction methods of formwork casting due to the use of additive manufacturing. This study develops a suitable 3D-printed carbon fiber-reinforced cement mortar (CFRCM) considering the extrudability, fluidity, setting time, and buildability of the CFRCM. The difference in compressive strength and flexural strength between 3D-printed specimens and conventional cast specimens was investigated by varying the amount of carbon fiber added (carbon fiber to cement ratio, 2.5 vol.‰, 5 vol.‰, 7.5 vol.‰, and 10 vol.‰) and the curing times (7th day and 28th day). The results of the experiments indicate that the addition of 6 wt.% cement accelerators to the cementitious mortar allows for a controlled initial setting time of approximately half an hour. The fluidity of the CFRCM was controlled by adjusting the dosage of the superplasticizer. When the slump was in the range of 150 mm to 190 mm, the carbon fiber to cement ratio 2.5 vol.‰ could be incorporated into the cementitious mortar, enabling the printing of hollow cylinders with a height of up to 750 mm. Comparing the 3D-printed specimens with the traditionally cast specimens, it was found that the addition of a carbon fiber to cement ratio of 7.5 vol.‰, and 10 vol.‰ resulted in the optimal compressive strength and flexural strength, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asakawa_tomoya"><b>Asakawa</b> Tomoya</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a>, <a href="../../../author/ohno_kazunori"><b>Ohno</b> Kazunori</a>, <a href="../../../author/yokoyama_shigeru"><b>Yokoyama</b> Shigeru</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../asak_nish_ohno_yoko.2022.FSoAILRSwMFIf3CP/">Fundamental Study on Automated Inter-Layer Reinforcing System with Metal-Fiber-Insertion for 3D Concrete Printer</a></li>
@@ -121,8 +98,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_zhan_qian_liu.2023.IoSFotWAo3PC/">Influence of Steel-Fiber on the Water-Absorption of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
@@ -134,4 +111,35 @@ tags:
       <li><a href="../../../author/sucharda_oldrich"><b>Sucharda</b> Oldřich</a>, <a href="../../../author/gandel_radoslav"><b>Gandel</b> Radoslav</a>, <a href="../../../author/cmiel_petr"><b>Cmiel</b> Petr</a>, <a href="../../../author/jerabek_jan"><b>Jeřábek</b> Jan</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../such_gand_cmie_jera.2024.UoHPCMfAMT/">Utilization of High-Performance Concrete Mixtures for Advanced Manufacturing Technologies</a></li>
       <li><a href="../../../author/jiang_xiongzhi"><b>Jiang</b> Xiongzhi</a>, <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>, <a href="../../../author/yang_zhe"><b>Yang</b> Zhe</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../jian_li_yang_li.2024.HPOtEtSoTDPC/">Harnessing Path-Optimization to Enhance the Strength of Three-Dimensional Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_tsai_syu_lok.2023.MPo3PCFRCM,
+      author            = "Yeou-Fong Li and Pei-Jen Tsai and Jin-Yuan Syu and Man-Hoi Lok and Huei-Shiung Chen",
+      title             = "Mechanical Properties of 3D Printed Carbon Fiber-Reinforced Cement Mortar",
+      doi               = "10.3390/fib11120109",
+      year              = "2023",
+      journal           = "Fibers",
+      volume            = "11",
+      number            = "12",
+      pages             = "109",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y.-F. Li, P.-J. Tsai, J.-Y. Syu, M.-H. Lok and H.-S. Chen, “Mechanical Properties of 3D Printed Carbon Fiber-Reinforced Cement Mortar”, <i>Fibers</i>, vol. 11, no. 12, p. 109, 2023, doi: 10.3390/fib11120109.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Yeou-Fong, Pei-Jen Tsai, Jin-Yuan Syu, Man-Hoi Lok, and Huei-Shiung Chen. “Mechanical Properties of 3D Printed Carbon Fiber-Reinforced Cement Mortar”. <i>Fibers</i> 11, no. 12 (2023): 109. https://doi.org/10.3390/fib11120109.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

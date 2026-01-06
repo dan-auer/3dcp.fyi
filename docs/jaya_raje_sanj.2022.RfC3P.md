@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Roshan Jayathilakage, Pathmanathan Rajeev, Jay Sanjayan
+    - footer
+title: Jayathilakage Roshan, Rajeev Pathmanathan, Sanjayan Jay
 description:
 tags:
  - comparison
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/8/1190/pdf?version=1660122643) Rheometry for Concrete 3D Printing:<br/>:aca-blank: A Review and an Experimental Comparison ([2022-08](date/2022/08))
-<a href="https://doi.org/10.3390/buildings12081190" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12081190</a>
+#Rheometry for Concrete 3D Printing&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">A Review and an Experimental Comparison</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/8/1190/pdf?version=1660122643) <a href="https://doi.org/10.3390/buildings12081190" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12081190" target="_blank">10.3390/buildings12081190</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2031-2541" title="ORCID: 0000-0002-2031-2541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b>&nbsp;Roshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a> <a href="https://orcid.org/0000-0002-2031-2541" title="ORCID: 0000-0002-2031-2541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#comparison`](keyword/comparison)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheometry%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137375624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4290703549" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12081190" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12081190?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid advancement of 3D concrete printing (3DCP) and the development of relevant cementitious material compositions can be seen in the last few decades. The commonly used 3DCP method is to build the structure layer by layer after extruding the material through a nozzle. Initially, the pumping and extrusion of the material should be done with considerable fluidity and workability. The extruded layers should retain their shape immediately after extruding and depositing. While constructing the structure in a layerwise manner, the bottom layers should have enough early age strength to support the layers at the top. Therefore, at different processes in 3DCP, the rheological requirement is contradictory. As the rheology of the material is the deterministic factor which decides the fluidity or workability of the mix, proper rheological characterization should be completed accurately. In some instances, due to the higher stiffness, and higher time and rate-dependent material behavior (thixotropic behavior) compared to the conventional concrete, standard rheology measurement techniques have many limitations when used for 3DCP material. Therefore, nonconventional and novel techniques can be implemented with suitable material models to characterize the rheology of 3DCP material. In this study, a comprehensive review was conducted on conventional and non-conventional methods used for characterizing the rheological parameters for 3DCP material. The previously conducted studies were highlighted with the targeted 3DCP processes in the study (if applicable), and rheological parameters achieved from the test (i.e., yield stress, viscosity, and thixotropy). In addition, some experimental studies were conducted to compare several selected testing methods. The rheological parameters achieved from different test methods were compared to identify the similarities, dissimilarities, pros, and cons between the test methods. Furthermore, the extrudability and buildability studies were conducted for the mixes to demonstrate the usage of the mixes in 3DCP applications and to correlate the achieved rheological parameters with these processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "58 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/biricik_oznur"><b>Biricik</b> Öznur</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../biri_mard.2022.PATBoSCCa3PC/">Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -121,8 +103,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/yang_pu"><b>Yang</b> Pu</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yang_nair_neit.2019.DESoRRoCBaAt3P/">Discrete Element Simulations of Rheological Response of Cementitious Binders as Applied to 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "49 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bate_asla.2025.Po3PCCwGRUAC/">Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression</a></li>
@@ -173,4 +155,34 @@ tags:
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../quah_tay_lim_tan.2023.C3P/">Concrete 3D Printing:<br/>Process-Parameters for Process-Control, Monitoring and Diagnosis in Automation and Construction</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jaya_raje_sanj.2022.RfC3P,
+      author            = "Roshan I. Jayathilakage and Pathmanathan Rajeev and Jay Gnananandan Sanjayan",
+      title             = "Rheometry for Concrete 3D Printing: A Review and an Experimental Comparison",
+      doi               = "10.3390/buildings12081190",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. I. Jayathilakage, P. Rajeev and J. G. Sanjayan, “Rheometry for Concrete 3D Printing: A Review and an Experimental Comparison”, <i>Buildings</i>, vol. 12, no. 8, 2022, doi: 10.3390/buildings12081190.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jayathilakage, Roshan I., Pathmanathan Rajeev, and Jay Gnananandan Sanjayan. “Rheometry for Concrete 3D Printing: A Review and an Experimental Comparison”. <i>Buildings</i> 12, no. 8 (2022). https://doi.org/10.3390/buildings12081190.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

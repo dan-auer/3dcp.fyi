@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nicolas Ducoulombier, Romain Mesnil, Paul Carneau, Léo Demont, Hela Bessaies-Bey, Jean-François Caron, Nicolas Roussel
+    - footer
+title: Ducoulombier Nicolas, Mesnil Romain, Carneau Paul, Demont Léo, Bessaies-Bey Hela, Caron Jean-François, Roussel Nicolas
 description:
 tags:
  - additive
@@ -17,36 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.science/hal-03954700/file/The_Slugs_Test.pdf) The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>:aca-blank: Protocol, Analysis and Practical Limits ([2021-05](date/2021/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104074" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104074</a>
+#The “Slugs-Test” for Extrusion-Based Additive Manufacturing&nbsp;([2021-05](date/2021/05))
+<div class="h1-like">Protocol, Analysis and Practical Limits</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.science/hal-03954700/file/The_Slugs_Test.pdf) <a href="https://doi.org/10.1016/j.cemconcomp.2021.104074" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104074" target="_blank">10.1016/j.cemconcomp.2021.104074</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <a href="../../../author/carneau_paul"><b>Carneau</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demont_leo"><b>Demont</b>&nbsp;Léo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b>&nbsp;Hela</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 121
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>
-,     <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a> <a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 121, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#extrusion`](keyword/extrusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#practice`](keyword/practice)
-    [`#protocol`](keyword/protocol)
-    [`#slug`](keyword/slug)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/protocol"><button class="btn">#protocol</button></a> <a href="../../keyword/slug"><button class="btn">#slug</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20%E2%80%9CSlugs-Test%E2%80%9D%20for%20Extrusion-Based%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85106374346&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3160118511" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104074" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104074?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper introduces a novel rheological technique allowing for the assessment of printable materials yield stress at nozzle exit in the case of extrusion-based 3D printing. This technique is derived from the analysis of the specific gravity-induced non-Newtonian flow that takes place at nozzle exit, which is at the origin of the formation of material drops or so-called slugs. A simple connected balance located below the nozzle gives access to the slugs mass distribution, the average value and the variability of which allow for the computation of the yield stress and, in parallel, for the assessment of the material homogeneity. In this paper, this method is first experimentally validated on simple materials in simple extruders before it is applied to a real printing system. The equations allowing for the yield stress computation are derived. The accuracy of the technique and its range of applicability are discussed
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
@@ -85,9 +60,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "60 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
       <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
@@ -147,6 +122,34 @@ tags:
       <li><a href="../../../author/peerzada_basit_abdul"><b>Peerzada</b> Abdul</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a>, <a href="../../../author/roberts_james"><b>Roberts</b> James</a>, <a href="../../../author/biehl_adam"><b>Biehl</b> Adam</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../peer_rang_robe_bieh.2022.IoEVotGFCoCM/">Influence of External Vibration on the Gravitational Flow Characteristics of Cementitious Materials:<br/>A Perspective from Application in Additive Manufacturing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>
-      <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../duco.2019.CaMoIDiFRCf3PiC/">Characterisation and Modelling of Interfacial-Damage in Fiber-Reinforced Concrete for 3D Printing in Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duco_mesn_carn_demo.2021.TSTfEBAM,
+      author            = "Nicolas Ducoulombier and Romain Mesnil and Paul Carneau and Léo Demont and Hela Bessaies-Bey and Jean-François Caron and Nicolas Roussel",
+      title             = "The “Slugs-Test” for Extrusion-Based Additive Manufacturing: Protocol, Analysis and Practical Limits",
+      doi               = "10.1016/j.cemconcomp.2021.104074",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "121",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ducoulombier, “The “Slugs-Test” for Extrusion-Based Additive Manufacturing: Protocol, Analysis and Practical Limits”, <i>Cement and Concrete Composites</i>, vol. 121, 2021, doi: 10.1016/j.cemconcomp.2021.104074.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ducoulombier, Nicolas, Romain Mesnil, Paul Carneau, Léo Demont, Hela Bessaies-Bey, Jean-François Caron, and Nicolas Roussel. “The “Slugs-Test” for Extrusion-Based Additive Manufacturing: Protocol, Analysis and Practical Limits”. <i>Cement and Concrete Composites</i> 121 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104074.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

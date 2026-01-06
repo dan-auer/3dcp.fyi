@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wei Dong, Junfeng Wang, Meiyan Hang, Shuqiang Qu
+    - footer
+title: Dong Wei, Wang Junfeng, Hang Meiyan, Qu Shuqiang
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.jobe.2024.108508" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108508</a>
+#Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108508" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108508" target="_blank">10.1016/j.jobe.2024.108508</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4187-1999" title="ORCID: 0000-0003-4187-1999" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_wei"><b>Dong</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-1136-738X" title="ORCID: 0009-0005-1136-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_junfeng"><b>Wang</b>&nbsp;Junfeng</a></span>, <a href="../../../author/hang_meiyan"><b>Hang</b>&nbsp;Meiyan</a></span>, <a href="../../../author/qu_shuqiang"><b>Qu</b>&nbsp;Shuqiang</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 84, No. 108508
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dong_wei"><b>Dong</b> Wei</a> <a href="https://orcid.org/0000-0003-4187-1999" title="ORCID: 0000-0003-4187-1999" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_junfeng"><b>Wang</b> Junfeng</a> <a href="https://orcid.org/0009-0005-1136-738X" title="ORCID: 0009-0005-1136-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>
-,     <a href="../../../author/qu_shuqiang"><b>Qu</b> Shuqiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 84, No. 108508
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#frost`](keyword/frost)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#salt`](keyword/salt)
-    [`#sand`](keyword/sand)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/frost"><button class="btn">#frost</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/salt"><button class="btn">#salt</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20Printing%20Parameters%20and%20Salt-Frost-Resistance%20of%203D%20Printing%20Concrete%20with%20Ferrochrome-Slag%20and%20Aeolian%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182594017&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390862994" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108508" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108508?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Aeolian sand (AS) and ferrochrome slag (FS), an industrial byproduct, are abundant in Inner Mongolia. Rational use of FS and AS resources can lead to better economic benefits. In this study, FS and AS were used as fine aggregates to prepare 3D printed concrete (3DPFAC). The effect of different printing parameters on the mechanical properties of 3DPFAC was investigated and the optimal printing parameters were determined. The durability of 3DPFAC in salt freeze-thaw cycle (FTC) environments was analyzed by FTC tests. The mass loss rate, relative dynamic elastic modulus, and compressive strength loss rate are used to characterize the performance degradation law of 3DPFAC and the mechanism of performance degradation is revealed by SEM, XRD, and bubble spacing analyzer. We conclude that the optimal printing parameters for 3DPFAC are 20 mm print nozzle diameter, 8 mm print layer height, 50 mm/s print travel speed, and consecutive print interval time. Under different production processes, the degree of damage and deterioration of concrete is 3D-Y (loading along the Y direction) > 3D-X (loading along the X direction) > JZ (pouring specimens). After 400 FTCs, the mass loss rates for JZ, 3D-X and 3D-Y were 3.02 %, 3.12 % and 3.56 %, respectively, the relative dynamic elastic modulus decreased to 71.78 %, 66.18 % and 58.64 %, respectively, with compressive strength loss rates of 21.0 %, 22.4 % and 24.0 %. Finally, the damage evolution equation for 3DPFAC is derived using the Weibull distribution model, and the lifetime prediction is performed based on the Weibull distribution damage model. The results can provide a theoretical basis for the application of FS and AS in the 3DPC domain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a></li>
@@ -82,8 +60,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
@@ -96,4 +74,34 @@ tags:
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dong_wang_hang_qu.2024.RoPPaSFRo3PCwFSaAS,
+      author            = "Wei Dong and Junfeng Wang and Meiyan Hang and Shuqiang Qu",
+      title             = "Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand",
+      doi               = "10.1016/j.jobe.2024.108508",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "84",
+      pages             = "108508",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Dong, J. Wang, M. Hang and S. Qu, “Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand”, <i>Journal of Building Engineering</i>, vol. 84, p. 108508, 2024, doi: 10.1016/j.jobe.2024.108508.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dong, Wei, Junfeng Wang, Meiyan Hang, and Shuqiang Qu. “Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand”. <i>Journal of Building Engineering</i> 84 (2024): 108508. https://doi.org/10.1016/j.jobe.2024.108508.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

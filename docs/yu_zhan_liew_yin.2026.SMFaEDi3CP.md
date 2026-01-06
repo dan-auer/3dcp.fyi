@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Yu, Weiwei Zhang, Jia Liew, Binbin Yin, Kim Liew
+    - footer
+title: Yu Hao, Zhang Weiwei, Liew Jia, Yin Binbin, Liew Kim
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.cma.2025.118575" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cma.2025.118575</a>
+#Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cma.2025.118575" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cma.2025.118575" target="_blank">10.1016/j.cma.2025.118575</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8353-8110" title="ORCID: 0000-0001-8353-8110" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_hao"><b>Yu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2013-9715" title="ORCID: 0000-0003-2013-9715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_weiwei"><b>Zhang</b>&nbsp;Weiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0659-7541" title="ORCID: 0000-0003-0659-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liew_xiang_jia"><b>Liew</b>&nbsp;Jia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_binbin"><b>Yin</b>&nbsp;Binbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liew_meow_kim"><b>Liew</b>&nbsp;Kim</a></span><br>
+Journal Article - Computer Methods in Applied Mechanics and Engineering, Vol. 449, No. 118575
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yu_hao"><b>Yu</b> Hao</a> <a href="https://orcid.org/0000-0001-8353-8110" title="ORCID: 0000-0001-8353-8110" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a> <a href="https://orcid.org/0000-0003-2013-9715" title="ORCID: 0000-0003-2013-9715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a> <a href="https://orcid.org/0000-0003-0659-7541" title="ORCID: 0000-0003-0659-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> <a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Computer Methods in Applied Mechanics and Engineering, Vol. 449, No. 118575
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#extrusion`](keyword/extrusion)
-    [`#flow`](keyword/flow)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Simulating%20Material%20Flow%20and%20Extrusion%20Dynamics%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022442418&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106585853" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cma.2025.118575" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cma.2025.118575?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     We present an advanced 3D virtual printing framework for simulating material flow and extrusion dynamics in 3D concrete printing (3DCP), specifically addressing critical layer transition challenges. Central to the framework is a gradually-rising printing-start model, which dynamically adjusts deposition to eliminate sharp discontinuities between layers. Computationally, the framework couples δ-smoothed particle hydrodynamics (δ-SPH) with a regularized Bingham model to accurately capture deformation and pressure fields of extruded concrete. An alternating particle generation algorithm further enhances efficiency by enabling on-demand creation of fluid and wall particles, with parallelization supporting scalable simulations. Benchmark validations confirm the framework’s accuracy in modeling Bingham fluid behavior and its computational robustness. Results indicate that initial nozzle pressure strongly influences extrudability, with higher pressures producing greater layer deformation. The gradually rising deposition model aligns closely with theoretical predictions, expanding the transition zone and improving interlayer bonding. Beyond predictive failure analysis, this framework facilitates optimization of 3DCP parameters, paving the way for more reliable and scalable additive construction processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a></li>
       <li><a href="../../../author/cheng_hanbin"><b>Cheng</b> Hanbin</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>, <a href="../../../author/hilman_michael"><b>Hilman</b> Michael</a>, <a href="../../../author/liu_feihong"><b>Liu</b> Feihong</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_radl_hilm_liu.2024.MCDv3PURKPM/">Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method</a></li>
@@ -80,7 +58,37 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yu_zhan_liew_yin.2026.SMFaEDi3CP,
+      author            = "Hao Yu and Weiwei Zhang and Jia Xiang Liew and Binbin Yin and Kim Meow Liew",
+      title             = "Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing",
+      doi               = "10.1016/j.cma.2025.118575",
+      year              = "2026",
+      journal           = "Computer Methods in Applied Mechanics and Engineering",
+      volume            = "449",
+      pages             = "118575",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Yu, W. Zhang, J. X. Liew, B. Yin and K. M. Liew, “Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing”, <i>Computer Methods in Applied Mechanics and Engineering</i>, vol. 449, p. 118575, 2026, doi: 10.1016/j.cma.2025.118575.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yu, Hao, Weiwei Zhang, Jia Xiang Liew, Binbin Yin, and Kim Meow Liew. “Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing”. <i>Computer Methods in Applied Mechanics and Engineering</i> 449 (2026): 118575. https://doi.org/10.1016/j.cma.2025.118575.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

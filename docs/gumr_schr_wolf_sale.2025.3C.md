@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Idil Gümrük, Torsten Schröder, Robert Wolfs, Theo Salet
+    - footer
+title: Gümrük Idil, Schröder Torsten, Wolfs Robert, Salet Theo
 description:
 tags:
  - 3dcp
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://journalofsustainability.net/ojs/JoS/article/download/55/49) 3DCP-CI:<br/>:aca-blank: Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs ([2025-11](date/2025/11))
-<a href="https://doi.org/10.55845/jos-2025-1255" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.55845/jos-2025-1255</a>
+#3DCP-CI&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://journalofsustainability.net/ojs/JoS/article/download/55/49) <a href="https://doi.org/10.55845/jos-2025-1255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55845/jos-2025-1255" target="_blank">10.55845/jos-2025-1255</a>
 
--------------------------
+<a href="../../../author/gumruk_idil"><b>Gümrük</b>&nbsp;Idil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3162-6199" title="ORCID: 0000-0003-3162-6199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schroder_w-a_torsten"><b>Schröder</b>&nbsp;Torsten</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Journal of Sustainability, Vol. 1, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gumruk_idil"><b>Gümrük</b> Idil</a>
-,     <a href="../../../author/schroder_w-a_torsten"><b>Schröder</b> Torsten</a> <a href="https://orcid.org/0000-0003-3162-6199" title="ORCID: 0000-0003-3162-6199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainability, Vol. 1, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#architecture`](keyword/architecture)
-    [`#assessment`](keyword/assessment)
-    [`#circular`](keyword/circular)
-    [`#design`](keyword/design)
-    [`#development`](keyword/development)
-    [`#indicator`](keyword/indicator)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/indicator"><button class="btn">#indicator</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3DCP-CI" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106343381" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.55845/jos-2025-1255" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.55845/jos-2025-1255?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is considered a promising technology for circularity and sustainability in construction through material-efficient designs and processes. While life cycle analysis has been applied to 3DCP materials and processes to test this view, circularity assessments covering the full life cycle of 3DCP designs remain understudied. Existing assessment methods are not designed for, and are difficult to apply within, the 3DCP context. To address this gap, this article introduces 3DCP-CI, a framework developed to systematically assess the circularity potential of 3DCP designs. Existing circularity indicators and their assessment methods were reviewed and synthesised to create 3DCP-CI. Four key performance indicators were identified for 3DCP: adaptability, disassemblability, reusability, and recyclability. Using 3DCP-CI, the Project Milestone was evaluated to improve, validate, and demonstrate the framework’s applicability. The assessment of the Project Milestone indicated that while the separation of building layers and the use of reversible connections significantly influence the final score, the use of non-virgin materials improves the circularity score noticeably. The framework aims to encourage designers to make more circular decisions when applying 3DCP. Furthermore, areas in which the research or practice of circular 3DCP applications can be advanced are expected to emerge through the use of 3DCP-CI.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
@@ -78,7 +57,37 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../wolf_bos_sale.2023.LLoPM/">Lessons Learned of Project Milestone:<br/>The First 3D Printed Concrete House in the Netherlands</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gumr_schr_wolf_sale.2025.3C,
+      author            = "Idil Gümrük and Torsten W. A. Schröder and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+      title             = "3DCP-CI: Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs",
+      doi               = "10.55845/jos-2025-1255",
+      year              = "2025",
+      journal           = "Journal of Sustainability",
+      volume            = "1",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Gümrük, T. W. A. Schröder, R. J. M. Wolfs and T. A. M. Salet, “3DCP-CI: Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs”, <i>Journal of Sustainability</i>, vol. 1, no. 2, 2025, doi: 10.55845/jos-2025-1255.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gümrük, Idil, Torsten W. A. Schröder, Robert Johannes Maria Wolfs, and Theo A. M. Salet. “3DCP-CI: Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs”. <i>Journal of Sustainability</i> 1, no. 2 (2025). https://doi.org/10.55845/jos-2025-1255.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

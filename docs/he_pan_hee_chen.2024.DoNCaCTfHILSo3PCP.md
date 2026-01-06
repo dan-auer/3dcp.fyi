@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lewei He, Jiahui Pan, Yu Hee, Hao Chen, Leo Li, Biranchi Panda, Wai Chow
+    - footer
+title: He Lewei, Pan Jiahui, Hee Yu, Chen Hao, Li Leo, Panda Biranchi, Chow Wai
 description:
 tags:
  - cement
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03745) Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03745" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03745</a>
+#Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03745) <a href="https://doi.org/10.1016/j.cscm.2024.e03745" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03745" target="_blank">10.1016/j.cscm.2024.e03745</a>
 
--------------------------
+<a href="../../../author/he_lewei"><b>He</b>&nbsp;Lewei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7576-6743" title="ORCID: 0000-0002-7576-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jiahui"><b>Pan</b>&nbsp;Jiahui</a></span>, <a href="../../../author/hee_sheng_yu"><b>Hee</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0520-6190" title="ORCID: 0000-0003-0520-6190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_hao"><b>Chen</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_gu_leo"><b>Li</b>&nbsp;Leo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/chow_tuck_wai"><b>Chow</b>&nbsp;Wai</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03745
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/he_lewei"><b>He</b> Lewei</a>
-,     <a href="../../../author/pan_jiahui"><b>Pan</b> Jiahui</a> <a href="https://orcid.org/0000-0002-7576-6743" title="ORCID: 0000-0002-7576-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hee_sheng_yu"><b>Hee</b> Yu</a>
-,     <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> <a href="https://orcid.org/0000-0003-0520-6190" title="ORCID: 0000-0003-0520-6190" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> <a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03745
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#development`](keyword/development)
-    [`#height`](keyword/height)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#trowel`](keyword/trowel)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/trowel"><button class="btn">#trowel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Novel%20Concave%20and%20Convex%20Trowels%20for%20Higher%20Inter-Layer%20Strength%20of%203D%20Printed%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203539740&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402396221" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03745" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03745?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Past experimental results have shown that the use of nozzle trowels can enhance the interlayer strength of 3D printed cement paste. In this study, the design is further optimized by introducing concave and convex shapes onto the nozzle trowel design. A technique for accurate simulation of the interlayer stresses with the influence of nozzle trowels is established, and it is found that the nozzle trowels double the maximum shear stress and increase the maximum pressure by about 114 %. Moreover, the concave and convex nozzle trowels with removal of interlayer notch further increase the interlayer strength by 35 %. A theoretical model is also proposed to predict the interface geometry and then validated by the experimental observations on the concave and convex trowels. These findings not only result in 3D printed cement paste with much higher interlayer strength, but also emphasize the importance of nozzle designing with optimal interlayer stresses and interface geometries in the application of 3D concrete printing (3DCP).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/almomani_a_mohammed"><b>Almomani</b> Mohammed</a>, <a href="../../../author/ababneh_nedal"><b>Ababneh</b> Nedal</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/shbeeb_i_nadim"><b>Shbeeb</b> Nadim</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../almo_abab_abda_shbe.2023.StB3CPTfRCsSCUAHP/">Selecting the Best 3D Concrete Printing Technology for Refugee Camp’s Shelter Construction Using Analytical Hierarchy Process:<br/>The Case of Syrian Refugees in Jordan</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -107,11 +81,41 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a>, <a href="../../../author/park_in-beom"><b>Park</b> In-Beom</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_park_lee_kwon.2022.EoNDoPQaHPoU3PC/">Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b> Kantawich</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pethrung_sirichai"><b>Pethrung</b> Sirichai</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../suph_pras_peth_pans.2025.FPEo3PCW/">Fire Performance Evaluation of 3D-Printed Concrete Walls:<br/>A Combined Full-Scale and Numerical Modeling Approach</a></li>
       <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../yu_teng_ye_zhan.2025.SDMtPtFSo3PECCB/">Size-Dependent Model to Predict the Flexural-Strength of 3D Printed Engineered Cementitious Composites Beams</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP,
+      author            = "Lewei He and Jiahui Pan and Yu Sheng Hee and Hao Chen and Leo Gu Li and Biranchi Narayan Panda and Wai Tuck Chow",
+      title             = "Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste",
+      doi               = "10.1016/j.cscm.2024.e03745",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "21",
+      pages             = "e03745",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. He, “Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste”, <i>Case Studies in Construction Materials</i>, vol. 21, p. e03745, 2024, doi: 10.1016/j.cscm.2024.e03745.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">He, Lewei, Jiahui Pan, Yu Sheng Hee, Hao Chen, Leo Gu Li, Biranchi Narayan Panda, and Wai Tuck Chow. “Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste”. <i>Case Studies in Construction Materials</i> 21 (2024): e03745. https://doi.org/10.1016/j.cscm.2024.e03745.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

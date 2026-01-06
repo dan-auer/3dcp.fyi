@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Yuanliang Xiong, Yuning Chen, Lutao Jia, Lei Ma, Zhicong Deng, Zhibin Wang, Chun Chen, Nemkumar Banthia, Yamei Zhang
+    - footer
+title: Liu Chao, Xiong Yuanliang, Chen Yuning, Jia Lutao, Ma Lei, Deng Zhicong, Wang Zhibin, Chen Chun, Banthia Nemkumar, Zhang Yamei
 description:
 tags:
  - cement
@@ -16,38 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1016/j.compositesb.2022.109619" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2022.109619</a>
+#Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete ([2022-01](date/2022/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2022.109619" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2022.109619" target="_blank">10.1016/j.compositesb.2022.109619</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b>&nbsp;Yuanliang</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/ma_lei"><b>Ma</b>&nbsp;Lei</a></span>, <a href="../../../author/deng_zhicong"><b>Deng</b>&nbsp;Zhicong</a></span>, <a href="../../../author/wang_zhibin"><b>Wang</b>&nbsp;Zhibin</a></span>, <a href="../../../author/chen_chun"><b>Chen</b>&nbsp;Chun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 232
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>
-,     <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>
-,     <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>
-,     <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 232, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#foam`](keyword/foam)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Sulphoaluminate%20Cement%20on%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printing%20Foamed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122507383&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,23 +38,18 @@ tags:
 <a href="https://inciteful.xyz/p/W4206327855" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2022.109619" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2022.109619?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Generally, we expect that cement-based materials for 3D printing can quickly obtain sufficient strength after extrusion to resist the pressure generated by the stacking layers to achieve good buildability. In this study, sulphoaluminate cement (SAC) was used to improve the printability of fresh foamed concrete (FC). The effects of different SAC contents on the foam stability, open time, and buildability of fresh FC, the interlayer interface, and porosity and mechanical anisotropy of hardened 3D printed FC (3DPFC) were investigated. The addition of SAC reduces the settlement of fresh FC and prevents defoaming by promoting the hydration process to accelerate the formation of pore structure. In addition, SAC reduces the bubble diameter of the fresh FC, which is attributed to the enhancement of yield stress of the mortar before doping foam. Meanwhile, the buildability of 3DPFC is improved, while the open time is reduced with the addition of SAC. The printability of the 3DPFC can be predicted based on the remaining height of the FC from cylinder test and the flow diameter from jumping table test. When the remaining height is 74–80 mm, and the flow diameter is between 155 and 176 mm, the extrudability and buildability of the 3DPFC can be guaranteed simultaneously. With an increase in SAC content, the width of the interface area and the interface porosity of the 3DPFC increase, leading to the intensification of mechanical anisotropy. We suggest that the SAC content for 3DPFC should not exceed 10%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
-      <li><a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/bouten_sam"><b>Bouten</b> Sam</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dell_bout_mele_bloc.2023.SDaEoSaU3CPMAB/">Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS/">3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../liu_li_weng_qian.2020.MaPOfFDi3CMPUSVM/">Modelling- and Parameter-Optimization for Filament-Deformation in 3D Cementitious Material-Printing Using Support-Vector-Machine</a></li>
@@ -95,7 +66,6 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
-      <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
@@ -104,8 +74,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "46 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abid_syed_khan.2025.EMLBMfPIBSi3PC/">Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_khai_daha_mash.2025.RoSi3CP/">Review on Sustainability in 3D Concrete Printing:<br/>Focus on Waste Utilization and Life Cycle Assessment</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
@@ -153,4 +123,33 @@ tags:
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_chen_xion_jia.2022.IoHMaSFoBo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Buildability of 3D Printing Foam-Concrete:<br/>From Water State and Flocculation Point of View</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_xion_chen_jia.2022.EoSCoFaHPo3PFC,
+      author            = "Chao Liu and Yuanliang Xiong and Yuning Chen and Lutao Jia and Lei Ma and Zhicong Deng and Zhibin Wang and Chun Chen and Nemkumar Banthia and Yamei Zhang",
+      title             = "Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete",
+      doi               = "10.1016/j.compositesb.2022.109619",
+      year              = "2022",
+      journal           = "Composites Part B: Engineering",
+      volume            = "232",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete”, <i>Composites Part B: Engineering</i>, vol. 232, 2022, doi: 10.1016/j.compositesb.2022.109619.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Yuanliang Xiong, Yuning Chen, Lutao Jia, Lei Ma, Zhicong Deng, Zhibin Wang, Chun Chen, Nemkumar Banthia, and Yamei Zhang. “Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete”. <i>Composites Part B: Engineering</i> 232 (2022). https://doi.org/10.1016/j.compositesb.2022.109619.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

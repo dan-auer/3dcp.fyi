@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Petr Keller, Radomír Mendřický
+    - footer
+title: Keller Petr, Mendřický Radomír
 description:
 tags:
  - additive
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/15/17/9749/pdf?version=1757069025) Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/app15179749" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app15179749</a>
+#Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/15/17/9749/pdf?version=1757069025) <a href="https://doi.org/10.3390/app15179749" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15179749" target="_blank">10.3390/app15179749</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8989-8894" title="ORCID: 0000-0002-8989-8894" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keller_petr"><b>Keller</b>&nbsp;Petr</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0685-7585" title="ORCID: 0000-0003-0685-7585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendricky_radomir"><b>Mendřický</b>&nbsp;Radomír</a></span><br>
+Journal Article - Applied Sciences, Vol. 15, Iss. 17, No. 9749
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/keller_petr"><b>Keller</b> Petr</a> <a href="https://orcid.org/0000-0002-8989-8894" title="ORCID: 0000-0002-8989-8894" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="https://orcid.org/0000-0003-0685-7585" title="ORCID: 0000-0003-0685-7585" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 15, Iss. 17, No. 9749
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#deformation`](keyword/deformation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20Object%20Deformations%20Printed%20by%20Additive%20Manufacturing%20from%20Concrete%20Mixtures%20over%20Time" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015565378&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414020772" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app15179749" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app15179749?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The article deals with the evaluation of dimensional deformations of a building element manufactured additively from a cement mixture. The study follows up on previous research within the 3DStar project and expands the methodology for monitoring deformations over time. The aim is to contribute to the development of more accurate simulation models for predicting the behaviour of printed structures, especially in the early stages after printing. For the analysis, an experimental ‘L’-shaped element was designed and printed, whose deformations were monitored using repeated 3D scanning and dimensional changes were evaluated for up to 93 days. The results show that the most significant deformations occur in the first hours after printing due to gravitational loading and mixture curing, while later changes are mainly due to shrinkage. The element’s geometry and the walls’ thickness also play a role. The analysis confirms the effectiveness of the ‘Caliper’ measurement method and outlines the potential for future use of photogrammetry as a method for online deformation monitoring. The data obtained will be used to optimise printing parameters and calibrate material parameters in the developed simulation software for non-linear numerical simulations in additive manufacturing using cement mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
@@ -89,7 +69,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kell_mend.2025.AoODPbAMfCMoT,
+      author            = "Petr Keller and Radomír Mendřický",
+      title             = "Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time",
+      doi               = "10.3390/app15179749",
+      year              = "2025",
+      journal           = "Applied Sciences",
+      volume            = "15",
+      number            = "17",
+      pages             = "9749",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Keller  and R. Mendřický, “Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time”, <i>Applied Sciences</i>, vol. 15, no. 17, p. 9749, 2025, doi: 10.3390/app15179749.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Keller, Petr, and Radomír Mendřický. “Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time”. <i>Applied Sciences</i> 15, no. 17 (2025): 9749. https://doi.org/10.3390/app15179749.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

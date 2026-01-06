@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianhua Cheng, Meng Chen, Yulin Ge, Tong Zhang
+    - footer
+title: Cheng Jianhua, Chen Meng, Ge Yulin, Zhang Tong
 description:
 tags:
  - acoustic
@@ -22,38 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>:aca-blank: Insights from Acoustic Emission Characterization ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106425" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106425</a>
+#Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">Insights from Acoustic Emission Characterization</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106425" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106425" target="_blank">10.1016/j.cemconcomp.2025.106425</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-5559-9117" title="ORCID: 0009-0008-5559-9117" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_jianhua"><b>Cheng</b>&nbsp;Jianhua</a></span>, <a href="../../../author/chen_meng"><b>Chen</b>&nbsp;Meng</a></span>, <a href="../../../author/ge_yulin"><b>Ge</b>&nbsp;Yulin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tong"><b>Zhang</b>&nbsp;Tong</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 167, No. 106425
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> <a href="https://orcid.org/0009-0008-5559-9117" title="ORCID: 0009-0008-5559-9117" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>
-,     <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>
-,     <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 167, No. 106425
-
-:aca-blank:{ .lg .middle}
-    [`#acoustic`](keyword/acoustic)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#damage`](keyword/damage)
-    [`#elevation`](keyword/elevation)
-    [`#emission`](keyword/emission)
-    [`#engineered`](keyword/engineered)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#insights`](keyword/insights)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Behavior%20and%20Damage%20Evolution%20of%203D-Printed%20Engineered%20Cementitious%20Composites%20at%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106425" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106425?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Clarifying the elevated temperature behavior of 3D-printed concrete, which differs from that of cast counterparts due to anisotropy and weak interfacial bonding, is critical for promoting its safe application in civil and strategic infrastructure. This study investigated the mechanical behavior of mold-cast (MC) and 3D-printed engineered cementitious composites (3DP-ECC) over the range of 20–800 °C, and employed acoustic emission (AE) techniques to monitor internal damage evolution. The results revealed that the macroscopic mechanical properties of all ECC specimens peaked at 105 °C and subsequently deteriorated with increasing temperature. Although the mechanical anisotropy of 3DP-ECC diminished due to matrix degradation at elevated temperatures, its tensile, compressive, and flexural failure paths remained deflected by interlayer interfaces, demonstrating superior crack control capacity. Further AE signal analysis identified fiber melting as a critical point for accelerated internal damage, characterized by a 58.4 %–66.5 % decrease in AE events and an 88.8 %–91.2 % drop in AE energy. Moreover, 3DP-ECC exhibited less thermal damage and superior energy absorption capacity at elevated temperatures, with AE ring counts and energy values 16.3 %–125.7 % and 9.3 %–145.5 % higher than MC specimens, respectively. The optimal loading orientation was observed along the Y-direction. These findings offer thorough insights into the elevated temperature response of 3DP-ECC and provide guidance for the development of more fire-resistant 3D-printed materials and structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
@@ -117,7 +90,37 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_chen_ge_zhan.2026.MBaDEo3PECCaET,
+      author            = "Jianhua Cheng and Meng Chen and Yulin Ge and Tong Zhang",
+      title             = "Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures: Insights from Acoustic Emission Characterization",
+      doi               = "10.1016/j.cemconcomp.2025.106425",
+      year              = "2026",
+      journal           = "Cement and Concrete Composites",
+      volume            = "167",
+      pages             = "106425",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Cheng, M. Chen, Y. Ge and T. Zhang, “Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures: Insights from Acoustic Emission Characterization”, <i>Cement and Concrete Composites</i>, vol. 167, p. 106425, 2026, doi: 10.1016/j.cemconcomp.2025.106425.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cheng, Jianhua, Meng Chen, Yulin Ge, and Tong Zhang. “Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures: Insights from Acoustic Emission Characterization”. <i>Cement and Concrete Composites</i> 167 (2026): 106425. https://doi.org/10.1016/j.cemconcomp.2025.106425.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

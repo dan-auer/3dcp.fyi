@@ -8,7 +8,7 @@ search:
 
 # #inter
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../liu_wang_sun_li.2025.ILSSaBSoS3PM/">Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar</a></li>
   <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/adhikari_sondipon"><b>Adhikari</b> Sondipon</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../jian_gao_adhi_yao.2024.SotMPoILI3PCBoaNN/">Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle</a></li>
   <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b> Pooneh</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../mous_beng_mous_mahd.2025.ILBSPo3PCUANN/">Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network:<br/>Experimental and Modeling Study</a></li>

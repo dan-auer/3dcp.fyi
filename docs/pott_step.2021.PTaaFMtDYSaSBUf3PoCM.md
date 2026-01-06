@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ursula Pott, Dietmar Stephan
+    - footer
+title: Pott Ursula, Stephan Dietmar
 description:
 tags:
  - buildability
@@ -20,34 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials ([2021-04](date/2021/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104066" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104066</a>
+#Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials ([2021-04](date/2021/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104066" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104066" target="_blank">10.1016/j.cemconcomp.2021.104066</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pott_ursula"><b>Pott</b>&nbsp;Ursula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 121
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> <a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 121, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#determination`](keyword/determination)
-    [`#fast`](keyword/fast)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-    [`#stress`](keyword/stress)
-    [`#structure`](keyword/structure)
-    [`#test`](keyword/test)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/fast"><button class="btn">#fast</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Penetration-Test%20as%20a%20Fast%20Method%20to%20Determine%20Yield-Stress%20and%20Structural%20Build-Up%20for%203D%20Printing%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105691144&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3155798352" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104066" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104066?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology is becoming increasingly important in the construction sector, leading to changes in material requirements compared to traditional manufacturing methods. To characterize the rheological properties (yield stress, viscosity, and structural build-up) of printable mortars, suitable methods are necessary. However, with a rheometer, this is problematic because a time-resolved determination of the properties is complicated, time-consuming, and the torque limitation is often too low. For this reason, a penetration test, and a formula for calculating the yield stress are introduced. To validate the formula, it is determined that the results are comparable with the calculated yield stress based on a rheological test. Furthermore, it is shown that it is possible to extrapolate the data and to determine structural build-up. This paper is intended to give an up-to-date overview of the penetration method and to illustrate the advantages and possibilities of the method in the field of 3D printing. Moreover, it is discussed in which areas improvement and further investigations are needed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bhat_sant.2020.EBo3PCbSoAAoS/">Enhancing Buildability of 3D Printable Concrete by Spraying of Accelerating-Admixture on Surface</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bong_nema_arun_xia.2020.EoWMFAoPo3PJAWG/">Effect of Wollastonite Micro-Fiber Addition on Properties of 3D Printable ‘Just-Add-Water’ Geopolymers</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../burg_llor_taha_scot.2020.DaFoaNSSCCUE/">Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell:<br/>Ultra-Thin, 3D Printed Formwork</a></li>
@@ -97,8 +73,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "40 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
       <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
@@ -140,4 +116,33 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../reit_wang_rous_flat.2022.SPfCCfDF/">Slow Penetration for Characterizing Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pott_step.2021.PTaaFMtDYSaSBUf3PoCM,
+      author            = "Ursula Pott and Dietmar Stephan",
+      title             = "Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials",
+      doi               = "10.1016/j.cemconcomp.2021.104066",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "121",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Pott  and D. Stephan, “Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials”, <i>Cement and Concrete Composites</i>, vol. 121, 2021, doi: 10.1016/j.cemconcomp.2021.104066.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pott, Ursula, and Dietmar Stephan. “Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials”. <i>Cement and Concrete Composites</i> 121 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104066.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

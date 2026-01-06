@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Petro Reznik, Anton Volodymyrov, Vladyslav Tenesesku, Pavlo Firsov
+    - footer
+title: Reznik Petro, Volodymyrov Anton, Tenesesku Vladyslav, Firsov Pavlo
 description:
 tags:
  - analysis
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/978-3-032-06829-3_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-032-06829-3_23</a>
+#Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-032-06829-3_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-06829-3_23" target="_blank">10.1007/978-3-032-06829-3_23</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3937-6833" title="ORCID: 0000-0003-3937-6833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reznik_petro"><b>Reznik</b>&nbsp;Petro</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8416-535X" title="ORCID: 0009-0001-8416-535X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volodymyrov_anton"><b>Volodymyrov</b>&nbsp;Anton</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4935-4454" title="ORCID: 0000-0002-4935-4454" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b>&nbsp;Vladyslav</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9119-3968" title="ORCID: 0000-0001-9119-3968" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/firsov_pavlo"><b>Firsov</b>&nbsp;Pavlo</a></span><br>
+Contribution - Smart Technologies in Urban Engineering, pp. 254-265
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a> <a href="https://orcid.org/0000-0003-3937-6833" title="ORCID: 0000-0003-3937-6833" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/volodymyrov_anton"><b>Volodymyrov</b> Anton</a> <a href="https://orcid.org/0009-0001-8416-535X" title="ORCID: 0009-0001-8416-535X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a> <a href="https://orcid.org/0000-0002-4935-4454" title="ORCID: 0000-0002-4935-4454" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/firsov_pavlo"><b>Firsov</b> Pavlo</a> <a href="https://orcid.org/0000-0001-9119-3968" title="ORCID: 0000-0001-9119-3968" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Smart Technologies in Urban Engineering, pp. 254-265
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#formwork`](keyword/formwork)
-    [`#multi`](keyword/multi)
-    [`#numeric`](keyword/numeric)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Analysis%20of%203D-Printed%20Permanent%20Formwork%20in%20Multi-Story%20Building%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019517248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414719503" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-032-06829-3_23" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-032-06829-3_23?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the feasibility of utilizing 3D Printed Concrete Technology (3DCP) for post-war building reconstruction in Ukraine. A structural system based on permanent formwork for columns and beams is analyzed. Through numerical analysis and modeling, it demonstrates that 3DCP offers cost-effective solutions, reducing construction time and labor. Results show that 3DCP elements of permanent formwork require no additional reinforcement for elements up to 9 m in length with a two-span support scheme, ensuring structural integrity while minimizing costs. The research also explores various structural configurations with span of main bearing elements from 4.2 m to 9 m, revealing that buildings constructed with 3DCP exhibit small horizontal displacements and accelerations, indicating sufficient spatial stiffness. Quantitative analysis indicates that the total vertical loads can be evenly distributed, meeting the requirements of most residential and administrative buildings. These findings underscore the potential of 3DCP technology to streamline the reconstruction process, improve structural efficiency, and address resource constraints in post-war environments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a></li>
@@ -80,7 +58,37 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{rezn_volo_tene_firs.2026.NAo3PPFiMSBC,
+      author            = "Petro Reznik and Anton Volodymyrov and Vladyslav Tenesesku and Pavlo Firsov",
+      title             = "Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction",
+      doi               = "10.1007/978-3-032-06829-3_23",
+      year              = "2026",
+      volume            = "1658",
+      pages             = "254--265",
+      booktitle         = "Smart Technologies in Urban Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Reznik, A. Volodymyrov, V. Tenesesku and P. Firsov, “Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction”, in <i>Smart Technologies in Urban Engineering</i>,  2026, vol. 1658, pp. 254–265. doi: 10.1007/978-3-032-06829-3_23.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reznik, Petro, Anton Volodymyrov, Vladyslav Tenesesku, and Pavlo Firsov. “Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction”. In <i>Smart Technologies in Urban Engineering</i>, 1658:254–65, 2026. https://doi.org/10.1007/978-3-032-06829-3_23.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

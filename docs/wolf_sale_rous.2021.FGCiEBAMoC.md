@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robert Wolfs, Theo Salet, Nicolas Roussel
+    - footer
+title: Wolfs Robert, Salet Theo, Roussel Nicolas
 description:
 tags:
  - additive
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2021.106615) Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>:aca-blank: The Good, the Bad and the Ugly ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106615" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106615</a>
+#Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">The Good, the Bad and the Ugly</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2021.106615) <a href="https://doi.org/10.1016/j.cemconres.2021.106615" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106615" target="_blank">10.1016/j.cemconres.2021.106615</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 150
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 150, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#extrusion`](keyword/extrusion)
-    [`#filament`](keyword/filament)
-    [`#geometry`](keyword/geometry)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Filament-Geometry-Control%20in%20Extrusion-Based%20Additive%20Manufacturing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85115989235&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,21 +39,15 @@ tags:
 <a href="https://inciteful.xyz/p/W3201672639" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106615" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106615?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Control of filament geometry in extrusion based additive manufacturing is essential to guarantee the desired quality of the printing process and the final product. Depending on the selected process parameters, material strategy and geometrical features, the printing process can however be susceptible to filament tearing or filament buckling. In this work, 2D and 3D CFD simulations have been used to map the influence of all these parameters in the infinite brick regime of 3D concrete printing processes. Analytical derivations of a tearing factor and buckling factor are presented. The use of these analytical tools is then illustrated, by studying variations in the printing process, such as changes in velocities, nozzle height, or material properties. Finally, the risk of both filament tearing and buckling of a single filament when printing sharp turns is discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../comm_serd_pede_span.2019.MPaNSoMDaCiEAM/">Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
@@ -94,8 +72,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "63 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/li_fuhai"><b>Li</b> Fuhai</a>, <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/li_kepu"><b>Li</b> Kepu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xiao_yang_li.2025.MPaAo3PCMwMMBoOPPD/">Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design</a></li>
@@ -159,7 +137,34 @@ tags:
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../kuzm_duco_fera_rous.2022.EIoEBAM/">Environmental Impact of Extrusion-Based Additive Manufacturing:<br/>Generic Model, Power-Measurements and Influence of Printing-Resolution</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/teng_huaijin"><b>Teng</b> Huaijin</a>, <a href="../../../author/liao_hengcheng"><b>Liao</b> Hengcheng</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../pan_teng_liao_jian.2022.EoSPAoMPo3PCBM/">Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials:<br/>Experimental and Numerical Studies</a></li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a></li>
-      <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wolf_sale_rous.2021.FGCiEBAMoC,
+      author            = "Robert Johannes Maria Wolfs and Theo A. M. Salet and Nicolas Roussel",
+      title             = "Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete: The Good, the Bad and the Ugly",
+      doi               = "10.1016/j.cemconres.2021.106615",
+      year              = "2021",
+      journal           = "Cement and Concrete Research",
+      volume            = "150",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. J. M. Wolfs, T. A. M. Salet and N. Roussel, “Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete: The Good, the Bad and the Ugly”, <i>Cement and Concrete Research</i>, vol. 150, 2021, doi: 10.1016/j.cemconres.2021.106615.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wolfs, Robert Johannes Maria, Theo A. M. Salet, and Nicolas Roussel. “Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete: The Good, the Bad and the Ugly”. <i>Cement and Concrete Research</i> 150 (2021). https://doi.org/10.1016/j.cemconres.2021.106615.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

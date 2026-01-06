@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karam Mawas, Mehdi Maboudi, Markus Gerke
+    - footer
+title: Mawas Karam, Maboudi Mehdi, Gerke Markus
 description:
 tags:
  - concrete
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } A Review on Geometry and Surface Inspection in 3D Concrete Printing ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.cemconres.2025.108030" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2025.108030</a>
+#A Review on Geometry and Surface Inspection in 3D Concrete Printing ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cemconres.2025.108030" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.108030" target="_blank">10.1016/j.cemconres.2025.108030</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mawas_karam"><b>Mawas</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maboudi_mehdi"><b>Maboudi</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gerke_markus"><b>Gerke</b>&nbsp;Markus</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 199, No. 108030
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> <a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a> <a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 199, No. 108030
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#geometry`](keyword/geometry)
-    [`#inspection`](keyword/inspection)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%20Geometry%20and%20Surface%20Inspection%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015730159&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414191339" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2025.108030" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2025.108030?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Given the substantial growth in the use of additive manufacturing in construction (AMC), it is necessary to ensure the quality of printed specimens, which can be much more complex than conventionally manufactured parts. This study examines the various aspects of geometry and surface quality control in 3D concrete printing (3DCP), with a particular emphasis on deposition-based methods, specifically extrusion and shotcrete 3D printing (SC3DP). A comprehensive overview of existing quality control (QC) methods and strategies is provided and preceded by an in-depth discussion. Four categories of data capture technologies are investigated and their advantages and limitations in the context of AMC are discussed. Additionally, the effects of environmental conditions and the properties of objects on data capture are also analyzed. The study extends to automated data capture planning methods for different sensors. Furthermore, various quality control strategies are explored across different stages of the fabrication cycle of the printed object including: (i) During printing, (ii) Layer-wise, (iii) Pre-assembly, and (iv) Assembly. In addition to reviewing the methods already applied in AMC, we also address various research gaps and future trends and highlight potential methodologies from adjacent domains that could be transferred to AMC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "71 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/heristchian_mahmoud"><b>Heristchian</b> Mahmoud</a>, <a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../bagh_heri_ledd_klof.2023.EaNAoNCDCCPotRSMT/">Experimental and Numerical Assessments of New Concrete Dry Connections Concerning Potentials of the Robotic Subtractive Manufacturing Technique</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../batt_mill_zivk.2019.SA3PoODCCLS/">Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures</a></li>
@@ -134,8 +115,38 @@ tags:
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhou_yuan_zhou.2021.DaFoa3CPPSB/">Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge</a></li>
       <li><a href="../../../author/zimmermann_stefan"><b>Zimmermann</b> Stefan</a>, <a href="../../../author/griego_danielle"><b>Griego</b> Danielle</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zimm_grie_flat.2024.VDoC3PSwARBoMLDIA/">Visualizing Defects of Concrete 3D Printed Structures with Augmented Reality Based on Machine Learning-Driven Image-Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mawa_mabo_gerk.2026.ARoGaSIi3CP,
+      author            = "Karam Mawas and Mehdi Maboudi and Markus Gerke",
+      title             = "A Review on Geometry and Surface Inspection in 3D Concrete Printing",
+      doi               = "10.1016/j.cemconres.2025.108030",
+      year              = "2026",
+      journal           = "Cement and Concrete Research",
+      volume            = "199",
+      pages             = "108030",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Mawas, M. Maboudi and M. Gerke, “A Review on Geometry and Surface Inspection in 3D Concrete Printing”, <i>Cement and Concrete Research</i>, vol. 199, p. 108030, 2026, doi: 10.1016/j.cemconres.2025.108030.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mawas, Karam, Mehdi Maboudi, and Markus Gerke. “A Review on Geometry and Surface Inspection in 3D Concrete Printing”. <i>Cement and Concrete Research</i> 199 (2026): 108030. https://doi.org/10.1016/j.cemconres.2025.108030.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

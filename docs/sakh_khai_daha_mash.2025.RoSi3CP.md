@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vishakha Sakhare, Neha Khairnar, Ulka Dahatonde, Shilpa Mashalkar
+    - footer
+title: Sakhare Vishakha, Khairnar Neha, Dahatonde Ulka, Mashalkar Shilpa
 description:
 tags:
  - assessment
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s42107-025-01408-6.pdf) Review on Sustainability in 3D Concrete Printing:<br/>:aca-blank: Focus on Waste Utilization and Life Cycle Assessment ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/s42107-025-01408-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s42107-025-01408-6</a>
+#Review on Sustainability in 3D Concrete Printing&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Focus on Waste Utilization and Life Cycle Assessment</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s42107-025-01408-6.pdf) <a href="https://doi.org/10.1007/s42107-025-01408-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42107-025-01408-6" target="_blank">10.1007/s42107-025-01408-6</a>
 
--------------------------
+<a href="../../../author/sakhare_vishakha"><b>Sakhare</b>&nbsp;Vishakha</a></span>, <a href="../../../author/khairnar_neha"><b>Khairnar</b>&nbsp;Neha</a></span>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b>&nbsp;Ulka</a></span>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b>&nbsp;Shilpa</a></span><br>
+Journal Article - Asian Journal of Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>
-,     <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>
-,     <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>
-,     <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Asian Journal of Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#util`](keyword/util)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Review%20on%20Sustainability%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008820912&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411531012" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s42107-025-01408-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s42107-025-01408-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Constructions using 3D printing are supposed to have potential benefits in sustainability, increased construction productivity, resource efficiency. Having spectacular benefits in the construction era, it announces many demanding challenges in the selection of appropriate material. When agro-industrial wastes are incorporated into concrete materials, 3D printing may also have significant benefits for sustainability. This paper's primary goal is to examine the sustainability aspects considered in delivering 3D printed structured mainly from raw precursors and life cycle assessment perspective. Initial data bases collected from search engines like google scholar, science direct was further scrutinized for selecting the papers. This study reviews mix composition used for printing 3D assembly using waste material like Granulated blast furnace slag, fly ash, silica fume etc. Effectiveness of the waste materials contributing to mechanical and fresh characteristics are explored. Industrial waste mostly be dumped found to have significant impact printability properties also contributing to sustainability aspects. Nonetheless, life cycle assessment (LCA) results are used to show how using wastes in 3D printing concrete materials affects environment in comparison to using traditional materials. Study deals with three pillars of sustainability i.e., Economical, environmental and sustainability. Outcome of the paper will help the researcher to optimally choose the waste precursors to deliver quality 3D printed structure with sustainable perspective.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "51 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
@@ -121,7 +99,35 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zivkovic_milijana"><b>Živković</b> Milijana</a>, <a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zivk_zujo_milo.2023.A3PSCUAI/">Architectural 3D Printed Structures Created Using Artificial Intelligence:<br/>A Review of Techniques and Applications</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sakh_khai_daha_mash.2025.RoSi3CP,
+      author            = "Vishakha Sakhare and Neha Khairnar and Ulka Dahatonde and Shilpa Mashalkar",
+      title             = "Review on Sustainability in 3D Concrete Printing: Focus on Waste Utilization and Life Cycle Assessment",
+      doi               = "10.1007/s42107-025-01408-6",
+      year              = "2025",
+      journal           = "Asian Journal of Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Sakhare, N. Khairnar, U. Dahatonde and S. Mashalkar, “Review on Sustainability in 3D Concrete Printing: Focus on Waste Utilization and Life Cycle Assessment”, <i>Asian Journal of Civil Engineering</i>, 2025, doi: 10.1007/s42107-025-01408-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sakhare, Vishakha, Neha Khairnar, Ulka Dahatonde, and Shilpa Mashalkar. “Review on Sustainability in 3D Concrete Printing: Focus on Waste Utilization and Life Cycle Assessment”. <i>Asian Journal of Civil Engineering</i>, 2025. https://doi.org/10.1007/s42107-025-01408-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

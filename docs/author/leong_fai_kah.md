@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Leong Kah 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/zhu_weiping"><b>Zhu</b> Weiping</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lu_zhu_weng_liu.2020.SoMASaaCMfSSB3P/">Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing</a></li>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lu_qian_li_weng.2019.DSB3PCMwFACaAEA/">Designing Spray-Based 3D Printable Cementitious Materials with Fly-Ash-Cenosphere and Air-Entraining Agent</a></li>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nazar Salman, Guowei Ma, Nauman Ijaz, Li Wang
+    - footer
+title: Salman Nazar, Ma Guowei, Ijaz Nauman, Wang Li
 description:
 tags:
  - base
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing:<br/>:aca-blank: Prospects and Challenges ([2021-04](date/2021/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.123281" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.123281</a>
+#Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing&nbsp;([2021-04](date/2021/04))
+<div class="h1-like">Prospects and Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.123281" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.123281" target="_blank">10.1016/j.conbuildmat.2021.123281</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2499-9512" title="ORCID: 0000-0002-2499-9512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salman_muhammad_nazar"><b>Salman</b>&nbsp;Nazar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9755-6296" title="ORCID: 0000-0002-9755-6296" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ijaz_nauman"><b>Ijaz</b>&nbsp;Nauman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 291
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a> <a href="https://orcid.org/0000-0002-2499-9512" title="ORCID: 0000-0002-2499-9512" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a> <a href="https://orcid.org/0000-0002-9755-6296" title="ORCID: 0000-0002-9755-6296" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 291, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#derivative`](keyword/derivative)
-    [`#extrusion`](keyword/extrusion)
-    [`#importance`](keyword/importance)
-    [`#material`](keyword/material)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/importance"><button class="btn">#importance</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Importance%20and%20Potential%20of%20Cellulosic%20Materials%20and%20Derivatives%20in%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104920633&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3161159840" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.123281" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.123281?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is an emerging digital construction technique, thwarted by critical issues related to its material design and preparation. These problems demand innovative and sustainable solutions. Cellulosic materials (CMs) are the most bountiful natural polymers and are superb starting materials for the large-scale manufacturing of sustainable chemicals and derivatives. This article presents innovative ideas for the viable use of CMs and derivatives in extrusion-based 3DCP (E-3DCP). In the light of a detailed literature review, the CMs and derivatives were critically analyzed based on their attributes, and potential combinations along with their limitations, possible side effects, and incompatibilities with other raw materials and admixtures currently used in E-3DCP. The potential efficacy of CMs and derivatives in E-3DCP may have been overlooked. Accordingly, a structured classification of CMs and derivatives is proposed for E-3DCP. CMs and derivatives offer sustainable ways to be used as fine aggregates, reinforcements, and cement replacements. Besides, these also offer practicable internal curing and alternative shrinkage mitigation applications. Furthermore, these could be used in numerous multiple combinations with other materials to derive complementary benefits. Importantly, CMs and derivatives could significantly improve cost-effectiveness through mix design optimization choices, and their use in lightweight E-3DCP structures. Finally, recommendations are drawn as benchmarks for future research and development. Therefore, an increased yet optimized use of CMs and derivatives could lead to revolutionary applications of E-3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "67 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -115,7 +93,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li><a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../salm_ma_ijaz_wang.2021.IaPoCMaDiEB3CP/">Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing:<br/>Prospects and Challenges</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
@@ -138,8 +115,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
@@ -167,6 +144,34 @@ tags:
       <li><a href="../../../author/diniz_alessandro-almeida_hugo"><b>Diniz</b> Hugo</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/ferreira_landolfo-silva_ruan"><b>Ferreira</b> Ruan</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../dini_mart_cabr_ferr.2023.SEotUoMSaWotPoCCf3P/">Synergistic Effects of the Use of Metakaolin, Sand and Water on the Properties of Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../shak_chu_puza_dini.2022.RoBJ3PitCI/">Review of Binder-Jetting 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../marc_ziej_gade_korn.2021.HMBoFAMaCf3P/">Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing</a></li>
-      <li><a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../salm_ma_ijaz_wang.2021.IaPoCMaDiEB3CP/">Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing:<br/>Prospects and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{salm_ma_ijaz_wang.2021.IaPoCMaDiEB3CP,
+      author            = "Nazar Muhammad Salman and Guowei Ma and Nauman Ijaz and Li Wang",
+      title             = "Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing: Prospects and Challenges",
+      doi               = "10.1016/j.conbuildmat.2021.123281",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "291",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. M. Salman, G. Ma, N. Ijaz and L. Wang, “Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing: Prospects and Challenges”, <i>Construction and Building Materials</i>, vol. 291, 2021, doi: 10.1016/j.conbuildmat.2021.123281.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Salman, Nazar Muhammad, Guowei Ma, Nauman Ijaz, and Li Wang. “Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing: Prospects and Challenges”. <i>Construction and Building Materials</i> 291 (2021). https://doi.org/10.1016/j.conbuildmat.2021.123281.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

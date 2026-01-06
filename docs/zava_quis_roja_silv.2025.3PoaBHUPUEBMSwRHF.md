@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Diana Zavaleta, Axcel Quispe, Omar Rojas, Guido Silva, Suyeon Kim, Javier Nakamatsu, Gaby Ruiz, Miguel Pando, Rafael Aguilar
+    - footer
+title: Zavaleta Diana, Quispe Axcel, Rojas Omar, Silva Guido, Kim Suyeon, Nakamatsu Javier, Ruiz Gaby, Pando Miguel, Aguilar Rafael
 description:
 tags:
  - base
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.jobe.2025.112111" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112111</a>
+#3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112111" target="_blank">10.1016/j.jobe.2025.112111</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4755-791X" title="ORCID: 0000-0002-4755-791X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavaleta_diana"><b>Zavaleta</b>&nbsp;Diana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2620-8120" title="ORCID: 0000-0002-2620-8120" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quispe_axcel"><b>Quispe</b>&nbsp;Axcel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0598-9837" title="ORCID: 0000-0002-0598-9837" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rojas_omar"><b>Rojas</b>&nbsp;Omar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_guido"><b>Silva</b>&nbsp;Guido</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_suyeon"><b>Kim</b>&nbsp;Suyeon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3835-9708" title="ORCID: 0000-0003-3835-9708" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruiz_gaby"><b>Ruiz</b>&nbsp;Gaby</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9940-7887" title="ORCID: 0000-0001-9940-7887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pando_a_miguel"><b>Pando</b>&nbsp;Miguel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aguilar_rafael"><b>Aguilar</b>&nbsp;Rafael</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112111
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a> <a href="https://orcid.org/0000-0002-4755-791X" title="ORCID: 0000-0002-4755-791X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a> <a href="https://orcid.org/0000-0002-2620-8120" title="ORCID: 0000-0002-2620-8120" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a> <a href="https://orcid.org/0000-0002-0598-9837" title="ORCID: 0000-0002-0598-9837" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> <a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> <a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> <a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> <a href="https://orcid.org/0000-0003-3835-9708" title="ORCID: 0000-0003-3835-9708" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pando_a_miguel"><b>Pando</b> Miguel</a> <a href="https://orcid.org/0000-0001-9940-7887" title="ORCID: 0000-0001-9940-7887" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> <a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112111
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#earth`](keyword/earth)
-    [`#fiber`](keyword/fiber)
-    [`#house`](keyword/house)
-    [`#matrix`](keyword/matrix)
-    [`#print`](keyword/print)
-    [`#prototype`](keyword/prototype)
-    [`#stability`](keyword/stability)
-    [`#unit`](keyword/unit)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D-Printing%20of%20a%20Basic%20Housing%20Unit%20Prototype%20Using%20Earthen-Based%20Matrices%20Stabilized%20with%20Rice%20Husk%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218149541&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407397982" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112111" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112111?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry faces significant challenges, including the urgent need to minimize environmental impact and develop more efficient building methods. Additive manufacturing, commonly known as 3D-printing, has emerged as a promising solution due to its advantages, such as rapid fabrication, design flexibility, cost reduction, and enhanced safety. This technology enables the creation of structures from digital models through automated layering, presenting opportunities for mass production with innovative materials and architectural designs. This article focuses on developing eco-friendly earthen-based materials stabilized with 9% cement and 2% rice husk (RH) for large-scale 3D-printed construction. The raw materials were characterized using geotechnical tests for soil, water absorption tests for natural fibers, and SEM-EDS to examine their microstructure and elemental composition. Key properties such as rheology, printability (pumpability and extrudability), buildability, and compressive strength were evaluated to ensure the material's optimal performance in both fresh and hardened states. By utilizing locally sourced materials such as soil and rice husk, the mixture significantly reduces environmental impact and production costs, making it a sustainable alternative for large-scale 3D-printed construction. The material was integrated into architectural and digital fabrication techniques to construct a bioinspired housing prototype showcases the practical application of the developed material, demonstrating its scalability, adaptability, and suitability for innovative and cost-effective real housing solutions. The article highlights the feasibility of using earthen-based materials for sustainable 3D-printed housing, thereby opening new possibilities for advancing greener construction practices in the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bici_andjol"><b>Bici</b> Andjol</a>, <a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b> Anna</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bici_yuni.2023.Ao3PTfBC/">Analysis of 3D Printing Techniques for Building Construction:<br/>A Review</a></li>
       <li><a href="../../../author/dhaese_romain"><b>D'Haese</b> Romain</a>, <a href="../../../author/carpentier_olivier"><b>Carpentier</b> Olivier</a>, <a href="../../../author/dubois_vincent"><b>Dubois</b> Vincent</a>, <a href="../../../author/chafei_sawsen"><b>Chafei</b> Sawsen</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dha_carp_dubo_chaf.2022.3PMMwIB/">3D Printable Materials Made with Industrial Byproducts:<br/>Formulation, Fresh and Hardened Properties</a></li>
@@ -96,7 +68,36 @@ tags:
       <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zava_nane_silv_ruiz.2024.ACUEEBC/">Additive Construction Using Enhanced Earthen-Based Composites:<br/>Improvement of the Mechanical Strength and Water Durability Using Chitosan and Agave-Fibers</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF,
+      author            = "Diana Zavaleta and Axcel Quispe and Omar Rojas and Guido Silva and Suyeon Kim and Javier Nakamatsu and Gaby Ruiz and Miguel A. Pando and Rafael Aguilar",
+      title             = "3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers",
+      doi               = "10.1016/j.jobe.2025.112111",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112111",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Zavaleta, “3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers”, <i>Journal of Building Engineering</i>, p. 112111, 2025, doi: 10.1016/j.jobe.2025.112111.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zavaleta, Diana, Axcel Quispe, Omar Rojas, Guido Silva, Suyeon Kim, Javier Nakamatsu, Gaby Ruiz, Miguel A. Pando, and Rafael Aguilar. “3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers”. <i>Journal of Building Engineering</i>, 2025, 112111. https://doi.org/10.1016/j.jobe.2025.112111.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

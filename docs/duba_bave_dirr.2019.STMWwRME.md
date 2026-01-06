@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Romain Duballet, Olivier Baverel, Justin Dirrenberger
+    - footer
+title: Duballet Romain, Baverel Olivier, Dirrenberger Justin
 description:
 tags:
  - extrusion
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S2352012418301309) Space-Truss-Masonry-Walls with Robotic Mortar-Extrusion ([2018-11](date/2018/11))
-<a href="https://doi.org/10.1016/j.istruc.2018.11.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2018.11.003</a>
+#Space-Truss-Masonry-Walls with Robotic Mortar-Extrusion ([2018-11](date/2018/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S2352012418301309) <a href="https://doi.org/10.1016/j.istruc.2018.11.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2018.11.003" target="_blank">10.1016/j.istruc.2018.11.003</a>
 
--------------------------
+<a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/baverel_olivier"><b>Baverel</b>&nbsp;Olivier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span><br>
+Journal Article - Structures, Vol. 18, pp. 41-47
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>
-,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
-,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 18, pp. 41-47
-
-:aca-blank:{ .lg .middle}
-    [`#extrusion`](keyword/extrusion)
-    [`#masonry`](keyword/masonry)
-    [`#mortar`](keyword/mortar)
-    [`#robot`](keyword/robot)
-    [`#space`](keyword/space)
-    [`#truss`](keyword/truss)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/masonry"><button class="btn">#masonry</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/truss"><button class="btn">#truss</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Space-Truss-Masonry-Walls%20with%20Robotic%20Mortar-Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85057027476&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2901189783" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2018.11.003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2018.11.003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work presents a generalized method for robotic mortar extrusion, allowing the fabrication of structural-insulating walls of novel performances. It involves two distinct steps that are to be simultaneously automated: extrusion of a specifically formulated mortar, and assembly of adequately shaped insulating blocks. Here, the layer by layer approach of concrete printing is renewed by using insulating blocks as support for the extrusion. The volumetric space of the wall is divided by an adequate space tessellation, dividing it in polyhedra. They become insulating blocks, on the edges of which mortar is extruded. The set of edges then forms a space truss, of great mechanical efficiency. “Printable” mortar is crucial to the system for the blocks could not withstand the hydrostatic pressure of fresh mortar without additional form-work features, once a few meters height has been reached. This approach renews traditional confined masonry, allowing for geometric complexity and automation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -75,8 +55,8 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>
@@ -102,4 +82,34 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duba_bave_dirr.2019.STMWwRME,
+      author            = "Romain Duballet and Olivier Baverel and Justin Dirrenberger",
+      title             = "Space-Truss-Masonry-Walls with Robotic Mortar-Extrusion",
+      doi               = "10.1016/j.istruc.2018.11.003",
+      year              = "2019",
+      journal           = "Structures",
+      volume            = "18",
+      pages             = "41--47",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Duballet, O. Baverel and J. Dirrenberger, “Space-Truss-Masonry-Walls with Robotic Mortar-Extrusion”, <i>Structures</i>, vol. 18, pp. 41–47, 2019, doi: 10.1016/j.istruc.2018.11.003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Duballet, Romain, Olivier Baverel, and Justin Dirrenberger. “Space-Truss-Masonry-Walls with Robotic Mortar-Extrusion”. <i>Structures</i> 18 (2019): 41–47. https://doi.org/10.1016/j.istruc.2018.11.003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

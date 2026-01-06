@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Natalia Chernysheva, Svetlana Shatalova, Valeriy Lesovik, Pavel Kozlov
+    - footer
+title: Chernysheva Natalia, Shatalova Svetlana, Lesovik Valeriy, Kozlov Pavel
 description:
 tags:
  - base
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Deformation Characteristics of Dense and Foamed Mortars Based on Cement and Gypsum-to-Cement Binders for 3D Printing ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133986" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133986</a>
+#Deformation Characteristics of Dense and Foamed Mortars Based on Cement and Gypsum-to-Cement Binders for 3D Printing ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133986" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133986" target="_blank">10.1016/j.conbuildmat.2023.133986</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8376-5065" title="ORCID: 0000-0001-8376-5065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chernysheva_natalia"><b>Chernysheva</b>&nbsp;Natalia</a></span>, <a href="../../../author/shatalova_svetlana"><b>Shatalova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2378-3947" title="ORCID: 0000-0002-2378-3947" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesovik_stanislavovich_valeriy"><b>Lesovik</b>&nbsp;Valeriy</a></span>, <a href="../../../author/kozlov_pavel"><b>Kozlov</b>&nbsp;Pavel</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 409, No. 133986
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chernysheva_natalia"><b>Chernysheva</b> Natalia</a> <a href="https://orcid.org/0000-0001-8376-5065" title="ORCID: 0000-0001-8376-5065" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shatalova_svetlana"><b>Shatalova</b> Svetlana</a>
-,     <a href="../../../author/lesovik_stanislavovich_valeriy"><b>Lesovik</b> Valeriy</a> <a href="https://orcid.org/0000-0002-2378-3947" title="ORCID: 0000-0002-2378-3947" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kozlov_pavel"><b>Kozlov</b> Pavel</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 409, No. 133986
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#deformation`](keyword/deformation)
-    [`#density`](keyword/density)
-    [`#foam`](keyword/foam)
-    [`#gypsum`](keyword/gypsum)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/density"><button class="btn">#density</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/gypsum"><button class="btn">#gypsum</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Deformation%20Characteristics%20of%20Dense%20and%20Foamed%20Mortars%20Based%20on%20Cement%20and%20Gypsum-to-Cement%20Binders%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85177982759&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388713051" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133986" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133986?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction 3D printing is one of the revolutionary construction technologies, which involves the use of highly fluid cement and gypsum-to-cement mixes. However, this requires an additional study of the deformation characteristics of multicomponent materials. The article is devoted to the study of the own deformation characteristics of mortars based on cement and gypsum-to-cement binders, as well as fine-grained concrete for printing the contours of wall structures and foamed mortar for filling, monolithic and thermal insulation of their internal space. A wide range of cement and gypsum-to-cement materials has been studied, incl. foamed mortar. For these materials, comprehensive studies of deformation characteristics have been carried out, confirming the results obtained by X-ray diffraction analysis, SEM, heat of hydration, fresh and physical and mechanical properties. It has been established that in gypsum-to-cement materials, the revealed deformations of the expansion of gypsum overlap the negative deformations of air shrinkage. The resulting materials have a slump flow up to 226 cm, which allows the use of these materials for 3D printing of building structures. The high strength of the developed cement and gypsum-to-cement materials in all periods of hardening (above 50 MPa), as well as excellent thermal conductivity (0.10–0.13 W/(m·°C)), shows the promise of fine-grained mortars and foamed ones.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/guseynova_gyunay"><b>Guseynova</b> Gyunay</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../mark_nere_schr_guse.2019.MDaPEoFCfDF/">Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication</a></li>
@@ -83,9 +59,39 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a></li>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cher_shat_leso_kozl.2023.DCoDaFMBoCaGtCBf3P,
+      author            = "Natalia Chernysheva and Svetlana Shatalova and Valeriy Stanislavovich Lesovik and Pavel Kozlov",
+      title             = "Deformation Characteristics of Dense and Foamed Mortars Based on Cement and Gypsum-to-Cement Binders for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2023.133986",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "409",
+      pages             = "133986",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Chernysheva, S. Shatalova, V. S. Lesovik and P. Kozlov, “Deformation Characteristics of Dense and Foamed Mortars Based on Cement and Gypsum-to-Cement Binders for 3D Printing”, <i>Construction and Building Materials</i>, vol. 409, p. 133986, 2023, doi: 10.1016/j.conbuildmat.2023.133986.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chernysheva, Natalia, Svetlana Shatalova, Valeriy Stanislavovich Lesovik, and Pavel Kozlov. “Deformation Characteristics of Dense and Foamed Mortars Based on Cement and Gypsum-to-Cement Binders for 3D Printing”. <i>Construction and Building Materials</i> 409 (2023): 133986. https://doi.org/10.1016/j.conbuildmat.2023.133986.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

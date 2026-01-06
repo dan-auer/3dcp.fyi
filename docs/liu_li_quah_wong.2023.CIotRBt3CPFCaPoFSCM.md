@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenbang Liu, Mingyang Li, Tan Quah, Teck Wong, Ming Tan
+    - footer
+title: Liu Zhenbang, Li Mingyang, Quah Tan, Wong Teck, Tan Ming
 description:
 tags:
  - cement
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comprehensive Investigations on the Relationship Between the 3D Concrete Printing Failure Criterion and Properties of Fresh-State Cementitious Materials ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.addma.2023.103787" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103787</a>
+#Comprehensive Investigations on the Relationship Between the 3D Concrete Printing Failure Criterion and Properties of Fresh-State Cementitious Materials ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2023.103787" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103787" target="_blank">10.1016/j.addma.2023.103787</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhenbang"><b>Liu</b>&nbsp;Zhenbang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6124-3020" title="ORCID: 0000-0001-6124-3020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quah_kai-noel_tan"><b>Quah</b>&nbsp;Tan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 76, No. 103787
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> <a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a> <a href="https://orcid.org/0000-0001-6124-3020" title="ORCID: 0000-0001-6124-3020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 76, No. 103787
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#criteria`](keyword/criteria)
-    [`#failure`](keyword/failure)
-    [`#fresh`](keyword/fresh)
-    [`#investigation`](keyword/investigation)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#relation`](keyword/relation)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comprehensive%20Investigations%20on%20the%20Relationship%20Between%20the%203D%20Concrete%20Printing%20Failure%20Criterion%20and%20Properties%20of%20Fresh-State%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171623654&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386777986" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103787" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103787?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the 3D concrete printing (3DCP) process, the fresh-state cementitious material is extruded layer by layer without any formwork support; hence, high buildability is required to resist printing failure. Although the printing failure is considered correlated to the strengths and elastic moduli of fresh 3DCP materials, the quantitative relationship between the 3DCP failure criterion and material properties is unclear. In this study, constant shear rate tests (CSRTs), large amplitude oscillatory tests (LAOTs), unconfined uniaxial compression tests (UUCTs), and squeeze flow tests (SFTs) were conducted to determine the properties of three 3DCP mixtures. By analyzing different test methods, this paper found that the Mohr-Coulomb failure criterion can be determined by combining CSRT and UUCT results, and the elastic modulus transmitted from the shear modulus of LAOT is not comparable to those from UUCT and SFT. By analyzing the stress states of the 3DCP member and tested samples, this paper revealed that during printing, the critical areas in the 3DCP member are uniaxially and biaxially compressed with the same compressive strength. Since UUCT results represent compressive performances of uniaxially compressed areas, the 3DCP failure criterion can be determined by UUCT without combining other testing methods. Furthermore, the prediction from UUCTs presented a good fit compared to printing test results with an error of 3.56%; thus, the quantitative link between the 3DCP failure criterion and material compressive strengths from UUCTs was validated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -114,8 +87,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ali-shah_farasat_syed"><b>Ali Shah</b> Syed</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/xuan_dongxing"><b>Xuan</b> Dongxing</a>, <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ali_zhan_xuan_poon.2025.DoaNMSfSoDPoOPGUMSWIBAaBFS/">Development of a Novel Mixing Strategy for Set-on-Demand Printing of One-Part Geopolymer Using Municipal Solid Waste Incineration Bottom Ash and Blast Furnace Slag</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
       <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a></li>
@@ -131,4 +104,34 @@ tags:
       <li><a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../bala_sasi_govi.2024.SoCoCACoEAPo3PC/">Study on Criticality of Coarse Aggregate Content on Early-Age Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../khan_ilca_imra_amin.2024.TIoNDaPSoGB3PCS/">The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures:<br/>Numerical Modeling and Experimental Validation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_quah_wong.2023.CIotRBt3CPFCaPoFSCM,
+      author            = "Zhenbang Liu and Mingyang Li and Tan Kai Noel Quah and Teck Neng Wong and Ming Jen Tan",
+      title             = "Comprehensive Investigations on the Relationship Between the 3D Concrete Printing Failure Criterion and Properties of Fresh-State Cementitious Materials",
+      doi               = "10.1016/j.addma.2023.103787",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+      volume            = "76",
+      pages             = "103787",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Liu, M. Li, T. K. N. Quah, T. N. Wong and M. J. Tan, “Comprehensive Investigations on the Relationship Between the 3D Concrete Printing Failure Criterion and Properties of Fresh-State Cementitious Materials”, <i>Additive Manufacturing</i>, vol. 76, p. 103787, 2023, doi: 10.1016/j.addma.2023.103787.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Zhenbang, Mingyang Li, Tan Kai Noel Quah, Teck Neng Wong, and Ming Jen Tan. “Comprehensive Investigations on the Relationship Between the 3D Concrete Printing Failure Criterion and Properties of Fresh-State Cementitious Materials”. <i>Additive Manufacturing</i> 76 (2023): 103787. https://doi.org/10.1016/j.addma.2023.103787.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

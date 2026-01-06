@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kim Brunner, Thorsten Stengel, Andrea Kustermann
+    - footer
+title: Brunner Kim, Stengel Thorsten, Kustermann Andrea
 description:
 tags:
  - bed
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Particle-Bed Printing Using Different Cementitious Binders and Recycled Sand ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1007/978-3-031-80724-4_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-80724-4_49</a>
+#3D Particle-Bed Printing Using Different Cementitious Binders and Recycled Sand ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-80724-4_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_49" target="_blank">10.1007/978-3-031-80724-4_49</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5979-4162" title="ORCID: 0000-0002-5979-4162" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brunner_kim"><b>Brunner</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stengel_thorsten"><b>Stengel</b>&nbsp;Thorsten</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8582-3799" title="ORCID: 0000-0002-8582-3799" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kustermann_andrea"><b>Kustermann</b>&nbsp;Andrea</a></span><br>
+Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 398-405
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a> <a href="https://orcid.org/0000-0002-5979-4162" title="ORCID: 0000-0002-5979-4162" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kustermann_andrea"><b>Kustermann</b> Andrea</a> <a href="https://orcid.org/0000-0002-8582-3799" title="ORCID: 0000-0002-8582-3799" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 398-405
-
-:aca-blank:{ .lg .middle}
-    [`#bed`](keyword/bed)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#difference`](keyword/difference)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Particle-Bed%20Printing%20Using%20Different%20Cementitious%20Binders%20and%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218044265&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,25 +38,51 @@ tags:
 <a href="https://inciteful.xyz/p/W4406171968" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-80724-4_49" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-80724-4_49?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research aims to explore the potential of 3D Particle Bed Printing (3DPBP) as an additive manufacturing technique for sustainable construction applications. The study focuses on the utilization of different cementitious binders, including a Portland cement free option (calcium sulfoaluminate cement), in combination with recycled sand to create environmentally friendly building components. The research investigates the printability and mechanical properties of 3DPBP printed objects, with a specific emphasis on compressive strength. The incorporation of recycled sand as a byproduct of construction and demolition waste treatment adds an eco-friendly dimension to the process, contributing to the circular economy. The paper underscores the significance of optimizing material compositions to achieve desired performance characteristics while minimizing the demand for natural resources. The results of this ongoing research are expected to shed light on the potential of 3DPBP to rethink the construction industry and advance sustainable building practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../lowk_mai_keit_perr.2022.MPIiPB3PatUP/">Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../mai_lowk_perr.2022.FIiPBfSCA/">Fluid-Intrusion in Powder-Beds for Selective Cement-Activation:<br/>An Experimental and Analytical Study</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a>, <a href="../../../author/tandon_kai"><b>Tandon</b> Kai</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../brun_tand_sten.2024.HCo3PBPCS/">Hydration Characteristics of 3D Particle-Bed Printed Cementitious Specimens</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{brun_sten_kust.2024.3PBPUDCBaRS,
+      author            = "Kim Brunner and Thorsten Stengel and Andrea Kustermann",
+      title             = "3D Particle-Bed Printing Using Different Cementitious Binders and Recycled Sand",
+      doi               = "10.1007/978-3-031-80724-4_49",
+      year              = "2024",
+      volume            = "574",
+      pages             = "398--405",
+      booktitle         = "Proceedings of the 4th fib International Conference on Concrete Sustainability",
+      editor            = "Joaquim A. O. Barros and Vítor M. C. F. Cunha and Hélder S. Sousa and José C. Matos and José M. Sena-Cruz",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Brunner, T. Stengel and A. Kustermann, “3D Particle-Bed Printing Using Different Cementitious Binders and Recycled Sand”, in <i>Proceedings of the 4th fib International Conference on Concrete Sustainability</i>,  2024, vol. 574, pp. 398–405. doi: 10.1007/978-3-031-80724-4_49.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Brunner, Kim, Thorsten Stengel, and Andrea Kustermann. “3D Particle-Bed Printing Using Different Cementitious Binders and Recycled Sand”. In <i>Proceedings of the 4th Fib International Conference on Concrete Sustainability</i>, edited by Joaquim A. O. Barros, Vítor M. C. F. Cunha, Hélder S. Sousa, José C. Matos, and José M. Sena-Cruz, 574:398–405, 2024. https://doi.org/10.1007/978-3-031-80724-4_49.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

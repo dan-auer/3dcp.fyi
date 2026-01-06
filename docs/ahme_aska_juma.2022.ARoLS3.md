@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ghafur Ahmed, Nasih Askandar, Ghazi Jumaa
+    - footer
+title: Ahmed Ghafur, Askandar Nasih, Jumaa Ghazi
 description:
 tags:
  - 3dcp
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Review of Large-Scale 3DCP:<br/>:aca-blank: Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.istruc.2022.06.068" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2022.06.068</a>
+#A Review of Large-Scale 3DCP&nbsp;([2022-07](date/2022/07))
+<div class="h1-like">Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2022.06.068" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2022.06.068" target="_blank">10.1016/j.istruc.2022.06.068</a>
 
--------------------------
+<a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b>&nbsp;Ghafur</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9713-9524" title="ORCID: 0000-0001-9713-9524" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b>&nbsp;Nasih</a></span>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b>&nbsp;Ghazi</a></span><br>
+Journal Article - Structures, Vol. 43, pp. 508-532
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>
-,     <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a> <a href="https://orcid.org/0000-0001-9713-9524" title="ORCID: 0000-0001-9713-9524" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 43, pp. 508-532
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#characteristic`](keyword/characteristic)
-    [`#design`](keyword/design)
-    [`#large`](keyword/large)
-    [`#material`](keyword/material)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-    [`#scale`](keyword/scale)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Large-Scale%203DCP" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134658683&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283791718" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2022.06.068" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2022.06.068?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is the additive manufacturing (AM) with the use of cementitious materials. It is a layer-by-layer new construction method which can provide design flexibility, minimize material waste, improve sustainability, decrease construction period, reduce labor requirements, increase site safety and significantly reduce the overall costs. In past 10 years, significant improvements have been made in developing concrete printers to transfer 3DCP from lab-scale to the real construction-scale. In this paper, the existing techniques that have been applied in construction of largescale 3DCP are presented. The recent literature is explored for new mix characteristics, printing process parameters, insight relations of flowability-extrudability-buildability, the hardened and mechanical properties of extrusion-based 3DPC. In addition, this paper investigated the different applied techniques for reinforcing of 3DPC structures in details, because to date, the largest challenge that faced 3DPC structures is the lack of appropriate methods of reinforcement. Overall, this work presents a comprehensive systematic review of 330 most recent publications in this field, with the focus on the last 3 years.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "193 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
@@ -268,8 +244,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "67 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
@@ -337,4 +314,34 @@ tags:
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/diwan_anushree"><b>Diwan</b> Anushree</a>, <a href="../../../author/patel_singh_shiv"><b>Patel</b> Shiv</a>, <a href="../../../author/pal_ankit"><b>Pal</b> Ankit</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../diwa_pate_pal_dwiv.2024.FCoCMwVSFfAC/">Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ahme_aska_juma.2022.ARoLS3,
+      author            = "Ghafur H. Ahmed and Nasih Habeeb Askandar and Ghazi B. Jumaa",
+      title             = "A Review of Large-Scale 3DCP: Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies",
+      doi               = "10.1016/j.istruc.2022.06.068",
+      year              = "2022",
+      journal           = "Structures",
+      volume            = "43",
+      pages             = "508--532",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. H. Ahmed, N. H. Askandar and G. B. Jumaa, “A Review of Large-Scale 3DCP: Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies”, <i>Structures</i>, vol. 43, pp. 508–532, 2022, doi: 10.1016/j.istruc.2022.06.068.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahmed, Ghafur H., Nasih Habeeb Askandar, and Ghazi B. Jumaa. “A Review of Large-Scale 3DCP: Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies”. <i>Structures</i> 43 (2022): 508–32. https://doi.org/10.1016/j.istruc.2022.06.068.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

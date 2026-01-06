@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matthias Rutzen, Michael Schulz, Judith Moosburger-Will, Philipp Lauff, Oliver Fischer, Dirk Volkmer
+    - footer
+title: Rutzen Matthias, Schulz Michael, Moosburger-Will Judith, Lauff Philipp, Fischer Oliver, Volkmer Dirk
 description:
 tags:
  - automation
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-021-01827-2.pdf) 3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²) ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1617/s11527-021-01827-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-021-01827-2</a>
+#3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²) ([2021-11](date/2021/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-021-01827-2.pdf) <a href="https://doi.org/10.1617/s11527-021-01827-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-021-01827-2" target="_blank">10.1617/s11527-021-01827-2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2002-9014" title="ORCID: 0000-0003-2002-9014" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rutzen_matthias"><b>Rutzen</b>&nbsp;Matthias</a></span>, <a href="../../../author/schulz_michael"><b>Schulz</b>&nbsp;Michael</a></span>, <a href="../../../author/moosburger-will_judith"><b>Moosburger-Will</b>&nbsp;Judith</a></span>, <a href="../../../author/lauff_philipp"><b>Lauff</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0528-5634" title="ORCID: 0000-0003-0528-5634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fischer_oliver"><b>Fischer</b>&nbsp;Oliver</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8105-2157" title="ORCID: 0000-0002-8105-2157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volkmer_dirk"><b>Volkmer</b>&nbsp;Dirk</a></span><br>
+Journal Article - Materials and Structures, Vol. 54, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a> <a href="https://orcid.org/0000-0003-2002-9014" title="ORCID: 0000-0003-2002-9014" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schulz_michael"><b>Schulz</b> Michael</a>
-,     <a href="../../../author/moosburger-will_judith"><b>Moosburger-Will</b> Judith</a>
-,     <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>
-,     <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="https://orcid.org/0000-0003-0528-5634" title="ORCID: 0000-0003-0528-5634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="https://orcid.org/0000-0002-8105-2157" title="ORCID: 0000-0002-8105-2157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 54, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20as%20an%20Automated%20Manufacturing%20Method%20for%20a%20Carbon-Fiber-Reinforced%20Cementitious%20Composite%20with%20Outstanding%20Flexural%20Strength%20%28105%20N/mm%C2%B2%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120181224&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3216383364" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-021-01827-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-021-01827-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As research interest in the additive manufacturing of cementitious materials for structural uses has been continuously increasing, the question of how to incorporate tensile reinforcement in an automated process has gained further importance. Our research describes a carbon fiber-reinforced cementitious composite produced by common extrusion techniques applied in 3D printing as a means to effectively control fiber alignment. Optimization of the mixture design and consistency allows for admixing up to 3 vol.-% chopped carbon fibers, leading to specimens that can reach a flexural strength exceeding 100 N/mm2 without the addition of further continuous reinforcement. Fiber integrity during the process was checked using optical microscopy. Analysis of the microstructure shows that approximately 70% of the fibers are aligned within ± 5° of a preferential direction. Micromechanical single-fiber push-out tests confirm an interfacial fracture toughness typical for strain-hardening systems. The first insights into a ‘lost formwork’ approach commonly employed in 3D printing show that the reinforcement remains effective even when combined with nonreinforced mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>
@@ -88,8 +61,8 @@ tags:
       <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/niedermeier_roland"><b>Niedermeier</b> Roland</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../rutz_lauf_nied_fisc.2021.IoFAoPaMCiaCCFCM/">Influence of Fiber-Alignment on Pseudoductility and Micro-Cracking in a Cementitious Carbon-Fiber Composite Material</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/besharatian_boshra"><b>Besharatian</b> Boshra</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hasa_besh_dora.2025.ACPCP/">Additively Constructed Plain Concrete Pipes:<br/>Structural Performance and Site Implementation</a></li>
@@ -100,4 +73,34 @@ tags:
       <li><a href="../../../author/ramezani_amir"><b>Ramezani</b> Amir</a>, <a href="../../../author/modaresi_shahriar"><b>Modaresi</b> Shahriar</a>, <a href="../../../author/dashti_pooria"><b>Dashti</b> Pooria</a>, <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../rame_moda_dash_givk.2023.EoDToFoFaHPoCaGB3PM/">Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures:<br/>A Review</a></li>
       <li><a href="../../../author/engelhard_michael"><b>Engelhard</b> Michael</a>, <a href="../../../author/kalytta-mewesand_andreas"><b>Kalytta-Mewesand</b> Andreas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../enge_kaly_volk.2022.TMfDCo3PCFRCC/">Testing Methods for Deformation Characterization on 3D Printed Carbon Fiber-Reinforced Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rutz_schu_moos_lauf.2021.3PaaAMMfaCFRCCwOFS1Nm,
+      author            = "Matthias Rutzen and Michael Schulz and Judith Moosburger-Will and Philipp Lauff and Oliver Fischer and Dirk Volkmer",
+      title             = "3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²)",
+      doi               = "10.1617/s11527-021-01827-2",
+      year              = "2021",
+      journal           = "Materials and Structures",
+      volume            = "54",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rutzen, M. Schulz, J. Moosburger-Will, P. Lauff, O. Fischer and D. Volkmer, “3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²)”, <i>Materials and Structures</i>, vol. 54, no. 6, 2021, doi: 10.1617/s11527-021-01827-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rutzen, Matthias, Michael Schulz, Judith Moosburger-Will, Philipp Lauff, Oliver Fischer, and Dirk Volkmer. “3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²)”. <i>Materials and Structures</i> 54, no. 6 (2021). https://doi.org/10.1617/s11527-021-01827-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

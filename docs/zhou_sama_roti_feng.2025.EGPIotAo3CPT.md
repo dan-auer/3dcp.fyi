@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jimmy Zhou, Don Samarasinghe, James Rotimi, Zhenan Feng
+    - footer
+title: Zhou Jimmy, Samarasinghe Don, Rotimi James, Feng Zhenan
 description:
 tags:
  - adoption
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology:<br/>:aca-blank: A Roadmap for New Zealand ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1007/978-981-96-4051-5_74" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-4051-5_74</a>
+#Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">A Roadmap for New Zealand</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-4051-5_74" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-4051-5_74" target="_blank">10.1007/978-981-96-4051-5_74</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-5465-1998" title="ORCID: 0009-0001-5465-1998" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_jimmy"><b>Zhou</b>&nbsp;Jimmy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7513-8942" title="ORCID: 0000-0001-7513-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_zhenan"><b>Feng</b>&nbsp;Zhenan</a></span><br>
+Contribution - Proceedings of the International Conference on Smart and Sustainable Built Environment, pp. 763-772
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a> <a href="https://orcid.org/0009-0001-5465-1998" title="ORCID: 0009-0001-5465-1998" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> <a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a> <a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="https://orcid.org/0000-0001-7513-8942" title="ORCID: 0000-0001-7513-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the International Conference on Smart and Sustainable Built Environment, pp. 763-772
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#concrete`](keyword/concrete)
-    [`#examination`](keyword/examination)
-    [`#global`](keyword/global)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/global"><button class="btn">#global</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Examining%20Global%20Policy%20Influences%20on%20the%20Adoption%20of%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003630601&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409601133" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-4051-5_74" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-4051-5_74?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The global construction industry is under increasing pressure to innovate as it grapples with environmental pollution challenges. Historically, the industry had to make similar innovations through appropriate policies to increase productivity by adopting Building Information Technology (BIM) tools. New innovative technology adoption needs robust policies to facilitate multiple resources working together towards specific deliverables. Since 3D concrete printing (3DCP) is in its early stages in the construction industry, transformative policies regarding 3DCP technology adoption must be shifted from profit-oriented to eco-innovative and socio-environmental-driven. Additionally, more significant studies on policies governing 3D printing adoptions are needed to address technology, standards, and sustainability issues. Therefore, this paper examines the existing 3DCP policies from various jurisdictions and tailors the highlighted implementation strategies of those best practices in New Zealand’s context. The data for this study was obtained from 30 scientific papers through the systematic review of global literature on 3DCP technologies and the analysis of associated policies and guideline documents. The study employed the qualitative analysis method, which used the NVivo software to manage, explore, uncover, and analyse underlying themes from the information gathered. The study found that the policy roadmap for adopting 3DCP in New Zealand should involve establishing a 3DCP industry committee, publishing standards, implementing financial support policies, setting sustainability assessment approval processes, allocating funds for R&D, developing Kainga Ora housing strategies, and integrating 3DCP practices nationwide. The findings indicate that policies regarding 3DCP adoptions should have more support in reform, R&D, and sustainability policies with lower or without commercial purpose.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/dringenberg_steffen"><b>Dringenberg</b> Steffen</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ditt_drin_grie.2023.TTtR3CP/">Through Textile to Reinforced 3D Concrete Printing</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
@@ -82,7 +62,38 @@ tags:
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zhou_sama_roti_feng.2025.EGPIotAo3CPT,
+      author            = "Jimmy Zhou and Don Amila Sajeevan Samarasinghe and James Olabode Bamidele Rotimi and Zhenan Feng",
+      title             = "Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology: A Roadmap for New Zealand",
+      doi               = "10.1007/978-981-96-4051-5_74",
+      year              = "2025",
+      volume            = "591",
+      pages             = "763--772",
+      booktitle         = "Proceedings of the International Conference on Smart and Sustainable Built Environment",
+      editor            = "Ali Ghaffarian Hoseini and Amirhosein Ghaffarian Hoseini and Farzad Rahimian and Mahesh Babu Purushothaman",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhou, D. A. S. Samarasinghe, J. O. B. Rotimi and Z. Feng, “Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology: A Roadmap for New Zealand”, in <i>Proceedings of the International Conference on Smart and Sustainable Built Environment</i>,  2025, vol. 591, pp. 763–772. doi: 10.1007/978-981-96-4051-5_74.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Jimmy, Don Amila Sajeevan Samarasinghe, James Olabode Bamidele Rotimi, and Zhenan Feng. “Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology: A Roadmap for New Zealand”. In <i>Proceedings of the International Conference on Smart and Sustainable Built Environment</i>, edited by Ali Ghaffarian Hoseini, Amirhosein Ghaffarian Hoseini, Farzad Rahimian, and Mahesh Babu Purushothaman, 591:763–72, 2025. https://doi.org/10.1007/978-981-96-4051-5_74.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

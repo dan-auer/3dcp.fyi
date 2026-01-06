@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shuai Yang, Fei Li, Ya Lu, Xiaoming Xu, Huajie Zhou, Lian Zhou, Yongkang Wei
+    - footer
+title: Yang Shuai, Li Fei, Lu Ya, Xu Xiaoming, Zhou Huajie, Zhou Lian, Wei Yongkang
 description:
 tags:
  - characteristic
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/18/17/3989/pdf?version=1756193811) Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization ([2025-08](date/2025/08))
-<a href="https://doi.org/10.3390/ma18173989" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18173989</a>
+#Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization ([2025-08](date/2025/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/17/3989/pdf?version=1756193811) <a href="https://doi.org/10.3390/ma18173989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18173989" target="_blank">10.3390/ma18173989</a>
 
--------------------------
+<a href="../../../author/yang_shuai"><b>Yang</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3031-5065" title="ORCID: 0000-0003-3031-5065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_fei"><b>Li</b>&nbsp;Fei</a></span>, <a href="../../../author/lu_ya"><b>Lu</b>&nbsp;Ya</a></span>, <a href="../../../author/xu_xiaoming"><b>Xu</b>&nbsp;Xiaoming</a></span>, <a href="../../../author/zhou_huajie"><b>Zhou</b>&nbsp;Huajie</a></span>, <a href="../../../author/zhou_lian"><b>Zhou</b>&nbsp;Lian</a></span>, <a href="../../../author/wei_yongkang"><b>Wei</b>&nbsp;Yongkang</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 17, No. 3989
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_shuai"><b>Yang</b> Shuai</a>
-,     <a href="../../../author/li_fei"><b>Li</b> Fei</a> <a href="https://orcid.org/0000-0003-3031-5065" title="ORCID: 0000-0003-3031-5065" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_ya"><b>Lu</b> Ya</a>
-,     <a href="../../../author/xu_xiaoming"><b>Xu</b> Xiaoming</a>
-,     <a href="../../../author/zhou_huajie"><b>Zhou</b> Huajie</a>
-,     <a href="../../../author/zhou_lian"><b>Zhou</b> Lian</a>
-,     <a href="../../../author/wei_yongkang"><b>Wei</b> Yongkang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 17, No. 3989
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#solution`](keyword/solution)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20of%20the%20Printing%20Characteristics%20of%20a%203D%20Printing%20Solution%20for%20the%20Purpose%20of%20Process%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015374773&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413700486" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18173989" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18173989?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Current research and technical standards primarily rely on observational methods to evaluate the printability of 3D printing materials. There is a lack of quantitative assessment metrics for extrudability and supportability, and experimental data cannot be used to characterize extrudability and buildability. Further research is needed. Based on traditional workability parameters (such as flowability), this study explored the influence of printability characteristics and adopted two quantitative indicators—extrusion uniformity and cumulative deformation rate—to comprehensively evaluate material performance from two aspects, while observing the trend of changes in traditional workability indicators and print quality under experimental conditions. The experimental results showed that the extrusion uniformity of 3D-printed mortar initially improved and then gradually deteriorated as flowability increased, and was inversely proportional to dynamic yield stress. The cumulative deformation rate decreases with the improvement of height retention capability and the increase in static yield stress. Through parameter analysis, the optimal printing performance conditions were determined: when the extrusion uniformity is below 3.3% and the cumulative deformation rate is ≤6%, the corresponding dynamic yield stress range is 200 Pa to 800 Pa, and the static yield stress range is 1800 Pa to 3300 Pa. Under these parameters, the mortar exhibits excellent printing performance, including high-layer stacking capability (≥30 layers) and enhanced structural stability. This experiment demonstrates that using these two quantitative indicators can simply and efficiently evaluate the performance metrics of 3D-printed materials, while also revealing the relationship between the workability and printing quality of 3D-printed recycled micro-powder geopolymer materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../fasi_libr.2024.FPtD/">From Pumping to Deposition:<br/>A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>
@@ -92,7 +70,38 @@ tags:
       <li><a href="../../../author/wang_qing"><b>Wang</b> Qing</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/li_jie"><b>Li</b> Jie</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_ren_li.2023.DRMfP3PCB/">Damage-Rheology Model for Predicting 3D Printed Concrete Buildability</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_li_lu_xu.2025.SotPCoa3PSftPoPO,
+      author            = "Shuai Yang and Fei Li and Ya Lu and Xiaoming Xu and Huajie Zhou and Lian Zhou and Yongkang Wei",
+      title             = "Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization",
+      doi               = "10.3390/ma18173989",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "17",
+      pages             = "3989",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Yang, “Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization”, <i>Materials</i>, vol. 18, no. 17, p. 3989, 2025, doi: 10.3390/ma18173989.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Shuai, Fei Li, Ya Lu, Xiaoming Xu, Huajie Zhou, Lian Zhou, and Yongkang Wei. “Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization”. <i>Materials</i> 18, no. 17 (2025): 3989. https://doi.org/10.3390/ma18173989.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

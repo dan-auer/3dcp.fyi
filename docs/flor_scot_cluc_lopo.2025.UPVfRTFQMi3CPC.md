@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luis Flor Juncal, Allan Scott, Don Clucas, Giuseppe Loporcaro
+    - footer
+title: Flor Juncal Luis, Scott Allan, Clucas Don, Loporcaro Giuseppe
 description:
 tags:
  - concrete
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/14/2566/pdf?version=1753084212) Ultrasonic Pulse Velocity for Real-Time Filament Quality Monitoring in 3D Concrete Printing Construction ([2025-07](date/2025/07))
-<a href="https://doi.org/10.3390/buildings15142566" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15142566</a>
+#Ultrasonic Pulse Velocity for Real-Time Filament Quality Monitoring in 3D Concrete Printing Construction ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/14/2566/pdf?version=1753084212) <a href="https://doi.org/10.3390/buildings15142566" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15142566" target="_blank">10.3390/buildings15142566</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-5755-8879" title="ORCID: 0009-0001-5755-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flor-juncal_luis"><b>de la&nbsp;Flor Juncal</b>&nbsp;Luis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7385-7633" title="ORCID: 0000-0002-7385-7633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scott_allan"><b>Scott</b>&nbsp;Allan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/clucas_don"><b>Clucas</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1834-8879" title="ORCID: 0000-0002-1834-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b>&nbsp;Giuseppe</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 14, No. 2566
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/flor-juncal_luis"><b>de la Flor Juncal</b> Luis</a> <a href="https://orcid.org/0009-0001-5755-8879" title="ORCID: 0009-0001-5755-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scott_allan"><b>Scott</b> Allan</a> <a href="https://orcid.org/0000-0002-7385-7633" title="ORCID: 0000-0002-7385-7633" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="https://orcid.org/0000-0002-1834-8879" title="ORCID: 0000-0002-1834-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 14, No. 2566
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#filament`](keyword/filament)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#pulse`](keyword/pulse)
-    [`#quality`](keyword/quality)
-    [`#real`](keyword/real)
-    [`#time`](keyword/time)
-    [`#ultrasonic`](keyword/ultrasonic)
-    [`#velocity`](keyword/velocity)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pulse"><button class="btn">#pulse</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/ultrasonic"><button class="btn">#ultrasonic</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Ultrasonic%20Pulse%20Velocity%20for%20Real-Time%20Filament%20Quality%20Monitoring%20in%203D%20Concrete%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011626983&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412515108" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15142566" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15142566?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing (3DCP) has gained significant attention over the last decade due to its many claimed benefits. The absence of effective real-time quality control mechanisms, however, can lead to inconsistencies in extrusion, compromising the integrity of 3D-printed structures. Although the importance of quality control in 3DCP is broadly acknowledged, research lacks systematic methods. This research investigates the feasibility of using ultrasonic pulse velocity (UPV) as a practical, in situ, real-time monitoring tool for 3DCP. Two different groups of binders were investigated: limestone calcined clay (LC3) and zeolite-based mixes in binary and ternary blends. Filaments of 200 mm were extruded every 5 min, and UPV, pocket hand vane, flow table, and viscometer tests were performed to measure pulse velocity, shear strength, relative deformation, yield stress, and plastic viscosity, respectively, in the fresh state. Once the filaments presented printing defects (e.g., filament tearing, filament width reduction), the tests were concluded, and the open time was recorded. Isothermal calorimetry tests were conducted to obtain the initial heat release and reactivity of the supplementary cementitious materials (SCMs). Results showed a strong correlation (R2 = 0.93) between UPV and initial heat release, indicating that early hydration (ettringite formation) influenced UPV and determined printability across different mixes. No correlation was observed between the other tests and hydration kinetics. UPV demonstrated potential as a real-time monitoring tool, provided the mix-specific pulse velocity is established beforehand. Further research is needed to evaluate UPV performance during active printing when there is an active flow through the printer.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
@@ -98,8 +73,39 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{flor_scot_cluc_lopo.2025.UPVfRTFQMi3CPC,
+      author            = "Luis de la Flor Juncal and Allan Scott and Don Clucas and Giuseppe Loporcaro",
+      title             = "Ultrasonic Pulse Velocity for Real-Time Filament Quality Monitoring in 3D Concrete Printing Construction",
+      doi               = "10.3390/buildings15142566",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "14",
+      pages             = "2566",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. de la Flor Juncal, A. Scott, D. Clucas and G. Loporcaro, “Ultrasonic Pulse Velocity for Real-Time Filament Quality Monitoring in 3D Concrete Printing Construction”, <i>Buildings</i>, vol. 15, no. 14, p. 2566, 2025, doi: 10.3390/buildings15142566.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Flor Juncal, Luis de la, Allan Scott, Don Clucas, and Giuseppe Loporcaro. “Ultrasonic Pulse Velocity for Real-Time Filament Quality Monitoring in 3D Concrete Printing Construction”. <i>Buildings</i> 15, no. 14 (2025): 2566. https://doi.org/10.3390/buildings15142566.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

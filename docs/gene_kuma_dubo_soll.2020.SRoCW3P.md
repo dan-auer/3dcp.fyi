@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Omar Geneidy, Sujay Kumarji, Alexandre Dubor, Aldo Sollazzo
+    - footer
+title: Geneidy Omar, Kumarji Sujay, Dubor Alexandre, Sollazzo Aldo
 description:
 tags:
  - concrete
@@ -11,27 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Simultaneous Reinforcement of Concrete While 3D Printing ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_87" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_87</a>
+#Simultaneous Reinforcement of Concrete While 3D Printing ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_87" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_87" target="_blank">10.1007/978-3-030-49916-7_87</a>
 
--------------------------
+<a href="../../../author/geneidy_omar"><b>Geneidy</b>&nbsp;Omar</a></span>, <a href="../../../author/kumarji_sujay"><b>Kumarji</b>&nbsp;Sujay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8129-4834" title="ORCID: 0000-0002-8129-4834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dubor_alexandre"><b>Dubor</b>&nbsp;Alexandre</a></span>, <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b>&nbsp;Aldo</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 895-905
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>
-,     <a href="../../../author/kumarji_sujay"><b>Kumarji</b> Sujay</a>
-,     <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> <a href="https://orcid.org/0000-0002-8129-4834" title="ORCID: 0000-0002-8129-4834" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b> Aldo</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 895-905
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Simultaneous%20Reinforcement%20of%20Concrete%20While%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088251812&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,24 +33,20 @@ tags:
 <a href="https://inciteful.xyz/p/W3041603713" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_87" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_87?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In order to fully realize the disruptive nature proposed by concrete printing for the construction industry, key challenges need to be overcome to enable the scaling up of this technology. Chief amongst them is the incorporation of reinforcement to absorb tensile stresses and support the structure not only during the printing and curing but also during its service life. Numerous strategies have been tested that allow for embedding reinforcement in the form of filaments, cables, rods or mesh during and/or post printing. This paper explores a strategy for in-situ printing that attempts to embed discrete U-shaped reinforcement elements “staples” vertically interlocking layers simultaneously while printing. A tool, developed for this purpose, trails the extruder and discharges a reinforcement staple that embeds itself into the printed layers. The staples not only penetrate multiple layers, but also interlock to form a reinforcement matrix in the concrete along the vertical axis capable of absorbing limited amounts of tensile stresses. When subject to a 3-point bending test, the reinforced printed elements exhibited an increase in tensile properties. Nevertheless, further research into shape and size of the reinforcement staple is needed to achieve optimum results. Furthermore, with the assistance of robotic fabrication strategies, every position within the print geometry can be identified accurately and reinforcement can be positioned precisely. These positions and their properties/states can be informed by simulating the performance of the geometry under load conditions. The ability to place reinforcement discreetly and accurately can help localize the reinforcement to key stress areas within the geometry thereby optimizing its performance and the use of material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../batt_mill_zivk.2019.SA3PoODCCLS/">Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/ismaeel_se_walaa"><b>Ismaeel</b> Walaa</a>, <a href="../../../author/abbas_ayman"><b>Abbas</b> Ayman</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../gene_isma_abba.2019.ACRfATDCWPTiE/">A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/gomez-jaramillo_sofia_laura"><b>Gomez Jaramillo</b> Laura</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gome_luko_savi_zhou.2025.RSf3PSHCC/">Recycled Sand for 3D-Printed Strain Hardening Cementitious Composite:<br/>A Review of Recent Developments</a></li>
@@ -98,4 +81,35 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gene_kuma_dubo_soll.2020.SRoCW3P,
+      author            = "Omar Geneidy and Sujay Kumarji and Alexandre Dubor and Aldo Sollazzo",
+      title             = "Simultaneous Reinforcement of Concrete While 3D Printing",
+      doi               = "10.1007/978-3-030-49916-7_87",
+      year              = "2020",
+      volume            = "28",
+      pages             = "895--905",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Geneidy, S. Kumarji, A. Dubor and A. Sollazzo, “Simultaneous Reinforcement of Concrete While 3D Printing”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 895–905. doi: 10.1007/978-3-030-49916-7_87.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geneidy, Omar, Sujay Kumarji, Alexandre Dubor, and Aldo Sollazzo. “Simultaneous Reinforcement of Concrete While 3D Printing”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:895–905, 2020. https://doi.org/10.1007/978-3-030-49916-7_87.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

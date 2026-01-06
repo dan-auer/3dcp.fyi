@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hui Zhong, Mingzhong Zhang
+    - footer
+title: Zhong Hui, Zhang Mingzhong
 description:
 tags:
  - geopolymer
@@ -11,25 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2022.104455) 3D Printing Geopolymers:<br/>:aca-blank: A Review ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104455" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104455</a>
+#3D Printing Geopolymers&nbsp;([2022-02](date/2022/02))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2022.104455) <a href="https://doi.org/10.1016/j.cemconcomp.2022.104455" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104455" target="_blank">10.1016/j.cemconcomp.2022.104455</a>
 
--------------------------
+<a href="../../../author/zhong_hui"><b>Zhong</b>&nbsp;Hui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mingzhong"><b>Zhang</b>&nbsp;Mingzhong</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 128
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>
-,     <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 128, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125223782&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -44,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213334403" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104455" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104455?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Geopolymers have been considered as a promising alternative to cementitious materials for 3D printing to enhance sustainability of the construction industry. This paper presents a critical review of the state-of-the-art of 3D printing geopolymers from the perspectives of production process, printability requirement, mix design, early-age material properties and sustainability, with a special focus on the effects of different factors such as matrix composition, reinforcement type, curing regime and printing configuration on the fresh and hardened properties of 3D printed geopolymers. The relationship between key fresh properties and printability of geopolymers is discussed, based on which the potential optimal mix proportions are obtained, containing the blended precursors of fly ash, ground granulated blast-furnace slag and silica fume, liquid or solid activator, river sand with a maximum size of 2 mm, thixotropic additives (e.g., nano clay), and retarder (e.g., sucrose). This paper aims to summarise the recent advances in the development of 3D printing techniques suitable for geopolymers and geopolymers feasible for 3D printing, and to identify the knowledge gap, remaining challenges, and opportunities for future research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "60 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -116,8 +102,9 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "77 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
@@ -195,4 +182,33 @@ tags:
       <li><a href="../../../author/lv_chun"><b>Lv</b> Chun</a>, <a href="../../../author/shen_hongtao"><b>Shen</b> Hongtao</a>, <a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/wu_dan"><b>Wu</b> Dan</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../lv_shen_liu_wu.2022.Po3PFRGBoILBaA/">Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../raza_zhon.2022.ASRfAMUGiCI/">A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhon_zhan.2022.3PG,
+      author            = "Hui Zhong and Mingzhong Zhang",
+      title             = "3D Printing Geopolymers: A Review",
+      doi               = "10.1016/j.cemconcomp.2022.104455",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "128",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhong  and M. Zhang, “3D Printing Geopolymers: A Review”, <i>Cement and Concrete Composites</i>, vol. 128, 2022, doi: 10.1016/j.cemconcomp.2022.104455.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhong, Hui, and Mingzhong Zhang. “3D Printing Geopolymers: A Review”. <i>Cement and Concrete Composites</i> 128 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104455.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

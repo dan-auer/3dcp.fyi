@@ -8,7 +8,8 @@ search:
 
 # #permanent
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
   <li><a href="../../../author/biswas_kumar_rajib"><b>Biswas</b> Rajib</a>, <a href="../../../author/saito_takahiro"><b>Saito</b> Takahiro</a>, <a href="../../../author/ito_atsushi"><b>Ito</b> Atsushi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bisw_sait_ito.2025.EEoaN3PPCF/">Experimental Evaluation of a Novel 3D-Printed Permanent Concrete Formwork</a></li>
   <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
   <li><a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a>, <a href="../../../author/volodymyrov_anton"><b>Volodymyrov</b> Anton</a>, <a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a>, <a href="../../../author/firsov_pavlo"><b>Firsov</b> Pavlo</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rezn_volo_tene_firs.2026.NAo3PPFiMSBC/">Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction</a></li>

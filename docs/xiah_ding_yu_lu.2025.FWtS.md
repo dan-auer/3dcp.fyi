@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaer Xiahou, Xingyuan Ding, Ke-Ke Yu, Cong Lu
+    - footer
+title: Xiahou Xiaer, Ding Xingyuan, Yu Ke-Ke, Lu Cong
 description:
 tags:
  - concrete
@@ -20,36 +21,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } From Waste to Strength:<br/>:aca-blank: Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05144" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05144</a>
+#From Waste to Strength&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05144" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05144" target="_blank">10.1016/j.cscm.2025.e05144</a>
 
--------------------------
+<a href="../../../author/xiahou_xiaer"><b>Xiahou</b>&nbsp;Xiaer</a></span>, <a href="../../../author/ding_xingyuan"><b>Ding</b>&nbsp;Xingyuan</a></span>, <a href="../../../author/yu_ke-ke"><b>Yu</b>&nbsp;Ke-Ke</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05144
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xiahou_xiaer"><b>Xiahou</b> Xiaer</a>
-,     <a href="../../../author/ding_xingyuan"><b>Ding</b> Xingyuan</a>
-,     <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>
-,     <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05144
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#enhancement`](keyword/enhancement)
-    [`#fiber`](keyword/fiber)
-    [`#modification`](keyword/modification)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Waste%20to%20Strength" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012631609&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412999296" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05144" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05144?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the sustainable valorization of recycled polyethylene terephthalate (rPET) fibers through dopamine surface modification for enhanced 3D printed concrete (3DPC). Comprehensive tests on flowability, rheology, buildability, and mechanical anisotropy were conducted to assess the impacts of various MPET fiber content (0–0.5 vol%). The results showed that 0.5 vol% MPET fibers significantly increased dynamic yield stress and plastic viscosity by 247.6 % and 200.0 %, respectively, compared to the control group (P-0), while moderately reducing flowability. The 0.3 vol% content was found to be optimal, enhancing maximum printing heights in hollow cylindrical and rectangular structures by 114.8 % and 130 %, respectively, compared to the control. At this content, the 30-minute early compressive strength reached 66.0 MPa. Quantitative analysis revealed a strong correlation (R² > 0.94) between early strength development parameters and buildability performance, with rate of strength gain exerting greater influence than initial strength. Mechanical anisotropy tests showed that MPET fibers significantly enhanced the flexural strength of 3DPC in the Z-direction of printing. Scanning electron microscopy (SEM) analysis confirmed that dopamine modification significantly enhanced the fiber-matrix interface bonding. This research applies modified recycled PET fibers to enhance 3DPC performance while contributing to sustainability efforts in the construction sector, supporting approaches that integrate material recycling with technical innovation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC/">Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete</a></li>
@@ -112,7 +87,37 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xiah_ding_yu_lu.2025.FWtS,
+      author            = "Xiaer Xiahou and Xingyuan Ding and Ke-Ke Yu and Cong Lu",
+      title             = "From Waste to Strength: Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete",
+      doi               = "10.1016/j.cscm.2025.e05144",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "23",
+      pages             = "e05144",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Xiahou, X. Ding, K.-K. Yu and C. Lu, “From Waste to Strength: Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete”, <i>Case Studies in Construction Materials</i>, vol. 23, p. e05144, 2025, doi: 10.1016/j.cscm.2025.e05144.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xiahou, Xiaer, Xingyuan Ding, Ke-Ke Yu, and Cong Lu. “From Waste to Strength: Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete”. <i>Case Studies in Construction Materials</i> 23 (2025): e05144. https://doi.org/10.1016/j.cscm.2025.e05144.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nan Zhang, Jay Sanjayan
+    - footer
+title: Zhang Nan, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2024.105609) Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.autcon.2024.105609" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105609</a>
+#Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2024.105609) <a href="https://doi.org/10.1016/j.autcon.2024.105609" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105609" target="_blank">10.1016/j.autcon.2024.105609</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_nan"><b>Zhang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Automation in Construction, Vol. 166, No. 105609
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a> <a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 166, No. 105609
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#mixing`](keyword/mixing)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#pump`](keyword/pump)
-    [`#quick`](keyword/quick)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/quick"><button class="btn">#quick</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pumping-Less%203D%20Concrete%20Printing%20Using%20Quick%20Nozzle%20Mixing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198091604&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400618395" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105609" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105609?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nozzle technologies for 3D concrete printing have been evolving to balance the conflicting demands of buildability and pumpability. This study introduces a simplified approach that eliminates the need for pumping by developing a customized system, the parameters of which were evaluated. The effect of process parameters (i.e., the flow rates of liquid and solid materials) and mixture proportions (i.e., the ratios of powder to sand and liquid to solid) on the extrudability and print quality was explored. Furthermore, the mechanical properties and microstructure of concrete printed using the Quick Nozzle Mixing system were examined. Results show that Quick Nozzle Mixing Technology not only enables high-quality printing but also exhibits the potential for achieving better process efficiency and higher aggregate content. The water-to-solid ratio is a critical factor influencing extrudability and buildability. Due to anisotropy caused by this new method, printed concrete has a lower strength than cast concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -99,8 +81,9 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_sanj.2023.StEQNMi3CP/">Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
@@ -111,4 +94,34 @@ tags:
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../madr_orte_olss_teno.2024.3C/">3D Constructing:<br/>Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_sanj.2024.RMiOQNMTf3CP/">Rheological Modifiers in Optimizing Quick Nozzle Mixing Technology for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_sanj.2024.PL3CPUQNM,
+      author            = "Nan Zhang and Jay Gnananandan Sanjayan",
+      title             = "Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing",
+      doi               = "10.1016/j.autcon.2024.105609",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "166",
+      pages             = "105609",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Zhang  and J. G. Sanjayan, “Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing”, <i>Automation in Construction</i>, vol. 166, p. 105609, 2024, doi: 10.1016/j.autcon.2024.105609.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Nan, and Jay Gnananandan Sanjayan. “Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing”. <i>Automation in Construction</i> 166 (2024): 105609. https://doi.org/10.1016/j.autcon.2024.105609.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

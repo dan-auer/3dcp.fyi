@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Karel Lesage, Kim Tittelboom, Yong Yuan, Geert Schutter
+    - footer
+title: Tao Yaxin, Lesage Karel, Tittelboom Kim, Yuan Yong, Schutter Geert
 description:
 tags:
  - adhesion
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104350" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104350</a>
+#Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104350" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104350" target="_blank">10.1016/j.cemconcomp.2021.104350</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesage_karel"><b>Lesage</b>&nbsp;Karel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 126
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 126, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#concrete`](keyword/concrete)
-    [`#content`](keyword/content)
-    [`#influence`](keyword/influence)
-    [`#moist`](keyword/moist)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#roughness`](keyword/roughness)
-    [`#surface`](keyword/surface)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/moist"><button class="btn">#moist</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/roughness"><button class="btn">#roughness</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Substrate-Surface-Roughness%20and%20Moisture-Content%20on%20Tensile%20Adhesion%20Performance%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119591952&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3214846953" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104350" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104350?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is of great potential to replace shotcrete for hard rock tunnel linings with the advantages of high surface quality and the avoidance of rebound. However, without spraying fresh concrete onto the excavated surface at a high speed, 3D printable concrete still faces challenges of achieving strong adhesion, which closely depends on the substrate surface properties. In this work, the influence of the substrate surface roughness and moisture content on the tensile adhesion of 3D printed concrete in the fresh and hardened state was studied. A tack test and a 3D concrete printing test were used to evaluate the tensile adhesion in the fresh state. Further, the tensile adhesion of 3D printed concrete in the hardened state was measured by a pull-off test and compared with that of mold cast samples. Results showed that the printed material could not completely fill macro rough textures due to the limited pressure at the nozzle. As a result, less contact at the interface was formed when the substrate surface roughness level increased, which subsequently compromised the tensile adhesion in the fresh and hardened state. Fortunately, the tensile adhesion in the fresh and hardened state can be improved by applying a coating onto the substrate beforehand. On the other hand, an increased moisture content enhanced the tensile adhesion in the fresh state due to surface tension, while it reduced the tensile adhesion in the hardened state in the context of 3D concrete printing which can be attributed to a higher water-to-cement ratio at the contact zone.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
@@ -85,14 +60,13 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_ren_vant_lesa.2023.E3CPtHRTL/">Extending 3D Concrete Printing to Hard Rock Tunnel Linings:<br/>Adhesion of Fresh Cementitious Materials for Different Surface Inclinations</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../yuan_tao.2018.MaEoPC/">Mixing and Extrusion of Printing Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "40 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feng_xiaowei"><b>Feng</b> Xiaowei</a>, <a href="../../../author/carvelli_valter"><b>Carvelli</b> Valter</a>, <a href="../../../author/pan_dongjiang"><b>Pan</b> Dongjiang</a>, <a href="../../../author/zhu_chuankai"><b>Zhu</b> Chuankai</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_carv_pan_zhu.2025.AMoHSSCMfEMM/">Additive Manufacturing of Hybrid Straw-Soil-Cement Materials for Enhanced Mine Models</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
@@ -134,4 +108,33 @@ tags:
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_li_wang_ma.2022.SAfPEaMPOoSB3PM/">Systematic Approach for Printability Evaluation and Mechanical Property Optimization of Spray-Based 3D Printed Mortar</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_yali"><b>Li</b> Yali</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP/">Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_lesa_titt_yuan.2022.IoSSRaMCoTAPo3PC,
+      author            = "Yaxin Tao and Karel Lesage and Kim van Tittelboom and Yong Yuan and Geert de Schutter",
+      title             = "Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete",
+      doi               = "10.1016/j.cemconcomp.2021.104350",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "126",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, K. Lesage, K. van Tittelboom, Y. Yuan and G. de Schutter, “Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete”, <i>Cement and Concrete Composites</i>, vol. 126, 2022, doi: 10.1016/j.cemconcomp.2021.104350.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Karel Lesage, Kim van Tittelboom, Yong Yuan, and Geert de Schutter. “Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete”. <i>Cement and Concrete Composites</i> 126 (2022). https://doi.org/10.1016/j.cemconcomp.2021.104350.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

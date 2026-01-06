@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sara Miryousefi Ata, Ali Kazemian, Amirhosein Jafari
+    - footer
+title: Miryousefi Ata Sara, Kazemian Ali, Jafari Amirhosein
 description:
 tags:
  - application
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Application of Concrete 3D Printing for Bridge Construction:<br/>:aca-blank: Current Challenges and Future Directions ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1061/9780784483961.091" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/9780784483961.091</a>
+#Application of Concrete 3D Printing for Bridge Construction&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">Current Challenges and Future Directions</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784483961.091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784483961.091" target="_blank">10.1061/9780784483961.091</a>
 
--------------------------
+<a href="../../../author/miryousefi-ata_sara"><b>Miryousefi Ata</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0356-2282" title="ORCID: 0000-0002-0356-2282" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jafari_amirhosein"><b>Jafari</b>&nbsp;Amirhosein</a></span><br>
+Contribution - Construction Research Congress 2022, pp. 869-879
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/miryousefi-ata_sara"><b>Miryousefi Ata</b> Sara</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="https://orcid.org/0000-0002-0356-2282" title="ORCID: 0000-0002-0356-2282" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Construction Research Congress 2022, pp. 869-879
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#bridge`](keyword/bridge)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#direction`](keyword/direction)
-    [`#future`](keyword/future)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Application%20of%20Concrete%203D%20Printing%20for%20Bridge%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128906510&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4221051779" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/9780784483961.091" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/9780784483961.091?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Selected papers from the Construction Research Congress 2022, held in Arlington, Virginia, March 9–12, 2022. Sponsored by Virginia Polytechnic Institute and State University, the Construction Research Council, and the Construction Institute of ASCE. This collection contains 143 peer-reviewed papers on automation, data analytics, and computer applications in the construction industry. Topics include: modular and offsite construction; BIM; digital twinning in construction; artificial intelligence, machine learning, and virtual and augmented reality; big data in decision making; computer modeling in construction; Lidar, radar, and unmanned aerial systems in construction; worker safety, assessment, and training; and robotics and robot-human interactions in construction. This collection highlights the latest research and industry practices leading to next-generation techniques, technologies, and strategies in construction and the built environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
@@ -89,8 +69,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
       <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC/">Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a></li>
@@ -99,4 +79,34 @@ tags:
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../kaze_giwa_eken.2023.LSAMfAC/">Large-Scale Additive Manufacturing for Automated Construction:<br/>An Overview</a></li>
       <li><a href="../../../author/pons-valladares_oriol"><b>Pons-Valladares</b> Oriol</a>, <a href="../../../author/casanovas-rubio_mar_maria"><b>Casanovas-Rubio</b> Maria</a>, <a href="../../../author/armengou_jaume"><b>Armengou</b> Jaume</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../pons_casa_arme_fuen.2023.AfSAfFCT/">Approach for Sustainability-Assessment for Footbridge Construction Technologies:<br/>Application to the First World D-Shape 3D Printed Fiber-Reinforced Mortar Footbridge in Madrid</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{miry_kaze_jafa.2022.AoC3PfBC,
+      author            = "Sara Miryousefi Ata and Ali Kazemian and Amirhosein Jafari",
+      title             = "Application of Concrete 3D Printing for Bridge Construction: Current Challenges and Future Directions",
+      doi               = "10.1061/9780784483961.091",
+      year              = "2022",
+      pages             = "869--879",
+      booktitle         = "Construction Research Congress 2022",
+      editor            = "Farrokh Jazizadeh and Tripp Shealy and Michael J. Garvin",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. M. Ata, A. Kazemian and A. Jafari, “Application of Concrete 3D Printing for Bridge Construction: Current Challenges and Future Directions”, in <i>Construction Research Congress 2022</i>,  2022, pp. 869–879. doi: 10.1061/9780784483961.091.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ata, Sara Miryousefi, Ali Kazemian, and Amirhosein Jafari. “Application of Concrete 3D Printing for Bridge Construction: Current Challenges and Future Directions”. In <i>Construction Research Congress 2022</i>, edited by Farrokh Jazizadeh, Tripp Shealy, and Michael J. Garvin, 869–79, 2022. https://doi.org/10.1061/9780784483961.091.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

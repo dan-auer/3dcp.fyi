@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joseph Pegna
+    - footer
+title: Pegna Joseph
 description:
 tags:
  - construction
@@ -12,25 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Exploratory Investigation of Solid Freeform Construction ([1997-02](date/1997/02))
-<a href="https://doi.org/10.1016/s0926-5805(96)00166-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/s0926-5805(96)00166-5</a>
+#Exploratory Investigation of Solid Freeform Construction ([1997-02](date/1997/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/s0926-5805(96)00166-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/s0926-5805(96)00166-5" target="_blank">10.1016/s0926-5805(96)00166-5</a>
 
--------------------------
+<a href="../../../author/pegna_joseph"><b>Pegna</b>&nbsp;Joseph</a></span><br>
+Journal Article - Automation in Construction, Vol. 5, Iss. 5, pp. 427-437
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 5, Iss. 5, pp. 427-437
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#freeform`](keyword/freeform)
-    [`#investigation`](keyword/investigation)
-    [`#solid`](keyword/solid)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploratory%20Investigation%20of%20Solid%20Freeform%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-0031073205&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,20 +34,16 @@ tags:
 <a href="https://inciteful.xyz/p/W1973050311" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/s0926-5805(96)00166-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/s0926-5805(96)00166-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A radical departure from generally accepted concepts in construction robotics is proposed in this paper. A new process derived from the emerging field of additive manufacturing processes is investigated for its potential effectiveness in construction automation. In essence, complex assemblies of large construction components are substituted with a large number of elemental component assemblies. The massive complexity of information processing required in construction is replaced with a large number of simple elemental operations which lend themselves easily to computer control. This exploratory work is illustrated with sample masonry structures that cannot be obtained by casting. They are manufactured by an incremental depositron of sand and Portland cement akin to Navajo sand painting. A thin layer of sand is deposited, followed by the depos:tion of a patterned layer of cement. Steam is then applied to the layer to obtain rapid curing. A characterization of the resulting material properties shows rather novel anisotropic properties for mortar. Finally, the potential of this approach for solid freeform fabrication of large structures is assessed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "229 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
@@ -289,4 +274,35 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bekey_george"><b>Bekey</b> George</a> <a href="../../../date/2002/09">(2002-09)</a><br><a href="../../../khos_beke.2002.ACUCC/">Automated Construction Using Contour Crafting:<br/>Applications on Earth and Beyond</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pegn.1997.EIoSFC,
+      author            = "Joseph Pegna",
+      title             = "Exploratory Investigation of Solid Freeform Construction",
+      doi               = "10.1016/s0926-5805(96)00166-5",
+      year              = "1997",
+      journal           = "Automation in Construction",
+      volume            = "5",
+      number            = "5",
+      pages             = "427--437",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Pegna, “Exploratory Investigation of Solid Freeform Construction”, <i>Automation in Construction</i>, vol. 5, no. 5, pp. 427–437, 1997, doi: 10.1016/s0926-5805(96)00166-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pegna, Joseph. “Exploratory Investigation of Solid Freeform Construction”. <i>Automation in Construction</i> 5, no. 5 (1997): 427–37. https://doi.org/10.1016/s0926-5805(96)00166-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

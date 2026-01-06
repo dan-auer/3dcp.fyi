@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Suvash Paul, Junghyun Lee, Yi Tay, Sean Lim, Jihye Jhun, Bandar Fadhel, Issam Amr, Jen Tan
+    - footer
+title: Paul Suvash, Lee Junghyun, Tay Yi, Lim Sean, Jhun Jihye, Fadhel Bandar, Amr Issam, Tan Jen
 description:
 tags:
  - aggregate
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing ([2025-10](date/2025/10))
-<a href="https://doi.org/10.36922/msam025330076" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.36922/msam025330076</a>
+#Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing ([2025-10](date/2025/10))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.36922/msam025330076" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.36922/msam025330076" target="_blank">10.36922/msam025330076</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_chandra_suvash"><b>Paul</b>&nbsp;Suvash</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0362-9704" title="ORCID: 0000-0003-0362-9704" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_junghyun"><b>Lee</b>&nbsp;Junghyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_gip_sean"><b>Lim</b>&nbsp;Sean</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-0488-0478" title="ORCID: 0009-0008-0488-0478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jhun_jihye"><b>Jhun</b>&nbsp;Jihye</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7007-5313" title="ORCID: 0000-0001-7007-5313" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fadhel_a_bandar"><b>Fadhel</b>&nbsp;Bandar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3976-932X" title="ORCID: 0000-0003-3976-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amr_t_issam"><b>Amr</b>&nbsp;Issam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_ming_jen"><b>Tan</b>&nbsp;Jen</a></span><br>
+Journal Article - Materials Science in Additive Manufacturing, Vol. 5, Iss. 1, No. 025330076
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> <a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> <a href="https://orcid.org/0000-0003-0362-9704" title="ORCID: 0000-0003-0362-9704" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> <a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a> <a href="https://orcid.org/0009-0008-0488-0478" title="ORCID: 0009-0008-0488-0478" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> <a href="https://orcid.org/0000-0001-7007-5313" title="ORCID: 0000-0001-7007-5313" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> <a href="https://orcid.org/0000-0003-3976-932X" title="ORCID: 0000-0003-3976-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_ming_jen"><b>Tan</b> Jen</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Science in Additive Manufacturing, Vol. 5, Iss. 1, No. 025330076
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#cure`](keyword/cure)
-    [`#large`](keyword/large)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#steam`](keyword/steam)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steam"><button class="btn">#steam</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Unlocking%20the%20Sustainable%20Potential%20of%203D%20Concrete%20Printing%20with%20Large%20Aggregates%20and%20Steam%E2%80%93CO2%20Curing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023407112&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415688959" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.36922/msam025330076" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.36922/msam025330076?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) has emerged as a promising innovation in the construction industry, significantly reducing its reliance on intensive labor while minimizing material waste. Despite its benefits, a major limitation of current 3DCP practices is the high reliance on cement as the primary binder, which often exceeds 60% of the total solid content. This high cement usage contributes significantly to CO2 emissions, raising sustainability concerns. In this study, a 3D-printable concrete mix incorporating large aggregates (up to 10 mm) was developed, replacing over 7% of fine aggregate and reducing cement content to approximately 29% by weight. The effects of CO2 gas and a steam–CO2 mixture on the mechanical performance and CO2 uptake of the printed concrete were assessed. Thermogravimetric analysis was used to quantify CO2 sequestration over time. Compared to control samples without gas treatment, those exposed to the steam–CO2 mixture showed enhanced buildability, improved compressive and flexural strength, and greater CO2 uptake. The results suggest that surface spraying of the steam–CO2 mixture during the 3D printing process offers a viable and scalable approach to improving both the structural performance and environmental footprint of printed concrete elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../li_weng_liu_zhan.2022.OoCAf3PCMbCCD/">Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design</a></li>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lim_tay_paul_lee.2024.CCaSwISCaSI3CP/">Carbon Capture and Sequestration with In-Situ CO2 and Steam Integrated 3D Concrete Printing</a></li>
@@ -85,7 +58,38 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
       <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{paul_lee_tay_lim.2026.UtSPo3CPwLAaSCC,
+      author            = "Suvash Chandra Paul and Junghyun Lee and Yi Wei Daniel Tay and Sean Gip Lim and Jihye Jhun and Bandar A. Fadhel and Issam T. Amr and Jen Ming Tan",
+      title             = "Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing",
+      doi               = "10.36922/msam025330076",
+      year              = "2026",
+      journal           = "Materials Science in Additive Manufacturing",
+      volume            = "5",
+      number            = "1",
+      pages             = "025330076",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. C. Paul, “Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing”, <i>Materials Science in Additive Manufacturing</i>, vol. 5, no. 1, p. 025330076, 2026, doi: 10.36922/msam025330076.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Paul, Suvash Chandra, Junghyun Lee, Yi Wei Daniel Tay, Sean Gip Lim, Jihye Jhun, Bandar A. Fadhel, Issam T. Amr, and Jen Ming Tan. “Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing”. <i>Materials Science in Additive Manufacturing</i> 5, no. 1 (2026): 025330076. https://doi.org/10.36922/msam025330076.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

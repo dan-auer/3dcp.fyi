@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xinhao Liu, Jiajun Hu, Xiaolu Guo
+    - footer
+title: Liu Xinhao, Hu Jiajun, Guo Xiaolu
 description:
 tags:
  - agent
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Improved Interlayer-Bonding of 3D Printed Fiber-Reinforced Geopolymer by Healing-Agents:<br/>:aca-blank: Properties, Mechanism, and Environmental Impacts ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1080/21650373.2025.2451636" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2025.2451636</a>
+#Improved Interlayer-Bonding of 3D Printed Fiber-Reinforced Geopolymer by Healing-Agents&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Properties, Mechanism, and Environmental Impacts</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2025.2451636" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2451636" target="_blank">10.1080/21650373.2025.2451636</a>
 
--------------------------
+<a href="../../../author/liu_xinhao"><b>Liu</b>&nbsp;Xinhao</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_jiajun"><b>Hu</b>&nbsp;Jiajun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_xiaolu"><b>Guo</b>&nbsp;Xiaolu</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-21
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>
-,     <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a> <a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-21
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#bond`](keyword/bond)
-    [`#environment`](keyword/environment)
-    [`#fiber`](keyword/fiber)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#imapct`](keyword/imapct)
-    [`#improvement`](keyword/improvement)
-    [`#interlayer`](keyword/interlayer)
-    [`#mechanism`](keyword/mechanism)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/imapct"><button class="btn">#imapct</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improved%20Interlayer-Bonding%20of%203D%20Printed%20Fiber-Reinforced%20Geopolymer%20by%20Healing-Agents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216187534&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406883073" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2025.2451636" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2025.2451636?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The weak interlayer bonding significantly impacts the mechanical properties of 3D printed fiber reinforced geopolymer (3DP-FRG). Three mineral-based and one polymer-based interlayer healing agents (IHAs) were used to enhance the interlayer self-healing properties. The effects of IHAs on interlayer bonding properties, self-healing mechanisms, and environmental impacts were investigated. The results showed that IHAs improved the 28 day interlayer tensile and shear bonding strength by 38.87% and 22.19%, and reduced 1, 3, and 7 days shrinkage by 43.61%, 22.17%, and 9.10%. The main interlayer self-healing products were geopolymer gel, calcite, and albite. Mineral-based IHAs and precursors dissolved rapidly, forming free [SiO4]4- and [AlO4]5- monomers. Polymer-based IHA prevented interlayer water evaporation and accelerated the migration rate of monomers. The lifecycle assessment from ‘cradle to gate’ indicates that 3DP-FRG has a minimal environmental impact. Carbon emissions and embodied energy of 1m3 3DP-FRG could reach 313 kg and 900 MJ.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/haar_bjorn"><b>Haar</b> Bjorn</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../haar_krug_zijl.2023.OSCw3CP/">Off-Site Construction with 3D Concrete Printing</a></li>
@@ -96,8 +72,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_hu_guo.2025.IIBo3PFRGbHA,
+      author            = "Xinhao Liu and Jiajun Hu and Xiaolu Guo",
+      title             = "Improved Interlayer-Bonding of 3D Printed Fiber-Reinforced Geopolymer by Healing-Agents: Properties, Mechanism, and Environmental Impacts",
+      doi               = "10.1080/21650373.2025.2451636",
+      year              = "2025",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--21",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, J. Hu and X. Guo, “Improved Interlayer-Bonding of 3D Printed Fiber-Reinforced Geopolymer by Healing-Agents: Properties, Mechanism, and Environmental Impacts”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–21, 2025, doi: 10.1080/21650373.2025.2451636.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xinhao, Jiajun Hu, and Xiaolu Guo. “Improved Interlayer-Bonding of 3D Printed Fiber-Reinforced Geopolymer by Healing-Agents: Properties, Mechanism, and Environmental Impacts”. <i>Journal of Sustainable Cement-Based Materials</i>, 2025, 1–21. https://doi.org/10.1080/21650373.2025.2451636.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

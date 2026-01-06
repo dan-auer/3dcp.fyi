@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kyu-Seok Yeon, Kwan Kim, Jaeheum Yeon, Hee Lee
+    - footer
+title: Yeon Kyu-Seok, Kim Kwan, Yeon Jaeheum, Lee Hee
 description:
 tags:
  - additive
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/12/14/2292/pdf?version=1563411098) Fresh Properties of EVA-Modified Cementitious Mixtures for Use in Additive Construction by Extrusion ([2019-07](date/2019/07))
-<a href="https://doi.org/10.3390/ma12142292" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma12142292</a>
+#Fresh Properties of EVA-Modified Cementitious Mixtures for Use in Additive Construction by Extrusion ([2019-07](date/2019/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/14/2292/pdf?version=1563411098) <a href="https://doi.org/10.3390/ma12142292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12142292" target="_blank">10.3390/ma12142292</a>
 
--------------------------
+<a href="../../../author/yeon_kyu-seok"><b>Yeon</b>&nbsp;Kyu-Seok</a></span>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b>&nbsp;Kwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yeon_jaeheum"><b>Yeon</b>&nbsp;Jaeheum</a></span>, <a href="../../../author/lee_jun_hee"><b>Lee</b>&nbsp;Hee</a></span><br>
+Journal Article - Materials, Vol. 12, Iss. 14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yeon_kyu-seok"><b>Yeon</b> Kyu-Seok</a>
-,     <a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>
-,     <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a> <a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 12, Iss. 14, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#extrusion`](keyword/extrusion)
-    [`#fresh`](keyword/fresh)
-    [`#mixture`](keyword/mixture)
-    [`#modification`](keyword/modification)
-    [`#property`](keyword/property)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20Properties%20of%20EVA-Modified%20Cementitious%20Mixtures%20for%20Use%20in%20Additive%20Construction%20by%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070441487&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2961624541" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma12142292" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma12142292?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, the fresh properties of ethylene-vinyl acetate (EVA)-modified cementitious mixtures were experimentally investigated to evaluate the feasibility of this type of material being used in additive construction by extrusion (ACE). The EVA/cement ratio was a main variable to determine the properties, including flowability, extrudability, buildability, and open time. According to the flow test results, the optimized flow of the EVA-modified cementitious mixtures was found to be 65% for buildability. This excellent flowability could be achieved because the flow increased as the EVA/cement ratio increased; conversely, the extrudability was slightly reduced when the EVA/cement ratio increased. However, if the flow of the EVA-modified cementitious mixtures was maintained at 65%, ACE could be achieved without significant issues. In addition, the height of the additive concrete walls created was not substantially reduced after printing of these mixtures, even though different EVA/cement ratios were applied. Plus, ACE can be operated longer with such mixtures because the open time becomes longer as the EVA/cement ratio increases. In summary, the results clearly demonstrated that EVA-modified cementitious mixtures were feasible for use as ACE materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../bent_jone_bent_pelt.2019.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -84,9 +61,39 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../weng_li_tan_qian.2019.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/yeon_kyu-seok"><b>Yeon</b> Kyu-Seok</a>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../yeon_kim_yeon.2018.FSotUoPMCCa3CPM/">Feasibility Study of the Use of Polymer-Modified Cement Composites as 3D Concrete Printing-Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../yeon.2019.STDoTDPEMCM/">Short-Term Deformability of Three-Dimensional Printable EVA-Modified Cementitious Mortars</a></li>
       <li><a href="../../../author/yeon_kyu-seok"><b>Yeon</b> Kyu-Seok</a>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yeon_kim_yeon_lee.2019.CaFSoEMMf3AC/">Compressive and Flexural Strengths of EVA-Modified Mortars for 3D Additive Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yeon_kim_yeon_lee.2019.FPoEMCMfUiACbE,
+      author            = "Kyu-Seok Yeon and Kwan Kyu Kim and Jaeheum Yeon and Hee Jun Lee",
+      title             = "Fresh Properties of EVA-Modified Cementitious Mixtures for Use in Additive Construction by Extrusion",
+      doi               = "10.3390/ma12142292",
+      year              = "2019",
+      journal           = "Materials",
+      volume            = "12",
+      number            = "14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-S. Yeon, K. K. Kim, J. Yeon and H. J. Lee, “Fresh Properties of EVA-Modified Cementitious Mixtures for Use in Additive Construction by Extrusion”, <i>Materials</i>, vol. 12, no. 14, 2019, doi: 10.3390/ma12142292.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yeon, Kyu-Seok, Kwan Kyu Kim, Jaeheum Yeon, and Hee Jun Lee. “Fresh Properties of EVA-Modified Cementitious Mixtures for Use in Additive Construction by Extrusion”. <i>Materials</i> 12, no. 14 (2019). https://doi.org/10.3390/ma12142292.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

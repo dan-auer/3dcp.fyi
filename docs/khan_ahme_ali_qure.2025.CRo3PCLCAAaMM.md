@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mirza Khan, Aayzaz Ahmed, Tariq Ali, Muhammad Qureshi, Saiful Islam, Hawreen Ahmed, Ali Ajwad, Muhammad Khan
+    - footer
+title: Khan Mirza, Ahmed Aayzaz, Ali Tariq, Qureshi Muhammad, Islam Saiful, Ahmed Hawreen, Ajwad Ali, Khan Muhammad
 description:
 tags:
  - additive
@@ -23,43 +24,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>:aca-blank: Materials, Engineered Properties and Techniques for Additive Manufacturing ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.susmat.2024.e01164" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.susmat.2024.e01164</a>
+#Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">Materials, Engineered Properties and Techniques for Additive Manufacturing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.susmat.2024.e01164" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.susmat.2024.e01164" target="_blank">10.1016/j.susmat.2024.e01164</a>
 
--------------------------
+<a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b>&nbsp;Mirza</a></span>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b>&nbsp;Aayzaz</a></span>, <a href="../../../author/ali_tariq"><b>Ali</b>&nbsp;Tariq</a></span>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b>&nbsp;Muhammad</a></span>, <a href="../../../author/islam_saiful"><b>Islam</b>&nbsp;Saiful</a></span>, <a href="../../../author/ahmed_hawreen"><b>Ahmed</b>&nbsp;Hawreen</a></span>, <a href="../../../author/ajwad_ali"><b>Ajwad</b>&nbsp;Ali</a></span>, <a href="../../../author/khan_ali_muhammad"><b>Khan</b>&nbsp;Muhammad</a></span><br>
+Journal Article - Sustainable Materials and Technologies, Vol. 43, No. e01164
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>
-,     <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>
-,     <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>
-,     <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a>
-,     <a href="../../../author/islam_saiful"><b>Islam</b> Saiful</a>
-,     <a href="../../../author/ahmed_hawreen"><b>Ahmed</b> Hawreen</a>
-,     <a href="../../../author/ajwad_ali"><b>Ajwad</b> Ali</a>
-,     <a href="../../../author/khan_ali_muhammad"><b>Khan</b> Muhammad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainable Materials and Technologies, Vol. 43, No. e01164
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#ai`](keyword/ai)
-    [`#assessment`](keyword/assessment)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#engineered`](keyword/engineered)
-    [`#life`](keyword/life)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/ai"><button class="btn">#ai</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comprehensive%20Review%20of%203D%20Printed%20Concrete%2C%20Life%20Cycle%20Assessment%2C%20AI%20and%20ML%20Models" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210718552&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -74,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404958455" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.susmat.2024.e01164" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.susmat.2024.e01164?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper offers an extensive assessment of 3D concrete printing (3DCP), an innovative form of construction that can revolutionize the construction industry. Its objectives include identifying the key parameters that control printability, evaluating different manufacturing processes, and examining the mechanical, physical, and other properties, as well as service life, and sustainability of 3D printed concrete. Furthermore, the review focuses on the use of artificial intelligence (AI) in enhancing 3DCP operations. The research comprehensively and methodically reviews the main characteristics of printability including extrudability, shape retention, open time, and buildability. It draws a comparison between manufacturing techniques such as the use of toolpath and the use of powders while focusing on printed speed as a means of achieving controlled layers. The engineering properties of 3D-printed concrete focus on rheology, concrete components, and printable designs in this research. Various printing parameters like time, speed, and nozzle distance are assessed for their effect on mechanical properties such as compressive strength, modulus of rupture, and tensile strength. Durability is determined by evaluating thermal properties, drying shrinkage, freeze-thaw cycling, and microstructure. The environmental effect is assessed through the features of lifecycle analysis and ecological friendliness. Accordingly, the review identifies printability factors and manufacturing techniques as vital factors that dictate the success of 3DCP. Depending on the concrete composition and the concrete mix proportions, its rheological properties are of great significance for the printable structures. This is in relation to thermal behavior, shrinkage, and freeze-thaw cycle where durability points to the need for proper assessment to assure structures' performance. The environmental impact also highlights how 3DCP can be utilized to minimize the carbon impact of construction through new materials and techniques. As illustrated in this review, there exists great potential for using 3DCP in revolutionizing sustainable construction technologies. AI models incorporated into the printing processes can lead to more improvements hence leading to the creation of even more advanced 3DCP, faster, better quality and eco-friendly. These findings are expected to help in the advancement of 3DCP technologies and be useful to researchers, engineers and practitioners in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "225 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
@@ -311,8 +279,9 @@ tags:
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
@@ -323,4 +292,34 @@ tags:
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
       <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_ahme_ali_qure.2025.CRo3PCLCAAaMM,
+      author            = "Mirza Aamish Hassan Khan and Aayzaz Ahmed and Tariq Ali and Muhammad Zeeshan Qureshi and Saiful Islam and Hawreen Ahmed and Ali Ajwad and Muhammad Ali Khan",
+      title             = "Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models: Materials, Engineered Properties and Techniques for Additive Manufacturing",
+      doi               = "10.1016/j.susmat.2024.e01164",
+      year              = "2025",
+      journal           = "Sustainable Materials and Technologies",
+      volume            = "43",
+      pages             = "e01164",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. H. Khan, “Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models: Materials, Engineered Properties and Techniques for Additive Manufacturing”, <i>Sustainable Materials and Technologies</i>, vol. 43, p. e01164, 2025, doi: 10.1016/j.susmat.2024.e01164.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Mirza Aamish Hassan, Aayzaz Ahmed, Tariq Ali, Muhammad Zeeshan Qureshi, Saiful Islam, Hawreen Ahmed, Ali Ajwad, and Muhammad Ali Khan. “Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models: Materials, Engineered Properties and Techniques for Additive Manufacturing”. <i>Sustainable Materials and Technologies</i> 43 (2025): e01164. https://doi.org/10.1016/j.susmat.2024.e01164.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

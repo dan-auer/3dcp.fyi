@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li Wang, Wenyu Lin, Hui Ma, Dexin Li, Qiao Wang
+    - footer
+title: Wang Li, Lin Wenyu, Ma Hui, Li Dexin, Wang Qiao
 description:
 tags:
  - aluminate
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.129144" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129144</a>
+#Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129144" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129144" target="_blank">10.1016/j.conbuildmat.2022.129144</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/lin_wenyu"><b>Lin</b>&nbsp;Wenyu</a></span>, <a href="../../../author/ma_hui"><b>Ma</b>&nbsp;Hui</a></span>, <a href="../../../author/li_dexin"><b>Li</b>&nbsp;Dexin</a></span>, <a href="../../../author/wang_qiao"><b>Wang</b>&nbsp;Qiao</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 353
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>
-,     <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>
-,     <a href="../../../author/li_dexin"><b>Li</b> Dexin</a>
-,     <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 353, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aluminate`](keyword/aluminate)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#elevation`](keyword/elevation)
-    [`#exposure`](keyword/exposure)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/aluminate"><button class="btn">#aluminate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Microstructural%20Properties%20of%203D%20Printed%20Aluminate-Cement-Based%20Composite%20Exposed%20to%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138115327&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296292848" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129144" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129144?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Investigation into the mechanical performances of 3D-printed composite exposed to elevated high-temperatures is of great significance for broadening the engineering application field of 3D printing. Aluminate cement-based composite was developed for 3D printing. The setting time, flowability, and printability of the composite material were adjusted by adding proper dosages of retarder. Then the compressive and flexural properties of the 3D-printed aluminate cement-based composites were evaluated, as well as the residual mechanical properties after heat-treatment at 200, 400, 600, 800, and 1000 ◦C, respectively. The pore distribution characteristics and the difference between the interface and matrix areas of 3D-printed composites after heat-treatment were systematically quantified through CT microscopic examinations and their relationship with the mechanical anisotropy was clarified. Additionally, the microstructural evolution were investigated by scanning electron microscope (SEM), X-ray diffraction (XRD) and thermogravimetric-differential scanning calorimetry (TG-DSC) technologies. The results indicate that high temperature has a more significant effect on the interfaces of 3Dprinted concrete, and the increase of porosity at interfaces was 23 % higher than that at the matrix after exposure to 1000 ◦C. At different temperatures, the average porosity in the Y direction was lower than that in the X and Z directions, and therefore result in the damage anisotropy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
@@ -109,8 +84,8 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
@@ -130,4 +105,33 @@ tags:
       <li><a href="../../../author/azimi_zahir"><b>Azimi</b> Zahir</a>, <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b> Akbar</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS/">Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ye_kehan"><b>Ye</b> Kehan</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../wang_ye_wan_li.2023.I3CP/">Inclined 3D Concrete Printing:<br/>Build-Up Prediction and Early-Age Performance-Optimization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_lin_ma_li.2022.MaMPo3PACBCEtET,
+      author            = "Li Wang and Wenyu Lin and Hui Ma and Dexin Li and Qiao Wang",
+      title             = "Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures",
+      doi               = "10.1016/j.conbuildmat.2022.129144",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "353",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, W. Lin, H. Ma, D. Li and Q. Wang, “Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures”, <i>Construction and Building Materials</i>, vol. 353, 2022, doi: 10.1016/j.conbuildmat.2022.129144.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Li, Wenyu Lin, Hui Ma, Dexin Li, and Qiao Wang. “Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures”. <i>Construction and Building Materials</i> 353 (2022). https://doi.org/10.1016/j.conbuildmat.2022.129144.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #case
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b> Anies</a>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b> Leyla</a>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b> Reham</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../gnan_more_thab_rang.2026.CAoOVO3PiC/">Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction:<br/>Benefits, Challenges, and Case Studies</a></li>
   <li><a href="../../../author/nadais_mariana"><b>Nadais</b> Mariana</a>, <a href="../../../author/cunha_p_rui"><b>Cunha</b> Rui</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nada_cunh_pess_delg.2026.EIEQTRTM/">Enhancing Indoor Environmental Quality Through Real-Time Monitoring:<br/>A Case Study of a 3D-Printed House</a></li>
   <li><a href="../../../author/kim_ki_young"><b>Kim</b> Young</a>, <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>, <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_scop_hadd.2025.AIitRo3PiRB/">An Investigation into the Role of 3D Printing in Residential Buildings:<br/>An Emirati Housing Case Study</a></li>

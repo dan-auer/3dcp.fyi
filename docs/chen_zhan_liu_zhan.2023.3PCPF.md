@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yidong Chen, Yu Zhang, Zhiyong Liu, Yunsheng Zhang, Cheng Liu, Bo Pang
+    - footer
+title: Chen Yidong, Zhang Yu, Liu Zhiyong, Zhang Yunsheng, Liu Cheng, Pang Bo
 description:
 tags:
  - bond
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete Permanent Formwork:<br/>:aca-blank: Effect of Post-Cast Concrete Proportion on Interface Bonding ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.matlet.2023.134472" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matlet.2023.134472</a>
+#3D Printed Concrete Permanent Formwork&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">Effect of Post-Cast Concrete Proportion on Interface Bonding</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2023.134472" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2023.134472" target="_blank">10.1016/j.matlet.2023.134472</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yidong"><b>Chen</b>&nbsp;Yidong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <a href="../../../author/liu_zhiyong"><b>Liu</b>&nbsp;Zhiyong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <a href="../../../author/liu_cheng"><b>Liu</b>&nbsp;Cheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pang_bo"><b>Pang</b>&nbsp;Bo</a></span><br>
+Journal Article - Materials Letters
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> <a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a>
-,     <a href="../../../author/pang_bo"><b>Pang</b> Bo</a> <a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Letters, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#cast`](keyword/cast)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#formwork`](keyword/formwork)
-    [`#interface`](keyword/interface)
-    [`#permanent`](keyword/permanent)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#proportion`](keyword/proportion)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Permanent%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85154060180&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4367397040" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matlet.2023.134472" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matlet.2023.134472?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Using 3D concrete printing technology to produce permanent formwork for building components is a promising method that maximizes design freedom and material savings. In this study, 3D-printed permanent formwork made of concrete with coarse aggregate is manufactured and post cast with concrete containing different coarse aggregate particle size ratios. The results indicate that the splitting tensile strength of the concrete interface reaches 2.3 ~ 4.4 MPa, of which the reduction rate range from 12.8%~35.7% with higher bonding positions. Mesoscopic observation reveals the voids concentration and a lack of coarse aggregate phenomenon in the interface area. Increasing the proportion of small-sized coarse aggregates in the pouring concrete can better fill and improve the splitting strength of the interface area.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -85,8 +60,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhan_zhan_yang_liu.2023.IotPFotWUi3PC/">Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhao_kang"><b>Zhao</b> Kang</a>, <a href="../../../author/hu_zhongjun"><b>Hu</b> Zhongjun</a>, <a href="../../../author/wang_boxin"><b>Wang</b> Boxin</a>, <a href="../../../author/li_quanheng"><b>Li</b> Quanheng</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF/">Effect of Roughness and Adhesive on the Strength of Concrete-to-Concrete Interfaces Cast from 3D Printed Prefabricated Plastic Formworks</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/chen_xuemei"><b>Chen</b> Xuemei</a>, <a href="../../../author/deng_yongjun"><b>Deng</b> Yongjun</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_zou_chen_deng.2025.FSo3PRCaaPF/">Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork:<br/>Mechanical Properties, Interlayer Interface and Durability</a></li>
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
@@ -98,4 +74,32 @@ tags:
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_dai_lyu.2024.EoASFotPoTDPCC/">Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_liu_zhan.2023.3PCPF,
+      author            = "Yidong Chen and Yu Zhang and Zhiyong Liu and Yunsheng Zhang and Cheng Liu and Bo Pang",
+      title             = "3D Printed Concrete Permanent Formwork: Effect of Post-Cast Concrete Proportion on Interface Bonding",
+      doi               = "10.1016/j.matlet.2023.134472",
+      year              = "2023",
+      journal           = "Materials Letters",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, Y. Zhang, Z. Liu, Y. Zhang, C. Liu and B. Pang, “3D Printed Concrete Permanent Formwork: Effect of Post-Cast Concrete Proportion on Interface Bonding”, <i>Materials Letters</i>, 2023, doi: 10.1016/j.matlet.2023.134472.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yidong, Yu Zhang, Zhiyong Liu, Yunsheng Zhang, Cheng Liu, and Bo Pang. “3D Printed Concrete Permanent Formwork: Effect of Post-Cast Concrete Proportion on Interface Bonding”. <i>Materials Letters</i>, 2023. https://doi.org/10.1016/j.matlet.2023.134472.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

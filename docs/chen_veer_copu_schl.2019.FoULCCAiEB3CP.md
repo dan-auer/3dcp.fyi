@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Chen, Frederic Veer, Oğuzhan Çopuroğlu, Erik Schlangen
+    - footer
+title: Chen Yu, Veer Frederic, Çopuroğlu Oğuzhan, Schlangen Erik
 description:
 tags:
  - alternative
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://repository.tudelft.nl/islandora/object/uuid%3A422cb52b-c766-443e-bac0-761056293347/datastream/OBJ/download) Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_25</a>
+#Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing ([2018-09](date/2018/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3A422cb52b-c766-443e-bac0-761056293347/datastream/OBJ/download) <a href="https://doi.org/10.1007/978-3-319-99519-9_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_25" target="_blank">10.1007/978-3-319-99519-9_25</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9821-0019" title="ORCID: 0000-0002-9821-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/veer_frederic"><b>Veer</b>&nbsp;Frederic</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 269-276
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="https://orcid.org/0000-0002-9821-0019" title="ORCID: 0000-0002-9821-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 269-276
-
-:aca-blank:{ .lg .middle}
-    [`#alternative`](keyword/alternative)
-    [`#base`](keyword/base)
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#feasibility`](keyword/feasibility)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20of%20Using%20Low%20CO2%20Concrete%20Alternatives%20in%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052696753&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,32 +38,27 @@ tags:
 <a href="https://inciteful.xyz/p/W2888972847" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_25" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_25?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In conventional concrete, replacing high-volume (more than 45%) of ordinary Portland cement (OPC) by supplementary cementitious materials (SCMs) is not a novel CO2 reduction method, whereas rarely in 3D printable concrete. This study attempts to explore the feasibility of using SCMs in 3D printable concrete. Initially, the existing binder mixes, required fresh properties and a research method of 3D printable concrete are investigated by reviewing the relevant papers. Additionally, the constraints and opportunities of using SCMs in 3D printable concrete are illustrated and summarized. Finally, it has been found that up to 45% of cement can be replaced by a blend of fly ash and silica fume. The essential fresh properties of 3D printable concrete include extrudability, workability, open time, buildability and structural build-up, which are influenced by the binder mix, particle size distribution, water to binder ratio, binder to aggregate ratio, admixture addition, the dosage of reinforced-fibers, etc. On the other hand, there are many limitations to develop SCMs-based 3D printable concrete, such as few relevant studies, a lack of the certificated standard, massive related-parameters and the shortage of common SCMs. For the first three problems, it can be solved with the development of 3D printable concrete. For the last one, calcined clay is one potential alternative for developing sustainable 3D printable concrete in the areas where are in short supply of fly ash and silica fume
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "72 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
@@ -154,6 +131,36 @@ tags:
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
-      <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{chen_veer_copu_schl.2019.FoULCCAiEB3CP,
+      author            = "Yu Chen and Frederic Veer and Oğuzhan Çopuroğlu and Erik Schlangen",
+      title             = "Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing",
+      doi               = "10.1007/978-3-319-99519-9_25",
+      year              = "2019",
+      volume            = "19",
+      pages             = "269--276",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, F. Veer, O. Çopuroğlu and E. Schlangen, “Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 269–276. doi: 10.1007/978-3-319-99519-9_25.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yu, Frederic Veer, Oğuzhan Çopuroğlu, and Erik Schlangen. “Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:269–76, 2019. https://doi.org/10.1007/978-3-319-99519-9_25.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

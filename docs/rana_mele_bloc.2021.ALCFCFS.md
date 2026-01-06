@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Francesco Ranaudo, Tom Mele, Philippe Block
+    - footer
+title: Ranaudo Francesco, Mele Tom, Block Philippe
 description:
 tags:
  - carbon
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Low-Carbon, Funicular Concrete Floor System:<br/>:aca-blank: Design and Engineering of the HiLo Floor ([2021-09](date/2021/09))
-<a href="https://doi.org/10.2749/ghent.2021.2016" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2749/ghent.2021.2016</a>
+#A Low-Carbon, Funicular Concrete Floor System&nbsp;([2021-09](date/2021/09))
+<div class="h1-like">Design and Engineering of the HiLo Floor</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/ghent.2021.2016" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/ghent.2021.2016" target="_blank">10.2749/ghent.2021.2016</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1612-5612" title="ORCID: 0000-0002-1612-5612" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranaudo_francesco"><b>Ranaudo</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
+Contribution - Proceedings of the 2021 IABSE Congress
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ranaudo_francesco"><b>Ranaudo</b> Francesco</a> <a href="https://orcid.org/0000-0002-1612-5612" title="ORCID: 0000-0002-1612-5612" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mele_tom"><b>van Mele</b> Tom</a> <a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2021 IABSE Congress, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#engineered`](keyword/engineered)
-    [`#floor`](keyword/floor)
-    [`#funicular`](keyword/funicular)
-    [`#low`](keyword/low)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/funicular"><button class="btn">#funicular</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Low-Carbon%2C%20Funicular%20Concrete%20Floor%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,23 +39,19 @@ tags:
 <a href="https://inciteful.xyz/p/W3204209219" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2749/ghent.2021.2016" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2749/ghent.2021.2016?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper reports on the integrated computational design, engineering and construction of the concrete, rib-stiffened funicular floors of the HiLo research & innovation unit, built on the NEST platform in Dübendorf, Switzerland. These floors represent the first application of this innovative technology in a real project. The lightweight structural floors significantly reduce environmental impact and embodied carbon emissions, when compared to common reinforced concrete slabs, both by minimising material needs and by using a large percentage of recycled construction waste, thus additionally contributing to a circular economy in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../jipa_giac_gies_chou.2019.3PFfBCS/">3D Printed Formwork for Bespoke Concrete Stairs</a></li>
       <li><a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/lopez_lopez_d"><b>López</b> D.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../liew_lope_mele_bloc.2017.DFaToaPTVUCF/">Design, Fabrication and Testing of a Prototype, Thin-Vaulted, Unreinforced Concrete Floor</a></li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/knychalla_bruno"><b>Knychalla</b> Bruno</a>, <a href="../../../author/wiesner_christian"><b>Wiesner</b> Christian</a>, <a href="../../../author/sonnleitner_patrick"><b>Sonnleitner</b> Patrick</a>, <a href="../../../author/kowalczyk_magdalena"><b>Kowalczyk</b> Magdalena</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../knyc_wies_sonn_kowa.2025.IFF/">Integrated Fiber Forms:<br/>Functionally Integrated Slab Systems Through Additive Manufacturing and Natural Fiber Reinforcement</a></li>
       <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
@@ -92,4 +72,33 @@ tags:
       <li><a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/orr_j_john"><b>Orr</b> John</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../nuh_oval_orr_shep.2022.DFoRCSUARCS/">Digital Fabrication of Ribbed Concrete Shells Using Automated Robotic Concrete Spraying</a></li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mata_bisc_hube_anto.2022.DFRCFS/">Digitally Fabricated Ribbed Concrete Floor Slabs:<br/>A Sustainable Solution for Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{rana_mele_bloc.2021.ALCFCFS,
+      author            = "Francesco Ranaudo and Tom van Mele and Philippe Block",
+      title             = "A Low-Carbon, Funicular Concrete Floor System: Design and Engineering of the HiLo Floor",
+      doi               = "10.2749/ghent.2021.2016",
+      year              = "2021",
+      booktitle         = "Proceedings of the 2021 IABSE Congress: Structural Engineering for Future Societal Needs",
+      editor            = "International Association for Bridge and Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Ranaudo, T. van Mele and P. Block, “A Low-Carbon, Funicular Concrete Floor System: Design and Engineering of the HiLo Floor”, in <i>Proceedings of the 2021 IABSE Congress: Structural Engineering for Future Societal Needs</i>,  2021. doi: 10.2749/ghent.2021.2016.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ranaudo, Francesco, Tom van Mele, and Philippe Block. “A Low-Carbon, Funicular Concrete Floor System: Design and Engineering of the HiLo Floor”. In <i>Proceedings of the 2021 IABSE Congress: Structural Engineering for Future Societal Needs</i>, edited by International Association for Bridge and Structural Engineering, 2021. https://doi.org/10.2749/ghent.2021.2016.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

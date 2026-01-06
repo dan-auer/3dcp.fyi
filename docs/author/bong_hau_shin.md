@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Bong Shin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../bong_du.2024.SAMoCwLCM/">Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials</a></li>
   <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bong_nema_mech_li.2023.3PESHGCaPFfCoRCB/">3D Printed Engineered, Strain-Hardening Geopolymer Composite as Permanent Formwork for Construction of Reinforced Concrete Beam</a></li>
   <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kond_subr_nema_bong.2023.SoPPaPRiAAMtMtRDo3CP/">Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing:<br/>Correction</a></li>

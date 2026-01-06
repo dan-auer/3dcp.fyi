@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Anwar, Xingyi Zhu, Yating Zhang, Jiakang Wang, Yumiao Wu, Francisco Gilabert Villegas
+    - footer
+title: Anwar Muhammad, Zhu Xingyi, Zhang Yating, Wang Jiakang, Wu Yumiao, Gilabert Villegas Francisco
 description:
 tags:
  - ash
@@ -21,39 +22,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Synergistic Effects of Microwave Curing Regimes on Early, Mid, and Long-Term Strengths and Microstructural Performance of Fly Ash-Slag Based 3D-Printed Geopolymers ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.clema.2025.100343" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.clema.2025.100343</a>
+#Synergistic Effects of Microwave Curing Regimes on Early, Mid, and Long-Term Strengths and Microstructural Performance of Fly Ash-Slag Based 3D-Printed Geopolymers ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.clema.2025.100343" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clema.2025.100343" target="_blank">10.1016/j.clema.2025.100343</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-1991-2847" title="ORCID: 0009-0009-1991-2847" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0822-6261" title="ORCID: 0000-0002-0822-6261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_xingyi"><b>Zhu</b>&nbsp;Xingyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8175-3044" title="ORCID: 0000-0001-8175-3044" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yating"><b>Zhang</b>&nbsp;Yating</a></span>, <a href="../../../author/wang_jiakang"><b>Wang</b>&nbsp;Jiakang</a></span>, <a href="../../../author/wu_yumiao"><b>Wu</b>&nbsp;Yumiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9020-782X" title="ORCID: 0000-0001-9020-782X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gilabert-villegas_antonio_francisco"><b>Gilabert Villegas</b>&nbsp;Francisco</a></span><br>
+Journal Article - Cleaner Materials, No. 100343
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b> Muhammad</a> <a href="https://orcid.org/0009-0009-1991-2847" title="ORCID: 0009-0009-1991-2847" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_xingyi"><b>Zhu</b> Xingyi</a> <a href="https://orcid.org/0000-0002-0822-6261" title="ORCID: 0000-0002-0822-6261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yating"><b>Zhang</b> Yating</a> <a href="https://orcid.org/0000-0001-8175-3044" title="ORCID: 0000-0001-8175-3044" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_jiakang"><b>Wang</b> Jiakang</a>
-,     <a href="../../../author/wu_yumiao"><b>Wu</b> Yumiao</a>
-,     <a href="../../../author/gilabert-villegas_antonio_francisco"><b>Gilabert Villegas</b> Francisco</a> <a href="https://orcid.org/0000-0001-9020-782X" title="ORCID: 0000-0001-9020-782X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Materials, No. 100343
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#cure`](keyword/cure)
-    [`#early`](keyword/early)
-    [`#effect`](keyword/effect)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#length`](keyword/length)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#slag`](keyword/slag)
-    [`#strength`](keyword/strength)
-    [`#synergy`](keyword/synergy)
-    [`#term`](keyword/term)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Effects%20of%20Microwave%20Curing%20Regimes%20on%20Early%2C%20Mid%2C%20and%20Long-Term%20Strengths%20and%20Microstructural%20Performance%20of%20Fly%20Ash-Slag%20Based%203D-Printed%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017969485&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7083007051" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.clema.2025.100343" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.clema.2025.100343?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the synergistic effects of microwave heating on the early, mid, and long-term flexural and compressive strengths of fly ash-slag-based 3D-printed geopolymers. Results show that flexural strength reaches its peak with 30–45 s of microwave heating at 1260 W, while compressive strength is maximized with 15–30 s of heating at 1800 W. Thermal analysis indicates gel dehydration and carbonate decomposition, with greater mass loss at longer microwave heating times. XRD, FTIR, and SEM collectively confirm the formation of C-A-S-H gels, calcite, and enhanced geopolymerization and densification over time, which contributes to improved mechanical properties. MIP analysis reveals that extended microwave curing increases overall porosity and coarsens the pore structure, which presents a trade-off between achieving high ultra-early strength and maintaining optimal long-term microstructural density. Microwave curing accelerates early strength development while maintaining durability, offering a rapid, low-carbon, and energy-efficient alternative for sustainable 3D-printed construction. These findings underline the potential of microwave-cured geopolymers to replace OPC in additive manufacturing, optimizing performance while significantly reducing the environmental impact of construction. This approach supports the principles of cleaner production by valorizing industrial waste (fly ash and slag) and reducing the energy footprint of the curing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
       <li><a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/li_xiao-sheng"><b>Li</b> Xiao-Sheng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../li_hao_li_xiao.2023.DoCI3PC/">Development of CO2-Integrated 3D Printing Concrete</a></li>
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moei_hoss_yahi.2022.3PoCBMwAB/">3D Printing of Cement-Based Materials with Adapted Buildability</a></li>
@@ -91,7 +62,36 @@ tags:
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
       <li><a href="../../../author/zhu_xingyi"><b>Zhu</b> Xingyi</a>, <a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b> Muhammad</a>, <a href="../../../author/deng_guomin"><b>Deng</b> Guomin</a>, <a href="../../../author/wang_xiaoming"><b>Wang</b> Xiaoming</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_anwa_deng_wang.2025.EoMHUVECoRPIBaBPo3PG/">Effect of Microwave Heating Under Varying Exposure Conditions on Rheological Properties, Interlayer Bond and Buildability Performance of 3D-Printed Geopolymer</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{anwa_zhu_zhan_wang.2025.SEoMCRoEMaLTSaMPoFASB3PG,
+      author            = "Muhammad Kashif Anwar and Xingyi Zhu and Yating Zhang and Jiakang Wang and Yumiao Wu and Francisco Antonio Gilabert Villegas",
+      title             = "Synergistic Effects of Microwave Curing Regimes on Early, Mid, and Long-Term Strengths and Microstructural Performance of Fly Ash-Slag Based 3D-Printed Geopolymers",
+      doi               = "10.1016/j.clema.2025.100343",
+      year              = "2025",
+      journal           = "Cleaner Materials",
+      pages             = "100343",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. K. Anwar, X. Zhu, Y. Zhang, J. Wang, Y. Wu and F. A. G. Villegas, “Synergistic Effects of Microwave Curing Regimes on Early, Mid, and Long-Term Strengths and Microstructural Performance of Fly Ash-Slag Based 3D-Printed Geopolymers”, <i>Cleaner Materials</i>, p. 100343, 2025, doi: 10.1016/j.clema.2025.100343.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Anwar, Muhammad Kashif, Xingyi Zhu, Yating Zhang, Jiakang Wang, Yumiao Wu, and Francisco Antonio Gilabert Villegas. “Synergistic Effects of Microwave Curing Regimes on Early, Mid, and Long-Term Strengths and Microstructural Performance of Fly Ash-Slag Based 3D-Printed Geopolymers”. <i>Cleaner Materials</i>, 2025, 100343. https://doi.org/10.1016/j.clema.2025.100343.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

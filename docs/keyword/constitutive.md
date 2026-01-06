@@ -8,7 +8,7 @@ search:
 
 # #constitutive
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
   <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a></li>
   <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>

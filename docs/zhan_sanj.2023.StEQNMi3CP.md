@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nan Zhang, Jay Sanjayan
+    - footer
+title: Zhang Nan, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2023.105226) Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105226" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105226</a>
+#Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing ([2023-08](date/2023/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.105226) <a href="https://doi.org/10.1016/j.cemconcomp.2023.105226" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105226" target="_blank">10.1016/j.cemconcomp.2023.105226</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_nan"><b>Zhang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 142, No. 105226
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a> <a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 142, No. 105226
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#enabler`](keyword/enabler)
-    [`#mixing`](keyword/mixing)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#quick`](keyword/quick)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quick"><button class="btn">#quick</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Surfactants%20to%20Enable%20Quick%20Nozzle%20Mixing%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166483173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385470767" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105226" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105226?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Quick Nozzle Mixing is a technique to overcome the contradictory rheological requirements of buildability and pumpability in 3D concrete printing. The challenge is to achieve a uniform mix in a short mix time. This work presents the mechanism of the mixing process in concrete and investigates the properties of mixing water containing five surfactants. The fresh and hardened properties of concretes made with these surfactants are analyzed. Results show that these surfactants play dominant roles in mixing efficiency, dependent on the mixing duration. These surfactants are ranked according to decreasing wettability as follows: Sodium dodecyl sulphate, Saponified rosin (SR), polyarylether, polycarboxylicether (PCE) and naphthalene sulphonate. These printable concretes mixed with 0.8 wt% PCE for 60 s and SR for 30 s exhibited high levels of homogeneity. The mechanical deterioration due to air incorporation was also discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -92,14 +74,44 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_sanj.2023.MoRMfQMMi3CP/">Mechanisms of Rheological Modifiers for Quick Mixing Method in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b> Matineh</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wang_tao_das_mahm.2024.A2SiDC/">Aluminate 2K Systems in Digital Concrete:<br/>Process, Design, Chemistry, and Outlook</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_sanj.2024.PL3CPUQNM/">Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../fasi_libr.2024.FPtD/">From Pumping to Deposition:<br/>A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhan_sanj.2024.QNMTf3PFC/">Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete</a></li>
-      <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_sanj.2023.MoRMfQMMi3CP/">Mechanisms of Rheological Modifiers for Quick Mixing Method in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_sanj.2023.StEQNMi3CP,
+      author            = "Nan Zhang and Jay Gnananandan Sanjayan",
+      title             = "Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2023.105226",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "142",
+      pages             = "105226",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Zhang  and J. G. Sanjayan, “Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, vol. 142, p. 105226, 2023, doi: 10.1016/j.cemconcomp.2023.105226.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Nan, and Jay Gnananandan Sanjayan. “Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing”. <i>Cement and Concrete Composites</i> 142 (2023): 105226. https://doi.org/10.1016/j.cemconcomp.2023.105226.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

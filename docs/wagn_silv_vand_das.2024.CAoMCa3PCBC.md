@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Juliana Wagner, Marcos Silveira, Romel Vanderlei, Sreekanta Das
+    - footer
+title: Wagner Juliana, Silveira Marcos, Vanderlei Romel, Das Sreekanta
 description:
 tags:
  - additive
@@ -20,36 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparative Analysis of Mold-Cast and 3D Printed Cement-Based Components:<br/>:aca-blank: Implications for Standardization in Additive Construction ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1139/cjce-2024-0169" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1139/cjce-2024-0169</a>
+#Comparative Analysis of Mold-Cast and 3D Printed Cement-Based Components&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Implications for Standardization in Additive Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1139/cjce-2024-0169" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1139/cjce-2024-0169" target="_blank">10.1139/cjce-2024-0169</a>
 
--------------------------
+<a href="../../../author/wagner_s_juliana"><b>Wagner</b>&nbsp;Juliana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0586-4444" title="ORCID: 0000-0002-0586-4444" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b>&nbsp;Marcos</a></span>, <a href="../../../author/vanderlei_d_romel"><b>Vanderlei</b>&nbsp;Romel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
+Journal Article - Canadian Journal of Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wagner_s_juliana"><b>Wagner</b> Juliana</a>
-,     <a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b> Marcos</a> <a href="https://orcid.org/0000-0002-0586-4444" title="ORCID: 0000-0002-0586-4444" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vanderlei_d_romel"><b>Vanderlei</b> Romel</a>
-,     <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Canadian Journal of Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#cast`](keyword/cast)
-    [`#cement`](keyword/cement)
-    [`#comparision`](keyword/comparision)
-    [`#component`](keyword/component)
-    [`#construction`](keyword/construction)
-    [`#implication`](keyword/implication)
-    [`#mold`](keyword/mold)
-    [`#print`](keyword/print)
-    [`#standard`](keyword/standard)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/mold"><button class="btn">#mold</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20Mold-Cast%20and%203D%20Printed%20Cement-Based%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001947505&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403752210" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1139/cjce-2024-0169" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1139/cjce-2024-0169?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid growth of additive construction emphasizes the need for developing testing methodologies specific to cement-based 3D-printed components. This study performs a comprehensive comparative analysis of the physical, mechanical, and microstructural characteristics of specimens fabricated through 3D printing versus those created using traditional mold-casting techniques. This research aims to inform and support standardization efforts in the field of additive construction, both within Canada and globally. Additionally, the research provides insights into material characterization to inform the development of numerical modeling strategies tailored for 3D-printed structural elements. The Digital Image Correlation (DIC) technique was employed to examine strain behavior and generate stress-strain curves. The results showed a significant strength reduction and strain concentration at the interlayer surfaces of the 3D-printed specimens. Concluding recommendations include the adoption of the oblique shear test for shear strength assessment and the four-point flexural strength for evaluating interlayer bond strength in cement-based 3D-printed members.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
@@ -122,8 +97,36 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/popli_siddharth"><b>Popli</b> Siddharth</a>, <a href="../../../author/valikhah_fatemeh"><b>Valikhah</b> Fatemeh</a>, <a href="../../../author/zandi-lak_erfan"><b>Zandi Lak</b> Erfan</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../popl_vali_zand_das.2025.MaDPo3PCwCAaCJ/">Mechanical and Durability Performance of 3D-Printed Concrete with Coarse Aggregates and Cold Joints</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wagn_silv_vand_das.2024.CAoMCa3PCBC,
+      author            = "Juliana S. Wagner and Marcos Vinicius Gil Silveira and Romel D. Vanderlei and Sreekanta Das",
+      title             = "Comparative Analysis of Mold-Cast and 3D Printed Cement-Based Components: Implications for Standardization in Additive Construction",
+      doi               = "10.1139/cjce-2024-0169",
+      year              = "2024",
+      journal           = "Canadian Journal of Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. S. Wagner, M. V. G. Silveira, R. D. Vanderlei and S. Das, “Comparative Analysis of Mold-Cast and 3D Printed Cement-Based Components: Implications for Standardization in Additive Construction”, <i>Canadian Journal of Civil Engineering</i>, 2024, doi: 10.1139/cjce-2024-0169.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wagner, Juliana S., Marcos Vinicius Gil Silveira, Romel D. Vanderlei, and Sreekanta Das. “Comparative Analysis of Mold-Cast and 3D Printed Cement-Based Components: Implications for Standardization in Additive Construction”. <i>Canadian Journal of Civil Engineering</i>, 2024. https://doi.org/10.1139/cjce-2024-0169.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

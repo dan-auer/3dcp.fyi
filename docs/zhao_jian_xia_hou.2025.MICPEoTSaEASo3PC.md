@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Herui Zhao, Quan Jiang, Yong Xia, Dongqi Hou, Junyao Luo, Jian Liu
+    - footer
+title: Zhao Herui, Jiang Quan, Xia Yong, Hou Dongqi, Luo Junyao, Liu Jian
 description:
 tags:
  - age
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112757" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112757</a>
+#Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112757" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112757" target="_blank">10.1016/j.jobe.2025.112757</a>
 
--------------------------
+<a href="../../../author/zhao_herui"><b>Zhao</b>&nbsp;Herui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/xia_yong"><b>Xia</b>&nbsp;Yong</a></span>, <a href="../../../author/hou_dongqi"><b>Hou</b>&nbsp;Dongqi</a></span>, <a href="../../../author/luo_junyao"><b>Luo</b>&nbsp;Junyao</a></span>, <a href="../../../author/liu_jian"><b>Liu</b>&nbsp;Jian</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112757
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>
-,     <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a> <a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>
-,     <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a>
-,     <a href="../../../author/luo_junyao"><b>Luo</b> Junyao</a>
-,     <a href="../../../author/liu_jian"><b>Liu</b> Jian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112757
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#effect`](keyword/effect)
-    [`#induction`](keyword/induction)
-    [`#print`](keyword/print)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#strength`](keyword/strength)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Microbial-Induced%20Calcareous%20Precipitation%20Effect%20on%20Tensile%20Strength%20and%20Early%20Age%20Shrinkage%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003774912&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409708657" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112757" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112757?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) is more susceptible to occur early age shrinkage as well as form pores from entrapped air due to absence of formwork which affects its long-term durability and strength. This paper investigates the effects of microbial-induced calcareous precipitation (MICP) on the early age plastic shrinkage, pore structure and tensile strength of 3DPC. Through the observation of early age shrinkage and the analysis of the microstructure, it is revealed that the incorporation of bacteria can effectively inhibit the early age shrinkage of 3D printed concrete and reduce the porosity of the specimens, especially the interlayer pore fraction. Meanwhile, it is found that there are three ways to filling the pores of MICP: completely filling, surface filling and local bonding on pores, which can explain the reinforcement mechanism of MICP on 3DPC. The reinforcement mechanism is revealed by numerical simulation. The oriented flat pores in the interlayer makes more easier to form “Z” stress concentration and then expand into a strip-like stress concentration situation until the specimen failure. From the two-way ANOVA analysis, the interlayer pore fraction of 3DPC has a higher impact on its tensile strength than its interlayer slip.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
@@ -94,13 +69,40 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../yuan_xie_yao_huan.2022.EoPotWaILIPo3PCM/">Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
-      <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhao_jian_xia_hou.2025.MICPEoTSaEASo3PC/">Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
-      <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhao_jian_xia_hou.2025.MICPEoTSaEASo3PC/">Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_jian_xia_hou.2025.MICPEoTSaEASo3PC,
+      author            = "Herui Zhao and Quan Jiang and Yong Xia and Dongqi Hou and Junyao Luo and Jian Liu",
+      title             = "Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete",
+      doi               = "10.1016/j.jobe.2025.112757",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112757",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhao, Q. Jiang, Y. Xia, D. Hou, J. Luo and J. Liu, “Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete”, <i>Journal of Building Engineering</i>, p. 112757, 2025, doi: 10.1016/j.jobe.2025.112757.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Herui, Quan Jiang, Yong Xia, Dongqi Hou, Junyao Luo, and Jian Liu. “Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete”. <i>Journal of Building Engineering</i>, 2025, 112757. https://doi.org/10.1016/j.jobe.2025.112757.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

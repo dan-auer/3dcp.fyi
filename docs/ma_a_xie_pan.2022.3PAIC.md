@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guowei Ma, Ruhan A, Panpan Xie, Zhu Pan, Li Wang, James Hower
+    - footer
+title: Ma Guowei, A Ruhan, Xie Panpan, Pan Zhu, Wang Li, Hower James
 description:
 tags:
  - anisotropy
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printable Aerogel-Incorporated Concrete:<br/>:aca-blank: Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.126551" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.126551</a>
+#3D Printable Aerogel-Incorporated Concrete&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.126551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.126551" target="_blank">10.1016/j.conbuildmat.2022.126551</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/a_ruhan"><b>A</b>&nbsp;Ruhan</a></span>, <a href="../../../author/xie_panpan"><b>Xie</b>&nbsp;Panpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3389-4656" title="ORCID: 0000-0003-3389-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_zhu"><b>Pan</b>&nbsp;Zhu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/hower_c_james"><b>Hower</b>&nbsp;James</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 323
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/a_ruhan"><b>A</b> Ruhan</a>
-,     <a href="../../../author/xie_panpan"><b>Xie</b> Panpan</a>
-,     <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> <a href="https://orcid.org/0000-0003-3389-4656" title="ORCID: 0000-0003-3389-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hower_c_james"><b>Hower</b> James</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 323, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#incorporation`](keyword/incorporation)
-    [`#influence`](keyword/influence)
-    [`#insulation`](keyword/insulation)
-    [`#mechanics`](keyword/mechanics)
-    [`#physics`](keyword/physics)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Aerogel-Incorporated%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123603477&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4210248469" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.126551" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.126551?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the properties of fresh and hardened aerogel (AG)-incorporated concrete suitable for 3D concrete printing. After trial and error, it was found, that to achieve the desired printability, the optimal replacement range for silica sand by aerogel in a cementitious mixture is 0–20% by volume. The physical, mechanical, and thermal insulation properties of hardened concrete in three directions were studied, and the influence of anisotropy on these properties was investigated. The results showed that irrespective of the aerogel content, the compressive strength of the cast specimens (avg. 24.90 MPa in A20) was slightly higher than those of the 3D printed specimens, 3DCP-X (avg. 23.63 MPa in A20), 3DCP-Y (avg. 20.77 MPa in A20), and 3DCP-Z (avg. 20.40 MPa in A20). The thermal conductivity of the cast and printed specimens decreased gradually with an increase in the aerogel content. Relative to that of the cast specimens (0.330 W/(m⋅K) in A20), the thermal conductivity of specimens 3DCP-X (0.405 W/(m⋅K) in A20) was slightly higher, while those of 3DCP-Y (0.320 W/ (m⋅K) in A20) and 3DCP-Z (0.306 W/(m⋅K) in A20) were lower. A thermal insulation wall (400 mm × 200 mm × 600 mm) with hollow structures was printed using the AG-incorporated concrete. To satisfy the same thermal and mechanical requirements, walls fabricated using AG-incorporated concrete can be 7 cm thinner than traditional concrete walls. The mechanism for the heat transfer of AG-incorporated concrete in three directions was examined as well.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -108,8 +83,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
@@ -123,7 +98,7 @@ tags:
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>, <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../dey_pand_shuk_rawa.2025.ACAoTPo3PCLW/">A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls</a></li>
       <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a>, <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>, <a href="../../../author/thorne_garret"><b>Thorne</b> Garret</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../koss_brow_thor_sanc.2024.IoIAaIFotTBo3PCM/">Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
-      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
+      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
@@ -146,4 +121,33 @@ tags:
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_xing_sun_feng.2023.MSSCaHMPo3PBW/">Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>A Review</a></li>
       <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../sada_pras_pras.2024.3CP/">3D Cement Printing:<br/>DFMA Guideline of Patterned Load-Bearing Walls for Small Residential Units</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_a_xie_pan.2022.3PAIC,
+      author            = "Guowei Ma and Ruhan A and Panpan Xie and Zhu Pan and Li Wang and James C. Hower",
+      title             = "3D Printable Aerogel-Incorporated Concrete: Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties",
+      doi               = "10.1016/j.conbuildmat.2022.126551",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "323",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Ma, R. A, P. Xie, Z. Pan, L. Wang and J. C. Hower, “3D Printable Aerogel-Incorporated Concrete: Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties”, <i>Construction and Building Materials</i>, vol. 323, 2022, doi: 10.1016/j.conbuildmat.2022.126551.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Guowei, Ruhan A, Panpan Xie, Zhu Pan, Li Wang, and James C. Hower. “3D Printable Aerogel-Incorporated Concrete: Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties”. <i>Construction and Building Materials</i> 323 (2022). https://doi.org/10.1016/j.conbuildmat.2022.126551.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

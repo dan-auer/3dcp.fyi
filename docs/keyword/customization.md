@@ -8,7 +8,7 @@ search:
 
 # #customization
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_maia.2026.E3CPCwBT/">Expanding 3D Concrete Printing Customization with Biomimetic Textures</a></li>
   <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
   <li><a href="../../../author/kantaros_antreas"><b>Kantaros</b> Antreas</a>, <a href="../../../author/ganetsos_theodore"><b>Ganetsos</b> Theodore</a>, <a href="../../../author/kanetaki_zoe"><b>Kanetaki</b> Zoe</a>, <a href="../../../author/stergiou_constantinos"><b>Stergiou</b> Constantinos</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kant_gane_kane_ster.2025.DaFoCUFT3PP/">Design and Fabrication of Customizable Urban Furniture Through 3D Printing Processes</a></li>

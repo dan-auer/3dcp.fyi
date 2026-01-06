@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Parukutty Ambily, Senthil Kaliyavaradhan, Neeraja Rajendran
+    - footer
+title: Ambily Parukutty, Kaliyavaradhan Senthil, Rajendran Neeraja
 description:
 tags:
  - adoption
@@ -13,28 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>:aca-blank: A Review ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1080/19648189.2023.2213294" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/19648189.2023.2213294</a>
+#Top Challenges to Widespread 3D Concrete Printing Adoption&nbsp;([2023-05](date/2023/05))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/19648189.2023.2213294" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2023.2213294" target="_blank">10.1080/19648189.2023.2213294</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b>&nbsp;Senthil</a></span>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b>&nbsp;Neeraja</a></span><br>
+Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-29
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-29
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Top%20Challenges%20to%20Widespread%203D%20Concrete%20Printing%20Adoption" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160073242&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4377233698" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/19648189.2023.2213294" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/19648189.2023.2213294?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is a recent trend in the construction sector. In 3DCP, the concrete is pumped layer by layer through a nozzle attached to a robotic arm to print structural components or the entire building. The application of 3DCP is not just limited to the earth; it’s also gaining traction in space habitat construction. However, there are constraints associated with using 3DCP in construction projects. This review details the top challenges faced in the 3DCP process related to material, strength, printer and highlights the applications of 3DCP in the construction sector. By choosing the suitable materials and configuring the printing parameters, it is possible to overcome the material and structural strength-related challenges such as workability, hardening time, mechanical and durability properties. The use of 3DCP on construction sites certainly provides cost and waste reductions, faster build rates, safer working environments and the possibility of more intricate architecture. Reinforcing methods and sustainable processes are the most frequently encountered issues with the 3DCP. Lack of technology, material variability, process optimization and many other issues are barriers to advancing 3D printing technology for concrete. It is concluded that 3DCP has potential and opportunity for the construction if the challenges are addressed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
@@ -105,8 +88,9 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
@@ -141,4 +125,33 @@ tags:
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ambi_raje_kali.2023.MDOaPEoEB3PC/">Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete</a></li>
       <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ingl_kali_ambi_shek.2023.3PCWCA/">3D Printable Concrete Without Chemical Admixtures:<br/>Fresh and Hardened Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ambi_kali_raje.2023.TCtW3CPA,
+      author            = "Parukutty S. Ambily and Senthil Kumar Kaliyavaradhan and Neeraja Rajendran",
+      title             = "Top Challenges to Widespread 3D Concrete Printing Adoption: A Review",
+      doi               = "10.1080/19648189.2023.2213294",
+      year              = "2023",
+      journal           = "European Journal of Environmental and Civil Engineering",
+      pages             = "1--29",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. S. Ambily, S. K. Kaliyavaradhan and N. Rajendran, “Top Challenges to Widespread 3D Concrete Printing Adoption: A Review”, <i>European Journal of Environmental and Civil Engineering</i>, pp. 1–29, 2023, doi: 10.1080/19648189.2023.2213294.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ambily, Parukutty S., Senthil Kumar Kaliyavaradhan, and Neeraja Rajendran. “Top Challenges to Widespread 3D Concrete Printing Adoption: A Review”. <i>European Journal of Environmental and Civil Engineering</i>, 2023, 1–29. https://doi.org/10.1080/19648189.2023.2213294.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

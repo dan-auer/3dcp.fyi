@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junxing Liu, Peiqi Li, Taiyan Piao, Sumin Im, Sungchul Bae
+    - footer
+title: Liu Junxing, Li Peiqi, Piao Taiyan, Im Sumin, Bae Sungchul
 description:
 tags:
  - binder
@@ -23,40 +24,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} High-Alumina Cementitious Materials for Binder-Jetting 3D Printing:<br/>:aca-blank: Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jobe.2024.111598" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111598</a>
+#High-Alumina Cementitious Materials for Binder-Jetting 3D Printing&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111598" target="_blank">10.1016/j.jobe.2024.111598</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6947-6627" title="ORCID: 0000-0002-6947-6627" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junxing"><b>Liu</b>&nbsp;Junxing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7476-9416" title="ORCID: 0000-0002-7476-9416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_peiqi"><b>Li</b>&nbsp;Peiqi</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-2298-4215" title="ORCID: 0009-0003-2298-4215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/piao_taiyan"><b>Piao</b>&nbsp;Taiyan</a></span>, <a href="../../../author/im_sumin"><b>Im</b>&nbsp;Sumin</a></span>, <a href="../../../author/bae_sungchul"><b>Bae</b>&nbsp;Sungchul</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 99, No. 111598
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_junxing"><b>Liu</b> Junxing</a> <a href="https://orcid.org/0000-0002-6947-6627" title="ORCID: 0000-0002-6947-6627" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_peiqi"><b>Li</b> Peiqi</a> <a href="https://orcid.org/0000-0002-7476-9416" title="ORCID: 0000-0002-7476-9416" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/piao_taiyan"><b>Piao</b> Taiyan</a> <a href="https://orcid.org/0009-0003-2298-4215" title="ORCID: 0009-0003-2298-4215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/im_sumin"><b>Im</b> Sumin</a>
-,     <a href="../../../author/bae_sungchul"><b>Bae</b> Sungchul</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 99, No. 111598
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#cure`](keyword/cure)
-    [`#exploration`](keyword/exploration)
-    [`#height`](keyword/height)
-    [`#hydration`](keyword/hydration)
-    [`#improvement`](keyword/improvement)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#ratio`](keyword/ratio)
-    [`#solution`](keyword/solution)
-    [`#suitability`](keyword/suitability)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=High-Alumina%20Cementitious%20Materials%20for%20Binder-Jetting%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212840103&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405405052" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111598" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111598?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, binder jetting 3D printing (BJ3DP) technology has attracted growing attention in construction materials. Although ordinary Portland cement (OPC) is one of the most widely used building materials, its slow hydration reaction limits its effectiveness in BJ3DP. In contrast, calcium aluminate cement (CAC) undergoes a rapid hydration reaction, achieving sufficient strength at an early stage, which is advantageous for BJ3DP applications. Nevertheless, there is still limited research on the suitability of cementitious materials for BJ3DP. Therefore, this work aimed to identify the optimal material mixing proportions and suitable post-processing solutions for BJ3DP by comprehensively evaluating the flowability of the dry materials, print bed characteristics, print quality, and mechanical strength of the printed specimens. The results showed that replacing 40 % of ordinary Portland cement with calcium aluminate cement optimized the flowability of the dry mixture, allowing for the production of specimens with favorable print quality. Furthermore, at this optimal ratio, the printed specimen’s compressive strength achieved 12.7 MPa after curing in Na2SiO3 solution for 28 d, representing a 42.6 % increase in compressive strength compared with the specimens cured in water. Simultaneously, the compressive strength of the printed samples increased by 57.7 % compared to our previous results and showed a further 10 % increase under the same curing condition (water curing). Based on these findings, we proposed a novel composition ratio for high-alumina cementitious materials in BJ3DP, consisting of a 60 % OPC and 40 % CAC mix, along with post-treatment of the printed samples using a Na2SiO3 solution. This study broadens the range of cementitious materials suitable for BJ3DP and demonstrates the feasibility of Na2SiO3 as an effective post-treatment solution, providing a theoretical foundation for future research and practical applications of high-alumina cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../das_reit_mant_flat.2022.EARaHCoTBf3PA/">Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
@@ -106,7 +77,37 @@ tags:
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../xia_nema_sanj.2019.DoPB3CPUG/">Development of Powder-Based 3D Concrete Printing Using Geopolymers</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../xia_nema_sanj.2019.PPTtESoPCMDFUPB3PP/">Post-Processing Techniques to Enhance Strength of Portland Cement Mortar Digitally Fabricated Using Powder-Based 3D Printing Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_piao_im.2025.HACMfBJ3P,
+      author            = "Junxing Liu and Peiqi Li and Taiyan Piao and Sumin Im and Sungchul Bae",
+      title             = "High-Alumina Cementitious Materials for Binder-Jetting 3D Printing: Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction",
+      doi               = "10.1016/j.jobe.2024.111598",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      volume            = "99",
+      pages             = "111598",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Liu, P. Li, T. Piao, S. Im and S. Bae, “High-Alumina Cementitious Materials for Binder-Jetting 3D Printing: Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction”, <i>Journal of Building Engineering</i>, vol. 99, p. 111598, 2025, doi: 10.1016/j.jobe.2024.111598.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Junxing, Peiqi Li, Taiyan Piao, Sumin Im, and Sungchul Bae. “High-Alumina Cementitious Materials for Binder-Jetting 3D Printing: Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction”. <i>Journal of Building Engineering</i> 99 (2025): 111598. https://doi.org/10.1016/j.jobe.2024.111598.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

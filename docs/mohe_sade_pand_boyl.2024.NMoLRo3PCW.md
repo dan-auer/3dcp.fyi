@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Morteza Mohemmi, Vahid Sadeghian, Biranchi Panda, Sheryl Boyle
+    - footer
+title: Mohemmi Morteza, Sadeghian Vahid, Panda Biranchi, Boyle Sheryl
 description:
 tags:
  - concrete
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Modeling of Lateral Resistance of 3D Printed Concrete Walls ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_53" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_53</a>
+#Numerical Modeling of Lateral Resistance of 3D Printed Concrete Walls ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_53" target="_blank">10.1007/978-3-031-70031-6_53</a>
 
--------------------------
+<a href="../../../author/mohemmi_morteza"><b>Mohemmi</b>&nbsp;Morteza</a></span>, <a href="../../../author/sadeghian_vahid"><b>Sadeghian</b>&nbsp;Vahid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/boyle_sheryl"><b>Boyle</b>&nbsp;Sheryl</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 457-464
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mohemmi_morteza"><b>Mohemmi</b> Morteza</a>
-,     <a href="../../../author/sadeghian_vahid"><b>Sadeghian</b> Vahid</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/boyle_sheryl"><b>Boyle</b> Sheryl</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 457-464
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#lateral`](keyword/lateral)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lateral"><button class="btn">#lateral</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Modeling%20of%20Lateral%20Resistance%20of%203D%20Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203088468&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402088219" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_53" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_53?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automating the construction of concrete structures by using 3D printing technology is a novel approach that is rapidly increasing around the world. Compared to conventional construction, 3D printed concrete (3DPC) provides several unique advantages including saving time and money, eliminating the need for formwork, and increasing workers’ safety. Although considerable research has been carried out on the mechanical properties of 3DPC, the number of studies on the structural behavior of 3DPC buildings is limited. In particular, there is no information on the load-carrying capacity of 3DPC buildings when subjected to lateral loads such as wind and earthquakes. A key factor in determining the lateral resistance of 3DPC buildings is the behavior of the interface between the concrete filaments which can be affected by a wide range of parameters and requires careful consideration. This paper presents a three-dimensional finite element modeling approach developed using the LS-DYNA software for performance assessment of 3DPC buildings under lateral loads. The proposed modeling approach is verified against results of an axially loaded wall test reported in the literature. The analytical and experimental results are compared in terms of the load-deflection response and failure mode. The verified model is then employed to assess the seismic performance of a 3DPC building located in Canada that includes walls with different aspect ratios. The ability of walls to resist earthquake loading is investigated by comparing the pushover responses in terms of the lateral load resistance, ductility, and failure mode. The lateral load-carrying capacity of the building is also compared against the seismic design force calculated according to the Canadian Building Code for two cities in Eastern and Western Canada. The findings of the study will help engineers to gain insight into the structural performance of 3DPC buildings under lateral loads.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../chan_lian_xu_schl.2022.3CP/">3D Concrete Printing:<br/>Lattice Modeling of Structural Failure considering Damage and Deformed Geometry</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
@@ -82,7 +61,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mohe_sade_pand_boyl.2024.NMoLRo3PCW,
+      author            = "Morteza Mohemmi and Vahid Sadeghian and Biranchi Narayan Panda and Sheryl Boyle",
+      title             = "Numerical Modeling of Lateral Resistance of 3D Printed Concrete Walls",
+      doi               = "10.1007/978-3-031-70031-6_53",
+      year              = "2024",
+      volume            = "53",
+      pages             = "457--464",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Mohemmi, V. Sadeghian, B. N. Panda and S. Boyle, “Numerical Modeling of Lateral Resistance of 3D Printed Concrete Walls”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 457–464. doi: 10.1007/978-3-031-70031-6_53.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mohemmi, Morteza, Vahid Sadeghian, Biranchi Narayan Panda, and Sheryl Boyle. “Numerical Modeling of Lateral Resistance of 3D Printed Concrete Walls”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:457–64, 2024. https://doi.org/10.1007/978-3-031-70031-6_53.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

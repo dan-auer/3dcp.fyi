@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chenkang Liu, Songlin Yue, Cong Zhou, Honglei Sun, Shuxin Deng, Fei Gao, Yizhong Tan
+    - footer
+title: Liu Chenkang, Yue Songlin, Zhou Cong, Sun Honglei, Deng Shuxin, Gao Fei, Tan Yizhong
 description:
 tags:
  - anisotropy
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete ([2021-08](date/2021/08))
-<a href="https://doi.org/10.1007/s10853-021-06416-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s10853-021-06416-w</a>
+#Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete ([2021-08](date/2021/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s10853-021-06416-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10853-021-06416-w" target="_blank">10.1007/s10853-021-06416-w</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9675-5955" title="ORCID: 0000-0002-9675-5955" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chenkang"><b>Liu</b>&nbsp;Chenkang</a></span>, <a href="../../../author/yue_songlin"><b>Yue</b>&nbsp;Songlin</a></span>, <a href="../../../author/zhou_cong"><b>Zhou</b>&nbsp;Cong</a></span>, <a href="../../../author/sun_honglei"><b>Sun</b>&nbsp;Honglei</a></span>, <a href="../../../author/deng_shuxin"><b>Deng</b>&nbsp;Shuxin</a></span>, <a href="../../../author/gao_fei"><b>Gao</b>&nbsp;Fei</a></span>, <a href="../../../author/tan_yizhong"><b>Tan</b>&nbsp;Yizhong</a></span><br>
+Journal Article - Journal of Materials Science, Vol. 56, Iss. 30, pp. 16851-16864
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chenkang"><b>Liu</b> Chenkang</a> <a href="https://orcid.org/0000-0002-9675-5955" title="ORCID: 0000-0002-9675-5955" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>
-,     <a href="../../../author/zhou_cong"><b>Zhou</b> Cong</a>
-,     <a href="../../../author/sun_honglei"><b>Sun</b> Honglei</a>
-,     <a href="../../../author/deng_shuxin"><b>Deng</b> Shuxin</a>
-,     <a href="../../../author/gao_fei"><b>Gao</b> Fei</a>
-,     <a href="../../../author/tan_yizhong"><b>Tan</b> Yizhong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Science, Vol. 56, Iss. 30, pp. 16851-16864
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#layer`](keyword/layer)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anisotropic%20Mechanical%20Properties%20of%20Extrusion-Based%203D%20Printed%20Layered%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112534556&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3195488805" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s10853-021-06416-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s10853-021-06416-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D printed concrete is a promising material and processing technique for use in the construction industry. In this study, 3D printed specimens were loaded dynamically and statically to investigate their anisotropic characteristics. The experimental results showed that the average static compressive strength of the 3D printed concrete specimens was 115% of that of the cast specimens. Meanwhile, the dynamic compressive strength of DX specimens was significantly larger than that of other 3D printed specimens and cast specimens under the same impact pressure. In particular, ultrasonic pulse velocity values were used to quantitatively represent the anisotropy of 3D printed specimens. In conclusion, the anisotropic characteristics of 3D printed concrete were studied. The results indicate that the performance of 3D printed concrete was best (especially in the X-direction). The results provide a reference for engineers looking to design 3D printed components for use in construction
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -97,8 +72,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "49 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b> Olexander</a>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b> Nina</a>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b> Stanislav</a>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b> Andrii</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P/">Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer</a></li>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC/">Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics</a></li>
@@ -149,4 +124,35 @@ tags:
       <li><a href="../../../author/shkundalova_olena"><b>Shkundalova</b> Olena</a>, <a href="../../../author/molkens_tom"><b>Molkens</b> Tom</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/rossi_barbara"><b>Rossi</b> Barbara</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../shku_molk_cla_ross.2022.CMoMBoL3PC/">Computational Modelling of Material-Behavior of Layered 3D Printed Concrete</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_yue_zhou_sun.2021.AMPoEB3PLC,
+      author            = "Chenkang Liu and Songlin Yue and Cong Zhou and Honglei Sun and Shuxin Deng and Fei Gao and Yizhong Tan",
+      title             = "Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete",
+      doi               = "10.1007/s10853-021-06416-w",
+      year              = "2021",
+      journal           = "Journal of Materials Science",
+      volume            = "56",
+      number            = "30",
+      pages             = "16851--16864",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete”, <i>Journal of Materials Science</i>, vol. 56, no. 30, pp. 16851–16864, 2021, doi: 10.1007/s10853-021-06416-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chenkang, Songlin Yue, Cong Zhou, Honglei Sun, Shuxin Deng, Fei Gao, and Yizhong Tan. “Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete”. <i>Journal of Materials Science</i> 56, no. 30 (2021): 16851–64. https://doi.org/10.1007/s10853-021-06416-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

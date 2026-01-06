@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hiroki Ogura, Koichiro Hara, Shinya Yamamoto, Hiroyuki Abe
+    - footer
+title: Ogura Hiroki, Hara Koichiro, Yamamoto Shinya, Abe Hiroyuki
 description:
 tags:
  - axis
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flexural Performance of Fiber-Reinforced 3D Printed Concrete Beams with Axial Rebar ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70145-0_58" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70145-0_58</a>
+#Flexural Performance of Fiber-Reinforced 3D Printed Concrete Beams with Axial Rebar ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70145-0_58" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70145-0_58" target="_blank">10.1007/978-3-031-70145-0_58</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ogura_hiroki"><b>Ogura</b>&nbsp;Hiroki</a></span>, <a href="../../../author/hara_koichiro"><b>Hara</b>&nbsp;Koichiro</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9154-7056" title="ORCID: 0009-0005-9154-7056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yamamoto_shinya"><b>Yamamoto</b>&nbsp;Shinya</a></span>, <a href="../../../author/abe_hiroyuki"><b>Abe</b>&nbsp;Hiroyuki</a></span><br>
+Contribution - Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete, pp. 475-483
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a> <a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hara_koichiro"><b>Hara</b> Koichiro</a>
-,     <a href="../../../author/yamamoto_shinya"><b>Yamamoto</b> Shinya</a> <a href="https://orcid.org/0009-0005-9154-7056" title="ORCID: 0009-0005-9154-7056" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abe_hiroyuki"><b>Abe</b> Hiroyuki</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete, pp. 475-483
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rebar`](keyword/rebar)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Performance%20of%20Fiber-Reinforced%203D%20Printed%20Concrete%20Beams%20with%20Axial%20Rebar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205131157&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,22 +39,49 @@ tags:
 <a href="https://inciteful.xyz/p/W4402452965" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70145-0_58" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70145-0_58?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Using a material extrusion 3D printing technology, we fabricate beams with axial rebar and subject them to four-point flexural tests. Beams were fabricated using fiber-reinforced cementitious composite by both 3D printing and formwork casting methods, and their structural performance were compared. The printed specimens demonstrate load bearing and deformation capabilities equal to or greater than those of cast specimens, with maximum loads exceeding values calculated by existing design formulas. The printed specimens also show good crack dispersion and confirm that the proposed manufacturing method adequately ensures bond characteristic between rebar and printed element.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/yamamoto_shinya"><b>Yamamoto</b> Shinya</a>, <a href="../../../author/abe_hiroyuki"><b>Abe</b> Hiroyuki</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ogur_yama_abe.2023.MPoFRCCMU3PT/">Mechanical Properties of Fiber-Reinforced Cementitious Composites Manufactured Using 3D Printing Technology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kunieda_minoru"><b>Kunieda</b> Minoru</a>, <a href="../../../author/to_shunya"><b>To</b> Shunya</a>, <a href="../../../author/kato_tatsuyoshi"><b>Kato</b> Tatsuyoshi</a>, <a href="../../../author/miyajima_akira"><b>Miyajima</b> Akira</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../kuni_to_kato_miya.2025.FBoRBbMo3CP/">Failure Behavior of RC Beams by Means of 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ogur_hara_yama_abe.2024.FPoFR3PCBwAR,
+      author            = "Hiroki Ogura and Koichiro Hara and Shinya Yamamoto and Hiroyuki Abe",
+      title             = "Flexural Performance of Fiber-Reinforced 3D Printed Concrete Beams with Axial Rebar",
+      doi               = "10.1007/978-3-031-70145-0_58",
+      year              = "2024",
+      volume            = "54",
+      pages             = "475--483",
+      booktitle         = "Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete: Transforming Construction: Advances in Fiber Reinforced Concrete",
+      editor            = "Viktor Mechtcherine and Cesare Signorini and Dominik Junger",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Ogura, K. Hara, S. Yamamoto and H. Abe, “Flexural Performance of Fiber-Reinforced 3D Printed Concrete Beams with Axial Rebar”, in <i>Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete: Transforming Construction: Advances in Fiber Reinforced Concrete</i>,  2024, vol. 54, pp. 475–483. doi: 10.1007/978-3-031-70145-0_58.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ogura, Hiroki, Koichiro Hara, Shinya Yamamoto, and Hiroyuki Abe. “Flexural Performance of Fiber-Reinforced 3D Printed Concrete Beams with Axial Rebar”. In <i>Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete: Transforming Construction: Advances in Fiber Reinforced Concrete</i>, edited by Viktor Mechtcherine, Cesare Signorini, and Dominik Junger, 54:475–83, 2024. https://doi.org/10.1007/978-3-031-70145-0_58.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

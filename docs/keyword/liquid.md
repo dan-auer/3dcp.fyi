@@ -8,7 +8,7 @@ search:
 
 # #liquid
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gautam_kushagra"><b>Gautam</b> Kushagra</a>, <a href="../../../author/solav_dana"><b>Solav</b> Dana</a>, <a href="../../../author/barath_shany"><b>Barath</b> Shany</a>, <a href="../../../author/austern_guy"><b>Austern</b> Guy</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../gaut_sola_bara_aust.2025.UDICtADiWBLDM/">Using Digital Image Correlation to Analyze Deformation in Wood-Based Liquid Deposition Modelling</a></li>
   <li><a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a>, <a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/gadt_torben"><b>Gädt</b> Torben</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../remk_kand_sant_gadt.2024.AHBCfaSLtSTi3PoS/">A Hybrid Binder Concept for a Swift Liquid-to-Solid Transition in 3D Printing of Suspensions</a></li>
   <li><a href="../../../author/lo_tzu-hsien"><b>Lo</b> Tzu-Hsien</a>, <a href="../../../author/liu_bosheng"><b>Liu</b> Bosheng</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../lo_liu.2024.OoILPwDBMfCF/">Overview of Injection Liquid Printing with Dredged-Based Material for Concrete Formwork</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anna Szabó, Lex Reiter, Ena Lloret-Fritschi, Fabio Gramazio, Matthias Kohler, Robert Flatt
+    - footer
+title: Szabó Anna, Reiter Lex, Lloret-Fritschi Ena, Gramazio Fabio, Kohler Matthias, Flatt Robert
 description:
 tags:
  - architecture
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.research-collection.ethz.ch/bitstream/20.500.11850/406772/4/190910_ProcessingOfSetOnDemandSolutions_AnnaSzabo.pdf) Processing of Set-on-Demand Solutions for Digital Fabrication in Architecture ([2019-09](date/2019/09))
-<a href="https://doi.org/10.1007/978-3-030-22566-7_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-22566-7_51</a>
+#Processing of Set-on-Demand Solutions for Digital Fabrication in Architecture ([2019-09](date/2019/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/406772/4/190910_ProcessingOfSetOnDemandSolutions_AnnaSzabo.pdf) <a href="https://doi.org/10.1007/978-3-030-22566-7_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_51" target="_blank">10.1007/978-3-030-22566-7_51</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8665-3779" title="ORCID: 0000-0002-8665-3779" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/szabo_anna"><b>Szabó</b>&nbsp;Anna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 440-447
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a> <a href="https://orcid.org/0000-0002-8665-3779" title="ORCID: 0000-0002-8665-3779" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 440-447
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#demand`](keyword/demand)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#process`](keyword/process)
-    [`#setting`](keyword/setting)
-    [`#solution`](keyword/solution)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Processing%20of%20Set-on-Demand%20Solutions%20for%20Digital%20Fabrication%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071510294&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2969944143" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-22566-7_51" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-22566-7_51?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication with concrete holds potential to rationalize the production of large-scale mass-customized shapes in architecture. However, these digital technologies have manifold requirements for concrete compared to ordinary casting due to the relatively long production time combined with the need for fast strength build-up after placing. Thus, first, a large retarded batch of concrete is prepared to provide extended open time for fabrication. Then, the retarded concrete is accelerated on demand in small increments over the course of the experiment. This paper discusses suitable set on demand compositions to increase the buildability of three specific processes, Smart Dynamic Casting (SDC), Digital Casting (DC) and layered extrusion as they have similar requirements for concrete during fabrication. SDC and DC need low yield stress upon acceleration for casting and all three of them require consistent, rapid strength evolution for building. Two significantly different material compositions, a SCM and an UHPFRC are studied using two formulated accelerators. The overall hydration and strength build-up kinetics are investigated with calorimetry, slow penetration and uniaxial compression measurements. It was found that the rate of yield stress evolution can be customized with both mortars by using different dosages of accelerator and that the onset of strength build-up depends on the type of mortar formulation. The proposed acceleration method is a promising approach to increase the fabrication speed and the possible building height for a given mix design in applications like SDC, DC or layered extrusion.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../szab_reit_llor_gram.2019.ASDCtTFG/">Adapting Smart Dynamic Casting to Thin-Folded Geometries</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../wang.2018.DCP/">Digital Concrete Processing:<br/>A Review</a></li>
@@ -74,8 +51,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tao_lesa_titt_yuan.2023.TPPSfSCo3PC/">Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete:<br/>From Transportation to Fabrication</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/melesse_bizu_birru"><b>Melesse</b> Birru</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../rehm_mele_kim.2023.SoD3CPCaPOoSAoIHP/">Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/choma_joseph"><b>Choma</b> Joseph</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../llor_chom_scot_szab.2022.IC/">In-Crease:<br/>Less Concrete More Paper</a></li>
@@ -90,4 +67,35 @@ tags:
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../szab_reit_llor_gram.2020.MYSEaFFfSDC/">Mastering Yield-Stress-Evolution and Formwork-Friction for Smart Dynamic Casting</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../szab_llor_reit_gram.2019.RFFwDF/">Revisiting Folded Forms with Digital Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{szab_reit_llor_gram.2019.PoSoDSfDFiA,
+      author            = "Anna Szabó and Lex Reiter and Ena Lloret-Fritschi and Fabio Gramazio and Matthias Daniel Kohler and Robert Johann Flatt",
+      title             = "Processing of Set-on-Demand Solutions for Digital Fabrication in Architecture",
+      doi               = "10.1007/978-3-030-22566-7_51",
+      year              = "2019",
+      volume            = "23",
+      pages             = "440--447",
+      booktitle         = "Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete",
+      editor            = "Viktor Mechtcherine and Kamal H. Khayat and Egor Secrieru",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Szabó, L. Reiter, E. Lloret-Fritschi, F. Gramazio, M. D. Kohler and R. J. Flatt, “Processing of Set-on-Demand Solutions for Digital Fabrication in Architecture”, in <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>,  2019, vol. 23, pp. 440–447. doi: 10.1007/978-3-030-22566-7_51.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Szabó, Anna, Lex Reiter, Ena Lloret-Fritschi, Fabio Gramazio, Matthias Daniel Kohler, and Robert Johann Flatt. “Processing of Set-on-Demand Solutions for Digital Fabrication in Architecture”. In <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>, edited by Viktor Mechtcherine, Kamal H. Khayat, and Egor Secrieru, 23:440–47, 2019. https://doi.org/10.1007/978-3-030-22566-7_51.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

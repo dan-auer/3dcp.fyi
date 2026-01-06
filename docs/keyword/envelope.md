@@ -8,7 +8,7 @@ search:
 
 # #envelope
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>, <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA/">Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino</a></li>
   <li><a href="../../../author/bianco_nicola"><b>Bianco</b> Nicola</a>, <a href="../../../author/fragnito_andrea"><b>Fragnito</b> Andrea</a>, <a href="../../../author/iasiello_marcello"><b>Iasiello</b> Marcello</a>, <a href="../../../author/mauro_maria_gerardo"><b>Mauro</b> Gerardo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bian_frag_iasi_maur.2025.NAoa3PCEIPN/">Numerical Analysis of a 3D Printed Concrete Envelope Incorporating PCM Nanoparticles</a></li>
   <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/alsuwaidi_abdulla"><b>Alsuwaidi</b> Abdulla</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/binshaqooi_essa"><b>Binshaqooi</b> Essa</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mans_alsu_bina_bins.2025.CHTaUVAo3CPEwVTACiHAC/">Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates</a></li>

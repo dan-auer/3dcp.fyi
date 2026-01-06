@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Salaimanimagudam M. 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.SPoTOaLSiC3PB/">Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams</a></li>
   <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.EoNSODPIaIoGFMRi3PC/">Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete</a></li>
   <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a>, <a href="../../../author/anwar_parvez_mohammed"><b>Anwar</b> Mohammed</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sala_jaya_anwa.2025.SoRIMf3PCUM/">Selection of Reinforcement Incorporation Method for 3D Printed Concrete Using MCDM</a></li>

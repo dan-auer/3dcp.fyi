@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harald Kloft, Norman Hack, Jeldrik Mainka, Leon Brohmann, Eric Herrmann, Lukas Ledderose, Dirk Lowke
+    - footer
+title: Kloft Harald, Hack Norman, Mainka Jeldrik, Brohmann Leon, Herrmann Eric, Ledderose Lukas, Lowke Dirk
 description:
 tags:
  - additive
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing in Construction:<br/>:aca-blank: First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1002/bate.201900094" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/bate.201900094</a>
+#Additive Manufacturing in Construction&nbsp;([2019-11](date/2019/11))
+<div class="h1-like">First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/bate.201900094" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.201900094" target="_blank">10.1002/bate.201900094</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8941-5661" title="ORCID: 0000-0002-8941-5661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mainka_jeldrik"><b>Mainka</b>&nbsp;Jeldrik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7448-8630" title="ORCID: 0000-0002-7448-8630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brohmann_leon"><b>Brohmann</b>&nbsp;Leon</a></span>, <a href="../../../author/herrmann_eric"><b>Herrmann</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3243-0251" title="ORCID: 0000-0003-3243-0251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ledderose_lukas"><b>Ledderose</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Journal Article - Bautechnik, Vol. 96, Iss. 12, pp. 929-938
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a> <a href="https://orcid.org/0000-0002-8941-5661" title="ORCID: 0000-0002-8941-5661" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> <a href="https://orcid.org/0000-0002-7448-8630" title="ORCID: 0000-0002-7448-8630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>
-,     <a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a> <a href="https://orcid.org/0000-0003-3243-0251" title="ORCID: 0000-0003-3243-0251" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Bautechnik, Vol. 96, Iss. 12, pp. 929-938
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#first`](keyword/first)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85076994425&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2989817001" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/bate.201900094" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/bate.201900094?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (additive manufacturing) is a digitally controlled manufacturing technology that has the potential to be developed specifically for the construction industry and become a key technology for the digitalization of the construction industry. In additive manufacturing, components are built up solely through digitally controlled, layer-by-layer material application, without mold construction or forming processes. This represents a paradigm shift from the still predominantly manual, shaping construction processes. In order to fully exploit the potential of this technology, structural design, material behavior and manufacturing process must be coordinated with each other in an integrative manner. This enables buildings with a high degree of design freedom and a resource-efficient use of materials. The Institute of Structural Design (ITE) and the Institute of Building Materials, Concrete Structures and Fire Protection (iBMB) at TU Braunschweig have been researching processes for the 3D printing of large-format concrete components for several years. The so-called shotcrete 3D printing process (SC3DP) was developed in an interdisciplinary joint project. SC3DP technology is an automated, robotic, additive manufacturing process that builds up concrete components layer by layer with the controlled addition of compressed air. This report presents the first 3D-printed and reinforced concrete components that demonstrate the potential of SC3DP technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
@@ -83,8 +57,9 @@ tags:
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../pier_wege_perr_lowk.2018.PoCPiSPD3P/">Penetration of Cement-Pastes into Sand-Packings During 3D Printing:<br/>Analytical and Experimental Study</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "42 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
@@ -126,6 +101,36 @@ tags:
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/kortmann_jan"><b>Kortmann</b> Jan</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../otto_kort_krau.2020.CCoC3P/">Cost Calculation of Concrete 3D Printing</a></li>
-      <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vasi.2019.AMiCC/">Additive Manufacturing in Concrete Construction:<br/>Current Status</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{klof_hack_main_broh.2019.AMiC,
+      author            = "Harald Kloft and Norman Peter Hack and Jeldrik Mainka and Leon Brohmann and Eric Herrmann and Lukas Ledderose and Dirk Lowke",
+      title             = "Additive Manufacturing in Construction: First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology",
+      doi               = "10.1002/bate.201900094",
+      year              = "2019",
+      journal           = "Bautechnik",
+      volume            = "96",
+      number            = "12",
+      pages             = "929--938",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kloft, “Additive Manufacturing in Construction: First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology”, <i>Bautechnik</i>, vol. 96, no. 12, pp. 929–938, 2019, doi: 10.1002/bate.201900094.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kloft, Harald, Norman Peter Hack, Jeldrik Mainka, Leon Brohmann, Eric Herrmann, Lukas Ledderose, and Dirk Lowke. “Additive Manufacturing in Construction: First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology”. <i>Bautechnik</i> 96, no. 12 (2019): 929–38. https://doi.org/10.1002/bate.201900094.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

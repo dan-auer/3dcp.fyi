@@ -8,7 +8,7 @@ search:
 
 # #theory
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
   <li><a href="../../../author/zhang_junyi"><b>Zhang</b> Junyi</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_zhan_zhan_li.2025.DPCCwPBUaEWFTT/">Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a>, <a href="../../../author/dounas_theodoros"><b>Dounas</b> Theodoros</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marc_lomb_doun_agka.2025.ATFftSaIo3CPTDS/">A Theoretical Framework for the Standardisation and Industrialisation of 3D Concrete Printing Through Decentralised Science</a></li>

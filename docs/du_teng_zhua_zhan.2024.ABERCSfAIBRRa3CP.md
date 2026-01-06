@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Song Du, Fei Teng, Zicheng Zhuang, Dong Zhang, Mingyang Li, Heng Li, Yiwei Weng
+    - footer
+title: Du Song, Teng Fei, Zhuang Zicheng, Zhang Dong, Li Mingyang, Li Heng, Weng Yiwei
 description:
 tags:
  - automation
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2332423?needAccess=true) A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1080/17452759.2024.2332423" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2332423</a>
+#A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2332423?needAccess=true) <a href="https://doi.org/10.1080/17452759.2024.2332423" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2332423" target="_blank">10.1080/17452759.2024.2332423</a>
 
--------------------------
+<a href="../../../author/du_song"><b>Du</b>&nbsp;Song</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_fei"><b>Teng</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7693-4289" title="ORCID: 0000-0001-7693-4289" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuang_zicheng"><b>Zhuang</b>&nbsp;Zicheng</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_heng"><b>Li</b>&nbsp;Heng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/du_song"><b>Du</b> Song</a>
-,     <a href="../../../author/teng_fei"><b>Teng</b> Fei</a> <a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a> <a href="https://orcid.org/0000-0001-7693-4289" title="ORCID: 0000-0001-7693-4289" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_heng"><b>Li</b> Heng</a> <a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#bim`](keyword/bim)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#enabler`](keyword/enabler)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-    [`#rebar`](keyword/rebar)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20BIM-Enabled%20Robot-Control%20System%20for%20Automated%20Integration%20Between%20Rebar-Reinforcement%20and%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188606568&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393200200" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2332423" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2332423?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) has attracted significant attention due to the benefits of enhanced productivity and sustainability. However, existing 3DCP techniques face challenges of automation and practicality in integrating conventional rebar reinforcement with printed concrete structures. This study presents an automated robot system coupled with Building Information Modeling (BIM) to address the challenge. Dynamo scripts in BIM were used to generate printing paths, further optimised by a proposed algorithm for incorporating rebar reinforcement. A deep learning model was adopted to identify rebars with large aspect ratios. The average accuracy of rebar recognition is 92.5%, with a position error within 2 mm. A centralised control system was developed for multiple-device communication, including a camera, a robot arm, and a gripper. Finally, a real-time demonstration was conducted, representing the first practical demonstration of an automated robotic system to integrate rebar reinforcement with printed structures using BIM-generated data in the physical world.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
@@ -100,8 +72,8 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
@@ -121,4 +93,34 @@ tags:
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_li_wang_wang.2024.APotSRRCCbtSCR3CPPF/">Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../teng_ye_yu_li.2024.DoSHCCSABMtEILaFPo3PC/">Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP,
+      author            = "Song Du and Fei Teng and Zicheng Zhuang and Dong Zhang and Mingyang Li and Heng Li and Yiwei Weng",
+      title             = "A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing",
+      doi               = "10.1080/17452759.2024.2332423",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Du, “A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2332423.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Du, Song, Fei Teng, Zicheng Zhuang, Dong Zhang, Mingyang Li, Heng Li, and Yiwei Weng. “A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2332423.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huzi Ye, Qianpeng He, Pengxin Ping, Jinlong Pan, Binrong Zhu
+    - footer
+title: Ye Huzi, He Qianpeng, Ping Pengxin, Pan Jinlong, Zhu Binrong
 description:
 tags:
  - absorbent
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106183" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106183</a>
+#Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106183" target="_blank">10.1016/j.cemconcomp.2025.106183</a>
 
--------------------------
+<a href="../../../author/ye_huzi"><b>Ye</b>&nbsp;Huzi</a></span>, <a href="../../../author/he_qianpeng"><b>He</b>&nbsp;Qianpeng</a></span>, <a href="../../../author/ping_pengxin"><b>Ping</b>&nbsp;Pengxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106183
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>
-,     <a href="../../../author/he_qianpeng"><b>He</b> Qianpeng</a>
-,     <a href="../../../author/ping_pengxin"><b>Ping</b> Pengxin</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106183
-
-:aca-blank:{ .lg .middle}
-    [`#absorbent`](keyword/absorbent)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#ecc`](keyword/ecc)
-    [`#energy`](keyword/energy)
-    [`#engineered`](keyword/engineered)
-    [`#flexural`](keyword/flexural)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#velocity`](keyword/velocity)
-
-
--------------------------
+<a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anisotropic%20Flexural%20Behavior%20and%20Energy%20Absorption%20of%203D%20Printed%20Engineered%20Cementitious%20Composites%20%283DP-ECC%29%20Beams%20Under%20Low-Velocity%20Impact" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008799469&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411301873" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106183" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106183?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study systematically investigates the mechanical behavior and energy absorption properties of anisotropic 3D-printed engineered cementitious composite (3DP-ECC) beams under low-velocity impact, with a focus on performance variations across different loading directions. A comprehensive experimental program, including quasi-static compression, tensile, three-point flexural, and low-velocity impact tests, was conducted to evaluate the mechanical response and failure mechanisms of 3DP-ECC in the U, V, and W loading directions. The results demonstrate that 3DP-ECC exhibits significant anisotropy compared to Cast-ECC. Specifically, the W-direction exhibited a 33.4% increase in flexural strength, along with enhanced energy absorption capacity, improved toughness, and reduced strain-rate sensitivity. Additionally, a novel methodology for calculating inertial forces and a predictive model for energy absorption were developed, categorizing impact energy into components associated with matrix fracture, fiber-matrix interactions, and inertial effects. The findings indicate that 3DP-ECC in the W-direction offers optimal impact resistance, while the U-direction exhibits the highest inertial force and acceleration, which may pose risks to structural integrity. This research offers valuable insights into the optimization and application of 3DP-ECC in impact-resistant infrastructure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -100,9 +72,38 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ye_he_ping_pan.2025.AFBaEAo3PECC3EBULVI,
+      author            = "Huzi Ye and Qianpeng He and Pengxin Ping and Jinlong Pan and Binrong Zhu",
+      title             = "Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact",
+      doi               = "10.1016/j.cemconcomp.2025.106183",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106183",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Ye, Q. He, P. Ping, J. Pan and B. Zhu, “Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact”, <i>Cement and Concrete Composites</i>, p. 106183, 2025, doi: 10.1016/j.cemconcomp.2025.106183.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ye, Huzi, Qianpeng He, Pengxin Ping, Jinlong Pan, and Binrong Zhu. “Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact”. <i>Cement and Concrete Composites</i>, 2025, 106183. https://doi.org/10.1016/j.cemconcomp.2025.106183.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

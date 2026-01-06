@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Zhang, Qiang Ren, Xiaodi Dai, Yaxin Tao, Yiyuan Zhang, Zhengwu Jiang, Kim Tittelboom, Geert Schutter
+    - footer
+title: Zhang Yi, Ren Qiang, Dai Xiaodi, Tao Yaxin, Zhang Yiyuan, Jiang Zhengwu, Tittelboom Kim, Schutter Geert
 description:
 tags:
  - activation
@@ -21,41 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials:<br/>:aca-blank: Coupling of Temperature and Viscosity-Modifiers ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105496" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105496</a>
+#A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">Coupling of Temperature and Viscosity-Modifiers</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105496" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105496" target="_blank">10.1016/j.cemconcomp.2024.105496</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_qiang"><b>Ren</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_xiaodi"><b>Dai</b>&nbsp;Xiaodi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6388-2413" title="ORCID: 0000-0002-6388-2413" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yiyuan"><b>Zhang</b>&nbsp;Yiyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_zhengwu"><b>Jiang</b>&nbsp;Zhengwu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105496
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> <a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yiyuan"><b>Zhang</b> Yiyuan</a> <a href="https://orcid.org/0000-0002-6388-2413" title="ORCID: 0000-0002-6388-2413" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a> <a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105496
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#couple`](keyword/couple)
-    [`#material`](keyword/material)
-    [`#modification`](keyword/modification)
-    [`#potential`](keyword/potential)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#temperature`](keyword/temperature)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/couple"><button class="btn">#couple</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Potential%20Active%20Rheology-Control%20Approach%20for%203D%20Printable%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187780296&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392453361" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105496" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105496?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, the active rheology control for 3D printable cement-based materials (3DPCM) has gained increasing attention due to the challenging rheological requirements during printing. Inspired by the influences of polymers on the temperature sensitivity of rheological properties, here we propose a concept of active rheology control for 3DPCM coupling temperature control with the utilization of viscosity modifiers. Firstly, the rheological properties associated with 3D printing in response to a temperature range from 5 °C to 45 °C were investigated through flow curve, stress growth and small-amplitude oscillatory shear tests. Subsequently, total organic carbon and isothermal calorimetry tests were performed to further analyze the mechanism. Finally, validation 3D printing tests were conducted. Results indicate that increasing temperature improves the efficacy of hydroxypropyl methylcellulose and polycarboxylate ether-based superplasticizer through accelerated dissolution and adsorption, and enhanced chain stretching, thus allowing for an intensified or a suppressed response to temperature in the apparent viscosity, thixotropic area, static yield stress and storage modulus of 3DPCM. Increasing temperature also compensates for the delay in cement hydration due to the addition of polymers. Printing experiments provide preliminary evidence of the feasibility of active rheology control for 3DPCM through coupling between temperature and viscosity modifiers to improve the printability. The thickness ratio and width ratio of top layers to bottom layers of 3DPCM with HPMC were 1.46 and 0.84 when printed at 25 °C, which are 14.1% lower and 58.3% higher compared to that printed at 15 °C.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chen_lian_zhan_li.2023.CSPBUaRMfCMitCo3CP/">Can Superabsorbent Polymers Be Used as Rheology-Modifiers for Cementitious Materials in the Context of 3D Concrete Printing</a></li>
       <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b> Lisbeth</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../chri_perr_otto_koss.2024.RCoTSBB3PC/">Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete</a></li>
@@ -109,8 +79,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../si_khan_mcna.2025.ACRoRDaPPi3CP/">A Comprehensive Review of Rheological Dynamics and Process Parameters in 3D Concrete Printing</a></li>
@@ -120,4 +90,33 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yiyuan"><b>Zhang</b> Yiyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_titt_tao_zhan.2024.UCi3PCBMwEBS/">Understanding Carbonation in 3D Printed Cement-Based Materials with Exposed Bottom Surface</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b> Matineh</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wang_tao_das_mahm.2024.A2SiDC/">Aluminate 2K Systems in Digital Concrete:<br/>Process, Design, Chemistry, and Outlook</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_ren_dai_tao.2024.APARCAf3PCBM,
+      author            = "Yi Zhang and Qiang Ren and Xiaodi Dai and Yaxin Tao and Yiyuan Zhang and Zhengwu Jiang and Kim van Tittelboom and Geert de Schutter",
+      title             = "A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials: Coupling of Temperature and Viscosity-Modifiers",
+      doi               = "10.1016/j.cemconcomp.2024.105496",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105496",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, “A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials: Coupling of Temperature and Viscosity-Modifiers”, <i>Cement and Concrete Composites</i>, p. 105496, 2024, doi: 10.1016/j.cemconcomp.2024.105496.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yi, Qiang Ren, Xiaodi Dai, Yaxin Tao, Yiyuan Zhang, Zhengwu Jiang, Kim van Tittelboom, and Geert de Schutter. “A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials: Coupling of Temperature and Viscosity-Modifiers”. <i>Cement and Concrete Composites</i>, 2024, 105496. https://doi.org/10.1016/j.cemconcomp.2024.105496.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

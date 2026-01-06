@@ -8,7 +8,7 @@ search:
 
 # #girder
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../pfle_sam_radl_vill.2024.DDDPaPoSOCGwITU3P/">Data-Driven Design-Process and Production of Stress-Optimized Concrete Girders with Integrated Tendons Using 3D Printing</a></li>
   <li><a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b> Stefan</a>, <a href="../../../author/vidovic_milica"><b>Vidović</b> Milica</a>, <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a>, <a href="../../../author/dragas_jelena"><b>Dragaš</b> Jelena</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mitr_vido_ignj_drag.2024.ETo3PCTG/">Experimental Testing of 3D Printed Concrete Truss-Girder</a></li>
   <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/esebali_osman"><b>Esebali</b> Osman</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../pfle_radl_eseb_vill.2024.LBBo3PPSSCG/">Load Bearing Behavior of 3D Printed Pre-Stressed Segmental Concrete Girders</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiyan Li, Anshuang Su, Xiaojian Gao
+    - footer
+title: Li Qiyan, Su Anshuang, Gao Xiaojian
 description:
 tags:
  - base
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmrt.2025.06.180) Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.jmrt.2025.06.180" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2025.06.180</a>
+#Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2025.06.180) <a href="https://doi.org/10.1016/j.jmrt.2025.06.180" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.06.180" target="_blank">10.1016/j.jmrt.2025.06.180</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9684-5248" title="ORCID: 0000-0002-9684-5248" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_qiyan"><b>Li</b>&nbsp;Qiyan</a></span>, <a href="../../../author/su_anshuang"><b>Su</b>&nbsp;Anshuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3138-5751" title="ORCID: 0000-0003-3138-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_xiaojian"><b>Gao</b>&nbsp;Xiaojian</a></span><br>
+Journal Article - Journal of Materials Research and Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a> <a href="https://orcid.org/0000-0002-9684-5248" title="ORCID: 0000-0002-9684-5248" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/su_anshuang"><b>Su</b> Anshuang</a>
-,     <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="https://orcid.org/0000-0003-3138-5751" title="ORCID: 0000-0003-3138-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#cure`](keyword/cure)
-    [`#improvement`](keyword/improvement)
-    [`#interlayer`](keyword/interlayer)
-    [`#magnesium`](keyword/magnesium)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improvement%20of%20Interlayer%20Performance%20of%203D%20Printable%20Magnesium%20Oxysulfate%20Cement-Based%20Materials%20by%20Carbonation%20Curing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411665936" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2025.06.180" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2025.06.180?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the influence of fly ash (FA) incorporation and carbonation curing treatment on the interlayer bonding strength and permeability performance of 3D-printed magnesium oxysulfate cement-based (3DP-MOS) mortars. The interlayer bonding strength, permeability performance, pore structure, phase composition, microhardness, and elastic modulus of typical 3DP-MOS samples were systematically evaluated. The results show that carbonation curing significantly enhances the interlayer bond strength and alleviates the strength deterioration resulting from incorporating FA in 3D-printed samples. It also reduced interlayer permeability, particularly at interfaces prone to deterioration. Carbonation curing promotes the generation of magnesium carbonate hydrate crystals that interlace with phase 5Mg(OH)2·MgSO4·7H2O crystals, creating a network-like structure that refines the pore size distribution and reduces capillary and macropores. Additionally, carbonation curing increases interlayer microhardness by approximately 10%, with greater improvements of 17.6% to 27.4% observed at distances up to 1000 μm from the interlayer. The elastic modulus at 50 μm from the primary interlayer crack also increases from 23.5 GPa to 33.9 GPa, highlighting its role in optimizing the interlayer interface and micromechanical properties of 3DP-MOS mortars. Consequently, carbonation curing significantly alleviates the interlayer performance deterioration induced by 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
       <li><a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>, <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>, <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../cui_wu_chen_luo.2021.PoMOCaa3PM/">Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material</a></li>
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../dai_tao_titt_schu.2023.RaMPo3PAASMwAoNC/">Rheological and Mechanical Properties of 3D Printable Alkali-Activated Slag Mixtures with Addition of Nano Clay</a></li>
@@ -98,7 +75,35 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_su_gao.2025.IoIPo3PMOCBMbCC,
+      author            = "Qiyan Li and Anshuang Su and Xiaojian Gao",
+      title             = "Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing",
+      doi               = "10.1016/j.jmrt.2025.06.180",
+      year              = "2025",
+      journal           = "Journal of Materials Research and Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Li, A. Su and X. Gao, “Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing”, <i>Journal of Materials Research and Technology</i>, 2025, doi: 10.1016/j.jmrt.2025.06.180.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Qiyan, Anshuang Su, and Xiaojian Gao. “Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing”. <i>Journal of Materials Research and Technology</i>, 2025. https://doi.org/10.1016/j.jmrt.2025.06.180.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

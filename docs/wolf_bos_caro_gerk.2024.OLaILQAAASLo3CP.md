@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robert Wolfs, Derk Bos, Jean-François Caron, Markus Gerke, Romain Mesnil, Richard Buswell, Nicolas Ducoulombier, Norman Hack, Emmanuel Keita, Peter Kinnell, Karam Mawas, Viktor Mechtcherine, Luiza Miranda, Dmitrii Sokolov, Jelle Versteege, Nicolas Roussel
+    - footer
+title: Wolfs Robert, Bos Derk, Caron Jean-François, Gerke Markus, Mesnil Romain, Buswell Richard, Ducoulombier Nicolas, Hack Norman, Keita Emmanuel, Kinnell Peter, Mawas Karam, Mechtcherine Viktor, Miranda Luiza, Sokolov Dmitrii, Versteege Jelle, Roussel Nicolas
 description:
 tags:
  - assessment
@@ -15,43 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2024.107646) On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107646" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107646</a>
+#On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2024.107646) <a href="https://doi.org/10.1016/j.cemconres.2024.107646" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107646" target="_blank">10.1016/j.cemconres.2024.107646</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1668-2638" title="ORCID: 0000-0002-1668-2638" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_h_derk"><b>Bos</b>&nbsp;Derk</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gerke_markus"><b>Gerke</b>&nbsp;Markus</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keita_emmanuel"><b>Keita</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/kinnell_peter"><b>Kinnell</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mawas_karam"><b>Mawas</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8481-5255" title="ORCID: 0000-0001-8481-5255" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miranda_r-m_luiza"><b>de&nbsp;Miranda</b>&nbsp;Luiza</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-2811-9625" title="ORCID: 0009-0004-2811-9625" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sokolov_dmitrii"><b>Sokolov</b>&nbsp;Dmitrii</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-0499-7986" title="ORCID: 0009-0007-0499-7986" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/versteege_jelle"><b>Versteege</b>&nbsp;Jelle</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 185, No. 107646
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> <a href="https://orcid.org/0000-0002-1668-2638" title="ORCID: 0000-0002-1668-2638" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>
-,     <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> <a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/miranda_r-m_luiza"><b>de Miranda</b> Luiza</a> <a href="https://orcid.org/0000-0001-8481-5255" title="ORCID: 0000-0001-8481-5255" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sokolov_dmitrii"><b>Sokolov</b> Dmitrii</a> <a href="https://orcid.org/0009-0004-2811-9625" title="ORCID: 0009-0004-2811-9625" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> <a href="https://orcid.org/0009-0007-0499-7986" title="ORCID: 0009-0007-0499-7986" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 185, No. 107646
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#level`](keyword/level)
-    [`#line`](keyword/line)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/level"><button class="btn">#level</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=On-Line%20and%20In-Line%20Quality-Assessment%20Across%20All%20Scale%20Levels%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202349559&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401898282" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107646" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107646?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete printing requires much more elaborate quality control procedures compared to conventional concrete processing. Due to the various process steps, and the corresponding variation in material behaviour, time-, and length-scales, a single quality indicator and measurement technique (similar to the ‘slump test’ for traditional construction) cannot be selected. Instead, three families of quality indicators have been established: homogeneity during material production and deposition (quality variations), material evolution during printing (transient material behaviour), and macroscopic features and geometric conformity during printing and of the final object (geometry). For each family, quality assessment techniques which have been proven in other fields or for different applications, have been successfully transferred and adapted to the 3DCP process. In some cases, completely new methods have been developed. This paper aims to provide the state-of-the-art in such quality assessment methods, indicating high potential methods and research gaps across all scale levels of 3D concrete printing processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "63 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
@@ -114,7 +81,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
-      <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../nair_sant_neit.2022.MMBPCATfGAo3PCE/">Mathematical Morphology-Based Point-Cloud-Analysis-Techniques for Geometry-Assessment of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
@@ -131,8 +97,6 @@ tags:
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../szab_reit_llor_wang.2020.A/">ACDC:<br/>The Admixture-Controlled Digital Casting and Its Application to Thin-Folded Concrete Structures</a></li>
-      <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a></li>
-      <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vers_wolf_sale.2025.DDAMwCEILSDwDK/">Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge:<br/>Part I: Geometry</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
@@ -144,11 +108,12 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>
@@ -167,4 +132,34 @@ tags:
       <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wolf.2024.TSQo3CP/">The Status Quo of 3D Concrete Printing:<br/>Are We There Yet?</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP,
+      author            = "Robert Johannes Maria Wolfs and Derk H. Bos and Jean-François Caron and Markus Gerke and Romain Mesnil and Richard A. Buswell and Nicolas Ducoulombier and Norman Peter Hack and Emmanuel Keita and Peter Kinnell and Karam Mawas and Viktor Mechtcherine and Luiza R. M. de Miranda and Dmitrii Sokolov and Jelle Versteege and Nicolas Roussel",
+      title             = "On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing",
+      doi               = "10.1016/j.cemconres.2024.107646",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "185",
+      pages             = "107646",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. J. M. Wolfs, “On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing”, <i>Cement and Concrete Research</i>, vol. 185, p. 107646, 2024, doi: 10.1016/j.cemconres.2024.107646.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wolfs, Robert Johannes Maria, Derk H. Bos, Jean-François Caron, Markus Gerke, Romain Mesnil, Richard A. Buswell, Nicolas Ducoulombier, et al.. “On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing”. <i>Cement and Concrete Research</i> 185 (2024): 107646. https://doi.org/10.1016/j.cemconres.2024.107646.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

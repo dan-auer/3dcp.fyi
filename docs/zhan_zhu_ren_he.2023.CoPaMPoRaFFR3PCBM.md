@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Zhang, Yanmei Zhu, Qiang Ren, Bei He, Zhengwu Jiang, Kim Tittelboom, Geert Schutter
+    - footer
+title: Zhang Yi, Zhu Yanmei, Ren Qiang, He Bei, Jiang Zhengwu, Tittelboom Kim, Schutter Geert
 description:
 tags:
  - base
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132750" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132750</a>
+#Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132750" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132750" target="_blank">10.1016/j.conbuildmat.2023.132750</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <a href="../../../author/zhu_yanmei"><b>Zhu</b>&nbsp;Yanmei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_qiang"><b>Ren</b>&nbsp;Qiang</a></span>, <a href="../../../author/he_bei"><b>He</b>&nbsp;Bei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_zhengwu"><b>Jiang</b>&nbsp;Zhengwu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 400
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>
-,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_bei"><b>He</b> Bei</a>
-,     <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a> <a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 400, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#comparison`](keyword/comparison)
-    [`#fiber`](keyword/fiber)
-    [`#flexibility`](keyword/flexibility)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rigid`](keyword/rigid)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexibility"><button class="btn">#flexibility</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rigid"><button class="btn">#rigid</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Printability%20and%20Mechanical%20Properties%20of%20Rigid%20and%20Flexible%20Fiber-Reinforced%203D%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169894825&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385604739" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132750" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132750?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Since eco-friendly, labor-saving construction technologies are urgently needed than ever, concrete 3D printing technology has gained increasing attention. However, there are still limited studies focusing on reinforcement techniques for 3D printed cement-based materials (3DPCM) which restrict their applications. Herein, we revealed the differences between the influence of typical rigid and flexible fibers on the printability and mechanical properties of 3DPCM. Printability, including buildability and extrudability, was evaluated via fluidity and shape stability tests and verified by printing experiments. The anisotropy ratio was proposed to assess the anisotropic mechanical properties. Furthermore, the fracture energy and bend-press ratio were adopted to assess the toughness. Results indicate that steel, polypropylene (PP) and polyvinyl alcohol (PVA) fibers all increase the buildability but decrease the extrudability of 3DPCM. Compared to steel fibers, PP and PVA fibers have a greater impact on the printability owing to their entanglement. The alignment and wall effect of steel fiber drastically increase the anisotropy in the compressive strength of 3DPCM. PP fibers also intensify the anisotropy in the compressive strength due to their filling effect. Low content of steel fibers and PP fibers both have limited impacts on the toughness and the anisotropy in flexural strength of 3DPCM. The fracture energy of 3DPCM for the loading direction perpendicular to the interface is higher than that for the direction parallel to the interface. Contrary to PP fibers, samples with steel fibers have higher bend-press ratios once the loading direction is parallel to the interface.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -105,12 +76,12 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD/">Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
@@ -146,4 +117,33 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zhan_ren_dai_tao.2024.APARCAf3PCBM/">A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials:<br/>Coupling of Temperature and Viscosity-Modifiers</a></li>
       <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../sedg_rash_hoja.2024.LS3WP/">Large-Scale 3D Wall Printing:<br/>From Concept to Reality</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM,
+      author            = "Yi Zhang and Yanmei Zhu and Qiang Ren and Bei He and Zhengwu Jiang and Kim van Tittelboom and Geert de Schutter",
+      title             = "Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials",
+      doi               = "10.1016/j.conbuildmat.2023.132750",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "400",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, “Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials”, <i>Construction and Building Materials</i>, vol. 400, 2023, doi: 10.1016/j.conbuildmat.2023.132750.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yi, Yanmei Zhu, Qiang Ren, Bei He, Zhengwu Jiang, Kim van Tittelboom, and Geert de Schutter. “Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials”. <i>Construction and Building Materials</i> 400 (2023). https://doi.org/10.1016/j.conbuildmat.2023.132750.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dianchao Wang, Jianzhuang Xiao, Bochao Sun, Shipeng Zhang, Chi Poon
+    - footer
+title: Wang Dianchao, Xiao Jianzhuang, Sun Bochao, Zhang Shipeng, Poon Chi
 description:
 tags:
  - co2
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of 3D Printed Mortar Cured by CO2 ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105009" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105009</a>
+#Mechanical Properties of 3D Printed Mortar Cured by CO2 ([2023-02](date/2023/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.105009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105009" target="_blank">10.1016/j.cemconcomp.2023.105009</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dianchao"><b>Wang</b>&nbsp;Dianchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_bochao"><b>Sun</b>&nbsp;Bochao</a></span>, <a href="../../../author/zhang_shipeng"><b>Zhang</b>&nbsp;Shipeng</a></span>, <a href="../../../author/poon_sun_chi"><b>Poon</b>&nbsp;Chi</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a> <a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a> <a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>
-,     <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#co2`](keyword/co2)
-    [`#cure`](keyword/cure)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D%20Printed%20Mortar%20Cured%20by%20CO2" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149444688&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4322505731" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105009" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105009?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing technology has received significant attention in construction building areas, and CO2 curing has been proven to be an effective method to enhance the properties of cementitious materials and sequestrate CO2. In this study, the mechanical properties of 3D printed mortar (3DPM) which had been subjected to CO2 curing were investigated. The effects of curing time and the interlayer bonding types on the mechanical properties were discussed. The results show that appropriate CO2 curing improved the mechanical properties of hardened 3DPM, especially the early age property, and the enhancement showed significant anisotropy in different test directions. In addition, the carbonation depths of the interlayers were higher than that of printed strips. Increasing carbonation time reduced the differences between the interlayer and strips’ carbonation depths. Moreover, the carbonation extent of 3DPM was evaluated, and it was found that with an appropriate printing setting, the maximum carbonation ingression of 24% was attained in 24 h CO2 curing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
@@ -80,8 +59,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhon_huan_liu_wang.2025.DSfECCi3PSSM/">Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>Material Modification and Curing Process Innovation</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/he_yao"><b>He</b> Yao</a>, <a href="../../../author/yu_miao"><b>Yu</b> Miao</a>, <a href="../../../author/wang_changhao"><b>Wang</b> Changhao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xiao_he_yu_wang.2025.EoPCMotPoM/">Effects of Pressurized CO2 Mixing on the Properties of Mortar</a></li>
@@ -100,4 +79,32 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tay_lim_phua_tan.2023.ECSPT3CP/">Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing</a></li>
       <li><a href="../../../author/wang_hao"><b>Wang</b> Hao</a>, <a href="../../../author/jiang_minghui"><b>Jiang</b> Minghui</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/zhou_gangming"><b>Zhou</b> Gangming</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_jian_hang_zhou.2023.RotMPaFRoAS3PM/">Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_xiao_sun_zhan.2023.MPo3PMCbC,
+      author            = "Dianchao Wang and Jianzhuang Xiao and Bochao Sun and Shipeng Zhang and Chi Sun Poon",
+      title             = "Mechanical Properties of 3D Printed Mortar Cured by CO2",
+      doi               = "10.1016/j.cemconcomp.2023.105009",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Wang, J. Xiao, B. Sun, S. Zhang and C. S. Poon, “Mechanical Properties of 3D Printed Mortar Cured by CO2”, <i>Cement and Concrete Composites</i>, 2023, doi: 10.1016/j.cemconcomp.2023.105009.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Dianchao, Jianzhuang Xiao, Bochao Sun, Shipeng Zhang, and Chi Sun Poon. “Mechanical Properties of 3D Printed Mortar Cured by CO2”. <i>Cement and Concrete Composites</i>, 2023. https://doi.org/10.1016/j.cemconcomp.2023.105009.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

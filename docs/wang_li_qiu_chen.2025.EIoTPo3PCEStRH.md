@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jinjin Wang, Shouzhen Li, Jin Qiu, Cheng Chen, Tianwei Chu, Yiming Tian, Peijun Wang, Yiwei Weng, Asif Usmani, Liming Jiang
+    - footer
+title: Wang Jinjin, Li Shouzhen, Qiu Jin, Chen Cheng, Chu Tianwei, Tian Yiming, Wang Peijun, Weng Yiwei, Usmani Asif, Jiang Liming
 description:
 tags:
  - concrete
@@ -16,38 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1002/fam.70028" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/fam.70028</a>
+#Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/fam.70028" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/fam.70028" target="_blank">10.1002/fam.70028</a>
 
--------------------------
+<a href="../../../author/wang_jinjin"><b>Wang</b>&nbsp;Jinjin</a></span>, <a href="../../../author/li_shouzhen"><b>Li</b>&nbsp;Shouzhen</a></span>, <a href="../../../author/qiu_jin"><b>Qiu</b>&nbsp;Jin</a></span>, <a href="../../../author/chen_cheng"><b>Chen</b>&nbsp;Cheng</a></span>, <a href="../../../author/chu_tianwei"><b>Chu</b>&nbsp;Tianwei</a></span>, <a href="../../../author/tian_yiming"><b>Tian</b>&nbsp;Yiming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2454-5737" title="ORCID: 0000-0003-2454-5737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usmani_asif"><b>Usmani</b>&nbsp;Asif</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_liming"><b>Jiang</b>&nbsp;Liming</a></span><br>
+Journal Article - Fire and Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>
-,     <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>
-,     <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>
-,     <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a>
-,     <a href="../../../author/chu_tianwei"><b>Chu</b> Tianwei</a>
-,     <a href="../../../author/tian_yiming"><b>Tian</b> Yiming</a>
-,     <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> <a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/usmani_asif"><b>Usmani</b> Asif</a> <a href="https://orcid.org/0000-0003-2454-5737" title="ORCID: 0000-0003-2454-5737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_liming"><b>Jiang</b> Liming</a> <a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Fire and Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#experiment`](keyword/experiment)
-    [`#heat`](keyword/heat)
-    [`#investigation`](keyword/investigation)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigation%20on%20Thermal%20Performance%20of%203D%20Printed%20Concrete%20Elements%20Subjected%20to%20Radiant%20Heating" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/fam.70028" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/fam.70028?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As a promising solution for future automated construction, 3D concrete printing (3DCP) shows great potential in reducing labor costs and enabling the construction of complex architectural designs. The distinct attributes of 3D printed concrete in material compositions, construction forms, and section profiles lead to complicated heat transfer behavior. Especially, the printed thin layers may have introduced unexpected risks of fire-induced damage. This study attempts to provide valuable experimental data and insights into the heat transfer process associated with 3DCP walls. A total of seven specimens, featuring solid sections and rectangular cavity sections, were uniformly exposed to single face heat loading via an H-Tris type of radiant panel to represent the radiant heating under fire conditions. The temperature evolutions at various locations of each specimen were monitored using arranged thermocouples. A thorough discussion was then conducted to identify the patterns, trends, and discrepancies of heat transfer during the heating and cooling processes. The results show that different cross-sections lead to distinct thermal responses of the 3DCP wall in terms of the generations of concrete cracks, variation trends of temperature evolution, and temperature distributions. These differences may be attributed to the complex heat transfer mechanism brought by the cavities, which of course requires further investigations. In addition, numerical comparisons were conducted to demonstrate the effectiveness of the calculation method of adiabatic surface temperature (AST) using the tested heat flux under H-Tris. The conclusions drawn in this study, although remaining preliminary, explore the fire performance of 3D printed concrete walls using test and simulation, revealing the risk of quick damage in a fire resulting from optimized sections.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/seyedian-choubi_sepehr"><b>Seyedian Choubi</b> Sepehr</a>, <a href="../../../author/tuncer_emran"><b>Tuncer</b> Emran</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bayr_shab_seye_tunc.2024.SVoPMaTPo3PCAaFSW/">Spatial Variation of Physical, Mechanical, and Thermophysical Properties of 3D Printed Concrete Across a Full-Scale Wall</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
@@ -99,7 +71,35 @@ tags:
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
       <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_li_qiu_chen.2025.EIoTPo3PCEStRH,
+      author            = "Jinjin Wang and Shouzhen Li and Jin Qiu and Cheng Chen and Tianwei Chu and Yiming Tian and Peijun Wang and Yiwei Weng and Asif Usmani and Liming Jiang",
+      title             = "Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating",
+      doi               = "10.1002/fam.70028",
+      year              = "2025",
+      journal           = "Fire and Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Wang, “Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating”, <i>Fire and Materials</i>, 2025, doi: 10.1002/fam.70028.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Jinjin, Shouzhen Li, Jin Qiu, Cheng Chen, Tianwei Chu, Yiming Tian, Peijun Wang, Yiwei Weng, Asif Usmani, and Liming Jiang. “Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating”. <i>Fire and Materials</i>, 2025. https://doi.org/10.1002/fam.70028.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

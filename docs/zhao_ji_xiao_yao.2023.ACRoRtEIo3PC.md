@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zengfeng Zhao, Chenyuan Ji, Jianzhuang Xiao, Lei Yao, Can Lin, Tao Ding, Taohua Ye
+    - footer
+title: Zhao Zengfeng, Ji Chenyuan, Xiao Jianzhuang, Yao Lei, Lin Can, Ding Tao, Ye Taohua
 description:
 tags:
  - concrete
@@ -19,38 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>:aca-blank: Material-Preparation, Construction-Process and Structure-Level ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133887" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133887</a>
+#A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete&nbsp;([2023-11](date/2023/11))
+<div class="h1-like">Material-Preparation, Construction-Process and Structure-Level</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133887" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133887" target="_blank">10.1016/j.conbuildmat.2023.133887</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7059-9085" title="ORCID: 0000-0002-7059-9085" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_zengfeng"><b>Zhao</b>&nbsp;Zengfeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5783-444X" title="ORCID: 0000-0002-5783-444X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ji_chenyuan"><b>Ji</b>&nbsp;Chenyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/yao_lei"><b>Yao</b>&nbsp;Lei</a></span>, <a href="../../../author/lin_can"><b>Lin</b>&nbsp;Can</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_taohua"><b>Ye</b>&nbsp;Taohua</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 409, No. 133887
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a> <a href="https://orcid.org/0000-0002-7059-9085" title="ORCID: 0000-0002-7059-9085" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a> <a href="https://orcid.org/0000-0002-5783-444X" title="ORCID: 0000-0002-5783-444X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yao_lei"><b>Yao</b> Lei</a>
-,     <a href="../../../author/lin_can"><b>Lin</b> Can</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a> <a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 409, No. 133887
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#critical`](keyword/critical)
-    [`#environment`](keyword/environment)
-    [`#level`](keyword/level)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#reduction`](keyword/reduction)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/level"><button class="btn">#level</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20on%20Reducing%20the%20Environmental%20Impact%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175637767&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388334789" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133887" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133887?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a critical review of reducing the life-cycle environmental impact of 3D printing concrete (3DPC) systems from the perspectives of material preparation, construction process and structure level. The material requirements of 3DPC are first introduced, then the utilization of low-carbon cementitious materials, recycled aggregates, admixture and fibres in 3DPC is explored, along with their effect on workability and mechanical property. The potential for improving the environmental benefits by applying better design and printing parameters are discussed in the subsequent part. Two main delivery systems and the effect of printing parameters (including printing speed, standoff distance) are presented. Finally, the behaviour of 3D printing components (beam, slab and column) is examined at the structural level. 3D printing technology has a high degree of freedom, thus better understanding of the component behaviour can save materials and improve strength. Finding a balance between component’s performance and environmental impact is a crucial work in future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "90 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
@@ -167,8 +140,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
@@ -196,4 +169,34 @@ tags:
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_ji_xiao_yao.2023.ACRoRtEIo3PC,
+      author            = "Zengfeng Zhao and Chenyuan Ji and Jianzhuang Xiao and Lei Yao and Can Lin and Tao Ding and Taohua Ye",
+      title             = "A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete: Material-Preparation, Construction-Process and Structure-Level",
+      doi               = "10.1016/j.conbuildmat.2023.133887",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "409",
+      pages             = "133887",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zhao, “A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete: Material-Preparation, Construction-Process and Structure-Level”, <i>Construction and Building Materials</i>, vol. 409, p. 133887, 2023, doi: 10.1016/j.conbuildmat.2023.133887.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Zengfeng, Chenyuan Ji, Jianzhuang Xiao, Lei Yao, Can Lin, Tao Ding, and Taohua Ye. “A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete: Material-Preparation, Construction-Process and Structure-Level”. <i>Construction and Building Materials</i> 409 (2023): 133887. https://doi.org/10.1016/j.conbuildmat.2023.133887.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

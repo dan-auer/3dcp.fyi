@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fei Wang, Sudong Hua, Tingzhu Chen, Bijuan He, Guiyang Feng, Siqi Li
+    - footer
+title: Wang Fei, Hua Sudong, Chen Tingzhu, He Bijuan, Feng Guiyang, Li Siqi
 description:
 tags:
  - base
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://iopscience.iop.org/article/10.1088/2053-1591/ace29d/pdf) Effect of Nano-Clay and PCE on the Buildability of Ultra-Fine Dredged Sand-Based 3D Printing Materials ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1088/2053-1591/ace29d" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/2053-1591/ace29d</a>
+#Effect of Nano-Clay and PCE on the Buildability of Ultra-Fine Dredged Sand-Based 3D Printing Materials ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/2053-1591/ace29d/pdf) <a href="https://doi.org/10.1088/2053-1591/ace29d" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2053-1591/ace29d" target="_blank">10.1088/2053-1591/ace29d</a>
 
--------------------------
+<a href="../../../author/wang_fei"><b>Wang</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span>, <a href="../../../author/chen_tingzhu"><b>Chen</b>&nbsp;Tingzhu</a></span>, <a href="../../../author/he_bijuan"><b>He</b>&nbsp;Bijuan</a></span>, <a href="../../../author/feng_guiyang"><b>Feng</b>&nbsp;Guiyang</a></span>, <a href="../../../author/li_siqi"><b>Li</b>&nbsp;Siqi</a></span><br>
+Journal Article - Materials Research Express, Vol. 10, Iss. 7, No. 075201
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_fei"><b>Wang</b> Fei</a>
-,     <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> <a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_tingzhu"><b>Chen</b> Tingzhu</a>
-,     <a href="../../../author/he_bijuan"><b>He</b> Bijuan</a>
-,     <a href="../../../author/feng_guiyang"><b>Feng</b> Guiyang</a>
-,     <a href="../../../author/li_siqi"><b>Li</b> Siqi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Research Express, Vol. 10, Iss. 7, No. 075201
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#clay`](keyword/clay)
-    [`#effect`](keyword/effect)
-    [`#fine`](keyword/fine)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Nano-Clay%20and%20PCE%20on%20the%20Buildability%20of%20Ultra-Fine%20Dredged%20Sand-Based%203D%20Printing%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164935803&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382359175" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/2053-1591/ace29d" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/2053-1591/ace29d?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use ofultra-fine dredged sand instead ofnatural sand in construction 3D printing materials can significantly reduce the cost. However, ultra-fine dredged sand has fine particles and high angular morphology, which can hinder the buildability and continuous printability ofconstruction 3D printing materials. The addition ofpolycarboxylate superplasticizer (PCE) can effectively solve this problem. Considering that the change ofPCE (content of0, 0.1%, 0.2%, 0.3%) content has a great influence on the printing performance ofmortar, in order to makeup for this deficiency, nano clay (content of0,1%) is added to the mortar. The experimental results showed that the addition ofnano clay can significantly reduce the negative effects ofPCEon the yield stress and apparent viscosity of3D printing materials (3DPM). When the content ofPCE is 0.2%, the addition of1%NACcould increase the static yield stress and viscosity growth rate of3DPMby111.8% and 115.3% respectively. In addition, unconfined compressive strength test, isothermal calorimetry, Mercuryinvasion porosity method and thermogravimetric analysis were used to characterize the hardening properties of3DPM. The results ofheat ofhydration showed that the addition ofnano clay reduced the hydration exothermic peak of3DPM, but increased the total heat release. The results ofpore structure analysis showed that the addition ofnano clay reduced the macropore (>1000 nm) of3DPMfrom 19.31% to 18.82%. Thermogravimetric analysis showed that the addition ofnano clay increased the hydration products. Therefore, the compressive strength of3DPMwas kept within an acceptable range. Finally, the laboratory’s printing results indicated that the 3DPMcan print up to 20 layers continuously.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -93,9 +69,40 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_hua_chen_he.2023.EoNCaPotBoUFDSB3PM,
+      author            = "Fei Wang and Sudong Hua and Tingzhu Chen and Bijuan He and Guiyang Feng and Siqi Li",
+      title             = "Effect of Nano-Clay and PCE on the Buildability of Ultra-Fine Dredged Sand-Based 3D Printing Materials",
+      doi               = "10.1088/2053-1591/ace29d",
+      year              = "2023",
+      journal           = "Materials Research Express",
+      volume            = "10",
+      number            = "7",
+      pages             = "075201",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Wang, S. Hua, T. Chen, B. He, G. Feng and S. Li, “Effect of Nano-Clay and PCE on the Buildability of Ultra-Fine Dredged Sand-Based 3D Printing Materials”, <i>Materials Research Express</i>, vol. 10, no. 7, p. 075201, 2023, doi: 10.1088/2053-1591/ace29d.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Fei, Sudong Hua, Tingzhu Chen, Bijuan He, Guiyang Feng, and Siqi Li. “Effect of Nano-Clay and PCE on the Buildability of Ultra-Fine Dredged Sand-Based 3D Printing Materials”. <i>Materials Research Express</i> 10, no. 7 (2023): 075201. https://doi.org/10.1088/2053-1591/ace29d.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

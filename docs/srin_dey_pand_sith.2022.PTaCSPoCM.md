@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dodda Srinivas, Dhrutiman Dey, Biranchi Panda, Thallak Sitharam
+    - footer
+title: Srinivas Dodda, Dey Dhrutiman, Panda Biranchi, Sitharam Thallak
 description:
 tags:
  - cement
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/23/8607/pdf?version=1669975197) Printability, Thermal and Compressive Strength Properties of Cementitious Materials:<br/>:aca-blank: A Comparative Study with Silica-Fume and Limestone ([2022-12](date/2022/12))
-<a href="https://doi.org/10.3390/ma15238607" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15238607</a>
+#Printability, Thermal and Compressive Strength Properties of Cementitious Materials&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">A Comparative Study with Silica-Fume and Limestone</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/23/8607/pdf?version=1669975197) <a href="https://doi.org/10.3390/ma15238607" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15238607" target="_blank">10.3390/ma15238607</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srinivas_dodda"><b>Srinivas</b>&nbsp;Dodda</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dey_dhrutiman"><b>Dey</b>&nbsp;Dhrutiman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sitharam_g_thallak"><b>Sitharam</b>&nbsp;Thallak</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 23
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> <a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> <a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 23, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#comparision`](keyword/comparision)
-    [`#compression`](keyword/compression)
-    [`#fume`](keyword/fume)
-    [`#limestone`](keyword/limestone)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#silica`](keyword/silica)
-    [`#strength`](keyword/strength)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%2C%20Thermal%20and%20Compressive%20Strength%20Properties%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143755107&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311291323" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15238607" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15238607?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Over the past decade, 3D printing in the construction industry has received worldwide attention and developed rapidly. The research and development of cement and concrete products has also become quite well-established over the years, while other sustainable materials receive considerably lower attention in comparison. This study aims to investigate the influence of the two most commonly used sustainable cementitious materials i.e., silica fume and limestone powder, on printability, thermal and mechanical properties of fly ash-Portland cement blends. Ternary blends containing Portland cement, fly ash and silica fume or limestone powder are prepared, whereas phase change material (PCM) is introduced to improve the thermal behavior. Based on the rheological properties and concurrent 3D concrete printing, improved buildability of the modified mixtures is linked to their static yield stress. Anisotropic mechanical properties are observed for 3D printed specimens, while cast specimens exhibit a maximum 41% higher compressive strength due to better material compaction. It is clear from the results that addition of silica fume and limestone powder ranged from 5% to 10%, reducing the anisotropic mechanical properties (maximum 71% and 68% reduction in anisotropic factor, respectively) in the printed specimens. The PCM addition ranged from 5% to 10% and improved thermal performance of the mixtures, as measured by a decrease in thermal conductivity (9% and 13%) and an increase in volumetric heat capacity (9% and 10%), respectively. However, the PCM-containing mixtures show around 29% reduction in compressive strength, compared to the control specimen, which necessitates new material design considering matrix strengthening methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/brooks_lee_adam"><b>Brooks</b> Adam</a>, <a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b> Shayan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../broo_he_farz_seyf.2022.IPETESi3PCC/">Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites</a></li>
@@ -101,8 +77,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
@@ -129,4 +105,34 @@ tags:
       <li><a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a>, <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../razz_cerr_pan_kora.2023.NaPAfHP3PC/">Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/prakash_srajan"><b>Prakash</b> Srajan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../dey_sahu_prak_pand.2023.ASitEoMDMoHPo3PC/">A Study into the Effect of Material-Deposition-Methods on Hardened Properties of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{srin_dey_pand_sith.2022.PTaCSPoCM,
+      author            = "Dodda Srinivas and Dhrutiman Dey and Biranchi Narayan Panda and Thallak G. Sitharam",
+      title             = "Printability, Thermal and Compressive Strength Properties of Cementitious Materials: A Comparative Study with Silica-Fume and Limestone",
+      doi               = "10.3390/ma15238607",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "23",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Srinivas, D. Dey, B. N. Panda and T. G. Sitharam, “Printability, Thermal and Compressive Strength Properties of Cementitious Materials: A Comparative Study with Silica-Fume and Limestone”, <i>Materials</i>, vol. 15, no. 23, 2022, doi: 10.3390/ma15238607.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Srinivas, Dodda, Dhrutiman Dey, Biranchi Narayan Panda, and Thallak G. Sitharam. “Printability, Thermal and Compressive Strength Properties of Cementitious Materials: A Comparative Study with Silica-Fume and Limestone”. <i>Materials</i> 15, no. 23 (2022). https://doi.org/10.3390/ma15238607.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

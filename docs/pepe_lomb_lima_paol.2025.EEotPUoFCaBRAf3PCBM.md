@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marco Pepe, Rosario Lombardi, Carmine Lima, Bruno Paolillo, Enzo Martinelli
+    - footer
+title: Pepe Marco, Lombardi Rosario, Lima Carmine, Paolillo Bruno, Martinelli Enzo
 description:
 tags:
  - aggregate
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma18030583) Experimental Evidence on the Possible Use of Fine Concrete and Brick Recycled Aggregates for 3D Printed Cement-Based Mixtures ([2025-01](date/2025/01))
-<a href="https://doi.org/10.3390/ma18030583" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18030583</a>
+#Experimental Evidence on the Possible Use of Fine Concrete and Brick Recycled Aggregates for 3D Printed Cement-Based Mixtures ([2025-01](date/2025/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma18030583) <a href="https://doi.org/10.3390/ma18030583" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18030583" target="_blank">10.3390/ma18030583</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0920-2218" title="ORCID: 0000-0003-0920-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pepe_marco"><b>Pepe</b>&nbsp;Marco</a></span>, <a href="../../../author/lombardi_rosario"><b>Lombardi</b>&nbsp;Rosario</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3372-6599" title="ORCID: 0000-0003-3372-6599" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lima_carmine"><b>Lima</b>&nbsp;Carmine</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-2437-0770" title="ORCID: 0009-0002-2437-0770" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paolillo_bruno"><b>Paolillo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3572-7528" title="ORCID: 0000-0003-3572-7528" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinelli_enzo"><b>Martinelli</b>&nbsp;Enzo</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 3, No. 583
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pepe_marco"><b>Pepe</b> Marco</a> <a href="https://orcid.org/0000-0003-0920-2218" title="ORCID: 0000-0003-0920-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lombardi_rosario"><b>Lombardi</b> Rosario</a>
-,     <a href="../../../author/lima_carmine"><b>Lima</b> Carmine</a> <a href="https://orcid.org/0000-0003-3372-6599" title="ORCID: 0000-0003-3372-6599" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paolillo_bruno"><b>Paolillo</b> Bruno</a> <a href="https://orcid.org/0009-0002-2437-0770" title="ORCID: 0009-0002-2437-0770" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinelli_enzo"><b>Martinelli</b> Enzo</a> <a href="https://orcid.org/0000-0003-3572-7528" title="ORCID: 0000-0003-3572-7528" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 3, No. 583
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#base`](keyword/base)
-    [`#brick`](keyword/brick)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#evidence`](keyword/evidence)
-    [`#experiment`](keyword/experiment)
-    [`#fine`](keyword/fine)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evidence"><button class="btn">#evidence</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Evidence%20on%20the%20Possible%20Use%20of%20Fine%20Concrete%20and%20Brick%20Recycled%20Aggregates%20for%203D%20Printed%20Cement-Based%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217787873&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406864310" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18030583" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18030583?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, the development of alternative and more sustainable technologies for reinforced concrete structures has been attracting more and more interest, given the increasing need to reduce the impact that the construction sector has on the environment. Furthermore, 3D concrete printing (3DCP) technology falls into this context, allowing the optimization of the quantities of employed raw material to be used while at the same time allowing the possibility to design more complex elements’ shapes. In the view of improving the sustainability of construction sector, the present study aims at experimentally investigating the characteristics of the fresh and hardened states of concrete mixtures incorporating different percentages of replacement of the fine aggregate with recycled aggregates of different nature. As such, the key innovative aspect of the present study is the possible investigation of cement-based mixtures produced with 100% recycled fine aggregates (both derived from concrete waste and brick elements) without affecting either the fresh or hardened mechanical properties of the resulting Recycled Aggregate Concrete (RAC) mixtures. Furthermore, in order to make this study linked to 3D printing technology, extruded concrete elements were realized and tested through a process designed to simulate the automated 3D concrete printing process: in fact, the RAC mixtures were designed in order to obtain an adequate workability and compressive strength typically adopted for ordinary 3D printed mixtures. Although some adjustments and further analyses are required in order to optimize the shape retention and stability, as well as the well-known problem of the 3D mixtures being linked to anisotropic behavior, the obtained results unveil that it was possible to observe promising characteristics for the mixes containing recycled aggregates (i.e., consistency index at the fresh state above 150 mm and compressive strength at 28 days above 50 MPa), which were in any case suitable for the creation of 3D printed structural concrete elements and can be further confirmed with future studies in order to validate their possible buildability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../chri_zijl_vill.2022.TIoRBAi3PC/">The Incorporation of Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
@@ -100,11 +73,42 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sicakova_alena"><b>Sičáková</b> Alena</a>, <a href="../../../author/vercimak_dominik"><b>Verčimák</b> Dominik</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sica_verc.2025.LMwaHPoRFiTo3PP/">Lightweight Mixtures with a High Proportion of Recycled Fillers in Terms of 3D Printing Parameters</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
       <li><a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cava_tole_mend.2025.RaEIoRCPaFiC3P/">Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pepe_lomb_lima_paol.2025.EEotPUoFCaBRAf3PCBM,
+      author            = "Marco Pepe and Rosario Lombardi and Carmine Lima and Bruno Paolillo and Enzo Martinelli",
+      title             = "Experimental Evidence on the Possible Use of Fine Concrete and Brick Recycled Aggregates for 3D Printed Cement-Based Mixtures",
+      doi               = "10.3390/ma18030583",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "3",
+      pages             = "583",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Pepe, R. Lombardi, C. Lima, B. Paolillo and E. Martinelli, “Experimental Evidence on the Possible Use of Fine Concrete and Brick Recycled Aggregates for 3D Printed Cement-Based Mixtures”, <i>Materials</i>, vol. 18, no. 3, p. 583, 2025, doi: 10.3390/ma18030583.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pepe, Marco, Rosario Lombardi, Carmine Lima, Bruno Paolillo, and Enzo Martinelli. “Experimental Evidence on the Possible Use of Fine Concrete and Brick Recycled Aggregates for 3D Printed Cement-Based Mixtures”. <i>Materials</i> 18, no. 3 (2025): 583. https://doi.org/10.3390/ma18030583.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

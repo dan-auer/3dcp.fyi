@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chun Lv, Hongtao Shen, Jie Liu, Dan Wu, Enxiang Qu, Shuang Liu
+    - footer
+title: Lv Chun, Shen Hongtao, Liu Jie, Wu Dan, Qu Enxiang, Liu Shuang
 description:
 tags:
  - anisotropy
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/22/8032/pdf?version=1668425797) Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy ([2022-11](date/2022/11))
-<a href="https://doi.org/10.3390/ma15228032" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15228032</a>
+#Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy ([2022-11](date/2022/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/22/8032/pdf?version=1668425797) <a href="https://doi.org/10.3390/ma15228032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15228032" target="_blank">10.3390/ma15228032</a>
 
--------------------------
+<a href="../../../author/lv_chun"><b>Lv</b>&nbsp;Chun</a></span>, <a href="../../../author/shen_hongtao"><b>Shen</b>&nbsp;Hongtao</a></span>, <a href="../../../author/liu_jie"><b>Liu</b>&nbsp;Jie</a></span>, <a href="../../../author/wu_dan"><b>Wu</b>&nbsp;Dan</a></span>, <a href="../../../author/qu_enxiang"><b>Qu</b>&nbsp;Enxiang</a></span>, <a href="../../../author/liu_shuang"><b>Liu</b>&nbsp;Shuang</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 22
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lv_chun"><b>Lv</b> Chun</a>
-,     <a href="../../../author/shen_hongtao"><b>Shen</b> Hongtao</a>
-,     <a href="../../../author/liu_jie"><b>Liu</b> Jie</a>
-,     <a href="../../../author/wu_dan"><b>Wu</b> Dan</a>
-,     <a href="../../../author/qu_enxiang"><b>Qu</b> Enxiang</a>
-,     <a href="../../../author/liu_shuang"><b>Liu</b> Shuang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 22, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#fiber`](keyword/fiber)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%203D%20Printing%20Fiber-Reinforced%20Geopolymers%20Based%20on%20Inter-Layer%20Bonding%20and%20Anisotropy" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142670664&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4309213497" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15228032" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15228032?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The engineering applications and related researches of 3D printing fiber-reinforced geopolymers are becoming more and more extensive. However, compared with traditional mould-casted cement-based materials, the properties of 3D-printed fiber-reinforced geopolymers are significantly different, and their interlayer bonding and anisotropy effects are less studied, so in-depth analysis and summary are needed. Similar to common cement-based materials, the reinforcement fibers for geopolymers include not only traditional fibers, such as steel fibers and carbon fibers, but also synthetic polymer fibers and natural polymer fibers. These fibers have unique properties, most of which have good mechanical properties and bonding properties with geopolymers, as well as excellent crack resistance and enhancement. This paper summarizes and analyzes the effects of traditional fibers, polymer fibers, plant fibers and other reinforcement fibers on the properties of 3D-printed fiber-reinforced geopolymers, especially on the interlayer bonding and anisotropy. The influence of the flow and thixotropic properties of fiber-reinforced fresh geopolymer on the weak bond and anisotropy between layers is summarized and analyzed. At the same time, the influence of fibers on the compressive strength, flexural strength and interlayer binding strength of the hardened geopolymers is investigated. The effect of fibers on the anisotropy of 3D-printed geopolymers and the methods to improve the interlayer binding degree are summarized. The limitations of 3D printing fiber-reinforced geopolymers are pointed out and some suggestions for improvement are put forward. Finally, the research on 3D printing fiber-reinforced geopolymers is summarized. This paper provides a reference for further improving the interlayer bonding strength of 3D-printed fiber-reinforced geopolymers. At the same time, the anisotropy properties of 3D-printed fiber-reinforced geopolymers are used to provide a basis for engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "70 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
@@ -144,8 +118,9 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
@@ -162,4 +137,34 @@ tags:
       <li><a href="../../../author/wang_fei"><b>Wang</b> Fei</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/chen_tingzhu"><b>Chen</b> Tingzhu</a>, <a href="../../../author/he_bijuan"><b>He</b> Bijuan</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_hua_chen_he.2023.EoNCaPotBoUFDSB3PM/">Effect of Nano-Clay and PCE on the Buildability of Ultra-Fine Dredged Sand-Based 3D Printing Materials</a></li>
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../quah_tay_lim_tan.2023.C3P/">Concrete 3D Printing:<br/>Process-Parameters for Process-Control, Monitoring and Diagnosis in Automation and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lv_shen_liu_wu.2022.Po3PFRGBoILBaA,
+      author            = "Chun Lv and Hongtao Shen and Jie Liu and Dan Wu and Enxiang Qu and Shuang Liu",
+      title             = "Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy",
+      doi               = "10.3390/ma15228032",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "22",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Lv, H. Shen, J. Liu, D. Wu, E. Qu and S. Liu, “Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy”, <i>Materials</i>, vol. 15, no. 22, 2022, doi: 10.3390/ma15228032.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lv, Chun, Hongtao Shen, Jie Liu, Dan Wu, Enxiang Qu, and Shuang Liu. “Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy”. <i>Materials</i> 15, no. 22 (2022). https://doi.org/10.3390/ma15228032.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuhang Sun, Chuang Li, Xiongfei Liu, Li Wang, Guowei Ma, Tianwei Feng
+    - footer
+title: Sun Yuhang, Li Chuang, Liu Xiongfei, Wang Li, Ma Guowei, Feng Tianwei
 description:
 tags:
  - base
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.jobe.2025.114573" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114573</a>
+#Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114573" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114573" target="_blank">10.1016/j.jobe.2025.114573</a>
 
--------------------------
+<a href="../../../author/sun_yuhang"><b>Sun</b>&nbsp;Yuhang</a></span>, <a href="../../../author/li_chuang"><b>Li</b>&nbsp;Chuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/feng_tianwei"><b>Feng</b>&nbsp;Tianwei</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114573
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>
-,     <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>
-,     <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_tianwei"><b>Feng</b> Tianwei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114573
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#fiber`](keyword/fiber)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#resistance`](keyword/resistance)
-    [`#slag`](keyword/slag)
-    [`#spray`](keyword/spray)
-    [`#tunnel`](keyword/tunnel)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Sulfate%20Resistance%20of%20Spray-Based%203D%20Printed%20Recycled%20Tunnel%20Slag%20Concrete%20Through%20Polypropylene%20Fiber%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021339502&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416022131" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114573" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114573?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the influence of polypropylene (PP) fibers on the enhancement of sulfate resistance in spray-based 3D (S-3D) printed recycled tunnel slag concrete. The mechanical performance is evaluated with varying volume contents of PP fibers (0.2%, 0.4% and 0.6%), fibers lengths (3 mm and 6 mm), and mixing ratios (3 mm : 6 mm = 1:1, 2:1 and 1:2). Furthermore, the sulfate resistance of the specimens with optimal mechanical performance (F21-0.4) is analyzed based on the evolution of the density, mechanical properties and microstructure under different dry-wet cycles (30, 45, 60, 75, and 90). The results demonstrate that PP fibers can effectively enhance the mechanical performance and sulfate resistance of S-3D printed recycled tunnel slag concrete. F21-0.4 exhibits optimal comprehensive performance, achieving 28 d compressive and flexural strengths of 84.5 MPa and 16.1 MPa, representing significant improvements of 44.7% and 27.8%, respectively, compared with the control group (F-0). Following exposure to sulfate attack by dry-wet cycling, F21-0.4 demonstrated excellent strength stability. Its compressive strength decreases to 81.2 MPa after 90 cycles, yielding a corrosion resistance coefficient of 96.1%, which meets the 100-year service life requirements for Y1-class environments in railway tunnel applications. The synergistic optimization of the micro-pore structure, achieved through the mixed fiber length reinforcement and the densification effect of the S-3D printing process, significantly enhances sulfate resistance performance. The sulfate-attacked F21-0.4 shows optimal microstructural compactness with a porosity of 1.4%, representing a 40.0% increase from its pre-exposure value of 1.0%. It decreases by 61.1%, 33.3%, 26.3% and 44.0% compared with the control groups F-0, SF-0.4, LF-0.4 and F21-0.4-C, respectively. The optimized sulfate resistance facilitates the broader application of S-3D printed PP fiber-reinforced recycled tunnel slag concrete in tunnel engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bodur_burak"><b>Bodur</b> Burak</a>, <a href="../../../author/mecit-isik_ahmet_muhammet"><b>Mecit Işık</b> Muhammet</a>, <a href="../../../author/benli_ahmet"><b>Benli</b> Ahmet</a>, <a href="../../../author/bayrak_baris"><b>Bayrak</b> Barış</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodu_meci_benl_bayr.2024.DoGR3PLCCRwMAaMSF/">Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers:<br/>Printability and Environmental Perspective</a></li>
@@ -107,7 +80,36 @@ tags:
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO,
+      author            = "Yuhang Sun and Chuang Li and Xiongfei Liu and Li Wang and Guowei Ma and Tianwei Feng",
+      title             = "Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization",
+      doi               = "10.1016/j.jobe.2025.114573",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114573",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Sun, C. Li, X. Liu, L. Wang, G. Ma and T. Feng, “Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization”, <i>Journal of Building Engineering</i>, p. 114573, 2025, doi: 10.1016/j.jobe.2025.114573.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Yuhang, Chuang Li, Xiongfei Liu, Li Wang, Guowei Ma, and Tianwei Feng. “Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization”. <i>Journal of Building Engineering</i>, 2025, 114573. https://doi.org/10.1016/j.jobe.2025.114573.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

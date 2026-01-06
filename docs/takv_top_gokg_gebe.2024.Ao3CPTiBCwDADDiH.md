@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Çağatay Takva, Semahat Top, Berru Gökgöz, Şeyma Gebel, Zeynep İlerisoy, Hüseyin İlcan, Mustafa Şahmaran
+    - footer
+title: Takva Çağatay, Top Semahat, Gökgöz Berru, Gebel Şeyma, İlerisoy Zeynep, İlcan Hüseyin, Şahmaran Mustafa
 description:
 tags:
  - application
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111257" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111257</a>
+#Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111257" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111257" target="_blank">10.1016/j.jobe.2024.111257</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0494-9972" title="ORCID: 0000-0002-0494-9972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/takva_cagatay"><b>Takva</b>&nbsp;Çağatay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8400-824X" title="ORCID: 0000-0002-8400-824X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/top_merve_semahat"><b>Top</b>&nbsp;Semahat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0096-1595" title="ORCID: 0000-0002-0096-1595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b>&nbsp;Berru</a></span>, <a href="../../../author/gebel_seyma"><b>Gebel</b>&nbsp;Şeyma</a></span>, <a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b>&nbsp;Zeynep</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111257
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a> <a href="https://orcid.org/0000-0002-0494-9972" title="ORCID: 0000-0002-0494-9972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a> <a href="https://orcid.org/0000-0002-8400-824X" title="ORCID: 0000-0002-8400-824X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a> <a href="https://orcid.org/0000-0002-0096-1595" title="ORCID: 0000-0002-0096-1595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gebel_seyma"><b>Gebel</b> Şeyma</a>
-,     <a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b> Zeynep</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111257
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#architecture`](keyword/architecture)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#decision`](keyword/decision)
-    [`#design`](keyword/design)
-    [`#difference`](keyword/difference)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Applicability%20of%203D%20Concrete%20Printing%20Technology%20in%20Building%20Construction%20with%20Different%20Architectural%20Design%20Decisions%20in%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208501990&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404195044" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111257" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111257?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Printing (3DP) technology, one of the layered production methodologies where design and construction configurations can be made with increasing digitalization and Industry 4.0, is one of the leading techniques of the period. 3D Concrete Printing (3DCP) also comes to the fore in the construction industry. The study aims to observe the impact of architectural design decisions on the 3DCP process by developing controlled and consistent design alternatives. Architectural designs developed with different geometric forms in the housing function were subjected to digital planning, 3DCP preparation, and 3DCP prototype final product stages. In the integration of design and 3D concrete printing (3DCP), two key aspects were investigated: (i) the impact of different geometric forms (square, rectangle, hexagon, octagon, circle, and ellipse) on the buildability performance of 3D-printed structures, and (ii) how variations in design details influence printing time, material consumption, cost, and the feasibility of mass production in architectural applications. For the 3DCP process, 3D-printable cementitious mixture was developed, and a 3D printer with dimensions of 100 x 100 x 40 centimeters was used. The results obtained during the printing process were analyzed in comparison with the building evaluation parameters. As a result, the house with circular geometry showed the optimum behavior according to the parameters of buildability, cost, and mass producibility. The circle geometric form provides a 4.2% advantage over the octagon in terms of buildability, a 16.6% advantage over the ellipse in terms of cost, and a 20% advantage over the ellipse in terms of mass producibility.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../aram_cald_puen.2023.PMo3PCSBwRUBM/">Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments</a></li>
@@ -121,12 +93,41 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_muda.2025.3PPoSHCCwDUFiCwR/">3D Printing Performance of Strain-Hardening Cementitious Composites with Different UHMWPE Fibers in Correlation with Rheology</a></li>
       <li><a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b> Zeynep</a>, <a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../iler_takv_top_gokg.2025.TEo3CPTiAD/">The Effectiveness of 3D Concrete Printing Technology in Architectural Design:<br/>Different Corner-Wall Combinations in 3D Printed Elements and Geometric Form Configurations in Residential Buildings</a></li>
       <li><a href="../../../author/casanova_euro"><b>Casanova</b> Euro</a>, <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b> Nelson</a>, <a href="../../../author/valdebenito_michael"><b>Valdebenito</b> Michael</a>, <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../casa_hida_vald_forc.2025.ORoCCWMwAC/">Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{takv_top_gokg_gebe.2024.Ao3CPTiBCwDADDiH,
+      author            = "Çağatay Takva and Semahat Merve Top and Berru İzel Gökgöz and Şeyma Gebel and Zeynep Yeşim İlerisoy and Hüseyin İlcan and Mustafa Şahmaran",
+      title             = "Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing",
+      doi               = "10.1016/j.jobe.2024.111257",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111257",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Ç. Takva, “Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing”, <i>Journal of Building Engineering</i>, p. 111257, 2024, doi: 10.1016/j.jobe.2024.111257.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Takva, Çağatay, Semahat Merve Top, Berru İzel Gökgöz, Şeyma Gebel, Zeynep Yeşim İlerisoy, Hüseyin İlcan, and Mustafa Şahmaran. “Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing”. <i>Journal of Building Engineering</i>, 2024, 111257. https://doi.org/10.1016/j.jobe.2024.111257.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

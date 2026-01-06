@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li Wang, Fucheng Wang, Rong Li, Qiao Wang
+    - footer
+title: Wang Li, Wang Fucheng, Li Rong, Wang Qiao
 description:
 tags:
  - composite
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interfacial Constitutive Model of 3D Printed Fiber-Reinforced Concrete Composites and Its Experimental Validation ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.cscm.2023.e02807" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e02807</a>
+#Interfacial Constitutive Model of 3D Printed Fiber-Reinforced Concrete Composites and Its Experimental Validation ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2023.e02807" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02807" target="_blank">10.1016/j.cscm.2023.e02807</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/wang_fucheng"><b>Wang</b>&nbsp;Fucheng</a></span>, <a href="../../../author/li_rong"><b>Li</b>&nbsp;Rong</a></span>, <a href="../../../author/wang_qiao"><b>Wang</b>&nbsp;Qiao</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 20, No. e02807
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_fucheng"><b>Wang</b> Fucheng</a>
-,     <a href="../../../author/li_rong"><b>Li</b> Rong</a>
-,     <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 20, No. e02807
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#constitutive`](keyword/constitutive)
-    [`#experiment`](keyword/experiment)
-    [`#fiber`](keyword/fiber)
-    [`#interface`](keyword/interface)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#validation`](keyword/validation)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interfacial%20Constitutive%20Model%20of%203D%20Printed%20Fiber-Reinforced%20Concrete%20Composites%20and%20Its%20Experimental%20Validation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180543200&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389974898" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e02807" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e02807?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, 3D printing has been rapidly promoted and applied in the field of civil engineering and construction, and has been developed from landscape maintenance structures to load-bearing structures. Different from cast-in-place concrete materials, the contact interfaces between adjacent layers or filaments formed under the additive stacking process lead to distinct mechanical anisotropy of 3D printed concrete materials, and thus the mechanical model of traditional concrete materials and the design method of reinforced concrete structures are inapplicable to 3D printed concrete materials and structures. The establishment of 3D printed concrete materials is therefore of great significance to the design of 3D printed concrete structures. Currently, there is still a lack of research on the constitutive models of 3D printed fiber reinforced concrete. This study tested and analyzed the tensile and shear performances of 3D printed concrete reinforced with steel fibers and polypropylene fibers. According to the distribution porosity, the interface thickness of 3D printed fiber reinforced concrete was measured and determined. The constitutive modeling of mechanical anisotropy of 3D printed fiber-reinforced concrete were established based on the theory of damage fracture of concrete and experimental results. Results show that the interfacial tensile strength at layers and filaments of 3D printed concrete with steel fiber were 6.2 MPa and 6.9 MPa, while the capacities of 3D printed concrete with polypropylene fiber were 4.5 MPa and 4.7 MPa, respectively. The fracture damage constitutive model adopted in this study has favorable fitting degrees, which would contribute to the further finite element simulation and structural design of 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -97,8 +73,8 @@ tags:
       <li><a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../wu_yang_kong_zhi.2021.UQftRVEoGMC3PC/">Uncertainty Quantification for the Representative Volume Element of Geometrically Mono-Clinic 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
@@ -110,4 +86,34 @@ tags:
       <li><a href="../../../author/ma_liangzhu"><b>Ma</b> Liangzhu</a>, <a href="../../../author/yin_deshun"><b>Yin</b> Deshun</a>, <a href="../../../author/ren_jiangtao"><b>Ren</b> Jiangtao</a>, <a href="../../../author/tian_mingyuan"><b>Tian</b> Mingyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_yin_ren_tian.2024.AETSDRMf3PCMitFS/">An Effective Thixotropic Structural-Dynamics Rheological-Model for 3D Printed Concrete Materials in the Flow-State</a></li>
       <li><a href="../../../author/xu_wen"><b>Xu</b> Wen</a>, <a href="../../../author/jiang_dengjie"><b>Jiang</b> Dengjie</a>, <a href="../../../author/zhao_qian"><b>Zhao</b> Qian</a>, <a href="../../../author/wang_linbing"><b>Wang</b> Linbing</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xu_jian_zhao_wang.2024.SoPo3PCFREFC/">Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete:<br/>Characterized by Fluidity and Consistency</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_wang_li_wang.2024.ICMo3PFRCCaIEV,
+      author            = "Li Wang and Fucheng Wang and Rong Li and Qiao Wang",
+      title             = "Interfacial Constitutive Model of 3D Printed Fiber-Reinforced Concrete Composites and Its Experimental Validation",
+      doi               = "10.1016/j.cscm.2023.e02807",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "20",
+      pages             = "e02807",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, F. Wang, R. Li and Q. Wang, “Interfacial Constitutive Model of 3D Printed Fiber-Reinforced Concrete Composites and Its Experimental Validation”, <i>Case Studies in Construction Materials</i>, vol. 20, p. e02807, 2024, doi: 10.1016/j.cscm.2023.e02807.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Li, Fucheng Wang, Rong Li, and Qiao Wang. “Interfacial Constitutive Model of 3D Printed Fiber-Reinforced Concrete Composites and Its Experimental Validation”. <i>Case Studies in Construction Materials</i> 20 (2024): e02807. https://doi.org/10.1016/j.cscm.2023.e02807.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

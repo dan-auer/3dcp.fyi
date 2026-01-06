@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tobias Dorn, Tamino Hirsch, Dietmar Stephan
+    - footer
+title: Dorn Tobias, Hirsch Tamino, Stephan Dietmar
 description:
 tags:
  - accelerator
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing ([2019-09](date/2019/09))
-<a href="https://doi.org/10.1007/978-3-030-22566-7_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-22566-7_44</a>
+#Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing ([2019-09](date/2019/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-22566-7_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_44" target="_blank">10.1007/978-3-030-22566-7_44</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorn_tobias"><b>Dorn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0938-4261" title="ORCID: 0000-0002-0938-4261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hirsch_tamino"><b>Hirsch</b>&nbsp;Tamino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 382-390
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a> <a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hirsch_tamino"><b>Hirsch</b> Tamino</a> <a href="https://orcid.org/0000-0002-0938-4261" title="ORCID: 0000-0002-0938-4261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 382-390
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#hydration`](keyword/hydration)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Influence%20of%20Accelerators%20on%20the%20Hydration%20of%20Portland%20Cement%20and%20Their%20Applicability%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071433870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,23 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2969886913" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-22566-7_44" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-22566-7_44?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As extrusion based additive manufacturing (AM) has the potential of becoming the largest evolution in the construction industry in the 21st century, the control of early cement hydration becomes more and more important. This study focuses on the control of the compressive strength development of a CEM I 52.5R via the addition of different dosages of K2CO3, Na2CO3, Ca(NO3)2 and Triethanolamine (TEA) which all act as accelerators in cement hydration. Further, the influence of the above-mentioned substances on the hydration products formed during the first 24 h of hydration and their applicability in extrusion-based 3D printing processes was examined. The initial and final setting time as well as the compressive strength after 1, 2, 7 and 28 d were tested. The formation of hydration products during the first 24 h was studied using continuous in-situ XRD and calorimetric measurements. The early compressive strength development of the accelerated cement was tested, using a newly developed measuring device, starting at 20 min after the initial hydration. It was shown, that by adding the above-mentioned accelerators the initial setting time and the compressive strength development of the cement paste can be precisely adapted to the printing process. It could further be shown that the used accelerators strongly influence the hydration processes of the cement pastes and the crystallinity of some hydration products.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/jiang_wei"><b>Jiang</b> Wei</a>, <a href="../../../author/li_wenqian"><b>Li</b> Wenqian</a>, <a href="../../../author/chen_xi"><b>Chen</b> Xi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../jian_li_chen.2024.AENMotFEPfTDPCBM/">An Extended Numerical Model of the First Exothermic Peak for Three Dimensional Printed Cement-Based Materials</a></li>
@@ -86,4 +67,35 @@ tags:
       <li><a href="../../../author/pfeiffer_sven"><b>Pfeiffer</b> Sven</a>, <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/hirsch_tamino"><b>Hirsch</b> Tamino</a>, <a href="../../../author/ehm_clemens"><b>Ehm</b> Clemens</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pfei_dorn_hirs_ehm.2020.AAaWfAFwC/">Architectural Applications and Workflows for Additive Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{dorn_hirs_step.2019.SotIoAotHoPCaTAi3P,
+      author            = "Tobias Dorn and Tamino Hirsch and Dietmar Stephan",
+      title             = "Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing",
+      doi               = "10.1007/978-3-030-22566-7_44",
+      year              = "2019",
+      volume            = "23",
+      pages             = "382--390",
+      booktitle         = "Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete",
+      editor            = "Viktor Mechtcherine and Kamal H. Khayat and Egor Secrieru",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Dorn, T. Hirsch and D. Stephan, “Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing”, in <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>,  2019, vol. 23, pp. 382–390. doi: 10.1007/978-3-030-22566-7_44.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dorn, Tobias, Tamino Hirsch, and Dietmar Stephan. “Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing”. In <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>, edited by Viktor Mechtcherine, Kamal H. Khayat, and Egor Secrieru, 23:382–90, 2019. https://doi.org/10.1007/978-3-030-22566-7_44.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnaud Perrot, Damien Rangeard, Venkatesh Nerella, Viktor Mechtcherine
+    - footer
+title: Perrot Arnaud, Rangeard Damien, Nerella Venkatesh, Mechtcherine Viktor
 description:
 tags:
  - base
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://letters.rilem.net/index.php/rilem/article/download/75/79) Extrusion of Cement-Based Materials:<br/>:aca-blank: An Overview ([2019-02](date/2019/02))
-<a href="https://doi.org/10.21809/rilemtechlett.2018.75" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21809/rilemtechlett.2018.75</a>
+#Extrusion of Cement-Based Materials&nbsp;([2019-02](date/2019/02))
+<div class="h1-like">An Overview</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://letters.rilem.net/index.php/rilem/article/download/75/79) <a href="https://doi.org/10.21809/rilemtechlett.2018.75" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2018.75" target="_blank">10.21809/rilemtechlett.2018.75</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - RILEM Technical Letters, Vol. 3, pp. 91-97
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - RILEM Technical Letters, Vol. 3, pp. 91-97
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#extrusion`](keyword/extrusion)
-    [`#material`](keyword/material)
-    [`#overview`](keyword/overview)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrusion%20of%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85065747418&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2912806584" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21809/rilemtechlett.2018.75" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21809/rilemtechlett.2018.75?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion is a process which consists in forcing a formable material to pass through a die having the cross‐section of the part to be obtained. This way of processing is used with both conventional and fibre‐reinforced cement‐based materials to fabricate various construction elements such as panels, pipes, and roadside kerbs. Recently, with the development of digital fabrication methods and, especially, 3D concrete printing by selective deposition, extrusion techniques have aroused a significant increase in interest. This study describes screw and ram extrusion techniques and their applications in the construction industry. Furthermore, the underlying mechanisms which are part of extrusion flow are delineated, and the roles of rheological and hydro‐mechanical behaviour, the latter in a context of soil mechanics, in defining the extrudability of the cementitious materials are highlighted. Finally, specific points such as flow‐induced anisotropy of fibre‐reinforced cementitious materials or surface defects are addressed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
@@ -73,8 +55,8 @@ tags:
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2015/08">(2015-08)</a><br><a href="../../../zhou_li.2015.MCBMaBPvE/">Manufacturing Cement-Based Materials and Building Products via Extrusion:<br/>From Laboratory to Factory</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "92 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/assi_n_lateef"><b>Assi</b> Lateef</a>, <a href="../../../author/alsalman_ali"><b>Alsalman</b> Ali</a>, <a href="../../../author/kareem_s_rahman"><b>Kareem</b> Rahman</a>, <a href="../../../author/carter_kealy"><b>Carter</b> Kealy</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../assi_alsa_kare_cart.2025.AaCo3GBCiC/">Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
@@ -168,4 +150,34 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{perr_rang_nere_mech.2018.EoCBM,
+      author            = "Arnaud Perrot and Damien Rangeard and Venkatesh Naidu Nerella and Viktor Mechtcherine",
+      title             = "Extrusion of Cement-Based Materials: An Overview",
+      doi               = "10.21809/rilemtechlett.2018.75",
+      year              = "2018",
+      journal           = "RILEM Technical Letters",
+      volume            = "3",
+      pages             = "91--97",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Perrot, D. Rangeard, V. N. Nerella and V. Mechtcherine, “Extrusion of Cement-Based Materials: An Overview”, <i>RILEM Technical Letters</i>, vol. 3, pp. 91–97, 2018, doi: 10.21809/rilemtechlett.2018.75.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perrot, Arnaud, Damien Rangeard, Venkatesh Naidu Nerella, and Viktor Mechtcherine. “Extrusion of Cement-Based Materials: An Overview”. <i>RILEM Technical Letters</i> 3 (2018): 91–97. https://doi.org/10.21809/rilemtechlett.2018.75.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

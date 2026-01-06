@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Léo Demont, Nicolas Ducoulombier, Romain Mesnil, Jean-François Caron
+    - footer
+title: Demont Léo, Ducoulombier Nicolas, Mesnil Romain, Caron Jean-François
 description:
 tags:
  - additive
@@ -21,37 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0263822321000258) Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>:aca-blank: Rheological and Technological Requirements ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1016/j.compstruct.2021.113564" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruct.2021.113564</a>
+#Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing&nbsp;([2021-01](date/2021/01))
+<div class="h1-like">Rheological and Technological Requirements</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0263822321000258) <a href="https://doi.org/10.1016/j.compstruct.2021.113564" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2021.113564" target="_blank">10.1016/j.compstruct.2021.113564</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demont_leo"><b>Demont</b>&nbsp;Léo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span><br>
+Journal Article - Composite Structures, Vol. 262
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composite Structures, Vol. 262, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#continuous`](keyword/continuous)
-    [`#fiber`](keyword/fiber)
-    [`#flow`](keyword/flow)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#pultrusion`](keyword/pultrusion)
-    [`#requirement`](keyword/requirement)
-    [`#rheology`](keyword/rheology)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/pultrusion"><button class="btn">#pultrusion</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flow-Based%20Pultrusion%20of%20Continuous%20Fibers%20for%20Cement-Based%20Composite%20Material%20and%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100423783&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3118857544" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruct.2021.113564" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruct.2021.113564?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The vast majority of applications of extrusion‐based concrete additive manufacturing deal with unreinforced mortar. The lack of reinforcement is a serious limitation for the industrial development of 3d printed concrete, because of the brittleness and lack of tensile strength of unreinforced mortar. In this paper, a new reinforcement method inspired by pultruded composite manufacturing, called flow‐based pultrusion (FBP), is described and used. The principle is that continuous fiber rovings are impregnated and pulled by the matrix flow, avoiding motorisation, and increasing the apparent yield stress of the mortar and consequently its usability. The hardened resulting material, called anisotropic concrete, is unidirectionally and homogenously reinforced. For such composite material, the reinforcement ratio is an important material parameter that relates to specific process variables: roving type, roving count, and output diameter. This article further investigates the effect of the percentage of reinforcement on the process. It also highlights technical requirements to provide the first specifications for flow‐based pultrusion.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
@@ -91,8 +65,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "32 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/qifeng_lyu"><b>Qifeng</b> Lyu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_sing_wang_qife.2025.3PAiC/">3D-Printed Application in Concretes</a></li>
@@ -126,4 +100,33 @@ tags:
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM,
+      author            = "Léo Demont and Nicolas Ducoulombier and Romain Mesnil and Jean-François Caron",
+      title             = "Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing: Rheological and Technological Requirements",
+      doi               = "10.1016/j.compstruct.2021.113564",
+      year              = "2021",
+      journal           = "Composite Structures",
+      volume            = "262",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Demont, N. Ducoulombier, R. Mesnil and J.-F. Caron, “Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing: Rheological and Technological Requirements”, <i>Composite Structures</i>, vol. 262, 2021, doi: 10.1016/j.compstruct.2021.113564.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Demont, Léo, Nicolas Ducoulombier, Romain Mesnil, and Jean-François Caron. “Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing: Rheological and Technological Requirements”. <i>Composite Structures</i> 262 (2021). https://doi.org/10.1016/j.compstruct.2021.113564.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

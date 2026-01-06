@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guido Silva, Axcel Quispe, Jordan Baldoceda, Suyeon Kim, Gaby Ruiz, Miguel Pando, Javier Nakamatsu, Rafael Aguilar
+    - footer
+title: Silva Guido, Quispe Axcel, Baldoceda Jordan, Kim Suyeon, Ruiz Gaby, Pando Miguel, Nakamatsu Javier, Aguilar Rafael
 description:
 tags:
  - additive
@@ -21,41 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135418" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135418</a>
+#Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135418" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135418" target="_blank">10.1016/j.conbuildmat.2024.135418</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_guido"><b>Silva</b>&nbsp;Guido</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2620-8120" title="ORCID: 0000-0002-2620-8120" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quispe_axcel"><b>Quispe</b>&nbsp;Axcel</a></span>, <a href="../../../author/baldoceda_jordan"><b>Baldoceda</b>&nbsp;Jordan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_suyeon"><b>Kim</b>&nbsp;Suyeon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3835-9708" title="ORCID: 0000-0003-3835-9708" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruiz_gaby"><b>Ruiz</b>&nbsp;Gaby</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9940-7887" title="ORCID: 0000-0001-9940-7887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pando_a_miguel"><b>Pando</b>&nbsp;Miguel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aguilar_rafael"><b>Aguilar</b>&nbsp;Rafael</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 418, No. 135418
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> <a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a> <a href="https://orcid.org/0000-0002-2620-8120" title="ORCID: 0000-0002-2620-8120" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baldoceda_jordan"><b>Baldoceda</b> Jordan</a>
-,     <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> <a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> <a href="https://orcid.org/0000-0003-3835-9708" title="ORCID: 0000-0003-3835-9708" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pando_a_miguel"><b>Pando</b> Miguel</a> <a href="https://orcid.org/0000-0001-9940-7887" title="ORCID: 0000-0001-9940-7887" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> <a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> <a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 418, No. 135418
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#beam`](keyword/beam)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#cost`](keyword/cost)
-    [`#depth`](keyword/depth)
-    [`#fem`](keyword/fem)
-    [`#low`](keyword/low)
-    [`#method`](keyword/method)
-    [`#optimization`](keyword/optimization)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Construction%20of%20Concrete%20Deep%20Beams%20Using%20Low-Cost%20Characterization%20Methods%20and%20FEM-Based%20Topological%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185407506&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,20 +43,15 @@ tags:
 <a href="https://inciteful.xyz/p/W4391914184" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135418" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135418?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing using concrete for large-scale construction purposes has demonstrated economic, social, and environmental benefits compared to conventional building procedures. These advantages stem from the capabilities of concrete 3D printing, which facilitates a rapid, accurate, and low-waste construction process with substantially less labor and energy requirements compared to traditional casting procedures such as formwork fabrication and stripping, concrete pouring, and concrete consolidation. This technology can pave the way for sustainable and cost-effective housing solutions when coupled with low-carbon concrete formulations and optimized structural designs. However, scientific and industrial experiences have shown that formulating printable concrete requires extensive testing and costly equipment to reach appropriate fresh and hardened-state properties. Therefore, accessible and practical mix-design protocols for the evaluation of printable concrete formulation are needed to enable in-situ control and broader adoption of 3D printing. Once a printable material is developed, innovative design methods, such as topology optimization, that exploit robot-controlled construction to fabricate efficient, safe, and free-form elements can be explored. In this context, this article presents a methodology based on a set of low-cost and accessible experimental tests to develop cement-based matrices with low binder content suitable for layer-by-layer deposition. Furthermore, a framework to design and fabricate efficient structural elements based on numerical-based topological optimization and concrete additive manufacturing is proposed and validated. The systematic experimental campaign carried out indicates that the yield strength obtained from shear vane tests, initially designed for geotechnical field tests, is a reliable reference value for proportioning extrudable, pumpable, and buildable concretes. Employing the proposed framework, four formulations with excellent printing capabilities are presented. These formulations are successfully utilized for additive manufacturing of a topologically optimized deep beam, achieving a remarkable 52% mass reduction compared to a solid element. This showcases the possibility of 3D printing structurally efficient elements with intricate geometries while minimizing material usage, all without the need for formworks.Principio del formulario.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
-      <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bohl_mai_lowk.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>A Comparison of Extrusion 3D Printing, Shotcrete 3D Printing and Conventional Casting</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
@@ -119,8 +87,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/sharma_deepak"><b>Sharma</b> Deepak</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sahu_shar_pand.2025.TTOLCBDfAM/">Tailoring Topology-Optimized Lightweight Concrete Beam Design for Additive Manufacturing</a></li>
@@ -129,4 +97,34 @@ tags:
       <li><a href="../../../author/hu_xiangcheng"><b>Hu</b> Xiangcheng</a>, <a href="../../../author/shazad_qamar"><b>Shazad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hu_shaz_li.2025.IotSSRotSPo3PCBWWR/">Influence of the Shear Span Ratio on the Shear Performance of 3D-Printed Concrete Beams Without Web Reinforcement</a></li>
       <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a>, <a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b> Kelssy</a>, <a href="../../../author/bienvenu_sophie"><b>Bienvenu</b> Sophie</a>, <a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b> Federico</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tude_card_bien_dunk.2024.DaCoaPCMwCaDWA/">Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{silv_quis_bald_kim.2024.ACoCDBULCCMaFBTO,
+      author            = "Guido Silva and Axcel Quispe and Jordan Baldoceda and Suyeon Kim and Gaby Ruiz and Miguel A. Pando and Javier Nakamatsu and Rafael Aguilar",
+      title             = "Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization",
+      doi               = "10.1016/j.conbuildmat.2024.135418",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "418",
+      pages             = "135418",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Silva, “Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization”, <i>Construction and Building Materials</i>, vol. 418, p. 135418, 2024, doi: 10.1016/j.conbuildmat.2024.135418.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silva, Guido, Axcel Quispe, Jordan Baldoceda, Suyeon Kim, Gaby Ruiz, Miguel A. Pando, Javier Nakamatsu, and Rafael Aguilar. “Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization”. <i>Construction and Building Materials</i> 418 (2024): 135418. https://doi.org/10.1016/j.conbuildmat.2024.135418.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

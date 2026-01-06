@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yucun Gu, Kamal Khayat
+    - footer
+title: Gu Yucun, Khayat Kamal
 description:
 tags:
  - agent
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Superabsorbent Polymer on 3D Printing Characteristics as Rheology-Modified-Agent ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137140" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137140</a>
+#Effect of Superabsorbent Polymer on 3D Printing Characteristics as Rheology-Modified-Agent ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137140" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137140" target="_blank">10.1016/j.conbuildmat.2024.137140</a>
 
--------------------------
+<a href="../../../author/gu_yucun"><b>Gu</b>&nbsp;Yucun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 438, No. 137140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 438, No. 137140
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#characteristic`](keyword/characteristic)
-    [`#effect`](keyword/effect)
-    [`#modification`](keyword/modification)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Superabsorbent%20Polymer%20on%203D%20Printing%20Characteristics%20as%20Rheology-Modified-Agent" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196296098&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399785157" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137140" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137140?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to investigate the effects of two superabsorbent polymer (SAP) types, S1 and S2 (with continual absorption and rapid desorption, respectively) as rheology-modified agent on 3D printing characteristics. Three base mixtures were selected with different thixotropic behaviors (i.e., mixtures with high re-flocculation (τfloc), high structuration rate (Athix), and both low τfloc and Athix, respectively). The initial mini-slump flow of 190±10 mm was secured by adjusting superplasticizer (SP) or water demand (increasing w/b by either 0.025 or 0.05). An extrudable region was determined within the range of τfloc (200–890 Pa) and Athix (15–60 Pa/min). The use of the S2 SAP significantly improved extruded performance for mixtures with τfloc higher than 1000 Pa. The use of the S1 SAP without increasing w/b (only with extra SP demand) significantly improved the resistance against plastic collapse for the mixtures with τfloc lower than 300 Pa. The reduction in 28-day compressive strength for printed specimens was correlated with τfloc. A high τfloc value led to inadequate interlayer bond and an increased propensity for surface defects of printed structure. The S2 SAP acted as a rheology-modified agent to reduce τfloc and improved the interlayer bond performance by 10 %-20 %.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -111,8 +92,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ahn_han_shin_khay.2025.NMtE3PCQUUSET/">Novel Method to Evaluate 3D Printed Concrete Quality Using Ultrasonic Scatter-Energy-Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gu_khay.2024.EoSPo3PCaRMA,
+      author            = "Yucun Gu and Kamal H. Khayat",
+      title             = "Effect of Superabsorbent Polymer on 3D Printing Characteristics as Rheology-Modified-Agent",
+      doi               = "10.1016/j.conbuildmat.2024.137140",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "438",
+      pages             = "137140",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Gu  and K. H. Khayat, “Effect of Superabsorbent Polymer on 3D Printing Characteristics as Rheology-Modified-Agent”, <i>Construction and Building Materials</i>, vol. 438, p. 137140, 2024, doi: 10.1016/j.conbuildmat.2024.137140.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gu, Yucun, and Kamal H. Khayat. “Effect of Superabsorbent Polymer on 3D Printing Characteristics as Rheology-Modified-Agent”. <i>Construction and Building Materials</i> 438 (2024): 137140. https://doi.org/10.1016/j.conbuildmat.2024.137140.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

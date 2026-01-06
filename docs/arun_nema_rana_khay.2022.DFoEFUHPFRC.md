@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arun Arunothayan, Behzad Nematollahi, Ravi Ranade, Kamal Khayat, Jay Sanjayan
+    - footer
+title: Arunothayan Arun, Nematollahi Behzad, Ranade Ravi, Khayat Kamal, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104281" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104281</a>
+#Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete ([2021-10](date/2021/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104281" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104281" target="_blank">10.1016/j.cemconcomp.2021.104281</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b>&nbsp;Arun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6030-8371" title="ORCID: 0000-0001-6030-8371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranade_ravi"><b>Ranade</b>&nbsp;Ravi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 125
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> <a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> <a href="https://orcid.org/0000-0001-6030-8371" title="ORCID: 0000-0001-6030-8371" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 125, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20of%20Eco-Friendly%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117169858&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3207897729" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104281" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104281?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A 3D-printable ultra-high performance fiber reinforced concrete (3DP-UHPFRC) has been developed recently by the authors. This material shows high compressive and flexural strengths accompanied by deflection-hardening behavior, which allows digital fabrication of thin structures with noticeable reduction/elimination of conventional steel bars. However, the high cement content of the developed 3DP-UHPFRC (840 kg/m3) limits the material’s environmental sustainability. This paper reports the development of an eco-friendly 3DP-UHPFRC by replacing high volume of the cement component of the mixture with fly ash (FA) and/or ground granulated blastfurnace slag (S). Three printable eco-friendly mixtures were prepared in which 60% of the cement was replaced by either 60% FA (S0F60) or 60% S (S60F0) or 30% FA and 30% S (S30F30). All mixtures had 30% silica fume (SF) content, by mass of binder. The fresh properties (i.e., extrudability, buildability, workability, and rheological parameters), the hardened properties (i.e., anisotropic compressive and flexural strengths), and the environmental impacts (i.e., global warming potential (GWP)) of the eco-friendly mixtures were measured and the results were compared with those of the control mixture made with SF but no FA or S (S0F0). The printable eco-friendly mixtures developed in this research have significantly higher environmental sustainability while retaining mechanical performance comparable to the 3DP-UHPFRC. A material efficiency index (MEI) was proposed to compare suitability of the eco-friendly mixtures against the control mixture. The MEI simultaneously considers multiple performance criteria including mechanical and rheological properties, and GWP. The order of MEIs of the mixtures was: S60F0 > S0F0 > S30F30 > S0F60.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../arun_nema_bong_rana.2019.HPo3PUHPFRCfDCA/">Hardened Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction Applications</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -84,8 +62,8 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "61 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_zhu_yu_xiao.2025.DTBoTDPSFRUPC/">Direct Tensile Behavior of Three-Dimensional-Printable Steel Fiber-Reinforced Ultrahigh Performance Concrete</a></li>
@@ -148,4 +126,33 @@ tags:
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{arun_nema_rana_khay.2022.DFoEFUHPFRC,
+      author            = "Arun Ravendran Arunothayan and Behzad Nematollahi and Ravi Ranade and Kamal H. Khayat and Jay Gnananandan Sanjayan",
+      title             = "Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.cemconcomp.2021.104281",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "125",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. R. Arunothayan, B. Nematollahi, R. Ranade, K. H. Khayat and J. G. Sanjayan, “Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete”, <i>Cement and Concrete Composites</i>, vol. 125, 2022, doi: 10.1016/j.cemconcomp.2021.104281.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Arunothayan, Arun Ravendran, Behzad Nematollahi, Ravi Ranade, Kamal H. Khayat, and Jay Gnananandan Sanjayan. “Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete”. <i>Cement and Concrete Composites</i> 125 (2022). https://doi.org/10.1016/j.cemconcomp.2021.104281.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

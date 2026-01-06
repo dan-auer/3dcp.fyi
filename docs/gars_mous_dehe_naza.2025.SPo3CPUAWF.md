@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sajad Garshasbi, Seyed Mousavi, Mehdi Dehestani, Hadi Nazarpour
+    - footer
+title: Garshasbi Sajad, Mousavi Seyed, Dehestani Mehdi, Nazarpour Hadi
 description:
 tags:
  - agriculture
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s41598-025-22153-5.pdf) Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1038/s41598-025-22153-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s41598-025-22153-5</a>
+#Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers ([2025-10](date/2025/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-025-22153-5.pdf) <a href="https://doi.org/10.1038/s41598-025-22153-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-22153-5" target="_blank">10.1038/s41598-025-22153-5</a>
 
--------------------------
+<a href="../../../author/garshasbi_sajad"><b>Garshasbi</b>&nbsp;Sajad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1367-7419" title="ORCID: 0000-0003-1367-7419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dehestani_mehdi"><b>Dehestani</b>&nbsp;Mehdi</a></span>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b>&nbsp;Hadi</a></span><br>
+Journal Article - Scientific Reports, Vol. 15, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>
-,     <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a> <a href="https://orcid.org/0000-0003-1367-7419" title="ORCID: 0000-0003-1367-7419" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Scientific Reports, Vol. 15, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#agriculture`](keyword/agriculture)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/agriculture"><button class="btn">#agriculture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Production%20of%203D%20Concrete%20Printing%20Using%20Agricultural%20Waste%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020652794&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415736939" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s41598-025-22153-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s41598-025-22153-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the feasibility of using bio-waste materials as natural fibers in printability and flexural properties of 3D concrete printing (3DCP). Two sections of small- and large-scale experimental programs were conducted using natural fibers erived from bio-waste of date palm, cob skin, banana, pineapple leaf, and coconut fibers with different volume fractions of 0.1%, 0.15%, 0.2%, and 0.25%. Different tests were conducted in the small-scale program, including flowability, extrudability, buildability, open time, compressive strength, tensile strength, and flexural strength. After achieving an optimum percentage of natural fibers, 3DCP beams were tested under flexural loading. The optimum fiber volume fraction of 0.2% was determined through an experimental program evaluating fresh and mechanical properties, balancing enhanced strength with printability. Findings showed that using recycled bio-fibers enhanced the strength of both cast and 3DCP samples. Incorporating 0.2% by volume of date palm, cob skin, banana, pineapple leaf, or coconut fibers individually led to average increases of 26% in compressive strength, 40% in tensile strength, and 20% in flexural strength, and an average decrease of 10% in flowability and 8% in extrudability compared to mixtures devoid of fibers. Furthermore, the fibers contributed to maintaining the shape and stability of the printed filaments—nonetheless, higher fiber content impaired flowability and extrudability. Future research could explore hybrid fiber systems, advanced additives, and long-term durability to further enhance the sustainability and scalability of fiber-reinforced 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -107,7 +86,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gars_mous_dehe_naza.2025.SPo3CPUAWF,
+      author            = "Sajad Garshasbi and Seyed Sina Mousavi and Mehdi Dehestani and Hadi Nazarpour",
+      title             = "Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers",
+      doi               = "10.1038/s41598-025-22153-5",
+      year              = "2025",
+      journal           = "Scientific Reports",
+      volume            = "15",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Garshasbi, S. S. Mousavi, M. Dehestani and H. Nazarpour, “Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers”, <i>Scientific Reports</i>, vol. 15, no. 1, 2025, doi: 10.1038/s41598-025-22153-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Garshasbi, Sajad, Seyed Sina Mousavi, Mehdi Dehestani, and Hadi Nazarpour. “Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers”. <i>Scientific Reports</i> 15, no. 1 (2025). https://doi.org/10.1038/s41598-025-22153-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

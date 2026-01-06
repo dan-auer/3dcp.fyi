@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,6 +9,6 @@ search:
 
 #  Saude Nasuha 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bakar_syamir-abu_muhammad"><b>Bakar</b> Muhammad</a>, <a href="../../../author/saude_nasuha"><b>Saude</b> Nasuha</a>, <a href="../../../author/ibrahim_mustaffa"><b>Ibrahim</b> Mustaffa</a>, <a href="../../../author/ismail_amira-natasha_nur"><b>Ismail</b> Nur</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../baka_saud_ibra_isma.2023.AM/">Additive Manufacturing:<br/>A Review of Current 3D Concrete Printing on Materials, Methods, Applications, Properties and Challenges</a></li>
 </ol>

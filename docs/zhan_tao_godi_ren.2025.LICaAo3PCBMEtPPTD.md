@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Zhang, Yaxin Tao, Jose Godinho, Qiang Ren, Zhengwu Jiang, Kim Tittelboom, Geert Schutter
+    - footer
+title: Zhang Yi, Tao Yaxin, Godinho Jose, Ren Qiang, Jiang Zhengwu, Tittelboom Kim, Schutter Geert
 description:
 tags:
  - adhesion
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105837" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105837</a>
+#Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105837" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105837" target="_blank">10.1016/j.cemconcomp.2024.105837</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b>&nbsp;Jose</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_qiang"><b>Ren</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_zhengwu"><b>Jiang</b>&nbsp;Zhengwu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 155, No. 105837
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a>
-,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a> <a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 155, No. 105837
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#disturbance`](keyword/disturbance)
-    [`#exposure`](keyword/exposure)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/disturbance"><button class="btn">#disturbance</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Layer%20Interface%20Characteristics%20and%20Adhesion%20of%203D%20Printed%20Cement-Based%20Materials%20Exposed%20to%20Post-Printing%20Temperature%20Disturbance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208298214&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404204909" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105837" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105837?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The layer interface, which is vital for the performance and longevity of 3D printed cement-based materials (3DPCM), is very sensitive to the environmental conditions because of the lack of formwork. Nevertheless, the current limited understanding of how temperature affects the layer interface has restricted the application of 3D printing in different construction scenarios. Here, we revealed the effects of temperature on the multi-scale phase distribution features of the layer interface through mercury intrusion porosimetry, X-ray computed tomography, nanoindentation and scanning electron microscopy with energy dispersive spectroscopy techniques. Additionally, the interlayer bond strength of 3DPCM was evaluated via the splitting tensile test. Small amplitude oscillation, surface roughness and isothermal calorimetry measurements were employed for an in-depth analysis of the mechanisms. Results indicate that an increase in temperature post-printing reduces the discrepancies in aggregate volume fraction between the layer interface and bulk matrix due to the increasing structuration rate and the amount of cement paste at the interface due to the reduced settlement of aggregates. The porosity difference between the layer interface and bulk matrix decreased with increasing temperature due to the pore size refinement by faster filling with hydrates. In addition, a more concentrated distribution of atomic ratios and elastic modulus of hydrates were observed at the layer interface of 3DPCM hardened at higher temperatures. Increased curing temperature improves the interlayer bond strength of 3DPCM owing to the enhanced aggregate interlocking, reduced porosity and improved high-density CSH content.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -115,8 +86,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
       <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
@@ -124,6 +95,35 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tao_yuan_zhan_wang.2025.PSAoPUVT/">Pore Structure Analysis of Printcrete Under Varying Temperature</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cao_cui.2025.SFNPTtR3PC/">Simple Floor Nail Placement Technique to Reinforce 3D-Printed Concrete:<br/>An Experimental Investigation</a></li>
-      <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD,
+      author            = "Yi Zhang and Yaxin Tao and Jose R. A. Godinho and Qiang Ren and Zhengwu Jiang and Kim van Tittelboom and Geert de Schutter",
+      title             = "Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance",
+      doi               = "10.1016/j.cemconcomp.2024.105837",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "155",
+      pages             = "105837",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, “Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance”, <i>Cement and Concrete Composites</i>, vol. 155, p. 105837, 2025, doi: 10.1016/j.cemconcomp.2024.105837.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yi, Yaxin Tao, Jose R. A. Godinho, Qiang Ren, Zhengwu Jiang, Kim van Tittelboom, and Geert de Schutter. “Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance”. <i>Cement and Concrete Composites</i> 155 (2025): 105837. https://doi.org/10.1016/j.cemconcomp.2024.105837.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

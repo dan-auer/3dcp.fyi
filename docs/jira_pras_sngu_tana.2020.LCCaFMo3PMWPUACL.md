@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Patiphat Jiramarootapong, Lapyote Prasittisopin, Chalermwut Snguanyat, Ganchai Tanapornraweekit, Somnuk Tangtermsirikul
+    - footer
+title: Jiramarootapong Patiphat, Prasittisopin Lapyote, Snguanyat Chalermwut, Tanapornraweekit Ganchai, Tangtermsirikul Somnuk
 description:
 tags:
  - axis
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Load Carrying Capacity and Failure Mode of 3D Printing Mortar Wall Panel Under Axial Compression Loading ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_65" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_65</a>
+#Load Carrying Capacity and Failure Mode of 3D Printing Mortar Wall Panel Under Axial Compression Loading ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_65" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_65" target="_blank">10.1007/978-3-030-49916-7_65</a>
 
--------------------------
+<a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b>&nbsp;Patiphat</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b>&nbsp;Lapyote</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b>&nbsp;Chalermwut</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b>&nbsp;Ganchai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2117-327X" title="ORCID: 0000-0003-2117-327X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b>&nbsp;Somnuk</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 646-657
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>
-,     <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a> <a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> <a href="https://orcid.org/0000-0003-2117-327X" title="ORCID: 0000-0003-2117-327X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 646-657
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#capacity`](keyword/capacity)
-    [`#compression`](keyword/compression)
-    [`#failure`](keyword/failure)
-    [`#load`](keyword/load)
-    [`#mode`](keyword/mode)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/mode"><button class="btn">#mode</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Load%20Carrying%20Capacity%20and%20Failure%20Mode%20of%203D%20Printing%20Mortar%20Wall%20Panel%20Under%20Axial%20Compression%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088236583&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,22 +39,17 @@ tags:
 <a href="https://inciteful.xyz/p/W3041731927" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_65" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_65?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A major portion of today’s construction cost is attributed from a labor cost, and this labor cost tends to increase every year. Therefore, construction industries worldwide propose several modern solutions to cut back the labor cost, which consequently lead to lower overall construction cost. A 3D printing (3DP) technology using cement mortar can be one of such solutions proposed to lower the labor cost. Many research programs determining the 3DP concrete panel are being carried out. This study presents results from a scaled test of a complex shaped 3D printed wall panel with the dimension of 1.3 m height by 0.9 m width by 0.125 m thickness. The experiment aims to investigate its load carrying capacity behavior and failure mode under an axial compression loading. Test results indicate that the axial load capacity of the tested 3DP panel is significantly lower than that calculated from the material compressive strength. It is found that the geometry of the scaled panel plays an important role in the hardened performance characteristics. The 3DP wall panel was failed by the panel geometry, not by the maximum material performance due to the delaminating behavior between the layers during loading. The results from this study offers technical information used for a future optimized design of 3D printed structures in terms of shape, amount of material used, load carrying capacity, and possible failure modes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pongpaisanseree_kittisak"><b>Pongpaisanseree</b> Kittisak</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pras_pong_jira_sngu.2020.TaSIoLS3EPWP/">Thermal- and Sound-Insulation of Large-Scale 3D Extrusion-Printing Wall-Panel</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lian_liu_wu.2025.SPo3PRCW/">Seismic Performance of 3D Printed Reinforced Concrete Walls:<br/>Experimental Study and Numerical Simulation</a></li>
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.SAo3PCWUQSCLUCMM/">Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
@@ -88,4 +63,35 @@ tags:
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/sakdanaraseth_thanut"><b>Sakdanaraseth</b> Thanut</a>, <a href="../../../author/horayangkura_vimolsiddhi"><b>Horayangkura</b> Vimolsiddhi</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../pras_sakd_hora.2021.DaCMoa3CPSSCLP/">Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jira_pras_sngu_tana.2020.LCCaFMo3PMWPUACL,
+      author            = "Patiphat Jiramarootapong and Lapyote Prasittisopin and Chalermwut Snguanyat and Ganchai Tanapornraweekit and Somnuk Tangtermsirikul",
+      title             = "Load Carrying Capacity and Failure Mode of 3D Printing Mortar Wall Panel Under Axial Compression Loading",
+      doi               = "10.1007/978-3-030-49916-7_65",
+      year              = "2020",
+      volume            = "28",
+      pages             = "646--657",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Jiramarootapong, L. Prasittisopin, C. Snguanyat, G. Tanapornraweekit and S. Tangtermsirikul, “Load Carrying Capacity and Failure Mode of 3D Printing Mortar Wall Panel Under Axial Compression Loading”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 646–657. doi: 10.1007/978-3-030-49916-7_65.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiramarootapong, Patiphat, Lapyote Prasittisopin, Chalermwut Snguanyat, Ganchai Tanapornraweekit, and Somnuk Tangtermsirikul. “Load Carrying Capacity and Failure Mode of 3D Printing Mortar Wall Panel Under Axial Compression Loading”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:646–57, 2020. https://doi.org/10.1007/978-3-030-49916-7_65.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

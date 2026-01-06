@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lingli Zhu, Jie Yao, Yu Zhao, Wenqiang Ruan, Guang Yang, Xuemao Guan
+    - footer
+title: Zhu Lingli, Yao Jie, Zhao Yu, Ruan Wenqiang, Yang Guang, Guan Xuemao
 description:
 tags:
  - cement
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.jobe.2022.105801" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2022.105801</a>
+#Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites ([2022-12](date/2022/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.105801" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.105801" target="_blank">10.1016/j.jobe.2022.105801</a>
 
--------------------------
+<a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-6814-3941" title="ORCID: 0009-0009-6814-3941" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_jie"><b>Yao</b>&nbsp;Jie</a></span>, <a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b>&nbsp;Wenqiang</a></span>, <a href="../../../author/yang_guang"><b>Yang</b>&nbsp;Guang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guan_xuemao"><b>Guan</b>&nbsp;Xuemao</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 65
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>
-,     <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> <a href="https://orcid.org/0009-0009-6814-3941" title="ORCID: 0009-0009-6814-3941" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>
-,     <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a>
-,     <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>
-,     <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 65, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#engineered`](keyword/engineered)
-    [`#fresh`](keyword/fresh)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#system`](keyword/system)
-    [`#workforce`](keyword/workforce)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Composite%20Cementation%20System%20on%20Rheological%20and%20Working%20Performances%20of%20Fresh%203D%20Printable%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145357546&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313480063" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2022.105801" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2022.105801?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is an efficient digital construction method, and 3DCP compatible reinforcing techniques are constantly being explored. 3D printing engineered cementitious composites (3DP-ECC) play the “self-enhancement” characteristic, which is anticipated to do away with the limitations of traditional reinforcement techniques. A series of experiments were carried out to study the effect of the composite cementation system with different dosages of sulfoaluminate cement (SAC) and ordinary Portland cement (OPC) on the flowability, shape retention, rheological performance, and green strength of the fresh 3DP-ECC. The results of rheological and working performances indicate that the M3 (7.5% SAC) is of suitable open time, and excellent extrudability, buildability and shape-retention-ability behavior, all of which are desirable for 3DP-ECC applications. And a quadratic connection between the static yield stress and green strength was found. In addition, evaluation methods for extrudability and buildability are proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -111,8 +85,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -127,4 +101,33 @@ tags:
       <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/cheng_shengbo"><b>Cheng</b> Shengbo</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../liu_chen_sun_chen.2024.SCBiFMa3PBFB/">Steel-Cable Bonding in Fresh Mortar and 3D Printed Beam Flexural Behavior</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.PaEMPoMCM3PECCBotRSM/">Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC,
+      author            = "Lingli Zhu and Jie Yao and Yu Zhao and Wenqiang Ruan and Guang Yang and Xuemao Guan",
+      title             = "Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites",
+      doi               = "10.1016/j.jobe.2022.105801",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "65",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Zhu, J. Yao, Y. Zhao, W. Ruan, G. Yang and X. Guan, “Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites”, <i>Journal of Building Engineering</i>, vol. 65, 2023, doi: 10.1016/j.jobe.2022.105801.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Lingli, Jie Yao, Yu Zhao, Wenqiang Ruan, Guang Yang, and Xuemao Guan. “Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites”. <i>Journal of Building Engineering</i> 65 (2023). https://doi.org/10.1016/j.jobe.2022.105801.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

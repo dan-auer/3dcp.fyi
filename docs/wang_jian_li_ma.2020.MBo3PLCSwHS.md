@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li Wang, Hailong Jiang, Zhijian Li, Guowei Ma
+    - footer
+title: Wang Li, Jiang Hailong, Li Zhijian, Ma Guowei
 description:
 tags:
  - behavior
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1007/s43452-020-00017-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43452-020-00017-1</a>
+#Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section ([2020-02](date/2020/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s43452-020-00017-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-020-00017-1" target="_blank">10.1007/s43452-020-00017-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/jiang_hailong"><b>Jiang</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Archives of Civil and Mechanical Engineering, Vol. 20, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>
-,     <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Civil and Mechanical Engineering, Vol. 20, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#hollow`](keyword/hollow)
-    [`#light`](keyword/light)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#section`](keyword/section)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Behaviors%20of%203D%20Printed%20Lightweight%20Concrete%20Structure%20with%20Hollow%20Section" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85077501868&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3008172998" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43452-020-00017-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43452-020-00017-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A practical revolution in construction could be realized by combining the potential of 3D concrete printing with lightweight cementitious materials to fabricate adeptly hollow structures. In this study, five concrete mixtures with different replacement rates of lightweight ceramsite sand to silica sand are prepared for extrusion-based 3D printability evaluation. To reduce the water absorption induced shrinkage and micro-cracks, the ceramsite sands were coated with polyvinyl alcohol. An optimized cementitious material was identified by harmonizing the fresh properties to the continuous printing process. Cubic and beam elements with four different types of interior hollow structures were designed and 3D printed based on the optimized lightweight mixture. The interior structures include cellular-shaped structure, truss-like structure, lattice-shaped structure with a square topology, as well as gridding shaped structure with triangle topology. The mechanical capacities of the printed samples were measured and evaluated by compressive tests for the cubic samples and four-points flexural bending tests for the beam specimens. Basing on the results, the rectangular lattice hollow structure demonstrates the best mechanical resistance to compression and the truss-shaped prism structure ensues the highest flexural properties. The stress distribution and failure process were also explored through discrete element method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -80,15 +58,16 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ma_salm_wang_wang.2020.ANAMLICfEILBoCCf3P/">A Novel Additive Mortar Leveraging Internal Curing for Enhancing Inter-Layer Bonding of Cementitious Composite for 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "102 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
+      <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a>, <a href="../../../author/wan_yujia"><b>Wan</b> Yujia</a>, <a href="../../../author/owyong_shawn"><b>Owyong</b> Shawn</a>, <a href="../../../author/connie-lim_en"><b>Connie Lim</b> En</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wan_owyo_conn.2026.TLCC/">Towards Low-Carbon Construction:<br/>Nature-Inspired Internal Patterns for Thermal Insulation in Lightweight Concrete Component Cast Using 3D-Printed Formwork</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
@@ -189,7 +168,35 @@ tags:
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
-      <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../li_wang_ma.2020.MIoCSMCRGCf3PStDLC/">Mechanical Improvement of Continuous Steel-Micro-Cable-Reinforced Geopolymer Composites for 3D Printing Subjected to Different Loading Conditions</a></li>
-      <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ma_li_wang_zhan.2020.RTQoFaHMPf3PMbIwPT/">Real-Time Quantification of Fresh and Hardened Mechanical Property for 3D Printing Material by Intellectualization with Piezoelectric Transducers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_jian_li_ma.2020.MBo3PLCSwHS,
+      author            = "Li Wang and Hailong Jiang and Zhijian Li and Guowei Ma",
+      title             = "Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section",
+      doi               = "10.1007/s43452-020-00017-1",
+      year              = "2020",
+      journal           = "Archives of Civil and Mechanical Engineering",
+      volume            = "20",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, H. Jiang, Z. Li and G. Ma, “Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section”, <i>Archives of Civil and Mechanical Engineering</i>, vol. 20, no. 1, 2020, doi: 10.1007/s43452-020-00017-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Li, Hailong Jiang, Zhijian Li, and Guowei Ma. “Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section”. <i>Archives of Civil and Mechanical Engineering</i> 20, no. 1 (2020). https://doi.org/10.1007/s43452-020-00017-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

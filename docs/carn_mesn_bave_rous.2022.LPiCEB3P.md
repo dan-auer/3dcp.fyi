@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paul Carneau, Romain Mesnil, Olivier Baverel, Nicolas Roussel
+    - footer
+title: Carneau Paul, Mesnil Romain, Baverel Olivier, Roussel Nicolas
 description:
 tags:
  - analysis
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>:aca-blank: Experiments and Analysis ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106741" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106741</a>
+#Layer Pressing in Concrete Extrusion-Based 3D Printing&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">Experiments and Analysis</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.cemconres.2022.106741" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106741" target="_blank">10.1016/j.cemconres.2022.106741</a>
 
--------------------------
+<a href="../../../author/carneau_paul"><b>Carneau</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <a href="../../../author/baverel_olivier"><b>Baverel</b>&nbsp;Olivier</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 155
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 155, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#extrusion`](keyword/extrusion)
-    [`#layer`](keyword/layer)
-    [`#pressing`](keyword/pressing)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/pressing"><button class="btn">#pressing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Layer%20Pressing%20in%20Concrete%20Extrusion-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125657756&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4214811187" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106741" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106741?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Layer Pressing Strategy is widely used in large-scale concrete 3D Printing for its capacity to provide good control over the layer cross-section geometry and, consequently, the final overall printed element geometry. However, although layer pressing ensures exact positioning of the extruded layer upper surface, it may be at the origin of some deformation of the sub-layers, due to the squeezing of the material under the nozzle. In such a complex flow typology, the setting of the printing parameters, namely layer thickness, printing velocity and material flow rate, still mainly result from time-costly experimental trial-and-errors procedures rather than from a rational understanding of the underlying mechanics. The aim of this article is therefore to provide insights on the effects of the printing parameters on the geometry and local stability of the extruded layer. Some upper and lower bound requirements for controlled layer pressing are discussed from the study of the influence of geometric and kinematic parameters, along with fresh material properties. Finally, a generic printing parameters map is proposed, allowing for the classification of the behaviour of the extruded material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
@@ -91,9 +70,11 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "65 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
       <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR/">Assessing Orthotropic Mechanical Performance and Digital Twin of Robotic 3D Printed Cementitious Mortars with Fibers and Metal Reinforcements</a></li>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../yu_zhan_liew_yin.2026.SMFaEDi3CP/">Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing</a></li>
@@ -156,6 +137,34 @@ tags:
       <li><a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a>, <a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/corazza_kiara"><b>Corazza</b> Kiara</a>, <a href="../../../author/fensterseifer_emilia"><b>Fensterseifer</b> Emilia</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../mato_zat_cora_fens.2022.EoTNPotFPo3PCM/">Effect of TiO2 Nano-Particles on the Fresh Performance of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/teng_huaijin"><b>Teng</b> Huaijin</a>, <a href="../../../author/liao_hengcheng"><b>Liao</b> Hengcheng</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../pan_teng_liao_jian.2022.EoSPAoMPo3PCBM/">Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials:<br/>Experimental and Numerical Studies</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{carn_mesn_bave_rous.2022.LPiCEB3P,
+      author            = "Paul Carneau and Romain Mesnil and Olivier Baverel and Nicolas Roussel",
+      title             = "Layer Pressing in Concrete Extrusion-Based 3D Printing: Experiments and Analysis",
+      doi               = "10.1016/j.cemconres.2022.106741",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "155",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Carneau, R. Mesnil, O. Baverel and N. Roussel, “Layer Pressing in Concrete Extrusion-Based 3D Printing: Experiments and Analysis”, <i>Cement and Concrete Research</i>, vol. 155, 2022, doi: 10.1016/j.cemconres.2022.106741.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Carneau, Paul, Romain Mesnil, Olivier Baverel, and Nicolas Roussel. “Layer Pressing in Concrete Extrusion-Based 3D Printing: Experiments and Analysis”. <i>Cement and Concrete Research</i> 155 (2022). https://doi.org/10.1016/j.cemconres.2022.106741.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

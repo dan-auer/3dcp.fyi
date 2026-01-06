@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Toiba Tabassum, Ajaz Ahmad Mir
+    - footer
+title: Tabassum Toiba, Ahmad Mir Ajaz
 description:
 tags:
  - construction
@@ -14,28 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Review of 3D Printing Technology:<br/>:aca-blank: The Future of Sustainable Construction ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.matpr.2023.08.013" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.08.013</a>
+#A Review of 3D Printing Technology&nbsp;([2023-08](date/2023/08))
+<div class="h1-like">The Future of Sustainable Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.08.013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.08.013" target="_blank">10.1016/j.matpr.2023.08.013</a>
 
--------------------------
+<a href="../../../author/tabassum_toiba"><b>Tabassum</b>&nbsp;Toiba</a></span>, <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b>&nbsp;Ajaz</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tabassum_toiba"><b>Tabassum</b> Toiba</a>
-,     <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b> Ajaz</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#future`](keyword/future)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175952429&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385892631" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.08.013" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.08.013?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry has traditionally been slow, labour-intensive, and faced challenges in sustainability. However, recent advancements in 3D concrete printing (3DCP) offer promising solutions for faster, more precise, and sustainable construction practices. This critical review examines the developments and advances in 3D printing of concrete, as well as the challenges and future potential of this technology in sustainable construction. Our study highlights the advantages of 3D printing technology, such as reducing costs, materials, and time, enhancing safety, and minimizing environmental pollution. Moreover, 3D printing enables the creation of complex and intricate designs that were previously challenging to achieve through traditional methods. To address sustainability concerns, we explore eco-friendly alternatives like high-volume fly ash, geopolymers, and recycled glass aggregates that can be utilized in 3D printing. These materials not only reduce environmental impact but also enhance the long-term strength performance of building components. While discussing the different 3D printing methods, including extrusion and powder-based techniques, we emphasize the potential applications of each method in sustainable construction. In conclusion, 3D printing technology has the potential to transform the construction industry by offering low-cost, efficient, and environmentally responsible solutions. However, challenges like job implications and structural stability must be addressed through further research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -71,14 +54,13 @@ tags:
       <li><a href="../../../author/luhar_salmabanu"><b>Luhar</b> Salmabanu</a>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/luhar_ismail"><b>Luhar</b> Ismail</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../luha_sunt_nava_luha.2020.SaRBBNFaIAf3PC/">Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/shafqat_ali"><b>Shafqat</b> Ali</a>, <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>, <a href="../../../author/okland_andreas"><b>Økland</b> Andreas</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../olss_shaf_aric_kla.2019.3PTiC/">3D Printing Technology in Construction:<br/>Results from a Survey</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
-      <li><a href="../../../author/tabassum_toiba"><b>Tabassum</b> Toiba</a>, <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b> Ajaz</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../taba_ahma.2023.ARo3PT/">A Review of 3D Printing Technology:<br/>The Future of Sustainable Construction</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/ahamed_mn_n"><b>Ahamed</b> N.</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../tay_pand_ting_aham.2020.3PfSC/">3D Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../teiz_blic_king_leit.2016.LS3PoCGSiC/">Large-Scale 3D Printing of Complex Geometric Shapes in Construction</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khou_chei_schu_caza.2025.UVMf3PoMMwRS/">Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand</a></li>
@@ -101,6 +83,33 @@ tags:
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yous_rash_koc.2024.PTfS3PoCS/">Parameter-Tuning for Sustainable 3D Printing of Clay Structures</a></li>
       <li><a href="../../../author/mohamed_abdelrahim_rania"><b>Mohamed</b> Rania</a>, <a href="../../../author/mohamed_farouk-a_abdelaziz"><b>Mohamed</b> Abdelaziz</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_moha.2024.EtEBo3PTiCC/">Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction:<br/>A Review</a></li>
-      <li><a href="../../../author/tabassum_toiba"><b>Tabassum</b> Toiba</a>, <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b> Ajaz</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../taba_ahma.2023.ARo3PT/">A Review of 3D Printing Technology:<br/>The Future of Sustainable Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{taba_ahma.2023.ARo3PT,
+      author            = "Toiba Tabassum and Ajaz Ahmad Mir",
+      title             = "A Review of 3D Printing Technology: The Future of Sustainable Construction",
+      doi               = "10.1016/j.matpr.2023.08.013",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Tabassum  and A. A. Mir, “A Review of 3D Printing Technology: The Future of Sustainable Construction”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.08.013.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tabassum, Toiba, and Ajaz Ahmad Mir. “A Review of 3D Printing Technology: The Future of Sustainable Construction”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.08.013.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

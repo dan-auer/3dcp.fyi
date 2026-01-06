@@ -8,7 +8,7 @@ search:
 
 # #result
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../freu_davi_drod_lowk.2024.VSRI/">Vibrated Short Rebar Insertion:<br/>The Effect of Integration Time on the Resulting Bond Quality</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorr_davi_freu_lowk.2024.SPoS3PCEUaRTD/">Surface Processing of Shotcrete 3D Printed Concrete Elements Using a Rotating Trowel Disc:<br/>Influence of Timing on Resulting Surface Quality</a></li>

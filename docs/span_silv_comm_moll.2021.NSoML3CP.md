@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jon Spangenberg, Wilson Silva, Raphaël Comminal, Md. Mollah, Thomas Andersen, Henrik Stang
+    - footer
+title: Spangenberg Jon, Silva Wilson, Comminal Raphaël, Mollah Md., Andersen Thomas, Stang Henrik
 description:
 tags:
  - concrete
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://letters.rilem.net/index.php/rilem/article/download/142/145) Numerical Simulation of Multi-Layer 3D Concrete Printing ([2021-10](date/2021/10))
-<a href="https://doi.org/10.21809/rilemtechlett.2021.142" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21809/rilemtechlett.2021.142</a>
+#Numerical Simulation of Multi-Layer 3D Concrete Printing ([2021-10](date/2021/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://letters.rilem.net/index.php/rilem/article/download/142/145) <a href="https://doi.org/10.21809/rilemtechlett.2021.142" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2021.142" target="_blank">10.21809/rilemtechlett.2021.142</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/comminal_raphael"><b>Comminal</b>&nbsp;Raphaël</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mollah_tusher_md"><b>Mollah</b>&nbsp;Md.</a></span>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5812-4028" title="ORCID: 0000-0002-5812-4028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stang_henrik"><b>Stang</b>&nbsp;Henrik</a></span><br>
+Journal Article - RILEM Technical Letters, Vol. 6, pp. 119-123
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> <a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> <a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> <a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>
-,     <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> <a href="https://orcid.org/0000-0002-5812-4028" title="ORCID: 0000-0002-5812-4028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - RILEM Technical Letters, Vol. 6, pp. 119-123
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#layer`](keyword/layer)
-    [`#multi`](keyword/multi)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20of%20Multi-Layer%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119604975&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3206897274" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21809/rilemtechlett.2021.142" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21809/rilemtechlett.2021.142?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a computational fluid dynamics model fit for multi‐layer 3D Concrete Printing. The numerical model utilizes an elasto‐visco‐plastic constitutive model to mimic the flow behaviour of the cementitious material. To validate the model, simulation data is compared to experimental data from 3D printed walls. The obtained results show that the numerical model can reproduce the experimental results with a high accuracy and quantify the extrusion load imposed upon the layers. Such load is found to exceed the material’s yields stress in certain regions of previously printed layers, leading to layer deformation/flow. The developed and validated numerical model can assist in identifying optimal printing strategies, reducing the number of costly experimental print failures and human‐process interaction. By doing so, the findings of this paper help 3D Concrete Printing move a step closer to a truly digital fabrication process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../comm_silv_ande_stan.2020.IoPPotLGi3CP/">Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing:<br/>Experiments and Modelling</a></li>
@@ -77,8 +55,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/yamakawa_soji"><b>Yamakawa</b> Soji</a>, <a href="../../../author/vazquez-santiago_kyshalee"><b>Vazquez-Santiago</b> Kyshalee</a>, <a href="../../../author/xia_yixuan"><b>Xia</b> Yixuan</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yama_vazq_xia_ogur.2025.CS3PSfNTP/">Concrete Spray 3D Printing Simulator for Nozzle Trajectory Planning</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -115,4 +93,34 @@ tags:
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a></li>
       <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../moll_comm_serd_pede.2022.NPoBLSiMEAM/">Numerical Predictions of Bottom-Layer-Stability in Material-Extrusion Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{span_silv_comm_moll.2021.NSoML3CP,
+      author            = "Jon Spangenberg and Wilson Ricardo Leal da Silva and Raphaël Comminal and Md. Tusher Mollah and Thomas Juul Andersen and Henrik Stang",
+      title             = "Numerical Simulation of Multi-Layer 3D Concrete Printing",
+      doi               = "10.21809/rilemtechlett.2021.142",
+      year              = "2021",
+      journal           = "RILEM Technical Letters",
+      volume            = "6",
+      pages             = "119--123",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Spangenberg, W. R. L. da Silva, R. Comminal, M. T. Mollah, T. J. Andersen and H. Stang, “Numerical Simulation of Multi-Layer 3D Concrete Printing”, <i>RILEM Technical Letters</i>, vol. 6, pp. 119–123, 2021, doi: 10.21809/rilemtechlett.2021.142.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Spangenberg, Jon, Wilson Ricardo Leal da Silva, Raphaël Comminal, Md. Tusher Mollah, Thomas Juul Andersen, and Henrik Stang. “Numerical Simulation of Multi-Layer 3D Concrete Printing”. <i>RILEM Technical Letters</i> 6 (2021): 119–23. https://doi.org/10.21809/rilemtechlett.2021.142.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

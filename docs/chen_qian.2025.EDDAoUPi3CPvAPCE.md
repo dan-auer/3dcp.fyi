@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Baixi Chen, Xiaoping Qian
+    - footer
+title: Chen Baixi, Qian Xiaoping
 description:
 tags:
  - adaption
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.autcon.2025.106414" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106414</a>
+#Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2025.106414" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106414" target="_blank">10.1016/j.autcon.2025.106414</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_baixi"><b>Chen</b>&nbsp;Baixi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9159-9877" title="ORCID: 0000-0002-9159-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_xiaoping"><b>Qian</b>&nbsp;Xiaoping</a></span><br>
+Journal Article - Automation in Construction, Vol. 178, No. 106414
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> <a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="https://orcid.org/0000-0002-9159-9877" title="ORCID: 0000-0002-9159-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 178, No. 106414
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#data`](keyword/data)
-    [`#expansion`](keyword/expansion)
-    [`#explainability`](keyword/explainability)
-    [`#print`](keyword/print)
-    [`#propagation`](keyword/propagation)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/propagation"><button class="btn">#propagation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Explainable%20Data-Driven%20Analysis%20of%20Uncertainty%20Propagation%20in%203D%20Concrete%20Printing%20via%20Adaptive%20Polynomial%20Chaos%20Expansion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011761830&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412901483" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106414" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106414?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Understanding buildability uncertainty during the printing process remains a major challenge in 3D concrete printing (3DCP). This paper investigates how underlying uncertainty sources influence buildability in 3DCP. An explainable data-driven framework is proposed by integrating adaptive polynomial chaos expansion (aPCE) with Shapley additive explanation (SHAP) to efficiently analyze uncertainty propagation in 3DCP and interpret its underlying mechanisms. Applied to two diverse 3DCP scenarios (a straight wall and a hollow cylinder), the framework achieves accuracy comparable to Monte Carlo simulations with 90% less computational cost, while effectively capturing uncertainty propagation patterns and identifying dominant drivers of buildability uncertainty among potential uncertainty sources. The findings are valuable for 3DCP practitioners and can provide them with actionable insights for mitigating buildability uncertainty, thereby improving the reliability of the printing process. These insights also motivate future research on controlling variability in dominant factors and developing uncertainty-aware process optimization strategies for 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
@@ -112,9 +92,39 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_qian.2025.EDDAoUPi3CPvAPCE,
+      author            = "Baixi Chen and Xiaoping Qian",
+      title             = "Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion",
+      doi               = "10.1016/j.autcon.2025.106414",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "178",
+      pages             = "106414",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Chen  and X. Qian, “Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion”, <i>Automation in Construction</i>, vol. 178, p. 106414, 2025, doi: 10.1016/j.autcon.2025.106414.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Baixi, and Xiaoping Qian. “Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion”. <i>Automation in Construction</i> 178 (2025): 106414. https://doi.org/10.1016/j.autcon.2025.106414.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

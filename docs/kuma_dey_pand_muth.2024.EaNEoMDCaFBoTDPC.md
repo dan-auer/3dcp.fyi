@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lalit Kumar, Dhrutiman Dey, Biranchi Panda, Nelson Muthu
+    - footer
+title: Kumar Lalit, Dey Dhrutiman, Panda Biranchi, Muthu Nelson
 description:
 tags:
  - behavior
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental and Numerical Evaluation of Multi-Directional Compressive and Flexure Behavior of Three-Dimensional Printed Concrete ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1007/s11709-023-0004-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-023-0004-z</a>
+#Experimental and Numerical Evaluation of Multi-Directional Compressive and Flexure Behavior of Three-Dimensional Printed Concrete ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-023-0004-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0004-z" target="_blank">10.1007/s11709-023-0004-z</a>
 
--------------------------
+<a href="../../../author/kumar_lalit"><b>Kumar</b>&nbsp;Lalit</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dey_dhrutiman"><b>Dey</b>&nbsp;Dhrutiman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2589-3234" title="ORCID: 0000-0002-2589-3234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthu_nelson"><b>Muthu</b>&nbsp;Nelson</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>
-,     <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> <a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="https://orcid.org/0000-0002-2589-3234" title="ORCID: 0000-0002-2589-3234" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#direction`](keyword/direction)
-    [`#evaluation`](keyword/evaluation)
-    [`#experiment`](keyword/experiment)
-    [`#flexural`](keyword/flexural)
-    [`#multi`](keyword/multi)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20Numerical%20Evaluation%20of%20Multi-Directional%20Compressive%20and%20Flexure%20Behavior%20of%20Three-Dimensional%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182143254&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390755694" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-023-0004-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-023-0004-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) can proliferate the industrialization of the construction sector, which is notoriously conservative and indolent toward changes. However, the mechanical behavior of 3DCP should be characterized and modeled considering the interfaces when its performance is thoroughly compared to that of the existing concrete construction methods. This study presents an experimental and numerical investigation of uniaxial compression and three-point bending (TPB) tests on extruded 3DCP beams in different loading directions. The orientation of translational and depositional interfaces with respect to the direction of loading influenced the strength. Both the elastic and post-damage behavior of the 3DCP specimens were compared with those of the conventionally cast specimen under quasi-static loading conditions. Despite the higher compressive strength of the casted specimen, the flexural strength of the 3DCP specimens was higher. This study employed the finite element and cohesive zone models of the appropriate calibrated traction-separation law to model fracture in the notched TPB specimens. Furthermore, the real-time acoustic emission test revealed the nature of failure phenomenon of three-dimensional-printed specimens under flexion, and accordingly, the cohesive law was chosen. The predicted load-displacement responses are in good agreement with the experimental results. Finally, the effects of cohesive thickness and notch shape on the performance under bending were explored through parametric studies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -100,8 +74,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/sharma_deepak"><b>Sharma</b> Deepak</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sahu_shar_pand.2025.TTOLCBDfAM/">Tailoring Topology-Optimized Lightweight Concrete Beam Design for Additive Manufacturing</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/kumar_gaurav"><b>Kumar</b> Gaurav</a>, <a href="../../../author/prasad_durga_ventrapragada"><b>Prasad</b> Ventrapragada</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../dey_kuma_pras_pand.2025.EIoTPo3PSIwLCaI/">Experimental Investigation of Thermal Performance of 3D Printed Slab Infused with Lightweight Concrete as Insulation</a></li>
@@ -114,4 +88,32 @@ tags:
       <li><a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_sent.2024.3PCUPPC/">3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>Fly-Ash-Based</a></li>
       <li><a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a>, <a href="../../../author/pimpalshende_anjusha"><b>Pimpalshende</b> Anjusha</a>, <a href="../../../author/chandak_a_mayuri"><b>Chandak</b> Mayuri</a>, <a href="../../../author/patil_r_tejas"><b>Patil</b> Tejas</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../raut_pimp_chan_pati.2025.ANMMFf3PFRPCUAAMT/">A Novel Multi-Method Framework for 3D Printed Fiber-Reinforced Polymer Concrete Utilizing Advance Additive Manufacturing Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kuma_dey_pand_muth.2024.EaNEoMDCaFBoTDPC,
+      author            = "Lalit Kumar and Dhrutiman Dey and Biranchi Narayan Panda and Nelson Muthu",
+      title             = "Experimental and Numerical Evaluation of Multi-Directional Compressive and Flexure Behavior of Three-Dimensional Printed Concrete",
+      doi               = "10.1007/s11709-023-0004-z",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Kumar, D. Dey, B. N. Panda and N. Muthu, “Experimental and Numerical Evaluation of Multi-Directional Compressive and Flexure Behavior of Three-Dimensional Printed Concrete”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-023-0004-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kumar, Lalit, Dhrutiman Dey, Biranchi Narayan Panda, and Nelson Muthu. “Experimental and Numerical Evaluation of Multi-Directional Compressive and Flexure Behavior of Three-Dimensional Printed Concrete”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-023-0004-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

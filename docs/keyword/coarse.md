@@ -8,7 +8,7 @@ search:
 
 # #coarse
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
   <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC/">Some Insights on Role of Water Film-Thickness in Rheology of Coarse Aggregate-Based 3D Printable Concrete</a></li>
   <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>

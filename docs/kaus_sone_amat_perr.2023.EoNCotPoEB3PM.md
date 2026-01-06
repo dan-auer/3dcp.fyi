@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sandipan Kaushik, Mohammed Sonebi, Giuseppina Amato, Arnaud Perrot, Utpal Das
+    - footer
+title: Kaushik Sandipan, Sonebi Mohammed, Amato Giuseppina, Perrot Arnaud, Das Utpal
 description:
 tags:
  - base
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.17756/nwj.2023-s2-010) Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar ([2023-09](date/2023/09))
-<a href="https://doi.org/10.17756/nwj.2023-s2-010" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.17756/nwj.2023-s2-010</a>
+#Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar ([2023-09](date/2023/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.17756/nwj.2023-s2-010) <a href="https://doi.org/10.17756/nwj.2023-s2-010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17756/nwj.2023-s2-010" target="_blank">10.17756/nwj.2023-s2-010</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaushik_sandipan"><b>Kaushik</b>&nbsp;Sandipan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amato_giuseppina"><b>Amato</b>&nbsp;Giuseppina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6400-1083" title="ORCID: 0000-0002-6400-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_kumar_utpal"><b>Das</b>&nbsp;Utpal</a></span><br>
+Journal Article - NanoWorld Journal, Vol. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a> <a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a> <a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/das_kumar_utpal"><b>Das</b> Utpal</a> <a href="https://orcid.org/0000-0002-6400-1083" title="ORCID: 0000-0002-6400-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - NanoWorld Journal, Vol. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#clay`](keyword/clay)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Nano-Clay%20on%20the%20Printability%20of%20Extrusion-Based%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174294878&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388070836" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.17756/nwj.2023-s2-010" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.17756/nwj.2023-s2-010?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D concrete printing (3DCP) requires a balance between high yield stress for self-support and the ability to extrude mortar filaments at larger buildable heights. However, a higher yield stress, while advantageous for buildability, can hinder extrudability as it affects material fluidity. Increased yield stress results in greater extrusion effort, leading to surface flaws in the filaments. Incorporating nanoclay into the mix can enhance yield stress without compromising flow properties. Nonetheless, due to evolving rheological properties over time, there are constraints on the timing and dosage of nanoclay for efficient utilization. To overcome these limitations, a printability box is developed, utilizing consistency and yield stress values to define feasible boundaries for extrudable and buildable 3D printable mortar with minimal surface flaws or shape alteration. The printable mortar composition includes cement, fly ash, basalt fiber, superplasticizer, and nanoclay, with a maximum aggregate size of 1.18 mm. Increasing nanoclay dosage improves printability by reducing layer modification and shape deformation while significantly boosting compressive strength. Considering the exposure of cement-based materials to compressive stresses in 3D printing applications, especially in lower layers, the study employs an unconfined uniaxial compression test (UUCT) to assess whether the printable mortar can sustain compressive stress without significant deformation. The compressive strength of fresh mortar filaments increases notably with higher nanoclay content compared to the reference. The objective of this study is to determine the optimal mortar mixture with the highest nanoclay dosage that maintains printability while enduring sufficient compressive stress during and after printing. This research contributes to enhancing the understanding and development of printable cementitious materials, ensuring their stability, and enabling successful 3D concrete printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
@@ -77,9 +56,38 @@ tags:
       <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>, <a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b> Ahmed</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sone_dede_abda_perr.2021.EoRMNCaNFoFaRPoTDCP/">Effect of Red Mud, Nano-Clay, and Natural Fiber on Fresh and Rheological Properties of Three-Dimensional Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kaus_sone_amat_perr.2023.EoNCotPoEB3PM,
+      author            = "Sandipan Kaushik and Mohammed Sonebi and Giuseppina Amato and Arnaud Perrot and Utpal Kumar Das",
+      title             = "Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar",
+      doi               = "10.17756/nwj.2023-s2-010",
+      year              = "2023",
+      journal           = "NanoWorld Journal",
+      volume            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Kaushik, M. Sonebi, G. Amato, A. Perrot and U. K. Das, “Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar”, <i>NanoWorld Journal</i>, vol. 9, 2023, doi: 10.17756/nwj.2023-s2-010.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kaushik, Sandipan, Mohammed Sonebi, Giuseppina Amato, Arnaud Perrot, and Utpal Kumar Das. “Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar”. <i>NanoWorld Journal</i> 9 (2023). https://doi.org/10.17756/nwj.2023-s2-010.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

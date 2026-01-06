@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kuangnan Zhong, Kaiyun Huang, Zhichao Liu, Fazhou Wang, Shuguang Hu
+    - footer
+title: Zhong Kuangnan, Huang Kaiyun, Liu Zhichao, Wang Fazhou, Hu Shuguang
 description:
 tags:
  - additive
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1021/acssuschemeng.4c03018" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1021/acssuschemeng.4c03018</a>
+#CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1021/acssuschemeng.4c03018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1021/acssuschemeng.4c03018" target="_blank">10.1021/acssuschemeng.4c03018</a>
 
--------------------------
+<a href="../../../author/zhong_kuangnan"><b>Zhong</b>&nbsp;Kuangnan</a></span>, <a href="../../../author/huang_kaiyun"><b>Huang</b>&nbsp;Kaiyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0678-4606" title="ORCID: 0000-0002-0678-4606" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhichao"><b>Liu</b>&nbsp;Zhichao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9376-5632" title="ORCID: 0000-0001-9376-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_fazhou"><b>Wang</b>&nbsp;Fazhou</a></span>, <a href="../../../author/hu_shuguang"><b>Hu</b>&nbsp;Shuguang</a></span><br>
+Journal Article - ACS Sustainable Chemistry & Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>
-,     <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>
-,     <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a> <a href="https://orcid.org/0000-0002-0678-4606" title="ORCID: 0000-0002-0678-4606" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> <a href="https://orcid.org/0000-0001-9376-5632" title="ORCID: 0000-0001-9376-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hu_shuguang"><b>Hu</b> Shuguang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACS Sustainable Chemistry & Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#co2`](keyword/co2)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mortar`](keyword/mortar)
-    [`#slag`](keyword/slag)
-    [`#steel`](keyword/steel)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=CO2-Driven%20Additive%20Manufacturing%20of%20Sustainable%20Steel-Slag-Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198203773&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400466794" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1021/acssuschemeng.4c03018" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1021/acssuschemeng.4c03018?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study presents a sustainable additive manufacturing approach for 3D printing in construction sector, leveraging steel slag as the primary carbonatable binder. Pintable steel slag mortars modified with xanthan gum (XG) as the viscosity modifying agents (VMA) demonstrate superior carbonation reactivity and strength development, thus regarded as the optimal formulation. After 24 h carbonation, the compressive strength of the printed samples generally exceeds 100 MPa and reaches up to 127.1 MPa, the characteristic interlayer bonding strength of the printed samples also reaches 5.5 MPa. Superior mechanical properties can be attributed to the densification and reinforcement mechanisms from the magnesium calcite products. Specifically, the larger magnesium calcite crystals intergrow to densify the matrix, while the tiny crystallites deposit on internal pore walls, repairing these defects. The carbonated printed samples exhibit typical mechanical property anisotropy which, associated with deposition molding process, is further amplified by heterogeneity in the carbonation reaction. Low carbon steel slag feedstock and CO2 capture from carbonation curing achieves net CO2 sequestration for the steel slag 3D printing mortar across the integrated manufacturing cycle, with a quantified carbon footprint of −86.77 kg CO2/m3.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
@@ -103,9 +81,37 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhon_huan_liu_wang.2025.DSfECCi3PSSM/">Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>Material Modification and Curing Process Innovation</a></li>
       <li><a href="../../../author/jankovsky_ondrej"><b>Jankovský</b> Ondřej</a>, <a href="../../../author/lodnanek_petr"><b>Lodňánek</b> Petr</a>, <a href="../../../author/lauermannova_anna-marie"><b>Lauermannová</b> Anna-Marie</a>, <a href="../../../author/jirickova_adela"><b>Jiříčková</b> Adéla</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../jank_lodn_laue_jiri.2025.UoLFSaFRiMOC/">Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement:<br/>Towards Sustainable 3D-Printable Building Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhon_huan_liu_wang.2024.CDAMoSSSM,
+      author            = "Kuangnan Zhong and Kaiyun Huang and Zhichao Liu and Fazhou Wang and Shuguang Hu",
+      title             = "CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars",
+      doi               = "10.1021/acssuschemeng.4c03018",
+      year              = "2024",
+      journal           = "ACS Sustainable Chemistry & Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Zhong, K. Huang, Z. Liu, F. Wang and S. Hu, “CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars”, <i>ACS Sustainable Chemistry & Engineering</i>, 2024, doi: 10.1021/acssuschemeng.4c03018.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhong, Kuangnan, Kaiyun Huang, Zhichao Liu, Fazhou Wang, and Shuguang Hu. “CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars”. <i>ACS Sustainable Chemistry & Engineering</i>, 2024. https://doi.org/10.1021/acssuschemeng.4c03018.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

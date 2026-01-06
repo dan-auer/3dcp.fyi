@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Khalid Abbaoui, Issam Korachi, Md. Mollah, Jon Spangenberg
+    - footer
+title: Abbaoui Khalid, Korachi Issam, Mollah Md., Spangenberg Jon
 description:
 tags:
  - concrete
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://backend.orbit.dtu.dk/ws/files/335411401/071-079-3-Abbaoui-40108.pdf) Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing ([2023-06](date/2023/06))
-<a href="https://doi.org/10.5604/01.3001.0053.8488" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.5604/01.3001.0053.8488</a>
+#Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://backend.orbit.dtu.dk/ws/files/335411401/071-079-3-Abbaoui-40108.pdf) <a href="https://doi.org/10.5604/01.3001.0053.8488" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5604/01.3001.0053.8488" target="_blank">10.5604/01.3001.0053.8488</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5007-7714" title="ORCID: 0000-0002-5007-7714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abbaoui_khalid"><b>el&nbsp;Abbaoui</b>&nbsp;Khalid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2532-6181" title="ORCID: 0000-0003-2532-6181" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korachi_issam"><b>al&nbsp;Korachi</b>&nbsp;Issam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mollah_tusher_md"><b>Mollah</b>&nbsp;Md.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
+Journal Article - Archives of Materials Science and Engineering, Vol. 121, Iss. 2, pp. 71-79
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abbaoui_khalid"><b>el Abbaoui</b> Khalid</a> <a href="https://orcid.org/0000-0002-5007-7714" title="ORCID: 0000-0002-5007-7714" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korachi_issam"><b>al Korachi</b> Issam</a> <a href="https://orcid.org/0000-0003-2532-6181" title="ORCID: 0000-0003-2532-6181" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> <a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Materials Science and Engineering, Vol. 121, Iss. 2, pp. 71-79
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#corner`](keyword/corner)
-    [`#deposition`](keyword/deposition)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/corner"><button class="btn">#corner</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Modelling%20of%20Planned%20Corner-Deposition%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85168972060&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386057700" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.5604/01.3001.0053.8488" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.5604/01.3001.0053.8488?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Purpose: Analysis of different path planning strategies and the effects of changing printhead direction in the geometrical conformity and the process precision around 90° corner in order to enable a simple and cost-effective way of facilitating the determination of an optimal printing mode for fast and accurate print corners in 3D concrete printing. Design/methodology/approach: The material flow is characterized by a viscoplastic Bingham fluid. The printhead moves according to a prescribed speed to print the trajectory. The model solves the Navier-Stokes equations and uses the volume of fluid (VOF) technique. The acceleration steps and jerk (j) carry out the direction change. A smoothing factor is provided to smooth the toolpath. Several simulations were performed by varying the smoothing factor and jerk. Findings: Overfilling at the sharp corner was found when the printhead velocity was kept constant while extruding mortar at a fixed extrusion velocity; however, proportional extrusion velocity with the printhead motion has improved the quality of the corner. Otherwise, a slight improvement in the corner shape related to applying a jerk was found. Research limitations/implications: The Computational Fluid Dynamics (CFD) model could take an important amount of computing time to solve the problem; however, it serves as an efficient tool for accelerating different costly and time-consuming path planning processes for 3D concrete printing. Smaller angles and tilted printhead positions should be numerically and experimentally investigated in future research. Practical implications: The developed CFD model is suited for executing parametric studies in parallel to determine the appropriate printing motion strategy for each trajectory with corners. Originality/value: Computational Fluid Dynamics investigation of the path planning strategy for printing trajectory with a right-angle corner in 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../comm_serd_pede_span.2019.MPaNSoMDaCiEAM/">Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../comm_silv_ande_stan.2020.IoPPotLGi3CP/">Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing:<br/>Experiments and Modelling</a></li>
@@ -77,9 +57,40 @@ tags:
       <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../span_silv_moll_comm.2022.IRw3CP/">Integrating Reinforcement with 3D Concrete Printing:<br/>Experiments and Numerical Modelling</a></li>
       <li><a href="../../../author/tuvayanond_wiput"><b>Tuvayanond</b> Wiput</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tuva_pras.2023.DfMaAoDFaAMiC/">Design for Manufacture and Assembly of Digital Fabrication and Additive Manufacturing in Construction:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/musathik_am_a"><b>Musathik</b> A.</a>, <a href="../../../author/ashfak_hm_m"><b>Ashfak</b> M.</a>, <a href="../../../author/arif_ama_m"><b>Arif</b> M.</a>, <a href="../../../author/samaraweera_gtd_b"><b>Samaraweera</b> B.</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../musa_ashf_arif_sama.2025.TSC/">Towards Smart Construction:<br/>Development of an Automated Small Scale 3D Concrete Printer</a></li>
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abba_kora_moll_span.2023.NMoPCDi3CP,
+      author            = "Khalid El Abbaoui and Issam Al Korachi and Md. Tusher Mollah and Jon Spangenberg",
+      title             = "Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing",
+      doi               = "10.5604/01.3001.0053.8488",
+      year              = "2023",
+      journal           = "Archives of Materials Science and Engineering",
+      volume            = "121",
+      number            = "2",
+      pages             = "71--79",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. E. Abbaoui, I. A. Korachi, M. T. Mollah and J. Spangenberg, “Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing”, <i>Archives of Materials Science and Engineering</i>, vol. 121, no. 2, pp. 71–79, 2023, doi: 10.5604/01.3001.0053.8488.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abbaoui, Khalid El, Issam Al Korachi, Md. Tusher Mollah, and Jon Spangenberg. “Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing”. <i>Archives of Materials Science and Engineering</i> 121, no. 2 (2023): 71–79. https://doi.org/10.5604/01.3001.0053.8488.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

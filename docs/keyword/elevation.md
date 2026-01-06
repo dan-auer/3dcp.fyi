@@ -8,7 +8,7 @@ search:
 
 # #elevation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
   <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
   <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_sun_chen_liu.2025.3PCwRMI/">3D Printed Concrete with Red Mud Incorporation:<br/>Influence of Red Mud Manufacturing Procedures on Mechanical Properties at Elevated Temperatures</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ksenija Vasilić
+    - footer
+title: Vasilić Ksenija
 description:
 tags:
  - aspects
@@ -12,25 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.21809/rilemtechlett.2024.201) Standardization Aspects of Concrete 3D Printing ([2025-02](date/2025/02))
-<a href="https://doi.org/10.21809/rilemtechlett.2024.201" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21809/rilemtechlett.2024.201</a>
+#Standardization Aspects of Concrete 3D Printing ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21809/rilemtechlett.2024.201) <a href="https://doi.org/10.21809/rilemtechlett.2024.201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2024.201" target="_blank">10.21809/rilemtechlett.2024.201</a>
 
--------------------------
+<a href="../../../author/vasilic_ksenija"><b>Vasilić</b>&nbsp;Ksenija</a></span><br>
+Journal Article - RILEM Technical Letters, Vol. 9, pp. 98-105
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - RILEM Technical Letters, Vol. 9, pp. 98-105
-
-:aca-blank:{ .lg .middle}
-    [`#aspects`](keyword/aspects)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#standard`](keyword/standard)
-
-
--------------------------
+<a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Standardization%20Aspects%20of%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000775330&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407835189" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21809/rilemtechlett.2024.201" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21809/rilemtechlett.2024.201?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication with concrete has the potential to contribute to sustainability as a resource-efficient construction method. However, the absence of standardized testing, processing and approval procedures hinders the widespread adoption of 3D printing in concrete construction. The need for uniform testing procedures and processing requirements is crucial to overcome the complexities, lengthiness, and costliness of current construction processes, ultimately promoting the quality and reliability of 3D printed structures. This paper examines the current state of development, identifies gaps in existing standards, and proposes initial steps towards European-level standardization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -82,9 +67,38 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/maciejewski_yannick"><b>Maciejewski</b> Yannick</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../wege_sten_gehl_maci.2021.AftCotF3PDHiG/">Approval for the Construction of the First 3D Printed Detached House in Germany:<br/>Significance of Large-Scale Element Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yerikania_utami"><b>Yerikania</b> Utami</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/poh_hien_leong"><b>Poh</b> Leong</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yeri_du_poh.2025.ACEIoABoHCM3PC/">A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete</a></li>
-      <li><a href="../../../author/tong_jiaqi"><b>Tong</b> Jiaqi</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>, <a href="../../../author/lv_xiuwen"><b>Lv</b> Xiuwen</a>, <a href="../../../author/ning_wei"><b>Ning</b> Wei</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../tong_ding_lv_ning.2023.EoCRCAotMPo3PRC/">Effect of Carbonated Recycled Coarse Aggregates on the Mechanical Properties of 3D Printed Recycled Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vasi.2024.SAoC3P,
+      author            = "Ksenija Vasilić",
+      title             = "Standardization Aspects of Concrete 3D Printing",
+      doi               = "10.21809/rilemtechlett.2024.201",
+      year              = "2024",
+      journal           = "RILEM Technical Letters",
+      volume            = "9",
+      pages             = "98--105",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Vasilić, “Standardization Aspects of Concrete 3D Printing”, <i>RILEM Technical Letters</i>, vol. 9, pp. 98–105, 2024, doi: 10.21809/rilemtechlett.2024.201.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vasilić, Ksenija. “Standardization Aspects of Concrete 3D Printing”. <i>RILEM Technical Letters</i> 9 (2024): 98–105. https://doi.org/10.21809/rilemtechlett.2024.201.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

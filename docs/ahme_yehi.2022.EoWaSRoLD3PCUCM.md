@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sara Ahmed, Sherif Yehia
+    - footer
+title: Ahmed Sara, Yehia Sherif
 description:
 tags:
  - concrete
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/3/1243/pdf?version=1644375907) Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods ([2022-02](date/2022/02))
-<a href="https://doi.org/10.3390/ma15031243" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15031243</a>
+#Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods ([2022-02](date/2022/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/3/1243/pdf?version=1644375907) <a href="https://doi.org/10.3390/ma15031243" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15031243" target="_blank">10.3390/ma15031243</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8260-5334" title="ORCID: 0000-0001-8260-5334" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3118-5074" title="ORCID: 0000-0002-3118-5074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yehia_a_sherif"><b>Yehia</b>&nbsp;Sherif</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a> <a href="https://orcid.org/0000-0001-8260-5334" title="ORCID: 0000-0001-8260-5334" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="https://orcid.org/0000-0002-3118-5074" title="ORCID: 0000-0002-3118-5074" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#conventional`](keyword/conventional)
-    [`#evaluation`](keyword/evaluation)
-    [`#local`](keyword/local)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#rate`](keyword/rate)
-    [`#structuration`](keyword/structuration)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Workability%20and%20Structuration-Rate%20of%20Locally%20Developed%203D%20Printing%20Concrete%20Using%20Conventional%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124464924&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4210953749" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15031243" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15031243?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is a novel construction method that can bring new horizons to the construction industry. However, there are still many challenges that limit its capabilities. Despite the huge research efforts, to date, there are still no standardized acceptance criteria and guidelines for the evaluation of printing concrete. Therefore, the main objective of this research was to develop 3D printing mixes with different aggregate-to-binder (a/b) ratios (1.2, 1.5, and 1.8) and evaluate it in terms of its fresh printing properties, which include the workability, extrudability, setting time, open time, and buildability. The compressive strengths of cast and printed specimens were also tested to determine the effect of the layering process. The workability was evaluated using commonly used devices in the construction industry (slump and flow table test) and was monitored over time along with the penetration test to indicate the structuration rate of concrete. From the experimental results and observations, the flow test resulted in the best indication of the structuration rate (thixotropy) of concrete, followed by the penetration and slump tests. The a/b ratio affected all the investigated properties of the printing concrete. Higher a/b ratios resulted in increased structuration rate, buildability, and compressive strength of cast specimens. However, for printed specimens, the compressive strength decreased with the increase in a/b ratio due to increased thixotropy. Therefore, from the results of the present investigation, it can be concluded that high a/b ratios (>1.5) are not desirable for printing concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
@@ -92,8 +71,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
@@ -113,4 +92,34 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ahme_yehi.2022.EoWaSRoLD3PCUCM,
+      author            = "Sara Khaled Ahmed and Sherif A. Yehia",
+      title             = "Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods",
+      doi               = "10.3390/ma15031243",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. Ahmed  and S. A. Yehia, “Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods”, <i>Materials</i>, vol. 15, no. 3, 2022, doi: 10.3390/ma15031243.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahmed, Sara Khaled, and Sherif A. Yehia. “Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods”. <i>Materials</i> 15, no. 3 (2022). https://doi.org/10.3390/ma15031243.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sandipan Kaushik, Mohammed Sonebi, Giuseppina Amato, Arnaud Perrot, Utpal Das
+    - footer
+title: Kaushik Sandipan, Sonebi Mohammed, Amato Giuseppina, Perrot Arnaud, Das Utpal
 description:
 tags:
  - behavior
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.matpr.2022.01.108" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2022.01.108</a>
+#Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar ([2022-02](date/2022/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2022.01.108" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2022.01.108" target="_blank">10.1016/j.matpr.2022.01.108</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaushik_sandipan"><b>Kaushik</b>&nbsp;Sandipan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amato_giuseppina"><b>Amato</b>&nbsp;Giuseppina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6400-1083" title="ORCID: 0000-0002-6400-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_kumar_utpal"><b>Das</b>&nbsp;Utpal</a></span><br>
+Journal Article - Materials Today: Proceedings, Vol. 58, pp. 1063-1068
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a> <a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a> <a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/das_kumar_utpal"><b>Das</b> Utpal</a> <a href="https://orcid.org/0000-0002-6400-1083" title="ORCID: 0000-0002-6400-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, Vol. 58, pp. 1063-1068
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#clay`](keyword/clay)
-    [`#fresh`](keyword/fresh)
-    [`#influence`](keyword/influence)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Nano-Clay%20on%20the%20Fresh%20and%20Rheological%20Behavior%20of%203D%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129530758&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213389186" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2022.01.108" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2022.01.108?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is rapidly influencing the construction industry and designing good quality concrete for printing our homes remain a challenge. New materials are being tested for its suitability in a concrete mix. The purpose of this study is to investigate the influence of nanoclay (nC) on fresh and rheological properties of 3D printing concrete. The 3D printing concrete used in this study is prepared by mixing of cement (OPC), fly-ash (FA), basalt fibre (BA), nanoclay (nC) and superplasticizer (SP) with sand at constant water/cement ratio of 0.41. Fresh and rheological properties of this mixture is evaluated with the help of slump flow, cone penetration and cylindrical slump. The amount of nanoclay (nC) in the cementitious mixture is increased from zero to 6 kg/m3. Addition of nanoclay in the cementitious mixture for 3D printing concrete caused an important loss of workability but increased the yield stress of the material, which is attributed to higher cohesiveness of the mix. Adding more nanoclay (nC) in the cementitious mixture not only maintained the desired shape during and after extrusion, but also demonstrated more stable layers, which prevented it from collapsing under gravity and weight of the subsequent layers. A good linear correlation between slump flow, cone penetration test, yield stress and density of the material is established. The aesthetic effect of nanoclay on the cementitious mixture is demonstrated via the extrusion of layers utilising 3D printing mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
@@ -74,8 +52,8 @@ tags:
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../qian_kawa.2016.UoCRPtMSYSaSRoFCP/">Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
       <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
@@ -100,4 +78,34 @@ tags:
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kaus_sone_amat_perr.2022.IoNCotFaRBo3PM,
+      author            = "Sandipan Kaushik and Mohammed Sonebi and Giuseppina Amato and Arnaud Perrot and Utpal Kumar Das",
+      title             = "Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar",
+      doi               = "10.1016/j.matpr.2022.01.108",
+      year              = "2022",
+      journal           = "Materials Today: Proceedings",
+      volume            = "58",
+      pages             = "1063--1068",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Kaushik, M. Sonebi, G. Amato, A. Perrot and U. K. Das, “Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar”, <i>Materials Today: Proceedings</i>, vol. 58, pp. 1063–1068, 2022, doi: 10.1016/j.matpr.2022.01.108.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kaushik, Sandipan, Mohammed Sonebi, Giuseppina Amato, Arnaud Perrot, and Utpal Kumar Das. “Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar”. <i>Materials Today: Proceedings</i> 58 (2022): 1063–68. https://doi.org/10.1016/j.matpr.2022.01.108.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

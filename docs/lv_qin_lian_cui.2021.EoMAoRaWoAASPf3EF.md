@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xuesen Lv, Yao Qin, Hang Liang, Xuemin Cui
+    - footer
+title: Lv Xuesen, Qin Yao, Liang Hang, Cui Xuemin
 description:
 tags:
  - activation
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Modifying-Agent on Rheology and Workability of Alkali-Activated Slag-Paste for 3D Extrusion-Forming ([2021-07](date/2021/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.124062" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.124062</a>
+#Effects of Modifying-Agent on Rheology and Workability of Alkali-Activated Slag-Paste for 3D Extrusion-Forming ([2021-07](date/2021/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.124062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.124062" target="_blank">10.1016/j.conbuildmat.2021.124062</a>
 
--------------------------
+<a href="../../../author/lv_xuesen"><b>Lv</b>&nbsp;Xuesen</a></span>, <a href="../../../author/qin_yao"><b>Qin</b>&nbsp;Yao</a></span>, <a href="../../../author/liang_hang"><b>Liang</b>&nbsp;Hang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1818-8470" title="ORCID: 0000-0003-1818-8470" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_xuemin"><b>Cui</b>&nbsp;Xuemin</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 302
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lv_xuesen"><b>Lv</b> Xuesen</a>
-,     <a href="../../../author/qin_yao"><b>Qin</b> Yao</a>
-,     <a href="../../../author/liang_hang"><b>Liang</b> Hang</a>
-,     <a href="../../../author/cui_xuemin"><b>Cui</b> Xuemin</a> <a href="https://orcid.org/0000-0003-1818-8470" title="ORCID: 0000-0003-1818-8470" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 302, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#agent`](keyword/agent)
-    [`#alkali`](keyword/alkali)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#form`](keyword/form)
-    [`#modification`](keyword/modification)
-    [`#paste`](keyword/paste)
-    [`#rheology`](keyword/rheology)
-    [`#slag`](keyword/slag)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Modifying-Agent%20on%20Rheology%20and%20Workability%20of%20Alkali-Activated%20Slag-Paste%20for%203D%20Extrusion-Forming" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111252110&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,25 +41,22 @@ tags:
 <a href="https://inciteful.xyz/p/W3189643326" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.124062" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.124062?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Improper rheological performances of alkali-activated materials (AAM) may bring about sagging, segregating or bleeding problems in its extrusion application, and subsequently lead to the degradation of durability and mechanical strength. Unfortunately, most Ordinary Portland Cement (OPC) based rheology modifying agents are ineffective for AAM system. In this study, sodium carboxymethyl starch (CMS) is chosen as a feasible viscosity modifying agent for alkali-activated slag (AAS). To in-depth explore the modifying mechanism of CMS, the evolution of rheological parameters including viscosity, yield stress and thixotropy were evaluated and correlated with the structural evaluation and reaction kinetics of AAS. It was found that CMS strongly enhanced the plastic viscosity, yield stress, thixotropy and recoverability of fresh AAS, imparting stable shear thinning behavior with essential properties for 3D extrusion forming requirements. CMS could hydrolyze into intertwined gel, which filled between the AAS particles to strengthen the solid–liquid cohesion. CMS possessed retarding effect, the maximum reaction heat flow decreased from 0.068 to 0.049 μV/mg. Results indicate that CMS has great sense to effectively govern the rheology of AAM, and is expected to contribute towards offering a workability improvement modifying agent for AAM for 3D extrusion forming.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/rahier_hubert"><b>Rahier</b> Hubert</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_chei_rahi.2025.MftDaOoPSASUatBo3PM/">Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
       <li><a href="../../../author/shilton_robert"><b>Shilton</b> Robert</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../shil_wang_bant.2025.UoPaaRMAfAAMf3P/">Use of Polysaccharides as a Rheology-Modifying-Admixture for Alkali-Activated Materials for 3D Printing</a></li>
@@ -93,4 +69,33 @@ tags:
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lv_qin_lian_cui.2021.EoMAoRaWoAASPf3EF,
+      author            = "Xuesen Lv and Yao Qin and Hang Liang and Xuemin Cui",
+      title             = "Effects of Modifying-Agent on Rheology and Workability of Alkali-Activated Slag-Paste for 3D Extrusion-Forming",
+      doi               = "10.1016/j.conbuildmat.2021.124062",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "302",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Lv, Y. Qin, H. Liang and X. Cui, “Effects of Modifying-Agent on Rheology and Workability of Alkali-Activated Slag-Paste for 3D Extrusion-Forming”, <i>Construction and Building Materials</i>, vol. 302, 2021, doi: 10.1016/j.conbuildmat.2021.124062.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lv, Xuesen, Yao Qin, Hang Liang, and Xuemin Cui. “Effects of Modifying-Agent on Rheology and Workability of Alkali-Activated Slag-Paste for 3D Extrusion-Forming”. <i>Construction and Building Materials</i> 302 (2021). https://doi.org/10.1016/j.conbuildmat.2021.124062.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

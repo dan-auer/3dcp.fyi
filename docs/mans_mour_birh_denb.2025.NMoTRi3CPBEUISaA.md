@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abraham Mansouri, Bahaa Mourad, Bezawit Birhane, Nuhamin Denbel, Redet Abreham, Robe Abate, Saron Tesfaye, Venus Tadesse Ewente, Bejay Jayan
+    - footer
+title: Mansouri Abraham, Mourad Bahaa, Birhane Bezawit, Denbel Nuhamin, Abreham Redet, Abate Robe, Tesfaye Saron, Tadesse Ewente Venus, Jayan Bejay
 description:
 tags:
  - buildability
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1002/htj.70117" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/htj.70117</a>
+#Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/htj.70117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/htj.70117" target="_blank">10.1002/htj.70117</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mansouri_abraham"><b>Mansouri</b>&nbsp;Abraham</a></span>, <a href="../../../author/mourad_bahaa"><b>Mourad</b>&nbsp;Bahaa</a></span>, <a href="../../../author/birhane_bezawit"><b>Birhane</b>&nbsp;Bezawit</a></span>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b>&nbsp;Nuhamin</a></span>, <a href="../../../author/abreham_redet"><b>Abreham</b>&nbsp;Redet</a></span>, <a href="../../../author/abate_robe"><b>Abate</b>&nbsp;Robe</a></span>, <a href="../../../author/tesfaye_saron"><b>Tesfaye</b>&nbsp;Saron</a></span>, <a href="../../../author/tadesse-ewente_venus"><b>Tadesse Ewente</b>&nbsp;Venus</a></span>, <a href="../../../author/jayan_bejay"><b>Jayan</b>&nbsp;Bejay</a></span><br>
+Journal Article - Heat Transfer
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> <a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>
-,     <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>
-,     <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a>
-,     <a href="../../../author/abreham_redet"><b>Abreham</b> Redet</a>
-,     <a href="../../../author/abate_robe"><b>Abate</b> Robe</a>
-,     <a href="../../../author/tesfaye_saron"><b>Tesfaye</b> Saron</a>
-,     <a href="../../../author/tadesse-ewente_venus"><b>Tadesse Ewente</b> Venus</a>
-,     <a href="../../../author/jayan_bejay"><b>Jayan</b> Bejay</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Heat Transfer, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#envelope`](keyword/envelope)
-    [`#infrared`](keyword/infrared)
-    [`#measurement`](keyword/measurement)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#sensor`](keyword/sensor)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/infrared"><button class="btn">#infrared</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Noncontact%20Measurement%20of%20Thermal%20Resistance%20in%203D%20Concrete%20Printing%20Building%20Envelopes%20Using%20Infrared%20Sensing%20and%20Arduino" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023449729&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416797642" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/htj.70117" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/htj.70117?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Thermal resistance (R-value) is a key metric for evaluating the energy performance of building envelopes, particularly in emerging technologies like 3D-concrete pinting (3DCP) buildings. However, conventional methods such as heat flux meters (HFM) face challenges in 3DCP applications due to surface roughness, contact-based limitations, and high costs. This study introduces a novel low-cost, noncontact system integrating an MLX90614 infrared sensor and LM35 temperature sensor with an Arduino-based platform, using the Thermometric Method (THM) to estimate R-values from wall surface, indoor, and outdoor temperatures. A novel feature of the system is a dual-servo mechanism that enables spatial temperature mapping over a 5 × 5 cm grid, improving accuracy by replacing traditional single point measurements with area-based readings. Validation against the UVAL Wireless System (greenTEG) showed a maximum error of 13% under steady-state early morning conditions, increasing to 173% in the afternoon due to thermal instability. The proposed method offers a practical, affordable, and non-destructive solution for thermal diagnostics in 3DCP buildings, supporting the development of standardized evaluation protocols for sustainable construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../fern_cald_mend.2023.EEo3PCWCtLCPitCoSH/">Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing</a></li>
       <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
@@ -83,7 +55,35 @@ tags:
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../tami_hass_rodr_alha.2023.TPo3CPW/">Thermal Performance of 3D Concrete Printed Walls:<br/>Calculated and In-Situ Measured U-Values</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA,
+      author            = "Abraham Mansouri and Bahaa Mourad and Bezawit Birhane and Nuhamin Denbel and Redet Abreham and Robe Abate and Saron Tesfaye and Venus Tadesse Ewente and Bejay Jayan",
+      title             = "Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino",
+      doi               = "10.1002/htj.70117",
+      year              = "2025",
+      journal           = "Heat Transfer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mansouri, “Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino”, <i>Heat Transfer</i>, 2025, doi: 10.1002/htj.70117.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mansouri, Abraham, Bahaa Mourad, Bezawit Birhane, Nuhamin Denbel, Redet Abreham, Robe Abate, Saron Tesfaye, Venus Tadesse Ewente, and Bejay Jayan. “Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino”. <i>Heat Transfer</i>, 2025. https://doi.org/10.1002/htj.70117.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

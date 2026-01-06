@@ -8,7 +8,7 @@ search:
 
 # #phase
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
   <li><a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a>, <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/subasi_serkan"><b>Subaşı</b> Serkan</a>, <a href="../../../author/ustaoglu_abid"><b>Ustaoğlu</b> Abid</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../genc_node_suba_usta.2025.Po3PCCMPCM/">Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material</a></li>
   <li><a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/awawdeh_m_najemaldeen"><b>Awawdeh</b> Najemaldeen</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rous_alne_abda_awaw.2025.MoECWU3PCwPCM/">Mitigation of Energy Crisis Worldwide Using 3D-Printed Concrete with Phase Change Materials</a></li>

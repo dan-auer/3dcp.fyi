@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jiehang Zhou, Longyu Du, Jianzhong Lai, Qiang Wang, Saiyang Dong, Yujie Yang
+    - footer
+title: Zhou Jiehang, Du Longyu, Lai Jianzhong, Wang Qiang, Dong Saiyang, Yang Yujie
 description:
 tags:
  - concrete
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Preparation and High-Velocity Impact Experiment for Three-Dimensional-Printed Concrete ([2022-03](date/2022/03))
-<a href="https://doi.org/10.14359/51734353" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51734353</a>
+#Preparation and High-Velocity Impact Experiment for Three-Dimensional-Printed Concrete ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51734353" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51734353" target="_blank">10.14359/51734353</a>
 
--------------------------
+<a href="../../../author/zhou_jiehang"><b>Zhou</b>&nbsp;Jiehang</a></span>, <a href="../../../author/du_longyu"><b>Du</b>&nbsp;Longyu</a></span>, <a href="../../../author/lai_jianzhong"><b>Lai</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span>, <a href="../../../author/dong_saiyang"><b>Dong</b>&nbsp;Saiyang</a></span>, <a href="../../../author/yang_yujie"><b>Yang</b>&nbsp;Yujie</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 119, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>
-,     <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>
-,     <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>
-,     <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>
-,     <a href="../../../author/dong_saiyang"><b>Dong</b> Saiyang</a>
-,     <a href="../../../author/yang_yujie"><b>Yang</b> Yujie</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 119, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#experiment`](keyword/experiment)
-    [`#height`](keyword/height)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-    [`#velocity`](keyword/velocity)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Preparation%20and%20High-Velocity%20Impact%20Experiment%20for%20Three-Dimensional-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134821702&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213095287" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51734353" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51734353?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3-D) printed concrete is a new technology for civil engineering. In this paper, 3-D printed concrete was prepared for a study on static and dynamic properties. The best fluidity of the concrete was researched and the optimization mixture ratio for better mechanical performance was discussed. The mechanical performances of the concrete were tested and the anisotropy phenomenon in 3-D printed concrete was found. The computed tomography (CT) scanning and imaging progress methods were used to discuss the reason for the phenomenon. The penetration experiments were carried out to research the dynamic performance of the 3-D printed concrete. The results of the penetration tests were compared with the empirical formulas. The Young formula was improved according to the results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -89,9 +66,39 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/dijkers_pa_hugo"><b>Dijkers</b> Hugo</a>, <a href="../../../author/simon_h-d_george"><b>Simon</b> George</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../dijk_simo_bos_sale.2023.MCo3PCStHDL/">Material-Characteristics of 3D Printed Concrete Subjected to Highly Dynamic Loading</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_du_lai_wang.2022.PaHVIEfTDPC,
+      author            = "Jiehang Zhou and Longyu Du and Jianzhong Lai and Qiang Wang and Saiyang Dong and Yujie Yang",
+      title             = "Preparation and High-Velocity Impact Experiment for Three-Dimensional-Printed Concrete",
+      doi               = "10.14359/51734353",
+      year              = "2022",
+      journal           = "ACI Materials Journal",
+      volume            = "119",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhou, L. Du, J. Lai, Q. Wang, S. Dong and Y. Yang, “Preparation and High-Velocity Impact Experiment for Three-Dimensional-Printed Concrete”, <i>ACI Materials Journal</i>, vol. 119, no. 2, 2022, doi: 10.14359/51734353.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Jiehang, Longyu Du, Jianzhong Lai, Qiang Wang, Saiyang Dong, and Yujie Yang. “Preparation and High-Velocity Impact Experiment for Three-Dimensional-Printed Concrete”. <i>ACI Materials Journal</i> 119, no. 2 (2022). https://doi.org/10.14359/51734353.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

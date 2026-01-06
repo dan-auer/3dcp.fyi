@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ivaniuk Egor 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/pukhkaiev_dmytro"><b>Pukhkaiev</b> Dmytro</a>, <a href="../../../author/reichle_mathias"><b>Reichle</b> Mathias</a>, <a href="../../../author/zhao_wanqi"><b>Zhao</b> Wanqi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ivan_pukh_reic_zhao.2025.RAoMCSUF/">Robotic Assembly of Modular Concrete Shells Using Falsework</a></li>
   <li><a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/li_dianmo"><b>Li</b> Dianmo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_nere_li_zhan.2024.BACP3PC/">Biochar-Augmented Climate-Positive 3D Printable Concrete</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nivin Philip, Agnieszka Jędrzejewska, Ashitta Mathew, Susan Uthuppan
+    - footer
+title: Philip Nivin, Jędrzejewska Agnieszka, Mathew Ashitta, Uthuppan Susan
 description:
 tags:
  - durability
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1007/s40996-025-02040-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40996-025-02040-9</a>
+#Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40996-025-02040-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-025-02040-9" target="_blank">10.1007/s40996-025-02040-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0353-2630" title="ORCID: 0000-0002-0353-2630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/philip_nivin"><b>Philip</b>&nbsp;Nivin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4395-0447" title="ORCID: 0000-0003-4395-0447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b>&nbsp;Agnieszka</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-4050-9803" title="ORCID: 0009-0000-4050-9803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b>&nbsp;Ashitta</a></span>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b>&nbsp;Susan</a></span><br>
+Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a> <a href="https://orcid.org/0000-0002-0353-2630" title="ORCID: 0000-0002-0353-2630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a> <a href="https://orcid.org/0000-0003-4395-0447" title="ORCID: 0000-0003-4395-0447" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a> <a href="https://orcid.org/0009-0000-4050-9803" title="ORCID: 0009-0000-4050-9803" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#durability`](keyword/durability)
-    [`#environment`](keyword/environment)
-    [`#fiber`](keyword/fiber)
-    [`#improvement`](keyword/improvement)
-    [`#marine`](keyword/marine)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Steel%20Fiber%20Reinforcement%20for%20Improved%20Structural%20Performance%20and%20Durability%20of%203D%20Printed%20Mortar%20in%20Marine%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017389493&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414561699" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40996-025-02040-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40996-025-02040-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the influence of steel fiber reinforcement on the buildability, mechanical properties, and durability of 3D-printed mortar (3DPM) in marine environment. A mortar mix incorporating 0.75% steel fiber (by volume) was compared with a plain control mix. Experimental evaluations included compressive and flexural strength testing, buildability assessment (using 20 mm and 30 mm nozzles), and durability tests addressing water permeability, chloride ingress, and sorptivity. Results demonstrated that steel fibers enhanced compressive strength by 9.3–14.4% and flexural strength by 20.8–75.3%, while enabling stable printing of 500 mm structures with a 20 mm nozzle. However, fiber-reinforced specimens demonstrated increased chloride permeability and sorptivity with respect to plain mortar when cured in seawater and sulphate water. These findings confirm the potential of steel fibers as a viable solution for improving structural performance in 3D-printed concrete while highlighting the need for improved durability in severe environmental conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../alon_blan_cast_yori.2024.CoRFi3PMUMCA/">Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../ambi_kali_seba_shek.2023.MAf3PC/">Mixing Approach for 3D Printable Concrete:<br/>Method of Addition and Optimization of Superplasticizer Dosage</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -98,7 +73,35 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME,
+      author            = "Nivin Philip and Agnieszka Jędrzejewska and Ashitta Mariam Mathew and Susan K. Uthuppan",
+      title             = "Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments",
+      doi               = "10.1007/s40996-025-02040-9",
+      year              = "2025",
+      journal           = "Iranian Journal of Science and Technology, Transactions of Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Philip, A. Jędrzejewska, A. M. Mathew and S. K. Uthuppan, “Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments”, <i>Iranian Journal of Science and Technology, Transactions of Civil Engineering</i>, 2025, doi: 10.1007/s40996-025-02040-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Philip, Nivin, Agnieszka Jędrzejewska, Ashitta Mariam Mathew, and Susan K. Uthuppan. “Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments”. <i>Iranian Journal of Science and Technology, Transactions of Civil Engineering</i>, 2025. https://doi.org/10.1007/s40996-025-02040-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

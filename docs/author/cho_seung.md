@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Cho Seung 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zijl_heev_cho.2023.SR3PC/">SHCC Reinforced 3D Printed Concrete</a></li>
   <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../chri_cho_zijl_vill.2022.PCMIRBAi3PC/">Phase-Change-Material-Infused Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
   <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cho_heev_krug_zijl.2022.PoC/">Proof of Concept:<br/>Sprayable SHCC Overlay Reinforcement Regime for Unreinforced 3D Printed Concrete Structure</a></li>

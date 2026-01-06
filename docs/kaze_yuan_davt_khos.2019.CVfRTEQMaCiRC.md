@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Kazemian, Xiao Yuan, Omid Davtalab, Behrokh Khoshnevis
+    - footer
+title: Kazemian Ali, Yuan Xiao, Davtalab Omid, Khoshnevis Behrokh
 description:
 tags:
  - computer
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction ([2019-01](date/2019/01))
-<a href="https://doi.org/10.1016/j.autcon.2019.01.022" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.01.022</a>
+#Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction ([2019-01](date/2019/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2019.01.022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.01.022" target="_blank">10.1016/j.autcon.2019.01.022</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8033-9287" title="ORCID: 0000-0002-8033-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/davtalab_omid"><b>Davtalab</b>&nbsp;Omid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Automation in Construction, Vol. 101, pp. 92-98
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>
-,     <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a> <a href="https://orcid.org/0000-0002-8033-9287" title="ORCID: 0000-0002-8033-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 101, pp. 92-98
-
-:aca-blank:{ .lg .middle}
-    [`#computer`](keyword/computer)
-    [`#construction`](keyword/construction)
-    [`#control`](keyword/control)
-    [`#extrusion`](keyword/extrusion)
-    [`#monitoring`](keyword/monitoring)
-    [`#quality`](keyword/quality)
-    [`#real`](keyword/real)
-    [`#robot`](keyword/robot)
-    [`#time`](keyword/time)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Computer-Vision%20for%20Real-Time%20Extrusion-Quality-Monitoring%20and%20Control%20in%20Robotic%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85060750147&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2911537418" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.01.022" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.01.022?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, a vision-based real-time extrusion quality monitoring system is developed for robotic construction. Initially, the details related to the extrusion system, data acquisition and processing unit, and the proposed algorithm are discussed. The reliability and responsiveness of the developed system is then evaluated on six determined levels of material variation. To demonstrate its application, the vision algorithm is used to develop an innovative closed-loop extrusion system. This system is able to automatically adjust the extrusion rate based on the vision system feedback. Such self-regulating extrusion system would be able to continuously print layers of acceptable dimensions using any printable mixture, without the need for prior calibration and despite some mixture rheology variations. All in all, the high precision and responsiveness of the developed system demonstrates the great potential for computer vision as a real-time quality monitoring and control tool for robotic construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>, <a href="../../../author/che_haichao"><b>Che</b> Haichao</a> <a href="../../../date/2014/12">(2014-12)</a><br><a href="../../../ding_wei_che.2014.DoaBBACS/">Development of a BIM-Based Automated Construction System</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
@@ -90,8 +66,9 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "75 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
@@ -167,4 +144,34 @@ tags:
       <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pankratow_pawel"><b>Pankratow</b> Paweł</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../hoff_skib_pank_ziel.2020.AitCoa3PCWwtUoaLG/">Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC,
+      author            = "Ali Kazemian and Xiao Yuan and Omid Davtalab and Behrokh Khoshnevis",
+      title             = "Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction",
+      doi               = "10.1016/j.autcon.2019.01.022",
+      year              = "2019",
+      journal           = "Automation in Construction",
+      volume            = "101",
+      pages             = "92--98",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kazemian, X. Yuan, O. Davtalab and B. Khoshnevis, “Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction”, <i>Automation in Construction</i>, vol. 101, pp. 92–98, 2019, doi: 10.1016/j.autcon.2019.01.022.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kazemian, Ali, Xiao Yuan, Omid Davtalab, and Behrokh Khoshnevis. “Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction”. <i>Automation in Construction</i> 101 (2019): 92–98. https://doi.org/10.1016/j.autcon.2019.01.022.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,8 @@ search:
 
 # #elasticity
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_suik.2025.CoEAEPPo3PMUIT/">Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing</a></li>
   <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohd Ali, Rashid Rub, Fawzi Banat, Tae-Yeon Kim
+    - footer
+title: Ali Mohd, Rub Rashid, Banat Fawzi, Kim Tae-Yeon
 description:
 tags:
  - base
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100582) Enhancing the Printing Quality and Mechanical Properties of 3D Printed Cement Composites with Date-Syrup-Based Graphene-Coated-Sand Hybrid ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.dibe.2024.100582" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100582</a>
+#Enhancing the Printing Quality and Mechanical Properties of 3D Printed Cement Composites with Date-Syrup-Based Graphene-Coated-Sand Hybrid ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100582) <a href="https://doi.org/10.1016/j.dibe.2024.100582" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100582" target="_blank">10.1016/j.dibe.2024.100582</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-0465-404X" title="ORCID: 0009-0001-0465-404X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_mukarram_mohd"><b>Ali</b>&nbsp;Mohd</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1255-6949" title="ORCID: 0000-0003-1255-6949" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rub_k-abu_rashid"><b>al&nbsp;Rub</b>&nbsp;Rashid</a></span>, <a href="../../../author/banat_fawzi"><b>Banat</b>&nbsp;Fawzi</a></span>, <a href="../../../author/kim_tae-yeon"><b>Kim</b>&nbsp;Tae-Yeon</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100582
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a> <a href="https://orcid.org/0009-0001-0465-404X" title="ORCID: 0009-0001-0465-404X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rub_k-abu_rashid"><b>al Rub</b> Rashid</a> <a href="https://orcid.org/0000-0003-1255-6949" title="ORCID: 0000-0003-1255-6949" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banat_fawzi"><b>Banat</b> Fawzi</a>
-,     <a href="../../../author/kim_tae-yeon"><b>Kim</b> Tae-Yeon</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100582
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#coat`](keyword/coat)
-    [`#composite`](keyword/composite)
-    [`#enhancement`](keyword/enhancement)
-    [`#graphene`](keyword/graphene)
-    [`#hybrid`](keyword/hybrid)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#quality`](keyword/quality)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20the%20Printing%20Quality%20and%20Mechanical%20Properties%20of%203D%20Printed%20Cement%20Composites%20with%20Date-Syrup-Based%20Graphene-Coated-Sand%20Hybrid" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210133006&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404667413" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100582" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100582?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study addresses the influence of adding date syrup-based graphene-coated sand hybrid (D-GSH) as a partial substitute for sand in 3D-printed cement composites, exploring its potential to enhance both fresh and hardened properties. Incorporating 0.5% D-GSH significantly improved the printing quality compared to the control mix, as evidenced by the reduction in the variance in thickness of double layers from 38% to 28%. In addition, buildability was enhanced by 116% with an open time of 27 min. The rheological properties showed reduced viscosity and shear stress against shear rates, thereby enhancing flowability. Moreover, the addition of 0.5% D-GSH increased the compressive strength, flexural strength, and elastic modulus by 62%, 118%, and 40%, respectively, after 28 days of curing, compared with a mix containing silica fume. Microstructural analysis revealed that D-GSH effectively fills gaps, bridges cracks, and bonds with the hydration products of cement matrix, thus improving the mechanical properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a>, <a href="../../../author/al-rub_k_rashid"><b>Al-Rub</b> Rashid</a>, <a href="../../../author/khaswaneh_bashar"><b>Khaswaneh</b> Bashar</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ali_nass_alr_khas.2024.IoCNToPQaMPo3PCM/">Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
@@ -105,8 +79,37 @@ tags:
       <li><a href="../../../author/tu_haidong"><b>Tu</b> Haidong</a>, <a href="../../../author/wei_zhenyun"><b>Wei</b> Zhenyun</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/kahla_nabil"><b>Kahla</b> Nabil</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tu_wei_bahr_kahl.2023.RAaFTi3PCUWM/">Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a>, <a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/rub_k-abu_rashid"><b>Rub</b> Rashid</a>, <a href="../../../author/cho_cung-suk"><b>Cho</b> Cung-Suk</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../nass_ali_rub_cho.2025.OCBMFf3P/">Optimizing Cement-Based Material Formulation for 3D Printing:<br/>Integrating Carbon Nanotubes and Silica Fume</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ali_rub_bana_kim.2024.EtPQaMPo3PCCwDSBGCSH,
+      author            = "Mohd Mukarram Ali and Rashid K. Abu Al Rub and Fawzi Banat and Tae-Yeon Kim",
+      title             = "Enhancing the Printing Quality and Mechanical Properties of 3D Printed Cement Composites with Date-Syrup-Based Graphene-Coated-Sand Hybrid",
+      doi               = "10.1016/j.dibe.2024.100582",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      pages             = "100582",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. M. Ali, R. K. A. A. Rub, F. Banat and T.-Y. Kim, “Enhancing the Printing Quality and Mechanical Properties of 3D Printed Cement Composites with Date-Syrup-Based Graphene-Coated-Sand Hybrid”, <i>Developments in the Built Environment</i>, p. 100582, 2024, doi: 10.1016/j.dibe.2024.100582.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ali, Mohd Mukarram, Rashid K. Abu Al Rub, Fawzi Banat, and Tae-Yeon Kim. “Enhancing the Printing Quality and Mechanical Properties of 3D Printed Cement Composites with Date-Syrup-Based Graphene-Coated-Sand Hybrid”. <i>Developments in the Built Environment</i>, 2024, 100582. https://doi.org/10.1016/j.dibe.2024.100582.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

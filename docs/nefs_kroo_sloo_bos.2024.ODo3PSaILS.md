@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karsten Nefs, Kim Kroon, Joes Sloots, Freek Bos, Theo Salet
+    - footer
+title: Nefs Karsten, Kroon Kim, Sloots Joes, Bos Freek, Salet Theo
 description:
 tags:
  - dependency
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2024.105515) Orientation-Dependency of 3D Printed SHCC at Increasing Length Scale ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105515" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105515</a>
+#Orientation-Dependency of 3D Printed SHCC at Increasing Length Scale ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105515) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105515" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105515" target="_blank">10.1016/j.cemconcomp.2024.105515</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1328-9689" title="ORCID: 0000-0002-1328-9689" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nefs_karsten"><b>Nefs</b>&nbsp;Karsten</a></span>, <a href="../../../author/kroon_c-j_kim"><b>de&nbsp;Kroon</b>&nbsp;Kim</a></span>, <a href="../../../author/sloots_joes"><b>Sloots</b>&nbsp;Joes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 149, No. 105515
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a> <a href="https://orcid.org/0000-0002-1328-9689" title="ORCID: 0000-0002-1328-9689" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kroon_c-j_kim"><b>de Kroon</b> Kim</a>
-,     <a href="../../../author/sloots_joes"><b>Sloots</b> Joes</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 149, No. 105515
-
-:aca-blank:{ .lg .middle}
-    [`#dependency`](keyword/dependency)
-    [`#increase`](keyword/increase)
-    [`#length`](keyword/length)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/increase"><button class="btn">#increase</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Orientation-Dependency%20of%203D%20Printed%20SHCC%20at%20Increasing%20Length%20Scale" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188745216&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393102942" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105515" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105515?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the first part of this study, the inclination-dependent effects on a single fibre embedded in 3D printable strain hardening cementitious composite are studied. Two distinct failure modes (i.e., slipping rupture and complete pull-out) were found in the experimental results. Based on these failure modes two separate sliphardening factors have been determined and analysed with an analytical fibre pull-out model. The second part of the study focused on the influence of multiple fibres with varying inclination angles on single- and multiple-cracking specimens. These tests have been performed for specimens that were casted and printed, to analyse the effect on ductility due to the extrusion process. Three orthogonal directions were examined within the printed specimens during testing. The amount of energy dissipated during the crack opening is strongly orientation-dependent for 3DP-SHCC and does not significantly increase in the main printing direction compared to casted SHCC. Furthermore, the orientation-dependent ductility is evaluated in bending with the use of a 4PB test. Allowing multiple layers of fibre-reinforced material to become active at the same time. The strain hardening effect found in a single crack is amplified by the material’s capability to develop multiple cracks, ultimately leading to a significant increase in its impact on engineering applications related to bending.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/auer_daniel"><b>Auer</b> Daniel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/olabi_mohammad"><b>Olabi</b> Mohammad</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../auer_bos_olab_fisc.2023.FRo3PCbMETPAtPST/">Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -93,10 +72,40 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/sloots_joes"><b>Sloots</b> Joes</a>, <a href="../../../author/kroon_c-j_kim"><b>Kroon</b> Kim</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../nefs_sloo_kroo_bos.2024.AMotODo3PSaILoS/">Analytical Modeling of the Orientation-Dependency of 3D Printed SHCC at Increasing Levels of Scale</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nefs_kroo_sloo_bos.2024.ODo3PSaILS,
+      author            = "Karsten Nefs and Kim C. J. de Kroon and Joes Sloots and Freek Paul Bos and Theo A. M. Salet",
+      title             = "Orientation-Dependency of 3D Printed SHCC at Increasing Length Scale",
+      doi               = "10.1016/j.cemconcomp.2024.105515",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "149",
+      pages             = "105515",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Nefs, K. C. J. de Kroon, J. Sloots, F. P. Bos and T. A. M. Salet, “Orientation-Dependency of 3D Printed SHCC at Increasing Length Scale”, <i>Cement and Concrete Composites</i>, vol. 149, p. 105515, 2024, doi: 10.1016/j.cemconcomp.2024.105515.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nefs, Karsten, Kim C. J. de Kroon, Joes Sloots, Freek Paul Bos, and Theo A. M. Salet. “Orientation-Dependency of 3D Printed SHCC at Increasing Length Scale”. <i>Cement and Concrete Composites</i> 149 (2024): 105515. https://doi.org/10.1016/j.cemconcomp.2024.105515.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

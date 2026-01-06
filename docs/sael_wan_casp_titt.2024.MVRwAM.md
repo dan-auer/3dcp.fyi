@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lien Saelens, Roman Wan-Wendner, Robby Caspeele, Kim Tittelboom
+    - footer
+title: Saelens Lien, Wan-Wendner Roman, Caspeele Robby, Tittelboom Kim
 description:
 tags:
  - additive
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Material-Volume Reduction with Additive Manufacturing:<br/>:aca-blank: Challenges for Structural Application ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_35" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_35</a>
+#Material-Volume Reduction with Additive Manufacturing&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Challenges for Structural Application</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_35" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_35" target="_blank">10.1007/978-3-031-70031-6_35</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9481-1987" title="ORCID: 0000-0001-9481-1987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saelens_lien"><b>Saelens</b>&nbsp;Lien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4074-7478" title="ORCID: 0000-0003-4074-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caspeele_robby"><b>Caspeele</b>&nbsp;Robby</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 301-308
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a> <a href="https://orcid.org/0000-0001-9481-1987" title="ORCID: 0000-0001-9481-1987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="https://orcid.org/0000-0003-4074-7478" title="ORCID: 0000-0003-4074-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 301-308
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#challenge`](keyword/challenge)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#reduction`](keyword/reduction)
-    [`#structure`](keyword/structure)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Material-Volume%20Reduction%20with%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203077049&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402088233" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_35" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_35?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As the printing speed, the material properties, and the printing quality of additively manufactured concrete, also called 3D printed concrete (3DPC), are vastly improving, the technology is increasingly finding its way towards real-life applications such as dwellings and bridges. However, to reach the technology readiness level this technique is aiming for, two large challenges remain, namely the introduction of reinforcement into 3DPC, and the reduction of volume used to achieve sustainable and visually pleasing structures. The former concerns the application of 3DPC as structural elements that have a certain degree of ductility, and the latter concerns the sustainability of 3DPC, which can only outperform cast concrete in the case of geometrically complex structures where volume is reduced. The current contribution investigates a solution to the reinforcement problem by introducing a hybrid beam system, in which an unreinforced additively manufactured concrete component is combined with a traditionally reinforced cast concrete component to form a functional hybrid 3DPC-cast beam system. A common volume reduction algorithm is applied to the 3DPC component of the hybrid system. A maximum stiffness objective is combined with a volume constraint, after which the structural capacity is determined considering the interface stresses observed for each of the volume-reduced geometries. Herewith, a complex geometry is obtained to be manufactured with 3D concrete printing. A numerical analysis follows in which challenges for structural application, such as loss of bearing capacity and loss of interface bonding are identified and further elaborated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -77,10 +56,40 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO/">Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization</a></li>
       <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sael_titt_casp_wan.2025.EAotSBoHC3PCBS/">Experimental Analysis of the Structural Behavior of Hybrid Concrete 3D Printed-Cast Beam Systems</a></li>
-      <li><a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a>, <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>, <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huse_tan_sale_lim.2024.TPaMPoTDPCEDMP/">Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>A Review and Bibliometric Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sael_wan_casp_titt.2024.MVRwAM,
+      author            = "Lien Saelens and Roman Wan-Wendner and Robby Caspeele and Kim van Tittelboom",
+      title             = "Material-Volume Reduction with Additive Manufacturing: Challenges for Structural Application",
+      doi               = "10.1007/978-3-031-70031-6_35",
+      year              = "2024",
+      volume            = "53",
+      pages             = "301--308",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Saelens, R. Wan-Wendner, R. Caspeele and K. van Tittelboom, “Material-Volume Reduction with Additive Manufacturing: Challenges for Structural Application”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 301–308. doi: 10.1007/978-3-031-70031-6_35.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Saelens, Lien, Roman Wan-Wendner, Robby Caspeele, and Kim van Tittelboom. “Material-Volume Reduction with Additive Manufacturing: Challenges for Structural Application”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:301–8, 2024. https://doi.org/10.1007/978-3-031-70031-6_35.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

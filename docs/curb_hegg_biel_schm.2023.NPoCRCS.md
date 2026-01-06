@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manfred Curbach, Josef Hegger, Jan Bielak, Christopher Schmidt, Sven Bosbach, Silke Scheerer, Martin Claßen, Jaan-Willem Simon, Hans-Gerd Maas, Anya Vollpacht, Andreas Koch, Lars Hahn, Marko Butler, Birgit Beckmann, Viviane Adam, Chokri Cherif, Rostislav Chudoba, Thomas Gries, Edeltraud Günther, Michael Kaliske, Sven Klinkel, Stefan Löhnert, Thea Lautenschläger, Steffen Marx, Thomas Matschei, Viktor Mechtcherine, Wolfgang Nagel, Christoph Neinhuis, Alice Niemeyer, Jörg Noennig, Michael Raupach, Stefanie Reese, Christina Scheffler, Frank Schladitz, Marzia Traverso
+    - footer
+title: Curbach Manfred, Hegger Josef, Bielak Jan, Schmidt Christopher, Bosbach Sven, Scheerer Silke, Claßen Martin, Simon Jaan-Willem, Maas Hans-Gerd, Vollpacht Anya, Koch Andreas, Hahn Lars, Butler Marko, Beckmann Birgit, Adam Viviane, Cherif Chokri, Chudoba Rostislav, Gries Thomas, Günther Edeltraud, Kaliske Michael, Klinkel Sven, Löhnert Stefan, Lautenschläger Thea, Marx Steffen, Matschei Thomas, Mechtcherine Viktor, Nagel Wolfgang, Neinhuis Christoph, Niemeyer Alice, Noennig Jörg, Raupach Michael, Reese Stefanie, Scheffler Christina, Schladitz Frank, Traverso Marzia
 description:
 tags:
  - carbon
@@ -15,62 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cend.202200008) New Perspectives on Carbon Reinforced Concrete Structures:<br/>:aca-blank: Why New Composites Need New Design-Strategies ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1002/cend.202200008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/cend.202200008</a>
+#New Perspectives on Carbon Reinforced Concrete Structures&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">Why New Composites Need New Design-Strategies</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cend.202200008) <a href="https://doi.org/10.1002/cend.202200008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cend.202200008" target="_blank">10.1002/cend.202200008</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1596-7164" title="ORCID: 0000-0002-1596-7164" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/curbach_manfred"><b>Curbach</b>&nbsp;Manfred</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3066-5006" title="ORCID: 0000-0003-3066-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hegger_josef"><b>Hegger</b>&nbsp;Josef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3219-655X" title="ORCID: 0000-0002-3219-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bielak_jan"><b>Bielak</b>&nbsp;Jan</a></span>, <a href="../../../author/schmidt_christopher"><b>Schmidt</b>&nbsp;Christopher</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0903-1623" title="ORCID: 0000-0003-0903-1623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bosbach_sven"><b>Bosbach</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8976-6680" title="ORCID: 0000-0002-8976-6680" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheerer_silke"><b>Scheerer</b>&nbsp;Silke</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span>, <a href="../../../author/simon_jaan-willem"><b>Simon</b>&nbsp;Jaan-Willem</a></span>, <a href="../../../author/maas_hans-gerd"><b>Maas</b>&nbsp;Hans-Gerd</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9950-5046" title="ORCID: 0000-0002-9950-5046" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vollpacht_anya"><b>Vollpacht</b>&nbsp;Anya</a></span>, <a href="../../../author/koch_andreas"><b>Koch</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9640-4373" title="ORCID: 0000-0001-9640-4373" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hahn_lars"><b>Hahn</b>&nbsp;Lars</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/butler_marko"><b>Butler</b>&nbsp;Marko</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6666-5388" title="ORCID: 0000-0001-6666-5388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/beckmann_birgit"><b>Beckmann</b>&nbsp;Birgit</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6697-8827" title="ORCID: 0000-0001-6697-8827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adam_viviane"><b>Adam</b>&nbsp;Viviane</a></span>, <a href="../../../author/cherif_chokri"><b>Cherif</b>&nbsp;Chokri</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3104-2927" title="ORCID: 0000-0003-3104-2927" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chudoba_rostislav"><b>Chudoba</b>&nbsp;Rostislav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gries_thomas"><b>Gries</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6968-9238" title="ORCID: 0000-0001-6968-9238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gunther_edeltraud"><b>Günther</b>&nbsp;Edeltraud</a></span>, <a href="../../../author/kaliske_michael"><b>Kaliske</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1535-0823" title="ORCID: 0000-0003-1535-0823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/klinkel_sven"><b>Klinkel</b>&nbsp;Sven</a></span>, <a href="../../../author/lohnert_stefan"><b>Löhnert</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4013-9456" title="ORCID: 0000-0003-4013-9456" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lautenschlager_thea"><b>Lautenschläger</b>&nbsp;Thea</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8735-1345" title="ORCID: 0000-0001-8735-1345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marx_steffen"><b>Marx</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matschei_thomas"><b>Matschei</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/nagel_e_wolfgang"><b>Nagel</b>&nbsp;Wolfgang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9965-4394" title="ORCID: 0000-0001-9965-4394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neinhuis_christoph"><b>Neinhuis</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2163-3240" title="ORCID: 0000-0002-2163-3240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niemeyer_alice"><b>Niemeyer</b>&nbsp;Alice</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1681-7635" title="ORCID: 0000-0002-1681-7635" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noennig_rainer_jorg"><b>Noennig</b>&nbsp;Jörg</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raupach_michael"><b>Raupach</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4760-8358" title="ORCID: 0000-0003-4760-8358" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reese_stefanie"><b>Reese</b>&nbsp;Stefanie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6958-1304" title="ORCID: 0000-0002-6958-1304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheffler_christina"><b>Scheffler</b>&nbsp;Christina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4351-8585" title="ORCID: 0000-0002-4351-8585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schladitz_frank"><b>Schladitz</b>&nbsp;Frank</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8848-6292" title="ORCID: 0000-0001-8848-6292" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/traverso_marzia"><b>Traverso</b>&nbsp;Marzia</a></span><br>
+Journal Article - Civil Engineering Design
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/curbach_manfred"><b>Curbach</b> Manfred</a> <a href="https://orcid.org/0000-0002-1596-7164" title="ORCID: 0000-0002-1596-7164" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> <a href="https://orcid.org/0000-0003-3066-5006" title="ORCID: 0000-0003-3066-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bielak_jan"><b>Bielak</b> Jan</a> <a href="https://orcid.org/0000-0002-3219-655X" title="ORCID: 0000-0002-3219-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schmidt_christopher"><b>Schmidt</b> Christopher</a>
-,     <a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a> <a href="https://orcid.org/0000-0003-0903-1623" title="ORCID: 0000-0003-0903-1623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scheerer_silke"><b>Scheerer</b> Silke</a> <a href="https://orcid.org/0000-0002-8976-6680" title="ORCID: 0000-0002-8976-6680" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/simon_jaan-willem"><b>Simon</b> Jaan-Willem</a>
-,     <a href="../../../author/maas_hans-gerd"><b>Maas</b> Hans-Gerd</a>
-,     <a href="../../../author/vollpacht_anya"><b>Vollpacht</b> Anya</a> <a href="https://orcid.org/0000-0002-9950-5046" title="ORCID: 0000-0002-9950-5046" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koch_andreas"><b>Koch</b> Andreas</a>
-,     <a href="../../../author/hahn_lars"><b>Hahn</b> Lars</a> <a href="https://orcid.org/0000-0001-9640-4373" title="ORCID: 0000-0001-9640-4373" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> <a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/beckmann_birgit"><b>Beckmann</b> Birgit</a> <a href="https://orcid.org/0000-0001-6666-5388" title="ORCID: 0000-0001-6666-5388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adam_viviane"><b>Adam</b> Viviane</a> <a href="https://orcid.org/0000-0001-6697-8827" title="ORCID: 0000-0001-6697-8827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cherif_chokri"><b>Cherif</b> Chokri</a>
-,     <a href="../../../author/chudoba_rostislav"><b>Chudoba</b> Rostislav</a> <a href="https://orcid.org/0000-0003-3104-2927" title="ORCID: 0000-0003-3104-2927" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gunther_edeltraud"><b>Günther</b> Edeltraud</a> <a href="https://orcid.org/0000-0001-6968-9238" title="ORCID: 0000-0001-6968-9238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaliske_michael"><b>Kaliske</b> Michael</a>
-,     <a href="../../../author/klinkel_sven"><b>Klinkel</b> Sven</a> <a href="https://orcid.org/0000-0003-1535-0823" title="ORCID: 0000-0003-1535-0823" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lohnert_stefan"><b>Löhnert</b> Stefan</a>
-,     <a href="../../../author/lautenschlager_thea"><b>Lautenschläger</b> Thea</a> <a href="https://orcid.org/0000-0003-4013-9456" title="ORCID: 0000-0003-4013-9456" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marx_steffen"><b>Marx</b> Steffen</a> <a href="https://orcid.org/0000-0001-8735-1345" title="ORCID: 0000-0001-8735-1345" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nagel_e_wolfgang"><b>Nagel</b> Wolfgang</a>
-,     <a href="../../../author/neinhuis_christoph"><b>Neinhuis</b> Christoph</a> <a href="https://orcid.org/0000-0001-9965-4394" title="ORCID: 0000-0001-9965-4394" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/niemeyer_alice"><b>Niemeyer</b> Alice</a> <a href="https://orcid.org/0000-0002-2163-3240" title="ORCID: 0000-0002-2163-3240" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/noennig_rainer_jorg"><b>Noennig</b> Jörg</a> <a href="https://orcid.org/0000-0002-1681-7635" title="ORCID: 0000-0002-1681-7635" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a> <a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reese_stefanie"><b>Reese</b> Stefanie</a> <a href="https://orcid.org/0000-0003-4760-8358" title="ORCID: 0000-0003-4760-8358" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scheffler_christina"><b>Scheffler</b> Christina</a> <a href="https://orcid.org/0000-0002-6958-1304" title="ORCID: 0000-0002-6958-1304" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schladitz_frank"><b>Schladitz</b> Frank</a> <a href="https://orcid.org/0000-0002-4351-8585" title="ORCID: 0000-0002-4351-8585" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/traverso_marzia"><b>Traverso</b> Marzia</a> <a href="https://orcid.org/0000-0001-8848-6292" title="ORCID: 0000-0001-8848-6292" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Civil Engineering Design, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strategy`](keyword/strategy)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=New%20Perspectives%20on%20Carbon%20Reinforced%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -85,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387398658" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/cend.202200008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/cend.202200008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In civil engineering, carbon is typically regarded as a modern material to serve as reinforcement in concrete structures. Compared to steel reinforcement, it features two substantial benefits: It is not sensitive to corrosion, and has an enormously increased tensile strength. In contrast, carbon reinforcement is sensitive to lateral pressure and lacks the property of strain hardening. As a first step of establishing carbon reinforced concrete as a new building composite material, carbon reinforcement has basically served to replace the state-of-the-art steel reinforcement. This target led to pioneering findings with respect to determining the material properties of the composite and developing advanced individual components. However, barely substituting steel by carbon does not allow to fully utilise the carbon's benefits while its disadvantageous properties reveal the limits of this approach. Instead, novel design principles are required to meet the material's nature aiming at appropriately using its beneficial properties. Currently, new construction principles are being researched for high-performance building material combinations such as textile and carbon reinforced concrete. This paper provides an overview of baselines in the preliminary stages of this research. The overview includes history, inspiration, concrete matrices, non-metallic reinforcement, structural elements, modelling, production, tomography, and sustainability. The objective of the study is to provide a baseline for the envisaged development of principles for future construction: radically new concepts for the design, modelling, construction, manufacturing, and use of sustainable, resource-efficient building elements made of mineral building materials with the aim of entirely benefiting from the materials’ potential.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -124,9 +73,37 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../enge_hegg_cla.2025.MAFwC/">Multimodal Automated Fabrication with Concrete:<br/>Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</a></li>
       <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a>, <a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/beckmann_birgit"><b>Beckmann</b> Birgit</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../cruz_bosb_kalt_beck.2024.MMRaHSMoECRCW/">Material-Minimized Rib and Honeycomb Slabs Made of Extruded Carbon-Reinforced Concrete Webs</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{curb_hegg_biel_schm.2023.NPoCRCS,
+      author            = "Manfred Curbach and Josef Hegger and Jan Bielak and Christopher Schmidt and Sven Bosbach and Silke Scheerer and Martin Claßen and Jaan-Willem Simon and Hans-Gerd Maas and Anya Vollpacht and Andreas Koch and Lars Hahn and Marko Butler and Birgit Beckmann and Viviane Adam and Chokri Cherif and Rostislav Chudoba and Thomas Gries and Edeltraud Günther and Michael Kaliske and Sven Klinkel and Stefan Löhnert and Thea Lautenschläger and Steffen Marx and Thomas Matschei and Viktor Mechtcherine and Wolfgang E. Nagel and Christoph Neinhuis and Alice Niemeyer and Jörg Rainer Noennig and Michael Raupach and Stefanie Reese and Christina Scheffler and Frank Schladitz and Marzia Traverso",
+      title             = "New Perspectives on Carbon Reinforced Concrete Structures: Why New Composites Need New Design-Strategies",
+      doi               = "10.1002/cend.202200008",
+      year              = "2023",
+      journal           = "Civil Engineering Design",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Curbach, “New Perspectives on Carbon Reinforced Concrete Structures: Why New Composites Need New Design-Strategies”, <i>Civil Engineering Design</i>, 2023, doi: 10.1002/cend.202200008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Curbach, Manfred, Josef Hegger, Jan Bielak, Christopher Schmidt, Sven Bosbach, Silke Scheerer, Martin Claßen, et al.. “New Perspectives on Carbon Reinforced Concrete Structures: Why New Composites Need New Design-Strategies”. <i>Civil Engineering Design</i>, 2023. https://doi.org/10.1002/cend.202200008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

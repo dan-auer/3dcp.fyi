@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiong Liu, Shengbo Cheng, Chang Sun, Kailun Chen, Wengui Li, Vivian Tam
+    - footer
+title: Liu Qiong, Cheng Shengbo, Sun Chang, Chen Kailun, Li Wengui, Tam Vivian
 description:
 tags:
  - beam
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Steel-Cable Bonding in Fresh Mortar and 3D Printed Beam Flexural Behavior ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.autcon.2023.105165" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.105165</a>
+#Steel-Cable Bonding in Fresh Mortar and 3D Printed Beam Flexural Behavior ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.105165" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105165" target="_blank">10.1016/j.autcon.2023.105165</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2979-6056" title="ORCID: 0009-0007-2979-6056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_shengbo"><b>Cheng</b>&nbsp;Shengbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_chang"><b>Sun</b>&nbsp;Chang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6448-2721" title="ORCID: 0000-0001-6448-2721" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_kailun"><b>Chen</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_wengui"><b>Li</b>&nbsp;Wengui</a></span>, <a href="../../../author/tam_w-y_vivian"><b>Tam</b>&nbsp;Vivian</a></span><br>
+Journal Article - Automation in Construction, Vol. 158, No. 105165
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_shengbo"><b>Cheng</b> Shengbo</a> <a href="https://orcid.org/0009-0007-2979-6056" title="ORCID: 0009-0007-2979-6056" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_chang"><b>Sun</b> Chang</a> <a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> <a href="https://orcid.org/0000-0001-6448-2721" title="ORCID: 0000-0001-6448-2721" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_wengui"><b>Li</b> Wengui</a> <a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 158, No. 105165
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#cable`](keyword/cable)
-    [`#flexural`](keyword/flexural)
-    [`#fresh`](keyword/fresh)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Steel-Cable%20Bonding%20in%20Fresh%20Mortar%20and%203D%20Printed%20Beam%20Flexural%20Behavior" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178574095&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388744981" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.105165" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.105165?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents an approach for enhancing the path-following capability of concrete printing by integrating steel cables into the center of printed mortar strips during the print process, thus satisfying the synchronous and continuous requirements of 3D printing construction. To investigate the impact of steel cables on buildability of printed composites, the bonding strength between mortars and three types of steel cables with different diameters (0.5 mm, 1 mm, and 1.5 mm) was examined through pull-out tests. Moreover, four-point bending tests were conducted to examine the flexural performance of printed mortar beams reinforced with varying numbers and diameters of steel cables. Experimental results demonstrate that mortar filaments reinforced with 0.5 mm and 1 mm diameter steel cables can meet the buildability requirements within the designated open-time, while 1.5 mm diameter steel cables tend to rebound out of the fresh printed mortar due to their rebound force exceeding the grip strength of the mortar, rendering reinforced 3D printing unfeasible. Pull-out tests reveal that bonding strength between steel cables and 3D printed mortars is between 1.4 and 2.4 MPa. Due to steel cable's bundle structure and printing methods, this bonding strength is lower than that of traditional reinforced concrete. In addition, the flexural strength of printed beams reinforced with steel cables is increased by up to around 90%, and the ductile fracture mode trend was observed. This paper confirms the feasibility and effectiveness of this enhancement approach, providing a reference for other reinforcement methods in 3D printed building structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
@@ -107,8 +82,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
@@ -126,4 +101,34 @@ tags:
       <li><a href="../../../author/lu_yue"><b>Lu</b> Yue</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_yan"><b>Li</b> Yan</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lu_xiao_li.2024.3PRCIPF/">3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_chen_sun_chen.2024.SCBiFMa3PBFB,
+      author            = "Qiong Liu and Shengbo Cheng and Chang Sun and Kailun Chen and Wengui Li and Vivian W. Y. Tam",
+      title             = "Steel-Cable Bonding in Fresh Mortar and 3D Printed Beam Flexural Behavior",
+      doi               = "10.1016/j.autcon.2023.105165",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "158",
+      pages             = "105165",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, S. Cheng, C. Sun, K. Chen, W. Li and V. W. Y. Tam, “Steel-Cable Bonding in Fresh Mortar and 3D Printed Beam Flexural Behavior”, <i>Automation in Construction</i>, vol. 158, p. 105165, 2024, doi: 10.1016/j.autcon.2023.105165.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiong, Shengbo Cheng, Chang Sun, Kailun Chen, Wengui Li, and Vivian W. Y. Tam. “Steel-Cable Bonding in Fresh Mortar and 3D Printed Beam Flexural Behavior”. <i>Automation in Construction</i> 158 (2024): 105165. https://doi.org/10.1016/j.autcon.2023.105165.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

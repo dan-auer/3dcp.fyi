@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhang Yu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_sun_chen_liu.2025.3PCwRMI/">3D Printed Concrete with Red Mud Incorporation:<br/>Influence of Red Mud Manufacturing Procedures on Mechanical Properties at Elevated Temperatures</a></li>
   <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
   <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Çağlar Yalçınkaya
+    - footer
+title: Yalçınkaya Çağlar
 description:
 tags:
  - dosage
@@ -17,30 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/3/360/pdf?version=1647411143) Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement ([2022-03](date/2022/03))
-<a href="https://doi.org/10.3390/buildings12030360" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12030360</a>
+#Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/3/360/pdf?version=1647411143) <a href="https://doi.org/10.3390/buildings12030360" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12030360" target="_blank">10.3390/buildings12030360</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b>&nbsp;Çağlar</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#dosage`](keyword/dosage)
-    [`#fiber`](keyword/fiber)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/dosage"><button class="btn">#dosage</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Hydroxypropyl%20Methylcellulose%20Dosage%20on%20the%20Mechanical%20Properties%20of%203D%20Printable%20Mortars%20with%20and%20without%20Fiber-Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127485036&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4221089574" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12030360" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12030360?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Hydroxypropyl Methylcellulose (HPMC) is one of the most frequently used viscosity modifying admixtures in 3D printable cement-based materials. In this study, the effects of HPMC dosage on the mechanical properties of 3D printable cement-based mortars were investigated. For this purpose, mortar mixtures with and without micro steel fibers containing three different HPMC dosages (0%, 0.15%, and 0.30% by weight of cement) were produced. Reliant on the HPMC dosage, heat flow and cumulative heat curves were obtained. At the end of 7 and 28 days of standard curing, flexural, compressive, and shear bond strengths, as well as flexural toughness, were measured. Additionally, porosity values were obtained on molded, single-layer, and three-layer printed specimens. The results showed that the increase in HPMC dosage prolonged the setting times and decreased the heat release. Moreover, the porosity values increased with an increase in the HPMC dosage and the number of printed layers. All mechanical properties were drastically decreased with the use of HPMC. The decrements were more significant at the first 0.15% HPMC dosage and the shear bond strengths. Prolonging the curing period from 7 to 28 days did not lead to meaningful recovery in the mechanical properties. The negative effects of HPMC on flexural and shear bond performances were more pronounced in fiber-reinforced mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "59 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -126,8 +106,8 @@ tags:
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
@@ -151,4 +131,34 @@ tags:
       <li><a href="../../../author/lv_chun"><b>Lv</b> Chun</a>, <a href="../../../author/shen_hongtao"><b>Shen</b> Hongtao</a>, <a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/wu_dan"><b>Wu</b> Dan</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../lv_shen_liu_wu.2022.Po3PFRGBoILBaA/">Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy</a></li>
       <li><a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/lv_chun"><b>Lv</b> Chun</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lv.2022.Po3PPFRM/">Properties of 3D Printed Polymer Fiber-Reinforced Mortars:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yalc.2022.IoHMDotMPo3PMwawFR,
+      author            = "Çağlar Yalçınkaya",
+      title             = "Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement",
+      doi               = "10.3390/buildings12030360",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Ç. Yalçınkaya, “Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement”, <i>Buildings</i>, vol. 12, no. 3, 2022, doi: 10.3390/buildings12030360.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yalçınkaya, Çağlar. “Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and Without Fiber-Reinforcement”. <i>Buildings</i> 12, no. 3 (2022). https://doi.org/10.3390/buildings12030360.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

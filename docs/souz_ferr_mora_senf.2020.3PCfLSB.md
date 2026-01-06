@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcelo Souza, Igor Ferreira, Elisângela Moraes, Luciano Senff, Antonio Oliveira
+    - footer
+title: Souza Marcelo, Ferreira Igor, Moraes Elisângela, Senff Luciano, Oliveira Antonio
 description:
 tags:
  - admixture
@@ -21,38 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete for Large-Scale Buildings:<br/>:aca-blank: An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects ([2020-09](date/2020/09))
-<a href="https://doi.org/10.1016/j.jobe.2020.101833" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2020.101833</a>
+#3D Printed Concrete for Large-Scale Buildings&nbsp;([2020-09](date/2020/09))
+<div class="h1-like">An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2020.101833" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2020.101833" target="_blank">10.1016/j.jobe.2020.101833</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza_tramontin_marcelo"><b>Souza</b>&nbsp;Marcelo</a></span>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b>&nbsp;Igor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2065-383X" title="ORCID: 0000-0002-2065-383X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moraes_guzi_elisangela"><b>de&nbsp;Moraes</b>&nbsp;Elisângela</a></span>, <a href="../../../author/senff_luciano"><b>Senff</b>&nbsp;Luciano</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0875-139X" title="ORCID: 0000-0002-0875-139X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_pedro-novaes_antonio"><b>de&nbsp;Oliveira</b>&nbsp;Antonio</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 32
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a> <a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>
-,     <a href="../../../author/moraes_guzi_elisangela"><b>de Moraes</b> Elisângela</a> <a href="https://orcid.org/0000-0002-2065-383X" title="ORCID: 0000-0002-2065-383X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a>
-,     <a href="../../../author/oliveira_pedro-novaes_antonio"><b>de Oliveira</b> Antonio</a> <a href="https://orcid.org/0000-0002-0875-139X" title="ORCID: 0000-0002-0875-139X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 32, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#buildability`](keyword/buildability)
-    [`#chemical`](keyword/chemical)
-    [`#concrete`](keyword/concrete)
-    [`#economic`](keyword/economic)
-    [`#environment`](keyword/environment)
-    [`#large`](keyword/large)
-    [`#overview`](keyword/overview)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20for%20Large-Scale%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85091629023&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3087555034" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2020.101833" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2020.101833?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper provides a comprehensive survey of current technological challenges and prospects for 3D printing technology with concrete applied to large-scale buildings. This innovative construction approach promises to revolutionize the shape of buildings with considerable time and cost savings but is still facing many technical and operational challenges. We gathered the knowledge of the most relevant and recent publications with our perception to address and discuss the main operational parameters, feasibility, and prospects for 3DPC technology. The paper is organized into five main categories: rheology of concrete for printing, effect of chemical admixtures, the role of reinforcements and inclusions, printing parameters and solutions for large-scale printers, and an analysis of economic and environmental aspects
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -124,8 +97,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "186 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/assi_n_lateef"><b>Assi</b> Lateef</a>, <a href="../../../author/alsalman_ali"><b>Alsalman</b> Ali</a>, <a href="../../../author/kareem_s_rahman"><b>Kareem</b> Rahman</a>, <a href="../../../author/carter_kealy"><b>Carter</b> Kealy</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../assi_alsa_kare_cart.2025.AaCo3GBCiC/">Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction</a></li>
@@ -313,4 +286,33 @@ tags:
       <li><a href="../../../author/luhar_salmabanu"><b>Luhar</b> Salmabanu</a>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/luhar_ismail"><b>Luhar</b> Ismail</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../luha_sunt_nava_luha.2020.SaRBBNFaIAf3PC/">Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{souz_ferr_mora_senf.2020.3PCfLSB,
+      author            = "Marcelo Tramontin Souza and Igor Maia Ferreira and Elisângela Guzi de Moraes and Luciano Senff and Antonio Pedro Novaes de Oliveira",
+      title             = "3D Printed Concrete for Large-Scale Buildings: An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects",
+      doi               = "10.1016/j.jobe.2020.101833",
+      year              = "2020",
+      journal           = "Journal of Building Engineering",
+      volume            = "32",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. T. Souza, I. M. Ferreira, E. G. de Moraes, L. Senff and A. P. N. de Oliveira, “3D Printed Concrete for Large-Scale Buildings: An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects”, <i>Journal of Building Engineering</i>, vol. 32, 2020, doi: 10.1016/j.jobe.2020.101833.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Souza, Marcelo Tramontin, Igor Maia Ferreira, Elisângela Guzi de Moraes, Luciano Senff, and Antonio Pedro Novaes de Oliveira. “3D Printed Concrete for Large-Scale Buildings: An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects”. <i>Journal of Building Engineering</i> 32 (2020). https://doi.org/10.1016/j.jobe.2020.101833.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

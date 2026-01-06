@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Liqing Li, Zhenkun Shi, Lei Wang, Yi Sui, Siyuan Meng
+    - footer
+title: Li Liqing, Shi Zhenkun, Wang Lei, Sui Yi, Meng Siyuan
 description:
 tags:
  - experiment
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study on Rheological Properties and 3D Printing of Simulated Lunar Soil Polymers ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.jobe.2025.112256" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112256</a>
+#Experimental Study on Rheological Properties and 3D Printing of Simulated Lunar Soil Polymers ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112256" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112256" target="_blank">10.1016/j.jobe.2025.112256</a>
 
--------------------------
+<a href="../../../author/li_liqing"><b>Li</b>&nbsp;Liqing</a></span>, <a href="../../../author/shi_zhenkun"><b>Shi</b>&nbsp;Zhenkun</a></span>, <a href="../../../author/wang_lei"><b>Wang</b>&nbsp;Lei</a></span>, <a href="../../../author/sui_yi"><b>Sui</b>&nbsp;Yi</a></span>, <a href="../../../author/meng_siyuan"><b>Meng</b>&nbsp;Siyuan</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 104, No. 112256
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_liqing"><b>Li</b> Liqing</a>
-,     <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>
-,     <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>
-,     <a href="../../../author/sui_yi"><b>Sui</b> Yi</a>
-,     <a href="../../../author/meng_siyuan"><b>Meng</b> Siyuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 104, No. 112256
-
-:aca-blank:{ .lg .middle}
-    [`#experiment`](keyword/experiment)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#simulation`](keyword/simulation)
-    [`#soil`](keyword/soil)
-
-
--------------------------
+<a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Rheological%20Properties%20and%203D%20Printing%20of%20Simulated%20Lunar%20Soil%20Polymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219660584&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408093953" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112256" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112256?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Lunar soil-based polymers, created using lunar soil as a precursor combined with highly automated 3D printing construction methods, hold great potential for lunar base construction. However, technical challenges such as ambiguities in characterizing rheological behavior and difficulties in regulation limit their 3D printing workability. To address these issues, the applicability of the Bingham model, Herschel-Bulkley (H-B) model, and a modified Bingham model to TJ-1 simulated lunar soil-based polymer was investigated by analyzing the fluidity variation. The effects of the solid-liquid ratio, Ca(OH)2, and Hydroxypropyl Methyl Cellulose ether (HPMC) on the 3D printing performance of the simulated lunar soil-based polymer were explored through one-way tests and standard deviation analysis. The results show that the modified Bingham model more accurately describes the rheological properties of TJ-1 simulated lunar soil-based polymer. HPMC proved to be an effective thixotropic agent for adjusting the 3D printing performance of the polymer. The yield stress and plastic viscosity of the polymer doped with 0.15 % HPMC were 3.577 Pa and 0.733 Pa s, respectively, meeting the requirements for printability. The yield stress and plastic viscosity of the simulated lunar soil polymers ranged from 1.84 to 3.58 Pa and 0.23–0.73 Pa s, respectively. Moreover, the compressive and flexural strengths of the simulated lunar soil polymers were significantly improved by adding Ca(OH)2. The optimal ratios for 3Dprinted simulated lunar soil polymers are a water–cement ratio of 0.30, 10 % NaOH, 8 % Na2SiO3, 6 % Ca(OH)2, and 0.10 % HPMC. Under these conditions, the 28-day compressive strength and flexural strength were 19.5 MPa and 6.9 MPa, respectively, meeting the strength standards of ordinary sintered bricks.The research results could provide a theoretical basis for the subsequent optimization of the simulated lunar soil base polymer mixing ratios for 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../kali_ambi_shek_seba.2024.EoSGotFPo3PC/">Effect of Sand-Gradations on the Fresh Properties of 3D Printable Concrete</a></li>
@@ -74,8 +52,38 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_shi_wang_sui.2025.ESoRPa3PoSLSP,
+      author            = "Liqing Li and Zhenkun Shi and Lei Wang and Yi Sui and Siyuan Meng",
+      title             = "Experimental Study on Rheological Properties and 3D Printing of Simulated Lunar Soil Polymers",
+      doi               = "10.1016/j.jobe.2025.112256",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      volume            = "104",
+      pages             = "112256",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Li, Z. Shi, L. Wang, Y. Sui and S. Meng, “Experimental Study on Rheological Properties and 3D Printing of Simulated Lunar Soil Polymers”, <i>Journal of Building Engineering</i>, vol. 104, p. 112256, 2025, doi: 10.1016/j.jobe.2025.112256.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Liqing, Zhenkun Shi, Lei Wang, Yi Sui, and Siyuan Meng. “Experimental Study on Rheological Properties and 3D Printing of Simulated Lunar Soil Polymers”. <i>Journal of Building Engineering</i> 104 (2025): 112256. https://doi.org/10.1016/j.jobe.2025.112256.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

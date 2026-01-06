@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wei Tian, Nv Han
+    - footer
+title: Tian Wei, Han Nv
 description:
 tags:
  - air
@@ -20,34 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0165232X16302166) Pore Characteristics (>0.1mm) Of Non-Air-Entrained Concrete Destroyed by Freeze-Thaw-Cycles Based on CT Scanning and 3D Printing ([2018-04](date/2018/04))
-<a href="https://doi.org/10.1016/j.coldregions.2018.03.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.coldregions.2018.03.027</a>
+#Pore Characteristics (>0.1mm) Of Non-Air-Entrained Concrete Destroyed by Freeze-Thaw-Cycles Based on CT Scanning and 3D Printing ([2018-04](date/2018/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0165232X16302166) <a href="https://doi.org/10.1016/j.coldregions.2018.03.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.coldregions.2018.03.027" target="_blank">10.1016/j.coldregions.2018.03.027</a>
 
--------------------------
+<a href="../../../author/tian_wei"><b>Tian</b>&nbsp;Wei</a></span>, <a href="../../../author/han_nv"><b>Han</b>&nbsp;Nv</a></span><br>
+Journal Article - Cold Regions Science and Technology, Vol. 151, pp. 314-322
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tian_wei"><b>Tian</b> Wei</a>
-,     <a href="../../../author/han_nv"><b>Han</b> Nv</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cold Regions Science and Technology, Vol. 151, pp. 314-322
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#base`](keyword/base)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#destructive`](keyword/destructive)
-    [`#entrainment`](keyword/entrainment)
-    [`#freeze`](keyword/freeze)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#scan`](keyword/scan)
-    [`#thaw`](keyword/thaw)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pore%20Characteristics%20%28%3E0.1mm%29%20Of%20Non-Air-Entrained%20Concrete%20Destroyed%20by%20Freeze-Thaw-Cycles%20Based%20on%20CT%20Scanning%20and%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85045571962&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,22 +42,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2795403782" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.coldregions.2018.03.027" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.coldregions.2018.03.027?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, the deterioration mechanism of concrete subjected to freezing-thawing (F-T) actions was analyzed. The evolution and spatial distribution of internal pore structure were key factors in the damage mechanism and mechanical properties of concrete in the F-T environment. X-ray computed tomography (CT) was used to examine the evolution of concrete internal damage under F-T cycles. CT-identified pore structures were reconstructed as digital virtual-models and the porosity and pore distribution of these pore structures were characterized by image analysis. Three-dimensional printing (3DP) specimens containing CT-identified pore structures were prepared and replicated based on these digital virtual-models. Uniaxial compression tests were conducted on both concrete specimens and 3DP specimens, which have a similar loss percentage of uniaxial compressive strength (UCS). These results show that 3DP technology can provide a new strategy for experimental study of concrete material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
       <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>, <a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../naka_hash_sugi_kono.2024.IoPPoMPaFPo3PC/">Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete</a></li>
       <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../yan_zeng_zhug_liao.2023.CBoFC3PUHPCC/">Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders</a></li>
@@ -91,4 +67,34 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tian_han.2018.PC01ONAECDbFTCBoCSa3P,
+      author            = "Wei Tian and Nv Han",
+      title             = "Pore Characteristics (>0.1mm) Of Non-Air-Entrained Concrete Destroyed by Freeze-Thaw-Cycles Based on CT Scanning and 3D Printing",
+      doi               = "10.1016/j.coldregions.2018.03.027",
+      year              = "2018",
+      journal           = "Cold Regions Science and Technology",
+      volume            = "151",
+      pages             = "314--322",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Tian  and N. Han, “Pore Characteristics (>0.1mm) Of Non-Air-Entrained Concrete Destroyed by Freeze-Thaw-Cycles Based on CT Scanning and 3D Printing”, <i>Cold Regions Science and Technology</i>, vol. 151, pp. 314–322, 2018, doi: 10.1016/j.coldregions.2018.03.027.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tian, Wei, and Nv Han. “Pore Characteristics (>0.1mm) Of Non-Air-Entrained Concrete Destroyed by Freeze-Thaw-Cycles Based on CT Scanning and 3D Printing”. <i>Cold Regions Science and Technology</i> 151 (2018): 314–22. https://doi.org/10.1016/j.coldregions.2018.03.027.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

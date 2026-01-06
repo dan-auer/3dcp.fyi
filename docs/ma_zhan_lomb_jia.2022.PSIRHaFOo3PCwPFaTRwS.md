@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lei Ma, Qing Zhang, Hélène Lombois-Burger, Zijian Jia, Zedi Zhang, Geng Niu, Yamei Zhang
+    - footer
+title: Ma Lei, Zhang Qing, Lombois-Burger Hélène, Jia Zijian, Zhang Zedi, Niu Geng, Zhang Yamei
 description:
 tags:
  - concrete
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.jobe.2022.105250" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2022.105250</a>
+#Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.105250" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.105250" target="_blank">10.1016/j.jobe.2022.105250</a>
 
--------------------------
+<a href="../../../author/ma_lei"><b>Ma</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7518-2302" title="ORCID: 0000-0001-7518-2302" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_qing"><b>Zhang</b>&nbsp;Qing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3352-5746" title="ORCID: 0000-0003-3352-5746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b>&nbsp;Hélène</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niu_geng"><b>Niu</b>&nbsp;Geng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 61
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>
-,     <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a> <a href="https://orcid.org/0000-0001-7518-2302" title="ORCID: 0000-0001-7518-2302" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a> <a href="https://orcid.org/0000-0003-3352-5746" title="ORCID: 0000-0003-3352-5746" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> <a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 61, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#humidity`](keyword/humidity)
-    [`#internal`](keyword/internal)
-    [`#orientation`](keyword/orientation)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/humidity"><button class="btn">#humidity</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pore-Structure%2C%20Internal%20Relative%20Humidity%2C%20and%20Fiber-Orientation%20of%203D%20Printed%20Concrete%20with%20Polypropylene-Fiber%20and%20Their%20Relation%20with%20Shrinkage" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138063032&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4295166428" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2022.105250" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2022.105250?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The shrinkage properties and its mitigation strategies for 3D printed concrete (3DPC) are of great significance, especially for structural applications in construction. This study aims to understand the effect of polypropylene fiber (PP fiber) on the total shrinkage of 3DPC under drying. The rheological properties, mechanical properties, internal relative humidity (RH), pore size distribution and fiber orientation of 3DPC were investigated and compared with cast concrete. Without PP fiber, the total shrinkage of the printed specimens is similar to the cast ones. The addition of PP fiber reduces the total shrinkage for cast specimens more significantly than for printed specimens. This phenomenon is explained from both pore structure and fiber orientation perspectives. A lower total shrinkage is also observed on specimens cut along the printing direction when compared with those cut perpendicularly to the printing direction due to higher quantity of fiber oriented along the printing direction. The total shrinkage of 3DPC is found inversely proportional to the fiber orientation factor.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -120,8 +93,10 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "58 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
@@ -179,4 +154,33 @@ tags:
       <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../raje_rame_nava_sanj.2023.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/cui_dong"><b>Cui</b> Dong</a>, <a href="../../../author/wu_yingxuan"><b>Wu</b> Yingxuan</a>, <a href="../../../author/xie_xiaoying"><b>Xie</b> Xiaoying</a>, <a href="../../../author/tian_guanfei"><b>Tian</b> Guanfei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../cui_wu_xie_tian.2023.IotMSoa3PMTaNLST/">Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_zhan_lomb_jia.2022.PSIRHaFOo3PCwPFaTRwS,
+      author            = "Lei Ma and Qing Zhang and Hélène Lombois-Burger and Zijian Jia and Zedi Zhang and Geng Niu and Yamei Zhang",
+      title             = "Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage",
+      doi               = "10.1016/j.jobe.2022.105250",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "61",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Ma, “Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage”, <i>Journal of Building Engineering</i>, vol. 61, 2022, doi: 10.1016/j.jobe.2022.105250.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Lei, Qing Zhang, Hélène Lombois-Burger, Zijian Jia, Zedi Zhang, Geng Niu, and Yamei Zhang. “Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage”. <i>Journal of Building Engineering</i> 61 (2022). https://doi.org/10.1016/j.jobe.2022.105250.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

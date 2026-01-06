@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Louison Poudelet, Miguel Molina, Laura Calvo, Roger Cardona, Felip Fenollosa-Artés, Roger Uceda-Molera
+    - footer
+title: Poudelet Louison, Molina Miguel, Calvo Laura, Cardona Roger, Fenollosa-Artés Felip, Uceda-Molera Roger
 description:
 tags:
  - additive
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Comparison Between Mono- and Bi-Component Extruders in Concrete Additive Manufacturing ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1007/s40964-022-00383-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-022-00383-7</a>
+#Comparison Between Mono- and Bi-Component Extruders in Concrete Additive Manufacturing ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-022-00383-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-022-00383-7" target="_blank">10.1007/s40964-022-00383-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8732-2314" title="ORCID: 0000-0002-8732-2314" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poudelet_louison"><b>Poudelet</b>&nbsp;Louison</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3614-8408" title="ORCID: 0000-0002-3614-8408" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/molina_grande_miguel"><b>Molina</b>&nbsp;Miguel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3962-6417" title="ORCID: 0000-0003-3962-6417" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calvo_laura"><b>Calvo</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9991-8601" title="ORCID: 0000-0001-9991-8601" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cardona_roger"><b>Cardona</b>&nbsp;Roger</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4284-9649" title="ORCID: 0000-0002-4284-9649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fenollosa-artes_felip"><b>Fenollosa-Artés</b>&nbsp;Felip</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8756-695X" title="ORCID: 0000-0002-8756-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uceda-molera_roger"><b>Uceda-Molera</b>&nbsp;Roger</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/poudelet_louison"><b>Poudelet</b> Louison</a> <a href="https://orcid.org/0000-0002-8732-2314" title="ORCID: 0000-0002-8732-2314" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/molina_grande_miguel"><b>Molina</b> Miguel</a> <a href="https://orcid.org/0000-0002-3614-8408" title="ORCID: 0000-0002-3614-8408" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/calvo_laura"><b>Calvo</b> Laura</a> <a href="https://orcid.org/0000-0003-3962-6417" title="ORCID: 0000-0003-3962-6417" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cardona_roger"><b>Cardona</b> Roger</a> <a href="https://orcid.org/0000-0001-9991-8601" title="ORCID: 0000-0001-9991-8601" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fenollosa-artes_felip"><b>Fenollosa-Artés</b> Felip</a> <a href="https://orcid.org/0000-0002-4284-9649" title="ORCID: 0000-0002-4284-9649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/uceda-molera_roger"><b>Uceda-Molera</b> Roger</a> <a href="https://orcid.org/0000-0002-8756-695X" title="ORCID: 0000-0002-8756-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#comparison`](keyword/comparison)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mono`](keyword/mono)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mono"><button class="btn">#mono</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20Between%20Mono-%20and%20Bi-Component%20Extruders%20in%20Concrete%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146391231&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4317234035" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-022-00383-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-022-00383-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In a growing mobilisation against climate change, the reduction of the impact of the construction sector is becoming a priority. To achieve this reduction, among the topics to be improved (transport, fine particle emission, water depletion, soil contamination), the global warming potential (GWP) of concrete is clearly the one with the most impact. Cement is the second most used product in the world and emits CO2 in all of its life cycle phases. In absence of a satisfactory alternative, a reduction of the amount of material used is a promising and straightforward path to reduce its impact. Casting, the current method to employ concrete, is inherently inefficient due to constraints of the formwork mould. Additive manufacturing is an interesting alternative to overpass the limitations of the casting process as already proven in other sectors. The implementation of 3D concrete printing (3DCP) is entangled between a tendency for an easy quick cost-effective implementation and the ability to achieve complex structures that require more advanced methods. From the final impact point of view, the bi-component solutions seem to give more promising results than mono-component solutions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -83,8 +60,36 @@ tags:
       <li><a href="../../../author/poudelet_louison"><b>Poudelet</b> Louison</a>, <a href="../../../author/castellvi_a"><b>Castellví</b> A.</a>, <a href="../../../author/calvo_laura"><b>Calvo</b> Laura</a>, <a href="../../../author/cardona_roger"><b>Cardona</b> Roger</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../poud_cast_calv_card.2021.PoaCAMEwOLRMC/">Presentation of a Concrete Additive Manufacturing Extruder with On-Line Rheology Modification Capabilities</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../oulk_akhr_jai.2024.3CPS/">3D Concrete Printing Success:<br/>An Exhaustive Diagnosis and Failure-Modes-Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{poud_moli_calv_card.2023.CBMaBCEiCAM,
+      author            = "Louison Poudelet and Miguel Grande Molina and Laura Calvo and Roger Cardona and Felip Fenollosa-Artés and Roger Uceda-Molera",
+      title             = "Comparison Between Mono- and Bi-Component Extruders in Concrete Additive Manufacturing",
+      doi               = "10.1007/s40964-022-00383-7",
+      year              = "2023",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Poudelet, M. G. Molina, L. Calvo, R. Cardona, F. Fenollosa-Artés and R. Uceda-Molera, “Comparison Between Mono- and Bi-Component Extruders in Concrete Additive Manufacturing”, <i>Progress in Additive Manufacturing</i>, 2023, doi: 10.1007/s40964-022-00383-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Poudelet, Louison, Miguel Grande Molina, Laura Calvo, Roger Cardona, Felip Fenollosa-Artés, and Roger Uceda-Molera. “Comparison Between Mono- and Bi-Component Extruders in Concrete Additive Manufacturing”. <i>Progress in Additive Manufacturing</i>, 2023. https://doi.org/10.1007/s40964-022-00383-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

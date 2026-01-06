@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marchant Heever, Anton Plessis, Frederick Bester, Jacques Kruger, Gideon Zijl
+    - footer
+title: Heever Marchant, Plessis Anton, Bester Frederick, Kruger Jacques, Zijl Gideon
 description:
 tags:
  - compression
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.126743" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.126743</a>
+#A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete ([2022-02](date/2022/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.126743" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.126743" target="_blank">10.1016/j.conbuildmat.2022.126743</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heever_marchant"><b>van den&nbsp;Heever</b>&nbsp;Marchant</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4370-8661" title="ORCID: 0000-0002-4370-8661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/plessis_anton"><b>du&nbsp;Plessis</b>&nbsp;Anton</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bester_a_frederick"><b>Bester</b>&nbsp;Frederick</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 325
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/heever_marchant"><b>van den Heever</b> Marchant</a> <a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/plessis_anton"><b>du Plessis</b> Anton</a> <a href="https://orcid.org/0000-0002-4370-8661" title="ORCID: 0000-0002-4370-8661" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a> <a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 325, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#constitutive`](keyword/constitutive)
-    [`#evaluation`](keyword/evaluation)
-    [`#model`](keyword/model)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-    [`#shear`](keyword/shear)
-
-
--------------------------
+<a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Mechanistic%20Evaluation%20Relating%20Microstructural%20Morphology%20to%20a%20Modified%20Mohr-Griffith%20Compression-Shear%20Constitutive-Model%20for%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124458872&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4212992156" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.126743" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.126743?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The hardened-state mechanical characteristics of 3D printable concrete (3DPC) mixtures exhibit a strong dependence on the employed extrusion-based process, material, and design parameters and are predominantly anisotropic by nature. It has been shown that at the heart of the observed mechanical anisotropy lies the microstructural morphology of the manufactured component. Additionally, it is hypothesised that a linear Coulomb friction assumption misrepresents the interfacial compression-shear constitutive behaviour exhibited in 3DPC. Thus, additional calibration of the shear model parameters is sought, forming the basis for the current investigation. In this regard, the present contribution offers a comprehensive investigation of the constant compression-shear performance of a fibre-reinforced printable concrete (FRPC) mixture via a direct shear test (DST) methodology for concrete samples additively manufactured by extrusion-based 3D concrete printing (3DCP). The anisotropic material strength is studied in the three orthogonal material planes, then suitable failure criteria are considered, and a novel modified Mohr-Griffith criterion is proposed. X-ray computed tomography (CT) is employed to explore the microstructural morphology (pore size, shape, orientation, and total porosity content), fracture surface angle, and fracture surface area of 3DCP inter and intralayers compared to specimens cast from the same FRPC mixture. A mechanistic evaluation of the constant compression-shear performances relates the ensuing shear strength to the microstructural morphology observed in the experimentally assessed samples. Thereby, this contribution provides the basis for a fundamentally more detailed understanding of the hardened-state mechanical capacity of 3DPC, which is supported by a novel failure criterion and solid theoretical explanations of the influential microstructural features affecting the mechanical characteristics. Finally, it is postulated that improved mechanical performance and reduced anisotropy, conjuring less material complexity and uncertainty, is permitted by stabilising the microstructural morphology in 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "60 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
@@ -131,8 +107,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
       <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a></li>
@@ -152,4 +128,33 @@ tags:
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/zeng_biqing"><b>Zeng</b> Biqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../he_li_chow_zeng.2022.ItILSo3PCwTLI/">Increasing the Inter-Layer Strength of 3D Printed Concrete with Tooth-Like Interface:<br/>An Experimental and Theoretical Investigation</a></li>
       <li><a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../han_xiao_zhan_peng.2022.AMSBNMfIHTMBo3PCaET/">A Micro-Scale-Based Numerical Model for Investigating Hygro-Thermo-Mechanical Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{heev_ples_best_krug.2022.AMERMMtaMMGCSCMf3PC,
+      author            = "Marchant van den Heever and Anton du Plessis and Frederick A. Bester and Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2022.126743",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "325",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. van den Heever, A. du Plessis, F. A. Bester, J. P. Kruger and G. P. A. G. van Zijl, “A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 325, 2022, doi: 10.1016/j.conbuildmat.2022.126743.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Heever, Marchant van den, Anton du Plessis, Frederick A. Bester, Jacques Pienaar Kruger, and Gideon Pieter Adriaan Greeff van Zijl. “A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete”. <i>Construction and Building Materials</i> 325 (2022). https://doi.org/10.1016/j.conbuildmat.2022.126743.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

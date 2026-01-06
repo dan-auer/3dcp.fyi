@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shaodan Hou, Zhenhua Duan, Taohua Ye, Shuai Zou, Jianzhuang Xiao
+    - footer
+title: Hou Shaodan, Duan Zhenhua, Ye Taohua, Zou Shuai, Xiao Jianzhuang
 description:
 tags:
  - mechanics
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132068" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132068</a>
+#Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132068" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132068" target="_blank">10.1016/j.conbuildmat.2023.132068</a>
 
--------------------------
+<a href="../../../author/hou_shaodan"><b>Hou</b>&nbsp;Shaodan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_taohua"><b>Ye</b>&nbsp;Taohua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_shuai"><b>Zou</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 394, No. 132068
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a> <a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 394, No. 132068
-
-:aca-blank:{ .lg .middle}
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#porosity`](keyword/porosity)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Pore-Structure%20of%203D%20Printed%20Mortar%20with%20Recycled%20Powder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162140482&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380927084" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132068" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132068?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the hardened mechanical properties of 3D printed mortar (3DPM) with different contents (0–30% by mass of cement) of recycled powder (RP) by anisotropic compressive, splitting tensile and flexural strengths. The pore characteristics tested by X-ray computed tomography and mercury intrusion porosimeter as well as hydration products of 3DPM were analyzed to reveal the influence mechanism of RP on 3DPM. The results showed that the highest compressive strength of the 3D printed specimens was obtained on the loading direction paralleled with the length of printing filament (X direction). When the RP replacement ratio was 20%, the X-direction compressive strength of 3DPM was 24.11% lower than that of cast samples, while the splitting tensile strengths of 3DPM were closed to and the flexural strengths of 3DPM were higher than that of cast samples regardless of the loading directions. This can be attributed to the high fluidity loss rate of 3DPM with RP, leading to the reduction of the surface moisture of interlayer. Besides, more pores at the interlayer and interstrips led to the decrease of mechanical properties. In contrast, the addition of RP had a limited effect on the micro pore structure of the single printed filament without considering the interlayer and interstrip, owing to the secondary hydration and filling effect of RP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
@@ -103,8 +80,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
       <li><a href="../../../author/zhang_junyi"><b>Zhang</b> Junyi</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_zhan_zhan_li.2025.DPCCwPBUaEWFTT/">Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory</a></li>
@@ -121,4 +98,34 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/wu_wenbo"><b>Wu</b> Wenbo</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zhou_shuai"><b>Zhou</b> Shuai</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hou_wu_duan_zhou.2024.RoFRMf3PC/">Rheology of Fiber-Reinforced Mortar for 3D Printing Construction:<br/>Effect of Recycled Hybrid-Powder and Polyethylene-Fiber</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hou_duan_ye_zou.2023.MPaPSo3PMwRP,
+      author            = "Shaodan Hou and Zhenhua Duan and Taohua Ye and Shuai Zou and Jianzhuang Xiao",
+      title             = "Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder",
+      doi               = "10.1016/j.conbuildmat.2023.132068",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "394",
+      pages             = "132068",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Hou, Z. Duan, T. Ye, S. Zou and J. Xiao, “Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder”, <i>Construction and Building Materials</i>, vol. 394, p. 132068, 2023, doi: 10.1016/j.conbuildmat.2023.132068.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hou, Shaodan, Zhenhua Duan, Taohua Ye, Shuai Zou, and Jianzhuang Xiao. “Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder”. <i>Construction and Building Materials</i> 394 (2023): 132068. https://doi.org/10.1016/j.conbuildmat.2023.132068.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

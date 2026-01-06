@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Quah Tan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../quah_liu_tay_li.2025.IPFRi3CPwIS/">In-Process Filament Repair in 3D Concrete Printing with Instance Segmentation</a></li>
   <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ting_tay_quah_tan.2024.SSMfOPi3CPT/">Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology</a></li>
   <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../quah_tay_tan_li.2024.EoEMf3CP/">Evaluation of Extrusion-Methods for 3D Concrete Printing</a></li>

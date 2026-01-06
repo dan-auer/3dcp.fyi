@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wibke Villiers, Mwiti Mwongo, Adewumi Babafemi, Gideon Zijl
+    - footer
+title: Villiers Wibke, Mwongo Mwiti, Babafemi Adewumi, Zijl Gideon
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2313-4321/9/4/55/pdf?version=1719568583) Quantifying Recycled Construction and Demolition Waste for Use in 3D Printed Concrete ([2024-06](date/2024/06))
-<a href="https://doi.org/10.3390/recycling9040055" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/recycling9040055</a>
+#Quantifying Recycled Construction and Demolition Waste for Use in 3D Printed Concrete ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2313-4321/9/4/55/pdf?version=1719568583) <a href="https://doi.org/10.3390/recycling9040055" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/recycling9040055" target="_blank">10.3390/recycling9040055</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/villiers_wibke"><b>de&nbsp;Villiers</b>&nbsp;Wibke</a></span>, <a href="../../../author/mwongo_mwiti"><b>Mwongo</b>&nbsp;Mwiti</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Recycling, Vol. 9, Iss. 4, No. 55
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> <a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mwongo_mwiti"><b>Mwongo</b> Mwiti</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Recycling, Vol. 9, Iss. 4, No. 55
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#print`](keyword/print)
-    [`#quantity`](keyword/quantity)
-    [`#recycling`](keyword/recycling)
-    [`#use`](keyword/use)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantifying%20Recycled%20Construction%20and%20Demolition%20Waste%20for%20Use%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202643138&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400119797" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/recycling9040055" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/recycling9040055?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Despite extensive regulations, the systemic under-reporting of construction and demolition waste generation rates pervades the South African waste sector due to the extensive and active informal waste management practices that are typical of developing countries. This study merges the rapid development of high-technology 3D-printed concrete (3DPC) with the increasing pressure that the built environment is placing on both natural resource consumption and landfill space due to construction and demolition waste (CDW) by establishing an inventory of CDW that is suitable for use in 3DPC in South Africa. This is an essential step in ensuring the technical, economic, and logistical viability of using CDW as aggregate or supplementary cementitious materials in 3DPC. Of the methods considered, the lifetime material analysis and per capita multiplier methods are the most appropriate for the context and available seed data; this results in CDW estimates of 24.3 Mt and 12.2 Mt per annum in South Africa, respectively. This range is due to the different points of estimation for the two methods considered, and the per capita multiplier method provides an inevitable underestimation. In order to contextualise the estimated availability of CDW material for use in concrete in general, the demand for coarse and fine aggregate and supplementary cementitious material in South Africa is quantified as 77.9 Mt. This overall annual demand far exceeds the estimated CDW material (12.2–24.3 Mt) available as an alternative material source for concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -102,10 +80,41 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
       <li><a href="../../../author/maury-ramirez_anibal"><b>Maury-Ramírez</b> Aníbal</a>, <a href="../../../author/rinke_mario"><b>Rinke</b> Mario</a>, <a href="../../../author/blom_johan"><b>Blom</b> Johan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../maur_rink_blom.2024.LCESCaAPBECUTP3PaR/">Low-Carbon Embodied, Self-Cleaning, and Air-Purifying Building Envelope Components Using TiO2 Photocatalysis, 3D Printing, and Recycling</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vill_mwon_baba_zijl.2024.QRCaDWfUi3PC,
+      author            = "Wibke de Villiers and Mwiti Mwongo and Adewumi John Babafemi and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Quantifying Recycled Construction and Demolition Waste for Use in 3D Printed Concrete",
+      doi               = "10.3390/recycling9040055",
+      year              = "2024",
+      journal           = "Recycling",
+      volume            = "9",
+      number            = "4",
+      pages             = "55",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. de Villiers, M. Mwongo, A. J. Babafemi and G. P. A. G. van Zijl, “Quantifying Recycled Construction and Demolition Waste for Use in 3D Printed Concrete”, <i>Recycling</i>, vol. 9, no. 4, p. 55, 2024, doi: 10.3390/recycling9040055.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Villiers, Wibke de, Mwiti Mwongo, Adewumi John Babafemi, and Gideon Pieter Adriaan Greeff van Zijl. “Quantifying Recycled Construction and Demolition Waste for Use in 3D Printed Concrete”. <i>Recycling</i> 9, no. 4 (2024): 55. https://doi.org/10.3390/recycling9040055.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

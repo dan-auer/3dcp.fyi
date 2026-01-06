@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joanna Marczyk, Celina Ziejewska, Szymon Gądek, Kinga Korniejenko, Michał Łach, Mateusz Góra, Izabela Kurek, Neslihan Doğan-Sağlamtimur, Marek Hebda, Magdalena Szechyńska-Hebda
+    - footer
+title: Marczyk Joanna, Ziejewska Celina, Gądek Szymon, Korniejenko Kinga, Łach Michał, Góra Mateusz, Kurek Izabela, Doğan-Sağlamtimur Neslihan, Hebda Marek, Szechyńska-Hebda Magdalena
 description:
 tags:
  - ash
@@ -14,36 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/22/6874/pdf?version=1636963410) Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing ([2021-11](date/2021/11))
-<a href="https://doi.org/10.3390/ma14226874" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14226874</a>
+#Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing ([2021-11](date/2021/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/22/6874/pdf?version=1636963410) <a href="https://doi.org/10.3390/ma14226874" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14226874" target="_blank">10.3390/ma14226874</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3916-4585" title="ORCID: 0000-0002-3916-4585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marczyk_joanna"><b>Marczyk</b>&nbsp;Joanna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6383-7639" title="ORCID: 0000-0002-6383-7639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ziejewska_celina"><b>Ziejewska</b>&nbsp;Celina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gadek_szymon"><b>Gądek</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korniejenko_kinga"><b>Korniejenko</b>&nbsp;Kinga</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5713-9415" title="ORCID: 0000-0001-5713-9415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lach_michal"><b>Łach</b>&nbsp;Michał</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0028-5312" title="ORCID: 0000-0002-0028-5312" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gora_mateusz"><b>Góra</b>&nbsp;Mateusz</a></span>, <a href="../../../author/kurek_izabela"><b>Kurek</b>&nbsp;Izabela</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6287-6268" title="ORCID: 0000-0001-6287-6268" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dogan-saglamtimur_neslihan"><b>Doğan-Sağlamtimur</b>&nbsp;Neslihan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6041-6521" title="ORCID: 0000-0002-6041-6521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/szechynska-hebda_magdalena"><b>Szechyńska-Hebda</b>&nbsp;Magdalena</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 22
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a> <a href="https://orcid.org/0000-0002-3916-4585" title="ORCID: 0000-0002-3916-4585" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a> <a href="https://orcid.org/0000-0002-6383-7639" title="ORCID: 0000-0002-6383-7639" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> <a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lach_michal"><b>Łach</b> Michał</a> <a href="https://orcid.org/0000-0001-5713-9415" title="ORCID: 0000-0001-5713-9415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gora_mateusz"><b>Góra</b> Mateusz</a> <a href="https://orcid.org/0000-0002-0028-5312" title="ORCID: 0000-0002-0028-5312" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kurek_izabela"><b>Kurek</b> Izabela</a>
-,     <a href="../../../author/dogan-saglamtimur_neslihan"><b>Doğan-Sağlamtimur</b> Neslihan</a> <a href="https://orcid.org/0000-0001-6287-6268" title="ORCID: 0000-0001-6287-6268" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/szechynska-hebda_magdalena"><b>Szechyńska-Hebda</b> Magdalena</a> <a href="https://orcid.org/0000-0002-6041-6521" title="ORCID: 0000-0002-6041-6521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 22, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#hybrid`](keyword/hybrid)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hybrid%20Materials%20Based%20on%20Fly-Ash%2C%20Metakaolin%2C%20and%20Cement%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120007341&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,25 +36,22 @@ tags:
 <a href="https://inciteful.xyz/p/W3214296087" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14226874" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14226874?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nowadays, one very dynamic development of 3D printing technology is required in the construction industry. However, the full implementation of this technology requires the optimization of the entire process, starting from the design of printing ideas, and ending with the development and implementation of new materials. The article presents, for the first time, the development of hybrid materials based on a geopolymer or ordinary Portland cement matrix that can be used for various 3D concrete-printing methods. Raw materials used in the research were defined by particle size distribution, specific surface area, morphology by scanning electron microscopy, X-ray diffraction, thermal analysis, radioactivity tests, X-ray fluorescence, Fourier transform infrared spectroscopy and leaching. The geopolymers, concrete, and hybrid samples were described according to compressive strength, flexural strength, and abrasion resistance. The study also evaluates the influence of the liquid-to-solid ratio on the properties of geopolymers, based on fly ash (FA) and metakaolin (MK). Printing tests of the analyzed mixtures were also carried out and their suitability for various applications related to 3D printing technology was assessed. Geopolymers and hybrids based on a geopolymer matrix with the addition of 5% cement resulted in the final materials behaving similarly to a non-Newtonian fluid. Without additional treatments, this type of material can be successfully used to fill the molds. The hybrid materials based on cement with a 5% addition of geopolymer, based on both FA and MK, enabled precise detail printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
       <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/lach_michal"><b>Łach</b> Michał</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../marc_ziej_ach_korn.2019.PoUt3PPitCaGA/">Possibilities of Using the 3D Printing Process in the Concrete and Geopolymers Application</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../salm_ma_ijaz_wang.2021.IaPoCMaDiEB3CP/">Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing:<br/>Prospects and Challenges</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
@@ -104,4 +79,34 @@ tags:
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
       <li><a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/lv_chun"><b>Lv</b> Chun</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lv.2022.Po3PPFRM/">Properties of 3D Printed Polymer Fiber-Reinforced Mortars:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{marc_ziej_gade_korn.2021.HMBoFAMaCf3P,
+      author            = "Joanna Marczyk and Celina Ziejewska and Szymon Gądek and Kinga Korniejenko and Michał Łach and Mateusz Góra and Izabela Kurek and Neslihan Doğan-Sağlamtimur and Marek Hebda and Magdalena Szechyńska-Hebda",
+      title             = "Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing",
+      doi               = "10.3390/ma14226874",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "22",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Marczyk, “Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing”, <i>Materials</i>, vol. 14, no. 22, 2021, doi: 10.3390/ma14226874.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Marczyk, Joanna, Celina Ziejewska, Szymon Gądek, Kinga Korniejenko, Michał Łach, Mateusz Góra, Izabela Kurek, Neslihan Doğan-Sağlamtimur, Marek Hebda, and Magdalena Szechyńska-Hebda. “Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing”. <i>Materials</i> 14, no. 22 (2021). https://doi.org/10.3390/ma14226874.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Yao, Zonglin Xie, Zemin Li, Chuhan Huang, Qiang Yuan, Xinguo Zheng
+    - footer
+title: Yao Hao, Xie Zonglin, Li Zemin, Huang Chuhan, Yuan Qiang, Zheng Xinguo
 description:
 tags:
  - attapulgite
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.125809" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.125809</a>
+#The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.125809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.125809" target="_blank">10.1016/j.conbuildmat.2021.125809</a>
 
--------------------------
+<a href="../../../author/yao_hao"><b>Yao</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1438-4194" title="ORCID: 0000-0002-1438-4194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_zonglin"><b>Xie</b>&nbsp;Zonglin</a></span>, <a href="../../../author/li_zemin"><b>Li</b>&nbsp;Zemin</a></span>, <a href="../../../author/huang_chuhan"><b>Huang</b>&nbsp;Chuhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/zheng_xinguo"><b>Zheng</b>&nbsp;Xinguo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 316
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>
-,     <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a> <a href="https://orcid.org/0000-0002-1438-4194" title="ORCID: 0000-0002-1438-4194" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>
-,     <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a>
-,     <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> <a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zheng_xinguo"><b>Zheng</b> Xinguo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 316, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#attapulgite`](keyword/attapulgite)
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#cement`](keyword/cement)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#relation`](keyword/relation)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/attapulgite"><button class="btn">#attapulgite</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Relationship%20Between%20the%20Rheological%20Behavior%20and%20Inter-Layer%20Bonding%20Properties%20of%203D%20Printing%20Cementitious%20Materials%20with%20the%20Addition%20of%20Attapulgite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120077775&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3215476887" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.125809" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.125809?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rheological behavior of fresh 3D printing concrete (3DPC) not only determines the pumpability, extrudability and buildability, but also strongly affects the interlayer properties. Which is one of the most important characteristics of 3D printing construction that shaped layer by layer. This paper systematically studied the relationship between the rheological behavior (tuned by attapulgite) and the interlayer bonding properties of 3DPC. The results showed that the interlayer bonding strength and interlayer durability strongly depend on the rheological parameters (i.e., dynamic yield stress, plastic viscosity, static yield stress and structural build-up rate). With the increase of dynamic yield stress and structural build-up rate, the interlayer bonding strength and interlayer durability both decreased. Moreover, an empirical formula combining interlayer bonding strength with the dynamic yield stress and the structural build-up rate of 3DPC, considering the porosity and hydration degree, was proposed for the first time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -106,8 +79,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "61 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
@@ -169,4 +143,33 @@ tags:
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../pan_jian_ji.2022.ILBIo3PCMwFRPSaHDPS/">Inter-Layer Bonding Investigation of 3D Printing Cementitious Materials with Fluidity-Retaining Polycarboxylate-Superplasticizer and High-Dispersion Polycarboxylate Superplasticizer</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM/">Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA,
+      author            = "Hao Yao and Zonglin Xie and Zemin Li and Chuhan Huang and Qiang Yuan and Xinguo Zheng",
+      title             = "The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite",
+      doi               = "10.1016/j.conbuildmat.2021.125809",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "316",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Yao, Z. Xie, Z. Li, C. Huang, Q. Yuan and X. Zheng, “The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite”, <i>Construction and Building Materials</i>, vol. 316, 2022, doi: 10.1016/j.conbuildmat.2021.125809.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yao, Hao, Zonglin Xie, Zemin Li, Chuhan Huang, Qiang Yuan, and Xinguo Zheng. “The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite”. <i>Construction and Building Materials</i> 316 (2022). https://doi.org/10.1016/j.conbuildmat.2021.125809.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

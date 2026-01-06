@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Songyuan Geng, Boyuan Cheng, Wujian Long, Qiling Luo, Biqin Dong, Feng Xing
+    - footer
+title: Geng Songyuan, Cheng Boyuan, Long Wujian, Luo Qiling, Dong Biqin, Xing Feng
 description:
 tags:
  - concrete
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.autcon.2025.106294" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106294</a>
+#Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2025.106294" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106294" target="_blank">10.1016/j.autcon.2025.106294</a>
 
--------------------------
+<a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-5534-9419" title="ORCID: 0009-0000-5534-9419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_boyuan"><b>Cheng</b>&nbsp;Boyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <a href="../../../author/dong_biqin"><b>Dong</b>&nbsp;Biqin</a></span>, <a href="../../../author/xing_feng"><b>Xing</b>&nbsp;Feng</a></span><br>
+Journal Article - Automation in Construction, Vol. 176, No. 106294
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>
-,     <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a> <a href="https://orcid.org/0009-0000-5534-9419" title="ORCID: 0009-0000-5534-9419" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>
-,     <a href="../../../author/dong_biqin"><b>Dong</b> Biqin</a>
-,     <a href="../../../author/xing_feng"><b>Xing</b> Feng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 176, No. 106294
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#height`](keyword/height)
-    [`#intelligence`](keyword/intelligence)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#physics`](keyword/physics)
-    [`#precision`](keyword/precision)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/precision"><button class="btn">#precision</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Co-Driven%20Physics%20and%20Machine%20Learning%20for%20Intelligent%20Control%20in%20High-Precision%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005860118&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410739266" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106294" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106294?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the increasing demand for precise control in 3D concrete printing, coordinating material rheological properties and printing parameters has become a critical challenge. This paper addresses how to intelligently optimize printing parameters to adapt to varying concrete material attributes and improve printing quality. A dual-path framework co-driven by physical information equations (PIE) and machine learning (ML) is proposed. PIE is embedded into convolutional neural networks (CNN) to enhance rheological properties prediction, while also coupled with the random forest (RF) model to predict printing parameters. Results show this approach efficiently matches yield stress (YS), plastic viscosity (PV), extrusion speed (ES), and printing speed (PS), significantly enhancing printing performance. This research provides construction engineers and 3D printing operators with a physics-guided, interpretable intelligent tool that reduces trial-and-error and improves construction reliability. The integration strategy also opens promising directions for future studies on large-scale printing involving multi-scale material-process-structure optimization and time-dependent rheological modeling.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../cui_liu_guo_da.2025.GQIi3CPUAACV/">Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision</a></li>
@@ -95,7 +70,37 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zivkovic_milijana"><b>Živković</b> Milijana</a>, <a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zivk_zujo_milo.2023.A3PSCUAI/">Architectural 3D Printed Structures Created Using Artificial Intelligence:<br/>A Review of Techniques and Applications</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geng_chen_long_luo.2025.CDPaMLfICiHP3CP,
+      author            = "Songyuan Geng and Boyuan Cheng and Wujian Long and Qiling Luo and Biqin Dong and Feng Xing",
+      title             = "Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing",
+      doi               = "10.1016/j.autcon.2025.106294",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "176",
+      pages             = "106294",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Geng, B. Cheng, W. Long, Q. Luo, B. Dong and F. Xing, “Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing”, <i>Automation in Construction</i>, vol. 176, p. 106294, 2025, doi: 10.1016/j.autcon.2025.106294.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geng, Songyuan, Boyuan Cheng, Wujian Long, Qiling Luo, Biqin Dong, and Feng Xing. “Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing”. <i>Automation in Construction</i> 176 (2025): 106294. https://doi.org/10.1016/j.autcon.2025.106294.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

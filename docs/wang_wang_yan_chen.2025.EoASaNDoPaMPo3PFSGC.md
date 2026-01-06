@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Suguo Wang, Xing Wang, Xueyuan Yan, Shanghong Chen
+    - footer
+title: Wang Suguo, Wang Xing, Yan Xueyuan, Chen Shanghong
 description:
 tags:
  - aggregate
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/18/15/3681/pdf?version=1754403141) Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete ([2025-08](date/2025/08))
-<a href="https://doi.org/10.3390/ma18153681" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18153681</a>
+#Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete ([2025-08](date/2025/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/15/3681/pdf?version=1754403141) <a href="https://doi.org/10.3390/ma18153681" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18153681" target="_blank">10.3390/ma18153681</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9177-6872" title="ORCID: 0000-0001-9177-6872" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_suguo"><b>Wang</b>&nbsp;Suguo</a></span>, <a href="../../../author/wang_xing"><b>Wang</b>&nbsp;Xing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8124-4669" title="ORCID: 0000-0002-8124-4669" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_xueyuan"><b>Yan</b>&nbsp;Xueyuan</a></span>, <a href="../../../author/chen_shanghong"><b>Chen</b>&nbsp;Shanghong</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 15, No. 3681
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a> <a href="https://orcid.org/0000-0001-9177-6872" title="ORCID: 0000-0001-9177-6872" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>
-,     <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a> <a href="https://orcid.org/0000-0002-8124-4669" title="ORCID: 0000-0002-8124-4669" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 15, No. 3681
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#diameter`](keyword/diameter)
-    [`#effect`](keyword/effect)
-    [`#ggbfs`](keyword/ggbfs)
-    [`#mechanics`](keyword/mechanics)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#size`](keyword/size)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/diameter"><button class="btn">#diameter</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/ggbfs"><button class="btn">#ggbfs</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Aggregate%20Size%20and%20Nozzle%20Diameter%20on%20Printability%20and%20Mechanical%20Properties%20of%203D%20Printed%20Ferronickel%20Slag-GGBFS%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013124460&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412990487" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18153681" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18153681?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Ferronickel slag and ground granulated blast-furnace slag (GGBFS) are solid waste by-products from the metallurgical industry. When incorporated into concrete, they help promote resource utilization, reduce hydration heat, and lower both solid waste emissions and the carbon footprint. To facilitate the application of ferronickel slag–GGBFS concrete in 3D printing, this study examines how aggregate size and nozzle diameter affect its performance. The investigation involves in situ printing, rheological characterization, mechanical testing, and scanning electron microscopy (SEM) analysis. Results indicate that excessively large average aggregate size negatively impacts the smooth extrusion of concrete strips, resulting in a cross-sectional width that exceeds the preset dimension. Excessively small average aggregate size results in insufficient yield stress, leading to a narrow cross-section of the extruded strip that fails to meet printing specifications. The extrusion performance is closely related to both the average aggregate size and nozzle diameter, which can significantly influence the normal extrusion stability and print quality of 3D printed concrete strips. The thixotropic performance improves with an increase in the aggregate size. Both compressive and flexural strengths improve with increasing aggregate size but decrease with an increase in the printing nozzle size. Anisotropy in mechanical behavior decreases progressively as both parameters mentioned increase. By examining the cracks and pores at the interlayer interface, this study elucidates the influence mechanism of aggregate size as well as printing nozzle parameters on the mechanical properties of 3D printed ferronickel slag–GGBFS concrete. This study also recommends the following ranges. When the maximum aggregate size exceeds 50% of the nozzle diameter, smooth extrusion is not achievable. If it falls between 30% and 50%, extrusion is possible but shaping remains unstable. When it is below 30%, both stable extrusion and good shaping can be achieved.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bong_nema_nere_mech.2022.MoF3PSHAACfAC/">Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -101,7 +75,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC,
+      author            = "Suguo Wang and Xing Wang and Xueyuan Yan and Shanghong Chen",
+      title             = "Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete",
+      doi               = "10.3390/ma18153681",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "15",
+      pages             = "3681",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Wang, X. Wang, X. Yan and S. Chen, “Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete”, <i>Materials</i>, vol. 18, no. 15, p. 3681, 2025, doi: 10.3390/ma18153681.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Suguo, Xing Wang, Xueyuan Yan, and Shanghong Chen. “Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete”. <i>Materials</i> 18, no. 15 (2025): 3681. https://doi.org/10.3390/ma18153681.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

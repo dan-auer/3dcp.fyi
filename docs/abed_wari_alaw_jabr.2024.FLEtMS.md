@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammadmadhi Abedi, Muhammad Waris, Mubarak Alawi, Khalifa Jabri, Abdullah Saidy
+    - footer
+title: Abedi Mohammadmadhi, Waris Muhammad, Alawi Mubarak, Jabri Khalifa, Saidy Abdullah
 description:
 tags:
  - cement
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} From Local Earth to Modern Structures:<br/>:aca-blank: A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jobe.2024.111638" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111638</a>
+#From Local Earth to Modern Structures&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111638" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111638" target="_blank">10.1016/j.jobe.2024.111638</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b>&nbsp;Mohammadmadhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waris_bilal_muhammad"><b>Waris</b>&nbsp;Muhammad</a></span>, <a href="../../../author/alawi_khamis_mubarak"><b>al&nbsp;Alawi</b>&nbsp;Mubarak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabri_saif_khalifa"><b>al&nbsp;Jabri</b>&nbsp;Khalifa</a></span>, <a href="../../../author/saidy_hilal_abdullah"><b>al&nbsp;Saidy</b>&nbsp;Abdullah</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111638
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> <a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a> <a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alawi_khamis_mubarak"><b>al Alawi</b> Mubarak</a>
-,     <a href="../../../author/jabri_saif_khalifa"><b>al Jabri</b> Khalifa</a> <a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saidy_hilal_abdullah"><b>al Saidy</b> Abdullah</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111638
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#critical`](keyword/critical)
-    [`#earth`](keyword/earth)
-    [`#efficient`](keyword/efficient)
-    [`#local`](keyword/local)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Local%20Earth%20to%20Modern%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214338292&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405915256" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111638" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111638?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review presents a detailed analysis of locally materials-based cementitious composites for 3D-printing construction. The study thoroughly examines the properties of different types of clay, their chemical composition, and the benefits of thermal, chemical, and mechanical activation methods. Special attention is given to the optimization of clay-based composites through the incorporation of calcined clays and limestone, which significantly reduce the carbon footprint of cement production while enhancing mechanical and rheological properties. The fresh and hardened states of these composites are analysed to address key factors of rheology, extrudability, buildability, green strength, and mechanical and durability performances. The influence of mixed design parameters, including water-to-binder ratios and use of additives, is critically evaluated to optimize printability and structural performance. Extensive literature is presented in the form of tables to provide a comparative analysis of components, effective factors and optimum ranges of calcined clay cement-based composites for 3D-printing. By consolidating the current research and practical case studies, this review identifies the potential of local materials to create efficient, resilient, and sustainable 3D-printed structures specifically in extreme environments such as those found in urban regions and oil fields of Oman. The findings presented here are essential for advancing the application of local resources in sustainable construction, providing valuable insights for researchers and practitioners in the field.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "100 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/aldabergenova_gaziza"><b>Aldabergenova</b> Gaziza</a>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a>, <a href="../../../author/konkanov_marat"><b>Konkanov</b> Marat</a>, <a href="../../../author/kirgizbayev_akpan"><b>Kirgizbayev</b> Akpan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../alda_jexe_konk_kirg.2024.TEWBFGFCf3P/">The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
@@ -175,10 +150,39 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abed_wari_alaw_jabr.2025.TLC3PI/">Transformative Low-Carbon 3D-Printed Infrastructure:<br/>Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abed_wari_alaw_jabr.2024.FLEtMS,
+      author            = "Mohammadmadhi Abedi and Muhammad Bilal Waris and Mubarak Khamis Al Alawi and Khalifa Saif Al Jabri and Abdullah Hilal Al Saidy",
+      title             = "From Local Earth to Modern Structures: A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction",
+      doi               = "10.1016/j.jobe.2024.111638",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111638",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Abedi, M. B. Waris, M. K. A. Alawi, K. S. A. Jabri and A. H. A. Saidy, “From Local Earth to Modern Structures: A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction”, <i>Journal of Building Engineering</i>, p. 111638, 2024, doi: 10.1016/j.jobe.2024.111638.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abedi, Mohammadmadhi, Muhammad Bilal Waris, Mubarak Khamis Al Alawi, Khalifa Saif Al Jabri, and Abdullah Hilal Al Saidy. “From Local Earth to Modern Structures: A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction”. <i>Journal of Building Engineering</i>, 2024, 111638. https://doi.org/10.1016/j.jobe.2024.111638.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

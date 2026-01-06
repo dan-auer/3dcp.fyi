@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Shakor Pshtiwan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
   <li><a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gasparini_giada"><b>Gasparini</b> Giada</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lagh_shak_pand_gasp.2024.E/">Editorial:<br/>Additive Manufacturing in Construction</a></li>
   <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/lagaros_d_nikos"><b>Lagaros</b> Nikos</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_laga.2023.AMfAMiC/">Advanced Modelling for Additive Manufacturing in Construction</a></li>

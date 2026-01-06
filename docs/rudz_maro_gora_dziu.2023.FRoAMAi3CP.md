@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Magdalena Rudziewicz, Marcin Maroszek, Mateusz Góra, Paweł Dziura, Katarzyna Mróz, Izabela Hager, Marek Hebda
+    - footer
+title: Rudziewicz Magdalena, Maroszek Marcin, Góra Mateusz, Dziura Paweł, Mróz Katarzyna, Hager Izabela, Hebda Marek
 description:
 tags:
  - application
@@ -14,33 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/17/6032/pdf?version=1693640293) Feasibility Review of Aerated Materials Application in 3D Concrete Printing ([2023-09](date/2023/09))
-<a href="https://doi.org/10.3390/ma16176032" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16176032</a>
+#Feasibility Review of Aerated Materials Application in 3D Concrete Printing ([2023-09](date/2023/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/17/6032/pdf?version=1693640293) <a href="https://doi.org/10.3390/ma16176032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16176032" target="_blank">10.3390/ma16176032</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0028-5312" title="ORCID: 0000-0002-0028-5312" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gora_mateusz"><b>Góra</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4739-9146" title="ORCID: 0000-0003-4739-9146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dziura_pawel"><b>Dziura</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mroz_katarzyna"><b>Mróz</b>&nbsp;Katarzyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 17
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gora_mateusz"><b>Góra</b> Mateusz</a> <a href="https://orcid.org/0000-0002-0028-5312" title="ORCID: 0000-0002-0028-5312" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dziura_pawel"><b>Dziura</b> Paweł</a> <a href="https://orcid.org/0000-0003-4739-9146" title="ORCID: 0000-0003-4739-9146" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a> <a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> <a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 17, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#feasibility`](keyword/feasibility)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Review%20of%20Aerated%20Materials%20Application%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185882027&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386420803" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16176032" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16176032?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent years have witnessed a growing global interest in 3D concrete printing technology due to its economic and scientific advantages. The application of foamed concrete, renowned for its exceptional thermal and acoustic insulation properties, not only holds economic attractiveness but also aligns seamlessly with the principles of sustainable development. This study explores various solutions related to 3D printing technology in construction, discussing the design, production, and properties of foamed concrete mixtures. The integration of 3D printing and the potential for automating the entire process offers opportunities to boost productivity and reduce construction costs. Furthermore, the utilization of foamed concrete with its commendable insulation properties will enable a reduction in the usage of materials other than concrete (e.g., mineral wool, facade mesh, and polystyrene), significantly facilitating the recycling process during building demolition. This, in turn, will lead to the preservation of nonrenewable natural resources and a decrease in CO2 emissions. Despite the promising results, there have been limited studies focusing on 3D printing with foamed materials, whereas a survey of the existing body of literature indicates a notable absence of endeavors pertaining to the utilization of aerated concrete within the realm of 3D printing, especially geopolymer composites (GP) and hybrid geopolymer composites (HGP). The outcomes delineated in the ensuing discourse are demonstrative for conventionally used materials rather than the additive manufacturing variant. Hence, this work aims to systematically review existing practices and techniques related to producing foamed concrete with 3D printing technology. This analysis also contributes to the establishment of a foundational framework and furnishes a preliminary basis upon which future endeavors aimed at the 3D printing of aerated concrete can be embarked. The findings from the literature analysis justify the desirability of continuing research on this topic, particularly when considering the potential for large-scale industrial implementation. This article provides a comprehensive state of the knowledge on the development of 3D printing techniques for foamed concrete mixtures. By consolidating and analyzing findings from different studies, this article offers insights into the advancements, challenges, and potential applications of foamed concrete in additive manufacturing processes. This, in turn, contributes to the overall understanding and advancement of 3D printing technologies using foamed concrete as a versatile and sustainable construction material. The encouraging results obtained from the analysis further underscore the need for the continued exploration of 3D printing, especially with an eye towards its industrial-scale implementation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
@@ -106,8 +83,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../card_parm_varg_rest.2026.IoVAiLFCf3P/">Incorporation of Vitrified Ashes in Lightweight Foamed Concrete for 3D Printing:<br/>Thermal and Mechanical Assessment</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../rudz_huty_maro_korn.2025.3PLFCwDR/">3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement</a></li>
@@ -119,4 +96,34 @@ tags:
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b> Kinga</a>, <a href="../../../author/gora_mateusz"><b>Góra</b> Mateusz</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../rudz_maro_setl_gora.2024.OoFPFRCMDf3P/">Optimization of Foams-Polypropylene Fiber-Reinforced Concrete Mixtures Dedicated for 3D Printing</a></li>
       <li><a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../parm_fall_moro_ferr.2024.3PMFFCBC/">3D Printed Multi-Functional Foamed Concrete Building Components:<br/>Material-Properties, Component Design, and 3D Printing Application</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rudz_maro_gora_dziu.2023.FRoAMAi3CP,
+      author            = "Magdalena Rudziewicz and Marcin Maroszek and Mateusz Góra and Paweł Dziura and Katarzyna Mróz and Izabela Hager and Marek Hebda",
+      title             = "Feasibility Review of Aerated Materials Application in 3D Concrete Printing",
+      doi               = "10.3390/ma16176032",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "17",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rudziewicz, “Feasibility Review of Aerated Materials Application in 3D Concrete Printing”, <i>Materials</i>, vol. 16, no. 17, 2023, doi: 10.3390/ma16176032.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rudziewicz, Magdalena, Marcin Maroszek, Mateusz Góra, Paweł Dziura, Katarzyna Mróz, Izabela Hager, and Marek Hebda. “Feasibility Review of Aerated Materials Application in 3D Concrete Printing”. <i>Materials</i> 16, no. 17 (2023). https://doi.org/10.3390/ma16176032.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

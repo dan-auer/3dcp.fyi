@@ -8,7 +8,8 @@ search:
 
 # #workability
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
   <li><a href="../../../author/huang_qunyi"><b>Huang</b> Qunyi</a>, <a href="../../../author/huang_qingyu"><b>Huang</b> Qingyu</a>, <a href="../../../author/yang_hong"><b>Yang</b> Hong</a>, <a href="../../../author/zhang_jiahang"><b>Zhang</b> Jiahang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_huan_yang_zhan.2026.RotWo3PFRCM/">Research on the Workability of 3D Printed Fiber-Reinforced Concrete Materials</a></li>
   <li><a href="../../../author/khokher_shawn"><b>Khokher</b> Shawn</a>, <a href="../../../author/sanguinetti_paola"><b>Sanguinetti</b> Paola</a>, <a href="../../../author/reilly_matthew"><b>Reilly</b> Matthew</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../khok_sang_reil.2024.CiEWaPf3PGM/">Challenges in Enhancing Workability and Printability for 3D Printable Geopolymer Mortar</a></li>
   <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/ly_duy-khuong"><b>Ly</b> Duy-Khuong</a>, <a href="../../../author/nguyen_tan"><b>Nguyen</b> Tan</a>, <a href="../../../author/tran_ngoc-thi_nhi"><b>Tran</b> Nhi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../tran_ly_nguy_tran.2024.RPoWPf3PwSSAUBRaEA/">Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm</a></li>

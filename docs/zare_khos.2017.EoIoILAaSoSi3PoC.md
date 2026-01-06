@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Babak Zareiyan, Behrokh Khoshnevis
+    - footer
+title: Zareiyan Babak, Khoshnevis Behrokh
 description:
 tags:
  - adhesion
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete ([2017-08](date/2017/08))
-<a href="https://doi.org/10.1016/j.autcon.2017.08.019" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2017.08.019</a>
+#Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete ([2017-08](date/2017/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2017.08.019" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.08.019" target="_blank">10.1016/j.autcon.2017.08.019</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zareiyan_babak"><b>Zareiyan</b>&nbsp;Babak</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Automation in Construction, Vol. 83, pp. 212-221
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a> <a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 83, pp. 212-221
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#inter`](keyword/inter)
-    [`#interlocking`](keyword/interlocking)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Interlocking%20on%20Inter-Layer%20Adhesion%20and%20Strength%20of%20Structures%20in%203D%20Printing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85027492108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2747594838" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2017.08.019" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2017.08.019?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of concrete uses computer controlled layering of cementitious material to fabricate structures. The paper presented here investigates the effect of interlocking on bond strength between layers of Contour Crafted structure using experimental approaches. A concrete mixture which is compatible with the existing extrusion system is used and different interlock configurations are tested. The results show that bonding strengths is sensitive to interlocking and it can be increased by an average of 26% as shown by splitting test.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -78,10 +57,11 @@ tags:
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
-      <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../zare_khos.2018.EoMIoEoCiCC/">Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "260 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
+      <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
@@ -341,4 +321,34 @@ tags:
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zare_khos.2017.EoIoILAaSoSi3PoC,
+      author            = "Babak Zareiyan and Behrokh Khoshnevis",
+      title             = "Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete",
+      doi               = "10.1016/j.autcon.2017.08.019",
+      year              = "2017",
+      journal           = "Automation in Construction",
+      volume            = "83",
+      pages             = "212--221",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zareiyan  and B. Khoshnevis, “Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete”, <i>Automation in Construction</i>, vol. 83, pp. 212–221, 2017, doi: 10.1016/j.autcon.2017.08.019.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zareiyan, Babak, and Behrokh Khoshnevis. “Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete”. <i>Automation in Construction</i> 83 (2017): 212–21. https://doi.org/10.1016/j.autcon.2017.08.019.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

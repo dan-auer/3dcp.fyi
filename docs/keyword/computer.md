@@ -8,7 +8,7 @@ search:
 
 # #computer
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
   <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
   <li><a href="../../../author/lale_erol"><b>Lale</b> Erol</a>, <a href="../../../author/ayhan_bahar"><b>Ayhan</b> Bahar</a>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC/">Computational Simulations Fresh-to-Solid Transition for Additive Manufacturing of Ultra-High-Performance Fiber Reinforced Concrete</a></li>

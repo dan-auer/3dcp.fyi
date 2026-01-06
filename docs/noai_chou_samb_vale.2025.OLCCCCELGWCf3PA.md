@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yazeed Noaimat, Mehdi Chougan, Matteo Sambucci, Marco Valente, Jacopo Tirillò, Abdulrahman Albar, Behzad Nematollahi, Seyed Ghaffar
+    - footer
+title: Noaimat Yazeed, Chougan Mehdi, Sambucci Matteo, Valente Marco, Tirillò Jacopo, Albar Abdulrahman, Nematollahi Behzad, Ghaffar Seyed
 description:
 tags:
  - application
@@ -18,38 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.clet.2025.100991) Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.clet.2025.100991" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.clet.2025.100991</a>
+#Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.clet.2025.100991) <a href="https://doi.org/10.1016/j.clet.2025.100991" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clet.2025.100991" target="_blank">10.1016/j.clet.2025.100991</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noaimat_afet-adnan_yazeed"><b>al&nbsp;Noaimat</b>&nbsp;Yazeed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sambucci_matteo"><b>Sambucci</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valente_marco"><b>Valente</b>&nbsp;Marco</a></span>, <a href="../../../author/tirillo_jacopo"><b>Tirillò</b>&nbsp;Jacopo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/albar_m_abdulrahman"><b>Albar</b>&nbsp;Abdulrahman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span><br>
+Journal Article - Cleaner Engineering and Technology, Vol. 27, No. 100991
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/noaimat_afet-adnan_yazeed"><b>al Noaimat</b> Yazeed</a> <a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tirillo_jacopo"><b>Tirillò</b> Jacopo</a>
-,     <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> <a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Engineering and Technology, Vol. 27, No. 100991
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#containment`](keyword/containment)
-    [`#grade`](keyword/grade)
-    [`#limestone`](keyword/limestone)
-    [`#low`](keyword/low)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimising%20Limestone%20Calcined%20Clay%20Cement%20Containing%20Excavated%20Low-Grade%20Waste%20Clay%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008685082&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411536499" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.clet.2025.100991" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.clet.2025.100991?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent studies reported the use of limestone calcined clay cement (LC3) as a low-carbon binder for 3D concrete printing (3DCP) applications. These studies typically used 1:1 clay minerals, specifically medium to high-purity clays, containing a minimum of 40 % Kaolinite. This study aims to valorise low-grade waste clay (representative of 2:1 clay mineral with a maximum of 20 % Kaolinite content) excavated from a tunnelling project to develop an LC3 mixture for 3DCP applications. This research investigates the effect of different calcination temperatures, dosages of superplasticiser (SP) and viscosity modifying agent (VMA) on the fresh properties, mechanical characteristics, reaction kinetics, shape stability, and buildability of the developed mixes. The results revealed that activating excavated clay at 800 °C exhibited the highest reactivity compared to calcination temperatures of 700 and 900 °C. The incorporation of admixtures (i.e., SP and VMA) had varying effects on the fresh and mechanical properties of the mixtures. The LC3 mixture containing 1 wt% SP and 0.6 wt% VMA (by weight of the binder) exhibited robust shape stability and achieved the best mechanical performance among the mixtures investigated in this study and had an open time of 65 min. A cylindrical object was successfully printed using this mixture, confirming its suitability for 3DCP applications. Environmental impact calculations showed that replacing OPC with the developed LC3 mixture provides significant environmental benefits, reducing CO2 emissions by around 39 %. This study confirms the feasibility of using excavated low-grade waste clay as feedstock for 3DCP applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -95,8 +67,38 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sedighi_saeed"><b>Sedighi</b> Saeed</a>, <a href="../../../author/rahai_alireza"><b>Rahai</b> Alireza</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC/">Multi-Criteria Optimization for Sustainable Concrete Mix Considering the Synergistic Effect of Recycled Steel Fiber and LC3 Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{noai_chou_samb_vale.2025.OLCCCCELGWCf3PA,
+      author            = "Yazeed Afet Adnan Al Noaimat and Mehdi Chougan and Matteo Sambucci and Marco Valente and Jacopo Tirillò and Abdulrahman M. Albar and Behzad Nematollahi and Seyed Hamidreza Ghaffar",
+      title             = "Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications",
+      doi               = "10.1016/j.clet.2025.100991",
+      year              = "2025",
+      journal           = "Cleaner Engineering and Technology",
+      volume            = "27",
+      pages             = "100991",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. A. A. A. Noaimat, “Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications”, <i>Cleaner Engineering and Technology</i>, vol. 27, p. 100991, 2025, doi: 10.1016/j.clet.2025.100991.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Noaimat, Yazeed Afet Adnan Al, Mehdi Chougan, Matteo Sambucci, Marco Valente, Jacopo Tirillò, Abdulrahman M. Albar, Behzad Nematollahi, and Seyed Hamidreza Ghaffar. “Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications”. <i>Cleaner Engineering and Technology</i> 27 (2025): 100991. https://doi.org/10.1016/j.clet.2025.100991.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

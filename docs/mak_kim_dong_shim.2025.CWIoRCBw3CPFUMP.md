@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bunleang Mak, Tae Kim, Won-Jun Dong, Chang Shim
+    - footer
+title: Mak Bunleang, Kim Tae, Dong Won-Jun, Shim Chang
 description:
 tags:
  - beam
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.engstruct.2025.121232" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.121232</a>
+#Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters ([2025-08](date/2025/08))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.engstruct.2025.121232" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121232" target="_blank">10.1016/j.engstruct.2025.121232</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-3017-7068" title="ORCID: 0009-0007-3017-7068" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mak_bunleang"><b>Mak</b>&nbsp;Bunleang</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-7233-9892" title="ORCID: 0009-0005-7233-9892" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_kyung_tae"><b>Kim</b>&nbsp;Tae</a></span>, <a href="../../../author/dong_won-jun"><b>Dong</b>&nbsp;Won-Jun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7557-9553" title="ORCID: 0000-0001-7557-9553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shim_su_chang"><b>Shim</b>&nbsp;Chang</a></span><br>
+Journal Article - Engineering Structures, Vol. 343, No. 121232
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mak_bunleang"><b>Mak</b> Bunleang</a> <a href="https://orcid.org/0009-0007-3017-7068" title="ORCID: 0009-0007-3017-7068" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a> <a href="https://orcid.org/0009-0005-7233-9892" title="ORCID: 0009-0005-7233-9892" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a>
-,     <a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> <a href="https://orcid.org/0000-0001-7557-9553" title="ORCID: 0000-0001-7557-9553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 343, No. 121232
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#formwork`](keyword/formwork)
-    [`#investigation`](keyword/investigation)
-    [`#modification`](keyword/modification)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Crack%20Width%20Investigation%20of%20Reinforced%20Concrete%20Beam%20with%203D%20Concrete%20Printed%20Formwork%20Using%20Modified%20Parameters" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014537512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413734498" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.121232" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.121232?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional permanent formwork (3DPF) represents an innovative technology in the construction industry, providing a digital manufacturing alternative to conventional formwork. Despite the advantages of 3DPF, a dedicated design code for predicting the crack width of 3DPF beam members under service conditions does not currently exist. This study examines the flexural cracking behavior and crack width investigation of reinforced concrete (RC) beams incorporating 3DPF by adapting the empirical equation parameters specified in Eurocode 2. Given that the interfaces between printed layers render the standard Eurocode 2 equation for maximum crack spacing inapplicable to 3DPF members, observed experimental values were used in the calculations. The research involved designing and testing two 3D-printed beam specimens alongside one conventional RC beam under four-point bending loads. An empirical equation for crack width calculation, integrating an equivalent material property for the printed material, is proposed to enhance the accuracy of 3DPF crack width predictions. The experimental results were strongly consistent with analytical predictions, thus highlighting the potential of the proposed methodology as a reliable approach for controlling cracking in 3DPF beam members.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bai_xiao_wu_ding.2024.EaNSotFBo3PCBwUSEF/">Experimental and Numerical Study on the Flexural Behavior of 3D Printed Composite Beams with U-Shaped ECC Formwork</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kim_oh_lee_dong.2025.Eo3PCPFotFBoRCB/">Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams:<br/>Experimental and Analytical Investigations</a></li>
@@ -88,7 +64,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mak_kim_dong_shim.2025.CWIoRCBw3CPFUMP,
+      author            = "Bunleang Mak and Tae Kyung Kim and Won-Jun Dong and Chang Su Shim",
+      title             = "Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters",
+      doi               = "10.1016/j.engstruct.2025.121232",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "343",
+      pages             = "121232",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Mak, T. K. Kim, W.-J. Dong and C. S. Shim, “Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters”, <i>Engineering Structures</i>, vol. 343, p. 121232, 2025, doi: 10.1016/j.engstruct.2025.121232.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mak, Bunleang, Tae Kyung Kim, Won-Jun Dong, and Chang Su Shim. “Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters”. <i>Engineering Structures</i> 343 (2025): 121232. https://doi.org/10.1016/j.engstruct.2025.121232.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

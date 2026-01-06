@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Manu Mohan, Attupurathu Rahul, Geert Schutter, Kim Tittelboom
+    - footer
+title: Tao Yaxin, Mohan Manu, Rahul Attupurathu, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - application
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1617/s11527-024-02310-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-024-02310-4</a>
+#Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-024-02310-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-024-02310-4" target="_blank">10.1617/s11527-024-02310-4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohan_k_manu"><b>Mohan</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Materials and Structures, Vol. 57, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> <a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 57, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#demand`](keyword/demand)
-    [`#hydration`](keyword/hydration)
-    [`#micro`](keyword/micro)
-    [`#setting`](keyword/setting)
-    [`#sulfoaluminate`](keyword/sulfoaluminate)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hydration%20and%20Microstructure%20of%20Calcium-Sulfoaluminate-Portland-Cement%20Binder%20Systems%20for%20Set-on-Demand%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185392896&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391926936" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-024-02310-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-024-02310-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The concept set-on-demand in the context of digital fabrication refers to a long enough open time of fresh concrete during the delivering process but a quick strength build-up after extrusion, which is indispensable to achieve a high construction rate. In this paper, we explore the hydration and microstructure of a combination of two reactive streams including a retarded calcium sulfoaluminate (CSA) mixture and a Portland cement (PC) mixture. Experiments were conducted on both the constituent mixtures and the combined mixtures with different volume ratios of the constituent mixtures. Hydration heat release, hydration products, pore structure, early-age mechanical behavior, and autogenous shrinkage are specifically investigated. It is concluded that the PC mixture can be effectively used to trigger the initial hydration of the retarded CSA cement, whereby the formation of ettringite can be boosted depending on the volume ratio of the CSA mixture to the PC mixture. In addition, it is shown that the difference in the volume ratio affects the pore structure and the autogenous shrinkage behavior, which can be well correlated to the phase assemblage of the CSA-PC system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../das_reit_mant_flat.2022.EARaHCoTBf3PA/">Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications</a></li>
       <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/li_lei"><b>Li</b> Lei</a>, <a href="../../../author/yao_qinye"><b>Yao</b> Qinye</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../duan_li_yao_zou.2022.EoMotFaHPo3PCC/">Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
@@ -96,10 +72,40 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC/">Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tao_titt_rahu_wang.2024.SMfSoDoDC/">Static Mixing for Set-on-Demand of Digital Concrete</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b> Matineh</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wang_tao_das_mahm.2024.A2SiDC/">Aluminate 2K Systems in Digital Concrete:<br/>Process, Design, Chemistry, and Outlook</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_moha_rahu_schu.2024.HaMoCSPCBSfSoDA,
+      author            = "Yaxin Tao and Manu K. Mohan and Attupurathu Vijayan Rahul and Geert de Schutter and Kim van Tittelboom",
+      title             = "Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications",
+      doi               = "10.1617/s11527-024-02310-4",
+      year              = "2024",
+      journal           = "Materials and Structures",
+      volume            = "57",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, M. K. Mohan, A. V. Rahul, G. de Schutter and K. van Tittelboom, “Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications”, <i>Materials and Structures</i>, vol. 57, no. 2, 2024, doi: 10.1617/s11527-024-02310-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Manu K. Mohan, Attupurathu Vijayan Rahul, Geert de Schutter, and Kim van Tittelboom. “Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications”. <i>Materials and Structures</i> 57, no. 2 (2024). https://doi.org/10.1617/s11527-024-02310-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

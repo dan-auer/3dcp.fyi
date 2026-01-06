@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pshtiwan Shakor, Shami Nejadi, Gavin Paul, Sardar Malek
+    - footer
+title: Shakor Pshtiwan, Nejadi Shami, Paul Gavin, Malek Sardar
 description:
 tags:
  - additive
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fbuil.2018.00085/pdf) Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry ([2019-01](date/2019/01))
-<a href="https://doi.org/10.3389/fbuil.2018.00085" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fbuil.2018.00085</a>
+#Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry ([2019-01](date/2019/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fbuil.2018.00085/pdf) <a href="https://doi.org/10.3389/fbuil.2018.00085" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fbuil.2018.00085" target="_blank">10.3389/fbuil.2018.00085</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nejadi_shami"><b>Nejadi</b>&nbsp;Shami</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_gavin"><b>Paul</b>&nbsp;Gavin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9290-9689" title="ORCID: 0000-0002-9290-9689" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/malek_sardar"><b>Malek</b>&nbsp;Sardar</a></span><br>
+Journal Article - Frontiers in Built Environment, Vol. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="https://orcid.org/0000-0002-9290-9689" title="ORCID: 0000-0002-9290-9689" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Built Environment, Vol. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#emergent`](keyword/emergent)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Review%20of%20Emerging%20Additive%20Manufacturing%20Technologies%20in%203D%20Printing%20of%20Cementitious%20Materials%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85064343589&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2912115789" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fbuil.2018.00085" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fbuil.2018.00085?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is a fabrication technology that is rapidly revolutionizing the manufacturing and construction sectors. In this paper, a review of various prototyping technologies for printing cementitious materials and selected 3D printing techniques are presented in detail. Benchmark examples are provided to compare three well-known printing techniques; inkjet printing (binder jetting), selected laser sintering (SLS), and extrusion printing (extrusion based process). A comprehensive search in the literature was conducted to identify various mix designs that could be employed when printing cementitious materials. Aspects of concrete mix design are described, and some new experiments are conducted to analyse the printability of newmixes by the authors. Future research in the area of the rheology of cementitious materials and its relationship with the structural performance of finished concretes are highlighted.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -83,7 +59,6 @@ tags:
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
-      <li><a href="../../../author/holt_camille"><b>Holt</b> Camille</a>, <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>, <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../holt_edwa_keyt_mogh.2019.C3P/">Construction 3D Printing</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/jeon_kwang-hyun"><b>Jeon</b> Kwang-Hyun</a>, <a href="../../../author/park_min-beom"><b>Park</b> Min-Beom</a>, <a href="../../../author/kang_min-kyung"><b>Kang</b> Min-Kyung</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../jeon_park_kang_kim.2013.DoaAFCSaICM/">Development of an Automated Freeform Construction System and Its Construction Materials</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -93,7 +68,6 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
@@ -103,8 +77,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "68 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
@@ -174,4 +148,33 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.AIitEoDOoMotMBotCPaGPiI3P/">An Investigation into the Effects of Deposition-Orientation of Material on the Mechanical Behavior of the Cementitious Powder and Gypsum-Powder in Inkjet 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shak_neja_paul_male.2019.RoEAMTi3PoCMitCI,
+      author            = "Pshtiwan N. Shakor and Shami Nejadi and Gavin Paul and Sardar Malek",
+      title             = "Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry",
+      doi               = "10.3389/fbuil.2018.00085",
+      year              = "2019",
+      journal           = "Frontiers in Built Environment",
+      volume            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. N. Shakor, S. Nejadi, G. Paul and S. Malek, “Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry”, <i>Frontiers in Built Environment</i>, vol. 4, 2019, doi: 10.3389/fbuil.2018.00085.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shakor, Pshtiwan N., Shami Nejadi, Gavin Paul, and Sardar Malek. “Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry”. <i>Frontiers in Built Environment</i> 4 (2019). https://doi.org/10.3389/fbuil.2018.00085.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenguang Chen, Long Liang, Junhong Ye, Lingfei Liu, Neven Ukrainczyk, Liqiang Yin, Jiangtao Yu, Kequan Yu
+    - footer
+title: Chen Wenguang, Liang Long, Ye Junhong, Liu Lingfei, Ukrainczyk Neven, Yin Liqiang, Yu Jiangtao, Yu Kequan
 description:
 tags:
  - base
@@ -20,40 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.engappai.2025.112117" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engappai.2025.112117</a>
+#Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engappai.2025.112117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engappai.2025.112117" target="_blank">10.1016/j.engappai.2025.112117</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_wenguang"><b>Chen</b>&nbsp;Wenguang</a></span>, <a href="../../../author/liang_long"><b>Liang</b>&nbsp;Long</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/liu_lingfei"><b>Liu</b>&nbsp;Lingfei</a></span>, <a href="../../../author/ukrainczyk_neven"><b>Ukrainczyk</b>&nbsp;Neven</a></span>, <a href="../../../author/yin_liqiang"><b>Yin</b>&nbsp;Liqiang</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Engineering Applications of Artificial Intelligence, Vol. 161, No. 112117
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a> <a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liang_long"><b>Liang</b> Long</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a>
-,     <a href="../../../author/ukrainczyk_neven"><b>Ukrainczyk</b> Neven</a>
-,     <a href="../../../author/yin_liqiang"><b>Yin</b> Liqiang</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Applications of Artificial Intelligence, Vol. 161, No. 112117
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#design`](keyword/design)
-    [`#dimension`](keyword/dimension)
-    [`#enabler`](keyword/enabler)
-    [`#engineered`](keyword/engineered)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Machine%20Learning-Enabled%20Performance-Based%20Design%20of%20Three-Dimensional%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015035928&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414034233" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engappai.2025.112117" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engappai.2025.112117?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The superior tensile ductility of engineered cementitious composites (ECC) offers a promising solution to the challenge of integrating conventional steel reinforcement in three-dimensional (3D) concrete printing (3DCP). However, the widespread adoption of 3D printed ECC (3DP-ECC) is hindered by the reliance on trial-and-error design process. The complex material component and inherent anisotropy of 3DP-ECC pose challenges for accurate property prediction and inverse design. This paper introduces a performance-based design strategy for 3DP-ECC, leveraging machine learning (ML) and multi-objective optimization. The anisotropic-mechanical properties including compressive strength and flexural strength were experimentally and statistically investigated; further, ML prediction models conbined with multi-objective optimization algorithm were developed to inversely design 3DP-ECC for specific mechanical performance requirements, while reducing carbon footprint and material cost. Specifically, an extensive database was assembled, followed by grey relational analysis (GRA) to identify the parametric sensitivity of the mechanical properties of 3DP-ECC. Three representative ML techniques were employed, with the back-propagation artificial neural network (BPANN) demonstrating superior predictive accuracy. Model interpretability analyses uncovered the importance of input parameters and their influence on predicted outcomes. Lastly, non-dominated Sorting Genetic Algorithm II (NSGA-II) integrated with the BPANN models was applied to perform the inverse design of 3DP-ECC, showing good effectiveness and accuracy. This work offers an efficient and viable avenue for performance-based design for 3DP-ECC, along with the potential to develop low-carbon cost-effective 3DP-ECC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "64 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/arif_muhammad"><b>Arif</b> Muhammad</a>, <a href="../../../author/jan_faizullah"><b>Jan</b> Faizullah</a>, <a href="../../../author/rezzoug_aissa"><b>Rezzoug</b> Aïssa</a>, <a href="../../../author/afridi_ali_muhammad"><b>Afridi</b> Muhammad</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../arif_jan_rezz_afri.2024.DDMfPCSo3PFRCUIMLA/">Data-Driven Models for Predicting Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Interpretable Machine Learning Algorithms</a></li>
@@ -144,9 +114,39 @@ tags:
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_lian_ye_liu.2025.MLEPBDoTDPECC,
+      author            = "Wenguang Chen and Long Liang and Junhong Ye and Lingfei Liu and Neven Ukrainczyk and Liqiang Yin and Jiangtao Yu and Kequan Yu",
+      title             = "Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.engappai.2025.112117",
+      year              = "2025",
+      journal           = "Engineering Applications of Artificial Intelligence",
+      volume            = "161",
+      pages             = "112117",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Chen, “Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites”, <i>Engineering Applications of Artificial Intelligence</i>, vol. 161, p. 112117, 2025, doi: 10.1016/j.engappai.2025.112117.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Wenguang, Long Liang, Junhong Ye, Lingfei Liu, Neven Ukrainczyk, Liqiang Yin, Jiangtao Yu, and Kequan Yu. “Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites”. <i>Engineering Applications of Artificial Intelligence</i> 161 (2025): 112117. https://doi.org/10.1016/j.engappai.2025.112117.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

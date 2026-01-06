@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sayanthan Ramakrishnan, Sasitharan Kanagasuntharam, Jay Sanjayan
+    - footer
+title: Ramakrishnan Sayanthan, Kanagasuntharam Sasitharan, Sanjayan Jay
 description:
 tags:
  - activation
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Line Activation of Cementitious Materials for 3D Concrete Printing ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104598" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104598</a>
+#In-Line Activation of Cementitious Materials for 3D Concrete Printing ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104598" target="_blank">10.1016/j.cemconcomp.2022.104598</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b>&nbsp;Sayanthan</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-0490-5093" title="ORCID: 0009-0003-0490-5093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b>&nbsp;Sasitharan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 131
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> <a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a> <a href="https://orcid.org/0009-0003-0490-5093" title="ORCID: 0009-0003-0490-5093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 131, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#line`](keyword/line)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Line%20Activation%20of%20Cementitious%20Materials%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131243314&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4280492907" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104598" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104598?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In-line activation of cementitious materials by introducing the accelerators at the print head is a promising solution to attain the conflicting rheological requirements in 3D concrete printing. However, this technique is associated with many challenges including, difficulty in achieving good mixing homogeneity, formation of dead zones etc. This study investigates a method to attain in-line activation of cementitious materials by encapsulating the accelerator and introducing in the initial mixing. This is followed by thermal intervention at the print head to melt/dissolve the encapsulation for mixing the accelerator with cementitious materials. A gelatine based capsule was used as the shell material for the encapsulation. The encapsulated accelerator was used at varying dosages, and the fresh and hardened properties were assessed. The results showed that the in-line activation of the encapsulated accelerator at 2.5% rapidly transformed from a highly pumpable state to stiffened state with high yield strength and elastic modulus development. For instance, the yield strength of concrete after activation was increased fivefold, compared to control printable mix (CPM). Meanwhile, before activation, the fresh 3D printable mix with encapsulated accelerator showed excellent flowability for long durations. The mechanical properties of 3D printed concrete containing encapsulated accelerator, including the compressive strength and interlayer bond strength, were also improved. Besides, the ultrasonic pulse velocity test revealed that the pore homogeneity reduces with the increasing capsule dosage due to the floating tendency of capsules. The development of micro-capsules would assist in improving the homogeneity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../bent_jone_bent_pelt.2019.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bhat_sant.2020.EBo3PCbSoAAoS/">Enhancing Buildability of 3D Printable Concrete by Spraying of Accelerating-Admixture on Surface</a></li>
@@ -102,8 +83,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
       <li><a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shek_kuma_math.2025.AMoCwLIYSTCHoPL/">Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers</a></li>
@@ -142,4 +123,33 @@ tags:
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../muth_rama_sanj.2022.ILAoGSfC3P/">In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../li_weng_liu_zhan.2022.OoCAf3PCMbCCD/">Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rama_kana_sanj.2022.ILAoCMf3CP,
+      author            = "Sayanthan Ramakrishnan and Sasitharan Kanagasuntharam and Jay Gnananandan Sanjayan",
+      title             = "In-Line Activation of Cementitious Materials for 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2022.104598",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "131",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ramakrishnan, S. Kanagasuntharam and J. G. Sanjayan, “In-Line Activation of Cementitious Materials for 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, vol. 131, 2022, doi: 10.1016/j.cemconcomp.2022.104598.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ramakrishnan, Sayanthan, Sasitharan Kanagasuntharam, and Jay Gnananandan Sanjayan. “In-Line Activation of Cementitious Materials for 3D Concrete Printing”. <i>Cement and Concrete Composites</i> 131 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104598.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

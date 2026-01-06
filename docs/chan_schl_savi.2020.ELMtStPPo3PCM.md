@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ze Chang, Erik Schlangen, Branko Šavija
+    - footer
+title: Chang Ze, Schlangen Erik, Šavija Branko
 description:
 tags:
  - cement
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Extended-Lattice-Model to Simulate the Printing-Process of 3D Printed Cementitious Materials ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_80" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_80</a>
+#Extended-Lattice-Model to Simulate the Printing-Process of 3D Printed Cementitious Materials ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_80" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_80" target="_blank">10.1007/978-3-030-49916-7_80</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chang_ze"><b>Chang</b>&nbsp;Ze</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 814-823
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> <a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 814-823
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#lattice`](keyword/lattice)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extended-Lattice-Model%20to%20Simulate%20the%20Printing-Process%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088259467&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3041806635" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_80" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_80?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper reports an extended lattice model for printing process simulation of 3D printed cementitious materials. In this model, several influencing factors such as material and geometric nonlinearity are considered. Using this model, green strength of cementitious material is investigated, deformation and crack pattern can be derived, which is close to the experimental result. Subsequently, numerical analysis of 3D printing is conducted for the simulation about printing process. Imperfections arising in the printing process can be incorporated and two failure modes including the elastic buckling and plastic collapse can be simulated through this model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -84,10 +64,41 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>, <a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../do_diab_remo_hoxh.2025.NSTf3P/">Numerical Simulation-Tools for 3D Printing</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../chan_lian_xu_schl.2022.3CP/">3D Concrete Printing:<br/>Lattice Modeling of Structural Failure considering Damage and Deformed Geometry</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{chan_schl_savi.2020.ELMtStPPo3PCM,
+      author            = "Ze Chang and Erik Schlangen and Branko Šavija",
+      title             = "Extended-Lattice-Model to Simulate the Printing-Process of 3D Printed Cementitious Materials",
+      doi               = "10.1007/978-3-030-49916-7_80",
+      year              = "2020",
+      volume            = "28",
+      pages             = "814--823",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Chang, E. Schlangen and B. Šavija, “Extended-Lattice-Model to Simulate the Printing-Process of 3D Printed Cementitious Materials”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 814–823. doi: 10.1007/978-3-030-49916-7_80.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chang, Ze, Erik Schlangen, and Branko Šavija. “Extended-Lattice-Model to Simulate the Printing-Process of 3D Printed Cementitious Materials”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:814–23, 2020. https://doi.org/10.1007/978-3-030-49916-7_80.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

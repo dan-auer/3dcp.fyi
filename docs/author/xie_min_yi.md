@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Xie Yi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/san-ha_ngoc"><b>San Ha</b> Ngoc</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../nguy_tran_san_xie.2024.BRo3PBCPRwSF/">Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers:<br/>Numerical Investigations</a></li>
   <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../nguy_tran_liu_tran.2024.EFEMSMfCPi3PFRC/">Extended Finite Element Multi-Scale Modelling for Crack Propagation in 3D Printed Fiber-Reinforced Concrete</a></li>

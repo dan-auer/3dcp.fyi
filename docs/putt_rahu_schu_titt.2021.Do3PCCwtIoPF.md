@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jolien Putten, Attupurathu Rahul, Geert Schutter, Kim Tittelboom
+    - footer
+title: Putten Jolien, Rahul Attupurathu, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - cement
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/16/4474/pdf?version=1628740645) Development of 3D Printable Cementitious Composites with the Incorporation of Polypropylene Fibers ([2021-08](date/2021/08))
-<a href="https://doi.org/10.3390/ma14164474" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14164474</a>
+#Development of 3D Printable Cementitious Composites with the Incorporation of Polypropylene Fibers ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/16/4474/pdf?version=1628740645) <a href="https://doi.org/10.3390/ma14164474" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14164474" target="_blank">10.3390/ma14164474</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/putten_jolien"><b>van der Putten</b> Jolien</a> <a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 16, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#development`](keyword/development)
-    [`#fiber`](keyword/fiber)
-    [`#incorporation`](keyword/incorporation)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printable%20Cementitious%20Composites%20with%20the%20Incorporation%20of%20Polypropylene%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112570888&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3189099487" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14164474" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14164474?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Similar to conventional cast concrete, printable materials require reinforcement to counteract their low tensile strength. However, as traditional reinforcement strategies are not commonly used in 3D print applications, fiber reinforcement can serve as an alternative. This study aims to assess the influence of different polypropylene fiber lengths (3 and 6 mm, denoted as M3 and M6, respectively) and dosages (0.1 and 0.3% volume fraction) on the workability, pore structure, mechanical and shrinkage behavior of 3D printable cementitious materials. Fresh state observations revealed that the addition of a higher fiber volume decreased the workability of the material, irrespective of the fiber length as a result of the lower water film thickness (WFT). In hardened state, a marginal increase in total porosity could be observed when adding fibers to the mix composition. In addition, the flexural strength was found to increase with the addition of fibers, while no significant difference was observed in compressive strength. The increase in flexural strength was more pronounced in the case of longer-sized M6 fibers. Finally, the total drying shrinkage behavior was evaluated using mold-cast prisms. The addition of M6 fibers showed no beneficial effect in reducing total free shrinkage, while a reduction in total free shrinkage was observed when using M3 fibers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -79,8 +59,8 @@ tags:
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "32 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/albostami_s_asad"><b>Albostami</b> Asad</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/ismael_h_bashar"><b>Ismael</b> Bashar</a>, <a href="../../../author/hamd_kh-s_rwayda"><b>Hamd</b> Rwayda</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../albo_moha_isma_hamd.2025.OSPf3PFRC/">Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete:<br/>Machine Learning-Driven Insights</a></li>
       <li><a href="../../../author/pal_abhipsa"><b>Pal</b> Abhipsa</a>, <a href="../../../author/wan-wendner_lin"><b>Wan-Wendner</b> Lin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pal_wan.2025.3CPaIPoEESWE/">3D Concrete Printing and Infill Patterns of Energy Efficient Structural Wall Elements</a></li>
@@ -114,4 +94,34 @@ tags:
       <li><a href="../../../author/uhlik_adam"><b>Uhlík</b> Adam</a>, <a href="../../../author/buch_mario"><b>Buch</b> Mário</a>, <a href="../../../author/uncik_stanislav"><b>Unčík</b> Stanislav</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../uhli_buch_unci.2022.EtRPoCf3PTiC/">Effecting the Rheological Properties of Composites for 3D Printing Technology in Construction</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../rahu_moha_schu_titt.2022.3PCwNaRCA/">3D Printable Concrete with Natural and Recycled Coarse Aggregates:<br/>Rheological, Mechanical and Shrinkage Behavior</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{putt_rahu_schu_titt.2021.Do3PCCwtIoPF,
+      author            = "Jolien van der Putten and Attupurathu Vijayan Rahul and Geert de Schutter and Kim van Tittelboom",
+      title             = "Development of 3D Printable Cementitious Composites with the Incorporation of Polypropylene Fibers",
+      doi               = "10.3390/ma14164474",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. van der Putten, A. V. Rahul, G. de Schutter and K. van Tittelboom, “Development of 3D Printable Cementitious Composites with the Incorporation of Polypropylene Fibers”, <i>Materials</i>, vol. 14, no. 16, 2021, doi: 10.3390/ma14164474.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Putten, Jolien van der, Attupurathu Vijayan Rahul, Geert de Schutter, and Kim van Tittelboom. “Development of 3D Printable Cementitious Composites with the Incorporation of Polypropylene Fibers”. <i>Materials</i> 14, no. 16 (2021). https://doi.org/10.3390/ma14164474.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

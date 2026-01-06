@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenqiang Zuo, Laura Caneda-Martínez, Emmanuel Keita, Patrick Aimedieu, Michel Bornert, Nicolas Roussel
+    - footer
+title: Zuo Wenqiang, Caneda-Martínez Laura, Keita Emmanuel, Aimedieu Patrick, Bornert Michel, Roussel Nicolas
 description:
 tags:
  - age
@@ -21,39 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages:<br/>:aca-blank: From Standard Casting to 3D Printing ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107614" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107614</a>
+#Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">From Standard Casting to 3D Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2024.107614" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107614" target="_blank">10.1016/j.cemconres.2024.107614</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_wenqiang"><b>Zuo</b>&nbsp;Wenqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6423-9876" title="ORCID: 0000-0002-6423-9876" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keita_emmanuel"><b>Keita</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/aimedieu_patrick"><b>Aimedieu</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6964-5793" title="ORCID: 0000-0002-6964-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bornert_michel"><b>Bornert</b>&nbsp;Michel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 185, No. 107614
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a> <a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a> <a href="https://orcid.org/0000-0002-6423-9876" title="ORCID: 0000-0002-6423-9876" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aimedieu_patrick"><b>Aimedieu</b> Patrick</a>
-,     <a href="../../../author/bornert_michel"><b>Bornert</b> Michel</a> <a href="https://orcid.org/0000-0002-6964-5793" title="ORCID: 0000-0002-6964-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 185, No. 107614
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#base`](keyword/base)
-    [`#cast`](keyword/cast)
-    [`#cement`](keyword/cement)
-    [`#damage`](keyword/damage)
-    [`#dry`](keyword/dry)
-    [`#early`](keyword/early)
-    [`#exposure`](keyword/exposure)
-    [`#fresh`](keyword/fresh)
-    [`#induction`](keyword/induction)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#standard`](keyword/standard)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Drying-Induced%20Damages%20in%20Exposed%20Fresh%20Cement-Based%20Materials%20at%20Very%20Early-Ages" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200247614&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401351757" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107614" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107614?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, we are studying the shrinkage and microstructural damages induced by drying in samples exposed to drying at very early ages. We measure for two model mortars the average and local shrinkage through microtomography images subtraction along with microstructure evolution through microtomography radiographs. Our measurements showcase the role played by the kinetics of propagation of drying-induced capillary stresses on shrinkage distribution. They moreover show the existence of two distinct types of microstructural damages in such exposed samples occurring at the onset of the sample desaturation after a period as short as a couple of hours. Our analysis allows for a first-order understanding of the scaling of the main stress, length and time scales of the problem with some material parameters such as compressibility and permeability. We finally extrapolate and discuss the consequences of the above features on standard concrete casting and on concrete 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../beka_titt_schu.2023.TEoCCotSLo3PCF/">The Effect of Curing Conditions on the Service Life of 3D Printed Concrete Formwork</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/kuva_jukka"><b>Kuva</b> Jukka</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/li_zhongsen"><b>Li</b> Zhongsen</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_kuva_mohi_li.2023.IotISoH3PCbXCSaIIotMP/">Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance</a></li>
@@ -94,9 +66,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xia_chen_zhan_wang.2025.ISCNSRABTfMPSi3PC/">In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zuo_cane_keit_aime.2024.DIDiEFCBMaVEA,
+      author            = "Wenqiang Zuo and Laura Caneda-Martínez and Emmanuel Keita and Patrick Aimedieu and Michel Bornert and Nicolas Roussel",
+      title             = "Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages: From Standard Casting to 3D Printing",
+      doi               = "10.1016/j.cemconres.2024.107614",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "185",
+      pages             = "107614",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zuo, L. Caneda-Martínez, E. Keita, P. Aimedieu, M. Bornert and N. Roussel, “Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages: From Standard Casting to 3D Printing”, <i>Cement and Concrete Research</i>, vol. 185, p. 107614, 2024, doi: 10.1016/j.cemconres.2024.107614.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zuo, Wenqiang, Laura Caneda-Martínez, Emmanuel Keita, Patrick Aimedieu, Michel Bornert, and Nicolas Roussel. “Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages: From Standard Casting to 3D Printing”. <i>Cement and Concrete Research</i> 185 (2024): 107614. https://doi.org/10.1016/j.cemconres.2024.107614.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

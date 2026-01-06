@@ -8,7 +8,7 @@ search:
 
 # #direction
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
   <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
   <li><a href="../../../author/drumond_henrique-cota_pedro"><b>Drumond</b> Pedro</a>, <a href="../../../author/milagres_faria-barros_geysiane"><b>Milagres</b> Geysiane</a>, <a href="../../../author/parassen_renata_paloma"><b>Parassen</b> Paloma</a>, <a href="../../../author/santos_nascimento-procopio_luana"><b>Santos</b> Luana</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../drum_mila_para_sant.2025.AoPDiFTo3PRCB/">Assessment of Printing Direction in Flexural Tests of 3D Printed Reinforced Concrete Beams</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Steven Keating, Julian Leland, Levi Cai, Neri Oxman
+    - footer
+title: Keating Steven, Leland Julian, Cai Levi, Oxman Neri
 description:
 tags:
  - architecture
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales ([2017-04](date/2017/04))
-<a href="https://doi.org/10.1126/scirobotics.aam8986" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1126/scirobotics.aam8986</a>
+#Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales ([2017-04](date/2017/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1126/scirobotics.aam8986" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1126/scirobotics.aam8986" target="_blank">10.1126/scirobotics.aam8986</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8775-5590" title="ORCID: 0000-0002-8775-5590" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keating_j_steven"><b>Keating</b>&nbsp;Steven</a></span>, <a href="../../../author/leland_c_julian"><b>Leland</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1707-305X" title="ORCID: 0000-0002-1707-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_levi"><b>Cai</b>&nbsp;Levi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oxman_neri"><b>Oxman</b>&nbsp;Neri</a></span><br>
+Journal Article - Science Robotics, Vol. 2, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a> <a href="https://orcid.org/0000-0002-8775-5590" title="ORCID: 0000-0002-8775-5590" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>
-,     <a href="../../../author/cai_levi"><b>Cai</b> Levi</a> <a href="https://orcid.org/0000-0002-1707-305X" title="ORCID: 0000-0002-1707-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Science Robotics, Vol. 2, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#fabrication`](keyword/fabrication)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-    [`#self`](keyword/self)
-    [`#site`](keyword/site)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Toward%20Site-Specific%20and%20Self-Sufficient%20Robotic%20Fabrication%20on%20Architectural-Scales" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85048740246&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2609451481" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1126/scirobotics.aam8986" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1126/scirobotics.aam8986?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Contemporary construction techniques are slow, labor-intensive, dangerous, expensive, and constrained to primarily rectilinear forms, often resulting in homogenous structures built using materials sourced from centralized factories. To begin to address these issues, we present the Digital Construction Platform (DCP), an automated construction system capable of customized on-site fabrication of architectural-scale structures using real-time environmental data for process control. The system consists of a compound arm system composed of hydraulic and electric robotic arms carried on a tracked mobile platform. An additive manufacturing technique for constructing insulated formwork with gradient properties from dynamic mixing was developed and implemented with the DCP. As a case study, a 14.6-m-diameter, 3.7-m-tall open dome formwork structure was successfully additively manufactured on site with a fabrication time under 13.5 hours. The DCP system was characterized and evaluated in comparison with traditional construction techniques and existing large-scale digital construction research projects. Benefits in safety, quality, customization, speed, cost, and functionality were identified and reported upon. Early exploratory steps toward self-sufficiency-including photovoltaic charging and the sourcing and use of local materials-are discussed along with proposed future applications for autonomous construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2012/10">(2012-10)</a><br><a href="../../../helm_jenn_gram_kohl.2012.MRFoCS/">Mobile Robotic Fabrication on Construction Sites:<br/>DimRob</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>
@@ -74,10 +54,9 @@ tags:
       <li><a href="../../../author/leach_neil"><b>Leach</b> Neil</a>, <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../leac_carl_khos_than.2012.RCbCC/">Robotic Construction by Contour Crafting:<br/>The Case of Lunar Construction</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
-      <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../marc_sanj_nema_xia.2019.ILSo3PC/">Inter-Layer Strength of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "71 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/ke_zhijiang"><b>Ke</b> Zhijiang</a>, <a href="../../../author/li_zichang"><b>Li</b> Zichang</a>, <a href="../../../author/chen_zhengfei"><b>Chen</b> Zhengfei</a>, <a href="../../../author/xu_yao"><b>Xu</b> Yao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ke_li_chen_xu.2026.TAaCoRAB3PfHTL/">Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
@@ -150,4 +129,34 @@ tags:
       <li><a href="../../../author/yin_hongxi"><b>Yin</b> Hongxi</a>, <a href="../../../author/qu_ming"><b>Qu</b> Ming</a>, <a href="../../../author/zhang_haiyan"><b>Zhang</b> Haiyan</a>, <a href="../../../author/lim_yechan"><b>Lim</b> YeChan</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../yin_qu_zhan_lim.2018.3PaB/">3D Printing and Buildings:<br/>A Technology Review and Future Outlook</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{keat_lela_cai_oxma.2017.TSSaSSRFoAS,
+      author            = "Steven J. Keating and Julian C. Leland and Levi Cai and Neri Oxman",
+      title             = "Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales",
+      doi               = "10.1126/scirobotics.aam8986",
+      year              = "2017",
+      journal           = "Science Robotics",
+      volume            = "2",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. J. Keating, J. C. Leland, L. Cai and N. Oxman, “Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales”, <i>Science Robotics</i>, vol. 2, no. 5, 2017, doi: 10.1126/scirobotics.aam8986.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Keating, Steven J., Julian C. Leland, Levi Cai, and Neri Oxman. “Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales”. <i>Science Robotics</i> 2, no. 5 (2017). https://doi.org/10.1126/scirobotics.aam8986.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

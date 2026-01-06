@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuxiang Tang, Jianzhuang Xiao, Tao Ding, Haoran Liu, Mingzhong Zhang, Junhui Zhang
+    - footer
+title: Tang Yuxiang, Xiao Jianzhuang, Ding Tao, Liu Haoran, Zhang Mingzhong, Zhang Junhui
 description:
 tags:
  - base
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.engfracmech.2023.109836" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engfracmech.2023.109836</a>
+#Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engfracmech.2023.109836" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfracmech.2023.109836" target="_blank">10.1016/j.engfracmech.2023.109836</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8756-3054" title="ORCID: 0000-0002-8756-3054" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tang_yuxiang"><b>Tang</b>&nbsp;Yuxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_haoran"><b>Liu</b>&nbsp;Haoran</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mingzhong"><b>Zhang</b>&nbsp;Mingzhong</a></span>, <a href="../../../author/zhang_junhui"><b>Zhang</b>&nbsp;Junhui</a></span><br>
+Journal Article - Engineering Fracture Mechanics, No. 109836
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tang_yuxiang"><b>Tang</b> Yuxiang</a> <a href="https://orcid.org/0000-0002-8756-3054" title="ORCID: 0000-0002-8756-3054" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> <a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_junhui"><b>Zhang</b> Junhui</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Fracture Mechanics, No. 109836
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#behavior`](keyword/behavior)
-    [`#bending`](keyword/bending)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#fracture`](keyword/fracture)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#point`](keyword/point)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/point"><button class="btn">#point</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Trans-Layer%20and%20Inter-Layer%20Fracture%20Behavior%20of%20Extrusion-Based%203D%20Printed%20Concrete%20Under%20Three-Point%20Bending" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182518726&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390590490" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engfracmech.2023.109836" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engfracmech.2023.109836?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a systematic study on the effect of layer-by-layer printing process on the fracture behavior of hardened extrusion-based 3D printed concrete (3DPC). Based on three-point bending tests on center-notched beams, the fracture response of printed specimens with two fracture patterns including crack propagation across layers (trans-layer fracture) and crack propagation along layers (inter-layer fracture) was compared with that of cast specimens. The fracture mechanism of 3DPC was explored using the fracture parameters and fracture process zone (FPZ) characteristics. Experimental phenomena can be explained by the additional interlaminar cracking in FPZ of concrete introduced by the layer-by-layer stacking process. It could produce a toughening effect if cracks propagate through layers, as it is beneficial to reduce stress concentration and improve deformability. In the printing process design of 3DPC, such feature can be rationally utilized to transform the process-induced weak interfaces from inherent defects to toughening means.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
@@ -118,8 +91,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
@@ -139,4 +112,33 @@ tags:
       <li><a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a>, <a href="../../../author/lee_hoon_sang"><b>Lee</b> Sang</a>, <a href="../../../author/kim_hyun_jae"><b>Kim</b> Jae</a>, <a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lee_lee_kim_jeon.2024.ILBSo3PCMwUHPCM/">Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../du_qian.2024.EoPPaLDoFBo3PSHCC/">Effects of Printing-Patterns and Loading-Directions on Fracture Behavior of 3D Printed Strain-Hardening Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tang_xiao_ding_liu.2024.TLaILFBoEB3PCUTPB,
+      author            = "Yuxiang Tang and Jianzhuang Xiao and Tao Ding and Haoran Liu and Mingzhong Zhang and Junhui Zhang",
+      title             = "Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending",
+      doi               = "10.1016/j.engfracmech.2023.109836",
+      year              = "2024",
+      journal           = "Engineering Fracture Mechanics",
+      pages             = "109836",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tang, J. Xiao, T. Ding, H. Liu, M. Zhang and J. Zhang, “Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending”, <i>Engineering Fracture Mechanics</i>, p. 109836, 2024, doi: 10.1016/j.engfracmech.2023.109836.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tang, Yuxiang, Jianzhuang Xiao, Tao Ding, Haoran Liu, Mingzhong Zhang, and Junhui Zhang. “Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending”. <i>Engineering Fracture Mechanics</i>, 2024, 109836. https://doi.org/10.1016/j.engfracmech.2023.109836.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

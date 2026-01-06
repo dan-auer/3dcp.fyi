@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Menna Costantino 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bianco_nicola"><b>Bianco</b> Nicola</a>, <a href="../../../author/fragnito_andrea"><b>Fragnito</b> Andrea</a>, <a href="../../../author/iasiello_marcello"><b>Iasiello</b> Marcello</a>, <a href="../../../author/mauro_maria_gerardo"><b>Mauro</b> Gerardo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bian_frag_iasi_maur.2025.NAoa3PCEIPN/">Numerical Analysis of a 3D Printed Concrete Envelope Incorporating PCM Nanoparticles</a></li>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

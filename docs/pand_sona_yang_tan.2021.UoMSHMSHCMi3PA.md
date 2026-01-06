@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Biranchi Panda, Cem Sonat, En-Hua Yang, Ming Tan, Cise Unluer
+    - footer
+title: Panda Biranchi, Sonat Cem, Yang En-Hua, Tan Ming, Unluer Cise
 description:
 tags:
  - application
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/154123/2/Use%20of%20magnesium-silicate-hydrate%20%28M-S-H%29%20cement%20mixes%20in%203D%20printing%20applications.pdf) Use of Magnesium-Silicate-Hydrate (M-S-H) Cement Mixes in 3D Printing Applications ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1016/j.cemconcomp.2020.103901" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2020.103901</a>
+#Use of Magnesium-Silicate-Hydrate (M-S-H) Cement Mixes in 3D Printing Applications ([2020-12](date/2020/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/154123/2/Use%20of%20magnesium-silicate-hydrate%20%28M-S-H%29%20cement%20mixes%20in%203D%20printing%20applications.pdf) <a href="https://doi.org/10.1016/j.cemconcomp.2020.103901" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2020.103901" target="_blank">10.1016/j.cemconcomp.2020.103901</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/sonat_cem"><b>Sonat</b>&nbsp;Cem</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6066-8254" title="ORCID: 0000-0001-6066-8254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_en-hua"><b>Yang</b>&nbsp;En-Hua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unluer_cise"><b>Unluer</b>&nbsp;Cise</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 117
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonat_cem"><b>Sonat</b> Cem</a>
-,     <a href="../../../author/yang_en-hua"><b>Yang</b> En-Hua</a> <a href="https://orcid.org/0000-0001-6066-8254" title="ORCID: 0000-0001-6066-8254" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 117, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#hydration`](keyword/hydration)
-    [`#magnesium`](keyword/magnesium)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#silica`](keyword/silica)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Magnesium-Silicate-Hydrate%20%28M-S-H%29%20Cement%20Mixes%20in%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098188930&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3117693842" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2020.103901" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2020.103901?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focused on the development of 3D printed building components incorporating MgO–SiO2 binders. The effects of parameters such as MgO/SiO2 and water/binder ratios and superplasticizer dosage were evaluated to produce 3D printable MgO–SiO2 binders. The assessment of rheological and mechanical properties, which led to an optimum mix that satisfied the printability criteria, was supported by microstructural characterization. The best-performing mix in terms of printability and mechanical performance was characterized via x-ray diffraction (XRD), thermogravimetric analysis/derivative thermogravimetry (TG/DTG) and field emission scanning electron microscopy (FESEM) with energy dispersive spectroscopy (EDS). The selected mix exhibited thixotropic behaviour with an ability to recover ~80% of its original viscosity within 60 s of extrusion and a shape retention factor of ~1. The extrudability, shape retention and buildability aspects were successfully demonstrated by printing a 5-layered 3D structure without any deformations. The final product contained brucite and M-S-H as hydration products, which were the main contributor to mechanical performance and microstructural densification.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
@@ -94,8 +71,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
       <li><a href="../../../author/aman_mohammed_abdulkerim"><b>Aman</b> Abdulkerim</a>, <a href="../../../author/yang_zhe"><b>Yang</b> Zhe</a>, <a href="../../../author/xin_yubo"><b>Xin</b> Yubo</a>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b> Xiaoman</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../aman_yang_xin_zhan.2025.IMOi3PCtMDS/">Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
@@ -121,4 +98,33 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pand_sona_yang_tan.2021.UoMSHMSHCMi3PA,
+      author            = "Biranchi Narayan Panda and Cem Sonat and En-Hua Yang and Ming Jen Tan and Cise Unluer",
+      title             = "Use of Magnesium-Silicate-Hydrate (M-S-H) Cement Mixes in 3D Printing Applications",
+      doi               = "10.1016/j.cemconcomp.2020.103901",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "117",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. N. Panda, C. Sonat, E.-H. Yang, M. J. Tan and C. Unluer, “Use of Magnesium-Silicate-Hydrate (M-S-H) Cement Mixes in 3D Printing Applications”, <i>Cement and Concrete Composites</i>, vol. 117, 2021, doi: 10.1016/j.cemconcomp.2020.103901.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Panda, Biranchi Narayan, Cem Sonat, En-Hua Yang, Ming Jen Tan, and Cise Unluer. “Use of Magnesium-Silicate-Hydrate (M-S-H) Cement Mixes in 3D Printing Applications”. <i>Cement and Concrete Composites</i> 117 (2021). https://doi.org/10.1016/j.cemconcomp.2020.103901.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

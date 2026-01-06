@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eric Kreiger, Megan Kreiger, Michael Case
+    - footer
+title: Kreiger Eric, Kreiger Megan, Case Michael
 description:
 tags:
  - additive
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of the Construction Processes for Reinforced Additively Constructed Concrete ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1016/j.addma.2019.02.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2019.02.015</a>
+#Development of the Construction Processes for Reinforced Additively Constructed Concrete ([2019-04](date/2019/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2019.02.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.02.015" target="_blank">10.1016/j.addma.2019.02.015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span>, <a href="../../../author/case_p_michael"><b>Case</b>&nbsp;Michael</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 28, pp. 39-49
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/case_p_michael"><b>Case</b> Michael</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 28, pp. 39-49
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#process`](keyword/process)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20the%20Construction%20Processes%20for%20Reinforced%20Additively%20Constructed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85064602059&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,25 +36,21 @@ tags:
 <a href="https://inciteful.xyz/p/W2929830173" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2019.02.015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2019.02.015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In August 2018, a demonstration/experiment was performed in Champaign, Illinois USA, at the Engineer Research and Development Center Construction Engineering Research Laboratory (ERDC-CERL) looking at the continuous printing of a 512 ft2 (47.6m2) reinforced additively constructed concrete (RACC) building. This building incorporated the capability of 3D-printing to produce unique free-form shapes, while utilizing traditional reinforcing methods. Previously, in July of 2017, a more traditional building was 3D printed using a discontinuous concrete printing approach. These demonstrations were performed to determine the feasibility of using additively constructed concrete (ACC) as a material for vertical structural elements. This study explores the differences and similarities of ACC with conventional concrete construction and concrete masonry unit construction. To validate the feasibility of ACC a cost comparison analysis was performed comparing the construction methods used in these demonstrations to conventional concrete masonry unit and cast-in-place concrete construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "113 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
@@ -184,4 +165,34 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{krei_krei_case.2019.DotCPfRACC,
+      author            = "Eric L. Kreiger and Megan A. Kreiger and Michael P. Case",
+      title             = "Development of the Construction Processes for Reinforced Additively Constructed Concrete",
+      doi               = "10.1016/j.addma.2019.02.015",
+      year              = "2019",
+      journal           = "Additive Manufacturing",
+      volume            = "28",
+      pages             = "39--49",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. L. Kreiger, M. A. Kreiger and M. P. Case, “Development of the Construction Processes for Reinforced Additively Constructed Concrete”, <i>Additive Manufacturing</i>, vol. 28, pp. 39–49, 2019, doi: 10.1016/j.addma.2019.02.015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kreiger, Eric L., Megan A. Kreiger, and Michael P. Case. “Development of the Construction Processes for Reinforced Additively Constructed Concrete”. <i>Additive Manufacturing</i> 28 (2019): 39–49. https://doi.org/10.1016/j.addma.2019.02.015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

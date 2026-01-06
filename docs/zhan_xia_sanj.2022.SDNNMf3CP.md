@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nan Zhang, Ming Xia, Jay Sanjayan
+    - footer
+title: Zhang Nan, Xia Ming, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Short-Duration Near-Nozzle Mixing for 3D Concrete Printing ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106616" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106616</a>
+#Short-Duration Near-Nozzle Mixing for 3D Concrete Printing ([2021-10](date/2021/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2021.106616" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106616" target="_blank">10.1016/j.cemconres.2021.106616</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_nan"><b>Zhang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 151
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a> <a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 151, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#duration`](keyword/duration)
-    [`#mixing`](keyword/mixing)
-    [`#near`](keyword/near)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#short`](keyword/short)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/duration"><button class="btn">#duration</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/near"><button class="btn">#near</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Short-Duration%20Near-Nozzle%20Mixing%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85116558847&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3203745478" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106616" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106616?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Near-nozzle mixing (NNM) technique is a potential solution for the opposing rheological demands for buildability and pumpability during 3D concrete printing. However, NMM is only practical if short duration mixing can be achieved without losing mix quality. This study introduces a Short-duration Near-Nozzle Mixing (SDNNM) technique using a customised high shear mixer. The effect of sand characteristics on mixing energy consumption, flowability, compressive strength and microstructure were investigated. Results show that the printable concrete made by the customised mixer with 90 s mixing time achieved a relative flowability of 99% and a relative compressive strength of 134%, compared to the control (normal mixing) method. It was found that the sand packing density is the key characteristic for obtaining the optimum mix with comparable compressive strength. Three 3D printing trials using the optimum mix with 15, 30 and 90 s mixing durations were conducted to confirm the feasibility of SDNNM technique.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -92,8 +72,10 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
@@ -124,4 +106,33 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../muth_rama_sanj.2022.SoDGUPHMf3CP/">Set-on-Demand Geopolymer Using Print-Head Mixing for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_xia_sanj.2022.SDNNMf3CP,
+      author            = "Nan Zhang and Ming Xia and Jay Gnananandan Sanjayan",
+      title             = "Short-Duration Near-Nozzle Mixing for 3D Concrete Printing",
+      doi               = "10.1016/j.cemconres.2021.106616",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "151",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Zhang, M. Xia and J. G. Sanjayan, “Short-Duration Near-Nozzle Mixing for 3D Concrete Printing”, <i>Cement and Concrete Research</i>, vol. 151, 2022, doi: 10.1016/j.cemconres.2021.106616.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Nan, Ming Xia, and Jay Gnananandan Sanjayan. “Short-Duration Near-Nozzle Mixing for 3D Concrete Printing”. <i>Cement and Concrete Research</i> 151 (2022). https://doi.org/10.1016/j.cemconres.2021.106616.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeakleang Muy, Luc Courard, Xavier Garnavault, David Bulteel, Sébastien Rémond, Maria Taleb, Julien Hubert
+    - footer
+title: Muy Yeakleang, Courard Luc, Garnavault Xavier, Bulteel David, Rémond Sébastien, Taleb Maria, Hubert Julien
 description:
 tags:
  - aggregate
@@ -22,41 +23,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste ([2024-06](date/2024/06))
-<a href="https://doi.org/10.14359/51742028" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51742028</a>
+#Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste ([2024-06](date/2024/06))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.14359/51742028" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51742028" target="_blank">10.14359/51742028</a>
 
--------------------------
+<a href="../../../author/muy_yeakleang"><b>Muy</b>&nbsp;Yeakleang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6573-6631" title="ORCID: 0000-0001-6573-6631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/courard_luc"><b>Courard</b>&nbsp;Luc</a></span>, <a href="../../../author/garnavault_xavier"><b>Garnavault</b>&nbsp;Xavier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bulteel_david"><b>Bulteel</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taleb_maria"><b>Taleb</b>&nbsp;Maria</a></span>, <a href="../../../author/hubert_julien"><b>Hubert</b>&nbsp;Julien</a></span><br>
+Contribution - SP-362:
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/muy_yeakleang"><b>Muy</b> Yeakleang</a>
-,     <a href="../../../author/courard_luc"><b>Courard</b> Luc</a> <a href="https://orcid.org/0000-0001-6573-6631" title="ORCID: 0000-0001-6573-6631" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garnavault_xavier"><b>Garnavault</b> Xavier</a>
-,     <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> <a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a> <a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hubert_julien"><b>Hubert</b> Julien</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - SP-362:, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#containment`](keyword/containment)
-    [`#demolition`](keyword/demolition)
-    [`#fine`](keyword/fine)
-    [`#freeze`](keyword/freeze)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#thaw`](keyword/thaw)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Freezing%20and%20Thawing%20Behavior%20of%203D%20Printing%20Concrete%20Containing%20Recycled%20Fine%20Aggregates%20from%20Construction%20and%20Demolition%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219504876&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400456392" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51742028" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51742028?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focuses on evaluating the mechanical, microstructural, and durability properties of 3D printing mortar (3DPM), with a specific emphasis on the influence of incorporating recycled fine aggregates (RFA). These RFA are produced from construction and demolition waste (C&DW) in Belgium and are sieved to a maximum particle size of 2 mm [0.08 in]. Cast and printed samples of mortar containing 100% RFA, with a sand-to-cement ratio of approximately 1:1 and a water-to-cement ratio of 0.29, were subjected to mechanical tests, including flexural, compressive, and tensile strength, at 2, 7, 28, and 56 days. The possible anisotropic behavior of the printed material was also investigated. The results show that using RFA does not significantly affect the mechanical properties of the mortar, and some anisotropic behavior was observed based on the compression test results. The end goal of the project is to print non-reinforced urban furniture; in order to assess its durability, only freezing and thawing (F-T) behavior was investigated. The F-T behavior was analyzed based on the quantity of spalling particles after 7, 14, 28, 56, and 91 F-T cycles. The results show that up to 91 F-T cycles, no significant surface damage occurred.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -97,8 +66,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{muy_cour_garn_bult.2024.MPaFaTBo3PCCRFAfCaDW,
+      author            = "Yeakleang Muy and Luc Courard and Xavier Garnavault and David Bulteel and Sébastien Rémond and Maria Taleb and Julien Hubert",
+      title             = "Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste",
+      doi               = "10.14359/51742028",
+      year              = "2024",
+      booktitle         = "SP-362:",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Muy, “Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste”,  2024. doi: 10.14359/51742028.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Muy, Yeakleang, Luc Courard, Xavier Garnavault, David Bulteel, Sébastien Rémond, Maria Taleb, and Julien Hubert. “Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste”. In <i>SP-362:</i>, 2024. https://doi.org/10.14359/51742028.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

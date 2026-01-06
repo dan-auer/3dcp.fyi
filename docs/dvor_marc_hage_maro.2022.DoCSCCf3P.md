@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leonid Dvorkin, Vitaliy Marchuk, Izabela Hager, Marcin Maroszek
+    - footer
+title: Dvorkin Leonid, Marchuk Vitaliy, Hager Izabela, Maroszek Marcin
 description:
 tags:
  - cement
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/15/13/4610/pdf?version=1655997053) Design of Cement-Slag Concrete Composition for 3D Printing ([2022-06](date/2022/06))
-<a href="https://doi.org/10.3390/en15134610" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en15134610</a>
+#Design of Cement-Slag Concrete Composition for 3D Printing ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/15/13/4610/pdf?version=1655997053) <a href="https://doi.org/10.3390/en15134610" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en15134610" target="_blank">10.3390/en15134610</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8759-6318" title="ORCID: 0000-0001-8759-6318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dvorkin_leonid"><b>Dvorkin</b>&nbsp;Leonid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0999-0402" title="ORCID: 0000-0003-0999-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchuk_vitaliy"><b>Marchuk</b>&nbsp;Vitaliy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span><br>
+Journal Article - Energies, Vol. 15, Iss. 13
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a> <a href="https://orcid.org/0000-0001-8759-6318" title="ORCID: 0000-0001-8759-6318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> <a href="https://orcid.org/0000-0003-0999-0402" title="ORCID: 0000-0003-0999-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> <a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 15, Iss. 13, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#print`](keyword/print)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20of%20Cement-Slag%20Concrete%20Composition%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133125759&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283393425" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en15134610" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en15134610?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The article presents a set of experimental-static models of the properties of fine-grained concretes on a cement–slag binder and quartz sand with the addition of a hardening accelerator made on a 3D printer. The influence of the factors of the composition of the mixture and the effects of their interaction on the studied properties of concrete was established. By analyzing the models, the influence of the factors of mixture composition on the studied properties was ranked. The nature and degree of interrelation of individual properties of concrete are shown. A method for calculating the optimal compositions of concrete for a 3D printer, providing the specified properties at a minimum cost, is proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a></li>
@@ -71,8 +51,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_khan_mcna.2025.EoNSwHRoGoEMPaRo3PC/">Effect of Nano Silica with High Replacement of GGBS on Enhancing Mechanical Properties and Rheology of 3D Printed Concrete</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/ramahi_siraj"><b>Ramahi</b> Siraj</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../irsh_cabi_fadl_rama.2024.WMUi3PCfSCA/">Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications:<br/>A Review</a></li>
       <li><a href="../../../author/aldabergenova_gaziza"><b>Aldabergenova</b> Gaziza</a>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a>, <a href="../../../author/konkanov_marat"><b>Konkanov</b> Marat</a>, <a href="../../../author/kirgizbayev_akpan"><b>Kirgizbayev</b> Akpan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../alda_jexe_konk_kirg.2024.TEWBFGFCf3P/">The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing</a></li>
@@ -83,4 +63,34 @@ tags:
       <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a></li>
       <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a>, <a href="../../../author/konkol_janusz"><b>Konkol</b> Janusz</a>, <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a>, <a href="../../../author/huts_andriy"><b>Huts</b> Andriy</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../dvor_konk_marc_huts.2022.EoPAiCf3CPUFA/">Effectiveness of Polymer Additives in Concrete for 3D Concrete Printing Using Fly-Ash</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dvor_marc_hage_maro.2022.DoCSCCf3P,
+      author            = "Leonid Dvorkin and Vitaliy Marchuk and Izabela Hager and Marcin Maroszek",
+      title             = "Design of Cement-Slag Concrete Composition for 3D Printing",
+      doi               = "10.3390/en15134610",
+      year              = "2022",
+      journal           = "Energies",
+      volume            = "15",
+      number            = "13",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Dvorkin, V. Marchuk, I. Hager and M. Maroszek, “Design of Cement-Slag Concrete Composition for 3D Printing”, <i>Energies</i>, vol. 15, no. 13, 2022, doi: 10.3390/en15134610.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dvorkin, Leonid, Vitaliy Marchuk, Izabela Hager, and Marcin Maroszek. “Design of Cement-Slag Concrete Composition for 3D Printing”. <i>Energies</i> 15, no. 13 (2022). https://doi.org/10.3390/en15134610.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

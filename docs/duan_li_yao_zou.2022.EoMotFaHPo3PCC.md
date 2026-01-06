@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenhua Duan, Lei Li, Qinye Yao, Shuai Zou, Amardeep Singh, Haifeng Yang
+    - footer
+title: Duan Zhenhua, Li Lei, Yao Qinye, Zou Shuai, Singh Amardeep, Yang Haifeng
 description:
 tags:
  - cement
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.128808" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128808</a>
+#Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite ([2022-08](date/2022/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128808" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128808" target="_blank">10.1016/j.conbuildmat.2022.128808</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <a href="../../../author/li_lei"><b>Li</b>&nbsp;Lei</a></span>, <a href="../../../author/yao_qinye"><b>Yao</b>&nbsp;Qinye</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_shuai"><b>Zou</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <a href="../../../author/yang_haifeng"><b>Yang</b>&nbsp;Haifeng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 350
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_lei"><b>Li</b> Lei</a>
-,     <a href="../../../author/yao_qinye"><b>Yao</b> Qinye</a>
-,     <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_haifeng"><b>Yang</b> Haifeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 350, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Metakaolin%20on%20the%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printed%20Cementitious%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85136136518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4293070665" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.128808" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.128808?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) receives worldwide attention, however, incorporating metakaolin (MK) as rheology modifier to develop 3D printed cementitious composites (3DPCC) is limited. In this study, the effect of MK was studied from the perspectives of both fresh and hardened properties. Results showed that compared with control, static yield stress, dynamic yield stress, and viscosity increase by 285.4%, 129.5%, and 49.2% with 10% MK. The increase in the thixotropic area showed that the addition of MK improves the buildability. Meanwhile, the specimens added with MK exhibited increased maximum stress and elastic modulus under unconfined compression, indicating that MK could enhance the early performance of the 3DPCC. Moreover, the stiffness development process of 3DPCC was observed from its failure pattern at fresh state, and MK was found to accelerate the failure pattern change from plastic failure to shear failure. Besides, MK also showed improved 3DPCCs’ mechanical properties and the inhibition of the drying shrinkage because of its pozzolanic activity and filling effect. It is believed that MK positively affects both fresh and hardened properties of the 3DPCC and is therefore recommended to be utilized in 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -99,8 +76,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
@@ -141,4 +118,33 @@ tags:
       <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a></li>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../giri_prem_jiao.2023.EoVSRaDRTotRo3PC/">Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duan_li_yao_zou.2022.EoMotFaHPo3PCC,
+      author            = "Zhenhua Duan and Lei Li and Qinye Yao and Shuai Zou and Amardeep Singh and Haifeng Yang",
+      title             = "Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite",
+      doi               = "10.1016/j.conbuildmat.2022.128808",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "350",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Duan, L. Li, Q. Yao, S. Zou, A. Singh and H. Yang, “Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite”, <i>Construction and Building Materials</i>, vol. 350, 2022, doi: 10.1016/j.conbuildmat.2022.128808.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Duan, Zhenhua, Lei Li, Qinye Yao, Shuai Zou, Amardeep Singh, and Haifeng Yang. “Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite”. <i>Construction and Building Materials</i> 350 (2022). https://doi.org/10.1016/j.conbuildmat.2022.128808.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

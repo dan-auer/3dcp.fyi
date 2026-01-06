@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jiang Liming 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
   <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
   <li><a href="../../../author/yarlagadda_tejeswar"><b>Yarlagadda</b> Tejeswar</a>, <a href="../../../author/zhang_zixin"><b>Zhang</b> Zixin</a>, <a href="../../../author/jiang_liming"><b>Jiang</b> Liming</a>, <a href="../../../author/usmani_asif"><b>Usmani</b> Asif</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yarl_zhan_jian_usma.2025.ACMfBAaGCBEUC3P/">A Conceptual Model for Building Artistic and Geometrically Complex Building Envelopes Using Concrete 3D Printing</a></li>

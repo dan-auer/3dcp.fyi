@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sooraj Nair, Anling Li, Barzin Mobasher, Narayanan Neithalath
+    - footer
+title: Nair Sooraj, Li Anling, Mobasher Barzin, Neithalath Narayanan
 description:
 tags:
  - crack
@@ -22,38 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Layer-Height on Tensile Stress-Distribution and Crack-Width and Propagation in 3D Printed Fiber-Reinforced Flexural Elements ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1520/stp163620200114" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1520/stp163620200114</a>
+#Effect of Layer-Height on Tensile Stress-Distribution and Crack-Width and Propagation in 3D Printed Fiber-Reinforced Flexural Elements ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200114" target="_blank">10.1520/stp163620200114</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b>&nbsp;Sooraj</a></span>, <a href="../../../author/li_anling"><b>Li</b>&nbsp;Anling</a></span>, <a href="../../../author/mobasher_barzin"><b>Mobasher</b>&nbsp;Barzin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 13-26
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> <a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_anling"><b>Li</b> Anling</a>
-,     <a href="../../../author/mobasher_barzin"><b>Mobasher</b> Barzin</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 13-26
-
-:aca-blank:{ .lg .middle}
-    [`#crack`](keyword/crack)
-    [`#distribution`](keyword/distribution)
-    [`#effect`](keyword/effect)
-    [`#element`](keyword/element)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#height`](keyword/height)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#propagation`](keyword/propagation)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#stress`](keyword/stress)
-    [`#tension`](keyword/tension)
-    [`#width`](keyword/width)
-
-
--------------------------
+<a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/propagation"><button class="btn">#propagation</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Layer-Height%20on%20Tensile%20Stress-Distribution%20and%20Crack-Width%20and%20Propagation%20in%203D%20Printed%20Fiber-Reinforced%20Flexural%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164204273&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4212788440" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1520/stp163620200114" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1520/stp163620200114?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper evaluates the effect of layer height on the flexural response and crack propagation behavior of 3D-printed steel fiber-reinforced mortar beams. Beams printed with three different layer heights (5, 10, and 15 mm), with other dimensional and printing parameters maintained the same, were tested in four-point bending. The flexural strength increased with layer height in the range explored. Fiber lengths larger than the layer height introduced enhanced interlayer defects. Flexural load-deflection data were employed to determine a constitutive tensile stress-strain relationship. Digital image correlation (DIC) was used to measure the crack width along the depth, along with the strain profile. The relationships between stress and crack width were developed as a function of distance from the neutral axis, which demonstrated higher residual stress at a given crack width for the specimens with higher layer height. The study shows that a small amount of fibers in 3D-printed mixtures ensures better mechanical properties and that higher layer heights (within the limits used here) are beneficial in terms of mechanical behavior and speed of construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -102,7 +74,37 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nair_li_moba_neit.2021.EoLHoTSDaCWaPi3PFRFE,
+      author            = "Sooraj Kumar A. O. Nair and Anling Li and Barzin Mobasher and Narayanan Neithalath",
+      title             = "Effect of Layer-Height on Tensile Stress-Distribution and Crack-Width and Propagation in 3D Printed Fiber-Reinforced Flexural Elements",
+      doi               = "10.1520/stp163620200114",
+      year              = "2021",
+      pages             = "13--26",
+      booktitle         = "Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers",
+      editor            = "Scott Z. Jones and Eric L. Kreiger",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. A. O. Nair, A. Li, B. Mobasher and N. Neithalath, “Effect of Layer-Height on Tensile Stress-Distribution and Crack-Width and Propagation in 3D Printed Fiber-Reinforced Flexural Elements”, in <i>Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers</i>,  2021, pp. 13–26. doi: 10.1520/stp163620200114.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nair, Sooraj Kumar A. O., Anling Li, Barzin Mobasher, and Narayanan Neithalath. “Effect of Layer-Height on Tensile Stress-Distribution and Crack-Width and Propagation in 3D Printed Fiber-Reinforced Flexural Elements”. In <i>Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers</i>, edited by Scott Z. Jones and Eric L. Kreiger, 13–26, 2021. https://doi.org/10.1520/stp163620200114.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

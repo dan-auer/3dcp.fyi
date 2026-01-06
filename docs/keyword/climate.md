@@ -8,7 +8,7 @@ search:
 
 # #climate
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/anastassiou_gaete-holmes_richard"><b>Anastassiou</b> Richard</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>, <a href="../../../author/wegertseder-martinez_paulina"><b>Wegertseder Martínez</b> Paulina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../anas_alva_wege.2025.TC/">Towards Climatomorphism:<br/>A Generative Optimization Framework for Climate-Adaptive 3D-Printed Free-Form Housing</a></li>
   <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/alsuwaidi_abdulla"><b>Alsuwaidi</b> Abdulla</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/binshaqooi_essa"><b>Binshaqooi</b> Essa</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mans_alsu_bina_bins.2025.CHTaUVAo3CPEwVTACiHAC/">Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates</a></li>
   <li><a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/li_dianmo"><b>Li</b> Dianmo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_nere_li_zhan.2024.BACP3PC/">Biochar-Augmented Climate-Positive 3D Printable Concrete</a></li>

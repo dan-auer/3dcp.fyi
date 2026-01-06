@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Shen, Dongpu Sun, Chenyu Lu, Zhigang Zhang, Xiaoyue Zhang, Jamal Abdalla, Rami Hawileh
+    - footer
+title: Shen Qiang, Sun Dongpu, Lu Chenyu, Zhang Zhigang, Zhang Xiaoyue, Abdalla Jamal, Hawileh Rami
 description:
 tags:
  - anisotropy
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.jobe.2025.112140" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112140</a>
+#Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112140" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112140" target="_blank">10.1016/j.jobe.2025.112140</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-2089-7332" title="ORCID: 0009-0001-2089-7332" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shen_qiang"><b>Shen</b>&nbsp;Qiang</a></span>, <a href="../../../author/sun_dongpu"><b>Sun</b>&nbsp;Dongpu</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-0841-9654" title="ORCID: 0009-0008-0841-9654" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_chenyu"><b>Lu</b>&nbsp;Chenyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7934-3027" title="ORCID: 0000-0002-7934-3027" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_zhigang"><b>Zhang</b>&nbsp;Zhigang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6420-9984" title="ORCID: 0000-0002-6420-9984" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xiaoyue"><b>Zhang</b>&nbsp;Xiaoyue</a></span>, <a href="../../../author/abdalla_a_jamal"><b>Abdalla</b>&nbsp;Jamal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0184-6732" title="ORCID: 0000-0002-0184-6732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hawileh_a_rami"><b>Hawileh</b>&nbsp;Rami</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a> <a href="https://orcid.org/0009-0001-2089-7332" title="ORCID: 0009-0001-2089-7332" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>
-,     <a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a> <a href="https://orcid.org/0009-0008-0841-9654" title="ORCID: 0009-0008-0841-9654" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> <a href="https://orcid.org/0000-0002-7934-3027" title="ORCID: 0000-0002-7934-3027" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a> <a href="https://orcid.org/0000-0002-6420-9984" title="ORCID: 0000-0002-6420-9984" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abdalla_a_jamal"><b>Abdalla</b> Jamal</a>
-,     <a href="../../../author/hawileh_a_rami"><b>Hawileh</b> Rami</a> <a href="https://orcid.org/0000-0002-0184-6732" title="ORCID: 0000-0002-0184-6732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112140
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20and%20Anisotropic-Mechanical%20Properties%20of%20Polyoxymethylene%20Fibers%20Reinforced%203D%20Printable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218148390&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407692455" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112140" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112140?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete has garnered significant attentions for its potential to revolutionize construction; however, its brittleness remains a significant challenge. This paper aims to address this issue by developing the 3D-printed polyoxymethylene (POM) fiber-reinforced cementitious composites (3DP-FRCC). The effect of fiber dosage on green strength was analyzed through uniaxial unconfined compression tests, and a time-stress model based on peak green strength was proposed to optimize the construction rate of 3DP-FRCC. The influence of fiber dosage on both the fresh state and the anisotropic mechanical properties of hardened 3DP-FRCC was also investigated. The results demonstrated that the fresh 3DP-FRCC printed using the construction rate optimization method exhibited good extrudability and buildability. Under loadings, the 3DP-FRCC mixtures with incorporation of POM fibers exhibited ductile failure mode, moreover, both the green strength and the hardened strength of 3DP-FRCC was also improved as compared with that of reference mixture without POM fiber adding (POM0). For instance, the green strength increased to 43 kPa, representing a 13.2% improvement compared to POM0. For the hardened mechanical properties, the increased strength in the Y direction was the most pronounced. Specifically, the compressive strength increased from 67 MPa in POM0 to 75 MPa in POM2. Similarly, the tensile strength rose from 3.93 MPa to 5.22 MPa. The most notable improvement was observed in flexural strength, where POM2 achieved 17.06 MPa, representing a 27% increase over the 13.43 MPa in POM0. Notably, POM2 also exhibited the highest toughness, with the toughness coefficient in the Y-direction increasing from 0.48 MPa in POM0 to 8.29 MPa, representing an increase of 1 order of magnitude.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
@@ -98,8 +72,37 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shen_sun_lu_zhan.2025.FaAMPoPFR3PCC,
+      author            = "Qiang Shen and Dongpu Sun and Chenyu Lu and Zhigang Zhang and Xiaoyue Zhang and Jamal A. Abdalla and Rami A. Hawileh",
+      title             = "Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites",
+      doi               = "10.1016/j.jobe.2025.112140",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112140",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Shen, “Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites”, <i>Journal of Building Engineering</i>, p. 112140, 2025, doi: 10.1016/j.jobe.2025.112140.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shen, Qiang, Dongpu Sun, Chenyu Lu, Zhigang Zhang, Xiaoyue Zhang, Jamal A. Abdalla, and Rami A. Hawileh. “Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites”. <i>Journal of Building Engineering</i>, 2025, 112140. https://doi.org/10.1016/j.jobe.2025.112140.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

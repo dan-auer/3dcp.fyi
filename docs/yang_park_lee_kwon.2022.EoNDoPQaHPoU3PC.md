@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jun-Mo Yang, In-Beom Park, Hojae Lee, Hongkyu Kwon
+    - footer
+title: Yang Jun-Mo, Park In-Beom, Lee Hojae, Kwon Hongkyu
 description:
 tags:
  - concrete
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/1/34/pdf?version=1672304361) Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete ([2022-12](date/2022/12))
-<a href="https://doi.org/10.3390/ma16010034" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16010034</a>
+#Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete ([2022-12](date/2022/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/1/34/pdf?version=1672304361) <a href="https://doi.org/10.3390/ma16010034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16010034" target="_blank">10.3390/ma16010034</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4071-4943" title="ORCID: 0000-0002-4071-4943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_jun-mo"><b>Yang</b>&nbsp;Jun-Mo</a></span>, <a href="../../../author/park_in-beom"><b>Park</b>&nbsp;In-Beom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwon_hongkyu"><b>Kwon</b>&nbsp;Hongkyu</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a> <a href="https://orcid.org/0000-0002-4071-4943" title="ORCID: 0000-0002-4071-4943" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/park_in-beom"><b>Park</b> In-Beom</a>
-,     <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#detail`](keyword/detail)
-    [`#effect`](keyword/effect)
-    [`#hardened`](keyword/hardened)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#quality`](keyword/quality)
-    [`#underwater`](keyword/underwater)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detail"><button class="btn">#detail</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Nozzle%20Details%20on%20Print%20Quality%20and%20Hardened%20Properties%20of%20Underwater%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145650452&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4312042285" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16010034" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16010034?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study developed a 3D concrete printing (3DCP) system that can print not only in air but also underwater. This underwater 3DCP system is equipped with many distinct technologies, such as a technology to supply the printing material to the nozzle tip at a constant rate by detecting its amount in the printer hopper. Using the developed 3DCP system, the effect of nozzle details on underwater print quality and hardened properties was investigated. The straight-line printing performance underwater was evaluated using five nozzles: a nozzle without a trowel (Nozzel#1), a nozzle with fixed trowels attached to both sides (Nozzle#2), a nozzle with trowels attached to the back and both sides to constrain five sides (Nozzle#3), a nozzle with a three-sided trowel inclined by 30° (Nozzle#4), and a nozzle with a roof added to Nozzle#4 opening (Nozzle#5). Nozzle#4 yielded the best print quality and hardened properties. In addition, an underwater curved shape printing test was performed using Nozzle#4, the problems that occurred in this test were analyzed and solutions were suggested.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -98,8 +75,9 @@ tags:
       <li><a href="../../../author/woo_seong-jin"><b>Woo</b> Seong-Jin</a>, <a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../woo_yang_lee_kwon.2021.CoPo3PMiAvU/">Comparison of Properties of 3D Printed Mortar in Air vs. Underwater</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/amegouz_driss"><b>Amegouz</b> Driss</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../meso_foul_ameg.2025.3CP/">3D Concrete Printing:<br/>Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction</a></li>
       <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/kumar_vijay"><b>Kumar</b> Vijay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/borsaikia_c_arun"><b>Borsaikia</b> Arun</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maur_kuma_pand_bors.2025.IPCRi3CPwaSN/">Inline Polymer Cable Reinforcement in 3D Concrete Printing with a Special Nozzle</a></li>
       <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
@@ -110,4 +88,34 @@ tags:
       <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/dynowski_piotr"><b>Dynowski</b> Piotr</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../korn_gade_dyno_tran.2024.AMiUA/">Additive Manufacturing in Underwater Applications</a></li>
       <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zava_nane_silv_ruiz.2024.ACUEEBC/">Additive Construction Using Enhanced Earthen-Based Composites:<br/>Improvement of the Mechanical Strength and Water Durability Using Chitosan and Agave-Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_park_lee_kwon.2022.EoNDoPQaHPoU3PC,
+      author            = "Jun-Mo Yang and In-Beom Park and Hojae Lee and Hongkyu Kwon",
+      title             = "Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete",
+      doi               = "10.3390/ma16010034",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-M. Yang, I.-B. Park, H. Lee and H. Kwon, “Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete”, <i>Materials</i>, vol. 16, no. 1, 2022, doi: 10.3390/ma16010034.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Jun-Mo, In-Beom Park, Hojae Lee, and Hongkyu Kwon. “Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete”. <i>Materials</i> 16, no. 1 (2022). https://doi.org/10.3390/ma16010034.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

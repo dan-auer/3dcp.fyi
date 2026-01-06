@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Revanth Kandagaddala, Uday Boddepalli, Prakash Nanthagopalan
+    - footer
+title: Kandagaddala Revanth, Boddepalli Uday, Nanthagopalan Prakash
 description:
 tags:
  - characteristic
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.jobe.2025.112902" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112902</a>
+#Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112902" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112902" target="_blank">10.1016/j.jobe.2025.112902</a>
 
--------------------------
+<a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b>&nbsp;Revanth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boddepalli_uday"><b>Boddepalli</b>&nbsp;Uday</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b>&nbsp;Prakash</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112902
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>
-,     <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> <a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112902
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Novel%20Rheological%20Test%20Procedure%20for%20Printability%20Characterization%20of%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005006755&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410300677" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112902" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112902?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study presents the development and validation of a novel rheological test setup specifically designed for 3D mortar printing (3DMP) applications. While existing rheometers have limitations in characterizing the complex behaviour of printable mortar mixtures, this research proposes an innovative cup-and-plate geometry designed to more accurately replicate the shear and flow conditions encountered during actual printing operations. The proposed test setup offers several unique features that include an adjustable gap size to accommodate varying particle sizes, strategically defined measurement zones for consistent data acquisition, and a capacity to investigate the formation and evolution of the critical lubrication layer. Through comprehensive testing protocols, including a modified three-interval thixotropy test (M3ITT), the setup successfully characterized the rheological properties of 3D printable pastes and mortar mixtures. Experimental results highlight the ability of the new test setup to distinguish subtle differences in rheological performance between paste and mortar formulations. Similar trend was observed, with mortar mixtures exhibiting amplified responses compared to their paste counterparts, particularly in terms of storage modulus and structural rigidification. These differences underscore the importance of testing at the mortar level rather than relying solely on paste behavior. The practical relevance of the rheological data was validated through controlled 3D printing trials. These trials demonstrated that rheological parameters measured with the novel setup accurately predicted key aspects of print performance. The strong agreement between predicted and observed outcomes confirms the apparatus’s utility as a predictive tool for print quality and material optimization. The findings contribute to the standardization of testing procedures in 3DMP and improve the understanding of material behaviour during the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC/">Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
@@ -87,7 +69,36 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC/">Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kand_bodd_nant.2025.NRTPfPCo3PM,
+      author            = "Revanth Kumar Kandagaddala and Uday Boddepalli and Prakash Nanthagopalan",
+      title             = "Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar",
+      doi               = "10.1016/j.jobe.2025.112902",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112902",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. K. Kandagaddala, U. Boddepalli and P. Nanthagopalan, “Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar”, <i>Journal of Building Engineering</i>, p. 112902, 2025, doi: 10.1016/j.jobe.2025.112902.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kandagaddala, Revanth Kumar, Uday Boddepalli, and Prakash Nanthagopalan. “Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar”. <i>Journal of Building Engineering</i>, 2025, 112902. https://doi.org/10.1016/j.jobe.2025.112902.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

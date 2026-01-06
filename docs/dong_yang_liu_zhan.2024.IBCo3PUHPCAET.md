@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Liang Dong, Yekai Yang, Zhongxian Liu, Yan Zhang, Chengqing Wu
+    - footer
+title: Dong Liang, Yang Yekai, Liu Zhongxian, Zhang Yan, Wu Chengqing
 description:
 tags:
  - bond
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.109801) Interface Bonding Characteristics of 3D Printed Ultra-High-Performance Concrete After Elevated Temperatures ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.jobe.2024.109801" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109801</a>
+#Interface Bonding Characteristics of 3D Printed Ultra-High-Performance Concrete After Elevated Temperatures ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.109801) <a href="https://doi.org/10.1016/j.jobe.2024.109801" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109801" target="_blank">10.1016/j.jobe.2024.109801</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_liang"><b>Dong</b>&nbsp;Liang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yekai"><b>Yang</b>&nbsp;Yekai</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <a href="../../../author/zhang_yan"><b>Zhang</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 93, No. 109801
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> <a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> <a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-,     <a href="../../../author/zhang_yan"><b>Zhang</b> Yan</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 93, No. 109801
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#elevation`](keyword/elevation)
-    [`#height`](keyword/height)
-    [`#interface`](keyword/interface)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interface%20Bonding%20Characteristics%20of%203D%20Printed%20Ultra-High-Performance%20Concrete%20After%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195476103&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399258069" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109801" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109801?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explored the influence of elevated-temperature exposure and interlayer time intervals on the interface bonding strength of hybrid-fibre 3D printed ultra-high-performance concrete (3DP-UHPC), and analysed the potential mechanisms driving these observed results. A relationship model for the bonding strength of hybrid fibre 3DP-UHPC in elevated-temperature environments was proposed. Results revealed that at 800 ◦C, localized damage occurred in 3DP-UHPC, but the addition of 0.5 % polypropylene fibres delayed the occurrence of spalling behaviour and enhanced its elevated-temperature resistance. Furthermore, as the time interval increased, the bonding strength of 3DP-UHPC gradually decreased, particularly at temperatures above 400 ◦C, where the melting and volatilization of polypropylene fibres negatively affected the bonding strength. The study suggested that polypropylene fibres inhibited spalling behaviour of 3DP-UHPC after elevated temperatures through moisture loss and thermal stability. However, they may also lead to interface weakening, resulting in a decrease in bonding strength. These findings provide important guidance for further development and design of 3DP-UHPC structures in elevated-temperature environments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -94,8 +70,8 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -110,4 +86,34 @@ tags:
       <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a>, <a href="../../../author/gebel_seyma"><b>Gebel</b> Şeyma</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../takv_top_gokg_gebe.2024.Ao3CPTiBCwDADDiH/">Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing</a></li>
       <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lan_yang_xu_chen.2024.QAoIFPi3PAARSCBoaCFFM/">Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dong_yang_liu_zhan.2024.IBCo3PUHPCAET,
+      author            = "Liang Dong and Yekai Yang and Zhongxian Liu and Yan Zhang and Chengqing Wu",
+      title             = "Interface Bonding Characteristics of 3D Printed Ultra-High-Performance Concrete After Elevated Temperatures",
+      doi               = "10.1016/j.jobe.2024.109801",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "93",
+      pages             = "109801",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Dong, Y. Yang, Z. Liu, Y. Zhang and C. Wu, “Interface Bonding Characteristics of 3D Printed Ultra-High-Performance Concrete After Elevated Temperatures”, <i>Journal of Building Engineering</i>, vol. 93, p. 109801, 2024, doi: 10.1016/j.jobe.2024.109801.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dong, Liang, Yekai Yang, Zhongxian Liu, Yan Zhang, and Chengqing Wu. “Interface Bonding Characteristics of 3D Printed Ultra-High-Performance Concrete After Elevated Temperatures”. <i>Journal of Building Engineering</i> 93 (2024): 109801. https://doi.org/10.1016/j.jobe.2024.109801.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

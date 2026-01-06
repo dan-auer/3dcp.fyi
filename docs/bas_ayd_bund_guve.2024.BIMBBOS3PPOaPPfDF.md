@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sercan Baş, Ozan Aydın, Zeynep Bundur, Gursans Guven
+    - footer
+title: Baş Sercan, Aydın Ozan, Bundur Zeynep, Guven Gursans
 description:
 tags:
  - base
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Building Information Modeling (BIM)-Based On-Site 3D Printer Position-Optimization and Path-Planning for Digital Fabrication ([2025-01](date/2025/01))
-<a href="https://doi.org/10.31462/jcemi.2024.04291309" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.31462/jcemi.2024.04291309</a>
+#Building Information Modeling (BIM)-Based On-Site 3D Printer Position-Optimization and Path-Planning for Digital Fabrication ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.31462/jcemi.2024.04291309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31462/jcemi.2024.04291309" target="_blank">10.31462/jcemi.2024.04291309</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-5790-2878" title="ORCID: 0009-0005-5790-2878" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bas_sercan"><b>Baş</b>&nbsp;Sercan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7919-3105" title="ORCID: 0000-0001-7919-3105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aydin_eray_ozan"><b>Aydın</b>&nbsp;Ozan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6943-8567" title="ORCID: 0000-0002-6943-8567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guven_gursans"><b>Guven</b>&nbsp;Gursans</a></span><br>
+Journal Article - Journal of Construction Engineering, Management & Innovation, Vol. 7, Iss. 4, pp. 291-309
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bas_sercan"><b>Baş</b> Sercan</a> <a href="https://orcid.org/0009-0005-5790-2878" title="ORCID: 0009-0005-5790-2878" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aydin_eray_ozan"><b>Aydın</b> Ozan</a> <a href="https://orcid.org/0000-0001-7919-3105" title="ORCID: 0000-0001-7919-3105" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a> <a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guven_gursans"><b>Guven</b> Gursans</a> <a href="https://orcid.org/0000-0002-6943-8567" title="ORCID: 0000-0002-6943-8567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Construction Engineering, Management & Innovation, Vol. 7, Iss. 4, pp. 291-309
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bim`](keyword/bim)
-    [`#buildability`](keyword/buildability)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#information`](keyword/information)
-    [`#model`](keyword/model)
-    [`#optimization`](keyword/optimization)
-    [`#path`](keyword/path)
-    [`#position`](keyword/position)
-    [`#print`](keyword/print)
-    [`#site`](keyword/site)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/position"><button class="btn">#position</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Building%20Information%20Modeling%20%28BIM%29-Based%20On-Site%203D%20Printer%20Position-Optimization%20and%20Path-Planning%20for%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405912744" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.31462/jcemi.2024.04291309" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.31462/jcemi.2024.04291309?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The on-site integration of 3D printing and Building Information Modeling (BIM) has shown the potential to improve the production processes of digital fabrication with concrete. BIM can be used in the site planning and optimization of the digital fabrication process by optimally positioning the 3D printers on the construction site. In this work, a BIM-based 3D-printer position optimization and path planning tool was developed using the Dynamo plugin of the Autodesk Revit software. This tool works similarly to the BIM-based site layout optimization tools for the operation and positioning of major construction equipment (e.g., cranes). The developed tool considers the physical properties of a robotic arm 3D printer, such as its dimensions and printing range and the geometry and location of the elements to be printed on-site. It suggests the optimum path for the 3D printer to fabricate a project. The position optimization and path planning tool are validated for a case study of a real-world 3D-printed single-floor office building and successfully reduced the number of steps required for printing the walls of the case study building, enabling significant time and energy savings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/anane_walid"><b>Anane</b> Walid</a>, <a href="../../../author/iordanova_ivanka"><b>Iordanova</b> Ivanka</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../anan_iord_ouel.2023.TUoBfR3CP/">The Use of BIM for Robotic 3D Concrete Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -93,7 +67,38 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bas_ayd_bund_guve.2024.BIMBBOS3PPOaPPfDF,
+      author            = "Sercan Baş and Ozan Eray Aydın and Zeynep Başaran Bundur and Gursans Guven",
+      title             = "Building Information Modeling (BIM)-Based On-Site 3D Printer Position-Optimization and Path-Planning for Digital Fabrication",
+      doi               = "10.31462/jcemi.2024.04291309",
+      year              = "2024",
+      journal           = "Journal of Construction Engineering, Management & Innovation",
+      volume            = "7",
+      number            = "4",
+      pages             = "291--309",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Baş, O. E. Aydın, Z. B. Bundur and G. Guven, “Building Information Modeling (BIM)-Based On-Site 3D Printer Position-Optimization and Path-Planning for Digital Fabrication”, <i>Journal of Construction Engineering, Management & Innovation</i>, vol. 7, no. 4, pp. 291–309, 2024, doi: 10.31462/jcemi.2024.04291309.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baş, Sercan, Ozan Eray Aydın, Zeynep Başaran Bundur, and Gursans Guven. “Building Information Modeling (BIM)-Based On-Site 3D Printer Position-Optimization and Path-Planning for Digital Fabrication”. <i>Journal of Construction Engineering, Management & Innovation</i> 7, no. 4 (2024): 291–309. https://doi.org/10.31462/jcemi.2024.04291309.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

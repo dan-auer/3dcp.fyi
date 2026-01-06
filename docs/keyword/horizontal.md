@@ -8,7 +8,7 @@ search:
 
 # #horizontal
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/szogi_tamas"><b>Szögi</b> Tamás</a>, <a href="../../../author/kapitany_kristof"><b>Kapitány</b> Kristóf</a>, <a href="../../../author/solyom_sandor"><b>Sólyom</b> Sándor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../szog_kapi_soly.2024.Co3CPHSTEADA/">Characterization of 3D Concrete Printed Horizontal Structures Through Early-Age Deformation-Analysis</a></li>
   <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
   <li><a href="../../../author/lu_ming"><b>Lu</b> Ming</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lu_wu_yuan.2024.OfIRJMiNH3PA/">Optimization for Industrial Robot Joint Movement in Non-Horizontal 3D Printing Application</a></li>

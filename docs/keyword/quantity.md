@@ -8,7 +8,7 @@ search:
 
 # #quantity
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
   <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cui_guo_liu_da.2025.QAo3PCTQVI/">Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection</a></li>
   <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_chen_lan_yang.2025.QEfFPo3PUHPCLiDD/">Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions</a></li>

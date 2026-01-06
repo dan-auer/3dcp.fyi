@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Zafar, Amir Bakhshi, Maryam Hojati
+    - footer
+title: Zafar Muhammad, Bakhshi Amir, Hojati Maryam
 description:
 tags:
  - cement
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133676" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133676</a>
+#Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133676" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133676" target="_blank">10.1016/j.conbuildmat.2023.133676</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b>&nbsp;Amir</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 408, No. 133676
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> <a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 408, No. 133676
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#evaluation`](keyword/evaluation)
-    [`#fidelity`](keyword/fidelity)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#self`](keyword/self)
-    [`#shape`](keyword/shape)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fidelity"><button class="btn">#fidelity</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Shape%20Fidelity%20Evaluation%20of%20Self-Reinforced%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173581149&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387401555" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133676" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133676?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Incorporating fibers into Engineered Cementitious Composites (ECC) renders it a promising self-reinforced candidate for additive manufacturing, which can effectively address the challenges of reinforcement and automation. Considering this research challenge the current study aimed at designing 3D printable ECC mixes. The problems involved in the printability of ECC such as poor extrudability, buildability and shape retention, were addressed by utilizing the methylcellulose (MC) as a viscosity-modifying admixture. The results indicated that adding 1 % MC improved the fiber dispersion coefficient by 28 % and increased static yield stress in a range of 4 % to 237 % and plastic viscosity in the range of 247 % to 950 % in four different ECC mixes. Accordingly, the dimensional conformity of 3D printed filaments was considerably improved, and all designed ECC mixes meet the extrudability and buildability requirements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "58 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bakh_sedg_hoja.2021.APSotMDo3PECC/">A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite</a></li>
@@ -127,8 +105,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zafar_tayyab"><b>Zafar</b> Tayyab</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_zafa_hoja.2025.Et3PoECCwICfRCiAR/">Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions</a></li>
@@ -140,4 +118,34 @@ tags:
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lori_mehr.2024.MPaCDMi3PPGwCS/">Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures</a></li>
       <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hoja_sedg_li_mema.2024.FSo3PCB/">Flexural Strength of 3D Printed Concrete Beams:<br/>Exploring Barbed-Wire Reinforcement and Cross-Sectional Geometry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zafa_bakh_hoja.2023.PaSFEoSRECC,
+      author            = "Muhammad Saeed Zafar and Amir Bakhshi and Maryam Hojati",
+      title             = "Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites",
+      doi               = "10.1016/j.conbuildmat.2023.133676",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "408",
+      pages             = "133676",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. S. Zafar, A. Bakhshi and M. Hojati, “Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites”, <i>Construction and Building Materials</i>, vol. 408, p. 133676, 2023, doi: 10.1016/j.conbuildmat.2023.133676.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zafar, Muhammad Saeed, Amir Bakhshi, and Maryam Hojati. “Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites”. <i>Construction and Building Materials</i> 408 (2023): 133676. https://doi.org/10.1016/j.conbuildmat.2023.133676.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

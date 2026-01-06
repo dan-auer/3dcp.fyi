@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnaud Perrot, Damien Rangeard
+    - footer
+title: Perrot Arnaud, Rangeard Damien
 description:
 tags:
  - cast
@@ -13,27 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing in Concrete:<br/>:aca-blank: Techniques for Extrusion-Casting ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1002/9781119610755.ch2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9781119610755.ch2</a>
+#3D Printing in Concrete&nbsp;([2019-04](date/2019/04))
+<div class="h1-like">Techniques for Extrusion-Casting</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781119610755.ch2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781119610755.ch2" target="_blank">10.1002/9781119610755.ch2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span><br>
+Contribution - 3D Printing of Concrete, pp. 41-72
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Printing of Concrete, pp. 41-72
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#print`](keyword/print)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070523830&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2938341776" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9781119610755.ch2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9781119610755.ch2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing by extrusion/deposition is currently the most widely used process in the field of digital construction [WAN 16]. This automated construction process is a complex process that can be broken down into several steps: pumping the material, extruding it and depositing it. For each step of the printing process, the fresh cement-based materials must have complete control over the properties which guarantee both the flow of the material during the initial stage of the process, and its stability after being deposited. Traditionally, in laboratories, a robotic arm is used to deposit the materials transported by a mortar pump, layer-by-layer, following a path determined by the digital model of the structure to be printed (Figure 2.1). Concrete pumps are also used as a method of transporting the materials on construction sites or in prefabrication factories. Conversely, various technical solutions are used to move the extrusion (or printing) head. This is fixed on various supports that allow the effector to be moved along the programmed paths: traveling cranes [KHO 06], articulated arms on mobile machinery [LEA 12, KHO 05], fixed supports [API 18, XTR 18] or conventional building site lifting means that are repurposed from their original use [NER 16a].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/olbrich_alexander"><b>Olbrich</b> Alexander</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ibra_olbr_lind_gerb.2018.AAMoCSwF/">Automated Additive Manufacturing of Concrete Structures without Formwork:<br/>Concept for Path-Planning</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
@@ -78,8 +62,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/bao_minh-phuong_ta"><b>Bao</b> Ta</a>, <a href="../../../author/yeakleang_muy"><b>Yeakleang</b> Muy</a>, <a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b> Sandra</a>, <a href="../../../author/courard_luc"><b>Courard</b> Luc</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../bao_yeak_abde_cour.2024.TMf3P/">Testing Mortars for 3D Printing:<br/>Correlation with Rheological Behavior</a></li>
@@ -94,4 +78,34 @@ tags:
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{perr_rang.2019.3PiC,
+      author            = "Arnaud Perrot and Damien Rangeard",
+      title             = "3D Printing in Concrete: Techniques for Extrusion-Casting",
+      doi               = "10.1002/9781119610755.ch2",
+      year              = "2019",
+      pages             = "41--72",
+      booktitle         = "3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution",
+      editor            = "Arnaud Perrot",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Perrot  and D. Rangeard, “3D Printing in Concrete: Techniques for Extrusion-Casting”, in <i>3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution</i>,  2019, pp. 41–72. doi: 10.1002/9781119610755.ch2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perrot, Arnaud, and Damien Rangeard. “3D Printing in Concrete: Techniques for Extrusion-Casting”. In <i>3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution</i>, edited by Arnaud Perrot, 41–72, 2019. https://doi.org/10.1002/9781119610755.ch2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

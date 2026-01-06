@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amir Bakhshi, Reza Sedghi, Maryam Hojati
+    - footer
+title: Bakhshi Amir, Sedghi Reza, Hojati Maryam
 description:
 tags:
  - cement
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1061/9780784483787.021" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/9780784483787.021</a>
+#A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite ([2021-06](date/2021/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784483787.021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784483787.021" target="_blank">10.1061/9780784483787.021</a>
 
--------------------------
+<a href="../../../author/bakhshi_amir"><b>Bakhshi</b>&nbsp;Amir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sedghi_reza"><b>Sedghi</b>&nbsp;Reza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Contribution - Tran-SET 2021, pp. 199-211
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>
-,     <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a> <a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Tran-SET 2021, pp. 199-211
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#design`](keyword/design)
-    [`#engineered`](keyword/engineered)
-    [`#mixing`](keyword/mixing)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Preliminary%20Study%20on%20the%20Mix-Design%20of%203D%20Printable%20Engineered%20Cementitious%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120647727&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3211445611" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/9780784483787.021" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/9780784483787.021?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the challenges in applying 3D-printing in the construction industry is the concrete mix design. This paper is a preliminary study on the design of a printable engineered cementitious composite (ECC). The cement was replaced with a combination of different contents of fly ash, slag, and silica fume, in two replacement levels, 50% and 75%, and their compressive strength and setting time were evaluated. To assure the flowability of the mixtures, the flow table results were set in a constant range of 19–20 cm. The results indicate that 50% cement-substitution by slag/fly ash resulted in the largest strength. The incorporation of slag shortened the setting time and improved the strength of ECC mixtures. The cement substitution by fly ash lowered the water demand, enhanced workability, and up to 50% cement replacement improved the compressive strength. The addition of 10% silica fume reduced compressive strength and extended the setting time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
@@ -84,8 +65,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>
       <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a></li>
@@ -93,4 +74,34 @@ tags:
       <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sedg_zafa_hoja.2023.EFaHPoS3PLCM/">Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zafa_bakh_hoja.2022.T3PECC/">Toward 3D Printable Engineered Cementitious Composites:<br/>Mix-Design Proportioning, Flowability, and Mechanical Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bakh_sedg_hoja.2021.APSotMDo3PECC,
+      author            = "Amir Bakhshi and Reza Sedghi and Maryam Hojati",
+      title             = "A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite",
+      doi               = "10.1061/9780784483787.021",
+      year              = "2021",
+      pages             = "199--211",
+      booktitle         = "Tran-SET 2021",
+      editor            = "Zahid Hossain and Marwa M. Hassan and Louay Mohammad",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Bakhshi, R. Sedghi and M. Hojati, “A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite”, in <i>Tran-SET 2021</i>,  2021, pp. 199–211. doi: 10.1061/9780784483787.021.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bakhshi, Amir, Reza Sedghi, and Maryam Hojati. “A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite”. In <i>Tran-SET 2021</i>, edited by Zahid Hossain, Marwa M. Hassan, and Louay Mohammad, 199–211, 2021. https://doi.org/10.1061/9780784483787.021.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

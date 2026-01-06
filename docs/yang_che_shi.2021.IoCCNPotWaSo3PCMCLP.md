@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huashan Yang, Yujun Che, Mengyuan Shi
+    - footer
+title: Yang Huashan, Che Yujun, Shi Mengyuan
 description:
 tags:
  - carbonation
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder ([2021-07](date/2021/07))
-<a href="https://doi.org/10.1016/j.jobe.2021.102976" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.102976</a>
+#Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder ([2021-07](date/2021/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.102976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.102976" target="_blank">10.1016/j.jobe.2021.102976</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/che_yujun"><b>Che</b>&nbsp;Yujun</a></span>, <a href="../../../author/shi_mengyuan"><b>Shi</b>&nbsp;Mengyuan</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 44
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_mengyuan"><b>Shi</b> Mengyuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 44, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#containment`](keyword/containment)
-    [`#influence`](keyword/influence)
-    [`#limestone`](keyword/limestone)
-    [`#material`](keyword/material)
-    [`#particle`](keyword/particle)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influences%20of%20Calcium-Carbonate-Nano-Particles%20on%20the%20Workability%20and%20Strength%20of%203D%20Printing%20Cementitious%20Materials%20Containing%20Limestone-Powder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85109558307&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3179931390" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.102976" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.102976?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the influences of nano-CaCO3 (NC) on the fresh-state and hardened performances of 3D printing cementitious materials (3DPC) with limestone powder (LS). The LS was added at a rate of 15%, while 0, 1, 2, and 3% NC as a partial replacement for LS. Results show that the addition of NC accelerates the hydration reaction of Portland cement through nucleation. Besides, 15% LS increased the fluidity and vertical displacement but decreased the yield stress and green strength of fresh-state 3DPC. NC improved fresh-state performances of 3DPC significantly thanks to the high specific areas of NC. Mixtures containing 15% LS exhibited lower flexural and compressive strength than that of reference at all ages. However, mixtures containing 14% LS and 1% NC resulted in enhanced strength at all ages compared to mixtures containing 15% LS.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
@@ -103,8 +79,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
@@ -137,4 +113,33 @@ tags:
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../yang_che.2022.RoAMFaaPRfFAi3PCM/">Recycling of Aggregate Micro-Fines as a Partial Replacement for Fly-Ash in 3D Printing Cementitious Materials</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_che_shi.2021.IoCCNPotWaSo3PCMCLP,
+      author            = "Huashan Yang and Yujun Che and Mengyuan Shi",
+      title             = "Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder",
+      doi               = "10.1016/j.jobe.2021.102976",
+      year              = "2021",
+      journal           = "Journal of Building Engineering",
+      volume            = "44",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Yang, Y. Che and M. Shi, “Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder”, <i>Journal of Building Engineering</i>, vol. 44, 2021, doi: 10.1016/j.jobe.2021.102976.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Huashan, Yujun Che, and Mengyuan Shi. “Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder”. <i>Journal of Building Engineering</i> 44 (2021). https://doi.org/10.1016/j.jobe.2021.102976.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

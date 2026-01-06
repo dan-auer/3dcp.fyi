@@ -8,7 +8,7 @@ search:
 
 # #opportunity
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../baba_mcco_afsa.2025.CaOo3AfUWT/">Challenges and Opportunities of 3DCP Adoption for US Workforce Training</a></li>
   <li><a href="../../../author/wijethunge_anjalee"><b>Wijethunge</b> Anjalee</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/le_an"><b>Le</b> An</a>, <a href="../../../author/gajanayake_akvan"><b>Gajanayake</b> Akvan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wije_sama_le_gaja.2025.ASRoS3CP/">A Systematic Review on Sustainable 3D Concrete Printing:<br/>Opportunities and Challenges</a></li>
   <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>

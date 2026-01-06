@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qinbin Chen, Gabriel Barbat, Miguel Cervera
+    - footer
+title: Chen Qinbin, Barbat Gabriel, Cervera Miguel
 description:
 tags:
  - analysis
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.engstruct.2025.120675" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.120675</a>
+#Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.120675" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120675" target="_blank">10.1016/j.engstruct.2025.120675</a>
 
--------------------------
+<a href="../../../author/chen_qinbin"><b>Chen</b>&nbsp;Qinbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3675-5558" title="ORCID: 0000-0002-3675-5558" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barbat_b_gabriel"><b>Barbat</b>&nbsp;Gabriel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cervera_miguel"><b>Cervera</b>&nbsp;Miguel</a></span><br>
+Journal Article - Engineering Structures, Vol. 340, No. 120675
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>
-,     <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a> <a href="https://orcid.org/0000-0002-3675-5558" title="ORCID: 0000-0002-3675-5558" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 340, No. 120675
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buckling`](keyword/buckling)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#elasticity`](keyword/elasticity)
-    [`#element`](keyword/element)
-    [`#failure`](keyword/failure)
-    [`#finite`](keyword/finite)
-    [`#flow`](keyword/flow)
-    [`#inclusion`](keyword/inclusion)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buckling"><button class="btn">#buckling</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Finite%20Element%20Buildability%20Analysis%20of%203D%20Printed%20Concrete%20Including%20Failure%20by%20Elastic%20Buckling%20and%20Plastic%20Flow" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007502299&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411078767" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.120675" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.120675?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The present work proposes a novel framework for the numerical simulation of 3D printed concrete structures. For this, a constitutive model is proposed to reproduce the material behavior featuring aging, tensile and compressive damage, irreversible strain and creep. This is combined with a large-displacement framework to perform the buildability analysis of 3D printed concrete structures taking into account failure by both elastic buckling and plastic flow. In this work, a total of four numerical simulations of 3D printing of concrete are included, all of them being experiments reported in the literature: a straight wall, a hollow cylindrical wall, a large hollow square wall and a small hollow square wall. The results show the ability of the model to reproduce failure by elastic buckling and plastic flow with precision, effectively predicting the buildability of the 3D printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "63 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/andersen_sebastian"><b>Andersen</b> Sebastian</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/paegle_ieva"><b>Paegle</b> Ieva</a>, <a href="../../../author/nielsen_henrik_jens"><b>Nielsen</b> Jens</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ande_silv_paeg_niel.2020.NMDtEABo3PC/">Numerical Model Describing the Early-Age Behavior of 3D Printed Concrete:<br/>Work in Progress</a></li>
@@ -138,7 +113,37 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_barb_cerv.2025.FEBAo3PCIFbEBaPF,
+      author            = "Qinbin Chen and Gabriel B. Barbat and Miguel Cervera",
+      title             = "Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow",
+      doi               = "10.1016/j.engstruct.2025.120675",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "340",
+      pages             = "120675",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Chen, G. B. Barbat and M. Cervera, “Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow”, <i>Engineering Structures</i>, vol. 340, p. 120675, 2025, doi: 10.1016/j.engstruct.2025.120675.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Qinbin, Gabriel B. Barbat, and Miguel Cervera. “Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow”. <i>Engineering Structures</i> 340 (2025): 120675. https://doi.org/10.1016/j.engstruct.2025.120675.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

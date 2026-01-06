@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mihail-Andrei Jipa, Ana-Maria Anton, Lukas Gebhard, Benjamin Dillenburger
+    - footer
+title: Jipa Mihail-Andrei, Anton Ana-Maria, Gebhard Lukas, Dillenburger Benjamin
 description:
 tags:
  - concrete
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Nubian Slab:<br/>:aca-blank: 3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_45" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_45</a>
+#The Nubian Slab&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_45" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_45" target="_blank">10.1007/978-3-031-70031-6_45</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gebhard_lukas"><b>Gebhard</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 389-396
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> <a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a> <a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 389-396
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#print`](keyword/print)
-    [`#slab`](keyword/slab)
-    [`#vault`](keyword/vault)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/vault"><button class="btn">#vault</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Nubian%20Slab" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203062069&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402088644" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_45" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_45?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Nubian Slab is a real-world 3D-printed structural concrete element for a residential building in Zürich. The vaulted slab proposes an innovative material-efficient construction method based on digitally fabricated thin shell stay-in-place concrete formworks. The method targets structural slabs, which contribute up to 60% of concrete consumption in architectural applications. The fabrication process is based on the ancient Nubian vaults. These roof structures feature self-supporting inclined masonry courses that can be built without temporary support. This traditional building technique inspired the proposed layered concrete extrusion process, with the 3D-printed concrete layers being analogous to Nubian brick courses. The key difference to conventional 3D concrete printing is the inclination of the extrusion layers, allowing shallow vaults to be produced suspended in thin air without additional supports. The paper presents the robotic 3D-printing setup with a custom nozzle, the fabrication-informed design considerations, and the current limitations of the process, focusing on the case study of a 16 m2 Nubian slab with an irregular perimeter installed in a residential building. Based on this case study, the paper outlines a comprehensive construction sequence for Nubian slabs, considering discrete prefabricated 3D-printed Nubian formworks, assembly details, reinforcement strategies, functional integration, and in-situ monolithic casting. The proposed 3D-printed Nubian slab system enables innovative material-efficient architectural design solutions that may accelerate construction times on site, facilitate mass customisation, automation and integration, and enhance structural performance while remaining compatible with traditional building practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../anto_reit_skev_dill.2022.RLf3/">Reinforcement Lattices for 3DCP:<br/>A Fabrication Method Based on Ruled Surfaces</a></li>
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
@@ -76,11 +58,41 @@ tags:
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mata_bisc_hube_anto.2022.DFRCFS/">Digitally Fabricated Ribbed Concrete Floor Slabs:<br/>A Sustainable Solution for Construction</a></li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/chovghi_frederic"><b>Chovghi</b> Frederic</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chov_rich_dac.2025.FASFFfAM/">Fabrication-Aware Structural Form-Finding for Additive Manufacturing:<br/>An Equilibrium-Based Approach</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/dara_seni"><b>Dara</b> Seni</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_dara_abde.2025.ESSoSS3PEBCURA/">Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM</a></li>
-      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jipa_anto_gebh_dill.2024.TNS,
+      author            = "Mihail-Andrei Jipa and Ana-Maria Anton and Lukas Gebhard and Benjamin Dillenburger",
+      title             = "The Nubian Slab: 3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs",
+      doi               = "10.1007/978-3-031-70031-6_45",
+      year              = "2024",
+      volume            = "53",
+      pages             = "389--396",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M.-A. Jipa, A.-M. Anton, L. Gebhard and B. Dillenburger, “The Nubian Slab: 3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 389–396. doi: 10.1007/978-3-031-70031-6_45.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jipa, Mihail-Andrei, Ana-Maria Anton, Lukas Gebhard, and Benjamin Dillenburger. “The Nubian Slab: 3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:389–96, 2024. https://doi.org/10.1007/978-3-031-70031-6_45.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

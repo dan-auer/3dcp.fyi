@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wujian Long, Can Lin, Jie-Lin Tao, Taohua Ye, Yuan Fang
+    - footer
+title: Long Wujian, Lin Can, Tao Jie-Lin, Ye Taohua, Fang Yuan
 description:
 tags:
  - cement
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.122647" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.122647</a>
+#Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites ([2021-02](date/2021/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.122647" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.122647" target="_blank">10.1016/j.conbuildmat.2021.122647</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <a href="../../../author/lin_can"><b>Lin</b>&nbsp;Can</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_jie-lin"><b>Tao</b>&nbsp;Jie-Lin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_taohua"><b>Ye</b>&nbsp;Taohua</a></span>, <a href="../../../author/fang_yuan"><b>Fang</b>&nbsp;Yuan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 282
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_can"><b>Lin</b> Can</a>
-,     <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a> <a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a> <a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fang_yuan"><b>Fang</b> Yuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 282, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#limestone`](keyword/limestone)
-    [`#packing`](keyword/packing)
-    [`#particle`](keyword/particle)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Particle-Packing%20of%203D%20Printable%20Limestone-Calcined-Clay-Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101063266&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,23 +37,18 @@ tags:
 <a href="https://inciteful.xyz/p/W3132151686" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.122647" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.122647?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study develops a modified limestone calcined clay cement (LC3) composite for 3D printing, by introducing silica fume (SF) and particle packing theory. Interactions between particle packing density, rheological properties, and printability of the composites were synergistically investigated. Moreover, the ratio of the sand-to-binder (S/B) was also analyzed to explore the performance response. Results show that when composites contain 33.33 wt% calcined clay, 16.67 wt% limestone powder and 5 wt% SF with S/B ratio of 2.5, the dynamic yield stress, static yield stress, and structural recovery can be significantly improved. The proposed mortar can be continuously extruded with few defects and exhibited an excellent shape retention during printing process. Furthermore, the embodied energy (EE) and embodied carbon emissions (ECO2e) per cubic meter of optimal mortar respectively decreased by 50.2% and 45.2% with respect to the plain mortar. Finally, the employment of LC3 containing SF together with optimum particle packing system mutually contributed to lower the cement content of composites that eventually led to the development of eco-efficient printable materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../li_wang_ma.2020.MIoCSMCRGCf3PStDLC/">Mechanical Improvement of Continuous Steel-Micro-Cable-Reinforced Geopolymer Composites for 3D Printing Subjected to Different Loading Conditions</a></li>
-      <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../long_lin_tao_ye.2021.PaPPo3PLCCCC/">Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites</a></li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
@@ -88,8 +65,9 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "61 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
@@ -150,6 +128,34 @@ tags:
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../nair_sant_neit.2022.MMBPCATfGAo3PCE/">Mathematical Morphology-Based Point-Cloud-Analysis-Techniques for Geometry-Assessment of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
-      <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../long_lin_tao_ye.2021.PaPPo3PLCCCC/">Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{long_lin_tao_ye.2021.PaPPo3PLCCCC,
+      author            = "Wujian Long and Can Lin and Jie-Lin Tao and Taohua Ye and Yuan Fang",
+      title             = "Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites",
+      doi               = "10.1016/j.conbuildmat.2021.122647",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "282",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Long, C. Lin, J.-L. Tao, T. Ye and Y. Fang, “Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites”, <i>Construction and Building Materials</i>, vol. 282, 2021, doi: 10.1016/j.conbuildmat.2021.122647.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Long, Wujian, Can Lin, Jie-Lin Tao, Taohua Ye, and Yuan Fang. “Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites”. <i>Construction and Building Materials</i> 282 (2021). https://doi.org/10.1016/j.conbuildmat.2021.122647.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

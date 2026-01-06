@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junli Liu, Jonathan Tran
+    - footer
+title: Liu Junli, Tran Jonathan
 description:
 tags:
  - cement
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study on 3D-Printed Cementitious Materials Containing Surface-Modified Recycled Crumb-Rubber ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.matpr.2022.08.550" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2022.08.550</a>
+#Experimental Study on 3D-Printed Cementitious Materials Containing Surface-Modified Recycled Crumb-Rubber ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2022.08.550" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2022.08.550" target="_blank">10.1016/j.matpr.2022.08.550</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junli"><b>Liu</b>&nbsp;Junli</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_junli"><b>Liu</b> Junli</a> <a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#containment`](keyword/containment)
-    [`#experiment`](keyword/experiment)
-    [`#material`](keyword/material)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#rubber`](keyword/rubber)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%203D-Printed%20Cementitious%20Materials%20Containing%20Surface-Modified%20Recycled%20Crumb-Rubber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138766916&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296918968" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2022.08.550" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2022.08.550?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Surface modification on recycled rubber particles, such as pre-coating of cementitious paste, has been considered a practical way to improve the mechanical properties of rubberised concrete with the rubber particles partially replacing natural aggregates. Although research on this strategy has been widely carried out on cast concrete, the properties of 3D-printed cementitious materials containing surfacemodified rubber particles remain unexplored. In this study, the compressive and microstructural properties of 3D-printed cementitious mortar with cement-coated crumb rubber were investigated. The crumb rubber had a 15% replacement of river sand by weight. The compressive loads were applied in two different directions, including the Z direction (layer deposition) and the Y direction (printing). Compared to the reference specimen containing rubber particles without modification, the compressive strength of 3D-printed specimens with cement-coated ones increased by 25.7% and 14.0% in the Y and Z direction, respectively. Scanning electron microscopy (SEM) images showed the interfacial bonding between cement matrix and rubber particle was effectively improved due to the formation of the hardened cementitious shell located outside the rubber surface. X-ray micro-computed tomography (lCT) analysis of the pre-test and post-test specimens suggested the different increment of compressive strength along two loading directions could be attributed to several factors, including the internal elongated pores with their alignment relative to the loading direction and the rubber-matrix interface bonding.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../ding_xiao_zou_yu.2021.FPo3PFRCwRS/">Flexural Properties of 3D Printed Fiber-Reinforced Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../liu_li_fox_tran.2022.3CPoBIBS/">3D Concrete Printing of Bio-Inspired Bouligand Structure:<br/>A Study on Impact-Resistance</a></li>
@@ -79,11 +58,39 @@ tags:
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ting_tay_tan.2021.EMotEoRGCaAfC3P/">Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_asla.2025.MaUPVPo3PRCCRwPF/">Mechanical and Ultrasonic Pulse Velocity Performance of 3D Printed Rubberised Cementitious Composites Reinforced with PVA Fibers</a></li>
       <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xion_nie_liu_li.2024.EaOoMCCM3PRCC/">Evaluation and Optimization of Micro-Calcium-Carbonate-Modified 3D Printed Rubber-Crumb Concrete</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../asla_zhan.2024.S3PCSUHQSRM/">Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials</a></li>
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_tran.2022.ESo3PCMCSMRCR,
+      author            = "Junli Liu and Jonathan Phuong Tran",
+      title             = "Experimental Study on 3D-Printed Cementitious Materials Containing Surface-Modified Recycled Crumb-Rubber",
+      doi               = "10.1016/j.matpr.2022.08.550",
+      year              = "2022",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Liu  and J. P. Tran, “Experimental Study on 3D-Printed Cementitious Materials Containing Surface-Modified Recycled Crumb-Rubber”, <i>Materials Today: Proceedings</i>, 2022, doi: 10.1016/j.matpr.2022.08.550.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Junli, and Jonathan Phuong Tran. “Experimental Study on 3D-Printed Cementitious Materials Containing Surface-Modified Recycled Crumb-Rubber”. <i>Materials Today: Proceedings</i>, 2022. https://doi.org/10.1016/j.matpr.2022.08.550.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

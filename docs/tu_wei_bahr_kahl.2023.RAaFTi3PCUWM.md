@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Haidong Tu, Zhenyun Wei, Alireza Bahrami, Nabil Kahla, Ayaz Ahmad, Yasin Özkılıç
+    - footer
+title: Tu Haidong, Wei Zhenyun, Bahrami Alireza, Kahla Nabil, Ahmad Ayaz, Özkılıç Yasin
 description:
 tags:
  - advance
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2023.100187) Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.dibe.2023.100187" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2023.100187</a>
+#Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100187) <a href="https://doi.org/10.1016/j.dibe.2023.100187" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100187" target="_blank">10.1016/j.dibe.2023.100187</a>
 
--------------------------
+<a href="../../../author/tu_haidong"><b>Tu</b>&nbsp;Haidong</a></span>, <a href="../../../author/wei_zhenyun"><b>Wei</b>&nbsp;Zhenyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9431-7820" title="ORCID: 0000-0002-9431-7820" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bahrami_alireza"><b>Bahrami</b>&nbsp;Alireza</a></span>, <a href="../../../author/kahla_nabil"><b>ben&nbsp;Kahla</b>&nbsp;Nabil</a></span>, <a href="../../../author/ahmad_ayaz"><b>Ahmad</b>&nbsp;Ayaz</a></span>, <a href="../../../author/ozkilic_onuralp_yasin"><b>Özkılıç</b>&nbsp;Yasin</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100187
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tu_haidong"><b>Tu</b> Haidong</a>
-,     <a href="../../../author/wei_zhenyun"><b>Wei</b> Zhenyun</a>
-,     <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a> <a href="https://orcid.org/0000-0002-9431-7820" title="ORCID: 0000-0002-9431-7820" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kahla_nabil"><b>ben Kahla</b> Nabil</a>
-,     <a href="../../../author/ahmad_ayaz"><b>Ahmad</b> Ayaz</a>
-,     <a href="../../../author/ozkilic_onuralp_yasin"><b>Özkılıç</b> Yasin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100187
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#concrete`](keyword/concrete)
-    [`#future`](keyword/future)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#trend`](keyword/trend)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recent%20Advancements%20and%20Future%20Trends%20in%203D%20Printing%20Concrete%20Using%20Waste-Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169045158&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382601296" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2023.100187" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2023.100187?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) is an innovative construction technique that enables the creation of complex and customized structures. This technology offers advantages such as reduced material waste, faster construction times, and the ability to produce unique designs with intricate details. This article reviews the latest advancements in 3DPC technology, its potential to transform the building and construction industries, and the latest developments in 3DPC printing systems, methodologies, materials, and applications. The article concludes that several parameters and concrete mix proportions heavily influence the concrete 3D printing process. Using waste material as supplementary cementitious materials (SCMs) can significantly improve 3DPC's rheology, but excessive use can decrease early strength. Lastly, using recycled sand in 3D printing can reduce the flexural stiffness and strength of the printed objects when loaded from different directions. The article also categorizes large-scale 3DPC technologies into three primary categories, highlighting the need to optimize printing ink for better economic and environmental outcomes using waste materials in 3DCP applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "228 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -296,8 +273,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "65 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
@@ -364,4 +341,33 @@ tags:
       <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../khan_mcna.2023.AHRotCoCEfDSCCitBE/">A Holistic Review on the Contribution of Civil Engineers for Driving Sustainable Concrete Construction in the Built Environment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tu_wei_bahr_kahl.2023.RAaFTi3PCUWM,
+      author            = "Haidong Tu and Zhenyun Wei and Alireza Bahrami and Nabil ben Kahla and Ayaz Ahmad and Yasin Onuralp Özkılıç",
+      title             = "Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials",
+      doi               = "10.1016/j.dibe.2023.100187",
+      year              = "2023",
+      journal           = "Developments in the Built Environment",
+      pages             = "100187",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Tu, Z. Wei, A. Bahrami, N. ben Kahla, A. Ahmad and Y. O. Özkılıç, “Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials”, <i>Developments in the Built Environment</i>, p. 100187, 2023, doi: 10.1016/j.dibe.2023.100187.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tu, Haidong, Zhenyun Wei, Alireza Bahrami, Nabil ben Kahla, Ayaz Ahmad, and Yasin Onuralp Özkılıç. “Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials”. <i>Developments in the Built Environment</i>, 2023, 100187. https://doi.org/10.1016/j.dibe.2023.100187.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

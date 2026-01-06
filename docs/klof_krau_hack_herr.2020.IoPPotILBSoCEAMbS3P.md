@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harald Kloft, Hans-Werner Krauss, Norman Hack, Eric Herrmann, Stefan Neudecker, Patrick Varady, Dirk Lowke
+    - footer
+title: Kloft Harald, Krauss Hans-Werner, Hack Norman, Herrmann Eric, Neudecker Stefan, Varady Patrick, Lowke Dirk
 description:
 tags:
  - additive
@@ -21,40 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1016/j.cemconres.2020.106078" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2020.106078</a>
+#Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing ([2020-05](date/2020/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2020.106078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2020.106078" target="_blank">10.1016/j.cemconres.2020.106078</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b>&nbsp;Hans-Werner</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <a href="../../../author/herrmann_eric"><b>Herrmann</b>&nbsp;Eric</a></span>, <a href="../../../author/neudecker_stefan"><b>Neudecker</b>&nbsp;Stefan</a></span>, <a href="../../../author/varady_a_patrick"><b>Varady</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 134
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>
-,     <a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>
-,     <a href="../../../author/varady_a_patrick"><b>Varady</b> Patrick</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 134, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#influence`](keyword/influence)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Process%20Parameters%20on%20the%20Inter-Layer%20Bond%20Strength%20of%20Concrete%20Elements%20Additive%20Manufactured%20by%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084341898&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,19 +43,14 @@ tags:
 <a href="https://inciteful.xyz/p/W3023973226" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2020.106078" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2020.106078?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Shotcrete 3D Printing (SC3DP) is a novel robot-guided AM technology developed at Technische Universität Braunschweig in the environment of the Digital Building Fabrication Laboratory (DBFL). For successful automation, it is crucial to understand and redefine the entire concrete spraying process with all its interdependent parameters. This paper presents the basic principles of the SC3DP technology together with the results of a comparative study on the influence of the two concrete printing techniques extrusion and SC3DP on the interlayer bond strength. In particular, the effect of different time intervals between the deposition of two adjacent layers regarding mechanical properties (bond strength) is investigated. As will be shown, the SC3DP method allows convenient mechanical properties although the printed samples exhibit distinct anisotropies. The reasons are discussed based on investigations of the air void distribution by micro CT and mechanical test results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
-      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
@@ -105,8 +74,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "173 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
@@ -279,6 +249,34 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mai_freu_lowk.2020.CoSPPwS3PbADaPP/">Control of Strand Properties Produced with Shotcrete 3D Printing by Accelerator Dosage and Process Parameters</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../klof_empe_hack_herr.2020.SftRf3CP/">Strategies for the Reinforcement for 3D-Concrete-Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../bos_wolf_sale.2020.CDC2S/">CCR Digital Concrete 2020 SI:<br/>Editorial</a></li>
-      <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P,
+      author            = "Harald Kloft and Hans-Werner Krauss and Norman Peter Hack and Eric Herrmann and Stefan Neudecker and Patrick A. Varady and Dirk Lowke",
+      title             = "Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing",
+      doi               = "10.1016/j.cemconres.2020.106078",
+      year              = "2020",
+      journal           = "Cement and Concrete Research",
+      volume            = "134",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kloft, “Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing”, <i>Cement and Concrete Research</i>, vol. 134, 2020, doi: 10.1016/j.cemconres.2020.106078.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kloft, Harald, Hans-Werner Krauss, Norman Peter Hack, Eric Herrmann, Stefan Neudecker, Patrick A. Varady, and Dirk Lowke. “Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing”. <i>Cement and Concrete Research</i> 134 (2020). https://doi.org/10.1016/j.cemconres.2020.106078.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #blend
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
   <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
   <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.3PAoFAaGABaTBCM/">3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar</a></li>

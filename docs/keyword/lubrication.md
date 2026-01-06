@@ -8,7 +8,7 @@ search:
 
 # #lubrication
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../xie_zhan_shi_liu.2022.PoLLPoPCBoFIPM/">Prediction of Lubrication-Layer Properties of Pumped Concrete Based on Flow-Induced Particle-Migration</a></li>
   <li><a href="../../../author/tavangar_tooran"><b>Tavangar</b> Tooran</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../tava_hoss_yahi_khay.2022.NTVMtSPoFCTCoLLaPZ/">Novel Tri-Viscous-Model to Simulate Pumping of Flowable Concrete Through Characterization of Lubrication-Layer and Plug-Zones</a></li>
   <li><a href="../../../author/liu_yu"><b>Liu</b> Yu</a>, <a href="../../../author/jing_rui"><b>Jing</b> Rui</a>, <a href="../../../author/cao_fengze"><b>Cao</b> Fengze</a>, <a href="../../../author/yan_peiyu"><b>Yan</b> Peiyu</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_jing_cao_yan.2021.EoACoRPoLLaPC/">Effects of Aggregate Content on Rheological Properties of Lubrication-Layer and Pumping Concrete</a></li>

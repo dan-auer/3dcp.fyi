@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jentel Vlieger, Luc Boehme, Jan Blaakmeer, Jiabin Li
+    - footer
+title: Vlieger Jentel, Boehme Luc, Blaakmeer Jan, Li Jiabin
 description:
 tags:
  - aggregate
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.130313" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.130313</a>
+#Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.130313" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.130313" target="_blank">10.1016/j.conbuildmat.2023.130313</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0439-8514" title="ORCID: 0000-0003-0439-8514" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vlieger_jentel"><b>de&nbsp;Vlieger</b>&nbsp;Jentel</a></span>, <a href="../../../author/boehme_luc"><b>Boehme</b>&nbsp;Luc</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9351-7889" title="ORCID: 0009-0005-9351-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b>&nbsp;Jan</a></span>, <a href="../../../author/li_jiabin"><b>Li</b>&nbsp;Jiabin</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 367
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vlieger_jentel"><b>de Vlieger</b> Jentel</a> <a href="https://orcid.org/0000-0003-0439-8514" title="ORCID: 0000-0003-0439-8514" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/boehme_luc"><b>Boehme</b> Luc</a>
-,     <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a> <a href="https://orcid.org/0009-0005-9351-7889" title="ORCID: 0009-0005-9351-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jiabin"><b>Li</b> Jiabin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 367, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#fine`](keyword/fine)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability-Assessment%20of%20Mortar%20with%20Fine%20Recycled%20Aggregates%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147128076&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319449821" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.130313" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.130313?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, the buildability of a mortar incorporated with fine recycled concrete aggregates (recycled sand) for the purpose of 3D printing has been assessed according to the bi-linear thixotropy model. The natural sand from a reference, rheology based mortar for 3D printing, is gradually replaced with recycled sand using replacement rates of 25, 50 and 100 vol%. For each mixture, stress growth tests are performed at resting intervals of 0, 10, 20, 30, 40, 50, 60, 90 and 120 s to determine the re-flocculation rate (Rthix) of the 3D printing concrete. In addition, the flowability, rheology and initial setting time of the mixtures are measured with slump flow tests, stressgrowth tests using a rheometer and Vicat tests. The results show that mortar with recycled sand is less flowable and has shorter initial setting time compared to the reference mortar for 3D printing. In addition, it is found that recycled sand improves the static yield stress evolution with time of the mixtures which improves the buildability. With recycled sand replacement rates of 25 and 50 vol%, the buildability of the mortar mixture increases respectively 33% and 83%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../cho_krug_rooy_zera.2019.Ro3PLFCINS/">Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jacq_perr_pica.2021.AoARBoCMf3PA/">Assessment of Asymmetrical Rheological Behavior of Cementitious Material for 3D Printing Application</a></li>
@@ -89,8 +68,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
       <li><a href="../../../author/zhou_juanlan"><b>Zhou</b> Juanlan</a>, <a href="../../../author/shi_xiangwen"><b>Shi</b> Xiangwen</a>, <a href="../../../author/zheng_hongrun"><b>Zheng</b> Hongrun</a>, <a href="../../../author/jin_ruoyu"><b>Jin</b> Ruoyu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA/">Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates:<br/>Rheology, Strength, and Anisotropy</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
@@ -127,4 +106,33 @@ tags:
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/bouarroudj_elkarim_mohamed"><b>Bouarroudj</b> Mohamed</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../thib_bela_boua_bult.2023.AMfD3PMBoRS/">A Methodology for Designing 3D Printable Mortar Based on Recycled Sand</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vlie_boeh_blaa_li.2023.BAoMwFRAf3P,
+      author            = "Jentel de Vlieger and Luc Boehme and Jan Blaakmeer and Jiabin Li",
+      title             = "Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2023.130313",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "367",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. de Vlieger, L. Boehme, J. Blaakmeer and J. Li, “Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing”, <i>Construction and Building Materials</i>, vol. 367, 2023, doi: 10.1016/j.conbuildmat.2023.130313.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vlieger, Jentel de, Luc Boehme, Jan Blaakmeer, and Jiabin Li. “Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing”. <i>Construction and Building Materials</i> 367 (2023). https://doi.org/10.1016/j.conbuildmat.2023.130313.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ignasius Wijaya, Eric Kreiger, Arif Masud
+    - footer
+title: Wijaya Ignasius, Kreiger Eric, Masud Arif
 description:
 tags:
  - concrete
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modeling of Concrete Printing Process with Frictional Interface ([2024-03](date/2024/03))
-<a href="https://doi.org/10.14359/51740243" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51740243</a>
+#Modeling of Concrete Printing Process with Frictional Interface ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51740243" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740243" target="_blank">10.14359/51740243</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1894-5091" title="ORCID: 0000-0002-1894-5091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b>&nbsp;Ignasius</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4708-4251" title="ORCID: 0000-0002-4708-4251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/masud_arif"><b>Masud</b>&nbsp;Arif</a></span><br>
+Journal Article - ACI Structural Journal, Vol. 121, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b> Ignasius</a> <a href="https://orcid.org/0000-0002-1894-5091" title="ORCID: 0000-0002-1894-5091" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/masud_arif"><b>Masud</b> Arif</a> <a href="https://orcid.org/0000-0002-4708-4251" title="ORCID: 0000-0002-4708-4251" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Structural Journal, Vol. 121, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#friction`](keyword/friction)
-    [`#interface`](keyword/interface)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/friction"><button class="btn">#friction</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%20of%20Concrete%20Printing%20Process%20with%20Frictional%20Interface" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189152697&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392451431" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51740243" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51740243?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3-D) concrete printing is invariably accompanied by slippage between the printed structure and the platform, which affects the shape of the printed object. This study employs a physics-based friction model in a finite-deformation interfacial kinematic framework to model relative slipping between the bottom layer and the supporting surface. The constitutive model that is specialized for cementitious materials is based on an extension of the Drucker-Prager plasticity model. The evolution of material parameters due to thixotropy and hydration reaction results in increased stiffness that gives rise to the non-physical bounce-back phenomenon. A bounce-back control algorithm is presented and used in conjunction with the plasticity model as well as the interfacial frictional model. The printing process is simulated through an algorithm that controls the kinematics of the nozzle and links the material timescales of curing with the timescales of layered printing. The model and method are validated against experimental data, and several interesting test cases are presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../digg_krei.2021.UITAtAitAoSEQfAC/">Using Isolated Temporal Analysis to Aid in the Assessment of Structural Element Quality for Additive Construction</a></li>
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../harb_yahi_rozi_louk.2023.PQCoCBMUFaRC/">Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions</a></li>
@@ -87,7 +68,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wija_krei_masu.2024.MoCPPwFI,
+      author            = "Ignasius P. A. Wijaya and Eric L. Kreiger and Arif Masud",
+      title             = "Modeling of Concrete Printing Process with Frictional Interface",
+      doi               = "10.14359/51740243",
+      year              = "2024",
+      journal           = "ACI Structural Journal",
+      volume            = "121",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. P. A. Wijaya, E. L. Kreiger and A. Masud, “Modeling of Concrete Printing Process with Frictional Interface”, <i>ACI Structural Journal</i>, vol. 121, no. 2, 2024, doi: 10.14359/51740243.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wijaya, Ignasius P. A., Eric L. Kreiger, and Arif Masud. “Modeling of Concrete Printing Process with Frictional Interface”. <i>ACI Structural Journal</i> 121, no. 2 (2024). https://doi.org/10.14359/51740243.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

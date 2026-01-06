@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # de Corte Wouter 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yong_yuan"><b>Yong</b> Yuan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_tao_yong.2025.AoFItMCPHo3PC/">Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete</a></li>
   <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/shields_yasmina"><b>Shields</b> Yasmina</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC/">Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings</a></li>

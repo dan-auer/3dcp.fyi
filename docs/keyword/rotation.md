@@ -8,7 +8,7 @@ search:
 
 # #rotation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/alonso-estebanez_alejandro"><b>Alonso-Estebanez</b> Alejandro</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/bruncic_ana"><b>Brunčič</b> Ana</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../alon_alon_yori_brun.2025.RPRf3PSMUaNLCRR/">Rheological Parameter Ranges for 3D Printing Sustainable Mortars Using a New Low-Cost Rotational Rheometer</a></li>
   <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/baumert_chrisitan"><b>Baumert</b> Chrisitan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muth_feys_mikh_baum.2024.CoRRfRMC/">Comparison of Rotational Rheometers for Ready-Mix Concrete</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorr_davi_freu_lowk.2024.SPoS3PCEUaRTD/">Surface Processing of Shotcrete 3D Printed Concrete Elements Using a Rotating Trowel Disc:<br/>Influence of Timing on Resulting Surface Quality</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mingxu Chen, Xiangyang Guo, Yan Zheng, Laibo Li, Zhen Yan, Piqi Zhao, Lingchao Lu, Xin Cheng
+    - footer
+title: Chen Mingxu, Guo Xiangyang, Zheng Yan, Li Laibo, Yan Zhen, Zhao Piqi, Lu Lingchao, Cheng Xin
 description:
 tags:
  - acid
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/11/12/2417/pdf) Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste ([2018-11](date/2018/11))
-<a href="https://doi.org/10.3390/ma11122417" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma11122417</a>
+#Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste ([2018-11](date/2018/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/11/12/2417/pdf) <a href="https://doi.org/10.3390/ma11122417" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11122417" target="_blank">10.3390/ma11122417</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/guo_xiangyang"><b>Guo</b>&nbsp;Xiangyang</a></span>, <a href="../../../author/zheng_yan"><b>Zheng</b>&nbsp;Yan</a></span>, <a href="../../../author/li_laibo"><b>Li</b>&nbsp;Laibo</a></span>, <a href="../../../author/yan_zhen"><b>Yan</b>&nbsp;Zhen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_piqi"><b>Zhao</b>&nbsp;Piqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7147-4495" title="ORCID: 0000-0002-7147-4495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_xin"><b>Cheng</b>&nbsp;Xin</a></span><br>
+Journal Article - Materials, Vol. 11, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>
-,     <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>
-,     <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>
-,     <a href="../../../author/yan_zhen"><b>Yan</b> Zhen</a>
-,     <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> <a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_xin"><b>Cheng</b> Xin</a> <a href="https://orcid.org/0000-0002-7147-4495" title="ORCID: 0000-0002-7147-4495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 11, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#acid`](keyword/acid)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/acid"><button class="btn">#acid</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Tartaric%20Acid%20on%20the%20Printable%2C%20Rheological%20and%20Mechanical%20Properties%20of%203D%20Printing%20Sulphoaluminate%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85057525257&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2902662724" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma11122417" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma11122417?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Rapid setting and low viscosity of sulphoaluminate cement (SAC) make it difficult to be extruded by 3D printing (3DP) technique. In this study, the effect of tartaric acid (TA) on printability, rheology and mechanical property of 3DP SAC paste is investigated. The experimental results indicate that the setting time, hydration evolution and apparent viscosity of SAC paste can be well controlled by adding a proper amount of TA to satisfy the requirements of 3DP. An excellent structure of SAC paste with the ultimate deformation rate less than 10% can be printed without compromising mechanical strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/ketel_sabrina"><b>Ketel</b> Sabrina</a>, <a href="../../../author/falzone_gabriel"><b>Falzone</b> Gabriel</a>, <a href="../../../author/wang_bu"><b>Wang</b> Bu</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../kete_falz_wang_wash.2019.APIfLSRttGAo3PC/">A Printability Index for Linking Slurry Rheology to the Geometrical Attributes of 3D Printed Components</a></li>
@@ -90,8 +63,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
@@ -132,4 +105,34 @@ tags:
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP,
+      author            = "Mingxu Chen and Xiangyang Guo and Yan Zheng and Laibo Li and Zhen Yan and Piqi Zhao and Lingchao Lu and Xin Cheng",
+      title             = "Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste",
+      doi               = "10.3390/ma11122417",
+      year              = "2018",
+      journal           = "Materials",
+      volume            = "11",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, “Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste”, <i>Materials</i>, vol. 11, no. 12, 2018, doi: 10.3390/ma11122417.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Mingxu, Xiangyang Guo, Yan Zheng, Laibo Li, Zhen Yan, Piqi Zhao, Lingchao Lu, and Xin Cheng. “Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste”. <i>Materials</i> 11, no. 12 (2018). https://doi.org/10.3390/ma11122417.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

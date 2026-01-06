@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Talke, Bettina Saile, Niklas Meier, Friedrich Herding, Inka Mai (née Dressler), Harald Zetzener, Arno Kwade, Dirk Lowke
+    - footer
+title: Talke Daniel, Saile Bettina, Meier Niklas, Herding Friedrich, Mai (née Dressler) Inka, Zetzener Harald, Kwade Arno, Lowke Dirk
 description:
 tags:
  - activation
@@ -18,38 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Particle-Bed 3D Printing by Selective Cement-Activation:<br/>:aca-blank: Influence of Process Parameters on Particle-Bed Density ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.cemconres.2023.107140" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2023.107140</a>
+#Particle-Bed 3D Printing by Selective Cement-Activation&nbsp;([2023-03](date/2023/03))
+<div class="h1-like">Influence of Process Parameters on Particle-Bed Density</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2023.107140" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2023.107140" target="_blank">10.1016/j.cemconres.2023.107140</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/talke_daniel"><b>Talke</b>&nbsp;Daniel</a></span>, <a href="../../../author/saile_bettina"><b>Saile</b>&nbsp;Bettina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5589-3665" title="ORCID: 0000-0002-5589-3665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meier_niklas"><b>Meier</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1124-6295" title="ORCID: 0000-0003-1124-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/herding_friedrich"><b>Herding</b>&nbsp;Friedrich</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-7789-1927" title="ORCID: 0009-0001-7789-1927" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zetzener_harald"><b>Zetzener</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6348-7309" title="ORCID: 0000-0002-6348-7309" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwade_arno"><b>Kwade</b>&nbsp;Arno</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 168, No. 107140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a> <a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saile_bettina"><b>Saile</b> Bettina</a>
-,     <a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a> <a href="https://orcid.org/0000-0002-5589-3665" title="ORCID: 0000-0002-5589-3665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a> <a href="https://orcid.org/0000-0003-1124-6295" title="ORCID: 0000-0003-1124-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a> <a href="https://orcid.org/0009-0001-7789-1927" title="ORCID: 0009-0001-7789-1927" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kwade_arno"><b>Kwade</b> Arno</a> <a href="https://orcid.org/0000-0002-6348-7309" title="ORCID: 0000-0002-6348-7309" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 168, No. 107140
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#bed`](keyword/bed)
-    [`#cement`](keyword/cement)
-    [`#density`](keyword/density)
-    [`#influence`](keyword/influence)
-    [`#parameter`](keyword/parameter)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#selective`](keyword/selective)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/density"><button class="btn">#density</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Particle-Bed%203D%20Printing%20by%20Selective%20Cement-Activation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149793107&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323654706" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2023.107140" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2023.107140?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     “Selective Cement Activation” (SCA) allows the fabrication of freely formed objects with a high degree of geometric complexity. In order to utilize SCA for applications in construction, a full understanding of the manufacturing process is necessary. The presented work focuses on the process step of layer creation and the influence of process parameters on the resulting packing density of the particle-bed. The results show that each process parameter has a significant influence on the packing density of the particlebed. In general, slower processing speeds lead to higher densities. Increasing the compaction height increases the packing density, although competing effects in the particle flow can cause the density to decrease. Concerning the particle composition, it was found that a particle mixture with a wider particle size distribution requires lower compaction heights to achieve high packing densities. Such mixtures are also influenced to a lesser degree by changes in the process speeds.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2b/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
@@ -87,8 +60,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
       <li><a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yao_gao_huan_du.2025.IoPSaESotPaPSo3PM/">Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar</a></li>
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xiao_hack_klof_lowk.2025.CBFFoSTfI3CPTVBGS/">Constraint-Based Form-Finding of Space Trusses for Injection 3D Concrete Printing Through Vector-Based Graphic Statics</a></li>
@@ -103,4 +76,34 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../mai_herd_lowk.2023.EoGSaLToHSPiSCA/">Effect of Grain-Size and Layer-Thickness on Hardened State Properties in Selective Cement-Activation</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_l_y"><b>Huang</b> Y.</a>, <a href="../../../author/zhang_l_l"><b>Zhang</b> L.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zuo_cort_huan_zhan.2023.MotDoFSfC3P/">Measurement of the Density of Formed Structures for Concrete 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{talk_sail_meie_herd.2023.PB3PbSCA,
+      author            = "Daniel Talke and Bettina Saile and Niklas Meier and Friedrich Herding and Inka Mai (née Dressler) and Harald Zetzener and Arno Kwade and Dirk Lowke",
+      title             = "Particle-Bed 3D Printing by Selective Cement-Activation: Influence of Process Parameters on Particle-Bed Density",
+      doi               = "10.1016/j.cemconres.2023.107140",
+      year              = "2023",
+      journal           = "Cement and Concrete Research",
+      volume            = "168",
+      pages             = "107140",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Talke, “Particle-Bed 3D Printing by Selective Cement-Activation: Influence of Process Parameters on Particle-Bed Density”, <i>Cement and Concrete Research</i>, vol. 168, p. 107140, 2023, doi: 10.1016/j.cemconres.2023.107140.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Talke, Daniel, Bettina Saile, Niklas Meier, Friedrich Herding, Inka Mai (née Dressler), Harald Zetzener, Arno Kwade, and Dirk Lowke. “Particle-Bed 3D Printing by Selective Cement-Activation: Influence of Process Parameters on Particle-Bed Density”. <i>Cement and Concrete Research</i> 168 (2023): 107140. https://doi.org/10.1016/j.cemconres.2023.107140.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

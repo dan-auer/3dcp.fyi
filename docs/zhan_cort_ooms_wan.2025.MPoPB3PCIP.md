@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bo Zhang, Wouter Corte, Ticho Ooms, Roman Wan-Wendner
+    - footer
+title: Zhang Bo, Corte Wouter, Ooms Ticho, Wan-Wendner Roman
 description:
 tags:
  - bed
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.addma.2025.104803" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.104803</a>
+#Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.104803" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104803" target="_blank">10.1016/j.addma.2025.104803</a>
 
--------------------------
+<a href="../../../author/zhang_bo"><b>Zhang</b>&nbsp;Bo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ooms_ticho"><b>Ooms</b>&nbsp;Ticho</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b>&nbsp;Roman</a></span><br>
+Journal Article - Additive Manufacturing, No. 104803
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a> <a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104803
-
-:aca-blank:{ .lg .middle}
-    [`#bed`](keyword/bed)
-    [`#concrete`](keyword/concrete)
-    [`#infill`](keyword/infill)
-    [`#mechanics`](keyword/mechanics)
-    [`#particle`](keyword/particle)
-    [`#pattern`](keyword/pattern)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Particle-Bed%203D%20Printed%20Concrete%20Infill%20Patterns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004547560&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410083463" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.104803" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.104803?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The particle-bed printing technique utilizes unbound material as support during the printing process, enabling the creation of complex 3D patterns that extrusion-based printing methods cannot achieve. This study uses the selective paste intrusion particle-bed printing technique to produce specimens, including various prisms and cylindrical shapes with gyroid, diamond, and I-WP infill patterns, along with full cylinders, printed in various orientations. Three-point bending tests are conducted on the prisms to evaluate tensile, compressive, and fracture properties, while uniaxial compression tests are performed on the cylinders to assess the compressive properties. The compressive tests on the infill cylinders indicate that relationships between infill density and compressive properties follow a power-law function, consistent with similar patterns observed in other materials. Cracking primarily occurs at locations where the angle between unit cell faces approaches zero. These positions create an aggregation of surfaces that effectively bridge the internal structure, facilitating load transfer within the concrete. This study investigates the mechanical properties of particle-bed printed specimens, focusing on the compressive behavior of complex 3D concrete infill patterns featuring overhangs. These intricate geometries, fabricated for the first time using concrete particle-bed printing, are analyzed to evaluate how varying design parameters, such as printing direction and infill density, influence compressive performance. The relationships between infill density and compressive properties are systematically quantified across different infill patterns, providing valuable insights for structural design and topology optimization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/banko_l_marion"><b>Banko</b> Marion</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chaa_styn_bank.2018.SBoLPRCB/">Structural Behavior of Layer-Printed Reinforced Concrete Beams</a></li>
@@ -117,8 +95,37 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_cort_ooms_wan.2025.MPoPB3PCIP,
+      author            = "Bo Zhang and Wouter de Corte and Ticho Ooms and Roman Wan-Wendner",
+      title             = "Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns",
+      doi               = "10.1016/j.addma.2025.104803",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "104803",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zhang, W. de Corte, T. Ooms and R. Wan-Wendner, “Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns”, <i>Additive Manufacturing</i>, p. 104803, 2025, doi: 10.1016/j.addma.2025.104803.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Bo, Wouter de Corte, Ticho Ooms, and Roman Wan-Wendner. “Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns”. <i>Additive Manufacturing</i>, 2025, 104803. https://doi.org/10.1016/j.addma.2025.104803.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

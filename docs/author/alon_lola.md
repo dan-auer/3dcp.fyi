@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # ben Alon Lola 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../maie_armi_sesh_carc.2025.LBGSKREC/">Locust Bean Gum–Stabilized Kaolin-Rich Earthen Composites:<br/>From On-Land to Underwater 3D Printing</a></li>
   <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
   <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../carc_akem_alon.2024.3PLEF/">3D Printed Lightweight Earth Fiber:<br/>From Tiles to Tessellations</a></li>

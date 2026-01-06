@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jaji Mustapha 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
   <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jaji_zijl_baba.2024.DaPSoMB3PGC/">Durability and Pore-Structure of Metakaolin-Based 3D Printed Geopolymer Concrete</a></li>
   <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../jaji_zijl_baba.2023.SMMB3PG/">Slag-Modified Metakaolin-Based 3D Printed Geopolymer:<br/>Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis</a></li>

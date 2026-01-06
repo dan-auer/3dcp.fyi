@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xingyi Zhu, Muhammad Anwar, Guomin Deng, Xiaoming Wang, Jiakang Wang, Yating Zhang, Junming Su, Zedong Qu, Francisco Gilabert Villegas
+    - footer
+title: Zhu Xingyi, Anwar Muhammad, Deng Guomin, Wang Xiaoming, Wang Jiakang, Zhang Yating, Su Junming, Qu Zedong, Gilabert Villegas Francisco
 description:
 tags:
  - bond
@@ -21,42 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Microwave Heating Under Varying Exposure Conditions on Rheological Properties, Interlayer Bond and Buildability Performance of 3D-Printed Geopolymer ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141945" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141945</a>
+#Effect of Microwave Heating Under Varying Exposure Conditions on Rheological Properties, Interlayer Bond and Buildability Performance of 3D-Printed Geopolymer ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141945" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141945" target="_blank">10.1016/j.conbuildmat.2025.141945</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0822-6261" title="ORCID: 0000-0002-0822-6261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_xingyi"><b>Zhu</b>&nbsp;Xingyi</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-1991-2847" title="ORCID: 0009-0009-1991-2847" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/deng_guomin"><b>Deng</b>&nbsp;Guomin</a></span>, <a href="../../../author/wang_xiaoming"><b>Wang</b>&nbsp;Xiaoming</a></span>, <a href="../../../author/wang_jiakang"><b>Wang</b>&nbsp;Jiakang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8175-3044" title="ORCID: 0000-0001-8175-3044" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yating"><b>Zhang</b>&nbsp;Yating</a></span>, <a href="../../../author/su_junming"><b>Su</b>&nbsp;Junming</a></span>, <a href="../../../author/qu_zedong"><b>Qu</b>&nbsp;Zedong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9020-782X" title="ORCID: 0000-0001-9020-782X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gilabert-villegas_antonio_francisco"><b>Gilabert Villegas</b>&nbsp;Francisco</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 486, No. 141945
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_xingyi"><b>Zhu</b> Xingyi</a> <a href="https://orcid.org/0000-0002-0822-6261" title="ORCID: 0000-0002-0822-6261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b> Muhammad</a> <a href="https://orcid.org/0009-0009-1991-2847" title="ORCID: 0009-0009-1991-2847" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/deng_guomin"><b>Deng</b> Guomin</a>
-,     <a href="../../../author/wang_xiaoming"><b>Wang</b> Xiaoming</a>
-,     <a href="../../../author/wang_jiakang"><b>Wang</b> Jiakang</a>
-,     <a href="../../../author/zhang_yating"><b>Zhang</b> Yating</a> <a href="https://orcid.org/0000-0001-8175-3044" title="ORCID: 0000-0001-8175-3044" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/su_junming"><b>Su</b> Junming</a>
-,     <a href="../../../author/qu_zedong"><b>Qu</b> Zedong</a>
-,     <a href="../../../author/gilabert-villegas_antonio_francisco"><b>Gilabert Villegas</b> Francisco</a> <a href="https://orcid.org/0000-0001-9020-782X" title="ORCID: 0000-0001-9020-782X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 486, No. 141945
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#buildability`](keyword/buildability)
-    [`#condition`](keyword/condition)
-    [`#effect`](keyword/effect)
-    [`#exposure`](keyword/exposure)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#heat`](keyword/heat)
-    [`#interlayer`](keyword/interlayer)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Microwave%20Heating%20Under%20Varying%20Exposure%20Conditions%20on%20Rheological%20Properties%2C%20Interlayer%20Bond%20and%20Buildability%20Performance%20of%203D-Printed%20Geopolymer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006718242&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410798382" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141945" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141945?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the novel application of microwave heating to optimize the rheology, interlayer bond, and buildability of 3D-printed geopolymers at various printing stages. Unlike conventional methods, microwave heating significantly enhances stacking performance (buildability) while reducing flowability, addressing critical challenges in 3D printing. The findings also indicate that deformation resistance coefficients for fiber-free and fiber-reinforced geopolymers reaches 0.933–1.00 after 30 and 45 seconds of microwave exposure, respectively, demonstrating superior shape retention ability after microwave heating. Notably, microwave heating improves ultra-early (i.e., 2 h and 4 h) interfacial strength proportionally to power and duration, offering a breakthrough for rapid construction. In addition, drying shrinkage decreases by 0.096–0.226 % (fiber-free), 0.054–0.166 % (PE fiber), and 0.067–0.17 % (steel fiber), highlighting the efficacy of microwave heating in mitigating cracking of 3D-printed geopolymers. The optimized microwave processing parameters establish in this study serve as a foundation for in-line, large-scale 3D printing applications, offering a scalable solution in printability and structural integrity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_li_li.2022.SaMPOoSB3PCbPF/">Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber</a></li>
@@ -94,9 +62,39 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b> Muhammad</a>, <a href="../../../author/zhu_xingyi"><b>Zhu</b> Xingyi</a>, <a href="../../../author/zhang_yating"><b>Zhang</b> Yating</a>, <a href="../../../author/wang_jiakang"><b>Wang</b> Jiakang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../anwa_zhu_zhan_wang.2025.SEoMCRoEMaLTSaMPoFASB3PG/">Synergistic Effects of Microwave Curing Regimes on Early, Mid, and Long-Term Strengths and Microstructural Performance of Fly Ash-Slag Based 3D-Printed Geopolymers</a></li>
       <li><a href="../../../author/wang_jiakang"><b>Wang</b> Jiakang</a>, <a href="../../../author/anwar_kashif_muhammad"><b>Anwar</b> Muhammad</a>, <a href="../../../author/zhu_xingyi"><b>Zhu</b> Xingyi</a>, <a href="../../../author/zhang_yating"><b>Zhang</b> Yating</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../wang_anwa_zhu_zhan.2025.ROoFRftMMaPPoCE3PG/">Robust Optimization of Formulation Ratios for the Mechanical, Microstructural and Printing Performance of Cost-Effective 3D Printing Geopolymer</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_anwa_deng_wang.2025.EoMHUVECoRPIBaBPo3PG,
+      author            = "Xingyi Zhu and Muhammad Kashif Anwar and Guomin Deng and Xiaoming Wang and Jiakang Wang and Yating Zhang and Junming Su and Zedong Qu and Francisco Antonio Gilabert Villegas",
+      title             = "Effect of Microwave Heating Under Varying Exposure Conditions on Rheological Properties, Interlayer Bond and Buildability Performance of 3D-Printed Geopolymer",
+      doi               = "10.1016/j.conbuildmat.2025.141945",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "486",
+      pages             = "141945",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Zhu, “Effect of Microwave Heating Under Varying Exposure Conditions on Rheological Properties, Interlayer Bond and Buildability Performance of 3D-Printed Geopolymer”, <i>Construction and Building Materials</i>, vol. 486, p. 141945, 2025, doi: 10.1016/j.conbuildmat.2025.141945.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Xingyi, Muhammad Kashif Anwar, Guomin Deng, Xiaoming Wang, Jiakang Wang, Yating Zhang, Junming Su, Zedong Qu, and Francisco Antonio Gilabert Villegas. “Effect of Microwave Heating Under Varying Exposure Conditions on Rheological Properties, Interlayer Bond and Buildability Performance of 3D-Printed Geopolymer”. <i>Construction and Building Materials</i> 486 (2025): 141945. https://doi.org/10.1016/j.conbuildmat.2025.141945.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

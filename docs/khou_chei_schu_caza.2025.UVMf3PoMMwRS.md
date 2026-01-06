@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eliane Khoury, Khadija Cheikh, Geert Schutter, Bogdan Cazacliu, Sébastien Rémond
+    - footer
+title: Khoury Eliane, Cheikh Khadija, Schutter Geert, Cazacliu Bogdan, Rémond Sébastien
 description:
 tags:
  - mixing
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/23/4217/pdf?version=1763735076) Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand ([2025-11](date/2025/11))
-<a href="https://doi.org/10.3390/buildings15234217" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15234217</a>
+#Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand ([2025-11](date/2025/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/23/4217/pdf?version=1763735076) <a href="https://doi.org/10.3390/buildings15234217" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15234217" target="_blank">10.3390/buildings15234217</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-6767-0836" title="ORCID: 0009-0006-6767-0836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoury_eliane"><b>Khoury</b>&nbsp;Eliane</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheikh_khadija"><b>el&nbsp;Cheikh</b>&nbsp;Khadija</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1191-5145" title="ORCID: 0000-0003-1191-5145" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b>&nbsp;Bogdan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 23, No. 4217
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a> <a href="https://orcid.org/0009-0006-6767-0836" title="ORCID: 0009-0006-6767-0836" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheikh_khadija"><b>el Cheikh</b> Khadija</a> <a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> <a href="https://orcid.org/0000-0003-1191-5145" title="ORCID: 0000-0003-1191-5145" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 23, No. 4217
-
-:aca-blank:{ .lg .middle}
-    [`#mixing`](keyword/mixing)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Using%20Vacuum%20Mixing%20for%203D%20Printing%20of%20Mortars%20Made%20with%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106223094" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15234217" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15234217?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the use of recycled concrete aggregates as a replacement for natural sand in printable mortars, comparing the properties of both fresh and hardened states. Two types of mortars were considered, natural mortar and recycled mortar, with further variations based on mixing methods under ordinary atmospheric pressure and vacuum pressure. The experimental approach included air content, mini-slump, printability, and various hardened state tests such as compressive strength and porosity measurements using both water absorption and mercury intrusion porosimetry (MIP). The results showed that mortars made with recycled sand exhibited higher fluidity, as evidenced by an increase in slump of approximately 50 to 70 mm across 30 min, compared to those made with natural sand. This difference was attributed to the pre-saturation of recycled sand, which, as a hypothesis, may increase with the amount of free water available while mixing under vacuum. Additionally, mortars containing recycled sand exhibited higher water-accessible porosity (approximately +7% compared to natural mortars) and lower compressive strength, with a reduction of about 5 to 10% for printed and cast samples, with the decrease being more pronounced in printed specimens. However, vacuum mixing was found to significantly reduce entrapped air content, by about 53% in natural mortars and 62% in recycled ones, and to enhance the workability of both types. The pore size distribution indicated that recycled mortars had a more complex pore network, with pores in the ranges of [0.01–0.1] mm and [0.1–1] mm, contributing to increased porosity and reduced mechanical strength. Overall, this study demonstrates the potential of using recycled sand in mortar formulations, with proper control of pre-saturation and mixing conditions to optimize performance in both fresh and hardened states.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asaf_bent_lari_spre.2024.GMf3PoCCaS/">Granular Materials for 3D Printing of Construction Components and Structures</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>
@@ -76,7 +56,38 @@ tags:
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khou_chei_schu_caza.2025.UVMf3PoMMwRS,
+      author            = "Eliane Khoury and Khadija El Cheikh and Geert de Schutter and Bogdan Cazacliu and Sébastien Rémond",
+      title             = "Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand",
+      doi               = "10.3390/buildings15234217",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "23",
+      pages             = "4217",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Khoury, K. E. Cheikh, G. de Schutter, B. Cazacliu and S. Rémond, “Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand”, <i>Buildings</i>, vol. 15, no. 23, p. 4217, 2025, doi: 10.3390/buildings15234217.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khoury, Eliane, Khadija El Cheikh, Geert de Schutter, Bogdan Cazacliu, and Sébastien Rémond. “Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand”. <i>Buildings</i> 15, no. 23 (2025): 4217. https://doi.org/10.3390/buildings15234217.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

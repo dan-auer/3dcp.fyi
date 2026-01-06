@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kamesh Solaiappan, M. Foruzanmehr
+    - footer
+title: Solaiappan Kamesh, Foruzanmehr M.
 description:
 tags:
  - cement
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.jobe.2025.114566" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114566</a>
+#A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers ([2025-11](date/2025/11))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114566" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114566" target="_blank">10.1016/j.jobe.2025.114566</a>
 
--------------------------
+<a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b>&nbsp;Kamesh</a></span>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b>&nbsp;M.</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 117, No. 114566
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>
-,     <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 117, No. 114566
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#determination`](keyword/determination)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#test`](keyword/test)
-    [`#zone`](keyword/zone)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/zone"><button class="btn">#zone</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Rheological%20Test%20Method%20for%20Determining%20the%20Printability%20Zone%20of%20Cementitious%203D%20Printers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022595349&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415950749" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114566" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114566?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study establishes a standardized methodology for defining the printability zone of a manually fed extruder using a delta 3D printer. Portland cement-based reference materials were prepared by varying the water-cement ratios from 0.32 to 0.36 and superplasticizer content ranging from 0.1 to 0.5 percent. A successful 3D model was designed based on the printer and extruder specifications and transferred to the 3D printer using Geometric Code (G-Code). The controlled Shear Stress (CSS) method was employed to determine the rheological properties of all mixtures, such as static yield stress and viscosity at a critical shear rate of 0.02 s−1. Concurrently, the printability factors - extrudability, shape retention, and minimum buildability were studied and evaluated. The results revealed that nozzle diameter significantly affects shape retention behaviour. Reducing the nozzle diameter to 6 mm increased the velocity at the nozzle tip, resulting in wider extrusions and is unsuitable for 3D printing. Conversely, the 8 mm nozzle with an 8 mm layer height encountered challenges extruding materials and underwent excessive plastic deformation; however, the 4 mm layer height allowed for printing a wide range of rheological properties. The printability zone was determined based on four limits: minimum and maximum printable yield stresses and minimum and maximum printable viscosities. Ultimately, a plot correlating yield stresses and viscosities with printability factors was created to determine the printability zone of the 8 mm nozzle with 4 mm and 8 mm layer height for the manual feeding extruder.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -90,7 +70,37 @@ tags:
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM/">Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sola_foru.2026.ARTMfDtPZoC3P,
+      author            = "Kamesh Solaiappan and M. Reza Foruzanmehr",
+      title             = "A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers",
+      doi               = "10.1016/j.jobe.2025.114566",
+      year              = "2026",
+      journal           = "Journal of Building Engineering",
+      volume            = "117",
+      pages             = "114566",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Solaiappan  and M. R. Foruzanmehr, “A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers”, <i>Journal of Building Engineering</i>, vol. 117, p. 114566, 2026, doi: 10.1016/j.jobe.2025.114566.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Solaiappan, Kamesh, and M. Reza Foruzanmehr. “A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers”. <i>Journal of Building Engineering</i> 117 (2026): 114566. https://doi.org/10.1016/j.jobe.2025.114566.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

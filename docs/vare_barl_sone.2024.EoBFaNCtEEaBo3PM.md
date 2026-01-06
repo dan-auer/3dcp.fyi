@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hugo Varela, Gonzalo Barluenga, Mohammed Sonebi
+    - footer
+title: Varela Hugo, Barluenga Gonzalo, Sonebi Mohammed
 description:
 tags:
  - basalt
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.110776) Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.jobe.2024.110776" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110776</a>
+#Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.110776) <a href="https://doi.org/10.1016/j.jobe.2024.110776" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110776" target="_blank">10.1016/j.jobe.2024.110776</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varela_hugo"><b>Varela</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barluenga_gonzalo"><b>Barluenga</b>&nbsp;Gonzalo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 97, No. 110776
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> <a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 97, No. 110776
-
-:aca-blank:{ .lg .middle}
-    [`#basalt`](keyword/basalt)
-    [`#buildability`](keyword/buildability)
-    [`#clay`](keyword/clay)
-    [`#enhancement`](keyword/enhancement)
-    [`#evaluation`](keyword/evaluation)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Basalt-Fibers%20and%20Nano-Clays%20to%20Enhance%20Extrudability%20and%20Buildability%20of%203D%20Printing%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204240730&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402564112" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110776" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110776?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A study of the rheological and fresh mechanical properties of fly ash-cement 3D printing (3DP) mortars with six types of nanoclays (NC) as rheology modifiers, two sepiolites, three attapulgites and one bentonite, and reinforced with short basalt fibers (BF) was carried out. Fresh mortar properties were evaluated with a flow table test (FTT), cylindrical slump test (CST) and conepenetration test (CPT) on samples left at rest and stirred before testing. Squeeze test (SQT) was carried out on samples cast-in-the-mold and 3D printed to compare the effects of 3DP on the fresh mechanical behavior. Extrudability was assessed with an electrical barrel extrusion device. NC and BF enhanced mortar cohesion by preventing water drainage and improving material extrudability. NC increased shear yield stress (τ0) over time on samples left at rest, enhancing reversible thixotropy. Besides, NC required larger amounts of superplasticizer, increasing open time windows. Among NC, Sepiolite in powder form showed the best fresh mechanical performance on 3DP samples. BF enhanced extrudability due to the bridging effect but also shows mechanical synergies with some NC. 3DP samples showed lower compressive yield stress and Young modulus evolution over time ( ˙σ and E) than cast-in-the-mold samples, due to their layered structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
@@ -99,8 +77,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../xu_qian.2023.EoFVFFLWBRaNCAot3PoSHCC/">Effects of Fiber-Volume Fraction, Fiber Length, Water-Binder Ratio, and Nano-Clay Addition on the 3D Printability of Strain-Hardening Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yous_rash_koc.2025.AMfVAULESaBWM/">Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials</a></li>
@@ -108,4 +86,34 @@ tags:
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/junjie_zhang"><b>Junjie</b> Zhang</a>, <a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI/">Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vare_barl_sone.2024.EoBFaNCtEEaBo3PM,
+      author            = "Hugo Varela and Gonzalo Barluenga and Mohammed Sonebi",
+      title             = "Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars",
+      doi               = "10.1016/j.jobe.2024.110776",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "97",
+      pages             = "110776",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Varela, G. Barluenga and M. Sonebi, “Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars”, <i>Journal of Building Engineering</i>, vol. 97, p. 110776, 2024, doi: 10.1016/j.jobe.2024.110776.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Varela, Hugo, Gonzalo Barluenga, and Mohammed Sonebi. “Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars”. <i>Journal of Building Engineering</i> 97 (2024): 110776. https://doi.org/10.1016/j.jobe.2024.110776.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

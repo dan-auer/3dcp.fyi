@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Oriol Pons-Valladares, Maria Casanovas-Rubio, Jaume Armengou, Albert Fuente
+    - footer
+title: Pons-Valladares Oriol, Casanovas-Rubio Maria, Armengou Jaume, Fuente Albert
 description:
 tags:
  - application
@@ -22,38 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jclepro.2023.136369) Approach for Sustainability-Assessment for Footbridge Construction Technologies:<br/>:aca-blank: Application to the First World D-Shape 3D Printed Fiber-Reinforced Mortar Footbridge in Madrid ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.jclepro.2023.136369" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2023.136369</a>
+#Approach for Sustainability-Assessment for Footbridge Construction Technologies&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">Application to the First World D-Shape 3D Printed Fiber-Reinforced Mortar Footbridge in Madrid</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jclepro.2023.136369) <a href="https://doi.org/10.1016/j.jclepro.2023.136369" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.136369" target="_blank">10.1016/j.jclepro.2023.136369</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1747-8150" title="ORCID: 0000-0003-1747-8150" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pons-valladares_oriol"><b>Pons-Valladares</b>&nbsp;Oriol</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5265-9606" title="ORCID: 0000-0001-5265-9606" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/casanovas-rubio_mar_maria"><b>del&nbsp;Casanovas-Rubio</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8986-6833" title="ORCID: 0000-0002-8986-6833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/armengou_jaume"><b>Armengou</b>&nbsp;Jaume</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fuente_albert"><b>de la&nbsp;Fuente</b>&nbsp;Albert</a></span><br>
+Journal Article - Journal of Cleaner Production
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pons-valladares_oriol"><b>Pons-Valladares</b> Oriol</a> <a href="https://orcid.org/0000-0003-1747-8150" title="ORCID: 0000-0003-1747-8150" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/casanovas-rubio_mar_maria"><b>del Casanovas-Rubio</b> Maria</a> <a href="https://orcid.org/0000-0001-5265-9606" title="ORCID: 0000-0001-5265-9606" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/armengou_jaume"><b>Armengou</b> Jaume</a> <a href="https://orcid.org/0000-0002-8986-6833" title="ORCID: 0000-0002-8986-6833" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fuente_albert"><b>de la Fuente</b> Albert</a> <a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#approach`](keyword/approach)
-    [`#assessment`](keyword/assessment)
-    [`#bridge`](keyword/bridge)
-    [`#construction`](keyword/construction)
-    [`#fiber`](keyword/fiber)
-    [`#first`](keyword/first)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shape`](keyword/shape)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-    [`#world`](keyword/world)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/world"><button class="btn">#world</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Approach%20for%20Sustainability-Assessment%20for%20Footbridge%20Construction%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147844814&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319440421" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2023.136369" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2023.136369?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As a means to improve sustainability in the construction sector, the 3D-printed concrete technologies (3DPCTs) are emerging as potential alternatives to traditional construction for reinforced concrete structural components. Traditional technologies are still used in most architecture and civil engineering applications, although D-shape technology for 3DPCTs (DS-3DPCT) has proven technically feasible for producing pilot structural elements such as footbridges. These pilots have been contextualized within research and industrial frameworks, in which relevant technical information is confidential and cost and environmental performance related conclusions are still to be validated and reported. Moreover, scarce research has been conducted on sustainability performance by DS-3DPCT, and that carried out is primarily incipient and focused on identifying governing indicators and some specific non-generalizable quantifications. Former studies ack dealing with sustainability by DS-3DPCT from a holistic and integrated perspective, which requires quantifying and coupling the three main economic, environmental and social pillars. This research project comprehensively develops a sustainability-oriented decision-making approach for assessing construction technologies for footbridges based on MIVES and Delphi method. The Castilla-La Mancha park DS-3DPCT footbridge constructed by ACCIONA S.A. in 2016 in Madrid was the representative case study to validate this approach applicability. The results quantify the case study as sustainable, with excellent values for greenhouse gas emissions reduction, generation of qualified jobs, benefits to brand, occupational risk prevention, and design flexibility. However, this DS-3DPCT requires more maturity in the technology to improve its economic values. This approach range of application might be extended to other structural typologies by introducing -when necessary-other relevant indicators and weights’ distributions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -111,8 +84,8 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
@@ -125,4 +98,32 @@ tags:
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sala_jaya.2024.SoDFTitCI/">Selection of Digital Fabrication Technique in the Construction Industry:<br/>A Multi-Criteria Decision-Making Approach</a></li>
       <li><a href="../../../author/wang_qiang-chen"><b>Wang</b> Qiang-Chen</a>, <a href="../../../author/yu_si-nan"><b>Yu</b> Si-Nan</a>, <a href="../../../author/chen_zi-xiao"><b>Chen</b> Zi-Xiao</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_yu_chen_weng.2023.PACiFDA/">Promoting Additive Construction in Fast-Developing Areas:<br/>A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pons_casa_arme_fuen.2023.AfSAfFCT,
+      author            = "Oriol Pons-Valladares and Maria Mar del Casanovas-Rubio and Jaume Armengou and Albert de la Fuente",
+      title             = "Approach for Sustainability-Assessment for Footbridge Construction Technologies: Application to the First World D-Shape 3D Printed Fiber-Reinforced Mortar Footbridge in Madrid",
+      doi               = "10.1016/j.jclepro.2023.136369",
+      year              = "2023",
+      journal           = "Journal of Cleaner Production",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Pons-Valladares, M. M. del Casanovas-Rubio, J. Armengou and A. de la Fuente, “Approach for Sustainability-Assessment for Footbridge Construction Technologies: Application to the First World D-Shape 3D Printed Fiber-Reinforced Mortar Footbridge in Madrid”, <i>Journal of Cleaner Production</i>, 2023, doi: 10.1016/j.jclepro.2023.136369.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pons-Valladares, Oriol, Maria Mar del Casanovas-Rubio, Jaume Armengou, and Albert de la Fuente. “Approach for Sustainability-Assessment for Footbridge Construction Technologies: Application to the First World D-Shape 3D Printed Fiber-Reinforced Mortar Footbridge in Madrid”. <i>Journal of Cleaner Production</i>, 2023. https://doi.org/10.1016/j.jclepro.2023.136369.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

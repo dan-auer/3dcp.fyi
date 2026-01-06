@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karla Cuevas Villalobos, Sang-Yeop Chung, Paweł Sikora, Dietmar Stephan
+    - footer
+title: Cuevas Villalobos Karla, Chung Sang-Yeop, Sikora Paweł, Stephan Dietmar
 description:
 tags:
  - adsorption
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.110880) Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass:<br/>:aca-blank: Sorption and Microstructural Perspective ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.jobe.2024.110880" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110880</a>
+#Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Sorption and Microstructural Perspective</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.110880) <a href="https://doi.org/10.1016/j.jobe.2024.110880" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110880" target="_blank">10.1016/j.jobe.2024.110880</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b>&nbsp;Karla</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8295-8137" title="ORCID: 0000-0002-8295-8137" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chung_sang-yeop"><b>Chung</b>&nbsp;Sang-Yeop</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 97, No. 110880
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a> <a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> <a href="https://orcid.org/0000-0002-8295-8137" title="ORCID: 0000-0002-8295-8137" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 97, No. 110880
-
-:aca-blank:{ .lg .middle}
-    [`#adsorption`](keyword/adsorption)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#glass`](keyword/glass)
-    [`#light`](keyword/light)
-    [`#normal`](keyword/normal)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#weight`](keyword/weight)
-
-
--------------------------
+<a href="../../keyword/adsorption"><button class="btn">#adsorption</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/normal"><button class="btn">#normal</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/weight"><button class="btn">#weight</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%20Normal-Weight%20and%20Lightweight%203D%20Printed%20Cementitious%20Composites%20with%20Recycled%20Glass" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205901796&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403157389" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110880" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110880?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of sustainable mixtures has been a widely researched topic in the last decade, as the cement and concrete industries are among the most polluting sectors. Recycled materials can eliminate the need for extraction of natural materials through re-utilization of waste, reducing the environmental impact. To date, few studies have analyzed the effects of incorporating recycled glass aggregates on the water transport properties and microstructure of 3D printable mixtures. This study assesses the feasibility of incorporating recycled glass as a replacement for natural aggregate in 3D printable mixtures. For this purpose, three normal-weight and three lightweight mixtures containing 0, 50, and 100 vol.% of recycled glass aggregate as basalt aggregate replacement were evaluated in cast and printed samples. Expanded thermoplastic microspheres (ETM) were included to create the lightweight mixture composition. This experimental work evaluated the effects of incorporating recycled glass, ETM, and the impact of the printing process on the microstructure, sorption, and capillary water porosity (CWP). The printing process has proven to be an influential factor affecting the shape, size, and quantity of porosity. In addition, the printing process was demonstrated to be more influential on porosity formation than the inclusion of recycled glass or ETM. Incorporating recycled glass results in a slight decrease in the PHg porosity, more spherical pores, and lower anisotropic tendency. Furthermore, adding ETM has a filling effect, leading to a more compact microstructure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/azimi_zahir"><b>Azimi</b> Zahir</a>, <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b> Akbar</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS/">Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -100,7 +77,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cuev_chun_siko_step.2024.PoNWaL3PCCwRG,
+      author            = "Karla Francisca Cuevas Villalobos and Sang-Yeop Chung and Paweł Sikora and Dietmar Stephan",
+      title             = "Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass: Sorption and Microstructural Perspective",
+      doi               = "10.1016/j.jobe.2024.110880",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "97",
+      pages             = "110880",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. F. C. Villalobos, S.-Y. Chung, P. Sikora and D. Stephan, “Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass: Sorption and Microstructural Perspective”, <i>Journal of Building Engineering</i>, vol. 97, p. 110880, 2024, doi: 10.1016/j.jobe.2024.110880.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Villalobos, Karla Francisca Cuevas, Sang-Yeop Chung, Paweł Sikora, and Dietmar Stephan. “Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass: Sorption and Microstructural Perspective”. <i>Journal of Building Engineering</i> 97 (2024): 110880. https://doi.org/10.1016/j.jobe.2024.110880.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

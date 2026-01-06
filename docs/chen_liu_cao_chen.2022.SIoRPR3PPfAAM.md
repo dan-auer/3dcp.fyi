@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuning Chen, Chao Liu, Ruilin Cao, Chun Chen, Viktor Mechtcherine, Yamei Zhang
+    - footer
+title: Chen Yuning, Liu Chao, Cao Ruilin, Chen Chun, Mechtcherine Viktor, Zhang Yamei
 description:
 tags:
  - activation
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials:<br/>:aca-blank: Effect of Precursor Nature ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104450" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104450</a>
+#Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials&nbsp;([2022-02](date/2022/02))
+<div class="h1-like">Effect of Precursor Nature</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104450" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104450" target="_blank">10.1016/j.cemconcomp.2022.104450</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/cao_ruilin"><b>Cao</b>&nbsp;Ruilin</a></span>, <a href="../../../author/chen_chun"><b>Chen</b>&nbsp;Chun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 128, No. 104450
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>
-,     <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 128, No. 104450
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#effect`](keyword/effect)
-    [`#investigation`](keyword/investigation)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Systematical%20Investigation%20of%20Rheological%20Performance%20Regarding%203D%20Printing%20Process%20for%20Alkali-Activated%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124455554&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4210957452" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104450" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104450?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research aims to illuminate the effect of precursor nature on the rheology of alkali-activated materials (AAM) for providing some understanding for the precursor selection and mixture design of 3D-printing AAM (3DPAAM). Binary AAM pastes were prepared with several precursors, including ground granulated blast-furnace slag (GGBFS), fly ash (FA) and silica fume (SF). Various 3D-printing-related rheological properties were characterized, including static yield stress, thixotropy and viscosity recovery evolutions. Results show that the replacements of GGBFS with FA or SF increase the static yield stress of AAM systems within 30 min after deposition. The FA or SF incorporation affects the structural build-up rates in the flocculation and polycondensation stages as well as their intersection times. The structure build-up rate in the flocculation stage is governed by the inter-particle distance of suspension, while the counterpart in the polycondensation stage depends on the reactivity of the precursor. The effects of FA or SF incorporation on the thixotropy and viscosity recovery are dependent not only on the adopted dosage but also on the rest time. 25 wt% FA or 10 wt% SF is the appropriate incorporated dosage in 3DPAAM to improve the 3D-printing-related rheology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -94,8 +70,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
@@ -125,4 +101,34 @@ tags:
       <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../peng_unlu.2023.DoACBf3PA/">Development of Alternative Cementitious Binders for 3D Printing Applications:<br/>A Critical Review of Progress, Advantages and Challenges</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_liu_cao_chen.2022.SIoRPR3PPfAAM,
+      author            = "Yuning Chen and Chao Liu and Ruilin Cao and Chun Chen and Viktor Mechtcherine and Yamei Zhang",
+      title             = "Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials: Effect of Precursor Nature",
+      doi               = "10.1016/j.cemconcomp.2022.104450",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "128",
+      pages             = "104450",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, C. Liu, R. Cao, C. Chen, V. Mechtcherine and Y. Zhang, “Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials: Effect of Precursor Nature”, <i>Cement and Concrete Composites</i>, vol. 128, p. 104450, 2022, doi: 10.1016/j.cemconcomp.2022.104450.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yuning, Chao Liu, Ruilin Cao, Chun Chen, Viktor Mechtcherine, and Yamei Zhang. “Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials: Effect of Precursor Nature”. <i>Cement and Concrete Composites</i> 128 (2022): 104450. https://doi.org/10.1016/j.cemconcomp.2022.104450.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

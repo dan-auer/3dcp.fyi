@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yue Yao, Mingming Hu, Francesco Maio, Stefano Cucurachi
+    - footer
+title: Yao Yue, Hu Mingming, Maio Francesco, Cucurachi Stefano
 description:
 tags:
  - assessment
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jiec.12930) Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>:aca-blank: An Ex‐Ante Study ([2019-08](date/2019/08))
-<a href="https://doi.org/10.1111/jiec.12930" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1111/jiec.12930</a>
+#Life Cycle Assessment of 3D Printing Geopolymer Concrete&nbsp;([2019-08](date/2019/08))
+<div class="h1-like">An Ex‐Ante Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jiec.12930) <a href="https://doi.org/10.1111/jiec.12930" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jiec.12930" target="_blank">10.1111/jiec.12930</a>
 
--------------------------
+<a href="../../../author/yao_yue"><b>Yao</b>&nbsp;Yue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0021-0633" title="ORCID: 0000-0003-0021-0633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_mingming"><b>Hu</b>&nbsp;Mingming</a></span>, <a href="../../../author/maio_francesco"><b>di&nbsp;Maio</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2748-655X" title="ORCID: 0000-0003-2748-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cucurachi_stefano"><b>Cucurachi</b>&nbsp;Stefano</a></span><br>
+Journal Article - Journal of Industrial Ecology, Vol. 24, Iss. 1, pp. 116-127
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yao_yue"><b>Yao</b> Yue</a>
-,     <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a> <a href="https://orcid.org/0000-0003-0021-0633" title="ORCID: 0000-0003-0021-0633" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maio_francesco"><b>di Maio</b> Francesco</a>
-,     <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="https://orcid.org/0000-0003-2748-655X" title="ORCID: 0000-0003-2748-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Industrial Ecology, Vol. 24, Iss. 1, pp. 116-127
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%203D%20Printing%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070776717&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,25 +37,22 @@ tags:
 <a href="https://inciteful.xyz/p/W2967170503" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1111/jiec.12930" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1111/jiec.12930?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing and geo-polymers are two environmentally oriented innovations in concrete manufacturing. The 3D printing of concrete components aims to reduce raw material consumption and waste generation. Geo-polymer is being developed to replace ordinary Port- land cement and reduce the carbon footprint of the binder in the concrete. The environmental performance of the combined use of the two innovations is evaluated through an ex-ante life cycle assessment (LCA). First, an attributional LCA was implemented, using data collected from the manufacturer to identify the hotspots for environmental improvements. Then, scaled-up scenarios were built in collaboration with the company stakeholder. These scenarios were compared with the existing production system to understand the potential advantages/disadvantages of the innovative system and to identify the potential directions for improvement. The results indicate that 3D printing can potentially lead to waste reduction. However, depending on its recipe, geo-polymer likely has higher environmental impacts than ordinary concrete. The ex-ante LCA suggests that after step-by-step improvements in the production and transportation of raw materials, 3D printing geo-polymer concrete is able to reduce the carbon footprint of concrete components, while it does still perform worse on impact categories, such as depletion of abiotic resources and stratospheric ozone depletion.We found that the most effective way to lower the environmental impacts of 3D concrete is to reduce silicate in the recipe of the geo-polymer. This approach is, however, challenging to realize by the company due to the locked-in effect of the previous innovation investment. The case study shows that to support technological innovation ex-ante LCA has to be implemented as early as possible in innovation to allow for maintaining technical flexibility and improving on the identified hotspots.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "49 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
@@ -120,4 +102,35 @@ tags:
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yao_hu_maio_cucu.2020.LCAo3PGC,
+      author            = "Yue Yao and Mingming Hu and Francesco di Maio and Stefano Cucurachi",
+      title             = "Life Cycle Assessment of 3D Printing Geopolymer Concrete: An Ex‐Ante Study",
+      doi               = "10.1111/jiec.12930",
+      year              = "2020",
+      journal           = "Journal of Industrial Ecology",
+      volume            = "24",
+      number            = "1",
+      pages             = "116--127",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yao, M. Hu, F. di Maio and S. Cucurachi, “Life Cycle Assessment of 3D Printing Geopolymer Concrete: An Ex‐Ante Study”, <i>Journal of Industrial Ecology</i>, vol. 24, no. 1, pp. 116–127, 2020, doi: 10.1111/jiec.12930.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yao, Yue, Mingming Hu, Francesco di Maio, and Stefano Cucurachi. “Life Cycle Assessment of 3D Printing Geopolymer Concrete: An Ex‐Ante Study”. <i>Journal of Industrial Ecology</i> 24, no. 1 (2020): 116–27. https://doi.org/10.1111/jiec.12930.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

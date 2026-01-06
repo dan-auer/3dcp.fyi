@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdeslam Benamara, Alexandre Pierre, Abdelhak Kaci, Yannick Mélinge
+    - footer
+title: Benamara Abdeslam, Pierre Alexandre, Kaci Abdelhak, Mélinge Yannick
 description:
 tags:
  - approach
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Printing of Mortar in Carrier-Liquid:<br/>:aca-blank: Comparison of Approaches to Predict Print Stability ([2021-05](date/2021/05))
-<a href="https://doi.org/10.1617/s11527-021-01713-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-021-01713-x</a>
+#Digital Printing of Mortar in Carrier-Liquid&nbsp;([2021-05](date/2021/05))
+<div class="h1-like">Comparison of Approaches to Predict Print Stability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-021-01713-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-021-01713-x" target="_blank">10.1617/s11527-021-01713-x</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6764-3682" title="ORCID: 0000-0001-6764-3682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/benamara_abdeslam"><b>Benamara</b>&nbsp;Abdeslam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_alexandre"><b>Pierre</b>&nbsp;Alexandre</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0059-5756" title="ORCID: 0000-0003-0059-5756" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaci_abdelhak"><b>Kaci</b>&nbsp;Abdelhak</a></span>, <a href="../../../author/melinge_yannick"><b>Mélinge</b>&nbsp;Yannick</a></span><br>
+Journal Article - Materials and Structures, Vol. 54, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/benamara_abdeslam"><b>Benamara</b> Abdeslam</a> <a href="https://orcid.org/0000-0001-6764-3682" title="ORCID: 0000-0001-6764-3682" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a> <a href="https://orcid.org/0000-0003-0059-5756" title="ORCID: 0000-0003-0059-5756" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 54, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#comparison`](keyword/comparison)
-    [`#digital`](keyword/digital)
-    [`#liquid`](keyword/liquid)
-    [`#mortar`](keyword/mortar)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/liquid"><button class="btn">#liquid</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Printing%20of%20Mortar%20in%20Carrier-Liquid" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105970741&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3161435553" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-021-01713-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-021-01713-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nowadays, 3D printing of cantilevered shape poses a great challenge within the digital construction through a carrier liquid as a temporary formwork. This technique allows the printing of truss bars shapes, hollow cylinders and act as a leap reducing the utilization of materials and the global carbon footprint. To transfer this new concept to the industrial process, it is essential to predict the stability of the cementitious material’s shape in the carrier liquid. In this work, three different criteria were investigated, the printed cementitious mortar and the carrier liquid attached to the rheological properties are taken into study. Rheometry measurements have been carried out on both cement-based materials and the carrier liquids. A cantilevered shape is printed with a home-made 3D printer. A simple stability criterion which is independent of the final shape is first highlighted. It is reliable to give a first approximation of the stability at the exit of the nozzle regarding the material properties whatever was the element shape. Besides, two different approaches based on the mechanical strength approach and the final geometry of the printed shape have also been proposed. The experimental results show that the reliability of these different approaches to predict the stability of the extruded materials or final shape are finally confirmed by flow visualizations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/benamara_abdeslam"><b>Benamara</b> Abdeslam</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bena_pier_kaci_meli.2020.3PoaCBMiaCFS/">3D Printing of a Cement-Based Mortar in a Complex Fluid Suspension:<br/>Analytical Modeling and Experimental Tests</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -84,7 +63,37 @@ tags:
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bena_pier_kaci_meli.2021.DPoMiCL,
+      author            = "Abdeslam Benamara and Alexandre Pierre and Abdelhak Kaci and Yannick Mélinge",
+      title             = "Digital Printing of Mortar in Carrier-Liquid: Comparison of Approaches to Predict Print Stability",
+      doi               = "10.1617/s11527-021-01713-x",
+      year              = "2021",
+      journal           = "Materials and Structures",
+      volume            = "54",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Benamara, A. Pierre, A. Kaci and Y. Mélinge, “Digital Printing of Mortar in Carrier-Liquid: Comparison of Approaches to Predict Print Stability”, <i>Materials and Structures</i>, vol. 54, no. 3, 2021, doi: 10.1617/s11527-021-01713-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Benamara, Abdeslam, Alexandre Pierre, Abdelhak Kaci, and Yannick Mélinge. “Digital Printing of Mortar in Carrier-Liquid: Comparison of Approaches to Predict Print Stability”. <i>Materials and Structures</i> 54, no. 3 (2021). https://doi.org/10.1617/s11527-021-01713-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

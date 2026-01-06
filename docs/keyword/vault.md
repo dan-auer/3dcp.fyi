@@ -8,7 +8,7 @@ search:
 
 # #vault
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
   <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jipa_anto_gebh_dill.2024.TNS/">The Nubian Slab:<br/>3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs</a></li>
   <li><a href="../../../author/chovghi_frederic"><b>Chovghi</b> Frederic</a>, <a href="../../../author/richter_david"><b>Richter</b> David</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chov_rich_dorf_dac.2024.RtHCC/">Reconsidering the Historical Cap Ceiling:<br/>Layerwise Form-Finding of Self-Supporting Vaulted Structures for In-Situ 3D Printing</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Philippe Block
+    - footer
+title: Block Philippe
 description:
 tags:
  - compression
@@ -11,24 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tib-op.org/ojs/index.php/ocp/article/download/82/242) No Reinforcement:<br/>:aca-blank: Compression-Only Structures ([2021-11](date/2021/11))
-<a href="https://doi.org/10.52825/ocp.v1i.82" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v1i.82</a>
+#No Reinforcement&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">Compression-Only Structures</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/82/242) <a href="https://doi.org/10.52825/ocp.v1i.82" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.82" target="_blank">10.52825/ocp.v1i.82</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
+Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, No. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 3
-
-:aca-blank:{ .lg .middle}
-    [`#compression`](keyword/compression)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=No%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -43,23 +34,47 @@ tags:
 <a href="https://inciteful.xyz/p/W4293226322" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v1i.82" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v1i.82?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This talk presented Striatus, an arched, unreinforced masonry footbridge composed of 3D-printed concrete blocks assembled without mortar. Exhibited at the Giardini della Marinaressa during the Venice Architecture Biennale through November 2021, the 16x12metre footbridge was the first of its kind, combining traditional techniques of master builders with advanced computational design, engineering and robotic manufacturing technologies. The name “Striatus” reflects its structural logic and fabrication process. Concrete was printed in layers orthogonal to the main structural forces to create a “striated” compression-only funicular structure that required no reinforcement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bono_mesn_duco_caro.2024.DSOaFoCSTFR3P/">Design, Structural Optimization and Fabrication of Concrete Shell Through Fiber-Reinforced 3D Printing</a></li>
-      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
-      <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
-      <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bloc.2022.NR,
+      author            = "Philippe Block",
+      title             = "No Reinforcement: Compression-Only Structures",
+      doi               = "10.52825/ocp.v1i.82",
+      year              = "2022",
+      volume            = "1",
+      pages             = "3",
+      booktitle         = "Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures",
+      editor            = "Deutsche Forschungsgemeinschaft",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Block, “No Reinforcement: Compression-Only Structures”, in <i>Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures</i>,  2022, vol. 1, p. 3. doi: 10.52825/ocp.v1i.82.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Block, Philippe. “No Reinforcement: Compression-Only Structures”. In <i>Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures</i>, edited by Deutsche Forschungsgemeinschaft, 1:3, 2022. https://doi.org/10.52825/ocp.v1i.82.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

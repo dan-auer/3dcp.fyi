@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: John Kolawole, Richard Buswell, Sultan Mahmood, Muhammed Isa, Sergio Cavalaro, Simon Austin, Dirk Engelberg, James Dobrzanski, Jie Xu, Philip Withers
+    - footer
+title: Kolawole John, Buswell Richard, Mahmood Sultan, Isa Muhammed, Cavalaro Sergio, Austin Simon, Engelberg Dirk, Dobrzanski James, Xu Jie, Withers Philip
 description:
 tags:
  - agglomerate
@@ -17,39 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2025.107817) On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete:<br/>:aca-blank: The Roles of Filament Skin and Agglomeration ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.cemconres.2025.107817" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2025.107817</a>
+#On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">The Roles of Filament Skin and Agglomeration</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2025.107817) <a href="https://doi.org/10.1016/j.cemconres.2025.107817" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.107817" target="_blank">10.1016/j.cemconres.2025.107817</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolawole_temitope_john"><b>Kolawole</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <a href="../../../author/mahmood_sultan"><b>Mahmood</b>&nbsp;Sultan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1742-3379" title="ORCID: 0000-0003-1742-3379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/isa_nura_muhammed"><b>Isa</b>&nbsp;Muhammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalaro_sergio"><b>Cavalaro</b>&nbsp;Sergio</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/austin_a_simon"><b>Austin</b>&nbsp;Simon</a></span>, <a href="../../../author/engelberg_dirk"><b>Engelberg</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dobrzanski_james"><b>Dobrzanski</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <a href="../../../author/withers_j_philip"><b>Withers</b>&nbsp;Philip</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 192, No. 107817
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> <a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mahmood_sultan"><b>Mahmood</b> Sultan</a>
-,     <a href="../../../author/isa_nura_muhammed"><b>Isa</b> Muhammed</a> <a href="https://orcid.org/0000-0003-1742-3379" title="ORCID: 0000-0003-1742-3379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> <a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/engelberg_dirk"><b>Engelberg</b> Dirk</a>
-,     <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> <a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/withers_j_philip"><b>Withers</b> Philip</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 192, No. 107817
-
-:aca-blank:{ .lg .middle}
-    [`#agglomerate`](keyword/agglomerate)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#filament`](keyword/filament)
-    [`#origin`](keyword/origin)
-    [`#print`](keyword/print)
-    [`#skin`](keyword/skin)
-
-
--------------------------
+<a href="../../keyword/agglomerate"><button class="btn">#agglomerate</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/origin"><button class="btn">#origin</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/skin"><button class="btn">#skin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=On%20the%20Origins%20of%20Anisotropy%20of%20Extrusion-Based%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217920448&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407776134" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2025.107817" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2025.107817?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the most significant challenges facing extrusion-based 3D concrete printing (3DCP) is the anisotropy present in the printed material: under load, the observed performance is typically lower than a cast equivalent and significantly so in certain directions. In addition, the performance is also more variable than cast material. These observations are, in part, due to surface moisture evaporation and air entrapment. Here, we investigate the hypothesis that the printed concrete comprises of agglomerated filament core and skin having distinct properties as a necessary consequence of the printing process. Through novel X-ray computed tomography measurements, we show that printed concrete comprises the core and Filament Interfacial Zone Network (FIZN) and that, in contrast to the cores, the FIZN is found to be free from pores except at boundaries where there is incomplete bonding. Through morphological, chemical and mechanical analysis, the FIZN is also found to contain 20% less sand and 60% more anhydrous cement than the filament cores, while the FIZ material was inferred to have 11% higher compressive strength, 28% lower flexural strength and 22% lower elastic modulus than the core. The findings from this work suggest that anisotropy will always exist and that care should be devoted to the material rheology, printing system and the filaments arrangement in order to produce consistent and predictable hardened material properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../baba_norv_kola_paul.2024.3PLCCCCIRPW/">3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>RESIN8</a></li>
@@ -106,8 +78,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../weng_li_wong_tan.2021.SCaBADSfILBSEi3CP/">Synchronized Concrete and Bonding-Agent-Deposition-System for Inter-Layer Bond Strength Enhancement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
@@ -121,4 +93,34 @@ tags:
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../most_krug.2025.RABo3PCTIF/">Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments</a></li>
       <li><a href="../../../author/liu_xingzi"><b>Liu</b> Xingzi</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_xu_dobr_kola.2025.FAtFPoR3PCB/">Factors Affecting the Flexural Performance of Reinforced 3D Printed Concrete Beams</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kola_busw_mahm_isa.2025.OtOoAoEB3PC,
+      author            = "John Temitope Kolawole and Richard A. Buswell and Sultan Mahmood and Muhammed Nura Isa and Sergio Cavalaro and Simon A. Austin and Dirk Engelberg and James Dobrzanski and Jie Jerry Xu and Philip J. Withers",
+      title             = "On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete: The Roles of Filament Skin and Agglomeration",
+      doi               = "10.1016/j.cemconres.2025.107817",
+      year              = "2025",
+      journal           = "Cement and Concrete Research",
+      volume            = "192",
+      pages             = "107817",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. T. Kolawole, “On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete: The Roles of Filament Skin and Agglomeration”, <i>Cement and Concrete Research</i>, vol. 192, p. 107817, 2025, doi: 10.1016/j.cemconres.2025.107817.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kolawole, John Temitope, Richard A. Buswell, Sultan Mahmood, Muhammed Nura Isa, Sergio Cavalaro, Simon A. Austin, Dirk Engelberg, James Dobrzanski, Jie Jerry Xu, and Philip J. Withers. “On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete: The Roles of Filament Skin and Agglomeration”. <i>Cement and Concrete Research</i> 192 (2025): 107817. https://doi.org/10.1016/j.cemconres.2025.107817.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

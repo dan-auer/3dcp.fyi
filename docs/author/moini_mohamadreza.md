@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Moini Mohamadreza 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/agrawal_shubham"><b>Agrawal</b> Shubham</a>, <a href="../../../author/williams_s_christopher"><b>Williams</b> Christopher</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rodr_moin_agra_will.2024.MRoSS3PSMCB/">Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams</a></li>
   <li><a href="../../../author/daneshvar_dana"><b>Daneshvar</b> Dana</a>, <a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dane_rabi_gupt_najm.2024.GFoIBiTCRAM/">Geometric Fidelity of Interlocking Bodies in Two-Component Robotic Additive Manufacturing</a></li>

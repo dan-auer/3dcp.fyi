@@ -8,7 +8,7 @@ search:
 
 # #pavilion
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/melcher_e_grace"><b>Melcher</b> Grace</a>, <a href="../../../author/rauch_andy"><b>Rauch</b> Andy</a>, <a href="../../../author/yashar_melodie"><b>Yashar</b> Melodie</a>, <a href="../../../author/ballard_jason"><b>Ballard</b> Jason</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../melc_rauc_yash_ball.2024.3PICP/">3D Printing ICONs Cosmic Pavilion:<br/>A Case Study in Cementitious Extrusion of Unsupported Cantilevers</a></li>
   <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
   <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/sakdanaraseth_thanut"><b>Sakdanaraseth</b> Thanut</a>, <a href="../../../author/horayangkura_vimolsiddhi"><b>Horayangkura</b> Vimolsiddhi</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../pras_sakd_hora.2021.DaCMoa3CPSSCLP/">Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion</a></li>

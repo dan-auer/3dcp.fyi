@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kuo-Wei Wen, Yen-Fang Su, Kim Mo, Chung-Chan Hung
+    - footer
+title: Wen Kuo-Wei, Su Yen-Fang, Mo Kim, Hung Chung-Chan
 description:
 tags:
  - buildability
@@ -23,39 +24,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.jobe.2025.114919" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114919</a>
+#Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114919" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114919" target="_blank">10.1016/j.jobe.2025.114919</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-7473-6153" title="ORCID: 0009-0009-7473-6153" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wen_kuo-wei"><b>Wen</b>&nbsp;Kuo-Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8410-0997" title="ORCID: 0000-0001-8410-0997" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/su_yen-fang"><b>Su</b>&nbsp;Yen-Fang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5122-8839" title="ORCID: 0000-0001-5122-8839" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mo_hung_kim"><b>Mo</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1835-0952" title="ORCID: 0000-0002-1835-0952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hung_chung-chan"><b>Hung</b>&nbsp;Chung-Chan</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 117, No. 114919
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a> <a href="https://orcid.org/0009-0009-7473-6153" title="ORCID: 0009-0009-7473-6153" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a> <a href="https://orcid.org/0000-0001-8410-0997" title="ORCID: 0000-0001-8410-0997" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a> <a href="https://orcid.org/0000-0001-5122-8839" title="ORCID: 0000-0001-5122-8839" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="https://orcid.org/0000-0002-1835-0952" title="ORCID: 0000-0002-1835-0952" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 117, No. 114919
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#content`](keyword/content)
-    [`#dependency`](keyword/dependency)
-    [`#fiber`](keyword/fiber)
-    [`#green`](keyword/green)
-    [`#height`](keyword/height)
-    [`#incorporation`](keyword/incorporation)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-    [`#time`](keyword/time)
-    [`#type`](keyword/type)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Rheology%2C%20Green%20Strength%2C%20and%20Buildability%20of%203D-Printed%20Ultra-High%20Performance%20Concrete%20Incorporating%20Various%20Fiber%20Types%20and%20Contents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7111347874" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114919" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114919?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid development of 3D concrete printing (3DCP) has created new opportunities for using ultra-high performance concrete (UHPC) in advanced construction applications. However, the incorporation of short fibers—commonly used to enhance the mechanical performance of UHPC—can significantly influence its fresh properties and printability, which are critical for successful layer-by-layer fabrication. This study investigates the rheology, green strength, and buildability of 3D-printed UHPC reinforced with different types (steel, PVA, and PP) and contents (0.5 % and 1.0 % by volume) of short fibers. The experimental program included static yield stress measurements, micro-computed tomography, and unconfined compression tests conducted at varying open times (8–90 min) to evaluate time-dependent structuration, pore-size distributions, early-age stiffness, and compressive resistance. A bilinear model was adopted to quantify structuration rates based on yield stress evolution. Results showed that all UHPC mixtures exhibited high structuration rates ranging from 2 to 8 Pa/s, exceeding those of conventional printable cementitious materials by an order of magnitude. Fiber addition significantly increased static yield stress, particularly with PP fibers, which raised the initial yield stress by up to 234 % at 8 min. At low strain demand (ε = 0.05) and early open times (≤30 min), fibers—especially at 1.0 % content—tended to reduce compressive resistance due to void formation. However, at larger strains (ε ≥ 0.15) and open times, fiber bridging and compaction effects significantly enhanced compressive strength, with PP-, PVA-, and steel-fiber-reinforced UHPCs showing strength increases of up to 160 %, 110 %, and 60 %, respectively. A strong correlation between yield stress and compressive resistance was observed at high strain levels. The optimal trade-off between printability and mechanical performance was achieved using PP fibers at 0.5 % content, offering the most promising reinforcement strategy for 3D-printed UHPC elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -108,7 +79,37 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC,
+      author            = "Kuo-Wei Wen and Yen-Fang Su and Kim Hung Mo and Chung-Chan Hung",
+      title             = "Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents",
+      doi               = "10.1016/j.jobe.2025.114919",
+      year              = "2026",
+      journal           = "Journal of Building Engineering",
+      volume            = "117",
+      pages             = "114919",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-W. Wen, Y.-F. Su, K. H. Mo and C.-C. Hung, “Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents”, <i>Journal of Building Engineering</i>, vol. 117, p. 114919, 2026, doi: 10.1016/j.jobe.2025.114919.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wen, Kuo-Wei, Yen-Fang Su, Kim Hung Mo, and Chung-Chan Hung. “Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents”. <i>Journal of Building Engineering</i> 117 (2026): 114919. https://doi.org/10.1016/j.jobe.2025.114919.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamadreza Moini, Ahmadreza Baghaie, Fabian Rodriguez, Pablo Zavattieri, Jeffrey Youngblood, Jan Olek
+    - footer
+title: Moini Mohamadreza, Baghaie Ahmadreza, Rodriguez Fabian, Zavattieri Pablo, Youngblood Jeffrey, Olek Jan
 description:
 tags:
  - analysis
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106493" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106493</a>
+#Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis ([2021-06](date/2021/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.cemconres.2021.106493" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106493" target="_blank">10.1016/j.cemconres.2021.106493</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span>, <a href="../../../author/baghaie_ahmadreza"><b>Baghaie</b>&nbsp;Ahmadreza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b>&nbsp;Fabian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 147
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baghaie_ahmadreza"><b>Baghaie</b> Ahmadreza</a>
-,     <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a> <a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 147, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cast`](keyword/cast)
-    [`#cement`](keyword/cement)
-    [`#computer`](keyword/computer)
-    [`#image`](keyword/image)
-    [`#investigation`](keyword/investigation)
-    [`#micro`](keyword/micro)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#quantity`](keyword/quantity)
-    [`#tomography`](keyword/tomography)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/tomography"><button class="btn">#tomography</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Microstructural%20Investigation%20of%203D%20Printed%20and%20Cast%20Cement-Pastes%20Using%20Micro-Computed%20Tomography-%20and%20Image-Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85107674125&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3171062561" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106493" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106493?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Microstructural phases and mechanical properties of lamellar 3D-printed and cast hardened cement paste (hcp) elements were investigated using a lab-based X-ray microscope at two levels of magnification (0.4× and 4×). Kmeans clustering was used for quantitative image analysis. The entire volume of intact 3-days-old 3D-printed and cast hcp elements was characterized at 0.4× magnification. Three microstructural features (macro-pores, microchannels, and interfacial micro-pores) were found to reside in three distinct pore size domains. The largest pores of the 3D-printed element were larger than the largest pores of the reference cast hcp element. Moreover, the smallest pore sizes of the 3D-printed element were found to be smaller than those present in the cast counterparts. Micro-channels were found to be connected to one another through the micro-pores present at interfacial regions, indicating the presence of a uniquely patterned and interconnected pore network. The role of locally weak and porous interfaces on mechanical response and fracture properties is discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
@@ -96,8 +69,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bornert_michel"><b>Bornert</b> Michel</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../zuo_keit_born_rous.2020.Do3PMFaEAAbXRCT/">Drying of 3D Printed Mortar Filaments at Early-Age Assessed by X-Ray Computed Tomography</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>
@@ -140,4 +113,33 @@ tags:
       <li><a href="../../../author/shkundalova_olena"><b>Shkundalova</b> Olena</a>, <a href="../../../author/molkens_tom"><b>Molkens</b> Tom</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/rossi_barbara"><b>Rossi</b> Barbara</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../shku_molk_cla_ross.2022.CMoMBoL3PC/">Computational Modelling of Material-Behavior of Layered 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moin_bagh_rodr_zava.2021.QMIo3PaCCPUMCTaIA,
+      author            = "Mohamadreza Moini and Ahmadreza Baghaie and Fabian B. Rodriguez and Pablo D. Zavattieri and Jeffrey P. Youngblood and Jan Olek",
+      title             = "Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis",
+      doi               = "10.1016/j.cemconres.2021.106493",
+      year              = "2021",
+      journal           = "Cement and Concrete Research",
+      volume            = "147",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Moini, A. Baghaie, F. B. Rodriguez, P. D. Zavattieri, J. P. Youngblood and J. Olek, “Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis”, <i>Cement and Concrete Research</i>, vol. 147, 2021, doi: 10.1016/j.cemconres.2021.106493.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moini, Mohamadreza, Ahmadreza Baghaie, Fabian B. Rodriguez, Pablo D. Zavattieri, Jeffrey P. Youngblood, and Jan Olek. “Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis”. <i>Cement and Concrete Research</i> 147 (2021). https://doi.org/10.1016/j.cemconres.2021.106493.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

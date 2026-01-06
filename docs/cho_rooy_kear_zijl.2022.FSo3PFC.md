@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seung Cho, Algurnon Rooyen, Elsabe Kearsley, Gideon Zijl
+    - footer
+title: Cho Seung, Rooyen Algurnon, Kearsley Elsabe, Zijl Gideon
 description:
 tags:
  - concrete
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Foam Stability of 3D Printable Foamed Concrete ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.jobe.2021.103884" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.103884</a>
+#Foam Stability of 3D Printable Foamed Concrete ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.103884" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103884" target="_blank">10.1016/j.jobe.2021.103884</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rooyen_steve_algurnon"><b>van&nbsp;Rooyen</b>&nbsp;Algurnon</a></span>, <a href="../../../author/kearsley_elsabe"><b>Kearsley</b>&nbsp;Elsabe</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 47
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rooyen_steve_algurnon"><b>van Rooyen</b> Algurnon</a> <a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kearsley_elsabe"><b>Kearsley</b> Elsabe</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 47, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#printability`](keyword/printability)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Foam%20Stability%20of%203D%20Printable%20Foamed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121244730&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200189800" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.103884" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.103884?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the susceptibility of precursor foam in 3D printable foamed concrete (3DP-FC), particularly in aspects of rheology. The relatively higher yield stress, film liquid withdrawal from unsaturated cement grains and the pumping process raises a concern of considerable foam degradation. Foam stability under the static and dynamic environment is investigated with a wide yield stress range of the base mix (200–1500 Pa) and foamed concrete density range (700–1400 kg/m3) is investigated in this study. No major foam instability was found in the static environment with comparison of various wet-to-dry density and porosity models, while the pumping process caused densification for the higher density 3DP-FC. Other than the gravimetric measurements, the X-ray CT scans were performed to analyse the porosity, sphericity and pore distribution changes between the pre- and post-pumped samples. This paper addresses the effect of fluidity on foam stability due to physicochemical interaction on microstructural level, and the producibility of a stable 3DP-FC with a density as low as 700 kg/m3
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS/">3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength</a></li>
@@ -70,8 +52,8 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../ghod_sing_sing_chow.2025.AMSMaSiCaBA/">Additively Manufactured Smart Materials and Structures in Construction and Building Applications</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a>, <a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../fall_rest_tull_ferr.2025.BtECaRoMwF/">Biochar to Enhance Curing and Rheology of Mortars without Formwork</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/ascensao_guilherme"><b>Ascensão</b> Guilherme</a>, <a href="../../../author/fernandes_fabio"><b>Fernandes</b> Fábio</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lori_nova_asce_fern.2025.CFGf3PA/">Chemically Foamed Geopolymers for 3D Printing Applications</a></li>
@@ -106,4 +88,33 @@ tags:
       <li><a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>, <a href="../../../author/unis_h"><b>Unis</b> H.</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../qaid_yahi_taye_unis.2022.3PGC/">3D Printed Geopolymer Composites:<br/>A Review</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cho_rooy_kear_zijl.2022.FSo3PFC,
+      author            = "Seung Cho and Algurnon Steve van Rooyen and Elsabe Kearsley and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Foam Stability of 3D Printable Foamed Concrete",
+      doi               = "10.1016/j.jobe.2021.103884",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "47",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Cho, A. S. van Rooyen, E. Kearsley and G. P. A. G. van Zijl, “Foam Stability of 3D Printable Foamed Concrete”, <i>Journal of Building Engineering</i>, vol. 47, 2022, doi: 10.1016/j.jobe.2021.103884.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cho, Seung, Algurnon Steve van Rooyen, Elsabe Kearsley, and Gideon Pieter Adriaan Greeff van Zijl. “Foam Stability of 3D Printable Foamed Concrete”. <i>Journal of Building Engineering</i> 47 (2022). https://doi.org/10.1016/j.jobe.2021.103884.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

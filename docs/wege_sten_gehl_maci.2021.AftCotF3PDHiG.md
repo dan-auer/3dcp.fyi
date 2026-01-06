@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Weger, Thorsten Stengel, Christoph Gehlen, Yannick Maciejewski, Fabian Meyer-Brötz
+    - footer
+title: Weger Daniel, Stengel Thorsten, Gehlen Christoph, Maciejewski Yannick, Meyer-Brötz Fabian
 description:
 tags:
  - approval
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Approval for the Construction of the First 3D Printed Detached House in Germany:<br/>:aca-blank: Significance of Large-Scale Element Testing ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1520/stp163620200119" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1520/stp163620200119</a>
+#Approval for the Construction of the First 3D Printed Detached House in Germany&nbsp;([2021-12](date/2021/12))
+<div class="h1-like">Significance of Large-Scale Element Testing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200119" target="_blank">10.1520/stp163620200119</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stengel_thorsten"><b>Stengel</b>&nbsp;Thorsten</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <a href="../../../author/maciejewski_yannick"><b>Maciejewski</b>&nbsp;Yannick</a></span>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b>&nbsp;Fabian</a></span><br>
+Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 144-169
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maciejewski_yannick"><b>Maciejewski</b> Yannick</a>
-,     <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 144-169
-
-:aca-blank:{ .lg .middle}
-    [`#approval`](keyword/approval)
-    [`#construction`](keyword/construction)
-    [`#element`](keyword/element)
-    [`#first`](keyword/first)
-    [`#house`](keyword/house)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#significance`](keyword/significance)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/approval"><button class="btn">#approval</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/significance"><button class="btn">#significance</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Approval%20for%20the%20Construction%20of%20the%20First%203D%20Printed%20Detached%20House%20in%20Germany" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126024706&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4212765358" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1520/stp163620200119" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1520/stp163620200119?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     After only a few years of intensive research all over the world, 3D printing of buildings has become possible. However, existing design codes do not cover all the special technical features of the new construction method. Therefore, it is necessary to develop supplementary and adapted test procedures as well as design standards. In addition, a building permit (approval for individual case) must be issued. In this paper, we describe a concept to obtain an approval for individual case for the construction of the first 3D-printed detached house in Beckum, Germany, following existing standards for concrete and masonry construction. To choose the right test methods, one must know the design of the building, the additive manufacturing technique, the material, and the production environment. In the presented case, the house was completely built on the building site. The design of the house used 3D-printed parts for inner and outer walls for load-bearing and non-load-bearing elements. For this purpose, material properties such as setting, direction-dependent strength, and durability were tested. However, due to the scope of the paper, only flexural strength measurements are addressed here. All investigations focused on the formation of cold joints due to breaks in the construction process and the environmental impact. However, due to scale effects, testing of large-scale elements was necessary. In particular, larger wall elements showed decreased flexural strength compared to smaller specimens (prisms). Therefore, we present a concept for testing the load-bearing performance of wall elements and their resistance to the pressure of fresh concrete. All tests were successfully applied, characteristic design values were provided, the approval for individual case was granted, and the construction process began.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -109,8 +85,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vasi.2024.SAoC3P/">Standardization Aspects of Concrete 3D Printing</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/macallister_bruce"><b>MacAllister</b> Bruce</a>, <a href="../../../author/wood_tanner"><b>Wood</b> Tanner</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krei_krei_maca_wood.2024.TUoACiASCoaB/">The Use of Additive Construction in All Structural Components of a Building</a></li>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vasi.2024.AMwC/">Additive Manufacturing with Concrete:<br/>The Path to Practical Implementation</a></li>
@@ -127,6 +103,35 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mech.2022.AFmB/">Additive Fertigung mit Beton</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wege_sten_gehl_maci.2021.AftCotF3PDHiG,
+      author            = "Daniel Weger and Thorsten Stengel and Christoph Gehlen and Yannick Maciejewski and Fabian Meyer-Brötz",
+      title             = "Approval for the Construction of the First 3D Printed Detached House in Germany: Significance of Large-Scale Element Testing",
+      doi               = "10.1520/stp163620200119",
+      year              = "2021",
+      pages             = "144--169",
+      booktitle         = "Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers",
+      editor            = "Scott Z. Jones and Eric L. Kreiger",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Weger, T. Stengel, C. Gehlen, Y. Maciejewski and F. Meyer-Brötz, “Approval for the Construction of the First 3D Printed Detached House in Germany: Significance of Large-Scale Element Testing”, in <i>Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers</i>,  2021, pp. 144–169. doi: 10.1520/stp163620200119.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weger, Daniel, Thorsten Stengel, Christoph Gehlen, Yannick Maciejewski, and Fabian Meyer-Brötz. “Approval for the Construction of the First 3D Printed Detached House in Germany: Significance of Large-Scale Element Testing”. In <i>Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers</i>, edited by Scott Z. Jones and Eric L. Kreiger, 144–69, 2021. https://doi.org/10.1520/stp163620200119.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

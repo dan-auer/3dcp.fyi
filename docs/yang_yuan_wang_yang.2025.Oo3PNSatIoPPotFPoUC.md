@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kun Yang, Jingbo Yuan, Yibo Wang, Fan Yang, Changzai Ren
+    - footer
+title: Yang Kun, Yuan Jingbo, Wang Yibo, Yang Fan, Ren Changzai
 description:
 tags:
  - concrete
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/18/7/1431/pdf) Optimization of 3D Printing Nozzle Structure and the Influence of Process Parameters on the Forming Performance of Underwater Concrete ([2025-03](date/2025/03))
-<a href="https://doi.org/10.3390/ma18071431" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18071431</a>
+#Optimization of 3D Printing Nozzle Structure and the Influence of Process Parameters on the Forming Performance of Underwater Concrete ([2025-03](date/2025/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/7/1431/pdf) <a href="https://doi.org/10.3390/ma18071431" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18071431" target="_blank">10.3390/ma18071431</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3669-1486" title="ORCID: 0000-0002-3669-1486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_kun"><b>Yang</b>&nbsp;Kun</a></span>, <a href="../../../author/yuan_jingbo"><b>Yuan</b>&nbsp;Jingbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4556-3005" title="ORCID: 0000-0002-4556-3005" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yibo"><b>Wang</b>&nbsp;Yibo</a></span>, <a href="../../../author/yang_fan"><b>Yang</b>&nbsp;Fan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9562-3336" title="ORCID: 0000-0002-9562-3336" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_changzai"><b>Ren</b>&nbsp;Changzai</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 7, No. 1431
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_kun"><b>Yang</b> Kun</a> <a href="https://orcid.org/0000-0002-3669-1486" title="ORCID: 0000-0002-3669-1486" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_jingbo"><b>Yuan</b> Jingbo</a>
-,     <a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a> <a href="https://orcid.org/0000-0002-4556-3005" title="ORCID: 0000-0002-4556-3005" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_fan"><b>Yang</b> Fan</a>
-,     <a href="../../../author/ren_changzai"><b>Ren</b> Changzai</a> <a href="https://orcid.org/0000-0002-9562-3336" title="ORCID: 0000-0002-9562-3336" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 7, No. 1431
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#form`](keyword/form)
-    [`#influence`](keyword/influence)
-    [`#nozzle`](keyword/nozzle)
-    [`#optimization`](keyword/optimization)
-    [`#parameter`](keyword/parameter)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#structure`](keyword/structure)
-    [`#underwater`](keyword/underwater)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%203D%20Printing%20Nozzle%20Structure%20and%20the%20Influence%20of%20Process%20Parameters%20on%20the%20Forming%20Performance%20of%20Underwater%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002309405&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408777839" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18071431" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18071431?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Underwater concrete 3D printing (3DPC) technology, as a pioneering construction process, has demonstrated significant potential in various fields, such as marine engineering, underwater restoration projects, and ecological construction. However, the complexity and variability of the underwater environment pose stricter quality standards for the printed structures. To address this, this study employed a self-developed framed concrete 3D printer and utilized response surface methodology to optimize the structural dimensions of the printing nozzle. Through in-depth analysis of the internal flow field of printing nozzles with various size combinations using ANSYS Fluent 2022R1 software, an optimal parameter configuration was determined, including a nozzle diameter (D) of 55 mm, an inclination angle (θ) of 20°, and a length (L) of 34 mm, ensuring uniform extrusion of the concrete material. Furthermore, this study applied an orthogonal experimental design to systematically investigate the combined effects of screw speed, printing speed, and nozzle height on the print quality and mechanical properties (compressive strength and flexural strength) of underwater concrete 3D printing. The experimental results, presented based on direct observation and analysis, identified the optimal combination of process parameters: a printing speed of 16 mm/s, a nozzle height of 10 mm, and a screw speed of 50 r/min. This combination ensures efficient printing while maintaining the mechanical properties of the printed samples. This study not only provides solid scientific and practical guidance for optimizing the nozzle structure and process parameters of underwater concrete 3D printing technology but also offers innovative solutions to underwater construction challenges in the field of marine resource development and utilization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -93,7 +67,39 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_yuan_wang_yang.2025.Oo3PNSatIoPPotFPoUC,
+      author            = "Kun Yang and Jingbo Yuan and Yibo Wang and Fan Yang and Changzai Ren",
+      title             = "Optimization of 3D Printing Nozzle Structure and the Influence of Process Parameters on the Forming Performance of Underwater Concrete",
+      doi               = "10.3390/ma18071431",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "7",
+      pages             = "1431",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Yang, J. Yuan, Y. Wang, F. Yang and C. Ren, “Optimization of 3D Printing Nozzle Structure and the Influence of Process Parameters on the Forming Performance of Underwater Concrete”, <i>Materials</i>, vol. 18, no. 7, p. 1431, 2025, doi: 10.3390/ma18071431.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Kun, Jingbo Yuan, Yibo Wang, Fan Yang, and Changzai Ren. “Optimization of 3D Printing Nozzle Structure and the Influence of Process Parameters on the Forming Performance of Underwater Concrete”. <i>Materials</i> 18, no. 7 (2025): 1431. https://doi.org/10.3390/ma18071431.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

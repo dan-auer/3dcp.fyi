@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Piti Sukontasukkul, Sila Khomkum, Buchit Maho, Kazunori Fujikake
+    - footer
+title: Sukontasukkul Piti, Khomkum Sila, Maho Buchit, Fujikake Kazunori
 description:
 tags:
  - application
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printability and Shape Stability of Cement Mortar Incorporating Low Volume of Micro-Polypropylene Fiber for 3D Printing Application ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1007/978-3-031-53389-1_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-53389-1_18</a>
+#Printability and Shape Stability of Cement Mortar Incorporating Low Volume of Micro-Polypropylene Fiber for 3D Printing Application ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-53389-1_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53389-1_18" target="_blank">10.1007/978-3-031-53389-1_18</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9580-7063" title="ORCID: 0000-0002-9580-7063" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b>&nbsp;Piti</a></span>, <a href="../../../author/khomkum_sila"><b>Khomkum</b>&nbsp;Sila</a></span>, <a href="../../../author/maho_buchit"><b>Maho</b>&nbsp;Buchit</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-4412-2074" title="ORCID: 0009-0004-4412-2074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fujikake_kazunori"><b>Fujikake</b>&nbsp;Kazunori</a></span><br>
+Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 183-193
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b> Piti</a> <a href="https://orcid.org/0000-0002-9580-7063" title="ORCID: 0000-0002-9580-7063" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khomkum_sila"><b>Khomkum</b> Sila</a>
-,     <a href="../../../author/maho_buchit"><b>Maho</b> Buchit</a>
-,     <a href="../../../author/fujikake_kazunori"><b>Fujikake</b> Kazunori</a> <a href="https://orcid.org/0009-0004-4412-2074" title="ORCID: 0009-0004-4412-2074" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 183-193
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#fiber`](keyword/fiber)
-    [`#incorporation`](keyword/incorporation)
-    [`#low`](keyword/low)
-    [`#micro`](keyword/micro)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#shape`](keyword/shape)
-    [`#stability`](keyword/stability)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Shape%20Stability%20of%20Cement%20Mortar%20Incorporating%20Low%20Volume%20of%20Micro-Polypropylene%20Fiber%20for%203D%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186421935&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391928345" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-53389-1_18" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-53389-1_18?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the printability and shape stability of cement mortar with micro-polypropylene fiber for 3D printing application. Mortar mixes with fiber content from 0% to 0.1% were tested for properties relevant to printable cement mortar, including initial printable time, flow, and viscosity. The results showed that fiber addition decreased flow percentage, and initial printable time but increased viscosity (in terms of shear stress). The fiber addition also impacted the filament cross-sectional shape,making the width narrower and the height taller. The relationship between the initial printable time and viscosity test indicated that the shear stresses between 494 to 580 Pa are suitable to start the printing these mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -95,7 +69,38 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{suko_khom_maho_fuji.2024.PaSSoCMILVoMPFf3PA,
+      author            = "Piti Sukontasukkul and Sila Khomkum and Buchit Maho and Kazunori Fujikake",
+      title             = "Printability and Shape Stability of Cement Mortar Incorporating Low Volume of Micro-Polypropylene Fiber for 3D Printing Application",
+      doi               = "10.1007/978-3-031-53389-1_18",
+      year              = "2024",
+      volume            = "48",
+      pages             = "183--193",
+      booktitle         = "Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure: Building a Greener Tomorrow",
+      editor            = "Nemkumar Banthia and Salman Soleimani-Dashtaki and Sidney Mindess",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sukontasukkul, S. Khomkum, B. Maho and K. Fujikake, “Printability and Shape Stability of Cement Mortar Incorporating Low Volume of Micro-Polypropylene Fiber for 3D Printing Application”, in <i>Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure: Building a Greener Tomorrow</i>,  2024, vol. 48, pp. 183–193. doi: 10.1007/978-3-031-53389-1_18.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sukontasukkul, Piti, Sila Khomkum, Buchit Maho, and Kazunori Fujikake. “Printability and Shape Stability of Cement Mortar Incorporating Low Volume of Micro-Polypropylene Fiber for 3D Printing Application”. In <i>Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure: Building a Greener Tomorrow</i>, edited by Nemkumar Banthia, Salman Soleimani-Dashtaki, and Sidney Mindess, 48:183–93, 2024. https://doi.org/10.1007/978-3-031-53389-1_18.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

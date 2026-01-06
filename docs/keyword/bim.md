@@ -8,7 +8,7 @@ search:
 
 # #bim
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b> Laura</a>, <a href="../../../author/orobio_armando"><b>Orobio</b> Armando</a>, <a href="../../../author/campana_wilmer"><b>Campaña</b> Wilmer</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../hena_orob_camp.2026.BIiPACP/">BIM Integration in Prefabricated Additive Construction Projects:<br/>Case Study</a></li>
   <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../roja_hasa.2025.AIBPWf3CPP/">An Integrated BIM Planning Workflow for 3D Concrete Printing Projects</a></li>
   <li><a href="../../../author/yue_hongzhe"><b>Yue</b> Hongzhe</a>, <a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/zhao_zixuan"><b>Zhao</b> Zixuan</a>, <a href="../../../author/lai_sha"><b>Lai</b> Sha</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yue_wang_zhao_lai.2025.IBBaR/">Interactions Between BIM and Robotics:<br/>Towards Intelligent Construction Engineering and Management</a></li>

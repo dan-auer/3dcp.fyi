@@ -8,7 +8,7 @@ search:
 
 # #propagation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
   <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_kentaro"><b>Sugiyama</b> Kentaro</a>, <a href="../../../author/mori_hiroaki"><b>Mori</b> Hiroaki</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../naka_hash_sugi_mori.2024.EoPPoPQaFPBo3PC/">Effect of Printing Parameters on Print Quality and Fracture Propagation Behavior of 3D Printed Concrete</a></li>
   <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>, <a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../naka_hash_sugi_kono.2024.IoPPoMPaFPo3PC/">Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gaudillière-Jami Nadja 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../gaud.2025.ACMPo3/">A Critical Materials Perspective on 3DCP</a></li>
   <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../kuzm_gaud_fera_dirr.2020.AtEVo3CPT/">Assessing the Environmental Viability of 3D Concrete Printing Technology</a></li>
   <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../gaud_dirr_duba_bouy.2020.IC3P/">Industrialising Concrete 3D Printing</a></li>

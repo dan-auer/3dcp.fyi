@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vahan Zohrabyan, Raphael Zöller, Simon Gradic, Thomas Braml
+    - footer
+title: Zohrabyan Vahan, Zöller Raphael, Gradic Simon, Braml Thomas
 description:
 tags:
  - component
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure:<br/>:aca-blank: Impact and Free-Fall Tests ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1002/best.202300040" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/best.202300040</a>
+#Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure&nbsp;([2023-06](date/2023/06))
+<div class="h1-like">Impact and Free-Fall Tests</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202300040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202300040" target="_blank">10.1002/best.202300040</a>
 
--------------------------
+<a href="../../../author/zohrabyan_vahan"><b>Zohrabyan</b>&nbsp;Vahan</a></span>, <a href="../../../author/zoller_raphael"><b>Zöller</b>&nbsp;Raphael</a></span>, <a href="../../../author/gradic_simon"><b>Gradic</b>&nbsp;Simon</a></span>, <a href="../../../author/braml_thomas"><b>Braml</b>&nbsp;Thomas</a></span><br>
+Journal Article - Beton- und Stahlbetonbau
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zohrabyan_vahan"><b>Zohrabyan</b> Vahan</a>
-,     <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>
-,     <a href="../../../author/gradic_simon"><b>Gradic</b> Simon</a>
-,     <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Beton- und Stahlbetonbau, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#fiber`](keyword/fiber)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Potential%20of%203D%20Printed%20Steel%20Fiber%20Reinforced%20Concrete%20Components%20for%20the%20Protection%20of%20Critical%20Infrastructure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163778541&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,24 +41,46 @@ tags:
 <a href="https://inciteful.xyz/p/W4382542490" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/best.202300040" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/best.202300040?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of innovative production technologies in the construction industry supports the realization of fully automated manufacturing processes with the aim of improving the construction time, the individuality, and the quality of components. The production of reinforced concrete components using the selective cement activation process, which enables the three-dimensional printing of shape-optimized components, can achieve the mentioned goals. To investigate these regarding their behaviour under highly dynamic impact, a total of ten steel fibre-reinforced concrete test specimens were printed in different construction methods and subjected to highly dynamic loads by impact and free-fall tests. Such loads lead to complex internal stresses and corresponding damage patterns. A representation of the damage still presents after the impact, in particular the correct alignment of the steel fibres in the component, indicate possibilities for improvement and optimization of future protective components, which have not yet been sufficiently researched according to the current state of the technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>
-      <li><a href="../../../author/zohrabyan_vahan"><b>Zohrabyan</b> Vahan</a>, <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/gradic_simon"><b>Gradic</b> Simon</a>, <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zohr_zoll_grad_bram.2023.Po3PSFRCCftPoCI/">Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure:<br/>Impact and Free-Fall Tests</a></li>
       <li><a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/ochlast_andreas"><b>Ochlast</b> Andreas</a>, <a href="../../../author/zimmert_florian"><b>Zimmert</b> Florian</a>, <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zoll_ochl_zimm_bram.2022.DoPftAPaPoIRCE/">Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/zohrabyan_vahan"><b>Zohrabyan</b> Vahan</a>, <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/gradic_simon"><b>Gradic</b> Simon</a>, <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zohr_zoll_grad_bram.2023.Po3PSFRCCftPoCI/">Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure:<br/>Impact and Free-Fall Tests</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zohr_zoll_grad_bram.2023.Po3PSFRCCftPoCI,
+      author            = "Vahan Zohrabyan and Raphael Zöller and Simon Gradic and Thomas Braml",
+      title             = "Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure: Impact and Free-Fall Tests",
+      doi               = "10.1002/best.202300040",
+      year              = "2023",
+      journal           = "Beton- und Stahlbetonbau",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Zohrabyan, R. Zöller, S. Gradic and T. Braml, “Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure: Impact and Free-Fall Tests”, <i>Beton- und Stahlbetonbau</i>, 2023, doi: 10.1002/best.202300040.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zohrabyan, Vahan, Raphael Zöller, Simon Gradic, and Thomas Braml. “Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure: Impact and Free-Fall Tests”. <i>Beton- Und Stahlbetonbau</i>, 2023. https://doi.org/10.1002/best.202300040.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

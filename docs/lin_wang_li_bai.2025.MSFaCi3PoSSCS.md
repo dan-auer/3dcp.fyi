@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenyu Lin, Li Wang, Zhijian Li, Gang Bai, Qiang Wang, Yao Qu
+    - footer
+title: Lin Wenyu, Wang Li, Li Zhijian, Bai Gang, Wang Qiang, Qu Yao
 description:
 tags:
  - challenge
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.jobe.2025.113134" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113134</a>
+#Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113134" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113134" target="_blank">10.1016/j.jobe.2025.113134</a>
 
--------------------------
+<a href="../../../author/lin_wenyu"><b>Lin</b>&nbsp;Wenyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <a href="../../../author/bai_gang"><b>Bai</b>&nbsp;Gang</a></span>, <a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span>, <a href="../../../author/qu_yao"><b>Qu</b>&nbsp;Yao</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113134
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>
-,     <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>
-,     <a href="../../../author/qu_yao"><b>Qu</b> Yao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113134
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#shape`](keyword/shape)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Scale%20Fabrication%20and%20Challenges%20in%203D%20Printing%20of%20Special%20-Shaped%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007537701&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411049010" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113134" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113134?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete (3DPC) has demonstrated substantial potential for fabricating geometrically complex structures through its inherent capabilities of parametric design flexibility and formwork-free construction. This review systematically examines the critical triad of structural design, material property control, and deposition technologies essential for 3DPC of non-standard geometries. In structural design, the synergistic integration of biomimetic principles with topology optimization enables lightweight configurations while maintaining material efficiency. For material properties, precisely controlled chemical coagulation and physical flocculation processes effectively mitigate strength deficiency and deformation challenges during rapid concrete deposition. Regarding deposition technologies, the implementation of modular printing strategies, auxiliary support systems, and injection 3D-printed concrete methods demonstrates measurable improvements in both structural integrity and manufacturing efficiency. Although challenges persist in large-scale applications, continuous advancements in automated process control and material innovation suggest transformative potential for architectural engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "105 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/wang_mingyang"><b>Wang</b> Mingyang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../anto_lin_skev_wang.2024.TA/">Tor Alva:<br/>A 3D Concrete Printed Tower</a></li>
@@ -175,9 +151,38 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/castro-chincho_ana"><b>Castro-Chincho</b> Ana</a>, <a href="../../../author/ivorra-martinez_juan"><b>Ivorra-Martinez</b> Juan</a>, <a href="../../../author/perejon_antonio"><b>Perejón</b> Antonio</a>, <a href="../../../author/sanchez-jimenez_e_pedro"><b>Sánchez-Jiménez</b> Pedro</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../cast_ivor_pere_sanc.2025.3PMLSfCLTES/">3D-Printed Mineral Limestone Structures for Calcium Looping Thermochemical Energy Storage:<br/>Reactivity and Performance Across Cycles</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_wang_li_bai.2025.MSFaCi3PoSSCS,
+      author            = "Wenyu Lin and Li Wang and Zhijian Li and Gang Bai and Qiang Wang and Yao Qu",
+      title             = "Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures",
+      doi               = "10.1016/j.jobe.2025.113134",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113134",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Lin, L. Wang, Z. Li, G. Bai, Q. Wang and Y. Qu, “Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures”, <i>Journal of Building Engineering</i>, p. 113134, 2025, doi: 10.1016/j.jobe.2025.113134.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Wenyu, Li Wang, Zhijian Li, Gang Bai, Qiang Wang, and Yao Qu. “Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures”. <i>Journal of Building Engineering</i>, 2025, 113134. https://doi.org/10.1016/j.jobe.2025.113134.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jun-Jie Zeng, Xianwen Hu, Hou-Qi Sun, Yue Liu, Wei-Jian Chen, Yan Zhuge
+    - footer
+title: Zeng Jun-Jie, Hu Xianwen, Sun Hou-Qi, Liu Yue, Chen Wei-Jian, Zhuge Yan
 description:
 tags:
  - axis
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2024.105816) Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105816" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105816</a>
+#Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105816) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105816" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105816" target="_blank">10.1016/j.cemconcomp.2024.105816</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0680-9519" title="ORCID: 0000-0002-0680-9519" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_xianwen"><b>Hu</b>&nbsp;Xianwen</a></span>, <a href="../../../author/sun_hou-qi"><b>Sun</b>&nbsp;Hou-Qi</a></span>, <a href="../../../author/liu_yue"><b>Liu</b>&nbsp;Yue</a></span>, <a href="../../../author/chen_wei-jian"><b>Chen</b>&nbsp;Wei-Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 155, No. 105816
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hu_xianwen"><b>Hu</b> Xianwen</a> <a href="https://orcid.org/0000-0002-0680-9519" title="ORCID: 0000-0002-0680-9519" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>
-,     <a href="../../../author/liu_yue"><b>Liu</b> Yue</a>
-,     <a href="../../../author/chen_wei-jian"><b>Chen</b> Wei-Jian</a>
-,     <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> <a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 155, No. 105816
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#behavior`](keyword/behavior)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Triaxial%20Compressive%20Behavior%20of%203D%20Printed%20PE-Fiber-Reinforced%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207599378&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403939574" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105816" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105816?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The layered deposition process of 3D concrete printing can lead to reduced mechanical properties at the interfaces between filaments. To address this limitation, external confinement devices, such as fiber-reinforced polymer (FRP) wrapping, have been proposed to enhance the strength of 3D-printed concrete concrete. Achieving this requires a solid understanding of the triaxial mechanical performance of 3D-printed concrete. This study presents an experimental investigation of the triaxial compressive behavior of 3D-printed PE fiberreinforced ultra-high performance concrete (3DP-PEUHPC). A total of 16 pairs of concrete cubes were prepared, including mold-cast and 3D-printed specimens, and subjected to uniaxial and triaxial compression tests. The results revealed that the 3D-printed specimens exhibited either column-type or diagonal shear failures under triaxial compression. Weak bonding was observed at both filament-fusion and layer-fusion interfaces, with these weaker bonding interfaces, particularly when aligned parallel to the axial load, showing susceptibility to stress concentration and crack initiation. This led to a reduction in load-bearing capacity of the 3D-printed specimens compared to the mold-cast specimens. Importantly, as confining stresses increase, the difference in compressive strength between 3D-printed and mold-cast specimens decreases, highlighting the effectiveness of confinement in mitigating the directional weaknesses inherent in 3D-printed concrete. This paper also presents a modified model for predicting the axial stress-strain relationship of 3DP-PEUHPC under confinement, providing insights into the mechanism of FRP confinement on the compressive strength of 3D-printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -106,8 +81,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
@@ -116,4 +91,34 @@ tags:
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zeng_hu_sun_liu.2025.TCBo3PPFRUHPC,
+      author            = "Jun-Jie Zeng and Xianwen Hu and Hou-Qi Sun and Yue Liu and Wei-Jian Chen and Yan Zhuge",
+      title             = "Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete",
+      doi               = "10.1016/j.cemconcomp.2024.105816",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "155",
+      pages             = "105816",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-J. Zeng, X. Hu, H.-Q. Sun, Y. Liu, W.-J. Chen and Y. Zhuge, “Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete”, <i>Cement and Concrete Composites</i>, vol. 155, p. 105816, 2025, doi: 10.1016/j.cemconcomp.2024.105816.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zeng, Jun-Jie, Xianwen Hu, Hou-Qi Sun, Yue Liu, Wei-Jian Chen, and Yan Zhuge. “Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete”. <i>Cement and Concrete Composites</i> 155 (2025): 105816. https://doi.org/10.1016/j.cemconcomp.2024.105816.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Moodi Faramarz 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sedighi_saeed"><b>Sedighi</b> Saeed</a>, <a href="../../../author/rahai_alireza"><b>Rahai</b> Alireza</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC/">Multi-Criteria Optimization for Sustainable Concrete Mix Considering the Synergistic Effect of Recycled Steel Fiber and LC3 Concrete</a></li>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../givk_mood_rame.2025.ISaMPo3PCUDCC/">Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions</a></li>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS/">Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure</a></li>

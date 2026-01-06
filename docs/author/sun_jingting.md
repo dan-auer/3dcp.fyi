@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sun Jingting 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
   <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sing_zhao_sun.2025.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D-Printed Concrete Through Recycled Ultra-Fine Waste Glass Powder:<br/>Corrigendum</a></li>
   <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>

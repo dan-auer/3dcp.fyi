@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Dehestani Mehdi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
   <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>
   <li><a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/ahmadi_khatereh"><b>Ahmadi</b> Khatereh</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mous_ahma_dehe.2025.FRo3PC/">Fire Response of 3D Printed Concrete</a></li>

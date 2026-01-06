@@ -8,7 +8,7 @@ search:
 
 # #biomass
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ding_yong"><b>Ding</b> Yong</a>, <a href="../../../author/kindler_oswin_robert"><b>Kindler</b> Robert</a>, <a href="../../../author/cen_tianyu"><b>Cen</b> Tianyu</a>, <a href="../../../author/chen_xiulin"><b>Chen</b> Xiulin</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_kind_cen_chen.2025.VoDWaBBiSBMvCMa3P/">Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing</a></li>
   <li><a href="../../../author/vico-lujano_raul"><b>Vico Lujano</b> Raúl</a>, <a href="../../../author/perez-villarejo_luis"><b>Pérez Villarejo</b> Luis</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/hidalgo-torrano_pilar"><b>Hidalgo-Torrano</b> Pilar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../vico_pere_nova_hida.2025.OMFf3P/">Optimized Mortar Formulations for 3D Printing:<br/>A Rheological Study of Cementitious Pastes Incorporating Potassium-Rich Biomass Fly Ash Wastes</a></li>
   <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a></li>

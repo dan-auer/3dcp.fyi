@@ -8,7 +8,7 @@ search:
 
 # #shrinkage
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>

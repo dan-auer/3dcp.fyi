@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pshtiwan Shakor, Shami Nejadi, Gavin Paul, Jay Sanjayan
+    - footer
+title: Shakor Pshtiwan, Nejadi Shami, Paul Gavin, Sanjayan Jay
 description:
 tags:
  - accuracy
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://opus.lib.uts.edu.au/bitstream/10453/137173/6/Dimensional%20accuracy%2c%20flowability%2c%20wettability%2c%20and%20porosity%20in%20inkjet%203DP%20uncorrected%20proof.pdf) Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials ([2019-12](date/2019/12))
-<a href="https://doi.org/10.1016/j.autcon.2019.102964" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.102964</a>
+#Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials ([2019-12](date/2019/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://opus.lib.uts.edu.au/bitstream/10453/137173/6/Dimensional%20accuracy%2c%20flowability%2c%20wettability%2c%20and%20porosity%20in%20inkjet%203DP%20uncorrected%20proof.pdf) <a href="https://doi.org/10.1016/j.autcon.2019.102964" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.102964" target="_blank">10.1016/j.autcon.2019.102964</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nejadi_shami"><b>Nejadi</b>&nbsp;Shami</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_gavin"><b>Paul</b>&nbsp;Gavin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Automation in Construction, Vol. 110
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 110, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accuracy`](keyword/accuracy)
-    [`#cement`](keyword/cement)
-    [`#dimension`](keyword/dimension)
-    [`#flow`](keyword/flow)
-    [`#gypsum`](keyword/gypsum)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#porosity`](keyword/porosity)
-
-
--------------------------
+<a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/gypsum"><button class="btn">#gypsum</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Dimensional%20Accuracy%2C%20Flowability%2C%20Wettability%2C%20and%20Porosity%20in%20Inkjet%203DP%20for%20Gypsum%20and%20Cement%20Mortar%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85076050473&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2996158290" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.102964" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.102964?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Inkjet (powder-based) 3D Printing is a popular and widely used technology, which can be applied to print a wide range of specimens using different powder materials. This paper discusses the use of inkjet 3DP technology for construction applications using custom-made powder instead of commercial gypsum powder (ZP 151). The paper aims to address the differences between ZP 151 and CP (a custom-made construction-specific cement mortar powder) with regard to powder flowability, wettability, powder bed porosity and apparent porosity in 3DP specimens. An inkjet 3D printer is employed and experimental results verify that ZP 151 has a lower angle of repose, a higher contact angle and noticeably less porosity in the powder bed compared with the CP powder. Additionally, specimens printed with ZP 151 have a lower apparent porosity compared with CP specimens. The wettability for each of the powders was tested using contact angle goniometer, while the Optronis Cam-Recorder was used at 1000 fps at 800 × 600 pixel resolution images for the powder flowability tests. The bulk density tester was utilised to find the apparent porosity in the printed specimens. The paper also discusses the details of the printing procedure and dimensional accuracy of printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -88,8 +66,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
       <li><a href="../../../author/wang_guihua"><b>Wang</b> Guihua</a>, <a href="../../../author/zhou_jiguo"><b>Zhou</b> Jiguo</a>, <a href="../../../author/liu_haoyun"><b>Liu</b> Haoyun</a>, <a href="../../../author/zhang_jianming"><b>Zhang</b> Jianming</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN/">Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR</a></li>
       <li><a href="../../../author/nadi_mouad"><b>Nadi</b> Mouad</a>, <a href="../../../author/majdoubi_hicham"><b>Majdoubi</b> Hicham</a>, <a href="../../../author/haddaji_younesse"><b>Haddaji</b> Younesse</a>, <a href="../../../author/bili_oumaima"><b>Bili</b> Oumaima</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nadi_majd_hadd_bili.2025.DFPfCMUTD3PT/">Digital Fabrication Processes for Cementitious Materials Using Three-Dimensional 3D Printing Technologies</a></li>
@@ -126,4 +104,33 @@ tags:
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shak_neja_paul_sanj.2020.DAFWaPiI3fGaCMM,
+      author            = "Pshtiwan N. Shakor and Shami Nejadi and Gavin Paul and Jay Gnananandan Sanjayan",
+      title             = "Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials",
+      doi               = "10.1016/j.autcon.2019.102964",
+      year              = "2020",
+      journal           = "Automation in Construction",
+      volume            = "110",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. N. Shakor, S. Nejadi, G. Paul and J. G. Sanjayan, “Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials”, <i>Automation in Construction</i>, vol. 110, 2020, doi: 10.1016/j.autcon.2019.102964.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shakor, Pshtiwan N., Shami Nejadi, Gavin Paul, and Jay Gnananandan Sanjayan. “Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials”. <i>Automation in Construction</i> 110 (2020). https://doi.org/10.1016/j.autcon.2019.102964.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

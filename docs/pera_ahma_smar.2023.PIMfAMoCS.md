@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Patricia Peralta Abadi, Muhammad Ahmad, Kay Smarsly
+    - footer
+title: Peralta Abadi Patricia, Ahmad Muhammad, Smarsly Kay
 description:
 tags:
  - additive
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/13/23/12664/pdf?version=1700901538) Printing-Information-Modeling for Additive Manufacturing of Concrete Structures ([2023-11](date/2023/11))
-<a href="https://doi.org/10.3390/app132312664" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app132312664</a>
+#Printing-Information-Modeling for Additive Manufacturing of Concrete Structures ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/13/23/12664/pdf?version=1700901538) <a href="https://doi.org/10.3390/app132312664" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app132312664" target="_blank">10.3390/app132312664</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b>&nbsp;Patricia</a></span>, <a href="../../../author/ahmad_e_muhammad"><b>Ahmad</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/smarsly_kay"><b>Smarsly</b>&nbsp;Kay</a></span><br>
+Journal Article - Applied Sciences, Vol. 13, Iss. 23, No. 12664
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a> <a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmad_e_muhammad"><b>Ahmad</b> Muhammad</a>
-,     <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 13, Iss. 23, No. 12664
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#information`](keyword/information)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printing-Information-Modeling%20for%20Additive%20Manufacturing%20of%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192388231&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389050144" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app132312664" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app132312664?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the context of Industry 4.0, construction processes are shifting towards automation by implementing additive manufacturing (AM) of concrete structures, also referred to as concrete printing. Adapting concrete as a printing material entails complex material–process interactions between concrete and manufacturing processes that require specialized data modeling. However, data modeling for the AM of concrete structures has not kept up with concrete printing research and development. Aiming to enhance data modeling for the AM of concrete structures, this paper proposes a semantic modeling approach, referred to as “printing information modeling” (PIM). The PIM approach defines input parameters and material–process interaction in a generic printing information model for designing and planning concrete printing projects. Exchange requirements for concrete printing are identified and evaluated, serving as the basis for the printing information model. The printing information model, as a semantic (or meta) model, is conceptualized using object-oriented modeling concepts, formalized as an ontology, verified as an instantiable semantic model, and validated with a software tool developed as a plug-in for BIM platforms. As a result, a printing information model is developed to serve as a generally valid semantic model for the AM of concrete structures and has the potential to improve data modeling concepts currently deployed for concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -88,10 +68,40 @@ tags:
       <li><a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a>, <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/luckey_daniel"><b>Luckey</b> Daniel</a>, <a href="../../../author/heine_sebastian"><b>Heine</b> Sebastian</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../smar_pera_luck_hein.2021.BBCP/">BIM-Based Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a>, <a href="../../../author/georgiou_ioulios"><b>Georgiou</b> Ioulios</a>, <a href="../../../author/carrasco-perez_emanuel_patricio"><b>Carrasco Pérez</b> Patricio</a>, <a href="../../../author/soria_romanella"><b>Soria</b> Romanella</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../band_geor_carr_sori.2025.DfACTDP/">Deployment for Additive Construction Through Digital Platforms:<br/>Gananoque Project as a Case Study</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b> Pedro</a>, <a href="../../../author/valenzuela-astudillo_eduardo"><b>Valenzuela-Astudillo</b> Eduardo</a>, <a href="../../../author/martuffi-lazo_daniela"><b>Martuffi-Lazo</b> Daniela</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../garc_soza_vale_mart.2024.DoaGDSf3PHiC/">Development of a Generative Design System for 3D Printed Houses in Chile</a></li>
-      <li><a href="../../../author/zhang_jiale"><b>Zhang</b> Jiale</a>, <a href="../../../author/luo_hanbin"><b>Luo</b> Hanbin</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_luo_xu.2022.TFBEBAaR/">Towards Fully BIM-Enabled Building Automation and Robotics:<br/>A Perspective of Lifecycle Information Flow</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pera_ahma_smar.2023.PIMfAMoCS,
+      author            = "Patricia Peralta Abadi and Muhammad E. Ahmad and Kay Smarsly",
+      title             = "Printing-Information-Modeling for Additive Manufacturing of Concrete Structures",
+      doi               = "10.3390/app132312664",
+      year              = "2023",
+      journal           = "Applied Sciences",
+      volume            = "13",
+      number            = "23",
+      pages             = "12664",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. P. Abadi, M. E. Ahmad and K. Smarsly, “Printing-Information-Modeling for Additive Manufacturing of Concrete Structures”, <i>Applied Sciences</i>, vol. 13, no. 23, p. 12664, 2023, doi: 10.3390/app132312664.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abadi, Patricia Peralta, Muhammad E. Ahmad, and Kay Smarsly. “Printing-Information-Modeling for Additive Manufacturing of Concrete Structures”. <i>Applied Sciences</i> 13, no. 23 (2023): 12664. https://doi.org/10.3390/app132312664.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

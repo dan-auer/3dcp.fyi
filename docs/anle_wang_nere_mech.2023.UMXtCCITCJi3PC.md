@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paula Anleu, Timothy Wangler, Venkatesh Nerella, Viktor Mechtcherine, Pavel Trtik, Robert Flatt
+    - footer
+title: Anleu Paula, Wangler Timothy, Nerella Venkatesh, Mechtcherine Viktor, Trtik Pavel, Flatt Robert
 description:
 tags:
  - character
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-023-02132-w.pdf) Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1617/s11527-023-02132-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-023-02132-w</a>
+#Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-023-02132-w.pdf) <a href="https://doi.org/10.1617/s11527-023-02132-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-023-02132-w" target="_blank">10.1617/s11527-023-02132-w</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1002-8125" title="ORCID: 0000-0002-1002-8125" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anleu_bran_paula"><b>Anleu</b>&nbsp;Paula</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/trtik_pavel"><b>Trtik</b>&nbsp;Pavel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Journal Article - Materials and Structures, Vol. 56, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a> <a href="https://orcid.org/0000-0002-1002-8125" title="ORCID: 0000-0002-1002-8125" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/trtik_pavel"><b>Trtik</b> Pavel</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 56, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#character`](keyword/character)
-    [`#chloride`](keyword/chloride)
-    [`#cold`](keyword/cold)
-    [`#concrete`](keyword/concrete)
-    [`#ingress`](keyword/ingress)
-    [`#joint`](keyword/joint)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/ingress"><button class="btn">#ingress</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Using%20Micro-XRF%20to%20Characterize%20Chloride-Ingress%20Through%20Cold%20Joints%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149979116&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323314605" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-023-02132-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-023-02132-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication methods with concrete have been rapidly developing, with many problems related to component production and material control being solved in recent years. These processes produce inherently layered cementitious components that are anisotropic, and in many cases, produces a weak interface between layers, which are generally referred to as cold joints. While material strength at these interfaces has been well studied in recent years, durability has received less attention, even though cold joints can function as channels for aggressive agents, such as chlorides. This work presents a method using micro-X-ray fluorescence (lXRF) to image chloride ingress into layer interfaces of 3D printed fine-grained concrete specimens produced with varying layer deposition time intervals, and also compares it to neutron imaging of moisture uptake. The results show that cold joints formed after a 1 day time interval are highly susceptible to chloride ingress, and that curing conditions play a major role in how quickly interfacial transport can take place. The lXRF method is also shown to be useful for study of transport of chlorides in cold joints, due to its spatial resolution and direct analysis of an aggressive species of interest.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -101,8 +77,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yao_gao_huan_du.2025.IoPSaESotPaPSo3PM/">Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar</a></li>
@@ -118,12 +94,35 @@ tags:
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/huang_tao"><b>Huang</b> Tao</a>, <a href="../../../author/peng_zhongqi"><b>Peng</b> Zhongqi</a>, <a href="../../../author/wang_mengge"><b>Wang</b> Mengge</a>, <a href="../../../author/feng_shuang"><b>Feng</b> Shuang</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../huan_peng_wang_feng.2024.SotITPo3PC/">Study on the Ionic Transport Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mech_kuhn_mai_nere.2024.AMwC/">Additive Manufacturing with Concrete:<br/>Guidelines for Planning and Implementing Projects</a></li>
-      <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
-      <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../aspr_menn_bos_mata.2022.SDaToDMCS/">Structural Design and Testing of Digitally Manufactured Concrete Structures</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
-      <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>
-      <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
-      <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{anle_wang_nere_mech.2023.UMXtCCITCJi3PC,
+      author            = "Paula Bran Anleu and Timothy Paul Wangler and Venkatesh Naidu Nerella and Viktor Mechtcherine and Pavel Trtik and Robert Johann Flatt",
+      title             = "Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete",
+      doi               = "10.1617/s11527-023-02132-w",
+      year              = "2023",
+      journal           = "Materials and Structures",
+      volume            = "56",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. B. Anleu, T. P. Wangler, V. N. Nerella, V. Mechtcherine, P. Trtik and R. J. Flatt, “Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete”, <i>Materials and Structures</i>, vol. 56, no. 3, 2023, doi: 10.1617/s11527-023-02132-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Anleu, Paula Bran, Timothy Paul Wangler, Venkatesh Naidu Nerella, Viktor Mechtcherine, Pavel Trtik, and Robert Johann Flatt. “Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete”. <i>Materials and Structures</i> 56, no. 3 (2023). https://doi.org/10.1617/s11527-023-02132-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

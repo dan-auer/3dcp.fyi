@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lutao Jia, Geng Niu, Enlai Dong, Yifan Jiang, Xianggang Wang, Zijian Jia, Wei Wang, Yueyi Gao, Yamei Zhang
+    - footer
+title: Jia Lutao, Niu Geng, Dong Enlai, Jiang Yifan, Wang Xianggang, Jia Zijian, Wang Wei, Gao Yueyi, Zhang Yamei
 description:
 tags:
  - brick
@@ -21,42 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimization-Strategy for Incorporating Recycled Brick-Powder in 3D Printed Concrete by Balancing Low-Carbon Footprint and Enhanced Performance ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137801" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137801</a>
+#Optimization-Strategy for Incorporating Recycled Brick-Powder in 3D Printed Concrete by Balancing Low-Carbon Footprint and Enhanced Performance ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137801" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137801" target="_blank">10.1016/j.conbuildmat.2024.137801</a>
 
--------------------------
+<a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niu_geng"><b>Niu</b>&nbsp;Geng</a></span>, <a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <a href="../../../author/jiang_yifan"><b>Jiang</b>&nbsp;Yifan</a></span>, <a href="../../../author/wang_xianggang"><b>Wang</b>&nbsp;Xianggang</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <a href="../../../author/gao_yueyi"><b>Gao</b>&nbsp;Yueyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 443, No. 137801
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> <a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a>
-,     <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-,     <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 443, No. 137801
-
-:aca-blank:{ .lg .middle}
-    [`#brick`](keyword/brick)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#footprint`](keyword/footprint)
-    [`#incorporation`](keyword/incorporation)
-    [`#low`](keyword/low)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization-Strategy%20for%20Incorporating%20Recycled%20Brick-Powder%20in%203D%20Printed%20Concrete%20by%20Balancing%20Low-Carbon%20Footprint%20and%20Enhanced%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200559704&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401394367" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137801" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137801?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The high cement content in 3D-printed concrete (3DPC) presents challenges for achieving a low carbon footprint. Substituting a portion of cement with recycled brick powder (RBP) is a crucial strategy for reducing carbon emissions while enhancing fresh and hardened properties of 3DPC. Balancing RBP preparation energy consumption with its impact on 3DPC performance is crucial for efficient, low-carbon RBP utilization. Two types of RBP were obtained through crushing, sieving (RBP-S, more low-carbon), and grinding (RBP-G). RBP-G with finer particles can enhance the green strength evolution by expediting the initiation of the hydration acceleration period and increase heat flow of this period. 3DPC containing 40 % RBP-G exhibits the lowest porosity, with a rise in gel pores and a drop in macro-pores attributed to the filling effect and pozzolanic activity. RBP-S exhibits a better internal curing effect. Replacing 40 % of cement with RBP-S or RBP-G can reduce drying shrinkage of 3DPC by 30 %. RBP-G excels in enhancing the mechanical properties of 3DPC, whereas RBP-S demonstrates superior performance in terms of environmental and economic benefits. This study presents novel viewpoints on leveraging RBP for low-carbon applications and optimizing the performance of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB/">Fresh and Strength Properties of 3D Printable Concrete Mixtures Utilising a High Volume of Sustainable Alternative Binders</a></li>
@@ -108,8 +76,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_krav_besk_lazo.2025.3PoRMfSC/">3D Printing of Recycled Materials for Sustainable Construction:<br/>A Comprehensive Economic and Life Cycle Assessment</a></li>
@@ -117,4 +85,34 @@ tags:
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>
       <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../dong_yuan_chen_jia.2025.PLSESEwUHPC/">Printing Large-Size Eggshell-Shaped Elements with Ultra-High-Performance Concrete:<br/>From Material-Design to Structural Bearing-Capacity-Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jia_niu_dong_jian.2024.OSfIRBPi3PCbBLCFaEP,
+      author            = "Lutao Jia and Geng Niu and Enlai Dong and Yifan Jiang and Xianggang Wang and Zijian Jia and Wei Wang and Yueyi Gao and Yamei Zhang",
+      title             = "Optimization-Strategy for Incorporating Recycled Brick-Powder in 3D Printed Concrete by Balancing Low-Carbon Footprint and Enhanced Performance",
+      doi               = "10.1016/j.conbuildmat.2024.137801",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "443",
+      pages             = "137801",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Jia, “Optimization-Strategy for Incorporating Recycled Brick-Powder in 3D Printed Concrete by Balancing Low-Carbon Footprint and Enhanced Performance”, <i>Construction and Building Materials</i>, vol. 443, p. 137801, 2024, doi: 10.1016/j.conbuildmat.2024.137801.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jia, Lutao, Geng Niu, Enlai Dong, Yifan Jiang, Xianggang Wang, Zijian Jia, Wei Wang, Yueyi Gao, and Yamei Zhang. “Optimization-Strategy for Incorporating Recycled Brick-Powder in 3D Printed Concrete by Balancing Low-Carbon Footprint and Enhanced Performance”. <i>Construction and Building Materials</i> 443 (2024): 137801. https://doi.org/10.1016/j.conbuildmat.2024.137801.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

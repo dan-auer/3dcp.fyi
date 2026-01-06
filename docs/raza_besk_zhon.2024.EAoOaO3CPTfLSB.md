@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Raza, Svetlana Besklubova, Ray Zhong
+    - footer
+title: Raza Muhammad, Besklubova Svetlana, Zhong Ray
 description:
 tags:
  - analysis
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Economic Analysis of Offsite and Onsite 3D Construction Printing Techniques for Low-Story Buildings:<br/>:aca-blank: A Comparative Value-Stream-Assessment ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.addma.2024.104292" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104292</a>
+#Economic Analysis of Offsite and Onsite 3D Construction Printing Techniques for Low-Story Buildings&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">A Comparative Value-Stream-Assessment</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104292" target="_blank">10.1016/j.addma.2024.104292</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span><br>
+Journal Article - Additive Manufacturing, No. 104292
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> <a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> <a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104292
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#comparision`](keyword/comparision)
-    [`#construction`](keyword/construction)
-    [`#economic`](keyword/economic)
-    [`#low`](keyword/low)
-    [`#offsite`](keyword/offsite)
-    [`#onsite`](keyword/onsite)
-    [`#print`](keyword/print)
-    [`#technique`](keyword/technique)
-    [`#value`](keyword/value)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/offsite"><button class="btn">#offsite</button></a> <a href="../../keyword/onsite"><button class="btn">#onsite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/value"><button class="btn">#value</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Economic%20Analysis%20of%20Offsite%20and%20Onsite%203D%20Construction%20Printing%20Techniques%20for%20Low-Story%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198263391&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400379360" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104292" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104292?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In comparison with traditional construction, 3D construction printing (3DCP) has the potential to be cost-effective due to its shorter supply chain and higher level of automation. Previous studies suggested that offsite 3DCP can be more capital-intensive than onsite 3DCP. Thus, there is a need for comprehensive research on the comparative economic analysis of offsite and onsite 3DCP techniques. Therefore, this study aims to investigate the overall construction cost of both techniques. In this regard, the Value stream assessment technique has been used to map the current state of the material flow from the supplier to the construction site. For the detailed cost analysis, mathematical models have been developed that consider transportation, warehousing, setup installation, printing, onsite assembly, and environmental costs based on the current state of Value stream mapping (VSM). The feasibility and practicality of the developed models have been validated through real-time case studies. Results from the cost breakdown analysis and cost based VSM show that offsite 3D printing leads to higher construction costs due to the significant contribution of warehousing costs for pre-printed components and the cost of assembling them. Cost based value stream assessment depicts that offsite and onsite 3DCP have a significant amount of non-value added cost (284.26 €/tonne and 199.05 €/tonne, respectively) and offer more space for process improvement. However, sensitivity analysis revealed that offsite 3DCP has the potential to reduce the transportation cost for small-scale projects involving low volume (<130 tonnes) of construction materials. Onsite 3D printing can be a feasible option for relatively larger projects due to its lower transportation, warehousing and construction costs. The findings of this research offer the construction industry a strategic roadmap to achieve cost-effectiveness and efficiency in construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
@@ -102,8 +78,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yang_hongxiong"><b>Yang</b> Hongxiong</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>, <a href="../../../author/chen_yuhong"><b>Chen</b> Yuhong</a>, <a href="../../../author/li_yijia"><b>Li</b> Yijia</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../yang_chun_chen_li.2018.TCCMoC3PAwIoT/">The Cost Calculation Method of Construction 3D Printing Aligned with Internet of Things</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>
       <li><a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b> Anies</a>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b> Leyla</a>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b> Reham</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../gnan_more_thab_rang.2026.CAoOVO3PiC/">Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction:<br/>Benefits, Challenges, and Case Studies</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
@@ -116,4 +92,33 @@ tags:
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW/">Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../raza_besk_zhon.2024.CEVSAoOSaOS3CPP/">Comparative Environmental Value-Stream-Assessment of Off-Site and On-Site 3D Construction Printing Processes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raza_besk_zhon.2024.EAoOaO3CPTfLSB,
+      author            = "Muhammad Huzaifa Raza and Svetlana Besklubova and Ray Y. Zhong",
+      title             = "Economic Analysis of Offsite and Onsite 3D Construction Printing Techniques for Low-Story Buildings: A Comparative Value-Stream-Assessment",
+      doi               = "10.1016/j.addma.2024.104292",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104292",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. H. Raza, S. Besklubova and R. Y. Zhong, “Economic Analysis of Offsite and Onsite 3D Construction Printing Techniques for Low-Story Buildings: A Comparative Value-Stream-Assessment”, <i>Additive Manufacturing</i>, p. 104292, 2024, doi: 10.1016/j.addma.2024.104292.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raza, Muhammad Huzaifa, Svetlana Besklubova, and Ray Y. Zhong. “Economic Analysis of Offsite and Onsite 3D Construction Printing Techniques for Low-Story Buildings: A Comparative Value-Stream-Assessment”. <i>Additive Manufacturing</i>, 2024, 104292. https://doi.org/10.1016/j.addma.2024.104292.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

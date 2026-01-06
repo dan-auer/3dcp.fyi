@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amaal Shenawa, Poonam Karoti
+    - footer
+title: Shenawa Amaal, Karoti Poonam
 description:
 tags:
  - characteristic
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://ieomsociety.org/proceedings/2023houston/272.pdf) 3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review ([2023-06](date/2023/06))
-<a href="https://doi.org/10.46254/na8.20230272" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.46254/na8.20230272</a>
+#3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://ieomsociety.org/proceedings/2023houston/272.pdf) <a href="https://doi.org/10.46254/na8.20230272" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.46254/na8.20230272" target="_blank">10.46254/na8.20230272</a>
 
--------------------------
+<a href="../../../author/shenawa_amaal"><b>al&nbsp;Shenawa</b>&nbsp;Amaal</a></span>, <a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b>&nbsp;Poonam</a></span><br>
+Contribution - Proceedings of the International Conference on Industrial Engineering and Operations Management
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shenawa_amaal"><b>al Shenawa</b> Amaal</a>
-,     <a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b> Poonam</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the International Conference on Industrial Engineering and Operations Management, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#construction`](keyword/construction)
-    [`#mixture`](keyword/mixture)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#strength`](keyword/strength)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Construction%2C%20Mixture%20Characteristics%2C%20Strength%2C%20and%20Thermal%20Performance-Review" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387037518" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.46254/na8.20230272" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.46254/na8.20230272?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     All industries have embraced three dimensions printing, which is shown to offer several advantages. This article examines the use of 3D printing in the construction industry. Concrete is the primary component when using 3D printing in a building; reinforcements are either seldom employed or not used at all. Although having many advantages, this building approach has some drawbacks. The substance utilized to make the printable paste combination is currently being researched because this is a novel technology. To meet the needs of 3D printing, material use, and mixing proportions have considerably different qualities from those of conventional building methods. As a fundamental need, three-dimensional printed concrete(3DPC) demands that an object be printed, buildable, resilient, and consistent. Knowing that 3D printing seldom uses reinforcement to increase strength, durability, or stability is crucial. This article offers a concise overview of all the applications, difficulties, and prospects for 3DPC. The article starts out with defining 3D printing before going on to discuss its prerequisites and challenges. It also examines the fundamentals of 3D printing in concrete, including its background, uses, and advantages. In this article, printing techniques and materials are thoroughly examined, and a material that is optimum for sustainability is suggested.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -95,7 +75,35 @@ tags:
       <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sunt_gath_upas_pool.2021.FPoI3PCCWP/">Fire Performance of Innovative 3D Printed Concrete Composite Wall Panels:<br/>A Numerical Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{shen_karo.2023.3PiCMCSaTPR,
+      author            = "Amaal Al Shenawa and Poonam Mahadev Karoti",
+      title             = "3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review",
+      doi               = "10.46254/na8.20230272",
+      year              = "2023",
+      booktitle         = "Proceedings of the International Conference on Industrial Engineering and Operations Management",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. A. Shenawa  and P. M. Karoti, “3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review”,  2023. doi: 10.46254/na8.20230272.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shenawa, Amaal Al, and Poonam Mahadev Karoti. “3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review”. In <i>Proceedings of the International Conference on Industrial Engineering and Operations Management</i>, 2023. https://doi.org/10.46254/na8.20230272.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

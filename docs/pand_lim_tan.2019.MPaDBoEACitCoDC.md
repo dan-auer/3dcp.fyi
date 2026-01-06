@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Biranchi Panda, Jian Lim, Ming Tan
+    - footer
+title: Panda Biranchi, Lim Jian, Tan Ming
 description:
 tags:
  - age
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/140514/2/PANDA%20Mechanical%20properties%20and%20deformation%20behaviour%20of%20early%20age%20concrete%20in%20the%20context%20of%20digital%20construction.pdf) Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/j.compositesb.2019.02.040" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2019.02.040</a>
+#Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction ([2019-02](date/2019/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/140514/2/PANDA%20Mechanical%20properties%20and%20deformation%20behaviour%20of%20early%20age%20concrete%20in%20the%20context%20of%20digital%20construction.pdf) <a href="https://doi.org/10.1016/j.compositesb.2019.02.040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2019.02.040" target="_blank">10.1016/j.compositesb.2019.02.040</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8424-5624" title="ORCID: 0000-0002-8424-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_hui_jian"><b>Lim</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 165, pp. 563-571
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a> <a href="https://orcid.org/0000-0002-8424-5624" title="ORCID: 0000-0002-8424-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 165, pp. 563-571
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#deformation`](keyword/deformation)
-    [`#digital`](keyword/digital)
-    [`#early`](keyword/early)
-    [`#mechanics`](keyword/mechanics)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Deformation%20Behavior%20of%20Early-Age%20Concrete%20in%20the%20Context%20of%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85061537918&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2914766023" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2019.02.040" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2019.02.040?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital construction is gradually opening unlimited possibilities for building and concrete industry. The key secret for a robust print process lies in our understanding of the processing technology and material fresh properties, in addition to developing novel measurement and control techniques. This paper aims to gain a better understanding of early age mechanical properties of 3D printable materials and improve it for the requirement of large scale concrete printing. Experimental investigations were carried out to measure green strength and stiffness of fresh fly ash-cement mortar with applied 3D optical metrology. The compressive green strength was linked with material yield strength evolution and later, modified with nanoclay for higher buildability properties. Nanoclay addition deceased the layer deformation due to significant increase in Young's modulus and to estimate this uncontrolled deformation, a mathematical function was formulated, which subsequently validated by comparison to printing experiments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
@@ -92,8 +70,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "234 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
@@ -329,4 +307,34 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pand_lim_tan.2019.MPaDBoEACitCoDC,
+      author            = "Biranchi Narayan Panda and Jian Hui Lim and Ming Jen Tan",
+      title             = "Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction",
+      doi               = "10.1016/j.compositesb.2019.02.040",
+      year              = "2019",
+      journal           = "Composites Part B: Engineering",
+      volume            = "165",
+      pages             = "563--571",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. N. Panda, J. H. Lim and M. J. Tan, “Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction”, <i>Composites Part B: Engineering</i>, vol. 165, pp. 563–571, 2019, doi: 10.1016/j.compositesb.2019.02.040.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Panda, Biranchi Narayan, Jian Hui Lim, and Ming Jen Tan. “Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction”. <i>Composites Part B: Engineering</i> 165 (2019): 563–71. https://doi.org/10.1016/j.compositesb.2019.02.040.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

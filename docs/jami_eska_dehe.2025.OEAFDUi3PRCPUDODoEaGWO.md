@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vahid Jamifar, Hamid Eskandari‐Naddaf, Mehdi Dehestani
+    - footer
+title: Jamifar Vahid, Eskandari‐Naddaf Hamid, Dehestani Mehdi
 description:
 tags:
  - cement
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1002/suco.70357" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.70357</a>
+#Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.70357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70357" target="_blank">10.1002/suco.70357</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9156-6103" title="ORCID: 0000-0001-9156-6103" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jamifar_vahid"><b>Jamifar</b>&nbsp;Vahid</a></span>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b>&nbsp;Hamid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dehestani_mehdi"><b>Dehestani</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a> <a href="https://orcid.org/0000-0001-9156-6103" title="ORCID: 0000-0001-9156-6103" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>
-,     <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#experiment`](keyword/experiment)
-    [`#furnace`](keyword/furnace)
-    [`#optimization`](keyword/optimization)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Electric%20Arc%20Furnace%20Dust%20Utilization%20in%203D%20Printed%20Reinforced%20Cement%20Paste%20Using%20D%E2%80%90Optimal%20Design%20of%20Experiments%20and%20Gray%20Wolf%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019376899&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415413160" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.70357" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.70357?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the potential for maximizing the substitution of cement with electric arc furnace dust (EAFD) and carbon fibers in the development of 3D slag cement (3DSC). Utilizing two optimization methods, the research aims to determine the optimal proportions of EAFD, water-to-binder ratio (W/B), and carbon fiber to achieve higher compressive strengths while maximizing the utilization of EAFD. Initially, experimental data on the compressive strengths of 3DSC at 28 and 365 days of curing through the design of expert (D-optimal), were analyzed using a Scheffe polynomial model, which accurately represents the compressive strengths at specified curing times with approximately 98% precision. Statistical assessment of the models was conducted through analysis of variance (ANOVA) and residual analysis for validation. Then, the Gray Wolf Optimization (GWO) algorithm, implemented through mathematical models in MATLAB code with identical parameters, enhances the results of response surface methodology (RSM). The iterative process of seeking the optimal solution is characterized by a hunting cycle, continuing until the optimal solution is attained or after 10 iterations. The results indicated that achieving the highest compressive strength with maximum slag utilization requires a mixture of 5% EAFD, 30% W/B, and 1.2% carbon fiber volume. Other mixtures were also suggested for more efficient utilization of waste materials with slightly lower strength. Both optimization software identified an optimal mixture resulting in compressive strengths of approximately 65 N/mm2 at 28 days and 82.71 N/mm2 at 365 days, comprising 5 wt% EAFD, 1.2 vol% carbon fiber, and 0.35 water-to-cement ratio. Furthermore, the study confirmed the efficacy of the GWO-RSM synergy, with GWO demonstrating superior predictive and optimization performance in certain models, reflected by an error percentage of 1%. The comparative analysis indicated that all optimization responses provided by GWO, in comparison to experimental outcomes, exhibited a mean error of less than 6%. It is found that EAFD can be a significant contributor in both the construction industry and in stabilizing hazardous by-products, while also achieving optimal incorporation of EAFD in cement paste to maintain or even increase its compressive strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>, <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>, <a href="../../../author/haddaji_badreddine"><b>Haddaji</b> Badreddine</a>, <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arre_fabi_hadd_chat.2023.RoAi3PToCM/">Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>Key Printing Parameters and Properties Characterization</a></li>
       <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -89,7 +67,35 @@ tags:
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO,
+      author            = "Vahid Jamifar and Hamid Eskandari‐Naddaf and Mehdi Dehestani",
+      title             = "Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization",
+      doi               = "10.1002/suco.70357",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Jamifar, H. Eskandari‐Naddaf and M. Dehestani, “Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.70357.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jamifar, Vahid, Hamid Eskandari‐Naddaf, and Mehdi Dehestani. “Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.70357.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

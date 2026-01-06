@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiwei Weng, Shaoqin Ruan, Mingyang Li, Liwu Mo, Cise Unluer, Ming Tan, Shunzhi Qian
+    - footer
+title: Weng Yiwei, Ruan Shaoqin, Li Mingyang, Mo Liwu, Unluer Cise, Tan Ming, Qian Shunzhi
 description:
 tags:
  - cement
@@ -14,33 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/140134/2/Manuscript_MKPC_cbm-28%20April.pdf) Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2019.05.053" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2019.05.053</a>
+#Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing ([2019-06](date/2019/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/140134/2/Manuscript_MKPC_cbm-28%20April.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2019.05.053" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.05.053" target="_blank">10.1016/j.conbuildmat.2019.05.053</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6172-9247" title="ORCID: 0000-0002-6172-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruan_shaoqin"><b>Ruan</b>&nbsp;Shaoqin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/mo_liwu"><b>Mo</b>&nbsp;Liwu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unluer_cise"><b>Unluer</b>&nbsp;Cise</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 221, pp. 595-603
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a> <a href="https://orcid.org/0000-0002-6172-9247" title="ORCID: 0000-0002-6172-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a>
-,     <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 221, pp. 595-603
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#feasibility`](keyword/feasibility)
-    [`#magnesium`](keyword/magnesium)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Study%20on%20Sustainable-Magnesium-Potassium-Phosphate%20Cement-Paste%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067406310&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2951456065" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2019.05.053" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2019.05.053?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious materials is an innovative and promising approach in the construction sector, attracting much attention over the past few years. Use of waste cementitious materials in the production of 3D printable components increases the sustainability and cost-effectiveness of this process. This work proposes an environmentally friendly 3D printable cementitious material involving the use of magnesium potassium phosphate cement (MKPC) with various ratios of fly ash replacement ranging from 0 to 60 wt% to increase the working time of the binder. Silica fume was used at up to 10 wt% to adjust rheological and mechanical properties. The performance of the developed MKPC binders with different formulations in the context of 3D printing was assessed via a detailed investigation of the workability, extrudability, buildability, compressive strength, porosity and microstructural analysis. Amongst the mixtures studied, the optimum MKPC formulation involving 60 wt% fly ash and 10 wt% silica fume with a borax-to-magnesia ratio of 1:4 was selected for a small-scale printing demonstration in line with its rheological and mechanical properties. Finally, a 20-layer component with a height of 180 mm was printed in 5 min to demonstrate the feasibility of the adopted mixture in 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -87,8 +64,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "76 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
@@ -166,4 +143,34 @@ tags:
       <li><a href="../../../author/khalil_abdullah"><b>Khalil</b> Abdullah</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../khal_wang_celi.2020.3PMOC/">3D Printable Magnesium Oxide Concrete:<br/>Towards Sustainable Modern Architecture</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../pand_unlu_tan.2019.EaRCoGNUi3P/">Extrusion and Rheology Characterization of Geopolymer Nanocomposites Used in 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{weng_ruan_li_mo.2019.FSoSMPPCPf3P,
+      author            = "Yiwei Weng and Shaoqin Ruan and Mingyang Li and Liwu Mo and Cise Unluer and Ming Jen Tan and Shunzhi Qian",
+      title             = "Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2019.05.053",
+      year              = "2019",
+      journal           = "Construction and Building Materials",
+      volume            = "221",
+      pages             = "595--603",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Weng, “Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing”, <i>Construction and Building Materials</i>, vol. 221, pp. 595–603, 2019, doi: 10.1016/j.conbuildmat.2019.05.053.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weng, Yiwei, Shaoqin Ruan, Mingyang Li, Liwu Mo, Cise Unluer, Ming Jen Tan, and Shunzhi Qian. “Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing”. <i>Construction and Building Materials</i> 221 (2019): 595–603. https://doi.org/10.1016/j.conbuildmat.2019.05.053.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

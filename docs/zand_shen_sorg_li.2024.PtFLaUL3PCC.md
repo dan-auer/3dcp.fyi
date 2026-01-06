@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peyman Zandifaez, Zhenglai Shen, Reese Sorgenfrei, Yucen Li, Daniel Costa, Hongyu Zhou
+    - footer
+title: Zandifaez Peyman, Shen Zhenglai, Sorgenfrei Reese, Li Yucen, Costa Daniel, Zhou Hongyu
 description:
 tags:
  - cement
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.135874" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.135874</a>
+#Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135874" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135874" target="_blank">10.1016/j.conbuildmat.2024.135874</a>
 
--------------------------
+<a href="../../../author/zandifaez_peyman"><b>Zandifaez</b>&nbsp;Peyman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7037-2454" title="ORCID: 0000-0002-7037-2454" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shen_zhenglai"><b>Shen</b>&nbsp;Zhenglai</a></span>, <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b>&nbsp;Reese</a></span>, <a href="../../../author/li_yucen"><b>Li</b>&nbsp;Yucen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2950-2237" title="ORCID: 0000-0002-2950-2237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_dias_daniel"><b>da&nbsp;Costa</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 424, No. 135874
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>
-,     <a href="../../../author/shen_zhenglai"><b>Shen</b> Zhenglai</a> <a href="https://orcid.org/0000-0002-7037-2454" title="ORCID: 0000-0002-7037-2454" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>
-,     <a href="../../../author/li_yucen"><b>Li</b> Yucen</a>
-,     <a href="../../../author/costa_dias_daniel"><b>da Costa</b> Daniel</a> <a href="https://orcid.org/0000-0002-2950-2237" title="ORCID: 0000-0002-2950-2237" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 424, No. 135874
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#formulas`](keyword/formulas)
-    [`#light`](keyword/light)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pathways%20to%20Formulate%20Lightweight%20and%20Ultra-Lightweight%203D%20Printable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188654624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393123101" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.135874" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.135874?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper studies the pathways to formulate lightweight and ultra-lightweight 3D printable cementitious composites. A hybrid approach was proposed by combining the advantages of traditional chemical-induced foaming (foaming approach) and lightweight particulate inclusions (synthetic foam approach). A comprehensive experimental program was conducted to evaluate the effects of foaming agents and fly ash cenosphere (FAC) on the printability, microstructure, mechanical and thermal properties of 3D printed samples. The results showed that the hybrid approach could produce a mixture with a density as low as 470 kg/m3 while ensuring good flowability and buildability owing to the lubricating effect of foaming and supporting skeleton formed by FAC. In addition, a three-step homogenization procedure was also developed to predict the effective elastic modulus and thermal conductivity of 3D printable cementitious composites and cementitious foam. The findings of the study highlighted the effectiveness of the hybrid approach in formulating 3D printable ultra-lightweight cementitious composites in thermal insulation and acoustic applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -94,8 +73,8 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bajw_sama_flem_bao.2025.ASLRotTBoBECT3CP3/">A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP)</a></li>
@@ -103,4 +82,34 @@ tags:
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/yu_yang"><b>Yu</b> Yang</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_jian_zhao_yu.2025.PDPLaLCC3P/">Porous Diatomite Promotes Lightweight and Low-Carbon Concrete 3D Printing:<br/>An Exploratory Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zand_shen_sorg_li.2024.PtFLaUL3PCC,
+      author            = "Peyman Zandifaez and Zhenglai Shen and Reese Sorgenfrei and Yucen Li and Daniel Dias da Costa and Hongyu Zhou",
+      title             = "Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites",
+      doi               = "10.1016/j.conbuildmat.2024.135874",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "424",
+      pages             = "135874",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Zandifaez, Z. Shen, R. Sorgenfrei, Y. Li, D. D. da Costa and H. Zhou, “Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites”, <i>Construction and Building Materials</i>, vol. 424, p. 135874, 2024, doi: 10.1016/j.conbuildmat.2024.135874.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zandifaez, Peyman, Zhenglai Shen, Reese Sorgenfrei, Yucen Li, Daniel Dias da Costa, and Hongyu Zhou. “Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites”. <i>Construction and Building Materials</i> 424 (2024): 135874. https://doi.org/10.1016/j.conbuildmat.2024.135874.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

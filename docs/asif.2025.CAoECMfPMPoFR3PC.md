@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Usama Asif
+    - footer
+title: Asif Usama
 description:
 tags:
  - analysis
@@ -20,33 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s41062-025-02057-z.pdf) Comparative Analysis of Evolutionary Computational Methods for Predicting Mechanical Properties of Fiber-Reinforced 3D Printed Concrete ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/s41062-025-02057-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41062-025-02057-z</a>
+#Comparative Analysis of Evolutionary Computational Methods for Predicting Mechanical Properties of Fiber-Reinforced 3D Printed Concrete ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41062-025-02057-z.pdf) <a href="https://doi.org/10.1007/s41062-025-02057-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-02057-z" target="_blank">10.1007/s41062-025-02057-z</a>
 
--------------------------
+<a href="../../../author/asif_usama"><b>Asif</b>&nbsp;Usama</a></span><br>
+Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/asif_usama"><b>Asif</b> Usama</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#comparision`](keyword/comparision)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20Evolutionary%20Computational%20Methods%20for%20Predicting%20Mechanical%20Properties%20of%20Fiber-Reinforced%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006830182&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410826842" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41062-025-02057-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41062-025-02057-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, Gene Expression Programming (GEP) and Multi-Expression Programming (MEP) were employed to predict the compressive strength (C-S) and flexural strength (F-S) of 3D-printed fiber-reinforced concrete (FR-3DPC). A comprehensive literature database consisting of 299 data points for C-S and 200 for F-S was compiled for model training. The models were evaluated using various statistical metrics, with MEP demonstrating superior predictive performance, achieving high ­R2 values of 0.96 for C-S and 0.98 for F-S. To further interpret the model predictions, SHapley Additive exPlanations (SHAP), feature contribution score (FCS), and sensitivity analysis were conducted. The results from all three methods consistently highlighted the water-to-cement ratio, fiber content, loading direction, and cement content as the most influential factors affecting strength prediction. Additionally, a user-friendly Graphical User Interface (GUI) was developed for practical application. In conclusion, predictive equations derived from evolutionary programming, along with GUI incorporating diverse fiber types and loading directions, enhance the efficiency of 3D printing processes in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -104,7 +81,37 @@ tags:
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{asif.2025.CAoECMfPMPoFR3PC,
+      author            = "Usama Asif",
+      title             = "Comparative Analysis of Evolutionary Computational Methods for Predicting Mechanical Properties of Fiber-Reinforced 3D Printed Concrete",
+      doi               = "10.1007/s41062-025-02057-z",
+      year              = "2025",
+      journal           = "Innovative Infrastructure Solutions",
+      volume            = "10",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Asif, “Comparative Analysis of Evolutionary Computational Methods for Predicting Mechanical Properties of Fiber-Reinforced 3D Printed Concrete”, <i>Innovative Infrastructure Solutions</i>, vol. 10, no. 6, 2025, doi: 10.1007/s41062-025-02057-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Asif, Usama. “Comparative Analysis of Evolutionary Computational Methods for Predicting Mechanical Properties of Fiber-Reinforced 3D Printed Concrete”. <i>Innovative Infrastructure Solutions</i> 10, no. 6 (2025). https://doi.org/10.1007/s41062-025-02057-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

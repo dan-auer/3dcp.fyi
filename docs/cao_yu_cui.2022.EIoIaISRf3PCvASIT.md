@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangpeng Cao, Shiheng Yu, Hongzhi Cui
+    - footer
+title: Cao Xiangpeng, Yu Shiheng, Cui Hongzhi
 description:
 tags:
  - automation
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/12/4/2099/pdf?version=1645097250) Experimental Investigation on Inner- and Inter-Strip Reinforcements for 3D Printed Concrete via Automatic Staple Inserting Technique ([2022-02](date/2022/02))
-<a href="https://doi.org/10.3390/app12042099" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app12042099</a>
+#Experimental Investigation on Inner- and Inter-Strip Reinforcements for 3D Printed Concrete via Automatic Staple Inserting Technique ([2022-02](date/2022/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/12/4/2099/pdf?version=1645097250) <a href="https://doi.org/10.3390/app12042099" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app12042099" target="_blank">10.3390/app12042099</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/yu_shiheng"><b>Yu</b>&nbsp;Shiheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span><br>
+Journal Article - Applied Sciences, Vol. 12, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a> <a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>
-,     <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 12, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#insertion`](keyword/insertion)
-    [`#inter`](keyword/inter)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#staples`](keyword/staples)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/insertion"><button class="btn">#insertion</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/staples"><button class="btn">#staples</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigation%20on%20Inner-%20and%20Inter-Strip%20Reinforcements%20for%203D%20Printed%20Concrete%20via%20Automatic%20Staple%20Inserting%20Technique" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125794986&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4212970580" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app12042099" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app12042099?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Lack of reinforcements is an existing drawback of 3D printed cementitious components, which is an urgent concern. A staple-inserting apparatus was developed and installed on a 3D printer and automatically fabricated 3D printed and staple-reinforced components with 98% successful insertion to achieve inner- and inter-reinforcement of the printed strips. The inserted staples inside the printed strips improved the compressive strength by 25% maximum owing to the inner locking effect by the staple pins, while the flexural strength did not increase because the scattered staples functioned separately. The staples over the strip interfaces remarkably increased the flexural stress by 46–120%. The inserted staples demonstrated a significant strip locking effect, but the unavoidable voids decreased the bonding between staples and the composite. The mechanical analysis concluded that the printing parameters considerably affected the reinforcing rate. The staple inserting technique proved the feasibility of automatic fabrication of fiber-reinforced and printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
@@ -118,8 +95,8 @@ tags:
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../xu_savi.2019.DoSHCCSRw3PPR/">Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement:<br/>Mechanical Properties</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shukla_kant_bishnu"><b>Shukla</b> Bishnu</a>, <a href="../../../author/bharti_gaurav"><b>Bharti</b> Gaurav</a>, <a href="../../../author/parashar_bhupender"><b>Parashar</b> Bhupender</a>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b> Pushpendra</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../shuk_bhar_para_shar.2025.VItPo3CPfSC/">Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction:<br/>Current Status and Future Prospects</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
@@ -130,4 +107,34 @@ tags:
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_yuanhong"><b>Li</b> Yuanhong</a>, <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/huang_mingyang"><b>Huang</b> Mingyang</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../cui_li_cao_huan.2022.ESo3CPCBotBE/">Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_yu_cui.2022.EIoIaISRf3PCvASIT,
+      author            = "Xiangpeng Cao and Shiheng Yu and Hongzhi Cui",
+      title             = "Experimental Investigation on Inner- and Inter-Strip Reinforcements for 3D Printed Concrete via Automatic Staple Inserting Technique",
+      doi               = "10.3390/app12042099",
+      year              = "2022",
+      journal           = "Applied Sciences",
+      volume            = "12",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Cao, S. Yu and H. Cui, “Experimental Investigation on Inner- and Inter-Strip Reinforcements for 3D Printed Concrete via Automatic Staple Inserting Technique”, <i>Applied Sciences</i>, vol. 12, no. 4, 2022, doi: 10.3390/app12042099.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Xiangpeng, Shiheng Yu, and Hongzhi Cui. “Experimental Investigation on Inner- and Inter-Strip Reinforcements for 3D Printed Concrete via Automatic Staple Inserting Technique”. <i>Applied Sciences</i> 12, no. 4 (2022). https://doi.org/10.3390/app12042099.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

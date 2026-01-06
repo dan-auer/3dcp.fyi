@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gintautas Skripkiūnas, Aigerim Tolegenova, Lyudmyla Rishko, Kenzhebek Akmalaiuly, Daiva Baltuškiene
+    - footer
+title: Skripkiūnas Gintautas, Tolegenova Aigerim, Rishko Lyudmyla, Akmalaiuly Kenzhebek, Baltuškiene Daiva
 description:
 tags:
  - concrete
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1155/adce/8592029) Durability and Cracking Defects in 3D-Printed Concrete ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1155/adce/8592029" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1155/adce/8592029</a>
+#Durability and Cracking Defects in 3D-Printed Concrete ([2025-03](date/2025/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1155/adce/8592029) <a href="https://doi.org/10.1155/adce/8592029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/adce/8592029" target="_blank">10.1155/adce/8592029</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6717-1619" title="ORCID: 0000-0002-6717-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skripkiunas_gintautas"><b>Skripkiūnas</b>&nbsp;Gintautas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1312-4101" title="ORCID: 0000-0003-1312-4101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tolegenova_aigerim"><b>Tolegenova</b>&nbsp;Aigerim</a></span>, <a href="../../../author/rishko_lyudmyla"><b>Rishko</b>&nbsp;Lyudmyla</a></span>, <a href="../../../author/akmalaiuly_kenzhebek"><b>Akmalaiuly</b>&nbsp;Kenzhebek</a></span>, <a href="../../../author/baltuskiene_daiva"><b>Baltuškiene</b>&nbsp;Daiva</a></span><br>
+Journal Article - Advances in Civil Engineering, Vol. 2025, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skripkiunas_gintautas"><b>Skripkiūnas</b> Gintautas</a> <a href="https://orcid.org/0000-0002-6717-1619" title="ORCID: 0000-0002-6717-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tolegenova_aigerim"><b>Tolegenova</b> Aigerim</a> <a href="https://orcid.org/0000-0003-1312-4101" title="ORCID: 0000-0003-1312-4101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rishko_lyudmyla"><b>Rishko</b> Lyudmyla</a>
-,     <a href="../../../author/akmalaiuly_kenzhebek"><b>Akmalaiuly</b> Kenzhebek</a>
-,     <a href="../../../author/baltuskiene_daiva"><b>Baltuškiene</b> Daiva</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Civil Engineering, Vol. 2025, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#defect`](keyword/defect)
-    [`#durability`](keyword/durability)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Durability%20and%20Cracking%20Defects%20in%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000701932&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408283485" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1155/adce/8592029" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1155/adce/8592029?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article explores the durability and cracking defects associated with 3D-printed concrete, a rapidly emerging technology in construction. As the demand for innovative building techniques grows, understanding the long-term performance of 3D-printed structures becomes crucial. The most important properties of these products are the resistance to freezing and thawing and the possibility of cracking during maintenance. A fine-grained concrete mixture with expanded perlite additive was tested on strength, freezing–thawing resistance, and the reasons for cracking were analyzed during maintenance. Some differences between the results from standard concrete specimens and the results from 3D-printed concrete were obtained experimentally. During the research, 3D-printed concrete specimens were produced with industrial equipment, the density and compressive strength were determined, the mass loss of concrete specimens after freeze/thaw cycles was tested. By reducing the water-to-cement ratio to 11%, the strength of concrete with expanded perlite additive increased from 68.2 to 71.1 MPa. For concrete with W/C equal to 0.47 after 28 freeze/ thaw cycles, the mass loss of 3D-printed specimens reaches 2.09 and 56 freeze/thaw cycles 9.17 kg/m2, and large surface defects were obtained. An analysis of the origin and recommendations for preventing cracks from occurring in 3D-printed products were carried out. The findings underscore the need for optimized mix designs and printing parameters to enhance durability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a>, <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../dvor_marc_mroz_maro.2024.EEMSf3T/">Energy-Efficient Mixtures Suitable for 3D Technologies</a></li>
@@ -81,8 +61,38 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{skri_tole_rish_akma.2025.DaCDi3PC,
+      author            = "Gintautas Skripkiūnas and Aigerim Tolegenova and Lyudmyla Rishko and Kenzhebek Akmalaiuly and Daiva Baltuškiene",
+      title             = "Durability and Cracking Defects in 3D-Printed Concrete",
+      doi               = "10.1155/adce/8592029",
+      year              = "2025",
+      journal           = "Advances in Civil Engineering",
+      volume            = "2025",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Skripkiūnas, A. Tolegenova, L. Rishko, K. Akmalaiuly and D. Baltuškiene, “Durability and Cracking Defects in 3D-Printed Concrete”, <i>Advances in Civil Engineering</i>, vol. 2025, no. 1, 2025, doi: 10.1155/adce/8592029.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skripkiūnas, Gintautas, Aigerim Tolegenova, Lyudmyla Rishko, Kenzhebek Akmalaiuly, and Daiva Baltuškiene. “Durability and Cracking Defects in 3D-Printed Concrete”. <i>Advances in Civil Engineering</i> 2025, no. 1 (2025). https://doi.org/10.1155/adce/8592029.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harald Kloft, Martin Empelmann, Norman Hack, Eric Herrmann, Dirk Lowke
+    - footer
+title: Kloft Harald, Empelmann Martin, Hack Norman, Herrmann Eric, Lowke Dirk
 description:
 tags:
  - concrete
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Strategies for the Reinforcement for 3D-Concrete-Printing ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1002/best.202000032" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/best.202000032</a>
+#Strategies for the Reinforcement for 3D-Concrete-Printing ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202000032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202000032" target="_blank">10.1002/best.202000032</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3265-3263" title="ORCID: 0000-0002-3265-3263" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/empelmann_martin"><b>Empelmann</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <a href="../../../author/herrmann_eric"><b>Herrmann</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 8, pp. 607-616
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a> <a href="https://orcid.org/0000-0002-3265-3263" title="ORCID: 0000-0002-3265-3263" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 8, pp. 607-616
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strategies%20for%20the%20Reinforcement%20for%203D-Concrete-Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85087631360&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,23 +34,17 @@ tags:
 <a href="https://inciteful.xyz/p/W3039877913" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/best.202000032" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/best.202000032?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In its beginnings, reinforced concrete construction was associated with ingenious, material-saving constructions, designed from the understanding of the congenial interaction of the two materials concrete and steel. Today, reinforced concrete is the most widely used material in the construction industry. The use of system formwork and easy-to-install surface reinforcement promotes building structures that are optimized in terms of labour costs but often make inefficient use of materials. In this context, Stefan Polónyi has repeatedly criticized engineers' lack of understanding of the interaction between concrete and reinforcement. With concrete 3D printing, a digital production technology is available that enables new design freedom in concrete construction while at the same time using materials in a resource-efficient manner. For the integration of reinforcement, there is an opportunity for force flow-controlled guidance in the areas subject to tensile stress. This requires new strategies for the combined additive manufacturing of concrete and reinforcement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
-      <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../freu_mai_lowk.2020.StBPoVISRitS3PP/">Studying the Bond Properties of Vertical Integrated Short Reinforcement in the Shotcrete 3D Printing Process</a></li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../klof_empe_hack_herr.2020.SftRf3CP/">Strategies for the Reinforcement for 3D-Concrete-Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
@@ -77,8 +56,8 @@ tags:
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
       <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../enge_hegg_cla.2025.MAFwC/">Multimodal Automated Fabrication with Concrete:<br/>Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</a></li>
@@ -92,6 +71,36 @@ tags:
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../vasi.2020.AMiCC/">Additive Manufacturing in Concrete Construction:<br/>Current Status</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../plac_schw.2020.DoIAfC3PitCPBoFoAM/">Derivation of Integration Approaches for "Concrete 3D Printing" in the Construction Process Based on Features of Additive Manufacturing</a></li>
-      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../klof_empe_hack_herr.2020.SftRf3CP/">Strategies for the Reinforcement for 3D-Concrete-Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{klof_empe_hack_herr.2020.SftRf3CP,
+      author            = "Harald Kloft and Martin Empelmann and Norman Peter Hack and Eric Herrmann and Dirk Lowke",
+      title             = "Strategies for the Reinforcement for 3D-Concrete-Printing",
+      doi               = "10.1002/best.202000032",
+      year              = "2020",
+      journal           = "Beton- und Stahlbetonbau",
+      volume            = "115",
+      number            = "8",
+      pages             = "607--616",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kloft, M. Empelmann, N. P. Hack, E. Herrmann and D. Lowke, “Strategies for the Reinforcement for 3D-Concrete-Printing”, <i>Beton- und Stahlbetonbau</i>, vol. 115, no. 8, pp. 607–616, 2020, doi: 10.1002/best.202000032.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kloft, Harald, Martin Empelmann, Norman Peter Hack, Eric Herrmann, and Dirk Lowke. “Strategies for the Reinforcement for 3D-Concrete-Printing”. <i>Beton- Und Stahlbetonbau</i> 115, no. 8 (2020): 607–16. https://doi.org/10.1002/best.202000032.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

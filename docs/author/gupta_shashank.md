@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gupta Shashank 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/daneshvar_dana"><b>Daneshvar</b> Dana</a>, <a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dane_rabi_gupt_najm.2024.GFoIBiTCRAM/">Geometric Fidelity of Interlocking Bodies in Two-Component Robotic Additive Manufacturing</a></li>
   <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../prih_gupt_esma_moin.2024.TDBACEbRAM/">Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing</a></li>
   <li><a href="../../../author/ralston_nadia"><b>Ralston</b> Nadia</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rals_gupt_moin.2024.3PoACSBwEaISC/">3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation</a></li>

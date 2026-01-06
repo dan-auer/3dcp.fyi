@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Cynthia Atkinson, Farhad Aslani
+    - footer
+title: Atkinson Cynthia, Aslani Farhad
 description:
 tags:
  - cement
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2023.130961) Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.130961" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.130961</a>
+#Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2023.130961) <a href="https://doi.org/10.1016/j.conbuildmat.2023.130961" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.130961" target="_blank">10.1016/j.conbuildmat.2023.130961</a>
 
--------------------------
+<a href="../../../author/atkinson_d_cynthia"><b>Atkinson</b>&nbsp;Cynthia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 375
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/atkinson_d_cynthia"><b>Atkinson</b> Cynthia</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 375, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#column`](keyword/column)
-    [`#composite`](keyword/composite)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#sensor`](keyword/sensor)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%203D%20Printed%20Columns%20Using%20Self-Sensing%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150187223&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4324143281" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.130961" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.130961?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D concrete printing (3DCP) technique piques the curiosity of several researchers and enterprises. However, there are few systematic investigations into how curing conditions influence the mechanical performance of 3DCP. This study aims to investigate the effect of various steam curing conditions (temperature rise rate, retention capacity, and sustained temperature) on the performance properties of 3D printing concrete materials at various ages of curing. A thorough test comprises macroscopic and microscopic analysis was conducted. In addition, the best conditions for steam curing are established for compressive characteristics in different directions. Then the anisotropy of mechanical properties of printed materials are studied under various curing settings. This study has contributed to the theoretical research on the influence of steam curing conditions on printed components. In addition, the experimental results were used to create two machine learning (ML) models and the beetle antennae search (BAS) technique was utilised. According to test data, the model is carried out to achieve the mechanical performance prediction of steam curing concrete. To automatically find optimal hyperparameters of ML models, the BAS algorithm was proposed, providing a solid guarantee for the rapid construction of the model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
@@ -78,8 +59,8 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/manickavasakam_karnan"><b>Manickavasakam</b> Karnan</a>, <a href="../../../author/huri_a-al_mohammed"><b>Huri</b> Mohammed</a>, <a href="../../../author/kharma_m_khaled"><b>Kharma</b> Khaled</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_huri_khar_hosa.2025.S3PC/">Smart 3D-Printed Concrete:<br/>Recent Advances in Self-Sensing Mix Design and Functional Reinforcements</a></li>
       <li><a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bate_asla.2025.Po3PCCwGRUAC/">Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
@@ -93,4 +74,33 @@ tags:
       <li><a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../roch_fari_luca.2024.AMoEBM/">Additive Manufacturing of Earth-Based Materials:<br/>A Literature Review on Mortar-Composition, Extrusion, and Processing Earth</a></li>
       <li><a href="../../../author/liu_ke"><b>Liu</b> Ke</a>, <a href="../../../author/takasu_koji"><b>Takasu</b> Koji</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/zu_kun"><b>Zu</b> Kun</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../liu_taka_jian_zu.2023.MPo3PCC/">Mechanical Properties of 3D Printed Concrete Components:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{atki_asla.2023.Po3PCUSSCC,
+      author            = "Cynthia D. Atkinson and Farhad Aslani",
+      title             = "Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites",
+      doi               = "10.1016/j.conbuildmat.2023.130961",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "375",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. D. Atkinson  and F. Aslani, “Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites”, <i>Construction and Building Materials</i>, vol. 375, 2023, doi: 10.1016/j.conbuildmat.2023.130961.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Atkinson, Cynthia D., and Farhad Aslani. “Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites”. <i>Construction and Building Materials</i> 375 (2023). https://doi.org/10.1016/j.conbuildmat.2023.130961.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

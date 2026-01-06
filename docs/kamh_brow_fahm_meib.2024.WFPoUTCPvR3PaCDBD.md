@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdallah Kamhawi, Jacob Brown, Ali Fahmy, Mania Meibodi
+    - footer
+title: Kamhawi Abdallah, Brown Jacob, Fahmy Ali, Meibodi Mania
 description:
 tags:
  - bed
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Waste-Free Production of Ultra-Thin Concrete Panels via Robotic 3D Printing and CNC Dynamic Bed Device ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_12</a>
+#Waste-Free Production of Ultra-Thin Concrete Panels via Robotic 3D Printing and CNC Dynamic Bed Device ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_12" target="_blank">10.1007/978-3-031-70031-6_12</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b>&nbsp;Abdallah</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-2224-0355" title="ORCID: 0009-0003-2224-0355" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brown_jacob"><b>Brown</b>&nbsp;Jacob</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9859-160X" title="ORCID: 0009-0004-9859-160X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fahmy_ali"><b>Fahmy</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b>&nbsp;Mania</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 99-106
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a> <a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brown_jacob"><b>Brown</b> Jacob</a> <a href="https://orcid.org/0009-0003-2224-0355" title="ORCID: 0009-0003-2224-0355" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fahmy_ali"><b>Fahmy</b> Ali</a> <a href="https://orcid.org/0009-0004-9859-160X" title="ORCID: 0009-0004-9859-160X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 99-106
-
-:aca-blank:{ .lg .middle}
-    [`#bed`](keyword/bed)
-    [`#cnc`](keyword/cnc)
-    [`#concrete`](keyword/concrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#robot`](keyword/robot)
-    [`#thin`](keyword/thin)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/cnc"><button class="btn">#cnc</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Waste-Free%20Production%20of%20Ultra-Thin%20Concrete%20Panels%20via%20Robotic%203D%20Printing%20and%20CNC%20Dynamic%20Bed%20Device" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203025396&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,28 +39,55 @@ tags:
 <a href="https://inciteful.xyz/p/W4402088672" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_12" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_12?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The production of freeform building panels in concrete is often limited by the fabrication capacity of custom formworks. Creating such formworks is time and labor-intensive as well as wasteful as the formworks are commonly discarded after use. This research develops a novel approach for the production of freeform panels through coupling robotic 3D Concrete Printing (3DCP) and a CNC Dynamic Bed Device (DBD). This enables the production of waste-free, freeform, and highly detailed concrete panels without requiring individualized formwork. The DBD features a composite printing surface made of silicone and a TPU grid, achieving two paradoxical aspects: maximum geometric flexibility while maintaining structural integrity and preventing buckling under the material’s weight in the span between actuating pins. The geometric fidelity of the DBD is verified through a series of laser scans of the bed in convex, concave, complex saddle, and single-curved geometries. The production of complex freeform panels with textures through 3DCP and DBD involved nonplanar print path strategies. This is key in achieving consistent filament deposition and avoiding under/over-extrusion. The results included 5 unique 3DCP freeform panels. Each panel measured 50×50 cm.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../batt_mill_zivk.2019.SA3PoODCCLS/">Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
-      <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a></li>
       <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../lim_weng_pham.2020.3PoCCSUAMF/">3D Printing of Curved Concrete Surfaces Using Adaptable Membrane Formwork</a></li>
       <li><a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mcge_ng_yu_li.2020.ENSfI3oECCES/">Extrusion Nozzle Shaping for Improved 3DP of Engineered Cementitious Composites (ECC-SHCC)</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/gardan_julien"><b>Gardan</b> Julien</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a>, <a href="../../../author/attajer_ali"><b>Attajer</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../gard_hedj_atta.2025.AMiC/">Additive Manufacturing in Construction:<br/>State of the Art and Emerging Trends in Civil Engineering</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kamh_brow_fahm_meib.2024.WFPoUTCPvR3PaCDBD,
+      author            = "Abdallah Kamhawi and Jacob Brown and Ali Fahmy and Mania Aghaei Meibodi",
+      title             = "Waste-Free Production of Ultra-Thin Concrete Panels via Robotic 3D Printing and CNC Dynamic Bed Device",
+      doi               = "10.1007/978-3-031-70031-6_12",
+      year              = "2024",
+      volume            = "53",
+      pages             = "99--106",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kamhawi, J. Brown, A. Fahmy and M. A. Meibodi, “Waste-Free Production of Ultra-Thin Concrete Panels via Robotic 3D Printing and CNC Dynamic Bed Device”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 99–106. doi: 10.1007/978-3-031-70031-6_12.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kamhawi, Abdallah, Jacob Brown, Ali Fahmy, and Mania Aghaei Meibodi. “Waste-Free Production of Ultra-Thin Concrete Panels via Robotic 3D Printing and CNC Dynamic Bed Device”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:99–106, 2024. https://doi.org/10.1007/978-3-031-70031-6_12.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

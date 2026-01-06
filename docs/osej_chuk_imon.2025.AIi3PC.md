@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Samuel Oseji, Prince Chukwuemeka, Okes Imoni
+    - footer
+title: Oseji Samuel, Chukwuemeka Prince, Imoni Okes
 description:
 tags:
  - artificial
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Artificial Intelligence in 3D Printed Concrete:<br/>:aca-blank: Sustainability Assessment and Implementation Challenges ([2025-06](date/2025/06))
-<a href="https://doi.org/10.9734/jmsrr/2025/v8i2421" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.9734/jmsrr/2025/v8i2421</a>
+#Artificial Intelligence in 3D Printed Concrete&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Sustainability Assessment and Implementation Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.9734/jmsrr/2025/v8i2421" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.9734/jmsrr/2025/v8i2421" target="_blank">10.9734/jmsrr/2025/v8i2421</a>
 
--------------------------
+<a href="../../../author/oseji_samuel"><b>Oseji</b>&nbsp;Samuel</a></span>, <a href="../../../author/chukwuemeka_prince"><b>Chukwuemeka</b>&nbsp;Prince</a></span>, <a href="../../../author/imoni_okes"><b>Imoni</b>&nbsp;Okes</a></span><br>
+Journal Article - Journal of Materials Science Research and Reviews, Vol. 8, Iss. 2, pp. 515-528
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/oseji_samuel"><b>Oseji</b> Samuel</a>
-,     <a href="../../../author/chukwuemeka_prince"><b>Chukwuemeka</b> Prince</a>
-,     <a href="../../../author/imoni_okes"><b>Imoni</b> Okes</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Science Research and Reviews, Vol. 8, Iss. 2, pp. 515-528
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#assessment`](keyword/assessment)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#implementation`](keyword/implementation)
-    [`#intelligence`](keyword/intelligence)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Artificial%20Intelligence%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411458337" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.9734/jmsrr/2025/v8i2421" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.9734/jmsrr/2025/v8i2421?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of Artificial Intelligence (AI) into 3D Printed Concrete (3DPC) is reshaping sustainable construction by enabling real-time optimization, automation, and environmental performance gains. Amid escalating climate change, urban growth, and resource constraints, AIenhanced 3DPC offers a pathway to resilient and low-carbon built environments. We examine how machine learning, computer vision, and predictive analytics are transforming 3DPC across material design, process monitoring, and lifecycle assessment. Notably, AI-enabled optimization frameworks have demonstrated up to 60% reductions in material waste and 30% improvements in energy efficiency. We analyze AI-driven advancements in mix proportioning, robotic path planning, and sensor-based quality control, emphasizing how dynamic feedback loops support adaptive manufacturing. Socio-economic implications such as shifts in labor demand and emerging skill requirements are also addressed, underscoring the broader workforce transformation underway in AI-automated construction. Key challenges include limited datasets, opaque algorithmic decisionmaking, integration difficulties in complex site conditions, and high computational costs. To address these, we propose multi-objective optimization strategies, circular economy approaches, and transparent, human-AI collaborative systems. Our findings reveal that fully realizing the sustainability potential of AI in 3DPC depends on interdisciplinary collaboration, interpretable AI models, and forward-thinking policy support. By aligning technological innovation with regulatory frameworks and human expertise, AI-powered 3DPC can serve as a cornerstone for nextgeneration construction enabling greener, faster, and more inclusive infrastructure development worldwide.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
@@ -78,7 +58,38 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{osej_chuk_imon.2025.AIi3PC,
+      author            = "Samuel Oseji and Prince Chukwuemeka and Okes Imoni",
+      title             = "Artificial Intelligence in 3D Printed Concrete: Sustainability Assessment and Implementation Challenges",
+      doi               = "10.9734/jmsrr/2025/v8i2421",
+      year              = "2025",
+      journal           = "Journal of Materials Science Research and Reviews",
+      volume            = "8",
+      number            = "2",
+      pages             = "515--528",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Oseji, P. Chukwuemeka and O. Imoni, “Artificial Intelligence in 3D Printed Concrete: Sustainability Assessment and Implementation Challenges”, <i>Journal of Materials Science Research and Reviews</i>, vol. 8, no. 2, pp. 515–528, 2025, doi: 10.9734/jmsrr/2025/v8i2421.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oseji, Samuel, Prince Chukwuemeka, and Okes Imoni. “Artificial Intelligence in 3D Printed Concrete: Sustainability Assessment and Implementation Challenges”. <i>Journal of Materials Science Research and Reviews</i> 8, no. 2 (2025): 515–28. https://doi.org/10.9734/jmsrr/2025/v8i2421.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

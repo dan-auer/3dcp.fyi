@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Michiel Bekaert, Kim Tittelboom, Geert Schutter
+    - footer
+title: Bekaert Michiel, Tittelboom Kim, Schutter Geert
 description:
 tags:
  - cast
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete as Stay-in-Place Formwork:<br/>:aca-blank: Mechanics During Casting and Curing ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1002/suco.202200088" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202200088</a>
+#3D Printed Concrete as Stay-in-Place Formwork&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">Mechanics During Casting and Curing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.202200088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202200088" target="_blank">10.1002/suco.202200088</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0759-2873" title="ORCID: 0000-0003-0759-2873" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bekaert_michiel"><b>Bekaert</b>&nbsp;Michiel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a> <a href="https://orcid.org/0000-0003-0759-2873" title="ORCID: 0000-0003-0759-2873" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#concrete`](keyword/concrete)
-    [`#cure`](keyword/cure)
-    [`#formwork`](keyword/formwork)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20as%20Stay-in-Place%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135812055&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4290839667" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.202200088" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.202200088?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Research in 3D concrete printing has gained an exponential increase in attention over the last decades. The automated production process can be beneficial to reduce material use and increase form freedom of produced elements. Disadvantages are the difficulty to apply reinforcement, the speed of execution if massive elements have to be made and the uncertain durability performance of the printed material. These aspects still lead to reticence in the concrete construction industry to use 3D printing at a large scale. To lower the threshold to move from the conventional toward the new construction technique, a combination of 3D printed and conventional concrete is proposed namely concrete elements with stay-in-place 3D printed formwork. In this paper, experimental research has been performed to investigate the behavior of 3D printed formwork during casting and curing of fresh material. Cylindrical formwork was printed on small scale and filled with self-compacting concrete. During the experiments, strain development and temperature evolution were measured in and around the elements. The obtained data was analyzed taking in attention the material characteristics of both materials in order to separate the different mechanisms. Results showed that the formwork is subjected to the lateral pressure of the cast concrete, moisture warping and thermal curling. The strains in the formwork increase significantly after casting as a result of moisture warping and thermal curling. The peak strain of the concrete element is reached during the hydration phase of the cast concrete. As the cast concrete stiffened in a slightly deformed formwork, residual strains will be present after the element cooled down.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
@@ -72,8 +54,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guan_wang_bai_ma.2025.E3PFCvFHSCR/">Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
@@ -90,4 +72,32 @@ tags:
       <li><a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/xie_xinjie"><b>Xie</b> Xinjie</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../li_wu_xie_zhan.2024.F/">FloatArch:<br/>A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization</a></li>
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../qiu_sun_qian.2024.IBPo3PUHPSHCCaCNC/">Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{beka_titt_schu.2022.3PCaSiPF,
+      author            = "Michiel Bekaert and Kim van Tittelboom and Geert de Schutter",
+      title             = "3D Printed Concrete as Stay-in-Place Formwork: Mechanics During Casting and Curing",
+      doi               = "10.1002/suco.202200088",
+      year              = "2022",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Bekaert, K. van Tittelboom and G. de Schutter, “3D Printed Concrete as Stay-in-Place Formwork: Mechanics During Casting and Curing”, <i>Structural Concrete</i>, 2022, doi: 10.1002/suco.202200088.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bekaert, Michiel, Kim van Tittelboom, and Geert de Schutter. “3D Printed Concrete as Stay-in-Place Formwork: Mechanics During Casting and Curing”. <i>Structural Concrete</i>, 2022. https://doi.org/10.1002/suco.202200088.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

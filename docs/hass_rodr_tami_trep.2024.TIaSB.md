@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Habibelrahman Hassan, Edwin Rodriguez-Ubinas, Adil Tamimi, Esra Trepci, Abraham Mansouri, Khalfan Almehairbi
+    - footer
+title: Hassan Habibelrahman, Rodriguez-Ubinas Edwin, Tamimi Adil, Trepci Esra, Mansouri Abraham, Almehairbi Khalfan
 description:
 tags:
  - buildability
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Towards Innovative and Sustainable Buildings:<br/>:aca-blank: A Comprehensive Review of 3D Printing in Construction ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.autcon.2024.105417" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105417</a>
+#Towards Innovative and Sustainable Buildings&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">A Comprehensive Review of 3D Printing in Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105417" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105417" target="_blank">10.1016/j.autcon.2024.105417</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0001-8035" title="ORCID: 0000-0003-0001-8035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hassan_habibelrahman"><b>Hassan</b>&nbsp;Habibelrahman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1453-7883" title="ORCID: 0000-0002-1453-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b>&nbsp;Edwin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tamimi_k_adil"><b>al&nbsp;Tamimi</b>&nbsp;Adil</a></span>, <a href="../../../author/trepci_esra"><b>Trepci</b>&nbsp;Esra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mansouri_abraham"><b>Mansouri</b>&nbsp;Abraham</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2296-1622" title="ORCID: 0000-0003-2296-1622" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/almehairbi_khalfan"><b>Almehairbi</b>&nbsp;Khalfan</a></span><br>
+Journal Article - Automation in Construction, Vol. 163, No. 105417
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a> <a href="https://orcid.org/0000-0003-0001-8035" title="ORCID: 0000-0003-0001-8035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a> <a href="https://orcid.org/0000-0002-1453-7883" title="ORCID: 0000-0002-1453-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tamimi_k_adil"><b>al Tamimi</b> Adil</a> <a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a>
-,     <a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> <a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/almehairbi_khalfan"><b>Almehairbi</b> Khalfan</a> <a href="https://orcid.org/0000-0003-2296-1622" title="ORCID: 0000-0003-2296-1622" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 163, No. 105417
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#comprehension`](keyword/comprehension)
-    [`#construction`](keyword/construction)
-    [`#innovation`](keyword/innovation)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Towards%20Innovative%20and%20Sustainable%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191657463&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394834643" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105417" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105417?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Driven by the rapid evolution of 3D printing technology, the construction industry is on the verge of a momentous revolutionary shift. The implementation of construction 3D printing (C3DP) or additive construction (AC) is rewriting the established conventions of traditional building methods. The efficiency and versatility demonstrated by C3DP have the potential not only to revolutionize construction techniques but also to address persistent industry challenges. This paper provides an updated and comprehensive review of AC, drawing on insights from industry reports and post-2016 academic research. Its primary aim is to bridge the gap between academia and industry, thereby offering researchers, professionals, and policymakers a complete review of the state-of-the-art of C3DP as well as the latest technological advancements. It delves into various aspects of 3DCP, including printing systems, materials, thermal performance, current limitations, and sustainability considerations, providing valuable insights and shaping a roadmap for future research endeavors.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "112 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -129,7 +107,6 @@ tags:
       <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/duda_pedro"><b>Duda</b> Pedro</a>, <a href="../../../author/silva_ccm_emilio"><b>Silva</b> Emílio</a>, <a href="../../../author/paiva_dm_maria"><b>Paiva</b> Maria</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../mend_duda_silv_paiv.2019.NPaSBAf3PwPCP/">Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes</a></li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/seers_thomas"><b>Seers</b> Thomas</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../moha_masa_seer_gham.2020.HPLCf3P/">High-Performance Lightweight Concrete for 3D Printing</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/dam_benjamin"><b>Dam</b> Benjamin</a>, <a href="../../../author/zeidan_talina"><b>Zeidan</b> Talina</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../moha_rahu_dam_zeid.2022.PCEIaCAf3PCM/">Performance Criteria, Environmental Impact and Cost-Assessment for 3D Printable Concrete Mixtures</a></li>
-      <li><a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/rustem_kairov"><b>Rustem</b> Kairov</a>, <a href="../../../author/plashnik_paul"><b>Plashnik</b> Paul</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../must_stor_rust_plas.2024.CMfC3PBotC/">Compensation Manipulator for Concrete 3D Printing Based on the CONPrint3D</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../muth_kua_yu_chun.2020.FPoCMCRHAfC3P/">Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../nema_xia_sanj.2019.PpMtISoPB3PGfDCA/">Post-processing Methods to Improve Strength of Particle-Bed 3D Printed Geopolymer for Digital Construction Applications</a></li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../noai_ghaf_chou_khee.2023.ARo3PLCCwOPG/">A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer:<br/>Engineering, Environmental and Economic Feasibility</a></li>
@@ -181,8 +158,8 @@ tags:
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
       <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/dong_chenghao"><b>Dong</b> Chenghao</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../zuo_dong_keit_rous.2020.PSoLiPBf3PBP/">Penetration Study of Liquid in Powder-Bed for 3D Powder-Bed Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
@@ -221,4 +198,34 @@ tags:
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../asaf_bent_amir_lari.2024.A3PPfDaMoMFCCCaIVfaPTB/">A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam</a></li>
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../carc_alon.2024.AMoNM/">Additive Manufacturing of Natural Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hass_rodr_tami_trep.2024.TIaSB,
+      author            = "Habibelrahman Hassan and Edwin Rodriguez-Ubinas and Adil K. Al Tamimi and Esra Trepci and Abraham Mansouri and Khalfan Almehairbi",
+      title             = "Towards Innovative and Sustainable Buildings: A Comprehensive Review of 3D Printing in Construction",
+      doi               = "10.1016/j.autcon.2024.105417",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "163",
+      pages             = "105417",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Hassan, E. Rodriguez-Ubinas, A. K. A. Tamimi, E. Trepci, A. Mansouri and K. Almehairbi, “Towards Innovative and Sustainable Buildings: A Comprehensive Review of 3D Printing in Construction”, <i>Automation in Construction</i>, vol. 163, p. 105417, 2024, doi: 10.1016/j.autcon.2024.105417.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hassan, Habibelrahman, Edwin Rodriguez-Ubinas, Adil K. Al Tamimi, Esra Trepci, Abraham Mansouri, and Khalfan Almehairbi. “Towards Innovative and Sustainable Buildings: A Comprehensive Review of 3D Printing in Construction”. <i>Automation in Construction</i> 163 (2024): 105417. https://doi.org/10.1016/j.autcon.2024.105417.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #interaction
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
   <li><a href="../../../author/mansour_ali"><b>Mansour</b> Ali</a>, <a href="../../../author/abou-khalil_amine"><b>Abou Khalil</b> Amine</a>, <a href="../../../author/khoury_hiam"><b>Khoury</b> Hiam</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mans_abou_khou.2025.TSaCHRI/">Toward Spatial and Cognitive Human-Robot Interaction:<br/>A Game-Based Simulation for Concrete 3D Printing in Construction</a></li>
   <li><a href="../../../author/yue_hongzhe"><b>Yue</b> Hongzhe</a>, <a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/zhao_zixuan"><b>Zhao</b> Zixuan</a>, <a href="../../../author/lai_sha"><b>Lai</b> Sha</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yue_wang_zhao_lai.2025.IBBaR/">Interactions Between BIM and Robotics:<br/>Towards Intelligent Construction Engineering and Management</a></li>

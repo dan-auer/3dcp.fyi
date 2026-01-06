@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Derk Bos, Robert Wolfs
+    - footer
+title: Bos Derk, Wolfs Robert
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://letters.rilem.net/index.php/rilem/article/download/181/189) A Quality-Control Framework for Digital Fabrication with Concrete ([2023-12](date/2023/12))
-<a href="https://doi.org/10.21809/rilemtechlett.2023.181" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21809/rilemtechlett.2023.181</a>
+#A Quality-Control Framework for Digital Fabrication with Concrete ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://letters.rilem.net/index.php/rilem/article/download/181/189) <a href="https://doi.org/10.21809/rilemtechlett.2023.181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2023.181" target="_blank">10.21809/rilemtechlett.2023.181</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1668-2638" title="ORCID: 0000-0002-1668-2638" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_h_derk"><b>Bos</b>&nbsp;Derk</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span><br>
+Journal Article - RILEM Technical Letters, Vol. 8, pp. 106-112
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> <a href="https://orcid.org/0000-0002-1668-2638" title="ORCID: 0000-0002-1668-2638" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - RILEM Technical Letters, Vol. 8, pp. 106-112
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#framework`](keyword/framework)
-    [`#quality`](keyword/quality)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Quality-Control%20Framework%20for%20Digital%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178875213&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,25 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W4389393059" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21809/rilemtechlett.2023.181" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21809/rilemtechlett.2023.181?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The quality control of digital fabrication with concrete has more stringent requirements than traditional casting. Firstly, since formwork is typically absent, or removed at an early stage in production, the material is exposed to external influences that can result in deformations, collapse, or deterioration. Therefore, the evolution of properties during the process has to be controlled. Secondly, the fabrication systems are typically more sensitive to dosing fluctuations, and the produced, optimized objects are more sensitive to defects, which requires the process variations to be controlled at a higher resolution. A framework is presented that categorizes quality control experiments into destructive and non‐destructive, according to their systematic error, and according to the location of testing with respect to the process. This framework is applied to the fresh state mechanical performance of concrete and quality control strategies are derived from it. Lastly, research gaps are identified that are critical for the further development and adoption of these quality control strategies in digitally fabricated concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
-      <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bos_luca_blaa_sale.2024.DotOLGICT/">Development of the On-Line Gravity-Induced Compression-Test:<br/>The Inverse-Slugs-Test</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bos_wolf.2022.AVIoNNDFfQCoAM/">Automated Visual Inspection of Near-Nozzle Droplet-Formation for Quality-Control of Additive Manufacturing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/song_yu"><b>Song</b> Yu</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../das_song_mant_wang.2022.EoPotAVSo3PC/">Effect of Processing on the Air-Void System of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duco_carn_mesn_demo.2020.TST/">The Slug-Test:<br/>In-Line-Assessment of Yield-Stress for Extrusion-Based Additive Manufacturing</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../figu_over_nefs_schl.2020.QAoPSHCCMiTDPF/">Quality-Assessment of Printable Strain-Hardening Cementitious Composites Manufactured in Two Different Printing Facilities</a></li>
@@ -93,7 +73,6 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rous_busw_duco_ivan.2022.AtFPoPCBM/">Assessing the Fresh Properties of Printable Cement-Based Materials:<br/>High-Potential Tests for Quality-Control</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../szab_reit_llor_gram.2020.MYSEaFFfSDC/">Mastering Yield-Stress-Evolution and Formwork-Friction for Smart Dynamic Casting</a></li>
-      <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vers_wolf_sale.2025.DDAMwCEILSDwDK/">Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge:<br/>Part I: Geometry</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wang_flat_rous_perr.2022.PCBM/">Printable Cement-Based Materials:<br/>Fresh Properties Measurements and Control</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
@@ -102,10 +81,10 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
       <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM/">Investigating the Impact of Material Rheology on Geometric Accuracy in 3D Concrete Printing Using Real-Time Monitoring</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
@@ -119,6 +98,36 @@ tags:
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bos_luca_blaa_sale.2024.DotOLGICT/">Development of the On-Line Gravity-Induced Compression-Test:<br/>The Inverse-Slugs-Test</a></li>
       <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jeyi_scho_stra_husk.2024.CoCMILPPaEGi3CPE/">Correlation of Continuously Measured In-Line Process Parameters and Extruded Geometry in 3D Concrete Printing Experiments</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bos_wolf.2023.AQCFfDFwC,
+      author            = "Derk H. Bos and Robert Johannes Maria Wolfs",
+      title             = "A Quality-Control Framework for Digital Fabrication with Concrete",
+      doi               = "10.21809/rilemtechlett.2023.181",
+      year              = "2023",
+      journal           = "RILEM Technical Letters",
+      volume            = "8",
+      pages             = "106--112",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. H. Bos  and R. J. M. Wolfs, “A Quality-Control Framework for Digital Fabrication with Concrete”, <i>RILEM Technical Letters</i>, vol. 8, pp. 106–112, 2023, doi: 10.21809/rilemtechlett.2023.181.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bos, Derk H., and Robert Johannes Maria Wolfs. “A Quality-Control Framework for Digital Fabrication with Concrete”. <i>RILEM Technical Letters</i> 8 (2023): 106–12. https://doi.org/10.21809/rilemtechlett.2023.181.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

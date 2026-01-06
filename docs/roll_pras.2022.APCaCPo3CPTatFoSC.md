@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chiranjeevi Rollakanti, C. Prasad
+    - footer
+title: Rollakanti Chiranjeevi, Prasad C.
 description:
 tags:
  - application
@@ -20,34 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>:aca-blank: A State of the Art Review ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.matpr.2022.03.619" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2022.03.619</a>
+#Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">A State of the Art Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2022.03.619" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2022.03.619" target="_blank">10.1016/j.matpr.2022.03.619</a>
 
--------------------------
+<a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b>&nbsp;Chiranjeevi</a></span>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b>&nbsp;C.</a></span><br>
+Journal Article - Materials Today: Proceedings, Vol. 65, pp. 995-1000
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>
-,     <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, Vol. 65, pp. 995-1000
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#future`](keyword/future)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Applications%2C%20Performance%2C%20Challenges%20and%20Current%20Progress%20of%203D%20Concrete%20Printing%20Technologies%20as%20the%20Future%20of%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128804794&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4223450377" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2022.03.619" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2022.03.619?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is moving closer to 3D printing in concrete for the manufacture of architectural or building components. Construction Industry is expected to drastically modify current processing methods and perhaps lead to disruptive technologies for instance 3D concrete printing (3DCP), resulting in significant variations in the construction industry. Around the world, the construction industry and research initiatives are concentrating on automated construction technologies. There have been several technologies for 3DCP of concrete elements developed, and their use in building projects is increasing. 3DP’s growth isn’t confined to Earth; it’s also gaining traction as a means of constructing space habitats. 3DCP allows for freeform building without the need for costly formwork, which has several advantages over the traditional method of pouring concrete into a formwork. In recent years, several 3DCP technologies have been created. Techniques and procedures that have been tested include on-site and off-site manufacturing of building components employing industrial robots, gantry systems, and tethered autonomous vehicles. This article presents the current state-of-the-art in the subject of3D printing of buildings and construction components. The purpose of this research is to describe the technical, socioeconomic, and environmental components of3DCP of concrete structures in order to provide a comprehensive overview of the 3DCP technology, applications, challenges, and future research and market opportunities in the construction sector. This research focuses mostly on current breakthroughs in 3D concrete printing, as well as other research and development projects in this subject, notably its use in alien habitats. There are several advantages to using this strategy, including cost and time savings, decreased pollutants, and a reduction in accidents and fatalities on construction sites. Despite the various benefits and prospects, the results raise certain concerns, owing to the technology’s existing limitations. According to this comprehensive review, researchers should examine the challenges such as on-site fabrication, large scale manufacturing process and limitations of 3D concrete printing further in order to increase mechanical performance, durability, and sustainability, as well as create appropriate standard criteria for printing structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
@@ -89,8 +66,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khou_chei_schu_caza.2025.UVMf3PoMMwRS/">Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand</a></li>
@@ -129,4 +106,34 @@ tags:
       <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/lach_michal"><b>Łach</b> Michał</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../marc_ziej_korn_ach.2022.Po3PCGHRwAR/">Properties of 3D Printed Concrete-Geopolymer Hybrids Reinforced with Aramid Roving</a></li>
       <li><a href="../../../author/ren_chuangnan"><b>Ren</b> Chuangnan</a>, <a href="../../../author/hua_dongliang"><b>Hua</b> Dongliang</a>, <a href="../../../author/bai_yonghui"><b>Bai</b> Yonghui</a>, <a href="../../../author/wu_shuang"><b>Wu</b> Shuang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ren_hua_bai_wu.2022.Pa3PBAoSCMUISW/">Preparation and 3D Printing Building Application of Sulfoaluminate-Cementitious-Material Using Industrial Solid-Waste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{roll_pras.2022.APCaCPo3CPTatFoSC,
+      author            = "Chiranjeevi Rahul Rollakanti and C. Venkata Siva Rama Prasad",
+      title             = "Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction: A State of the Art Review",
+      doi               = "10.1016/j.matpr.2022.03.619",
+      year              = "2022",
+      journal           = "Materials Today: Proceedings",
+      volume            = "65",
+      pages             = "995--1000",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. R. Rollakanti  and C. V. S. R. Prasad, “Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction: A State of the Art Review”, <i>Materials Today: Proceedings</i>, vol. 65, pp. 995–1000, 2022, doi: 10.1016/j.matpr.2022.03.619.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rollakanti, Chiranjeevi Rahul, and C. Venkata Siva Rama Prasad. “Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction: A State of the Art Review”. <i>Materials Today: Proceedings</i> 65 (2022): 995–1000. https://doi.org/10.1016/j.matpr.2022.03.619.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tugba Baytak, Tawfeeq Gdeh, Zhangfan Jiang, Gabriel Arce, Lisa Colosi, Osman Ozbulut
+    - footer
+title: Baytak Tugba, Gdeh Tawfeeq, Jiang Zhangfan, Arce Gabriel, Colosi Lisa, Ozbulut Osman
 description:
 tags:
  - cement
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.jobe.2024.110673" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110673</a>
+#Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110673" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110673" target="_blank">10.1016/j.jobe.2024.110673</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7205-3521" title="ORCID: 0000-0001-7205-3521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baytak_tugba"><b>Baytak</b>&nbsp;Tugba</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-7527-6979" title="ORCID: 0009-0002-7527-6979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gdeh_tawfeeq"><b>Gdeh</b>&nbsp;Tawfeeq</a></span>, <a href="../../../author/jiang_zhangfan"><b>Jiang</b>&nbsp;Zhangfan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arce_amador_gabriel"><b>Arce</b>&nbsp;Gabriel</a></span>, <a href="../../../author/colosi_m_lisa"><b>Colosi</b>&nbsp;Lisa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b>&nbsp;Osman</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 97, No. 110673
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/baytak_tugba"><b>Baytak</b> Tugba</a> <a href="https://orcid.org/0000-0001-7205-3521" title="ORCID: 0000-0001-7205-3521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gdeh_tawfeeq"><b>Gdeh</b> Tawfeeq</a> <a href="https://orcid.org/0009-0002-7527-6979" title="ORCID: 0009-0002-7527-6979" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_zhangfan"><b>Jiang</b> Zhangfan</a>
-,     <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> <a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/colosi_m_lisa"><b>Colosi</b> Lisa</a>
-,     <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 97, No. 110673
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#enhancement`](keyword/enhancement)
-    [`#environment`](keyword/environment)
-    [`#graphene`](keyword/graphene)
-    [`#limestone`](keyword/limestone)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%2C%20Mechanical%2C%20and%20Environmental%20Performance%20of%20Printable%20Graphene-Enhanced%20Cementitious%20Composites%20with%20Limestone%20and%20Calcined%20Clay" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203412879&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402329522" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110673" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110673?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As extrusion-based 3D concrete printing gains wider acceptance in construction, there is a growing imperative to incorporate supplementary cementitious materials (SCMs) into printable mixtures to address their high cement content and promote sustainability. Conventional SCMs like fly ash and slag are becoming increasingly scarce, underscoring the need for alternative solutions such as limestone and calcined clay. Additionally, the utilization of nanomaterials in printable mixtures holds potential for enhancing the mechanical properties of 3D printed structures. These properties are often compromised by interlayer interfaces and void formations during printing, resulting in lower mechanical performance compared to conventionally cast concrete. Graphene nanoplatelets (GNPs), with their high aspect ratios and exceptional mechanical characteristics, offer promising avenues for reinforcing printable cementitious composites. This study explores the rheological, mechanical, and environmental aspects of graphene-enhanced cementitious composites incorporating limestone and calcined clay. Graphene nanoplatelets (GNPs) were dispersed utilizing a surfactant-assisted sonication technique, and their dispersion characteristics were evaluated through absorbance, particle size, and zeta potential measurements. Then, the influence of varying GNP concentrations on the rheological properties of limestone-calcined clay (LC2) cementitious composites was assessed. Compressive and flexural strength tests were conducted on 3D-printed LC2 samples with different GNP ratios, alongside cast specimens for comparison. Microstructural examination of failed specimens was performed using scanning electron microscopy. Furthermore, a life cycle assessment was conducted to compare the environmental impacts of printable LC2 mixtures to conventional printable mixtures. Incorporating GNPs at a ratio of 0.05 % by weight of cement in printable LC2 mixtures enhances compressive strength by 23 %, leading to a reduction of approximately 31 % in environmental impacts compared to conventional printed mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -111,11 +84,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bajw_sama_flem_bao.2025.ASLRotTBoBECT3CP3/">A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP)</a></li>
       <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/venkatachalam_akshay"><b>Venkatachalam</b> Akshay</a>, <a href="../../../author/divigalpitiya_ranjith"><b>Divigalpitiya</b> Ranjith</a>, <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB/">Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bayt_gdeh_jian_arce.2024.RMaEPoPGECCwLaCC,
+      author            = "Tugba Baytak and Tawfeeq Gdeh and Zhangfan Jiang and Gabriel Amador Arce and Lisa M. Colosi and Osman E. Ozbulut",
+      title             = "Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay",
+      doi               = "10.1016/j.jobe.2024.110673",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "97",
+      pages             = "110673",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Baytak, T. Gdeh, Z. Jiang, G. A. Arce, L. M. Colosi and O. E. Ozbulut, “Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay”, <i>Journal of Building Engineering</i>, vol. 97, p. 110673, 2024, doi: 10.1016/j.jobe.2024.110673.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baytak, Tugba, Tawfeeq Gdeh, Zhangfan Jiang, Gabriel Amador Arce, Lisa M. Colosi, and Osman E. Ozbulut. “Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay”. <i>Journal of Building Engineering</i> 97 (2024): 110673. https://doi.org/10.1016/j.jobe.2024.110673.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

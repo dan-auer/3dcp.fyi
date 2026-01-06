@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamed Ramadany, Mohamed Bajjou
+    - footer
+title: Ramadany Mohamed, Bajjou Mohamed
 description:
 tags:
  - additive
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Applicability and Integration of Concrete Additive Manufacturing in Construction Industry:<br/>:aca-blank: A Case Study ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1177/0954405420986102" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1177/0954405420986102</a>
+#Applicability and Integration of Concrete Additive Manufacturing in Construction Industry&nbsp;([2021-01](date/2021/01))
+<div class="h1-like">A Case Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/0954405420986102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/0954405420986102" target="_blank">10.1177/0954405420986102</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4327-5736" title="ORCID: 0000-0003-4327-5736" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramadany_mohamed"><b>Ramadany</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8551-913X" title="ORCID: 0000-0002-8551-913X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajjou_saad_mohamed"><b>Bajjou</b>&nbsp;Mohamed</a></span><br>
+Journal Article - Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 235, Iss. 8, pp. 1338-1348
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramadany_mohamed"><b>Ramadany</b> Mohamed</a> <a href="https://orcid.org/0000-0003-4327-5736" title="ORCID: 0000-0003-4327-5736" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bajjou_saad_mohamed"><b>Bajjou</b> Mohamed</a> <a href="https://orcid.org/0000-0002-8551-913X" title="ORCID: 0000-0002-8551-913X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 235, Iss. 8, pp. 1338-1348
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#case`](keyword/case)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#integration`](keyword/integration)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Applicability%20and%20Integration%20of%20Concrete%20Additive%20Manufacturing%20in%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100552956&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3127281939" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1177/0954405420986102" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1177/0954405420986102?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The spread of additive manufacturing in recent years has broadened the sector of applications, namely in the construction field. This technology enables new functionalities and opportunities to be considered for the construction industry. Indeed, 3D printing processes can directly or indirectly affect the concrete material. Besides the printing processes for concrete structures, there are other indirect uses of 3D concrete printing, such as the manufacture of molds and formwork. However, its integration raises new challenges. This paper is first devoted to the state-of-the-art regarding the use of additive manufacturing in construction through a bibliographical study and an overview of various experiences in different countries. Secondly, the opportunities of such technologies for the construction sector will be discussed. Then, the issues and challenges related to the applicability and integration of concrete additive manufacturing will be highlighted. Finally, a diagnosis of the applicability and integration of concrete additive manufacturing has been made by analyzing the results of a survey of Moroccan professionals. The objective is to raise and identify key factors for successful integration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/ferron_raissa"><b>Ferron</b> Raissa</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../delg_clay_brie_ferr.2017.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Prospective Review</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -79,12 +60,43 @@ tags:
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
       <li><a href="../../../author/wijethunge_anjalee"><b>Wijethunge</b> Anjalee</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/le_an"><b>Le</b> An</a>, <a href="../../../author/gajanayake_akvan"><b>Gajanayake</b> Akvan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wije_sama_le_gaja.2025.ASRoS3CP/">A Systematic Review on Sustainable 3D Concrete Printing:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/medina_moises"><b>Medina</b> Moisés</a>, <a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b> Alexander</a>, <a href="../../../author/moreno_francisco"><b>Moreno</b> Francisco</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../forc_medi_opaz_more.2025.AMitCI/">Additive Manufacturing in the Construction Industry</a></li>
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rama_bajj.2021.AaIoCAMiCI,
+      author            = "Mohamed Ramadany and Mohamed Saad Bajjou",
+      title             = "Applicability and Integration of Concrete Additive Manufacturing in Construction Industry: A Case Study",
+      doi               = "10.1177/0954405420986102",
+      year              = "2021",
+      journal           = "Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture",
+      volume            = "235",
+      number            = "8",
+      pages             = "1338--1348",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Ramadany  and M. S. Bajjou, “Applicability and Integration of Concrete Additive Manufacturing in Construction Industry: A Case Study”, <i>Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture</i>, vol. 235, no. 8, pp. 1338–1348, 2021, doi: 10.1177/0954405420986102.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ramadany, Mohamed, and Mohamed Saad Bajjou. “Applicability and Integration of Concrete Additive Manufacturing in Construction Industry: A Case Study”. <i>Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture</i> 235, no. 8 (2021): 1338–48. https://doi.org/10.1177/0954405420986102.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

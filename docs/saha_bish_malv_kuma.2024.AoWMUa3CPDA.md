@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rajan Sahai, Ravindra Bisht, Nitesh Malviya, Shivam Kumar, Siddharth Singh, Soraj Panigrahi
+    - footer
+title: Sahai Rajan, Bisht Ravindra, Malviya Nitesh, Kumar Shivam, Singh Siddharth, Panigrahi Soraj
 description:
 tags:
  - approach
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>:aca-blank: A Review ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1007/s41403-024-00452-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41403-024-00452-z</a>
+#Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41403-024-00452-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41403-024-00452-z" target="_blank">10.1007/s41403-024-00452-z</a>
 
--------------------------
+<a href="../../../author/sahai_rajan"><b>Sahai</b>&nbsp;Rajan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5833-3703" title="ORCID: 0000-0001-5833-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bisht_singh_ravindra"><b>Bisht</b>&nbsp;Ravindra</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-1636-7827" title="ORCID: 0009-0003-1636-7827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b>&nbsp;Nitesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6206-6169" title="ORCID: 0000-0001-6206-6169" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_shivam"><b>Kumar</b>&nbsp;Shivam</a></span>, <a href="../../../author/singh_siddharth"><b>Singh</b>&nbsp;Siddharth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8927-8302" title="ORCID: 0000-0002-8927-8302" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b>&nbsp;Soraj</a></span><br>
+Journal Article - Transactions of the Indian National Academy of Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>
-,     <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a> <a href="https://orcid.org/0000-0001-5833-3703" title="ORCID: 0000-0001-5833-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a> <a href="https://orcid.org/0009-0003-1636-7827" title="ORCID: 0009-0003-1636-7827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> <a href="https://orcid.org/0000-0001-6206-6169" title="ORCID: 0000-0001-6206-6169" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a>
-,     <a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> <a href="https://orcid.org/0000-0002-8927-8302" title="ORCID: 0000-0002-8927-8302" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Transactions of the Indian National Academy of Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#aspects`](keyword/aspects)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#util`](keyword/util)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Aspects%20of%20Waste-Material-Utilization%20and%203D%20Concrete%20Printer%20Development-Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391022980" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41403-024-00452-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41403-024-00452-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an emerging additive manufacturing technology that is currently in its development phase. It offers various advantages over traditional construction practices and can potentially cater for the time-bounded and efficient execution of rapidly growing infrastructure activities in urban scenarios. The present work encompasses a scientometric-based review and a comprehensive discussion of research areas and gaps in the field of 3D concrete printing (3DCP). The data presented in the review have been discussed from the various scientific databases and thoroughly analyzed. The analysis reveals the field of 3DCP research is advancing rapidly due to its efficient, precise, and material-saving aspects. Extensive discussions on key parameters and their relationship which govern the 3DCP process are material and printer process parameters. Material parameters viz., pumpability, extrudability, buildability, strength, and printer parameters viz., nozzle shape/ size, printing and pumping speed, printer design, motion control, etc., are crucial in the 3DCP process. The suitability of recycled wastes from thermal and chemical plants, agro-forestry along with conventional construction material, have been thoroughly discussed in the present study. The study on existing printers also revealed that various types of 3D concrete printers have been developed and deployed case-to-case basis as per the construction site constraints, but few printers have been used commercially for large-scale concrete printing. This study also discusses the cost-effective and efficient 3D concrete printer development and the various mathematical models used for the development of concrete printer. The review discusses the opportunities, challenges, and future directions for 3DCP aspects in the near future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "99 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
@@ -150,7 +126,6 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>
-      <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a>, <a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../saha_bish_kuma_sing.2024.MaSo3PCLaVUGRP/">Modeling and Simulation of 3D Printed Concrete Layers and Validation Using Gantry Robotic Printer</a></li>
       <li><a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../salm_ma_ijaz_wang.2021.IaPoCMaDiEB3CP/">Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing:<br/>Prospects and Challenges</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/shen_yuhang"><b>Shen</b> Yuhang</a>, <a href="../../../author/lin_li"><b>Lin</b> Li</a>, <a href="../../../author/wei_shengjie"><b>Wei</b> Shengjie</a>, <a href="../../../author/yan_jie"><b>Yan</b> Jie</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../shen_lin_wei_yan.2022.RotPaMPoS3PCM/">Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials</a></li>
@@ -172,10 +147,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a>, <a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_bish_sing_pani.2024.DAaDoaGRfML3CPwSaEV/">Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saha_bish_malv_kuma.2024.AoWMUa3CPDA,
+      author            = "Rajan Sahai and Ravindra Singh Bisht and Nitesh Kumar Malviya and Shivam Kumar and Siddharth Singh and Soraj Kumar Panigrahi",
+      title             = "Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach: A Review",
+      doi               = "10.1007/s41403-024-00452-z",
+      year              = "2024",
+      journal           = "Transactions of the Indian National Academy of Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Sahai, R. S. Bisht, N. K. Malviya, S. Kumar, S. Singh and S. K. Panigrahi, “Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach: A Review”, <i>Transactions of the Indian National Academy of Engineering</i>, 2024, doi: 10.1007/s41403-024-00452-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sahai, Rajan, Ravindra Singh Bisht, Nitesh Kumar Malviya, Shivam Kumar, Siddharth Singh, and Soraj Kumar Panigrahi. “Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach: A Review”. <i>Transactions of the Indian National Academy of Engineering</i>, 2024. https://doi.org/10.1007/s41403-024-00452-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

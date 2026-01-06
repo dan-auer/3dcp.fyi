@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ravikanth Damarla, Keshav Lakshmi
+    - footer
+title: Damarla Ravikanth, Lakshmi Keshav
 description:
 tags:
  - assessment
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Review on Impact-Assessment of 3D Printing Technology in the Field of Modern Construction ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1007/978-981-97-0072-1_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-97-0072-1_21</a>
+#A Review on Impact-Assessment of 3D Printing Technology in the Field of Modern Construction ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-0072-1_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-0072-1_21" target="_blank">10.1007/978-981-97-0072-1_21</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-9320-051X" title="ORCID: 0009-0007-9320-051X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/damarla_ravikanth"><b>Damarla</b>&nbsp;Ravikanth</a></span>, <a href="../../../author/lakshmi_keshav"><b>Lakshmi</b>&nbsp;Keshav</a></span><br>
+Contribution - Recent Advances in Civil Engineering for Sustainable Communities, pp. 231-240
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/damarla_ravikanth"><b>Damarla</b> Ravikanth</a> <a href="https://orcid.org/0009-0007-9320-051X" title="ORCID: 0009-0007-9320-051X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lakshmi_keshav"><b>Lakshmi</b> Keshav</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Advances in Civil Engineering for Sustainable Communities, pp. 231-240
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#construction`](keyword/construction)
-    [`#field`](keyword/field)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%20Impact-Assessment%20of%203D%20Printing%20Technology%20in%20the%20Field%20of%20Modern%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190275272&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393169395" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-97-0072-1_21" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-97-0072-1_21?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Rapid urbanization necessitates the discovery of viable alternatives to conventional building practices. Traditional construction methods can no longer keep up with the growing demand for new structures and infrastructure. The development of environmentally friendly and cost-effective alternatives to conventional building practices has become an important objective. New technology and materials enable us to construct buildings that are more durable, less expensive, and more productive. In addition, by employing multiple strategies, we can create a built environment that is more adaptable to our changing needs. In recent years, the use of 3D printing technology in contemporary building construction has increased in popularity. The time and money required to construct a structure can be cut in half due to the advent of 3D printing technology, which enables the rapid production of intricate structures and components. It is also used to create one-of-a-kind designs that would be impossible with more conventional construction methods. In this review, we are discussed about how 3D printing is currently being utilized in the construction industry, as well as its potential to save money and increase productivity, as well as its futuristic significance in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -77,7 +59,38 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{dama_laks.2024.ARoIAo3PTitFoMC,
+      author            = "Ravikanth Damarla and Keshav Lakshmi",
+      title             = "A Review on Impact-Assessment of 3D Printing Technology in the Field of Modern Construction",
+      doi               = "10.1007/978-981-97-0072-1_21",
+      year              = "2024",
+      volume            = "459",
+      pages             = "231--240",
+      booktitle         = "Recent Advances in Civil Engineering for Sustainable Communities",
+      editor            = "N. Vinod Chandra Menon and Sreevalsa Kolathayar and Hugo Rodrigues and K. S. Sreekeshava",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Damarla  and K. Lakshmi, “A Review on Impact-Assessment of 3D Printing Technology in the Field of Modern Construction”, in <i>Recent Advances in Civil Engineering for Sustainable Communities</i>,  2024, vol. 459, pp. 231–240. doi: 10.1007/978-981-97-0072-1_21.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Damarla, Ravikanth, and Keshav Lakshmi. “A Review on Impact-Assessment of 3D Printing Technology in the Field of Modern Construction”. In <i>Recent Advances in Civil Engineering for Sustainable Communities</i>, edited by N. Vinod Chandra Menon, Sreevalsa Kolathayar, Hugo Rodrigues, and K. S. Sreekeshava, 459:231–40, 2024. https://doi.org/10.1007/978-981-97-0072-1_21.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

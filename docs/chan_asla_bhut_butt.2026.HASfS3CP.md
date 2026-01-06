@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kashif Changez, Jawad Aslam, Muhammad Bhutta, Shahid Butt
+    - footer
+title: Changez Kashif, Aslam Jawad, Bhutta Muhammad, Butt Shahid
 description:
 tags:
  - additive
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>:aca-blank: Balancing Printability, Early-Stage Strength, and Eco-Efficiency ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1061/jaeied.aeeng-2094" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jaeied.aeeng-2094</a>
+#Hybrid Additive Strategies for Sustainable 3D Concrete Printing&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Balancing Printability, Early-Stage Strength, and Eco-Efficiency</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeied.aeeng-2094" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-2094" target="_blank">10.1061/jaeied.aeeng-2094</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-3905-1129" title="ORCID: 0009-0000-3905-1129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/changez_kashif"><b>Changez</b>&nbsp;Kashif</a></span>, <a href="../../../author/aslam_jawad"><b>Aslam</b>&nbsp;Jawad</a></span>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b>&nbsp;Muhammad</a></span>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b>&nbsp;Shahid</a></span><br>
+Journal Article - Journal of Architectural Engineering, Vol. 32, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a> <a href="https://orcid.org/0009-0000-3905-1129" title="ORCID: 0009-0000-3905-1129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>
-,     <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>
-,     <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Architectural Engineering, Vol. 32, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#efficient`](keyword/efficient)
-    [`#hybrid`](keyword/hybrid)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#stage`](keyword/stage)
-    [`#strategy`](keyword/strategy)
-    [`#strength`](keyword/strength)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/stage"><button class="btn">#stage</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hybrid%20Additive%20Strategies%20for%20Sustainable%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021001274&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415944151" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jaeied.aeeng-2094" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jaeied.aeeng-2094?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing of concrete faces critical challenges in balancing early-stage strength, printability, and sustainability for rapid construction. This study introduces a hybrid strategy that synergizes replacement and supplementation methods to optimize fiber-reinforced 3D printable concrete (3DPC), leveraging agro-industrial byproducts such as silica fume, fly ash (FA), rice husk ash, recycled concrete (RC), and recycled glass (RG). A custom-designed Cartesian printer equipped with a screw-based extrusion system (nozzle diameter: 32 mm) was employed to evaluate the rheological and mechanical properties. Results showed that replacing cement with 5 wt% RC and 5 wt% FA achieved exceptional compressive strength (28.9 MPa at 28 days), while supplementing with 5 wt% RG and 5 wt% FA boosted split tensile strength to 12.2 MPa, vital for resisting tensile stresses. These sustainable substitutions decrease cement consumption by 5%–10%, thereby repurposing construction waste and industrial byproducts to mitigate the carbon footprint of 3DPC. The optimized mixture, incorporating 5 wt% FA, cellulose-based viscosity modifying admixture, and polypropylene fibers (6 mm), ensures consistent extrusion (slump flow: 153 mm) with minimal deformation (0.8 mm/layer), overcoming scalability barriers in 3D concrete printing (3DCP). This research bridges material innovation with printer-specific design, establishing a systematic framework for eco-efficient 3DCP that advances rapid construction through sustainable solutions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adams_julian_thomas"><b>Adams</b> Thomas</a>, <a href="../../../author/heuer_christoph"><b>Heuer</b> Christoph</a>, <a href="../../../author/brell-cokcan_sigrid"><b>Brell-Cokcan</b> Sigrid</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../adam_heue_brel.2022.D3PHfSSEoFRC/">Dynamic 3D Print-Head for Spatial Strand-Extrusion of Fiber-Reinforced Concrete:<br/>Requirements, Development and Application</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
@@ -116,7 +92,37 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chan_asla_bhut_butt.2026.HASfS3CP,
+      author            = "Kashif Changez and Jawad Aslam and Muhammad Usman Bhutta and Shahid Ikramullah Butt",
+      title             = "Hybrid Additive Strategies for Sustainable 3D Concrete Printing: Balancing Printability, Early-Stage Strength, and Eco-Efficiency",
+      doi               = "10.1061/jaeied.aeeng-2094",
+      year              = "2026",
+      journal           = "Journal of Architectural Engineering",
+      volume            = "32",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Changez, J. Aslam, M. U. Bhutta and S. I. Butt, “Hybrid Additive Strategies for Sustainable 3D Concrete Printing: Balancing Printability, Early-Stage Strength, and Eco-Efficiency”, <i>Journal of Architectural Engineering</i>, vol. 32, no. 1, 2026, doi: 10.1061/jaeied.aeeng-2094.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Changez, Kashif, Jawad Aslam, Muhammad Usman Bhutta, and Shahid Ikramullah Butt. “Hybrid Additive Strategies for Sustainable 3D Concrete Printing: Balancing Printability, Early-Stage Strength, and Eco-Efficiency”. <i>Journal of Architectural Engineering</i> 32, no. 1 (2026). https://doi.org/10.1061/jaeied.aeeng-2094.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

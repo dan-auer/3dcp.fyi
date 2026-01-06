@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Asad Bajwa, Claire Flemmer, Don Samarasinghe, Ding Bao, Regan Potangora
+    - footer
+title: Bajwa Asad, Flemmer Claire, Samarasinghe Don, Bao Ding, Potangora Regan
 description:
 tags:
  - development
@@ -14,31 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainability of 3D Printing Technology:<br/>:aca-blank: A Review on Research Trends and Developments ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1007/978-981-96-2802-5_35" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-2802-5_35</a>
+#Sustainability of 3D Printing Technology&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Review on Research Trends and Developments</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-2802-5_35" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-2802-5_35" target="_blank">10.1007/978-981-96-2802-5_35</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6929-2094" title="ORCID: 0000-0002-6929-2094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b>&nbsp;Asad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2080-8261" title="ORCID: 0000-0003-2080-8261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flemmer_l_claire"><b>Flemmer</b>&nbsp;Claire</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bao_wen_ding"><b>Bao</b>&nbsp;Ding</a></span>, <a href="../../../author/potangora_regan"><b>Potangora</b>&nbsp;Regan</a></span><br>
+Contribution - Creating Capacity and Capability, pp. 467-478
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a> <a href="https://orcid.org/0000-0002-6929-2094" title="ORCID: 0000-0002-6929-2094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> <a href="https://orcid.org/0000-0003-2080-8261" title="ORCID: 0000-0003-2080-8261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> <a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/potangora_regan"><b>Potangora</b> Regan</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Creating Capacity and Capability, pp. 467-478
-
-:aca-blank:{ .lg .middle}
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-    [`#trend`](keyword/trend)
-
-
--------------------------
+<a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainability%20of%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017373842&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411864785" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-2802-5_35" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-2802-5_35?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (3DP) can potentially improve environmental sustainability in construction activities by reducing energy use, waste and adverse ecological impacts. The construction industry can capitalize on the opportunity to accelerate innovation by adopting 3DP as a means of sustainability to contribute toward 2050 Zero Carbon targets of lowering New Zealand’s gross, net and target accounting emissions by 30%, 70% and 60%, respectively, compared with the 2020 levels. This study employs literature review analysis as a research method to explore the literature on 3DP in construction. It assesses the sustainability of 3DP, considering not only its environmental sustainability but also its economic and social sustainability. In addition, it analyses the state of the art of 3DP, using an overview of recent projects by commercial 3DP companies covering a range of applications in several countries. It summarizes the advantages and the challenges of 3DP and identifies the main research gaps. Chief among these is the need to identify the mixtures of materials which can be used in the printing process and to quantify the structural and thermal performance of the printed structure. More research is needed on the application of Life Cycle Assessment of 3DP as the metric for evaluating its environmental impact. The research needs to be a collaborative effort between academia and industry. The roadmap for further research and the assessment of 3DP as an emerging technology provide insights for improving the built environment and enhancing energy efficiency.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
@@ -99,7 +79,37 @@ tags:
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bajw_flem_sama_bao.2025.So3PT,
+      author            = "Asad Ur Rehman Bajwa and Claire L. Flemmer and Don Amila Sajeevan Samarasinghe and Ding Wen Bao and Regan Potangora",
+      title             = "Sustainability of 3D Printing Technology: A Review on Research Trends and Developments",
+      doi               = "10.1007/978-981-96-2802-5_35",
+      year              = "2025",
+      volume            = "564",
+      pages             = "467--478",
+      booktitle         = "Creating Capacity and Capability: Embracing Advanced Technologies and Innovations for Sustainable Future in Building Education and Practice",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. U. R. Bajwa, C. L. Flemmer, D. A. S. Samarasinghe, D. W. Bao and R. Potangora, “Sustainability of 3D Printing Technology: A Review on Research Trends and Developments”, in <i>Creating Capacity and Capability: Embracing Advanced Technologies and Innovations for Sustainable Future in Building Education and Practice</i>,  2025, vol. 564, pp. 467–478. doi: 10.1007/978-981-96-2802-5_35.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bajwa, Asad Ur Rehman, Claire L. Flemmer, Don Amila Sajeevan Samarasinghe, Ding Wen Bao, and Regan Potangora. “Sustainability of 3D Printing Technology: A Review on Research Trends and Developments”. In <i>Creating Capacity and Capability: Embracing Advanced Technologies and Innovations for Sustainable Future in Building Education and Practice</i>, 564:467–78, 2025. https://doi.org/10.1007/978-981-96-2802-5_35.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

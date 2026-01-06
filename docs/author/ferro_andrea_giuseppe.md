@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ferro Giuseppe 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a>, <a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../fall_rest_tull_ferr.2025.BtECaRoMwF/">Biochar to Enhance Curing and Rheology of Mortars without Formwork</a></li>
   <li><a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../parm_fall_moro_ferr.2024.PSoMFBCUVDFCv3P/">Preliminary Study on Multi-Functional Building Components Utilizing Variable Density Foamed Concrete via 3D Printing</a></li>
   <li><a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../parm_fall_moro_ferr.2024.3PMFFCBC/">3D Printed Multi-Functional Foamed Concrete Building Components:<br/>Material-Properties, Component Design, and 3D Printing Application</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robin Dörrie, Lukas Lachmayer, Abtin Baghdadi, Martin David, Klaus Dröder, Annika Raatz, Harald Kloft
+    - footer
+title: Dörrie Robin, Lachmayer Lukas, Baghdadi Abtin, David Martin, Dröder Klaus, Raatz Annika, Kloft Harald
 description:
 tags:
  - capability
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.matdes.2025.115050" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2025.115050</a>
+#Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing ([2025-11](date/2025/11))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.matdes.2025.115050" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2025.115050" target="_blank">10.1016/j.matdes.2025.115050</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1259-6174" title="ORCID: 0000-0003-1259-6174" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baghdadi_abtin"><b>Baghdadi</b>&nbsp;Abtin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/david_martin"><b>David</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Journal Article - Materials & Design, No. 115050
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> <a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> <a href="https://orcid.org/0000-0003-1259-6174" title="ORCID: 0000-0003-1259-6174" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/david_martin"><b>David</b> Martin</a> <a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, No. 115050
-
-:aca-blank:{ .lg .middle}
-    [`#capability`](keyword/capability)
-    [`#geometry`](keyword/geometry)
-    [`#guideline`](keyword/guideline)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#robust`](keyword/robust)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/capability"><button class="btn">#capability</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/guideline"><button class="btn">#guideline</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robust"><button class="btn">#robust</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20Process%20Guidelines%20and%20Geometric%20Capabilities%20for%20Robust%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021058830&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415769201" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2025.115050" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2025.115050?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Advancing additive manufacturing in construction (AMC) requires a clear understanding of feasible geometries and process capabilities for each technology. This paper maps the measurable design space of Shotcrete 3D Printing (SC3DP) and proposes a systematic overview linking geometric possibilities and process parameters. Two complementary experimental approaches are combined to provide a comprehensive framework for evaluating SC3DP, bridging the gap between practical implementation and fundamental insights into material-process interaction. The first set of experiments investigates path planning parameters and print strategies. Systematic evaluation evidences high dimensional accuracy, reliable radii from approx. 120 mm and printable overhangs up to 30° inclination. Additionally, practical guidelines are articulated. The second set of experiments focuses on material-process interaction by quantifying how traverse speed, concrete volume flow, nozzle-to-strand distance and air volume flow influence layer geometry. Measured outcomes indicate achievable layer widths of 75–180 mm and heights of 8–50 mm. The correlations among parameters and outputs are discussed to delineate the geometric possibilities. Together, these results define a reproducible method to chart SC3DP capabilities and deliver an overview of geometric possibilities. The framework supports fabrication-aware design, parameter selection and scaling, positioning SC3DP as a versatile AMC process for structurally relevant, performance-oriented applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bohl_freu_mai_lowk.2023.S3P/">Shotcrete 3D Printing:<br/>Effect of Material‐Process-Interaction on the Global and Local Material Density</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -98,8 +73,37 @@ tags:
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dorr_lach_bagh_davi.2025.IoPGaGCfRS3P,
+      author            = "Robin Dörrie and Lukas Lachmayer and Abtin Baghdadi and Martin David and Klaus Dröder and Annika Raatz and Harald Kloft",
+      title             = "Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing",
+      doi               = "10.1016/j.matdes.2025.115050",
+      year              = "2025",
+      journal           = "Materials & Design",
+      pages             = "115050",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Dörrie, “Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing”, <i>Materials & Design</i>, p. 115050, 2025, doi: 10.1016/j.matdes.2025.115050.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dörrie, Robin, Lukas Lachmayer, Abtin Baghdadi, Martin David, Klaus Dröder, Annika Raatz, and Harald Kloft. “Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing”. <i>Materials & Design</i>, 2025, 115050. https://doi.org/10.1016/j.matdes.2025.115050.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kewei Liu, Qingfei Meng, Qingzhao Kong, Xihong Zhang
+    - footer
+title: Liu Kewei, Meng Qingfei, Kong Qingzhao, Zhang Xihong
 description:
 tags:
  - automation
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/11/1890/pdf?version=1668178889) Review on the Developments of Structure, Construction Automation, and Monitoring of Intelligent Construction ([2022-11](date/2022/11))
-<a href="https://doi.org/10.3390/buildings12111890" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12111890</a>
+#Review on the Developments of Structure, Construction Automation, and Monitoring of Intelligent Construction ([2022-11](date/2022/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/11/1890/pdf?version=1668178889) <a href="https://doi.org/10.3390/buildings12111890" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12111890" target="_blank">10.3390/buildings12111890</a>
 
--------------------------
+<a href="../../../author/liu_kewei"><b>Liu</b>&nbsp;Kewei</a></span>, <a href="../../../author/meng_qingfei"><b>Meng</b>&nbsp;Qingfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9577-4540" title="ORCID: 0000-0001-9577-4540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kong_qingzhao"><b>Kong</b>&nbsp;Qingzhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8667-4692" title="ORCID: 0000-0002-8667-4692" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xihong"><b>Zhang</b>&nbsp;Xihong</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_kewei"><b>Liu</b> Kewei</a>
-,     <a href="../../../author/meng_qingfei"><b>Meng</b> Qingfei</a>
-,     <a href="../../../author/kong_qingzhao"><b>Kong</b> Qingzhao</a> <a href="https://orcid.org/0000-0001-9577-4540" title="ORCID: 0000-0001-9577-4540" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_xihong"><b>Zhang</b> Xihong</a> <a href="https://orcid.org/0000-0002-8667-4692" title="ORCID: 0000-0002-8667-4692" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#intelligence`](keyword/intelligence)
-    [`#monitoring`](keyword/monitoring)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Review%20on%20the%20Developments%20of%20Structure%2C%20Construction%20Automation%2C%20and%20Monitoring%20of%20Intelligent%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149473663&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308443858" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12111890" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12111890?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The building and construction industry is a traditional industry that features high-capacity investment, long return period, high environment impact, and low technology demand in thepast decades. With the fast development of technology and the demand for environmental sustainability, it is inevitable for the building and construction industry to embrace the revolution of technology. Intelligent construction is developed in light of advanced technologies including advancedcomputing technology, 3D design and manufacturing, automation and control, sensing, unmannedaircraft, and autonomous intelligence. It is also closely integrated with using perceived, analytical, decision-making coordination for building construction with perceived intelligent execution technology in the processes. Currently, there is no consensus definition on “intelligent construction” despite its rapid development. This paper reviews existing and current development in intelligent construction focusing on the following three aspects: (a) new structural forms, which are innovativeand with potential or are being applied to automated and mass manufacturing/construction; (b) automated and intelligent construction system; and (c) advanced structure sensing and monitoringtechnology. These three components do not compromise the entire aspects for intelligent construction, but they have no doubt are the core elements for intelligent construction towards future building systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
@@ -86,9 +65,39 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/guo_yazhao"><b>Guo</b> Yazhao</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/liu_qizhou"><b>Liu</b> Qizhou</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_guo_wang_liu.2024.SotCPo3PCPFCC/">Study on the Compression Performance of 3D Printing Concrete Permanent Formwork Composite Columns</a></li>
       <li><a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/liu_zhenhua"><b>Liu</b> Zhenhua</a>, <a href="../../../author/hou_jia"><b>Hou</b> Jia</a>, <a href="../../../author/ge_mengmeng"><b>Ge</b> Mengmeng</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wang_liu_hou_ge.2024.RPaTAoC3PTBoC/">Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_meng_kong_zhan.2022.RotDoSCAaMoIC,
+      author            = "Kewei Liu and Qingfei Meng and Qingzhao Kong and Xihong Zhang",
+      title             = "Review on the Developments of Structure, Construction Automation, and Monitoring of Intelligent Construction",
+      doi               = "10.3390/buildings12111890",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Liu, Q. Meng, Q. Kong and X. Zhang, “Review on the Developments of Structure, Construction Automation, and Monitoring of Intelligent Construction”, <i>Buildings</i>, vol. 12, no. 11, 2022, doi: 10.3390/buildings12111890.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Kewei, Qingfei Meng, Qingzhao Kong, and Xihong Zhang. “Review on the Developments of Structure, Construction Automation, and Monitoring of Intelligent Construction”. <i>Buildings</i> 12, no. 11 (2022). https://doi.org/10.3390/buildings12111890.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

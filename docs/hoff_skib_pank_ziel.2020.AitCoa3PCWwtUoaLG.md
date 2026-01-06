@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcin Hoffmann, Szymon Skibicki, Paweł Pankratow, Adam Zieliński, Mirosław Pajor, Mateusz Techman
+    - footer
+title: Hoffmann Marcin, Skibicki Szymon, Pankratow Paweł, Zieliński Adam, Pajor Mirosław, Techman Mateusz
 description:
 tags:
  - automation
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/13/8/1800/pdf?version=1586600924) Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper ([2020-04](date/2020/04))
-<a href="https://doi.org/10.3390/ma13081800" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma13081800</a>
+#Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper ([2020-04](date/2020/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/8/1800/pdf?version=1586600924) <a href="https://doi.org/10.3390/ma13081800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13081800" target="_blank">10.3390/ma13081800</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <a href="../../../author/pankratow_pawel"><b>Pankratow</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zielinski_adam"><b>Zieliński</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7701-385X" title="ORCID: 0000-0002-7701-385X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pajor_miroslaw"><b>Pajor</b>&nbsp;Mirosław</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span><br>
+Journal Article - Materials, Vol. 13, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pankratow_pawel"><b>Pankratow</b> Paweł</a>
-,     <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> <a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pajor_miroslaw"><b>Pajor</b> Mirosław</a> <a href="https://orcid.org/0000-0002-7701-385X" title="ORCID: 0000-0002-7701-385X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 13, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#grip`](keyword/grip)
-    [`#lintel`](keyword/lintel)
-    [`#print`](keyword/print)
-    [`#use`](keyword/use)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/grip"><button class="btn">#grip</button></a> <a href="../../keyword/lintel"><button class="btn">#lintel</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automation%20in%20the%20Construction%20of%20a%203D%20Printed%20Concrete%20Wall%20with%20the%20Use%20of%20a%20Lintel%20Gripper" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084612855&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3016152200" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma13081800" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma13081800?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Developments in the automation of construction processes, observable in recent years, is focused on speeding up the construction of buildings and structures. Additive manufacturing using concrete mixes are among the most promising technologies in this respect. 3D concrete printing allows the building up of structure by extruding a mix layer by layer. However, the mix initially has low capacity to transfer loads, which can be particularly troublesome in cases of external components that need to be placed on top such as precast lintels or floor beams. This article describes the application of additive manufacturing technology in the fabrication of a building wall model, in which the door opening was finished with automatic lintel installation. The research adjusts the wall design and printing process, accounting for the rheological and mechanical properties of the fresh concrete, as well as design requirements of Eurocode. The article demonstrates that the process can be planned precisely and how the growth of stress in fresh concrete can be simulated, against the strength level developed. The conclusions drawn from this research will be of use in designing larger civil structures. Furthermore, the adverse effects of concrete shrinkage on structures is also presented, together with appropriate methods of control.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -90,8 +66,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "40 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/korol_ewelina"><b>Korol</b> Ewelina</a>, <a href="../../../author/jenta_arkadiusz"><b>Jenta</b> Arkadiusz</a>, <a href="../../../author/chaudhari_ojas"><b>Chaudhari</b> Ojas</a>, <a href="../../../author/wojcik_michal"><b>Wójcik</b> Michal</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../koro_jent_chau_wojc.2025.EIoCBUBMw3APT/">Experimental Investigation of Concrete Beams Under Bending, Manufactured with 3D Additive Printing Technology</a></li>
       <li><a href="../../../author/liang_jingwen"><b>Liang</b> Jingwen</a>, <a href="../../../author/zeng_zuo"><b>Zeng</b> Zuo</a>, <a href="../../../author/wang_penglin"><b>Wang</b> Penglin</a>, <a href="../../../author/wang_zhongxu"><b>Wang</b> Zhongxu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lian_zeng_wang_wang.2025.ERM3PS/">Emergency Response Mobile 3D Printing System:<br/>A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges</a></li>
       <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sana_lito.2025.LBCot3PCSBoaSAaLTiS11/">Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1</a></li>
@@ -133,4 +109,34 @@ tags:
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/wahib_nawid"><b>Wahib</b> Nawid</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../skib_kasz_wahi_tech.2020.PoCMwLPf3CP/">Properties of Composite Modified with Limestone-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hoff_skib_pank_ziel.2020.AitCoa3PCWwtUoaLG,
+      author            = "Marcin Hoffmann and Szymon Skibicki and Paweł Pankratow and Adam Zieliński and Mirosław Pajor and Mateusz Techman",
+      title             = "Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper",
+      doi               = "10.3390/ma13081800",
+      year              = "2020",
+      journal           = "Materials",
+      volume            = "13",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Hoffmann, S. Skibicki, P. Pankratow, A. Zieliński, M. Pajor and M. Techman, “Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper”, <i>Materials</i>, vol. 13, no. 8, 2020, doi: 10.3390/ma13081800.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hoffmann, Marcin, Szymon Skibicki, Paweł Pankratow, Adam Zieliński, Mirosław Pajor, and Mateusz Techman. “Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper”. <i>Materials</i> 13, no. 8 (2020). https://doi.org/10.3390/ma13081800.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

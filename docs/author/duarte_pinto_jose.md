@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Duarte José 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>
   <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a>, <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../capu_farr_bile_duar.2025.VBSaDTTiC3CP/">Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing:<br/>Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications</a></li>
   <li><a href="../../../author/tabassum_nusrat"><b>Tabassum</b> Nusrat</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../taba_duar.2024.EMD3PfEoEaB/">Exploring Multi-Directional 3D Printing for Enclosures on Earth and Beyond:<br/>Sensitivity-Analysis of Buildability</a></li>

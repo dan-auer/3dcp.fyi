@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gieljan Vantyghem, Marijke Steeman, Wouter Corte, Veerle Boel
+    - footer
+title: Vantyghem Gieljan, Steeman Marijke, Corte Wouter, Boel Veerle
 description:
 tags:
  - concrete
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design-Optimization for 3D Concrete Printing:<br/>:aca-blank: Improving Structural and Thermal Performances ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_72" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_72</a>
+#Design-Optimization for 3D Concrete Printing&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">Improving Structural and Thermal Performances</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_72" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_72" target="_blank">10.1007/978-3-030-49916-7_72</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b>&nbsp;Gieljan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6575-5389" title="ORCID: 0000-0002-6575-5389" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/steeman_marijke"><b>Steeman</b>&nbsp;Marijke</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6221-0837" title="ORCID: 0000-0001-6221-0837" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boel_veerle"><b>Boel</b>&nbsp;Veerle</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 720-727
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> <a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a> <a href="https://orcid.org/0000-0002-6575-5389" title="ORCID: 0000-0002-6575-5389" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="https://orcid.org/0000-0001-6221-0837" title="ORCID: 0000-0001-6221-0837" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 720-727
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#improvement`](keyword/improvement)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design-Optimization%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088251213&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,22 +39,17 @@ tags:
 <a href="https://inciteful.xyz/p/W3040720448" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_72" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_72?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper focuses on optimizing the shape of prefabricated building components that are produced using 3D concrete printing (3DCP) techniques. The proposed method is to improve the structural and thermal properties using heuristic optimization algorithms, as such that they meet the minimum standards determined by building design codes. First, a case study is constructed that is based upon an existing module design found in literature, and a single segment from this design is isolated. The influence of the overall shape and the curvature of the infill line is investigated, and the structural performance is optimized for the hardened material state. In a second attempt, the heat transfer through the segment is also minimized. In parallel to the design’s optimization process, of course, the manufacturing challenges and process limitation need to be considered as well. Therefore, the influence of the infill line on the buildability of a 3DCP element is also demonstrated in a fresh material state (i.e. during printing). For this, the complete printing process of a wall segment is simulated and allows for the prediction of printing failure, elastic buckling and plastic collapse. Based on the outcome of the FEM-based calculations, a design could then be marked fit for printing or allow for further optimization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../vant_cort_stee_boel.2019.DBTOf3PBS/">Density-Based Topology-Optimization for 3D Printable Building Structures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/yue_ziyi"><b>Yue</b> Ziyi</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_yue_gero_wang.2025.EoOaPPotBPo3PCGC/">Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components</a></li>
       <li><a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../oliv_picc_mila_gram.2025.TEoHC3TNDC/">Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization</a></li>
@@ -85,4 +63,35 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../liu_nguy_pand_fox.2022.AMoSCMaFFS/">Additive Manufacturing of Sustainable Construction Materials and Form-Finding Structures:<br/>A Review on Recent Progresses</a></li>
       <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/jaugstetter_fabian"><b>Jaugstetter</b> Fabian</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../diel_brie_jaug_henk.2021.AMoTELCWEwCCS/">Additive Manufacturing of Thermally Enhanced Lightweight Concrete Wall Elements with Closed Cellular Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{vant_stee_cort_boel.2020.DOf3CP,
+      author            = "Gieljan Vantyghem and Marijke Steeman and Wouter de Corte and Veerle Boel",
+      title             = "Design-Optimization for 3D Concrete Printing: Improving Structural and Thermal Performances",
+      doi               = "10.1007/978-3-030-49916-7_72",
+      year              = "2020",
+      volume            = "28",
+      pages             = "720--727",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Vantyghem, M. Steeman, W. de Corte and V. Boel, “Design-Optimization for 3D Concrete Printing: Improving Structural and Thermal Performances”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 720–727. doi: 10.1007/978-3-030-49916-7_72.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vantyghem, Gieljan, Marijke Steeman, Wouter de Corte, and Veerle Boel. “Design-Optimization for 3D Concrete Printing: Improving Structural and Thermal Performances”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:720–27, 2020. https://doi.org/10.1007/978-3-030-49916-7_72.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

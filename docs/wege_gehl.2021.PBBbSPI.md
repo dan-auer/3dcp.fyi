@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Weger, Christoph Gehlen
+    - footer
+title: Weger Daniel, Gehlen Christoph
 description:
 tags:
  - bed
@@ -20,34 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/3/586/pdf?version=1611742028) Particle-Bed Binding by Selective Paste-Intrusion:<br/>:aca-blank: Strength and Durability of Printed Fine-Grain Concrete Members ([2021-01](date/2021/01))
-<a href="https://doi.org/10.3390/ma14030586" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14030586</a>
+#Particle-Bed Binding by Selective Paste-Intrusion&nbsp;([2021-01](date/2021/01))
+<div class="h1-like">Strength and Durability of Printed Fine-Grain Concrete Members</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/3/586/pdf?version=1611742028) <a href="https://doi.org/10.3390/ma14030586" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14030586" target="_blank">10.3390/ma14030586</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bed`](keyword/bed)
-    [`#binder`](keyword/binder)
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#fine`](keyword/fine)
-    [`#grain`](keyword/grain)
-    [`#intrusion`](keyword/intrusion)
-    [`#particle`](keyword/particle)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Particle-Bed%20Binding%20by%20Selective%20Paste-Intrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100262277&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3122214477" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14030586" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14030586?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The selective paste intrusion (SPI) describes a selective binding, additive manufacturing method. SPI bonds thin layers of aggregate by cement paste locally. Currently, SPI can achieve higher compressive strength, durability, and easier unpacking behavior compared to other selective binding methods suitable for the production of concrete structures. Particle-bed based methods not only achieve much higher surface resolutions than depositing (extrusion)-based additive manufacturing methods but also have no restrictions in freedom of form. However, the mechanical performance of SPI components strongly depends on the void content between the individual layers and thus the penetration behavior of the cement paste. This paper presents direction-dependent measurements of the strength and durability of SPI-printed components compared to casted specimens with the same mixing composition. The results show compressive strength values between 70 and 78 MPa after 7 d, flexural strength of 1/10 without reinforcement, a high freeze-thaw resistance, no detectable carbonation after 182 days of exposure under ambient CO2-conditions, and after 28 days under increased CO2 content of 2 vol % as well as low chloride penetration resistances. All tests showed in almost all cases no dependency on the layer orientation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
@@ -85,15 +62,14 @@ tags:
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pongpaisanseree_kittisak"><b>Pongpaisanseree</b> Kittisak</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pras_pong_jira_sngu.2020.TaSIoLS3EPWP/">Thermal- and Sound-Insulation of Large-Scale 3D Extrusion-Printing Wall-Panel</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../shak_neja_paul_sanj.2020.DAFWaPiI3fGaCMM/">Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
-      <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../stra_wege_matt_kran.2022.CWaAAMaSPIfAMSC/">Combining Wire and Arc Additive Manufacturing and Selective Paste-Intrusion for Additively Manufactured Structural Concrete</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../xia_nema_sanj.2020.SAEoGSMUPB3P/">Shape Accuracy Evaluation of Geopolymer Specimens Made Using Particle-Bed 3D Printing</a></li>
       <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/dong_chenghao"><b>Dong</b> Chenghao</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../zuo_dong_keit_rous.2020.PSoLiPBf3PBP/">Penetration Study of Liquid in Powder-Bed for 3D Powder-Bed Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
@@ -117,4 +93,34 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wege_gehl.2021.PBBbSPI,
+      author            = "Daniel Weger and Christoph Gehlen",
+      title             = "Particle-Bed Binding by Selective Paste-Intrusion: Strength and Durability of Printed Fine-Grain Concrete Members",
+      doi               = "10.3390/ma14030586",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Weger  and C. Gehlen, “Particle-Bed Binding by Selective Paste-Intrusion: Strength and Durability of Printed Fine-Grain Concrete Members”, <i>Materials</i>, vol. 14, no. 3, 2021, doi: 10.3390/ma14030586.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weger, Daniel, and Christoph Gehlen. “Particle-Bed Binding by Selective Paste-Intrusion: Strength and Durability of Printed Fine-Grain Concrete Members”. <i>Materials</i> 14, no. 3 (2021). https://doi.org/10.3390/ma14030586.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

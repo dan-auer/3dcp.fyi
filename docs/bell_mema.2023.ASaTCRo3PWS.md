@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nicholas Bello, Ali Memari
+    - footer
+title: Bello Nicholas, Memari Ali
 description:
 tags:
  - comparision
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2411-9660/7/3/80/pdf?version=1687167082) A Structural and Thermal Comparative Review of 3D Printed Wall Shapes ([2023-06](date/2023/06))
-<a href="https://doi.org/10.3390/designs7030080" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/designs7030080</a>
+#A Structural and Thermal Comparative Review of 3D Printed Wall Shapes ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2411-9660/7/3/80/pdf?version=1687167082) <a href="https://doi.org/10.3390/designs7030080" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/designs7030080" target="_blank">10.3390/designs7030080</a>
 
--------------------------
+<a href="../../../author/bello_d_nicholas"><b>Bello</b>&nbsp;Nicholas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span><br>
+Journal Article - Designs, Vol. 7, Iss. 3, No. 80
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bello_d_nicholas"><b>Bello</b> Nicholas</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Designs, Vol. 7, Iss. 3, No. 80
-
-:aca-blank:{ .lg .middle}
-    [`#comparision`](keyword/comparision)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#shape`](keyword/shape)
-    [`#structure`](keyword/structure)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Structural%20and%20Thermal%20Comparative%20Review%20of%203D%20Printed%20Wall%20Shapes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163704726&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4381434837" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/designs7030080" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/designs7030080?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article explores several aspects of the three-dimensional concrete printing (3DCP) industry. More specifically, it begins with a literature review discussing the background of this technology. This literature review also explores several of the challenges that the industry is currently facing. In this way, a knowledge gap is identified. More specifically, there are few studies that have explored the structural and thermal performance of typical walls printed in this industry. Therefore, we used the simulation tool in SolidWorks to examine the structural behavior of several different wall types when pressure was applied to the exterior face. In addition to this, the thermal performance of different wall types was also studied in SolidWorks by applying a temperature difference between the exterior and interior faces of each wall. For example, one wall shape in this study had minimum factor of safety of approximately 100 due when a load was applied, and the same wall lost approximately 212 W due to the temperature difference applied in this study. Finally, SolidWorks was used to calculate the moment of inertia of the cross sections of several of these walls, which helped to provide a better understanding of each wall’s structural rigidity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dey_pand.2023.AESoTPo3PCS/">An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs</a></li>
@@ -71,9 +52,40 @@ tags:
       <li><a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a>, <a href="../../../author/kowaleski_r_scott"><b>Kowaleski</b> Scott</a>, <a href="../../../author/carli_d_matthew"><b>Carli</b> Matthew</a>, <a href="../../../author/bright_p_randall"><b>Bright</b> Randall</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../veri_kowa_carl_brig.2020.Po3PMwtDoa3CPDS/">Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/macallister_bruce"><b>MacAllister</b> Bruce</a>, <a href="../../../author/wood_tanner"><b>Wood</b> Tanner</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krei_krei_maca_wood.2024.TUoACiASCoaB/">The Use of Additive Construction in All Structural Components of a Building</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bell_mema.2023.ASaTCRo3PWS,
+      author            = "Nicholas D. Bello and Ali M. Memari",
+      title             = "A Structural and Thermal Comparative Review of 3D Printed Wall Shapes",
+      doi               = "10.3390/designs7030080",
+      year              = "2023",
+      journal           = "Designs",
+      volume            = "7",
+      number            = "3",
+      pages             = "80",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. D. Bello  and A. M. Memari, “A Structural and Thermal Comparative Review of 3D Printed Wall Shapes”, <i>Designs</i>, vol. 7, no. 3, p. 80, 2023, doi: 10.3390/designs7030080.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bello, Nicholas D., and Ali M. Memari. “A Structural and Thermal Comparative Review of 3D Printed Wall Shapes”. <i>Designs</i> 7, no. 3 (2023): 80. https://doi.org/10.3390/designs7030080.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

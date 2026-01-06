@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mahfuzur Rahman, Dong An, Sanket Rawat, Richard Yang, Y. Zhang
+    - footer
+title: Rahman Mahfuzur, An Dong, Rawat Sanket, Yang Richard, Zhang Y.
 description:
 tags:
  - cement
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05360" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05360</a>
+#Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05360" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05360" target="_blank">10.1016/j.cscm.2025.e05360</a>
 
--------------------------
+<a href="../../../author/rahman_mahfuzur"><b>Rahman</b>&nbsp;Mahfuzur</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_dong"><b>An</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1985-7579" title="ORCID: 0000-0002-1985-7579" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rawat_sanket"><b>Rawat</b>&nbsp;Sanket</a></span>, <a href="../../../author/yang_richard"><b>Yang</b>&nbsp;Richard</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05360
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>
-,     <a href="../../../author/an_dong"><b>An</b> Dong</a> <a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a> <a href="https://orcid.org/0000-0002-1985-7579" title="ORCID: 0000-0002-1985-7579" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_richard"><b>Yang</b> Richard</a>
-,     <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05360
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#development`](keyword/development)
-    [`#green`](keyword/green)
-    [`#method`](keyword/method)
-    [`#multi`](keyword/multi)
-    [`#optimization`](keyword/optimization)
-    [`#printability`](keyword/printability)
-    [`#response`](keyword/response)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Green%203D%20Printable%20Cementitious%20Composites%20Using%20Multi-Response%20Optimisation%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017955160&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414707124" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05360" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05360?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is a new but one of the most sustainable and revolutionary manufacturing technologies for the construction sector. The printability relies on fresh properties; hence, effective mix design requires a systematic optimisation approach. This paper, for the first time, develops a green and 3D printable cementitious composite (3DP-CC) employing the Taguchi-based TOPSIS optimisation method, and a high volume of ground granulated blast furnace slag (GGBFS) is used, in replacement of cement, which has been commonly used in 3DP-CC. The developed optimisation material design method and 3D printing materials consider nine performance criteria encompassing fresh and mechanical properties and sustainability aspects, including flowability, buildability, mini-slump, deformation, weighted mini-slump, 1-day and 28-day compressive strength, flexural strength, and CO2 emission rate. Three factors, each with three control levels, are analysed, including GGBFS content (50 %, 60 %, 70 %), superplasticiser (SP) dosage (4, 5, 6 L/m³ of mortar), and viscosity modifying agent (VMA) dosage (4, 8, 12 L/m³ of mortar). The mix, with 60 % GGBFS content, SP dosage and VMA dosage of 5 L/m³ and 8 L/m³ is determined to be the optimal mix via using the devised optimisation method, and the optimal mix design is validated by 3D printing, demonstrating favourable printability performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a></li>
@@ -87,7 +63,37 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rahm_an_rawa_yang.2025.DoG3PCCUMROM,
+      author            = "Mahfuzur Rahman and Dong An and Sanket Rawat and Richard Yang and Y. X. Zhang",
+      title             = "Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method",
+      doi               = "10.1016/j.cscm.2025.e05360",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "23",
+      pages             = "e05360",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rahman, D. An, S. Rawat, R. Yang and Y. X. Zhang, “Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method”, <i>Case Studies in Construction Materials</i>, vol. 23, p. e05360, 2025, doi: 10.1016/j.cscm.2025.e05360.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rahman, Mahfuzur, Dong An, Sanket Rawat, Richard Yang, and Y. X. Zhang. “Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method”. <i>Case Studies in Construction Materials</i> 23 (2025): e05360. https://doi.org/10.1016/j.cscm.2025.e05360.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

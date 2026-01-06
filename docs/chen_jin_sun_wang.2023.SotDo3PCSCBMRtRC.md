@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mingxu Chen, Yuan Jin, Keke Sun, Shoude Wang, Piqi Zhao, Liang Wang, Junzhe Liu, Gongbing Yue, Qiuyi Li, Lingchao Lu
+    - footer
+title: Chen Mingxu, Jin Yuan, Sun Keke, Wang Shoude, Zhao Piqi, Wang Liang, Liu Junzhe, Yue Gongbing, Li Qiuyi, Lu Lingchao
 description:
 tags:
  - base
@@ -16,38 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmrt.2023.08.076) Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.jmrt.2023.08.076" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2023.08.076</a>
+#Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control ([2023-08](date/2023/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2023.08.076) <a href="https://doi.org/10.1016/j.jmrt.2023.08.076" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2023.08.076" target="_blank">10.1016/j.jmrt.2023.08.076</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/jin_yuan"><b>Jin</b>&nbsp;Yuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5917-6172" title="ORCID: 0000-0001-5917-6172" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_keke"><b>Sun</b>&nbsp;Keke</a></span>, <a href="../../../author/wang_shoude"><b>Wang</b>&nbsp;Shoude</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_piqi"><b>Zhao</b>&nbsp;Piqi</a></span>, <a href="../../../author/wang_liang"><b>Wang</b>&nbsp;Liang</a></span>, <a href="../../../author/liu_junzhe"><b>Liu</b>&nbsp;Junzhe</a></span>, <a href="../../../author/yue_gongbing"><b>Yue</b>&nbsp;Gongbing</a></span>, <a href="../../../author/li_qiuyi"><b>Li</b>&nbsp;Qiuyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span><br>
+Journal Article - Journal of Materials Research and Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>
-,     <a href="../../../author/sun_keke"><b>Sun</b> Keke</a> <a href="https://orcid.org/0000-0001-5917-6172" title="ORCID: 0000-0001-5917-6172" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a>
-,     <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> <a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_liang"><b>Wang</b> Liang</a>
-,     <a href="../../../author/liu_junzhe"><b>Liu</b> Junzhe</a>
-,     <a href="../../../author/yue_gongbing"><b>Yue</b> Gongbing</a>
-,     <a href="../../../author/li_qiuyi"><b>Li</b> Qiuyi</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#durability`](keyword/durability)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Durability%20of%203D%20Printed%20Calcium-Sulphoaluminate%20Cement-Based%20Materials%20Related%20to%20Rheology-Control" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85168314771&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,20 +38,15 @@ tags:
 <a href="https://inciteful.xyz/p/W4385727983" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2023.08.076" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2023.08.076?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Since 3D printed structure is conducted by the style of dimension reduction, the defects typically occur between the printing layers due to the poor rheological properties, which affects the durability most. This study focuses on exploring the durability of 3D printed calcium sulphoaluminate cement-based materials (CSACMs) with slag powder based on the correlation between printed structures and rheological parameters. Experimental results show that both the static and dynamic yield stress of 3D printed CSACMs exhibits a gradual increase with the slag powder content increases, while the thixotropy improves continually until reaching a maximum content at 15%. In this case, an increase in slag powder content leads to a significant reduction for structure deformation. However, poor printability occurs when the content of slag powder exceeds 15%. Besides, the chloride migration coefficient and maximum electric flux decreases from 7.28×10-12 to 3.27×10-12 m2/s and 1347 to 711 K, respectively, when the content of slag powder increases from 0 to 10%. Meanwhile, the freezing resistance and linear shrinkage are improved. Based on the radar map correlation, structure deformation is significantly influenced by thixotropy, which is a crucial factor that can impact the durability of 3D printed CSACMs. In conclusion, the controllable rheology of 3D printed CSACMs are advantageous for improving the printed structures and durability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
-      <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../chen_liu_cao_chen.2022.SIoRPR3PPfAAM/">Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials:<br/>Effect of Precursor Nature</a></li>
@@ -117,13 +88,40 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
       <li><a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/chen_xuemei"><b>Chen</b> Xuemei</a>, <a href="../../../author/deng_yongjun"><b>Deng</b> Yongjun</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_zou_chen_deng.2025.FSo3PRCaaPF/">Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork:<br/>Mechanical Properties, Interlayer Interface and Durability</a></li>
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
-      <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC,
+      author            = "Mingxu Chen and Yuan Jin and Keke Sun and Shoude Wang and Piqi Zhao and Liang Wang and Junzhe Liu and Gongbing Yue and Qiuyi Li and Lingchao Lu",
+      title             = "Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control",
+      doi               = "10.1016/j.jmrt.2023.08.076",
+      year              = "2023",
+      journal           = "Journal of Materials Research and Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, “Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control”, <i>Journal of Materials Research and Technology</i>, 2023, doi: 10.1016/j.jmrt.2023.08.076.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Mingxu, Yuan Jin, Keke Sun, Shoude Wang, Piqi Zhao, Liang Wang, Junzhe Liu, Gongbing Yue, Qiuyi Li, and Lingchao Lu. “Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control”. <i>Journal of Materials Research and Technology</i>, 2023. https://doi.org/10.1016/j.jmrt.2023.08.076.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

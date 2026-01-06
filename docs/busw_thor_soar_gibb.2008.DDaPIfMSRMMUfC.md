@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Richard Buswell, Tony Thorpe, Rupert Soar, Alistar Gibb
+    - footer
+title: Buswell Richard, Thorpe Tony, Soar Rupert, Gibb Alistar
 description:
 tags:
  - construction
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/ndownloader/files/17075564) Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction ([2008-05](date/2008/05))
-<a href="https://doi.org/10.1016/j.autcon.2008.03.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2008.03.001</a>
+#Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction ([2008-05](date/2008/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/ndownloader/files/17075564) <a href="https://doi.org/10.1016/j.autcon.2008.03.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2008.03.001" target="_blank">10.1016/j.autcon.2008.03.001</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <a href="../../../author/thorpe_tony"><b>Thorpe</b>&nbsp;Tony</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6523-5957" title="ORCID: 0000-0002-6523-5957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soar_c_rupert"><b>Soar</b>&nbsp;Rupert</a></span>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b>&nbsp;Alistar</a></span><br>
+Journal Article - Automation in Construction, Vol. 17, Iss. 8, pp. 923-929
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>
-,     <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a> <a href="https://orcid.org/0000-0002-6523-5957" title="ORCID: 0000-0002-6523-5957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 17, Iss. 8, pp. 923-929
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#data`](keyword/data)
-    [`#design`](keyword/design)
-    [`#machine`](keyword/machine)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#process`](keyword/process)
-    [`#rapid`](keyword/rapid)
-    [`#scale`](keyword/scale)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%2C%20Data%20and%20Process%20Issues%20for%20Mega-Scale%20Rapid%20Manufacturing%20Machines%20Used%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-45949093386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,24 +39,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2041253470" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2008.03.001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2008.03.001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Building three dimensional objects in sequential layers is a technique employed by Rapid Manufacturing processes which allow great freedom in the design of the manufactured component. Niche markets for these technologies are continually developing and they challenge conventional methods of design and procurement. In the last few years there have been large scale processes for construction applications developed based on Rapid Manufacturing principles. These processes offer construction automation, the promise of design freedom and the possibility of building in additional functionality into structures. This paper explores the issues surrounding design, data and process in terms of the impact Rapid Manufacturing has had on conventional manufacturing. Large scale processes for construction are described and these issues are then used as the basis for considering the impact these machines may have on the design and production of construction components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "59 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/dara_seni"><b>Dara</b> Seni</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_dara_abde.2025.ESSoSS3PEBCURA/">Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM</a></li>
       <li><a href="../../../author/wu_changzhong"><b>Wu</b> Changzhong</a>, <a href="../../../author/zhu_xingyu"><b>Zhu</b> Xingyu</a>, <a href="../../../author/wu_liang"><b>Wu</b> Liang</a>, <a href="../../../author/an_haibo"><b>An</b> Haibo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wu_zhu_wu_an.2025.DaSAotEDoC3PD/">Design and Simulation Analysis of the Extrusion Device of Concrete 3D Printing Device</a></li>
@@ -136,4 +113,35 @@ tags:
       <li><a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>, <a href="../../../author/che_haichao"><b>Che</b> Haichao</a> <a href="../../../date/2014/12">(2014-12)</a><br><a href="../../../ding_wei_che.2014.DoaBBACS/">Development of a BIM-Based Automated Construction System</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC,
+      author            = "Richard A. Buswell and Tony Thorpe and Rupert C. Soar and Alistar G.F. Gibb",
+      title             = "Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction",
+      doi               = "10.1016/j.autcon.2008.03.001",
+      year              = "2008",
+      journal           = "Automation in Construction",
+      volume            = "17",
+      number            = "8",
+      pages             = "923--929",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. A. Buswell, T. Thorpe, R. C. Soar and A. G. F. Gibb, “Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction”, <i>Automation in Construction</i>, vol. 17, no. 8, pp. 923–929, 2008, doi: 10.1016/j.autcon.2008.03.001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Buswell, Richard A., Tony Thorpe, Rupert C. Soar, and Alistar G.F. Gibb. “Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction”. <i>Automation in Construction</i> 17, no. 8 (2008): 923–29. https://doi.org/10.1016/j.autcon.2008.03.001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

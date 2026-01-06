@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexander Straßer, Felix Riegger, Leigh Hamilton, Thomas Kränkel, Christoph Gehlen, Michael Zäh, Arno Kwade
+    - footer
+title: Straßer Alexander, Riegger Felix, Hamilton Leigh, Kränkel Thomas, Gehlen Christoph, Zäh Michael, Kwade Arno
 description:
 tags:
  - integration
@@ -13,32 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Selective Paste-Intrusion:<br/>:aca-blank: Integration of Reinforcement by WAAM ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133236" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133236</a>
+#Selective Paste-Intrusion&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">Integration of Reinforcement by WAAM</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133236" target="_blank">10.1016/j.conbuildmat.2023.133236</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0293-3392" title="ORCID: 0000-0003-0293-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strasser_alexander"><b>Straßer</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6754-6372" title="ORCID: 0000-0001-6754-6372" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/riegger_felix"><b>Riegger</b>&nbsp;Felix</a></span>, <a href="../../../author/hamilton_duncan_leigh"><b>Hamilton</b>&nbsp;Leigh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krankel_thomas"><b>Kränkel</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2882-1359" title="ORCID: 0000-0002-2882-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zah_f_michael"><b>Zäh</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6348-7309" title="ORCID: 0000-0002-6348-7309" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwade_arno"><b>Kwade</b>&nbsp;Arno</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 406, No. 133236
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a> <a href="https://orcid.org/0000-0003-0293-3392" title="ORCID: 0000-0003-0293-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/riegger_felix"><b>Riegger</b> Felix</a> <a href="https://orcid.org/0000-0001-6754-6372" title="ORCID: 0000-0001-6754-6372" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hamilton_duncan_leigh"><b>Hamilton</b> Leigh</a>
-,     <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> <a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zah_f_michael"><b>Zäh</b> Michael</a> <a href="https://orcid.org/0000-0002-2882-1359" title="ORCID: 0000-0002-2882-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kwade_arno"><b>Kwade</b> Arno</a> <a href="https://orcid.org/0000-0002-6348-7309" title="ORCID: 0000-0002-6348-7309" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 406, No. 133236
-
-:aca-blank:{ .lg .middle}
-    [`#integration`](keyword/integration)
-    [`#intrusion`](keyword/intrusion)
-    [`#paste`](keyword/paste)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#selective`](keyword/selective)
-
-
--------------------------
+<a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Selective%20Paste-Intrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172270348&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387030062" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133236" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133236?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Selective Paste Intrusion (SPI) is an additive manufacturing (AM) process in which thin layers of aggregates are selectively bonded by cement paste only where the structure is to be produced. In this way, concrete elements with complex geometries and structures can be created. Reinforcement is required to increase the flexural strength of the concrete elements and, thus, enable their applicability in practice. Integrating the reinforcement is a difficult task, particularly in the case of SPI due to the layer-wise printing method. Especially with respect to possible complex structures, the production of the reinforcement needs to be adapted to SPI, thereby offering a high degree of freedom. One concept for a reinforcement integration is combining the two additive manufacturing processes SPI and Wire and Arc Additive Manufacturing (WAAM). However, since the two processes serve different fields of application, their compatibility is not necessarily given. Ongoing investigations show that the temperatures caused by WAAM adversely affect both, the cement paste rheology required for sufficient paste penetration into the particle bed and the overall concrete strength. This paper provides an overview of ongoing research focusing on different cooling strategies and their effects on the compressive strength of SPI-printed concrete parts. The studied strategies are increasing the distance between the printing nozzles and the particle bed for higher convectional cooling, and passive cooling by utilizing dry water particles. Temperatures up to 206 °C were measured at a distance of 40 mm to the welding zone, which indicates the need for active cooling. Dry water showed adequate cooling properties and can be deployed to create a free-flowing, water-storing bulk material, but has a negative impact on the compressive and flexural strength of SPI-printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/arre_lidiana"><b>Arrè</b> Lidiana</a>, <a href="../../../author/kienbaum_gabriela"><b>Kienbaum</b> Gabriela</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dorr_lagh_arre_kien.2022.CAMTfACPS/">Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
@@ -76,10 +55,40 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_gehl.2021.PBBbSPI/">Particle-Bed Binding by Selective Paste-Intrusion:<br/>Strength and Durability of Printed Fine-Grain Concrete Members</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../slep_borr.2024.FIMfCLDaQIiAMfC/">Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/haynack_alexander"><b>Haynack</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../stra_hayn_kran_gehl.2024.AMbtSPI/">Additive Manufacturing by the Selective Paste-Intrusion:<br/>Effect of the Distance of the Print Nozzle to the Particle-Bed on the Print Quality</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{stra_rieg_hami_kran.2023.SPI,
+      author            = "Alexander Straßer and Felix Riegger and Leigh Duncan Hamilton and Thomas Kränkel and Christoph Gehlen and Michael F. Zäh and Arno Kwade",
+      title             = "Selective Paste-Intrusion: Integration of Reinforcement by WAAM",
+      doi               = "10.1016/j.conbuildmat.2023.133236",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "406",
+      pages             = "133236",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Straßer, “Selective Paste-Intrusion: Integration of Reinforcement by WAAM”, <i>Construction and Building Materials</i>, vol. 406, p. 133236, 2023, doi: 10.1016/j.conbuildmat.2023.133236.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Straßer, Alexander, Felix Riegger, Leigh Duncan Hamilton, Thomas Kränkel, Christoph Gehlen, Michael F. Zäh, and Arno Kwade. “Selective Paste-Intrusion: Integration of Reinforcement by WAAM”. <i>Construction and Building Materials</i> 406 (2023): 133236. https://doi.org/10.1016/j.conbuildmat.2023.133236.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

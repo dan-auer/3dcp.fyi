@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Magdalena Rudziewicz, Marcin Maroszek, Marek Hebda
+    - footer
+title: Rudziewicz Magdalena, Maroszek Marcin, Hebda Marek
 description:
 tags:
  - activation
@@ -22,37 +23,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/18/19/4498/pdf?version=1758980800) Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/ma18194498" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18194498</a>
+#Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/19/4498/pdf?version=1758980800) <a href="https://doi.org/10.3390/ma18194498" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18194498" target="_blank">10.3390/ma18194498</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - None
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - None, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#binder`](keyword/binder)
-    [`#comparison`](keyword/comparison)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#conductivity`](keyword/conductivity)
-    [`#fiber`](keyword/fiber)
-    [`#foam`](keyword/foam)
-    [`#hybrid`](keyword/hybrid)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conductivity"><button class="btn">#conductivity</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Porosity%20and%20Thermal%20Conductivity%20of%20Concrete%20and%20Alkali-Activated%20Hybrid%20Binders%20in%203D-Printed%20Fiber-Reinforced%20Foamed%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018912795&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414610129" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18194498" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18194498?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fiber-reinforced foamed composites have recently attracted growing interest due to their potential in sustainable construction and advanced additive manufacturing. However, their performance strongly depends on the type of matrix and fiber system used. The aim of this study was to perform a comparative analysis of matrix type and fiber composition on the porosity, thermal behavior, and mechanical performance of 3D-printed fiber-reinforced foamed composites. To this end, cementitious mixtures (M1–M3) were compared with alkali-activated hybrid binder systems (M4–M6). The results revealed marked differences in mechanical strength, dimensional stability, moisture transport, and interlayer cohesion. Alkali-activated specimens, particularly M5 and M6, exhibited superior compressive, flexural, and shear strength; reduced water penetration; and improved fiber–matrix bonding, associated with a denser and more homogeneous pore structure. In contrast, cementitious composites showed greater dimensional stability and easier process control, indicating practical advantages for large-scale on-site applications. The results highlight that while alkali activation and hybrid fiber reinforcement enhance structural performance, non-activated foamed concretes remain promising for applications prioritizing simplicity, reproducibility, and thermal insulation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
       <li><a href="../../../author/demirbas_osman_ali"><b>Demirbaş</b> Ali</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../demi_tugl_sahi_ilca.2025.ACSotVoRCAi3PCS/">A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems</a></li>
@@ -97,7 +70,34 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC,
+      author            = "Magdalena Rudziewicz and Marcin Maroszek and Marek Hebda",
+      title             = "Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites",
+      doi               = "10.3390/ma18194498",
+      year              = "2025",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rudziewicz, M. Maroszek and M. Hebda, “Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites”, 2025, doi: 10.3390/ma18194498.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rudziewicz, Magdalena, Marcin Maroszek, and Marek Hebda. “Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites”, 2025. https://doi.org/10.3390/ma18194498.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li Wang, Haichen Fan, Qiang Wang, Gang Bai, Yao Qu, Guowei Ma
+    - footer
+title: Wang Li, Fan Haichen, Wang Qiang, Bai Gang, Qu Yao, Ma Guowei
 description:
 tags:
  - beam
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.engstruct.2025.121368" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.121368</a>
+#Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.121368" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121368" target="_blank">10.1016/j.engstruct.2025.121368</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/fan_haichen"><b>Fan</b>&nbsp;Haichen</a></span>, <a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span>, <a href="../../../author/bai_gang"><b>Bai</b>&nbsp;Gang</a></span>, <a href="../../../author/qu_yao"><b>Qu</b>&nbsp;Yao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Engineering Structures, Vol. 344, No. 121368
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>
-,     <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>
-,     <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>
-,     <a href="../../../author/qu_yao"><b>Qu</b> Yao</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 344, No. 121368
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#force`](keyword/force)
-    [`#mechanism`](keyword/mechanism)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#truss`](keyword/truss)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/force"><button class="btn">#force</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/truss"><button class="btn">#truss</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20Method%20and%20Force%20Transmission%20Mechanism%20of%203D%20Printed%20Concrete%20Truss%20Beams%20Reinforced%20with%203D%20Conical%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020375905&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414278630" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.121368" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.121368?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete truss structures using horizontal or planar reinforcement represent a widely adopted construction approach, offering benefits including lightweight characteristics, printing simplicity, and satisfactory load-bearing performance. However, the layer-by-layer manufacturing process creates interfacial incompatibility between reinforcement and printed concrete matrices due to insufficient transverse connectivity, ultimately affecting structural reliability. This research presents an innovative 3D conical reinforcement system designed to improve the mechanical behavior of reinforced 3D printed concrete truss beams through enhanced load transfer efficiency. Experimental investigations involving 10 beam specimens were conducted to examine the effects of: (1) planar reinforcement ratio, (2) 3D conical reinforcement configuration, and (3) shear-span ratio on structural performance characteristics. Test results indicated that the presence of 3D conical reinforcement enhanced the ultimate shear capacity by up to 15 % and increased post-peak deformation capacity by over 40 % relative to conventional 2D reinforcement systems. The study also established the refined finite element models (FEM) accounting for material anisotropy and interfacial bond behavior to elucidate the beam load transfer mechanisms. Furthermore, a modified shear capacity calculation model was established by integrating both 2D reinforcement shear-lag effects and 3D conical reinforcement contributions into reinforced concrete design equations, which demonstrates good correlation with experimental measurements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
@@ -105,7 +80,37 @@ tags:
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR,
+      author            = "Li Wang and Haichen Fan and Qiang Wang and Gang Bai and Yao Qu and Guowei Ma",
+      title             = "Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement",
+      doi               = "10.1016/j.engstruct.2025.121368",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "344",
+      pages             = "121368",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, H. Fan, Q. Wang, G. Bai, Y. Qu and G. Ma, “Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement”, <i>Engineering Structures</i>, vol. 344, p. 121368, 2025, doi: 10.1016/j.engstruct.2025.121368.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Li, Haichen Fan, Qiang Wang, Gang Bai, Yao Qu, and Guowei Ma. “Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement”. <i>Engineering Structures</i> 344 (2025): 121368. https://doi.org/10.1016/j.engstruct.2025.121368.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

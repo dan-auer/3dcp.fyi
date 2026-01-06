@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maria Kaszyńska, Norbert Olczyk, Mateusz Techman, Szymon Skibicki, Adam Zieliński, Krzysztof Filipowicz, Tomasz Wróblewski, Marcin Hoffmann
+    - footer
+title: Kaszyńska Maria, Olczyk Norbert, Techman Mateusz, Skibicki Szymon, Zieliński Adam, Filipowicz Krzysztof, Wróblewski Tomasz, Hoffmann Marcin
 description:
 tags:
  - humidity
@@ -13,33 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1757-899x/471/8/082018) Thermal-Humidity Parameters of 3D Printed Wall ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1088/1757-899x/471/8/082018" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1757-899x/471/8/082018</a>
+#Thermal-Humidity Parameters of 3D Printed Wall ([2019-02](date/2019/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/471/8/082018) <a href="https://doi.org/10.1088/1757-899x/471/8/082018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/471/8/082018" target="_blank">10.1088/1757-899x/471/8/082018</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaszynska_maria"><b>Kaszyńska</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4261-4946" title="ORCID: 0000-0002-4261-4946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olczyk_norbert"><b>Olczyk</b>&nbsp;Norbert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zielinski_adam"><b>Zieliński</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6923-6669" title="ORCID: 0000-0001-6923-6669" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/filipowicz_krzysztof"><b>Filipowicz</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3731-1542" title="ORCID: 0000-0003-3731-1542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wroblewski_tomasz"><b>Wróblewski</b>&nbsp;Tomasz</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span><br>
+Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 471
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a> <a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a> <a href="https://orcid.org/0000-0002-4261-4946" title="ORCID: 0000-0002-4261-4946" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> <a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/filipowicz_krzysztof"><b>Filipowicz</b> Krzysztof</a> <a href="https://orcid.org/0000-0001-6923-6669" title="ORCID: 0000-0001-6923-6669" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wroblewski_tomasz"><b>Wróblewski</b> Tomasz</a> <a href="https://orcid.org/0000-0003-3731-1542" title="ORCID: 0000-0003-3731-1542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 471, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#humidity`](keyword/humidity)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/humidity"><button class="btn">#humidity</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal-Humidity%20Parameters%20of%203D%20Printed%20Wall" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85062426319&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,23 +35,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2917596024" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1757-899x/471/8/082018" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1757-899x/471/8/082018?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The purpose of the external walls is to secure the internal microclimate of the building. External walls not only must have proper strength and durability but also prevent heat escape, overheating during summer, protect from noise and increase of humidity. The main parameter that describes the thermal properties of external walls is the heat transmission coefficient U [W/(m2·K)] determined in accordance with EN ISO 6946:2008. One of most recent technology of constructing walls is the additive manufacturing. The aim of the study is to determine the thermal properties of wall printed with use of High Performance Concrete and insulated with mineral wool. The study determines the temperature and vapour pressure inside the wall and presents calculations of thermal factor. The study compares the characteristics of traditional walls with 3D printed elements. The tests have shown that insulating printed structures does not pose any difficulty. Corrugated structure of printed walls increases the adhesion of adhesive mortar. Proposed tests are the starting point for further studies on the thermal-humidity of 3D printed structures. The main goal is to propose a solution for cheap, efficient insulation technology for 3D printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../duba_goss_roux.2015.AMaMOOoGPACS/">Additive Manufacturing and Multi-Objective Optimization of Graded Polystyrene-Aggregate Concrete Structures</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
-      <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../kasz_olcz_tech_skib.2019.THPo3PW/">Thermal-Humidity Parameters of 3D Printed Wall</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -84,8 +60,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/alsuwaidi_abdulla"><b>Alsuwaidi</b> Abdulla</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/binshaqooi_essa"><b>Binshaqooi</b> Essa</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mans_alsu_bina_bins.2025.CHTaUVAo3CPEwVTACiHAC/">Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/ascensao_guilherme"><b>Ascensão</b> Guilherme</a>, <a href="../../../author/fernandes_fabio"><b>Fernandes</b> Fábio</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lori_nova_asce_fern.2025.CFGf3PA/">Chemically Foamed Geopolymers for 3D Printing Applications</a></li>
@@ -110,6 +86,34 @@ tags:
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a></li>
-      <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../kasz_olcz_tech_skib.2019.THPo3PW/">Thermal-Humidity Parameters of 3D Printed Wall</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kasz_olcz_tech_skib.2019.THPo3PW,
+      author            = "Maria Kaszyńska and Norbert Olczyk and Mateusz Techman and Szymon Skibicki and Adam Zieliński and Krzysztof Filipowicz and Tomasz Wróblewski and Marcin Hoffmann",
+      title             = "Thermal-Humidity Parameters of 3D Printed Wall",
+      doi               = "10.1088/1757-899x/471/8/082018",
+      year              = "2019",
+      journal           = "IOP Conference Series: Materials Science and Engineering",
+      volume            = "471",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Kaszyńska, “Thermal-Humidity Parameters of 3D Printed Wall”, <i>IOP Conference Series: Materials Science and Engineering</i>, vol. 471, 2019, doi: 10.1088/1757-899x/471/8/082018.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kaszyńska, Maria, Norbert Olczyk, Mateusz Techman, Szymon Skibicki, Adam Zieliński, Krzysztof Filipowicz, Tomasz Wróblewski, and Marcin Hoffmann. “Thermal-Humidity Parameters of 3D Printed Wall”. <i>IOP Conference Series: Materials Science and Engineering</i> 471 (2019). https://doi.org/10.1088/1757-899x/471/8/082018.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

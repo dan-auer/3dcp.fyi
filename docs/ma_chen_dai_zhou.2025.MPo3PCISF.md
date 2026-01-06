@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wei Ma, Junjie Chen, Yuntong Dai, Yaya Zhou, Junlong Ren, Lei Wang, Qinghu Xu
+    - footer
+title: Ma Wei, Chen Junjie, Dai Yuntong, Zhou Yaya, Ren Junlong, Wang Lei, Xu Qinghu
 description:
 tags:
  - analysis
@@ -19,38 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>:aca-blank: Experimental Study and Finite Element Analysis ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114252" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114252</a>
+#Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Experimental Study and Finite Element Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114252" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114252" target="_blank">10.1016/j.jobe.2025.114252</a>
 
--------------------------
+<a href="../../../author/ma_wei"><b>Ma</b>&nbsp;Wei</a></span>, <a href="../../../author/chen_junjie"><b>Chen</b>&nbsp;Junjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8576-9430" title="ORCID: 0000-0001-8576-9430" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_yuntong"><b>Dai</b>&nbsp;Yuntong</a></span>, <a href="../../../author/zhou_yaya"><b>Zhou</b>&nbsp;Yaya</a></span>, <a href="../../../author/ren_junlong"><b>Ren</b>&nbsp;Junlong</a></span>, <a href="../../../author/wang_lei"><b>Wang</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2512-0140" title="ORCID: 0000-0003-2512-0140" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_qinghu"><b>Xu</b>&nbsp;Qinghu</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114252
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_wei"><b>Ma</b> Wei</a>
-,     <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>
-,     <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a> <a href="https://orcid.org/0000-0001-8576-9430" title="ORCID: 0000-0001-8576-9430" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a>
-,     <a href="../../../author/ren_junlong"><b>Ren</b> Junlong</a>
-,     <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>
-,     <a href="../../../author/xu_qinghu"><b>Xu</b> Qinghu</a> <a href="https://orcid.org/0000-0003-2512-0140" title="ORCID: 0000-0003-2512-0140" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114252
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#experiment`](keyword/experiment)
-    [`#finite`](keyword/finite)
-    [`#formwork`](keyword/formwork)
-    [`#irregularity`](keyword/irregularity)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/irregularity"><button class="btn">#irregularity</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D%20Printed%20Concrete%20Irregular%20Structural%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018305649&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415071060" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114252" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114252?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete formwork demonstrates unique advantages in meeting the complex design and customization needs of the construction industry. However, most existing research focuses primarily on printing techniques and material optimization, with limited studies addressing its mechanical behavior during construction. This gap hinders its application in scenarios requiring complex geometries and high performance. To address this, the present study investigates the mechanical behavior of 3D printed concrete irregular formwork during concrete pouring through both theoretical and experimental approaches. Lateral pressure tests under different working conditions, theoretical calculations incorporating vibration effects, and finite element analysis were conducted to examine the stress and deformation behavior of the formwork. Experimental results indicate that the overall deformation of the 3D printed concrete irregular formwork was within 0.375 mm, with interlayer displacement all below 1.122×10-4 mm, demonstrating good structural integrity. The vibration method significantly influenced the lateral pressure distribution. A scheme involving vibration every 0.5 m during pouring, followed by full vibration after pouring, produced a more uniform lateral pressure, making it the preferred method. Moreover, the combined stresses at all measurement points during pouring, including normal stress, shear stress, and lateral pressure, were lower than the theoretical values calculated from the design loads. Finite element simulation results exhibited strong agreement with experimental data. Overall, the 3D printed concrete irregular formwork possess superior performance during concrete pouring, addressing issues such as deformation susceptibility, difficulty in formwork assembly, and high costs associated with traditional formwork in complex structures. It also ensures structural stability and uniform stress distribution while significantly reducing construction time, offering a novel pathway for precise and sustainable construction of geometrically complex buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
@@ -101,7 +74,36 @@ tags:
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/dong_weiwei"><b>Dong</b> Weiwei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_shen_sun_dong.2024.NIoSBoRCBw3PCPF/">Numerical Investigation on Shear Behavior of Reinforced Concrete Beam with 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_chen_dai_zhou.2025.MPo3PCISF,
+      author            = "Wei Ma and Junjie Chen and Yuntong Dai and Yaya Zhou and Junlong Ren and Lei Wang and Qinghu Xu",
+      title             = "Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork: Experimental Study and Finite Element Analysis",
+      doi               = "10.1016/j.jobe.2025.114252",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114252",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Ma, “Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork: Experimental Study and Finite Element Analysis”, <i>Journal of Building Engineering</i>, p. 114252, 2025, doi: 10.1016/j.jobe.2025.114252.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Wei, Junjie Chen, Yuntong Dai, Yaya Zhou, Junlong Ren, Lei Wang, and Qinghu Xu. “Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork: Experimental Study and Finite Element Analysis”. <i>Journal of Building Engineering</i>, 2025, 114252. https://doi.org/10.1016/j.jobe.2025.114252.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anna Nóbrega, Cleanto Queiroz Junior, Wendell Souza, Kleber Cabral, Antônio Martinelli
+    - footer
+title: Nóbrega Anna, Queiroz Junior Cleanto, Souza Wendell, Cabral Kleber, Martinelli Antônio
 description:
 tags:
  - analysis
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Computational Modeling for Structural Element Analysis Using Cement Composites in 3D Printing ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1007/s00170-024-13198-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00170-024-13198-3</a>
+#Computational Modeling for Structural Element Analysis Using Cement Composites in 3D Printing ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-024-13198-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-024-13198-3" target="_blank">10.1007/s00170-024-13198-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3128-7692" title="ORCID: 0000-0003-3128-7692" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nobrega_christinna-secundo-lopes_anna"><b>Nóbrega</b>&nbsp;Anna</a></span>, <a href="../../../author/queiroz-junior_carlos_cleanto"><b>de&nbsp;Queiroz Junior</b>&nbsp;Cleanto</a></span>, <a href="../../../author/souza_rossine-medeiros_wendell"><b>de&nbsp;Souza</b>&nbsp;Wendell</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b>&nbsp;Kleber</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3885-9104" title="ORCID: 0000-0003-3885-9104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b>&nbsp;Antônio</a></span><br>
+Journal Article - The International Journal of Advanced Manufacturing Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nobrega_christinna-secundo-lopes_anna"><b>Nóbrega</b> Anna</a> <a href="https://orcid.org/0000-0003-3128-7692" title="ORCID: 0000-0003-3128-7692" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/queiroz-junior_carlos_cleanto"><b>de Queiroz Junior</b> Cleanto</a>
-,     <a href="../../../author/souza_rossine-medeiros_wendell"><b>de Souza</b> Wendell</a>
-,     <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a> <a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a> <a href="https://orcid.org/0000-0003-3885-9104" title="ORCID: 0000-0003-3885-9104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Advanced Manufacturing Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#computer`](keyword/computer)
-    [`#element`](keyword/element)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Computational%20Modeling%20for%20Structural%20Element%20Analysis%20Using%20Cement%20Composites%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184459082&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391690524" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00170-024-13198-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00170-024-13198-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry has incorporated 3D printing as an innovative technology. However, there are still challenges involving the complexity of the necessary parameters, such as the geometric characteristics, strength, and rigidity of the printed objects, depending on the studied material. Therefore, this study proposes a new tridimensional computational modeling for dimensioning 3D-printed structures. The model is based on the physical non-linearity of the material and the geometric non-linearity of the structure. It consists of a numerical reproduction of an experimental test using frame finite elements and considers the material properties’ evolution over time by construction phases. The printing speed used is 60 mm/s, and the time interval between layers is 11 s. The results obtained revealed good agreement with those from experimental tests and validated the theoretical formulation. The differences between computational and theoretical methods varied from 0.58 to 3.38% for different building rates. In terms of vertical normal stress at the base of the walls, the maximum percentage variation between the models is of 5.22% and less than 1 mm in absolute values for vertical displacements. The model successfully predicted the failure moment of the structure. The parametric analyses showed that the proposed model is an accessible, effective, and accurate tool to reveal the effects of printing speed on the construction process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -99,7 +76,35 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yu_sanj_du.2022.EoCMCoAB3CP/">Effects of Cement Mortar Characteristics on Aggregate-Bed 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nobr_quei_souz_cabr.2024.CMfSEAUCCi3P,
+      author            = "Anna Christinna Secundo Lopes Nóbrega and Cleanto Carlos de Queiroz Junior and Wendell Rossine Medeiros de Souza and Kleber Cavalcanti Cabral and Antônio Eduardo Martinelli",
+      title             = "Computational Modeling for Structural Element Analysis Using Cement Composites in 3D Printing",
+      doi               = "10.1007/s00170-024-13198-3",
+      year              = "2024",
+      journal           = "The International Journal of Advanced Manufacturing Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. C. S. L. Nóbrega, C. C. de Queiroz Junior, W. R. M. de Souza, K. C. Cabral and A. E. Martinelli, “Computational Modeling for Structural Element Analysis Using Cement Composites in 3D Printing”, <i>The International Journal of Advanced Manufacturing Technology</i>, 2024, doi: 10.1007/s00170-024-13198-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nóbrega, Anna Christinna Secundo Lopes, Cleanto Carlos de Queiroz Junior, Wendell Rossine Medeiros de Souza, Kleber Cavalcanti Cabral, and Antônio Eduardo Martinelli. “Computational Modeling for Structural Element Analysis Using Cement Composites in 3D Printing”. <i>The International Journal of Advanced Manufacturing Technology</i>, 2024. https://doi.org/10.1007/s00170-024-13198-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

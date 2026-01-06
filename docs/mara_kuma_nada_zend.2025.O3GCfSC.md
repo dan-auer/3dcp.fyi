@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vedprakash Maralapalle, Hemraj Kumavat, Maheboobsab Nadaf, Aijaz Zende, S. Mishra, Rajiv Iyer
+    - footer
+title: Maralapalle Vedprakash, Kumavat Hemraj, Nadaf Maheboobsab, Zende Aijaz, Mishra S., Iyer Rajiv
 description:
 tags:
  - concrete
@@ -19,37 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimizing 3D Geopolymer Concrete for Sustainable Construction:<br/>:aca-blank: A Review of Material Selection, Printing Methods, and Properties ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1007/s41062-025-01970-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41062-025-01970-7</a>
+#Optimizing 3D Geopolymer Concrete for Sustainable Construction&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">A Review of Material Selection, Printing Methods, and Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41062-025-01970-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-01970-7" target="_blank">10.1007/s41062-025-01970-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7770-1134" title="ORCID: 0000-0002-7770-1134" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maralapalle_vedprakash"><b>Maralapalle</b>&nbsp;Vedprakash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9615-7664" title="ORCID: 0000-0002-9615-7664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumavat_r_hemraj"><b>Kumavat</b>&nbsp;Hemraj</a></span>, <a href="../../../author/nadaf_b_maheboobsab"><b>Nadaf</b>&nbsp;Maheboobsab</a></span>, <a href="../../../author/zende_ahmad_aijaz"><b>Zende</b>&nbsp;Aijaz</a></span>, <a href="../../../author/mishra_sangita_s"><b>Mishra</b>&nbsp;S.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1136-2061" title="ORCID: 0000-0002-1136-2061" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/iyer_rajiv"><b>Iyer</b>&nbsp;Rajiv</a></span><br>
+Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/maralapalle_vedprakash"><b>Maralapalle</b> Vedprakash</a> <a href="https://orcid.org/0000-0002-7770-1134" title="ORCID: 0000-0002-7770-1134" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumavat_r_hemraj"><b>Kumavat</b> Hemraj</a> <a href="https://orcid.org/0000-0002-9615-7664" title="ORCID: 0000-0002-9615-7664" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nadaf_b_maheboobsab"><b>Nadaf</b> Maheboobsab</a>
-,     <a href="../../../author/zende_ahmad_aijaz"><b>Zende</b> Aijaz</a>
-,     <a href="../../../author/mishra_sangita_s"><b>Mishra</b> S.</a>
-,     <a href="../../../author/iyer_rajiv"><b>Iyer</b> Rajiv</a> <a href="https://orcid.org/0000-0002-1136-2061" title="ORCID: 0000-0002-1136-2061" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#selective`](keyword/selective)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%203D%20Geopolymer%20Concrete%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003304319&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409361926" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41062-025-01970-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41062-025-01970-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review examined advancements in extrusion-based 3D printed geopolymers, focusing on how material choices and printing methods affected their properties. It is also analyzed the link between fresh mix properties, workability, printing, and shape retention. Generally, by increasing Ground Granulated Blast-Furnace Slag content improves both compressive and flexural strength in both cast and printed specimens. Glass fibers negatively affected compressive strength due to fiber orientation during printing. Replaced Lime Stone with Ordinary Portland Cement improved compressive strength but decreased flexural strength due to weaker bonding. The review also explores the economic and environmental benefits of 3D geopolymer concrete (3D GPC). However, geopolymer activators can be expensive and the embodied energy of the mix heavily depends on the activator type. The review also highlighted the potential of 3D geopolymer concrete for sustainable construction. Meticulous selection of materials, optimized printing, and economic considerations are essential for making 3D GPC a more viable and eco-friendly construction technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "76 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -152,7 +126,37 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mara_kuma_nada_zend.2025.O3GCfSC,
+      author            = "Vedprakash Maralapalle and Hemraj R. Kumavat and Maheboobsab B. Nadaf and Aijaz Ahmad Zende and S. Sangita Mishra and Rajiv Iyer",
+      title             = "Optimizing 3D Geopolymer Concrete for Sustainable Construction: A Review of Material Selection, Printing Methods, and Properties",
+      doi               = "10.1007/s41062-025-01970-7",
+      year              = "2025",
+      journal           = "Innovative Infrastructure Solutions",
+      volume            = "10",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Maralapalle, H. R. Kumavat, M. B. Nadaf, A. A. Zende, S. S. Mishra and R. Iyer, “Optimizing 3D Geopolymer Concrete for Sustainable Construction: A Review of Material Selection, Printing Methods, and Properties”, <i>Innovative Infrastructure Solutions</i>, vol. 10, no. 5, 2025, doi: 10.1007/s41062-025-01970-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Maralapalle, Vedprakash, Hemraj R. Kumavat, Maheboobsab B. Nadaf, Aijaz Ahmad Zende, S. Sangita Mishra, and Rajiv Iyer. “Optimizing 3D Geopolymer Concrete for Sustainable Construction: A Review of Material Selection, Printing Methods, and Properties”. <i>Innovative Infrastructure Solutions</i> 10, no. 5 (2025). https://doi.org/10.1007/s41062-025-01970-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

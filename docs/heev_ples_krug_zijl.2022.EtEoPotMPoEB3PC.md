@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marchant Heever, Anton Plessis, Jacques Kruger, Gideon Zijl
+    - footer
+title: Heever Marchant, Plessis Anton, Kruger Jacques, Zijl Gideon
 description:
 tags:
  - base
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106695" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106695</a>
+#Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete ([2022-01](date/2022/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2021.106695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106695" target="_blank">10.1016/j.cemconres.2021.106695</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heever_marchant"><b>van den&nbsp;Heever</b>&nbsp;Marchant</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4370-8661" title="ORCID: 0000-0002-4370-8661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/plessis_anton"><b>du&nbsp;Plessis</b>&nbsp;Anton</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 153
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/heever_marchant"><b>van den Heever</b> Marchant</a> <a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/plessis_anton"><b>du Plessis</b> Anton</a> <a href="https://orcid.org/0000-0002-4370-8661" title="ORCID: 0000-0002-4370-8661" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 153, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#evaluation`](keyword/evaluation)
-    [`#extrusion`](keyword/extrusion)
-    [`#mechanics`](keyword/mechanics)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Effects%20of%20Porosity%20on%20the%20Mechanical%20Properties%20of%20Extrusion-Based%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122319732&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4206318680" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106695" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106695?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Elements fabricated by extrusion-based 3D concrete printing (3DCP) display anisotropic mechanical properties when subject to loading conditions orientated in principle cartesian axis directions. Various studies show that the mechanical characteristics of 3DCP components are lower than their mould-cast counterparts, reportedly due to the existence of weaker, more porous, interfacial joints in-between filament layers. To promote the widespread adoption of 3DCP, the elastic response and strength parameters of 3DCP elements must be fully comprehended. Numerous attempts have been made to improve the mechanical properties of 3DCP using fibre reinforcement. At the root of all mechanical properties are the microstructural morphology and constituent characteristics of the mixture. It has been shown that the 3DCP process influences the ensuing microstructural morphology, and it is known that constituent type, constituent proportion, porosity content and void topology affect a porous medium's bulk strength and elasticity. Therefore, the correlation between such observations warrants additional investigation concerning the influence of porosity on the anisotropic mechanical properties of 3DCP components. In this research, the effects of porosity metrics such as total defect content; 3D void topology (shape, size, and orientation); pore spatial, size and compactness distributions; and interconnectivity are quantitively investigated for a fibre-reinforced printable concrete (FRPC) mixture via X-ray computed tomography and related to the elasticity, compressive strength and observed fracture patterns of mould-cast and concrete printed specimens consisting of the same fibre reinforced printable concrete matrix. The experimental findings indicate higher porosity, on average and at interlayer locations, in 3DCP samples as well as alterations in the spatial and topological attributes of voids in 3DCP samples. Furthermore, it is shown that both reductions in the elastic modulus and compressive capacity can be physically linked to the porosity metrics detected in 3DCP elements. Elasticity is dominated by porosity content and compressive capacity by the interrelation between porosity content, loading direction relative to the interlayer orientation, stress concentrations at void boundaries, and the increased deformability of the composite configuration. From the consideration and interpretation of these aspects, the anisotropic mechanical response of 3DCP samples is elucidated, and potential remedies are proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -93,8 +70,11 @@ tags:
       <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../sone_amzi_perr.2019.MBo3PCM/">Mechanical Behavior of 3D Printed Cement Materials</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "157 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
+      <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
@@ -250,4 +230,33 @@ tags:
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../heev_ples_best_krug.2022.AMERMMtaMMGCSCMf3PC/">A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC,
+      author            = "Marchant van den Heever and Anton du Plessis and Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete",
+      doi               = "10.1016/j.cemconres.2021.106695",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "153",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. van den Heever, A. du Plessis, J. P. Kruger and G. P. A. G. van Zijl, “Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete”, <i>Cement and Concrete Research</i>, vol. 153, 2022, doi: 10.1016/j.cemconres.2021.106695.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Heever, Marchant van den, Anton du Plessis, Jacques Pienaar Kruger, and Gideon Pieter Adriaan Greeff van Zijl. “Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete”. <i>Cement and Concrete Research</i> 153 (2022). https://doi.org/10.1016/j.cemconres.2021.106695.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

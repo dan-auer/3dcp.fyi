@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Imtiaz Iqbal, Tala Kasim, Svetlana Besklubova, Waleed Inqiad, Daniel Nowakowski, Mujib Rahman
+    - footer
+title: Iqbal Imtiaz, Kasim Tala, Besklubova Svetlana, Inqiad Waleed, Nowakowski Daniel, Rahman Mujib
 description:
 tags:
  - bibliometry
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s41062-025-02396-x.pdf) Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>:aca-blank: A Bibliometric and Systematic Review ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1007/s41062-025-02396-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41062-025-02396-x</a>
+#Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">A Bibliometric and Systematic Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41062-025-02396-x.pdf) <a href="https://doi.org/10.1007/s41062-025-02396-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-02396-x" target="_blank">10.1007/s41062-025-02396-x</a>
 
--------------------------
+<a href="../../../author/iqbal_imtiaz"><b>Iqbal</b>&nbsp;Imtiaz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kasim_tala"><b>Kasim</b>&nbsp;Tala</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b>&nbsp;Waleed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8056-5316" title="ORCID: 0000-0001-8056-5316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nowakowski_jozef_daniel"><b>Nowakowski</b>&nbsp;Daniel</a></span>, <a href="../../../author/rahman_mujib"><b>Rahman</b>&nbsp;Mujib</a></span><br>
+Journal Article - Innovative Infrastructure Solutions, Vol. 11, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>
-,     <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> <a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> <a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>
-,     <a href="../../../author/nowakowski_jozef_daniel"><b>Nowakowski</b> Daniel</a> <a href="https://orcid.org/0000-0001-8056-5316" title="ORCID: 0000-0001-8056-5316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Innovative Infrastructure Solutions, Vol. 11, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bibliometry`](keyword/bibliometry)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#domain`](keyword/domain)
-    [`#exploration`](keyword/exploration)
-    [`#future`](keyword/future)
-    [`#knowledge`](keyword/knowledge)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/domain"><button class="btn">#domain</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/knowledge"><button class="btn">#knowledge</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Knowledge%20Domains%20and%20Future%20Research%20Directions%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417504282" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41062-025-02396-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41062-025-02396-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) is an advanced additive manufacturing technique which aids in creating complex structures with precision and efficiency. This innovative technology offers substantial benefits, including minimised material waste, enhanced project completion speed, and the capability to fabricate complex and distinctive designs. While significant progress has been made, existing review studies primarily address specific domains such as materials, technical and nontechnical challenges, rheological parameters, and modelling. However, limited research has explored quantitative data on leading countries and institutions, collaboration networks, profiles of influential authors, and key journals. Furthermore, there is a lack of comprehensive qualitative insights into the managerial, sustainability and environmental, and economic aspects of 3DPC, as well as advancements in material compatibility, mix design methods, and applications of emerging technologies. This study addresses these gaps by conducting a bibliometric and systematic review of 3DPC research from 2015 to 2024, with data sourced from Web of Science and Scopus. The bibliometric analysis revealed a steady growth in 3DPC studies, with annual publications increasing by over 800% between 2018 and 2024, and major contributions from China (28%), Australia (10%), and the USA (7%). Tongji University emerged as the leading institution, accounting for 8% of the total publications. The systematic review discusses the key advancements in technology and structural development while uniquely focusing on the managerial aspects of 3DPC. By integrating bibliometric and qualitative insights, this review provides a comprehensive understanding of the current state and future potential of 3DPC, offering valuable guidance for researchers and practitioners aiming to advance this transformative technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "142 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>
@@ -216,7 +191,37 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{iqba_kasi_besk_inqi.2026.EKDaFRDi3PC,
+      author            = "Imtiaz Iqbal and Tala Kasim and Svetlana Besklubova and Waleed bin Inqiad and Daniel Jozef Nowakowski and Mujib Rahman",
+      title             = "Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete: A Bibliometric and Systematic Review",
+      doi               = "10.1007/s41062-025-02396-x",
+      year              = "2026",
+      journal           = "Innovative Infrastructure Solutions",
+      volume            = "11",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Iqbal, T. Kasim, S. Besklubova, W. bin Inqiad, D. J. Nowakowski and M. Rahman, “Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete: A Bibliometric and Systematic Review”, <i>Innovative Infrastructure Solutions</i>, vol. 11, no. 1, 2026, doi: 10.1007/s41062-025-02396-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Iqbal, Imtiaz, Tala Kasim, Svetlana Besklubova, Waleed bin Inqiad, Daniel Jozef Nowakowski, and Mujib Rahman. “Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete: A Bibliometric and Systematic Review”. <i>Innovative Infrastructure Solutions</i> 11, no. 1 (2026). https://doi.org/10.1007/s41062-025-02396-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

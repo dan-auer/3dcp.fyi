@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yazeed Noaimat, Seyed Ghaffar, Mehdi Chougan, Mazen Kheetan
+    - footer
+title: Noaimat Yazeed, Ghaffar Seyed, Chougan Mehdi, Kheetan Mazen
 description:
 tags:
  - carbon
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2022.e01818) A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer:<br/>:aca-blank: Engineering, Environmental and Economic Feasibility ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.cscm.2022.e01818" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2022.e01818</a>
+#A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">Engineering, Environmental and Economic Feasibility</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2022.e01818) <a href="https://doi.org/10.1016/j.cscm.2022.e01818" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e01818" target="_blank">10.1016/j.cscm.2022.e01818</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noaimat_afet-adnan_yazeed"><b>al&nbsp;Noaimat</b>&nbsp;Yazeed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kheetan_j_mazen"><b>al&nbsp;Kheetan</b>&nbsp;Mazen</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 18
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/noaimat_afet-adnan_yazeed"><b>al Noaimat</b> Yazeed</a> <a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kheetan_j_mazen"><b>al Kheetan</b> Mazen</a> <a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 18
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#economic`](keyword/economic)
-    [`#engineered`](keyword/engineered)
-    [`#environment`](keyword/environment)
-    [`#feasibility`](keyword/feasibility)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%203D%20Printing%20Low-Carbon%20Concrete%20with%20One-Part%20Geopolymer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145260242&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313399577" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2022.e01818" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2022.e01818?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is a developing technology that has the ability to use different materials to produce concrete elements with complex shapes. The utilization of geopolymers or alkali-activated materials (AAMs) in 3D printing is receiving significant interest due to the environmental benefits of replacing ordinary Portland cement (OPC). The use of solid activators to produce a one-part geopolymer can help the broader use of geopolymers at large scales, as the corrosive, viscous, and hazardous liquid activators used in two-part geopolymers do not present a feasible large-scale solution for this technology. This paper reviews the 3D printable one-part geopolymers, their compositions, and the effect of different precursor compositions, activator content, and different admixtures on the fresh and hardened properties of the mixtures. The environmental impact and cost assessment of one-part geopolymers produced by conventional and 3D printing methods are also discussed and compared to OPC and two-part geopolymers. This review concluded that onepart geopolymers are easier to mix and use than two-part geopolymers and have a lower carbon footprint than two-part geopolymers and OPC concrete. However, one-part geopolymers may not be as strong as two-part geopolymers, but they are still better than OPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "59 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -131,8 +108,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "52 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
       <li><a href="../../../author/sicakova_alena"><b>Sičáková</b> Alena</a>, <a href="../../../author/vercimak_dominik"><b>Verčimák</b> Dominik</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sica_verc.2025.LMwaHPoRFiTo3PP/">Lightweight Mixtures with a High Proportion of Recycled Fillers in Terms of 3D Printing Parameters</a></li>
@@ -186,4 +163,33 @@ tags:
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/mandhari_othman"><b>Mandhari</b> Othman</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../noai_chou_khee_mand.2023.3PoLCCC/">3D Printing of Limestone-Calcined-Clay-Cement:<br/>A Review of Its Potential Implementation in the Construction-Industry</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../khan_jass_ilca_sahi.2023.3PoCM/">3D Printing of Circular Materials:<br/>Comparative Environmental Analysis of Materials and Construction Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{noai_ghaf_chou_khee.2023.ARo3PLCCwOPG,
+      author            = "Yazeed Afet Adnan Al Noaimat and Seyed Hamidreza Ghaffar and Mehdi Chougan and Mazen J. al Kheetan",
+      title             = "A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer: Engineering, Environmental and Economic Feasibility",
+      doi               = "10.1016/j.cscm.2022.e01818",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "18",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. A. A. A. Noaimat, S. H. Ghaffar, M. Chougan and M. J. al Kheetan, “A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer: Engineering, Environmental and Economic Feasibility”, <i>Case Studies in Construction Materials</i>, vol. 18, 2023, doi: 10.1016/j.cscm.2022.e01818.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Noaimat, Yazeed Afet Adnan Al, Seyed Hamidreza Ghaffar, Mehdi Chougan, and Mazen J. al Kheetan. “A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer: Engineering, Environmental and Economic Feasibility”. <i>Case Studies in Construction Materials</i> 18 (2023). https://doi.org/10.1016/j.cscm.2022.e01818.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

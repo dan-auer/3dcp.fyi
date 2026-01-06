@@ -8,7 +8,7 @@ search:
 
 # #replacement
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/chau_bao"><b>Chau</b> Bao</a>, <a href="../../../author/tugelbayev_aidyn"><b>Tugelbayev</b> Aidyn</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kama_chau_tuge_mcco.2025.D3PCUQbPaPRfC/">Developing 3D Printable Concrete Using Quarry by-Products as Partial Replacement for Cement</a></li>
   <li><a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/shi_a"><b>Shi</b> A.</a>, <a href="../../../author/kajandran_v"><b>Kajandran</b> V.</a>, <a href="../../../author/lam_w-m_t"><b>Lam</b> T.</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kua_shi_kaja_lam.2025.TSC3P/">Toward Sustainable Construction 3D Printing:<br/>Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement</a></li>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robert Wolfs, Freek Bos, Theo Salet
+    - footer
+title: Wolfs Robert, Bos Freek, Salet Theo
 description:
 tags:
  - age
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://pure.tue.nl/ws/files/92106210/1_s2.0_S000888461730532X_main.pdf) Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>:aca-blank: Numerical Modelling and Experimental Testing ([2018-02](date/2018/02))
-<a href="https://doi.org/10.1016/j.cemconres.2018.02.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2018.02.001</a>
+#Early-Age Mechanical Behaviour of 3D Printed Concrete&nbsp;([2018-02](date/2018/02))
+<div class="h1-like">Numerical Modelling and Experimental Testing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://pure.tue.nl/ws/files/92106210/1_s2.0_S000888461730532X_main.pdf) <a href="https://doi.org/10.1016/j.cemconres.2018.02.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.02.001" target="_blank">10.1016/j.cemconres.2018.02.001</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 106, pp. 103-116
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 106, pp. 103-116
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#experiment`](keyword/experiment)
-    [`#mechanics`](keyword/mechanics)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Mechanical%20Behaviour%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85041515244&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2790927589" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2018.02.001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2018.02.001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A numerical model was developed to analyse the mechanical behaviour of fresh, 3D printed concrete, in the range of 0 to 90 min after material deposition. The model was based on a time-dependent Mohr-Coulomb failure criterion and linear stress-strain behaviour up to failure. An experimental program, consisting of unconfined uniaxial compression tests and direct shear tests, was set-up and performed to obtain the required material properties. The material tests showed that the Young's modulus and cohesion linearly increase with fresh concrete age, as do the compressive and shear strength. The Poisson's ratio and angle of internal friction, on the other hand, remain constant. Subsequently, the model was validated by comparison to printing experiments. Modelling of the printed samples reproduced the experimental results qualitatively, but the quantitative agreement with the print experiments could be improved. However, the deviations can well be explained and the type of failure-deformation mode was predicted accurately.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../duba_goss_roux.2015.AMaMOOoGPACS/">Additive Manufacturing and Multi-Objective Optimization of Graded Polystyrene-Aggregate Concrete Structures</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -85,12 +63,15 @@ tags:
       <li><a href="../../../author/voigt_thomas"><b>Voigt</b> Thomas</a>, <a href="../../../author/malonn_tim"><b>Malonn</b> Tim</a>, <a href="../../../author/shah_p_surendra"><b>Shah</b> Surendra</a> <a href="../../../date/2005/10">(2005-10)</a><br><a href="../../../voig_malo_shah.2006.GaEACSoECMMwCTaUT/">Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "643 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_suik.2025.CoEAEPPo3PMUIT/">Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing</a></li>
       <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
@@ -727,7 +708,35 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
-      <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wolf_bos_sale.2018.EAMBo3PC,
+      author            = "Robert Johannes Maria Wolfs and Freek Paul Bos and Theo A. M. Salet",
+      title             = "Early-Age Mechanical Behaviour of 3D Printed Concrete: Numerical Modelling and Experimental Testing",
+      doi               = "10.1016/j.cemconres.2018.02.001",
+      year              = "2018",
+      journal           = "Cement and Concrete Research",
+      volume            = "106",
+      pages             = "103--116",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. J. M. Wolfs, F. P. Bos and T. A. M. Salet, “Early-Age Mechanical Behaviour of 3D Printed Concrete: Numerical Modelling and Experimental Testing”, <i>Cement and Concrete Research</i>, vol. 106, pp. 103–116, 2018, doi: 10.1016/j.cemconres.2018.02.001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wolfs, Robert Johannes Maria, Freek Paul Bos, and Theo A. M. Salet. “Early-Age Mechanical Behaviour of 3D Printed Concrete: Numerical Modelling and Experimental Testing”. <i>Cement and Concrete Research</i> 106 (2018): 103–16. https://doi.org/10.1016/j.cemconres.2018.02.001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

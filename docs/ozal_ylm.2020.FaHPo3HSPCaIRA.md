@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatih Özalp, Halit Yılmaz
+    - footer
+title: Özalp Fatih, Yılmaz Halit
 description:
 tags:
  - application
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications ([2020-03](date/2020/03))
-<a href="https://doi.org/10.1007/s40996-020-00370-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40996-020-00370-4</a>
+#Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications ([2020-03](date/2020/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40996-020-00370-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-020-00370-4" target="_blank">10.1007/s40996-020-00370-4</a>
 
--------------------------
+<a href="../../../author/ozalp_fatih"><b>Özalp</b>&nbsp;Fatih</a></span>, <a href="../../../author/yilmaz_dilsad_halit"><b>Yılmaz</b>&nbsp;Halit</a></span><br>
+Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering, Vol. 44, Iss. S1, pp. 319-330
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ozalp_fatih"><b>Özalp</b> Fatih</a>
-,     <a href="../../../author/yilmaz_dilsad_halit"><b>Yılmaz</b> Halit</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering, Vol. 44, Iss. S1, pp. 319-330
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#height`](keyword/height)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20and%20Hardened%20Properties%20of%203D%20High-Strength%20Printing%20Concrete%20and%20Its%20Recent%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082851392&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3012708206" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40996-020-00370-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40996-020-00370-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printer is the device that quickly produces the models designed on the computer using different materials without the need for a mould. In this study, the properties of the 3D printer developed by Iston and the complementary components such as concrete pump, concrete transmission hose, printer nozzle head which are synchronized with this printer are given. In addition, the mix design of fibre-reinforced and grain size limited high-performance concrete, which is used in this printer, and properties of fresh and hardened concrete are examined. In this context, mechanical properties of casted and printed specimens were compared. In addition, mechanical behaviour of printed samples in different directions was also investigated. Results of both compression and flexural tests show the mechanical properties of the printed specimens differed slightly in directions. When the casted and printed samples are compared, the strength of the casted samples is slightly higher than the printed samples. Although the mechanical properties of the casted and printed samples differed, targeted results were obtained for the strength of the printed samples. In the last part of the study, examples of street furniture produced in 3D printer using white cement mixture for decorative purposes are given. Although there are studies in the literature about 3D concrete printing, there are not any studies on street furniture produced in 3D printer.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -87,8 +67,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teix_jesu_ribe_rang.2026.LFAMwCaCA/">Large Format Additive Manufacturing with Cement and Clay Applications</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
@@ -123,4 +103,35 @@ tags:
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../teix_scha_rang_alve.2021.Do3PSMBoaBA/">Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ozal_ylm.2020.FaHPo3HSPCaIRA,
+      author            = "Fatih Özalp and Halit Dilşad Yılmaz",
+      title             = "Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications",
+      doi               = "10.1007/s40996-020-00370-4",
+      year              = "2020",
+      journal           = "Iranian Journal of Science and Technology, Transactions of Civil Engineering",
+      volume            = "44",
+      number            = "S1",
+      pages             = "319--330",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Özalp  and H. D. Yılmaz, “Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications”, <i>Iranian Journal of Science and Technology, Transactions of Civil Engineering</i>, vol. 44, no. S1, pp. 319–330, 2020, doi: 10.1007/s40996-020-00370-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Özalp, Fatih, and Halit Dilşad Yılmaz. “Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications”. <i>Iranian Journal of Science and Technology, Transactions of Civil Engineering</i> 44, no. S1 (2020): 319–30. https://doi.org/10.1007/s40996-020-00370-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

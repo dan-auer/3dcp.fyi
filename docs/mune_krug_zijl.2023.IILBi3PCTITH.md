@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rue Munemo, Jacques Kruger, Gideon Zijl
+    - footer
+title: Munemo Rue, Kruger Jacques, Zijl Gideon
 description:
 tags:
  - bond
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132121" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132121</a>
+#Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132121" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132121" target="_blank">10.1016/j.conbuildmat.2023.132121</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8341-3921" title="ORCID: 0000-0002-8341-3921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munemo_rue"><b>Munemo</b>&nbsp;Rue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 393, No. 132121
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a> <a href="https://orcid.org/0000-0002-8341-3921" title="ORCID: 0000-0002-8341-3921" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 393, No. 132121
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#improvement`](keyword/improvement)
-    [`#induction`](keyword/induction)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20Inter-Layer%20Bond%20in%203D%20Printed%20Concrete%20Through%20Induced%20Thermo-Hydrokinetics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85161782176&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380742290" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132121" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132121?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     For 3D printable concrete, lack of interlayer adhesion (IA) is an important consideration. This paper presents an experimental study to investigate a novel method to mitigate lack of IA by enhancing the interlayer bond strength through induced thermo-hydrokinetics. Thermo-hydrokinetics in this study describe the motions of heated fluids and/or the forces which produce or affect such motions. Thermo-hydrokinetics were induced by steaming the interlayer region of a substrate right before placement of a fresh filament layer. The method is applied at 3 different pass times; typical pass time for the arbitrarily selected object for printing, 5 min, and 10 min. A control for each pass time, on which thermo-hydrokinetics were not induced is also obtained. Direct tensile tests are performed to quantify the interlayer bond strength (IBS) of printed specimens. The experimental results show that inducing thermo-hydrokinetics in the interlayer region, even with increasing pass times, is beneficial for the tensile performance of the printed specimen. Steamed tensile specimens showed superior mechanical performance, achieving a 28-day overall mean IBS value of 2.8 MPa, which was a 78 % increase from that of non-steamed tensile specimens. The strength development of the specimens was also quantified, and it was shown that the rate of strength development for the steamed regime specimens was greater than that of the non-steamed regime. Furthermore, scanning electron microscope images provided information into the material in the interlayer region, illustrating that induced thermo-hydrokinetics altered the material in the interlayer region.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
@@ -97,8 +77,8 @@ tags:
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
@@ -126,4 +106,34 @@ tags:
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../jaji_zijl_baba.2023.SMMB3PG/">Slag-Modified Metakaolin-Based 3D Printed Geopolymer:<br/>Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis</a></li>
       <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kurn_kim.2023.UIBfSTDPIA/">Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications:<br/>A Comprehensive Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mune_krug_zijl.2023.IILBi3PCTITH,
+      author            = "Rue Munemo and Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics",
+      doi               = "10.1016/j.conbuildmat.2023.132121",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "393",
+      pages             = "132121",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Munemo, J. P. Kruger and G. P. A. G. van Zijl, “Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics”, <i>Construction and Building Materials</i>, vol. 393, p. 132121, 2023, doi: 10.1016/j.conbuildmat.2023.132121.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Munemo, Rue, Jacques Pienaar Kruger, and Gideon Pieter Adriaan Greeff van Zijl. “Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics”. <i>Construction and Building Materials</i> 393 (2023): 132121. https://doi.org/10.1016/j.conbuildmat.2023.132121.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

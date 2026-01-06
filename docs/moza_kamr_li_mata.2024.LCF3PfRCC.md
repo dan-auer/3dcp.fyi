@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Salma Mozaffari, Rahasadat Kamravafar, Yunyan Li, Jaime Mata-Falcón, Arash Adel
+    - footer
+title: Mozaffari Salma, Kamravafar Rahasadat, Li Yunyan, Mata-Falcón Jaime, Adel Arash
 description:
 tags:
  - clay
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/17452759.2024.2367735) Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1080/17452759.2024.2367735" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2367735</a>
+#Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2367735) <a href="https://doi.org/10.1080/17452759.2024.2367735" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2367735" target="_blank">10.1080/17452759.2024.2367735</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5364-3849" title="ORCID: 0000-0002-5364-3849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mozaffari_salma"><b>Mozaffari</b>&nbsp;Salma</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-9623-8866" title="ORCID: 0009-0006-9623-8866" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamravafar_rahasadat"><b>Kamravafar</b>&nbsp;Rahasadat</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1731-7739" title="ORCID: 0009-0001-1731-7739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yunyan"><b>Li</b>&nbsp;Yunyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adel_arash"><b>Adel</b>&nbsp;Arash</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a> <a href="https://orcid.org/0000-0002-5364-3849" title="ORCID: 0000-0002-5364-3849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kamravafar_rahasadat"><b>Kamravafar</b> Rahasadat</a> <a href="https://orcid.org/0009-0006-9623-8866" title="ORCID: 0009-0006-9623-8866" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_yunyan"><b>Li</b> Yunyan</a> <a href="https://orcid.org/0009-0001-1731-7739" title="ORCID: 0009-0001-1731-7739" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adel_arash"><b>Adel</b> Arash</a> <a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#formwork`](keyword/formwork)
-    [`#lever`](keyword/lever)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Leveraging%20Clay-Formwork%203D%20Printing%20for%20Reinforced-Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198526624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400510065" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2367735" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2367735?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic clay formwork three-dimensional printing combined with incremental concrete casting controls concrete's hydrostatic pressure and enables the production of building-scale structures. Clay formwork is self-demolding and less carbon intensive than concrete and polymer, often used in formwork additive manufacturing. This research investigates the recycling and reuse of clay to re-print formworks and tailors a self-compacting concrete formula with 60% reduced cement content and 90% larger maximum aggregate size. The study then explores integrating steel fibers and longitudinal rebars into the fabrication process to provide shear and bending reinforcement. When comparing the load-bearing behaviour of the fabricated beams against those cast traditionally using wooden formworks, the fabricated beams demonstrated 20% lower load-bearing capacity, with peak load mid-span deflections staying in a similar range. While more investigation is required to address formwork deformations using mixed steel fibers and recycled clay, this research paves the way for more sustainable concrete construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../beda_szab_zani_dill.2023.R3PoGFfLaIBE/">Robotic 3D Printing of Geopolymer Foam for Lightweight and Insulating Building Elements</a></li>
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
@@ -101,9 +79,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b> Ohad</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/magdassi_shlomo"><b>Magdassi</b> Shlomo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../meyu_lari_bent_magd.2025.MfEBFiMMAMaaAS/">Methods for Earth-Based Falsework in Multi-Material Additive Manufacturing at an Architectural Scale</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moza_kamr_li_mata.2024.LCF3PfRCC,
+      author            = "Salma Mozaffari and Rahasadat Kamravafar and Yunyan Li and Jaime Mata-Falcón and Arash Adel",
+      title             = "Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction",
+      doi               = "10.1080/17452759.2024.2367735",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Mozaffari, R. Kamravafar, Y. Li, J. Mata-Falcón and A. Adel, “Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2367735.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mozaffari, Salma, Rahasadat Kamravafar, Yunyan Li, Jaime Mata-Falcón, and Arash Adel. “Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2367735.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

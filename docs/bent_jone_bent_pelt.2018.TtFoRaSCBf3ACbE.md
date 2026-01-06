@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dale Bentz, Scott Jones, Isaiah Bentz, Max Peltz
+    - footer
+title: Bentz Dale, Jones Scott, Bentz Isaiah, Peltz Max
 description:
 tags:
  - additive
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion ([2018-06](date/2018/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2018.04.167" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2018.04.167</a>
+#Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion ([2018-06](date/2018/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.167" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.167" target="_blank">10.1016/j.conbuildmat.2018.04.167</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7435-2493" title="ORCID: 0000-0002-7435-2493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bentz_p_dale"><b>Bentz</b>&nbsp;Dale</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b>&nbsp;Isaiah</a></span>, <a href="../../../author/peltz_a_max"><b>Peltz</b>&nbsp;Max</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 175, pp. 215-224
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a> <a href="https://orcid.org/0000-0002-7435-2493" title="ORCID: 0000-0002-7435-2493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a> <a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>
-,     <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 175, pp. 215-224
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#extrusion`](keyword/extrusion)
-    [`#formulas`](keyword/formulas)
-    [`#robust`](keyword/robust)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/robust"><button class="btn">#robust</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Towards%20the%20Formulation%20of%20Robust%20and%20Sustainable%20Cementitious%20Binders%20for%203D%20Additive%20Construction%20by%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046375299&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,22 +38,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2801051808" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2018.04.167" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2018.04.167?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive construction by extrusion (ACE), also known as construction-scale 3-D printing, is becoming a new paradigm for concrete construction. While significant cost and manpower savings are projected, many issues remain to be solved before ACE can be viewed as a mainstream technology. Among these is the formulation of a robust and sustainable binder that meets the demanding rheological and mechanical performance requirements of an ACE application. This paper investigates the development of such a binder by exploring pastes prepared from binary blends of cement with limestone powder at various proportions, supplemented with the incorporation of a retarder/accelerator admixture combination. Performance is chiefly characterized by applying a Bingham fluid model to characterize the rheological parameters of yield stress and plastic viscosity and by assessing hydration via isothermal calorimetry measurements. Matching the surface area of the limestone powder to that of the cement that it is replacing affords the opportunity to regulate rheology via water content adjustments, while engineering the cement:limestone powder ratio to provide the desired mechanical properties. The utilization of the retarder/accelerator combination produces a paste with a long pot life (stable rheology) that can be quickly stiffened via the injection of the accelerator (and retarded paste) into a static mixer just prior to the printer’s exit nozzle. Thus, these pastes demonstrate the potential to provide a robust and sustainable binder for ACE applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
-      <li><a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/martys_s_nicos"><b>Martys</b> Nicos</a>, <a href="../../../author/george_l_william"><b>George</b> William</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../jone_bent_mart_geor.2019.RCo3PCPaMb/">Rheological Control of 3D Printable Cement-Paste and Mortars</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -81,8 +58,8 @@ tags:
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shek_kuma_math.2025.AMoCwLIYSTCHoPL/">Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/gunzel_s_f"><b>Günzel</b> F.</a>, <a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kanyenze_simon_simba"><b>Kanyenze</b> Simba</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../gunz_moel_kany_krug.2024.IICSMtItCPoEB3CP/">Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing</a></li>
@@ -119,4 +96,34 @@ tags:
       <li><a href="../../../author/yeon_kyu-seok"><b>Yeon</b> Kyu-Seok</a>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../yeon_kim_yeon_lee.2019.FPoEMCMfUiACbE/">Fresh Properties of EVA-Modified Cementitious Mixtures for Use in Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE,
+      author            = "Dale P. Bentz and Scott Z. Jones and Isaiah R. Bentz and Max A. Peltz",
+      title             = "Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion",
+      doi               = "10.1016/j.conbuildmat.2018.04.167",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "175",
+      pages             = "215--224",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. P. Bentz, S. Z. Jones, I. R. Bentz and M. A. Peltz, “Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion”, <i>Construction and Building Materials</i>, vol. 175, pp. 215–224, 2018, doi: 10.1016/j.conbuildmat.2018.04.167.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bentz, Dale P., Scott Z. Jones, Isaiah R. Bentz, and Max A. Peltz. “Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion”. <i>Construction and Building Materials</i> 175 (2018): 215–24. https://doi.org/10.1016/j.conbuildmat.2018.04.167.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

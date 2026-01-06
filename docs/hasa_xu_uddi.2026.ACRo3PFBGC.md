@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md Hasan, Jie Xu, Md Uddin
+    - footer
+title: Hasan Md, Xu Jie, Uddin Md
 description:
 tags:
  - base
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>:aca-blank: Fresh Properties, Mechanical Performance, and Current Limitations ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1007/s41024-025-00737-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41024-025-00737-y</a>
+#A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Fresh Properties, Mechanical Performance, and Current Limitations</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-025-00737-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00737-y" target="_blank">10.1007/s41024-025-00737-y</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-6192-3402" title="ORCID: 0009-0001-6192-3402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasan_mehedi_md"><b>Hasan</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6930-979X" title="ORCID: 0000-0002-6930-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uddin_nasir_md"><b>Uddin</b>&nbsp;Md</a></span><br>
+Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a> <a href="https://orcid.org/0009-0001-6192-3402" title="ORCID: 0009-0001-6192-3402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0002-6930-979X" title="ORCID: 0000-0002-6930-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#limitation`](keyword/limitation)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/limitation"><button class="btn">#limitation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20of%203D%20Printed%20Fiber-Based%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021989093&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7105838869" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41024-025-00737-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41024-025-00737-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing with geopolymer binders has emerged as a transformative pathway for sustainable construction, offering reduced carbon emissions, resource efficiency, and digital design flexibility. This review uniquely connects two fast-evolving areas 3D printed geopolymer technology and fiber-reinforced composites by systematically linking fiber type, dosage, and orientation to rheological behavior, mechanical performance, and current limitations. Geopolymers, synthesized from industrial by-products like (e.g., fly ash (FA), ground granulated blast-furnace slag (GGBFS), rice husk ash (RHA), silica fume (SF), coal bottom ash (CBA), metakaolin (MK), etc.), serve as binders in 3D printed fiber-based geopolymer concrete (3DP-FGC), activated by alkaline solutions such as sodium hydroxide (NaOH), sodium silicate (Na2SiO3), and potassium silicate (K2SiO3). The integration of various fibers such as (e.g., polypropylene (PP), polyvinyl alcohol (PVA), polyethylene (PE), steel, basalt, carbon, etc.), has been shown to significantly improve fresh and hardened properties. The review delves into rheological behaviors like flowability, extrudability, and buildability, as well as mechanical properties compressive, flexural, and tensile strengths. 3DP-FGC exhibits promising mechanical and environmental benefits, but challenges persist, such as achieving uniform fiber dispersion, optimal mix designs, and reliable interlayer bonding. The large-scale deployment of 3DP-FGC, however, remains limited by material-related issues, process constraints, and performance concerns that require further investigation. Ultimately, 3DP-FGC offers a pathway toward more resilient and structurally innovative construction, aligning with the goals of reducing carbon footprint, material waste, and labor demands.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "73 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/abilgaziyev_anuar"><b>Abilgaziyev</b> Anuar</a>, <a href="../../../author/temirzakuly_bakbergen"><b>Temirzakuly</b> Bakbergen</a>, <a href="../../../author/kurokawa_syuhei"><b>Kurokawa</b> Syuhei</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../ali_abil_temi_kuro.2024.DoaN3CPfCBoNGMaIC/">Development of a Novel 3D Construction Printer for Consistent Buildability of Novel Geopolymer Mortar and Its Challenges</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -148,7 +124,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hasa_xu_uddi.2026.ACRo3PFBGC,
+      author            = "Md Mehedi Hasan and Jie Xu and Md Nasir Uddin",
+      title             = "A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete: Fresh Properties, Mechanical Performance, and Current Limitations",
+      doi               = "10.1007/s41024-025-00737-y",
+      year              = "2026",
+      journal           = "Journal of Building Pathology and Rehabilitation",
+      volume            = "11",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. M. Hasan, J. Xu and M. N. Uddin, “A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete: Fresh Properties, Mechanical Performance, and Current Limitations”, <i>Journal of Building Pathology and Rehabilitation</i>, vol. 11, no. 1, 2026, doi: 10.1007/s41024-025-00737-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hasan, Md Mehedi, Jie Xu, and Md Nasir Uddin. “A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete: Fresh Properties, Mechanical Performance, and Current Limitations”. <i>Journal of Building Pathology and Rehabilitation</i> 11, no. 1 (2026). https://doi.org/10.1007/s41024-025-00737-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuxin Wang, Farhad Aslani, Arcady Dyskin, Elena Pasternak
+    - footer
+title: Wang Yuxin, Aslani Farhad, Dyskin Arcady, Pasternak Elena
 description:
 tags:
  - application
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/15/3/2124/pdf?version=1674453811) Digital Twin Applications in 3D Concrete Printing ([2023-01](date/2023/01))
-<a href="https://doi.org/10.3390/su15032124" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su15032124</a>
+#Digital Twin Applications in 3D Concrete Printing ([2023-01](date/2023/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/15/3/2124/pdf?version=1674453811) <a href="https://doi.org/10.3390/su15032124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su15032124" target="_blank">10.3390/su15032124</a>
 
--------------------------
+<a href="../../../author/wang_yuxin"><b>Wang</b>&nbsp;Yuxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5524-2566" title="ORCID: 0000-0001-5524-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dyskin_arcady"><b>Dyskin</b>&nbsp;Arcady</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8522-143X" title="ORCID: 0000-0002-8522-143X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pasternak_elena"><b>Pasternak</b>&nbsp;Elena</a></span><br>
+Journal Article - Sustainability, Vol. 15, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a> <a href="https://orcid.org/0000-0001-5524-2566" title="ORCID: 0000-0001-5524-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="https://orcid.org/0000-0002-8522-143X" title="ORCID: 0000-0002-8522-143X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 15, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#print`](keyword/print)
-    [`#twin`](keyword/twin)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Twin%20Applications%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148008551&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4317735653" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su15032124" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su15032124?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The benefits of 3D concrete printing (3DCP) include reducing construction time and costs, providing design freedom, and being environmentally friendly. This technology is expected to be effective in addressing the global house shortage. This review highlights the main 3DCP applications and four critical challenges. It is proposed to combine 3D concrete printing with Digital Twin (DT) technology to meet the challenges the 3DCP faces and improve quality and sustainability. This paper provides a critical review of research into the application of DT technology in 3DCP, categorize the applications and directions proposed according to different lifecycles, and explore the possibility of incorporating them into existing 3DCP systems. A comprehensive roadmap was proposed to detail how DT can be used at different lifecycle stages to optimize and address the four main challenges of 3DCP, providing directions and ideas for further research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
@@ -100,8 +81,8 @@ tags:
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
@@ -116,4 +97,34 @@ tags:
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../roja_hasa.2024.NDTAf3CPitAI/">Novel Digital Twin Architecture for 3D Concrete Printing in the AEC Industry</a></li>
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_asla_dysk_past.2023.DTAi3CP,
+      author            = "Yuxin Wang and Farhad Aslani and Arcady Dyskin and Elena Pasternak",
+      title             = "Digital Twin Applications in 3D Concrete Printing",
+      doi               = "10.3390/su15032124",
+      year              = "2023",
+      journal           = "Sustainability",
+      volume            = "15",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, F. Aslani, A. Dyskin and E. Pasternak, “Digital Twin Applications in 3D Concrete Printing”, <i>Sustainability</i>, vol. 15, no. 3, 2023, doi: 10.3390/su15032124.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yuxin, Farhad Aslani, Arcady Dyskin, and Elena Pasternak. “Digital Twin Applications in 3D Concrete Printing”. <i>Sustainability</i> 15, no. 3 (2023). https://doi.org/10.3390/su15032124.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

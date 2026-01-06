@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Han Liu, Israel Sousa, Simon Laflamme, Shelby Doyle, Antonella Alessandro, Filippo Ubertini
+    - footer
+title: Liu Han, Sousa Israel, Laflamme Simon, Doyle Shelby, Alessandro Antonella, Ubertini Filippo
 description:
 tags:
  - cement
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1424-8220/25/19/6005/pdf?version=1759146600) Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/s25196005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/s25196005</a>
+#Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1424-8220/25/19/6005/pdf?version=1759146600) <a href="https://doi.org/10.3390/s25196005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/s25196005" target="_blank">10.3390/s25196005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3057-522X" title="ORCID: 0000-0003-3057-522X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_han"><b>Liu</b>&nbsp;Han</a></span>, <a href="../../../author/sousa_israel"><b>Sousa</b>&nbsp;Israel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0601-9664" title="ORCID: 0000-0002-0601-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laflamme_simon"><b>Laflamme</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5742-9076" title="ORCID: 0000-0001-5742-9076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b>&nbsp;Shelby</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2928-1961" title="ORCID: 0000-0003-2928-1961" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alessandro_antonella"><b>d'&nbsp;Alessandro</b>&nbsp;Antonella</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5044-8482" title="ORCID: 0000-0002-5044-8482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ubertini_filippo"><b>Ubertini</b>&nbsp;Filippo</a></span><br>
+Journal Article - Sensors, Vol. 25, Iss. 19, No. 6005
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_han"><b>Liu</b> Han</a> <a href="https://orcid.org/0000-0003-3057-522X" title="ORCID: 0000-0003-3057-522X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>
-,     <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> <a href="https://orcid.org/0000-0002-0601-9664" title="ORCID: 0000-0002-0601-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> <a href="https://orcid.org/0000-0001-5742-9076" title="ORCID: 0000-0001-5742-9076" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alessandro_antonella"><b>d' Alessandro</b> Antonella</a> <a href="https://orcid.org/0000-0003-2928-1961" title="ORCID: 0000-0003-2928-1961" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="https://orcid.org/0000-0002-5044-8482" title="ORCID: 0000-0002-5044-8482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sensors, Vol. 25, Iss. 19, No. 6005
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#component`](keyword/component)
-    [`#composite`](keyword/composite)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#sensor`](keyword/sensor)
-    [`#smart`](keyword/smart)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Embedment%20of%203D%20Printed%20Self-Sensing%20Composites%20for%20Smart%20Cementitious%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018919076&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414609378" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/s25196005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/s25196005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The automation of concrete constructions through 3D printing (3DP) has been increasingly developed and adopted in civil engineering due to its promising advantages over traditional construction methods. However, widespread implementation is hindered by uncertainties in quality control, homogeneity, and interlayer bonding, as well as the uniqueness of each printed component. Building upon our prior work in developing 3D-printable self-sensing cementitious materials by incorporating graphite powder and carbon microfibers into a cementitious matrix to enhance its piezoresistive properties, this study aims at enabling condition assessment of cementitious 3DP by integrating the self-sensing materials as sensing nodes within conventional components. Three different 3D-printed strip patterns, consisting of one, two, and three strip lines that mimic the pattern used in fabricating foil strain gauges were investigated as conductive electrode designs to impart strain sensing capabilities, and characterized from a series of quasi-static and dynamic tests. Results demonstrate that the three-strip design yielded the highest sensitivity (𝜆stat of 669, 𝜆dyn of 630), whereas the two-strip design produced the highest signal quality (SNRstat = 9.5 dB, SNRdyn = 10.8 dB). These findings confirm the feasibility of integrating 3D-printed self-sensing cementitious materials through hybrid manufacturing, enabling monitoring of print quality, detection of load path changes, and identification of potential defects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/zeng_biqing"><b>Zeng</b> Biqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../he_li_chow_zeng.2022.ItILSo3PCwTLI/">Increasing the Inter-Layer Strength of 3D Printed Concrete with Tooth-Like Interface:<br/>An Experimental and Theoretical Investigation</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/seylabi_elnaz"><b>Seylabi</b> Elnaz</a>, <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kaze_seyl_eken.2022.C3P/">Concrete 3D Printing:<br/>Challenges and Opportunities for the Construction Industry</a></li>
@@ -90,7 +67,38 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhao_yanhua"><b>Zhao</b> Yanhua</a>, <a href="../../../author/meng_wei"><b>Meng</b> Wei</a>, <a href="../../../author/wang_peifu"><b>Wang</b> Peifu</a>, <a href="../../../author/qian_dongqing"><b>Qian</b> Dongqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhao_meng_wang_qian.2022.RPoC3PTaIESMaMDC/">Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_sous_lafl_doyl.2025.Eo3PSSCfSCC,
+      author            = "Han Liu and Israel Sousa and Simon Laflamme and Shelby Elizabeth Doyle and Antonella d' Alessandro and Filippo Ubertini",
+      title             = "Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components",
+      doi               = "10.3390/s25196005",
+      year              = "2025",
+      journal           = "Sensors",
+      volume            = "25",
+      number            = "19",
+      pages             = "6005",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Liu, I. Sousa, S. Laflamme, S. E. Doyle, A. d' Alessandro and F. Ubertini, “Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components”, <i>Sensors</i>, vol. 25, no. 19, p. 6005, 2025, doi: 10.3390/s25196005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Han, Israel Sousa, Simon Laflamme, Shelby Elizabeth Doyle, Antonella d' Alessandro, and Filippo Ubertini. “Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components”. <i>Sensors</i> 25, no. 19 (2025): 6005. https://doi.org/10.3390/s25196005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

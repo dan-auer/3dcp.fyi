@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexandros Chortis, Charalampos Gkountas, Lazaros Melidis, Konstantinos Katakalos
+    - footer
+title: Chortis Alexandros, Gkountas Charalampos, Melidis Lazaros, Katakalos Konstantinos
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/17/3205/pdf?version=1757066464) Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/buildings15173205" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15173205</a>
+#Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/17/3205/pdf?version=1757066464) <a href="https://doi.org/10.3390/buildings15173205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15173205" target="_blank">10.3390/buildings15173205</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-2747-2587" title="ORCID: 0009-0006-2747-2587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chortis_alexandros"><b>Chortis</b>&nbsp;Alexandros</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-4317-4292" title="ORCID: 0009-0001-4317-4292" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gkountas_charalampos"><b>Gkountas</b>&nbsp;Charalampos</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9333-4728" title="ORCID: 0000-0001-9333-4728" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/melidis_lazaros"><b>Melidis</b>&nbsp;Lazaros</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6272-1071" title="ORCID: 0000-0001-6272-1071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/katakalos_konstantinos"><b>Katakalos</b>&nbsp;Konstantinos</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 17, No. 3205
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a> <a href="https://orcid.org/0009-0006-2747-2587" title="ORCID: 0009-0006-2747-2587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a> <a href="https://orcid.org/0009-0001-4317-4292" title="ORCID: 0009-0001-4317-4292" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a> <a href="https://orcid.org/0000-0001-9333-4728" title="ORCID: 0000-0001-9333-4728" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="https://orcid.org/0000-0001-6272-1071" title="ORCID: 0000-0001-6272-1071" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 17, No. 3205
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#method`](keyword/method)
-    [`#numeric`](keyword/numeric)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#seismic`](keyword/seismic)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/seismic"><button class="btn">#seismic</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Seismic%20Performance%20Evaluation%20of%203D-Printed%20Concrete%20Walls%20Through%20Numerical%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015513250&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414017875" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15173205" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15173205?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Increasing labor costs, labor shortage, high environmental impact, and low productivity levels are the main reasons that have led the construction industry to search for sustainable alternatives to conventional traditional construction techniques, such as Additive Construction. Large-scale concrete 3D printing has emerged as a viable alternative, which can address these major challenges. Through the high material efficiency, design flexibility, and automation levels provided, 3D printing can revolutionize the way buildings are designed and built. The seismic behavior of 3D-printed load bearing elements remains generally underexplored. To that scope, the structural design of a two-story building is investigated. The proposed methodology involves finite element models and stress analysis of critical structural members. The performance of the studied walls is further investigated using 3D solid element models and nonlinear constitutive laws to validate structural adequacy. Different printing patterns and structural details of unreinforced and reinforced 3D-printed concrete walls are analyzed through parametric analyses. The results indicate the acceptable response of 3D-printed load bearing elements, under certain construction configurations, as required by the existing regulatory framework. The proposed methodology could be applied for the design of such structures and for the optimization of printing patterns and reinforcing details.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
       <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhou_mengting"><b>Zhou</b> Mengting</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jia_zhou_chen_wang.2024.EoSFSaCoPMaMPo3PHSCM/">Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials</a></li>
@@ -78,7 +56,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chor_gkou_meli_kata.2025.SPEo3PCWTNM,
+      author            = "Alexandros Chortis and Charalampos Gkountas and Lazaros Melidis and Konstantinos Katakalos",
+      title             = "Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods",
+      doi               = "10.3390/buildings15173205",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "17",
+      pages             = "3205",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Chortis, C. Gkountas, L. Melidis and K. Katakalos, “Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods”, <i>Buildings</i>, vol. 15, no. 17, p. 3205, 2025, doi: 10.3390/buildings15173205.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chortis, Alexandros, Charalampos Gkountas, Lazaros Melidis, and Konstantinos Katakalos. “Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods”. <i>Buildings</i> 15, no. 17 (2025): 3205. https://doi.org/10.3390/buildings15173205.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

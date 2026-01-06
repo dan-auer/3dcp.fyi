@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Christopher Battaglia, Martin Miller, Sasa Zivkovic
+    - footer
+title: Battaglia Christopher, Miller Martin, Zivkovic Sasa
 description:
 tags:
  - additive
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-92294-2_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-92294-2_19</a>
+#Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-92294-2_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92294-2_19" target="_blank">10.1007/978-3-319-92294-2_19</a>
 
--------------------------
+<a href="../../../author/battaglia_a_christopher"><b>Battaglia</b>&nbsp;Christopher</a></span>, <a href="../../../author/miller_fields_martin"><b>Miller</b>&nbsp;Martin</a></span>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b>&nbsp;Sasa</a></span><br>
+Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 242-255
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>
-,     <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>
-,     <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 242-255
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#curve`](keyword/curve)
-    [`#double`](keyword/double)
-    [`#lattice`](keyword/lattice)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/double"><button class="btn">#double</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sub-Additive%203D%20Printing%20of%20Optimized%20Double%20Curved%20Concrete%20Lattice%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008844678&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2888079319" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-92294-2_19" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-92294-2_19?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The research presented in this paper investigates architectural-scale concrete 3D printing for the fabrication of rapidly-constructed, structurally-optimized concrete lattice structures. Sub-Additive Manufacturing utilizes a three-dimensional tool path for deposition of material over a mechanically-shaped substructure of reusable aggregate. This process expedites the production of doubly-curved concrete form by replacing traditional formwork casting or horizontal corbeling with spatial concrete arching. Creating robust non-zero Gaussian curvature in concrete, this method increases speed over typical concrete fabrication practices. Utilizing robotics to integrate a streamlined workflow from digital design to physical fabrication, Sub-Additive leverages digital workflows to produce structurally, materially, and spatially optimized building components while dramatically reducing waste material. Addressing digital form finding and optimization, material behaviors (both concrete and supportive aggregate), nozzle design and novel utilization of robotic fabrication, this paper introduces a series of key concepts for Sub-Additive Manufacturing, radically advancing concrete 3D printing at full scale.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>
@@ -73,8 +52,8 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
@@ -95,4 +74,34 @@ tags:
       <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/kumarji_sujay"><b>Kumarji</b> Sujay</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b> Aldo</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gene_kuma_dubo_soll.2020.SRoCW3P/">Simultaneous Reinforcement of Concrete While 3D Printing</a></li>
       <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../west_varg.2020.KC/">Knitting Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{batt_mill_zivk.2019.SA3PoODCCLS,
+      author            = "Christopher A. Battaglia and Martin Fields Miller and Sasa Zivkovic",
+      title             = "Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures",
+      doi               = "10.1007/978-3-319-92294-2_19",
+      year              = "2019",
+      pages             = "242--255",
+      booktitle         = "Robotic Fabrication in Architecture, Art and Design 2018: Radical Cross-Disciplinarity",
+      editor            = "Jan Willmann and Philippe Block and Marco Hutter and Kendra Byrne and Tim Schork",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. A. Battaglia, M. F. Miller and S. Zivkovic, “Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures”, in <i>Robotic Fabrication in Architecture, Art and Design 2018: Radical Cross-Disciplinarity</i>,  2019, pp. 242–255. doi: 10.1007/978-3-319-92294-2_19.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Battaglia, Christopher A., Martin Fields Miller, and Sasa Zivkovic. “Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures”. In <i>Robotic Fabrication in Architecture, Art and Design 2018: Radical Cross-Disciplinarity</i>, edited by Jan Willmann, Philippe Block, Marco Hutter, Kendra Byrne, and Tim Schork, 242–55, 2019. https://doi.org/10.1007/978-3-319-92294-2_19.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

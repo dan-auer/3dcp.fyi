@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yekai Yang, Chengqing Wu, Zhongxian Liu, Hai Zhang
+    - footer
+title: Yang Yekai, Wu Chengqing, Liu Zhongxian, Zhang Hai
 description:
 tags:
  - axis
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.addma.2021.102568" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2021.102568</a>
+#3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2021.102568" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102568" target="_blank">10.1016/j.addma.2021.102568</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yekai"><b>Yang</b>&nbsp;Yekai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <a href="../../../author/zhang_hai"><b>Zhang</b>&nbsp;Hai</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 50
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> <a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-,     <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 50, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#concrete`](keyword/concrete)
-    [`#confinement`](keyword/confinement)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#load`](keyword/load)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/confinement"><button class="btn">#confinement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete%20under%20Triaxial%20Confining%20Loads" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122465480&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200461791" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2021.102568" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2021.102568?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printing concrete structural members may experience complex stress states, while external reinforcement (wrapping steel tube or fiber-reinforced polymer) may be one of the effective ways to improve performance. Therefore, triaxial mechanical properties of 3D-printing concrete should be explored. This study presents an experimental investigation of the triaxial behavior of 3D-printing ultra-high performance fiber-reinforced concrete (3DP-UHPFRC) loaded in the Z-direction. Mold-casting ultra-high performance fiber reinforced concrete (MC-UHPFRC) was used as the reference specimen. Based on the test data, the failure mode and mechanical properties of the 3D-printing specimens were analyzed, and the failure criteria were explored. The experimental results showed that 3DP-UHPFRC possessed triaxial failure modes, mechanical properties, and failure criteria as MC-UHPFRC. All 3DP-UHPFRC specimens exhibited oblique shear cracks under triaxial compression. The fitting effect of Mohr-Coulomb failure criterion on 3D-printing specimens without steel fiber is poor (R2 is less than 0.9), which is due to the linear relationship of Mohr-Coulomb failure criterion and the obvious nonlinear increase in strength of 3D-printing specimens without steel fiber with the confining pressure, whereas the Power-law and Willam-Warnke failure criteria were good for all 3D-printing specimens. A modified model was established for predicting the stress-strain curves of 3DP-UHPFRC under triaxial confining pressure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -87,8 +64,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "52 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
@@ -142,4 +119,33 @@ tags:
       <li><a href="../../../author/peng_guanhong"><b>Peng</b> Guanhong</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../peng.2022.DFaMPo3PC/">Digital Fabrication and Mechanical Properties of 3D Printing Concrete</a></li>
       <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../dong_yang_liu_ren.2022.MaMBo3PUHPCaET/">Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_wu_liu_zhan.2022.3PUHPFRCuTCL,
+      author            = "Yekai Yang and Chengqing Wu and Zhongxian Liu and Hai Zhang",
+      title             = "3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads",
+      doi               = "10.1016/j.addma.2021.102568",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "50",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yang, C. Wu, Z. Liu and H. Zhang, “3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads”, <i>Additive Manufacturing</i>, vol. 50, 2022, doi: 10.1016/j.addma.2021.102568.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Yekai, Chengqing Wu, Zhongxian Liu, and Hai Zhang. “3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Triaxial Confining Loads”. <i>Additive Manufacturing</i> 50 (2022). https://doi.org/10.1016/j.addma.2021.102568.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

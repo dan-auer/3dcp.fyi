@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Willy Jin, Jean-François Caron, Claudiane Ouellet-Plamondon
+    - footer
+title: Jin Willy, Caron Jean-François, Ouellet-Plamondon Claudiane
 description:
 tags:
  - carbon
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2024.105853) Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>:aca-blank: Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105853" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105853</a>
+#Minimizing the Carbon Footprint of 3D Printing Concrete&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105853) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105853" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105853" target="_blank">10.1016/j.cemconcomp.2024.105853</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-8419-3964" title="ORCID: 0009-0002-8419-3964" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_willy"><b>Jin</b>&nbsp;Willy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b>&nbsp;Claudiane</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105853
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jin_willy"><b>Jin</b> Willy</a> <a href="https://orcid.org/0009-0002-8419-3964" title="ORCID: 0009-0002-8419-3964" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105853
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#footprint`](keyword/footprint)
-    [`#lever`](keyword/lever)
-    [`#minimum`](keyword/minimum)
-    [`#multi`](keyword/multi)
-    [`#network`](keyword/network)
-    [`#neural`](keyword/neural)
-    [`#objective`](keyword/objective)
-    [`#optimization`](keyword/optimization)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/minimum"><button class="btn">#minimum</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/objective"><button class="btn">#objective</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Minimizing%20the%20Carbon%20Footprint%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210532738&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404727874" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105853" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105853?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing proposes an off-site industrial process allowing to deposit material only where required. However, most mixture design methods struggle to perform, which is why a majority of 3D printing materials display high clinker contents. This study proposes a reproducible methodology for tailor-made 3D printing materials. Applied to a low-clinker quaternary blend, an iterative optimization process leads to a significant reduction of labor in material tuning. It involves life cycle assessment and artificial neural networks as objective functions in the Pareto selection of best-performing solutions. Following the constitution of an 18-mixture database with 6 independent variables and 5 objective functions, printable mortars of different strength classes are designed within 2 to 4 active learning runs. Consequently, this optimum-driven technique allows to rapidly converge toward low-carbon solutions for 3D printing, using local materials and custom characterization procedures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -102,11 +78,40 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a>, <a href="../../../author/pinto_nuno"><b>Pinto</b> Nuno</a>, <a href="../../../author/pimentel_mario"><b>Pimentel</b> Mário</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../mato_milh_pint_pime.2025.CMfS3P/">Cementitious Mortars for Sustainable 3D Printing</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../thib_tale_bela_bult.2025.HPo3PMwFRoNSbRS/">Hardened Properties of 3D Printable Mortars with Full Replacement of Natural Sand by Recycled Sand</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jin_caro_ouel.2024.MtCFo3PC,
+      author            = "Willy Jin and Jean-François Caron and Claudiane M. Ouellet-Plamondon",
+      title             = "Minimizing the Carbon Footprint of 3D Printing Concrete: Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization",
+      doi               = "10.1016/j.cemconcomp.2024.105853",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105853",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Jin, J.-F. Caron and C. M. Ouellet-Plamondon, “Minimizing the Carbon Footprint of 3D Printing Concrete: Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization”, <i>Cement and Concrete Composites</i>, p. 105853, 2024, doi: 10.1016/j.cemconcomp.2024.105853.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jin, Willy, Jean-François Caron, and Claudiane M. Ouellet-Plamondon. “Minimizing the Carbon Footprint of 3D Printing Concrete: Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization”. <i>Cement and Concrete Composites</i>, 2024, 105853. https://doi.org/10.1016/j.cemconcomp.2024.105853.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

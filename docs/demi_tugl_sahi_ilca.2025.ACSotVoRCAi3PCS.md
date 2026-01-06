@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Demirbaş, Merve Tuğluca, Oğuzhan Şahin, Hüseyin İlcan, Mustafa Şahmaran
+    - footer
+title: Demirbaş Ali, Tuğluca Merve, Şahin Oğuzhan, İlcan Hüseyin, Şahmaran Mustafa
 description:
 tags:
  - aggregate
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.istruc.2025.109152) A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.istruc.2025.109152" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.109152</a>
+#A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.istruc.2025.109152) <a href="https://doi.org/10.1016/j.istruc.2025.109152" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109152" target="_blank">10.1016/j.istruc.2025.109152</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-7356-0630" title="ORCID: 0009-0007-7356-0630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demirbas_osman_ali"><b>Demirbaş</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5197-4863" title="ORCID: 0000-0002-5197-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b>&nbsp;Merve</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Structures, Vol. 77, No. 109152
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/demirbas_osman_ali"><b>Demirbaş</b> Ali</a> <a href="https://orcid.org/0009-0007-7356-0630" title="ORCID: 0009-0007-7356-0630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a> <a href="https://orcid.org/0000-0002-5197-4863" title="ORCID: 0000-0002-5197-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 77, No. 109152
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#cement`](keyword/cement)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Study%20on%20the%20Valorization%20of%20Recycled%20Concrete%20Aggregates%20in%203D-Printable%20Cementitious%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004691459&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410253405" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.109152" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.109152?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study analyzes the incorporation of recycled concrete aggregate (RCA) in 3D printable mixture designs using both traditional Portland cement systems and white cement systems. A comprehensive range of testing methods was employed, including rheological assessments through flow table tests, rheometer flow curve analysis, three-interval thixotropy testing (3ITT), and Vicat tests. Mechanical and durability properties were evaluated via compressive strength tests, water absorption and sorptivity tests, drying shrinkage tests, freeze-thaw tests, and wetting-drying tests. To explore the microstructural and physical characteristics and their relationships with mechanical performance, scanning electron microscopy (SEM) analysis was conducted. Results indicated that incorporating RCA led to a stickier mixture that hindered spreading ability and reduced open-time performance during 3D-printing operations. Static yield stress was more significantly affected by RCA than dynamic yield stress and viscosity, impacting the overall flow properties. Despite these challenges, high-strength mortar designs with compressive strengths of approximately 70 MPa were achievable through careful adjustment of mixture design parameters. Mixtures containing RCA exhibited higher water absorption and sorptivity rates than those with natural aggregates (NA), along with greater shrinkage and slightly higher strength loss under wet-dry conditions and freeze-thaw cycles. However, the negative impacts of RCA were minimal and deemed negligible, suggesting its potential for effective use with appropriate adjustments. Notably, the use of RCA in 3D-printable mixtures did not present any issues during the printing process or after hardening, indicating promising prospects for high-value-added applications in advanced 3D additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../alba_swas_ghaf.2019.TDaDoaESf3PCM/">The Design and Development of an Extrusion-System for 3D Printing Cementitious Materials</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../asla_zhan.2024.S3PCSUHQSRM/">Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -114,9 +92,39 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{demi_tugl_sahi_ilca.2025.ACSotVoRCAi3PCS,
+      author            = "Ali Osman Demirbaş and Merve Sönmez Tuğluca and Oğuzhan Şahin and Hüseyin İlcan and Mustafa Şahmaran",
+      title             = "A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems",
+      doi               = "10.1016/j.istruc.2025.109152",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "77",
+      pages             = "109152",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. O. Demirbaş, M. S. Tuğluca, O. Şahin, H. İlcan and M. Şahmaran, “A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems”, <i>Structures</i>, vol. 77, p. 109152, 2025, doi: 10.1016/j.istruc.2025.109152.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Demirbaş, Ali Osman, Merve Sönmez Tuğluca, Oğuzhan Şahin, Hüseyin İlcan, and Mustafa Şahmaran. “A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems”. <i>Structures</i> 77 (2025): 109152. https://doi.org/10.1016/j.istruc.2025.109152.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

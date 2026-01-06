@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Lowke Dirk 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>

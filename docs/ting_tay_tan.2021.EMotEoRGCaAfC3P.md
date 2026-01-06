@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guan Ting, Yi Tay, Ming Tan
+    - footer
+title: Ting Guan, Tay Yi, Tan Ming
 description:
 tags:
  - aggregate
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/152411/2/Experimental%20measurement%20on%20the%20effects%20of%20recycled%20glass%20cullets%20as%20aggregates%20for%20construction%203D%20printing.pdf) Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing ([2021-04](date/2021/04))
-<a href="https://doi.org/10.1016/j.jclepro.2021.126919" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2021.126919</a>
+#Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing ([2021-04](date/2021/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/152411/2/Experimental%20measurement%20on%20the%20effects%20of%20recycled%20glass%20cullets%20as%20aggregates%20for%20construction%203D%20printing.pdf) <a href="https://doi.org/10.1016/j.jclepro.2021.126919" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2021.126919" target="_blank">10.1016/j.jclepro.2021.126919</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ting_heng-andrew_guan"><b>Ting</b>&nbsp;Guan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 300
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> <a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 300, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#construction`](keyword/construction)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#glass`](keyword/glass)
-    [`#measurement`](keyword/measurement)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Measurement%20on%20the%20Effects%20of%20Recycled%20Glass-Cullets%20as%20Aggregates%20for%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104093883&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3146723395" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2021.126919" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2021.126919?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper studies the effects of recycled glass cullets as fine aggregates for the material in construction 3D printing. A reference material with natural river sand as fine aggregate was used as the control and recycled glass cullet of similar grading was used to replace the natural river sand at 25, 50,75 and 100% by mass. The effects of incorporating the recycled glass on the rheological properties such as the static yield stress, dynamic yield stress and plastic viscosity were studied. 3D printing investigation was also conducted on the mixtures to evaluate the materials printability (pumpability and buildability). Mechanical properties such as compressive strength and interlayer bond strength by splitting tensile were also examined. Results show that the static yield stress decreases while the dynamic yield stress and plastic viscosity increases as the recycled glass cullets content increases. The change in rheological properties also affected the printability of the mixtures. In the mechanical properties test, the increase in recycled glass cullets content also reduces the compressive strength and interlayer bond strength of the specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -86,7 +65,6 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ting_tay_tan.2021.EMotEoRGCaAfC3P/">Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing</a></li>
       <li><a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>, <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>, <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../tobi_omar_yehi_alo.2018.CVo3PHiU/">Cost Viability of 3D Printed House in UK</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
@@ -96,8 +74,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "63 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/manalo_c_allan"><b>Manalo</b> Allan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P/">Rheological, Mechanical and Fire Resistance Performance of Waste Glass Activated Geopolymers for Concrete 3D Printing</a></li>
       <li><a href="../../../author/yerikania_utami"><b>Yerikania</b> Utami</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/poh_hien_leong"><b>Poh</b> Leong</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yeri_du_poh.2025.ACEIoABoHCM3PC/">A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA/">Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate</a></li>
@@ -160,6 +139,34 @@ tags:
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
-      <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ting_tay_tan.2021.EMotEoRGCaAfC3P/">Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ting_tay_tan.2021.EMotEoRGCaAfC3P,
+      author            = "Guan Heng Andrew Ting and Yi Wei Daniel Tay and Ming Jen Tan",
+      title             = "Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing",
+      doi               = "10.1016/j.jclepro.2021.126919",
+      year              = "2021",
+      journal           = "Journal of Cleaner Production",
+      volume            = "300",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. H. A. Ting, Y. W. D. Tay and M. J. Tan, “Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing”, <i>Journal of Cleaner Production</i>, vol. 300, 2021, doi: 10.1016/j.jclepro.2021.126919.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ting, Guan Heng Andrew, Yi Wei Daniel Tay, and Ming Jen Tan. “Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing”. <i>Journal of Cleaner Production</i> 300 (2021). https://doi.org/10.1016/j.jclepro.2021.126919.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

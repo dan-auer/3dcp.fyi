@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dirk Lowke, Aileen Vandenberg, Alexandre Pierre, Amaury Thomas, Harald Kloft, Norman Hack
+    - footer
+title: Lowke Dirk, Vandenberg Aileen, Pierre Alexandre, Thomas Amaury, Kloft Harald, Hack Norman
 description:
 tags:
  - application
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Injection 3D Concrete Printing in a Carrier Liquid:<br/>:aca-blank: Underlying Physics and Applications to Lightweight Space Frame Structures ([2021-07](date/2021/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104169" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104169</a>
+#Injection 3D Concrete Printing in a Carrier Liquid&nbsp;([2021-07](date/2021/07))
+<div class="h1-like">Underlying Physics and Applications to Lightweight Space Frame Structures</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104169" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104169" target="_blank">10.1016/j.cemconcomp.2021.104169</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1373-2230" title="ORCID: 0000-0002-1373-2230" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vandenberg_aileen"><b>Vandenberg</b>&nbsp;Aileen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_alexandre"><b>Pierre</b>&nbsp;Alexandre</a></span>, <a href="../../../author/thomas_amaury"><b>Thomas</b>&nbsp;Amaury</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 124
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a> <a href="https://orcid.org/0000-0002-1373-2230" title="ORCID: 0000-0002-1373-2230" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thomas_amaury"><b>Thomas</b> Amaury</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 124, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#frame`](keyword/frame)
-    [`#injection`](keyword/injection)
-    [`#light`](keyword/light)
-    [`#liquid`](keyword/liquid)
-    [`#physics`](keyword/physics)
-    [`#print`](keyword/print)
-    [`#space`](keyword/space)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/frame"><button class="btn">#frame</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/liquid"><button class="btn">#liquid</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Injection%203D%20Concrete%20Printing%20in%20a%20Carrier%20Liquid" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85113139153&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3178376537" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104169" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104169?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Currently, additive manufacturing in concrete construction can be divided into three main methods: firstly, material extrusion, secondly material spraying, and thirdly particle bed binding, with the material typically being applied in layers. In contrast, Injection 3D Concrete Printing (I3DCP) is based on the concept that a fluid material A is deposited spatially free into a material B with specific rheological properties, keeping material A in a stable position within material B. Thus, in contrast to the layered deposition of horizontal strands, free-form three-dimensional concrete structures can be printed entirely in one piece. In general, three versions of Injection 3D Concrete Printing can be classified: a) injecting a fine-grained concrete into a non-hardening carrier liquid; b) injecting a non-hardening suspension into a fine-grained concrete; c) injecting fine-grained concrete with specific properties into concrete with different properties. This paper focuses on Injection 3D Concrete Printing into a carrier liquid. For a deeper understanding of the underlying physical mechanisms, we carry out experiments that vary the rheological properties of the carrier liquid, the concrete flow rate, and the nozzle displacement velocity. We use a ground limestone suspension as carrier liquids in this study. We investigate the effect of the rheological properties of the carrier liquid on the positional stability of the injected concrete in small-scale print experiments. Based on this, we develop an analytical model that describes the positional stability as a function of the rheological properties. Also, we highlight that the final cross-section of the injected concrete strand is dependent on the concrete flow rate and nozzle velocity. Finally, we present the first reinforced I3DCP-elements and current developments of this novel technology for lightweight space frame structures in concrete construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/benamara_abdeslam"><b>Benamara</b> Abdeslam</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bena_pier_kaci_meli.2020.3PoaCBMiaCFS/">3D Printing of a Cement-Based Mortar in a Complex Fluid Suspension:<br/>Analytical Modeling and Experimental Tests</a></li>
@@ -98,8 +73,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jacobi_ando"><b>Jacobi</b> Ando</a>, <a href="../../../author/zollner_jan-phillip"><b>Zöllner</b> Jan-Phillip</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../jaco_zoll_hack_mai.2025.EoPPRiI3CP/">Encasement of Pre-Placed Reinforcement in Injection 3D Concrete Printing:<br/>The Effect of Rheology and Process Parameters</a></li>
       <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
@@ -126,4 +101,33 @@ tags:
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../xiao_khad_vand_lowk.2022.I3CPICwVB3GS/">Injection 3D Concrete Printing (I3DCP) Combined with Vector-Based 3D Graphic Statics</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lowk_vand_pier_thom.2021.I3CPiaCL,
+      author            = "Dirk Lowke and Aileen Vandenberg and Alexandre Pierre and Amaury Thomas and Harald Kloft and Norman Peter Hack",
+      title             = "Injection 3D Concrete Printing in a Carrier Liquid: Underlying Physics and Applications to Lightweight Space Frame Structures",
+      doi               = "10.1016/j.cemconcomp.2021.104169",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "124",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Lowke, A. Vandenberg, A. Pierre, A. Thomas, H. Kloft and N. P. Hack, “Injection 3D Concrete Printing in a Carrier Liquid: Underlying Physics and Applications to Lightweight Space Frame Structures”, <i>Cement and Concrete Composites</i>, vol. 124, 2021, doi: 10.1016/j.cemconcomp.2021.104169.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lowke, Dirk, Aileen Vandenberg, Alexandre Pierre, Amaury Thomas, Harald Kloft, and Norman Peter Hack. “Injection 3D Concrete Printing in a Carrier Liquid: Underlying Physics and Applications to Lightweight Space Frame Structures”. <i>Cement and Concrete Composites</i> 124 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104169.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

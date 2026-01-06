@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ivy Stout, Grant Godfrey, Jenna Dayley, Dexter Rodriguez, W. Guthrie, Taylor Sorensen
+    - footer
+title: Stout Ivy, Godfrey Grant, Dayley Jenna, Rodriguez Dexter, Guthrie W., Sorensen Taylor
 description:
 tags:
  - additive
@@ -16,34 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Concrete Mixture Properties and Designs for Additive Manufacturing:<br/>:aca-blank: A Review of 3D Concrete Printing ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1109/ietc61393.2024.10564296" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/ietc61393.2024.10564296</a>
+#Concrete Mixture Properties and Designs for Additive Manufacturing&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">A Review of 3D Concrete Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/ietc61393.2024.10564296" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/ietc61393.2024.10564296" target="_blank">10.1109/ietc61393.2024.10564296</a>
 
--------------------------
+<a href="../../../author/stout_ivy"><b>Stout</b>&nbsp;Ivy</a></span>, <a href="../../../author/godfrey_grant"><b>Godfrey</b>&nbsp;Grant</a></span>, <a href="../../../author/dayley_jenna"><b>Dayley</b>&nbsp;Jenna</a></span>, <a href="../../../author/rodriguez_dexter"><b>Rodriguez</b>&nbsp;Dexter</a></span>, <a href="../../../author/guthrie_spencer_w"><b>Guthrie</b>&nbsp;W.</a></span>, <a href="../../../author/sorensen_j_taylor"><b>Sorensen</b>&nbsp;Taylor</a></span><br>
+Contribution - 2024 Intermountain Engineering, Technology and Computing (IETC), pp. 285-290
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/stout_ivy"><b>Stout</b> Ivy</a>
-,     <a href="../../../author/godfrey_grant"><b>Godfrey</b> Grant</a>
-,     <a href="../../../author/dayley_jenna"><b>Dayley</b> Jenna</a>
-,     <a href="../../../author/rodriguez_dexter"><b>Rodriguez</b> Dexter</a>
-,     <a href="../../../author/guthrie_spencer_w"><b>Guthrie</b> W.</a>
-,     <a href="../../../author/sorensen_j_taylor"><b>Sorensen</b> Taylor</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 2024 Intermountain Engineering, Technology and Computing (IETC), pp. 285-290
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%20Mixture%20Properties%20and%20Designs%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198092497&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400114864" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/ietc61393.2024.10564296" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/ietc61393.2024.10564296?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing has emerged as a promising technology for revolutionizing construction practices, offering unparalleled flexibility and efficiency in building complex structures. However, the successful implementation of 3D concrete printing relies heavily on the development of appropriate mixture designs tailored to the unique requirements of additive manufacturing. This paper presents a comprehensive review of mixture properties critical for successful 3D concrete printing, including pumpability, extrudability, and constructability, and summarizes published concrete mixtures tailored for optimal 3D printing performance. Key aspects of the mixture designs include water-cement ratio, fly ash, silica fume, superplasticizers and viscosity-modifying agents, and fibrous additions. This paper serves as a valuable resource for researchers, engineers, and practitioners involved in 3D concrete printing, fostering continued innovation and refinement in mixture design methodologies to advance the adoption of this transformative construction technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
@@ -98,7 +75,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{stou_godf_dayl_rodr.2024.CMPaDfAM,
+      author            = "Ivy Stout and Grant Godfrey and Jenna Dayley and Dexter Rodriguez and W. Spencer Guthrie and Taylor J. Sorensen",
+      title             = "Concrete Mixture Properties and Designs for Additive Manufacturing: A Review of 3D Concrete Printing",
+      doi               = "10.1109/ietc61393.2024.10564296",
+      year              = "2024",
+      pages             = "285--290",
+      booktitle         = "2024 Intermountain Engineering, Technology and Computing (IETC)",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Stout, G. Godfrey, J. Dayley, D. Rodriguez, W. S. Guthrie and T. J. Sorensen, “Concrete Mixture Properties and Designs for Additive Manufacturing: A Review of 3D Concrete Printing”, in <i>2024 Intermountain Engineering, Technology and Computing (IETC)</i>,  2024, pp. 285–290. doi: 10.1109/ietc61393.2024.10564296.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Stout, Ivy, Grant Godfrey, Jenna Dayley, Dexter Rodriguez, W. Spencer Guthrie, and Taylor J. Sorensen. “Concrete Mixture Properties and Designs for Additive Manufacturing: A Review of 3D Concrete Printing”. In <i>2024 Intermountain Engineering, Technology and Computing (IETC)</i>, 285–90, 2024. https://doi.org/10.1109/ietc61393.2024.10564296.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

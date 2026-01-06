@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mustapha Jaji, Kamoru Ibrahim, Gideon Zijl, Adewumi Babafemi
+    - footer
+title: Jaji Mustapha, Ibrahim Kamoru, Zijl Gideon, Babafemi Adewumi
 description:
 tags:
  - base
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matpr.2023.03.530) Thixotropic Characterisation of Slag-Modified 3D Printable Metakaolin-Based Geopolymer Composite ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.matpr.2023.03.530" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.03.530</a>
+#Thixotropic Characterisation of Slag-Modified 3D Printable Metakaolin-Based Geopolymer Composite ([2023-04](date/2023/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2023.03.530) <a href="https://doi.org/10.1016/j.matpr.2023.03.530" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.530" target="_blank">10.1016/j.matpr.2023.03.530</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b>&nbsp;Mustapha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b>&nbsp;Kamoru</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> <a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a> <a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#modification`](keyword/modification)
-    [`#printability`](keyword/printability)
-    [`#slag`](keyword/slag)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thixotropic%20Characterisation%20of%20Slag-Modified%203D%20Printable%20Metakaolin-Based%20Geopolymer%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151916060&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4362575462" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.03.530" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.03.530?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Geopolymer concrete (GPC) is a substitute for ordinary Portland cement (OPC) in 3D concrete printing for sustainable construction. However, poor structural build-up arising from a slow chemical reaction rate of a two-part GPC is a limitation to buildability. Therefore, slag (0, 5, 10, and 15% by weight of metakaolin), and fibre (0.5% by volume of mix) inclusion in metakaolin (MK)-based GPC composite could improve structural build-up and enhance buildability. This paper presents the rheological thixotropic characterisation of static and dynamic yield stresses, Rthix (re-flocculation rate), and Athix (structuration rate), of slag-modified fibre-reinforced MK-based geopolymer for 3D printing of concrete using an ICAR rheometer at selected resting times of 0 to 2700 s depending on mix behaviour. The printability of the GPC is validated with a 3D concrete print of a 250 mm diameter column for each mix. The results show that the reference, M1, with 0% slag content is more workable than M2 with 5% slag; however, M2 exhibits better thixotropic properties. Slag inclusion in M2 improved the buildability of validated 3D prints by 36% compared to M1. The 3D prints of M1 and M2 columns are buildable up to 27 and 42 layers, respectively, before plastic yield and collapse. Slag inclusion beyond 5% had too little open time than required for printing, leading to a significant and early increase in stiffness and clogging of the printer hose.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../heev_best_krug_zijl.2019.EoSCNPo3PoCBM/">Effect of Silicon-Carbide-Nano-Particles on 3D Printability of Cement-Based Materials</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
@@ -78,8 +56,8 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_bhag_unlu_tan.2019.SaCoOPGfEB3CP/">Synthesis and Characterization of One-Part Geopolymers for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/mahmoodi_obaid"><b>Mahmoodi</b> Obaid</a>, <a href="../../../author/siad_hocine"><b>Siad</b> Hocine</a>, <a href="../../../author/lachemi_mohamed"><b>Lachemi</b> Mohamed</a>, <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mahm_siad_lach_sahm.2025.RAiCBG/">Recent Advances in CDW-Based Geopolymers:<br/>A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
@@ -91,4 +69,32 @@ tags:
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ibra_zijl_baba.2023.CSoLaFABBBiFRPC/">Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete:<br/>Rheological and Quasi-Static Mechanical Characteristics</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/kamoru_a"><b>Kamoru</b> A.</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../jaji_kamo_zijl_baba.2023.EoAoPIaWAo3PMBGC/">Effect of Anisotropy on Permeability Index and Water-Absorption of 3D Printed Metakaolin-Based Geopolymer Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jaji_ibra_zijl_baba.2023.TCoSM3PMBGC,
+      author            = "Mustapha Bamidele Jaji and Kamoru Ademola Ibrahim and Gideon Pieter Adriaan Greeff van Zijl and Adewumi John Babafemi",
+      title             = "Thixotropic Characterisation of Slag-Modified 3D Printable Metakaolin-Based Geopolymer Composite",
+      doi               = "10.1016/j.matpr.2023.03.530",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. B. Jaji, K. A. Ibrahim, G. P. A. G. van Zijl and A. J. Babafemi, “Thixotropic Characterisation of Slag-Modified 3D Printable Metakaolin-Based Geopolymer Composite”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.03.530.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jaji, Mustapha Bamidele, Kamoru Ademola Ibrahim, Gideon Pieter Adriaan Greeff van Zijl, and Adewumi John Babafemi. “Thixotropic Characterisation of Slag-Modified 3D Printable Metakaolin-Based Geopolymer Composite”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.03.530.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

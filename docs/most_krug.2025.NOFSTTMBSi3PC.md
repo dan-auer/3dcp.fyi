@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jean-Pierre Mostert, Jacques Kruger
+    - footer
+title: Mostert Jean-Pierre, Kruger Jacques
 description:
 tags:
  - bond
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.istruc.2025.110570" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.110570</a>
+#Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete ([2025-10](date/2025/10))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.istruc.2025.110570" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.110570" target="_blank">10.1016/j.istruc.2025.110570</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mostert_jean-pierre"><b>Mostert</b>&nbsp;Jean-Pierre</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span><br>
+Journal Article - Structures, Vol. 82, No. 110570
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a> <a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 82, No. 110570
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#filament`](keyword/filament)
-    [`#maximum`](keyword/maximum)
-    [`#numeric`](keyword/numeric)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#surface`](keyword/surface)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/maximum"><button class="btn">#maximum</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerically%20Optimised%20Filament%20Surface%20Topology%20Towards%20Maximum%20Bond%20Strength%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415751796" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.110570" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.110570?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) is emerging as a high-impact construction automation technology, with numerous structures completed globally. A major challenge is anisotropic mechanical behaviour caused by weak bonding between concrete filaments, also prevalent in other additive manufacturing forms. Literature shows inadequate bonding reduces tensile strength by 45.6 %, resulting in filament delamination rather than bulk fracture. This study presents a comprehensive investigation into optimising filament surface topology to maximise interlayer bond strength in 3DPC. Using advanced numerical simulation frameworks and experimental methodologies, various interlayer topologies for filaments with 40 mm× 20 mm (w x h) cross-sections were explored, including different tongue-and-groove depths, widths, and counts, as well as stress concentration effects. An interface-based finite element model in DIANA was validated with experimental results. A single 5 mm groove increased tensile bond strength by 42.9 %, with no significant improvements beyond this depth. Groove width optimisation achieved a peak improvement of 98.21 % at 20 mm width. Introducing three 7 mm deep grooves yielded a 124 % strength increase. Incorporating fillets at tongue-and-groove corners reduced stress concentrations, enhancing bond strength by 179.46 %. The tensile capacity of interlayers reached within 6.57 % of bulk tensile strength, indicating near-isotropic behaviour. Employing tongue-and-groove topologies using recycled 3D-printed plastic nozzles provides a cost-effective, safer, and environmentally sustainable approach, outperforming traditional chemical and thermal treatments. Finally, universal guidelines are provided for achieving maximum bond strength across varying filament dimensions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -96,7 +74,37 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../weng_li_wong_tan.2021.SCaBADSfILBSEi3CP/">Synchronized Concrete and Bonding-Agent-Deposition-System for Inter-Layer Bond Strength Enhancement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{most_krug.2025.NOFSTTMBSi3PC,
+      author            = "Jean-Pierre Mostert and Jacques Pienaar Kruger",
+      title             = "Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete",
+      doi               = "10.1016/j.istruc.2025.110570",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "82",
+      pages             = "110570",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-P. Mostert  and J. P. Kruger, “Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete”, <i>Structures</i>, vol. 82, p. 110570, 2025, doi: 10.1016/j.istruc.2025.110570.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mostert, Jean-Pierre, and Jacques Pienaar Kruger. “Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete”. <i>Structures</i> 82 (2025): 110570. https://doi.org/10.1016/j.istruc.2025.110570.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

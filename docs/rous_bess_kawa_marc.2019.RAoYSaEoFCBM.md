@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nicolas Roussel, Hela Bessaies-Bey, Shiho Kawashima, Delphine Marchon, Ksenija Vasilić, Robert Wolfs
+    - footer
+title: Roussel Nicolas, Bessaies-Bey Hela, Kawashima Shiho, Marchon Delphine, Vasilić Ksenija, Wolfs Robert
 description:
 tags:
  - advance
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://pure.tue.nl/ws/files/133784205/1_s2.0_S000888461930273X_main.pdf) Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials ([2019-08](date/2019/08))
-<a href="https://doi.org/10.1016/j.cemconres.2019.105798" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2019.105798</a>
+#Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials ([2019-08](date/2019/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://pure.tue.nl/ws/files/133784205/1_s2.0_S000888461930273X_main.pdf) <a href="https://doi.org/10.1016/j.cemconres.2019.105798" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2019.105798" target="_blank">10.1016/j.cemconres.2019.105798</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b>&nbsp;Hela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8243-132X" title="ORCID: 0000-0001-8243-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchon_delphine"><b>Marchon</b>&nbsp;Delphine</a></span>, <a href="../../../author/vasilic_ksenija"><b>Vasilić</b>&nbsp;Ksenija</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 124
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a> <a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> <a href="https://orcid.org/0000-0001-8243-132X" title="ORCID: 0000-0001-8243-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 124, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#elasticity`](keyword/elasticity)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#stress`](keyword/stress)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recent%20Advances%20on%20Yield-Stress%20and%20Elasticity%20of%20Fresh%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070500578&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2968077817" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2019.105798" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2019.105798?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The interest in the elastic and yielding properties of fresh cement-based materials has recently grown due to the development of new processing techniques, which avoid the use of standard formworks. Without support, the material shaping relies only on the mechanical properties of the fresh material. Within this frame, the point of this paper is to gather the accepted knowledge along with the most recent advances on both yield stress and elasticity of fresh cement-based materials. In the first part, we will go through the physical and chemical origin of these macroscopic properties and their evolutions. In the second part, we will describe the way they can be measured while the third part will deal with the way they can be controlled and tuned. Finally, the most recent models for both properties prediction from mix design and processing modeling from rheological measurements will be described.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../qian_kawa.2016.UoCRPtMSYSaSRoFCP/">Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes</a></li>
@@ -79,8 +55,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "69 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
@@ -151,4 +127,33 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rous_bess_kawa_marc.2019.RAoYSaEoFCBM,
+      author            = "Nicolas Roussel and Hela Bessaies-Bey and Shiho Kawashima and Delphine Marchon and Ksenija Vasilić and Robert Johannes Maria Wolfs",
+      title             = "Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials",
+      doi               = "10.1016/j.cemconres.2019.105798",
+      year              = "2019",
+      journal           = "Cement and Concrete Research",
+      volume            = "124",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Roussel, H. Bessaies-Bey, S. Kawashima, D. Marchon, K. Vasilić and R. J. M. Wolfs, “Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials”, <i>Cement and Concrete Research</i>, vol. 124, 2019, doi: 10.1016/j.cemconres.2019.105798.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Roussel, Nicolas, Hela Bessaies-Bey, Shiho Kawashima, Delphine Marchon, Ksenija Vasilić, and Robert Johannes Maria Wolfs. “Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials”. <i>Cement and Concrete Research</i> 124 (2019). https://doi.org/10.1016/j.cemconres.2019.105798.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ksenija Vasilić
+    - footer
+title: Vasilić Ksenija
 description:
 tags:
  - additive
@@ -14,27 +15,14 @@ tags:
 
 ---
 
-# Additive Manufacturing with Concrete:<br/>:aca-blank: The Path to Practical Implementation ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408190917-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408190917-0</a>
+#Additive Manufacturing with Concrete&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">The Path to Practical Implementation</div>
+ <a href="https://doi.org/10.24355/dbbs.084-202408190917-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408190917-0" target="_blank">10.24355/dbbs.084-202408190917-0</a>
 
--------------------------
+<a href="../../../author/vasilic_ksenija"><b>Vasilić</b>&nbsp;Ksenija</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#implementation`](keyword/implementation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#path`](keyword/path)
-    [`#practice`](keyword/practice)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6926258720" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408190917-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408190917-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Research and innovation in digital fabrication with concrete are ad-vancing rapidly and high quality, sustainable solutions are being developed. Re-cent pilot projects have confirmed the potential of 3D-Printing to improve produc-tivity, sustainability and working conditions in concrete construction. However, there are still technological and economical obstacles to overcome and essential developments to be pursued to enable widespread implementation. This paper dis-cusses the path towards the practical implementation of 3D printing in the con-crete sector. The study presented focuses on the technological development, eco-nomic and normative aspects of 3D printing with the aim of developing a roadmap for practical implementation. The obstacles to implementation are reviewed, and activities to overcome these barriers and support implementation are highlighted. Finaly, the standardisation aspects are discussed and prenormative steps, which are necessary for the practical implementation, are proposed. The specific contri-bution of this paper is the research on and determination of the Technology Read-iness Level (TRL) of different technologies for the in-situ and off-situ applica-tions. Furthermore, the authors studied and suggested the implementation options for different technologies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../jacq_pica_rang_perr.2020.GIFtCRPoPCBM/">Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials</a></li>
@@ -68,12 +52,39 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../rous_lowk_busw.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>The RILEM D.F.C. Technical Committee</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
-      <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vasi.2024.AMwC/">Additive Manufacturing with Concrete:<br/>The Path to Practical Implementation</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/maciejewski_yannick"><b>Maciejewski</b> Yannick</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../wege_sten_gehl_maci.2021.AftCotF3PDHiG/">Approval for the Construction of the First 3D Printed Detached House in Germany:<br/>Significance of Large-Scale Element Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vasi.2024.AMwC/">Additive Manufacturing with Concrete:<br/>The Path to Practical Implementation</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{vasi.2024.AMwC,
+      author            = "Ksenija Vasilić",
+      title             = "Additive Manufacturing with Concrete: The Path to Practical Implementation",
+      doi               = "10.24355/dbbs.084-202408190917-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Vasilić, “Additive Manufacturing with Concrete: The Path to Practical Implementation”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408190917-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vasilić, Ksenija. “Additive Manufacturing with Concrete: The Path to Practical Implementation”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408190917-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Saim Raza, Zafiris Triantafyllidis, Ana-Maria Anton, Benjamin Dillenburger, Moslem Shahverdi
+    - footer
+title: Raza Saim, Triantafyllidis Zafiris, Anton Ana-Maria, Dillenburger Benjamin, Shahverdi Moslem
 description:
 tags:
  - bridge
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2023.117423) Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.engstruct.2023.117423" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.117423</a>
+#Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2023.117423) <a href="https://doi.org/10.1016/j.engstruct.2023.117423" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.117423" target="_blank">10.1016/j.engstruct.2023.117423</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_saim"><b>Raza</b>&nbsp;Saim</a></span>, <a href="../../../author/triantafyllidis_zafiris"><b>Triantafyllidis</b>&nbsp;Zafiris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahverdi_moslem"><b>Shahverdi</b>&nbsp;Moslem</a></span><br>
+Journal Article - Engineering Structures, Vol. 302, No. 117423
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raza_saim"><b>Raza</b> Saim</a> <a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/triantafyllidis_zafiris"><b>Triantafyllidis</b> Zafiris</a>
-,     <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> <a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 302, No. 117423
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#column`](keyword/column)
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#performance`](keyword/performance)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-    [`#segment`](keyword/segment)
-    [`#seismic`](keyword/seismic)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/seismic"><button class="btn">#seismic</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Seismic%20Performance%20of%20Fe-SMA%20Pre-Stressed%20Segmental%20Bridge%20Columns%20with%203D%20Printed%20Permanent%20Concrete%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183351704&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390490854" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.117423" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.117423?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of digital fabrication technology with prestressed segmental column construction offers significant potential for accelerated bridge construction with material-efficient design. This study aims to explore this potential by developing a novel prestressed segmental column system that utilizes permanent 3D printed concrete (3DPC) formwork for column segment fabrication. Prestressing is achieved in the proposed system by using partially bonded iron-based shape memory alloy (Fe-SMA) reinforcement. Large-scale experiments were conducted on two columns under combined gravity and lateral loading to evaluate the seismic performance and feasibility of the proposed system. The ratio of steel to Fe-SMA reinforcement in the column design was the variable considered in this study. The experimental results showed that the columns could withstand lateral drifts of up to 5% without collapse and the permanent 3DPC formwork showed no premature failure or delamination. Furthermore, the columns exhibited self-centering characteristics, maintaining a residual drift of 1% up to a target drift of 4% when the reinforcement ratio of steel to Fe-SMA rebars was 0.3. The results highlight the potential of the proposed prefabrication concept in designing material-efficient and seismically resilient bridge columns with low damage characteristics.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../anto_reit_skev_dill.2022.RLf3/">Reinforcement Lattices for 3DCP:<br/>A Fabrication Method Based on Ruled Surfaces</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -87,8 +62,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wang_flat_rous_perr.2022.PCBM/">Printable Cement-Based Materials:<br/>Fresh Properties Measurements and Control</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
@@ -109,4 +84,34 @@ tags:
       <li><a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b> Stefan</a>, <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../mitr_ignj.2024.CBSEMb3PC/">Connections Between Single Elements Made by 3D Printed Concrete</a></li>
       <li><a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a>, <a href="../../../author/kamravafar_rahasadat"><b>Kamravafar</b> Rahasadat</a>, <a href="../../../author/li_yunyan"><b>Li</b> Yunyan</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moza_kamr_li_mata.2024.LCF3PfRCC/">Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raza_tria_anto_dill.2024.SPoFSPSSBCw3PPCF,
+      author            = "Saim Raza and Zafiris Triantafyllidis and Ana-Maria Anton and Benjamin Dillenburger and Moslem Shahverdi",
+      title             = "Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork",
+      doi               = "10.1016/j.engstruct.2023.117423",
+      year              = "2024",
+      journal           = "Engineering Structures",
+      volume            = "302",
+      pages             = "117423",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Raza, Z. Triantafyllidis, A.-M. Anton, B. Dillenburger and M. Shahverdi, “Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork”, <i>Engineering Structures</i>, vol. 302, p. 117423, 2024, doi: 10.1016/j.engstruct.2023.117423.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raza, Saim, Zafiris Triantafyllidis, Ana-Maria Anton, Benjamin Dillenburger, and Moslem Shahverdi. “Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork”. <i>Engineering Structures</i> 302 (2024): 117423. https://doi.org/10.1016/j.engstruct.2023.117423.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

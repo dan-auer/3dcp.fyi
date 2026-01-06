@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenbang Liu, Mingyang Li, Guo Moo, Hitoshi Kobayashi, Teck Wong, Ming Tan
+    - footer
+title: Liu Zhenbang, Li Mingyang, Moo Guo, Kobayashi Hitoshi, Wong Teck, Tan Ming
 description:
 tags:
  - additive
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2504-477X/7/5/191/pdf?version=1683532373) Effect of Nano-Structured Silica-Additives on the Extrusion-Based 3D Concrete Printing Application ([2023-05](date/2023/05))
-<a href="https://doi.org/10.3390/jcs7050191" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/jcs7050191</a>
+#Effect of Nano-Structured Silica-Additives on the Extrusion-Based 3D Concrete Printing Application ([2023-05](date/2023/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2504-477X/7/5/191/pdf?version=1683532373) <a href="https://doi.org/10.3390/jcs7050191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs7050191" target="_blank">10.3390/jcs7050191</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhenbang"><b>Liu</b>&nbsp;Zhenbang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/moo_sheng-james_guo"><b>Moo</b>&nbsp;Guo</a></span>, <a href="../../../author/kobayashi_hitoshi"><b>Kobayashi</b>&nbsp;Hitoshi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Journal of Composites Science, Vol. 7, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> <a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moo_sheng-james_guo"><b>Moo</b> Guo</a>
-,     <a href="../../../author/kobayashi_hitoshi"><b>Kobayashi</b> Hitoshi</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Composites Science, Vol. 7, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#print`](keyword/print)
-    [`#silica`](keyword/silica)
-    [`#structuration`](keyword/structuration)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Nano-Structured%20Silica-Additives%20on%20the%20Extrusion-Based%203D%20Concrete%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160280211&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4375862361" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/jcs7050191" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/jcs7050191?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, 3D printing technology has become more popular in the field of construction. For the extrusion-based 3D concrete printing (3DCP) process, the cementitious material needs to be strong and flowable enough to ensure buildability and pumpability. Nanostructured silica, a kind of additive, has been used to modify the 3DCP concrete to meet these requests. However, most previous studies focused on the effect of nanostructured silica on rheological properties and failed to link the obtained rheological properties of nanostructured-silica-modified cementitious materials to the performance in 3D printing. In this paper, the 3DCP mixture based on premix cement, river sand, silica fume, and water was modified by different dosages of nanostructured silica (from 0.25% to 1.00% by the total weight of the 3DCP mixture). The effects of nanostructured silica on the rheological, hydration, printing, and microstructural properties were determined by rheological tests, stress growth tests, setting time tests, printing tests, and scanning electron microscopy (SEM) tests, respectively. This paper revealed that the nanostructured silica has a positive effect on 3DCP buildability but negatively affects the printing quality, which fits the effect of nanostructured silica on the rheological properties. Hence, the determined rheological properties can qualitatively evaluate the printing performance of nanostructured-silica-modified cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -96,8 +71,9 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_khan_mcna.2025.EoNSwHRoGoEMPaRo3PC/">Effect of Nano Silica with High Replacement of GGBS on Enhancing Mechanical Properties and Rheology of 3D Printed Concrete</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
@@ -111,4 +87,34 @@ tags:
       <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_li_quah_wong.2023.CIotRBt3CPFCaPoFSCM/">Comprehensive Investigations on the Relationship Between the 3D Concrete Printing Failure Criterion and Properties of Fresh-State Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_moo_koba.2023.EoNSSAotEB3CPA,
+      author            = "Zhenbang Liu and Mingyang Li and Guo Sheng James Moo and Hitoshi Kobayashi and Teck Neng Wong and Ming Jen Tan",
+      title             = "Effect of Nano-Structured Silica-Additives on the Extrusion-Based 3D Concrete Printing Application",
+      doi               = "10.3390/jcs7050191",
+      year              = "2023",
+      journal           = "Journal of Composites Science",
+      volume            = "7",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Liu, M. Li, G. S. J. Moo, H. Kobayashi, T. N. Wong and M. J. Tan, “Effect of Nano-Structured Silica-Additives on the Extrusion-Based 3D Concrete Printing Application”, <i>Journal of Composites Science</i>, vol. 7, no. 5, 2023, doi: 10.3390/jcs7050191.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Zhenbang, Mingyang Li, Guo Sheng James Moo, Hitoshi Kobayashi, Teck Neng Wong, and Ming Jen Tan. “Effect of Nano-Structured Silica-Additives on the Extrusion-Based 3D Concrete Printing Application”. <i>Journal of Composites Science</i> 7, no. 5 (2023). https://doi.org/10.3390/jcs7050191.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

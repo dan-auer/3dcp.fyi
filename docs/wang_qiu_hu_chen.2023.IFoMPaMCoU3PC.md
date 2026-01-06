@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yang Wang, Liu-Chao Qiu, Yan-Ye Hu, Song-Gui Cheng, Yi Liu
+    - footer
+title: Wang Yang, Qiu Liu-Chao, Hu Yan-Ye, Cheng Song-Gui, Liu Yi
 description:
 tags:
  - characteristic
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.jobe.2023.107571" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107571</a>
+#Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107571" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107571" target="_blank">10.1016/j.jobe.2023.107571</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yang"><b>Wang</b>&nbsp;Yang</a></span>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b>&nbsp;Liu-Chao</a></span>, <a href="../../../author/hu_yan-ye"><b>Hu</b>&nbsp;Yan-Ye</a></span>, <a href="../../../author/cheng_song-gui"><b>Cheng</b>&nbsp;Song-Gui</a></span>, <a href="../../../author/liu_yi"><b>Liu</b>&nbsp;Yi</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 77, No. 107571
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> <a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>
-,     <a href="../../../author/hu_yan-ye"><b>Hu</b> Yan-Ye</a>
-,     <a href="../../../author/cheng_song-gui"><b>Cheng</b> Song-Gui</a>
-,     <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 77, No. 107571
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#factor`](keyword/factor)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#underwater`](keyword/underwater)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influential%20Factors%20on%20Mechanical%20Properties%20and%20Microscopic%20Characteristics%20of%20Underwater%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85167816102&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385813889" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107571" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107571?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Underwater 3D Printing Concrete (U3DPC) technology can be a promising approach to address the challenges of renewable marine energy and coastal protection. Conducting extensive research on the mechanical properties of U3DPC is crucial for its successful implementation. This study investigates various factors, including printing environment, construction methods (mold-cast and printing), curing age, and material composition, regarding their significance on the mechanical properties of U3DPC. The compressive strength, anisotropy, interlayer bonding, and interface microstructure are evaluated. The research findings reveal that compared to casting specimens in air, the printing method and water environmental factors result in approximately 20% and 15.1% reduction in the compressive strength of U3DPC, respectively. U3DPC exhibits different anisotropic variations compared to specimens printed in air, attributed to weak interlayer bonding interfaces caused by external water. The influence of material components on the interlayer bonding strength of U3DPC has a critical threshold that should not be exceeded; otherwise, it weakens the interlayer bonding. The variation in fine aggregate types and fibers leads to changes in interlayer interface roughness, where excessive roughness captures more ambient water due to the “dog-tooth overlapping” structure, thereby reducing the adhesive capacity. The pore distribution reveals the underlying mechanism of how interface roughness affects interlayer bonding.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
@@ -99,8 +75,10 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhao_kang"><b>Zhao</b> Kang</a>, <a href="../../../author/hu_zhongjun"><b>Hu</b> Zhongjun</a>, <a href="../../../author/wang_boxin"><b>Wang</b> Boxin</a>, <a href="../../../author/li_quanheng"><b>Li</b> Quanheng</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF/">Effect of Roughness and Adhesive on the Strength of Concrete-to-Concrete Interfaces Cast from 3D Printed Prefabricated Plastic Formworks</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
@@ -120,4 +98,34 @@ tags:
       <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pal_chou_kapo.2024.IoVPPoMBoACC/">Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete</a></li>
       <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_qiu_hu_chen.2023.IFoMPaMCoU3PC,
+      author            = "Yang Wang and Liu-Chao Qiu and Yan-Ye Hu and Song-Gui Cheng and Yi Liu",
+      title             = "Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete",
+      doi               = "10.1016/j.jobe.2023.107571",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "77",
+      pages             = "107571",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, L.-C. Qiu, Y.-Y. Hu, S.-G. Cheng and Y. Liu, “Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete”, <i>Journal of Building Engineering</i>, vol. 77, p. 107571, 2023, doi: 10.1016/j.jobe.2023.107571.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yang, Liu-Chao Qiu, Yan-Ye Hu, Song-Gui Cheng, and Yi Liu. “Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete”. <i>Journal of Building Engineering</i> 77 (2023): 107571. https://doi.org/10.1016/j.jobe.2023.107571.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

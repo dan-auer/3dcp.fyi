@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tiago Cavalcante, Romildo Toledo Filho, Oscar Mendoza Reales
+    - footer
+title: Cavalcante Tiago, Toledo Filho Romildo, Mendoza Reales Oscar
 description:
 tags:
  - concrete
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/8/1280/pdf?version=1744620445) Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing ([2025-04](date/2025/04))
-<a href="https://doi.org/10.3390/buildings15081280" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15081280</a>
+#Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/8/1280/pdf?version=1744620445) <a href="https://doi.org/10.3390/buildings15081280" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15081280" target="_blank">10.3390/buildings15081280</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-2308-5505" title="ORCID: 0009-0002-2308-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b>&nbsp;Tiago</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 8, No. 1280
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a> <a href="https://orcid.org/0009-0002-2308-5505" title="ORCID: 0009-0002-2308-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 8, No. 1280
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#environment`](keyword/environment)
-    [`#fill`](keyword/fill)
-    [`#implication`](keyword/implication)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20and%20Environmental%20Implications%20of%20Recycled%20Concrete%20Powder%20as%20Filler%20in%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003687365&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409409298" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15081280" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15081280?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing with concrete has been accounted as a foremost strategy to mitigate low productivity, workforce shortage, and high waste generation in the construction industry. However, substantial environmental impacts related to high cement content in printable mixtures have received minor concern so far. An interesting prospect is the use of recycled concrete powders (RCP) to decrease cement content through their fineness and high specific surface area, which can potentially enhance rheological properties for 3D printing. However, their effects on cementitious mixtures greatly depend on their origin. This research investigated two distinct RCPs to replace 50% of Portland cement in pastes. On cementitious pastes, rotational rheometry, isothermal calorimetry, and a Life Cycle Inventory assessment were conducted. Printability tests on mortars evaluated the effects of RCP on extrudability and buildability. The results showed intensified early hydration for RCP pastes and up to a three-fold increase in static yield stress and higher dynamic yield stresses, regardless of origin. The viscosity of RCP pastes varied in relation to packing density. Extrudability and buildability can be compromised using RCP due to higher yield stress. The LCI assessment indicated a potential decrease of up to 62% in CO2 emissions using RCPs. Therefore, if adequate rheological adjustments are employed in the mix design of RCP mixtures, this material emerges as a feasible strategy to formulate 3D printable mixtures with a lower environmental footprint.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
       <li><a href="../../../author/canavarro-cavalcante_tiago"><b>Canavarro Cavalcante</b> Tiago</a>, <a href="../../../author/castrillon-fernandez_ikeda_letitia"><b>Castrillon Fernandez</b> Letitia</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../cana_cast_tole_mend.2024.3PMwDRCPaF/">3D Printable Mortars with Different Recycled Concrete Powders as Fillers</a></li>
@@ -88,10 +67,41 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_krav_besk_lazo.2025.3PoRMfSC/">3D Printing of Recycled Materials for Sustainable Construction:<br/>A Comprehensive Economic and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cava_tole_mend.2025.RaEIoRCPaFiC3P,
+      author            = "Tiago Canavarro Cavalcante and Romildo Dias Toledo Filho and Oscar Aurelio Mendoza Reales",
+      title             = "Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing",
+      doi               = "10.3390/buildings15081280",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "8",
+      pages             = "1280",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. C. Cavalcante, R. D. T. Filho and O. A. M. Reales, “Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing”, <i>Buildings</i>, vol. 15, no. 8, p. 1280, 2025, doi: 10.3390/buildings15081280.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cavalcante, Tiago Canavarro, Romildo Dias Toledo Filho, and Oscar Aurelio Mendoza Reales. “Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing”. <i>Buildings</i> 15, no. 8 (2025): 1280. https://doi.org/10.3390/buildings15081280.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: A. Krishnaraja, K. Guru
+    - footer
+title: Krishnaraja A., Guru K.
 description:
 tags:
  - concrete
@@ -11,25 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1757-899x/1055/1/012033) 3D Printing Concrete:<br/>:aca-blank: A Review ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1088/1757-899x/1055/1/012033" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1757-899x/1055/1/012033</a>
+#3D Printing Concrete&nbsp;([2021-02](date/2021/02))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/1055/1/012033) <a href="https://doi.org/10.1088/1757-899x/1055/1/012033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/1055/1/012033" target="_blank">10.1088/1757-899x/1055/1/012033</a>
 
--------------------------
+<a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b>&nbsp;A.</a></span>, <a href="../../../author/guru_v_k"><b>Guru</b>&nbsp;K.</a></span><br>
+Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 1055, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>
-,     <a href="../../../author/guru_v_k"><b>Guru</b> K.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 1055, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -44,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3129298846" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1757-899x/1055/1/012033" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1757-899x/1055/1/012033?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Printing concrete is new developed technology with no reinforcement or by providing reinforcement as like cable in the year 1987. The printing concrete is printed with the printer in different shapes and sizes. Size of aggregate used is very minimum which passes through the nozzle of printer. The strength of 3DPC is tested by compression, flexural, tensile, shear tests for identifying durability, extrudability, workability of printing concrete. The slump flow is carried for finding the flowability of concrete that passes through the nozzle of the printer. Fibers such as polypropylene, PVA, GGBS, Steel were used in addition of mix to increase the strength of 3DPC. Superplasticizers, Fly ash Silica fume, Geopolymer are used in concrete with percentage addition into the mix for raising the strength of the printing concrete. Result shows the strength of PC in different mix proportions along with varring size of specimens. Pumpabality and Buildability of printing concrete is analysed by slump flow test. Reinforcement for this concrete is provided as in form of cables that passes freely through nozzle for printing the concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -72,7 +58,6 @@ tags:
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kaze_yuan_meie_coch.2017.CS3P/">Construction-Scale 3D Printing:<br/>Shape Stability of Fresh Printing Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../kaze_yuan_meie_khos.2019.AFfPBToFMfCS3P/">A Framework for Performance-Based Testing of Fresh Mixtures for Construction-Scale 3D Printing</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../khal_remo_baz_aoua.2019.Co3PMMwOCM/">Characterization of 3D Printing Mortars Made with OPC-CSA Mixes</a></li>
-      <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../kuzm_gaud_fera_dirr.2020.AtEVo3CPT/">Assessing the Environmental Viability of 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../li_wang_ma.2018.MftEoBaBRo3PTM/">Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar</a></li>
@@ -103,8 +88,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/disu_oluwatimilehin"><b>Disu</b> Oluwatimilehin</a>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a>, <a href="../../../author/wood_luke"><b>Wood</b> Luke</a>, <a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b> Andreas</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../disu_isma_wood_chry.2025.ESoBo3PCBSUAS/">Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/ali_sufiyan_syed"><b>Ali</b> Syed</a>, <a href="../../../author/haq_moin_mohd"><b>Haq</b> Mohd</a>, <a href="../../../author/khan_ahmad_rizwan"><b>Khan</b> Rizwan</a>, <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b> Ahmad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ali_haq_khan_hash.2025.ACRo3PoC/">A Comprehensive Review on 3D Printing of Concrete:<br/>Materials, Methods and Mechanical Properties</a></li>
@@ -118,6 +103,35 @@ tags:
       <li><a href="../../../author/ebadi-jamkhaneh_mehdi"><b>Ebadi-Jamkhaneh</b> Mehdi</a>, <a href="../../../author/kontoni_n_denise-penelope"><b>Kontoni</b> Denise-Penelope</a>, <a href="../../../author/ebrahimi_homaioon_amir"><b>Ebrahimi</b> Amir</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ebad_kont_ebra.2023.TDPoSMwST/">Three-Dimensional Printing of Structural Members with Shotcrete Technique:<br/>Design, Construction, and Future Directions</a></li>
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
       <li><a href="../../../author/ignatova_elena"><b>Ignatova</b> Elena</a>, <a href="../../../author/kirichek_pavel"><b>Kirichek</b> Pavel</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../igna_kiri.2022.AMBoBIMD/">Additive Manufacturing Based on Building Information-Model-Data</a></li>
-      <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kris_guru.2021.3PC,
+      author            = "A. R. Krishnaraja and K. V. Guru",
+      title             = "3D Printing Concrete: A Review",
+      doi               = "10.1088/1757-899x/1055/1/012033",
+      year              = "2021",
+      journal           = "IOP Conference Series: Materials Science and Engineering",
+      volume            = "1055",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. R. Krishnaraja  and K. V. Guru, “3D Printing Concrete: A Review”, <i>IOP Conference Series: Materials Science and Engineering</i>, vol. 1055, no. 1, 2021, doi: 10.1088/1757-899x/1055/1/012033.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Krishnaraja, A. R., and K. V. Guru. “3D Printing Concrete: A Review”. <i>IOP Conference Series: Materials Science and Engineering</i> 1055, no. 1 (2021). https://doi.org/10.1088/1757-899x/1055/1/012033.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

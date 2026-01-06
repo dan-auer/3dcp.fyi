@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Prabhat Prem, Parukutty Ambily, Shankar Kumar, Greeshma Giridhar, Dengwu Jiao
+    - footer
+title: Prem Prabhat, Ambily Parukutty, Kumar Shankar, Giridhar Greeshma, Jiao Dengwu
 description:
 tags:
  - base
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Build-Up-Model for Three-Dimensional Concrete Printing Based on Kinetics-Theory ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/s11709-024-1081-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-024-1081-3</a>
+#Structural Build-Up-Model for Three-Dimensional Concrete Printing Based on Kinetics-Theory ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-024-1081-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1081-3" target="_blank">10.1007/s11709-024-1081-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <a href="../../../author/kumar_shankar"><b>Kumar</b>&nbsp;Shankar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giridhar_greeshma"><b>Giridhar</b>&nbsp;Greeshma</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiao_dengwu"><b>Jiao</b>&nbsp;Dengwu</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering, Vol. 18, Iss. 7, pp. 998-1014
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>
-,     <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> <a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, Vol. 18, Iss. 7, pp. 998-1014
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#kinetic`](keyword/kinetic)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#theory`](keyword/theory)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/kinetic"><button class="btn">#kinetic</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Build-Up-Model%20for%20Three-Dimensional%20Concrete%20Printing%20Based%20on%20Kinetics-Theory" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200031821&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401183537" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-024-1081-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-024-1081-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The thixotropic structural build-up is crucial in extrusion-based three-dimensional (3D) concrete printing. This paper uses a theoretical model to predict the evolution of static and dynamic yield stress for printed concrete. The model employs a structural kinetics framework to create a time-independent constitutive link between shear stress and shear rate. The model considers flocculation, deflocculation, and chemical hydration to anticipate structural buildability. The reversible and irreversible contributions that occur throughout the build-up, breakdown, and hydration are defined based on the proposed structural parameters. Additionally, detailed parametric studies are conducted to evaluate the impact of model parameters. It is revealed that the proposed model is in good agreement with the experimental results, and it effectively characterizes the structural build-up of 3D printable concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../giri_prem_jiao.2023.EoVSRaDRTotRo3PC/">Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete</a></li>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../giri_prem_kuma.2023.DoCMf3PUSTaT/">Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques</a></li>
       <li><a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../huan_huan_yuan_zhou.2019.TDoSBUaIRwHKoCP/">Temperature-Dependence of Structural Build-Up and Its Relation with Hydration Kinetics of Cement-Paste</a></li>
@@ -88,8 +63,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
       <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>
@@ -97,4 +72,35 @@ tags:
       <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS/">Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{prem_ambi_kuma_giri.2024.SBUMfTDCPBoKT,
+      author            = "Prabhat Ranjan Prem and Parukutty S. Ambily and Shankar Kumar and Greeshma Giridhar and Dengwu Jiao",
+      title             = "Structural Build-Up-Model for Three-Dimensional Concrete Printing Based on Kinetics-Theory",
+      doi               = "10.1007/s11709-024-1081-3",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+      volume            = "18",
+      number            = "7",
+      pages             = "998--1014",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. R. Prem, P. S. Ambily, S. Kumar, G. Giridhar and D. Jiao, “Structural Build-Up-Model for Three-Dimensional Concrete Printing Based on Kinetics-Theory”, <i>Frontiers of Structural and Civil Engineering</i>, vol. 18, no. 7, pp. 998–1014, 2024, doi: 10.1007/s11709-024-1081-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Prem, Prabhat Ranjan, Parukutty S. Ambily, Shankar Kumar, Greeshma Giridhar, and Dengwu Jiao. “Structural Build-Up-Model for Three-Dimensional Concrete Printing Based on Kinetics-Theory”. <i>Frontiers of Structural and Civil Engineering</i> 18, no. 7 (2024): 998–1014. https://doi.org/10.1007/s11709-024-1081-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

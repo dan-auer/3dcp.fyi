@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: M. Gurunandan, Hiranya Mala, Prakash Nanthagopalan
+    - footer
+title: Gurunandan M., Mala Hiranya, Nanthagopalan Prakash
 description:
 tags:
  - admixture
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Water-to-Binder, Aggregate-to-Binder-Ratio and Admixtures on Printability and Mechanical Properties of 3D Printable Mortar Mixtures ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jobe.2024.111649" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111649</a>
+#Effect of Water-to-Binder, Aggregate-to-Binder-Ratio and Admixtures on Printability and Mechanical Properties of 3D Printable Mortar Mixtures ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111649" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111649" target="_blank">10.1016/j.jobe.2024.111649</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6140-7432" title="ORCID: 0000-0002-6140-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gurunandan_m"><b>Gurunandan</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-1790-0556" title="ORCID: 0009-0000-1790-0556" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mala_jeet_hiranya"><b>Mala</b>&nbsp;Hiranya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b>&nbsp;Prakash</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111649
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gurunandan_m"><b>Gurunandan</b> M.</a> <a href="https://orcid.org/0000-0002-6140-7432" title="ORCID: 0000-0002-6140-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mala_jeet_hiranya"><b>Mala</b> Hiranya</a> <a href="https://orcid.org/0009-0000-1790-0556" title="ORCID: 0009-0000-1790-0556" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111649
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#aggregate`](keyword/aggregate)
-    [`#binder`](keyword/binder)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixture`](keyword/mixture)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#ratio`](keyword/ratio)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Water-to-Binder%2C%20Aggregate-to-Binder-Ratio%20and%20Admixtures%20on%20Printability%20and%20Mechanical%20Properties%20of%203D%20Printable%20Mortar%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213263280&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405740062" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111649" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111649?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Formwork free technology such as 3D-printing of concrete improves the project productivity and provides higher geometric flexibility in building design. However, most 3D-printable mixtures are rich in binders which pose shrinkage, economic and sustainability issues. Hence, there is a need to develop 3D-printable mixtures with increased aggregate to binder (a/b) ratio. In this study, the effect of water to binder ratio (w/b), admixtures and increasing a/b ratio (1.0, 1.5 and 2.0) on extrudability, buildability and mechanical properties were investigated. The extrudability was assessed through flow table test and surface characteristics of printed filaments (measured through image analysis) while buildability was assessed through buildable height test, layer slope index test (based on geometrical dimensions of printed object) and unconfined compressive strength test. The increase in w/b ratio of mixtures improved extrudability but reduced buildability. The addition of fly ash was found to be beneficial in improving the extrudability. With increasing a/b ratio, the surface irregularities and extrudability reduced while the buildable height increased. The static yield stress of the extrudable and buildable mixtures, determined through stress growth test, was in the range of 2.1-2.6 kPa. The printed specimens had lower compressive strength than mould cast specimens. The anisotropic index of the printed specimens was less than 0.30 which infers that the printed specimens are not anisotropic in compression. Also, in the considered printing protocol, there were no weak joint formed between 2 successively printed layers. This work is likely to contribute to the development of mixture design guidelines for 3D-printable mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
@@ -91,8 +67,37 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{guru_mala_nant.2024.EoWtBAtBRaAoPaMPo3PMM,
+      author            = "M. Gurunandan and Hiranya Jeet Mala and Prakash Nanthagopalan",
+      title             = "Effect of Water-to-Binder, Aggregate-to-Binder-Ratio and Admixtures on Printability and Mechanical Properties of 3D Printable Mortar Mixtures",
+      doi               = "10.1016/j.jobe.2024.111649",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111649",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Gurunandan, H. J. Mala and P. Nanthagopalan, “Effect of Water-to-Binder, Aggregate-to-Binder-Ratio and Admixtures on Printability and Mechanical Properties of 3D Printable Mortar Mixtures”, <i>Journal of Building Engineering</i>, p. 111649, 2024, doi: 10.1016/j.jobe.2024.111649.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gurunandan, M., Hiranya Jeet Mala, and Prakash Nanthagopalan. “Effect of Water-to-Binder, Aggregate-to-Binder-Ratio and Admixtures on Printability and Mechanical Properties of 3D Printable Mortar Mixtures”. <i>Journal of Building Engineering</i>, 2024, 111649. https://doi.org/10.1016/j.jobe.2024.111649.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

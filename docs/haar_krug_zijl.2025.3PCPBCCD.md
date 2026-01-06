@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bjorn Haar, Jacques Kruger, Gideon Zijl
+    - footer
+title: Haar Bjorn, Kruger Jacques, Zijl Gideon
 description:
 tags:
  - beam
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.113250) 3D Printed Concrete Pinned Beam-Column Connection Development ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.jobe.2025.113250" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113250</a>
+#3D Printed Concrete Pinned Beam-Column Connection Development ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.113250) <a href="https://doi.org/10.1016/j.jobe.2025.113250" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113250" target="_blank">10.1016/j.jobe.2025.113250</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7132-8260" title="ORCID: 0000-0002-7132-8260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haar_bjorn"><b>ter&nbsp;Haar</b>&nbsp;Bjorn</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113250
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/haar_bjorn"><b>ter Haar</b> Bjorn</a> <a href="https://orcid.org/0000-0002-7132-8260" title="ORCID: 0000-0002-7132-8260" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113250
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#column`](keyword/column)
-    [`#concrete`](keyword/concrete)
-    [`#connection`](keyword/connection)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/connection"><button class="btn">#connection</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Pinned%20Beam-Column%20Connection%20Development" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009441370&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411554736" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113250" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113250?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Freeform fabrication is a major strength of 3D concrete printing (3DCP), enabling designers to create complex geometries not possible or feasible with cast-in-mould concrete. This advantage of 3DCP hasn’t yet been utilised in the field of beam-column connections to meet structural, constructability, and demountable preferences. Research has largely focused on 3D printed concrete (3DPC) elements and not on connections. Therefore, this study reports on the development of a 3DPC beam-column connection. The connection is a demountable pinned beam-column connection for a specific 3DPC structural frame. The study consists of a conceptual development of the connection involving a qualitative load analysis and structural resistance design; and an initial experimental investigation involving a full-scale 3DPC beam and connection segments. The connection is successfully fabricated and assembled. The experimental investigation validates the connection concept by demonstrating sufficient rotation at the connection interface which prevents damage in critical areas. The novel 3DPC beam-column connection adds to the available connection solutions in the off-site construction industry and seeks to enable off-site 3DPC framed building systems. This study opens up the discussion of using 3DCP for connections in off-site construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -86,7 +67,36 @@ tags:
       <li><a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/chantin_marjorie"><b>Chantin</b> Marjorie</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a>, <a href="../../../author/fabritius_marc"><b>Fabritius</b> Marc</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../muni_chan_vint_fabr.2021.CHM/">Concrete Hybrid Manufacturing:<br/>A Machine Architecture</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{haar_krug_zijl.2025.3PCPBCCD,
+      author            = "Bjorn ter Haar and Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "3D Printed Concrete Pinned Beam-Column Connection Development",
+      doi               = "10.1016/j.jobe.2025.113250",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113250",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. ter Haar, J. P. Kruger and G. P. A. G. van Zijl, “3D Printed Concrete Pinned Beam-Column Connection Development”, <i>Journal of Building Engineering</i>, p. 113250, 2025, doi: 10.1016/j.jobe.2025.113250.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Haar, Bjorn ter, Jacques Pienaar Kruger, and Gideon Pieter Adriaan Greeff van Zijl. “3D Printed Concrete Pinned Beam-Column Connection Development”. <i>Journal of Building Engineering</i>, 2025, 113250. https://doi.org/10.1016/j.jobe.2025.113250.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #width
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mak_bunleang"><b>Mak</b> Bunleang</a>, <a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a>, <a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mak_kim_dong_shim.2025.CWIoRCBw3CPFUMP/">Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters</a></li>
   <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a>, <a href="../../../author/andreou_alexis"><b>Andreou</b> Alexis</a>, <a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kont_geor_andr_andr.2025.MaELHtWRi3THGC/">Measuring and Evaluating Layer Height to Width Ratio in 3DCP Towards Higher Geometric Conformity</a></li>
   <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lin_yan_sun_han.2024.ILCi3PC/">Inter-Layer Cohesion in 3D Printed Concrete:<br/>The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure</a></li>

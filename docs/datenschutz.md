@@ -7,14 +7,6 @@ search:
 ---
 
 
----
-hide:
-  - navigation
-  - tags
-search:
-  exclude: true
----
-
 <h2>Datenschutzerklärung</h2>
 
 

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alessandro Dell’Endice, Sam Bouten, Tom Mele, Philippe Block
+    - footer
+title: Dell’Endice Alessandro, Bouten Sam, Mele Tom, Block Philippe
 description:
 tags:
  - arch
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2023.116534) Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.engstruct.2023.116534" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.116534</a>
+#Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2023.116534) <a href="https://doi.org/10.1016/j.engstruct.2023.116534" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116534" target="_blank">10.1016/j.engstruct.2023.116534</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4799-6015" title="ORCID: 0000-0002-4799-6015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b>&nbsp;Alessandro</a></span>, <a href="../../../author/bouten_sam"><b>Bouten</b>&nbsp;Sam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
+Journal Article - Engineering Structures, Vol. 292, No. 116534
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a> <a href="https://orcid.org/0000-0002-4799-6015" title="ORCID: 0000-0002-4799-6015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bouten_sam"><b>Bouten</b> Sam</a>
-,     <a href="../../../author/mele_tom"><b>van Mele</b> Tom</a> <a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 292, No. 116534
-
-:aca-blank:{ .lg .middle}
-    [`#arch`](keyword/arch)
-    [`#bridge`](keyword/bridge)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#engineered`](keyword/engineered)
-    [`#masonry`](keyword/masonry)
-    [`#print`](keyword/print)
-    [`#striatus`](keyword/striatus)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/arch"><button class="btn">#arch</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/masonry"><button class="btn">#masonry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/striatus"><button class="btn">#striatus</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Design%20and%20Engineering%20of%20Striatus%2C%20an%20Unreinforced%203D%20Concrete%20Printed%20Masonry%20Arch%20Bridge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164220545&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383337641" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.116534" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.116534?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper describes the structural design and engineering of “Striatus”, a 3D-concrete-printed unreinforced masonry pedestrian bridge built in Venice in 2021 as part of the Time Space Existence exhibition organised by the European Cultural Centre. The project combines the latest developments in 3D concrete printing with the structural principles of historic unreinforced masonry. Typically, the structural applications of 3D concrete printing are limited to elements such as columns and walls loaded vertically, perpendicularly to the horizontal printing layers, to formwork elements or secondary structural elements. Indeed, fabrication constraints, delamination issues and the low tensile strength of the concrete have been seen as limiting factors to 3D concrete printing for structural applications demanding resistance to bending or predominant loading directions not perpendicular to the printing layers. By using unreinforced-masonry structural principles, this paper shows that structural elements spanning space horizontally, such as a pedestrian bridge, can be built by using the 3D concrete printing components as the main structure, working only in compression, loaded perpendicularly to the printed layers. Furthermore, as a compression-only structure following masonry principles, Striatus enabled the use of unreinforced concrete without any mechanical or chemical connections between the elements and the separation of concrete and steel, only used for the supports and to equilibrate the horizontal thrust of the arch effect through the tension ties. This work shows how the application of unreinforced masonry principles to 3D concrete printing offers new opportunities in terms of structural design and represents a strategy to increase sustainability by reducing material consumption and allowing reusability and recyclability of the structure. Finally, this paper discusses the critical aspects related to the design of Striatus from an engineering and construction point of view.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
@@ -95,8 +72,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "43 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/qu_yao"><b>Qu</b> Yao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_wang_li_qu.2025.IPi3PUHPCCBfSFP/">Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance</a></li>
@@ -140,8 +117,35 @@ tags:
       <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kurn_kim.2023.UIBfSTDPIA/">Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a>, <a href="../../../author/higgins_j"><b>Higgins</b> J.</a>, <a href="../../../author/aitken_w_m"><b>Aitken</b> M.</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sury_higg_aitk_tamb.2023.DiPCGBf3PA/">Developments in Portland Cement/GGBS Binders for 3D Printing Applications:<br/>Material-Calibration and Structural Testing</a></li>
       <li><a href="../../../author/lehr_r_leonard"><b>Lehr</b> Leonard</a>, <a href="../../../author/rasanani_mahdieh"><b>Rasanani</b> Mahdieh</a>, <a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b> Inken</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../lehr_rasa_rase.2023.3CPoWEwIMC/">3D Concrete Printing of Wall Elements with Integrated Multifunctional Cavities</a></li>
-      <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/li_yuqian"><b>Li</b> Yuqian</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_xu_li.2022.TIoFSo3CPBF/">The Impacts of Fabrication Systems on 3D Concrete Printing Building Forms</a></li>
-      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/sokolov_dmitrii"><b>Sokolov</b> Dmitrii</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ivan_ivan_soko_tosi.2022.ADMDoPSHCC/">Application-Driven Material-Design of Printable Strain-Hardening Cementitious Composites</a></li>
-      <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../liu_xion_chen_jia.2022.EoSCoFaHPo3PFC/">Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dell_bout_mele_bloc.2023.SDaEoSaU3CPMAB,
+      author            = "Alessandro Dell’Endice and Sam Bouten and Tom van Mele and Philippe Block",
+      title             = "Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge",
+      doi               = "10.1016/j.engstruct.2023.116534",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "292",
+      pages             = "116534",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Dell’Endice, S. Bouten, T. van Mele and P. Block, “Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge”, <i>Engineering Structures</i>, vol. 292, p. 116534, 2023, doi: 10.1016/j.engstruct.2023.116534.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dell’Endice, Alessandro, Sam Bouten, Tom van Mele, and Philippe Block. “Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge”. <i>Engineering Structures</i> 292 (2023): 116534. https://doi.org/10.1016/j.engstruct.2023.116534.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

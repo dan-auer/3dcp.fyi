@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lukas Gebhard, Laura Esposito, Costantino Menna, Jaime Mata-Falcón
+    - footer
+title: Gebhard Lukas, Esposito Laura, Menna Costantino, Mata-Falcón Jaime
 description:
 tags:
  - behavior
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2022.104660) Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104660" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104660</a>
+#Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements ([2022-07](date/2022/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2022.104660) <a href="https://doi.org/10.1016/j.cemconcomp.2022.104660" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104660" target="_blank">10.1016/j.cemconcomp.2022.104660</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gebhard_lukas"><b>Gebhard</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/esposito_laura"><b>Esposito</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a> <a href="https://orcid.org/0000-0003-0658-5161" title="ORCID: 0000-0003-0658-5161" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> <a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 133, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#influence`](keyword/influence)
-    [`#inter`](keyword/inter)
-    [`#labor`](keyword/labor)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#setting`](keyword/setting)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Laboratory%20Study%20on%20the%20Influence%20of%203D%20Concrete%20Printing%20Set-Ups%20on%20the%20Bond%20Behavior%20of%20Various%20Reinforcements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134561242&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4284884184" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104660" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104660?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the influence of different printing set-ups and materials on the bond strength of reinforcement manually placed between 3D printed concrete layers. An identical experimental campaign was performed at two institutes in Switzerland and Italy. Each institute used its own printing process, which consisted either of a set on-demand mix or a high yield stress material. Two types of reinforcement (reinforcing bar Ø8 mm and a high strength steel wire Ø1 mm) and three production configurations (casting and printing with the reinforcement parallel or perpendicular to the printing direction) were investigated. The results showed high bond strength with only a limited influence of the fabrication method for the reinforcing bars. An increased bond was observed for the set on-demand approach compared to the high yield strength material. The comparison with existing models showed that the reinforcing bar bond strength of printed concrete varies slightly from conventional concrete. The high strength wires exhibited poor bond. Based on the gathered experiences, insights into the standardisation of testing for 3D concrete printing are discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
@@ -94,8 +70,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
       <li><a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../syed_abid_khan.2025.AIMLAfPRBPi3CP/">An Interpretable Machine Learning Approach for Predicting Reinforcement Bond Performance in 3D Concrete Printing</a></li>
       <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/kujath_cezary"><b>Kujath</b> Cezary</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../robe_kuja_bos_mech.2025.DaIoaDSfQSaAED/">Design and Implementation of a Database System for Querying, Sharing, and Analyzing Experimental Data:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
@@ -127,6 +103,34 @@ tags:
       <li><a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a>, <a href="../../../author/kalus_matthias"><b>Kalus</b> Matthias</a>, <a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_kalu_enge_hegg.2023.DoaI3PPfRC/">Development of an Innovative 3D Printing Process for Reinforced Concrete:<br/>AMoRC Method</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lyu_dai_chen.2023.SSPCMbMEaAB3P/">Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing</a></li>
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../menn_espo.2022.FBoSRTOBFb3CP/">Flexural Behavior of Steel-Reinforced Topology-Optimised Beams Fabricated by 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gebh_espo_menn_mata.2022.ILSotIo3CPSUotBBoVR,
+      author            = "Lukas Gebhard and Laura Esposito and Costantino Menna and Jaime Mata-Falcón",
+      title             = "Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements",
+      doi               = "10.1016/j.cemconcomp.2022.104660",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Gebhard, L. Esposito, C. Menna and J. Mata-Falcón, “Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements”, <i>Cement and Concrete Composites</i>, vol. 133, 2022, doi: 10.1016/j.cemconcomp.2022.104660.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gebhard, Lukas, Laura Esposito, Costantino Menna, and Jaime Mata-Falcón. “Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements”. <i>Cement and Concrete Composites</i> 133 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104660.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

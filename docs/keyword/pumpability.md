@@ -8,7 +8,7 @@ search:
 
 # #pumpability
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/najar_mohamed"><b>Najar</b> Mohamed</a>, <a href="../../../author/deshpande_sachin"><b>Deshpande</b> Sachin</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../sakh_naja_desh.2024.PPo3PGTPEBP/">Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties:<br/>A Review</a></li>
   <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/cizer_ozlem"><b>Cizer</b> Özlem</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/desplentere_frederik"><b>Desplentere</b> Frederik</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../vlie_cize_lesa_desp.2025.RaPAoS3PMIRS/">Rheological- and Pumpability-Analysis of Sustainable 3D Printing Mortars Incorporating Recycled Sand</a></li>
   <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Craveiro Flávio 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/fahfouhi_karim"><b>Fahfouhi</b> Karim</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a>, <a href="../../../author/almeida_henrique"><b>Almeida</b> Henrique</a>, <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../fahf_varu_alme_crav.2025.RAsSFT3P/">Reshaping Africa’s Sustainable Future Through 3D Printing</a></li>
   <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../josh_poul_crav_bart.2023.EaaCMfS3P/">Earth as a Construction-Material for Sustainable 3D Printing:<br/>Rheological Aspect</a></li>
   <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../tarh_crav_bart.2023.AESfR3CPC/">An Effective Solution for Reinforcing 3D Concrete Printable Composites</a></li>

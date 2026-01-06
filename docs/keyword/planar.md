@@ -8,7 +8,8 @@ search:
 
 # #planar
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/yau_man_ho"><b>Yau</b> Ho</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_yau_lomb.2025.SINPSf3CP/">Stress-Informed Non-Planar Slicing for 3D Concrete Printing</a></li>
   <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/bayramvand_alireza"><b>Bayramvand</b> Alireza</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../lin_bayr_meib.2025.TLS/">Towards Lightweight Structure:<br/>Coupling Topology Optimization with Non-Planar 3D Concrete Printing</a></li>
   <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_meib.2024.ISP/">Integrated Sensing Printhead:<br/>In-line Data Collection for Non-Planar 3D Concrete Printing</a></li>

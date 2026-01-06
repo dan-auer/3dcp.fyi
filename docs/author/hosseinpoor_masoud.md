@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Hosseinpoor Masoud 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
   <li><a href="../../../author/aouichat_selma_belkis"><b>Aouichat</b> Belkis</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/dupuis_mario"><b>Dupuis</b> Mario</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../aoui_hoss_yahi_dupu.2024.HCNCtEtPoC3P/">How Can Nanocellulose Contribute to Enhance the Performance of Concrete 3D Printing?</a></li>
   <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moei_hoss_yahi.2022.3PoCBMwAB/">3D Printing of Cement-Based Materials with Adapted Buildability</a></li>

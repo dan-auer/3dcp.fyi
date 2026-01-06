@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hanbin Cheng, Aleksandra Radlińska, Michael Hilman, Feihong Liu, Jiarui Wang
+    - footer
+title: Cheng Hanbin, Radlińska Aleksandra, Hilman Michael, Liu Feihong, Wang Jiarui
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107526" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107526</a>
+#Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2024.107526" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107526" target="_blank">10.1016/j.cemconres.2024.107526</a>
 
--------------------------
+<a href="../../../author/cheng_hanbin"><b>Cheng</b>&nbsp;Hanbin</a></span>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b>&nbsp;Aleksandra</a></span>, <a href="../../../author/hilman_michael"><b>Hilman</b>&nbsp;Michael</a></span>, <a href="../../../author/liu_feihong"><b>Liu</b>&nbsp;Feihong</a></span>, <a href="../../../author/wang_jiarui"><b>Wang</b>&nbsp;Jiarui</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 181, No. 107526
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cheng_hanbin"><b>Cheng</b> Hanbin</a>
-,     <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>
-,     <a href="../../../author/hilman_michael"><b>Hilman</b> Michael</a>
-,     <a href="../../../author/liu_feihong"><b>Liu</b> Feihong</a>
-,     <a href="../../../author/wang_jiarui"><b>Wang</b> Jiarui</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 181, No. 107526
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#deposition`](keyword/deposition)
-    [`#method`](keyword/method)
-    [`#model`](keyword/model)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#reproducibility`](keyword/reproducibility)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reproducibility"><button class="btn">#reproducibility</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%20Concrete-Deposition%20via%203D%20Printing%20Using%20Reproducing%20Kernel-Particle-Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191995362&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396634151" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107526" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107526?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The quality and geometry conformity of 3D concrete printing are the two major concerns facing autonomous construction. To investigate the geometry of printed concrete and optimize the printing strategy, the reproducing kernel particle method (RKPM) was developed and implemented for the first time to describe the flow of fresh concrete and simulate the process of 3D printing. The proposed novel numerical simulation method is associated with a Bingham constitutive model, which was determined by a rotational rheometer. Physical slump tests were performed at various resting times to investigate the time-dependent behavior of concrete. An experimental parametric study of the geometry of a single-layer printed concrete was also conducted at various printing speeds and nozzle heights. Multi-layer printing cases were performed to investigate the cross-sectional deformation over the printed layers. The simulated values of slump over time compared well with the experimental measurements. As such, the proposed RKPM ability to capture time-dependent concrete behavior has been validated. The simulations based on the initially verified RKPM method can yield precise geometry predictions of a single- and multi-layer printed concrete, proving a wide range of application scenarios of the novel RKPM modeling approach.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC/">Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete</a></li>
@@ -88,8 +66,8 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../yu_zhan_liew_yin.2026.SMFaEDi3CP/">Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/meni_simone"><b>Meni</b> Simone</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rizz_meni_crem_ferr.2025.APFEMfItIoMaPPi3CP/">A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing</a></li>
@@ -102,4 +80,34 @@ tags:
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
       <li><a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a>, <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>, <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huse_tan_sale_lim.2024.TPaMPoTDPCEDMP/">Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>A Review and Bibliometric Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_radl_hilm_liu.2024.MCDv3PURKPM,
+      author            = "Hanbin Cheng and Aleksandra Radlińska and Michael Hilman and Feihong Liu and Jiarui Wang",
+      title             = "Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method",
+      doi               = "10.1016/j.cemconres.2024.107526",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "181",
+      pages             = "107526",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Cheng, A. Radlińska, M. Hilman, F. Liu and J. Wang, “Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method”, <i>Cement and Concrete Research</i>, vol. 181, p. 107526, 2024, doi: 10.1016/j.cemconres.2024.107526.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cheng, Hanbin, Aleksandra Radlińska, Michael Hilman, Feihong Liu, and Jiarui Wang. “Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method”. <i>Cement and Concrete Research</i> 181 (2024): 107526. https://doi.org/10.1016/j.cemconres.2024.107526.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

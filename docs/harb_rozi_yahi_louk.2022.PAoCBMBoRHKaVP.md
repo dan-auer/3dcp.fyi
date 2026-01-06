@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ilhame Harbouz, Emmanuel Rozière, Ammar Yahia, Ahmed Loukili
+    - footer
+title: Harbouz Ilhame, Rozière Emmanuel, Yahia Ammar, Loukili Ahmed
 description:
 tags:
  - assessment
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.126810" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.126810</a>
+#Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties ([2022-02](date/2022/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.conbuildmat.2022.126810" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.126810" target="_blank">10.1016/j.conbuildmat.2022.126810</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0493-3089" title="ORCID: 0000-0003-0493-3089" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/harbouz_ilhame"><b>Harbouz</b>&nbsp;Ilhame</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5829-816X" title="ORCID: 0000-0001-5829-816X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roziere_emmanuel"><b>Rozière</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span>, <a href="../../../author/loukili_ahmed"><b>Loukili</b>&nbsp;Ahmed</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 325
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a> <a href="https://orcid.org/0000-0003-0493-3089" title="ORCID: 0000-0003-0493-3089" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-5829-816X" title="ORCID: 0000-0001-5829-816X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>
-,     <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 325, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#hydration`](keyword/hydration)
-    [`#kinetic`](keyword/kinetic)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/kinetic"><button class="btn">#kinetic</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability-Assessment%20of%20Cement-Based%20Materials%20Based%20on%20Rheology%2C%20Hydration%20Kinetics%2C%20and%20Viscoelastic%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124481776&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4212853430" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.126810" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.126810?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Designing printable cement-based materials aims to achieve targeted properties to fulfill the specific performance criteria. At fresh state, the material should satisfy particular rheological requirements to achieve a tradeoff between its workability (W), extrudability (E), and buildability (B). Given the printability criteria to be fulfilled, the selection of suitable mixture design is of the utmost importance to ensure successful 3D printing process and good structural performance, which is linked to the material’s strength and stiffness properties (E, G) of the print elements. In this study, the printability of different mixtures was evaluated. The properties of the investigated mixtures were varied by mean of paste content and superplasticizer dosages (SP), viscosity-modifying admixture (VMA), and supplementary cementitious materials (SCMs). The isothermal calorimetry, static yield stress evolution, strain sweep, restructuration indices, and ultrasonic wave responses of the investigated mixtures were assessed and used to evaluate their printability. Comparison between selected material properties and printing data allowed establishing useful recommendations to select the mixture with targeted properties for successful printing and adequate structural performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -90,8 +66,8 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../harb_yahi_rozi_louk.2025.ST/">Squeeze Test:<br/>A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.</a></li>
@@ -107,4 +83,33 @@ tags:
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../harb_yahi_rozi_louk.2023.PQCoCBMUFaRC/">Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/gouvea_lucas"><b>Gouvêa</b> Lucas</a>, <a href="../../../author/cassia-magalhaes-martins_karenn"><b>Cássia Magalhães Martins</b> Karenn</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../tino_gouv_cass_tole.2023.TUoRHPtAtRPo3PCCTWS/">The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{harb_rozi_yahi_louk.2022.PAoCBMBoRHKaVP,
+      author            = "Ilhame Harbouz and Emmanuel Rozière and Ammar Yahia and Ahmed Loukili",
+      title             = "Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties",
+      doi               = "10.1016/j.conbuildmat.2022.126810",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "325",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Harbouz, E. Rozière, A. Yahia and A. Loukili, “Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties”, <i>Construction and Building Materials</i>, vol. 325, 2022, doi: 10.1016/j.conbuildmat.2022.126810.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Harbouz, Ilhame, Emmanuel Rozière, Ammar Yahia, and Ahmed Loukili. “Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties”. <i>Construction and Building Materials</i> 325 (2022). https://doi.org/10.1016/j.conbuildmat.2022.126810.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

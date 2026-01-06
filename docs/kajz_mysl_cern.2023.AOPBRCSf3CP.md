@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Kajzr, Tomáš Myslivec, Josef Černohorský
+    - footer
+title: Kajzr Daniel, Myslivec Tomáš, Černohorský Josef
 description:
 tags:
  - base
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2218-6581/12/4/96/pdf?version=1688390059) An Open PLC-Based Robot-Control-System for 3D Concrete Printing ([2023-07](date/2023/07))
-<a href="https://doi.org/10.3390/robotics12040096" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/robotics12040096</a>
+#An Open PLC-Based Robot-Control-System for 3D Concrete Printing ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2218-6581/12/4/96/pdf?version=1688390059) <a href="https://doi.org/10.3390/robotics12040096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/robotics12040096" target="_blank">10.3390/robotics12040096</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7620-4494" title="ORCID: 0000-0002-7620-4494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kajzr_daniel"><b>Kajzr</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-3625-3653" title="ORCID: 0009-0005-3625-3653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/myslivec_tomas"><b>Myslivec</b>&nbsp;Tomáš</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-4172" title="ORCID: 0000-0003-2355-4172" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cernohorsky_josef"><b>Černohorský</b>&nbsp;Josef</a></span><br>
+Journal Article - Robotics, Vol. 12, Iss. 4, No. 96
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kajzr_daniel"><b>Kajzr</b> Daniel</a> <a href="https://orcid.org/0000-0002-7620-4494" title="ORCID: 0000-0002-7620-4494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a> <a href="https://orcid.org/0009-0005-3625-3653" title="ORCID: 0009-0005-3625-3653" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cernohorsky_josef"><b>Černohorský</b> Josef</a> <a href="https://orcid.org/0000-0003-2355-4172" title="ORCID: 0000-0003-2355-4172" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Robotics, Vol. 12, Iss. 4, No. 96
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#open`](keyword/open)
-    [`#plc`](keyword/plc)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/open"><button class="btn">#open</button></a> <a href="../../keyword/plc"><button class="btn">#plc</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Open%20PLC-Based%20Robot-Control-System%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169431294&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382936421" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/robotics12040096" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/robotics12040096?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing technology is currently a very topical and developing subject. There is a large number of applications worldwide where this technology can be used. In connection with this technology, the development of custom industrial robotic systems and their control is essential. Conventional closed-loop control system platforms do not provide sufficiently flexible solutions. This paper presents a control system for a unique printing robot that, thanks to its openness and unified platform, will enable simple and fast analysis and testing of key aspects in terms of control and guidance of the printing robot for additive manufacturing applications in the construction industry. The aim of this paper is to introduce the concept of an open PLC-based control system and to demonstrate its usefulness in the task of designing and implementing model-based control. All steps, from the analysis of the printing robot itself and identification of inertial parameters to the actual design and implementation of the control, can be executed in a unified Matlab/Simulink environment using various add-ons and toolboxes thanks to the open control system platform. This solution brings significant savings in terms of programming and prototyping time. The open control system was used to control an experimental model of a printing robot, serving as a test bed for the final version of the printing robot, and the results obtained were evaluated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/brousek_josef"><b>Břoušek</b> Josef</a>, <a href="../../../author/petr_tomas"><b>Petr</b> Tomas</a>, <a href="../../../author/beran_leos"><b>Beran</b> Leoš</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../brou_petr_bera_mysl.2022.RADDaCfPCM/">Robotic Arm-Design, Development and Control for Printing Cement-Mixtures</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
@@ -84,10 +63,41 @@ tags:
       <li><a href="../../../author/vojir_martin"><b>Vojir</b> Martin</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a>, <a href="../../../author/petr_tomas"><b>Petr</b> Tomas</a>, <a href="../../../author/brousek_josef"><b>Břoušek</b> Josef</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../voji_mysl_petr_brou.2021.ANWtDSfIA/">A New Way to Design Software for Industrial Automation:<br/>3D Printer Cement Mixtures</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/pancho_paolo"><b>Pancho</b> Paolo</a>, <a href="../../../author/sanchez_daniela"><b>Sanchez</b> Daniela</a>, <a href="../../../author/poudel_suman"><b>Poudel</b> Suman</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../rami_panc_sanc_poud.2025.DaDoaLRCfC3P/">Design and Development of a Lean Robotic Cell for Concrete 3D Printing</a></li>
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/kajzr_daniel"><b>Kajzr</b> Daniel</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a>, <a href="../../../author/cernohorsky_josef"><b>Černohorský</b> Josef</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../kajz_mysl_cern.2024.MAaCoRECfTDCPT/">Modelling, Analysis and Comparison of Robot Energy Consumption for Three-Dimensional Concrete Printing Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kajz_mysl_cern.2023.AOPBRCSf3CP,
+      author            = "Daniel Kajzr and Tomáš Myslivec and Josef Černohorský",
+      title             = "An Open PLC-Based Robot-Control-System for 3D Concrete Printing",
+      doi               = "10.3390/robotics12040096",
+      year              = "2023",
+      journal           = "Robotics",
+      volume            = "12",
+      number            = "4",
+      pages             = "96",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Kajzr, T. Myslivec and J. Černohorský, “An Open PLC-Based Robot-Control-System for 3D Concrete Printing”, <i>Robotics</i>, vol. 12, no. 4, p. 96, 2023, doi: 10.3390/robotics12040096.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kajzr, Daniel, Tomáš Myslivec, and Josef Černohorský. “An Open PLC-Based Robot-Control-System for 3D Concrete Printing”. <i>Robotics</i> 12, no. 4 (2023): 96. https://doi.org/10.3390/robotics12040096.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

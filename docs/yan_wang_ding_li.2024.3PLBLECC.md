@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kang-Tai Yan, Xian-Peng Wang, Yao Ding, Lingzhi Li, Dilshod Bazarov, Boyu Deng, Kovshar Nikolayevich, Kequan Yu
+    - footer
+title: Yan Kang-Tai, Wang Xian-Peng, Ding Yao, Li Lingzhi, Bazarov Dilshod, Deng Boyu, Nikolayevich Kovshar, Yu Kequan
 description:
 tags:
  - base
@@ -22,42 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed LC3-Based Lightweight Engineered Cementitious Composites:<br/>:aca-blank: Fresh State, Hardened Material-Properties and Beam-Performance ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.jobe.2024.109838" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109838</a>
+#3D Printed LC3-Based Lightweight Engineered Cementitious Composites&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">Fresh State, Hardened Material-Properties and Beam-Performance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109838" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109838" target="_blank">10.1016/j.jobe.2024.109838</a>
 
--------------------------
+<a href="../../../author/yan_kang-tai"><b>Yan</b>&nbsp;Kang-Tai</a></span>, <a href="../../../author/wang_xian-peng"><b>Wang</b>&nbsp;Xian-Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_yao"><b>Ding</b>&nbsp;Yao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_lingzhi"><b>Li</b>&nbsp;Lingzhi</a></span>, <a href="../../../author/bazarov_dilshod"><b>Bazarov</b>&nbsp;Dilshod</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_boyu"><b>Deng</b>&nbsp;Boyu</a></span>, <a href="../../../author/nikolayevich_kovshar"><b>Nikolayevich</b>&nbsp;Kovshar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109838
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yan_kang-tai"><b>Yan</b> Kang-Tai</a>
-,     <a href="../../../author/wang_xian-peng"><b>Wang</b> Xian-Peng</a>
-,     <a href="../../../author/ding_yao"><b>Ding</b> Yao</a> <a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> <a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bazarov_dilshod"><b>Bazarov</b> Dilshod</a>
-,     <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a> <a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nikolayevich_kovshar"><b>Nikolayevich</b> Kovshar</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109838
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#beam`](keyword/beam)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#lc3`](keyword/lc3)
-    [`#light`](keyword/light)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20LC3-Based%20Lightweight%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195426651&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399382197" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109838" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109838?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) technology has undergone rapid development and is poised to emerge as a crucial component of intelligent construction due to its expeditious construction process and efficient material utilization. Integrating 3DCP with engineered cementitious composites (ECC) enables self-reinforced construction without placing steel bars. However, the environmental impacts associated with ordinary Portland cement-based printable ECC impose challenges to sustainable development. This study investigates a sustainable ECC for 3DCP applications with the integration of limestone calcined clay cement (LC3) and lightweight fine aggregate. A systematic study of the innovative 3D-printable LC3-based lightweight engineered cementitious composites (LL-ECC) from fresh state to hardened state, accompanied from material level to component level was conducted. The printable mixture was designed through the optimization of the fresh properties of LL-ECC with different fiber contents. The mechanical properties of hardened LL-ECC demonstrated competitive or even superior mechanical performances compared to mold-cast counterparts, including compressive properties, fracture toughness, and shear strength. Moreover, the printed LL-ECC beams exhibited excellent flexural strength and ductility with increase of approximately 40% and 100% than mold-cast beams, respectively. LL-ECC further exhibited significant reductions in material cost, embodied energy and carbon footprint, and higher specific strength compared to those of traditional OPC-ECC. Therefore, LL-ECC is a high-performance and promising composite with balanced printability, mechanical properties, and sustainability in 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_ye_jian_fedi.2024.PRf3PECC/">Printability Region for 3D Printable Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
@@ -112,8 +81,8 @@ tags:
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -125,4 +94,33 @@ tags:
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/zhou_boyang"><b>Zhou</b> Boyang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC/">A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yan_wang_ding_li.2024.3PLBLECC,
+      author            = "Kang-Tai Yan and Xian-Peng Wang and Yao Ding and Lingzhi Li and Dilshod Bazarov and Boyu Deng and Kovshar Nikolayevich and Kequan Yu",
+      title             = "3D Printed LC3-Based Lightweight Engineered Cementitious Composites: Fresh State, Hardened Material-Properties and Beam-Performance",
+      doi               = "10.1016/j.jobe.2024.109838",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109838",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-T. Yan, “3D Printed LC3-Based Lightweight Engineered Cementitious Composites: Fresh State, Hardened Material-Properties and Beam-Performance”, <i>Journal of Building Engineering</i>, p. 109838, 2024, doi: 10.1016/j.jobe.2024.109838.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yan, Kang-Tai, Xian-Peng Wang, Yao Ding, Lingzhi Li, Dilshod Bazarov, Boyu Deng, Kovshar Nikolayevich, and Kequan Yu. “3D Printed LC3-Based Lightweight Engineered Cementitious Composites: Fresh State, Hardened Material-Properties and Beam-Performance”. <i>Journal of Building Engineering</i>, 2024, 109838. https://doi.org/10.1016/j.jobe.2024.109838.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

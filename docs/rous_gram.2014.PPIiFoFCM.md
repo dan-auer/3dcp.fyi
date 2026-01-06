@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nicolas Roussel, Annika Gram
+    - footer
+title: Roussel Nicolas, Gram Annika
 description:
 tags:
  - cement
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Physical Phenomena Involved in Flows of Fresh Cementitious Materials ([2014-03](date/2014/03))
-<a href="https://doi.org/10.1007/978-94-017-8884-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-94-017-8884-7_1</a>
+#Physical Phenomena Involved in Flows of Fresh Cementitious Materials ([2014-03](date/2014/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-94-017-8884-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-94-017-8884-7_1" target="_blank">10.1007/978-94-017-8884-7_1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <a href="../../../author/gram_annika"><b>Gram</b>&nbsp;Annika</a></span><br>
+Contribution - Simulation of Fresh Concrete Flow, pp. 1-24
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gram_annika"><b>Gram</b> Annika</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Simulation of Fresh Concrete Flow, pp. 1-24
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#flow`](keyword/flow)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#physics`](keyword/physics)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Physical%20Phenomena%20Involved%20in%20Flows%20of%20Fresh%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84980018588&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,21 +35,48 @@ tags:
 <a href="https://inciteful.xyz/p/W83798979" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-94-017-8884-7_1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-94-017-8884-7_1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The vast family of industrial cementitious materials presents such a variety of behaviors in the fresh state that describing them as a whole seems unattainable (cf. Fig 1.1). This is even more so for our objective here: studying the possibility to predict their response in practical processing conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../crav_bart_duar_bart.2020.AMMENfFGCP/">A Multi-Material Extrusion-Nozzle for Functionally-Graded Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{rous_gram.2014.PPIiFoFCM,
+      author            = "Nicolas Roussel and Annika Gram",
+      title             = "Physical Phenomena Involved in Flows of Fresh Cementitious Materials",
+      doi               = "10.1007/978-94-017-8884-7_1",
+      year              = "2014",
+      volume            = "15",
+      pages             = "1--24",
+      booktitle         = "Simulation of Fresh Concrete Flow",
+      editor            = "Nicolas Roussel and Annika Gram",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Roussel  and A. Gram, “Physical Phenomena Involved in Flows of Fresh Cementitious Materials”, in <i>Simulation of Fresh Concrete Flow</i>,  2014, vol. 15, pp. 1–24. doi: 10.1007/978-94-017-8884-7_1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Roussel, Nicolas, and Annika Gram. “Physical Phenomena Involved in Flows of Fresh Cementitious Materials”. In <i>Simulation of Fresh Concrete Flow</i>, edited by Nicolas Roussel and Annika Gram, 15:1–24, 2014. https://doi.org/10.1007/978-94-017-8884-7_1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

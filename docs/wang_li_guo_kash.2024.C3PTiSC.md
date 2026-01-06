@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaonan Wang, Wengui Li, Yipu Guo, Alireza Kashani, Kejin Wang, Liberato Ferrara, Isabel Agudelo
+    - footer
+title: Wang Xiaonan, Li Wengui, Guo Yipu, Kashani Alireza, Wang Kejin, Ferrara Liberato, Agudelo Isabel
 description:
 tags:
  - concrete
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100378) Concrete 3D Printing Technology in Sustainable Construction:<br/>:aca-blank: A Review on Raw Materials, Concrete Types and Performances ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.dibe.2024.100378" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100378</a>
+#Concrete 3D Printing Technology in Sustainable Construction&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">A Review on Raw Materials, Concrete Types and Performances</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100378) <a href="https://doi.org/10.1016/j.dibe.2024.100378" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100378" target="_blank">10.1016/j.dibe.2024.100378</a>
 
--------------------------
+<a href="../../../author/wang_xiaonan"><b>Wang</b>&nbsp;Xiaonan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_wengui"><b>Li</b>&nbsp;Wengui</a></span>, <a href="../../../author/guo_yipu"><b>Guo</b>&nbsp;Yipu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kejin"><b>Wang</b>&nbsp;Kejin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span>, <a href="../../../author/agudelo_isabel"><b>Agudelo</b>&nbsp;Isabel</a></span><br>
+Journal Article - Developments in the Built Environment, Vol. 17, No. 100378
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>
-,     <a href="../../../author/li_wengui"><b>Li</b> Wengui</a> <a href="https://orcid.org/0000-0002-4651-1215" title="ORCID: 0000-0002-4651-1215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>
-,     <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> <a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/agudelo_isabel"><b>Agudelo</b> Isabel</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, Vol. 17, No. 100378
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#raw`](keyword/raw)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%203D%20Printing%20Technology%20in%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186504440&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392106453" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100378" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100378?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper reviews recent developments and proposes perspectives for future research on three-dimensional printing concrete (3DPC). This review originally analyses the 3DP applications combined with concrete types that are classified into three groups: functional concrete, sustainable concrete, and special concrete. The 3DP technique shows different effects on concrete types due to various modification methods (e.g., nano-additive, fibre addition, and chemical reagent) and challenging requirements (e.g., anisotropy exploit and defect). Summarily, the oriented fibre of 3DPC is a double-edged sword, asking for optimal structural design for engineered cementitious composite (ECC), ultra-high-performance concrete (UHPC), and most fibre-improved concrete. The 3DP technique is not propitious to all concrete types, such as foam concrete, because the additional pressure in the printing process poses a huge disadvantage to foam stability. This paper also proposes the 3DPC protentional from the view of concrete features, which represents a contribution to advanced concrete technology and 3DPC development direction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "175 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -250,10 +224,11 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/dong_chenghao"><b>Dong</b> Chenghao</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../zuo_dong_keit_rous.2020.PSoLiPBf3PBP/">Penetration Study of Liquid in Powder-Bed for 3D Powder-Bed Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_maia.2026.E3CPCwBT/">Expanding 3D Concrete Printing Customization with Biomimetic Textures</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
+      <li><a href="../../../author/sifan_mohamed"><b>Sifan</b> Mohamed</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b> Sunday</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sifa_upas_pool_popo.2025.FPaDoLWPw3PCaSLCS/">Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khou_chei_schu_caza.2025.UVMf3PoMMwRS/">Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand</a></li>
@@ -272,4 +247,34 @@ tags:
       <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>, <a href="../../../author/huo_liang"><b>Huo</b> Liang</a>, <a href="../../../author/li_guoyou"><b>Li</b> Guoyou</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lin_huo_li_wang.2024.OSDo3CPftBaTSBiC/">On-Site Deployment of 3D Construction Printing for the Building a Two-Story Building in China</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_zhan_jia_cao.2024.QCoBSoFCTEP/">Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process:<br/>From Yield-Stress , Viscosity and Surface Tension Point of View</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_li_guo_kash.2024.C3PTiSC,
+      author            = "Xiaonan Wang and Wengui Li and Yipu Guo and Alireza Kashani and Kejin Wang and Liberato Ferrara and Isabel Agudelo",
+      title             = "Concrete 3D Printing Technology in Sustainable Construction: A Review on Raw Materials, Concrete Types and Performances",
+      doi               = "10.1016/j.dibe.2024.100378",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      volume            = "17",
+      pages             = "100378",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Wang, “Concrete 3D Printing Technology in Sustainable Construction: A Review on Raw Materials, Concrete Types and Performances”, <i>Developments in the Built Environment</i>, vol. 17, p. 100378, 2024, doi: 10.1016/j.dibe.2024.100378.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Xiaonan, Wengui Li, Yipu Guo, Alireza Kashani, Kejin Wang, Liberato Ferrara, and Isabel Agudelo. “Concrete 3D Printing Technology in Sustainable Construction: A Review on Raw Materials, Concrete Types and Performances”. <i>Developments in the Built Environment</i> 17 (2024): 100378. https://doi.org/10.1016/j.dibe.2024.100378.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

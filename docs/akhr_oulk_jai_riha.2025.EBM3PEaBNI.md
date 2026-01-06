@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Iatimad Akhrif, Fatima Oulkhir, Mostapha Jai, Nadir Rihani, Nnamdi Igwe, Salah Baalal
+    - footer
+title: Akhrif Iatimad, Oulkhir Fatima, Jai Mostapha, Rihani Nadir, Igwe Nnamdi, Baalal Salah
 description:
 tags:
  - base
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1007/s40964-025-01014-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-025-01014-7</a>
+#Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-025-01014-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01014-7" target="_blank">10.1007/s40964-025-01014-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akhrif_iatimad"><b>Akhrif</b>&nbsp;Iatimad</a></span>, <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jai_mostapha"><b>el&nbsp;Jai</b>&nbsp;Mostapha</a></span>, <a href="../../../author/rihani_nadir"><b>Rihani</b>&nbsp;Nadir</a></span>, <a href="../../../author/igwe_chukwunenye_nnamdi"><b>Igwe</b>&nbsp;Nnamdi</a></span>, <a href="../../../author/baalal_eddine_salah"><b>Baalal</b>&nbsp;Salah</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> <a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>
-,     <a href="../../../author/jai_mostapha"><b>el Jai</b> Mostapha</a> <a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a>
-,     <a href="../../../author/igwe_chukwunenye_nnamdi"><b>Igwe</b> Nnamdi</a>
-,     <a href="../../../author/baalal_eddine_salah"><b>Baalal</b> Salah</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#earth`](keyword/earth)
-    [`#extrusion`](keyword/extrusion)
-    [`#investigation`](keyword/investigation)
-    [`#material`](keyword/material)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Earth-Based%20Materials%203D%20Printing%2C%20Extrudability%20and%20Buildability%20Numerical%20Investigations" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000219195&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408081830" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-025-01014-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-025-01014-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work seeks succeeding the printability of a natural raw bio-sourced marl of the region of Fez-Morocco. This material has been used since the ancient ages in pottery, dried materials fabrication, and sustainable construction. Actually, since this material is now subject to valorization for an eventual integration within numerical fabrication such as additive manufacturing, the present work is literally dedicated to evince the success of the integration of this abundant local material in the global 3D concrete/clay printing. As a preliminary matter, the raw material was characterized using XRD and FTIR analysis, and specific area measurement. Subsequently, the printability experimentation was conducted including one-way scans (1D) to obtain the best water-to-clay (W/C) ratio and scan speed to be adopted in the buildability assessment. Cylindrical samples were printed; shrinkage, cylindricity and geometrical features were estimated according to a novel image and data processing procedures designed by the authors. Results showed that the material is well-extrudable and printable at a water content around the Atterberg plasticity-liquidity limits front-line; a scan speed of 500 mm/min showed the best extrudability; cylindricity and least square estimated axis are found to be acceptable, where the lack of plumb and shrinkage should be enhanced. In sum, this work allowed selecting the best W/C ratio with the related rheological characteristics based on novel numerical procedures for both extrudability and buildability criteria; the optimal scan speed was determined as well. Future researches will focus on chemical and geometrical stabilizations of Fez-clay printing for both laboratory and upscale prospects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "50 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
@@ -120,9 +96,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../zare_khos.2018.EoMIoEoCiCC/">Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../oulk_akhr_jai_riha.2025.CaABM3P/">Clay and Alginate-Based Mixtures 3D Printing:<br/>A Numerical Procedure for Shape Stability and Buildability Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{akhr_oulk_jai_riha.2025.EBM3PEaBNI,
+      author            = "Iatimad Akhrif and Fatima Zahra Oulkhir and Mostapha El Jai and Nadir Rihani and Nnamdi Chukwunenye Igwe and Salah Eddine Baalal",
+      title             = "Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations",
+      doi               = "10.1007/s40964-025-01014-7",
+      year              = "2025",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Akhrif, F. Z. Oulkhir, M. E. Jai, N. Rihani, N. C. Igwe and S. E. Baalal, “Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations”, <i>Progress in Additive Manufacturing</i>, 2025, doi: 10.1007/s40964-025-01014-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Akhrif, Iatimad, Fatima Zahra Oulkhir, Mostapha El Jai, Nadir Rihani, Nnamdi Chukwunenye Igwe, and Salah Eddine Baalal. “Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations”. <i>Progress in Additive Manufacturing</i>, 2025. https://doi.org/10.1007/s40964-025-01014-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

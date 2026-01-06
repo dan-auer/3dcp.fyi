@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peng Jin, Masoud Hasany, Mohammad Kohestanian, Mehdi Mehrali
+    - footer
+title: Jin Peng, Hasany Masoud, Kohestanian Mohammad, Mehrali Mehdi
 description:
 tags:
  - additive
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2024.105799) Micro/Nano Additives in 3D Printing Concrete:<br/>:aca-blank: Opportunities, Challenges, and Potential Outlook in Construction Applications ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105799" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105799</a>
+#Micro/Nano Additives in 3D Printing Concrete&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Opportunities, Challenges, and Potential Outlook in Construction Applications</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105799) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105799" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105799" target="_blank">10.1016/j.cemconcomp.2024.105799</a>
 
--------------------------
+<a href="../../../author/jin_peng"><b>Jin</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1407-257X" title="ORCID: 0000-0002-1407-257X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasany_masoud"><b>Hasany</b>&nbsp;Masoud</a></span>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mehrali_mehdi"><b>Mehrali</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105799
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jin_peng"><b>Jin</b> Peng</a>
-,     <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a> <a href="https://orcid.org/0000-0002-1407-257X" title="ORCID: 0000-0002-1407-257X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b> Mohammad</a>
-,     <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105799
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#micro`](keyword/micro)
-    [`#opportunity`](keyword/opportunity)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Micro/Nano%20Additives%20in%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207601938&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403409764" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105799" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105799?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing has attracted burgeoning interest in the construction industry for its ability to offer cost-effectiveness, architectural design flexibility, efficient use of energy and materials, as well as significant time savings in the construction process. However, conventional cement-geopolymer-based materials cannot be used directly for printing due to their lack of printability. This review explores the utilization of inorganic micro/nanomaterials to modify the rheological and mechanical performance of fresh-state and post-hardening cementitious composites, respectively, offering an in-depth analysis of the mechanisms underpinning their effects. This paper discusses a wide range of inorganic micro/nanomaterials, including carbon-based nanomaterials, silicon-based nanomaterials, metallic oxide nanomaterials, nano-calcium carbonate particles, and other micro/nano-materials. Those materials have been utilized in 3D printing concrete or show considerable potential for future applications in this field. Furthermore, this work provides insights into the multiple applications that arise from the synergistic combination of 3D printing construction techniques with the distinctive properties of different nanomaterials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "77 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -147,12 +125,41 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/rajendran_naveenkumar"><b>Rajendran</b> Naveenkumar</a>, <a href="../../../author/runge_troy"><b>Runge</b> Troy</a>, <a href="../../../author/bergman_richard"><b>Bergman</b> Richard</a>, <a href="../../../author/nepal_prakash"><b>Nepal</b> Prakash</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../raje_rung_berg_nepa.2025.EaEIAoCNRCMi3P/">Economic and Environmental Impact Analysis of Cellulose Nanocrystal-Reinforced Cementitious Mixture in 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jin_hasa_kohe_mehr.2024.MNAi3PC,
+      author            = "Peng Jin and Masoud Hasany and Mohammad Kohestanian and Mehdi Mehrali",
+      title             = "Micro/Nano Additives in 3D Printing Concrete: Opportunities, Challenges, and Potential Outlook in Construction Applications",
+      doi               = "10.1016/j.cemconcomp.2024.105799",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105799",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Jin, M. Hasany, M. Kohestanian and M. Mehrali, “Micro/Nano Additives in 3D Printing Concrete: Opportunities, Challenges, and Potential Outlook in Construction Applications”, <i>Cement and Concrete Composites</i>, p. 105799, 2024, doi: 10.1016/j.cemconcomp.2024.105799.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jin, Peng, Masoud Hasany, Mohammad Kohestanian, and Mehdi Mehrali. “Micro/Nano Additives in 3D Printing Concrete: Opportunities, Challenges, and Potential Outlook in Construction Applications”. <i>Cement and Concrete Composites</i>, 2024, 105799. https://doi.org/10.1016/j.cemconcomp.2024.105799.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

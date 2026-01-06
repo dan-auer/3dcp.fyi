@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shaker Qaidi, Ammar Yahia, B. Tayeh, H. Unis, R. Faraj, A. Mohammed
+    - footer
+title: Qaidi Shaker, Yahia Ammar, Tayeh B., Unis H., Faraj R., Mohammed A.
 description:
 tags:
  - composite
@@ -12,30 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Geopolymer Composites:<br/>:aca-blank: A Review ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.mtsust.2022.100240" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.mtsust.2022.100240</a>
+#3D Printed Geopolymer Composites&nbsp;([2022-10](date/2022/10))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mtsust.2022.100240" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtsust.2022.100240" target="_blank">10.1016/j.mtsust.2022.100240</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8289-4877" title="ORCID: 0000-0001-8289-4877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qaidi_shaker"><b>Qaidi</b>&nbsp;Shaker</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b>&nbsp;B.</a></span>, <a href="../../../author/unis_h"><b>Unis</b>&nbsp;H.</a></span>, <a href="../../../author/faraj_r"><b>Faraj</b>&nbsp;R.</a></span>, <a href="../../../author/mohammed_a"><b>Mohammed</b>&nbsp;A.</a></span><br>
+Journal Article - Materials Today Sustainability, Vol. 20
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a> <a href="https://orcid.org/0000-0001-8289-4877" title="ORCID: 0000-0001-8289-4877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>
-,     <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>
-,     <a href="../../../author/unis_h"><b>Unis</b> H.</a>
-,     <a href="../../../author/faraj_r"><b>Faraj</b> R.</a>
-,     <a href="../../../author/mohammed_a"><b>Mohammed</b> A.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today Sustainability, Vol. 20, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Geopolymer%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141270154&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4304091864" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.mtsust.2022.100240" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.mtsust.2022.100240?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of three-dimensional printed (3DP) technology is expected to lead to the industrial revolution 4.0, disrupting the economy and providing design customization and adaptation. The construction sector is rapidly catching up to this modern technology with the production of a 3D printer for concrete to provide a healthy work environment, economic independence, and architectural freedom. Despite the fact that 3DP concrete technology has progressed significantly in recent decades, there is an urgent need to develop appropriate 3DP materials that improve performance while reducing material consumption, which is critical for reducing carbon dioxide emissions. Geopolymers (GPs) have been found to be a promising alternative to cement-based materials for 3DP in the construction industry, which could help make it more environmentally friendly. This article comprehensively reviews the printing process, performance requirements, advantages, disadvantages, and common 3DP concrete technologies. This article also provides in-depth studies on the behaviors and characteristics of GP composites utilized in 3DP production, such as mix design, rheology, and mechanical characteristics. Besides, study developments are moving towards a comprehensive understanding of the environmental footprints and economic benefits of 3DP concrete for building applications utilizing GPs as suitable concrete materials for the emerging environmentally friendly robust concrete compound for digital constructions today. This review article also highlights knowledge gaps or potential challenges that must be overcome to progress GP composites for 3DP, as well as future study opportunities based on prior research and existing challenges.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "160 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
@@ -222,8 +203,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/mostazid_ibrahim_md"><b>Mostazid</b> Md</a>, <a href="../../../author/faysal_abdul-motaleb_md"><b>Faysal</b> Md</a>, <a href="../../../author/shi_xinjun"><b>Shi</b> Xinjun</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../uddi_most_fays_shi.2025.DaNSPMf3PGC/">Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete:<br/>An Interpretable Data-Driven Approach</a></li>
       <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
@@ -258,4 +239,33 @@ tags:
       <li><a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a>, <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>, <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fan_zhu_fan_lu.2023.IDaMoUHPC/">Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qaid_yahi_taye_unis.2022.3PGC,
+      author            = "Shaker Qaidi and Ammar Yahia and B. A. Tayeh and H. Unis and R. Faraj and A. Mohammed",
+      title             = "3D Printed Geopolymer Composites: A Review",
+      doi               = "10.1016/j.mtsust.2022.100240",
+      year              = "2022",
+      journal           = "Materials Today Sustainability",
+      volume            = "20",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Qaidi, A. Yahia, B. A. Tayeh, H. Unis, R. Faraj and A. Mohammed, “3D Printed Geopolymer Composites: A Review”, <i>Materials Today Sustainability</i>, vol. 20, 2022, doi: 10.1016/j.mtsust.2022.100240.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qaidi, Shaker, Ammar Yahia, B. A. Tayeh, H. Unis, R. Faraj, and A. Mohammed. “3D Printed Geopolymer Composites: A Review”. <i>Materials Today Sustainability</i> 20 (2022). https://doi.org/10.1016/j.mtsust.2022.100240.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

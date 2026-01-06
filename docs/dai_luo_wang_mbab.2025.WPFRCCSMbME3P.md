@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pengfei Dai, Zhenhua Luo, Yalun Wang, Justin Mbabazi, Shiyuan Liu, Hao Ren, Meirong Zong, Lei Yang, Jiquan Lu, Pinghua Zhu, Qifeng Lyu
+    - footer
+title: Dai Pengfei, Luo Zhenhua, Wang Yalun, Mbabazi Justin, Liu Shiyuan, Ren Hao, Zong Meirong, Yang Lei, Lu Jiquan, Zhu Pinghua, Lyu Qifeng
 description:
 tags:
  - cavity
@@ -19,42 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142127" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142127</a>
+#Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142127" target="_blank">10.1016/j.conbuildmat.2025.142127</a>
 
--------------------------
+<a href="../../../author/dai_pengfei"><b>Dai</b>&nbsp;Pengfei</a></span>, <a href="../../../author/luo_zhenhua"><b>Luo</b>&nbsp;Zhenhua</a></span>, <a href="../../../author/wang_yalun"><b>Wang</b>&nbsp;Yalun</a></span>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b>&nbsp;Justin</a></span>, <a href="../../../author/liu_shiyuan"><b>Liu</b>&nbsp;Shiyuan</a></span>, <a href="../../../author/ren_hao"><b>Ren</b>&nbsp;Hao</a></span>, <a href="../../../author/zong_meirong"><b>Zong</b>&nbsp;Meirong</a></span>, <a href="../../../author/yang_lei"><b>Yang</b>&nbsp;Lei</a></span>, <a href="../../../author/lu_jiquan"><b>Lu</b>&nbsp;Jiquan</a></span>, <a href="../../../author/zhu_pinghua"><b>Zhu</b>&nbsp;Pinghua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 487, No. 142127
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>
-,     <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>
-,     <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>
-,     <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a>
-,     <a href="../../../author/liu_shiyuan"><b>Liu</b> Shiyuan</a>
-,     <a href="../../../author/ren_hao"><b>Ren</b> Hao</a>
-,     <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>
-,     <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>
-,     <a href="../../../author/lu_jiquan"><b>Lu</b> Jiquan</a>
-,     <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a>
-,     <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 487, No. 142127
-
-:aca-blank:{ .lg .middle}
-    [`#cavity`](keyword/cavity)
-    [`#cement`](keyword/cement)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mortar`](keyword/mortar)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/cavity"><button class="btn">#cavity</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Waste%20Plastic%20Fiber%20Reinforced%20Cementitious%20Cavity%20Structures%20Manufactured%20by%20Mortar%20Extrusion%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007514155&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411134679" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142127" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142127?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To promote environmental sustainability and enhance construction efficiency, this study uses waste plastic fibers to reinforce cementitious cavity structures manufactured by mortar extrusion 3D printing. The flowability of the printing mortar, as well as the buildability, compressive strength, flexural strength, thermal conductivity, and micro morphology of both the printed solid and (square and triangular) cavity structures were systematically investigated. The results indicate that the incorporation of fibers leads to a reduction in the material consumption of the printed structures and enhances the buildability of the cavity structures, while decreasing that of the solid structure. Despite compressive strength reductions of 18.7 % (solid), 41.5 % (square-cavity), and 35.2 % (triangular-cavity) at 0.3 % fiber content, flexural strength exhibited significant improvements of 78.4 %, 165 %, and 12.3 % respectively, demonstrating remarkable crack-bridging effects. Cavity configurations achieved 25.4 %-52.6 % lower thermal conductivity (0.498–0.783 W/(m·K)) versus solid counterparts (1.056 W/(m·K)), correlating with higher hollowness and porosity in cavity structures that also explains the mechanical-thermal property tradeoffs. This work establishes a sustainable paradigm for upcycling waste plastics into functional building components while advancing automated construction of energy-efficient cavity structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dai_lyu_zong_zhu.2024.EoWPFotPaMPo3PCM/">Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
@@ -114,7 +82,37 @@ tags:
       <li><a href="../../../author/xu_wen"><b>Xu</b> Wen</a>, <a href="../../../author/jiang_dengjie"><b>Jiang</b> Dengjie</a>, <a href="../../../author/zhao_qian"><b>Zhao</b> Qian</a>, <a href="../../../author/wang_linbing"><b>Wang</b> Linbing</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xu_jian_zhao_wang.2024.SoPo3PCFREFC/">Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete:<br/>Characterized by Fluidity and Consistency</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dai_luo_wang_mbab.2025.WPFRCCSMbME3P,
+      author            = "Pengfei Dai and Zhenhua Luo and Yalun Wang and Justin Mbabazi and Shiyuan Liu and Hao Ren and Meirong Zong and Lei Yang and Jiquan Lu and Pinghua Zhu and Qifeng Lyu",
+      title             = "Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2025.142127",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "487",
+      pages             = "142127",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Dai, “Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing”, <i>Construction and Building Materials</i>, vol. 487, p. 142127, 2025, doi: 10.1016/j.conbuildmat.2025.142127.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dai, Pengfei, Zhenhua Luo, Yalun Wang, Justin Mbabazi, Shiyuan Liu, Hao Ren, Meirong Zong, et al.. “Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing”. <i>Construction and Building Materials</i> 487 (2025): 142127. https://doi.org/10.1016/j.conbuildmat.2025.142127.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

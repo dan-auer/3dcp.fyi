@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ye Qian, Shiho Kawashima
+    - footer
+title: Qian Ye, Kawashima Shiho
 description:
 tags:
  - cement
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0008884616304306) Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes ([2016-09](date/2016/09))
-<a href="https://doi.org/10.1016/j.cemconres.2016.09.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2016.09.005</a>
+#Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes ([2016-09](date/2016/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0008884616304306) <a href="https://doi.org/10.1016/j.cemconres.2016.09.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2016.09.005" target="_blank">10.1016/j.cemconres.2016.09.005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 90, pp. 73-79
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 90, pp. 73-79
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#creep`](keyword/creep)
-    [`#fresh`](keyword/fresh)
-    [`#paste`](keyword/paste)
-    [`#protocol`](keyword/protocol)
-    [`#static`](keyword/static)
-    [`#stress`](keyword/stress)
-    [`#structure`](keyword/structure)
-    [`#use`](keyword/use)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/creep"><button class="btn">#creep</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/protocol"><button class="btn">#protocol</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Creep%20Recovery%20Protocol%20to%20Measure%20Static%20Yield-Stress%20and%20Structural%20Rebuilding%20of%20Fresh%20Cement-Pastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84991709427&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,20 +40,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2526355857" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2016.09.005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2016.09.005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, a creep recovery shear rheological protocol was applied to fresh cement pastes. A viscosity bifurcation behavior was observed through applying a range of creep stresses. When applied stress is sufficiently low viscosity increases and the material yields, exhibiting viscoelastic solid-like behavior. Beyond a critical stress viscosity decreases and the material flows, exhibiting viscoelastic liquid-like behavior. Through examining this bifurcation behavior we found that the transition of viscosity occurs at very low strains. The strains at which this transition occurred were compared with critical strains measured through low amplitude oscillatory shear. Results provided support that the solid-liquid transition occurs beyond the critical stress measured through creep, thereby tying it to static yield stress. The protocol was implemented to probe pastes modified with attapulgite clays, a highly thixotropic system, and was found to be effective in characterizing static yield stress and thixotropic rebuilding.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "58 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_muda.2025.3PPoSHCCwDUFiCwR/">3D Printing Performance of Strain-Hardening Cementitious Composites with Different UHMWPE Fibers in Correlation with Rheology</a></li>
@@ -131,4 +109,34 @@ tags:
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../qian_schu.2018.DEoNaPSoADYSaToCP/">Different Effects of NSF and PCE Superplasticizer on Adsorption, Dynamic Yield-Stress and Thixotropy of Cement-Pastes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qian_kawa.2016.UoCRPtMSYSaSRoFCP,
+      author            = "Ye Qian and Shiho Kawashima",
+      title             = "Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes",
+      doi               = "10.1016/j.cemconres.2016.09.005",
+      year              = "2016",
+      journal           = "Cement and Concrete Research",
+      volume            = "90",
+      pages             = "73--79",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Qian  and S. Kawashima, “Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes”, <i>Cement and Concrete Research</i>, vol. 90, pp. 73–79, 2016, doi: 10.1016/j.cemconres.2016.09.005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qian, Ye, and Shiho Kawashima. “Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes”. <i>Cement and Concrete Research</i> 90 (2016): 73–79. https://doi.org/10.1016/j.cemconres.2016.09.005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

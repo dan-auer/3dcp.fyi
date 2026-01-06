@@ -8,7 +8,7 @@ search:
 
 # #void
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS/">Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure</a></li>
   <li><a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>, <a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../sorg_zand_zhou_fisk.2024.ItEoAVotMPo3PCC/">Investigating the Effect of Air-Voids on the Mechanical Properties of 3D Printable Cementitious Composites</a></li>
   <li><a href="../../../author/haufe_niklas_carl"><b>Haufe</b> Carl</a>, <a href="../../../author/castel_paula"><b>Castel</b> Paula</a>, <a href="../../../author/strahm_benedikt"><b>Strahm</b> Benedikt</a>, <a href="../../../author/nigl_david"><b>Nigl</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hauf_cast_stra_nigl.2024.ADDPfBoVFfAiFGC/">A Digital Design Process for Bundling of Void Formers for Application in Functionally Graded Concrete</a></li>

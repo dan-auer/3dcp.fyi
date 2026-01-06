@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Isolda Agustí-Juan, Mihail-Andrei Jipa, Guillaume Habert
+    - footer
+title: Agustí-Juan Isolda, Jipa Mihail-Andrei, Habert Guillaume
 description:
 tags:
  - assessment
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.research-collection.ethz.ch/bitstream/20.500.11850/306286/6/IJLCA_Multi-functionality-final.pdf) Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques ([2018-11](date/2018/11))
-<a href="https://doi.org/10.1007/s11367-018-1563-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11367-018-1563-4</a>
+#Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques ([2018-11](date/2018/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/306286/6/IJLCA_Multi-functionality-final.pdf) <a href="https://doi.org/10.1007/s11367-018-1563-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11367-018-1563-4" target="_blank">10.1007/s11367-018-1563-4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b>&nbsp;Isolda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habert_guillaume"><b>Habert</b>&nbsp;Guillaume</a></span><br>
+Journal Article - The International Journal of Life Cycle Assessment, Vol. 24, Iss. 6, pp. 1027-1039
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> <a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> <a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Life Cycle Assessment, Vol. 24, Iss. 6, pp. 1027-1039
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#element`](keyword/element)
-    [`#environment`](keyword/environment)
-    [`#fabrication`](keyword/fabrication)
-    [`#function`](keyword/function)
-    [`#multi`](keyword/multi)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Environmental%20Assessment%20of%20Multi-Functional%20Building%20Elements%20Constructed%20with%20Digital%20Fabrication%20Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85057153467&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2900565384" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11367-018-1563-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11367-018-1563-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication is revolutionizing architecture, enabling the construction of complex and multi-functional building elements. Multi-functionality is often achieved through material reduction strategies such as functional or material hybridization. However, these design strategies may increase environmental impacts over the life cycle. The integration offunctions may hinder the maintenance and shorten the service life. Moreover, once a building element has reached the end oflife, hybrid materials may influence negatively its recycling capacity. Consequently, the aimofthis paper is to analyze the influence ofmulti-functionality in the environmental performance oftwo digitally fabricated architectural elements: The Sequential Roofand Concrete-Sandstone Composite Slab and to compare them with existing standard elements. A method based on the life-cycle assessment (LCA) framework is applied for the evaluation of the environmental implications ofmulti-functionality in digital fabrication. The evaluation consists ofthe comparison ofembodied impacts between a multi-functional building element constructed with digital fabrication techniques and a conventional one, both with the same building functions. Specifically, the method considers the lifetime uncertainty caused by multi-functionality by considering two alternative service life scenarios during the evaluation of the digitally fabricated building element. The study is extended with a sensitivity analysis to evaluate the additional environmental implications during end-of-life processing derived from the use of hybrid materials to achieve multi-functionality in architecture. The evaluation of two case studies of digitally fabricated architecture indicates that their environmental impacts are very sensitive to the duration oftheir service life. Considering production and life span phases, multi-functional building elements should have a minimum service life of 30 years to bring environmental benefits over conventional construction. Furthermore, the case study of Concrete-Sandstone Composite Slab shows that using hybrid materials to achieve multifunctionality carries important environmental consequences at the end oflife, such as the emission ofair pollutants during recycling. Conclusions The results from the case studies allow the identification ofkey environmental criteria to consider during the design of digitally fabricated building elements. Multi-functionality provides material efficiency during production, but design adaptability must be a priority to avoid a decrease in their environmental performance. Moreover, the high environmental impacts caused by end-of-life processing should be compensated during design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -77,8 +54,8 @@ tags:
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b> Julie</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM/">Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing</a></li>
       <li><a href="../../../author/fleckenstein_julia"><b>Fleckenstein</b> Julia</a>, <a href="../../../author/knychalla_bruno"><b>Knychalla</b> Bruno</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../flec_knyc_brie_bagh.2024.BA/">BREUER × AM:<br/>Functional Hybridisation in Concrete Building Envelope Elements through Additive Manufacturing</a></li>
@@ -97,4 +74,35 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{agus_jipa_habe.2019.EAoMFBECwDFT,
+      author            = "Isolda Agustí-Juan and Mihail-Andrei Jipa and Guillaume Habert",
+      title             = "Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques",
+      doi               = "10.1007/s11367-018-1563-4",
+      year              = "2019",
+      journal           = "The International Journal of Life Cycle Assessment",
+      volume            = "24",
+      number            = "6",
+      pages             = "1027--1039",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Agustí-Juan, M.-A. Jipa and G. Habert, “Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques”, <i>The International Journal of Life Cycle Assessment</i>, vol. 24, no. 6, pp. 1027–1039, 2019, doi: 10.1007/s11367-018-1563-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Agustí-Juan, Isolda, Mihail-Andrei Jipa, and Guillaume Habert. “Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques”. <i>The International Journal of Life Cycle Assessment</i> 24, no. 6 (2019): 1027–39. https://doi.org/10.1007/s11367-018-1563-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

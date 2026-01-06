@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mingxu Chen, Lei Yang, Yan Zheng, Laibo Li, Shoude Wang, Yongbo Huang, Piqi Zhao, Lingchao Lu, Xin Cheng
+    - footer
+title: Chen Mingxu, Yang Lei, Zheng Yan, Li Laibo, Wang Shoude, Huang Yongbo, Zhao Piqi, Lu Lingchao, Cheng Xin
 description:
 tags:
  - behavior
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmrt.2020.12.115) Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1016/j.jmrt.2020.12.115" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2020.12.115</a>
+#Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites ([2021-01](date/2021/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2020.12.115) <a href="https://doi.org/10.1016/j.jmrt.2020.12.115" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2020.12.115" target="_blank">10.1016/j.jmrt.2020.12.115</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/yang_lei"><b>Yang</b>&nbsp;Lei</a></span>, <a href="../../../author/zheng_yan"><b>Zheng</b>&nbsp;Yan</a></span>, <a href="../../../author/li_laibo"><b>Li</b>&nbsp;Laibo</a></span>, <a href="../../../author/wang_shoude"><b>Wang</b>&nbsp;Shoude</a></span>, <a href="../../../author/huang_yongbo"><b>Huang</b>&nbsp;Yongbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_piqi"><b>Zhao</b>&nbsp;Piqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7147-4495" title="ORCID: 0000-0002-7147-4495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_xin"><b>Cheng</b>&nbsp;Xin</a></span><br>
+Journal Article - Journal of Materials Research and Technology, Vol. 10, pp. 1402-1414
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>
-,     <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>
-,     <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>
-,     <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a>
-,     <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a>
-,     <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> <a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_xin"><b>Cheng</b> Xin</a> <a href="https://orcid.org/0000-0002-7147-4495" title="ORCID: 0000-0002-7147-4495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, Vol. 10, pp. 1402-1414
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Behaviors%20and%20Structure%20Build-Up%20of%203D%20Printed%20Polypropylene-%20and%20Polyvinyl-Alcohol-Fiber-Reinforced%20Calcium-Sulphoaluminate-Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100735158&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3120631646" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2020.12.115" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2020.12.115?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The uncontrollable printed structure and poor toughness of three dimensional (3D) printed cement composites hamper their application in buildings. In this study, the polypropylene (PP) and polyvinyl alcohol (PVA) fibers were introduced into the 3D printed calcium sulphoaluminate cement composites (CSACCs) to achieve the stable shape retention and high mechanical strength by controlling the rheological parameters. Experimental results show that the PP and PVA fibers enlarge the linear viscoelastic region (LVR) and increase the elastic modulus of CSACCs. Moreover, these two fibers clearly increase the yield stress and improve the thixotropy of CSACCs in the fiber content of 0.50e1.25%. The relationship between the rheological parameters and structure deformation is revealed by the radar map, and it indicates that the printed structure deformation is improved by controlling the coupling rheological parameters. Furthermore, both PP and PVA fibers are beneficial to the improvement of toughness in the 3D printed CSACCs, and the optimal contents are 0.75 and 1.00%, respectively. In conclusion, developing the 3D printed fiber-reinforced CSACCs with the controllable rheological parameters is significant for improving the printed structures and toughness, which shows a considerable potential in buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP/">Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste</a></li>
@@ -106,8 +78,10 @@ tags:
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "47 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
+      <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a>, <a href="../../../author/chen_fan"><b>Chen</b> Fan</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cai_chen_zhao_xiao.2025.IoEPCoRaBi3PMSPPCIFA/">Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash</a></li>
       <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_sun_chen_liu.2025.3PCwRMI/">3D Printed Concrete with Red Mud Incorporation:<br/>Influence of Red Mud Manufacturing Procedures on Mechanical Properties at Elevated Temperatures</a></li>
@@ -154,4 +128,34 @@ tags:
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC,
+      author            = "Mingxu Chen and Lei Yang and Yan Zheng and Laibo Li and Shoude Wang and Yongbo Huang and Piqi Zhao and Lingchao Lu and Xin Cheng",
+      title             = "Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites",
+      doi               = "10.1016/j.jmrt.2020.12.115",
+      year              = "2021",
+      journal           = "Journal of Materials Research and Technology",
+      volume            = "10",
+      pages             = "1402--1414",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, “Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites”, <i>Journal of Materials Research and Technology</i>, vol. 10, pp. 1402–1414, 2021, doi: 10.1016/j.jmrt.2020.12.115.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Mingxu, Lei Yang, Yan Zheng, Laibo Li, Shoude Wang, Yongbo Huang, Piqi Zhao, Lingchao Lu, and Xin Cheng. “Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites”. <i>Journal of Materials Research and Technology</i> 10 (2021): 1402–14. https://doi.org/10.1016/j.jmrt.2020.12.115.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

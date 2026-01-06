@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yixin Mo, Songlin Yue, Qizhen Zhou, Bowei Feng, Xiao Liu
+    - footer
+title: Mo Yixin, Yue Songlin, Zhou Qizhen, Feng Bowei, Liu Xiao
 description:
 tags:
  - cement
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/19/5554/pdf?version=1632800612) Dynamic Properties and Fractal Characteristics of 3D Printed Cement Mortar in SHPB-Test ([2021-09](date/2021/09))
-<a href="https://doi.org/10.3390/ma14195554" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14195554</a>
+#Dynamic Properties and Fractal Characteristics of 3D Printed Cement Mortar in SHPB-Test ([2021-09](date/2021/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/19/5554/pdf?version=1632800612) <a href="https://doi.org/10.3390/ma14195554" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14195554" target="_blank">10.3390/ma14195554</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0199-089X" title="ORCID: 0000-0002-0199-089X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mo_yixin"><b>Mo</b>&nbsp;Yixin</a></span>, <a href="../../../author/yue_songlin"><b>Yue</b>&nbsp;Songlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5509-0902" title="ORCID: 0000-0001-5509-0902" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_qizhen"><b>Zhou</b>&nbsp;Qizhen</a></span>, <a href="../../../author/feng_bowei"><b>Feng</b>&nbsp;Bowei</a></span>, <a href="../../../author/liu_xiao"><b>Liu</b>&nbsp;Xiao</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mo_yixin"><b>Mo</b> Yixin</a> <a href="https://orcid.org/0000-0002-0199-089X" title="ORCID: 0000-0002-0199-089X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>
-,     <a href="../../../author/zhou_qizhen"><b>Zhou</b> Qizhen</a> <a href="https://orcid.org/0000-0001-5509-0902" title="ORCID: 0000-0001-5509-0902" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_bowei"><b>Feng</b> Bowei</a>
-,     <a href="../../../author/liu_xiao"><b>Liu</b> Xiao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 19, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#dynamic`](keyword/dynamic)
-    [`#fraction`](keyword/fraction)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20Properties%20and%20Fractal%20Characteristics%20of%203D%20Printed%20Cement%20Mortar%20in%20SHPB-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85115724175&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3204696883" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14195554" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14195554?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Comparing with the traditional construction process, 3D printing technology used in construction offers many advantages due to the elimination of formwork. Currently, 3D printing technology used in the construction field is widely studied, however, limited studies are available on the dynamic properties of 3D printed materials. In this study, the effects of sand to binder ratios and printing directions on the fractal characteristics, dynamic compressive strength, and energy dissipation density of 3D printed cement mortar (3DPCM) are explored. The experiment results indicate that the printing direction has a more significant influence on the fractal dimension compared with the sand to binder ratio (S/B). The increasing S/B first causes an increase and then results in a decline in the dynamic compressive strength and energy dissipation of different printing directions. The anisotropic coefficient of 3DPCM first is decreased by 20.67%, then is increased by 10.56% as the S/B increases from 0.8 to 1.4, showing that the anisotropy is first mitigated, then increased. For the same case of S/B, the dynamic compressive strength and energy dissipation are strongly dependent on the printing direction, which are the largest printing in the Y-direction and the smallest printing in the X-direction. Moreover, the fractal dimension has certain relationships with the dynamic compressive strength and energy dissipation density. When the fractal dimension changes from 2.0 to 2.4, it shows a quadratic relationship with the dynamic compressive strength and a logarithmic relationship with the energy dissipation density in different printing directions. Finally, the printing mortar with an S/B = 1.1 is proved to have the best dynamic properties, and is selected for the 3D printing of the designed field barrack model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a></li>
@@ -87,8 +64,8 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/liang_yu-fang"><b>Liang</b> Yu-Fang</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chi-hong"><b>Huang</b> Chi-Hong</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_lian_syu_huan.2024.SaDMCo3PABFRCM/">Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar</a></li>
       <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/yin_xuexiang"><b>Yin</b> Xuexiang</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../du_zhou_lai_yin.2025.DDBaAMo3PRCStP/">Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/xu_shanqing"><b>Xu</b> Shanqing</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../rame_raje_xu_sanj.2024.IRoTR3PCP/">Impact Response of Textile-Reinforced 3D Printed Concrete Panels</a></li>
@@ -96,4 +73,34 @@ tags:
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_xing_sun_feng.2023.MSSCaHMPo3PBW/">Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>A Review</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mo_yue_zhou_feng.2021.DPaFCo3PCMiST,
+      author            = "Yixin Mo and Songlin Yue and Qizhen Zhou and Bowei Feng and Xiao Liu",
+      title             = "Dynamic Properties and Fractal Characteristics of 3D Printed Cement Mortar in SHPB-Test",
+      doi               = "10.3390/ma14195554",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "19",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Mo, S. Yue, Q. Zhou, B. Feng and X. Liu, “Dynamic Properties and Fractal Characteristics of 3D Printed Cement Mortar in SHPB-Test”, <i>Materials</i>, vol. 14, no. 19, 2021, doi: 10.3390/ma14195554.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mo, Yixin, Songlin Yue, Qizhen Zhou, Bowei Feng, and Xiao Liu. “Dynamic Properties and Fractal Characteristics of 3D Printed Cement Mortar in SHPB-Test”. <i>Materials</i> 14, no. 19 (2021). https://doi.org/10.3390/ma14195554.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

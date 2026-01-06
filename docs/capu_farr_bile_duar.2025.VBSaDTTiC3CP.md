@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Özgüç Çapunaman, Paniz Farrokhsiar, Sven Bilén, José Duarte, Benay Gürsoy
+    - footer
+title: Çapunaman Özgüç, Farrokhsiar Paniz, Bilén Sven, Duarte José, Gürsoy Benay
 description:
 tags:
  - accuracy
@@ -27,44 +28,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing:<br/>:aca-blank: Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1007/s41693-024-00145-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-024-00145-7</a>
+#Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-024-00145-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00145-7" target="_blank">10.1007/s41693-024-00145-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4790-0394" title="ORCID: 0000-0002-4790-0394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b>&nbsp;Özgüç</a></span>, <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b>&nbsp;Paniz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5416-7039" title="ORCID: 0000-0002-5416-7039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bilen_g_sven"><b>Bilén</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b>&nbsp;Benay</a></span><br>
+Journal Article - Construction Robotics, Vol. 9, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a> <a href="https://orcid.org/0000-0002-4790-0394" title="ORCID: 0000-0002-4790-0394" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>
-,     <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> <a href="https://orcid.org/0000-0002-5416-7039" title="ORCID: 0000-0002-5416-7039" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, Vol. 9, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accuracy`](keyword/accuracy)
-    [`#adoption`](keyword/adoption)
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#capability`](keyword/capability)
-    [`#concrete`](keyword/concrete)
-    [`#conformity`](keyword/conformity)
-    [`#digital`](keyword/digital)
-    [`#exploration`](keyword/exploration)
-    [`#investigation`](keyword/investigation)
-    [`#large`](keyword/large)
-    [`#monitoring`](keyword/monitoring)
-    [`#operation`](keyword/operation)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#sensor`](keyword/sensor)
-    [`#technology`](keyword/technology)
-    [`#twin`](keyword/twin)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/capability"><button class="btn">#capability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conformity"><button class="btn">#conformity</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Vision-Based%20Sensing%20and%20Digital%20Twin-Technologies%20in%20Conformal%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -79,17 +50,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406490888" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-024-00145-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-024-00145-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the integration of vision-based sensing and digital twin technologies into large-scale conformal 3D Concrete Printing (3DCP), emphasizing operational accuracy, adaptability, and real-time monitoring capabilities. By implementing advanced sensing systems, the study aims to reconstruct accurate digital twins of non-planar, dynamically variable, and digitally undefined print surfaces, emulating on-site conditions for large-scale 3DCP applications. The primary objectives of the research include assessing the precision of digital twins in such large-scale settings and their effectiveness and efficacy in enhancing material deposition quality. Through experiments designed to evaluate the geometric reconstruction accuracy of print surfaces, this study achieved high-fidelity digital twins with Root Mean Square Error (RMSE) values of 1.76mm for sand surfaces and 2.94 mm for gravel surfaces using the best-performing sensing strategies. These accurate reconstructions informed conformal 3DCP processes, resulting in consistent concrete filament width, with Coefficient of Variation (CoV) values of 8.09% on sand and 6.58% on gravel print surfaces. Additionally, the utility of digital twins for monitoring the printing process was explored through a preliminary inquiry into how effectively discrepancies between planned and executed material deposition could be identified and quantified. These investigations demonstrate how vision-based technologies promise to improve the adaptability of 3DCP to complex geometries, enhance the scalability of the processes, and optimize operational efficiency. It highlights the potential of these technologies to advance sustainability in construction practices by reducing material waste and enhancing the precision of automated building systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/talaei_ardeshir"><b>Talaei</b> Ardeshir</a>, <a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bres_tala_flor_nabo.2023.SE/">Shape-Env:<br/>Camera-Enhanced Robotic Terrain-Shaping for Complex 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
@@ -110,8 +77,38 @@ tags:
       <li><a href="../../../author/zamani_alireza"><b>Zamani</b> Alireza</a>, <a href="../../../author/mohseni_alale"><b>Mohseni</b> Alale</a>, <a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zama_mohs_capu.2023.RFSfVICR3P/">Reconfigurable Formwork System for Vision-Informed Conformal Robotic 3D Printing</a></li>
       <li><a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>, <a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../zivk_batt.2018.RPET/">Rough-Pass-Extrusion-Tooling:<br/>CNC Post-Processing of 3D Printed Sub-Additive Concrete Lattice-Structures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{capu_farr_bile_duar.2025.VBSaDTTiC3CP,
+      author            = "Özgüç Bertuğ Çapunaman and Paniz Farrokhsiar and Sven G. Bilén and José Pinto Duarte and Benay Toykoc Gürsoy",
+      title             = "Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing: Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications",
+      doi               = "10.1007/s41693-024-00145-7",
+      year              = "2025",
+      journal           = "Construction Robotics",
+      volume            = "9",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Ö. B. Çapunaman, P. Farrokhsiar, S. G. Bilén, J. P. Duarte and B. T. Gürsoy, “Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing: Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications”, <i>Construction Robotics</i>, vol. 9, no. 1, 2025, doi: 10.1007/s41693-024-00145-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Çapunaman, Özgüç Bertuğ, Paniz Farrokhsiar, Sven G. Bilén, José Pinto Duarte, and Benay Toykoc Gürsoy. “Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing: Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications”. <i>Construction Robotics</i> 9, no. 1 (2025). https://doi.org/10.1007/s41693-024-00145-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

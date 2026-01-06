@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Minghong Qiu, Yan Sun, Ye Qian
+    - footer
+title: Qiu Minghong, Sun Yan, Qian Ye
 description:
 tags:
  - bond
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.jobe.2023.108268" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.108268</a>
+#Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.108268" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108268" target="_blank">10.1016/j.jobe.2023.108268</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qiu_minghong"><b>Qiu</b>&nbsp;Minghong</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 82, No. 108268
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a> <a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yan"><b>Sun</b> Yan</a> <a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 82, No. 108268
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#cast`](keyword/cast)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#height`](keyword/height)
-    [`#interface`](keyword/interface)
-    [`#normal`](keyword/normal)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/normal"><button class="btn">#normal</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interfacial%20Bonding%20Performance%20of%203D%20Printed%20Ultra-High-Performance%20Strain-Hardening%20Cementitious%20Composites%20and%20Cast%20Normal%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179755447&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,31 +42,27 @@ tags:
 <a href="https://inciteful.xyz/p/W4389514222" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.108268" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.108268?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Using 3D-printed elements as permanent formwork for structural members is an efficient way to integrate 3D printing technology in the traditional construction field which could also enhance structural capacity and possibly address the reinforcement challenge during 3D concrete printing. The bonding performance between 3D-printed formwork and post-cast concrete is crucial for maintaining the overall mechanical performance of the structures. This study experimentally investigates the interfacial bonding properties between 3D-printed Ultra-High Performance Strain-Hardening Cementitious Composites (UHP-SHCC) permanent formwork and post-cast normal concrete (NC). Three groups of prismatic composite specimens with smooth, grooved, and 3D-printed interfaces are subjected to the splitting tensile test to evaluate the interfacial bonding. A fully cast normal concrete specimen is also tested as a reference for comparison. The failure modes, splitting tensile strength, and effective bonding area ratio of normal concrete are analyzed and discussed. Results reveal that the splitting tensile strength of interfaces with grooved and 3D-printed preparation is significantly higher than that of the smooth interface, with an increase of 92.2%–114.8 %.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
-      <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../qiu_sun_qian.2024.IBPo3PUHPSHCCaCNC/">Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -106,6 +81,35 @@ tags:
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../qiu_qian_sun_leun.2024.FPoCBv3PSiPFFbCoNC/">Flexural Performance of Concrete Beams via 3D Printing Stay-in-Place Formwork Followed by Casting of Normal Concrete</a></li>
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/dai_jian-guo"><b>Dai</b> Jian-Guo</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../qiu_qian_dai.2024.EtFPoCBw3PUSPFvGFVF/">Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction</a></li>
       <li><a href="../../../author/shahid_mursaleen"><b>Shahid</b> Mursaleen</a>, <a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b> Vincenzo</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shah_sgla.2024.BJ3PoBCSSM/">Binder-Jetting 3D Printing of Binary Cement-Siliceous Sand Mixture</a></li>
-      <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../qiu_sun_qian.2024.IBPo3PUHPSHCCaCNC/">Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qiu_sun_qian.2024.IBPo3PUHPSHCCaCNC,
+      author            = "Minghong Qiu and Yan Sun and Ye Qian",
+      title             = "Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete",
+      doi               = "10.1016/j.jobe.2023.108268",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "82",
+      pages             = "108268",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Qiu, Y. Sun and Y. Qian, “Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete”, <i>Journal of Building Engineering</i>, vol. 82, p. 108268, 2024, doi: 10.1016/j.jobe.2023.108268.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qiu, Minghong, Yan Sun, and Ye Qian. “Interfacial Bonding Performance of 3D Printed Ultra-High-Performance Strain-Hardening Cementitious Composites and Cast Normal Concrete”. <i>Journal of Building Engineering</i> 82 (2024): 108268. https://doi.org/10.1016/j.jobe.2023.108268.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

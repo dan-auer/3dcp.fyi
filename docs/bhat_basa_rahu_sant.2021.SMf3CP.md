@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shantanu Bhattacherjee, Anusha Basavaraj, Attupurathu Rahul, Manu Santhanam, Ravindra Gettu, Biranchi Panda, Erik Schlangen, Yu Chen, Oğuzhan Çopuroğlu, Guowei Ma, Li Wang, Mirza Beigh, Viktor Mechtcherine
+    - footer
+title: Bhattacherjee Shantanu, Basavaraj Anusha, Rahul Attupurathu, Santhanam Manu, Gettu Ravindra, Panda Biranchi, Schlangen Erik, Chen Yu, Çopuroğlu Oğuzhan, Ma Guowei, Wang Li, Beigh Mirza, Mechtcherine Viktor
 description:
 tags:
  - concrete
@@ -12,37 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://repository.tudelft.nl/islandora/object/uuid%3A4b480046-29e5-48da-b8bc-dec3b27d5647/datastream/OBJ/download) Sustainable Materials for 3D Concrete Printing ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104156" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104156</a>
+#Sustainable Materials for 3D Concrete Printing ([2021-06](date/2021/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3A4b480046-29e5-48da-b8bc-dec3b27d5647/datastream/OBJ/download) <a href="https://doi.org/10.1016/j.cemconcomp.2021.104156" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104156" target="_blank">10.1016/j.cemconcomp.2021.104156</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6047-3294" title="ORCID: 0000-0002-6047-3294" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b>&nbsp;Shantanu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8864-3104" title="ORCID: 0000-0001-8864-3104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b>&nbsp;Anusha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1670-637X" title="ORCID: 0000-0002-1670-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gettu_ravindra"><b>Gettu</b>&nbsp;Ravindra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7525-6807" title="ORCID: 0000-0002-7525-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b>&nbsp;Mirza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 122
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> <a href="https://orcid.org/0000-0002-6047-3294" title="ORCID: 0000-0002-6047-3294" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a> <a href="https://orcid.org/0000-0001-8864-3104" title="ORCID: 0000-0001-8864-3104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gettu_ravindra"><b>Gettu</b> Ravindra</a> <a href="https://orcid.org/0000-0002-1670-637X" title="ORCID: 0000-0002-1670-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a> <a href="https://orcid.org/0000-0002-7525-6807" title="ORCID: 0000-0002-7525-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 122, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Materials%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85109918742&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3176332993" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104156" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104156?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the sustainability aspects of binders used in concrete 3D concrete printing. Firstly, a prospective approach to conduct sustainability-assessment based on the life cycle of 3D printed structures is presented, which also highlights the importance of considering the functional requirements of the mixes used for 3D printing. The potential of the material production phase is emphasized to enhance the sustainability potential of 3DCP by reducing the embodied impacts. The literature on the different binder systems used for producing 3D printable mixtures is reviewed. This review includes binders based on portland cement and supplementary cementing materials (SCMs) such as fly ash, silica-fume and slag. Also, alternative binders such as geopolymer, calcium sulfo-aluminate cement (CSA), limestone calcined clay cement (LC3) and reactive magnesium oxide systems are explored. Finally, sustainability assessment by quantifying the environmental impacts in terms of energy consumed and CO2 emissions of mixtures is illustrated with different binder systems. This paper underlines the effect of using SCMs and alternative binder systems for improving the sustainability of 3D printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "79 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
@@ -77,7 +50,6 @@ tags:
       <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/bekkering_juliette"><b>Bekkering</b> Juliette</a>, <a href="../../../author/kuit_barbara"><b>Kuit</b> Barbara</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bekk_kuit_biff_ahme.2020.AEotPo3CP/">Architectonic Explorations of the Possibilities of 3D Concrete Printing:<br/>The Historic Building Fragment as Inspiration for New Applications with 3D Concrete Printing in Architecture</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
-      <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP/">Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste</a></li>
@@ -149,9 +121,12 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "211 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ribe_rang_bran_figu.2026.INVT3CP/">Improving Natural Ventilation Through 3D Concrete Printing</a></li>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
@@ -359,6 +334,34 @@ tags:
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../rahu_moha_schu_titt.2022.3PCwNaRCA/">3D Printable Concrete with Natural and Recycled Coarse Aggregates:<br/>Rheological, Mechanical and Shrinkage Behavior</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
-      <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bhat_basa_rahu_sant.2021.SMf3CP,
+      author            = "Shantanu Bhattacherjee and Anusha Shimoga Basavaraj and Attupurathu Vijayan Rahul and Manu Santhanam and Ravindra Gettu and Biranchi Narayan Panda and Erik Schlangen and Yu Chen and Oğuzhan Çopuroğlu and Guowei Ma and Li Wang and Mirza Abdul Basit Beigh and Viktor Mechtcherine",
+      title             = "Sustainable Materials for 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2021.104156",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "122",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Bhattacherjee, “Sustainable Materials for 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, vol. 122, 2021, doi: 10.1016/j.cemconcomp.2021.104156.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhattacherjee, Shantanu, Anusha Shimoga Basavaraj, Attupurathu Vijayan Rahul, Manu Santhanam, Ravindra Gettu, Biranchi Narayan Panda, Erik Schlangen, et al.. “Sustainable Materials for 3D Concrete Printing”. <i>Cement and Concrete Composites</i> 122 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104156.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

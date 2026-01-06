@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meruyert Sovetova, John Calautit
+    - footer
+title: Sovetova Meruyert, Calautit John
 description:
 tags:
  - accelerator
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.clet.2024.100786) Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.clet.2024.100786" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.clet.2024.100786</a>
+#Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.clet.2024.100786) <a href="https://doi.org/10.1016/j.clet.2024.100786" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clet.2024.100786" target="_blank">10.1016/j.clet.2024.100786</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sovetova_meruyert"><b>Sovetova</b>&nbsp;Meruyert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7046-3308" title="ORCID: 0000-0001-7046-3308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calautit_kaiser_john"><b>Calautit</b>&nbsp;John</a></span><br>
+Journal Article - Cleaner Engineering and Technology, No. 100786
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a> <a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="https://orcid.org/0000-0001-7046-3308" title="ORCID: 0000-0001-7046-3308" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cleaner Engineering and Technology, No. 100786
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#additive`](keyword/additive)
-    [`#calibration`](keyword/calibration)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#evaluation`](keyword/evaluation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/calibration"><button class="btn">#calibration</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%2C%20Calibration%20and%20Performance%20Evaluation%20of%20a%20Small-Scale%203D%20Printer%20for%20Accelerating%20Research%20in%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201771377&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401154574" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.clet.2024.100786" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.clet.2024.100786?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) in construction emerges as a promising and sustainable alternative to traditional construction methods. 3D printing in construction presents numerous advantages, such as geometric flexibility, cost and time savings, incorporation of recycled and sustainable materials, and reduced waste, thereby reducing the construction sector's environmental impact. Despite these advantages, widespread adoption of AM in construction faces hurdles, primarily due to the prohibitive costs of large-scale concrete printers — typically ranging from $180,000 to over $1 million — and by technological constraints that impede research and development efforts within the construction sector. Addressing these challenges, our study focuses on designing, developing, calibrating and evaluating an affordable lab-scale 3D printer specifically tailored for cement-based materials, aiming to lower the entry barrier for AM research in construction. This paper presents a proof-of-concept for a simple, yet functional printing technology tailored for cement-based materials that meet the requirements for research studies. The study details the development process, from the conceptual design to the calibration of printing parameters. The development process included the assessment of preliminary extrusion system designs integrated with the motion systems from the fused deposition modelling 3D printer. Subsequently, material studies were carried out to determine optimal cement-based mix compositions and ratios. A comprehensive calibration of printing parameters using statistical analysis has been proposed to ensure consistent and quality printing. The printability and applicability of the proposed small-scale 3D printer were assessed by printing samples and testing thermal properties. Cost analysis showed that the proposed 3D printer, with a cost of $273, offers benefits compared to existing market alternatives. The study illustrates the potential of small-scale 3D printers to facilitate construction research and practices, thereby helping to boost the development of sustainable construction methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "58 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
@@ -128,8 +106,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sove_cala.2024.DCaPEoaSS3PfARiAMiC,
+      author            = "Meruyert Sovetova and John Kaiser Calautit",
+      title             = "Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction",
+      doi               = "10.1016/j.clet.2024.100786",
+      year              = "2024",
+      journal           = "Cleaner Engineering and Technology",
+      pages             = "100786",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sovetova  and J. K. Calautit, “Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction”, <i>Cleaner Engineering and Technology</i>, p. 100786, 2024, doi: 10.1016/j.clet.2024.100786.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sovetova, Meruyert, and John Kaiser Calautit. “Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction”. <i>Cleaner Engineering and Technology</i>, 2024, 100786. https://doi.org/10.1016/j.clet.2024.100786.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Michelle Helsel, John Popovics, Peter Stynoski, Eric Kreiger
+    - footer
+title: Helsel Michelle, Popovics John, Stynoski Peter, Kreiger Eric
 description:
 tags:
  - additive
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0963869521000426) Non-Destructive Testing to Characterize Inter-Layer Bonds of Idealized Concrete Additive Manufacturing Products ([2021-03](date/2021/03))
-<a href="https://doi.org/10.1016/j.ndteint.2021.102443" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ndteint.2021.102443</a>
+#Non-Destructive Testing to Characterize Inter-Layer Bonds of Idealized Concrete Additive Manufacturing Products ([2021-03](date/2021/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0963869521000426) <a href="https://doi.org/10.1016/j.ndteint.2021.102443" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ndteint.2021.102443" target="_blank">10.1016/j.ndteint.2021.102443</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8112-693X" title="ORCID: 0000-0001-8112-693X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/helsel_a_michelle"><b>Helsel</b>&nbsp;Michelle</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3363-140X" title="ORCID: 0000-0003-3363-140X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/popovics_s_john"><b>Popovics</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stynoski_b_peter"><b>Stynoski</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span><br>
+Journal Article - NDT & E International, Vol. 121
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/helsel_a_michelle"><b>Helsel</b> Michelle</a> <a href="https://orcid.org/0000-0001-8112-693X" title="ORCID: 0000-0001-8112-693X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> <a href="https://orcid.org/0000-0003-3363-140X" title="ORCID: 0000-0003-3363-140X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> <a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - NDT & E International, Vol. 121, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bond`](keyword/bond)
-    [`#character`](keyword/character)
-    [`#concrete`](keyword/concrete)
-    [`#destructive`](keyword/destructive)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Non-Destructive%20Testing%20to%20Characterize%20Inter-Layer%20Bonds%20of%20Idealized%20Concrete%20Additive%20Manufacturing%20Products" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104080861&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3149446497" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ndteint.2021.102443" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ndteint.2021.102443?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     We examine non-destructive testing (NDT) techniques that characterize the interlayer bond quality of idealized 3-D printed concrete, simulating a layup bond, in-situ. An experimental study evaluates four NDT methods (x-ray radiography, ultrasonic pulse velocity (UPV), vibration resonance, and multi-element array ultrasonics) to idealized, layered concrete specimens that simulate layers of a 3-D printed structure. The interlayer bond strengths of the specimens were measured directly using split-prism load testing. X-ray radiography and multi-element array ultrasonic test data demonstrate best correlation with measured interlayer bond strengths. We used multi-element array ultrasonic test data to classify bond interface quality into well bonded, weakly bonded, and debonded cases.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/banko_l_marion"><b>Banko</b> Marion</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chaa_styn_bank.2018.SBoLPRCB/">Structural Behavior of Layer-Printed Reinforced Concrete Beams</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -86,8 +63,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM/">Investigating the Impact of Material Rheology on Geometric Accuracy in 3D Concrete Printing Using Real-Time Monitoring</a></li>
       <li><a href="../../../author/shiotani_tomoki"><b>Shiotani</b> Tomoki</a>, <a href="../../../author/asaue_hisafumi"><b>Asaue</b> Hisafumi</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/okude_nobuhiro"><b>Okude</b> Nobuhiro</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../shio_asau_ogur_okud.2025.EoP3PFoaBPUNDTM/">Evaluation of Permanent 3D Printed Formwork of a Bridge Pier Using Non-Destructive Testing Methods</a></li>
@@ -102,4 +79,33 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../koch_kama_subr.2021.ISEPSfM3CP/">In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing:<br/>Application in Alkali-Activated Fly-Ash-Slag Geopolymers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hels_popo_styn_krei.2021.NDTtCILBoICAMP,
+      author            = "Michelle A. Helsel and John S. Popovics and Peter B. Stynoski and Eric L. Kreiger",
+      title             = "Non-Destructive Testing to Characterize Inter-Layer Bonds of Idealized Concrete Additive Manufacturing Products",
+      doi               = "10.1016/j.ndteint.2021.102443",
+      year              = "2021",
+      journal           = "NDT & E International",
+      volume            = "121",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Helsel, J. S. Popovics, P. B. Stynoski and E. L. Kreiger, “Non-Destructive Testing to Characterize Inter-Layer Bonds of Idealized Concrete Additive Manufacturing Products”, <i>NDT & E International</i>, vol. 121, 2021, doi: 10.1016/j.ndteint.2021.102443.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Helsel, Michelle A., John S. Popovics, Peter B. Stynoski, and Eric L. Kreiger. “Non-Destructive Testing to Characterize Inter-Layer Bonds of Idealized Concrete Additive Manufacturing Products”. <i>NDT & E International</i> 121 (2021). https://doi.org/10.1016/j.ndteint.2021.102443.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

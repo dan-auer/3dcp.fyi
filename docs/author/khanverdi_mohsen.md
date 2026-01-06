@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Khanverdi Mohsen 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../khan_das.2025.PoFS3PCW/">Performance of Full-Scale 3D-Printed Concrete Walls:<br/>Effects of Vertical Reinforcements and Window Opening</a></li>
   <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../khan_das.2025.TPaaMfACPo3PSM/">Testing Prisms as a Method for Assessing Compressive Properties of 3D-Printed Structural Members:<br/>Experimental and Numerical Studies</a></li>
   <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../khan_das.2025.ESoWPaTRoLS3PCW/">Experimental Study on Water Penetration and Thermal Resistance of Large-Scale 3D-Printed Cementitious Walls</a></li>

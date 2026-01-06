@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eduardo Sbardelotto, Manuel Vieira, Karyne Ferreira dos Santos, Samuel Pereira dos Santos, Berenice Martins Toralles
+    - footer
+title: Sbardelotto Eduardo, Vieira Manuel, Ferreira dos Santos Karyne, Pereira dos Santos Samuel, Martins Toralles Berenice
 description:
 tags:
  - aggregate
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.matec-conferences.org/articles/matecconf/pdf/2025/03/matecconf_cs2025_06005.pdf) Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA) ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1051/matecconf/202540906005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1051/matecconf/202540906005</a>
+#Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA) ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.matec-conferences.org/articles/matecconf/pdf/2025/03/matecconf_cs2025_06005.pdf) <a href="https://doi.org/10.1051/matecconf/202540906005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202540906005" target="_blank">10.1051/matecconf/202540906005</a>
 
--------------------------
+<a href="../../../author/sbardelotto_kloeckner_eduardo"><b>Sbardelotto</b>&nbsp;Eduardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2930-9661" title="ORCID: 0000-0003-2930-9661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vieira_gomes_manuel"><b>Vieira</b>&nbsp;Manuel</a></span>, <a href="../../../author/ferreira-dos-santos_karyne"><b>Ferreira dos Santos</b>&nbsp;Karyne</a></span>, <a href="../../../author/pereira-dos-santos_samuel"><b>Pereira dos Santos</b>&nbsp;Samuel</a></span>, <a href="../../../author/martins-toralles_berenice"><b>Martins Toralles</b>&nbsp;Berenice</a></span><br>
+Journal Article - MATEC Web of Conferences, Vol. 409, No. 06005
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sbardelotto_kloeckner_eduardo"><b>Sbardelotto</b> Eduardo</a>
-,     <a href="../../../author/vieira_gomes_manuel"><b>Vieira</b> Manuel</a> <a href="https://orcid.org/0000-0003-2930-9661" title="ORCID: 0000-0003-2930-9661" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferreira-dos-santos_karyne"><b>Ferreira dos Santos</b> Karyne</a>
-,     <a href="../../../author/pereira-dos-santos_samuel"><b>Pereira dos Santos</b> Samuel</a>
-,     <a href="../../../author/martins-toralles_berenice"><b>Martins Toralles</b> Berenice</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - MATEC Web of Conferences, Vol. 409, No. 06005
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#fine`](keyword/fine)
-    [`#incorporation`](keyword/incorporation)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploratory%20Study%20on%20the%20Rheological%20Behaviour%20of%203D%20Printable%20Mortars%20Incorporating%20Fine%20Recycled%20Concrete%20Aggregates%20%28FRCA%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411287286" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1051/matecconf/202540906005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1051/matecconf/202540906005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the rheological behaviour of 3D-printable mortars incorporating fine recycled concrete aggregates (FRCA), focusing on the influence of 25% and 50% FRCA substitution on key rheological parameters, such as flow spread, penetration resistance, shear stress, and yield stress over time. Rheological tests were conducted at 20, 40, and 60 minutes to capture the time-dependent behaviour of the mixtures. The flow spread test evaluated the mortar's consistency and ability to maintain workability over time, essential for continuous extrusion during the printing process. The penetration resistance test assessed the stiffening rate of the mortar, providing insights into setting time and early strength development. The vane and slug tests measured yield stress, a critical parameter for ensuring buildability and layer stability, indicating the mixture's capacity to support subsequent layers without deformation or collapse. The results from the reference mixture were used to compare the performance of mortars with 25% and 50% FRCA content, highlighting the impact of recycled aggregates on time-dependent rheological properties. Mortars containing FRCA exhibited differences in flow retention and yield stress evolution, which are key factors influencing extrudability and printability in additive manufacturing processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_yang_liu_xu.2024.CFFMfECRo3PFRAASFARSC/">Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete</a></li>
@@ -94,8 +70,38 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sbar_viei_ferr_pere.2025.ESotRBo3PMIFRCAF,
+      author            = "Eduardo Kloeckner Sbardelotto and Manuel Gomes Vieira and Karyne Ferreira dos Santos and Samuel Pereira dos Santos and Berenice Martins Toralles",
+      title             = "Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA)",
+      doi               = "10.1051/matecconf/202540906005",
+      year              = "2025",
+      journal           = "MATEC Web of Conferences",
+      volume            = "409",
+      pages             = "06005",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. K. Sbardelotto, M. G. Vieira, K. F. dos Santos, S. P. dos Santos and B. M. Toralles, “Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA)”, <i>MATEC Web of Conferences</i>, vol. 409, p. 06005, 2025, doi: 10.1051/matecconf/202540906005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sbardelotto, Eduardo Kloeckner, Manuel Gomes Vieira, Karyne Ferreira dos Santos, Samuel Pereira dos Santos, and Berenice Martins Toralles. “Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA)”. <i>MATEC Web of Conferences</i> 409 (2025): 06005. https://doi.org/10.1051/matecconf/202540906005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

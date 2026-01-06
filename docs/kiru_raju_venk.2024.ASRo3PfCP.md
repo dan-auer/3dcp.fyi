@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: K. Kiruthiga, K. Raju, R. Venkatakrishnaiah
+    - footer
+title: Kiruthiga K., Raju K., Venkatakrishnaiah R.
 description:
 tags:
  - construction
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Short Review of 3D Printing from Construction Perspective ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1007/978-981-97-0072-1_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-97-0072-1_24</a>
+#A Short Review of 3D Printing from Construction Perspective ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-0072-1_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-0072-1_24" target="_blank">10.1007/978-981-97-0072-1_24</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7859-1099" title="ORCID: 0000-0001-7859-1099" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kiruthiga_k"><b>Kiruthiga</b>&nbsp;K.</a></span>, <a href="../../../author/raju_vijaya-bhaskar_k"><b>Raju</b>&nbsp;K.</a></span>, <a href="../../../author/venkatakrishnaiah_r"><b>Venkatakrishnaiah</b>&nbsp;R.</a></span><br>
+Contribution - Recent Advances in Civil Engineering for Sustainable Communities, pp. 261-273
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kiruthiga_k"><b>Kiruthiga</b> K.</a> <a href="https://orcid.org/0000-0001-7859-1099" title="ORCID: 0000-0001-7859-1099" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raju_vijaya-bhaskar_k"><b>Raju</b> K.</a>
-,     <a href="../../../author/venkatakrishnaiah_r"><b>Venkatakrishnaiah</b> R.</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Advances in Civil Engineering for Sustainable Communities, pp. 261-273
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#short`](keyword/short)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Short%20Review%20of%203D%20Printing%20from%20Construction%20Perspective" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190284411&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393169802" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-97-0072-1_24" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-97-0072-1_24?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector is the largest employer provider in the world and with a high labor demand. Low productivity and few technological advancements have affected the construction sector for a few decades. In recent times, three-dimensional printing an automated method with layer-by-layer control has developed. Over the past decades, three-dimensional printing has changed along with new technology advancements in productive manufacturing. 3D printing has been done for design optimization and to provide changes over traditional production techniques. To compete in a market that is rapidly changing, all industries should adopt new development. The same applies to the construction sector. As a result, the construction sector is paying close attention to 3D printing technology as a new strategic challenge and also adopted it. Reviewing 3D printing is the paper’s primary goal through automation attempts from construction perspective. In several developing countries, prefabricated construction methods have gradually implemented the practice of mixing and pouring concrete on site.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -70,8 +53,39 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wijethunge_anjalee"><b>Wijethunge</b> Anjalee</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/le_an"><b>Le</b> An</a>, <a href="../../../author/gajanayake_akvan"><b>Gajanayake</b> Akvan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wije_sama_le_gaja.2025.ASRoS3CP/">A Systematic Review on Sustainable 3D Concrete Printing:<br/>Opportunities and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kiru_raju_venk.2024.ASRo3PfCP,
+      author            = "K. Kiruthiga and K. Vijaya Bhaskar Raju and R. Venkatakrishnaiah",
+      title             = "A Short Review of 3D Printing from Construction Perspective",
+      doi               = "10.1007/978-981-97-0072-1_24",
+      year              = "2024",
+      volume            = "459",
+      pages             = "261--273",
+      booktitle         = "Recent Advances in Civil Engineering for Sustainable Communities",
+      editor            = "N. Vinod Chandra Menon and Sreevalsa Kolathayar and Hugo Rodrigues and K. S. Sreekeshava",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Kiruthiga, K. V. B. Raju and R. Venkatakrishnaiah, “A Short Review of 3D Printing from Construction Perspective”, in <i>Recent Advances in Civil Engineering for Sustainable Communities</i>,  2024, vol. 459, pp. 261–273. doi: 10.1007/978-981-97-0072-1_24.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kiruthiga, K., K. Vijaya Bhaskar Raju, and R. Venkatakrishnaiah. “A Short Review of 3D Printing from Construction Perspective”. In <i>Recent Advances in Civil Engineering for Sustainable Communities</i>, edited by N. Vinod Chandra Menon, Sreevalsa Kolathayar, Hugo Rodrigues, and K. S. Sreekeshava, 459:261–73, 2024. https://doi.org/10.1007/978-981-97-0072-1_24.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

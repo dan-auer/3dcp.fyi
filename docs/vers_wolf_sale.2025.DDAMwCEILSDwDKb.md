@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jelle Versteege, Robert Wolfs, Theo Salet
+    - footer
+title: Versteege Jelle, Wolfs Robert, Salet Theo
 description:
 tags:
  - additive
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2025.106327) Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge:<br/>:aca-blank: Part II: Moisture and Heat ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.autcon.2025.106327" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106327</a>
+#Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Part II: Moisture and Heat</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2025.106327) <a href="https://doi.org/10.1016/j.autcon.2025.106327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106327" target="_blank">10.1016/j.autcon.2025.106327</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-0499-7986" title="ORCID: 0009-0007-0499-7986" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/versteege_jelle"><b>Versteege</b>&nbsp;Jelle</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Automation in Construction, Vol. 177, No. 106327
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> <a href="https://orcid.org/0009-0007-0499-7986" title="ORCID: 0009-0007-0499-7986" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 177, No. 106327
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#data`](keyword/data)
-    [`#domain`](keyword/domain)
-    [`#enhancement`](keyword/enhancement)
-    [`#heat`](keyword/heat)
-    [`#knowledge`](keyword/knowledge)
-    [`#line`](keyword/line)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#moist`](keyword/moist)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/domain"><button class="btn">#domain</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/knowledge"><button class="btn">#knowledge</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/moist"><button class="btn">#moist</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Additive%20Manufacturing%20with%20Concrete%20-%20Enhancing%20In-Line%20Sensory%20Data%20with%20Domain%20Knowledge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008508010&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411544506" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106327" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106327?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A data-driven approach to achieving first-time-right manufacturing in digital fabrication with concrete (DFC) relies on in-line sensors to capture real-time measurements. To extract meaningful information (features) from raw sensory data, these sensors must be integrated with knowledge-driven feature engineering (KDFE) strategies. The first paper describes the methodology and its application to geometric data. This paper continues by detailing features related to the dosing, mixing, and pumping of material, the quantification of surface dehydration by employing near-infrared spectroscopy, the measurement of surface temperature using infrared thermography, and the monitoring of atmospheric conditions. Although these in-line sensors provide valuable data, much of it is complex or indirectly related, which requires KDFE. The sensors and features are demonstrated using real-world data, while controlled laboratory experiments are used for their validation. In combination with the features presented in the first paper, this paper offers a comprehensive set of features for 3DCP process monitoring.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "65 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bos_wolf.2022.AVIoNNDFfQCoAM/">Automated Visual Inspection of Near-Nozzle Droplet-Formation for Quality-Control of Additive Manufacturing</a></li>
@@ -136,10 +114,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vers_wolf_sale.2025.DDAMwCEILSDwDK/">Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge:<br/>Part I: Geometry</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vers_wolf_sale.2025.DDAMwCEILSDwDKb,
+      author            = "Jelle Versteege and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+      title             = "Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge: Part II: Moisture and Heat",
+      doi               = "10.1016/j.autcon.2025.106327",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "177",
+      pages             = "106327",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Versteege, R. J. M. Wolfs and T. A. M. Salet, “Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge: Part II: Moisture and Heat”, <i>Automation in Construction</i>, vol. 177, p. 106327, 2025, doi: 10.1016/j.autcon.2025.106327.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Versteege, Jelle, Robert Johannes Maria Wolfs, and Theo A. M. Salet. “Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge: Part II: Moisture and Heat”. <i>Automation in Construction</i> 177 (2025): 106327. https://doi.org/10.1016/j.autcon.2025.106327.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

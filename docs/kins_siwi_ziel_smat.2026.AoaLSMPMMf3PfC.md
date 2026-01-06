@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wojciech Kiński, Przemysław Siwicki, Jacek Zieliński, Michał Smater
+    - footer
+title: Kiński Wojciech, Siwicki Przemysław, Zieliński Jacek, Smater Michał
 description:
 tags:
  - adaption
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/978-3-032-08359-3_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-032-08359-3_11</a>
+#Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-032-08359-3_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-08359-3_11" target="_blank">10.1007/978-3-032-08359-3_11</a>
 
--------------------------
+<a href="../../../author/kinski_wojciech"><b>Kiński</b>&nbsp;Wojciech</a></span>, <a href="../../../author/siwicki_przemyslaw"><b>Siwicki</b>&nbsp;Przemysław</a></span>, <a href="../../../author/zielinski_jacek"><b>Zieliński</b>&nbsp;Jacek</a></span>, <a href="../../../author/smater_michal"><b>Smater</b>&nbsp;Michał</a></span><br>
+Contribution - Recent Advances in Automation, Robotics and Measurement Techniques, pp. 119-125
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kinski_wojciech"><b>Kiński</b> Wojciech</a>
-,     <a href="../../../author/siwicki_przemyslaw"><b>Siwicki</b> Przemysław</a>
-,     <a href="../../../author/zielinski_jacek"><b>Zieliński</b> Jacek</a>
-,     <a href="../../../author/smater_michal"><b>Smater</b> Michał</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Advances in Automation, Robotics and Measurement Techniques, pp. 119-125
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#concrete`](keyword/concrete)
-    [`#large`](keyword/large)
-    [`#machine`](keyword/machine)
-    [`#milling`](keyword/milling)
-    [`#modular`](keyword/modular)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/milling"><button class="btn">#milling</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Adaptation%20of%20a%20Large-Scale%2C%20Modular%20Printer-Milling%20Machine%20for%203D%20Printing%20from%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021836075&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415668749" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-032-08359-3_11" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-032-08359-3_11?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The research team from Łukasiewicz-PIAP, which includes the authors of this article, proposes adapting the existing structure for 3D printing from concrete. The solution described in this article is the reconstruction of the executive tool and appropriate software of the subassembly with the selection of manufacturing process parameters. As a result of the work, an example of the use of the rebuilt structure was shown: printing full-scale concrete stairs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
@@ -74,7 +52,37 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/melesse_bizu_birru"><b>Melesse</b> Birru</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../rehm_mele_kim.2023.SoD3CPCaPOoSAoIHP/">Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties</a></li>
       <li><a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/xie_xingje"><b>Xie</b> Xingje</a>, <a href="../../../author/gao_xiaofan"><b>Gao</b> Xiaofan</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wu_li_xie_gao.2024.SPB3CPfaECB/">Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kins_siwi_ziel_smat.2026.AoaLSMPMMf3PfC,
+      author            = "Wojciech Kiński and Przemysław Siwicki and Jacek Zieliński and Michał Smater",
+      title             = "Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete",
+      doi               = "10.1007/978-3-032-08359-3_11",
+      year              = "2026",
+      volume            = "1687",
+      pages             = "119--125",
+      booktitle         = "Recent Advances in Automation, Robotics and Measurement Techniques",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Kiński, P. Siwicki, J. Zieliński and M. Smater, “Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete”, in <i>Recent Advances in Automation, Robotics and Measurement Techniques</i>,  2026, vol. 1687, pp. 119–125. doi: 10.1007/978-3-032-08359-3_11.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kiński, Wojciech, Przemysław Siwicki, Jacek Zieliński, and Michał Smater. “Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete”. In <i>Recent Advances in Automation, Robotics and Measurement Techniques</i>, 1687:119–25, 2026. https://doi.org/10.1007/978-3-032-08359-3_11.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

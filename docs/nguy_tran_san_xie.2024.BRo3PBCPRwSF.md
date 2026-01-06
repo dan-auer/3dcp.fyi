@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vuong Nguyen, Jonathan Tran, Ngoc San Ha, Yi Xie, Farhad Aslani
+    - footer
+title: Nguyen Vuong, Tran Jonathan, San Ha Ngoc, Xie Yi, Aslani Farhad
 description:
 tags:
  - blast
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers:<br/>:aca-blank: Numerical Investigations ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.compstruct.2024.118481" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruct.2024.118481</a>
+#Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Numerical Investigations</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruct.2024.118481" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2024.118481" target="_blank">10.1016/j.compstruct.2024.118481</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_vuong"><b>van&nbsp;Nguyen</b>&nbsp;Vuong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span>, <a href="../../../author/san-ha_ngoc"><b>San Ha</b>&nbsp;Ngoc</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
+Journal Article - Composite Structures, No. 118481
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> <a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/san-ha_ngoc"><b>San Ha</b> Ngoc</a>
-,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composite Structures, No. 118481
-
-:aca-blank:{ .lg .middle}
-    [`#blast`](keyword/blast)
-    [`#bouligand`](keyword/bouligand)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#investigation`](keyword/investigation)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#resistance`](keyword/resistance)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/blast"><button class="btn">#blast</button></a> <a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Blast-Resistance%20of%203D%20Printed%20Bouligand%20Concrete%20Panels%20Reinforced%20with%20Steel-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201410230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401480056" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruct.2024.118481" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruct.2024.118481?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete structures inspired by Bouligand architecture with helically twisted sequences exhibit excellent mechanical performance owing to its aligned fiber orientation. In this study, 3D-printed concrete panels with different numbers of layers (five, ten, and 15 layers) and spiral angles (0°, 15°, 30°, and 45°) are designed for numerical investigations of their blast-resistant capacity. A multi-scale model is developed to capture the isotropic and anisotropic properties of the fiber-concrete composite. The adequacy and accuracy of the model are evaluated and validated by experimental data in the literature. Blast resistance of different types of panels in terms of time histories of central-point deflection, contact explosion-induced plastic dissipation energy, stress propagation, and principal stress distribution is examined. It is found that extrusion-based concrete panels with aligned fiber orientation substantially enhance the blast resistance compared to traditional cast concrete panels with random fiber orientation. Furthermore, more layers of printed concrete panels prove to be more efficient in filtering blast waves. In particular, shifting a pitch angle of 30° after printing each layer plays an important role in reducing the maximum deflection. Meanwhile, 3D-printed concrete panels with a pitch angle of 0° can better mitigate blast-induced damage. Through parametric studies, the intrinsic mechanism of steel fibers aligned in 3D-printed panels is numerically analyzed to support the conclusions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>
@@ -91,7 +67,37 @@ tags:
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD/">A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nguy_tran_san_xie.2024.BRo3PBCPRwSF,
+      author            = "Vuong van Nguyen and Jonathan Phuong Tran and Ngoc San Ha and Yi Min Xie and Farhad Aslani",
+      title             = "Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers: Numerical Investigations",
+      doi               = "10.1016/j.compstruct.2024.118481",
+      year              = "2024",
+      journal           = "Composite Structures",
+      pages             = "118481",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. van Nguyen, J. P. Tran, N. S. Ha, Y. M. Xie and F. Aslani, “Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers: Numerical Investigations”, <i>Composite Structures</i>, p. 118481, 2024, doi: 10.1016/j.compstruct.2024.118481.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nguyen, Vuong van, Jonathan Phuong Tran, Ngoc San Ha, Yi Min Xie, and Farhad Aslani. “Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers: Numerical Investigations”. <i>Composite Structures</i>, 2024, 118481. https://doi.org/10.1016/j.compstruct.2024.118481.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

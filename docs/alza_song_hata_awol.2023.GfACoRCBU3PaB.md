@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ammar Alzarrad, Siyuan Song, Muhammad Hatamleh, Ibukun Awolusi, Sudipta Chowdhury
+    - footer
+title: Alzarrad Ammar, Song Siyuan, Hatamleh Muhammad, Awolusi Ibukun, Chowdhury Sudipta
 description:
 tags:
  - automation
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Guideline for Automated Construction of Reinforced Concrete Beams Using 3D Printing and BIM ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1061/9780784485224.087" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/9780784485224.087</a>
+#Guideline for Automated Construction of Reinforced Concrete Beams Using 3D Printing and BIM ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784485224.087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784485224.087" target="_blank">10.1061/9780784485224.087</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6012-5679" title="ORCID: 0000-0002-6012-5679" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alzarrad_ammar"><b>Alzarrad</b>&nbsp;Ammar</a></span>, <a href="../../../author/song_siyuan"><b>Song</b>&nbsp;Siyuan</a></span>, <a href="../../../author/hatamleh_t_muhammad"><b>Hatamleh</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8723-8609" title="ORCID: 0000-0001-8723-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/awolusi_ibukun"><b>Awolusi</b>&nbsp;Ibukun</a></span>, <a href="../../../author/chowdhury_sudipta"><b>Chowdhury</b>&nbsp;Sudipta</a></span><br>
+Contribution - Proceedings of the ASCE International Conference on Computing in Civil Engineering 2023
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alzarrad_ammar"><b>Alzarrad</b> Ammar</a> <a href="https://orcid.org/0000-0002-6012-5679" title="ORCID: 0000-0002-6012-5679" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/song_siyuan"><b>Song</b> Siyuan</a>
-,     <a href="../../../author/hatamleh_t_muhammad"><b>Hatamleh</b> Muhammad</a>
-,     <a href="../../../author/awolusi_ibukun"><b>Awolusi</b> Ibukun</a> <a href="https://orcid.org/0000-0001-8723-8609" title="ORCID: 0000-0001-8723-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chowdhury_sudipta"><b>Chowdhury</b> Sudipta</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the ASCE International Conference on Computing in Civil Engineering 2023, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#beam`](keyword/beam)
-    [`#bim`](keyword/bim)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#guideline`](keyword/guideline)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/guideline"><button class="btn">#guideline</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Guideline%20for%20Automated%20Construction%20of%20Reinforced%20Concrete%20Beams%20Using%203D%20Printing%20and%20BIM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184283890&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,21 +38,46 @@ tags:
 <a href="https://inciteful.xyz/p/W4392455762" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/9780784485224.087" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/9780784485224.087?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic construction and 3D printing are revolutionizing the construction industry by offering numerous advantages over traditional building methods. Automated construction with robotics is faster, more efficient, and more precise, resulting in cost savings and shorter project timelines. Moreover, the use of robots reduces the reliance on manual labor, improving worker safety and reducing the risk of injuries. Additionally, the robotic approach ensures a more consistent and uniform end product with fewer variations or defects compared to traditional methods. This paper presents an eight-step guideline for automatically constructing reinforced concrete beams using building information modeling (BIM) and 3D printing. This paper serves as a stepping-stone toward increased automation in construction, providing valuable insights for optimizing construction processes. By integrating BIM and 3D printing, construction projects can benefit from improved efficiency, reduced costs, and enhanced quality, propelling the industry toward a more automated future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yue_hongzhe"><b>Yue</b> Hongzhe</a>, <a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/zhao_zixuan"><b>Zhao</b> Zixuan</a>, <a href="../../../author/lai_sha"><b>Lai</b> Sha</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yue_wang_zhao_lai.2025.IBBaR/">Interactions Between BIM and Robotics:<br/>Towards Intelligent Construction Engineering and Management</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{alza_song_hata_awol.2023.GfACoRCBU3PaB,
+      author            = "Ammar Alzarrad and Siyuan Song and Muhammad T. Hatamleh and Ibukun Awolusi and Sudipta Chowdhury",
+      title             = "Guideline for Automated Construction of Reinforced Concrete Beams Using 3D Printing and BIM",
+      doi               = "10.1061/9780784485224.087",
+      year              = "2023",
+      booktitle         = "Proceedings of the ASCE International Conference on Computing in Civil Engineering 2023: Data, Sensing, and Analytics",
+      editor            = "Yelda Turkan and Joseph Louis and Fernanda Leite and Semiha Ergan",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Alzarrad, S. Song, M. T. Hatamleh, I. Awolusi and S. Chowdhury, “Guideline for Automated Construction of Reinforced Concrete Beams Using 3D Printing and BIM”, in <i>Proceedings of the ASCE International Conference on Computing in Civil Engineering 2023: Data, Sensing, and Analytics</i>,  2023. doi: 10.1061/9780784485224.087.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alzarrad, Ammar, Siyuan Song, Muhammad T. Hatamleh, Ibukun Awolusi, and Sudipta Chowdhury. “Guideline for Automated Construction of Reinforced Concrete Beams Using 3D Printing and BIM”. In <i>Proceedings of the ASCE International Conference on Computing in Civil Engineering 2023: Data, Sensing, and Analytics</i>, edited by Yelda Turkan, Joseph Louis, Fernanda Leite, and Semiha Ergan, 2023. https://doi.org/10.1061/9780784485224.087.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

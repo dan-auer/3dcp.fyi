@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li Wang, Hui Ma, Zhijian Li, Guowei Ma, Jingyuan Guan
+    - footer
+title: Wang Li, Ma Hui, Li Zhijian, Ma Guowei, Guan Jingyuan
 description:
 tags:
  - blend
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing ([2021-07](date/2021/07))
-<a href="https://doi.org/10.1016/j.addma.2021.102189" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2021.102189</a>
+#Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing ([2021-07](date/2021/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2021.102189" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102189" target="_blank">10.1016/j.addma.2021.102189</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/ma_hui"><b>Ma</b>&nbsp;Hui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/guan_jingyuan"><b>Guan</b>&nbsp;Jingyuan</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 46
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>
-,     <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 46, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#blend`](keyword/blend)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#heat`](keyword/heat)
-    [`#height`](keyword/height)
-    [`#large`](keyword/large)
-    [`#medium`](keyword/medium)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#sulfoaluminate`](keyword/sulfoaluminate)
-
-
--------------------------
+<a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/medium"><button class="btn">#medium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cementitious%20Composites%20Blending%20with%20High%20Belite-Sulfoaluminate%20and%20Medium-Heat%20Portland%20Cements%20for%20Large-Scale%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111480212&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3184488319" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2021.102189" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2021.102189?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious composites blended with high Belite sulfoaluminate cement and medium-heat Portland cements were optimized to achieve both favorable 3D printability and durability performance. The influence of the hybrid cement ratio on the rheology and the hardened properties, such as mechanical properties, drying shrinkage, and carbonization resistance, was systematically investigated. The results revealed that the mixture incorporated with 80% CSA-HB cement exhibited excellent early strength, and a 1d compressive strength higher than 30 MPa was achieved. Hybrid mixing of CSA-HB and P⋅MH reduces the super-early age hydration heat by 37.8%. Meanwhile, the 28-day carbonization depth of the mixture with 80% P⋅MH cement was 52.4% lower than that comprising a high content of CSA-HB. The designed mixtures were compatible with the printing process and validated by the printing practice of 9.4 m-span arch components using a large-scale robotic printer.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -106,8 +81,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "52 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
@@ -161,4 +136,33 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_ma_li_ma.2021.CCBwHBSaMHPCfLS3P,
+      author            = "Li Wang and Hui Ma and Zhijian Li and Guowei Ma and Jingyuan Guan",
+      title             = "Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing",
+      doi               = "10.1016/j.addma.2021.102189",
+      year              = "2021",
+      journal           = "Additive Manufacturing",
+      volume            = "46",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, H. Ma, Z. Li, G. Ma and J. Guan, “Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing”, <i>Additive Manufacturing</i>, vol. 46, 2021, doi: 10.1016/j.addma.2021.102189.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Li, Hui Ma, Zhijian Li, Guowei Ma, and Jingyuan Guan. “Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing”. <i>Additive Manufacturing</i> 46 (2021). https://doi.org/10.1016/j.addma.2021.102189.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hualong Li, Ye Shi, Hui Rong, Kaichao Dai
+    - footer
+title: Li Hualong, Shi Ye, Rong Hui, Dai Kaichao
 description:
 tags:
  - additive
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.jobe.2025.112451" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112451</a>
+#Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112451" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112451" target="_blank">10.1016/j.jobe.2025.112451</a>
 
--------------------------
+<a href="../../../author/li_hualong"><b>Li</b>&nbsp;Hualong</a></span>, <a href="../../../author/shi_ye"><b>Shi</b>&nbsp;Ye</a></span>, <a href="../../../author/rong_hui"><b>Rong</b>&nbsp;Hui</a></span>, <a href="../../../author/dai_kaichao"><b>Dai</b>&nbsp;Kaichao</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112451
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_hualong"><b>Li</b> Hualong</a>
-,     <a href="../../../author/shi_ye"><b>Shi</b> Ye</a>
-,     <a href="../../../author/rong_hui"><b>Rong</b> Hui</a>
-,     <a href="../../../author/dai_kaichao"><b>Dai</b> Kaichao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112451
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Additives%20on%20the%20Performance%20of%203D-Printing%20Ultra-High%20Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000515973&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408725945" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112451" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112451?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Developing 3D-printable (3DP) ultra-high performance concrete (UHPC) represents a significant hotspot in the concrete construction field. However, conventional UHPC cannot meet the requirements of printability, and the incorporation of additives is considered an effective strategy to solve these problems. The research on 3DP-UHPC from the perspective of additives in this field is relatively lacking. This study systematically investigates the printability and mechanical properties of 3D-printed ultra-high performance concrete (3DP-UHPC) by combining the hydrated phase, pore structure and micro-morphology of 3DP-UHPC with two different types of additives: inorganic nanomaterials (bentonite (BT)) and chemical polymers (polyacrylamide (PAM)). The results show that the fluidity and extrudability of 3DP-UHPC gradually decrease with increasing additive content while demonstrating an enhancement in buildability. Moreover, BT and PAM have different effects on the flexural strength, flexural strength and interlayer bonding strength of 3DP-UHPC. Although BT and PAM own different mechanisms of function for promoting the hydration of 3DP-UHPC, they can reduce the porosity of 3DP-UHPC and increase the mechanical properties of the matrix. This study shows that 3DP-UHCP displays better printability and mechanical properties when the BT and PAM doping are 0.5% and 0.06%, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
@@ -109,10 +89,39 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_shi_rong_dai.2025.EoAotPo3PUHPC,
+      author            = "Hualong Li and Ye Shi and Hui Rong and Kaichao Dai",
+      title             = "Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete",
+      doi               = "10.1016/j.jobe.2025.112451",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112451",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Li, Y. Shi, H. Rong and K. Dai, “Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete”, <i>Journal of Building Engineering</i>, p. 112451, 2025, doi: 10.1016/j.jobe.2025.112451.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Hualong, Ye Shi, Hui Rong, and Kaichao Dai. “Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete”. <i>Journal of Building Engineering</i>, 2025, 112451. https://doi.org/10.1016/j.jobe.2025.112451.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

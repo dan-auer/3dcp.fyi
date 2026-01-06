@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuxiang He, Annika Robens-Radermacher, Sakiko Noda, Christoph Wolf, Jörg Unger, Inka Mai (née Dressler)
+    - footer
+title: He Yuxiang, Robens-Radermacher Annika, Noda Sakiko, Wolf Christoph, Unger Jörg, Mai (née Dressler) Inka
 description:
 tags:
  - additive
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Workflows for Concrete Additive Manufacturing for Design, Optimization, and Fabrication of Parametrized Elements ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1007/978-3-031-70281-5_28" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70281-5_28</a>
+#Automated Workflows for Concrete Additive Manufacturing for Design, Optimization, and Fabrication of Parametrized Elements ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70281-5_28" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70281-5_28" target="_blank">10.1007/978-3-031-70281-5_28</a>
 
--------------------------
+<a href="../../../author/he_yuxiang"><b>He</b>&nbsp;Yuxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9653-6085" title="ORCID: 0000-0001-9653-6085" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b>&nbsp;Annika</a></span>, <a href="../../../author/noda_sakiko"><b>Noda</b>&nbsp;Sakiko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0832-8073" title="ORCID: 0000-0002-0832-8073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_christoph"><b>Wolf</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0035-0951" title="ORCID: 0000-0003-0035-0951" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unger_f_jorg"><b>Unger</b>&nbsp;Jörg</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span><br>
+Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 247-254
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/he_yuxiang"><b>He</b> Yuxiang</a>
-,     <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a> <a href="https://orcid.org/0000-0001-9653-6085" title="ORCID: 0000-0001-9653-6085" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/noda_sakiko"><b>Noda</b> Sakiko</a>
-,     <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a> <a href="https://orcid.org/0000-0002-0832-8073" title="ORCID: 0000-0002-0832-8073" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> <a href="https://orcid.org/0000-0003-0035-0951" title="ORCID: 0000-0003-0035-0951" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 247-254
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#element`](keyword/element)
-    [`#fabrication`](keyword/fabrication)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#optimization`](keyword/optimization)
-    [`#parameter`](keyword/parameter)
-    [`#workflow`](keyword/workflow)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Workflows%20for%20Concrete%20Additive%20Manufacturing%20for%20Design%2C%20Optimization%2C%20and%20Fabrication%20of%20Parametrized%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208975481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404054855" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70281-5_28" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70281-5_28?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an innovative new construction technology offering the potential to enable the efficient production of individual structures with less consumption of resources. The technology will mainly shape the future construction philosophy. From the design of a structure to the printed component, many individual steps based on different software are required, which must be repeated for each new or even slightly changed design. The geometry of the structure is created in a CAD program. The print path is defined in slicer software leading to the machine code for the printer to print the structure. A numerical model of the printed structure makes optimization in design and fabrication possible, by predicting the behaviour of the structure and reducing the number of test prints and costs. For that, additional steps like meshing the design and running a simulation are required. In order to work efficiently, an automated workflow is necessary, which runs all of the individual steps without interacting with each software program. Furthermore, changes in parameters or the exchange of parts (different designs or printers) must be simple. One way to develop such an automated workflow is presented within this paper. The interfaces are defined in a way that allows running the full chain of tools as well as individual steps. The workflow is demonstrated based on the example of a parametrized wall element for extrusion-based concrete. Furthermore, a test series of cubes is printed, and the influence ofdifferent infill structures is numerically and experimentally compared.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anane_walid"><b>Anane</b> Walid</a>, <a href="../../../author/iordanova_ivanka"><b>Iordanova</b> Ivanka</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../anan_iord_ouel.2023.TUoBfR3CP/">The Use of BIM for Robotic 3D Concrete Printing</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -81,7 +55,38 @@ tags:
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{he_robe_noda_wolf.2025.AWfCAMfDOaFoPE,
+      author            = "Yuxiang He and Annika Robens-Radermacher and Sakiko Noda and Christoph Wolf and Jörg F. Unger and Inka Mai (née Dressler)",
+      title             = "Automated Workflows for Concrete Additive Manufacturing for Design, Optimization, and Fabrication of Parametrized Elements",
+      doi               = "10.1007/978-3-031-70281-5_28",
+      year              = "2025",
+      volume            = "56",
+      pages             = "247--254",
+      booktitle         = "Proceedings of the RILEM Spring Convention and Conference 2024",
+      editor            = "Liberato Ferrara and Giovanni Muciaccia and Davide di Summa",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. He, A. Robens-Radermacher, S. Noda, C. Wolf, J. F. Unger and I. M. (née Dressler), “Automated Workflows for Concrete Additive Manufacturing for Design, Optimization, and Fabrication of Parametrized Elements”, in <i>Proceedings of the RILEM Spring Convention and Conference 2024</i>,  2025, vol. 56, pp. 247–254. doi: 10.1007/978-3-031-70281-5_28.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">He, Yuxiang, Annika Robens-Radermacher, Sakiko Noda, Christoph Wolf, Jörg F. Unger, and Inka Mai (née Dressler). “Automated Workflows for Concrete Additive Manufacturing for Design, Optimization, and Fabrication of Parametrized Elements”. In <i>Proceedings of the RILEM Spring Convention and Conference 2024</i>, edited by Liberato Ferrara, Giovanni Muciaccia, and Davide di Summa, 56:247–54, 2025. https://doi.org/10.1007/978-3-031-70281-5_28.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

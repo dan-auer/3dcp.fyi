@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hamad Jassmi, Fady Najjar, Abdel-Hamid Mourad
+    - footer
+title: Jassmi Hamad, Najjar Fady, Mourad Abdel-Hamid
 description:
 tags:
  - large
@@ -11,26 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1757-899x/324/1/012088) Large-Scale 3D Printing:<br/>:aca-blank: The Way Forward ([2018-04](date/2018/04))
-<a href="https://doi.org/10.1088/1757-899x/324/1/012088" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1757-899x/324/1/012088</a>
+#Large-Scale 3D Printing&nbsp;([2018-04](date/2018/04))
+<div class="h1-like">The Way Forward</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/324/1/012088) <a href="https://doi.org/10.1088/1757-899x/324/1/012088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/324/1/012088" target="_blank">10.1088/1757-899x/324/1/012088</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4230-4067" title="ORCID: 0000-0002-4230-4067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jassmi_hamad"><b>al&nbsp;Jassmi</b>&nbsp;Hamad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6102-3765" title="ORCID: 0000-0001-6102-3765" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/najjar_fady"><b>al&nbsp;Najjar</b>&nbsp;Fady</a></span>, <a href="../../../author/mourad_ismail_abdel-hamid"><b>Mourad</b>&nbsp;Abdel-Hamid</a></span><br>
+Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 324
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jassmi_hamad"><b>al Jassmi</b> Hamad</a> <a href="https://orcid.org/0000-0002-4230-4067" title="ORCID: 0000-0002-4230-4067" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/najjar_fady"><b>al Najjar</b> Fady</a> <a href="https://orcid.org/0000-0001-6102-3765" title="ORCID: 0000-0001-6102-3765" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mourad_ismail_abdel-hamid"><b>Mourad</b> Abdel-Hamid</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 324, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046268622&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,22 +34,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2795937275" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1757-899x/324/1/012088" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1757-899x/324/1/012088?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Research on small-scale 3D printing has rapidly evolved, where numerous industrial products have been tested and successfully applied. Nonetheless, research on large-scale 3D printing, directed to large-scale applications such as construction and automotive manufacturing, yet demands a great a great deal of efforts. Large-scale 3D printing is considered an interdisciplinary topic and requires establishing a blended knowledge base from numerous research fields including structural engineering, materials science, mechatronics, software engineering, artificial intelligence and architectural engineering. This review article summarizes key topics of relevance to new research trends on large-scale 3D printing, particularly pertaining (1) technological solutions of additive construction (i.e. the 3D printers themselves), (2) materials science challenges, and (3) new design opportunities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a> <a href="../../../date/2014/05">(2014-05)</a><br><a href="../../../gard_jans.2014.F/">FreeFab:<br/>Development of a Construction-Scale Robotic Formwork 3D Printer</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
-      <li><a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/najjar_fady"><b>Najjar</b> Fady</a>, <a href="../../../author/mourad_ismail_abdel-hamid"><b>Mourad</b> Abdel-Hamid</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../jass_najj_mour.2018.LS3P/">Large-Scale 3D Printing:<br/>The Way Forward</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
@@ -71,8 +55,8 @@ tags:
       <li><a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a> <a href="../../../date/2005/11">(2005-11)</a><br><a href="../../../soar.2005.AMTftCI/">Additive Manufacturing Technologies for the Construction Industry</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/dara_seni"><b>Dara</b> Seni</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_dara_abde.2025.ESSoSS3PEBCURA/">Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/romani_alessia"><b>Romani</b> Alessia</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../roma_levi.2024.LFMEAMfCEP/">Large-Format Material-Extrusion Additive Manufacturing for Circular Economy Practices:<br/>A Focus on Product-Applications with Materials from Recycled Plastics and Biomass-Waste</a></li>
@@ -95,6 +79,34 @@ tags:
       <li><a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../jago_digg_krei_schu.2020.TVaSo3PC/">The Viability and Simplicity of 3D Printed Construction:<br/>A Military Case Study</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/guseynova_gyunay"><b>Guseynova</b> Gyunay</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../mark_nere_schr_guse.2019.MDaPEoFCfDF/">Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
-      <li><a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/najjar_fady"><b>Najjar</b> Fady</a>, <a href="../../../author/mourad_ismail_abdel-hamid"><b>Mourad</b> Abdel-Hamid</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../jass_najj_mour.2018.LS3P/">Large-Scale 3D Printing:<br/>The Way Forward</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jass_najj_mour.2018.LS3P,
+      author            = "Hamad Al Jassmi and Fady al Najjar and Abdel-Hamid Ismail Mourad",
+      title             = "Large-Scale 3D Printing: The Way Forward",
+      doi               = "10.1088/1757-899x/324/1/012088",
+      year              = "2018",
+      journal           = "IOP Conference Series: Materials Science and Engineering",
+      volume            = "324",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. A. Jassmi, F. al Najjar and A.-H. I. Mourad, “Large-Scale 3D Printing: The Way Forward”, <i>IOP Conference Series: Materials Science and Engineering</i>, vol. 324, 2018, doi: 10.1088/1757-899x/324/1/012088.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jassmi, Hamad Al, Fady al Najjar, and Abdel-Hamid Ismail Mourad. “Large-Scale 3D Printing: The Way Forward”. <i>IOP Conference Series: Materials Science and Engineering</i> 324 (2018). https://doi.org/10.1088/1757-899x/324/1/012088.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

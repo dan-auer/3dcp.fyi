@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zahra Miri, Hassan Baaj, Maria Polak
+    - footer
+title: Miri Zahra, Baaj Hassan, Polak Maria
 description:
 tags:
  - bridge
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/app15063054) 3D-Printed Concrete Bridges:<br/>:aca-blank: Material, Design, Construction, and Reinforcement ([2025-03](date/2025/03))
-<a href="https://doi.org/10.3390/app15063054" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app15063054</a>
+#3D-Printed Concrete Bridges&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">Material, Design, Construction, and Reinforcement</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/app15063054) <a href="https://doi.org/10.3390/app15063054" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15063054" target="_blank">10.3390/app15063054</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-5503-9502" title="ORCID: 0009-0006-5503-9502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miri_sadat_zahra"><b>Miri</b>&nbsp;Zahra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baaj_hassan"><b>Baaj</b>&nbsp;Hassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1653-3915" title="ORCID: 0000-0002-1653-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/polak_anna_maria"><b>Polak</b>&nbsp;Maria</a></span><br>
+Journal Article - Applied Sciences, Vol. 15, Iss. 6, No. 3054
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a> <a href="https://orcid.org/0009-0006-5503-9502" title="ORCID: 0009-0006-5503-9502" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a> <a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="https://orcid.org/0000-0002-1653-3915" title="ORCID: 0000-0002-1653-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 15, Iss. 6, No. 3054
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D-Printed%20Concrete%20Bridges" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000889109&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408373458" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app15063054" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app15063054?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) technology is rapidly gaining popularity in the construction industry, particularly for transportation infrastructure such as bridges. Unlike traditional construction methods, this innovative approach eliminates the need for formwork and enhances both economic efficiency and sustainability by lowering resource consumption and waste generation associated with formwork. This paper examines current research on 3D-printed concrete bridges, highlighting key areas such as concrete mixtures, design processes, construction techniques, and reinforcement strategies. It delves into computational methods like topology optimization and iterative “design by testing” approaches, which are crucial for developing structurally efficient and architecturally innovative bridges. Additionally, it reviews specific admixtures or additives within the concrete mix, assessing how they improve essential properties of printable concrete, including extrudability, buildability, and interlayer bonding. Moreover, it shows that the primary construction approach for 3DCP bridges involves prefabrication and on-site assembly, with robotic arm printers leading to scalability and precision. Reinforcement continues to be challenging, with the most commonly used strategies being post-tensioning, hybrid techniques, and fiber reinforcement. This paper offers insights into the advancements and challenges in 3D-printed concrete bridge construction, providing valuable guidance for future research and development in this field.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
@@ -101,9 +82,40 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhou_yuan_zhou.2021.DaFoa3CPPSB/">Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
       <li><a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b> Zeynep</a>, <a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../iler_takv_top_gokg.2025.TEo3CPTiAD/">The Effectiveness of 3D Concrete Printing Technology in Architectural Design:<br/>Different Corner-Wall Combinations in 3D Printed Elements and Geometric Form Configurations in Residential Buildings</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{miri_baaj_pola.2025.3PCB,
+      author            = "Zahra Sadat Miri and Hassan Baaj and Maria Anna Polak",
+      title             = "3D-Printed Concrete Bridges: Material, Design, Construction, and Reinforcement",
+      doi               = "10.3390/app15063054",
+      year              = "2025",
+      journal           = "Applied Sciences",
+      volume            = "15",
+      number            = "6",
+      pages             = "3054",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. S. Miri, H. Baaj and M. A. Polak, “3D-Printed Concrete Bridges: Material, Design, Construction, and Reinforcement”, <i>Applied Sciences</i>, vol. 15, no. 6, p. 3054, 2025, doi: 10.3390/app15063054.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Miri, Zahra Sadat, Hassan Baaj, and Maria Anna Polak. “3D-Printed Concrete Bridges: Material, Design, Construction, and Reinforcement”. <i>Applied Sciences</i> 15, no. 6 (2025): 3054. https://doi.org/10.3390/app15063054.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

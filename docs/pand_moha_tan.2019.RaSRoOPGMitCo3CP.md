@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Biranchi Panda, Nisar Mohamed, Ming Tan
+    - footer
+title: Panda Biranchi, Mohamed Nisar, Tan Ming
 description:
 tags:
  - concrete
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology and Structural Rebuilding of One-Part Geopolymer Mortar in the Context of 3D Concrete Printing ([2019-09](date/2019/09))
-<a href="https://doi.org/10.1007/978-3-030-22566-7_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-22566-7_49</a>
+#Rheology and Structural Rebuilding of One-Part Geopolymer Mortar in the Context of 3D Concrete Printing ([2019-09](date/2019/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-22566-7_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_49" target="_blank">10.1007/978-3-030-22566-7_49</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b>&nbsp;Nisar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 426-431
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 426-431
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Structural%20Rebuilding%20of%20One-Part%20Geopolymer%20Mortar%20in%20the%20Context%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071485276&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,19 +36,14 @@ tags:
 <a href="https://inciteful.xyz/p/W2969803340" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-22566-7_49" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-22566-7_49?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The employment of automation in construction has not yet reached its full potential. 3D concrete printing is one of the promising construction techniques which has drawn a lot of attention due to its unique benefit in terms of higher productivity, faster construction processes, geometrical freedom, and cost-efficiency. With the number of 3D printing projects increasing rapidly, the demand for accurate measurement of concrete fresh property is also increasing. Therefore, in this paper rheology and structural rebuilding properties are investigated to understand printability and buildability attributes of one-part geopolymer mixtures. A custom made geopolymer binder was designed for extrusion-based 3D printing and the fresh geopolymer was tested in different resting time to reveal the structural rebuilding property via measurement of compressive green strength. The material test result shows that the green strength increases with fresh concrete age, as does the static yield strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hoja_sedg_li_mema.2024.FSo3PCB/">Flexural Strength of 3D Printed Concrete Beams:<br/>Exploring Barbed-Wire Reinforcement and Cross-Sectional Geometry</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/zahiri_behnam"><b>Zahiri</b> Behnam</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> et al. <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../khos_yuan_zahi_zhan.2016.CbCCUSCwPA/">Construction by Contour Crafting Using Sulfur-Concrete with Planetary Applications</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nema_xia_bong_sanj.2019.HPo3POPGfCA/">Hardened Properties of 3D Printable One-Part Geopolymer for Construction Applications</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
@@ -75,10 +55,41 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC/">A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/atesli_tolga_anil"><b>Ateşli</b> Anıl</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sahi_ilca_ates_kul.2021.CaDWBGSfUi3AM/">Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pand_moha_tan.2019.RaSRoOPGMitCo3CP,
+      author            = "Biranchi Narayan Panda and Nisar Ahamed Noor Mohamed and Ming Jen Tan",
+      title             = "Rheology and Structural Rebuilding of One-Part Geopolymer Mortar in the Context of 3D Concrete Printing",
+      doi               = "10.1007/978-3-030-22566-7_49",
+      year              = "2019",
+      volume            = "23",
+      pages             = "426--431",
+      booktitle         = "Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete",
+      editor            = "Viktor Mechtcherine and Kamal H. Khayat and Egor Secrieru",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. N. Panda, N. A. N. Mohamed and M. J. Tan, “Rheology and Structural Rebuilding of One-Part Geopolymer Mortar in the Context of 3D Concrete Printing”, in <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>,  2019, vol. 23, pp. 426–431. doi: 10.1007/978-3-030-22566-7_49.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Panda, Biranchi Narayan, Nisar Ahamed Noor Mohamed, and Ming Jen Tan. “Rheology and Structural Rebuilding of One-Part Geopolymer Mortar in the Context of 3D Concrete Printing”. In <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>, edited by Viktor Mechtcherine, Kamal H. Khayat, and Egor Secrieru, 23:426–31, 2019. https://doi.org/10.1007/978-3-030-22566-7_49.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

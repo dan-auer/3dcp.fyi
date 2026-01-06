@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Deena Mahdy, Seni Dara, Marwa Abdelrahim
+    - footer
+title: Mahdy Deena, Dara Seni, Abdelrahim Marwa
 description:
 tags:
  - arm
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1080/17452007.2025.2506640" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452007.2025.2506640</a>
+#Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/17452007.2025.2506640" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452007.2025.2506640" target="_blank">10.1080/17452007.2025.2506640</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdy_deena"><b>el&nbsp;Mahdy</b>&nbsp;Deena</a></span>, <a href="../../../author/dara_seni"><b>Dara</b>&nbsp;Seni</a></span>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b>&nbsp;Marwa</a></span><br>
+Journal Article - Architectural Engineering and Design Management, pp. 1-24
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mahdy_deena"><b>el Mahdy</b> Deena</a> <a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dara_seni"><b>Dara</b> Seni</a>
-,     <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Engineering and Design Management, pp. 1-24
-
-:aca-blank:{ .lg .middle}
-    [`#arm`](keyword/arm)
-    [`#base`](keyword/base)
-    [`#cantilever`](keyword/cantilever)
-    [`#earth`](keyword/earth)
-    [`#evaluation`](keyword/evaluation)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#self`](keyword/self)
-    [`#stability`](keyword/stability)
-    [`#structure`](keyword/structure)
-    [`#support`](keyword/support)
-
-
--------------------------
+<a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cantilever"><button class="btn">#cantilever</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20Structure%20Stability%20of%20Self-Supporting%203D%20Printed%20Earth-Based%20Cantilevers%20Using%20Robotic%20ARM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007734178&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411164921" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452007.2025.2506640" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452007.2025.2506640?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While the 3D printing is increasingly being adopted in construction; earthen materials lack rigidity necessary to support complex overhanging structures during the printing process, which requires careful consideration during design and printing phases to maintain structural stability and optimize material usage. This research evaluates the structural stability of 3D-printed self-supporting cantilevers at various scales. The method involved both digital and physical testing to achieve maximum cantilever length. The digital test includes structural analysis simulation using Karamba3D plugin in Grasshopper to predict potential failure before printing. While the physical test includes using 3D printing with earth in two scales to verify the optimal cantilever design before scaling up. The small-scale tests are conducted for the catalog of geometries using a desktop 3D printer, while the large-scale test is done for the optimum stable geometry using a robotic arm. The findings reveal that the printing scale impacts structural behavior, with larger volumes resulting in critical buckling loads causing failure. Cantilever analysis offers insights into potential loads on the designs, helping to mitigate failure risks prior to printing. This demonstrates that stability at a small scale cannot be reliably extrapolated to ensure stability at a larger scale without physical material testing, digital geometry validation, and appropriate machines selection. Consequently, testing segments of the cantilever at a larger scale before on-site implementation is crucial to save time and materials. Further research is required to improve the printability of these structures to achieve greater stability under varying climatic conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
@@ -102,7 +78,36 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mahd_dara_abde.2025.ESSoSS3PEBCURA,
+      author            = "Deena El Mahdy and Seni Dara and Marwa Abdelrahim",
+      title             = "Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM",
+      doi               = "10.1080/17452007.2025.2506640",
+      year              = "2025",
+      journal           = "Architectural Engineering and Design Management",
+      pages             = "1--24",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. E. Mahdy, S. Dara and M. Abdelrahim, “Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM”, <i>Architectural Engineering and Design Management</i>, pp. 1–24, 2025, doi: 10.1080/17452007.2025.2506640.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mahdy, Deena El, Seni Dara, and Marwa Abdelrahim. “Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM”. <i>Architectural Engineering and Design Management</i>, 2025, 1–24. https://doi.org/10.1080/17452007.2025.2506640.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

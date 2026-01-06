@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mirza Beigh, Venkatesh Nerella, Christof Schröfl, Viktor Mechtcherine
+    - footer
+title: Beigh Mirza, Nerella Venkatesh, Schröfl Christof, Mechtcherine Viktor
 description:
 tags:
  - base
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing ([2015-06](date/2015/06))
-<a href="https://doi.org/10.1007/978-981-15-2806-4_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-15-2806-4_26</a>
+#Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing ([2015-06](date/2015/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-15-2806-4_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-2806-4_26" target="_blank">10.1007/978-981-15-2806-4_26</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7525-6807" title="ORCID: 0000-0002-7525-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b>&nbsp;Mirza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Contribution - Proceedings of the 1st International Conference on Calcined Clays for Sustainable Concrete, pp. 229-236
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a> <a href="https://orcid.org/0000-0002-7525-6807" title="ORCID: 0000-0002-7525-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st International Conference on Calcined Clays for Sustainable Concrete, pp. 229-236
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#extrusion`](keyword/extrusion)
-    [`#lc3`](keyword/lc3)
-    [`#limestone`](keyword/limestone)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Studying%20the%20Rheological%20Behavior%20of%20Limestone-Calcined-Clay-Cement%20%28LC3%29%20Mixtures%20in%20the%20Context%20of%20Extrusion-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85090005908&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,27 +40,17 @@ tags:
 <a href="https://inciteful.xyz/p/W3017380867" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-15-2806-4_26" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-15-2806-4_26?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Ensuring sustainability of printable concretes while complying with the complex requirements to their rheological properties in the fresh state is challenging yet absolutely essential. In this context, the limestone calcined clay cement (LC3) is of high relevance. In the study at hand, the structural build-up of LC3 paste was investigated by using the single batch testing approach. Two different calcined clays (CC), one from India and one from Germany, were studied, which were characterized by 58 and 66% amorphous phase, respectively. Both CCs enhanced the static yield stress of the cementitious materials, showing benefits of their use for digital concrete construction. However, the structural build-up of LC3 made with Indian CC was significantly more pronounced in comparison with that made of the German CC. Most likely, such quick and intense structural build-up can be attributed to the presence of kaolinite in the Indian CC which interacts with the high-range water-reducing admixture used in a particular way.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
-      <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
-      <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/signorini_cesare"><b>Signorini</b> Cesare</a>, <a href="../../../author/rauf_asim"><b>Rauf</b> Asim</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../beig_sign_rauf_schr.2025.IRBoLCCCLBfAC/">Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction:<br/>Effect of Calcium Sulfate Varieties</a></li>
       <li><a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/li_dianmo"><b>Li</b> Dianmo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_nere_li_zhan.2024.BACP3PC/">Biochar-Augmented Climate-Positive 3D Printable Concrete</a></li>
@@ -97,4 +67,35 @@ tags:
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P,
+      author            = "Mirza Abdul Basit Beigh and Venkatesh Naidu Nerella and Christof Schröfl and Viktor Mechtcherine",
+      title             = "Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing",
+      doi               = "10.1007/978-981-15-2806-4_26",
+      year              = "2015",
+      volume            = "25",
+      pages             = "229--236",
+      booktitle         = "Proceedings of the 1st International Conference on Calcined Clays for Sustainable Concrete",
+      editor            = "Karen Scrivener and Aurélie Favier",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. B. Beigh, V. N. Nerella, C. Schröfl and V. Mechtcherine, “Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing”, in <i>Proceedings of the 1st International Conference on Calcined Clays for Sustainable Concrete</i>,  2015, vol. 25, pp. 229–236. doi: 10.1007/978-981-15-2806-4_26.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Beigh, Mirza Abdul Basit, Venkatesh Naidu Nerella, Christof Schröfl, and Viktor Mechtcherine. “Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing”. In <i>Proceedings of the 1st International Conference on Calcined Clays for Sustainable Concrete</i>, edited by Karen Scrivener and Aurélie Favier, 25:229–36, 2015. https://doi.org/10.1007/978-981-15-2806-4_26.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

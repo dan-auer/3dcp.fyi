@@ -8,7 +8,7 @@ search:
 
 # #sensor
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>, <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA/">Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino</a></li>
   <li><a href="../../../author/manickavasakam_karnan"><b>Manickavasakam</b> Karnan</a>, <a href="../../../author/huri_a-al_mohammed"><b>Huri</b> Mohammed</a>, <a href="../../../author/kharma_m_khaled"><b>Kharma</b> Khaled</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_huri_khar_hosa.2025.S3PC/">Smart 3D-Printed Concrete:<br/>Recent Advances in Self-Sensing Mix Design and Functional Reinforcements</a></li>
   <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>

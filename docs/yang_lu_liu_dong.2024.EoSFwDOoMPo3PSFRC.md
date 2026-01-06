@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yekai Yang, Pengyuan Lu, Zhongxian Liu, Liang Dong, Jianjun Lin, Ting Yang, Quanchang Ren, Chengqing Wu
+    - footer
+title: Yang Yekai, Lu Pengyuan, Liu Zhongxian, Dong Liang, Lin Jianjun, Yang Ting, Ren Quanchang, Wu Chengqing
 description:
 tags:
  - analysis
@@ -22,42 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2024.105545) Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete:<br/>:aca-blank: Meso-Scale Finite-Element-Analysis ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105545" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105545</a>
+#Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">Meso-Scale Finite-Element-Analysis</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105545) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105545" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105545" target="_blank">10.1016/j.cemconcomp.2024.105545</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yekai"><b>Yang</b>&nbsp;Yekai</a></span>, <a href="../../../author/lu_pengyuan"><b>Lu</b>&nbsp;Pengyuan</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_liang"><b>Dong</b>&nbsp;Liang</a></span>, <a href="../../../author/lin_jianjun"><b>Lin</b>&nbsp;Jianjun</a></span>, <a href="../../../author/yang_ting"><b>Yang</b>&nbsp;Ting</a></span>, <a href="../../../author/ren_quanchang"><b>Ren</b>&nbsp;Quanchang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 150, No. 105545
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> <a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_pengyuan"><b>Lu</b> Pengyuan</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-,     <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> <a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_jianjun"><b>Lin</b> Jianjun</a>
-,     <a href="../../../author/yang_ting"><b>Yang</b> Ting</a>
-,     <a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 150, No. 105545
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#effect`](keyword/effect)
-    [`#element`](keyword/element)
-    [`#fiber`](keyword/fiber)
-    [`#finite`](keyword/finite)
-    [`#mechanics`](keyword/mechanics)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#scale`](keyword/scale)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Steel-Fiber%20with%20Different%20Orientations%20on%20Mechanical%20Properties%20of%203D%20Printed%20Steel-Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191147987&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4395068259" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105545" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105545?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     It is widely recognized that steel fibres exhibit directional distribution during the preparation of 3D-printed steel fibre reinforced concrete (SFRC). The degree of fibre orientation varies due to several factors, such as nozzle size and layer height. This variation in fibre orientation range may result in different mechanical performance exhibited by 3D-printed SFRC at hardened state. To explore the relationship between steel fibre orientation and the mechanical properties of 3D-printed SFRC at hardened state, this study firstly establishes three-dimensional mesoscale finite element models based on the distribution of fibres in 3D-printed SFRC. The steel fibre and matrix work together through a mechanism for fluid-structure interaction between models. Then, compares the simulation results with experimental data to verify the accuracy of the models. After that, different steel fibre distribution orientations were set, and parametric analysis was conducted for the compressive and tensile loading conditions to explore the effects of fibre orientation on the damage mode and strength of 3D-printed SFRC. The results indicate that 3D-printed SFRC exhibits different damage modes with varying steel fibre orientation ranges. Additionally, the strength of 3D-printed SFRC varies in steel fibre orientation range and exhibits anisotropic characteristics. This study provides a theoretical basis for improving and controlling the performance of 3D-printed SFRC in future engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -111,8 +80,8 @@ tags:
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../yang_zeng_peng_wang.2022.AMaILPSo3PFRCC/">Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P/">Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
@@ -126,4 +95,34 @@ tags:
       <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../dong_yuan_chen_jia.2025.PLSESEwUHPC/">Printing Large-Size Eggshell-Shaped Elements with Ultra-High-Performance Concrete:<br/>From Material-Design to Structural Bearing-Capacity-Assessment</a></li>
       <li><a href="../../../author/xu_wen"><b>Xu</b> Wen</a>, <a href="../../../author/jiang_dengjie"><b>Jiang</b> Dengjie</a>, <a href="../../../author/zhao_qian"><b>Zhao</b> Qian</a>, <a href="../../../author/wang_linbing"><b>Wang</b> Linbing</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xu_jian_zhao_wang.2024.SoPo3PCFREFC/">Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete:<br/>Characterized by Fluidity and Consistency</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_lu_liu_dong.2024.EoSFwDOoMPo3PSFRC,
+      author            = "Yekai Yang and Pengyuan Lu and Zhongxian Liu and Liang Dong and Jianjun Lin and Ting Yang and Quanchang Ren and Chengqing Wu",
+      title             = "Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete: Meso-Scale Finite-Element-Analysis",
+      doi               = "10.1016/j.cemconcomp.2024.105545",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "150",
+      pages             = "105545",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yang, “Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete: Meso-Scale Finite-Element-Analysis”, <i>Cement and Concrete Composites</i>, vol. 150, p. 105545, 2024, doi: 10.1016/j.cemconcomp.2024.105545.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Yekai, Pengyuan Lu, Zhongxian Liu, Liang Dong, Jianjun Lin, Ting Yang, Quanchang Ren, and Chengqing Wu. “Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete: Meso-Scale Finite-Element-Analysis”. <i>Cement and Concrete Composites</i> 150 (2024): 105545. https://doi.org/10.1016/j.cemconcomp.2024.105545.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

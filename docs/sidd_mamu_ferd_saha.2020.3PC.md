@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ayesha Siddika, Md. Mamun, Wahid Ferdous, Ashish Saha, Rayed Alyousef
+    - footer
+title: Siddika Ayesha, Mamun Md., Ferdous Wahid, Saha Ashish, Alyousef Rayed
 description:
 tags:
  - application
@@ -13,30 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete:<br/>:aca-blank: Applications, Performance, and Challenges ([2019-12](date/2019/12))
-<a href="https://doi.org/10.1080/21650373.2019.1705199" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2019.1705199</a>
+#3D Printed Concrete&nbsp;([2019-12](date/2019/12))
+<div class="h1-like">Applications, Performance, and Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2019.1705199" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2019.1705199" target="_blank">10.1080/21650373.2019.1705199</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2857-1756" title="ORCID: 0000-0003-2857-1756" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/siddika_ayesha"><b>Siddika</b>&nbsp;Ayesha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7653-889X" title="ORCID: 0000-0002-7653-889X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b>&nbsp;Md.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4473-4722" title="ORCID: 0000-0002-4473-4722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferdous_wahid"><b>Ferdous</b>&nbsp;Wahid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2307-7452" title="ORCID: 0000-0002-2307-7452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saha_kumer_ashish"><b>Saha</b>&nbsp;Ashish</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3821-5491" title="ORCID: 0000-0002-3821-5491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alyousef_rayed"><b>Alyousef</b>&nbsp;Rayed</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, Vol. 9, Iss. 3, pp. 127-164
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a> <a href="https://orcid.org/0000-0003-2857-1756" title="ORCID: 0000-0003-2857-1756" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a> <a href="https://orcid.org/0000-0002-7653-889X" title="ORCID: 0000-0002-7653-889X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a> <a href="https://orcid.org/0000-0002-4473-4722" title="ORCID: 0000-0002-4473-4722" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> <a href="https://orcid.org/0000-0002-2307-7452" title="ORCID: 0000-0002-2307-7452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alyousef_rayed"><b>Alyousef</b> Rayed</a> <a href="https://orcid.org/0000-0002-3821-5491" title="ORCID: 0000-0002-3821-5491" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, Vol. 9, Iss. 3, pp. 127-164
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85077162138&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2997647976" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2019.1705199" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2019.1705199?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automatic construction systems have become the focus of the construction industry and research projects worldwide. Numerous technologies involving 3D printing (3DP) of concrete elements have been developed, and their application in construction projects has been growing. The 3DP in concrete construction is increasing due to its freedom in geometry, rapidness, formwork-less printing, low waste generation, eco-friendliness, cost-saving nature, and safety. Development of 3DP is not only limited to the earth but also gaining attention for building habitats in space. This study aims to present the technical, socio-economical, and environmental aspects related to 3DP of concrete structures for a systematic summation of the technology, guidelines, applications, challenges, and prospects of future research and market in the construction industry. This comprehensive review shows that challenges involved in 3D concrete printing should be analyzed further by researchers to enhance mechanical performance, durability, and sustainability and establish appropriate standard guidelines for printing structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "93 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
@@ -129,7 +110,6 @@ tags:
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
@@ -157,8 +137,10 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "126 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
@@ -284,4 +266,35 @@ tags:
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pankratow_pawel"><b>Pankratow</b> Paweł</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../hoff_skib_pank_ziel.2020.AitCoa3PCWwtUoaLG/">Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sidd_mamu_ferd_saha.2020.3PC,
+      author            = "Ayesha Siddika and Md. Abdullah Al Mamun and Wahid Ferdous and Ashish Kumer Saha and Rayed Alyousef",
+      title             = "3D Printed Concrete: Applications, Performance, and Challenges",
+      doi               = "10.1080/21650373.2019.1705199",
+      year              = "2020",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      volume            = "9",
+      number            = "3",
+      pages             = "127--164",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Siddika, M. A. A. Mamun, W. Ferdous, A. K. Saha and R. Alyousef, “3D Printed Concrete: Applications, Performance, and Challenges”, <i>Journal of Sustainable Cement-Based Materials</i>, vol. 9, no. 3, pp. 127–164, 2020, doi: 10.1080/21650373.2019.1705199.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Siddika, Ayesha, Md. Abdullah Al Mamun, Wahid Ferdous, Ashish Kumer Saha, and Rayed Alyousef. “3D Printed Concrete: Applications, Performance, and Challenges”. <i>Journal of Sustainable Cement-Based Materials</i> 9, no. 3 (2020): 127–64. https://doi.org/10.1080/21650373.2019.1705199.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

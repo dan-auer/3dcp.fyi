@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Young Kim, Martin Scoppa, Madhar Haddad
+    - footer
+title: Kim Young, Scoppa Martin, Haddad Madhar
 description:
 tags:
  - buildability
@@ -13,28 +14,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } An Investigation into the Role of 3D Printing in Residential Buildings:<br/>:aca-blank: An Emirati Housing Case Study ([2025-10](date/2025/10))
-<a href="https://doi.org/10.3390/buildings15213933" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15213933</a>
+#An Investigation into the Role of 3D Printing in Residential Buildings&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">An Emirati Housing Case Study</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/buildings15213933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15213933" target="_blank">10.3390/buildings15213933</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5768-3816" title="ORCID: 0000-0001-5768-3816" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_ki_young"><b>Kim</b>&nbsp;Young</a></span>, <a href="../../../author/scoppa_martin"><b>Scoppa</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8828-2908" title="ORCID: 0000-0002-8828-2908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haddad_madhar"><b>Haddad</b>&nbsp;Madhar</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 21, No. 3933
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kim_ki_young"><b>Kim</b> Young</a> <a href="https://orcid.org/0000-0001-5768-3816" title="ORCID: 0000-0001-5768-3816" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>
-,     <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="https://orcid.org/0000-0002-8828-2908" title="ORCID: 0000-0002-8828-2908" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 21, No. 3933
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#case`](keyword/case)
-    [`#house`](keyword/house)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Investigation%20into%20the%20Role%20of%203D%20Printing%20in%20Residential%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021456515&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415816896" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15213933" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15213933?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study examines the potential of 3D printing to improve the energy efficiency of housing in hot arid climates such as the UAE. Using a case study of a typical Emirati residence, twenty-four wall configurations were simulated, varying by material (standard vs. sulfur concrete), thickness (4 cm, 8 cm, 10 cm), and insulation level (0%, 25%, 50%, 100%). Results show that eleven configurations met the U-value requirement, six achieved cooling loads below the benchmark, and twelve reduced overall energy use, with only four meeting all criteria simultaneously. Standard concrete proved more versatile across performance conditions, while sulfur concrete with full insulation achieved the lowest energy consumption, underscoring its potential as a sustainable material. These findings demonstrate the value of 3D printing in advancing the UAE’s green building standards and environmental goals, while offering practical strategies for delivering more energy-efficient housing in hot arid regions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/capeto_paula_ana"><b>Capêto</b> Ana</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/uribe_e-b_braian"><b>Uribe</b> Braian</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../cape_jesu_urib_guim.2024.BaGF/">Building a Greener Future:<br/>Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars</a></li>
@@ -79,7 +62,38 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kim_scop_hadd.2025.AIitRo3PiRB,
+      author            = "Young Ki Kim and Martin Scoppa and Madhar Haddad",
+      title             = "An Investigation into the Role of 3D Printing in Residential Buildings: An Emirati Housing Case Study",
+      doi               = "10.3390/buildings15213933",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "21",
+      pages             = "3933",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. K. Kim, M. Scoppa and M. Haddad, “An Investigation into the Role of 3D Printing in Residential Buildings: An Emirati Housing Case Study”, <i>Buildings</i>, vol. 15, no. 21, p. 3933, 2025, doi: 10.3390/buildings15213933.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kim, Young Ki, Martin Scoppa, and Madhar Haddad. “An Investigation into the Role of 3D Printing in Residential Buildings: An Emirati Housing Case Study”. <i>Buildings</i> 15, no. 21 (2025): 3933. https://doi.org/10.3390/buildings15213933.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #alkali
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
   <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bodd_kand_nant.2025.EoAALCCMf3CPA/">Evaluation of Alkali-Activated Limestone Calcined Clay Mortars for 3D Concrete Printing Applications</a></li>
   <li><a href="../../../author/najm_omar"><b>Najm</b> Omar</a>, <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../najm_alha.2025.IoBiAAMIf3PS/">Implementation of Brucite in Alkali-Activated Materials Intended for 3D Printed Structures:<br/>A Fractional Factorial Design Approach</a></li>

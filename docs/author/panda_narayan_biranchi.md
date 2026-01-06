@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Panda Biranchi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/fatima_warsi"><b>Fatima</b> Warsi</a>, <a href="../../../author/syed_bustan"><b>Syed</b> Bustan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../fati_syed_pand_bisw.2025.NEotSPoSC3PCW/">Numerical Evaluation of the Seismic Performance of Self-Centering 3D Printed Concrete Wall</a></li>
   <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
   <li><a href="../../../author/gulia_preeti"><b>Gulia</b> Preeti</a>, <a href="../../../author/dogra_sourabh"><b>Dogra</b> Sourabh</a>, <a href="../../../author/gupta_arpan"><b>Gupta</b> Arpan</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../guli_dogr_gupt_bodd.2025.BaMSwGC/">Building a Metamaterial Slab with Gosper Curve</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Devid Falliano, Dario Domenico, Giuseppe Ricciardi, Ernesto Gugliandolo
+    - footer
+title: Falliano Devid, Domenico Dario, Ricciardi Giuseppe, Gugliandolo Ernesto
 description:
 tags:
  - comparison
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength ([2020-04](date/2020/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.119271" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.119271</a>
+#3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength ([2020-04](date/2020/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.119271" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119271" target="_blank">10.1016/j.conbuildmat.2020.119271</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falliano_devid"><b>Falliano</b>&nbsp;Devid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1279-9529" title="ORCID: 0000-0003-1279-9529" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/domenico_dario"><b>de&nbsp;Domenico</b>&nbsp;Dario</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9765-9247" title="ORCID: 0000-0001-9765-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b>&nbsp;Giuseppe</a></span>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b>&nbsp;Ernesto</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 254
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a> <a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/domenico_dario"><b>de Domenico</b> Dario</a> <a href="https://orcid.org/0000-0003-1279-9529" title="ORCID: 0000-0003-1279-9529" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> <a href="https://orcid.org/0000-0001-9765-9247" title="ORCID: 0000-0001-9765-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 254, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#comparison`](keyword/comparison)
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#fresh`](keyword/fresh)
-    [`#light`](keyword/light)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#state`](keyword/state)
-    [`#strength`](keyword/strength)
-    [`#term`](keyword/term)
-
-
--------------------------
+<a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Lightweight%20Foamed%20Concrete%20and%20Comparison%20with%20Classical%20Foamed%20Concrete%20in%20Terms%20of%20Fresh%20State%20Properties%20and%20Mechanical%20Strength" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083556002&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3019762203" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.119271" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.119271?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a novel type of foamed concrete that is termed ‘‘3D-printable lightweight foamed concrete” (3DP-LWFC). Unlike classical lightweight foamed concrete (C-LWFC), this novel material is able to keep its shape at the fresh state due to enhanced consistency and viscosity. This peculiarity lends itself to being implemented in automated extrusion production process and 3D printing applications without the use of formwork, which is particularly convenient in the building industry. These unique fresh state properties of 3DP-LWFC are demonstrated through a specific extrusion test conceived and used in this experimental campaign, and highlighted by comparison with results related to C-LWFC. Despite the remarkably different behavior of the novel material at the fresh state, the mechanical strength of 3DP-LWFC is even slightly higher than C-LWFC. This is demonstrated through a wide experimental campaign focused on the compressive and flexural strength of 3DP-LWFC, which includes different dry densities, curing conditions, cement types, water/cement ratios. Additionally, the effect of the mixing conditions on the mechanical strength of 3DP-LWFC, in particular the rotational speed of the mixer during the preparation of the paste, is also analyzed and discussed. It is found that the increase of mixing intensity from 1200 rpm to 3000 rpm resulted in a considerable increase of mechanical strength values of 3DP-LWFC, up to more than 70% for the compressive strength and up to around 100% for the flexural strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -86,8 +61,9 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "59 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../daun_phei_pans.2025.Bo3PCWEtHT/">Behavior of 3D Printed Concrete Walls Exposed to High Temperatures</a></li>
@@ -147,4 +123,33 @@ tags:
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_wang_ma_sanj.2020.SaDEo3PSRbECMC/">Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/crupi_giuseppe"><b>Crupi</b> Giuseppe</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../fall_crup_dome_ricc.2020.IotRBoLFCf3PA/">Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS,
+      author            = "Devid Falliano and Dario de Domenico and Giuseppe Ricciardi and Ernesto Gugliandolo",
+      title             = "3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength",
+      doi               = "10.1016/j.conbuildmat.2020.119271",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "254",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Falliano, D. de Domenico, G. Ricciardi and E. Gugliandolo, “3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength”, <i>Construction and Building Materials</i>, vol. 254, 2020, doi: 10.1016/j.conbuildmat.2020.119271.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Falliano, Devid, Dario de Domenico, Giuseppe Ricciardi, and Ernesto Gugliandolo. “3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength”. <i>Construction and Building Materials</i> 254 (2020). https://doi.org/10.1016/j.conbuildmat.2020.119271.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

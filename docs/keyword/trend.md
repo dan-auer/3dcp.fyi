@@ -8,7 +8,7 @@ search:
 
 # #trend
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bajw_flem_sama_bao.2025.So3PT/">Sustainability of 3D Printing Technology:<br/>A Review on Research Trends and Developments</a></li>
   <li><a href="../../../author/rajczakowska_magdalena"><b>Rajczakowska</b> Magdalena</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../rajc.2025.TiBB3CP/">Trends in Bio-Based 3D Concrete Printing:<br/>An NLP-Driven Analysis</a></li>
   <li><a href="../../../author/gardan_julien"><b>Gardan</b> Julien</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a>, <a href="../../../author/attajer_ali"><b>Attajer</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../gard_hedj_atta.2025.AMiC/">Additive Manufacturing in Construction:<br/>State of the Art and Emerging Trends in Civil Engineering</a></li>

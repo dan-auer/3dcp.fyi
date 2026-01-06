@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Milijana Živković, Maša Žujović, Jelena Milošević
+    - footer
+title: Živković Milijana, Žujović Maša, Milošević Jelena
 description:
 tags:
  - application
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/13/19/10671/pdf?version=1695691534) Architectural 3D Printed Structures Created Using Artificial Intelligence:<br/>:aca-blank: A Review of Techniques and Applications ([2023-09](date/2023/09))
-<a href="https://doi.org/10.3390/app131910671" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app131910671</a>
+#Architectural 3D Printed Structures Created Using Artificial Intelligence&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">A Review of Techniques and Applications</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/13/19/10671/pdf?version=1695691534) <a href="https://doi.org/10.3390/app131910671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app131910671" target="_blank">10.3390/app131910671</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-7191-417X" title="ORCID: 0009-0009-7191-417X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zivkovic_milijana"><b>Živković</b>&nbsp;Milijana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6346-5102" title="ORCID: 0000-0001-6346-5102" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zujovic_masa"><b>Žujović</b>&nbsp;Maša</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7293-8194" title="ORCID: 0000-0001-7293-8194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/milosevic_jelena"><b>Milošević</b>&nbsp;Jelena</a></span><br>
+Journal Article - Applied Sciences, Vol. 13, Iss. 19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zivkovic_milijana"><b>Živković</b> Milijana</a> <a href="https://orcid.org/0009-0009-7191-417X" title="ORCID: 0009-0009-7191-417X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a> <a href="https://orcid.org/0000-0001-6346-5102" title="ORCID: 0000-0001-6346-5102" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="https://orcid.org/0000-0001-7293-8194" title="ORCID: 0000-0001-7293-8194" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 13, Iss. 19, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#architecture`](keyword/architecture)
-    [`#artificial`](keyword/artificial)
-    [`#intelligence`](keyword/intelligence)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Architectural%203D%20Printed%20Structures%20Created%20Using%20Artificial%20Intelligence" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174166857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387059427" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app131910671" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app131910671?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Artificial Intelligence (AI) and 3D printing (3DP) play considerable roles in what is known as the Fourth Industrial Revolution, by developing data- and machine-intelligence-based integrated production technologies. In architecture, this shift was induced by increasingly complex design requirements, posing important challenges for real-world design implementation, large-scale structure fabrication, and production quality standardization. The study systematically reviews the application of AI techniques in all stages of creating 3D-printed architectural structures and provides a comprehensive image of the development in the field. The research goals are to (1) offer a comprehensive critical analysis of the body of literature; (2) identify and categorize approaches to integrating AI in the production of 3D-printed structures; (3) identify and discuss challenges and opportunities of AI integration in architectural production of 3D-printed structures; and (4) identify research gaps and provide recommendations for future research. The findings indicate that AI is an emerging addition to the 3DP process, mainly transforming it through the real-time adjustment of the design or printing parameters, enhanced printing quality control, or prediction and optimization of key design features. However, the potential of the application of AI in large-scale architectural 3D printing still needs to be explored. Lastly, the study emphasizes the necessity of redefining traditional field boundaries, opening new opportunities for intelligent architectural production.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_zhan_pang_wang.2022.SFODaEo3PCwCA/">Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD/">Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection</a></li>
@@ -89,9 +69,39 @@ tags:
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_khai_daha_mash.2025.RoSi3CP/">Review on Sustainability in 3D Concrete Printing:<br/>Focus on Waste Utilization and Life Cycle Assessment</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zivk_zujo_milo.2023.A3PSCUAI,
+      author            = "Milijana Živković and Maša Žujović and Jelena Milošević",
+      title             = "Architectural 3D Printed Structures Created Using Artificial Intelligence: A Review of Techniques and Applications",
+      doi               = "10.3390/app131910671",
+      year              = "2023",
+      journal           = "Applied Sciences",
+      volume            = "13",
+      number            = "19",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Živković, M. Žujović and J. Milošević, “Architectural 3D Printed Structures Created Using Artificial Intelligence: A Review of Techniques and Applications”, <i>Applied Sciences</i>, vol. 13, no. 19, 2023, doi: 10.3390/app131910671.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Živković, Milijana, Maša Žujović, and Jelena Milošević. “Architectural 3D Printed Structures Created Using Artificial Intelligence: A Review of Techniques and Applications”. <i>Applied Sciences</i> 13, no. 19 (2023). https://doi.org/10.3390/app131910671.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

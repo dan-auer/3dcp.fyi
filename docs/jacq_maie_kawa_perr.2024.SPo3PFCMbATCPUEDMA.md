@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yohan Jacquet, Yierfan Maierdan, Shiho Kawashima, Arnaud Perrot
+    - footer
+title: Jacquet Yohan, Maierdan Yierfan, Kawashima Shiho, Perrot Arnaud
 description:
 tags:
  - analysis
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-# Stability-Prediction of 3D Printable Fresh Construction Materials by Analyzing Thixotropic Compressive Properties Using Extensional Dynamic Mechanical Analysis ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408170825-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408170825-0</a>
+#Stability-Prediction of 3D Printable Fresh Construction Materials by Analyzing Thixotropic Compressive Properties Using Extensional Dynamic Mechanical Analysis ([2024-09](date/2024/09))
+ <a href="https://doi.org/10.24355/dbbs.084-202408170825-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408170825-0" target="_blank">10.24355/dbbs.084-202408170825-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7238-2384" title="ORCID: 0000-0001-7238-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maierdan_yierfan"><b>Maierdan</b>&nbsp;Yierfan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> <a href="https://orcid.org/0000-0001-7238-2384" title="ORCID: 0000-0001-7238-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#compression`](keyword/compression)
-    [`#construction`](keyword/construction)
-    [`#dynamic`](keyword/dynamic)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#prediction`](keyword/prediction)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#stability`](keyword/stability)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Stability-Prediction%20of%203D%20Printable%20Fresh%20Construction%20Materials%20by%20Analyzing%20Thixotropic%20Compressive%20Properties%20Using%20Extensional%20Dynamic%20Mechanical%20Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,20 +42,45 @@ tags:
 <a href="https://inciteful.xyz/p/W6963858683" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408170825-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408170825-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent years have seen a significant increase in interest in low carbon materials in the construction sector. Low-carbon cements are expected to improve concrete technology sustainability but solutions also include the use of materials that were previously considered industrial waste or by-products, such as clayey earthen materials and, more broadly, any excavated soil containing a proportion of clay. Unlike cementitious materials, the highly viscous nature of clay means that construction methods need to be modified and this has often slowed down the development of these clay products. The rapid development of additive manufacturing methods means that these viscous materials can be optimized: this means adapting not only the formulation of the clay matrix materials, but also the measurement methods. The use of 3D printing and the range of architected materials it offers means that a large number of applications can be envisaged, but the behavior of the materials must be mastered in order to ensure the technical feasibility and stability of such a printed structure. This study focuses on the measurement of rheological properties in relation to the stability of the structure once printed. While for cement-based materials, chemical setting allows a stiffness to be achieved that satisfies structural stability during printing, clay-based materials do not have the same buildability properties. The thixotropic properties of the material need to be advantageously exploited and the way in which it is characterized needs to be adapted. While extrusion behavior can be easily characterized by shear tests, structural stability requires adaptation of rheological tests following an extensional configuration. This article explores the capabilities of dynamic mechanical analysis (DMA) on cement and clay-based materials to determine their visco-elastic properties under compression in order to predict the stability of the structure to be printed. The thixotropic nature of materials with such a clay matrix is the subject of an in-depth study via a three-stage extensional DMA. The decorrelation of the elastic contribution from the viscous contribution and the determination of the critical deformation, bounding the linear viscoelastic range, make it possible to quantify the response of the printed material under compression, and qualitatively compared with pseudo-elastic modulus measurements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jacq_perr_pica.2021.AoARBoCMf3PA/">Assessment of Asymmetrical Rheological Behavior of Cementitious Material for 3D Printing Application</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jacq_maie_kawa_perr.2024.SPo3PFCMbATCPUEDMA,
+      author            = "Yohan Jacquet and Yierfan Maierdan and Shiho Kawashima and Arnaud Perrot",
+      title             = "Stability-Prediction of 3D Printable Fresh Construction Materials by Analyzing Thixotropic Compressive Properties Using Extensional Dynamic Mechanical Analysis",
+      doi               = "10.24355/dbbs.084-202408170825-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jacquet, Y. Maierdan, S. Kawashima and A. Perrot, “Stability-Prediction of 3D Printable Fresh Construction Materials by Analyzing Thixotropic Compressive Properties Using Extensional Dynamic Mechanical Analysis”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408170825-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jacquet, Yohan, Yierfan Maierdan, Shiho Kawashima, and Arnaud Perrot. “Stability-Prediction of 3D Printable Fresh Construction Materials by Analyzing Thixotropic Compressive Properties Using Extensional Dynamic Mechanical Analysis”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408170825-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

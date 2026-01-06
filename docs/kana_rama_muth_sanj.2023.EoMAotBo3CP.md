@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sasitharan Kanagasuntharam, Sayanthan Ramakrishnan, Shravan Muthukrishnan, Jay Sanjayan
+    - footer
+title: Kanagasuntharam Sasitharan, Ramakrishnan Sayanthan, Muthukrishnan Shravan, Sanjayan Jay
 description:
 tags:
  - additive
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2023.106814) Effect of Magnetorheological Additives on the Buildability of 3D Concrete Printing ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.jobe.2023.106814" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106814</a>
+#Effect of Magnetorheological Additives on the Buildability of 3D Concrete Printing ([2023-05](date/2023/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2023.106814) <a href="https://doi.org/10.1016/j.jobe.2023.106814" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106814" target="_blank">10.1016/j.jobe.2023.106814</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-0490-5093" title="ORCID: 0009-0003-0490-5093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b>&nbsp;Sasitharan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b>&nbsp;Sayanthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b>&nbsp;Shravan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Journal of Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a> <a href="https://orcid.org/0009-0003-0490-5093" title="ORCID: 0009-0003-0490-5093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> <a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a> <a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Magnetorheological%20Additives%20on%20the%20Buildability%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160579737&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4376141974" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106814" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106814?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the effect of magneto-rheological additives in 3D concrete printing as a stimuli-responsive technique for buildability enhancement. The carbonyl iron powder (CIP) f was used as the magnetorheological additive. Two distinct magnetic activation strategies of of print-bed magnetisation and print-head magnetisation were considered. The fresh properties oo including static yield strength development and viscosity representing the buildability and pro pumpability characteristics of magnetorheological cement mortar (MRC) mixtures were pr assessed for both strategies. Besides, the compressive strength and volume of permeable voids e-p (VPV) were studied to assess the effect of CIP on the hardened properties of MRC mixtures. It Pre was found that the addition of CIP had a significant enhancement in the static yield strength of l P fresh MRC mixtures when the magnetic field is continuously present (i.e., print-bed al magnetisation). However, short-duration exposure to the magnetic field (i.e., print-head na magnetisation) resulted in a slight improvement in static yield strength, revealing that the urn residual effect of MRC mixtures is insignificant. For instance, the MRC mixture with a CIP our dosage of 10% by weight exhibited a static yield strength of 15 kPa at 20 mins when subjected Jo to continuous magnetisation, whereas the same mixture showed a static yield strength of 5 kPa J at 20 mins for short-duration magnetisation (the exposure time of 60 seconds). The hardened properties of CIP incorporated MRC mixtures showed the enhancement in compressive strength and reduction in permeable void volumes for CIP dosage up to 5% with further increase in CIP dosage will lead to strength reductions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -84,8 +65,8 @@ tags:
       <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../vait_sere_kers.2018.EoUSAoEHPi3CPT/">Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/pour_k_arash"><b>Pour</b> Arash</a>, <a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b> Ehsan</a>, <a href="../../../author/yang_y_t"><b>Yang</b> T.</a>, <a href="../../../author/li_shaofan"><b>Li</b> Shaofan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pour_fars_yang_li.2025.3PoCaGC/">3D Printing of Conventional and Geopolymer Concretes:<br/>Advancements, Challenges, Future Directions, and Cost Analysis</a></li>
@@ -100,4 +81,32 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_sanj.2023.StEQNMi3CP/">Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../khan_ilca_amin_sahi.2023.BAoEoSDi3CP/">Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing:<br/>An Experimental and Numerical Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kana_rama_muth_sanj.2023.EoMAotBo3CP,
+      author            = "Sasitharan Kanagasuntharam and Sayanthan Ramakrishnan and Shravan Muthukrishnan and Jay Gnananandan Sanjayan",
+      title             = "Effect of Magnetorheological Additives on the Buildability of 3D Concrete Printing",
+      doi               = "10.1016/j.jobe.2023.106814",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Kanagasuntharam, S. Ramakrishnan, S. Muthukrishnan and J. G. Sanjayan, “Effect of Magnetorheological Additives on the Buildability of 3D Concrete Printing”, <i>Journal of Building Engineering</i>, 2023, doi: 10.1016/j.jobe.2023.106814.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kanagasuntharam, Sasitharan, Sayanthan Ramakrishnan, Shravan Muthukrishnan, and Jay Gnananandan Sanjayan. “Effect of Magnetorheological Additives on the Buildability of 3D Concrete Printing”. <i>Journal of Building Engineering</i>, 2023. https://doi.org/10.1016/j.jobe.2023.106814.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

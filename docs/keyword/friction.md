@@ -8,7 +8,7 @@ search:
 
 # #friction
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jacq_span_perr.2024.EVaFTT/">Exploring Viscosity and Friction Through Temperature:<br/>Understanding Self-Heating Dynamics of Non-Newtonian 3D Printable Construction Materials via CFD Modeling</a></li>
   <li><a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b> Ignasius</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/masud_arif"><b>Masud</b> Arif</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../wija_krei_masu.2024.MoCPPwFI/">Modeling of Concrete Printing Process with Frictional Interface</a></li>
   <li><a href="../../../author/raval_d_amitkumar"><b>Raval</b> Amitkumar</a>, <a href="../../../author/patel_g_c"><b>Patel</b> C.</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rava_pate.2022.EoIFaCBLf3PCP/">Estimation of Interface-Friction and Concrete-Boundary-Layer for 3D Printable Concrete-Pumping</a></li>

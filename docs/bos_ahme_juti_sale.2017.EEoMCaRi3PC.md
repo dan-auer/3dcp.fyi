@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Freek Bos, Zeeshan Ahmed, Evgeniy Jutinov, Theo Salet
+    - footer
+title: Bos Freek, Ahmed Zeeshan, Jutinov Evgeniy, Salet Theo
 description:
 tags:
  - cable
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/10/11/1314/pdf?version=1511083655) Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete ([2017-11](date/2017/11))
-<a href="https://doi.org/10.3390/ma10111314" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma10111314</a>
+#Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete ([2017-11](date/2017/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/10/11/1314/pdf?version=1511083655) <a href="https://doi.org/10.3390/ma10111314" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma10111314" target="_blank">10.3390/ma10111314</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b>&nbsp;Zeeshan</a></span>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b>&nbsp;Evgeniy</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Materials, Vol. 10, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 10, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cable`](keyword/cable)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#exploration`](keyword/exploration)
-    [`#metal`](keyword/metal)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/metal"><button class="btn">#metal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Exploration%20of%20Metal-Cable%20as%20Reinforcement%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85034256463&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,35 +37,28 @@ tags:
 <a href="https://inciteful.xyz/p/W2769989783" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma10111314" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma10111314?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Material Deposition Method (MDM) is enjoying increasing attention as an additive method to create concrete mortar structures characterised by a high degree of form-freedom, a lack of geometrical repetition, and automated construction. Several small-scale structures have been realised around the world, or are under preparation. However, the nature of this construction method is unsuitable for conventional reinforcement methods to achieve ductile failure behaviour. Sometimes, this is solved by combining printing with conventional casting and reinforcing techniques. This study, however, explores an alternative strategy, namely to directly entrain a metal cable in the concrete filament during printing to serve as reinforcement. A device is introduced to apply the reinforcement. Several options for online reinforcement media are compared for printability. Considerations specific to the manufacturing process are discussed. Subsequently, pull-out tests on cast and printed specimens provide an initial characterisation of bond behaviour. Bending tests furthermore show the potential of this reinforcement method. The bond stress of cables in printed concrete was comparable to values reported for smooth rebar but lower than that of the same cables in cast concrete. The scatter in experimental results was high. When sufficient bond length is available, ductile failure behaviour for tension parallel to the filament direction can be achieved, even though cable slip occurs. Further improvements to the process should pave the way to achieve better post-crack resistance, as the concept in itself is feasible.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
-      <li><a href="../../../author/chua_kai_chee"><b>Chua</b> Chee</a>, <a href="../../../author/yeong_yee_wai"><b>Yeong</b> Wai</a>, <a href="../../../author/an_jia"><b>An</b> Jia</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../chua_yeon_an.2018.SI/">Special Issue:<br/>NextGen Materials for 3D Printing</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "221 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
@@ -305,4 +281,34 @@ tags:
       <li><a href="../../../author/chua_kai_chee"><b>Chua</b> Chee</a>, <a href="../../../author/yeong_yee_wai"><b>Yeong</b> Wai</a>, <a href="../../../author/an_jia"><b>An</b> Jia</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../chua_yeon_an.2018.SI/">Special Issue:<br/>NextGen Materials for 3D Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bos_ahme_juti_sale.2017.EEoMCaRi3PC,
+      author            = "Freek Paul Bos and Zeeshan Yunus Ahmed and Evgeniy R. Jutinov and Theo A. M. Salet",
+      title             = "Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete",
+      doi               = "10.3390/ma10111314",
+      year              = "2017",
+      journal           = "Materials",
+      volume            = "10",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. P. Bos, Z. Y. Ahmed, E. R. Jutinov and T. A. M. Salet, “Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete”, <i>Materials</i>, vol. 10, no. 11, 2017, doi: 10.3390/ma10111314.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bos, Freek Paul, Zeeshan Yunus Ahmed, Evgeniy R. Jutinov, and Theo A. M. Salet. “Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete”. <i>Materials</i> 10, no. 11 (2017). https://doi.org/10.3390/ma10111314.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

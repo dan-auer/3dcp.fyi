@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matheus Tinoco, Tiago Cavalcante, Luiza Andrade, Olga Araújo, Ricardo Lopes, Romildo Toledo Filho, Oscar Mendoza Reales
+    - footer
+title: Tinoco Matheus, Cavalcante Tiago, Andrade Luiza, Araújo Olga, Lopes Ricardo, Toledo Filho Romildo, Mendoza Reales Oscar
 description:
 tags:
  - aggregate
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.jobe.2024.111740" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111740</a>
+#Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111740" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111740" target="_blank">10.1016/j.jobe.2024.111740</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b>&nbsp;Matheus</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-2308-5505" title="ORCID: 0009-0002-2308-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b>&nbsp;Tiago</a></span>, <a href="../../../author/andrade_draeger_luiza"><b>de&nbsp;Andrade</b>&nbsp;Luiza</a></span>, <a href="../../../author/araujo_m-o_olga"><b>de&nbsp;Araújo</b>&nbsp;Olga</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7250-824X" title="ORCID: 0000-0001-7250-824X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lopes_tadeu_ricardo"><b>Lopes</b>&nbsp;Ricardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111740
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a> <a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a> <a href="https://orcid.org/0009-0002-2308-5505" title="ORCID: 0009-0002-2308-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/andrade_draeger_luiza"><b>de Andrade</b> Luiza</a>
-,     <a href="../../../author/araujo_m-o_olga"><b>de Araújo</b> Olga</a>
-,     <a href="../../../author/lopes_tadeu_ricardo"><b>Lopes</b> Ricardo</a> <a href="https://orcid.org/0000-0001-7250-824X" title="ORCID: 0000-0001-7250-824X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111740
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#base`](keyword/base)
-    [`#bio`](keyword/bio)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#design`](keyword/design)
-    [`#mixing`](keyword/mixing)
-    [`#particle`](keyword/particle)
-    [`#printability`](keyword/printability)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mix-Design-Strategies%20for%203D%20Printable%20Bio-Based%20Cementitious%20Composites%20Using%20Rice-Husk-Particles%20as%20Multifunctional%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214114200&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406070888" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111740" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111740?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work compares two mix design strategies for 3D printable cementitious composites using rice husk particles as multifunctional aggregates. The first strategy involves directly replacing sand with rice husk while keeping the cement paste volume constant. The second strategy introduces rice husk as an extra component, thereby increasing the solids content while maintaining a constant sand-to-cement ratio. Different volume fractions of rice husk (10%, 15%, 20%, and 25%) were used. Replacing natural sand with 15% bio-aggregates leads to a 53% decrease in yield stress and a 62% decrease in structuration rate, due to the lubricating effect of pre-wetted bio-aggregates and a decrease in system interlock. Adding rice husk as extra component, however, increases both yield stress and structuration rate, which is related to the reduced paste volume and increase in internal friction. With 25% rice husk, the initial yield stress increases from 1.21 kPa to 5.55 kPa, and the structuration rate increases from 26.9 Pa/min to 105.2 Pa/min. The second strategy effectively improved buildability and reduced cement consumption, making it the most suitable choice for producing printable mixtures. Mechanical tests indicate that rice husk has limited effect on anisotropy and interlayer bond adhesion. However, at higher fractions, increased porosity and particle debonding at interfaces pose new challenges for enhancing composite performance. The results highlight the potential rice husk as a multifunctional aggregate in 3D-printed cementitious composites, providing insights for the development of sustainable construction materials with optimized fresh and mechanical properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/kuva_jukka"><b>Kuva</b> Jukka</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/li_zhongsen"><b>Li</b> Zhongsen</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_kuva_mohi_li.2023.IotISoH3PCbXCSaIIotMP/">Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chen_xia_jia_gao.2024.EAo3PGtLSPSvCoSCaNS/">Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica</a></li>
@@ -102,12 +75,41 @@ tags:
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/ramallo_laura"><b>Ramallo</b> Laura</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_marq_rama_barl.2025.FaHPoCFRMf3PiC/">Fresh and Hardened Properties of Cellulose Fiber-Reinforced Mortars for 3D Printing in Construction</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_tole_mend.2025.RHBAf3PiC/">Rice Husk Bio-Aggregates for 3D Printing in Construction:<br/>Balancing Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA,
+      author            = "Matheus Pimentel Tinoco and Tiago Canavarro Cavalcante and Luiza Draeger de Andrade and Olga M. O. de Araújo and Ricardo Tadeu Lopes and Romildo Dias Toledo Filho and Oscar Aurelio Mendoza Reales",
+      title             = "Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates",
+      doi               = "10.1016/j.jobe.2024.111740",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "111740",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Tinoco, “Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates”, <i>Journal of Building Engineering</i>, p. 111740, 2025, doi: 10.1016/j.jobe.2024.111740.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tinoco, Matheus Pimentel, Tiago Canavarro Cavalcante, Luiza Draeger de Andrade, Olga M. O. de Araújo, Ricardo Tadeu Lopes, Romildo Dias Toledo Filho, and Oscar Aurelio Mendoza Reales. “Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates”. <i>Journal of Building Engineering</i>, 2025, 111740. https://doi.org/10.1016/j.jobe.2024.111740.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

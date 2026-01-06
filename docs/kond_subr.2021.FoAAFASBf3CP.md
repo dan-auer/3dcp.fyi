@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kala Kondepudi, Kolluru Subramaniam
+    - footer
+title: Kondepudi Kala, Subramaniam Kolluru
 description:
 tags:
  - activation
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.103983" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.103983</a>
+#Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing ([2021-02](date/2021/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.103983" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.103983" target="_blank">10.1016/j.cemconcomp.2021.103983</a>
 
--------------------------
+<a href="../../../author/kondepudi_kala"><b>Kondepudi</b>&nbsp;Kala</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 119
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 119, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#ash`](keyword/ash)
-    [`#binder`](keyword/binder)
-    [`#concrete`](keyword/concrete)
-    [`#formulas`](keyword/formulas)
-    [`#print`](keyword/print)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Formulation%20of%20Alkali-Activated%20Fly-Ash-Slag%20Binders%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101636291&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3131444780" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.103983" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.103983?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Printable alkali-activated mixtures, which are homogeneous under pressure and achieve buildability in 3D concrete printing by extrusion-based layer deposition are developed. A baseline mixture of alkali-activated fly ash and slag is modified by using dry constituents such as micro-silica and clay. Carboxymethylcellulose (CMC) is used with the alkaline activating solution as a viscosity modifier. The roles of the different elements in influencing the yield stress, viscosity, and thixotropic buildup in the mixture are evaluated. The influence of yield stress and viscosity in influencing shape retention in printable mixtures is evaluated. Buildability is identified with the thixotropic buildup of elastic modulus and yield stress in the mixture. Phase separation in the mixture under pressure is influenced by the particle size distribution and the viscosity of the activating solution. Mixtures which do not exhibit phase separation under pressure have a narrower distribution of particle sizes, indicated by the Rosin-Rammler fit. Clay and CMC enhance the thixotropic buildup in the alkali-activated mixture and also contribute to achieving homogeneous flow under pressure by mitigating phase separation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -91,8 +71,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "38 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
@@ -131,4 +112,33 @@ tags:
       <li><a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../koch_kama_subr.2021.ISEPSfM3CP/">In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing:<br/>Application in Alkali-Activated Fly-Ash-Slag Geopolymers</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../tarh_sahi.2021.FaRPoAE3PM/">Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kond_subr.2021.FoAAFASBf3CP,
+      author            = "Kala Kondepudi and Kolluru V. L. Subramaniam",
+      title             = "Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2021.103983",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "119",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Kondepudi  and K. V. L. Subramaniam, “Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, vol. 119, 2021, doi: 10.1016/j.cemconcomp.2021.103983.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kondepudi, Kala, and Kolluru V. L. Subramaniam. “Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing”. <i>Cement and Concrete Composites</i> 119 (2021). https://doi.org/10.1016/j.cemconcomp.2021.103983.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li Wang, Yi Liu, Yu Yang, Yanfeng Li, Mingke Bai
+    - footer
+title: Wang Li, Liu Yi, Yang Yu, Li Yanfeng, Bai Mingke
 description:
 tags:
  - bond
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses ([2021-04](date/2021/04))
-<a href="https://doi.org/10.1016/j.addma.2021.101992" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2021.101992</a>
+#Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses ([2021-04](date/2021/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2021.101992" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.101992" target="_blank">10.1016/j.addma.2021.101992</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/liu_yi"><b>Liu</b>&nbsp;Yi</a></span>, <a href="../../../author/yang_yu"><b>Yang</b>&nbsp;Yu</a></span>, <a href="../../../author/li_yanfeng"><b>Li</b>&nbsp;Yanfeng</a></span>, <a href="../../../author/bai_mingke"><b>Bai</b>&nbsp;Mingke</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 42
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>
-,     <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>
-,     <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a>
-,     <a href="../../../author/bai_mingke"><b>Bai</b> Mingke</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 42, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#exposure`](keyword/exposure)
-    [`#interface`](keyword/interface)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#shear`](keyword/shear)
-    [`#split`](keyword/split)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/split"><button class="btn">#split</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bonding%20Performance%20of%203D%20Printing%20Concrete%20with%20Self-Locking%20Interfaces%20Exposed%20to%20Compression-Shear%20and%20Compression-Splitting%20Stresses" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104068337&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3155945574" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2021.101992" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2021.101992?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Currently, applying 3D concrete printing to compressed structural systems with low tensile/shear stresses is a feasible and alternative route to promote this advanced technology into engineering practice because of the lack of an effective structural reinforcing method. Modular manufacturing of segmental components and fabricated construction of large-scale structures are promising for overcoming the limitations of the working dimensions of 3D printers. In this study, four different interlocking configurations are designed with "I," "V," "π," and "s"-shaped forms. Moreover, three cementitious composites–cement-, epoxy-, and phosphate-based composites–are prepared, aiming at optimizing the mechanical integrity and capacity of prefabricated structures with mechanical bite and adhesive forces. The effects of the interlocking forms on the interfacial connection strength at the joints are investigated and evaluated by compression–tensile and compression–shear tests. The results provide experimental data and references for constructing large-scale concrete arch structures by the modular assembly of 3D-printed segments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -97,8 +71,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "49 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a>, <a href="../../../author/volodymyrov_anton"><b>Volodymyrov</b> Anton</a>, <a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a>, <a href="../../../author/firsov_pavlo"><b>Firsov</b> Pavlo</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rezn_volo_tene_firs.2026.NAo3PPFiMSBC/">Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction</a></li>
@@ -149,4 +123,33 @@ tags:
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS,
+      author            = "Li Wang and Yi Liu and Yu Yang and Yanfeng Li and Mingke Bai",
+      title             = "Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses",
+      doi               = "10.1016/j.addma.2021.101992",
+      year              = "2021",
+      journal           = "Additive Manufacturing",
+      volume            = "42",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, Y. Liu, Y. Yang, Y. Li and M. Bai, “Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses”, <i>Additive Manufacturing</i>, vol. 42, 2021, doi: 10.1016/j.addma.2021.101992.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Li, Yi Liu, Yu Yang, Yanfeng Li, and Mingke Bai. “Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses”. <i>Additive Manufacturing</i> 42 (2021). https://doi.org/10.1016/j.addma.2021.101992.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

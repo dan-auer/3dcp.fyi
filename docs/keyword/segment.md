@@ -8,7 +8,7 @@ search:
 
 # #segment
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../quah_liu_tay_li.2025.IPFRi3CPwIS/">In-Process Filament Repair in 3D Concrete Printing with Instance Segmentation</a></li>
   <li><a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b> Mohamad</a>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hani_mend_figu_mahd.2025.ESotTPo3PEWSwOIP/">Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern</a></li>
   <li><a href="../../../author/brodmann_anton"><b>Brodmann</b> Anton</a>, <a href="../../../author/damtsas_efstathios"><b>Damtsas</b> Efstathios</a>, <a href="../../../author/schult_christoph"><b>Schult</b> Christoph</a>, <a href="../../../author/spaeth_benjamin"><b>Spaeth</b> Benjamin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../brod_damt_schu_spae.2024.DPoa3PCSwaSaSCC/">DesignBuild Project of a 3D Printed Concrete Shell with a Segmented and Stereotomic Construction Concept</a></li>

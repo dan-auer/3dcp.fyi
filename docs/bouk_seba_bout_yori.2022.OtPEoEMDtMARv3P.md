@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fouad Boukhelf, Nassim Sebaibi, Mohamed Boutouil, Adrian Yoris-Nobile, Elena Blanco-Fernandez, Daniel Castro-Fresno, Carlos Real-Gutierrez, Roger Herbert, Sam Greenhill, Bianca Reis, João Franco, Maria Borges, Isabel Sousa-Pinto, Pieter Linden, Oscar Babé, Hugo Meyer, Emanuel Almada, Richard Stafford, Valentin Danet, Jorge Lobo-Arteaga, Miriam Guerra, Alice Hall
+    - footer
+title: Boukhelf Fouad, Sebaibi Nassim, Boutouil Mohamed, Yoris-Nobile Adrian, Blanco-Fernandez Elena, Castro-Fresno Daniel, Real-Gutierrez Carlos, Herbert Roger, Greenhill Sam, Reis Bianca, Franco João, Borges Maria, Sousa-Pinto Isabel, Linden Pieter, Babé Oscar, Meyer Hugo, Almada Emanuel, Stafford Richard, Danet Valentin, Lobo-Arteaga Jorge, Guerra Miriam, Hall Alice
 description:
 tags:
  - artificial
@@ -21,55 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/14/15/9353/pdf?version=1659169885) On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing:<br/>:aca-blank: Long-Term Interactions of Cementitious Materials in the Marine Environment ([2022-07](date/2022/07))
-<a href="https://doi.org/10.3390/su14159353" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su14159353</a>
+#On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing&nbsp;([2022-07](date/2022/07))
+<div class="h1-like">Long-Term Interactions of Cementitious Materials in the Marine Environment</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/15/9353/pdf?version=1659169885) <a href="https://doi.org/10.3390/su14159353" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14159353" target="_blank">10.3390/su14159353</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7029-2956" title="ORCID: 0000-0002-7029-2956" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boukhelf_fouad"><b>Boukhelf</b>&nbsp;Fouad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1241-2745" title="ORCID: 0000-0002-1241-2745" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sebaibi_nassim"><b>Sebaibi</b>&nbsp;Nassim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2752-8265" title="ORCID: 0000-0002-2752-8265" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boutouil_mohamed"><b>Boutouil</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b>&nbsp;Adrian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b>&nbsp;Daniel</a></span>, <a href="../../../author/real-gutierrez_carlos"><b>Real-Gutierrez</b>&nbsp;Carlos</a></span>, <a href="../../../author/herbert_j-h_roger"><b>Herbert</b>&nbsp;Roger</a></span>, <a href="../../../author/greenhill_sam"><b>Greenhill</b>&nbsp;Sam</a></span>, <a href="../../../author/reis_bianca"><b>Reis</b>&nbsp;Bianca</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8249-5224" title="ORCID: 0000-0002-8249-5224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/franco_n_joao"><b>Franco</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4876-1354" title="ORCID: 0000-0003-4876-1354" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borges_teresa_maria"><b>Borges</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9231-0553" title="ORCID: 0000-0002-9231-0553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sousa-pinto_isabel"><b>Sousa-Pinto</b>&nbsp;Isabel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1022-553X" title="ORCID: 0000-0003-1022-553X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/linden_pieter"><b>van der&nbsp;Linden</b>&nbsp;Pieter</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1067-7595" title="ORCID: 0000-0003-1067-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babe_gomez_oscar"><b>Babé</b>&nbsp;Oscar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3613-6458" title="ORCID: 0000-0002-3613-6458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meyer_sainz_hugo"><b>Meyer</b>&nbsp;Hugo</a></span>, <a href="../../../author/almada_emanuel"><b>Almada</b>&nbsp;Emanuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1964-5787" title="ORCID: 0000-0002-1964-5787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stafford_richard"><b>Stafford</b>&nbsp;Richard</a></span>, <a href="../../../author/danet_valentin"><b>Danet</b>&nbsp;Valentin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5570-8768" title="ORCID: 0000-0001-5570-8768" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lobo-arteaga_jorge"><b>Lobo-Arteaga</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0178-310X" title="ORCID: 0000-0003-0178-310X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guerra_tuaty_miriam"><b>Guerra</b>&nbsp;Miriam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1048-3101" title="ORCID: 0000-0002-1048-3101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hall_e_alice"><b>Hall</b>&nbsp;Alice</a></span><br>
+Journal Article - Sustainability, Vol. 14, Iss. 15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/boukhelf_fouad"><b>Boukhelf</b> Fouad</a> <a href="https://orcid.org/0000-0002-7029-2956" title="ORCID: 0000-0002-7029-2956" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a> <a href="https://orcid.org/0000-0002-1241-2745" title="ORCID: 0000-0002-1241-2745" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/boutouil_mohamed"><b>Boutouil</b> Mohamed</a> <a href="https://orcid.org/0000-0002-2752-8265" title="ORCID: 0000-0002-2752-8265" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> <a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> <a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a> <a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/real-gutierrez_carlos"><b>Real-Gutierrez</b> Carlos</a>
-,     <a href="../../../author/herbert_j-h_roger"><b>Herbert</b> Roger</a>
-,     <a href="../../../author/greenhill_sam"><b>Greenhill</b> Sam</a>
-,     <a href="../../../author/reis_bianca"><b>Reis</b> Bianca</a>
-,     <a href="../../../author/franco_n_joao"><b>Franco</b> João</a> <a href="https://orcid.org/0000-0002-8249-5224" title="ORCID: 0000-0002-8249-5224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/borges_teresa_maria"><b>Borges</b> Maria</a> <a href="https://orcid.org/0000-0003-4876-1354" title="ORCID: 0000-0003-4876-1354" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sousa-pinto_isabel"><b>Sousa-Pinto</b> Isabel</a> <a href="https://orcid.org/0000-0002-9231-0553" title="ORCID: 0000-0002-9231-0553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/linden_pieter"><b>van der Linden</b> Pieter</a> <a href="https://orcid.org/0000-0003-1022-553X" title="ORCID: 0000-0003-1022-553X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babe_gomez_oscar"><b>Babé</b> Oscar</a> <a href="https://orcid.org/0000-0003-1067-7595" title="ORCID: 0000-0003-1067-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meyer_sainz_hugo"><b>Meyer</b> Hugo</a> <a href="https://orcid.org/0000-0002-3613-6458" title="ORCID: 0000-0002-3613-6458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/almada_emanuel"><b>Almada</b> Emanuel</a>
-,     <a href="../../../author/stafford_richard"><b>Stafford</b> Richard</a> <a href="https://orcid.org/0000-0002-1964-5787" title="ORCID: 0000-0002-1964-5787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/danet_valentin"><b>Danet</b> Valentin</a>
-,     <a href="../../../author/lobo-arteaga_jorge"><b>Lobo-Arteaga</b> Jorge</a> <a href="https://orcid.org/0000-0001-5570-8768" title="ORCID: 0000-0001-5570-8768" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guerra_tuaty_miriam"><b>Guerra</b> Miriam</a> <a href="https://orcid.org/0000-0003-0178-310X" title="ORCID: 0000-0003-0178-310X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hall_e_alice"><b>Hall</b> Alice</a> <a href="https://orcid.org/0000-0002-1048-3101" title="ORCID: 0000-0002-1048-3101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 14, Iss. 15, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#cement`](keyword/cement)
-    [`#environment`](keyword/environment)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#interaction`](keyword/interaction)
-    [`#length`](keyword/length)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#marine`](keyword/marine)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reef`](keyword/reef)
-    [`#term`](keyword/term)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=On%20the%20Properties%20Evolution%20of%20Eco-Material%20Dedicated%20to%20Manufacturing%20Artificial%20Reef%20via%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137219652&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -84,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4289644619" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su14159353" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su14159353?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper deals with the evolution monitoring of biomass colonization and mechanical properties of 3D printed eco-materials/mortars immersed in the sea. Measurements of tensile strength, compressive strength, and Young’s modulus were determined on samples deployed along the Atlantic coast of Europe, in France, United Kingdom, Spain, and Portugal. The samples were manufactured using 3D printing, where six mix designs with a low environmental impact binder were used. These mortars were based on geopolymer and cementitious binders (Cement CEM III), in which sand is replaced by three types of recycled sand, including glass, seashell, and limestone by 30%, 50%, and 100% respectively. The colonization of concrete samples by micro/macro-organisms and their durability were also evaluated after 1, 3, 6, 12, and 24 months of immersion. The results showed that both biomass colonization and mechanical properties were better with CEM III compared to geopolymer-based compositions. Therefore, the mixed design optimized according to mechanical properties show that the use of CEM III should be preferred over these geopolymer binders in 3D printed concrete for artificial reef applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -106,9 +62,39 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/micaelli_francesca"><b>Micaelli</b> Francesca</a> et al. <a href="../../../date/2012/06">(2012-06)</a><br><a href="../../../perr_meli_rang_mica.2012.UoREaaCRTtStBoHYSFaLSR/">Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate</a></li>
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG/">Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kuang_weifeng"><b>Kuang</b> Weifeng</a>, <a href="../../../author/pavlenko_petro"><b>Pavlenko</b> Petro</a>, <a href="../../../author/guo_haoyu"><b>Guo</b> Haoyu</a>, <a href="../../../author/tian_kuo"><b>Tian</b> Kuo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../kuan_pavl_guo_tian.2025.UoMMSWi3PECfAR/">Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs</a></li>
       <li><a href="../../../author/matus_valenzuela_ilse"><b>Matus</b> Ilse</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a>, <a href="../../../author/gois_joaquim"><b>Góis</b> Joaquim</a>, <a href="../../../author/vaz-pires_paulo"><b>Vaz-Pires</b> Paulo</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../matu_alve_gois_vaz.2024.ARTAM/">Artificial Reefs Through Additive Manufacturing:<br/>A Review of Their Design, Purposes and Fabrication Process for Marine Restoration and Management</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bouk_seba_bout_yori.2022.OtPEoEMDtMARv3P,
+      author            = "Fouad Boukhelf and Nassim Sebaibi and Mohamed Boutouil and Adrian Isidro Yoris-Nobile and Elena Blanco-Fernandez and Daniel Castro-Fresno and Carlos Real-Gutierrez and Roger J. H. Herbert and Sam Greenhill and Bianca Reis and João N. Franco and Maria Teresa Borges and Isabel Sousa-Pinto and Pieter van der Linden and Oscar Gómez Babé and Hugo Sainz Meyer and Emanuel Almada and Richard Stafford and Valentin Danet and Jorge Lobo-Arteaga and Miriam Tuaty Guerra and Alice E. Hall",
+      title             = "On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing: Long-Term Interactions of Cementitious Materials in the Marine Environment",
+      doi               = "10.3390/su14159353",
+      year              = "2022",
+      journal           = "Sustainability",
+      volume            = "14",
+      number            = "15",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Boukhelf, “On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing: Long-Term Interactions of Cementitious Materials in the Marine Environment”, <i>Sustainability</i>, vol. 14, no. 15, 2022, doi: 10.3390/su14159353.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Boukhelf, Fouad, Nassim Sebaibi, Mohamed Boutouil, Adrian Isidro Yoris-Nobile, Elena Blanco-Fernandez, Daniel Castro-Fresno, Carlos Real-Gutierrez, et al.. “On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing: Long-Term Interactions of Cementitious Materials in the Marine Environment”. <i>Sustainability</i> 14, no. 15 (2022). https://doi.org/10.3390/su14159353.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

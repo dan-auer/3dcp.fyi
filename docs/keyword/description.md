@@ -8,7 +8,7 @@ search:
 
 # #description
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rusu_m_mihai"><b>Rusu</b> Mihai</a>, <a href="../../../author/ardelean_ioan"><b>Ardelean</b> Ioan</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rusu_arde.2025.RBtPDoMaNRD/">Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data</a></li>
   <li><a href="../../../author/sharma_shivam"><b>Sharma</b> Shivam</a>, <a href="../../../author/tahlawi_m"><b>Tahlawi</b> M.</a>, <a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../shar_tahl_dela_side.2025.SDMfLR3PC3BStNSL/">Structural Design Methodology for Low-Rise 3D Printed Concrete (3DPC) Buildings Subjected to Non-Seismic Loading:<br/>Description, Application and Validation</a></li>
   <li><a href="../../../author/travush_vladimir"><b>Travush</b> Vladimir</a>, <a href="../../../author/bulgakov_alexey"><b>Bulgakov</b> Alexey</a>, <a href="../../../author/bock_thomas"><b>Bock</b> Thomas</a>, <a href="../../../author/yu_wen-der"><b>Yu</b> Wen-der</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../trav_bulg_bock_yu.2023.MDoCLR/">Mathematical Description of Concrete Laying Robots</a></li>

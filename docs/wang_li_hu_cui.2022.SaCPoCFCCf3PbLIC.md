@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li Wang, Qiqi Li, Yuanyuan Hu, Tianlong Cui, Rong Li
+    - footer
+title: Wang Li, Li Qiqi, Hu Yuanyuan, Cui Tianlong, Li Rong
 description:
 tags:
  - cellulose
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Shrinkage and Cracking Properties of Cellulose-Fiber-Concrete Composites for 3D Printing by Leveraging Internal Curing ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1089/3dp.2021.0281" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2021.0281</a>
+#Shrinkage and Cracking Properties of Cellulose-Fiber-Concrete Composites for 3D Printing by Leveraging Internal Curing ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1089/3dp.2021.0281" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2021.0281" target="_blank">10.1089/3dp.2021.0281</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/li_qiqi"><b>Li</b>&nbsp;Qiqi</a></span>, <a href="../../../author/hu_yuanyuan"><b>Hu</b>&nbsp;Yuanyuan</a></span>, <a href="../../../author/cui_tianlong"><b>Cui</b>&nbsp;Tianlong</a></span>, <a href="../../../author/li_rong"><b>Li</b>&nbsp;Rong</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_qiqi"><b>Li</b> Qiqi</a>
-,     <a href="../../../author/hu_yuanyuan"><b>Hu</b> Yuanyuan</a>
-,     <a href="../../../author/cui_tianlong"><b>Cui</b> Tianlong</a>
-,     <a href="../../../author/li_rong"><b>Li</b> Rong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cellulose`](keyword/cellulose)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#cure`](keyword/cure)
-    [`#fiber`](keyword/fiber)
-    [`#internal`](keyword/internal)
-    [`#lever`](keyword/lever)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Shrinkage%20and%20Cracking%20Properties%20of%20Cellulose-Fiber-Concrete%20Composites%20for%203D%20Printing%20by%20Leveraging%20Internal%20Curing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185825357&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4286225599" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2021.0281" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2021.0281?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Compared with conventional formwork casting materials, 3D printed concrete (3DPC) is characterized by large amounts of cementitious materials, a low aggregate–binder ratio, and a large water evaporation area, which make the printed materials and structures highly prone to plastic shrinkage and cracking. In this study, cellulose fibers were incorporated into concrete to improve its moisture distribution and increase its early-age strength. The effects of both dry and prewet cellulose fibers on properties of 3DPC were experimentally investigated. To ensure consistency in the amounts of dry fibers used, 0.5–2% dry cellulose fibers and 1–4% prewet cellulose fibers were adopted. The effects of the added cellulose fibers on printability, mechanical strength, shrinkage, and cracking performance of the 3DPC were experimentally studied. Particularly, a constraint method was developed to access the cracking behavior of 3DPC. Favorable shrinkage resistance was achieved, and the 120day shrinkage decreased by 17.9% and 23.3% by addition of 2% dry fibers and 4% prewet fibers, respectively. Cracking was eliminated with addition of 4% prewet fibers, without influencing the printability and mechanical properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b> Sadegh</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/kruger_markus"><b>Krüger</b> Markus</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ghou_butl_krug_mech.2021.MtDoCPiF3PCE/">Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
@@ -88,8 +62,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>
       <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a>, <a href="../../../author/wang_ziyuan"><b>Wang</b> Ziyuan</a>, <a href="../../../author/yu_ruifang"><b>Yu</b> Ruifang</a>, <a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../qi_wang_yu_pei.2025.ODaRMAoMPo3PC/">Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dias_bran_figu_cruz.2024.TPoNFRi3PC/">The Potential of Natural Fiber-Reinforcement in 3D Printed Concrete:<br/>A Review</a></li>
@@ -98,4 +72,32 @@ tags:
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_li_hu_cui.2022.SaCPoCFCCf3PbLIC,
+      author            = "Li Wang and Qiqi Li and Yuanyuan Hu and Tianlong Cui and Rong Li",
+      title             = "Shrinkage and Cracking Properties of Cellulose-Fiber-Concrete Composites for 3D Printing by Leveraging Internal Curing",
+      doi               = "10.1089/3dp.2021.0281",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, Q. Li, Y. Hu, T. Cui and R. Li, “Shrinkage and Cracking Properties of Cellulose-Fiber-Concrete Composites for 3D Printing by Leveraging Internal Curing”, <i>3D Printing and Additive Manufacturing</i>, 2022, doi: 10.1089/3dp.2021.0281.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Li, Qiqi Li, Yuanyuan Hu, Tianlong Cui, and Rong Li. “Shrinkage and Cracking Properties of Cellulose-Fiber-Concrete Composites for 3D Printing by Leveraging Internal Curing”. <i>3D Printing and Additive Manufacturing</i>, 2022. https://doi.org/10.1089/3dp.2021.0281.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

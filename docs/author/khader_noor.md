@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Khader Noor 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../diel_lach_khad_hack.2024.RR/">Robotic Repair:<br/>In-Place 3D Printing for Repair of Building Components Using a Mobile Robot</a></li>
   <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/gosslar_joschua"><b>Gosslar</b> Joschua</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mai_goss_khad_lowk.2024.WfEB3P/">Workflow for Earth-Based 3D Printing</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../xiao_khad_vand_lowk.2022.I3CPICwVB3GS/">Injection 3D Concrete Printing (I3DCP) Combined with Vector-Based 3D Graphic Statics</a></li>

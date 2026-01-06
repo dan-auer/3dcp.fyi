@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: P. Singh, K. Sreerag
+    - footer
+title: Singh P., Sreerag K.
 description:
 tags:
  - additive
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1755-1315/614/1/012069) Additive Manufacturing Through Digital Concrete by Extrusion- and Non-Extrusion-Method ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1088/1755-1315/614/1/012069" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1755-1315/614/1/012069</a>
+#Additive Manufacturing Through Digital Concrete by Extrusion- and Non-Extrusion-Method ([2020-12](date/2020/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1755-1315/614/1/012069) <a href="https://doi.org/10.1088/1755-1315/614/1/012069" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/614/1/012069" target="_blank">10.1088/1755-1315/614/1/012069</a>
 
--------------------------
+<a href="../../../author/singh_p"><b>Singh</b>&nbsp;P.</a></span>, <a href="../../../author/sreerag_s_k"><b>Sreerag</b>&nbsp;K.</a></span><br>
+Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 614, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/singh_p"><b>Singh</b> P.</a>
-,     <a href="../../../author/sreerag_s_k"><b>Sreerag</b> K.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 614, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#extrusion`](keyword/extrusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#method`](keyword/method)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Through%20Digital%20Concrete%20by%20Extrusion-%20and%20Non-Extrusion-Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098567569&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3116944265" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1755-1315/614/1/012069" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1755-1315/614/1/012069?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The phase of construction industries is very weak to adapt new technologies. We faced plenty of problems related to our construction industries because of old conventional method. Digital Concreting (DC) is the techniques from Additive Manufacturing (AM), the concrete is laying like layers to build a whole structure. DC could to overcome the problems faced by conventional construction. Furthermore, the DC will open the windows that allow the new innovative technologies enter in to construction industries. Generally, the usage of concrete is more than enough so it leads to increase the waste in site and harmful to environment. In DC technique uses of the concrete is only for need and no excess use. The properties of concrete are different for printing compared to conventional method. In this paper, we discussed about the general view on DC, properties of concrete and the methods used to print.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
@@ -86,7 +68,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sing_sree.2020.AMTDCbEaNEM,
+      author            = "P. Singh and K. S. Sreerag",
+      title             = "Additive Manufacturing Through Digital Concrete by Extrusion- and Non-Extrusion-Method",
+      doi               = "10.1088/1755-1315/614/1/012069",
+      year              = "2020",
+      journal           = "IOP Conference Series: Earth and Environmental Science",
+      volume            = "614",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Singh  and K. S. Sreerag, “Additive Manufacturing Through Digital Concrete by Extrusion- and Non-Extrusion-Method”, <i>IOP Conference Series: Earth and Environmental Science</i>, vol. 614, no. 1, 2020, doi: 10.1088/1755-1315/614/1/012069.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Singh, P., and K. S. Sreerag. “Additive Manufacturing Through Digital Concrete by Extrusion- and Non-Extrusion-Method”. <i>IOP Conference Series: Earth and Environmental Science</i> 614, no. 1 (2020). https://doi.org/10.1088/1755-1315/614/1/012069.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

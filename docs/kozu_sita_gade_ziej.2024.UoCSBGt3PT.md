@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Barbara Kozub, Mateusz Sitarz, Szymon Gądek, Celina Ziejewska, Katarzyna Mróz, Izabela Hager
+    - footer
+title: Kozub Barbara, Sitarz Mateusz, Gądek Szymon, Ziejewska Celina, Mróz Katarzyna, Hager Izabela
 description:
 tags:
  - base
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/17/22/5581/pdf?version=1731657387) Upscaling of Copper Slag-Based Geopolymer to 3D Printing Technology ([2024-11](date/2024/11))
-<a href="https://doi.org/10.3390/ma17225581" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17225581</a>
+#Upscaling of Copper Slag-Based Geopolymer to 3D Printing Technology ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/22/5581/pdf?version=1731657387) <a href="https://doi.org/10.3390/ma17225581" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17225581" target="_blank">10.3390/ma17225581</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5155-1940" title="ORCID: 0000-0002-5155-1940" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kozub_barbara"><b>Kozub</b>&nbsp;Barbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6219-3256" title="ORCID: 0000-0001-6219-3256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sitarz_mateusz"><b>Sitarz</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gadek_szymon"><b>Gądek</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6383-7639" title="ORCID: 0000-0002-6383-7639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ziejewska_celina"><b>Ziejewska</b>&nbsp;Celina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mroz_katarzyna"><b>Mróz</b>&nbsp;Katarzyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 22
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kozub_barbara"><b>Kozub</b> Barbara</a> <a href="https://orcid.org/0000-0002-5155-1940" title="ORCID: 0000-0002-5155-1940" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> <a href="https://orcid.org/0000-0001-6219-3256" title="ORCID: 0000-0001-6219-3256" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> <a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a> <a href="https://orcid.org/0000-0002-6383-7639" title="ORCID: 0000-0002-6383-7639" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a> <a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> <a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 22, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#copper`](keyword/copper)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#slag`](keyword/slag)
-    [`#technology`](keyword/technology)
-    [`#upscaling`](keyword/upscaling)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/upscaling"><button class="btn">#upscaling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Upscaling%20of%20Copper%20Slag-Based%20Geopolymer%20to%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210244156&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404418510" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17225581" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17225581?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing using cement has evolved rapidly in recent decades, revolutionizing the construction industry. This technology automates building structures through computer-aided design, offering benefits such as reduced material waste, optimized material distribution, and the ability to use composite materials. This paper aims to examine the potential of using copper-slag-based geopolymers in 3D printing. Geopolymers have gained popularity as an alternative and more energy-efficient material to traditional building materials, while copper slag allows for reducing and managing mining industry waste. Moreover, samples formed in molds based on the same material were produced to evaluate the method of manufacturing on the mechanical properties of geopolymers. This paper presents an evaluation of the mechanical properties including the compressive, flexural, and shear strength of the layered material. It reveals promising results, with strength development mainly observed within the first 14 days. The results show that the compressive strength after 28 days of curing is 46.4 MP and 42.1 MPa for formed and printed samples, respectively. Furthermore, the average bending strength value ranges between 7.4 MPa and 7.8 MPa, regardless of the bending direction and forming method. The obtained results show that printed geopolymers demonstrate adequate layer bonding, confirming the profitability of the 3D printing technology. This research confirms that 3D printing technology enables the use of geopolymer binder materials based on copper slag, which opens the door to sustainable alternatives in construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -100,7 +77,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kozu_sita_gade_ziej.2024.UoCSBGt3PT,
+      author            = "Barbara Kozub and Mateusz Sitarz and Szymon Gądek and Celina Ziejewska and Katarzyna Mróz and Izabela Hager",
+      title             = "Upscaling of Copper Slag-Based Geopolymer to 3D Printing Technology",
+      doi               = "10.3390/ma17225581",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "22",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Kozub, M. Sitarz, S. Gądek, C. Ziejewska, K. Mróz and I. Hager, “Upscaling of Copper Slag-Based Geopolymer to 3D Printing Technology”, <i>Materials</i>, vol. 17, no. 22, 2024, doi: 10.3390/ma17225581.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kozub, Barbara, Mateusz Sitarz, Szymon Gądek, Celina Ziejewska, Katarzyna Mróz, and Izabela Hager. “Upscaling of Copper Slag-Based Geopolymer to 3D Printing Technology”. <i>Materials</i> 17, no. 22 (2024). https://doi.org/10.3390/ma17225581.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

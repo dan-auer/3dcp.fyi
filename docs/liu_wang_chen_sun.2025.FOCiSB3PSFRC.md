@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Haonan Wang, Jinnan Chen, Yuhang Sun, Tianwei Feng, Song Bai
+    - footer
+title: Liu Xiongfei, Wang Haonan, Chen Jinnan, Sun Yuhang, Feng Tianwei, Bai Song
 description:
 tags:
  - base
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144418" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144418</a>
+#Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.144418" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144418" target="_blank">10.1016/j.conbuildmat.2025.144418</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/wang_haonan"><b>Wang</b>&nbsp;Haonan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8466-2890" title="ORCID: 0000-0002-8466-2890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_jinnan"><b>Chen</b>&nbsp;Jinnan</a></span>, <a href="../../../author/sun_yuhang"><b>Sun</b>&nbsp;Yuhang</a></span>, <a href="../../../author/feng_tianwei"><b>Feng</b>&nbsp;Tianwei</a></span>, <a href="../../../author/bai_song"><b>Bai</b>&nbsp;Song</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 501, No. 144418
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>
-,     <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a> <a href="https://orcid.org/0000-0002-8466-2890" title="ORCID: 0000-0002-8466-2890" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>
-,     <a href="../../../author/feng_tianwei"><b>Feng</b> Tianwei</a>
-,     <a href="../../../author/bai_song"><b>Bai</b> Song</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 501, No. 144418
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#fiber`](keyword/fiber)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#spray`](keyword/spray)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fiber%20Orientation%20Control%20in%20Spray-Based%203D%20Printed%20Steel%20Fiber%20Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021090105&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415976679" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144418" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144418?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the effects of steel fiber contents (0–3.0 vol% at 0.5 vol% increments) on fiber orientation control and mechanical enhancement in spray-based 3D (S-3D) printed steel fiber reinforced concrete. Fiber orientation distribution, orientation ratio, pore structure, and fiber–matrix interfacial morphology are characterized using X-ray computed tomography (X-CT) and scanning electron microscopy (SEM). Based on flexural stress field distribution of beam, an optimized S-3D printing path is designed to maximize fiber alignment effect. The test results show that the S-3D printing process effectively orients steel fibers in printed concrete, achieving a maximum orientation ratio of 65.88 % at 2 vol% fiber content (P2). Meanwhile, this process effectively optimizes the microstructure of the concrete. As revealed by SEM observations, the porosity is reduced to as low as 1.41 %, and the fibers exhibit strong interfacial bonding with the matrix. The fiber orientation effect can effectively enhance the strength and toughness of concrete. In the Y direction, the 28-day compressive and flexural strengths of printed P2 maximumly reach 87.5 MPa and 22.0 MPa, representing increasement of 16.48 % and 10.78 % over cast specimen with identical fiber content (C0), and 23.15 % and 87.23 % than that of printed fiber-free specimen (P0), respectively. The optimized printing path enhances fiber alignment, yielding 49.34 % higher flexural strength and 14.12 % greater deformation capacity compared to cast beam. These findings demonstrate that S-3D printing facilitates precise fiber orientation control, unlocking the high-strength and -toughness potential of steel fibers and providing a viable approach for structural-scale concrete for additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
@@ -90,7 +65,6 @@ tags:
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_li_li.2022.SaMPOoSB3PCbPF/">Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/hou_gunayu"><b>Hou</b> Gunayu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../liu_li_li_hou.2023.MPOiSBTDPMUCF/">Mechanical Performance Optimization in Spray-Based Three-Dimensional-Printed Mortar Using Carbon-Fiber</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_li_wang_ma.2022.SAfPEaMPOoSB3PM/">Systematic Approach for Printability Evaluation and Mechanical Property Optimization of Spray-Based 3D Printed Mortar</a></li>
-      <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_wang_zhu_wu.2025.Do3PCMfWS/">Design of 3D Printed Concrete Masonry for Wall Structures:<br/>Mechanical Behavior and Strength Calculation Methods Under Various Loads</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../liu_zhan_liu_wu.2024.ILR3PCwRCA/">Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate:<br/>Shear Properties and Enhancement Methods</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lu_li_wong_qian.2021.EoPPoMDiSB3CPS3/">Effect of Printing Parameters on Material-Distribution in Spray-Based 3D Concrete Printing (S-3DCP)</a></li>
@@ -109,8 +83,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_wang_chen_sun.2025.FOCiSB3PSFRC,
+      author            = "Xiongfei Liu and Haonan Wang and Jinnan Chen and Yuhang Sun and Tianwei Feng and Song Bai",
+      title             = "Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.144418",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "501",
+      pages             = "144418",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, H. Wang, J. Chen, Y. Sun, T. Feng and S. Bai, “Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete”, <i>Construction and Building Materials</i>, vol. 501, p. 144418, 2025, doi: 10.1016/j.conbuildmat.2025.144418.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Haonan Wang, Jinnan Chen, Yuhang Sun, Tianwei Feng, and Song Bai. “Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete”. <i>Construction and Building Materials</i> 501 (2025): 144418. https://doi.org/10.1016/j.conbuildmat.2025.144418.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

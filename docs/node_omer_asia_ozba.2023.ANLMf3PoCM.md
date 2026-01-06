@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehrab Nodehi, Liam Omer, Bahram Asiabanpour, Togay Ozbakkaloglu
+    - footer
+title: Nodehi Mehrab, Omer Liam, Asiabanpour Bahram, Ozbakkaloglu Togay
 description:
 tags:
  - cement
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Novel Lightweight Mechanism for 3D Printing of Cementitious Materials ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1007/s40964-023-00441-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-023-00441-8</a>
+#A Novel Lightweight Mechanism for 3D Printing of Cementitious Materials ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-023-00441-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-023-00441-8" target="_blank">10.1007/s40964-023-00441-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nodehi_mehrab"><b>Nodehi</b>&nbsp;Mehrab</a></span>, <a href="../../../author/omer_liam"><b>Omer</b>&nbsp;Liam</a></span>, <a href="../../../author/asiabanpour_bahram"><b>Asiabanpour</b>&nbsp;Bahram</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b>&nbsp;Togay</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a> <a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/omer_liam"><b>Omer</b> Liam</a>
-,     <a href="../../../author/asiabanpour_bahram"><b>Asiabanpour</b> Bahram</a>
-,     <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> <a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#light`](keyword/light)
-    [`#material`](keyword/material)
-    [`#mechanism`](keyword/mechanism)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%20Lightweight%20Mechanism%20for%203D%20Printing%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153383675&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366816401" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-023-00441-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-023-00441-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Applications of additive manufacturing (AM) in the construction industry started 3 decades ago with the first patent and prototype of the contour crafting process. Since then, its obvious benefits in reducing labor cost and construction waste, while improving efficiency and flexibility, have led to the development of several large-scale commercial machines in this field. However, proper lab-scale machines for training experts in automated construction and research-based activities, such as material optimizations for civil and structural engineers are often costly and require large spaces. The only available small-scale apparatus in AM-based construction is usually limited to being able to print only a minimal list of materials with fine sizes. As a result, those machines are not capable of fabricating samples from cementitious materials with a variety of aggregate sizes. This paper compares two low-cost, modular AM-based construction systems capable of extruding a wide variety of cementitious materials with diverse aggregate sizes. The systems are capable of controlled extrusion with a variety of cross-section forms. Additionally, the systems can be attached to a robotic arm, or other computer numerical control (CNC) machines. As a proof-of-concept, the developed system is utilized to fabricate cement mortar with larger aggregate sizes with varied material compositions. Mechanical performance and shrinkage of the resulting additively manufactured cementitious parts are examined and compared.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -101,7 +82,35 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{node_omer_asia_ozba.2023.ANLMf3PoCM,
+      author            = "Mehrab Nodehi and Liam Omer and Bahram Asiabanpour and Togay Ozbakkaloglu",
+      title             = "A Novel Lightweight Mechanism for 3D Printing of Cementitious Materials",
+      doi               = "10.1007/s40964-023-00441-8",
+      year              = "2023",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Nodehi, L. Omer, B. Asiabanpour and T. Ozbakkaloglu, “A Novel Lightweight Mechanism for 3D Printing of Cementitious Materials”, <i>Progress in Additive Manufacturing</i>, 2023, doi: 10.1007/s40964-023-00441-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nodehi, Mehrab, Liam Omer, Bahram Asiabanpour, and Togay Ozbakkaloglu. “A Novel Lightweight Mechanism for 3D Printing of Cementitious Materials”. <i>Progress in Additive Manufacturing</i>, 2023. https://doi.org/10.1007/s40964-023-00441-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kay Smarsly, Patricia Peralta, Daniel Luckey, Sebastian Heine, Horst-Michael Ludwig
+    - footer
+title: Smarsly Kay, Peralta Patricia, Luckey Daniel, Heine Sebastian, Ludwig Horst-Michael
 description:
 tags:
  - base
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} BIM-Based Concrete Printing ([2020-08](date/2020/08))
-<a href="https://doi.org/10.1007/978-3-030-51295-8_69" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-51295-8_69</a>
+#BIM-Based Concrete Printing ([2020-08](date/2020/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-51295-8_69" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-51295-8_69" target="_blank">10.1007/978-3-030-51295-8_69</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/smarsly_kay"><b>Smarsly</b>&nbsp;Kay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peralta_patricia"><b>Peralta</b>&nbsp;Patricia</a></span>, <a href="../../../author/luckey_daniel"><b>Luckey</b>&nbsp;Daniel</a></span>, <a href="../../../author/heine_sebastian"><b>Heine</b>&nbsp;Sebastian</a></span>, <a href="../../../author/ludwig_horst-michael"><b>Ludwig</b>&nbsp;Horst-Michael</a></span><br>
+Contribution - Proceedings of the 18th International Conference on Computing in Civil and Building Engineering, pp. 992-1002
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a> <a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/luckey_daniel"><b>Luckey</b> Daniel</a>
-,     <a href="../../../author/heine_sebastian"><b>Heine</b> Sebastian</a>
-,     <a href="../../../author/ludwig_horst-michael"><b>Ludwig</b> Horst-Michael</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 18th International Conference on Computing in Civil and Building Engineering, pp. 992-1002
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bim`](keyword/bim)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=BIM-Based%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088479759&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3042833234" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-51295-8_69" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-51295-8_69?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based additive manufacturing (AM), or three-dimensional (3D) printing, has matured into a set of advanced methods to automate the construction of large-scale concrete structures, while minimizing cost and material waste. However, current AM data models are inadequate for 3D concrete printing due to insufficient incorporation of information on the relationships between process, material, and geometry, which may cause redundancy, information loss, and inconsistencies. Aiming at improving AM data modeling for concrete printing, this paper proposes a metamodeling approach for AM of concrete structures, referred to as “printing information modeling”, which takes advantage of building information modeling (BIM). As will be shown in this paper, the BIM-based printing information model, serving as a metamodel, incorporates the digital data triplet of process, material, and geometry parameters to generate computer numerical control (CNC) commands that may readily be used for concrete printing. A validation test is performed, which instantiates the printing information model, using a BIM model, for generating CNC commands, enabling optimal digital data exchange from BIM models to concrete printers. As a result of this study, it is demonstrated that printing information modeling adequately defines the information required for AM of concrete structures using a BIM-based approach, showing promising potential to improve current AM data modeling efforts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -70,8 +51,8 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vollmert_jasper"><b>Vollmert</b> Jasper</a>, <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/alatassi_adel"><b>Alatassi</b> Adel</a>, <a href="../../../author/chmelnizkij_alexander"><b>Chmelnizkij</b> Alexander</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../voll_pera_alat_chme.2025.TSHMoCPS/">Towards Structural Health Monitoring of Clay-Printed Structures</a></li>
       <li><a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/al-zuriqat_thamer"><b>Al-Zuriqat</b> Thamer</a>, <a href="../../../author/noufal_mahmoud"><b>Noufal</b> Mahmoud</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pera_alz_nouf_smar.2025.ADDiCP/">Automated Defect Detection in Clay Printing</a></li>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../roja_hasa.2025.AIBPWf3CPP/">An Integrated BIM Planning Workflow for 3D Concrete Printing Projects</a></li>
@@ -83,4 +64,35 @@ tags:
       <li><a href="../../../author/strohle_max"><b>Strohle</b> Max</a>, <a href="../../../author/sadique_monower"><b>Sadique</b> Monower</a>, <a href="../../../author/dulaimi_anmar"><b>Dulaimi</b> Anmar</a>, <a href="../../../author/kadhim_amoori_mustafa"><b>Kadhim</b> Mustafa</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../stro_sadi_dula_kadh.2023.PaBo3C/">Prospect and Barrier of 3D Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pera_smar.2022.RAoAMfCP/">Requirements-Analysis of Additive Manufacturing for Concrete Printing:<br/>A Systematic Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{smar_pera_luck_hein.2021.BBCP,
+      author            = "Kay Smarsly and Patricia Peralta and Daniel Luckey and Sebastian Heine and Horst-Michael Ludwig",
+      title             = "BIM-Based Concrete Printing",
+      doi               = "10.1007/978-3-030-51295-8_69",
+      year              = "2021",
+      volume            = "98",
+      pages             = "992--1002",
+      booktitle         = "Proceedings of the 18th International Conference on Computing in Civil and Building Engineering",
+      editor            = "Eduardo Toledo Santos and Sergio Scheer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Smarsly, P. Peralta, D. Luckey, S. Heine and H.-M. Ludwig, “BIM-Based Concrete Printing”, in <i>Proceedings of the 18th International Conference on Computing in Civil and Building Engineering</i>,  2021, vol. 98, pp. 992–1002. doi: 10.1007/978-3-030-51295-8_69.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Smarsly, Kay, Patricia Peralta, Daniel Luckey, Sebastian Heine, and Horst-Michael Ludwig. “BIM-Based Concrete Printing”. In <i>Proceedings of the 18th International Conference on Computing in Civil and Building Engineering</i>, edited by Eduardo Toledo Santos and Sergio Scheer, 98:992–1002, 2021. https://doi.org/10.1007/978-3-030-51295-8_69.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

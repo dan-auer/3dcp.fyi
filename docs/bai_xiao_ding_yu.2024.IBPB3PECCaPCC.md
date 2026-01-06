@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meiyan Bai, Jianzhuang Xiao, Tao Ding, Kequan Yu
+    - footer
+title: Bai Meiyan, Xiao Jianzhuang, Ding Tao, Yu Kequan
 description:
 tags:
  - bond
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105897" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105897</a>
+#Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105897" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105897" target="_blank">10.1016/j.cemconcomp.2024.105897</a>
 
--------------------------
+<a href="../../../author/bai_meiyan"><b>Bai</b>&nbsp;Meiyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105897
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105897
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#cast`](keyword/cast)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#engineered`](keyword/engineered)
-    [`#interface`](keyword/interface)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interfacial%20Bond-Properties%20Between%203D%20Printed%20Engineered%20Cementitious%20Composite%20and%20Post-Cast%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212986410&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405430122" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105897" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105897?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Buildings can be rapidly constructed using 3D printed concrete technology without formwork, garnering increasing attention within the construction industry. The effects of different printing parameters on the splitting tensile strength, shear strength, pore structure, and micromorphology of the interface between 3D printed ECC and post-cast concrete were investigated, including single-layer printing height, fiber content, and recycled sand replacement ratio. The results indicated that as the fiber content and single-layer printing height increased, the interfacial bond strength was initially enhanced while subsequently decreased, with optimal bond strength achieved at a 15 mm single-layer printing height. Moderate fiber content and single-layer printing height were beneficial for interfacial bond strength. Meanwhile, the interfacial bond strength was reduced due to the evolution of interfacial pore structure after the incorporation of recycled sand. The splitting tensile strength and shear strength of the interface between 3D printed ECC and post-cast concrete decreased by 36.1% and 35.8%, respectively, when the replacement ratio of recycled sand in ECC was 100%. Additionally, models for the interfacial shear strength between 3D printed ECC and post-cast concrete were proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
@@ -95,8 +71,10 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
+      <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -107,4 +85,33 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zhao_shen_zhu_ding.2025.EIBaPSOi3PHSEwSPHF/">Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bai_xiao_ding_yu.2024.IBPB3PECCaPCC,
+      author            = "Meiyan Bai and Jianzhuang Xiao and Tao Ding and Kequan Yu",
+      title             = "Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete",
+      doi               = "10.1016/j.cemconcomp.2024.105897",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105897",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Bai, J. Xiao, T. Ding and K. Yu, “Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete”, <i>Cement and Concrete Composites</i>, p. 105897, 2024, doi: 10.1016/j.cemconcomp.2024.105897.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bai, Meiyan, Jianzhuang Xiao, Tao Ding, and Kequan Yu. “Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete”. <i>Cement and Concrete Composites</i>, 2024, 105897. https://doi.org/10.1016/j.cemconcomp.2024.105897.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

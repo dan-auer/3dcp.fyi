@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Izabela Hager, Marcin Maroszek, Katarzyna Mróz, Rafał Kęsek, Marek Hebda, Leonid Dvorkin, Vitaliy Marchuk
+    - footer
+title: Hager Izabela, Maroszek Marcin, Mróz Katarzyna, Kęsek Rafał, Hebda Marek, Dvorkin Leonid, Marchuk Vitaliy
 description:
 tags:
  - application
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/12/4112/pdf?version=1655708352) Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications ([2022-06](date/2022/06))
-<a href="https://doi.org/10.3390/ma15124112" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15124112</a>
+#Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/12/4112/pdf?version=1655708352) <a href="https://doi.org/10.3390/ma15124112" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15124112" target="_blank">10.3390/ma15124112</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mroz_katarzyna"><b>Mróz</b>&nbsp;Katarzyna</a></span>, <a href="../../../author/kesek_rafal"><b>Kęsek</b>&nbsp;Rafał</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8759-6318" title="ORCID: 0000-0001-8759-6318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dvorkin_leonid"><b>Dvorkin</b>&nbsp;Leonid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0999-0402" title="ORCID: 0000-0003-0999-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchuk_vitaliy"><b>Marchuk</b>&nbsp;Vitaliy</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> <a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a> <a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kesek_rafal"><b>Kęsek</b> Rafał</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a> <a href="https://orcid.org/0000-0001-8759-6318" title="ORCID: 0000-0001-8759-6318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> <a href="https://orcid.org/0000-0003-0999-0402" title="ORCID: 0000-0003-0999-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#bond`](keyword/bond)
-    [`#construction`](keyword/construction)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#mineral`](keyword/mineral)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Bond%20Strength%20Testing%20in%203D%20Printed%20Mineral%20Materials%20for%20Construction%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132733814&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281945897" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15124112" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15124112?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There are no standards for testing the properties of 3D-printed materials; hence, the need to develop guidelines for implementing this type of experiment is necessary. The work concerns the development of a research methodology for interlayer bond strength evaluation in 3D-printed mineral materials. In additive manufactured construction elements, the bond strength is a significant factor as it determines the load-bearing capacity of the entire structural element. After we completed a literature review, the following three test methods were selected for consideration: direct tensile, splitting, and shear tests. The paper compares the testing procedure, results, and sample failure modes. The splitting test was found to be the most effective for assessing layer adhesion, by giving the lowest scatter of results while being an easy test to carry out.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../he_chow_li.2020.EoILNaSSoILSo3PCP/">Effects of Inter-Layer Notch and Shear Stress on Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a></li>
@@ -90,8 +63,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.EoNSODPIaIoGFMRi3PC/">Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete</a></li>
@@ -110,4 +84,34 @@ tags:
       <li><a href="../../../author/dang_thuy-hang_thi"><b>Dang</b> Thi</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dang_tran.2024.VotABCPLia3CPS/">Variation of the Adhesion Between Concrete Printed Layers in a 3D Concrete Printed Structure</a></li>
       <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a>, <a href="../../../author/konkol_janusz"><b>Konkol</b> Janusz</a>, <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a>, <a href="../../../author/huts_andriy"><b>Huts</b> Andriy</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../dvor_konk_marc_huts.2022.EoPAiCf3CPUFA/">Effectiveness of Polymer Additives in Concrete for 3D Concrete Printing Using Fly-Ash</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hage_maro_mroz_kese.2022.ILBSTi3PMMfCA,
+      author            = "Izabela Hager and Marcin Maroszek and Katarzyna Mróz and Rafał Kęsek and Marek Hebda and Leonid Dvorkin and Vitaliy Marchuk",
+      title             = "Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications",
+      doi               = "10.3390/ma15124112",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Hager, “Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications”, <i>Materials</i>, vol. 15, no. 12, 2022, doi: 10.3390/ma15124112.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hager, Izabela, Marcin Maroszek, Katarzyna Mróz, Rafał Kęsek, Marek Hebda, Leonid Dvorkin, and Vitaliy Marchuk. “Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications”. <i>Materials</i> 15, no. 12 (2022). https://doi.org/10.3390/ma15124112.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

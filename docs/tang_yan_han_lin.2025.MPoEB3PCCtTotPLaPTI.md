@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Boyang Tang, Jiachuan Yan, Xiaoyu Han, Yini Lin, Feng Fan
+    - footer
+title: Tang Boyang, Yan Jiachuan, Han Xiaoyu, Lin Yini, Fan Feng
 description:
 tags:
  - base
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of Extrusion-Based 3D-Printed Concrete Considering the Thickness of the Printed Layer and Printing Time Interval ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.istruc.2025.109225" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.109225</a>
+#Mechanical Properties of Extrusion-Based 3D-Printed Concrete Considering the Thickness of the Printed Layer and Printing Time Interval ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109225" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109225" target="_blank">10.1016/j.istruc.2025.109225</a>
 
--------------------------
+<a href="../../../author/tang_boyang"><b>Tang</b>&nbsp;Boyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_jiachuan"><b>Yan</b>&nbsp;Jiachuan</a></span>, <a href="../../../author/han_xiaoyu"><b>Han</b>&nbsp;Xiaoyu</a></span>, <a href="../../../author/lin_yini"><b>Lin</b>&nbsp;Yini</a></span>, <a href="../../../author/fan_feng"><b>Fan</b>&nbsp;Feng</a></span><br>
+Journal Article - Structures, Vol. 78, No. 109225
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a>
-,     <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a> <a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>
-,     <a href="../../../author/lin_yini"><b>Lin</b> Yini</a>
-,     <a href="../../../author/fan_feng"><b>Fan</b> Feng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 78, No. 109225
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#interval`](keyword/interval)
-    [`#layer`](keyword/layer)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#thickness`](keyword/thickness)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Extrusion-Based%203D-Printed%20Concrete%20Considering%20the%20Thickness%20of%20the%20Printed%20Layer%20and%20Printing%20Time%20Interval" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005415535&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410533393" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.109225" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.109225?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigated the performance of 3D printed concrete with a focus on the bonding layer, considering the thickness of the printed layers. Through experimental testing and numerical simulation, the mechanical properties and failure mechanisms of the bonding layer were thoroughly analyzed. The results revealed that compressive strength diminishes with thinner layers and longer printing intervals, while anisotropic mechanical properties become increasingly pronounced with reduced layer thickness. The static performance of 3D printed concrete arches was also studied, showing that increased layer thickness enhances the ultimate load bearing capacity. Cohesive elements were used to simulate compressive strength across varying layer thicknesses and printing time intervals. Prediction formulae for compressive strength were developed and validated through experimental data. The study further simulated the static performance of arches using both cohesive elements and anisotropic material properties, confirming the accuracy of the strength prediction formulae and the effectiveness of the simulation methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "53 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -126,8 +101,39 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tang_yan_han_lin.2025.MPoEB3PCCtTotPLaPTI,
+      author            = "Boyang Tang and Jiachuan Yan and Xiaoyu Han and Yini Lin and Feng Fan",
+      title             = "Mechanical Properties of Extrusion-Based 3D-Printed Concrete Considering the Thickness of the Printed Layer and Printing Time Interval",
+      doi               = "10.1016/j.istruc.2025.109225",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "78",
+      pages             = "109225",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Tang, J. Yan, X. Han, Y. Lin and F. Fan, “Mechanical Properties of Extrusion-Based 3D-Printed Concrete Considering the Thickness of the Printed Layer and Printing Time Interval”, <i>Structures</i>, vol. 78, p. 109225, 2025, doi: 10.1016/j.istruc.2025.109225.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tang, Boyang, Jiachuan Yan, Xiaoyu Han, Yini Lin, and Feng Fan. “Mechanical Properties of Extrusion-Based 3D-Printed Concrete Considering the Thickness of the Printed Layer and Printing Time Interval”. <i>Structures</i> 78 (2025): 109225. https://doi.org/10.1016/j.istruc.2025.109225.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

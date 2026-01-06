@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jiabin Xu, Mingxu Chen, Zhihui Zhao, Laibo Li, Shoude Wang, Yongbo Huang, Piqi Zhao, Chenchen Gong, Lingchao Lu, Xin Cheng
+    - footer
+title: Xu Jiabin, Chen Mingxu, Zhao Zhihui, Li Laibo, Wang Shoude, Huang Yongbo, Zhao Piqi, Gong Chenchen, Lu Lingchao, Cheng Xin
 description:
 tags:
  - admixture
@@ -20,42 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1016/j.jobe.2021.102208" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.102208</a>
+#Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology ([2021-01](date/2021/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.102208" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.102208" target="_blank">10.1016/j.jobe.2021.102208</a>
 
--------------------------
+<a href="../../../author/xu_jiabin"><b>Xu</b>&nbsp;Jiabin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/zhao_zhihui"><b>Zhao</b>&nbsp;Zhihui</a></span>, <a href="../../../author/li_laibo"><b>Li</b>&nbsp;Laibo</a></span>, <a href="../../../author/wang_shoude"><b>Wang</b>&nbsp;Shoude</a></span>, <a href="../../../author/huang_yongbo"><b>Huang</b>&nbsp;Yongbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_piqi"><b>Zhao</b>&nbsp;Piqi</a></span>, <a href="../../../author/gong_chenchen"><b>Gong</b>&nbsp;Chenchen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7147-4495" title="ORCID: 0000-0002-7147-4495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_xin"><b>Cheng</b>&nbsp;Xin</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 38
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>
-,     <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>
-,     <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>
-,     <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a>
-,     <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a>
-,     <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> <a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gong_chenchen"><b>Gong</b> Chenchen</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_xin"><b>Cheng</b> Xin</a> <a href="https://orcid.org/0000-0002-7147-4495" title="ORCID: 0000-0002-7147-4495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 38, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#response`](keyword/response)
-    [`#surface`](keyword/surface)
-    [`#white`](keyword/white)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/white"><button class="btn">#white</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Efflorescence-Control%20of%20Admixtures-Modified%203D%20Printed%20White%20Portland-Cement-Based%20Materials%20Based%20on%20the%20Response-Surface-Methodology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099993381&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3122392955" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.102208" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.102208?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed white Portland cement-based materials (WPCMs) were supposed to be a promising cementitious material used in the 3D printing of colored and decorated building components due to the excellent whiteness. This paper was concentrated on the rheology, printed structure, and efflorescence control of 3D printed WPCMs modified by the hydroxypropyl methylcellulose (HPMC), calcium formate (CF), and ethylene-vinyl acetate (EVA) powder based on the extrusion-based 3D printing system. The experimental results show that the HPMC and EVA improve the static yield stress of 3D printed WPCMs significantly, however, the reverse phenomenon is true for the CF dosage of 0–1%. When the dosage of CF exceeds 1%, the yield stress increases gradually. Additionally, the printed structure is well built up when the dosages of HPMC is larger than 0.3%. Furthermore, the response surface methodology (RSM) is used to investigate the properties of 3D printed WPCMs with hybrid admixtures due to their different functions. The optimal dosage of hybrid admixtures is determined for realizing controllable rheology and stable printed structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -98,8 +66,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/wang_jiyuan"><b>Wang</b> Jiyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../nasr_wang_duan_deng.2025.AtVaIoRHDPFi3PCC/">Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>, <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../jin_jian_gan_sun.2025.EtPo3PWCMwA/">Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>Evolution of Early-Age Hydration and Rheology</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
@@ -125,4 +93,33 @@ tags:
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_chen_zhao_li.2021.PaECoAM3PWPCBMBotRSM,
+      author            = "Jiabin Xu and Mingxu Chen and Zhihui Zhao and Laibo Li and Shoude Wang and Yongbo Huang and Piqi Zhao and Chenchen Gong and Lingchao Lu and Xin Cheng",
+      title             = "Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology",
+      doi               = "10.1016/j.jobe.2021.102208",
+      year              = "2021",
+      journal           = "Journal of Building Engineering",
+      volume            = "38",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Xu, “Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology”, <i>Journal of Building Engineering</i>, vol. 38, 2021, doi: 10.1016/j.jobe.2021.102208.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Jiabin, Mingxu Chen, Zhihui Zhao, Laibo Li, Shoude Wang, Yongbo Huang, Piqi Zhao, Chenchen Gong, Lingchao Lu, and Xin Cheng. “Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology”. <i>Journal of Building Engineering</i> 38 (2021). https://doi.org/10.1016/j.jobe.2021.102208.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

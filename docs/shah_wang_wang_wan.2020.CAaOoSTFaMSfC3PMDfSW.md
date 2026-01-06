@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qamar Shahzad, Xujiang Wang, Wenlong Wang, Yi Wan, Guolin Li, Chuangnan Ren, Yanpeng Mao
+    - footer
+title: Shahzad Qamar, Wang Xujiang, Wang Wenlong, Wan Yi, Li Guolin, Ren Chuangnan, Mao Yanpeng
 description:
 tags:
  - adjustment
@@ -22,41 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Coordinated Adjustment and Optimization of Setting-Time, Flowability, and Mechanical Strength for Construction 3D Printing Material Derived from Solid Waste ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.119854" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.119854</a>
+#Coordinated Adjustment and Optimization of Setting-Time, Flowability, and Mechanical Strength for Construction 3D Printing Material Derived from Solid Waste ([2020-06](date/2020/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.119854" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119854" target="_blank">10.1016/j.conbuildmat.2020.119854</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad_qamar"><b>Shahzad</b>&nbsp;Qamar</a></span>, <a href="../../../author/wang_xujiang"><b>Wang</b>&nbsp;Xujiang</a></span>, <a href="../../../author/wang_wenlong"><b>Wang</b>&nbsp;Wenlong</a></span>, <a href="../../../author/wan_yi"><b>Wan</b>&nbsp;Yi</a></span>, <a href="../../../author/li_guolin"><b>Li</b>&nbsp;Guolin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5392-4264" title="ORCID: 0000-0001-5392-4264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_chuangnan"><b>Ren</b>&nbsp;Chuangnan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1306-6845" title="ORCID: 0000-0003-1306-6845" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mao_yanpeng"><b>Mao</b>&nbsp;Yanpeng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 259
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xujiang"><b>Wang</b> Xujiang</a>
-,     <a href="../../../author/wang_wenlong"><b>Wang</b> Wenlong</a>
-,     <a href="../../../author/wan_yi"><b>Wan</b> Yi</a>
-,     <a href="../../../author/li_guolin"><b>Li</b> Guolin</a>
-,     <a href="../../../author/ren_chuangnan"><b>Ren</b> Chuangnan</a> <a href="https://orcid.org/0000-0001-5392-4264" title="ORCID: 0000-0001-5392-4264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mao_yanpeng"><b>Mao</b> Yanpeng</a> <a href="https://orcid.org/0000-0003-1306-6845" title="ORCID: 0000-0003-1306-6845" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 259, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adjustment`](keyword/adjustment)
-    [`#construction`](keyword/construction)
-    [`#coordinate`](keyword/coordinate)
-    [`#derivative`](keyword/derivative)
-    [`#flow`](keyword/flow)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#setting`](keyword/setting)
-    [`#solid`](keyword/solid)
-    [`#strength`](keyword/strength)
-    [`#time`](keyword/time)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/adjustment"><button class="btn">#adjustment</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/coordinate"><button class="btn">#coordinate</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Coordinated%20Adjustment%20and%20Optimization%20of%20Setting-Time%2C%20Flowability%2C%20and%20Mechanical%20Strength%20for%20Construction%203D%20Printing%20Material%20Derived%20from%20Solid%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086740647&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3037549262" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.119854" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.119854?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction 3D printing (C3DP), as a green building concept, yields savings in terms of time, material, and labor costs and, hence, has become increasingly popular in recent years. The potential printing materials should have the characteristics of low cost, quick-setting, good flowability, and high mechanical strength. However, these properties are difficult to be obtained simultaneously in material adjustment. In the present study, the coordinated adjustment and optimization of setting time, flowability, and mechanical strength for a sulfoaluminate high-activity material (SHAM) were achieved, and the material was proved to be suitable for C3DP. This material was entirely prepared from industrial solid waste ingredients and thus cost-effective when used in C3DP. Optimal initial setting time (42 min), flowability (180.7 mm), and compressive strength (19.2 MPa and 97.5 MPa for 2-h and 28-d, respectively) were realized. The coordinated adjustment of these three properties was realized through cross changing the ratios of boric acid as a retarder and flowability enhancer and lithium carbonate as an accelerator. Moreover, 3D structures with different shapes were successfully printed using optimized material. This work has opened the way for the use of solid waste to prepare high value-added products and promote green building construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -102,8 +71,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/song_qiang"><b>Song</b> Qiang</a>, <a href="../../../author/zhou_guangyu"><b>Zhou</b> Guangyu</a>, <a href="../../../author/bao_hailing"><b>Bao</b> Hailing</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../song_zhou_bao_liu.2025.SotEoNPCMaVDotPaMPot3PCM/">Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar</a></li>
       <li><a href="../../../author/hiremath_shivashankarayya"><b>Hiremath</b> Shivashankarayya</a>, <a href="../../../author/mathapati_shrishail_gururaj"><b>Mathapati</b> Gururaj</a>, <a href="../../../author/chiniwar_s_dundesh"><b>Chiniwar</b> Dundesh</a>, <a href="../../../author/vishwanatha_m_h"><b>Vishwanatha</b> H.</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../hire_math_chin_vish.2025.PEoCCbDaESfC3P/">Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing</a></li>
       <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/qifeng_lyu"><b>Qifeng</b> Lyu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_sing_wang_qife.2025.3PAiC/">3D-Printed Application in Concretes</a></li>
@@ -130,4 +99,33 @@ tags:
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
       <li><a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>, <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>, <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../cui_wu_chen_luo.2021.PoMOCaa3PM/">Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_wang_wang_wan.2020.CAaOoSTFaMSfC3PMDfSW,
+      author            = "Qamar Shahzad and Xujiang Wang and Wenlong Wang and Yi Wan and Guolin Li and Chuangnan Ren and Yanpeng Mao",
+      title             = "Coordinated Adjustment and Optimization of Setting-Time, Flowability, and Mechanical Strength for Construction 3D Printing Material Derived from Solid Waste",
+      doi               = "10.1016/j.conbuildmat.2020.119854",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "259",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Shahzad, “Coordinated Adjustment and Optimization of Setting-Time, Flowability, and Mechanical Strength for Construction 3D Printing Material Derived from Solid Waste”, <i>Construction and Building Materials</i>, vol. 259, 2020, doi: 10.1016/j.conbuildmat.2020.119854.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahzad, Qamar, Xujiang Wang, Wenlong Wang, Yi Wan, Guolin Li, Chuangnan Ren, and Yanpeng Mao. “Coordinated Adjustment and Optimization of Setting-Time, Flowability, and Mechanical Strength for Construction 3D Printing Material Derived from Solid Waste”. <i>Construction and Building Materials</i> 259 (2020). https://doi.org/10.1016/j.conbuildmat.2020.119854.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

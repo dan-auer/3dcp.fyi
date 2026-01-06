@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jun-Jie Zeng, Hou-Qi Sun, Run-Bin Deng, Zitong Yan, Yan Zhuge
+    - footer
+title: Zeng Jun-Jie, Sun Hou-Qi, Deng Run-Bin, Yan Zitong, Zhuge Yan
 description:
 tags:
  - bar
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.istruc.2025.108377) Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.istruc.2025.108377" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.108377</a>
+#Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.istruc.2025.108377) <a href="https://doi.org/10.1016/j.istruc.2025.108377" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.108377" target="_blank">10.1016/j.istruc.2025.108377</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <a href="../../../author/sun_hou-qi"><b>Sun</b>&nbsp;Hou-Qi</a></span>, <a href="../../../author/deng_run-bin"><b>Deng</b>&nbsp;Run-Bin</a></span>, <a href="../../../author/yan_zitong"><b>Yan</b>&nbsp;Zitong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span><br>
+Journal Article - Structures, Vol. 73, No. 108377
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>
-,     <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>
-,     <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>
-,     <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> <a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 73, No. 108377
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bond%20Performance%20Between%20FRP-Bars%20and%203D-Printed%20High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217048015&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407264824" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.108377" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.108377?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Utilization of 3D-printed concrete (3DPC) in construction has drawn attention in recent years, while 3DPC is inherently subjected to weak structural integrity as the layer-by-layer stacking construction introduces deficiencies in concrete. Fiber-reinforced polymer (FRP) reinforcement which is flexible in shape has been proposed to be simultaneously printed with concrete so that the drawbacks of 3DPC are mitigated. In this study, the very important topic of bond performance between 3DPC and FRP bars are investigated. Totally 108 pull-out specimens were fabricated and the key variables included concrete strength, fibres volume fraction, bar direction, and anchorage length. The test results reveal that the failure pattern of the bond of 3DPC to FRP bars was similar to that of the mould-cast concrete specimens. However, the bond strength of the 3DPC specimens was lower. Results also reveal that the effect of concrete printing direction is evident, addition of fibre volume fraction has a negative impact on the bond strength, and the alter in concrete strength only slightly affect the bond strength. The bond-slip curves based on the modified mBPE model and CMR model can well predict the experimental curves.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC/">Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ding_qin_xiao_chen.2022.ESotBBBSBa3PC/">Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete</a></li>
@@ -91,8 +70,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
@@ -102,4 +81,34 @@ tags:
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../shah_li.2025.IoCIotDaPOBo3PCS/">Influence of Concrete Interfaces on the Damage and Pull-Out Behavior of 3D-Printed Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zeng_sun_deng_yan.2025.BPBFBa3PHPC,
+      author            = "Jun-Jie Zeng and Hou-Qi Sun and Run-Bin Deng and Zitong Yan and Yan Zhuge",
+      title             = "Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete",
+      doi               = "10.1016/j.istruc.2025.108377",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "73",
+      pages             = "108377",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-J. Zeng, H.-Q. Sun, R.-B. Deng, Z. Yan and Y. Zhuge, “Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete”, <i>Structures</i>, vol. 73, p. 108377, 2025, doi: 10.1016/j.istruc.2025.108377.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zeng, Jun-Jie, Hou-Qi Sun, Run-Bin Deng, Zitong Yan, and Yan Zhuge. “Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete”. <i>Structures</i> 73 (2025): 108377. https://doi.org/10.1016/j.istruc.2025.108377.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

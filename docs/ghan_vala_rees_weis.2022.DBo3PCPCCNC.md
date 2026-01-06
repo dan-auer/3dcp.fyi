@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rita Ghantous, Yvette Valadez-Carranza, Steven Reese, William Weiss
+    - footer
+title: Ghantous Rita, Valadez-Carranza Yvette, Reese Steven, Weiss William
 description:
 tags:
  - behavior
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cement.2022.100035) Drying Behavior of 3D Printed Cementitious Pastes Containing Cellulose-Nano-Crystals ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.cement.2022.100035" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cement.2022.100035</a>
+#Drying Behavior of 3D Printed Cementitious Pastes Containing Cellulose-Nano-Crystals ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cement.2022.100035) <a href="https://doi.org/10.1016/j.cement.2022.100035" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cement.2022.100035" target="_blank">10.1016/j.cement.2022.100035</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1918-5450" title="ORCID: 0000-0002-1918-5450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghantous_maria_rita"><b>Ghantous</b>&nbsp;Rita</a></span>, <a href="../../../author/valadez-carranza_yvette"><b>Valadez-Carranza</b>&nbsp;Yvette</a></span>, <a href="../../../author/reese_r_steven"><b>Reese</b>&nbsp;Steven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weiss_jason_william"><b>Weiss</b>&nbsp;William</a></span><br>
+Journal Article - Cement, Vol. 9, No. 100035
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> <a href="https://orcid.org/0000-0002-1918-5450" title="ORCID: 0000-0002-1918-5450" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valadez-carranza_yvette"><b>Valadez-Carranza</b> Yvette</a>
-,     <a href="../../../author/reese_r_steven"><b>Reese</b> Steven</a>
-,     <a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> <a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement, Vol. 9, No. 100035
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#containment`](keyword/containment)
-    [`#crystal`](keyword/crystal)
-    [`#dry`](keyword/dry)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/crystal"><button class="btn">#crystal</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Drying%20Behavior%20of%203D%20Printed%20Cementitious%20Pastes%20Containing%20Cellulose-Nano-Crystals" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281658792" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cement.2022.100035" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cement.2022.100035?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study uses neutron radiography to evaluate the drying of printed cement paste samples containing cellulose nanocrystals (CNCs). CNCs have previously been used in printed cement paste to decrease the extrusion pressure and increase the degree of hydration (DOH) of the samples. Three different mixtures were prepared consisting of a plain mixture and mixtures containing two different types of CNCs. The influence of the sample surface to volume ratio (S/V) on the drying of cement paste samples and their DOH was examined. Exposing 3D printed samples to drying immediately after preparation can lead to high levels of water evaporation, which can limit the hydration evolution in the system and increase the porosity. The DOH and the drying behavior of cement paste are found to be dependent on the S/V of the element. The DOH decreased with an increase in the S/V of the sample. The addition of the CNCs to the mixture design did not substantially alter the DOH of poorly cured 3D printed samples. Previous work has shown that CNCs addition to the mixture design can lead to an increase in DOH only if water remains in the sample.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
@@ -103,8 +81,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/jiang_yu"><b>Jiang</b> Yu</a>, <a href="../../../author/zhang_qingxin"><b>Zhang</b> Qingxin</a>, <a href="../../../author/tabbaa_abir"><b>Tabbaa</b> Abir</a>, <a href="../../../author/daly_ronan"><b>Daly</b> Ronan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../jian_zhan_tabb_daly.2025.TCRoTDRfIQCo3PCS/">The Critical Role of Time-Dependent Rheology for Improved Quality Control of 3D Printed Cementitious Structures</a></li>
       <li><a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/sanchez_maria_asel"><b>Sanchez</b> Asel</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lima_wang_sanc_anto.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>Performance-Assessment of a Two-Component System Against Water Absorption, Carbonation, and Chloride-Ingress</a></li>
@@ -113,4 +91,34 @@ tags:
       <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gupt_esma_prih_ghan.2023.FaTAoH3PLCM/">Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials</a></li>
       <li><a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a>, <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../razz_cerr_pan_kora.2023.NaPAfHP3PC/">Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ghan_vala_rees_weis.2022.DBo3PCPCCNC,
+      author            = "Rita Maria Ghantous and Yvette Valadez-Carranza and Steven R. Reese and William Jason Weiss",
+      title             = "Drying Behavior of 3D Printed Cementitious Pastes Containing Cellulose-Nano-Crystals",
+      doi               = "10.1016/j.cement.2022.100035",
+      year              = "2022",
+      journal           = "Cement",
+      volume            = "9",
+      pages             = "100035",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. M. Ghantous, Y. Valadez-Carranza, S. R. Reese and W. J. Weiss, “Drying Behavior of 3D Printed Cementitious Pastes Containing Cellulose-Nano-Crystals”, <i>Cement</i>, vol. 9, p. 100035, 2022, doi: 10.1016/j.cement.2022.100035.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghantous, Rita Maria, Yvette Valadez-Carranza, Steven R. Reese, and William Jason Weiss. “Drying Behavior of 3D Printed Cementitious Pastes Containing Cellulose-Nano-Crystals”. <i>Cement</i> 9 (2022): 100035. https://doi.org/10.1016/j.cement.2022.100035.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

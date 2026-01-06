@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ella Spuriņa, Māris Šinka, Krists Ziemelis, Andris Vanags, Diāna Bajāre
+    - footer
+title: Spuriņa Ella, Šinka Māris, Ziemelis Krists, Vanags Andris, Bajāre Diāna
 description:
 tags:
  - agent
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2504-477X/6/10/281/pdf?version=1666155317) The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete ([2022-09](date/2022/09))
-<a href="https://doi.org/10.3390/jcs6100281" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/jcs6100281</a>
+#The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2504-477X/6/10/281/pdf?version=1666155317) <a href="https://doi.org/10.3390/jcs6100281" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs6100281" target="_blank">10.3390/jcs6100281</a>
 
--------------------------
+<a href="../../../author/spurina_ella"><b>Spuriņa</b>&nbsp;Ella</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sinka_maris"><b>Šinka</b>&nbsp;Māris</a></span>, <a href="../../../author/ziemelis_krists"><b>Ziemelis</b>&nbsp;Krists</a></span>, <a href="../../../author/vanags_andris"><b>Vanags</b>&nbsp;Andris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3250-5594" title="ORCID: 0000-0002-3250-5594" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajare_diana"><b>Bajāre</b>&nbsp;Diāna</a></span><br>
+Journal Article - Journal of Composites Science, Vol. 6, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a>
-,     <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> <a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ziemelis_krists"><b>Ziemelis</b> Krists</a>
-,     <a href="../../../author/vanags_andris"><b>Vanags</b> Andris</a>
-,     <a href="../../../author/bajare_diana"><b>Bajāre</b> Diāna</a> <a href="https://orcid.org/0000-0002-3250-5594" title="ORCID: 0000-0002-3250-5594" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Composites Science, Vol. 6, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#air`](keyword/air)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effects%20of%20Air-Entraining%20Agent%20on%20Fresh%20and%20Hardened%20Properties%20of%203D%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140598980&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4297538783" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/jcs6100281" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/jcs6100281?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is becoming more common in the construction industry nowadays; however, the aspect of durability of printed concrete is not well-studied yet. Frost resistance is a very important factor for durability of concrete structures located in northern regions. Since air-entraining agents (AEAs) are widely used in conventional concrete, this paper focuses on exploring the potential of using AEAs in 3D concrete as well—the main objective is to determine how it affects fresh and hardened properties, including frost resistance of 3D concrete. Three different mixes were printed and cast—the dry mix consisted of ordinary Portland cement (OPC), limestone filler (LF), sand, as well as viscosity modifying agent (VMA) and superplasticizer (SP). Two mixes contained different amounts of AEA, the third one was used as reference. First, fresh state properties were tested—air content, density, and mini cone flow test. Second, 28-day compressive and flexural strength tests were carried out; bulk and particle densities were also determined. Next, both cast and printed concrete samples were subject to freeze–thaw cycles according to provisions of CEN/TS 12390-9, mass loss due to surface scaling was determined for each sample. As a result, printed concrete samples containing AEA in the amount of 0.06% of binder mass showed the highest frost resistance—addition of AEA decreased both flexural and compressive strength of this printed concrete mix by 30–40%. To conclude, the obtained results give an insight of how addition of AEA to printed concrete mix affects its properties both in long and short term. Further research of certain aspects, for instance, the air void system and pore distribution is needed to gain a deeper understanding on how to increase durability of 3D concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../das_agui_wang_flat.2022.FTPo3PC/">Freeze-Thaw-Performance of 3D Printed Concrete:<br/>Influence of Interfaces</a></li>
@@ -86,8 +64,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS/">Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure</a></li>
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../givk_mood_rame.2024.EoPPotPo3PCCAEA/">Effect of Pumping Process on the Properties of 3D Printed Concrete Containing Air-Entraining-Agent</a></li>
@@ -96,4 +74,34 @@ tags:
       <li><a href="../../../author/bumanis_girts"><b>Bumanis</b> Girts</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../buma_sapa_sink_spur.2023.AMoLGaEPGC/">Additive Manufacturing of Lightweight Gypsum and Expanded Polystyrene Granulate Composite</a></li>
       <li><a href="../../../author/butkute_karolina"><b>Butkutė</b> Karolina</a>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/augonis_algirdas"><b>Augonis</b> Algirdas</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../butk_vait_sink_augo.2023.IoCBSGi3CP/">Influence of Carbonated-Bottom-Slag-Granules in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{spur_sink_ziem_vana.2022.TEoAEAoFaHPo3C,
+      author            = "Ella Spuriņa and Māris Šinka and Krists Ziemelis and Andris Vanags and Diāna Bajāre",
+      title             = "The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete",
+      doi               = "10.3390/jcs6100281",
+      year              = "2022",
+      journal           = "Journal of Composites Science",
+      volume            = "6",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Spuriņa, M. Šinka, K. Ziemelis, A. Vanags and D. Bajāre, “The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete”, <i>Journal of Composites Science</i>, vol. 6, no. 10, 2022, doi: 10.3390/jcs6100281.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Spuriņa, Ella, Māris Šinka, Krists Ziemelis, Andris Vanags, and Diāna Bajāre. “The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete”. <i>Journal of Composites Science</i> 6, no. 10 (2022). https://doi.org/10.3390/jcs6100281.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

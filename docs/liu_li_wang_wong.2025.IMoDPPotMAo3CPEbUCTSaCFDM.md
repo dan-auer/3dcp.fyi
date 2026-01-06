@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenbang Liu, Mingyang Li, Xiangyu Wang, Teck Wong, Ming Tan
+    - footer
+title: Liu Zhenbang, Li Mingyang, Wang Xiangyu, Wong Teck, Tan Ming
 description:
 tags:
  - anisotropy
@@ -23,40 +24,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.addma.2025.104760" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.104760</a>
+#Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.104760" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104760" target="_blank">10.1016/j.addma.2025.104760</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhenbang"><b>Liu</b>&nbsp;Zhenbang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Additive Manufacturing, No. 104760
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> <a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104760
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#dynamic`](keyword/dynamic)
-    [`#element`](keyword/element)
-    [`#fluid`](keyword/fluid)
-    [`#investigation`](keyword/investigation)
-    [`#mechanics`](keyword/mechanics)
-    [`#mechanism`](keyword/mechanism)
-    [`#method`](keyword/method)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#scan`](keyword/scan)
-    [`#tomography`](keyword/tomography)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> <a href="../../keyword/tomography"><button class="btn">#tomography</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigate%20Mechanisms%20of%20Different%20Printing%20Parameters%20on%20the%20Mechanical%20Anisotropy%20of%203D%20Concrete%20Printing%20Elements%20by%20Using%20Computed%20Tomography%20Scan%20and%20Computational%20Fluid%20Dynamics%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001341361&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408783853" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.104760" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.104760?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) elements show significant mechanical anisotropy. Printing parameters can affect the mechanical anisotropy of 3DCP elements. However, most studies have focused on the effects of printing parameters on the interlayer bond strength at a macroscale level. The mechanisms of printing parameters on the mechanical anisotropy of 3DCP elements remain unclear. To fill research gaps, computed tomography (CT) scans, computational fluid dynamics (CFD) numerical simulations, and uniaxial compression tests (UCTs) were conducted with the printing parameters of the expansion state of the nozzle flow channel, overflow ratio, stand-off distance, and flow rate involved. The results of CT scans, CFD simulations, and UCTs revealed the mechanism that the printing parameters affect porosity distribution and pore anisotropy by influencing the normalized local pressure at interlayer and fluid velocity gradients, respectively, which further results in the modification of the mechanical anisotropy of 3DCP elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/zheng_dapeng"><b>Zheng</b> Dapeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cao_yu_zhen_cui.2022.NPtEtIBSi3PC/">Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
@@ -106,7 +76,6 @@ tags:
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_li_quah_wong.2023.CIotRBt3CPFCaPoFSCM/">Comprehensive Investigations on the Relationship Between the 3D Concrete Printing Failure Criterion and Properties of Fresh-State Cementitious Materials</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../liu_li_tay_weng.2020.RNaNSoMDaCi3CMP/">Rotation-Nozzle and Numerical Simulation of Mass-Distribution at Corners in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_li_wang_wang.2024.APotSRRCCbtSCR3CPPF/">Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork</a></li>
-      <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../liu_li_weng_qian.2020.MaPOfFDi3CMPUSVM/">Modelling- and Parameter-Optimization for Filament-Deformation in 3D Cementitious Material-Printing Using Support-Vector-Machine</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../liu_li_weng_wong.2019.MDAtOtRPotMUi3CMP/">Mixture-Design-Approach to Optimize the Rheological Properties of the Material Used in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../liu_li_wong_tan.2024.DtEoPPotMPo3CPUwEaNM/">Determine the Effects of Pore Properties on the Mechanical Performances of 3D Concrete Printing Units with Experimental and Numerical Methods</a></li>
@@ -132,11 +101,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wu_liu_bai_liu.2023.3PCwRS/">3D Printed Concrete with Recycled Sand:<br/>Pore-Structure and Triaxial Compression Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_cort_ooms_wan.2025.MPoPB3PCIP/">Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns</a></li>
-      <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM,
+      author            = "Zhenbang Liu and Mingyang Li and Xiangyu Wang and Teck Neng Wong and Ming Jen Tan",
+      title             = "Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods",
+      doi               = "10.1016/j.addma.2025.104760",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "104760",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Liu, M. Li, X. Wang, T. N. Wong and M. J. Tan, “Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods”, <i>Additive Manufacturing</i>, p. 104760, 2025, doi: 10.1016/j.addma.2025.104760.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Zhenbang, Mingyang Li, Xiangyu Wang, Teck Neng Wong, and Ming Jen Tan. “Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods”. <i>Additive Manufacturing</i>, 2025, 104760. https://doi.org/10.1016/j.addma.2025.104760.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

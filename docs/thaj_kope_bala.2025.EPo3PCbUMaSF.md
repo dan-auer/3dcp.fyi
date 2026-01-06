@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marwah Thajeel, Katalin Kopecskó, György Balázs
+    - footer
+title: Thajeel Marwah, Kopecskó Katalin, Balázs György
 description:
 tags:
  - concrete
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.70119) Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1002/suco.70119" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.70119</a>
+#Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.70119) <a href="https://doi.org/10.1002/suco.70119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70119" target="_blank">10.1002/suco.70119</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-2378-6066" title="ORCID: 0009-0004-2378-6066" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b>&nbsp;Marwah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7169-966X" title="ORCID: 0000-0002-7169-966X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kopecsko_katalin"><b>Kopecskó</b>&nbsp;Katalin</a></span>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b>&nbsp;György</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a> <a href="https://orcid.org/0009-0004-2378-6066" title="ORCID: 0009-0004-2378-6066" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kopecsko_katalin"><b>Kopecskó</b> Katalin</a> <a href="https://orcid.org/0000-0002-7169-966X" title="ORCID: 0000-0002-7169-966X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b> György</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#fume`](keyword/fume)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Printability%20of%203D%20Printed%20Concrete%20by%20Using%20Metakaolin%20and%20Silica%20Fume" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004294836&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409896771" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.70119" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.70119?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the effects of incorporating metakaolin (MK) and silica fume (SF) on the fresh and hardened properties of 3D printed concrete (3DPC). Five mix designs were prepared with MK replacement levels of 0%, 10%, 12.5%, and 15%, along with one mix containing 10% MK and 5% SF. Key performance metrics include flowability, green strength, pumpability, shape retention, buildability, extrudability, compressive strength, and interlayer bond strength. The results showed that increasing MK content generally enhanced early strength gain, shape retention, and buildability; however, a high MK dosage (15%) negatively affected extrudability and caused visible cracking. The mix with 10% MK and 5% SF (MK10SF5) demonstrated the best overall performance, achieving excellent shape retention (S1 = 0.99), the highest buildability (72 printed layers), and the highest compressive strengths: 85.4 MPa for cast specimens and 78.8, 64.4, and 73.0 MPa in the X, Y, and Z directions, respectively, for 3D printed specimens. It also recorded the highest interlayer bond strength of 2.14 MPa. The superior performance of MK10SF5 is attributed to the synergistic effects of MK and SF, which enhance particle packing, cohesion, and pozzolanic reactivity. These findings highlight the potential of MK and SF in optimizing 3DPC for improved printability and mechanical performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -90,8 +71,37 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{thaj_kope_bala.2025.EPo3PCbUMaSF,
+      author            = "Marwah Manea Thajeel and Katalin Kopecskó and György L. Balázs",
+      title             = "Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume",
+      doi               = "10.1002/suco.70119",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. M. Thajeel, K. Kopecskó and G. L. Balázs, “Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.70119.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Thajeel, Marwah Manea, Katalin Kopecskó, and György L. Balázs. “Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.70119.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

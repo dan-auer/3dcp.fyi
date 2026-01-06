@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shanaka Kristombu Baduge, Satheeskumar Navaratnam, Yousef Zidan, Tom McCormack, Quynh Nguyen, Priyan Mendis, Guomin Zhang, Lu Aye
+    - footer
+title: Kristombu Baduge Shanaka, Navaratnam Satheeskumar, Zidan Yousef, McCormack Tom, Nguyen Quynh, Mendis Priyan, Zhang Guomin, Aye Lu
 description:
 tags:
  - additive
@@ -23,43 +24,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Improving Performance of Additive Manufactured Concrete:<br/>:aca-blank: A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1016/j.istruc.2020.12.061" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2020.12.061</a>
+#Improving Performance of Additive Manufactured Concrete&nbsp;([2021-01](date/2021/01))
+<div class="h1-like">A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2020.12.061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2020.12.061" target="_blank">10.1016/j.istruc.2020.12.061</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5183-701X" title="ORCID: 0000-0001-5183-701X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b>&nbsp;Shanaka</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7772-4531" title="ORCID: 0000-0001-7772-4531" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b>&nbsp;Satheeskumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3854-739X" title="ORCID: 0000-0002-3854-739X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zidan_yousef"><b>abu&nbsp;Zidan</b>&nbsp;Yousef</a></span>, <a href="../../../author/mccormack_tom"><b>McCormack</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1825-4127" title="ORCID: 0000-0002-1825-4127" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b>&nbsp;Quynh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4068-8201" title="ORCID: 0000-0003-4068-8201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendis_priyan"><b>Mendis</b>&nbsp;Priyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3503-7431" title="ORCID: 0000-0002-3503-7431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_guomin"><b>Zhang</b>&nbsp;Guomin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5495-1683" title="ORCID: 0000-0002-5495-1683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aye_lu"><b>Aye</b>&nbsp;Lu</a></span><br>
+Journal Article - Structures, Vol. 29, pp. 1597-1609
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a> <a href="https://orcid.org/0000-0001-5183-701X" title="ORCID: 0000-0001-5183-701X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a> <a href="https://orcid.org/0000-0001-7772-4531" title="ORCID: 0000-0001-7772-4531" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zidan_yousef"><b>abu Zidan</b> Yousef</a> <a href="https://orcid.org/0000-0002-3854-739X" title="ORCID: 0000-0002-3854-739X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a>
-,     <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> <a href="https://orcid.org/0000-0002-1825-4127" title="ORCID: 0000-0002-1825-4127" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendis_priyan"><b>Mendis</b> Priyan</a> <a href="https://orcid.org/0000-0003-4068-8201" title="ORCID: 0000-0003-4068-8201" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a> <a href="https://orcid.org/0000-0002-3503-7431" title="ORCID: 0000-0002-3503-7431" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aye_lu"><b>Aye</b> Lu</a> <a href="https://orcid.org/0000-0002-5495-1683" title="ORCID: 0000-0002-5495-1683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 29, pp. 1597-1609
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#improvement`](keyword/improvement)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#mixing`](keyword/mixing)
-    [`#performance`](keyword/performance)
-    [`#process`](keyword/process)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20Performance%20of%20Additive%20Manufactured%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098959027&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -74,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3119132062" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2020.12.061" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2020.12.061?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of additively manufactured, 3D printed concrete in the construction industry has been gaining attention in recent years. 3D concrete printing (3DCP) has potentials for mass customisation, and off-site and rapid manufacturing of complex structural and architectural components. However, 3DCP has many challenges such as competing rheological requirements, weak interlayer bonding, difficulty in integrating reinforcement, and anisotropic material behaviour. Therefore, material properties of printed concrete are often inferior to traditional mould cast and leading to poor structural performance. Thus, satisfying performance criteria for structural applications is the key challenge of 3DCP, methods for enhancing the material properties of 3DCP are required. This article reviewed the main parameters affecting the performance of 3D printed concrete and discussed potential methods to enhance these properties. Methods investigated in this article include novel reinforcement, material modification, rheology control, nozzle design, process improvements, and interlayer bonding. Lastly, this article discussed the performance of structural elements produced by 3DCP and proposed future research areas to advance this technology in the building industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "79 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -148,7 +116,6 @@ tags:
       <li><a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b> Charbel</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../sakk_assa_hamz_nakh.2019.TaIBSoPMPM/">Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schu_lesa.2018.ACoPoC/">Active Control of Properties of Concrete:<br/>A (P)Review</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
@@ -166,8 +133,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "100 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
@@ -268,4 +236,34 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kris_nava_zida_mcco.2021.IPoAMC,
+      author            = "Shanaka Kristombu Baduge and Satheeskumar Navaratnam and Yousef Abu Zidan and Tom McCormack and Quynh Thuy Nguyen and Priyan Mendis and Guomin Zhang and Lu Aye",
+      title             = "Improving Performance of Additive Manufactured Concrete: A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods",
+      doi               = "10.1016/j.istruc.2020.12.061",
+      year              = "2021",
+      journal           = "Structures",
+      volume            = "29",
+      pages             = "1597--1609",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. Baduge, “Improving Performance of Additive Manufactured Concrete: A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods”, <i>Structures</i>, vol. 29, pp. 1597–1609, 2021, doi: 10.1016/j.istruc.2020.12.061.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baduge, Shanaka Kristombu, Satheeskumar Navaratnam, Yousef Abu Zidan, Tom McCormack, Quynh Thuy Nguyen, Priyan Mendis, Guomin Zhang, and Lu Aye. “Improving Performance of Additive Manufactured Concrete: A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods”. <i>Structures</i> 29 (2021): 1597–1609. https://doi.org/10.1016/j.istruc.2020.12.061.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

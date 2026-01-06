@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Liu Junli 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
   <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_liu_chen_xuan.2025.DaPo3PBSFRCCCB/">Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams</a></li>
   <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a></li>

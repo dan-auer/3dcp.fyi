@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeşim Tarhan, İsmail Tarhan, Arnaud Perrot
+    - footer
+title: Tarhan Yeşim, Tarhan İsmail, Perrot Arnaud
 description:
 tags:
  - concrete
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete ([2025-05](date/2025/05))
-<a href="https://doi.org/10.31462/icearc2025_ce_mat_941" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.31462/icearc2025_ce_mat_941</a>
+#Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.31462/icearc2025_ce_mat_941" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31462/icearc2025_ce_mat_941" target="_blank">10.31462/icearc2025_ce_mat_941</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5161-3718" title="ORCID: 0000-0002-5161-3718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b>&nbsp;İsmail</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a> <a href="https://orcid.org/0000-0002-5161-3718" title="ORCID: 0000-0002-5161-3718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#glass`](keyword/glass)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Performance%20of%20Glass%20Fiber%20Textile%20Reinforced%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412155709" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.31462/icearc2025_ce_mat_941" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.31462/icearc2025_ce_mat_941?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing construction technology facilitates the realization of complex geometries through rapid production and design freedom; however, challenges in integrating conventional steel reinforcement within the additive manufacturing process impose significant structural limitations on the reinforcement of 3D-printed concrete structures. This study proposes glass fibre-reinforced textile as a solution to these limitations of 3D printed concrete. Glass fibre-reinforced textile stands out as a reinforcement material suitable for additive manufacturing with its lightweight structure, high tensile strength, and flexibility. A 3D printable mixture was specifically designed to achieve optimal rheological properties and printability. Then, using a Delta WASP 3DMT concrete printer, beam-shaped samples consisting of six layers were produced; glass fibre-reinforced textiles were placed on horizontal interfaces. The reinforced and unreinforced specimens were subjected to flexural and compressive strength tests after a 28-day curing period. Experimental results showed that glass fiber textiles significantly enhanced flexural strength and ductility. While the compressive strength of the textile-reinforced specimens remained largely unchanged compared to the control, their flexural strength improved remarkably, increasing by more than 50%. The study's findings reveal that 3D printed concretes reinforced with glass textiles enable the creation of more reliable structures with increased strength and ductility; thus, 3D printing technology may have a wider application area in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/shengzhao_e"><b>Shengzhao</b> E.</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../cao_shen_yang_shi.2024.ASftIotBPo3PCILI/">A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
@@ -80,8 +59,35 @@ tags:
       <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/yu_jiamian"><b>Yu</b> Jiamian</a>, <a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_bu_yu_shao.2024.FBoTR3PCUQSaDIL/">Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{tarh_tarh_perr.2025.FPoGFTR3PC,
+      author            = "Yeşim Tarhan and İsmail Hakkı Tarhan and Arnaud Perrot",
+      title             = "Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete",
+      doi               = "10.31462/icearc2025_ce_mat_941",
+      booktitle         = "Proceedings of the 4th International Civil Engineering & Architecture Conference",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tarhan, İ. H. Tarhan and A. Perrot, “Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete”. doi: 10.31462/icearc2025_ce_mat_941.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tarhan, Yeşim, İsmail Hakkı Tarhan, and Arnaud Perrot. “Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete”. In <i>Proceedings of the 4th International Civil Engineering & Architecture Conference</i>, n.d.. https://doi.org/10.31462/icearc2025_ce_mat_941.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

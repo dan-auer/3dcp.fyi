@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lauri Hass, Freek Bos, Theo Salet
+    - footer
+title: Hass Lauri, Bos Freek, Salet Theo
 description:
 tags:
  - automation
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2022.129228) Characterizing the Bond Properties of Automatically Placed Helical Reinforcement in 3D Printed Concrete ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.129228" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129228</a>
+#Characterizing the Bond Properties of Automatically Placed Helical Reinforcement in 3D Printed Concrete ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2022.129228) <a href="https://doi.org/10.1016/j.conbuildmat.2022.129228" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129228" target="_blank">10.1016/j.conbuildmat.2022.129228</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9072-0113" title="ORCID: 0000-0001-9072-0113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hass_lauri"><b>Hass</b>&nbsp;Lauri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 355
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a> <a href="https://orcid.org/0000-0001-9072-0113" title="ORCID: 0000-0001-9072-0113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 355, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#bond`](keyword/bond)
-    [`#character`](keyword/character)
-    [`#concrete`](keyword/concrete)
-    [`#helical`](keyword/helical)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/helical"><button class="btn">#helical</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterizing%20the%20Bond%20Properties%20of%20Automatically%20Placed%20Helical%20Reinforcement%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138473653&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4297200439" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129228" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129228?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The incompatibility of 3D concrete printing (3DCP) with conventional reinforcement methods is well known. Recently, solutions have suggested the insertion of helical reinforcement rods through a screwing motion into the freshly printed material. The current study focuses on the bond properties of such reinforcement and its relation to placement time relative to the 3D printed concrete age, of which until now hardly any data exists. Confined pull-out tests and micro-computed tomography (μCT) scans were performed to characterize the time-dependent bond properties for automatically placed screw-type reinforcement in 3D printed concrete in the range of 0–200 min after material deposition. An experimental program was carried out using a gantry type 3D concrete printer and a robotic hand with the Automated Screwing Device to automate the reinforcement placement process. In total 200 specimens were produced and tested in pull-out. μCT scans were done on the specimens to quantify air content in the vicinity of the reinforcement, for every other time stamp. Two different screw geometries were used. A high mechanical interlock was achieved resulting in a high bond strength in confined pull-out tests. It was concluded from the confined pull-out tests that the pull-out performance is not influenced significantly by the time of application after mortar deposition in a time frame of up to 200 min. This firmly positions automatically applied helical reinforcement as a viable method to reinforce 3DCP structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -104,8 +83,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../syed_abid_khan.2025.AIMLAfPRBPi3CP/">An Interpretable Machine Learning Approach for Predicting Reinforcement Bond Performance in 3D Concrete Printing</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
@@ -132,4 +111,33 @@ tags:
       <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../over_savi_bos_schl.2023.3PSHCC3S/">3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC):<br/>Tailoring Fresh and Hardened State Properties</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hass_bos_sale.2022.CtBPoAPHRi3PC,
+      author            = "Lauri Hass and Freek Paul Bos and Theo A. M. Salet",
+      title             = "Characterizing the Bond Properties of Automatically Placed Helical Reinforcement in 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2022.129228",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "355",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Hass, F. P. Bos and T. A. M. Salet, “Characterizing the Bond Properties of Automatically Placed Helical Reinforcement in 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 355, 2022, doi: 10.1016/j.conbuildmat.2022.129228.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hass, Lauri, Freek Paul Bos, and Theo A. M. Salet. “Characterizing the Bond Properties of Automatically Placed Helical Reinforcement in 3D Printed Concrete”. <i>Construction and Building Materials</i> 355 (2022). https://doi.org/10.1016/j.conbuildmat.2022.129228.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

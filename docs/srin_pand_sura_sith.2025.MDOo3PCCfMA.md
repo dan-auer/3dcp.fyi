@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dodda Srinivas, Biranchi Panda, Prannoy Suraneni, Thallak Sitharam
+    - footer
+title: Srinivas Dodda, Panda Biranchi, Suraneni Prannoy, Sitharam Thallak
 description:
 tags:
  - accelerator
@@ -23,39 +24,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications:<br/>:aca-blank: Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142389" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142389</a>
+#Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142389" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142389" target="_blank">10.1016/j.conbuildmat.2025.142389</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srinivas_dodda"><b>Srinivas</b>&nbsp;Dodda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b>&nbsp;Prannoy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sitharam_g_thallak"><b>Sitharam</b>&nbsp;Thallak</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 489, No. 142389
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> <a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>
-,     <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 489, No. 142389
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#application`](keyword/application)
-    [`#binder`](keyword/binder)
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#design`](keyword/design)
-    [`#durability`](keyword/durability)
-    [`#fiber`](keyword/fiber)
-    [`#marine`](keyword/marine)
-    [`#mixing`](keyword/mixing)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#pva`](keyword/pva)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mix%20Design%20Optimization%20of%203D-Printed%20Cementitious%20Composites%20for%20Marine%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008824025&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411595030" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142389" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142389?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rise in coastal development and the growing efforts to rehabilitate marine environments have increased the demand for underwater sustainable and durable construction materials. Concurrently, 3D concrete printing has gained attention as a promising technology for building artificial reefs, providing benefits in terms of design flexibility and customization compared to traditional construction methods. Despite previous efforts to develop low-pH, biocompatible 3D-printed mortars, the durability of these materials under aggressive marine conditions remains underexplored. This study addresses this gap by development and testing of fiber-reinforced, low-pH, 3D-printed mortars incorporating high-volume supplementary cementitious materials (SCMs), polyvinyl alcohol (PVA) fibers with the effect of early accelerated carbonation (AC) curing. The integration of extrusion-based 3D printing and optimized mix design improved matrix densification and fiber distribution, resulting in higher compressive and flexural strengths compared to cast specimens. Fiber addition, especially at 0.50 vol%, enhanced toughness, ductility, and freeze-thaw resistance by reducing mass loss and mitigating microstructural damage. Underwater abrasion resistance of 3D-printed specimens improved by up to 38 % with fibers, highlighting their role in resisting surface erosion. The presence of SCMs was found to significantly enhance the chloride resistance, while reducing penetration depth by up to 83 %, though AC curing resulted slight increase in porosity. Overall, the results underscore the performance of optimized 3D-printed mortars with improved mechanical and durability properties under harsh marine conditions, and open up new possibilities in sustainable 3D printing of artificial reef structures, and marine infrastructure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alarrak_rashed"><b>Alarrak</b> Rashed</a>, <a href="../../../author/jeon_byeonguk"><b>Jeon</b> Byeonguk</a>, <a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../alar_jeon_bran.2023.FToEFRMwPAF/">Flexural Toughness of Extruded Fiber-Reinforced Mortar with Preferentially Aligned Fibers</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -102,10 +74,40 @@ tags:
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yori_sleb_liza_inda.2023.ARBb3P/">Artificial Reefs Built by 3D Printing:<br/>Systematisation in the Design, Material-Selection and Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{srin_pand_sura_sith.2025.MDOo3PCCfMA,
+      author            = "Dodda Srinivas and Biranchi Narayan Panda and Prannoy Suraneni and Thallak G. Sitharam",
+      title             = "Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications: Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability",
+      doi               = "10.1016/j.conbuildmat.2025.142389",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "489",
+      pages             = "142389",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Srinivas, B. N. Panda, P. Suraneni and T. G. Sitharam, “Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications: Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability”, <i>Construction and Building Materials</i>, vol. 489, p. 142389, 2025, doi: 10.1016/j.conbuildmat.2025.142389.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Srinivas, Dodda, Biranchi Narayan Panda, Prannoy Suraneni, and Thallak G. Sitharam. “Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications: Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability”. <i>Construction and Building Materials</i> 489 (2025): 142389. https://doi.org/10.1016/j.conbuildmat.2025.142389.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

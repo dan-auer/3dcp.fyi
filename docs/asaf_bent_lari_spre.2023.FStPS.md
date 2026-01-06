@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ofer Asaf, Arnon Bentur, Pavel Larianovsky, Aaron Sprecher
+    - footer
+title: Asaf Ofer, Bentur Arnon, Larianovsky Pavel, Sprecher Aaron
 description:
 tags:
  - approach
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} From Soil to Printed Structures:<br/>:aca-blank: A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133783" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133783</a>
+#From Soil to Printed Structures&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133783" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133783" target="_blank">10.1016/j.conbuildmat.2023.133783</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asaf_ofer"><b>Asaf</b>&nbsp;Ofer</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-0991-5471" title="ORCID: 0000-0001-0991-5471" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bentur_arnon"><b>Bentur</b>&nbsp;Arnon</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/larianovsky_pavel"><b>Larianovsky</b>&nbsp;Pavel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprecher_aaron"><b>Sprecher</b>&nbsp;Aaron</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 408, No. 133783
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a> <a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a> <a href="https://orcid.org/0000-0001-0991-5471" title="ORCID: 0000-0001-0991-5471" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a> <a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 408, No. 133783
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#architecture`](keyword/architecture)
-    [`#base`](keyword/base)
-    [`#clay`](keyword/clay)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#soil`](keyword/soil)
-    [`#structure`](keyword/structure)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Soil%20to%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175148986&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387794458" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133783" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133783?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing of clayey soils has been gaining traction in construction and architecture due to its eco-friendliness and design advantages. However, no comprehensive method has yet been developed for transforming these soils into a mixture that facilitates both flowability and post-deposition stability. For the development of such a method, the rheological properties and performance of 12 mixtures of sand and clay were assessed using a rotational rheometer, a custom rigidity test, and pumping tests. Subsequently, linear correlations between various results were examined to identify meaningful statistical relationships. This was followed by an in situ cylinder printing test. An analytical model was used to predict the plastic collapse of the bottom layer. To better elucidate the failure mechanism, a digital image correlation of the in situ printing test was employed. Finally, the mechanical properties of the mixtures were assessed at 14 and 28 days. The results of this study indicate that values from flow-table tests and custom rigidity tests can be used to guide the design of soil-based mixtures for 3D printing. Rheological findings show that increased kaolinite content enhances the thixotropic effect of the mixture, while coarser particle distribution increases the static yield value. A cylinder printing test until breakdown suggests that a rotational rheometer test can predict element failure due to the bottom layer plastic collapse, based on the printing parameters. Disparities between the performance of fresh and hardened mixtures were revealed by the results of the mechanical tests.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
@@ -101,8 +77,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
@@ -123,4 +99,34 @@ tags:
       <li><a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/jin_chen"><b>Jin</b> Chen</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhou_geng_jin_liu.2024.IoRSotPoFASBGMf3P/">Influence of Residue Soil on the Properties of Fly-Ash-Slag-Based Geopolymer Materials for 3D Printing</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{asaf_bent_lari_spre.2023.FStPS,
+      author            = "Ofer Asaf and Arnon Bentur and Pavel Larianovsky and Aaron Sprecher",
+      title             = "From Soil to Printed Structures: A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture",
+      doi               = "10.1016/j.conbuildmat.2023.133783",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "408",
+      pages             = "133783",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Asaf, A. Bentur, P. Larianovsky and A. Sprecher, “From Soil to Printed Structures: A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture”, <i>Construction and Building Materials</i>, vol. 408, p. 133783, 2023, doi: 10.1016/j.conbuildmat.2023.133783.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Asaf, Ofer, Arnon Bentur, Pavel Larianovsky, and Aaron Sprecher. “From Soil to Printed Structures: A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture”. <i>Construction and Building Materials</i> 408 (2023): 133783. https://doi.org/10.1016/j.conbuildmat.2023.133783.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

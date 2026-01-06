@@ -8,7 +8,7 @@ search:
 
 # #relation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
   <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
   <li><a href="../../../author/rusu_m_mihai"><b>Rusu</b> Mihai</a>, <a href="../../../author/ardelean_ioan"><b>Ardelean</b> Ioan</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rusu_arde.2025.RBtPDoMaNRD/">Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data</a></li>

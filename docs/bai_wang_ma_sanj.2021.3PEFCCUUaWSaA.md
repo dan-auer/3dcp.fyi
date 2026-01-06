@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gang Bai, Li Wang, Guowei Ma, Jay Sanjayan, Mingke Bai
+    - footer
+title: Bai Gang, Wang Li, Ma Guowei, Sanjayan Jay, Bai Mingke
 description:
 tags:
  - aggregate
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates ([2021-03](date/2021/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104037" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104037</a>
+#3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates ([2021-03](date/2021/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104037" target="_blank">10.1016/j.cemconcomp.2021.104037</a>
 
--------------------------
+<a href="../../../author/bai_gang"><b>Bai</b>&nbsp;Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <a href="../../../author/bai_mingke"><b>Bai</b>&nbsp;Mingke</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 120
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_mingke"><b>Bai</b> Mingke</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 120, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#print`](keyword/print)
-    [`#solid`](keyword/solid)
-    [`#util`](keyword/util)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Eco-Friendly%20Concrete%20Containing%20Under-Utilised%20and%20Waste%20Solids%20as%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103944274&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3146163034" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104037" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104037?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an emerging construction technology, and presents an opportunity for utilising materials that are otherwise considered unsuitable for concrete construction. Incorporating underutilised solids and/or waste solids as aggregates is a way of gaining the maximum environmental and economic benefits from the emerging 3D concrete printing technology. In this study, desert sand (small size), river-sediment ceramsite sand (medium size), and recycled concrete (large size) were experimentally investigated for use as aggregates in the 3D printing of concrete. Three mixtures were designed with continuous, open, and interrupted gradations of solids, respectively, based on the theory of particle interference, and aiming to meet the requirements of extrusion-based 3D printing. The influences of the particle grading characteristics on the printability-related early-age behaviours, mechanical properties, and shrinkage resistance have been measured and analysed. The test results demonstrate that the self-supporting skeletal effect formed by the gradated particles reduces the flowability of the mixtures, but the structural build-up/buildability performance is improved (under the premise of the desired printability). The interlayer distribution and skeleton of the gradated aggregate contribute to improving the interfacial interlocking effect and contact bonding between layers; this is visually validated through computed tomography (CT) scanning. Further, the addition of aggregates reduces the proportion of cementitious composites, and therefore effectively mitigates the shrinkage of the cement matrix. The grading characteristics of the underutilised particle resources are crucial for regulating the early-age 3D printability. This article provides feasible solutions based on experimental data for promoting the eco-utilisation of underutilised and waste solids in 3D printing, and these solutions satisfy the minimum strength and durability requirements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -90,8 +68,9 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "174 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/sicakova_alena"><b>Sičáková</b> Alena</a>, <a href="../../../author/vercimak_dominik"><b>Verčimák</b> Dominik</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sica_verc.2025.LMwaHPoRFiTo3PP/">Lightweight Mixtures with a High Proportion of Recycled Fillers in Terms of 3D Printing Parameters</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
@@ -266,4 +245,33 @@ tags:
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bai_wang_ma_sanj.2021.3PEFCCUUaWSaA,
+      author            = "Gang Bai and Li Wang and Guowei Ma and Jay Gnananandan Sanjayan and Mingke Bai",
+      title             = "3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates",
+      doi               = "10.1016/j.cemconcomp.2021.104037",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "120",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Bai, L. Wang, G. Ma, J. G. Sanjayan and M. Bai, “3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates”, <i>Cement and Concrete Composites</i>, vol. 120, 2021, doi: 10.1016/j.cemconcomp.2021.104037.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bai, Gang, Li Wang, Guowei Ma, Jay Gnananandan Sanjayan, and Mingke Bai. “3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates”. <i>Cement and Concrete Composites</i> 120 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104037.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

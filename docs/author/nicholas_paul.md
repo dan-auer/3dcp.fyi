@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Nicholas Paul 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b> Mette</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a>, <a href="../../../author/nielsen_dalager_stine"><b>Nielsen</b> Stine</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../thom_nich_chiu_niel.2025.AMfR/">Additive Manufacturing for Repair:<br/>Continual Construction Through Bio-Based Materials</a></li>
   <li><a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b> Mette</a>, <a href="../../../author/tamke_martin"><b>Tamke</b> Martin</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../thom_tamk_ross_chiu.2024.SC/">Sustainable Construction:<br/>Additive Manufacturing in a Circular Design Framework</a></li>
   <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../heyw_nich.2024.Dfaw3/">Design for and with 3DCP:<br/>An Integrated Early Design Stage Workflow</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zahabizadeh Behzad 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zaha_pere_pere_cunh.2025.SHAoFRCMDf3CP/">Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing:<br/>Recovery of Mechanical Performance and Self-Sealing Capability</a></li>
   <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/segundo_rocha_iran"><b>Segundo</b> Iran</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/freitas_elisabete"><b>Freitas</b> Elisabete</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../zaha_segu_pere_frei.2023.PoF3PCM/">Photocatalysis of Functionalised 3D Printed Cementitious Materials</a></li>
   <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zaha_pere_gonc_pere.2023.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete:<br/>Correction</a></li>

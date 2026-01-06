@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnaud Perrot, Yohan Jacquet, Damien Rangeard, Eric Courteille, Mohammed Sonebi
+    - footer
+title: Perrot Arnaud, Jacquet Yohan, Rangeard Damien, Courteille Eric, Sonebi Mohammed
 description:
 tags:
  - concrete
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/13/7/1518/pdf?version=1585621775) Nailing of Layers:<br/>:aca-blank: A Promising Way to Reinforce Concrete 3D Printing Structures ([2020-03](date/2020/03))
-<a href="https://doi.org/10.3390/ma13071518" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma13071518</a>
+#Nailing of Layers&nbsp;([2020-03](date/2020/03))
+<div class="h1-like">A Promising Way to Reinforce Concrete 3D Printing Structures</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/7/1518/pdf?version=1585621775) <a href="https://doi.org/10.3390/ma13071518" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13071518" target="_blank">10.3390/ma13071518</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8780-2732" title="ORCID: 0000-0001-8780-2732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/courteille_eric"><b>Courteille</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span><br>
+Journal Article - Materials, Vol. 13, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="https://orcid.org/0000-0001-8780-2732" title="ORCID: 0000-0001-8780-2732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 13, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#layer`](keyword/layer)
-    [`#nail`](keyword/nail)
-    [`#print`](keyword/print)
-    [`#promise`](keyword/promise)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/nail"><button class="btn">#nail</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/promise"><button class="btn">#promise</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nailing%20of%20Layers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082969132&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3013917315" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma13071518" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma13071518?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Today, the extrusion-based 3D printing of concrete is a potential breakthrough technology for the construction industry. It is expected that 3D printing will reduce the cost of construction of civil engineering structures (removal of formwork) and lead to a significant reduction in time and improve working environment conditions. Following the use of this additive manufacturing layer-wise process, it is required to change the way concrete structures are designed and reinforced, especially for the parts of the structure under tension loads. Indeed, the extrusion-based concrete 3D printing process does not allow for the production of conventional reinforced concrete, and there is a need to develop other ways of compensating for the low mechanical performances of concrete, particularly in tension. In this study, the reinforcement of printed structures by using steel nails through the deposited layers of fresh concrete was investigated. Additionally, three-layer and 10-layer samples were reinforced with nails with varying inclination and spacing. The results show that inclined nails can be used to provide a flexural strengthening of the printing material in different directions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -99,8 +78,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "92 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
@@ -194,4 +173,34 @@ tags:
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_wang_ma_sanj.2020.SaDEo3PSRbECMC/">Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables</a></li>
       <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hass_bos.2020.BaPOToaNSTRfEB3PC/">Bending and Pull-Out Tests on a Novel Screw Type Reinforcement for Extrusion-Based 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{perr_jacq_rang_cour.2020.NoL,
+      author            = "Arnaud Perrot and Yohan Jacquet and Damien Rangeard and Eric Courteille and Mohammed Sonebi",
+      title             = "Nailing of Layers: A Promising Way to Reinforce Concrete 3D Printing Structures",
+      doi               = "10.3390/ma13071518",
+      year              = "2020",
+      journal           = "Materials",
+      volume            = "13",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Perrot, Y. Jacquet, D. Rangeard, E. Courteille and M. Sonebi, “Nailing of Layers: A Promising Way to Reinforce Concrete 3D Printing Structures”, <i>Materials</i>, vol. 13, no. 7, 2020, doi: 10.3390/ma13071518.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perrot, Arnaud, Yohan Jacquet, Damien Rangeard, Eric Courteille, and Mohammed Sonebi. “Nailing of Layers: A Promising Way to Reinforce Concrete 3D Printing Structures”. <i>Materials</i> 13, no. 7 (2020). https://doi.org/10.3390/ma13071518.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

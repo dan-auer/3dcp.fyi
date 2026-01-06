@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Richard Buswell
+    - footer
+title: Buswell Richard
 description:
 tags:
  - concrete
@@ -10,23 +11,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/articles/journal_contribution/CCR_digital_concrete_2022_SI_Editorial/20211008/1/files/36124460.pdf) CCR Digital Concrete 2022 SI:<br/>:aca-blank: Editorial ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106839" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106839</a>
+#CCR Digital Concrete 2022 SI&nbsp;([2022-06](date/2022/06))
+<div class="h1-like">Editorial</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/CCR_digital_concrete_2022_SI_Editorial/20211008/1/files/36124460.pdf) <a href="https://doi.org/10.1016/j.cemconres.2022.106839" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106839" target="_blank">10.1016/j.cemconres.2022.106839</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 159
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 159, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=CCR%20Digital%20Concrete%202022%20SI" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131357579&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -41,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281653418" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106839" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106839?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital design and fabrication in construction and architecture has been under development for over six decades. Jørn Utson and Ove Arup pioneered digital techniques in the late 1950’s for the design of the Sydney Opera House [1], deploying computers to carry the computational burden [2]. In manufacturing, computer numeric control (CNC) took hold in the 1960’s and in the 1970’s and 1980’s robotics and automation in construction was explored particularly in Japan through significant R&D investment from the industry [3–5]. The need to reduce time and cost while increasing quality and productivity remain contemporary issues for construction and the interest in deploying automation to assist, continues to grow [6,7]. In the 1990’s digital design tools, shape capture, modelling and CNC enabled the design and manufacture of exciting building forms: The Zollhoff Towers was one of, if not the first building to be manufactured from panels created from a CNC-milled mould formwork system [8]. In 1997, Joe Pegna produced the first additively manufactured part that use cement as a binder, followed by the birth of large-scale additive manufacturing approaches based on material extrusion and particle-bed binding methods for in-situ wall construction and off-site manufacture in the 2000’s [9]. The development of the field since then has been extraordinary. The almost incomprehensible acceleration in the R&D activities in academia and industry was illustrated in the first Special Issue of Cement and Concrete Research for the Digital Concrete Conference in 2018 [10]. In this issue, four years and one global pandemic later, Ma et al. [11] revisit technology development to temperature check progress. They present an argument demonstrating that extrusion-based 3D concrete printing technologies have reached a Technology Readiness level of TRL6-TRL7: equivalent to mainstream additive manufacturing, whose inception was some ten years prior [12]. This article goes on to present new frontiers for R&D and what is interesting is that the classic pillars of dependence for additive manufacturing with concrete materials-processdesign, has become a tetrahedron with a fourth edge, application, described by Bos et al. in their editorial for DC2020 special issue [13]. With practical application, comes issues around software provision and how 3D printed parts are integrated with other building systems: a journey of some significance that marks an important stage in the development and commercialisation of the technology
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../aspr_menn_bos_mata.2022.SDaToDMCS/">Structural Design and Testing of Digitally Manufactured Concrete Structures</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../bos_wolf_sale.2020.CDC2S/">CCR Digital Concrete 2020 SI:<br/>Editorial</a></li>
@@ -59,7 +47,6 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
-      <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a>, <a href="../../../author/blanco_ana"><b>Blanco</b> Ana</a>, <a href="../../../author/galeote_eduardo"><b>Galeote</b> Eduardo</a>, <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../fuen_blan_gale_cava.2022.SFRCBCDfPB3PS/">Structural Fiber-Reinforced Cement-Based Composite Designed for Particle-Bed 3D Printing Systems:<br/>Case Study Parque De Castilla Footbridge in Madrid</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
@@ -80,11 +67,39 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wang_flat_rous_perr.2022.PCBM/">Printable Cement-Based Materials:<br/>Fresh Properties Measurements and Control</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../vare_tino_mend_tole.2024.3PCBCRwSF/">3D Printable Cement-Based Composites Reinforced with Sisal-Fibers:<br/>Rheology, Printability and Hardened Properties</a></li>
       <li><a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a>, <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>, <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fan_zhu_fan_lu.2023.IDaMoUHPC/">Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../vasi_hack_klof_lowk.2022.DFiB/">Digitale Fertigung im Betonbau</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{busw.2022.CDC2S,
+      author            = "Richard A. Buswell",
+      title             = "CCR Digital Concrete 2022 SI: Editorial",
+      doi               = "10.1016/j.cemconres.2022.106839",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "159",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. A. Buswell, “CCR Digital Concrete 2022 SI: Editorial”, <i>Cement and Concrete Research</i>, vol. 159, 2022, doi: 10.1016/j.cemconres.2022.106839.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Buswell, Richard A.. “CCR Digital Concrete 2022 SI: Editorial”. <i>Cement and Concrete Research</i> 159 (2022). https://doi.org/10.1016/j.cemconres.2022.106839.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

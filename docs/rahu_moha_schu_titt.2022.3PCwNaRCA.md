@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Attupurathu Rahul, Manu Mohan, Geert Schutter, Kim Tittelboom
+    - footer
+title: Rahul Attupurathu, Mohan Manu, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - aggregate
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printable Concrete with Natural and Recycled Coarse Aggregates:<br/>:aca-blank: Rheological, Mechanical and Shrinkage Behavior ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104311" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104311</a>
+#3D Printable Concrete with Natural and Recycled Coarse Aggregates&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">Rheological, Mechanical and Shrinkage Behavior</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104311" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104311" target="_blank">10.1016/j.cemconcomp.2021.104311</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohan_k_manu"><b>Mohan</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 125
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> <a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 125, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#behavior`](keyword/behavior)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#natural`](keyword/natural)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Concrete%20with%20Natural%20and%20Recycled%20Coarse%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117726443&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3206204534" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104311" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104311?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the current study, we examine the effect of using natural and recycled coarse aggregates in designing 3D printable concrete. We assessed the rheological behaviourusing a dynamic shear rheometer, and it was observed that the addition of coarse aggregates significantly decreased the yield stress and marginally lowered the plastic viscosity. This was attributed to the increase in the paste and water film thickness with the addition of larger aggregates. Therefore, a reduction in the superplasticizer dosage is required to obtain coarse aggregate mixtures with similar yield stress and buildability to the control mixture. The mechanical properties were evaluated by using beam and cube samples cut out from printed wall elements. A marginal decrease in compression and flexural strength was observed for both the mixtures with natural and recycled coarse aggregates. The total and autogenous shrinkage assessment was performed using mould cast prismatic specimens, while the shrinkage cracking potential was evaluated using the restrained ring test. The coarse aggregate mixtures showed lower total and autogenous shrinkage. Notably, the addition of the saturated recycled aggregates significantly lowered the autogenous shrinkage, possibly due to internal curing. As a result, a relatively lower strain rate factor and slower development of tensile stresses occurred in the restrained shrinkage test, increasing the cracking age for the coarse aggregate mixtures. The current study, therefore, shows good potential for using natural and recycled coarse aggregates in 3D printable concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -104,8 +81,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "105 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
@@ -212,4 +189,33 @@ tags:
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/dam_benjamin"><b>Dam</b> Benjamin</a>, <a href="../../../author/zeidan_talina"><b>Zeidan</b> Talina</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../moha_rahu_dam_zeid.2022.PCEIaCAf3PCM/">Performance Criteria, Environmental Impact and Cost-Assessment for 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rahu_moha_schu_titt.2022.3PCwNaRCA,
+      author            = "Attupurathu Vijayan Rahul and Manu K. Mohan and Geert de Schutter and Kim van Tittelboom",
+      title             = "3D Printable Concrete with Natural and Recycled Coarse Aggregates: Rheological, Mechanical and Shrinkage Behavior",
+      doi               = "10.1016/j.cemconcomp.2021.104311",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "125",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. V. Rahul, M. K. Mohan, G. de Schutter and K. van Tittelboom, “3D Printable Concrete with Natural and Recycled Coarse Aggregates: Rheological, Mechanical and Shrinkage Behavior”, <i>Cement and Concrete Composites</i>, vol. 125, 2022, doi: 10.1016/j.cemconcomp.2021.104311.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rahul, Attupurathu Vijayan, Manu K. Mohan, Geert de Schutter, and Kim van Tittelboom. “3D Printable Concrete with Natural and Recycled Coarse Aggregates: Rheological, Mechanical and Shrinkage Behavior”. <i>Cement and Concrete Composites</i> 125 (2022). https://doi.org/10.1016/j.cemconcomp.2021.104311.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

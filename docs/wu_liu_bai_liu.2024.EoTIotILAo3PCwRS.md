@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiwen Wu, Chao Liu, Guoliang Bai, Huawei Liu, Shuwen Cao, Zongfang Ma, Yuzhe Sun
+    - footer
+title: Wu Yiwen, Liu Chao, Bai Guoliang, Liu Huawei, Cao Shuwen, Ma Zongfang, Sun Yuzhe
 description:
 tags:
  - adhesion
@@ -24,43 +25,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Time Interval on the Inter-Layer Adhesion of 3D Printed Concrete with Recycled Sand:<br/>:aca-blank: Multi-Factor Influencing Mechanisms and Superabsorbent Polymer Enhancement ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.addma.2024.104206" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104206</a>
+#Effect of Time Interval on the Inter-Layer Adhesion of 3D Printed Concrete with Recycled Sand&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">Multi-Factor Influencing Mechanisms and Superabsorbent Polymer Enhancement</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104206" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104206" target="_blank">10.1016/j.addma.2024.104206</a>
 
--------------------------
+<a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/bai_guoliang"><b>Bai</b>&nbsp;Guoliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/cao_shuwen"><b>Cao</b>&nbsp;Shuwen</a></span>, <a href="../../../author/ma_zongfang"><b>Ma</b>&nbsp;Zongfang</a></span>, <a href="../../../author/sun_yuzhe"><b>Sun</b>&nbsp;Yuzhe</a></span><br>
+Journal Article - Additive Manufacturing, No. 104206
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>
-,     <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cao_shuwen"><b>Cao</b> Shuwen</a>
-,     <a href="../../../author/ma_zongfang"><b>Ma</b> Zongfang</a>
-,     <a href="../../../author/sun_yuzhe"><b>Sun</b> Yuzhe</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104206
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#enhancement`](keyword/enhancement)
-    [`#factor`](keyword/factor)
-    [`#influence`](keyword/influence)
-    [`#inter`](keyword/inter)
-    [`#interval`](keyword/interval)
-    [`#layer`](keyword/layer)
-    [`#mechanism`](keyword/mechanism)
-    [`#multi`](keyword/multi)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Time%20Interval%20on%20the%20Inter-Layer%20Adhesion%20of%203D%20Printed%20Concrete%20with%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193780646&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -75,17 +47,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396919301" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104206" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104206?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interlayers have a significant impact on the mechanical properties and integrity of 3D printed concrete structures. The interlayer shear strength of 3D printed recycled mortar (3DPRM) was tested at interval times of 0 min-24 h, considering the effects of moisture, pore structure, and hydration products of the interlayer. Furthermore, the enhancement mechanism of superabsorbent polymer (SAP) incorporation on the interlayer adhesion of 3DPRM was also investigated. The findings indicated that as the time intervals increased, there was a corresponding increase in the yield stress of the bottom filament, leading to an increase in thickness and degradation of pore structures in the interlayer region. Additionally, there was a loss in moisture and a reduction in unhydrated particles, resulting in a decrease in the amount of C-S-H. As the bottom filament progressed from its fresh state to the final setting, the dominant factor in interlayer adhesion changed from moisture to pore structure. This conclusion provides a theoretical basis for solving the interlayer cold joint problem at different time intervals. The incorporation of 0.3% SAP completely offset the negative effect of recycled sand incorporation on interlayer adhesion strength and has good potential for practical application.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/zheng_dapeng"><b>Zheng</b> Dapeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cao_yu_zhen_cui.2022.NPtEtIBSi3PC/">Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -121,8 +89,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
@@ -134,4 +102,33 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>
       <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_dong_jia_jia.2024.SSEoCSo3PCCCAwVWtBR/">Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_liu_bai_liu.2024.EoTIotILAo3PCwRS,
+      author            = "Yiwen Wu and Chao Liu and Guoliang Bai and Huawei Liu and Shuwen Cao and Zongfang Ma and Yuzhe Sun",
+      title             = "Effect of Time Interval on the Inter-Layer Adhesion of 3D Printed Concrete with Recycled Sand: Multi-Factor Influencing Mechanisms and Superabsorbent Polymer Enhancement",
+      doi               = "10.1016/j.addma.2024.104206",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104206",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wu, “Effect of Time Interval on the Inter-Layer Adhesion of 3D Printed Concrete with Recycled Sand: Multi-Factor Influencing Mechanisms and Superabsorbent Polymer Enhancement”, <i>Additive Manufacturing</i>, p. 104206, 2024, doi: 10.1016/j.addma.2024.104206.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Yiwen, Chao Liu, Guoliang Bai, Huawei Liu, Shuwen Cao, Zongfang Ma, and Yuzhe Sun. “Effect of Time Interval on the Inter-Layer Adhesion of 3D Printed Concrete with Recycled Sand: Multi-Factor Influencing Mechanisms and Superabsorbent Polymer Enhancement”. <i>Additive Manufacturing</i>, 2024, 104206. https://doi.org/10.1016/j.addma.2024.104206.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

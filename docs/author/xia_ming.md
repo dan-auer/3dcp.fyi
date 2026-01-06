@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Xia Ming 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
   <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
   <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>, <a href="../../../author/huo_liang"><b>Huo</b> Liang</a>, <a href="../../../author/li_guoyou"><b>Li</b> Guoyou</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lin_huo_li_wang.2024.OSDo3CPftBaTSBiC/">On-Site Deployment of 3D Construction Printing for the Building a Two-Story Building in China</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Euro Casanova, Nelson Hidalgo, Michael Valdebenito, Eric Forcael, Rodrigo García-Alvarado, Carlos Graciano
+    - footer
+title: Casanova Euro, Hidalgo Nelson, Valdebenito Michael, Forcael Eric, García-Alvarado Rodrigo, Graciano Carlos
 description:
 tags:
  - additive
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112770" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112770</a>
+#Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112770" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112770" target="_blank">10.1016/j.jobe.2025.112770</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1701-0550" title="ORCID: 0000-0002-1701-0550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/casanova_euro"><b>Casanova</b>&nbsp;Euro</a></span>, <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b>&nbsp;Nelson</a></span>, <a href="../../../author/valdebenito_michael"><b>Valdebenito</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3036-4329" title="ORCID: 0000-0002-3036-4329" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forcael_eric"><b>Forcael</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0659-7963" title="ORCID: 0000-0003-0659-7963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graciano_carlos"><b>Graciano</b>&nbsp;Carlos</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112770
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/casanova_euro"><b>Casanova</b> Euro</a> <a href="https://orcid.org/0000-0002-1701-0550" title="ORCID: 0000-0002-1701-0550" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b> Nelson</a>
-,     <a href="../../../author/valdebenito_michael"><b>Valdebenito</b> Michael</a>
-,     <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> <a href="https://orcid.org/0000-0002-3036-4329" title="ORCID: 0000-0002-3036-4329" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/graciano_carlos"><b>Graciano</b> Carlos</a> <a href="https://orcid.org/0000-0003-0659-7963" title="ORCID: 0000-0003-0659-7963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112770
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#curve`](keyword/curve)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#resistance`](keyword/resistance)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Overturning%20Resistance%20of%20Concrete%20Curved%20Walls%20Manufactured%20with%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004200894&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409800092" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112770" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112770?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     his paper investigates the overturning response of simply supported concrete curved walls manufactured with additive construction. An analytical approach is developed by evaluating the equilibrium state of the walls, and a numerical model is also built based on the finite element method to determine the overturning resistance of the walls. The stability of the walls is investigated by considering various curvatures, projected lengths, and cross-sections (uniform and tapered). Experimental tests were also conducted using a scaled model of the walls with the design of experiment techniques. Furthermore, the most influential geometric parameters in the stability of curved walls were examined, and the results were compared to those of equivalent straight walls. The results showed that in most cases, the curved walls with uniform and tapered sections can attain a sixfold increase in the overturning resistance in comparison to straight walls, enabling significant material savings of up to 37% for some configurations with the same length. In addition, the wall curvature was the most influential parameter in the overturning resistance. Finally, a decrease in the top thickness of curved tapered walls, with a tapered shape, led to an even greater optimization of the material while displaying an increased overturning resistance compared to equivalent straight walls.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
@@ -88,7 +65,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{casa_hida_vald_forc.2025.ORoCCWMwAC,
+      author            = "Euro Casanova and Nelson Hidalgo and Michael Valdebenito and Eric Forcael and Rodrigo García-Alvarado and Carlos Graciano",
+      title             = "Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction",
+      doi               = "10.1016/j.jobe.2025.112770",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112770",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Casanova, N. Hidalgo, M. Valdebenito, E. Forcael, R. García-Alvarado and C. Graciano, “Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction”, <i>Journal of Building Engineering</i>, p. 112770, 2025, doi: 10.1016/j.jobe.2025.112770.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Casanova, Euro, Nelson Hidalgo, Michael Valdebenito, Eric Forcael, Rodrigo García-Alvarado, and Carlos Graciano. “Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction”. <i>Journal of Building Engineering</i>, 2025, 112770. https://doi.org/10.1016/j.jobe.2025.112770.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

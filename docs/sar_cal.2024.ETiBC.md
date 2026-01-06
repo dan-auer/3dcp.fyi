@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ramazan Sarı, Ekrem Çalışkan
+    - footer
+title: Sarı Ramazan, Çalışkan Ekrem
 description:
 tags:
  - buildability
@@ -12,26 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Emerging Technologies in Building Construction ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1007/978-3-031-50043-5_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-50043-5_6</a>
+#Emerging Technologies in Building Construction ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-50043-5_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-50043-5_6" target="_blank">10.1007/978-3-031-50043-5_6</a>
 
--------------------------
+<a href="../../../author/sari_ramazan"><b>Sarı</b>&nbsp;Ramazan</a></span>, <a href="../../../author/caliskan_bahadir_ekrem"><b>Çalışkan</b>&nbsp;Ekrem</a></span><br>
+Contribution - Building Construction Methods and Systems, pp. 323-345
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sari_ramazan"><b>Sarı</b> Ramazan</a>
-,     <a href="../../../author/caliskan_bahadir_ekrem"><b>Çalışkan</b> Ekrem</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Building Construction Methods and Systems, pp. 323-345
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#emergent`](keyword/emergent)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Emerging%20Technologies%20in%20Building%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392395977" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-50043-5_6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-50043-5_6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction methods and materials are always in the change and improvement process regarding technological innovations and trends. This chapter introduces and underlines additive manufacturing and 3D printing in construction with governing principles and preliminary examples from the world.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -75,7 +59,37 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sar_cal.2024.ETiBC,
+      author            = "Ramazan Sarı and Ekrem Bahadır Çalışkan",
+      title             = "Emerging Technologies in Building Construction",
+      doi               = "10.1007/978-3-031-50043-5_6",
+      year              = "2024",
+      pages             = "323--345",
+      booktitle         = "Building Construction Methods and Systems",
+      editor            = "Ramazan Sarı and Ekrem Bahadır Çalışkan",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Sarı  and E. B. Çalışkan, “Emerging Technologies in Building Construction”, in <i>Building Construction Methods and Systems</i>,  2024, pp. 323–345. doi: 10.1007/978-3-031-50043-5_6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sarı, Ramazan, and Ekrem Bahadır Çalışkan. “Emerging Technologies in Building Construction”. In <i>Building Construction Methods and Systems</i>, edited by Ramazan Sarı and Ekrem Bahadır Çalışkan, 323–45, 2024. https://doi.org/10.1007/978-3-031-50043-5_6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

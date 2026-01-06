@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhijian Li, Li Wang, Guowei Ma, Jay Sanjayan, Duo Feng
+    - footer
+title: Li Zhijian, Wang Li, Ma Guowei, Sanjayan Jay, Feng Duo
 description:
 tags:
  - cable
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.120196" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.120196</a>
+#Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.120196" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.120196" target="_blank">10.1016/j.conbuildmat.2020.120196</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <a href="../../../author/feng_duo"><b>Feng</b>&nbsp;Duo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 264
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_duo"><b>Feng</b> Duo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 264, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cable`](keyword/cable)
-    [`#continuous`](keyword/continuous)
-    [`#ductility`](keyword/ductility)
-    [`#embedded`](keyword/embedded)
-    [`#enhancement`](keyword/enhancement)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strength%20and%20Ductility%20Enhancement%20of%203D%20Printing%20Structure%20Reinforced%20by%20Embedding%20Continuous%20Micro-Cables" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088662722&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,18 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3046176876" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.120196" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.120196?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is used to manufacture freeform components by digitally controlling the distribution of concrete materials without requiring additional formwork. Recurring issues associated with 3DCP are low tensile strength and poor ductility of the nonreinforced structures. In this paper, a reconciliation printing methodology is presented for manufacturing reinforced geopolymer structures by simultaneously embedding micro-cables during the printing process. Structural arched beam and spiderweb-like structures were 3D printed and used to verify the feasibility of the proposed reinforcing method by evaluating their shape-based structural performance. A self-developed loading device was used to simulate the natural tension-only stress condition of a real spiderweb. The loading capacity of the cable-reinforced web structure was calculated and compared to the test results, which verified the bonding and the reconciliation between the micro-cable and the geopolymer matrix. As compared to the nonreinforced structures, the failure mode of the reinforced structures changed from brittle to ductile with multiple cracks, and the micro-cable reinforcement altered the strain evolution patterns. This study demonstrates that the strength of the reinforced structure was substantially increased. Further, both the method of reinforcement and the specific configuration of the 3D printed structures play a crucial role in resisting deformation and damage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -107,8 +81,9 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "46 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_liu_chen_xuan.2025.DaPo3PBSFRCCCB/">Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams</a></li>
@@ -155,4 +130,33 @@ tags:
       <li><a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>, <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>, <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../cui_wu_chen_luo.2021.PoMOCaa3PM/">Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_wang_ma_sanj.2020.SaDEo3PSRbECMC,
+      author            = "Zhijian Li and Li Wang and Guowei Ma and Jay Gnananandan Sanjayan and Duo Feng",
+      title             = "Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables",
+      doi               = "10.1016/j.conbuildmat.2020.120196",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "264",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, L. Wang, G. Ma, J. G. Sanjayan and D. Feng, “Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables”, <i>Construction and Building Materials</i>, vol. 264, 2020, doi: 10.1016/j.conbuildmat.2020.120196.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zhijian, Li Wang, Guowei Ma, Jay Gnananandan Sanjayan, and Duo Feng. “Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables”. <i>Construction and Building Materials</i> 264 (2020). https://doi.org/10.1016/j.conbuildmat.2020.120196.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

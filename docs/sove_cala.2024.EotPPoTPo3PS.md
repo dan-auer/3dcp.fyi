@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meruyert Sovetova, John Calautit
+    - footer
+title: Sovetova Meruyert, Calautit John
 description:
 tags:
  - effect
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-# Effect of the Printing Process on Thermal Performance of 3D Printed Structures ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202407151111-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202407151111-0</a>
+#Effect of the Printing Process on Thermal Performance of 3D Printed Structures ([2024-09](date/2024/09))
+ <a href="https://doi.org/10.24355/dbbs.084-202407151111-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202407151111-0" target="_blank">10.24355/dbbs.084-202407151111-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sovetova_meruyert"><b>Sovetova</b>&nbsp;Meruyert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7046-3308" title="ORCID: 0000-0001-7046-3308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calautit_kaiser_john"><b>Calautit</b>&nbsp;John</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a> <a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="https://orcid.org/0000-0001-7046-3308" title="ORCID: 0000-0001-7046-3308" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#effect`](keyword/effect)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#structure`](keyword/structure)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20the%20Printing%20Process%20on%20Thermal%20Performance%20of%203D%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6944926528" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202407151111-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202407151111-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry significantly contributes to environmental impact, and the adoption of automation-oriented approaches can help mitigate this impact. 3D-printed concrete, characterised by its layered structure, exhibits different properties compared to traditional cast concrete. This study investi-gates the influence of the printing process on the thermal properties of 3D-printed concrete, aiming to bridge the knowledge gap in the thermal and energy performance of 3D-printed buildings. An experiment using a heat flow meter and infrared thermal camera test was conducted to evaluate the thermal conduc-tivity, identify potential thermal bridges, and assess the impact of printing pa-rameters on the thermal performance of 3D-printed concrete structures. The re-sults showed that the thermal conductivity of 3D-printed concrete printed with varying printing parameters ranges from 0.366 W/moC to 0.668 W/moC. The study revealed that printing parameters have a significant influence on the thermal properties of 3D-printed concrete. The study identified potential ther-mal bridges caused by the printing process. The interfaces between layers can create weak paths for heat transfer, resulting in localised areas of higher thermal conductivity. Optimising printing parameters is crucial to achieve the desired thermal performance and eliminate potential thermal bridges, paving the way for energy-efficient 3D-printed buildings. This study provides valuable insights into the design and construction of 3D-printed concrete structures, contributing to the development of sustainable building practices and additive manufacturing in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
       <li><a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hao_xiao_sun_xia.2022.TCo3PCWRFACPCM/">Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials</a></li>
@@ -74,12 +56,39 @@ tags:
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../rodr_olek_moin_zava.2021.LSCaFPoMtTTDPC/">Linking Solids Content and Flow Properties of Mortars to Their Three-Dimensional Printing Characteristics</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
-      <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sove_cala.2024.EotPPoTPo3PS/">Effect of the Printing Process on Thermal Performance of 3D Printed Structures</a></li>
       <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sove_cala.2024.EotPPoTPo3PS/">Effect of the Printing Process on Thermal Performance of 3D Printed Structures</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sove_cala.2024.EotPPoTPo3PS,
+      author            = "Meruyert Sovetova and John Kaiser Calautit",
+      title             = "Effect of the Printing Process on Thermal Performance of 3D Printed Structures",
+      doi               = "10.24355/dbbs.084-202407151111-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sovetova  and J. K. Calautit, “Effect of the Printing Process on Thermal Performance of 3D Printed Structures”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202407151111-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sovetova, Meruyert, and John Kaiser Calautit. “Effect of the Printing Process on Thermal Performance of 3D Printed Structures”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202407151111-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

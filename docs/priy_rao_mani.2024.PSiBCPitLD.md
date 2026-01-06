@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Suchi Priyadarshani, Roshan Rao, Monto Mani
+    - footer
+title: Priyadarshani Suchi, Rao Roshan, Mani Monto
 description:
 tags:
  - buildability
@@ -11,26 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Paradigm Shifts in Building Construction Priorities in the Last Decade ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1007/s41745-024-00437-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41745-024-00437-5</a>
+#Paradigm Shifts in Building Construction Priorities in the Last Decade ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41745-024-00437-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41745-024-00437-5" target="_blank">10.1007/s41745-024-00437-5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0757-8716" title="ORCID: 0000-0002-0757-8716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/priyadarshani_suchi"><b>Priyadarshani</b>&nbsp;Suchi</a></span>, <a href="../../../author/rao_r_roshan"><b>Rao</b>&nbsp;Roshan</a></span>, <a href="../../../author/mani_monto"><b>Mani</b>&nbsp;Monto</a></span><br>
+Journal Article - Journal of the Indian Institute of Science
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/priyadarshani_suchi"><b>Priyadarshani</b> Suchi</a> <a href="https://orcid.org/0000-0002-0757-8716" title="ORCID: 0000-0002-0757-8716" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rao_r_roshan"><b>Rao</b> Roshan</a>
-,     <a href="../../../author/mani_monto"><b>Mani</b> Monto</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of the Indian Institute of Science, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#priority`](keyword/priority)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/priority"><button class="btn">#priority</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Paradigm%20Shifts%20in%20Building%20Construction%20Priorities%20in%20the%20Last%20Decade" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202454364&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401947378" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41745-024-00437-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41745-024-00437-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Buildings are amongst the fundamental needs to human settlements. Present construction industry accounts for nearly 40% of the global GHG emissions. With the raising concerns due to climate change, and corresponding global temperature rise, sustainable practices in building construction is of paramount importance. This article discusses the developments in building technologies focusing on energy efficiency, low carbon, and comfortable & healthy building practices in the last decade. Areas of key technical advancement, current trends in their application, challenges, and potential future research directions have been discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
@@ -67,7 +51,35 @@ tags:
       <li><a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../soda_dwiv_saha_gupt.2024.Do3PSEBCMUES/">Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil:<br/>Evaluation of Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/vigneshwari_are"><b>Vigneshwari</b> Are</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../vign_jaya.2024.ARo3PCMCCaIOT/">A Review on 3D Printable Cementitious Material Containing Copper and Iron-Ore-Tailings:<br/>Material-Characterization, Activation-Methods, Engineering-Properties, Durability, and Microstructure-Behavior</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{priy_rao_mani.2024.PSiBCPitLD,
+      author            = "Suchi Priyadarshani and Roshan R. Rao and Monto Mani",
+      title             = "Paradigm Shifts in Building Construction Priorities in the Last Decade",
+      doi               = "10.1007/s41745-024-00437-5",
+      year              = "2024",
+      journal           = "Journal of the Indian Institute of Science",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Priyadarshani, R. R. Rao and M. Mani, “Paradigm Shifts in Building Construction Priorities in the Last Decade”, <i>Journal of the Indian Institute of Science</i>, 2024, doi: 10.1007/s41745-024-00437-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Priyadarshani, Suchi, Roshan R. Rao, and Monto Mani. “Paradigm Shifts in Building Construction Priorities in the Last Decade”. <i>Journal of the Indian Institute of Science</i>, 2024. https://doi.org/10.1007/s41745-024-00437-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 # van Nguyen Vuong 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/san-ha_ngoc"><b>San Ha</b> Ngoc</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../nguy_tran_san_xie.2024.BRo3PBCPRwSF/">Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers:<br/>Numerical Investigations</a></li>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../nguy_tran_liu_tran.2024.EFEMSMfCPi3PFRC/">Extended Finite Element Multi-Scale Modelling for Crack Propagation in 3D Printed Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>

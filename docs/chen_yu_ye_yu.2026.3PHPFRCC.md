@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenguang Chen, Jie Yu, Junhong Ye, Jiangtao Yu, Victor Li, Kequan Yu
+    - footer
+title: Chen Wenguang, Yu Jie, Ye Junhong, Yu Jiangtao, Li Victor, Yu Kequan
 description:
 tags:
  - cement
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>:aca-blank: Fresh, Mechanical, and Microstructural Properties ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.autcon.2025.106629" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106629</a>
+#3D Printed High-Performance Fiber-Reinforced Cementitious Composites&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Fresh, Mechanical, and Microstructural Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2025.106629" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106629" target="_blank">10.1016/j.autcon.2025.106629</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_wenguang"><b>Chen</b>&nbsp;Wenguang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jie"><b>Yu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Automation in Construction, Vol. 181, No. 106629
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a> <a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> <a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 181, No. 106629
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20High-Performance%20Fiber-Reinforced%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415878981" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106629" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106629?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While 3D concrete printing is attracting attention due to its intelligent and automatic advantages, introducing reinforcement in the layer-by-layer process remains a major challenge. To address this issue, high-performance fiber-reinforced cementitious composites (HPFRCC) with self-reinforcing characteristic have been developed. This paper presents a comprehensive review of the state-of-the-art on 3D printed HPFRCC (3DP-HPFRCC) with respect to fresh, hardened and durability properties, as well as microstructural features. The relationships between key fresh properties and printability are discussed in detail, including flowability, setting time, green strength and rheology. The anisotropy in the mechanical properties of 3DP-HPFRCC is evaluated and analyzed. The pore structure and fiber orientation are further examined to determine the mechanisms governing the mechanical properties of 3DP-HPFRCC. This review is expected to provide a systematic understanding on the performance of 3DP-HPFRCC and identify future research priorities for the widespread engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "146 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../arun_nema_bong_rana.2019.HPo3PUHPFRCfDCA/">Hardened Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction Applications</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
@@ -220,7 +195,37 @@ tags:
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_yu_ye_yu.2026.3PHPFRCC,
+      author            = "Wenguang Chen and Jie Yu and Junhong Ye and Jiangtao Yu and Victor C. Li and Kequan Yu",
+      title             = "3D Printed High-Performance Fiber-Reinforced Cementitious Composites: Fresh, Mechanical, and Microstructural Properties",
+      doi               = "10.1016/j.autcon.2025.106629",
+      year              = "2026",
+      journal           = "Automation in Construction",
+      volume            = "181",
+      pages             = "106629",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Chen, J. Yu, J. Ye, J. Yu, V. C. Li and K. Yu, “3D Printed High-Performance Fiber-Reinforced Cementitious Composites: Fresh, Mechanical, and Microstructural Properties”, <i>Automation in Construction</i>, vol. 181, p. 106629, 2026, doi: 10.1016/j.autcon.2025.106629.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Wenguang, Jie Yu, Junhong Ye, Jiangtao Yu, Victor C. Li, and Kequan Yu. “3D Printed High-Performance Fiber-Reinforced Cementitious Composites: Fresh, Mechanical, and Microstructural Properties”. <i>Automation in Construction</i> 181 (2026): 106629. https://doi.org/10.1016/j.autcon.2025.106629.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Clément Gosselin, Romain Duballet, Philippe Roux, Nadja Gaudillière-Jami, Justin Dirrenberger, Philippe Morel
+    - footer
+title: Gosselin Clément, Duballet Romain, Roux Philippe, Gaudillière-Jami Nadja, Dirrenberger Justin, Morel Philippe
 description:
 tags:
  - architecture
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.archives-ouvertes.fr/hal-01383481/file/Pimm_MatDesign_Gosselin_2016.pdf) Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>:aca-blank: A New Processing Route for Architects and Builders ([2016-03](date/2016/03))
-<a href="https://doi.org/10.1016/j.matdes.2016.03.097" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2016.03.097</a>
+#Large-Scale 3D Printing of Ultra-High-Performance Concrete&nbsp;([2016-03](date/2016/03))
+<div class="h1-like">A New Processing Route for Architects and Builders</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-01383481/file/Pimm_MatDesign_Gosselin_2016.pdf) <a href="https://doi.org/10.1016/j.matdes.2016.03.097" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2016.03.097" target="_blank">10.1016/j.matdes.2016.03.097</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7422-4515" title="ORCID: 0000-0001-7422-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gosselin_m_clement"><b>Gosselin</b>&nbsp;Clément</a></span>, <a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/roux_philippe"><b>Roux</b>&nbsp;Philippe</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b>&nbsp;Nadja</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9847-3409" title="ORCID: 0000-0002-9847-3409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/morel_philippe"><b>Morel</b>&nbsp;Philippe</a></span><br>
+Journal Article - Materials & Design, Vol. 100, pp. 102-109
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="https://orcid.org/0000-0001-7422-4515" title="ORCID: 0000-0001-7422-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>
-,     <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>
-,     <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/morel_philippe"><b>Morel</b> Philippe</a> <a href="https://orcid.org/0000-0002-9847-3409" title="ORCID: 0000-0002-9847-3409" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, Vol. 100, pp. 102-109
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#large`](keyword/large)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Printing%20of%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84962209534&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,30 +40,27 @@ tags:
 <a href="https://inciteful.xyz/p/W2302965792" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2016.03.097" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2016.03.097?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the present paper a new additive manufacturing processing route is introduced for ultra-high performance concrete. Interdisciplinary work involving materials science, computation, robotics, architecture and design resulted in the development of an innovative way of 3D printing cementitious materials. The 3D printing process involved is based on a FDM-like technique, in the sense that a material is deposited layer by layer through an extrusion printhead mounted on a 6-axis robotic arm. The mechanical properties of 3D printed materials are assessed. The proposed technology succeeds in solving many of the problems that can be found in the literature. Most notably, this process allows the production of 3D large-scale complex geometries, without the use of temporary supports, as opposed to 2.5D examples found in the literature for concrete 3Dprinting. Architectural cases ofapplication are used as examples in order to demonstrate the potentialities of the technology. Two structural elements were produced and constitute some ofthe largest 3D printed concrete parts available until now. Multifunctionality was enabled for both structural elements by taking advantage of the complex geometry which can be achieved using our technology for large-scale additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../duba_goss_roux.2015.AMaMOOoGPACS/">Additive Manufacturing and Multi-Objective Optimization of Graded Polystyrene-Aggregate Concrete Structures</a></li>
-      <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "553 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b> Anies</a>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b> Leyla</a>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b> Reham</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../gnan_more_thab_rang.2026.CAoOVO3PiC/">Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction:<br/>Benefits, Challenges, and Case Studies</a></li>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../gaud.2025.ACMPo3/">A Critical Materials Perspective on 3DCP</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
@@ -634,6 +611,35 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/biswas_kaushik"><b>Biswas</b> Kaushik</a>, <a href="../../../author/rose_james"><b>Rose</b> James</a>, <a href="../../../author/eikevik_leif"><b>Eikevik</b> Leif</a>, <a href="../../../author/guerguis_maged"><b>Guerguis</b> Maged</a> et al. <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../bisw_rose_eike_guer.2017.AMIE/">Additive Manufacturing Integrated Energy:<br/>Enabling Innovative Solutions for Buildings of the Future</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{goss_duba_roux_gaud.2016.LS3PoUHPC,
+      author            = "Clément M. Gosselin and Romain Duballet and Philippe Roux and Nadja Gaudillière-Jami and Justin Dirrenberger and Philippe Morel",
+      title             = "Large-Scale 3D Printing of Ultra-High-Performance Concrete: A New Processing Route for Architects and Builders",
+      doi               = "10.1016/j.matdes.2016.03.097",
+      year              = "2016",
+      journal           = "Materials & Design",
+      volume            = "100",
+      pages             = "102--109",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. M. Gosselin, R. Duballet, P. Roux, N. Gaudillière-Jami, J. Dirrenberger and P. Morel, “Large-Scale 3D Printing of Ultra-High-Performance Concrete: A New Processing Route for Architects and Builders”, <i>Materials & Design</i>, vol. 100, pp. 102–109, 2016, doi: 10.1016/j.matdes.2016.03.097.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gosselin, Clément M., Romain Duballet, Philippe Roux, Nadja Gaudillière-Jami, Justin Dirrenberger, and Philippe Morel. “Large-Scale 3D Printing of Ultra-High-Performance Concrete: A New Processing Route for Architects and Builders”. <i>Materials & Design</i> 100 (2016): 102–9. https://doi.org/10.1016/j.matdes.2016.03.097.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

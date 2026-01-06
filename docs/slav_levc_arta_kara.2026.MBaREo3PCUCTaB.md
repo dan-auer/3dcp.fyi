@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Galina Slavcheva, Artem Levchenko, Olga Artamonova, Davut Karakchi-Ogli, Dimitry Babenko
+    - footer
+title: Slavcheva Galina, Levchenko Artem, Artamonova Olga, Karakchi-Ogli Davut, Babenko Dimitry
 description:
 tags:
  - behavior
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1007/s41024-025-00749-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41024-025-00749-8</a>
+#Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-025-00749-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00749-8" target="_blank">10.1007/s41024-025-00749-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8800-2657" title="ORCID: 0000-0001-8800-2657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b>&nbsp;Galina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6875-754X" title="ORCID: 0000-0002-6875-754X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/levchenko_artem"><b>Levchenko</b>&nbsp;Artem</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9157-527X" title="ORCID: 0000-0001-9157-527X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b>&nbsp;Olga</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3655-0859" title="ORCID: 0000-0003-3655-0859" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b>&nbsp;Davut</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-7652-9229" title="ORCID: 0009-0002-7652-9229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babenko_s_dimitry"><b>Babenko</b>&nbsp;Dimitry</a></span><br>
+Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a> <a href="https://orcid.org/0000-0001-8800-2657" title="ORCID: 0000-0001-8800-2657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="https://orcid.org/0000-0002-6875-754X" title="ORCID: 0000-0002-6875-754X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a> <a href="https://orcid.org/0000-0001-9157-527X" title="ORCID: 0000-0001-9157-527X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> <a href="https://orcid.org/0000-0003-3655-0859" title="ORCID: 0000-0003-3655-0859" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babenko_s_dimitry"><b>Babenko</b> Dimitry</a> <a href="https://orcid.org/0009-0002-7652-9229" title="ORCID: 0009-0002-7652-9229" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#bending`](keyword/bending)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#efficient`](keyword/efficient)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Behavior%20and%20Reinforcement%20Efficiency%20of%203D%20Printed%20Concrete%20Under%20Compression%2C%20Tension%2C%20and%20Bending" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417347571" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41024-025-00749-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41024-025-00749-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this study was to investigate the mechanical behavior of reinforced 3D printed concrete (3DPC) and to determine the effectiveness of different reinforcement types (steel cable, glass roving, steel mesh, glass mesh) under under different loading conditions. The mechanical behavior of the 3DPC was investigated using compressive, tensile, and four-point bending tests, with loading applied both along and across the printed layers. The study also encompassed the assessment of reinforcement properties, microstructural analysis of the reinforcement surface, and examination of the reinforcement-3DPC matrix bond strength. The results established that the compressive, tensile, flexural strength of reinforced 3DPC depends on the strength and deformation capacity of the reinforcement, the surface area of the reinforcement layer, and the reinforcement-3DPC matrix bond strength. It was shown that higher tensile strength in the reinforcing materials allows for a smaller reinforcement layer area to achieve a specified reinforced 3DPC strength. The effects of the reinforcement material’s strength and deformation capacity, the reinforcement layer area, and the reinforcement-3DPC matrix bond strength on the composite’s strength were identified. The effectiveness of structural reinforcement was assessed using the ratio of composite strength to its reinforcement layer area. This ratio can be used to select a rational reinforcement option for units within 3D printed structures, depending on the level and type of force impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../aram_cald_puen.2023.PMo3PCSBwRUBM/">Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
@@ -106,7 +82,37 @@ tags:
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{slav_levc_arta_kara.2026.MBaREo3PCUCTaB,
+      author            = "Galina Stanislavovna Slavcheva and Artem Levchenko and Olga Vladimirovna Artamonova and Davut Karakchi-Ogli and Dimitry S. Babenko",
+      title             = "Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending",
+      doi               = "10.1007/s41024-025-00749-8",
+      year              = "2026",
+      journal           = "Journal of Building Pathology and Rehabilitation",
+      volume            = "11",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. S. Slavcheva, A. Levchenko, O. V. Artamonova, D. Karakchi-Ogli and D. S. Babenko, “Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending”, <i>Journal of Building Pathology and Rehabilitation</i>, vol. 11, no. 1, 2026, doi: 10.1007/s41024-025-00749-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Slavcheva, Galina Stanislavovna, Artem Levchenko, Olga Vladimirovna Artamonova, Davut Karakchi-Ogli, and Dimitry S. Babenko. “Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending”. <i>Journal of Building Pathology and Rehabilitation</i> 11, no. 1 (2026). https://doi.org/10.1007/s41024-025-00749-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

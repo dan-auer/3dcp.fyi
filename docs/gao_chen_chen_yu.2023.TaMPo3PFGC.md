@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huaxing Gao, Yuxuan Chen, Qian Chen, Qingliang Yu
+    - footer
+title: Gao Huaxing, Chen Yuxuan, Chen Qian, Yu Qingliang
 description:
 tags:
  - concrete
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2023.133830) Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete:<br/>:aca-blank: The Role of SAC on the Rheology and Phase Evolution of 3DPC ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133830" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133830</a>
+#Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete&nbsp;([2023-11](date/2023/11))
+<div class="h1-like">The Role of SAC on the Rheology and Phase Evolution of 3DPC</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2023.133830) <a href="https://doi.org/10.1016/j.conbuildmat.2023.133830" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133830" target="_blank">10.1016/j.conbuildmat.2023.133830</a>
 
--------------------------
+<a href="../../../author/gao_huaxing"><b>Gao</b>&nbsp;Huaxing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1284-7933" title="ORCID: 0000-0002-1284-7933" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuxuan"><b>Chen</b>&nbsp;Yuxuan</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4103-3259" title="ORCID: 0009-0009-4103-3259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_qian"><b>Chen</b>&nbsp;Qian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_qingliang"><b>Yu</b>&nbsp;Qingliang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 409, No. 133830
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>
-,     <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a> <a href="https://orcid.org/0000-0002-1284-7933" title="ORCID: 0000-0002-1284-7933" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_qian"><b>Chen</b> Qian</a> <a href="https://orcid.org/0009-0009-4103-3259" title="ORCID: 0009-0009-4103-3259" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 409, No. 133830
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#phase`](keyword/phase)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20and%20Mechanical%20Performance%20of%203D%20Printing%20Functionally%20Graded%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175654668&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388334646" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133830" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133830?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In order to address the dual objectives of enhancing the mechanical and thermal performance of 3D printed concrete, this paper presents a 3D printing approach to design and prepare functional graded concrete for energysaving sandwich structures with both thermal insulation and load-bearing functions. The 3D printing functionally graded concrete (3DPFGC) with a sandwich structure, consists of an expanded polystyrene concrete inner layer and a 3D printed concrete outer layer. In addition to the three-dimensional compressive strength and double-shearing tests, the thermal conductivity of 3DPFGC was also measured by steady-state method and compared with the transient method and verified by theoretical formulas. The influence of sulphoaluminate cement on the printability of the load-bearing layer was also comprehensively investigated by calorimetry test, rheological test, XRD and TG analysis. The addition of SAC has a significant impact on the early fresh properties, including accelerating the setting time and optimizing the rheological properties, directly improving the printing performance. 3DPFGC exhibits significantly higher compressive strength compared with other lightweight insulating concrete with similar thermal conductivities. The outcome of this research provides valuable guidance for the application of 3DPFGC in building engineering, contributing to the development of energy-efficient and structural construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC/">Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
@@ -106,8 +83,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
@@ -129,4 +106,34 @@ tags:
       <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/jin_lang"><b>Jin</b> Lang</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gao_jin_chen_chen.2024.RBo3PC/">Rheological Behavior of 3D Printed Concrete:<br/>Influential Factors and Printability Prediction Scheme</a></li>
       <li><a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhang_longfei"><b>Zhang</b> Longfei</a>, <a href="../../../author/wei_kai"><b>Wei</b> Kai</a>, <a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../chen_zhan_wei_gao.2024.RCaSMo3PGCUNCaMO/">Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gao_chen_chen_yu.2023.TaMPo3PFGC,
+      author            = "Huaxing Gao and Yuxuan Chen and Qian Chen and Qingliang Yu",
+      title             = "Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete: The Role of SAC on the Rheology and Phase Evolution of 3DPC",
+      doi               = "10.1016/j.conbuildmat.2023.133830",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "409",
+      pages             = "133830",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Gao, Y. Chen, Q. Chen and Q. Yu, “Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete: The Role of SAC on the Rheology and Phase Evolution of 3DPC”, <i>Construction and Building Materials</i>, vol. 409, p. 133830, 2023, doi: 10.1016/j.conbuildmat.2023.133830.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gao, Huaxing, Yuxuan Chen, Qian Chen, and Qingliang Yu. “Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete: The Role of SAC on the Rheology and Phase Evolution of 3DPC”. <i>Construction and Building Materials</i> 409 (2023): 133830. https://doi.org/10.1016/j.conbuildmat.2023.133830.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

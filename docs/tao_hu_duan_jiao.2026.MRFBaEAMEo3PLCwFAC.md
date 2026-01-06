@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jie-Lin Tao, Shengming Hu, Zhenhua Duan, Dengwu Jiao
+    - footer
+title: Tao Jie-Lin, Hu Shengming, Duan Zhenhua, Jiao Dengwu
 description:
 tags:
  - age
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106411" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106411</a>
+#Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106411" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106411" target="_blank">10.1016/j.cemconcomp.2025.106411</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_jie-lin"><b>Tao</b>&nbsp;Jie-Lin</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-1141-7682" title="ORCID: 0009-0005-1141-7682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_shengming"><b>Hu</b>&nbsp;Shengming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiao_dengwu"><b>Jiao</b>&nbsp;Dengwu</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 166, No. 106411
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a> <a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a> <a href="https://orcid.org/0009-0005-1141-7682" title="ORCID: 0009-0005-1141-7682" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 166, No. 106411
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#ash`](keyword/ash)
-    [`#behavior`](keyword/behavior)
-    [`#cenosphere`](keyword/cenosphere)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#flow`](keyword/flow)
-    [`#light`](keyword/light)
-    [`#magnetism`](keyword/magnetism)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cenosphere"><button class="btn">#cenosphere</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/magnetism"><button class="btn">#magnetism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Magneto-Responsive%20Flow%20Behavior%20and%20Early-Age%20Microstructural%20Evolution%20of%203D%20Printing%20Lightweight%20Concrete%20with%20Fly%20Ash%20Cenospheres" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022917485&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416808655" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106411" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106411?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study develops a magneto-responsive lightweight concrete with fly ash cenospheres (FACs) and micron-sized Fe3O4 particles (MPs) to address the critical challenge of balancing extrudability and buildability in 3D concrete printing. By applying controlled magnetic fields synchronized with printing stages, the rheological properties are dynamically adjusted through magnetic particles reorganization. The integrated methodology combines time-dependent rheological tests (including flowability at 0–30 min, shape retention at 20–23 min, and penetration resistance at 30–60 min) with microscale characterization (i.e., XRD, SEM-EDS, and X-CT) and interparticle magnetic force calculation. The results demonstrate that horizontal magnetic field-driven particle rearrangement occurs without chemical phase changes, with the optimal performance at water-to-binder (w/b) ratio of 0.37 where concrete viscosity enables stable magnetic network formation. SEM-EDS and X-CT analyses confirm the alignment of magnetic particles parallel to horizontal magnetic field, correlating with directional strength influence. Additionally, SEM-EDS further reveals preferential MPs accumulation at FACs interfaces after applying long-term horizontal magnetic field for 24 h. Furthermore, this study establishes a fundamental framework for magnetically controllable lightweight concrete, enabling real-time rheology adjustment during 3D printing to achieve adaptive and mechanically robust structures through magnetic-directed microstructural technology. This method can extend the printable time window by leveraging the increasing flowability enhancement effect of MP and resolve the extrudability-buildability conflict by providing high flowability without magnetic field and structural stability under a horizontal magnetic field (achieving an 85.1 % deformation reduction during stacking).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/liang_xuhui"><b>Liang</b> Xuhui</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../chen_zhan_he_lian.2023.ISBUoLCCCPbUIA/">Improving Structural Build-Up of Limestone-Calcined-Clay-Cement-Pastes by Using Inorganic Additives</a></li>
@@ -90,7 +64,37 @@ tags:
       <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC/">The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC,
+      author            = "Jie-Lin Tao and Shengming Hu and Zhenhua Duan and Dengwu Jiao",
+      title             = "Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres",
+      doi               = "10.1016/j.cemconcomp.2025.106411",
+      year              = "2026",
+      journal           = "Cement and Concrete Composites",
+      volume            = "166",
+      pages             = "106411",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-L. Tao, S. Hu, Z. Duan and D. Jiao, “Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres”, <i>Cement and Concrete Composites</i>, vol. 166, p. 106411, 2026, doi: 10.1016/j.cemconcomp.2025.106411.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Jie-Lin, Shengming Hu, Zhenhua Duan, and Dengwu Jiao. “Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres”. <i>Cement and Concrete Composites</i> 166 (2026): 106411. https://doi.org/10.1016/j.cemconcomp.2025.106411.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

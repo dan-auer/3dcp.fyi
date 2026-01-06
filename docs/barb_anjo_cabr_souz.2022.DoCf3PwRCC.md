@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcella Barbosa, Marcos Anjos, Kleber Cabral, Leonardo Souza Dias
+    - footer
+title: Barbosa Marcella, Anjos Marcos, Cabral Kleber, Souza Dias Leonardo
 description:
 tags:
  - cement
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Composites for 3D Printing with Reduced Cement Consumption ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127775" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127775</a>
+#Development of Composites for 3D Printing with Reduced Cement Consumption ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127775" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127775" target="_blank">10.1016/j.conbuildmat.2022.127775</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2750-0756" title="ORCID: 0000-0002-2750-0756" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b>&nbsp;Marcella</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos&nbsp;Anjos</b>&nbsp;Marcos</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b>&nbsp;Kleber</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5925-2171" title="ORCID: 0000-0001-5925-2171" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza-dias_leonardo"><b>de&nbsp;Souza Dias</b>&nbsp;Leonardo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 341
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a> <a href="https://orcid.org/0000-0002-2750-0756" title="ORCID: 0000-0002-2750-0756" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos Anjos</b> Marcos</a> <a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a> <a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/souza-dias_leonardo"><b>de Souza Dias</b> Leonardo</a> <a href="https://orcid.org/0000-0001-5925-2171" title="ORCID: 0000-0001-5925-2171" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 341, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#consumption`](keyword/consumption)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#reduction`](keyword/reduction)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/consumption"><button class="btn">#consumption</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Composites%20for%203D%20Printing%20with%20Reduced%20Cement%20Consumption" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129710503&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4229439325" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127775" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127775?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, 3D concrete printing (3DCP) based on additive manufacturing techniques has been gaining prominence in the construction industry. However, in order to meet the extrusion requirements, 3DCP mixtures are usually dosed with high Portland cement contents. Thus, a promising solution to make this technology more sustainable is the reduction of cement consumption through partial replacement by supplementary cementitious materials (SCM). In view of this, this paper aims to develop composites for 3D printing containing different percentages of limestone filler and metakaolin as binder fraction of the analysis compositions. The proposed mixtures encompass replacement contents of 30% (using only limestone filler) and 40% (one with 40% limestone filler and, another, containing 30% filler and 10% metakaolin). In the fresh state, these mixtures were evaluated through the tests of spread, slump, bulk density, incorporated air content, squeeze-flow and buildability. In the hardened state, flexural strength, compressive strength, interlayer adhesion strength, specific gravity, void index and water absorption by immersion were analyzed. The results show the possibility of obtaining printable composites with reduced cement consumption for the printing system used, establishing itself as a relevant alternative for 3DCP technology in accordance with the criteria required for the printing system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -96,8 +76,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard"><b>Yang</b> Richard</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rahm_an_rawa_yang.2025.DoG3PCCUMROM/">Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method</a></li>
       <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
@@ -121,4 +101,33 @@ tags:
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dey_srin_bodd_pand.2022.3PoTPCMCFAaL/">3D Printability of Ternary-Portland-Cement Mixes Containing Fly-Ash and Limestone</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{barb_anjo_cabr_souz.2022.DoCf3PwRCC,
+      author            = "Marcella Sena Barbosa and Marcos Alyssandro Soares dos Anjos and Kleber Cavalcanti Cabral and Leonardo de Souza Dias",
+      title             = "Development of Composites for 3D Printing with Reduced Cement Consumption",
+      doi               = "10.1016/j.conbuildmat.2022.127775",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "341",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. S. Barbosa, M. A. S. dos Anjos, K. C. Cabral and L. de Souza Dias, “Development of Composites for 3D Printing with Reduced Cement Consumption”, <i>Construction and Building Materials</i>, vol. 341, 2022, doi: 10.1016/j.conbuildmat.2022.127775.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Barbosa, Marcella Sena, Marcos Alyssandro Soares dos Anjos, Kleber Cavalcanti Cabral, and Leonardo de Souza Dias. “Development of Composites for 3D Printing with Reduced Cement Consumption”. <i>Construction and Building Materials</i> 341 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127775.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

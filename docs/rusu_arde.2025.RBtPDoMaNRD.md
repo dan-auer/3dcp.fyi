@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mihai Rusu, Ioan Ardelean
+    - footer
+title: Rusu Mihai, Ardelean Ioan
 description:
 tags:
  - data
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/18/13/3070/pdf?version=1751296363) Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data ([2025-06](date/2025/06))
-<a href="https://doi.org/10.3390/ma18133070" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18133070</a>
+#Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/13/3070/pdf?version=1751296363) <a href="https://doi.org/10.3390/ma18133070" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18133070" target="_blank">10.3390/ma18133070</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6760-7320" title="ORCID: 0000-0002-6760-7320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rusu_m_mihai"><b>Rusu</b>&nbsp;Mihai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8082-6600" title="ORCID: 0000-0001-8082-6600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ardelean_ioan"><b>Ardelean</b>&nbsp;Ioan</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 13
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rusu_m_mihai"><b>Rusu</b> Mihai</a> <a href="https://orcid.org/0000-0002-6760-7320" title="ORCID: 0000-0002-6760-7320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ardelean_ioan"><b>Ardelean</b> Ioan</a> <a href="https://orcid.org/0000-0001-8082-6600" title="ORCID: 0000-0001-8082-6600" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 13, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#data`](keyword/data)
-    [`#description`](keyword/description)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#relation`](keyword/relation)
-
-
--------------------------
+<a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/description"><button class="btn">#description</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Relations%20Between%20the%20Printability%20Descriptors%20of%20Mortar%20and%20NMR%20Relaxometry%20Data" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010336025&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411803137" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18133070" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18133070?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete printing technologies play a key role in the modernization of construction practices. One factor that mitigates their progress is the development of standards and characterization tools for concrete during printing. The aim of this work is to point out correlations between some printability descriptors of mortars and the data obtained from low-field nuclear magnetic resonance (NMR) relaxometry techniques. In this context, the superposed effects of an acrylic-based superplasticizer and calcium nitrate accelerator were investigated. The mortars under study are based on white Portland cement, fine aggregates, and silica fume at fixed ratios. Extrusion tests and visual inspection of the filaments evaluate the extrudability and the printing window. The selected compositions were also investigated via transverse T2 and longitudinal T1 NMR relaxation times. The results indicate that both additives increase the printing window of the mortar, while the accelerator induces a faster increase in specific surface area of capillary pores S/V only after 30-60 min of hydration. Some correlations were found between the printing window and the range where the transverse relaxation rates 1/T2 and the pore surface-to-volume ratios S/V increase linearly. This suggests some promising connections between NMR techniques and the study of structural buildup of cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../fasi_libr.2024.FPtD/">From Pumping to Deposition:<br/>A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
@@ -72,7 +55,37 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../yuan_zhou_huan_peng.2020.SBUHaSDoCBMwA/">Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rusu_arde.2025.RBtPDoMaNRD,
+      author            = "Mihai M. Rusu and Ioan Ardelean",
+      title             = "Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data",
+      doi               = "10.3390/ma18133070",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "13",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. M. Rusu  and I. Ardelean, “Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data”, <i>Materials</i>, vol. 18, no. 13, 2025, doi: 10.3390/ma18133070.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rusu, Mihai M., and Ioan Ardelean. “Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data”. <i>Materials</i> 18, no. 13 (2025). https://doi.org/10.3390/ma18133070.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

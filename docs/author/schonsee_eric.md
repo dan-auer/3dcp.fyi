@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Schönsee Eric 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM/">Investigating the Impact of Material Rheology on Geometric Accuracy in 3D Concrete Printing Using Real-Time Monitoring</a></li>
   <li><a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a>, <a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../scho_husk_koch_stra.2025.AFfCtRIoa3CM/">A Framework for Characterising the Reflection Intensity of a 3D-CP Mortar</a></li>
   <li><a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a>, <a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../husk_jeyi_scho_stra.2024.AAotRo3PCS/">An Assessment of the Repeatability of 3D Printed Concrete Structures</a></li>

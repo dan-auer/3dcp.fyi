@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehdi Farahbakhsh, Zofia Rybkowski, Umme Zakira, Negar Kalantar, Ibrahim Onifade
+    - footer
+title: Farahbakhsh Mehdi, Rybkowski Zofia, Zakira Umme, Kalantar Negar, Onifade Ibrahim
 description:
 tags:
  - bond
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.autcon.2022.104478" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104478</a>
+#Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104478" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104478" target="_blank">10.1016/j.autcon.2022.104478</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7901-9705" title="ORCID: 0000-0001-7901-9705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b>&nbsp;Mehdi</a></span>, <a href="../../../author/rybkowski_k_zofia"><b>Rybkowski</b>&nbsp;Zofia</a></span>, <a href="../../../author/zakira_umme"><b>Zakira</b>&nbsp;Umme</a></span>, <a href="../../../author/kalantar_negar"><b>Kalantar</b>&nbsp;Negar</a></span>, <a href="../../../author/onifade_ibrahim"><b>Onifade</b>&nbsp;Ibrahim</a></span><br>
+Journal Article - Automation in Construction, Vol. 142
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a> <a href="https://orcid.org/0000-0001-7901-9705" title="ORCID: 0000-0001-7901-9705" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rybkowski_k_zofia"><b>Rybkowski</b> Zofia</a>
-,     <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>
-,     <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>
-,     <a href="../../../author/onifade_ibrahim"><b>Onifade</b> Ibrahim</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 142, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#robot`](keyword/robot)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Robotic%203D%20Printing%20Process%20Parameters%20on%20Inter-Layer%20Bond%20Strength" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134429092&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,18 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285585380" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104478" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104478?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the target areas of concern with large-scale 3D printing (Additive Manufacturing (AM)) processes is the need to enhance the bond strength between adjacent printed layers. In this paper, the impact of three process parameters on interlayer bond strength in paste was investigated. Utilizing an alternative clay-based material in large-scale AM was considered in this research due to concerns about global carbon emissions associated with the concrete industry. This paper proposes an approach by manipulating process parameters that alter the geometry of the layers on the meso-scale to emulate densification and to enhance friction between consecutive layers by either periodically increasing print area or enhancing compaction during the print process. The standard flexural test was performed to obtain the flexural strength of 95 printed specimens. Results showed that periodically manipulating the standoff distance of the nozzle appears to function akin to compaction in conventional concrete casting methods and improves the interlayer bond strength under shear by 41% on average.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/bajpayee_aayushi"><b>Bajpayee</b> Aayushi</a>, <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/pandey_aditi"><b>Pandey</b> Aditi</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bajp_fara_zaki_pand.2020.ISRUaRoSiCMftAMoB/">In-Situ Resource Utilization and Reconfiguration of Soils into Construction Materials for the Additive Manufacturing of Buildings</a></li>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
@@ -93,8 +69,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
@@ -117,4 +93,33 @@ tags:
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/lin_qian"><b>Lin</b> Qian</a>, <a href="../../../author/xu_wei"><b>Xu</b> Wei</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../luo_lin_xu_wang.2023.EoITaIAotMCoUHTCCU3PT/">Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology</a></li>
       <li><a href="../../../author/li_zihan"><b>Li</b> Zihan</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/cheng_xiang"><b>Cheng</b> Xiang</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_liu_chen_nie.2022.Io3PCBMP/">Improvement of 3D Printing Cement-Based Material-Process:<br/>Parameter Experiment and Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fara_rybk_zaki_kala.2022.IoR3PPPoILBS,
+      author            = "Mehdi Farahbakhsh and Zofia K. Rybkowski and Umme Zakira and Negar Kalantar and Ibrahim Onifade",
+      title             = "Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength",
+      doi               = "10.1016/j.autcon.2022.104478",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "142",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Farahbakhsh, Z. K. Rybkowski, U. Zakira, N. Kalantar and I. Onifade, “Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength”, <i>Automation in Construction</i>, vol. 142, 2022, doi: 10.1016/j.autcon.2022.104478.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Farahbakhsh, Mehdi, Zofia K. Rybkowski, Umme Zakira, Negar Kalantar, and Ibrahim Onifade. “Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength”. <i>Automation in Construction</i> 142 (2022). https://doi.org/10.1016/j.autcon.2022.104478.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

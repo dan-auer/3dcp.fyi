@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seongho Han, Eunjong Ahn, Myoungsu Shin, John Popovics, Kamal Khayat
+    - footer
+title: Han Seongho, Ahn Eunjong, Shin Myoungsu, Popovics John, Khayat Kamal
 description:
 tags:
  - assessment
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106439" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106439</a>
+#Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cemconcomp.2025.106439" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106439" target="_blank">10.1016/j.cemconcomp.2025.106439</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7355-7737" title="ORCID: 0000-0002-7355-7737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_seongho"><b>Han</b>&nbsp;Seongho</a></span>, <a href="../../../author/ahn_eunjong"><b>Ahn</b>&nbsp;Eunjong</a></span>, <a href="../../../author/shin_myoungsu"><b>Shin</b>&nbsp;Myoungsu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3363-140X" title="ORCID: 0000-0003-3363-140X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/popovics_s_john"><b>Popovics</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106439
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/han_seongho"><b>Han</b> Seongho</a> <a href="https://orcid.org/0000-0002-7355-7737" title="ORCID: 0000-0002-7355-7737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>
-,     <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>
-,     <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> <a href="https://orcid.org/0000-0003-3363-140X" title="ORCID: 0000-0003-3363-140X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106439
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#defect`](keyword/defect)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#surface`](keyword/surface)
-    [`#test`](keyword/test)
-    [`#ultrasonic`](keyword/ultrasonic)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/ultrasonic"><button class="btn">#ultrasonic</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Methodology%20for%20Surface%20Defect%20Assessment%20in%203D%20Concrete%20Printing%20Using%20Computer-Vision%20and%20Ultrasonic%20Testing%20Considering%20Structural%20Build-Up" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106439" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106439?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study quantifies how interlayer time gaps and mixture rheology jointly influence interfacial integrity and mechanical performance in 3D concrete printing (3DCP). Two mixtures incorporating identical binders, but differing limestone fineness (4 and 50 μm) were printed with interlayer delays of 0, 2, and 5 minutes, corresponding to stacking rates of approximately 9, 0.5, and 0.2 m/h. The finer limestone mixture exhibited higher plastic viscosity (13.2 vs. 11.5 Pa·s) and faster structural buildup (58 vs. 38 Pa/min), resulting in accelerated early stiffening. Deposition yield stress derived from buildup measurements remained low for 0–2 minutes (1,400–1,500 Pa for the higher-thixotropy mixture; 1,100–1,500 Pa for the lower one) but increased markedly at 5 minutes to 4,100 and 2,900 Pa, respectively. Six single-wall prints were evaluated via surface defect imaging, layer-resolved ultrasonic S-wave velocity mapping, and 28-day compressive testing of specimens extracted from lower (layers 1–5) and upper (6–10) regions. Defect density rose with both delay and height, reaching 14.5 % in the upper layers of the higher-thixotropy mixture at 5 minutes, while the 0-minute condition remained ≤ 2%. S-wave velocity declined from 2,100–2,150 (0 minute) to 1,800–1,870 m/s (5 minutes), accompanied by a strength reduction from 50 to 25–30 MPa. The findings define a practical deposition window, yield stress of 1,100–1,500 Pa, that minimizes interlayer defects under realistic delays, and demonstrate that layer-wise S-wave monitoring sensitively captures vertical stiffness gradients, providing a viable process-control metric for large-scale additive construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ahn_han_shin_khay.2025.NMtE3PCQUUSET/">Novel Method to Evaluate 3D Printed Concrete Quality Using Ultrasonic Scatter-Energy-Techniques</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/biricik_oznur"><b>Biricik</b> Öznur</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../biri_mard.2022.PATBoSCCa3PC/">Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete:<br/>A State of the Art Review</a></li>
@@ -110,7 +83,36 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU,
+      author            = "Seongho Han and Eunjong Ahn and Myoungsu Shin and John S. Popovics and Kamal H. Khayat",
+      title             = "Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up",
+      doi               = "10.1016/j.cemconcomp.2025.106439",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106439",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Han, E. Ahn, M. Shin, J. S. Popovics and K. H. Khayat, “Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up”, <i>Cement and Concrete Composites</i>, p. 106439, 2025, doi: 10.1016/j.cemconcomp.2025.106439.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Han, Seongho, Eunjong Ahn, Myoungsu Shin, John S. Popovics, and Kamal H. Khayat. “Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up”. <i>Cement and Concrete Composites</i>, 2025, 106439. https://doi.org/10.1016/j.cemconcomp.2025.106439.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

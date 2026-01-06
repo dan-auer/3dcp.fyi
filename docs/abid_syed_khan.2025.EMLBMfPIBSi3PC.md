@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Khasim Abid, Sajid Syed, Majid Khan
+    - footer
+title: Abid Khasim, Syed Sajid, Khan Majid
 description:
 tags:
  - base
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1007/s41939-025-00997-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41939-025-00997-8</a>
+#Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41939-025-00997-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41939-025-00997-8" target="_blank">10.1007/s41939-025-00997-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-1954-0717" title="ORCID: 0009-0004-1954-0717" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abid_ali_khasim"><b>Abid</b>&nbsp;Khasim</a></span>, <a href="../../../author/syed_ahmed_sajid"><b>Syed</b>&nbsp;Sajid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6629-4257" title="ORCID: 0000-0001-6629-4257" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_majid"><b>Khan</b>&nbsp;Majid</a></span><br>
+Journal Article - Multiscale and Multidisciplinary Modeling, Experiments and Design, Vol. 8, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a> <a href="https://orcid.org/0009-0004-1954-0717" title="ORCID: 0009-0004-1954-0717" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>
-,     <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="https://orcid.org/0000-0001-6629-4257" title="ORCID: 0000-0001-6629-4257" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Multiscale and Multidisciplinary Modeling, Experiments and Design, Vol. 8, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#explainability`](keyword/explainability)
-    [`#interlayer`](keyword/interlayer)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Explainable%20Machine%20Learning-Based%20Model%20for%20Predicting%20Interlayer%20Bond%20Strength%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013300323&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7078338746" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41939-025-00997-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41939-025-00997-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Achieving strong and durable 3D printed concrete (3DPC) structures relies heavily on ensuring a strong interlayer bond strength. Therefore, accurately estimating the interlayer bond strength is essential for ensuring the structural integrity and overall performance of 3DPC systems. Therefore, this study presents an innovative approach to predict the interlayer bond strength in 3DPC using four machine learning (ML) methods: decision tree (DT), random forest (RF), extreme gradient boosting (XGBoost), and categorical boosting (CatBoost). A dataset of 146 data points with sixteen input features was used. The models were hyperparameter-tuned using a grid search combined with five fold cross-validation. Several statistical metrics were used to evaluate performance, including the coefficient of determination (R2), mean absolute error (MAE), and root mean square error (RMSE). The XGBoost model achieved an R2 value of 0.999 on the training set and 0.998 on the testing set, indicating highly accurate predictions with minimal error across both subsets. CatBoost and DT models also demonstrate strong predictive performance, with training R2 values of 0.952 and 0.949, and testing R2 values of 0.922 and 0.923, respectively. The RF model, while still performing well, exhibits a slightly lower testing R2 of 0.892. For enhanced model interpretability, SHapley Additive exPlanations (SHAP), individual conditional expectation (ICE), and partial dependence plot (PDP) were utilized. Using SHAP, it was determined that the top five factors among the sixteen input variables significantly affecting the IBS of 3DPC are printing speed, superplasticizer-to-binder ratio, water-to-binder ratio, thixotropic agent, and time interval. In practical applications, adjustments to these key factors can be guided by the model’s predictions, supporting the development of high-quality 3D printed concrete structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -99,8 +75,38 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../syed_abid_khan.2025.AIMLAfPRBPi3CP/">An Interpretable Machine Learning Approach for Predicting Reinforcement Bond Performance in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abid_syed_khan.2025.EMLBMfPIBSi3PC,
+      author            = "Khasim Ali Abid and Sajid Ahmed Syed and Majid Khan",
+      title             = "Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete",
+      doi               = "10.1007/s41939-025-00997-8",
+      year              = "2025",
+      journal           = "Multiscale and Multidisciplinary Modeling, Experiments and Design",
+      volume            = "8",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. A. Abid, S. A. Syed and M. Khan, “Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete”, <i>Multiscale and Multidisciplinary Modeling, Experiments and Design</i>, vol. 8, no. 9, 2025, doi: 10.1007/s41939-025-00997-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abid, Khasim Ali, Sajid Ahmed Syed, and Majid Khan. “Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete”. <i>Multiscale and Multidisciplinary Modeling, Experiments and Design</i> 8, no. 9 (2025). https://doi.org/10.1007/s41939-025-00997-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gabriela Felfili Guimarães, Marcos Oliveira, Juliana Almeida Martinelli
+    - footer
+title: Felfili Guimarães Gabriela, Oliveira Marcos, Almeida Martinelli Juliana
 description:
 tags:
  - analysis
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.researchsquare.com/article/rs-2818894/latest.pdf) Performance-Evaluation of the 3D Printing System Through Fault-Tree-Analysis-Method ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1007/s41024-023-00295-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41024-023-00295-1</a>
+#Performance-Evaluation of the 3D Printing System Through Fault-Tree-Analysis-Method ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.researchsquare.com/article/rs-2818894/latest.pdf) <a href="https://doi.org/10.1007/s41024-023-00295-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-023-00295-1" target="_blank">10.1007/s41024-023-00295-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-5001-0471" title="ORCID: 0009-0005-5001-0471" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/felfili-guimaraes_gabriela"><b>Felfili Guimarães</b>&nbsp;Gabriela</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1251-7923" title="ORCID: 0000-0003-1251-7923" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_honorato_marcos"><b>de&nbsp;Oliveira</b>&nbsp;Marcos</a></span>, <a href="../../../author/almeida-martinelli_juliana"><b>de&nbsp;Almeida Martinelli</b>&nbsp;Juliana</a></span><br>
+Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 8, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/felfili-guimaraes_gabriela"><b>Felfili Guimarães</b> Gabriela</a> <a href="https://orcid.org/0009-0005-5001-0471" title="ORCID: 0009-0005-5001-0471" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oliveira_honorato_marcos"><b>de Oliveira</b> Marcos</a> <a href="https://orcid.org/0000-0003-1251-7923" title="ORCID: 0000-0003-1251-7923" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/almeida-martinelli_juliana"><b>de Almeida Martinelli</b> Juliana</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 8, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#evaluation`](keyword/evaluation)
-    [`#fault`](keyword/fault)
-    [`#method`](keyword/method)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fault"><button class="btn">#fault</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance-Evaluation%20of%20the%203D%20Printing%20System%20Through%20Fault-Tree-Analysis-Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85161051524&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4379514512" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41024-023-00295-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41024-023-00295-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focuses on the performance analysis of the 3D printing process using cementitious material on equipment installed at the Structures Laboratory (LabEst-UnB) of the University of Brasilia. A research direction was defined for the 3D printing with the aim of identifying which steps need to be further developed and which improvements should be made for this specific process to evolve. Following the execution of the proposed experimental program, evaluations of cementitious material pieces printed with the InovaHouse3D’s Alya 130 printer were conducted, documenting the encountered issues and classifying them into failure groups. The causes, consequences, and affected components were defined and used in the application of the Fault Tree Analysis (FTA) method in the search for critical system events. It was observed that the most critical system failures were related to the material composition and printing parameters, focusing on events that trigger variations in the material's consistency. Thus, through this work, it was possible to identify improvement opportunities and suggest scientific research topics to enhance the 3D printing process according to the established priority levels.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../joh_lee_bui_park.2020.BaMPo3PC/">Buildability and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -78,7 +58,37 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{felf_oliv_alme.2023.PEot3PSTFTAM,
+      author            = "Gabriela Felfili Guimarães and Marcos Honorato de Oliveira and Juliana de Almeida Martinelli",
+      title             = "Performance-Evaluation of the 3D Printing System Through Fault-Tree-Analysis-Method",
+      doi               = "10.1007/s41024-023-00295-1",
+      year              = "2023",
+      journal           = "Journal of Building Pathology and Rehabilitation",
+      volume            = "8",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. F. Guimarães, M. H. de Oliveira and J. de Almeida Martinelli, “Performance-Evaluation of the 3D Printing System Through Fault-Tree-Analysis-Method”, <i>Journal of Building Pathology and Rehabilitation</i>, vol. 8, no. 2, 2023, doi: 10.1007/s41024-023-00295-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Guimarães, Gabriela Felfili, Marcos Honorato de Oliveira, and Juliana de Almeida Martinelli. “Performance-Evaluation of the 3D Printing System Through Fault-Tree-Analysis-Method”. <i>Journal of Building Pathology and Rehabilitation</i> 8, no. 2 (2023). https://doi.org/10.1007/s41024-023-00295-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

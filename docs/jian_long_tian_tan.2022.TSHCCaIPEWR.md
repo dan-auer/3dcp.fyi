@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fangming Jiang, Xiong Long, Likang Tian, Yan Tan, Jiangtao Yu
+    - footer
+title: Jiang Fangming, Long Xiong, Tian Likang, Tan Yan, Yu Jiangtao
 description:
 tags:
  - cement
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fmats.2022.1066796/pdf) Tensile Strain-Hardening Cementitious Composites and Its Practical Exploration Without Reinforcement:<br/>:aca-blank: A Review ([2022-12](date/2022/12))
-<a href="https://doi.org/10.3389/fmats.2022.1066796" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fmats.2022.1066796</a>
+#Tensile Strain-Hardening Cementitious Composites and Its Practical Exploration Without Reinforcement&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fmats.2022.1066796/pdf) <a href="https://doi.org/10.3389/fmats.2022.1066796" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2022.1066796" target="_blank">10.3389/fmats.2022.1066796</a>
 
--------------------------
+<a href="../../../author/jiang_fangming"><b>Jiang</b>&nbsp;Fangming</a></span>, <a href="../../../author/long_xiong"><b>Long</b>&nbsp;Xiong</a></span>, <a href="../../../author/tian_likang"><b>Tian</b>&nbsp;Likang</a></span>, <a href="../../../author/tan_yan"><b>Tan</b>&nbsp;Yan</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span><br>
+Journal Article - Frontiers in Materials, Vol. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>
-,     <a href="../../../author/long_xiong"><b>Long</b> Xiong</a>
-,     <a href="../../../author/tian_likang"><b>Tian</b> Likang</a>
-,     <a href="../../../author/tan_yan"><b>Tan</b> Yan</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Materials, Vol. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#exploration`](keyword/exploration)
-    [`#hardened`](keyword/hardened)
-    [`#practice`](keyword/practice)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-    [`#strain`](keyword/strain)
-    [`#tension`](keyword/tension)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tensile%20Strain-Hardening%20Cementitious%20Composites%20and%20Its%20Practical%20Exploration%20Without%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145349816&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311873547" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fmats.2022.1066796" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fmats.2022.1066796?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Steel is widely used as reinforcement for brittle structural materials such as concrete structure and unreinforced masonry structure (URM). However, the job wasted in steel reinforcement installation and the following corrosion hinder the development of construction industry. The emergence of strainhardening cement composites (SHCC) provides an opportunity for steel-free construction. This paper provides a comprehensive review of the properties of SHCC and the corresponding practical exploration without reinforcement. The authors herein begin with a discussion on the superior properties of SHCC and its structural applications on the RC structure. Following this, the application of SHCC to retrofit URM is reviewed. Finally, we presents the advances of SHCC used in 3D concrete printing (3DCP) technology, and discuss the feasibility of SHCC structures without reinforcements in the future. When these explorations are coupled with appropriate theoretical models, true values for autoconstruction without steel reinforcement will emerge.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -90,9 +66,38 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ding_liu_ou_nish.2024.3PHFRECC/">3D Printing Hybrid-Fiber-Reinforced Engineered Cementitious Composites:<br/>Feasibility in Long-Open-Time Applications</a></li>
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_long_tian_tan.2022.TSHCCaIPEWR,
+      author            = "Fangming Jiang and Xiong Long and Likang Tian and Yan Tan and Jiangtao Yu",
+      title             = "Tensile Strain-Hardening Cementitious Composites and Its Practical Exploration Without Reinforcement: A Review",
+      doi               = "10.3389/fmats.2022.1066796",
+      year              = "2022",
+      journal           = "Frontiers in Materials",
+      volume            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Jiang, X. Long, L. Tian, Y. Tan and J. Yu, “Tensile Strain-Hardening Cementitious Composites and Its Practical Exploration Without Reinforcement: A Review”, <i>Frontiers in Materials</i>, vol. 9, 2022, doi: 10.3389/fmats.2022.1066796.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Fangming, Xiong Long, Likang Tian, Yan Tan, and Jiangtao Yu. “Tensile Strain-Hardening Cementitious Composites and Its Practical Exploration Without Reinforcement: A Review”. <i>Frontiers in Materials</i> 9 (2022). https://doi.org/10.3389/fmats.2022.1066796.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

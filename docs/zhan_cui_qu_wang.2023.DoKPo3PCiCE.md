@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xinyue Zhang, Weijiu Cui, Chengping Qu, Sheng Wang, Qi Yu
+    - footer
+title: Zhang Xinyue, Cui Weijiu, Qu Chengping, Wang Sheng, Yu Qi
 description:
 tags:
  - coast
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Discussion on Key Problems of 3D Printing Concrete in Coastal Environment ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1007/978-981-19-5217-3_67" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-19-5217-3_67</a>
+#Discussion on Key Problems of 3D Printing Concrete in Coastal Environment ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-19-5217-3_67" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-5217-3_67" target="_blank">10.1007/978-981-19-5217-3_67</a>
 
--------------------------
+<a href="../../../author/zhang_xinyue"><b>Zhang</b>&nbsp;Xinyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9508-3915" title="ORCID: 0000-0002-9508-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qu_chengping"><b>Qu</b>&nbsp;Chengping</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6363-9413" title="ORCID: 0000-0002-6363-9413" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_sheng"><b>Wang</b>&nbsp;Sheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3936-7910" title="ORCID: 0000-0003-3936-7910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_qi"><b>Yu</b>&nbsp;Qi</a></span><br>
+Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 679-688
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_xinyue"><b>Zhang</b> Xinyue</a>
-,     <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qu_chengping"><b>Qu</b> Chengping</a> <a href="https://orcid.org/0000-0002-9508-3915" title="ORCID: 0000-0002-9508-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_sheng"><b>Wang</b> Sheng</a> <a href="https://orcid.org/0000-0002-6363-9413" title="ORCID: 0000-0002-6363-9413" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_qi"><b>Yu</b> Qi</a> <a href="https://orcid.org/0000-0003-3936-7910" title="ORCID: 0000-0003-3936-7910" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 679-688
-
-:aca-blank:{ .lg .middle}
-    [`#coast`](keyword/coast)
-    [`#concrete`](keyword/concrete)
-    [`#environment`](keyword/environment)
-    [`#print`](keyword/print)
-    [`#problem`](keyword/problem)
-
-
--------------------------
+<a href="../../keyword/coast"><button class="btn">#coast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/problem"><button class="btn">#problem</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Discussion%20on%20Key%20Problems%20of%203D%20Printing%20Concrete%20in%20Coastal%20Environment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138825668&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4294883668" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-19-5217-3_67" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-19-5217-3_67?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) has the advantages of flexible design, high construction efficiency and less consumables, which meets the requirements of construction industrialization. The current research, forming the preliminary results of 3DPC, mainly focuses on the mix design, performance evaluation method and printing control technology. However, there are few studies considering the service environment condition. At the same time, the cement material consumption of 3DPC is too high currently, which is inconsistent with the dual-carbon target. Therefore, this study investigates and analysis the research literature of 3DPC at home and abroad, and summarizes its research progress, technical characteristics and problems, analyze the current problems of 3DPC, then a research framework and technical route is proposed for the green and low-carbon development of 3DPC in the coastal environment, and the key problems of them are point out, which is expected to provide exploration and reference for the expansion of 3DPC applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP/">Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
@@ -75,7 +55,38 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zhan_cui_qu_wang.2023.DoKPo3PCiCE,
+      author            = "Xinyue Zhang and Weijiu Cui and Chengping Qu and Sheng Wang and Qi Yu",
+      title             = "Discussion on Key Problems of 3D Printing Concrete in Coastal Environment",
+      doi               = "10.1007/978-981-19-5217-3_67",
+      year              = "2023",
+      volume            = "211",
+      pages             = "679--688",
+      booktitle         = "Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City",
+      editor            = "Wei Guo and Kai Qian",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Zhang, W. Cui, C. Qu, S. Wang and Q. Yu, “Discussion on Key Problems of 3D Printing Concrete in Coastal Environment”, in <i>Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City</i>,  2023, vol. 211, pp. 679–688. doi: 10.1007/978-981-19-5217-3_67.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Xinyue, Weijiu Cui, Chengping Qu, Sheng Wang, and Qi Yu. “Discussion on Key Problems of 3D Printing Concrete in Coastal Environment”. In <i>Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City</i>, edited by Wei Guo and Kai Qian, 211:679–88, 2023. https://doi.org/10.1007/978-981-19-5217-3_67.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

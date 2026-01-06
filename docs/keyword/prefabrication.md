@@ -8,7 +8,7 @@ search:
 
 # #prefabrication
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/serra_valentina"><b>Serra</b> Valentina</a>, <a href="../../../author/callegari_guido"><b>Callegari</b> Guido</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../varg_card_serr_call.2026.DFfP3BCwCI/">DfAM Framework for Prefabricated 3DP Building Components with Cellular Infills</a></li>
   <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/fantucci_stefano"><b>Fantucci</b> Stefano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../card_varg_fant.2026.TOaMEfItTPo3PPWC/">Topological Optimization and Material Exploration for Improving the Thermal Performance of 3D Printed Prefabricated Wall Components</a></li>
   <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>

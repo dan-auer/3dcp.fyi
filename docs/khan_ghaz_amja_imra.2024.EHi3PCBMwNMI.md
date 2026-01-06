@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shayan Khan, Syed Ghazi, Hassan Amjad, Muhammad Imram, Rao Khushnood
+    - footer
+title: Khan Shayan, Ghazi Syed, Amjad Hassan, Imram Muhammad, Khushnood Rao
 description:
 tags:
  - base
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>:aca-blank: A Review ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.134815" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.134815</a>
+#Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration&nbsp;([2023-12](date/2023/12))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134815" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134815" target="_blank">10.1016/j.conbuildmat.2023.134815</a>
 
--------------------------
+<a href="../../../author/khan_ali_shayan"><b>Khan</b>&nbsp;Shayan</a></span>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2271-9051" title="ORCID: 0000-0003-2271-9051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amjad_hassan"><b>Amjad</b>&nbsp;Hassan</a></span>, <a href="../../../author/imram_muhammad"><b>Imram</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9532-4096" title="ORCID: 0000-0002-9532-4096" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khushnood_arsalan_rao"><b>Khushnood</b>&nbsp;Rao</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 411, No. 134815
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>
-,     <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>
-,     <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a> <a href="https://orcid.org/0000-0003-2271-9051" title="ORCID: 0000-0003-2271-9051" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a>
-,     <a href="../../../author/khushnood_arsalan_rao"><b>Khushnood</b> Rao</a> <a href="https://orcid.org/0000-0002-9532-4096" title="ORCID: 0000-0002-9532-4096" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 411, No. 134815
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#emergent`](keyword/emergent)
-    [`#horizontal`](keyword/horizontal)
-    [`#integration`](keyword/integration)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/horizontal"><button class="btn">#horizontal</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Emerging%20Horizons%20in%203D%20Printed%20Cement-Based%20Materials%20with%20Nano-Material-Integration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181733880&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390455792" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.134815" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.134815?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious materials is an innovative and smart construction method known for its ability to optimize construction time, cost, design flexibility, waste reduction, precision, and safety. However, the 3D printing of cement-based materials (CBMs) necessitates a careful equilibrium between pumpability, buildability, and rheology of the mixes, which is best achieved by incorporating engineered nanomaterials in the mixture. Therefore, this review article delves into the effect of nanomaterials on both the fresh and hardened properties of 3D printable CBMs, along with their maximum and optimum dosage in mixtures so far. Findings indicate that nanomaterials function as thickeners, contributing to improved thixotropic behavior and structural development in 3D printable CBMs. Furthermore, they promote the hydration process by offering nucleation sites, thereby refining the microstructure of CBMs. Nano silica (NS) stands out for its significant impact on the thixotropy of 3D printable mixes, while carbon-based nanomaterials enhance the physio-mechanical properties of 3D printable CBMs. In addition, nano TiO2(NT) imparts self-cleaning capabilities through photocatalysis while cellulose nanocrystals (CNCs) and nano clay (NC) find their primary utility as viscosity-modifying agents within the 3D printable mixture. Thus, this comprehensive review serves as an invaluable resource for researchers, engineers, and industry professionals seeking insights into the latest advancements and confronting the key challenges within the realm of 3D printing for cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "95 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/adi_n"><b>Adi</b> N.</a>, <a href="../../../author/kurniawan_e_m"><b>Kurniawan</b> M.</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../anto_adi_kurn_agra.2023.TIoVMAaCCo3PMC/">The Influence of Viscosity-Modifying Agent and Calcium-Carbonate on 3D Printing Mortar Characteristics</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
@@ -164,8 +142,9 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/li_keyan"><b>Li</b> Keyan</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_li_liu.2025.S3PECCIRCM/">Sustainable 3D Printed Engineered Cementitious Composites Incorporating Recycled Ceramic Materials:<br/>Rheology and Mechanical Behavior</a></li>
@@ -183,4 +162,34 @@ tags:
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
       <li><a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a>, <a href="../../../author/al-rub_k_rashid"><b>Al-Rub</b> Rashid</a>, <a href="../../../author/khaswaneh_bashar"><b>Khaswaneh</b> Bashar</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ali_nass_alr_khas.2024.IoCNToPQaMPo3PCM/">Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_ghaz_amja_imra.2024.EHi3PCBMwNMI,
+      author            = "Shayan Ali Khan and Syed Mutahir Ullah Ghazi and Hassan Amjad and Muhammad Imram and Rao Arsalan Khushnood",
+      title             = "Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration: A Review",
+      doi               = "10.1016/j.conbuildmat.2023.134815",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "411",
+      pages             = "134815",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. A. Khan, S. M. U. Ghazi, H. Amjad, M. Imram and R. A. Khushnood, “Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration: A Review”, <i>Construction and Building Materials</i>, vol. 411, p. 134815, 2024, doi: 10.1016/j.conbuildmat.2023.134815.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Shayan Ali, Syed Mutahir Ullah Ghazi, Hassan Amjad, Muhammad Imram, and Rao Arsalan Khushnood. “Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration: A Review”. <i>Construction and Building Materials</i> 411 (2024): 134815. https://doi.org/10.1016/j.conbuildmat.2023.134815.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

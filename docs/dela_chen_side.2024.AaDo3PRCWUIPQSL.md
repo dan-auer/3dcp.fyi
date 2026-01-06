@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Delavar, H. Chen, Petros Sideris
+    - footer
+title: Delavar Mohammad, Chen H., Sideris Petros
 description:
 tags:
  - analysis
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.engstruct.2024.117535" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2024.117535</a>
+#Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2024.117535" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.117535" target="_blank">10.1016/j.engstruct.2024.117535</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4688-1224" title="ORCID: 0000-0002-4688-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b>&nbsp;Mohammad</a></span>, <a href="../../../author/chen_h"><b>Chen</b>&nbsp;H.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1183-7397" title="ORCID: 0000-0002-1183-7397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sideris_petros"><b>Sideris</b>&nbsp;Petros</a></span><br>
+Journal Article - Engineering Structures, Vol. 303, No. 117535
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a> <a href="https://orcid.org/0000-0002-4688-1224" title="ORCID: 0000-0002-4688-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_h"><b>Chen</b> H.</a>
-,     <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="https://orcid.org/0000-0002-1183-7397" title="ORCID: 0000-0002-1183-7397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 303, No. 117535
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#load`](keyword/load)
-    [`#plane`](keyword/plane)
-    [`#print`](keyword/print)
-    [`#quasi`](keyword/quasi)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#static`](keyword/static)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quasi"><button class="btn">#quasi</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Analysis%20and%20Design%20of%203D%20Printed%20Reinforced%20Concrete%20Walls%20Under%20In-Plane%20Quasi-Static%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183450023&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391286391" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2024.117535" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2024.117535?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction three-dimensional (3D) printing is an emerging technology within the area of Additive Construction and has the potential of revolutionizing the construction industry and the structural engineering discipline through construction automation. One of the major challenges in construction 3D printing is the lack of understanding of the response of 3D printed elements as well as the lack of design methodologies for such elements. This study proposes a 3D printed concrete (3DPC) wall design, termed RC-framed 3DPC wall, for applications in the seismic force resisting system of low-rise 3DPC buildings. The proposed 3DPC wall is reinforced by an internal reinforced concrete frame that strengthens the 3DPC wall similarly to boundary elements in masonry walls. The proposed 3DPC wall further includes bed-joint reinforcement that provides strength against shear demands and provides stability during printing. This study further discusses connection strategies of the proposed 3DPC wall to roof slabs and the foundation, and, following a limit states approach, formulates strength capacity equations for different in-plane failure mechanisms. In lack of experimental data, the strength equations are validated through finite element analyses as well as through experimental data on concrete block masonry (CBM) walls, with which 3DPC walls bear similarities in terms of the construction approach and are expected to share similar response mechanisms. Comparisons with experimental data were conducted for 16 partially grouted (PG) CBM walls and for 10 confined CBM walls. Comparisons with finite element analysis predictions were conducted for 96 3DPC walls, which varied in terms of bed-joint reinforcement, concrete compressive strength, height-to-length ratio, layer width, and cross-section infill pattern. These comparisons focused on predictions of strength and failure mechanisms. It was observed that the proposed strength design equations could predict the mechanical strength and failure mechanism of 3DPC walls with reasonable accuracy, thus, paving the way to 3DPC building design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
@@ -98,8 +75,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
       <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a>, <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a>, <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chor_gkou_meli_kata.2025.SPEo3PCWTNM/">Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods</a></li>
       <li><a href="../../../author/syed_mohammad"><b>Syed</b> Mohammad</a>, <a href="../../../author/sharma_sumedh"><b>Sharma</b> Sumedh</a>, <a href="../../../author/koliou_maria"><b>Koliou</b> Maria</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../syed_shar_koli_side.2025.EAo3PHB/">Economic Analysis of 3D-Printed Hempcrete Buildings</a></li>
@@ -118,7 +95,35 @@ tags:
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../amin_mema.2024.NaESoR3WFwLC/">Numerical and Experimental Study on Reinforced 3DCP Walls Filled with Lightweight Concrete</a></li>
       <li><a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/mansour_stephan"><b>Mansour</b> Stephan</a>, <a href="../../../author/monkman_sean"><b>Monkman</b> Sean</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krei_krei_mans_monk.2024.ACiP/">Additive Construction in Practice:<br/>Realities of Acceptance Criteria</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a></li>
-      <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../dela_chen_side.2023.SDMf3PCB/">Seismic Design Methodology for 3D Printed Concrete Buildings</a></li>
-      <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../dela_chen_side.2022.Do3PCWUIPSL/">Design of 3D Printed Concrete Walls Under In-Plane Seismic Loading</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dela_chen_side.2024.AaDo3PRCWUIPQSL,
+      author            = "Mohammad Aghajani Delavar and H. Chen and Petros Sideris",
+      title             = "Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading",
+      doi               = "10.1016/j.engstruct.2024.117535",
+      year              = "2024",
+      journal           = "Engineering Structures",
+      volume            = "303",
+      pages             = "117535",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Delavar, H. Chen and P. Sideris, “Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading”, <i>Engineering Structures</i>, vol. 303, p. 117535, 2024, doi: 10.1016/j.engstruct.2024.117535.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Delavar, Mohammad Aghajani, H. Chen, and Petros Sideris. “Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading”. <i>Engineering Structures</i> 303 (2024): 117535. https://doi.org/10.1016/j.engstruct.2024.117535.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

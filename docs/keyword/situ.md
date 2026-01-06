@@ -8,7 +8,8 @@ search:
 
 # #situ
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malik_lavanya"><b>Malik</b> Lavanya</a>, <a href="../../../author/rahman_reyazur_mohamed"><b>Rahman</b> Mohamed</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../saha_bish_mali_rahm.2026.SEo3CPLUiSPM/">Strength Evaluation of 3D Concrete Printed Layers Using in-Situ Parameters Monitoring</a></li>
   <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a></li>
   <li><a href="../../../author/wang_tongcai"><b>Wang</b> Tongcai</a>, <a href="../../../author/gu_guangshuai"><b>Gu</b> Guangshuai</a>, <a href="../../../author/zhang_rihan"><b>Zhang</b> Rihan</a>, <a href="../../../author/cui_qianshun"><b>Cui</b> Qianshun</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../wang_gu_zhan_cui.2025.AMoLRvRBBaMEMfHPISMotM/">Additive Manufacturing of Lunar Regolith via Resin-Based Binder and Material Extrusion Method for High-Performance In-Situ Manufacturing on the Moon</a></li>
   <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../fasi_libr.2025.TAISSYSMf3CP/">Towards Accurate In-Situ Static Yield Stress Measurement for 3D Concrete Printing:<br/>A Study on Novel Fast Penetration Test</a></li>

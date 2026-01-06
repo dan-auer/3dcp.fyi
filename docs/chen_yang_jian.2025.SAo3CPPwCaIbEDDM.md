@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Baixi Chen, Lei Yang, Sheng Jiang
+    - footer
+title: Chen Baixi, Yang Lei, Jiang Sheng
 description:
 tags:
  - analysis
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1617/s11527-025-02785-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02785-9</a>
+#Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02785-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02785-9" target="_blank">10.1617/s11527-025-02785-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_baixi"><b>Chen</b>&nbsp;Baixi</a></span>, <a href="../../../author/yang_lei"><b>Yang</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8628-8070" title="ORCID: 0000-0002-8628-8070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_sheng"><b>Jiang</b>&nbsp;Sheng</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> <a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>
-,     <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="https://orcid.org/0000-0002-8628-8070" title="ORCID: 0000-0002-8628-8070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#curvature`](keyword/curvature)
-    [`#data`](keyword/data)
-    [`#explainability`](keyword/explainability)
-    [`#inclination`](keyword/inclination)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#statistics`](keyword/statistics)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curvature"><button class="btn">#curvature</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/inclination"><button class="btn">#inclination</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/statistics"><button class="btn">#statistics</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Stochastic%20Analysis%20of%203D%20Concrete%20Printing%20Process%20with%20Curvature%20and%20Inclination%20by%20Explainable%20Data-Driven%20Modelling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016718325&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414356506" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02785-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02785-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing adoption of 3D concrete printing (3DCP) in construction highlights the importance of understanding the stochastic behavior of the printing process to ensure quality control. This study proposes an explainable data-driven stochastic analysis framework, incorporating SHapley Additive exPlanation (SHAP), to evaluate and explain the impact of material uncertainty on the printing process for walls with curvature and inclination. Among seven machine learning algorithms examined, the Sparse Gaussian Process Regression model demonstrated superior predictive performance and was selected for data-driven modeling. SHAP-based analysis identified the degree of inclination and initial cohesion as the most critical factors influencing the printing process, surpassing other material, geometric, and printing features in importance. Stochastic analysis revealed that increasing the degree of inclination reduces both the buildability of the 3DCP process and associated uncertainty, while geometric curvature enhances buildability but increases its variation. Printing configurations, such as print speed and layer height, had negligible effects on buildability and uncertainty within small-scale geometries. Regardless of printing geometry and configurations, initial cohesion was identified as the most influential contributor to process uncertainty, making it a key focus for optimization to reduce variability and enhance reliability in 3DCP processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
@@ -118,7 +95,37 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_yang_jian.2025.SAo3CPPwCaIbEDDM,
+      author            = "Baixi Chen and Lei Yang and Sheng Jiang",
+      title             = "Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling",
+      doi               = "10.1617/s11527-025-02785-9",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Chen, L. Yang and S. Jiang, “Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling”, <i>Materials and Structures</i>, vol. 58, no. 8, 2025, doi: 10.1617/s11527-025-02785-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Baixi, Lei Yang, and Sheng Jiang. “Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling”. <i>Materials and Structures</i> 58, no. 8 (2025). https://doi.org/10.1617/s11527-025-02785-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

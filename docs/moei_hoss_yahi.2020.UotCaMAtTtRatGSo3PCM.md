@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Moeini, Masoud Hosseinpoor, Ammar Yahia
+    - footer
+title: Moeini Mohammad, Hosseinpoor Masoud, Yahia Ammar
 description:
 tags:
  - admixture
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Use of the Chemical and Mineral Admixtures to Tailor the Rheology and the Green Strength of 3D Printing Cementitious Mixtures ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_8</a>
+#Use of the Chemical and Mineral Admixtures to Tailor the Rheology and the Green Strength of 3D Printing Cementitious Mixtures ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_8" target="_blank">10.1007/978-3-030-49916-7_8</a>
 
--------------------------
+<a href="../../../author/moeini_amin_mohammad"><b>Moeini</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-3146" title="ORCID: 0000-0003-3616-3146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b>&nbsp;Masoud</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 73-82
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>
-,     <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a> <a href="https://orcid.org/0000-0003-3616-3146" title="ORCID: 0000-0003-3616-3146" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 73-82
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#cement`](keyword/cement)
-    [`#chemical`](keyword/chemical)
-    [`#green`](keyword/green)
-    [`#mineral`](keyword/mineral)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-    [`#tailoring`](keyword/tailoring)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20the%20Chemical%20and%20Mineral%20Admixtures%20to%20Tailor%20the%20Rheology%20and%20the%20Green%20Strength%20of%203D%20Printing%20Cementitious%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088239040&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3042051043" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is an innovative manufacturing technic grasping a great interest in the construction industry. However, the materials engineering is still a challenge for an accurate large-scale 3D printing process. One promising solution is to tailor the rheological properties of the printing materials. Cementitious materials used for extrusion-based 3D printing should exhibit high static yield stress and well-adapted structuration (i.e. build-up) kinetics. These properties are mainly influenced by the mixture composition, including the use of the chemical and mineral admixtures. An experimental investigation was conducted to study the structuration kinetics of various mixtures by means of flowability and static yield stress evolution. Four mortar mixtures were developed using compatible chemical and mineral admixtures promoting the thixotropic behavior of printing materials. In addition, the green strength of mixtures was monitored up to 40 min after mixing. An empirical test setup and a novel sampling method were proposed to evaluate the behavior of the fresh 3D printed layers during the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
@@ -79,8 +55,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../qian_schu.2018.EToFCPwNCiPoPESP/">Enhancing Thixotropy of Fresh Cement-Pastes with Nano-Clay in Presence of Polycarboxylate-Ether Superplasticizer (PCE)</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../harb_yahi_rozi_louk.2025.ST/">Squeeze Test:<br/>A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.</a></li>
       <li><a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a>, <a href="../../../author/kumar_abhishek"><b>Kumar</b> Abhishek</a>, <a href="../../../author/pundir_aakanksha"><b>Pundir</b> Aakanksha</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kuma_kuma_pund_dwiv.2025.LCSaFAi3PC/">Low-Clay Soil as Fine Aggregate in 3D Printed Concrete:<br/>Insights into Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
@@ -92,4 +68,35 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{moei_hoss_yahi.2020.UotCaMAtTtRatGSo3PCM,
+      author            = "Mohammad Amin Moeini and Masoud Hosseinpoor and Ammar Yahia",
+      title             = "Use of the Chemical and Mineral Admixtures to Tailor the Rheology and the Green Strength of 3D Printing Cementitious Mixtures",
+      doi               = "10.1007/978-3-030-49916-7_8",
+      year              = "2020",
+      volume            = "28",
+      pages             = "73--82",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Moeini, M. Hosseinpoor and A. Yahia, “Use of the Chemical and Mineral Admixtures to Tailor the Rheology and the Green Strength of 3D Printing Cementitious Mixtures”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 73–82. doi: 10.1007/978-3-030-49916-7_8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moeini, Mohammad Amin, Masoud Hosseinpoor, and Ammar Yahia. “Use of the Chemical and Mineral Admixtures to Tailor the Rheology and the Green Strength of 3D Printing Cementitious Mixtures”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:73–82, 2020. https://doi.org/10.1007/978-3-030-49916-7_8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

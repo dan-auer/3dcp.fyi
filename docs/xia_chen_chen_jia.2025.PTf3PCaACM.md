@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kailun Xia, Yuning Chen, Yu Chen, Lutao Jia, Zijian Jia, Yamei Zhang
+    - footer
+title: Xia Kailun, Chen Yuning, Chen Yu, Jia Lutao, Jia Zijian, Zhang Yamei
 description:
 tags:
  - architecture
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.compositesb.2025.112573" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2025.112573</a>
+#Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2025.112573" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2025.112573" target="_blank">10.1016/j.compositesb.2025.112573</a>
 
--------------------------
+<a href="../../../author/xia_kailun"><b>Xia</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Composites Part B: Engineering, No. 112573
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, No. 112573
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#program`](keyword/program)
-    [`#toughness`](keyword/toughness)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/program"><button class="btn">#program</button></a> <a href="../../keyword/toughness"><button class="btn">#toughness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Programmable%20Toughening%20for%203D%20Printed%20Concrete%20and%20Architected%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003774049&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409879845" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2025.112573" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2025.112573?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious materials have been long suffered from toughness issue. Recent advances in 3D printing techniques enable innovative material shaping and customized functionalization. Herein, we propose a novel strategy for achieving multiscale and programmable toughening for cementitious composites by integrating the “wet spinning” industrial manufacturing process of polymer fibers/films into 3D printing procedure. In this strategy, the dehydration-induced polymer precipitation and the hydration of cement are synchronized, while the internal stress generated during the printing process drives the polymers to form desired toughening structure. Within this concept, anisotropic and programmable toughening are achieved by adjusting the printing parameters to control the polymer structure. This strategy is highly compatible with architected material design under high toughening component and extremely small voxel scale. Through this, we achieved an 80% increase in flexural strength and a 102% increase in fractured energy for the 3D printed cementitious bouligand structure at centimeter-level for the first time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../chen_liu_cao_chen.2022.SIoRPR3PPfAAM/">Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials:<br/>Effect of Precursor Nature</a></li>
@@ -96,9 +73,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xia_chen_chen_jia.2025.PTf3PCaACM,
+      author            = "Kailun Xia and Yuning Chen and Yu Chen and Lutao Jia and Zijian Jia and Yamei Zhang",
+      title             = "Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials",
+      doi               = "10.1016/j.compositesb.2025.112573",
+      year              = "2025",
+      journal           = "Composites Part B: Engineering",
+      pages             = "112573",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Xia, Y. Chen, Y. Chen, L. Jia, Z. Jia and Y. Zhang, “Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials”, <i>Composites Part B: Engineering</i>, p. 112573, 2025, doi: 10.1016/j.compositesb.2025.112573.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xia, Kailun, Yuning Chen, Yu Chen, Lutao Jia, Zijian Jia, and Yamei Zhang. “Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials”. <i>Composites Part B: Engineering</i>, 2025, 112573. https://doi.org/10.1016/j.compositesb.2025.112573.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

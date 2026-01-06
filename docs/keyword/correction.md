@@ -8,7 +8,7 @@ search:
 
 # #correction
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
   <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhan_cher_xiao_tzou.2024.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots:<br/>Correction</a></li>
   <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zaha_pere_gonc_pere.2023.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete:<br/>Correction</a></li>

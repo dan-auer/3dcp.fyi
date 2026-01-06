@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sebastian Uribe-Pinzon, Mariana Mosquera, Jhon Cardenas-Pulido, Camilo Higuera
+    - footer
+title: Uribe-Pinzon Sebastian, Mosquera Mariana, Cardenas-Pulido Jhon, Higuera Camilo
 description:
 tags:
  - advance
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advances and Current Trends on the Use of 3D Printed Concrete for Building Fabrication ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1109/coniiti53815.2021.9619718" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/coniiti53815.2021.9619718</a>
+#Advances and Current Trends on the Use of 3D Printed Concrete for Building Fabrication ([2021-10](date/2021/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/coniiti53815.2021.9619718" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/coniiti53815.2021.9619718" target="_blank">10.1109/coniiti53815.2021.9619718</a>
 
--------------------------
+<a href="../../../author/uribe-pinzon_sebastian"><b>Uribe-Pinzon</b>&nbsp;Sebastian</a></span>, <a href="../../../author/mosquera_mariana"><b>Mosquera</b>&nbsp;Mariana</a></span>, <a href="../../../author/cardenas-pulido_jhon"><b>Cardenas-Pulido</b>&nbsp;Jhon</a></span>, <a href="../../../author/higuera_camilo"><b>Higuera</b>&nbsp;Camilo</a></span><br>
+Contribution - 2021 Congreso Internacional de Innovación y Tendencias en Ingeniería, pp. 1-6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/uribe-pinzon_sebastian"><b>Uribe-Pinzon</b> Sebastian</a>
-,     <a href="../../../author/mosquera_mariana"><b>Mosquera</b> Mariana</a>
-,     <a href="../../../author/cardenas-pulido_jhon"><b>Cardenas-Pulido</b> Jhon</a>
-,     <a href="../../../author/higuera_camilo"><b>Higuera</b> Camilo</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 2021 Congreso Internacional de Innovación y Tendencias en Ingeniería, pp. 1-6
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#print`](keyword/print)
-    [`#trend`](keyword/trend)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advances%20and%20Current%20Trends%20on%20the%20Use%20of%203D%20Printed%20Concrete%20for%20Building%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123625764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200624579" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/coniiti53815.2021.9619718" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/coniiti53815.2021.9619718?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently 3D-printed concrete has emerged as an innovative material for the manufacture of low-cost buildings worldwide. The 3D printed concrete technique allows the manufacture of buildings with substantial savings in cost and construction time both up to 70% compared to traditional construction systems. However, there are some unknowns about the use of 3D printed concrete and its behavior under service loads, these unknowns are mainly associated with the manufacturing process, mix design, rheology and fresh empirical properties, its mechanical properties, durability properties, use of reinforcing steel, current applications, among others. When 3D printed concrete is intended to be implemented for building purposes, each of these properties needs to be addressed for optimal functionality. This article presents a preliminary state of the art that accounts for the current manufacturing processes and performance of 3D printed concrete for the manufacture of low-cost buildings. Based on the identified developments, current benefits and limitations of the 3D printed concrete technique are established, and conclusions and recommendations are provided regarding its manufacture and implementation for further performance studies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -96,9 +75,38 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/musathik_am_a"><b>Musathik</b> A.</a>, <a href="../../../author/ashfak_hm_m"><b>Ashfak</b> M.</a>, <a href="../../../author/arif_ama_m"><b>Arif</b> M.</a>, <a href="../../../author/samaraweera_gtd_b"><b>Samaraweera</b> B.</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../musa_ashf_arif_sama.2025.TSC/">Towards Smart Construction:<br/>Development of an Automated Small Scale 3D Concrete Printer</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../rame_raje_sanj.2024.AoTRf3CPS/">Application of Textile Reinforcement for 3D Concrete Printed Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{urib_mosq_card_higu.2021.AaCTotUo3PCfBF,
+      author            = "Sebastian Uribe-Pinzon and Mariana Mosquera and Jhon Cardenas-Pulido and Camilo Higuera",
+      title             = "Advances and Current Trends on the Use of 3D Printed Concrete for Building Fabrication",
+      doi               = "10.1109/coniiti53815.2021.9619718",
+      year              = "2021",
+      pages             = "1--6",
+      booktitle         = "2021 Congreso Internacional de Innovación y Tendencias en Ingeniería",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Uribe-Pinzon, M. Mosquera, J. Cardenas-Pulido and C. Higuera, “Advances and Current Trends on the Use of 3D Printed Concrete for Building Fabrication”, in <i>2021 Congreso Internacional de Innovación y Tendencias en Ingeniería</i>,  2021, pp. 1–6. doi: 10.1109/coniiti53815.2021.9619718.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Uribe-Pinzon, Sebastian, Mariana Mosquera, Jhon Cardenas-Pulido, and Camilo Higuera. “Advances and Current Trends on the Use of 3D Printed Concrete for Building Fabrication”. In <i>2021 Congreso Internacional De Innovación Y Tendencias En Ingeniería</i>, 1–6, 2021. https://doi.org/10.1109/coniiti53815.2021.9619718.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

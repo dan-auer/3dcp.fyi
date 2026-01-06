@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Li Zhijian 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/qu_yao"><b>Qu</b> Yao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_wang_li_qu.2025.IPi3PUHPCCBfSFP/">Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance</a></li>
   <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a></li>
   <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_lin_wan_li.2024.MAIoCPbHASMBotTDCoCM/">Manufacturing Accuracy Improvement of Concrete Product by Hybrid Additive-Subtractive Method Based on the Time-Dependent Characteristics of Cementitious Materials</a></li>

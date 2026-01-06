@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rue Munemo, Jacques Kruger, Gideon Zijl
+    - footer
+title: Munemo Rue, Kruger Jacques, Zijl Gideon
 description:
 tags:
  - base
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Surface Treatment of 3DPC Interlayers with Silicate-Based Solution for Enhanced Interfacial Bonding ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cemconres.2025.107948" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2025.107948</a>
+#Surface Treatment of 3DPC Interlayers with Silicate-Based Solution for Enhanced Interfacial Bonding ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2025.107948" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.107948" target="_blank">10.1016/j.cemconres.2025.107948</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8341-3921" title="ORCID: 0000-0002-8341-3921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munemo_rue"><b>Munemo</b>&nbsp;Rue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 196, No. 107948
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a> <a href="https://orcid.org/0000-0002-8341-3921" title="ORCID: 0000-0002-8341-3921" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 196, No. 107948
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#enhancement`](keyword/enhancement)
-    [`#interface`](keyword/interface)
-    [`#interlayer`](keyword/interlayer)
-    [`#silica`](keyword/silica)
-    [`#solution`](keyword/solution)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Surface%20Treatment%20of%203DPC%20Interlayers%20with%20Silicate-Based%20Solution%20for%20Enhanced%20Interfacial%20Bonding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005844089&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410741819" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2025.107948" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2025.107948?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The unavoidable challenge of weakened interlayers in 3D Concrete Printing yields diminished mechanical performance due to compromised micro- and macrostructural properties that are a culmination of the material and process parameters, in conjunction with ambient environmental conditions. A bond enhancement technique is proposed that is characterised by the surface treatment of interlayer surfaces with a silicate-based solution with the intention of densifying and improving the cementitious matrix in the interlayer region. After applying the surface treatment, the mechanical properties were assessed through compression and direct tensile tests. For microstructural characterisation, SEM/EDS analysis was performed to quantify the hydration products and their morphology in tandem with XCT analysis to assess the pore structure of the interlayer region. The surface treatment technique strengthened the interfaces, yielding up to 126 % bond strength improvement. Furthermore, the interlayer region is densified, with a marked decrease in total pore volume, as well as largest pore size observed. Moreover, the pore structure is more homogenous after the application of surface treatment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
@@ -109,9 +88,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mune_krug_zijl.2025.STo3IwSBSfEIB,
+      author            = "Rue Munemo and Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Surface Treatment of 3DPC Interlayers with Silicate-Based Solution for Enhanced Interfacial Bonding",
+      doi               = "10.1016/j.cemconres.2025.107948",
+      year              = "2025",
+      journal           = "Cement and Concrete Research",
+      volume            = "196",
+      pages             = "107948",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Munemo, J. P. Kruger and G. P. A. G. van Zijl, “Surface Treatment of 3DPC Interlayers with Silicate-Based Solution for Enhanced Interfacial Bonding”, <i>Cement and Concrete Research</i>, vol. 196, p. 107948, 2025, doi: 10.1016/j.cemconres.2025.107948.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Munemo, Rue, Jacques Pienaar Kruger, and Gideon Pieter Adriaan Greeff van Zijl. “Surface Treatment of 3DPC Interlayers with Silicate-Based Solution for Enhanced Interfacial Bonding”. <i>Cement and Concrete Research</i> 196 (2025): 107948. https://doi.org/10.1016/j.cemconres.2025.107948.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

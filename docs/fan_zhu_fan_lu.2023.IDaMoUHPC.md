@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dingqiang Fan, Jinyun Zhu, Mengxin Fan, Jianxian Lu, Shaohua Chu, Enlai Dong, Rui Yu
+    - footer
+title: Fan Dingqiang, Zhu Jinyun, Fan Mengxin, Lu Jianxian, Chu Shaohua, Dong Enlai, Yu Rui
 description:
 tags:
  - concrete
@@ -15,34 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>:aca-blank: A Review ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131495" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131495</a>
+#Intelligent Design and Manufacturing of Ultra-High-Performance Concrete&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131495" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131495" target="_blank">10.1016/j.conbuildmat.2023.131495</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1386-6092" title="ORCID: 0000-0003-1386-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fan_dingqiang"><b>Fan</b>&nbsp;Dingqiang</a></span>, <a href="../../../author/zhu_jinyun"><b>Zhu</b>&nbsp;Jinyun</a></span>, <a href="../../../author/fan_mengxin"><b>Fan</b>&nbsp;Mengxin</a></span>, <a href="../../../author/lu_jianxian"><b>Lu</b>&nbsp;Jianxian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8650-8056" title="ORCID: 0000-0001-8650-8056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chu_h_shaohua"><b>Chu</b>&nbsp;Shaohua</a></span>, <a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <a href="../../../author/yu_rui"><b>Yu</b>&nbsp;Rui</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 385
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a> <a href="https://orcid.org/0000-0003-1386-6092" title="ORCID: 0000-0003-1386-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>
-,     <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>
-,     <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a>
-,     <a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a> <a href="https://orcid.org/0000-0001-8650-8056" title="ORCID: 0000-0001-8650-8056" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/yu_rui"><b>Yu</b> Rui</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 385, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#height`](keyword/height)
-    [`#intelligence`](keyword/intelligence)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#performance`](keyword/performance)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Intelligent%20Design%20and%20Manufacturing%20of%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153568108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366979997" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131495" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131495?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The quick rise of intelligent technologies promotes the development of the construction industry into a new phase. As an advanced cement-based materials, ultra-high performance concrete (UHPC) breaks the performance upper limit of traditional concrete materials, which has also been empowered by intelligent techniques. Hence, this work comprehensively reviews the progress on the intelligent design and manufacturing of UHPC materials. The review mainly includes various design methods and performance characteristics of 3D printed UHPC (3DP-UHPC). The results reveal that currently, the particle packing methods, especially compressible packing model (CPM) and modified Andreasen and Andersen (MAA) model, are domain in designing UHPC materials. Meanwhile, the intelligent design methods, referring to optimal design by computer technology, are also increasingly used due to their high efficiency and accuracy in property predicting. Notably, recently, a new design concept was proposed by the joint use of particle packing models and machine learning techniques. On the other hand, the intelligent manufacturing of UHPC mainly refers to3DP-UHPC. Here, the rheology (especially thixotropy) and printability (pumpability, extrudability and buildability) are crucial for the manufacturing of 3DP-UHPC. Adding steel fibers can enhance the matrix strength, but also will increase the anisotropy of 3DP-UHPC by regulating fiber orientation. Overall, the intelligent development of UHPC is a significant direction for the construction industry, attracting increasing interest and attention. The outcomes of this study emphasize the advantages and significance of using intelligent techniques to design and manufacture UHPC materials, which holds great references and support for future construction projects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "64 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -133,8 +110,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -152,4 +129,33 @@ tags:
       <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/liu_jian"><b>Liu</b> Jian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhao_jian_xia_liu.2024.MICRf3PC/">Microbial-Induced Carbonate Reinforcement for 3D Printed Concrete:<br/>Testing in Printable and Mechanical Strength</a></li>
       <li><a href="../../../author/zivkovic_milijana"><b>Živković</b> Milijana</a>, <a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zivk_zujo_milo.2023.A3PSCUAI/">Architectural 3D Printed Structures Created Using Artificial Intelligence:<br/>A Review of Techniques and Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fan_zhu_fan_lu.2023.IDaMoUHPC,
+      author            = "Dingqiang Fan and Jinyun Zhu and Mengxin Fan and Jianxian Lu and Shaohua H. Chu and Enlai Dong and Rui Yu",
+      title             = "Intelligent Design and Manufacturing of Ultra-High-Performance Concrete: A Review",
+      doi               = "10.1016/j.conbuildmat.2023.131495",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "385",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Fan, “Intelligent Design and Manufacturing of Ultra-High-Performance Concrete: A Review”, <i>Construction and Building Materials</i>, vol. 385, 2023, doi: 10.1016/j.conbuildmat.2023.131495.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fan, Dingqiang, Jinyun Zhu, Mengxin Fan, Jianxian Lu, Shaohua H. Chu, Enlai Dong, and Rui Yu. “Intelligent Design and Manufacturing of Ultra-High-Performance Concrete: A Review”. <i>Construction and Building Materials</i> 385 (2023). https://doi.org/10.1016/j.conbuildmat.2023.131495.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #basalt
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/shang_yuqing"><b>Shang</b> Yuqing</a>, <a href="../../../author/yu_zheming"><b>Yu</b> Zheming</a>, <a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shan_yu_ma_wei.2026.Ro3PMaPPoBFRC/">Research on 3D Printing Materials and Printing Parameters of Basalt Fiber Reinforced Concrete</a></li>
   <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
   <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>

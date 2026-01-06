@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martin Slepicka, André Borrmann
+    - footer
+title: Slepicka Martin, Borrmann André
 description:
 tags:
  - additive
@@ -19,33 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2024.105792) Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.autcon.2024.105792" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105792</a>
+#Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2024.105792) <a href="https://doi.org/10.1016/j.autcon.2024.105792" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105792" target="_blank">10.1016/j.autcon.2024.105792</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
+Journal Article - Automation in Construction, Vol. 168, No. 105792
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a> <a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 168, No. 105792
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#closed`](keyword/closed)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#improvement`](keyword/improvement)
-    [`#information`](keyword/information)
-    [`#loop`](keyword/loop)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#model`](keyword/model)
-    [`#quality`](keyword/quality)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/closed"><button class="btn">#closed</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/loop"><button class="btn">#loop</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fabrication%20Information%20Modeling%20for%20Closed-Loop%20Design%20and%20Quality%20Improvement%20in%20Additive%20Manufacturing%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204799816&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402859543" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105792" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105792?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive Manufacturing (AM) has emerged as a disruptive technology with the potential to revolutionize the construction industry by integrating digital design with automated manufacturing. This paper presents and extends Fabrication Information Modeling (FIM), a comprehensive framework tailored for automated manufacturing in construction. FIM facilitates the seamless integration of digital design concepts with automated manufacturing processes, enabling precise control over fabrication information and enhancing construction efficiency and quality. This paper demonstrates its potential to optimize construction processes through a detailed exploration of FIM’s capabilities, including data preparation, path planning, simulation integration, robot control, and data feedback. By enabling a circular data flow between digital modeling and manufacturing, FIM is able to bridge the gap between digital design and physical construction, revolutionizing how construction projects are conceived, planned, and executed. The paper concludes by highlighting the challenges and future research directions in advancing FIM-based construction systems, emphasizing its transformative potential in driving innovation and sustainability in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/auer_daniel"><b>Auer</b> Daniel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/olabi_mohammad"><b>Olabi</b> Mohammad</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../auer_bos_olab_fisc.2023.FRo3PCbMETPAtPST/">Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories</a></li>
       <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/leithner_felicitas"><b>Leithner</b> Felicitas</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../brie_koll_leit_matt.2022.TOoAMLCWEwICStSaM/">Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements</a></li>
       <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/renz_mauritz"><b>Renz</b> Mauritz</a>, <a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b> Ahmad</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../brie_renz_noum_stra.2023.MAF/">Monolithic AM Façade:<br/>Multi-Objective Parametric Design-Optimization of Additively Manufactured Insulating Wall Elements</a></li>
@@ -102,12 +79,42 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
       <li><a href="../../../author/bettermann_luca"><b>Bettermann</b> Luca</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/esser_sebastian"><b>Esser</b> Sebastian</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bett_slep_esse_borr.2025.DDPCiAMfC/">Data-Driven Parameter Calibration in Additive Manufacturing for Construction:<br/>An Introduction to Learning by Printing</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
       <li><a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/petzold_frank"><b>Petzold</b> Frank</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_petz.2025.ODMoDD/">Ontology-Driven Mixture-of-Domain Documentation:<br/>A Backbone Approach Enabling Question Answering for Additive Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{slep_borr.2024.FIMfCLDaQIiAMfC,
+      author            = "Martin Slepicka and André Borrmann",
+      title             = "Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction",
+      doi               = "10.1016/j.autcon.2024.105792",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "168",
+      pages             = "105792",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Slepicka  and A. Borrmann, “Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction”, <i>Automation in Construction</i>, vol. 168, p. 105792, 2024, doi: 10.1016/j.autcon.2024.105792.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Slepicka, Martin, and André Borrmann. “Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction”. <i>Automation in Construction</i> 168 (2024): 105792. https://doi.org/10.1016/j.autcon.2024.105792.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

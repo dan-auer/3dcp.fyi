@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hugo Varela, Matheus Tinoco, Oscar Mendoza Reales, Romildo Toledo Filho, Gonzalo Barluenga
+    - footer
+title: Varela Hugo, Tinoco Matheus, Mendoza Reales Oscar, Toledo Filho Romildo, Barluenga Gonzalo
 description:
 tags:
  - base
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.138687) 3D Printable Cement-Based Composites Reinforced with Sisal-Fibers:<br/>:aca-blank: Rheology, Printability and Hardened Properties ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138687" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138687</a>
+#3D Printable Cement-Based Composites Reinforced with Sisal-Fibers&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Rheology, Printability and Hardened Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.138687) <a href="https://doi.org/10.1016/j.conbuildmat.2024.138687" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138687" target="_blank">10.1016/j.conbuildmat.2024.138687</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varela_hugo"><b>Varela</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b>&nbsp;Matheus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barluenga_gonzalo"><b>Barluenga</b>&nbsp;Gonzalo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 450, No. 138687
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> <a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a> <a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 450, No. 138687
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#hardened`](keyword/hardened)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Cement-Based%20Composites%20Reinforced%20with%20Sisal-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206192752&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403362884" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138687" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138687?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Reinforcement of cement-based systems is one of the main unsolved issues for 3D printing technology (3DP). The use of short fibers is a promising way to improve cement-based systems fresh and hardened strength, overcoming this limitation. Among natural fibers, Sisal fibers (SF) can be an excellent option, due to their irregular cross-section morphology, water retention capacity and high Young modulus. In this study, fresh and hardened properties of 3D printable cement-limestone filler mortar reinforced with 1 % volumetric fraction (VF) of 6.5 mm SF and 0.5, 1 and 1.5 % VF of 13 mm SF was assessed. Fresh state mortar rheology was evaluated using flow table test (FT), Self-weight cone-penetration (WCP), Displacement-controlled cone-penetration (DCP) and fresh squeeze tests (SQT). 3DP was evaluated on mortars using a manual extruder and a 3D cartesian robotic printer. Hardened physical and mechanical properties were tested, comparing the effect of 3DP and SF reinforcement on conventional and 3D printed specimens. It was observed that SF slightly modified mortars’ rheology and cohesiveness, while SF improved fresh mechanical behavior and enhanced flexural strength and toughness index (IT) on hardened state, due to SF alignment produced by 3DP. Water capillarity and open porosity was also modified by 3DP, due to particle squeezing and fiber´s alignment during extrusion. Higher VF and longer fibers reduced robotic printability and produced discontinuities and pumping blockage, showing limits for SF addition.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../busw.2022.CDC2S/">CCR Digital Concrete 2022 SI:<br/>Editorial</a></li>
@@ -94,12 +71,42 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../xu_qian.2023.EoFVFFLWBRaNCAot3PoSHCC/">Effects of Fiber-Volume Fraction, Fiber Length, Water-Binder Ratio, and Nano-Clay Addition on the 3D Printability of Strain-Hardening Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/ramallo_laura"><b>Ramallo</b> Laura</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_marq_rama_barl.2025.FaHPoCFRMf3PiC/">Fresh and Hardened Properties of Cellulose Fiber-Reinforced Mortars for 3D Printing in Construction</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_tole_mend.2025.RHBAf3PiC/">Rice Husk Bio-Aggregates for 3D Printing in Construction:<br/>Balancing Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../irsh_albe_amja_alnu.2025.FWtS/">From Waste to Strength:<br/>Recycled Steel Fibers for Sustainable 3D Printing of Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vare_tino_mend_tole.2024.3PCBCRwSF,
+      author            = "Hugo Varela and Matheus Pimentel Tinoco and Oscar Aurelio Mendoza Reales and Romildo Dias Toledo Filho and Gonzalo Barluenga",
+      title             = "3D Printable Cement-Based Composites Reinforced with Sisal-Fibers: Rheology, Printability and Hardened Properties",
+      doi               = "10.1016/j.conbuildmat.2024.138687",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "450",
+      pages             = "138687",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Varela, M. P. Tinoco, O. A. M. Reales, R. D. T. Filho and G. Barluenga, “3D Printable Cement-Based Composites Reinforced with Sisal-Fibers: Rheology, Printability and Hardened Properties”, <i>Construction and Building Materials</i>, vol. 450, p. 138687, 2024, doi: 10.1016/j.conbuildmat.2024.138687.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Varela, Hugo, Matheus Pimentel Tinoco, Oscar Aurelio Mendoza Reales, Romildo Dias Toledo Filho, and Gonzalo Barluenga. “3D Printable Cement-Based Composites Reinforced with Sisal-Fibers: Rheology, Printability and Hardened Properties”. <i>Construction and Building Materials</i> 450 (2024): 138687. https://doi.org/10.1016/j.conbuildmat.2024.138687.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

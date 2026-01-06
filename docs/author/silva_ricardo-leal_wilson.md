@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # da Silva Wilson 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/farra_ramzi"><b>Farra</b> Ramzi</a>, <a href="../../../author/dhers_sebastien"><b>Dhers</b> Sébastien</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../farr_dher_silv.2024.EESiL3wACA/">Enhancing Early Strength in LC3 3DCP with Advanced Chemical Admixtures</a></li>
   <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP/">Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing</a></li>
   <li><a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/kaasgaard_martin"><b>Kaasgaard</b> Martin</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../silv_kaas_ande.2022.S3CPwLA/">Sustainable 3D Concrete Printing with Large Aggregates</a></li>

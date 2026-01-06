@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Salim Barbhuiya, Bibhuti Das, Dibyendu Adak
+    - footer
+title: Barbhuiya Salim, Das Bibhuti, Adak Dibyendu
 description:
 tags:
  - analysis
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Key Variables Influencing the Performance of 3D Printed Concrete:<br/>:aca-blank: A Comprehensive Analysis ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1007/978-3-031-92801-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-92801-7_1</a>
+#Key Variables Influencing the Performance of 3D Printed Concrete&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A Comprehensive Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92801-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92801-7_1" target="_blank">10.1007/978-3-031-92801-7_1</a>
 
--------------------------
+<a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b>&nbsp;Salim</a></span>, <a href="../../../author/das_busan_bibhuti"><b>Das</b>&nbsp;Bibhuti</a></span>, <a href="../../../author/adak_dibyendu"><b>Adak</b>&nbsp;Dibyendu</a></span><br>
+Contribution - Innovative Technologies for Smart and Sustainable Infrastructure, pp. 3-32
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>
-,     <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>
-,     <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Innovative Technologies for Smart and Sustainable Infrastructure, pp. 3-32
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#influence`](keyword/influence)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Key%20Variables%20Influencing%20the%20Performance%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413861650" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-92801-7_1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-92801-7_1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This chapter examines key variables influencing 3D printed concrete performance, focusing on material, process, environmental, and geometric factors essential for achieving optimal strength and durability. It begins with an overview of 3D printed concrete, performance metrics, and the scope of the study. The chapter then delves into material composition, discussing how cement type, aggregate characteristics, additives, and water-cement ratios affect mix consistency, workability, and structural integrity. Process parameters, such as layer height, print speed, and extrusion rate, are analysed for their impact on layer adhesion and structural stability. Environmental factors—including temperature, humidity, and curing—are examined, highlighting their influence on setting time and strength. Geometric and structural considerations, like wall thickness and layer bonding, reveal the effects of design complexity on stability. The chapter concludes by synthesizing these findings, offering insights into optimizing 3D printed concrete performance through coordinated control of materials, process, and environmental conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "54 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
@@ -119,7 +100,36 @@ tags:
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM/">Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{barb_das_adak.2025.KVItPo3PC,
+      author            = "Salim Barbhuiya and Bibhuti Busan Das and Dibyendu Adak",
+      title             = "Key Variables Influencing the Performance of 3D Printed Concrete: A Comprehensive Analysis",
+      doi               = "10.1007/978-3-031-92801-7_1",
+      year              = "2025",
+      pages             = "3--32",
+      booktitle         = "Innovative Technologies for Smart and Sustainable Infrastructure",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Barbhuiya, B. B. Das and D. Adak, “Key Variables Influencing the Performance of 3D Printed Concrete: A Comprehensive Analysis”, in <i>Innovative Technologies for Smart and Sustainable Infrastructure</i>,  2025, pp. 3–32. doi: 10.1007/978-3-031-92801-7_1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Barbhuiya, Salim, Bibhuti Busan Das, and Dibyendu Adak. “Key Variables Influencing the Performance of 3D Printed Concrete: A Comprehensive Analysis”. In <i>Innovative Technologies for Smart and Sustainable Infrastructure</i>, 3–32, 2025. https://doi.org/10.1007/978-3-031-92801-7_1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xunzhi Yin, Chong Guo, Bo Sun, Honggang Chen, Hui Wang, An Li
+    - footer
+title: Yin Xunzhi, Guo Chong, Sun Bo, Chen Honggang, Wang Hui, Li An
 description:
 tags:
  - buildability
@@ -19,37 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/9/2381/pdf?version=1695115134) The State of the Art in Digital Construction of Clay Buildings:<br/>:aca-blank: Reviews of Existing Practices and Recommendations for Future Development ([2023-09](date/2023/09))
-<a href="https://doi.org/10.3390/buildings13092381" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13092381</a>
+#The State of the Art in Digital Construction of Clay Buildings&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">Reviews of Existing Practices and Recommendations for Future Development</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/9/2381/pdf?version=1695115134) <a href="https://doi.org/10.3390/buildings13092381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13092381" target="_blank">10.3390/buildings13092381</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8815-2265" title="ORCID: 0000-0002-8815-2265" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_xunzhi"><b>Yin</b>&nbsp;Xunzhi</a></span>, <a href="../../../author/guo_chong"><b>Guo</b>&nbsp;Chong</a></span>, <a href="../../../author/sun_bo"><b>Sun</b>&nbsp;Bo</a></span>, <a href="../../../author/chen_honggang"><b>Chen</b>&nbsp;Honggang</a></span>, <a href="../../../author/wang_hui"><b>Wang</b>&nbsp;Hui</a></span>, <a href="../../../author/li_an"><b>Li</b>&nbsp;An</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yin_xunzhi"><b>Yin</b> Xunzhi</a> <a href="https://orcid.org/0000-0002-8815-2265" title="ORCID: 0000-0002-8815-2265" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_chong"><b>Guo</b> Chong</a>
-,     <a href="../../../author/sun_bo"><b>Sun</b> Bo</a>
-,     <a href="../../../author/chen_honggang"><b>Chen</b> Honggang</a>
-,     <a href="../../../author/wang_hui"><b>Wang</b> Hui</a>
-,     <a href="../../../author/li_an"><b>Li</b> An</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#clay`](keyword/clay)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#digital`](keyword/digital)
-    [`#existence`](keyword/existence)
-    [`#future`](keyword/future)
-    [`#practice`](keyword/practice)
-    [`#recommendation`](keyword/recommendation)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/existence"><button class="btn">#existence</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/recommendation"><button class="btn">#recommendation</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20State%20of%20the%20Art%20in%20Digital%20Construction%20of%20Clay%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172794781&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386895414" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13092381" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13092381?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Under the trend of digitization and global carbon reductions, clay construction has increasingly attracted attention due to advantages such as an excellent thermal performance, low carbon emissions, and high cost-effectiveness. In this article, an in-depth investigation is conducted into the potential, challenges, and future in the development of digital manufacturing technologies for clay architecture, especially 3D printing, robotic construction, and prefabrication systems. It is revealed through a review that digital clay construction is under rapid development and likely to provide a viable solution to achieving global carbon neutrality, which is conducive to addressing various regional issues. The key findings from this review are as follows. Firstly, as a flexible, precise, and low-carbon industrial solution, 3D printing lays a foundation for the extensive research on materials, equipment, and algorithm optimization. Secondly, the use of machine construction methods such as modern rammed earth technology and drone spraying is effective in improving efficiency and lowering costs. Lastly, the prefabricated building system shows its potential in renewing and developing the rammed earth architecture culture. These findings indicate a massive potential of digital clay construction to support sustainability efforts in the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
@@ -91,10 +65,41 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mato_emir_milh.2025.PSSMPf3P/">Predicting Stabilized Soil Mixture Proportions for 3D Printing:<br/>Preliminary Study Using the Design of Experiments Approach</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yous_rash_koc.2024.PTfS3PoCS/">Parameter-Tuning for Sustainable 3D Printing of Clay Structures</a></li>
       <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yin_guo_sun_chen.2023.TSotAiDCoCB,
+      author            = "Xunzhi Yin and Chong Guo and Bo Sun and Honggang Chen and Hui Wang and An Li",
+      title             = "The State of the Art in Digital Construction of Clay Buildings: Reviews of Existing Practices and Recommendations for Future Development",
+      doi               = "10.3390/buildings13092381",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Yin, C. Guo, B. Sun, H. Chen, H. Wang and A. Li, “The State of the Art in Digital Construction of Clay Buildings: Reviews of Existing Practices and Recommendations for Future Development”, <i>Buildings</i>, vol. 13, no. 9, 2023, doi: 10.3390/buildings13092381.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yin, Xunzhi, Chong Guo, Bo Sun, Honggang Chen, Hui Wang, and An Li. “The State of the Art in Digital Construction of Clay Buildings: Reviews of Existing Practices and Recommendations for Future Development”. <i>Buildings</i> 13, no. 9 (2023). https://doi.org/10.3390/buildings13092381.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

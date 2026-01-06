@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Moein Mousavi, Prasad Rangaraju
+    - footer
+title: Mousavi Moein, Rangaraju Prasad
 description:
 tags:
  - comprehension
@@ -19,33 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2673-4109/6/3/47/pdf?version=1757149676) Freeze-Thaw Durability of 3D Printed Concrete:<br/>:aca-blank: A Comprehensive Review of Mechanisms, Materials, and Testing Strategies ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/civileng6030047" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/civileng6030047</a>
+#Freeze-Thaw Durability of 3D Printed Concrete&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-4109/6/3/47/pdf?version=1757149676) <a href="https://doi.org/10.3390/civileng6030047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/civileng6030047" target="_blank">10.3390/civileng6030047</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_moein"><b>Mousavi</b>&nbsp;Moein</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4285-1252" title="ORCID: 0000-0003-4285-1252" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b>&nbsp;Prasad</a></span><br>
+Journal Article - CivilEng, Vol. 6, Iss. 3, No. 47
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a> <a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="https://orcid.org/0000-0003-4285-1252" title="ORCID: 0000-0003-4285-1252" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - CivilEng, Vol. 6, Iss. 3, No. 47
-
-:aca-blank:{ .lg .middle}
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#freeze`](keyword/freeze)
-    [`#material`](keyword/material)
-    [`#mechanism`](keyword/mechanism)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#strategy`](keyword/strategy)
-    [`#test`](keyword/test)
-    [`#thaw`](keyword/thaw)
-
-
--------------------------
+<a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Freeze-Thaw%20Durability%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017486035&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414062677" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/civileng6030047" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/civileng6030047?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The growing application of 3D concrete printing (3DCP) in construction has raised important questions regarding its long-term durability under freeze–thaw (F–T) exposure, particularly in cold climates. This review paper presents a comprehensive examination of recent research focused on the F–T performance of 3D-printed concrete (3DPC). Key material and process parameters influencing durability, such as print orientation, admixtures, and layer bonding, are critically evaluated. Experimental findings from mechanical, microstructural, and imaging studies are discussed, highlighting anisotropic vulnerabilities and the potential of advanced additives like nanofillers and air-entraining agents. Notably, air-entraining agents (AEA) reduced the compressive strength loss by 1.4–5.3% after exposure to F–T cycles compared to control samples. Additionally, horizontally cored specimens with AEA incorporated into their mixture design showed a 15% higher dynamic modulus after up to 300 F–T cycles. Furthermore, optimized printing parameters, such as reduced nozzle standoff distance and minimized printing time gap, reduced surface scaling by over 50%. The addition of a nanofiller such as nano zinc oxide in 3DPC can result in compressive strength retention rates exceeding 95% even after aggressive F–T cycling. The lack of standard testing protocols and the geometry dependence of degradation are emphasized as key research gaps. This review provides insights into optimizing mix designs and printing strategies to improve the F–T resistance of 3DPC, aiming to support its reliable implementation in cold-region infrastructure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/azimi_zahir"><b>Azimi</b> Zahir</a>, <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b> Akbar</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS/">Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
@@ -97,8 +75,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mous_rang.2025.FTDo3PC,
+      author            = "Moein Mousavi and Prasad Rao Rangaraju",
+      title             = "Freeze-Thaw Durability of 3D Printed Concrete: A Comprehensive Review of Mechanisms, Materials, and Testing Strategies",
+      doi               = "10.3390/civileng6030047",
+      year              = "2025",
+      journal           = "CivilEng",
+      volume            = "6",
+      number            = "3",
+      pages             = "47",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Mousavi  and P. R. Rangaraju, “Freeze-Thaw Durability of 3D Printed Concrete: A Comprehensive Review of Mechanisms, Materials, and Testing Strategies”, <i>CivilEng</i>, vol. 6, no. 3, p. 47, 2025, doi: 10.3390/civileng6030047.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mousavi, Moein, and Prasad Rao Rangaraju. “Freeze-Thaw Durability of 3D Printed Concrete: A Comprehensive Review of Mechanisms, Materials, and Testing Strategies”. <i>CivilEng</i> 6, no. 3 (2025): 47. https://doi.org/10.3390/civileng6030047.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

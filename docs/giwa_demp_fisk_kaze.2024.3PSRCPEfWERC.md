@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ilerioluwa Giwa, Mary Dempsey, Michael Fiske, Ali Kazemian
+    - footer
+title: Giwa Ilerioluwa, Dempsey Mary, Fiske Michael, Kazemian Ali
 description:
 tags:
  - concrete
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.autcon.2024.105571" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105571</a>
+#3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105571" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105571" target="_blank">10.1016/j.autcon.2024.105571</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giwa_ilerioluwa"><b>Giwa</b>&nbsp;Ilerioluwa</a></span>, <a href="../../../author/dempsey_mary"><b>Dempsey</b>&nbsp;Mary</a></span>, <a href="../../../author/fiske_r_michael"><b>Fiske</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
+Journal Article - Automation in Construction, Vol. 165, No. 105571
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> <a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>
-,     <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 165, No. 105571
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#evaluation`](keyword/evaluation)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Sulfur-Regolith%20Concrete%20Performance%20Evaluation%20for%20Waterless%20Extraterrestrial%20Robotic%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196220761&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399764410" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105571" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105571?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     By leveraging the capabilities of construction 3D printing, building structures in harsh extraterrestrial environments is conceivable. Sulfur concrete is a waterless construction material that offers great potential to replace Portland cement concrete (PCC) in extraterrestrial construction. The shape stability of 3D printed Martian sulfur-regolith concrete (SRC) was found to benefit from a lower substrate layer temperature. However, this comes at the cost of flexural strength, resulting in up to 53% strength loss. The printed SRC specimens demonstrated a significantly faster strength development rate (gaining about 85% of the ultimate strength after only 12 h) compared to the printed PCC. The printed SRC specimens also outperformed the PCC specimens in vacuum conditions at higher temperatures. Furthermore, modifying the SRC materials with Dicyclopentadiene resulted in up to 44% strength increase and minimized the sublimation rate of the printed specimens in vacuum, especially at an elevated temperature.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ahme_giwa_game_arce.2024.ARDLSAM/">Automated Reinforcement During Large-Scale Additive Manufacturing:<br/>Structural-Assessment of a Dual Approach</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../bani_voso_arce_noor.2024.EASMoSE3PS/">Early-Age Strength Monitoring of Sensor-Embedded 3D Printed Structures</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a></li>
@@ -79,8 +59,8 @@ tags:
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
       <li><a href="../../../author/boldini_alain"><b>Boldini</b> Alain</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bold_giwa_kame_kaze.2025.STPi3PSCfACoEaB/">Spatiotemporal Temperature Prediction in 3D-Printed Sulfur Concrete for Automated Construction on Earth and Beyond</a></li>
@@ -92,4 +72,34 @@ tags:
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/gopu_vijaya"><b>Gopu</b> Vijaya</a>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../giwa_kaze_gopu_rupn.2024.ACLBAo3PCE/">A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements</a></li>
       <li><a href="../../../author/li_xinyi"><b>Li</b> Xinyi</a>, <a href="../../../author/gao_yuyue"><b>Gao</b> Yuyue</a>, <a href="../../../author/zhou_yan"><b>Zhou</b> Yan</a>, <a href="../../../author/han_wenbin"><b>Han</b> Wenbin</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../li_gao_zhou_han.2024.ARoDaCotLLLI/">A Review on Design and Construction of the Lunar Launch/Landing Infrastructure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{giwa_demp_fisk_kaze.2024.3PSRCPEfWERC,
+      author            = "Ilerioluwa Giwa and Mary Dempsey and Michael R. Fiske and Ali Kazemian",
+      title             = "3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction",
+      doi               = "10.1016/j.autcon.2024.105571",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "165",
+      pages             = "105571",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Giwa, M. Dempsey, M. R. Fiske and A. Kazemian, “3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction”, <i>Automation in Construction</i>, vol. 165, p. 105571, 2024, doi: 10.1016/j.autcon.2024.105571.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Giwa, Ilerioluwa, Mary Dempsey, Michael R. Fiske, and Ali Kazemian. “3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction”. <i>Automation in Construction</i> 165 (2024): 105571. https://doi.org/10.1016/j.autcon.2024.105571.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wu Si 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
   <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/huang_mojia"><b>Huang</b> Mojia</a>, <a href="../../../author/xin_jie"><b>Xin</b> Jie</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_jian_huan_xin.2022.MEoAPDfCB3M/">Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials:<br/>Printability and Mechanical Performance Tests</a></li>
 </ol>

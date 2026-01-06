@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenguang Chen, Long Liang, Boyang Zhou, Junhong Ye, Xinjian Sun, Jiaxing Ma, Jiangtao Yu, Kequan Yu
+    - footer
+title: Chen Wenguang, Liang Long, Zhou Boyang, Ye Junhong, Sun Xinjian, Ma Jiaxing, Yu Jiangtao, Yu Kequan
 description:
 tags:
  - cement
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.engfracmech.2025.110894" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engfracmech.2025.110894</a>
+#A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engfracmech.2025.110894" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfracmech.2025.110894" target="_blank">10.1016/j.engfracmech.2025.110894</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_wenguang"><b>Chen</b>&nbsp;Wenguang</a></span>, <a href="../../../author/liang_long"><b>Liang</b>&nbsp;Long</a></span>, <a href="../../../author/zhou_boyang"><b>Zhou</b>&nbsp;Boyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/sun_xinjian"><b>Sun</b>&nbsp;Xinjian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8563-822X" title="ORCID: 0000-0001-8563-822X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_jiaxing"><b>Ma</b>&nbsp;Jiaxing</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Engineering Fracture Mechanics, No. 110894
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a> <a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liang_long"><b>Liang</b> Long</a>
-,     <a href="../../../author/zhou_boyang"><b>Zhou</b> Boyang</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_xinjian"><b>Sun</b> Xinjian</a>
-,     <a href="../../../author/ma_jiaxing"><b>Ma</b> Jiaxing</a> <a href="https://orcid.org/0000-0001-8563-822X" title="ORCID: 0000-0001-8563-822X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Fracture Mechanics, No. 110894
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#fracture`](keyword/fracture)
-    [`#mechanics`](keyword/mechanics)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#tension`](keyword/tension)
-    [`#toughness`](keyword/toughness)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/toughness"><button class="btn">#toughness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Fracture%20Mechanics%20Model%20for%20Predicting%20Tensile%20Strength%20and%20Fracture%20Toughness%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216935310&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,21 +41,16 @@ tags:
 <a href="https://inciteful.xyz/p/W4407087650" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engfracmech.2025.110894" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engfracmech.2025.110894?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Engineered cementitious composites (ECC) has emerged as a promising self-reinforced material for 3D printed concrete structures, which could potentially remove the dependence on steel reinforcement. The interfacial crack resistance of 3D printed ECC (3DP-ECC) should be emphasized due to the inherent layered stacking process. Tensile strength and fracture toughness are two critical fracture parameters in describing the crack resistance. Determining realistic fracture parameters is crucial for guiding structural safety design. This study aims to develop a fracture mechanics model for determining the size-independent interfacial tensile strength and fracture toughness of 3DP-ECC based on boundary effect model (BEM). Firstly, the interfacial fracture behavior of 3DP-ECC was experimentally investigated by three-point bending tests. A fracture mechanics model was subsequently proposed to predict the size-independent tensile strength and fracture toughness by incorporating the material heterogeneity and discontinuity. The results show that the interfacial tensile strength and fracture toughness of 3DP-ECC could be extrapolated analytically once the peak load was obtained by the three-point bending fracture test, and the predicted values of tensile strength and fracture toughness were proved to follow normal distribution. Additionally, the peak load prediction lines and fracture failure curves with 95 % confidence interval for 3DP-ECC were further constructed using the determined fracture parameters, demonstrating good accuracy and reliability. This work offers a theoretical basis for the safe and reasonable design of 3DP-ECC structural members.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/zhou_boyang"><b>Zhou</b> Boyang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC/">A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_yang_liu_xu.2024.CFFMfECRo3PFRAASFARSC/">Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_ye_jian_fedi.2024.PRf3PECC/">Printability Region for 3D Printable Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -111,14 +81,42 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
-      <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/zhou_boyang"><b>Zhou</b> Boyang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC/">A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC,
+      author            = "Wenguang Chen and Long Liang and Boyang Zhou and Junhong Ye and Xinjian Sun and Jiaxing Ma and Jiangtao Yu and Kequan Yu",
+      title             = "A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.engfracmech.2025.110894",
+      year              = "2025",
+      journal           = "Engineering Fracture Mechanics",
+      pages             = "110894",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Chen, “A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites”, <i>Engineering Fracture Mechanics</i>, p. 110894, 2025, doi: 10.1016/j.engfracmech.2025.110894.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Wenguang, Long Liang, Boyang Zhou, Junhong Ye, Xinjian Sun, Jiaxing Ma, Jiangtao Yu, and Kequan Yu. “A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites”. <i>Engineering Fracture Mechanics</i>, 2025, 110894. https://doi.org/10.1016/j.engfracmech.2025.110894.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

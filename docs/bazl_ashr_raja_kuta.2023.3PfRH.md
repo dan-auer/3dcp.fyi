@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Milad Bazli, Hamed Ashrafi, Ali Rajabipour, Cat Kutay
+    - footer
+title: Bazli Milad, Ashrafi Hamed, Rajabipour Ali, Kutay Cat
 description:
 tags:
  - benefit
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } 3D Printing for Remote Housing:<br/>:aca-blank: Benefits and Challenges ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.autcon.2023.104772" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.104772</a>
+#3D Printing for Remote Housing&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">Benefits and Challenges</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2023.104772" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104772" target="_blank">10.1016/j.autcon.2023.104772</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9027-6155" title="ORCID: 0000-0001-9027-6155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bazli_milad"><b>Bazli</b>&nbsp;Milad</a></span>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b>&nbsp;Hamed</a></span>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6682-979X" title="ORCID: 0000-0002-6682-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kutay_cat"><b>Kutay</b>&nbsp;Cat</a></span><br>
+Journal Article - Automation in Construction, Vol. 148
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a> <a href="https://orcid.org/0000-0001-9027-6155" title="ORCID: 0000-0001-9027-6155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>
-,     <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>
-,     <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="https://orcid.org/0000-0002-6682-979X" title="ORCID: 0000-0002-6682-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 148, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#benefit`](keyword/benefit)
-    [`#challenge`](keyword/challenge)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#remote`](keyword/remote)
-
-
--------------------------
+<a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/remote"><button class="btn">#remote</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20for%20Remote%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149710962&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319067264" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.104772" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104772?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing and in particular, concrete 3D printing has been suggested as one of the interesting solutions to unlock remote development, enhance the strength and capability of the local and national manufacturing and construction industries, and offer fast recovery in post-disaster scenarios. In this study, the remote housing construction challenges with a particular focus on Australian Northern Territory (NT) are reviewed and the feasibility and efficiency of using concrete 3D printing to tackle those challenges have been discussed. Besides the advantages of 3DP for remote housing, it’s limitations and concerns have also been presented. Finally, some completed 3D-printed construction projects in remote locations were introduced. According to the findings of this review, to establish whether 3D printing is practicable and desirable in remote locations, trade-offs between several aspects, including materials, structural design, process efficiency, logistics, labour, and environmental impact, must be taken into consideration. In the case of using local materials that meet the printability, buildability and robustness requirements, 3DP could be considered a cost-effective solution for remote housing. However, researchers, designers, and decision-makers should consider the options, such as remote on-site fabrication, available local materials and their quality, and the large-scale manufacturing process and concrete 3DP limitations when evaluating the feasibility of using 3DP in comparison to conventional construction methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/zou_na"><b>Zou</b> Na</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bhar_zou_pei.2018.AMfCIDaC/">Additive Manufacturing for Civil Infrastructure Design and Construction:<br/>Current State and Gaps</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -107,8 +89,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_zhan_yang_liu.2022.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials:<br/>Correction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "51 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/korol_ewelina"><b>Korol</b> Ewelina</a>, <a href="../../../author/jenta_arkadiusz"><b>Jenta</b> Arkadiusz</a>, <a href="../../../author/chaudhari_ojas"><b>Chaudhari</b> Ojas</a>, <a href="../../../author/wojcik_michal"><b>Wójcik</b> Michal</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../koro_jent_chau_wojc.2025.EIoCBUBMw3APT/">Experimental Investigation of Concrete Beams Under Bending, Manufactured with 3D Additive Printing Technology</a></li>
@@ -161,4 +143,33 @@ tags:
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../wan_yang_wang_ma.2023.GCPPf3CPMBS/">Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bazl_ashr_raja_kuta.2023.3PfRH,
+      author            = "Milad Bazli and Hamed Ashrafi and Ali Rajabipour and Cat Kutay",
+      title             = "3D Printing for Remote Housing: Benefits and Challenges",
+      doi               = "10.1016/j.autcon.2023.104772",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "148",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Bazli, H. Ashrafi, A. Rajabipour and C. Kutay, “3D Printing for Remote Housing: Benefits and Challenges”, <i>Automation in Construction</i>, vol. 148, 2023, doi: 10.1016/j.autcon.2023.104772.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bazli, Milad, Hamed Ashrafi, Ali Rajabipour, and Cat Kutay. “3D Printing for Remote Housing: Benefits and Challenges”. <i>Automation in Construction</i> 148 (2023). https://doi.org/10.1016/j.autcon.2023.104772.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

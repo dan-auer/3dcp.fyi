@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Mendoza Reales Oscar 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/ramallo_laura"><b>Ramallo</b> Laura</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_marq_rama_barl.2025.FaHPoCFRMf3PiC/">Fresh and Hardened Properties of Cellulose Fiber-Reinforced Mortars for 3D Printing in Construction</a></li>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_tole_mend.2025.RHBAf3PiC/">Rice Husk Bio-Aggregates for 3D Printing in Construction:<br/>Balancing Fresh and Hardened Properties</a></li>

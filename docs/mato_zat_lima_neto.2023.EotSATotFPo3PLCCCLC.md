@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paulo Matos, Tuani Zat, Marcelo Lima, José Neto, Marcelo Souza, Erich Rodríguez
+    - footer
+title: Matos Paulo, Zat Tuani, Lima Marcelo, Neto José, Souza Marcelo, Rodríguez Erich
 description:
 tags:
  - cement
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e02419) Effect of the Superplasticizer-Addition Time on the Fresh Properties of 3D Printed Limestone-Calcined-Clay-Cement (LC³) Concrete ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.cscm.2023.e02419" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e02419</a>
+#Effect of the Superplasticizer-Addition Time on the Fresh Properties of 3D Printed Limestone-Calcined-Clay-Cement (LC³) Concrete ([2023-08](date/2023/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02419) <a href="https://doi.org/10.1016/j.cscm.2023.e02419" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02419" target="_blank">10.1016/j.cscm.2023.e02419</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matos_ricardo_paulo"><b>de&nbsp;Matos</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1178-4341" title="ORCID: 0000-0003-1178-4341" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zat_tuani"><b>Zat</b>&nbsp;Tuani</a></span>, <a href="../../../author/lima_moraes_marcelo"><b>Lima</b>&nbsp;Marcelo</a></span>, <a href="../../../author/neto_silva-andrade_jose"><b>da&nbsp;Neto</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza_tramontin_marcelo"><b>Souza</b>&nbsp;Marcelo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1914-4541" title="ORCID: 0000-0003-1914-4541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_davi_erich"><b>Rodríguez</b>&nbsp;Erich</a></span><br>
+Journal Article - Case Studies in Construction Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/matos_ricardo_paulo"><b>de Matos</b> Paulo</a> <a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a> <a href="https://orcid.org/0000-0003-1178-4341" title="ORCID: 0000-0003-1178-4341" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lima_moraes_marcelo"><b>Lima</b> Marcelo</a>
-,     <a href="../../../author/neto_silva-andrade_jose"><b>da Neto</b> José</a>
-,     <a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a> <a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodriguez_davi_erich"><b>Rodríguez</b> Erich</a> <a href="https://orcid.org/0000-0003-1914-4541" title="ORCID: 0000-0003-1914-4541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#limestone`](keyword/limestone)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#superplasticizer`](keyword/superplasticizer)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20the%20Superplasticizer-Addition%20Time%20on%20the%20Fresh%20Properties%20of%203D%20Printed%20Limestone-Calcined-Clay-Cement%20%28LC%C2%B3%29%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170206522&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386052546" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e02419" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e02419?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Although 3D concrete printing (3DCP) is considered one of the most significant innovations in the construction sector, its large cement consumption remains an environmental concern. In response, limestone calcined clay cements (LC³) have emerged as a promising alternative to Portland cement (PC) due to their potential for reducing environmental impact. While previous studies have shown the influence of addition timing of superplasticizer (SP) on the fresh performance of PC, its impact on LC³, particularly in the context of 3DCP, remains less understood. This study assessed the effect of the SP addition time (either directly with the mixing water or with a 10-min delay) on the rheology and printing-related properties of LC³ and PC. Rotational rheometry and 3DP-related tests were conducted over two hours, besides hydration assessment through thermogravimetric analysis (TGA). The results showed that adding SP directly to LC³ led to significantly higher yield stress (1.2-2.5 times) and viscosity (14-59% higher) values compared to delayed SP addition within the same time frame. However, LC³ exhibited slower rates of yield stress and viscosity increase over time in contrast to PC (with Athix structuration rate approximately 92% lower for LC³). These tendencies influenced printability performance. While direct SP addition reduced PC's open time from 100 to 30 minutes, it had no impact on LC³'s open time, which remained at 80 minutes. TGA analysis yielded additional insights, highlighting that hydrating LC³ samples required a greater free water content to achieve the same yield stress as PC and this difference was attributed to the presence of calcined clay. These findings make contributions to the technical and scientific communities by enhancing comprehension of LC³ cement fresh behavior and solidifying 3DCP as a disruptive construction method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -98,8 +72,8 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
       <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>
@@ -115,4 +89,32 @@ tags:
       <li><a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/kim_in-ho"><b>Kim</b> In-Ho</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../rehm_riaz_usma_kim.2024.ADDAT3PCMP/">Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction</a></li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mato_zat_lima_neto.2023.EotSATotFPo3PLCCCLC,
+      author            = "Paulo Ricardo de Matos and Tuani Zat and Marcelo Moraes Lima and José Silva Andrade da Neto and Marcelo Tramontin Souza and Erich Davi Rodríguez",
+      title             = "Effect of the Superplasticizer-Addition Time on the Fresh Properties of 3D Printed Limestone-Calcined-Clay-Cement (LC³) Concrete",
+      doi               = "10.1016/j.cscm.2023.e02419",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. R. de Matos, T. Zat, M. M. Lima, J. S. A. da Neto, M. T. Souza and E. D. Rodríguez, “Effect of the Superplasticizer-Addition Time on the Fresh Properties of 3D Printed Limestone-Calcined-Clay-Cement (LC³) Concrete”, <i>Case Studies in Construction Materials</i>, 2023, doi: 10.1016/j.cscm.2023.e02419.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Matos, Paulo Ricardo de, Tuani Zat, Marcelo Moraes Lima, José Silva Andrade da Neto, Marcelo Tramontin Souza, and Erich Davi Rodríguez. “Effect of the Superplasticizer-Addition Time on the Fresh Properties of 3D Printed Limestone-Calcined-Clay-Cement (LC³) Concrete”. <i>Case Studies in Construction Materials</i>, 2023. https://doi.org/10.1016/j.cscm.2023.e02419.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

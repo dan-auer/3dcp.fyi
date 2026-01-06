@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kun-Hao Yu, Teng Teng, So Nah, Hua Chai, Yefan Zhi, Kun-Yu Wang, Yinding Chi, Peter Psarras, Masoud Akbarzadeh, Shu Yang
+    - footer
+title: Yu Kun-Hao, Teng Teng, Nah So, Chai Hua, Zhi Yefan, Wang Kun-Yu, Chi Yinding, Psarras Peter, Akbarzadeh Masoud, Yang Shu
 description:
 tags:
  - carbon
@@ -16,38 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202509259) 3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1002/adfm.202509259" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/adfm.202509259</a>
+#3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202509259) <a href="https://doi.org/10.1002/adfm.202509259" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/adfm.202509259" target="_blank">10.1002/adfm.202509259</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2306-1175" title="ORCID: 0000-0003-2306-1175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kun-hao"><b>Yu</b>&nbsp;Kun-Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6460-7109" title="ORCID: 0000-0001-6460-7109" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_teng"><b>Teng</b>&nbsp;Teng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1564-201X" title="ORCID: 0000-0002-1564-201X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nah_hee_so"><b>Nah</b>&nbsp;So</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-1276-7705" title="ORCID: 0009-0005-1276-7705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chai_hua"><b>Chai</b>&nbsp;Hua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1654-4865" title="ORCID: 0000-0003-1654-4865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_yefan"><b>Zhi</b>&nbsp;Yefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8982-0547" title="ORCID: 0000-0001-8982-0547" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kun-yu"><b>Wang</b>&nbsp;Kun-Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2674-721X" title="ORCID: 0000-0003-2674-721X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chi_yinding"><b>Chi</b>&nbsp;Yinding</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5302-3412" title="ORCID: 0000-0002-5302-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/psarras_peter"><b>Psarras</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b>&nbsp;Masoud</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8834-3320" title="ORCID: 0000-0001-8834-3320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_shu"><b>Yang</b>&nbsp;Shu</a></span><br>
+Journal Article - Advanced Functional Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yu_kun-hao"><b>Yu</b> Kun-Hao</a> <a href="https://orcid.org/0000-0003-2306-1175" title="ORCID: 0000-0003-2306-1175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teng_teng"><b>Teng</b> Teng</a> <a href="https://orcid.org/0000-0001-6460-7109" title="ORCID: 0000-0001-6460-7109" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nah_hee_so"><b>Nah</b> So</a> <a href="https://orcid.org/0000-0002-1564-201X" title="ORCID: 0000-0002-1564-201X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> <a href="https://orcid.org/0009-0005-1276-7705" title="ORCID: 0009-0005-1276-7705" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> <a href="https://orcid.org/0000-0003-1654-4865" title="ORCID: 0000-0003-1654-4865" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_kun-yu"><b>Wang</b> Kun-Yu</a> <a href="https://orcid.org/0000-0001-8982-0547" title="ORCID: 0000-0001-8982-0547" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chi_yinding"><b>Chi</b> Yinding</a> <a href="https://orcid.org/0000-0003-2674-721X" title="ORCID: 0000-0003-2674-721X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/psarras_peter"><b>Psarras</b> Peter</a> <a href="https://orcid.org/0000-0002-5302-3412" title="ORCID: 0000-0002-5302-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_shu"><b>Yang</b> Shu</a> <a href="https://orcid.org/0000-0001-8834-3320" title="ORCID: 0000-0001-8834-3320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advanced Functional Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#minimum`](keyword/minimum)
-    [`#period`](keyword/period)
-    [`#print`](keyword/print)
-    [`#storage`](keyword/storage)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/minimum"><button class="btn">#minimum</button></a> <a href="../../keyword/period"><button class="btn">#period</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20of%20Triply%20Periodic%20Minimum%20Surfaces%20for%20Enhanced%20Carbon%20Capture%20and%20Storage" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006560572&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,22 +38,47 @@ tags:
 <a href="https://inciteful.xyz/p/W4410709704" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/adfm.202509259" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/adfm.202509259?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete, the world's second most utilized material after water, is responsible for 8% of global greenhouse emissions. Current carbon capturing and storage (CCS) concrete often involves convoluted processes, slow kinetics, limited CO2 uptake, non-uniform carbonation in structures, and high cost. Efforts to enhance carbon sequestration often rely on increasing porosities, which compromise the mechanical strength of the resulting concrete. The 3D printing of CCS concrete is reported by incorporating diatomaceous earth (DE), a highly accessible biomineral with hierarchical porosity, into triply periodic minimal surface (TPMS) structures. DE enables stable extrusion, high print fidelity, and reduced density, which are crucial for 3D concrete printing. Further, DE facilitates CaCO3 nucleation within the concrete and mitigates carbonation resistance, achieving a maximum CO2 absorption of 488.7 gCO2 per kg cement in 7 days, a 142% increase over conventional concrete. Optimizing TPMS geometry further enhances carbonation efficiency by enabling uniform CO2 uptake throughout the structure. This geometry refinement reduces material usage by 78% and increases the surface-area-to-volume ratio by 515%, leading to a 30% higher CO2 uptake while preserving mechanical integrity. The material strategy, together with the optimized concrete printing of TPMS structures, offers a pathway toward scalable and sustainable solutions without undermining concrete's structural functions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
       <li><a href="../../../author/alvarez_maria_luisa"><b>Álvarez</b> Luisa</a>, <a href="../../../author/fernandez_brian"><b>Fernandez</b> Brian</a>, <a href="../../../author/saldarriaga_federico"><b>Saldarriaga</b> Federico</a>, <a href="../../../author/romero_hector"><b>Romero</b> Héctor</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../alva_fern_sald_rome.2025.DaBEoPDGf3PCW/">Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yu_teng_nah_chai.2025.3CPoTPMSfECCaS,
+      author            = "Kun-Hao Yu and Teng Teng and So Hee Nah and Hua Chai and Yefan Zhi and Kun-Yu Wang and Yinding Chi and Peter Psarras and Masoud Akbarzadeh and Shu Yang",
+      title             = "3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage",
+      doi               = "10.1002/adfm.202509259",
+      year              = "2025",
+      journal           = "Advanced Functional Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-H. Yu, “3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage”, <i>Advanced Functional Materials</i>, 2025, doi: 10.1002/adfm.202509259.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yu, Kun-Hao, Teng Teng, So Hee Nah, Hua Chai, Yefan Zhi, Kun-Yu Wang, Yinding Chi, Peter Psarras, Masoud Akbarzadeh, and Shu Yang. “3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage”. <i>Advanced Functional Materials</i>, 2025. https://doi.org/10.1002/adfm.202509259.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

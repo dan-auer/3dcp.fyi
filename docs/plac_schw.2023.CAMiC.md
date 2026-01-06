@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gerrit Placzek, Patrick Schwerdtner
+    - footer
+title: Placzek Gerrit, Schwerdtner Patrick
 description:
 tags:
  - additive
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/7/1769/pdf?version=1689087745) Concrete Additive Manufacturing in Construction:<br/>:aca-blank: Integration Based on Component-Related Fabrication-Strategies ([2023-07](date/2023/07))
-<a href="https://doi.org/10.3390/buildings13071769" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13071769</a>
+#Concrete Additive Manufacturing in Construction&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">Integration Based on Component-Related Fabrication-Strategies</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/7/1769/pdf?version=1689087745) <a href="https://doi.org/10.3390/buildings13071769" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13071769" target="_blank">10.3390/buildings13071769</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 7, No. 1769
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> <a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 7, No. 1769
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#fabrication`](keyword/fabrication)
-    [`#integration`](keyword/integration)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#relation`](keyword/relation)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166200629&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4384067995" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13071769" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13071769?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) with concrete, also known as concrete 3D printing, is one of the most interesting approaches for disrupting the construction industry and is currently subject to numerous research activities worldwide. AM has great potential to decrease labour costs and increase the material efficiency and geometric complexity of non-standardised building components. Although prior investigations have shown various fields of application for AM with concrete, the full potential with respect to different structural component types has not been covered yet. With this paper, an up-to-date review of fabrication strategies for the main structural components, (1) walls, (2) columns, (3) slabs, and (4) beams, is provided to identify trends and existing challenges. Therefore, firstly, AM methods and their underlying principles and characteristics for concrete components are presented, and secondly, fabrication strategies for each AM method are shown. The investigation uncovers different AM strategies (direct part vs. indirect “permanent formwork”; in situ, on-site, or off-site), which are currently being used. As a result, future applications of AM will require a hybrid manufacturing strategy combining conventional and additive manufacturing to fully explore its potential.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "78 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -148,8 +127,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/gonsalves_a_nicolas"><b>Gonsalves</b> Nicolas</a>, <a href="../../../author/morgan_ashlei"><b>Morgan</b> Ashlei</a>, <a href="../../../author/thiele_heidi"><b>Thiele</b> Heidi</a>, <a href="../../../author/olarra_andre"><b>Olarra</b> Andre</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gons_morg_thie_olar.2025.3PoSIURSCCwBA/">3D Printing of Sustainable Infrastructure Using Rapid-Set Clay Concrete with Biobased Additives</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
@@ -165,4 +144,35 @@ tags:
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../plac_schw.2023.FPtS/">From Process to System:<br/>A Review on the Implications of Concrete 3D Printing on Project Delivery</a></li>
       <li><a href="../../../author/taher_ammar"><b>Taher</b> Ammar</a>, <a href="../../../author/asut_serdar"><b>Aşut</b> Serdar</a>, <a href="../../../author/spoel_willem"><b>Spoel</b> Willem</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tahe_asut_spoe.2023.AIWfDaFMFBCTAMwC/">An Integrated Workflow for Designing and Fabricating Multi-Functional Building Components Through Additive Manufacturing with Clay</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{plac_schw.2023.CAMiC,
+      author            = "Gerrit Placzek and Patrick Schwerdtner",
+      title             = "Concrete Additive Manufacturing in Construction: Integration Based on Component-Related Fabrication-Strategies",
+      doi               = "10.3390/buildings13071769",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "7",
+      pages             = "1769",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Placzek  and P. Schwerdtner, “Concrete Additive Manufacturing in Construction: Integration Based on Component-Related Fabrication-Strategies”, <i>Buildings</i>, vol. 13, no. 7, p. 1769, 2023, doi: 10.3390/buildings13071769.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Placzek, Gerrit, and Patrick Schwerdtner. “Concrete Additive Manufacturing in Construction: Integration Based on Component-Related Fabrication-Strategies”. <i>Buildings</i> 13, no. 7 (2023): 1769. https://doi.org/10.3390/buildings13071769.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

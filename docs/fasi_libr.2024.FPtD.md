@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Fasihi, Nicolas Libre
+    - footer
+title: Fasihi Ali, Libre Nicolas
 description:
 tags:
  - character
@@ -17,31 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} From Pumping to Deposition:<br/>:aca-blank: A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.134968" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.134968</a>
+#From Pumping to Deposition&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.134968" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.134968" target="_blank">10.1016/j.conbuildmat.2024.134968</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7372-653X" title="ORCID: 0000-0001-7372-653X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fasihi_ali"><b>Fasihi</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/libre_ali_nicolas"><b>Libre</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 414, No. 134968
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a> <a href="https://orcid.org/0000-0001-7372-653X" title="ORCID: 0000-0001-7372-653X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 414, No. 134968
-
-:aca-blank:{ .lg .middle}
-    [`#character`](keyword/character)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#deposition`](keyword/deposition)
-    [`#method`](keyword/method)
-    [`#printability`](keyword/printability)
-    [`#pump`](keyword/pump)
-    [`#review`](keyword/review)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Pumping%20to%20Deposition" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183467891&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390959633" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.134968" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.134968?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) technology has gained significant attention in the construction industry due to its potential to revolutionize the way buildings are designed and constructed. However, successful application of 3DCP requires robust standard test procedures to characterize the printability of concrete. Printability is a measure of workability for a printing material in the 3DCP process, which is characterized by pumpability, extrudability, and buildability. This paper presents a comprehensive review of the test methods that could be used for material characterization during various printing steps, including pumping, extrusion, and layer deposition. The underlying mechanisms relevant to each step, key governing factors, and prediction models are highlighted. The influence of the variation of material and process-induced parameters on the properties of fresh concrete are explained, and the optimum parameters that will lead to an extrudable yet shape-stable printing material are discussed. The recent research on the pumpability, extrudability, and buildability of printed concrete is critically discussed, and future research needs for testing and evaluating 3DCP are identified.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "83 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/gawady_mohamed"><b>Gawady</b> Mohamed</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../abud_goma_ghen_gawa.2022.DMPfCCFABAA3PCM/">Developing Mix Proportions for Class C Fly-Ash-Based Alkali-Activated 3D Printed Concrete Mixtures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
@@ -135,7 +115,6 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../vait_sere_kers.2018.EoUSAoEHPi3CPT/">Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../vall_farz_khay.2021.EoFBaPIVoSSo3PE/">Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>A Review</a></li>
-      <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../vall_libr_khay.2024.CoEURaD/">Characterization of Extrudability Using Rheology and Desorptivity</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
@@ -152,8 +131,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/huang_qunyi"><b>Huang</b> Qunyi</a>, <a href="../../../author/huang_qingyu"><b>Huang</b> Qingyu</a>, <a href="../../../author/yang_hong"><b>Yang</b> Hong</a>, <a href="../../../author/zhang_jiahang"><b>Zhang</b> Jiahang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_huan_yang_zhan.2026.RotWo3PFRCM/">Research on the Workability of 3D Printed Fiber-Reinforced Concrete Materials</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
@@ -176,4 +155,34 @@ tags:
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../givk_mood_rame.2024.EoPPotPo3PCCAEA/">Effect of Pumping Process on the Properties of 3D Printed Concrete Containing Air-Entraining-Agent</a></li>
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fasi_libr.2024.FPtD,
+      author            = "Ali Fasihi and Nicolas Ali Libre",
+      title             = "From Pumping to Deposition: A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability",
+      doi               = "10.1016/j.conbuildmat.2024.134968",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "414",
+      pages             = "134968",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Fasihi  and N. A. Libre, “From Pumping to Deposition: A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability”, <i>Construction and Building Materials</i>, vol. 414, p. 134968, 2024, doi: 10.1016/j.conbuildmat.2024.134968.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fasihi, Ali, and Nicolas Ali Libre. “From Pumping to Deposition: A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability”. <i>Construction and Building Materials</i> 414 (2024): 134968. https://doi.org/10.1016/j.conbuildmat.2024.134968.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

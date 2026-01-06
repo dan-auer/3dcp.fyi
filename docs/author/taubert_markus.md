@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Taubert Markus 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/gomzyakov_albert"><b>Gomzyakov</b> Albert</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/sokolov_dmitrii"><b>Sokolov</b> Dmitrii</a>, <a href="../../../author/reuter_uwe"><b>Reuter</b> Uwe</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gomz_taub_soko_reut.2024.SfMBPoCRf3STG/">Setup for ML-Based Prediction of Concrete Rheology from 3D Slump-Test-Geometry</a></li>

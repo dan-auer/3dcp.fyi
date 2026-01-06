@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gunasekaran Murali, Sing Leong
+    - footer
+title: Murali Gunasekaran, Leong Sing
 description:
 tags:
  - concrete
@@ -17,31 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Waste-Driven Construction:<br/>:aca-blank: A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111268" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111268</a>
+#Waste-Driven Construction&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111268" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111268" target="_blank">10.1016/j.jobe.2024.111268</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1151-0853" title="ORCID: 0000-0002-1151-0853" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/murali_gunasekaran"><b>Murali</b>&nbsp;Gunasekaran</a></span>, <a href="../../../author/leong_sing"><b>Leong</b>&nbsp;Sing</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111268
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a> <a href="https://orcid.org/0000-0002-1151-0853" title="ORCID: 0000-0002-1151-0853" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leong_sing"><b>Leong</b> Sing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111268
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Waste-Driven%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208231414&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404093895" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111268" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111268?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The concrete 3D printing sector can advance sustainable development by formulating environmentally-friendly materials incorporating waste as supplementary cementitious materials. Addressing the high cement content in printed materials is crucial for the sustainability of this rapidly evolving technology in concrete digital fabrication. This article comprehensively explores utilizing waste materials in 3D-printing concrete. This literature review encompasses discussions on various waste materials to formulate 3D printable compositions. It explores the chemical properties and microstructure of these raw materials and their impact on the rheological and mechanical properties of the resulting mixtures. Additionally, the literature review includes discussions on X-ray diffraction and scanning electron microscopy analyses, focusing on their applications in examining the microstructure. Environmental sustainability aspects related to these materials are also reviewed and discussed. This review offers a novel perspective on using waste materials in 3D printing, which is not extensively covered in existing literature. The incorporation of various waste materials significantly impacts the construction process of 3D-printing by altering key properties, including rheological and mechanical properties. These properties varied depending on the type of waste material used. The study demonstrates that the compressive strength of 3D-printed concrete is significantly influenced by the type of waste materials incorporated and the orientation of the printed specimens. Including waste in 3D-printing concrete reduces carbon emissions and energy consumption compared to using pure ordinary Portland cement mixtures. The review paper is significant as it highlights the potential for waste materials in 3D-printed concrete to promote environmental sustainability by reducing cement usage, improving mechanical properties, and decreasing carbon emissions and energy consumption, while offering a comprehensive analysis of the chemical and microstructural effects of these materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "126 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
@@ -194,8 +174,8 @@ tags:
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhon_huan_liu_wang.2025.DSfECCi3PSSM/">Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>Material Modification and Curing Process Innovation</a></li>
       <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a></li>
@@ -203,4 +183,33 @@ tags:
       <li><a href="../../../author/casanova_euro"><b>Casanova</b> Euro</a>, <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b> Nelson</a>, <a href="../../../author/valdebenito_michael"><b>Valdebenito</b> Michael</a>, <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../casa_hida_vald_forc.2025.ORoCCWMwAC/">Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction</a></li>
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mura_leon.2024.WDC,
+      author            = "Gunasekaran Murali and Sing Leong",
+      title             = "Waste-Driven Construction: A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development",
+      doi               = "10.1016/j.jobe.2024.111268",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111268",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Murali  and S. Leong, “Waste-Driven Construction: A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development”, <i>Journal of Building Engineering</i>, p. 111268, 2024, doi: 10.1016/j.jobe.2024.111268.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Murali, Gunasekaran, and Sing Leong. “Waste-Driven Construction: A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development”. <i>Journal of Building Engineering</i>, 2024, 111268. https://doi.org/10.1016/j.jobe.2024.111268.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Xin Li, Yiwen Wu, Huawei Liu, Yisheng Meng
+    - footer
+title: Liu Chao, Li Xin, Wu Yiwen, Liu Huawei, Meng Yisheng
 description:
 tags:
  - concrete
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106059" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106059</a>
+#Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106059" target="_blank">10.1016/j.cemconcomp.2025.106059</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/li_xin"><b>Li</b>&nbsp;Xin</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/meng_yisheng"><b>Meng</b>&nbsp;Yisheng</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 160, No. 106059
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_xin"><b>Li</b> Xin</a>
-,     <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meng_yisheng"><b>Meng</b> Yisheng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 160, No. 106059
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#external`](keyword/external)
-    [`#green`](keyword/green)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-    [`#state`](keyword/state)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/external"><button class="btn">#external</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20External%20Loading%20on%20the%20Time-Dependent%20Evolution%20of%203D%20Printed%20Concrete%20with%20Recycled%20Sand%20in%20the%20Green%20State" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001148918&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409002424" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106059" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106059?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     External loads are critical to the structural stability and construction precision of 3D printed concrete (3DPC) in the green state. However, in-depth research on this issue remains limited. This study prepared 3D printed concrete with recycled sand (3DPCRS) at replacement ratios of 0 %, 50 %, and 100 % and investigated the time-dependent evolution of 3DPCRS structures in the green state under stepwise loading. Using digital image analysis, the displacement and deformation characteristics of 3DPCRS structures were examined. Additionally, static rheological tests and unconfined uniaxial compression tests were conducted to evaluate the rheological properties and green strength of 3DPCRS. The results indicated that as the recycled sand (RS) replacement ratio increases, the plastic zone area of 3DPCRS structures in the green state under loading gradually decreases. Two displacement modes were identified under loading: instantaneous sudden displacement and static creep displacement, both of which decrease with increasing RS replacement ratio. Furthermore, the yield stress and development rate of the green strength of 3DPCRS accelerate as the RS replacement ratio increases. This study elucidates the mechanisms governing the time-dependent evolution of 3DPCRS structures under loading and proposes a bearing capacity calculation model for vertical loading on the basis of structural parameters. These findings provide valuable guidance for the construction and design of 3DPC structures under loading conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chan_lian_xu_wan.2023.EACo3PM/">Early-Age Creep of 3D Printable Mortar:<br/>Experiments and Analytical Modelling</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ding_wang_liu_xiao.2023.SoPOPoSBf3PC/">Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete</a></li>
@@ -112,10 +86,40 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS,
+      author            = "Chao Liu and Xin Li and Yiwen Wu and Huawei Liu and Yisheng Meng",
+      title             = "Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State",
+      doi               = "10.1016/j.cemconcomp.2025.106059",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "160",
+      pages             = "106059",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, X. Li, Y. Wu, H. Liu and Y. Meng, “Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State”, <i>Cement and Concrete Composites</i>, vol. 160, p. 106059, 2025, doi: 10.1016/j.cemconcomp.2025.106059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Xin Li, Yiwen Wu, Huawei Liu, and Yisheng Meng. “Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State”. <i>Cement and Concrete Composites</i> 160 (2025): 106059. https://doi.org/10.1016/j.cemconcomp.2025.106059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

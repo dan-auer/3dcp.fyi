@@ -8,7 +8,7 @@ search:
 
 # #capacity
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO/">Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization</a></li>
   <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sana_lito.2025.LBCot3PCSBoaSAaLTiS11/">Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1</a></li>
   <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_raza_wang_fan.2025.AoPTCiN3PT/">Assessment of Post-Tension Capacity in Novel 3D-Printed Topology:<br/>Optimized Formwork via Load Transfer Testing</a></li>

@@ -8,7 +8,8 @@ search:
 
 # #column
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
   <li><a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bate_asla.2025.Po3PCCwGRUAC/">Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression</a></li>
   <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>
   <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guan_wang_bai_ma.2025.E3PFCvFHSCR/">Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement</a></li>

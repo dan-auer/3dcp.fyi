@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Haoran Liu, Jianzhuang Xiao, Tao Ding
+    - footer
+title: Liu Haoran, Xiao Jianzhuang, Ding Tao
 description:
 tags:
  - aggregate
@@ -21,36 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flexural Performance of 3D Printed Composite Beams with ECC and Recycled Fine Aggregate Concrete:<br/>:aca-blank: Experimental and Numerical Analysis ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.engstruct.2023.115865" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.115865</a>
+#Flexural Performance of 3D Printed Composite Beams with ECC and Recycled Fine Aggregate Concrete&nbsp;([2023-03](date/2023/03))
+<div class="h1-like">Experimental and Numerical Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.115865" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.115865" target="_blank">10.1016/j.engstruct.2023.115865</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_haoran"><b>Liu</b>&nbsp;Haoran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span><br>
+Journal Article - Engineering Structures, Vol. 283
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> <a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 283, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#analysis`](keyword/analysis)
-    [`#beam`](keyword/beam)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#ecc`](keyword/ecc)
-    [`#experiment`](keyword/experiment)
-    [`#fine`](keyword/fine)
-    [`#flexural`](keyword/flexural)
-    [`#numeric`](keyword/numeric)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Performance%20of%203D%20Printed%20Composite%20Beams%20with%20ECC%20and%20Recycled%20Fine%20Aggregate%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149392932&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4322753789" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.115865" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.115865?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To overcome the difficulties of placing steel bars in 3D-printed concrete (3DPC), a novel reinforcement method combining engineered cementitious composites (ECC) and recycled fine aggregate concrete (RFAC) was proposed. Experiments on the flexural performance of 3D-printed composite beams with various ECC heights (15, 30, and 45 mm) and shear-span ratios (2.0, 2.5, and 3.0) were carried out. The test results indicated that the beams failed by bending, and the load-bearing capacities with ECC heights of 30 and 45 mm are roughly equivalent to those of the reinforced concrete beams with the longitudinal reinforcement ratios of 0.2%. Subsequently, a finite element model considering printed interfaces was established. The effects of interfacial bond strength, ECC height, and ECC strength on flexural performance were explored through a parametric study. The load-bearing capacity improvement by the increase of ECC height and strength may be limited by the bond strength of the printed interfaces.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -100,8 +75,9 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "52 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -154,4 +130,33 @@ tags:
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../shah_li.2023.AIMfBAo3PCaEA/">An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sala_jaya.2023.EoPPoIFVBaGDiC3PS/">Effect of Printing Parameters on Inter-Filament Voids, Bonding, and Geometrical Deviation in Concrete 3D Printed Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_xiao_ding.2023.FPo3PCBwEaRFAC,
+      author            = "Haoran Liu and Jianzhuang Xiao and Tao Ding",
+      title             = "Flexural Performance of 3D Printed Composite Beams with ECC and Recycled Fine Aggregate Concrete: Experimental and Numerical Analysis",
+      doi               = "10.1016/j.engstruct.2023.115865",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "283",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Liu, J. Xiao and T. Ding, “Flexural Performance of 3D Printed Composite Beams with ECC and Recycled Fine Aggregate Concrete: Experimental and Numerical Analysis”, <i>Engineering Structures</i>, vol. 283, 2023, doi: 10.1016/j.engstruct.2023.115865.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Haoran, Jianzhuang Xiao, and Tao Ding. “Flexural Performance of 3D Printed Composite Beams with ECC and Recycled Fine Aggregate Concrete: Experimental and Numerical Analysis”. <i>Engineering Structures</i> 283 (2023). https://doi.org/10.1016/j.engstruct.2023.115865.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

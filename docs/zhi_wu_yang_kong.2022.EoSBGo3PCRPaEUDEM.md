@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peng Zhi, Yuching Wu, Qianfan Yang, Xiangrui Kong, Jianzhuang Xiao
+    - footer
+title: Zhi Peng, Wu Yuching, Yang Qianfan, Kong Xiangrui, Xiao Jianzhuang
 description:
 tags:
  - concrete
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.autcon.2022.104199" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104199</a>
+#Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104199" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104199" target="_blank">10.1016/j.autcon.2022.104199</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_peng"><b>Zhi</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_yuching"><b>Wu</b>&nbsp;Yuching</a></span>, <a href="../../../author/yang_qianfan"><b>Yang</b>&nbsp;Qianfan</a></span>, <a href="../../../author/kong_xiangrui"><b>Kong</b>&nbsp;Xiangrui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
+Journal Article - Automation in Construction, Vol. 137
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a> <a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> <a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>
-,     <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 137, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#discrete`](keyword/discrete)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#geometry`](keyword/geometry)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Spiral%20Blade%20Geometry%20on%203D%20Printed%20Concrete%20Rheological%20Properties%20and%20Extrudability%20Using%20Discrete%20Event%20Modeling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126367362&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220911435" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104199" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104199?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Sizes and shapes of spiral blades have a great influence on 3D printable concrete construction. This study is presented to answer two research questions: How does spiral blade geometry affect rheological properties of 3D printing mixtures? What are effects of the rheological properties of 3D printing mixture on final extrudability? The discrete element model formed by particles bonded with liquid bridges is used to analyze the influence of 3D printer blade size, shape, and rotation speed on the extrudability of cement-based materials. It is demonstrated that effects of spiral blade geometry on rheological properties and resulting extrudability of 3D printing mixtures are considerable. The research results could be good references about geometry of spiral blades for 3D concrete printing industry. However, the microscopic time-varying constitutive model of particle bonding has not been generated in this paper. It might be one of the future research directions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -88,8 +64,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/yang_pu"><b>Yang</b> Pu</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yang_nair_neit.2019.DESoRRoCBaAt3P/">Discrete Element Simulations of Rheological Response of Cementitious Binders as Applied to 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/shen_liang"><b>Shen</b> Liang</a>, <a href="../../../author/su_shiyong"><b>Su</b> Shiyong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../cui_ji_shen_su.2025.ANNBMfA3PCPiRF/">A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication</a></li>
@@ -119,4 +95,33 @@ tags:
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM,
+      author            = "Peng Zhi and Yuching Wu and Qianfan Yang and Xiangrui Kong and Jianzhuang Xiao",
+      title             = "Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling",
+      doi               = "10.1016/j.autcon.2022.104199",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "137",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Zhi, Y. Wu, Q. Yang, X. Kong and J. Xiao, “Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling”, <i>Automation in Construction</i>, vol. 137, 2022, doi: 10.1016/j.autcon.2022.104199.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhi, Peng, Yuching Wu, Qianfan Yang, Xiangrui Kong, and Jianzhuang Xiao. “Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling”. <i>Automation in Construction</i> 137 (2022). https://doi.org/10.1016/j.autcon.2022.104199.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

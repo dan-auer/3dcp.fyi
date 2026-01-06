@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shoukat Khan, Hüseyin İlcan, Ramsha Imram, Ehsan Aminipour, Oğuzhan Şahin, Ans Rashid, Mustafa Şahmaran, Muammer Koç
+    - footer
+title: Khan Shoukat, İlcan Hüseyin, Imram Ramsha, Aminipour Ehsan, Şahin Oğuzhan, Rashid Ans, Şahmaran Mustafa, Koç Muammer
 description:
 tags:
  - base
@@ -20,40 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rineng.2024.101864) The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures:<br/>:aca-blank: Numerical Modeling and Experimental Validation ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.rineng.2024.101864" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2024.101864</a>
+#The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">Numerical Modeling and Experimental Validation</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2024.101864) <a href="https://doi.org/10.1016/j.rineng.2024.101864" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2024.101864" target="_blank">10.1016/j.rineng.2024.101864</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <a href="../../../author/imram_ramsha"><b>Imram</b>&nbsp;Ramsha</a></span>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rashid_ans"><b>al&nbsp;Rashid</b>&nbsp;Ans</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Results in Engineering, Vol. 21, No. 101864
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> <a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>
-,     <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rashid_ans"><b>al Rashid</b> Ans</a> <a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, Vol. 21, No. 101864
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#diameter`](keyword/diameter)
-    [`#experiment`](keyword/experiment)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#model`](keyword/model)
-    [`#nozzle`](keyword/nozzle)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#speed`](keyword/speed)
-    [`#structure`](keyword/structure)
-    [`#validation`](keyword/validation)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/diameter"><button class="btn">#diameter</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/speed"><button class="btn">#speed</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Impact%20of%20Nozzle-Diameter%20and%20Printing%20Speed%20on%20Geopolymer-Based%203D%20Printed%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183953695&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391344004" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2024.101864" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2024.101864?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is a promising technology with significant advantages for the construction industry, encompassing reduced labor costs, diminished carbon dioxide emissions, enhanced time efficiency, improved user convenience, and design flexibility. To ensure optimal structural outcomes and resource efficiency, integrating numerical modeling and simulation is imperative for predicting structural behavior and identifying potential premature failures in 3DCP. Despite the recognized importance of this integration, the impact of different printing parameters on numerical models, particularly with variations in printing speed and printing layer, remains an unexplored area. This research delves into the influence of crucial printing parameters, specifically printing speed and nozzle diameter, on the buildability of 3D-printed structures within the built environment. A comprehensive experimental analysis is conducted on geopolymer-based 3D-printed structures, encompassing diverse process parameters associated with 3D printing (3DP) technology. A numerical model is deployed to predict the buildability of these structures, and its results are compared with experimental findings, assessing the efficacy of numerical modeling under varying printing parameter conditions. Rigorous characterization of input material properties is undertaken to ensure the accuracy of numerical simulations. Experimental results showcase favorable processability and buildability of geopolymer materials derived from novel Construction and Demolition Waste (CDW). Findings indicate that an increased nozzle size, reflected in greater layer height and width, positively influences buildability, whereas higher printing speeds correlate with reduced buildability. The numerical model successfully captures these buildability trends, though with an error ranging from 32 % to 45 % in predicting failure in 3D-printed structures. Nevertheless, the overall performance of the numerical model remains reliable in predicting the influence of printing parameters on buildability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -100,8 +71,10 @@ tags:
       <li><a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b> Charbel</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../sakk_assa_hamz_nakh.2019.TaIBSoPMPM/">Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
@@ -127,4 +100,34 @@ tags:
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../baba_norv_kola_paul.2024.3PLCCCCIRPW/">3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>RESIN8</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_ilca_imra_amin.2024.TIoNDaPSoGB3PCS,
+      author            = "Shoukat Alim Khan and Hüseyin İlcan and Ramsha Imram and Ehsan Aminipour and Oğuzhan Şahin and Ans Al Rashid and Mustafa Şahmaran and Muammer Koç",
+      title             = "The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures: Numerical Modeling and Experimental Validation",
+      doi               = "10.1016/j.rineng.2024.101864",
+      year              = "2024",
+      journal           = "Results in Engineering",
+      volume            = "21",
+      pages             = "101864",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. A. Khan, “The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures: Numerical Modeling and Experimental Validation”, <i>Results in Engineering</i>, vol. 21, p. 101864, 2024, doi: 10.1016/j.rineng.2024.101864.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Shoukat Alim, Hüseyin İlcan, Ramsha Imram, Ehsan Aminipour, Oğuzhan Şahin, Ans Al Rashid, Mustafa Şahmaran, and Muammer Koç. “The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures: Numerical Modeling and Experimental Validation”. <i>Results in Engineering</i> 21 (2024): 101864. https://doi.org/10.1016/j.rineng.2024.101864.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

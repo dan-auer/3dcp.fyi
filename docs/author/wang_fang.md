@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wang Fang 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hu_tingyu"><b>Hu</b> Tingyu</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../ma_hu_wang_liu.2023.MPCfPB3CP/">Magnesium Phosphate Cement for Powder-Based 3D Concrete Printing:<br/>Systematic Evaluation and Optimization of Printability and Printing Quality</a></li>
   <li><a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xia_bi_wu_wang.2023.ILDMvSOaPPfME/">Integrated Lightweight Design-Method via Structural Optimization and Path-Planning for Material-Extrusion</a></li>
   <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>

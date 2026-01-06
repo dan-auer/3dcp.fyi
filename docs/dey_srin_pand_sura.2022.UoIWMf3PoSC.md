@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dhrutiman Dey, Dodda Srinivas, Biranchi Panda, Prannoy Suraneni, Thallak Sitharam
+    - footer
+title: Dey Dhrutiman, Srinivas Dodda, Panda Biranchi, Suraneni Prannoy, Sitharam Thallak
 description:
 tags:
  - concrete
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>:aca-blank: A Review ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1016/j.jclepro.2022.130749" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2022.130749</a>
+#Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete&nbsp;([2022-02](date/2022/02))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.jclepro.2022.130749" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.130749" target="_blank">10.1016/j.jclepro.2022.130749</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dey_dhrutiman"><b>Dey</b>&nbsp;Dhrutiman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srinivas_dodda"><b>Srinivas</b>&nbsp;Dodda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b>&nbsp;Prannoy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sitharam_g_thallak"><b>Sitharam</b>&nbsp;Thallak</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 340
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> <a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> <a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>
-,     <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 340, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#industry`](keyword/industry)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#use`](keyword/use)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Industrial%20Waste-Materials%20for%203D%20Printing%20of%20Sustainable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124245701&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4210685680" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2022.130749" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2022.130749?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper provides a comprehensive review of the utilization of industrial wastes in 3D concrete printing processes. Concrete 3D printing processes are introduced, highlighting the need for unique material requirements. The literature on the different wastes that have been used for producing 3D printable mixtures is reviewed, including waste generation, material properties, and the roles of these materials in improving the fresh properties needed for concrete printing. Factors affecting successful utilization of these waste materials in 3D printable concrete are discussed in addition to their environmental impacts. This paper underlines the positive impacts of using industrial wastes for improving the sustainability of 3D printable concrete. It is expected that printable concrete formulations containing high volumes of industrial waste (and chemical admixtures) can be developed to improve the sustainability index of this emerging construction technique.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "105 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -174,10 +152,11 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "124 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bran_dias_aros_reis.2026.UoWF/">Upcycling of Waste Fibers:<br/>Enhancing Structural Integrity in 3DCP Through Fiber Reinforcement</a></li>
       <li><a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ribe_rang_bran_figu.2026.INVT3CP/">Improving Natural Ventilation Through 3D Concrete Printing</a></li>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
@@ -300,4 +279,33 @@ tags:
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../nguy_nguy_pand_tran.2022.3CPMoTWS/">3D Concrete Printing Modelling of Thin-Walled Structures</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../tay_lim_li_tan.2022.CFGCMwV3PP/">Creating Functionally Graded Concrete Materials with Varying 3D Printing Parameters</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dey_srin_pand_sura.2022.UoIWMf3PoSC,
+      author            = "Dhrutiman Dey and Dodda Srinivas and Biranchi Narayan Panda and Prannoy Suraneni and Thallak G. Sitharam",
+      title             = "Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete: A Review",
+      doi               = "10.1016/j.jclepro.2022.130749",
+      year              = "2022",
+      journal           = "Journal of Cleaner Production",
+      volume            = "340",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Dey, D. Srinivas, B. N. Panda, P. Suraneni and T. G. Sitharam, “Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete: A Review”, <i>Journal of Cleaner Production</i>, vol. 340, 2022, doi: 10.1016/j.jclepro.2022.130749.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dey, Dhrutiman, Dodda Srinivas, Biranchi Narayan Panda, Prannoy Suraneni, and Thallak G. Sitharam. “Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete: A Review”. <i>Journal of Cleaner Production</i> 340 (2022). https://doi.org/10.1016/j.jclepro.2022.130749.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

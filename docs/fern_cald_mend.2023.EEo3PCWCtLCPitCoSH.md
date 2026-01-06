@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Letízia Fernandez, Lucas Caldas, Oscar Mendoza Reales
+    - footer
+title: Fernandez Letízia, Caldas Lucas, Mendoza Reales Oscar
 description:
 tags:
  - concrete
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.jobe.2023.106915" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106915</a>
+#Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing ([2023-05](date/2023/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106915" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106915" target="_blank">10.1016/j.jobe.2023.106915</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-7983-1520" title="ORCID: 0009-0009-7983-1520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b>&nbsp;Letízia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3108-2833" title="ORCID: 0000-0002-3108-2833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caldas_rosse_lucas"><b>Caldas</b>&nbsp;Lucas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 74, No. 106915
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a> <a href="https://orcid.org/0009-0009-7983-1520" title="ORCID: 0009-0009-7983-1520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> <a href="https://orcid.org/0000-0002-3108-2833" title="ORCID: 0000-0002-3108-2833" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 74, No. 106915
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#environment`](keyword/environment)
-    [`#evaluation`](keyword/evaluation)
-    [`#house`](keyword/house)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Environmental%20Evaluation%20of%203D%20Printed%20Concrete%20Walls%20Considering%20the%20Life%20Cycle%20Perspective%20in%20the%20Context%20of%20Social%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160328609&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4377695389" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106915" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106915?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Wall construction is the most common application for 3D concrete printing (3DCP). This construction technique requires a printing material with specific rheological characteristics that are usually achieved through high cement consumptions, reaching more than 1000 kg/m³. It is well known that large-scale cement consumption is a worldwide concern, mainly due to carbon dioxide emissions. Thus, in the context of 3DCP structures, this environmental concern becomes even more relevant. Therefore, this work investigated the environmental performance, by means of the Life Cycle Assessment (LCA) methodology, evaluating 14 environmental impact categories of 3DCP walls, and comparing them with conventional construction techniques in a social housing context of a Brazilian case study. The results confirmed that cement consumption provides the greatest contribution to the impact potentials for most of the evaluated categories, reaching 93% for climate change. So, materials that can be used to replace cement, such as supplementary cementitious materials (SCM), are important alternatives. In general, the comparative results showed that 3DCP can have a similar environmental performance to conventional construction techniques, when, instead of evaluating 1 m³ of concrete, the functional unit evaluated is 1 m2 of wall. Sensitivity analysis carried out showed that the printing parameter variations that most affect the consumption of concrete cause the greatest changes in potential environmental impacts, while alterations in the energy consumption, almost do not influence the total values of the potential impacts. Finally, this study presents a roadmap and a pathway for designers, developers, builders and researchers of 3DCP to decrease the life cycle environmental impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
@@ -99,8 +78,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>, <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA/">Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino</a></li>
@@ -112,4 +91,34 @@ tags:
       <li><a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../cava_tole_mend.2024.IoRCPoRoPCBM/">Influence of Recycled Concrete-Powder on Rheology of Printable Cement-Based Matrixes</a></li>
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fern_cald_mend.2023.EEo3PCWCtLCPitCoSH,
+      author            = "Letízia Ikeda Castrillon Fernandez and Lucas Rosse Caldas and Oscar Aurelio Mendoza Reales",
+      title             = "Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing",
+      doi               = "10.1016/j.jobe.2023.106915",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "74",
+      pages             = "106915",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. I. C. Fernandez, L. R. Caldas and O. A. M. Reales, “Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing”, <i>Journal of Building Engineering</i>, vol. 74, p. 106915, 2023, doi: 10.1016/j.jobe.2023.106915.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fernandez, Letízia Ikeda Castrillon, Lucas Rosse Caldas, and Oscar Aurelio Mendoza Reales. “Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing”. <i>Journal of Building Engineering</i> 74 (2023): 106915. https://doi.org/10.1016/j.jobe.2023.106915.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

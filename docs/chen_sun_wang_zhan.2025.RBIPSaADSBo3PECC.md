@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meng Chen, Hao Sun, Yuting Wang, Tong Zhang
+    - footer
+title: Chen Meng, Sun Hao, Wang Yuting, Zhang Tong
 description:
 tags:
  - anisotropy
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141931" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141931</a>
+#Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141931" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141931" target="_blank">10.1016/j.conbuildmat.2025.141931</a>
 
--------------------------
+<a href="../../../author/chen_meng"><b>Chen</b>&nbsp;Meng</a></span>, <a href="../../../author/sun_hao"><b>Sun</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yuting"><b>Wang</b>&nbsp;Yuting</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tong"><b>Zhang</b>&nbsp;Tong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 486, No. 141931
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>
-,     <a href="../../../author/sun_hao"><b>Sun</b> Hao</a>
-,     <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="https://orcid.org/0009-0007-7345-0562" title="ORCID: 0009-0007-7345-0562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 486, No. 141931
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#dynamic`](keyword/dynamic)
-    [`#engineered`](keyword/engineered)
-    [`#interface`](keyword/interface)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-    [`#split`](keyword/split)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/split"><button class="btn">#split</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Relationship%20Between%20Interfacial%20Pore%20Structure%20and%20Anisotropic%20Dynamic%20Splitting%20Behaviour%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006688450&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410909120" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141931" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141931?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of engineered cementitious composite (ECC) in 3D printing provides an effective way to realize intelligent construction, which promises to remove the dependence on steel bars due to their high ductility characteristics. However, the interfaces and anisotropy brought by 3D printing on the mechanical properties of concrete have rarely been studied regarding the dynamic properties. Hence, a series of tests including elastic modulus, uniaxial tensile, quasi-static, dynamic tensile and microscopic CT analysis are conducted to investigate the relationship between microstructure and anisotropy on the dynamic properties of 3D-printed ECC (3DP-ECC). The results show that the dynamic split tensile strength of the specimens in X/Y/Z tensile directions is significantly anisotropic in the strain rate range of 2.6–7.4 s−1, with the specimens in the X-tensile direction being 5.9 %–14.1 % and 14.4 %–35.0 % higher than that in Y- and Z-directions. A mechanical model based on Mohr circles is proposed to elucidate the changing rules of the failure modes of the specimens in different printing directions. Additionally, the trend of the dynamic splitting increase factor of 3DP-ECC in the range of 10−4–101 s−1 is well predicted by the improved bilinear model. The R2 value higher than 0.96 verified a good correlation between the interfacial pore structure and the anisotropic dynamic splitting behaviour.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chen_chen_zhan_wang.2025.ECaCMotADCBo3PECC/">Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
@@ -115,9 +89,39 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_sun_wang_zhan.2025.RBIPSaADSBo3PECC,
+      author            = "Meng Chen and Hao Sun and Yuting Wang and Tong Zhang",
+      title             = "Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.conbuildmat.2025.141931",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "486",
+      pages             = "141931",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, H. Sun, Y. Wang and T. Zhang, “Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites”, <i>Construction and Building Materials</i>, vol. 486, p. 141931, 2025, doi: 10.1016/j.conbuildmat.2025.141931.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Meng, Hao Sun, Yuting Wang, and Tong Zhang. “Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites”. <i>Construction and Building Materials</i> 486 (2025): 141931. https://doi.org/10.1016/j.conbuildmat.2025.141931.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

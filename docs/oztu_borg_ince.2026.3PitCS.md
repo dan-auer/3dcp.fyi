@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ece Öztürk, Yuri Borgianni, Ceren Ince
+    - footer
+title: Öztürk Ece, Borgianni Yuri, Ince Ceren
 description:
 tags:
  - application
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing in the Construction Sector:<br/>:aca-blank: Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/978-3-032-03698-8_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-032-03698-8_20</a>
+#3D Printing in the Construction Sector&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-032-03698-8_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-03698-8_20" target="_blank">10.1007/978-3-032-03698-8_20</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7940-7513" title="ORCID: 0000-0001-7940-7513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozturk_ece"><b>Öztürk</b>&nbsp;Ece</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5284-4673" title="ORCID: 0000-0002-5284-4673" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borgianni_yuri"><b>Borgianni</b>&nbsp;Yuri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5210-0228" title="ORCID: 0000-0002-5210-0228" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ince_ceren"><b>Ince</b>&nbsp;Ceren</a></span><br>
+Contribution - Manufacturing 2030, pp. 240-251
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a> <a href="https://orcid.org/0000-0001-7940-7513" title="ORCID: 0000-0001-7940-7513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a> <a href="https://orcid.org/0000-0002-5284-4673" title="ORCID: 0000-0002-5284-4673" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="https://orcid.org/0000-0002-5210-0228" title="ORCID: 0000-0002-5210-0228" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Manufacturing 2030, pp. 240-251
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#construction`](keyword/construction)
-    [`#factor`](keyword/factor)
-    [`#identification`](keyword/identification)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/identification"><button class="btn">#identification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20the%20Construction%20Sector" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021830738&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415647994" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-032-03698-8_20" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-032-03698-8_20?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is transforming the construction industry by reducing material waste, enhancing design flexibility, and shortening construction timelines. As a rapidly advancing technology, it offers innovative solutions for efficient, sustainable, and advanced building practices. This study aims to give an overview of the contents treated in the literature on 3D printing of concrete, with a focus on key topics, technologies, applications, and parameters influencing printability. Following a systematic review process, 1079 studies were analyzed in terms of objectives, structural applications, and printing technologies. The findings reveal a strong emphasis on parameters such as strength, interlayer bonding, and rheological properties, while durability-related aspects like freeze-thaw resistance and water absorption are explored more seldom. The study underscores the need for material optimization to balance fresh-state and hardened-state properties, ensure long-term structural performance, and incorporate sustainable materials. By addressing these gaps, this research identifies critical pathways for advancing 3D printing in construction and provides recommendations for achieving durable, efficient, and environmentally sustainable solutions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -87,7 +69,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{oztu_borg_ince.2026.3PitCS,
+      author            = "Ece Öztürk and Yuri Borgianni and Ceren Ince",
+      title             = "3D Printing in the Construction Sector: Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature",
+      doi               = "10.1007/978-3-032-03698-8_20",
+      year              = "2026",
+      volume            = "1604",
+      pages             = "240--251",
+      booktitle         = "Manufacturing 2030: A Perspective to Future Challenges in Industrial Production",
+      editor            = "Dominik T. Matt and Erwin Rauch and Patrick Dallasega and Luca Gualtieri and Matteo de Marchi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Öztürk, Y. Borgianni and C. Ince, “3D Printing in the Construction Sector: Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature”, in <i>Manufacturing 2030: A Perspective to Future Challenges in Industrial Production</i>,  2026, vol. 1604, pp. 240–251. doi: 10.1007/978-3-032-03698-8_20.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Öztürk, Ece, Yuri Borgianni, and Ceren Ince. “3D Printing in the Construction Sector: Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature”. In <i>Manufacturing 2030: A Perspective to Future Challenges in Industrial Production</i>, edited by Dominik T. Matt, Erwin Rauch, Patrick Dallasega, Luca Gualtieri, and Matteo de Marchi, 1604:240–51, 2026. https://doi.org/10.1007/978-3-032-03698-8_20.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

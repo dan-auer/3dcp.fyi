@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Youbau Jiang, Yan Liu, Zupan Zhang, Pengxiang Gao, Hao Zhou
+    - footer
+title: Jiang Youbau, Liu Yan, Zhang Zupan, Gao Pengxiang, Zhou Hao
 description:
 tags:
  - concrete
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Tensile Performance of Interlayer Interface of Interlocking 3D Printed Concrete with Single Toothlike Nozzle ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.jobe.2025.112287" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112287</a>
+#Tensile Performance of Interlayer Interface of Interlocking 3D Printed Concrete with Single Toothlike Nozzle ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112287" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112287" target="_blank">10.1016/j.jobe.2025.112287</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0276-818X" title="ORCID: 0000-0003-0276-818X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_youbau"><b>Jiang</b>&nbsp;Youbau</a></span>, <a href="../../../author/liu_yan"><b>Liu</b>&nbsp;Yan</a></span>, <a href="../../../author/zhang_zupan"><b>Zhang</b>&nbsp;Zupan</a></span>, <a href="../../../author/gao_pengxiang"><b>Gao</b>&nbsp;Pengxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4237-9421" title="ORCID: 0000-0002-4237-9421" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hao"><b>Zhou</b>&nbsp;Hao</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112287
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a> <a href="https://orcid.org/0000-0003-0276-818X" title="ORCID: 0000-0003-0276-818X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_yan"><b>Liu</b> Yan</a>
-,     <a href="../../../author/zhang_zupan"><b>Zhang</b> Zupan</a>
-,     <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>
-,     <a href="../../../author/zhou_hao"><b>Zhou</b> Hao</a> <a href="https://orcid.org/0000-0002-4237-9421" title="ORCID: 0000-0002-4237-9421" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112287
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#interface`](keyword/interface)
-    [`#interlayer`](keyword/interlayer)
-    [`#interlocking`](keyword/interlocking)
-    [`#nozzle`](keyword/nozzle)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#single`](keyword/single)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/single"><button class="btn">#single</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tensile%20Performance%20of%20Interlayer%20Interface%20of%20Interlocking%203D%20Printed%20Concrete%20with%20Single%20Toothlike%20Nozzle" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000444289&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408237065" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112287" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112287?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interlocking 3D printed concrete printed by tooth-like nozzles exhibits superior interfacial tensile performance. However, the influences of geometric parameters on the interlayer tensile strength of interlocking specimens remains unclear, and there is an urgent need to establish formulas to quantify the influences. To address these issues, this study, based on a novel single-tooth nozzle designed to enhance interlayer performance, comprehensively considers macro-mechanical performance testing and micro-porosity analysis. It reveals the failure modes of interlayer interfacial tension in single-tooth interlocking 3D printed concrete and proposes the tensile strength calculation formulas. Firstly, the theoretical analysis of the interlayer interfacial tensile strength of 3D printed concrete was performed. Then, conducted uniaxial tensile tests and validation experiments, and confirmed the validity of the theoretical formulas. Finally, the stress-strain curves of interlayer interlocking specimens with different single-tooth angles were analyzed. The results indicate that: (1) The interlayer interfacial tensile strength of interlocking 3D printed concrete with single-tooth nozzle is higher than that with square nozzles. (2) The failure cracks of specimens with square nozzle propagated horizontally in a straight line, while those of single-tooth interlocking specimens exhibited a serrated pattern along the interlocking interface. (3) The interlayer interfacial tensile strength formulas can effectively estimate the interlayer interfacial tensile strength of single-tooth interlocking 3D printed concrete. These findings provide methods and empirical insights for subsequent theoretical analysis and the establishment of calculation formulas for the strength of interlocking 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -102,8 +78,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
@@ -111,4 +87,33 @@ tags:
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../most_krug.2025.RABo3PCTIF/">Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments</a></li>
       <li><a href="../../../author/duan_yuhang"><b>Duan</b> Yuhang</a>, <a href="../../../author/wang_chuan"><b>Wang</b> Chuan</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../duan_wang_yin_liew.2025.MIFi3PCvP/">Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_liu_zhan_gao.2025.TPoIIoI3PCwSTN,
+      author            = "Youbau Jiang and Yan Liu and Zupan Zhang and Pengxiang Gao and Hao Zhou",
+      title             = "Tensile Performance of Interlayer Interface of Interlocking 3D Printed Concrete with Single Toothlike Nozzle",
+      doi               = "10.1016/j.jobe.2025.112287",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112287",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jiang, Y. Liu, Z. Zhang, P. Gao and H. Zhou, “Tensile Performance of Interlayer Interface of Interlocking 3D Printed Concrete with Single Toothlike Nozzle”, <i>Journal of Building Engineering</i>, p. 112287, 2025, doi: 10.1016/j.jobe.2025.112287.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Youbau, Yan Liu, Zupan Zhang, Pengxiang Gao, and Hao Zhou. “Tensile Performance of Interlayer Interface of Interlocking 3D Printed Concrete with Single Toothlike Nozzle”. <i>Journal of Building Engineering</i>, 2025, 112287. https://doi.org/10.1016/j.jobe.2025.112287.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

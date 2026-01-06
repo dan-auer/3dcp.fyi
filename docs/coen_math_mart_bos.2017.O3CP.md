@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jeroen Coenders, Maarten Mathot, Pascal Martens, Freek Bos, Robert Wolfs, Anke Rolvink, Puck Middelkoop
+    - footer
+title: Coenders Jeroen, Mathot Maarten, Martens Pascal, Bos Freek, Wolfs Robert, Rolvink Anke, Middelkoop Puck
 description:
 tags:
  - concrete
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-# Optimizing 3D Concrete Printing:<br/>:aca-blank: Exploring Potentials and Limitations of Materials and Production ([2017-12](date/2017/12))
-<a href="https://doi.org/10.7480/spool.2017.2.1923" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.7480/spool.2017.2.1923</a>
+#Optimizing 3D Concrete Printing&nbsp;([2017-12](date/2017/12))
+<div class="h1-like">Exploring Potentials and Limitations of Materials and Production</div>
+ <a href="https://doi.org/10.7480/spool.2017.2.1923" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7480/spool.2017.2.1923" target="_blank">10.7480/spool.2017.2.1923</a>
 
--------------------------
+<a href="../../../author/coenders_jeroen"><b>Coenders</b>&nbsp;Jeroen</a></span>, <a href="../../../author/mathot_maarten"><b>Mathot</b>&nbsp;Maarten</a></span>, <a href="../../../author/martens_pascal"><b>Martens</b>&nbsp;Pascal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <a href="../../../author/rolvink_anke"><b>Rolvink</b>&nbsp;Anke</a></span>, <a href="../../../author/middelkoop_puck"><b>Middelkoop</b>&nbsp;Puck</a></span><br>
+Journal Article - Spool
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/coenders_jeroen"><b>Coenders</b> Jeroen</a>
-,     <a href="../../../author/mathot_maarten"><b>Mathot</b> Maarten</a>
-,     <a href="../../../author/martens_pascal"><b>Martens</b> Pascal</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rolvink_anke"><b>Rolvink</b> Anke</a>
-,     <a href="../../../author/middelkoop_puck"><b>Middelkoop</b> Puck</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Spool, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#exploration`](keyword/exploration)
-    [`#limitation`](keyword/limitation)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/limitation"><button class="btn">#limitation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,20 +39,44 @@ tags:
 <a href="https://inciteful.xyz/p/W2801222574" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.7480/spool.2017.2.1923" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.7480/spool.2017.2.1923?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of new Computer Aided Manufacturing (CAM), digital fabrication and additive manufacturing techniques in the construction industries is expected to bring major change to these industries. Driven by a foreseen reduction of construction time and labor cost, simplification of logistics and an increase of constructible geometrical freedom, many experiments are performed both at academia and in practice. Beyond these economical and architectural objectives, digital fabrication in construction can be used to reduce the environmental footprint of the industry. The increased level of control offered by digital fabrication enables the use of advanced computational optimisation techniques. With these optimisation techniques buildings can be designed which, for instance, combine an optimal thermal performance with a minimum use of materials, while still complying with all codes and standards. In order to fully utilise this potential of digital fabrication, the capabilities and limitations of the manufacturing process need to be taken into account during optimisation. By combining the concrete 3D printing knowledge of Eindhoven University of Technology, the optimisation expertise of the BEMNext lab at Delft University of Technology and software development by White Lioness technologies, the ‘Optimising 3D concrete printing’ Lighthouse project has made the first steps towards more knowledge on integrated optimisation and manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{coen_math_mart_bos.2017.O3CP,
+      author            = "Jeroen Coenders and Maarten Mathot and Pascal Martens and Freek Paul Bos and Robert Johannes Maria Wolfs and Anke Rolvink and Puck Middelkoop",
+      title             = "Optimizing 3D Concrete Printing: Exploring Potentials and Limitations of Materials and Production",
+      doi               = "10.7480/spool.2017.2.1923",
+      year              = "2017",
+      journal           = "Spool",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Coenders, “Optimizing 3D Concrete Printing: Exploring Potentials and Limitations of Materials and Production”, <i>Spool</i>, 2017, doi: 10.7480/spool.2017.2.1923.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Coenders, Jeroen, Maarten Mathot, Pascal Martens, Freek Paul Bos, Robert Johannes Maria Wolfs, Anke Rolvink, and Puck Middelkoop. “Optimizing 3D Concrete Printing: Exploring Potentials and Limitations of Materials and Production”. <i>Spool</i>, 2017. https://doi.org/10.7480/spool.2017.2.1923.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

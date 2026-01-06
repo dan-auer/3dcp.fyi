@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Syed Warsi, Biranchi Panda, Pankaj Biswas
+    - footer
+title: Warsi Syed, Panda Biranchi, Biswas Pankaj
 description:
 tags:
  - analysis
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1007/s40964-024-00874-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-024-00874-9</a>
+#Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-024-00874-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00874-9" target="_blank">10.1007/s40964-024-00874-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/biswas_pankaj"><b>Biswas</b>&nbsp;Pankaj</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> <a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#load`](keyword/load)
-    [`#micro`](keyword/micro)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#quasi`](keyword/quasi)
-    [`#static`](keyword/static)
-    [`#structure`](keyword/structure)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quasi"><button class="btn">#quasi</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Analysis%20of%203D%20Printed%20Concrete%20Walls%20Under%20Quasi-Static%20Cyclic%20Loading%20Using%20Composite%20Micro-Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210391441&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404720217" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-024-00874-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-024-00874-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Accurate numerical predictions of three-dimensional concrete-printed (3DCP) wall responses to in-plane seismic behavior are crucial for lateral strength and stability of structures. This paper introduces an efficient composite interface micro-model by combining plasticity-based constitutive models and cohesive zone modeling to simulate the three-dimensional non-linear behavior of 3DCP walls under in-plane cyclic loads. The intrinsic model incorporates surface-based cohesive behavior for elastic, plastic response of the layer interface and Concrete Damage Plasticity model for simulating cracking and crushing under compression and cyclic loading. It is noteworthy that, for the first time, the proposed micro-model predicted structural response of the 3DCP walls by considering interlayer effect in 3D printing and localized effects. As a result, our analysis indicates greater accuracy of the micro-model in capturing hysteretic behavior, secant stiffness, and energy dissipation properties in comparison with macro-modeling approaches. The model capabilities in dynamic behavior and mechanisms of failure under in-plane loads are corroborated with reported experimental data. Results of parametric studies suggest that seismic performance of the 3DCP wall can be considerably enhanced by reducing height–width ratio, inclusion of solid edge columns and continuous reinforcement bar throughout the wall.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../bos_wolf_sale.2020.CDC2S/">CCR Digital Concrete 2020 SI:<br/>Editorial</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
@@ -94,10 +69,37 @@ tags:
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhang_ying"><b>Zhang</b> Ying</a>, <a href="../../../author/wan_zhiming"><b>Wan</b> Zhiming</a>, <a href="../../../author/wu_lei"><b>Wu</b> Lei</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_wan_wu.2021.SoMPoISPRCWwCC/">Study on Mechanical Properties of In-Situ Printed Reinforced Concrete Wall with Core Column</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wars_pand_bisw.2025.DoER3PCWBoA31/">Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19:<br/>Analytical Investigation and Numerical Modelling</a></li>
-      <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wars_pand_bisw.2024.EoSHMoSPo3PCW/">Effect of Strain-Hardening Material on Seismic-Performance of 3D Printed Concrete Wall:<br/>A Numerical Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wars_pand_bisw.2024.SAo3PCWUQSCLUCMM,
+      author            = "Syed Bustan Fatima Warsi and Biranchi Narayan Panda and Pankaj Biswas",
+      title             = "Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model",
+      doi               = "10.1007/s40964-024-00874-9",
+      year              = "2024",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. B. F. Warsi, B. N. Panda and P. Biswas, “Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model”, <i>Progress in Additive Manufacturing</i>, 2024, doi: 10.1007/s40964-024-00874-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Warsi, Syed Bustan Fatima, Biranchi Narayan Panda, and Pankaj Biswas. “Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model”. <i>Progress in Additive Manufacturing</i>, 2024. https://doi.org/10.1007/s40964-024-00874-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

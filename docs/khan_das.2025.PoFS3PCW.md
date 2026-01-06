@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohsen Khanverdi, Sreekanta Das
+    - footer
+title: Khanverdi Mohsen, Das Sreekanta
 description:
 tags:
  - concrete
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2025.120510) Performance of Full-Scale 3D-Printed Concrete Walls:<br/>:aca-blank: Effects of Vertical Reinforcements and Window Opening ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.engstruct.2025.120510" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.120510</a>
+#Performance of Full-Scale 3D-Printed Concrete Walls&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Effects of Vertical Reinforcements and Window Opening</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2025.120510) <a href="https://doi.org/10.1016/j.engstruct.2025.120510" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120510" target="_blank">10.1016/j.engstruct.2025.120510</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
+Journal Article - Engineering Structures, Vol. 337, No. 120510
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a> <a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 337, No. 120510
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#full`](keyword/full)
-    [`#open`](keyword/open)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#scale`](keyword/scale)
-    [`#vertical`](keyword/vertical)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/open"><button class="btn">#open</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/vertical"><button class="btn">#vertical</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%20Full-Scale%203D-Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004358839&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410196922" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.120510" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.120510?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D concrete printing is an advancing construction technology with the potential to revolutionize the building industry. This study investigates the structural performance of large-scale 3D-printed walls made with regular concrete containing coarse aggregates. The objectives of this study are to investigate important gaps related to the structural behavior of full-scale loadbearing walls, including the effects of a large window opening and vertical reinforcement. The methodology involved conducting full-scale compression load tests on wall specimens, printed and cured on-site under real-world conditions. These wall specimens included configurations with and without window openings, as well as reinforced and unreinforced walls. Key findings indicate that 3D-printed concrete walls with vertical reinforcement achieved up to a 26 % increase in loadbearing capacity and exhibited energy absorption up to three times greater than unreinforced walls. This study also found that the wall with a large window opening reached approximately 80 % of the loadbearing capacity of the specimen without an opening. The implications of this study provide novel knowledge about the performance of large 3D-printed concrete walls under compressive loads. This information will help in establishing guidelines for 3D printing in construction and building design codes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/cai_jianguo"><b>Cai</b> Jianguo</a>, <a href="../../../author/wang_jingsong"><b>Wang</b> Jingsong</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a>, <a href="../../../author/du_caixia"><b>Du</b> Caixia</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cai_wang_zhan_du.2024.SotAoMPo3PC/">State of the Art of Mechanical Properties of 3D Printed Concrete</a></li>
@@ -94,8 +73,38 @@ tags:
       <li><a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/paudel_satish"><b>Paudel</b> Satish</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../tana_jira_paud_tang.2022.EaNIo3PMWUUAC/">Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_das.2025.PoFS3PCW,
+      author            = "Mohsen Khanverdi and Sreekanta Das",
+      title             = "Performance of Full-Scale 3D-Printed Concrete Walls: Effects of Vertical Reinforcements and Window Opening",
+      doi               = "10.1016/j.engstruct.2025.120510",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "337",
+      pages             = "120510",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Khanverdi  and S. Das, “Performance of Full-Scale 3D-Printed Concrete Walls: Effects of Vertical Reinforcements and Window Opening”, <i>Engineering Structures</i>, vol. 337, p. 120510, 2025, doi: 10.1016/j.engstruct.2025.120510.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khanverdi, Mohsen, and Sreekanta Das. “Performance of Full-Scale 3D-Printed Concrete Walls: Effects of Vertical Reinforcements and Window Opening”. <i>Engineering Structures</i> 337 (2025): 120510. https://doi.org/10.1016/j.engstruct.2025.120510.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

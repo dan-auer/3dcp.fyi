@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ena Lloret-Fritschi, Lex Reiter, Timothy Wangler, Fabio Gramazio, Matthias Kohler, Robert Flatt
+    - footer
+title: Lloret-Fritschi Ena, Reiter Lex, Wangler Timothy, Gramazio Fabio, Kohler Matthias, Flatt Robert
 description:
 tags:
  - cast
@@ -13,31 +14,14 @@ tags:
 
 ---
 
-# Smart Dynamic Casting:<br/>:aca-blank: Slipforming with Flexible Formwork ([2017-03](date/2017/03))
-<a href="https://doi.org/10.3929/ethz-b-000219663" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3929/ethz-b-000219663</a>
+#Smart Dynamic Casting&nbsp;([2017-03](date/2017/03))
+<div class="h1-like">Slipforming with Flexible Formwork</div>
+ <a href="https://doi.org/10.3929/ethz-b-000219663" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3929/ethz-b-000219663" target="_blank">10.3929/ethz-b-000219663</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Contribution - Proceedings of the 11th High-Performance Concrete & 2nd Concrete Innovation Conference
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 11th High-Performance Concrete & 2nd Concrete Innovation Conference, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#dynamic`](keyword/dynamic)
-    [`#flexibility`](keyword/flexibility)
-    [`#formwork`](keyword/formwork)
-    [`#smart`](keyword/smart)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/flexibility"><button class="btn">#flexibility</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Smart%20Dynamic%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,24 +36,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2782001336" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3929/ethz-b-000219663" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3929/ethz-b-000219663?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Smart Dynamic Casting (SDC) – a robotic prefabrication method for non-standard structures – has emerged from shaping concrete with a rigid formwork into an almost fully automated system enabling the production of concrete structures with variable cross-section and geometries using flexible actuated formworks. The flexible formwork systems have yielded full scale prototypes (up to 3 meters in height) that vary in shape, volume, thickness and geometry (or a combination of these), and show that the SDC design space can be significantly expanded, far beyond what has been achieved in previous studies. Two different shaping methods were applied. The first method shapes the material locally, at the exit of the formwork, only allowing a minimal gradient of deformation. The second method shapes the material globally, across the whole height of formwork, allowing for significant variation in cross section. Regardless of whether the deformation occurs locally or globally, any deformation modifies the load on the concrete at the exit of the formwork, thus requiring continuous inline measurements and automated feedback loops. A recent successful approach combines formwork pressure and friction measurements to define the lower and upper strength limits of the shaping window, thereby enabling more robust control of the process.This paper presents the current  SDC process, with a particular emphasis on how the experimental setup has changed from previous studies. This includes descriptions of new flexible formwork typologies, followed by a description of the novel inline measurement technique. Together, these advances bring the SDC system another step closer to the main objective of the research, which is to develop a fully automated system that enables efficient production of load bearing structures in a continuous digital chain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/wenger_cedric"><b>Wenger</b> Cedric</a>, <a href="../../../author/walpen_lukas"><b>Walpen</b> Lukas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../das_weng_walp_flat.2025.EAHoALCCfDF/">Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication</a></li>
       <li><a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b> Meryem</a>, <a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yaba_ozer.2025.EAUTR3CPoSFG/">Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries</a></li>
@@ -112,4 +92,33 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{llor_reit_wang_gram.2017.SDC,
+      author            = "Ena Lloret-Fritschi and Lex Reiter and Timothy Paul Wangler and Fabio Gramazio and Matthias Daniel Kohler and Robert Johann Flatt",
+      title             = "Smart Dynamic Casting: Slipforming with Flexible Formwork",
+      doi               = "10.3929/ethz-b-000219663",
+      year              = "2017",
+      booktitle         = "Proceedings of the 11th High-Performance Concrete & 2nd Concrete Innovation Conference",
+      editor            = "Norwegian Concrete Association",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Lloret-Fritschi, L. Reiter, T. P. Wangler, F. Gramazio, M. D. Kohler and R. J. Flatt, “Smart Dynamic Casting: Slipforming with Flexible Formwork”, in <i>Proceedings of the 11th High-Performance Concrete & 2nd Concrete Innovation Conference</i>,  2017. doi: 10.3929/ethz-b-000219663.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lloret-Fritschi, Ena, Lex Reiter, Timothy Paul Wangler, Fabio Gramazio, Matthias Daniel Kohler, and Robert Johann Flatt. “Smart Dynamic Casting: Slipforming with Flexible Formwork”. In <i>Proceedings of the 11th High-Performance Concrete & 2nd Concrete Innovation Conference</i>, edited by Norwegian Concrete Association, 2017. https://doi.org/10.3929/ethz-b-000219663.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

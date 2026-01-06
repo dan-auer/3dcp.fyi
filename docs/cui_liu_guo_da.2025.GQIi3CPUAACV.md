@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weijiu Cui, Wenliang Liu, Ruyi Guo, Wan Da, Xiaona Yu, Luchuan Ding, Yaxin Tao
+    - footer
+title: Cui Weijiu, Liu Wenliang, Guo Ruyi, Da Wan, Yu Xiaona, Ding Luchuan, Tao Yaxin
 description:
 tags:
  - ai
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1617/s11527-025-02594-0) Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1617/s11527-025-02594-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02594-0</a>
+#Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1617/s11527-025-02594-0) <a href="https://doi.org/10.1617/s11527-025-02594-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02594-0" target="_blank">10.1617/s11527-025-02594-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <a href="../../../author/liu_wenliang"><b>Liu</b>&nbsp;Wenliang</a></span>, <a href="../../../author/guo_ruyi"><b>Guo</b>&nbsp;Ruyi</a></span>, <a href="../../../author/da_wan"><b>Da</b>&nbsp;Wan</a></span>, <a href="../../../author/yu_xiaona"><b>Yu</b>&nbsp;Xiaona</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5870-3276" title="ORCID: 0000-0001-5870-3276" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_luchuan"><b>Ding</b>&nbsp;Luchuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>
-,     <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>
-,     <a href="../../../author/da_wan"><b>Da</b> Wan</a>
-,     <a href="../../../author/yu_xiaona"><b>Yu</b> Xiaona</a>
-,     <a href="../../../author/ding_luchuan"><b>Ding</b> Luchuan</a> <a href="https://orcid.org/0000-0001-5870-3276" title="ORCID: 0000-0001-5870-3276" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ai`](keyword/ai)
-    [`#assistance`](keyword/assistance)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#geometry`](keyword/geometry)
-    [`#inspection`](keyword/inspection)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/ai"><button class="btn">#ai</button></a> <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Geometrical%20Quality%20Inspection%20in%203D%20Concrete%20Printing%20Using%20AI-Assisted%20Computer%20Vision" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218335206&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407578345" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02594-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02594-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an innovative technology poised to transform the construction industry by enabling the automated, layer-by-layer creation of structures directly from digital models. This approach offers numerous advantages over traditional construction methods, including reduced labor costs, faster build times, and the ability to produce complex geometries with high precision. However, unlike conventional mold-cast concrete, 3D printable concrete must support itself without external formwork, posing significant challenges related to material deformation during the printing process. Uncontrolled deformation can lead to structural instability, design deviations, and cumulative errors. Traditional methods for monitoring the geometrical quality of 3D-printed concrete are often insufficient in accuracy and efficiency. Recent advancements in artificial intelligence (AI) present new opportunities for addressing these challenges. AI-assisted methods leverage machine learning to analyze large datasets, enabling more accurate predictions and real-time monitoring and control of deformation during the 3D printing process. In this paper, we explored the application of AI-assisted methods for real-time deformation analysis in 3D concrete printing. Specifically, the Yolo-v5 algorithm, an AI-assisted object detection technique, was employed for the computer vision of extruded concrete filaments. Several quantitative metrics were proposed, including the layer height, layer angle, and curvature. In addition, the rheological properties of 3D-printed concrete were measured to refine the computer vision analysis results. Through experimental validation, we demonstrated the effectiveness of the developed AI-assisted computer vision system in monitoring the 3D concrete printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
@@ -101,10 +75,40 @@ tags:
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
       <li><a href="../../../author/zimmermann_stefan"><b>Zimmermann</b> Stefan</a>, <a href="../../../author/griego_danielle"><b>Griego</b> Danielle</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zimm_grie_flat.2024.VDoC3PSwARBoMLDIA/">Visualizing Defects of Concrete 3D Printed Structures with Augmented Reality Based on Machine Learning-Driven Image-Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_liu_guo_da.2025.GQIi3CPUAACV,
+      author            = "Weijiu Cui and Wenliang Liu and Ruyi Guo and Wan Da and Xiaona Yu and Luchuan Ding and Yaxin Tao",
+      title             = "Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision",
+      doi               = "10.1617/s11527-025-02594-0",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Cui, “Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision”, <i>Materials and Structures</i>, vol. 58, no. 2, 2025, doi: 10.1617/s11527-025-02594-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Weijiu, Wenliang Liu, Ruyi Guo, Wan Da, Xiaona Yu, Luchuan Ding, and Yaxin Tao. “Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision”. <i>Materials and Structures</i> 58, no. 2 (2025). https://doi.org/10.1617/s11527-025-02594-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

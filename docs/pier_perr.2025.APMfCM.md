@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexandre Pierre, Arnaud Perrot
+    - footer
+title: Pierre Alexandre, Perrot Arnaud
 description:
 tags:
  - alternative
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Alternative Printing-Methods for Cementitious Materials ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1002/9781394352081.ch4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9781394352081.ch4</a>
+#Alternative Printing-Methods for Cementitious Materials ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781394352081.ch4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394352081.ch4" target="_blank">10.1002/9781394352081.ch4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_alexandre"><b>Pierre</b>&nbsp;Alexandre</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Contribution - 3D Concrete Printing, pp. 103-129
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing, pp. 103-129
-
-:aca-blank:{ .lg .middle}
-    [`#alternative`](keyword/alternative)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Alternative%20Printing-Methods%20for%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004485858&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406548908" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9781394352081.ch4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9781394352081.ch4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic concrete construction goes beyond the technique of depositing successive layers or filaments, which then solidify. In the field of construction materials, 3D printing technologies are multiple and not limited to extrusion 3D printing. Spatial resolution and absolute freedom of form can be achieved by alternative 3D printing techniques. In their fresh state, cementitious materials are subject to Newton's first law, and all the problems encountered during extrusion stem from the force of gravity. Alternative techniques are suitable for creating honeycomb shapes, but also with reservations (voids in the structure), where ducts can pass through. In particular, these ducts can be used for post-tensioning reinforcement. An alternative technique for achieving functional gradation within the material appears to be already in use with foams. Indeed, graduated porosities are included in concretes by incorporating different quantities of foaming agents. These studies pave the way for exploiting alternative techniques for greater functionality in buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/calvo-barentin_javier_cristian"><b>Calvo Barentin</b> Cristian</a>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b> Dinorah</a>, <a href="../../../author/senol_ayca"><b>Şenol</b> Ayça</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../beda_calv_schu_seno.2023.MC/">Mineral Composites:<br/>Stay-in-Place Formwork for Concrete Using Foam 3D Printing</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
@@ -96,7 +79,37 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pier_perr.2025.APMfCM,
+      author            = "Alexandre Pierre and Arnaud Perrot",
+      title             = "Alternative Printing-Methods for Cementitious Materials",
+      doi               = "10.1002/9781394352081.ch4",
+      year              = "2025",
+      pages             = "103--129",
+      booktitle         = "3D Concrete Printing: State of the Art and Applications",
+      editor            = "Arnaud Perrot and Yohan Jacquet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Pierre  and A. Perrot, “Alternative Printing-Methods for Cementitious Materials”, in <i>3D Concrete Printing: State of the Art and Applications</i>,  2025, pp. 103–129. doi: 10.1002/9781394352081.ch4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pierre, Alexandre, and Arnaud Perrot. “Alternative Printing-Methods for Cementitious Materials”. In <i>3D Concrete Printing: State of the Art and Applications</i>, edited by Arnaud Perrot and Yohan Jacquet, 103–29, 2025. https://doi.org/10.1002/9781394352081.ch4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

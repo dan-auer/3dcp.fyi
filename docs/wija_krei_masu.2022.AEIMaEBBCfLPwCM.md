@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ignasius Wijaya, Eric Kreiger, Arif Masud
+    - footer
+title: Wijaya Ignasius, Kreiger Eric, Masud Arif
 description:
 tags:
  - cement
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nme.7044) An Elastic‐Inelastic Model and Embedded Bounce‐Back-Control for Layered Printing with Cementitious Materials ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1002/nme.7044" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/nme.7044</a>
+#An Elastic‐Inelastic Model and Embedded Bounce‐Back-Control for Layered Printing with Cementitious Materials ([2022-05](date/2022/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nme.7044) <a href="https://doi.org/10.1002/nme.7044" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/nme.7044" target="_blank">10.1002/nme.7044</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1894-5091" title="ORCID: 0000-0002-1894-5091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b>&nbsp;Ignasius</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4708-4251" title="ORCID: 0000-0002-4708-4251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/masud_arif"><b>Masud</b>&nbsp;Arif</a></span><br>
+Journal Article - International Journal for Numerical Methods in Engineering, Vol. ahead-of-print, Iss. ahead-of-print
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b> Ignasius</a> <a href="https://orcid.org/0000-0002-1894-5091" title="ORCID: 0000-0002-1894-5091" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/masud_arif"><b>Masud</b> Arif</a> <a href="https://orcid.org/0000-0002-4708-4251" title="ORCID: 0000-0002-4708-4251" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal for Numerical Methods in Engineering, Vol. ahead-of-print, Iss. ahead-of-print, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#elasticity`](keyword/elasticity)
-    [`#embedded`](keyword/embedded)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Elastic%E2%80%90Inelastic%20Model%20and%20Embedded%20Bounce%E2%80%90Back-Control%20for%20Layered%20Printing%20with%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134174184&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281295202" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/nme.7044" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/nme.7044?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a finite-deformation model for extrusion-based layered printing with cementitious materials. The evolution of mechanical properties as the printed material cures and stiffens results in non-physical reduction in the magnitude of elastic strains when standard constitutive models are employed. This elastic recovery of the printing induced deformation contradicts the experimentally observed behavior of the printed cementitious materials that harden at a nearly-frozen deformed state. A thermodynamically motivated constraint on the evolution of elastic strains is imposed on the constitutive model to remedy the non-physical bounce-back effect. An algorithm that is based on a strain-projection technique for the elastic part of deformation is developed that complements the inelastic response given by the Drucker-Prager model. It is then embedded in a finite strain finite element framework for the modeling and simulation of cure hardening and inelastic response of the early age cementitious materials. A ghost mesh method is proposed for continuous layer-wise printing of the material without the need for intermittent mesh generation technique or adaptive remeshing methods. The model is validated via comparison with experimental data and representative test cases are presented that investigate the mathematical and computational attributes of the proposed model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -81,9 +60,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
       <li><a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b> Ignasius</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/masud_arif"><b>Masud</b> Arif</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../wija_krei_masu.2024.MoCPPwFI/">Modeling of Concrete Printing Process with Frictional Interface</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wija_krei_masu.2022.AEIMaEBBCfLPwCM,
+      author            = "Ignasius P. A. Wijaya and Eric L. Kreiger and Arif Masud",
+      title             = "An Elastic‐Inelastic Model and Embedded Bounce‐Back-Control for Layered Printing with Cementitious Materials",
+      doi               = "10.1002/nme.7044",
+      year              = "2022",
+      journal           = "International Journal for Numerical Methods in Engineering",
+      volume            = "ahead-of-print",
+      number            = "ahead-of-print",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. P. A. Wijaya, E. L. Kreiger and A. Masud, “An Elastic‐Inelastic Model and Embedded Bounce‐Back-Control for Layered Printing with Cementitious Materials”, <i>International Journal for Numerical Methods in Engineering</i>, vol. ahead-of-print, no. ahead-of-print, 2022, doi: 10.1002/nme.7044.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wijaya, Ignasius P. A., Eric L. Kreiger, and Arif Masud. “An Elastic‐Inelastic Model and Embedded Bounce‐Back-Control for Layered Printing with Cementitious Materials”. <i>International Journal for Numerical Methods in Engineering</i> ahead-of-print, no. ahead-of-print (2022). https://doi.org/10.1002/nme.7044.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

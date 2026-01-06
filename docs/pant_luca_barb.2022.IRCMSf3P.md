@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexandru Panțiru, Bogdan Luca, Marinela Bărbuța
+    - footer
+title: Panțiru Alexandru, Luca Bogdan, Bărbuța Marinela
 description:
 tags:
  - concrete
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://sciendo.com/pdf/10.2478/bipca-2022-0010) Investigations Regarding Concrete Mixes Suitable for 3D Printing ([2024-01](date/2024/01))
-<a href="https://doi.org/10.2478/bipca-2022-0010" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2478/bipca-2022-0010</a>
+#Investigations Regarding Concrete Mixes Suitable for 3D Printing ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://sciendo.com/pdf/10.2478/bipca-2022-0010) <a href="https://doi.org/10.2478/bipca-2022-0010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/bipca-2022-0010" target="_blank">10.2478/bipca-2022-0010</a>
 
--------------------------
+<a href="../../../author/pantiru_alexandru"><b>Panțiru</b>&nbsp;Alexandru</a></span>, <a href="../../../author/luca_ionel_bogdan"><b>Luca</b>&nbsp;Bogdan</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-2953-2084" title="ORCID: 0009-0000-2953-2084" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barbuta_marinela"><b>Bărbuța</b>&nbsp;Marinela</a></span><br>
+Journal Article - Bulletin of the Polytechnic Institute of Iași. Construction. Architecture Section, Vol. 68, Iss. 1, pp. 151-164
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pantiru_alexandru"><b>Panțiru</b> Alexandru</a>
-,     <a href="../../../author/luca_ionel_bogdan"><b>Luca</b> Bogdan</a>
-,     <a href="../../../author/barbuta_marinela"><b>Bărbuța</b> Marinela</a> <a href="https://orcid.org/0009-0000-2953-2084" title="ORCID: 0009-0000-2953-2084" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Bulletin of the Polytechnic Institute of Iași. Construction. Architecture Section, Vol. 68, Iss. 1, pp. 151-164
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#investigation`](keyword/investigation)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#suitability`](keyword/suitability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigations%20Regarding%20Concrete%20Mixes%20Suitable%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391252179" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2478/bipca-2022-0010" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2478/bipca-2022-0010?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete is a relatively new technology that has been gaining popularity in the construction industry in recent years. It involves the use of a 3D printer to deposit layers of concrete in a pre-determined pattern, gradually building up a three-dimensional structure. This process offers several benefits over traditional concrete construction methods, such as the ability to create complex geometries and reduce material waste. One of the main advantages of 3D printed concrete is its ability to produce highly customized and unique designs that would be difficult or impossible to achieve using traditional construction techniques. Additionally, the precision of the 3D printing process allows for greater control over the properties of the concrete, such as its strength and porosity, which can be tailored to suit the specific requirements of the project. Another benefit of 3D printed concrete is its potential for sustainability. By minimizing material waste and using eco-friendly materials, this technology has the potential to reduce the environmental impact of construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -74,8 +56,39 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pant_luca_barb.2022.IRCMSf3P,
+      author            = "Alexandru Panțiru and Bogdan Ionel Luca and Marinela Bărbuța",
+      title             = "Investigations Regarding Concrete Mixes Suitable for 3D Printing",
+      doi               = "10.2478/bipca-2022-0010",
+      year              = "2022",
+      journal           = "Bulletin of the Polytechnic Institute of Iași. Construction. Architecture Section",
+      volume            = "68",
+      number            = "1",
+      pages             = "151--164",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Panțiru, B. I. Luca and M. Bărbuța, “Investigations Regarding Concrete Mixes Suitable for 3D Printing”, <i>Bulletin of the Polytechnic Institute of Iași. Construction. Architecture Section</i>, vol. 68, no. 1, pp. 151–164, 2022, doi: 10.2478/bipca-2022-0010.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Panțiru, Alexandru, Bogdan Ionel Luca, and Marinela Bărbuța. “Investigations Regarding Concrete Mixes Suitable for 3D Printing”. <i>Bulletin of the Polytechnic Institute of Iași. Construction. Architecture Section</i> 68, no. 1 (2022): 151–64. https://doi.org/10.2478/bipca-2022-0010.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jenny Ercan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>
   <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gawel_abel"><b>Gawel</b> Abel</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jenn_gawe.2024.SCTOSRF/">Sustainable Construction Through On‐Site Robotic Fabrication:<br/>Past and Future Concepts</a></li>
   <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/jenny_david"><b>Jenny</b> David</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../llor_jenn_jenn.2024.ANFoC/">A New Future of Construction:<br/>Digital Fabrication and Sustainability</a></li>

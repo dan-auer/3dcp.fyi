@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohd Khan
+    - footer
+title: Khan Mohd
 description:
 tags:
  - concrete
@@ -13,26 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mix Suitable for Concrete 3D Printing:<br/>:aca-blank: A Review ([2020-04](date/2020/04))
-<a href="https://doi.org/10.1016/j.matpr.2020.03.825" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2020.03.825</a>
+#Mix Suitable for Concrete 3D Printing&nbsp;([2020-04](date/2020/04))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2020.03.825" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2020.03.825" target="_blank">10.1016/j.matpr.2020.03.825</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3937-569X" title="ORCID: 0000-0002-3937-569X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_ataullah_mohd"><b>Khan</b>&nbsp;Mohd</a></span><br>
+Journal Article - Materials Today: Proceedings, Vol. 32, pp. 831-837
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> <a href="https://orcid.org/0000-0002-3937-569X" title="ORCID: 0000-0002-3937-569X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, Vol. 32, pp. 831-837
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#suitability`](keyword/suitability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mix%20Suitable%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85096579027&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3019238985" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2020.03.825" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2020.03.825?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The potential application of 3D printing technology is envisioned to create a third industrial revolution creating disruption in the economy, providing personalization and adaptation of the design. The construction field is quickly catching up with this new technology using the aid of a concrete 3D printer, the development of which is aimed at providing safer working conditions, economy and architectural freedom. The process of extrusion-based concrete printing requires the printable mix to flow through the distribution network and be deposited layer-by-layer on the build substrate or directly on-site analogous to the ink-jet printing process. In this case, for the mix to be printable, it should be capable of being pumped, extruded and deposited in layers within an optimized duration of time. The printing time-gap between layers is complicated by the scale and complexity of the geometry. The rheological behavior of the fresh mix will have a significant influence on the ability of the mix to be pumped and extruded while the mechanical response of the fresh concrete will influence the ability of the concrete printer to build layers with bonded interfaces. The design mixes are formulated to provide the maximum compressive and tensile strengths to the printed specimen which are influenced by the print parameters like time gap between layers, size of the nozzle in relation to the aggregate size. This paper aims at reviewing the concrete-mixes including fiber-reinforced, Geopolymer mixes suitable for the 3D printing process looking at both the fresh and hardened properties of the mix while simultaneously shedding light on appropriate printing parameters. The strategies used by researchers, in selecting appropriate material mix to tune the fresh properties of concrete and to improve the interfacial bond strength are discussed. Recommendations are provided to improve
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -84,8 +69,9 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "64 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
@@ -150,4 +136,34 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan.2020.MSfC3P,
+      author            = "Mohd Ataullah Khan",
+      title             = "Mix Suitable for Concrete 3D Printing: A Review",
+      doi               = "10.1016/j.matpr.2020.03.825",
+      year              = "2020",
+      journal           = "Materials Today: Proceedings",
+      volume            = "32",
+      pages             = "831--837",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Khan, “Mix Suitable for Concrete 3D Printing: A Review”, <i>Materials Today: Proceedings</i>, vol. 32, pp. 831–837, 2020, doi: 10.1016/j.matpr.2020.03.825.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Mohd Ataullah. “Mix Suitable for Concrete 3D Printing: A Review”. <i>Materials Today: Proceedings</i> 32 (2020): 831–37. https://doi.org/10.1016/j.matpr.2020.03.825.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

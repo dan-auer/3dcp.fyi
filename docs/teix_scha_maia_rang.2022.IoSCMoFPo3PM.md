@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: João Teixeira, Cecília Schaefer, Lino Maia, Bárbara Rangel, Rui Neto, Jorge Alves
+    - footer
+title: Teixeira João, Schaefer Cecília, Maia Lino, Rangel Bárbara, Neto Rui, Alves Jorge
 description:
 tags:
  - cement
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/14/7/3970/pdf?version=1648722529) Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials ([2022-03](date/2022/03))
-<a href="https://doi.org/10.3390/su14073970" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su14073970</a>
+#Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/7/3970/pdf?version=1648722529) <a href="https://doi.org/10.3390/su14073970" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14073970" target="_blank">10.3390/su14073970</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b>&nbsp;Cecília</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_lino"><b>Maia</b>&nbsp;Lino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2719-5672" title="ORCID: 0000-0003-2719-5672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neto_rui"><b>Neto</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span><br>
+Journal Article - Sustainability, Vol. 14, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> <a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>
-,     <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neto_rui"><b>Neto</b> Rui</a> <a href="https://orcid.org/0000-0003-2719-5672" title="ORCID: 0000-0003-2719-5672" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 14, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#fresh`](keyword/fresh)
-    [`#influence`](keyword/influence)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#supplement`](keyword/supplement)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/supplement"><button class="btn">#supplement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Supplementary%20Cementitious%20Materials%20on%20Fresh%20Properties%20of%203D%20Printable%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128232772&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220906625" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su14073970" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su14073970?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of printers and materials for 3D Printing Construction during the last two decades has allowed the construction of increasingly complex projects. Some of them have broken construction speed records due to the simplification of the construction process, particularly in non-standard geometries. However, for performance and security reasons the materials used had considerable amounts of Portland cement (PC), a constituent that increases the cost and environmental impact of 3D Printable Materials (3DPM). Supplementary Cement Materials (SCM), such as fly ash, silica fume and metakaolin, have been considered a good solution to partially replace PC. This work aims to study the inclusion of limestone filler, fly ash and metakaolin as SCM in 3DPM. Firstly, a brief literature review was made to understand how these SCM can improve the materials’ 3DP capacity, and which methods are used to evaluate them. Based on the literature review, a laboratory methodology is proposed to assess 3DP properties, where tests such as slump and flow table are suggested. The influence of each SCM is evaluated by performing all tests on mortars with different dosages of each SCM. Finally, a mechanical extruder is used to extrude the developed mortars, which allowed us to compare the results of slump and flow table tests with the quality of extruded samples.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -95,8 +72,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_maia.2026.E3CPCwBT/">Expanding 3D Concrete Printing Customization with Biomimetic Textures</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
@@ -114,4 +91,34 @@ tags:
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../jesu_pess_guim_rang.2023.ARoSOf3PiC/">A Reflection on Sustainable Opportunities for 3D Printing in Construction</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zafa_bakh_hoja.2022.T3PECC/">Toward 3D Printable Engineered Cementitious Composites:<br/>Mix-Design Proportioning, Flowability, and Mechanical Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{teix_scha_maia_rang.2022.IoSCMoFPo3PM,
+      author            = "João Teixeira and Cecília Ogliari Schaefer and Lino Maia and Bárbara Rangel and Rui Neto and Jorge Lino Alves",
+      title             = "Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials",
+      doi               = "10.3390/su14073970",
+      year              = "2022",
+      journal           = "Sustainability",
+      volume            = "14",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Teixeira, C. O. Schaefer, L. Maia, B. Rangel, R. Neto and J. L. Alves, “Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials”, <i>Sustainability</i>, vol. 14, no. 7, 2022, doi: 10.3390/su14073970.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Teixeira, João, Cecília Ogliari Schaefer, Lino Maia, Bárbara Rangel, Rui Neto, and Jorge Lino Alves. “Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials”. <i>Sustainability</i> 14, no. 7 (2022). https://doi.org/10.3390/su14073970.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

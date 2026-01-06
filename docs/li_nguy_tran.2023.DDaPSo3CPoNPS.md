@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shuai Li, Hung Nguyen-Xuan, Jonathan Tran
+    - footer
+title: Li Shuai, Nguyen-Xuan Hung, Tran Jonathan
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.autcon.2022.104624" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104624</a>
+#Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104624" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104624" target="_blank">10.1016/j.autcon.2022.104624</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shuai"><b>Li</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1746-8297" title="ORCID: 0000-0002-1746-8297" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b>&nbsp;Hung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Automation in Construction, Vol. 145
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_shuai"><b>Li</b> Shuai</a> <a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> <a href="https://orcid.org/0000-0002-1746-8297" title="ORCID: 0000-0002-1746-8297" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 145, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#parameter`](keyword/parameter)
-    [`#planar`](keyword/planar)
-    [`#print`](keyword/print)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/planar"><button class="btn">#planar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Design%20and%20Parametric%20Study%20of%203D%20Concrete%20Printing%20on%20Non-Planar%20Surfaces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140962149&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308500111" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104624" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104624?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While significant efforts have been devoted to material and printing process optimisation for 3D concrete printing (3DCP) on flat surfaces, printing on non-planar or complex surfaces remains challenging. In this work, a design-to-printing framework that combines digital models and physical printing processes is developed and validated for 3DCP on non-planar and curved surfaces. Parametric studies are conducted to investigate the correlations between printing parameters, surfaces’ slopes, and filaments’ geometries. This paper demonstrates that while the printing instability is mainly attributed to inaccurate deposition of filaments accumulated throughout the process, controlling nozzle height is the key for successful printing on non-planar surfaces. Moreover, printings on surfaces inclined at less than 20◦ comply with the strength-based stability criteria. Printing parameters, such as nozzle height, printing speed and extrusion volume can be tuned to create suitable toolpath and associated GCode for stable printing on complex surfaces.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -97,8 +77,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>
       <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
       <li><a href="../../../author/ishikawa_shinichi"><b>Ishikawa</b> Shinichi</a>, <a href="../../../author/yamada_ryo"><b>Yamada</b> Ryo</a>, <a href="../../../author/tasaki_ryosuke"><b>Tasaki</b> Ryosuke</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ishi_yama_tasa.2025.HSIFMaMLSCf3PoUS/">High-Sensitivity Interlayer Force Measurement and Multi-Layer Smoothing Control for 3D Printing on Uneven Surfaces</a></li>
@@ -119,4 +99,33 @@ tags:
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
       <li><a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a>, <a href="../../../author/kurilla_lukas"><b>Kurilla</b> Lukáš</a>, <a href="../../../author/achten_hubertus_henri"><b>Achten</b> Henri</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../vele_kuri_acht.2023.IBoOo3POTNPSIbFFA/">Improving Buildability of Overhangs of 3D Printed Objects Through Non-Planar Slicing Informed by Force-Flow-Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_nguy_tran.2023.DDaPSo3CPoNPS,
+      author            = "Shuai Li and Hung Nguyen-Xuan and Jonathan Phuong Tran",
+      title             = "Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces",
+      doi               = "10.1016/j.autcon.2022.104624",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "145",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Li, H. Nguyen-Xuan and J. P. Tran, “Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces”, <i>Automation in Construction</i>, vol. 145, 2023, doi: 10.1016/j.autcon.2022.104624.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Shuai, Hung Nguyen-Xuan, and Jonathan Phuong Tran. “Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces”. <i>Automation in Construction</i> 145 (2023). https://doi.org/10.1016/j.autcon.2022.104624.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

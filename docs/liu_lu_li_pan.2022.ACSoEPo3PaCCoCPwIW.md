@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Siyu Liu, Bing Lu, Hongliang Li, Zehua Pan, Jinyang Jiang, Shunzhi Qian
+    - footer
+title: Liu Siyu, Lu Bing, Li Hongliang, Pan Zehua, Jiang Jinyang, Qian Shunzhi
 description:
 tags:
  - cast
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.chemosphere.2022.134310" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.chemosphere.2022.134310</a>
+#A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.chemosphere.2022.134310" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.chemosphere.2022.134310" target="_blank">10.1016/j.chemosphere.2022.134310</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4700-3773" title="ORCID: 0000-0002-4700-3773" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_siyu"><b>Liu</b>&nbsp;Siyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <a href="../../../author/li_hongliang"><b>Li</b>&nbsp;Hongliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6697-6407" title="ORCID: 0000-0002-6697-6407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_zehua"><b>Pan</b>&nbsp;Zehua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0134-9373" title="ORCID: 0000-0002-0134-9373" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_jinyang"><b>Jiang</b>&nbsp;Jinyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Chemosphere, Vol. 298
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_siyu"><b>Liu</b> Siyu</a> <a href="https://orcid.org/0000-0002-4700-3773" title="ORCID: 0000-0002-4700-3773" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> <a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>
-,     <a href="../../../author/pan_zehua"><b>Pan</b> Zehua</a> <a href="https://orcid.org/0000-0002-6697-6407" title="ORCID: 0000-0002-6697-6407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_jinyang"><b>Jiang</b> Jinyang</a> <a href="https://orcid.org/0000-0002-0134-9373" title="ORCID: 0000-0002-0134-9373" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Chemosphere, Vol. 298, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#conventional`](keyword/conventional)
-    [`#environment`](keyword/environment)
-    [`#industry`](keyword/industry)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comparative%20Study%20on%20Environmental%20Performance%20of%203D%20Printing%20and%20Conventional%20Casting%20of%20Concrete%20Products%20with%20Industrial%20Wastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126452742&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220875555" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.chemosphere.2022.134310" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.chemosphere.2022.134310?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing construction techniques are believed to have potential sustainability benefits, including improved resource efficiency, increased construction productivity, and construction of complex geometries without supporting structures. 3D printable concrete materials, when introducing industrial wastes such as fly ash, silica fume, and slag, may also bring additional sustainability benefits. These advantages need to be verified quantitatively. This study investigated the environmental impact of 3D printable concrete materials using industrial wastes compared with the conventional ones via life cycle assessment (LCA). Two types of concrete materials applied in concrete casting or 3D printing were compared, that is, cement-based concrete and geopolymer concrete. The results indicate that using waste materials as cement replacement could bring environmental benefits; however, such environmental benefits might be diminished with increasing activator content in geopolymer concrete for 3D concrete printing. Based on the material-level LCA results, this study further conducted an LCA study at the component level, which investigated the life-cycle environmental impact of concrete components of different shapes constructed by Contour Crafting method. Results show that the potential environmental benefit of 3D concrete printing increases with the level of building complexity while decreases with the reuse times of formwork, which leads to the conclusion that 3D concrete printing method is more desirable for constructing non-repetitive freeform concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -95,8 +70,10 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "54 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
@@ -150,4 +127,33 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../lu_li_wong_qian.2022.SB3CPwCaPA/">Spray-Based 3D Concrete Printing with Calcium and Polymeric Additives:<br/>A Feasibility Study</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_lu_li_pan.2022.ACSoEPo3PaCCoCPwIW,
+      author            = "Siyu Liu and Bing Lu and Hongliang Li and Zehua Pan and Jinyang Jiang and Shunzhi Qian",
+      title             = "A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes",
+      doi               = "10.1016/j.chemosphere.2022.134310",
+      year              = "2022",
+      journal           = "Chemosphere",
+      volume            = "298",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Liu, B. Lu, H. Li, Z. Pan, J. Jiang and S. Qian, “A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes”, <i>Chemosphere</i>, vol. 298, 2022, doi: 10.1016/j.chemosphere.2022.134310.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Siyu, Bing Lu, Hongliang Li, Zehua Pan, Jinyang Jiang, and Shunzhi Qian. “A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes”. <i>Chemosphere</i> 298 (2022). https://doi.org/10.1016/j.chemosphere.2022.134310.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

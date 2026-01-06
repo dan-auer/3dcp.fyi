@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jiyu Tang, Zhihang Wang, Danying Gao, Lin Yang, Haitang Zhu, Liangping Zhao, Zongze Li
+    - footer
+title: Tang Jiyu, Wang Zhihang, Gao Danying, Yang Lin, Zhu Haitang, Zhao Liangping, Li Zongze
 description:
 tags:
  - concrete
@@ -12,31 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Research Progress on 3D Printed Geopolymer Concrete ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1007/s10853-025-11755-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s10853-025-11755-z</a>
+#Research Progress on 3D Printed Geopolymer Concrete ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s10853-025-11755-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10853-025-11755-z" target="_blank">10.1007/s10853-025-11755-z</a>
 
--------------------------
+<a href="../../../author/tang_jiyu"><b>Tang</b>&nbsp;Jiyu</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4419-8585" title="ORCID: 0009-0009-4419-8585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhihang"><b>Wang</b>&nbsp;Zhihang</a></span>, <a href="../../../author/gao_danying"><b>Gao</b>&nbsp;Danying</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2596" title="ORCID: 0000-0002-6910-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_lin"><b>Yang</b>&nbsp;Lin</a></span>, <a href="../../../author/zhu_haitang"><b>Zhu</b>&nbsp;Haitang</a></span>, <a href="../../../author/zhao_liangping"><b>Zhao</b>&nbsp;Liangping</a></span>, <a href="../../../author/li_zongze"><b>Li</b>&nbsp;Zongze</a></span><br>
+Journal Article - Journal of Materials Science
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>
-,     <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a> <a href="https://orcid.org/0009-0009-4419-8585" title="ORCID: 0009-0009-4419-8585" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>
-,     <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> <a href="https://orcid.org/0000-0002-6910-2596" title="ORCID: 0000-0002-6910-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_haitang"><b>Zhu</b> Haitang</a>
-,     <a href="../../../author/zhao_liangping"><b>Zhao</b> Liangping</a>
-,     <a href="../../../author/li_zongze"><b>Li</b> Zongze</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Science, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20Progress%20on%203D%20Printed%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020296485&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415768546" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s10853-025-11755-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s10853-025-11755-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing geopolymer concrete (3DPGC) technology conforms to the sustainable development and intelligent construction requirements of the construction industry, becoming the most promising development direction and research hotspot. However, there is currently a lack of systematic analysis of its research progress. In this paper, the flowability, setting time, thixotropy, and printability control methods of fresh 3DPGC mixtures with different compositions were reviewed, and the compressive, flexural, and interfacial bonding strengths of hardened 3DPGCs were compared. The sustainability of 3DPGC was evaluated, its development prospect was prospected, and some constructive suggestions were put forward. Key findings reveal that the rheological properties of 3DPGC can be controlled by reasonable material selection and mix design, achieving a balance between extrudability and buildability. The mechanical strengths of 3DPGC show significant anisotropy and can be enhanced by suitable precursor composition. The interlayer bonding strength of 3DPGC can be improved by optimizing the mix proportion, using microwave heating, and controlling the printing parameters, but the influence of fibers is still unclear. The economic and environmental benefits of the whole life cycle of 3DPGCs can be scientifically evaluated by using the hidden carbon method. We highlight the urgent need for the formulation of relevant standards as soon as possible and the development of large-scale 3D printing equipment with high artificial intelligence. This is crucial to promote the application of this technology in practical engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "77 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -140,7 +119,35 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tang_wang_gao_yang.2025.RPo3PGC,
+      author            = "Jiyu Tang and Zhihang Wang and Danying Gao and Lin Yang and Haitang Zhu and Liangping Zhao and Zongze Li",
+      title             = "Research Progress on 3D Printed Geopolymer Concrete",
+      doi               = "10.1007/s10853-025-11755-z",
+      year              = "2025",
+      journal           = "Journal of Materials Science",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Tang, “Research Progress on 3D Printed Geopolymer Concrete”, <i>Journal of Materials Science</i>, 2025, doi: 10.1007/s10853-025-11755-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tang, Jiyu, Zhihang Wang, Danying Gao, Lin Yang, Haitang Zhu, Liangping Zhao, and Zongze Li. “Research Progress on 3D Printed Geopolymer Concrete”. <i>Journal of Materials Science</i>, 2025. https://doi.org/10.1007/s10853-025-11755-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

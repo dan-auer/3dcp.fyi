@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnaud Perrot, Sofiane Amziane
+    - footer
+title: Perrot Arnaud, Amziane Sofiane
 description:
 tags:
  - concrete
@@ -12,26 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing in Concrete:<br/>:aca-blank: General Considerations and Technologies ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1002/9781119610755.ch1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9781119610755.ch1</a>
+#3D Printing in Concrete&nbsp;([2019-04](date/2019/04))
+<div class="h1-like">General Considerations and Technologies</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781119610755.ch1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781119610755.ch1" target="_blank">10.1002/9781119610755.ch1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amziane_sofiane"><b>Amziane</b>&nbsp;Sofiane</a></span><br>
+Contribution - 3D Printing of Concrete, pp. 1-40
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Printing of Concrete, pp. 1-40
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#general`](keyword/general)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/general"><button class="btn">#general</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85102330494&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2937246286" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9781119610755.ch1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9781119610755.ch1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of 3D printing and the introduction of digital technologies into the concrete construction sector are the result of the appropriation and repurposing of technology initially developed for other materials, such as resins and plastics. This would be a good time to introduce the need to improve performance on the construction site. The construction industry accounts for 13% of industrial expenditures worldwide, but only 1% of annual growth in productivity. It is a sector that has a long tradition of low productivity and stunted technological capabilities, in comparison with the technical developments in other industries that have largely automated and digitized their manufacturing processes. The reasons for this conservative outlook are numerous and often stem from the uniqueness of each building, which, in practice, does not allow processes to be reproduced and, to a certain extent, limits the technical framework on the site. The low productivity brought about by methods that are a burden to implement results in high production costs, which make it difficult for companies to develop.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -82,12 +67,11 @@ tags:
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../szab_reit_llor_gram.2019.ASDCtTFG/">Adapting Smart Dynamic Casting to Thin-Folded Geometries</a></li>
       <li><a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/wille_kay"><b>Wille</b> Kay</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../vand_bess_will_rous.2019.EPCTbHSM/">Enhancing Printable Concrete Thixotropy by High-Shear Mixing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -124,4 +108,34 @@ tags:
       <li><a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../dede_sone_amzi_perr.2020.EoMFAaPFoFaRPo3PBCM/">Effect of Metakaolin, Fly-Ash and Polypropylene-Fibers on Fresh and Rheological Properties of 3D Printing Based Cement Materials</a></li>
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../guam_garc_mart_chee.2020.ACPEoDMMUaD3PoBEftCI/">A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{perr_amzi.2019.3PiC,
+      author            = "Arnaud Perrot and Sofiane Amziane",
+      title             = "3D Printing in Concrete: General Considerations and Technologies",
+      doi               = "10.1002/9781119610755.ch1",
+      year              = "2019",
+      pages             = "1--40",
+      booktitle         = "3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution",
+      editor            = "Arnaud Perrot",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Perrot  and S. Amziane, “3D Printing in Concrete: General Considerations and Technologies”, in <i>3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution</i>,  2019, pp. 1–40. doi: 10.1002/9781119610755.ch1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perrot, Arnaud, and Sofiane Amziane. “3D Printing in Concrete: General Considerations and Technologies”. In <i>3D Printing of Concrete: State of the Art and Challenges of the Digital Construction Revolution</i>, edited by Arnaud Perrot, 1–40, 2019. https://doi.org/10.1002/9781119610755.ch1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

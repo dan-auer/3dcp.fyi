@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adewumi Babafemi, John Kolawole, Md Miah, Suvash Paul, Biranchi Panda
+    - footer
+title: Babafemi Adewumi, Kolawole John, Miah Md, Paul Suvash, Panda Biranchi
 description:
 tags:
  - bond
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/13/13/7137/pdf?version=1624609993) A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing ([2021-06](date/2021/06))
-<a href="https://doi.org/10.3390/su13137137" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su13137137</a>
+#A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing ([2021-06](date/2021/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/13/13/7137/pdf?version=1624609993) <a href="https://doi.org/10.3390/su13137137" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su13137137" target="_blank">10.3390/su13137137</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolawole_temitope_john"><b>Kolawole</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3021-8591" title="ORCID: 0000-0002-3021-8591" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miah_jihad_md"><b>Miah</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_chandra_suvash"><b>Paul</b>&nbsp;Suvash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span><br>
+Journal Article - Sustainability, Vol. 13, Iss. 13
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> <a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a> <a href="https://orcid.org/0000-0002-3021-8591" title="ORCID: 0000-0002-3021-8591" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> <a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 13, Iss. 13, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Concise%20Review%20on%20Inter-Layer%20Bond%20Strength%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85109152288&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3173451977" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su13137137" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su13137137?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interlayer bond strength is one of the key aspects of 3D concrete printing. It is a wellestablished fact that, similar to other 3D printing process material designs, process parameters and printing environment can significantly affect the bond strength between layers of 3D printed concrete. The first section of this review paper highlights the importance of bond strength, which can affect the mechanical and durability properties of 3D printed structures. The next section summarizes all the testing and bond strength measurement methods adopted in the literature, including mechanical and microstructure characterization. Finally, the last two sections focus on the influence of critical parameters on bond strength and different strategies employed in the literature for improving the strength via strengthening mechanical interlocking in the layers and tailoring surface as well as interface reactions. This concise review work will provide a holistic perspective on the current state of the art of interlayer bond strength in 3D concrete printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -112,8 +90,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "77 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
@@ -192,4 +170,34 @@ tags:
       <li><a href="../../../author/napolitano_rosanna"><b>Napolitano</b> Rosanna</a>, <a href="../../../author/forni_daniele"><b>Forni</b> Daniele</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../napo_forn_menn_aspr.2021.DCotLIPo3PCE/">Dynamic Characterization of the Layer-Interface Properties of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baba_kola_miah_paul.2021.ACRoILBSi3CP,
+      author            = "Adewumi John Babafemi and John Temitope Kolawole and Md Jihad Miah and Suvash Chandra Paul and Biranchi Narayan Panda",
+      title             = "A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing",
+      doi               = "10.3390/su13137137",
+      year              = "2021",
+      journal           = "Sustainability",
+      volume            = "13",
+      number            = "13",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. J. Babafemi, J. T. Kolawole, M. J. Miah, S. C. Paul and B. N. Panda, “A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing”, <i>Sustainability</i>, vol. 13, no. 13, 2021, doi: 10.3390/su13137137.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Babafemi, Adewumi John, John Temitope Kolawole, Md Jihad Miah, Suvash Chandra Paul, and Biranchi Narayan Panda. “A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing”. <i>Sustainability</i> 13, no. 13 (2021). https://doi.org/10.3390/su13137137.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

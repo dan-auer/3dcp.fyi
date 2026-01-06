@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shuai Li, Junli Liu, Chi-Tsun Cheng, Hung Xuan, Jonathan Tran
+    - footer
+title: Li Shuai, Liu Junli, Cheng Chi-Tsun, Xuan Hung, Tran Jonathan
 description:
 tags:
  - beam
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106188" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106188</a>
+#Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106188" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106188" target="_blank">10.1016/j.cemconcomp.2025.106188</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shuai"><b>Li</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junli"><b>Liu</b>&nbsp;Junli</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3306-6148" title="ORCID: 0000-0003-3306-6148" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_chi-tsun"><b>Cheng</b>&nbsp;Chi-Tsun</a></span>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b>&nbsp;Hung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106188
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_shuai"><b>Li</b> Shuai</a> <a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_junli"><b>Liu</b> Junli</a> <a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a> <a href="https://orcid.org/0000-0003-3306-6148" title="ORCID: 0000-0003-3306-6148" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106188
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#bouligand`](keyword/bouligand)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#curve`](keyword/curve)
-    [`#design`](keyword/design)
-    [`#fiber`](keyword/fiber)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Performance%20of%203D%20Printed%20Bouligand%20Steel%20Fiber-Reinforced%20Cementitious%20Composite%20Curved%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008109179&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411177806" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106188" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106188?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) enables fabrication of intricate architectures that mimic natural materials and augment desired mechanical and structural properties. This study presents a digital framework for fabricating fibre-reinforced concrete internal architectures via 3DCP on non-planar surfaces. Arched beams with Bouligand structures were printed, and their microstructures and mechanical properties were analysed. Results demonstrate the Bouligand structure reduces porosity and enhances strength under combined shear-flexural loading. Notably, incorporating Bouligand patterns into arched beams instead of flat beams yields a more pronounced effect, transforming the failure mode from brittle to ductile with multiple cracks. Furthermore, both the curvature and infill pattern of 3DCP arched beams are crucial for maintaining structural integrity and resisting failures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -106,8 +80,37 @@ tags:
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/ye_boxing"><b>Ye</b> Boxing</a>, <a href="../../../author/lin_kangjian"><b>Lin</b> Kangjian</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sun_ye_lin_wang.2022.SPo3PCRwFoRMBoDST/">Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_liu_chen_xuan.2025.DaPo3PBSFRCCCB,
+      author            = "Shuai Li and Junli Liu and Chi-Tsun Cheng and Hung Nguyen Xuan and Jonathan Phuong Tran",
+      title             = "Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams",
+      doi               = "10.1016/j.cemconcomp.2025.106188",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106188",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Li, J. Liu, C.-T. Cheng, H. N. Xuan and J. P. Tran, “Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams”, <i>Cement and Concrete Composites</i>, p. 106188, 2025, doi: 10.1016/j.cemconcomp.2025.106188.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Shuai, Junli Liu, Chi-Tsun Cheng, Hung Nguyen Xuan, and Jonathan Phuong Tran. “Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams”. <i>Cement and Concrete Composites</i>, 2025, 106188. https://doi.org/10.1016/j.cemconcomp.2025.106188.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

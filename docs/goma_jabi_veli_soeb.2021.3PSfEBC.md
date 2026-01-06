@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamed Gomaa, Wassim Jabi, Alejandro Veliz-Reyes, Veronica Soebarto
+    - footer
+title: Gomaa Mohamed, Jabi Wassim, Veliz-Reyes Alejandro, Soebarto Veronica
 description:
 tags:
  - base
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://digital.library.adelaide.edu.au/dspace/bitstream/2440/130480/3/hdl_130480.pdf) 3D Printing System for Earth-Based Construction:<br/>:aca-blank: Case Study of Cob ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1016/j.autcon.2021.103577" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2021.103577</a>
+#3D Printing System for Earth-Based Construction&nbsp;([2021-01](date/2021/01))
+<div class="h1-like">Case Study of Cob</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://digital.library.adelaide.edu.au/dspace/bitstream/2440/130480/3/hdl_130480.pdf) <a href="https://doi.org/10.1016/j.autcon.2021.103577" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103577" target="_blank">10.1016/j.autcon.2021.103577</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9463-4888" title="ORCID: 0000-0001-9463-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gomaa_mohamed"><b>Gomaa</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabi_wassim"><b>Jabi</b>&nbsp;Wassim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5044-1782" title="ORCID: 0000-0002-5044-1782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b>&nbsp;Alejandro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1397-8414" title="ORCID: 0000-0003-1397-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soebarto_veronica"><b>Soebarto</b>&nbsp;Veronica</a></span><br>
+Journal Article - Automation in Construction, Vol. 124, No. 103577
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a> <a href="https://orcid.org/0000-0001-9463-4888" title="ORCID: 0000-0001-9463-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a> <a href="https://orcid.org/0000-0002-5044-1782" title="ORCID: 0000-0002-5044-1782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="https://orcid.org/0000-0003-1397-8414" title="ORCID: 0000-0003-1397-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 124, No. 103577
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#case`](keyword/case)
-    [`#construction`](keyword/construction)
-    [`#earth`](keyword/earth)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20System%20for%20Earth-Based%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099826086&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3122011535" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2021.103577" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2021.103577?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Despite the dramatic development in digital manufacturing technologies in the recent years, 3D printing of earth materials, such as cob, still presents several challenges to the market-available 3D printing systems. This paper describes the development process of a 3D printing system for cob that fits the contemporary requirements of digital construction. The study first described the methodology of producing a revised cob recipe for the purpose of 3D printing. Then, the study conducted thorough investigations into the properties of three types of extrusion systems using both electromechanical and pneumatic methods, leading eventually to the development of a new bespoke dual-ram extruder. The study then explored systematically the relationship between the new 3DP system and the rheological properties of cob, followed by an exploration to the new geometric opportunities the new system offers. The study findings show that the new extrusion system improves greatly the 3DP process of cob in terms of extrusion rate, continuity, consistency, and mobility. The findings are expected to bring 3D printed cob construction closer to full-scale applications. On a broader scale the study contributes to the disciplines of architectural design and construction by providing a framework capable of bridging the knowledge gap between vernacular modes of building production and contemporary digital practice.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/ismaeel_se_walaa"><b>Ismaeel</b> Walaa</a>, <a href="../../../author/abbas_ayman"><b>Abbas</b> Ayman</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../gene_isma_abba.2019.ACRfATDCWPTiE/">A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt</a></li>
@@ -80,8 +61,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "82 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
       <li><a href="../../../author/abidi_imene"><b>Abidi</b> Imene</a>, <a href="../../../author/tuna_meral"><b>Tuna</b> Meral</a>, <a href="../../../author/carboni_biagio"><b>Carboni</b> Biagio</a>, <a href="../../../author/trovalusci_patrizia"><b>Trovalusci</b> Patrizia</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abid_tuna_carb_trov.2026.APSoTOoAMCM/">A Parametric Study on Topology Optimization of Additively Manufactured Clay Materials</a></li>
@@ -165,4 +146,34 @@ tags:
       <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../guim_delg_luca.2021.AMiCE/">Advanced Manufacturing in Civil Engineering</a></li>
       <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{goma_jabi_veli_soeb.2021.3PSfEBC,
+      author            = "Mohamed Gomaa and Wassim Jabi and Alejandro Veliz-Reyes and Veronica Soebarto",
+      title             = "3D Printing System for Earth-Based Construction: Case Study of Cob",
+      doi               = "10.1016/j.autcon.2021.103577",
+      year              = "2021",
+      journal           = "Automation in Construction",
+      volume            = "124",
+      pages             = "103577",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Gomaa, W. Jabi, A. Veliz-Reyes and V. Soebarto, “3D Printing System for Earth-Based Construction: Case Study of Cob”, <i>Automation in Construction</i>, vol. 124, p. 103577, 2021, doi: 10.1016/j.autcon.2021.103577.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gomaa, Mohamed, Wassim Jabi, Alejandro Veliz-Reyes, and Veronica Soebarto. “3D Printing System for Earth-Based Construction: Case Study of Cob”. <i>Automation in Construction</i> 124 (2021): 103577. https://doi.org/10.1016/j.autcon.2021.103577.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

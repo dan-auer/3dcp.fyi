@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fabian Rodriguez, Cristian Lopez, Yu Wang, Jan Olek, Pablo Zavattieri, Jeffrey Youngblood, Gabriel Falzone, Jason Cotrell
+    - footer
+title: Rodriguez Fabian, Lopez Cristian, Wang Yu, Olek Jan, Zavattieri Pablo, Youngblood Jeffrey, Falzone Gabriel, Cotrell Jason
 description:
 tags:
  - application
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/978-3-031-06116-5_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-06116-5_26</a>
+#Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_26" target="_blank">10.1007/978-3-031-06116-5_26</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b>&nbsp;Fabian</a></span>, <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b>&nbsp;Cristian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yu"><b>Wang</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6125-6726" title="ORCID: 0000-0002-6125-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falzone_gabriel"><b>Falzone</b>&nbsp;Gabriel</a></span>, <a href="../../../author/cotrell_jason"><b>Cotrell</b>&nbsp;Jason</a></span><br>
+Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 175-181
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a> <a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b> Cristian</a>
-,     <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/falzone_gabriel"><b>Falzone</b> Gabriel</a> <a href="https://orcid.org/0000-0002-6125-6726" title="ORCID: 0000-0002-6125-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cotrell_jason"><b>Cotrell</b> Jason</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 175-181
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#durability`](keyword/durability)
-    [`#environment`](keyword/environment)
-    [`#evaluation`](keyword/evaluation)
-    [`#exposure`](keyword/exposure)
-    [`#marine`](keyword/marine)
-    [`#material`](keyword/material)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Durability%20of%203D%20Printed%20Cementitious%20Materials%20for%20Potential%20Applications%20in%20Structures%20Exposed%20to%20Marine%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133154048&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285212984" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-06116-5_26" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-06116-5_26?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rising interest in 3D-printing of concrete structures for use in marine environments requires development of concrete mixtures with adequate mechanical and durability characteristics. The incorporation of alternative cementitious materials, combined with careful selection of printing parameters has emerged as an effective way of controlling not only the fresh properties and printability of mixtures, but also their mechanical and durability properties. This paper presents the results of various durability related tests performed on 3D-printed mortars, including density, porosity, rate of water absorption and resistance to chloride penetration. Results of these tests indicate that the performance of mortar elements 3D-printed using controlled overlap process was similar to the performance of conventionally cast mortar elements with the same composition. Moreover, the results of the chloride transport related tests obtained from all specimens evaluated during the course ofthe study indicate lowchloride ion penetrability, thus re-affirming that combination of the proposed material and 3D-printing method of fabrication have a potential for producing structural elements for applications in marine environments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/lobo_b"><b>Lobo</b> B.</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../blaa_lobo.2020.ARMaPS/">A Robust Mortar and Printing System</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/grasser_georg"><b>Grasser</b> Georg</a>, <a href="../../../author/pammer_lorenz"><b>Pammer</b> Lorenz</a>, <a href="../../../author/koll_harald"><b>Köll</b> Harald</a>, <a href="../../../author/werner_e"><b>Werner</b> E.</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gras_pamm_koll_wern.2020.CAiPC/">Complex Architecture in Printed Concrete:<br/>The Case of the Innsbruck University 350th Anniversary Pavilion COHESION</a></li>
@@ -86,8 +57,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/cotrell_jason"><b>Cotrell</b> Jason</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wu_cotr_li.2020.ILEoFBo3PC/">Inter-Layer Effect on Fracture Behavior of 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../dong_wu_liu_wu.2025.CTAaIDi3PUHPC/">Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>Multi-Scale Evaluation and Engineering Implications</a></li>
@@ -99,4 +70,35 @@ tags:
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
       <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gupt_esma_prih_ghan.2023.FaTAoH3PLCM/">Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME,
+      author            = "Fabian B. Rodriguez and Cristian Garzon Lopez and Yu Wang and Jan Olek and Pablo D. Zavattieri and Jeffrey P. Youngblood and Gabriel Falzone and Jason Cotrell",
+      title             = "Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments",
+      doi               = "10.1007/978-3-031-06116-5_26",
+      year              = "2022",
+      volume            = "37",
+      pages             = "175--181",
+      booktitle         = "Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022",
+      editor            = "Richard A. Buswell and Ana Blanco and Sergio Cavalaro and Peter Kinnell",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. B. Rodriguez, “Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 175–181. doi: 10.1007/978-3-031-06116-5_26.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rodriguez, Fabian B., Cristian Garzon Lopez, Yu Wang, Jan Olek, Pablo D. Zavattieri, Jeffrey P. Youngblood, Gabriel Falzone, and Jason Cotrell. “Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:175–81, 2022. https://doi.org/10.1007/978-3-031-06116-5_26.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

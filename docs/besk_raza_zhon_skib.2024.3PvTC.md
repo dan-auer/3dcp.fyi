@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Svetlana Besklubova, Muhammad Raza, Ray Zhong, Mirosław Skibniewski
+    - footer
+title: Besklubova Svetlana, Raza Muhammad, Zhong Ray, Skibniewski Mirosław
 description:
 tags:
  - comparision
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing vs. Traditional Construction:<br/>:aca-blank: Cost Comparisons from Design to Waste Disposal Stages ([2024-06](date/2024/06))
-<a href="https://doi.org/10.22260/isarc2024/0161" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2024/0161</a>
+#3D Printing vs. Traditional Construction&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">Cost Comparisons from Design to Waste Disposal Stages</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0161" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0161" target="_blank">10.22260/isarc2024/0161</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b>&nbsp;Mirosław</a></span><br>
+Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> <a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> <a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#comparision`](keyword/comparision)
-    [`#construction`](keyword/construction)
-    [`#cost`](keyword/cost)
-    [`#design`](keyword/design)
-    [`#print`](keyword/print)
-    [`#stage`](keyword/stage)
-    [`#tradition`](keyword/tradition)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stage"><button class="btn">#stage</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20vs.%20Traditional%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199646174&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399043600" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2024/0161" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2024/0161?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction 3D printing (3DP) has the potential to be cost-effective compared to traditional construction, due to its shorter supply chain and higher level of automation. However, there is a lack of comprehensive studies comparing the costs of traditional construction and 3DP across various stages, from design to waste disposal. Therefore, this study investigates the overall cost of traditional and 3DP construction, considering both off-site and onsite 3DP techniques. Mathematical models are developed to analyse costs, including research and development (R&D), Architecture, Engineering, and Construction (AEC), transportation, warehousing, setup installation, printing and on-site assembling processes, waste disposal, and environmental costs. Real-time case studies have been investigated to validate the feasibility and practicality of the models. The comparative analysis revealed that the design stage cost of 3DP is 19 times higher than those of traditional construction due to significant investments in R&D. Off-site 3DP incurs higher logistics costs primarily due to holding costs. Nevertheless, it becomes a more viable option for small-scale projects (less than 35t for the considered cases), like printing architectural elements, as the expense of delivering printed components to the construction site is lower compared to transporting bulky 3DP equipment and raw materials. On-site 3DP presents a competitive alternative to traditional construction methods, both for individual projects and large-scale developments. The findings of this research provide valuable insights that can help the construction industry optimize cost-effectiveness and enhance efficiency in construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
@@ -88,11 +67,40 @@ tags:
       <li><a href="../../../author/yang_hongxiong"><b>Yang</b> Hongxiong</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>, <a href="../../../author/chen_yuhong"><b>Chen</b> Yuhong</a>, <a href="../../../author/li_yijia"><b>Li</b> Yijia</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../yang_chun_chen_li.2018.TCCMoC3PAwIoT/">The Cost Calculation Method of Construction 3D Printing Aligned with Internet of Things</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_besk_krav_zhon.2025.EVo3CP/">Economic Viability of 3D Concrete Printing:<br/>A Comparative Study with Traditional Construction Method</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_krav_besk_lazo.2025.3PoRMfSC/">3D Printing of Recycled Materials for Sustainable Construction:<br/>A Comprehensive Economic and Life Cycle Assessment</a></li>
       <li><a href="../../../author/palazzo_andrea"><b>Palazzo</b> Andrea</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../pala.2025.H3PfHCRCE/">How 3D Printers for Houses Can Reduce CO2 Emissions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{besk_raza_zhon_skib.2024.3PvTC,
+      author            = "Svetlana Besklubova and Muhammad Huzaifa Raza and Ray Y. Zhong and Mirosław J. Skibniewski",
+      title             = "3D Printing vs. Traditional Construction: Cost Comparisons from Design to Waste Disposal Stages",
+      doi               = "10.22260/isarc2024/0161",
+      year              = "2024",
+      booktitle         = "Proceedings of the 41st International Symposium on Automation and Robotics in Construction",
+      editor            = "Vincente Gonzalez-Moret and Jiansong Zhang and Borja García de Soto and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Besklubova, M. H. Raza, R. Y. Zhong and M. J. Skibniewski, “3D Printing vs. Traditional Construction: Cost Comparisons from Design to Waste Disposal Stages”, in <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>,  2024. doi: 10.22260/isarc2024/0161.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Besklubova, Svetlana, Muhammad Huzaifa Raza, Ray Y. Zhong, and Mirosław J. Skibniewski. “3D Printing Vs. Traditional Construction: Cost Comparisons from Design to Waste Disposal Stages”. In <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>, edited by Vincente Gonzalez-Moret, Jiansong Zhang, Borja García de Soto, and Ioannis Brilakis, 2024. https://doi.org/10.22260/isarc2024/0161.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

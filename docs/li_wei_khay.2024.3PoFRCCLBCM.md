@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Haodao Li, Jingjie Wei, Kamal Khayat
+    - footer
+title: Li Haodao, Wei Jingjie, Khayat Kamal
 description:
 tags:
  - base
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/6/1666/pdf?version=1717572932) 3D Printing of Fiber-Reinforced Calcined Clay-Limestone-Based Cementitious Materials:<br/>:aca-blank: From Mixture Design to Printability Evaluation ([2024-06](date/2024/06))
-<a href="https://doi.org/10.3390/buildings14061666" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14061666</a>
+#3D Printing of Fiber-Reinforced Calcined Clay-Limestone-Based Cementitious Materials&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">From Mixture Design to Printability Evaluation</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/6/1666/pdf?version=1717572932) <a href="https://doi.org/10.3390/buildings14061666" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14061666" target="_blank">10.3390/buildings14061666</a>
 
--------------------------
+<a href="../../../author/li_haodao"><b>Li</b>&nbsp;Haodao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0413-5693" title="ORCID: 0000-0003-0413-5693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wei_jingjie"><b>Wei</b>&nbsp;Jingjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 6, No. 1666
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_haodao"><b>Li</b> Haodao</a>
-,     <a href="../../../author/wei_jingjie"><b>Wei</b> Jingjie</a> <a href="https://orcid.org/0000-0003-0413-5693" title="ORCID: 0000-0003-0413-5693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 6, No. 1666
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#design`](keyword/design)
-    [`#evaluation`](keyword/evaluation)
-    [`#fiber`](keyword/fiber)
-    [`#limestone`](keyword/limestone)
-    [`#material`](keyword/material)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Fiber-Reinforced%20Calcined%20Clay-Limestone-Based%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197288334&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399358686" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14061666" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14061666?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Sustainability and limitations in embedded reinforcement are the main obstacles in digital fabrication with concrete. This study proposed a 3D printable fiber-reinforced calcined clay-limestone-based cementitious material (FR-LC3). The binder systems incorporating calcined clay (CC) and limestone filler (LF) were optimized by determining the flow characteristics and water retention ability of the paste. The effect of fiber volume on the key fresh and mechanical properties of the fiber-reinforced mortars made with the optimized binder was evaluated. A combination of offline assessments and inline printing were employed to investigate the printability of the FR-LC3 with various binder systems and viscosity-modifying admixture (VMA) dosages. The results revealed that the binary system with 20% CC and the ternary system containing 30% CC and 15% LF were highly advantageous, with enhanced packing density, robustness, and water retention ability. Incorporating 2% 6-mm steel fiber contributed to the highest 28-day compressive and flexural strengths and toughness without significantly compromising the fluidity. Finally, the developed FR-LC3 mixtures were successfully printed using an extrusion-based 3D printer. The LF addition in the ternary system decreased the maximum buildable height of a single-wall printed object while reducing the SP/VMA ratio significantly increased the height due to enhanced yield stress and thixotropy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/gawady_mohamed"><b>Gawady</b> Mohamed</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../abud_goma_ghen_gawa.2022.DMPfCCFABAA3PCM/">Developing Mix Proportions for Class C Fly-Ash-Based Alkali-Activated 3D Printed Concrete Mixtures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -99,8 +75,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
@@ -109,4 +85,35 @@ tags:
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_wei_khay.2024.3PoFRCCLBCM,
+      author            = "Haodao Li and Jingjie Wei and Kamal H. Khayat",
+      title             = "3D Printing of Fiber-Reinforced Calcined Clay-Limestone-Based Cementitious Materials: From Mixture Design to Printability Evaluation",
+      doi               = "10.3390/buildings14061666",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "6",
+      pages             = "1666",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Li, J. Wei and K. H. Khayat, “3D Printing of Fiber-Reinforced Calcined Clay-Limestone-Based Cementitious Materials: From Mixture Design to Printability Evaluation”, <i>Buildings</i>, vol. 14, no. 6, p. 1666, 2024, doi: 10.3390/buildings14061666.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Haodao, Jingjie Wei, and Kamal H. Khayat. “3D Printing of Fiber-Reinforced Calcined Clay-Limestone-Based Cementitious Materials: From Mixture Design to Printability Evaluation”. <i>Buildings</i> 14, no. 6 (2024): 1666. https://doi.org/10.3390/buildings14061666.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

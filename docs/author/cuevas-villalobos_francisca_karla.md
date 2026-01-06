@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Cuevas Villalobos Karla 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cuev_chun_siko_step.2024.PoNWaL3PCCwRG/">Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass:<br/>Sorption and Microstructural Perspective</a></li>
   <li><a href="../../../author/eugenin_claudia"><b>Eugenin</b> Claudia</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../euge_cuev_nava.2023.TDo3PCPwCT/">Temperature-Dependance of 3D Printed Concrete Produced with Copper-Tailings</a></li>
   <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/weinhold_joachim"><b>Weinhold</b> Joachim</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a>, <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../cuev_wein_step_kim.2023.EoPPoPRMCaPoMf3CPUISaESIT/">Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques</a></li>

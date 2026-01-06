@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexander Paolini, Stefan Kollmannsberger, Ernst Rank
+    - footer
+title: Paolini Alexander, Kollmannsberger Stefan, Rank Ernst
 description:
 tags:
  - additive
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2019.100894) Additive Manufacturing in Construction:<br/>:aca-blank: A Review on Processes, Applications, and Digital Planning Methods ([2019-10](date/2019/10))
-<a href="https://doi.org/10.1016/j.addma.2019.100894" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2019.100894</a>
+#Additive Manufacturing in Construction&nbsp;([2019-10](date/2019/10))
+<div class="h1-like">A Review on Processes, Applications, and Digital Planning Methods</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2019.100894) <a href="https://doi.org/10.1016/j.addma.2019.100894" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.100894" target="_blank">10.1016/j.addma.2019.100894</a>
 
--------------------------
+<a href="../../../author/paolini_alexander"><b>Paolini</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0823-8649" title="ORCID: 0000-0003-0823-8649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b>&nbsp;Stefan</a></span>, <a href="../../../author/rank_ernst"><b>Rank</b>&nbsp;Ernst</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 30
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>
-,     <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a> <a href="https://orcid.org/0000-0003-0823-8649" title="ORCID: 0000-0003-0823-8649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 30, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#method`](keyword/method)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85073532080&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2979902195" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2019.100894" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2019.100894?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of additive manufacturing (AM) in construction has been increasingly studied in recent years. Large robotic arm- and gantry-systems have been created to print building parts using aggregate-based materials, metals, or polymers. Significant benefits of AM are the automation of the production process, a high degree of design freedom, and the resulting potential for optimization. However, the building components and 3D-printing processes need to be modeled appropriately. In this paper, the current state of AM in construction is reviewed. AM processes and systems as well as their application in research and construction projects are presented. Moreover, digital methods for planning 3D-printed building parts and AM processes are described.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "65 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
@@ -132,8 +112,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "171 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
@@ -305,4 +286,33 @@ tags:
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{paol_koll_rank.2019.AMiC,
+      author            = "Alexander Paolini and Stefan Kollmannsberger and Ernst Rank",
+      title             = "Additive Manufacturing in Construction: A Review on Processes, Applications, and Digital Planning Methods",
+      doi               = "10.1016/j.addma.2019.100894",
+      year              = "2019",
+      journal           = "Additive Manufacturing",
+      volume            = "30",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Paolini, S. Kollmannsberger and E. Rank, “Additive Manufacturing in Construction: A Review on Processes, Applications, and Digital Planning Methods”, <i>Additive Manufacturing</i>, vol. 30, 2019, doi: 10.1016/j.addma.2019.100894.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Paolini, Alexander, Stefan Kollmannsberger, and Ernst Rank. “Additive Manufacturing in Construction: A Review on Processes, Applications, and Digital Planning Methods”. <i>Additive Manufacturing</i> 30 (2019). https://doi.org/10.1016/j.addma.2019.100894.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

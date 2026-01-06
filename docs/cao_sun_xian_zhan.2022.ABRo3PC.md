@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chenyu Cao, Dongsheng Sun, Zhijun Xian, Hengyu Zhang
+    - footer
+title: Cao Chenyu, Sun Dongsheng, Xian Zhijun, Zhang Hengyu
 description:
 tags:
  - concrete
@@ -11,27 +12,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://drpress.org/ojs/index.php/HSET/article/download/4204/4056) A Brief Review of 3D Printed Concrete ([2022-12](date/2022/12))
-<a href="https://doi.org/10.54097/hset.v28i.4204" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.54097/hset.v28i.4204</a>
+#A Brief Review of 3D Printed Concrete ([2022-12](date/2022/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://drpress.org/ojs/index.php/HSET/article/download/4204/4056) <a href="https://doi.org/10.54097/hset.v28i.4204" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.54097/hset.v28i.4204" target="_blank">10.54097/hset.v28i.4204</a>
 
--------------------------
+<a href="../../../author/cao_chenyu"><b>Cao</b>&nbsp;Chenyu</a></span>, <a href="../../../author/sun_dongsheng"><b>Sun</b>&nbsp;Dongsheng</a></span>, <a href="../../../author/xian_zhijun"><b>Xian</b>&nbsp;Zhijun</a></span>, <a href="../../../author/zhang_hengyu"><b>Zhang</b>&nbsp;Hengyu</a></span><br>
+Journal Article - Highlights in Science, Engineering and Technology, Vol. 28, pp. 374-380
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_chenyu"><b>Cao</b> Chenyu</a>
-,     <a href="../../../author/sun_dongsheng"><b>Sun</b> Dongsheng</a>
-,     <a href="../../../author/xian_zhijun"><b>Xian</b> Zhijun</a>
-,     <a href="../../../author/zhang_hengyu"><b>Zhang</b> Hengyu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Highlights in Science, Engineering and Technology, Vol. 28, pp. 374-380
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Brief%20Review%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4318460305" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.54097/hset.v28i.4204" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.54097/hset.v28i.4204?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     From the outline molding process invented by Professor Khosnevis of the University of Southern California in 2004, which is recognized as the earliest architectural 3D printing technology in the industry, to the concrete printer of COBOD, a 3D printing and construction company in Denmark, which adopts the one-time printing technology, the whole structure is not assembled or printed in pieces. It took three weeks to print the wind turbine, which has a base height of 10 meters and a support height of 200 meters, all at once. Many countries, construction companies and research institutions around the world are committed to the development and promotion of 3D printing construction technology. 3D printing is the most important reason of concrete construction technology with quick construction speed, low labor costs, no template construction, resource waste and design degrees of freedom less advanced advantage, through increased significantly at the same time the construction process of mechanization, better able to introduce intelligent design and control, to improve and optimize the construction process provides a great opportunity, Provide technical innovation and institutional reform for the construction industry. With the rapid development of urbanization and industrialization, modern difficulties such as talent shortage, resource exhaustion and security problems have seriously restricted the development of the construction industry.3D printing these advantages can relieve some of the problems in the traditional buildings, such as the lack of industrialization, serious environmental pollution, labor shortages, and raw resources waste, etc. This paper takes the development of 3D printing concrete progress as a starting point, introduced the concrete of the 3D printing, general 3D printing concrete, high strength concrete, the 3D printing and on the basis of them, further conclusions are drawn.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lin_chao_jia"><b>Lin</b> Jia</a>, <a href="../../../author/wu_xiong"><b>Wu</b> Xiong</a>, <a href="../../../author/yang_wen"><b>Yang</b> Wen</a>, <a href="../../../author/zhao_xu_ri"><b>Zhao</b> Ri</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../lin_wu_yang_zhao.2018.TIoFAot3PP/">The Influence of Fine Aggregates on the 3D Printing Performance</a></li>
@@ -67,8 +50,38 @@ tags:
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/puzule_liga"><b>Puzule</b> Līga</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sahm_puzu_sapa_slos.2024.GCPCf3P/">Gypsum-Cement-Pozzolan Composites for 3D Printing:<br/>Properties and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_sun_xian_zhan.2022.ABRo3PC,
+      author            = "Chenyu Cao and Dongsheng Sun and Zhijun Xian and Hengyu Zhang",
+      title             = "A Brief Review of 3D Printed Concrete",
+      doi               = "10.54097/hset.v28i.4204",
+      year              = "2022",
+      journal           = "Highlights in Science, Engineering and Technology",
+      volume            = "28",
+      pages             = "374--380",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Cao, D. Sun, Z. Xian and H. Zhang, “A Brief Review of 3D Printed Concrete”, <i>Highlights in Science, Engineering and Technology</i>, vol. 28, pp. 374–380, 2022, doi: 10.54097/hset.v28i.4204.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Chenyu, Dongsheng Sun, Zhijun Xian, and Hengyu Zhang. “A Brief Review of 3D Printed Concrete”. <i>Highlights in Science, Engineering and Technology</i> 28 (2022): 374–80. https://doi.org/10.54097/hset.v28i.4204.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

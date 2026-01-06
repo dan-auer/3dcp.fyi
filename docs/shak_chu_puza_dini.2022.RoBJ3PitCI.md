@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pshtiwan Shakor, Shaohua Chu, Anastasiia Puzatova (nee Sharanova), Enrico Dini
+    - footer
+title: Shakor Pshtiwan, Chu Shaohua, Puzatova (nee Sharanova) Anastasiia, Dini Enrico
 description:
 tags:
  - binder
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Review of Binder-Jetting 3D Printing in the Construction Industry ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1007/s40964-021-00252-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-021-00252-9</a>
+#Review of Binder-Jetting 3D Printing in the Construction Industry ([2022-01](date/2022/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-021-00252-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-021-00252-9" target="_blank">10.1007/s40964-021-00252-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8650-8056" title="ORCID: 0000-0001-8650-8056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chu_h_shaohua"><b>Chu</b>&nbsp;Shaohua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3798-4969" title="ORCID: 0000-0002-3798-4969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b>&nbsp;Anastasiia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6323-3368" title="ORCID: 0000-0002-6323-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dini_enrico"><b>Dini</b>&nbsp;Enrico</a></span><br>
+Journal Article - Progress in Additive Manufacturing, Vol. None, Iss. None
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a> <a href="https://orcid.org/0000-0001-8650-8056" title="ORCID: 0000-0001-8650-8056" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a> <a href="https://orcid.org/0000-0002-3798-4969" title="ORCID: 0000-0002-3798-4969" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a> <a href="https://orcid.org/0000-0002-6323-3368" title="ORCID: 0000-0002-6323-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, Vol. None, Iss. None, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Review%20of%20Binder-Jetting%203D%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123267497&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4207057555" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-021-00252-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-021-00252-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Binder jetting (inkjet), featured by the dripping of liquid on the powder-based layer for solidification and bonding, is the second most popular 3D printing (3DP) technology for the construction industry. Therefore, an overview of this technology is necessary for both industry and academia. The paper discussed the most suitable materials for the construction industry which can be used in binder jetting 3DP. Attention was given not only to the selection of the materials but also the printing process and challenges that might face the printing process and post-processing stages, with an emphasis on sustainability and suitability. The whole process of printing gypsum, cement and geopolymer mortar, clay, chipped wood and sand materials through the binder jetting technique has been summarized, followed by curing and post-processing to achieve desirable mechanical properties. Finally, an informative approach was introduced for the scale-up of binder jetting 3DP in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_mai_broh_gant.2020.I3CPI/">Injection 3D Concrete Printing (I3DCP):<br/>Basic Principles and Case Studies</a></li>
       <li><a href="../../../author/ingaglio_joseph"><b>Ingaglio</b> Joseph</a>, <a href="../../../author/fox_t_john"><b>Fox</b> John</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a>, <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../inga_fox_nait_bocc.2019.MCoBJ3PHCCwtAoFA/">Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates</a></li>
@@ -83,8 +64,8 @@ tags:
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../teiz_blic_king_leit.2016.LS3PoCGSiC/">Large-Scale 3D Printing of Complex Geometric Shapes in Construction</a></li>
       <li><a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/suresh_vignesh"><b>Suresh</b> Vignesh</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a>, <a href="../../../author/li_beiwen"><b>Li</b> Beiwen</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../wi_sure_wang_li.2020.QQo3PCOUa3SLSS/">Quantifying Quality of 3D Printed Clay Objects Using a 3D Structured Light Scanning System</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
       <li><a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/lin_yini"><b>Lin</b> Yini</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tang_yan_han_lin.2025.MPoEB3PCCtTotPLaPTI/">Mechanical Properties of Extrusion-Based 3D-Printed Concrete Considering the Thickness of the Printed Layer and Printing Time Interval</a></li>
       <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
@@ -106,4 +87,34 @@ tags:
       <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b> Kinga</a>, <a href="../../../author/kozub_barbara"><b>Kozub</b> Barbara</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../korn_setl_kozu.2022.AOfMEESfLaMHMBoGCa3PT/">An Overview for Modern Energy-Efficient Solutions for Lunar and Martian Habitats Made Based on Geopolymers Composites and 3D Printing Technology</a></li>
       <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shak_chu_puza_dini.2022.RoBJ3PitCI,
+      author            = "Pshtiwan N. Shakor and Shaohua H. Chu and Anastasiia V. Puzatova (nee Sharanova) and Enrico Dini",
+      title             = "Review of Binder-Jetting 3D Printing in the Construction Industry",
+      doi               = "10.1007/s40964-021-00252-9",
+      year              = "2022",
+      journal           = "Progress in Additive Manufacturing",
+      volume            = "None",
+      number            = "None",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. N. Shakor, S. H. Chu, A. V. P. (nee Sharanova) and E. Dini, “Review of Binder-Jetting 3D Printing in the Construction Industry”, <i>Progress in Additive Manufacturing</i>, vol. None, no. None, 2022, doi: 10.1007/s40964-021-00252-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shakor, Pshtiwan N., Shaohua H. Chu, Anastasiia V. Puzatova (nee Sharanova), and Enrico Dini. “Review of Binder-Jetting 3D Printing in the Construction Industry”. <i>Progress in Additive Manufacturing</i> None, no. None (2022). https://doi.org/10.1007/s40964-021-00252-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

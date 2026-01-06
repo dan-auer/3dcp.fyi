@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lateef Assi, Ali Alsalman, Rahman Kareem, Kealy Carter
+    - footer
+title: Assi Lateef, Alsalman Ali, Kareem Rahman, Carter Kealy
 description:
 tags:
  - advantage
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1007/978-3-031-97818-0_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-97818-0_15</a>
+#Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-97818-0_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-97818-0_15" target="_blank">10.1007/978-3-031-97818-0_15</a>
 
--------------------------
+<a href="../../../author/assi_n_lateef"><b>Assi</b>&nbsp;Lateef</a></span>, <a href="../../../author/alsalman_ali"><b>Alsalman</b>&nbsp;Ali</a></span>, <a href="../../../author/kareem_s_rahman"><b>Kareem</b>&nbsp;Rahman</a></span>, <a href="../../../author/carter_kealy"><b>Carter</b>&nbsp;Kealy</a></span><br>
+Contribution - Sustainable Materials for the Built Environment, pp. 253-266
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/assi_n_lateef"><b>Assi</b> Lateef</a>
-,     <a href="../../../author/alsalman_ali"><b>Alsalman</b> Ali</a>
-,     <a href="../../../author/kareem_s_rahman"><b>Kareem</b> Rahman</a>
-,     <a href="../../../author/carter_kealy"><b>Carter</b> Kealy</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Sustainable Materials for the Built Environment, pp. 253-266
-
-:aca-blank:{ .lg .middle}
-    [`#advantage`](keyword/advantage)
-    [`#base`](keyword/base)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#geopolymer`](keyword/geopolymer)
-
-
--------------------------
+<a href="../../keyword/advantage"><button class="btn">#advantage</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advantages%20and%20Challenges%20of%203D%20Geopolymer-Based%20Concrete%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020954340&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7102738879" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-97818-0_15" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-97818-0_15?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Rapid urbanization and industrialization have created significant challenges in the construction industry, including labor shortages, resource consumption, and safety concerns. Traditional concrete production, which relies heavily on Ordinary Portland Cement (OPC), is highly energy-intensive and a major contributor to carbon dioxide (CO2) emissions, exacerbating climate change. Recently, the integration of three-dimensional printing (3DP) with geopolymer-based concrete has emerged as a promising solution for sustainable construction. This innovative approach offers economic, environmental, and productivity benefits over conventional methods. Studies have shown that 3D Geopolymer-Based Concrete significantly reduces construction costs by lowering labor and material expenses, primarily due to the elimination of formwork. The cost of manufacturing prefabricated bathroom units using 3DP is notably lower compared to traditional precast methods. Additionally, 3DP technology minimizes material waste, reduces construction time, and decreases labor costs, resulting in an overall more efficient and cost-effective process. Environmental assessments indicate that 3DP concrete construction has a better environmental performance than conventional methods, with notable reductions in CO2 emissions and resource consumption. The use of geopolymer-based concrete further enhances these benefits by reducing the reliance on energy-intensive cement. Overall, the adoption of 3DP and geopolymer-based concrete in construction presents a viable path toward addressing the challenges posed by urbanization and industrialization, offering substantial improvements in cost efficiency, environmental impact, and productivity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
@@ -89,7 +69,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{assi_alsa_kare_cart.2025.AaCo3GBCiC,
+      author            = "Lateef N. Assi and Ali Alsalman and Rahman S. Kareem and Kealy Carter",
+      title             = "Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction",
+      doi               = "10.1007/978-3-031-97818-0_15",
+      year              = "2025",
+      volume            = "352",
+      pages             = "253--266",
+      booktitle         = "Sustainable Materials for the Built Environment",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. N. Assi, A. Alsalman, R. S. Kareem and K. Carter, “Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction”, in <i>Sustainable Materials for the Built Environment</i>,  2025, vol. 352, pp. 253–266. doi: 10.1007/978-3-031-97818-0_15.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Assi, Lateef N., Ali Alsalman, Rahman S. Kareem, and Kealy Carter. “Advantages and Challenges of 3D Geopolymer-Based Concrete in Construction”. In <i>Sustainable Materials for the Built Environment</i>, 352:253–66, 2025. https://doi.org/10.1007/978-3-031-97818-0_15.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

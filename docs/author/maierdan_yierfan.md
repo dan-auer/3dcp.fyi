@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Maierdan Yierfan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../maie_armi_sesh_carc.2025.LBGSKREC/">Locust Bean Gum–Stabilized Kaolin-Rich Earthen Composites:<br/>From On-Land to Underwater 3D Printing</a></li>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jacq_maie_kawa_perr.2024.SPo3PFCMbATCPUEDMA/">Stability-Prediction of 3D Printable Fresh Construction Materials by Analyzing Thixotropic Compressive Properties Using Extensional Dynamic Mechanical Analysis</a></li>
   <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/mikofsky_a_rebecca"><b>Mikofsky</b> Rebecca</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../maie_armi_miko_carc.2024.ELBGaaRBaRMfEC/">Exploring Locust Bean Gum as a Robust Binder and Rheology Modifier for Earth Concrete</a></li>

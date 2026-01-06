@@ -8,7 +8,7 @@ search:
 
 
 <h1>Impressum</h1> 
-<p>Angaben gemäß § 5 DDG und Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:</p> 
+<p>Angaben gemäß § 5 DDG</p> 
 <p>Daniel Auer<br> 
 c/o Technical University of Munich<br> 
     Chair of Concrete and Masonry Structures<br>
@@ -20,6 +20,12 @@ Theresienstaße 90<br>
 Telefon: +49.89.289.23026<br>
 E-Mail: <a>daniel.auer@tum.de</a></br></p> 
 
+<p><strong>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:</strong><br>
+Daniel Auer<br> 
+c/o Technical University of Munich<br> 
+    Chair of Concrete and Masonry Structures<br>
+Theresienstaße 90<br> 
+80333 München <br> 
 <p><strong>Verbraucherstreitbeilegung / Universalschlichtungsstelle</strong>
 <br>Wir nehmen nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil und sind dazu auch nicht verpflichtet.
 </p> 

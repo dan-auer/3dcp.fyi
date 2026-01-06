@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Li Shuai 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
   <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>
   <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_liu_chen_xuan.2025.DaPo3PBSFRCCCB/">Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams</a></li>

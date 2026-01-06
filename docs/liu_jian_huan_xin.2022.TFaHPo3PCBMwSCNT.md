@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Liu, Quan Jiang, Mojia Huang, Jie Xin, Pengfei Chen
+    - footer
+title: Liu Qiang, Jiang Quan, Huang Mojia, Xin Jie, Chen Pengfei
 description:
 tags:
  - base
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Fresh and Hardened Properties of 3D Printing Cement-Base Materials with Self-Cleaning Nano-TiO2:<br/>:aca-blank: An Exploratory Study ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.jclepro.2022.134804" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2022.134804</a>
+#The Fresh and Hardened Properties of 3D Printing Cement-Base Materials with Self-Cleaning Nano-TiO2&nbsp;([2022-10](date/2022/10))
+<div class="h1-like">An Exploratory Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2022.134804" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.134804" target="_blank">10.1016/j.jclepro.2022.134804</a>
 
--------------------------
+<a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/huang_mojia"><b>Huang</b>&nbsp;Mojia</a></span>, <a href="../../../author/xin_jie"><b>Xin</b>&nbsp;Jie</a></span>, <a href="../../../author/chen_pengfei"><b>Chen</b>&nbsp;Pengfei</a></span><br>
+Journal Article - Journal of Cleaner Production
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>
-,     <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a> <a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_mojia"><b>Huang</b> Mojia</a>
-,     <a href="../../../author/xin_jie"><b>Xin</b> Jie</a>
-,     <a href="../../../author/chen_pengfei"><b>Chen</b> Pengfei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#cleaning`](keyword/cleaning)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#self`](keyword/self)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/cleaning"><button class="btn">#cleaning</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printing%20Cement-Base%20Materials%20with%20Self-Cleaning%20Nano-TiO2" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140437661&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4307956783" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2022.134804" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2022.134804?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cement-based 3D printing (3DP) is going deep into the traditional civil construction due to its advantages, such as saving materials, reducing carbon dioxide emissions and lowering energy requirements. However, the printability of 3DP mortars is the main factor restricting the rapid development of cement-based 3DP technology. The nano-TiO2 (NT) performs obviously self-cleaning effect and has potential merit in improving the printability in cement-based 3DP as an additive. In this study, the printing pastes with different NT dosages and water-cement ratios are designed to reveal the fresh and hardened properties of cement-based 3DP. The test results show that NT has better thickening property and can shorten the setting time, thus reducing the slump and flow diameter. What's more, appropriate NT content can increase the static yield stress of pastes, and reduce the dynamic yield stress and plastic viscosity of pastes at the same time. The mortar with 3% NT dosage has better buildability, compared with undoped NT group, the deformation-rate of the sample increases by 32.4% and the inclination-rate decreases by 52.7%. The mortar with 3% NT dosage also has better density and compressive strength, compared with undoped NT group, the dry density increases by 19.6% and the compressive strength increases by 51.6%. Moreover, the results also indicated that when the water-cement ratio of paste is smaller, its fluidity is smaller, and its static yield stress, dynamic yield performance as well as plastic viscosity are higher. Micro-pores and hydration products of 3DP samples tested by SEM and XRD showed that the NT can refine the pore structure and reinforce the compactness of the mixtures, and the self-cleaning test verified that NT also had obvious self-cleaning performance for cement-based printed samples, which indicates the NT is an ideal 3DP cement additive for clean production and green development in civil construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC/">Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites</a></li>
@@ -99,8 +76,8 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/zhang_xinwei"><b>Zhang</b> Xinwei</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../liu_zhan_jian_xia.2025.EoNANMaNFotPoCB3P/">Effects of Nano-Al2O3, Nano-MgO and Nano-Fe2O3 on the Properties of Cement-Based 3D Printing:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a>, <a href="../../../author/su_anshuang"><b>Su</b> Anshuang</a>, <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_su_gao.2025.IoIPo3PMOCBMbCC/">Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing</a></li>
@@ -113,4 +90,32 @@ tags:
       <li><a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a>, <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../razz_cerr_pan_kora.2023.NaPAfHP3PC/">Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/zhou_zhenhua"><b>Zhou</b> Zhenhua</a>, <a href="../../../author/xin_jie"><b>Xin</b> Jie</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../liu_jian_zhou_xin.2023.TPaHPoNCCwMPFfCB3P/">The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_jian_huan_xin.2022.TFaHPo3PCBMwSCNT,
+      author            = "Qiang Liu and Quan Jiang and Mojia Huang and Jie Xin and Pengfei Chen",
+      title             = "The Fresh and Hardened Properties of 3D Printing Cement-Base Materials with Self-Cleaning Nano-TiO2: An Exploratory Study",
+      doi               = "10.1016/j.jclepro.2022.134804",
+      year              = "2022",
+      journal           = "Journal of Cleaner Production",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, Q. Jiang, M. Huang, J. Xin and P. Chen, “The Fresh and Hardened Properties of 3D Printing Cement-Base Materials with Self-Cleaning Nano-TiO2: An Exploratory Study”, <i>Journal of Cleaner Production</i>, 2022, doi: 10.1016/j.jclepro.2022.134804.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiang, Quan Jiang, Mojia Huang, Jie Xin, and Pengfei Chen. “The Fresh and Hardened Properties of 3D Printing Cement-Base Materials with Self-Cleaning Nano-TiO2: An Exploratory Study”. <i>Journal of Cleaner Production</i>, 2022. https://doi.org/10.1016/j.jclepro.2022.134804.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

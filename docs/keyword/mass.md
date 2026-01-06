@@ -8,7 +8,7 @@ search:
 
 # #mass
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_zherui"><b>Wang</b> Zherui</a>, <a href="../../../author/teitelbaum_e"><b>Teitelbaum</b> E.</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/aviv_d"><b>Aviv</b> D.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../wang_teit_akba_aviv.2025.EAoTMPoSO3PCFEfCER/">Experimental Assessment on Thermal Mass Performance of Structurally Optimized, 3D-Printed Concrete Floor Element for Carbon Emission Reduction</a></li>
   <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/si_liang"><b>Si</b> Liang</a>, <a href="../../../author/liu_yebao"><b>Liu</b> Yebao</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liu_si_liu_li.2025.OoPPBoCFDfUFMDaCi3CMP/">Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing</a></li>
   <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/vangen_kathrina"><b>Vangen</b> Kathrina</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wang_vang_burg_flat.2024.DFMPSfBLCMCC/">Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components</a></li>

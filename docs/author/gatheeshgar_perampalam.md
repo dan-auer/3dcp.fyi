@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gatheeshgar Perampalam 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
   <li><a href="../../../author/ravula_risheek"><b>Ravula</b> Risheek</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../ravu_gath.2023.OtTEPo3PCWPDwVIR/">On the Thermal-Energy Performance of 3D Printed Concrete Wall Panels Designed with Varying Insulation Ratios</a></li>
   <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sunt_upas_naga_pool.2022.FEMtPtFPoBI3PCWPEtRF/">Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire</a></li>

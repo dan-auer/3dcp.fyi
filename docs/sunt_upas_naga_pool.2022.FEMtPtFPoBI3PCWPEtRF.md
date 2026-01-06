@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thadshajini Suntharalingam, Irindu Upasiri, Brabha Nagaratnam, Keerthan Poologanathan, Perampalam Gatheeshgar, Konstantinos Tsavdaridis, Dilini Nuwanthika
+    - footer
+title: Suntharalingam Thadshajini, Upasiri Irindu, Nagaratnam Brabha, Poologanathan Keerthan, Gatheeshgar Perampalam, Tsavdaridis Konstantinos, Nuwanthika Dilini
 description:
 tags:
  - bio
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/2/111/pdf?version=1643014102) Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire ([2022-01](date/2022/01))
-<a href="https://doi.org/10.3390/buildings12020111" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12020111</a>
+#Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire ([2022-01](date/2022/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/2/111/pdf?version=1643014102) <a href="https://doi.org/10.3390/buildings12020111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12020111" target="_blank">10.3390/buildings12020111</a>
 
--------------------------
+<a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b>&nbsp;Thadshajini</a></span>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b>&nbsp;Irindu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8818-7567" title="ORCID: 0000-0001-8818-7567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b>&nbsp;Brabha</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b>&nbsp;Keerthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b>&nbsp;Perampalam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8349-3979" title="ORCID: 0000-0001-8349-3979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tsavdaridis_daniel_konstantinos"><b>Tsavdaridis</b>&nbsp;Konstantinos</a></span>, <a href="../../../author/nuwanthika_dilini"><b>Nuwanthika</b>&nbsp;Dilini</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>
-,     <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>
-,     <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a> <a href="https://orcid.org/0000-0001-8818-7567" title="ORCID: 0000-0001-8818-7567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> <a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> <a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tsavdaridis_daniel_konstantinos"><b>Tsavdaridis</b> Konstantinos</a> <a href="https://orcid.org/0000-0001-8349-3979" title="ORCID: 0000-0001-8349-3979" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nuwanthika_dilini"><b>Nuwanthika</b> Dilini</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bio`](keyword/bio)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#exposure`](keyword/exposure)
-    [`#finite`](keyword/finite)
-    [`#fire`](keyword/fire)
-    [`#inspiration`](keyword/inspiration)
-    [`#model`](keyword/model)
-    [`#performance`](keyword/performance)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Finite%20Element%20Modelling%20to%20Predict%20the%20Fire%20Performance%20of%20Bio-Inspired%203D%20Printed%20Concrete%20Wall%20Panels%20Exposed%20to%20Realistic%20Fire" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123982059&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4229013555" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12020111" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12020111?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale additive manufacturing (AM), also known as 3D concrete printing, is becoming well-recognized and, therefore, has gained intensive research attention. However, this technology requires appropriate specifications and standard guidelines. Furthermore, the performance of printable concrete in elevated temperature circumstances has not yet been explored extensively. Hence, the authors believe that there is a demand for a set of standardized findings obtained with the support of experiments and numerical modelling of the fire performance of 3D-printed concrete structural elements. In general, fire experiments and simulations focus on ISO 834 standard fire. However, this may not simulate the real fire behaviour of 3D-printed concrete walls. With the aim of bridging this knowledge disparity, this article presents an analysis of the fire performance of 3D-printed concrete walls with biomimetic hollow cross sections exposed to realistic individual fire circumstances. The fire performance of the non-load-bearing 3D-printed concrete wall was identified by developing a suitable numerical heat transfer model. The legitimacy of the developed numerical model was proved by comparing the time–temperature changes with existing results derived from fire experiments on 3D-printed concrete walls. A parametric study of 96 numerical models was consequently performed and included different 3D-printed concrete wall configurations under four fire curves (standard, prolonged, rapid, and hydrocarbon fire). Moreover, 3D-printed concrete walls and mineral wool cavity infilled wall panels showed enhanced fire performance. Moreover, the cellular structures demonstrated superior insulation fire ratings compared to the other configurations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
@@ -108,9 +79,10 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET/">Mechanical and Microstructural Evolution of 3D Printed Concrete with Polyethylene-Fiber and Recycled Sand at Elevated Temperatures</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
+      <li><a href="../../../author/sifan_mohamed"><b>Sifan</b> Mohamed</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b> Sunday</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sifa_upas_pool_popo.2025.FPaDoLWPw3PCaSLCS/">Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -120,4 +92,34 @@ tags:
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a>, <a href="../../../author/chu_tianwei"><b>Chu</b> Tianwei</a>, <a href="../../../author/jiang_liming"><b>Jiang</b> Liming</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_chen_chu_jian.2024.ESaOMfTRo3PCEtF/">Experimental Study and OpenSees Modelling for Thermal Response of 3D Printed Concrete Exposed to Fires</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sala_jaya.2022.OSoRAaFSfDFTiCI/">Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sunt_upas_naga_pool.2022.FEMtPtFPoBI3PCWPEtRF,
+      author            = "Thadshajini Suntharalingam and Irindu Upasiri and Brabha Nagaratnam and Keerthan Poologanathan and Perampalam Gatheeshgar and Konstantinos Daniel Tsavdaridis and Dilini Nuwanthika",
+      title             = "Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire",
+      doi               = "10.3390/buildings12020111",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Suntharalingam, “Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire”, <i>Buildings</i>, vol. 12, no. 2, 2022, doi: 10.3390/buildings12020111.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Suntharalingam, Thadshajini, Irindu Upasiri, Brabha Nagaratnam, Keerthan Poologanathan, Perampalam Gatheeshgar, Konstantinos Daniel Tsavdaridis, and Dilini Nuwanthika. “Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire”. <i>Buildings</i> 12, no. 2 (2022). https://doi.org/10.3390/buildings12020111.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Venkatesh Nerella, Viktor Mechtcherine
+    - footer
+title: Nerella Venkatesh, Mechtcherine Viktor
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Virtual Sliding-Pipe Rheometer for Estimating Pumpability of Concrete ([2018-03](date/2018/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2018.03.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2018.03.003</a>
+#Virtual Sliding-Pipe Rheometer for Estimating Pumpability of Concrete ([2018-03](date/2018/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2018.03.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.03.003" target="_blank">10.1016/j.conbuildmat.2018.03.003</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 170, pp. 366-377
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 170, pp. 366-377
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#estimation`](keyword/estimation)
-    [`#pipe`](keyword/pipe)
-    [`#pumpability`](keyword/pumpability)
-    [`#rheology`](keyword/rheology)
-    [`#sliding`](keyword/sliding)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/estimation"><button class="btn">#estimation</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sliding"><button class="btn">#sliding</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Virtual%20Sliding-Pipe%20Rheometer%20for%20Estimating%20Pumpability%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85045959745&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,23 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2793397242" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2018.03.003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2018.03.003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Predicting the pumping pressure needed to ensure a consistent flow rate of concrete is crucial to the success of current construction processes and newly introduced, but fast-growing 3D-concrete printing techniques. The Sliding Pipe Rheometer (Sliper) has recently proved to be a reliable experimental tool in predicting pumping pressure. Building on the experimental results of an earlier investigation by means of Sliper, a single-fluid numerical model for simulating Sliper tests (virtual Sliper) was developed using Computational Fluid Dynamics (CFD). Various observations as well as numerical limitations of the model and their physical origins were analysed. It was demonstrated that lubricating layer has vital influence on concrete pumping and that single phase numerical models, not considering the lubricating layer are only applicable to some specific concrete compositions. Hence, the initial single-phase model was improved by implementing a separate lubricating layer; its properties were calculated using Chateau-Ovarlez-Trung and Krieger-Dougherty models. Experimental and numerical comparative analyses confirm the validity of the above-mentioned approach in calculating lubricating layer properties. Parameter sensitivity analysis showed that the plastic viscosity and thickness of the lubricating exert the dominant influences on pumping pressure. The virtual pumpability testing tool as developed should enable a more purposeful material design of pumpable concrete and pre-estimation of pumping processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../secr_fata_schr_mech.2017.SoCPCDLTaLtR/">Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../duco_bono_kach_jacq.2025.FLtP/">From Laboratory to Practice</a></li>
@@ -107,4 +89,34 @@ tags:
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nere_mech.2018.VSPRfEPoC,
+      author            = "Venkatesh Naidu Nerella and Viktor Mechtcherine",
+      title             = "Virtual Sliding-Pipe Rheometer for Estimating Pumpability of Concrete",
+      doi               = "10.1016/j.conbuildmat.2018.03.003",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "170",
+      pages             = "366--377",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. N. Nerella  and V. Mechtcherine, “Virtual Sliding-Pipe Rheometer for Estimating Pumpability of Concrete”, <i>Construction and Building Materials</i>, vol. 170, pp. 366–377, 2018, doi: 10.1016/j.conbuildmat.2018.03.003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nerella, Venkatesh Naidu, and Viktor Mechtcherine. “Virtual Sliding-Pipe Rheometer for Estimating Pumpability of Concrete”. <i>Construction and Building Materials</i> 170 (2018): 366–77. https://doi.org/10.1016/j.conbuildmat.2018.03.003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

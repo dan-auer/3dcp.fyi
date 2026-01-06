@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Salih Özdemir, Sema Alaçam
+    - footer
+title: Özdemir Salih, Alaçam Sema
 description:
 tags:
  - adaption
@@ -13,25 +14,11 @@ tags:
 
 ---
 
-# Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing ([2025-11](date/2025/11))
--------------------------
+#Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing ([2025-11](date/2025/11))
+<a href="../../../author/ozdemir_salih"><b>Özdemir</b>&nbsp;Salih</a></span>, <a href="../../../author/alacam_sema"><b>Alaçam</b>&nbsp;Sema</a></span><br>
+Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 1159-1170
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>
-,     <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 1159-1170
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#concrete`](keyword/concrete)
-    [`#lifecycle`](keyword/lifecycle)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lifecycle"><button class="btn">#lifecycle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cognitive%20Ecosystem%20for%20Lifecycle-Adaptive%20and%20Sustainable%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -46,17 +33,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) has transformative potential for sustainable construction but remains fragmented across distinct research domains. Current approaches lack integration of design, materials, fabrication, and lifecycle management. This paper introduces a Cognitive Ecosystem an AI-powered framework that unifies generative design, smart and nano engineered materials, adaptive robotics, real time quality assurance, and digital lifecycle management. It's based on a thorough review of existing research and it combines ideas from computational intelligence and material science to closed feedback loops in design and production. It is shown in a smart pedestrian bridge scenario, which illustrates how cognitive workflows enhance adaptability and circularity. By treating structures like living systems that learn and evolve, the framework changes construction from being a static process to an intelligent, adaptive lifecycle process. This helps us create buildings that are environmentally friendly and can withstand disasters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adilenidou_yota"><b>Adilenidou</b> Yota</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/colletti_marjan"><b>Colletti</b> Marjan</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../adil_ahme_bos_coll.2019.UF/">Unprintable Forms</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>
@@ -75,7 +58,35 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zhao_wang_sun_wang.2024.AIPRTQMfAMiC/">Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ozde_alac.2025.CEfLAaS3CP,
+      author            = "Salih Özdemir and Sema Alaçam",
+      title             = "Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing",
+      year              = "2025",
+      pages             = "1159--1170",
+      booktitle         = "Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Özdemir  and S. Alaçam, “Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing”, in <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>,  2025, pp. 1159–1170.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Özdemir, Salih, and Sema Alaçam. “Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing”. In <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>, 1159–70, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

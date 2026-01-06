@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Babajide Onanuga, Joseph Biernacki
+    - footer
+title: Onanuga Babajide, Biernacki Joseph
 description:
 tags:
  - assessment
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matpr.2023.02.360) Assessing the Robustness of Cement-Hydrogel-Based Binders as 3D Printing Materials ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.matpr.2023.02.360" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.02.360</a>
+#Assessing the Robustness of Cement-Hydrogel-Based Binders as 3D Printing Materials ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2023.02.360) <a href="https://doi.org/10.1016/j.matpr.2023.02.360" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.02.360" target="_blank">10.1016/j.matpr.2023.02.360</a>
 
--------------------------
+<a href="../../../author/onanuga_y_babajide"><b>Onanuga</b>&nbsp;Babajide</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/biernacki_j_joseph"><b>Biernacki</b>&nbsp;Joseph</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/onanuga_y_babajide"><b>Onanuga</b> Babajide</a>
-,     <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#robust`](keyword/robust)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robust"><button class="btn">#robust</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessing%20the%20Robustness%20of%20Cement-Hydrogel-Based%20Binders%20as%203D%20Printing%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149752181&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323538601" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.02.360" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.02.360?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The printing performance of two cement-hydrogel pastes at 0.25 and an 0.3 gel-to-cement mass ratios was investigated for a gel containing 4 mass percent hydroxy ethyl methyl cellulose (HEMC). The effect of varying printing process parameters, print layer height and print speed, on the dimensional accuracy of 3D printed objects was used to assess the printing robustness of the two cement-hydrogel formulations. The performance of the printing process was assessed using deviations in the dimensions and analyzed statistically using capability and performance indices, control charts, and process capability histograms, from which optimal processing conditions were identified. This work is a novel application of statistical process control (SPC) to a laboratory-scale cement-based printing process. It was found that the 0.25 gelto-cement mass ratio paste performed better offering more resistance to shape distortion. While both pastes exhibited smooth extrusion, the lower 0.25 gel-to-cement ratio paste was more rigid. The goal was to have zero deviation in the three dimensions of the printed cylinders, height, outer diameter and wall thickness. While both paste formulations produced a negative deviation with respect to cylinder height, a similar magnitude of positive deviation was observed in the cylinder thickness. However, the two pastes performed very differently with respect to external diameter and the optimum printing conditions differ for both pastes. The lowest deviation in cylinder height was realized for the 0.25 ratio paste at conditions that differ from those producing optimal outcomes for the 0.3 ratio paste. Conversely, the lowest deviation in the cylinder thickness and external diameter was realized with the 0.3 ratio paste. Not surprising, different print metrics require different optimal process parameters, indicating that global optima must be assessed as a compromise of select or target print qualities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
@@ -79,7 +60,35 @@ tags:
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../putt_schu_titt.2019.TEoPPotMso3PCM/">The Effect of Print Parameters on the (Micro)structure of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{onan_bier.2023.AtRoCHBBa3PM,
+      author            = "Babajide Y. Onanuga and Joseph J. Biernacki",
+      title             = "Assessing the Robustness of Cement-Hydrogel-Based Binders as 3D Printing Materials",
+      doi               = "10.1016/j.matpr.2023.02.360",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Y. Onanuga  and J. J. Biernacki, “Assessing the Robustness of Cement-Hydrogel-Based Binders as 3D Printing Materials”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.02.360.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Onanuga, Babajide Y., and Joseph J. Biernacki. “Assessing the Robustness of Cement-Hydrogel-Based Binders as 3D Printing Materials”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.02.360.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

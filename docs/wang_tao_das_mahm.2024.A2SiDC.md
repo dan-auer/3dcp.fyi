@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Timothy Wangler, Yaxin Tao, Arnesh Das, Matineh Mahmoudi, Şeyma Gürel, Robert Flatt
+    - footer
+title: Wangler Timothy, Tao Yaxin, Das Arnesh, Mahmoudi Matineh, Gürel Şeyma, Flatt Robert
 description:
 tags:
  - 2k
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Aluminate 2K Systems in Digital Concrete:<br/>:aca-blank: Process, Design, Chemistry, and Outlook ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107644" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107644</a>
+#Aluminate 2K Systems in Digital Concrete&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Process, Design, Chemistry, and Outlook</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cemconres.2024.107644" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107644" target="_blank">10.1016/j.cemconres.2024.107644</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <a href="../../../author/das_arnesh"><b>Das</b>&nbsp;Arnesh</a></span>, <a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b>&nbsp;Matineh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3176-2388" title="ORCID: 0000-0002-3176-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gurel_seyma"><b>Gürel</b>&nbsp;Şeyma</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 185, No. 107644
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>
-,     <a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b> Matineh</a>
-,     <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a> <a href="https://orcid.org/0000-0002-3176-2388" title="ORCID: 0000-0002-3176-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 185, No. 107644
-
-:aca-blank:{ .lg .middle}
-    [`#2k`](keyword/2k)
-    [`#aluminate`](keyword/aluminate)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#process`](keyword/process)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/2k"><button class="btn">#2k</button></a> <a href="../../keyword/aluminate"><button class="btn">#aluminate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Aluminate%202K%20Systems%20in%20Digital%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201490346&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401981977" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107644" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107644?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital concrete is advancing due to growing economic incentives for construction automation. Achieving more sustainable concrete construction requires carbon reduction, and digital concrete technologies enable material-saving designs. By decoupling production strength from design strength, two-component (2K) systems utilizing aluminate precipitation offer the most flexibility, allowing more sustainable mixes with higher substitution levels. However, 2K aluminate systems are complex and demand a deeper understanding of their chemistry and strength buildup. This article reviews the basics of 2K aluminate systems, specifically aluminum sulfate-based and calcium aluminate cement/calcium sulfate-based systems, and their use in an inline active mixing reactor. An example reaction engineering analysis predicts the degree of reaction in a given reactor design, relating it to yield stress. The two chemical systems are compared, and future research recommendations are provided.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "57 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -89,7 +67,6 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/fuhrimann_lukas"><b>Fuhrimann</b> Lukas</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../llor_quad_scot_fuhr.2022.ADC/">Additive Digital Casting:<br/>From Lab to Industry</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2017/03">(2017-03)</a><br><a href="../../../llor_reit_wang_gram.2017.SDC/">Smart Dynamic Casting:<br/>Slipforming with Flexible Formwork</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>
-      <li><a href="../../../author/lolli_francesca"><b>Lolli</b> Francesca</a>, <a href="../../../author/mehlomakulu_bungane"><b>Mehlomakulu</b> Bungane</a>, <a href="../../../author/monkman_sean"><b>Monkman</b> Sean</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../loll_mehl_monk.2024.CSo3PCaCtCC/">Case Study of 3D Printed Concrete as Compared to Conventional Construction:<br/>Structural Comparison and Life Cycle Carbon Assessment</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mata_bisc_hube_anto.2022.DFRCFS/">Digitally Fabricated Ribbed Concrete Floor Slabs:<br/>A Sustainable Solution for Construction</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
@@ -118,7 +95,6 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../tao_rahu_moha_titt.2022.BPoHSMUfTP3CP/">Blending Performance of Helical Static Mixer Used for Twin-Pipe 3D Concrete Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/patankar_yamini"><b>Patankar</b> Yamini</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_pata_flat.2024.SDC/">Sustainable Digital Concrete:<br/>Myth, Reality or Emerging Opportunity?</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../weng_li_wong_tan.2021.SCaBADSfILBSEi3CP/">Synchronized Concrete and Bonding-Agent-Deposition-System for Inter-Layer Bond Strength Enhancement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC/">Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete</a></li>
@@ -127,8 +103,8 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_sanj.2023.StEQNMi3CP/">Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/marquez_alvaro"><b>Marquez</b> Alvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
       <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
@@ -138,4 +114,34 @@ tags:
       <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/wenger_cedric"><b>Wenger</b> Cedric</a>, <a href="../../../author/walpen_lukas"><b>Walpen</b> Lukas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../das_weng_walp_flat.2025.EAHoALCCfDF/">Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_tao_das_mahm.2024.A2SiDC,
+      author            = "Timothy Paul Wangler and Yaxin Tao and Arnesh Das and Matineh Mahmoudi and Şeyma Gürel and Robert Johann Flatt",
+      title             = "Aluminate 2K Systems in Digital Concrete: Process, Design, Chemistry, and Outlook",
+      doi               = "10.1016/j.cemconres.2024.107644",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "185",
+      pages             = "107644",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. P. Wangler, Y. Tao, A. Das, M. Mahmoudi, Ş. Gürel and R. J. Flatt, “Aluminate 2K Systems in Digital Concrete: Process, Design, Chemistry, and Outlook”, <i>Cement and Concrete Research</i>, vol. 185, p. 107644, 2024, doi: 10.1016/j.cemconres.2024.107644.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wangler, Timothy Paul, Yaxin Tao, Arnesh Das, Matineh Mahmoudi, Şeyma Gürel, and Robert Johann Flatt. “Aluminate 2K Systems in Digital Concrete: Process, Design, Chemistry, and Outlook”. <i>Cement and Concrete Research</i> 185 (2024): 107644. https://doi.org/10.1016/j.cemconres.2024.107644.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

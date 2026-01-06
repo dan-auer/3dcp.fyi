@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiong Liu, Shengbo Cheng, Bin Peng, Kailun Chen, Chang Sun, Huilin Tang
+    - footer
+title: Liu Qiong, Cheng Shengbo, Peng Bin, Chen Kailun, Sun Chang, Tang Huilin
 description:
 tags:
  - buildability
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Buildability and Flexural Properties of 3D Printed Recycled Mortar Reinforced with Synchronized Steel-Cable Under Different Reinforcement Ratios ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.jobe.2024.108484" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108484</a>
+#The Buildability and Flexural Properties of 3D Printed Recycled Mortar Reinforced with Synchronized Steel-Cable Under Different Reinforcement Ratios ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108484" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108484" target="_blank">10.1016/j.jobe.2024.108484</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2979-6056" title="ORCID: 0009-0007-2979-6056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_shengbo"><b>Cheng</b>&nbsp;Shengbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8377-7023" title="ORCID: 0000-0001-8377-7023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_bin"><b>Peng</b>&nbsp;Bin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6448-2721" title="ORCID: 0000-0001-6448-2721" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_kailun"><b>Chen</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_chang"><b>Sun</b>&nbsp;Chang</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-7406-059X" title="ORCID: 0009-0000-7406-059X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tang_huilin"><b>Tang</b>&nbsp;Huilin</a></span><br>
+Journal Article - Journal of Building Engineering, No. 108484
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_shengbo"><b>Cheng</b> Shengbo</a> <a href="https://orcid.org/0009-0007-2979-6056" title="ORCID: 0009-0007-2979-6056" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/peng_bin"><b>Peng</b> Bin</a> <a href="https://orcid.org/0000-0001-8377-7023" title="ORCID: 0000-0001-8377-7023" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> <a href="https://orcid.org/0000-0001-6448-2721" title="ORCID: 0000-0001-6448-2721" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_chang"><b>Sun</b> Chang</a> <a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tang_huilin"><b>Tang</b> Huilin</a> <a href="https://orcid.org/0009-0000-7406-059X" title="ORCID: 0009-0000-7406-059X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 108484
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cable`](keyword/cable)
-    [`#difference`](keyword/difference)
-    [`#flexural`](keyword/flexural)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#ratio`](keyword/ratio)
-    [`#recycling`](keyword/recycling)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-    [`#synchronization`](keyword/synchronization)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/synchronization"><button class="btn">#synchronization</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Buildability%20and%20Flexural%20Properties%20of%203D%20Printed%20Recycled%20Mortar%20Reinforced%20with%20Synchronized%20Steel-Cable%20Under%20Different%20Reinforcement%20Ratios" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183204596&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390686726" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108484" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108484?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study achieved the synchronized reinforcement of 3D printed mortar with steel cables by modifying the printing equipment. Recycled sintered brick powder replaced 30 % of cement in the 3D printed mortar mixture. The optimal range for the open time was determined through flowability tests and preliminary tests, which ranged from 10 to 40 min. Ways to improve the reinforcement ratio without compromising buildability were explored. The bond strength between the steel cables and the printed mortar was tested and found to be approximately 2–2.5 MPa. The flexural strength of the printed beams with steel cable reinforcement increased by 172%–357 %, and multiple cracks occurred at the mid-span during the failure process. A correction formula for the flexural strength was provided, with calculated values showing an error within 12 % of the test values.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dezaire_steven"><b>Dezaire</b> Steven</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hoekstra_anne"><b>Hoekstra</b> Anne</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bos_deza_ahme_hoek.2020.BoRCi3PC/">Bond of Reinforcement-Cable in 3D Printed Concrete</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
@@ -112,12 +84,41 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
       <li><a href="../../../author/disu_oluwatimilehin"><b>Disu</b> Oluwatimilehin</a>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a>, <a href="../../../author/wood_luke"><b>Wood</b> Luke</a>, <a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b> Andreas</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../disu_isma_wood_chry.2025.ESoBo3PCBSUAS/">Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate</a></li>
       <li><a href="../../../author/motiani_ronak"><b>Motiani</b> Ronak</a>, <a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b> Saha</a>, <a href="../../../author/dalal_p_sejal"><b>Dalal</b> Sejal</a>, <a href="../../../author/vora_jay"><b>Vora</b> Jay</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../moti_sylv_dala_vora.2025.IRTf3PC/">Innovative Reinforcement Techniques for 3D-Printed Concrete:<br/>The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation</a></li>
       <li><a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b> P.</a>, <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b> G.</a>, <a href="../../../author/roy_dipankar"><b>Roy</b> Dipankar</a>, <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b> George</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../venu_nakk_roy_alan.2024.EtUoRFAi3P/">Evaluating the Use of Recycled Fine Aggregates in 3D Printing:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/lu_yue"><b>Lu</b> Yue</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_yan"><b>Li</b> Yan</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lu_xiao_li.2024.3PRCIPF/">3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>A Comprehensive Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_chen_peng_chen.2024.TBaFPo3PRMRwSSCUDRR,
+      author            = "Qiong Liu and Shengbo Cheng and Bin Peng and Kailun Chen and Chang Sun and Huilin Tang",
+      title             = "The Buildability and Flexural Properties of 3D Printed Recycled Mortar Reinforced with Synchronized Steel-Cable Under Different Reinforcement Ratios",
+      doi               = "10.1016/j.jobe.2024.108484",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "108484",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, S. Cheng, B. Peng, K. Chen, C. Sun and H. Tang, “The Buildability and Flexural Properties of 3D Printed Recycled Mortar Reinforced with Synchronized Steel-Cable Under Different Reinforcement Ratios”, <i>Journal of Building Engineering</i>, p. 108484, 2024, doi: 10.1016/j.jobe.2024.108484.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiong, Shengbo Cheng, Bin Peng, Kailun Chen, Chang Sun, and Huilin Tang. “The Buildability and Flexural Properties of 3D Printed Recycled Mortar Reinforced with Synchronized Steel-Cable Under Different Reinforcement Ratios”. <i>Journal of Building Engineering</i>, 2024, 108484. https://doi.org/10.1016/j.jobe.2024.108484.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

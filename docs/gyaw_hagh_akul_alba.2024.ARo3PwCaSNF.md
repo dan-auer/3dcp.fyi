@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Biva Gyawali, Ramtin Haghnazar, Pavan Akula, Kamran Alba, Vahid Nasir
+    - footer
+title: Gyawali Biva, Haghnazar Ramtin, Akula Pavan, Alba Kamran, Nasir Vahid
 description:
 tags:
  - application
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rineng.2024.103024) A Review on 3D Printing with Clay and Sawdust/Natural Fibers:<br/>:aca-blank: Printability, Rheology, Properties, and Applications ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.rineng.2024.103024" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2024.103024</a>
+#A Review on 3D Printing with Clay and Sawdust/Natural Fibers&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Printability, Rheology, Properties, and Applications</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2024.103024) <a href="https://doi.org/10.1016/j.rineng.2024.103024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2024.103024" target="_blank">10.1016/j.rineng.2024.103024</a>
 
--------------------------
+<a href="../../../author/gyawali_biva"><b>Gyawali</b>&nbsp;Biva</a></span>, <a href="../../../author/haghnazar_ramtin"><b>Haghnazar</b>&nbsp;Ramtin</a></span>, <a href="../../../author/akula_pavan"><b>Akula</b>&nbsp;Pavan</a></span>, <a href="../../../author/alba_kamran"><b>Alba</b>&nbsp;Kamran</a></span>, <a href="../../../author/nasir_vahid"><b>Nasir</b>&nbsp;Vahid</a></span><br>
+Journal Article - Results in Engineering, Vol. 24, No. 103024
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gyawali_biva"><b>Gyawali</b> Biva</a>
-,     <a href="../../../author/haghnazar_ramtin"><b>Haghnazar</b> Ramtin</a>
-,     <a href="../../../author/akula_pavan"><b>Akula</b> Pavan</a>
-,     <a href="../../../author/alba_kamran"><b>Alba</b> Kamran</a>
-,     <a href="../../../author/nasir_vahid"><b>Nasir</b> Vahid</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, Vol. 24, No. 103024
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#clay`](keyword/clay)
-    [`#fiber`](keyword/fiber)
-    [`#natural`](keyword/natural)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%203D%20Printing%20with%20Clay%20and%20Sawdust/Natural%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205543879&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403081581" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2024.103024" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2024.103024?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review discusses the opportunities and challenges of 3D printing using clay and natural fibers with a focus on wood sawdust in direct ink writing (DIW) method. Using earthen and natural materials promotes sustainable and affordable construction. Additive manufacturing also offers low-cost and fast construction and facilitates the transition towards automated and customized practices. Considerations in preparing print slurry using clay and sawdust/natural fiber are presented. The key rheological tests and criteria to assess the printability and characteristics of fresh printing slurry are discussed. Printability of fresh slurry is explained with a focus on flowability, extrudability, and buildability. Additionally, the mechanical properties of 3D-printed clay composites reinforced with natural fibers are reviewed. The review shows the complex role of using wood sawdust and natural fiber in clay 3D printing. While such an addition may compromise the strength properties of clay composite, it improves the shrinkage and cracks following print task. The study concludes that post-printing performance shall be linked to proper design of print slurry via rheological characterization techniques. Further research is required to establish the fresh ink printability criteria. These criteria should account for rheology of fresh slurry, different loading scenarios of in-service printed structure, and geometrical complexities and requirements of final product. To fully leverage the power of 3D printing in customized fabrication and construction, additive manufacturing can be practiced by focusing on aesthetic and architectural design. Clay 3D printing can also be integrated with computational design to fabricate building structures with exterior (façade) and/or interior applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -79,7 +56,6 @@ tags:
       <li><a href="../../../author/clarke-hicks_james"><b>Clarke-Hicks</b> James</a>, <a href="../../../author/ochoa_isabel"><b>Ochoa</b> Isabel</a>, <a href="../../../author/correa_david"><b>Correa</b> David</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../clar_ocho_corr.2022.HPDiP3PCLS/">Harnessing Plastic Deformation in Porous 3D Printed Ceramic Light Screens</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
-      <li><a href="../../../author/gyawali_biva"><b>Gyawali</b> Biva</a>, <a href="../../../author/haghnazar_ramtin"><b>Haghnazar</b> Ramtin</a>, <a href="../../../author/akula_pavan"><b>Akula</b> Pavan</a>, <a href="../../../author/alba_kamran"><b>Alba</b> Kamran</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../gyaw_hagh_akul_alba.2024.ARo3PwCaSNF/">A Review on 3D Printing with Clay and Sawdust/Natural Fibers:<br/>Printability, Rheology, Properties, and Applications</a></li>
       <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../hoja_li_mema_park.2022.3PQCMTSD/">3D Printable Quaternary-Cementitious-Materials Towards Sustainable Development:<br/>Mixture Design and Mechanical Properties</a></li>
       <li><a href="../../../author/ji_yameng"><b>Ji</b> Yameng</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_poul_lekl.2023.TSaDoEMf3P/">The Selection and Design of Earthen Materials for 3D Printing</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../khan_ilca_imra_amin.2024.TIoNDaPSoGB3PCS/">The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures:<br/>Numerical Modeling and Experimental Validation</a></li>
@@ -103,10 +79,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_yong"><b>Ding</b> Yong</a>, <a href="../../../author/kindler_oswin_robert"><b>Kindler</b> Robert</a>, <a href="../../../author/cen_tianyu"><b>Cen</b> Tianyu</a>, <a href="../../../author/chen_xiulin"><b>Chen</b> Xiulin</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_kind_cen_chen.2025.VoDWaBBiSBMvCMa3P/">Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing</a></li>
       <li><a href="../../../author/li_shunuo"><b>Li</b> Shunuo</a>, <a href="../../../author/xu_haoyi"><b>Xu</b> Haoyi</a>, <a href="../../../author/xia_xinyue"><b>Xia</b> Xinyue</a>, <a href="../../../author/fan_haojie"><b>Fan</b> Haojie</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_xu_xia_fan.2025.BE/">Bio-Envelop:<br/>Robotic 3D Printed Facade Using Cow Dung and Laterite Soil</a></li>
-      <li><a href="../../../author/gyawali_biva"><b>Gyawali</b> Biva</a>, <a href="../../../author/haghnazar_ramtin"><b>Haghnazar</b> Ramtin</a>, <a href="../../../author/akula_pavan"><b>Akula</b> Pavan</a>, <a href="../../../author/alba_kamran"><b>Alba</b> Kamran</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../gyaw_hagh_akul_alba.2024.ARo3PwCaSNF/">A Review on 3D Printing with Clay and Sawdust/Natural Fibers:<br/>Printability, Rheology, Properties, and Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gyaw_hagh_akul_alba.2024.ARo3PwCaSNF,
+      author            = "Biva Gyawali and Ramtin Haghnazar and Pavan Akula and Kamran Alba and Vahid Nasir",
+      title             = "A Review on 3D Printing with Clay and Sawdust/Natural Fibers: Printability, Rheology, Properties, and Applications",
+      doi               = "10.1016/j.rineng.2024.103024",
+      year              = "2024",
+      journal           = "Results in Engineering",
+      volume            = "24",
+      pages             = "103024",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Gyawali, R. Haghnazar, P. Akula, K. Alba and V. Nasir, “A Review on 3D Printing with Clay and Sawdust/Natural Fibers: Printability, Rheology, Properties, and Applications”, <i>Results in Engineering</i>, vol. 24, p. 103024, 2024, doi: 10.1016/j.rineng.2024.103024.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gyawali, Biva, Ramtin Haghnazar, Pavan Akula, Kamran Alba, and Vahid Nasir. “A Review on 3D Printing with Clay and Sawdust/Natural Fibers: Printability, Rheology, Properties, and Applications”. <i>Results in Engineering</i> 24 (2024): 103024. https://doi.org/10.1016/j.rineng.2024.103024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

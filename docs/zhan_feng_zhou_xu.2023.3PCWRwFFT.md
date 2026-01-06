@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daobo Zhang, Peng Feng, Peizhao Zhou, Weiguo Xu, Guowei Ma
+    - footer
+title: Zhang Daobo, Feng Peng, Zhou Peizhao, Xu Weiguo, Ma Guowei
 description:
 tags:
  - automation
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>:aca-blank: Automatic Construction, Digital Rebuilding, and Seismic Performance ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.engstruct.2023.116488" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.116488</a>
+#3D Printed Concrete Walls Reinforced with Flexible FRP Textile&nbsp;([2023-06](date/2023/06))
+<div class="h1-like">Automatic Construction, Digital Rebuilding, and Seismic Performance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.116488" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116488" target="_blank">10.1016/j.engstruct.2023.116488</a>
 
--------------------------
+<a href="../../../author/zhang_daobo"><b>Zhang</b>&nbsp;Daobo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_peng"><b>Feng</b>&nbsp;Peng</a></span>, <a href="../../../author/zhou_peizhao"><b>Zhou</b>&nbsp;Peizhao</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weiguo"><b>Xu</b>&nbsp;Weiguo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Engineering Structures, Vol. 291, No. 116488
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>
-,     <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>
-,     <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 291, No. 116488
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#flexibility`](keyword/flexibility)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#seismic`](keyword/seismic)
-    [`#textile`](keyword/textile)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/flexibility"><button class="btn">#flexibility</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/seismic"><button class="btn">#seismic</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Walls%20Reinforced%20with%20Flexible%20FRP%20Textile" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163142627&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4381546827" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.116488" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.116488?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As numerous impressive large-scale 3D printed concrete structures have been built with 3D concrete printing (3DCP) technology, more attention has been given to the automation, accuracy and reliability of this technology. The concept of Brain-Eyes-Hands Loop (BEH Loop) is defined for use in automatic construction, describing the relationships among design, evaluation, and construction. In this paper, an innovative continuous reinforcement method with fiber reinforced polymer (FRP) flexible textile and Engineered Cementitious Composite (ECC) is presented, that offers an effective solution for the lack of tensile reinforcement and corrosion of steel bars in 3D printed concrete structures. The reinforced 3D printed concrete walls were constructed, evaluated, and tested under quasi-static cyclic loading. By digital rebuilding and geometric evaluation, the printing quality of wall specimens was accessed and ensured. Based on the mechanical tests, the seismic performances of the wall specimens were obtained and found to be mainly bending failure. The proposed reinforcement method was demonstrated for delaying crushing and improving mechanical behaviors. The end column and smaller heightwidth ratio also showed much improvement in mechanical performance. Compared with the conventional cast concrete wall, the 3DCP wall specimens reinforced by the proposed reinforcement method showed better material utilization efficiency and mechanical properties. Therefore, the 3DCP structures reinforced with flexible FRP textile show great potential for the future use in fully automatic construction of large-scale complex architectures according to the frame of the BEH Loop.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -120,8 +95,9 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../du_deng_qian.2025.B3PHBCCfUHIP/">Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance</a></li>
@@ -149,4 +125,34 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/dai_yecheng"><b>Dai</b> Yecheng</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ye_yang_yu_dai.2024.SEoFaFBo3PECC/">Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites:<br/>Experimental and Numerical Studies</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zhou_jie-kai"><b>Zhou</b> Jie-Kai</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zeng_li_yan_zhou.2023.Bo3PHPwFGRUB/">Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_feng_zhou_xu.2023.3PCWRwFFT,
+      author            = "Daobo Zhang and Peng Feng and Peizhao Zhou and Weiguo Xu and Guowei Ma",
+      title             = "3D Printed Concrete Walls Reinforced with Flexible FRP Textile: Automatic Construction, Digital Rebuilding, and Seismic Performance",
+      doi               = "10.1016/j.engstruct.2023.116488",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "291",
+      pages             = "116488",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Zhang, P. Feng, P. Zhou, W. Xu and G. Ma, “3D Printed Concrete Walls Reinforced with Flexible FRP Textile: Automatic Construction, Digital Rebuilding, and Seismic Performance”, <i>Engineering Structures</i>, vol. 291, p. 116488, 2023, doi: 10.1016/j.engstruct.2023.116488.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Daobo, Peng Feng, Peizhao Zhou, Weiguo Xu, and Guowei Ma. “3D Printed Concrete Walls Reinforced with Flexible FRP Textile: Automatic Construction, Digital Rebuilding, and Seismic Performance”. <i>Engineering Structures</i> 291 (2023): 116488. https://doi.org/10.1016/j.engstruct.2023.116488.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

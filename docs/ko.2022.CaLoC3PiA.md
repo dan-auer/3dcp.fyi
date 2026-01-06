@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chien-Ho Ko
+    - footer
+title: Ko Chien-Ho
 description:
 tags:
  - architecture
@@ -13,26 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Constraints and Limitations of Concrete 3D Printing in Architecture ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1108/jedt-11-2020-0456" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/jedt-11-2020-0456</a>
+#Constraints and Limitations of Concrete 3D Printing in Architecture ([2021-06](date/2021/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/jedt-11-2020-0456" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jedt-11-2020-0456" target="_blank">10.1108/jedt-11-2020-0456</a>
 
--------------------------
+<a href="../../../author/ko_chien-ho"><b>Ko</b>&nbsp;Chien-Ho</a></span><br>
+Journal Article - Journal of Engineering, Design and Technology, Vol. 20, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ko_chien-ho"><b>Ko</b> Chien-Ho</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Engineering, Design and Technology, Vol. 20, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#concrete`](keyword/concrete)
-    [`#constraint`](keyword/constraint)
-    [`#limitation`](keyword/limitation)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constraint"><button class="btn">#constraint</button></a> <a href="../../keyword/limitation"><button class="btn">#limitation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Constraints%20and%20Limitations%20of%20Concrete%203D%20Printing%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108615379&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3176964770" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/jedt-11-2020-0456" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/jedt-11-2020-0456?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing of concrete (AMoC) is an emerging technology for constructing buildings. However, due to the nature of the concrete property and constructing buildings in layers, constraints and limitations are encountered while applying AMoC in architecture. This paper aims to analyze the constraints and limitations that may be encountered while using AMoC in architecture. A descriptive research approach is used to conduct this study. First, basic notions of AMoC are introduced. Then, challenges of AMoC, including hardware, material property, control and design, are addressed. Finally, strategies that may be used to overcome the challenges are discussed. Factors influencing the success of AMoC include hardware, material, control methods, manufacturing process and design. Considering these issues in the early design phase is crucial to achieving a successful computer-aided design (CAD)/computer-aided manufacturing (CAM) integration to bring CAD and CAM benefits into the architecture industry. In three-dimensional (3D) printing, objects are constructed layer by layer. Printing results are thus affected by the additive method (such as toolpath) and material properties (such as tensile strength and slump). Although previous studies attempt to improve AMoC, most of them focus on the manufacturing process. However, a successful application of AMoC in architecture needs to consider the possible constraints and limitations of concrete 3D printing. So far, research on the potential challenges of applying AMoC in architecture from a building lifecycle perspective is still limited. The study results of this study could be used to improve design and construction while applying AMoC in architecture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -86,8 +70,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>
       <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
@@ -101,4 +85,34 @@ tags:
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../heyw_nich.2024.Dfaw3/">Design for and with 3DCP:<br/>An Integrated Early Design Stage Workflow</a></li>
       <li><a href="../../../author/gunduz_gamze"><b>Gündüz</b> Gamze</a>, <a href="../../../author/ozkar_mine"><b>Özkar</b> Mine</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gund_ozka.2024.APBFfAMiRC3P/">A Process-Based Framework for Adaptable Modules in Robotic Clay 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ko.2022.CaLoC3PiA,
+      author            = "Chien-Ho Ko",
+      title             = "Constraints and Limitations of Concrete 3D Printing in Architecture",
+      doi               = "10.1108/jedt-11-2020-0456",
+      year              = "2022",
+      journal           = "Journal of Engineering, Design and Technology",
+      volume            = "20",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C.-H. Ko, “Constraints and Limitations of Concrete 3D Printing in Architecture”, <i>Journal of Engineering, Design and Technology</i>, vol. 20, no. 5, 2022, doi: 10.1108/jedt-11-2020-0456.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ko, Chien-Ho. “Constraints and Limitations of Concrete 3D Printing in Architecture”. <i>Journal of Engineering, Design and Technology</i> 20, no. 5 (2022). https://doi.org/10.1108/jedt-11-2020-0456.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

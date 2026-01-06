@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Srinivas Dodda 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gulia_preeti"><b>Gulia</b> Preeti</a>, <a href="../../../author/dogra_sourabh"><b>Dogra</b> Sourabh</a>, <a href="../../../author/gupta_arpan"><b>Gupta</b> Arpan</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../guli_dogr_gupt_bodd.2025.BaMSwGC/">Building a Metamaterial Slab with Gosper Curve</a></li>
   <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../srin_pand_sura_sith.2025.MDOo3PCCfMA/">Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications:<br/>Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability</a></li>
   <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../srin_pand_sura_sith.2025.IoMCaCCoPoS3PM/">Influence of Mixture-Composition and Carbonation-Curing on Properties of Sustainable 3D Printable Mortars</a></li>

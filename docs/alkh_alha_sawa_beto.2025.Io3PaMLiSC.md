@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ayah Alkhawaldeh, Mohammad Alhassan, Ansam Sawalha, Nour Betoush, Layla Amaireh, Khairedin Abdalla, Nikos Lagaros
+    - footer
+title: Alkhawaldeh Ayah, Alhassan Mohammad, Sawalha Ansam, Betoush Nour, Amaireh Layla, Abdalla Khairedin, Lagaros Nikos
 description:
 tags:
  - challenge
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Integration of 3D Printing and Machine Learning in Sustainable Construction:<br/>:aca-blank: Feasibility and Challenges ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/978-3-031-92029-5_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-92029-5_1</a>
+#Integration of 3D Printing and Machine Learning in Sustainable Construction&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Feasibility and Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92029-5_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92029-5_1" target="_blank">10.1007/978-3-031-92029-5_1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4204-4189" title="ORCID: 0000-0002-4204-4189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alkhawaldeh_ayah"><b>Alkhawaldeh</b>&nbsp;Ayah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5658-7686" title="ORCID: 0000-0002-5658-7686" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alhassan_mohammad"><b>Alhassan</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1023-2521" title="ORCID: 0000-0002-1023-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sawalha_ansam"><b>Sawalha</b>&nbsp;Ansam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9696-1137" title="ORCID: 0000-0001-9696-1137" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/betoush_nour"><b>Betoush</b>&nbsp;Nour</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8727-8026" title="ORCID: 0000-0002-8727-8026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amaireh_layla"><b>Amaireh</b>&nbsp;Layla</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9821-3853" title="ORCID: 0000-0001-9821-3853" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b>&nbsp;Khairedin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6114-9632" title="ORCID: 0000-0001-6114-9632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lagaros_d_nikos"><b>Lagaros</b>&nbsp;Nikos</a></span><br>
+Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering 2024, pp. 1-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alkhawaldeh_ayah"><b>Alkhawaldeh</b> Ayah</a> <a href="https://orcid.org/0000-0002-4204-4189" title="ORCID: 0000-0002-4204-4189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a> <a href="https://orcid.org/0000-0002-5658-7686" title="ORCID: 0000-0002-5658-7686" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sawalha_ansam"><b>Sawalha</b> Ansam</a> <a href="https://orcid.org/0000-0002-1023-2521" title="ORCID: 0000-0002-1023-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/betoush_nour"><b>Betoush</b> Nour</a> <a href="https://orcid.org/0000-0001-9696-1137" title="ORCID: 0000-0001-9696-1137" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amaireh_layla"><b>Amaireh</b> Layla</a> <a href="https://orcid.org/0000-0002-8727-8026" title="ORCID: 0000-0002-8727-8026" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a> <a href="https://orcid.org/0000-0001-9821-3853" title="ORCID: 0000-0001-9821-3853" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lagaros_d_nikos"><b>Lagaros</b> Nikos</a> <a href="https://orcid.org/0000-0001-6114-9632" title="ORCID: 0000-0001-6114-9632" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering 2024, pp. 1-10
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#construction`](keyword/construction)
-    [`#feasibility`](keyword/feasibility)
-    [`#integration`](keyword/integration)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%203D%20Printing%20and%20Machine%20Learning%20in%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010159211&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411614933" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-92029-5_1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-92029-5_1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, three-dimensional (3D) printing and machine learning applications in sustainable construction have evolved. Recent innovations in 3D printing technology have led to its integration in a variety of industries, including buildings and constructions. It is a technology for creating 3D objects layer by layer using a computer-generated design through machine learning depending on pre-identified parameters and the desired output. This paper aims to provide a review about the current practices of the 3D printing and machine learning in sustainable construction and useful suggestions to increase its popularity and potential. Several countries started using 3D printing in construction by creating small-scale prototypes of steel or concrete that can allow for actual printing of full-scale structural systems. The advantages of this technology range from being environmentally friendly to reducing the overall weight of the individual structural elements without affecting their capacities and performance. However, the technology is still facing some major challenges that need to be resolved in order to consider the 3D printing as a competitive and effective technology in the construction industry with optimized shapes, reduced materials, and maintained sustainability criteria.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -87,7 +63,38 @@ tags:
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{alkh_alha_sawa_beto.2025.Io3PaMLiSC,
+      author            = "Ayah Alkhawaldeh and Mohammad Alhassan and Ansam Sawalha and Nour Betoush and Layla Amaireh and Khairedin M. Abdalla and Nikos D. Lagaros",
+      title             = "Integration of 3D Printing and Machine Learning in Sustainable Construction: Feasibility and Challenges",
+      doi               = "10.1007/978-3-031-92029-5_1",
+      year              = "2025",
+      volume            = "646",
+      pages             = "1--10",
+      booktitle         = "Proceedings of the International Conferences on Digital Technology Driven Engineering 2024",
+      editor            = "Nikos D. Lagaros and Savvas P. Triantafyllou and Rajai Z. Alrousan and Mohammad Alhassan and Khairedin M. Abdalla",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Alkhawaldeh, “Integration of 3D Printing and Machine Learning in Sustainable Construction: Feasibility and Challenges”, in <i>Proceedings of the International Conferences on Digital Technology Driven Engineering 2024</i>,  2025, vol. 646, pp. 1–10. doi: 10.1007/978-3-031-92029-5_1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alkhawaldeh, Ayah, Mohammad Alhassan, Ansam Sawalha, Nour Betoush, Layla Amaireh, Khairedin M. Abdalla, and Nikos D. Lagaros. “Integration of 3D Printing and Machine Learning in Sustainable Construction: Feasibility and Challenges”. In <i>Proceedings of the International Conferences on Digital Technology Driven Engineering 2024</i>, edited by Nikos D. Lagaros, Savvas P. Triantafyllou, Rajai Z. Alrousan, Mohammad Alhassan, and Khairedin M. Abdalla, 646:1–10, 2025. https://doi.org/10.1007/978-3-031-92029-5_1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

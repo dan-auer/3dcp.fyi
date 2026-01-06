@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hendrik Benz, The Nguyen Trong, Katharina Klemt-Albert
+    - footer
+title: Benz Hendrik, Nguyen Trong The, Klemt-Albert Katharina
 description:
 tags:
  - additive
@@ -24,39 +25,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>:aca-blank: Annotated Dataset and Dual-Model Framework ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.autcon.2025.106666" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106666</a>
+#Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Annotated Dataset and Dual-Model Framework</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106666" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106666" target="_blank">10.1016/j.autcon.2025.106666</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-3717-252X" title="ORCID: 0009-0002-3717-252X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/benz_hendrik"><b>Benz</b>&nbsp;Hendrik</a></span>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b>&nbsp;The</a></span>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b>&nbsp;Katharina</a></span><br>
+Journal Article - Automation in Construction, Vol. 181, No. 106666
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a> <a href="https://orcid.org/0009-0002-3717-252X" title="ORCID: 0009-0002-3717-252X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>
-,     <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 181, No. 106666
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#annotation`](keyword/annotation)
-    [`#base`](keyword/base)
-    [`#database`](keyword/database)
-    [`#defect`](keyword/defect)
-    [`#detection`](keyword/detection)
-    [`#earth`](keyword/earth)
-    [`#framework`](keyword/framework)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#model`](keyword/model)
-    [`#real`](keyword/real)
-    [`#scale`](keyword/scale)
-    [`#site`](keyword/site)
-    [`#time`](keyword/time)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/annotation"><button class="btn">#annotation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/database"><button class="btn">#database</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Vision-Based%20Defect%20Detection%20for%20Large-Scale%20on-Site%20Earthen%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +47,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106105932" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106666" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106666?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is transforming construction through automated, digitalized workflows, yet the layer-wise process remains prone to defects and geometric deviations during long-duration prints. Vision-based quality monitoring, when supported by domain-specific annotated datasets, enables deep learning models to detect such defects in real time. This paper introduces a publicly available annotated, material-specific dataset focused on large-scale earthen 3D-printing (3DP-E) under outdoor on-site conditions, comprising 2000 images labeled into three crack-related classes. A catalog of 14 visually distinguishable defect types is compiled, prioritizing those most relevant for computer vision-based monitoring. To demonstrate the dataset’s applicability, a dual-model vision framework was implemented, stacking a nozzle-tracking model and a crack-segmentation model within a dynamic region of interest (ROI) that adapts to changing camera positions and printer motion. The framework confirms the feasibility of real-time defect detection and outlines a pathway for integrating vision-based supervision into feedback-driven process control workflows for on-site additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
@@ -116,7 +88,37 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_sun_wang_wang.2025.RTaHADMf3CPUTN/">Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks</a></li>
       <li><a href="../../../author/zimmermann_stefan"><b>Zimmermann</b> Stefan</a>, <a href="../../../author/griego_danielle"><b>Griego</b> Danielle</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zimm_grie_flat.2024.VDoC3PSwARBoMLDIA/">Visualizing Defects of Concrete 3D Printed Structures with Augmented Reality Based on Machine Learning-Driven Image-Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{benz_nguy_klem.2026.RTVBDDfLSoSEAM,
+      author            = "Hendrik Benz and The Vinh Nguyen Trong and Katharina Klemt-Albert",
+      title             = "Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing: Annotated Dataset and Dual-Model Framework",
+      doi               = "10.1016/j.autcon.2025.106666",
+      year              = "2026",
+      journal           = "Automation in Construction",
+      volume            = "181",
+      pages             = "106666",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Benz, T. V. N. Trong and K. Klemt-Albert, “Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing: Annotated Dataset and Dual-Model Framework”, <i>Automation in Construction</i>, vol. 181, p. 106666, 2026, doi: 10.1016/j.autcon.2025.106666.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Benz, Hendrik, The Vinh Nguyen Trong, and Katharina Klemt-Albert. “Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing: Annotated Dataset and Dual-Model Framework”. <i>Automation in Construction</i> 181 (2026): 106666. https://doi.org/10.1016/j.autcon.2025.106666.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

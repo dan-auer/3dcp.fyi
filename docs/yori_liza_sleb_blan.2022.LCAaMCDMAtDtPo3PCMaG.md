@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adrian Yoris-Nobile, Esther Lizasoain-Arteaga, Carlos Slebi-Acevedo, Elena Blanco-Fernandez, Sara Alonso-Cañon, Irune Indacoechea-Vega, Daniel Castro-Fresno
+    - footer
+title: Yoris-Nobile Adrian, Lizasoain-Arteaga Esther, Slebi-Acevedo Carlos, Blanco-Fernandez Elena, Alonso-Cañon Sara, Indacoechea-Vega Irune, Castro-Fresno Daniel
 description:
 tags:
  - analysis
@@ -21,40 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1080/21650373.2022.2099479" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2022.2099479</a>
+#Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2022.2099479" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2022.2099479" target="_blank">10.1080/21650373.2022.2099479</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b>&nbsp;Adrian</a></span>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b>&nbsp;Esther</a></span>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b>&nbsp;Carlos</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9110-9084" title="ORCID: 0000-0001-9110-9084" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b>&nbsp;Irune</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b>&nbsp;Daniel</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-18
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> <a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>
-,     <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>
-,     <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> <a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a> <a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> <a href="https://orcid.org/0000-0001-9110-9084" title="ORCID: 0000-0001-9110-9084" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a> <a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-18
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#assessment`](keyword/assessment)
-    [`#cement`](keyword/cement)
-    [`#criteria`](keyword/criteria)
-    [`#cycle`](keyword/cycle)
-    [`#decision`](keyword/decision)
-    [`#determination`](keyword/determination)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#life`](keyword/life)
-    [`#mortar`](keyword/mortar)
-    [`#multi`](keyword/multi)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life-Cycle-Assessment%20and%20Multi-Criteria%20Decision-Making-Analysis%20to%20Determine%20the%20Performance%20of%203D%20Printed%20Cement%20Mortars%20and%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134384777&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285796588" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2022.2099479" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2022.2099479?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A comparison between low-clinker cement and geopolymer mortars for their application in 3D printing is discussed in this paper. The mortars are composed of materials with low environmental impact, such as cements with low clinker content, by-products of the industry and recycled aggregates. The developed mortars were both mechanically and rheologically characterized. The environmental impact was studied by LCA. To select the most suitable dosages, MCDM analysis was applied based on cost of materials, printability and LCA. Compressive strength was considered as a normalizing parameter for both the LCA and cost. The mortars showed good printability and suitable mechanical strength, being higher in the cement mortars. The LCA showed that the geopolymer mortars have a higher environmental impact due to the use of sodium hydroxide. Likewise, MCDM revealed that low-clinker cement mortars are at the top of the ranking, due to a lower environmental impact and lower cost of materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
@@ -90,8 +60,8 @@ tags:
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/cuesta-astorga_eva"><b>Cuesta-Astorga</b> Eva</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../alon_blan_cues_inda.2025.SotB3PHPMUMCA/">Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_krav_besk_lazo.2025.3PoRMfSC/">3D Printing of Recycled Materials for Sustainable Construction:<br/>A Comprehensive Economic and Life Cycle Assessment</a></li>
@@ -108,4 +78,33 @@ tags:
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/boukhelf_fouad"><b>Boukhelf</b> Fouad</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/boutouil_mohamed"><b>Boutouil</b> Mohamed</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../bouk_seba_bout_yori.2022.OtPEoEMDtMARv3P/">On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing:<br/>Long-Term Interactions of Cementitious Materials in the Marine Environment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG,
+      author            = "Adrian Isidro Yoris-Nobile and Esther Lizasoain-Arteaga and Carlos J. Slebi-Acevedo and Elena Blanco-Fernandez and Sara Alonso-Cañon and Irune Indacoechea-Vega and Daniel Castro-Fresno",
+      title             = "Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers",
+      doi               = "10.1080/21650373.2022.2099479",
+      year              = "2022",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--18",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. I. Yoris-Nobile, “Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–18, 2022, doi: 10.1080/21650373.2022.2099479.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yoris-Nobile, Adrian Isidro, Esther Lizasoain-Arteaga, Carlos J. Slebi-Acevedo, Elena Blanco-Fernandez, Sara Alonso-Cañon, Irune Indacoechea-Vega, and Daniel Castro-Fresno. “Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers”. <i>Journal of Sustainable Cement-Based Materials</i>, 2022, 1–18. https://doi.org/10.1080/21650373.2022.2099479.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

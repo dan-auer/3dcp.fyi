@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kirushnapillai Kopitha, Pathmanathan Rajeev, Jay Sanjayan, Yogarajah Elakneswaran
+    - footer
+title: Kopitha Kirushnapillai, Rajeev Pathmanathan, Sanjayan Jay, Elakneswaran Yogarajah
 description:
 tags:
  - carbon
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.111653) CO2 Sequestration and Low-Carbon-Strategies in 3D Printed Concrete ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jobe.2024.111653" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111653</a>
+#CO2 Sequestration and Low-Carbon-Strategies in 3D Printed Concrete ([2024-12](date/2024/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.111653) <a href="https://doi.org/10.1016/j.jobe.2024.111653" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111653" target="_blank">10.1016/j.jobe.2024.111653</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8311-928X" title="ORCID: 0000-0002-8311-928X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b>&nbsp;Kirushnapillai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <a href="../../../author/elakneswaran_yogarajah"><b>Elakneswaran</b>&nbsp;Yogarajah</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 99, No. 111653
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a> <a href="https://orcid.org/0000-0002-8311-928X" title="ORCID: 0000-0002-8311-928X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/elakneswaran_yogarajah"><b>Elakneswaran</b> Yogarajah</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 99, No. 111653
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#sequestration`](keyword/sequestration)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sequestration"><button class="btn">#sequestration</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=CO2%20Sequestration%20and%20Low-Carbon-Strategies%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212976686&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405686263" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111653" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111653?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increase in atmospheric carbon dioxide (CO2) due to human activities is a major driver of global warming. To mitigate CO2 emissions, Carbon Capture, Utilisation, and Sequestration (CCUS) technologies are critical, particularly in the construction sector, which significantly contributes to global CO2 emissions, especially through cement production. Cement-based materials have the potential to store CO2 through mineralisation, making them attractive for CCUS initiatives. 3D printed concrete (3DPC) offers many benefits; however, its significant cement consumption presents sustainability challenges. To address this, CO2 sequestration methods and supplementary cementitious materials (SCMs) are increasingly being employed in 3DPC to reduce cement usage and carbon footprint. This study reviews recent advancements in CO2 sequestration methods within 3DPC, such as CO₂ curing, CO₂ jetting, and CO₂ mixing methods, along with their reaction mechanisms, while also examining the role of SCMs and recycled aggregates in reducing carbon emissions. Key findings indicate that 3DPC structures, with their structural design, characterised by their hollow-lattice cross-section and adjustable printing parameters, enhance CO2 ingress potential via CO2 sequestration techniques such as CO2 curing and CO2 jetting. Moreover, introducing CO2 during mixing serves as an accelerator, aiding in the development of desired strength after deposition of 3DPC. Furthermore, incorporating low-carbon materials significantly reduces the carbon footprint in 3DPC compared to cast concrete. Consequently, efforts to reduce cement content by incorporating SCMs and sequestering CO2 within 3DPC offer viable avenues for promoting sustainable construction practices. It also examines the environmental impact of different 3DPC mix designs and provides recommendations to improve sequestration efficiency and practical implementation. By adopting sustainable materials and innovative carbon sequestration techniques, the sustainability of 3DPC can be substantially enhanced.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/butkute_karolina"><b>Butkutė</b> Karolina</a>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/augonis_algirdas"><b>Augonis</b> Algirdas</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../butk_vait_sink_augo.2023.IoCBSGi3CP/">Influence of Carbonated-Bottom-Slag-Granules in 3D Concrete Printing</a></li>
@@ -115,8 +94,38 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kopi_raje_sanj_elak.2025.CSaLCSi3PC,
+      author            = "Kirushnapillai Kopitha and Pathmanathan Rajeev and Jay Gnananandan Sanjayan and Yogarajah Elakneswaran",
+      title             = "CO2 Sequestration and Low-Carbon-Strategies in 3D Printed Concrete",
+      doi               = "10.1016/j.jobe.2024.111653",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      volume            = "99",
+      pages             = "111653",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Kopitha, P. Rajeev, J. G. Sanjayan and Y. Elakneswaran, “CO2 Sequestration and Low-Carbon-Strategies in 3D Printed Concrete”, <i>Journal of Building Engineering</i>, vol. 99, p. 111653, 2025, doi: 10.1016/j.jobe.2024.111653.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kopitha, Kirushnapillai, Pathmanathan Rajeev, Jay Gnananandan Sanjayan, and Yogarajah Elakneswaran. “CO2 Sequestration and Low-Carbon-Strategies in 3D Printed Concrete”. <i>Journal of Building Engineering</i> 99 (2025): 111653. https://doi.org/10.1016/j.jobe.2024.111653.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

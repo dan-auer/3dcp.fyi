@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaodi Dai, Sharu Kandy, Narayanan Neithalath, Aditya Kumar, Mathieu Bauchy, Edward Garboczi, Torben Gädt, Samanvaya Srivastava, Gaurav Sant
+    - footer
+title: Dai Xiaodi, Kandy Sharu, Neithalath Narayanan, Kumar Aditya, Bauchy Mathieu, Garboczi Edward, Gädt Torben, Srivastava Samanvaya, Sant Gaurav
 description:
 tags:
  - activation
@@ -13,34 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Thermally Stimulated Stiffening and Fly-Ash’s Alkaline-Activation by Ca(OH)2 Addition Facilitates 3D Printing ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105870" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105870</a>
+#Thermally Stimulated Stiffening and Fly-Ash’s Alkaline-Activation by Ca(OH)2 Addition Facilitates 3D Printing ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105870" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105870" target="_blank">10.1016/j.cemconcomp.2024.105870</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_xiaodi"><b>Dai</b>&nbsp;Xiaodi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9939-8239" title="ORCID: 0000-0001-9939-8239" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b>&nbsp;Sharu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7550-8034" title="ORCID: 0000-0001-7550-8034" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_aditya"><b>Kumar</b>&nbsp;Aditya</a></span>, <a href="../../../author/bauchy_mathieu"><b>Bauchy</b>&nbsp;Mathieu</a></span>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b>&nbsp;Edward</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7940-5403" title="ORCID: 0000-0001-7940-5403" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gadt_torben"><b>Gädt</b>&nbsp;Torben</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3519-7224" title="ORCID: 0000-0002-3519-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srivastava_samanvaya"><b>Srivastava</b>&nbsp;Samanvaya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105870
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> <a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a> <a href="https://orcid.org/0000-0001-9939-8239" title="ORCID: 0000-0001-9939-8239" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> <a href="https://orcid.org/0000-0001-7550-8034" title="ORCID: 0000-0001-7550-8034" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bauchy_mathieu"><b>Bauchy</b> Mathieu</a>
-,     <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>
-,     <a href="../../../author/gadt_torben"><b>Gädt</b> Torben</a> <a href="https://orcid.org/0000-0001-7940-5403" title="ORCID: 0000-0001-7940-5403" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/srivastava_samanvaya"><b>Srivastava</b> Samanvaya</a> <a href="https://orcid.org/0000-0002-3519-7224" title="ORCID: 0000-0002-3519-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> <a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105870
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#ash`](keyword/ash)
-    [`#print`](keyword/print)
-    [`#stiffness`](keyword/stiffness)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermally%20Stimulated%20Stiffening%20and%20Fly-Ash%E2%80%99s%20Alkaline-Activation%20by%20Ca%28OH%292%20Addition%20Facilitates%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210543436&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404710179" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105870" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105870?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printing could offer substantial benefits to the construction industry including the fabrication of customized/bespoke components, eliminating formwork, and reducing material waste. Despite these advantages, control of the pumpability, extrudability, and buildability of 3D-printed concrete (3DPC) remains challenging. This study demonstrates how the use of fly ash (FA) enables enhanced thermal stiffening, and rapid alkali-activation in the presence of portlandite (Ca(OH)2, CH). In general, blends of CH and FA exhibit less structural build-up at low temperatures, but upon reaching a trigger temperature of 75 °C, these blends achieve rapid stiffening, at rates of ∼800 Pa/s. The rapid stiffening arises from the flocculation of CH particles, and the onset of the pozzolanic/alkali-activation reactions between CH and FA, resulting in the formation of C-A-S-H and N-A-S-H during stiffening. Careful selection of the FA-CH blend ratio, which displays an optimum at ∼20 mass % CH, enables the composition of cement-free formulations for 3D-printing applications. The outcomes have important implications on alternate feedstock pathways to compose carbon-efficient formulations for construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../dai_tao_titt_schu.2023.RaMPo3PAASMwAoNC/">Rheological and Mechanical Properties of 3D Printable Alkali-Activated Slag Mixtures with Addition of Nano Clay</a></li>
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ding_luchuan"><b>Ding</b> Luchuan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../dai_tao_zhan_ding.2024.Do3PAASMC/">Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete</a></li>
@@ -79,7 +55,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dai_kand_neit_kuma.2024.TSSaFAsAAbCO2AF3P,
+      author            = "Xiaodi Dai and Sharu Bhagavathi Kandy and Narayanan Neithalath and Aditya Kumar and Mathieu Bauchy and Edward J. Garboczi and Torben Gädt and Samanvaya Srivastava and Gaurav Sant",
+      title             = "Thermally Stimulated Stiffening and Fly-Ash’s Alkaline-Activation by Ca(OH)2 Addition Facilitates 3D Printing",
+      doi               = "10.1016/j.cemconcomp.2024.105870",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105870",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Dai, “Thermally Stimulated Stiffening and Fly-Ash’s Alkaline-Activation by Ca(OH)2 Addition Facilitates 3D Printing”, <i>Cement and Concrete Composites</i>, p. 105870, 2024, doi: 10.1016/j.cemconcomp.2024.105870.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dai, Xiaodi, Sharu Bhagavathi Kandy, Narayanan Neithalath, Aditya Kumar, Mathieu Bauchy, Edward J. Garboczi, Torben Gädt, Samanvaya Srivastava, and Gaurav Sant. “Thermally Stimulated Stiffening and Fly-Ash’s Alkaline-Activation by Ca(OH)2 Addition Facilitates 3D Printing”. <i>Cement and Concrete Composites</i>, 2024, 105870. https://doi.org/10.1016/j.cemconcomp.2024.105870.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

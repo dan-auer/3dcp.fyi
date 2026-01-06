@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Prasittisopin Lapyote 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b> Kantawich</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pethrung_sirichai"><b>Pethrung</b> Sirichai</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../suph_pras_peth_pans.2025.FPEo3PCW/">Fire Performance Evaluation of 3D-Printed Concrete Walls:<br/>A Combined Full-Scale and Numerical Modeling Approach</a></li>
   <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
   <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sada_pras_pras.2024.ItSEoTTDCPWbAD/">Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design</a></li>

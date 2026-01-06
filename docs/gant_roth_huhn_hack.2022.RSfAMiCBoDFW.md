@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stefan Gantner, Tom Rothe, Christian Hühne, Norman Hack
+    - footer
+title: Gantner Stefan, Rothe Tom, Hühne Christian, Hack Norman
 description:
 tags:
  - additive
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tib-op.org/ojs/index.php/ocp/article/download/78/248) Reinforcement-Strategies for Additive Manufacturing in Construction Based on Dynamic Fiber Winding:<br/>:aca-blank: Concepts and Initial Case Studies ([2021-11](date/2021/11))
-<a href="https://doi.org/10.52825/ocp.v1i.78" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v1i.78</a>
+#Reinforcement-Strategies for Additive Manufacturing in Construction Based on Dynamic Fiber Winding&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">Concepts and Initial Case Studies</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/78/248) <a href="https://doi.org/10.52825/ocp.v1i.78" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.78" target="_blank">10.52825/ocp.v1i.78</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gantner_stefan"><b>Gantner</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rothe_niklas_tom"><b>Rothe</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huhne_christian"><b>Hühne</b>&nbsp;Christian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span><br>
+Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 45-59
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> <a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> <a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 45-59
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#case`](keyword/case)
-    [`#concept`](keyword/concept)
-    [`#construction`](keyword/construction)
-    [`#dynamic`](keyword/dynamic)
-    [`#fiber`](keyword/fiber)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinforcement-Strategies%20for%20Additive%20Manufacturing%20in%20Construction%20Based%20on%20Dynamic%20Fiber%20Winding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4293226143" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v1i.78" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v1i.78?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Whereas entire houses are reported to be built by means of 3D Concrete Printing (3DCP), the automated integration of reinforcement is still a vastly unresolved challenge and - undoubtedly - a crucial requirement for widespread adoption of 3DCP in construction practice. In this paper an automated reinforcement approach using continuous textile fibres is introduced as an alternative to the manual placement of conventional steel reinforcement. Based on a fibre winding technique, in this paper a matrix of methods and applications is presented and substantiated by initial feasibility studies on the 1:1 scale. As such, three case studies for the automated reinforcement integration are presented, addressing particle bed printing (Large Particle 3D Concrete Printing), as well as material jetting (Shotcrete 3D Printing).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
@@ -87,8 +64,8 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../mech_nere.2018.IRi3PwC/">Incorporating Reinforcement in 3D-Printing with Concrete</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/knychalla_bruno"><b>Knychalla</b> Bruno</a>, <a href="../../../author/wiesner_christian"><b>Wiesner</b> Christian</a>, <a href="../../../author/sonnleitner_patrick"><b>Sonnleitner</b> Patrick</a>, <a href="../../../author/kowalczyk_magdalena"><b>Kowalczyk</b> Magdalena</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../knyc_wies_sonn_kowa.2025.IFF/">Integrated Fiber Forms:<br/>Functionally Integrated Slab Systems Through Additive Manufacturing and Natural Fiber Reinforcement</a></li>
       <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bran_figu_cruz.2025.WFTf3CRP/">Winding Fiber Thread for 3D Concrete Robotic Printing</a></li>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
@@ -98,4 +75,35 @@ tags:
       <li><a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../roth_huhn_gant_hack.2023.DWPoIFRSfAMiC/">Dynamic Winding Process of Individualized Fiber-Reinforcement Structures for Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/bahrens_meike"><b>Bährens</b> Meike</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../klof_dorf_bahr_diel.2022.TRIotST2A/">The Research Infrastructure of the SFB TRR 277 AMC:<br/>Additive Manufacturing in Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gant_roth_huhn_hack.2022.RSfAMiCBoDFW,
+      author            = "Stefan Gantner and Tom Niklas Rothe and Christian Hühne and Norman Peter Hack",
+      title             = "Reinforcement-Strategies for Additive Manufacturing in Construction Based on Dynamic Fiber Winding: Concepts and Initial Case Studies",
+      doi               = "10.52825/ocp.v1i.78",
+      year              = "2022",
+      volume            = "1",
+      pages             = "45--59",
+      booktitle         = "Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures",
+      editor            = "Deutsche Forschungsgemeinschaft",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Gantner, T. N. Rothe, C. Hühne and N. P. Hack, “Reinforcement-Strategies for Additive Manufacturing in Construction Based on Dynamic Fiber Winding: Concepts and Initial Case Studies”, in <i>Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures</i>,  2022, vol. 1, pp. 45–59. doi: 10.52825/ocp.v1i.78.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gantner, Stefan, Tom Niklas Rothe, Christian Hühne, and Norman Peter Hack. “Reinforcement-Strategies for Additive Manufacturing in Construction Based on Dynamic Fiber Winding: Concepts and Initial Case Studies”. In <i>Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures</i>, edited by Deutsche Forschungsgemeinschaft, 1:45–59, 2022. https://doi.org/10.52825/ocp.v1i.78.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

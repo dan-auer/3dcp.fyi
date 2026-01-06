@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Cendrowski Krzysztof 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../siko_skib_chou_szew.2025.SCAoBaGOf3PCA/">Silica-Coated Admixtures of Bismuth and Gadolinium Oxides for 3D Printed Concrete Applications:<br/>Rheology, Hydration, Strength, Microstructure, and Radiation Shielding Perspective</a></li>
   <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE/">Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission</a></li>

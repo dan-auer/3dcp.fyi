@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junhong Ye, Can Cui, Jiangtao Yu, Kequan Yu, Fangyuan Dong
+    - footer
+title: Ye Junhong, Cui Can, Yu Jiangtao, Yu Kequan, Dong Fangyuan
 description:
 tags:
  - anisotropy
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.122586" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.122586</a>
+#Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete ([2021-02](date/2021/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.122586" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.122586" target="_blank">10.1016/j.conbuildmat.2021.122586</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9811-342X" title="ORCID: 0000-0002-9811-342X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_can"><b>Cui</b>&nbsp;Can</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9323-9026" title="ORCID: 0000-0001-9323-9026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_fangyuan"><b>Dong</b>&nbsp;Fangyuan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 281
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cui_can"><b>Cui</b> Can</a> <a href="https://orcid.org/0000-0002-9811-342X" title="ORCID: 0000-0002-9811-342X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dong_fangyuan"><b>Dong</b> Fangyuan</a> <a href="https://orcid.org/0000-0001-9323-9026" title="ORCID: 0000-0001-9323-9026" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 281, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#content`](keyword/content)
-    [`#ductility`](keyword/ductility)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Polyethylene-Fiber%20Content%20on%20Workability%20and%20Mechanical-Anisotropic%20Properties%20of%203D%20Printed%20Ultra-High-Ductile%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101173617&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3130820175" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.122586" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.122586?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to easy operation, quick construction and light weight, 3D concrete printing (3DCP) is expected as one of the potential solutions for future construction. This study is aimed to develop ultra-high ductile concrete (UHDC) with appropriate workability and use it as raw material for 3DCP. A series of experiments were carried out to study the effect of fiber content (1.0%, 1.5% and 2.0% by volume fraction) on workability and mechanical-anisotropic properties of the UHDC. Flowability and buildability tests results indicate that all the UHDC show acceptable workability in 3D printing. In uniaxial tensile test, the printed UHDC with higher fiber content exhibits slightly reduced tensile strength and strain capacity compared with the mold-cast ones except for UHDC with fiber content 1.0%. The results of compressive and flexural tests indicate the significant mechanical-anisotropic behaviors in failure patterns, compressive strength and flexural energy dissipation of the printed UHDC specimens. Comprehensively, the printed UHDC with fiber content 1.5% shows better performance in both workability and mechanical property, and at meantime possesses reduced material cost. Finally, two indexes were used to quantitatively evaluate the mechanical influence brought by printing process as well as mechanical anisotropy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -99,8 +73,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "154 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/li_keyan"><b>Li</b> Keyan</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_li_liu.2025.S3PECCIRCM/">Sustainable 3D Printed Engineered Cementitious Composites Incorporating Recycled Ceramic Materials:<br/>Rheology and Mechanical Behavior</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
@@ -255,4 +230,33 @@ tags:
       <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ma_zhan_jia_liu.2022.EoDEoMPIRaPSo3PC/">Effect of Drying Environment on Mechanical Properties, Internal RH and Pore-Structure of 3D Printed Concrete</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_rongfei"><b>Zhang</b> Rongfei</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/he_chunhui"><b>He</b> Chunhui</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_zhan_liu_he.2022.AotMPaDMf3PCBoPS/">Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC,
+      author            = "Junhong Ye and Can Cui and Jiangtao Yu and Kequan Yu and Fangyuan Dong",
+      title             = "Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete",
+      doi               = "10.1016/j.conbuildmat.2021.122586",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "281",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ye, C. Cui, J. Yu, K. Yu and F. Dong, “Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete”, <i>Construction and Building Materials</i>, vol. 281, 2021, doi: 10.1016/j.conbuildmat.2021.122586.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ye, Junhong, Can Cui, Jiangtao Yu, Kequan Yu, and Fangyuan Dong. “Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete”. <i>Construction and Building Materials</i> 281 (2021). https://doi.org/10.1016/j.conbuildmat.2021.122586.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

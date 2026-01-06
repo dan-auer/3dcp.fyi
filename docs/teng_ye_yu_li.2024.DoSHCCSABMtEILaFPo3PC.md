@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fei Teng, Junhong Ye, Jie Yu, Heng Li, Yiwei Weng, Viktor Mechtcherine
+    - footer
+title: Teng Fei, Ye Junhong, Yu Jie, Li Heng, Weng Yiwei, Mechtcherine Viktor
 description:
 tags:
  - bond
@@ -22,40 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105657" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105657</a>
+#Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105657" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105657" target="_blank">10.1016/j.cemconcomp.2024.105657</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_fei"><b>Teng</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jie"><b>Yu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_heng"><b>Li</b>&nbsp;Heng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105657
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/teng_fei"><b>Teng</b> Fei</a> <a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> <a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_heng"><b>Li</b> Heng</a> <a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105657
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#enhancement`](keyword/enhancement)
-    [`#flexural`](keyword/flexural)
-    [`#hardened`](keyword/hardened)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Strain-Hardening%20Cementitious%20Composites%20%28SHCC%29%20As%20Bonding%20Materials%20to%20Enhance%20Inter-Layer%20and%20Flexural%20Performance%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198003224&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400378812" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105657" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105657?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) has limitations in weak interlayer bond strength and reinforcement integration. To tackle these challenges, this study aims to develop and deposit strain-hardening cementitious composites (SHCC) as bonding materials between layers for simultaneous enhancement of interlayer bond strength and flexural ductility of 3D-printed concrete. The impact of rheological properties of SHCC materials and configurations of SHCC layers on multi-layer printed structures were investigated experimentally and theoretically. Results show an increase in interlayer bond strength by approximately 80% compared to the reference without SHCC interlayers. Microstructure characterization reveals that the SHCC bonding material effectively reduces the interfacial porosity by nearly 35%. Four-point bending was adopted to evaluate flexural strength, ductility, and fracture properties. With SHCC interlayers, flexural hardening behavior was attained with an increase in flexural strength, deflection, and energy absorption capacity by approximately 25%, 180%, and 800%, respectively. Furthermore, a theoretical model was proposed to predict flexural strength with nearly 95% accuracy. The findings reveal that the newly developed printing scheme has the potential to address both reinforcement and weak interlayer problems in 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
@@ -122,8 +92,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
@@ -149,4 +119,33 @@ tags:
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE/">Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{teng_ye_yu_li.2024.DoSHCCSABMtEILaFPo3PC,
+      author            = "Fei Teng and Junhong Ye and Jie Yu and Heng Li and Yiwei Weng and Viktor Mechtcherine",
+      title             = "Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete",
+      doi               = "10.1016/j.cemconcomp.2024.105657",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105657",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Teng, J. Ye, J. Yu, H. Li, Y. Weng and V. Mechtcherine, “Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete”, <i>Cement and Concrete Composites</i>, p. 105657, 2024, doi: 10.1016/j.cemconcomp.2024.105657.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Teng, Fei, Junhong Ye, Jie Yu, Heng Li, Yiwei Weng, and Viktor Mechtcherine. “Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete”. <i>Cement and Concrete Composites</i>, 2024, 105657. https://doi.org/10.1016/j.cemconcomp.2024.105657.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

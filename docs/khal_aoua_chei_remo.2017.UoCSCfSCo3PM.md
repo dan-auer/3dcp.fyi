@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Noura Khalil, Georges Aouad, Khadija Cheikh, Sébastien Rémond
+    - footer
+title: Khalil Noura, Aouad Georges, Cheikh Khadija, Rémond Sébastien
 description:
 tags:
  - cement
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars ([2017-09](date/2017/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2017.09.109" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2017.09.109</a>
+#Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars ([2017-09](date/2017/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2017.09.109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.09.109" target="_blank">10.1016/j.conbuildmat.2017.09.109</a>
 
--------------------------
+<a href="../../../author/khalil_noura"><b>Khalil</b>&nbsp;Noura</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aouad_georges"><b>Aouad</b>&nbsp;Georges</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheikh_khadija"><b>el&nbsp;Cheikh</b>&nbsp;Khadija</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 157, pp. 382-391
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>
-,     <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheikh_khadija"><b>el Cheikh</b> Khadija</a> <a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 157, pp. 382-391
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#setting`](keyword/setting)
-    [`#sulfoaluminate`](keyword/sulfoaluminate)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Calcium-Sulfoaluminate-Cements%20for%20Setting-Control%20of%203D%20Printing%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85030688439&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,29 +37,24 @@ tags:
 <a href="https://inciteful.xyz/p/W2757119208" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2017.09.109" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2017.09.109?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Printing cementitious structures in 3D (3D Printing) requires the use of a mortar which setting is rigorously controlled. In this paper, a mix made out of two types of cement, ordinary Portland cement (OPC) and Calcium Sulfo-aluminate cement (CSA), was adopted to control the printability of a mortar. The latter was formulated in order to be extrudable, buildable and to reach a compressive strength comparable to that of a traditional mortar. Finally, a printable mix made out of 7% CSA and 93% OPC was developed. The cement paste of the developed mix was tested using isothermal calorimetry to study the impact ofCSA on the heat of hydration of the mix. The mortar is first checked for the two characteristics of printability (extrudability and buildability) by a manual home-made device. Then, an estimation of the rheological properties of the mortar using a penetration test was done. Afterwards, the strength of the mortar was tested and a compressive strength of 88 MPa was found after 28 days for non-printed specimens and 79 MPa for printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "184 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
       <li><a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shek_kuma_math.2025.AMoCwLIYSTCHoPL/">Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers</a></li>
@@ -262,4 +240,34 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/dubois_vincent"><b>Dubois</b> Vincent</a>, <a href="../../../author/leblanc_alexandre"><b>Leblanc</b> Alexandre</a>, <a href="../../../author/carpentier_olivier"><b>Carpentier</b> Olivier</a>, <a href="../../../author/alhaik_ghaith"><b>Alhaik</b> Ghaith</a> et al. <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../dubo_lebl_carp_alha.2018.PoFSBLCwRH/">Performances of Flax Shive-Based Lightweight Composites with Rapid Hardening</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khal_aoua_chei_remo.2017.UoCSCfSCo3PM,
+      author            = "Noura Khalil and Georges Aouad and Khadija El Cheikh and Sébastien Rémond",
+      title             = "Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars",
+      doi               = "10.1016/j.conbuildmat.2017.09.109",
+      year              = "2017",
+      journal           = "Construction and Building Materials",
+      volume            = "157",
+      pages             = "382--391",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Khalil, G. Aouad, K. E. Cheikh and S. Rémond, “Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars”, <i>Construction and Building Materials</i>, vol. 157, pp. 382–391, 2017, doi: 10.1016/j.conbuildmat.2017.09.109.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khalil, Noura, Georges Aouad, Khadija El Cheikh, and Sébastien Rémond. “Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars”. <i>Construction and Building Materials</i> 157 (2017): 382–91. https://doi.org/10.1016/j.conbuildmat.2017.09.109.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Changbin Joh, Jungwoo Lee, The Bui, Jihun Park, In-Hwan Yang
+    - footer
+title: Joh Changbin, Lee Jungwoo, Bui The, Park Jihun, Yang In-Hwan
 description:
 tags:
  - buildability
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/13/21/4919/pdf?version=1604310577) Buildability and Mechanical Properties of 3D Printed Concrete ([2020-11](date/2020/11))
-<a href="https://doi.org/10.3390/ma13214919" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma13214919</a>
+#Buildability and Mechanical Properties of 3D Printed Concrete ([2020-11](date/2020/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/21/4919/pdf?version=1604310577) <a href="https://doi.org/10.3390/ma13214919" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13214919" target="_blank">10.3390/ma13214919</a>
 
--------------------------
+<a href="../../../author/joh_changbin"><b>Joh</b>&nbsp;Changbin</a></span>, <a href="../../../author/lee_jungwoo"><b>Lee</b>&nbsp;Jungwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6575-6322" title="ORCID: 0000-0002-6575-6322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bui_quang_the"><b>Bui</b>&nbsp;The</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6543-1536" title="ORCID: 0000-0002-6543-1536" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_jihun"><b>Park</b>&nbsp;Jihun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1937-0610" title="ORCID: 0000-0003-1937-0610" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_in-hwan"><b>Yang</b>&nbsp;In-Hwan</a></span><br>
+Journal Article - Materials, Vol. 13, Iss. 21
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>
-,     <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>
-,     <a href="../../../author/bui_quang_the"><b>Bui</b> The</a> <a href="https://orcid.org/0000-0002-6575-6322" title="ORCID: 0000-0002-6575-6322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> <a href="https://orcid.org/0000-0002-6543-1536" title="ORCID: 0000-0002-6543-1536" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_in-hwan"><b>Yang</b> In-Hwan</a> <a href="https://orcid.org/0000-0003-1937-0610" title="ORCID: 0000-0003-1937-0610" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 13, Iss. 21, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability%20and%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85095436935&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3095177470" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma13214919" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma13214919?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, 3D concrete printing has progressed rapidly in the construction industry. However, this technique still contains several factors that influence the buildability and mechanical properties of the printed concrete. Therefore, this study investigated the effects of the nozzle speed, the interlayer interval time, the rotations per minute (RPMs) of the screw in the 3D printing device, and the presence of lateral supports on the buildability of 3D concrete printing. In addition, this paper presents the results of the mechanical properties, including the compressive, splitting tensile, and flexural tensile strengths of 3D printed concrete. The buildability of 3D printed structures was improved with an extended interlayer interval time of up to 300 s. The printing processes were interrupted because of tearing of concrete filaments, which was related to excessive RPMs of the mixing screw. The test results also showed that a lateral support with a wide contact surface could improve the resistance to buckling failure for 3D printed structures. The test results of the mechanical properties of the 3D printed concrete specimens indicated that the compressive, splitting tensile, and flexural tensile strengths significantly depended on the bonding behavior at the interlayers of the printed specimens. In addition, although metal laths were expected to improve the tensile strength of the printed specimens, they adversely affected the tensile performance due to weak bonding between the reinforcements and concrete filaments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -95,8 +75,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "80 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
@@ -177,4 +158,34 @@ tags:
       <li><a href="../../../author/park_jihun"><b>Park</b> Jihun</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../park_bui_lee_joh.2021.ILSo3PMRbPR/">Inter-Layer Strength of 3D Printed Mortar Reinforced by Postinstalled Reinforcement</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/asiabanpour_bahram"><b>Asiabanpour</b> Bahram</a>, <a href="../../../author/omer_liam"><b>Omer</b> Liam</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../node_asia_omer_ozba.2021.MCoDACMPwaMLAMES/">Material-Characterization of Diversity Aggregated Cementitious Materials Produced with a Modular Lightweight Additive Manufacturing Extrusion-System</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{joh_lee_bui_park.2020.BaMPo3PC,
+      author            = "Changbin Joh and Jungwoo Lee and The Quang Bui and Jihun Park and In-Hwan Yang",
+      title             = "Buildability and Mechanical Properties of 3D Printed Concrete",
+      doi               = "10.3390/ma13214919",
+      year              = "2020",
+      journal           = "Materials",
+      volume            = "13",
+      number            = "21",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Joh, J. Lee, T. Q. Bui, J. Park and I.-H. Yang, “Buildability and Mechanical Properties of 3D Printed Concrete”, <i>Materials</i>, vol. 13, no. 21, 2020, doi: 10.3390/ma13214919.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Joh, Changbin, Jungwoo Lee, The Quang Bui, Jihun Park, and In-Hwan Yang. “Buildability and Mechanical Properties of 3D Printed Concrete”. <i>Materials</i> 13, no. 21 (2020). https://doi.org/10.3390/ma13214919.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

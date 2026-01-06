@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xingzi Liu, Jie Xu, James Dobrzanski, John Kolawole, Richard Buswell, Sergio Cavalaro
+    - footer
+title: Liu Xingzi, Xu Jie, Dobrzanski James, Kolawole John, Buswell Richard, Cavalaro Sergio
 description:
 tags:
  - beam
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2025.120497) Factors Affecting the Flexural Performance of Reinforced 3D Printed Concrete Beams ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.engstruct.2025.120497" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.120497</a>
+#Factors Affecting the Flexural Performance of Reinforced 3D Printed Concrete Beams ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2025.120497) <a href="https://doi.org/10.1016/j.engstruct.2025.120497" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120497" target="_blank">10.1016/j.engstruct.2025.120497</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-4139-0877" title="ORCID: 0009-0003-4139-0877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xingzi"><b>Liu</b>&nbsp;Xingzi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dobrzanski_james"><b>Dobrzanski</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolawole_temitope_john"><b>Kolawole</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalaro_sergio"><b>Cavalaro</b>&nbsp;Sergio</a></span><br>
+Journal Article - Engineering Structures, Vol. 337, No. 120497
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xingzi"><b>Liu</b> Xingzi</a> <a href="https://orcid.org/0009-0003-4139-0877" title="ORCID: 0009-0003-4139-0877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> <a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> <a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 337, No. 120497
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#factor`](keyword/factor)
-    [`#flexural`](keyword/flexural)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Factors%20Affecting%20the%20Flexural%20Performance%20of%20Reinforced%203D%20Printed%20Concrete%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004411170&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410195871" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.120497" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.120497?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) has the potential to support the adoption of digital manufacturing approaches in construction. However, applications are currently limited by the lack of understanding of the structural performance of elements manufactured with this process. The layer-wise fabrication process enables the placement of reinforcement between printed layers. The final reinforcement position depends on the fresh properties of wet material. Moreover, toolpath strategies influence the cross-sectional geometry and concrete anisotropic compressive strength. Understanding the relative importance of these factors as they relate to the mechanical performance of the printed concrete becomes, therefore, critical for 3DCP use. This study addresses this gap through experimental and numerical studies of the flexural behaviour of 3DCP beams with different reinforcement positions and toolpath strategies. The results demonstrate that the toolpath orientation, and hence anisotropy, can be neglected for the cases explored here. Moreover, toolpath orientations perpendicular to the steel reinforcement reduce the risk of shear and delamination failure as cracks align with the vertical interface, thus promoting flexural cracking. The position of the steel reinforcement is the most significant factor: specimens printed with reinforcement closer to the top layers showed increased flexural performance if compared with those printed with the reinforcement closer to the bottom layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
@@ -105,7 +82,38 @@ tags:
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../yang_zeng_peng_wang.2022.AMaILPSo3PFRCC/">Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_xu_dobr_kola.2025.FAtFPoR3PCB,
+      author            = "Xingzi Liu and Jie Jerry Xu and James Dobrzanski and John Temitope Kolawole and Richard A. Buswell and Sergio Cavalaro",
+      title             = "Factors Affecting the Flexural Performance of Reinforced 3D Printed Concrete Beams",
+      doi               = "10.1016/j.engstruct.2025.120497",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "337",
+      pages             = "120497",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, J. J. Xu, J. Dobrzanski, J. T. Kolawole, R. A. Buswell and S. Cavalaro, “Factors Affecting the Flexural Performance of Reinforced 3D Printed Concrete Beams”, <i>Engineering Structures</i>, vol. 337, p. 120497, 2025, doi: 10.1016/j.engstruct.2025.120497.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xingzi, Jie Jerry Xu, James Dobrzanski, John Temitope Kolawole, Richard A. Buswell, and Sergio Cavalaro. “Factors Affecting the Flexural Performance of Reinforced 3D Printed Concrete Beams”. <i>Engineering Structures</i> 337 (2025): 120497. https://doi.org/10.1016/j.engstruct.2025.120497.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bandoorvaragerahalli Shivendra, Sathvik Sharath Chandra, Atul Singh, Rakesh Kumar, Nitin Kumar, Adithya Tantri, Sujay Naganna
+    - footer
+title: Shivendra Bandoorvaragerahalli, Sharath Chandra Sathvik, Singh Atul, Kumar Rakesh, Kumar Nitin, Tantri Adithya, Naganna Sujay
 description:
 tags:
  - adoption
@@ -14,33 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/infrastructures9090166) A Path Towards SDGs:<br/>:aca-blank: Investigation of the Challenges in Adopting 3D Concrete Printing in India ([2024-09](date/2024/09))
-<a href="https://doi.org/10.3390/infrastructures9090166" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/infrastructures9090166</a>
+#A Path Towards SDGs&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Investigation of the Challenges in Adopting 3D Concrete Printing in India</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/infrastructures9090166) <a href="https://doi.org/10.3390/infrastructures9090166" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures9090166" target="_blank">10.3390/infrastructures9090166</a>
 
--------------------------
+<a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b>&nbsp;Bandoorvaragerahalli</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7033-5218" title="ORCID: 0000-0001-7033-5218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b>&nbsp;Sathvik</a></span>, <a href="../../../author/singh_kumar_atul"><b>Singh</b>&nbsp;Atul</a></span>, <a href="../../../author/kumar_rakesh"><b>Kumar</b>&nbsp;Rakesh</a></span>, <a href="../../../author/kumar_nitin"><b>Kumar</b>&nbsp;Nitin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1696-8422" title="ORCID: 0000-0003-1696-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tantri_adithya"><b>Tantri</b>&nbsp;Adithya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0482-1936" title="ORCID: 0000-0002-0482-1936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naganna_raghavendra_sujay"><b>Naganna</b>&nbsp;Sujay</a></span><br>
+Journal Article - Infrastructures, Vol. 9, Iss. 9, No. 166
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>
-,     <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a> <a href="https://orcid.org/0000-0001-7033-5218" title="ORCID: 0000-0001-7033-5218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>
-,     <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a>
-,     <a href="../../../author/kumar_nitin"><b>Kumar</b> Nitin</a>
-,     <a href="../../../author/tantri_adithya"><b>Tantri</b> Adithya</a> <a href="https://orcid.org/0000-0003-1696-8422" title="ORCID: 0000-0003-1696-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/naganna_raghavendra_sujay"><b>Naganna</b> Sujay</a> <a href="https://orcid.org/0000-0002-0482-1936" title="ORCID: 0000-0002-0482-1936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Infrastructures, Vol. 9, Iss. 9, No. 166
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#investigation`](keyword/investigation)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Path%20Towards%20SDGs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205260722&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402732137" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/infrastructures9090166" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/infrastructures9090166?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, three dimensional concrete printing (3DCP) has gained traction as a promising technology to mitigate the carbon footprint associated with construction industry. However, despite its environmental benefits, studies frequently overlook its impact on social sustainability and its overall influence on project success. This research investigates how strategic decisions by firms shape the tradeoffs between economic, environmental, and social sustainability in the context of 3DCP adoption. Through interviews with 20 Indian industry leaders, it was found that companies primarily invest in 3DCP for automation and skilled workforce development, rather than solely for environmental reasons. The lack of incentives for sustainable practices in government procurement regulations emerges as a significant barrier to the widespread adoption of 3DCP. Our study identifies five key strategies firms employ to promote sustainability through 3DCP and proposes actionable measures for government intervention to stimulate its advancement. Addressing these issues is crucial for realizing the full societal and environmental benefits of 3DCP technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "94 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
@@ -161,9 +139,40 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shiv_shar_sing_kuma.2024.APTS,
+      author            = "Bandoorvaragerahalli Thammannagowda Shivendra and Sathvik Sharath Chandra and Atul Kumar Singh and Rakesh Kumar and Nitin Kumar and Adithya Tantri and Sujay Raghavendra Naganna",
+      title             = "A Path Towards SDGs: Investigation of the Challenges in Adopting 3D Concrete Printing in India",
+      doi               = "10.3390/infrastructures9090166",
+      year              = "2024",
+      journal           = "Infrastructures",
+      volume            = "9",
+      number            = "9",
+      pages             = "166",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. T. Shivendra, “A Path Towards SDGs: Investigation of the Challenges in Adopting 3D Concrete Printing in India”, <i>Infrastructures</i>, vol. 9, no. 9, p. 166, 2024, doi: 10.3390/infrastructures9090166.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shivendra, Bandoorvaragerahalli Thammannagowda, Sathvik Sharath Chandra, Atul Kumar Singh, Rakesh Kumar, Nitin Kumar, Adithya Tantri, and Sujay Raghavendra Naganna. “A Path Towards SDGs: Investigation of the Challenges in Adopting 3D Concrete Printing in India”. <i>Infrastructures</i> 9, no. 9 (2024): 166. https://doi.org/10.3390/infrastructures9090166.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

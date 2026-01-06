@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Atta Rehman, Ik-Gyeom Kim, Jung-Hoon Kim
+    - footer
+title: Rehman Atta, Kim Ik-Gyeom, Kim Jung-Hoon
 description:
 tags:
  - assessment
@@ -22,37 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100344) Towards Full Automation in 3D Concrete Printing Construction:<br/>:aca-blank: Development of an Automated and In-Line Test-Method for In-Situ Assessment of Structural Build-Up and Quality of Concrete ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.dibe.2024.100344" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100344</a>
+#Towards Full Automation in 3D Concrete Printing Construction&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">Development of an Automated and In-Line Test-Method for In-Situ Assessment of Structural Build-Up and Quality of Concrete</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100344) <a href="https://doi.org/10.1016/j.dibe.2024.100344" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100344" target="_blank">10.1016/j.dibe.2024.100344</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_atta"><b>Rehman</b>&nbsp;Atta</a></span>, <a href="../../../author/kim_ik-gyeom"><b>Kim</b>&nbsp;Ik-Gyeom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100344
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> <a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_ik-gyeom"><b>Kim</b> Ik-Gyeom</a>
-,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100344
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#automation`](keyword/automation)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#full`](keyword/full)
-    [`#line`](keyword/line)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#situ`](keyword/situ)
-    [`#structure`](keyword/structure)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Towards%20Full%20Automation%20in%203D%20Concrete%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183991389&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391265132" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100344" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100344?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The realization of full automation in 3D Concrete Printing (3DCP) encounters numerous obstacles, notably the absence of automated and inline testing methodologies to measure the fresh properties at the construction site. To address this challenge, this study presents an automated device with multifunctional capabilities of conducting penetration, compression, shear, and tensile tests in inline mode. The developed system is integrated with a 3D printer and controlled from the main station. To validate the instrument performance, it was used for inline penetromtery testing to measure the structural build-up of printed layers, and its results were correlated with the conventional compressive and shear strength tests. Additionally, the responsiveness of the instrument to the material variation was validated. This research represents a substantial advancement for in-situ characterization of structural build-up and quality control, while also showcasing its potential utility in mix design development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "55 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -115,7 +89,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../pott_step.2021.PTaaFMtDYSaSBUf3PoCM/">Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../rama_kana_sanj.2022.ILAoCMf3CP/">In-Line Activation of Cementitious Materials for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a>, <a href="../../../author/kang_manmin"><b>Kang</b> Manmin</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../rehm_bash_choi_kang.2024.AAoPTMfSBUiSaA3CPM/">An Analysis of Penetrometer-Test Methods for Structural Build-Up in Stiff and Accelerated 3D Concrete Printing Mixtures</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/lee_sang-min"><b>Lee</b> Sang-Min</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rehm_lee_kim.2020.UoMSWIAi3PC/">Use of Municipal Solid-Waste Incineration-Ash in 3D Printable Concrete</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/melesse_bizu_birru"><b>Melesse</b> Birru</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../rehm_mele_kim.2023.SoD3CPCaPOoSAoIHP/">Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties</a></li>
@@ -135,8 +108,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yang_lakh_bela_merz.2023.ADaIoFWDD3PoRCM/">Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM/">Investigating the Impact of Material Rheology on Geometric Accuracy in 3D Concrete Printing Using Real-Time Monitoring</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>
@@ -161,4 +134,33 @@ tags:
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a>, <a href="../../../author/lee_dong-hyun"><b>Lee</b> Dong-Hyun</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../jhun_lee_rehm_kang.2024.DoaRTGQMSfEFo3CPC/">Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rehm_kim_kim.2024.TFAi3CPC,
+      author            = "Atta Ur Rehman and Ik-Gyeom Kim and Jung-Hoon Kim",
+      title             = "Towards Full Automation in 3D Concrete Printing Construction: Development of an Automated and In-Line Test-Method for In-Situ Assessment of Structural Build-Up and Quality of Concrete",
+      doi               = "10.1016/j.dibe.2024.100344",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      pages             = "100344",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. U. Rehman, I.-G. Kim and J.-H. Kim, “Towards Full Automation in 3D Concrete Printing Construction: Development of an Automated and In-Line Test-Method for In-Situ Assessment of Structural Build-Up and Quality of Concrete”, <i>Developments in the Built Environment</i>, p. 100344, 2024, doi: 10.1016/j.dibe.2024.100344.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rehman, Atta Ur, Ik-Gyeom Kim, and Jung-Hoon Kim. “Towards Full Automation in 3D Concrete Printing Construction: Development of an Automated and In-Line Test-Method for In-Situ Assessment of Structural Build-Up and Quality of Concrete”. <i>Developments in the Built Environment</i>, 2024, 100344. https://doi.org/10.1016/j.dibe.2024.100344.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

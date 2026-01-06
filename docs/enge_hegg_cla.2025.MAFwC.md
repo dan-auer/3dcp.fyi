@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sven Engel, Josef Hegger, Martin Claßen
+    - footer
+title: Engel Sven, Hegger Josef, Claßen Martin
 description:
 tags:
  - automation
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2025.104689) Multimodal Automated Fabrication with Concrete:<br/>:aca-blank: Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.addma.2025.104689" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.104689</a>
+#Multimodal Automated Fabrication with Concrete&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2025.104689) <a href="https://doi.org/10.1016/j.addma.2025.104689" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104689" target="_blank">10.1016/j.addma.2025.104689</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4161-7595" title="ORCID: 0000-0003-4161-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/engel_sven"><b>Engel</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3066-5006" title="ORCID: 0000-0003-3066-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hegger_josef"><b>Hegger</b>&nbsp;Josef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span><br>
+Journal Article - Additive Manufacturing, No. 104689
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/engel_sven"><b>Engel</b> Sven</a> <a href="https://orcid.org/0000-0003-4161-7595" title="ORCID: 0000-0003-4161-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> <a href="https://orcid.org/0000-0003-3066-5006" title="ORCID: 0000-0003-3066-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104689
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#case`](keyword/case)
-    [`#ceiling`](keyword/ceiling)
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#performance`](keyword/performance)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rib`](keyword/rib)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/ceiling"><button class="btn">#ceiling</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multimodal%20Automated%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217672639&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407196425" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.104689" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.104689?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A substantial portion of concrete in building construction could be saved by producing ribbed concrete ceilings. However, fabricating these ribbed structures is challenging due to the manual effort required for creating the formwork. This paper presents a concept of a modular ribbed ceiling system that integrates topology-optimized design principles with digital manufacturing methods. This modular system comprises a point supported slab-column-connection-module (SCCM) and an inter column-support-strip-module (SSM). An innovative multimodal fabrication technology for producing such ribbed concrete structures is introduced, efficiently combining robotic casting with 3D-concrete printing technologies. Slender, bi-directional orientated ribs are 3D printed onto a robotically pre cast concrete plate with protruding CFRP reinforcement guiding the rib placement. This method allows to produce free form, material-efficient ceilings with high geometric flexibility. Structural tests, including bending, shear and punching shear tests, were conducted to assess the structural performance of these components. The comprehensive process – from design and fabrication to structural testing of multimodal-manufactured components – demonstrates the feasibility of producing material-optimized ribbed CFRP reinforced concrete structures using automated multimodal manufacturing techniques.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -111,10 +90,39 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a>, <a href="../../../author/kalus_matthias"><b>Kalus</b> Matthias</a>, <a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_kalu_enge_hegg.2023.DoaI3PPfRC/">Development of an Innovative 3D Printing Process for Reinforced Concrete:<br/>AMoRC Method</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a>, <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB/">Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building</a></li>
       <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
       <li><a href="../../../author/duan_yuhang"><b>Duan</b> Yuhang</a>, <a href="../../../author/wang_chuan"><b>Wang</b> Chuan</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../duan_wang_yin_liew.2025.MIFi3PCvP/">Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{enge_hegg_cla.2025.MAFwC,
+      author            = "Sven Engel and Josef Hegger and Martin Claßen",
+      title             = "Multimodal Automated Fabrication with Concrete: Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling",
+      doi               = "10.1016/j.addma.2025.104689",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "104689",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Engel, J. Hegger and M. Claßen, “Multimodal Automated Fabrication with Concrete: Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling”, <i>Additive Manufacturing</i>, p. 104689, 2025, doi: 10.1016/j.addma.2025.104689.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Engel, Sven, Josef Hegger, and Martin Claßen. “Multimodal Automated Fabrication with Concrete: Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling”. <i>Additive Manufacturing</i>, 2025, 104689. https://doi.org/10.1016/j.addma.2025.104689.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

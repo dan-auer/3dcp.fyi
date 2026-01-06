@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chaofan Wang, Bing Chen, Yong Wang, Thanh Vo, Mohammad Rezania, Fuqiang He
+    - footer
+title: Wang Chaofan, Chen Bing, Wang Yong, Vo Thanh, Rezania Mohammad, He Fuqiang
 description:
 tags:
  - cement
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influencing Mechanism of Magnesium-to-Phosphate Ratio on the Rheology and Microstructure Development of 3D-Printed Magnesium Phosphate Cement at Early Hydration ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1061/jmcee7.mteng-19889" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-19889</a>
+#Influencing Mechanism of Magnesium-to-Phosphate Ratio on the Rheology and Microstructure Development of 3D-Printed Magnesium Phosphate Cement at Early Hydration ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-19889" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-19889" target="_blank">10.1061/jmcee7.mteng-19889</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9800-9748" title="ORCID: 0000-0001-9800-9748" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chaofan"><b>Wang</b>&nbsp;Chaofan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_bing"><b>Chen</b>&nbsp;Bing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4510-2409" title="ORCID: 0000-0003-4510-2409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yong"><b>Wang</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9263-5462" title="ORCID: 0000-0002-9263-5462" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vo_liem_thanh"><b>Vo</b>&nbsp;Thanh</a></span>, <a href="../../../author/rezania_mohammad"><b>Rezania</b>&nbsp;Mohammad</a></span>, <a href="../../../author/he_fuqiang"><b>He</b>&nbsp;Fuqiang</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a> <a href="https://orcid.org/0000-0001-9800-9748" title="ORCID: 0000-0001-9800-9748" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yong"><b>Wang</b> Yong</a> <a href="https://orcid.org/0000-0003-4510-2409" title="ORCID: 0000-0003-4510-2409" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a> <a href="https://orcid.org/0000-0002-9263-5462" title="ORCID: 0000-0002-9263-5462" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a>
-,     <a href="../../../author/he_fuqiang"><b>He</b> Fuqiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#development`](keyword/development)
-    [`#early`](keyword/early)
-    [`#hydration`](keyword/hydration)
-    [`#influence`](keyword/influence)
-    [`#magnesium`](keyword/magnesium)
-    [`#mechanism`](keyword/mechanism)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#ratio`](keyword/ratio)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influencing%20Mechanism%20of%20Magnesium-to-Phosphate%20Ratio%20on%20the%20Rheology%20and%20Microstructure%20Development%20of%203D-Printed%20Magnesium%20Phosphate%20Cement%20at%20Early%20Hydration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013970823&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413428527" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-19889" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-19889?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The growing application of magnesium phosphate cement (MPC) has increased the demand for understanding its rheological properties to achieve the workability that meets various working conditions (e.g., 3D printing). This paper studied the effects of magnesium to phosphate (M/P) mole ratio on rheological properties and microstructure development of MPC by conducting rheological tests (dynamic shear stress test and structural build-up test), combined with the analysis of mineral phase production and water and pore distribution. The synergy of the bridging effect and the colloidal interaction on the yield stress of MPC with different M/P mole ratios has been clarified. Results show that as the M/P ratio increased, the plastic viscosity increased while the yield stress initially decreased before rising again during the initial hydration process. The governing mechanism on the rheological properties of MPC varies with different M/P ratios. At low M/P ratio, large amount of intermediate hydration product, schertelite, was formed in MPC, enhancing the bridging effect at the early hydration process. At high M/P ratio, more unreacted MgO particles flocculated to build a denser microstructure due to the strong colloidal force, thus causing the rise in the yield stress of MPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/chen_xuhao"><b>Chen</b> Xuhao</a>, <a href="../../../author/li_nan"><b>Li</b> Nan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../li_chen_li.2023.3PoFSBFRCBM/">3D Printing of Fast Setting Basalt Fiber-Reinforced Cement-Based Materials</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hu_tingyu"><b>Hu</b> Tingyu</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../ma_hu_wang_liu.2023.MPCfPB3CP/">Magnesium Phosphate Cement for Powder-Based 3D Concrete Printing:<br/>Systematic Evaluation and Optimization of Printability and Printing Quality</a></li>
@@ -90,7 +63,37 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_chen_wang_vo.2025.IMoMtPRotRaMDo3PMPCaEH,
+      author            = "Chaofan Wang and Bing Chen and Yong Wang and Thanh Liem Vo and Mohammad Rezania and Fuqiang He",
+      title             = "Influencing Mechanism of Magnesium-to-Phosphate Ratio on the Rheology and Microstructure Development of 3D-Printed Magnesium Phosphate Cement at Early Hydration",
+      doi               = "10.1061/jmcee7.mteng-19889",
+      year              = "2025",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "37",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Wang, B. Chen, Y. Wang, T. L. Vo, M. Rezania and F. He, “Influencing Mechanism of Magnesium-to-Phosphate Ratio on the Rheology and Microstructure Development of 3D-Printed Magnesium Phosphate Cement at Early Hydration”, <i>Journal of Materials in Civil Engineering</i>, vol. 37, no. 11, 2025, doi: 10.1061/jmcee7.mteng-19889.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Chaofan, Bing Chen, Yong Wang, Thanh Liem Vo, Mohammad Rezania, and Fuqiang He. “Influencing Mechanism of Magnesium-to-Phosphate Ratio on the Rheology and Microstructure Development of 3D-Printed Magnesium Phosphate Cement at Early Hydration”. <i>Journal of Materials in Civil Engineering</i> 37, no. 11 (2025). https://doi.org/10.1061/jmcee7.mteng-19889.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

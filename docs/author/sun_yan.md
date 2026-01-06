@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 #  Sun Yan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
   <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>
   <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
   <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_muda.2025.3PPoSHCCwDUFiCwR/">3D Printing Performance of Strain-Hardening Cementitious Composites with Different UHMWPE Fibers in Correlation with Rheology</a></li>

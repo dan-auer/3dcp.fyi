@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nik Olivo, Valeria Piccioni, Francesco Milano, Fabio Gramazio, Matthias Kohler, Arno Schlüter, Benjamin Dillenburger
+    - footer
+title: Olivo Nik, Piccioni Valeria, Milano Francesco, Gramazio Fabio, Kohler Matthias, Schlüter Arno, Dillenburger Benjamin
 description:
 tags:
  - core
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.susmat.2025.e01273) Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.susmat.2025.e01273" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.susmat.2025.e01273</a>
+#Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.susmat.2025.e01273) <a href="https://doi.org/10.1016/j.susmat.2025.e01273" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.susmat.2025.e01273" target="_blank">10.1016/j.susmat.2025.e01273</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-6014-4774" title="ORCID: 0009-0008-6014-4774" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b>&nbsp;Nik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0119-8189" title="ORCID: 0000-0003-0119-8189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/piccioni_valeria"><b>Piccioni</b>&nbsp;Valeria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4657-4144" title="ORCID: 0000-0002-4657-4144" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/milano_francesco"><b>Milano</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4999-2218" title="ORCID: 0000-0003-4999-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schluter_arno"><b>Schlüter</b>&nbsp;Arno</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Journal Article - Sustainable Materials and Technologies, No. e01273
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a> <a href="https://orcid.org/0009-0008-6014-4774" title="ORCID: 0009-0008-6014-4774" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a> <a href="https://orcid.org/0000-0003-0119-8189" title="ORCID: 0000-0003-0119-8189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a> <a href="https://orcid.org/0000-0002-4657-4144" title="ORCID: 0000-0002-4657-4144" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schluter_arno"><b>Schlüter</b> Arno</a> <a href="https://orcid.org/0000-0003-4999-2218" title="ORCID: 0000-0003-4999-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainable Materials and Technologies, No. e01273
-
-:aca-blank:{ .lg .middle}
-    [`#core`](keyword/core)
-    [`#customization`](keyword/customization)
-    [`#design`](keyword/design)
-    [`#enhancement`](keyword/enhancement)
-    [`#hollow`](keyword/hollow)
-    [`#nozzle`](keyword/nozzle)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/core"><button class="btn">#core</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Enhancement%20of%20Hollow-Core%203DP%20Through%20Nozzle%20Design%20Customization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217900492&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407462958" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.susmat.2025.e01273" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.susmat.2025.e01273?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     On the architectural scale, material extrusion (ME) or Big Area Additive Manufacturing (BAAM) have been fabrication methods for polymer-based components explored as an alternative to injection molding, over the past 20 years. These Additive Manufacturing (AM) techniques face long printing hours, slow material cooling rates, and high material usage when scaling towards building-size components. Hollow-core 3D printing (HC3DP) is an novel fabrication method that addresses these limitations by extruding tubular beads, thereby saving time and materials. A key advantage of HC3DP is its insulating properties due to the air chambers within the prints. This technique has significant potential for large-scale facade fabrication while providing essential thermal insulation. However, initial research indicates that deploying HC3DP at an architectural scale, while meeting building insulation standards, requires using a double pane with an internal infill structure. This reduces its ability to optimize time and material efficiency. The full potential of this technology rather relies on its application for the fabrication of single-pane mono-material façade elements. Therefore, as a first step, this research aims to explore the different insulating properties of various HC wall configurations from more complex to infill-less wall typologies. As a second step, thermally optimized bespoke die-end extrusion nozzles are designed for HC3DP of façade panels to achieve higher material, time, and thermal efficiency. Through bespoke nozzle customization, different levels of thermal insulation improvement could be achieved, reaching an U-Value of 0.998 W/m2K on a HC3DP single-pane panel, improving by two the insulating capacity of basic single pane circular-sectioned HC, and complying with the nearly zero-energy building (NZEB) standards (1). All of this while reducing printing time, material usage and cost up to half compared to an insulating-equivalent HC3DP wall typology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/biswas_kaushik"><b>Biswas</b> Kaushik</a>, <a href="../../../author/rose_james"><b>Rose</b> James</a>, <a href="../../../author/eikevik_leif"><b>Eikevik</b> Leif</a>, <a href="../../../author/guerguis_maged"><b>Guerguis</b> Maged</a> et al. <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../bisw_rose_eike_guer.2017.AMIE/">Additive Manufacturing Integrated Energy:<br/>Enabling Innovative Solutions for Buildings of the Future</a></li>
@@ -98,7 +74,36 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vant_stee_cort_boel.2020.DOf3CP/">Design-Optimization for 3D Concrete Printing:<br/>Improving Structural and Thermal Performances</a></li>
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{oliv_picc_mila_gram.2025.TEoHC3TNDC,
+      author            = "Nik Eftekhar Olivo and Valeria Piccioni and Francesco Milano and Fabio Gramazio and Matthias Daniel Kohler and Arno Schlüter and Benjamin Dillenburger",
+      title             = "Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization",
+      doi               = "10.1016/j.susmat.2025.e01273",
+      year              = "2025",
+      journal           = "Sustainable Materials and Technologies",
+      pages             = "e01273",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. E. Olivo, “Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization”, <i>Sustainable Materials and Technologies</i>, p. e01273, 2025, doi: 10.1016/j.susmat.2025.e01273.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Olivo, Nik Eftekhar, Valeria Piccioni, Francesco Milano, Fabio Gramazio, Matthias Daniel Kohler, Arno Schlüter, and Benjamin Dillenburger. “Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization”. <i>Sustainable Materials and Technologies</i>, 2025, e01273. https://doi.org/10.1016/j.susmat.2025.e01273.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

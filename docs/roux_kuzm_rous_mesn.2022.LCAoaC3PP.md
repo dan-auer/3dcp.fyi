@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Charlotte Roux, Kateryna Kuzmenko, Nicolas Roussel, Romain Mesnil, Adélaïde Féraille
+    - footer
+title: Roux Charlotte, Kuzmenko Kateryna, Roussel Nicolas, Mesnil Romain, Féraille Adélaïde
 description:
 tags:
  - assessment
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Life Cycle Assessment of a Concrete 3D Printing Process ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1007/s11367-022-02111-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11367-022-02111-3</a>
+#Life Cycle Assessment of a Concrete 3D Printing Process ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11367-022-02111-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11367-022-02111-3" target="_blank">10.1007/s11367-022-02111-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1085-0434" title="ORCID: 0000-0002-1085-0434" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roux_charlotte"><b>Roux</b>&nbsp;Charlotte</a></span>, <a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b>&nbsp;Kateryna</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <a href="../../../author/feraille_adelaide"><b>Féraille</b>&nbsp;Adélaïde</a></span><br>
+Journal Article - The International Journal of Life Cycle Assessment
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a> <a href="https://orcid.org/0000-0002-1085-0434" title="ORCID: 0000-0002-1085-0434" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Life Cycle Assessment, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20a%20Concrete%203D%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142658221&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4310076233" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11367-022-02111-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11367-022-02111-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing has been put forward for its supposed environmental benefit, yet to be confirmed. This article describes an environmental assessment of a 3D printing process that represents one of the most commonly used technologies in the field. It then suggests a generic framework to evaluate the environmental impact of 3D concrete printing through a parametric model. The studied system is a 3D printing cell based on a 6-axis robotic arm assessed through a cradle-tocradle life cycle assessment. It provides data details for subparts of the 3D printing process allowing other researchers to compose and recombine those subparts to represent other 3D concrete printing processes and faster the inventory and ecodesign process of such technologies. As the concrete sector usually focuses on its global warming contribution, an analysis of relative importance of environmental categories was performed using both normalization/weighting and an endpoint evaluation. An uncertainty assessment based on the pedigree matrix allows to evaluate result confidence. The results show that the main contributors to the 3D printed building element are first the high requirement concrete and second the robotic system, mainly the electronic parts. A detailed uncertainty study has been conducted to evaluate error margins. The sensitivity study on the electricity mix also shows the relative low importance of the technology localization to assess its environmental balance. A first sketch of a generic framework to assess extrusion-based 3D printing in the construction sector is proposed. A detailed LCA is performed and highlights ways of improvement of the technology. Further research on similar technology and scale-up scenario is needed to consolidate the framework and is seen as main research perspectives of this work.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -79,8 +58,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/gumruk_idil"><b>Gümrük</b> Idil</a>, <a href="../../../author/schroder_w-a_torsten"><b>Schröder</b> Torsten</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../gumr_schr_wolf_sale.2025.3C/">3DCP-CI:<br/>Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs</a></li>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
@@ -92,7 +71,7 @@ tags:
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_bian_forc.2025.ADT3PCF/">Advancing Decarbonization Through 3D Printed Concrete Formworks:<br/>LIFE Cycle Analysis of Technologies, Materials, and Processes</a></li>
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kuzm_roux_fera.2025.EIo3CP/">Environmental Impact of 3D Concrete Printing</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
-      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
+      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b> Mette</a>, <a href="../../../author/tamke_martin"><b>Tamke</b> Martin</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../thom_tamk_ross_chiu.2024.SC/">Sustainable Construction:<br/>Additive Manufacturing in a Circular Design Framework</a></li>
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/loulha_sarena"><b>Loulha</b> Sarena</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../bono_duco_loul_mesn.2025.T3PLCM/">Toward 3D Printable Low-Carbon Mortar:<br/>Method and Application</a></li>
       <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jin_roux_ouel_caro.2024.LCAoLCCC/">Life Cycle Assessment of Limestone-Calcined-Clay-Concrete:<br/>Potential for Low-Carbon 3D Printing</a></li>
@@ -106,4 +85,32 @@ tags:
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bono_duco_mesn_caro.2024.MfFLCPMTPPO/">Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{roux_kuzm_rous_mesn.2022.LCAoaC3PP,
+      author            = "Charlotte Roux and Kateryna Kuzmenko and Nicolas Roussel and Romain Mesnil and Adélaïde Féraille",
+      title             = "Life Cycle Assessment of a Concrete 3D Printing Process",
+      doi               = "10.1007/s11367-022-02111-3",
+      year              = "2022",
+      journal           = "The International Journal of Life Cycle Assessment",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Roux, K. Kuzmenko, N. Roussel, R. Mesnil and A. Féraille, “Life Cycle Assessment of a Concrete 3D Printing Process”, <i>The International Journal of Life Cycle Assessment</i>, 2022, doi: 10.1007/s11367-022-02111-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Roux, Charlotte, Kateryna Kuzmenko, Nicolas Roussel, Romain Mesnil, and Adélaïde Féraille. “Life Cycle Assessment of a Concrete 3D Printing Process”. <i>The International Journal of Life Cycle Assessment</i>, 2022. https://doi.org/10.1007/s11367-022-02111-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

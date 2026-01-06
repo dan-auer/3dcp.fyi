@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arash Motalebi, Mohammad Khondoker, Golam Kabir
+    - footer
+title: Motalebi Arash, Khondoker Mohammad, Kabir Golam
 description:
 tags:
  - assessment
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.susoc.2023.08.003) A Systematic Review of Life Cycle Assessments of 3D Concrete Printing ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.susoc.2023.08.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.susoc.2023.08.003</a>
+#A Systematic Review of Life Cycle Assessments of 3D Concrete Printing ([2023-08](date/2023/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.susoc.2023.08.003) <a href="https://doi.org/10.1016/j.susoc.2023.08.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.susoc.2023.08.003" target="_blank">10.1016/j.susoc.2023.08.003</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-8795-7511" title="ORCID: 0009-0005-8795-7511" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/motalebi_arash"><b>Motalebi</b>&nbsp;Arash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9709-7587" title="ORCID: 0000-0002-9709-7587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9591-0629" title="ORCID: 0000-0001-9591-0629" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kabir_golam"><b>Kabir</b>&nbsp;Golam</a></span><br>
+Journal Article - Sustainable Operations and Computers
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/motalebi_arash"><b>Motalebi</b> Arash</a> <a href="https://orcid.org/0009-0005-8795-7511" title="ORCID: 0009-0005-8795-7511" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b> Mohammad</a> <a href="https://orcid.org/0000-0002-9709-7587" title="ORCID: 0000-0002-9709-7587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="https://orcid.org/0000-0001-9591-0629" title="ORCID: 0000-0001-9591-0629" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainable Operations and Computers, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Review%20of%20Life%20Cycle%20Assessments%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183853990&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386102961" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.susoc.2023.08.003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.susoc.2023.08.003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry plays a crucial role in shaping our built environment, and it is imperative to adopt more sustainable and innovative practices, technologies, and tools to minimize the environmental impact. Recently, 3D printing technology has emerged as the main element of the fourth industrial revolution, Industry 4.0 which offers numerous benefits in manufacturing, including complete design freedom, savings in materials and time, enhanced efficiency, and so on. This novel technology is positively impacting various industries, including automotive, aerospace, biomedical, and now the construction industry as well. The present study aims to investigate the ecological impacts of 3D concrete printing (3DCP) by conducting a comprehensive literature review of the published articles that focused on the life cycle assessment of 3DCP-processed units. The objective was to identify current trends, areas of study that require further attention, and opportunities to lower energy consumption and environmental impacts. The literature review found that 3DCP associates with a significant reduction in global warming potential when compared to traditional construction using ordinary Portland cement-based concrete. From the life cycle analysis for 3D printed concrete performed in some articles, this review has identified opportunities to enhance the durability of 3DCP by using non-traditional materials. Additionally, improving the energy efficiency of the printing system and optimizing the structural design of printed structures can further enhance their environmental performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -83,8 +63,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../gaud.2025.ACMPo3/">A Critical Materials Perspective on 3DCP</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
@@ -110,4 +90,32 @@ tags:
       <li><a href="../../../author/lu_yue"><b>Lu</b> Yue</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_yan"><b>Li</b> Yan</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lu_xiao_li.2024.3PRCIPF/">3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mota_khon_kabi.2023.ASRoLCAo3CP,
+      author            = "Arash Motalebi and Mohammad Abu Hasan Khondoker and Golam Kabir",
+      title             = "A Systematic Review of Life Cycle Assessments of 3D Concrete Printing",
+      doi               = "10.1016/j.susoc.2023.08.003",
+      year              = "2023",
+      journal           = "Sustainable Operations and Computers",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Motalebi, M. A. H. Khondoker and G. Kabir, “A Systematic Review of Life Cycle Assessments of 3D Concrete Printing”, <i>Sustainable Operations and Computers</i>, 2023, doi: 10.1016/j.susoc.2023.08.003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Motalebi, Arash, Mohammad Abu Hasan Khondoker, and Golam Kabir. “A Systematic Review of Life Cycle Assessments of 3D Concrete Printing”. <i>Sustainable Operations and Computers</i>, 2023. https://doi.org/10.1016/j.susoc.2023.08.003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

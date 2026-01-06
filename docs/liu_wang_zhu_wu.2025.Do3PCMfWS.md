@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huawei Liu, Yifei Wang, Chao Zhu, Yiwen Wu, Chao Liu, Chunhui He, Yizhou Yao, Youqiang Wang, Guoliang Bai
+    - footer
+title: Liu Huawei, Wang Yifei, Zhu Chao, Wu Yiwen, Liu Chao, He Chunhui, Yao Yizhou, Wang Youqiang, Bai Guoliang
 description:
 tags:
  - behavior
@@ -21,42 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design of 3D Printed Concrete Masonry for Wall Structures:<br/>:aca-blank: Mechanical Behavior and Strength Calculation Methods Under Various Loads ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.engstruct.2024.119374" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2024.119374</a>
+#Design of 3D Printed Concrete Masonry for Wall Structures&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Mechanical Behavior and Strength Calculation Methods Under Various Loads</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2024.119374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.119374" target="_blank">10.1016/j.engstruct.2024.119374</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/wang_yifei"><b>Wang</b>&nbsp;Yifei</a></span>, <a href="../../../author/zhu_chao"><b>Zhu</b>&nbsp;Chao</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/he_chunhui"><b>He</b>&nbsp;Chunhui</a></span>, <a href="../../../author/yao_yizhou"><b>Yao</b>&nbsp;Yizhou</a></span>, <a href="../../../author/wang_youqiang"><b>Wang</b>&nbsp;Youqiang</a></span>, <a href="../../../author/bai_guoliang"><b>Bai</b>&nbsp;Guoliang</a></span><br>
+Journal Article - Engineering Structures, Vol. 325, No. 119374
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>
-,     <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>
-,     <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_chunhui"><b>He</b> Chunhui</a>
-,     <a href="../../../author/yao_yizhou"><b>Yao</b> Yizhou</a>
-,     <a href="../../../author/wang_youqiang"><b>Wang</b> Youqiang</a>
-,     <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 325, No. 119374
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#calculation`](keyword/calculation)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#load`](keyword/load)
-    [`#masonry`](keyword/masonry)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-    [`#variation`](keyword/variation)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/calculation"><button class="btn">#calculation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/masonry"><button class="btn">#masonry</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20of%203D%20Printed%20Concrete%20Masonry%20for%20Wall%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210291631&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404844529" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2024.119374" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2024.119374?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advancement of 3D printed concrete (3DPC) technology for large-scale construction is hindered by inadequate load-bearing design methods for 3DPC wall structures. This work focuses on 3D printed concrete masonry (3DPCM) walls and aims to investigate the mechanical behavior and methods for computing the strength of 3DPCMs under various sectional forms and loads. Results showed that increasing the number of inclined ribs significantly enhances the shear strength without affecting the compressive strength. The combined shear–compression strength exhibits a nonlinear relationship with the axial compression ratio, reaching its maximum at a ratio of 0.4. The failure modes of 3DPCM under various loads were revealed through experiments and numerical simulations. The oblate spheroidal pores, with major axes aligned along the X-axis printing direction at intralayer interfaces, were identified as critical to 3DPCM structural failure. Finally, a strength calculation method for the compressive, shear, and combined shear–compression of the 3DPCM was proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
@@ -116,8 +85,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
@@ -132,4 +101,34 @@ tags:
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/wu_jian"><b>Wu</b> Jian</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_liu_wu_wu.2025.EoXRCCPSotFTRo3PCwRCA/">Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>
       <li><a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>, <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>, <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a>, <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_cui_yang_wang.2025.Ro3PCMPPMBoML/">Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_wang_zhu_wu.2025.Do3PCMfWS,
+      author            = "Huawei Liu and Yifei Wang and Chao Zhu and Yiwen Wu and Chao Liu and Chunhui He and Yizhou Yao and Youqiang Wang and Guoliang Bai",
+      title             = "Design of 3D Printed Concrete Masonry for Wall Structures: Mechanical Behavior and Strength Calculation Methods Under Various Loads",
+      doi               = "10.1016/j.engstruct.2024.119374",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "325",
+      pages             = "119374",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Liu, “Design of 3D Printed Concrete Masonry for Wall Structures: Mechanical Behavior and Strength Calculation Methods Under Various Loads”, <i>Engineering Structures</i>, vol. 325, p. 119374, 2025, doi: 10.1016/j.engstruct.2024.119374.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Huawei, Yifei Wang, Chao Zhu, Yiwen Wu, Chao Liu, Chunhui He, Yizhou Yao, Youqiang Wang, and Guoliang Bai. “Design of 3D Printed Concrete Masonry for Wall Structures: Mechanical Behavior and Strength Calculation Methods Under Various Loads”. <i>Engineering Structures</i> 325 (2025): 119374. https://doi.org/10.1016/j.engstruct.2024.119374.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

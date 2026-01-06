@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuhang Sun, Haonan Wang, Yi Zhang, Xiongfei Liu, Guowei Ma
+    - footer
+title: Sun Yuhang, Wang Haonan, Zhang Yi, Liu Xiongfei, Ma Guowei
 description:
 tags:
  - base
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2025.141871) Spray-Based 3D Printed Foam Concrete:<br/>:aca-blank: Stress Concentration Relieve Utilization ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141871" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141871</a>
+#Spray-Based 3D Printed Foam Concrete&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Stress Concentration Relieve Utilization</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.141871) <a href="https://doi.org/10.1016/j.conbuildmat.2025.141871" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141871" target="_blank">10.1016/j.conbuildmat.2025.141871</a>
 
--------------------------
+<a href="../../../author/sun_yuhang"><b>Sun</b>&nbsp;Yuhang</a></span>, <a href="../../../author/wang_haonan"><b>Wang</b>&nbsp;Haonan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 485, No. 141871
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>
-,     <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 485, No. 141871
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concentration`](keyword/concentration)
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#print`](keyword/print)
-    [`#spray`](keyword/spray)
-    [`#stress`](keyword/stress)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concentration"><button class="btn">#concentration</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Spray-Based%203D%20Printed%20Foam%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005748389&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410595199" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141871" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141871?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study employs spray-based 3D (S-3D) printed foam concrete to propose a design method for tunnel yielding support, addressing the issue of concentrated stress failure in lining structures under large deformation surrounding rock. The mechanical performance of concrete under concentrated compressive stress is evaluated with varying thicknesses of the S-3D printed foam concrete layer (15, 25, 35, and 45 mm). The yielding protection mechanism of the S-3D printed foam concrete layer is analyzed based on its effects on concrete bearing capacity, failure morphology, and deformation energy absorption. The results demonstrate that S-3D printed foam concrete effectively mitigates concentrated stress. Compared to cast concrete, S-3D printed foam concrete exhibits superior synergy with the foundation structure. At a thickness of 15 mm, the S-3D printed composite structure (S-15) exhibits typical yielding support characteristics, transitioning from single-crack to multi-crack failure modes. Relative to the control group (C-0), the ultimate compressive load, ultimate deformation, and energy absorption capacity of S-15 increase by 31.6 %, 243.5 %, and 331.8 %, respectively. To further assess the capacity of S-3D printed foam concrete to alleviate concentrated stress under more complex stress states, shear tests are conducted on SS-15. Compared to the control group (CS-0), the ultimate load, ultimate deformation, and energy absorption capacity of SS-15 improved by 32.2 %, 135.1 %, and 145.7 %, respectively. The findings confirm that S-3D printed foam concrete effectively reduces the concentrated stress exerted by rock on tunnel lining structures and enhances the long-term support performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../klof_hack_main_broh.2019.AMiC/">Additive Manufacturing in Construction:<br/>First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
@@ -84,9 +62,39 @@ tags:
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_wang_zhan_liu.2025.SB3PFC,
+      author            = "Yuhang Sun and Haonan Wang and Yi Zhang and Xiongfei Liu and Guowei Ma",
+      title             = "Spray-Based 3D Printed Foam Concrete: Stress Concentration Relieve Utilization",
+      doi               = "10.1016/j.conbuildmat.2025.141871",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "485",
+      pages             = "141871",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Sun, H. Wang, Y. Zhang, X. Liu and G. Ma, “Spray-Based 3D Printed Foam Concrete: Stress Concentration Relieve Utilization”, <i>Construction and Building Materials</i>, vol. 485, p. 141871, 2025, doi: 10.1016/j.conbuildmat.2025.141871.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Yuhang, Haonan Wang, Yi Zhang, Xiongfei Liu, and Guowei Ma. “Spray-Based 3D Printed Foam Concrete: Stress Concentration Relieve Utilization”. <i>Construction and Building Materials</i> 485 (2025): 141871. https://doi.org/10.1016/j.conbuildmat.2025.141871.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

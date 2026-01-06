@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junhong Ye, Zicheng Zhuang, Fei Teng, Jie Yu, Dong Zhang, Yiwei Weng
+    - footer
+title: Ye Junhong, Zhuang Zicheng, Teng Fei, Yu Jie, Zhang Dong, Weng Yiwei
 description:
 tags:
  - assessment
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/17452759.2024.2369249) Comparative Environmental-Assessment of 3D Concrete Printing with Engineered Cementitious Composites ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1080/17452759.2024.2369249" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2369249</a>
+#Comparative Environmental-Assessment of 3D Concrete Printing with Engineered Cementitious Composites ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2369249) <a href="https://doi.org/10.1080/17452759.2024.2369249" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2369249" target="_blank">10.1080/17452759.2024.2369249</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7693-4289" title="ORCID: 0000-0001-7693-4289" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuang_zicheng"><b>Zhuang</b>&nbsp;Zicheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_fei"><b>Teng</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jie"><b>Yu</b>&nbsp;Jie</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a> <a href="https://orcid.org/0000-0001-7693-4289" title="ORCID: 0000-0001-7693-4289" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teng_fei"><b>Teng</b> Fei</a> <a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> <a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#cement`](keyword/cement)
-    [`#comparision`](keyword/comparision)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#engineered`](keyword/engineered)
-    [`#environment`](keyword/environment)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Environmental-Assessment%20of%203D%20Concrete%20Printing%20with%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197486058&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400321423" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2369249" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2369249?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Engineered cementitious composites (ECC) with superior tensile properties have potential to print self-reinforced structures. However, the environmental performance of 3D concrete printing with ECC (3DP-ECC) lacks further investigation. This study evaluates the environmental impacts of structures printed with 3DP-ECC via life cycle assessment. Results show that 3DP-ECC incorporating incineration bottom ash (IBA), crumb rubber (CR), and limestone powder (LP) reduce carbon emission by 25%, 24%, and 47%, respectively, compared to that of reinforced concrete (RC) with a steel ratio of 1.01%. A frame structure printed by LP-ECC reduces carbon emission by 42% compared to that of the unit fabricated by mold-cast RC (MC-RC). A circle house printed by LP-ECC reduces carbon emission by 28% compared to that of the counterpart fabricated by MC-RC. Sensitivity analysis identifies the transportation distance range to achieve a sustainable 3DCP. The findings provide a guideline to select appropriate 3DP-ECC and construction methods for sustainable construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
@@ -97,8 +73,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_sun_wang_huan.2025.EaEEoaP3PSUURAfCaDW/">Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste:<br/>A Case Study in China</a></li>
@@ -109,4 +85,34 @@ tags:
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ye_zhua_teng_yu.2024.CEAo3CPwECC,
+      author            = "Junhong Ye and Zicheng Zhuang and Fei Teng and Jie Yu and Dong Zhang and Yiwei Weng",
+      title             = "Comparative Environmental-Assessment of 3D Concrete Printing with Engineered Cementitious Composites",
+      doi               = "10.1080/17452759.2024.2369249",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ye, Z. Zhuang, F. Teng, J. Yu, D. Zhang and Y. Weng, “Comparative Environmental-Assessment of 3D Concrete Printing with Engineered Cementitious Composites”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2369249.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ye, Junhong, Zicheng Zhuang, Fei Teng, Jie Yu, Dong Zhang, and Yiwei Weng. “Comparative Environmental-Assessment of 3D Concrete Printing with Engineered Cementitious Composites”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2369249.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

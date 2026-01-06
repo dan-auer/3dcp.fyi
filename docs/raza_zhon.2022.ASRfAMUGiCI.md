@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Raza, Ray Zhong
+    - footer
+title: Raza Muhammad, Zhong Ray
 description:
 tags:
  - additive
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.resconrec.2022.106592" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.resconrec.2022.106592</a>
+#A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry ([2022-08](date/2022/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.resconrec.2022.106592" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.resconrec.2022.106592" target="_blank">10.1016/j.resconrec.2022.106592</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span><br>
+Journal Article - Resources, Conservation and Recycling, Vol. 186
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> <a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Resources, Conservation and Recycling, Vol. 186, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Sustainable%20Roadmap%20for%20Additive%20Manufacturing%20Using%20Geopolymers%20in%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135517109&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4289913891" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.resconrec.2022.106592" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.resconrec.2022.106592?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently 3D printing of geopolymers gained increasing attention due to their dual-dimensional sustainability from technology and materials perspectives. The current research first defines the criteria for the assessment of the sustainability of 3D printed geopolymers. Four different aspects including productivity assessment, economic influence, environmental burden and social impact have been investigated to analyze their current states of sustainability. Detailed productivity analysis depicts promising results in terms of fresh and hardened properties of 3D printed geopolymers. Despite reasonable productivity, 3D printing of geopolymers has not completely replaced the traditional practices and materials on industrial scale as a result of their inadequate economic and environmental performance mainly due to alkaline reagents. Alkaline reagents used for the geopolymerization of industrial by-products not only increase the overall concrete cost but also induce a severe environmental burden. Although, 3D printed geopolymers have explicit social impacts on human lives, the high level of automation in 3D printing process and less manufacturing of cement (due to its replacement with geopolymers) may reduce the number of jobs. Upon critically analyzing the pros and cons, a strategic roadmap is provided for the adoption of the 3D printing of geopolymers on industrial scale based on short, medium and long-term goals.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "65 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
@@ -127,8 +109,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhon_huan_liu_wang.2025.DSfECCi3PSSM/">Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>Material Modification and Curing Process Innovation</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_besk_krav_zhon.2025.EVo3CP/">Economic Viability of 3D Concrete Printing:<br/>A Comparative Study with Traditional Construction Method</a></li>
@@ -153,4 +135,33 @@ tags:
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b> Kinga</a>, <a href="../../../author/kozub_barbara"><b>Kozub</b> Barbara</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../korn_setl_kozu.2022.AOfMEESfLaMHMBoGCa3PT/">An Overview for Modern Energy-Efficient Solutions for Lunar and Martian Habitats Made Based on Geopolymers Composites and 3D Printing Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raza_zhon.2022.ASRfAMUGiCI,
+      author            = "Muhammad Huzaifa Raza and Ray Y. Zhong",
+      title             = "A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry",
+      doi               = "10.1016/j.resconrec.2022.106592",
+      year              = "2022",
+      journal           = "Resources, Conservation and Recycling",
+      volume            = "186",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. H. Raza  and R. Y. Zhong, “A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry”, <i>Resources, Conservation and Recycling</i>, vol. 186, 2022, doi: 10.1016/j.resconrec.2022.106592.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raza, Muhammad Huzaifa, and Ray Y. Zhong. “A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry”. <i>Resources, Conservation and Recycling</i> 186 (2022). https://doi.org/10.1016/j.resconrec.2022.106592.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

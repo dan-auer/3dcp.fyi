@@ -8,7 +8,7 @@ search:
 
 # #lattice
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sant_raph_sant.2025.C3PoSOLBINIP/">Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns</a></li>
   <li><a href="../../../author/ayhan_bahar"><b>Ayhan</b> Bahar</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a>, <a href="../../../author/lale_erol"><b>Lale</b> Erol</a>, <a href="../../../author/yu_ke"><b>Yu</b> Ke</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ayha_iriz_lale_yu.2025.NSo3PUHPCUtLDPM/">Numerical Simulation of 3D Printed Ultra High-Performance Concrete Using the Lattice Discrete Particle Model</a></li>
   <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.SPoTOaLSiC3PB/">Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams</a></li>

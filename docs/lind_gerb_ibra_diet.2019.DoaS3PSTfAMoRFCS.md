@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hendrik Lindemann, Roman Gerbers, Serhat Ibrahim, Franz Dietrich, Eric Herrmann, Klaus Dröder, Annika Raatz, Harald Kloft
+    - footer
+title: Lindemann Hendrik, Gerbers Roman, Ibrahim Serhat, Dietrich Franz, Herrmann Eric, Dröder Klaus, Raatz Annika, Kloft Harald
 description:
 tags:
  - additive
@@ -18,38 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_27</a>
+#Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_27" target="_blank">10.1007/978-3-319-99519-9_27</a>
 
--------------------------
+<a href="../../../author/lindemann_hendrik"><b>Lindemann</b>&nbsp;Hendrik</a></span>, <a href="../../../author/gerbers_roman"><b>Gerbers</b>&nbsp;Roman</a></span>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b>&nbsp;Serhat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4823-7889" title="ORCID: 0000-0002-4823-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dietrich_franz"><b>Dietrich</b>&nbsp;Franz</a></span>, <a href="../../../author/herrmann_eric"><b>Herrmann</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 287-298
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>
-,     <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>
-,     <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>
-,     <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> <a href="https://orcid.org/0000-0002-4823-7889" title="ORCID: 0000-0002-4823-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 287-298
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#freeform`](keyword/freeform)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#structure`](keyword/structure)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Shotcrete%203D%20Printing%20%28SC3DP%29%20Technology%20for%20Additive%20Manufacturing%20of%20Reinforced%20Freeform%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052714065&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,18 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2888839135" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_27" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_27?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, a novel Additive Manufacturing (AM) technique for robot-based fabrication of large-scale freeform reinforced concrete elements is presented. The AM technology, called Shotcrete 3D Printing (SC3DP), is based on an automated shotcreteing process and offers the ability to integrate structural reinforcement in both principal directions and enables printing of horizontal cantilevers onto vertical surfaces. Moreover, the SC3DP technique effectively addresses the problem of cold joints that is inherent to other 3D printing techniques. However, as controlling the process parameters of the SC3DP technique is significantly more complex than it is for conventional 3D concrete printing processes, several closed-loop online control routines were developed and integrated. The resulting gain of control for this adaptive fabrication process is demonstrated through a case study for the production of a complexes reinforced concrete component. Moreover, its conceptual implications are discussed and an outlook for future work is given.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/olbrich_alexander"><b>Olbrich</b> Alexander</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ibra_olbr_lind_gerb.2018.AAMoCSwF/">Automated Additive Manufacturing of Concrete Structures without Formwork:<br/>Concept for Path-Planning</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
@@ -86,8 +57,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "89 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
@@ -177,7 +148,36 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_amzi.2019.3PiC/">3D Printing in Concrete:<br/>General Considerations and Technologies</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lu_qian_li_weng.2019.DSB3PCMwFACaAEA/">Designing Spray-Based 3D Printable Cementitious Materials with Fly-Ash-Cenosphere and Air-Entraining Agent</a></li>
       <li><a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/lehmberg_sven"><b>Lehmberg</b> Sven</a>, <a href="../../../author/budelmann_harald"><b>Budelmann</b> Harald</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../ledd_lehm_bude_klof.2019.RAMAoMFiTWUC/">Robot-Assisted, Magnetic Alignment of Microsteel Fibers in Thin-Walled UHPFRC Components</a></li>
-      <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li><a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/olbrich_alexander"><b>Olbrich</b> Alexander</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ibra_olbr_lind_gerb.2018.AAMoCSwF/">Automated Additive Manufacturing of Concrete Structures without Formwork:<br/>Concept for Path-Planning</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS,
+      author            = "Hendrik Lindemann and Roman Gerbers and Serhat Ibrahim and Franz Dietrich and Eric Herrmann and Klaus Dröder and Annika Raatz and Harald Kloft",
+      title             = "Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures",
+      doi               = "10.1007/978-3-319-99519-9_27",
+      year              = "2019",
+      volume            = "19",
+      pages             = "287--298",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Lindemann, “Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 287–298. doi: 10.1007/978-3-319-99519-9_27.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lindemann, Hendrik, Roman Gerbers, Serhat Ibrahim, Franz Dietrich, Eric Herrmann, Klaus Dröder, Annika Raatz, and Harald Kloft. “Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:287–98, 2019. https://doi.org/10.1007/978-3-319-99519-9_27.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

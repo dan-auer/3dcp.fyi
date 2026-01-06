@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lucen Hao, Jianzhuang Xiao, Jingting Sun, Bing Xia, Wanzhi Cao
+    - footer
+title: Hao Lucen, Xiao Jianzhuang, Sun Jingting, Xia Bing, Cao Wanzhi
 description:
 tags:
  - aggregate
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.jclepro.2022.132598" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2022.132598</a>
+#Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2022.132598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.132598" target="_blank">10.1016/j.jclepro.2022.132598</a>
 
--------------------------
+<a href="../../../author/hao_lucen"><b>Hao</b>&nbsp;Lucen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_jingting"><b>Sun</b>&nbsp;Jingting</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8597-0254" title="ORCID: 0000-0002-8597-0254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_bing"><b>Xia</b>&nbsp;Bing</a></span>, <a href="../../../author/cao_wanzhi"><b>Cao</b>&nbsp;Wanzhi</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 364
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> <a href="https://orcid.org/0000-0002-8597-0254" title="ORCID: 0000-0002-8597-0254" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cao_wanzhi"><b>Cao</b> Wanzhi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 364, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#change`](keyword/change)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#conductivity`](keyword/conductivity)
-    [`#fine`](keyword/fine)
-    [`#material`](keyword/material)
-    [`#phase`](keyword/phase)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conductivity"><button class="btn">#conductivity</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Conductivity%20of%203D%20Printed%20Concrete%20With%20Recycled%20Fine%20Aggregate%20Composite%20Phase-Change-Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132216303&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4282561598" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2022.132598" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2022.132598?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, a novel shape-stabilization phase change materials (PCM) for 3D printed concrete have been generated by impregnating paraffin into the recycled fine aggregates. Based on both steady state hot plate method and transient hotwire method, the impact of printing parameters, including printing layers, path, extrusion rate and materials on thermal conductivity of the 3D printed concrete was investigated. The relationship among thermal conductivity, dry density and porosity of the 3D printed concrete was analyzed. The results showed that recycled fine aggregates can be successfully used as a support material for paraffin. The melting temperature and latent heat is 36.52 ◦C and 40.65 J/g, respectively. The thermal conductivity of 3D printed concrete was significantly influenced by the multi-layer structure and with thermal anisotropy. Under the same size, density class or mix design, the thermal conductivity of the 3D printed concrete can reach up to 31.04% lower than that of mould cast concrete. The results also indicate that impregnating paraffin into the recycled fine aggregate can improve its thermal properties so as to upgrade the overall performance of 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -99,8 +73,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "44 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
@@ -146,4 +120,33 @@ tags:
       <li><a href="../../../author/shen_yuhang"><b>Shen</b> Yuhang</a>, <a href="../../../author/lin_li"><b>Lin</b> Li</a>, <a href="../../../author/wei_shengjie"><b>Wei</b> Shengjie</a>, <a href="../../../author/yan_jie"><b>Yan</b> Jie</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../shen_lin_wei_yan.2022.RotPaMPoS3PCM/">Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials</a></li>
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../srin_dey_pand_sith.2022.PTaCSPoCM/">Printability, Thermal and Compressive Strength Properties of Cementitious Materials:<br/>A Comparative Study with Silica-Fume and Limestone</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hao_xiao_sun_xia.2022.TCo3PCWRFACPCM,
+      author            = "Lucen Hao and Jianzhuang Xiao and Jingting Sun and Bing Xia and Wanzhi Cao",
+      title             = "Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials",
+      doi               = "10.1016/j.jclepro.2022.132598",
+      year              = "2022",
+      journal           = "Journal of Cleaner Production",
+      volume            = "364",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Hao, J. Xiao, J. Sun, B. Xia and W. Cao, “Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials”, <i>Journal of Cleaner Production</i>, vol. 364, 2022, doi: 10.1016/j.jclepro.2022.132598.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hao, Lucen, Jianzhuang Xiao, Jingting Sun, Bing Xia, and Wanzhi Cao. “Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials”. <i>Journal of Cleaner Production</i> 364 (2022). https://doi.org/10.1016/j.jclepro.2022.132598.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

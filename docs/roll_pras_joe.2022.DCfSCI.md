@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chiranjeevi Rollakanti, C. Prasad, Adams Joe
+    - footer
+title: Rollakanti Chiranjeevi, Prasad C., Joe Adams
 description:
 tags:
  - concrete
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Concrete for Sustainable Construction Industry:<br/>:aca-blank: A State of the Art Review ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1007/978-981-19-0189-8_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-19-0189-8_16</a>
+#Digital Concrete for Sustainable Construction Industry&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">A State of the Art Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-19-0189-8_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-0189-8_16" target="_blank">10.1007/978-981-19-0189-8_16</a>
 
--------------------------
+<a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b>&nbsp;Chiranjeevi</a></span>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b>&nbsp;C.</a></span>, <a href="../../../author/joe_adams"><b>Joe</b>&nbsp;Adams</a></span><br>
+Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 183-195
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>
-,     <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a>
-,     <a href="../../../author/joe_adams"><b>Joe</b> Adams</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 183-195
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#industry`](keyword/industry)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Concrete%20for%20Sustainable%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131129158&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285146388" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-19-0189-8_16" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-19-0189-8_16?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent research and industry have seen a great deal of digital production techniques with concrete and cemented materials, and the advanced techniques of industrialisation such as the 3D printing. 3D printing is an attention seeking technology in recent times, which in future years can have huge social and economic effects. The building industry and research projects around the world have focused on automatic construction systems. The possibility of revolutionising building is not only through cost reduction but also through enhanced sustainability and usefulness. There are major challenges, including understanding the early age hydration, and regulating the connection to rheology, the integration of strengthening and the overall connection between the processing, material and performance, both in structural and in terms of durability. This research article describes a state of the art 3D concrete printing with historical knowledge and progress with equipment, materials and computer modelling. This paper presents current progress, modern and up to date approach. It is essential to interdisciplinary action since the subject combines many different areas and is led thus far by areas such as architecture. The literature review examines the state of the art in the recent advancements of construction industry of digital concrete manufacture guiding the research difficulties so far.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -77,8 +58,39 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{roll_pras_joe.2022.DCfSCI,
+      author            = "Chiranjeevi Rahul Rollakanti and C. Venkata Siva Rama Prasad and Adams Joe",
+      title             = "Digital Concrete for Sustainable Construction Industry: A State of the Art Review",
+      doi               = "10.1007/978-981-19-0189-8_16",
+      year              = "2022",
+      volume            = "233",
+      pages             = "183--195",
+      booktitle         = "Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering",
+      editor            = "Pala Gireesh Kumar and Kolluru V. L. Subramaniam and S. Moses Santhakumar and Neelima Satyam D.",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. R. Rollakanti, C. V. S. R. Prasad and A. Joe, “Digital Concrete for Sustainable Construction Industry: A State of the Art Review”, in <i>Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering</i>,  2022, vol. 233, pp. 183–195. doi: 10.1007/978-981-19-0189-8_16.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rollakanti, Chiranjeevi Rahul, C. Venkata Siva Rama Prasad, and Adams Joe. “Digital Concrete for Sustainable Construction Industry: A State of the Art Review”. In <i>Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering</i>, edited by Pala Gireesh Kumar, Kolluru V. L. Subramaniam, S. Moses Santhakumar, and Neelima Satyam D., 233:183–95, 2022. https://doi.org/10.1007/978-981-19-0189-8_16.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

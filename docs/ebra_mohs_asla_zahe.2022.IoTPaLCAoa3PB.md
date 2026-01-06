@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mahdi Ebrahimi, Mohammad Mohseni, Alireza Aslani, Rahim Zahedi
+    - footer
+title: Ebrahimi Mahdi, Mohseni Mohammad, Aslani Alireza, Zahedi Rahim
 description:
 tags:
  - assessment
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.enbuild.2022.112341" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.enbuild.2022.112341</a>
+#Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building ([2022-08](date/2022/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.enbuild.2022.112341" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2022.112341" target="_blank">10.1016/j.enbuild.2022.112341</a>
 
--------------------------
+<a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b>&nbsp;Mahdi</a></span>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b>&nbsp;Mohammad</a></span>, <a href="../../../author/aslani_alireza"><b>Aslani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6837-8729" title="ORCID: 0000-0001-6837-8729" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahedi_rahim"><b>Zahedi</b>&nbsp;Rahim</a></span><br>
+Journal Article - Energy and Buildings, Vol. 272
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>
-,     <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>
-,     <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>
-,     <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="https://orcid.org/0000-0001-6837-8729" title="ORCID: 0000-0001-6837-8729" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energy and Buildings, Vol. 272, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#cycle`](keyword/cycle)
-    [`#investigation`](keyword/investigation)
-    [`#life`](keyword/life)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Thermal%20Performance%20and%20Life%20Cycle%20Assessment%20of%20a%203D%20Printed%20Building" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135832716&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,21 +38,16 @@ tags:
 <a href="https://inciteful.xyz/p/W4289527269" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.enbuild.2022.112341" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.enbuild.2022.112341?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to the growing population and unsustainable development, global energy consumption is rising, contributing to more environmental issues such as global warming. On the other hand, this ever-increasing population leads to an increase in demand for housing. Nevertheless, the conventional construction industry is low-speed and energy-consuming. The emerging technology of 3D printing has been used in this industry recently, and it has brought some benefits such as less material waste, higher construction speed, and building complex geometries. The purpose of this study is to investigate the energy performance of a 3D printed building that has used two types of cement, namely reactive magnesium oxide cement (RMC) and calcium sulfoaluminate (CSA) cement, in their concrete along with thermal insulation and phase change materials (PCMs). Afterward, a life cycle assessment is performed on these two types of concrete, and the result is compared with the conventional Portland concrete. The results show that the use ofRMC is very effective in terms of energy savings and waste than CSA cement. Also, according to the life cycle evaluation, it is concluded that the construction of a building using RMC and CSA cement instead of Portland cement reduces carbon dioxide emissions by 400 times.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
-      <li><a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB/">Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building</a></li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/khalil_abdullah"><b>Khalil</b> Abdullah</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../khal_wang_celi.2020.3PMOC/">3D Printable Magnesium Oxide Concrete:<br/>Towards Sustainable Modern Architecture</a></li>
@@ -81,8 +58,8 @@ tags:
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pess_luca_simo_guim.2025.HTia3PMWS/">Heat Transfer in a 3D-Printed Multilayer Wall System:<br/>An Experimental and Numerical Analysis</a></li>
@@ -98,6 +75,34 @@ tags:
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../jesu_pess_guim_rang.2023.ARoSOf3PiC/">A Reflection on Sustainable Opportunities for 3D Printing in Construction</a></li>
       <li><a href="../../../author/khalili-tari_mohammadreza"><b>Khalili Tari</b> Mohammadreza</a>, <a href="../../../author/reza-faraji_amir"><b>Reza Faraji</b> Amir</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../khal_reza_asla_zahe.2023.ESaLCAoa3PB/">Energy Simulation and Life Cycle Assessment of a 3D Printable Building</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_xing_sun_feng.2023.MSSCaHMPo3PBW/">Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>A Review</a></li>
-      <li><a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB/">Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB,
+      author            = "Mahdi Ebrahimi and Mohammad Mohseni and Alireza Aslani and Rahim Zahedi",
+      title             = "Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building",
+      doi               = "10.1016/j.enbuild.2022.112341",
+      year              = "2022",
+      journal           = "Energy and Buildings",
+      volume            = "272",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Ebrahimi, M. Mohseni, A. Aslani and R. Zahedi, “Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building”, <i>Energy and Buildings</i>, vol. 272, 2022, doi: 10.1016/j.enbuild.2022.112341.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ebrahimi, Mahdi, Mohammad Mohseni, Alireza Aslani, and Rahim Zahedi. “Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building”. <i>Energy and Buildings</i> 272 (2022). https://doi.org/10.1016/j.enbuild.2022.112341.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

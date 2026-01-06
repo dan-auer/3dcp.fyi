@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Minghao Bi, Jonathan Tran, Lingwei Xia, Guowei Ma, Yi Xie
+    - footer
+title: Bi Minghao, Tran Jonathan, Xia Lingwei, Ma Guowei, Xie Yi
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.addma.2022.102982" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102982</a>
+#Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.102982" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102982" target="_blank">10.1016/j.addma.2022.102982</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4872-0675" title="ORCID: 0000-0003-4872-0675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bi_minghao"><b>Bi</b>&nbsp;Minghao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3727-6935" title="ORCID: 0000-0003-3727-6935" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_lingwei"><b>Xia</b>&nbsp;Lingwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 57
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a> <a href="https://orcid.org/0000-0003-4872-0675" title="ORCID: 0000-0003-4872-0675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a> <a href="https://orcid.org/0000-0003-3727-6935" title="ORCID: 0000-0003-3727-6935" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 57, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#constraint`](keyword/constraint)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#topology`](keyword/topology)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constraint"><button class="btn">#constraint</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Topology-Optimization%20for%203D%20Concrete%20Printing%20with%20Various%20Manufacturing-Constraints" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132824003&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283016809" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102982" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102982?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration between 3D concrete printing (3DCP) and topology optimization (TO) enables the fabrication of structurally efficient components without expensive formwork and intensive labor. However, manufacturing constraints of 3DCP are impeding the integration between the two fields, and there has been limited research on this topic. In this paper, we address various manufacturing constraints of 3DCP within the bi-directional evolutionary structural optimization (BESO) framework. Firstly, a layer-wise sensitivity scheme is proposed to generate self-supporting designs in the user-defined print direction. Secondly, a novel continuous extrusion constraint is implemented to facilitate the continuous printing operation of the design. Thirdly, the anisotropy of the 3DCP process is simulated during optimization by employing a transverse isotropic material model. Fourthly, domain segmentation is introduced to facilitate modular construction, and each partitioned segment can be assigned with its favorable print direction. Finally, the algorithm’s feasibility is demonstrated by constructing a topology optimized chair.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
@@ -103,8 +81,9 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "65 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
@@ -169,6 +148,34 @@ tags:
       <li><a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xia_bi_wu_wang.2023.ILDMvSOaPPfME/">Integrated Lightweight Design-Method via Structural Optimization and Path-Planning for Material-Extrusion</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>
-      <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bi_tran_xia_ma.2022.TOf3CPwVMC,
+      author            = "Minghao Bi and Jonathan Phuong Tran and Lingwei Xia and Guowei Ma and Yi Min Xie",
+      title             = "Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints",
+      doi               = "10.1016/j.addma.2022.102982",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "57",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Bi, J. P. Tran, L. Xia, G. Ma and Y. M. Xie, “Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints”, <i>Additive Manufacturing</i>, vol. 57, 2022, doi: 10.1016/j.addma.2022.102982.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bi, Minghao, Jonathan Phuong Tran, Lingwei Xia, Guowei Ma, and Yi Min Xie. “Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints”. <i>Additive Manufacturing</i> 57 (2022). https://doi.org/10.1016/j.addma.2022.102982.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

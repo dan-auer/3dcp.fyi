@@ -8,7 +8,7 @@ search:
 
 # #anchor
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/lagaros_d_nikos"><b>Lagaros</b> Nikos</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../alne_rous_abda_laga.2025.EtSPo3PFBwAR/">Evaluating the Structural Performance of 3D Printed FRCC Beams with Anchoring Reinforcement:<br/>Material, Geometry, and Loading Perspectives</a></li>
   <li><a href="../../../author/lu_yu"><b>Lu</b> Yu</a>, <a href="../../../author/chen_haohua"><b>Chen</b> Haohua</a>, <a href="../../../author/tomac_ingrid"><b>Tomac</b> Ingrid</a>, <a href="../../../author/mccartney_s_john"><b>McCartney</b> John</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lu_chen_toma_mcca.2024.AaNIoGAfFPS/">Analytical and Numerical Investigation of Gravity Anchors for Floating Photovoltaic Systems</a></li>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../giul_menn_capo_aspr.2024.EBoa3PCWwFBAStIPCL/">Experimental Behavior of a 3D Printed Concrete Wall with Fixed Base Anchorage Subjected to In-Plane Cyclic Loads</a></li>

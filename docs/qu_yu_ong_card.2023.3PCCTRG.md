@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhengyao Qu, Qingliang Yu, Ghim Ong, Ruth Cardinaels, Lin Ke, Yi Long, Guoqing Geng
+    - footer
+title: Qu Zhengyao, Yu Qingliang, Ong Ghim, Cardinaels Ruth, Ke Lin, Long Yi, Geng Guoqing
 description:
 tags:
  - application
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2023.105029) 3D Printing Concrete Containing Thermal Responsive Gelatin:<br/>:aca-blank: Towards Cold Environment Applications ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105029" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105029</a>
+#3D Printing Concrete Containing Thermal Responsive Gelatin&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">Towards Cold Environment Applications</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.105029) <a href="https://doi.org/10.1016/j.cemconcomp.2023.105029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105029" target="_blank">10.1016/j.cemconcomp.2023.105029</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8757-1863" title="ORCID: 0000-0002-8757-1863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qu_zhengyao"><b>Qu</b>&nbsp;Zhengyao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_qingliang"><b>Yu</b>&nbsp;Qingliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3045-4030" title="ORCID: 0000-0003-3045-4030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ong_ping_ghim"><b>Ong</b>&nbsp;Ghim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4191-6504" title="ORCID: 0000-0002-4191-6504" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cardinaels_ruth"><b>Cardinaels</b>&nbsp;Ruth</a></span>, <a href="../../../author/ke_lin"><b>Ke</b>&nbsp;Lin</a></span>, <a href="../../../author/long_yi"><b>Long</b>&nbsp;Yi</a></span>, <a href="../../../author/geng_guoqing"><b>Geng</b>&nbsp;Guoqing</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qu_zhengyao"><b>Qu</b> Zhengyao</a> <a href="https://orcid.org/0000-0002-8757-1863" title="ORCID: 0000-0002-8757-1863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="https://orcid.org/0000-0001-8578-3945" title="ORCID: 0000-0001-8578-3945" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ong_ping_ghim"><b>Ong</b> Ghim</a> <a href="https://orcid.org/0000-0003-3045-4030" title="ORCID: 0000-0003-3045-4030" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cardinaels_ruth"><b>Cardinaels</b> Ruth</a> <a href="https://orcid.org/0000-0002-4191-6504" title="ORCID: 0000-0002-4191-6504" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ke_lin"><b>Ke</b> Lin</a>
-,     <a href="../../../author/long_yi"><b>Long</b> Yi</a>
-,     <a href="../../../author/geng_guoqing"><b>Geng</b> Guoqing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#cold`](keyword/cold)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#environment`](keyword/environment)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Concrete%20Containing%20Thermal%20Responsive%20Gelatin" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153685825&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366265298" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105029" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105029?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction with cementitious materials via 3D printing requires a highly thixotropic behavior, which is a challenge for construction industry. In this work a facile and low-cost gelatin-modified thermal responsive smart cement paste formulation was developed for extrusion-based 3D printing in cold environments The paste’s temperature-dependent rheological properties were characterised, and the underlying mechanism was explored. At room temperature, the modified paste presents similar rheological properties as the reference cement paste. After resting for 10 min at 5 ◦C, the modified cement paste has a yield stress of 1900 Pa which is 10 times that of the reference paste. Moreover, the mechanical properties of the modified paste are comparable to or higher than that of the reference paste at later age. Our approach may inspire a facile manipulation of paste rheology through temperature, which facilitates smartly controlled 3D concrete printings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -81,12 +57,40 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zuo_tao_cort.2024.ERoCTDDLSOS3PBoITI/">Experimental Research of Concrete Temperature-Distribution During Large-Scale On-Site 3D Printing Based on Infrared-Thermal-Imaging</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/dominicus_randy"><b>Dominicus</b> Randy</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../sun_domi_dong_li.2024.PtSDo3PCCtSEoCTaH/">Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity:<br/>From Perspective of Modified Maturity-Model</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zhan_ren_dai_tao.2024.APARCAf3PCBM/">A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials:<br/>Coupling of Temperature and Viscosity-Modifiers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qu_yu_ong_card.2023.3PCCTRG,
+      author            = "Zhengyao Qu and Qingliang Yu and Ghim Ping Ong and Ruth Cardinaels and Lin Ke and Yi Long and Guoqing Geng",
+      title             = "3D Printing Concrete Containing Thermal Responsive Gelatin: Towards Cold Environment Applications",
+      doi               = "10.1016/j.cemconcomp.2023.105029",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Qu, “3D Printing Concrete Containing Thermal Responsive Gelatin: Towards Cold Environment Applications”, <i>Cement and Concrete Composites</i>, 2023, doi: 10.1016/j.cemconcomp.2023.105029.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qu, Zhengyao, Qingliang Yu, Ghim Ping Ong, Ruth Cardinaels, Lin Ke, Yi Long, and Guoqing Geng. “3D Printing Concrete Containing Thermal Responsive Gelatin: Towards Cold Environment Applications”. <i>Cement and Concrete Composites</i>, 2023. https://doi.org/10.1016/j.cemconcomp.2023.105029.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Patrick Bischof, Jaime Mata-Falcón, Walter Kaufmann
+    - footer
+title: Bischof Patrick, Mata-Falcón Jaime, Kaufmann Walter
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2022.106948) Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106948" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106948</a>
+#Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete ([2022-08](date/2022/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2022.106948) <a href="https://doi.org/10.1016/j.cemconres.2022.106948" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106948" target="_blank">10.1016/j.cemconres.2022.106948</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3032-5482" title="ORCID: 0000-0003-3032-5482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bischof_patrick"><b>Bischof</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaufmann_walter"><b>Kaufmann</b>&nbsp;Walter</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 161
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a> <a href="https://orcid.org/0000-0003-3032-5482" title="ORCID: 0000-0003-3032-5482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 161, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#innovation`](keyword/innovation)
-    [`#mass`](keyword/mass)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/mass"><button class="btn">#mass</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fostering%20Innovative%20and%20Sustainable%20Mass-Market%20Construction%20Using%20Digital%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137154194&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,25 +37,19 @@ tags:
 <a href="https://inciteful.xyz/p/W4293799899" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106948" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106948?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry produces buildings and infrastructure. These construction works are typically immobile and customised, and must meet many criteria to provide value to modern society: structural safety, durability, serviceability, aesthetics and integration, environmental sustainability and construction efficiency. Accordingly, traditional construction methods, along with the resulting construction works, have been adapted to comply with these multifaceted requirements for more than a century. However, the construction industry has a considerable environmental impact, with reinforced concrete as its primary driver due to its extensive use, and will be facing an ever-increasing responsibility to tackle climate neutrality in the upcoming years. Digital fabrication with concrete is a young yet already broad discipline that brings about the potential for the necessary reduction of the environmental impact and further industrialisation of the construction industry while being compatible with the multifaceted requirements for construction works. Still, it has not penetrated the construction mass market, which is paramount for making a significant difference towards improving the environmental impact of the construction industry. The present study tackles this issue by (i) assessing traditional construction and digital fabrication on a value-driven basis, identifying and summarising their inherent strengths and challenges, and (ii) proposing a value-driven ideation process to identify relevant mass-market levers of digital fabrication in the construction industry. The presented methodology indicates two exemplary applications of how traditional construction and digital fabrication processes can be combined to tackle the persistent environmental sustainability challenges.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "55 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
-      <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/nasbom_andreas"><b>Näsbom</b> Andreas</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bisc_mata_amma_nasb.2022.DFWItRMRiCS/">Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures</a></li>
-      <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
@@ -91,7 +69,6 @@ tags:
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/hansemann_georg"><b>Hansemann</b> Georg</a>, <a href="../../../author/schmid_robert"><b>Schmid</b> Robert</a>, <a href="../../../author/holzinger_christoph"><b>Holzinger</b> Christoph</a>, <a href="../../../author/tapley_paul_joshua"><b>Tapley</b> Joshua</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hans_schm_holz_tapl.2020.AFoCEbR/">Additive Fabrication of Concrete Elements by Robots:<br/>Lightweight Concrete Ceiling</a></li>
-      <li><a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../hube_burg_mata_kauf.2023.SDaToMORRSw3PF/">Structural Design and Testing of Material-Optimized Ribbed RC Slabs with 3D Printed Formwork</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../jipa_meib_gies_sham.2018.3PFfPCS/">3D Printed Formwork for Prefabricated Concrete Slabs</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
@@ -106,7 +83,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
-      <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mata_bisc_hube_anto.2022.DFRCFS/">Digitally Fabricated Ribbed Concrete Floor Slabs:<br/>A Sustainable Solution for Construction</a></li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../mata_bisc_kauf.2019.EtPoDFfSaECS/">Exploiting the Potential of Digital Fabrication for Sustainable and Economic Concrete Structures</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
@@ -124,8 +100,9 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/provis_lloyd_john"><b>Provis</b> John</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../xu_kola_prov_dobr.2022.AEToM3PCG/">An Early Trial on Milling 3D Printed Concrete Geometries:<br/>Observations and Insights of the Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../oztu_borg_ince.2026.3PitCS/">3D Printing in the Construction Sector:<br/>Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
@@ -146,8 +123,34 @@ tags:
       <li><a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../hube_burg_mata_kauf.2023.SDaToMORRSw3PF/">Structural Design and Testing of Material-Optimized Ribbed RC Slabs with 3D Printed Formwork</a></li>
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/nasbom_andreas"><b>Näsbom</b> Andreas</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bisc_mata_amma_nasb.2022.DFWItRMRiCS/">Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures</a></li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mata_bisc_hube_anto.2022.DFRCFS/">Digitally Fabricated Ribbed Concrete Floor Slabs:<br/>A Sustainable Solution for Construction</a></li>
-      <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bisc_mata_burg_kauf.2022.DFKCC/">Digitally Fabricated Keyed Concrete Connections</a></li>
-      <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gebh_bisc_anto_mata.2022.PIRf3CP/">Pre-Installed Reinforcement for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bisc_mata_kauf.2022.FIaSMMCUDFwC,
+      author            = "Patrick Bischof and Jaime Mata-Falcón and Walter Kaufmann",
+      title             = "Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete",
+      doi               = "10.1016/j.cemconres.2022.106948",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "161",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Bischof, J. Mata-Falcón and W. Kaufmann, “Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete”, <i>Cement and Concrete Research</i>, vol. 161, 2022, doi: 10.1016/j.cemconres.2022.106948.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bischof, Patrick, Jaime Mata-Falcón, and Walter Kaufmann. “Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete”. <i>Cement and Concrete Research</i> 161 (2022). https://doi.org/10.1016/j.cemconres.2022.106948.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

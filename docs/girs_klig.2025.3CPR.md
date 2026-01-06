@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Giedrius Girskas, Modestas Kligys
+    - footer
+title: Girskas Giedrius, Kligys Modestas
 description:
 tags:
  - concrete
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/12/2049/pdf) 3D Concrete Printing Review:<br/>:aca-blank: Equipment, Materials, Mix Design, and Properties ([2025-06](date/2025/06))
-<a href="https://doi.org/10.3390/buildings15122049" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15122049</a>
+#3D Concrete Printing Review&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Equipment, Materials, Mix Design, and Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/12/2049/pdf) <a href="https://doi.org/10.3390/buildings15122049" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15122049" target="_blank">10.3390/buildings15122049</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1200-635X" title="ORCID: 0000-0002-1200-635X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/girskas_giedrius"><b>Girskas</b>&nbsp;Giedrius</a></span>, <a href="../../../author/kligys_modestas"><b>Kligys</b>&nbsp;Modestas</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 12, No. 2049
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a> <a href="https://orcid.org/0000-0002-1200-635X" title="ORCID: 0000-0002-1200-635X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 12, No. 2049
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#equipment`](keyword/equipment)
-    [`#material`](keyword/material)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/equipment"><button class="btn">#equipment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Review" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008941291&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411353572" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15122049" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15122049?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) technology holds significant potential to revolutionise traditional concrete production methods, offering designers and architects greater flexibility in creating intricate and innovative structures. Beyond structural applications, 3D printed concrete products encompass decorative elements, customised design solutions, and even artistic installations. The 3DCP process is highly automated, often integrating building information modelling (BIM) systems, minimising the need for manual labour and generating minimal material waste. 3DCP is regarded as one of the most advanced and efficient methods for fabricating concrete components in the future. This paper examines 3DCP technology and equipment, focusing on the selection of binder types, aggregates, and chemical admixtures, suitable for printable concrete mixes. Particular attention is given to the consistency and workability of 3DCP mixtures. Furthermore, the study evaluates the influence of 3D printing parameters on the mechanical properties of hardened concrete. The insights presented in this review contribute to a deeper understanding of 3D concrete printing technologies, equipment, and materials, benefiting researchers, structural engineers, and designers in the pursuit of enhanced durability and performance of 3D printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "83 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -149,11 +130,43 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
       <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/perez_banda_pablo"><b>Perez</b> Pablo</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>, <a href="../../../author/valenzuela_rozas_sebastian"><b>Valenzuela</b> Sebastián</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_pere_alva_vale.2025.3PoSD/">3D Printing of Surrealist Dreams:<br/>Constraints, Failures, and Craftsmanship in 1:1 Digital Fabrication</a></li>
       <li><a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b> Olexander</a>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b> Nina</a>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b> Stanislav</a>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b> Andrii</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P/">Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{girs_klig.2025.3CPR,
+      author            = "Giedrius Girskas and Modestas Kligys",
+      title             = "3D Concrete Printing Review: Equipment, Materials, Mix Design, and Properties",
+      doi               = "10.3390/buildings15122049",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "12",
+      pages             = "2049",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Girskas  and M. Kligys, “3D Concrete Printing Review: Equipment, Materials, Mix Design, and Properties”, <i>Buildings</i>, vol. 15, no. 12, p. 2049, 2025, doi: 10.3390/buildings15122049.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Girskas, Giedrius, and Modestas Kligys. “3D Concrete Printing Review: Equipment, Materials, Mix Design, and Properties”. <i>Buildings</i> 15, no. 12 (2025): 2049. https://doi.org/10.3390/buildings15122049.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

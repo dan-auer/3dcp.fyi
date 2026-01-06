@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Omar Flor-Unda, Carlos Toapanta, Mauricio Fuentes, Mario Rivera
+    - footer
+title: Flor-Unda Omar, Toapanta Carlos, Fuentes Mauricio, Rivera Mario
 description:
 tags:
  - additive
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.cell.com/heliyon/pdf/S2405-8440(25)01954-1.pdf) Additive Manufacturing Technologies:<br/>:aca-blank: Advances for the Construction Industry ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.heliyon.2025.e43568" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.heliyon.2025.e43568</a>
+#Additive Manufacturing Technologies&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Advances for the Construction Industry</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.cell.com/heliyon/pdf/S2405-8440(25)01954-1.pdf) <a href="https://doi.org/10.1016/j.heliyon.2025.e43568" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2025.e43568" target="_blank">10.1016/j.heliyon.2025.e43568</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3455-5982" title="ORCID: 0000-0002-3455-5982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b>&nbsp;Omar</a></span>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b>&nbsp;Carlos</a></span>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b>&nbsp;Mauricio</a></span>, <a href="../../../author/rivera_mario"><b>Rivera</b>&nbsp;Mario</a></span><br>
+Journal Article - Heliyon, Vol. 11, Iss. 12, No. e43568
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a> <a href="https://orcid.org/0000-0002-3455-5982" title="ORCID: 0000-0002-3455-5982" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>
-,     <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>
-,     <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Heliyon, Vol. 11, Iss. 12, No. e43568
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009427061&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411923346" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.heliyon.2025.e43568" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.heliyon.2025.e43568?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent decades, additive manufacturing technologies have revolutionized the construction industry by improving operational efficiency, sustainability, housing quality, and design and material flexibility while ensuring higher levels of safety and durability through the use of automated systems. This article presents a Scoping Review of advances in additive manufacturing technologies developed for construction projects, highlighting the cinematic configurations, comparing capabilities, and describing types of materials and their applications in the manufacture of structural components. A review of the scientific literature was conducted according to the PRISMA methodology guidelines and included a selection of documents with a Cohen's coefficient of 0.463. A total of 52 relevant articles were obtained from the scientific databases of Scopus, Web of Science, ScienceDirect, IEEE Xplore, Taylor & Francis, and ProQuest. The use of new technologies in additive manufacturing has contributed to increased versatility, enabling smarter material utilization, greater design freedom, shorter manufacturing times, more sustainable processes, and improvements in the control, precision, and flexibility of construction processes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ashr_naza_meis_duar.2022.AGBAfTPG/">A Grammar-Based Algorithm for Tool-Path-Generation:<br/>Compensating for Material-Deformation in the Additive Manufacturing of Concrete</a></li>
@@ -71,7 +52,6 @@ tags:
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
-      <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
@@ -105,8 +85,38 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{flor_toap_fuen_rive.2025.AMT,
+      author            = "Omar Cristóbal Flor-Unda and Carlos Toapanta and Mauricio Fuentes and Mario Rivera",
+      title             = "Additive Manufacturing Technologies: Advances for the Construction Industry",
+      doi               = "10.1016/j.heliyon.2025.e43568",
+      year              = "2025",
+      journal           = "Heliyon",
+      volume            = "11",
+      number            = "12",
+      pages             = "e43568",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. C. Flor-Unda, C. Toapanta, M. Fuentes and M. Rivera, “Additive Manufacturing Technologies: Advances for the Construction Industry”, <i>Heliyon</i>, vol. 11, no. 12, p. e43568, 2025, doi: 10.1016/j.heliyon.2025.e43568.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Flor-Unda, Omar Cristóbal, Carlos Toapanta, Mauricio Fuentes, and Mario Rivera. “Additive Manufacturing Technologies: Advances for the Construction Industry”. <i>Heliyon</i> 11, no. 12 (2025): e43568. https://doi.org/10.1016/j.heliyon.2025.e43568.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

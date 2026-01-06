@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bjorn Haar, Jacques Kruger, Gideon Zijl
+    - footer
+title: Haar Bjorn, Kruger Jacques, Zijl Gideon
 description:
 tags:
  - concrete
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2023.104906) Off-Site Construction with 3D Concrete Printing ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.autcon.2023.104906" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.104906</a>
+#Off-Site Construction with 3D Concrete Printing ([2023-05](date/2023/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2023.104906) <a href="https://doi.org/10.1016/j.autcon.2023.104906" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104906" target="_blank">10.1016/j.autcon.2023.104906</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7132-8260" title="ORCID: 0000-0002-7132-8260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haar_bjorn"><b>ter&nbsp;Haar</b>&nbsp;Bjorn</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Automation in Construction, Vol. 152
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/haar_bjorn"><b>ter Haar</b> Bjorn</a> <a href="https://orcid.org/0000-0002-7132-8260" title="ORCID: 0000-0002-7132-8260" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 152, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#site`](keyword/site)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Off-Site%20Construction%20with%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159160568&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4381832761" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.104906" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104906?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The path to implementing successful, productive, and sustainable off-site 3D concrete printing building systems is unclear. To provide clarity, this paper aims to determine targeted actions for stakeholders in the construction industry. A systematic literature review and a bibliometric analysis are conducted to identify driver-barriers of Off-site Construction (OSC) and 3D Concrete Printing (3DCP). Thirty-four stakeholder-linked targeted actions are determined and divided into industry, organisational, project, and system levels. The findings indicate the success of off-site 3DCP building systems is not exclusively dependent on the system performance and a variety of actions are required from multiple stakeholders. This paper provides a theoretical foundation for practical actions and further research to implement off-site 3DCP building systems in local construction industries.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "91 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -150,8 +133,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>
       <li><a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b> Anies</a>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b> Leyla</a>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b> Reham</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../gnan_more_thab_rang.2026.CAoOVO3PiC/">Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction:<br/>Benefits, Challenges, and Case Studies</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
@@ -182,4 +165,33 @@ tags:
       <li><a href="../../../author/poldaru_mattias"><b>Põldaru</b> Mattias</a>, <a href="../../../author/tammkorv_karl"><b>Tammkõrv</b> Karl</a>, <a href="../../../author/tusik_tanel"><b>Tusik</b> Tanel</a>, <a href="../../../author/kiviste_mihkel"><b>Kiviste</b> Mihkel</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../pold_tamm_tusi_kivi.2023.TEoPDotSCoa3PCWS/">The Effect of Printing-Direction on the Strength Characteristics of a 3D Printed Concrete Wall-Section</a></li>
       <li><a href="../../../author/haar_bjorn"><b>Haar</b> Bjorn</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../haar_krug_zijl.2023.ASDSoaDCfBF/">A System-Development-Strategy of a Digital Construction for Building Frames</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{haar_krug_zijl.2023.OSCw3CP,
+      author            = "Bjorn ter Haar and Jacques Pienaar Kruger and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Off-Site Construction with 3D Concrete Printing",
+      doi               = "10.1016/j.autcon.2023.104906",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "152",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. ter Haar, J. P. Kruger and G. P. A. G. van Zijl, “Off-Site Construction with 3D Concrete Printing”, <i>Automation in Construction</i>, vol. 152, 2023, doi: 10.1016/j.autcon.2023.104906.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Haar, Bjorn ter, Jacques Pienaar Kruger, and Gideon Pieter Adriaan Greeff van Zijl. “Off-Site Construction with 3D Concrete Printing”. <i>Automation in Construction</i> 152 (2023). https://doi.org/10.1016/j.autcon.2023.104906.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

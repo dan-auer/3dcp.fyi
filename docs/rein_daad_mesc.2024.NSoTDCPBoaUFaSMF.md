@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Janis Reinold, Koussay Daadouch, Günther Meschke
+    - footer
+title: Reinold Janis, Daadouch Koussay, Meschke Günther
 description:
 tags:
  - base
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s11709-024-1082-2.pdf) Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1007/s11709-024-1082-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-024-1082-2</a>
+#Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s11709-024-1082-2.pdf) <a href="https://doi.org/10.1007/s11709-024-1082-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1082-2" target="_blank">10.1007/s11709-024-1082-2</a>
 
--------------------------
+<a href="../../../author/reinold_michel_janis"><b>Reinold</b>&nbsp;Janis</a></span>, <a href="../../../author/daadouch_koussay"><b>Daadouch</b>&nbsp;Koussay</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meschke_gunther"><b>Meschke</b>&nbsp;Günther</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>
-,     <a href="../../../author/daadouch_koussay"><b>Daadouch</b> Koussay</a>
-,     <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#fluid`](keyword/fluid)
-    [`#formulas`](keyword/formulas)
-    [`#mechanics`](keyword/mechanics)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-    [`#solid`](keyword/solid)
-    [`#three`](keyword/three)
-    [`#uniform`](keyword/uniform)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20of%20Three%20Dimensional%20Concrete%20Printing%20Based%20on%20a%20Unified%20Fluid%20and%20Solid%20Mechanics%20Formulation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194723565&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399246781" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-024-1082-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-024-1082-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Deformation control constitutes one of the main technological challenges in three dimensional (3D) concrete printing, and it presents a challenge that must be addressed to achieve a precise and reliable construction process. Model-based information of the expected deformations and stresses is required to optimize the construction process in association with the specific properties of the concrete mix. In this work, a novel thermodynamically consistent finite strain constitutive model for fresh and early-age 3D-printable concrete is proposed. The model is then used to simulate the 3D concrete printing process to assess layer shapes, deformations, forces acting on substrate layers and prognoses of possible structural collapse during the layer-by-layer buildup. The constitutive formulation is based on a multiplicative split of the deformation gradient into elastic, aging and viscoplastic parts, in combination with a hyperelastic potential and considering evolving material properties to account for structural buildup or aging. One advantage of this model is the stress-update-scheme, which is similar to that of small strain plasticity and therefore enables an efficient integration with existing material routines. The constitutive model uses the particle finite element method, which serves as the simulation framework, allowing for modeling of the evolving free surfaces during the extrusion process. Computational analyses of three printed layers are used to create deformation plots, which can then be used to control the deformations during 3D concrete printing. This study offers further investigations, on the structural level, focusing on the potential structural collapse of a 3D printed concrete wall. The capability of the proposed model to simulate 3D concrete printing processes across the scales—from a few printed layers to the scale of the whole printed structure—in a unified fashion with one constitutive formulation, is demonstrated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../chan_lian_xu_schl.2022.3CP/">3D Concrete Printing:<br/>Lattice Modeling of Structural Failure considering Damage and Deformed Geometry</a></li>
@@ -111,11 +86,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../yu_zhan_liew_yin.2026.SMFaEDi3CP/">Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../an_rahm_zhan_yang.2025.EoK3CPPPoLS/">Effects of Key 3D Concrete Printing Process Parameters on Layer Shape:<br/>Experimental Study and Smooth Particle Hydrodynamics Modelling</a></li>
       <li><a href="../../../author/daadouch_koussay"><b>Daadouch</b> Koussay</a>, <a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../daad_rein_mesc.2024.NSo3CP/">Numerical Simulation of 3D Concrete Printing:<br/>From the Layer- to the Structural-Scale</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rein_daad_mesc.2024.NSoTDCPBoaUFaSMF,
+      author            = "Janis Michel Reinold and Koussay Daadouch and Günther Meschke",
+      title             = "Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation",
+      doi               = "10.1007/s11709-024-1082-2",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. M. Reinold, K. Daadouch and G. Meschke, “Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-024-1082-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reinold, Janis Michel, Koussay Daadouch, and Günther Meschke. “Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-024-1082-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

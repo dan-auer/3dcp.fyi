@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jolien Putten, M. Azima, Philip Heede, T. Mullem, Didier Snoeck, Chiara Carminati, J. Hovind, Pavel Trtik, Geert Schutter, Kim Tittelboom
+    - footer
+title: Putten Jolien, Azima M., Heede Philip, Mullem T., Snoeck Didier, Carminati Chiara, Hovind J., Trtik Pavel, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - cement
@@ -16,38 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.119587" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.119587</a>
+#Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering ([2020-06](date/2020/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.119587" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119587" target="_blank">10.1016/j.conbuildmat.2020.119587</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <a href="../../../author/azima_m"><b>Azima</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1307-2831" title="ORCID: 0000-0003-1307-2831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heede_philip"><b>van den&nbsp;Heede</b>&nbsp;Philip</a></span>, <a href="../../../author/mullem_t"><b>van&nbsp;Mullem</b>&nbsp;T.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9427-6312" title="ORCID: 0000-0001-9427-6312" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snoeck_didier"><b>Snoeck</b>&nbsp;Didier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1155-5752" title="ORCID: 0000-0002-1155-5752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carminati_chiara"><b>Carminati</b>&nbsp;Chiara</a></span>, <a href="../../../author/hovind_j"><b>Hovind</b>&nbsp;J.</a></span>, <a href="../../../author/trtik_pavel"><b>Trtik</b>&nbsp;Pavel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 258
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/putten_jolien"><b>van der Putten</b> Jolien</a> <a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/azima_m"><b>Azima</b> M.</a>
-,     <a href="../../../author/heede_philip"><b>van den Heede</b> Philip</a> <a href="https://orcid.org/0000-0003-1307-2831" title="ORCID: 0000-0003-1307-2831" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mullem_t"><b>van Mullem</b> T.</a>
-,     <a href="../../../author/snoeck_didier"><b>Snoeck</b> Didier</a> <a href="https://orcid.org/0000-0001-9427-6312" title="ORCID: 0000-0001-9427-6312" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/carminati_chiara"><b>Carminati</b> Chiara</a> <a href="https://orcid.org/0000-0002-1155-5752" title="ORCID: 0000-0002-1155-5752" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hovind_j"><b>Hovind</b> J.</a>
-,     <a href="../../../author/trtik_pavel"><b>Trtik</b> Pavel</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 258, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#continuous`](keyword/continuous)
-    [`#ingress`](keyword/ingress)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/ingress"><button class="btn">#ingress</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Neutron-Radiography%20to%20Study%20the%20Water-Ingress%20via%20the%20Inter-Layer%20of%203D%20Printed%20Cementitious%20Materials%20for%20Continuous%20Layering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085620959&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3029677890" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.119587" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.119587?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious materials is a developing technology in which structural elements are built via a layer-by-layer process. Among the many advantages of this technique, it is expected to lead to more sustainable structures due to a reduced waste generation and more efficient structural design, placing materials only where needed. However, the end result of this technique is a layered and anisotropic element, having a structural performance which is highly dependent on the quality of the interlayers. Also, the lack of moulding will induce more shrinkage resulting in an increased risk for crack formation. Both phenomena will not only endanger the structural behaviour of the printed specimen, also the durability will be affected in a negative way as cracks create preferential ingress paths for aggressive substances. Within the scope of this research, the transport of water through a printed element with short interlayer time gap (±15 s) is investigated, taking into account different printing speeds and different water ingress directions. To counteract shrinkage, the addition of superabsorbent polymers to the matrix is also investigated. The water transport was visualised by means of neutron radiography measurements and evaluated through quantitative and qualitative analysis of the obtained radiographs. In this study, upon continuous layering of the printed specimens, qualitative observations revealed no preferential water ingress through the interlayer when introducing water from the front surface. In all cases, increasing the printing speed decreases the water uptake ability. The addition of superabsorbent polymers has the opposite effect and increases the water uptake and uptake speed in systems with additional water to compensate for the loss in workability and showing the same effective water-to-cement ratio.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
@@ -84,14 +56,13 @@ tags:
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "51 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
       <li><a href="../../../author/kaur_zinnia"><b>Kaur</b> Zinnia</a>, <a href="../../../author/goyal_shweta"><b>Goyal</b> Shweta</a>, <a href="../../../author/kwatra_naveen"><b>Kwatra</b> Naveen</a>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b> Tarun</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB/">Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
@@ -144,4 +115,33 @@ tags:
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../putt_vold_heed_schu.2020.3PoC/">3D Printing of Concrete:<br/>The Influence on Chloride Penetration</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{putt_azim_heed_mull.2020.NRtStWIvtILo3PCMfCL,
+      author            = "Jolien van der Putten and M. Azima and Philip van den Heede and T. van Mullem and Didier Snoeck and Chiara Carminati and J. Hovind and Pavel Trtik and Geert de Schutter and Kim van Tittelboom",
+      title             = "Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering",
+      doi               = "10.1016/j.conbuildmat.2020.119587",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "258",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. van der Putten, “Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering”, <i>Construction and Building Materials</i>, vol. 258, 2020, doi: 10.1016/j.conbuildmat.2020.119587.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Putten, Jolien van der, M. Azima, Philip van den Heede, T. van Mullem, Didier Snoeck, Chiara Carminati, J. Hovind, Pavel Trtik, Geert de Schutter, and Kim van Tittelboom. “Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering”. <i>Construction and Building Materials</i> 258 (2020). https://doi.org/10.1016/j.conbuildmat.2020.119587.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

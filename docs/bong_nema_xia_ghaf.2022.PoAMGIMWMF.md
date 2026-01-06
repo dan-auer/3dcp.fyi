@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shin Bong, Behzad Nematollahi, Ming Xia, Seyed Ghaffar, Jinlong Pan, Jian-Guo Dai
+    - footer
+title: Bong Shin, Nematollahi Behzad, Xia Ming, Ghaffar Seyed, Pan Jinlong, Dai Jian-Guo
 description:
 tags:
  - additive
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127282" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127282</a>
+#Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127282" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127282" target="_blank">10.1016/j.conbuildmat.2022.127282</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bong_hau_shin"><b>Bong</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9904-7914" title="ORCID: 0000-0001-9904-7914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_jian-guo"><b>Dai</b>&nbsp;Jian-Guo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 331, No. 127282
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> <a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_jian-guo"><b>Dai</b> Jian-Guo</a> <a href="https://orcid.org/0000-0001-9904-7914" title="ORCID: 0000-0001-9904-7914" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 331, No. 127282
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#fiber`](keyword/fiber)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#incorporation`](keyword/incorporation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#micro`](keyword/micro)
-    [`#mineral`](keyword/mineral)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%20Additively%20Manufactured%20Geopolymer%20Incorporating%20Mineral-Wollastonite-Micro-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127309422&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225838770" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127282" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127282?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Integration of reinforcement in the 3D concrete printing (3DCP) process is a major challenge. As a possible solution, the addition of short synthetic/metallic fibers directly to a fresh mixture before extrusion has been investigated in previous studies. However, the use of natural/inorganic microfibers such as wollastonite as reinforcement for 3DCP has received less attention. Wollastonite is substantially cheaper and more environmentally friendly than synthetic/metallic fibers. To fill this knowledge gap, this study reports a systematic approach to enhance the flexural strength of a 3D-printed geopolymer by the addition of wollastonite microfiber. The effect of different replacement levels of wollastonite (0, 5, 10, 15, 20, and 30% by weight of sand) on setting time and mechanical properties of several mixtures were evaluated to identify the optimum wollastonite content. The printing performances, rheological properties, and mechanical strengths of the optimum mixture were then evaluated and compared with the control mixture (without wollastonite). The results showed that at 10% replacement level, the static yield stress and thixotropy property of the mixture were enhanced, which is desirable for the superior printability of the mixture. In addition, the flexural strength of the mixture incorporating 10% wollastonite was superior to the control mixture, whereas the compressive strength was not changed. The use of mineral wollastonite microfibers as a low-cost and environmentally friendly reinforcement for 3DCP is experimentally established in this study.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bong_nema_arun_xia.2020.EoWMFAoPo3PJAWG/">Effect of Wollastonite Micro-Fiber Addition on Properties of 3D Printable ‘Just-Add-Water’ Geopolymers</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -90,8 +66,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../xiao_zou_ding_duan.2021.FRMw1RFA/">Fiber-Reinforced Mortar with 100% Recycled Fine Aggregates:<br/>A Cleaner Perspective on 3D Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a>, <a href="../../../author/baliakas_dimitrios"><b>Baliakas</b> Dimitrios</a>, <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pema_bali_pech_stef.2025.MPoBPMwBAfGaSC/">Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction</a></li>
       <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/qifeng_lyu"><b>Qifeng</b> Lyu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_sing_wang_qife.2025.3PAiC/">3D-Printed Application in Concretes</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
@@ -117,4 +93,34 @@ tags:
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../noai_ghaf_chou_khee.2023.ARo3PLCCwOPG/">A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer:<br/>Engineering, Environmental and Economic Feasibility</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bong_nema_xia_ghaf.2022.PoAMGIMWMF,
+      author            = "Shin Hau Bong and Behzad Nematollahi and Ming Xia and Seyed Hamidreza Ghaffar and Jinlong Pan and Jian-Guo Dai",
+      title             = "Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers",
+      doi               = "10.1016/j.conbuildmat.2022.127282",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "331",
+      pages             = "127282",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Bong, B. Nematollahi, M. Xia, S. H. Ghaffar, J. Pan and J.-G. Dai, “Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers”, <i>Construction and Building Materials</i>, vol. 331, p. 127282, 2022, doi: 10.1016/j.conbuildmat.2022.127282.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bong, Shin Hau, Behzad Nematollahi, Ming Xia, Seyed Hamidreza Ghaffar, Jinlong Pan, and Jian-Guo Dai. “Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers”. <i>Construction and Building Materials</i> 331 (2022): 127282. https://doi.org/10.1016/j.conbuildmat.2022.127282.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

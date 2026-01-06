@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anguo Chen, Pengfei Dai, Qifeng Lyu
+    - footer
+title: Chen Anguo, Dai Pengfei, Lyu Qifeng
 description:
 tags:
  - cement
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1089/3dp.2023.0160" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2023.0160</a>
+#Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1089/3dp.2023.0160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0160" target="_blank">10.1089/3dp.2023.0160</a>
 
--------------------------
+<a href="../../../author/chen_anguo"><b>Chen</b>&nbsp;Anguo</a></span>, <a href="../../../author/dai_pengfei"><b>Dai</b>&nbsp;Pengfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a>
-,     <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>
-,     <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#dimension`](keyword/dimension)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Alkalized%20Straw-Fibers%20on%20the%20Properties%20of%20Three%20Dimensional%20Printed%20Cementitious%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013487003&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396670511" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2023.0160" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2023.0160?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of plant fibers instead of commercial fibers in building materials is environmentally sustainable. Here in this work, the alkalized straw fibers were introduced into the 3D printed cementitious composite to investigate their effect on the properties of the printed composite. The flowability, buildability, and mechanical strengths of the printed composite were tested, and the internal pore distribution was analyzed by X-ray computed tomography. In addition, the straw fibers and printed specimens were tested by X-ray diffraction and scanning electron microscopy. Results showed that, with the increase of straw-fiber content, the flowability of the composites gradually decreased, and the buildability and mechanical strengths first decreased and then increased. Alkaline treatment can improve the crystallinity of cellulose in straw fibers, reduce water absorption, and enhance the bonding performance with the mortar interface. Therefore, compared with the natural-straw-fiber group, the flowability, buildability, and mechanical properties of the alkalized-straw-fiber composites were improved. Specifically, when the content of alkalized straw fiber was 0.4%, the 28 days flexural strength of the fiber alkalized group increased by about 12.6% compared with the natural-straw-fiber group. Microscopically, alkaline straw fibers have better energy absorption and load transfer capabilities inside the composite material, enhancing the toughness of the specimen. Overall, the incorporation of alkalized straw fibers into 3D printed cementitious composites showed better printing, mechanical, and environmental benefits.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP/">Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste</a></li>
@@ -97,8 +76,36 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC/">Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/chen_dongjian"><b>Chen</b> Dongjian</a>, <a href="../../../author/liu_shiyuan"><b>Liu</b> Shiyuan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF/">Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_dai_lyu.2024.EoASFotPoTDPCC,
+      author            = "Anguo Chen and Pengfei Dai and Qifeng Lyu",
+      title             = "Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite",
+      doi               = "10.1089/3dp.2023.0160",
+      year              = "2024",
+      journal           = "3D Printing and Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Chen, P. Dai and Q. Lyu, “Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite”, <i>3D Printing and Additive Manufacturing</i>, 2024, doi: 10.1089/3dp.2023.0160.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Anguo, Pengfei Dai, and Qifeng Lyu. “Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite”. <i>3D Printing and Additive Manufacturing</i>, 2024. https://doi.org/10.1089/3dp.2023.0160.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

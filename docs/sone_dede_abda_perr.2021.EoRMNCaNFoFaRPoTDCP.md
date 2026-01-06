@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammed Sonebi, Marie Dedenis, Ahmed Abdalqader, Arnaud Perrot
+    - footer
+title: Sonebi Mohammed, Dedenis Marie, Abdalqader Ahmed, Perrot Arnaud
 description:
 tags:
  - clay
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Red Mud, Nano-Clay, and Natural Fiber on Fresh and Rheological Properties of Three-Dimensional Concrete Printing ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733108" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733108</a>
+#Effect of Red Mud, Nano-Clay, and Natural Fiber on Fresh and Rheological Properties of Three-Dimensional Concrete Printing ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733108" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733108" target="_blank">10.14359/51733108</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <a href="../../../author/dedenis_marie"><b>Dedenis</b>&nbsp;Marie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6097-6150" title="ORCID: 0000-0001-6097-6150" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b>&nbsp;Ahmed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 97-110
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>
-,     <a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b> Ahmed</a> <a href="https://orcid.org/0000-0001-6097-6150" title="ORCID: 0000-0001-6097-6150" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 97-110
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#natural`](keyword/natural)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Red%20Mud%2C%20Nano-Clay%2C%20and%20Natural%20Fiber%20on%20Fresh%20and%20Rheological%20Properties%20of%20Three-Dimensional%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121617639&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4232228850" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733108" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733108?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing, also known as additive manufacturing, is a revolutionary technique, which recently has gained a growing interest in the field of civil engineering and the construction industry. Despite being in its infancy, 3D concrete printing is believed to reshape the future of the construction industry because it has the potential to significantly reduce both the cost and time of construction. For example, savings between 35 and 60% of the overall cost of construction can be achieved by using this technique due to the possibility of relinquishing the formwork. Moreover, this innovation would free up the architectural gesture by offering a wider possibility of shapes. However, key challenges should be addressed to make this technique commercially viable. The effect of mixture composition on the rheological properties of the printed concrete/mortar is vital and should be thoroughly investigated. This paper investigates the effect of using red mud, nanoclay, and natural fibers on the fresh and rheological properties of 3D-printed mortar. The rheological properties were evaluated using the penetrometer test, flow table test, and cylindrical slump test. The estimated yield stress values were then calculated based on the cylindrical slump test. Further, relationships between the tested parameters were established. The main findings of this study indicate that the use of an optimum dosage of a nanoclay was beneficial to attain the required cohesion, stability, and constructability of the printed mortar. The use of natural fibers reduced pulp flow by improving cohesion with a denser fiber network and reducing the cracks. With respect to red mud, it may be appropriate for printable mortar, but more testing is still required to optimize its use in a printable mixture. A printability box to define the suitability of mixtures for 3D printing was also established for these mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -86,8 +61,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_rang.2019.3PiC/">3D Printing in Concrete:<br/>Techniques for Extrusion-Casting</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
@@ -115,4 +90,35 @@ tags:
       <li><a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b> Ahmed</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../abda_sone_dede_amzi.2022.MPo3PCCFAMaNC/">Mechanical Performance of 3D Printed Concrete Containing Fly-Ash, Metakaolin and Nano-Clay</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rous_busw_duco_ivan.2022.AtFPoPCBM/">Assessing the Fresh Properties of Printable Cement-Based Materials:<br/>High-Potential Tests for Quality-Control</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sone_dede_abda_perr.2021.EoRMNCaNFoFaRPoTDCP,
+      author            = "Mohammed Sonebi and Marie Dedenis and Ahmed Abdalqader and Arnaud Perrot",
+      title             = "Effect of Red Mud, Nano-Clay, and Natural Fiber on Fresh and Rheological Properties of Three-Dimensional Concrete Printing",
+      doi               = "10.14359/51733108",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "97--110",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sonebi, M. Dedenis, A. Abdalqader and A. Perrot, “Effect of Red Mud, Nano-Clay, and Natural Fiber on Fresh and Rheological Properties of Three-Dimensional Concrete Printing”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 97–110, 2021, doi: 10.14359/51733108.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sonebi, Mohammed, Marie Dedenis, Ahmed Abdalqader, and Arnaud Perrot. “Effect of Red Mud, Nano-Clay, and Natural Fiber on Fresh and Rheological Properties of Three-Dimensional Concrete Printing”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 97–110. https://doi.org/10.14359/51733108.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xinrui Yang, Othman Lakhal, Abdelkader Belarouci, Kamal Youcef-Toumi, Rochdi Merzouki
+    - footer
+title: Yang Xinrui, Lakhal Othman, Belarouci Abdelkader, Youcef-Toumi Kamal, Merzouki Rochdi
 description:
 tags:
  - automation
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Workflow Implementation for Automatic Detection of Filament-Deviation in 3D Robotic Printing Process ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1109/icra48891.2023.10161457" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/icra48891.2023.10161457</a>
+#Experimental Workflow Implementation for Automatic Detection of Filament-Deviation in 3D Robotic Printing Process ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/icra48891.2023.10161457" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/icra48891.2023.10161457" target="_blank">10.1109/icra48891.2023.10161457</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7841-4321" title="ORCID: 0000-0002-7841-4321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_xinrui"><b>Yang</b>&nbsp;Xinrui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakhal_othman"><b>Lakhal</b>&nbsp;Othman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belarouci_abdelkader"><b>Belarouci</b>&nbsp;Abdelkader</a></span>, <a href="../../../author/youcef-toumi_kamal"><b>Youcef-Toumi</b>&nbsp;Kamal</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/merzouki_rochdi"><b>Merzouki</b>&nbsp;Rochdi</a></span><br>
+Contribution - 2023 IEEE International Conference on Robotics and Automation, pp. 12309-12315
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a> <a href="https://orcid.org/0000-0002-7841-4321" title="ORCID: 0000-0002-7841-4321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a> <a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a> <a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youcef-toumi_kamal"><b>Youcef-Toumi</b> Kamal</a>
-,     <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 2023 IEEE International Conference on Robotics and Automation, pp. 12309-12315
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#detection`](keyword/detection)
-    [`#deviation`](keyword/deviation)
-    [`#experiment`](keyword/experiment)
-    [`#filament`](keyword/filament)
-    [`#implementation`](keyword/implementation)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#robot`](keyword/robot)
-    [`#workflow`](keyword/workflow)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/deviation"><button class="btn">#deviation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Workflow%20Implementation%20for%20Automatic%20Detection%20of%20Filament-Deviation%20in%203D%20Robotic%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85168658718&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383109254" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/icra48891.2023.10161457" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/icra48891.2023.10161457?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic 3D Concrete Printing (3DCP) is a process of additive manufacturing using building materials. The system that performs 3DCP is a complex system consisting of multiple parts that are independent of each other. However, conventional 3DCP workflows usually lack automatic monitoring of print quality which can be easily affected for various reasons. This paper proposes an integrated workflow of automatic detection of filament deviation in a 3DCP process. The deformation of the filament is adopted as the criterion for print quality evaluation. A Deep Learning-morphology-based filament width estimation method is developed, and a filament deviation detection algorithm with presence of parametric uncertainties is proposed. This workflow allows to detect width deviations in the printed filament by considering several parameters of the printing system. The integrated workflow is implemented and tested through on-site printing tests.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -86,8 +61,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM/">Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{yang_lakh_bela_youc.2023.EWIfADoFDi3RPP,
+      author            = "Xinrui Yang and Othman Lakhal and Abdelkader Belarouci and Kamal Youcef-Toumi and Rochdi Merzouki",
+      title             = "Experimental Workflow Implementation for Automatic Detection of Filament-Deviation in 3D Robotic Printing Process",
+      doi               = "10.1109/icra48891.2023.10161457",
+      year              = "2023",
+      pages             = "12309--12315",
+      booktitle         = "2023 IEEE International Conference on Robotics and Automation",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Yang, O. Lakhal, A. Belarouci, K. Youcef-Toumi and R. Merzouki, “Experimental Workflow Implementation for Automatic Detection of Filament-Deviation in 3D Robotic Printing Process”, in <i>2023 IEEE International Conference on Robotics and Automation</i>,  2023, pp. 12309–12315. doi: 10.1109/icra48891.2023.10161457.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Xinrui, Othman Lakhal, Abdelkader Belarouci, Kamal Youcef-Toumi, and Rochdi Merzouki. “Experimental Workflow Implementation for Automatic Detection of Filament-Deviation in 3D Robotic Printing Process”. In <i>2023 IEEE International Conference on Robotics and Automation</i>, 12309–15, 2023. https://doi.org/10.1109/icra48891.2023.10161457.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

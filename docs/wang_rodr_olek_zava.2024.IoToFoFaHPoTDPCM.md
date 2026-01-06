@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Wang, Fabian Rodriguez, Jan Olek, Pablo Zavattieri, Jeffrey Youngblood
+    - footer
+title: Wang Yu, Rodriguez Fabian, Olek Jan, Zavattieri Pablo, Youngblood Jeffrey
 description:
 tags:
  - cement
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars ([2023-11](date/2023/11))
-<a href="https://doi.org/10.14359/51740263" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51740263</a>
+#Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51740263" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740263" target="_blank">10.14359/51740263</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yu"><b>Wang</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b>&nbsp;Fabian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span><br>
+Journal Article - ACI Materials Journal
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a> <a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#dimension`](keyword/dimension)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#influence`](keyword/influence)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#three`](keyword/three)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Type%20of%20Fibers%20on%20Fresh%20and%20Hardened%20Properties%20of%20Three-Dimensional-Printed%20Cementitious%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190846953&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392749645" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51740263" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51740263?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Reinforcing strategies for three-dimensional printing (3DP) of cementitious materials (mostly mortars) have been extensively studied in recent years. Among various reinforcement strategies available for 3DP cementitious materials, the use of fibers is frequently mentioned as a promising approach to enhance their mechanical performance. This work aims to evaluate the influence of four types of fibers (PVA, nylon, rayon, and basalt) on the flowability and flexural strength of mortars used in 3DP. The flexural behavior of 3DP beams was compared with that of cast specimens, and the digital image correlation (DIC) technique was used to evaluate the development of the cracks. The fiber orientation in the reference (cast) and 3DP samples was examined using optical microscopy. The results revealed that, among the four types of fibers used, the PVA fibers were most effective in increasing the flexural strength of both the cast and 3D printed specimens. In addition, the results show that all fibers preferentially aligned parallel to the printing direction. 3DP specimens with filaments aligned in the direction perpendicular to the direction of the applied load showed superior flexural strength when compared to the cast specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>
@@ -103,7 +77,35 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM,
+      author            = "Yu Wang and Fabian B. Rodriguez and Jan Olek and Pablo D. Zavattieri and Jeffrey P. Youngblood",
+      title             = "Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars",
+      doi               = "10.14359/51740263",
+      year              = "2024",
+      journal           = "ACI Materials Journal",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, F. B. Rodriguez, J. Olek, P. D. Zavattieri and J. P. Youngblood, “Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars”, <i>ACI Materials Journal</i>, 2024, doi: 10.14359/51740263.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yu, Fabian B. Rodriguez, Jan Olek, Pablo D. Zavattieri, and Jeffrey P. Youngblood. “Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars”. <i>ACI Materials Journal</i>, 2024. https://doi.org/10.14359/51740263.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

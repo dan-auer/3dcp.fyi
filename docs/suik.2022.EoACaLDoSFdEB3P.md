@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Akke Suiker
+    - footer
+title: Suiker Akke
 description:
 tags:
  - accelerator
@@ -18,31 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2021.106586) Effect of Accelerated Curing and Layer Deformations on Structural Failure During Extrusion-Based 3D Printing ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106586" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106586</a>
+#Effect of Accelerated Curing and Layer Deformations on Structural Failure During Extrusion-Based 3D Printing ([2021-11](date/2021/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2021.106586) <a href="https://doi.org/10.1016/j.cemconres.2021.106586" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106586" target="_blank">10.1016/j.cemconres.2021.106586</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9960-3666" title="ORCID: 0000-0002-9960-3666" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/suiker_s-j_akke"><b>Suiker</b>&nbsp;Akke</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 151
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="https://orcid.org/0000-0002-9960-3666" title="ORCID: 0000-0002-9960-3666" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 151, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#base`](keyword/base)
-    [`#cure`](keyword/cure)
-    [`#deformation`](keyword/deformation)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#failure`](keyword/failure)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Accelerated%20Curing%20and%20Layer%20Deformations%20on%20Structural%20Failure%20During%20Extrusion-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85118493368&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3209469215" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106586" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106586?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent experimental research by Reiter et al. (Cem. Concr. Res., 132:106047, 2020) indicates that the buildability of fresh concrete used in extrusion-based 3D printing processes can be significantly enhanced by chemically accelerating the curing process. In the present contribution the effect of accelerated curing on failure by plastic collapse and elastic buckling during 3D concrete printing is explored by incorporating a power-law curing function in the parametric 3D printing model developed by Suiker (Int. J. Mech Sci, 137:145–170, 2018). A structural yield criterion is derived for the case of accelerated curing, and the main advantages on the resistance against plastic collapse are demonstrated through a comparison of the predicted failure characteristics to those for linear curing and exponentially-decaying curing. Subsequently, the elastic buckling behaviour under accelerated curing is derived for a free wall configuration, and the competition between elastic buckling and plastic collapse of the free wall structure is assessed via the construction of failure mechanism maps. In addition, a modelling recipe is proposed for consistently accounting for the vertical deformations of layers in the prediction of structural failure during 3D concrete printing. The modelling of this effect may further increase the accuracy of the prediction of the number of layers at structural failure. For failure under plastic collapse, results are computed for linear curing, exponentially-decaying curing and accelerated curing. The model outcome for linear curing is used for a comparison with results from 3D concrete printing experiments recently presented in the literature, showing an excellent agreement. It is further demonstrated that the effect of vertical wall deformations on the prediction of failure by elastic buckling typically is minor, so that for this failure mechanism this contribution may be left out of consideration. All design graphs presented in this communication are generic, in a sense that they are not restricted to concrete, but can be applied for other printing materials as well.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../gaud_duba_bouy_mall.2019.BAULFOTLSAMoUHPC/">Building Applications Using Lost Formworks Obtained Through Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete</a></li>
@@ -86,8 +65,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cui_guo_liu_da.2025.QAo3PCTQVI/">Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zuo_tao_huan_zhan.2025.RTTMtEtSEo3PC/">Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete:<br/>From Lab to In-Situ Printing</a></li>
       <li><a href="../../../author/park_ji-seul"><b>Park</b> Ji-seul</a>, <a href="../../../author/jeong_seung-su"><b>Jeong</b> Seung-Su</a>, <a href="../../../author/hong_seungkee"><b>Hong</b> Seungkee</a>, <a href="../../../author/lee_seohyung"><b>Lee</b> Seohyung</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../park_jeon_hong_lee.2025.MMfPoSSoCSD3CP/">Mechanical Modeling for Prediction of Structural Stability of Cylindrical Structures During 3D Concrete Printing</a></li>
@@ -108,4 +87,33 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ting_quah_lim_tay.2022.ERPSo3PCURGC/">Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{suik.2022.EoACaLDoSFDEB3P,
+      author            = "Akke S. J. Suiker",
+      title             = "Effect of Accelerated Curing and Layer Deformations on Structural Failure During Extrusion-Based 3D Printing",
+      doi               = "10.1016/j.cemconres.2021.106586",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "151",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. J. Suiker, “Effect of Accelerated Curing and Layer Deformations on Structural Failure During Extrusion-Based 3D Printing”, <i>Cement and Concrete Research</i>, vol. 151, 2022, doi: 10.1016/j.cemconres.2021.106586.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Suiker, Akke S. J.. “Effect of Accelerated Curing and Layer Deformations on Structural Failure During Extrusion-Based 3D Printing”. <i>Cement and Concrete Research</i> 151 (2022). https://doi.org/10.1016/j.cemconres.2021.106586.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

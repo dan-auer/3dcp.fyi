@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Minghong Qiu, Yan Sun, Ye Qian
+    - footer
+title: Qiu Minghong, Sun Yan, Qian Ye
 description:
 tags:
  - behavior
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1080/21650373.2024.2396427" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2024.2396427</a>
+#Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2396427" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2396427" target="_blank">10.1080/21650373.2024.2396427</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qiu_minghong"><b>Qiu</b>&nbsp;Minghong</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a> <a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yan"><b>Sun</b> Yan</a> <a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-10
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#cast`](keyword/cast)
-    [`#concrete`](keyword/concrete)
-    [`#groove`](keyword/groove)
-    [`#normal`](keyword/normal)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/groove"><button class="btn">#groove</button></a> <a href="../../keyword/normal"><button class="btn">#normal</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Groove-and-Tongue%20Parameters%20on%20the%20Bonding%20Behavior%20Between%203D%20Printed%20UHP-SHCC%20and%20Cast%20Normal%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202972614&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402122663" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2024.2396427" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2024.2396427?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The utilization of 3D-printed formworks represents a significant advancement in traditional construction practices, offering the potential to enhance structural capacity and effectively address reinforcement challenges in 3D concrete printing. Ensuring strong bonding between formwork and cast concrete is critical for structural integrity. In this study, 11 composite specimens with varying groove-and-tongue parameters including the layer number, spacing, length, and thickness of tongues undergo splitting tests. Results reveal that increasing the tongue’s layer number enhances the interfacial splitting tensile strength, whereas tongue spacing has minimal impact on interfacial strength, and a thicker tongue negatively affects the interfacial splitting tensile strength. An optimized groove-and-tongue configuration can significantly increase the interfacial splitting tensile strength from 2.10 MPa to 3.66 MPa, with a maximum increase rate of 70.4% and achieving a higher value (20.8%) than that of fully cast normal concrete. A splitting tensile strength model is proposed, with predictions aligning well with experimental results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
@@ -87,8 +66,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_muda.2025.3PPoSHCCwDUFiCwR/">3D Printing Performance of Strain-Hardening Cementitious Composites with Different UHMWPE Fibers in Correlation with Rheology</a></li>
@@ -96,4 +76,33 @@ tags:
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_sahi.2024.TIoAEoFEi3PC/">The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete:<br/>The Function of Printing Orientation and Curing Process</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qiu_sun_qian.2024.IoGaTPotBBB3PUSaCNC,
+      author            = "Minghong Qiu and Yan Sun and Ye Qian",
+      title             = "Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete",
+      doi               = "10.1080/21650373.2024.2396427",
+      year              = "2024",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Qiu, Y. Sun and Y. Qian, “Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–10, 2024, doi: 10.1080/21650373.2024.2396427.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qiu, Minghong, Yan Sun, and Ye Qian. “Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete”. <i>Journal of Sustainable Cement-Based Materials</i>, 2024, 1–10. https://doi.org/10.1080/21650373.2024.2396427.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

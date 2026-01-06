@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martin Claßen, Jan Ungermann, Rahul Sharma
+    - footer
+title: Claßen Martin, Ungermann Jan, Sharma Rahul
 description:
 tags:
  - additive
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/10/11/3791/pdf?version=1591615964) Additive Manufacturing of Reinforced Concrete:<br/>:aca-blank: Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement ([2020-05](date/2020/05))
-<a href="https://doi.org/10.3390/app10113791" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app10113791</a>
+#Additive Manufacturing of Reinforced Concrete&nbsp;([2020-05](date/2020/05))
+<div class="h1-like">Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/10/11/3791/pdf?version=1591615964) <a href="https://doi.org/10.3390/app10113791" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app10113791" target="_blank">10.3390/app10113791</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7492-7963" title="ORCID: 0000-0002-7492-7963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ungermann_jan"><b>Ungermann</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6976-4530" title="ORCID: 0000-0002-6976-4530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sharma_rahul"><b>Sharma</b>&nbsp;Rahul</a></span><br>
+Journal Article - Applied Sciences, Vol. 10, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a> <a href="https://orcid.org/0000-0002-7492-7963" title="ORCID: 0000-0002-7492-7963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="https://orcid.org/0000-0002-6976-4530" title="ORCID: 0000-0002-6976-4530" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 10, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#metal`](keyword/metal)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/metal"><button class="btn">#metal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086117232&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3033641118" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app10113791" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app10113791?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Reinforced concrete (RC) is by far the most widely used composite material in the world. Despite the enormous economic importance of RC construction, there is a lack of viable concepts for its digital fabrication. While 3D printing of plain concrete has been pushed forward by a growing research community in recent years, methods for integration of steel reinforcement have only scarcely been researched and little attention has been payed to meet the practical requirements of construction sites and prefabrication plants. Therefore, full-scale implementations of current approaches are hardly available. Based on both, a sound review of R&D for digital fabrication of RC structures and an analysis of practical requirements, the present paper proposes a novel 3D printing process for RC structures, called Additive Manufacturing of Reinforced Concrete (AMoRC), viable for real-world application. In this hybrid process, consisting of an intermittent stud welding process and a continuous concrete extrusion process, segmented steel reinforcing bars are joined to form a three-dimensional reinforcement mesh and simultaneously encased with extruded concrete. The paper describes the conceptual design and development of the process and demonstrates the results of preliminary investigations on its feasibility. As AMoRC enables the operation of rebar welding and concrete extrusion process with synchronized feed rates, combination of both processes in one hybrid print head for digital fabrication of RC is a key-advantage of the proposed method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -91,8 +69,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "83 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -177,4 +155,34 @@ tags:
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/classen_johannes"><b>Claßen</b> Johannes</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../cla_cla_shar.2020.CoaRW3PMfRCA/">Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cla_unge_shar.2020.AMoRC,
+      author            = "Martin Claßen and Jan Ungermann and Rahul Sharma",
+      title             = "Additive Manufacturing of Reinforced Concrete: Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement",
+      doi               = "10.3390/app10113791",
+      year              = "2020",
+      journal           = "Applied Sciences",
+      volume            = "10",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Claßen, J. Ungermann and R. Sharma, “Additive Manufacturing of Reinforced Concrete: Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement”, <i>Applied Sciences</i>, vol. 10, no. 11, 2020, doi: 10.3390/app10113791.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Claßen, Martin, Jan Ungermann, and Rahul Sharma. “Additive Manufacturing of Reinforced Concrete: Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement”. <i>Applied Sciences</i> 10, no. 11 (2020). https://doi.org/10.3390/app10113791.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

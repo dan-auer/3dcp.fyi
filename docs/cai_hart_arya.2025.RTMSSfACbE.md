@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yilin Cai, Julie Hartell, Ashrant Aryal
+    - footer
+title: Cai Yilin, Hartell Julie, Aryal Ashrant
 description:
 tags:
  - additive
@@ -19,34 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.iaarc.org/./publications/fulltext/191_Real-time_Multimodal_Sensing_System_for_Additive_Construction_by_Extrusion__Integrating_thermal__depth_and_RGB_data.pdf) Real-Time Multimodal Sensing System for Additive Construction by Extrusion:<br/>:aca-blank: Integrating Thermal, Depth and RGB Data ([2025-07](date/2025/07))
-<a href="https://doi.org/10.22260/isarc2025/0191" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2025/0191</a>
+#Real-Time Multimodal Sensing System for Additive Construction by Extrusion&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Integrating Thermal, Depth and RGB Data</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/191_Real-time_Multimodal_Sensing_System_for_Additive_Construction_by_Extrusion__Integrating_thermal__depth_and_RGB_data.pdf) <a href="https://doi.org/10.22260/isarc2025/0191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0191" target="_blank">10.22260/isarc2025/0191</a>
 
--------------------------
+<a href="../../../author/cai_yilin"><b>Cai</b>&nbsp;Yilin</a></span>, <a href="../../../author/hartell_ann_julie"><b>Hartell</b>&nbsp;Julie</a></span>, <a href="../../../author/aryal_ashrant"><b>Aryal</b>&nbsp;Ashrant</a></span><br>
+Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1471-1478
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cai_yilin"><b>Cai</b> Yilin</a>
-,     <a href="../../../author/hartell_ann_julie"><b>Hartell</b> Julie</a>
-,     <a href="../../../author/aryal_ashrant"><b>Aryal</b> Ashrant</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1471-1478
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#data`](keyword/data)
-    [`#depth`](keyword/depth)
-    [`#extrusion`](keyword/extrusion)
-    [`#integration`](keyword/integration)
-    [`#real`](keyword/real)
-    [`#sensor`](keyword/sensor)
-    [`#system`](keyword/system)
-    [`#temperature`](keyword/temperature)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Multimodal%20Sensing%20System%20for%20Additive%20Construction%20by%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016562856&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412691103" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2025/0191" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2025/0191?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive construction by extrusion addresses challenges such as labor shortages and inconsistent quality in traditional construction methods by offering automation, precision, and reduced waste. However, it remains challenging for large scale implementation due to dynamic printing conditions and environmental influences. Real-time control can be greatly beneficial in addressing these variations, which relies on a comprehensive and accurate realtime monitoring system. In this paper, we describe our ongoing work on developing a real-time multimodal sensing system that integrates thermal, depth and RGB data. By combining these sensors, the system can capture surface temperature and geometric data of extruded material, providing detailed feedback on its strength, extrudability and buildability. It provides new insights and information for quality monitoring systems in additive construction by extrusion, achieving a better balance between detailed detection and real-time monitoring. The methodology includes RGB-thermal image alignment, automated sample detection, and structured light-based depth sensing to refine geometric and temperature data. This system lays the groundwork for future advancements in predictive analysis and dynamic real-time printing control.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../bani_voso_arce_noor.2024.EASMoSE3PS/">Early-Age Strength Monitoring of Sensor-Embedded 3D Printed Structures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -94,7 +71,37 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{cai_hart_arya.2025.RTMSSfACbE,
+      author            = "Yilin Cai and Julie Ann Hartell and Ashrant Aryal",
+      title             = "Real-Time Multimodal Sensing System for Additive Construction by Extrusion: Integrating Thermal, Depth and RGB Data",
+      doi               = "10.22260/isarc2025/0191",
+      year              = "2025",
+      pages             = "1471--1478",
+      booktitle         = "Proceedings of the 42nd International Symposium on Automation and Robotics in Construction",
+      editor            = "Jiansong Zhang and Qian Chen and Gaang Lee and Vicente Gonzalez and Kamat Vineet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Cai, J. A. Hartell and A. Aryal, “Real-Time Multimodal Sensing System for Additive Construction by Extrusion: Integrating Thermal, Depth and RGB Data”, in <i>Proceedings of the 42nd International Symposium on Automation and Robotics in Construction</i>,  2025, pp. 1471–1478. doi: 10.22260/isarc2025/0191.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cai, Yilin, Julie Ann Hartell, and Ashrant Aryal. “Real-Time Multimodal Sensing System for Additive Construction by Extrusion: Integrating Thermal, Depth and RGB Data”. In <i>Proceedings of the 42nd International Symposium on Automation and Robotics in Construction</i>, edited by Jiansong Zhang, Qian Chen, Gaang Lee, Vicente Gonzalez, and Kamat Vineet, 1471–78, 2025. https://doi.org/10.22260/isarc2025/0191.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Theresa Glotz, Yuri Petryna
+    - footer
+title: Glotz Theresa, Petryna Yuri
 description:
 tags:
  - anisotropy
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma17163931) Experimental Characterization of Anisotropic Mechanical Behavior and Failure-Mechanisms of Hardened Printed Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.3390/ma17163931" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17163931</a>
+#Experimental Characterization of Anisotropic Mechanical Behavior and Failure-Mechanisms of Hardened Printed Concrete ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17163931) <a href="https://doi.org/10.3390/ma17163931" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17163931" target="_blank">10.3390/ma17163931</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1780-3515" title="ORCID: 0000-0003-1780-3515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/glotz_theresa"><b>Glotz</b>&nbsp;Theresa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6801-5677" title="ORCID: 0000-0002-6801-5677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petryna_yuri"><b>Petryna</b>&nbsp;Yuri</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a> <a href="https://orcid.org/0000-0003-1780-3515" title="ORCID: 0000-0003-1780-3515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> <a href="https://orcid.org/0000-0002-6801-5677" title="ORCID: 0000-0002-6801-5677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 16, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#failure`](keyword/failure)
-    [`#hardened`](keyword/hardened)
-    [`#mechanics`](keyword/mechanics)
-    [`#mechanism`](keyword/mechanism)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Characterization%20of%20Anisotropic%20Mechanical%20Behavior%20and%20Failure-Mechanisms%20of%20Hardened%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202436173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401426000" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17163931" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17163931?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based printing of cementitious materials represents an innovative technology in civil engineering. The additive manufacturing process significantly influences the material properties in the hardened state, leading to anisotropic behaviour in terms of stiffness and strength compared to conventionally cast concrete. This experimental study aims to deepen the understanding of the mechanical behaviour of hardened printed concrete. Beam-like specimens with varying printing patterns, loading orientations and lengths are investigated within three-point bending tests (3PBT) and uniaxial compression tests (UCT). Homogenized material parameters such as Young's modulus, compressive and flexural tensile strength and density are statistically evaluated using optically measured displacement and strain fields on the specimen surface. The qualitative and quantitative results demonstrate a strong dependency of material properties and failure mechanisms on the printing pattern. The interfilamental and interlayer areas with weak adhesion are identified as the main reason for anisotropy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -106,8 +84,38 @@ tags:
       <li><a href="../../../author/yue_g_j"><b>Yue</b> J.</a>, <a href="../../../author/beskos_e_dimitrios"><b>Beskos</b> Dimitrios</a>, <a href="../../../author/feng_c"><b>Feng</b> C.</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yue_besk_feng_wu.2022.HFCoPCUAEMT/">Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a>, <a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b> Inken</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../glot_rase_petr.2024.MBoHPCatEoCJ/">Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints:<br/>An Experimental Investigation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{glot_petr.2024.ECoAMBaFMoHPC,
+      author            = "Theresa Glotz and Yuri Petryna",
+      title             = "Experimental Characterization of Anisotropic Mechanical Behavior and Failure-Mechanisms of Hardened Printed Concrete",
+      doi               = "10.3390/ma17163931",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Glotz  and Y. Petryna, “Experimental Characterization of Anisotropic Mechanical Behavior and Failure-Mechanisms of Hardened Printed Concrete”, <i>Materials</i>, vol. 17, no. 16, 2024, doi: 10.3390/ma17163931.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Glotz, Theresa, and Yuri Petryna. “Experimental Characterization of Anisotropic Mechanical Behavior and Failure-Mechanisms of Hardened Printed Concrete”. <i>Materials</i> 17, no. 16 (2024). https://doi.org/10.3390/ma17163931.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

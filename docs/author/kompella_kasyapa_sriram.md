@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kompella Sriram 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../komp_levi_ferr.2025.IIFPi3PCSvMFT/">Identifying Interlayer Fracture Properties in 3D Printed Concrete Specimens via Multidirectional Flexural Tests</a></li>
   <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../komp_marc_mont_levi.2024.FBoTDPCMiVEAaHS/">Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States</a></li>
   <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a>, <a href="../../../author/bassani_andrea"><b>Bassani</b> Andrea</a>, <a href="../../../author/guanziroli_stefano"><b>Guanziroli</b> Stefano</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../komp_mont_bass_guan.2022.ACSoHSMPo3PaCCFRC/">A Comparative Study of Hardened-State Mechanical Properties of 3D Printed and Conventionally Cast Fiber-Reinforced Concrete</a></li>

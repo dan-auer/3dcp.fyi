@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Manu Mohan, Attupurathu Rahul, Geert Schutter, Kim Tittelboom
+    - footer
+title: Tao Yaxin, Mohan Manu, Rahul Attupurathu, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - binary
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://biblio.ugent.be/publication/01GTKRTS4XSQEF5000G8QQP8R8/file/01GTKS0WEJD0NPW9243Q5V4FY8.pdf) Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.104960" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.104960</a>
+#Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://biblio.ugent.be/publication/01GTKRTS4XSQEF5000G8QQP8R8/file/01GTKS0WEJD0NPW9243Q5V4FY8.pdf) <a href="https://doi.org/10.1016/j.cemconcomp.2023.104960" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.104960" target="_blank">10.1016/j.cemconcomp.2023.104960</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohan_k_manu"><b>Mohan</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 138
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> <a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 138, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#binary`](keyword/binary)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#pipe`](keyword/pipe)
-    [`#print`](keyword/print)
-    [`#sulfoaluminate`](keyword/sulfoaluminate)
-    [`#system`](keyword/system)
-    [`#twin`](keyword/twin)
-
-
--------------------------
+<a href="../../keyword/binary"><button class="btn">#binary</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Calcium%20Sulfoaluminate-Portland%20Cement%20Binary%20System%20for%20Twin-Pipe%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147252610&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4318815519" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.104960" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.104960?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, the twin-pipe pumping (TPP) system has been developed for 3D concrete printing which involves pumping two mixtures, typically a Portland cement-based mixture and a pure limestone powder-based mixture that contains an accelerator. Following this, the two mixtures are allowed to be intermixed in a static mixer placed just prior to the nozzle which causes immediate stiffening and a very high buildability for the printed concrete post-extrusion. However, the flow division pattern produced by the mixing baffles of the static mixer results in striations consisting of unmixed limestone powder resulting in weak zones that lower the mechanical strength of the printed element. In this study, we present a TPP system consisting of Portland cement-based mixtures and a borated calcium sulfoaluminate (CSA) cement-based mixture. The mixtures are capable of reacting independently with water as compared to the pure limestone powder-based mixture. After getting blended in the static mixer right before extrusion, the retardation in the borated CSA cement is destroyed by the alkaline component contained in the other stream, leading to the rapid hardening and a high construction rate post extrusion from the nozzle. The hydration characteristics were studied using a Vicat penetrometer, isothermal calorimetry, and ultrasonic pulse velocimetry, while the early age mechanical behavior was characterized by using uniaxial unconfined compression and slow penetration tests. Results indicate that Portland cement alone cannot produce enough alkalinity to destroy the ulexite phase and reinitiate the hydration of CSA cement, while adding a nominal dosage of calcium hydroxide can provide enough increase in pH to design a system suitable for the stiffening control. However, abundant calcium hydroxide would reduce the hydration rate at later ages due to the dilution effect, as indicated by the P-wave velocity evolution and yield stress evolution. In addition, the hardened behavior of printed elements was studied by performing compression and flexural tests. Results show that the CSA-Portland cement binary binder system avoids the formation of weak zones and hence improves the mechanical behavior.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
@@ -106,8 +82,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO/">Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization</a></li>
       <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sael_titt_casp_wan.2025.EAotSBoHC3PCBS/">Experimental Analysis of the Structural Behavior of Hybrid Concrete 3D Printed-Cast Beam Systems</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
@@ -136,4 +112,33 @@ tags:
       <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../tao_rahu_moha_schu.2023.EMPoTPPCUaBBS/">Enhancing Mechanical Performance of Twin-Pipe Printable Concrete Using a Binary Binder System</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_moha_rahu_schu.2023.DoaCSPCBSfTP3CP,
+      author            = "Yaxin Tao and Manu K. Mohan and Attupurathu Vijayan Rahul and Geert de Schutter and Kim van Tittelboom",
+      title             = "Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2023.104960",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "138",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, M. K. Mohan, A. V. Rahul, G. de Schutter and K. van Tittelboom, “Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, vol. 138, 2023, doi: 10.1016/j.cemconcomp.2023.104960.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Manu K. Mohan, Attupurathu Vijayan Rahul, Geert de Schutter, and Kim van Tittelboom. “Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing”. <i>Cement and Concrete Composites</i> 138 (2023). https://doi.org/10.1016/j.cemconcomp.2023.104960.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

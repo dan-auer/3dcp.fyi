@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rodrigo García-Alvarado, Pedro Soza-Ruiz, Ginnia Moroni-Orellana, Fernando Pedreros, Martín Avendaño, Pablo Banda, Cristian Berríos
+    - footer
+title: García-Alvarado Rodrigo, Soza-Ruiz Pedro, Moroni-Orellana Ginnia, Pedreros Fernando, Avendaño Martín, Banda Pablo, Berríos Cristian
 description:
 tags:
  - bim
@@ -13,32 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.foar.2024.03.002) From BIM-Model to 3D Construction Printing:<br/>:aca-blank: A Framework Proposal ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.foar.2024.03.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.foar.2024.03.002</a>
+#From BIM-Model to 3D Construction Printing&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">A Framework Proposal</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.foar.2024.03.002) <a href="https://doi.org/10.1016/j.foar.2024.03.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.foar.2024.03.002" target="_blank">10.1016/j.foar.2024.03.002</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3225-0234" title="ORCID: 0000-0003-3225-0234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b>&nbsp;Pedro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b>&nbsp;Ginnia</a></span>, <a href="../../../author/pedreros_fernando"><b>Pedreros</b>&nbsp;Fernando</a></span>, <a href="../../../author/avendano_martin"><b>Avendaño</b>&nbsp;Martín</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8716-6868" title="ORCID: 0000-0002-8716-6868" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banda_pablo"><b>Banda</b>&nbsp;Pablo</a></span>, <a href="../../../author/berrios_cristian"><b>Berríos</b>&nbsp;Cristian</a></span><br>
+Journal Article - Frontiers of Architectural Research
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b> Pedro</a> <a href="https://orcid.org/0000-0003-3225-0234" title="ORCID: 0000-0003-3225-0234" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a> <a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pedreros_fernando"><b>Pedreros</b> Fernando</a>
-,     <a href="../../../author/avendano_martin"><b>Avendaño</b> Martín</a>
-,     <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="https://orcid.org/0000-0002-8716-6868" title="ORCID: 0000-0002-8716-6868" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/berrios_cristian"><b>Berríos</b> Cristian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Architectural Research, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bim`](keyword/bim)
-    [`#construction`](keyword/construction)
-    [`#framework`](keyword/framework)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20BIM-Model%20to%203D%20Construction%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192696501&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396907654" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.foar.2024.03.002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.foar.2024.03.002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The growth of 3D construction printing needs appropriate integration into the planning and execution phases of building projects. With this aim, the Architecture, Engineering, and Construction sector (AEC) has been increasingly adopting building information modeling (BIM) systems to synchronize design and construction processes. This study proposes a technical workflow to manage 3D construction printing into BIM models, evaluating various procedures according to construction element features. Based on mature software platforms, the research details the data transfer process using a case study of a single-story home. The case delves into design procedures for constructing walls of varied shapes, adjustments in width, joints, openings, textures, fillings, and the insertion of reinforcements and services while also discussing requirements of other building elements. Work steps for managing design information and controlling printing machines are described. The study's outcome presents a comprehensive information flow, encompassing model segmentation, geometric data transfer, adjustments of details, and the generation of printing paths. Then, it is offered a discussion that underlines the importance of a synergistic digital information flow that merges both design and execution phases, promoting construction efficiency and the embrace of innovative technologies. The contribution of the paper focuses on technical design strategies for 3D construction printing, but also on suggesting an integrated process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anane_walid"><b>Anane</b> Walid</a>, <a href="../../../author/iordanova_ivanka"><b>Iordanova</b> Ivanka</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../anan_iord_ouel.2023.TUoBfR3CP/">The Use of BIM for Robotic 3D Concrete Printing</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ashr_naza_meis_duar.2022.AGBAfTPG/">A Grammar-Based Algorithm for Tool-Path-Generation:<br/>Compensating for Material-Deformation in the Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a></li>
@@ -87,10 +66,38 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b> Laura</a>, <a href="../../../author/orobio_armando"><b>Orobio</b> Armando</a>, <a href="../../../author/campana_wilmer"><b>Campaña</b> Wilmer</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../hena_orob_camp.2026.BIiPACP/">BIM Integration in Prefabricated Additive Construction Projects:<br/>Case Study</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/floris_ignazio"><b>Floris</b> Ignazio</a>, <a href="../../../author/duran_dayan"><b>Duran</b> Dayan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sang_flor_dura.2025.UIAfBBMt3CPaSP/">Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping</a></li>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{garc_soza_moro_pedr.2024.FBMt3CP,
+      author            = "Rodrigo García-Alvarado and Pedro Soza-Ruiz and Ginnia Moroni-Orellana and Fernando Pedreros and Martín Avendaño and Pablo Banda and Cristian Berríos",
+      title             = "From BIM-Model to 3D Construction Printing: A Framework Proposal",
+      doi               = "10.1016/j.foar.2024.03.002",
+      year              = "2024",
+      journal           = "Frontiers of Architectural Research",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. García-Alvarado, “From BIM-Model to 3D Construction Printing: A Framework Proposal”, <i>Frontiers of Architectural Research</i>, 2024, doi: 10.1016/j.foar.2024.03.002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">García-Alvarado, Rodrigo, Pedro Soza-Ruiz, Ginnia Moroni-Orellana, Fernando Pedreros, Martín Avendaño, Pablo Banda, and Cristian Berríos. “From BIM-Model to 3D Construction Printing: A Framework Proposal”. <i>Frontiers of Architectural Research</i>, 2024. https://doi.org/10.1016/j.foar.2024.03.002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

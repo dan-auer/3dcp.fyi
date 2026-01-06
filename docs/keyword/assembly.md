@@ -8,7 +8,7 @@ search:
 
 # #assembly
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
   <li><a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a>, <a href="../../../author/khan_n_subim"><b>Khan</b> Subim</a>, <a href="../../../author/lal_s_dhirajkumar"><b>Lal</b> Dhirajkumar</a>, <a href="../../../author/sonawane_r_pavankumar"><b>Sonawane</b> Pavankumar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../khar_khan_lal_sona.2025.DaDoaNAf3CPA/">Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Reza Sedghi, Kourosh Rashidi, Maryam Hojati
+    - footer
+title: Sedghi Reza, Rashidi Kourosh, Hojati Maryam
 description:
 tags:
  - concept
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Large-Scale 3D Wall Printing:<br/>:aca-blank: From Concept to Reality ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.autcon.2023.105255" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.105255</a>
+#Large-Scale 3D Wall Printing&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">From Concept to Reality</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.105255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105255" target="_blank">10.1016/j.autcon.2023.105255</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sedghi_reza"><b>Sedghi</b>&nbsp;Reza</a></span>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b>&nbsp;Kourosh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Journal Article - Automation in Construction, Vol. 159, No. 105255
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a> <a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 159, No. 105255
-
-:aca-blank:{ .lg .middle}
-    [`#concept`](keyword/concept)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#scale`](keyword/scale)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Wall%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181774055&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390631127" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.105255" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.105255?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper delves into the innovative realm of 3D wall printing, employing large-scale printers to construct walls layer by layer and aiming to revolutionize traditional house construction. The review comprehensively explores the properties of 3D printed walls in both fresh and hardened states, covering aspects like failure modes, quality control, mechanical and non-structural properties, seismic response, and reinforcement techniques. Taking a distinctive perspective, it draws parallels between 3D printing concrete and masonry structures, presenting them as a modernized version of traditional construction. Overlooking aspects like various wall cross-sections, connections to other structural elements (i.e., wall-to-wall, wall-to-roof, wall-to-foundation connections), non-structural wall intersections, and reinforcement techniques are addressed, crucial for successful integration into large-scale projects. The review serves as a cautionary guide to researchers, shedding light on less-explored areas in large-scale 3D wall printing and providing insights for future research directions and potential codes and standards drawing inspiration from masonry walls.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "123 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -186,8 +168,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/perez_banda_pablo"><b>Perez</b> Pablo</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>, <a href="../../../author/valenzuela_rozas_sebastian"><b>Valenzuela</b> Sebastián</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_pere_alva_vale.2025.3PoSD/">3D Printing of Surrealist Dreams:<br/>Constraints, Failures, and Craftsmanship in 1:1 Digital Fabrication</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
@@ -201,4 +183,34 @@ tags:
       <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hoja_sedg_li_mema.2024.FSo3PCB/">Flexural Strength of 3D Printed Concrete Beams:<br/>Exploring Barbed-Wire Reinforcement and Cross-Sectional Geometry</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sedg_rash_hoja.2024.LS3WP,
+      author            = "Reza Sedghi and Kourosh Rashidi and Maryam Hojati",
+      title             = "Large-Scale 3D Wall Printing: From Concept to Reality",
+      doi               = "10.1016/j.autcon.2023.105255",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "159",
+      pages             = "105255",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Sedghi, K. Rashidi and M. Hojati, “Large-Scale 3D Wall Printing: From Concept to Reality”, <i>Automation in Construction</i>, vol. 159, p. 105255, 2024, doi: 10.1016/j.autcon.2023.105255.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sedghi, Reza, Kourosh Rashidi, and Maryam Hojati. “Large-Scale 3D Wall Printing: From Concept to Reality”. <i>Automation in Construction</i> 159 (2024): 105255. https://doi.org/10.1016/j.autcon.2023.105255.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

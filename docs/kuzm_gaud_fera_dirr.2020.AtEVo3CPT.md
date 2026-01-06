@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kateryna Kuzmenko, Nadja Gaudillière-Jami, Adélaïde Féraille, Justin Dirrenberger, Olivier Baverel
+    - footer
+title: Kuzmenko Kateryna, Gaudillière-Jami Nadja, Féraille Adélaïde, Dirrenberger Justin, Baverel Olivier
 description:
 tags:
  - assessment
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Assessing the Environmental Viability of 3D Concrete Printing Technology ([2020-09](date/2020/09))
-<a href="https://doi.org/10.1007/978-3-030-29829-6_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-29829-6_40</a>
+#Assessing the Environmental Viability of 3D Concrete Printing Technology ([2020-09](date/2020/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-29829-6_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-29829-6_40" target="_blank">10.1007/978-3-030-29829-6_40</a>
 
--------------------------
+<a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b>&nbsp;Kateryna</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b>&nbsp;Nadja</a></span>, <a href="../../../author/feraille_adelaide"><b>Féraille</b>&nbsp;Adélaïde</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span>, <a href="../../../author/baverel_olivier"><b>Baverel</b>&nbsp;Olivier</a></span><br>
+Contribution - Proceedings of the Design Modelling Symposium, pp. 517-528
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>
-,     <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>
-,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the Design Modelling Symposium, pp. 517-528
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#environment`](keyword/environment)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessing%20the%20Environmental%20Viability%20of%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2971038387" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-29829-6_40" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-29829-6_40?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The ongoing development of digital design and fabrication techniques has explicitly changed the way architecture is thought, designed and produced. 3D Concrete Printing Technology personifies best the long-lasting pursuit of non-standard production in architecture. A recently established tendency of systematic recourse to optimization algorithms for formal design fashioned a general belief into the sustainable character of those forms as well as the potential of digital technologies in field of environmental performance of construction sector. This paper presents a case study of environmental evaluation of a generic building system redesigned for mortar 3D Printing technology. The life cycle assessment of construction phase of a system has been performed and the sensitivity study has been effectuated. The results show that the contribution of robotic 3D printing system to the overall result is fairly significant and, in some figures, can even exceed the one of the materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -76,8 +56,8 @@ tags:
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../gaud.2025.ACMPo3/">A Critical Materials Perspective on 3DCP</a></li>
       <li><a href="../../../author/gumruk_idil"><b>Gümrük</b> Idil</a>, <a href="../../../author/schroder_w-a_torsten"><b>Schröder</b> Torsten</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../gumr_schr_wolf_sale.2025.3C/">3DCP-CI:<br/>Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs</a></li>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
@@ -97,6 +77,35 @@ tags:
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../kuzm_fera_bave_rous.2020.EIo6ARAf3CP/">Environmental Impacts of 6-Axis Robotic Arm for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kuzm_gaud_fera_dirr.2020.AtEVo3CPT,
+      author            = "Kateryna Kuzmenko and Nadja Gaudillière-Jami and Adélaïde Féraille and Justin Dirrenberger and Olivier Baverel",
+      title             = "Assessing the Environmental Viability of 3D Concrete Printing Technology",
+      doi               = "10.1007/978-3-030-29829-6_40",
+      year              = "2020",
+      pages             = "517--528",
+      booktitle         = "Proceedings of the Design Modelling Symposium: Impact: Design with All Senses",
+      editor            = "Christoph Gengnagel and Olivier Baverel and Jane Burry and Mette Ramsgaard Thomsen and Stefan Weinzierl",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Kuzmenko, N. Gaudillière-Jami, A. Féraille, J. Dirrenberger and O. Baverel, “Assessing the Environmental Viability of 3D Concrete Printing Technology”, in <i>Proceedings of the Design Modelling Symposium: Impact: Design with All Senses</i>,  2020, pp. 517–528. doi: 10.1007/978-3-030-29829-6_40.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kuzmenko, Kateryna, Nadja Gaudillière-Jami, Adélaïde Féraille, Justin Dirrenberger, and Olivier Baverel. “Assessing the Environmental Viability of 3D Concrete Printing Technology”. In <i>Proceedings of the Design Modelling Symposium: Impact: Design with All Senses</i>, edited by Christoph Gengnagel, Olivier Baverel, Jane Burry, Mette Ramsgaard Thomsen, and Stefan Weinzierl, 517–28, 2020. https://doi.org/10.1007/978-3-030-29829-6_40.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Zhao, Guanghai Shen, Lingli Zhu, Yahong Ding, Xuemao Guan
+    - footer
+title: Zhao Yu, Shen Guanghai, Zhu Lingli, Ding Yahong, Guan Xuemao
 description:
 tags:
  - analysis
@@ -24,41 +25,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>:aca-blank: Rheology, Printability and Hydration Kinetics in Structural Components ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1680/jadcr.25.00089" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jadcr.25.00089</a>
+#Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Rheology, Printability and Hydration Kinetics in Structural Components</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jadcr.25.00089" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jadcr.25.00089" target="_blank">10.1680/jadcr.25.00089</a>
 
--------------------------
+<a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/shen_guanghai"><b>Shen</b>&nbsp;Guanghai</a></span>, <a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <a href="../../../author/ding_yahong"><b>Ding</b>&nbsp;Yahong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guan_xuemao"><b>Guan</b>&nbsp;Xuemao</a></span><br>
+Journal Article - Advances in Cement Research, pp. 1-14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>
-,     <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>
-,     <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>
-,     <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>
-,     <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Cement Research, pp. 1-14
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#component`](keyword/component)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#hydration`](keyword/hydration)
-    [`#kinetic`](keyword/kinetic)
-    [`#multi`](keyword/multi)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#scale`](keyword/scale)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/kinetic"><button class="btn">#kinetic</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Scale%20Analysis%20of%203D%20Printable%20High-Strength%20Engineered%20Cementitious%20Composite%20with%20Carbon%20and%20Polyethylene%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -73,17 +47,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7105834300" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jadcr.25.00089" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jadcr.25.00089?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Current standards for evaluating the three-dimensional (3D) printability of concrete rely heavily on observational methods, lacking well-defined criteria. In this work, quantitative printability criteria were established by investigating the impact of carbon fibre (CF) volume fraction (0–0.60%) on the rheology, early-age strength and hydration kinetics of 3D printable high-strength engineered cementitious composites, validated through practical printing tests. Key results demonstrate that increasing the CF content to 0.45% significantly enhanced the rheological properties, increasing the static yield stress by 20.89%, the dynamic yield stress by 41.19% and plastic viscosity by 44.35%. Furthermore, the early-age mechanical strength exhibited a substantial five-fold increase with CF content up to 0.60%, achieving a peak strength of 176.03 kPa. This improvement in strength and rheology correlated with accelerated hydration as the CF fraction was increased from 0 to 0.60%, evidenced by a reduction in the termination point of the accelerated reaction phase from 28.4 h to 19.8 h. Practical printing verification confirmed that optimal printability, defined as the ability to exceed 25 layers, occurred within specific rheological and strength thresholds (static yield stress of 800–980 Pa, dynamic yield stress of 200–320 Pa and early-age strength of 30–120 kPa). These findings establish validated quantitative criteria for assessing the 3D printability of concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_he_schl.2023.LMoEACo3PSwtCoSH/">Lattice-Modelling of Early-Age Creep of 3D Printed Segments with the Consideration of Stress-History</a></li>
       <li><a href="../../../author/cheng_hanbin"><b>Cheng</b> Hanbin</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>, <a href="../../../author/hilman_michael"><b>Hilman</b> Michael</a>, <a href="../../../author/liu_feihong"><b>Liu</b> Feihong</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_radl_hilm_liu.2024.MCDv3PURKPM/">Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_ye_jian_fedi.2024.PRf3PECC/">Printability Region for 3D Printable Engineered Cementitious Composites</a></li>
@@ -108,7 +78,36 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF,
+      author            = "Yu Zhao and Guanghai Shen and Lingli Zhu and Yahong Ding and Xuemao Guan",
+      title             = "Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers: Rheology, Printability and Hydration Kinetics in Structural Components",
+      doi               = "10.1680/jadcr.25.00089",
+      year              = "2025",
+      journal           = "Advances in Cement Research",
+      pages             = "1--14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhao, G. Shen, L. Zhu, Y. Ding and X. Guan, “Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers: Rheology, Printability and Hydration Kinetics in Structural Components”, <i>Advances in Cement Research</i>, pp. 1–14, 2025, doi: 10.1680/jadcr.25.00089.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Yu, Guanghai Shen, Lingli Zhu, Yahong Ding, and Xuemao Guan. “Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers: Rheology, Printability and Hydration Kinetics in Structural Components”. <i>Advances in Cement Research</i>, 2025, 1–14. https://doi.org/10.1680/jadcr.25.00089.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

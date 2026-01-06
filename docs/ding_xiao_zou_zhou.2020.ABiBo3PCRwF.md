@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tao Ding, Jianzhuang Xiao, Shuai Zou, Xinji Zhou
+    - footer
+title: Ding Tao, Xiao Jianzhuang, Zou Shuai, Zhou Xinji
 description:
 tags:
  - anisotropy
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers ([2020-08](date/2020/08))
-<a href="https://doi.org/10.1016/j.compstruct.2020.112808" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compstruct.2020.112808</a>
+#Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers ([2020-08](date/2020/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruct.2020.112808" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2020.112808" target="_blank">10.1016/j.compstruct.2020.112808</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_shuai"><b>Zou</b>&nbsp;Shuai</a></span>, <a href="../../../author/zhou_xinji"><b>Zhou</b>&nbsp;Xinji</a></span><br>
+Journal Article - Composite Structures, Vol. 254
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composite Structures, Vol. 254, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#bending`](keyword/bending)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anisotropic%20Behavior%20in%20Bending%20of%203D%20Printed%20Concrete%20Reinforced%20with%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089834798&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3048743805" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compstruct.2020.112808" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compstruct.2020.112808?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The incorporation of fibers is an effective way for the reinforcement of 3D printing concrete. However, researches referring to effect of fibers on the anisotropy properties were limited. Therefore, the anisotropic behavior of fiber reinforced cement‐based material for 3D printing under bending were carefully examined. With the addition of polyethylene (PE) fibers, the specimen failure was no longer dominated by the weak interface and the flexural strengths in all of the three directions were significantly improved. The post‐peak performance was directly related to the content of fibers and a suitable fiber length should be selected. Microstructure analysis showed that the uniform and aligned orientation fibers were key factors leading to the increase of ultimate strength and post‐peak behavior. However, 3D printed specimens still demonstrated obvious anisotropic behavior. The flexural strengths in the directions parallel and perpendicular to the printing element within the printing plane were highest and performed similarly, while the strength in the direction orthogonal to the printing plane (across the layers) was the lowest. It is believed the findings can provide help for understanding the role of PE fibers in extrusion‐based 3D printing concrete
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -90,8 +69,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "204 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/huang_qunyi"><b>Huang</b> Qunyi</a>, <a href="../../../author/huang_qingyu"><b>Huang</b> Qingyu</a>, <a href="../../../author/yang_hong"><b>Yang</b> Hong</a>, <a href="../../../author/zhang_jiahang"><b>Zhang</b> Jiahang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_huan_yang_zhan.2026.RotWo3PFRCM/">Research on the Workability of 3D Printed Fiber-Reinforced Concrete Materials</a></li>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
@@ -297,4 +276,33 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_xiao_zou_zhou.2020.ABiBo3PCRwF,
+      author            = "Tao Ding and Jianzhuang Xiao and Shuai Zou and Xinji Zhou",
+      title             = "Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers",
+      doi               = "10.1016/j.compstruct.2020.112808",
+      year              = "2020",
+      journal           = "Composite Structures",
+      volume            = "254",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ding, J. Xiao, S. Zou and X. Zhou, “Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers”, <i>Composite Structures</i>, vol. 254, 2020, doi: 10.1016/j.compstruct.2020.112808.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Tao, Jianzhuang Xiao, Shuai Zou, and Xinji Zhou. “Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers”. <i>Composite Structures</i> 254 (2020). https://doi.org/10.1016/j.compstruct.2020.112808.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

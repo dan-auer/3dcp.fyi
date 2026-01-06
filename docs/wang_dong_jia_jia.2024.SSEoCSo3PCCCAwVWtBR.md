@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xianggang Wang, Enlai Dong, Zijian Jia, Lutao Jia, Kailun Xia, Zedi Zhang, Yu Chen, Yueyi Gao, Yamei Zhang
+    - footer
+title: Wang Xianggang, Dong Enlai, Jia Zijian, Jia Lutao, Xia Kailun, Zhang Zedi, Chen Yu, Gao Yueyi, Zhang Yamei
 description:
 tags:
  - aggregate
@@ -22,43 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.jobe.2024.110704" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110704</a>
+#Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110704" target="_blank">10.1016/j.jobe.2024.110704</a>
 
--------------------------
+<a href="../../../author/wang_xianggang"><b>Wang</b>&nbsp;Xianggang</a></span>, <a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/xia_kailun"><b>Xia</b>&nbsp;Kailun</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <a href="../../../author/gao_yueyi"><b>Gao</b>&nbsp;Yueyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Journal of Building Engineering, No. 110704
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>
-,     <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 110704
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#binder`](keyword/binder)
-    [`#coarse`](keyword/coarse)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#effect`](keyword/effect)
-    [`#print`](keyword/print)
-    [`#ratio`](keyword/ratio)
-    [`#size`](keyword/size)
-    [`#specimen`](keyword/specimen)
-    [`#strength`](keyword/strength)
-    [`#variation`](keyword/variation)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Specimen-Size-Effect%20on%20Compressive%20Strength%20of%203D%20Printed%20Concrete%20Containing%20Coarse%20Aggregate%20with%20Varying%20Water-to-Binder-Ratios" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203859286&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -73,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402449615" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110704" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110704?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to investigate the specimen size effect of compressive strength in 3D printed concrete containing coarse aggregate (3DPCA). Firstly, we compare the specimen size effect of compressive strength in mold-cast concrete (CC) and 3DPCA. Through X-CT scans and image analysis, the underlying mechanisms of this specimen size effect in 3DPCA are revealed. The results indicate that 3DPCA exhibits a less pronounced specimen size effect on compressive strength when loaded along the Z direction compared to CC, due to the presence of interlayer weak zones that mitigate the influence of size variations. Specifically, when the water-binder ratio varies between 0.3 to 0.5, the size coefficient of printed sample is reduced by 0.01-0.07 compared to cast sample. Similarly, variations in coarse aggregate content result in a size coefficient for printed sample that is 0.01-0.05 lower than cast sample. Higher porosity increases the specimen size effect of 3DPCA, but good printing quality can mitigate this influence. A modified Weibull model integrating water-binder ratio and coarse aggregate content was proposed, providing precise predictions of the specimen size effect on 3DPCA's compressive strength, with a correlation coefficient exceeding 93%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S/">Quantitative Surface Quality Evaluation for 3D Printed Concrete with Coarse Aggregate Through 3D Scanning</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
@@ -109,8 +76,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_dong_jia_jia.2024.SSEoCSo3PCCCAwVWtBR,
+      author            = "Xianggang Wang and Enlai Dong and Zijian Jia and Lutao Jia and Kailun Xia and Zedi Zhang and Yu Chen and Yueyi Gao and Yamei Zhang",
+      title             = "Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios",
+      doi               = "10.1016/j.jobe.2024.110704",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "110704",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Wang, “Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios”, <i>Journal of Building Engineering</i>, p. 110704, 2024, doi: 10.1016/j.jobe.2024.110704.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Xianggang, Enlai Dong, Zijian Jia, Lutao Jia, Kailun Xia, Zedi Zhang, Yu Chen, Yueyi Gao, and Yamei Zhang. “Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios”. <i>Journal of Building Engineering</i>, 2024, 110704. https://doi.org/10.1016/j.jobe.2024.110704.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

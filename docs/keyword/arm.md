@@ -8,7 +8,7 @@ search:
 
 # #arm
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
   <li><a href="../../../author/ke_zhijiang"><b>Ke</b> Zhijiang</a>, <a href="../../../author/li_zichang"><b>Li</b> Zichang</a>, <a href="../../../author/chen_zhengfei"><b>Chen</b> Zhengfei</a>, <a href="../../../author/xu_yao"><b>Xu</b> Yao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ke_li_chen_xu.2026.TAaCoRAB3PfHTL/">Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining</a></li>
   <li><a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liu_du_teng_weng.2025.ECMfaRAi3CP/">Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing</a></li>

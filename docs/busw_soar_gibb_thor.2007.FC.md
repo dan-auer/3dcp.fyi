@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Richard Buswell, Rupert Soar, Alistar Gibb, Tony Thorpe
+    - footer
+title: Buswell Richard, Soar Rupert, Gibb Alistar, Thorpe Tony
 description:
 tags:
  - construction
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/articles/journal_contribution/Freeform_construction_mega-scale_rapid_manufacturing_for_construction/9449258/1/files/17071280.pdf) Freeform Construction:<br/>:aca-blank: Mega-Scale Rapid Manufacturing for Construction ([2006-06](date/2006/06))
-<a href="https://doi.org/10.1016/j.autcon.2006.05.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2006.05.002</a>
+#Freeform Construction&nbsp;([2006-06](date/2006/06))
+<div class="h1-like">Mega-Scale Rapid Manufacturing for Construction</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/Freeform_construction_mega-scale_rapid_manufacturing_for_construction/9449258/1/files/17071280.pdf) <a href="https://doi.org/10.1016/j.autcon.2006.05.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2006.05.002" target="_blank">10.1016/j.autcon.2006.05.002</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6523-5957" title="ORCID: 0000-0002-6523-5957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soar_c_rupert"><b>Soar</b>&nbsp;Rupert</a></span>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b>&nbsp;Alistar</a></span>, <a href="../../../author/thorpe_tony"><b>Thorpe</b>&nbsp;Tony</a></span><br>
+Journal Article - Automation in Construction, Vol. 16, Iss. 2, pp. 224-231
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a> <a href="https://orcid.org/0000-0002-6523-5957" title="ORCID: 0000-0002-6523-5957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>
-,     <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 16, Iss. 2, pp. 224-231
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#freeform`](keyword/freeform)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#rapid`](keyword/rapid)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Freeform%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-33846178681&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,23 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W1968939492" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2006.05.002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2006.05.002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The utilisation of automation technology and processes control found in the automotive and aerospace industries is not paralleled in modern day construction. The industry also struggles to improve health and safety issues and still uses traditional methods ofprocurement. These problems are compounded by the diminishing skills in the labour force. Methods of production must change if these issues are to be resolved. Rapid Manufacturing is a family of digitally controlled additive processes that have the potential to impact on construction processes. This paper outlines some of the major issues facing construction technology and gives examples of the use of large scale Digital Fabrication in the industry. The term ‘Freeform Construction’ is defined. Potential applications derived from an industrial workshop are presented and results from a series of preliminary studies indicate the viability of mega-scale Rapid Manufacturing for construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "280 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
@@ -346,6 +328,36 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="../../../date/2009/10">(2009-10)</a><br><a href="../../../kest_busw.2009.ADDEfLSRM/">A Digital Design Environment for Large-Scale Rapid Manufacturing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
-      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{busw_soar_gibb_thor.2007.FC,
+      author            = "Richard A. Buswell and Rupert C. Soar and Alistar G.F. Gibb and Tony Thorpe",
+      title             = "Freeform Construction: Mega-Scale Rapid Manufacturing for Construction",
+      doi               = "10.1016/j.autcon.2006.05.002",
+      year              = "2007",
+      journal           = "Automation in Construction",
+      volume            = "16",
+      number            = "2",
+      pages             = "224--231",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. A. Buswell, R. C. Soar, A. G. F. Gibb and T. Thorpe, “Freeform Construction: Mega-Scale Rapid Manufacturing for Construction”, <i>Automation in Construction</i>, vol. 16, no. 2, pp. 224–231, 2007, doi: 10.1016/j.autcon.2006.05.002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Buswell, Richard A., Rupert C. Soar, Alistar G.F. Gibb, and Tony Thorpe. “Freeform Construction: Mega-Scale Rapid Manufacturing for Construction”. <i>Automation in Construction</i> 16, no. 2 (2007): 224–31. https://doi.org/10.1016/j.autcon.2006.05.002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

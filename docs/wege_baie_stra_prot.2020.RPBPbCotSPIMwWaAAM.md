@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Weger, Daniel Baier, Alexander Straßer, Sophia Prottung, Thomas Kränkel, Andreas Bachmann, Christoph Gehlen, Michael Zäh
+    - footer
+title: Weger Daniel, Baier Daniel, Straßer Alexander, Prottung Sophia, Kränkel Thomas, Bachmann Andreas, Gehlen Christoph, Zäh Michael
 description:
 tags:
  - additive
@@ -22,42 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>:aca-blank: A First Feasibility Study ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_95" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_95</a>
+#Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">A First Feasibility Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_95" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_95" target="_blank">10.1007/978-3-030-49916-7_95</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3379-616X" title="ORCID: 0000-0002-3379-616X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baier_daniel"><b>Baier</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0293-3392" title="ORCID: 0000-0003-0293-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strasser_alexander"><b>Straßer</b>&nbsp;Alexander</a></span>, <a href="../../../author/prottung_sophia"><b>Prottung</b>&nbsp;Sophia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krankel_thomas"><b>Kränkel</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1250-564X" title="ORCID: 0000-0003-1250-564X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bachmann_andreas"><b>Bachmann</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2882-1359" title="ORCID: 0000-0002-2882-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zah_f_michael"><b>Zäh</b>&nbsp;Michael</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 978-987
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a> <a href="https://orcid.org/0000-0002-3379-616X" title="ORCID: 0000-0002-3379-616X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a> <a href="https://orcid.org/0000-0003-0293-3392" title="ORCID: 0000-0003-0293-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a>
-,     <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> <a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bachmann_andreas"><b>Bachmann</b> Andreas</a> <a href="https://orcid.org/0000-0003-1250-564X" title="ORCID: 0000-0003-1250-564X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zah_f_michael"><b>Zäh</b> Michael</a> <a href="https://orcid.org/0000-0002-2882-1359" title="ORCID: 0000-0002-2882-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 978-987
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bed`](keyword/bed)
-    [`#combination`](keyword/combination)
-    [`#feasibility`](keyword/feasibility)
-    [`#first`](keyword/first)
-    [`#intrusion`](keyword/intrusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#method`](keyword/method)
-    [`#particle`](keyword/particle)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#selective`](keyword/selective)
-    [`#wire`](keyword/wire)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinforced%20Particle-Bed%20Printing%20by%20Combination%20of%20the%20Selective%20Paste-Intrusion%20Method%20with%20Wire%20and%20Arc%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088257736&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,24 +45,19 @@ tags:
 <a href="https://inciteful.xyz/p/W3041387207" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_95" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_95?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The selective paste intrusion (SPI) is a particle-bed based Additive Manufacturing technology, which spreads particles in small layers and bonds them locally with cement paste. One advantage of this technology compared to other AM processes is that no support structures for cantilevers are required. Furthermore, SPI-made components achieve almost isotropic compressive strength (&gt;70 MPa), high durability, and shape accuracy. However, to qualify the SPI process for the production of structural concrete elements, the inclusion of reinforcement is necessary. This paper presents an approach to print the reinforcement during SPI simultaneously by using Wire and Arc Additive Manufacturing (WAAM). WAAM enables the fabrication of geometrically complex steel reinforcement structures with high build-up rates, whereby properties similar to those of construction steel can be achieved. This allows producing reinforced concrete structures according to the principle “form follows force”, which leads to ecological and economical components. The major challenge that arises from the combination of WAAM and SPI is the occurrence of high temperatures (approx. 1600 °C) during WAAM. Thus, a detrimental effect on the penetration behaviour and loss of strength of the concrete matrix is expected. This paper focusses on the heat propagation during WAAM and its potential effect on the paste rheology. The results of the rheological measurements show that an application of both tested cement paste mixtures is possible for welding distances of approx. 62–68 mm and 82–84 mm to the particle-bed which reduce the temperature to 70 °C and 50 °C without additional cooling.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../pier_wege_perr_lowk.2018.PoCPiSPD3P/">Penetration of Cement-Pastes into Sand-Packings During 3D Printing:<br/>Analytical and Experimental Study</a></li>
-      <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pier_perr.2025.APMfCM/">Alternative Printing-Methods for Cementitious Materials</a></li>
       <li><a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/maurer_christian"><b>Maurer</b> Christian</a>, <a href="../../../author/jungwirth_jorg"><b>Jungwirth</b> Jörg</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../rich_maur_jung.2024.RSfAMCE/">Reinforcement-Strategies for Additively Manufactured Concrete Elements:<br/>Exploring the Potential of Different Reinforcement-Materials for Selective Cement-Activation</a></li>
       <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/haynack_alexander"><b>Haynack</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../stra_hayn_kran_gehl.2024.AMbtSPI/">Additive Manufacturing by the Selective Paste-Intrusion:<br/>Effect of the Distance of the Print Nozzle to the Particle-Bed on the Print Quality</a></li>
@@ -115,4 +83,35 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
       <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/kofler_nadine"><b>Kofler</b> Nadine</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../matt_kofl_kran_wege.2020.ILRCwFRfELME/">Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM,
+      author            = "Daniel Weger and Daniel Baier and Alexander Straßer and Sophia Prottung and Thomas Kränkel and Andreas Bachmann and Christoph Gehlen and Michael F. Zäh",
+      title             = "Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing: A First Feasibility Study",
+      doi               = "10.1007/978-3-030-49916-7_95",
+      year              = "2020",
+      volume            = "28",
+      pages             = "978--987",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Weger, “Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing: A First Feasibility Study”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 978–987. doi: 10.1007/978-3-030-49916-7_95.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weger, Daniel, Daniel Baier, Alexander Straßer, Sophia Prottung, Thomas Kränkel, Andreas Bachmann, Christoph Gehlen, and Michael F. Zäh. “Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing: A First Feasibility Study”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:978–87, 2020. https://doi.org/10.1007/978-3-030-49916-7_95.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

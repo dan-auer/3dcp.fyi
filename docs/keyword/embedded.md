@@ -8,7 +8,7 @@ search:
 
 # #embedded
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a>, <a href="../../../author/halim_alvin"><b>Halim</b> Alvin</a>, <a href="../../../author/budiman_franky"><b>Budiman</b> Franky</a>, <a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b> Pamuda</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chan_hali_budi_pudj.2024.ESoBSoESRiVB3PCM/">Experimental Study of Bond Strength of Embedded Steel Reinforcement in Vibration-Based 3D Printed Concrete Mortar</a></li>
   <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/chen_jianhua"><b>Chen</b> Jianhua</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bani_demp_chen_kaze.2025.MLAtPtEAFSoSE3PS/">Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures</a></li>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a></li>

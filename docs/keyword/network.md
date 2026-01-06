@@ -8,7 +8,7 @@ search:
 
 # #network
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
   <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
   <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/shen_liang"><b>Shen</b> Liang</a>, <a href="../../../author/su_shiyong"><b>Su</b> Shiyong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../cui_ji_shen_su.2025.ANNBMfA3PCPiRF/">A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication</a></li>

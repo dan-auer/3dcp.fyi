@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Magdalena Rudziewicz, Marcin Maroszek, Kinga Setlak (nee Pławecka), Mateusz Góra, Marek Hebda
+    - footer
+title: Rudziewicz Magdalena, Maroszek Marcin, Setlak (nee Pławecka) Kinga, Góra Mateusz, Hebda Marek
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma17164106) Optimization of Foams-Polypropylene Fiber-Reinforced Concrete Mixtures Dedicated for 3D Printing ([2024-08](date/2024/08))
-<a href="https://doi.org/10.3390/ma17164106" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17164106</a>
+#Optimization of Foams-Polypropylene Fiber-Reinforced Concrete Mixtures Dedicated for 3D Printing ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17164106) <a href="https://doi.org/10.3390/ma17164106" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17164106" target="_blank">10.3390/ma17164106</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4044-8451" title="ORCID: 0000-0003-4044-8451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b>&nbsp;Kinga</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0028-5312" title="ORCID: 0000-0002-0028-5312" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gora_mateusz"><b>Góra</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b> Kinga</a> <a href="https://orcid.org/0000-0003-4044-8451" title="ORCID: 0000-0003-4044-8451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gora_mateusz"><b>Góra</b> Mateusz</a> <a href="https://orcid.org/0000-0002-0028-5312" title="ORCID: 0000-0002-0028-5312" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 16, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#foam`](keyword/foam)
-    [`#mixture`](keyword/mixture)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Foams-Polypropylene%20Fiber-Reinforced%20Concrete%20Mixtures%20Dedicated%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202433597&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401975611" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17164106" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17164106?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The continued global urbanization of the world is driving the development of the construction industry. In order to protect the environment, intensive research has been carried out in recent years on the development of sustainable materials and ecological construction methods. Scientific research often focuses on developing building materials that are renewable, energy-efficient, and have minimal impact on the environment throughout their life cycle. Therefore, this article presents research results aimed at developing a concrete mixture using cement with reduced CO2 emissions. In the context of increasing ecological awareness and in line with European Union policy, the development of a mixture based on environmentally friendly cement is of key importance for the future development of the construction industry. The article compares the physical properties of two mixtures, their foaming possibilities, and the influence of the added polypropylene (PP) fibers on the strength properties of the produced composites. It was found that bending strength and compressive strength were highest in the material with silica fume and aluminum powder at 5.36 MPa and 28.76 MPa, respectively. Microscopic analysis revealed significant pore structure differences, with aluminum foamed samples having regular pores and hydrogen peroxide foamed samples having irregular pores. Optimizing aluminum powder and water content improved the materials' strength, crucial for maintaining usability and achieving effective 3D printing. The obtained results are important in the development of research focused on the optimization of 3D printing technology using concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_zhan_pang_wang.2022.SFODaEo3PCwCA/">Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/kearsley_elsabe"><b>Kearsley</b> Elsabe</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cho_rooy_kear_zijl.2022.FSo3PFC/">Foam Stability of 3D Printable Foamed Concrete</a></li>
       <li><a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gao_hua_yue.2023.SoPaRPo3PPFC/">Study on Preparation and Rheological Properties of 3D Printed Pre-Foaming Concrete</a></li>
@@ -92,8 +70,8 @@ tags:
       <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
       <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
@@ -101,4 +79,34 @@ tags:
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/gora_michal"><b>Góra</b> Michał</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../rudz_maro_huty_gora.2025.IoFAaSoPi3PFC/">Influence of Foaming Agents and Stabilizers on Porosity in 3D Printed Foamed Concrete</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/dziura_pawel"><b>Dziura</b> Paweł</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../maro_rudz_huty_dziu.2024.Eo3CPEE/">Evaluation of 3D Concrete Printing Extrusion-Efficiency</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rudz_maro_setl_gora.2024.OoFPFRCMDf3P,
+      author            = "Magdalena Rudziewicz and Marcin Maroszek and Kinga Setlak (nee Pławecka) and Mateusz Góra and Marek Hebda",
+      title             = "Optimization of Foams-Polypropylene Fiber-Reinforced Concrete Mixtures Dedicated for 3D Printing",
+      doi               = "10.3390/ma17164106",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rudziewicz, M. Maroszek, K. S. (nee Pławecka), M. Góra and M. Hebda, “Optimization of Foams-Polypropylene Fiber-Reinforced Concrete Mixtures Dedicated for 3D Printing”, <i>Materials</i>, vol. 17, no. 16, 2024, doi: 10.3390/ma17164106.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rudziewicz, Magdalena, Marcin Maroszek, Kinga Setlak (nee Pławecka), Mateusz Góra, and Marek Hebda. “Optimization of Foams-Polypropylene Fiber-Reinforced Concrete Mixtures Dedicated for 3D Printing”. <i>Materials</i> 17, no. 16 (2024). https://doi.org/10.3390/ma17164106.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,8 @@ search:
 
 # #connection
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guan_wang_bai_ma.2025.E3PFCvFHSCR/">Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement</a></li>
   <li><a href="../../../author/haar_bjorn"><b>Haar</b> Bjorn</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../haar_krug_zijl.2025.3PCPBCCD/">3D Printed Concrete Pinned Beam-Column Connection Development</a></li>

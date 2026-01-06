@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Silvia Reißig, Carolin Bedolla, Tamara Meyer, Viktor Mechtcherine
+    - footer
+title: Reißig Silvia, Bedolla Carolin, Meyer Tamara, Mechtcherine Viktor
 description:
 tags:
  - additive
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2820) Rheological Behavior of Fiber-Reinforced LC3 Fine-Grained Concrete in the Context of Additive Manufacturing ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1002/cepa.2820" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/cepa.2820</a>
+#Rheological Behavior of Fiber-Reinforced LC3 Fine-Grained Concrete in the Context of Additive Manufacturing ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2820) <a href="https://doi.org/10.1002/cepa.2820" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2820" target="_blank">10.1002/cepa.2820</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reissig_silvia"><b>Reißig</b>&nbsp;Silvia</a></span>, <a href="../../../author/bedolla_carolin"><b>Bedolla</b>&nbsp;Carolin</a></span>, <a href="../../../author/meyer_tamara"><b>Meyer</b>&nbsp;Tamara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - ce/papers, Vol. 6, Iss. 6, pp. 755-763
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> <a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bedolla_carolin"><b>Bedolla</b> Carolin</a>
-,     <a href="../../../author/meyer_tamara"><b>Meyer</b> Tamara</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ce/papers, Vol. 6, Iss. 6, pp. 755-763
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#fine`](keyword/fine)
-    [`#grain`](keyword/grain)
-    [`#lc3`](keyword/lc3)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Behavior%20of%20Fiber-Reinforced%20LC3%20Fine-Grained%20Concrete%20in%20the%20Context%20of%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389409197" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/cepa.2820" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/cepa.2820?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, the development of digital construction methods, such as 3D printing with concrete, has been followed and tested with increasing interest by the construction industry, as it represents a promising approach to many of the problems currently facing this sector. At the same time, the call for sustainable binders is getting louder and louder. It seems logical to combine both approaches in order to establish a sustainable construction method. In addition, the integration of reinforcement in the context of additive manufacturing should bring further advantages. The most practical approach is the introduction of short fibers dispersed in the concrete as part of the extrusion process. From a technical perspective, however, the implementation of this ecologically and economically advantageous concept can only succeed if the 3D printable materials have rheological properties in their fresh state that meet the high requirements of the complex 3D printing process chain. For these reasons, this article presents an initial insight into the rheological behavior of PE fiber-reinforced 3D printable fine-grain concretes (printFRC) based on a sustainable binder.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
@@ -90,8 +66,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/herdan_annika"><b>Herdan</b> Annika</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rei_herd_mech.2024.CotRBoaRSSCitCo3P/">Characterisation of the Rheological Behavior of a Resource-Saving Sustainable Concrete in the Context of 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rei_bedo_meye_mech.2023.RBoFRLFGCitCoAM,
+      author            = "Silvia Reißig and Carolin Bedolla and Tamara Meyer and Viktor Mechtcherine",
+      title             = "Rheological Behavior of Fiber-Reinforced LC3 Fine-Grained Concrete in the Context of Additive Manufacturing",
+      doi               = "10.1002/cepa.2820",
+      year              = "2023",
+      journal           = "ce/papers",
+      volume            = "6",
+      number            = "6",
+      pages             = "755--763",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Reißig, C. Bedolla, T. Meyer and V. Mechtcherine, “Rheological Behavior of Fiber-Reinforced LC3 Fine-Grained Concrete in the Context of Additive Manufacturing”, <i>ce/papers</i>, vol. 6, no. 6, pp. 755–763, 2023, doi: 10.1002/cepa.2820.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reißig, Silvia, Carolin Bedolla, Tamara Meyer, and Viktor Mechtcherine. “Rheological Behavior of Fiber-Reinforced LC3 Fine-Grained Concrete in the Context of Additive Manufacturing”. <i>Ce/papers</i> 6, no. 6 (2023): 755–63. https://doi.org/10.1002/cepa.2820.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

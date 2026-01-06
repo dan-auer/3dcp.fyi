@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamadreza Moini
+    - footer
+title: Moini Mohamadreza
 description:
 tags:
  - architecture
@@ -11,24 +12,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://letters.rilem.net/index.php/rilem/article/download/183/191) Perspectives in Architected Infrastructure Materials ([2024-01](date/2024/01))
-<a href="https://doi.org/10.21809/rilemtechlett.2023.183" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21809/rilemtechlett.2023.183</a>
+#Perspectives in Architected Infrastructure Materials ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://letters.rilem.net/index.php/rilem/article/download/183/191) <a href="https://doi.org/10.21809/rilemtechlett.2023.183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2023.183" target="_blank">10.21809/rilemtechlett.2023.183</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
+Journal Article - RILEM Technical Letters, Vol. 8, pp. 125-140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - RILEM Technical Letters, Vol. 8, pp. 125-140
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#material`](keyword/material)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Perspectives%20in%20Architected%20Infrastructure%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183420427&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -43,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391052236" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21809/rilemtechlett.2023.183" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21809/rilemtechlett.2023.183?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents perspectives and progress in the emerging field of architected infrastructure materials. Recent developments in advanced and additive manufacturing with construction materials have led to new capabilities to define, design, and shape the internal arrangement and overall morphology of materials. In contrast to conventional casting techniques used in the construction of civil engineering materials, such advancements have allowed for purposeful designs of materials into specific morphologies across scales, referred to as architected infrastructure materials. Contrary to monolithic construction materials, architected materials present new opportunities to engineer enhanced mechanical properties and unique performance characteristics in civil infrastructure components through design. Here, we present an overview of the field and the research gaps in design, manufacturing, and materials mechanics. An overview of a few design opportunities, including bio‐inspired strategies is discussed. Current advancements in the field are presented focusing on cement‐based, non‐hydraulic, and cementitious composite architected materials. The existing studies on bouligand, cellular, lattice, auxetic, tabulated, and gradient architected construction materials and their mechanically advantageous characteristics are reviewed. The future directions and perspectives for the field are outlined with respect to the current research gaps and upcoming opportunities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/ladinig_johannes"><b>Ladinig</b> Johannes</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bhoo_ladi_mele_bloc.2019.FRfR3PC/">Function Representation for Robotic 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -78,8 +64,6 @@ tags:
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../nguy_nguy_pand_tran.2022.3CPMoTWS/">3D Concrete Printing Modelling of Thin-Walled Structures</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/lu_guoxing"><b>Lu</b> Guoxing</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../pham_lu_tran.2022.IoPPoMPoTDPFRC/">Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete</a></li>
-      <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/garlock_e-moreyra_maria"><b>Garlock</b> Maria</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../prih_garl_najm_moin.2024.MPoSACEbRAM/">Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing</a></li>
-      <li><a href="../../../author/ralston_nadia"><b>Ralston</b> Nadia</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rals_gupt_moin.2024.3PoACSBwEaISC/">3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation</a></li>
       <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../savi.2020.Uo3PtCMFCC/">Use of 3D Printing to Create Multi-Functional Cementitious Composites:<br/>Review, Challenges and Opportunities</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
@@ -91,8 +75,8 @@ tags:
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../xu_zhan_schl_luko.2020.CCCwAB/">Cementitious Cellular Composites with Auxetic Behavior</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/daneshvar_dana"><b>Daneshvar</b> Dana</a>, <a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dane_rabi_gupt_najm.2024.GFoIBiTCRAM/">Geometric Fidelity of Interlocking Bodies in Two-Component Robotic Additive Manufacturing</a></li>
@@ -100,4 +84,34 @@ tags:
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ralston_nadia"><b>Ralston</b> Nadia</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rals_gupt_moin.2024.3PoACSBwEaISC/">3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moin.2023.PiAIM,
+      author            = "Mohamadreza Moini",
+      title             = "Perspectives in Architected Infrastructure Materials",
+      doi               = "10.21809/rilemtechlett.2023.183",
+      year              = "2023",
+      journal           = "RILEM Technical Letters",
+      volume            = "8",
+      pages             = "125--140",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Moini, “Perspectives in Architected Infrastructure Materials”, <i>RILEM Technical Letters</i>, vol. 8, pp. 125–140, 2023, doi: 10.21809/rilemtechlett.2023.183.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moini, Mohamadreza. “Perspectives in Architected Infrastructure Materials”. <i>RILEM Technical Letters</i> 8 (2023): 125–40. https://doi.org/10.21809/rilemtechlett.2023.183.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

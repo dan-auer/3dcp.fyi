@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Longfei Zhou, Mifeng Gou, Haibo Zhang
+    - footer
+title: Zhou Longfei, Gou Mifeng, Zhang Haibo
 description:
 tags:
  - aggregate
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.129904" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129904</a>
+#Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar ([2022-12](date/2022/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129904" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129904" target="_blank">10.1016/j.conbuildmat.2022.129904</a>
 
--------------------------
+<a href="../../../author/zhou_longfei"><b>Zhou</b>&nbsp;Longfei</a></span>, <a href="../../../author/gou_mifeng"><b>Gou</b>&nbsp;Mifeng</a></span>, <a href="../../../author/zhang_haibo"><b>Zhang</b>&nbsp;Haibo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 364
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>
-,     <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>
-,     <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 364, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#application`](keyword/application)
-    [`#fine`](keyword/fine)
-    [`#investigation`](keyword/investigation)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20the%20Applicability%20of%20Bauxite-Tailings%20as%20Fine%20Aggregate%20to%20Prepare%203D%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144048577&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311779597" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129904" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129904?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Using tailings to replace natural resources to prepare building materials is not only effectively alleviate the pressure of natural resource shortage, but also has important significance for environmental protection. This study aims to explore the applicability of bauxite tailings as fine aggregate instead of natural sand to prepare 3D printing mortar. The workability, rheological properties, buildability, hydration properties and mechanical properties of 3D printing mortar using bauxite tailings instead of 15%, 25%, 35% and 45% of natural sand were determined. The results show that the incorporation of tailings reduces the fluidity, slump and setting time of the 3D printing mortar, but delays the hydration process of the cementitious material. The rheological analysis reveals that the incorporation of tailings can significantly improve the static yield stress, dynamic yield stress, plastic viscosity and thixotropy of 3D printing mortar. With increasing tailings content, the macroscopic deformation and structural deformation rate of 3D printed components are gradually decreased. The compressive strength and flexural strength of 3D printing mortar are increased first and then decreased with increasing tailings content. Based on the test results, it is determined that the optimal ratio is that the mass ratio of tailings to replace natural sand is 35%, which can make the 3D printing mortar obtain good workability and high mechanical strength. Overall, it is feasible to use bauxite tailings to prepare 3D printing mortar, which optimizes both buildability and mechanical properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chou_ghaf_nema_siko.2022.EoNaCHCMaLCAotPo3PAAM/">Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials</a></li>
@@ -83,8 +63,8 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/yao_xiao"><b>Yao</b> Xiao</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yue_hua_qian_yao.2022.IoAoSEAFSaFAiSF3PC/">Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/li_baidian"><b>Li</b> Baidian</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a>, <a href="../../../author/gu_kan"><b>Gu</b> Kan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_wu_gu.2026.EIPaSo3PUwAT/">Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
@@ -100,4 +80,33 @@ tags:
       <li><a href="../../../author/genc_gokhan"><b>Genc</b> Gokhan</a>, <a href="../../../author/demircan_kilic_ruya"><b>Demircan</b> Ruya</a>, <a href="../../../author/beyhan_figen"><b>Beyhan</b> Figen</a>, <a href="../../../author/kaplan_gokhan"><b>Kaplan</b> Gökhan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../genc_demi_beyh_kapl.2023.AotSaPoACRwCBB/">Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders:<br/>Environmental Life-Cycle-Analysis and 3D Printability</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_gou_zhan.2023.IotAoBTaFAtP3PM,
+      author            = "Longfei Zhou and Mifeng Gou and Haibo Zhang",
+      title             = "Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar",
+      doi               = "10.1016/j.conbuildmat.2022.129904",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "364",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Zhou, M. Gou and H. Zhang, “Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar”, <i>Construction and Building Materials</i>, vol. 364, 2023, doi: 10.1016/j.conbuildmat.2022.129904.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Longfei, Mifeng Gou, and Haibo Zhang. “Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar”. <i>Construction and Building Materials</i> 364 (2023). https://doi.org/10.1016/j.conbuildmat.2022.129904.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

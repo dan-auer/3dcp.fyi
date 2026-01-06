@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiwei Weng, Mingyang Li, Dong Zhang, Ming Tan, Shunzhi Qian
+    - footer
+title: Weng Yiwei, Li Mingyang, Zhang Dong, Tan Ming, Qian Shunzhi
 description:
 tags:
  - adhesion
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/148266/2/Investigation%20of%20interlayer%20adhesion%20of%203D%20printable%20cementitious%20material%20from%20the%20aspect%20of%20printing%20process.pdf) Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106386" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106386</a>
+#Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process ([2021-02](date/2021/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/148266/2/Investigation%20of%20interlayer%20adhesion%20of%203D%20printable%20cementitious%20material%20from%20the%20aspect%20of%20printing%20process.pdf) <a href="https://doi.org/10.1016/j.cemconres.2021.106386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106386" target="_blank">10.1016/j.cemconres.2021.106386</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 143
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 143, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#aspects`](keyword/aspects)
-    [`#cement`](keyword/cement)
-    [`#inter`](keyword/inter)
-    [`#investigation`](keyword/investigation)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Inter-Layer%20Adhesion%20of%203D%20Printable%20Cementitious%20Material%20from%20the%20Aspect%20of%20Printing-Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101051825&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3133372163" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106386" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106386?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The safety of structure printed by extrusion-based 3D concrete printing (3DCP) is significantly influenced by interlayer bonding, which is governed by fresh material properties and processes, including mixing, printing, and post-processing phases. Much literature focused on improving interlayer bond strength via material tailoring/bonding agent addition but gave insufficient attention to other phases' impacts. This study investigates the effects of parameters on interlayer bond strength from different phases in 3DCP, including superplasticizer dosage, printing speed, and curing condition. In the mixing phase, the superplasticizer dosage was increased to reduce Ithix and increase surface moisture content (SMC), consequently improving interface microstructure and interlayer bond strength. In the printing phase, similar results were observed by increasing pumping speed to increase material shear rate. In the post-processing phase, proper curing also improved interlayer bond strength. While SMC has a critical impact on interlayer bond strength, material thixotropic index (Ithix) probably has a stronger influence.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../li_wang_ma.2018.MftEoBaBRo3PTM/">Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar</a></li>
       <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../lim_weng_li.2018.EoFRPoMPo3PCM/">Effect of Fiber-Reinforced Polymer on Mechanical Performance of 3D Printed Cementitious Material</a></li>
@@ -91,8 +66,10 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "125 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/song_qiang"><b>Song</b> Qiang</a>, <a href="../../../author/zhou_guangyu"><b>Zhou</b> Guangyu</a>, <a href="../../../author/bao_hailing"><b>Bao</b> Hailing</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../song_zhou_bao_liu.2025.SotEoNPCMaVDotPaMPot3PCM/">Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar</a></li>
@@ -217,4 +194,33 @@ tags:
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../samb_vale.2021.IoWTRPSotMMaAIPo3PCM/">Influence of Waste-Tire-Rubber-Particles-Size on the Microstructural, Mechanical, and Acoustic Insulation Properties of 3D Printable Cement Mortars</a></li>
       <li><a href="../../../author/ning_xin"><b>Ning</b> Xin</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/wu_chunlin"><b>Wu</b> Chunlin</a>, <a href="../../../author/wang_chao"><b>Wang</b> Chao</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ning_liu_wu_wang.2021.3PiC/">3D Printing in Construction:<br/>Current Status, Implementation Hindrances, and Development Agenda</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{weng_li_zhan_tan.2021.IoILAo3PCMftAoPP,
+      author            = "Yiwei Weng and Mingyang Li and Dong Zhang and Ming Jen Tan and Shunzhi Qian",
+      title             = "Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process",
+      doi               = "10.1016/j.cemconres.2021.106386",
+      year              = "2021",
+      journal           = "Cement and Concrete Research",
+      volume            = "143",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Weng, M. Li, D. Zhang, M. J. Tan and S. Qian, “Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process”, <i>Cement and Concrete Research</i>, vol. 143, 2021, doi: 10.1016/j.cemconres.2021.106386.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weng, Yiwei, Mingyang Li, Dong Zhang, Ming Jen Tan, and Shunzhi Qian. “Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process”. <i>Cement and Concrete Research</i> 143 (2021). https://doi.org/10.1016/j.cemconres.2021.106386.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

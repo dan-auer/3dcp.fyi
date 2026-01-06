@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gonçalo Duarte, José Duarte, Nathan Brown, Ali Memari, Juan Gevaudan
+    - footer
+title: Duarte Gonçalo, Duarte José, Brown Nathan, Memari Ali, Gevaudan Juan
 description:
 tags:
  - age
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design for Early-Age Structural Performance of 3D Printed Concrete Structures:<br/>:aca-blank: A Parametric Numerical Modeling Approach ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.jobe.2024.109986" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109986</a>
+#Design for Early-Age Structural Performance of 3D Printed Concrete Structures&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">A Parametric Numerical Modeling Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109986" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109986" target="_blank">10.1016/j.jobe.2024.109986</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7111-0018" title="ORCID: 0000-0002-7111-0018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_goncalo"><b>Duarte</b>&nbsp;Gonçalo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7585-652X" title="ORCID: 0000-0002-7585-652X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brown_c_nathan"><b>Brown</b>&nbsp;Nathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6843-9747" title="ORCID: 0000-0001-6843-9747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gevaudan_pablo_juan"><b>Gevaudan</b>&nbsp;Juan</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109986
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a> <a href="https://orcid.org/0000-0002-7111-0018" title="ORCID: 0000-0002-7111-0018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="https://orcid.org/0000-0002-7585-652X" title="ORCID: 0000-0002-7585-652X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gevaudan_pablo_juan"><b>Gevaudan</b> Juan</a> <a href="https://orcid.org/0000-0001-6843-9747" title="ORCID: 0000-0001-6843-9747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109986
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#early`](keyword/early)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#parameter`](keyword/parameter)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20for%20Early-Age%20Structural%20Performance%20of%203D%20Printed%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196528543&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,23 +42,18 @@ tags:
 <a href="https://inciteful.xyz/p/W4399907729" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109986" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109986?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a design framework based on structural performance of 3D concrete printing (3DCP) that considers three strength criteria for early-age failure modes: plastic collapse, elastic buckling, and flexural collapse. A simulator of structural behavior during printing was developed to take any shell or linear model, slice it into layers, perform incremental structural analysis layer by layer, and assign the respective material properties by adjusting the age of each layer when a new one is added. Then, finite element analysis for each printing stage indicates whether collapse might occur based on rheological and mechanical material properties over time. Printing experiments validated the criteria based on collapse layer estimation for a solid cylinder (plastic collapse), a thin-wall structure (elastic buckling), and an overhang structure (flexural collapse). Plastic collapse was most accurately predicted by a Drucker-Prager yield criterion for an unrestrained base and by a Modified Lade and Mohr-Coulomb criterion for a partially restrained base, while elastic buckling was predicted by linear elastic analysis.. Additionally, this paper introduces flexural collapse as a distinct failure mode in early age 3DCP, proposing design criteria for overhang structures based on printing experiments. Experimental lessons learned were used to establish design constraints to aid the design of 3DCP structures, which were tested in the design of a hollow column and a cantilever structure. This study advances computational design for 3DPC structures with a new design methodology that combines constrained design and parametric numerical modeling.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC/">Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../comm_serd_pede_span.2019.MPaNSoMDaCiEAM/">Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a></li>
-      <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../duar_duar_brow_mema.2024.DfEASPo3PCS/">Design for Early-Age Structural Performance of 3D Printed Concrete Structures:<br/>A Parametric Numerical Modeling Approach</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_ding_xiao_mech.2022.BPo3PCaEA/">Buildability Prediction of 3D Printed Concrete at Early-Ages:<br/>A Numerical Study with Drucker-Prager-Model</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
@@ -92,8 +66,8 @@ tags:
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b> Olexander</a>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b> Nina</a>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b> Stanislav</a>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b> Andrii</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P/">Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer</a></li>
       <li><a href="../../../author/shang_yuqing"><b>Shang</b> Yuqing</a>, <a href="../../../author/yu_zheming"><b>Yu</b> Zheming</a>, <a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shan_yu_ma_wei.2026.Ro3PMaPPoBFRC/">Research on 3D Printing Materials and Printing Parameters of Basalt Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
@@ -107,7 +81,34 @@ tags:
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/chen_jianhua"><b>Chen</b> Jianhua</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bani_demp_chen_kaze.2025.MLAtPtEAFSoSE3PS/">Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures</a></li>
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sent_raph.2025.PBUtSTo3PCE/">Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../duar_brow_duar.2024.WfGSaOFaTPi3CPoV/">Workflow for Generating, Simulating, and Optimizing Form and Tool-Path in 3D Concrete Printing of Vaults</a></li>
-      <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../duar_duar_brow_mema.2024.DfEASPo3PCS/">Design for Early-Age Structural Performance of 3D Printed Concrete Structures:<br/>A Parametric Numerical Modeling Approach</a></li>
-      <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../duar_duar_brow_mema.2023.DOWf3CPoSS/">Design-Optimization Workflow for 3D Concrete Printing of Spanning Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duar_duar_brow_mema.2024.DfEASPo3PCS,
+      author            = "Gonçalo Duarte and José Pinto Duarte and Nathan C. Brown and Ali M. Memari and Juan Pablo Gevaudan",
+      title             = "Design for Early-Age Structural Performance of 3D Printed Concrete Structures: A Parametric Numerical Modeling Approach",
+      doi               = "10.1016/j.jobe.2024.109986",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109986",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Duarte, J. P. Duarte, N. C. Brown, A. M. Memari and J. P. Gevaudan, “Design for Early-Age Structural Performance of 3D Printed Concrete Structures: A Parametric Numerical Modeling Approach”, <i>Journal of Building Engineering</i>, p. 109986, 2024, doi: 10.1016/j.jobe.2024.109986.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Duarte, Gonçalo, José Pinto Duarte, Nathan C. Brown, Ali M. Memari, and Juan Pablo Gevaudan. “Design for Early-Age Structural Performance of 3D Printed Concrete Structures: A Parametric Numerical Modeling Approach”. <i>Journal of Building Engineering</i>, 2024, 109986. https://doi.org/10.1016/j.jobe.2024.109986.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

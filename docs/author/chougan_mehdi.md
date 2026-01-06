@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Chougan Mehdi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../noai_chou_samb_vale.2025.OLCCCCELGWCf3PA/">Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications</a></li>
   <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/seidy_eslam"><b>Seidy</b> Eslam</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../noai_chou_seid_alba.2025.OLCCCfE3PPoLCM/">Optimizing Limestone Calcined Clay Cement for Enhanced 3D Printing Performance of Low-Carbon Materials</a></li>

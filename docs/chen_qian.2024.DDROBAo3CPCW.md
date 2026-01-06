@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Baixi Chen, Xiaoping Qian
+    - footer
+title: Chen Baixi, Qian Xiaoping
 description:
 tags:
  - analysis
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.addma.2024.104459" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104459</a>
+#Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104459" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104459" target="_blank">10.1016/j.addma.2024.104459</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_baixi"><b>Chen</b>&nbsp;Baixi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9159-9877" title="ORCID: 0000-0002-9159-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_xiaoping"><b>Qian</b>&nbsp;Xiaoping</a></span><br>
+Journal Article - Additive Manufacturing, No. 104459
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> <a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="https://orcid.org/0000-0002-9159-9877" title="ORCID: 0000-0002-9159-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104459
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#curve`](keyword/curve)
-    [`#data`](keyword/data)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#reliability`](keyword/reliability)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reliability"><button class="btn">#reliability</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Reliability-Oriented%20Buildability-Analysis%20of%203D%20Concrete%20Printed%20Curved%20Wall" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205031311&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402898719" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104459" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104459?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The inherent uncertainties, particularly material uncertainties, significantly impact the buildability of 3D concrete-printed curved walls, leading to substantial variations that complicate quality control. To address this, a data-driven stochastic analysis framework is proposed for reliability-oriented buildability evaluation. Material uncertainties are quantified using a maximum likelihood-based stochastic parameter estimation method and considered as the uncertainty sources. Subsequently, a data-driven model, namely sparse Gaussian process regression (SGPR) model, is trained and combined with Monte Carlo simulation to assess the stochastic behavior of curved wall buildability. The influences of print speed, layer height, and horizontal curvature on buildability are analyzed under varying reliability levels. Additionally, an empirical model is proposed for the rapid evaluation of maximum buildability at specified horizontal curvature and reliability levels, providing significant practical value for 3D concrete printing designers. The impact of other uncertainty sources including the model error on reliability-oriented buildability is also discussed. These sources exhibit negligible influence when their intensities are less than 30% of that caused by material uncertainty. Furthermore, the feasibility of the data-driven reliability-oriented buildability analysis for more complex geometry is also demonstrated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
@@ -100,13 +79,41 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
       <li><a href="../../../author/casanova_euro"><b>Casanova</b> Euro</a>, <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b> Nelson</a>, <a href="../../../author/valdebenito_michael"><b>Valdebenito</b> Michael</a>, <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../casa_hida_vald_forc.2025.ORoCCWMwAC/">Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction</a></li>
-      <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_qian.2024.DDROBAo3CPCW,
+      author            = "Baixi Chen and Xiaoping Qian",
+      title             = "Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall",
+      doi               = "10.1016/j.addma.2024.104459",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104459",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Chen  and X. Qian, “Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall”, <i>Additive Manufacturing</i>, p. 104459, 2024, doi: 10.1016/j.addma.2024.104459.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Baixi, and Xiaoping Qian. “Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall”. <i>Additive Manufacturing</i>, 2024, 104459. https://doi.org/10.1016/j.addma.2024.104459.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

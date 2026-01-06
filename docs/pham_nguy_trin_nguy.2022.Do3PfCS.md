@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thi Pham, Thu Nguyen, Thanh Trinh, Anh Nguyen, Quang Do, Bien Bui, Jianzhuang Xiao
+    - footer
+title: Pham Thi, Nguyen Thu, Trinh Thanh, Nguyen Anh, Do Quang, Bui Bien, Xiao Jianzhuang
 description:
 tags:
  - approach
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of 3D Printers for Concrete Structures:<br/>:aca-blank: Mix Proportion Design Approach and Laboratory Testing ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1108/sasbe-07-2022-0137" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/sasbe-07-2022-0137</a>
+#Development of 3D Printers for Concrete Structures&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">Mix Proportion Design Approach and Laboratory Testing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/sasbe-07-2022-0137" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/sasbe-07-2022-0137" target="_blank">10.1108/sasbe-07-2022-0137</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7081-0285" title="ORCID: 0000-0001-7081-0285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pham_loan_thi"><b>Pham</b>&nbsp;Thi</a></span>, <a href="../../../author/nguyen_thu"><b>Nguyen</b>&nbsp;Thu</a></span>, <a href="../../../author/trinh_thanh"><b>Trinh</b>&nbsp;Thanh</a></span>, <a href="../../../author/nguyen_anh"><b>Nguyen</b>&nbsp;Anh</a></span>, <a href="../../../author/do_quang"><b>Do</b>&nbsp;Quang</a></span>, <a href="../../../author/bui_bien"><b>Bui</b>&nbsp;Bien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
+Journal Article - Smart and Sustainable Built Environment
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a> <a href="https://orcid.org/0000-0001-7081-0285" title="ORCID: 0000-0001-7081-0285" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen_thu"><b>Nguyen</b> Thu</a>
-,     <a href="../../../author/trinh_thanh"><b>Trinh</b> Thanh</a>
-,     <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a>
-,     <a href="../../../author/do_quang"><b>Do</b> Quang</a>
-,     <a href="../../../author/bui_bien"><b>Bui</b> Bien</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Smart and Sustainable Built Environment, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#development`](keyword/development)
-    [`#labor`](keyword/labor)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#proportion`](keyword/proportion)
-    [`#structure`](keyword/structure)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printers%20for%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85136877728&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4293433697" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/sasbe-07-2022-0137" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/sasbe-07-2022-0137?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study deals with three major topics: (1) the developed generations of 3D concrete printers, (2) the mix design approach for cement-based materials and (3) laboratory testing. The big question is how to approach and follow the trend of 3D concrete printing technology with limited conditions such as printers, technology issues and budget. Therefore, this research focused on dealing with prominent issues, including printing equipment, mixed proportion design approaches and laboratory testing methods will be presented and analyzed. The details of three printing equipment, including a printhead, a small-scale 3D printer, a 3D concrete printer and the printing process related to Simplify and Mach3 software, will be revealed. Secondly, the classification and efficient process will be given according to the mixture proportion design method proposed. Thirdly, laboratory testing will be conducted, including extrudability, buildability and printability. Finally, some highlight conclusions are given based on the appearance and quality of the samples printed. Research has been carried out with cement-based materials and 3D concrete printer which adopted the screw extruders. Mix design proportion method via coefficient and slump value proposed by the authors is a relatively effective and convenient method; the rheological properties, printing process and geometry of a sample are the most significant factors that decide the success of the printing work. Additive manufacturing, widely known as 3D printing, has recently drawn the attention of researchers worldwide for a few decades. Thanks to its capability to transform a drawing into an object, the idea of 3D printing has also attracted the attention of engineers, architects and investors. (1) Mix design proportion via coefficient and slump value proposed by the authors is a relatively effective and convenient method that can be implemented simply at the laboratory or the site. (2) The ranges of coefficients by weight of the water, sand and PP fibers to binder are (0.27–0.3), (0.6–1.0) and around 0.3, respectively. The maximum sand size was smaller than 2.5 mm, and the small amount of PP fibers enhanced the quality and significantly reduced the printed samples' shrinkage. (3) The printability is affected by mix proportion and the relationship between nozzle printing speed parameter and extrusion speed of motor turning. (4) The chosen layer height recommended smaller than 0.83 times nozzle diameter is reasonable and improves adhesions and buildability. (5) The printing open time of the concrete mixture of (12–15) minutes is a barrel to promote 3D concrete printing technology and needs improvement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_yuanhong"><b>Li</b> Yuanhong</a>, <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/huang_mingyang"><b>Huang</b> Mingyang</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../cui_li_cao_huan.2022.ESo3CPCBotBE/">Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
@@ -102,11 +76,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../pham_huan.2024.3PACR/">3D Printed Artificial Coral Reefs:<br/>Design and Manufacture</a></li>
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a>, <a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_bish_sing_pani.2024.DAaDoaGRfML3CPwSaEV/">Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation</a></li>
       <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/trinh_thanh_duy"><b>Trinh</b> Duy</a>, <a href="../../../author/do_quang_trong"><b>Do</b> Trong</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pham_trin_do_huan.2023.FBoPCWBwDFR/">Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced</a></li>
       <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/trinh_thanh_duy"><b>Trinh</b> Duy</a>, <a href="../../../author/nguyen_hoai-thu_thi"><b>Nguyen</b> Thi</a>, <a href="../../../author/do_quang_trong"><b>Do</b> Trong</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pham_trin_nguy_do.2023.SoFBoPCWBUPF/">Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pham_nguy_trin_nguy.2022.Do3PfCS,
+      author            = "Thi Loan Pham and Thu Nguyen and Thanh Trinh and Anh Nguyen and Quang Do and Bien Bui and Jianzhuang Xiao",
+      title             = "Development of 3D Printers for Concrete Structures: Mix Proportion Design Approach and Laboratory Testing",
+      doi               = "10.1108/sasbe-07-2022-0137",
+      year              = "2022",
+      journal           = "Smart and Sustainable Built Environment",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. L. Pham, “Development of 3D Printers for Concrete Structures: Mix Proportion Design Approach and Laboratory Testing”, <i>Smart and Sustainable Built Environment</i>, 2022, doi: 10.1108/sasbe-07-2022-0137.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pham, Thi Loan, Thu Nguyen, Thanh Trinh, Anh Nguyen, Quang Do, Bien Bui, and Jianzhuang Xiao. “Development of 3D Printers for Concrete Structures: Mix Proportion Design Approach and Laboratory Testing”. <i>Smart and Sustainable Built Environment</i>, 2022. https://doi.org/10.1108/sasbe-07-2022-0137.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

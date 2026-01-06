@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Liu Zhenbang 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
   <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
   <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/du_liangfen"><b>Du</b> Liangfen</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_du_liu_li.2024.3CCPwPRCR/">3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber:<br/>Mechanical and Acoustic Insulation Properties</a></li>

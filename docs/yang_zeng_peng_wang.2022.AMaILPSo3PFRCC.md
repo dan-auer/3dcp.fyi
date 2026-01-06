@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rijiao Yang, Qiang Zeng, Yu Peng, Hailong Wang, Zhendi Wang
+    - footer
+title: Yang Rijiao, Zeng Qiang, Peng Yu, Wang Hailong, Wang Zhendi
 description:
 tags:
  - anomaly
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106829" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106829</a>
+#Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2022.106829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106829" target="_blank">10.1016/j.cemconres.2022.106829</a>
 
--------------------------
+<a href="../../../author/yang_rijiao"><b>Yang</b>&nbsp;Rijiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_qiang"><b>Zeng</b>&nbsp;Qiang</a></span>, <a href="../../../author/peng_yu"><b>Peng</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhendi"><b>Wang</b>&nbsp;Zhendi</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 157
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>
-,     <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> <a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>
-,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> <a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 157, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anomaly`](keyword/anomaly)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#matrix`](keyword/matrix)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/anomaly"><button class="btn">#anomaly</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anomalous%20Matrix%20and%20Inter-Layer%20Pore-Structure%20of%203D%20Printed%20Fiber-Reinforced%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129262311&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4228996831" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106829" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106829?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Ordinary 3D-printed neat cement paste generally possesses a porous interface between two neighbored filaments. Our work demonstrates that the addition of glass microfibers into cementitious slurries may lead to an anomalous pore structure, i.e., the increased porosity of the inner and outer matrices in filaments and the densified interlayer between filaments in fiber-reinforced cementitious composites (FRCC). Limited glass microfiber addition (0.6%) has no benefits to the bending strength of FRCC beams, the compressive strength of filament matrix, and the bonding behaviors between filaments. The coupled mechanisms of lubrication layer and pressurized bleeding on the surface of filaments, and air-void entrapments in the matrix of filaments were proposed to account for the formation of the anomalous pore structure and strengths. Our findings would deepen the understanding of matrix-interlayer structures in 3D-printed FRCC towards better tuning and design of 3D printing-based additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "51 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -126,8 +100,8 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -158,4 +132,33 @@ tags:
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_zeng_peng_wang.2022.AMaILPSo3PFRCC,
+      author            = "Rijiao Yang and Qiang Zeng and Yu Peng and Hailong Wang and Zhendi Wang",
+      title             = "Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites",
+      doi               = "10.1016/j.cemconres.2022.106829",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "157",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Yang, Q. Zeng, Y. Peng, H. Wang and Z. Wang, “Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites”, <i>Cement and Concrete Research</i>, vol. 157, 2022, doi: 10.1016/j.cemconres.2022.106829.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Rijiao, Qiang Zeng, Yu Peng, Hailong Wang, and Zhendi Wang. “Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites”. <i>Cement and Concrete Research</i> 157 (2022). https://doi.org/10.1016/j.cemconres.2022.106829.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

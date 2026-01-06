@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Lu Bing 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lu_li_qian_li.2024.HP3CPwZ/">High-Performance 3D Concrete Printing with Zeolite</a></li>
   <li><a href="../../../author/nghia_quoc_vuong"><b>Nghia</b> Vuong</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/nam_quang_nguyen"><b>Nam</b> Nguyen</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../nghi_lim_nam_lu.2024.AFSRf3/">Automated Force-Sensitive Reinforcement for 3DCP</a></li>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lu_wang_wang_tan.2024.DoRSSSCMfSSHM/">Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring</a></li>

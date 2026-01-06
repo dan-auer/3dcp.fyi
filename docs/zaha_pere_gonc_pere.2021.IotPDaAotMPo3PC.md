@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behzad Zahabizadeh, João Pereira, Claúdia Gonçalves, Eduardo Pereira, Vítor Cunha
+    - footer
+title: Zahabizadeh Behzad, Pereira João, Gonçalves Claúdia, Pereira Eduardo, Cunha Vítor
 description:
 tags:
  - age
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete ([2021-03](date/2021/03))
-<a href="https://doi.org/10.1617/s11527-021-01660-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-021-01660-7</a>
+#Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete ([2021-03](date/2021/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-021-01660-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-021-01660-7" target="_blank">10.1617/s11527-021-01660-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b>&nbsp;Behzad</a></span>, <a href="../../../author/pereira_joao"><b>Pereira</b>&nbsp;João</a></span>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b>&nbsp;Claúdia</a></span>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b>&nbsp;Eduardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b>&nbsp;Vítor</a></span><br>
+Journal Article - Materials and Structures, Vol. 54, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a> <a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>
-,     <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>
-,     <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a>
-,     <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 54, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20the%20Printing-Direction%20and%20Age%20on%20the%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103290431&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3136596530" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-021-01660-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-021-01660-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) technology through wet extrusion was developed as one of the digitized approaches with the aim of enhancing the conventional construction methods. Investigation of mechanical/structural behaviour of printed elements is one of the critical aspects regarding the use of 3DCP. A comprehensive experimental programme was performed to evaluate the behaviour under compressive and flexural loading, at distinct ages and under different loading orientations regarding the printing direction, as well as the quality of printed specimens in addition to the degree of their anisotropic/orthotropic. During the compressive tests, a digital image correlation analysis was also performed to assess the crack initiation and propagation within concrete printed specimens. The results unveiled an adequate quality of the printed specimens based on the mechanical tests performed, which was also corroborated by some physical properties, namely through the specific weight and porosity, in which the differences between the printed and mould cast series were marginal.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -102,8 +80,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "42 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>
       <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kul_koca.2025.PAoDaOPi3CPoWE/">Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements</a></li>
@@ -146,4 +125,34 @@ tags:
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../skib_tech_fede_olcz.2021.ESoHYsMf3PM/">Experimental Study of Hardened Young's Modulus for 3D Printed Mortar</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/segundo_rocha_iran"><b>Segundo</b> Iran</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/freitas_elisabete"><b>Freitas</b> Elisabete</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zaha_segu_pere_frei.2021.DoP3PCM/">Development of Photocatalytic 3D Printed Cementitious Mortars:<br/>Influence of the Curing, Spraying Time-Gaps and TiO2 Coating Rates</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC,
+      author            = "Behzad Zahabizadeh and João Pereira and Claúdia Gonçalves and Eduardo N. B. Pereira and Vítor M. C. F. Cunha",
+      title             = "Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete",
+      doi               = "10.1617/s11527-021-01660-7",
+      year              = "2021",
+      journal           = "Materials and Structures",
+      volume            = "54",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zahabizadeh, J. Pereira, C. Gonçalves, E. N. B. Pereira and V. M. C. F. Cunha, “Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete”, <i>Materials and Structures</i>, vol. 54, no. 2, 2021, doi: 10.1617/s11527-021-01660-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zahabizadeh, Behzad, João Pereira, Claúdia Gonçalves, Eduardo N. B. Pereira, and Vítor M. C. F. Cunha. “Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete”. <i>Materials and Structures</i> 54, no. 2 (2021). https://doi.org/10.1617/s11527-021-01660-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

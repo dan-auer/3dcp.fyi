@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Szymon Skibicki, Piotr Szewczyk, Julia Majewska, Daniel Sibera, Ewa Ekiert, Sang-Yeop Chung, Paweł Sikora
+    - footer
+title: Skibicki Szymon, Szewczyk Piotr, Majewska Julia, Sibera Daniel, Ekiert Ewa, Chung Sang-Yeop, Sikora Paweł
 description:
 tags:
  - adhesion
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.109093) The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.jobe.2024.109093" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109093</a>
+#The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.109093) <a href="https://doi.org/10.1016/j.jobe.2024.109093" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109093" target="_blank">10.1016/j.jobe.2024.109093</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2707-5630" title="ORCID: 0000-0002-2707-5630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/szewczyk_piotr"><b>Szewczyk</b>&nbsp;Piotr</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-5292-5888" title="ORCID: 0009-0008-5292-5888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/majewska_julia"><b>Majewska</b>&nbsp;Julia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibera_daniel"><b>Sibera</b>&nbsp;Daniel</a></span>, <a href="../../../author/ekiert_ewa"><b>Ekiert</b>&nbsp;Ewa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8295-8137" title="ORCID: 0000-0002-8295-8137" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chung_sang-yeop"><b>Chung</b>&nbsp;Sang-Yeop</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109093
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a> <a href="https://orcid.org/0000-0002-2707-5630" title="ORCID: 0000-0002-2707-5630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/majewska_julia"><b>Majewska</b> Julia</a> <a href="https://orcid.org/0009-0008-5292-5888" title="ORCID: 0009-0008-5292-5888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> <a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ekiert_ewa"><b>Ekiert</b> Ewa</a>
-,     <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> <a href="https://orcid.org/0000-0002-8295-8137" title="ORCID: 0000-0002-8295-8137" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109093
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#beam`](keyword/beam)
-    [`#distribution`](keyword/distribution)
-    [`#effect`](keyword/effect)
-    [`#element`](keyword/element)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Inter-Layer%20Adhesion%20on%20Stress-Distribution%20in%203D%20Printed%20Beam%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188688034&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392962539" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109093" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109093?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interlayer adhesion is one of the most pivotal aspects related to mechanical performance and durability of 3D printed concrete. However, due to continuous printing of multi-layered structures, large-scale buildings require long time intervals between layer deposition, with interlayer bond strength decreasing as time intervals between printed layers increase. This study evaluates comprehensively the effects of time intervals between layers: 1 h, 1.5 h, 2 h, 3 h, and 4.5 h as well as two different height to span ratios (). In order to assess the properties of interlayer regions microstructural examinations using techniques such as X-ray micro-computed tomography (micro-CT), scanning electron microscopy (SEM) were applied. In addition destructive testing of compressive, splitting tensile and flexural strengths along with crack opening analysis using the Digital Image Correlation (DIC) method was performed and supported with FEM analysis. The results show that interlayer adhesion strength decreased significantly for time intervals of up to 2 h, with a linearly decreasing trend. The reduction in strength the interlayer bond for a 2-h interval was 56.6%, compared to the reference specimen. Afterwards, the decrease in strength was minimalwas minimal (up to 68.5% after 4.5 h time interval). However, microstructural investigations revealed that specimens with printing interval beyond 2 h exhibited noticeable continuous cracking in interfacial zone with widths reaching of up to 100 μm (SEM). At the same time micro-CT analysis confirmed creation of longitudinal pores which in turn was reflected in different cracking phenomena of specimens with longer printing intervals (>2 h). This phenomenon was further explained through FEM modeling. As an outcome it was proven through DIC that that increasing the time interval between the deposit of successive layers not only affects the strength of the entire beam, but also affects its cracking mode. The discontinuities in the interlayer contact zone leads to destruction characteristic of composite structures, thus the structure comes to be destroyed layer by layer, resulting from insufficient interlayer adhesion. The presented study is the first to fully evaluate the failure behavior of 3D printed specimens with long time intervals.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "57 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -130,8 +104,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
@@ -144,4 +118,33 @@ tags:
       <li><a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a>, <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../razz_pan_cerr_kora.2024.FaHPo3PMMbHN/">Fresh and Hardened Properties of 3D Printing Mortar Modified by Halloysite-Nanotube</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../skib_fede_hoff_chou.2024.PoR3PC3FRAaaSTDCCi3/">Potential of Reusing 3D Printed Concrete (3DPC) Fine Recycled Aggregates as a Strategy Towards Decreasing Cement Content in 3DPC</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{skib_szew_maje_sibe.2024.TEoILAoSDi3PBE,
+      author            = "Szymon Skibicki and Piotr Szewczyk and Julia Majewska and Daniel Sibera and Ewa Ekiert and Sang-Yeop Chung and Paweł Sikora",
+      title             = "The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements",
+      doi               = "10.1016/j.jobe.2024.109093",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109093",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Skibicki, “The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements”, <i>Journal of Building Engineering</i>, p. 109093, 2024, doi: 10.1016/j.jobe.2024.109093.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skibicki, Szymon, Piotr Szewczyk, Julia Majewska, Daniel Sibera, Ewa Ekiert, Sang-Yeop Chung, and Paweł Sikora. “The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements”. <i>Journal of Building Engineering</i>, 2024, 109093. https://doi.org/10.1016/j.jobe.2024.109093.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

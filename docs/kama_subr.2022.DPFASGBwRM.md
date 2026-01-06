@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tippabhotla Kamakshi, Kolluru Subramaniam
+    - footer
+title: Kamakshi Tippabhotla, Subramaniam Kolluru
 description:
 tags:
  - ash
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Developing Printable Fly-Ash-Slag Geopolymer Binders with Rheology Modification ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1007/978-3-031-06116-5_14" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-06116-5_14</a>
+#Developing Printable Fly-Ash-Slag Geopolymer Binders with Rheology Modification ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_14" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_14" target="_blank">10.1007/978-3-031-06116-5_14</a>
 
--------------------------
+<a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b>&nbsp;Tippabhotla</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
+Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 93-98
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 93-98
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#binder`](keyword/binder)
-    [`#development`](keyword/development)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#modification`](keyword/modification)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Developing%20Printable%20Fly-Ash-Slag%20Geopolymer%20Binders%20with%20Rheology%20Modification" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133213580&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285153159" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-06116-5_14" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-06116-5_14?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rheology of mixtures of fly ash-slag geopolymers, optimized for strength is not favorable for printing. Rheology modification is required using additives, which provide specific improvements in yield stress and thixotropy. These binders typically exhibit a pseudo-yield type behavior with a continuously deformable response under applied stress. A printable (both extrudable and buildable) material requires a yield-type behavior and adequate thixotropy, which can be brought out by addition of clay and Carboxymethyl Cellulose (CMC). The modification in rheology is attempted using commonly available Kaolinite clay. Specific changes in rheology caused due to the rheology modifiers are evaluated and are related with the performance in printing. Addition of clay contributes to an increase in the stiffness of the paste and improves buildability of the mix. A synergy between clay and CMC is established for proper printability. Clay in combination with CMC increases the storage modulus and produces a yield type behavior. CMCimproves flocculation ofclay but delays buildup due to its negative influence on reaction kinetics. Excess CMC increases the resistance to flow and produces a continuously deformable Maxwell response, which is not suitable for buildability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
@@ -74,9 +54,40 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../kama_subr.2024.RCa3CPwFABANSEAAB/">Rheology-Control and 3D Concrete Printing with Fly Ash-Based Aqueous Nano-Silica Enhanced Alkali-Activated Binders</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kama_subr.2022.DPFASGBwRM,
+      author            = "Tippabhotla A. Kamakshi and Kolluru V. L. Subramaniam",
+      title             = "Developing Printable Fly-Ash-Slag Geopolymer Binders with Rheology Modification",
+      doi               = "10.1007/978-3-031-06116-5_14",
+      year              = "2022",
+      volume            = "37",
+      pages             = "93--98",
+      booktitle         = "Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022",
+      editor            = "Richard A. Buswell and Ana Blanco and Sergio Cavalaro and Peter Kinnell",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. A. Kamakshi  and K. V. L. Subramaniam, “Developing Printable Fly-Ash-Slag Geopolymer Binders with Rheology Modification”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 93–98. doi: 10.1007/978-3-031-06116-5_14.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kamakshi, Tippabhotla A., and Kolluru V. L. Subramaniam. “Developing Printable Fly-Ash-Slag Geopolymer Binders with Rheology Modification”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:93–98, 2022. https://doi.org/10.1007/978-3-031-06116-5_14.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

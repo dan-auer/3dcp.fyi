@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Akerke Baigarina, Essam Shehab, Md. Ali
+    - footer
+title: Baigarina Akerke, Shehab Essam, Ali Md.
 description:
 tags:
  - construction
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Construction 3D Printing:<br/>:aca-blank: A Critical Review and Future Research-Directions ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1007/s40964-023-00409-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-023-00409-8</a>
+#Construction 3D Printing&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">A Critical Review and Future Research-Directions</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-023-00409-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-023-00409-8" target="_blank">10.1007/s40964-023-00409-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4601-7209" title="ORCID: 0000-0002-4601-7209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baigarina_akerke"><b>Baigarina</b>&nbsp;Akerke</a></span>, <a href="../../../author/shehab_essam"><b>Shehab</b>&nbsp;Essam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_hazrat_md"><b>Ali</b>&nbsp;Md.</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a> <a href="https://orcid.org/0000-0002-4601-7209" title="ORCID: 0000-0002-4601-7209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>
-,     <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#critical`](keyword/critical)
-    [`#direction`](keyword/direction)
-    [`#future`](keyword/future)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147592316&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319342490" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-023-00409-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-023-00409-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study reviews the essential aspects of implementing Additive Manufacturing in the construction sector by highlighting the key benefits and challenges. A comparative review allows identifying the leading technologies and prospects that have been utilized in this particular area. In recent years, research into the application of 3D printing in the building industry has increased significantly worldwide. Moreover, various systems and robotic arms have been investigated to enhance buildings’ productivity. Even though there are various manufacturing methods, this article reviewed current material extrusion technologies widely used in this field. The article critically evaluates the materials used in printed structures, polymer, and cementing. The problems of reducing carbon dioxide emissions through the introduction of geopolymers are also considered. The paper focuses on four areas or directions or dimensions. First, the central concept and classifications of AM and the crucial advantages of utilizing its technologies in the construction sector are discussed. Second, material extrusion techniques and their types, including cementitious and polymer materials and large-scale 3D printing technologies are examined. Third, the ways of reducing negative impacts on the building industry by implementing geopolymers and their current development are described. Fourth, the crucial challenges of using 3D printing approaches and their future direction should be focused on are put forward. Moreover, this article provides lists of companies that produce modern 3D printers from all over the world.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "73 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
@@ -136,8 +118,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yous_khan_koc.2025.MPaDOoLESRwNFWaNf3oFS/">Material, Process, and Design Optimization of Local Earthen Soil Reinforced with Natural Fiber Waste and Nanoclay for 3DP of Functional Structures</a></li>
       <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
@@ -151,4 +133,32 @@ tags:
       <li><a href="../../../author/taher_ammar"><b>Taher</b> Ammar</a>, <a href="../../../author/asut_serdar"><b>Aşut</b> Serdar</a>, <a href="../../../author/spoel_willem"><b>Spoel</b> Willem</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tahe_asut_spoe.2023.AIWfDaFMFBCTAMwC/">An Integrated Workflow for Designing and Fabricating Multi-Functional Building Components Through Additive Manufacturing with Clay</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../plac_schw.2023.CAMiC/">Concrete Additive Manufacturing in Construction:<br/>Integration Based on Component-Related Fabrication-Strategies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baig_sheh_ali.2023.C3P,
+      author            = "Akerke Baigarina and Essam Shehab and Md. Hazrat Ali",
+      title             = "Construction 3D Printing: A Critical Review and Future Research-Directions",
+      doi               = "10.1007/s40964-023-00409-8",
+      year              = "2023",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Baigarina, E. Shehab and M. H. Ali, “Construction 3D Printing: A Critical Review and Future Research-Directions”, <i>Progress in Additive Manufacturing</i>, 2023, doi: 10.1007/s40964-023-00409-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baigarina, Akerke, Essam Shehab, and Md. Hazrat Ali. “Construction 3D Printing: A Critical Review and Future Research-Directions”. <i>Progress in Additive Manufacturing</i>, 2023. https://doi.org/10.1007/s40964-023-00409-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

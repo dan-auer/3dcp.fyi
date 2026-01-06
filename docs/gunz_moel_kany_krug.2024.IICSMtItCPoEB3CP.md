@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: F. Günzel, Gerrit Moelich, Simba Kanyenze, Jacques Kruger, Riaan Combrinck
+    - footer
+title: Günzel F., Moelich Gerrit, Kanyenze Simba, Kruger Jacques, Combrinck Riaan
 description:
 tags:
  - base
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1007/s41062-024-01788-9) Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1007/s41062-024-01788-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41062-024-01788-9</a>
+#Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s41062-024-01788-9) <a href="https://doi.org/10.1007/s41062-024-01788-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-024-01788-9" target="_blank">10.1007/s41062-024-01788-9</a>
 
--------------------------
+<a href="../../../author/gunzel_s_f"><b>Günzel</b>&nbsp;F.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8438-1968" title="ORCID: 0000-0002-8438-1968" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moelich_marius_gerrit"><b>Moelich</b>&nbsp;Gerrit</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-4406-4801" title="ORCID: 0009-0005-4406-4801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanyenze_simon_simba"><b>Kanyenze</b>&nbsp;Simba</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/combrinck_riaan"><b>Combrinck</b>&nbsp;Riaan</a></span><br>
+Journal Article - Innovative Infrastructure Solutions, Vol. 9, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gunzel_s_f"><b>Günzel</b> F.</a>
-,     <a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a> <a href="https://orcid.org/0000-0002-8438-1968" title="ORCID: 0000-0002-8438-1968" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kanyenze_simon_simba"><b>Kanyenze</b> Simba</a> <a href="https://orcid.org/0009-0005-4406-4801" title="ORCID: 0009-0005-4406-4801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Innovative Infrastructure Solutions, Vol. 9, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#extrusion`](keyword/extrusion)
-    [`#improvement`](keyword/improvement)
-    [`#investigation`](keyword/investigation)
-    [`#mechanism`](keyword/mechanism)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#setting`](keyword/setting)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigating%20Inherent%20Cement%20Setting%20Mechanisms%20to%20Improve%20the%20Constructability%20Performance%20of%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209827184&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404524016" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41062-024-01788-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41062-024-01788-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research aims to utilize the inherent setting mechanisms of cement to 3D print a more conventional concrete mix without the addition of commercial accelerator admixtures, towards improved surface finish, pumpability or buildability. Three potential rapid setting mechanisms are investigated in this research, namely: flash setting, false setting and belitic calcium sulfoaluminate (BCSA) replacement of cement. The three rapid setting mechanisms are characterised by determining hardened state compressive strength, setting time and green-state compressive strength. Potential mixtures are then 3D printed and their performance quantified through buildability tests and observation of surface finish quality. Additionally, the economic feasibility is investigated. It is shown that false setting does not significantly influence the mechanical properties, while the early age strength gain is not as rapid as for flash setting or BCSA cement. Flash setting improves the early age strength but reduces the long-term compressive strength. Partially replacing OPC with BCSA cement improves the early age strength and does not impact the mechanical properties significantly. Higher cement replacements increased the intensity of the rapid setting mechanisms, shortening setting and increasing early age strength. Flash setting showed the largest positive impact on the buildability of 3D printed concrete. The buildability could be increased by 321% with flash setting, while BCSA cement resulted in a buildability increase of 214% and for false setting only a 35% increase. Flash setting and BCSA replacement are shown to be the more economical rapid setting mechanisms.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
@@ -91,8 +65,38 @@ tags:
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gunz_moel_kany_krug.2024.IICSMtItCPoEB3CP,
+      author            = "F. S. Günzel and Gerrit Marius Moelich and Simba Simon Kanyenze and Jacques Pienaar Kruger and Riaan Combrinck",
+      title             = "Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing",
+      doi               = "10.1007/s41062-024-01788-9",
+      year              = "2024",
+      journal           = "Innovative Infrastructure Solutions",
+      volume            = "9",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. S. Günzel, G. M. Moelich, S. S. Kanyenze, J. P. Kruger and R. Combrinck, “Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing”, <i>Innovative Infrastructure Solutions</i>, vol. 9, no. 12, 2024, doi: 10.1007/s41062-024-01788-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Günzel, F. S., Gerrit Marius Moelich, Simba Simon Kanyenze, Jacques Pienaar Kruger, and Riaan Combrinck. “Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing”. <i>Innovative Infrastructure Solutions</i> 9, no. 12 (2024). https://doi.org/10.1007/s41062-024-01788-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

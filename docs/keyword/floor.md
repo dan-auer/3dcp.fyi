@@ -8,7 +8,8 @@ search:
 
 # #floor
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kalmykov_oleg"><b>Kalmykov</b> Oleg</a>, <a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a>, <a href="../../../author/furman_inna"><b>Furman</b> Inna</a>, <a href="../../../author/demianenko_ivan"><b>Demianenko</b> Ivan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../kalm_rezn_furm_demi.2025.EToaCGFSMU3T/">Experimental Testing of a Complex-Geometry Floor Slab Manufactured Using 3DCP Technology</a></li>
   <li><a href="../../../author/wang_zherui"><b>Wang</b> Zherui</a>, <a href="../../../author/teitelbaum_e"><b>Teitelbaum</b> E.</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/aviv_d"><b>Aviv</b> D.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../wang_teit_akba_aviv.2025.EAoTMPoSO3PCFEfCER/">Experimental Assessment on Thermal Mass Performance of Structurally Optimized, 3D-Printed Concrete Floor Element for Carbon Emission Reduction</a></li>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cao_cui.2025.SFNPTtR3PC/">Simple Floor Nail Placement Technique to Reinforce 3D-Printed Concrete:<br/>An Experimental Investigation</a></li>
   <li><a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/thoma_karel"><b>Thoma</b> Karel</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../amma_gebh_thom_mata.2024.EBoCFSPwDFF/">Environmental Benefits of Concrete Floor Slabs Produced with Digitally Fabricated Formworks:<br/>A Case Study</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Oscar Mendoza Reales, Pedro Duda, Emílio Silva, Maria Paiva, Romildo Toledo Filho
+    - footer
+title: Mendoza Reales Oscar, Duda Pedro, Silva Emílio, Paiva Maria, Toledo Filho Romildo
 description:
 tags:
  - agent
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2019.05.174" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2019.05.174</a>
+#Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes ([2019-06](date/2019/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2019.05.174" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.05.174" target="_blank">10.1016/j.conbuildmat.2019.05.174</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span>, <a href="../../../author/duda_pedro"><b>Duda</b>&nbsp;Pedro</a></span>, <a href="../../../author/silva_ccm_emilio"><b>Silva</b>&nbsp;Emílio</a></span>, <a href="../../../author/paiva_dm_maria"><b>Paiva</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 219, pp. 91-100
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duda_pedro"><b>Duda</b> Pedro</a>
-,     <a href="../../../author/silva_ccm_emilio"><b>Silva</b> Emílio</a>
-,     <a href="../../../author/paiva_dm_maria"><b>Paiva</b> Maria</a>
-,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 219, pp. 91-100
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#buildup`](keyword/buildup)
-    [`#cement`](keyword/cement)
-    [`#particle`](keyword/particle)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/buildup"><button class="btn">#buildup</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nanosilica-Particles%20as%20Structural%20Buildup%20Agents%20for%203D%20Printing%20with%20Portland%20Cement-Pastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85066394894&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2948630861" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2019.05.174" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2019.05.174?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work presents a comparative study of the effects of nanosilica particles on the fresh state properties of a Portland cement paste designed for 3D printing. Cement pastes were prepared with different solid substitutions of cement by pozzolanic particles and their yield stress was measured after different resting times. Rheological results were used to obtain the rate of thixotropic buildup of each paste, which was used to compute the parameters of an ideal 3D printing process (layer height, time to extrude one layer, and horizontal velocity). Results obtained for nanosilica were compared with results from other three commonly used pozzolanic nano and micro particles (microsilica, metakaolin and nanoclay). All pozzolanic particles studied were capable of increasing both the initial yield stress and the rate of thixotropic buildup of cement paste through different mechanisms; nevertheless, these increases did not translate directly into a more efficient 3D printing process due to the limitations imposed by the need to avoid cold joints between layers. It was concluded that even though nanosilica particles are more efficient thickeners for cement paste than the other particles studied, their effect is constrained by the maximum and minimum printing velocities. Additional chemical accelerators should be considered to reach the full potential of nanosilica as a structural buildup agent.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -85,8 +63,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "64 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
@@ -151,4 +130,34 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mend_duda_silv_paiv.2019.NPaSBAf3PwPCP,
+      author            = "Oscar Aurelio Mendoza Reales and Pedro Duda and Emílio C.C.M. Silva and Maria D.M. Paiva and Romildo Dias Toledo Filho",
+      title             = "Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes",
+      doi               = "10.1016/j.conbuildmat.2019.05.174",
+      year              = "2019",
+      journal           = "Construction and Building Materials",
+      volume            = "219",
+      pages             = "91--100",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. A. M. Reales, P. Duda, E. C. C. M. Silva, M. D. M. Paiva and R. D. T. Filho, “Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes”, <i>Construction and Building Materials</i>, vol. 219, pp. 91–100, 2019, doi: 10.1016/j.conbuildmat.2019.05.174.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reales, Oscar Aurelio Mendoza, Pedro Duda, Emílio C.C.M. Silva, Maria D.M. Paiva, and Romildo Dias Toledo Filho. “Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes”. <i>Construction and Building Materials</i> 219 (2019): 91–100. https://doi.org/10.1016/j.conbuildmat.2019.05.174.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

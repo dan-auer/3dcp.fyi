@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sameh Sayegh, Lotfi Romdhane, Solair Manjikian
+    - footer
+title: Sayegh Sameh, Romdhane Lotfi, Manjikian Solair
 description:
 tags:
  - benefit
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Critical Review of 3D Printing in Construction:<br/>:aca-blank: Benefits, Challenges, and Risks ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1007/s43452-020-00038-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43452-020-00038-w</a>
+#A Critical Review of 3D Printing in Construction&nbsp;([2022-03](date/2022/03))
+<div class="h1-like">Benefits, Challenges, and Risks</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s43452-020-00038-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-020-00038-w" target="_blank">10.1007/s43452-020-00038-w</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9127-0318" title="ORCID: 0000-0002-9127-0318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sayegh_monir_sameh"><b>el&nbsp;Sayegh</b>&nbsp;Sameh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8509-2386" title="ORCID: 0000-0001-8509-2386" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/romdhane_lotfi"><b>Romdhane</b>&nbsp;Lotfi</a></span>, <a href="../../../author/manjikian_solair"><b>Manjikian</b>&nbsp;Solair</a></span><br>
+Journal Article - Archives of Civil and Mechanical Engineering, Vol. 20, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sayegh_monir_sameh"><b>el Sayegh</b> Sameh</a> <a href="https://orcid.org/0000-0002-9127-0318" title="ORCID: 0000-0002-9127-0318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a> <a href="https://orcid.org/0000-0001-8509-2386" title="ORCID: 0000-0001-8509-2386" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Civil and Mechanical Engineering, Vol. 20, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#benefit`](keyword/benefit)
-    [`#challenge`](keyword/challenge)
-    [`#construction`](keyword/construction)
-    [`#critical`](keyword/critical)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20of%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85081746665&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3011091759" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43452-020-00038-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43452-020-00038-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper provides a critical review of the related literature on 3D printing in construction. The paper discusses and evaluates the different 3D printing techniques in construction. The paper also discusses and categorizes the benefits, challenges, and risks of 3D printing in construction. The use of 3D printing technology offers several advantages over traditional methods. However, it comes with its own additional challenges and risks. The main benefits of 3D printing in construction include constructability and sustainability benefits. The challenges are categorized into seven groups. The main challenges, found through the literature, are material related. The most cited challenges are material printability, buildability, and open time. Additionally, scalability, structural integrity, and lack of codes and regulations are frequently cited as major challenges. The additional risks are categorized into seven groups: 3D printing material, 3D printing equipment, construction site, and environment, management, stakeholders, regulatory and economic, and cybersecurity risks. The paper fills a gap in the literature as it addresses a new aspect of 3D printing, which is risk. The paper also provides some insights, recommendations, and future research ideas.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -108,8 +90,10 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "112 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/oh_gyujong"><b>Oh</b> Gyujong</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM/">Effects of the Combined Incorporation of Superabsorbent Polymers and Polyvinyl Alcohol Fibers on Material Properties of 3D Printable Mortar:<br/>Rheology, Shrinkage, and Mechanical Behavior</a></li>
@@ -220,14 +204,35 @@ tags:
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG/">Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/khayatt_m_ahmed"><b>Khayatt</b> Ahmed</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../siko_tech_fede_khay.2022.IitMaDCo3PC/">Insight into the Microstructural and Durability Characteristics of 3D Printed Concrete:<br/>Cast versus Printed Specimens</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
-      <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
-      <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../liu_nguy_pand_fox.2022.AMoSCMaFFS/">Additive Manufacturing of Sustainable Construction Materials and Form-Finding Structures:<br/>A Review on Recent Progresses</a></li>
-      <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../liu_xion_chen_jia.2022.EoSCoFaHPo3PFC/">Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete</a></li>
-      <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/tan_ze-mei_jolyn"><b>Tan</b> Jolyn</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../he_tan_chow_li.2021.DoNNfHILSo3PCP/">Design of Novel Nozzles for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
-      <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../guim_delg_luca.2021.AMoBC/">Additive Manufacturing on Building Construction</a></li>
-      <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../guim_delg_luca.2021.TaEBo3PoBC/">Thermal and Environmental Benefits of 3D Printing on Building Construction</a></li>
-      <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
-      <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
-      <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../plac_schw.2020.DoIAfC3PitCPBoFoAM/">Derivation of Integration Approaches for "Concrete 3D Printing" in the Construction Process Based on Features of Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saye_romd_manj.2020.ACRo3PiC,
+      author            = "Sameh Monir El Sayegh and Lotfi Romdhane and Solair Manjikian",
+      title             = "A Critical Review of 3D Printing in Construction: Benefits, Challenges, and Risks",
+      doi               = "10.1007/s43452-020-00038-w",
+      year              = "2020",
+      journal           = "Archives of Civil and Mechanical Engineering",
+      volume            = "20",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. M. E. Sayegh, L. Romdhane and S. Manjikian, “A Critical Review of 3D Printing in Construction: Benefits, Challenges, and Risks”, <i>Archives of Civil and Mechanical Engineering</i>, vol. 20, no. 2, 2020, doi: 10.1007/s43452-020-00038-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sayegh, Sameh Monir El, Lotfi Romdhane, and Solair Manjikian. “A Critical Review of 3D Printing in Construction: Benefits, Challenges, and Risks”. <i>Archives of Civil and Mechanical Engineering</i> 20, no. 2 (2020). https://doi.org/10.1007/s43452-020-00038-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

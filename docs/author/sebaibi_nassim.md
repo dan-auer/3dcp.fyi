@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sebaibi Nassim 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/hall_e_alice"><b>Hall</b> Alice</a>, <a href="../../../author/herbert_j-h_roger"><b>Herbert</b> Roger</a>, <a href="../../../author/stafford_richard"><b>Stafford</b> Richard</a>, <a href="../../../author/jones_g"><b>Jones</b> G.</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../hall_herb_staf_jone.2023.3PHEU/">3D Printed Habitat Enhancement Units:<br/>Key Features to Incorporate within Multifunctional Infrastructure</a></li>
   <li><a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>, <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>, <a href="../../../author/haddaji_badreddine"><b>Haddaji</b> Badreddine</a>, <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arre_fabi_hadd_chat.2023.RoAi3PToCM/">Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>Key Printing Parameters and Properties Characterization</a></li>
   <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yori_sleb_liza_inda.2023.ARBb3P/">Artificial Reefs Built by 3D Printing:<br/>Systematisation in the Design, Material-Selection and Fabrication</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Silvia Parmigiani, Devid Falliano, Sandro Moro, Giuseppe Ferro, Luciana Restuccia
+    - footer
+title: Parmigiani Silvia, Falliano Devid, Moro Sandro, Ferro Giuseppe, Restuccia Luciana
 description:
 tags:
  - application
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100483) 3D Printed Multi-Functional Foamed Concrete Building Components:<br/>:aca-blank: Material-Properties, Component Design, and 3D Printing Application ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.dibe.2024.100483" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100483</a>
+#3D Printed Multi-Functional Foamed Concrete Building Components&nbsp;([2024-06](date/2024/06))
+<div class="h1-like">Material-Properties, Component Design, and 3D Printing Application</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100483) <a href="https://doi.org/10.1016/j.dibe.2024.100483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100483" target="_blank">10.1016/j.dibe.2024.100483</a>
 
--------------------------
+<a href="../../../author/parmigiani_silvia"><b>Parmigiani</b>&nbsp;Silvia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falliano_devid"><b>Falliano</b>&nbsp;Devid</a></span>, <a href="../../../author/moro_sandro"><b>Moro</b>&nbsp;Sandro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0622-4203" title="ORCID: 0000-0002-0622-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b>&nbsp;Giuseppe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6999-0466" title="ORCID: 0000-0002-6999-0466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/restuccia_luciana"><b>Restuccia</b>&nbsp;Luciana</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100483
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>
-,     <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a> <a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a>
-,     <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> <a href="https://orcid.org/0000-0002-0622-4203" title="ORCID: 0000-0002-0622-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> <a href="https://orcid.org/0000-0002-6999-0466" title="ORCID: 0000-0002-6999-0466" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100483
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#foam`](keyword/foam)
-    [`#function`](keyword/function)
-    [`#material`](keyword/material)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Multi-Functional%20Foamed%20Concrete%20Building%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202449124&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399709875" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100483" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100483?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of multi-density foamed concretes (FCs) to produce multi-functional building components by 3D Concrete Printing (3DCP) is investigated. The use of medium-density 3D-printed foamed concrete (3DPFC_800), primarily serving a load-bearing role, and ultra-lightweight foamed concrete (ULFC_300), as thermal insulation material poured in the voids defined by the former, is proposed. This enables meeting diverse performance requirements within a single cementitious matrix, eliminating the need for multiple materials. The main properties of the proposed mixes are investigated. The compressive strength and thermal conductivity are equal to 7.04 MPa and 0.205 W/mK, and 1.43 MPa and 0.072 W/mK for 3DPFC_800 and ULFC_300, respectively. A successful 2D-printing test validates the suitability of 3DPFC_800 for 3DCP, and a robotic arm is employed for 3DCP tests. The proposed application allows for further knowledge on the use of FC in 3DCP and the identification of some issues and challenges that still need to be addressed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bodd_gand_pand.2023.SoTDPFCaFoSC/">Stability of Three-Dimensional Printable Foam-Concrete as Function of Surfactant Characteristics</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -115,8 +90,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhan_sanj.2024.QNMTf3PFC/">Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../card_parm_varg_rest.2026.IoVAiLFCf3P/">Incorporation of Vitrified Ashes in Lightweight Foamed Concrete for 3D Printing:<br/>Thermal and Mechanical Assessment</a></li>
       <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
@@ -127,4 +102,33 @@ tags:
       <li><a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a>, <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>, <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huse_tan_sale_lim.2024.TPaMPoTDPCEDMP/">Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>A Review and Bibliometric Analysis</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b> Kinga</a>, <a href="../../../author/gora_mateusz"><b>Góra</b> Mateusz</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../rudz_maro_setl_gora.2024.OoFPFRCMDf3P/">Optimization of Foams-Polypropylene Fiber-Reinforced Concrete Mixtures Dedicated for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{parm_fall_moro_ferr.2024.3PMFFCBC,
+      author            = "Silvia Parmigiani and Devid Falliano and Sandro Moro and Giuseppe Andrea Ferro and Luciana Restuccia",
+      title             = "3D Printed Multi-Functional Foamed Concrete Building Components: Material-Properties, Component Design, and 3D Printing Application",
+      doi               = "10.1016/j.dibe.2024.100483",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      pages             = "100483",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Parmigiani, D. Falliano, S. Moro, G. A. Ferro and L. Restuccia, “3D Printed Multi-Functional Foamed Concrete Building Components: Material-Properties, Component Design, and 3D Printing Application”, <i>Developments in the Built Environment</i>, p. 100483, 2024, doi: 10.1016/j.dibe.2024.100483.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Parmigiani, Silvia, Devid Falliano, Sandro Moro, Giuseppe Andrea Ferro, and Luciana Restuccia. “3D Printed Multi-Functional Foamed Concrete Building Components: Material-Properties, Component Design, and 3D Printing Application”. <i>Developments in the Built Environment</i>, 2024, 100483. https://doi.org/10.1016/j.dibe.2024.100483.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

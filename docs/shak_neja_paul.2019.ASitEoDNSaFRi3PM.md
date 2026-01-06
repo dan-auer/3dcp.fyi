@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pshtiwan Shakor, Shami Nejadi, Gavin Paul
+    - footer
+title: Shakor Pshtiwan, Nejadi Shami, Paul Gavin
 description:
 tags:
  - difference
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/12/10/1708/pdf?version=1558864491) A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar ([2019-05](date/2019/05))
-<a href="https://doi.org/10.3390/ma12101708" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma12101708</a>
+#A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar ([2019-05](date/2019/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/10/1708/pdf?version=1558864491) <a href="https://doi.org/10.3390/ma12101708" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12101708" target="_blank">10.3390/ma12101708</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nejadi_shami"><b>Nejadi</b>&nbsp;Shami</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_gavin"><b>Paul</b>&nbsp;Gavin</a></span><br>
+Journal Article - Materials, Vol. 12, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 12, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#difference`](keyword/difference)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#mortar`](keyword/mortar)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shape`](keyword/shape)
-
-
--------------------------
+<a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Study%20into%20the%20Effect%20of%20Different%20Nozzles%20Shapes%20and%20Fiber-Reinforcement%20in%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85069896497&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2945639684" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma12101708" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma12101708?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, 3D printing has become one of the most popular additive manufacturing technologies. This technology has been utilised to prototype trial and produced components for various applications, such as fashion, food, automotive, medical, and construction. In recent years, automation also has become increasingly prevalent in the construction field. Extrusion printing is the most successful method to print cementitious materials, but it still faces significant challenges, such as pumpability of materials, buildability, consistency in the materials, flowability, and workability. This paper investigates the properties of 3D printed fibre-reinforced cementitious mortar prisms and members in conjunction with automation to achieve the optimum mechanical strength of printed mortar and to obtain suitable flowability and consistent workability for the mixed cementitious mortar during the printing process. This study also considered the necessary trial tests, which are required to check the mechanical properties and behaviour of the proportions of the cementitious mix. Mechanical strength was measured and shown to increase when the samples were printed using fibre-reinforced mortar by means of a caulking gun, compared with the samples that were printed using the same mix delivered by a progressive cavity pump to a 6 degree-of-freedom robot. The flexural strength of the four-printed layer fibre-reinforced mortar was found to be 3.44 ± 0.11 MPa and 5.78 ± 0.02 MPa for the one-layer. Moreover, the mortar with different types of nozzles by means of caulking is printed and compared. Several experimental tests for the fresh state of the mortar were conducted and are discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -87,8 +66,10 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "95 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
@@ -183,4 +164,34 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../rahu_sant.2020.EtPoCCLCA/">Evaluating the Printability of Concretes Containing Lightweight Coarse Aggregates</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shak_neja_paul.2019.ASitEoDNSaFRi3PM,
+      author            = "Pshtiwan N. Shakor and Shami Nejadi and Gavin Paul",
+      title             = "A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar",
+      doi               = "10.3390/ma12101708",
+      year              = "2019",
+      journal           = "Materials",
+      volume            = "12",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. N. Shakor, S. Nejadi and G. Paul, “A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar”, <i>Materials</i>, vol. 12, no. 10, 2019, doi: 10.3390/ma12101708.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shakor, Pshtiwan N., Shami Nejadi, and Gavin Paul. “A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar”. <i>Materials</i> 12, no. 10 (2019). https://doi.org/10.3390/ma12101708.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #compaction
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../silf.2024.CCCo3CaSCCStNF/">Composite Concrete Columns of 3DP Concrete and Self-Compacting Concrete Subjected to Normal Force</a></li>
   <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../vare_barl_perr.2023.NMMfNCT/">Nano-Modified Materials for New Construction Technologies:<br/>Self-Compacting and 3D Printing</a></li>
   <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../beka_titt_schu.2022.EotBSB3PaSCC/">Evaluation of the Bond Strength Between 3D Printed and Self-Compacting Concrete</a></li>

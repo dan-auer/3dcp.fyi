@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mihail-Andrei Jipa, Benjamin Dillenburger
+    - footer
+title: Jipa Mihail-Andrei, Dillenburger Benjamin
 description:
 tags:
  - application
@@ -15,29 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1089/3dp.2021.0024) 3D Printed Formwork for Concrete:<br/>:aca-blank: State of the Art, Opportunities, Challenges, and Applications ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1089/3dp.2021.0024" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2021.0024</a>
+#3D Printed Formwork for Concrete&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">State of the Art, Opportunities, Challenges, and Applications</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1089/3dp.2021.0024) <a href="https://doi.org/10.1089/3dp.2021.0024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2021.0024" target="_blank">10.1089/3dp.2021.0024</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, pp. 84-107
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> <a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, pp. 84-107
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#opportunity`](keyword/opportunity)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Formwork%20for%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129241637&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3203954038" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2021.0024" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2021.0024?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete is the most used human-made material in the world, and it is responsible for around 8% of the total greenhouse gas emissions worldwide. Hence, efficient concrete construction methods are one of the main foci of research in architecture, civil engineering, and material science. One recent development that promises to achieve this goal is the use of digital fabrication for building components. Most investigations focus on direct extrusion 3D printing with concrete, which has already been covered in several review articles. Conversely, this article reviews a different approach, which focuses on the indirect digital fabrication of concrete through 3D printed formworks. This approach is under investigation for structural and nonstructural, as well as for on- and off-site applications, with a number of projects having already been built, but a comprehensive review of 3D printed formworks has not yet been compiled to synthesize the findings. This article provides a comprehensive map of the state-of-the-art of five different 3D printing technologies used for the fabrication of formworks so far. The aim is to serve as a fundamental reference for future research, provide a basis for consistent language in this field, and support the development of construction standards. The article further discusses the new geometric possibilities with 3D printed formworks and their potential for making concrete construction more sustainable. In addition, the opportunities and challenges of 3D printed formworks are evaluated in the context of other traditional and digital fabrication tools. A synthetic classification in five functional typologies is proposed and illustrated with 30 representative case studies. Finally, the article concludes with a brief reflection on the role of 3D printing in the broader context of formwork innovation and a possible outlook for this technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
@@ -101,8 +83,10 @@ tags:
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../rael_frat.2017.CB/">Clay Bodies:<br/>Crafting the Future with 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "78 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bassi_utkarsh"><b>Bassi</b> Utkarsh</a>, <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/verma_kumar_yash"><b>Verma</b> Yash</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bass_saha_bish_verm.2026.DAaDoaB3CP/">Design Analysis and Development of a Benchtop 3D Concrete Printer</a></li>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
       <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
       <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
@@ -179,10 +163,36 @@ tags:
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../jipa_reit_flat_dill.2022.ESCo3PPEtC/">Environmental Stress Cracking of 3D Printed Polymers Exposed to Concrete</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/heusi_alex"><b>Heusi</b> Alex</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../beda_szab_zani_heus.2022.R3PoMFfaLCCS/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab</a></li>
       <li><a href="../../../author/stieler_david"><b>Stieler</b> David</a>, <a href="../../../author/schwinn_tobias"><b>Schwinn</b> Tobias</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../stie_schw_meng.2022.AFiPCC/">Additive Formwork in Pre-Cast Construction:<br/>Agent-Based Methods for Fabrication-Aware Modularization of Concrete Building Elements</a></li>
-      <li><a href="../../../author/kovaleva_daria"><b>Kovaleva</b> Daria</a>, <a href="../../../author/nistler_maximilian"><b>Nistler</b> Maximilian</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a>, <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../kova_nist_blan_sobe.2022.RSF/">Recyclable Sand Formwork:<br/>Towards Circular Production of Lightweight Concrete Structures</a></li>
-      <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
-      <li><a href="../../../author/stieler_david"><b>Stieler</b> David</a>, <a href="../../../author/schwinn_tobias"><b>Schwinn</b> Tobias</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../stie_schw_meng.2022.AMfPEfAMF/">Automated Modularization for Precast Elements from Additively Manufactured Formwork</a></li>
-      <li><a href="../../../author/stieler_david"><b>Stieler</b> David</a>, <a href="../../../author/schwinn_tobias"><b>Schwinn</b> Tobias</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../stie_schw_meng.2022.VI/">Volumetric Intersections:<br/>Modularization Approaches for Freeform Prefab Concrete Construction</a></li>
-      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../lowk_mai_keit_perr.2022.MPIiPB3PatUP/">Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jipa_dill.2022.3PFfC,
+      author            = "Mihail-Andrei Jipa and Benjamin Dillenburger",
+      title             = "3D Printed Formwork for Concrete: State of the Art, Opportunities, Challenges, and Applications",
+      doi               = "10.1089/3dp.2021.0024",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+      volume            = "9",
+      number            = "2",
+      pages             = "84--107",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M.-A. Jipa  and B. Dillenburger, “3D Printed Formwork for Concrete: State of the Art, Opportunities, Challenges, and Applications”, <i>3D Printing and Additive Manufacturing</i>, vol. 9, no. 2, pp. 84–107, 2022, doi: 10.1089/3dp.2021.0024.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jipa, Mihail-Andrei, and Benjamin Dillenburger. “3D Printed Formwork for Concrete: State of the Art, Opportunities, Challenges, and Applications”. <i>3D Printing and Additive Manufacturing</i> 9, no. 2 (2022): 84–107. https://doi.org/10.1089/3dp.2021.0024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

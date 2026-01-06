@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joseph Schwartz
+    - footer
+title: Schwartz Joseph
 description:
 tags:
  - concrete
@@ -15,28 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Graphic Statics and Their Potential for Digital Design and Fabrication with Concrete ([2018-07](date/2018/07))
-<a href="https://doi.org/10.1016/j.cemconres.2018.06.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2018.06.015</a>
+#Graphic Statics and Their Potential for Digital Design and Fabrication with Concrete ([2018-07](date/2018/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2018.06.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.06.015" target="_blank">10.1016/j.cemconres.2018.06.015</a>
 
--------------------------
+<a href="../../../author/schwartz_joseph"><b>Schwartz</b>&nbsp;Joseph</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 112, pp. 122-135
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/schwartz_joseph"><b>Schwartz</b> Joseph</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 112, pp. 122-135
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#graphic`](keyword/graphic)
-    [`#potential`](keyword/potential)
-    [`#static`](keyword/static)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/graphic"><button class="btn">#graphic</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Graphic%20Statics%20and%20Their%20Potential%20for%20Digital%20Design%20and%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85050411227&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,24 +37,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2883208246" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2018.06.015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2018.06.015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper describes the influence of the lower bound theorem of theory of plasticity on the design of structures during the last 70 years. Starting with the fundamental theorems developed in the middle of the last century, the influence of rigid plastic (discontinuous) stress fields on the design of reinforced beam, wall, slab and shell structures is worked out. The potential of graphic statics for digital design and fabrication is illustrated by the results of several research projects on form finding and design of reinforced concrete structures carried out during the last decade. It is shown that the design methods allow for simultaneous considerations about structure and architecture. This leads to leaner structure and reduced material consumption. However, while a current limitation of manufacturing objects in these “nonstandard” shapes is presently cost limiting, digital fabrication may change this and open a much greater scope for the use and application of graphic statics in a near future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
       <li><a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a>, <a href="../../../author/kopecsko_katalin"><b>Kopecskó</b> Katalin</a>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b> György</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../thaj_kope_bala.2025.EPo3PCbUMaSF/">Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume</a></li>
       <li><a href="../../../author/hlobil_michal"><b>Hlobil</b> Michal</a>, <a href="../../../author/michel_luca"><b>Michel</b> Luca</a>, <a href="../../../author/pundir_mohit"><b>Pundir</b> Mohit</a>, <a href="../../../author/kammer_s_david"><b>Kammer</b> David</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../hlob_mich_pund_kamm.2025.ATHMtDtFDCJFi3PC/">A Thermo-Hygro Model to Determine the Factors Dictating Cold Joint Formation in 3D Printed Concrete</a></li>
@@ -91,4 +71,34 @@ tags:
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../flat_wang.2018.EfSIoDC/">Editorial for Special Issue on Digital Concrete</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{schw.2018.GSaTPfDDaFwC,
+      author            = "Joseph Schwartz",
+      title             = "Graphic Statics and Their Potential for Digital Design and Fabrication with Concrete",
+      doi               = "10.1016/j.cemconres.2018.06.015",
+      year              = "2018",
+      journal           = "Cement and Concrete Research",
+      volume            = "112",
+      pages             = "122--135",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Schwartz, “Graphic Statics and Their Potential for Digital Design and Fabrication with Concrete”, <i>Cement and Concrete Research</i>, vol. 112, pp. 122–135, 2018, doi: 10.1016/j.cemconres.2018.06.015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Schwartz, Joseph. “Graphic Statics and Their Potential for Digital Design and Fabrication with Concrete”. <i>Cement and Concrete Research</i> 112 (2018): 122–35. https://doi.org/10.1016/j.cemconres.2018.06.015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

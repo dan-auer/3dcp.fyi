@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kasra Banijamali, Michael Martin, David Mascarenas, Ali Kazemian
+    - footer
+title: Banijamali Kasra, Martin Michael, Mascarenas David, Kazemian Ali
 description:
 tags:
  - automation
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Inspection in Robotic 3D Printing:<br/>:aca-blank: In-Process Geometrical Measurements Using Structured Light Machine Vision ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1061/jccee5.cpeng-7059" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jccee5.cpeng-7059</a>
+#Automated Inspection in Robotic 3D Printing&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">In-Process Geometrical Measurements Using Structured Light Machine Vision</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jccee5.cpeng-7059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jccee5.cpeng-7059" target="_blank">10.1061/jccee5.cpeng-7059</a>
 
--------------------------
+<a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/martin_michael"><b>Martin</b>&nbsp;Michael</a></span>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
+Journal Article - Journal of Computing in Civil Engineering, Vol. 40, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>
-,     <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>
-,     <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Computing in Civil Engineering, Vol. 40, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#geometry`](keyword/geometry)
-    [`#inspection`](keyword/inspection)
-    [`#light`](keyword/light)
-    [`#machine`](keyword/machine)
-    [`#measurement`](keyword/measurement)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#robot`](keyword/robot)
-    [`#structuration`](keyword/structuration)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Inspection%20in%20Robotic%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022410068&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7105945426" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jccee5.cpeng-7059" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jccee5.cpeng-7059?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automated geometrical inspection during robotic layer deposition remains a major challenge in the field of construction three-dimensional (3D) printing. Existing methods are mainly designed for postprocess inspection or fail to deliver accurate real-time measurements. This study presents an innovative measurement methodology leveraging structured light machine vision. The proposed system incorporates a two-dimensional (2D) camera and a laser light pattern projected onto the extrudate, combined with a novel processing algorithm for continuous width and height measurements. The results showed that the proposed algorithm successfully produces measurements for various single-layer and multilayer extrudates with submillimeter precision and a 0.2-s processing time across three different lighting conditions. Additionally, a baseline 2D vision measurement system without active lighting was implemented for comparative analysis. Overall, the findings prove the superior accuracy and versatility of the proposed structured light machine vision methodology in performing real-time inspection across varying lighting conditions and extrudate configurations, outperforming existing methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/chen_jianhua"><b>Chen</b> Jianhua</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bani_demp_chen_kaze.2025.MLAtPtEAFSoSE3PS/">Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bani_voso_arce_noor.2024.ASMo3PSvES/">Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../bani_voso_arce_noor.2024.EASMoSE3PS/">Early-Age Strength Monitoring of Sensor-Embedded 3D Printed Structures</a></li>
@@ -97,7 +73,37 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zaki_magdy-ahmed_ahmed"><b>Zaki</b> Ahmed</a>, <a href="../../../author/carnevale_marco"><b>Carnevale</b> Marco</a>, <a href="../../../author/giberti_hermes"><b>Giberti</b> Hermes</a>, <a href="../../../author/schlette_christian"><b>Schlette</b> Christian</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zaki_carn_gibe_schl.2024.Mo3CPQTMVRDI/">Monitoring of 3D Concrete Printing Quality Through Multi-View RGB-D Images</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bani_mart_masc_kaze.2026.AIiR3P,
+      author            = "Kasra Banijamali and Michael Martin and David Mascarenas and Ali Kazemian",
+      title             = "Automated Inspection in Robotic 3D Printing: In-Process Geometrical Measurements Using Structured Light Machine Vision",
+      doi               = "10.1061/jccee5.cpeng-7059",
+      year              = "2026",
+      journal           = "Journal of Computing in Civil Engineering",
+      volume            = "40",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Banijamali, M. Martin, D. Mascarenas and A. Kazemian, “Automated Inspection in Robotic 3D Printing: In-Process Geometrical Measurements Using Structured Light Machine Vision”, <i>Journal of Computing in Civil Engineering</i>, vol. 40, no. 2, 2026, doi: 10.1061/jccee5.cpeng-7059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Banijamali, Kasra, Michael Martin, David Mascarenas, and Ali Kazemian. “Automated Inspection in Robotic 3D Printing: In-Process Geometrical Measurements Using Structured Light Machine Vision”. <i>Journal of Computing in Civil Engineering</i> 40, no. 2 (2026). https://doi.org/10.1061/jccee5.cpeng-7059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

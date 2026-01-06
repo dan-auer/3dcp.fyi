@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wanting Zhao, Yu Zhao, Lingli Zhu, Xuemao Guan
+    - footer
+title: Zhao Wanting, Zhao Yu, Zhu Lingli, Guan Xuemao
 description:
 tags:
  - characteristic
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Preparation of 3D Printed Concrete from Solid Waste:<br/>:aca-blank: Study of the Relationship Between Steel-Slag Characteristics and Early Performance in 3D Printing ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1061/jmcee7.mteng-18411" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-18411</a>
+#Preparation of 3D Printed Concrete from Solid Waste&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Study of the Relationship Between Steel-Slag Characteristics and Early Performance in 3D Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-18411" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-18411" target="_blank">10.1061/jmcee7.mteng-18411</a>
 
--------------------------
+<a href="../../../author/zhao_wanting"><b>Zhao</b>&nbsp;Wanting</a></span>, <a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guan_xuemao"><b>Guan</b>&nbsp;Xuemao</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 36, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_wanting"><b>Zhao</b> Wanting</a>
-,     <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>
-,     <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>
-,     <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 36, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#relation`](keyword/relation)
-    [`#slag`](keyword/slag)
-    [`#solid`](keyword/solid)
-    [`#steel`](keyword/steel)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Preparation%20of%203D%20Printed%20Concrete%20from%20Solid%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206073347&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403103870" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-18411" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-18411?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Using steel slag in architectural three-dimensional (3D) printing not only enhances its utilization efficiency but also significantly reduces cement consumption, thereby mitigating carbon emissions. This study evaluated the substitution of steel slag for cement in 3D printing and examined its impact on rheological properties, fluidity, green strength, and early hydration microstructure based on alkalinity level, particle-size distribution, and blending quantity. The relationship between the early properties of 3D-printed steel slag cementitious materials and their pore microstructures was investigated using low-field nuclear magnetic resonance (NMR) tests. The results showed that high-alkalinity steel slag has superior rheological characteristics and generates a larger amount of gel water within the initial 30 min of hydration. Steel slag particles ranging from 5 to 20  μm had the most significant influence on enhancing the rheological properties of 3D-printed steel slag cementitious materials by facilitating the formation of a flocculated mesh structure during early hydration. Optimal rheological performance was achieved with a dosage level of 10% steel slag, effectively reducing porosity and improving compactness in the mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -87,8 +64,38 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_zhao_zhu_guan.2024.Po3PCfSW,
+      author            = "Wanting Zhao and Yu Zhao and Lingli Zhu and Xuemao Guan",
+      title             = "Preparation of 3D Printed Concrete from Solid Waste: Study of the Relationship Between Steel-Slag Characteristics and Early Performance in 3D Printing",
+      doi               = "10.1061/jmcee7.mteng-18411",
+      year              = "2024",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "36",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zhao, Y. Zhao, L. Zhu and X. Guan, “Preparation of 3D Printed Concrete from Solid Waste: Study of the Relationship Between Steel-Slag Characteristics and Early Performance in 3D Printing”, <i>Journal of Materials in Civil Engineering</i>, vol. 36, no. 12, 2024, doi: 10.1061/jmcee7.mteng-18411.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Wanting, Yu Zhao, Lingli Zhu, and Xuemao Guan. “Preparation of 3D Printed Concrete from Solid Waste: Study of the Relationship Between Steel-Slag Characteristics and Early Performance in 3D Printing”. <i>Journal of Materials in Civil Engineering</i> 36, no. 12 (2024). https://doi.org/10.1061/jmcee7.mteng-18411.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

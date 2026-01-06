@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehrdad Razzaghian Ghadikolaee, Elena Cerro-Prada, Zhu Pan, Asghar Korayem
+    - footer
+title: Razzaghian Ghadikolaee Mehrdad, Cerro-Prada Elena, Pan Zhu, Korayem Asghar
 description:
 tags:
  - additive
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2079-4991/13/9/1440/pdf?version=1682161460) Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete:<br/>:aca-blank: A Critical Review ([2023-04](date/2023/04))
-<a href="https://doi.org/10.3390/nano13091440" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/nano13091440</a>
+#Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">A Critical Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2079-4991/13/9/1440/pdf?version=1682161460) <a href="https://doi.org/10.3390/nano13091440" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/nano13091440" target="_blank">10.3390/nano13091440</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2857-3305" title="ORCID: 0000-0003-2857-3305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b>&nbsp;Mehrdad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7018-4800" title="ORCID: 0000-0001-7018-4800" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3389-4656" title="ORCID: 0000-0003-3389-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_zhu"><b>Pan</b>&nbsp;Zhu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b>&nbsp;Asghar</a></span><br>
+Journal Article - Nanomaterials, Vol. 13, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a> <a href="https://orcid.org/0000-0003-2857-3305" title="ORCID: 0000-0003-2857-3305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a> <a href="https://orcid.org/0000-0001-7018-4800" title="ORCID: 0000-0001-7018-4800" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> <a href="https://orcid.org/0000-0003-3389-4656" title="ORCID: 0000-0003-3389-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Nanomaterials, Vol. 13, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#promise`](keyword/promise)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/promise"><button class="btn">#promise</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nanomaterials%20as%20Promising%20Additives%20for%20High-Performance%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159166120&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366827382" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/nano13091440" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/nano13091440?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printed concrete (3DPC), as one of the subset of digital fabrication, has provided a revolution in the construction industry. Accordingly, scientists, experts, and researchers in both academic and industry communities are trying to improve the performance of 3DPC. The mix design of all kinds of concrete has always been the most crucial property to reach the best efficiency. Recently, many studies have been performed to incorporate nano- and micro-scale additives to ameliorate the properties of 3DPC. The current study aims to present the main design properties of 3DPC and completely cover both fresh and hardened state characteristics of 3DPC containing different nano- and micro-additives. Our observations illustrate that nanomaterials can be mainly utilized as a thickener to ameliorate the thixotropic behavior and the structural build-up of 3DPC, resulting in higher yield stress and better viscosity recovery. Furthermore, each nanomaterial, through its unique impact, can provide lower porosity and permeability as well as better mechanical strengths for 3DPC. Although much research investigate the fresh properties of 3DPC containing nano and micro additives, future studies are needed to provide better insight into the impact of these kinds of additives on the hardened characteristics of 3DPC. In addition, researchers may devote more research to address the effects of the additives discussed herein on the performance of other kinds of 3DPC such as lightweight, self-compacting, etc. It should be noted that the effect mechanism of nanomaterials on the inter-layer bond strength of 3DPC is another crucial issue that should be investigated in future studies. Furthermore, nano-scale fillers from source of waste and biomass can be attractive additives for future research to achieve high performance of sustainable 3D-printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "106 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beer_luca_pont.2020.AFRSBMf3P/">An Fe-Rich Slag-Based Mortar for 3D Printing</a></li>
@@ -174,8 +153,9 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>
       <li><a href="../../../author/li_fuhai"><b>Li</b> Fuhai</a>, <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/li_kepu"><b>Li</b> Kepu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xiao_yang_li.2025.MPaAo3PCMwMMBoOPPD/">Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design</a></li>
@@ -184,4 +164,34 @@ tags:
       <li><a href="../../../author/hanratty_niall"><b>Hanratty</b> Niall</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../hanr_khan_mcna.2024.TRoDCTiALC3PC/">The Role of Different Clay Types in Achieving Low-Carbon 3D Printed Concretes</a></li>
       <li><a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a>, <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../razz_pan_cerr_kora.2024.FaHPo3PMMbHN/">Fresh and Hardened Properties of 3D Printing Mortar Modified by Halloysite-Nanotube</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{razz_cerr_pan_kora.2023.NaPAfHP3PC,
+      author            = "Mehrdad Razzaghian Ghadikolaee and Elena Cerro-Prada and Zhu Pan and Asghar Habibnejad Korayem",
+      title             = "Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete: A Critical Review",
+      doi               = "10.3390/nano13091440",
+      year              = "2023",
+      journal           = "Nanomaterials",
+      volume            = "13",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Ghadikolaee, E. Cerro-Prada, Z. Pan and A. H. Korayem, “Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete: A Critical Review”, <i>Nanomaterials</i>, vol. 13, no. 9, 2023, doi: 10.3390/nano13091440.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghadikolaee, Mehrdad Razzaghian, Elena Cerro-Prada, Zhu Pan, and Asghar Habibnejad Korayem. “Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete: A Critical Review”. <i>Nanomaterials</i> 13, no. 9 (2023). https://doi.org/10.3390/nano13091440.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

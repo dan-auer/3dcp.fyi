@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Yuan Qiang 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../yuan_xie_yao_huan.2022.EoPotWaILIPo3PCM/">Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials</a></li>
   <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM/">Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar</a></li>

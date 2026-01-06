@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Longfei Zhou, Mifeng Gou, Haibo Zhang, Yukio Hama
+    - footer
+title: Zhou Longfei, Gou Mifeng, Zhang Haibo, Hama Yukio
 description:
 tags:
  - activation
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation of Activated Bauxite-Tailings for Application in 3D Printed Concrete via a Modified Anderson and Anderson-Model ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jobe.2024.111516" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111516</a>
+#Investigation of Activated Bauxite-Tailings for Application in 3D Printed Concrete via a Modified Anderson and Anderson-Model ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111516" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111516" target="_blank">10.1016/j.jobe.2024.111516</a>
 
--------------------------
+<a href="../../../author/zhou_longfei"><b>Zhou</b>&nbsp;Longfei</a></span>, <a href="../../../author/gou_mifeng"><b>Gou</b>&nbsp;Mifeng</a></span>, <a href="../../../author/zhang_haibo"><b>Zhang</b>&nbsp;Haibo</a></span>, <a href="../../../author/hama_yukio"><b>Hama</b>&nbsp;Yukio</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111516
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>
-,     <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>
-,     <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a>
-,     <a href="../../../author/hama_yukio"><b>Hama</b> Yukio</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111516
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#investigation`](keyword/investigation)
-    [`#model`](keyword/model)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Activated%20Bauxite-Tailings%20for%20Application%20in%203D%20Printed%20Concrete%20via%20a%20Modified%20Anderson%20and%20Anderson-Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211339201&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405046297" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111516" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111516?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to investigate the application of activated bauxite tailings as supplementary cementitious material (SCM) in 3D printed concrete (3DPC). The modified Anderson and Anderson (MAA) model was applied to optimize the design of the mix ratio of 3DPC to avoid the loss of mechanical properties due to the low reactivity of the tailings. Firstly, the influence of activated tailings on the workability, rheological properties, hydration heat, buildability, mechanical properties and durability of 3DPC was investigated. Subsequently, the microstructure of 3DPC containing various doped tailings was investigated via XRD, thermogravimetric analysis (TGA) and pore structure experiments. The results indicate that the flowability and slump of 3DPC decrease continuously with increasing tailings content, while the plastic viscosity, dynamic yield stress and static yield stress increase significantly. Although incorporating tailings retards the hydration process of 3DPC to some extent, it remarkably improves the buildability of 3DPC. Adding tailings reduces the mechanical properties as well as the resistance to carbonation and drying shrinkage of 3DPC relative to reference group without tailings. Furthermore, 3DPC containing 36% tailings has better mechanical properties than 3DPC containing 24% tailings due to optimized particle gradation. Overall, the MAA model has certain applicability in this study and can provide a new approach for the utilization of bauxite tailings in 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
@@ -94,10 +72,39 @@ tags:
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mim_shai_sark.2025.S3PCIAFA/">Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_gou_zhan_hama.2024.IoABTfAi3PCvaMAaAM,
+      author            = "Longfei Zhou and Mifeng Gou and Haibo Zhang and Yukio Hama",
+      title             = "Investigation of Activated Bauxite-Tailings for Application in 3D Printed Concrete via a Modified Anderson and Anderson-Model",
+      doi               = "10.1016/j.jobe.2024.111516",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111516",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Zhou, M. Gou, H. Zhang and Y. Hama, “Investigation of Activated Bauxite-Tailings for Application in 3D Printed Concrete via a Modified Anderson and Anderson-Model”, <i>Journal of Building Engineering</i>, p. 111516, 2024, doi: 10.1016/j.jobe.2024.111516.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Longfei, Mifeng Gou, Haibo Zhang, and Yukio Hama. “Investigation of Activated Bauxite-Tailings for Application in 3D Printed Concrete via a Modified Anderson and Anderson-Model”. <i>Journal of Building Engineering</i>, 2024, 111516. https://doi.org/10.1016/j.jobe.2024.111516.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

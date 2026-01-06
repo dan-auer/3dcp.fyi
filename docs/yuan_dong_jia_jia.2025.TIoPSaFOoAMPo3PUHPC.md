@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hanquan Yuan, Enlai Dong, Zijian Jia, Lutao Jia, Shitao Quan, Minglei Ma, Yan Yang, Mingyang Feng, Nemkumar Banthia, Yamei Zhang
+    - footer
+title: Yuan Hanquan, Dong Enlai, Jia Zijian, Jia Lutao, Quan Shitao, Ma Minglei, Yang Yan, Feng Mingyang, Banthia Nemkumar, Zhang Yamei
 description:
 tags:
  - anisotropy
@@ -20,42 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140760" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140760</a>
+#The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140760" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140760" target="_blank">10.1016/j.conbuildmat.2025.140760</a>
 
--------------------------
+<a href="../../../author/yuan_hanquan"><b>Yuan</b>&nbsp;Hanquan</a></span>, <a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/quan_shitao"><b>Quan</b>&nbsp;Shitao</a></span>, <a href="../../../author/ma_minglei"><b>Ma</b>&nbsp;Minglei</a></span>, <a href="../../../author/yang_yan"><b>Yang</b>&nbsp;Yan</a></span>, <a href="../../../author/feng_mingyang"><b>Feng</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 471, No. 140760
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>
-,     <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a>
-,     <a href="../../../author/ma_minglei"><b>Ma</b> Minglei</a>
-,     <a href="../../../author/yang_yan"><b>Yang</b> Yan</a>
-,     <a href="../../../author/feng_mingyang"><b>Feng</b> Mingyang</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 471, No. 140760
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#orientation`](keyword/orientation)
-    [`#performance`](keyword/performance)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20Pore%20Structure%20and%20Fiber%20Orientation%20on%20Anisotropic%20Mechanical%20Property%20of%203D%20Printed%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000614849&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408357209" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140760" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140760?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the anisotropic mechanical properties of 3D-printed ultra-high-performance concrete (3DP-UHPC) with varying fiber contents (0 %, 1 %, 1.5 %, and 2 %) and lengths (6 mm, 10 mm, and 13 mm). X-CT analysis was used to examine the geometric characteristics and distribution of pore structure and fiber orientation. The results indicate that the anisotropy coefficients are 0.227, 0.751, and 0.667 for compressive, splitting tensile, and flexural strengths, respectively. Pore structure and fiber orientation are important factors contributing to the anisotropy of the mechanical properties, the large number of ellipsoidal pores generated along the printing direction resulted in the lowest compressive strength in the X direction, and the alignment of most steel fibers along the printing direction resulted in significantly higher split tensile and flexural strengths in the Z direction compared to the other two directions. Increasing the fiber content from 1 % to 2 % improves the flexural toughness ratios of 3DP-UHPC specimens with13 mm fibers from 0.29 to 0.54 in the X direction and 0.29–0.59 in the Y direction, shifting the failure mode from brittle to partially ductile when loaded along unfavorable directions. The higher the fiber content, the more pronounced is the influence of the printing process on the fiber orientation distribution. The average percentage of fiber distribution is about 60 % at small angles (0◦–30◦) and about 17 % at large angles (60◦–90◦) in 3DP-UHPC. A model for the prediction of anisotropic mechanical property based on pore structure and fiber orientation was developed, providing a foundation for nonlinear analysis of 3DP-UHPC structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
@@ -101,8 +69,9 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
@@ -115,4 +84,34 @@ tags:
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_chen_lan_yang.2025.QEfFPo3PUHPCLiDD/">Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions</a></li>
       <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_weng_tian_yang.2025.3PTCEDoCUB/">3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC,
+      author            = "Hanquan Yuan and Enlai Dong and Zijian Jia and Lutao Jia and Shitao Quan and Minglei Ma and Yan Yang and Mingyang Feng and Nemkumar Banthia and Yamei Zhang",
+      title             = "The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.140760",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "471",
+      pages             = "140760",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Yuan, “The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete”, <i>Construction and Building Materials</i>, vol. 471, p. 140760, 2025, doi: 10.1016/j.conbuildmat.2025.140760.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Hanquan, Enlai Dong, Zijian Jia, Lutao Jia, Shitao Quan, Minglei Ma, Yan Yang, Mingyang Feng, Nemkumar Banthia, and Yamei Zhang. “The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete”. <i>Construction and Building Materials</i> 471 (2025): 140760. https://doi.org/10.1016/j.conbuildmat.2025.140760.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

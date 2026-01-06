@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rosanna Napolitano, Daniele Forni, Costantino Menna, Domenico Asprone, Ezio Cadoni
+    - footer
+title: Napolitano Rosanna, Forni Daniele, Menna Costantino, Asprone Domenico, Cadoni Ezio
 description:
 tags:
  - characteristic
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2021.e00780) Dynamic Characterization of the Layer-Interface Properties of 3D Printed Concrete Elements ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.cscm.2021.e00780" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2021.e00780</a>
+#Dynamic Characterization of the Layer-Interface Properties of 3D Printed Concrete Elements ([2021-11](date/2021/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2021.e00780) <a href="https://doi.org/10.1016/j.cscm.2021.e00780" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2021.e00780" target="_blank">10.1016/j.cscm.2021.e00780</a>
 
--------------------------
+<a href="../../../author/napolitano_rosanna"><b>Napolitano</b>&nbsp;Rosanna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0555-3136" title="ORCID: 0000-0002-0555-3136" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forni_daniele"><b>Forni</b>&nbsp;Daniele</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asprone_domenico"><b>Asprone</b>&nbsp;Domenico</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1254-1619" title="ORCID: 0000-0002-1254-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cadoni_ezio"><b>Cadoni</b>&nbsp;Ezio</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/napolitano_rosanna"><b>Napolitano</b> Rosanna</a>
-,     <a href="../../../author/forni_daniele"><b>Forni</b> Daniele</a> <a href="https://orcid.org/0000-0002-0555-3136" title="ORCID: 0000-0002-0555-3136" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cadoni_ezio"><b>Cadoni</b> Ezio</a> <a href="https://orcid.org/0000-0002-1254-1619" title="ORCID: 0000-0002-1254-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 15
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#element`](keyword/element)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20Characterization%20of%20the%20Layer-Interface%20Properties%20of%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119201439&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3213117769" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2021.e00780" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2021.e00780?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, we used a Modified Hopkinson bar and a hydro-pneumatic machine to characterize the behaviour of 3D-printed concrete elements under different stress rates, focusing on the interface behaviour between consecutive layers under different loading conditions and in various significant, dynamic regimes. The paper includes the results of dynamic tensile tests and dynamic shear-tests at different stress rates (10−4 – 200 GPa/s) on 3D-printed cementitious elements for waiting times of 0.30 min, 10 min and 30 min in comparison with cast concrete elements. Dynamic increase factors (DIFs) versus stress rate curves for tensile and shear strength are also discussed. The shear-strength DIFs rise with the stress rate by up to 1.57 times compared to the quasi-static conditions at a waiting time of 30 min. Meanwhile, tensile tests reveal appreciable stress rate-sensitive behaviour, with an increase in the tensile-strength DIF of up to 7.6 for a high stress rate and at a waiting time of 30 min
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
@@ -97,8 +74,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a>, <a href="../../../author/zhong_yingzhu"><b>Zhong</b> Yingzhu</a>, <a href="../../../author/wang_shuai"><b>Wang</b> Shuai</a>, <a href="../../../author/zhang_luxi"><b>Zhang</b> Luxi</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG/">Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations</a></li>
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/sun_hao"><b>Sun</b> Hao</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_sun_wang_zhan.2025.RBIPSaADSBo3PECC/">Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
@@ -114,6 +91,34 @@ tags:
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/nasbom_andreas"><b>Näsbom</b> Andreas</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bisc_mata_amma_nasb.2022.DFWItRMRiCS/">Digitally Fabricated Weak Interfaces to Reduce Minimum Reinforcement in Concrete Structures</a></li>
       <li><a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a>, <a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a>, <a href="../../../author/brozovsky_jiri"><b>Brožovský</b> Jiří</a>, <a href="../../../author/meszarosova_lenka"><b>Mészárosová</b> Lenka</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../meli_zizk_broz_mesz.2022.SotIoCBMf3PwFAaSP/">Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers</a></li>
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
-      <li><a href="../../../author/napolitano_rosanna"><b>Napolitano</b> Rosanna</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/forni_daniele"><b>Forni</b> Daniele</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../napo_menn_forn_aspr.2020.DBoL3PCE/">Dynamic Behavior of Layered 3D Printed Concrete Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{napo_forn_menn_aspr.2021.DCotLIPo3PCE,
+      author            = "Rosanna Napolitano and Daniele Forni and Costantino Menna and Domenico Asprone and Ezio Cadoni",
+      title             = "Dynamic Characterization of the Layer-Interface Properties of 3D Printed Concrete Elements",
+      doi               = "10.1016/j.cscm.2021.e00780",
+      year              = "2021",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "15",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Napolitano, D. Forni, C. Menna, D. Asprone and E. Cadoni, “Dynamic Characterization of the Layer-Interface Properties of 3D Printed Concrete Elements”, <i>Case Studies in Construction Materials</i>, vol. 15, 2021, doi: 10.1016/j.cscm.2021.e00780.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Napolitano, Rosanna, Daniele Forni, Costantino Menna, Domenico Asprone, and Ezio Cadoni. “Dynamic Characterization of the Layer-Interface Properties of 3D Printed Concrete Elements”. <i>Case Studies in Construction Materials</i> 15 (2021). https://doi.org/10.1016/j.cscm.2021.e00780.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

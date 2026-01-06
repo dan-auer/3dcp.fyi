@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Christoper Núñez Varillas, Marck Regalado Espinoza, Angela Gago Gamboa
+    - footer
+title: Núñez Varillas Christoper, Regalado Espinoza Marck, Gago Gamboa Angela
 description:
 tags:
  - buildability
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing:<br/>:aca-blank: An Opportunity for the Sustainable Development of Building Construction ([2023-07](date/2023/07))
-<a href="https://doi.org/10.22260/isarc2023/0096" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2023/0096</a>
+#3D Printing&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">An Opportunity for the Sustainable Development of Building Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2023/0096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0096" target="_blank">10.22260/isarc2023/0096</a>
 
--------------------------
+<a href="../../../author/nunez-varillas_joseph_christoper"><b>Núñez Varillas</b>&nbsp;Christoper</a></span>, <a href="../../../author/regalado-espinoza_steewar_marck"><b>Regalado Espinoza</b>&nbsp;Marck</a></span>, <a href="../../../author/gago-gamboa_cecilia_angela"><b>Gago Gamboa</b>&nbsp;Angela</a></span><br>
+Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nunez-varillas_joseph_christoper"><b>Núñez Varillas</b> Christoper</a>
-,     <a href="../../../author/regalado-espinoza_steewar_marck"><b>Regalado Espinoza</b> Marck</a>
-,     <a href="../../../author/gago-gamboa_cecilia_angela"><b>Gago Gamboa</b> Angela</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#opportunity`](keyword/opportunity)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172919347&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382600910" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2023/0096" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2023/0096?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Traditional construction processes have certain shortcomings, due to the waste generated, the quality, safety, and environmental problems, etc. In this sense, certain technological innovations are presented as an acceptable alternative in a country to improve these construction processes. One of them is 3D concrete printing, which requires a printer that extrudes layers of concrete, supplied through a nozzle, whose trajectory has been previously designed. In that sense, it is necessary to identify the main barriers that could prevent the successful implementation of this technology in a country, to better target state policies and encourage the participation of the private sector. One way to do this is to present the main opportunities offered by this technology in the construction sector. In this research, we started with a literature review that allowed us to identify 6 opportunities and 10 barriers of 3D printing technology for whole houses. Then, a survey was designed to qualify and weigh them through an expert judgment, using the Analytical Hierarchy Process (AHP) method and its simplified version Best Worst (BW) respectively. To validate this procedure, Peru was taken as an example, and 20 professionals from the construction sector with extensive professional experience were interviewed. In this way, it was identified that the main opportunities are greater safety on site, construction quality, and social benefits, while the main barriers to the implementation of full-size 3D printing are the technology under development, the printing material, and the skills required for the management of this new technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -101,8 +83,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../besk_raza_zhon_skib.2024.3PvTC/">3D Printing vs. Traditional Construction:<br/>Cost Comparisons from Design to Waste Disposal Stages</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nune_rega_gago.2023.3P,
+      author            = "Christoper Joseph Núñez Varillas and Marck Steewar Regalado Espinoza and Angela Cecilia Gago Gamboa",
+      title             = "3D Printing: An Opportunity for the Sustainable Development of Building Construction",
+      doi               = "10.22260/isarc2023/0096",
+      year              = "2023",
+      booktitle         = "Proceedings of the 40th International Symposium on Automation and Robotics in Construction",
+      editor            = "Borja García de Soto and Vincente Gonzalez-Moret and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. J. N. Varillas, M. S. R. Espinoza and A. C. G. Gamboa, “3D Printing: An Opportunity for the Sustainable Development of Building Construction”, in <i>Proceedings of the 40th International Symposium on Automation and Robotics in Construction</i>,  2023. doi: 10.22260/isarc2023/0096.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Varillas, Christoper Joseph Núñez, Marck Steewar Regalado Espinoza, and Angela Cecilia Gago Gamboa. “3D Printing: An Opportunity for the Sustainable Development of Building Construction”. In <i>Proceedings of the 40th International Symposium on Automation and Robotics in Construction</i>, edited by Borja García de Soto, Vincente Gonzalez-Moret, and Ioannis Brilakis, 2023. https://doi.org/10.22260/isarc2023/0096.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

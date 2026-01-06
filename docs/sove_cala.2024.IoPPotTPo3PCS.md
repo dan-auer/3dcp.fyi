@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meruyert Sovetova, John Calautit
+    - footer
+title: Sovetova Meruyert, Calautit John
 description:
 tags:
  - construction
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.energy.2024.132265) Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.energy.2024.132265" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.energy.2024.132265</a>
+#Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.energy.2024.132265) <a href="https://doi.org/10.1016/j.energy.2024.132265" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.energy.2024.132265" target="_blank">10.1016/j.energy.2024.132265</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sovetova_meruyert"><b>Sovetova</b>&nbsp;Meruyert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7046-3308" title="ORCID: 0000-0001-7046-3308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calautit_kaiser_john"><b>Calautit</b>&nbsp;John</a></span><br>
+Journal Article - Energy, Vol. 305, No. 132265
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a> <a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="https://orcid.org/0000-0001-7046-3308" title="ORCID: 0000-0001-7046-3308" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energy, Vol. 305, No. 132265
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#influence`](keyword/influence)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Printing%20Parameters%20on%20the%20Thermal%20Properties%20of%203D%20Printed%20Construction%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197744719&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400157508" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.energy.2024.132265" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.energy.2024.132265?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing in the construction sector is a promising, sustainable approach with the potential to build energy-efficient buildings. However, there is a lack of studies on the thermal properties of 3D-printed structures, which are fundamental to their energy efficiency. This study investigates the impact of printing parameters on thermal conductivity and defect development in 3D-printed concrete structures. Heat flow meter, scanning electron microscope and infrared imaging techniques were employed to assess the thermal properties and microstructure of 3D-printed samples. The results demonstrate that printing parameters significantly influence the porosity, void formation, and microstructural characteristics of 3D-printed concrete, ultimately affecting thermal properties. An increase in extrusion rate leads to higher thermal conductivity, whereas an increase in speed and standoff distance reduces thermal conductivity. Excessive spacing between printed lines can induce voids and gaps, contributing to lower thermal conductivity, while minimal spacing can promote higher porosity and larger pores. Infrared imaging revealed nonuniform thermal distribution in 3D-printed structures caused by the layered structure and voids in interlayer gaps. This study provides valuable insights for designing and constructing energy-efficient 3D-printed buildings, contributing to the development of sustainable building practices and the advancement of additive manufacturing in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -96,8 +77,8 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM/">Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
@@ -109,4 +90,34 @@ tags:
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sove_cala.2024.DCaPEoaSS3PfARiAMiC/">Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sove_cala.2024.IoPPotTPo3PCS,
+      author            = "Meruyert Sovetova and John Kaiser Calautit",
+      title             = "Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures",
+      doi               = "10.1016/j.energy.2024.132265",
+      year              = "2024",
+      journal           = "Energy",
+      volume            = "305",
+      pages             = "132265",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sovetova  and J. K. Calautit, “Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures”, <i>Energy</i>, vol. 305, p. 132265, 2024, doi: 10.1016/j.energy.2024.132265.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sovetova, Meruyert, and John Kaiser Calautit. “Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures”. <i>Energy</i> 305 (2024): 132265. https://doi.org/10.1016/j.energy.2024.132265.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

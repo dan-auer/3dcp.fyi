@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robin Oval, Mishael Nuh, Eduardo Costa, Omar Madyan, John Orr, Paul Shepherd
+    - footer
+title: Oval Robin, Nuh Mishael, Costa Eduardo, Madyan Omar, Orr John, Shepherd Paul
 description:
 tags:
  - buildability
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.istruc.2023.01.063) A Prototype Low-Carbon Segmented Concrete Shell Building Floor System ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.istruc.2023.01.063" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2023.01.063</a>
+#A Prototype Low-Carbon Segmented Concrete Shell Building Floor System ([2023-01](date/2023/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.istruc.2023.01.063) <a href="https://doi.org/10.1016/j.istruc.2023.01.063" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.01.063" target="_blank">10.1016/j.istruc.2023.01.063</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9701-9853" title="ORCID: 0000-0002-9701-9853" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oval_robin"><b>Oval</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0672-2832" title="ORCID: 0000-0003-0672-2832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nuh_mishael"><b>Nuh</b>&nbsp;Mishael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3113-9270" title="ORCID: 0000-0002-3113-9270" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_eduardo"><b>Costa</b>&nbsp;Eduardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5252-2631" title="ORCID: 0000-0002-5252-2631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/madyan_abo_omar"><b>Madyan</b>&nbsp;Omar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2687-6353" title="ORCID: 0000-0003-2687-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orr_j_john"><b>Orr</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span><br>
+Journal Article - Structures, Vol. 49, pp. 124-138
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/oval_robin"><b>Oval</b> Robin</a> <a href="https://orcid.org/0000-0002-9701-9853" title="ORCID: 0000-0002-9701-9853" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a> <a href="https://orcid.org/0000-0003-0672-2832" title="ORCID: 0000-0003-0672-2832" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/costa_eduardo"><b>Costa</b> Eduardo</a> <a href="https://orcid.org/0000-0002-3113-9270" title="ORCID: 0000-0002-3113-9270" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/madyan_abo_omar"><b>Madyan</b> Omar</a> <a href="https://orcid.org/0000-0002-5252-2631" title="ORCID: 0000-0002-5252-2631" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/orr_j_john"><b>Orr</b> John</a> <a href="https://orcid.org/0000-0003-2687-6353" title="ORCID: 0000-0003-2687-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 49, pp. 124-138
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#floor`](keyword/floor)
-    [`#low`](keyword/low)
-    [`#prototype`](keyword/prototype)
-    [`#segment`](keyword/segment)
-    [`#shell`](keyword/shell)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Prototype%20Low-Carbon%20Segmented%20Concrete%20Shell%20Building%20Floor%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147205409&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4318678065" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2023.01.063" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2023.01.063?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete shell structures offer a mechanically efficient solution as a building floor system to reduce the environmental impact of our buildings. Although the curved geometry of shells can be an obstacle to their fabrication and implementation, digital fabrication and affordable robotics provide a means for the automation of their construction in a sustainable manner at an industrial scale. The applicability of such structures is demonstrated in this paper with the realisation of a large-scale concrete shell floor system, completed by columns, tie rods, and a levelled floor. The shell was prefabricated off-site in segments that can be transported and assembled on-site, and which can be disassembled to enable a circular economy of construction. This paper presents the conceptual and structural design; the automation of fabrication, thanks to an actuated, reconfigurable, reusable mould and a robotic concrete spraying process; the strategy and sequence of assembly and disassembly on-site using standard scaffold elements; and the sustainability assessment using life-cycle analysis. This prototype offers a reduction of about 50% of cradle-to-gate embodied carbon benchmarked against regular flat slabs before further improvement and optimisation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/heusi_alex"><b>Heusi</b> Alex</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../beda_szab_zani_heus.2022.R3PoMFfaLCCS/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -84,14 +59,42 @@ tags:
       <li><a href="../../../author/ranaudo_francesco"><b>Ranaudo</b> Francesco</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../rana_mele_bloc.2021.ALCFCFS/">A Low-Carbon, Funicular Concrete Floor System:<br/>Design and Engineering of the HiLo Floor</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
       <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/pukhkaiev_dmytro"><b>Pukhkaiev</b> Dmytro</a>, <a href="../../../author/reichle_mathias"><b>Reichle</b> Mathias</a>, <a href="../../../author/zhao_wanqi"><b>Zhao</b> Wanqi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ivan_pukh_reic_zhao.2025.RAoMCSUF/">Robotic Assembly of Modular Concrete Shells Using Falsework</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/pressmair_nadine"><b>Pressmair</b> Nadine</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../gebh_mata_amma_pres.2024.ESEwDC/">Enhancing Structural Efficiency with Digital Concrete:<br/>Principles, Opportunities and Case Studies</a></li>
       <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../ivan_tosi_mull_lord.2024.AMoRMoSSBo3PwSHCC/">Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/ranaudo_francesco"><b>Ranaudo</b> Francesco</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../bhoo_dell_rana_mele.2024.UCMfCC/">Unreinforced Concrete Masonry for Circular Construction</a></li>
-      <li><a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/orr_j_john"><b>Orr</b> John</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../nuh_oval_orr_shep.2022.DFoRCSUARCS/">Digital Fabrication of Ribbed Concrete Shells Using Automated Robotic Concrete Spraying</a></li>
-      <li><a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/orr_j_john"><b>Orr</b> John</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../nuh_oval_orr.2022.A/">ARCS:<br/>Automated Robotic Concrete Spraying for the Fabrication of Variable Thickness Doubly Curved Shells</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{oval_nuh_cost_mady.2023.APLCSCSBFS,
+      author            = "Robin Oval and Mishael Nuh and Eduardo Costa and Omar Abo Madyan and John J. Orr and Paul Shepherd",
+      title             = "A Prototype Low-Carbon Segmented Concrete Shell Building Floor System",
+      doi               = "10.1016/j.istruc.2023.01.063",
+      year              = "2023",
+      journal           = "Structures",
+      volume            = "49",
+      pages             = "124--138",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Oval, M. Nuh, E. Costa, O. A. Madyan, J. J. Orr and P. Shepherd, “A Prototype Low-Carbon Segmented Concrete Shell Building Floor System”, <i>Structures</i>, vol. 49, pp. 124–138, 2023, doi: 10.1016/j.istruc.2023.01.063.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oval, Robin, Mishael Nuh, Eduardo Costa, Omar Abo Madyan, John J. Orr, and Paul Shepherd. “A Prototype Low-Carbon Segmented Concrete Shell Building Floor System”. <i>Structures</i> 49 (2023): 124–38. https://doi.org/10.1016/j.istruc.2023.01.063.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

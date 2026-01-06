@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shravan Muthukrishnan, Sayanthan Ramakrishnan, Jay Sanjayan
+    - footer
+title: Muthukrishnan Shravan, Ramakrishnan Sayanthan, Sanjayan Jay
 description:
 tags:
  - activation
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.cemconres.2022.107008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.107008</a>
+#In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2022.107008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.107008" target="_blank">10.1016/j.cemconres.2022.107008</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b>&nbsp;Shravan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b>&nbsp;Sayanthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 162
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a> <a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> <a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 162, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#line`](keyword/line)
-    [`#print`](keyword/print)
-    [`#slurry`](keyword/slurry)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slurry"><button class="btn">#slurry</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Line%20Activation%20of%20Geopolymer-Slurry%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140311578&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4306972425" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.107008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.107008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In-line activation techniques in concrete 3D printing enhance the buildability of fresh concrete without influencing its pumpability, thus enabling fast construction rates with long pumping durations. While the in-line activation of cementitious mixes with set-accelerators is a promising approach, the set-accelerators fail in geopolymer system. Therefore, this study investigates a new approach of attaining on-demand setting in geopolymer by alkali activation of binder slurry at the print head. The primary advantage of the proposed method is that the mix remains non-activated until it reaches the print head, thus facilitating a long pumping duration. It was found that the mix design parameters (i.e., precursors to activator ratio, fly ash to slag ratio etc.) and operating conditions (mixing duration of precursor slurry, stage wise activation etc.,) are critical in attaining the desired fresh concrete properties in geopolymer concrete. This is demonstrated by the fact that the optimum mix design chosen with 20 wt% of fly ash as precursor and the activator dosage of 35 wt% of binder showed a yield strength growth rate from ~500 Pa before activation to ~70 kPa in 20 min after activation. Moreover, this study provides a new insight into the potential benefits of polycarboxylate based superplasticiser, which was widely reported as an incompatible admixture for silicate activated geopolymer concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>
@@ -84,8 +65,9 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../ghod_sing_sing_chow.2025.AMSMaSiCaBA/">Additively Manufactured Smart Materials and Structures in Construction and Building Applications</a></li>
       <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
@@ -117,4 +99,33 @@ tags:
       <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../raje_rame_nava_sanj.2023.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../quah_tay_lim_tan.2023.C3P/">Concrete 3D Printing:<br/>Process-Parameters for Process-Control, Monitoring and Diagnosis in Automation and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{muth_rama_sanj.2022.ILAoGSfC3P,
+      author            = "Shravan Muthukrishnan and Sayanthan Ramakrishnan and Jay Gnananandan Sanjayan",
+      title             = "In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing",
+      doi               = "10.1016/j.cemconres.2022.107008",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "162",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Muthukrishnan, S. Ramakrishnan and J. G. Sanjayan, “In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing”, <i>Cement and Concrete Research</i>, vol. 162, 2022, doi: 10.1016/j.cemconres.2022.107008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Muthukrishnan, Shravan, Sayanthan Ramakrishnan, and Jay Gnananandan Sanjayan. “In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing”. <i>Cement and Concrete Research</i> 162 (2022). https://doi.org/10.1016/j.cemconres.2022.107008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

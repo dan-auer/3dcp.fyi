@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Qi Li, Jixiang Li
+    - footer
+title: Liu Xiongfei, Li Qi, Li Jixiang
 description:
 tags:
  - base
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.matlet.2022.132253" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matlet.2022.132253</a>
+#Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2022.132253" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2022.132253" target="_blank">10.1016/j.matlet.2022.132253</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3995-4907" title="ORCID: 0000-0002-3995-4907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_qi"><b>Li</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9509-2520" title="ORCID: 0000-0002-9509-2520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_jixiang"><b>Li</b>&nbsp;Jixiang</a></span><br>
+Journal Article - Materials Letters, Vol. 319
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_qi"><b>Li</b> Qi</a> <a href="https://orcid.org/0000-0002-3995-4907" title="ORCID: 0000-0002-3995-4907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="https://orcid.org/0000-0002-9509-2520" title="ORCID: 0000-0002-9509-2520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Letters, Vol. 319, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#pva`](keyword/pva)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#spray`](keyword/spray)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Shrinkage%20and%20Mechanical%20Properties%20Optimization%20of%20Spray-Based%203D%20Printed%20Concrete%20by%20PVA-Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128699467&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,25 +40,21 @@ tags:
 <a href="https://inciteful.xyz/p/W4226189060" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matlet.2022.132253" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matlet.2022.132253?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Spray-based 3D (S-3D) concrete printing (S-3DCP) technology shows the dexterity in horizontal, vertical and overhanging construction, which demonstrates the application of S-3DCP in sextuple space. However, the high spraying pressure, layer-by-layer printing and no form construction process in S-3DCP greatly increases the shrinkage and cracking performance, which further decreases the mechanical properties of S-3D printed concrete. In light of the feature of high tensile strength, PVA fiber is widely used to overcome these limitations. In this paper, the shrinkage and mechanical properties of S-3D printed concrete optimized by PVA fiber are comprehensively studied. The PVA fiber alignment effect avails the mechanical and the anti-shrinkage properties. PVA fiber significantly improves the anti-shrinkage property of S-3D printed concrete with the cracking index and drying shrinkage respect decreased by 73.85%-100% and 9.73%-16.22%. Furthermore, the maximum flexural strength of S-3D printed concrete is significantly improved by 72.43% than that of the cast counterpart. S-3DCP optimizes the pore structure of S-3D printed concrete with the total porosity decreased by 31.08%, which avails its mechanical performance improvement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lu_li_wong_qian.2021.EoPPoMDiSB3CPS3/">Effect of Printing Parameters on Material-Distribution in Spray-Based 3D Concrete Printing (S-3DCP)</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/shang_yuqing"><b>Shang</b> Yuqing</a>, <a href="../../../author/yu_zheming"><b>Yu</b> Zheming</a>, <a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shan_yu_ma_wei.2026.Ro3PMaPPoBFRC/">Research on 3D Printing Materials and Printing Parameters of Basalt Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/yamakawa_soji"><b>Yamakawa</b> Soji</a>, <a href="../../../author/vazquez-santiago_kyshalee"><b>Vazquez-Santiago</b> Kyshalee</a>, <a href="../../../author/xia_yixuan"><b>Xia</b> Yixuan</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yama_vazq_xia_ogur.2025.CS3PSfNTP/">Concrete Spray 3D Printing Simulator for Nozzle Trajectory Planning</a></li>
@@ -108,4 +85,33 @@ tags:
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_li_wang_ma.2022.SAfPEaMPOoSB3PM/">Systematic Approach for Printability Evaluation and Mechanical Property Optimization of Spray-Based 3D Printed Mortar</a></li>
       <li><a href="../../../author/zhou_ji"><b>Zhou</b> Ji</a>, <a href="../../../author/hou_guanyu"><b>Hou</b> Guanyu</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_hou_liu_li.2023.MPoSB3PMCRC/">Mechanical Properties of Spray-Based 3D Printed Micro-Cable-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_li.2022.SaMPOoSB3PCbPF,
+      author            = "Xiongfei Liu and Qi Li and Jixiang Li",
+      title             = "Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber",
+      doi               = "10.1016/j.matlet.2022.132253",
+      year              = "2022",
+      journal           = "Materials Letters",
+      volume            = "319",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, Q. Li and J. Li, “Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber”, <i>Materials Letters</i>, vol. 319, 2022, doi: 10.1016/j.matlet.2022.132253.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Qi Li, and Jixiang Li. “Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber”. <i>Materials Letters</i> 319 (2022). https://doi.org/10.1016/j.matlet.2022.132253.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

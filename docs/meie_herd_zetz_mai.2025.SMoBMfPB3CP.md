@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Niklas Meier, Friedrich Herding, Harald Zetzener, Inka Mai (née Dressler), Dirk Lowke, Arno Kwade
+    - footer
+title: Meier Niklas, Herding Friedrich, Zetzener Harald, Mai (née Dressler) Inka, Lowke Dirk, Kwade Arno
 description:
 tags:
  - bed
@@ -20,38 +21,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>:aca-blank: Effect on Wettability, Porosity, and Mechanical Properties ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.apt.2025.105123" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.apt.2025.105123</a>
+#Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Effect on Wettability, Porosity, and Mechanical Properties</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.apt.2025.105123" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.apt.2025.105123" target="_blank">10.1016/j.apt.2025.105123</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5589-3665" title="ORCID: 0000-0002-5589-3665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meier_niklas"><b>Meier</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1124-6295" title="ORCID: 0000-0003-1124-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/herding_friedrich"><b>Herding</b>&nbsp;Friedrich</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-7789-1927" title="ORCID: 0009-0001-7789-1927" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zetzener_harald"><b>Zetzener</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6348-7309" title="ORCID: 0000-0002-6348-7309" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwade_arno"><b>Kwade</b>&nbsp;Arno</a></span><br>
+Journal Article - Advanced Powder Technology, Vol. 36, Iss. 12, No. 105123
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a> <a href="https://orcid.org/0000-0002-5589-3665" title="ORCID: 0000-0002-5589-3665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a> <a href="https://orcid.org/0000-0003-1124-6295" title="ORCID: 0000-0003-1124-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a> <a href="https://orcid.org/0009-0001-7789-1927" title="ORCID: 0009-0001-7789-1927" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kwade_arno"><b>Kwade</b> Arno</a> <a href="https://orcid.org/0000-0002-6348-7309" title="ORCID: 0000-0002-6348-7309" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advanced Powder Technology, Vol. 36, Iss. 12, No. 105123
-
-:aca-blank:{ .lg .middle}
-    [`#bed`](keyword/bed)
-    [`#bulk`](keyword/bulk)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#particle`](keyword/particle)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/bulk"><button class="btn">#bulk</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Surface%20Modification%20of%20Bulk%20Material%20for%20Particle%20Bed%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022604997&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106512094" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.apt.2025.105123" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.apt.2025.105123?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the influence of particle surface modifications on particle bed concrete 3D printing by Selective Cement Activation (SCA). Prior research suggests that enhancing particle wettability and reducing bulk porosity of the particle bed increases the performance ofSCA components. In this work, the effects of dry coatings (nanoscale SiO2 and TiO2) and a liquid grinding aid (diethylene glycol – DEG) on the wettability and bulk density of two sand fractions and a sand/cement mixture were examined. Nanoscale SiO2 was found to improve the wettability of the sand/cement mixture, while DEG and nanoscale TiO2 increased the bulk density and, consequently, reduced the bulk porosity. Based on the results, specimens were 3D printed using the modified materials. Surface modification by DEG increased the compressive strength of printed specimens by 30 % compared to the unmodified, reference material. This increase is attributed to a higher bulk density and, thus, particle bed density compared to the reference material. We conclude that surface modifications enhancing the bulk density can significantly increase the compressive strength of SCA components, thereby expanding SCA’s potential and facilitating its use in construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -100,7 +73,38 @@ tags:
       <li><a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/saile_bettina"><b>Saile</b> Bettina</a>, <a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../talk_sail_meie_herd.2023.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Influence of Process Parameters on Particle-Bed Density</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../xia_nema_sanj.2019.PPTtESoPCMDFUPB3PP/">Post-Processing Techniques to Enhance Strength of Portland Cement Mortar Digitally Fabricated Using Powder-Based 3D Printing Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{meie_herd_zetz_mai.2025.SMoBMfPB3CP,
+      author            = "Niklas Meier and Friedrich Herding and Harald Zetzener and Inka Mai (née Dressler) and Dirk Lowke and Arno Kwade",
+      title             = "Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing: Effect on Wettability, Porosity, and Mechanical Properties",
+      doi               = "10.1016/j.apt.2025.105123",
+      year              = "2025",
+      journal           = "Advanced Powder Technology",
+      volume            = "36",
+      number            = "12",
+      pages             = "105123",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Meier, F. Herding, H. Zetzener, I. M. (née Dressler), D. Lowke and A. Kwade, “Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing: Effect on Wettability, Porosity, and Mechanical Properties”, <i>Advanced Powder Technology</i>, vol. 36, no. 12, p. 105123, 2025, doi: 10.1016/j.apt.2025.105123.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Meier, Niklas, Friedrich Herding, Harald Zetzener, Inka Mai (née Dressler), Dirk Lowke, and Arno Kwade. “Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing: Effect on Wettability, Porosity, and Mechanical Properties”. <i>Advanced Powder Technology</i> 36, no. 12 (2025): 105123. https://doi.org/10.1016/j.apt.2025.105123.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

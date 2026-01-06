@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohsin Qureshi, Amira Shiwazi, Ghassan Kindi, Bushra Sawafi, Yousuf Balushi
+    - footer
+title: Qureshi Mohsin, Shiwazi Amira, Kindi Ghassan, Sawafi Bushra, Balushi Yousuf
 description:
 tags:
  - additive
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Additive for Concrete 3D Printer by Using Local Materials ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1007/978-981-99-6368-3_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-99-6368-3_8</a>
+#Development of Additive for Concrete 3D Printer by Using Local Materials ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-6368-3_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-6368-3_8" target="_blank">10.1007/978-981-99-6368-3_8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6932-6944" title="ORCID: 0000-0002-6932-6944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b>&nbsp;Mohsin</a></span>, <a href="../../../author/shiwazi_amira"><b>al&nbsp;Shiwazi</b>&nbsp;Amira</a></span>, <a href="../../../author/kindi_ghassan"><b>al&nbsp;Kindi</b>&nbsp;Ghassan</a></span>, <a href="../../../author/sawafi_bushra"><b>al&nbsp;Sawafi</b>&nbsp;Bushra</a></span>, <a href="../../../author/balushi_usman_yousuf"><b>al&nbsp;Balushi</b>&nbsp;Yousuf</a></span><br>
+Contribution - Proceedings of the 3rd International Civil Engineering and Architecture Conference, pp. 81-89
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a> <a href="https://orcid.org/0000-0002-6932-6944" title="ORCID: 0000-0002-6932-6944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shiwazi_amira"><b>al Shiwazi</b> Amira</a>
-,     <a href="../../../author/kindi_ghassan"><b>al Kindi</b> Ghassan</a>
-,     <a href="../../../author/sawafi_bushra"><b>al Sawafi</b> Bushra</a>
-,     <a href="../../../author/balushi_usman_yousuf"><b>al Balushi</b> Yousuf</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd International Civil Engineering and Architecture Conference, pp. 81-89
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#local`](keyword/local)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Additive%20for%20Concrete%203D%20Printer%20by%20Using%20Local%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185847745&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391547045" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-99-6368-3_8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-99-6368-3_8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to delineate the best economical, multi-functional, and eco-friendly local materials to be used as an additive and explore its potential to revolutionize the construction industry using 3D concrete. The authors investigate different additive materials used in preparing four mixes using Ordinary Portland Cement, white cement, reservoir sediments, dune sand, commercial sand, fine marble waste and bentonite. The two mixes showed the best compressive strength and durability results, containing fine marble waste and reservoir sediments. The mix WSS (30% white cement, 50% sand, 20% sediment) has resulted in a compressive strength ranging from 18 to 21 MPa after 28 days of curing. The mix WSM (30% white cement, 50% sand & 20% fine marble waste) recorded a compressive strength range from 15 to 17 MPa after 28 days of curing. The durability of the two mixes was tested under wet & dry cycles. The mixes have achieved the best durability results with a minor reduction in durability after several cycles of wetting and drying. Both mixes successfully work as an additive for crafting in a newly developed concrete 3D printer.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -82,7 +61,38 @@ tags:
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../yang_li_che.2020.3PCMCNC/">3D Printing Cementitious Materials Containing Nano-CaCO3:<br/>Workability, Strength, and Microstructure</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{qure_shiw_kind_sawa.2024.DoAfC3PbULM,
+      author            = "Mohsin Usman Qureshi and Amira Al Shiwazi and Ghassan Al Kindi and Bushra Al Sawafi and Yousuf Usman Al Balushi",
+      title             = "Development of Additive for Concrete 3D Printer by Using Local Materials",
+      doi               = "10.1007/978-981-99-6368-3_8",
+      year              = "2024",
+      volume            = "389",
+      pages             = "81--89",
+      booktitle         = "Proceedings of the 3rd International Civil Engineering and Architecture Conference",
+      editor            = "Marco Casini",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. U. Qureshi, A. A. Shiwazi, G. A. Kindi, B. A. Sawafi and Y. U. A. Balushi, “Development of Additive for Concrete 3D Printer by Using Local Materials”, in <i>Proceedings of the 3rd International Civil Engineering and Architecture Conference</i>,  2024, vol. 389, pp. 81–89. doi: 10.1007/978-981-99-6368-3_8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qureshi, Mohsin Usman, Amira Al Shiwazi, Ghassan Al Kindi, Bushra Al Sawafi, and Yousuf Usman Al Balushi. “Development of Additive for Concrete 3D Printer by Using Local Materials”. In <i>Proceedings of the 3rd International Civil Engineering and Architecture Conference</i>, edited by Marco Casini, 389:81–89, 2024. https://doi.org/10.1007/978-981-99-6368-3_8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

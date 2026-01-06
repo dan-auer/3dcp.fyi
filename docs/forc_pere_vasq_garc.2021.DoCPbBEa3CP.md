@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eric Forcael, Javier Pérez, Álvaro Vásquez, Rodrigo García-Alvarado, Francisco Orozco, Luis Sepúlveda-Morales
+    - footer
+title: Forcael Eric, Pérez Javier, Vásquez Álvaro, García-Alvarado Rodrigo, Orozco Francisco, Sepúlveda-Morales Luis
 description:
 tags:
  - bim
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/11/16/7226/pdf?version=1628160771) Development of Communication Protocols Between BIM Elements and 3D Concrete Printing ([2021-08](date/2021/08))
-<a href="https://doi.org/10.3390/app11167226" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app11167226</a>
+#Development of Communication Protocols Between BIM Elements and 3D Concrete Printing ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/11/16/7226/pdf?version=1628160771) <a href="https://doi.org/10.3390/app11167226" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app11167226" target="_blank">10.3390/app11167226</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3036-4329" title="ORCID: 0000-0002-3036-4329" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forcael_eric"><b>Forcael</b>&nbsp;Eric</a></span>, <a href="../../../author/perez_javier"><b>Pérez</b>&nbsp;Javier</a></span>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b>&nbsp;Álvaro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2409-1026" title="ORCID: 0000-0003-2409-1026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orozco_francisco"><b>Orozco</b>&nbsp;Francisco</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-9885-806X" title="ORCID: 0009-0008-9885-806X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sepulveda-morales_javier_luis"><b>Sepúlveda-Morales</b>&nbsp;Luis</a></span><br>
+Journal Article - Applied Sciences, Vol. 11, Iss. 16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> <a href="https://orcid.org/0000-0002-3036-4329" title="ORCID: 0000-0002-3036-4329" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>
-,     <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>
-,     <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/orozco_francisco"><b>Orozco</b> Francisco</a> <a href="https://orcid.org/0000-0003-2409-1026" title="ORCID: 0000-0003-2409-1026" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sepulveda-morales_javier_luis"><b>Sepúlveda-Morales</b> Luis</a> <a href="https://orcid.org/0009-0008-9885-806X" title="ORCID: 0009-0008-9885-806X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 11, Iss. 16, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bim`](keyword/bim)
-    [`#communication`](keyword/communication)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#element`](keyword/element)
-    [`#print`](keyword/print)
-    [`#protocol`](keyword/protocol)
-
-
--------------------------
+<a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/communication"><button class="btn">#communication</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/protocol"><button class="btn">#protocol</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Communication%20Protocols%20Between%20BIM%20Elements%20and%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112326224&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3190580202" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app11167226" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app11167226?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Historically, the construction industry has exhibited slow technological development when compared to other industries. However, during the last several years, investigations related to automation in construction have been conducted, such as additive manufacturing in concrete. This study aims to delve into this topic, providing effective communication between BIM-designed elements and its additive concrete manufacturing, with the help of an articulated robotic arm. Therefore, the paper addresses the preparation of computer code that allows such BIM–robot communication, checking the parameters utilized, and analyzing the results of tests with the equipment involved.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/he_rui"><b>He</b> Rui</a>, <a href="../../../author/li_mingkai"><b>Li</b> Mingkai</a>, <a href="../../../author/gan_jl_vincent"><b>Gan</b> Vincent</a>, <a href="../../../author/ma_jun"><b>Ma</b> Jun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../he_li_gan_ma.2021.BECDaDFoIB/">BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings:<br/>A Case Study</a></li>
@@ -80,8 +57,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/lee_jia-shen_brian"><b>Lee</b> Brian</a>, <a href="../../../author/gan_jia-hui_nicole"><b>Gan</b> Nicole</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_moha_lee_gan.2021.EBIfLTPPiDCPwDDS/">Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script:<br/>A Case Study</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b> Laura</a>, <a href="../../../author/orobio_armando"><b>Orobio</b> Armando</a>, <a href="../../../author/campana_wilmer"><b>Campaña</b> Wilmer</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../hena_orob_camp.2026.BIiPACP/">BIM Integration in Prefabricated Additive Construction Projects:<br/>Case Study</a></li>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../roja_hasa.2025.AIBPWf3CPP/">An Integrated BIM Planning Workflow for 3D Concrete Printing Projects</a></li>
@@ -94,4 +71,34 @@ tags:
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/martinez-chabur_paula"><b>Martínez-Chabur</b> Paula</a>, <a href="../../../author/ramirez-cifuentes_ivan"><b>Ramírez-Cifuentes</b> Iván</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../forc_mart_rami_garc.2023.PAo3CPPTDES/">Performance-Analysis of 3D Concrete Printing Processes Through Discrete-Event-Simulation</a></li>
       <li><a href="../../../author/ignatova_elena"><b>Ignatova</b> Elena</a>, <a href="../../../author/kirichek_pavel"><b>Kirichek</b> Pavel</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../igna_kiri.2022.AMBoBIMD/">Additive Manufacturing Based on Building Information-Model-Data</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{forc_pere_vasq_garc.2021.DoCPBBEa3CP,
+      author            = "Eric Forcael and Javier Pérez and Álvaro Vásquez and Rodrigo García-Alvarado and Francisco Orozco and Luis Javier Sepúlveda-Morales",
+      title             = "Development of Communication Protocols Between BIM Elements and 3D Concrete Printing",
+      doi               = "10.3390/app11167226",
+      year              = "2021",
+      journal           = "Applied Sciences",
+      volume            = "11",
+      number            = "16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Forcael, J. Pérez, Á. Vásquez, R. García-Alvarado, F. Orozco and L. J. Sepúlveda-Morales, “Development of Communication Protocols Between BIM Elements and 3D Concrete Printing”, <i>Applied Sciences</i>, vol. 11, no. 16, 2021, doi: 10.3390/app11167226.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Forcael, Eric, Javier Pérez, Álvaro Vásquez, Rodrigo García-Alvarado, Francisco Orozco, and Luis Javier Sepúlveda-Morales. “Development of Communication Protocols Between BIM Elements and 3D Concrete Printing”. <i>Applied Sciences</i> 11, no. 16 (2021). https://doi.org/10.3390/app11167226.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

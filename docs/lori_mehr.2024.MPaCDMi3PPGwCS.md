@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Lori, Mehdi Mehrali
+    - footer
+title: Lori Ali, Mehrali Mehdi
 description:
 tags:
  - crack
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/17452759.2024.2425824) Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1080/17452759.2024.2425824" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2425824</a>
+#Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2425824) <a href="https://doi.org/10.1080/17452759.2024.2425824" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2425824" target="_blank">10.1080/17452759.2024.2425824</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lori_rezaei_ali"><b>Lori</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mehrali_mehdi"><b>Mehrali</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a> <a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#crack`](keyword/crack)
-    [`#deflection`](keyword/deflection)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mechanics`](keyword/mechanics)
-    [`#mechanism`](keyword/mechanism)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/deflection"><button class="btn">#deflection</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Crack-Deflection%20Mechanisms%20in%203D%20Printed%20Porous%20Geopolymers%20with%20Cellular%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209941586&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404349957" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2425824" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2425824?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focuses on using helical design patterns via 3D printing to create geopolymer with a highly porous structure in order to enhance their strength-density relationship and fracture properties. In this regard, to create porous structure, different pitch angles and infill densities were chosen, and mechanical and fracture properties were examined. The results of mechanical strength tests revealed that while the pitch angle does not significantly affect compressive strength, flexural strength is improved by implementing a low pitch angle helical structure, which leads to the strength-density relationship improvement. Additionally, the work of fracture results demonstrated an enhancement for samples with low pitch angles, such as α15° and α30°, compared to cast and non-directional printed samples. The digital image correlation and fracture surface analysis showed several fracture mechanisms, predominantly crack deflection and twisting, in samples with low pitch angles, which contributes to the observed improvements in the work of fracture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
@@ -88,10 +67,40 @@ tags:
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zafa_bakh_hoja.2023.PaSFEoSRECC/">Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/pereira_m_carolina"><b>Pereira</b> Carolina</a>, <a href="../../../author/vieira_henrique"><b>Vieira</b> Henrique</a>, <a href="../../../author/goncalves_p-f_nuno"><b>Gonçalves</b> Nuno</a>, <a href="../../../author/ascensao_guilherme"><b>Ascensão</b> Guilherme</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../pere_viei_gonc_asce.2025.IWC3PGSfEACiBE/">Innovative Waste-Containing 3D-Printed Geopolymer Structures for Enhanced Acoustic Comfort in Built Environments</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/ascensao_guilherme"><b>Ascensão</b> Guilherme</a>, <a href="../../../author/fernandes_fabio"><b>Fernandes</b> Fábio</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lori_nova_asce_fern.2025.CFGf3PA/">Chemically Foamed Geopolymers for 3D Printing Applications</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lori_mehr.2025.FGCoPGUEaDDA/">Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lori_mehr.2024.MPaCDMi3PPGwCS,
+      author            = "Ali Rezaei Lori and Mehdi Mehrali",
+      title             = "Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures",
+      doi               = "10.1080/17452759.2024.2425824",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. R. Lori  and M. Mehrali, “Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2425824.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lori, Ali Rezaei, and Mehdi Mehrali. “Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2425824.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

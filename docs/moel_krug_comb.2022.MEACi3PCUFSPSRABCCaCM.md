@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gerrit Moelich, Jacques Kruger, Riaan Combrinck
+    - footer
+title: Moelich Gerrit, Kruger Jacques, Combrinck Riaan
 description:
 tags:
  - admixture
@@ -21,36 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106862" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106862</a>
+#Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2022.106862" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106862" target="_blank">10.1016/j.cemconres.2022.106862</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8438-1968" title="ORCID: 0000-0002-8438-1968" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moelich_marius_gerrit"><b>Moelich</b>&nbsp;Gerrit</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/combrinck_riaan"><b>Combrinck</b>&nbsp;Riaan</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 159
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a> <a href="https://orcid.org/0000-0002-8438-1968" title="ORCID: 0000-0002-8438-1968" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 159, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#age`](keyword/age)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#cure`](keyword/cure)
-    [`#early`](keyword/early)
-    [`#fiber`](keyword/fiber)
-    [`#mitigation`](keyword/mitigation)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#reduction`](keyword/reduction)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mitigating%20Early-Age%20Cracking%20in%203D%20Printed%20Concrete%20Using%20Fibers%2C%20Superabsorbent%20Polymers%2C%20Shrinkage%20Reducing%20Admixtures%2C%20B-CSA%20Cement%20and%20Curing%20Measures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132211011&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283032128" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106862" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106862?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete is vulnerable to severe early age shrinkage-related cracking due to the absence of formwork and coarse aggregates. To address this, several potential mitigation measures are compared based on their ability to reduce free shrinkage and cracking severity at dosages which do not adversely affect the printability or buildability of a well-developed 3DPC mixture. The results show that a low dosage of short polypropylene microfibres eliminates early age cracking. The external application of a curing agent and multiple applications of misting water are less effective. Calcium sulfoaluminate–belite cement is used to accelerate structuration and proves beneficial in crack mitigation while enhancing buildability. Internal curing, with superabsorbent polymers, is less effective in mitigating plastic cracks but reduces autogenous shrinkage and increases the rate of stiffening. At the dosage used in this study, the shrinkage reducing admixture is relatively ineffective in crack mitigation, with higher dosages adversely affecting the buildability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/pourbehi_mohammad"><b>Pourbehi</b> Mohammad</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../heev_best_pour_krug.2020.CtFo3CPEvtCZM/">Characterizing the Fissility of 3D Concrete Printed Elements via the Cohesive Zone Method</a></li>
@@ -97,8 +71,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "53 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/oh_gyujong"><b>Oh</b> Gyujong</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM/">Effects of the Combined Incorporation of Superabsorbent Polymers and Polyvinyl Alcohol Fibers on Material Properties of 3D Printable Mortar:<br/>Rheology, Shrinkage, and Mechanical Behavior</a></li>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
@@ -153,4 +127,33 @@ tags:
       <li><a href="../../../author/kan_deyuan"><b>Kan</b> Deyuan</a>, <a href="../../../author/liu_guifeng"><b>Liu</b> Guifeng</a>, <a href="../../../author/cao_cindy_shuang"><b>Cao</b> Shuang</a>, <a href="../../../author/chen_zhengfa"><b>Chen</b> Zhengfa</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kan_liu_cao_chen.2022.MPaPSoMWCNTRRPCfTDPMbME/">Mechanical Properties and Pore-Structure of Multi-Walled Carbon-Nano-Tube-Reinforced Reactive Powder-Concrete for Three-Dimensional Printing Manufactured by Material-Extrusion</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moel_krug_comb.2022.MEACi3PCUFSPSRABCCaCM,
+      author            = "Gerrit Marius Moelich and Jacques Pienaar Kruger and Riaan Combrinck",
+      title             = "Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures",
+      doi               = "10.1016/j.cemconres.2022.106862",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "159",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. M. Moelich, J. P. Kruger and R. Combrinck, “Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures”, <i>Cement and Concrete Research</i>, vol. 159, 2022, doi: 10.1016/j.cemconres.2022.106862.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moelich, Gerrit Marius, Jacques Pienaar Kruger, and Riaan Combrinck. “Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures”. <i>Cement and Concrete Research</i> 159 (2022). https://doi.org/10.1016/j.cemconres.2022.106862.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

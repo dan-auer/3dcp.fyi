@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kang-Tai Yan, Lingzhi Li, Junhong Ye, Dilshod Bazarov, Boyu Deng, Kequan Yu
+    - footer
+title: Yan Kang-Tai, Li Lingzhi, Ye Junhong, Bazarov Dilshod, Deng Boyu, Yu Kequan
 description:
 tags:
  - anisotropy
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Anisotropic Size-Effect of 3D Printed LC3-Based Engineered Cementitious Composites ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.jobe.2024.109668" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109668</a>
+#Anisotropic Size-Effect of 3D Printed LC3-Based Engineered Cementitious Composites ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109668" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109668" target="_blank">10.1016/j.jobe.2024.109668</a>
 
--------------------------
+<a href="../../../author/yan_kang-tai"><b>Yan</b>&nbsp;Kang-Tai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_lingzhi"><b>Li</b>&nbsp;Lingzhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/bazarov_dilshod"><b>Bazarov</b>&nbsp;Dilshod</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_boyu"><b>Deng</b>&nbsp;Boyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109668
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yan_kang-tai"><b>Yan</b> Kang-Tai</a>
-,     <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> <a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bazarov_dilshod"><b>Bazarov</b> Dilshod</a>
-,     <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a> <a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109668
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#engineered`](keyword/engineered)
-    [`#lc3`](keyword/lc3)
-    [`#print`](keyword/print)
-    [`#size`](keyword/size)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anisotropic%20Size-Effect%20of%203D%20Printed%20LC3-Based%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194029305&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4398147669" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109668" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109668?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the critical factors affecting the development of 3D concrete printing (3DCP) is the challenging issue of in-situ reinforcement. Engineered Cementitious Composites (ECC) are printable self-reinforced materials, and their application in 3DCP technology can facilitate de-steelisation. However, traditional ECC materials pose certain concerns for sustainable environmental development. The integration of Limestone Calcined Clay Cement (LC3) suitable for 3DCP into ECC (LC3-ECC) presents an ideal solution to the aforementioned challenges. Moreover, conducting comprehensive research into its size effects is an essential step from experimentation to engineering application. A thorough exploration of the size effects of 3D printed LC3-ECC in compression, shear, and flexural fracture aspects is conducted to derive size effect laws. The relationship between the anisotropic mechanical properties and size effects has been established. The mold-cast LC3-ECC precisely follows the Bažant size effect law (SEL). The fiber orientation effect enhances bridging efficiency, leading to the fact that the mechanical properties of certain printed LC3-ECC are hardly affected by the size effect. The mechanical performance of some printed LC3-ECC depends on interlayer strength, making its primary reason for size effect not in the Fracture Process Zone (FPZ) energy release, hence closer to the Multifractal Scaling Law (MFSL). LC3-ECC exhibits weak anisotropy in mechanical properties, showing satisfactory stability. However, under flexural fracture behavior, the anisotropic size effect is higher, necessitating careful consideration in structural design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
@@ -90,8 +65,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
@@ -101,4 +76,33 @@ tags:
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/junjie_zhang"><b>Junjie</b> Zhang</a>, <a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI/">Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/zhou_boyang"><b>Zhou</b> Boyang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC/">A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yan_li_ye_baza.2024.ASEo3PLBECC,
+      author            = "Kang-Tai Yan and Lingzhi Li and Junhong Ye and Dilshod Bazarov and Boyu Deng and Kequan Yu",
+      title             = "Anisotropic Size-Effect of 3D Printed LC3-Based Engineered Cementitious Composites",
+      doi               = "10.1016/j.jobe.2024.109668",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109668",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-T. Yan, L. Li, J. Ye, D. Bazarov, B. Deng and K. Yu, “Anisotropic Size-Effect of 3D Printed LC3-Based Engineered Cementitious Composites”, <i>Journal of Building Engineering</i>, p. 109668, 2024, doi: 10.1016/j.jobe.2024.109668.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yan, Kang-Tai, Lingzhi Li, Junhong Ye, Dilshod Bazarov, Boyu Deng, and Kequan Yu. “Anisotropic Size-Effect of 3D Printed LC3-Based Engineered Cementitious Composites”. <i>Journal of Building Engineering</i>, 2024, 109668. https://doi.org/10.1016/j.jobe.2024.109668.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Uday Boddepalli, Biranchi Panda, Indu Gandhi
+    - footer
+title: Boddepalli Uday, Panda Biranchi, Gandhi Indu
 description:
 tags:
  - base
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology and Printability of Portland-Cement-Based Materials:<br/>:aca-blank: A Review ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1080/21650373.2022.2119620" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2022.2119620</a>
+#Rheology and Printability of Portland-Cement-Based Materials&nbsp;([2022-09](date/2022/09))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2022.2119620" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2022.2119620" target="_blank">10.1080/21650373.2022.2119620</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boddepalli_uday"><b>Boddepalli</b>&nbsp;Uday</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3530-8609" title="ORCID: 0000-0002-3530-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b>&nbsp;Indu</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> <a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="https://orcid.org/0000-0002-3530-8609" title="ORCID: 0000-0002-3530-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-19
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Printability%20of%20Portland-Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138251888&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296209536" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2022.2119620" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2022.2119620?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing (3DCP) is one of the digital construction techniques that demands the fulfilment of particular material properties. One of the most important requirements for 3DCP is the material’s rheology. This article provides a comprehensive analysis of the rheology of Portland cement-based materials used in extrusion-based 3DCP. The first sections of the article focused on the influence of mix design on the rheology required for 3DCP in both fibre reinforced and non-fibre reinforced mixtures, followed by the role of various chemical admixtures in tailoring the time dependent rheology. The research points out the lack of rheology benchmarking, implying a strong need for novel or standard printable mix designs that use sustainable materials to improve the structural build-up of mixtures. The review also shows a strong need for active rheology control of cementitious materials for large scale printing application.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "125 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -136,7 +118,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_tan.2019.RBoHVFAMCMSfDCA/">Rheological Behavior of High-Volume Fly-Ash Mixtures Containing Micro-Silica for Digital Construction Application</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../pand_tay_paul_tan.2018.CCaFPo3CP/">Current Challenges and Future Potential of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../pand_tran.2022.MDAMaPoCBM/">Material-Design, Additive Manufacturing, and Performance of Cement-Based Materials</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../pand_unlu_tan.2019.EaRCoGNUi3P/">Extrusion and Rheology Characterization of Geopolymer Nanocomposites Used in 3D Printing</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
@@ -189,8 +170,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/atalay_berrin"><b>Atalay</b> Berrin</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_atal.2025.PaBaAfSaHP3PC/">Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete</a></li>
@@ -216,4 +197,33 @@ tags:
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bodd_gand_pand.2023.SoTDPFCaFoSC/">Stability of Three-Dimensional Printable Foam-Concrete as Function of Surfactant Characteristics</a></li>
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../srin_dey_pand_sith.2022.PTaCSPoCM/">Printability, Thermal and Compressive Strength Properties of Cementitious Materials:<br/>A Comparative Study with Silica-Fume and Limestone</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bodd_pand_gand.2022.RaPoPCBM,
+      author            = "Uday Boddepalli and Biranchi Narayan Panda and Indu Siva Ranjani Gandhi",
+      title             = "Rheology and Printability of Portland-Cement-Based Materials: A Review",
+      doi               = "10.1080/21650373.2022.2119620",
+      year              = "2022",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--19",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Boddepalli, B. N. Panda and I. S. R. Gandhi, “Rheology and Printability of Portland-Cement-Based Materials: A Review”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–19, 2022, doi: 10.1080/21650373.2022.2119620.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Boddepalli, Uday, Biranchi Narayan Panda, and Indu Siva Ranjani Gandhi. “Rheology and Printability of Portland-Cement-Based Materials: A Review”. <i>Journal of Sustainable Cement-Based Materials</i>, 2022, 1–19. https://doi.org/10.1080/21650373.2022.2119620.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

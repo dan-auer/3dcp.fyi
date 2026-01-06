@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Boris Blagojevic, Benjamin Schonemann, David Nigl, Lucio Blandini, Oliver Sawodny
+    - footer
+title: Blagojevic Boris, Schonemann Benjamin, Nigl David, Blandini Lucio, Sawodny Oliver
 description:
 tags:
  - concrete
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Trajectory-Planning for Concrete Element Fabrication with Optimal Control ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1109/iecon48115.2021.9589695" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/iecon48115.2021.9589695</a>
+#Trajectory-Planning for Concrete Element Fabrication with Optimal Control ([2021-10](date/2021/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/iecon48115.2021.9589695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iecon48115.2021.9589695" target="_blank">10.1109/iecon48115.2021.9589695</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2637-6527" title="ORCID: 0000-0003-2637-6527" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blagojevic_boris"><b>Blagojevic</b>&nbsp;Boris</a></span>, <a href="../../../author/schonemann_benjamin"><b>Schonemann</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3501-1861" title="ORCID: 0000-0003-3501-1861" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nigl_david"><b>Nigl</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blandini_lucio"><b>Blandini</b>&nbsp;Lucio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sawodny_oliver"><b>Sawodny</b>&nbsp;Oliver</a></span><br>
+Contribution - Proceedings of the 47th Annual Conference of the IEEE Industrial Electronics Society, pp. 1-6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/blagojevic_boris"><b>Blagojevic</b> Boris</a> <a href="https://orcid.org/0000-0003-2637-6527" title="ORCID: 0000-0003-2637-6527" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schonemann_benjamin"><b>Schonemann</b> Benjamin</a>
-,     <a href="../../../author/nigl_david"><b>Nigl</b> David</a> <a href="https://orcid.org/0000-0003-3501-1861" title="ORCID: 0000-0003-3501-1861" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> <a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sawodny_oliver"><b>Sawodny</b> Oliver</a> <a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 47th Annual Conference of the IEEE Industrial Electronics Society, pp. 1-6
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#element`](keyword/element)
-    [`#fabrication`](keyword/fabrication)
-    [`#optimization`](keyword/optimization)
-    [`#trajectory`](keyword/trajectory)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/trajectory"><button class="btn">#trajectory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Trajectory-Planning%20for%20Concrete%20Element%20Fabrication%20with%20Optimal%20Control" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119519556&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,25 +36,50 @@ tags:
 <a href="https://inciteful.xyz/p/W3213111945" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/iecon48115.2021.9589695" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/iecon48115.2021.9589695?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Functionally graded concrete (FGC) is a novel technology in the building industry, allowing for savings of up to 50% mass in standard concrete elements like slabs and beams. This is achieved by cavities in the elements interior, which are generated by placing mineral hollow spheres inside the formwork before casting. The concrete is then casted with a conveying system (CS), consisting of a pump and an extrusion unit, mounted on a manipulator. An important challenge for automation is trajectory generation for the CS and the manipulator, which accounts for physical system restrictions and the fabrication process. In this paper, the problem is described for the case of rectangular elements with hollow spheres in a simple cubic pattern. As buoyancy forces would lead to floating hollow spheres in a one-shot production, suitable layer heights are calculated by an optimization problem in a first step. Then, a boustrophedon path is planned, which neatly covers the element while avoiding the spheres. Using the element configuration, the volume demand along the path can be calculated, which serves as a cost function. This allows the formulation of an optimal control problem, which is solved with multiple shooting, in order to obtain the input trajectories.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_lim_moha_paul.2017.AoRCPUFCS/">Automation of Robotic Concrete Printing Using Feedback-Control-System</a></li>
       <li><a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a>, <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../schm_sobe.2018.G/">Gradientenbeton</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/blagojevic_boris"><b>Blagojevic</b> Boris</a>, <a href="../../../author/gienger_andreas"><b>Gienger</b> Andreas</a>, <a href="../../../author/nigl_david"><b>Nigl</b> David</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../blag_gien_nigl_blan.2023.MFCaCTGfaCCS/">Modeling, Feedforward-Control, and Constrained Trajectory-Generation for a Concrete-Conveyance-System</a></li>
       <li><a href="../../../author/blagojevic_boris"><b>Blagojevic</b> Boris</a>, <a href="../../../author/sawodny_oliver"><b>Sawodny</b> Oliver</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../blag_sawo.2023.PPfGCEF/">Path-Planning for Graded Concrete Element Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{blag_scho_nigl_blan.2021.TPfCEFwOC,
+      author            = "Boris Blagojevic and Benjamin Schonemann and David Nigl and Lucio Blandini and Oliver Sawodny",
+      title             = "Trajectory-Planning for Concrete Element Fabrication with Optimal Control",
+      doi               = "10.1109/iecon48115.2021.9589695",
+      year              = "2021",
+      pages             = "1--6",
+      booktitle         = "Proceedings of the 47th Annual Conference of the IEEE Industrial Electronics Society",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Blagojevic, B. Schonemann, D. Nigl, L. Blandini and O. Sawodny, “Trajectory-Planning for Concrete Element Fabrication with Optimal Control”, in <i>Proceedings of the 47th Annual Conference of the IEEE Industrial Electronics Society</i>,  2021, pp. 1–6. doi: 10.1109/iecon48115.2021.9589695.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Blagojevic, Boris, Benjamin Schonemann, David Nigl, Lucio Blandini, and Oliver Sawodny. “Trajectory-Planning for Concrete Element Fabrication with Optimal Control”. In <i>Proceedings of the 47th Annual Conference of the IEEE Industrial Electronics Society</i>, 1–6, 2021. https://doi.org/10.1109/iecon48115.2021.9589695.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

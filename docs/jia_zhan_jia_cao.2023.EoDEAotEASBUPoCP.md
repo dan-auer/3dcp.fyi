@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zijian Jia, Zedi Zhang, Lutao Jia, Ruilin Cao, Cheng Yu, Jinyao Yu, Yueyi Gao, Yamei Zhang
+    - footer
+title: Jia Zijian, Zhang Zedi, Jia Lutao, Cao Ruilin, Yu Cheng, Yu Jinyao, Gao Yueyi, Zhang Yamei
 description:
 tags:
  - age
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Different Expansive Agents on the Early-Age Structural Build-Up Process of Cement-Paste ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105282" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105282</a>
+#Effect of Different Expansive Agents on the Early-Age Structural Build-Up Process of Cement-Paste ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.105282" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105282" target="_blank">10.1016/j.cemconcomp.2023.105282</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/cao_ruilin"><b>Cao</b>&nbsp;Ruilin</a></span>, <a href="../../../author/yu_cheng"><b>Yu</b>&nbsp;Cheng</a></span>, <a href="../../../author/yu_jinyao"><b>Yu</b>&nbsp;Jinyao</a></span>, <a href="../../../author/gao_yueyi"><b>Gao</b>&nbsp;Yueyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 144, No. 105282
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>
-,     <a href="../../../author/yu_cheng"><b>Yu</b> Cheng</a>
-,     <a href="../../../author/yu_jinyao"><b>Yu</b> Jinyao</a>
-,     <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 144, No. 105282
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#agent`](keyword/agent)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#difference`](keyword/difference)
-    [`#early`](keyword/early)
-    [`#effect`](keyword/effect)
-    [`#expansion`](keyword/expansion)
-    [`#paste`](keyword/paste)
-    [`#process`](keyword/process)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Different%20Expansive%20Agents%20on%20the%20Early-Age%20Structural%20Build-Up%20Process%20of%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170411768&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386566179" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105282" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105282?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent advances in additive manufacturing have enabled the design and fabrication of auxetic materials with programmable geometries and tailorable properties, but ongoing challenges remain in integrating them for composite design. In this work, we exploit a composite design strategy on cementitious material units embedded with three-dimensional re-entrant (3DR) lattices fabricated by single and dual material printing. Guided by experimental tests, the effect of additive manufacturing parameters on the mechanical properties of rigid and flexible 3DR lattices is confirmed. Then, we characterize the compressive behavior of lattice-reinforced cementitious composite (LRCC) units embedded with 3DR lattices printed using rigid, flexible, and dual materials with various spatial distributions. We found comparable ultimate strengths and higher energy-absorbing capabilities despite weaker 3D-printed materials embedded in LRCC units. A similar observation was found on LRCC columns with various geometric patterns. We envision that our proposed composite design strategy can produce next-generation low-carbon material systems with high performance and production efficiency toward a sustainable built environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a></li>
@@ -100,12 +71,42 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/aman_mohammed_abdulkerim"><b>Aman</b> Abdulkerim</a>, <a href="../../../author/yang_zhe"><b>Yang</b> Zhe</a>, <a href="../../../author/xin_yubo"><b>Xin</b> Yubo</a>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b> Xiaoman</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../aman_yang_xin_zhan.2025.IMOi3PCtMDS/">Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xia_chen_zhan_wang.2025.ISCNSRABTfMPSi3PC/">In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete</a></li>
       <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jia_niu_dong_jian.2024.OSfIRBPi3PCbBLCFaEP/">Optimization-Strategy for Incorporating Recycled Brick-Powder in 3D Printed Concrete by Balancing Low-Carbon Footprint and Enhanced Performance</a></li>
       <li><a href="../../../author/wei_ying"><b>Wei</b> Ying</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wei_han_yu_chen.2024.PIo3CPfStMLS/">Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jia_zhan_jia_cao.2023.EoDEAotEASBUPoCP,
+      author            = "Zijian Jia and Zedi Zhang and Lutao Jia and Ruilin Cao and Cheng Yu and Jinyao Yu and Yueyi Gao and Yamei Zhang",
+      title             = "Effect of Different Expansive Agents on the Early-Age Structural Build-Up Process of Cement-Paste",
+      doi               = "10.1016/j.cemconcomp.2023.105282",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "144",
+      pages             = "105282",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Jia, “Effect of Different Expansive Agents on the Early-Age Structural Build-Up Process of Cement-Paste”, <i>Cement and Concrete Composites</i>, vol. 144, p. 105282, 2023, doi: 10.1016/j.cemconcomp.2023.105282.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jia, Zijian, Zedi Zhang, Lutao Jia, Ruilin Cao, Cheng Yu, Jinyao Yu, Yueyi Gao, and Yamei Zhang. “Effect of Different Expansive Agents on the Early-Age Structural Build-Up Process of Cement-Paste”. <i>Cement and Concrete Composites</i> 144 (2023): 105282. https://doi.org/10.1016/j.cemconcomp.2023.105282.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

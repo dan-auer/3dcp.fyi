@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Priyanka Panchal, Myoungsung Choi
+    - footer
+title: Panchal Priyanka, Choi Myoungsung
 description:
 tags:
  - co2
@@ -19,33 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.jobe.2025.113562" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113562</a>
+#A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113562" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113562" target="_blank">10.1016/j.jobe.2025.113562</a>
 
--------------------------
+<a href="../../../author/panchal_priyanka"><b>Panchal</b>&nbsp;Priyanka</a></span>, <a href="../../../author/choi_myoungsung"><b>Choi</b>&nbsp;Myoungsung</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113562
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/panchal_priyanka"><b>Panchal</b> Priyanka</a>
-,     <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113562
-
-:aca-blank:{ .lg .middle}
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#engineered`](keyword/engineered)
-    [`#enhancement`](keyword/enhancement)
-    [`#fiber`](keyword/fiber)
-    [`#footprint`](keyword/footprint)
-    [`#natural`](keyword/natural)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%20Effect%20of%20Natural%20Fibers%20to%20Mitigate%20CO2%20Footprint%20and%20Enhance%20Engineering%20Properties%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011503770&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412701768" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113562" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113562?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete (3DPC) technology holds considerable promise that can revolutionize construction practices offering numerous advantages such as material efficiency, formwork elimination, time efficiency, and sustainability. This review investigates the effect of natural fibers specifically hemp, jute, kenaf, rice husk, and bamboo on enhancing the mechanical performance and sustainability of 3D-printing (3DP). The primary objective is to evaluate the fiber influence on mechanical strengths, durability and CO2 emission reduction. An analysis of peer-review literature was conducted, focusing on effect of chemical treatment on fibers influencing mechanical properties and sustainability aspects. This review categorizes parameters affecting 3DP into three realms : material-related, system-related, economic and environmental factors. Finding suggested that merging natural fibers can significantly improve structural performance while promoting sustainable construction. Natural fibers contribute to reducing binder usage and low CO2 footprints, especially when combined with design strategies. These findings are based on comparative analysis across studies, highlighting the importance of material optimization for sustainable construction. Future research should focus on challenges associated using natural fibers, material optimization, treatment methods and mix design to fully leverage performance and sustainability benefits in large-scale 3D-printed construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "68 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -140,8 +117,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{panc_choi.2025.ARoEoNFtMCFaEEPo3PC,
+      author            = "Priyanka Panchal and Myoungsung Choi",
+      title             = "A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete",
+      doi               = "10.1016/j.jobe.2025.113562",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113562",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Panchal  and M. Choi, “A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete”, <i>Journal of Building Engineering</i>, p. 113562, 2025, doi: 10.1016/j.jobe.2025.113562.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Panchal, Priyanka, and Myoungsung Choi. “A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete”. <i>Journal of Building Engineering</i>, 2025, 113562. https://doi.org/10.1016/j.jobe.2025.113562.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

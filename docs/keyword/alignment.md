@@ -8,7 +8,8 @@ search:
 
 # #alignment
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../iqba_besk_kasi.2025.AFf3CPTiAwC50C/">Assessment Framework for 3D Concrete Printing Technology in Alignment with Construction 5.0 Criteria</a></li>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../dong_jia_jia_rao.2024.MFAi3PUHPCBoST/">Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manuel Jesus, João Teixeira, Ana Guimarães, Bárbara Rangel, Jorge Alves
+    - footer
+title: Jesus Manuel, Teixeira João, Guimarães Ana, Rangel Bárbara, Alves Jorge
 description:
 tags:
  - base
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.daach.2025.e00412) From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.daach.2025.e00412" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.daach.2025.e00412</a>
+#From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.daach.2025.e00412) <a href="https://doi.org/10.1016/j.daach.2025.e00412" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.daach.2025.e00412" target="_blank">10.1016/j.daach.2025.e00412</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span><br>
+Journal Article - Digital Applications in Archaeology and Cultural Heritage, No. e00412
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> <a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> <a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Digital Applications in Archaeology and Cultural Heritage, No. e00412
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#data`](keyword/data)
-    [`#lime`](keyword/lime)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#prototype`](keyword/prototype)
-    [`#survey`](keyword/survey)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/lime"><button class="btn">#lime</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/survey"><button class="btn">#survey</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%203D%20Survey%20Data%20of%20Cultural%20Heritage%20Artifacts%20to%203D%20Printed%20Prototypes%20Based%20on%20Cement%20and%20Lime-Based%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004173475&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409528465" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.daach.2025.e00412" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.daach.2025.e00412?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The preservation of historic structures and artefacts has evolved with new technologies, and reverse engineering emerges as a pivotal tool for capturing their geometry and intricate details, enabling their replication and restoration through additive manufacturing techniques. This article delves into the application of digital technologies in the rehabilitation of cultural heritage artefacts, using 3D survey technologies for data acquisition of the building element, 3D modelling and liquid deposition modelling for the fabrication of the prototype. The methodology and challenges encountered during the scanning phase, the digital modelling preparation, and the 3D Printing trials are described, offering insights into the technical processes involved and paving the way for further advancements in this field.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/dias_duarte_bruno"><b>Dias</b> Bruno</a>, <a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../dias_roch_fari_luca.2023.LwHPf3PM/">Limes with Hydraulic Properties for 3D Printing Mortars</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../jesu_guim_rang_alve.2023.TPo3PiBP/">The Potential of 3D Printing in Building Pathology:<br/>Rehabilitation of Cultural Heritage</a></li>
@@ -79,8 +56,37 @@ tags:
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../teix_scha_maia_rang.2022.IoSCMoFPo3PM/">Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jesu_teix_guim_rang.2025.F3SDoCHAt3PPBoCaLBM,
+      author            = "Manuel Jesus and João Teixeira and Ana Sofia Guimarães and Bárbara Rangel and Jorge Lino Alves",
+      title             = "From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars",
+      doi               = "10.1016/j.daach.2025.e00412",
+      year              = "2025",
+      journal           = "Digital Applications in Archaeology and Cultural Heritage",
+      pages             = "e00412",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Jesus, J. Teixeira, A. S. Guimarães, B. Rangel and J. L. Alves, “From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars”, <i>Digital Applications in Archaeology and Cultural Heritage</i>, p. e00412, 2025, doi: 10.1016/j.daach.2025.e00412.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jesus, Manuel, João Teixeira, Ana Sofia Guimarães, Bárbara Rangel, and Jorge Lino Alves. “From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars”. <i>Digital Applications in Archaeology and Cultural Heritage</i>, 2025, e00412. https://doi.org/10.1016/j.daach.2025.e00412.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

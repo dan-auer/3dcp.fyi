@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robert Guamán-Rivera, Alejandro Martínez-Rocamora, Rodrigo García-Alvarado, Claudia Muñoz-Sanguinetti, Luis González-Böhme, Fernando Cheein
+    - footer
+title: Guamán-Rivera Robert, Martínez-Rocamora Alejandro, García-Alvarado Rodrigo, Muñoz-Sanguinetti Claudia, González-Böhme Luis, Cheein Fernando
 description:
 tags:
  - challenge
@@ -13,31 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/2/229/pdf?version=1645173100) Recent Developments and Challenges of 3D Printed Construction:<br/>:aca-blank: A Review of Research Fronts ([2022-02](date/2022/02))
-<a href="https://doi.org/10.3390/buildings12020229" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12020229</a>
+#Recent Developments and Challenges of 3D Printed Construction&nbsp;([2022-02](date/2022/02))
+<div class="h1-like">A Review of Research Fronts</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/2/229/pdf?version=1645173100) <a href="https://doi.org/10.3390/buildings12020229" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12020229" target="_blank">10.3390/buildings12020229</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1387-0315" title="ORCID: 0000-0003-1387-0315" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2874-0081" title="ORCID: 0000-0002-2874-0081" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b>&nbsp;Alejandro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4859-478X" title="ORCID: 0000-0002-4859-478X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b>&nbsp;Claudia</a></span>, <a href="../../../author/gonzalez-bohme_felipe_luis"><b>González-Böhme</b>&nbsp;Luis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6347-7696" title="ORCID: 0000-0002-6347-7696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheein_auat_fernando"><b>Cheein</b>&nbsp;Fernando</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a> <a href="https://orcid.org/0000-0003-1387-0315" title="ORCID: 0000-0003-1387-0315" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a> <a href="https://orcid.org/0000-0002-2874-0081" title="ORCID: 0000-0002-2874-0081" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>
-,     <a href="../../../author/gonzalez-bohme_felipe_luis"><b>González-Böhme</b> Luis</a>
-,     <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="https://orcid.org/0000-0002-6347-7696" title="ORCID: 0000-0002-6347-7696" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recent%20Developments%20and%20Challenges%20of%203D%20Printed%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125084310&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213171749" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12020229" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12020229?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the last few years, scattered experiences of the application of additive manufacturing in the construction of buildings using 3D printing with robots or automated equipment have emerged around the world. These use a variety of procedures and suggest relevant advantages for the construction industry. In order to identify the different processes and features in development in this field and to guide future research and applications, this article presents a review of the literature on the main aspects involved in the use of 3D printing in the construction sector. The review includes state-of-the-art material mixtures, printing technologies, and potential uses, as well as a novel analysis of building strategies, management systems, and benefits stated about this new approach for construction. It reveals progressive experimentation regarding diverse features, with challenges related to the consolidation of procedures and this technology’s readiness to participate in the building market.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "113 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
@@ -157,7 +137,6 @@ tags:
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../sakk_hamz.2017.3CPitSoLC/">3D Concrete Printing in the Service of Lean Construction</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
-      <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
@@ -178,8 +157,8 @@ tags:
       <li><a href="../../../author/yin_hongxi"><b>Yin</b> Hongxi</a>, <a href="../../../author/qu_ming"><b>Qu</b> Ming</a>, <a href="../../../author/zhang_haiyan"><b>Zhang</b> Haiyan</a>, <a href="../../../author/lim_yechan"><b>Lim</b> YeChan</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../yin_qu_zhan_lim.2018.3PaB/">3D Printing and Buildings:<br/>A Technology Review and Future Outlook</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
@@ -210,4 +189,34 @@ tags:
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
       <li><a href="../../../author/gran_erik"><b>Gran</b> Erik</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../gran_madr_orte_teno.2023.CSaLRoIoLMa3PiCtSS/">Conceptual Study and Literature Review of Integration of Lean Manufacturing and 3D Printing in Construction to Support Sustainability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{guam_mart_garc_muno.2022.RDaCo3PC,
+      author            = "Robert Guamán-Rivera and Alejandro Martínez-Rocamora and Rodrigo García-Alvarado and Claudia Muñoz-Sanguinetti and Luis Felipe González-Böhme and Fernando Auat Cheein",
+      title             = "Recent Developments and Challenges of 3D Printed Construction: A Review of Research Fronts",
+      doi               = "10.3390/buildings12020229",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Guamán-Rivera, A. Martínez-Rocamora, R. García-Alvarado, C. Muñoz-Sanguinetti, L. F. González-Böhme and F. A. Cheein, “Recent Developments and Challenges of 3D Printed Construction: A Review of Research Fronts”, <i>Buildings</i>, vol. 12, no. 2, 2022, doi: 10.3390/buildings12020229.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Guamán-Rivera, Robert, Alejandro Martínez-Rocamora, Rodrigo García-Alvarado, Claudia Muñoz-Sanguinetti, Luis Felipe González-Böhme, and Fernando Auat Cheein. “Recent Developments and Challenges of 3D Printed Construction: A Review of Research Fronts”. <i>Buildings</i> 12, no. 2 (2022). https://doi.org/10.3390/buildings12020229.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

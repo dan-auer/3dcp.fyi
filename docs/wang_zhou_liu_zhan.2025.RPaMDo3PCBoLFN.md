@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guihua Wang, Jiguo Zhou, Haoyun Liu, Jianming Zhang
+    - footer
+title: Wang Guihua, Zhou Jiguo, Liu Haoyun, Zhang Jianming
 description:
 tags:
  - base
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141646" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141646</a>
+#Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141646" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141646" target="_blank">10.1016/j.conbuildmat.2025.141646</a>
 
--------------------------
+<a href="../../../author/wang_guihua"><b>Wang</b>&nbsp;Guihua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4869-0090" title="ORCID: 0000-0003-4869-0090" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_jiguo"><b>Zhou</b>&nbsp;Jiguo</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-8692-7643" title="ORCID: 0009-0009-8692-7643" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_haoyun"><b>Liu</b>&nbsp;Haoyun</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-0535-0179" title="ORCID: 0009-0001-0535-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_jianming"><b>Zhang</b>&nbsp;Jianming</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 482, No. 141646
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_guihua"><b>Wang</b> Guihua</a>
-,     <a href="../../../author/zhou_jiguo"><b>Zhou</b> Jiguo</a> <a href="https://orcid.org/0000-0003-4869-0090" title="ORCID: 0000-0003-4869-0090" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_haoyun"><b>Liu</b> Haoyun</a> <a href="https://orcid.org/0009-0009-8692-7643" title="ORCID: 0009-0009-8692-7643" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_jianming"><b>Zhang</b> Jianming</a> <a href="https://orcid.org/0009-0001-0535-0179" title="ORCID: 0009-0001-0535-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 482, No. 141646
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#field`](keyword/field)
-    [`#low`](keyword/low)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Properties%20and%20Mechanical%20Durability%20of%203D-Printed%20Concrete%20Based%20on%20Low-Field%20NMR" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004317598&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410216937" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141646" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141646?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed concrete has been widely used in building structures. It is essential to study the influence reasons of rheological properties during stirring process and mechanical durability for 3D printed concrete during salt-frozen environments. The rheological properties, mechanical durability and porosity properties of basalt fiber-reinforced 3D-printed materials under salt freeze-thaw cycles are analyzed in this work. The moisture changes during the process of stirring and microscopic porosity characteristics inside structure were investigated by using low-field nuclear magnetic test technology. Pore distribution characteristics are studied based on fractal theory, and the prediction model of rheological properties, mechanical properties were both prosed based on T2 spectrum signal. Results show moisture change reflect the rheological properties of cement paste during stirring, the pore distribution presents a process of increasing dimension inside structure under salt freeze-thaw, and a 0.1 %—0.3 % volume content of basalt fiber can be helpful to improve the mechanical durability. The developed strength prediction model based on the fractal dimension coefficients and pore proportion weights of different pore components exhibit high fitting accuracy and strong interpretability, which can effectively predict the compressive and flexural strengths of 3D-printed concrete under salt–frozen conditions. This study will promote the 3D printed concrete applied in salt freezing-thawing environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
@@ -98,9 +75,39 @@ tags:
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN,
+      author            = "Guihua Wang and Jiguo Zhou and Haoyun Liu and Jianming Zhang",
+      title             = "Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR",
+      doi               = "10.1016/j.conbuildmat.2025.141646",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "482",
+      pages             = "141646",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Wang, J. Zhou, H. Liu and J. Zhang, “Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR”, <i>Construction and Building Materials</i>, vol. 482, p. 141646, 2025, doi: 10.1016/j.conbuildmat.2025.141646.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Guihua, Jiguo Zhou, Haoyun Liu, and Jianming Zhang. “Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR”. <i>Construction and Building Materials</i> 482 (2025): 141646. https://doi.org/10.1016/j.conbuildmat.2025.141646.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

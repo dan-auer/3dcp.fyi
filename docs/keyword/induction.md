@@ -8,7 +8,7 @@ search:
 
 # #induction
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
   <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>
   <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhao_jian_xia_hou.2025.MICPEoTSaEASo3PC/">Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete</a></li>

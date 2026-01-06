@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Liuhua Yang, Yang Gao, Hui Chen, Huazhe Jiao, Mengmeng Dong, Thomas Bier, Mintae Kim
+    - footer
+title: Yang Liuhua, Gao Yang, Chen Hui, Jiao Huazhe, Dong Mengmeng, Bier Thomas, Kim Mintae
 description:
 tags:
  - concrete
@@ -13,32 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Concrete Technology from a Rheology Perspective:<br/>:aca-blank: A Review ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1680/jadcr.23.00205" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jadcr.23.00205</a>
+#3D Printing Concrete Technology from a Rheology Perspective&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jadcr.23.00205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jadcr.23.00205" target="_blank">10.1680/jadcr.23.00205</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7642-9629" title="ORCID: 0000-0001-7642-9629" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_liuhua"><b>Yang</b>&nbsp;Liuhua</a></span>, <a href="../../../author/gao_yang"><b>Gao</b>&nbsp;Yang</a></span>, <a href="../../../author/chen_hui"><b>Chen</b>&nbsp;Hui</a></span>, <a href="../../../author/jiao_huazhe"><b>Jiao</b>&nbsp;Huazhe</a></span>, <a href="../../../author/dong_mengmeng"><b>Dong</b>&nbsp;Mengmeng</a></span>, <a href="../../../author/bier_a_thomas"><b>Bier</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3346-1746" title="ORCID: 0000-0003-3346-1746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_mintae"><b>Kim</b>&nbsp;Mintae</a></span><br>
+Journal Article - Advances in Cement Research, pp. 1-1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a> <a href="https://orcid.org/0000-0001-7642-9629" title="ORCID: 0000-0001-7642-9629" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_yang"><b>Gao</b> Yang</a>
-,     <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>
-,     <a href="../../../author/jiao_huazhe"><b>Jiao</b> Huazhe</a>
-,     <a href="../../../author/dong_mengmeng"><b>Dong</b> Mengmeng</a>
-,     <a href="../../../author/bier_a_thomas"><b>Bier</b> Thomas</a>
-,     <a href="../../../author/kim_mintae"><b>Kim</b> Mintae</a> <a href="https://orcid.org/0000-0003-3346-1746" title="ORCID: 0000-0003-3346-1746" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Cement Research, pp. 1-1
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Concrete%20Technology%20from%20a%20Rheology%20Perspective" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191538128&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394983098" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jadcr.23.00205" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jadcr.23.00205?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The flow and deformation of cement-based materials accompanies the full cycle of 3DPC technology and profoundly affects the quality of printed structures. Therefore, rheology is closely related to this technology. However, since printing materials undergo complex changes (from fluid to solid) during the entire technical process, it is extremely difficult to accurately obtain the rheological parameters of the material, which makes it difficult to characterize the material properties and explore the rheological laws within the technical cycle. In this regard, this article starts from the perspective of rheology, systematically reviews the performance requirements of 3DPC technology for printing materials, critically discusses the existing methods for characterization of material printability, including various conventional and unconventional methods, and clarifies the scope of application of each method. In addition, this article introduces several buildability models based on considering material time dependence, pointing out the direction for the performance optimization of printing materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "77 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -142,8 +121,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
@@ -151,4 +130,33 @@ tags:
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
       <li><a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b> Kantawich</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pethrung_sirichai"><b>Pethrung</b> Sirichai</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../suph_pras_peth_pans.2025.FPEo3PCW/">Fire Performance Evaluation of 3D-Printed Concrete Walls:<br/>A Combined Full-Scale and Numerical Modeling Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_gao_chen_jiao.2024.3PCTfaRP,
+      author            = "Liuhua Yang and Yang Gao and Hui Chen and Huazhe Jiao and Mengmeng Dong and Thomas A. Bier and Mintae Kim",
+      title             = "3D Printing Concrete Technology from a Rheology Perspective: A Review",
+      doi               = "10.1680/jadcr.23.00205",
+      year              = "2024",
+      journal           = "Advances in Cement Research",
+      pages             = "1--1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Yang, “3D Printing Concrete Technology from a Rheology Perspective: A Review”, <i>Advances in Cement Research</i>, pp. 1–1, 2024, doi: 10.1680/jadcr.23.00205.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Liuhua, Yang Gao, Hui Chen, Huazhe Jiao, Mengmeng Dong, Thomas A. Bier, and Mintae Kim. “3D Printing Concrete Technology from a Rheology Perspective: A Review”. <i>Advances in Cement Research</i>, 2024, 1–1. https://doi.org/10.1680/jadcr.23.00205.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

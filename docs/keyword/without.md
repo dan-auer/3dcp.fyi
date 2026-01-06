@@ -8,7 +8,7 @@ search:
 
 # #without
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
   <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
   <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS/">Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States</a></li>

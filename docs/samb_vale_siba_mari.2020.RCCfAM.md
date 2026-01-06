@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matteo Sambucci, Marco Valente, Abbas Sibai, Danilo Marini, Alessia Quitadamo, Ettore Musacchi
+    - footer
+title: Sambucci Matteo, Valente Marco, Sibai Abbas, Marini Danilo, Quitadamo Alessia, Musacchi Ettore
 description:
 tags:
  - acoustic
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rubber-Cement Composites for Additive Manufacturing:<br/>:aca-blank: Physical, Mechanical and Thermo-Acoustic Characterization ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_12</a>
+#Rubber-Cement Composites for Additive Manufacturing&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">Physical, Mechanical and Thermo-Acoustic Characterization</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_12" target="_blank">10.1007/978-3-030-49916-7_12</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sambucci_matteo"><b>Sambucci</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valente_marco"><b>Valente</b>&nbsp;Marco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0982-970X" title="ORCID: 0000-0002-0982-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibai_abbas"><b>Sibai</b>&nbsp;Abbas</a></span>, <a href="../../../author/marini_danilo"><b>Marini</b>&nbsp;Danilo</a></span>, <a href="../../../author/quitadamo_alessia"><b>Quitadamo</b>&nbsp;Alessia</a></span>, <a href="../../../author/musacchi_ettore"><b>Musacchi</b>&nbsp;Ettore</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 113-124
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a> <a href="https://orcid.org/0000-0002-0982-970X" title="ORCID: 0000-0002-0982-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marini_danilo"><b>Marini</b> Danilo</a>
-,     <a href="../../../author/quitadamo_alessia"><b>Quitadamo</b> Alessia</a>
-,     <a href="../../../author/musacchi_ettore"><b>Musacchi</b> Ettore</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 113-124
-
-:aca-blank:{ .lg .middle}
-    [`#acoustic`](keyword/acoustic)
-    [`#additive`](keyword/additive)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mechanics`](keyword/mechanics)
-    [`#physics`](keyword/physics)
-    [`#rubber`](keyword/rubber)
-
-
--------------------------
+<a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rubber-Cement%20Composites%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088241518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,22 +40,18 @@ tags:
 <a href="https://inciteful.xyz/p/W3040768777" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_12" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_12?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The purpose of this work is to study the possibility of modifying a 3D printable cement-based mix by adding recycled tire rubber (TR) particles to replace the mineral aggregates. This strategy aims to evaluate the variation of some physical-mechanical properties of the material (lightness, durability, vibration absorption, acoustic and thermal insulation), promoting the disposal of the waste tires and the reduction in the consumption of natural resources. The rubberized mixture, in addition to offering interesting properties in terms of engineering performances (fundamentally important in the construction sector), can be used in additive manufacturing in the production of “bi-functional” applications. “Bi-functionality” refers to the possibility of giving a component, specific properties dependent on both the material properties and morphologicalstructural features. Several printing mixtures, obtained for partial or total replacement of mineral aggregates with two types of rubber fillers (rubber powder and rubber granules), have been developed. After proper printability tests, an extensive experimental campaign was performed on printable rubber-cement composites: physical characterization, morphological analysis, mechanical characterization and evaluation of acoustic and thermal insulation properties. The rubber aggregates preserve optimal rheological properties related to the printability of the mixture. Besides, the synergy between the two types of polymer fillers in the cement matrix results in some interesting physical and mechanical effects: ductility, plastic energy absorption, durability, acoustic damping, and thermal inertia.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>, <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../dey_pand_shuk_rawa.2025.ACAoTPo3PCLW/">A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
@@ -91,4 +67,35 @@ tags:
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../samb_vale.2021.IoWTRPSotMMaAIPo3PCM/">Influence of Waste-Tire-Rubber-Particles-Size on the Microstructural, Mechanical, and Acoustic Insulation Properties of 3D Printable Cement Mortars</a></li>
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/marini_danilo"><b>Marini</b> Danilo</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../samb_mari_siba_vale.2020.PMAoRCCSfAPC/">Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{samb_vale_siba_mari.2020.RCCfAM,
+      author            = "Matteo Sambucci and Marco Valente and Abbas Sibai and Danilo Marini and Alessia Quitadamo and Ettore Musacchi",
+      title             = "Rubber-Cement Composites for Additive Manufacturing: Physical, Mechanical and Thermo-Acoustic Characterization",
+      doi               = "10.1007/978-3-030-49916-7_12",
+      year              = "2020",
+      volume            = "28",
+      pages             = "113--124",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sambucci, M. Valente, A. Sibai, D. Marini, A. Quitadamo and E. Musacchi, “Rubber-Cement Composites for Additive Manufacturing: Physical, Mechanical and Thermo-Acoustic Characterization”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 113–124. doi: 10.1007/978-3-030-49916-7_12.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sambucci, Matteo, Marco Valente, Abbas Sibai, Danilo Marini, Alessia Quitadamo, and Ettore Musacchi. “Rubber-Cement Composites for Additive Manufacturing: Physical, Mechanical and Thermo-Acoustic Characterization”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:113–24, 2020. https://doi.org/10.1007/978-3-030-49916-7_12.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

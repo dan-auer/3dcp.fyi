@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wannapol Sadakorn, Santirak Prasertsuk, Lapyote Prasittisopin
+    - footer
+title: Sadakorn Wannapol, Prasertsuk Santirak, Prasittisopin Lapyote
 description:
 tags:
  - architecture
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1007/s11709-024-1001-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-024-1001-6</a>
+#Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-024-1001-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1001-6" target="_blank">10.1007/s11709-024-1001-6</a>
 
--------------------------
+<a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b>&nbsp;Wannapol</a></span>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b>&nbsp;Santirak</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b>&nbsp;Lapyote</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>
-,     <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>
-,     <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#dimension`](keyword/dimension)
-    [`#efficient`](keyword/efficient)
-    [`#improvement`](keyword/improvement)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#texture`](keyword/texture)
-    [`#three`](keyword/three)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/texture"><button class="btn">#texture</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20the%20Structural%20Efficiency%20of%20Textured%20Three-Dimensional%20Concrete%20Printing%20Wall%20by%20Architectural%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195858203&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399708159" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-024-1001-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-024-1001-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) technology begins to be adopted into construction application worldwide. Recent studies have focused on producing a higher concrete quality and offering a user-friendly construction process. Still, the 3DCP construction cost is unlikely to be lower than that of conventional construction, which is especially important for projects where the cost is sensitive. To broaden the 3DCP construction applications, reduction of the quantity of 3DCP material usage is needed. This work aims to perform structural analysis of several patterns of geometric textured 3DCP shell wall structures. 21 different cantilevered textured patterns of 3DCP shell wall structures were architecturally designed and then subjected to structural analysis by a finite element method (FEM). The results indicated that by designing appropriate patterns, the structural performance to weight ratio could be improved up to 300%. The study therefore offers an innovative design process for constructing 3DCP housing and suggests preconstruction analysis methods for 3DCP shell wall structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
@@ -102,8 +78,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_khai_daha_mash.2025.RoSi3CP/">Review on Sustainability in 3D Concrete Printing:<br/>Focus on Waste Utilization and Life Cycle Assessment</a></li>
@@ -111,4 +87,32 @@ tags:
       <li><a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b> Meryem</a>, <a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yaba_ozer.2025.EAUTR3CPoSFG/">Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sada_pras_pras.2024.ItSEoTTDCPWbAD,
+      author            = "Wannapol Sadakorn and Santirak Prasertsuk and Lapyote Prasittisopin",
+      title             = "Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design",
+      doi               = "10.1007/s11709-024-1001-6",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Sadakorn, S. Prasertsuk and L. Prasittisopin, “Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-024-1001-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sadakorn, Wannapol, Santirak Prasertsuk, and Lapyote Prasittisopin. “Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-024-1001-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

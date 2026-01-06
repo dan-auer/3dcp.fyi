@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaofei Yao, Xin Lyu, Junbo Sun, Bolin Wang, Yufei Wang, Min Yang, Yao Wei, Mohamed Elchalakani, Danqi Li, Xiangyu Wang
+    - footer
+title: Yao Xiaofei, Lyu Xin, Sun Junbo, Wang Bolin, Wang Yufei, Yang Min, Wei Yao, Elchalakani Mohamed, Li Danqi, Wang Xiangyu
 description:
 tags:
  - ai
@@ -18,40 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.130898" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.130898</a>
+#AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.130898" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.130898" target="_blank">10.1016/j.conbuildmat.2023.130898</a>
 
--------------------------
+<a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span>, <a href="../../../author/lyu_xin"><b>Lyu</b>&nbsp;Xin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <a href="../../../author/wang_bolin"><b>Wang</b>&nbsp;Bolin</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_min"><b>Yang</b>&nbsp;Min</a></span>, <a href="../../../author/wei_yao"><b>Wei</b>&nbsp;Yao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9018-0572" title="ORCID: 0000-0002-9018-0572" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elchalakani_mohamed"><b>Elchalakani</b>&nbsp;Mohamed</a></span>, <a href="../../../author/li_danqi"><b>Li</b>&nbsp;Danqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 375
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>
-,     <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/yang_min"><b>Yang</b> Min</a> <a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wei_yao"><b>Wei</b> Yao</a>
-,     <a href="../../../author/elchalakani_mohamed"><b>Elchalakani</b> Mohamed</a> <a href="https://orcid.org/0000-0002-9018-0572" title="ORCID: 0000-0002-9018-0572" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_danqi"><b>Li</b> Danqi</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 375, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ai`](keyword/ai)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#condition`](keyword/condition)
-    [`#cure`](keyword/cure)
-    [`#performance`](keyword/performance)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#steam`](keyword/steam)
-
-
--------------------------
+<a href="../../keyword/ai"><button class="btn">#ai</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steam"><button class="btn">#steam</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=AI-Based%20Performance%20Prediction%20for%203D%20Printed%20Concrete%20Considering%20Anisotropy%20and%20Steam-Curing%20Condition" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150058092&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,25 +40,21 @@ tags:
 <a href="https://inciteful.xyz/p/W4324131062" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.130898" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.130898?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D concrete printing (3DCP) technique piques the curiosity of several researchers and enterprises. However, there are few systematic investigations into how curing conditions influence the mechanical performance of 3DCP. This study aims to investigate the effect of various steam curing conditions (temperature rise rate, retention capacity, and sustained temperature) on the performance properties of 3D printing concrete materials at various ages of curing. A thorough test comprises macroscopic and microscopic analysis was conducted. In addition, the best conditions for steam curing are established for compressive characteristics in different directions. Then the anisotropy of mechanical properties of printed materials are studied under various curing settings. This study has contributed to the theoretical research on the influence of steam curing conditions on printed components. In addition, the experimental results were used to create two machine learning (ML) models and the beetle antennae search (BAS) technique was utilised. According to test data, the model is carried out to achieve the mechanical performance prediction of steam curing concrete. To automatically find optimal hyperparameters of ML models, the BAS algorithm was proposed, providing a solid guarantee for the rapid construction of the model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/zhang_runhong"><b>Zhang</b> Runhong</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wang_yao_yang_zhan.2022.MPo3PCiSCC/">Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/albostami_s_asad"><b>Albostami</b> Asad</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/ismael_h_bashar"><b>Ismael</b> Bashar</a>, <a href="../../../author/hamd_kh-s_rwayda"><b>Hamd</b> Rwayda</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../albo_moha_isma_hamd.2025.OSPf3PFRC/">Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete:<br/>Machine Learning-Driven Insights</a></li>
       <li><a href="../../../author/si_qi"><b>Si</b> Qi</a>, <a href="../../../author/zhang_wenna"><b>Zhang</b> Wenna</a>, <a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a>, <a href="../../../author/zheng_jianqiang"><b>Zheng</b> Jianqiang</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../si_zhan_pan_zhen.2025.SotMaDPo3PBFRC/">Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete</a></li>
@@ -115,4 +85,33 @@ tags:
       <li><a href="../../../author/zivkovic_milijana"><b>Živković</b> Milijana</a>, <a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zivk_zujo_milo.2023.A3PSCUAI/">Architectural 3D Printed Structures Created Using Artificial Intelligence:<br/>A Review of Techniques and Applications</a></li>
       <li><a href="../../../author/wang_qing"><b>Wang</b> Qing</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/li_jie"><b>Li</b> Jie</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_ren_li.2023.DRMfP3PCB/">Damage-Rheology Model for Predicting 3D Printed Concrete Buildability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC,
+      author            = "Xiaofei Yao and Xin Lyu and Junbo Sun and Bolin Wang and Yufei Wang and Min Yang and Yao Wei and Mohamed Elchalakani and Danqi Li and Xiangyu Wang",
+      title             = "AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition",
+      doi               = "10.1016/j.conbuildmat.2023.130898",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "375",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Yao, “AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition”, <i>Construction and Building Materials</i>, vol. 375, 2023, doi: 10.1016/j.conbuildmat.2023.130898.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yao, Xiaofei, Xin Lyu, Junbo Sun, Bolin Wang, Yufei Wang, Min Yang, Yao Wei, Mohamed Elchalakani, Danqi Li, and Xiangyu Wang. “AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition”. <i>Construction and Building Materials</i> 375 (2023). https://doi.org/10.1016/j.conbuildmat.2023.130898.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Taylor Marchment, Jay Sanjayan, Ming Xia
+    - footer
+title: Marchment Taylor, Sanjayan Jay, Xia Ming
 description:
 tags:
  - amplification
@@ -21,36 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2019.107684) Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification ([2019-03](date/2019/03))
-<a href="https://doi.org/10.1016/j.matdes.2019.107684" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2019.107684</a>
+#Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification ([2019-03](date/2019/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2019.107684) <a href="https://doi.org/10.1016/j.matdes.2019.107684" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2019.107684" target="_blank">10.1016/j.matdes.2019.107684</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchment_taylor"><b>Marchment</b>&nbsp;Taylor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span><br>
+Journal Article - Materials & Design, Vol. 169
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, Vol. 169, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#amplification`](keyword/amplification)
-    [`#area`](keyword/area)
-    [`#bond`](keyword/bond)
-    [`#construction`](keyword/construction)
-    [`#effect`](keyword/effect)
-    [`#enhancement`](keyword/enhancement)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#method`](keyword/method)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/amplification"><button class="btn">#amplification</button></a> <a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Method%20of%20Enhancing%20Inter-Layer%20Bond%20Strength%20in%20Construction-Scale%203D%20Printing%20with%20Mortar%20by%20Effective%20Bond%20Area%20Amplification" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85062401258&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2920275820" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2019.107684" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2019.107684?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Construction Printing (3DCP) is a new and emerging technology that is set to revolutionise construction. Currently the technology is in its early stages ofdevelopment and many hurdles are yet to overcome. Particularly in the field of extrusion 3DCP with cementitious materials, one of the primary hurdles is the weak interface bonds. Theweakness in bonds is hypothesised to bepresent due to the layered fabrication ofa stiffcementitiousmix that creates a localised void structure. Due to the timegap intervals between depositions, the bond strength decreases due to lack ofintermixing. This paper seeks to explore a method to strengthen the interlayer bonds, by applying a cementitious paste at the interface, to minimise voids and promote bond area. Using a flatbed scanner and a unique method ofimage processing on printed colour layers, a quantitative evaluation ofthe contact area, “effective bond” area, was determined. The application ofthese experimental and analytical methods shows that an increase in bond strength is achieved, which is proportional to the effective bond area.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
@@ -92,7 +66,6 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/tian_wei"><b>Tian</b> Wei</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../tian_han.2018.PC01ONAECDbFTCBoCSa3P/">Pore Characteristics (>0.1mm) Of Non-Air-Entrained Concrete Destroyed by Freeze-Thaw-Cycles Based on CT Scanning and 3D Printing</a></li>
@@ -101,8 +74,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "198 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
       <li><a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b> Mohammed</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../alna.2026.LFAMwCaGM/">Large Format Additive Manufacturing with Cementitious and Geo Materials:<br/>General Considerations, Drivers, and Context</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
@@ -302,4 +275,33 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA,
+      author            = "Taylor Marchment and Jay Gnananandan Sanjayan and Ming Xia",
+      title             = "Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification",
+      doi               = "10.1016/j.matdes.2019.107684",
+      year              = "2019",
+      journal           = "Materials & Design",
+      volume            = "169",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Marchment, J. G. Sanjayan and M. Xia, “Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification”, <i>Materials & Design</i>, vol. 169, 2019, doi: 10.1016/j.matdes.2019.107684.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Marchment, Taylor, Jay Gnananandan Sanjayan, and Ming Xia. “Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification”. <i>Materials & Design</i> 169 (2019). https://doi.org/10.1016/j.matdes.2019.107684.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

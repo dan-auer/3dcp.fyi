@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kinga Korniejenko, Szymon Gądek, Piotr Dynowski, Doan Tran, Magdalena Rudziewicz, Sebastian Pose, Thomas Grab
+    - footer
+title: Korniejenko Kinga, Gądek Szymon, Dynowski Piotr, Tran Doan, Rudziewicz Magdalena, Pose Sebastian, Grab Thomas
 description:
 tags:
  - additive
@@ -12,31 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/14/4/1346/pdf?version=1707228722) Additive Manufacturing in Underwater Applications ([2024-02](date/2024/02))
-<a href="https://doi.org/10.3390/app14041346" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app14041346</a>
+#Additive Manufacturing in Underwater Applications ([2024-02](date/2024/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/14/4/1346/pdf?version=1707228722) <a href="https://doi.org/10.3390/app14041346" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14041346" target="_blank">10.3390/app14041346</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korniejenko_kinga"><b>Korniejenko</b>&nbsp;Kinga</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gadek_szymon"><b>Gądek</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1872-5440" title="ORCID: 0000-0003-1872-5440" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dynowski_piotr"><b>Dynowski</b>&nbsp;Piotr</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9289-1890" title="ORCID: 0009-0003-9289-1890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_hung_doan"><b>Tran</b>&nbsp;Doan</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7725-1295" title="ORCID: 0000-0001-7725-1295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pose_sebastian"><b>Pose</b>&nbsp;Sebastian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4235-5494" title="ORCID: 0000-0003-4235-5494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/grab_thomas"><b>Grab</b>&nbsp;Thomas</a></span><br>
+Journal Article - Applied Sciences, Vol. 14, Iss. 4, No. 1346
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> <a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dynowski_piotr"><b>Dynowski</b> Piotr</a> <a href="https://orcid.org/0000-0003-1872-5440" title="ORCID: 0000-0003-1872-5440" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> <a href="https://orcid.org/0009-0003-9289-1890" title="ORCID: 0009-0003-9289-1890" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pose_sebastian"><b>Pose</b> Sebastian</a> <a href="https://orcid.org/0000-0001-7725-1295" title="ORCID: 0000-0001-7725-1295" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/grab_thomas"><b>Grab</b> Thomas</a> <a href="https://orcid.org/0000-0003-4235-5494" title="ORCID: 0000-0003-4235-5494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 14, Iss. 4, No. 1346
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#underwater`](keyword/underwater)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Underwater%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192470749&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391560194" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app14041346" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app14041346?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM), commonly named 3D printing, is a promising technology for many applications. It is the most viable option for widespread use in automated construction processes, especially for harsh environments such as underwater. Some contemporary applications of this technology have been tested in underwater environments, but there are still a number of problems to be solved. This study focuses on the current development of 3D printing technology for underwater applications, including the required improvements in the technology itself, as well as new materials. Information about underwater applications involving part fabrication via AM is also provided. The article is based on a literature review that is supplemented by case studies of practical applications. The main findings show that the usage of additive manufacturing in underwater applications can bring a number of advantages—for instance, increasing work safety, limiting the environmental burden, and high efficiency. Currently, only a few prototype applications for this technology have been developed. However, underwater additive manufacturing is a promising tool to develop new, effective applications on a larger scale. The technology itself, as well as the materials used, still require development and optimization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/setlak-nee-plawecka_kinga"><b>Setlak (nee Pławecka)</b> Kinga</a>, <a href="../../../author/kozub_barbara"><b>Kozub</b> Barbara</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../korn_setl_kozu.2022.AOfMEESfLaMHMBoGCa3PT/">An Overview for Modern Energy-Efficient Solutions for Lunar and Martian Habitats Made Based on Geopolymers Composites and 3D Printing Technology</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/xiong_z"><b>Xiong</b> Z.</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../li_xiao_fang_xion.2021.FoGBFRSCSMf3P/">Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing</a></li>
       <li><a href="../../../author/ly_oceane"><b>Ly</b> Océane</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../ly_yori_seba_blan.2021.Oo3PCfAR/">Optimization of 3D Printed Concrete for Artificial Reefs:<br/>Biofouling and Mechanical Analysis</a></li>
@@ -75,10 +54,42 @@ tags:
       <li><a href="../../../author/zhao_shun"><b>Zhao</b> Shun</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/fang_xinjun"><b>Fang</b> Xinjun</a>, <a href="../../../author/liang_wei"><b>Liang</b> Wei</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhao_wang_fang_lian.2022.AaDoARiCC/">Application and Development of Autonomous Robots in Concrete Construction:<br/>Challenges and Opportunities</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
       <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
       <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{korn_gade_dyno_tran.2024.AMiUA,
+      author            = "Kinga Korniejenko and Szymon Gądek and Piotr Dynowski and Doan Hung Tran and Magdalena Rudziewicz and Sebastian Pose and Thomas Grab",
+      title             = "Additive Manufacturing in Underwater Applications",
+      doi               = "10.3390/app14041346",
+      year              = "2024",
+      journal           = "Applied Sciences",
+      volume            = "14",
+      number            = "4",
+      pages             = "1346",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Korniejenko, “Additive Manufacturing in Underwater Applications”, <i>Applied Sciences</i>, vol. 14, no. 4, p. 1346, 2024, doi: 10.3390/app14041346.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Korniejenko, Kinga, Szymon Gądek, Piotr Dynowski, Doan Hung Tran, Magdalena Rudziewicz, Sebastian Pose, and Thomas Grab. “Additive Manufacturing in Underwater Applications”. <i>Applied Sciences</i> 14, no. 4 (2024): 1346. https://doi.org/10.3390/app14041346.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

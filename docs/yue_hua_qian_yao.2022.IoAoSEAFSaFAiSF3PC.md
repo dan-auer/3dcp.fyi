@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongfei Yue, Sudong Hua, Hao Qian, Xiao Yao, Yanan Gao, Fan Jiang
+    - footer
+title: Yue Hongfei, Hua Sudong, Qian Hao, Yao Xiao, Gao Yanan, Jiang Fan
 description:
 tags:
  - aggregate
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.126104" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.126104</a>
+#Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.126104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.126104" target="_blank">10.1016/j.conbuildmat.2021.126104</a>
 
--------------------------
+<a href="../../../author/yue_hongfei"><b>Yue</b>&nbsp;Hongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span>, <a href="../../../author/qian_hao"><b>Qian</b>&nbsp;Hao</a></span>, <a href="../../../author/yao_xiao"><b>Yao</b>&nbsp;Xiao</a></span>, <a href="../../../author/gao_yanan"><b>Gao</b>&nbsp;Yanan</a></span>, <a href="../../../author/jiang_fan"><b>Jiang</b>&nbsp;Fan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 319
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>
-,     <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> <a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_hao"><b>Qian</b> Hao</a>
-,     <a href="../../../author/yao_xiao"><b>Yao</b> Xiao</a>
-,     <a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a>
-,     <a href="../../../author/jiang_fan"><b>Jiang</b> Fan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 319, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#fine`](keyword/fine)
-    [`#furnace`](keyword/furnace)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-    [`#slag`](keyword/slag)
-    [`#sphere`](keyword/sphere)
-    [`#superplasticizer`](keyword/superplasticizer)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/sphere"><button class="btn">#sphere</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20Applicability%20of%20Spherical%20Electric%20Arc-Furnace-Slag%20as%20Fine%20Aggregate%20in%20Superplasticizer-Free%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121263305&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200084555" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.126104" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.126104?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Polycarboxylate ether superplasticizer (PCE) is a popular option for improving the flowability of 3D printed concrete (3DPC). However, the side effects and high cost of PCE impede the development of 3DPC. In recent years, a spherical electric arc furnace slag (EAFS) was produced by a novel production method. It is, therefore, imperative to investigate the usage of EAFS's ball-rolling effect to improve 3DPC flowability. In this paper, the rheological properties, flowability, buildability, mechanical properties, and pore structure of superplasticizer-free 3DPC were determined with EAFS replacing 25%, 50%, 75%, and 100% of river sand (RS). The results were compared with the control sample which contains PCE and 100% RS. The rheological properties proved that both EAFS and PCE improved 3DPC flow initiation, but 3DPC with EAFS achieved a lower viscosity loss rate, which is beneficial to buildability. Under consistent printability conditions, the average flowability value of 3DPC with EAFS was 180 mm, which exceeded the control sample by 15 mm, and the optimum buildability was achieved when 50%–75% of RS was replaced. Furthermore, the EAFS spherical model allowed for significant improvements in 3DPC mechanical properties while also reducing the pore volume. Overall, utilizing EAFS to improve 3DPC flowability successfully eliminates dependence on PCE, while optimizing buildability and mechanical properties, among other benefits.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
@@ -90,8 +64,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA/">Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate</a></li>
@@ -110,4 +84,33 @@ tags:
       <li><a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>, <a href="../../../author/unis_h"><b>Unis</b> H.</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../qaid_yahi_taye_unis.2022.3PGC/">3D Printed Geopolymer Composites:<br/>A Review</a></li>
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yue_hua_qian_yao.2022.IoAoSEAFSaFAiSF3PC,
+      author            = "Hongfei Yue and Sudong Hua and Hao Qian and Xiao Yao and Yanan Gao and Fan Jiang",
+      title             = "Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2021.126104",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "319",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Yue, S. Hua, H. Qian, X. Yao, Y. Gao and F. Jiang, “Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 319, 2022, doi: 10.1016/j.conbuildmat.2021.126104.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yue, Hongfei, Sudong Hua, Hao Qian, Xiao Yao, Yanan Gao, and Fan Jiang. “Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete”. <i>Construction and Building Materials</i> 319 (2022). https://doi.org/10.1016/j.conbuildmat.2021.126104.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nickolas Polychronopoulos, Ioannis Sarris, Lefteris Benos, John Vlachopoulos
+    - footer
+title: Polychronopoulos Nickolas, Sarris Ioannis, Benos Lefteris, Vlachopoulos John
 description:
 tags:
  - concrete
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Pressure-Drop in Converging Flows in Three-Dimensional Printing of Concrete ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1063/5.0168928" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1063/5.0168928</a>
+#Pressure-Drop in Converging Flows in Three-Dimensional Printing of Concrete ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1063/5.0168928" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0168928" target="_blank">10.1063/5.0168928</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3477-2979" title="ORCID: 0000-0002-3477-2979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/polychronopoulos_d_nickolas"><b>Polychronopoulos</b>&nbsp;Nickolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6542-0490" title="ORCID: 0000-0002-6542-0490" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sarris_e_ioannis"><b>Sarris</b>&nbsp;Ioannis</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2150-5166" title="ORCID: 0000-0003-2150-5166" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/benos_lefteris"><b>Benos</b>&nbsp;Lefteris</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6256-8230" title="ORCID: 0000-0001-6256-8230" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vlachopoulos_john"><b>Vlachopoulos</b>&nbsp;John</a></span><br>
+Journal Article - Physics of Fluids, Vol. 35, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/polychronopoulos_d_nickolas"><b>Polychronopoulos</b> Nickolas</a> <a href="https://orcid.org/0000-0002-3477-2979" title="ORCID: 0000-0002-3477-2979" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sarris_e_ioannis"><b>Sarris</b> Ioannis</a> <a href="https://orcid.org/0000-0002-6542-0490" title="ORCID: 0000-0002-6542-0490" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/benos_lefteris"><b>Benos</b> Lefteris</a> <a href="https://orcid.org/0000-0003-2150-5166" title="ORCID: 0000-0003-2150-5166" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vlachopoulos_john"><b>Vlachopoulos</b> John</a> <a href="https://orcid.org/0000-0001-6256-8230" title="ORCID: 0000-0001-6256-8230" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Physics of Fluids, Vol. 35, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#drop`](keyword/drop)
-    [`#flow`](keyword/flow)
-    [`#pressure`](keyword/pressure)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/drop"><button class="btn">#drop</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pressure-Drop%20in%20Converging%20Flows%20in%20Three-Dimensional%20Printing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171626650&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386603477" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1063/5.0168928" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1063/5.0168928?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The additive manufacturing technology of extrusion of concrete mixtures through a nozzle and deposition layer-by-layer, is commonly called three-dimensional concrete printing (3DCP). Such materials are rheologically characterized by yield stress and viscosity. The Bingham model is a good approximation of their rheological behavior. We have developed approximate expressions for determination of pressure for flow through slightly tapered tubes and wedge-shaped extrusion dies, starting from the Buckingham-Reiner equation for flow of a Bingham fluid in a straight tube. The predictions are compared to numerical simulations for convergence half-angles (taper) from 0° to 30° and to analytical solutions available in the literature. Good comparison has been obtained for taper angles up to 15° but the agreement deteriorates as the angle increases. Some experimental data available in the literature have been analyzed and the challenges for prediction of pressure drop in flow of concrete mixtures through tubes and dies, including entry flow losses, are discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
@@ -90,9 +69,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a>, <a href="../../../author/yan_ming"><b>Yan</b> Ming</a>, <a href="../../../author/yang_kun"><b>Yang</b> Kun</a>, <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wang_yan_yang_ao.2025.EoWSotECo3PoCM/">Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials</a></li>
       <li><a href="../../../author/polychronopoulos_d_nickolas"><b>Polychronopoulos</b> Nickolas</a>, <a href="../../../author/sarris_e_ioannis"><b>Sarris</b> Ioannis</a>, <a href="../../../author/vlachopoulos_john"><b>Vlachopoulos</b> John</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../poly_sarr_vlac.2024.FAoSEiTDCP/">Flow-Analysis of Screw-Extrusion in Three-Dimensional Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{poly_sarr_beno_vlac.2023.PDiCFiTDPoC,
+      author            = "Nickolas D. Polychronopoulos and Ioannis E. Sarris and Lefteris Benos and John Vlachopoulos",
+      title             = "Pressure-Drop in Converging Flows in Three-Dimensional Printing of Concrete",
+      doi               = "10.1063/5.0168928",
+      year              = "2023",
+      journal           = "Physics of Fluids",
+      volume            = "35",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. D. Polychronopoulos, I. E. Sarris, L. Benos and J. Vlachopoulos, “Pressure-Drop in Converging Flows in Three-Dimensional Printing of Concrete”, <i>Physics of Fluids</i>, vol. 35, no. 9, 2023, doi: 10.1063/5.0168928.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Polychronopoulos, Nickolas D., Ioannis E. Sarris, Lefteris Benos, and John Vlachopoulos. “Pressure-Drop in Converging Flows in Three-Dimensional Printing of Concrete”. <i>Physics of Fluids</i> 35, no. 9 (2023). https://doi.org/10.1063/5.0168928.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hadeer Abdalla, Kazi Fattah, Mohamed Abdallah, Adil Tamimi
+    - footer
+title: Abdalla Hadeer, Fattah Kazi, Abdallah Mohamed, Tamimi Adil
 description:
 tags:
  - economic
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/13/21/11978/pdf?version=1636534886) Environmental Footprint and Economics of a Full-Scale 3D Printed House ([2021-10](date/2021/10))
-<a href="https://doi.org/10.3390/su132111978" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su132111978</a>
+#Environmental Footprint and Economics of a Full-Scale 3D Printed House ([2021-10](date/2021/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/13/21/11978/pdf?version=1636534886) <a href="https://doi.org/10.3390/su132111978" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su132111978" target="_blank">10.3390/su132111978</a>
 
--------------------------
+<a href="../../../author/abdalla_hadeer"><b>Abdalla</b>&nbsp;Hadeer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9620-5910" title="ORCID: 0000-0002-9620-5910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fattah_parvez_kazi"><b>Fattah</b>&nbsp;Kazi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4304-7234" title="ORCID: 0000-0002-4304-7234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdallah_mohamed"><b>Abdallah</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tamimi_k_adil"><b>al&nbsp;Tamimi</b>&nbsp;Adil</a></span><br>
+Journal Article - Sustainability, Vol. 13, Iss. 21, pp. 1-19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>
-,     <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a> <a href="https://orcid.org/0000-0002-9620-5910" title="ORCID: 0000-0002-9620-5910" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> <a href="https://orcid.org/0000-0002-4304-7234" title="ORCID: 0000-0002-4304-7234" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tamimi_k_adil"><b>al Tamimi</b> Adil</a> <a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 13, Iss. 21, pp. 1-19
-
-:aca-blank:{ .lg .middle}
-    [`#economic`](keyword/economic)
-    [`#environment`](keyword/environment)
-    [`#footprint`](keyword/footprint)
-    [`#full`](keyword/full)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Environmental%20Footprint%20and%20Economics%20of%20a%20Full-Scale%203D%20Printed%20House" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85118194416&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3209800283" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su132111978" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su132111978?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing, is a newly adopted technique in the construction sector with the aim to improve the economics and alleviate environmental impacts. This study assesses the eco-efficiency of 3D printing compared to conventional construction methods in large-scale structural fabrication. A single-storey 3D-printed house was selected in the United Arab Emirates to conduct the comparative assessment against traditional concrete construction. The life cycle assessment (LCA) framework is utilized to quantify the environmental loads of raw materials extraction and manufacturing, as well as energy consumption during construction and operation phases. The economics of the selected structural systems were investigated through life cycle costing analysis (LCCA), that included mainly the construction costs and energy savings. An eco-efficiency analysis was employed to aggregate the results of the LCA and LCCA into a single framework to aid in decision making by selecting the optimum and most eco-efficient alternative. The findings revealed that houses built using additive manufacturing and 3D printed materials were more environmentally favourable. The conventional construction method had higher impacts when compared to the 3D printing method with global warming potential of 1154.20 and 608.55 kg CO2 eq, non-carcinogenic toxicity 675.10 and 11.9 kg 1,4-DCB, and water consumption 233.35 and 183.95 m3, respectively. The 3D printed house was also found to be an economically viable option, with 78% reduction in the overall capital costs when compared to conventional construction methods. The combined environmental and economic results revealed that the overall process of the 3D-printed house had higher eco efficiency compared to concrete-based construction. The main results of the sensitivity analysis revealed that up to 90% of the environmental impacts in 3D printing mortars can be mitigated with decreasing cement ratios.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -76,8 +55,9 @@ tags:
       <li><a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>, <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>, <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../tobi_omar_yehi_alo.2018.CVo3PHiU/">Cost Viability of 3D Printed House in UK</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "57 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
@@ -135,4 +115,35 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/li_yuqian"><b>Li</b> Yuqian</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_xu_li.2022.TIoFSo3CPBF/">The Impacts of Fabrication Systems on 3D Concrete Printing Building Forms</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abda_fatt_abda_tami.2021.EFaEoaFS3PH,
+      author            = "Hadeer Abdalla and Kazi Parvez Fattah and Mohamed Abdallah and Adil K. Al Tamimi",
+      title             = "Environmental Footprint and Economics of a Full-Scale 3D Printed House",
+      doi               = "10.3390/su132111978",
+      year              = "2021",
+      journal           = "Sustainability",
+      volume            = "13",
+      number            = "21",
+      pages             = "1--19",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Abdalla, K. P. Fattah, M. Abdallah and A. K. A. Tamimi, “Environmental Footprint and Economics of a Full-Scale 3D Printed House”, <i>Sustainability</i>, vol. 13, no. 21, pp. 1–19, 2021, doi: 10.3390/su132111978.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abdalla, Hadeer, Kazi Parvez Fattah, Mohamed Abdallah, and Adil K. Al Tamimi. “Environmental Footprint and Economics of a Full-Scale 3D Printed House”. <i>Sustainability</i> 13, no. 21 (2021): 1–19. https://doi.org/10.3390/su132111978.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

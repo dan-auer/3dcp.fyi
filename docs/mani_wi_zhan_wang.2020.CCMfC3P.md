@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karthick Manikandan, Kwangwoo Wi, Xiao Zhang, Kejin Wang, Hantang Qin
+    - footer
+title: Manikandan Karthick, Wi Kwangwoo, Zhang Xiao, Wang Kejin, Qin Hantang
 description:
 tags:
  - cement
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Characterizing Cement Mixtures for Concrete 3D Printing ([2020-03](date/2020/03))
-<a href="https://doi.org/10.1016/j.mfglet.2020.03.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.mfglet.2020.03.002</a>
+#Characterizing Cement Mixtures for Concrete 3D Printing ([2020-03](date/2020/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mfglet.2020.03.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mfglet.2020.03.002" target="_blank">10.1016/j.mfglet.2020.03.002</a>
 
--------------------------
+<a href="../../../author/manikandan_karthick"><b>Manikandan</b>&nbsp;Karthick</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9415-3187" title="ORCID: 0000-0001-9415-3187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wi_kwangwoo"><b>Wi</b>&nbsp;Kwangwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9897-7597" title="ORCID: 0000-0001-9897-7597" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xiao"><b>Zhang</b>&nbsp;Xiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kejin"><b>Wang</b>&nbsp;Kejin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qin_hantang"><b>Qin</b>&nbsp;Hantang</a></span><br>
+Journal Article - Manufacturing Letters, Vol. 24, pp. 33-37
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>
-,     <a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a> <a href="https://orcid.org/0000-0001-9415-3187" title="ORCID: 0000-0001-9415-3187" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_xiao"><b>Zhang</b> Xiao</a> <a href="https://orcid.org/0000-0001-9897-7597" title="ORCID: 0000-0001-9897-7597" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> <a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qin_hantang"><b>Qin</b> Hantang</a> <a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Manufacturing Letters, Vol. 24, pp. 33-37
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#character`](keyword/character)
-    [`#concrete`](keyword/concrete)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterizing%20Cement%20Mixtures%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082169518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,25 +35,21 @@ tags:
 <a href="https://inciteful.xyz/p/W3011617975" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.mfglet.2020.03.002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.mfglet.2020.03.002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The need to automate the construction process for civil infrastructures has been ceaselessly propelled by the reported number of detrimental site accidents, enormous time, and material wastages in current labor-intensive approaches. Additive 3D printing could revolutionize the construction-site. Notable advantages of concrete 3D printing include wider build customizability, safer work ambiance, reduced construction time and cost. The major challenge in concrete printing is to identify and maintain the mixture characteristics suitable for printing and stacking up in layers. In this study, ready-to-print fresh cementitious mixtures with silica fume and superplasticizer were characterized for printability based on their rheological properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "43 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
@@ -114,4 +94,34 @@ tags:
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mani_wi_zhan_wang.2020.CCMfC3P,
+      author            = "Karthick Manikandan and Kwangwoo Wi and Xiao Zhang and Kejin Wang and Hantang Qin",
+      title             = "Characterizing Cement Mixtures for Concrete 3D Printing",
+      doi               = "10.1016/j.mfglet.2020.03.002",
+      year              = "2020",
+      journal           = "Manufacturing Letters",
+      volume            = "24",
+      pages             = "33--37",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Manikandan, K. Wi, X. Zhang, K. Wang and H. Qin, “Characterizing Cement Mixtures for Concrete 3D Printing”, <i>Manufacturing Letters</i>, vol. 24, pp. 33–37, 2020, doi: 10.1016/j.mfglet.2020.03.002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Manikandan, Karthick, Kwangwoo Wi, Xiao Zhang, Kejin Wang, and Hantang Qin. “Characterizing Cement Mixtures for Concrete 3D Printing”. <i>Manufacturing Letters</i> 24 (2020): 33–37. https://doi.org/10.1016/j.mfglet.2020.03.002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

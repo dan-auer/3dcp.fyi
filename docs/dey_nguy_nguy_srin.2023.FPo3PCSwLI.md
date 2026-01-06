@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dhrutiman Dey, Vuong Nguyen, Hung Nguyen-Xuan, Dodda Srinivas, Biranchi Panda, Jonathan Tran
+    - footer
+title: Dey Dhrutiman, Nguyen Vuong, Nguyen-Xuan Hung, Srinivas Dodda, Panda Biranchi, Tran Jonathan
 description:
 tags:
  - concrete
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2023.100297) Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.dibe.2023.100297" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2023.100297</a>
+#Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills ([2023-12](date/2023/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100297) <a href="https://doi.org/10.1016/j.dibe.2023.100297" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100297" target="_blank">10.1016/j.dibe.2023.100297</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dey_dhrutiman"><b>Dey</b>&nbsp;Dhrutiman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_vuong"><b>van&nbsp;Nguyen</b>&nbsp;Vuong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1746-8297" title="ORCID: 0000-0002-1746-8297" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b>&nbsp;Hung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srinivas_dodda"><b>Srinivas</b>&nbsp;Dodda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100297
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> <a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> <a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> <a href="https://orcid.org/0000-0002-1746-8297" title="ORCID: 0000-0002-1746-8297" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> <a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100297
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#flexural`](keyword/flexural)
-    [`#infill`](keyword/infill)
-    [`#lattice`](keyword/lattice)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Performance%20of%203D%20Printed%20Concrete%20Structure%20with%20Lattice-Infills" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179585898&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389484617" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2023.100297" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2023.100297?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale 3D printed concrete structures with lattice infill will result in lightweight components with high mass-specific strength, and faster fabrication, compared to conventional casting methods. However, the effect of different infill patterns on mechanical performance is still not addressed clearly in many scientific publications. This study investigates the bending performance of 3D-printed concrete beams with four infill patterns such as lattice, triangular, lattice-triangular, and sinusoidal tested in vertical (layer deposition direction) and transverse (layer translation direction) loading directions. The load versus displacement curves and crack propagation patterns are investigated both via Finite Element (FE) simulations and experiments. The FE results corroborated by experiments indicated that the triangular patterns perform better than lattice-shaped infill counterparts particularly under the transverse loading direction exhibiting the highest flexural deformation resistance capacity. The findings of this study would be useful in latticing large-scale concrete structures for diverse applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chri_zijl_vill.2023.IBTCTPD/">Improving Building Thermal Comfort Through Passive Design:<br/>An Experimental Analysis of Phase-Change-Material 3D Printed Concrete</a></li>
@@ -93,8 +70,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
@@ -120,4 +97,33 @@ tags:
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../nguy_tran_liu_tran.2024.EFEMSMfCPi3PFRC/">Extended Finite Element Multi-Scale Modelling for Crack Propagation in 3D Printed Fiber-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dey_nguy_nguy_srin.2023.FPo3PCSwLI,
+      author            = "Dhrutiman Dey and Vuong van Nguyen and Hung Nguyen-Xuan and Dodda Srinivas and Biranchi Narayan Panda and Jonathan Phuong Tran",
+      title             = "Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills",
+      doi               = "10.1016/j.dibe.2023.100297",
+      year              = "2023",
+      journal           = "Developments in the Built Environment",
+      pages             = "100297",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Dey, V. van Nguyen, H. Nguyen-Xuan, D. Srinivas, B. N. Panda and J. P. Tran, “Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills”, <i>Developments in the Built Environment</i>, p. 100297, 2023, doi: 10.1016/j.dibe.2023.100297.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dey, Dhrutiman, Vuong van Nguyen, Hung Nguyen-Xuan, Dodda Srinivas, Biranchi Narayan Panda, and Jonathan Phuong Tran. “Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills”. <i>Developments in the Built Environment</i>, 2023, 100297. https://doi.org/10.1016/j.dibe.2023.100297.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

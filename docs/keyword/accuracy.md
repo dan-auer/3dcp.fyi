@@ -8,7 +8,7 @@ search:
 
 # #accuracy
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM/">Investigating the Impact of Material Rheology on Geometric Accuracy in 3D Concrete Printing Using Real-Time Monitoring</a></li>
   <li><a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/rida_foulki"><b>Rida</b> Foulki</a>, <a href="../../../author/driss_amegouz"><b>Driss</b> Amegouz</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../meso_rida_dris.2025.AGaDACi3CP/">Addressing Geometrical and Dimensional Accuracy Challenges in 3D Concrete Printing</a></li>
   <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../fasi_libr.2025.TAISSYSMf3CP/">Towards Accurate In-Situ Static Yield Stress Measurement for 3D Concrete Printing:<br/>A Study on Novel Fast Penetration Test</a></li>

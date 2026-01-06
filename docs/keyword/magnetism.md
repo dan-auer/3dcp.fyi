@@ -8,7 +8,7 @@ search:
 
 # #magnetism
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
   <li><a href="../../../author/huang_junxiang"><b>Huang</b> Junxiang</a>, <a href="../../../author/peng_zeqin"><b>Peng</b> Zeqin</a>, <a href="../../../author/tan_xianzhong"><b>Tan</b> Xianzhong</a>, <a href="../../../author/gong_guofang"><b>Gong</b> Guofang</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../huan_peng_tan_gong.2025.MAotMFA3PSFRC/">Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/zhan_yiyuan"><b>Zhan</b> Yiyuan</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_lesa_schu.2024.MPo3PRCMAMI/">Mechanical Properties of 3D Printable Responsive Cement Mortar After Magnetic Intervention</a></li>

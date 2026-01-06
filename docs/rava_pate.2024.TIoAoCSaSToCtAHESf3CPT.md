@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Amitkumar Raval, C. Patel
+    - footer
+title: Raval Amitkumar, Patel C.
 description:
 tags:
  - accelerator
@@ -21,35 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Influence of Accelerators on Compressive Strength and Setting-Time of Cement to Achieve High Early Strength for 3D Concrete Printing Technology ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.matpr.2024.05.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2024.05.027</a>
+#The Influence of Accelerators on Compressive Strength and Setting-Time of Cement to Achieve High Early Strength for 3D Concrete Printing Technology ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2024.05.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2024.05.027" target="_blank">10.1016/j.matpr.2024.05.027</a>
 
--------------------------
+<a href="../../../author/raval_d_amitkumar"><b>Raval</b>&nbsp;Amitkumar</a></span>, <a href="../../../author/patel_g_c"><b>Patel</b>&nbsp;C.</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raval_d_amitkumar"><b>Raval</b> Amitkumar</a>
-,     <a href="../../../author/patel_g_c"><b>Patel</b> C.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#achievement`](keyword/achievement)
-    [`#cement`](keyword/cement)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#height`](keyword/height)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-    [`#setting`](keyword/setting)
-    [`#strength`](keyword/strength)
-    [`#technology`](keyword/technology)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/achievement"><button class="btn">#achievement</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20Accelerators%20on%20Compressive%20Strength%20and%20Setting-Time%20of%20Cement%20to%20Achieve%20High%20Early%20Strength%20for%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,22 +43,45 @@ tags:
 <a href="https://inciteful.xyz/p/W4396830913" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2024.05.027" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2024.05.027?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of 3D concrete printing (3DCP) technology has completely changed the way that complicated structures are built, it also increases efficiency and lowers costs. Achieving high early setting and early strength in 3DPC are still a considerable difficulty. This study examines the impact of accelerators on the setting time of rapid hardening pozzolana cement. Sodium hydroxide (NaOH), Calcium Chloride (CaCl2), Calcium nitrite (CN), Triethanolamine (TEA), triisopropanolamine (TIPA) were used as an accelerator for this study. The findings show that the addition of accelerators reduces the setting time significantly while also increasing the compressive strength. With the help of the findings, mixed design parameters for 3DCP technology can be optimized, allowing for the rapid curing of durable structures. The practical application and widespread acceptance of 3DCP technology in the construction industry are affected by these findings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/raval_d_amitkumar"><b>Raval</b> Amitkumar</a>, <a href="../../../author/patel_g_c"><b>Patel</b> C.</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rava_pate.2022.EoIFaCBLf3PCP/">Estimation of Interface-Friction and Concrete-Boundary-Layer for 3D Printable Concrete-Pumping</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../vait_sere_kers.2018.EoUSAoEHPi3CPT/">Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rava_pate.2024.TIoAoCSaSToCtAHESf3CPT,
+      author            = "Amitkumar D. Raval and C. G. Patel",
+      title             = "The Influence of Accelerators on Compressive Strength and Setting-Time of Cement to Achieve High Early Strength for 3D Concrete Printing Technology",
+      doi               = "10.1016/j.matpr.2024.05.027",
+      year              = "2024",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. D. Raval  and C. G. Patel, “The Influence of Accelerators on Compressive Strength and Setting-Time of Cement to Achieve High Early Strength for 3D Concrete Printing Technology”, <i>Materials Today: Proceedings</i>, 2024, doi: 10.1016/j.matpr.2024.05.027.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raval, Amitkumar D., and C. G. Patel. “The Influence of Accelerators on Compressive Strength and Setting-Time of Cement to Achieve High Early Strength for 3D Concrete Printing Technology”. <i>Materials Today: Proceedings</i>, 2024. https://doi.org/10.1016/j.matpr.2024.05.027.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

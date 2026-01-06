@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sandra Lucas
+    - footer
+title: Lucas Sandra
 description:
 tags:
  - additive
@@ -14,27 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} From 3D to 5D Printing:<br/>:aca-blank: Additive Manufacturing of Functional Construction Materials ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1201/9781003403890-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003403890-3</a>
+#From 3D to 5D Printing&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Additive Manufacturing of Functional Construction Materials</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003403890-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003403890-3" target="_blank">10.1201/9781003403890-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 46-69
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 46-69
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#function`](keyword/function)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%203D%20to%205D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401514103" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003403890-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003403890-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (3DP) allows the construction industry to create intricate structures and components in less time and at a lower cost. The addition of a fourth dimension to the printing process enables the development of new functions and responsiveness to 3D-printed objects. Functional cement-based materials are designed to exhibit dynamic properties that enable them to act as sensors, self-clean, or self-repair in what is known as four-dimensional printing, or 4DP. However, adding functionalities to materials introduces a new layer of complexity to the development of printable compositions. 5D printing, also known as 5DP, is an extension of 4D printing that incorporates a fifth dimension, which is machine learning (ML), into the process. ML offers opportunities to optimise the printing process but also to assist in the discovery and optimisation of cement-based materials. It makes it possible to optimise functional materials in order to achieve a specific desired outcome, which is, in this case, an extra functionality. We present the most recent advances in the field of 4DP and 5DP functional construction materials and discuss the challenges that need to be addressed. We analyse the opportunities for combining machine learning and 3D printing in the development of functional cement-based materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/hertel_tobias"><b>Hertel</b> Tobias</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../beer_hert_luca_pont.2023.PtUoFRSiC/">Promoting the Use of Fe-Rich Slag in Construction:<br/>Development of a Hybrid Binder for 3D Printing</a></li>
@@ -91,9 +75,37 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ye_kehan"><b>Ye</b> Kehan</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../wang_ye_wan_li.2023.I3CP/">Inclined 3D Concrete Printing:<br/>Build-Up Prediction and Early-Age Performance-Optimization</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/jahne_rene"><b>Jähne</b> René</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../gras_walz_hunh_jahn.2023.QTEoDFwC/">Qualitative Technology Evaluation of Digital Fabrication with Concrete:<br/>Conceptual Framework and Scoreboard</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../mech_nere.2018.3PwC/">3D Printing with Concrete:<br/>State-of-the-Art, Trends, Challenges</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{luca.2024.F3t5P,
+      author            = "Sandra Simaria de Oliveira Lucas",
+      title             = "From 3D to 5D Printing: Additive Manufacturing of Functional Construction Materials",
+      doi               = "10.1201/9781003403890-3",
+      year              = "2024",
+      pages             = "46--69",
+      booktitle         = "3D Printing for Construction in the Transformation of the Building Industry",
+      editor            = "Bárbara Rangel and Ana Sofia Guimarães and João Teixeira",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. S. de Oliveira Lucas, “From 3D to 5D Printing: Additive Manufacturing of Functional Construction Materials”, in <i>3D Printing for Construction in the Transformation of the Building Industry</i>,  2024, pp. 46–69. doi: 10.1201/9781003403890-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oliveira Lucas, Sandra Simaria de. “From 3D to 5D Printing: Additive Manufacturing of Functional Construction Materials”. In <i>3D Printing for Construction in the Transformation of the Building Industry</i>, edited by Bárbara Rangel, Ana Sofia Guimarães, and João Teixeira, 46–69, 2024. https://doi.org/10.1201/9781003403890-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Pessoa Sofia 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nadais_mariana"><b>Nadais</b> Mariana</a>, <a href="../../../author/cunha_p_rui"><b>Cunha</b> Rui</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nada_cunh_pess_delg.2026.EIEQTRTM/">Enhancing Indoor Environmental Quality Through Real-Time Monitoring:<br/>A Case Study of a 3D-Printed House</a></li>
   <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pess_luca_simo_guim.2025.HTia3PMWS/">Heat Transfer in a 3D-Printed Multilayer Wall System:<br/>An Experimental and Numerical Analysis</a></li>
   <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pess_jesu_rang_guim.2023.PSotAoTMi3PCW/">Preliminary Study of the Application of Thermal Mortar in 3D Printed Concrete Walls</a></li>

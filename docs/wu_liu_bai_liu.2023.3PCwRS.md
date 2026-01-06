@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiwen Wu, Chao Liu, Guoliang Bai, Huawei Liu, Yisheng Meng, Zhihui Wang
+    - footer
+title: Wu Yiwen, Liu Chao, Bai Guoliang, Liu Huawei, Meng Yisheng, Wang Zhihui
 description:
 tags:
  - axis
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete with Recycled Sand:<br/>:aca-blank: Pore-Structure and Triaxial Compression Properties ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105048" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105048</a>
+#3D Printed Concrete with Recycled Sand&nbsp;([2023-03](date/2023/03))
+<div class="h1-like">Pore-Structure and Triaxial Compression Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.105048" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105048" target="_blank">10.1016/j.cemconcomp.2023.105048</a>
 
--------------------------
+<a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/bai_guoliang"><b>Bai</b>&nbsp;Guoliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/meng_yisheng"><b>Meng</b>&nbsp;Yisheng</a></span>, <a href="../../../author/wang_zhihui"><b>Wang</b>&nbsp;Zhihui</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 139
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>
-,     <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meng_yisheng"><b>Meng</b> Yisheng</a>
-,     <a href="../../../author/wang_zhihui"><b>Wang</b> Zhihui</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 139, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20with%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151028218&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4361303852" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105048" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105048?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical properties and failure criteria of 3D printed concrete under triaxial compression are the basis of calculations for structural design. Incorporating recycled sand into 3D printed concrete can promote early structural formation and has significant environmental benefits. In this study, the pore structures of 3D printed recycled mortar (3DPRM) were characterized by MIP and X-CT tests. The triaxial mechanical properties in the Zdirection were measured at confining pressures of 0, 5, 10, and 15 MPa. The results showed that the incorporation of recycled sand increased the porosity and pore diameter of 3DPRM specimens in various diameter ranges but did not significantly change the sphericity and orientation of the pores. The crack development direction of 3DPRM specimens under triaxial compression depended on both the principal stress direction and the pore structure. The confining pressure increased the strength and compressive toughness of the 3DPRM specimens, and the sensitivity of the 3DPRM specimens to the confining pressure increased with increasing replacement rate. By analyzing the influence mechanism of recycled sand incorporation on 3DPRM strength, a dual deterioration hypothesis based on the pore structure and interface transition zone of 3DPRM was proposed, and the corresponding strength model was established.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hao_xiao_sun_xia.2022.TCo3PCWRFACPCM/">Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials</a></li>
@@ -91,8 +67,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_juanlan"><b>Zhou</b> Juanlan</a>, <a href="../../../author/shi_xiangwen"><b>Shi</b> Xiangwen</a>, <a href="../../../author/zheng_hongrun"><b>Zheng</b> Hongrun</a>, <a href="../../../author/jin_ruoyu"><b>Jin</b> Ruoyu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA/">Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates:<br/>Rheology, Strength, and Anisotropy</a></li>
@@ -119,4 +95,33 @@ tags:
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ibra_zijl_baba.2023.CSoLaFABBBiFRPC/">Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete:<br/>Rheological and Quasi-Static Mechanical Characteristics</a></li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sing_wang_zhou_sun.2023.UoATiFR3PC/">Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete:<br/>A Sustainable Approach for Construction Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_liu_bai_liu.2023.3PCwRS,
+      author            = "Yiwen Wu and Chao Liu and Guoliang Bai and Huawei Liu and Yisheng Meng and Zhihui Wang",
+      title             = "3D Printed Concrete with Recycled Sand: Pore-Structure and Triaxial Compression Properties",
+      doi               = "10.1016/j.cemconcomp.2023.105048",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "139",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wu, C. Liu, G. Bai, H. Liu, Y. Meng and Z. Wang, “3D Printed Concrete with Recycled Sand: Pore-Structure and Triaxial Compression Properties”, <i>Cement and Concrete Composites</i>, vol. 139, 2023, doi: 10.1016/j.cemconcomp.2023.105048.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Yiwen, Chao Liu, Guoliang Bai, Huawei Liu, Yisheng Meng, and Zhihui Wang. “3D Printed Concrete with Recycled Sand: Pore-Structure and Triaxial Compression Properties”. <i>Cement and Concrete Composites</i> 139 (2023). https://doi.org/10.1016/j.cemconcomp.2023.105048.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

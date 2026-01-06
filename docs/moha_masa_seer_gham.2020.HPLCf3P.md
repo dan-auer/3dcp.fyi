@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Malek Mohammad, Eyad Masad, Thomas Seers, Sami Ghamdi
+    - footer
+title: Mohammad Malek, Masad Eyad, Seers Thomas, Ghamdi Sami
 description:
 tags:
  - concrete
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} High-Performance Lightweight Concrete for 3D Printing ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_47" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_47</a>
+#High-Performance Lightweight Concrete for 3D Printing ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_47" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_47" target="_blank">10.1007/978-3-030-49916-7_47</a>
 
--------------------------
+<a href="../../../author/mohammad_malek"><b>Mohammad</b>&nbsp;Malek</a></span>, <a href="../../../author/masad_eyad"><b>Masad</b>&nbsp;Eyad</a></span>, <a href="../../../author/seers_thomas"><b>Seers</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7416-5153" title="ORCID: 0000-0002-7416-5153" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghamdi_g_sami"><b>al&nbsp;Ghamdi</b>&nbsp;Sami</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 459-467
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>
-,     <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>
-,     <a href="../../../author/seers_thomas"><b>Seers</b> Thomas</a>
-,     <a href="../../../author/ghamdi_g_sami"><b>al Ghamdi</b> Sami</a> <a href="https://orcid.org/0000-0002-7416-5153" title="ORCID: 0000-0002-7416-5153" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 459-467
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#light`](keyword/light)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=High-Performance%20Lightweight%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088261948&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,20 +35,16 @@ tags:
 <a href="https://inciteful.xyz/p/W3040881706" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_47" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_47?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this experimental study is to develop high strength, lightweight concrete mixture suitable for 3D printing in construction. This work investigates the effect of replacing normal aggregate either partially or totally with expanded perlite aggregate. This material allows for better thermal insulation properties, thus decreasing the energy usage within the life cycle of the concrete structure. Expanded perlite aggregate was used in concrete by 20 vol.-%, 40 vol.%, 60 vol.%, 80 vol.-% and 100 vol.-% in replacement of the natural aggregate. Material characterization tests of compressive strength, flexural strength, and thermal conductivity were carried out for six concrete mixtures. The proposed concrete mixture, which has 100% of expanded perlite aggregate achieved reduction percentage of thermal conductivity around 62% (0.69 W/mK) relative to normal weight concrete the mixture has a compressive strength of 42 MPa at 28 days. This mixture is appealing for 3D printing in 3D concrete printing as it reduces the environmental impact of the built environment by improving the thermal insulation and decreasing the energy consumption during building operation phase.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bajw_sama_flem_bao.2025.ASLRotTBoBECT3CP3/">A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP)</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
@@ -84,4 +65,35 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../sunt_gath_upas_pool.2021.NSoFaEPoIL3PCWCiMBS/">Numerical Study of Fire and Energy Performance of Innovative Lightweight 3D Printed Concrete Wall-Configurations in Modular Building System</a></li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{moha_masa_seer_gham.2020.HPLCf3P,
+      author            = "Malek Mohammad and Eyad Masad and Thomas Seers and Sami G. Al Ghamdi",
+      title             = "High-Performance Lightweight Concrete for 3D Printing",
+      doi               = "10.1007/978-3-030-49916-7_47",
+      year              = "2020",
+      volume            = "28",
+      pages             = "459--467",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Mohammad, E. Masad, T. Seers and S. G. A. Ghamdi, “High-Performance Lightweight Concrete for 3D Printing”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 459–467. doi: 10.1007/978-3-030-49916-7_47.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mohammad, Malek, Eyad Masad, Thomas Seers, and Sami G. Al Ghamdi. “High-Performance Lightweight Concrete for 3D Printing”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:459–67, 2020. https://doi.org/10.1007/978-3-030-49916-7_47.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

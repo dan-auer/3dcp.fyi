@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seyed Ghaffar, Yazeed Noaimat, Mehdi Chougan, Mazen Kheetan
+    - footer
+title: Ghaffar Seyed, Noaimat Yazeed, Chougan Mehdi, Kheetan Mazen
 description:
 tags:
  - application
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Emerging Resources for the Development of Low-Carbon Cementitious Composites for 3D Printing Applications ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/b978-0-443-15672-4.00013-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-15672-4.00013-9</a>
+#Emerging Resources for the Development of Low-Carbon Cementitious Composites for 3D Printing Applications ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-15672-4.00013-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-15672-4.00013-9" target="_blank">10.1016/b978-0-443-15672-4.00013-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noaimat_afet-adnan_yazeed"><b>al&nbsp;Noaimat</b>&nbsp;Yazeed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kheetan_j_mazen"><b>al&nbsp;Kheetan</b>&nbsp;Mazen</a></span><br>
+Contribution - Sustainable Concrete Materials and Structures, pp. 371-397
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/noaimat_afet-adnan_yazeed"><b>al Noaimat</b> Yazeed</a> <a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kheetan_j_mazen"><b>al Kheetan</b> Mazen</a> <a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Sustainable Concrete Materials and Structures, pp. 371-397
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#development`](keyword/development)
-    [`#emergent`](keyword/emergent)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Emerging%20Resources%20for%20the%20Development%20of%20Low-Carbon%20Cementitious%20Composites%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202898589&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399679841" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-15672-4.00013-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-15672-4.00013-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing of low-carbon cementitious composites is becoming increasingly important in the construction sector, offering two-dimensional sustainability from both materials and technology standpoints. To address the pressing demand to lessen the negative consequences of the construction sector on the environment, it is essential to identify eco-friendly substitutes for traditional binders and natural aggregates. This involves exploring alternative binders and aggregates derived from industrial by-products, low-quality minerals, and end-of-life materials. This chapter provides essential information on alternative resources which have the potential to create low-carbon cementitious composites suitable for three-dimensional printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -108,7 +86,37 @@ tags:
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ghaf_noai_chou_khee.2024.ERftDoLCCCf3PA,
+      author            = "Seyed Hamidreza Ghaffar and Yazeed Afet Adnan Al Noaimat and Mehdi Chougan and Mazen J. al Kheetan",
+      title             = "Emerging Resources for the Development of Low-Carbon Cementitious Composites for 3D Printing Applications",
+      doi               = "10.1016/b978-0-443-15672-4.00013-9",
+      year              = "2024",
+      pages             = "371--397",
+      booktitle         = "Sustainable Concrete Materials and Structures",
+      editor            = "Ashraf Ashour and Xinyue Wang and Baoguo Han",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Ghaffar, Y. A. A. A. Noaimat, M. Chougan and M. J. al Kheetan, “Emerging Resources for the Development of Low-Carbon Cementitious Composites for 3D Printing Applications”, in <i>Sustainable Concrete Materials and Structures</i>,  2024, pp. 371–397. doi: 10.1016/b978-0-443-15672-4.00013-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghaffar, Seyed Hamidreza, Yazeed Afet Adnan Al Noaimat, Mehdi Chougan, and Mazen J. al Kheetan. “Emerging Resources for the Development of Low-Carbon Cementitious Composites for 3D Printing Applications”. In <i>Sustainable Concrete Materials and Structures</i>, edited by Ashraf Ashour, Xinyue Wang, and Baoguo Han, 371–97, 2024. https://doi.org/10.1016/b978-0-443-15672-4.00013-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

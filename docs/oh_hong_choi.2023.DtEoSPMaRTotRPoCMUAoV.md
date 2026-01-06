@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sangwoo Oh, Geuntae Hong, Seongcheol Choi
+    - footer
+title: Oh Sangwoo, Hong Geuntae, Choi Seongcheol
 description:
 tags:
  - analysis
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Determining the Effect of Superabsorbent Polymers, Macrofibers, and Resting Time on the Rheological Properties of Cement Mortar Using Analysis of Variance:<br/>:aca-blank: A 3D Printing Perspective ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.jobe.2023.106967" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106967</a>
+#Determining the Effect of Superabsorbent Polymers, Macrofibers, and Resting Time on the Rheological Properties of Cement Mortar Using Analysis of Variance&nbsp;([2023-05](date/2023/05))
+<div class="h1-like">A 3D Printing Perspective</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106967" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106967" target="_blank">10.1016/j.jobe.2023.106967</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-2874-9236" title="ORCID: 0009-0009-2874-9236" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oh_sangwoo"><b>Oh</b>&nbsp;Sangwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1020-036X" title="ORCID: 0000-0002-1020-036X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hong_geuntae"><b>Hong</b>&nbsp;Geuntae</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6450-2742" title="ORCID: 0000-0002-6450-2742" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/choi_seongcheol"><b>Choi</b>&nbsp;Seongcheol</a></span><br>
+Journal Article - Journal of Building Engineering, No. 106967
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a> <a href="https://orcid.org/0009-0009-2874-9236" title="ORCID: 0009-0009-2874-9236" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hong_geuntae"><b>Hong</b> Geuntae</a> <a href="https://orcid.org/0000-0002-1020-036X" title="ORCID: 0000-0002-1020-036X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="https://orcid.org/0000-0002-6450-2742" title="ORCID: 0000-0002-6450-2742" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 106967
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cement`](keyword/cement)
-    [`#determination`](keyword/determination)
-    [`#effect`](keyword/effect)
-    [`#mortar`](keyword/mortar)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rest`](keyword/rest)
-    [`#rheology`](keyword/rheology)
-    [`#time`](keyword/time)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rest"><button class="btn">#rest</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Determining%20the%20Effect%20of%20Superabsorbent%20Polymers%2C%20Macrofibers%2C%20and%20Resting%20Time%20on%20the%20Rheological%20Properties%20of%20Cement%20Mortar%20Using%20Analysis%20of%20Variance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85161037510&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4378839711" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106967" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106967?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to analyze the effect of SAP dosage, presence of macrofibers, and resting time on the rheological properties of cement mortar. Accordingly, we measured the static yield stress, equilibrium shear stress, thixotropic area, and nonlinearity (shear thinning/thickening) using a rheometer, and analysis of variance (ANOVA) was utilized to statistically analyze whether each factor (explanatory variable) has any effect on rheological properties (response variable) at the 95% confidence level. The results demonstrated that while equilibrium shear stress and thixotropic area are influenced by SAP dosage, presence of macrofibers, and resting time at a statistically significant level, static yield stress is influenced by SAP dosage and resting time. In contrast, material nonlinearity is only influenced by SAP dosage at a statistically significant level. In addition, statistical models for the rheological properties of cement mortar with SAP and macrofibers were proposed using only the factors selected by ANOVA. The prediction models were found to have a high R2 of more than 0.9 on average, excluding nonlinearity. The findings of this study can serve as basic data for determining suitable mixtures for 3D printing concrete incorporating SAP and macrofibers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
@@ -89,10 +65,39 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD/">A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mak_bunleang"><b>Mak</b> Bunleang</a>, <a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a>, <a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mak_kim_dong_shim.2025.CWIoRCBw3CPFUMP/">Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kim_oh_lee_dong.2025.Eo3PCPFotFBoRCB/">Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams:<br/>Experimental and Analytical Investigations</a></li>
       <li><a href="../../../author/rasel_islam_risul"><b>Rasel</b> Risul</a>, <a href="../../../author/hossain_minaz_md"><b>Hossain</b> Md</a>, <a href="../../../author/zubayer_hasib_md"><b>Zubayer</b> Md</a>, <a href="../../../author/zhang_chaoqun"><b>Zhang</b> Chaoqun</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../rase_hoss_zuba_zhan.2024.EtFaRPo3PCwFRC/">Exploring the Fresh and Rheology Properties of 3D Printed Concrete with Fiber-Reinforced Composites:<br/>A Novel Approach Using Machine Learning Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{oh_hong_choi.2023.DtEoSPMaRTotRPoCMUAoV,
+      author            = "Sangwoo Oh and Geuntae Hong and Seongcheol Choi",
+      title             = "Determining the Effect of Superabsorbent Polymers, Macrofibers, and Resting Time on the Rheological Properties of Cement Mortar Using Analysis of Variance: A 3D Printing Perspective",
+      doi               = "10.1016/j.jobe.2023.106967",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "106967",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Oh, G. Hong and S. Choi, “Determining the Effect of Superabsorbent Polymers, Macrofibers, and Resting Time on the Rheological Properties of Cement Mortar Using Analysis of Variance: A 3D Printing Perspective”, <i>Journal of Building Engineering</i>, p. 106967, 2023, doi: 10.1016/j.jobe.2023.106967.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oh, Sangwoo, Geuntae Hong, and Seongcheol Choi. “Determining the Effect of Superabsorbent Polymers, Macrofibers, and Resting Time on the Rheological Properties of Cement Mortar Using Analysis of Variance: A 3D Printing Perspective”. <i>Journal of Building Engineering</i>, 2023, 106967. https://doi.org/10.1016/j.jobe.2023.106967.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

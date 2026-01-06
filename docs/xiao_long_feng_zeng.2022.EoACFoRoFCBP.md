@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiyuan Xiao, Guangcheng Long, Ruiping Feng, Xiaohui Zeng, Rongzhen Dong, Yu Xiang, Kai Yang
+    - footer
+title: Xiao Qiyuan, Long Guangcheng, Feng Ruiping, Zeng Xiaohui, Dong Rongzhen, Xiang Yu, Yang Kai
 description:
 tags:
  - alteration
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Alternating Current Field on Rheology of Fresh Cement-Based-Pastes ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.jobe.2021.103771" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.103771</a>
+#Effect of Alternating Current Field on Rheology of Fresh Cement-Based-Pastes ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.103771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103771" target="_blank">10.1016/j.jobe.2021.103771</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5841-8915" title="ORCID: 0000-0002-5841-8915" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_qiyuan"><b>Xiao</b>&nbsp;Qiyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4765-9983" title="ORCID: 0000-0002-4765-9983" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_guangcheng"><b>Long</b>&nbsp;Guangcheng</a></span>, <a href="../../../author/feng_ruiping"><b>Feng</b>&nbsp;Ruiping</a></span>, <a href="../../../author/zeng_xiaohui"><b>Zeng</b>&nbsp;Xiaohui</a></span>, <a href="../../../author/dong_rongzhen"><b>Dong</b>&nbsp;Rongzhen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7521-0374" title="ORCID: 0000-0002-7521-0374" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiang_yu"><b>Xiang</b>&nbsp;Yu</a></span>, <a href="../../../author/yang_kai"><b>Yang</b>&nbsp;Kai</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 48
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xiao_qiyuan"><b>Xiao</b> Qiyuan</a> <a href="https://orcid.org/0000-0002-5841-8915" title="ORCID: 0000-0002-5841-8915" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/long_guangcheng"><b>Long</b> Guangcheng</a> <a href="https://orcid.org/0000-0002-4765-9983" title="ORCID: 0000-0002-4765-9983" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_ruiping"><b>Feng</b> Ruiping</a>
-,     <a href="../../../author/zeng_xiaohui"><b>Zeng</b> Xiaohui</a>
-,     <a href="../../../author/dong_rongzhen"><b>Dong</b> Rongzhen</a>
-,     <a href="../../../author/xiang_yu"><b>Xiang</b> Yu</a> <a href="https://orcid.org/0000-0002-7521-0374" title="ORCID: 0000-0002-7521-0374" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_kai"><b>Yang</b> Kai</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 48, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#alteration`](keyword/alteration)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#field`](keyword/field)
-    [`#fresh`](keyword/fresh)
-    [`#paste`](keyword/paste)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/alteration"><button class="btn">#alteration</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Alternating%20Current%20Field%20on%20Rheology%20of%20Fresh%20Cement-Based-Pastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121667689&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,21 +38,46 @@ tags:
 <a href="https://inciteful.xyz/p/W4200507924" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.103771" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.103771?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In order to further control the rheological properties of fresh cement-based pastes on demand, this paper investigated the influences of alternating current (AC) field on yield stress, plastic viscosity and thixotropic properties of fresh cement-based paste without or with mineral admixtures (including fly ash, granulated ground blast furnace slag and silica fume) by serials experiments and theoretical analysis. The results show that the yield stress greatly increased after 20min, the plastic viscosity and thixotropic area of fresh paste greatly increased after 10min with the action of applied AC field, and the rheological parameters changed more significantly with the AC voltage enlarged from 30V to 40V. Especially, the yield stress of paste increased exponentially with time under the action of AC field. The changes of the temperature of pastes were raised by the Joule heating generated by the AC field, which is the main reason for the rheology change of paste. This achievement will provide a new technical support to prevent the segregation and improve the stability of fresh concrete after casting by application of AC field.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../muth_rama_sanj.2020.EoMHoILBaBoG3CP/">Effect of Microwave-Heating on Inter-Layer Bonding and Buildability of Geopolymer 3D Concrete Printing</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xiao_long_feng_zeng.2022.EoACFoRoFCBP,
+      author            = "Qiyuan Xiao and Guangcheng Long and Ruiping Feng and Xiaohui Zeng and Rongzhen Dong and Yu Xiang and Kai Yang",
+      title             = "Effect of Alternating Current Field on Rheology of Fresh Cement-Based-Pastes",
+      doi               = "10.1016/j.jobe.2021.103771",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "48",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Xiao, “Effect of Alternating Current Field on Rheology of Fresh Cement-Based-Pastes”, <i>Journal of Building Engineering</i>, vol. 48, 2022, doi: 10.1016/j.jobe.2021.103771.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xiao, Qiyuan, Guangcheng Long, Ruiping Feng, Xiaohui Zeng, Rongzhen Dong, Yu Xiang, and Kai Yang. “Effect of Alternating Current Field on Rheology of Fresh Cement-Based-Pastes”. <i>Journal of Building Engineering</i> 48 (2022). https://doi.org/10.1016/j.jobe.2021.103771.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

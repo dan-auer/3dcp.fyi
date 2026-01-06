@@ -8,7 +8,7 @@ search:
 
 # #overhang
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/abdelaziz_mohamed"><b>Abdelaziz</b> Mohamed</a>, <a href="../../../author/vukorep_ilija"><b>Vukorep</b> Ilija</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../abde_vuko_mahd.2025.EE3PCOwIAHADSoRA/">Exploring Extreme 3D Printed Clay Overhangs with Integrated Active Hot Air Drying System on Robotic Arm</a></li>
   <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ting_tay_quah_tan.2024.SSMfOPi3CPT/">Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology</a></li>
   <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huan_xu_anto_dill.2024.SSL/">Self-Supporting Lamellae:<br/>Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures</a></li>

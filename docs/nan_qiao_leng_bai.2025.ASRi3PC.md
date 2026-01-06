@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bo Nan, Youxin Qiao, Junjie Leng, Yikui Bai
+    - footer
+title: Nan Bo, Qiao Youxin, Leng Junjie, Bai Yikui
 description:
 tags:
  - advance
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma18020252) Advancing Structural Reinforcement in 3D Printed Concrete:<br/>:aca-blank: Current Methods, Challenges, and Innovations ([2025-01](date/2025/01))
-<a href="https://doi.org/10.3390/ma18020252" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18020252</a>
+#Advancing Structural Reinforcement in 3D Printed Concrete&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Current Methods, Challenges, and Innovations</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma18020252) <a href="https://doi.org/10.3390/ma18020252" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18020252" target="_blank">10.3390/ma18020252</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9655-0485" title="ORCID: 0000-0001-9655-0485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nan_bo"><b>Nan</b>&nbsp;Bo</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-5087-3465" title="ORCID: 0009-0000-5087-3465" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qiao_youxin"><b>Qiao</b>&nbsp;Youxin</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-7796-0370" title="ORCID: 0009-0005-7796-0370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leng_junjie"><b>Leng</b>&nbsp;Junjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2700-5576" title="ORCID: 0000-0003-2700-5576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bai_yikui"><b>Bai</b>&nbsp;Yikui</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 2, No. 252
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nan_bo"><b>Nan</b> Bo</a> <a href="https://orcid.org/0000-0001-9655-0485" title="ORCID: 0000-0001-9655-0485" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a> <a href="https://orcid.org/0009-0000-5087-3465" title="ORCID: 0009-0000-5087-3465" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a> <a href="https://orcid.org/0009-0005-7796-0370" title="ORCID: 0009-0005-7796-0370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> <a href="https://orcid.org/0000-0003-2700-5576" title="ORCID: 0000-0003-2700-5576" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 2, No. 252
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#innovation`](keyword/innovation)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Structural%20Reinforcement%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215774506&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406169366" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18020252" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18020252?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With rapid global urbanization and economic development, 3D concrete printing (3DCP) technology has emerged as an innovative construction method, garnering increasing attention and application. Compared to traditional construction techniques, 3DCP not only reduces resource waste and carbon emissions during the building process but also significantly enhances construction efficiency, demonstrating considerable potential in the construction industry. As 3DCP advances from theoretical studies to real-world applications, providing stable and reliable structural reinforcement solutions becomes essential. This paper focuses on examining various methods to improve the performance of 3D-printed concrete (3DPC) structures. The analysis shows that reinforcement using steel bars, in combination with other materials (mainly fibers and nanomaterials), remains a key strategy for structural enhancement. By integrating diverse reinforcement methods, this study proposes an innovative bidirectional steel mesh layout scheme. Additionally, given the unique nature of 3DPC construction, a critical review of various methods for improving interface bonding strength is included. These findings aim to guide the engineering community in selecting suitable reinforcement solutions for 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "70 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a>, <a href="../../../author/al-rub_k_rashid"><b>Al-Rub</b> Rashid</a>, <a href="../../../author/khaswaneh_bashar"><b>Khaswaneh</b> Bashar</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ali_nass_alr_khas.2024.IoCNToPQaMPo3PCM/">Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
@@ -138,8 +117,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
       <li><a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b> Olexander</a>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b> Nina</a>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b> Stanislav</a>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b> Andrii</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P/">Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer</a></li>
@@ -151,4 +130,35 @@ tags:
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tarh_tarh_perr.2025.FPoGFTR3PC/">Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nan_qiao_leng_bai.2025.ASRi3PC,
+      author            = "Bo Nan and Youxin Qiao and Junjie Leng and Yikui Bai",
+      title             = "Advancing Structural Reinforcement in 3D Printed Concrete: Current Methods, Challenges, and Innovations",
+      doi               = "10.3390/ma18020252",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "2",
+      pages             = "252",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Nan, Y. Qiao, J. Leng and Y. Bai, “Advancing Structural Reinforcement in 3D Printed Concrete: Current Methods, Challenges, and Innovations”, <i>Materials</i>, vol. 18, no. 2, p. 252, 2025, doi: 10.3390/ma18020252.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nan, Bo, Youxin Qiao, Junjie Leng, and Yikui Bai. “Advancing Structural Reinforcement in 3D Printed Concrete: Current Methods, Challenges, and Innovations”. <i>Materials</i> 18, no. 2 (2025): 252. https://doi.org/10.3390/ma18020252.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

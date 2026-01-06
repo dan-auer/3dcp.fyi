@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Szymon Skibicki, Monika Pułtorak, Maria Kaszyńska, Marcin Hoffmann, Ewa Ekiert, Daniel Sibera
+    - footer
+title: Skibicki Szymon, Pułtorak Monika, Kaszyńska Maria, Hoffmann Marcin, Ekiert Ewa, Sibera Daniel
 description:
 tags:
  - aggregate
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127443" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127443</a>
+#The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127443" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127443" target="_blank">10.1016/j.conbuildmat.2022.127443</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8270-4412" title="ORCID: 0000-0001-8270-4412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pultorak_monika"><b>Pułtorak</b>&nbsp;Monika</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaszynska_maria"><b>Kaszyńska</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span>, <a href="../../../author/ekiert_ewa"><b>Ekiert</b>&nbsp;Ewa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibera_daniel"><b>Sibera</b>&nbsp;Daniel</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 335
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pultorak_monika"><b>Pułtorak</b> Monika</a> <a href="https://orcid.org/0000-0001-8270-4412" title="ORCID: 0000-0001-8270-4412" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a> <a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ekiert_ewa"><b>Ekiert</b> Ewa</a>
-,     <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> <a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 335, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#durability`](keyword/durability)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Using%20Recycled%20PET-Aggregates%20on%20Mechanical%20and%20Durability%20Properties%20of%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129540424&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224272643" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127443" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127443?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing technology of cementitious materials is challenging in many aspects. Despite the workability and mechanical properties of a mix and hardened concrete or mortar, the researchers need to face problems with environmental impact and durability of printed elements. Furthermore, today thousands of tons of waste are produced and natural aggregates which are most used resources by volume in the construction sector are on the verge of exhaustion. To date, limited knowledge about utilized of artificial aggregate (including Polyethylene terephthalate (PET) in 3D printed mortar is available. The main objective of this study is to develop 3D printed mortar with PET granules as the replacement of natural aggregate (10 vol-% to 50 vol-%). The paper contributes to knowledge of properties of 3D printed composites with plastic aggregate. Four printable mixes were made: one reference mix and three mixes in which natural aggregate was replaced by PET granulate in quantities amounting to 10%, 30% and 50% (by volume), respectively. The replacement ratios were chosen on the base of literature review for ordinary cementitious mortars. Several strength tests were carried out for standard and printed specimens. In addition, a freeze–thaw resistance test and high temperature performance test were conducted to evaluate to validate the properties of artificial aggregate. The results show that PET granulate is useful in 3D printing owing to their buildability and extrudability properties. Furthermore, printed mixes with high amount of PET (30% and 50%) granulate shows high decreases in strength (up to 75%). Unfortunately, after the freeze–thaw resistance test specimens with a high amount of PET granulate (30% and 50%) indicated high strength reduction (up to 80%). Exposure to a temperature exceeding the melting point of PET results in significant reduction of compressive strength for printed specimens (up to 68.8 % for 50 % PET addition). In addition, mixes with up to 10% PET can be used for most structural elements even under varying thermal conditions (even under extreme cold temperature).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "57 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -127,8 +103,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
       <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
@@ -167,4 +143,33 @@ tags:
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/khayatt_m_ahmed"><b>Khayatt</b> Ahmed</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../siko_tech_fede_khay.2022.IitMaDCo3PC/">Insight into the Microstructural and Durability Characteristics of 3D Printed Concrete:<br/>Cast versus Printed Specimens</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{skib_put_kasz_hoff.2022.TEoURPAoMaDPo3PM,
+      author            = "Szymon Skibicki and Monika Pułtorak and Maria Kaszyńska and Marcin Hoffmann and Ewa Ekiert and Daniel Sibera",
+      title             = "The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar",
+      doi               = "10.1016/j.conbuildmat.2022.127443",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "335",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Skibicki, M. Pułtorak, M. Kaszyńska, M. Hoffmann, E. Ekiert and D. Sibera, “The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar”, <i>Construction and Building Materials</i>, vol. 335, 2022, doi: 10.1016/j.conbuildmat.2022.127443.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skibicki, Szymon, Monika Pułtorak, Maria Kaszyńska, Marcin Hoffmann, Ewa Ekiert, and Daniel Sibera. “The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar”. <i>Construction and Building Materials</i> 335 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127443.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anton Becher, Szymon Gądek, Kinga Korniejenko
+    - footer
+title: Becher Anton, Gądek Szymon, Korniejenko Kinga
 description:
 tags:
  - application
@@ -11,26 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing with Geopolymers and Its Applications ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1201/9781003535683-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003535683-5</a>
+#3D Printing with Geopolymers and Its Applications ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003535683-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003535683-5" target="_blank">10.1201/9781003535683-5</a>
 
--------------------------
+<a href="../../../author/becher_frederik_anton"><b>Becher</b>&nbsp;Anton</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gadek_szymon"><b>Gądek</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korniejenko_kinga"><b>Korniejenko</b>&nbsp;Kinga</a></span><br>
+Contribution - Geopolymers and Composites, pp. 74-96
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>
-,     <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> <a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="https://orcid.org/0000-0002-8265-3982" title="ORCID: 0000-0002-8265-3982" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Geopolymers and Composites, pp. 74-96
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20Geopolymers%20and%20Its%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004337988&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409163489" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003535683-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003535683-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To meet current and future challenges in the construction industry, a new approach is needed. A possible solution for increasing efficiency and addressing environmental challenges is 3D printing technologies. This technology is the most possible option for widespread use in automated construction processes, but there are still many problems to be solved for their effective applications. One of the most important aspects is the connection with suitable material design. The main aim of this study is to show the current development of geopolymer materials for 3D printing technology. This chapter is based on a literature review that is supplemented by case studies. The main findings show that geopolymers could be effective materials for 3D printing technology for different applications in civil engineering as well as other areas. The usage of 3D printing can bring a number of benefits, including increasing work efficiency, enhancing safety, and reducing the impact on the environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
       <li><a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC/">A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete</a></li>
@@ -84,7 +68,37 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bech_gade_korn.2025.3PwGaIA,
+      author            = "Anton Frederik Becher and Szymon Gądek and Kinga Korniejenko",
+      title             = "3D Printing with Geopolymers and Its Applications",
+      doi               = "10.1201/9781003535683-5",
+      year              = "2025",
+      pages             = "74--96",
+      booktitle         = "Geopolymers and Composites",
+      editor            = "Huirong Le and Kaibo Wang and Longyuan Li",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. F. Becher, S. Gądek and K. Korniejenko, “3D Printing with Geopolymers and Its Applications”, in <i>Geopolymers and Composites</i>,  2025, pp. 74–96. doi: 10.1201/9781003535683-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Becher, Anton Frederik, Szymon Gądek, and Kinga Korniejenko. “3D Printing with Geopolymers and Its Applications”. In <i>Geopolymers and Composites</i>, edited by Huirong Le, Kaibo Wang, and Longyuan Li, 74–96, 2025. https://doi.org/10.1201/9781003535683-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weiqiang Wang, Nikolaos Konstantinidis, Simon Austin, Richard Buswell, Sergio Cavalaro, Domenico Cecinia
+    - footer
+title: Wang Weiqiang, Konstantinidis Nikolaos, Austin Simon, Buswell Richard, Cavalaro Sergio, Cecinia Domenico
 description:
 tags:
  - beam
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/articles/conference_contribution/Flexural_behaviour_of_AR-glass_textile_reinforced_3D_printed_concrete_beams/12196068/1/files/22422459.pdf) Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_73" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_73</a>
+#Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams ([2020-07](date/2020/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/conference_contribution/Flexural_behaviour_of_AR-glass_textile_reinforced_3D_printed_concrete_beams/12196068/1/files/22422459.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_73" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_73" target="_blank">10.1007/978-3-030-49916-7_73</a>
 
--------------------------
+<a href="../../../author/wang_weiqiang"><b>Wang</b>&nbsp;Weiqiang</a></span>, <a href="../../../author/konstantinidis_nikolaos"><b>Konstantinidis</b>&nbsp;Nikolaos</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/austin_a_simon"><b>Austin</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalaro_sergio"><b>Cavalaro</b>&nbsp;Sergio</a></span>, <a href="../../../author/cecinia_domenico"><b>Cecinia</b>&nbsp;Domenico</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 728-737
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_weiqiang"><b>Wang</b> Weiqiang</a>
-,     <a href="../../../author/konstantinidis_nikolaos"><b>Konstantinidis</b> Nikolaos</a>
-,     <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> <a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cecinia_domenico"><b>Cecinia</b> Domenico</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 728-737
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#flexural`](keyword/flexural)
-    [`#glass`](keyword/glass)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Behavior%20of%20AR-Glass-Textile-Reinforced%203D%20Printed%20Concrete%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088256194&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3020926834" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_73" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_73?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) enables automation of construction manufacturing through digital design and workflow, adding value through high degrees of form freedom. The process constraints during the printing, however, hamper the application of reinforcement and hence limit the ductile behaviour that is achievable in 3D printed concrete structures. Although a number of reinforcement strategies have been developed and these strategies can to some extent address these limitations, the reinforcement challenges of 3D printed concrete structures are not satisfactorily addressed yet. This paper proposes another reinforcement strategy of incorporating alkali-resistant (AR)-glass textile between the printed concrete layers. To validate the strategy, small-scale printed concrete beam specimens reinforced with one to three layers of textiles were tested under three-point bending. The results were compared to those obtained from equivalent ‘cast’ specimens. Comparable flexural behaviours were observed between the cast and printed textile reinforced concrete (TRC) specimens. Moreover, the flexural behaviours of printed specimens exhibited lower scatter than the flexural behaviours of cast specimens, which was probably due to the precise digitally controlled printing process. Future research should focus on the application of textile reinforcement in more complex 3D printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -76,8 +52,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/liu_xingzi"><b>Liu</b> Xingzi</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_xu_dobr_kola.2025.FAtFPoR3PCB/">Factors Affecting the Flexural Performance of Reinforced 3D Printed Concrete Beams</a></li>
       <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
@@ -106,4 +82,35 @@ tags:
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../tarh_crav_bart.2023.AESfR3CPC/">An Effective Solution for Reinforcing 3D Concrete Printable Composites</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wang_kons_aust_busw.2020.FBoAGTR3PCB,
+      author            = "Weiqiang Wang and Nikolaos Konstantinidis and Simon A. Austin and Richard A. Buswell and Sergio Cavalaro and Domenico Cecinia",
+      title             = "Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams",
+      doi               = "10.1007/978-3-030-49916-7_73",
+      year              = "2020",
+      volume            = "28",
+      pages             = "728--737",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Wang, N. Konstantinidis, S. A. Austin, R. A. Buswell, S. Cavalaro and D. Cecinia, “Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 728–737. doi: 10.1007/978-3-030-49916-7_73.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Weiqiang, Nikolaos Konstantinidis, Simon A. Austin, Richard A. Buswell, Sergio Cavalaro, and Domenico Cecinia. “Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:728–37, 2020. https://doi.org/10.1007/978-3-030-49916-7_73.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

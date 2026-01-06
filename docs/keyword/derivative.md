@@ -8,7 +8,7 @@ search:
 
 # #derivative
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
   <li><a href="../../../author/avsar_e_yunus"><b>Avşar</b> Yunus</a>, <a href="../../../author/uysal_mucteba"><b>Uysal</b> Mücteba</a>, <a href="../../../author/akca_h_abdullah"><b>Akca</b> Abdullah</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../avsa_uysa_akca.2025.Io3PPoMDBbCCiHS/">Improvement of 3D Printing Properties of MgO Derived Binders by CO2 Curing in Hardened State</a></li>
   <li><a href="../../../author/sun_yifan"><b>Sun</b> Yifan</a>, <a href="../../../author/ma_siqi"><b>Ma</b> Siqi</a>, <a href="../../../author/chen_qingze"><b>Chen</b> Qingze</a>, <a href="../../../author/chen_guoliang"><b>Chen</b> Guoliang</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sun_ma_chen_chen.2025.LRSD3PGwOMaTMP/">Lunar Regolith Simulant-Derived 3D-Printed Geopolymers with Optimized Mechanical and Thermal Management Properties</a></li>

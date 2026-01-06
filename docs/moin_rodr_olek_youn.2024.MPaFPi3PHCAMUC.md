@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamadreza Moini, Fabian Rodriguez, Jan Olek, Jeffrey Youngblood, Pablo Zavattieri
+    - footer
+title: Moini Mohamadreza, Rodriguez Fabian, Olek Jan, Youngblood Jeffrey, Zavattieri Pablo
 description:
 tags:
  - architecture
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1617/s11527-024-02437-4) Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1617/s11527-024-02437-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-024-02437-4</a>
+#Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1617/s11527-024-02437-4) <a href="https://doi.org/10.1617/s11527-024-02437-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-024-02437-4" target="_blank">10.1617/s11527-024-02437-4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b>&nbsp;Fabian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span><br>
+Journal Article - Materials and Structures, Vol. 57, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a> <a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 57, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#cement`](keyword/cement)
-    [`#compression`](keyword/compression)
-    [`#fracture`](keyword/fracture)
-    [`#helical`](keyword/helical)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/helical"><button class="btn">#helical</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Fracture%20Phenomena%20in%203D%20Printed%20Helical%20Cementitious%20Architected%20Materials%20Under%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201720885&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401761174" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-024-02437-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-024-02437-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical response and fracture behavior of two architected 3D-printed hardened cement paste (hcp) elements, ‘lamellar’ and ‘Bouligand’, were investigated under uniaxial compression. A lab-based X-ray microscope was used to characterize the post-fracture crack pattern. The mechanical properties and crack patterns were analyzed and compared to cast hcp. The role of materials architecture and 3D-printing-induced weak interfaces on the mechanical properties and fracture behavior are discussed. The pore architecture that inadvertently forms in the design of solid architected materials dictated the overall mechanical response and fracture behaviors in both 3D-printed architected materials. While no specific crack pattern or microcracking was observed in the cast element, lamellar architecture demonstrated a crack pattern following weak vertical interfaces. Bouligand architectures, on the other hand, exhibited a helical crack pattern with distributed interfacial microcracking aligned with the helical orientation of filaments. As a result, the bouligand architected elements showed a significant 40% increase in work-of-failure compared to cast counterparts. The enhanced energy absorption was obtained without sacrificing the strength and was attributed to higher fractured surface and microcracking, both of which follow the weak helical interfaces.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
@@ -104,9 +80,39 @@ tags:
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../xu_zhan_schl_luko.2020.CCCwAB/">Cementitious Cellular Composites with Auxetic Behavior</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../paul_lee_tay_lim.2026.UtSPo3CPwLAaSCC/">Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lori_mehr.2024.MPaCDMi3PPGwCS/">Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC,
+      author            = "Mohamadreza Moini and Fabian B. Rodriguez and Jan Olek and Jeffrey P. Youngblood and Pablo D. Zavattieri",
+      title             = "Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression",
+      doi               = "10.1617/s11527-024-02437-4",
+      year              = "2024",
+      journal           = "Materials and Structures",
+      volume            = "57",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Moini, F. B. Rodriguez, J. Olek, J. P. Youngblood and P. D. Zavattieri, “Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression”, <i>Materials and Structures</i>, vol. 57, no. 7, 2024, doi: 10.1617/s11527-024-02437-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moini, Mohamadreza, Fabian B. Rodriguez, Jan Olek, Jeffrey P. Youngblood, and Pablo D. Zavattieri. “Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression”. <i>Materials and Structures</i> 57, no. 7 (2024). https://doi.org/10.1617/s11527-024-02437-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xin Ning, Tong Liu, Chunlin Wu, Chao Wang
+    - footer
+title: Ning Xin, Liu Tong, Wu Chunlin, Wang Chao
 description:
 tags:
  - construction
@@ -12,28 +13,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://downloads.hindawi.com/journals/ace/2021/6665333.pdf) 3D Printing in Construction:<br/>:aca-blank: Current Status, Implementation Hindrances, and Development Agenda ([2021-04](date/2021/04))
-<a href="https://doi.org/10.1155/2021/6665333" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1155/2021/6665333</a>
+#3D Printing in Construction&nbsp;([2021-04](date/2021/04))
+<div class="h1-like">Current Status, Implementation Hindrances, and Development Agenda</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://downloads.hindawi.com/journals/ace/2021/6665333.pdf) <a href="https://doi.org/10.1155/2021/6665333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2021/6665333" target="_blank">10.1155/2021/6665333</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6547-9812" title="ORCID: 0000-0002-6547-9812" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ning_xin"><b>Ning</b>&nbsp;Xin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3132-8589" title="ORCID: 0000-0003-3132-8589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_tong"><b>Liu</b>&nbsp;Tong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4577-2859" title="ORCID: 0000-0003-4577-2859" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chunlin"><b>Wu</b>&nbsp;Chunlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9322-7778" title="ORCID: 0000-0002-9322-7778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chao"><b>Wang</b>&nbsp;Chao</a></span><br>
+Journal Article - Advances in Civil Engineering, Vol. 2021, pp. 1-12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ning_xin"><b>Ning</b> Xin</a> <a href="https://orcid.org/0000-0002-6547-9812" title="ORCID: 0000-0002-6547-9812" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_tong"><b>Liu</b> Tong</a> <a href="https://orcid.org/0000-0003-3132-8589" title="ORCID: 0000-0003-3132-8589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_chunlin"><b>Wu</b> Chunlin</a> <a href="https://orcid.org/0000-0003-4577-2859" title="ORCID: 0000-0003-4577-2859" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_chao"><b>Wang</b> Chao</a> <a href="https://orcid.org/0000-0002-9322-7778" title="ORCID: 0000-0002-9322-7778" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Civil Engineering, Vol. 2021, pp. 1-12
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#implementation`](keyword/implementation)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104427989&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3146570358" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1155/2021/6665333" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1155/2021/6665333?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (3DP) is regarded as an innovation that contributes to automation in civil engineering and offers benefits in design, greenness, and efficiency. It is necessary to objectively analyze the current status and challenges associated with 3DP and identify future research directions to properly understand its construction applications. Previous research has focused more on the technical dimension of 3DP; however, the nontechnical dimension of the technology may hinder its implementation and thus must be paid particular attention to. This study presents a systematic review of the existing literature from both technical and nontechnical dimensions by combining quantitative and qualitative studies. The quantitative study was conducted using scientometric methods. The qualitative study analyzed information, including the technical research status and nontechnical challenges and trends. Two aspects oftechnical research status are presented, including materials and processes. In addition, nontechnical challenges and trends from the economic, environmental, social, and legislative aspects are proposed. This study provides a comprehensive agenda to advance 3DP in construction and proposes research interests, challenges, and future topics. It is intended to help construction practitioners systematically master existing processes and materials and assess the application degree and necessity of 3DP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
@@ -109,8 +92,8 @@ tags:
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
@@ -129,4 +112,34 @@ tags:
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/hoogeveen_j_maartje"><b>Hoogeveen</b> Maartje</a>, <a href="../../../author/bruurs_j-a-m_marijn"><b>Bruurs</b> Marijn</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../putt_hoog_bruu_laag.2022.3S/">3DCP Structures:<br/>The Roadmap to Standardization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ning_liu_wu_wang.2021.3PiC,
+      author            = "Xin Ning and Tong Liu and Chunlin Wu and Chao Wang",
+      title             = "3D Printing in Construction: Current Status, Implementation Hindrances, and Development Agenda",
+      doi               = "10.1155/2021/6665333",
+      year              = "2021",
+      journal           = "Advances in Civil Engineering",
+      volume            = "2021",
+      pages             = "1--12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Ning, T. Liu, C. Wu and C. Wang, “3D Printing in Construction: Current Status, Implementation Hindrances, and Development Agenda”, <i>Advances in Civil Engineering</i>, vol. 2021, pp. 1–12, 2021, doi: 10.1155/2021/6665333.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ning, Xin, Tong Liu, Chunlin Wu, and Chao Wang. “3D Printing in Construction: Current Status, Implementation Hindrances, and Development Agenda”. <i>Advances in Civil Engineering</i> 2021 (2021): 1–12. https://doi.org/10.1155/2021/6665333.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

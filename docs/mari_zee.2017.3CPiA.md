@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marjolein Marijnissen, Aant Zee
+    - footer
+title: Marijnissen Marjolein, Zee Aant
 description:
 tags:
  - architecture
@@ -13,27 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/ecaade2017_087.pdf) 3D Concrete Printing in Architecture:<br/>:aca-blank: A Research on the Potential Benefits of 3D Concrete Printing in Architecture ([2017-09](date/2017/09))
-<a href="https://doi.org/10.52842/conf.ecaade.2017.2.299" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.ecaade.2017.2.299</a>
+#3D Concrete Printing in Architecture&nbsp;([2017-09](date/2017/09))
+<div class="h1-like">A Research on the Potential Benefits of 3D Concrete Printing in Architecture</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2017_087.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2017.2.299" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2017.2.299" target="_blank">10.52842/conf.ecaade.2017.2.299</a>
 
--------------------------
+<a href="../../../author/marijnissen_pam_marjolein"><b>Marijnissen</b>&nbsp;Marjolein</a></span>, <a href="../../../author/zee_aant"><b>van der&nbsp;Zee</b>&nbsp;Aant</a></span><br>
+Contribution - Proceedings of the 35th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 299-308
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/marijnissen_pam_marjolein"><b>Marijnissen</b> Marjolein</a>
-,     <a href="../../../author/zee_aant"><b>van der Zee</b> Aant</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 35th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 299-308
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#benefit`](keyword/benefit)
-    [`#concrete`](keyword/concrete)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127928372&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,24 +36,20 @@ tags:
 <a href="https://inciteful.xyz/p/W4301625678" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.ecaade.2017.2.299" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.ecaade.2017.2.299?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research explores the use of large-scale 3D Printing techniques in architecture and structural design. First we will analyse the various methods in large-scale 3D printing in order to choose the method with the most potential to be used to build large-scale residential buildings in the Netherlands. Then we will investigate the properties of this 3D printing technique to determine the new building process, related to building with a 3D Concrete Printer. The freedom in movement of the printer and the properties of the concrete mixture used to print will form the guidelines in the creation of a design language in which both material costs and labour costs are reduced to a minimum. The design language is later applied on the design of a house, which shows the impact 3D Concrete Printing should have on the current boundaries in architecture and structural design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
       <li><a href="../../../author/li_yuhan"><b>Li</b> Yuhan</a>, <a href="../../../author/rian_md_iasef"><b>Rian</b> Iasef</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a>, <a href="../../../author/tang_shu"><b>Tang</b> Shu</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_rian_chen_tang.2025.AoFCf3CPoPPP/">Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels</a></li>
       <li><a href="../../../author/li_yuhan"><b>Li</b> Yuhan</a>, <a href="../../../author/rian_md_iasef"><b>Rian</b> Iasef</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a>, <a href="../../../author/tang_shu"><b>Tang</b> Shu</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_rian_chen_tang.2025.AoFCf3CPoPPPb/">Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels</a></li>
@@ -81,4 +65,34 @@ tags:
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mari_zee.2017.3CPiA,
+      author            = "Marjolein P.A.M. Marijnissen and Aant van der Zee",
+      title             = "3D Concrete Printing in Architecture: A Research on the Potential Benefits of 3D Concrete Printing in Architecture",
+      doi               = "10.52842/conf.ecaade.2017.2.299",
+      year              = "2017",
+      pages             = "299--308",
+      booktitle         = "Proceedings of the 35th International Conference on Education and Research in Computer Aided Architectural Design in Europe: ShoCK!: Sharing Computational Knowledge!",
+      editor            = "A. Fioravanti and S. Cursi and S. Elahmar and S. Gargaro and G. Loffreda and G. Novembri and A. Trento",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. A. M. Marijnissen  and A. van der Zee, “3D Concrete Printing in Architecture: A Research on the Potential Benefits of 3D Concrete Printing in Architecture”, in <i>Proceedings of the 35th International Conference on Education and Research in Computer Aided Architectural Design in Europe: ShoCK!: Sharing Computational Knowledge!</i>,  2017, pp. 299–308. doi: 10.52842/conf.ecaade.2017.2.299.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Marijnissen, Marjolein P.A.M., and Aant van der Zee. “3D Concrete Printing in Architecture: A Research on the Potential Benefits of 3D Concrete Printing in Architecture”. In <i>Proceedings of the 35th International Conference on Education and Research in Computer Aided Architectural Design in Europe: ShoCK!: Sharing Computational Knowledge!</i>, edited by A. Fioravanti, S. Cursi, S. Elahmar, S. Gargaro, G. Loffreda, G. Novembri, and A. Trento, 299–308, 2017. https://doi.org/10.52842/conf.ecaade.2017.2.299.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

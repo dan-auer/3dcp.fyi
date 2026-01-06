@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Li Leo 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_zhan_kwan.2025.ES3P/">Exploring Submarine 3D Printing:<br/>Enhancing Washout-Resistance and Strength of 3D Printable Mortar</a></li>
   <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/pan_jiahui"><b>Pan</b> Jiahui</a>, <a href="../../../author/hee_sheng_yu"><b>Hee</b> Yu</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP/">Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>

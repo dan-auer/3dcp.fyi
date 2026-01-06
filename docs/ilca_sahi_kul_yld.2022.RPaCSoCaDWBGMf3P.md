@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hüseyin İlcan, Oğuzhan Şahin, Anil Kul, Gürkan Yıldırım, Mustafa Şahmaran
+    - footer
+title: İlcan Hüseyin, Şahin Oğuzhan, Kul Anil, Yıldırım Gürkan, Şahmaran Mustafa
 description:
 tags:
  - base
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127114" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127114</a>
+#Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing ([2022-03](date/2022/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127114" target="_blank">10.1016/j.conbuildmat.2022.127114</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kul_anil"><b>Kul</b>&nbsp;Anil</a></span>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b>&nbsp;Gürkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 328
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> <a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 328, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#compression`](keyword/compression)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Properties%20and%20Compressive%20Strength%20of%20Construction%20and%20Demolition%20Waste-Based%20Geopolymer%20Mortars%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126325078&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220979213" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127114" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127114?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Entirely construction and demolition waste (CDW)-based ambient-cured geopolymer mortars with rheological properties fitted for 3-dimensional additive manufacturing (3D-AM) were developed in an effort to combine the advantages of improved waste minimization, development of green materials and easy/fast/accurate materials production/processing. CDW-based hollow brick (HB), red clay brick (RCB), roof tile (RT), concrete rubble (C), and glass (G) were used for the development of geopolymer binders while C was used solely as fine aggregates. Mixtures were activated by different combinations of sodium hydroxide (NaOH), calcium hydroxide (Ca(OH)2), and sodium silicate (Na2SiO3) as the alkaline activators. Rheological assessments were made based on the empirical test methods including flow table, vane shear and modified mini-slump tests. Compressive strength measurements were also made. Finally, two representative mortar mixtures with low and high viscosity were printed via a laboratory-scale 3D printer and the rheological properties were correlated with printing behavior of geopolymer mortars. Overall, the study showed that entirely CDW-based geopolymer mortars without any chemical admixtures having suitable rheological properties for 3D-AM can be manufactured successfully. The empirical test methods utilized are adequate in determining the rheological properties of CDW-based geopolymer mortars suited for use in 3D-AM. The designed entirely CDW-based geopolymer mortars with adequate compressive strengths were shown to be capable of extrusion via 3D-AM free of any defects/discontinuity, capable of maintaining its initial shape under the effect of the weight of consecutive upper layers and fully matched with the designed printed structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/annapareddy_ashokreddy"><b>Annapareddy</b> Ashokreddy</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../anna_pand_ting_li.2018.FAMPo3PCMWRGA/">Flow And Mechanical Properties of 3D Printed Cementitious Material With Recycled Glass-Aggregates</a></li>
@@ -99,8 +73,9 @@ tags:
       <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/atesli_tolga_anil"><b>Ateşli</b> Anıl</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sahi_ilca_ates_kul.2021.CaDWBGSfUi3AM/">Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "64 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
@@ -165,4 +140,33 @@ tags:
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/kesek_rafal"><b>Kęsek</b> Rafał</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hage_maro_mroz_kese.2022.ILBSTi3PMMfCA/">Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications</a></li>
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P,
+      author            = "Hüseyin İlcan and Oğuzhan Şahin and Anil Kul and Gürkan Yıldırım and Mustafa Şahmaran",
+      title             = "Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2022.127114",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "328",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. İlcan, O. Şahin, A. Kul, G. Yıldırım and M. Şahmaran, “Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing”, <i>Construction and Building Materials</i>, vol. 328, 2022, doi: 10.1016/j.conbuildmat.2022.127114.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">İlcan, Hüseyin, Oğuzhan Şahin, Anil Kul, Gürkan Yıldırım, and Mustafa Şahmaran. “Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing”. <i>Construction and Building Materials</i> 328 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127114.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

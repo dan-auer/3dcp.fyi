@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Farhad Aslani, Ryan Dale, Fatemeh Hamidi, Afsaneh Valizadeh
+    - footer
+title: Aslani Farhad, Dale Ryan, Hamidi Fatemeh, Valizadeh Afsaneh
 description:
 tags:
  - cement
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127665" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127665</a>
+#Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127665" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127665" target="_blank">10.1016/j.conbuildmat.2022.127665</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <a href="../../../author/dale_ryan"><b>Dale</b>&nbsp;Ryan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5563-8613" title="ORCID: 0000-0002-5563-8613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamidi_fatemeh"><b>Hamidi</b>&nbsp;Fatemeh</a></span>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b>&nbsp;Afsaneh</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 339
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>
-,     <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a> <a href="https://orcid.org/0000-0002-5563-8613" title="ORCID: 0000-0002-5563-8613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 339, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Shrinkage%20Performance%20of%203D%20Printed%20Rubberised%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129697458&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4229042425" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127665" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127665?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Taking the advantages of 3D concrete printing (3DCP) and tackling the environmental issues related to the waste tires, current paper evaluates the material behaviour of rubberised engineered cementitious composites (ECC) using waste crumb rubber (CR) aggregates and polyvinyl alcohol (PVA) fibres, manufactured through 3DCP. To elaborate on the role of PVA fibres on the material properties, two different control mix designs were prepared through conventional mould-casting method, including control mix design without PVA fibres and ECC with PVA fibres equal to 1.75 vol% of binder. Thereafter, using the control ECC mix design, four mix designs containing 5, 10, 15, and 20% CR aggregates as replacement of fly ash, were prepared to assess the effect of CR on the mechanical performance of ECC. The prepared mix designs were subjected to compressive and flexural strengths, and shrinkage tests, and the rubberised ECC containing 5% CR was selected for 3DCP as it revealed superior compressive, flexural and shrinkage behaviour. Results obtained for 3D-printed specimens confirmed the dominant role of anisotropy on the material performance, which was very pronounced for flexural behaviour of printed elements. Comparing to the samples loaded in perpendicular direction, loading in the parallel direction to the fibre orientation (X direction) led to 3 and 4% higher 7- and 28-day compressive strengths, and loading parallel to the fibre alignment along the longitudinal axis of the specimen (Z direction) resulted in 104% and 47% increase in the 7- and 28-day flexural strengths, respectively. Moreover, printed specimens in the fibre-parallel direction showed 37% less drying shrinkage comparing to those printed in the perpendicular direction. Additionally, 3D-printed elements represent superior performance in terms of compressive strength, ductile characteristics, flexural behaviour, and shrinkage performance over the mould-casted ones.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
@@ -77,8 +56,8 @@ tags:
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/lu_jenny"><b>Lu</b> Jenny</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sun_asla_lu_wang.2021.FRLECCf3CP/">Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/song_qiang"><b>Song</b> Qiang</a>, <a href="../../../author/zhou_guangyu"><b>Zhou</b> Guangyu</a>, <a href="../../../author/bao_hailing"><b>Bao</b> Hailing</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../song_zhou_bao_liu.2025.SotEoNPCMaVDotPaMPot3PCM/">Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -119,4 +98,33 @@ tags:
       <li><a href="../../../author/lv_chun"><b>Lv</b> Chun</a>, <a href="../../../author/shen_hongtao"><b>Shen</b> Hongtao</a>, <a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/wu_dan"><b>Wu</b> Dan</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../lv_shen_liu_wu.2022.Po3PFRGBoILBaA/">Properties of 3D Printing Fiber-Reinforced Geopolymers Based on Inter-Layer Bonding and Anisotropy</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/setunge_sujeeva"><b>Setunge</b> Sujeeva</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_setu_tran.2022.3CPwCCRCR/">3D Concrete Printing with Cement-Coated Recycled Crumb Rubber:<br/>Compressive and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{asla_dale_hami_vali.2022.MaSPo3PRECC,
+      author            = "Farhad Aslani and Ryan Dale and Fatemeh Hamidi and Afsaneh Valizadeh",
+      title             = "Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites",
+      doi               = "10.1016/j.conbuildmat.2022.127665",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "339",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Aslani, R. Dale, F. Hamidi and A. Valizadeh, “Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites”, <i>Construction and Building Materials</i>, vol. 339, 2022, doi: 10.1016/j.conbuildmat.2022.127665.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aslani, Farhad, Ryan Dale, Fatemeh Hamidi, and Afsaneh Valizadeh. “Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites”. <i>Construction and Building Materials</i> 339 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127665.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

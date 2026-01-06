@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hugo Varela, Gonzalo Barluenga, Arnaud Perrot
+    - footer
+title: Varela Hugo, Barluenga Gonzalo, Perrot Arnaud
 description:
 tags:
  - ash
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2023.105217) Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105217" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105217</a>
+#Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.105217) <a href="https://doi.org/10.1016/j.cemconcomp.2023.105217" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105217" target="_blank">10.1016/j.cemconcomp.2023.105217</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varela_hugo"><b>Varela</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barluenga_gonzalo"><b>Barluenga</b>&nbsp;Gonzalo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105217
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> <a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105217
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#extrusion`](keyword/extrusion)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrusion%20and%20Structural%20Build-Up%20of%203D%20Printing%20Cement-Pastes%20with%20Fly-Ash%2C%20Nano-Clay%20and%20VMAs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165532971&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4384936862" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105217" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105217?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology (3DP) has provided new design and structural opportunities for cement-based systems (CBS) in architectural construction. However, there are still some issues related to extrudability and buildability of CBS, which can be overcome by using components for CBS rheology control. In this study, three types of nanoclays, a bentonite (BEN), a sepiolite (SEP) and an attapulgite (ATT), and two viscosity modifying admixtures (VMAs), a poly-acrylamide (VMA1) and a methylcellulose ether (VMA2), were added to a reference cement-fly ash 3D printing paste to evaluate their impact on CBS rheological properties and their implications in extrusion and buildability for 3DP. A polycarboxylate-ether based high range water-reducing admixture (HRWRA) was used to reach a target stiff consistency. Four laboratory tests were used to assess paste rheology, extrusion and structural build-up. Proper and deficient material extrusion limits were defined considering cohesion and initial yield stress. It was found that the combination of VMA2 and SEP increased cohesion, enhancing extrusion and avoiding water drainage and frictional behavior of pastes, producing properly extrudable paste. SEP by itself also improved structural build-up. Besides, samples with NC and VMAs required larger amounts of HRWRA, delaying cement setting and compressive strength gain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
@@ -92,8 +71,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/marquez_alvaro"><b>Marquez</b> Alvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
@@ -119,7 +98,34 @@ tags:
       <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a></li>
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/dominicus_randy"><b>Dominicus</b> Randy</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../sun_domi_dong_li.2024.PtSDo3PCCtSEoCTaH/">Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity:<br/>From Perspective of Modified Maturity-Model</a></li>
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
-      <li><a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>, <a href="../../../author/woods_ruth"><b>Woods</b> Ruth</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../olss_aric_wood_madr.2021.I40iaPC/">Industry 4.0 in a Project Context:<br/>Introducing 3D Printing in Construction Projects</a></li>
-      <li><a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/shafqat_ali"><b>Shafqat</b> Ali</a>, <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>, <a href="../../../author/okland_andreas"><b>Økland</b> Andreas</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../olss_shaf_aric_kla.2019.3PTiC/">3D Printing Technology in Construction:<br/>Results from a Survey</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vare_barl_perr.2023.EaSBUo3PCPwFANCaV,
+      author            = "Hugo Varela and Gonzalo Barluenga and Arnaud Perrot",
+      title             = "Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs",
+      doi               = "10.1016/j.cemconcomp.2023.105217",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105217",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Varela, G. Barluenga and A. Perrot, “Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs”, <i>Cement and Concrete Composites</i>, p. 105217, 2023, doi: 10.1016/j.cemconcomp.2023.105217.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Varela, Hugo, Gonzalo Barluenga, and Arnaud Perrot. “Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs”. <i>Cement and Concrete Composites</i>, 2023, 105217. https://doi.org/10.1016/j.cemconcomp.2023.105217.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

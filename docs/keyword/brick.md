@@ -8,7 +8,8 @@ search:
 
 # #brick
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
   <li><a href="../../../author/ma_jinyi"><b>Ma</b> Jinyi</a>, <a href="../../../author/zhang_haiyan"><b>Zhang</b> Haiyan</a>, <a href="../../../author/wang_yanzhi"><b>Wang</b> Yanzhi</a>, <a href="../../../author/xiong_lu"><b>Xiong</b> Lu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ma_zhan_wang_xion.2025.EoCBPaRFAoPo3PCAHTE/">Effect of Clay Brick Powder and Recycled Fine Aggregates on Properties of 3D Printed Concrete After High Temperature Exposure</a></li>
   <li><a href="../../../author/saad_e"><b>Saad</b> E.</a>, <a href="../../../author/correa_david"><b>Correa</b> David</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../saad_corr.2025.TPIoBDv3P/">Thermal Performance Improvement of Brick Design via 3D Printing</a></li>
   <li><a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/sieh_alexander"><b>Sieh</b> Alexander</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../radl_pfle_sieh_vill.2025.CDaPoa3PCBBwEoITP/">Conceptual Design and Production of a 3D Printed Concrete Base Brick with Evaluation of Its Thermal Properties</a></li>

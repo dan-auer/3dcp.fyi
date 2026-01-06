@@ -8,7 +8,7 @@ search:
 
 # #coat
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kuang_hao"><b>Kuang</b> Hao</a>, <a href="../../../author/deng_yang"><b>Deng</b> Yang</a>, <a href="../../../author/wang_dong"><b>Wang</b> Dong</a>, <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kuan_deng_wang_jian.2025.SEoISSUCPARCoSB3PC/">Strengthening Effect of In-Situ Sprayed UV-Curable Polyurethane-Acrylate Resin Coating on Slag-Based 3D Printing Concrete</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../siko_skib_chou_szew.2025.SCAoBaGOf3PCA/">Silica-Coated Admixtures of Bismuth and Gadolinium Oxides for 3D Printed Concrete Applications:<br/>Rheology, Hydration, Strength, Microstructure, and Radiation Shielding Perspective</a></li>
   <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/chen_dongjian"><b>Chen</b> Dongjian</a>, <a href="../../../author/liu_shiyuan"><b>Liu</b> Shiyuan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF/">Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam</a></li>

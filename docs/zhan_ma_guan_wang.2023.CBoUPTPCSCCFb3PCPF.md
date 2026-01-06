@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dan Zhang, Guowei Ma, Jingyuan Guan, Li Wang, Qiang Wang
+    - footer
+title: Zhang Dan, Ma Guowei, Guan Jingyuan, Wang Li, Wang Qiang
 description:
 tags:
  - behavior
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.engstruct.2023.116436" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.116436</a>
+#Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.116436" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116436" target="_blank">10.1016/j.engstruct.2023.116436</a>
 
--------------------------
+<a href="../../../author/zhang_dan"><b>Zhang</b>&nbsp;Dan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/guan_jingyuan"><b>Guan</b>&nbsp;Jingyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span><br>
+Journal Article - Engineering Structures, Vol. 292, No. 116436
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 292, No. 116436
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cast`](keyword/cast)
-    [`#column`](keyword/column)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#fabrication`](keyword/fabrication)
-    [`#formwork`](keyword/formwork)
-    [`#permanent`](keyword/permanent)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#segment`](keyword/segment)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cyclic%20Behavior%20of%20Unbonded%20Post-Tensioned%20Pre-Cast%20Segmental%20Concrete%20Columns%20Fabricated%20by%203D%20Printed%20Concrete%20Permanent%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163163941&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4382360469" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.116436" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.116436?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A 3D printed concrete permanent formwork of composite unbonded post-tensioned precast segmental concrete (3DPCPSC) column is proposed in this research. Its hysteresis performance and the failure mode are researched by quasi-static experiment and compared with the precast segmental reinforced concrete (PSRC) columns. Two interface enhancement methods, stainless-steel-nails internal shear bonds and prestressed steel-hoops external active confinement are proposed, and the enhancement effect and mechanism of 3DPCPSC columns with two interface enhancement methods are studied. Furthermore, the pouring and vibration load of 3D printing concrete formwork is analyzed using a three-dimensional solid finite element model finite element model. The results indicate that the energy dissipation capacity of 3DPCPSC columns is better than that of the PSRC column when the 3DPC formwork does not spall. The largest accumulated energy dissipation of the 3DPCPSC specimen is 1.14 times of the PSRC column. The 3DPCPSC column without interface enhancement has the phenomenon of formwork spalling, the bearing capacity is lower than the PSRC column, and the bearing capacity of the 3DPCPSC columns with two interface enhancement methods is close to or higher than the PSRC column. The initial stiffness of all the 3DPCPSC specimens is larger than the PSRC column. A comprehensive evaluation factor η is proposed to evaluate the hysteretic performance of precast segmental concrete columns. The comprehensive performance of the 3DPCPSC and PSRC is compared by the comprehensive evaluation factor η.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
@@ -93,8 +66,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
@@ -119,4 +92,34 @@ tags:
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/dai_jian-guo"><b>Dai</b> Jian-Guo</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../qiu_qian_dai.2024.EtFPoCBw3PUSPFvGFVF/">Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction</a></li>
       <li><a href="../../../author/liu_ke"><b>Liu</b> Ke</a>, <a href="../../../author/takasu_koji"><b>Takasu</b> Koji</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/zu_kun"><b>Zu</b> Kun</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../liu_taka_jian_zu.2023.MPo3PCC/">Mechanical Properties of 3D Printed Concrete Components:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF,
+      author            = "Dan Zhang and Guowei Ma and Jingyuan Guan and Li Wang and Qiang Wang",
+      title             = "Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork",
+      doi               = "10.1016/j.engstruct.2023.116436",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "292",
+      pages             = "116436",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Zhang, G. Ma, J. Guan, L. Wang and Q. Wang, “Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork”, <i>Engineering Structures</i>, vol. 292, p. 116436, 2023, doi: 10.1016/j.engstruct.2023.116436.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Dan, Guowei Ma, Jingyuan Guan, Li Wang, and Qiang Wang. “Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork”. <i>Engineering Structures</i> 292 (2023): 116436. https://doi.org/10.1016/j.engstruct.2023.116436.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

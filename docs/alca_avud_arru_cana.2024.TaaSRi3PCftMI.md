@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adolfo Alcayaga Restelli, Siva Avudaiappan, Ramón Arrué Muñoz, Cristian Canales, Roberto Gómez
+    - footer
+title: Alcayaga Restelli Adolfo, Avudaiappan Siva, Arrué Muñoz Ramón, Canales Cristian, Gómez Roberto
 description:
 tags:
  - concrete
@@ -14,31 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Tailings as a Sustainable Resource in 3D Printed Concrete for the Mining Industry:<br/>:aca-blank: A Literature Review ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1007/978-3-031-53375-4_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-53375-4_7</a>
+#Tailings as a Sustainable Resource in 3D Printed Concrete for the Mining Industry&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">A Literature Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-53375-4_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53375-4_7" target="_blank">10.1007/978-3-031-53375-4_7</a>
 
--------------------------
+<a href="../../../author/alcayaga-restelli_adolfo"><b>Alcayaga Restelli</b>&nbsp;Adolfo</a></span>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b>&nbsp;Siva</a></span>, <a href="../../../author/arrue-munoz_francisco_ramon"><b>Arrué Muñoz</b>&nbsp;Ramón</a></span>, <a href="../../../author/canales_cristian"><b>Canales</b>&nbsp;Cristian</a></span>, <a href="../../../author/gomez_roberto"><b>Gómez</b>&nbsp;Roberto</a></span><br>
+Contribution - Recent Advances on the Mechanical Behavior of Materials, pp. 89-107
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alcayaga-restelli_adolfo"><b>Alcayaga Restelli</b> Adolfo</a>
-,     <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a>
-,     <a href="../../../author/arrue-munoz_francisco_ramon"><b>Arrué Muñoz</b> Ramón</a>
-,     <a href="../../../author/canales_cristian"><b>Canales</b> Cristian</a>
-,     <a href="../../../author/gomez_roberto"><b>Gómez</b> Roberto</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Advances on the Mechanical Behavior of Materials, pp. 89-107
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tailings%20as%20a%20Sustainable%20Resource%20in%203D%20Printed%20Concrete%20for%20the%20Mining%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193566963&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396222269" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-53375-4_7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-53375-4_7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the application of additive manufacturing (AM) technology, specifically 3D printed concrete, in the mining industry using tailings as a sustainable alternative to fine aggregate. AM offers benefits such as reduced waste, shorter construction times, and lower costs. By incorporating tailings in 3D printed concrete, environmental challenges associated with tailings disposal can be mitigated, while promoting resource efficiency. The study reviews the current state of AM technology and its implications for mining. Tailings, the waste fraction of mined materials, can be effectively utilized in concrete production. Various studies have shown that tailings can achieve comparable mechanical properties to conventional concrete with appropriate adjustments to the mixture. The inclusion of tailings in 3D printed concrete presents environmental advantages, reducing waste and greenhouse gas emissions associated with traditional concrete production. However, further research is needed to optimize the printing process, mixture compositions, and establish industry standards. A brief study on the chemical components present in copper tailings shows that is feasible to use tailings as replacement of aggregates and even a portion of cement, as it has similar components. Aswell as being safe to use with admixtures as there is not any chemical or mineral that may react when applied. By embracing AM technology and incorporating tailings, the mining industry can achieve environmental benefits, resource optimization, and promote sustainability. Continued advancements in AM technology will pave the way for the widespread adoption of 3D printed concrete with tailings, pushing the mining sector and contributing to a more sustainable future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/moser_h_newell"><b>Moser</b> Newell</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/esfahani_nasr_ebrahim"><b>Esfahani</b> Ebrahim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../afar_mose_garb_esfa.2022.PFMfAMoCBM/">Print Fidelity Metrics for Additive Manufacturing of Cement-Based Materials</a></li>
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -86,7 +66,38 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{alca_avud_arru_cana.2024.TaaSRi3PCftMI,
+      author            = "Adolfo Alcayaga Restelli and Siva Avudaiappan and Ramón Francisco Arrué Muñoz and Cristian Canales and Roberto Gómez",
+      title             = "Tailings as a Sustainable Resource in 3D Printed Concrete for the Mining Industry: A Literature Review",
+      doi               = "10.1007/978-3-031-53375-4_7",
+      year              = "2024",
+      volume            = "462",
+      pages             = "89--107",
+      booktitle         = "Recent Advances on the Mechanical Behavior of Materials",
+      editor            = "Erick I. Saavedra Flores and Rodrigo Astroza and Raj Das",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. A. Restelli, S. Avudaiappan, R. F. A. Muñoz, C. Canales and R. Gómez, “Tailings as a Sustainable Resource in 3D Printed Concrete for the Mining Industry: A Literature Review”, in <i>Recent Advances on the Mechanical Behavior of Materials</i>,  2024, vol. 462, pp. 89–107. doi: 10.1007/978-3-031-53375-4_7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Restelli, Adolfo Alcayaga, Siva Avudaiappan, Ramón Francisco Arrué Muñoz, Cristian Canales, and Roberto Gómez. “Tailings as a Sustainable Resource in 3D Printed Concrete for the Mining Industry: A Literature Review”. In <i>Recent Advances on the Mechanical Behavior of Materials</i>, edited by Erick I. Saavedra Flores, Rodrigo Astroza, and Raj Das, 462:89–107, 2024. https://doi.org/10.1007/978-3-031-53375-4_7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

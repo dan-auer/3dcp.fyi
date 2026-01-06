@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Minghao Bi, Lingwei Xia, Jonathan Tran, Zhi Li, Qian Wan, Li Wang, Wei Shen, Guowei Ma, Yi Xie
+    - footer
+title: Bi Minghao, Xia Lingwei, Tran Jonathan, Li Zhi, Wan Qian, Wang Li, Shen Wei, Ma Guowei, Xie Yi
 description:
 tags:
  - additive
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.addma.2022.102822" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102822</a>
+#Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.102822" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102822" target="_blank">10.1016/j.addma.2022.102822</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4872-0675" title="ORCID: 0000-0003-4872-0675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bi_minghao"><b>Bi</b>&nbsp;Minghao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3727-6935" title="ORCID: 0000-0003-3727-6935" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_lingwei"><b>Xia</b>&nbsp;Lingwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4501-1232" title="ORCID: 0000-0003-4501-1232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhi"><b>Li</b>&nbsp;Zhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_qian"><b>Wan</b>&nbsp;Qian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/shen_wei"><b>Shen</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 55
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a> <a href="https://orcid.org/0000-0003-4872-0675" title="ORCID: 0000-0003-4872-0675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a> <a href="https://orcid.org/0000-0003-3727-6935" title="ORCID: 0000-0003-3727-6935" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> <a href="https://orcid.org/0000-0003-4501-1232" title="ORCID: 0000-0003-4501-1232" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan_qian"><b>Wan</b> Qian</a> <a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shen_wei"><b>Shen</b> Wei</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 55, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#continuous`](keyword/continuous)
-    [`#contour`](keyword/contour)
-    [`#format`](keyword/format)
-    [`#hybrid`](keyword/hybrid)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#path`](keyword/path)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/format"><button class="btn">#format</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Continuous%20Contour-Zigzag%20Hybrid%20Tool-Path%20for%20Large-Format%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132105817&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,18 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4223593452" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102822" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102822?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large format additive manufacturing (LFAM) has witnessed rapid development in recent years and facilitated digital fabrications of geometrically intricate structures. However, there has been limited research on toolpath optimization tailored for LFAM. This paper presents a novel framework to generate a globally continuous toolpath for both solid and partial infill designs in LFAM. For solid infill, outward contour and double offset schemes are used to generate smooth curves as the primary volume-filling paths; the remaining unfilled areas are covered by extending zigzag lines from the closest contours. Subsequently, a contour layer-wise connection is carried out based on the depth-first-search algorithm to formulate a globally continuous path. A post-processing step is also presented to optimize the coverage and curvature of the toolpath design. The concept is extended for partial infill settings by trimming and joining rectangular grid lines. Compared with other state-of-the-art methods in the literature, the proposed algorithm is superior in delivering better print quality, fewer sharp turns, and enhanced fabrication efficiency. Finally, two interesting experiments demonstrate how LFAM of topology optimized structures can benefit from the proposed continuous toolpath: topology optimized table printed from thermoplastic polyurethane (TPU) and topology optimized chair printed from 3D concrete printing (3DCP).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../gaud_duba_bouy_mall.2019.LSAMoUHPCoIFfTSP/">Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
@@ -92,8 +63,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/sharma_deepak"><b>Sharma</b> Deepak</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sahu_shar_pand.2025.TTOLCBDfAM/">Tailoring Topology-Optimized Lightweight Concrete Beam Design for Additive Manufacturing</a></li>
       <li><a href="../../../author/wang_xiaoqi"><b>Wang</b> Xiaoqi</a>, <a href="../../../author/liu_xing"><b>Liu</b> Xing</a>, <a href="../../../author/xu_yanling"><b>Xu</b> Yanling</a>, <a href="../../../author/cao_jianfu"><b>Cao</b> Jianfu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_liu_xu_cao.2025.AGALHCPPAfC3PoCPSBoMOOaRL/">A General Adaptive Layer Height Continuous Path Planning Algorithm for Concrete 3D Printing of Complex Porous Structures Based on Multi-Objective Optimization and Reinforcement Learning</a></li>
@@ -120,4 +91,33 @@ tags:
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/megens_johannes"><b>Megens</b> Johannes</a>, <a href="../../../author/casucci_tommaso"><b>Casucci</b> Tommaso</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bhoo_bhoo_mege_casu.2023.PPDfIPR3PoUC/">Print-Path Design for Inclined-Plane Robotic 3D Printing of Unreinforced Concrete</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bi_xia_tran_li.2022.CCZHTPfLFAM,
+      author            = "Minghao Bi and Lingwei Xia and Jonathan Phuong Tran and Zhi Li and Qian Wan and Li Wang and Wei Shen and Guowei Ma and Yi Min Xie",
+      title             = "Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing",
+      doi               = "10.1016/j.addma.2022.102822",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "55",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Bi, “Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing”, <i>Additive Manufacturing</i>, vol. 55, 2022, doi: 10.1016/j.addma.2022.102822.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bi, Minghao, Lingwei Xia, Jonathan Phuong Tran, Zhi Li, Qian Wan, Li Wang, Wei Shen, Guowei Ma, and Yi Min Xie. “Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing”. <i>Additive Manufacturing</i> 55 (2022). https://doi.org/10.1016/j.addma.2022.102822.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

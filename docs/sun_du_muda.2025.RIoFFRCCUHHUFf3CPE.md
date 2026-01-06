@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yan Sun, Guoqiang Du, Maryam Mudasir
+    - footer
+title: Sun Yan, Du Guoqiang, Mudasir Maryam
 description:
 tags:
  - cement
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1080/21650373.2025.2592081" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2025.2592081</a>
+#Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2025.2592081" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2592081" target="_blank">10.1080/21650373.2025.2592081</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_guoqiang"><b>Du</b>&nbsp;Guoqiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-5809-5499" title="ORCID: 0009-0009-5809-5499" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mudasir_maryam"><b>Mudasir</b>&nbsp;Maryam</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-17
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_yan"><b>Sun</b> Yan</a> <a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> <a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="https://orcid.org/0009-0009-5809-5499" title="ORCID: 0009-0009-5809-5499" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-17
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Investigations%20of%20Fresh%20Fiber-Reinforced%20Cementitious%20Composites%20Using%20Hydrophobic%20/%20Hydrophilic%20UHMWPE%20Fibers%20for%203D%20Concrete%20Printing%20Evaluation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7108082657" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2025.2592081" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2025.2592081?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Rheological tests (low-amplitude oscillatory shear, creep and creep recovery, and steady shear rate) were used to evaluate the 3D concrete printing (3DCP) performance of fiber-reinforced cementitious composites (FRCC). UHMWPE fibers were modified to increase hydrophilicity and functionality. FRCC with hydrophilic or hydrophobic fibers, with or without nanoclay, was assessed for extrudability and buildability. Hydrophilic fibers significantly enhanced microstructural rigidity, followed by hydrophobic fibers and nanoclay, evidenced through an increase of storage modulus by 115.29%, 59.37%, and 49.49%, respectively. The combined inclusion of hydrophilic fibers and nanoclay developed the stiffest, strongest, and stable solid-like microstructure with 211.52% enhanced storage modulus, 87.20% lowered creep compliance, 100% elastic recovery, and the highest viscoelastic yield stress, as compared to a simple cement/water mixture. Hydrophobic fibers with nanoclay also improved storage modulus and yield stresses, enabling effective buildability and extrudability. Certain FRCC compositions succeeded in 3DCP extrusion tests due to higher storage modulus and optimal yield stresses. The tensile strength and ductility of printed samples containing hydrophilic fibers improved due to stronger fiber-matrix bonding, as reflected by 40% higher first-crack strength, 19% higher ultimate tensile strength, and 50.27% enhanced strain capacity as compared to samples with hydrophobic fibers. The addition of nanoclay further improved the matrix strength in both cases. However, the ductility of FRCC containing hydrophilic fibers with nanoclay decreases by more than 50% compared to FRCC with only hydrophilic fibers, likely due to insufficient water availability to satisfy the demand of both water-absorbing components in the FRCC system. Overall, FRCC containing hydrophilic fibers without nanoclay is found to be the most effective option for 3DCP performance, demonstrating superior rheological behavior, tensile strength, and ductility.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../du_deng_qian.2025.B3PHBCCfUHIP/">Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../du_qian.2024.BI3PoSHCCRSR/">Bio-Inspired 3D Printing of Strain-Hardening Cementitious Composites Reticulated Shell-Roofs</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../du_qian.2024.EoPPaLDoFBo3PSHCC/">Effects of Printing-Patterns and Loading-Directions on Fracture Behavior of 3D Printed Strain-Hardening Cementitious Composites</a></li>
@@ -99,7 +76,37 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_du_muda.2025.RIoFFRCCUHHUFf3CPE,
+      author            = "Yan Sun and Guoqiang Du and Maryam Mudasir",
+      title             = "Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation",
+      doi               = "10.1080/21650373.2025.2592081",
+      year              = "2025",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--17",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Sun, G. Du and M. Mudasir, “Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–17, 2025, doi: 10.1080/21650373.2025.2592081.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Yan, Guoqiang Du, and Maryam Mudasir. “Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation”. <i>Journal of Sustainable Cement-Based Materials</i>, 2025, 1–17. https://doi.org/10.1080/21650373.2025.2592081.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

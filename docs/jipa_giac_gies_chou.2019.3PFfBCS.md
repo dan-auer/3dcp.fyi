@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mihail-Andrei Jipa, Federico Giacomarra, Rena Giesecke, Georgia Chousou, Matteo Pacher, Benjamin Dillenburger, Matteo Lomaglio, Matthias Leschok
+    - footer
+title: Jipa Mihail-Andrei, Giacomarra Federico, Giesecke Rena, Chousou Georgia, Pacher Matteo, Dillenburger Benjamin, Lomaglio Matteo, Leschok Matthias
 description:
 tags:
  - bespoke
@@ -13,33 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Formwork for Bespoke Concrete Stairs ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1145/3328939.3329003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1145/3328939.3329003</a>
+#3D Printed Formwork for Bespoke Concrete Stairs ([2019-06](date/2019/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1145/3328939.3329003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3328939.3329003" target="_blank">10.1145/3328939.3329003</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <a href="../../../author/giacomarra_federico"><b>Giacomarra</b>&nbsp;Federico</a></span>, <a href="../../../author/giesecke_rena"><b>Giesecke</b>&nbsp;Rena</a></span>, <a href="../../../author/chousou_georgia"><b>Chousou</b>&nbsp;Georgia</a></span>, <a href="../../../author/pacher_matteo"><b>Pacher</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span>, <a href="../../../author/lomaglio_matteo"><b>Lomaglio</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3601-7408" title="ORCID: 0000-0002-3601-7408" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leschok_matthias"><b>Leschok</b>&nbsp;Matthias</a></span><br>
+Contribution - Proceedings of the ACM Symposium on Computational Fabrication, pp. 1-12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> <a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>
-,     <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>
-,     <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a>
-,     <a href="../../../author/pacher_matteo"><b>Pacher</b> Matteo</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lomaglio_matteo"><b>Lomaglio</b> Matteo</a>
-,     <a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a> <a href="https://orcid.org/0000-0002-3601-7408" title="ORCID: 0000-0002-3601-7408" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the ACM Symposium on Computational Fabrication, pp. 1-12
-
-:aca-blank:{ .lg .middle}
-    [`#bespoke`](keyword/bespoke)
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#print`](keyword/print)
-    [`#stair`](keyword/stair)
-
-
--------------------------
+<a href="../../keyword/bespoke"><button class="btn">#bespoke</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stair"><button class="btn">#stair</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Formwork%20for%20Bespoke%20Concrete%20Stairs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068757047&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2952931710" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1145/3328939.3329003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1145/3328939.3329003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Non-standard stairs have an important role in architecture, but their complex details and three-dimensionality pose significant fabrication challenges. One of the preferred materials for custom stairs is concrete, which can be cast in complex shapes, the only limitation in this case being the fabrication of the necessary formworks. This paper reviews the opportunities and challenges of using 3D-printed formwork for fabricating custom concrete stairs with complex geometries (Fig. 1). 3D printing can unlock an entirely new vocabulary of shapes for concrete structures, previously unavailable with traditional formwork systems. Only a minimal amount of 3D-printed plastic is required to deliver a very thin, stable shell. With these formworks, complex topologies can be achieved in concrete elements. Such elements can optimize the structural performance or improve functional aspects, as well as introduce a radically different aesthetic.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a> <a href="../../../date/2014/05">(2014-05)</a><br><a href="../../../gard_jans.2014.F/">FreeFab:<br/>Development of a Construction-Scale Robotic Formwork 3D Printer</a></li>
       <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a>, <a href="../../../author/kirchner_nathan"><b>Kirchner</b> Nathan</a> <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../gard_jans_kirc.2016.ARoaCSRSf3PoCF/">A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../jipa_bern_dill.2017.SF/">Submillimetre Formwork:<br/>3D Printed Plastic Formwork for Concrete Elements</a></li>
@@ -74,8 +51,9 @@ tags:
       <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a> et al. <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../meib_jipa_gies_sham.2018.SS/">Smart Slab:<br/>Computational Design and Digital Fabrication of a Lightweight Concrete Slab</a></li>
       <li><a href="../../../author/morel_philippe"><b>Morel</b> Philippe</a>, <a href="../../../author/schwartz_thibault"><b>Schwartz</b> Thibault</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../more_schw.2015.ACSfSCL/">Automated Casting Systems for Spatial Concrete Lattices</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
       <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
@@ -105,4 +83,34 @@ tags:
       <li><a href="../../../author/gardner_e_guy"><b>Gardner</b> Guy</a>, <a href="../../../author/forward_kristen"><b>Forward</b> Kristen</a>, <a href="../../../author/tse_kim"><b>Tse</b> Kim</a>, <a href="../../../author/sharma_karan"><b>Sharma</b> Karan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gard_forw_tse_shar.2020.RCF/">Rapid Composite Formwork:<br/>An Automated and Customizable Process for Freeform Concrete Through Computational Design and Robotic Fabrication</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jipa_giac_gies_chou.2019.3PFfBCS,
+      author            = "Mihail-Andrei Jipa and Federico Giacomarra and Rena Giesecke and Georgia Chousou and Matteo Pacher and Benjamin Dillenburger and Matteo Lomaglio and Matthias Leschok",
+      title             = "3D Printed Formwork for Bespoke Concrete Stairs",
+      doi               = "10.1145/3328939.3329003",
+      year              = "2019",
+      pages             = "1--12",
+      booktitle         = "Proceedings of the ACM Symposium on Computational Fabrication",
+      editor            = "Stephen N. Spencer and James McCann and Lining Yao",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M.-A. Jipa, “3D Printed Formwork for Bespoke Concrete Stairs”, in <i>Proceedings of the ACM Symposium on Computational Fabrication</i>,  2019, pp. 1–12. doi: 10.1145/3328939.3329003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jipa, Mihail-Andrei, Federico Giacomarra, Rena Giesecke, Georgia Chousou, Matteo Pacher, Benjamin Dillenburger, Matteo Lomaglio, and Matthias Leschok. “3D Printed Formwork for Bespoke Concrete Stairs”. In <i>Proceedings of the ACM Symposium on Computational Fabrication</i>, edited by Stephen N. Spencer, James McCann, and Lining Yao, 1–12, 2019. https://doi.org/10.1145/3328939.3329003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

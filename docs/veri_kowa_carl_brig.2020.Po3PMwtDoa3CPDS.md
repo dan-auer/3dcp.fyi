@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kho Verian, Scott Kowaleski, Matthew Carli, Randall Bright, Eerik Maandi, Gary Sill
+    - footer
+title: Verian Kho, Kowaleski Scott, Carli Matthew, Bright Randall, Maandi Eerik, Sill Gary
 description:
 tags:
  - construction
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1177/0361198120905595" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1177/0361198120905595</a>
+#Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System ([2020-02](date/2020/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/0361198120905595" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/0361198120905595" target="_blank">10.1177/0361198120905595</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1318-7439" title="ORCID: 0000-0002-1318-7439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/verian_p_kho"><b>Verian</b>&nbsp;Kho</a></span>, <a href="../../../author/kowaleski_r_scott"><b>Kowaleski</b>&nbsp;Scott</a></span>, <a href="../../../author/carli_d_matthew"><b>Carli</b>&nbsp;Matthew</a></span>, <a href="../../../author/bright_p_randall"><b>Bright</b>&nbsp;Randall</a></span>, <a href="../../../author/maandi_eerik"><b>Maandi</b>&nbsp;Eerik</a></span>, <a href="../../../author/sill_gary"><b>Sill</b>&nbsp;Gary</a></span><br>
+Journal Article - Transportation Research Record: Journal of the Transportation Research Board, Vol. 2674, Iss. 2, pp. 1-9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a> <a href="https://orcid.org/0000-0002-1318-7439" title="ORCID: 0000-0002-1318-7439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kowaleski_r_scott"><b>Kowaleski</b> Scott</a>
-,     <a href="../../../author/carli_d_matthew"><b>Carli</b> Matthew</a>
-,     <a href="../../../author/bright_p_randall"><b>Bright</b> Randall</a>
-,     <a href="../../../author/maandi_eerik"><b>Maandi</b> Eerik</a>
-,     <a href="../../../author/sill_gary"><b>Sill</b> Gary</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Transportation Research Record: Journal of the Transportation Research Board, Vol. 2674, Iss. 2, pp. 1-9
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#delievery`](keyword/delievery)
-    [`#development`](keyword/development)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/delievery"><button class="btn">#delievery</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%203D%20Printing%20Mortar%20with%20the%20Development%20of%20a%203D%20Construction%20Printing%20Delivery%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086145539&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3005702653" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1177/0361198120905595" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1177/0361198120905595?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Over the last few years, 3D construction printing (3DCP), also known as additive manufacturing (AM) or rapid prototyping (RP), has increased in popularity in the construction industry. This method, which integrates automation in the building process, provides advantages over conventional construction techniques. These advantages include reduced cost, increased time efficiency, and safer construction process. This paper provides information regarding test methods and the properties of a prototype cementitious material designed for 3DCP. The tests include the determination of fresh properties (i.e., flow, unit weight, viscosity, and set times) and mechanical properties (i.e., compressive, tensile, and shear strengths). The potential of the material is demonstrated by 3D printing a structure 100cm (40 in.) long and 30cm (12 in.) high. The potential application of a ‘‘cured-on-demand’’ technique in 3DCP is also demonstrated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -86,8 +63,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../madr_orte_olss_teno.2024.3C/">3D Constructing:<br/>Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation</a></li>
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/muthukumar_s"><b>Muthukumar</b> S.</a>, <a href="../../../author/sathyanarayanan_s_k"><b>Sathyanarayanan</b> K.</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mani_muth_sath.2023.UoA1aaSSCMfPC/">Use of Alccofine 1203 as a Sustainable Supplementary Cementitious Material for Printable Concrete</a></li>
@@ -100,4 +77,35 @@ tags:
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../batt_mill_veri.2020.PCC/">Print-Cast Concrete:<br/>Additive Manufacturing for 3D Printing Mortar in Robotically Fabricated Green Sand Molds</a></li>
       <li><a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a>, <a href="../../../author/ashcroft_jarron"><b>Ashcroft</b> Jarron</a>, <a href="../../../author/carli_d_matthew"><b>Carli</b> Matthew</a>, <a href="../../../author/bright_p_randall"><b>Bright</b> Randall</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../veri_ashc_carl_brig.2020.ItBAotCJoNaL3PM/">Improving the Bonding Adhesion of the Cold Joints of Normal and Lightweight 3D Printing Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{veri_kowa_carl_brig.2020.Po3PMwtDoa3CPDS,
+      author            = "Kho P. Verian and Scott R. Kowaleski and Matthew D. Carli and Randall P. Bright and Eerik Maandi and Gary Sill",
+      title             = "Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System",
+      doi               = "10.1177/0361198120905595",
+      year              = "2020",
+      journal           = "Transportation Research Record: Journal of the Transportation Research Board",
+      volume            = "2674",
+      number            = "2",
+      pages             = "1--9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. P. Verian, S. R. Kowaleski, M. D. Carli, R. P. Bright, E. Maandi and G. Sill, “Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System”, <i>Transportation Research Record: Journal of the Transportation Research Board</i>, vol. 2674, no. 2, pp. 1–9, 2020, doi: 10.1177/0361198120905595.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Verian, Kho P., Scott R. Kowaleski, Matthew D. Carli, Randall P. Bright, Eerik Maandi, and Gary Sill. “Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System”. <i>Transportation Research Record: Journal of the Transportation Research Board</i> 2674, no. 2 (2020): 1–9. https://doi.org/10.1177/0361198120905595.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

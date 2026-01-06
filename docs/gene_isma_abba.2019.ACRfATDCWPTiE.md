@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Omar Geneidy, Walaa Ismaeel, Ayman Abbas
+    - footer
+title: Geneidy Omar, Ismaeel Walaa, Abbas Ayman
 description:
 tags:
  - application
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1080/00038628.2019.1596066" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/00038628.2019.1596066</a>
+#A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt ([2019-04](date/2019/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2019.1596066" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2019.1596066" target="_blank">10.1080/00038628.2019.1596066</a>
 
--------------------------
+<a href="../../../author/geneidy_omar"><b>Geneidy</b>&nbsp;Omar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4650-0628" title="ORCID: 0000-0003-4650-0628" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ismaeel_se_walaa"><b>Ismaeel</b>&nbsp;Walaa</a></span>, <a href="../../../author/abbas_ayman"><b>Abbas</b>&nbsp;Ayman</a></span><br>
+Journal Article - Architectural Science Review, Vol. 62, Iss. 5, pp. 438-452
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>
-,     <a href="../../../author/ismaeel_se_walaa"><b>Ismaeel</b> Walaa</a> <a href="https://orcid.org/0000-0003-4650-0628" title="ORCID: 0000-0003-4650-0628" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abbas_ayman"><b>Abbas</b> Ayman</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Science Review, Vol. 62, Iss. 5, pp. 438-452
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#dimension`](keyword/dimension)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#technology`](keyword/technology)
-    [`#three`](keyword/three)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20for%20Applying%20Three-Dimensional%20Concrete%20Wall%20Printing%20Technology%20in%20Egypt" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85063952643&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2937914538" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/00038628.2019.1596066" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/00038628.2019.1596066?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Three-dimensional printing (3DP) for concrete construction has risen as a new technology, yet, it has limited application in countries due to a number of reasons. Accordingly, this study articulates around integrating manual labour for 3D printing of cementious-based materials as an initial stage for promoting this advanced technology in middle and low-income countries like Egypt. This hybrid 3DP/manual labour system is investigated as a small scale lab test application for wall construction through extrusion-based 3D concrete printing. Moreover, different concrete mixes are tested to ensure structural validity and integrity while increasing precision and design flexibility. This integrated qualitative and quantitative methodology adds insights to the growing body of knowledge concerning the applicability of using 3DP wall construction as a replacement for their traditional known form with limited budget and manual integration. This shows that the technology can still be tailored according to different conditional limitations, including; material, cost and operating system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -75,7 +53,6 @@ tags:
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/ferron_raissa"><b>Ferron</b> Raissa</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../delg_clay_brie_ferr.2017.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Prospective Review</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
-      <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/ismaeel_se_walaa"><b>Ismaeel</b> Walaa</a>, <a href="../../../author/abbas_ayman"><b>Abbas</b> Ayman</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../gene_isma_abba.2019.ACRfATDCWPTiE/">A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -95,8 +72,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sove_cala.2024.DCaPEoaSS3PfARiAMiC/">Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/dani_alamsah_aflah"><b>Dani</b> Aflah</a>, <a href="../../../author/lim_b-p_james"><b>Lim</b> James</a>, <a href="../../../author/roy_krishanu"><b>Roy</b> Krishanu</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../khan_dani_lim_roy.2024.AtFo3PCiNZH/">Appraising the Feasibility of 3D Printing Construction in New Zealand Housing</a></li>
@@ -110,6 +87,36 @@ tags:
       <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/kumarji_sujay"><b>Kumarji</b> Sujay</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b> Aldo</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gene_kuma_dubo_soll.2020.SRoCW3P/">Simultaneous Reinforcement of Concrete While 3D Printing</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../jago_digg_krei_schu.2020.TVaSo3PC/">The Viability and Simplicity of 3D Printed Construction:<br/>A Military Case Study</a></li>
-      <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/ismaeel_se_walaa"><b>Ismaeel</b> Walaa</a>, <a href="../../../author/abbas_ayman"><b>Abbas</b> Ayman</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../gene_isma_abba.2019.ACRfATDCWPTiE/">A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gene_isma_abba.2019.ACRfATDCWPTiE,
+      author            = "Omar Geneidy and Walaa S.E. Ismaeel and Ayman Abbas",
+      title             = "A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt",
+      doi               = "10.1080/00038628.2019.1596066",
+      year              = "2019",
+      journal           = "Architectural Science Review",
+      volume            = "62",
+      number            = "5",
+      pages             = "438--452",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Geneidy, W. S. E. Ismaeel and A. Abbas, “A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt”, <i>Architectural Science Review</i>, vol. 62, no. 5, pp. 438–452, 2019, doi: 10.1080/00038628.2019.1596066.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geneidy, Omar, Walaa S.E. Ismaeel, and Ayman Abbas. “A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt”. <i>Architectural Science Review</i> 62, no. 5 (2019): 438–52. https://doi.org/10.1080/00038628.2019.1596066.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

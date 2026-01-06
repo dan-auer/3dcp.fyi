@@ -8,7 +8,7 @@ search:
 
 # #suitability
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pfle_sam_radl_vill.2024.AotSoCLFaRfAMC/">Assessment of the Suitability of Carbon Long Fibers as Reinforcement for Additively Manufactured Components</a></li>
   <li><a href="../../../author/liu_junxing"><b>Liu</b> Junxing</a>, <a href="../../../author/li_peiqi"><b>Li</b> Peiqi</a>, <a href="../../../author/piao_taiyan"><b>Piao</b> Taiyan</a>, <a href="../../../author/im_sumin"><b>Im</b> Sumin</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../liu_li_piao_im.2025.HACMfBJ3P/">High-Alumina Cementitious Materials for Binder-Jetting 3D Printing:<br/>Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction</a></li>
   <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../fede_cend_siko.2025.LCCCIwBaRFSf3PA/">Low-Carbon Cementitious Composite Incorporated with Biochar and Recycled Fines Suitable for 3D Printing Applications:<br/>Hydration, Shrinkage and Early-Age Performance</a></li>

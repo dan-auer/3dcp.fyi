@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zinnia Kaur, Shweta Goyal, Naveen Kwatra, Tarun Bera
+    - footer
+title: Kaur Zinnia, Goyal Shweta, Kwatra Naveen, Bera Tarun
 description:
 tags:
  - analysis
@@ -22,38 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142577" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142577</a>
+#Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142577" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142577" target="_blank">10.1016/j.conbuildmat.2025.142577</a>
 
--------------------------
+<a href="../../../author/kaur_zinnia"><b>Kaur</b>&nbsp;Zinnia</a></span>, <a href="../../../author/goyal_shweta"><b>Goyal</b>&nbsp;Shweta</a></span>, <a href="../../../author/kwatra_naveen"><b>Kwatra</b>&nbsp;Naveen</a></span>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b>&nbsp;Tarun</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 490, No. 142577
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kaur_zinnia"><b>Kaur</b> Zinnia</a>
-,     <a href="../../../author/goyal_shweta"><b>Goyal</b> Shweta</a>
-,     <a href="../../../author/kwatra_naveen"><b>Kwatra</b> Naveen</a>
-,     <a href="../../../author/bera_kumar_tarun"><b>Bera</b> Tarun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 490, No. 142577
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#incorporation`](keyword/incorporation)
-    [`#limestone`](keyword/limestone)
-    [`#performance`](keyword/performance)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pore%20Structure%20Analysis%20and%20Durability%20Performance%20of%20Sustainable%203D%20Printed%20Concrete%20Incorporating%20Fly%20Ash%20and%20Limestone%20Calcined%20Clay%20Based%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009760371&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412075044" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142577" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142577?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of concrete is a promising construction technology intended to automate the construction sector. However, the presence of layers can substantially alter its strength and durability performance, making its behaviour significantly different from conventional concrete. This increases the need to evaluate the durability performance of printable concrete, which remains inadequately investigated. The present study aims to investigate the durability performance of 3D printed concrete (3DPC) using two alternative sustainable binders i.e. fly ash (FA) and limestone calcined clay (LC2) and further compare it to mould-cast (MC) specimens. Microstructure analysis was done using mercury intrusion porosimetry, scanning electron microscopy, energy dispersive spectrometry and x-ray diffraction. Then, compressive strength testing was carried out at various ages, followed by durability assessment through water absorption, sorptivity and drying shrinkage. FA based mix showed lower porosity and enhanced pore structure as a result of which it exhibited superior compressive strength together with reduced water absorption, sorptivity and lower drying shrinkage as compared to LC2 based mix. 3DPC showed superior performance as compared to MC concrete. 3DPC specimens had lower porosity attributed to the positive influence of extruding the concrete from the nozzle which helped achieve a compacted concrete with reduced pores. This resulted in higher compressive strength, lower drying shrinkage and enhanced water transport characteristics as compared to MC concrete. Furthermore, the casting/printing process significantly influenced the porosity and drying shrinkage, whereas compressive strength and water transport characteristics depended more on the mixture composition.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
@@ -127,7 +99,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB,
+      author            = "Zinnia Kaur and Shweta Goyal and Naveen Kwatra and Tarun Kumar Bera",
+      title             = "Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders",
+      doi               = "10.1016/j.conbuildmat.2025.142577",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "490",
+      pages             = "142577",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Kaur, S. Goyal, N. Kwatra and T. K. Bera, “Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders”, <i>Construction and Building Materials</i>, vol. 490, p. 142577, 2025, doi: 10.1016/j.conbuildmat.2025.142577.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kaur, Zinnia, Shweta Goyal, Naveen Kwatra, and Tarun Kumar Bera. “Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders”. <i>Construction and Building Materials</i> 490 (2025): 142577. https://doi.org/10.1016/j.conbuildmat.2025.142577.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

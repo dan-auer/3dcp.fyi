@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Bao, Mingfeng Xu, Daniel Soltan, Tian Xia, Albert Shih, Herek Clack, Victor Li
+    - footer
+title: Bao Yi, Xu Mingfeng, Soltan Daniel, Xia Tian, Shih Albert, Clack Herek, Li Victor
 description:
 tags:
  - cement
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99519-9_11.pdf) Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_11</a>
+#Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements ([2018-09](date/2018/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99519-9_11.pdf) <a href="https://doi.org/10.1007/978-3-319-99519-9_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_11" target="_blank">10.1007/978-3-319-99519-9_11</a>
 
--------------------------
+<a href="../../../author/bao_yi"><b>Bao</b>&nbsp;Yi</a></span>, <a href="../../../author/xu_mingfeng"><b>Xu</b>&nbsp;Mingfeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2599-5660" title="ORCID: 0000-0002-2599-5660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soltan_g_daniel"><b>Soltan</b>&nbsp;Daniel</a></span>, <a href="../../../author/xia_tian"><b>Xia</b>&nbsp;Tian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5338-5467" title="ORCID: 0000-0001-5338-5467" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shih_albert"><b>Shih</b>&nbsp;Albert</a></span>, <a href="../../../author/clack_l_herek"><b>Clack</b>&nbsp;Herek</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 115-128
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bao_yi"><b>Bao</b> Yi</a>
-,     <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>
-,     <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a> <a href="https://orcid.org/0000-0002-2599-5660" title="ORCID: 0000-0002-2599-5660" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_tian"><b>Xia</b> Tian</a>
-,     <a href="../../../author/shih_albert"><b>Shih</b> Albert</a> <a href="https://orcid.org/0000-0001-5338-5467" title="ORCID: 0000-0001-5338-5467" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/clack_l_herek"><b>Clack</b> Herek</a>
-,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 115-128
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#dimension`](keyword/dimension)
-    [`#ecc`](keyword/ecc)
-    [`#element`](keyword/element)
-    [`#engineered`](keyword/engineered)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printing%20Multifunctional%20Engineered%20Cementitious%20Composites%20%28ECC%29%20for%20Structural%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052711007&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2888904133" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_11" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_11?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing (3DP) has great potential to facilitate fabrication of structures with smart functions. This research aims to develop an effective and efficient method to fabricate multifunctional structural elements using Engineered Cementitious Composites (ECC) through 3DP. To this end, ECC slabs measuring 304.8 mm by 76.2 mm by 12.7 mm (length by width by thickness) are prepared for experimental testing. Titanium dioxide nanoparticles are incorporated in the slabs to deliver photocatalytic functionality for chemical reduction of gaseous air pollutants. Two schemes for incorporating titanium dioxide nanoparticles into the ECC slabs are investigated and compared. 3DP is employed to fabricate the slabs and compared with the conventional cast-inmold fabrication method. The photocatalytic functionality of different slabs is evaluated through nitrogen oxides abatement testing under ultraviolet light. The concentration of nitrogen oxides is measured in real time. After the nitrogen oxides abatement testing, all slabs are tested to failure under four-point bending to evaluate their flexural properties. The results show that 3DP is promising to fabricate multifunctional ECC structural elements with improved efficiency.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -84,8 +58,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
@@ -122,4 +96,35 @@ tags:
       <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a>, <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../koss_brow_sanc.2020.EAPo3PCNFaCMFCC/">Early-Age Performance of 3D Printed Carbon-Nano-Fiber and Carbon Micro-Fiber Cement Composites</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bao_xu_solt_xia.2019.TDPMECCEfSE,
+      author            = "Yi Bao and Mingfeng Xu and Daniel G. Soltan and Tian Xia and Albert Shih and Herek L. Clack and Victor C. Li",
+      title             = "Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements",
+      doi               = "10.1007/978-3-319-99519-9_11",
+      year              = "2019",
+      volume            = "19",
+      pages             = "115--128",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Bao, “Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 115–128. doi: 10.1007/978-3-319-99519-9_11.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bao, Yi, Mingfeng Xu, Daniel G. Soltan, Tian Xia, Albert Shih, Herek L. Clack, and Victor C. Li. “Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:115–28, 2019. https://doi.org/10.1007/978-3-319-99519-9_11.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

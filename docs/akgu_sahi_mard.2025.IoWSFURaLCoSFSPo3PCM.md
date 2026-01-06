@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatih Akgümüş, Hatice Şahin, Ali Mardani
+    - footer
+title: Akgümüş Fatih, Şahin Hatice, Mardani Ali
 description:
 tags:
  - change
@@ -22,37 +23,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/20/3731/pdf?version=1760615073) Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures ([2025-10](date/2025/10))
-<a href="https://doi.org/10.3390/buildings15203731" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15203731</a>
+#Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures ([2025-10](date/2025/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/20/3731/pdf?version=1760615073) <a href="https://doi.org/10.3390/buildings15203731" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15203731" target="_blank">10.3390/buildings15203731</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-6037-1105" title="ORCID: 0009-0002-6037-1105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b>&nbsp;Fatih</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 20, No. 3731
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a> <a href="https://orcid.org/0009-0002-6037-1105" title="ORCID: 0009-0002-6037-1105" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a> <a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 20, No. 3731
-
-:aca-blank:{ .lg .middle}
-    [`#change`](keyword/change)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#investigation`](keyword/investigation)
-    [`#length`](keyword/length)
-    [`#mixture`](keyword/mixture)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rate`](keyword/rate)
-    [`#state`](keyword/state)
-    [`#steel`](keyword/steel)
-    [`#use`](keyword/use)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Waste%20Steel%20Fiber%20Usage%20Rate%20and%20Length%20Change%20on%20Some%20Fresh%20State%20Properties%20of%203D%20Printable%20Concrete%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020009080&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415271660" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15203731" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15203731?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, the effects of waste steel fiber and high volume blast furnace slag (BFS) substitution on rheological properties, thixotropic behavior and carbon emission were investigated in order to increase the sustainability of three-dimensional (3D) printable concrete (3DPC). Cement was replaced with BFS at 0%, 25%, 50% and 75% by volume, while waste steel fibers were added to the mixtures at three different lengths (5, 10, 15 mm) and volumetric ratios (0.5% and 1.0%). A total of 39 mixtures were optimized with respect to extrudability, buildability and shape stability criteria, and their rheological and thixotropic properties were characterized by a modified rheometer procedure. Results showed that 50% BFS substitution reduced dynamic yield stress and viscosity by 69% and 52%, respectively, and eliminated the need for a water-reducing admixture. 75% BFS substitution improved structural build-up (Athix) but required 6% silica fume. The fiber effect interacted with length and BFS content, with short fibers increasing rheological resistance, while the effect of long fibers decreased in mixtures with high BFS. The carbon emission assessment revealed that 75% BFS substitution provided an outstanding CO2 reduction of up to 71% compared to the control mix. These findings prove that high-volume BFS and waste fibers are an effective strategy to optimize rheological performance and environmental impact for sustainable 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
@@ -114,7 +87,38 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM,
+      author            = "Fatih Eren Akgümüş and Hatice Gizem Şahin and Ali Mardani",
+      title             = "Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures",
+      doi               = "10.3390/buildings15203731",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "20",
+      pages             = "3731",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. E. Akgümüş, H. G. Şahin and A. Mardani, “Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures”, <i>Buildings</i>, vol. 15, no. 20, p. 3731, 2025, doi: 10.3390/buildings15203731.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Akgümüş, Fatih Eren, Hatice Gizem Şahin, and Ali Mardani. “Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures”. <i>Buildings</i> 15, no. 20 (2025): 3731. https://doi.org/10.3390/buildings15203731.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

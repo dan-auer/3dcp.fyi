@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Isolda Agustí-Juan, Guillaume Habert
+    - footer
+title: Agustí-Juan Isolda, Habert Guillaume
 description:
 tags:
  - design
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0959652616318212) Environmental Design Guidelines for Digital Fabrication ([2016-11](date/2016/11))
-<a href="https://doi.org/10.1016/j.jclepro.2016.10.190" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2016.10.190</a>
+#Environmental Design Guidelines for Digital Fabrication ([2016-11](date/2016/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0959652616318212) <a href="https://doi.org/10.1016/j.jclepro.2016.10.190" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2016.10.190" target="_blank">10.1016/j.jclepro.2016.10.190</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b>&nbsp;Isolda</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habert_guillaume"><b>Habert</b>&nbsp;Guillaume</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 142, pp. 2780-2791
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> <a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 142, pp. 2780-2791
-
-:aca-blank:{ .lg .middle}
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#environment`](keyword/environment)
-    [`#fabrication`](keyword/fabrication)
-    [`#guideline`](keyword/guideline)
-
-
--------------------------
+<a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/guideline"><button class="btn">#guideline</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Environmental%20Design%20Guidelines%20for%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85006512007&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,23 +35,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2547780854" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2016.10.190" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2016.10.190?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication represents an innovative technology with the potential of expanding the boundaries of architecture. The potential to fabricate elements directly from design information is transforming many design and production disciplines. In particular, 3D printing has become the key of modern product development. As the use of additive manufacturing grows, research into large-scale processes is beginning to reveal potential applications in construction. The combined methods of computational design and robotic fabrication have the well-demonstrated potential to create formal and structural advances in architecture. However, their potential contribution to the improvement of sustainability in construction must be evaluated. In this study, we identified environmental guidelines to be considered during the design of digitally fabricated architecture. The key parameters were extracted from the Life Cycle Assessment (LCA) of three case studies. The environmental assessment performed indicated that the relative sustainability of the projects depended primarily on the building material production. Specifically, the impact of digital fabrication processes was negligible compared to the materials manufacturing process. Furthermore, the study highlighted the opportunities of integrating additional functions in structural elements with digital fabrication to reduce the overall environmental impact of these multi-functional elements. Finally, the analysis proved the potential of digital fabrication to reduce the amount of highly industrialized materials in a project, which are associated with high environmental impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "111 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -177,4 +160,34 @@ tags:
       <li><a href="../../../author/loveridge_russell"><b>Loveridge</b> Russell</a>, <a href="../../../author/coray_tanja"><b>Coray</b> Tanja</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../love_cora.2017.RoCS/">Robots on Construction Sites:<br/>The Potential and Challenges of On-Site Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{agus_habe.2017.EDGfDF,
+      author            = "Isolda Agustí-Juan and Guillaume Habert",
+      title             = "Environmental Design Guidelines for Digital Fabrication",
+      doi               = "10.1016/j.jclepro.2016.10.190",
+      year              = "2017",
+      journal           = "Journal of Cleaner Production",
+      volume            = "142",
+      pages             = "2780--2791",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Agustí-Juan  and G. Habert, “Environmental Design Guidelines for Digital Fabrication”, <i>Journal of Cleaner Production</i>, vol. 142, pp. 2780–2791, 2017, doi: 10.1016/j.jclepro.2016.10.190.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Agustí-Juan, Isolda, and Guillaume Habert. “Environmental Design Guidelines for Digital Fabrication”. <i>Journal of Cleaner Production</i> 142 (2017): 2780–91. https://doi.org/10.1016/j.jclepro.2016.10.190.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

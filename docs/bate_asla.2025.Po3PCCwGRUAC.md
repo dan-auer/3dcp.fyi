@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rhys Bates, Farhad Aslani
+    - footer
+title: Bates Rhys, Aslani Farhad
 description:
 tags:
  - axis
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s41598-025-22990-4.pdf) Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1038/s41598-025-22990-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s41598-025-22990-4</a>
+#Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression ([2025-11](date/2025/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-025-22990-4.pdf) <a href="https://doi.org/10.1038/s41598-025-22990-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-22990-4" target="_blank">10.1038/s41598-025-22990-4</a>
 
--------------------------
+<a href="../../../author/bates_rhys"><b>Bates</b>&nbsp;Rhys</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
+Journal Article - Scientific Reports, Vol. 15, Iss. 1, No. 39419
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Scientific Reports, Vol. 15, Iss. 1, No. 39419
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#column`](keyword/column)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rebar`](keyword/rebar)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%203D-Printed%20Concrete%20Columns%20with%20GFRP%20Rebars%20Under%20Axial%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021423079&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7104673335" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s41598-025-22990-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s41598-025-22990-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) offers transformative potential in the construction industry by enabling rapid, cost-effective, and sustainable fabrication, yet its application to structural components is limited by concrete's brittleness and challenges in reinforcement integration. This study investigates the axial compression performance of 3D-printed concrete columns reinforced with glass fibre reinforced polymer (GFRP) bars. A hybrid construction approach was employed, in which 3D-printed concrete formed a permanent outer shell, while GFRP reinforcement cages were post-installed prior to casting the concrete core. Four columns, including conventionally cast counterparts of identical dimensions, were tested to assess load-displacement response, strain distribution, and failure mechanisms. The 3D-printed columns exhibited approximately 50% of the peak load of the mould-cast columns but demonstrated progressive, ductile failure, in contrast to the brittle failure observed in conventional specimens. These results suggest that 3D-printed columns could provide advantages in energy absorption, controlled failure, and modular construction, particularly where ductility is critical. The study further identifies interlayer bonding and reinforcement integration as key factors requiring optimization to enable reliable structural applications of 3DCP in the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/atkinson_d_cynthia"><b>Atkinson</b> Cynthia</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../atki_asla.2023.Po3PCUSSCC/">Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -77,7 +58,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bate_asla.2025.Po3PCCwGRUAC,
+      author            = "Rhys Bates and Farhad Aslani",
+      title             = "Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression",
+      doi               = "10.1038/s41598-025-22990-4",
+      year              = "2025",
+      journal           = "Scientific Reports",
+      volume            = "15",
+      number            = "1",
+      pages             = "39419",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Bates  and F. Aslani, “Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression”, <i>Scientific Reports</i>, vol. 15, no. 1, p. 39419, 2025, doi: 10.1038/s41598-025-22990-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bates, Rhys, and Farhad Aslani. “Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression”. <i>Scientific Reports</i> 15, no. 1 (2025): 39419. https://doi.org/10.1038/s41598-025-22990-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

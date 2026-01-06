@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abrar Gasmi, Mohamed Guessasma, Ralph Davidovits, Christine Pélegris
+    - footer
+title: Gasmi Abrar, Guessasma Mohamed, Davidovits Ralph, Pélegris Christine
 description:
 tags:
  - additive
@@ -22,38 +23,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmapro.2025.06.015) Unveiling Additive Effects in 3D Printed Geopolymer Composites:<br/>:aca-blank: A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.jmapro.2025.06.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmapro.2025.06.015</a>
+#Unveiling Additive Effects in 3D Printed Geopolymer Composites&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmapro.2025.06.015) <a href="https://doi.org/10.1016/j.jmapro.2025.06.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmapro.2025.06.015" target="_blank">10.1016/j.jmapro.2025.06.015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-9140-3504" title="ORCID: 0009-0001-9140-3504" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gasmi_abrar"><b>Gasmi</b>&nbsp;Abrar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2870-5657" title="ORCID: 0000-0002-2870-5657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guessasma_mohamed"><b>Guessasma</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-0422-3972" title="ORCID: 0009-0007-0422-3972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/davidovits_ralph"><b>Davidovits</b>&nbsp;Ralph</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2303-445X" title="ORCID: 0000-0003-2303-445X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pelegris_christine"><b>Pélegris</b>&nbsp;Christine</a></span><br>
+Journal Article - Journal of Manufacturing Processes, Vol. 150, pp. 445-460
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gasmi_abrar"><b>Gasmi</b> Abrar</a> <a href="https://orcid.org/0009-0001-9140-3504" title="ORCID: 0009-0001-9140-3504" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guessasma_mohamed"><b>Guessasma</b> Mohamed</a> <a href="https://orcid.org/0000-0002-2870-5657" title="ORCID: 0000-0002-2870-5657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/davidovits_ralph"><b>Davidovits</b> Ralph</a> <a href="https://orcid.org/0009-0007-0422-3972" title="ORCID: 0009-0007-0422-3972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pelegris_christine"><b>Pélegris</b> Christine</a> <a href="https://orcid.org/0000-0003-2303-445X" title="ORCID: 0000-0003-2303-445X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Manufacturing Processes, Vol. 150, pp. 445-460
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#cfd`](keyword/cfd)
-    [`#composite`](keyword/composite)
-    [`#couple`](keyword/couple)
-    [`#deposition`](keyword/deposition)
-    [`#effect`](keyword/effect)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#insights`](keyword/insights)
-    [`#multi`](keyword/multi)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cfd"><button class="btn">#cfd</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/couple"><button class="btn">#couple</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Unveiling%20Additive%20Effects%20in%203D%20Printed%20Geopolymer%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008721536&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411579300" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmapro.2025.06.015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmapro.2025.06.015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study optimizes 3D printing parameters for geopolymer composites by implementing rheological characterization in Computational Fluid Dynamics (CFD) modeling. Geopolymer formulations with PEG4000, sepiolite, and xanthan gum were analyzed for viscosity, shear-thinning behavior, and viscoelastic properties. Xanthan gum demonstrated the best rheological performance, providing high viscosity, strong shear-thinning behavior, and rapid recovery, making it the optimal additive for 3D printing. Using real experimental data, a CFD model was developed to simulate deposition, capturing the materials’ non-Newtonian and viscoelastic behavior. Key printing parameters, such as substrate velocity and nozzle-to-substrate gap, were optimized to achieve accurate strand morphology. The model was validated by comparing printed strands with simulation ones, yielding a low error of 5%. This work represents the first CFD simulation of geopolymer 3D printing, offering a predictive framework for reducing material waste and improving print quality.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
@@ -90,8 +63,38 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../sanj_jaya_raje.2021.VIARCf3CP/">Vibration-Induced Active Rheology-Control for 3D Concrete Printing</a></li>
       <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../span_silv_moll_comm.2022.IRw3CP/">Integrating Reinforcement with 3D Concrete Printing:<br/>Experiments and Numerical Modelling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gasm_gues_davi_pele.2025.UAEi3PGC,
+      author            = "Abrar Gasmi and Mohamed Guessasma and Ralph Davidovits and Christine Pélegris",
+      title             = "Unveiling Additive Effects in 3D Printed Geopolymer Composites: A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition",
+      doi               = "10.1016/j.jmapro.2025.06.015",
+      year              = "2025",
+      journal           = "Journal of Manufacturing Processes",
+      volume            = "150",
+      pages             = "445--460",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Gasmi, M. Guessasma, R. Davidovits and C. Pélegris, “Unveiling Additive Effects in 3D Printed Geopolymer Composites: A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition”, <i>Journal of Manufacturing Processes</i>, vol. 150, pp. 445–460, 2025, doi: 10.1016/j.jmapro.2025.06.015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gasmi, Abrar, Mohamed Guessasma, Ralph Davidovits, and Christine Pélegris. “Unveiling Additive Effects in 3D Printed Geopolymer Composites: A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition”. <i>Journal of Manufacturing Processes</i> 150 (2025): 445–60. https://doi.org/10.1016/j.jmapro.2025.06.015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

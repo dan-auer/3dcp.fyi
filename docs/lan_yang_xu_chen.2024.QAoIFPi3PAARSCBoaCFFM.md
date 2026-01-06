@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tian Lan, Shutong Yang, Mingqi Xu, Zhengyuan Chen, Diqian Lin, Yingxue Wang
+    - footer
+title: Lan Tian, Yang Shutong, Xu Mingqi, Chen Zhengyuan, Lin Diqian, Wang Yingxue
 description:
 tags:
  - activation
@@ -23,41 +24,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmrt.2024.10.002) Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.jmrt.2024.10.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2024.10.002</a>
+#Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2024.10.002) <a href="https://doi.org/10.1016/j.jmrt.2024.10.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2024.10.002" target="_blank">10.1016/j.jmrt.2024.10.002</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lan_tian"><b>Lan</b>&nbsp;Tian</a></span>, <a href="../../../author/yang_shutong"><b>Yang</b>&nbsp;Shutong</a></span>, <a href="../../../author/xu_mingqi"><b>Xu</b>&nbsp;Mingqi</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6537-7461" title="ORCID: 0009-0001-6537-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhengyuan"><b>Chen</b>&nbsp;Zhengyuan</a></span>, <a href="../../../author/lin_diqian"><b>Lin</b>&nbsp;Diqian</a></span>, <a href="../../../author/wang_yingxue"><b>Wang</b>&nbsp;Yingxue</a></span><br>
+Journal Article - Journal of Materials Research and Technology, Vol. 33, pp. 2899-2923
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lan_tian"><b>Lan</b> Tian</a> <a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>
-,     <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a>
-,     <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> <a href="https://orcid.org/0009-0001-6537-7461" title="ORCID: 0009-0001-6537-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_diqian"><b>Lin</b> Diqian</a>
-,     <a href="../../../author/wang_yingxue"><b>Wang</b> Yingxue</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, Vol. 33, pp. 2899-2923
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#closed`](keyword/closed)
-    [`#concrete`](keyword/concrete)
-    [`#form`](keyword/form)
-    [`#fracture`](keyword/fracture)
-    [`#interface`](keyword/interface)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#quantity`](keyword/quantity)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/closed"><button class="btn">#closed</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Assessment%20of%20Interfacial-Fracture-Properties%20in%203D%20Printed%20Alkali-Activated%20Recycled%20Sand%20Concrete%20Based%20on%20a%20Closed-Form%20Fracture-Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205469091&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403096527" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2024.10.002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2024.10.002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focuses on 3D printed alkali-activated recycled sand concrete (AARSC), a material that offers environmental benefits and design flexibility. The 3D printing process creates interfaces between filaments and layers, which may become potential weak points and increase interfacial inhomogeneity and discontinuity. Therefore, evaluating fracture resistance of interfaces is vital for ensuring the reliability of 3D printed materials. This work develops a model that accounts for discontinuity and inhomogeneity, enabling the determination of more realistic interfacial tensile bond strength (ft) and fracture toughness (KIC) for 3D printed AARSC. The model establishes a linear relationship between the maximum load (Fmax) and interfacial fracture parameters, allowing the determination of size-independent ft and KIC through analytical solutions. Three-point bending tests were conducted on 3D printed AARSC beams with different interface types and recycled sand replacement ratios to systematically evaluate the effect of recycled sand content on the interfacial fracture properties. The results show that the predicted interfacial ft and KIC exhibited size-independence as intrinsic interfacial properties. Moreover, ft values of the inter-layer interface were slightly higher than those of the inter-filament interface for the same recycled sand content, with the largest observed difference at 100% recycled sand replacement, being 22.7%. When the replacement ratio increased from 60% to 100%, the decrease in ft became significant, with the reduction rates increasing to 32.0% and 26.4% for Type I and Type II interfaces, respectively. Additionally, a positive correlation was observed between the recycled sand content and the anisotropy in fracture behaviors of 3D printed AARSC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
@@ -124,8 +93,38 @@ tags:
       <li><a href="../../../author/zhao_kang"><b>Zhao</b> Kang</a>, <a href="../../../author/hu_zhongjun"><b>Hu</b> Zhongjun</a>, <a href="../../../author/wang_boxin"><b>Wang</b> Boxin</a>, <a href="../../../author/li_quanheng"><b>Li</b> Quanheng</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF/">Effect of Roughness and Adhesive on the Strength of Concrete-to-Concrete Interfaces Cast from 3D Printed Prefabricated Plastic Formworks</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM/">Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/duan_yuhang"><b>Duan</b> Yuhang</a>, <a href="../../../author/wang_chuan"><b>Wang</b> Chuan</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../duan_wang_yin_liew.2025.MIFi3PCvP/">Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lan_yang_xu_chen.2024.QAoIFPi3PAARSCBoaCFFM,
+      author            = "Tian Lan and Shutong Yang and Mingqi Xu and Zhengyuan Chen and Diqian Lin and Yingxue Wang",
+      title             = "Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model",
+      doi               = "10.1016/j.jmrt.2024.10.002",
+      year              = "2024",
+      journal           = "Journal of Materials Research and Technology",
+      volume            = "33",
+      pages             = "2899--2923",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Lan, S. Yang, M. Xu, Z. Chen, D. Lin and Y. Wang, “Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model”, <i>Journal of Materials Research and Technology</i>, vol. 33, pp. 2899–2923, 2024, doi: 10.1016/j.jmrt.2024.10.002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lan, Tian, Shutong Yang, Mingqi Xu, Zhengyuan Chen, Diqian Lin, and Yingxue Wang. “Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model”. <i>Journal of Materials Research and Technology</i> 33 (2024): 2899–2923. https://doi.org/10.1016/j.jmrt.2024.10.002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

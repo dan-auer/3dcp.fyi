@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matteo Sambucci, Danilo Marini, Abbas Sibai, Marco Valente
+    - footer
+title: Sambucci Matteo, Marini Danilo, Sibai Abbas, Valente Marco
 description:
 tags:
  - additive
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2504-477X/4/3/120/pdf?version=1597818901) Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction ([2020-08](date/2020/08))
-<a href="https://doi.org/10.3390/jcs4030120" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/jcs4030120</a>
+#Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction ([2020-08](date/2020/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2504-477X/4/3/120/pdf?version=1597818901) <a href="https://doi.org/10.3390/jcs4030120" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs4030120" target="_blank">10.3390/jcs4030120</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sambucci_matteo"><b>Sambucci</b>&nbsp;Matteo</a></span>, <a href="../../../author/marini_danilo"><b>Marini</b>&nbsp;Danilo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0982-970X" title="ORCID: 0000-0002-0982-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibai_abbas"><b>Sibai</b>&nbsp;Abbas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valente_marco"><b>Valente</b>&nbsp;Marco</a></span><br>
+Journal Article - Journal of Composites Science, Vol. 4, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marini_danilo"><b>Marini</b> Danilo</a>
-,     <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a> <a href="https://orcid.org/0000-0002-0982-970X" title="ORCID: 0000-0002-0982-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Composites Science, Vol. 4, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#mechanics`](keyword/mechanics)
-    [`#process`](keyword/process)
-    [`#rubber`](keyword/rubber)
-    [`#suitability`](keyword/suitability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Preliminary%20Mechanical%20Analysis%20of%20Rubber-Cement%20Composites%20Suitable%20for%20Additive%20Process%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104548186&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3057237007" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/jcs4030120" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/jcs4030120?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing for cementitious materials represents the most attractive frontier in the modern context of Construction 4.0. In addition to the technological progress of printing systems, the development of functional and low environmental impact printable mixtures is one of the current challenges of digital fabrication in building and architectural fields. This paper proposes a preliminary physical-mechanical analysis on environmentally friendly mortars, compatible with the extrusion-based printing process, made up of recycling rubber aggregates deriving from end-of-life tires. In this study, two groups of rubber particle samples (0–1 mm rubber powder and 2–4 mm rubber granules) were used to partially/totally replace the mineral fraction of the reference printable mixture. Four tire rubber powder-granules proportions were investigated and control mortar (100% sand) was also prepared to compare its properties with those of the rubber-cement samples in terms of printability properties, mechanical strength, ductility, and structural isotropy. Based on the experimental results, the rubber aggregates increase the mixture fluidity, promoting better inter-layer adhesion than the neat mix. This leads to greater mechanical isotropy. As already investigated in other research works on Rubber-Concrete technology, the addition of rubber particles increases the ductility of the material but reduces its mechanical strength. However, by correctly balancing the fine and coarse rubber fraction, promising physical-mechanical performances were demonstrated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../lim_weng_pham.2020.3PoCCSUAMF/">3D Printing of Curved Concrete Surfaces Using Adaptable Membrane Formwork</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
@@ -84,8 +61,8 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/su_yanli"><b>Su</b> Yanli</a>, <a href="../../../author/wu_chang"><b>Wu</b> Chang</a>, <a href="../../../author/shang_jiaqi"><b>Shang</b> Jiaqi</a>, <a href="../../../author/zhang_pu"><b>Zhang</b> Pu</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../su_wu_shan_zhan.2025.MPo3PHDCCwSCaMCR/">Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber</a></li>
       <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../xion_liu_nie_li.2025.EoDSMMoSPSRRPoMPo3PC/">Effect of Different Surface Modification Methods of Small Particle Size Recycled Rubber Powder on Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/zhang_yanling"><b>Zhang</b> Yanling</a>, <a href="../../../author/wu_qi"><b>Wu</b> Qi</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../sun_zhan_wu_wang.2024.3PCIWR/">3D Printed Concrete Incorporating Waste-Rubber:<br/>Anisotropic Properties and Environmental Impact-Analysis</a></li>
@@ -102,4 +79,34 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/setunge_sujeeva"><b>Setunge</b> Sujeeva</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_setu_tran.2022.3CPwCCRCR/">3D Concrete Printing with Cement-Coated Recycled Crumb Rubber:<br/>Compressive and Microstructural Properties</a></li>
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../samb_vale.2021.IoWTRPSotMMaAIPo3PCM/">Influence of Waste-Tire-Rubber-Particles-Size on the Microstructural, Mechanical, and Acoustic Insulation Properties of 3D Printable Cement Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{samb_mari_siba_vale.2020.PMAoRCCSfAPC,
+      author            = "Matteo Sambucci and Danilo Marini and Abbas Sibai and Marco Valente",
+      title             = "Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction",
+      doi               = "10.3390/jcs4030120",
+      year              = "2020",
+      journal           = "Journal of Composites Science",
+      volume            = "4",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sambucci, D. Marini, A. Sibai and M. Valente, “Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction”, <i>Journal of Composites Science</i>, vol. 4, no. 3, 2020, doi: 10.3390/jcs4030120.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sambucci, Matteo, Danilo Marini, Abbas Sibai, and Marco Valente. “Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction”. <i>Journal of Composites Science</i> 4, no. 3 (2020). https://doi.org/10.3390/jcs4030120.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

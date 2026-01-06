@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pengfei Qi, Ziyuan Wang, Ruifang Yu, Qiang Pei, Qianli Yang, Chen Wang, Liuqing Yang
+    - footer
+title: Qi Pengfei, Wang Ziyuan, Yu Ruifang, Pei Qiang, Yang Qianli, Wang Chen, Yang Liuqing
 description:
 tags:
  - analysis
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.jobe.2025.112998" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112998</a>
+#Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112998" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112998" target="_blank">10.1016/j.jobe.2025.112998</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-0180-6663" title="ORCID: 0009-0003-0180-6663" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qi_pengfei"><b>Qi</b>&nbsp;Pengfei</a></span>, <a href="../../../author/wang_ziyuan"><b>Wang</b>&nbsp;Ziyuan</a></span>, <a href="../../../author/yu_ruifang"><b>Yu</b>&nbsp;Ruifang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3068-7371" title="ORCID: 0000-0002-3068-7371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pei_qiang"><b>Pei</b>&nbsp;Qiang</a></span>, <a href="../../../author/yang_qianli"><b>Yang</b>&nbsp;Qianli</a></span>, <a href="../../../author/wang_chen"><b>Wang</b>&nbsp;Chen</a></span>, <a href="../../../author/yang_liuqing"><b>Yang</b>&nbsp;Liuqing</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112998
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a> <a href="https://orcid.org/0009-0003-0180-6663" title="ORCID: 0009-0003-0180-6663" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_ziyuan"><b>Wang</b> Ziyuan</a>
-,     <a href="../../../author/yu_ruifang"><b>Yu</b> Ruifang</a>
-,     <a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a> <a href="https://orcid.org/0000-0002-3068-7371" title="ORCID: 0000-0002-3068-7371" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_qianli"><b>Yang</b> Qianli</a>
-,     <a href="../../../author/wang_chen"><b>Wang</b> Chen</a>
-,     <a href="../../../author/yang_liuqing"><b>Yang</b> Liuqing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112998
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#mechanics`](keyword/mechanics)
-    [`#model`](keyword/model)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20Design%20and%20Regression%20Model%20Analysis%20of%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006703285&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410726034" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112998" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112998?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To investigate the effects of the basalt fiber volume ratio, fiber length, fly ash content, and water reducer dosage on the mechanical properties of 3D printed concrete (3DPC), a response surface regression model was constructed and optimized using a design of experiments with a desirability function. The measured values of compressive strength, flexural strength, and interlayer shear strength of 3DPC were compared with the predicted values from the model, validating the effectiveness and reliability of the response surface regression model. The research results indicate that with a volume fraction of basalt fibers at 1%, a fiber length of 6 mm, a fly ash content of 29%, and a water reducer content of 0.29%, the mechanical properties of the 3DPC are closest to the expected values. Scanning electron microscopy (SEM) analysis reveals that the optimized concrete possesses a more dense internal microstructure, significantly enhancing its mechanical performance. Thus, applying the response surface regression model and the desirability function to the optimization of the mechanical properties of 3DPC offers a novel research approach and methodology for this field, possessing significant application reference value. Future research should investigate the comprehensive effects of environmental conditions and new materials on the mechanical properties of 3DPC, and validate the feasibility of optimization strategies in real-world engineering to foster further development and application of 3DPC technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_zhan_pang_wang.2022.SFODaEo3PCwCA/">Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/quan_hongzhu"><b>Quan</b> Hongzhu</a>, <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_zhan_quan_liu.2024.EATDMPo3PCwCA/">Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates</a></li>
@@ -87,9 +62,38 @@ tags:
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qi_wang_yu_pei.2025.ODaRMAoMPo3PC,
+      author            = "Pengfei Qi and Ziyuan Wang and Ruifang Yu and Qiang Pei and Qianli Yang and Chen Wang and Liuqing Yang",
+      title             = "Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete",
+      doi               = "10.1016/j.jobe.2025.112998",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112998",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Qi, “Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete”, <i>Journal of Building Engineering</i>, p. 112998, 2025, doi: 10.1016/j.jobe.2025.112998.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qi, Pengfei, Ziyuan Wang, Ruifang Yu, Qiang Pei, Qianli Yang, Chen Wang, and Liuqing Yang. “Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete”. <i>Journal of Building Engineering</i>, 2025, 112998. https://doi.org/10.1016/j.jobe.2025.112998.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

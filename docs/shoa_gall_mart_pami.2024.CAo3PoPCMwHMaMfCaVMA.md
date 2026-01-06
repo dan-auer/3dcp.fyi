@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Parham Shoaei, Harrison Gallantree-Smith, Victor Martínez Pacheco, Ramón Pamies, Anna-Lena Kjøniksen, Shima Pilehvar
+    - footer
+title: Shoaei Parham, Gallantree-Smith Harrison, Martínez Pacheco Victor, Pamies Ramón, Kjøniksen Anna-Lena, Pilehvar Shima
 description:
 tags:
  - agent
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2024.113124) Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.matdes.2024.113124" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2024.113124</a>
+#Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2024.113124) <a href="https://doi.org/10.1016/j.matdes.2024.113124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.113124" target="_blank">10.1016/j.matdes.2024.113124</a>
 
--------------------------
+<a href="../../../author/shoaei_parham"><b>Shoaei</b>&nbsp;Parham</a></span>, <a href="../../../author/gallantree-smith_harrison"><b>Gallantree-Smith</b>&nbsp;Harrison</a></span>, <a href="../../../author/martinez-pacheco_victor"><b>Martínez Pacheco</b>&nbsp;Victor</a></span>, <a href="../../../author/pamies_ramon"><b>Pamies</b>&nbsp;Ramón</a></span>, <a href="../../../author/kjoniksen_anna-lena"><b>Kjøniksen</b>&nbsp;Anna-Lena</a></span>, <a href="../../../author/pilehvar_shima"><b>Pilehvar</b>&nbsp;Shima</a></span><br>
+Journal Article - Materials & Design, No. 113124
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shoaei_parham"><b>Shoaei</b> Parham</a>
-,     <a href="../../../author/gallantree-smith_harrison"><b>Gallantree-Smith</b> Harrison</a>
-,     <a href="../../../author/martinez-pacheco_victor"><b>Martínez Pacheco</b> Victor</a>
-,     <a href="../../../author/pamies_ramon"><b>Pamies</b> Ramón</a>
-,     <a href="../../../author/kjoniksen_anna-lena"><b>Kjøniksen</b> Anna-Lena</a>
-,     <a href="../../../author/pilehvar_shima"><b>Pilehvar</b> Shima</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, No. 113124
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#analysis`](keyword/analysis)
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#comparision`](keyword/comparision)
-    [`#fiber`](keyword/fiber)
-    [`#micro`](keyword/micro)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%203D%20Printing%20of%20Portland%20Cement%20Mortars%20with%20Hydroxypropyl-Methylcellulose%20and%20Micro-Fibrillated%20Cellulose%20as%20Viscosity-Modifying-Agents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197363523&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400037226" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2024.113124" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2024.113124?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The most used viscosity-modifying agents (VMAs) in 3D concrete printing (3DCP) are typically in powder form, which may pose challenges in dispersion and handling due to their low concentration and dust generation. This study explores the viability of using microfibrillated cellulose (MFC) in suspension and paste forms as a VMA in 3D-printable Portland cement mortars. The performance of these developed mortars was compared to a cement mortar containing hydroxypropyl methylcellulose (HPMC) in powder form. The mortars containing MFC in suspension and paste forms showed slightly higher workability, mechanical strength, and denser microstructure than those with HPMC. The MFC samples showed a higher viscosity and yield stress than the ones containing HPMC. A large-scale concrete 3D printer was used for the printability test. The HPMC mortars showed slightly superior extrudability and printability; however, the shape stability was inferior to that of the MFC mortars. The compressive strength of the 3D-printed samples was 40% lower compressive strength than the mold-cast samples; however, the flexural strength was comparable. Overall, the MFC in paste form outperformed the other VMAs studied here, providing better shape stability, while maintaining acceptable printability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
@@ -113,8 +86,37 @@ tags:
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kim_oh_lee_dong.2025.Eo3PCPFotFBoRCB/">Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams:<br/>Experimental and Analytical Investigations</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shoa_gall_mart_pami.2024.CAo3PoPCMwHMaMFCaVMA,
+      author            = "Parham Shoaei and Harrison Gallantree-Smith and Victor Martínez Pacheco and Ramón Pamies and Anna-Lena Kjøniksen and Shima Pilehvar",
+      title             = "Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents",
+      doi               = "10.1016/j.matdes.2024.113124",
+      year              = "2024",
+      journal           = "Materials & Design",
+      pages             = "113124",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Shoaei, H. Gallantree-Smith, V. M. Pacheco, R. Pamies, A.-L. Kjøniksen and S. Pilehvar, “Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents”, <i>Materials & Design</i>, p. 113124, 2024, doi: 10.1016/j.matdes.2024.113124.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shoaei, Parham, Harrison Gallantree-Smith, Victor Martínez Pacheco, Ramón Pamies, Anna-Lena Kjøniksen, and Shima Pilehvar. “Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents”. <i>Materials & Design</i>, 2024, 113124. https://doi.org/10.1016/j.matdes.2024.113124.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

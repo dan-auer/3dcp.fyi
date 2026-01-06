@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sungwoo Lim, Richard Buswell, Thanh Le, Rene Wackrow, Simon Austin, Alistar Gibb, Tony Thorpe
+    - footer
+title: Lim Sungwoo, Buswell Richard, Le Thanh, Wackrow Rene, Austin Simon, Gibb Alistar, Thorpe Tony
 description:
 tags:
  - concrete
@@ -12,31 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.iaarc.org/publications/fulltext/S20-3.pdf) Development of a Viable Concrete Printing Process ([2011-07](date/2011/07))
-<a href="https://doi.org/10.22260/isarc2011/0124" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2011/0124</a>
+#Development of a Viable Concrete Printing Process ([2011-07](date/2011/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/publications/fulltext/S20-3.pdf) <a href="https://doi.org/10.22260/isarc2011/0124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2011/0124" target="_blank">10.22260/isarc2011/0124</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9371-2968" title="ORCID: 0000-0002-9371-2968" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_sungwoo"><b>Lim</b>&nbsp;Sungwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <a href="../../../author/le_t_thanh"><b>Le</b>&nbsp;Thanh</a></span>, <a href="../../../author/wackrow_rene"><b>Wackrow</b>&nbsp;Rene</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/austin_a_simon"><b>Austin</b>&nbsp;Simon</a></span>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b>&nbsp;Alistar</a></span>, <a href="../../../author/thorpe_tony"><b>Thorpe</b>&nbsp;Tony</a></span><br>
+Contribution - Proceedings of the 28th International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a> <a href="https://orcid.org/0000-0002-9371-2968" title="ORCID: 0000-0002-9371-2968" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>
-,     <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a>
-,     <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> <a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>
-,     <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 28th International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Viable%20Concrete%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84863751219&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,24 +34,18 @@ tags:
 <a href="https://inciteful.xyz/p/W1872826877" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2011/0124" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2011/0124?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A novel Concrete Printing process has been developed, inspired and informed by advances in 3D printing, which has the potential to produce highly customised building components. Whilst still in their infancy, these technologies could create a new era of architecture that is better adapted to the environment and integrated with engineering function. This paper describes the development of a viable concrete printing process with a practical example in designing and manufacturing a concrete component (called Wonder Bench) that includes service voids and reinforcement. The challenges met and those still to be overcome particularly in the evaluation of the manufacturing tolerances of prints are also discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
-      <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
-      <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "154 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
       <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
@@ -224,4 +201,33 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/jeon_kwang-hyun"><b>Jeon</b> Kwang-Hyun</a>, <a href="../../../author/park_min-beom"><b>Park</b> Min-Beom</a>, <a href="../../../author/kang_min-kyung"><b>Kang</b> Min-Kyung</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../jeon_park_kang_kim.2013.DoaAFCSaICM/">Development of an Automated Freeform Construction System and Its Construction Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lim_busw_le_wack.2011.DoaVCPP,
+      author            = "Sungwoo Lim and Richard A. Buswell and Thanh T. Le and Rene Wackrow and Simon A. Austin and Alistar G.F. Gibb and Tony Thorpe",
+      title             = "Development of a Viable Concrete Printing Process",
+      doi               = "10.22260/isarc2011/0124",
+      year              = "2011",
+      booktitle         = "Proceedings of the 28th International Symposium on Automation and Robotics in Construction",
+      editor            = "Soonwook Kwon",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Lim, “Development of a Viable Concrete Printing Process”, in <i>Proceedings of the 28th International Symposium on Automation and Robotics in Construction</i>,  2011. doi: 10.22260/isarc2011/0124.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lim, Sungwoo, Richard A. Buswell, Thanh T. Le, Rene Wackrow, Simon A. Austin, Alistar G.F. Gibb, and Tony Thorpe. “Development of a Viable Concrete Printing Process”. In <i>Proceedings of the 28th International Symposium on Automation and Robotics in Construction</i>, edited by Soonwook Kwon, 2011. https://doi.org/10.22260/isarc2011/0124.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

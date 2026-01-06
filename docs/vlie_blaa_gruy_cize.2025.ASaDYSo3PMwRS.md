@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jentel Vlieger, Jan Blaakmeer, Elke Gruyaert, Özlem Cizer
+    - footer
+title: Vlieger Jentel, Blaakmeer Jan, Gruyaert Elke, Cizer Özlem
 description:
 tags:
  - assessment
@@ -24,40 +25,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Assessing Static and Dynamic Yield-Stress of 3D Printing Mortar with Recycled Sand:<br/>:aca-blank: Influence of Sand-Geometry, Fineness Modulus, and Water-to-Binder Ratio ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.jobe.2025.111827" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.111827</a>
+#Assessing Static and Dynamic Yield-Stress of 3D Printing Mortar with Recycled Sand&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Influence of Sand-Geometry, Fineness Modulus, and Water-to-Binder Ratio</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.111827" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.111827" target="_blank">10.1016/j.jobe.2025.111827</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0439-8514" title="ORCID: 0000-0003-0439-8514" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vlieger_jentel"><b>de&nbsp;Vlieger</b>&nbsp;Jentel</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9351-7889" title="ORCID: 0009-0005-9351-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0117-2544" title="ORCID: 0000-0003-0117-2544" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gruyaert_elke"><b>Gruyaert</b>&nbsp;Elke</a></span>, <a href="../../../author/cizer_ozlem"><b>Cizer</b>&nbsp;Özlem</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111827
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vlieger_jentel"><b>de Vlieger</b> Jentel</a> <a href="https://orcid.org/0000-0003-0439-8514" title="ORCID: 0000-0003-0439-8514" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a> <a href="https://orcid.org/0009-0005-9351-7889" title="ORCID: 0009-0005-9351-7889" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gruyaert_elke"><b>Gruyaert</b> Elke</a> <a href="https://orcid.org/0000-0003-0117-2544" title="ORCID: 0000-0003-0117-2544" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cizer_ozlem"><b>Cizer</b> Özlem</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111827
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#binder`](keyword/binder)
-    [`#dynamic`](keyword/dynamic)
-    [`#fine`](keyword/fine)
-    [`#geometry`](keyword/geometry)
-    [`#influence`](keyword/influence)
-    [`#modulus`](keyword/modulus)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#ratio`](keyword/ratio)
-    [`#recycling`](keyword/recycling)
-    [`#sand`](keyword/sand)
-    [`#static`](keyword/static)
-    [`#stress`](keyword/stress)
-    [`#water`](keyword/water)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/modulus"><button class="btn">#modulus</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessing%20Static%20and%20Dynamic%20Yield-Stress%20of%203D%20Printing%20Mortar%20with%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215540091&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,17 +47,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406602366" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.111827" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.111827?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     his study investigates the printability of mortar containing recycled sand for 3D printing applications, addressing the increasing demand for sustainable construction materials. The main objective is to understand how the morphology and fineness modulus of sand, along with the water-to-binder (w/b) ratio, influence the rheological properties of the mortar. 30 different mixtures were analyzed to assess their impact on static and dynamic yield stresses, offering insights into the key factors necessary for optimizing mixture designs in successful 3D printing processes. The analysis shows that the static yield stress is significantly influenced by the mixture’s water-to-binder ratio, as well as the fineness modulus and morphology of the sand particles. However, for the dynamic yield stress, only the water-to-binder ratio in the mixture and the fineness modulus of the recycled sand have a significant impact, while the morphology has negligible influence. Multiple linear regression analyses reveal that higher fineness modulus and water-to-binder ratios generally lead to lower static and dynamic yield stresses, as well as a reduced degree of shear thinning. These findings suggest that incorporating recycled sand enhances shear thinning in 3D printing mortar, potentially improving the buildability of the mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -102,8 +73,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vlie_blaa_gruy_cize.2025.ASaDYSo3PMwRS,
+      author            = "Jentel de Vlieger and Jan Blaakmeer and Elke Gruyaert and Özlem Cizer",
+      title             = "Assessing Static and Dynamic Yield-Stress of 3D Printing Mortar with Recycled Sand: Influence of Sand-Geometry, Fineness Modulus, and Water-to-Binder Ratio",
+      doi               = "10.1016/j.jobe.2025.111827",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "111827",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. de Vlieger, J. Blaakmeer, E. Gruyaert and Ö. Cizer, “Assessing Static and Dynamic Yield-Stress of 3D Printing Mortar with Recycled Sand: Influence of Sand-Geometry, Fineness Modulus, and Water-to-Binder Ratio”, <i>Journal of Building Engineering</i>, p. 111827, 2025, doi: 10.1016/j.jobe.2025.111827.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vlieger, Jentel de, Jan Blaakmeer, Elke Gruyaert, and Özlem Cizer. “Assessing Static and Dynamic Yield-Stress of 3D Printing Mortar with Recycled Sand: Influence of Sand-Geometry, Fineness Modulus, and Water-to-Binder Ratio”. <i>Journal of Building Engineering</i>, 2025, 111827. https://doi.org/10.1016/j.jobe.2025.111827.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

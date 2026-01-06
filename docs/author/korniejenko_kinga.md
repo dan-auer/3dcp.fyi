@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Korniejenko Kinga 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../rudz_huty_maro_korn.2025.3PLFCwDR/">3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement</a></li>
   <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>

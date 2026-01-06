@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seyed Mousavi, Khatereh Ahmadi, Mehdi Dehestani
+    - footer
+title: Mousavi Seyed, Ahmadi Khatereh, Dehestani Mehdi
 description:
 tags:
  - concrete
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fire Response of 3D Printed Concrete ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/b978-0-443-21620-6.00005-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-21620-6.00005-2</a>
+#Fire Response of 3D Printed Concrete ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-21620-6.00005-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-21620-6.00005-2" target="_blank">10.1016/b978-0-443-21620-6.00005-2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1367-7419" title="ORCID: 0000-0003-1367-7419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b>&nbsp;Seyed</a></span>, <a href="../../../author/ahmadi_khatereh"><b>Ahmadi</b>&nbsp;Khatereh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dehestani_mehdi"><b>Dehestani</b>&nbsp;Mehdi</a></span><br>
+Contribution - Construction Materials and Their Properties for Fire-Resistance and Insulation, pp. 127-148
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a> <a href="https://orcid.org/0000-0003-1367-7419" title="ORCID: 0000-0003-1367-7419" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmadi_khatereh"><b>Ahmadi</b> Khatereh</a>
-,     <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Construction Materials and Their Properties for Fire-Resistance and Insulation, pp. 127-148
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fire`](keyword/fire)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fire%20Response%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214158009&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404192990" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-21620-6.00005-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-21620-6.00005-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is a modern method of constructing concrete structures through a robotic system that extrudes layers. This technique is becoming popular in the construction industry because it allows for custom shapes, improved quality and productivity, reduced labor requirements, simplified supply chain by eliminating the need for formwork, and reduced material waste during construction. The quality of the structure depends on the materials used, the interaction between the layers, and the proportions of the concrete mixture. The behavior of a 3DCP member can differ based on the direction of the applied loading, either parallel or perpendicular to the layers. This nonhomogeneousness makes it challenging to predict how well it will tolerate environmental factors such as fire. It is crucial to take this into account when assessing the member’s safety. Accordingly, researchers have been exploring the heat resistance of 3D-printed concrete to test the reliability of 3DCP buildings under real conditions. Generally, concrete made using the traditional mold-casted method shows a moderate and steady decrease in mechanical properties up to 400°C, followed by a significant reduction when exposed to higher temperatures. This chapter discusses the resistance of 3D printable concrete compared with traditional mold-casted in various high-temperature exposure ranges. Different mechanical characteristics are considered in this chapter, including compressive strength, splitting tensile strength, flexural strength, and elastic modulus. Also, the effect of critical parameters is discussed, such as fiber type, concrete composition, and loading direction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
@@ -79,7 +62,36 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mous_ahma_dehe.2025.FRo3PC,
+      author            = "Seyed Sina Mousavi and Khatereh Ahmadi and Mehdi Dehestani",
+      title             = "Fire Response of 3D Printed Concrete",
+      doi               = "10.1016/b978-0-443-21620-6.00005-2",
+      year              = "2025",
+      pages             = "127--148",
+      booktitle         = "Construction Materials and Their Properties for Fire-Resistance and Insulation",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. S. Mousavi, K. Ahmadi and M. Dehestani, “Fire Response of 3D Printed Concrete”, in <i>Construction Materials and Their Properties for Fire-Resistance and Insulation</i>,  2025, pp. 127–148. doi: 10.1016/b978-0-443-21620-6.00005-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mousavi, Seyed Sina, Khatereh Ahmadi, and Mehdi Dehestani. “Fire Response of 3D Printed Concrete”. In <i>Construction Materials and Their Properties for Fire-Resistance and Insulation</i>, 127–48, 2025. https://doi.org/10.1016/b978-0-443-21620-6.00005-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

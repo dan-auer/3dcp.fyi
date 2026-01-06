@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Yamei Zhang, Nemkumar Banthia
+    - footer
+title: Liu Chao, Zhang Yamei, Banthia Nemkumar
 description:
 tags:
  - concrete
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Unveiling Pore Formation and Its Influence on Micromechanical Property and Stress-Distribution of 3D Printed Foam-Concrete Modified with Hydroxypropyl-Methylcellulose and Silica-Fume ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.addma.2023.103606" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103606</a>
+#Unveiling Pore Formation and Its Influence on Micromechanical Property and Stress-Distribution of 3D Printed Foam-Concrete Modified with Hydroxypropyl-Methylcellulose and Silica-Fume ([2023-05](date/2023/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2023.103606" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103606" target="_blank">10.1016/j.addma.2023.103606</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span><br>
+Journal Article - Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#distribution`](keyword/distribution)
-    [`#foam`](keyword/foam)
-    [`#form`](keyword/form)
-    [`#fume`](keyword/fume)
-    [`#influence`](keyword/influence)
-    [`#modification`](keyword/modification)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#silica`](keyword/silica)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Unveiling%20Pore%20Formation%20and%20Its%20Influence%20on%20Micromechanical%20Property%20and%20Stress-Distribution%20of%203D%20Printed%20Foam-Concrete%20Modified%20with%20Hydroxypropyl-Methylcellulose%20and%20Silica-Fume" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159292039&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4376126836" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103606" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103606?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The pore features are key parameters that influence the mechanical properties, thermal insulation, and durability of concrete. The impact of the printing process and rheological property adjusting materials on the pore features of bulk filament and the interface between two vertically neighboring filaments (intVNF) of 3D printed foam concrete (3DPFC) was comprehensively investigated. The origin of pore features was analyzed. An appropriate dosage of hydroxypropyl methylcellulose (HPMC) reduces the difference in pore orientation and the porosity between the bulk filament and the intVNF. With the increase of silica fume content, the pore sphericity of 3DPFC becomes better. The elastic modulus of the matrix near the intVNF of 3DPFC shows a discrete distribution, which is affected by the uneven distribution of matrix pores. A force model of bubbles in 3DPFC was proposed. The force analysis of 3DPFC was carried out combined with experimental results and finite element simulation by considering various pore parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -102,8 +77,8 @@ tags:
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
@@ -135,4 +110,32 @@ tags:
       <li><a href="../../../author/hu_hailong"><b>Hu</b> Hailong</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/manuka_mesfin"><b>Manuka</b> Mesfin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../hu_huan_wang_manu.2023.IoCSCoPaESDoaSB3PCM/">Impact of Calcium Sulfoaluminate Cement on Printability and Early Strength Development of a Slag-Based 3D Printing Cementitious Material</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/gora_mateusz"><b>Góra</b> Mateusz</a>, <a href="../../../author/dziura_pawel"><b>Dziura</b> Paweł</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../rudz_maro_gora_dziu.2023.FRoAMAi3CP/">Feasibility Review of Aerated Materials Application in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_zhan_bant.2023.UPFaIIoMPaSDo3PFCMwHMaSF,
+      author            = "Chao Liu and Yamei Zhang and Nemkumar Banthia",
+      title             = "Unveiling Pore Formation and Its Influence on Micromechanical Property and Stress-Distribution of 3D Printed Foam-Concrete Modified with Hydroxypropyl-Methylcellulose and Silica-Fume",
+      doi               = "10.1016/j.addma.2023.103606",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, Y. Zhang and N. Banthia, “Unveiling Pore Formation and Its Influence on Micromechanical Property and Stress-Distribution of 3D Printed Foam-Concrete Modified with Hydroxypropyl-Methylcellulose and Silica-Fume”, <i>Additive Manufacturing</i>, 2023, doi: 10.1016/j.addma.2023.103606.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Yamei Zhang, and Nemkumar Banthia. “Unveiling Pore Formation and Its Influence on Micromechanical Property and Stress-Distribution of 3D Printed Foam-Concrete Modified with Hydroxypropyl-Methylcellulose and Silica-Fume”. <i>Additive Manufacturing</i>, 2023. https://doi.org/10.1016/j.addma.2023.103606.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Moein Mousavi, Habib Bengar, Fateme Mousavi, Pooneh Mahdavinia, Mehdi Bengar
+    - footer
+title: Mousavi Moein, Bengar Habib, Mousavi Fateme, Mahdavinia Pooneh, Bengar Mehdi
 description:
 tags:
  - artificial
@@ -20,37 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network:<br/>:aca-blank: Experimental and Modeling Study ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.istruc.2024.108147" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2024.108147</a>
+#Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">Experimental and Modeling Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2024.108147" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.108147" target="_blank">10.1016/j.istruc.2024.108147</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_moein"><b>Mousavi</b>&nbsp;Moein</a></span>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b>&nbsp;Habib</a></span>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b>&nbsp;Fateme</a></span>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b>&nbsp;Pooneh</a></span>, <a href="../../../author/bengar_akbari_mehdi"><b>Bengar</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Structures, Vol. 71, No. 108147
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a> <a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>
-,     <a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a>
-,     <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b> Pooneh</a>
-,     <a href="../../../author/bengar_akbari_mehdi"><b>Bengar</b> Mehdi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 71, No. 108147
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#model`](keyword/model)
-    [`#network`](keyword/network)
-    [`#neural`](keyword/neural)
-    [`#prediction`](keyword/prediction)
-    [`#printability`](keyword/printability)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Bond%20Strength%20Prediction%20of%203D%20Printable%20Concrete%20Using%20Artificial%20Neural%20Network" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213571444&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405917951" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2024.108147" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2024.108147?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interlayer bond strength is a key factor in 3D concrete printing (3DCP); therefore, having a reliable prediction model for it is of great importance. Few studies offer models predicting interlayer bond strength. Given the sensitivity of 3DCP properties to material quality and mix design, conducting a comprehensive study with multiple mix designs using ingredients from the same supplier is crucial. This study developed a highly accurate artificial neural network model to predict interlayer bond strength. The model’s input variables, in kg/m³ , included OPC, water, and sand content. Additionally, the water-cement ratio (W/C) and sand-cement ratio (S/C) were used as inputs. The wt% of viscosity-modifying admixture, fibers, and superplasticizer (SP) relative to the cement weight, along with three printing time gaps (min), were also considered as inputs. Sensitivity analysis highlighted wt% of SP, W/C, and printing time gap as key influencers on interlayer bond strength, contributing 18.5 %, 15 %, and 14.5 %, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/azimi_zahir"><b>Azimi</b> Zahir</a>, <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b> Akbar</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS/">Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand</a></li>
@@ -112,10 +86,40 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
       <li><a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abid_syed_khan.2025.EMLBMfPIBSi3PC/">Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mous_beng_mous_mahd.2025.ILBSPo3PCUANN,
+      author            = "Moein Mousavi and Habib Akbarzadeh Bengar and Fateme Mousavi and Pooneh Mahdavinia and Mehdi Akbari Bengar",
+      title             = "Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network: Experimental and Modeling Study",
+      doi               = "10.1016/j.istruc.2024.108147",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "71",
+      pages             = "108147",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Mousavi, H. A. Bengar, F. Mousavi, P. Mahdavinia and M. A. Bengar, “Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network: Experimental and Modeling Study”, <i>Structures</i>, vol. 71, p. 108147, 2025, doi: 10.1016/j.istruc.2024.108147.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mousavi, Moein, Habib Akbarzadeh Bengar, Fateme Mousavi, Pooneh Mahdavinia, and Mehdi Akbari Bengar. “Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network: Experimental and Modeling Study”. <i>Structures</i> 71 (2025): 108147. https://doi.org/10.1016/j.istruc.2024.108147.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Venkatesh Nerella, Mathias Näther, Arsalan Iqbal, Marko Butler, Viktor Mechtcherine
+    - footer
+title: Nerella Venkatesh, Näther Mathias, Iqbal Arsalan, Butler Marko, Mechtcherine Viktor
 description:
 tags:
  - cement
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2018.09.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2018.09.015</a>
+#In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2018.09.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2018.09.015" target="_blank">10.1016/j.cemconcomp.2018.09.015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <a href="../../../author/nather_mathias"><b>Näther</b>&nbsp;Mathias</a></span>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b>&nbsp;Arsalan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/butler_marko"><b>Butler</b>&nbsp;Marko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 95, pp. 260-270
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>
-,     <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>
-,     <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> <a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 95, pp. 260-270
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#extrusion`](keyword/extrusion)
-    [`#line`](keyword/line)
-    [`#material`](keyword/material)
-    [`#quantification`](keyword/quantification)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/quantification"><button class="btn">#quantification</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Line%20Quantification%20of%20Extrudability%20of%20Cementitious%20Materials%20for%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85054171636&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,29 +37,23 @@ tags:
 <a href="https://inciteful.xyz/p/W2892531774" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2018.09.015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2018.09.015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital construction (DC) is a new process, and hence, no standard experimental methods for process-specific material characterization are as yet available. This article proposes a methodology for characterizing the extrudability of cement-based materials for DC, both quantitatively and inline. A 3D-printing test device was used for this purpose, which enabled the elimination of most artefacts in the characterization of materials. Unit extrusion energy UEE, defined as the energy consumed per extruded unit volume, was used as the measure of extrudability, lower UEE implying higher extrudability. The results obtained using the proposed approach were compared with results of a simple ram-extruder, slump-flow and viscometer tests. Two fine-grained concrete mixtures under investigation, one with ordinary sand and one with very fine sand, having respective yield stresses of 306.2 Pa and 642.7 Pa, were characterized. They showed a significant difference in their extrudability: the UEE needed in the case of material with finer sand was 1.62 times higher than that of the mixture with coarser sand. Interestingly, average ram extrusion force for the finer mixture was much lower than that of the coarser mix, underlining the challenges in material characterization and the need to consider the possible artefacts of various testing methods. Comparative analyses substantiated the significance of the proposed inline extrudability quantification method for DC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../nere_mech.2018.VSPRfEPoC/">Virtual Sliding-Pipe Rheometer for Estimating Pumpability of Concrete</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/micaelli_francesca"><b>Micaelli</b> Francesca</a> et al. <a href="../../../date/2012/06">(2012-06)</a><br><a href="../../../perr_meli_rang_mica.2012.UoREaaCRTtStBoHYSFaLSR/">Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/voigt_thomas"><b>Voigt</b> Thomas</a>, <a href="../../../author/malonn_tim"><b>Malonn</b> Tim</a>, <a href="../../../author/shah_p_surendra"><b>Shah</b> Surendra</a> <a href="../../../date/2005/10">(2005-10)</a><br><a href="../../../voig_malo_shah.2006.GaEACSoECMMwCTaUT/">Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "192 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
@@ -270,7 +246,35 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../perr_rang_nere_mech.2018.EoCBM/">Extrusion of Cement-Based Materials:<br/>An Overview</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../mech_nere.2019.3CPbSD/">3D-Concrete-Printing by Selective Deposition:<br/>Requirements for Fresh Concrete and Testing</a></li>
-      <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
-      <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nere_nath_iqba_butl.2019.ILQoEoCMfDC,
+      author            = "Venkatesh Naidu Nerella and Mathias Näther and Arsalan Iqbal and Marko Butler and Viktor Mechtcherine",
+      title             = "In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction",
+      doi               = "10.1016/j.cemconcomp.2018.09.015",
+      year              = "2019",
+      journal           = "Cement and Concrete Composites",
+      volume            = "95",
+      pages             = "260--270",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. N. Nerella, M. Näther, A. Iqbal, M. Butler and V. Mechtcherine, “In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction”, <i>Cement and Concrete Composites</i>, vol. 95, pp. 260–270, 2019, doi: 10.1016/j.cemconcomp.2018.09.015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nerella, Venkatesh Naidu, Mathias Näther, Arsalan Iqbal, Marko Butler, and Viktor Mechtcherine. “In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction”. <i>Cement and Concrete Composites</i> 95 (2019): 260–70. https://doi.org/10.1016/j.cemconcomp.2018.09.015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

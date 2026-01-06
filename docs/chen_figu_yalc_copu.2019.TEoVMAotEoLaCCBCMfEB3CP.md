@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Chen, Stefan Figueiredo, Çağlar Yalçınkaya, Oğuzhan Çopuroğlu, Frederic Veer, Erik Schlangen
+    - footer
+title: Chen Yu, Figueiredo Stefan, Yalçınkaya Çağlar, Çopuroğlu Oğuzhan, Veer Frederic, Schlangen Erik
 description:
 tags:
  - admixture
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/12/9/1374/pdf?version=1556422605) The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing ([2019-04](date/2019/04))
-<a href="https://doi.org/10.3390/ma12091374" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma12091374</a>
+#The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing ([2019-04](date/2019/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/9/1374/pdf?version=1556422605) <a href="https://doi.org/10.3390/ma12091374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12091374" target="_blank">10.3390/ma12091374</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7945-7171" title="ORCID: 0000-0002-7945-7171" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b>&nbsp;Çağlar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9821-0019" title="ORCID: 0000-0002-9821-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/veer_frederic"><b>Veer</b>&nbsp;Frederic</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span><br>
+Journal Article - Materials, Vol. 12, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a> <a href="https://orcid.org/0000-0002-7945-7171" title="ORCID: 0000-0002-7945-7171" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="https://orcid.org/0000-0002-9821-0019" title="ORCID: 0000-0002-9821-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 12, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#limestone`](keyword/limestone)
-    [`#material`](keyword/material)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Viscosity-Modifying%20Admixture%20on%20the%20Extrudability%20of%20Limestone%20and%20Calcined-Clay-Based%20Cementitious%20Material%20for%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85065743471&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,22 +42,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2940585293" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma12091374" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma12091374?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To investigate the effects of viscosity-modifying admixture (VMA) on the extrudability of limestone and calcined clay-based cementitious materials, three mix designs with different dosages of VMA were proposed in this study. The ram extrusion was utilized as an extrusion model for exploring the fresh properties of printable materials. Two methods were used, based on the ram extruder setup-(a) extruding materials with the same extrusion speed at different rest times to determine how the pressure changes with time; (b) extruding materials with different extrusion speeds at the same rest time to investigate the material flow parameters using the Basterfield et al. model. The main findings of this study could be summarized as-(1) the extrusion pressure of all mix designs exhibited an increasing trend with time. At the same tested age, the extrusion pressure under 0.25 mm/s of piston speed was increased and the shape retention of the extruded filaments was enhanced by increasing the dosage of VMA; (2) the correlation between the experimental results and the Basterfield et al. model was excellent (R-squared value: 0.99). The mixture with a higher content of VMA showed an increased elongational yield stress, flow consistency, and shear yield stress.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
-      <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/ding_zhu"><b>Ding</b> Zhu</a>, <a href="../../../author/wang_xiaodong"><b>Wang</b> Xiaodong</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/zou_x-w_patrick"><b>Zou</b> Patrick</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../ding_wang_sanj_zou.2018.AFSoHISCf3P/">A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
@@ -101,8 +72,9 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "128 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
       <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>
@@ -231,4 +203,34 @@ tags:
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../pand_unlu_tan.2019.EaRCoGNUi3P/">Extrusion and Rheology Characterization of Geopolymer Nanocomposites Used in 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP,
+      author            = "Yu Chen and Stefan Chaves Figueiredo and Çağlar Yalçınkaya and Oğuzhan Çopuroğlu and Frederic Veer and Erik Schlangen",
+      title             = "The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing",
+      doi               = "10.3390/ma12091374",
+      year              = "2019",
+      journal           = "Materials",
+      volume            = "12",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, S. C. Figueiredo, Ç. Yalçınkaya, O. Çopuroğlu, F. Veer and E. Schlangen, “The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing”, <i>Materials</i>, vol. 12, no. 9, 2019, doi: 10.3390/ma12091374.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yu, Stefan Chaves Figueiredo, Çağlar Yalçınkaya, Oğuzhan Çopuroğlu, Frederic Veer, and Erik Schlangen. “The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing”. <i>Materials</i> 12, no. 9 (2019). https://doi.org/10.3390/ma12091374.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

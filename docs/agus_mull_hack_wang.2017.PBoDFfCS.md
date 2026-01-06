@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Isolda Agustí-Juan, Florian Müller, Norman Hack, Timothy Wangler, Guillaume Habert
+    - footer
+title: Agustí-Juan Isolda, Müller Florian, Hack Norman, Wangler Timothy, Habert Guillaume
 description:
 tags:
  - assessment
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0959652617306984) Potential Benefits of Digital Fabrication for Complex Structures:<br/>:aca-blank: Environmental Assessment of a Robotically Fabricated Concrete Wall ([2017-04](date/2017/04))
-<a href="https://doi.org/10.1016/j.jclepro.2017.04.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2017.04.002</a>
+#Potential Benefits of Digital Fabrication for Complex Structures&nbsp;([2017-04](date/2017/04))
+<div class="h1-like">Environmental Assessment of a Robotically Fabricated Concrete Wall</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0959652617306984) <a href="https://doi.org/10.1016/j.jclepro.2017.04.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2017.04.002" target="_blank">10.1016/j.jclepro.2017.04.002</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b>&nbsp;Isolda</a></span>, <a href="../../../author/muller_florian"><b>Müller</b>&nbsp;Florian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habert_guillaume"><b>Habert</b>&nbsp;Guillaume</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 154, pp. 330-340
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> <a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 154, pp. 330-340
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#benefit`](keyword/benefit)
-    [`#complexity`](keyword/complexity)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#environment`](keyword/environment)
-    [`#fabrication`](keyword/fabrication)
-    [`#potential`](keyword/potential)
-    [`#robot`](keyword/robot)
-    [`#structure`](keyword/structure)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Potential%20Benefits%20of%20Digital%20Fabrication%20for%20Complex%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85018545282&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2604877853" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2017.04.002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2017.04.002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication represents innovative, computer-controlled processes and technologies with the potential to expand the boundaries of conventional construction. Their use in construction is currently restricted to complex and iconic structures, but the growth potential is large. This paper aims to investigate the environmental opportunities of digital fabrication methods, particularly when applied to complex concrete geometries. A case study of a novel robotic additive process that is applied to a wall structure is evaluated with the Life Cycle Assessment (LCA) method. The results of the assessment demonstrate that digital fabrication provides environmental benefits when applied to complex structures. The results also confirm that additional complexity is achieved through digital fabrication without additional environmental costs. This study provides a quantitative argument to position digital fabrication at the beginning of a new era, which is often called the Digital Age in many other disciplines.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a>, <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2013/09">(2013-09)</a><br><a href="../../../hack_laue_lang_gram.2013.OR/">Overcoming Repetition:<br/>Robotic Fabrication Processes at a Large-Scale</a></li>
@@ -82,8 +57,8 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "149 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
@@ -234,4 +209,34 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{agus_mull_hack_wang.2017.PBoDFfCS,
+      author            = "Isolda Agustí-Juan and Florian Müller and Norman Peter Hack and Timothy Paul Wangler and Guillaume Habert",
+      title             = "Potential Benefits of Digital Fabrication for Complex Structures: Environmental Assessment of a Robotically Fabricated Concrete Wall",
+      doi               = "10.1016/j.jclepro.2017.04.002",
+      year              = "2017",
+      journal           = "Journal of Cleaner Production",
+      volume            = "154",
+      pages             = "330--340",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Agustí-Juan, F. Müller, N. P. Hack, T. P. Wangler and G. Habert, “Potential Benefits of Digital Fabrication for Complex Structures: Environmental Assessment of a Robotically Fabricated Concrete Wall”, <i>Journal of Cleaner Production</i>, vol. 154, pp. 330–340, 2017, doi: 10.1016/j.jclepro.2017.04.002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Agustí-Juan, Isolda, Florian Müller, Norman Peter Hack, Timothy Paul Wangler, and Guillaume Habert. “Potential Benefits of Digital Fabrication for Complex Structures: Environmental Assessment of a Robotically Fabricated Concrete Wall”. <i>Journal of Cleaner Production</i> 154 (2017): 330–40. https://doi.org/10.1016/j.jclepro.2017.04.002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

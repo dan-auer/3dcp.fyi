@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammed Sonebi, Sandipan Kaushik, Sofiane Amziane, Gerard Hamill
+    - footer
+title: Sonebi Mohammed, Kaushik Sandipan, Amziane Sofiane, Hamill Gerard
 description:
 tags:
  - concrete
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimization of Rheological and Hardened Properties of 3D Concrete Printing ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/978-3-031-92777-5_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-92777-5_9</a>
+#Optimization of Rheological and Hardened Properties of 3D Concrete Printing ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92777-5_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92777-5_9" target="_blank">10.1007/978-3-031-92777-5_9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaushik_sandipan"><b>Kaushik</b>&nbsp;Sandipan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amziane_sofiane"><b>Amziane</b>&nbsp;Sofiane</a></span>, <a href="../../../author/hamill_gerard"><b>Hamill</b>&nbsp;Gerard</a></span><br>
+Contribution - Proceedings of the 6th International Conference on Bio-Based Building Materials, pp. 102-112
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a> <a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hamill_gerard"><b>Hamill</b> Gerard</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 6th International Conference on Bio-Based Building Materials, pp. 102-112
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Rheological%20and%20Hardened%20Properties%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009239561&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411108056" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-92777-5_9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-92777-5_9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is a significant advancement in modern construction, enabling tailored rheological and mechanical properties for additive manufacturing. Optimal flowability, static yield strength, and mechanical performance are essential for successful 3DCP, ensuring workability during extrusion and stability for subsequent layers. Incorporating sustainable materials like fly ash enhances the environmental appeal of 3DCP, making it a promising green alternative to traditional methods. This study examines the impact of key mix components on the rheological and mechanical properties of 3DCP to develop optimized compositions balancing flowability and stability. A factorial design approach was used to systematically vary cement content (550–650 kg/m3), fly ash (10–20% of cement), superplasticizer (0.2–1.0 kg/m3), and water (295–315 kg/m3). All mixes made with 3 kg/m3 of sisal fibres. This method improves optimization efficiency by identifying effective combinations and reducing experimental trials. Rheological properties were evaluated using slump flow, cone penetration, and cylindrical slump tests, while compressive and flexural strength tests assessed mechanical performance. Statistical models identified the water and binder content as the most critical factor influencing rheology. Fly ash improved fluidity and strength in conventional concrete but had limited benefits in 3DCP due to water absorption. Superplasticizers enhanced fluidity and reduced water use but required careful balancing to prevent adverse effects. The factorial design further refined these findings, efficiently identifying parameter interactions critical for achieving optimal 3DCP performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
@@ -79,9 +59,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/eugenin_claudia"><b>Eugenin</b> Claudia</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../euge_cuev_nava.2023.TDo3PCPwCT/">Temperature-Dependance of 3D Printed Concrete Produced with Copper-Tailings</a></li>
-      <li><a href="../../../author/eugenin_claudia"><b>Eugenin</b> Claudia</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a>, <a href="../../../author/brevis_wernher"><b>Brevis</b> Wernher</a>, <a href="../../../author/lopez_mauricio"><b>Lopez</b> Mauricio</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../euge_nava_brev_lope.2022.ABaaAfPC/">Air-Bubbles as an Admixture for Printable Concrete:<br/>A Review of the Rheological Effect of Entrained Air</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sone_kaus_amzi_hami.2025.OoRaHPo3CP,
+      author            = "Mohammed Sonebi and Sandipan Kaushik and Sofiane Amziane and Gerard Hamill",
+      title             = "Optimization of Rheological and Hardened Properties of 3D Concrete Printing",
+      doi               = "10.1007/978-3-031-92777-5_9",
+      year              = "2025",
+      volume            = "60",
+      pages             = "102--112",
+      booktitle         = "Proceedings of the 6th International Conference on Bio-Based Building Materials: Volume 1 & 2",
+      editor            = "Sofiane Amziane and Romildo Dias Toledo Filho and M'hamed Yassin Rajiv da Gloria and Jonathan Page",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sonebi, S. Kaushik, S. Amziane and G. Hamill, “Optimization of Rheological and Hardened Properties of 3D Concrete Printing”, in <i>Proceedings of the 6th International Conference on Bio-Based Building Materials: Volume 1 & 2</i>,  2025, vol. 60, pp. 102–112. doi: 10.1007/978-3-031-92777-5_9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sonebi, Mohammed, Sandipan Kaushik, Sofiane Amziane, and Gerard Hamill. “Optimization of Rheological and Hardened Properties of 3D Concrete Printing”. In <i>Proceedings of the 6th International Conference on Bio-Based Building Materials: Volume 1 & 2</i>, edited by Sofiane Amziane, Romildo Dias Toledo Filho, M'hamed Yassin Rajiv da Gloria, and Jonathan Page, 60:102–12, 2025. https://doi.org/10.1007/978-3-031-92777-5_9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

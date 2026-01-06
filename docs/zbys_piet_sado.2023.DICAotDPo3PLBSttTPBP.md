@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wojciech Zbyszyński, Daniel Pietras, Tomasz Sadowski
+    - footer
+title: Zbyszyński Wojciech, Pietras Daniel, Sadowski Tomasz
 description:
 tags:
  - analysis
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Data-Image-Correlation-Analysis of the Destruction-Process of 3D Printable Layered Beams Subjected to the Three-Point Bending Process ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.tafmec.2023.103891" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.tafmec.2023.103891</a>
+#Data-Image-Correlation-Analysis of the Destruction-Process of 3D Printable Layered Beams Subjected to the Three-Point Bending Process ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tafmec.2023.103891" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tafmec.2023.103891" target="_blank">10.1016/j.tafmec.2023.103891</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6108-2992" title="ORCID: 0000-0001-6108-2992" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b>&nbsp;Wojciech</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4877-9135" title="ORCID: 0000-0002-4877-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pietras_daniel"><b>Pietras</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9212-8340" title="ORCID: 0000-0001-9212-8340" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadowski_tomasz"><b>Sadowski</b>&nbsp;Tomasz</a></span><br>
+Journal Article - Theoretical and Applied Fracture Mechanics
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b> Wojciech</a> <a href="https://orcid.org/0000-0001-6108-2992" title="ORCID: 0000-0001-6108-2992" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pietras_daniel"><b>Pietras</b> Daniel</a> <a href="https://orcid.org/0000-0002-4877-9135" title="ORCID: 0000-0002-4877-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sadowski_tomasz"><b>Sadowski</b> Tomasz</a> <a href="https://orcid.org/0000-0001-9212-8340" title="ORCID: 0000-0001-9212-8340" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Theoretical and Applied Fracture Mechanics, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#beam`](keyword/beam)
-    [`#bending`](keyword/bending)
-    [`#correlation`](keyword/correlation)
-    [`#data`](keyword/data)
-    [`#destructive`](keyword/destructive)
-    [`#image`](keyword/image)
-    [`#layer`](keyword/layer)
-    [`#point`](keyword/point)
-    [`#printability`](keyword/printability)
-    [`#process`](keyword/process)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/point"><button class="btn">#point</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Data-Image-Correlation-Analysis%20of%20the%20Destruction-Process%20of%203D%20Printable%20Layered%20Beams%20Subjected%20to%20the%20Three-Point%20Bending%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152243610&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4362704725" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.tafmec.2023.103891" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.tafmec.2023.103891?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Technological processes and materials related to Additive Manufacturing (AM) are gaining popularity in civil engineering 3D concrete printing is aimed mainly at the process of rising the inner and outer walls of buildings. In these elements, the main load is axial compression with a low fraction of bending. The 3D-printing process of cement-based materials provides the construction elements with appropriate compressive strength. Although creating elements, which can carry the tensile loading is necessary to make the 3D-printing process used in civil engineering. Therefore, this paper aims to show the response of the 3D-printed cement-based composites to the bending process to find the effect of complex layered structures on their effective properties. Instead of the standard use of an extensometer to obtain Crack Mouth Opening Displacement results, novel Digital Image Correlation measurement technology was used during research. This technology allows for continuous real-time measurements that are extremely difficult when testing brittle materials such as concrete and avoids the additional introduction of external forces caused by the classical measuring device. The proposed AM material contains the interlayer polymeric net and smeared polymeric reinforcement to enhance flexural strength. The use of the polymeric net and smeared reinforcement introduces residual strength into the composite allowing for its further work after brittle phase failure. However, the obtained results showed that analysed layered beams had decreased interlayer resistance. The process of layer cracking occurs subsequently layer by layer and the failure in different layers developed as an independent process including cracks arresting.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -93,10 +68,38 @@ tags:
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD/">A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS/">Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States</a></li>
       <li><a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a>, <a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ciso_kowa.2025.TIotCSGoSCi3PCE/">The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements:<br/>A Preliminary Study</a></li>
       <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_yang_liu_xu.2024.CFFMfECRo3PFRAASFARSC/">Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zbys_piet_sado.2023.DICAotDPo3PLBSttTPBP,
+      author            = "Wojciech Zbyszyński and Daniel Pietras and Tomasz Sadowski",
+      title             = "Data-Image-Correlation-Analysis of the Destruction-Process of 3D Printable Layered Beams Subjected to the Three-Point Bending Process",
+      doi               = "10.1016/j.tafmec.2023.103891",
+      year              = "2023",
+      journal           = "Theoretical and Applied Fracture Mechanics",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zbyszyński, D. Pietras and T. Sadowski, “Data-Image-Correlation-Analysis of the Destruction-Process of 3D Printable Layered Beams Subjected to the Three-Point Bending Process”, <i>Theoretical and Applied Fracture Mechanics</i>, 2023, doi: 10.1016/j.tafmec.2023.103891.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zbyszyński, Wojciech, Daniel Pietras, and Tomasz Sadowski. “Data-Image-Correlation-Analysis of the Destruction-Process of 3D Printable Layered Beams Subjected to the Three-Point Bending Process”. <i>Theoretical and Applied Fracture Mechanics</i>, 2023. https://doi.org/10.1016/j.tafmec.2023.103891.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

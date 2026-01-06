@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: K. Elango, R. Saravanakumar, D. Vivek, S. Yuvaraj, P. Prasanthni
+    - footer
+title: Elango K., Saravanakumar R., Vivek D., Yuvaraj S., Prasanthni P.
 description:
 tags:
  - concrete
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Critical Review of Fresh, Hardened and Durability Properties of 3D Printing Concrete ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1007/978-3-031-73816-6_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-73816-6_11</a>
+#A Critical Review of Fresh, Hardened and Durability Properties of 3D Printing Concrete ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-73816-6_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-73816-6_11" target="_blank">10.1007/978-3-031-73816-6_11</a>
 
--------------------------
+<a href="../../../author/elango_s_k"><b>Elango</b>&nbsp;K.</a></span>, <a href="../../../author/saravanakumar_r"><b>Saravanakumar</b>&nbsp;R.</a></span>, <a href="../../../author/vivek_d"><b>Vivek</b>&nbsp;D.</a></span>, <a href="../../../author/yuvaraj_s"><b>Yuvaraj</b>&nbsp;S.</a></span>, <a href="../../../author/prasanthni_p"><b>Prasanthni</b>&nbsp;P.</a></span><br>
+Contribution - Innovations in Electronic Materials, pp. 93-103
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/elango_s_k"><b>Elango</b> K.</a>
-,     <a href="../../../author/saravanakumar_r"><b>Saravanakumar</b> R.</a>
-,     <a href="../../../author/vivek_d"><b>Vivek</b> D.</a>
-,     <a href="../../../author/yuvaraj_s"><b>Yuvaraj</b> S.</a>
-,     <a href="../../../author/prasanthni_p"><b>Prasanthni</b> P.</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Innovations in Electronic Materials, pp. 93-103
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#durability`](keyword/durability)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20of%20Fresh%2C%20Hardened%20and%20Durability%20Properties%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218059403&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406278050" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-73816-6_11" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-73816-6_11?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Geometric complexity in construction can be easily achieved through 3D printing technology when compared to tradition construction technology. Effective use of 3D printing technology in construction of buildings can lead to reduced usage of materials and energy, flexibility in design, cost and time consumption. This review article mainly focuses on the research contributions pertaining to fresh, hardened and durability properties of 3D printing concrete. Furthermore, emerging techniques and materials used in 3D printing construction, challenges in implementation and corrective measures to increase the feasibility of using 3D printing technology in the field of construction technology have been elaborately discussed in this study. Critical review of literatures proved that the workability, strength and durability performance of 3D printing concrete are effectively enhanced by appropriate mix design and the performance of 3D printing concrete can be improved by including suitable fibers, mineral admixtures and chemical admixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -108,7 +85,36 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{elan_sara_vive_yuva.2025.ACRoFHaDPo3PC,
+      author            = "K. S. Elango and R. Saravanakumar and D. Vivek and S. Yuvaraj and P. Prasanthni",
+      title             = "A Critical Review of Fresh, Hardened and Durability Properties of 3D Printing Concrete",
+      doi               = "10.1007/978-3-031-73816-6_11",
+      year              = "2025",
+      pages             = "93--103",
+      booktitle         = "Innovations in Electronic Materials: Advancing Technology for a Sustainable Future",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. S. Elango, R. Saravanakumar, D. Vivek, S. Yuvaraj and P. Prasanthni, “A Critical Review of Fresh, Hardened and Durability Properties of 3D Printing Concrete”, in <i>Innovations in Electronic Materials: Advancing Technology for a Sustainable Future</i>,  2025, pp. 93–103. doi: 10.1007/978-3-031-73816-6_11.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Elango, K. S., R. Saravanakumar, D. Vivek, S. Yuvaraj, and P. Prasanthni. “A Critical Review of Fresh, Hardened and Durability Properties of 3D Printing Concrete”. In <i>Innovations in Electronic Materials: Advancing Technology for a Sustainable Future</i>, 93–103, 2025. https://doi.org/10.1007/978-3-031-73816-6_11.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peng Zhi, Yuching Wu, Meiyan Bai
+    - footer
+title: Zhi Peng, Wu Yuching, Bai Meiyan
 description:
 tags:
  - base
@@ -21,36 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Determining the Effect of Geometric and Dynamic Properties of Screws on Fiber-Orientation During FRC 3D Printing Based on Discrete Element Simulation ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.autcon.2024.105513" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105513</a>
+#Determining the Effect of Geometric and Dynamic Properties of Screws on Fiber-Orientation During FRC 3D Printing Based on Discrete Element Simulation ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105513" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105513" target="_blank">10.1016/j.autcon.2024.105513</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_peng"><b>Zhi</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_yuching"><b>Wu</b>&nbsp;Yuching</a></span>, <a href="../../../author/bai_meiyan"><b>Bai</b>&nbsp;Meiyan</a></span><br>
+Journal Article - Automation in Construction, Vol. 165, No. 105513
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a> <a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> <a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 165, No. 105513
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#determination`](keyword/determination)
-    [`#discrete`](keyword/discrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#effect`](keyword/effect)
-    [`#element`](keyword/element)
-    [`#fiber`](keyword/fiber)
-    [`#geometry`](keyword/geometry)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#screw`](keyword/screw)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/screw"><button class="btn">#screw</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Determining%20the%20Effect%20of%20Geometric%20and%20Dynamic%20Properties%20of%20Screws%20on%20Fiber-Orientation%20During%20FRC%203D%20Printing%20Based%20on%20Discrete%20Element%20Simulation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195196091&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399432641" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105513" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105513?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There is growing interest in 3D Fiber Reinforced Concrete (FRC) printing. The orientation of fibers will affect the mechanical properties of printed components, so it is necessary to study the influencing factors of fiber orientation. Currently, there is limited research utilizing numerical simulation to investigate the 3D FRC printing process. This study used the Discrete Element Method (DEM) to simulate the screw extrusion process of FRC in 3D printing. It explored the impact of screw geometry and dynamic parameters, such as printing speed, screw rotation speed, nozzle size, screw blade spacing and printing height, on fiber orientation. Additionally, X-ray micro-Computed Tomography (X-CT) is employed to validate the tendency of fibers in the printed samples to align in the printing direction. Variance analysis was used to reveal the degree of influence of each factor on fiber orientation, and a multiple linear regression model was established to predict fiber orientation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/lv_chun"><b>Lv</b> Chun</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lv.2022.Po3PPFRM/">Properties of 3D Printed Polymer Fiber-Reinforced Mortars:<br/>A Review</a></li>
@@ -90,7 +64,37 @@ tags:
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhi_wu_bai.2024.DtEoGaDPoSoFODF3PBoDES,
+      author            = "Peng Zhi and Yuching Wu and Meiyan Bai",
+      title             = "Determining the Effect of Geometric and Dynamic Properties of Screws on Fiber-Orientation During FRC 3D Printing Based on Discrete Element Simulation",
+      doi               = "10.1016/j.autcon.2024.105513",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "165",
+      pages             = "105513",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Zhi, Y. Wu and M. Bai, “Determining the Effect of Geometric and Dynamic Properties of Screws on Fiber-Orientation During FRC 3D Printing Based on Discrete Element Simulation”, <i>Automation in Construction</i>, vol. 165, p. 105513, 2024, doi: 10.1016/j.autcon.2024.105513.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhi, Peng, Yuching Wu, and Meiyan Bai. “Determining the Effect of Geometric and Dynamic Properties of Screws on Fiber-Orientation During FRC 3D Printing Based on Discrete Element Simulation”. <i>Automation in Construction</i> 165 (2024): 105513. https://doi.org/10.1016/j.autcon.2024.105513.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

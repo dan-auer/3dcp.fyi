@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ronghua Zhu, King-James Egbe, Hadi Salehi, Zhongtian Shi, Pengcheng Jiao
+    - footer
+title: Zhu Ronghua, Egbe King-James, Salehi Hadi, Shi Zhongtian, Jiao Pengcheng
 description:
 tags:
  - aggregate
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>:aca-blank: Fabrication, Characterization and Machine Learning Prediction ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.134905" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.134905</a>
+#Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">Fabrication, Characterization and Machine Learning Prediction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.134905" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.134905" target="_blank">10.1016/j.conbuildmat.2024.134905</a>
 
--------------------------
+<a href="../../../author/zhu_ronghua"><b>Zhu</b>&nbsp;Ronghua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9388-2596" title="ORCID: 0000-0002-9388-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/egbe_idala_king-james"><b>Egbe</b>&nbsp;King-James</a></span>, <a href="../../../author/salehi_hadi"><b>Salehi</b>&nbsp;Hadi</a></span>, <a href="../../../author/shi_zhongtian"><b>Shi</b>&nbsp;Zhongtian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9577-3828" title="ORCID: 0000-0002-9577-3828" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiao_pengcheng"><b>Jiao</b>&nbsp;Pengcheng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 413, No. 134905
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>
-,     <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a> <a href="https://orcid.org/0000-0002-9388-2596" title="ORCID: 0000-0002-9388-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>
-,     <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a>
-,     <a href="../../../author/jiao_pengcheng"><b>Jiao</b> Pengcheng</a> <a href="https://orcid.org/0000-0002-9577-3828" title="ORCID: 0000-0002-9577-3828" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 413, No. 134905
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#fine`](keyword/fine)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#replacement`](keyword/replacement)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Eco-Friendly%203D%20Printed%20Concrete%20with%20Fine%20Aggregate%20Replacements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181955600&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391491673" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.134905" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.134905?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     During the last decade, 3D printing technology has experienced significant development, especially for concrete printing in construction. However, eco-friendly 3D printed concrete with fine aggregate replacements has not yet been sufficiently studied. Herein, twenty-five (25) mix categories are designed for use in 3D printed concrete. The mix materials include fine aggregates, silica fume (SF), ground waste rubber tire (Ru), and glass fiber (GF) composites. The mechanical characterization (i.e., stress-strain relations) are investigated, and the mechanical performance (i.e., compressive and flexural strengths) are reported. Numerical simulations are carried out to validate the experimental results, and satisfactory agreements are obtained. Machine learning prediction model is developed using the experimental and numerical results to predict the compressive and flexural strengths of the aggregate-mixed 3D printed concrete. An inverse relationship was observed between the rubber content and compressive strength of 3D printed concrete (RuC) printing imperfections is highly correlated with high rubber content. Similarly, increasing fiber volume in fiber concrete (FC) resulted in a decreased compressive strength due to reduced interlayer bond. Notably, hybridized concrete (HC) exhibited comparable strengths to fiber concretes at 1% fiber content, but a significant strength increase was observed at 5%, 10%, and 15% rubber contents with 2.5% fiber volume. Better stress-strain response (i.e., higher strength) is observed with larger SF content. It is evident that the addition of SF, GF, and Ru to concrete, improves cost efficiency and the stress-strain behavior of 3D printed concrete. The reported eco-friendly 3D printed concrete has a relatively low peak strength compared to normal concrete but shows traces of fatigue resistance. The eco-friendly 3D printed concrete provides the alternative for normal concrete for in-situ construction applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -96,8 +72,8 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
@@ -116,4 +92,34 @@ tags:
       <li><a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mali_riaz_rehm_usma.2024.AMDPi3PC/">Advancing Mix-Design Prediction in 3D Printed Concrete:<br/>Predicting Anisotropic Compressive Strength and Slump-Flow</a></li>
       <li><a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_sent.2024.3PCUPPC/">3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>Fly-Ash-Based</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_egbe_sale_shi.2024.EF3PCwFAR,
+      author            = "Ronghua Zhu and King-James Idala Egbe and Hadi Salehi and Zhongtian Shi and Pengcheng Jiao",
+      title             = "Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements: Fabrication, Characterization and Machine Learning Prediction",
+      doi               = "10.1016/j.conbuildmat.2024.134905",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "413",
+      pages             = "134905",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Zhu, K.-J. I. Egbe, H. Salehi, Z. Shi and P. Jiao, “Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements: Fabrication, Characterization and Machine Learning Prediction”, <i>Construction and Building Materials</i>, vol. 413, p. 134905, 2024, doi: 10.1016/j.conbuildmat.2024.134905.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Ronghua, King-James Idala Egbe, Hadi Salehi, Zhongtian Shi, and Pengcheng Jiao. “Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements: Fabrication, Characterization and Machine Learning Prediction”. <i>Construction and Building Materials</i> 413 (2024): 134905. https://doi.org/10.1016/j.conbuildmat.2024.134905.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

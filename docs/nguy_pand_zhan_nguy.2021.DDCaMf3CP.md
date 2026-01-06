@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vuong Nguyen, Biranchi Panda, Guomin Zhang, Hung Nguyen-Xuan, Jonathan Tran
+    - footer
+title: Nguyen Vuong, Panda Biranchi, Zhang Guomin, Nguyen-Xuan Hung, Tran Jonathan
 description:
 tags:
  - computer
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Design Computing and Modelling for 3D Concrete Printing ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1016/j.autcon.2020.103529" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2020.103529</a>
+#Digital Design Computing and Modelling for 3D Concrete Printing ([2021-01](date/2021/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2020.103529" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2020.103529" target="_blank">10.1016/j.autcon.2020.103529</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_vuong"><b>van&nbsp;Nguyen</b>&nbsp;Vuong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3503-7431" title="ORCID: 0000-0002-3503-7431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_guomin"><b>Zhang</b>&nbsp;Guomin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1746-8297" title="ORCID: 0000-0002-1746-8297" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b>&nbsp;Hung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Automation in Construction, Vol. 123
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> <a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a> <a href="https://orcid.org/0000-0002-3503-7431" title="ORCID: 0000-0002-3503-7431" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> <a href="https://orcid.org/0000-0002-1746-8297" title="ORCID: 0000-0002-1746-8297" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 123, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Design%20Computing%20and%20Modelling%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098893451&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3120753723" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2020.103529" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2020.103529?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A novel computational framework of 3D concrete printing (3DCP) process is proposed in this paper to capture layer-by-layer buildability and failure modes of complex triply periodic minimal surface (TPMS) Gyroid and Primitive blocks. The proposed computational framework is conducted using toolpath dataset converted from Gcode as input source, which is extracted from virtual model created by 3D printing slicing software. The newly developed computational framework is validated by experimental outcomes of a hollow cylinder printed using nano-clay cement mix. The framework can predict various failure modes of the printed hollow cylinder, and its outcomes agree well with the experimental results. The 3DCP process of the TPMS blocks is then modelled by using the selected printing material from the experiment. The Gyroid structure is demonstrated numerically to have a lower buildability in comparison with the Primitive counterpart. Further, parametric and sensitivity analyses are conducted to reveal the effects of printing speed on buildability and its vertical deformation in the concrete printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/brun_francis"><b>Brun</b> Francis</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../brun_gasp_mate_vito.2020.ESo3PoCwO/">Experimental Study on 3D Printing of Concrete with Overhangs</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../krug_cho_zera_vint.2020.3CPPOfHRDCAPC/">3D Concrete Printer Parameter Optimization for High-Rate Digital Construction Avoiding Plastic Collapse</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
@@ -71,7 +50,6 @@ tags:
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../liu_li_tay_weng.2020.RNaNSoMDaCi3CMP/">Rotation-Nozzle and Numerical Simulation of Mass-Distribution at Corners in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
-      <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/lu_guoxing"><b>Lu</b> Guoxing</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../pham_lu_tran.2022.IoPPoMPoTDPFRC/">Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
@@ -83,8 +61,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "60 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/verma_shilpi"><b>Verma</b> Shilpi</a>, <a href="../../../author/parghi_anant"><b>Parghi</b> Anant</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../verm_parg.2025.MLBPoCSiAMoCT/">Machine Learning-Based Prediction of Compressive Strength in Additive Manufacturing of Concrete Technology</a></li>
@@ -145,4 +124,33 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nguy_pand_zhan_nguy.2021.DDCaMf3CP,
+      author            = "Vuong van Nguyen and Biranchi Narayan Panda and Guomin Zhang and Hung Nguyen-Xuan and Jonathan Phuong Tran",
+      title             = "Digital Design Computing and Modelling for 3D Concrete Printing",
+      doi               = "10.1016/j.autcon.2020.103529",
+      year              = "2021",
+      journal           = "Automation in Construction",
+      volume            = "123",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. van Nguyen, B. N. Panda, G. Zhang, H. Nguyen-Xuan and J. P. Tran, “Digital Design Computing and Modelling for 3D Concrete Printing”, <i>Automation in Construction</i>, vol. 123, 2021, doi: 10.1016/j.autcon.2020.103529.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nguyen, Vuong van, Biranchi Narayan Panda, Guomin Zhang, Hung Nguyen-Xuan, and Jonathan Phuong Tran. “Digital Design Computing and Modelling for 3D Concrete Printing”. <i>Automation in Construction</i> 123 (2021). https://doi.org/10.1016/j.autcon.2020.103529.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

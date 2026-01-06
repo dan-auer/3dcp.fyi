@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gieljan Vantyghem, Wouter Corte, Emad Shakour, Oded Amir
+    - footer
+title: Vantyghem Gieljan, Corte Wouter, Shakour Emad, Amir Oded
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization ([2020-01](date/2020/01))
-<a href="https://doi.org/10.1016/j.autcon.2020.103084" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2020.103084</a>
+#3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization ([2020-01](date/2020/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2020.103084" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2020.103084" target="_blank">10.1016/j.autcon.2020.103084</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b>&nbsp;Gieljan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span>, <a href="../../../author/shakour_emad"><b>Shakour</b>&nbsp;Emad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-3286" title="ORCID: 0000-0002-2871-3286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amir_oded"><b>Amir</b>&nbsp;Oded</a></span><br>
+Journal Article - Automation in Construction, Vol. 112
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> <a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>
-,     <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="https://orcid.org/0000-0002-2871-3286" title="ORCID: 0000-0002-2871-3286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 112, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#girder`](keyword/girder)
-    [`#optimization`](keyword/optimization)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#tension`](keyword/tension)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/girder"><button class="btn">#girder</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20a%20Post-Tensioned%20Concrete%20Girder%20Designed%20by%20Topology-Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85077933048&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2999605557" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2020.103084" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2020.103084?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, the digital design and manufacturing of a post-tensioned concrete girder is presented. We bring together two emerging technologies that show great potential for realizing highly-efficient concrete structures: topology optimization for simulation-driven design and 3D concrete printing (3DCP) for manufacturing of optimized shapes. While this is not the first-ever 3D-printed concrete structure, it is the first demonstration of how topological design in combination with 3D concrete extrusion printing allows for creating efficient structures with reduced use of materials. As the implementation of a specific optimization procedure for post-tensioned concrete structures is so far available in 2D only, some design post-processing was necessary, and a 3D finite element analysis was performed. After realization of the 3DCP element (i.e. printing and assembly), the girder's structural performance was experimentally verified using digital image correlation. The deflection of the girder was compared with the numerical results. The manuscript includes thorough discussions on the manufacturing challenges – including printing setup, assembly and integration of reinforcement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
@@ -80,8 +58,10 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "260 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
@@ -341,4 +321,33 @@ tags:
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vant_cort_shak_amir.2020.3PoaPTCGDbTO,
+      author            = "Gieljan Vantyghem and Wouter de Corte and Emad Shakour and Oded Amir",
+      title             = "3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization",
+      doi               = "10.1016/j.autcon.2020.103084",
+      year              = "2020",
+      journal           = "Automation in Construction",
+      volume            = "112",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Vantyghem, W. de Corte, E. Shakour and O. Amir, “3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization”, <i>Automation in Construction</i>, vol. 112, 2020, doi: 10.1016/j.autcon.2020.103084.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vantyghem, Gieljan, Wouter de Corte, Emad Shakour, and Oded Amir. “3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization”. <i>Automation in Construction</i> 112 (2020). https://doi.org/10.1016/j.autcon.2020.103084.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

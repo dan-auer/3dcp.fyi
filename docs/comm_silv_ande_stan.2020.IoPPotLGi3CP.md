@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Raphaël Comminal, Wilson Silva, Thomas Andersen, Henrik Stang, Jon Spangenberg
+    - footer
+title: Comminal Raphaël, Silva Wilson, Andersen Thomas, Stang Henrik, Spangenberg Jon
 description:
 tags:
  - concrete
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing:<br/>:aca-blank: Experiments and Modelling ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_83" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_83</a>
+#Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">Experiments and Modelling</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_83" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_83" target="_blank">10.1007/978-3-030-49916-7_83</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/comminal_raphael"><b>Comminal</b>&nbsp;Raphaël</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5812-4028" title="ORCID: 0000-0002-5812-4028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stang_henrik"><b>Stang</b>&nbsp;Henrik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 852-862
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> <a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> <a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>
-,     <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> <a href="https://orcid.org/0000-0002-5812-4028" title="ORCID: 0000-0002-5812-4028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 852-862
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#geometry`](keyword/geometry)
-    [`#influence`](keyword/influence)
-    [`#layer`](keyword/layer)
-    [`#model`](keyword/model)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Processing%20Parameters%20on%20the%20Layer%20Geometry%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088240992&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3040819997" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_83" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_83?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the numerical simulation results of a computational fluid dynamics (CFD) model that describes the layer shape in extrusion-based 3D Concrete Printing (3DCP). The simulation outcome is validated through an experimental program in which we investigated the influence of 3DCP processing parameters on the geometry of a single layer. Specifically, a set of single layers were printed using a Ø25 mm nozzle mounted on an 6-axis industrial robotic arm travelling at different speeds and with different layer heights. A fresh concrete – comprising CEM I 52,5 R - SR 5 (EA), limestone filler, fine sand, water, and admixtures (i.e. viscosity modifying agent, high-range water-reducing admixtures and a hydration retarder) – was pumped and extruded at a fixed volumetric rate. Once hardened, the extruded layers were sliced to examine the resulting cross-sections. Specifically, the cross-sections’ geometry were obtained by a custom image processing algorithm. Next, the extrusion flow was modelled with a CFD simulation using the software FLOW-3D®. The constitutive behavior of fresh concrete was modelled as a Bingham fluid, while the volume-of-fluid method was used to predict the free surface of the concrete and, thus, the layer geometry. The numerical results agree qualitatively with the experimental observations, enabling us to identify two non-dimensional 3DCP processing parameters that influence the overall cross-sectional shapes: 1) the geometric ratio between layer height and nozzle diameter, and 2) the ratio between the nozzle velocity and the extrusion volumetric flux. These findings – when complemented with a model describing the overall deformation of stacked layers – serve as the basis for correlating material rheological properties to 3DCP process parameters, promoting a better link between design and fabrication in a 3DCP context.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../comm_serd_pede_span.2019.MPaNSoMDaCiEAM/">Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -77,8 +54,8 @@ tags:
       <li><a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../serd_comm_pede_span.2019.NSotMFiMEAM/">Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/amegouz_driss"><b>Amegouz</b> Driss</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../meso_foul_ameg.2025.3CP/">3D Concrete Printing:<br/>Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -114,4 +91,35 @@ tags:
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jacq_perr_pica.2021.AoARBoCMf3PA/">Assessment of Asymmetrical Rheological Behavior of Cementitious Material for 3D Printing Application</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{comm_silv_ande_stan.2020.IoPPotLGi3CP,
+      author            = "Raphaël Comminal and Wilson Ricardo Leal da Silva and Thomas Juul Andersen and Henrik Stang and Jon Spangenberg",
+      title             = "Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing: Experiments and Modelling",
+      doi               = "10.1007/978-3-030-49916-7_83",
+      year              = "2020",
+      volume            = "28",
+      pages             = "852--862",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Comminal, W. R. L. da Silva, T. J. Andersen, H. Stang and J. Spangenberg, “Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing: Experiments and Modelling”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 852–862. doi: 10.1007/978-3-030-49916-7_83.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Comminal, Raphaël, Wilson Ricardo Leal da Silva, Thomas Juul Andersen, Henrik Stang, and Jon Spangenberg. “Influence of Processing Parameters on the Layer Geometry in 3D Concrete Printing: Experiments and Modelling”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:852–62, 2020. https://doi.org/10.1007/978-3-030-49916-7_83.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

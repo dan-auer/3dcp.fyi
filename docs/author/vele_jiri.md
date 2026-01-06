@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Vele Jiří 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dounas_theodoros"><b>Dounas</b> Theodoros</a>, <a href="../../../author/berdos_yorgos"><b>Berdos</b> Yorgos</a>, <a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../doun_berd_vele.2024.TaDPIfAMiA/">Towards a Decentralized Physical Infrastructure for Additive Manufacturing in Architecture:<br/>A Proof of Concept for a Tamper Proof, Secure Connection Between Designs, Blockchains and 3D Printers</a></li>
   <li><a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a>, <a href="../../../author/melter_oto"><b>Melter</b> Oto</a>, <a href="../../../author/hvizdal_ales"><b>Hvizdal</b> Ales</a>, <a href="../../../author/achten_hubertus_henri"><b>Achten</b> Henri</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vele_melt_hviz_acht.2024.E3CPBwNPL/">Enhancing 3D Concrete Printing Buildability with Non-Planar Layering:<br/>A Case Study</a></li>
   <li><a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a>, <a href="../../../author/prokop_simon"><b>Prokop</b> Simon</a>, <a href="../../../author/ciganik_ondrej"><b>Ciganik</b> Ondrej</a>, <a href="../../../author/kurilla_lukas"><b>Kurilla</b> Lukáš</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vele_prok_ciga_kuri.2024.NP3PoCC/">Non-Planar 3D Printing of Clay Columns:<br/>A Method for Improving Stability and Performance</a></li>

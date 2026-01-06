@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maria Kaszyńska, Szymon Skibicki, Marcin Hoffmann
+    - footer
+title: Kaszyńska Maria, Skibicki Szymon, Hoffmann Marcin
 description:
 tags:
  - concrete
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/13/23/6351/pdf?version=1606985374) 3D Concrete Printing for Sustainable Construction ([2020-12](date/2020/12))
-<a href="https://doi.org/10.3390/en13236351" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en13236351</a>
+#3D Concrete Printing for Sustainable Construction ([2020-12](date/2020/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/13/23/6351/pdf?version=1606985374) <a href="https://doi.org/10.3390/en13236351" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en13236351" target="_blank">10.3390/en13236351</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaszynska_maria"><b>Kaszyńska</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span><br>
+Journal Article - Energies, Vol. 13, Iss. 23
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a> <a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 13, Iss. 23, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101069743&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3109537027" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en13236351" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en13236351?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Despite the rapid development of 3D printing technology for cement composites, there are still a number of unsolved issues related to extrusion printing. One of them is proper mix design that allows for meeting criteria related to the printing of cementitious materials, such as pumpability, buildability, consistency on the materials, flowability and workability, simultaneously incorporating sustainable development ideas. In the case of mixes for 3D printing, the modification of the composition which increases the overall performance does not always go hand in hand with the reduction of negative environmental impact. The article presents the results of tests of eight mixtures modified with reactive and inert mineral additives designed for 3D printing. The mixes were evaluated in terms of their rheological and mechanical properties as well as environmental impact. Initial test results were verified by printing hollow columns up until collapse. Later, the differences between the compressive strength of standard samples and printed columns were determined. In order to summarize the results, a multi-faceted analysis of the properties of the mixes was carried out, introducing assessment indicators for its individual parameters. The article proves that appropriate material modification of mixes for 3D printing can significantly reduce the negative impact on the environment without hindering required 3D printing properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "58 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
@@ -117,8 +100,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "43 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/korol_ewelina"><b>Korol</b> Ewelina</a>, <a href="../../../author/jenta_arkadiusz"><b>Jenta</b> Arkadiusz</a>, <a href="../../../author/chaudhari_ojas"><b>Chaudhari</b> Ojas</a>, <a href="../../../author/wojcik_michal"><b>Wójcik</b> Michal</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../koro_jent_chau_wojc.2025.EIoCBUBMw3APT/">Experimental Investigation of Concrete Beams Under Bending, Manufactured with 3D Additive Printing Technology</a></li>
@@ -163,4 +146,34 @@ tags:
       <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/zarkiewicz_krzysztof"><b>Żarkiewicz</b> Krzysztof</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../hoff_zark_ziel_skib.2021.FP/">Foundation Piles:<br/>A New Feature for Concrete 3D Printers</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>, <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chun_liar_loot.2021.TEoNSotFaHPo3PM/">The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kasz_skib_hoff.2020.3CPfSC,
+      author            = "Maria Kaszyńska and Szymon Skibicki and Marcin Hoffmann",
+      title             = "3D Concrete Printing for Sustainable Construction",
+      doi               = "10.3390/en13236351",
+      year              = "2020",
+      journal           = "Energies",
+      volume            = "13",
+      number            = "23",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Kaszyńska, S. Skibicki and M. Hoffmann, “3D Concrete Printing for Sustainable Construction”, <i>Energies</i>, vol. 13, no. 23, 2020, doi: 10.3390/en13236351.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kaszyńska, Maria, Szymon Skibicki, and Marcin Hoffmann. “3D Concrete Printing for Sustainable Construction”. <i>Energies</i> 13, no. 23 (2020). https://doi.org/10.3390/en13236351.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

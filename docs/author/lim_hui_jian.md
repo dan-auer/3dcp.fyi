@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Lim Jian 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nghia_quoc_vuong"><b>Nghia</b> Vuong</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/nam_quang_nguyen"><b>Nam</b> Nguyen</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../nghi_lim_nam_lu.2024.AFSRf3/">Automated Force-Sensitive Reinforcement for 3DCP</a></li>
   <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../tay_wang_wang_quah.2024.IoFMi3PfC/">Integration of Functional Materials into 3D Printing for Construction</a></li>
   <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../quah_tay_lim_tan.2023.C3P/">Concrete 3D Printing:<br/>Process-Parameters for Process-Control, Monitoring and Diagnosis in Automation and Construction</a></li>

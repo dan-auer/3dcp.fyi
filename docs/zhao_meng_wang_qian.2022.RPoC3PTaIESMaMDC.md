@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yanhua Zhao, Wei Meng, Peifu Wang, Dongqing Qian, Wei Cheng, Zhongqing Jia
+    - footer
+title: Zhao Yanhua, Meng Wei, Wang Peifu, Qian Dongqing, Cheng Wei, Jia Zhongqing
 description:
 tags:
  - concrete
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://downloads.hindawi.com/journals/je/2022/6882386.pdf) Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1155/2022/6882386" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1155/2022/6882386</a>
+#Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://downloads.hindawi.com/journals/je/2022/6882386.pdf) <a href="https://doi.org/10.1155/2022/6882386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2022/6882386" target="_blank">10.1155/2022/6882386</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4193-9973" title="ORCID: 0000-0003-4193-9973" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_yanhua"><b>Zhao</b>&nbsp;Yanhua</a></span>, <a href="../../../author/meng_wei"><b>Meng</b>&nbsp;Wei</a></span>, <a href="../../../author/wang_peifu"><b>Wang</b>&nbsp;Peifu</a></span>, <a href="../../../author/qian_dongqing"><b>Qian</b>&nbsp;Dongqing</a></span>, <a href="../../../author/cheng_wei"><b>Cheng</b>&nbsp;Wei</a></span>, <a href="../../../author/jia_zhongqing"><b>Jia</b>&nbsp;Zhongqing</a></span><br>
+Journal Article - Journal of Engineering, Vol. 2022, pp. 1-22
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_yanhua"><b>Zhao</b> Yanhua</a> <a href="https://orcid.org/0000-0003-4193-9973" title="ORCID: 0000-0003-4193-9973" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meng_wei"><b>Meng</b> Wei</a>
-,     <a href="../../../author/wang_peifu"><b>Wang</b> Peifu</a>
-,     <a href="../../../author/qian_dongqing"><b>Qian</b> Dongqing</a>
-,     <a href="../../../author/cheng_wei"><b>Cheng</b> Wei</a>
-,     <a href="../../../author/jia_zhongqing"><b>Jia</b> Zhongqing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Engineering, Vol. 2022, pp. 1-22
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#defect`](keyword/defect)
-    [`#equipment`](keyword/equipment)
-    [`#material`](keyword/material)
-    [`#mould`](keyword/mould)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#system`](keyword/system)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/equipment"><button class="btn">#equipment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research-Progress%20of%20Concrete%203D%20Printing%20Technology%20and%20Its%20Equipment%20System%2C%20Material%2C%20and%20Molding-Defect-Control" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139439613&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296481956" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1155/2022/6882386" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1155/2022/6882386?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The traditional construction technology not only has environmental friendly problems such as noise and dust but also has resource-saving problems such as large template quantity and low construction accuracy. In addition, the traditional construction technology has an insurmountable technical bottleneck in the construction of special-shaped buildings. Building 3D printing technology can effectively overcome many problems existing in traditional construction technology and provide unlimited possibilities for the construction of special-shaped buildings. Concrete 3D printing technology is one of the most important technical categories of building 3D printing. In this study, the research status and progress of concrete 3D technology were reviewed from the aspects of equipment system, materials, defect control, and application scenarios. On this basis, the development foreground was prospected.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
@@ -107,8 +81,8 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>
       <li><a href="../../../author/li_nan"><b>Li</b> Nan</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/li_lingyu"><b>Li</b> Lingyu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_deng_li_li.2025.PoAMBMPCaAoRS3PT/">Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology</a></li>
@@ -119,4 +93,34 @@ tags:
       <li><a href="../../../author/alencar-oliveira_helio_francisco"><b>Alencar Oliveira</b> Francisco</a>, <a href="../../../author/picelli-sanches_renato"><b>Picelli Sanches</b> Renato</a>, <a href="../../../author/barari_ahmad"><b>Barari</b> Ahmad</a>, <a href="../../../author/oliveira-romano_cesar_roberto"><b>Oliveira Romano</b> Roberto</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../alen_pice_bara_oliv.2024.GGERTTOa3P/">Greenhouse Gases Emission Reduction Trough Topology-Optimization and 3D Printing</a></li>
       <li><a href="../../../author/zhao_shun"><b>Zhao</b> Shun</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/fang_xinjun"><b>Fang</b> Xinjun</a>, <a href="../../../author/liang_wei"><b>Liang</b> Wei</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhao_wang_fang_lian.2022.AaDoARiCC/">Application and Development of Autonomous Robots in Concrete Construction:<br/>Challenges and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_meng_wang_qian.2022.RPoC3PTaIESMaMDC,
+      author            = "Yanhua Zhao and Wei Meng and Peifu Wang and Dongqing Qian and Wei Cheng and Zhongqing Jia",
+      title             = "Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control",
+      doi               = "10.1155/2022/6882386",
+      year              = "2022",
+      journal           = "Journal of Engineering",
+      volume            = "2022",
+      pages             = "1--22",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhao, W. Meng, P. Wang, D. Qian, W. Cheng and Z. Jia, “Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control”, <i>Journal of Engineering</i>, vol. 2022, pp. 1–22, 2022, doi: 10.1155/2022/6882386.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Yanhua, Wei Meng, Peifu Wang, Dongqing Qian, Wei Cheng, and Zhongqing Jia. “Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control”. <i>Journal of Engineering</i> 2022 (2022): 1–22. https://doi.org/10.1155/2022/6882386.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Kazemian, Elnaz Seylabi, Mahmut Ekenel
+    - footer
+title: Kazemian Ali, Seylabi Elnaz, Ekenel Mahmut
 description:
 tags:
  - challenge
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Concrete 3D Printing:<br/>:aca-blank: Challenges and Opportunities for the Construction Industry ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1007/978-3-030-95798-8_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-95798-8_12</a>
+#Concrete 3D Printing&nbsp;([2023-03](date/2023/03))
+<div class="h1-like">Challenges and Opportunities for the Construction Industry</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-95798-8_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-95798-8_12" target="_blank">10.1007/978-3-030-95798-8_12</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <a href="../../../author/seylabi_elnaz"><b>Seylabi</b>&nbsp;Elnaz</a></span>, <a href="../../../author/ekenel_mahmut"><b>Ekenel</b>&nbsp;Mahmut</a></span><br>
+Contribution - Innovation in Construction, pp. 277-299
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seylabi_elnaz"><b>Seylabi</b> Elnaz</a>
-,     <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Innovation in Construction, pp. 277-299
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#opportunity`](keyword/opportunity)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4301771158" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-95798-8_12" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-95798-8_12?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction 3D printing holds great potential for pioneering a digital transformation in the construction industry. This automated construction technology is introduced in this chapter, and relevant developments and advancements are presented. Next, major existing challenges of widespread adoption of this technology by the construction industry are discussed in detail. These obstacles and areas of uncertainty include the structural performance of 3D-printed elements, concrete reinforcement, process reliability and limitations, and regulatory challenges. Finally, different application domains and new possibilities which could be realized by this newconstructionmethod are discussed in detail to provide a comprehensive overview of the extrusion-based concrete 3D printing technology and its implications for the future of the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -112,8 +94,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
       <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
@@ -124,9 +106,35 @@ tags:
       <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/kikhia_wael"><b>Kikhia</b> Wael</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lin_wang_sun_kikh.2024.CTotCMHDHPiCUC3P/">Construction Technology of the Curved Mars House Digital Hotel Project in China Using Concrete 3D Printing</a></li>
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ahme_giwa_game_arce.2024.ARDLSAM/">Automated Reinforcement During Large-Scale Additive Manufacturing:<br/>Structural-Assessment of a Dual Approach</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../rehm_perr_birr_kim.2023.RfQCiI3CPCwMCC/">Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete:<br/>A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index</a></li>
-      <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a></li>
-      <li><a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kame_kaze.2022.BITAaBEMi3PRB/">BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings</a></li>
-      <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/hebert_marc"><b>Hebert</b> Marc</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ahme_giwa_game_hebe.2022.SSFRf3PEaS/">Studying Steel-Fiber-Reinforcement for 3D Printed Elements and Structures</a></li>
-      <li><a href="../../../author/gulle_banu_nur"><b>Gülle</b> Nur</a>, <a href="../../../author/selcuk_arslan_semra"><b>Selçuk</b> Semra</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../gull_selc.2022.ABAo3PCiA/">A Bibliometric Analysis on 3D Printed Concrete in Architecture</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kaze_seyl_eken.2022.C3P,
+      author            = "Ali Kazemian and Elnaz Seylabi and Mahmut Ekenel",
+      title             = "Concrete 3D Printing: Challenges and Opportunities for the Construction Industry",
+      doi               = "10.1007/978-3-030-95798-8_12",
+      year              = "2022",
+      pages             = "277--299",
+      booktitle         = "Innovation in Construction: A Practical Guide to Transforming the Construction Industry",
+      editor            = "Seyed Hamidreza Ghaffar and Paul Mullett and Eujin Pei and John Roberts",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kazemian, E. Seylabi and M. Ekenel, “Concrete 3D Printing: Challenges and Opportunities for the Construction Industry”, in <i>Innovation in Construction: A Practical Guide to Transforming the Construction Industry</i>,  2022, pp. 277–299. doi: 10.1007/978-3-030-95798-8_12.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kazemian, Ali, Elnaz Seylabi, and Mahmut Ekenel. “Concrete 3D Printing: Challenges and Opportunities for the Construction Industry”. In <i>Innovation in Construction: A Practical Guide to Transforming the Construction Industry</i>, edited by Seyed Hamidreza Ghaffar, Paul Mullett, Eujin Pei, and John Roberts, 277–99, 2022. https://doi.org/10.1007/978-3-030-95798-8_12.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

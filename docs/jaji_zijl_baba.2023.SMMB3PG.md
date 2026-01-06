@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mustapha Jaji, Gideon Zijl, Adewumi Babafemi
+    - footer
+title: Jaji Mustapha, Zijl Gideon, Babafemi Adewumi
 description:
 tags:
  - analysis
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2023.108166) Slag-Modified Metakaolin-Based 3D Printed Geopolymer:<br/>:aca-blank: Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.jobe.2023.108166" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.108166</a>
+#Slag-Modified Metakaolin-Based 3D Printed Geopolymer&nbsp;([2023-11](date/2023/11))
+<div class="h1-like">Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2023.108166) <a href="https://doi.org/10.1016/j.jobe.2023.108166" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108166" target="_blank">10.1016/j.jobe.2023.108166</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b>&nbsp;Mustapha</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
+Journal Article - Journal of Building Engineering, No. 108166
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> <a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 108166
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#characteristic`](keyword/characteristic)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Slag-Modified%20Metakaolin-Based%203D%20Printed%20Geopolymer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178250062&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388792835" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.108166" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.108166?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to enhance metakaolin (MK)-based binders with slag up to 30% at 10% intervals and increase the aggregate-to-binder ratio (a/b) from 1.6 in a previous study to 2 for extrusion-based 3D printed geopolymer concrete (3DPGPC). Sodium phosphate (3% by mass of binders) was used to tailor the fresh properties of the slag-modified MK-based 3DPGPC mixtures to achieve sufficient open time for constructability. After 28 days of curing age, cylindrical 3DPGPC specimens cored perpendicular to the printing direction (D1) exhibit an average compressive strength of 23.7–31.52 MPa and the specimens cored parallel to the printing direction (D3) exhibit an average compressive strength of 25.25–33.13 MPa. Also, an increase in a/b from 1.6 to 2 increases the average compressive strength by 18% in D1 and 25% in D3. The average flexural strength of specimens in D1 attained 5.48–7.29 MPa, while the average interlayer bond strength of 3DPGPC beam specimens attained 5.40–6.90 MPa. An increase in a/b from 1.6 to 2 enhanced average flexural strength by 6%. Furthermore, the 28-day splitting tensile strength of cored cylindrical 3DPGPC specimens attained 1.79–2.16 MPa in D1 and 2.04–2.43 MPa in D3. Microstructural characterisation revealed the formation of C-S-H, N-A-S-H and C-A-S-H gel with increasing slag inclusion due to the presence of Ca2+ion. Nitrogen physisorption analysis shows that the adsorption and desorption isotherm curves and hysteresis loops were not altered but more nitrogen by volume was absorbed due to the formation of a significant quantity of C-S-H, N-A-S-H and C-A-S-H gel. The adsorption and desorption isotherms fall under the mesopores structure of 2–50 nm using the IUPAC technical report classification. The Brunauer-Emmett-Teller (BET) surface area increases by 67, 69, and 78% as slag content increases by 10, 20 and 30% due to the polymerisation of the reactive phases, which densify the matrices. The enhanced mechanical performance, microstructural properties, and pore structure system of slag-modified MK-based 3DPGPC ascertained that it is suitable for construction applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -107,12 +85,41 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
       <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jaji_zijl_baba.2024.DaPSoMB3PGC/">Durability and Pore-Structure of Metakaolin-Based 3D Printed Geopolymer Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jaji_zijl_baba.2023.SMMB3PG,
+      author            = "Mustapha Bamidele Jaji and Gideon Pieter Adriaan Greeff van Zijl and Adewumi John Babafemi",
+      title             = "Slag-Modified Metakaolin-Based 3D Printed Geopolymer: Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis",
+      doi               = "10.1016/j.jobe.2023.108166",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "108166",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. B. Jaji, G. P. A. G. van Zijl and A. J. Babafemi, “Slag-Modified Metakaolin-Based 3D Printed Geopolymer: Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis”, <i>Journal of Building Engineering</i>, p. 108166, 2023, doi: 10.1016/j.jobe.2023.108166.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jaji, Mustapha Bamidele, Gideon Pieter Adriaan Greeff van Zijl, and Adewumi John Babafemi. “Slag-Modified Metakaolin-Based 3D Printed Geopolymer: Mechanical Characterisation, Microstructural Properties, and Nitrogen Physisorption Pore-Analysis”. <i>Journal of Building Engineering</i>, 2023, 108166. https://doi.org/10.1016/j.jobe.2023.108166.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rei Yoshihara, Kota Nakase, Katsufumi Hashimoto, Takafumi Sugiyama, Yoshiki Honda
+    - footer
+title: Yoshihara Rei, Nakase Kota, Hashimoto Katsufumi, Sugiyama Takafumi, Honda Yoshiki
 description:
 tags:
  - aggregate
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/4/1132/pdf?version=1713363486) Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT ([2024-04](date/2024/04))
-<a href="https://doi.org/10.3390/buildings14041132" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14041132</a>
+#Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT ([2024-04](date/2024/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/4/1132/pdf?version=1713363486) <a href="https://doi.org/10.3390/buildings14041132" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14041132" target="_blank">10.3390/buildings14041132</a>
 
--------------------------
+<a href="../../../author/yoshihara_rei"><b>Yoshihara</b>&nbsp;Rei</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-7207-2963" title="ORCID: 0009-0009-7207-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakase_kota"><b>Nakase</b>&nbsp;Kota</a></span>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b>&nbsp;Katsufumi</a></span>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b>&nbsp;Takafumi</a></span>, <a href="../../../author/honda_yoshiki"><b>Honda</b>&nbsp;Yoshiki</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 4, No. 1132
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>
-,     <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a> <a href="https://orcid.org/0009-0009-7207-2963" title="ORCID: 0009-0009-7207-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>
-,     <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>
-,     <a href="../../../author/honda_yoshiki"><b>Honda</b> Yoshiki</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 4, No. 1132
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#distribution`](keyword/distribution)
-    [`#evaluation`](keyword/evaluation)
-    [`#heterogeneity`](keyword/heterogeneity)
-    [`#print`](keyword/print)
-    [`#ray`](keyword/ray)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/heterogeneity"><button class="btn">#heterogeneity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ray"><button class="btn">#ray</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Aggregate-Distribution%20Heterogeneity%20in%203D%20Printed%20Concrete%20by%20Means%20of%20X-Ray%20CT" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191395906&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394892134" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14041132" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14041132?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical performance of a printed object in 3D concrete printing is influenced by the interfacial bonding strength between the deposited filaments. Hence, the physical properties of the layer interface and the influential factors have been studied. This study aims to clarify the mechanism of aggregate distribution heterogeneity as well as the influence of printing material extrusion speed on the heterogeneity inside the filament. A laboratory-scale material extruder is developed and used in this study. The aggregate distribution is evaluated in a quantitative manner with the cross-sectional image obtained by X-ray computed tomography. The images were taken in the deposited filament and the material extrusion nozzle for printing. Results show that large aggregate moves from the outside of the printing nozzle toward the center with increasing extrusion speed from 1.8 to 7.1 mm/s. As extrusion speed increases, it is inferred that a lubrication layer forms on the inner surface of the nozzle, causing the transition of material extrusion behavior from laminate flow to plug flow. Thus, the aggregate distribution appears differently inside the filament. This finding indicates that the magnitude of friction against the nozzle wall alters the die swell during discharge as well as the aggregate distribution before and after extrusion.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
@@ -90,9 +68,40 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/xu_zhisong"><b>Xu</b> Zhisong</a>, <a href="../../../author/li_zhuguo"><b>Li</b> Zhuguo</a>, <a href="../../../author/jiang_fei"><b>Jiang</b> Fei</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../xu_li_jian.2022.NAtPFoFCBoMM/">Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
       <li><a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/yoshihara_rei"><b>Yoshihara</b> Rei</a>, <a href="../../../author/honda_yoshiki"><b>Honda</b> Yoshiki</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hash_naka_yosh_hond.2025.EaIoMaMPo3PCbMoNDTM/">Evaluation and Investigation of Material and Mechanical Property of 3D Printed Concrete by Means of Non-Destructive Testing Methods</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yosh_naka_hash_sugi.2024.EoADHi3PCbMoXRC,
+      author            = "Rei Yoshihara and Kota Nakase and Katsufumi Hashimoto and Takafumi Sugiyama and Yoshiki Honda",
+      title             = "Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT",
+      doi               = "10.3390/buildings14041132",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "4",
+      pages             = "1132",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Yoshihara, K. Nakase, K. Hashimoto, T. Sugiyama and Y. Honda, “Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT”, <i>Buildings</i>, vol. 14, no. 4, p. 1132, 2024, doi: 10.3390/buildings14041132.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yoshihara, Rei, Kota Nakase, Katsufumi Hashimoto, Takafumi Sugiyama, and Yoshiki Honda. “Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT”. <i>Buildings</i> 14, no. 4 (2024): 1132. https://doi.org/10.3390/buildings14041132.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

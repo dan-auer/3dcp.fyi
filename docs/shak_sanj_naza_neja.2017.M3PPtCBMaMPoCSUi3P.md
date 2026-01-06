@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pshtiwan Shakor, Jay Sanjayan, Ali Nazari, Shami Nejadi
+    - footer
+title: Shakor Pshtiwan, Sanjayan Jay, Nazari Ali, Nejadi Shami
 description:
 tags:
  - base
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hdl.handle.net/10453/85934) Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing ([2017-02](date/2017/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2017.02.037" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2017.02.037</a>
+#Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing ([2017-02](date/2017/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hdl.handle.net/10453/85934) <a href="https://doi.org/10.1016/j.conbuildmat.2017.02.037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.02.037" target="_blank">10.1016/j.conbuildmat.2017.02.037</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazari_ali"><b>Nazari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nejadi_shami"><b>Nejadi</b>&nbsp;Shami</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 138, pp. 398-409
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> <a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 138, pp. 398-409
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#modification`](keyword/modification)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#scaffold`](keyword/scaffold)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/scaffold"><button class="btn">#scaffold</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modified%203D%20Printed%20Powder%20to%20Cement-Based%20Material%20and%20Mechanical%20Properties%20of%20Cement%20Scaffold%20Used%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85013156339&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2589770449" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2017.02.037" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2017.02.037?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is a common technique used to produce 3D printed structures. These techniques have been used as precise application geometry in different fields such as architecture and medicine, and the food, mechanics and chemical industries. However, in most cases only a limited amount of powder has been used to fabricate scaffold (structure). In this study, a unique mix of cements (calcium aluminate cement passed through a 150 lm sieve and ordinary Portland cement) was developed for Z-Corporation’s three-dimensional printing (3DP) process. This cement mix was blended and the resulting composite powders were printed with a water-based binder using a Z-Corporation 3D printer. Moreover, some samples were added lithium carbonate to reduce the setting time for the cement mixture. The aims of the study were to firstly, find the proper cementitious powder close to the targeted powder (Z-powder); and secondly, evaluate the mechanical properties of this material. Cubic specimens of two different batches with varying saturation levels were cast and cured in various scenarios to enhance the best mechanical properties. The samples were characterised by porosity analyses, compression tests, Olympus BX61 Microscope imaging, 3D profiling Veeco (Dektak) and the Scanning Electronic Microscope (SEM). The maximum compressive strength of the cubic specimens for cementitious 3DP was 8.26 MPa at the saturation level of 170% for both the shell and core. The minimum porosity obtained was 49.28% at the saturation level of 170% and 340% for the shell and the core, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -80,8 +56,9 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "121 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
       <li><a href="../../../author/niu_huaxian"><b>Niu</b> Huaxian</a>, <a href="../../../author/yu_bo"><b>Yu</b> Bo</a>, <a href="../../../author/hao_ji"><b>Hao</b> Ji</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../niu_yu_hao.2025.CBFFAoSNi3CP/">CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing</a></li>
       <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
@@ -203,4 +180,34 @@ tags:
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P,
+      author            = "Pshtiwan N. Shakor and Jay Gnananandan Sanjayan and Ali Nazari and Shami Nejadi",
+      title             = "Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2017.02.037",
+      year              = "2017",
+      journal           = "Construction and Building Materials",
+      volume            = "138",
+      pages             = "398--409",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. N. Shakor, J. G. Sanjayan, A. Nazari and S. Nejadi, “Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing”, <i>Construction and Building Materials</i>, vol. 138, pp. 398–409, 2017, doi: 10.1016/j.conbuildmat.2017.02.037.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shakor, Pshtiwan N., Jay Gnananandan Sanjayan, Ali Nazari, and Shami Nejadi. “Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing”. <i>Construction and Building Materials</i> 138 (2017): 398–409. https://doi.org/10.1016/j.conbuildmat.2017.02.037.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

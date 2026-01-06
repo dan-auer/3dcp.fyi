@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kirubajiny Pasupathy, Sayanthan Ramakrishnan, Jay Sanjayan
+    - footer
+title: Pasupathy Kirubajiny, Ramakrishnan Sayanthan, Sanjayan Jay
 description:
 tags:
  - brick
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2023.104943) 3D Concrete Printing of Eco-Friendly Geopolymer Containing Brick Waste ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.104943" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.104943</a>
+#3D Concrete Printing of Eco-Friendly Geopolymer Containing Brick Waste ([2023-01](date/2023/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.104943) <a href="https://doi.org/10.1016/j.cemconcomp.2023.104943" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.104943" target="_blank">10.1016/j.cemconcomp.2023.104943</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1303-9548" title="ORCID: 0000-0003-1303-9548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b>&nbsp;Kirubajiny</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b>&nbsp;Sayanthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a> <a href="https://orcid.org/0000-0003-1303-9548" title="ORCID: 0000-0003-1303-9548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> <a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#brick`](keyword/brick)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20of%20Eco-Friendly%20Geopolymer%20Containing%20Brick%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147198528&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4315865197" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.104943" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.104943?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates alkali-activated brick waste powder as the binder for developing 3D printable geopolymer mixes. The brick waste was used as a partial replacement to fly ash in geopolymer binders. The effect of brick waste content on the fresh properties of printable mixes, such as flow, setting time and rheological properties were investigated. Besides, the hardened properties of 3D printed brick waste geopolymer were evaluated with the varying brick waste content in the mix. The test results demonstrated that the fresh properties of 3D printable mixes were improved with the brick waste content in the mix. Compared to the control mix, the mixes containing brick waste displayed high yield strength and apparent viscosity at an early age. On the contrary, the hardened properties of compressive strength and interlayer strength of 3D printed concrete specimens were decreased with the high brick waste content; however, the incorporation of brick waste for up to 10% has enhanced the hardened properties. Finally, the sustainability assessment of brick waste geopolymer studied with embodied energy and carbon emission calculations reveals the proposed geopolymer concrete could reduce the embodied energy and carbon emission by up to 60–80%, compared to OPC concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -92,8 +73,10 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "72 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
@@ -165,4 +148,32 @@ tags:
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../khan_ilca_amin_sahi.2023.BAoEoSDi3CP/">Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pasu_rama_sanj.2023.3CPoEFGCBW,
+      author            = "Kirubajiny Pasupathy and Sayanthan Ramakrishnan and Jay Gnananandan Sanjayan",
+      title             = "3D Concrete Printing of Eco-Friendly Geopolymer Containing Brick Waste",
+      doi               = "10.1016/j.cemconcomp.2023.104943",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Pasupathy, S. Ramakrishnan and J. G. Sanjayan, “3D Concrete Printing of Eco-Friendly Geopolymer Containing Brick Waste”, <i>Cement and Concrete Composites</i>, 2023, doi: 10.1016/j.cemconcomp.2023.104943.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pasupathy, Kirubajiny, Sayanthan Ramakrishnan, and Jay Gnananandan Sanjayan. “3D Concrete Printing of Eco-Friendly Geopolymer Containing Brick Waste”. <i>Cement and Concrete Composites</i>, 2023. https://doi.org/10.1016/j.cemconcomp.2023.104943.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

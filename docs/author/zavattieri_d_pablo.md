@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zavattieri Pablo 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/agrawal_shubham"><b>Agrawal</b> Shubham</a>, <a href="../../../author/williams_s_christopher"><b>Williams</b> Christopher</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rodr_moin_agra_will.2024.MRoSS3PSMCB/">Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams</a></li>
   <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC/">Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression</a></li>
   <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM/">Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars</a></li>

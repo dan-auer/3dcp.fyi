@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Greeshma Giridhar, Prabhat Prem, Shankar Kumar
+    - footer
+title: Giridhar Greeshma, Prem Prabhat, Kumar Shankar
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1007/s12046-022-02069-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s12046-022-02069-w</a>
+#Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s12046-022-02069-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s12046-022-02069-w" target="_blank">10.1007/s12046-022-02069-w</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giridhar_greeshma"><b>Giridhar</b>&nbsp;Greeshma</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span>, <a href="../../../author/kumar_shankar"><b>Kumar</b>&nbsp;Shankar</a></span><br>
+Journal Article - Sādhanā, Vol. 48, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> <a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sādhanā, Vol. 48, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#simple`](keyword/simple)
-    [`#technique`](keyword/technique)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simple"><button class="btn">#simple</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Concrete%20Mixes%20for%203D%20Printing%20Using%20Simple%20Tools%20and%20Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146476524&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4317105233" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s12046-022-02069-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s12046-022-02069-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an avant-garde building process with the potential to revolutionise the construction industry by automating construction procedures, reducing material consumption, lowering formwork costs, and optimising structural elements. The current study proposes a methodology for developing plain and fibered 3D printable concrete mixes using locally available binders (cement, silica fume, fly ash, and limestone powder), fine aggregate, water, admixtures, polypropylene fibers, and steel fibers. The study presents the results of 24 trials conducted to develop mixes for concrete 3D printing. According to the present studies, the recommended flow for the mix to be extrudable, printable, and buildable is between 19–21 cm and the open time is 45–60 min. The printed specimens under bending failed monolithically with a single dominant crack. The plain and fibered 3D printed specimens possessed greater flexural strength than the in-situ cast specimens. The increase in flexure capacity is found to be in the range of 07–22%.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -105,8 +85,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
@@ -129,4 +109,34 @@ tags:
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ravi_giri_rama_prem.2023.IoTPoDtRPoCPMfC3P/">Influence of Test-Protocol on Determining the Rheological Properties of Cement-Pastes-Mixtures for Concrete 3D Printing</a></li>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../giri_prem_jiao.2023.EoVSRaDRTotRo3PC/">Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{giri_prem_kuma.2023.DoCMf3PUSTaT,
+      author            = "Greeshma Giridhar and Prabhat Ranjan Prem and Shankar Kumar",
+      title             = "Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques",
+      doi               = "10.1007/s12046-022-02069-w",
+      year              = "2023",
+      journal           = "Sādhanā",
+      volume            = "48",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Giridhar, P. R. Prem and S. Kumar, “Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques”, <i>Sādhanā</i>, vol. 48, no. 1, 2023, doi: 10.1007/s12046-022-02069-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Giridhar, Greeshma, Prabhat Ranjan Prem, and Shankar Kumar. “Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques”. <i>Sādhanā</i> 48, no. 1 (2023). https://doi.org/10.1007/s12046-022-02069-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

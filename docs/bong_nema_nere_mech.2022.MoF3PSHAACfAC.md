@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shin Bong, Behzad Nematollahi, Venkatesh Nerella, Viktor Mechtcherine
+    - footer
+title: Bong Shin, Nematollahi Behzad, Nerella Venkatesh, Mechtcherine Viktor
 description:
 tags:
  - activation
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104780" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104780</a>
+#Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104780" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104780" target="_blank">10.1016/j.cemconcomp.2022.104780</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bong_hau_shin"><b>Bong</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> <a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#additive`](keyword/additive)
-    [`#alkali`](keyword/alkali)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#formulas`](keyword/formulas)
-    [`#hardened`](keyword/hardened)
-    [`#method`](keyword/method)
-    [`#printability`](keyword/printability)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Method%20of%20Formulating%203D%20Printable%20Strain-Hardening%20Alkali-Activated%20Composites%20for%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133170021&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4297109180" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104780" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104780?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the major limitations of the current 3D-concrete-printing technology is the incorporation of reinforcement. Furthermore, there is a need to decrease the ecological footprint of printable concrete. As a possible solution for these challenges, this paper presents a 3D-printable strain-hardening alkali-activated composite (3DP-SHAAC) that shows pseudo-ductile behaviour under direct tension. The developed 3DP-SHAAC is composed of a one-part (just-add-water) alkali-activated binder made of slag (GGBFS), fly ash (FA) and solid activators. The one-part alkali-activated binder eliminates the need for elevated temperature curing and handling of corrosive alkaline liquids. At first, an optimum matrix was identified by studying the effects of FA to GGBFS ratio on the rheological properties and compressive strength. Subsequently, the optimum matrix was reinforced by PVA fibres to make the 3DP-SHAAC, and printing performance and rheological properties were evaluated. In addition, the influences of curing temperature on the compressive, flexural and tensile performances of the printed specimens were also investigated. The results were compared with those obtained for the mould-cast specimens. The 3DP-SHAAC exhibited superior flexural performance, higher tensile strength, and comparable tensile strain capacity to the mould-cast counterpart. Further, the curing temperature had influence on the mechanical properties of both 3D-printed and mould-cast SHAACs. The underlying reasons for the differences are discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bong_nema_arun_xia.2020.EoWMFAoPo3PJAWG/">Effect of Wollastonite Micro-Fiber Addition on Properties of 3D Printable ‘Just-Add-Water’ Geopolymers</a></li>
@@ -107,8 +83,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
@@ -126,4 +102,32 @@ tags:
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bong_nema_mech_li.2023.3PESHGCaPFfCoRCB/">3D Printed Engineered, Strain-Hardening Geopolymer Composite as Permanent Formwork for Construction of Reinforced Concrete Beam</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bong_nema_nere_mech.2022.MoF3PSHAACfAC,
+      author            = "Shin Hau Bong and Behzad Nematollahi and Venkatesh Naidu Nerella and Viktor Mechtcherine",
+      title             = "Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction",
+      doi               = "10.1016/j.cemconcomp.2022.104780",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Bong, B. Nematollahi, V. N. Nerella and V. Mechtcherine, “Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction”, <i>Cement and Concrete Composites</i>, 2022, doi: 10.1016/j.cemconcomp.2022.104780.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bong, Shin Hau, Behzad Nematollahi, Venkatesh Naidu Nerella, and Viktor Mechtcherine. “Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction”. <i>Cement and Concrete Composites</i>, 2022. https://doi.org/10.1016/j.cemconcomp.2022.104780.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

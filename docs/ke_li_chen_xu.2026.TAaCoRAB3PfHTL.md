@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhijiang Ke, Zichang Li, Zhengfei Chen, Yao Xu, Peng Lin, Chaoyi Li
+    - footer
+title: Ke Zhijiang, Li Zichang, Chen Zhengfei, Xu Yao, Lin Peng, Li Chaoyi
 description:
 tags:
  - advance
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/978-3-031-96732-0_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-96732-0_40</a>
+#Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-96732-0_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-96732-0_40" target="_blank">10.1007/978-3-031-96732-0_40</a>
 
--------------------------
+<a href="../../../author/ke_zhijiang"><b>Ke</b>&nbsp;Zhijiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0143-3505" title="ORCID: 0000-0003-0143-3505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zichang"><b>Li</b>&nbsp;Zichang</a></span>, <a href="../../../author/chen_zhengfei"><b>Chen</b>&nbsp;Zhengfei</a></span>, <a href="../../../author/xu_yao"><b>Xu</b>&nbsp;Yao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1338-2514" title="ORCID: 0000-0003-1338-2514" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_peng"><b>Lin</b>&nbsp;Peng</a></span>, <a href="../../../author/li_chaoyi"><b>Li</b>&nbsp;Chaoyi</a></span><br>
+Contribution - Proceedings of the 31st International Conference on Computational and Experimental Simulations in Engineering, pp. 571-586
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ke_zhijiang"><b>Ke</b> Zhijiang</a>
-,     <a href="../../../author/li_zichang"><b>Li</b> Zichang</a> <a href="https://orcid.org/0000-0003-0143-3505" title="ORCID: 0000-0003-0143-3505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_zhengfei"><b>Chen</b> Zhengfei</a>
-,     <a href="../../../author/xu_yao"><b>Xu</b> Yao</a>
-,     <a href="../../../author/lin_peng"><b>Lin</b> Peng</a> <a href="https://orcid.org/0000-0003-1338-2514" title="ORCID: 0000-0003-1338-2514" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_chaoyi"><b>Li</b> Chaoyi</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 31st International Conference on Computational and Experimental Simulations in Engineering, pp. 571-586
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#arm`](keyword/arm)
-    [`#base`](keyword/base)
-    [`#challenge`](keyword/challenge)
-    [`#hydraulic`](keyword/hydraulic)
-    [`#line`](keyword/line)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#technology`](keyword/technology)
-    [`#tunnel`](keyword/tunnel)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/hydraulic"><button class="btn">#hydraulic</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Technological%20Advancements%20and%20Challenges%20of%20Robotic%20Arm-Based%203D%20Printing%20for%20Hydraulic%20Tunnel%20Lining" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020692420&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415378301" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-96732-0_40" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-96732-0_40?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Hydraulic tunnels are critical components to modern infrastructures, supporting urban development, water resource security, and flood control. Traditional construction methods face challenges such as high costs, safety risks, and environmental inefficiencies. Robotic arm-based 3D printing, the robust technology for tunnel lining proposed herein, is a crucial branch of additive manufacturing, distinguished by its multi-degree-of-freedom motion and process flexibility, enabling creation of complex geometries, adaptability to confined tunnel environments, and reduction in material waste. This review provides a comprehensive analysis of robotic arm-based 3D printing, focusing on hardware design, coordination control and quality monitoring. Simultaneously, the challenges in robotic arm-based 3D printing issues are explored, such as insufficient control precision, trajectory optimization for complex environments, and the need for improved monitoring techniques. The integration of advanced algorithms, artificial intelligence (AI), and Internet of Things (IoT) is proposed as a pathway to address these barriers, enabling real-time adaptation to geological changes and predictive maintenance. In the Future, robotic arm 3D printing is poised to drive construction towards high efficiency, sustainability, and automation, paving the path for a transformative impact on the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/shengzhao_e"><b>Shengzhao</b> E.</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../cao_shen_yang_shi.2024.ASftIotBPo3PCILI/">A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
@@ -100,7 +74,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ke_li_chen_xu.2026.TAaCoRAB3PfHTL,
+      author            = "Zhijiang Ke and Zichang Li and Zhengfei Chen and Yao Xu and Peng Lin and Chaoyi Li",
+      title             = "Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining",
+      doi               = "10.1007/978-3-031-96732-0_40",
+      year              = "2026",
+      volume            = "187",
+      pages             = "571--586",
+      booktitle         = "Proceedings of the 31st International Conference on Computational and Experimental Simulations in Engineering",
+      editor            = "Xiqiau Feng and Kun Zhou",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Ke, Z. Li, Z. Chen, Y. Xu, P. Lin and C. Li, “Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining”, in <i>Proceedings of the 31st International Conference on Computational and Experimental Simulations in Engineering</i>,  2026, vol. 187, pp. 571–586. doi: 10.1007/978-3-031-96732-0_40.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ke, Zhijiang, Zichang Li, Zhengfei Chen, Yao Xu, Peng Lin, and Chaoyi Li. “Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining”. In <i>Proceedings of the 31st International Conference on Computational and Experimental Simulations in Engineering</i>, edited by Xiqiau Feng and Kun Zhou, 187:571–86, 2026. https://doi.org/10.1007/978-3-031-96732-0_40.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

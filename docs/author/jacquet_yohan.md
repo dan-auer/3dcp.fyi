@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jacquet Yohan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../jacq_kawa_span.2025.UtSBu3PCBM/">Unveiling the Structural Build-up 3D Printable Cement-Based Materials:<br/>From Small Amplitude Oscillatory Shear (SAOS) To Extensional (SAOE) Rheological Workflows</a></li>
   <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../duco_bono_kach_jacq.2025.FLtP/">From Laboratory to Practice</a></li>

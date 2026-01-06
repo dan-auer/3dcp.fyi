@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shiwei Yu, Hongjian Du, Jay Sanjayan
+    - footer
+title: Yu Shiwei, Du Hongjian, Sanjayan Jay
 description:
 tags:
  - aggregate
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1016/j.cemconres.2020.106169" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2020.106169</a>
+#Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2020.106169" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2020.106169" target="_blank">10.1016/j.cemconres.2020.106169</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_shiwei"><b>Yu</b>&nbsp;Shiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 136
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> <a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 136, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#bed`](keyword/bed)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Aggregate-Bed%203D%20Concrete%20Printing%20with%20Cement-Paste%20Binder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85087993247&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3042882072" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2020.106169" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2020.106169?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is an emerging construction method, which has the potential to revolutionize the building industry by enabling construction automation. This paper presents a feasible concrete printing process, where cement-based filament is extruded onto aggregates bed to form layer-by-layer structures. Distinct from extrusion-based concrete printing, coarse aggregates are incorporated in the printing process and serve as the supporting material. A prototype printer has been successfully developed and aggregate content could reach about 40% in the printed concrete. Furthermore, the printed structures gained compressive strength up to 48.9 MPa and flexural strength up to 7.5 MPa at 28 days, which satisfies the general engineering requirement. Besides, an apparent mechanical anisotropy was found in printed structures and the reason of this anisotropy is the voids formed around aggregate layers and the weak interfacial transition zone located between aggregate and paste.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
@@ -88,8 +68,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "77 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/niu_huaxian"><b>Niu</b> Huaxian</a>, <a href="../../../author/yu_bo"><b>Yu</b> Bo</a>, <a href="../../../author/hao_ji"><b>Hao</b> Ji</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../niu_yu_hao.2025.CBFFAoSNi3CP/">CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing</a></li>
@@ -167,6 +147,34 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../marc_sanj.2021.RMf3CPUPCBP/">Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a>, <a href="../../../author/novak_josef"><b>Novák</b> Josef</a>, <a href="../../../author/kohoutkova_alena"><b>Kohoutková</b> Alena</a>, <a href="../../../author/vosynek_petr"><b>Vosynek</b> Petr</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vesp_nova_koho_vosy.2020.IBaITSoaHCMwaCAfAM/">Interface Behavior and Interface Tensile Strength of a Hardened Concrete Mixture with a Coarse Aggregate for Additive Manufacturing</a></li>
-      <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_sanj_du.2020.IoPSaGoAB3CP/">Impact of Particle-Size and Grading on Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yu_du_sanj.2020.AB3CPwCPB,
+      author            = "Shiwei Yu and Hongjian Du and Jay Gnananandan Sanjayan",
+      title             = "Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder",
+      doi               = "10.1016/j.cemconres.2020.106169",
+      year              = "2020",
+      journal           = "Cement and Concrete Research",
+      volume            = "136",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Yu, H. Du and J. G. Sanjayan, “Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder”, <i>Cement and Concrete Research</i>, vol. 136, 2020, doi: 10.1016/j.cemconres.2020.106169.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yu, Shiwei, Hongjian Du, and Jay Gnananandan Sanjayan. “Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder”. <i>Cement and Concrete Research</i> 136 (2020). https://doi.org/10.1016/j.cemconres.2020.106169.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

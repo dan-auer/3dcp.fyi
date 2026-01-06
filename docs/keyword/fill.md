@@ -8,7 +8,7 @@ search:
 
 # #fill
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sicakova_alena"><b>Sičáková</b> Alena</a>, <a href="../../../author/vercimak_dominik"><b>Verčimák</b> Dominik</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sica_verc.2025.LMwaHPoRFiTo3PP/">Lightweight Mixtures with a High Proportion of Recycled Fillers in Terms of 3D Printing Parameters</a></li>
   <li><a href="../../../author/jankovsky_ondrej"><b>Jankovský</b> Ondřej</a>, <a href="../../../author/lodnanek_petr"><b>Lodňánek</b> Petr</a>, <a href="../../../author/lauermannova_anna-marie"><b>Lauermannová</b> Anna-Marie</a>, <a href="../../../author/jirickova_adela"><b>Jiříčková</b> Adéla</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../jank_lodn_laue_jiri.2025.UoLFSaFRiMOC/">Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement:<br/>Towards Sustainable 3D-Printable Building Composites</a></li>
   <li><a href="../../../author/nandurkar_p_bhupesh"><b>Nandurkar</b> Bhupesh</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a>, <a href="../../../author/hinge_k_pawan"><b>Hinge</b> Pawan</a>, <a href="../../../author/bahoria_v_boskey"><b>Bahoria</b> Boskey</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../nand_raut_hing_baho.2025.MSDLFfTDPSSCCwHNCF/">Multi-Scale Deep Learning Framework for Three Dimensional Printed Self-Sensing Cementitious Composites with Hybrid Nano-Carbon Fillers</a></li>

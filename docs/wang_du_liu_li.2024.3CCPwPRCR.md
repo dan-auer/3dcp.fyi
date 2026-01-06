@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangyu Wang, Liangfen Du, Zhenbang Liu, Mingyang Li, Yiwei Weng, Zhixin Liu, Yi Tay, Zheng Fan, Teck Wong, Ming Tan
+    - footer
+title: Wang Xiangyu, Du Liangfen, Liu Zhenbang, Li Mingyang, Weng Yiwei, Liu Zhixin, Tay Yi, Fan Zheng, Wong Teck, Tan Ming
 description:
 tags:
  - acoustic
@@ -17,39 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/17452759.2024.2399787) 3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber:<br/>:aca-blank: Mechanical and Acoustic Insulation Properties ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1080/17452759.2024.2399787" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2399787</a>
+#3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Mechanical and Acoustic Insulation Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2399787) <a href="https://doi.org/10.1080/17452759.2024.2399787" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2399787" target="_blank">10.1080/17452759.2024.2399787</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/du_liangfen"><b>Du</b>&nbsp;Liangfen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhenbang"><b>Liu</b>&nbsp;Zhenbang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhixin"><b>Liu</b>&nbsp;Zhixin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <a href="../../../author/fan_zheng"><b>Fan</b>&nbsp;Zheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_liangfen"><b>Du</b> Liangfen</a>
-,     <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> <a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> <a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_zheng"><b>Fan</b> Zheng</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#acoustic`](keyword/acoustic)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#insulation`](keyword/insulation)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#rubber`](keyword/rubber)
-
-
--------------------------
+<a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Cementitious%20Composites%20Printing%20with%20Pretreated%20Recycled%20Crumb-Rubber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203880376&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402348302" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2399787" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2399787?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious materials incorporating recycled crumb rubber have become a common sustainable resolution in diverse building environments to achieve various functions in terms of lightweight, ductility, as well as energy absorption. This study explored the 3D printed rubberised cementitious composites (3DPRC) in two aspects: examining the effects of crumb rubber pretreatment conditions on compressive properties; conducting experimental and numerical analysis on the acoustic dissipation characteristics of 3DPRC. Fine crumb rubber granules (3-5 mm) replaced 10%, 20%, and 30% of river sand in the composites. Uniaxial compression tests indicated that the compressive strength of 3DPRC decreased with the increase of crumb rubber content and introduced anisotropic behaviour. Impedance tube tests were conducted to evaluate the sound absorption and insulation capabilities of 3DPRC. An optimal Noise Reduction Coefficient (NRC) of 0.35 was achieved with 30% crumb rubber. The sound insulation properties depend strongly on the mass density and porosity of the 3DPRC. Additionally, it is proved that the volume of built-in air gap has positive effects on both sound absorption and insulation properties. The results from Finite Element Method (FEM) numerical simulations correlated well with experimental data, proving the efficiency of the simulation and validating the experimental results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/pan_hao"><b>Pan</b> Hao</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../geng_pan_zuo_she.2022.FGLCBCwOMPvAM/">Functionally Graded Lightweight Cement-Based Composites with Outstanding Mechanical Performances via Additive Manufacturing</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
@@ -95,11 +67,41 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_du_liu_li.2024.3CCPwPRCR,
+      author            = "Xiangyu Wang and Liangfen Du and Zhenbang Liu and Mingyang Li and Yiwei Weng and Zhixin Liu and Yi Wei Daniel Tay and Zheng Fan and Teck Neng Wong and Ming Jen Tan",
+      title             = "3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber: Mechanical and Acoustic Insulation Properties",
+      doi               = "10.1080/17452759.2024.2399787",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Wang, “3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber: Mechanical and Acoustic Insulation Properties”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2399787.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Xiangyu, Liangfen Du, Zhenbang Liu, Mingyang Li, Yiwei Weng, Zhixin Liu, Yi Wei Daniel Tay, Zheng Fan, Teck Neng Wong, and Ming Jen Tan. “3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber: Mechanical and Acoustic Insulation Properties”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2399787.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

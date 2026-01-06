@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jipa Mihail-Andrei 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jipa_anto_gebh_dill.2024.TNS/">The Nubian Slab:<br/>3D Concrete Printed Stay-in-Place Formwork for Vaulted Slabs</a></li>
   <li><a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chou_yoo_jipa_dill.2024.C/">Cadenza:<br/>3D Printed Formwork for a Free-Form Stair</a></li>
   <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/lydon_gearoid"><b>Lydon</b> Gearóid</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jipa_lydo_yoo_chou.2024.H/">HiRes:<br/>3D Printed Formwork for an Integrated Slab</a></li>

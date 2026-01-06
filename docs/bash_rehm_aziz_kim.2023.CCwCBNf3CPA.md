@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shaik Basha, Atta Rehman, Md Aziz, Jung-Hoon Kim
+    - footer
+title: Basha Shaik, Rehman Atta, Aziz Md, Kim Jung-Hoon
 description:
 tags:
  - application
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>:aca-blank: A Review ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1002/tcr.202200293" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/tcr.202200293</a>
+#Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/tcr.202200293" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/tcr.202200293" target="_blank">10.1002/tcr.202200293</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8483-4448" title="ORCID: 0000-0001-8483-4448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/basha_inayath_shaik"><b>Basha</b>&nbsp;Shaik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_atta"><b>Rehman</b>&nbsp;Atta</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1537-2785" title="ORCID: 0000-0002-1537-2785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aziz_abdul_md"><b>Aziz</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
+Journal Article - Chemical Record
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a> <a href="https://orcid.org/0000-0001-8483-4448" title="ORCID: 0000-0001-8483-4448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> <a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a> <a href="https://orcid.org/0000-0002-1537-2785" title="ORCID: 0000-0002-1537-2785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Chemical Record
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cement%20Composites%20with%20Carbon-Based%20Nanomaterials%20for%203D%20Concrete%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147802578&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320710459" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/tcr.202200293" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/tcr.202200293?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is an emerging additive manufacturing technology in the construction industry. Its challenges lie in the development of high-performance printable materials and printing processes. Recently developed carbon-based nanomaterials (CBNs) such as graphene, graphene oxide, graphene nanoplatelets, and carbon nanotubes, have various applications due to their exceptional mechanical, chemical, thermal, and electrical characteristics. CBNs also have found potential applications as a concrete ingredient as they enhance the microstructure and modify concrete properties at the molecular level. This paper focuses on state-of-the-art studies on CBNs, 3DCP technology, and CBNs in conventional and 3D printable cement-based composites including CBN dispersion techniques, concrete mixing methods, and fresh and hardened properties of concrete. Furthermore, the current limitations and future perspectives of 3DCP using CBNs to produce high-quality composite mixtures are discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "88 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -156,8 +135,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bajw_flem_sama_bao.2025.So3PT/">Sustainability of 3D Printing Technology:<br/>A Review on Research Trends and Developments</a></li>
@@ -174,4 +153,32 @@ tags:
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../rehm_perr_birr_kim.2023.RfQCiI3CPCwMCC/">Recommendations for Quality-Control in Industrial 3D Concrete Printing Construction with Mono-Component Concrete:<br/>A Critical Evaluation of Ten Test-Methods and the Introduction of the Performance-Index</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bash_rehm_aziz_kim.2023.CCwCBNf3CPA,
+      author            = "Shaik Inayath Basha and Atta Ur Rehman and Md Abdul Aziz and Jung-Hoon Kim",
+      title             = "Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications: A Review",
+      doi               = "10.1002/tcr.202200293",
+      year              = "2023",
+      journal           = "Chemical Record",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. I. Basha, A. U. Rehman, M. A. Aziz and J.-H. Kim, “Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications: A Review”, <i>Chemical Record</i>, 2023, doi: 10.1002/tcr.202200293.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Basha, Shaik Inayath, Atta Ur Rehman, Md Abdul Aziz, and Jung-Hoon Kim. “Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications: A Review”. <i>Chemical Record</i>, 2023. https://doi.org/10.1002/tcr.202200293.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

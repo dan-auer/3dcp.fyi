@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seyed Ghaffar, Jorge Corker, Mizi Fan
+    - footer
+title: Ghaffar Seyed, Corker Jorge, Fan Mizi
 description:
 tags:
  - additive
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2018.05.005) Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution ([2018-05](date/2018/05))
-<a href="https://doi.org/10.1016/j.autcon.2018.05.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2018.05.005</a>
+#Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution ([2018-05](date/2018/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2018.05.005) <a href="https://doi.org/10.1016/j.autcon.2018.05.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2018.05.005" target="_blank">10.1016/j.autcon.2018.05.005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7155-4735" title="ORCID: 0000-0002-7155-4735" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corker_jorge"><b>Corker</b>&nbsp;Jorge</a></span>, <a href="../../../author/fan_mizi"><b>Fan</b>&nbsp;Mizi</a></span><br>
+Journal Article - Automation in Construction, Vol. 93, pp. 1-11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a> <a href="https://orcid.org/0000-0002-7155-4735" title="ORCID: 0000-0002-7155-4735" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 93, pp. 1-11
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#implementation`](keyword/implementation)
-    [`#innovation`](keyword/innovation)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#solution`](keyword/solution)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Technology%20and%20Its%20Implementation%20in%20Construction%20as%20an%20Eco-Innovative%20Solution" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046999128&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2802759913" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2018.05.005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2018.05.005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) of construction materials has been one of the emerging advanced technologies that aim to minimise the supply chain in the construction industry through autonomous production of building components directly from digital models without human intervention and complicated formworks. However, technical challenges needs to be addressed for the industrial implementation of AM, e.g. materials formulation standardization, and interfacial bonding quality between the deposited layers amongst others. AM as one of the most highlighted key enabling technologies has the potential to create disruptive solutions, the key for its successful implementation is multidisciplinary effort in synergy involving materials science, architecture/design, computation, and robotics. There are crucial links between the material design formulations and the printing system for the manufacturing of the complex 3D geometries. Understanding and optimising the mix design for fresh rheology of materials and sufficient adhesion/cohesion of interface can allow the incorporation of complexity in the geometry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
@@ -92,8 +72,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "135 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/fantucci_stefano"><b>Fantucci</b> Stefano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../card_varg_fant.2026.TOaMEfItTPo3PPWC/">Topological Optimization and Material Exploration for Improving the Thermal Performance of 3D Printed Prefabricated Wall Components</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
@@ -230,4 +210,34 @@ tags:
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/mullett_paul"><b>Mullett</b> Paul</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ghaf_mull.2018.C/">Commentary:<br/>3D Printing Set to Transform the Construction Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ghaf_cork_fan.2018.AMTaIIiCaaEIS,
+      author            = "Seyed Hamidreza Ghaffar and Jorge Corker and Mizi Fan",
+      title             = "Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution",
+      doi               = "10.1016/j.autcon.2018.05.005",
+      year              = "2018",
+      journal           = "Automation in Construction",
+      volume            = "93",
+      pages             = "1--11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Ghaffar, J. Corker and M. Fan, “Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution”, <i>Automation in Construction</i>, vol. 93, pp. 1–11, 2018, doi: 10.1016/j.autcon.2018.05.005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghaffar, Seyed Hamidreza, Jorge Corker, and Mizi Fan. “Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution”. <i>Automation in Construction</i> 93 (2018): 1–11. https://doi.org/10.1016/j.autcon.2018.05.005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

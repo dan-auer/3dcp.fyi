@@ -8,7 +8,7 @@ search:
 
 # #twin
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR/">Assessing Orthotropic Mechanical Performance and Digital Twin of Robotic 3D Printed Cementitious Mortars with Fibers and Metal Reinforcements</a></li>
   <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
   <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>

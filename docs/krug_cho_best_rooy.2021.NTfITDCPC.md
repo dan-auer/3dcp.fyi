@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jacques Kruger, Seung Cho, Frederick Bester, Algurnon Rooyen, Gideon Zijl
+    - footer
+title: Kruger Jacques, Cho Seung, Bester Frederick, Rooyen Algurnon, Zijl Gideon
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Nano-Technology for Improved Three-Dimensional Concrete Printing Constructability ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733101" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733101</a>
+#Nano-Technology for Improved Three-Dimensional Concrete Printing Constructability ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733101" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733101" target="_blank">10.14359/51733101</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bester_a_frederick"><b>Bester</b>&nbsp;Frederick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rooyen_steve_algurnon"><b>van&nbsp;Rooyen</b>&nbsp;Algurnon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 19-28
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a> <a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rooyen_steve_algurnon"><b>van Rooyen</b> Algurnon</a> <a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 19-28
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#dimension`](keyword/dimension)
-    [`#improvement`](keyword/improvement)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nano-Technology%20for%20Improved%20Three-Dimensional%20Concrete%20Printing%20Constructability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122150933&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3203112382" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733101" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733101?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the application of nanotechnology in three-dimensional (3D) concrete printing (3DCP), in particular for enhancing thixotropic material behavior, improving buildability or the vertical building rate, and the amelioration of typical 3DCP anisotropic mechanical properties. Two 3D-printable cementitious materials are investigated in this study: 1) high-performance concrete (HPC) with respective nano-silica (nS) and silicon carbide (SiC) nanoparticle additions; and 2) lightweight foamed concrete (LWFC) with nS addition. The results indicate a significant increase in thixotropic material behavior for the HPC at low nanoparticle dosages. The inclusion of SiC nanoparticles improved the HPC’s buildability performance by 45%. The incorporation of 3% nS to the LWFC increased the static yield shear stress by up to five times, which is validated by the improved buildability performance. Hardened state mechanical properties improved for both cementitious materials and nanoparticle additions. Especially noteworthy is nanoparticles’ favorable influence on the interlayer bond strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../krug_cho_zera_vint.2020.3CPPOfHRDCAPC/">3D Concrete Printer Parameter Optimization for High-Rate Digital Construction Avoiding Plastic Collapse</a></li>
@@ -77,8 +55,8 @@ tags:
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
       <li><a href="../../../author/salifu_n"><b>Salifu</b> N.</a>, <a href="../../../author/bassuoni_t_mohamed"><b>Bassuoni</b> Mohamed</a>, <a href="../../../author/guven_gursans"><b>Guven</b> Gursans</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sali_bass_guve.2025.PEoLBCaCNi3CP/">Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing</a></li>
@@ -86,4 +64,35 @@ tags:
       <li><a href="../../../author/baytak_tugba"><b>Baytak</b> Tugba</a>, <a href="../../../author/gdeh_tawfeeq"><b>Gdeh</b> Tawfeeq</a>, <a href="../../../author/jiang_zhangfan"><b>Jiang</b> Zhangfan</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bayt_gdeh_jian_arce.2024.RMaEPoPGECCwLaCC/">Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{krug_cho_best_rooy.2021.NTfITDCPC,
+      author            = "Jacques Pienaar Kruger and Seung Cho and Frederick A. Bester and Algurnon Steve van Rooyen and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Nano-Technology for Improved Three-Dimensional Concrete Printing Constructability",
+      doi               = "10.14359/51733101",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "19--28",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. P. Kruger, S. Cho, F. A. Bester, A. S. van Rooyen and G. P. A. G. van Zijl, “Nano-Technology for Improved Three-Dimensional Concrete Printing Constructability”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 19–28, 2021, doi: 10.14359/51733101.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kruger, Jacques Pienaar, Seung Cho, Frederick A. Bester, Algurnon Steve van Rooyen, and Gideon Pieter Adriaan Greeff van Zijl. “Nano-Technology for Improved Three-Dimensional Concrete Printing Constructability”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 19–28. https://doi.org/10.14359/51733101.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

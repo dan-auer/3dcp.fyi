@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Saif Rehman, Raja Riaz, Muhammad Usman, In-Ho Kim
+    - footer
+title: Rehman Saif, Riaz Raja, Usman Muhammad, Kim In-Ho
 description:
 tags:
  - approach
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/14/16/7231/pdf?version=1723820923) Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction ([2024-08](date/2024/08))
-<a href="https://doi.org/10.3390/app14167231" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app14167231</a>
+#Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/14/16/7231/pdf?version=1723820923) <a href="https://doi.org/10.3390/app14167231" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14167231" target="_blank">10.3390/app14167231</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-4430-1452" title="ORCID: 0009-0000-4430-1452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_saif"><b>Rehman</b>&nbsp;Saif</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/riaz_dilawar_raja"><b>Riaz</b>&nbsp;Raja</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usman_muhammad"><b>Usman</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5665-9902" title="ORCID: 0000-0001-5665-9902" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_in-ho"><b>Kim</b>&nbsp;In-Ho</a></span><br>
+Journal Article - Applied Sciences, Vol. 14, Iss. 16, No. 7231
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a> <a href="https://orcid.org/0009-0000-4430-1452" title="ORCID: 0009-0000-4430-1452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> <a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> <a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_in-ho"><b>Kim</b> In-Ho</a> <a href="https://orcid.org/0000-0001-5665-9902" title="ORCID: 0000-0001-5665-9902" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 14, Iss. 16, No. 7231
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#augmentation`](keyword/augmentation)
-    [`#concrete`](keyword/concrete)
-    [`#data`](keyword/data)
-    [`#mixing`](keyword/mixing)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/augmentation"><button class="btn">#augmentation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Augmented%20Data-Driven%20Approach%20Towards%203D%20Printed%20Concrete%20Mix%20Prediction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202437392&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401634359" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app14167231" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app14167231?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Formulating a mix design for 3D concrete printing (3DCP) is challenging, as it involves an iterative approach, wasting a lot of resources, time, and effort to optimize the mix for strength and printability. A potential solution is mix formulation through artificial intelligence (AI); however, being a new and emerging field, the open-source availability of datasets is limited. Limited datasets significantly restrict the predictive performance of machine learning (ML) models. This research explores data augmentation techniques like deep generative adversarial network (DGAN) and bootstrap resampling (BR) to increase the available data to train three ML models, namely support vector machine (SVM), artificial neural network (ANN), and extreme gradient boosting regression (XGBoost). Their performance was evaluated using R2, MSE, RMSE, and MAE metrics. Models trained on BR-augmented data showed higher accuracy than those trained on the DGAN-augmented data. The BR-trained XGBoost exhibited the highest R2 scores of 0.982, 0.970, 0.972, 0.971, and 0.980 for cast compressive strength, printed compressive strength direction 1, 2, 3, and slump flow respectively. The proposed method of predicting the slump flow (mm), cast, and anisotropic compressive strength (MPa) can effectively predict the mix design for printable concrete, unlocking its full potential for application in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "60 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -126,8 +105,8 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
@@ -135,4 +114,35 @@ tags:
       <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
       <li><a href="../../../author/schossler_teixeira_rodrigo"><b>Schossler</b> Rodrigo</a>, <a href="../../../author/ullah_shafi"><b>Ullah</b> Shafi</a>, <a href="../../../author/alajlan_zaid"><b>Alajlan</b> Zaid</a>, <a href="../../../author/yu_xiong"><b>Yu</b> Xiong</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../scho_ulla_alaj_yu.2025.DDAi3CP/">Data-Driven Analysis in 3D Concrete Printing:<br/>Predicting and Optimizing Construction Mixtures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rehm_riaz_usma_kim.2024.ADDAT3PCMP,
+      author            = "Saif Ur Rehman and Raja Dilawar Riaz and Muhammad Usman and In-Ho Kim",
+      title             = "Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction",
+      doi               = "10.3390/app14167231",
+      year              = "2024",
+      journal           = "Applied Sciences",
+      volume            = "14",
+      number            = "16",
+      pages             = "7231",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. U. Rehman, R. D. Riaz, M. Usman and I.-H. Kim, “Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction”, <i>Applied Sciences</i>, vol. 14, no. 16, p. 7231, 2024, doi: 10.3390/app14167231.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rehman, Saif Ur, Raja Dilawar Riaz, Muhammad Usman, and In-Ho Kim. “Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction”. <i>Applied Sciences</i> 14, no. 16 (2024): 7231. https://doi.org/10.3390/app14167231.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

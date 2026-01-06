@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhuoyue Xu, Dawang Zhang, Hui Li, Xuemei Sun
+    - footer
+title: Xu Zhuoyue, Zhang Dawang, Li Hui, Sun Xuemei
 description:
 tags:
  - buildability
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of the Distribution of Solid Particles on the Rheological Properties and Buildability of 3DPM Fresh Pastes with Different FA/GGBFS Content ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1007/s43452-023-00622-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s43452-023-00622-w</a>
+#Effects of the Distribution of Solid Particles on the Rheological Properties and Buildability of 3DPM Fresh Pastes with Different FA/GGBFS Content ([2023-02](date/2023/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s43452-023-00622-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-023-00622-w" target="_blank">10.1007/s43452-023-00622-w</a>
 
--------------------------
+<a href="../../../author/xu_zhuoyue"><b>Xu</b>&nbsp;Zhuoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_dawang"><b>Zhang</b>&nbsp;Dawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/sun_xuemei"><b>Sun</b>&nbsp;Xuemei</a></span><br>
+Journal Article - Archives of Civil and Mechanical Engineering, Vol. 23, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>
-,     <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a> <a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_xuemei"><b>Sun</b> Xuemei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Civil and Mechanical Engineering, Vol. 23, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#content`](keyword/content)
-    [`#difference`](keyword/difference)
-    [`#distribution`](keyword/distribution)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#ggbfs`](keyword/ggbfs)
-    [`#particle`](keyword/particle)
-    [`#paste`](keyword/paste)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#solid`](keyword/solid)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/ggbfs"><button class="btn">#ggbfs</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20the%20Distribution%20of%20Solid%20Particles%20on%20the%20Rheological%20Properties%20and%20Buildability%20of%203DPM%20Fresh%20Pastes%20with%20Different%20FA/GGBFS%20Content" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148686230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321435167" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s43452-023-00622-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s43452-023-00622-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology has attracted great attention from the construction industry for its superior performance compared with traditional construction technology. In this study, the rheological properties of fresh mixed pastes with different contents of fly ash (FA) and granular ground blast furnace slag (GGBFS) were evaluated by analyzing rheology indices and the fitting of the Bingham model, and the relationship between the rheological properties, the buildability of 3D Printing Material (3DPM) and n value of the Rosin–Rammler distribution function was established. The results show that with increasing FA or GGBFS content, the rheological properties (fluidity, yield stress, and plastic viscosity) of fresh mixed pastes first improved and then deteriorated, and the n value (constant for the width of the particle distribution) first decreased and then increased. When the FA content was 20%, the paste fluidity reached a maximum value of 178 mm, the n value (1.01782) was the smallest, the particle size distribution was the widest, the accumulation was the best, and the buildability of 3DPM was the best. In addition, it can be seen from the SEM analysis that FA and GGBFS participate in the cement hydration to a limited extent, which mainly play the role of compaction and adjustment of particle size distribution. This is consistent with the test results of XRD. In short, by adjusting the amount of FA and GGBFS, the particle size distribution of the whole cementitious material system changes. When the fluidity of 3DPM was between 160 and 180 mm, the smaller the n value of the Rosin–Rammler distribution function, the better its buildability was.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
@@ -95,9 +69,40 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>, <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/sun_xuemei"><b>Sun</b> Xuemei</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_zhan_li_sun.2022.EoFaGoCSRaPPoCB3PM/">Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pal_chou_kapo.2024.IoVPPoMBoACC/">Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_zhan_li_sun.2023.EotDoSPotRPaBo3FPwDFGC,
+      author            = "Zhuoyue Xu and Dawang Zhang and Hui Li and Xuemei Sun",
+      title             = "Effects of the Distribution of Solid Particles on the Rheological Properties and Buildability of 3DPM Fresh Pastes with Different FA/GGBFS Content",
+      doi               = "10.1007/s43452-023-00622-w",
+      year              = "2023",
+      journal           = "Archives of Civil and Mechanical Engineering",
+      volume            = "23",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Xu, D. Zhang, H. Li and X. Sun, “Effects of the Distribution of Solid Particles on the Rheological Properties and Buildability of 3DPM Fresh Pastes with Different FA/GGBFS Content”, <i>Archives of Civil and Mechanical Engineering</i>, vol. 23, no. 2, 2023, doi: 10.1007/s43452-023-00622-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Zhuoyue, Dawang Zhang, Hui Li, and Xuemei Sun. “Effects of the Distribution of Solid Particles on the Rheological Properties and Buildability of 3DPM Fresh Pastes with Different FA/GGBFS Content”. <i>Archives of Civil and Mechanical Engineering</i> 23, no. 2 (2023). https://doi.org/10.1007/s43452-023-00622-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeşim Tarhan, Berrin Atalay
+    - footer
+title: Tarhan Yeşim, Atalay Berrin
 description:
 tags:
  - additive
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2073-4360/17/18/2530/pdf?version=1758249748) Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/polym17182530" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/polym17182530</a>
+#Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2073-4360/17/18/2530/pdf?version=1758249748) <a href="https://doi.org/10.3390/polym17182530" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym17182530" target="_blank">10.3390/polym17182530</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <a href="../../../author/atalay_berrin"><b>Atalay</b>&nbsp;Berrin</a></span><br>
+Journal Article - Polymers, Vol. 17, Iss. 18, No. 2530
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/atalay_berrin"><b>Atalay</b> Berrin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Polymers, Vol. 17, Iss. 18, No. 2530
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Phosphogypsum%20and%20Borogypsum%20as%20Additives%20for%20Sustainable%20and%20High-Performance%203D-Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016996731&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414359066" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/polym17182530" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/polym17182530?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printable concretes often require high binder content. This study evaluates the use of industrial gypsum by-products, phosphogypsum (PG) and borogypsum (BG), as partial cement replacements to enhance sustainability without compromising printability. PG and BG were incorporated at 2.5–10 wt% to replace the gypsum fraction in cement-based mortars containing fly ash (FA) or ground granulated blast-furnace slag (GGBS), with and without fibers. The fresh properties (spread flow diameter, open time, air content, density, and pH) and compressive strength were measured. At 28 days, the highest strength was achieved with a 7.5% PG addition to the GGBS system (~51 MPa), which exceeded the strength of the GGBS control C1 (~47.6 MPa). In the FA system, 2.5% PG reached 42.5 MPa, comparable to the FA control C2 (41.2 MPa). BG caused pronounced strength penalties at ≥7.5% across both binder systems, indicating a practical BG ceiling of ≤5%. Open time increased from ~0.75 h in the controls to ~2–2.5 h in BG-FA mixes with fibers, whereas PG mixes generally maintained a stable, printable window close to control levels. Overall, adding 5–7.5% PG, particularly in the presence of GGBS, improved mechanical performance without compromising workability. However, BG should be limited to ≤5% unless extended open time is the primary objective. These findings provide quantitative guidance on selecting PG/BG dosages and FA/GGBS systems to balance strength and printability in cement-based, 3D-printable concretes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/biricik_oznur"><b>Biricik</b> Öznur</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../biri_mard.2022.PATBoSCCa3PC/">Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
@@ -87,7 +69,39 @@ tags:
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../teix_scha_maia_rang.2022.IoSCMoFPo3PM/">Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wang_xiao_wang_jian.2022.FTRo3PCwDS/">Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tarh_atal.2025.PaBaAfSaHP3PC,
+      author            = "Yeşim Tarhan and Berrin Atalay",
+      title             = "Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete",
+      doi               = "10.3390/polym17182530",
+      year              = "2025",
+      journal           = "Polymers",
+      volume            = "17",
+      number            = "18",
+      pages             = "2530",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tarhan  and B. Atalay, “Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete”, <i>Polymers</i>, vol. 17, no. 18, p. 2530, 2025, doi: 10.3390/polym17182530.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tarhan, Yeşim, and Berrin Atalay. “Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete”. <i>Polymers</i> 17, no. 18 (2025): 2530. https://doi.org/10.3390/polym17182530.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongyu Zhao, Yufei Wang, Xianda Liu, Xiangyu Wang, Zhaohui Chen, Zuxiang Lei, Yiyi Zhou, Amardeep Singh
+    - footer
+title: Zhao Hongyu, Wang Yufei, Liu Xianda, Wang Xiangyu, Chen Zhaohui, Lei Zuxiang, Zhou Yiyi, Singh Amardeep
 description:
 tags:
  - cement
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03676) Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03676" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03676</a>
+#Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03676) <a href="https://doi.org/10.1016/j.cscm.2024.e03676" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03676" target="_blank">10.1016/j.cscm.2024.e03676</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <a href="../../../author/liu_xianda"><b>Liu</b>&nbsp;Xianda</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span>, <a href="../../../author/lei_zuxiang"><b>Lei</b>&nbsp;Zuxiang</a></span>, <a href="../../../author/zhou_yiyi"><b>Zhou</b>&nbsp;Yiyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e03676
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lei_zuxiang"><b>Lei</b> Zuxiang</a>
-,     <a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e03676
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#incorporation`](keyword/incorporation)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#solid`](keyword/solid)
-    [`#technology`](keyword/technology)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Review%20on%20Solid%20Wastes%20Incorporated%20Cementitious%20Material%20Using%203D%20Concrete%20Printing-Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204790220&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401864359" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03676" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03676?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The substitution of cement, natural sand, and synthetic fibers in concrete with solid wastes substantially reduces CO2 emissions. Incorporating solid wastes into 3D printed concrete, which reduces CO2 emissions from labor and formwork, can achieve innovative low-carbon construction materials. However, the previous studies lack a comprehensive review on the inherent characteristics of various solid wastes and their impacts on the printability, mechanical performance, and functionality of 3D printed concrete. This paper reviews the present state of research and introduces feasible methods for the sustainable use of solid wastes in 3D printed concrete. Numerous types of solid wastes are investigated comprising their benefits, shortages, and fit dose to guide in selecting the optimal solid waste to enhance the performance of printed concrete. Additionally, the printability, functionality, and mechanical strength of printed concrete with solid waste addition are quantified and summarized. The preliminary exploration to achieve a balance between multi-functionality and mechanical properties using mixed solid wastes is conducted for 3D concrete printing. Finally, machine learning, broadening raw material sources, automated monitoring systems, multi-functionalized composite, and BIM are proposed to address current challenges.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "93 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -167,8 +140,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
       <li><a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b> Kantawich</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pethrung_sirichai"><b>Pethrung</b> Sirichai</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../suph_pras_peth_pans.2025.FPEo3PCW/">Fire Performance Evaluation of 3D-Printed Concrete Walls:<br/>A Combined Full-Scale and Numerical Modeling Approach</a></li>
@@ -179,4 +152,33 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_jass_liu_wang.2024.AIBMRi3PC/">Artificial Intelligence-Based Microcracks Research in 3D Printing Concrete</a></li>
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/liu_shilong"><b>Liu</b> Shilong</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../wang_yang_liu_liu.2024.RoMPoa3CPCOPbMMA/">Research on Mechanical Properties of a 3D Concrete Printing Component-Optimized Path by Multi-Modal Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_wang_liu_wang.2024.RoSWICMU3CPT,
+      author            = "Hongyu Zhao and Yufei Wang and Xianda Liu and Xiangyu Wang and Zhaohui Chen and Zuxiang Lei and Yiyi Zhou and Amardeep Singh",
+      title             = "Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology",
+      doi               = "10.1016/j.cscm.2024.e03676",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e03676",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhao, “Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology”, <i>Case Studies in Construction Materials</i>, p. e03676, 2024, doi: 10.1016/j.cscm.2024.e03676.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Hongyu, Yufei Wang, Xianda Liu, Xiangyu Wang, Zhaohui Chen, Zuxiang Lei, Yiyi Zhou, and Amardeep Singh. “Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology”. <i>Case Studies in Construction Materials</i>, 2024, e03676. https://doi.org/10.1016/j.cscm.2024.e03676.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

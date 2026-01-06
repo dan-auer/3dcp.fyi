@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Irina Ivanova, Egor Ivaniuk, Sameercharan Bisetti, Venkatesh Nerella, Viktor Mechtcherine
+    - footer
+title: Ivanova Irina, Ivaniuk Egor, Bisetti Sameercharan, Nerella Venkatesh, Mechtcherine Viktor
 description:
 tags:
  - assessment
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2022.106764) Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106764" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106764</a>
+#Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2022.106764) <a href="https://doi.org/10.1016/j.cemconres.2022.106764" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106764" target="_blank">10.1016/j.cemconres.2022.106764</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4012-4203" title="ORCID: 0000-0003-4012-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivanova_irina"><b>Ivanova</b>&nbsp;Irina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b>&nbsp;Egor</a></span>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b>&nbsp;Sameercharan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 156
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> <a href="https://orcid.org/0000-0003-4012-4203" title="ORCID: 0000-0003-4012-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> <a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 156, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#comparison`](keyword/comparison)
-    [`#concrete`](keyword/concrete)
-    [`#fresh`](keyword/fresh)
-    [`#method`](keyword/method)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20Between%20Methods%20for%20Indirect%20Assessment%20of%20Buildability%20in%20Fresh%203D%20Printed%20Mortar%20and%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126293540&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3200076984" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106764" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106764?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a comparison between indirect methods for assessing the buildability of 3D printed cementitious materials, including constant rotational velocity (CRV) or constant shear rate (CSR) test using rotational rheometry, unconfined uniaxial compression test (UUCT), a newly proposed confined uniaxial compression test (CUCT), and fast penetration test. The experimental program was conducted on the extruded samples of six printable mortars and two printable concretes with various rheological behavior achieved by the use of different additives and admixtures. Predictions of the material failure and the stability failure in hollow cylindrical structures are provided and compared with the results of the direct printing test. Benefits and disadvantages of the employed test methods are discussed, also taking into consideration a perspective of their use for automated in-situ control of the materials' buildability
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../arun_nema_sanj_rana.2020.QEoOoSFi3PUHPC/">Quantitative Evaluation of Orientation of Steel-Fibers in 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/benamara_abdeslam"><b>Benamara</b> Abdeslam</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bena_pier_kaci_meli.2020.3PoaCBMiaCFS/">3D Printing of a Cement-Based Mortar in a Complex Fluid Suspension:<br/>Analytical Modeling and Experimental Tests</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -109,8 +86,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "90 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
@@ -202,4 +179,33 @@ tags:
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../nguy_nguy_pand_tran.2022.3CPMoTWS/">3D Concrete Printing Modelling of Thin-Walled Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC,
+      author            = "Irina Ivanova and Egor Ivaniuk and Sameercharan Bisetti and Venkatesh Naidu Nerella and Viktor Mechtcherine",
+      title             = "Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete",
+      doi               = "10.1016/j.cemconres.2022.106764",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "156",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Ivanova, E. Ivaniuk, S. Bisetti, V. N. Nerella and V. Mechtcherine, “Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete”, <i>Cement and Concrete Research</i>, vol. 156, 2022, doi: 10.1016/j.cemconres.2022.106764.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ivanova, Irina, Egor Ivaniuk, Sameercharan Bisetti, Venkatesh Naidu Nerella, and Viktor Mechtcherine. “Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete”. <i>Cement and Concrete Research</i> 156 (2022). https://doi.org/10.1016/j.cemconres.2022.106764.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

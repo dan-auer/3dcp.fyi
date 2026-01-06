@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdallah Yassin, Farook Hamzeh, Fatima Sakka
+    - footer
+title: Yassin Abdallah, Hamzeh Farook, Sakka Fatima
 description:
 tags:
  - agent
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers ([2019-12](date/2019/12))
-<a href="https://doi.org/10.1016/j.autcon.2019.103040" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.103040</a>
+#Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers ([2019-12](date/2019/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2019.103040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.103040" target="_blank">10.1016/j.autcon.2019.103040</a>
 
--------------------------
+<a href="../../../author/yassin_abdallah"><b>abou&nbsp;Yassin</b>&nbsp;Abdallah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b>&nbsp;Farook</a></span>, <a href="../../../author/sakka_fatima"><b>el&nbsp;Sakka</b>&nbsp;Fatima</a></span><br>
+Journal Article - Automation in Construction, Vol. 110
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yassin_abdallah"><b>abou Yassin</b> Abdallah</a>
-,     <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sakka_fatima"><b>el Sakka</b> Fatima</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 110, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#model`](keyword/model)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#steel`](keyword/steel)
-    [`#workflow`](keyword/workflow)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Agent-Based%20Modeling%20to%20Optimize%20Workflow%20of%20Robotic%20Steel%20and%20Concrete%203D%20Printers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85076102540&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2994021917" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.103040" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.103040?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     At a time when construction projects are increasing in complexity and costs are constantly rising, 3D concrete printing have emerged as a revolutionary technology in construction. However, reinforcing 3D printed concrete elements has posed technical issues in research and practice. This paper introduces a methodology for 3D printing nonstandard steel rebar shapes together with 3D concrete printing. The new process can revolutionize the construction industry's approach to reinforced concrete design, as it provides a high degree of flexibility in both concrete and steel free-form creation, which is a key difference from traditional methods that only utilize standard steel reinforcement shapes. In addition, the proposed method will provide an even higher degree of automation in the concrete 3D printing construction process. An agent based model using Any Logic© was developed to simulate and optimize the printing of retaining and shear walls for a floor in a reinforced concrete building. Results show the optimization ratios of steel printing heads to concrete printing heads using the current technology and promise significant reductions in time and cost while providing a cleaner, safer, more automated, and an unbounded construction process. Findings from this research call for an in-depth investigation of the capabilities of steel 3D printing and its utilization in construction. It also highlights the importance of considering the application of new construction tools that would cope with the rapid growth of computational capabilities, and their adoption in design practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -85,8 +63,8 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/syed_mohammad"><b>Syed</b> Mohammad</a>, <a href="../../../author/sharma_sumedh"><b>Sharma</b> Sumedh</a>, <a href="../../../author/koliou_maria"><b>Koliou</b> Maria</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../syed_shar_koli_side.2025.EAo3PHB/">Economic Analysis of 3D-Printed Hempcrete Buildings</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/dahlberg_maike"><b>Dahlberg</b> Maike</a>, <a href="../../../author/thormahlen_jan"><b>Thormählen</b> Jan</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../plac_dahl_thor_schw.2025.HPI3CP/">How Productive Is 3D Concrete Printing?:<br/>A Systematic Review</a></li>
@@ -112,4 +90,33 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../marc_sanj.2020.PRMf3CP/">Penetration Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yass_hamz_sakk.2020.ABMtOWoRSaC3P,
+      author            = "Abdallah Abou Yassin and Farook R. Hamzeh and Fatima El Sakka",
+      title             = "Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers",
+      doi               = "10.1016/j.autcon.2019.103040",
+      year              = "2020",
+      journal           = "Automation in Construction",
+      volume            = "110",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. A. Yassin, F. R. Hamzeh and F. E. Sakka, “Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers”, <i>Automation in Construction</i>, vol. 110, 2020, doi: 10.1016/j.autcon.2019.103040.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yassin, Abdallah Abou, Farook R. Hamzeh, and Fatima El Sakka. “Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers”. <i>Automation in Construction</i> 110 (2020). https://doi.org/10.1016/j.autcon.2019.103040.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

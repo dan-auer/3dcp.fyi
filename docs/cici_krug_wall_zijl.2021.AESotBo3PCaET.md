@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Antonio Cicione, Jacques Kruger, Richard Walls, Gideon Zijl
+    - footer
+title: Cicione Antonio, Kruger Jacques, Walls Richard, Zijl Gideon
 description:
 tags:
  - behavior
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1016/j.firesaf.2020.103075" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.firesaf.2020.103075</a>
+#An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures ([2020-05](date/2020/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.firesaf.2020.103075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.firesaf.2020.103075" target="_blank">10.1016/j.firesaf.2020.103075</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1368-4718" title="ORCID: 0000-0002-1368-4718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cicione_antonio"><b>Cicione</b>&nbsp;Antonio</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0913-3200" title="ORCID: 0000-0002-0913-3200" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walls_shaun_richard"><b>Walls</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Fire Safety Journal, Vol. 120
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a> <a href="https://orcid.org/0000-0002-1368-4718" title="ORCID: 0000-0002-1368-4718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a> <a href="https://orcid.org/0000-0002-0913-3200" title="ORCID: 0000-0002-0913-3200" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Fire Safety Journal, Vol. 120, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#elevation`](keyword/elevation)
-    [`#experiment`](keyword/experiment)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Experimental%20Study%20of%20the%20Behavior%20of%203D%20Printed%20Concrete%20at%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084468944&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3023564594" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.firesaf.2020.103075" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.firesaf.2020.103075?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of concrete (3DPC) is an automated layer-wise construction technique that does not require temporary support, such as formwork, during the construction process. It facilitates the realization of geometrically complex objects at reduced construction time, and potentially cost, compared to conventional construction techniques. However, with technological advancements and new innovative construction methods, such as 3DPC, it is still crucial to understand their performance in fire. Although concrete structures generally have a good reputation for their behavior in fire, there is negligible literature available on the behavior of 3DPC at evaluated temperatures. It is with this backdrop that this paper conducts a preliminary investigation on the behavior of 3DPC at elevated temperatures by conducting an experimental study. Eight concrete samples, consisting of both 3DPC and conventionally casted concrete, were tested by exposing the samples to a high incident heat flux via radiant panels, along with an additional 15 samples to obtain ambient strength properties. It was found that 3DPC is less susceptible to thermo-hygral spalling as a result of higher permeability and porosity in the 3DPC specimens compared to normally casted concrete. However, the 3DPC samples delaminated between layers (thermo-mechanical) as a result of reduced flexural strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
@@ -72,11 +52,12 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "85 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
+      <li><a href="../../../author/sifan_mohamed"><b>Sifan</b> Mohamed</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b> Sunday</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sifa_upas_pool_popo.2025.FPaDoLWPw3PCaSLCS/">Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
@@ -159,4 +140,33 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cici_krug_wall_zijl.2021.AESotBo3PCaET,
+      author            = "Antonio Cicione and Jacques Pienaar Kruger and Richard Shaun Walls and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures",
+      doi               = "10.1016/j.firesaf.2020.103075",
+      year              = "2021",
+      journal           = "Fire Safety Journal",
+      volume            = "120",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Cicione, J. P. Kruger, R. S. Walls and G. P. A. G. van Zijl, “An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures”, <i>Fire Safety Journal</i>, vol. 120, 2021, doi: 10.1016/j.firesaf.2020.103075.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cicione, Antonio, Jacques Pienaar Kruger, Richard Shaun Walls, and Gideon Pieter Adriaan Greeff van Zijl. “An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures”. <i>Fire Safety Journal</i> 120 (2021). https://doi.org/10.1016/j.firesaf.2020.103075.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

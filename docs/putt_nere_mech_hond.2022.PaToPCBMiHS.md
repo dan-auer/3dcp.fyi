@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jolien Putten, Venkatesh Nerella, Viktor Mechtcherine, Mélody Hondt, Mohammed Sonebi, Daniel Weger, Zhendi Wang, Costantino Menna, Nicolas Roussel, Dirk Lowke, Kim Tittelboom, Geert Schutter
+    - footer
+title: Putten Jolien, Nerella Venkatesh, Mechtcherine Viktor, Hondt Mélody, Sonebi Mohammed, Weger Daniel, Wang Zhendi, Menna Costantino, Roussel Nicolas, Lowke Dirk, Tittelboom Kim, Schutter Geert
 description:
 tags:
  - base
@@ -16,40 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://biblio.ugent.be/publication/01GS59EJ0NVRBNXZNY3G52WERN/file/01GS59MGW9TFTNK54X3J5BJRAT.pdf) Properties and Testing of Printed Cement-Based Materials in Hardened State ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1007/978-3-030-90535-4_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-90535-4_5</a>
+#Properties and Testing of Printed Cement-Based Materials in Hardened State ([2022-01](date/2022/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://biblio.ugent.be/publication/01GS59EJ0NVRBNXZNY3G52WERN/file/01GS59MGW9TFTNK54X3J5BJRAT.pdf) <a href="https://doi.org/10.1007/978-3-030-90535-4_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-90535-4_5" target="_blank">10.1007/978-3-030-90535-4_5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/hondt_melody"><b>d'&nbsp;Hondt</b>&nbsp;Mélody</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhendi"><b>Wang</b>&nbsp;Zhendi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Contribution - Digital Fabrication with Cement-Based Materials, pp. 137-185
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/putten_jolien"><b>van der Putten</b> Jolien</a> <a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hondt_melody"><b>d' Hondt</b> Mélody</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> <a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Digital Fabrication with Cement-Based Materials, pp. 137-185
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#hardened`](keyword/hardened)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#state`](keyword/state)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20and%20Testing%20of%20Printed%20Cement-Based%20Materials%20in%20Hardened%20State" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123632476&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4205657855" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-90535-4_5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-90535-4_5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is offering a totally new construction method, but an in-depth understanding of the consequences of the different production conditions compared to traditional formwork-based casting operations is required. Bulk material properties (intrinsic strength and durability) will follow the same fundamental material laws. However, in printed structures, the role of the interfaces will become increasingly important as they affect the mechanical performance, transport properties and durability behaviour. Additionally, the anisotropic nature of 3D printed structures implies that there are new opportunities to develop new methods of analysis. The aim of this chapter is to focus on the current practices for performance testing and to give an overview of the parameters which affect the hardened properties of a printed cementitious material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -111,8 +81,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vasi.2024.SAoC3P/">Standardization Aspects of Concrete 3D Printing</a></li>
       <li><a href="../../../author/licciardello_lucia"><b>Licciardello</b> Lucia</a>, <a href="../../../author/soto_giraldo_alejandro"><b>Soto</b> Alejandro</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a>, <a href="../../../author/metelli_giovanni"><b>Metelli</b> Giovanni</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../licc_soto_kauf_mete.2025.DtSo3PCwtMSST/">Determining the Strength of 3D Printed Concrete with the Modified Slant-Shear-Test</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
@@ -121,6 +91,36 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../busw.2022.CDC2S/">CCR Digital Concrete 2022 SI:<br/>Editorial</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a></li>
-      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{putt_nere_mech_hond.2022.PaToPCBMiHS,
+      author            = "Jolien van der Putten and Venkatesh Naidu Nerella and Viktor Mechtcherine and Mélody d' Hondt and Mohammed Sonebi and Daniel Weger and Zhendi Wang and Costantino Menna and Nicolas Roussel and Dirk Lowke and Kim van Tittelboom and Geert de Schutter",
+      title             = "Properties and Testing of Printed Cement-Based Materials in Hardened State",
+      doi               = "10.1007/978-3-030-90535-4_5",
+      year              = "2022",
+      volume            = "36",
+      pages             = "137--185",
+      booktitle         = "Digital Fabrication with Cement-Based Materials",
+      editor            = "Nicolas Roussel and Dirk Lowke",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. van der Putten, “Properties and Testing of Printed Cement-Based Materials in Hardened State”, in <i>Digital Fabrication with Cement-Based Materials</i>,  2022, vol. 36, pp. 137–185. doi: 10.1007/978-3-030-90535-4_5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Putten, Jolien van der, Venkatesh Naidu Nerella, Viktor Mechtcherine, Mélody d' Hondt, Mohammed Sonebi, Daniel Weger, Zhendi Wang, et al.. “Properties and Testing of Printed Cement-Based Materials in Hardened State”. In <i>Digital Fabrication with Cement-Based Materials</i>, edited by Nicolas Roussel and Dirk Lowke, 36:137–85, 2022. https://doi.org/10.1007/978-3-030-90535-4_5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qian Yu, Yamei Zhang, Jinlong Pan
+    - footer
+title: Yu Qian, Zhang Yamei, Pan Jinlong
 description:
 tags:
  - concrete
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.jobe.2025.113827" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113827</a>
+#Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113827" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113827" target="_blank">10.1016/j.jobe.2025.113827</a>
 
--------------------------
+<a href="../../../author/yu_qian"><b>Yu</b>&nbsp;Qian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113827
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yu_qian"><b>Yu</b> Qian</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113827
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#constitutive`](keyword/constitutive)
-    [`#damage`](keyword/damage)
-    [`#information`](keyword/information)
-    [`#model`](keyword/model)
-    [`#multi`](keyword/multi)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Scale%20Orthotropic%20Damage%20Constitutive%20Model%20for%203D%20Printed%20Concrete%20Informed%20by%20Pore%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013955922&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413427230" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113827" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113827?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical behaviour of 3D printed concrete (3DPC) is influenced by many factors, complicating the development of precise constitutive models. This study proposes a systematic approach to establish a multi-scale orthotropic damage constitutive model for high-quality 3DPC. A novel method is proposed to optimise printing parameters by analysing the geometric characteristics of the printed cross-section. Building on high-quality 3DPC, multi-scale representative volume elements are constructed. At the meso-scale, X-ray computed tomography is employed to distinguish the solid and pore phases and to quantify the pore structures. At the macro-scale, 3DPC is divided into four regions based on the statistical variations in the pore structure. The Mori–Tanaka homogenisation method is applied to determine effective elastic properties. Micro-scale damage is statistically characterised by the probability of micro-element failure, while meso-scale damage is defined through the stiffness degradation caused by oriented pores. An orthotropic damage constitutive model is formulated based on the strain equivalence principle. Experimental validation confirms that the model effectively captures the orthotropic mechanical behaviour of the 3DPC. The proposed framework provides a robust theoretical foundation for advancing the application of 3DPC in structural engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>
@@ -106,7 +83,36 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM/">Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yu_zhan_pan.2025.MSODCMf3PCIbPS,
+      author            = "Qian Yu and Yamei Zhang and Jinlong Pan",
+      title             = "Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure",
+      doi               = "10.1016/j.jobe.2025.113827",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113827",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Yu, Y. Zhang and J. Pan, “Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure”, <i>Journal of Building Engineering</i>, p. 113827, 2025, doi: 10.1016/j.jobe.2025.113827.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yu, Qian, Yamei Zhang, and Jinlong Pan. “Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure”. <i>Journal of Building Engineering</i>, 2025, 113827. https://doi.org/10.1016/j.jobe.2025.113827.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

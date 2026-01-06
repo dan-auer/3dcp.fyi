@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sergey Klyuev, Alexander Klyuev, Roman Fediuk, Marina Ageeva, Ekaterina Fomina, Mugahed Amran, Gunasekaran Murali
+    - footer
+title: Klyuev Sergey, Klyuev Alexander, Fediuk Roman, Ageeva Marina, Fomina Ekaterina, Amran Mugahed, Murali Gunasekaran
 description:
 tags:
  - cement
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127644" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127644</a>
+#Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127644" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127644" target="_blank">10.1016/j.conbuildmat.2022.127644</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1995-6139" title="ORCID: 0000-0002-1995-6139" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b>&nbsp;Sergey</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0845-8414" title="ORCID: 0000-0003-0845-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fediuk_roman"><b>Fediuk</b>&nbsp;Roman</a></span>, <a href="../../../author/ageeva_marina"><b>Ageeva</b>&nbsp;Marina</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0542-0963" title="ORCID: 0000-0003-0542-0963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fomina_victorovna_ekaterina"><b>Fomina</b>&nbsp;Ekaterina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4434-6295" title="ORCID: 0000-0002-4434-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amran_mugahed"><b>Amran</b>&nbsp;Mugahed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1151-0853" title="ORCID: 0000-0002-1151-0853" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/murali_gunasekaran"><b>Murali</b>&nbsp;Gunasekaran</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 338
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a> <a href="https://orcid.org/0000-0002-1995-6139" title="ORCID: 0000-0002-1995-6139" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a> <a href="https://orcid.org/0000-0003-0845-8414" title="ORCID: 0000-0003-0845-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> <a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a>
-,     <a href="../../../author/fomina_victorovna_ekaterina"><b>Fomina</b> Ekaterina</a> <a href="https://orcid.org/0000-0003-0542-0963" title="ORCID: 0000-0003-0542-0963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a> <a href="https://orcid.org/0000-0002-4434-6295" title="ORCID: 0000-0002-4434-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a> <a href="https://orcid.org/0000-0002-1151-0853" title="ORCID: 0000-0002-1151-0853" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 338, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#fresh`](keyword/fresh)
-    [`#low`](keyword/low)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20and%20Mechanical%20Properties%20of%20Low-Cement%20Mortars%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129488699&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225125089" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127644" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127644?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The trend of concrete science is aimed at reducing the consumption of cement and the use of 3D printing technologies. Based on non-traditional technical silica, 3D printed mortars were designed with a saving of 70% of cement. The binder components were studied by X-ray spectral microanalysis, diffraction granulometric analysis, while the finished mixtures were tested for freshness and mechanical properties. It was established that the PFM-NLK additive at a concentration of 0.7% is characterized by the greatest plasticizing effect; in this case, the maximum slump flow is reached 179 mm. The presence of a larger number of particles with a size of 3 to 12 µm in the developed binders of low water demand provides a more complete interaction of cement particles with water during hydration, significantly reducing the number of non-hydrated grains in the binder. The setting time and rheological parameters of the developed cement pastes make them suitable for 3D printed mortars. The mechanical properties of low-cement mortars indicate their high strength in bending and compression. The compressive and flexural strength of the developed mortars at the age of 28 days reached 62.9 MPa and 7.9 MPa, which is better than the control cement CEM I 42.5 N by 23% and 52%, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../hou_xiao_duan_ma.2021.FPo3PMwRP/">Fresh Properties of 3D Printed Mortar with Recycled Powder</a></li>
@@ -83,8 +59,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_khai_daha_mash.2025.RoSi3CP/">Review on Sustainability in 3D Concrete Printing:<br/>Focus on Waste Utilization and Life Cycle Assessment</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
@@ -107,4 +83,33 @@ tags:
       <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dahe_klei_benz_abri.2022.RoFCDSfC3P/">Recycling of Flash-Calcined Dredged Sediment for Concrete 3D Printing</a></li>
       <li><a href="../../../author/lesovik_stanislavovich_valeriy"><b>Lesovik</b> Valeriy</a>, <a href="../../../author/tolstoy_aleksandr"><b>Tolstoy</b> Aleksandr</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../leso_tols_fedi_amra.2022.ItPoaMf3PbMM/">Improving the Performances of a Mortar for 3D Printing by Mineral Modifiers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{klyu_klyu_fedi_agee.2022.FaMPoLCMf3P,
+      author            = "Sergey Vasil'yevich Klyuev and Alexander Vasil'yevich Klyuev and Roman Fediuk and Marina Ageeva and Ekaterina Victorovna Fomina and Mugahed Amran and Gunasekaran Murali",
+      title             = "Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2022.127644",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "338",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. V. Klyuev, “Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing”, <i>Construction and Building Materials</i>, vol. 338, 2022, doi: 10.1016/j.conbuildmat.2022.127644.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Klyuev, Sergey Vasil'yevich, Alexander Vasil'yevich Klyuev, Roman Fediuk, Marina Ageeva, Ekaterina Victorovna Fomina, Mugahed Amran, and Gunasekaran Murali. “Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing”. <i>Construction and Building Materials</i> 338 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127644.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

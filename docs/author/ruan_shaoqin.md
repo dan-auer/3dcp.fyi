@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ruan Shaoqin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC/">Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction</a></li>
   <li><a href="../../../author/sun_guangcheng"><b>Sun</b> Guangcheng</a>, <a href="../../../author/wang_zhiguang"><b>Wang</b> Zhiguang</a>, <a href="../../../author/yu_chengkun"><b>Yu</b> Chengkun</a>, <a href="../../../author/qian_xiaoqian"><b>Qian</b> Xiaoqian</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../sun_wang_yu_qian.2023.PaMo3PSCCCIBaNC/">Properties and Microstructures of 3D Printable Sulphoaluminate-Cement Concrete Containing Industrial Byproducts and Nano-Clay</a></li>
   <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>

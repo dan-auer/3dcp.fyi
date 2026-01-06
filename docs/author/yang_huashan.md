@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Yang Huashan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/han_kang"><b>Han</b> Kang</a>, <a href="../../../author/gu_fei"><b>Gu</b> Fei</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/tian_xinchen"><b>Tian</b> Xinchen</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../han_gu_yang_tian.2024.PFRRMBGf3P/">PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing:<br/>Printability, Mechanical Properties and Microanalysis</a></li>
   <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/luo_jie"><b>Luo</b> Jie</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../yang_che_luo.2023.CLo3PCPEtACS/">Calcium Leaching of 3D Printed Cement-Paste Exposed to Ammonium Chloride Solutions</a></li>
   <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../che_yang.2022.HPPSaCSoEB3PCPCNCC/">Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate</a></li>

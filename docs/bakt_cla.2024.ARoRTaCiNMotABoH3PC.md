@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abedulgader Baktheer, Martin Claßen
+    - footer
+title: Baktheer Abedulgader, Claßen Martin
 description:
 tags:
  - anisotropy
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2024.104309) A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.addma.2024.104309" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104309</a>
+#A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2024.104309) <a href="https://doi.org/10.1016/j.addma.2024.104309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104309" target="_blank">10.1016/j.addma.2024.104309</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1882-0536" title="ORCID: 0000-0003-1882-0536" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baktheer_abedulgader"><b>Baktheer</b>&nbsp;Abedulgader</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span><br>
+Journal Article - Additive Manufacturing, No. 104309
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a> <a href="https://orcid.org/0000-0003-1882-0536" title="ORCID: 0000-0003-1882-0536" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104309
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#trend`](keyword/trend)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Recent%20Trends%20and%20Challenges%20in%20Numerical%20Modeling%20of%20the%20Anisotropic%20Behavior%20of%20Hardened%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198931792&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400624982" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104309" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104309?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid development of 3D printed concrete (3DPC) technology, in particular the integration of reinforcement into the components, emphasizes the need for accurate prediction of structural performance in the hardened state. This pressing need is evidenced by the emerging development of numerical models to capture the anisotropic behavior of 3DPC components in recent years. This paper reviews the current state of the art, particularly focusing on existing modeling approaches for modeling the structural performance of hardened 3DPC elements. The models are categorized into three main groups: macro-scale phenomenological continuum models, that represent the anisotropic behavior in a smeared manner; macro-scale interface-based models, that explicitly account for the interfacial behavior between printed layers; and detailed meso-scale discrete models, that account for the inherent heterogeneity of concrete. The review provides a summary of the existing models within these groups and describes their main modeling hypotheses, constitutive assumptions, underlying phenomena, presented numerical applications, as well as their strengths and limitations. In addition, experimentally available test setups and the resulting material properties are summarized, that are crucial for the calibration and potential validation of these modeling approaches. Based on experimental observations reported in the literature in the context of 3DPC and the additive manufacturing process, this paper highlights the main key challenges and outlines the need for further research and improvements in modeling approaches for 3DPC. These insights are discussed in relation to the evolving developments in modeling conventional mold-cast concrete, offering a comprehensive perspective on the present state and future directions in the field.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "105 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
@@ -175,8 +153,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a>, <a href="../../../author/qian_hui"><b>Qian</b> Hui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>, <a href="../../../author/fenglin_liu"><b>Fenglin</b> Liu</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF/">Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
@@ -201,4 +179,33 @@ tags:
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
       <li><a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../park_mema_hoja_radl.2024.EoAMBoNMCo3PCBwR/">Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bakt_cla.2024.ARoRTaCiNMotABoH3PC,
+      author            = "Abedulgader Baktheer and Martin Claßen",
+      title             = "A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete",
+      doi               = "10.1016/j.addma.2024.104309",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104309",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Baktheer  and M. Claßen, “A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete”, <i>Additive Manufacturing</i>, p. 104309, 2024, doi: 10.1016/j.addma.2024.104309.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baktheer, Abedulgader, and Martin Claßen. “A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete”. <i>Additive Manufacturing</i>, 2024, 104309. https://doi.org/10.1016/j.addma.2024.104309.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

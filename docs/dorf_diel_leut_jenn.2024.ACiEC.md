@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kathrin Dörfler, Gido Dielemans, Stefan Leutenegger, Ercan Jenny, Johannes Pankert, Julius Sustarevas, Lukas Lachmayer, Annika Raatz, Dirk Lowke
+    - footer
+title: Dörfler Kathrin, Dielemans Gido, Leutenegger Stefan, Jenny Ercan, Pankert Johannes, Sustarevas Julius, Lachmayer Lukas, Raatz Annika, Lowke Dirk
 description:
 tags:
  - advance
@@ -18,39 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2024.107656) Advancing Construction in Existing Contexts:<br/>:aca-blank: Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107656" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107656</a>
+#Advancing Construction in Existing Contexts&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2024.107656) <a href="https://doi.org/10.1016/j.cemconres.2024.107656" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107656" target="_blank">10.1016/j.cemconres.2024.107656</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dielemans_gido"><b>Dielemans</b>&nbsp;Gido</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7998-3737" title="ORCID: 0000-0002-7998-3737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leutenegger_stefan"><b>Leutenegger</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6974-9296" title="ORCID: 0000-0001-6974-9296" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jenny_selen_ercan"><b>Jenny</b>&nbsp;Ercan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7543-5629" title="ORCID: 0000-0002-7543-5629" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pankert_johannes"><b>Pankert</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8073-6445" title="ORCID: 0000-0001-8073-6445" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sustarevas_julius"><b>Sustarevas</b>&nbsp;Julius</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 186, No. 107656
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> <a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a> <a href="https://orcid.org/0000-0002-7998-3737" title="ORCID: 0000-0002-7998-3737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> <a href="https://orcid.org/0000-0001-6974-9296" title="ORCID: 0000-0001-6974-9296" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pankert_johannes"><b>Pankert</b> Johannes</a> <a href="https://orcid.org/0000-0002-7543-5629" title="ORCID: 0000-0002-7543-5629" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sustarevas_julius"><b>Sustarevas</b> Julius</a> <a href="https://orcid.org/0000-0001-8073-6445" title="ORCID: 0000-0001-8073-6445" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> <a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 186, No. 107656
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#barrier`](keyword/barrier)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#existence`](keyword/existence)
-    [`#maintenance`](keyword/maintenance)
-    [`#mobile`](keyword/mobile)
-    [`#print`](keyword/print)
-    [`#repair`](keyword/repair)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/existence"><button class="btn">#existence</button></a> <a href="../../keyword/maintenance"><button class="btn">#maintenance</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/repair"><button class="btn">#repair</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Construction%20in%20Existing%20Contexts" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203636576&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402535778" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107656" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107656?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Mobile robots for 3D printing applications are ready to transition from factory floors to building sites. Their remarkable flexibility and adaptability support a variety of deposition-based 3D printing technologies that utilise materials ranging from concrete and earth for extrusion, spraying, or shotcreting to metals for processes like Wire Arc Additive Manufacturing. Not confined to new constructions alone, their mobility enables utilisation in corrective building maintenance, restoration, revitalisation, and repair. Their ability to cooperate with one another allows for deployment in multi-robot settings, offering scalability in speed by their number. Despite their promising potential, mobile 3D printing robots also encounter numerous technological challenges. These include ensuring the mechanical properties of printed structures meet required building codes, designing robust mechanical systems for large-scale construction projects, and integrating these systems seamlessly with existing architectural planning tools. Moreover, enhancing the precision and robustness of these robots through advanced sensing and control technologies is critical for their effective application in building manufacturing. With this paper, we detail selected current research trajectories and give insights into current challenges, open questions, and key prospects associated with mobile 3D printing robots for on-site construction within existing environments. To enrich the discussion, insights into potential architectural application scenarios for revitalising, repairing, and strengthening building structures are provided. The complex, interdisciplinary nature of these challenges underscores the need for a collaborative approach in advancing the field of mobile 3D printing technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -108,11 +80,42 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khou_chei_schu_caza.2025.UVMf3PoMMwRS/">Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
-      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dorf_diel_leut_jenn.2024.ACiEC,
+      author            = "Kathrin Dörfler and Gido Dielemans and Stefan Leutenegger and Ercan Selen Jenny and Johannes Pankert and Julius Sustarevas and Lukas Lachmayer and Annika Raatz and Dirk Lowke",
+      title             = "Advancing Construction in Existing Contexts: Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair",
+      doi               = "10.1016/j.cemconres.2024.107656",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "186",
+      pages             = "107656",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Dörfler, “Advancing Construction in Existing Contexts: Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair”, <i>Cement and Concrete Research</i>, vol. 186, p. 107656, 2024, doi: 10.1016/j.cemconres.2024.107656.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dörfler, Kathrin, Gido Dielemans, Stefan Leutenegger, Ercan Selen Jenny, Johannes Pankert, Julius Sustarevas, Lukas Lachmayer, Annika Raatz, and Dirk Lowke. “Advancing Construction in Existing Contexts: Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair”. <i>Cement and Concrete Research</i> 186 (2024): 107656. https://doi.org/10.1016/j.cemconres.2024.107656.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

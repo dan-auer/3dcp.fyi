@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jyotirmoy Mishra, Adewumi Babafemi, Riaan Combrinck
+    - footer
+title: Mishra Jyotirmoy, Babafemi Adewumi, Combrinck Riaan
 description:
 tags:
  - concrete
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2571-6131/8/2/47/pdf?version=1746028265) Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>:aca-blank: A Perspective Contribution ([2025-04](date/2025/04))
-<a href="https://doi.org/10.3390/ceramics8020047" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ceramics8020047</a>
+#Limitations and Research Priorities in 3D-Printed Geopolymer Concrete&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">A Perspective Contribution</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2571-6131/8/2/47/pdf?version=1746028265) <a href="https://doi.org/10.3390/ceramics8020047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ceramics8020047" target="_blank">10.3390/ceramics8020047</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4834-6556" title="ORCID: 0000-0003-4834-6556" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mishra_jyotirmoy"><b>Mishra</b>&nbsp;Jyotirmoy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/combrinck_riaan"><b>Combrinck</b>&nbsp;Riaan</a></span><br>
+Journal Article - Ceramics, Vol. 8, Iss. 2, No. 47
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a> <a href="https://orcid.org/0000-0003-4834-6556" title="ORCID: 0000-0003-4834-6556" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Ceramics, Vol. 8, Iss. 2, No. 47
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#contribution`](keyword/contribution)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#limitation`](keyword/limitation)
-    [`#print`](keyword/print)
-    [`#priority`](keyword/priority)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contribution"><button class="btn">#contribution</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/limitation"><button class="btn">#limitation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/priority"><button class="btn">#priority</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Limitations%20and%20Research%20Priorities%20in%203D-Printed%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008940249&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410035001" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ceramics8020047" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ceramics8020047?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Several studies have demonstrated that 3D-printed geopolymer concrete (3DPGPC) could be a sustainable solution to minimising waste, carbon emissions, and production costs, thereby providing quick completion of construction projects. However, for 3DPGPC to be widely adopted, it is essential to be aware of both the prospects as well as the limitations. In this regard, the scope of this perspective article includes a review of the limitations of 3DPGPC. Key limitations regarding the material, structural, technical, economic, and environmental aspects of 3DPGPC are highlighted. Additionally, this article includes the general limitations associated with geopolymer concrete. As such, geopolymer concrete suffers from several problems owing to varying alkaline activators and precursor types while exhibiting performance variability even within the same type of precursor. These limitations need to be addressed first in order to make progress in 3DPGPC. Following the limitations, this article then presents the research priorities in 3DPGPC, such as the need for a standardised code for its adoption in infrastructure projects. Hence, the information presented in this article is timely and crucial for all stakeholders in the low-carbon community. Furthermore, it serves as a call for future research to overcome the discussed limitations to realise the full potential of 3DPGPC technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "53 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/ibrahim-shema_abdulsalam"><b>Ibrahim Shema</b> Abdulsalam</a>, <a href="../../../author/umar-ibrahim_abdullahi"><b>Umar Ibrahim</b> Abdullahi</a>, <a href="../../../author/awad-abuhussain_mohammed"><b>Awad Abuhussain</b> Mohammed</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../alot_ibra_umar_awad.2024.Ao3PAIaIoTftCoEFIH/">Assimilation of 3D Printing, Artificial Intelligence and Internet of Things for the Construction of Eco-Friendly Intelligent Homes:<br/>An Explorative Review</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -116,8 +98,39 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/jin_chen"><b>Jin</b> Chen</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhou_geng_jin_liu.2024.IoRSotPoFASBGMf3P/">Influence of Residue Soil on the Properties of Fly-Ash-Slag-Based Geopolymer Materials for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mish_baba_comb.2025.LaRPi3PGC,
+      author            = "Jyotirmoy Mishra and Adewumi John Babafemi and Riaan Combrinck",
+      title             = "Limitations and Research Priorities in 3D-Printed Geopolymer Concrete: A Perspective Contribution",
+      doi               = "10.3390/ceramics8020047",
+      year              = "2025",
+      journal           = "Ceramics",
+      volume            = "8",
+      number            = "2",
+      pages             = "47",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Mishra, A. J. Babafemi and R. Combrinck, “Limitations and Research Priorities in 3D-Printed Geopolymer Concrete: A Perspective Contribution”, <i>Ceramics</i>, vol. 8, no. 2, p. 47, 2025, doi: 10.3390/ceramics8020047.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mishra, Jyotirmoy, Adewumi John Babafemi, and Riaan Combrinck. “Limitations and Research Priorities in 3D-Printed Geopolymer Concrete: A Perspective Contribution”. <i>Ceramics</i> 8, no. 2 (2025): 47. https://doi.org/10.3390/ceramics8020047.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

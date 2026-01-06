@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sooraj Nair, Avinaya Tripathi, Narayanan Neithalath
+    - footer
+title: Nair Sooraj, Tripathi Avinaya, Neithalath Narayanan
 description:
 tags:
  - compression
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.134246" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.134246</a>
+#Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134246" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134246" target="_blank">10.1016/j.conbuildmat.2023.134246</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b>&nbsp;Sooraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tripathi_avinaya"><b>Tripathi</b>&nbsp;Avinaya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 411, No. 134246
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> <a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> <a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 411, No. 134246
-
-:aca-blank:{ .lg .middle}
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#constitutive`](keyword/constitutive)
-    [`#dependency`](keyword/dependency)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#failure`](keyword/failure)
-    [`#height`](keyword/height)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#response`](keyword/response)
-
-
--------------------------
+<a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Constitutive%20Response%20and%20Failure%20Progression%20in%20Digitally%20Fabricated%203D%20Printed%20Concrete%20Under%20Compression%20and%20Their%20Dependence%20on%20Print%20Layer-Height" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178048488&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388994675" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.134246" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.134246?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Among the several geometry and process-related characteristics that determine the ultimate product quality of 3D printed concrete, one that has gained considerable importance is the height/thickness of the individual layers. Layer height dictates the number of interlayer interfaces, and influences the properties of the layer and the interfaces (both interlayer and inter-filament), for a given mixture and printer characteristics. This paper examines the influence of layer height on the constitutive response and failure of 3D printed concrete specimens under compression, investigated along the direction of layer build-up (or perpendicular to the layer interfaces), which is the dominant plane of loading in 3D printed walls and columns. Plain and steel fiber-reinforced wall elements with two different layer heights (7.5 mm and 15 mm) are printed, from which cylindrical and prismatic specimens are extracted and tested. The uniaxial compressive strength is seen to decrease with increasing layer height. The constitutive relationships of the specimens with different layer heights, along with volumetric strains, enable the extraction of crack initiation stress and unstable crack propagation stress, which are influenced by layer height and the presence of fiber reinforcement. The unstable crack propagation stress is lower than the peak stress, and it decreases with increasing layer height. Digital image correlation (DIC) is used to demonstrate the dominant effect of inter-filament interfaces on the crack propagation response and resultant failure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -100,14 +75,13 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
       <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../sure_trip_neit.2023.AiAMCSUCL/">Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading:<br/>Quantification of the Effects of Layer-Height and Fiber-Reinforcement</a></li>
-      <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/chauhan_harshitsinh"><b>Chauhan</b> Harshitsinh</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../trip_nair_chau_neit.2024.PGAaLStEMPoPaFRTDPC/">Print Geometry Alterations and Layer-Staggering to Enhance Mechanical Properties of Plain and Fiber-Reinforced Three-Dimensional-Printed Concrete</a></li>
       <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../trip_nair_neit.2022.ACAoBo3PCatUoBLSSCBFCTTP/">A Comprehensive Analysis of Buildability of 3D Printed Concrete and the Use of Bi-Linear Stress-Strain Criterion-Based Failure Curves Towards Their Prediction</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>
@@ -116,4 +90,34 @@ tags:
       <li><a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a>, <a href="../../../author/lee_hoon_sang"><b>Lee</b> Sang</a>, <a href="../../../author/kim_hyun_jae"><b>Kim</b> Jae</a>, <a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lee_lee_kim_jeon.2024.ILBSo3PCMwUHPCM/">Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nair_trip_neit.2024.CRaFPiDF3PCUCaTDoPLH,
+      author            = "Sooraj Kumar A. O. Nair and Avinaya Tripathi and Narayanan Neithalath",
+      title             = "Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height",
+      doi               = "10.1016/j.conbuildmat.2023.134246",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "411",
+      pages             = "134246",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. A. O. Nair, A. Tripathi and N. Neithalath, “Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height”, <i>Construction and Building Materials</i>, vol. 411, p. 134246, 2024, doi: 10.1016/j.conbuildmat.2023.134246.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nair, Sooraj Kumar A. O., Avinaya Tripathi, and Narayanan Neithalath. “Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height”. <i>Construction and Building Materials</i> 411 (2024): 134246. https://doi.org/10.1016/j.conbuildmat.2023.134246.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

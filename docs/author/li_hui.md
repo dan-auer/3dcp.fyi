@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Li Hui 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/qiao_zhigang"><b>Qiao</b> Zhigang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/wang_fei"><b>Wang</b> Fei</a>, <a href="../../../author/qi_yongle"><b>Qi</b> Yongle</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../qiao_li_wang_qi.2025.OTESi3PCwHCCPCM/">Optimizing Thermal Energy Storage in 3D Printed Concrete with Hollow Ceramsite Composite Phase Change Materials</a></li>
   <li><a href="../../../author/peng_chengming"><b>Peng</b> Chengming</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../peng_yang_li.2024.APMfIWEaEVo3PCM/">A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials</a></li>
   <li><a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>, <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/yin_le"><b>Yin</b> Le</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../xu_zhan_li_yin.2023.EoAotMPRaPPoPB3/">Effects of Additives on the Mechanical Properties, Rheology, and Printing Properties of PCC-Based 3DPMs</a></li>

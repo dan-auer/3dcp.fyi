@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sean Lim, Ming Tan
+    - footer
+title: Lim Sean, Tan Ming
 description:
 tags:
  - additive
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.138771) A Rheological Model for Concrete Additive Manufacturing ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138771" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138771</a>
+#A Rheological Model for Concrete Additive Manufacturing ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.138771) <a href="https://doi.org/10.1016/j.conbuildmat.2024.138771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138771" target="_blank">10.1016/j.conbuildmat.2024.138771</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_gip_sean"><b>Lim</b>&nbsp;Sean</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 451, No. 138771
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> <a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 451, No. 138771
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#model`](keyword/model)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Rheological%20Model%20for%20Concrete%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207091572&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403686544" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138771" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138771?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advent of 3D construction printing has ushered in a revolutionary era, demanding deeper insights into the understanding of cementitious fluid materials. Despite notable progress in additive manufacturing technologies, traditional rheological models (i.e., Bingham Plastic and Herschel-Bulkley) due to asymptotic behaviors of its plastic viscosity term fall short in describing the fluid mechanical properties of 3D printable concrete. This poses substantial challenges to achieving precise control and consistency in its boundless possibilities of mix design formulation. In this paper, we introduce an original rheological model that broadly characterizes the physiomechanical behaviours of non-Newtonian fluids, with a primary emphasis on thixotropic 3D printable cementitious pastes. Contrary to conventional representations, it is successfully demonstrated and validated herein that flow characteristics of 3D printable concrete may be described by two distinct viscosity terms, both of which collectively defines an upper and lower bound apparent viscosity with respect to a proposed activation function.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -94,8 +77,38 @@ tags:
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
       <li><a href="../../../author/zhou_boyu"><b>Zhou</b> Boyu</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zhou_zhan_ma.2024.AESo3PCRwFRfWTB/">An Experimental Study on 3D Printed Concrete Reinforced with Fibers Recycled from Wind Turbine Blades</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lim_tan.2024.ARMfCAM,
+      author            = "Sean Gip Lim and Ming Jen Tan",
+      title             = "A Rheological Model for Concrete Additive Manufacturing",
+      doi               = "10.1016/j.conbuildmat.2024.138771",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "451",
+      pages             = "138771",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. G. Lim  and M. J. Tan, “A Rheological Model for Concrete Additive Manufacturing”, <i>Construction and Building Materials</i>, vol. 451, p. 138771, 2024, doi: 10.1016/j.conbuildmat.2024.138771.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lim, Sean Gip, and Ming Jen Tan. “A Rheological Model for Concrete Additive Manufacturing”. <i>Construction and Building Materials</i> 451 (2024): 138771. https://doi.org/10.1016/j.conbuildmat.2024.138771.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

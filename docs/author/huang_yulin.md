@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Huang Yulin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yong_yuan"><b>Yong</b> Yuan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_tao_yong.2025.AoFItMCPHo3PC/">Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zuo_tao_huan_zhan.2025.RTTMtEtSEo3PC/">Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete:<br/>From Lab to In-Situ Printing</a></li>

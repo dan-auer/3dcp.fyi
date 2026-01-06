@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hanan Raqeb, Seyed Ghaffar
+    - footer
+title: Raqeb Hanan, Ghaffar Seyed
 description:
 tags:
  - concrete
@@ -15,29 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/su17010200) 3D Concrete Printing in Kuwait:<br/>:aca-blank: Stakeholder Insights for Sustainable Waste Management Solutions ([2024-12](date/2024/12))
-<a href="https://doi.org/10.3390/su17010200" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su17010200</a>
+#3D Concrete Printing in Kuwait&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">Stakeholder Insights for Sustainable Waste Management Solutions</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/su17010200) <a href="https://doi.org/10.3390/su17010200" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su17010200" target="_blank">10.3390/su17010200</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9761-4433" title="ORCID: 0000-0002-9761-4433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raqeb_hanan"><b>al&nbsp;Raqeb</b>&nbsp;Hanan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span><br>
+Journal Article - Sustainability, Vol. 17, Iss. 1, No. 200
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raqeb_hanan"><b>al Raqeb</b> Hanan</a> <a href="https://orcid.org/0000-0002-9761-4433" title="ORCID: 0000-0002-9761-4433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 17, Iss. 1, No. 200
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#insights`](keyword/insights)
-    [`#management`](keyword/management)
-    [`#print`](keyword/print)
-    [`#solution`](keyword/solution)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/management"><button class="btn">#management</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20in%20Kuwait" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214523247&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405945946" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su17010200" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su17010200?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic construction using three-dimensional (3D) concrete printing (3DCP) offers significant potential to transform Kuwait’s construction industry, particularly in reducing waste. This study explores the feasibility of integrating 3DCP into Kuwait’s construction waste management practices by examining the perspectives of key stakeholders. Through a mixed method approach of a comprehensive literature review, a survey of 87 industry professionals, and 33 in-depth interviews with representatives from the Public Authority for Housing Welfare (PAHW), Municipality, private sector, and the general public, the study identifies both the benefits and challenges of 3DCP adoption. The findings highlight key advantages of 3DCP, including increased construction efficiency, cost savings, enhanced design flexibility, and reduced material waste. However, several barriers, such as regulatory limitations, technical challenges in adapting 3DCP to local project scales, and cultural resistance, must be addressed. Results also indicate varying levels of stakeholder familiarity with 3DCP and existing waste management practices, underscoring the need for awareness and educational initiatives. This study makes two significant contributions: first, by providing a detailed analysis of the technical and regulatory challenges specific to Kuwait’s construction sector, and second, by offering a strategic roadmap for 3DCP integration, including regulatory reform, research into sustainable materials, and cross-sector collaboration. These recommendations aim to enhance waste management practices by promoting more sustainable and efficient construction methods by achieving SDGs 9, 11, 12, and 13. The study concludes that government support and policy development will be essential in driving the adoption of 3DCP and achieving long-term environmental benefits in Kuwait’s construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
@@ -92,9 +74,40 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raqe_ghaf.2025.3CPiK,
+      author            = "Hanan Al Raqeb and Seyed Hamidreza Ghaffar",
+      title             = "3D Concrete Printing in Kuwait: Stakeholder Insights for Sustainable Waste Management Solutions",
+      doi               = "10.3390/su17010200",
+      year              = "2025",
+      journal           = "Sustainability",
+      volume            = "17",
+      number            = "1",
+      pages             = "200",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. A. Raqeb  and S. H. Ghaffar, “3D Concrete Printing in Kuwait: Stakeholder Insights for Sustainable Waste Management Solutions”, <i>Sustainability</i>, vol. 17, no. 1, p. 200, 2025, doi: 10.3390/su17010200.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raqeb, Hanan Al, and Seyed Hamidreza Ghaffar. “3D Concrete Printing in Kuwait: Stakeholder Insights for Sustainable Waste Management Solutions”. <i>Sustainability</i> 17, no. 1 (2025): 200. https://doi.org/10.3390/su17010200.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hailong Wang, Wenbin Shen, Xiaoyan Sun, Xinlei Song, Xiqiang Lin
+    - footer
+title: Wang Hailong, Shen Wenbin, Sun Xiaoyan, Song Xinlei, Lin Xiqiang
 description:
 tags:
  - aggregate
@@ -20,37 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influences of Particle-Size on the Performance of 3D Printed Coarse Aggregate Concrete:<br/>:aca-blank: Experiment, Microstructure, and Mechanism Analysis ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140059" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140059</a>
+#Influences of Particle-Size on the Performance of 3D Printed Coarse Aggregate Concrete&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Experiment, Microstructure, and Mechanism Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140059" target="_blank">10.1016/j.conbuildmat.2025.140059</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <a href="../../../author/shen_wenbin"><b>Shen</b>&nbsp;Wenbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-3887-4466" title="ORCID: 0009-0007-3887-4466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/song_xinlei"><b>Song</b>&nbsp;Xinlei</a></span>, <a href="../../../author/lin_xiqiang"><b>Lin</b>&nbsp;Xiqiang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 463, No. 140059
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>
-,     <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a> <a href="https://orcid.org/0009-0007-3887-4466" title="ORCID: 0009-0007-3887-4466" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 463, No. 140059
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#analysis`](keyword/analysis)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#influence`](keyword/influence)
-    [`#mechanism`](keyword/mechanism)
-    [`#micro`](keyword/micro)
-    [`#particle`](keyword/particle)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#size`](keyword/size)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influences%20of%20Particle-Size%20on%20the%20Performance%20of%203D%20Printed%20Coarse%20Aggregate%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215440732&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406609534" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140059" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140059?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Compared with traditional construction technology for building structures, three-dimensional (3D) printed concrete (3DPC) technology offers significant advantages. However, current 3DPC use in engineering applications predominantly relies on mortar, which suffers from significant shrinkage and cracking. To overcome the shortcomings, this study incorporated coarse aggregates into 3DPC and clarified the influence of various sized aggregates on the fresh and hardened performance of 3D printed coarse aggregate concrete (3DPCAC). Experimental research on 3DPCAC was conducted, and the effects of different particle sizes of coarse aggregates on workability were determined. It was found that as size increases, the extrudability decreases, stability improves, and slump reduces. These effects were explained through rheological analysis. As particle size increases, static yield stress rises, while dynamic yield stress increases slightly. Mechanical tests were also conducted to characterise the effects of particle size and loading directions on the performance of 3DPC. The results show that as aggregate particle size increases, the mechanical properties of 3DPC improve and all groups exhibit significant anisotropy. Additionally, microscopic tests revealed that the pores of 3DPC exhibited directionality, explaining the anisotropy through fracture mechanics analysis. Overall, large coarse aggregates significantly enhance the compressive strength and elastic modulus of 3DPCAC. However, they may reduce extrudability and increase anisotropy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
@@ -124,10 +98,40 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
       <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>
       <li><a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/xu_quanbiao"><b>Xu</b> Quanbiao</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../song_xu_wang_sun.2025.FDAMPo3PC/">Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete:<br/>Experimental and Theoretical Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_shen_sun_song.2025.IoPSotPo3PCAC,
+      author            = "Hailong Wang and Wenbin Shen and Xiaoyan Sun and Xinlei Song and Xiqiang Lin",
+      title             = "Influences of Particle-Size on the Performance of 3D Printed Coarse Aggregate Concrete: Experiment, Microstructure, and Mechanism Analysis",
+      doi               = "10.1016/j.conbuildmat.2025.140059",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "463",
+      pages             = "140059",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Wang, W. Shen, X. Sun, X. Song and X. Lin, “Influences of Particle-Size on the Performance of 3D Printed Coarse Aggregate Concrete: Experiment, Microstructure, and Mechanism Analysis”, <i>Construction and Building Materials</i>, vol. 463, p. 140059, 2025, doi: 10.1016/j.conbuildmat.2025.140059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Hailong, Wenbin Shen, Xiaoyan Sun, Xinlei Song, and Xiqiang Lin. “Influences of Particle-Size on the Performance of 3D Printed Coarse Aggregate Concrete: Experiment, Microstructure, and Mechanism Analysis”. <i>Construction and Building Materials</i> 463 (2025): 140059. https://doi.org/10.1016/j.conbuildmat.2025.140059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

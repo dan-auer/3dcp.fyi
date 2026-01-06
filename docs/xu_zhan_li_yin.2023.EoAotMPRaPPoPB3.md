@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhuoyue Xu, Dawang Zhang, Hui Li, Le Yin, Haiping Song, Wanchun Wang, Siyu Zhang
+    - footer
+title: Xu Zhuoyue, Zhang Dawang, Li Hui, Yin Le, Song Haiping, Wang Wanchun, Zhang Siyu
 description:
 tags:
  - additive
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Additives on the Mechanical Properties, Rheology, and Printing Properties of PCC-Based 3DPMs ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.ceramint.2023.06.090" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ceramint.2023.06.090</a>
+#Effects of Additives on the Mechanical Properties, Rheology, and Printing Properties of PCC-Based 3DPMs ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ceramint.2023.06.090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ceramint.2023.06.090" target="_blank">10.1016/j.ceramint.2023.06.090</a>
 
--------------------------
+<a href="../../../author/xu_zhuoyue"><b>Xu</b>&nbsp;Zhuoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_dawang"><b>Zhang</b>&nbsp;Dawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/yin_le"><b>Yin</b>&nbsp;Le</a></span>, <a href="../../../author/song_haiping"><b>Song</b>&nbsp;Haiping</a></span>, <a href="../../../author/wang_wanchun"><b>Wang</b>&nbsp;Wanchun</a></span>, <a href="../../../author/zhang_siyu"><b>Zhang</b>&nbsp;Siyu</a></span><br>
+Journal Article - Ceramics International
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>
-,     <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a> <a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yin_le"><b>Yin</b> Le</a>
-,     <a href="../../../author/song_haiping"><b>Song</b> Haiping</a>
-,     <a href="../../../author/wang_wanchun"><b>Wang</b> Wanchun</a>
-,     <a href="../../../author/zhang_siyu"><b>Zhang</b> Siyu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Ceramics International, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Additives%20on%20the%20Mechanical%20Properties%2C%20Rheology%2C%20and%20Printing%20Properties%20of%20PCC-Based%203DPMs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162886111&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380204984" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ceramint.2023.06.090" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ceramint.2023.06.090?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A study was performed on printing concrete made with Portland cement clinker (Pcc) (the base material), quartz sand (the aggregate), a water reducer, and the additives hydroxypropyl methyl cellulose ether (HMC), redispersible latex powder (RLP), lithium carbonate (LC) and triethanolamine (TEA) were used to adjust the material properties. A clinker-based 3D printing material exhibiting excellent rheology, extrudability, buildability, and mechanical properties was developed. Admixture incorporation decreased the spread and slump of the Pcc while improving the rheological properties (G’, G’’, |η*|, and the torque). The addition of HMC and appropriate quantities of RLP and LC increased the slump and expansion of the cement paste, but the addition of TEA had adverse effects on the slump and expansion of the slurry paste. The admixture decreased the setting time of the Pcc slurry, and the effect decreased in the order TEA, LC, RLP, and HMC. The admixture also degraded the mechanical properties of the slurry. The use of a D-2 mix design consisting of 0.25% HMC, 0.20% RLP, 0.08% LC, and 0.010% TEA resulted in the maximum extrusion length of the printed sample, 90 mm, and the maximum number of printing layers, 32. SEM images showed that the main hydration products were calcium silicate hydrate (C–S–H) and calcium hydroxide (CH). The admixture mainly affected the early performance of the samples and had little influence on the late performance. This result was consistent with those obtained from hydration tests on Pcc. A reaction model for the addition of an admixture to a Pcc slurry was proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
@@ -102,9 +78,37 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../peng_unlu.2024.PaMDo3PMSMCMSM/">Performance and Microstructural Development of 3D Printable MgO-SiO2 Mixes Containing Magnesium-Silicate-Monohydrate</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_zhan_li_yin.2023.EoAotMPRaPPoPB3,
+      author            = "Zhuoyue Xu and Dawang Zhang and Hui Li and Le Yin and Haiping Song and Wanchun Wang and Siyu Zhang",
+      title             = "Effects of Additives on the Mechanical Properties, Rheology, and Printing Properties of PCC-Based 3DPMs",
+      doi               = "10.1016/j.ceramint.2023.06.090",
+      year              = "2023",
+      journal           = "Ceramics International",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Xu, “Effects of Additives on the Mechanical Properties, Rheology, and Printing Properties of PCC-Based 3DPMs”, <i>Ceramics International</i>, 2023, doi: 10.1016/j.ceramint.2023.06.090.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Zhuoyue, Dawang Zhang, Hui Li, Le Yin, Haiping Song, Wanchun Wang, and Siyu Zhang. “Effects of Additives on the Mechanical Properties, Rheology, and Printing Properties of PCC-Based 3DPMs”. <i>Ceramics International</i>, 2023. https://doi.org/10.1016/j.ceramint.2023.06.090.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

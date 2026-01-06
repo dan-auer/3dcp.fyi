@@ -8,7 +8,8 @@ search:
 
 # #dynamic
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../alva_curt_muel_norf.2026.EtDTPoWCTSO/">Enhancing the Dynamic Thermal Performance of Wall Components Through Shape Optimization:<br/>Method and Application to Extruded Blocks and 3D-Printed Walls</a></li>
   <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_crem.2025.APFDMAtD3CPMaP/">A Particle Fluid Dynamics Modelling Approach to Design 3D Concrete Printing Materials and Processes</a></li>
   <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../yu_zhan_liew_yin.2026.SMFaEDi3CP/">Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing</a></li>
   <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>

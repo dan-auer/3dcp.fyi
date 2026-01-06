@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Federica Boscaro, Elia Quadranti, Timothy Wangler, Sara Mantellato, Lex Reiter, Robert Flatt
+    - footer
+title: Boscaro Federica, Quadranti Elia, Wangler Timothy, Mantellato Sara, Reiter Lex, Flatt Robert
 description:
 tags:
  - concrete
@@ -12,30 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831538) Eco-Friendly, Set-on-Demand Digital Concrete ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1089/3dp.2020.0350" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2020.0350</a>
+#Eco-Friendly, Set-on-Demand Digital Concrete ([2022-02](date/2022/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831538) <a href="https://doi.org/10.1089/3dp.2020.0350" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0350" target="_blank">10.1089/3dp.2020.0350</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3448-3106" title="ORCID: 0000-0002-3448-3106" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boscaro_federica"><b>Boscaro</b>&nbsp;Federica</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7461-983X" title="ORCID: 0000-0002-7461-983X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quadranti_elia"><b>Quadranti</b>&nbsp;Elia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantellato_sara"><b>Mantellato</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 1, pp. 3-11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a> <a href="https://orcid.org/0000-0002-3448-3106" title="ORCID: 0000-0002-3448-3106" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a> <a href="https://orcid.org/0000-0002-7461-983X" title="ORCID: 0000-0002-7461-983X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> <a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 1, pp. 3-11
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#demand`](keyword/demand)
-    [`#digital`](keyword/digital)
-    [`#setting`](keyword/setting)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Eco-Friendly%2C%20Set-on-Demand%20Digital%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119252252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3195337207" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2020.0350" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2020.0350?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication with concrete is considered to potentially revolutionize the construction sector and is often presented as a means to reduce its environmental footprint. However, at least in the case of concrete, it encounters significant challenges in terms of material design, since high paste volumes and Portland cement contents are normally used due to process requirements. In this article, the application to layered extrusion of a recently developed low clinker cement containing 50% Portland cement and 50% supplementary cementitious materials, such as limestone, burnt oil shale, and fly ash, is presented. It is found that an accelerator paste composed by Calcium Aluminate Cement (CAC) and anhydrite provides the required hydration and structural build-up for 3D printing, while not compromising the early and long-term compressive strength. Such a low clinker mortar can be successfully retarded, processed, pumped, and extruded just after mixing it in line with the accelerator paste. This accelerated mortar formulation contains only 303kg/m3 of Portland cement, which is roughly half the amount used in current accelerated formulations used for digital fabrication with concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -79,8 +59,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq_amzi.2025.3CP/">3D Concrete Printing</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
       <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../prih_gupt_esma_moin.2024.TDBACEbRAM/">Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing</a></li>
@@ -115,6 +95,36 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/fuhrimann_lukas"><b>Fuhrimann</b> Lukas</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../llor_quad_scot_fuhr.2022.ADC/">Additive Digital Casting:<br/>From Lab to Industry</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
-      <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../souz_ferr_mora_senf.2022.RoCAo3PPC/">Role of Chemical Admixtures on 3D Printed Portland Cement:<br/>Assessing Rheology and Buildability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bosc_quad_wang_mant.2022.EFSoDDC,
+      author            = "Federica Boscaro and Elia Quadranti and Timothy Paul Wangler and Sara Mantellato and Lex Reiter and Robert Johann Flatt",
+      title             = "Eco-Friendly, Set-on-Demand Digital Concrete",
+      doi               = "10.1089/3dp.2020.0350",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+      volume            = "9",
+      number            = "1",
+      pages             = "3--11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Boscaro, E. Quadranti, T. P. Wangler, S. Mantellato, L. Reiter and R. J. Flatt, “Eco-Friendly, Set-on-Demand Digital Concrete”, <i>3D Printing and Additive Manufacturing</i>, vol. 9, no. 1, pp. 3–11, 2022, doi: 10.1089/3dp.2020.0350.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Boscaro, Federica, Elia Quadranti, Timothy Paul Wangler, Sara Mantellato, Lex Reiter, and Robert Johann Flatt. “Eco-Friendly, Set-on-Demand Digital Concrete”. <i>3D Printing and Additive Manufacturing</i> 9, no. 1 (2022): 3–11. https://doi.org/10.1089/3dp.2020.0350.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

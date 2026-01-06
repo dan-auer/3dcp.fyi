@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mingxu Chen, Bo Liu, Laibo Li, Lidong Cao, Yongbo Huang, Shoude Wang, Piqi Zhao, Lingchao Lu, Xin Cheng
+    - footer
+title: Chen Mingxu, Liu Bo, Li Laibo, Cao Lidong, Huang Yongbo, Wang Shoude, Zhao Piqi, Lu Lingchao, Cheng Xin
 description:
 tags:
  - bentonite
@@ -18,39 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite ([2020-01](date/2020/01))
-<a href="https://doi.org/10.1016/j.compositesb.2020.107821" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2020.107821</a>
+#Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite ([2020-01](date/2020/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2020.107821" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2020.107821" target="_blank">10.1016/j.compositesb.2020.107821</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/liu_bo"><b>Liu</b>&nbsp;Bo</a></span>, <a href="../../../author/li_laibo"><b>Li</b>&nbsp;Laibo</a></span>, <a href="../../../author/cao_lidong"><b>Cao</b>&nbsp;Lidong</a></span>, <a href="../../../author/huang_yongbo"><b>Huang</b>&nbsp;Yongbo</a></span>, <a href="../../../author/wang_shoude"><b>Wang</b>&nbsp;Shoude</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_piqi"><b>Zhao</b>&nbsp;Piqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7147-4495" title="ORCID: 0000-0002-7147-4495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_xin"><b>Cheng</b>&nbsp;Xin</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 186
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>
-,     <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>
-,     <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a>
-,     <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a>
-,     <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a>
-,     <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> <a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_xin"><b>Cheng</b> Xin</a> <a href="https://orcid.org/0000-0002-7147-4495" title="ORCID: 0000-0002-7147-4495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 186, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bentonite`](keyword/bentonite)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#creep`](keyword/creep)
-    [`#modification`](keyword/modification)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#sulfoaluminate`](keyword/sulfoaluminate)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/bentonite"><button class="btn">#bentonite</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/creep"><button class="btn">#creep</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Parameters%2C%20Thixotropy%20and%20Creep%20of%203D%20Printed%20Calcium-Sulfoaluminate-Cement%20Composites%20Modified%20by%20Bentonite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078459154&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3002591757" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2020.107821" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2020.107821?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The structural instability and poor thixotropy of three-dimensional (3D) printing of calcium sulfoaluminate (CSA) cement composites hinder their applicability in the construction field. In this study, the rheological parameters, thixotropy and creep of 3D-printed CSA cement composites containing bentonite are investigated based on shear-rate- and shear-stress-controlled protocols to achieve a stable three-dimensional structure and excellent thixotropy. Experimental results show that a stable 3D structure with excellent thixotropy can be achieved when the content of bentonite is 2%. In this case, the plastic viscosity and dynamic yield stress are lower than 2.50 Pa s and 645.54 Pa, respectively. The correlation between the rheological parameters and thixotropy of 3D-printed CSA cement composites suggests that the actual thixotropy can be predicted by the yield stress. Furthermore, the shear-stress-controlled protocol was implemented to simulate the effect of gravity and test different creep periods of 3D-printed CSA cement composites with bentonite. The improved static yield stress exhibited better effectiveness in resisting structural deformation over time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -93,14 +64,14 @@ tags:
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../qian_kawa.2016.UoCRPtMSYSaSRoFCP/">Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "120 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
@@ -221,4 +192,33 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_liu_li_cao.2020.RPTaCo3PCSCCMbB,
+      author            = "Mingxu Chen and Bo Liu and Laibo Li and Lidong Cao and Yongbo Huang and Shoude Wang and Piqi Zhao and Lingchao Lu and Xin Cheng",
+      title             = "Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite",
+      doi               = "10.1016/j.compositesb.2020.107821",
+      year              = "2020",
+      journal           = "Composites Part B: Engineering",
+      volume            = "186",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, “Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite”, <i>Composites Part B: Engineering</i>, vol. 186, 2020, doi: 10.1016/j.compositesb.2020.107821.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Mingxu, Bo Liu, Laibo Li, Lidong Cao, Yongbo Huang, Shoude Wang, Piqi Zhao, Lingchao Lu, and Xin Cheng. “Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite”. <i>Composites Part B: Engineering</i> 186 (2020). https://doi.org/10.1016/j.compositesb.2020.107821.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

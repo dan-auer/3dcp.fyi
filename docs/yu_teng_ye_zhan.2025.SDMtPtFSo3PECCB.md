@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jie Yu, Fei Teng, Junhong Ye, Dong Zhang, Kequan Yu, Jiangtao Yu, Jian-Guo Dai, Yiwei Weng
+    - footer
+title: Yu Jie, Teng Fei, Ye Junhong, Zhang Dong, Yu Kequan, Yu Jiangtao, Dai Jian-Guo, Weng Yiwei
 description:
 tags:
  - beam
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Size-Dependent Model to Predict the Flexural-Strength of 3D Printed Engineered Cementitious Composites Beams ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.139994" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.139994</a>
+#Size-Dependent Model to Predict the Flexural-Strength of 3D Printed Engineered Cementitious Composites Beams ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.139994" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.139994" target="_blank">10.1016/j.conbuildmat.2025.139994</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jie"><b>Yu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_fei"><b>Teng</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9904-7914" title="ORCID: 0000-0001-9904-7914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_jian-guo"><b>Dai</b>&nbsp;Jian-Guo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 462, No. 139994
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> <a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teng_fei"><b>Teng</b> Fei</a> <a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/dai_jian-guo"><b>Dai</b> Jian-Guo</a> <a href="https://orcid.org/0000-0001-9904-7914" title="ORCID: 0000-0001-9904-7914" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 462, No. 139994
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#dependency`](keyword/dependency)
-    [`#engineered`](keyword/engineered)
-    [`#flexural`](keyword/flexural)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#size`](keyword/size)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Size-Dependent%20Model%20to%20Predict%20the%20Flexural-Strength%20of%203D%20Printed%20Engineered%20Cementitious%20Composites%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215111377&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406547333" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.139994" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.139994?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study developed a size-dependent model to predict the flexural strength of 3D printed engineered cementitious composites (ECC) beams with different beam spans. The proposed model relates the flexural strength of printed ECC beams to beam spans based on a stochastic tensile constitutive model of ECC, by taking the size effect into account. ECC beams with four spans (240 mm, 300 mm, 450 mm, and 1500 mm) were printed and tested by four-point bending. The results showed that the size-dependent model can predict the flexural strength with an approximate accuracy of 90%. Compared to the size-independent model, the proposed size-dependent model improved the prediction accuracy by approximately 27%. The force analysis of the shear strength of interlayers further revealed that interfacial bonding has a negligible impact on the simulated flexural strength. Consequently, the developed size-dependent model can potentially guide the structural design of 3D printed ECC beams.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -101,9 +72,39 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yu_teng_ye_zhan.2025.SDMtPtFSo3PECCB,
+      author            = "Jie Yu and Fei Teng and Junhong Ye and Dong Zhang and Kequan Yu and Jiangtao Yu and Jian-Guo Dai and Yiwei Weng",
+      title             = "Size-Dependent Model to Predict the Flexural-Strength of 3D Printed Engineered Cementitious Composites Beams",
+      doi               = "10.1016/j.conbuildmat.2025.139994",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "462",
+      pages             = "139994",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Yu, “Size-Dependent Model to Predict the Flexural-Strength of 3D Printed Engineered Cementitious Composites Beams”, <i>Construction and Building Materials</i>, vol. 462, p. 139994, 2025, doi: 10.1016/j.conbuildmat.2025.139994.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yu, Jie, Fei Teng, Junhong Ye, Dong Zhang, Kequan Yu, Jiangtao Yu, Jian-Guo Dai, and Yiwei Weng. “Size-Dependent Model to Predict the Flexural-Strength of 3D Printed Engineered Cementitious Composites Beams”. <i>Construction and Building Materials</i> 462 (2025): 139994. https://doi.org/10.1016/j.conbuildmat.2025.139994.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

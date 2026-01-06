@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robert Shilton, Shen Wang, Nemkumar Banthia
+    - footer
+title: Shilton Robert, Wang Shen, Banthia Nemkumar
 description:
 tags:
  - activation
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.139661) Use of Polysaccharides as a Rheology-Modifying-Admixture for Alkali-Activated Materials for 3D Printing ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.139661" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.139661</a>
+#Use of Polysaccharides as a Rheology-Modifying-Admixture for Alkali-Activated Materials for 3D Printing ([2024-12](date/2024/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.139661) <a href="https://doi.org/10.1016/j.conbuildmat.2024.139661" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139661" target="_blank">10.1016/j.conbuildmat.2024.139661</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-7336-806X" title="ORCID: 0009-0006-7336-806X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shilton_robert"><b>Shilton</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-8582-9865" title="ORCID: 0009-0009-8582-9865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_shen"><b>Wang</b>&nbsp;Shen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 458, No. 139661
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shilton_robert"><b>Shilton</b> Robert</a> <a href="https://orcid.org/0009-0006-7336-806X" title="ORCID: 0009-0006-7336-806X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> <a href="https://orcid.org/0009-0009-8582-9865" title="ORCID: 0009-0009-8582-9865" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 458, No. 139661
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#admixture`](keyword/admixture)
-    [`#alkali`](keyword/alkali)
-    [`#material`](keyword/material)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Polysaccharides%20as%20a%20Rheology-Modifying-Admixture%20for%20Alkali-Activated%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212820795&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405704968" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.139661" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.139661?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a comprehensive rheological study on the incorporation of polysaccharides as a rheology modifying admixture in alkali activated materials (AAMs) for enhancing their suitability in 3D printing applications. AAMs have gained significant attention in the construction industry but challenges with printability and buildability hinder their successful integration into 3D printing processes. Existing rheological modifiers are often included prior to mixing and printing AAMs to allow buildability- but with undesirable consequences on material properties. In this research, Xanthan Gum (XG), is examined as potential modifier to address these challenges. The study focuses on a systematic investigation into the effects of XG concentration on rheological response, printability, and mechanical properties. The goal of the study is to ascertain if the inclusion of XG in AAM mixes improves rheological properties in relation to 3D printed buildability and investigate XG’s impact on mechanical performance and setting time. The findings from this research contribute valuable insights into the development of a rheology modifying admixture for AAMs, paving the way for enhanced 3D printing without a significant negative impact on setting times or compressive strength. The implications of this work extend beyond 3D printing, offering a promising avenue for improved rheological properties of AAMs applied to other construction methods i.e. spraying/shotcreting.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
@@ -87,8 +66,38 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_sanj.2023.MoRMfQMMi3CP/">Mechanisms of Rheological Modifiers for Quick Mixing Method in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shil_wang_bant.2025.UoPaaRMAfAAMf3P,
+      author            = "Robert Shilton and Shen Wang and Nemkumar Banthia",
+      title             = "Use of Polysaccharides as a Rheology-Modifying-Admixture for Alkali-Activated Materials for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2024.139661",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "458",
+      pages             = "139661",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Shilton, S. Wang and N. Banthia, “Use of Polysaccharides as a Rheology-Modifying-Admixture for Alkali-Activated Materials for 3D Printing”, <i>Construction and Building Materials</i>, vol. 458, p. 139661, 2025, doi: 10.1016/j.conbuildmat.2024.139661.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shilton, Robert, Shen Wang, and Nemkumar Banthia. “Use of Polysaccharides as a Rheology-Modifying-Admixture for Alkali-Activated Materials for 3D Printing”. <i>Construction and Building Materials</i> 458 (2025): 139661. https://doi.org/10.1016/j.conbuildmat.2024.139661.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

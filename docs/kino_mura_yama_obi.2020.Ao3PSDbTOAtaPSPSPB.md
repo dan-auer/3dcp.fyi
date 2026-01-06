@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Koji Kinomura, Satoshi Murata, Yujin Yamamoto, Hirotoshi Obi, Akihito Hata
+    - footer
+title: Kinomura Koji, Murata Satoshi, Yamamoto Yujin, Obi Hirotoshi, Hata Akihito
 description:
 tags:
  - analysis
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Application of 3D Printed Segments Designed by Topology-Optimization-Analysis to a Practical-Scale Pre-Stressed Pedestrian Bridge ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_66" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_66</a>
+#Application of 3D Printed Segments Designed by Topology-Optimization-Analysis to a Practical-Scale Pre-Stressed Pedestrian Bridge ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_66" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_66" target="_blank">10.1007/978-3-030-49916-7_66</a>
 
--------------------------
+<a href="../../../author/kinomura_koji"><b>Kinomura</b>&nbsp;Koji</a></span>, <a href="../../../author/murata_satoshi"><b>Murata</b>&nbsp;Satoshi</a></span>, <a href="../../../author/yamamoto_yujin"><b>Yamamoto</b>&nbsp;Yujin</a></span>, <a href="../../../author/obi_hirotoshi"><b>Obi</b>&nbsp;Hirotoshi</a></span>, <a href="../../../author/hata_akihito"><b>Hata</b>&nbsp;Akihito</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 658-668
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>
-,     <a href="../../../author/murata_satoshi"><b>Murata</b> Satoshi</a>
-,     <a href="../../../author/yamamoto_yujin"><b>Yamamoto</b> Yujin</a>
-,     <a href="../../../author/obi_hirotoshi"><b>Obi</b> Hirotoshi</a>
-,     <a href="../../../author/hata_akihito"><b>Hata</b> Akihito</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 658-668
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#application`](keyword/application)
-    [`#bridge`](keyword/bridge)
-    [`#design`](keyword/design)
-    [`#optimization`](keyword/optimization)
-    [`#practice`](keyword/practice)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#segment`](keyword/segment)
-    [`#stress`](keyword/stress)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Application%20of%203D%20Printed%20Segments%20Designed%20by%20Topology-Optimization-Analysis%20to%20a%20Practical-Scale%20Pre-Stressed%20Pedestrian%20Bridge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088241931&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,22 +41,18 @@ tags:
 <a href="https://inciteful.xyz/p/W3041018619" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_66" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_66?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technologies with cementitious materials have advanced dramatically in recent years. Likewise, we have also developed suitable materials with high thixotropy for layered extrusion and the gantry 3D-printing system, dealing with discontinuous geometry and multi-productions simultaneously. In this way, there have been a lot of studies particularly on material properties and printing processes so far. However, few studies have conducted structural performance testing on a large scale in a systematic manner. Hence, this structural concern is focused on and tackled in this study. The developed materials and printing system are used for the following experiments. As a preliminary test, specific characteristics such as anisotropy and creep of a layerby-layer component are investigated for a structural design in addition to basic fresh and hardened properties. After the rational geometry is determined by topology optimization analysis, in which a practical scale pedestrian bridge under sidewalk loading is designed, its structural performance is evaluated for safety based on FEM (Finite Element Method) analysis, while considering the preliminary tests. The designed bridge structure consists of 44 segments with different complex shapes, which are printed separately, and all the segments are unified as a compression loaded structure through prestressed external reinforcement. Finally, it is confirmed whether the inherent behavior due to the laminar structure is observable in the full-scale bending test.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b> Mohammed</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../alna.2026.LFAMwCaGM/">Large Format Additive Manufacturing with Cementitious and Geo Materials:<br/>General Considerations, Drivers, and Context</a></li>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../miri_baaj_pola.2025.3PCB/">3D-Printed Concrete Bridges:<br/>Material, Design, Construction, and Reinforcement</a></li>
@@ -103,4 +77,35 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kino_mura_yama_obi.2020.Ao3PSDbTOAtaPSPSPB,
+      author            = "Koji Kinomura and Satoshi Murata and Yujin Yamamoto and Hirotoshi Obi and Akihito Hata",
+      title             = "Application of 3D Printed Segments Designed by Topology-Optimization-Analysis to a Practical-Scale Pre-Stressed Pedestrian Bridge",
+      doi               = "10.1007/978-3-030-49916-7_66",
+      year              = "2020",
+      volume            = "28",
+      pages             = "658--668",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Kinomura, S. Murata, Y. Yamamoto, H. Obi and A. Hata, “Application of 3D Printed Segments Designed by Topology-Optimization-Analysis to a Practical-Scale Pre-Stressed Pedestrian Bridge”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 658–668. doi: 10.1007/978-3-030-49916-7_66.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kinomura, Koji, Satoshi Murata, Yujin Yamamoto, Hirotoshi Obi, and Akihito Hata. “Application of 3D Printed Segments Designed by Topology-Optimization-Analysis to a Practical-Scale Pre-Stressed Pedestrian Bridge”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:658–68, 2020. https://doi.org/10.1007/978-3-030-49916-7_66.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

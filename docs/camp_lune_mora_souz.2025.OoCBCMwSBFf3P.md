@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guilherme Campos, Pietro Lunelli, Elisângela Moraes, Marcelo Souza, Antonio Oliveira
+    - footer
+title: Campos Guilherme, Lunelli Pietro, Moraes Elisângela, Souza Marcelo, Oliveira Antonio
 description:
 tags:
  - base
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04693) Optimization of Clay-Based Ceramic Mixtures with Sugarcane Bagasse Fiber for 3D Printing ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04693" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04693</a>
+#Optimization of Clay-Based Ceramic Mixtures with Sugarcane Bagasse Fiber for 3D Printing ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04693) <a href="https://doi.org/10.1016/j.cscm.2025.e04693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04693" target="_blank">10.1016/j.cscm.2025.e04693</a>
 
--------------------------
+<a href="../../../author/campos_pante-leme_guilherme"><b>de&nbsp;Campos</b>&nbsp;Guilherme</a></span>, <a href="../../../author/lunelli_sinigaglia_pietro"><b>Lunelli</b>&nbsp;Pietro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2065-383X" title="ORCID: 0000-0002-2065-383X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moraes_guzi_elisangela"><b>de&nbsp;Moraes</b>&nbsp;Elisângela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza_tramontin_marcelo"><b>Souza</b>&nbsp;Marcelo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0875-139X" title="ORCID: 0000-0002-0875-139X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_pedro-novaes_antonio"><b>de&nbsp;Oliveira</b>&nbsp;Antonio</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04693
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/campos_pante-leme_guilherme"><b>de Campos</b> Guilherme</a>
-,     <a href="../../../author/lunelli_sinigaglia_pietro"><b>Lunelli</b> Pietro</a>
-,     <a href="../../../author/moraes_guzi_elisangela"><b>de Moraes</b> Elisângela</a> <a href="https://orcid.org/0000-0002-2065-383X" title="ORCID: 0000-0002-2065-383X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a> <a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oliveira_pedro-novaes_antonio"><b>de Oliveira</b> Antonio</a> <a href="https://orcid.org/0000-0002-0875-139X" title="ORCID: 0000-0002-0875-139X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04693
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#ceramic`](keyword/ceramic)
-    [`#clay`](keyword/clay)
-    [`#fiber`](keyword/fiber)
-    [`#mixture`](keyword/mixture)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Clay-Based%20Ceramic%20Mixtures%20with%20Sugarcane%20Bagasse%20Fiber%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003118857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409687030" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04693" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04693?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robocasting is an additive manufacturing technique that utilizes a numerically controlled extruder to 3D print objects layer by layer by continuously extruding a paste-like material through a nozzle onto a build surface. This study advances the application of clay-based ceramics for additive manufacturing by optimizing compositions that incorporate sugarcane bagasse fiber, focusing on sustainable materials with minimal environmental impact. Novel combinations of metakaolin, bentonite, and sugarcane bagasse fiber were explored to achieve enhanced printability and mechanical performance. Key innovations include tailoring the liquid-to-solid ratio to achieve optimal plasticity and workability (0.72–0.85) and identifying the critical role of bentonite (≥4%) in improving the printability of metakaolin with its inherently low plasticity. Additionally, the incorporation of sugarcane bagasse fiber significantly increased compressive strength (by up to 74%), although it also resulted in a slight increase in shrinkage during drying (13.1%). This work presents a sustainable and innovative approach for developing printable ceramics with improved properties, supporting the broader adoption of eco-friendly additive manufacturing techniques for high-performance applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
@@ -78,7 +56,36 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../souz_ferr_mora_senf.2022.RoCAo3PPC/">Role of Chemical Admixtures on 3D Printed Portland Cement:<br/>Assessing Rheology and Buildability</a></li>
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yori_sleb_liza_inda.2023.ARBb3P/">Artificial Reefs Built by 3D Printing:<br/>Systematisation in the Design, Material-Selection and Fabrication</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{camp_lune_mora_souz.2025.OoCBCMwSBFf3P,
+      author            = "Guilherme Pante Leme de Campos and Pietro Sinigaglia Lunelli and Elisângela Guzi de Moraes and Marcelo Tramontin Souza and Antonio Pedro Novaes de Oliveira",
+      title             = "Optimization of Clay-Based Ceramic Mixtures with Sugarcane Bagasse Fiber for 3D Printing",
+      doi               = "10.1016/j.cscm.2025.e04693",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04693",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. P. L. de Campos, P. S. Lunelli, E. G. de Moraes, M. T. Souza and A. P. N. de Oliveira, “Optimization of Clay-Based Ceramic Mixtures with Sugarcane Bagasse Fiber for 3D Printing”, <i>Case Studies in Construction Materials</i>, p. e04693, 2025, doi: 10.1016/j.cscm.2025.e04693.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Campos, Guilherme Pante Leme de, Pietro Sinigaglia Lunelli, Elisângela Guzi de Moraes, Marcelo Tramontin Souza, and Antonio Pedro Novaes de Oliveira. “Optimization of Clay-Based Ceramic Mixtures with Sugarcane Bagasse Fiber for 3D Printing”. <i>Case Studies in Construction Materials</i>, 2025, e04693. https://doi.org/10.1016/j.cscm.2025.e04693.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

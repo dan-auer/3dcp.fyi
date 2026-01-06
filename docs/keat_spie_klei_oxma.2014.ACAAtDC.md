@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Steven Keating, Nathan Spielberg, John Klein, Neri Oxman
+    - footer
+title: Keating Steven, Spielberg Nathan, Klein John, Oxman Neri
 description:
 tags:
  - approach
@@ -21,37 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Compound Arm Approach to Digital Construction:<br/>:aca-blank: A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication ([2014-05](date/2014/05))
-<a href="https://doi.org/10.1007/978-3-319-04663-1_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-04663-1_7</a>
+#A Compound Arm Approach to Digital Construction&nbsp;([2014-05](date/2014/05))
+<div class="h1-like">A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-04663-1_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-04663-1_7" target="_blank">10.1007/978-3-319-04663-1_7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8775-5590" title="ORCID: 0000-0002-8775-5590" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keating_j_steven"><b>Keating</b>&nbsp;Steven</a></span>, <a href="../../../author/spielberg_a_nathan"><b>Spielberg</b>&nbsp;Nathan</a></span>, <a href="../../../author/klein_john"><b>Klein</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oxman_neri"><b>Oxman</b>&nbsp;Neri</a></span><br>
+Contribution - Robotic Fabrication in Architecture, Art and Design 2014, pp. 99-110
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a> <a href="https://orcid.org/0000-0002-8775-5590" title="ORCID: 0000-0002-8775-5590" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spielberg_a_nathan"><b>Spielberg</b> Nathan</a>
-,     <a href="../../../author/klein_john"><b>Klein</b> John</a>
-,     <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Robotic Fabrication in Architecture, Art and Design 2014, pp. 99-110
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#arm`](keyword/arm)
-    [`#compound`](keyword/compound)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#large`](keyword/large)
-    [`#mobile`](keyword/mobile)
-    [`#platform`](keyword/platform)
-    [`#scale`](keyword/scale)
-    [`#sensor`](keyword/sensor)
-    [`#site`](keyword/site)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/compound"><button class="btn">#compound</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Compound%20Arm%20Approach%20to%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,24 +44,20 @@ tags:
 <a href="https://inciteful.xyz/p/W183824695" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-04663-1_7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-04663-1_7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     We introduce a novel large-scale Digital Construction Platform (DCP) for on-site sensing, analysis, and fabrication. The DCP is an in-progress research project consisting of a compound robotic arm system comprised of a 5-axis Altec hydraulic mobile boom arm attached to a 6-axis KUKA robotic arm. Akin to the biological model of human shoulder and hand this compound system utilizes the large boom arm for gross positioning and the small robotic arm for fine positioning and oscillation correction respectively. The platform is based on a fully mobile truck vehicle with a working reach diameter of over 80 feet. It can handle a 1,500 lb lift capacity and a 20 lb manipulation capacity. We report on the progress of the DCP and speculate on potential applications including fabrication of non-standard architectural forms, integration of real-time on-site sensing data, improvements in construction efficiency, enhanced resolution, lower error rates, and increased safety. We report on a case study for platform demonstration through large-scale 3D printing of insulative formwork for castable structures. We discuss benefits and potential future applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2013/06">(2013-06)</a><br><a href="../../../keat_oxma.2013.CF/">Compound Fabrication:<br/>A Multi-Functional Robotic Platform for Digital Design and Fabrication</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../chou_khee_ghaf.2023.AMatCI/">Additive Manufacturing and the Construction Industry</a></li>
       <li><a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/gaballa_aya"><b>Gaballa</b> Aya</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../cabi_gaba_fadl_irsh.2023.AGAfUCR3PftAEaCI/">A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry</a></li>
@@ -104,4 +78,34 @@ tags:
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{keat_spie_klei_oxma.2014.ACAAtDC,
+      author            = "Steven J. Keating and Nathan A. Spielberg and John Klein and Neri Oxman",
+      title             = "A Compound Arm Approach to Digital Construction: A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication",
+      doi               = "10.1007/978-3-319-04663-1_7",
+      year              = "2014",
+      pages             = "99--110",
+      booktitle         = "Robotic Fabrication in Architecture, Art and Design 2014",
+      editor            = "Wesley McGee and Monica Ponce de Leon",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. J. Keating, N. A. Spielberg, J. Klein and N. Oxman, “A Compound Arm Approach to Digital Construction: A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication”, in <i>Robotic Fabrication in Architecture, Art and Design 2014</i>,  2014, pp. 99–110. doi: 10.1007/978-3-319-04663-1_7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Keating, Steven J., Nathan A. Spielberg, John Klein, and Neri Oxman. “A Compound Arm Approach to Digital Construction: A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication”. In <i>Robotic Fabrication in Architecture, Art and Design 2014</i>, edited by Wesley McGee and Monica Ponce de Leon, 99–110, 2014. https://doi.org/10.1007/978-3-319-04663-1_7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ketao Zhang, Pisak Chermprayong, Feng Xiao, Dimos Tzoumanikas, Barrie Dams, Sebastian Kay, Basaran Kocer, Alec Burns, Lachlan Orr, Christopher Choi, Durgesh Darekar, Wenbin Li, Steven Hirschmann, Valentina Soana, Shamsiah Ngah, Sina Sareh, Ashutosh Choubey, Laura Margheri, Vijay Pawar, Richard Ball, Chris Williams, Paul Shepherd, Stefan Leutenegger, Robert Stuart-Smith, Mirko Kovac
+    - footer
+title: Zhang Ketao, Chermprayong Pisak, Xiao Feng, Tzoumanikas Dimos, Dams Barrie, Kay Sebastian, Kocer Basaran, Burns Alec, Orr Lachlan, Choi Christopher, Darekar Durgesh, Li Wenbin, Hirschmann Steven, Soana Valentina, Ngah Shamsiah, Sareh Sina, Choubey Ashutosh, Margheri Laura, Pawar Vijay, Ball Richard, Williams Chris, Shepherd Paul, Leutenegger Stefan, Stuart-Smith Robert, Kovac Mirko
 description:
 tags:
  - additive
@@ -12,49 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://purehost.bath.ac.uk/ws/files/249350093/Paper_preprint_Compressed.pdf) Aerial Additive Manufacturing with Multiple Autonomous Robots ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1038/s41586-022-04988-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s41586-022-04988-4</a>
+#Aerial Additive Manufacturing with Multiple Autonomous Robots ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://purehost.bath.ac.uk/ws/files/249350093/Paper_preprint_Compressed.pdf) <a href="https://doi.org/10.1038/s41586-022-04988-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41586-022-04988-4" target="_blank">10.1038/s41586-022-04988-4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6033-071X" title="ORCID: 0000-0002-6033-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_ketao"><b>Zhang</b>&nbsp;Ketao</a></span>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b>&nbsp;Pisak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9156-7085" title="ORCID: 0000-0001-9156-7085" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_feng"><b>Xiao</b>&nbsp;Feng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3085-3648" title="ORCID: 0000-0003-3085-3648" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b>&nbsp;Dimos</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dams_barrie"><b>Dams</b>&nbsp;Barrie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5874-6102" title="ORCID: 0000-0001-5874-6102" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kay_sebastian"><b>Kay</b>&nbsp;Sebastian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5150-5151" title="ORCID: 0000-0002-5150-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kocer_bahadir_basaran"><b>Kocer</b>&nbsp;Basaran</a></span>, <a href="../../../author/burns_alec"><b>Burns</b>&nbsp;Alec</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-2377-9959" title="ORCID: 0009-0000-2377-9959" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orr_lachlan"><b>Orr</b>&nbsp;Lachlan</a></span>, <a href="../../../author/choi_christopher"><b>Choi</b>&nbsp;Christopher</a></span>, <a href="../../../author/darekar_dattatray_durgesh"><b>Darekar</b>&nbsp;Durgesh</a></span>, <a href="../../../author/li_wenbin"><b>Li</b>&nbsp;Wenbin</a></span>, <a href="../../../author/hirschmann_steven"><b>Hirschmann</b>&nbsp;Steven</a></span>, <a href="../../../author/soana_valentina"><b>Soana</b>&nbsp;Valentina</a></span>, <a href="../../../author/ngah_awang_shamsiah"><b>Ngah</b>&nbsp;Shamsiah</a></span>, <a href="../../../author/sareh_sina"><b>Sareh</b>&nbsp;Sina</a></span>, <a href="../../../author/choubey_ashutosh"><b>Choubey</b>&nbsp;Ashutosh</a></span>, <a href="../../../author/margheri_laura"><b>Margheri</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1963-5201" title="ORCID: 0000-0003-1963-5201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pawar_m_vijay"><b>Pawar</b>&nbsp;Vijay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ball_j_richard"><b>Ball</b>&nbsp;Richard</a></span>, <a href="../../../author/williams_chris"><b>Williams</b>&nbsp;Chris</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7998-3737" title="ORCID: 0000-0002-7998-3737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leutenegger_stefan"><b>Leutenegger</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3644-3906" title="ORCID: 0000-0003-3644-3906" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stuart-smith_robert"><b>Stuart-Smith</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9720-2463" title="ORCID: 0000-0002-9720-2463" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kovac_mirko"><b>Kovac</b>&nbsp;Mirko</a></span><br>
+Journal Article - Nature, Vol. 609, Iss. 7928, pp. 709-717
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a> <a href="https://orcid.org/0000-0002-6033-071X" title="ORCID: 0000-0002-6033-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>
-,     <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a> <a href="https://orcid.org/0000-0001-9156-7085" title="ORCID: 0000-0001-9156-7085" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> <a href="https://orcid.org/0000-0003-3085-3648" title="ORCID: 0000-0003-3085-3648" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a> <a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kay_sebastian"><b>Kay</b> Sebastian</a> <a href="https://orcid.org/0000-0001-5874-6102" title="ORCID: 0000-0001-5874-6102" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kocer_bahadir_basaran"><b>Kocer</b> Basaran</a> <a href="https://orcid.org/0000-0002-5150-5151" title="ORCID: 0000-0002-5150-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/burns_alec"><b>Burns</b> Alec</a>
-,     <a href="../../../author/orr_lachlan"><b>Orr</b> Lachlan</a> <a href="https://orcid.org/0009-0000-2377-9959" title="ORCID: 0009-0000-2377-9959" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/choi_christopher"><b>Choi</b> Christopher</a>
-,     <a href="../../../author/darekar_dattatray_durgesh"><b>Darekar</b> Durgesh</a>
-,     <a href="../../../author/li_wenbin"><b>Li</b> Wenbin</a>
-,     <a href="../../../author/hirschmann_steven"><b>Hirschmann</b> Steven</a>
-,     <a href="../../../author/soana_valentina"><b>Soana</b> Valentina</a>
-,     <a href="../../../author/ngah_awang_shamsiah"><b>Ngah</b> Shamsiah</a>
-,     <a href="../../../author/sareh_sina"><b>Sareh</b> Sina</a>
-,     <a href="../../../author/choubey_ashutosh"><b>Choubey</b> Ashutosh</a>
-,     <a href="../../../author/margheri_laura"><b>Margheri</b> Laura</a>
-,     <a href="../../../author/pawar_m_vijay"><b>Pawar</b> Vijay</a> <a href="https://orcid.org/0000-0003-1963-5201" title="ORCID: 0000-0003-1963-5201" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> <a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/williams_chris"><b>Williams</b> Chris</a>
-,     <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a> <a href="https://orcid.org/0000-0002-7998-3737" title="ORCID: 0000-0002-7998-3737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stuart-smith_robert"><b>Stuart-Smith</b> Robert</a> <a href="https://orcid.org/0000-0003-3644-3906" title="ORCID: 0000-0003-3644-3906" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kovac_mirko"><b>Kovac</b> Mirko</a> <a href="https://orcid.org/0000-0002-9720-2463" title="ORCID: 0000-0002-9720-2463" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Nature, Vol. 609, Iss. 7928, pp. 709-717
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#aerial`](keyword/aerial)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Aerial%20Additive%20Manufacturing%20with%20Multiple%20Autonomous%20Robots" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138234388&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296552195" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s41586-022-04988-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s41586-022-04988-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing methods1-4 using static and mobile robots are being developed for both on-site construction5-8 and off-site prefabrication9,10. Here we introduce a method of additive manufacturing, referred to as aerial additive manufacturing (Aerial-AM), that utilizes a team of aerial robots inspired by natural builders11 such as wasps who use collective building methods12,13. We present a scalable multi-robot three-dimensional (3D) printing and path-planning framework that enables robot tasks and population size to be adapted to variations in print geometry throughout a building mission. The multi-robot manufacturing framework allows for autonomous three-dimensional printing under human supervision, real-time assessment of printed geometry and robot behavioural adaptation. To validate autonomous Aerial-AM based on the framework, we develop BuilDrones for depositing materials during flight and ScanDrones for measuring the print quality, and integrate a generic real-time model-predictive-control scheme with the Aerial-AM robots. In addition, we integrate a dynamically self-aligning delta manipulator with the BuilDrone to further improve the manufacturing accuracy to five millimetres for printing geometry with precise trajectory requirements, and develop four cementitious-polymeric composite mixtures suitable for continuous material deposition. We demonstrate proof-of-concept prints including a cylinder 2.05 metres high consisting of 72 layers of a rapid-curing insulation foam material and a cylinder 0.18 metres high consisting of 28 layers of structural pseudoplastic cementitious material, a light-trail virtual print of a dome-like geometry, and multi-robot simulations. Aerial-AM allows manufacturing in-flight and offers future possibilities for building in unbounded, at-height or hard-to-access locations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -103,8 +64,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>
       <li><a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a>, <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ball_dams_shep_chen.2025.EAAMwCMUAD/">Exploring Aerial Additive Manufacturing with Cementitious Materials Using Autonomous Drones</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
@@ -140,4 +101,35 @@ tags:
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../dams_chen_shep_ball.2023.DoCMfAAM/">Development of Cementitious Mortars for Aerial Additive Manufacturing</a></li>
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_cher_xiao_tzou.2022.AAMwMAR,
+      author            = "Ketao Zhang and Pisak Chermprayong and Feng Xiao and Dimos Tzoumanikas and Barrie Dams and Sebastian Kay and Basaran Bahadir Kocer and Alec Burns and Lachlan Orr and Christopher Choi and Durgesh Dattatray Darekar and Wenbin Li and Steven Hirschmann and Valentina Soana and Shamsiah Awang Ngah and Sina Sareh and Ashutosh Choubey and Laura Margheri and Vijay M. Pawar and Richard J. Ball and Chris Williams and Paul Shepherd and Stefan Leutenegger and Robert Stuart-Smith and Mirko Kovac",
+      title             = "Aerial Additive Manufacturing with Multiple Autonomous Robots",
+      doi               = "10.1038/s41586-022-04988-4",
+      year              = "2022",
+      journal           = "Nature",
+      volume            = "609",
+      number            = "7928",
+      pages             = "709--717",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Zhang, “Aerial Additive Manufacturing with Multiple Autonomous Robots”, <i>Nature</i>, vol. 609, no. 7928, pp. 709–717, 2022, doi: 10.1038/s41586-022-04988-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Ketao, Pisak Chermprayong, Feng Xiao, Dimos Tzoumanikas, Barrie Dams, Sebastian Kay, Basaran Bahadir Kocer, et al.. “Aerial Additive Manufacturing with Multiple Autonomous Robots”. <i>Nature</i> 609, no. 7928 (2022): 709–17. https://doi.org/10.1038/s41586-022-04988-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

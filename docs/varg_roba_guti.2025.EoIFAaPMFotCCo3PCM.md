@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Armando Vargas, Rafael Robayo-Salazar, Ruby Gutiérrez
+    - footer
+title: Vargas Armando, Robayo-Salazar Rafael, Gutiérrez Ruby
 description:
 tags:
  - aggregate
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings15010055) Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures ([2024-12](date/2024/12))
-<a href="https://doi.org/10.3390/buildings15010055" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15010055</a>
+#Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures ([2024-12](date/2024/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings15010055) <a href="https://doi.org/10.3390/buildings15010055" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15010055" target="_blank">10.3390/buildings15010055</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_armando"><b>Vargas</b>&nbsp;Armando</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gutierrez_mejia_ruby"><b>de&nbsp;Gutiérrez</b>&nbsp;Ruby</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 1, No. 55
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a> <a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> <a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> <a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 1, No. 55
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#crack`](keyword/crack)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#fine`](keyword/fine)
-    [`#incorporation`](keyword/incorporation)
-    [`#micro`](keyword/micro)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Incorporating%20Fine%20Aggregates%20and%20Polypropylene-Micro-Fibers%20on%20the%20Cracking-Control%20of%203D%20Printed%20Cementitious%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214476690&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405832059" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15010055" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15010055?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the most significant challenges for 3D printing of construction elements from cementitious materials is the control of cracking caused by various contraction– shrinkage mechanisms, such as drying, chemical, plastic and autogenous shrinkage. This study addresses the effects of incorporating fine aggregates (maximum size ≤ 1.18 mm), both natural and recycled, as well as short (6 mm long) polypropylene (PP) fibres on the control of cracking in cementitious mixtures based on Portland cement. Admixtures and/or mineral additions (modifiers), such as metakaolin, micro-silica, calcium carbonate, and fine powders obtained from construction and demolition wastes were used in the mixtures. Mini-slump, flow rate and buildability tests were used to characterize the mixtures in their fresh state. Extrudability was evaluated using laboratory-scale 3D printing tests conducted with a plunger–piston extrusion system. It was demonstrated that the physical characteristics of the aggregates directly influence the extrusion capacity. Mixtures containing natural aggregates exhibited greater fluidity and lower water demand than those containing recycled aggregates. The results indicated that the maximum allowable volume of fibres was 0.75%. To evaluate the cracking susceptibility of the mixtures, both with and without reinforcement, hollow beams composed of seven layers were printed, and subsequently the elements were exposed to the outdoor natural environment and inspected for a period of 90 days. The inclusion of the PP fibres effectively prevented the occurrence of fissures and/or cracks associated with shrinkage phenomena throughout the inspection period, unlike in unreinforced mixtures, which cracked after 14 days of exposure to the environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
@@ -92,10 +68,41 @@ tags:
       <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/boehme_luc"><b>Boehme</b> Luc</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/li_jiabin"><b>Li</b> Jiabin</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../vlie_boeh_blaa_li.2023.BAoMwFRAf3P/">Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{varg_roba_guti.2025.EoIFAaPMFotCCo3PCM,
+      author            = "Armando Vargas and Rafael Robayo-Salazar and Ruby Mejía de Gutiérrez",
+      title             = "Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures",
+      doi               = "10.3390/buildings15010055",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "1",
+      pages             = "55",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Vargas, R. Robayo-Salazar and R. M. de Gutiérrez, “Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures”, <i>Buildings</i>, vol. 15, no. 1, p. 55, 2025, doi: 10.3390/buildings15010055.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vargas, Armando, Rafael Robayo-Salazar, and Ruby Mejía de Gutiérrez. “Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures”. <i>Buildings</i> 15, no. 1 (2025): 55. https://doi.org/10.3390/buildings15010055.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

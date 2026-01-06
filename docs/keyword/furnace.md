@@ -8,7 +8,7 @@ search:
 
 # #furnace
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/isafca-kaya_tugce"><b>İsafça Kaya</b> Tuğçe</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../akgu_sahi_isaf_mard.2025.CEoRTSFaBFSotMPo3PC/">Combined Effect of Recycled Tire Steel Fiber and Blast Furnace Slag on the Mechanical Performance of 3D Printable Concrete</a></li>
   <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>
   <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>

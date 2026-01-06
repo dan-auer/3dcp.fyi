@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Li Wang, Wei Xiao, Qiao Wang, Hailong Jiang, Guowei Ma
+    - footer
+title: Wang Li, Xiao Wei, Wang Qiao, Jiang Hailong, Ma Guowei
 description:
 tags:
  - composite
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104693" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104693</a>
+#Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104693" target="_blank">10.1016/j.cemconcomp.2022.104693</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/xiao_wei"><b>Xiao</b>&nbsp;Wei</a></span>, <a href="../../../author/wang_qiao"><b>Wang</b>&nbsp;Qiao</a></span>, <a href="../../../author/jiang_hailong"><b>Jiang</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a>
-,     <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>
-,     <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 133, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#freeze`](keyword/freeze)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#sand`](keyword/sand)
-    [`#thaw`](keyword/thaw)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Freeze-Thaw-Resistance%20of%203D%20Printed%20Composites%20with%20Desert%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135402125&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4288885739" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104693" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104693?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The reasonable utilisation of local desert sand for manufacturing 3D-printed concrete is sustainable and contributes to the advancement of 3DCP to achieve its maximum environmental potential. In this study, desert sand was used to prepare 3D-printed concrete by optimising the sand and cementitious binder (S/C) ratio. The influence of the S/C ratio on the printability and mechanical properties was investigated, and the relationship between interfacial porosity and mechanical anisotropy was revealed; furthermore, the mass loss, relative dynamic elastic modulus, and interfacial porosity after exposure to 300 freeze-thaw cycles were systematically investigated and analysed. The evolution characteristics of the internal pore structure of 3D-printed desert sand concrete under freeze-thaw cycles were studied, with particular emphasis on elucidating the freeze-thaw influence on both interfacial and matrix porosities. Subsequently, a thaw damage degradation model under different S/C ratios was constructed. The results proved the applicability of a mixture with an S/C ratio of 1.70, which had the best mechanical performance and met the desired requirements for freeze-thaw resistance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -92,8 +71,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
       <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
@@ -129,4 +108,33 @@ tags:
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/biblioteca_ilario"><b>Biblioteca</b> Ilario</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../samb_bibl_vale.2023.LCALo3CPaCPfCMIGWTR/">Life Cycle Assessment (LCA) of 3D Concrete Printing and Casting Processes for Cementitious Materials Incorporating Ground Waste Tire Rubber</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_xiao_wang_jian.2022.FTRo3PCwDS,
+      author            = "Li Wang and Wei Xiao and Qiao Wang and Hailong Jiang and Guowei Ma",
+      title             = "Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand",
+      doi               = "10.1016/j.cemconcomp.2022.104693",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, W. Xiao, Q. Wang, H. Jiang and G. Ma, “Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand”, <i>Cement and Concrete Composites</i>, vol. 133, 2022, doi: 10.1016/j.cemconcomp.2022.104693.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Li, Wei Xiao, Qiao Wang, Hailong Jiang, and Guowei Ma. “Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand”. <i>Cement and Concrete Composites</i> 133 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104693.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

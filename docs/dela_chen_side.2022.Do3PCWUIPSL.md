@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Delavar, Hao Chen, Petros Sideris
+    - footer
+title: Delavar Mohammad, Chen Hao, Sideris Petros
 description:
 tags:
  - concrete
@@ -15,28 +16,11 @@ tags:
 
 ---
 
-# Design of 3D Printed Concrete Walls Under In-Plane Seismic Loading ([2022-07](date/2022/07))
--------------------------
+#Design of 3D Printed Concrete Walls Under In-Plane Seismic Loading ([2022-07](date/2022/07))
+<span class="author"><a href="https://orcid.org/0000-0002-4688-1224" title="ORCID: 0000-0002-4688-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0520-6190" title="ORCID: 0000-0003-0520-6190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_hao"><b>Chen</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1183-7397" title="ORCID: 0000-0002-1183-7397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sideris_petros"><b>Sideris</b>&nbsp;Petros</a></span><br>
+Contribution - Proceedings of the 12th National Conference on Earthquake Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a> <a href="https://orcid.org/0000-0002-4688-1224" title="ORCID: 0000-0002-4688-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> <a href="https://orcid.org/0000-0003-0520-6190" title="ORCID: 0000-0003-0520-6190" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="https://orcid.org/0000-0002-1183-7397" title="ORCID: 0000-0002-1183-7397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 12th National Conference on Earthquake Engineering, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#load`](keyword/load)
-    [`#plane`](keyword/plane)
-    [`#print`](keyword/print)
-    [`#seismic`](keyword/seismic)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/seismic"><button class="btn">#seismic</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20of%203D%20Printed%20Concrete%20Walls%20Under%20In-Plane%20Seismic%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -51,18 +35,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) extrusion-based concrete printing is a novel construction strategy having the potential to revolutionize the construction industry and the structural engineering discipline due to its rapid onsite constructability and low construction cost. However, there is no code-based design strategy to capture structural response behavior of 3D printed concrete (3DPC) elements to support design 3DPC structures. In this paper, a reinforcing strategy along with the strength design equations for in-plane loading are proposed for 3DPC walls to enable design of 3DPC low-rise residential and office buildings. To derive design equations, diagonal shear failure and flexural failure are considered. The proposed strength design equations are validated through a numerical study on four 3DPC walls modeled in OpenSees. The numerical results show similar failure mechanisms and strength with the one computed from the proposed equations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
@@ -74,7 +53,34 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{dela_chen_side.2022.Do3PCWUIPSL,
+      author            = "Mohammad Aghajani Delavar and Hao Chen and Petros Sideris",
+      title             = "Design of 3D Printed Concrete Walls Under In-Plane Seismic Loading",
+      year              = "2022",
+      booktitle         = "Proceedings of the 12th National Conference on Earthquake Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Delavar, H. Chen and P. Sideris, “Design of 3D Printed Concrete Walls Under In-Plane Seismic Loading”,  2022.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Delavar, Mohammad Aghajani, Hao Chen, and Petros Sideris. “Design of 3D Printed Concrete Walls Under In-Plane Seismic Loading”. In <i>Proceedings of the 12th National Conference on Earthquake Engineering</i>, 2022.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

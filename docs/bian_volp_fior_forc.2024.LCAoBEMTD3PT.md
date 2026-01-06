@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Iacopo Bianchi, Stelladriana Volpe, Francesco Fiorito, Archimede Forcellese, Valentino Sangiorgio
+    - footer
+title: Bianchi Iacopo, Volpe Stelladriana, Fiorito Francesco, Forcellese Archimede, Sangiorgio Valentino
 description:
 tags:
  - assessment
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jclepro.2024.140905) Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.jclepro.2024.140905" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2024.140905</a>
+#Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jclepro.2024.140905) <a href="https://doi.org/10.1016/j.jclepro.2024.140905" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2024.140905" target="_blank">10.1016/j.jclepro.2024.140905</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2556-4497" title="ORCID: 0000-0003-2556-4497" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bianchi_iacopo"><b>Bianchi</b>&nbsp;Iacopo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volpe_stelladriana"><b>Volpe</b>&nbsp;Stelladriana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fiorito_francesco"><b>Fiorito</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1380-4596" title="ORCID: 0000-0003-1380-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forcellese_archimede"><b>Forcellese</b>&nbsp;Archimede</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span><br>
+Journal Article - Journal of Cleaner Production, No. 140905
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a> <a href="https://orcid.org/0000-0003-2556-4497" title="ORCID: 0000-0003-2556-4497" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a> <a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a> <a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> <a href="https://orcid.org/0000-0003-1380-4596" title="ORCID: 0000-0003-1380-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> <a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, No. 140905
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#cycle`](keyword/cycle)
-    [`#difference`](keyword/difference)
-    [`#envelope`](keyword/envelope)
-    [`#life`](keyword/life)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Building%20Envelopes%20Manufactured%20Through%20Different%203D%20Printing%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183934653&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391251580" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2024.140905" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2024.140905?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advent of 3D printing technology in the construction field, as for many other industries, represents a technological upgrade. It introduces a paradigm shift in the way we approach construction and architecture, opening up new horizons and unprecedented possibilities. Indeed, due to its ability for infill optimization and reduction in material consumption, additive manufacturing (AM) can represent a sustainable solution for highperformance construction. While there is a growing body of literature on 3D concrete printing (3DCP), several aspects related to sustainability remain unexplored. Systematic studies assessing the sustainability of various 3D printing technologies and techniques to achieve a building envelope are missing in related literature. The present study fills a crucial gap in the literature by focusing on the environmental impacts and thermal properties of building envelopes achieved using three distinct emerging AM technologies and techniques. These technologies include large gantry cranes, small gantry cranes based 3D concrete printers, and Fused Deposition Modelling (FDM), applied in monolithic construction, prefabrication, and 3D-printed thin formwork for cast concrete components. The novelty of the proposed research is twofold. Firstly, it explores how different technologies and techniques can achieve target thermal performances for building envelopes through parametric modelling and thermal simulations. Secondly, it conducts a Life Cycle Assessment (LCA) analysis to identify the advantages of various 3D printing technologies and techniques in the context of building envelopes. The results showed that the investigated 3D printing technologies have low energy consumption and can represent a sustainable alternative to traditional structures. The impacts of different technologies can vary significantly depending on the configuration and internal infill; this is mainly due to the quantity of concrete used, which can account for up to 95 % of the total impacts. Hence, the sustainability of envelopes can be improved using configurations with thinner wall thickness (i.e., obtained with prefabrication or FDM-based formwork technique). By providing a better understanding of the sustainability aspects of these technologies, the study provides valuable insights for future developments in the field, guiding the construction industry towards more sustainable and innovative practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -108,8 +84,8 @@ tags:
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
@@ -128,4 +104,33 @@ tags:
       <li><a href="../../../author/iuorio_ornella"><b>Iuorio</b> Ornella</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../iuor.2025.AMaAiC/">Additive Manufacturing and Automation in Construction</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tarh_tarh_jacq_perr.2024.MBo3PaTREFC/">Mechanical Behavior of 3D Printed and Textile-Reinforced Eco-Friendly Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bian_volp_fior_forc.2024.LCAoBEMTD3PT,
+      author            = "Iacopo Bianchi and Stelladriana Volpe and Francesco Fiorito and Archimede Forcellese and Valentino Sangiorgio",
+      title             = "Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies",
+      doi               = "10.1016/j.jclepro.2024.140905",
+      year              = "2024",
+      journal           = "Journal of Cleaner Production",
+      pages             = "140905",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Bianchi, S. Volpe, F. Fiorito, A. Forcellese and V. Sangiorgio, “Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies”, <i>Journal of Cleaner Production</i>, p. 140905, 2024, doi: 10.1016/j.jclepro.2024.140905.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bianchi, Iacopo, Stelladriana Volpe, Francesco Fiorito, Archimede Forcellese, and Valentino Sangiorgio. “Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies”. <i>Journal of Cleaner Production</i>, 2024, 140905. https://doi.org/10.1016/j.jclepro.2024.140905.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

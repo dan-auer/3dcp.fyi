@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Kazemian, Xiao Yuan, Ryan Meier, Behrokh Khoshnevis
+    - footer
+title: Kazemian Ali, Yuan Xiao, Meier Ryan, Khoshnevis Behrokh
 description:
 tags:
  - base
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Performance-Based Testing of Portland Cement Concrete for Construction-Scale 3D Printing ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/b978-0-12-815481-6.00002-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-12-815481-6.00002-6</a>
+#Performance-Based Testing of Portland Cement Concrete for Construction-Scale 3D Printing ([2019-02](date/2019/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00002-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00002-6" target="_blank">10.1016/b978-0-12-815481-6.00002-6</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <a href="../../../author/meier_ryan"><b>Meier</b>&nbsp;Ryan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Contribution - 3D Concrete Printing Technology, pp. 13-35
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>
-,     <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing Technology, pp. 13-35
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance-Based%20Testing%20of%20Portland%20Cement%20Concrete%20for%20Construction-Scale%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150088137&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2916896510" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-12-815481-6.00002-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-12-815481-6.00002-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this chapter, a framework for performance-based laboratory testing of Portland cement-based mixtures for construction-scale 3D printing is presented. In this framework, a “printing mixture” in fresh state is characterized in terms of print quality, shape stability, and printability window. Print quality is described using measures of surface quality and dimensions of printed layers. Details of two proposed test methods for evaluation of shape stability, namely layer settlement and cylinder stability, are also provided. By experimental studies of four different mixtures it is shown that inclusion of silica fume and nanoclay significantly enhances shape stability. The results of some conventional tests, as well as several proposed new test methods, are used to evaluate the performance of printing mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kaze_yuan_meie_coch.2017.CS3P/">Construction-Scale 3D Printing:<br/>Shape Stability of Fresh Printing Concrete</a></li>
@@ -79,12 +57,11 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "32 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
       <li><a href="../../../author/nadi_mouad"><b>Nadi</b> Mouad</a>, <a href="../../../author/majdoubi_hicham"><b>Majdoubi</b> Hicham</a>, <a href="../../../author/haddaji_younesse"><b>Haddaji</b> Younesse</a>, <a href="../../../author/bili_oumaima"><b>Bili</b> Oumaima</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nadi_majd_hadd_bili.2025.DFPfCMUTD3PT/">Digital Fabrication Processes for Cementitious Materials Using Three-Dimensional 3D Printing Technologies</a></li>
@@ -118,4 +95,34 @@ tags:
       <li><a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a>, <a href="../../../author/yeon_kyu-seok"><b>Yeon</b> Kyu-Seok</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../kim_yeon_lee_yeon.2019.FSoSMCMfUa3ACM/">Feasibility Study of SBR-Modified Cementitious Mixtures for Use as 3D Additive Construction Materials</a></li>
       <li><a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../kim_yeon_lee.2019.SDCoSMCMf3CP/">Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kaze_yuan_meie_khos.2019.PBToPCCfCS3P,
+      author            = "Ali Kazemian and Xiao Yuan and Ryan Meier and Behrokh Khoshnevis",
+      title             = "Performance-Based Testing of Portland Cement Concrete for Construction-Scale 3D Printing",
+      doi               = "10.1016/b978-0-12-815481-6.00002-6",
+      year              = "2019",
+      pages             = "13--35",
+      booktitle         = "3D Concrete Printing Technology: Construction and Building Applications",
+      editor            = "Jay Gnananandan Sanjayan and Ali Nazari and Behzad Nematollahi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kazemian, X. Yuan, R. Meier and B. Khoshnevis, “Performance-Based Testing of Portland Cement Concrete for Construction-Scale 3D Printing”, in <i>3D Concrete Printing Technology: Construction and Building Applications</i>,  2019, pp. 13–35. doi: 10.1016/b978-0-12-815481-6.00002-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kazemian, Ali, Xiao Yuan, Ryan Meier, and Behrokh Khoshnevis. “Performance-Based Testing of Portland Cement Concrete for Construction-Scale 3D Printing”. In <i>3D Concrete Printing Technology: Construction and Building Applications</i>, edited by Jay Gnananandan Sanjayan, Ali Nazari, and Behzad Nematollahi, 13–35, 2019. https://doi.org/10.1016/b978-0-12-815481-6.00002-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

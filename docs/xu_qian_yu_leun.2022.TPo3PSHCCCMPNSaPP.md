@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nuoyan Xu, Ye Qian, Jing Yu, Christopher Leung
+    - footer
+title: Xu Nuoyan, Qian Ye, Yu Jing, Leung Christopher
 description:
 tags:
  - cement
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104601" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104601</a>
+#Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104601" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104601" target="_blank">10.1016/j.cemconcomp.2022.104601</a>
 
--------------------------
+<a href="../../../author/xu_nuoyan"><b>Xu</b>&nbsp;Nuoyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5975-3494" title="ORCID: 0000-0001-5975-3494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jing"><b>Yu</b>&nbsp;Jing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6811-9281" title="ORCID: 0000-0002-6811-9281" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leung_kin-ying_christopher"><b>Leung</b>&nbsp;Christopher</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 132
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jing"><b>Yu</b> Jing</a> <a href="https://orcid.org/0000-0001-5975-3494" title="ORCID: 0000-0001-5975-3494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="https://orcid.org/0000-0002-6811-9281" title="ORCID: 0000-0002-6811-9281" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 132, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#hardened`](keyword/hardened)
-    [`#material`](keyword/material)
-    [`#nozzle`](keyword/nozzle)
-    [`#parameter`](keyword/parameter)
-    [`#pattern`](keyword/pattern)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#size`](keyword/size)
-    [`#strain`](keyword/strain)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tensile%20Performance%20of%203D%20Printed%20Strain-Hardening%20Cementitious%20Composites%20Considering%20Material-Parameters%2C%20Nozzle-Size%20and%20Printing-Pattern" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131768435&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281621637" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104601" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104601?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Strain-Hardening Cementitious Composites (SHCC) have demonstrated superior mechanical performance, which could potentially solve the challenges of adding reinforcement in 3D-printed concrete structures. This study investigates the tensile performance of 3D-printed SHCC. Preliminary studies are conducted to investigate the effects of nanoclay dosage, fiber content and nozzle size on 3D printability and tensile performance. Further, experimental and theoretical studies of various printing patterns on the tensile performance and cracking control ability of 3D-printed SHCC are conducted. In addition, a quantitative analysis of the anisotropy of SHCC is conducted. Results indicate that the tensile properties of 3D-printed SHCC can be controlled by designing the printing pattern. Properly designed printed SHCC can exhibit better performance over mold-cast SHCC. These findings provide new insights into the design and manufacture of 3D-printed structures using fiber-reinforced cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
@@ -100,8 +74,9 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -143,4 +118,33 @@ tags:
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../xu_qian.2023.EoFVFFLWBRaNCAot3PoSHCC/">Effects of Fiber-Volume Fraction, Fiber Length, Water-Binder Ratio, and Nano-Clay Addition on the 3D Printability of Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/pang_zhiming"><b>Pang</b> Zhiming</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/wang_jiajie"><b>Wang</b> Jiajie</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../pang_lu_li_wang.2023.AMSMfQFOEotTPo3PECC/">A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_qian_yu_leun.2022.TPo3PSHCCCMPNSaPP,
+      author            = "Nuoyan Xu and Ye Qian and Jing Yu and Christopher Kin Ying Leung",
+      title             = "Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern",
+      doi               = "10.1016/j.cemconcomp.2022.104601",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "132",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Xu, Y. Qian, J. Yu and C. K. Y. Leung, “Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern”, <i>Cement and Concrete Composites</i>, vol. 132, 2022, doi: 10.1016/j.cemconcomp.2022.104601.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Nuoyan, Ye Qian, Jing Yu, and Christopher Kin Ying Leung. “Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern”. <i>Cement and Concrete Composites</i> 132 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104601.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

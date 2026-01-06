@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Martin Krause, Jens Otto, Alexey Bulgakov, Daher Sayfeddine
+    - footer
+title: Krause Martin, Otto Jens, Bulgakov Alexey, Sayfeddine Daher
 description:
 tags:
  - concrete
@@ -13,29 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Strategic Optimization of 3D Concrete Printing Using the Method of CONPrint3D® ([2015-07](date/2015/07))
-<a href="https://doi.org/10.22260/isarc2018/0002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2018/0002</a>
+#Strategic Optimization of 3D Concrete Printing Using the Method of CONPrint3D® ([2015-07](date/2015/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2018/0002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2018/0002" target="_blank">10.22260/isarc2018/0002</a>
 
--------------------------
+<a href="../../../author/krause_martin"><b>Krause</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/otto_jens"><b>Otto</b>&nbsp;Jens</a></span>, <a href="../../../author/bulgakov_alexey"><b>Bulgakov</b>&nbsp;Alexey</a></span>, <a href="../../../author/sayfeddine_daher"><b>Sayfeddine</b>&nbsp;Daher</a></span><br>
+Contribution - Proceedings of the 35th International Symposium on Automation and Robotics in Construction, pp. 9-15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>
-,     <a href="../../../author/otto_jens"><b>Otto</b> Jens</a> <a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bulgakov_alexey"><b>Bulgakov</b> Alexey</a>
-,     <a href="../../../author/sayfeddine_daher"><b>Sayfeddine</b> Daher</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 35th International Symposium on Automation and Robotics in Construction, pp. 9-15
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#method`](keyword/method)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strategic%20Optimization%20of%203D%20Concrete%20Printing%20Using%20the%20Method%20of%20CONPrint3D%C2%AE" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088405795&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,21 +35,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2883291436" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2018/0002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2018/0002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The resource efficiency and labor productivity in the construction industry are still viewed critically. Concrete 3D-printing processes have the potential to significantly improve both factors. Currently, research activities in this field are growing rapidly worldwide, thus similar advances and market developments can be expected, as have already occurred in other sectors of the stationary industry. The TU Dresden relies on the development of the CONPrint3D® (Concrete ON-site 3D-Printing). It specifically relies on: established machine technology, the production of fully filled concrete structures, sustainable concrete formulations with a maximum grain size of up to 16 mm and the use directly on the construction site. In contrast to small-scale 3Dprinting processes, the data processing chain for large-format 3D-printing with concrete still has considerable deficits. In order to depict the complex solidification properties of the building concrete, computer simulations are indispensable as a basis for the development of an optimized printing strategy. In this paper, investigations on the strategic process optimization of concrete printing using the method CONPrint3D® are presented. First, the relevant boundary conditions of concrete 3D-printing are described. Subsequently, calculation methods of the trajectory planning are presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../baba_mcco_afsa.2025.CaOo3AfUWT/">Challenges and Opportunities of 3DCP Adoption for US Workforce Training</a></li>
@@ -89,4 +69,34 @@ tags:
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mark_sahm_nere_nath.2019.IotFCPTSf3PwFC/">Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{krau_otto_bulg_sayf.2018.SOo3CPUtMoC,
+      author            = "Martin Krause and Jens Otto and Alexey Bulgakov and Daher Sayfeddine",
+      title             = "Strategic Optimization of 3D Concrete Printing Using the Method of CONPrint3D®",
+      doi               = "10.22260/isarc2018/0002",
+      year              = "2018",
+      pages             = "9--15",
+      booktitle         = "Proceedings of the 35th International Symposium on Automation and Robotics in Construction",
+      editor            = "Jochen Teizer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Krause, J. Otto, A. Bulgakov and D. Sayfeddine, “Strategic Optimization of 3D Concrete Printing Using the Method of CONPrint3D®”, in <i>Proceedings of the 35th International Symposium on Automation and Robotics in Construction</i>,  2018, pp. 9–15. doi: 10.22260/isarc2018/0002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Krause, Martin, Jens Otto, Alexey Bulgakov, and Daher Sayfeddine. “Strategic Optimization of 3D Concrete Printing Using the Method of CONPrint3D®”. In <i>Proceedings of the 35th International Symposium on Automation and Robotics in Construction</i>, edited by Jochen Teizer, 9–15, 2018. https://doi.org/10.22260/isarc2018/0002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

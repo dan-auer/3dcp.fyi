@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yao Ding, Xingjian Ou, Hongtuo Qi, Gang Xiong, Tomoya Nishiwaki, Yifan Liu, Jiepeng Liu
+    - footer
+title: Ding Yao, Ou Xingjian, Qi Hongtuo, Xiong Gang, Nishiwaki Tomoya, Liu Yifan, Liu Jiepeng
 description:
 tags:
  - bond
@@ -20,39 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites:<br/>:aca-blank: Rheological Regulation and Fiber Hybridization ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105805" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105805</a>
+#Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Rheological Regulation and Fiber Hybridization</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105805" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105805" target="_blank">10.1016/j.cemconcomp.2024.105805</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_yao"><b>Ding</b>&nbsp;Yao</a></span>, <a href="../../../author/ou_xingjian"><b>Ou</b>&nbsp;Xingjian</a></span>, <a href="../../../author/qi_hongtuo"><b>Qi</b>&nbsp;Hongtuo</a></span>, <a href="../../../author/xiong_gang"><b>Xiong</b>&nbsp;Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6745-3141" title="ORCID: 0000-0001-6745-3141" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b>&nbsp;Tomoya</a></span>, <a href="../../../author/liu_yifan"><b>Liu</b>&nbsp;Yifan</a></span>, <a href="../../../author/liu_jiepeng"><b>Liu</b>&nbsp;Jiepeng</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 154, No. 105805
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_yao"><b>Ding</b> Yao</a> <a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>
-,     <a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a>
-,     <a href="../../../author/xiong_gang"><b>Xiong</b> Gang</a>
-,     <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> <a href="https://orcid.org/0000-0001-6745-3141" title="ORCID: 0000-0001-6745-3141" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>
-,     <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 154, No. 105805
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#fiber`](keyword/fiber)
-    [`#hybrid`](keyword/hybrid)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#regulations`](keyword/regulations)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/regulations"><button class="btn">#regulations</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Bonding%20Performance%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206679458&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403548069" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105805" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105805?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The weak interlayer adhesion caused by the layer-by-layer 3D printing (3DP) process and the incorporation of organic fiber in Engineered Cementitious Composites (ECC), detrimentally impacts the integrity of 3DP-ECC structures, particularly for large-scale structures requiring extended open time. To optimize the printing quality and extent the operation time, cellulose filaments (CF) were employed as nano-reinforcement, viscosity modifier and water retainer, and were hybridized with polyethylene fiber (PE) and steel fiber (ST). The highest bonding strength was raised up to 3.51 MPa. The time-dependent escalation of rheological parameters was mitigated, reducing interlayer porosity to 0.56 % and limiting the reduction in bonding strength to 12.01 % within 60 min open time. The compressive anisotropy was almost eliminated, verifying the potential of CF in modifying interlayer adhesion. A linear correlation between rheological behavior and interlayer bonding performance was established, and a 0.508 Pa s/min plastic viscosity growth rate was suggested to avoid cold joint and ensure printing quality.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ding_liu_ou_nish.2024.3PHFRECC/">3D Printing Hybrid-Fiber-Reinforced Engineered Cementitious Composites:<br/>Feasibility in Long-Open-Time Applications</a></li>
@@ -112,8 +84,9 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
@@ -123,4 +96,34 @@ tags:
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/yu_kanghao"><b>Yu</b> Kanghao</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_yu_zhan_wang.2025.CaMtBSBoSBi3PECC/">Characterizing and Modelling the Bond-Slip-Behavior of Steel-Bars in 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_ou_qi_xion.2024.ILBPo3PECC,
+      author            = "Yao Ding and Xingjian Ou and Hongtuo Qi and Gang Xiong and Tomoya Nishiwaki and Yifan Liu and Jiepeng Liu",
+      title             = "Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites: Rheological Regulation and Fiber Hybridization",
+      doi               = "10.1016/j.cemconcomp.2024.105805",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "154",
+      pages             = "105805",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Ding, “Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites: Rheological Regulation and Fiber Hybridization”, <i>Cement and Concrete Composites</i>, vol. 154, p. 105805, 2024, doi: 10.1016/j.cemconcomp.2024.105805.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Yao, Xingjian Ou, Hongtuo Qi, Gang Xiong, Tomoya Nishiwaki, Yifan Liu, and Jiepeng Liu. “Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites: Rheological Regulation and Fiber Hybridization”. <i>Cement and Concrete Composites</i> 154 (2024): 105805. https://doi.org/10.1016/j.cemconcomp.2024.105805.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

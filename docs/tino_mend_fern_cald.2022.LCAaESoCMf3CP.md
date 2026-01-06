@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matheus Tinoco, Érica Mendonça, Letízia Fernandez, Lucas Caldas, Oscar Mendoza Reales, Romildo Toledo Filho
+    - footer
+title: Tinoco Matheus, Mendonça Érica, Fernandez Letízia, Caldas Lucas, Mendoza Reales Oscar, Toledo Filho Romildo
 description:
 tags:
  - assessment
@@ -19,37 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>:aca-blank: A Systematic Literature Review ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.jobe.2022.104456" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2022.104456</a>
+#Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">A Systematic Literature Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.104456" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.104456" target="_blank">10.1016/j.jobe.2022.104456</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b>&nbsp;Matheus</a></span>, <a href="../../../author/mendonca_martinho_erica"><b>de&nbsp;Mendonça</b>&nbsp;Érica</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-7983-1520" title="ORCID: 0009-0009-7983-1520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b>&nbsp;Letízia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3108-2833" title="ORCID: 0000-0002-3108-2833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caldas_rosse_lucas"><b>Caldas</b>&nbsp;Lucas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 52
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a> <a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendonca_martinho_erica"><b>de Mendonça</b> Érica</a>
-,     <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a> <a href="https://orcid.org/0009-0009-7983-1520" title="ORCID: 0009-0009-7983-1520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> <a href="https://orcid.org/0000-0002-3108-2833" title="ORCID: 0000-0002-3108-2833" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 52, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#cycle`](keyword/cycle)
-    [`#environment`](keyword/environment)
-    [`#life`](keyword/life)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20and%20Environmental%20Sustainability%20of%20Cementitious%20Materials%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128486586&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224060598" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2022.104456" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2022.104456?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article presents a literature review on the use of cementitious materials for 3D printing applications in the context of environmental sustainability and the construction sector. In this study are presented materials currently used for 3D concrete printing. Structural and nonstructural applications are considered. New research regarding more durable and sustainable materials is discussed. Furthermore, recent contributions on the use of Life Cycle Assessment (LCA) to evaluate the potential environmental impacts of the concrete 3D printing technology are summarized. A discussion on the current studies is conducted, and recommendations for the environmental performance improvement of printed concrete are produced. The review showed that there are few studies on the LCA of concrete for 3D printing and that the concrete employed for this purpose generally uses large volume fractions of Portland cement in order to achieve proper rheology. New studies, however, demonstrate that supplementary cementitious materials, recycled wastes, and alternative matrices can be applied to reduce life cycle environmental impacts. Studies also show that the environmental performance of the printed structures can be improved through functional hybridization, structural optimization, and increasing the energy efficiency of the printing systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
@@ -124,8 +98,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "84 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ribe_rang_bran_figu.2026.INVT3CP/">Improving Natural Ventilation Through 3D Concrete Printing</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
@@ -154,7 +128,7 @@ tags:
       <li><a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b> Meryem</a>, <a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yaba_ozer.2025.EAUTR3CPoSFG/">Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries</a></li>
       <li><a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/li_dianmo"><b>Li</b> Dianmo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_nere_li_zhan.2024.BACP3PC/">Biochar-Augmented Climate-Positive 3D Printable Concrete</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
-      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
+      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b> Mette</a>, <a href="../../../author/tamke_martin"><b>Tamke</b> Martin</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../thom_tamk_ross_chiu.2024.SC/">Sustainable Construction:<br/>Additive Manufacturing in a Circular Design Framework</a></li>
       <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../amin_mema.2024.NaESoR3WFwLC/">Numerical and Experimental Study on Reinforced 3DCP Walls Filled with Lightweight Concrete</a></li>
@@ -211,4 +185,33 @@ tags:
       <li><a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../marc_ferr.2022.ANNaFLAtCRftSoP/">Artificial Neural Networks and Fuzzy Logic Applied to Concrete Rheology for the Study of Printability</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../raza_zhon.2022.ASRfAMUGiCI/">A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tino_mend_fern_cald.2022.LCAaESoCMf3CP,
+      author            = "Matheus Pimentel Tinoco and Érica Martinho de Mendonça and Letízia Ikeda Castrillon Fernandez and Lucas Rosse Caldas and Oscar Aurelio Mendoza Reales and Romildo Dias Toledo Filho",
+      title             = "Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing: A Systematic Literature Review",
+      doi               = "10.1016/j.jobe.2022.104456",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "52",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Tinoco, É. M. de Mendonça, L. I. C. Fernandez, L. R. Caldas, O. A. M. Reales and R. D. T. Filho, “Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing: A Systematic Literature Review”, <i>Journal of Building Engineering</i>, vol. 52, 2022, doi: 10.1016/j.jobe.2022.104456.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tinoco, Matheus Pimentel, Érica Martinho de Mendonça, Letízia Ikeda Castrillon Fernandez, Lucas Rosse Caldas, Oscar Aurelio Mendoza Reales, and Romildo Dias Toledo Filho. “Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing: A Systematic Literature Review”. <i>Journal of Building Engineering</i> 52 (2022). https://doi.org/10.1016/j.jobe.2022.104456.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

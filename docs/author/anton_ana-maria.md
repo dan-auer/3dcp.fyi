@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Anton Ana-Maria 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../huan_anto_dill_xu.2025.LI3CPCSS/">Lamella-Inspired 3D Concrete Printed Column-Slab System:<br/>Balancing Act for Productivity and Sustainability</a></li>
   <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../anto_skev_bisc_reit.2024.CSIf3CP/">Column-Slab Interfaces for 3D Concrete Printing:<br/>Design, Fabrication and Assembly Strategies</a></li>
   <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../anto_dill.2024.TaS3CPA/">Towards a Sustainable 3D‐Concrete‐Printed Architecture:<br/>Assemblies, Detailing and Ornamentation</a></li>

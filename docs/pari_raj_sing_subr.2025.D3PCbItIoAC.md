@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Spandana Paritala, Shubham Raj, Prashant Singh, Kolluru Subramaniam
+    - footer
+title: Paritala Spandana, Raj Shubham, Singh Prashant, Subramaniam Kolluru
 description:
 tags:
  - aggregate
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1617/s11527-025-02782-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02782-y</a>
+#Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02782-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02782-y" target="_blank">10.1617/s11527-025-02782-y</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paritala_spandana"><b>Paritala</b>&nbsp;Spandana</a></span>, <a href="../../../author/raj_shubham"><b>Raj</b>&nbsp;Shubham</a></span>, <a href="../../../author/singh_r_prashant"><b>Singh</b>&nbsp;Prashant</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a> <a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>
-,     <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>
-,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#influence`](keyword/influence)
-    [`#integration`](keyword/integration)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Designing%203D%20Printable%20Concrete%20by%20Integrating%20the%20Influence%20of%20Aggregate%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017576279&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414595007" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02782-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02782-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study systematically investigates the effects of aggregate type, aggregate content, and paste rheology on the printability of concrete mixtures. The intricate relationship between printability, paste rheology, and excess paste content in concrete mixtures is investigated by incorporating three different types of aggregate. Concrete mixtures with higher yield stress paste demand greater amounts of excess paste to maintain the fluidity required for printability, thereby limiting the aggregate content. The binder content required to form the paste for filling voids between aggregate particles and coating their surface is determined by the packing density and the specific surface area of the aggregate. Interestingly, the study reveals that despite having higher packing density, if the aggregate type is characterized by high fine content and low sphericity, the mortar mixtures are printable only at very low aggregate content and require higher excess paste content. Aggregates with irregular shapes and large surface areas demand more paste to ensure flowability, overcome friction, and provide adequate coating, thereby affecting the overall printability of the mixture. Although a linear relationship between paste yield stress and excess paste content is observed in printable concrete mixtures, the relationship is found to vary with the aggregate type. A unique linear relationship is found between the yield stress of the paste and the ratio of paste volume fraction to the surface area of the aggregate normalized by the square of sphericity. This relationship is systematically validated across mixtures with multiple aggregate types, resulting in guidelines for proportioning the printable concrete mixtures. The paste requirement in printable concrete mixtures is determined by the yield stress of the paste and aggregate characteristics, including surface area and shape.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
@@ -111,7 +90,37 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pari_raj_sing_subr.2025.D3PCbItIoAC,
+      author            = "Spandana Paritala and Shubham Raj and Prashant R. Singh and Kolluru V. L. Subramaniam",
+      title             = "Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics",
+      doi               = "10.1617/s11527-025-02782-y",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Paritala, S. Raj, P. R. Singh and K. V. L. Subramaniam, “Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics”, <i>Materials and Structures</i>, vol. 58, no. 8, 2025, doi: 10.1617/s11527-025-02782-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Paritala, Spandana, Shubham Raj, Prashant R. Singh, and Kolluru V. L. Subramaniam. “Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics”. <i>Materials and Structures</i> 58, no. 8 (2025). https://doi.org/10.1617/s11527-025-02782-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

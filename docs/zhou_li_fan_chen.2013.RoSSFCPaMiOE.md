@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangming Zhou, Zongjin Li, Mizi Fan, Huapeng Chen
+    - footer
+title: Zhou Xiangming, Li Zongjin, Fan Mizi, Chen Huapeng
 description:
 tags:
  - cement
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://bura.brunel.ac.uk/bitstream/2438/9075/2/Fulltext.pdf) Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion ([2013-01](date/2013/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2013.01.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2013.01.004</a>
+#Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion ([2013-01](date/2013/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://bura.brunel.ac.uk/bitstream/2438/9075/2/Fulltext.pdf) <a href="https://doi.org/10.1016/j.cemconcomp.2013.01.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2013.01.004" target="_blank">10.1016/j.cemconcomp.2013.01.004</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7977-0718" title="ORCID: 0000-0001-7977-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_xiangming"><b>Zhou</b>&nbsp;Xiangming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zongjin"><b>Li</b>&nbsp;Zongjin</a></span>, <a href="../../../author/fan_mizi"><b>Fan</b>&nbsp;Mizi</a></span>, <a href="../../../author/chen_huapeng"><b>Chen</b>&nbsp;Huapeng</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 37, pp. 304-311
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a> <a href="https://orcid.org/0000-0001-7977-0718" title="ORCID: 0000-0001-7977-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>
-,     <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 37, pp. 304-311
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#extrusion`](keyword/extrusion)
-    [`#fresh`](keyword/fresh)
-    [`#mortar`](keyword/mortar)
-    [`#nozzle`](keyword/nozzle)
-    [`#paste`](keyword/paste)
-    [`#rheology`](keyword/rheology)
-    [`#solid`](keyword/solid)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20of%20Semi-Solid%20Fresh%20Cement-Pastes%20and%20Mortars%20in%20Orifice-Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84874665599&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,20 +38,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2076030564" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2013.01.004" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2013.01.004?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Short fiber-reinforced semi-solid fresh cement pastes and mortars, tailored for extrusion, have much lower water-to-binder ratio and higher viscosity than normal cement pastes or mortars. The rheology of these pastes or mortars cannot be characterized by traditional rheology test methods suitable for normal fresh cement pastes or mortars with much greater water-to-binder ratio and lower viscosity. In this paper, orifice extrusion is employed to calibrate rheology of the semi-solid fresh cement mortar. An analytical model is developed for orifice extrusion of semi-solid pastes and mortars obeying a rigid-viscoplastic constitutive relationship, von-Mises yield criterion and the associated flow rule. Orifice extrusion results are interpreted using the analytical model and the established experiment data interpretation method, and the associated rheological parameters are derived for the semi-solid fresh cement mortar. This study provides a simple analytical model, together with experiment and data interpretation methods, for characterizing the complex intrinsic rheological behavior of semi-solid fresh cement pastes or mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../si_khan_mcna.2025.ACRoRDaPPi3CP/">A Comprehensive Review of Rheological Dynamics and Process Parameters in 3D Concrete Printing</a></li>
       <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC/">A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq.2025.3CPbEaFD/">3D Concrete Printing by Extrusion and Filament-Deposition</a></li>
@@ -101,4 +79,34 @@ tags:
       <li><a href="../../../author/villacis_n"><b>Villacis</b> N.</a>, <a href="../../../author/gualavisi_m"><b>Gualavisi</b> M.</a>, <a href="../../../author/narvaez-munoz_christian"><b>Narváez-Muñoz</b> Christian</a>, <a href="../../../author/carrion_l"><b>Carrión</b> L.</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../vill_gual_narv_carr.2017.AMoaRCCBCM/">Additive Manufacturing of a Rheological Characterized Cement-Based Composite Material</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2015/08">(2015-08)</a><br><a href="../../../zhou_li.2015.MCBMaBPvE/">Manufacturing Cement-Based Materials and Building Products via Extrusion:<br/>From Laboratory to Factory</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_li_fan_chen.2013.RoSSFCPaMiOE,
+      author            = "Xiangming Zhou and Zongjin Li and Mizi Fan and Huapeng Chen",
+      title             = "Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion",
+      doi               = "10.1016/j.cemconcomp.2013.01.004",
+      year              = "2013",
+      journal           = "Cement and Concrete Composites",
+      volume            = "37",
+      pages             = "304--311",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Zhou, Z. Li, M. Fan and H. Chen, “Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion”, <i>Cement and Concrete Composites</i>, vol. 37, pp. 304–311, 2013, doi: 10.1016/j.cemconcomp.2013.01.004.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Xiangming, Zongjin Li, Mizi Fan, and Huapeng Chen. “Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion”. <i>Cement and Concrete Composites</i> 37 (2013): 304–11. https://doi.org/10.1016/j.cemconcomp.2013.01.004.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

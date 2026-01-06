@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Matthäus Carla 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../dahl_hech_matt_fott.2022.3CP/">3D Concrete Printing:<br/>Graded Concrete-Extrusion</a></li>
   <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/leithner_felicitas"><b>Leithner</b> Felicitas</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../brie_koll_leit_matt.2022.TOoAMLCWEwICStSaM/">Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements</a></li>
   <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/atanasova_lidia"><b>Atanasova</b> Lidia</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../diel_lach_reck_atan.2022.MAM/">Mobile Additive Manufacturing:<br/>A Case Study of Clay Formwork for Bespoke In-Situ Concrete Construction</a></li>

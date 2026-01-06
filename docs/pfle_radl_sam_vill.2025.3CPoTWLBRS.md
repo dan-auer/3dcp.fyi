@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marc-Patrick Pfleger, Elisabeth Radl, Nina Sam, Markus Vill
+    - footer
+title: Pfleger Marc-Patrick, Radl Elisabeth, Sam Nina, Vill Markus
 description:
 tags:
  - bearing
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures ([2025-10](date/2025/10))
-<a href="https://doi.org/10.2749/ghent.2025.2518" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2749/ghent.2025.2518</a>
+#3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/ghent.2025.2518" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/ghent.2025.2518" target="_blank">10.2749/ghent.2025.2518</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b>&nbsp;Marc-Patrick</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/radl_elisabeth"><b>Radl</b>&nbsp;Elisabeth</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-8419-2974" title="ORCID: 0009-0004-8419-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sam_nina"><b>Sam</b>&nbsp;Nina</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vill_markus"><b>Vill</b>&nbsp;Markus</a></span><br>
+Contribution - Proceedings of the 2025 IABSE Congress, pp. 2518-2526
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a> <a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a> <a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sam_nina"><b>Sam</b> Nina</a> <a href="https://orcid.org/0009-0004-8419-2974" title="ORCID: 0009-0004-8419-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2025 IABSE Congress, pp. 2518-2526
-
-:aca-blank:{ .lg .middle}
-    [`#bearing`](keyword/bearing)
-    [`#concrete`](keyword/concrete)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-    [`#thin`](keyword/thin)
-
-
--------------------------
+<a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20of%20Thin-Walled%20Load-Bearing%20Reinforced%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,24 +37,50 @@ tags:
 <a href="https://inciteful.xyz/p/W4415292726" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2749/ghent.2025.2518" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2749/ghent.2025.2518?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the feasibility of 3D printing thin-walled two-dimensional concrete structures such as trusses, taking into account the challenge of integrating steel reinforcement. Based on preliminary tests, a series of truss-like thin-walled bending members are printed and loaded in three-point bending tests to failure. By analyzing the loading and failure mechanisms, conclusions can be drawn about the material behavior and the suitability of the reinforcement strategy. The recorded data is compared to the FEA done in advance to optimize the layout of the integrated rebars and component design models. Accordingly, these findings allow both the cross-section design and the reinforcement strategy to be optimized in further test series.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../pfle_sam_radl_vill.2024.DDDPaPoSOCGwITU3P/">Data-Driven Design-Process and Production of Stress-Optimized Concrete Girders with Integrated Tendons Using 3D Printing</a></li>
       <li><a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/karolyi_juliian"><b>Karolyi</b> Juliian</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../radl_pfle_karo_vill.2024.SDaAMTf3PC/">Specimen Design and Advanced Material-Testing for 3D Printing Concretes</a></li>
       <li><a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_yang_wang_zhan.2024.FPotISTR3PCB/">Flexural Performance of the Integrated Steel-Truss-Reinforced 3D Printed Concrete Beams:<br/>Experimental and Numerical Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pfle_radl_sam_vill.2025.3CPoTWLBRS,
+      author            = "Marc-Patrick Pfleger and Elisabeth Radl and Nina Sam and Markus Vill",
+      title             = "3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures",
+      doi               = "10.2749/ghent.2025.2518",
+      year              = "2025",
+      pages             = "2518--2526",
+      booktitle         = "Proceedings of the 2025 IABSE Congress: The Essence of Structural Engineering for Society",
+      editor            = "International Association for Bridge and Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M.-P. Pfleger, E. Radl, N. Sam and M. Vill, “3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures”, in <i>Proceedings of the 2025 IABSE Congress: The Essence of Structural Engineering for Society</i>,  2025, pp. 2518–2526. doi: 10.2749/ghent.2025.2518.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pfleger, Marc-Patrick, Elisabeth Radl, Nina Sam, and Markus Vill. “3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures”. In <i>Proceedings of the 2025 IABSE Congress: The Essence of Structural Engineering for Society</i>, edited by International Association for Bridge and Structural Engineering, 2518–26, 2025. https://doi.org/10.2749/ghent.2025.2518.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

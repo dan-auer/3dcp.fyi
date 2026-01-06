@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Siavash Khajavi, Müge Tetik, Ashish Mohite, Antti Peltokorpi, Mingyang Li, Yiwei Weng, Jan Holmström
+    - footer
+title: Khajavi Siavash, Tetik Müge, Mohite Ashish, Peltokorpi Antti, Li Mingyang, Weng Yiwei, Holmström Jan
 description:
 tags:
  - additive
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/11/9/3865/pdf?version=1619437183) Additive Manufacturing in the Construction Industry:<br/>:aca-blank: The Comparative Competitiveness of 3D Concrete Printing ([2021-04](date/2021/04))
-<a href="https://doi.org/10.3390/app11093865" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app11093865</a>
+#Additive Manufacturing in the Construction Industry&nbsp;([2021-04](date/2021/04))
+<div class="h1-like">The Comparative Competitiveness of 3D Concrete Printing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/11/9/3865/pdf?version=1619437183) <a href="https://doi.org/10.3390/app11093865" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app11093865" target="_blank">10.3390/app11093865</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5166-4021" title="ORCID: 0000-0002-5166-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b>&nbsp;Siavash</a></span>, <a href="../../../author/tetik_muge"><b>Tetik</b>&nbsp;Müge</a></span>, <a href="../../../author/mohite_ashish"><b>Mohite</b>&nbsp;Ashish</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7939-6612" title="ORCID: 0000-0002-7939-6612" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b>&nbsp;Antti</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2596-0337" title="ORCID: 0000-0002-2596-0337" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/holmstrom_jan"><b>Holmström</b>&nbsp;Jan</a></span><br>
+Journal Article - Applied Sciences, Vol. 11, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b> Siavash</a> <a href="https://orcid.org/0000-0002-5166-4021" title="ORCID: 0000-0002-5166-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tetik_muge"><b>Tetik</b> Müge</a>
-,     <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>
-,     <a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b> Antti</a> <a href="https://orcid.org/0000-0002-7939-6612" title="ORCID: 0000-0002-7939-6612" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/holmstrom_jan"><b>Holmström</b> Jan</a> <a href="https://orcid.org/0000-0002-2596-0337" title="ORCID: 0000-0002-2596-0337" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 11, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#comparision`](keyword/comparision)
-    [`#competition`](keyword/competition)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/competition"><button class="btn">#competition</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105623290&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3157831954" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app11093865" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app11093865?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is facing increasing pressure to improve productivity and decrease its environmental impact. Additive manufacturing (AM) technologies, especially three-dimensional concrete printing (3DCP) technology, have provided many benefits for construction. However, holistic comparative studies of the competitiveness of 3DCP and conventional methods, from cost and time perspectives, are lacking. Choosing between the methods is difficult for practitioners. In this study, we investigated the current state of 3DCP in the construction industry using seven distinct scenarios. Our analysis was performed to illustrate the impact of design and supply chain configurations on performance. The results prove the notable competitiveness of 3DCP. In contrast to the conventional construction method, the more complex round design had a positive impact on the cost and process time in 3DCP scenarios. Additionally, we show that on-site 3DCP using a robotic arm was more cost-effective than off-site 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../bhoo_mele_bloc.2018.EASDfCP/">Equilibrium-Aware Shape Design for Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -95,8 +71,9 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "38 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
@@ -135,4 +112,34 @@ tags:
       <li><a href="../../../author/won_daeyoun"><b>Won</b> Daeyoun</a>, <a href="../../../author/hwang_bon-gang"><b>Hwang</b> Bon-Gang</a>, <a href="../../../author/chi_seokho"><b>Chi</b> Seokho</a>, <a href="../../../author/kor_lin_ju"><b>Kor</b> Ju</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../won_hwan_chi_kor.2022.AoTDPTiPHiS/">Adoption of Three-Dimensional Printing Technology in Public Housing in Singapore:<br/>Drivers, Challenges, and Strategies</a></li>
       <li><a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../pras.2022.3CPTCPaFP/">3D Concrete Printing Technology Current Progress and Future Perspective:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khaj_teti_mohi_pelt.2021.AMitCI,
+      author            = "Siavash Haghighat Khajavi and Müge Tetik and Ashish Mohite and Antti Peltokorpi and Mingyang Li and Yiwei Weng and Jan Holmström",
+      title             = "Additive Manufacturing in the Construction Industry: The Comparative Competitiveness of 3D Concrete Printing",
+      doi               = "10.3390/app11093865",
+      year              = "2021",
+      journal           = "Applied Sciences",
+      volume            = "11",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Khajavi, “Additive Manufacturing in the Construction Industry: The Comparative Competitiveness of 3D Concrete Printing”, <i>Applied Sciences</i>, vol. 11, no. 9, 2021, doi: 10.3390/app11093865.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khajavi, Siavash Haghighat, Müge Tetik, Ashish Mohite, Antti Peltokorpi, Mingyang Li, Yiwei Weng, and Jan Holmström. “Additive Manufacturing in the Construction Industry: The Comparative Competitiveness of 3D Concrete Printing”. <i>Applied Sciences</i> 11, no. 9 (2021). https://doi.org/10.3390/app11093865.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

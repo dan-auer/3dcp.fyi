@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vuong Nguyen, Jonathan Tran, Junli Liu, Mien Tran, Yi Xie
+    - footer
+title: Nguyen Vuong, Tran Jonathan, Liu Junli, Tran Mien, Xie Yi
 description:
 tags:
  - concrete
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Extended Finite Element Multi-Scale Modelling for Crack Propagation in 3D Printed Fiber-Reinforced Concrete ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.addma.2024.104019" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104019</a>
+#Extended Finite Element Multi-Scale Modelling for Crack Propagation in 3D Printed Fiber-Reinforced Concrete ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104019" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104019" target="_blank">10.1016/j.addma.2024.104019</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_vuong"><b>van&nbsp;Nguyen</b>&nbsp;Vuong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junli"><b>Liu</b>&nbsp;Junli</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span><br>
+Journal Article - Additive Manufacturing, No. 104019
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> <a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_junli"><b>Liu</b> Junli</a> <a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> <a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104019
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#element`](keyword/element)
-    [`#fiber`](keyword/fiber)
-    [`#finite`](keyword/finite)
-    [`#model`](keyword/model)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#propagation`](keyword/propagation)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/propagation"><button class="btn">#propagation</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extended%20Finite%20Element%20Multi-Scale%20Modelling%20for%20Crack%20Propagation%20in%203D%20Printed%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184745324&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391513921" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104019" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104019?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fracture toughness provides a quantifiable means of evaluating the ability of brittle materials, such as concrete, to withstand crack propagation. This is particularly relevant in the emerging field of 3D concrete printing. In this study, the influence of various pitch angles ranging from 0° to 90° and the number of layers (10 and 15 layers) on the fracture behaviour of the Bouligand beams is numerically investigated. A multi-scale modelling method has been employed to consider the anisotropy of the material caused by the presence of fibres. The model's accuracy has been confirmed by comparing the bending load-deflection curves and failure modes with experimental data. In addition, X-ray micro-computed tomography analysis has been conducted to provide further insight into the slight deviation between the finite element analysis and experimental results. This study reveals that the fracture toughness can be significantly improved by introducing a slight deviation angle (between 5° and 15°) to the helically twisted sequence in the Bouligand architecture. Moreover, as the number of layers increases in 3D-printed fibre-reinforced concrete beams, the crack pattern becomes more intricate, forming a complex spiral pattern prior to failure. The findings from this study may potentially guide the selection of an appropriate range of deviation angles for utilising the Bouligand architecture in 3D concrete printing to achieve desirable fracture toughness.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
@@ -108,8 +82,8 @@ tags:
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD/">A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -123,4 +97,33 @@ tags:
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../rame_raje_sanj_mech.2024.IPTRMf3CPaISP/">In-Process Textile Reinforcement Method for 3D Concrete Printing and Its Structural Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nguy_tran_liu_tran.2024.EFEMSMfCPi3PFRC,
+      author            = "Vuong van Nguyen and Jonathan Phuong Tran and Junli Liu and Mien van Tran and Yi Min Xie",
+      title             = "Extended Finite Element Multi-Scale Modelling for Crack Propagation in 3D Printed Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.addma.2024.104019",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104019",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. van Nguyen, J. P. Tran, J. Liu, M. van Tran and Y. M. Xie, “Extended Finite Element Multi-Scale Modelling for Crack Propagation in 3D Printed Fiber-Reinforced Concrete”, <i>Additive Manufacturing</i>, p. 104019, 2024, doi: 10.1016/j.addma.2024.104019.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nguyen, Vuong van, Jonathan Phuong Tran, Junli Liu, Mien van Tran, and Yi Min Xie. “Extended Finite Element Multi-Scale Modelling for Crack Propagation in 3D Printed Fiber-Reinforced Concrete”. <i>Additive Manufacturing</i>, 2024, 104019. https://doi.org/10.1016/j.addma.2024.104019.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

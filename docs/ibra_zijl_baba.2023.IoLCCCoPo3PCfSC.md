@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kamoru Ibrahim, Gideon Zijl, Adewumi Babafemi
+    - footer
+title: Ibrahim Kamoru, Zijl Gideon, Babafemi Adewumi
 description:
 tags:
  - cement
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2023.106186) Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.jobe.2023.106186" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106186</a>
+#Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2023.106186) <a href="https://doi.org/10.1016/j.jobe.2023.106186" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106186" target="_blank">10.1016/j.jobe.2023.106186</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b>&nbsp;Kamoru</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
+Journal Article - Journal of Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a> <a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#influence`](keyword/influence)
-    [`#limestone`](keyword/limestone)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Limestone-Calcined-Clay-Cement%20on%20Properties%20of%203D%20Printed%20Concrete%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150244611&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4322631714" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106186" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106186?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The research on emerging digital construction techniques, particularly the 3D concrete printing of cement-based materials, is imperative owing to the several economic, environmental, and societal benefits it offers over conventional cast-in-place concrete. In this study, limestone calcined clay cement (LC3) was utilised for 3D printed concrete (3DPC) production towards sustainable composite infrastructure by replacing up to 50% of ordinary Portland cement (OPC) with limestone and calcined clay (LC2). The fresh, rheological, and hardened mechanical properties of fibrereinforced 3DPC were investigated. Six different 3DPC mixes were made for these purposes: the control (no LC2), four mixes with 1.0, 0.91, 0.8, and 0.6% superplasticiser (SP) dosages, and the last mix without micro-synthetic polypropylene fibre. Findings revealed that achieving a slump of less than 10 mm and a slump flow between 140 and 160 mm as required by relevant standards (ASTM C1437 & C230/C230 M) is crucial in obtaining an extrudable 3D concrete mixture. A finite flow value and satisfactory rheological properties are achieved in mixes C (with 0.6 SP), D (0.8 SP), and Dadj (0.91 SP) to produce a feasible 3D printable cement-based concrete mixture. Test results validated the promise of LC2 as a partial replacement for OPC in digital concrete depending on the testing orientations of the printed samples. Buildability performance using a gantry-type 3D printer was conducted and the significant orthotropic phenomenon was indicated in the compressive properties of printed samples. The presence of fibres toughened the cylindrical strength perpendicular to the layer-interface-plane and enhanced the bearing load in tension and flexure, thereby making the direction 1 (D1) interfacial flexural/tensile bearing capacity comparable to cast-in-situ 3DPC samples.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
@@ -109,8 +87,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
@@ -153,4 +131,32 @@ tags:
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/mandhari_othman"><b>Mandhari</b> Othman</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../noai_chou_khee_mand.2023.3PoLCCC/">3D Printing of Limestone-Calcined-Clay-Cement:<br/>A Review of Its Potential Implementation in the Construction-Industry</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_jaji_zijl_baba.2023.IoEMOotRaFSPoSBCfDF/">Influence of Effective Micro-Organisms on the Rheology and Fresh State Properties of SCMs-Based Concrete for Digital Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ibra_zijl_baba.2023.IoLCCCoPo3PCfSC,
+      author            = "Kamoru Ademola Ibrahim and Gideon Pieter Adriaan Greeff van Zijl and Adewumi John Babafemi",
+      title             = "Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction",
+      doi               = "10.1016/j.jobe.2023.106186",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. A. Ibrahim, G. P. A. G. van Zijl and A. J. Babafemi, “Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction”, <i>Journal of Building Engineering</i>, 2023, doi: 10.1016/j.jobe.2023.106186.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ibrahim, Kamoru Ademola, Gideon Pieter Adriaan Greeff van Zijl, and Adewumi John Babafemi. “Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction”. <i>Journal of Building Engineering</i>, 2023. https://doi.org/10.1016/j.jobe.2023.106186.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

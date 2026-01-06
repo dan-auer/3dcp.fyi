@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wen Xu, Dengjie Jiang, Qian Zhao, Linbing Wang
+    - footer
+title: Xu Wen, Jiang Dengjie, Zhao Qian, Wang Linbing
 description:
 tags:
  - carbon
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03589) Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete:<br/>:aca-blank: Characterized by Fluidity and Consistency ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03589" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03589</a>
+#Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Characterized by Fluidity and Consistency</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03589) <a href="https://doi.org/10.1016/j.cscm.2024.e03589" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03589" target="_blank">10.1016/j.cscm.2024.e03589</a>
 
--------------------------
+<a href="../../../author/xu_wen"><b>Xu</b>&nbsp;Wen</a></span>, <a href="../../../author/jiang_dengjie"><b>Jiang</b>&nbsp;Dengjie</a></span>, <a href="../../../author/zhao_qian"><b>Zhao</b>&nbsp;Qian</a></span>, <a href="../../../author/wang_linbing"><b>Wang</b>&nbsp;Linbing</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e03589
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_wen"><b>Xu</b> Wen</a>
-,     <a href="../../../author/jiang_dengjie"><b>Jiang</b> Dengjie</a>
-,     <a href="../../../author/zhao_qian"><b>Zhao</b> Qian</a>
-,     <a href="../../../author/wang_linbing"><b>Wang</b> Linbing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e03589
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#character`](keyword/character)
-    [`#concrete`](keyword/concrete)
-    [`#consistency`](keyword/consistency)
-    [`#fiber`](keyword/fiber)
-    [`#fluid`](keyword/fluid)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/consistency"><button class="btn">#consistency</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Printability%20of%203D%20Printing%20Carbon-Fiber-Reinforced%20Eco-Friendly%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199944995&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401102898" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03589" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03589?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Carbon fibers have often been added to concrete as reinforcement. Eco-friendly concrete with industrial by-products has been widely studied and applied as green building materials. Studying the workability and printability of eco-friendly concrete with carbon fibers is worthwhile. The workability and printability of eco-friendly concrete are dominating factors that ensure that printing can be carried out smoothly. This study uses a combination of experiments and numerical simulations to study the printing performance of carbon fiber-reinforced eco-friendly concrete (CFREFC). The workability and printability of 9 mixes of 3D printing CFREFC under various combinations of different water-binder (w/b) ratio levels and superplasticizer (SP) dosages were tested. Two methods, namely the consistency and fluidity tests, were used to characterize the printability. After consistency and mortar fluidity tests, the 9 mixtures were printed to get the printing performance. Finally, the relationship between the workability and printability of 3D printing CFREFC was established. The condition numbered M7 (w/b=0.4, SP=0.5) in the selected experimental group was used as the source of its simulation parameter. The result shows that it is feasible to characterize printability using workability, i.e., consistency and fluidity, which increase with the increase of w/b and SP dosage. Under the printing parameters of the HC1008 printer were determined, i.e., 20 mm of nozzle size, 50 mm/s of printing speed, 30 rpm of material extrusion speed, and 14 mm layer height, the fresh CFREFC was not suitable for 3DP application when its consistency is less than 48.99 mm and more than 81.96 mm, or when its fluidity is less than 166.72 mm and more than 200.93 mm. When the consistency is from 56.34 to 65.61 mm, and the fluidity is from 172.18 to 183.30 mm, the printability of CFREFC is the best under the same printing parameters. The simulation results indicated that with the increased number of printing layers, the bottom of the printed model would be deformed by the gradual increase in pressure, and a specific height loss would occur, which was consistent with the experimental results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -96,11 +74,40 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS/">Study on Mechanical Properties and Environmental Benefits of 3D Printed Lean Magnesium Ore Concrete Filled Columns Based on Three-Dimensional Meso-Structure</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b> Pooneh</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../mous_beng_mous_mahd.2025.ILBSPo3PCUANN/">Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network:<br/>Experimental and Modeling Study</a></li>
       <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../seo_lee.2024.IoCAoBaDoCfAM/">Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_jian_zhao_wang.2024.SoPo3PCFREFC,
+      author            = "Wen Xu and Dengjie Jiang and Qian Zhao and Linbing Wang",
+      title             = "Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete: Characterized by Fluidity and Consistency",
+      doi               = "10.1016/j.cscm.2024.e03589",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e03589",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Xu, D. Jiang, Q. Zhao and L. Wang, “Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete: Characterized by Fluidity and Consistency”, <i>Case Studies in Construction Materials</i>, p. e03589, 2024, doi: 10.1016/j.cscm.2024.e03589.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Wen, Dengjie Jiang, Qian Zhao, and Linbing Wang. “Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete: Characterized by Fluidity and Consistency”. <i>Case Studies in Construction Materials</i>, 2024, e03589. https://doi.org/10.1016/j.cscm.2024.e03589.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

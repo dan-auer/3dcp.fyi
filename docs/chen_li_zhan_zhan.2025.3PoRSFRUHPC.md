@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meng Chen, Jiahui Li, Tong Zhang, Mingzhong Zhang
+    - footer
+title: Chen Meng, Li Jiahui, Zhang Tong, Zhang Mingzhong
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printability of Recycled Steel-Fiber-Reinforced Ultra-High-Performance Concrete ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.139877" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.139877</a>
+#3D Printability of Recycled Steel-Fiber-Reinforced Ultra-High-Performance Concrete ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.139877" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.139877" target="_blank">10.1016/j.conbuildmat.2025.139877</a>
 
--------------------------
+<a href="../../../author/chen_meng"><b>Chen</b>&nbsp;Meng</a></span>, <a href="../../../author/li_jiahui"><b>Li</b>&nbsp;Jiahui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tong"><b>Zhang</b>&nbsp;Tong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mingzhong"><b>Zhang</b>&nbsp;Mingzhong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 462, No. 139877
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>
-,     <a href="../../../author/li_jiahui"><b>Li</b> Jiahui</a>
-,     <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 462, No. 139877
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printability%20of%20Recycled%20Steel-Fiber-Reinforced%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214796127&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406347600" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.139877" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.139877?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing ultra-high performance concrete (UHPC) can be used for additive construction of structural components, which significantly reduces the reliance on steel reinforcement. This study investigates the effects of water-to-binder (w/b) ratios, recycled steel fibre (RSF) volume fraction and thickener content on the rheological behaviour, flowability, extrudability, buildability and shape retention ability of 3D printing RSF-reinforced UHPC. The results show that decreasing the w/b ratio, RSF incorporation and thickener incorporation increase the static and dynamic yield stress of the mixture. The dynamic yield stress of the mixture increases by 27.37 % when the volume fraction of RSF is increased from 1 % to 3 % at the same w/b ratio and thickener content. The addition of thickener increases the extrudability and buildability of 3D printing RSF-reinforced UHPC, which is mainly related to the adsorption of the thickener on the surface of the cementitious material particles and the introduction of bridging forces in the system of neighbouring cementitious material particles. The shape retention ability of 3D printing RSF-reinforced UHPC can be improved by increasing RSF volume fraction and thickener content. In addition, the mixture with a w/b ratio of 0.16, RSF volume fraction of 3 % and thickener content of 0.1 % shows the best printability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
@@ -102,12 +80,42 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zhan_ren_dai_tao.2024.APARCAf3PCBM/">A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials:<br/>Coupling of Temperature and Viscosity-Modifiers</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_li_zhan_zhan.2025.3PoRSFRUHPC,
+      author            = "Meng Chen and Jiahui Li and Tong Zhang and Mingzhong Zhang",
+      title             = "3D Printability of Recycled Steel-Fiber-Reinforced Ultra-High-Performance Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.139877",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "462",
+      pages             = "139877",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chen, J. Li, T. Zhang and M. Zhang, “3D Printability of Recycled Steel-Fiber-Reinforced Ultra-High-Performance Concrete”, <i>Construction and Building Materials</i>, vol. 462, p. 139877, 2025, doi: 10.1016/j.conbuildmat.2025.139877.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Meng, Jiahui Li, Tong Zhang, and Mingzhong Zhang. “3D Printability of Recycled Steel-Fiber-Reinforced Ultra-High-Performance Concrete”. <i>Construction and Building Materials</i> 462 (2025): 139877. https://doi.org/10.1016/j.conbuildmat.2025.139877.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

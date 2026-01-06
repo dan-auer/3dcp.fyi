@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qian Wan, Li Wang, Guowei Ma
+    - footer
+title: Wan Qian, Wang Li, Ma Guowei
 description:
 tags:
  - adaption
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.autcon.2022.104471" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104471</a>
+#Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104471" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104471" target="_blank">10.1016/j.autcon.2022.104471</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_qian"><b>Wan</b>&nbsp;Qian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Automation in Construction, Vol. 142
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wan_qian"><b>Wan</b> Qian</a> <a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 142, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Continuous%20and%20Adaptable%20Printing%20Path%20Based%20on%20Transfinite%20Mapping%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134814605&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285992120" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104471" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104471?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing is an advanced and promising construction method that shows great development potential in the field of construction engineering owing to its highly flexible and intelligent characteristics. The printing path design that is directly related to the 3D printing process is usually limited by the time-dependent rheological properties of concrete composites and the nozzle opening of the print head. Improper path design is liable to disruption, interfacial defects, self-intersection, and even a certain amount of unfilled areas. This paper proposes a flexible and adaptive transfinite mapping method for the path planning of 3D concrete printing by properly mapping a predetermined continuous-type path to the digital model to be printed. This method combines the morphological features of the digital model and path types to achieve a highquality and high-continuity adaptive printing path. Meanwhile, the relationship between the extrusion process parameters of cementitious composites is experimentally measured and subsequently incorporated into the path design program to realize zero-gap printing by in-process controlling the extrusion parameters. The advantages of this method in adapting to the diversity of morphological features and path types are verified by a set of freeform structures, and the applicability is experimentally validated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../gaud_duba_bouy_mall.2019.LSAMoUHPCoIFfTSP/">Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -78,8 +59,9 @@ tags:
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
@@ -102,4 +84,33 @@ tags:
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../wan_yang_wang_ma.2023.GCPPf3CPMBS/">Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wan_wang_ma.2022.CaAPPBoTMf3CP,
+      author            = "Qian Wan and Li Wang and Guowei Ma",
+      title             = "Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing",
+      doi               = "10.1016/j.autcon.2022.104471",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "142",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Wan, L. Wang and G. Ma, “Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing”, <i>Automation in Construction</i>, vol. 142, 2022, doi: 10.1016/j.autcon.2022.104471.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wan, Qian, Li Wang, and Guowei Ma. “Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing”. <i>Automation in Construction</i> 142 (2022). https://doi.org/10.1016/j.autcon.2022.104471.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

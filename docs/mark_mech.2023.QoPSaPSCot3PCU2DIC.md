@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Slava Markin, Viktor Mechtcherine
+    - footer
+title: Markin Slava, Mechtcherine Viktor
 description:
 tags:
  - concrete
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105050" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105050</a>
+#Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.105050" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105050" target="_blank">10.1016/j.cemconcomp.2023.105050</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/markin_viacheslav_slava"><b>Markin</b>&nbsp;Slava</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 139
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> <a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 139, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#correlation`](keyword/correlation)
-    [`#crack`](keyword/crack)
-    [`#digital`](keyword/digital)
-    [`#image`](keyword/image)
-    [`#plastic`](keyword/plastic)
-    [`#printability`](keyword/printability)
-    [`#quantification`](keyword/quantification)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/quantification"><button class="btn">#quantification</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantification%20of%20Plastic%20Shrinkage%20and%20Plastic%20Shrinkage%20Cracking%20of%20the%203D%20Printable%20Concretes%20Using%202D%20Digital%20Image%20Correlation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152142031&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4361264204" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105050" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105050?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There is great potential for 3D concrete printing to considerably transform the construction industry. An important step toward the transfer of this new technology into practical application is to gain the ability to control and mitigate plastic shrinkage of printed elements as well as related cracking. These phenomena occur at a very early age after the deposition of concrete due to the absence of formwork in the first place. The cracks can negatively influence durability, serviceability, and aesthetics of the printed structures. In this context, it is an important task to quantify plastic shrinkage of printed concrete and to capture the formation and propagation of cracks. The research at hand presents an easy-to-use, inexpensive experimental setup for quantifying the magnitude of plastic shrinkage and an accurate method for assessing plastic shrinkage cracking by means of 2D digital image correlation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b> Sadegh</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/kruger_markus"><b>Krüger</b> Markus</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ghou_butl_krug_mech.2021.MtDoCPiF3PCE/">Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
@@ -86,8 +65,8 @@ tags:
       <li><a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../yeon.2019.STDoTDPEMCM/">Short-Term Deformability of Three-Dimensional Printable EVA-Modified Cementitious Mortars</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
       <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
@@ -118,4 +97,33 @@ tags:
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../mark_mech.2024.TEoLCSoPSCo3PCE/">The Effect of Layer Cross-Section on Plastic Shrinkage Cracking of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a>, <a href="../../../author/higgins_j"><b>Higgins</b> J.</a>, <a href="../../../author/aitken_w_m"><b>Aitken</b> M.</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sury_higg_aitk_tamb.2023.DiPCGBf3PA/">Developments in Portland Cement/GGBS Binders for 3D Printing Applications:<br/>Material-Calibration and Structural Testing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mark_mech.2023.QoPSaPSCot3PCU2DIC,
+      author            = "Slava Viacheslav Markin and Viktor Mechtcherine",
+      title             = "Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation",
+      doi               = "10.1016/j.cemconcomp.2023.105050",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "139",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. V. Markin  and V. Mechtcherine, “Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation”, <i>Cement and Concrete Composites</i>, vol. 139, 2023, doi: 10.1016/j.cemconcomp.2023.105050.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Markin, Slava Viacheslav, and Viktor Mechtcherine. “Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation”. <i>Cement and Concrete Composites</i> 139 (2023). https://doi.org/10.1016/j.cemconcomp.2023.105050.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

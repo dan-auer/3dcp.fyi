@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Tay, Sean Lim, Seng Phua, Ming Tan, Bandar Fadhel, Issam Amr
+    - footer
+title: Tay Yi, Lim Sean, Phua Seng, Tan Ming, Fadhel Bandar, Amr Issam
 description:
 tags:
  - carbon
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2023.2277347?needAccess=true) Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1080/17452759.2023.2277347" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2023.2277347</a>
+#Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing ([2023-10](date/2023/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2023.2277347?needAccess=true) <a href="https://doi.org/10.1080/17452759.2023.2277347" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2023.2277347" target="_blank">10.1080/17452759.2023.2277347</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_gip_sean"><b>Lim</b>&nbsp;Sean</a></span>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b>&nbsp;Seng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7007-5313" title="ORCID: 0000-0001-7007-5313" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fadhel_a_bandar"><b>Fadhel</b>&nbsp;Bandar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3976-932X" title="ORCID: 0000-0003-3976-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amr_t_issam"><b>Amr</b>&nbsp;Issam</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 18, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> <a href="https://orcid.org/0000-0003-4191-619X" title="ORCID: 0000-0003-4191-619X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> <a href="https://orcid.org/0000-0001-7007-5313" title="ORCID: 0000-0001-7007-5313" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> <a href="https://orcid.org/0000-0003-3976-932X" title="ORCID: 0000-0003-3976-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 18, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#exploration`](keyword/exploration)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#sequestration`](keyword/sequestration)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sequestration"><button class="btn">#sequestration</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Carbon-Sequestration-Potential%20Through%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175962610&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388494562" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2023.2277347" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2023.2277347?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As global CO2 concentrations rise, there is a pressing need for sustainable alternatives in the construction sector as many countries are striving to attain net carbon neutrality. Integrating carbon capture and sequestration (CCS) technologies directly into 3D concrete printing offer a promising solution to reduce the carbon footprint in the construction sector. This paper investigates a novel printing technique involving the purging of pressurised CO2 gas was demonstrated and the various process parameters were evaluated for its effectiveness in promoting carbon sequestration. Results show that the carbon-sequestrated sample has a 15% increase in carbon uptake as compared to the control sample. The method can be complementary to existing sequestration technologies, facilitating large-scale carbon sequestration without chamber size limitations. Nevertheless, further research and development are necessary to optimise the various printing parameters and achieve a more balanced and efficient integration of carbon capture and sequestration technologies with 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
@@ -78,8 +56,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/ahamed_mn_n"><b>Ahamed</b> N.</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../tay_pand_ting_aham.2020.3PfSC/">3D Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../wang_xiao_sun_zhan.2023.MPo3PMCbC/">Mechanical Properties of 3D Printed Mortar Cured by CO2</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/fahim_abdullah"><b>Fahim</b> Abdullah</a>, <a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a>, <a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../fahi_bukh_khan.2025.AMoCTCSwCN/">Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals</a></li>
@@ -98,4 +76,34 @@ tags:
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a>, <a href="../../../author/majewska_julia"><b>Majewska</b> Julia</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../skib_szew_maje_sibe.2024.TEoILAoSDi3PBE/">The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fucheng"><b>Wang</b> Fucheng</a>, <a href="../../../author/li_rong"><b>Li</b> Rong</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wang_wang_li_wang.2024.ICMo3PFRCCaIEV/">Interfacial Constitutive Model of 3D Printed Fiber-Reinforced Concrete Composites and Its Experimental Validation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tay_lim_phua_tan.2023.ECSPT3CP,
+      author            = "Yi Wei Daniel Tay and Sean Gip Lim and Seng Liang Bryan Phua and Ming Jen Tan and Bandar A. Fadhel and Issam T. Amr",
+      title             = "Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing",
+      doi               = "10.1080/17452759.2023.2277347",
+      year              = "2023",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "18",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. W. D. Tay, S. G. Lim, S. L. B. Phua, M. J. Tan, B. A. Fadhel and I. T. Amr, “Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing”, <i>Virtual and Physical Prototyping</i>, vol. 18, no. 1, 2023, doi: 10.1080/17452759.2023.2277347.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tay, Yi Wei Daniel, Sean Gip Lim, Seng Liang Bryan Phua, Ming Jen Tan, Bandar A. Fadhel, and Issam T. Amr. “Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing”. <i>Virtual and Physical Prototyping</i> 18, no. 1 (2023). https://doi.org/10.1080/17452759.2023.2277347.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

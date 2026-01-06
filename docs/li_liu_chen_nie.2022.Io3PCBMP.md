@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zihan Li, Huanbao Liu, Xiang Cheng, Ping Nie, Xianhai Yang, Guangming Zheng, Hongxing Su, Wenyu Jin
+    - footer
+title: Li Zihan, Liu Huanbao, Cheng Xiang, Nie Ping, Yang Xianhai, Zheng Guangming, Su Hongxing, Jin Wenyu
 description:
 tags:
  - analysis
@@ -17,37 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2079-6412/12/12/1973/pdf?version=1671179981) Improvement of 3D Printing Cement-Based Material-Process:<br/>:aca-blank: Parameter Experiment and Analysis ([2022-12](date/2022/12))
-<a href="https://doi.org/10.3390/coatings12121973" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/coatings12121973</a>
+#Improvement of 3D Printing Cement-Based Material-Process&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">Parameter Experiment and Analysis</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2079-6412/12/12/1973/pdf?version=1671179981) <a href="https://doi.org/10.3390/coatings12121973" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/coatings12121973" target="_blank">10.3390/coatings12121973</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5936-8422" title="ORCID: 0000-0001-5936-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zihan"><b>Li</b>&nbsp;Zihan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3211-7954" title="ORCID: 0000-0002-3211-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huanbao"><b>Liu</b>&nbsp;Huanbao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3002-7699" title="ORCID: 0000-0002-3002-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_xiang"><b>Cheng</b>&nbsp;Xiang</a></span>, <a href="../../../author/nie_ping"><b>Nie</b>&nbsp;Ping</a></span>, <a href="../../../author/yang_xianhai"><b>Yang</b>&nbsp;Xianhai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7586-970X" title="ORCID: 0000-0002-7586-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zheng_guangming"><b>Zheng</b>&nbsp;Guangming</a></span>, <a href="../../../author/su_hongxing"><b>Su</b>&nbsp;Hongxing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7808-7121" title="ORCID: 0000-0002-7808-7121" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_wenyu"><b>Jin</b>&nbsp;Wenyu</a></span><br>
+Journal Article - Coatings, Vol. 12, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zihan"><b>Li</b> Zihan</a> <a href="https://orcid.org/0000-0001-5936-8422" title="ORCID: 0000-0001-5936-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a> <a href="https://orcid.org/0000-0002-3211-7954" title="ORCID: 0000-0002-3211-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_xiang"><b>Cheng</b> Xiang</a> <a href="https://orcid.org/0000-0002-3002-7699" title="ORCID: 0000-0002-3002-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>
-,     <a href="../../../author/yang_xianhai"><b>Yang</b> Xianhai</a>
-,     <a href="../../../author/zheng_guangming"><b>Zheng</b> Guangming</a> <a href="https://orcid.org/0000-0002-7586-970X" title="ORCID: 0000-0002-7586-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/su_hongxing"><b>Su</b> Hongxing</a>
-,     <a href="../../../author/jin_wenyu"><b>Jin</b> Wenyu</a> <a href="https://orcid.org/0000-0002-7808-7121" title="ORCID: 0000-0002-7808-7121" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Coatings, Vol. 12, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#experiment`](keyword/experiment)
-    [`#improvement`](keyword/improvement)
-    [`#material`](keyword/material)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improvement%20of%203D%20Printing%20Cement-Based%20Material-Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144881961&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313293108" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/coatings12121973" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/coatings12121973?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing concrete is a digital and automating construction technology, which is expected to solve a series of problems existing in the traditional construction industry, such as low automation, high labor intensity, low efficiency and high risk. However, there are still many technical and operational challenges. The purpose of this paper is to provide insights into the effects of process parameters on the geometry and stability of the printed layer. Firstly, a theoretical model is established to analyze the structure of the printed layer under different nozzle speeds, material flow rates and nozzle offset. Secondly, a slump test is carried out to select the optimal ratio suitable for 3D cement printers, and the specimen is printed under various conditions. Finally, based on the obtained parameters, multiple nozzles are used for printing, and a pressure value suitable for each nozzle in the nonlinear path is calculated. The experimental results show that theoretical model can sufficiently verify printing structure in different parameter intervals, and the process parameters (nozzle speed, material flow rate and nozzle offset) can be changed to achieve the best effect of cement-based material forming structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -92,9 +66,39 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/stout_ivy"><b>Stout</b> Ivy</a>, <a href="../../../author/godfrey_grant"><b>Godfrey</b> Grant</a>, <a href="../../../author/dayley_jenna"><b>Dayley</b> Jenna</a>, <a href="../../../author/rodriguez_dexter"><b>Rodriguez</b> Dexter</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../stou_godf_dayl_rodr.2024.CMPaDfAM/">Concrete Mixture Properties and Designs for Additive Manufacturing:<br/>A Review of 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_liu_chen_nie.2022.Io3PCBMP,
+      author            = "Zihan Li and Huanbao Liu and Xiang Cheng and Ping Nie and Xianhai Yang and Guangming Zheng and Hongxing Su and Wenyu Jin",
+      title             = "Improvement of 3D Printing Cement-Based Material-Process: Parameter Experiment and Analysis",
+      doi               = "10.3390/coatings12121973",
+      year              = "2022",
+      journal           = "Coatings",
+      volume            = "12",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, “Improvement of 3D Printing Cement-Based Material-Process: Parameter Experiment and Analysis”, <i>Coatings</i>, vol. 12, no. 12, 2022, doi: 10.3390/coatings12121973.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zihan, Huanbao Liu, Xiang Cheng, Ping Nie, Xianhai Yang, Guangming Zheng, Hongxing Su, and Wenyu Jin. “Improvement of 3D Printing Cement-Based Material-Process: Parameter Experiment and Analysis”. <i>Coatings</i> 12, no. 12 (2022). https://doi.org/10.3390/coatings12121973.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

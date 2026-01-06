@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md Uddin, Junhong Ye, Boyu Deng, Lingzhi Li, Kequan Yu
+    - footer
+title: Uddin Md, Ye Junhong, Deng Boyu, Li Lingzhi, Yu Kequan
 description:
 tags:
  - concrete
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.jobe.2023.106648" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106648</a>
+#Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106648" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106648" target="_blank">10.1016/j.jobe.2023.106648</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uddin_nasir_md"><b>Uddin</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_boyu"><b>Deng</b>&nbsp;Boyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_lingzhi"><b>Li</b>&nbsp;Lingzhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 72
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a> <a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> <a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 72, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interpretable%20Machine%20Learning%20for%20Predicting%20the%20Strength%20of%203D%20Printed%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153869185&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366992530" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106648" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106648?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to provide an effective and accurate machine learning approach to predict the compressive strength (CS) and flexural strength (FS) of 3D printed fiber reinforced concrete (3DP-FRC). Six types of ML models were utilized in this study: random forest (RF), support vector machine (SVM), extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), categorical gradient boosting (Catboost), and natural gradient boosting (NGBoost). The CS and FS data is collected from recent published papers and split into training set and testing set. The hyperparameter optimization techniques are applied to optimize the ML model parameters using a grid search strategy paired with the 5-fold cross-validation. In the testing set, XGBoost, LightGBM, Catboost, and NGBoost achieve high accuracy (R2 = 0.98, 0.98, 0.98, and 0.96, respectively) on CS prediction, which is better than that of RF and SVM (R2 = 0.90 and 0.92, respectively). High accuracy on FS prediction is also obtained in XGBoost, LightGBM, CatBoost, and NGBoost (R2 = 0.94, 0.93, 0.92, and 0.90, respectively). Furthermore, the relative importance of input variables’ contribution to the mechanical performance of 3DP-FRC is disclosed via Shapley additive explanations (SHAP) analysis. The SHAP analysis identifies that water/binder ratio and ordinary Portland cement content are the most influential parameters for CS, while the loading direction and fiber volume fraction are the most significant parameters for FS. The ML models incorporated with SHAP analysis disclose the relationship between the input variables and mechanical performance of 3DP-FRC and could provide valuable information for the performance-based design of the mix proportion of 3DP-FRC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../best_heev_krug_cho.2020.SFLi3PC/">Steel-Fiber Links in 3D Printed Concrete</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -96,8 +73,8 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/albostami_s_asad"><b>Albostami</b> Asad</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/ismael_h_bashar"><b>Ismael</b> Bashar</a>, <a href="../../../author/hamd_kh-s_rwayda"><b>Hamd</b> Rwayda</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../albo_moha_isma_hamd.2025.OSPf3PFRC/">Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete:<br/>Machine Learning-Driven Insights</a></li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/mostazid_ibrahim_md"><b>Mostazid</b> Md</a>, <a href="../../../author/faysal_abdul-motaleb_md"><b>Faysal</b> Md</a>, <a href="../../../author/shi_xinjun"><b>Shi</b> Xinjun</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../uddi_most_fays_shi.2025.DaNSPMf3PGC/">Developing a Novel Strength Predictive Modeling for 3D Printable Geopolymer Concrete:<br/>An Interpretable Data-Driven Approach</a></li>
@@ -123,4 +100,33 @@ tags:
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/javed_faisal_muhammad"><b>Javed</b> Muhammad</a>, <a href="../../../author/ali_mujahid"><b>Ali</b> Mujahid</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../alya_khan_jave_ali.2024.AoMOAiPtCSo3PFRC/">Application of Metaheuristic Optimization Algorithms in Predicting the Compressive Strength of 3D Printed Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{uddi_ye_deng_li.2023.IMLfPtSo3PFRC,
+      author            = "Md Nasir Uddin and Junhong Ye and Boyu Deng and Lingzhi Li and Kequan Yu",
+      title             = "Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.jobe.2023.106648",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "72",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. N. Uddin, J. Ye, B. Deng, L. Li and K. Yu, “Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete”, <i>Journal of Building Engineering</i>, vol. 72, 2023, doi: 10.1016/j.jobe.2023.106648.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Uddin, Md Nasir, Junhong Ye, Boyu Deng, Lingzhi Li, and Kequan Yu. “Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete”. <i>Journal of Building Engineering</i> 72 (2023). https://doi.org/10.1016/j.jobe.2023.106648.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

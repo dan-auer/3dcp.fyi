@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hassan Ahmed, Ilerioluwa Giwa, Daniel Game, Gabriel Arce, Hassan Noorvand, Marwa Hassan, Ali Kazemian
+    - footer
+title: Ahmed Hassan, Giwa Ilerioluwa, Game Daniel, Arce Gabriel, Noorvand Hassan, Hassan Marwa, Kazemian Ali
 description:
 tags:
  - additive
@@ -17,36 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/4/1167/pdf?version=1713607650) Automated Reinforcement During Large-Scale Additive Manufacturing:<br/>:aca-blank: Structural-Assessment of a Dual Approach ([2024-04](date/2024/04))
-<a href="https://doi.org/10.3390/buildings14041167" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14041167</a>
+#Automated Reinforcement During Large-Scale Additive Manufacturing&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">Structural-Assessment of a Dual Approach</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/4/1167/pdf?version=1713607650) <a href="https://doi.org/10.3390/buildings14041167" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14041167" target="_blank">10.3390/buildings14041167</a>
 
--------------------------
+<a href="../../../author/ahmed_hassan"><b>Ahmed</b>&nbsp;Hassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giwa_ilerioluwa"><b>Giwa</b>&nbsp;Ilerioluwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0568-227X" title="ORCID: 0000-0002-0568-227X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/game_e_daniel"><b>Game</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arce_amador_gabriel"><b>Arce</b>&nbsp;Gabriel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noorvand_hassan"><b>Noorvand</b>&nbsp;Hassan</a></span>, <a href="../../../author/hassan_m_marwa"><b>Hassan</b>&nbsp;Marwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 4, No. 1167
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>
-,     <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> <a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a> <a href="https://orcid.org/0000-0002-0568-227X" title="ORCID: 0000-0002-0568-227X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> <a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> <a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hassan_m_marwa"><b>Hassan</b> Marwa</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 4, No. 1167
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#approach`](keyword/approach)
-    [`#assessment`](keyword/assessment)
-    [`#automation`](keyword/automation)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#scale`](keyword/scale)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Reinforcement%20During%20Large-Scale%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191379264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4395003870" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14041167" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14041167?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automated and seamless integration of reinforcement is one of the main unresolved challenges in large-scale additive construction. This study leverages a dual-reinforcement solution consisting of high-dosage steel fiber (up to 2.5% by volume) and short vertical reinforcements as a complementary reinforcement technique for 3D-printed elements. The mechanical performance of the printing material was characterized by measuring the compressive, flexural, and uniaxial tensile strengths of mold-cast specimens. Furthermore, the flexural performance of the plain and fiber-reinforced 3D-printed beams was evaluated in the three main loading directions (X, Y, and Z-directions in-plane). In addition, short vertical threaded reinforcements were inserted into the fiber-reinforced 3D-printed beams tested in the Z-direction. The experimental results revealed the superior flexural performance of the fiber-reinforced beams loaded in the longitudinal directions (X and Y). Moreover, the threaded reinforcement significantly increases the flexural strength and ductility of beams loaded along the interface, compared to the control. Overall, the proposed dual-reinforcement approach, which exhibited notably less porosity compared to the mold-cast counterpart, holds great potential as a reinforcement solution for 3D-printed structures without the need for manual operations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/hebert_marc"><b>Hebert</b> Marc</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ahme_giwa_game_hebe.2022.SSFRf3PEaS/">Studying Steel-Fiber-Reinforcement for 3D Printed Elements and Structures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -121,10 +96,41 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/gopu_vijaya"><b>Gopu</b> Vijaya</a>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../giwa_kaze_gopu_rupn.2024.ACLBAo3PCE/">A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../giwa_demp_fisk_kaze.2024.3PSRCPEfWERC/">3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ahme_giwa_game_arce.2024.ARDLSAM,
+      author            = "Hassan Ahmed and Ilerioluwa Giwa and Daniel E. Game and Gabriel Amador Arce and Hassan Noorvand and Marwa M. Hassan and Ali Kazemian",
+      title             = "Automated Reinforcement During Large-Scale Additive Manufacturing: Structural-Assessment of a Dual Approach",
+      doi               = "10.3390/buildings14041167",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "4",
+      pages             = "1167",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Ahmed, “Automated Reinforcement During Large-Scale Additive Manufacturing: Structural-Assessment of a Dual Approach”, <i>Buildings</i>, vol. 14, no. 4, p. 1167, 2024, doi: 10.3390/buildings14041167.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahmed, Hassan, Ilerioluwa Giwa, Daniel E. Game, Gabriel Amador Arce, Hassan Noorvand, Marwa M. Hassan, and Ali Kazemian. “Automated Reinforcement During Large-Scale Additive Manufacturing: Structural-Assessment of a Dual Approach”. <i>Buildings</i> 14, no. 4 (2024): 1167. https://doi.org/10.3390/buildings14041167.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

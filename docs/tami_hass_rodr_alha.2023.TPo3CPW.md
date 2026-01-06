@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adil Tamimi, Habibelrahman Hassan, Edwin Rodriguez-Ubinas, Haidar Alhaidary, Abraham Mansouri
+    - footer
+title: Tamimi Adil, Hassan Habibelrahman, Rodriguez-Ubinas Edwin, Alhaidary Haidar, Mansouri Abraham
 description:
 tags:
  - calculation
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/13467581.2023.2278467?needAccess=true) Thermal Performance of 3D Concrete Printed Walls:<br/>:aca-blank: Calculated and In-Situ Measured U-Values ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1080/13467581.2023.2278467" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/13467581.2023.2278467</a>
+#Thermal Performance of 3D Concrete Printed Walls&nbsp;([2023-11](date/2023/11))
+<div class="h1-like">Calculated and In-Situ Measured U-Values</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/13467581.2023.2278467?needAccess=true) <a href="https://doi.org/10.1080/13467581.2023.2278467" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/13467581.2023.2278467" target="_blank">10.1080/13467581.2023.2278467</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tamimi_k_adil"><b>al&nbsp;Tamimi</b>&nbsp;Adil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0001-8035" title="ORCID: 0000-0003-0001-8035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hassan_habibelrahman"><b>Hassan</b>&nbsp;Habibelrahman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1453-7883" title="ORCID: 0000-0002-1453-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b>&nbsp;Edwin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3037-3655" title="ORCID: 0000-0002-3037-3655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alhaidary_haidar"><b>Alhaidary</b>&nbsp;Haidar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mansouri_abraham"><b>Mansouri</b>&nbsp;Abraham</a></span><br>
+Journal Article - Journal of Asian Architecture and Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tamimi_k_adil"><b>al Tamimi</b> Adil</a> <a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a> <a href="https://orcid.org/0000-0003-0001-8035" title="ORCID: 0000-0003-0001-8035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a> <a href="https://orcid.org/0000-0002-1453-7883" title="ORCID: 0000-0002-1453-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> <a href="https://orcid.org/0000-0002-3037-3655" title="ORCID: 0000-0002-3037-3655" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> <a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Asian Architecture and Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#calculation`](keyword/calculation)
-    [`#concrete`](keyword/concrete)
-    [`#measurement`](keyword/measurement)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#situ`](keyword/situ)
-    [`#temperature`](keyword/temperature)
-    [`#value`](keyword/value)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/calculation"><button class="btn">#calculation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/value"><button class="btn">#value</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Performance%20of%203D%20Concrete%20Printed%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85177581946&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388414632" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/13467581.2023.2278467" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/13467581.2023.2278467?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Buildings with excellent thermal performance offer numerous benefits, including reduced energy consumption for climatization, minimized environmental impact, and enhanced comfort for occupants. In regions with extreme temperatures, like the United Arab Emirates (UAE), the importance of thermal efficiency is even more pronounced. Therefore, this study evaluates the thermal performance of two 3D printed structures in the UAE by employing experimental and theoretical analyses of their U-values following ISO 9869:1 and a thermal bridge analysis in accordance with ISO 6781. The investigated 3D printed structures utilized different insulation approaches, which led to valuable conclusions. Uninsulated large cavities in 3D printed walls adversely affect their thermal performance. Filling these cavities with insulating materials could reduce the U-value by up to 60%. Similarly, adding a continuous exterior insulative layer improves the U-value while minimizing thermal bridge risk. Thermal bridges were most problematic at the joints between 3D printed sections, embedded structural elements, and around doors or windows. These insights underscore the significance of thermal optimization and advocate for the adoption of 3D printing in construction to achieve energy conservation and environmental responsibility. Implementing the study’s conclusions can potentially drive the development of more energy-efficient 3D printed buildings.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
@@ -87,8 +64,8 @@ tags:
       <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>, <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA/">Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
@@ -100,4 +77,32 @@ tags:
       <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tami_hass_rodr_alha.2023.TPo3CPW,
+      author            = "Adil K. Al Tamimi and Habibelrahman Hassan and Edwin Rodriguez-Ubinas and Haidar Alhaidary and Abraham Mansouri",
+      title             = "Thermal Performance of 3D Concrete Printed Walls: Calculated and In-Situ Measured U-Values",
+      doi               = "10.1080/13467581.2023.2278467",
+      year              = "2023",
+      journal           = "Journal of Asian Architecture and Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. K. A. Tamimi, H. Hassan, E. Rodriguez-Ubinas, H. Alhaidary and A. Mansouri, “Thermal Performance of 3D Concrete Printed Walls: Calculated and In-Situ Measured U-Values”, <i>Journal of Asian Architecture and Building Engineering</i>, 2023, doi: 10.1080/13467581.2023.2278467.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tamimi, Adil K. Al, Habibelrahman Hassan, Edwin Rodriguez-Ubinas, Haidar Alhaidary, and Abraham Mansouri. “Thermal Performance of 3D Concrete Printed Walls: Calculated and In-Situ Measured U-Values”. <i>Journal of Asian Architecture and Building Engineering</i>, 2023. https://doi.org/10.1080/13467581.2023.2278467.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

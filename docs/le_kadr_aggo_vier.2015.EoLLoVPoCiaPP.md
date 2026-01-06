@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: H. Le, Hadj Kadri, Salima Aggoun, Jan Vierendeels, Peter Troch, Geert Schutter
+    - footer
+title: Le H., Kadri Hadj, Aggoun Salima, Vierendeels Jan, Troch Peter, Schutter Geert
 description:
 tags:
  - concrete
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe ([2015-01](date/2015/01))
-<a href="https://doi.org/10.1617/s11527-014-0458-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-014-0458-5</a>
+#Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe ([2015-01](date/2015/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-014-0458-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-014-0458-5" target="_blank">10.1617/s11527-014-0458-5</a>
 
--------------------------
+<a href="../../../author/le_d_h"><b>Le</b>&nbsp;H.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7383-8574" title="ORCID: 0000-0001-7383-8574" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kadri_hadj"><b>el&nbsp;Kadri</b>&nbsp;Hadj</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2757-1263" title="ORCID: 0000-0002-2757-1263" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aggoun_salima"><b>Aggoun</b>&nbsp;Salima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4295-7604" title="ORCID: 0000-0003-4295-7604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vierendeels_jan"><b>Vierendeels</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3274-0874" title="ORCID: 0000-0003-3274-0874" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/troch_peter"><b>Troch</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Materials and Structures, Vol. 48, Iss. 12, pp. 3991-4003
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/le_d_h"><b>Le</b> H.</a>
-,     <a href="../../../author/kadri_hadj"><b>el Kadri</b> Hadj</a> <a href="https://orcid.org/0000-0001-7383-8574" title="ORCID: 0000-0001-7383-8574" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a> <a href="https://orcid.org/0000-0002-2757-1263" title="ORCID: 0000-0002-2757-1263" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> <a href="https://orcid.org/0000-0003-4295-7604" title="ORCID: 0000-0003-4295-7604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/troch_peter"><b>Troch</b> Peter</a> <a href="https://orcid.org/0000-0003-3274-0874" title="ORCID: 0000-0003-3274-0874" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 48, Iss. 12, pp. 3991-4003
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#layer`](keyword/layer)
-    [`#lubrication`](keyword/lubrication)
-    [`#pipe`](keyword/pipe)
-    [`#profile`](keyword/profile)
-    [`#pump`](keyword/pump)
-    [`#velocity`](keyword/velocity)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/lubrication"><button class="btn">#lubrication</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/profile"><button class="btn">#profile</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Lubrication-Layer%20on%20Velocity-Profile%20of%20Concrete%20in%20a%20Pumping%20Pipe" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84947611500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,21 +38,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2041570388" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-014-0458-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-014-0458-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rheology of concrete is predominant for the required pressures in a pumping pipe. However, more detailed information is required on the formation and the properties of the lubrication layer near the pipe surface, in order to be able to accurately predict the pressure-discharge relation. By means of experimental research in combination with advanced numerical simulations, the lubrication layer near the surface of the concrete pipe has been studied in this paper. The research confirms the existence and the effects of the lubrication layer on the movement of concrete in a pumping pipe. By means of the particle image velocimetry technique, the velocity profile along the cross section has been accurately determined for different types of concrete. There is no real slip at the surface of the pipe, however the velocity profile steeply grows in a thin layer, called lubrication layer, showing a thickness of about 2 mm. The mortar in this layer, with lower yield stress and lower viscosity than the bulk concrete, is highly sheared. The bulk of the concrete is sheared and/or shows a plug flow, depending on the yield stress of the concrete. The stiffer the concrete, the more important the effect of the lubrication layer on the overall velocity profile. In most cases, the lubrication layer is the dominant effect for pumping of concrete. Shear of the bulk concrete only plays a significant role for more fluid concretes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/le_d_h"><b>Le</b> H.</a>, <a href="../../../author/kadri_hadj"><b>Kadri</b> Hadj</a>, <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a>, <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> et al. <a href="../../../date/2015/01">(2015-01)</a><br><a href="../../../le_kadr_aggo_vier.2015.EoLLoVPoCiaPP/">Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe</a></li>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/kim_ki-yeol"><b>Kim</b> Ki-Yeol</a>, <a href="../../../author/lim_dong-kyu"><b>Lim</b> Dong-Kyu</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kim_lim_choi.2025.CoPMfVCM/">Comparison of Pumping Mechanism for Various Cementitious Materials</a></li>
       <li><a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lu_sun_shen_zhan.2025.Bo3PECCE/">Buildability of 3D Printing Engineered Cementitious Composites (ECC):<br/>A Comprehensive Assessment Framework Under Laboratory Conditions</a></li>
@@ -100,6 +75,36 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_rang.2019.3PiC/">3D Printing in Concrete:<br/>Techniques for Extrusion-Casting</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/le_d_h"><b>Le</b> H.</a>, <a href="../../../author/kadri_hadj"><b>Kadri</b> Hadj</a>, <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a>, <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> et al. <a href="../../../date/2015/01">(2015-01)</a><br><a href="../../../le_kadr_aggo_vier.2015.EoLLoVPoCiaPP/">Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{le_kadr_aggo_vier.2015.EoLLoVPoCiaPP,
+      author            = "H. D. Le and Hadj El Kadri and Salima Aggoun and Jan Vierendeels and Peter Troch and Geert de Schutter",
+      title             = "Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe",
+      doi               = "10.1617/s11527-014-0458-5",
+      year              = "2015",
+      journal           = "Materials and Structures",
+      volume            = "48",
+      number            = "12",
+      pages             = "3991--4003",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. D. Le, H. E. Kadri, S. Aggoun, J. Vierendeels, P. Troch and G. de Schutter, “Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe”, <i>Materials and Structures</i>, vol. 48, no. 12, pp. 3991–4003, 2015, doi: 10.1617/s11527-014-0458-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Le, H. D., Hadj El Kadri, Salima Aggoun, Jan Vierendeels, Peter Troch, and Geert de Schutter. “Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe”. <i>Materials and Structures</i> 48, no. 12 (2015): 3991–4003. https://doi.org/10.1617/s11527-014-0458-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

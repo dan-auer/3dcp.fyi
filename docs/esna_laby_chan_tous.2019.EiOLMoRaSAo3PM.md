@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vivien Esnault, A. Labyad, Marjorie Chantin, Fabrice Toussaint
+    - footer
+title: Esnault Vivien, Labyad A., Chantin Marjorie, Toussaint Fabrice
 description:
 tags:
  - acquisition
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experience in On-Line Modification of Rheology and Strength Acquisition of 3D Printable Mortars ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_3</a>
+#Experience in On-Line Modification of Rheology and Strength Acquisition of 3D Printable Mortars ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_3" target="_blank">10.1007/978-3-319-99519-9_3</a>
 
--------------------------
+<a href="../../../author/esnault_vivien"><b>Esnault</b>&nbsp;Vivien</a></span>, <a href="../../../author/labyad_a"><b>Labyad</b>&nbsp;A.</a></span>, <a href="../../../author/chantin_marjorie"><b>Chantin</b>&nbsp;Marjorie</a></span>, <a href="../../../author/toussaint_fabrice"><b>Toussaint</b>&nbsp;Fabrice</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 24-38
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/esnault_vivien"><b>Esnault</b> Vivien</a>
-,     <a href="../../../author/labyad_a"><b>Labyad</b> A.</a>
-,     <a href="../../../author/chantin_marjorie"><b>Chantin</b> Marjorie</a>
-,     <a href="../../../author/toussaint_fabrice"><b>Toussaint</b> Fabrice</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 24-38
-
-:aca-blank:{ .lg .middle}
-    [`#acquisition`](keyword/acquisition)
-    [`#experience`](keyword/experience)
-    [`#line`](keyword/line)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/acquisition"><button class="btn">#acquisition</button></a> <a href="../../keyword/experience"><button class="btn">#experience</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experience%20in%20On-Line%20Modification%20of%20Rheology%20and%20Strength%20Acquisition%20of%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052713268&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2889313417" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focus on the early age properties of two mortar formulations designed for a 3D printing extrusion process. They follow a new design and process strategy, which consists in formulating a mortar to be self-levelling, to optimize pumpability, and then incorporating an additive in the extrusion nozzle to modify rheology properties and setting properties to adapt it to the requirement of the printing process (self-sustaining as soon as the material exits the nozzle, and fast strength acquisition). Two types of additives are considered: an alkali-free shotcrete accelerator and a starch ether based VMA. Compression and shear strength measurements from 2 min to 4 h after the incorporation of the additive demonstrate the capacity of the method to create mortars with strength acquisition vastly superior to results from the literature. Lab-scale extrusion and operational feedback from 3D printing customers demonstrate the feasibility at operational scale. The variety of properties obtainable by playing with different types of additives is also discussed
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -78,8 +56,8 @@ tags:
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "36 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a>, <a href="../../../author/li_ziang"><b>Li</b> Ziang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_han_yang_li.2025.OPaRPf3PwCM/">Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials</a></li>
@@ -116,6 +94,36 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../wang_scot_llor_flat.2019.RTDiCPoC/">Residence-Time-Distributions in Continuous Processing of Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hermens_j_lex"><b>Hermens</b> Lex</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bos_wolf_ahme_herm.2019.TIoMTotIPSaSoa3PM/">The Influence of Material Temperature on the In-Print Strength and Stability of a 3D Print Mortar</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../wang.2018.DCP/">Digital Concrete Processing:<br/>A Review</a></li>
-      <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../flat_wang.2018.EfSIoDC/">Editorial for Special Issue on Digital Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{esna_laby_chan_tous.2019.EiOLMoRaSAo3PM,
+      author            = "Vivien Esnault and A. Labyad and Marjorie Chantin and Fabrice Toussaint",
+      title             = "Experience in On-Line Modification of Rheology and Strength Acquisition of 3D Printable Mortars",
+      doi               = "10.1007/978-3-319-99519-9_3",
+      year              = "2019",
+      volume            = "19",
+      pages             = "24--38",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Esnault, A. Labyad, M. Chantin and F. Toussaint, “Experience in On-Line Modification of Rheology and Strength Acquisition of 3D Printable Mortars”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 24–38. doi: 10.1007/978-3-319-99519-9_3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Esnault, Vivien, A. Labyad, Marjorie Chantin, and Fabrice Toussaint. “Experience in On-Line Modification of Rheology and Strength Acquisition of 3D Printable Mortars”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:24–38, 2019. https://doi.org/10.1007/978-3-319-99519-9_3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

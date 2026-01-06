@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Irshidat, John-John Cabibihan, Fodil Fadli, Siraj Ramahi, Marwa Saadeh
+    - footer
+title: Irshidat Mohammad, Cabibihan John-John, Fadli Fodil, Ramahi Siraj, Saadeh Marwa
 description:
 tags:
  - application
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1007/s42247-024-00942-4) Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications:<br/>:aca-blank: A Review ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1007/s42247-024-00942-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s42247-024-00942-4</a>
+#Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s42247-024-00942-4) <a href="https://doi.org/10.1007/s42247-024-00942-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42247-024-00942-4" target="_blank">10.1007/s42247-024-00942-4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9631-5485" title="ORCID: 0000-0001-9631-5485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5892-743X" title="ORCID: 0000-0001-5892-743X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cabibihan_john-john"><b>Cabibihan</b>&nbsp;John-John</a></span>, <a href="../../../author/fadli_fodil"><b>Fadli</b>&nbsp;Fodil</a></span>, <a href="../../../author/ramahi_siraj"><b>al&nbsp;Ramahi</b>&nbsp;Siraj</a></span>, <a href="../../../author/saadeh_marwa"><b>Saadeh</b>&nbsp;Marwa</a></span><br>
+Journal Article - Emergent Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a> <a href="https://orcid.org/0000-0001-9631-5485" title="ORCID: 0000-0001-9631-5485" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a> <a href="https://orcid.org/0000-0001-5892-743X" title="ORCID: 0000-0001-5892-743X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>
-,     <a href="../../../author/ramahi_siraj"><b>al Ramahi</b> Siraj</a>
-,     <a href="../../../author/saadeh_marwa"><b>Saadeh</b> Marwa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Emergent Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#util`](keyword/util)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Waste%20Materials%20Utilization%20in%203D%20Printable%20Concrete%20for%20Sustainable%20Construction%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211378818&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405009527" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s42247-024-00942-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s42247-024-00942-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three dimensionally printed concrete (3DPC) is an interesting topic that has attracted increasing attention during the last few years. This paper offers a comprehensive review of the utilization of waste materials in 3DPC. The literature on the different waste materials that have been utilized in 3DPC, such as silica fume, fly ash, recycled sand, waste glass, municipal incineration ash, ground granulated blast furnace slag, and steel slag, are reviewed. The influence of these waste materials on the main parameters of 3D printing of concrete such as the buildability, extrudability, and open time are discussed. In addition, the paper addressed the effect of these wastes on the mechanical strengths of the printed concrete. This paper finds that merging the technology of 3D printing of concrete with the usage waste materials will revolutionize the construction industry by addressing the challenges in meeting the required strength parameters of concrete using 3D printing technology and at the same time making construction process more economically and environmentally viable. Finally, to improve the efficiency of this emerging construction technique, authors recommend using combination of different waste materials together, taking into consideration using some additives to balance out the negative effects of waste materials on other parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -120,12 +97,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../irsh_albe_amja_alnu.2025.FWtS/">From Waste to Strength:<br/>Recycled Steel Fibers for Sustainable 3D Printing of Cementitious Composites</a></li>
-      <li><a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a>, <a href="../../../author/pimpalshende_anjusha"><b>Pimpalshende</b> Anjusha</a>, <a href="../../../author/chandak_a_mayuri"><b>Chandak</b> Mayuri</a>, <a href="../../../author/patil_r_tejas"><b>Patil</b> Tejas</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../raut_pimp_chan_pati.2025.ANMMFf3PFRPCUAAMT/">A Novel Multi-Method Framework for 3D Printed Fiber-Reinforced Polymer Concrete Utilizing Advance Additive Manufacturing Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{irsh_cabi_fadl_rama.2024.WMUi3PCfSCA,
+      author            = "Mohammad R. Irshidat and John-John Cabibihan and Fodil Fadli and Siraj Al Ramahi and Marwa Saadeh",
+      title             = "Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications: A Review",
+      doi               = "10.1007/s42247-024-00942-4",
+      year              = "2024",
+      journal           = "Emergent Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Irshidat, J.-J. Cabibihan, F. Fadli, S. A. Ramahi and M. Saadeh, “Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications: A Review”, <i>Emergent Materials</i>, 2024, doi: 10.1007/s42247-024-00942-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Irshidat, Mohammad R., John-John Cabibihan, Fodil Fadli, Siraj Al Ramahi, and Marwa Saadeh. “Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications: A Review”. <i>Emergent Materials</i>, 2024. https://doi.org/10.1007/s42247-024-00942-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

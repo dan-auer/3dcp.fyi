@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Valente Marco 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../noai_chou_samb_vale.2025.OLCCCCELGWCf3PA/">Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications</a></li>
   <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vale_samb_chou_ghaf.2023.CAAMwWTRDfAM/">Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing:<br/>An Eco-Sustainable and Energy Saving Approach</a></li>
   <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/biblioteca_ilario"><b>Biblioteca</b> Ilario</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../samb_bibl_vale.2023.LCALo3CPaCPfCMIGWTR/">Life Cycle Assessment (LCA) of 3D Concrete Printing and Casting Processes for Cementitious Materials Incorporating Ground Waste Tire Rubber</a></li>

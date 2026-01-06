@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robin Dörrie, Vittoria Laghi, Lidiana Arrè, Gabriela Kienbaum, Neira Babovic, Norman Hack, Harald Kloft
+    - footer
+title: Dörrie Robin, Laghi Vittoria, Arrè Lidiana, Kienbaum Gabriela, Babovic Neira, Hack Norman, Kloft Harald
 description:
 tags:
  - adaption
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/11/1806/pdf?version=1668059679) Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures ([2022-10](date/2022/10))
-<a href="https://doi.org/10.3390/buildings12111806" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12111806</a>
+#Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures ([2022-10](date/2022/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/11/1806/pdf?version=1668059679) <a href="https://doi.org/10.3390/buildings12111806" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12111806" target="_blank">10.3390/buildings12111806</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laghi_vittoria"><b>Laghi</b>&nbsp;Vittoria</a></span>, <a href="../../../author/arre_lidiana"><b>Arrè</b>&nbsp;Lidiana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3079-2769" title="ORCID: 0000-0003-3079-2769" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kienbaum_gabriela"><b>Kienbaum</b>&nbsp;Gabriela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0010-6599" title="ORCID: 0000-0002-0010-6599" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babovic_neira"><b>Babovic</b>&nbsp;Neira</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/arre_lidiana"><b>Arrè</b> Lidiana</a>
-,     <a href="../../../author/kienbaum_gabriela"><b>Kienbaum</b> Gabriela</a> <a href="https://orcid.org/0000-0003-3079-2769" title="ORCID: 0000-0003-3079-2769" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babovic_neira"><b>Babovic</b> Neira</a> <a href="https://orcid.org/0000-0002-0010-6599" title="ORCID: 0000-0002-0010-6599" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#additive`](keyword/additive)
-    [`#coast`](keyword/coast)
-    [`#combination`](keyword/combination)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#structure`](keyword/structure)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/coast"><button class="btn">#coast</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Combined%20Additive%20Manufacturing%20Techniques%20for%20Adaptive%20Coastline%20Protection%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141873827&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4307633679" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12111806" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12111806?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Traditional reinforcement cages are manufactured in a handicraft manner and do not use the full potential of the material, nor can they map from optimised geometries. The shown research is focused on robotically-manufactured, structurally-optimised reinforcement structures which are prefabricated and can be encased by concrete through SC3DP in a combined process. Based on the reinforcement concept of “reinforcement supports concrete,” the prefabricated cages support the concrete during application in a combined AM process. To demonstrate the huge potential of combined AM processes based on the SC3DP and WAAM techniques (for example, the manufacturing of individualized CPS), the so-called FLOWall is presented here. First, the form-finding process for the FLOWall concept based on fluid dynamic simulation is explained. For this, a three-step strategy is presented, which consists of (i) the 3D modelling of the element, (ii) the force-flow analysis, and (iii) the structural validation in a computational fluid dynamics software. From the finalized design, the printing phase is divided into two steps, one for the WAAM reinforcement and one for the SC3DP wall. The final result provides a good example of efficient integration of two different printing techniques to create a new generation of freeform coastline protection structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../burg_hube_llor_mata.2022.DaFoORCFSULS3PF/">Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork</a></li>
@@ -80,8 +56,8 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
@@ -100,4 +76,34 @@ tags:
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../dorr_freu_herr_bagh.2023.AFFORIfS3P/">Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dorr_lagh_arre_kien.2022.CAMTfACPS,
+      author            = "Robin Dörrie and Vittoria Laghi and Lidiana Arrè and Gabriela Kienbaum and Neira Babovic and Norman Peter Hack and Harald Kloft",
+      title             = "Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures",
+      doi               = "10.3390/buildings12111806",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Dörrie, “Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures”, <i>Buildings</i>, vol. 12, no. 11, 2022, doi: 10.3390/buildings12111806.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dörrie, Robin, Vittoria Laghi, Lidiana Arrè, Gabriela Kienbaum, Neira Babovic, Norman Peter Hack, and Harald Kloft. “Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures”. <i>Buildings</i> 12, no. 11 (2022). https://doi.org/10.3390/buildings12111806.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

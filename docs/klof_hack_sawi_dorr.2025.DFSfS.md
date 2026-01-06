@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harald Kloft, Norman Hack, Bartłomiej Sawicki, Robin Dörrie, Joschua Gosslar, Sven Jonischkies, Lukas Ledderose, Jan-Phillip Zöllner
+    - footer
+title: Kloft Harald, Hack Norman, Sawicki Bartłomiej, Dörrie Robin, Gosslar Joschua, Jonischkies Sven, Ledderose Lukas, Zöllner Jan-Phillip
 description:
 tags:
  - digital
@@ -12,32 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Fabrication Strategies for Sustainability ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1007/978-981-97-9400-3_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-97-9400-3_4</a>
+#Digital Fabrication Strategies for Sustainability ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-9400-3_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-9400-3_4" target="_blank">10.1007/978-981-97-9400-3_4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5632-3461" title="ORCID: 0000-0002-5632-3461" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b>&nbsp;Bartłomiej</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7060-0007" title="ORCID: 0000-0002-7060-0007" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gosslar_joschua"><b>Gosslar</b>&nbsp;Joschua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2286-6601" title="ORCID: 0000-0002-2286-6601" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jonischkies_sven"><b>Jonischkies</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3243-0251" title="ORCID: 0000-0003-3243-0251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ledderose_lukas"><b>Ledderose</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1848-2955" title="ORCID: 0009-0001-1848-2955" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zollner_jan-phillip"><b>Zöllner</b>&nbsp;Jan-Phillip</a></span><br>
+Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 35-44
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a> <a href="https://orcid.org/0000-0002-5632-3461" title="ORCID: 0000-0002-5632-3461" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gosslar_joschua"><b>Gosslar</b> Joschua</a> <a href="https://orcid.org/0000-0002-7060-0007" title="ORCID: 0000-0002-7060-0007" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jonischkies_sven"><b>Jonischkies</b> Sven</a> <a href="https://orcid.org/0000-0002-2286-6601" title="ORCID: 0000-0002-2286-6601" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a> <a href="https://orcid.org/0000-0003-3243-0251" title="ORCID: 0000-0003-3243-0251" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zollner_jan-phillip"><b>Zöllner</b> Jan-Phillip</a> <a href="https://orcid.org/0009-0001-1848-2955" title="ORCID: 0009-0001-1848-2955" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 35-44
-
-:aca-blank:{ .lg .middle}
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#strategy`](keyword/strategy)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20Strategies%20for%20Sustainability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002145315&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408967743" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-97-9400-3_4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-97-9400-3_4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication is the design and manufacturing workflow allowing for computer-guided additive and subtractive manufacturing. In construction, it opens up new possibilities for efficient and reduced use of materials, thanks to tailored design and bespoke serial production of structural elements. The Institute of Structural Design (ITE) for around a decade researches tools and strategies of additive and subtractive fabrication, with a particular focus on the process-material compatibility. These methods allow for placing a material of desired characteristics exactly where required to optimise form and properties, minimising material consumption and hence reducing the footprint of a structure. This paper discusses various fabrication strategies developed by ITE and its partners in interdisciplinary research, with a special focus on the potential towards bringing sustainability into architecture and construction sector. The discussed methods encompass Shotcrete 3D Printing, Robotic Rammed Earth, Large Particle 3D Concrete Printing, recyclable wax formwork, subtractive and additive manufacturing for the reuse and recycling of concrete, and Hybrid Wire-and-Arc Additive Manufacturing (WAAM) I-beams. Each method is briefly introduced, and its potential impacts on sustainability are discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../davi_freu_drod_lowk.2023.TEoNDaLotRSPfS3P/">The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../dorr_davi_freu_lowk.2023.IPIoRfCEDS3P/">In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
@@ -70,7 +48,37 @@ tags:
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{klof_hack_sawi_dorr.2025.DFSfS,
+      author            = "Harald Kloft and Norman Peter Hack and Bartłomiej Sawicki and Robin Dörrie and Joschua Gosslar and Sven Jonischkies and Lukas Ledderose and Jan-Phillip Zöllner",
+      title             = "Digital Fabrication Strategies for Sustainability",
+      doi               = "10.1007/978-981-97-9400-3_4",
+      year              = "2025",
+      volume            = "418",
+      pages             = "35--44",
+      booktitle         = "Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kloft, “Digital Fabrication Strategies for Sustainability”, in <i>Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering</i>,  2025, vol. 418, pp. 35–44. doi: 10.1007/978-981-97-9400-3_4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kloft, Harald, Norman Peter Hack, Bartłomiej Sawicki, Robin Dörrie, Joschua Gosslar, Sven Jonischkies, Lukas Ledderose, and Jan-Phillip Zöllner. “Digital Fabrication Strategies for Sustainability”. In <i>Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering</i>, 418:35–44, 2025. https://doi.org/10.1007/978-981-97-9400-3_4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

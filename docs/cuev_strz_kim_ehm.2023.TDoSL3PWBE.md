@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karla Cuevas Villalobos, Jarosław Strzałkowski, Ji-Su Kim, Clemens Ehm, Theresa Glotz, Mehdi Chougan, Seyed Ghaffar, Dietmar Stephan, Paweł Sikora
+    - footer
+title: Cuevas Villalobos Karla, Strzałkowski Jarosław, Kim Ji-Su, Ehm Clemens, Glotz Theresa, Chougan Mehdi, Ghaffar Seyed, Stephan Dietmar, Sikora Paweł
 description:
 tags:
  - buildability
@@ -17,38 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e01945) Towards Development of Sustainable Lightweight 3D Printed Wall Building Envelopes:<br/>:aca-blank: Experimental and Numerical Studies ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cscm.2023.e01945" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e01945</a>
+#Towards Development of Sustainable Lightweight 3D Printed Wall Building Envelopes&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">Experimental and Numerical Studies</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01945) <a href="https://doi.org/10.1016/j.cscm.2023.e01945" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01945" target="_blank">10.1016/j.cscm.2023.e01945</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b>&nbsp;Karla</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7001-9303" title="ORCID: 0000-0001-7001-9303" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strzalkowski_jaroslaw"><b>Strzałkowski</b>&nbsp;Jarosław</a></span>, <a href="../../../author/kim_ji-su"><b>Kim</b>&nbsp;Ji-Su</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0118-7797" title="ORCID: 0000-0003-0118-7797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ehm_clemens"><b>Ehm</b>&nbsp;Clemens</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1780-3515" title="ORCID: 0000-0003-1780-3515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/glotz_theresa"><b>Glotz</b>&nbsp;Theresa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span><br>
+Journal Article - Case Studies in Construction Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a> <a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/strzalkowski_jaroslaw"><b>Strzałkowski</b> Jarosław</a> <a href="https://orcid.org/0000-0001-7001-9303" title="ORCID: 0000-0001-7001-9303" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a>
-,     <a href="../../../author/ehm_clemens"><b>Ehm</b> Clemens</a> <a href="https://orcid.org/0000-0003-0118-7797" title="ORCID: 0000-0003-0118-7797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a> <a href="https://orcid.org/0000-0003-1780-3515" title="ORCID: 0000-0003-1780-3515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#development`](keyword/development)
-    [`#envelope`](keyword/envelope)
-    [`#experiment`](keyword/experiment)
-    [`#light`](keyword/light)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Towards%20Development%20of%20Sustainable%20Lightweight%203D%20Printed%20Wall%20Building%20Envelopes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149681854&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321502949" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e01945" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e01945?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology can be of crucial importance in the design of sustainable and energyefficient building envelopes. With this technology, there is the potential to mechanically and thermally optimise the topology of printed walls. Additionally, the printing and infill materials used can be insulating, and thus contributing to the overall reduction of heat loss. To date, limited examples of 3D printed envelopes and information about the thermal and mechanical performance of 3D printed walls are available. This study developed a 3D printable wall element with an insulating property for application in building envelopes. Seven wall topologies are studied through simulations of mechanical and thermal performance using two mixtures: a control mixture (normal-weight) and a lightweight mixture containing expanded thermoplastic microspheres (ETM) for thermal insulation. One wall topology is selected based on the performance of the simulation and printed using both mixtures. The 3D printed envelopes were tested under compressive strength and analysed with the ARAMIS system, a digital image correlation (DIC) technology. Computer simulations and the DIC analysis identified the main causes for failure, which are the inter-filament weakness and the imperfections of the geometry of the printed envelope.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -94,8 +67,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
@@ -116,4 +89,32 @@ tags:
       <li><a href="../../../author/bumanis_girts"><b>Bumanis</b> Girts</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../buma_sapa_sink_spur.2023.AMoLGaEPGC/">Additive Manufacturing of Lightweight Gypsum and Expanded Polystyrene Granulate Composite</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/weinhold_joachim"><b>Weinhold</b> Joachim</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a>, <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../cuev_wein_step_kim.2023.EoPPoPRMCaPoMf3CPUISaESIT/">Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cuev_strz_kim_ehm.2023.TDoSL3PWBE,
+      author            = "Karla Francisca Cuevas Villalobos and Jarosław Strzałkowski and Ji-Su Kim and Clemens Ehm and Theresa Glotz and Mehdi Chougan and Seyed Hamidreza Ghaffar and Dietmar Stephan and Paweł Sikora",
+      title             = "Towards Development of Sustainable Lightweight 3D Printed Wall Building Envelopes: Experimental and Numerical Studies",
+      doi               = "10.1016/j.cscm.2023.e01945",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. F. C. Villalobos, “Towards Development of Sustainable Lightweight 3D Printed Wall Building Envelopes: Experimental and Numerical Studies”, <i>Case Studies in Construction Materials</i>, 2023, doi: 10.1016/j.cscm.2023.e01945.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Villalobos, Karla Francisca Cuevas, Jarosław Strzałkowski, Ji-Su Kim, Clemens Ehm, Theresa Glotz, Mehdi Chougan, Seyed Hamidreza Ghaffar, Dietmar Stephan, and Paweł Sikora. “Towards Development of Sustainable Lightweight 3D Printed Wall Building Envelopes: Experimental and Numerical Studies”. <i>Case Studies in Construction Materials</i>, 2023. https://doi.org/10.1016/j.cscm.2023.e01945.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

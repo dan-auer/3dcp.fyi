@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Baghi, Nima Aminpour, Ali Memari, Sven Bilén, Shadi Nazarian, José Duarte
+    - footer
+title: Baghi Ali, Aminpour Nima, Memari Ali, Bilén Sven, Nazarian Shadi, Duarte José
 description:
 tags:
  - cable
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2379998?needAccess=true) 3D Concrete Printing of Self-Supported Filaments via Entrained Cables:<br/>:aca-blank: Constructing Formwork-Free Spanning Structures ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1080/17452759.2024.2379998" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2379998</a>
+#3D Concrete Printing of Self-Supported Filaments via Entrained Cables&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">Constructing Formwork-Free Spanning Structures</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2379998?needAccess=true) <a href="https://doi.org/10.1080/17452759.2024.2379998" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2379998" target="_blank">10.1080/17452759.2024.2379998</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7309-1359" title="ORCID: 0000-0002-7309-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baghi_ali"><b>Baghi</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6717-3510" title="ORCID: 0000-0001-6717-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aminpour_nima"><b>Aminpour</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5416-7039" title="ORCID: 0000-0002-5416-7039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bilen_g_sven"><b>Bilén</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/baghi_ali"><b>Baghi</b> Ali</a> <a href="https://orcid.org/0000-0002-7309-1359" title="ORCID: 0000-0002-7309-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a> <a href="https://orcid.org/0000-0001-6717-3510" title="ORCID: 0000-0001-6717-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> <a href="https://orcid.org/0000-0002-5416-7039" title="ORCID: 0000-0002-5416-7039" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cable`](keyword/cable)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#entrainment`](keyword/entrainment)
-    [`#filament`](keyword/filament)
-    [`#formwork`](keyword/formwork)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#structure`](keyword/structure)
-    [`#support`](keyword/support)
-
-
--------------------------
+<a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20of%20Self-Supported%20Filaments%20via%20Entrained%20Cables" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199991057&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401067585" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2379998" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2379998?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) enhances design flexibility, reduces construction costs and lowers environmental impact. Traditionally used for wall fabrication, this study introduces a system for printing self-supporting spanning structures using reinforced concrete filaments with tensioned cables, eliminating the need for formwork. The research involved conceptual design and prototyping to integrate cables into the printing process, as well as structural testing of a small-scale model consisting of a reinforced filament. Numerical analysis using the concrete damage plasticity model (CDP) and the traction-separation model simulated the filament's non-linear behaviour and damage. Compared with experimental data, numerical analysis showed good accuracy. Reinforced filaments exhibited a significant increase in flexural strength, from 1.2 kgf·m to 5.0 kgf·m, compared to non-reinforced filaments. Results confirm the feasibility of the proposed method, though challenges remain in ensuring long-term functionality and scalability. Improving the bond between concrete and cables, refining printing parameters and exploring alternative materials are key aspects. While this study focuses on reinforced filaments as proof of concept, future work will address multifilament and multilayer elements like slabs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -96,8 +71,38 @@ tags:
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bran_figu_cruz.2025.WFTf3CRP/">Winding Fiber Thread for 3D Concrete Robotic Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bagh_amin_mema_bile.2024.3CPoSSFvEC,
+      author            = "Ali Baghi and Nima Aminpour and Ali M. Memari and Sven G. Bilén and Shadi Nazarian and José Pinto Duarte",
+      title             = "3D Concrete Printing of Self-Supported Filaments via Entrained Cables: Constructing Formwork-Free Spanning Structures",
+      doi               = "10.1080/17452759.2024.2379998",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Baghi, N. Aminpour, A. M. Memari, S. G. Bilén, S. Nazarian and J. P. Duarte, “3D Concrete Printing of Self-Supported Filaments via Entrained Cables: Constructing Formwork-Free Spanning Structures”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2379998.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baghi, Ali, Nima Aminpour, Ali M. Memari, Sven G. Bilén, Shadi Nazarian, and José Pinto Duarte. “3D Concrete Printing of Self-Supported Filaments via Entrained Cables: Constructing Formwork-Free Spanning Structures”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2379998.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

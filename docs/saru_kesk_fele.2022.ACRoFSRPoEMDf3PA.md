@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vedat Saruhan, Muhammer Keskinateş, Burak Felekoğlu
+    - footer
+title: Saruhan Vedat, Keskinateş Muhammer, Felekoğlu Burak
 description:
 tags:
  - application
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comprehensive Review on Fresh State Rheological Properties of Extrusion-Mortars Designed for 3D Printing Applications ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127629" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127629</a>
+#A Comprehensive Review on Fresh State Rheological Properties of Extrusion-Mortars Designed for 3D Printing Applications ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127629" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127629" target="_blank">10.1016/j.conbuildmat.2022.127629</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1337-1364" title="ORCID: 0000-0003-1337-1364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saruhan_vedat"><b>Saruhan</b>&nbsp;Vedat</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8334-3073" title="ORCID: 0000-0001-8334-3073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keskinates_muhammer"><b>Keskinateş</b>&nbsp;Muhammer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7426-1698" title="ORCID: 0000-0002-7426-1698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/felekoglu_burak"><b>Felekoğlu</b>&nbsp;Burak</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 337
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/saruhan_vedat"><b>Saruhan</b> Vedat</a> <a href="https://orcid.org/0000-0003-1337-1364" title="ORCID: 0000-0003-1337-1364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/keskinates_muhammer"><b>Keskinateş</b> Muhammer</a> <a href="https://orcid.org/0000-0001-8334-3073" title="ORCID: 0000-0001-8334-3073" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="https://orcid.org/0000-0002-7426-1698" title="ORCID: 0000-0002-7426-1698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 337, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#comprehension`](keyword/comprehension)
-    [`#design`](keyword/design)
-    [`#extrusion`](keyword/extrusion)
-    [`#fresh`](keyword/fresh)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20on%20Fresh%20State%20Rheological%20Properties%20of%20Extrusion-Mortars%20Designed%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129081491&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225006194" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127629" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127629?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interest in 3D construction method has been increasing rapidly in recent years due to its advantages compared to conventional method of reinforced concrete building. The fresh state rheological properties (viscosity, yield stress, thixotropy etc.) of mixtures composed via “layer-by-layer” forming technique gain importance in 3D construction. The influence of fresh state rheological properties on pumpability, extrudability and buildability have been comprehensively evaluated based on recent literature. The role of material ingredients and mixture proportions on the rheological behavior of extrusion mortar is discussed and finally their influence on 3D printing performance is classified.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "68 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -141,8 +117,9 @@ tags:
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2015/08">(2015-08)</a><br><a href="../../../zhou_li.2015.MCBMaBPvE/">Manufacturing Cement-Based Materials and Building Products via Extrusion:<br/>From Laboratory to Factory</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "38 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
@@ -181,4 +158,33 @@ tags:
       <li><a href="../../../author/diwan_anushree"><b>Diwan</b> Anushree</a>, <a href="../../../author/patel_singh_shiv"><b>Patel</b> Shiv</a>, <a href="../../../author/pal_ankit"><b>Pal</b> Ankit</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../diwa_pate_pal_dwiv.2024.FCoCMwVSFfAC/">Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction</a></li>
       <li><a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/ziemelis_krists"><b>Ziemelis</b> Krists</a>, <a href="../../../author/vanags_andris"><b>Vanags</b> Andris</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../spur_sink_ziem_vana.2022.TEoAEAoFaHPo3C/">The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saru_kesk_fele.2022.ACRoFSRPoEMDf3PA,
+      author            = "Vedat Saruhan and Muhammer Keskinateş and Burak Felekoğlu",
+      title             = "A Comprehensive Review on Fresh State Rheological Properties of Extrusion-Mortars Designed for 3D Printing Applications",
+      doi               = "10.1016/j.conbuildmat.2022.127629",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "337",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Saruhan, M. Keskinateş and B. Felekoğlu, “A Comprehensive Review on Fresh State Rheological Properties of Extrusion-Mortars Designed for 3D Printing Applications”, <i>Construction and Building Materials</i>, vol. 337, 2022, doi: 10.1016/j.conbuildmat.2022.127629.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Saruhan, Vedat, Muhammer Keskinateş, and Burak Felekoğlu. “A Comprehensive Review on Fresh State Rheological Properties of Extrusion-Mortars Designed for 3D Printing Applications”. <i>Construction and Building Materials</i> 337 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127629.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

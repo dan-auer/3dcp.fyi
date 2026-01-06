@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: J. González-Aviña, Masoud Hosseinpoor, Ammar Yahia, Mojtaba Kohandelnia, Alejandro Durán-Herrera
+    - footer
+title: González-Aviña J., Hosseinpoor Masoud, Yahia Ammar, Kohandelnia Mojtaba, Durán-Herrera Alejandro
 description:
 tags:
  - application
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114493" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114493</a>
+#Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114493" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114493" target="_blank">10.1016/j.jobe.2025.114493</a>
 
--------------------------
+<a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b>&nbsp;J.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-3146" title="ORCID: 0000-0003-3616-3146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b>&nbsp;Masoud</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4561-0972" title="ORCID: 0000-0003-4561-0972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b>&nbsp;Mojtaba</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4959-3479" title="ORCID: 0000-0003-4959-3479" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duran-herrera_alejandro"><b>Durán-Herrera</b>&nbsp;Alejandro</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114493
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>
-,     <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a> <a href="https://orcid.org/0000-0003-3616-3146" title="ORCID: 0000-0003-3616-3146" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>
-,     <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> <a href="https://orcid.org/0000-0003-4561-0972" title="ORCID: 0000-0003-4561-0972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duran-herrera_alejandro"><b>Durán-Herrera</b> Alejandro</a> <a href="https://orcid.org/0000-0003-4959-3479" title="ORCID: 0000-0003-4959-3479" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114493
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anionic%20Biopolymers%20to%20Enhance%20Concrete%20Rheological%20Properties%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020671822&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415628811" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114493" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114493?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the use of various anionic biopolymers as admixtures to enhance the rheological properties of mixtures for 3D printing (3DP) applications. The investigated bio-based polymers include almond gum, tragacanth gum, welan gum, and giant kelp extract. The experimental program was conducted in two phases: (i) developing mixtures with tailored rheological properties by varying biopolymer type and dosage, and (ii) evaluating their 3DP performance through printing trials. Results showed that biopolymer incorporation significantly enhanced thixotropic behavior, increasing re-flocculation (Rthix) and flocculation (Athix) rates by up to 83 % compared to the reference mixture. These rheological improvements resulted into reduced deformation during printing, with diametrical variation (DV) decreasing by up to 76.1 %. Cross-sectional analysis showed a significant reduction in bottom-layer widening, with the deformation index (DI) reduced by 53.0 %–81.9 %. In terms of extrudability, biopolymer led to a 51.4 %–87.4 % reduction in the coefficient of variation (COV) of cross-sectional areas along the print path. Among the tested biopolymers, almond gum (1.0 %) and tragacanth gum (0.5 %), combined with optimized superplasticizer dosage, showed the best balance between flowability and buildability. Although giant kelp extract (1.0 %) offered superior dimensional stability, its high viscoplastic properties impeded extrusion. In contrast, welan gum (0.25 %) enhanced extrusion performance due to its lower viscoplastic properties, although this came at the expense of structural stability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -103,7 +82,36 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gonz_hoss_yahi_koha.2025.ABtECRPf3PA,
+      author            = "J. V. González-Aviña and Masoud Hosseinpoor and Ammar Yahia and Mojtaba Kohandelnia and Alejandro Durán-Herrera",
+      title             = "Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications",
+      doi               = "10.1016/j.jobe.2025.114493",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114493",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. V. González-Aviña, M. Hosseinpoor, A. Yahia, M. Kohandelnia and A. Durán-Herrera, “Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications”, <i>Journal of Building Engineering</i>, p. 114493, 2025, doi: 10.1016/j.jobe.2025.114493.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">González-Aviña, J. V., Masoud Hosseinpoor, Ammar Yahia, Mojtaba Kohandelnia, and Alejandro Durán-Herrera. “Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications”. <i>Journal of Building Engineering</i>, 2025, 114493. https://doi.org/10.1016/j.jobe.2025.114493.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

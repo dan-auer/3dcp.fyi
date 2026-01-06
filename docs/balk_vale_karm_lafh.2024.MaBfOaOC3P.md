@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wassim Balkhy, Elias Valera, Dorra Karmaoui, Zoubeir Lafhaj, Thomas Linner, Syrine Ayadi, Reda Zerrari, Assia Boutabba
+    - footer
+title: Balkhy Wassim, Valera Elias, Karmaoui Dorra, Lafhaj Zoubeir, Linner Thomas, Ayadi Syrine, Zerrari Reda, Boutabba Assia
 description:
 tags:
  - barrier
@@ -14,34 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Motives and Barriers for Offsite and Onsite Construction 3D Printing ([2024-06](date/2024/06))
-<a href="https://doi.org/10.22260/isarc2024/0154" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2024/0154</a>
+#Motives and Barriers for Offsite and Onsite Construction 3D Printing ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0154" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0154" target="_blank">10.22260/isarc2024/0154</a>
 
--------------------------
+<a href="../../../author/balkhy_wassim"><b>al&nbsp;Balkhy</b>&nbsp;Wassim</a></span>, <a href="../../../author/valera_hernandez_elias"><b>Valera</b>&nbsp;Elias</a></span>, <a href="../../../author/karmaoui_dorra"><b>Karmaoui</b>&nbsp;Dorra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b>&nbsp;Zoubeir</a></span>, <a href="../../../author/linner_thomas"><b>Linner</b>&nbsp;Thomas</a></span>, <a href="../../../author/ayadi_syrine"><b>Ayadi</b>&nbsp;Syrine</a></span>, <a href="../../../author/zerrari_reda"><b>Zerrari</b>&nbsp;Reda</a></span>, <a href="../../../author/boutabba_assia"><b>Boutabba</b>&nbsp;Assia</a></span><br>
+Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/balkhy_wassim"><b>al Balkhy</b> Wassim</a>
-,     <a href="../../../author/valera_hernandez_elias"><b>Valera</b> Elias</a>
-,     <a href="../../../author/karmaoui_dorra"><b>Karmaoui</b> Dorra</a>
-,     <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a> <a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/linner_thomas"><b>Linner</b> Thomas</a>
-,     <a href="../../../author/ayadi_syrine"><b>Ayadi</b> Syrine</a>
-,     <a href="../../../author/zerrari_reda"><b>Zerrari</b> Reda</a>
-,     <a href="../../../author/boutabba_assia"><b>Boutabba</b> Assia</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#barrier`](keyword/barrier)
-    [`#construction`](keyword/construction)
-    [`#motivation`](keyword/motivation)
-    [`#offsite`](keyword/offsite)
-    [`#onsite`](keyword/onsite)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/motivation"><button class="btn">#motivation</button></a> <a href="../../keyword/offsite"><button class="btn">#offsite</button></a> <a href="../../keyword/onsite"><button class="btn">#onsite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Motives%20and%20Barriers%20for%20Offsite%20and%20Onsite%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199647431&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399043710" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2024/0154" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2024/0154?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to compare between onsite and offsite construction 3D printing (C3DP). For this purpose, the Systematic Literature Review approach (SLR) was employed. The review which was based on studying 48 sources identified six categories to classify the motives and barriers for the two C3DP techniques; cost, transportation, design flexibility, workers and materials, production process, and environmental considerations. The literature identified the cost as the main factor that influences the choice between the two techniques. The presented list of motives and barriers is helpful to support decision-making in C3DP projects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/balkhy_wassim"><b>Balkhy</b> Wassim</a>, <a href="../../../author/bing_scott"><b>Bing</b> Scott</a>, <a href="../../../author/babidi_saad"><b>Babidi</b> Saad</a>, <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../balk_bing_babi_lafh.2023.TAoLWiC3P/">The Analysis of Lean Wastes in Construction 3D Printing:<br/>A Case Study</a></li>
@@ -98,8 +74,37 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{balk_vale_karm_lafh.2024.MaBfOaOC3P,
+      author            = "Wassim Al Balkhy and Elias Hernandez Valera and Dorra Karmaoui and Zoubeir Lafhaj and Thomas Linner and Syrine Ayadi and Reda Zerrari and Assia Boutabba",
+      title             = "Motives and Barriers for Offsite and Onsite Construction 3D Printing",
+      doi               = "10.22260/isarc2024/0154",
+      year              = "2024",
+      booktitle         = "Proceedings of the 41st International Symposium on Automation and Robotics in Construction",
+      editor            = "Vincente Gonzalez-Moret and Jiansong Zhang and Borja García de Soto and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. A. Balkhy, “Motives and Barriers for Offsite and Onsite Construction 3D Printing”, in <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>,  2024. doi: 10.22260/isarc2024/0154.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Balkhy, Wassim Al, Elias Hernandez Valera, Dorra Karmaoui, Zoubeir Lafhaj, Thomas Linner, Syrine Ayadi, Reda Zerrari, and Assia Boutabba. “Motives and Barriers for Offsite and Onsite Construction 3D Printing”. In <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>, edited by Vincente Gonzalez-Moret, Jiansong Zhang, Borja García de Soto, and Ioannis Brilakis, 2024. https://doi.org/10.22260/isarc2024/0154.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

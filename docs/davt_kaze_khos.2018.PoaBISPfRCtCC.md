@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Omid Davtalab, Ali Kazemian, Behrokh Khoshnevis
+    - footer
+title: Davtalab Omid, Kazemian Ali, Khoshnevis Behrokh
 description:
 tags:
  - bim
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting ([2018-01](date/2018/01))
-<a href="https://doi.org/10.1016/j.autcon.2018.01.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2018.01.006</a>
+#Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting ([2018-01](date/2018/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2018.01.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2018.01.006" target="_blank">10.1016/j.autcon.2018.01.006</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8033-9287" title="ORCID: 0000-0002-8033-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/davtalab_omid"><b>Davtalab</b>&nbsp;Omid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Automation in Construction, Vol. 89, pp. 13-23
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a> <a href="https://orcid.org/0000-0002-8033-9287" title="ORCID: 0000-0002-8033-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 89, pp. 13-23
-
-:aca-blank:{ .lg .middle}
-    [`#bim`](keyword/bim)
-    [`#construction`](keyword/construction)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#integration`](keyword/integration)
-    [`#platform`](keyword/platform)
-    [`#robot`](keyword/robot)
-    [`#software`](keyword/software)
-
-
--------------------------
+<a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/software"><button class="btn">#software</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Perspectives%20on%20a%20BIM-Integrated%20Software%20Platform%20for%20Robotic%20Construction%20through%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85041487785&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2788682675" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2018.01.006" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2018.01.006?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic construction through concrete 3D printing is an in-progress revolution in construction industry. While significant progress is made on hardware related challenges, software and information related issues of such innovative system are less discussed. In this paper, a software platform is proposed for data retrieval and analysis from BIM models and utilizing it efficiently during various stages of the process. While the general idea of using BIM for automated construction has been mentioned before, the implementation details (the focus of this paper) were not previously discussed. To this aim, a framework is proposed to integrate BIM into an automated construction system. A Planning and Operations Control Software for Automated Construction (POCSAC) is developed as a major enabler for a seamless integration of BIM and Contour Crafting. The interoperation between different components of the construction system and BIM platform are designed to maximize the realized benefits through synergy of the two technologies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>, <a href="../../../author/che_haichao"><b>Che</b> Haichao</a> <a href="../../../date/2014/12">(2014-12)</a><br><a href="../../../ding_wei_che.2014.DoaBBACS/">Development of a BIM-Based Automated Construction System</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
@@ -79,8 +58,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "68 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
@@ -149,6 +128,35 @@ tags:
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
       <li><a href="../../../author/tan_kang"><b>Tan</b> Kang</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../tan.2018.TFoCAIaC3PiCE/">The Framework of Combining Artificial Intelligence and Construction 3D Printing in Civil Engineering</a></li>
-      <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kont_tryf.2018.IPDwRAMf3CP/">Integrating Parametric Design with Robotic Additive Manufacturing for 3D Clay Printing:<br/>An Experimental Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{davt_kaze_khos.2018.PoaBISPfRCtCC,
+      author            = "Omid Davtalab and Ali Kazemian and Behrokh Khoshnevis",
+      title             = "Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting",
+      doi               = "10.1016/j.autcon.2018.01.006",
+      year              = "2018",
+      journal           = "Automation in Construction",
+      volume            = "89",
+      pages             = "13--23",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Davtalab, A. Kazemian and B. Khoshnevis, “Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting”, <i>Automation in Construction</i>, vol. 89, pp. 13–23, 2018, doi: 10.1016/j.autcon.2018.01.006.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Davtalab, Omid, Ali Kazemian, and Behrokh Khoshnevis. “Perspectives on a BIM-Integrated Software Platform for Robotic Construction Through Contour Crafting”. <i>Automation in Construction</i> 89 (2018): 13–23. https://doi.org/10.1016/j.autcon.2018.01.006.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Freek Bos, Robert Wolfs, Zeeshan Ahmed, Theo Salet
+    - footer
+title: Bos Freek, Wolfs Robert, Ahmed Zeeshan, Salet Theo
 description:
 tags:
  - concrete
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_12</a>
+#Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_12" target="_blank">10.1007/978-3-319-99519-9_12</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b>&nbsp;Zeeshan</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 129-147
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 129-147
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#element`](keyword/element)
-    [`#fabrication`](keyword/fabrication)
-    [`#large`](keyword/large)
-    [`#scale`](keyword/scale)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%20Testing%20of%20Digitally%20Fabricated%20Concrete%20%28DFC%29%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052677724&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2889355022" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_12" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_12?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Case study projects based on Digitally Fabricated Concrete (DFC) are presented in an increasing pace around the globe. Generally, though, it is not reported what structural requirements (if any) these structures meet and how compliance to these requirements was established. Published material research is often not connected to the presented case studies, and even when it is, it is not necessarily obvious their small scale results can be applied to full scale structures as some scale effects should be anticipated. Caution is required as DFC related material tests are still under development and scale effects in DFC have hardly been studied. Therefore, it is recommendable to perform large scale testing, in the range of 1:5 to 1:1, if DFC is applied to actual use structures. This paper presents such testing for two projects, a pavilion in Denmark (not realized) and a bridge in the Netherlands (realized). In both cases, elements printed with the 3D Concrete Printing facility of the Eindhoven University of Technology were intended for actual load bearing performance. The conservative designs past the test requirements, but nevertheless some important findings with regard to element manufacturing and structural behaviour were experienced. It is concluded that large scale testing remains advisable for DFC structures as long as not all relevant aspects of the technology are quantitatively understood, at least when new concepts are being applied.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -74,10 +53,9 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos.2018.3PCB/">3D Printed Concrete Bridge</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "51 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sana_lito.2025.LBCot3PCSBoaSAaLTiS11/">Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../vers_wolf_sale.2025.DDAMwCEILSDwDKb/">Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge:<br/>Part II: Moisture and Heat</a></li>
@@ -130,4 +108,35 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_rang.2019.3PwC/">3D Printing with Concrete:<br/>Impact and Designs of Structures</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../wang.2018.DCP/">Digital Concrete Processing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bos_wolf_ahme_sale.2019.LSToDFCDE,
+      author            = "Freek Paul Bos and Robert Johannes Maria Wolfs and Zeeshan Yunus Ahmed and Theo A. M. Salet",
+      title             = "Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements",
+      doi               = "10.1007/978-3-319-99519-9_12",
+      year              = "2019",
+      volume            = "19",
+      pages             = "129--147",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. P. Bos, R. J. M. Wolfs, Z. Y. Ahmed and T. A. M. Salet, “Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 129–147. doi: 10.1007/978-3-319-99519-9_12.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bos, Freek Paul, Robert Johannes Maria Wolfs, Zeeshan Yunus Ahmed, and Theo A. M. Salet. “Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:129–47, 2019. https://doi.org/10.1007/978-3-319-99519-9_12.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

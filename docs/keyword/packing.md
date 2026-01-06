@@ -8,7 +8,7 @@ search:
 
 # #packing
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../pari_sing_kama_subr.2024.AoPoCBoPoA/">Assessment of Printability of Concrete Based on Packing of Aggregates</a></li>
   <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bono_duco_mesn_caro.2024.MfFLCPMTPPO/">Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization</a></li>
   <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kond_subr_nema_bong.2023.SoPPaPRiAAMtMtRDo3CP/">Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing:<br/>Correction</a></li>

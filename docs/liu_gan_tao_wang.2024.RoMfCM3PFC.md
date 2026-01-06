@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nana Liu, Qili Gan, Qin Tao, Jie Wang
+    - footer
+title: Liu Nana, Gan Qili, Tao Qin, Wang Jie
 description:
 tags:
  - component
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Research on Materials for Concrete (Mortar) 3D Printing Fabricated Components ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/978-981-97-5108-2_28" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-97-5108-2_28</a>
+#Research on Materials for Concrete (Mortar) 3D Printing Fabricated Components ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-5108-2_28" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-5108-2_28" target="_blank">10.1007/978-981-97-5108-2_28</a>
 
--------------------------
+<a href="../../../author/liu_nana"><b>Liu</b>&nbsp;Nana</a></span>, <a href="../../../author/gan_qili"><b>Gan</b>&nbsp;Qili</a></span>, <a href="../../../author/tao_qin"><b>Tao</b>&nbsp;Qin</a></span>, <a href="../../../author/wang_jie"><b>Wang</b>&nbsp;Jie</a></span><br>
+Contribution - Novel Technology and Whole-Process Management in Prefabricated Building, pp. 263-270
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_nana"><b>Liu</b> Nana</a>
-,     <a href="../../../author/gan_qili"><b>Gan</b> Qili</a>
-,     <a href="../../../author/tao_qin"><b>Tao</b> Qin</a>
-,     <a href="../../../author/wang_jie"><b>Wang</b> Jie</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Novel Technology and Whole-Process Management in Prefabricated Building, pp. 263-270
-
-:aca-blank:{ .lg .middle}
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20Materials%20for%20Concrete%20%28Mortar%29%203D%20Printing%20Fabricated%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200461241&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,19 +36,46 @@ tags:
 <a href="https://inciteful.xyz/p/W4400835090" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-97-5108-2_28" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-97-5108-2_28?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete (mortar) 3D printing is a newconstruction process. Due to the lack of sufficient tensile strength and ductility of traditional cement-based printing materials, and the printing process will lead to the stratification of materials, and most 3D printing is contour printing, only after manually filling concrete and steel bars, 3D printed buildings have a certain bearing capacity. This paper discusses the current research progress of concrete (mortar) 3D printing, the requirements of printing materials, as well as the research status and future research direction of bionic materials. Through analysis, combined with the new material UDHCC independently developed by this research team, it is confirmed that it is completely possible to realize layered pouring componentswith both flexural bearing capacity and ductility. It provides theoretical and technical basis for the development of3D printing no-bar construction process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{liu_gan_tao_wang.2024.RoMfCM3PFC,
+      author            = "Nana Liu and Qili Gan and Qin Tao and Jie Wang",
+      title             = "Research on Materials for Concrete (Mortar) 3D Printing Fabricated Components",
+      doi               = "10.1007/978-981-97-5108-2_28",
+      year              = "2024",
+      volume            = "382",
+      pages             = "263--270",
+      booktitle         = "Novel Technology and Whole-Process Management in Prefabricated Building",
+      editor            = "Ping Xiang and Liangdong Zuo",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Liu, Q. Gan, Q. Tao and J. Wang, “Research on Materials for Concrete (Mortar) 3D Printing Fabricated Components”, in <i>Novel Technology and Whole-Process Management in Prefabricated Building</i>,  2024, vol. 382, pp. 263–270. doi: 10.1007/978-981-97-5108-2_28.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Nana, Qili Gan, Qin Tao, and Jie Wang. “Research on Materials for Concrete (Mortar) 3D Printing Fabricated Components”. In <i>Novel Technology and Whole-Process Management in Prefabricated Building</i>, edited by Ping Xiang and Liangdong Zuo, 382:263–70, 2024. https://doi.org/10.1007/978-981-97-5108-2_28.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

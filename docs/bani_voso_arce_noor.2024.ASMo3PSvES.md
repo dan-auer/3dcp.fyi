@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kasra Banijamali, Payam Vosoughi, Gabriel Arce, Hassan Noorvand, Joseph Lamendola, Marwa Hassan, Ali Kazemian
+    - footer
+title: Banijamali Kasra, Vosoughi Payam, Arce Gabriel, Noorvand Hassan, Lamendola Joseph, Hassan Marwa, Kazemian Ali
 description:
 tags:
  - automation
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.autcon.2024.105681" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105681</a>
+#Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105681" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105681" target="_blank">10.1016/j.autcon.2024.105681</a>
 
--------------------------
+<a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b>&nbsp;Payam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arce_amador_gabriel"><b>Arce</b>&nbsp;Gabriel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noorvand_hassan"><b>Noorvand</b>&nbsp;Hassan</a></span>, <a href="../../../author/lamendola_joseph"><b>Lamendola</b>&nbsp;Joseph</a></span>, <a href="../../../author/hassan_m_marwa"><b>Hassan</b>&nbsp;Marwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
+Journal Article - Automation in Construction, Vol. 166, No. 105681
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>
-,     <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>
-,     <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> <a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> <a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lamendola_joseph"><b>Lamendola</b> Joseph</a>
-,     <a href="../../../author/hassan_m_marwa"><b>Hassan</b> Marwa</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 166, No. 105681
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#embedded`](keyword/embedded)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#sensor`](keyword/sensor)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Strength%20Monitoring%20of%203D%20Printed%20Structures%20via%20Embedded%20Sensors" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200860407&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401391994" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105681" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105681?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Estimating the early-age strength of 3D printed concrete is more challenging than that of conventional concrete due to the absence of formwork and increased variability in curing conditions. The common maturity method is ineffective for 3D printed structures since it fails to account for moisture content variations. This paper introduces a new approach using embedded sensors to continuously collect data on the electrical properties and temperature of 3D printed concrete, enabling accurate strength estimation under varying curing conditions. Empirical models based on electrical resistivity, internal temperature, and relative permittivity are developed and evaluated. The permittivity-based model can estimate the flexural strength of 3D printed specimens with at least 83% accuracy and a maximum root mean square error of 0.27 MPa under different curing conditions across three concrete grades. Additionally, an innovative curing technique involving the automated application of curing compounds is proposed and proven effective for 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../bani_voso_arce_noor.2024.EASMoSE3PS/">Early-Age Strength Monitoring of Sensor-Embedded 3D Printed Structures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -90,8 +66,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
@@ -99,4 +76,34 @@ tags:
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zuo_tao_cort.2024.ERoCTDDLSOS3PBoITI/">Experimental Research of Concrete Temperature-Distribution During Large-Scale On-Site 3D Printing Based on Infrared-Thermal-Imaging</a></li>
       <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bani_voso_arce_noor.2024.ASMo3PSvES,
+      author            = "Kasra Banijamali and Payam Vosoughi and Gabriel Amador Arce and Hassan Noorvand and Joseph Lamendola and Marwa M. Hassan and Ali Kazemian",
+      title             = "Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors",
+      doi               = "10.1016/j.autcon.2024.105681",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "166",
+      pages             = "105681",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Banijamali, “Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors”, <i>Automation in Construction</i>, vol. 166, p. 105681, 2024, doi: 10.1016/j.autcon.2024.105681.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Banijamali, Kasra, Payam Vosoughi, Gabriel Amador Arce, Hassan Noorvand, Joseph Lamendola, Marwa M. Hassan, and Ali Kazemian. “Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors”. <i>Automation in Construction</i> 166 (2024): 105681. https://doi.org/10.1016/j.autcon.2024.105681.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

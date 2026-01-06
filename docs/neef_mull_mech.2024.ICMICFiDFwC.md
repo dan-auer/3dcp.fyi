@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tobias Neef, Steffen Müller, Viktor Mechtcherine
+    - footer
+title: Neef Tobias, Müller Steffen, Mechtcherine Viktor
 description:
 tags:
  - carbon
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2024.112794) Integrating Continuous Mineral-Impregnated Carbon-Fibers into Digital Fabrication with Concrete ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.matdes.2024.112794" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2024.112794</a>
+#Integrating Continuous Mineral-Impregnated Carbon-Fibers into Digital Fabrication with Concrete ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2024.112794) <a href="https://doi.org/10.1016/j.matdes.2024.112794" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.112794" target="_blank">10.1016/j.matdes.2024.112794</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8256-1455" title="ORCID: 0000-0002-8256-1455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neef_tobias"><b>Neef</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muller_steffen"><b>Müller</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Materials & Design, No. 112794
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> <a href="https://orcid.org/0000-0002-8256-1455" title="ORCID: 0000-0002-8256-1455" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> <a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, No. 112794
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#continuous`](keyword/continuous)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#fiber`](keyword/fiber)
-    [`#impregnation`](keyword/impregnation)
-    [`#integration`](keyword/integration)
-    [`#mineral`](keyword/mineral)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/impregnation"><button class="btn">#impregnation</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integrating%20Continuous%20Mineral-Impregnated%20Carbon-Fibers%20into%20Digital%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187207313&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392362938" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2024.112794" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2024.112794?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital concrete technologies, such as 3D concrete printing, have the potential to be game changers in the construction industry by reducing material consumption and offering a high level of automation. This not only provides a solution to the shortage of qualified workers but also makes construction sites more attractive workplaces. However, a significant challenge lies in integrating reinforcement, as traditional methods quickly reach their limits, particularly in geometrically complex, material-minimized structures. A potential solution is the use of mineral-impregnated carbon fibers (MCF) reinforcement, which offers high flexibility for 3D printing and better bonding to concrete compared to polymer coating, among other advantages. This article presents the integration of both freshly impregnated and cured MCF into two different concretes in the context of digital fabrication: 3D-printed concrete (3DPC) and self-compacting concrete (SCC). A particular focus was on the mechanical performance of MCF and MCF-reinforced concrete, as well as on the bond behavior between MCF and concrete. The second focus was on the production method. Therefore, samples were conventionally cast with SCC, while layered pouring or printing were used for producing specimens with 3DPC. It was found that the cured MCF exhibited a notably better bond, enhanced by 50%, to both 3DPC and SCC compared to freshly impregnated yarns. Subsequently, when subjected to uniaxial tensile loading, a significantly higher crack density and more uniform crack distribution could be observed in composites with cured MCF using digital image correlation (DIC). This effect was particularly pronounced in printed specimens and confirmed with computed tomography (CT) and environmental scanning electron microscope (ESEM) images.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -95,12 +73,42 @@ tags:
       <li><a href="../../../author/wang_weiqiang"><b>Wang</b> Weiqiang</a>, <a href="../../../author/konstantinidis_nikolaos"><b>Konstantinidis</b> Nikolaos</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wang_kons_aust_busw.2020.FBoAGTR3PCB/">Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../teng_xu_yang_yu.2025.DoSSHCCCDf3P/">Development of Sustainable Strain-Hardening Cementitious Composites Containing Diatomite for 3D Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../neef_mech.2024.CFRfEB3CP/">Continuous Fiber-Reinforcement for Extrusion-Based 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{neef_mull_mech.2024.ICMICFiDFwC,
+      author            = "Tobias Neef and Steffen Müller and Viktor Mechtcherine",
+      title             = "Integrating Continuous Mineral-Impregnated Carbon-Fibers into Digital Fabrication with Concrete",
+      doi               = "10.1016/j.matdes.2024.112794",
+      year              = "2024",
+      journal           = "Materials & Design",
+      pages             = "112794",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Neef, S. Müller and V. Mechtcherine, “Integrating Continuous Mineral-Impregnated Carbon-Fibers into Digital Fabrication with Concrete”, <i>Materials & Design</i>, p. 112794, 2024, doi: 10.1016/j.matdes.2024.112794.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Neef, Tobias, Steffen Müller, and Viktor Mechtcherine. “Integrating Continuous Mineral-Impregnated Carbon-Fibers into Digital Fabrication with Concrete”. <i>Materials & Design</i>, 2024, 112794. https://doi.org/10.1016/j.matdes.2024.112794.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

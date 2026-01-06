@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Yuan, Zonglin Xie, Hao Yao, Tingjie Huang, Zemin Li, Xinguo Zheng
+    - footer
+title: Yuan Qiang, Xie Zonglin, Yao Hao, Huang Tingjie, Li Zemin, Zheng Xinguo
 description:
 tags:
  - cement
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmrt.2022.06.093) Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.jmrt.2022.06.093" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2022.06.093</a>
+#Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials ([2022-06](date/2022/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2022.06.093) <a href="https://doi.org/10.1016/j.jmrt.2022.06.093" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2022.06.093" target="_blank">10.1016/j.jmrt.2022.06.093</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1438-4194" title="ORCID: 0000-0002-1438-4194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_zonglin"><b>Xie</b>&nbsp;Zonglin</a></span>, <a href="../../../author/yao_hao"><b>Yao</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1023-6159" title="ORCID: 0000-0003-1023-6159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_tingjie"><b>Huang</b>&nbsp;Tingjie</a></span>, <a href="../../../author/li_zemin"><b>Li</b>&nbsp;Zemin</a></span>, <a href="../../../author/zheng_xinguo"><b>Zheng</b>&nbsp;Xinguo</a></span><br>
+Journal Article - Journal of Materials Research and Technology, Vol. 19, pp. 3394-3405
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> <a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a> <a href="https://orcid.org/0000-0002-1438-4194" title="ORCID: 0000-0002-1438-4194" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>
-,     <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> <a href="https://orcid.org/0000-0003-1023-6159" title="ORCID: 0000-0003-1023-6159" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>
-,     <a href="../../../author/zheng_xinguo"><b>Zheng</b> Xinguo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, Vol. 19, pp. 3394-3405
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#inter`](keyword/inter)
-    [`#interface`](keyword/interface)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Polyacrylamide%20on%20the%20Workability%20and%20Inter-Layer%20Interface%20Properties%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147730397&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4283388161" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2022.06.093" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2022.06.093?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Weak interlayer interface is a major drawback of three-dimensional (3D) printed cementitious materials technology. In this paper, the effect of anionic polyacrylamide (APAM) with different dosages on the workability, interlayer interface properties (i.e., interlayer durability, shear bond strength) and interface microstructure of 3D printed cement mortar were studied. The relationship between the workability regulated by APAM and the interlayer interface properties was analyzed. The results showed that the interlayer interface properties of printed artifacts had a good correlation with the workability of fresh cement pastes. With the increase of APAM content, the plastic viscosity and structural build-up rate of cement paste improved. Meanwhile, the interface microstructure defects increased, and the porosity became higher, hence resulting in the decline of the interlayer durability and shear bond strength. In addition, the introduction of APAM can improve the cohesiveness and layer stacking performance of 3D printed cement mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>, <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>, <a href="../../../author/radler_michael"><b>Radler</b> Michael</a> et al. <a href="../../../date/2015/05">(2015-05)</a><br><a href="../../../bess_baum_schm_radl.2015.EoPoRoFCP/">Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -97,10 +72,9 @@ tags:
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM/">Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar</a></li>
-      <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../yuan_xie_yao_huan.2022.EoPotWaILIPo3PCM/">Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/prathap_y"><b>Prathap</b> Y.</a>, <a href="../../../author/sandeep_ankit"><b>Sandeep</b> Ankit</a>, <a href="../../../author/vaghamshi_v_keval"><b>Vaghamshi</b> Keval</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../das_prat_sand_vagh.2025.RtMSRDaMCo3PC/">Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhao_jian_xia_hou.2025.MICPEoTSaEASo3PC/">Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete</a></li>
       <li><a href="../../../author/li_hualong"><b>Li</b> Hualong</a>, <a href="../../../author/shi_ye"><b>Shi</b> Ye</a>, <a href="../../../author/rong_hui"><b>Rong</b> Hui</a>, <a href="../../../author/dai_kaichao"><b>Dai</b> Kaichao</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_shi_rong_dai.2025.EoAotPo3PUHPC/">Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete</a></li>
@@ -109,6 +83,35 @@ tags:
       <li><a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhang_longfei"><b>Zhang</b> Longfei</a>, <a href="../../../author/wei_kai"><b>Wei</b> Kai</a>, <a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../chen_zhan_wei_gao.2024.RCaSMo3PGCUNCaMO/">Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sahi_mard.2023.HDRBAtILBSo3M/">How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures?</a></li>
       <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../yuan_xie_yao_huan.2022.EoPotWaILIPo3PCM/">Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_xie_yao_huan.2022.EoPotWaILIPo3PCM,
+      author            = "Qiang Yuan and Zonglin Xie and Hao Yao and Tingjie Huang and Zemin Li and Xinguo Zheng",
+      title             = "Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials",
+      doi               = "10.1016/j.jmrt.2022.06.093",
+      year              = "2022",
+      journal           = "Journal of Materials Research and Technology",
+      volume            = "19",
+      pages             = "3394--3405",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Yuan, Z. Xie, H. Yao, T. Huang, Z. Li and X. Zheng, “Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials”, <i>Journal of Materials Research and Technology</i>, vol. 19, pp. 3394–3405, 2022, doi: 10.1016/j.jmrt.2022.06.093.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Qiang, Zonglin Xie, Hao Yao, Tingjie Huang, Zemin Li, and Xinguo Zheng. “Effect of Polyacrylamide on the Workability and Inter-Layer Interface Properties of 3D Printed Cementitious Materials”. <i>Journal of Materials Research and Technology</i> 19 (2022): 3394–3405. https://doi.org/10.1016/j.jmrt.2022.06.093.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

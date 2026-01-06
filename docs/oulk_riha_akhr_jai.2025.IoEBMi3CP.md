@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatima Oulkhir, Nadir Rihani, Iatimad Akhrif, Mostapha Jai
+    - footer
+title: Oulkhir Fatima, Rihani Nadir, Akhrif Iatimad, Jai Mostapha
 description:
 tags:
  - base
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1051/e3sconf/202560100024) Integration of Earth-Based Materials in 3D Concrete Printing:<br/>:aca-blank: Physico-Chemical and Technological Characterization ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1051/e3sconf/202560100024" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1051/e3sconf/202560100024</a>
+#Integration of Earth-Based Materials in 3D Concrete Printing&nbsp;([2025-01](date/2025/01))
+<div class="h1-like">Physico-Chemical and Technological Characterization</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1051/e3sconf/202560100024) <a href="https://doi.org/10.1051/e3sconf/202560100024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202560100024" target="_blank">10.1051/e3sconf/202560100024</a>
 
--------------------------
+<a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b>&nbsp;Fatima</a></span>, <a href="../../../author/rihani_nadir"><b>Rihani</b>&nbsp;Nadir</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akhrif_iatimad"><b>Akhrif</b>&nbsp;Iatimad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jai_mostapha"><b>el&nbsp;Jai</b>&nbsp;Mostapha</a></span><br>
+Journal Article - E3S Web of Conferences, Vol. 601, No. 00024
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>
-,     <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a>
-,     <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> <a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jai_mostapha"><b>el Jai</b> Mostapha</a> <a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - E3S Web of Conferences, Vol. 601, No. 00024
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#characteristic`](keyword/characteristic)
-    [`#chemical`](keyword/chemical)
-    [`#concrete`](keyword/concrete)
-    [`#earth`](keyword/earth)
-    [`#integration`](keyword/integration)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%20Earth-Based%20Materials%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216722410&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406474578" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1051/e3sconf/202560100024" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1051/e3sconf/202560100024?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The overall goal of this study is to support the advancement of new construction methods and materials that are more cost-effective and have lower carbon emissions. There is a rising interest in utilizing earth materials in 3DCP for sustainable construction solutions, but their progress is limited by slow production rates. This research investigated the influence of various parameters on the efficacy of 3D earth materials printing using Taguchi experimental design, such as alginate dosing, scan strategy, scan speed, layer thickness, and curing age. Moreover, the impact of incorporating 2% alginate biopolymer into the clay matrix was assessed through FT-IR and XRD analysis. Additionally, the Taguchi method was assessed using Fault Tree Analysis FTA to pinpoint the primary causes of failure in extrudability and buildability functions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
@@ -85,8 +63,38 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../oulk_akhr_jai_riha.2025.CaABM3P/">Clay and Alginate-Based Mixtures 3D Printing:<br/>A Numerical Procedure for Shape Stability and Buildability Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{oulk_riha_akhr_jai.2025.IoEBMi3CP,
+      author            = "Fatima Zahra Oulkhir and Nadir Rihani and Iatimad Akhrif and Mostapha El Jai",
+      title             = "Integration of Earth-Based Materials in 3D Concrete Printing: Physico-Chemical and Technological Characterization",
+      doi               = "10.1051/e3sconf/202560100024",
+      year              = "2025",
+      journal           = "E3S Web of Conferences",
+      volume            = "601",
+      pages             = "00024",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Z. Oulkhir, N. Rihani, I. Akhrif and M. E. Jai, “Integration of Earth-Based Materials in 3D Concrete Printing: Physico-Chemical and Technological Characterization”, <i>E3S Web of Conferences</i>, vol. 601, p. 00024, 2025, doi: 10.1051/e3sconf/202560100024.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oulkhir, Fatima Zahra, Nadir Rihani, Iatimad Akhrif, and Mostapha El Jai. “Integration of Earth-Based Materials in 3D Concrete Printing: Physico-Chemical and Technological Characterization”. <i>E3S Web of Conferences</i> 601 (2025): 00024. https://doi.org/10.1051/e3sconf/202560100024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

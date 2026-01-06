@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vladimir Travush, Alexey Bulgakov, Thomas Bock, Wen-der Yu, Ekaterina Pakhomova
+    - footer
+title: Travush Vladimir, Bulgakov Alexey, Bock Thomas, Yu Wen-der, Pakhomova Ekaterina
 description:
 tags:
  - concrete
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mathematical Description of Concrete Laying Robots ([2023-07](date/2023/07))
-<a href="https://doi.org/10.22260/isarc2023/0029" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2023/0029</a>
+#Mathematical Description of Concrete Laying Robots ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2023/0029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0029" target="_blank">10.22260/isarc2023/0029</a>
 
--------------------------
+<a href="../../../author/travush_vladimir"><b>Travush</b>&nbsp;Vladimir</a></span>, <a href="../../../author/bulgakov_alexey"><b>Bulgakov</b>&nbsp;Alexey</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1278-7440" title="ORCID: 0000-0002-1278-7440" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bock_thomas"><b>Bock</b>&nbsp;Thomas</a></span>, <a href="../../../author/yu_wen-der"><b>Yu</b>&nbsp;Wen-der</a></span>, <a href="../../../author/pakhomova_ekaterina"><b>Pakhomova</b>&nbsp;Ekaterina</a></span><br>
+Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/travush_vladimir"><b>Travush</b> Vladimir</a>
-,     <a href="../../../author/bulgakov_alexey"><b>Bulgakov</b> Alexey</a>
-,     <a href="../../../author/bock_thomas"><b>Bock</b> Thomas</a> <a href="https://orcid.org/0000-0002-1278-7440" title="ORCID: 0000-0002-1278-7440" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_wen-der"><b>Yu</b> Wen-der</a>
-,     <a href="../../../author/pakhomova_ekaterina"><b>Pakhomova</b> Ekaterina</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#description`](keyword/description)
-    [`#mathematics`](keyword/mathematics)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/description"><button class="btn">#description</button></a> <a href="../../keyword/mathematics"><button class="btn">#mathematics</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mathematical%20Description%20of%20Concrete%20Laying%20Robots" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172883993&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,19 +34,44 @@ tags:
 <a href="https://inciteful.xyz/p/W4382600709" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2023/0029" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2023/0029?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The object of the research is robots with a manipulation system for concrete-laying operations. The kinematic scheme of a robot with an articulated distributive arm, providing delivery of concrete to any point of the erected object and allowing to bypass various kinds of encountered obstacles, is presented. The closed loops in the form of three- and four-links, which make up the manipulation system, are considered and mathematically described, which is conditioned by the use of a hydraulic drive. On the basis of geometrical approach connections between them are defined, as well as dependences of their velocities and accelerations are established. The description of the dynamics of the manipulating system is made on the basis of the Lagrange method, formulated through the D'Alamber principle, which allowed to obtain the resulting equations in a convenient vector-matrix form. The problem of planning the trajectories of a robotized concrete-laying arm nozzle on the examples of monolithic buildings and structures erection by means of sliding, repositionable and volumetric formwork has been solved. Approximation methods are used to form the time laws of changes in the generalized coordinates of the manipulation system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{trav_bulg_bock_yu.2023.MDoCLR,
+      author            = "Vladimir Travush and Alexey Bulgakov and Thomas Bock and Wen-der Yu and Ekaterina Pakhomova",
+      title             = "Mathematical Description of Concrete Laying Robots",
+      doi               = "10.22260/isarc2023/0029",
+      year              = "2023",
+      booktitle         = "Proceedings of the 40th International Symposium on Automation and Robotics in Construction",
+      editor            = "Borja García de Soto and Vincente Gonzalez-Moret and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Travush, A. Bulgakov, T. Bock, W.-. der . Yu and E. Pakhomova, “Mathematical Description of Concrete Laying Robots”, in <i>Proceedings of the 40th International Symposium on Automation and Robotics in Construction</i>,  2023. doi: 10.22260/isarc2023/0029.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Travush, Vladimir, Alexey Bulgakov, Thomas Bock, Wen-der Yu, and Ekaterina Pakhomova. “Mathematical Description of Concrete Laying Robots”. In <i>Proceedings of the 40th International Symposium on Automation and Robotics in Construction</i>, edited by Borja García de Soto, Vincente Gonzalez-Moret, and Ioannis Brilakis, 2023. https://doi.org/10.22260/isarc2023/0029.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

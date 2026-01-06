@@ -8,7 +8,7 @@ search:
 
 # #first
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko.2025.GF3PCDWTiBP/">Globally First 3D‐Printed Concrete Drinking Water Tank in Barczewko, Poland</a></li>
   <li><a href="../../../author/alos-shepherd_david"><b>Alós Shepherd</b> David</a>, <a href="../../../author/dehn_frank"><b>Dehn</b> Frank</a>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>, <a href="../../../author/degen_robin"><b>Degen</b> Robin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../alos_dehn_kuhn_dege.2025.3CPoSWCSwTCP/">3D Concrete Printing of Solid Wall Cross-Sections with Truckmounted Concrete Pump:<br/>A Report on the First Printed Structure in Germany</a></li>
   <li><a href="../../../author/unglaub_julian"><b>Unglaub</b> Julian</a>, <a href="../../../author/muggenburg_marc"><b>Müggenburg</b> Marc</a>, <a href="../../../author/jahns_hendrik"><b>Jahns</b> Hendrik</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ungl_mugg_jahn_klof.2024.TaDTtEFTRDAC/">Towards a Digital Twin to Enable First Time Right DED-Arc Components</a></li>

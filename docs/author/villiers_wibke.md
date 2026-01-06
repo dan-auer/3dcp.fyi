@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # de Villiers Wibke 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/els_heinrich"><b>Els</b> Heinrich</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../els_zijl_vill.2025.ARoSaRSCi3CP/">A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing</a></li>
   <li><a href="../../../author/timm_kim"><b>Timm</b> Kim</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../timm_vill_zijl.2024.BT/">Bridging Technologies:<br/>Integrating 3DCP and OSC Through BIM Implementation</a></li>
   <li><a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/mwongo_mwiti"><b>Mwongo</b> Mwiti</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../vill_mwon_baba_zijl.2024.QRCaDWfUi3PC/">Quantifying Recycled Construction and Demolition Waste for Use in 3D Printed Concrete</a></li>

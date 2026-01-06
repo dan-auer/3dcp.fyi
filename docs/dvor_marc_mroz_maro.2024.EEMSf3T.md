@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leonid Dvorkin, Vitaliy Marchuk, Katarzyna Mróz, Marcin Maroszek, Izabela Hager
+    - footer
+title: Dvorkin Leonid, Marchuk Vitaliy, Mróz Katarzyna, Maroszek Marcin, Hager Izabela
 description:
 tags:
  - efficient
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/14/7/3038/pdf?version=1712228888) Energy-Efficient Mixtures Suitable for 3D Technologies ([2024-04](date/2024/04))
-<a href="https://doi.org/10.3390/app14073038" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app14073038</a>
+#Energy-Efficient Mixtures Suitable for 3D Technologies ([2024-04](date/2024/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/14/7/3038/pdf?version=1712228888) <a href="https://doi.org/10.3390/app14073038" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14073038" target="_blank">10.3390/app14073038</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8759-6318" title="ORCID: 0000-0001-8759-6318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dvorkin_leonid"><b>Dvorkin</b>&nbsp;Leonid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0999-0402" title="ORCID: 0000-0003-0999-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchuk_vitaliy"><b>Marchuk</b>&nbsp;Vitaliy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mroz_katarzyna"><b>Mróz</b>&nbsp;Katarzyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span><br>
+Journal Article - Applied Sciences, Vol. 14, Iss. 7, No. 3038
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a> <a href="https://orcid.org/0000-0001-8759-6318" title="ORCID: 0000-0001-8759-6318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> <a href="https://orcid.org/0000-0003-0999-0402" title="ORCID: 0000-0003-0999-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a> <a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> <a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 14, Iss. 7, No. 3038
-
-:aca-blank:{ .lg .middle}
-    [`#efficient`](keyword/efficient)
-    [`#energy`](keyword/energy)
-    [`#mixture`](keyword/mixture)
-    [`#suitability`](keyword/suitability)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Energy-Efficient%20Mixtures%20Suitable%20for%203D%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192571842&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393932151" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app14073038" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app14073038?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Compositions of fine-grained concrete mixtures that provide the minimum required strength values in 1 day (7.5 MPa) have been developed. A comparison was made of the test results of the properties of samples printed on a 3D printer with samples made according to the same recipes on a vibrating platform. A laboratory printer was designed and constructed to study the properties of extruded mixtures. The method was also proposed for measuring concrete mixes’ structural strength. Analysis of experimental data allowed the establishment of the features of the influence of the mineral additives and slag–alkaline binders for a comparison of basic physical and mechanical properties of concretes for 3D printing. It has been experimentally shown that possible undercompaction of the fine-grained mixtures formed on a 3D printer and decrease of properties are compensated by the introduction of hardening activator and superplasticizer additives. The novelty of this work lies in determining the comparative effect of various products of technogenic origin on the properties of mixtures for 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
@@ -87,11 +67,42 @@ tags:
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/zhai_mingang"><b>Zhai</b> Mingang</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/wu_qing"><b>Wu</b> Qing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_zhai_yao_wu.2022.PaMPo3PCEMIW/">Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wu_liu_bai_liu.2023.3PCwRS/">3D Printed Concrete with Recycled Sand:<br/>Pore-Structure and Triaxial Compression Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
       <li><a href="../../../author/skripkiunas_gintautas"><b>Skripkiūnas</b> Gintautas</a>, <a href="../../../author/tolegenova_aigerim"><b>Tolegenova</b> Aigerim</a>, <a href="../../../author/rishko_lyudmyla"><b>Rishko</b> Lyudmyla</a>, <a href="../../../author/akmalaiuly_kenzhebek"><b>Akmalaiuly</b> Kenzhebek</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../skri_tole_rish_akma.2025.DaCDi3PC/">Durability and Cracking Defects in 3D-Printed Concrete</a></li>
       <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a>, <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a>, <a href="../../../author/makarenko_ruslan"><b>Makarenko</b> Ruslan</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../dvor_marc_maka.2024.MAFACSf3P/">Mechanochemical-Activated Fly-Ash Concrete Suitable for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dvor_marc_mroz_maro.2024.EEMSf3T,
+      author            = "Leonid Dvorkin and Vitaliy Marchuk and Katarzyna Mróz and Marcin Maroszek and Izabela Hager",
+      title             = "Energy-Efficient Mixtures Suitable for 3D Technologies",
+      doi               = "10.3390/app14073038",
+      year              = "2024",
+      journal           = "Applied Sciences",
+      volume            = "14",
+      number            = "7",
+      pages             = "3038",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Dvorkin, V. Marchuk, K. Mróz, M. Maroszek and I. Hager, “Energy-Efficient Mixtures Suitable for 3D Technologies”, <i>Applied Sciences</i>, vol. 14, no. 7, p. 3038, 2024, doi: 10.3390/app14073038.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dvorkin, Leonid, Vitaliy Marchuk, Katarzyna Mróz, Marcin Maroszek, and Izabela Hager. “Energy-Efficient Mixtures Suitable for 3D Technologies”. <i>Applied Sciences</i> 14, no. 7 (2024): 3038. https://doi.org/10.3390/app14073038.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Romain Duballet, Olivier Baverel, Justin Dirrenberger
+    - footer
+title: Duballet Romain, Baverel Olivier, Dirrenberger Justin
 description:
 tags:
  - base
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.archives-ouvertes.fr/hal-01592008/file/Duballet_DMS_2017.pdf) Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete ([2017-09](date/2017/09))
-<a href="https://doi.org/10.1007/978-981-10-6611-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-10-6611-5_39</a>
+#Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete ([2017-09](date/2017/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-01592008/file/Duballet_DMS_2017.pdf) <a href="https://doi.org/10.1007/978-981-10-6611-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-10-6611-5_39" target="_blank">10.1007/978-981-10-6611-5_39</a>
 
--------------------------
+<a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/baverel_olivier"><b>Baverel</b>&nbsp;Olivier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span><br>
+Contribution - Proceedings of the Design Modelling Symposium, pp. 453-461
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>
-,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
-,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the Design Modelling Symposium, pp. 453-461
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#insulation`](keyword/insulation)
-    [`#robot`](keyword/robot)
-    [`#space`](keyword/space)
-    [`#truss`](keyword/truss)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/truss"><button class="btn">#truss</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20of%20Space-Truss-Based%20Insulating%20Walls%20for%20Robotic%20Fabrication%20in%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2755672905" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-10-6611-5_39" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-10-6611-5_39?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work focuses on the design of ultra-light concrete walls for individual or collective housing, the normative context being constrained masonry. It is stated that current block work building is very inefficient in terms of quantity of concrete used for cinderblocks and mortar joints, and with regards to thermal insulation. Here is proposed a robotic manufacturing technique based on mortar extrusion that allows producing more efficient walls. First we present the fabrication concept, then design criteria for such objects. In the last section we show a comparative study on different geometries. We conclude with a discussion on the performances of this proposed building system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../duba_goss_roux.2015.AMaMOOoGPACS/">Additive Manufacturing and Multi-Objective Optimization of Graded Polystyrene-Aggregate Concrete Structures</a></li>
@@ -80,8 +58,8 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/chateau_camille"><b>Chateau</b> Camille</a>, <a href="../../../author/bornert_michel"><b>Bornert</b> Michel</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../duco_demo_chat_born.2020.AMoAC/">Additive Manufacturing of Anisotropic Concrete:<br/>A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
@@ -91,4 +69,34 @@ tags:
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../gaud_duba_bouy_mall.2019.LSAMoUHPCoIFfTSP/">Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{duba_bave_dirr.2018.DoSTBIWfRFiC,
+      author            = "Romain Duballet and Olivier Baverel and Justin Dirrenberger",
+      title             = "Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete",
+      doi               = "10.1007/978-981-10-6611-5_39",
+      year              = "2018",
+      pages             = "453--461",
+      booktitle         = "Proceedings of the Design Modelling Symposium: Humanizing Digital Reality",
+      editor            = "Klaas de Rycke and Christoph Gengnagel and Olivier Baverel and Jane Burry and Caitlin T. Mueller and Minh Man Nguyen and Philippe Rahm and Mette Ramsgaard Thomsen",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Duballet, O. Baverel and J. Dirrenberger, “Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete”, in <i>Proceedings of the Design Modelling Symposium: Humanizing Digital Reality</i>,  2018, pp. 453–461. doi: 10.1007/978-981-10-6611-5_39.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Duballet, Romain, Olivier Baverel, and Justin Dirrenberger. “Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete”. In <i>Proceedings of the Design Modelling Symposium: Humanizing Digital Reality</i>, edited by Klaas de Rycke, Christoph Gengnagel, Olivier Baverel, Jane Burry, Caitlin T. Mueller, Minh Man Nguyen, Philippe Rahm, and Mette Ramsgaard Thomsen, 453–61, 2018. https://doi.org/10.1007/978-981-10-6611-5_39.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harald Kloft, Christoph Gehlen, Kathrin Dörfler, Norman Hack, Klaudius Henke, Dirk Lowke, Jeldrik Mainka, Annika Raatz
+    - footer
+title: Kloft Harald, Gehlen Christoph, Dörfler Kathrin, Hack Norman, Henke Klaudius, Lowke Dirk, Mainka Jeldrik, Raatz Annika
 description:
 tags:
  - additive
@@ -11,31 +12,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} TRR 277:<br/>:aca-blank: Additive Manufacturing in Construction ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1002/bate.202000113" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/bate.202000113</a>
+#TRR 277&nbsp;([2021-01](date/2021/01))
+<div class="h1-like">Additive Manufacturing in Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/bate.202000113" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.202000113" target="_blank">10.1002/bate.202000113</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6589-6053" title="ORCID: 0000-0001-6589-6053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/henke_klaudius"><b>Henke</b>&nbsp;Klaudius</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8941-5661" title="ORCID: 0000-0002-8941-5661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mainka_jeldrik"><b>Mainka</b>&nbsp;Jeldrik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span><br>
+Journal Article - Bautechnik, Vol. 98, Iss. 3, pp. 222-231
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> <a href="https://orcid.org/0000-0001-6589-6053" title="ORCID: 0000-0001-6589-6053" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a> <a href="https://orcid.org/0000-0002-8941-5661" title="ORCID: 0000-0002-8941-5661" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Bautechnik, Vol. 98, Iss. 3, pp. 222-231
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=TRR%20277" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100572144&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3122572253" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/bate.202000113" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/bate.202000113?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is one of the least digitalized sectors to date. In contrast to other production areas, the manufacture of buildings is characterized by individualized construction processes. Digital manufacturing technologies from other sectors of the economy have not become established in the construction industry as they do not enable the necessary individualization or are uneconomical. The advantages of additive manufacturing technologies are that automation and individualization are not in conflict with each other and that 3D printing only builds up material where it is structurally or functionally necessary. In this respect, additive manufacturing is both economical and resource-efficient. The DFG Collaborative Research Centre/Transregio TRR 277 of the two universities TU Braunschweig and TU Munich aims to conduct fundamental research into additive manufacturing technology for the construction industry and contribute to the digitalization of the construction industry. This article provides an overview of the objectives, structure and methods of TRR 277 as well as the three project areas with a total of 18 scientific sub-projects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -70,7 +50,6 @@ tags:
       <li><a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/olbrich_alexander"><b>Olbrich</b> Alexander</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ibra_olbr_lind_gerb.2018.AAMoCSwF/">Automated Additive Manufacturing of Concrete Structures without Formwork:<br/>Concept for Path-Planning</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../klof_empe_hack_herr.2020.SftRf3CP/">Strategies for the Reinforcement for 3D-Concrete-Printing</a></li>
-      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2b/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../klof_hack_main_broh.2019.AMiC/">Additive Manufacturing in Construction:<br/>First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
@@ -79,8 +58,9 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../pier_wege_perr_lowk.2018.PoCPiSPD3P/">Penetration of Cement-Pastes into Sand-Packings During 3D Printing:<br/>Analytical and Experimental Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>
       <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a>, <a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a>, <a href="../../../author/fuentes_mauricio"><b>Fuentes</b> Mauricio</a>, <a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../flor_toap_fuen_rive.2025.AMT/">Additive Manufacturing Technologies:<br/>Advances for the Construction Industry</a></li>
       <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b> Virama</a>, <a href="../../../author/hurkamp_andre"><b>Hürkamp</b> André</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lach_reck_ekan_hurk.2024.MMBAM/">Multi-Model-Based Additive Manufacturing:<br/>A Framework for Automated Large-Scale 3D Concrete Printing with Industrial Robots</a></li>
@@ -96,7 +76,36 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
       <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bagh_dorr_klof.2020.NCAfSaOtRMfRCM/">New Calculation Approach for Selecting and Orienting the Reinforcing Material for Robotic Concrete Manufacturing</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/lopez_william"><b>Lopez</b> William</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P/">Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing</a></li>
-      <li><a href="../../../author/dubov_alexey"><b>Dubov</b> Alexey</a>, <a href="../../../author/ruben_sam"><b>Ruben</b> Sam</a>, <a href="../../../author/korshikov_vasily"><b>Korshikov</b> Vasily</a>, <a href="../../../author/ivanova_anna"><b>Ivanova</b> Anna</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../dubo_rube_kors_ivan.2022.3PoPwCFtRSRaSSiC/">3D Printing of Polymers with Continuous Fibers to Replace Steel-Reinforcement and Structural Steel in Construction</a></li>
-      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{klof_gehl_dorf_hack.2021.T2,
+      author            = "Harald Kloft and Christoph Gehlen and Kathrin Dörfler and Norman Peter Hack and Klaudius Henke and Dirk Lowke and Jeldrik Mainka and Annika Raatz",
+      title             = "TRR 277: Additive Manufacturing in Construction",
+      doi               = "10.1002/bate.202000113",
+      year              = "2021",
+      journal           = "Bautechnik",
+      volume            = "98",
+      number            = "3",
+      pages             = "222--231",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kloft, “TRR 277: Additive Manufacturing in Construction”, <i>Bautechnik</i>, vol. 98, no. 3, pp. 222–231, 2021, doi: 10.1002/bate.202000113.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kloft, Harald, Christoph Gehlen, Kathrin Dörfler, Norman Peter Hack, Klaudius Henke, Dirk Lowke, Jeldrik Mainka, and Annika Raatz. “TRR 277: Additive Manufacturing in Construction”. <i>Bautechnik</i> 98, no. 3 (2021): 222–31. https://doi.org/10.1002/bate.202000113.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

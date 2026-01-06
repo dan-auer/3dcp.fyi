@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mo Li, Yun-Chen Wu, Xinbo Wang
+    - footer
+title: Li Mo, Wu Yun-Chen, Wang Xinbo
 description:
 tags:
  - additive
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.21012/fc12.1172) Fracture Behavior of Additively Manufactured Cementitious Materials ([2025-04](date/2025/04))
-<a href="https://doi.org/10.21012/fc12.1172" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21012/fc12.1172</a>
+#Fracture Behavior of Additively Manufactured Cementitious Materials ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc12.1172) <a href="https://doi.org/10.21012/fc12.1172" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1172" target="_blank">10.21012/fc12.1172</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mo"><b>Li</b>&nbsp;Mo</a></span>, <a href="../../../author/wu_yun-chen"><b>Wu</b>&nbsp;Yun-Chen</a></span>, <a href="../../../author/wang_xinbo"><b>Wang</b>&nbsp;Xinbo</a></span><br>
+Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>
-,     <a href="../../../author/wang_xinbo"><b>Wang</b> Xinbo</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#fracture`](keyword/fracture)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fracture%20Behavior%20of%20Additively%20Manufactured%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409431055" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21012/fc12.1172" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21012/fc12.1172?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) of cementitious materials, also known as 3D printing, offers transformative potential for the construction sector. Given the inherently quasi-brittle behavior of cementitious materials and their vulnerability to fracture, it is essential to understand how the layer-by-layer extrusion process affects their fracture resistance. This study explored the interplay between early-age rheology, pore structure, and fracture toughness of additively manufactured cementitious materials. Using three-dimensional micro-computed tomography, the impact of early-age thixotropic behavior and varying printing time intervals on the pore structure of the interlayers was examined. Fracture tests were conducted on printed specimens, incorporating a digital image correlation system for precise monitoring and visualization of crack evolution. The findings demonstrated that fracture toughness of additively manufactured cementitious materials is strongly influenced by their early-age rheological behavior and printing conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
@@ -74,8 +55,36 @@ tags:
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/wang_xinbo"><b>Wang</b> Xinbo</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../wu_wang_li.2024.RoTiILMaPoAMCM/">Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/jancarikova_denisa"><b>Jancarikova</b> Denisa</a>, <a href="../../../author/khongova_ingrid"><b>Khongova</b> Ingrid</a>, <a href="../../../author/bibora_petr"><b>Bibora</b> Petr</a>, <a href="../../../author/szklorzova_halina"><b>Szklorzova</b> Halina</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../janc_khon_bibo_szkl.2024.3PCCT/">3D Printed Cement Composites Testing</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{li_wu_wang.2025.FBoAMCM,
+      author            = "Mo Li and Yun-Chen Wu and Xinbo Wang",
+      title             = "Fracture Behavior of Additively Manufactured Cementitious Materials",
+      doi               = "10.21012/fc12.1172",
+      year              = "2025",
+      booktitle         = "Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures",
+      editor            = "Bernhard L. A. Pichler and Christian Hellmich and Philipp Preinstorfer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Li, Y.-C. Wu and X. Wang, “Fracture Behavior of Additively Manufactured Cementitious Materials”, in <i>Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures</i>,  2025. doi: 10.21012/fc12.1172.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Mo, Yun-Chen Wu, and Xinbo Wang. “Fracture Behavior of Additively Manufactured Cementitious Materials”. In <i>Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures</i>, edited by Bernhard L. A. Pichler, Christian Hellmich, and Philipp Preinstorfer, 2025. https://doi.org/10.21012/fc12.1172.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

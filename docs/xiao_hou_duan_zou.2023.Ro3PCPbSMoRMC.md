@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianzhuang Xiao, Shaodan Hou, Zhenhua Duan, Shuai Zou
+    - footer
+title: Xiao Jianzhuang, Hou Shaodan, Duan Zhenhua, Zou Shuai
 description:
 tags:
  - concrete
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.104958" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.104958</a>
+#Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.104958" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.104958" target="_blank">10.1016/j.cemconcomp.2023.104958</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/hou_shaodan"><b>Hou</b>&nbsp;Shaodan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_shuai"><b>Zou</b>&nbsp;Shuai</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#mixing`](keyword/mixing)
-    [`#printability`](keyword/printability)
-    [`#ready`](keyword/ready)
-    [`#rheology`](keyword/rheology)
-    [`#secondary`](keyword/secondary)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/ready"><button class="btn">#ready</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/secondary"><button class="btn">#secondary</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20of%203D%20Printable%20Concrete%20Prepared%20by%20Secondary%20Mixing%20of%20Ready-Mix%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147326594&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4318197669" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.104958" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.104958?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The requirements for pumpability, extrudability, and buildability of 3D printable concrete are very high, and it is hard for ready-mix concrete to meet these requirements. In this study, a novel method, namely secondary mixing was performed to adjust the ready-mix concrete with high fluidity to a printable state by adding an appropriate amount of viscosity modifying agent before printing. The effects of hydroxy propyl methyl cellulose (HPMC) and standing time on the rheology evolution of 3D printable ready-mix concrete (3DPRC) before/after secondary mixing were comparatively investigated. In addition, recycled coarse aggregates (RCA) with a maximum size of 10 mm were applied to prepare 3DPRC. The results showed that adding HPMC during secondary mixing on-site facilitated the buildability of 3DPRC by increasing its static yield stress. The standing time exhibited a great effect on the improvement of dynamic yield stress. Meanwhile, the RCA increased the dynamic yield stress during the standing period and the plastic viscosity during secondary mixing. These effects can contribute to the printability of ready-mix concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -86,8 +66,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "54 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
       <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/oh_gyujong"><b>Oh</b> Gyujong</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM/">Effects of the Combined Incorporation of Superabsorbent Polymers and Polyvinyl Alcohol Fibers on Material Properties of 3D Printable Mortar:<br/>Rheology, Shrinkage, and Mechanical Behavior</a></li>
@@ -142,6 +122,33 @@ tags:
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../raje_rame_nava_sanj.2023.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/cui_dong"><b>Cui</b> Dong</a>, <a href="../../../author/wu_yingxuan"><b>Wu</b> Yingxuan</a>, <a href="../../../author/xie_xiaoying"><b>Xie</b> Xiaoying</a>, <a href="../../../author/tian_guanfei"><b>Tian</b> Guanfei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../cui_wu_xie_tian.2023.IotMSoa3PMTaNLST/">Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography</a></li>
-      <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC,
+      author            = "Jianzhuang Xiao and Shaodan Hou and Zhenhua Duan and Shuai Zou",
+      title             = "Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete",
+      doi               = "10.1016/j.cemconcomp.2023.104958",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Xiao, S. Hou, Z. Duan and S. Zou, “Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete”, <i>Cement and Concrete Composites</i>, 2023, doi: 10.1016/j.cemconcomp.2023.104958.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xiao, Jianzhuang, Shaodan Hou, Zhenhua Duan, and Shuai Zou. “Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete”. <i>Cement and Concrete Composites</i>, 2023. https://doi.org/10.1016/j.cemconcomp.2023.104958.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

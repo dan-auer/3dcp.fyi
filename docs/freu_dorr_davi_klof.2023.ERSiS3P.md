@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Niklas Freund, Robin Dörrie, Martin David, Harald Kloft, Klaus Dröder, Dirk Lowke
+    - footer
+title: Freund Niklas, Dörrie Robin, David Martin, Kloft Harald, Dröder Klaus, Lowke Dirk
 description:
 tags:
  - accelerator
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tib-op.org/ojs/index.php/ocp/article/download/227/692) Enclosing Reinforcement Structures in Shotcrete 3D Printing:<br/>:aca-blank: The Effect of Reinforcement Geometry and Accelerator Dosage on the Formation of Voids ([2023-10](date/2023/10))
-<a href="https://doi.org/10.52825/ocp.v3i.227" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v3i.227</a>
+#Enclosing Reinforcement Structures in Shotcrete 3D Printing&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">The Effect of Reinforcement Geometry and Accelerator Dosage on the Formation of Voids</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/227/692) <a href="https://doi.org/10.52825/ocp.v3i.227" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v3i.227" target="_blank">10.52825/ocp.v3i.227</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/david_martin"><b>David</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/david_martin"><b>David</b> Martin</a> <a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#dosage`](keyword/dosage)
-    [`#effect`](keyword/effect)
-    [`#form`](keyword/form)
-    [`#geometry`](keyword/geometry)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shotcrete`](keyword/shotcrete)
-    [`#structure`](keyword/structure)
-    [`#void`](keyword/void)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/dosage"><button class="btn">#dosage</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enclosing%20Reinforcement%20Structures%20in%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389784684" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v3i.227" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v3i.227?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Integrating reinforcement into existing concrete 3D printing processes represents one of the key challenges in further automating the additive manufacturing of structural concrete components. Several different reinforcing approaches are currently being investigated. In this context, the Short Rebar Insertion (SRI), as well as the use of prefabricated reinforcement structures, are potential strategies. A common feature of both methods is that rebars protrude from the already printed concrete in different orientations during the printing process and must be embedded in the subsequent concrete layers. Due to the spray application, Shotcrete 3D Printing (SC3DP) offers a good basis for realizing such reinforcement enclosures without the need for specially adapted nozzles, as often used in material extrusion. However, it is essential to systematically analyze the effect of reinforcement properties, such as reinforcement orientation, and material properties, such as accelerator dosage, to define the application boundaries. For this reason, the present study investigates the enclosing of different reinforcement geometries (spacing, inclination, crossings) with unaccelerated and accelerated fine-grained concrete to evaluate the enclosing process. It is shown that all centrally positioned reinforcement structures could be homogeneously enclosed in the SC3DP process. However, for a small rebar spacing and for accelerated material, the eccentric reinforcement structures increasingly act as a blocking element for material spreading. Furthermore, the accumulation of concrete on the top of the reinforcement during spraying creates a shielding effect that increasingly leads to void formation. Finally, recommendations are made for the enclosure of protruding reinforcement structures in SC3DP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/arre_lidiana"><b>Arrè</b> Lidiana</a>, <a href="../../../author/kienbaum_gabriela"><b>Kienbaum</b> Gabriela</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dorr_lagh_arre_kien.2022.CAMTfACPS/">Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures</a></li>
@@ -86,8 +61,38 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../renn_gant_roth_baz.2024.SEoS3PaRFWfTSE/">Structural Evaluation of Shotcrete 3D Printing and Robotic Fiber Winding for Thin-Shell Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{freu_dorr_davi_klof.2023.ERSiS3P,
+      author            = "Niklas Freund and Robin Dörrie and Martin David and Harald Kloft and Klaus Dröder and Dirk Lowke",
+      title             = "Enclosing Reinforcement Structures in Shotcrete 3D Printing: The Effect of Reinforcement Geometry and Accelerator Dosage on the Formation of Voids",
+      doi               = "10.52825/ocp.v3i.227",
+      year              = "2023",
+      volume            = "3",
+      booktitle         = "Visions and Strategies for Reinforcing Additively Manufactured Constructions",
+      editor            = "Asko Fromm and Norman Peter Hack",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Freund, R. Dörrie, M. David, H. Kloft, K. Dröder and D. Lowke, “Enclosing Reinforcement Structures in Shotcrete 3D Printing: The Effect of Reinforcement Geometry and Accelerator Dosage on the Formation of Voids”, in <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions</i>,  2023, vol. 3. doi: 10.52825/ocp.v3i.227.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Freund, Niklas, Robin Dörrie, Martin David, Harald Kloft, Klaus Dröder, and Dirk Lowke. “Enclosing Reinforcement Structures in Shotcrete 3D Printing: The Effect of Reinforcement Geometry and Accelerator Dosage on the Formation of Voids”. In <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions</i>, edited by Asko Fromm and Norman Peter Hack, Vol. 3, 2023. https://doi.org/10.52825/ocp.v3i.227.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

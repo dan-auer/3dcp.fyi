@@ -8,7 +8,7 @@ search:
 
 # #tailing
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/li_baidian"><b>Li</b> Baidian</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a>, <a href="../../../author/gu_kan"><b>Gu</b> Kan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_wu_gu.2026.EIPaSo3PUwAT/">Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings</a></li>
   <li><a href="../../../author/gao_shan"><b>Gao</b> Shan</a>, <a href="../../../author/li_tianyu"><b>Li</b> Tianyu</a>, <a href="../../../author/yuan_jian"><b>Yuan</b> Jian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gao_li_yuan_nish.2025.MPo3PMTM/">Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar</a></li>
   <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../alva_guer_gonz_pren.2025.MwMTA/">Mortars with Mining Tailings Aggregates:<br/>Implications for Additive Manufacturing</a></li>

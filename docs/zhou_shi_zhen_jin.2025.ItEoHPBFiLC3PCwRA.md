@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Juanlan Zhou, Xiangwen Shi, Hongrun Zheng, Ruoyu Jin, Obas Ebohon, Qiwei Zhan, Daochuan Zhou
+    - footer
+title: Zhou Juanlan, Shi Xiangwen, Zheng Hongrun, Jin Ruoyu, Ebohon Obas, Zhan Qiwei, Zhou Daochuan
 description:
 tags:
  - aggregate
@@ -22,41 +23,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates:<br/>:aca-blank: Rheology, Strength, and Anisotropy ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143743" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143743</a>
+#Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Rheology, Strength, and Anisotropy</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.conbuildmat.2025.143743" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143743" target="_blank">10.1016/j.conbuildmat.2025.143743</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9351-0111" title="ORCID: 0000-0001-9351-0111" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_juanlan"><b>Zhou</b>&nbsp;Juanlan</a></span>, <a href="../../../author/shi_xiangwen"><b>Shi</b>&nbsp;Xiangwen</a></span>, <a href="../../../author/zheng_hongrun"><b>Zheng</b>&nbsp;Hongrun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0360-6967" title="ORCID: 0000-0003-0360-6967" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_ruoyu"><b>Jin</b>&nbsp;Ruoyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3282-6002" title="ORCID: 0000-0003-3282-6002" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ebohon_john_obas"><b>Ebohon</b>&nbsp;Obas</a></span>, <a href="../../../author/zhan_qiwei"><b>Zhan</b>&nbsp;Qiwei</a></span>, <a href="../../../author/zhou_daochuan"><b>Zhou</b>&nbsp;Daochuan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 495, No. 143743
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_juanlan"><b>Zhou</b> Juanlan</a> <a href="https://orcid.org/0000-0001-9351-0111" title="ORCID: 0000-0001-9351-0111" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_xiangwen"><b>Shi</b> Xiangwen</a>
-,     <a href="../../../author/zheng_hongrun"><b>Zheng</b> Hongrun</a>
-,     <a href="../../../author/jin_ruoyu"><b>Jin</b> Ruoyu</a> <a href="https://orcid.org/0000-0003-0360-6967" title="ORCID: 0000-0003-0360-6967" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ebohon_john_obas"><b>Ebohon</b> Obas</a> <a href="https://orcid.org/0000-0003-3282-6002" title="ORCID: 0000-0003-3282-6002" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhan_qiwei"><b>Zhan</b> Qiwei</a>
-,     <a href="../../../author/zhou_daochuan"><b>Zhou</b> Daochuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 495, No. 143743
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#hybrid`](keyword/hybrid)
-    [`#investigation`](keyword/investigation)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#pva`](keyword/pva)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Effects%20of%20Hybrid%20PVA/BF%20Fibers%20in%20Low-Carbon%203D%20Printed%20Concrete%20with%20Recycled%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016883141&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7083319486" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143743" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143743?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Balancing low-carbon content with performance in 3D printed concrete (3DPC) remains a key challenge for wider application. This study demonstrates the researchers’ self-developed lowcarbon mix design combining 20 % recycled sand replacement, a low binder-to-sand ratio of 1:2, and a hybrid fiber system using Polyvinyl Alcohol (PVA) and Basalt Fiber (BF) for 3DPC. The effects of hybrid fibers on the rheology, mechanical properties, and anisotropy of lowcarbon 3DPC were systematically investigated through two experimental groups, namely: Group I where the PVA content was fixed at 0.25 % while BF content varied from 0 % to 0.4 %; and Group II where the total fiber content was fixed at 0.5 % whilst the optimal PVA/BF ratio was explored. In addition, a cradle-to-gate (A1-A3) life-cycle assessment was performed to quantify embodied carbon. The results showed that appropriate proportions of hybrid PVA/BF fibers significantly increased static yield stress (up to 40.3 %), while the hydrophobic BF fibers reduced dynamic yield stress and plastic viscosity, optimizing the balance between buildability and extrudability. Optimal mixes reached compressive strengths near 50 MPa, about a 42.2 % increase over the control group. Furthermore, hybrid fibers reduced the compressive anisotropy index from 8.8 to 1.1. Failure mode analysis showed that 3DPC had obvious directional weaknesses, among which the interlayer bonding was the main weak point. It was further observed that PVA fibers were mainly pulled out, while BF fibers were fractured. However, when the two fibers were added in similar amounts, agglomeration occurred, reducing their synergistic effect. The cradle-to-gate Life-cycle impact assessment (LCA) indicates that the proposed P40B10 mix-through substantial cement reduction, partial replacement of natural sand with recycled sand, and hybrid PVA/BF reinforcement-markedly improves carbon efficiency of 3DPC, roughly halving the strength-normalized carbon intensity compared with reference mixes. The research provides theoretical support and practical guidance for the rheological regulation, mechanical strengthening and isotropic optimization of low-carbon 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -113,7 +83,37 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA,
+      author            = "Juanlan Zhou and Xiangwen Shi and Hongrun Zheng and Ruoyu Jin and Obas John Ebohon and Qiwei Zhan and Daochuan Zhou",
+      title             = "Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates: Rheology, Strength, and Anisotropy",
+      doi               = "10.1016/j.conbuildmat.2025.143743",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "495",
+      pages             = "143743",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhou, “Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates: Rheology, Strength, and Anisotropy”, <i>Construction and Building Materials</i>, vol. 495, p. 143743, 2025, doi: 10.1016/j.conbuildmat.2025.143743.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Juanlan, Xiangwen Shi, Hongrun Zheng, Ruoyu Jin, Obas John Ebohon, Qiwei Zhan, and Daochuan Zhou. “Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates: Rheology, Strength, and Anisotropy”. <i>Construction and Building Materials</i> 495 (2025): 143743. https://doi.org/10.1016/j.conbuildmat.2025.143743.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

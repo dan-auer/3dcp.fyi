@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vaibhav Ingle, Senthil Kaliyavaradhan, Parukutty Ambily, Deepadharshan Shekar
+    - footer
+title: Ingle Vaibhav, Kaliyavaradhan Senthil, Ambily Parukutty, Shekar Deepadharshan
 description:
 tags:
  - admixture
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.202300267) 3D Printable Concrete Without Chemical Admixtures:<br/>:aca-blank: Fresh and Hardened Properties ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1002/suco.202300267" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202300267</a>
+#3D Printable Concrete Without Chemical Admixtures&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">Fresh and Hardened Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.202300267) <a href="https://doi.org/10.1002/suco.202300267" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202300267" target="_blank">10.1002/suco.202300267</a>
 
--------------------------
+<a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b>&nbsp;Vaibhav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b>&nbsp;Senthil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8180-8981" title="ORCID: 0000-0001-8180-8981" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shekar_deepadharshan"><b>Shekar</b>&nbsp;Deepadharshan</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>
-,     <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="https://orcid.org/0000-0001-8180-8981" title="ORCID: 0000-0001-8180-8981" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#chemical`](keyword/chemical)
-    [`#concrete`](keyword/concrete)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Concrete%20Without%20Chemical%20Admixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171466055&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386858216" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.202300267" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.202300267?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There are several significant advantages to 3D concrete printing (3DCP) over conventional concreting techniques. Structures are built by printing them one layer at a time. This study aimed to improve the usability and accessibility of this technology to solve on-site issues, such as those caused by chemical admixture. In order to construct concrete that can be printed in three dimensions, researchers added many chemical admixtures in controlled quantities. This experiment's main goals were to prepare 3D printable concrete (3DPC) without chemical admixture and to evaluate fresh and hardened properties. Slump, flow, extrudability, buildability, open time, and penetrometer tests were carried out for fresh properties. Compressive, flexural, splitting tensile strength, and modulus of elasticity were evaluated for hardened properties. The printed specimens in the longitudinal direction exhibited higher compressive strength than in the downward and lateral directions. Similarly, higher flexural and splitting tensile strength in the longitudinal direction of printed specimens than in the downward and lateral direction. The results of developing 3DPC without chemical admixtures demonstrated good performance in fresh and hardened properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -98,8 +77,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/motiani_ronak"><b>Motiani</b> Ronak</a>, <a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b> Saha</a>, <a href="../../../author/dalal_p_sejal"><b>Dalal</b> Sejal</a>, <a href="../../../author/vora_jay"><b>Vora</b> Jay</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../moti_sylv_dala_vora.2025.IRTf3PC/">Innovative Reinforcement Techniques for 3D-Printed Concrete:<br/>The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation</a></li>
       <li><a href="../../../author/yerikania_utami"><b>Yerikania</b> Utami</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/poh_hien_leong"><b>Poh</b> Leong</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yeri_du_poh.2025.ACEIoABoHCM3PC/">A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ambi_kali_seba_shek.2025.S3PCMUCS/">Sustainable 3D Printable Concrete-Mix Using Copper-Slag</a></li>
@@ -109,4 +88,32 @@ tags:
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ambi_raje_kali.2023.MDOaPEoEB3PC/">Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../nair_trip_neit.2024.CRaFPiDF3PCUCaTDoPLH/">Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ingl_kali_ambi_shek.2023.3PCWCA,
+      author            = "Vaibhav Vinod Ingle and Senthil Kumar Kaliyavaradhan and Parukutty S. Ambily and Deepadharshan Shekar",
+      title             = "3D Printable Concrete Without Chemical Admixtures: Fresh and Hardened Properties",
+      doi               = "10.1002/suco.202300267",
+      year              = "2023",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. V. Ingle, S. K. Kaliyavaradhan, P. S. Ambily and D. Shekar, “3D Printable Concrete Without Chemical Admixtures: Fresh and Hardened Properties”, <i>Structural Concrete</i>, 2023, doi: 10.1002/suco.202300267.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ingle, Vaibhav Vinod, Senthil Kumar Kaliyavaradhan, Parukutty S. Ambily, and Deepadharshan Shekar. “3D Printable Concrete Without Chemical Admixtures: Fresh and Hardened Properties”. <i>Structural Concrete</i>, 2023. https://doi.org/10.1002/suco.202300267.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

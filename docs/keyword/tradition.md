@@ -8,7 +8,7 @@ search:
 
 # #tradition
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
   <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../vale_sang_cant.2025.FTMtG/">From Traditional Materials to Geopolymers:<br/>History, Performance, Sustainability and 3D Printing Applications</a></li>
   <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_besk_krav_zhon.2025.EVo3CP/">Economic Viability of 3D Concrete Printing:<br/>A Comparative Study with Traditional Construction Method</a></li>

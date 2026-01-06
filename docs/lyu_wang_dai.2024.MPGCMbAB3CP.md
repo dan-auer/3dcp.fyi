@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qifeng Lyu, Yalun Wang, Pengfei Dai
+    - footer
+title: Lyu Qifeng, Wang Yalun, Dai Pengfei
 description:
 tags:
  - aggregate
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136453" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136453</a>
+#Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136453" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136453" target="_blank">10.1016/j.conbuildmat.2024.136453</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span>, <a href="../../../author/wang_yalun"><b>Wang</b>&nbsp;Yalun</a></span>, <a href="../../../author/dai_pengfei"><b>Dai</b>&nbsp;Pengfei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 430, No. 136453
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>
-,     <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 430, No. 136453
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#bed`](keyword/bed)
-    [`#concrete`](keyword/concrete)
-    [`#growth`](keyword/growth)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/growth"><button class="btn">#growth</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multilayered%20Plant-Growing%20Concrete%20Manufactured%20by%20Aggregate-Bed%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192257850&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396721116" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136453" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136453?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A new type of multilayered plant-growing concrete was proposed in this work based on aggregate-bed 3D printing. Ordinary Portland cement (OPC) and low-alkalinity sulphoaluminate cement (LSAC) were used as binders for the printing mortar. The printing began by extruding the first layer mortar, and then coarse aggregates were spread on top of the mortar. Repeating these two steps multiple times finally manufactured the proposed plant-growing concrete where the plant seeds associated with soil were sown in the pores of the aggregate layers. Printability, pore structures, porosity, plant-growing quality, mechanical strengths, alkalinity, crystal phases, permeability, and stress distributions of the printed specimens were investigated. Results showed the printability of LSAC specimens was better than that of OPC specimens due to higher contents of sulphoaluminate in the LSAC specimens which consumed more water and thus resulted in drier and stronger printing mortar. The pores in the printed plant-growing concrete were connected into permeable networks allowing water to flow in and plants to grow in. The porosity and permeability of LSAC specimens were higher than those of OPC specimens due to the better printability of LSAC specimens which resulted in more connected pores, whereas the alkalinity of LSAC specimens was lower. All these led to the better plant-growing quality of LSAC specimens. Portlandite and ettringite, which were more abundant in OPC specimens, contributed more to the alkalinity of the printed concrete. The mechanical strengths of the printed plant-growing concrete showed distinct anisotropy, which was contributed by different layers playing critical roles in the strength tests. Nevertheless, ordinary materials and printing paths were used in this work, which can be varied and optimized in future studies and applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../cao_yu_cui.2023.ESotISRSTtR3PCiVD/">Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_chen_schl.2023.DEACIBo3PC/">Does Early-Age Creep Influence Buildability of 3D Printed Concrete?:<br/>Insights from Numerical Simulations</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
@@ -101,11 +82,41 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/chen_dongjian"><b>Chen</b> Dongjian</a>, <a href="../../../author/liu_shiyuan"><b>Liu</b> Shiyuan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF/">Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lyu_wang_dai.2024.MPGCMbAB3CP,
+      author            = "Qifeng Lyu and Yalun Wang and Pengfei Dai",
+      title             = "Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing",
+      doi               = "10.1016/j.conbuildmat.2024.136453",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "430",
+      pages             = "136453",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Lyu, Y. Wang and P. Dai, “Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing”, <i>Construction and Building Materials</i>, vol. 430, p. 136453, 2024, doi: 10.1016/j.conbuildmat.2024.136453.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lyu, Qifeng, Yalun Wang, and Pengfei Dai. “Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing”. <i>Construction and Building Materials</i> 430 (2024): 136453. https://doi.org/10.1016/j.conbuildmat.2024.136453.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

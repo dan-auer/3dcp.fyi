@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marwen Amdouni, Helmi Nasraoui, Mohamed Rezgui, Ali Trabelsi
+    - footer
+title: Amdouni Marwen, Nasraoui Helmi, Rezgui Mohamed, Trabelsi Ali
 description:
 tags:
  - analysis
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Use of the RDPP-SF Method to Analyze Rheology Variation in an AM-Cement-Based Process ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1007/978-3-031-94889-3_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-94889-3_9</a>
+#Use of the RDPP-SF Method to Analyze Rheology Variation in an AM-Cement-Based Process ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-94889-3_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-94889-3_9" target="_blank">10.1007/978-3-031-94889-3_9</a>
 
--------------------------
+<a href="../../../author/amdouni_marwen"><b>Amdouni</b>&nbsp;Marwen</a></span>, <a href="../../../author/nasraoui_helmi"><b>Nasraoui</b>&nbsp;Helmi</a></span>, <a href="../../../author/rezgui_ali_mohamed"><b>Rezgui</b>&nbsp;Mohamed</a></span>, <a href="../../../author/trabelsi_ali"><b>Trabelsi</b>&nbsp;Ali</a></span><br>
+Contribution - Advances in Additive Manufacturing, pp. 105-114
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/amdouni_marwen"><b>Amdouni</b> Marwen</a>
-,     <a href="../../../author/nasraoui_helmi"><b>Nasraoui</b> Helmi</a>
-,     <a href="../../../author/rezgui_ali_mohamed"><b>Rezgui</b> Mohamed</a>
-,     <a href="../../../author/trabelsi_ali"><b>Trabelsi</b> Ali</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Advances in Additive Manufacturing, pp. 105-114
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#method`](keyword/method)
-    [`#process`](keyword/process)
-    [`#rheology`](keyword/rheology)
-    [`#use`](keyword/use)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20the%20RDPP-SF%20Method%20to%20Analyze%20Rheology%20Variation%20in%20an%20AM-Cement-Based%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012923116&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412906531" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-94889-3_9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-94889-3_9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The process of 3D Cementitious Material Printing (3DCMP) is widely used to create complex geometries in buildings and structures of various sizes. Printing through material deposition is the basis of extrusion technology and it is highly productive, labor-efficient, and cost-effective. Unlike polymeric materials, the behavior of cement-based materials has very little sensitivity to temperature, and it necessitates adjustment of the printing speed and geometry to the solidification rate of the cement material, which is controlled by the cement hydration. However, even though many rheological models are devised to address the mechanical properties of cement-based materials, still the 3DCMP process is laced with many variations and faces structural failures. In this work, we employ a case study approach to examine natural and non-natural variations occurring in two process responses, i.e., static and dynamic yield stresses. The static RDPP-SF method is combined with the GRA technique to find out the most robust combination of the input factors leading to the lesser variation of the process responses.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../liu_li_weng_wong.2019.MDAtOtRPotMUi3CMP/">Mixture-Design-Approach to Optimize the Rheological Properties of the Material Used in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
@@ -74,7 +52,36 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{amdo_nasr_rezg_trab.2025.UotRSMtARViaACBP,
+      author            = "Marwen Amdouni and Helmi Nasraoui and Mohamed Ali Rezgui and Ali Trabelsi",
+      title             = "Use of the RDPP-SF Method to Analyze Rheology Variation in an AM-Cement-Based Process",
+      doi               = "10.1007/978-3-031-94889-3_9",
+      year              = "2025",
+      pages             = "105--114",
+      booktitle         = "Advances in Additive Manufacturing: Materials, Processes, and Applications II",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Amdouni, H. Nasraoui, M. A. Rezgui and A. Trabelsi, “Use of the RDPP-SF Method to Analyze Rheology Variation in an AM-Cement-Based Process”, in <i>Advances in Additive Manufacturing: Materials, Processes, and Applications II</i>,  2025, pp. 105–114. doi: 10.1007/978-3-031-94889-3_9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Amdouni, Marwen, Helmi Nasraoui, Mohamed Ali Rezgui, and Ali Trabelsi. “Use of the RDPP-SF Method to Analyze Rheology Variation in an AM-Cement-Based Process”. In <i>Advances in Additive Manufacturing: Materials, Processes, and Applications II</i>, 105–14, 2025. https://doi.org/10.1007/978-3-031-94889-3_9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

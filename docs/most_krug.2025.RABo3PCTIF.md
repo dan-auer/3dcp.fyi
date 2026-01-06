@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jean-Pierre Mostert, Jacques Kruger
+    - footer
+title: Mostert Jean-Pierre, Kruger Jacques
 description:
 tags:
  - anisotropy
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-025-02723-9.pdf) Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1617/s11527-025-02723-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02723-9</a>
+#Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-025-02723-9.pdf) <a href="https://doi.org/10.1617/s11527-025-02723-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02723-9" target="_blank">10.1617/s11527-025-02723-9</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mostert_jean-pierre"><b>Mostert</b>&nbsp;Jean-Pierre</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a> <a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#filament`](keyword/filament)
-    [`#interlocking`](keyword/interlocking)
-    [`#print`](keyword/print)
-    [`#reduction`](keyword/reduction)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reducing%20Anisotropic%20Behaviour%20of%203D%20Printed%20Concrete%20Through%20Interlocked%20Filaments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009995518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412080843" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02723-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02723-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printed concrete commonly exhibits anisotropic mechanical behaviour due to inherent weaknesses at filament interfaces, creating preferential failure planes. This study evaluates the efficacy of interlayer interlocking geometries in reducing anisotropic behaviour and improving mechanical performance. Three interlocking surface topologies (sinusoidal, square, inclined) were implemented using specially designed extrusion nozzles and compared against a flat reference geometry. Mechanical tests, including direct tensile and uniaxial compression tests, were conducted along three orthotropic loading directions: perpendicular (w), parallel (u), and transverse (v) to the printing orientation. All interlocking topologies substantially improved mechanical performance relative to the flat reference. The sinusoidal pattern consistently demonstrated the greatest improvement, increasing tensile strength in the w-direction by 213% and compressive strength by 45.1%. In the v-direction, the inclined pattern achieved the highest compressive gain (83.9%). Furthermore, the sinusoidal pattern exhibited near-isotropic behaviour, reducing the tensile anisotropy index from 2.29 to 0.16 and the compressive index from 0.37 to 0.05. While the inclined and square patterns also reduced anisotropy, their influence was comparatively moderate. Overall, the findings demonstrate that mechanical interlocking provides a viable, geometry-based strategy for mitigating anisotropy and enhancing the structural performance of 3D printed concrete, thereby supporting its broader adoption in structural applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
@@ -94,11 +75,42 @@ tags:
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b> Olexander</a>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b> Nina</a>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b> Stanislav</a>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b> Andrii</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P/">Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
       <li><a href="../../../author/tian_xin"><b>Tian</b> Xin</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/fang_zhi"><b>Fang</b> Zhi</a>, <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tian_shi_fang_lin.2025.MIEoMBi3PCSK/">Multi-Interface Effects on Mechanical Behavior in 3D-Printed Concrete Shear Keys:<br/>A Finite Element Modeling Strategy</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{most_krug.2025.RABo3PCTIF,
+      author            = "Jean-Pierre Mostert and Jacques Pienaar Kruger",
+      title             = "Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments",
+      doi               = "10.1617/s11527-025-02723-9",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-P. Mostert  and J. P. Kruger, “Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments”, <i>Materials and Structures</i>, vol. 58, no. 5, 2025, doi: 10.1617/s11527-025-02723-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mostert, Jean-Pierre, and Jacques Pienaar Kruger. “Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments”. <i>Materials and Structures</i> 58, no. 5 (2025). https://doi.org/10.1617/s11527-025-02723-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

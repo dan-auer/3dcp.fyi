@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Naboni Roberto 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/hansen_nedergaard-lillebro_steen"><b>Hansen</b> Steen</a>, <a href="../../../author/jespersen_toste-lomholdt_esra"><b>Jespersen</b> Esra</a>, <a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jrg_hans_jesp_flor.2024.EIoKSPfSDo3PC/">Experimental Investigation of Key Structural Parameters for Structural Design of 3D Printed Concrete</a></li>
   <li><a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/sumini_valentina"><b>Sumini</b> Valentina</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../flor_sumi_nabo.2024.ADaACoRSLH/">Automated Design and Additive Construction of Regolith-Shielded Lunar Habitats</a></li>
   <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bres_haji_nabo.2024.3/">3DLightSlab:<br/>Design to 3D Concrete Printing Workflow for Stress-Driven Ribbed Slabs</a></li>

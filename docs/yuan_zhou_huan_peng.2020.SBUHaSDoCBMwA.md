@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Yuan, Dajun Zhou, Hai Huang, Jianwei Peng, Hao Yao
+    - footer
+title: Yuan Qiang, Zhou Dajun, Huang Hai, Peng Jianwei, Yao Hao
 description:
 tags:
  - accelerator
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.119775" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.119775</a>
+#Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators ([2020-06](date/2020/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.119775" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119775" target="_blank">10.1016/j.conbuildmat.2020.119775</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhou_dajun"><b>Zhou</b>&nbsp;Dajun</a></span>, <a href="../../../author/huang_hai"><b>Huang</b>&nbsp;Hai</a></span>, <a href="../../../author/peng_jianwei"><b>Peng</b>&nbsp;Jianwei</a></span>, <a href="../../../author/yao_hao"><b>Yao</b>&nbsp;Hao</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 259
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> <a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>
-,     <a href="../../../author/huang_hai"><b>Huang</b> Hai</a>
-,     <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a>
-,     <a href="../../../author/yao_hao"><b>Yao</b> Hao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 259, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#development`](keyword/development)
-    [`#hydration`](keyword/hydration)
-    [`#material`](keyword/material)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Build-Up%2C%20Hydration%20and%20Strength%20Development%20of%20Cement-Based%20Materials%20with%20Accelerators" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086564094&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,23 +39,19 @@ tags:
 <a href="https://inciteful.xyz/p/W3036415461" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.119775" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.119775?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fast structural build-up and strength development of fresh/hardened cement-based materials are always desired in many scenarios, where accelerators are often used. In this paper, the hydration, structural build-up and strength development of cement pates with different accelerators were investigated. The growth of static yield stress was used to characterize the structural build-up of fresh cement paste with 1% nano silica. Calorimetric curves, zeta potential and conductivity of pastes and strength development of mortars were also measured. Results showed that accelerators promote the reaction of C3Sor C3A at different stages and in different mechanisms. Mechanical efficiency of C-S-H determined by growth of elastic modulus or yield stress over cumulated hydration heat may give wrong ranking on the efficiency of C-S-H. Apart from formation of C-S-H gel, structural build-up may originate from other sources.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rusu_m_mihai"><b>Rusu</b> Mihai</a>, <a href="../../../author/ardelean_ioan"><b>Ardelean</b> Ioan</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rusu_arde.2025.RBtPDoMaNRD/">Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sahi_mard.2023.HDRBAtILBSo3M/">How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures?</a></li>
@@ -89,4 +65,33 @@ tags:
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/he_hui"><b>He</b> Hui</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../pan_jian_he_wang.2021.EoSBUoILBSo3PCM/">Effect of Structural Build-Up on Inter-Layer Bond Strength of 3D Printed Cement Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_zhou_huan_peng.2020.SBUHaSDoCBMwA,
+      author            = "Qiang Yuan and Dajun Zhou and Hai Huang and Jianwei Peng and Hao Yao",
+      title             = "Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators",
+      doi               = "10.1016/j.conbuildmat.2020.119775",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "259",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Yuan, D. Zhou, H. Huang, J. Peng and H. Yao, “Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators”, <i>Construction and Building Materials</i>, vol. 259, 2020, doi: 10.1016/j.conbuildmat.2020.119775.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Qiang, Dajun Zhou, Hai Huang, Jianwei Peng, and Hao Yao. “Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators”. <i>Construction and Building Materials</i> 259 (2020). https://doi.org/10.1016/j.conbuildmat.2020.119775.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

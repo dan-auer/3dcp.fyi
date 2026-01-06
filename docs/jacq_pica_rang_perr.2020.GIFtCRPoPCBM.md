@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yohan Jacquet, Vincent Picandet, Damien Rangeard, Arnaud Perrot
+    - footer
+title: Jacquet Yohan, Picandet Vincent, Rangeard Damien, Perrot Arnaud
 description:
 tags:
  - base
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://letters.rilem.net/index.php/rilem/article/download/128/126) Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials ([2020-12](date/2020/12))
-<a href="https://doi.org/10.21809/rilemtechlett.2020.128" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21809/rilemtechlett.2020.128</a>
+#Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials ([2020-12](date/2020/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://letters.rilem.net/index.php/rilem/article/download/128/126) <a href="https://doi.org/10.21809/rilemtechlett.2020.128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2020.128" target="_blank">10.21809/rilemtechlett.2020.128</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1898-8486" title="ORCID: 0000-0003-1898-8486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/picandet_vincent"><b>Picandet</b>&nbsp;Vincent</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - RILEM Technical Letters, Vol. 5, pp. 150-156
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="https://orcid.org/0000-0003-1898-8486" title="ORCID: 0000-0003-1898-8486" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - RILEM Technical Letters, Vol. 5, pp. 150-156
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#character`](keyword/character)
-    [`#flow`](keyword/flow)
-    [`#gravity`](keyword/gravity)
-    [`#induction`](keyword/induction)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/gravity"><button class="btn">#gravity</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Gravity-Induced%20Flow%20to%20Characterize%20Rheological%20Properties%20of%20Printable%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099154592&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3115166482" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21809/rilemtechlett.2020.128" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21809/rilemtechlett.2020.128?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents testing methods based on the deformation and fracture of fresh cementitious materials subjected only to their own weight. These new methods are dedicated to the study of cementitious materials designed for 3D concrete printing in order to verify rheological requirements related to the process. The first testing method consists of measuring the tip deflection of fresh cementitious materials, horizontally extruded, enabling the determination of the apparent elastic modulus of the material. The second test consists of measuring the tensile strength of material filament leaving the nozzle of a vertical downward extruder. The results of both methods are based on the video capture of the deformation of the materials loaded by gravity, and provide results that are in agreement with tests performed with conventional testing machines (tensile and unconfined compression tests). This work demonstrates the potential of video capture of the gravity induced deformation of cementitious materials to describe the behavior of cementitious materials in the fresh state or for the in‐line control of the 3D concrete printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duco_carn_mesn_demo.2020.TST/">The Slug-Test:<br/>In-Line-Assessment of Yield-Stress for Extrusion-Based Additive Manufacturing</a></li>
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jacq_perr_pica.2021.AoARBoCMf3PA/">Assessment of Asymmetrical Rheological Behavior of Cementitious Material for 3D Printing Application</a></li>
@@ -86,9 +62,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vasi.2024.SAoC3P/">Standardization Aspects of Concrete 3D Printing</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../duco_bono_kach_jacq.2025.FLtP/">From Laboratory to Practice</a></li>
@@ -107,4 +83,34 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jacq_pica_rang_perr.2020.GIFtCRPoPCBM,
+      author            = "Yohan Jacquet and Vincent Picandet and Damien Rangeard and Arnaud Perrot",
+      title             = "Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials",
+      doi               = "10.21809/rilemtechlett.2020.128",
+      year              = "2020",
+      journal           = "RILEM Technical Letters",
+      volume            = "5",
+      pages             = "150--156",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jacquet, V. Picandet, D. Rangeard and A. Perrot, “Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials”, <i>RILEM Technical Letters</i>, vol. 5, pp. 150–156, 2020, doi: 10.21809/rilemtechlett.2020.128.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jacquet, Yohan, Vincent Picandet, Damien Rangeard, and Arnaud Perrot. “Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials”. <i>RILEM Technical Letters</i> 5 (2020): 150–56. https://doi.org/10.21809/rilemtechlett.2020.128.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

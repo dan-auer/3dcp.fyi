@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sarah Al-Qutaifi, Ali Nazari, Ali Bagheri
+    - footer
+title: Al-Qutaifi Sarah, Nazari Ali, Bagheri Ali
 description:
 tags:
  - application
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing ([2018-07](date/2018/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2018.04.195" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2018.04.195</a>
+#Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing ([2018-07](date/2018/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.195" target="_blank">10.1016/j.conbuildmat.2018.04.195</a>
 
--------------------------
+<a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b>&nbsp;Sarah</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazari_ali"><b>Nazari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0151-202X" title="ORCID: 0000-0002-0151-202X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bagheri_ali"><b>Bagheri</b>&nbsp;Ali</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 176, pp. 690-699
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>
-,     <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> <a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="https://orcid.org/0000-0002-0151-202X" title="ORCID: 0000-0002-0151-202X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 176, pp. 690-699
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#layer`](keyword/layer)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Layered%20Geopolymer%20Structures%20Applicable%20in%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85047085798&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,19 +38,14 @@ tags:
 <a href="https://inciteful.xyz/p/W2803548657" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2018.04.195" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2018.04.195?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper focuses on inspecting the structural buildability of layered objects. Simulating extrusion method process was used to investigate three geopolymer mixes, three-time gaps, and two layering patterns through 18 layered samples. This paper also evaluates effects of the layering process on hardened properties of build-up materials through 9 standard specimens. The used materials were Gladstone fly ash, sand, 8 M sodium hydroxide solution, and D-grade sodium silicate. The weight ratio of sodium silicate to sodium hydroxide was 1, and activators to fly ash was 0.26. Mix 1, mix 2, and mix 3 contained 0%, 1% steel fibers, and 0.5% polypropylene fibers respectively. The structural buildability of layered samples and the influence of the layering process were assessed in terms of flexural strength through 3-point bending tests. Flexural strength results indicated that the layering process has negative impact on the mechanical strength of build-up materials. Also, mix 2 resulted in the highest flexural strength values in standard specimens and layered samples. However, the most bond separation issues between additive layers were achieved with layered samples produced with mix 2. Most layered samples produced with minimum time gaps recorded the highest flexural strength results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../cao_li.2019.FItMPoTDPPFMPPCM/">Factors Influencing the Mechanical Properties of Three-Dimensional Printed Products From Magnesium-Potassium-Phosphate Cement Material</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -76,8 +54,9 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "120 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
@@ -198,4 +177,34 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alq_naza_bagh.2018.MPoLGSAiC3P,
+      author            = "Sarah Al-Qutaifi and Ali Nazari and Ali Bagheri",
+      title             = "Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2018.04.195",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "176",
+      pages             = "690--699",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Al-Qutaifi, A. Nazari and A. Bagheri, “Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing”, <i>Construction and Building Materials</i>, vol. 176, pp. 690–699, 2018, doi: 10.1016/j.conbuildmat.2018.04.195.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Al-Qutaifi, Sarah, Ali Nazari, and Ali Bagheri. “Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing”. <i>Construction and Building Materials</i> 176 (2018): 690–99. https://doi.org/10.1016/j.conbuildmat.2018.04.195.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

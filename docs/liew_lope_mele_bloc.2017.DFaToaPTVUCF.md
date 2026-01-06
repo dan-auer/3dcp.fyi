@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: A. Liew, D. López, Tom Mele, Philippe Block
+    - footer
+title: Liew A., López D., Mele Tom, Block Philippe
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://www.block.arch.ethz.ch/brg/files/liew_lopez_van_mele_block_2017_-_design_fabrication_and_testing_of_a_prototype_thin-vaulted_unreinforced_concrete_floor_1486982593.pdf) Design, Fabrication and Testing of a Prototype, Thin-Vaulted, Unreinforced Concrete Floor ([2017-02](date/2017/02))
-<a href="https://doi.org/10.1016/j.engstruct.2017.01.075" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2017.01.075</a>
+#Design, Fabrication and Testing of a Prototype, Thin-Vaulted, Unreinforced Concrete Floor ([2017-02](date/2017/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://www.block.arch.ethz.ch/brg/files/liew_lopez_van_mele_block_2017_-_design_fabrication_and_testing_of_a_prototype_thin-vaulted_unreinforced_concrete_floor_1486982593.pdf) <a href="https://doi.org/10.1016/j.engstruct.2017.01.075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2017.01.075" target="_blank">10.1016/j.engstruct.2017.01.075</a>
 
--------------------------
+<a href="../../../author/liew_a"><b>Liew</b>&nbsp;A.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3544-618X" title="ORCID: 0000-0002-3544-618X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lopez_lopez_d"><b>López</b>&nbsp;D.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
+Journal Article - Engineering Structures, Vol. 137, pp. 323-335
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liew_a"><b>Liew</b> A.</a>
-,     <a href="../../../author/lopez_lopez_d"><b>López</b> D.</a> <a href="https://orcid.org/0000-0002-3544-618X" title="ORCID: 0000-0002-3544-618X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mele_tom"><b>van Mele</b> Tom</a> <a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 137, pp. 323-335
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#floor`](keyword/floor)
-    [`#prototype`](keyword/prototype)
-    [`#test`](keyword/test)
-    [`#thin`](keyword/thin)
-    [`#vault`](keyword/vault)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/vault"><button class="btn">#vault</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%2C%20Fabrication%20and%20Testing%20of%20a%20Prototype%2C%20Thin-Vaulted%2C%20Unreinforced%20Concrete%20Floor" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85012056762&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,20 +38,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2588547777" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2017.01.075" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2017.01.075?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper describes the concept, form finding, fabrication and experimental testing of a prototype floor system, derived from principles of shallow arching action, to initiate internal compressive stresses rather than exclusively flexural stresses. This vaulting in a floor system leads to a lightweight structural element, with significant weight savings compared to traditional concrete floor slabs. The form finding process to generate the floor geometry is presented, with a description of the fabrication process, the concrete mix design, material testing and experimental testing. The results from the serviceability and ultimate load testing of the prototype floor are documented in detail. The data showed that the floor unit was both stiff under service load, with maximum vertical deflections less than span/2500, as well as possessing sufficient strength for ultimate loading, carrying 2.5 times the factored design load in a more critical asymmetric loading scenario. A camera setup was used to measure displacements in-line with traditional displacement transducers, to give contour plots of vertical deflections.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
@@ -97,4 +75,34 @@ tags:
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liew_lope_mele_bloc.2017.DFaToaPTVUCF,
+      author            = "A. Liew and D. López López and Tom van Mele and Philippe Block",
+      title             = "Design, Fabrication and Testing of a Prototype, Thin-Vaulted, Unreinforced Concrete Floor",
+      doi               = "10.1016/j.engstruct.2017.01.075",
+      year              = "2017",
+      journal           = "Engineering Structures",
+      volume            = "137",
+      pages             = "323--335",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Liew, D. L. López, T. van Mele and P. Block, “Design, Fabrication and Testing of a Prototype, Thin-Vaulted, Unreinforced Concrete Floor”, <i>Engineering Structures</i>, vol. 137, pp. 323–335, 2017, doi: 10.1016/j.engstruct.2017.01.075.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liew, A., D. López López, Tom van Mele, and Philippe Block. “Design, Fabrication and Testing of a Prototype, Thin-Vaulted, Unreinforced Concrete Floor”. <i>Engineering Structures</i> 137 (2017): 323–35. https://doi.org/10.1016/j.engstruct.2017.01.075.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

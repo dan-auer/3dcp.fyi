@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mien Tran, Yen Cu, Chau Le
+    - footer
+title: Tran Mien, Cu Yen, Le Chau
 description:
 tags:
  - concrete
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.jobe.2021.103400" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.103400</a>
+#Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing ([2021-10](date/2021/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.103400" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103400" target="_blank">10.1016/j.jobe.2021.103400</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span>, <a href="../../../author/cu_th_yen"><b>Cu</b>&nbsp;Yen</a></span>, <a href="../../../author/le_vh_chau"><b>Le</b>&nbsp;Chau</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 44
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> <a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cu_th_yen"><b>Cu</b> Yen</a>
-,     <a href="../../../author/le_vh_chau"><b>Le</b> Chau</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 44, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Shrinkage%20of%20Concrete%20Using%20Polypropylene-Fiber%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121603223&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3203497741" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.103400" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.103400?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper proposes a rectangle rheology box for 3D polypropylene fiber reinforced concrete printing, in which dynamic yield stress and plastic viscosity of the concrete mixture are suitable for printing and gaining a low early shrinkage. The rheology in terms of dynamic yield stress and plastic viscosity was measured by ICAR rheometer. A modified standard test following ASTM C1581 was proposed to measure shrinkage strains of the concretes right after 3 h from casting. In this research, fly ash content was used as 60% by weight of cement, whereas silica fume and limestone powder used as 3% and 8% by cement weight respectively. Water to binder ratio (W/B) was of 0.22, 0.24, 0.26, 0.28 and 0.30. Polypropylene (PP) fiber content varied from 1.35 to 5.4 kg/m3. The experimental results showed that W/B and PP fiber content significantly influenced the plastic viscosity and the dynamic yield stress. The resistance to cracking of the concrete was improved with addition of PP fiber, sand to binder ratio (S/B) increase and with increasing W/B. The shrinkage of the 3D printing concrete was very fast at the first 24 h after casting, it was up to 96% compared with the maximum shrinkage at concrete cracking. The concrete using PP fiber was printable with a low shrinkage when the dynamic yield stress varied from 250 to 500 Pa and the plastic viscosity was various from 22 to 60 Pa s.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -83,8 +65,10 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "86 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
@@ -170,4 +154,33 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tran_cu_le.2021.RaSoCUPFf3CP,
+      author            = "Mien van Tran and Yen T.H. Cu and Chau V.H. Le",
+      title             = "Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing",
+      doi               = "10.1016/j.jobe.2021.103400",
+      year              = "2021",
+      journal           = "Journal of Building Engineering",
+      volume            = "44",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. van Tran, Y. T. H. Cu and C. V. H. Le, “Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing”, <i>Journal of Building Engineering</i>, vol. 44, 2021, doi: 10.1016/j.jobe.2021.103400.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tran, Mien van, Yen T.H. Cu, and Chau V.H. Le. “Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing”. <i>Journal of Building Engineering</i> 44 (2021). https://doi.org/10.1016/j.jobe.2021.103400.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

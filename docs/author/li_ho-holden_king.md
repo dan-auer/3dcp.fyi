@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Li King 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../quah_liu_tay_li.2025.IPFRi3CPwIS/">In-Process Filament Repair in 3D Concrete Printing with Instance Segmentation</a></li>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lu_li_qian_li.2024.HP3CPwZ/">High-Performance 3D Concrete Printing with Zeolite</a></li>
   <li><a href="../../../author/nghia_quoc_vuong"><b>Nghia</b> Vuong</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/nam_quang_nguyen"><b>Nam</b> Nguyen</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../nghi_lim_nam_lu.2024.AFSRf3/">Automated Force-Sensitive Reinforcement for 3DCP</a></li>

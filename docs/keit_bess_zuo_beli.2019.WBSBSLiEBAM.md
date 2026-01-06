@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Emmanuel Keita, Hela Bessaies-Bey, Wenqiang Zuo, Patrick Belin, Nicolas Roussel
+    - footer
+title: Keita Emmanuel, Bessaies-Bey Hela, Zuo Wenqiang, Belin Patrick, Roussel Nicolas
 description:
 tags:
  - additive
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0008884618313760) Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>:aca-blank: Measurement and Physical Origin ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1016/j.cemconres.2019.105787" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2019.105787</a>
+#Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing&nbsp;([2019-06](date/2019/06))
+<div class="h1-like">Measurement and Physical Origin</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0008884618313760) <a href="https://doi.org/10.1016/j.cemconres.2019.105787" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2019.105787" target="_blank">10.1016/j.cemconres.2019.105787</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keita_emmanuel"><b>Keita</b>&nbsp;Emmanuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b>&nbsp;Hela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_wenqiang"><b>Zuo</b>&nbsp;Wenqiang</a></span>, <a href="../../../author/belin_patrick"><b>Belin</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 123
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a> <a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a> <a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 123, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#extrusion`](keyword/extrusion)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#measurement`](keyword/measurement)
-    [`#origin`](keyword/origin)
-    [`#physics`](keyword/physics)
-    [`#strength`](keyword/strength)
-    [`#weak`](keyword/weak)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/origin"><button class="btn">#origin</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/weak"><button class="btn">#weak</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Weak%20Bond%20Strength%20Between%20Successive%20Layers%20in%20Extrusion-Based%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067629747&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2951890395" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2019.105787" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2019.105787?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Requirements on material properties for extrusion-based additive manufacturing mostly focus on the rheological behavior of the cementitious material being printed. The layer interface strength is therefore often considered to result from a proper mixing or remixing of two consecutive layers induced by the deposition process itself and therefore from the material thixotropic behavior. We show however here that, in the case of smooth interfaces, the drop in interface strength finds its origin in the water evaporation from the free surface occurring during the short time interval between two successive layers. Our results and their analysis within the framework of drying physics suggest that the water loss is localized in a dry region at the free surface leading to an incomplete cement hydration and high local porosity. We moreover compare here various experimental protocols allowing for the assessment of a drop in bond strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
@@ -82,8 +57,9 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "185 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
@@ -268,10 +244,34 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../klof_hack_main_broh.2019.AMiC/">Additive Manufacturing in Construction:<br/>First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology</a></li>
-      <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
-      <li><a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a>, <a href="../../../author/elsener_bernhard"><b>Elsener</b> Bernhard</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../stef_angs_else.2019.CCaOiDFoRC/">Corrosion Challenges and Opportunities in Digital Fabrication of Reinforced Concrete</a></li>
-      <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
-      <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{keit_bess_zuo_beli.2019.WBSBSLiEBAM,
+      author            = "Emmanuel Keita and Hela Bessaies-Bey and Wenqiang Zuo and Patrick Belin and Nicolas Roussel",
+      title             = "Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing: Measurement and Physical Origin",
+      doi               = "10.1016/j.cemconres.2019.105787",
+      year              = "2019",
+      journal           = "Cement and Concrete Research",
+      volume            = "123",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Keita, H. Bessaies-Bey, W. Zuo, P. Belin and N. Roussel, “Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing: Measurement and Physical Origin”, <i>Cement and Concrete Research</i>, vol. 123, 2019, doi: 10.1016/j.cemconres.2019.105787.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Keita, Emmanuel, Hela Bessaies-Bey, Wenqiang Zuo, Patrick Belin, and Nicolas Roussel. “Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing: Measurement and Physical Origin”. <i>Cement and Concrete Research</i> 123 (2019). https://doi.org/10.1016/j.cemconres.2019.105787.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

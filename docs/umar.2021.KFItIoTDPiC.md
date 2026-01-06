@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tariq Umar
+    - footer
+title: Umar Tariq
 description:
 tags:
  - construction
@@ -15,28 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://eprints.kingston.ac.uk/id/eprint/48214/6/Umar-T-48214-AAM.pdf) Key Factors Influencing the Implementation of Three-Dimensional Printing in Construction ([2021-08](date/2021/08))
-<a href="https://doi.org/10.1680/jmapl.19.00029" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jmapl.19.00029</a>
+#Key Factors Influencing the Implementation of Three-Dimensional Printing in Construction ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://eprints.kingston.ac.uk/id/eprint/48214/6/Umar-T-48214-AAM.pdf) <a href="https://doi.org/10.1680/jmapl.19.00029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmapl.19.00029" target="_blank">10.1680/jmapl.19.00029</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1197-8181" title="ORCID: 0000-0002-1197-8181" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/umar_tariq"><b>Umar</b>&nbsp;Tariq</a></span><br>
+Journal Article - Proceedings of the Institution of Civil Engineers - Management, Procurement and Law, Vol. 174, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/umar_tariq"><b>Umar</b> Tariq</a> <a href="https://orcid.org/0000-0002-1197-8181" title="ORCID: 0000-0002-1197-8181" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Proceedings of the Institution of Civil Engineers - Management, Procurement and Law, Vol. 174, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#dimension`](keyword/dimension)
-    [`#factor`](keyword/factor)
-    [`#implementation`](keyword/implementation)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Key%20Factors%20Influencing%20the%20Implementation%20of%20Three-Dimensional%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103884382&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3017274128" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jmapl.19.00029" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jmapl.19.00029?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to its wider applications and advantages, three-dimensional (3D) printing has attracted the attention of various industries in the past years. Although the implementation of 3D printing in many industries still has challenges, progress in the construction industry is particularly slow. This paper explores the key factors that influence 3D printing adaptation and implementation in construction. A qualitative research method considering a systematic review was adopted to achieve this aim. Relevant data spanning over a period of 20 years (2000–2019) considering four main databases were collected using specified keywords. A total of 137 published articles were downloaded, and 43 were finally selected after the screening criteria had been imposed. The results from this review enabled categorisation of the derived factors broadly into four categories: technology, organisation, environment and cost. Each of these main factors is constituted by subfactors. An understanding of these factors will be helpful in developing effective strategies towards adaptation and implementation of 3D printing in the construction industry. Since industry characteristics vary from region to region, the significance of these factors in various regions could be different and needs to be investigated further.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
@@ -78,7 +60,37 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{umar.2021.KFItIoTDPiC,
+      author            = "Tariq Umar",
+      title             = "Key Factors Influencing the Implementation of Three-Dimensional Printing in Construction",
+      doi               = "10.1680/jmapl.19.00029",
+      year              = "2021",
+      journal           = "Proceedings of the Institution of Civil Engineers - Management, Procurement and Law",
+      volume            = "174",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Umar, “Key Factors Influencing the Implementation of Three-Dimensional Printing in Construction”, <i>Proceedings of the Institution of Civil Engineers - Management, Procurement and Law</i>, vol. 174, no. 3, 2021, doi: 10.1680/jmapl.19.00029.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Umar, Tariq. “Key Factors Influencing the Implementation of Three-Dimensional Printing in Construction”. <i>Proceedings of the Institution of Civil Engineers - Management, Procurement and Law</i> 174, no. 3 (2021). https://doi.org/10.1680/jmapl.19.00029.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

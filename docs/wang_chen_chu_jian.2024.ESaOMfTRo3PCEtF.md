@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jinjin Wang, Cheng Chen, Tianwei Chu, Liming Jiang, Vihar Nimje, Tejeswar Yarlagadda, Peijun Wang, Asif Usmani
+    - footer
+title: Wang Jinjin, Chen Cheng, Chu Tianwei, Jiang Liming, Nimje Vihar, Yarlagadda Tejeswar, Wang Peijun, Usmani Asif
 description:
 tags:
  - concrete
@@ -16,36 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study and OpenSees Modelling for Thermal Response of 3D Printed Concrete Exposed to Fires ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/978-3-031-64269-2_14" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-64269-2_14</a>
+#Experimental Study and OpenSees Modelling for Thermal Response of 3D Printed Concrete Exposed to Fires ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_14" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_14" target="_blank">10.1007/978-3-031-64269-2_14</a>
 
--------------------------
+<a href="../../../author/wang_jinjin"><b>Wang</b>&nbsp;Jinjin</a></span>, <a href="../../../author/chen_cheng"><b>Chen</b>&nbsp;Cheng</a></span>, <a href="../../../author/chu_tianwei"><b>Chu</b>&nbsp;Tianwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_liming"><b>Jiang</b>&nbsp;Liming</a></span>, <a href="../../../author/nimje_vihar"><b>Nimje</b>&nbsp;Vihar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4041-2424" title="ORCID: 0000-0003-4041-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yarlagadda_tejeswar"><b>Yarlagadda</b>&nbsp;Tejeswar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2454-5737" title="ORCID: 0000-0003-2454-5737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usmani_asif"><b>Usmani</b>&nbsp;Asif</a></span><br>
+Contribution - Construction 3D Printing, pp. 104-112
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>
-,     <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a>
-,     <a href="../../../author/chu_tianwei"><b>Chu</b> Tianwei</a>
-,     <a href="../../../author/jiang_liming"><b>Jiang</b> Liming</a> <a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nimje_vihar"><b>Nimje</b> Vihar</a>
-,     <a href="../../../author/yarlagadda_tejeswar"><b>Yarlagadda</b> Tejeswar</a> <a href="https://orcid.org/0000-0003-4041-2424" title="ORCID: 0000-0003-4041-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> <a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/usmani_asif"><b>Usmani</b> Asif</a> <a href="https://orcid.org/0000-0003-2454-5737" title="ORCID: 0000-0003-2454-5737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Construction 3D Printing, pp. 104-112
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#exposure`](keyword/exposure)
-    [`#fire`](keyword/fire)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20and%20OpenSees%20Modelling%20for%20Thermal%20Response%20of%203D%20Printed%20Concrete%20Exposed%20to%20Fires" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201274580&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400485658" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-64269-2_14" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-64269-2_14?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete has emerged as a promising technology to reshape the construction industry, as it enables unmanned and automated construction. However, the fire safety concerns associated with 3D-printed concrete buildings must be adequately addressed to ensure their viability. This paper aims to explore the fire performance of 3D-printed concrete by testing a small-scale specimen and using heat transfer modelling in OpenSees for fire. The specimen was exposed to varying heat fluxes via the H-Tris system. A numerical model is then developed to simulate this heating process OpenSees models of concrete in fire. The recorded experimental data (gas phase temperature and incident heat flux) served as the input of the heat transfer model to obtain the internal temperature curves of the printed concrete specimen. The simulated results were then compared with the test data to examine the heat transfer model. When extending the model to the 40mm print width commonly used for realistic 3D printed building wall elements, the simulation results showed that fire conditions had a significant impact on the structural stability of the exposed walls of 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
@@ -87,8 +61,38 @@ tags:
       <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/li_shuaishuai"><b>Li</b> Shuaishuai</a>, <a href="../../../author/qin_tian"><b>Qin</b> Tian</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wang_li_qin_yu.2020.C3P/">Concrete 3D Printing:<br/>System Development, Process Planning and Experimental Results</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wang_chen_chu_jian.2024.ESaOMfTRo3PCEtF,
+      author            = "Jinjin Wang and Cheng Chen and Tianwei Chu and Liming Jiang and Vihar Nimje and Tejeswar Yarlagadda and Peijun Wang and Asif Usmani",
+      title             = "Experimental Study and OpenSees Modelling for Thermal Response of 3D Printed Concrete Exposed to Fires",
+      doi               = "10.1007/978-3-031-64269-2_14",
+      year              = "2024",
+      pages             = "104--112",
+      booktitle         = "Construction 3D Printing: Selected Papers from the 4th International Conference on 3D Construction Printing Conference",
+      editor            = "Ming Jen Tan and Mingyang Li and Yi Wei Daniel Tay and Teck Neng Wong and Paulo Jorge Bartolo",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Wang, “Experimental Study and OpenSees Modelling for Thermal Response of 3D Printed Concrete Exposed to Fires”, in <i>Construction 3D Printing: Selected Papers from the 4th International Conference on 3D Construction Printing Conference</i>,  2024, pp. 104–112. doi: 10.1007/978-3-031-64269-2_14.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Jinjin, Cheng Chen, Tianwei Chu, Liming Jiang, Vihar Nimje, Tejeswar Yarlagadda, Peijun Wang, and Asif Usmani. “Experimental Study and OpenSees Modelling for Thermal Response of 3D Printed Concrete Exposed to Fires”. In <i>Construction 3D Printing: Selected Papers from the 4th International Conference on 3D Construction Printing Conference</i>, edited by Ming Jen Tan, Mingyang Li, Yi Wei Daniel Tay, Teck Neng Wong, and Paulo Jorge Bartolo, 104–12, 2024. https://doi.org/10.1007/978-3-031-64269-2_14.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

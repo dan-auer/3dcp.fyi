@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ammar Ali, Raja Riaz, Umair Malik, Syed Abbas, Muhammad Usman, Mati Shah, In-Ho Kim, Asad Hanif, Muhammad Faizan
+    - footer
+title: Ali Ammar, Riaz Raja, Malik Umair, Abbas Syed, Usman Muhammad, Shah Mati, Kim In-Ho, Hanif Asad, Faizan Muhammad
 description:
 tags:
  - base
@@ -18,39 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/11/4149/pdf?version=1685697948) Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete ([2023-06](date/2023/06))
-<a href="https://doi.org/10.3390/ma16114149" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16114149</a>
+#Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/11/4149/pdf?version=1685697948) <a href="https://doi.org/10.3390/ma16114149" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16114149" target="_blank">10.3390/ma16114149</a>
 
--------------------------
+<a href="../../../author/ali_ammar"><b>Ali</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/riaz_dilawar_raja"><b>Riaz</b>&nbsp;Raja</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-8447-1072" title="ORCID: 0009-0009-8447-1072" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/malik_jalil_umair"><b>Malik</b>&nbsp;Umair</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-5670-2345" title="ORCID: 0009-0006-5670-2345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abbas_baqar_syed"><b>Abbas</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usman_muhammad"><b>Usman</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7863-5781" title="ORCID: 0000-0002-7863-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shah_ullah_mati"><b>Shah</b>&nbsp;Mati</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5665-9902" title="ORCID: 0000-0001-5665-9902" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_in-ho"><b>Kim</b>&nbsp;In-Ho</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4318-7712" title="ORCID: 0000-0002-4318-7712" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hanif_asad"><b>Hanif</b>&nbsp;Asad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8573-9570" title="ORCID: 0000-0002-8573-9570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/faizan_muhammad"><b>Faizan</b>&nbsp;Muhammad</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 11, No. 4149
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>
-,     <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> <a href="https://orcid.org/0000-0002-9017-6397" title="ORCID: 0000-0002-9017-6397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a> <a href="https://orcid.org/0009-0009-8447-1072" title="ORCID: 0009-0009-8447-1072" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> <a href="https://orcid.org/0009-0006-5670-2345" title="ORCID: 0009-0006-5670-2345" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> <a href="https://orcid.org/0000-0003-2262-6429" title="ORCID: 0000-0003-2262-6429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shah_ullah_mati"><b>Shah</b> Mati</a> <a href="https://orcid.org/0000-0002-7863-5781" title="ORCID: 0000-0002-7863-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_in-ho"><b>Kim</b> In-Ho</a> <a href="https://orcid.org/0000-0001-5665-9902" title="ORCID: 0000-0001-5665-9902" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hanif_asad"><b>Hanif</b> Asad</a> <a href="https://orcid.org/0000-0002-4318-7712" title="ORCID: 0000-0002-4318-7712" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/faizan_muhammad"><b>Faizan</b> Muhammad</a> <a href="https://orcid.org/0000-0002-8573-9570" title="ORCID: 0000-0002-8573-9570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 11, No. 4149
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#flexural`](keyword/flexural)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Machine-Learning-Based%20Predictive-Model%20for%20Tensile%20and%20Flexural%20Strength%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85161604844&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4379142103" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16114149" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16114149?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The additive manufacturing of concrete, also known as 3D-printed concrete, is produced layer by layer using a 3D printer. The three-dimensional printing of concrete offers several benefits compared to conventional concrete construction, such as reduced labor costs and wastage of materials. It can also be used to build complex structures with high precision and accuracy. However, optimizing the mix design of 3D-printed concrete is challenging, involving numerous factors and extensive hit-and-trail experimentation. This study addresses this issue by developing predictive models, such as the Gaussian Process Regression model, Decision Tree Regression model, Support Vector Machine model, and XGBoost Regression models. The input parameters were water (Kg/m3), cement (Kg/m3), silica fume (Kg/m3), fly ash (Kg/m3), coarse aggregate (Kg/m3 & mm for diameter), fine aggregate (Kg/m3 & mm for diameter), viscosity modifying agent (Kg/m3), fibers (Kg/m3), fiber properties (mm for diameter and MPa for strength), print speed (mm/s), and nozzle area (mm2), while target properties were the flexural and tensile strength of concrete (MPa data from 25 literature studies were collected. The water/binder ratio used in the dataset ranged from 0.27 to 0.67. Different types of sands and fibers have been used, with fibers having a maximum length of 23 mm. Based upon the Coefficient of Determination (R2), Root Mean Square Error (RMSE), Mean Square Error (MSE), and Mean Absolute Error (MAE) for casted and printed concrete, the SVM model performed better than other models. All models’ cast and printed flexural strength values were also correlated. The model’s performance has also been checked on six different mix proportions from the dataset to show its accuracy. It is worth noting that the lack of ML-based predictive models for the flexural and tensile properties of 3D-printed concrete in the literature makes this study a novel innovation in the field. This model could reduce the computational and experimental effort required to formulate the mixed design of printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "71 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -148,8 +119,8 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
@@ -175,4 +146,35 @@ tags:
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC,
+      author            = "Ammar Ali and Raja Dilawar Riaz and Umair Jalil Malik and Syed Baqar Abbas and Muhammad Usman and Mati Ullah Shah and In-Ho Kim and Asad Hanif and Muhammad Faizan",
+      title             = "Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete",
+      doi               = "10.3390/ma16114149",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "11",
+      pages             = "4149",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Ali, “Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete”, <i>Materials</i>, vol. 16, no. 11, p. 4149, 2023, doi: 10.3390/ma16114149.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ali, Ammar, Raja Dilawar Riaz, Umair Jalil Malik, Syed Baqar Abbas, Muhammad Usman, Mati Ullah Shah, In-Ho Kim, Asad Hanif, and Muhammad Faizan. “Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete”. <i>Materials</i> 16, no. 11 (2023): 4149. https://doi.org/10.3390/ma16114149.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

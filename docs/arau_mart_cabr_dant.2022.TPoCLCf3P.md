@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rísia Araújo, Antônio Martinelli, Kleber Cabral, André Dantas, Iago Silva, Allynson Xavier, Ana Santos
+    - footer
+title: Araújo Rísia, Martinelli Antônio, Cabral Kleber, Dantas André, Silva Iago, Xavier Allynson, Santos Ana
 description:
 tags:
  - cement
@@ -13,32 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Thermal Performance of Cement-Leca Composites for 3D Printing ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.128771" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128771</a>
+#Thermal Performance of Cement-Leca Composites for 3D Printing ([2022-08](date/2022/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128771" target="_blank">10.1016/j.conbuildmat.2022.128771</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9265-9459" title="ORCID: 0000-0001-9265-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/araujo_a_risia"><b>Araújo</b>&nbsp;Rísia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3885-9104" title="ORCID: 0000-0003-3885-9104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b>&nbsp;Antônio</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b>&nbsp;Kleber</a></span>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b>&nbsp;André</a></span>, <a href="../../../author/silva_felipe-domingos_iago"><b>da&nbsp;Silva</b>&nbsp;Iago</a></span>, <a href="../../../author/xavier_a-c_allynson"><b>Xavier</b>&nbsp;Allynson</a></span>, <a href="../../../author/santos_l_ana"><b>Santos</b>&nbsp;Ana</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 349
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a> <a href="https://orcid.org/0000-0001-9265-9459" title="ORCID: 0000-0001-9265-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a> <a href="https://orcid.org/0000-0003-3885-9104" title="ORCID: 0000-0003-3885-9104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a> <a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a>
-,     <a href="../../../author/silva_felipe-domingos_iago"><b>da Silva</b> Iago</a>
-,     <a href="../../../author/xavier_a-c_allynson"><b>Xavier</b> Allynson</a>
-,     <a href="../../../author/santos_l_ana"><b>Santos</b> Ana</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 349, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Performance%20of%20Cement-Leca%20Composites%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85136668883&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4292358240" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.128771" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.128771?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This work aimed to evaluate the influence conventional fine aggregate substitution by LECA (light expanded clay aggregate) evaluating the physical and mechanical properties of lightweight cement-based composites for 3D printing. The mixtures were formulated using a 22 central composite rotatable design (CCRD). The independent factors were the substitution content of sand and the aggregate-to-binder ratio. The results showed that the replacement of sand by LECA increased the thermal insulation without compromising important structural properties such as mechanical strength and porosity. The thermal behavior of the composites was modeled and an equation dependent only on the substitution content was found.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -94,8 +72,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
       <li><a href="../../../author/liu_ruiqing"><b>Liu</b> Ruiqing</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_du.2025.OTITGD/">Optimizing Thermal Insulation Through Geometric Design:<br/>Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</a></li>
@@ -115,4 +93,33 @@ tags:
       <li><a href="../../../author/diniz_alessandro-almeida_hugo"><b>Diniz</b> Hugo</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/ferreira_landolfo-silva_ruan"><b>Ferreira</b> Ruan</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../dini_mart_cabr_ferr.2023.SEotUoMSaWotPoCCf3P/">Synergistic Effects of the Use of Metakaolin, Sand and Water on the Properties of Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{arau_mart_cabr_dant.2022.TPoCLCf3P,
+      author            = "Rísia A. Araújo and Antônio Eduardo Martinelli and Kleber Cavalcanti Cabral and André F. O. A. Dantas and Iago Felipe Domingos da Silva and Allynson A. C. Xavier and Ana L. Santos",
+      title             = "Thermal Performance of Cement-Leca Composites for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2022.128771",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "349",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. A. Araújo, “Thermal Performance of Cement-Leca Composites for 3D Printing”, <i>Construction and Building Materials</i>, vol. 349, 2022, doi: 10.1016/j.conbuildmat.2022.128771.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Araújo, Rísia A., Antônio Eduardo Martinelli, Kleber Cavalcanti Cabral, André F. O. A. Dantas, Iago Felipe Domingos da Silva, Allynson A. C. Xavier, and Ana L. Santos. “Thermal Performance of Cement-Leca Composites for 3D Printing”. <i>Construction and Building Materials</i> 349 (2022). https://doi.org/10.1016/j.conbuildmat.2022.128771.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

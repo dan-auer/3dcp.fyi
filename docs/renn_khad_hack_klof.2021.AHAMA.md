@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Philipp Rennen, Noor Khader, Norman Hack, Harald Kloft
+    - footer
+title: Rennen Philipp, Khader Noor, Hack Norman, Kloft Harald
 description:
 tags:
  - additive
@@ -20,34 +21,12 @@ tags:
 
 ---
 
-# A Hybrid Additive Manufacturing Approach:<br/>:aca-blank: Combining Additive Manufacturing and Green-State Concrete Milling to Create a Functionally Integrated Loadbearing Concrete Panel System ([2021-11](date/2021/11))
--------------------------
+#A Hybrid Additive Manufacturing Approach&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">Combining Additive Manufacturing and Green-State Concrete Milling to Create a Functionally Integrated Loadbearing Concrete Panel System</div>
+<span class="author"><a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rennen_philipp"><b>Rennen</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4503-1444" title="ORCID: 0000-0003-4503-1444" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khader_noor"><b>Khader</b>&nbsp;Noor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Contribution - Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 428-437
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a> <a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khader_noor"><b>Khader</b> Noor</a> <a href="https://orcid.org/0000-0003-4503-1444" title="ORCID: 0000-0003-4503-1444" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 428-437
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#approach`](keyword/approach)
-    [`#combination`](keyword/combination)
-    [`#concrete`](keyword/concrete)
-    [`#function`](keyword/function)
-    [`#green`](keyword/green)
-    [`#hybrid`](keyword/hybrid)
-    [`#integration`](keyword/integration)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#milling`](keyword/milling)
-    [`#state`](keyword/state)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/milling"><button class="btn">#milling</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Hybrid%20Additive%20Manufacturing%20Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -62,17 +41,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Research in the fi eld of additive manufacturing with concrete has gained enormous momentum in recent years. In practice, the fi rst fully functional and habitable buildings have been realized. While these lighthouse projects have proven the general feasibility of 3D printing in construction, in the future it will be a matter of further expanding the potential of 3D printing, addressing important topics such as functional integration (reinforcement, piping, fasteners), material gradation (load-bearing, insulating) as well as disassembly and reuse. As part of an international competition organized by LafargeHolcim Ltd. and its partners Witteveen & Bos, COBOD, and Fondation des Ponts which focused on realigning a traditionally manufactured residential building to concrete 3D printing technology, a team of students and researchers have developed a concept for a modular, function-integrated panel system for individualized wall and ceiling elements. The system is characterized by the fact that the integrated modular structures are printed fl at on the fl oor and precise connections and structural joints are subtracted while the concrete is still in its green state.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/lopez_william"><b>Lopez</b> William</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P/">Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing</a></li>
@@ -86,7 +61,36 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{renn_khad_hack_klof.2021.AHAMA,
+      author            = "Philipp Rennen and Noor Khader and Norman Peter Hack and Harald Kloft",
+      title             = "A Hybrid Additive Manufacturing Approach: Combining Additive Manufacturing and Green-State Concrete Milling to Create a Functionally Integrated Loadbearing Concrete Panel System",
+      year              = "2021",
+      pages             = "428--437",
+      booktitle         = "Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture: Realignments: Toward Critical Computation",
+      editor            = "Kathrin Dörfler and Stefana Parascho and Jane Scott and Biayna Bogosian and Behnaz Farahi and Jose Luis García del Castillo y López and June A. Grant and Vernelle A. A. Noell",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Rennen, N. Khader, N. P. Hack and H. Kloft, “A Hybrid Additive Manufacturing Approach: Combining Additive Manufacturing and Green-State Concrete Milling to Create a Functionally Integrated Loadbearing Concrete Panel System”, in <i>Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture: Realignments: Toward Critical Computation</i>,  2021, pp. 428–437.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rennen, Philipp, Noor Khader, Norman Peter Hack, and Harald Kloft. “A Hybrid Additive Manufacturing Approach: Combining Additive Manufacturing and Green-State Concrete Milling to Create a Functionally Integrated Loadbearing Concrete Panel System”. In <i>Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture: Realignments: Toward Critical Computation</i>, edited by Kathrin Dörfler, Stefana Parascho, Jane Scott, Biayna Bogosian, Behnaz Farahi, Jose Luis García del Castillo y López, June A. Grant, and Vernelle A. A. Noell, 428–37, 2021.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Weger, Christoph Gehlen, Waldemar Korte, Fabian Meyer-Brötz, Jennifer Scheydt, Thorsten Stengel
+    - footer
+title: Weger Daniel, Gehlen Christoph, Korte Waldemar, Meyer-Brötz Fabian, Scheydt Jennifer, Stengel Thorsten
 description:
 tags:
  - buildability
@@ -12,30 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Building Rethought:<br/>:aca-blank: 3D Concrete Printing in Building Practice ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1007/s41693-022-00064-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-022-00064-5</a>
+#Building Rethought&nbsp;([2022-02](date/2022/02))
+<div class="h1-like">3D Concrete Printing in Building Practice</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-022-00064-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00064-5" target="_blank">10.1007/s41693-022-00064-5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <a href="../../../author/korte_waldemar"><b>Korte</b>&nbsp;Waldemar</a></span>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b>&nbsp;Fabian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3726-8049" title="ORCID: 0000-0002-3726-8049" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheydt_jennifer"><b>Scheydt</b>&nbsp;Jennifer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stengel_thorsten"><b>Stengel</b>&nbsp;Thorsten</a></span><br>
+Journal Article - Construction Robotics, Vol. 5, Iss. 3-4, pp. 203-210
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>
-,     <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a>
-,     <a href="../../../author/scheydt_jennifer"><b>Scheydt</b> Jennifer</a> <a href="https://orcid.org/0000-0002-3726-8049" title="ORCID: 0000-0002-3726-8049" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, Vol. 5, Iss. 3-4, pp. 203-210
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#practice`](keyword/practice)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Building%20Rethought" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213239445" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-022-00064-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-022-00064-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     After only a few of years of intensive research all over the world, 3D printing of buildings has been induced in practical application in construction industry. In the course of this, in 2021, the first 3D printed residential building was realised in Beckum, Germany. The aim of this paper is to give an insight to the impetus, the ideas and the individual steps to realize this project. We describe the technology used and give an overview about background of the material development and the requirements for the material. Furthermore the architectural design und planning process is displayed. However, existing design codes do not cover all special technical features of the new construction method. Consequently, we describe the concept how the building permission (approval) for the construction by following existing standards (DIN EN) for concrete and masonry construction was achieved and granted. Finally we give an insight in the construction process and conclude with lessons learned for future projects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -90,8 +71,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a>, <a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../scho_husk_koch_stra.2025.AFfCtRIoa3CM/">A Framework for Characterising the Reflection Intensity of a 3D-CP Mortar</a></li>
       <li><a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b> Zeynep</a>, <a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../iler_takv_top_gokg.2025.TEo3CPTiAD/">The Effectiveness of 3D Concrete Printing Technology in Architectural Design:<br/>Different Corner-Wall Combinations in 3D Printed Elements and Geometric Form Configurations in Residential Buildings</a></li>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../roja_hasa.2025.HFi3CPfC/">Human Factor in 3D Concrete Printing for Construction</a></li>
@@ -120,4 +101,35 @@ tags:
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/aljawi_abdulla"><b>Aljawi</b> Abdulla</a>, <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b> Ahmed</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../mans_bina_alja_alha.2022.TMotCHTitLACot3CPW/">Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wege_gehl_kort_meye.2021.BR,
+      author            = "Daniel Weger and Christoph Gehlen and Waldemar Korte and Fabian Meyer-Brötz and Jennifer Scheydt and Thorsten Stengel",
+      title             = "Building Rethought: 3D Concrete Printing in Building Practice",
+      doi               = "10.1007/s41693-022-00064-5",
+      year              = "2021",
+      journal           = "Construction Robotics",
+      volume            = "5",
+      number            = "3-4",
+      pages             = "203--210",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Weger, C. Gehlen, W. Korte, F. Meyer-Brötz, J. Scheydt and T. Stengel, “Building Rethought: 3D Concrete Printing in Building Practice”, <i>Construction Robotics</i>, vol. 5, no. 3–4, pp. 203–210, 2021, doi: 10.1007/s41693-022-00064-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weger, Daniel, Christoph Gehlen, Waldemar Korte, Fabian Meyer-Brötz, Jennifer Scheydt, and Thorsten Stengel. “Building Rethought: 3D Concrete Printing in Building Practice”. <i>Construction Robotics</i> 5, no. 3-4 (2021): 203–10. https://doi.org/10.1007/s41693-022-00064-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

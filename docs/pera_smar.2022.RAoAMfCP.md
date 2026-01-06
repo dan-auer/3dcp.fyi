@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Patricia Peralta Abadi, Kay Smarsly
+    - footer
+title: Peralta Abadi Patricia, Smarsly Kay
 description:
 tags:
  - additive
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Requirements-Analysis of Additive Manufacturing for Concrete Printing:<br/>:aca-blank: A Systematic Review ([2022-07](date/2022/07))
-<a href="https://doi.org/10.22260/isarc2022/0047" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2022/0047</a>
+#Requirements-Analysis of Additive Manufacturing for Concrete Printing&nbsp;([2022-07](date/2022/07))
+<div class="h1-like">A Systematic Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2022/0047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2022/0047" target="_blank">10.22260/isarc2022/0047</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b>&nbsp;Patricia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/smarsly_kay"><b>Smarsly</b>&nbsp;Kay</a></span><br>
+Contribution - Proceedings of the 39th International Symposium on Automation and Robotics in Construction, pp. 336-343
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a> <a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 39th International Symposium on Automation and Robotics in Construction, pp. 336-343
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#requirement`](keyword/requirement)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Requirements-Analysis%20of%20Additive%20Manufacturing%20for%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4289755765" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2022/0047" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2022/0047?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The acceptance of concrete printing as a viable construction method is limited because of a lack of expertise and due to the heterogeneous and nonstandardized nature of additive manufacturing (AM) data modeling, affecting the reliability and the interoperability of the concrete printing process. To advance standardization of AM data modeling in concrete printing, information exchange requirements must be defined along the digital thread, i.e. the digital workflow that transforms 3D models into printed components. In this paper, a requirements analysis of AM for concrete printing is conducted through a systematic review. The AM process for concrete printing is defined, identifying information exchange requirements. Sources relevant to AM and concrete printing are systematically reviewed, collecting and analyzing attributes of the information exchange requirements for concrete printing. As a result, the requirement analysis serves as basis to standardize the digital thread, in an attempt to advance reliability and interoperability of the concrete printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -81,8 +62,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a>, <a href="../../../author/ahmad_e_muhammad"><b>Ahmad</b> Muhammad</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../pera_ahma_smar.2023.PIMfAMoCS/">Printing-Information-Modeling for Additive Manufacturing of Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pera_smar.2022.RAoAMfCP,
+      author            = "Patricia Peralta Abadi and Kay Smarsly",
+      title             = "Requirements-Analysis of Additive Manufacturing for Concrete Printing: A Systematic Review",
+      doi               = "10.22260/isarc2022/0047",
+      year              = "2022",
+      pages             = "336--343",
+      booktitle         = "Proceedings of the 39th International Symposium on Automation and Robotics in Construction",
+      editor            = "Thomas Linner and Borja García de Soto and Rongbo Hu and Ioannis Brilakis and Thomas Bock and Wen Pan and Alessandro Carbonari and Daniel Castro and Harrison Mesa and Chen Feng and Martin C. Fischer and Cynthia Brosque and Vicente Gonzalez and Daniel M. Hall and Ming Shan Ng and Vineet R. Kamat and Ci-Jyun Liang and Zoubeir Lafhaj and Wei Pan and Mi Pan and Zhenhua Zhu",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. P. Abadi  and K. Smarsly, “Requirements-Analysis of Additive Manufacturing for Concrete Printing: A Systematic Review”, in <i>Proceedings of the 39th International Symposium on Automation and Robotics in Construction</i>,  2022, pp. 336–343. doi: 10.22260/isarc2022/0047.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abadi, Patricia Peralta, and Kay Smarsly. “Requirements-Analysis of Additive Manufacturing for Concrete Printing: A Systematic Review”. In <i>Proceedings of the 39th International Symposium on Automation and Robotics in Construction</i>, edited by Thomas Linner, Borja García de Soto, Rongbo Hu, Ioannis Brilakis, Thomas Bock, Wen Pan, Alessandro Carbonari, et al., 336–43, 2022. https://doi.org/10.22260/isarc2022/0047.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: M. Shahib Al Bari, Januarti Ekaputri
+    - footer
+title: Shahib Al Bari M., Ekaputri Januarti
 description:
 tags:
  - buildability
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.24425/amm.2024.150904) The Effect of Fiber on the Green Strength and Buildability of High-Strength 3D Printing Concrete ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24425/amm.2024.150904" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24425/amm.2024.150904</a>
+#The Effect of Fiber on the Green Strength and Buildability of High-Strength 3D Printing Concrete ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.24425/amm.2024.150904) <a href="https://doi.org/10.24425/amm.2024.150904" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24425/amm.2024.150904" target="_blank">10.24425/amm.2024.150904</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4007-9636" title="ORCID: 0000-0002-4007-9636" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahib-al-bari_m"><b>Shahib Al Bari</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9547-8132" title="ORCID: 0000-0002-9547-8132" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ekaputri_j_januarti"><b>Ekaputri</b>&nbsp;Januarti</a></span><br>
+Journal Article - Archives of Metallurgy and Materials, pp. 839-850
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahib-al-bari_m"><b>Shahib Al Bari</b> M.</a> <a href="https://orcid.org/0000-0002-4007-9636" title="ORCID: 0000-0002-4007-9636" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ekaputri_j_januarti"><b>Ekaputri</b> Januarti</a> <a href="https://orcid.org/0000-0002-9547-8132" title="ORCID: 0000-0002-9547-8132" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Archives of Metallurgy and Materials, pp. 839-850
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#green`](keyword/green)
-    [`#height`](keyword/height)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Fiber%20on%20the%20Green%20Strength%20and%20Buildability%20of%20High-Strength%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204938495&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402884510" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24425/amm.2024.150904" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24425/amm.2024.150904?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents four parameters in 3D Printing Concrete (3DPC) in the fresh state. Flowability, extrudability, open time, and buildability. In addition, this paper also introduces a new method to obtain the green strength of fresh concrete. The high-strength concrete mixture was used as a base mix design. The water to binder ratio and admixture were tuned to obtain the 3DPC that satisfied those four parameters. The 3DPC mix design used cement, silica fume, and reactive powder as a binder with a ratio of 3:1:1. The ratio of sand and binder was 0.9. The water to binder ratio (w/b) was 0.14 with the addition of a superplasticizer and accelerator. To increase the buildability, polyvinyl alcohol (PVA) fiber was added by 0.2% of concrete volume. It had a 30 mm slump, 110 mm flow, 1.1 SRF, 85 minutes of open time, and 7 KPa green strength in 75 minutes. This mix design was able to be printed into 40 layers of 100×400 mm cylinder.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
@@ -82,8 +62,37 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_ekap.2024.TEoFotGSaBoHS3PC,
+      author            = "M. Shahib Al Bari and Januarti J. Ekaputri",
+      title             = "The Effect of Fiber on the Green Strength and Buildability of High-Strength 3D Printing Concrete",
+      doi               = "10.24425/amm.2024.150904",
+      year              = "2024",
+      journal           = "Archives of Metallurgy and Materials",
+      pages             = "839--850",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. S. A. Bari  and J. J. Ekaputri, “The Effect of Fiber on the Green Strength and Buildability of High-Strength 3D Printing Concrete”, <i>Archives of Metallurgy and Materials</i>, pp. 839–850, 2024, doi: 10.24425/amm.2024.150904.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bari, M. Shahib Al, and Januarti J. Ekaputri. “The Effect of Fiber on the Green Strength and Buildability of High-Strength 3D Printing Concrete”. <i>Archives of Metallurgy and Materials</i>, 2024, 839–50. https://doi.org/10.24425/amm.2024.150904.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

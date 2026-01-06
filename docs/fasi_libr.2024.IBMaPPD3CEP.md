@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Fasihi, Nicolas Libre
+    - footer
+title: Fasihi Ali, Libre Nicolas
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Interaction Between Material and Process-Parameters During 3D Concrete-Extrusion-Process ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.istruc.2024.107678" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2024.107678</a>
+#Interaction Between Material and Process-Parameters During 3D Concrete-Extrusion-Process ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2024.107678" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.107678" target="_blank">10.1016/j.istruc.2024.107678</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7372-653X" title="ORCID: 0000-0001-7372-653X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fasihi_ali"><b>Fasihi</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/libre_ali_nicolas"><b>Libre</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Structures, Vol. 70, No. 107678
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a> <a href="https://orcid.org/0000-0001-7372-653X" title="ORCID: 0000-0001-7372-653X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 70, No. 107678
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#interaction`](keyword/interaction)
-    [`#material`](keyword/material)
-    [`#parameter`](keyword/parameter)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interaction%20Between%20Material%20and%20Process-Parameters%20During%203D%20Concrete-Extrusion-Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207809932&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403991799" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2024.107678" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2024.107678?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion of cement-based materials in additive manufacturing is influenced by a complex interaction of various material and process parameters. This study aims to investigate the impact of rheological properties and printing parameters on the extrudability of cement-based materials as well as the interaction between rheological properties of print materials and extrusion speed, as a key printing process parameter. 20 different print materials with diverse rheological properties were extruded at 10 different extrusion speeds. The effect of material parameters (i.e. rheological properties) and process parameters (i.e., extrusion speed) and their interaction during the extrusion process were evaluated using filament continuity, conformity and consistency. At a constant printing speed, a higher yield stress adversely impacted filament continuity in mixtures with a yield stress of over 260 Pa, whereas viscosity showed minimal influence on filament quality within the tested range of the rheological properties. The results of this study highlighted a significant correlation between material and process parameters and that adapting process parameters to variations in material properties is crucial for meeting printing criteria. The filament consistency of the mixtures with high yield stress was more sensitive to change in the extrusion speed than that of mixtures with low yield stress. An opposite trend, however, was observed for filament conformity where low yield stress mixtures showed a higher sensitivity to the extrusion speed. A procedure was suggested and applied to determine the optimum extrusion speed. Optimal extrusion speeds enabled printing mixtures with a broader spectrum of rheological properties with an acceptable visual quality, filament conformity and consistency requirements. With extrusion speed adjustment, the extrudability window was expanded from dynamic yield stress of 108–126 Pa to 108–263 Pa and plastic viscosity of 8.2–12.3 Pa.s to 5.1–16.4 Pa.s.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -88,11 +70,41 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../fasi_libr.2025.TAISSYSMf3CP/">Towards Accurate In-Situ Static Yield Stress Measurement for 3D Concrete Printing:<br/>A Study on Novel Fast Penetration Test</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fasi_libr.2024.IBMaPPD3CEP,
+      author            = "Ali Fasihi and Nicolas Ali Libre",
+      title             = "Interaction Between Material and Process-Parameters During 3D Concrete-Extrusion-Process",
+      doi               = "10.1016/j.istruc.2024.107678",
+      year              = "2024",
+      journal           = "Structures",
+      volume            = "70",
+      pages             = "107678",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Fasihi  and N. A. Libre, “Interaction Between Material and Process-Parameters During 3D Concrete-Extrusion-Process”, <i>Structures</i>, vol. 70, p. 107678, 2024, doi: 10.1016/j.istruc.2024.107678.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fasihi, Ali, and Nicolas Ali Libre. “Interaction Between Material and Process-Parameters During 3D Concrete-Extrusion-Process”. <i>Structures</i> 70 (2024): 107678. https://doi.org/10.1016/j.istruc.2024.107678.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

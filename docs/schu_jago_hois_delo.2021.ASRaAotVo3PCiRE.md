@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Steven Schuldt, Jeneé Jagoda, Andrew Hoisington, Justin Delorit
+    - footer
+title: Schuldt Steven, Jagoda Jeneé, Hoisington Andrew, Delorit Justin
 description:
 tags:
  - analysis
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2021.103642) A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments ([2021-03](date/2021/03))
-<a href="https://doi.org/10.1016/j.autcon.2021.103642" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2021.103642</a>
+#A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments ([2021-03](date/2021/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2021.103642) <a href="https://doi.org/10.1016/j.autcon.2021.103642" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103642" target="_blank">10.1016/j.autcon.2021.103642</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4234-7454" title="ORCID: 0000-0002-4234-7454" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schuldt_j_steven"><b>Schuldt</b>&nbsp;Steven</a></span>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b>&nbsp;Jeneé</a></span>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b>&nbsp;Andrew</a></span>, <a href="../../../author/delorit_d_justin"><b>Delorit</b>&nbsp;Justin</a></span><br>
+Journal Article - Automation in Construction, Vol. 125
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a> <a href="https://orcid.org/0000-0002-4234-7454" title="ORCID: 0000-0002-4234-7454" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>
-,     <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>
-,     <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 125, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#construction`](keyword/construction)
-    [`#environment`](keyword/environment)
-    [`#print`](keyword/print)
-    [`#remote`](keyword/remote)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/remote"><button class="btn">#remote</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Review%20and%20Analysis%20of%20the%20Viability%20of%203D%20Printed%20Construction%20in%20Remote%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101827340&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3135588208" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2021.103642" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2021.103642?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed construction is an additive, layer-by-layer construction method with the potential to reduce material consumption, optimize design, decrease construction time, lower labor requirements, minimize logistical demand, improve sustainability, and reduce costs as compared to conventional construction. This paper presents the results of a systematic review of 4491 publications spanning from 1998 through 2019. The review presents the viability of 3D-printed construction as a replacement for conventional construction methods, specifically in remote, isolated, or expeditionary environments, where conventional construction capability may be limited. The paper includes an analysis and characterization of the existing body of 3D-printed construction literature before evaluating seven viability factors of the method: materials, structural design, process efficiency, logistics, labor, environmental impact, and cost. In addition, the paper highlights three case studies of 3D-printed construction in remote, isolated, and expeditionary environments. The paper concludes by suggesting areas of future research to ensure the viability of this technology, such as printing full-scale structures and components with locally sourced materials in uncontrolled environments, defining standards for 3D printing, automating additional construction processes, and performing both environmental impact and cost life-cycle analyses. With continued investment in research and development, 3D printing could become a more viable and accepted method of construction, transforming the way the industry is managed in remote, isolated, and expeditionary environments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "114 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -151,7 +130,6 @@ tags:
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_l"><b>Quispe</b> L.</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a>, <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../silv_quis_kim_naka.2019.DoaSNFRECfCAU3P/">Development of a Stabilized Natural Fiber-Reinforced Earth Composite for Construction Applications Using 3D Printing</a></li>
@@ -181,8 +159,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "64 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kul_koca.2025.PAoDaOPi3CPoWE/">Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements</a></li>
@@ -248,4 +226,33 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{schu_jago_hois_delo.2021.ASRaAotVo3PCiRE,
+      author            = "Steven J. Schuldt and Jeneé A. Jagoda and Andrew J. Hoisington and Justin D. Delorit",
+      title             = "A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments",
+      doi               = "10.1016/j.autcon.2021.103642",
+      year              = "2021",
+      journal           = "Automation in Construction",
+      volume            = "125",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. J. Schuldt, J. A. Jagoda, A. J. Hoisington and J. D. Delorit, “A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments”, <i>Automation in Construction</i>, vol. 125, 2021, doi: 10.1016/j.autcon.2021.103642.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Schuldt, Steven J., Jeneé A. Jagoda, Andrew J. Hoisington, and Justin D. Delorit. “A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments”. <i>Automation in Construction</i> 125 (2021). https://doi.org/10.1016/j.autcon.2021.103642.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

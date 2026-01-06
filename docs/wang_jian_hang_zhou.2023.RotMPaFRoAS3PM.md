@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Wang, Minghui Jiang, Meiyan Hang, Gangming Zhou, Mengjie Sun, Xiangju Liu
+    - footer
+title: Wang Hao, Jiang Minghui, Hang Meiyan, Zhou Gangming, Sun Mengjie, Liu Xiangju
 description:
 tags:
  - frost
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e02332) Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.cscm.2023.e02332" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e02332</a>
+#Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02332) <a href="https://doi.org/10.1016/j.cscm.2023.e02332" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02332" target="_blank">10.1016/j.cscm.2023.e02332</a>
 
--------------------------
+<a href="../../../author/wang_hao"><b>Wang</b>&nbsp;Hao</a></span>, <a href="../../../author/jiang_minghui"><b>Jiang</b>&nbsp;Minghui</a></span>, <a href="../../../author/hang_meiyan"><b>Hang</b>&nbsp;Meiyan</a></span>, <a href="../../../author/zhou_gangming"><b>Zhou</b>&nbsp;Gangming</a></span>, <a href="../../../author/sun_mengjie"><b>Sun</b>&nbsp;Mengjie</a></span>, <a href="../../../author/liu_xiangju"><b>Liu</b>&nbsp;Xiangju</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02332
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_hao"><b>Wang</b> Hao</a>
-,     <a href="../../../author/jiang_minghui"><b>Jiang</b> Minghui</a>
-,     <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>
-,     <a href="../../../author/zhou_gangming"><b>Zhou</b> Gangming</a>
-,     <a href="../../../author/sun_mengjie"><b>Sun</b> Mengjie</a>
-,     <a href="../../../author/liu_xiangju"><b>Liu</b> Xiangju</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02332
-
-:aca-blank:{ .lg .middle}
-    [`#frost`](keyword/frost)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#resistance`](keyword/resistance)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/frost"><button class="btn">#frost</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20the%20Mechanical%20Properties%20and%20Frost-Resistance%20of%20Aeolian%20Sand%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166023256&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385173500" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e02332" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e02332?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The purpose of this study is to use aeolian sand obtained from Inner Mongolia to partially replace quartz sand as fine aggregate to prepare 3D printed mortar to solve the scarcity problems of quartz sand resources in northwestern China. The mechanical properties tests (including flexural strength, compressive strength, tensile bond strength and axial compression tests) and frost resistance tests of cast specimens and printed mortar specimens in the X, Y and Z directions (abbreviated as CS, PS-X, PS-Y and PS-Z) were investigated. Furthermore, their microscopic morphology and pore structure parameters were compared and analyzed using scanning electron microscopy (SEM) and low field nuclear magnetic resonance (NMR), respectively. The results showed that the flexural strength and compressive strength of the samples following the inclined cross-path were superior to those following the Z-shaped path specimens. The tensile bonding strength of the CS, PS-X, PS-Y and PS-Z exhibited that F3 > F3X > F3Z > F3Y, and the peak stress was observed as F4X > F4 > F4Z > F4Y. This was attributed to the cement hydration of CS and PS-X being more sufficient than those of PS-Y and PS-Z. Furthermore, freezing-thawing cycles accelerated the degradation of aeolian sand 3D printed mortar specimens, increased their weight loss rate and porosities, as well as reduced relative dynamic modulus of elasticity. The porosities of specimens were as follows: PS-Y > PS-Z > PS-X > CS, and the porosity of PS-Y was 97.62 %, 36.07 % and 10.67 % higher than those of CS, PS-X and PS-Z, respectively. The significance of this research is to provide technical guidance and basis for the application of aeolian sand in 3D printed mortar in the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
@@ -110,10 +87,40 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mim_shai_sark.2025.S3PCIAFA/">Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>A Review</a></li>
       <li><a href="../../../author/dong_wei"><b>Dong</b> Wei</a>, <a href="../../../author/wang_junfeng"><b>Wang</b> Junfeng</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/qu_shuqiang"><b>Qu</b> Shuqiang</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dong_wang_hang_qu.2024.RoPPaSFRo3PCwFSaAS/">Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_jian_hang_zhou.2023.RotMPaFRoAS3PM,
+      author            = "Hao Wang and Minghui Jiang and Meiyan Hang and Gangming Zhou and Mengjie Sun and Xiangju Liu",
+      title             = "Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar",
+      doi               = "10.1016/j.cscm.2023.e02332",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "19",
+      pages             = "e02332",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Wang, M. Jiang, M. Hang, G. Zhou, M. Sun and X. Liu, “Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar”, <i>Case Studies in Construction Materials</i>, vol. 19, p. e02332, 2023, doi: 10.1016/j.cscm.2023.e02332.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Hao, Minghui Jiang, Meiyan Hang, Gangming Zhou, Mengjie Sun, and Xiangju Liu. “Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar”. <i>Case Studies in Construction Materials</i> 19 (2023): e02332. https://doi.org/10.1016/j.cscm.2023.e02332.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

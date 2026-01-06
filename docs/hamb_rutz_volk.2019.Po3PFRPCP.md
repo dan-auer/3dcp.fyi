@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manuel Hambach, Matthias Rutzen, Dirk Volkmer
+    - footer
+title: Hambach Manuel, Rutzen Matthias, Volkmer Dirk
 description:
 tags:
  - cement
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/b978-0-12-815481-6.00005-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-12-815481-6.00005-1</a>
+#Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste ([2019-02](date/2019/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00005-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00005-1" target="_blank">10.1016/b978-0-12-815481-6.00005-1</a>
 
--------------------------
+<a href="../../../author/hambach_manuel"><b>Hambach</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2002-9014" title="ORCID: 0000-0003-2002-9014" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rutzen_matthias"><b>Rutzen</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8105-2157" title="ORCID: 0000-0002-8105-2157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volkmer_dirk"><b>Volkmer</b>&nbsp;Dirk</a></span><br>
+Contribution - 3D Concrete Printing Technology, pp. 73-113
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>
-,     <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a> <a href="https://orcid.org/0000-0003-2002-9014" title="ORCID: 0000-0003-2002-9014" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="https://orcid.org/0000-0002-8105-2157" title="ORCID: 0000-0002-8105-2157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing Technology, pp. 73-113
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#fiber`](keyword/fiber)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%203D-Printed%20Fiber-Reinforced%20Portland%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127831962&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4250819118" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-12-815481-6.00005-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-12-815481-6.00005-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Regular Portland cement-based construction materials exhibit a high compressive strength (around 2060 MPa for general usage) [1], but they fall short in terms of tensile and flexural strength values (310 MPa) for plain cement pastes [2,3]. As a common solution, steel-reinforcement is placed in the formworks in order to improve flexural strength of the cementitious composite. However, steel-reinforcement results in timeand material-consuming labor costs during the construction process since the steel has to be placed and fixed by hand in the construction molds. To avoid the disadvantages of steel-reinforcement, mortars and concretes containing high-performance synthetic fibers (e.g., glass or carbon fibers) were introduced in the 1960s in the scientific literature [4]. The resulting composite materials show a remarkable increase in flexural and tensile properties leading to an ultimate flexural strength of up to 50 MPa, one order of magnitude higher than the corresponding value for plain concrete (without further reinforcement) [57]. Since the late 1990s, efforts have been made on extruding fiber-reinforced cement pastes in a simple extrusion process in order to increase the density of the cement paste and to influence, to a certain extent, the orientation of fibers in the cementitious matrix [811]. A manual nozzle-injection process realizes an extraordinarily high degree of fiber orientation in reinforced cement pastes. If the mean length of the reinforcing fibers is greater than the nozzle diameter, orientation of the fibers parallel to the path of movement through the nozzle takes place. With three vol.% fiber content, a flexural strength of 120 MPa can be realized as reported recently [12]. Since extrusion techniques forcing fiber alignment are capable of producing high-performance fiber-reinforced cementitious composites, the next technological step should head toward a fully automated layer-based fabrication, known as additive manufacturing (AM) or 3D printing, and has already been introduced into the manufacturing of cement-based materials [1315]. Similar developments towards 3D-printing can also be observed in related material classes, for example, biomedical materials [16,17], polymer composites [18,19], or bone replacement materials [2024]. 3D printing is a technique first introduced in the late 1980s and is gaining more and more importance in production processes during recent years [25] since it enables the fabrication of complex, multiscale structures through computer-aided design (CAD) [26,27]. Continuous extrusion or fused deposition modeling (FDM) is based on extruding a (semi-)liquid paste, typically a molten thermoplastic polymer, and depositing the material by a computer-controlled extrusion system [28]. In this chapter we apply FDM 3D-printing on cementitious materials by storing the ready- mixed paste in a reservoir and extruding the material by a movable piston system of a dispenser in order to form layered structures. However, the need for steel reinforcement hampers the fully automated processing of free-formed 3D construction structures made from Portland cement-based materials. As a possible solution, common steel-reinforced concrete might be substituted by a 3D-printable short carbon fiber-reinforced cement exhibiting high flexural strength, thus minimizing the content of reinforcement steel in load-bearing structures. In the next section we describe the required materials development in conjunction with a suitable 3D printing approach, which point in this direction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -70,8 +51,8 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/takashima_hiroyuki"><b>Takashima</b> Hiroyuki</a>, <a href="../../../author/miyagai_kiyotaka"><b>Miyagai</b> Kiyotaka</a>, <a href="../../../author/hashida_toshiyuki"><b>Hashida</b> Toshiyuki</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2002/09">(2002-09)</a><br><a href="../../../taka_miya_hash_li.2003.ADAftMPoPDFRCCbEM/">A Design Approach for the Mechanical Properties of Polypropylene-Discontinuous-Fiber-Reinforced Cementitious Composites by Extrusion-Molding</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "109 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
       <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a>, <a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gars_mous_dehe_naza.2025.SPo3CPUAWF/">Sustainable Production of 3D Concrete Printing Using Agricultural Waste Fibers</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
@@ -182,4 +163,34 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../kim_yeon_lee.2019.SDCoSMCMf3CP/">Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{hamb_rutz_volk.2019.Po3PFRPCP,
+      author            = "Manuel Hambach and Matthias Rutzen and Dirk Volkmer",
+      title             = "Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste",
+      doi               = "10.1016/b978-0-12-815481-6.00005-1",
+      year              = "2019",
+      pages             = "73--113",
+      booktitle         = "3D Concrete Printing Technology: Construction and Building Applications",
+      editor            = "Jay Gnananandan Sanjayan and Ali Nazari and Behzad Nematollahi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Hambach, M. Rutzen and D. Volkmer, “Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste”, in <i>3D Concrete Printing Technology: Construction and Building Applications</i>,  2019, pp. 73–113. doi: 10.1016/b978-0-12-815481-6.00005-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hambach, Manuel, Matthias Rutzen, and Dirk Volkmer. “Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste”. In <i>3D Concrete Printing Technology: Construction and Building Applications</i>, edited by Jay Gnananandan Sanjayan, Ali Nazari, and Behzad Nematollahi, 73–113, 2019. https://doi.org/10.1016/b978-0-12-815481-6.00005-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

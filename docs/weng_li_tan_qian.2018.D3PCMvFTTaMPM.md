@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiwei Weng, Mingyang Li, Ming Tan, Shunzhi Qian
+    - footer
+title: Weng Yiwei, Li Mingyang, Tan Ming, Qian Shunzhi
 description:
 tags:
  - cement
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/88354/2/Design%203D%20printing%20cementitious%20materials%20via%20Fuller%20Thompson%20theory%20and%20Marson-Percy%20model.pdf) Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model ([2018-01](date/2018/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2017.12.112" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2017.12.112</a>
+#Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model ([2018-01](date/2018/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/88354/2/Design%203D%20printing%20cementitious%20materials%20via%20Fuller%20Thompson%20theory%20and%20Marson-Percy%20model.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2017.12.112" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.12.112" target="_blank">10.1016/j.conbuildmat.2017.12.112</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 163, pp. 600-610
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 163, pp. 600-610
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#full`](keyword/full)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#theory`](keyword/theory)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%203D%20Printing%20Cementitious%20Materials%20via%20Fuller-Thompson-Theory%20and%20Marson-Percy-Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85039733902&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2781956876" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2017.12.112" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2017.12.112?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious materials for 3D printing have special requirements for rheological properties, which are significantly affected by many factors, including sand gradation and packing fraction. Fuller Thompson theory and Marson-Percy model are classic approaches for sand gradation and packing fraction optimization, respectively. This paper attempts to apply Fuller Thompson theory and Marson-Percy model in designing cementitious materials for 3D Cementitious Materials Printing (3DCMP). Various gradation methods adopted in this study were Fuller Thompson gradation (mixture A), uniform-gradations (mixture B and C), gap-gradations (mixture D and E). Besides these mixtures with special gradation approaches, one mixture using natural river sand (mixture F) was prepared as well. Rheological properties were characterized by static/dynamic yield stress and plastic viscosity in Bingham Plastic model. Buildability was examined by printing a column with 10 cm inner diameter via a gantry printer. Rheological test results indicate that mixture A designed by continuous gradation possesses the highest static/dynamic yield stress and lowest plastic viscosity. During printing test for buildability, mixture A can easily reach up to 40 layers without notable deformation, while all other mixtures deformed noticeably and fell down before the 35th layer. Finally, a large-scale printing was carried out with mixture A and a structure with the height of 80 cm was printed successfully without notable deformation. Density, compressive strength and flexural strength of printed filaments were also characterized. Mechanical performance test results illustrate mixture A has the highest density and appropriate compressive strength, and a relative high flexural strength at different curing ages. These results indicate that Fuller Thompson theory and Marson-Percy model can serve as a reasonable guide for material rheology design for 3DCMP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a>, <a href="../../../author/kirchner_nathan"><b>Kirchner</b> Nathan</a> <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../gard_jans_kirc.2016.ARoaCSRSf3PoCF/">A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork</a></li>
@@ -75,11 +54,10 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "231 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -312,4 +290,34 @@ tags:
       <li><a href="../../../author/ting_andrew"><b>Ting</b> Andrew</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/annapareddy_ashokreddy"><b>Annapareddy</b> Ashokreddy</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ting_tay_anna_li.2018.EoRGGi3CMP/">Effect of Recycled-Glass Gradation in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../weng_qian_he_li.2018.3PHPFRCCFLSP/">3D Printable High-Performance Fiber-Reinforced Cementitious Composites For Large-Scale Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{weng_li_tan_qian.2018.D3PCMvFTTaMPM,
+      author            = "Yiwei Weng and Mingyang Li and Ming Jen Tan and Shunzhi Qian",
+      title             = "Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model",
+      doi               = "10.1016/j.conbuildmat.2017.12.112",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "163",
+      pages             = "600--610",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Weng, M. Li, M. J. Tan and S. Qian, “Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model”, <i>Construction and Building Materials</i>, vol. 163, pp. 600–610, 2018, doi: 10.1016/j.conbuildmat.2017.12.112.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weng, Yiwei, Mingyang Li, Ming Jen Tan, and Shunzhi Qian. “Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model”. <i>Construction and Building Materials</i> 163 (2018): 600–610. https://doi.org/10.1016/j.conbuildmat.2017.12.112.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

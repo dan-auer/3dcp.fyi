@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kuangnan Zhong, Kaiyun Huang, Zhichao Liu, Fazhou Wang, Shuguang Hu
+    - footer
+title: Zhong Kuangnan, Huang Kaiyun, Liu Zhichao, Wang Fazhou, Hu Shuguang
 description:
 tags:
  - carbonation
@@ -20,37 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars:<br/>:aca-blank: Material Modification and Curing Process Innovation ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143996" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143996</a>
+#Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">Material Modification and Curing Process Innovation</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143996" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143996" target="_blank">10.1016/j.conbuildmat.2025.143996</a>
 
--------------------------
+<a href="../../../author/zhong_kuangnan"><b>Zhong</b>&nbsp;Kuangnan</a></span>, <a href="../../../author/huang_kaiyun"><b>Huang</b>&nbsp;Kaiyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0678-4606" title="ORCID: 0000-0002-0678-4606" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhichao"><b>Liu</b>&nbsp;Zhichao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9376-5632" title="ORCID: 0000-0001-9376-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_fazhou"><b>Wang</b>&nbsp;Fazhou</a></span>, <a href="../../../author/hu_shuguang"><b>Hu</b>&nbsp;Shuguang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 498, No. 143996
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>
-,     <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>
-,     <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a> <a href="https://orcid.org/0000-0002-0678-4606" title="ORCID: 0000-0002-0678-4606" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> <a href="https://orcid.org/0000-0001-9376-5632" title="ORCID: 0000-0001-9376-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hu_shuguang"><b>Hu</b> Shuguang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 498, No. 143996
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#cure`](keyword/cure)
-    [`#enhancement`](keyword/enhancement)
-    [`#innovation`](keyword/innovation)
-    [`#material`](keyword/material)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#slag`](keyword/slag)
-    [`#steel`](keyword/steel)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Dual%20Strategies%20for%20Enhancing%20Carbonation%20Curing%20in%203D%20Printing%20Steel%20Slag%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019304019&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415186774" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143996" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143996?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to enhance carbonation curing efficiency of 3D printing steel slag mortar and advance their practical application. The investigation optimizes steel slag mortar formulations through porous shale ceramsite incorporation and reveals the mechanisms of carbonation reaction diffusion cessation. Additionally, the experiment innovatively proposes a simulated flue gas carbonation curing strategy, further enhancing the carbonation diffusion depth of printed specimens. Results demonstrate that shale ceramsite incorporation effectively enhances carbonation diffusion rates and penetration depth in printed specimens. The maximum carbonation depth of shale ceramsite group printed samples reache 38.7 mm, while the Control group achieves only 13.9 mm. However, both theoretical analysis and experiment results indicate that 40 % CO2 can still penetrate through 40-mm thick shale ceramsite group carbonated specimens. Therefore, beyond matrix densification, moisture re-accumulation in the carbonated regions of printed samples constitutes another critical factor impeding carbonation diffusion. The porosities of two groups of shale ceramsite carbonated samples are 16.73 % and 17.53 %, respectively. After calculating the residual moisture volume, their porosities decrease to 7.17 % and 7.66 %. Pore blockage and moisture hindrance result in substantially reduced CO2 diffusion efficiency and ultimately leading to carbonation reaction cessation. The experiment proposes simulated flue gas carbonation curing through improving the pre-drying-carbonation curing to a coordinated water loss-carbonation process, meeting the moisture requirements of different carbonation stages through the dynamic water loss process of printed samples. This curing process innovation overcomes the impediment of residual moisture on carbonation diffusion, and further improves the maximum carbonation depth of printed specimens, enabling complete carbonation even in Control printed specimens. Meanwhile, carbonation reaction rates are regulated by moisture evaporation rates, resulting in moderated reaction kinetics that enhance the degree of carbonation (DOC) and achieve superior mechanical strength in printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -99,7 +73,37 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhon_huan_liu_wang.2024.CDAMoSSSM/">CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhon_huan_liu_wang.2025.DSfECCi3PSSM,
+      author            = "Kuangnan Zhong and Kaiyun Huang and Zhichao Liu and Fazhou Wang and Shuguang Hu",
+      title             = "Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars: Material Modification and Curing Process Innovation",
+      doi               = "10.1016/j.conbuildmat.2025.143996",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "498",
+      pages             = "143996",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Zhong, K. Huang, Z. Liu, F. Wang and S. Hu, “Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars: Material Modification and Curing Process Innovation”, <i>Construction and Building Materials</i>, vol. 498, p. 143996, 2025, doi: 10.1016/j.conbuildmat.2025.143996.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhong, Kuangnan, Kaiyun Huang, Zhichao Liu, Fazhou Wang, and Shuguang Hu. “Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars: Material Modification and Curing Process Innovation”. <i>Construction and Building Materials</i> 498 (2025): 143996. https://doi.org/10.1016/j.conbuildmat.2025.143996.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

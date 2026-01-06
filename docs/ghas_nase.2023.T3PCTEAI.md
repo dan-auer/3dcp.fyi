@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alireza Ghasemi, Mohannad Naser
+    - footer
+title: Ghasemi Alireza, Naser Mohannad
 description:
 tags:
  - artificial
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Tailoring 3D Printed Concrete Through Explainable Artificial Intelligence ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.istruc.2023.07.040" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2023.07.040</a>
+#Tailoring 3D Printed Concrete Through Explainable Artificial Intelligence ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2023.07.040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.07.040" target="_blank">10.1016/j.istruc.2023.07.040</a>
 
--------------------------
+<a href="../../../author/ghasemi_alireza"><b>Ghasemi</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1350-3654" title="ORCID: 0000-0003-1350-3654" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naser_z_mohannad"><b>Naser</b>&nbsp;Mohannad</a></span><br>
+Journal Article - Structures, Vol. 56, No. 104850
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ghasemi_alireza"><b>Ghasemi</b> Alireza</a>
-,     <a href="../../../author/naser_z_mohannad"><b>Naser</b> Mohannad</a> <a href="https://orcid.org/0000-0003-1350-3654" title="ORCID: 0000-0003-1350-3654" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 56, No. 104850
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#concrete`](keyword/concrete)
-    [`#explainability`](keyword/explainability)
-    [`#intelligence`](keyword/intelligence)
-    [`#print`](keyword/print)
-    [`#tailoring`](keyword/tailoring)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tailoring%203D%20Printed%20Concrete%20Through%20Explainable%20Artificial%20Intelligence" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165064423&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4384306306" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2023.07.040" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2023.07.040?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Advances on the construction front continue to rise as the next industrial revolution (Construction 4.0) nears. One promising front revolves around additively fabricated or simply 3D printed concrete. The growing number of ongoing parallel research programs has now made it possible to collect a large amount of data on such concrete as, up to this point, the open literature lacks a comprehensive database. Thus, this paper presents the largest database spanning over 300 experiments on 3D printed concrete. This database is then examined via multilinear regression as well as two explainable artificial intelligence (XAI) algorithms, namely, Random Forest and XGBoost, to arrive at a working model capable of predicting the compressive strength property for 3D concrete mixtures that incorporate the following seven features: age of specimens, as well as the magnitude of cement, water, fly ash, silica fume, fine aggregate, and superplasticizer. Findings from this work infer the superiority of XAI models in predicting the strength property of 3D printed concrete. Our analysis identifies two features, namely, the age of specimens and the quantity of fine aggregate, as the most important features that can accurately predict the compressive strength property. Finally, the deployed explainability methods successfully quantified the highly nonlinear relations between the selected features and compressive strength, and this newly acquired knowledge can help tailor functional concrete mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "71 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
@@ -133,8 +115,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
@@ -156,4 +138,34 @@ tags:
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP/">Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ghas_nase.2023.T3PCTEAI,
+      author            = "Alireza Ghasemi and Mohannad Z. Naser",
+      title             = "Tailoring 3D Printed Concrete Through Explainable Artificial Intelligence",
+      doi               = "10.1016/j.istruc.2023.07.040",
+      year              = "2023",
+      journal           = "Structures",
+      volume            = "56",
+      pages             = "104850",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Ghasemi  and M. Z. Naser, “Tailoring 3D Printed Concrete Through Explainable Artificial Intelligence”, <i>Structures</i>, vol. 56, p. 104850, 2023, doi: 10.1016/j.istruc.2023.07.040.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghasemi, Alireza, and Mohannad Z. Naser. “Tailoring 3D Printed Concrete Through Explainable Artificial Intelligence”. <i>Structures</i> 56 (2023): 104850. https://doi.org/10.1016/j.istruc.2023.07.040.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xuping Ji, Tinghong Pan, Xingyao Liu, Wenhao Zhao, Linpu Du, Jianzhong Liu, Fangyu Han, Jianfang Sha
+    - footer
+title: Ji Xuping, Pan Tinghong, Liu Xingyao, Zhao Wenhao, Du Linpu, Liu Jianzhong, Han Fangyu, Sha Jianfang
 description:
 tags:
  - base
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Characterization of Thixotropic Properties of Fresh Cement‐Based Materials ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1002/suco.202300220" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202300220</a>
+#Characterization of Thixotropic Properties of Fresh Cement‐Based Materials ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.202300220" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202300220" target="_blank">10.1002/suco.202300220</a>
 
--------------------------
+<a href="../../../author/ji_xuping"><b>Ji</b>&nbsp;Xuping</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <a href="../../../author/liu_xingyao"><b>Liu</b>&nbsp;Xingyao</a></span>, <a href="../../../author/zhao_wenhao"><b>Zhao</b>&nbsp;Wenhao</a></span>, <a href="../../../author/du_linpu"><b>Du</b>&nbsp;Linpu</a></span>, <a href="../../../author/liu_jianzhong"><b>Liu</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/han_fangyu"><b>Han</b>&nbsp;Fangyu</a></span>, <a href="../../../author/sha_jianfang"><b>Sha</b>&nbsp;Jianfang</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a>
-,     <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> <a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_xingyao"><b>Liu</b> Xingyao</a>
-,     <a href="../../../author/zhao_wenhao"><b>Zhao</b> Wenhao</a>
-,     <a href="../../../author/du_linpu"><b>Du</b> Linpu</a>
-,     <a href="../../../author/liu_jianzhong"><b>Liu</b> Jianzhong</a>
-,     <a href="../../../author/han_fangyu"><b>Han</b> Fangyu</a>
-,     <a href="../../../author/sha_jianfang"><b>Sha</b> Jianfang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#property`](keyword/property)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Thixotropic%20Properties%20of%20Fresh%20Cement%E2%80%90Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170652712&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386689344" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.202300220" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.202300220?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Accurate evaluation of the thixotropy of mixtures is crucial for the design and production of self-compacting concrete, pumped concrete, and 3D printed concrete. However, there is no uniform standard for the assessment of the thixotropy of fresh cement-based materials. In this paper, four widely used test procedures (thixotropic index, static yield stress growth curve, thixotropic hysteresis loop area, and three-stage curve) are compared to determine the relationships between them. The results show that the test procedures based on the break-down (destruction) process (thixotropic index, thixotropic hysteresis loop area, and degree of breakdown) are difficult to distinguish between reversible and irreversible thixotropic structures and to accurately assess the thixotropy of mixtures. The short-term structural build-up rate Rthix is more suitable for characterizing the thixotropic properties. The three-stage curve can characterize both the degree of structural damage and the reconstruction ability of the paste, nano-attapulgite clay can significantly improve the structural recovery degree of the mixture at the early hydration stage. This study will provide guidance and a theoretical framework for choosing the thixotropic characterization method of cement-based materials in practical engineering applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -86,8 +61,36 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ji_pan_liu_zhao.2023.CoTPoFCBM,
+      author            = "Xuping Ji and Tinghong Pan and Xingyao Liu and Wenhao Zhao and Linpu Du and Jianzhong Liu and Fangyu Han and Jianfang Sha",
+      title             = "Characterization of Thixotropic Properties of Fresh Cement‐Based Materials",
+      doi               = "10.1002/suco.202300220",
+      year              = "2023",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Ji, “Characterization of Thixotropic Properties of Fresh Cement‐Based Materials”, <i>Structural Concrete</i>, 2023, doi: 10.1002/suco.202300220.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ji, Xuping, Tinghong Pan, Xingyao Liu, Wenhao Zhao, Linpu Du, Jianzhong Liu, Fangyu Han, and Jianfang Sha. “Characterization of Thixotropic Properties of Fresh Cement‐Based Materials”. <i>Structural Concrete</i>, 2023. https://doi.org/10.1002/suco.202300220.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jie Yang, Ke Xu, Haijie He
+    - footer
+title: Yang Jie, Xu Ke, He Haijie
 description:
 tags:
  - application
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Materials, Performance Studies, and Application Progress of Fiber-Reinforced 3D-Printed Concrete ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1520/jte20240057" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1520/jte20240057</a>
+#Materials, Performance Studies, and Application Progress of Fiber-Reinforced 3D-Printed Concrete ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/jte20240057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/jte20240057" target="_blank">10.1520/jte20240057</a>
 
--------------------------
+<a href="../../../author/yang_jie"><b>Yang</b>&nbsp;Jie</a></span>, <a href="../../../author/xu_ke"><b>Xu</b>&nbsp;Ke</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-1615-4705" title="ORCID: 0009-0008-1615-4705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_haijie"><b>He</b>&nbsp;Haijie</a></span><br>
+Journal Article - Journal of Testing and Evaluation, Vol. 53, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_jie"><b>Yang</b> Jie</a>
-,     <a href="../../../author/xu_ke"><b>Xu</b> Ke</a>
-,     <a href="../../../author/he_haijie"><b>He</b> Haijie</a> <a href="https://orcid.org/0009-0008-1615-4705" title="ORCID: 0009-0008-1615-4705" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Testing and Evaluation, Vol. 53, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Materials%2C%20Performance%20Studies%2C%20and%20Application%20Progress%20of%20Fiber-Reinforced%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003895710&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,19 +38,45 @@ tags:
 <a href="https://inciteful.xyz/p/W4408365169" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1520/jte20240057" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1520/jte20240057?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article provides an overview of the latest developments in material selection, performance characteristics, and engineering applications of fiber-reinforced three-dimensional–printed concrete (FR3DPC). As an emerging additive manufacturing technology, FR3DPC effectively addresses the issues of cracking and fragility in traditional concrete by incorporating fibers into 3D-printed concrete. The article initially focuses on analyzing commonly used fiber materials such as steel, glass, carbon, polypropylene, and basalt fibers. These fibers are widely applied to enhance the mechanical properties and crack resistance of concrete because of their light weight, high strength, corrosion resistance, and durability. Subsequently, the key indicators of FR3DPC, including printability, mechanical performance, and durability, are discussed in detail, along with the impact of different fiber materials and process parameters on its performance. Research indicates that optimizing fiber content and concrete mix proportions can significantly improve the overall performance of FR3DPC. In terms of engineering applications, FR3DPC has achieved remarkable results in areas such as construction, road transportation, and infrastructure. Finally, the article highlights the challenges in standardization, optimization of printing processes, and integration with advanced technologies like artificial intelligence. Future research should focus on enhancing manufacturing efficiency, cost-effectiveness, and durability to further expand the application and development of FR3DPC technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_xu_he.2025.MPSaAPoFR3PC,
+      author            = "Jie Yang and Ke Xu and Haijie He",
+      title             = "Materials, Performance Studies, and Application Progress of Fiber-Reinforced 3D-Printed Concrete",
+      doi               = "10.1520/jte20240057",
+      year              = "2025",
+      journal           = "Journal of Testing and Evaluation",
+      volume            = "53",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Yang, K. Xu and H. He, “Materials, Performance Studies, and Application Progress of Fiber-Reinforced 3D-Printed Concrete”, <i>Journal of Testing and Evaluation</i>, vol. 53, no. 4, 2025, doi: 10.1520/jte20240057.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Jie, Ke Xu, and Haijie He. “Materials, Performance Studies, and Application Progress of Fiber-Reinforced 3D-Printed Concrete”. <i>Journal of Testing and Evaluation</i> 53, no. 4 (2025). https://doi.org/10.1520/jte20240057.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

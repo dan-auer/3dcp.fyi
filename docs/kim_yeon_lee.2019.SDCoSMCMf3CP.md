@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kwan Kim, Jaeheum Yeon, Hee Lee
+    - footer
+title: Kim Kwan, Yeon Jaeheum, Lee Hee
 description:
 tags:
  - cement
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/11/15/4164/pdf?version=1565166610) Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing ([2019-08](date/2019/08))
-<a href="https://doi.org/10.3390/su11154164" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su11154164</a>
+#Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing ([2019-08](date/2019/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/11/15/4164/pdf?version=1565166610) <a href="https://doi.org/10.3390/su11154164" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su11154164" target="_blank">10.3390/su11154164</a>
 
--------------------------
+<a href="../../../author/kim_kyu_kwan"><b>Kim</b>&nbsp;Kwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yeon_jaeheum"><b>Yeon</b>&nbsp;Jaeheum</a></span>, <a href="../../../author/lee_jun_hee"><b>Lee</b>&nbsp;Hee</a></span><br>
+Journal Article - Sustainability, Vol. 11, Iss. 15, No. 4164
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>
-,     <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a> <a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 11, Iss. 15, No. 4164
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#mixture`](keyword/mixture)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strength%20Development%20Characteristics%20of%20SBR-Modified%20Cementitious%20Mixtures%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070403950&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2966761917" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su11154164" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su11154164?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The properties of normal cementitious mixtures currently employed to the construction projects cannot be used to the three-dimensional concrete printing technology. This study experimentally investigated the compressive and flexural strength development of styrene-butadiene rubber (SBR)-modified cementitious mixtures for use as basic three-dimensional concrete printing (3DCP) materials. The SBR/cement ratio was a variable of the mix proportion used to produce cast and printed specimens. Experiments were conducted using these specimens to determine the compressive and flexural strength levels of the SBR-modified cementitious mixtures. The results indicated that the compressive strengths of the SBR-modified cementitious mixtures proposed in this study were never less than those of existing 3D concrete printing materials previously introduced for 3DCP applications. It was confirmed that the addition of SBR latex effectively improved the strength of the cementitious mixtures because the relative compressive and flexural strengths increased with increases in the SBR/cement ratio. Moreover, the higher early (i.e., 1-day) strength indicates that the SBR-modified cementitious mixtures would be advantageous to the 3DCP process. However, the compressive and flexural strengths of the printed specimens were weaker than those of the cast specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../bent_jone_bent_pelt.2019.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -83,11 +62,42 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../weng_li_tan_qian.2019.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/kaya_yahya"><b>Kaya</b> Yahya</a>, <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET/">Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures</a></li>
       <li><a href="../../../author/cai_jianguo"><b>Cai</b> Jianguo</a>, <a href="../../../author/wang_jingsong"><b>Wang</b> Jingsong</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a>, <a href="../../../author/du_caixia"><b>Du</b> Caixia</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cai_wang_zhan_du.2024.SotAoMPo3PC/">State of the Art of Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a>, <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../razz_cerr_pan_kora.2023.NaPAfHP3PC/">Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kim_yeon_lee.2019.SDCoSMCMf3CP,
+      author            = "Kwan Kyu Kim and Jaeheum Yeon and Hee Jun Lee",
+      title             = "Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing",
+      doi               = "10.3390/su11154164",
+      year              = "2019",
+      journal           = "Sustainability",
+      volume            = "11",
+      number            = "15",
+      pages             = "4164",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. K. Kim, J. Yeon and H. J. Lee, “Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing”, <i>Sustainability</i>, vol. 11, no. 15, p. 4164, 2019, doi: 10.3390/su11154164.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kim, Kwan Kyu, Jaeheum Yeon, and Hee Jun Lee. “Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing”. <i>Sustainability</i> 11, no. 15 (2019): 4164. https://doi.org/10.3390/su11154164.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

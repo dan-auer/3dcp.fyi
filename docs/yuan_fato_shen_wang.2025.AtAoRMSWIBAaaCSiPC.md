@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yong Yuan, Imoleayo Fatoyinbo, Ruiyi Sheng, Qiling Wang, Syed Mudassir Zia, Pengyu Cui, Jiao-Long Zhang
+    - footer
+title: Yuan Yong, Fatoyinbo Imoleayo, Sheng Ruiyi, Wang Qiling, Mudassir Zia Syed, Cui Pengyu, Zhang Jiao-Long
 description:
 tags:
  - advance
@@ -21,40 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete:<br/>:aca-blank: Emphasis on Rheological and Microstructural Properties ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.jobe.2025.112133" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112133</a>
+#Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">Emphasis on Rheological and Microstructural Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112133" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112133" target="_blank">10.1016/j.jobe.2025.112133</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2342-9163" title="ORCID: 0000-0002-2342-9163" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b>&nbsp;Imoleayo</a></span>, <a href="../../../author/sheng_ruiyi"><b>Sheng</b>&nbsp;Ruiyi</a></span>, <a href="../../../author/wang_qiling"><b>Wang</b>&nbsp;Qiling</a></span>, <a href="../../../author/mudassir-zia_muhammad_syed"><b>Mudassir Zia</b>&nbsp;Syed</a></span>, <a href="../../../author/cui_pengyu"><b>Cui</b>&nbsp;Pengyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1912-1414" title="ORCID: 0000-0002-1912-1414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_jiao-long"><b>Zhang</b>&nbsp;Jiao-Long</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a> <a href="https://orcid.org/0000-0002-2342-9163" title="ORCID: 0000-0002-2342-9163" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sheng_ruiyi"><b>Sheng</b> Ruiyi</a>
-,     <a href="../../../author/wang_qiling"><b>Wang</b> Qiling</a>
-,     <a href="../../../author/mudassir-zia_muhammad_syed"><b>Mudassir Zia</b> Syed</a>
-,     <a href="../../../author/cui_pengyu"><b>Cui</b> Pengyu</a>
-,     <a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> <a href="https://orcid.org/0000-0002-1912-1414" title="ORCID: 0000-0002-1912-1414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112133
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#application`](keyword/application)
-    [`#ash`](keyword/ash)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#emphasis`](keyword/emphasis)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-    [`#solid`](keyword/solid)
-    [`#substitution`](keyword/substitution)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/emphasis"><button class="btn">#emphasis</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/substitution"><button class="btn">#substitution</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%20the%20Applicability%20of%20Recycled%20Municipal%20Solid%20Waste%20Incineration%20Bottom%20Ash%20as%20a%20Cement%20Substitute%20in%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218423139&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407763358" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112133" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112133?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The sustainability of 3D concrete printing (3DCP) is often compromised by the high cement content required to meet printability standards. This study investigates using recycled municipal solid waste incineration (MSWI) bottom ash as a partial cement substitute to develop concrete with the required rheological and hardening properties for 3DCP, thereby addressing this challenge. The effects of incorporating 10%, 20%, and 30% MSWI bottom ash on the fresh and hardened properties were examined. The shear stress, yield stresses, structuration rate, flowability, setting time, and open time were evaluated in the fresh state. At the hardened state, microstructural evolution and mechanical strengths were analyzed at various curing ages. The findings reveal that 10% and 20% MSWI bottom ash integration results in a denser microstructure, with the formation of hydration products filling the pores, compared to mixes without MSWI bottom ash. The static yield stress within the first 60 mins for R-0, R-10, R-20, and R-30 were 739.5 Pa, 2062 Pa, 1177.2 Pa, and 1036.5 Pa, respectively. Similarly, the dynamic yield stress values within the same resting time and replacement levels were 287.0 Pa, 311.2 Pa, 223.53 Pa, and 178.9 Pa, respectively. The structuration rates for R-0, R-10, R-20, and R-30 were 2.9 Pa/min, 6.6 Pa/min, 7.3 Pa/min, and 4.1 Pa/min, respectively. These results indicate that recycled MSWI bottom ash enhances static and dynamic yield stresses and structuration rates, with the optimal rheological performance observed at a 10% replacement level. The rheological evolution indicates a significant impact of time and MSWI bottom ash content on static yield stress. Notably, the material exhibits considerable strength gains between 45 and 60 mins after mixing. Concrete with 10% MSWI bottom ash shows a 12% increase in compressive strength at 1 day, with no significant changes at 28 and 90 days. These findings suggest MSWI bottom ash is a promising, sustainable alternative for reducing cement content in 3D concrete printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
@@ -101,13 +72,40 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_moha_rahu_schu.2023.DoaCSPCBSfTP3CP/">Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC/">Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
-      <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/sheng_ruiyi"><b>Sheng</b> Ruiyi</a>, <a href="../../../author/wang_qiling"><b>Wang</b> Qiling</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC/">Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete:<br/>Emphasis on Rheological and Microstructural Properties</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
-      <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/sheng_ruiyi"><b>Sheng</b> Ruiyi</a>, <a href="../../../author/wang_qiling"><b>Wang</b> Qiling</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC/">Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete:<br/>Emphasis on Rheological and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC,
+      author            = "Yong Yuan and Imoleayo Oluwatoyin Fatoyinbo and Ruiyi Sheng and Qiling Wang and Syed Muhammad Mudassir Zia and Pengyu Cui and Jiao-Long Zhang",
+      title             = "Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete: Emphasis on Rheological and Microstructural Properties",
+      doi               = "10.1016/j.jobe.2025.112133",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yuan, “Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete: Emphasis on Rheological and Microstructural Properties”, <i>Journal of Building Engineering</i>, p. 112133, 2025, doi: 10.1016/j.jobe.2025.112133.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Yong, Imoleayo Oluwatoyin Fatoyinbo, Ruiyi Sheng, Qiling Wang, Syed Muhammad Mudassir Zia, Pengyu Cui, and Jiao-Long Zhang. “Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete: Emphasis on Rheological and Microstructural Properties”. <i>Journal of Building Engineering</i>, 2025, 112133. https://doi.org/10.1016/j.jobe.2025.112133.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

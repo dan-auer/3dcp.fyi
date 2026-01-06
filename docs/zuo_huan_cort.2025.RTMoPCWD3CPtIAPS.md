@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zibo Zuo, Yulin Huang, Wouter Corte
+    - footer
+title: Zuo Zibo, Huang Yulin, Corte Wouter
 description:
 tags:
  - assessment
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>:aca-blank: Indicators and Experiments ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142408" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142408</a>
+#Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Indicators and Experiments</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142408" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142408" target="_blank">10.1016/j.conbuildmat.2025.142408</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <a href="../../../author/huang_yulin"><b>Huang</b>&nbsp;Yulin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 489, No. 142408
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> <a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 489, No. 142408
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#indicator`](keyword/indicator)
-    [`#inverse`](keyword/inverse)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#real`](keyword/real)
-    [`#stability`](keyword/stability)
-    [`#time`](keyword/time)
-    [`#weight`](keyword/weight)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/indicator"><button class="btn">#indicator</button></a> <a href="../../keyword/inverse"><button class="btn">#inverse</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/weight"><button class="btn">#weight</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Monitoring%20of%20Printed%20Concrete%20Weight%20During%203D%20Concrete%20Printing%20to%20Inversely%20Assess%20Process%20Stability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008920512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411679162" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142408" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142408?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Process stability (PS), for 3D concrete printing (3DCP), refers to a comprehensive performance of materials, printing process and quality, which determines whether 3DCP can move from small-scale pilots to large-scale batch applications. However, quantitatively assessing PS is very challenging. Here, we propose a method to obtain the weight of printed concrete during dynamic printing using a real-time weight monitoring system (RWMS) and inversely assess PS. Systematic PS indicators and computational models are introduced, and these indicators include mass variation, mass print speed, print time gap, print density, print speed, and extrusion speed. Additionally, several tests of 3D printed standard concrete elements are conducted. The results show that the proposed method can quickly and quantitatively characterise PS. The stabilities of 3D printing (S3DPs) for the mass print speed and final mass variation at each step are 96 %. In addition, the changing patterns of print time gap, print density, print speed and extrusion speed in the printing process are revealed. The corresponding S3DPs for the indicators at each test range from 97 % to 98 %. The research aims to provide a method for assessing the comprehensive performance of printing to drive large-scale adoption of 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bani_voso_arce_noor.2024.ASMo3PSvES/">Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -111,7 +87,37 @@ tags:
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_l_y"><b>Huang</b> Y.</a>, <a href="../../../author/zhang_l_l"><b>Zhang</b> L.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zuo_cort_huan_zhan.2023.MotDoFSfC3P/">Measurement of the Density of Formed Structures for Concrete 3D Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zuo_huan_cort.2025.RTMoPCWD3CPtIAPS,
+      author            = "Zibo Zuo and Yulin Huang and Wouter de Corte",
+      title             = "Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability: Indicators and Experiments",
+      doi               = "10.1016/j.conbuildmat.2025.142408",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "489",
+      pages             = "142408",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zuo, Y. Huang and W. de Corte, “Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability: Indicators and Experiments”, <i>Construction and Building Materials</i>, vol. 489, p. 142408, 2025, doi: 10.1016/j.conbuildmat.2025.142408.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zuo, Zibo, Yulin Huang, and Wouter de Corte. “Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability: Indicators and Experiments”. <i>Construction and Building Materials</i> 489 (2025): 142408. https://doi.org/10.1016/j.conbuildmat.2025.142408.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jiayue Ma, Don Samarasinghe, James Rotimi, Kelvin Zou
+    - footer
+title: Ma Jiayue, Samarasinghe Don, Rotimi James, Zou Kelvin
 description:
 tags:
  - concrete
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1940&context=cib-conferences) A Review of Supply Chain Dynamics of 3D Concrete Printing Construction Practice ([2025-06](date/2025/06))
-<a href="https://doi.org/10.7771/3067-4883.1940" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.7771/3067-4883.1940</a>
+#A Review of Supply Chain Dynamics of 3D Concrete Printing Construction Practice ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1940&context=cib-conferences) <a href="https://doi.org/10.7771/3067-4883.1940" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7771/3067-4883.1940" target="_blank">10.7771/3067-4883.1940</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-7796-6100" title="ORCID: 0009-0000-7796-6100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_jiayue"><b>Ma</b>&nbsp;Jiayue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-4976-747X" title="ORCID: 0009-0004-4976-747X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_kelvin"><b>Zou</b>&nbsp;Kelvin</a></span><br>
+Journal Article - CIB Conferences, Vol. 1, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ma_jiayue"><b>Ma</b> Jiayue</a> <a href="https://orcid.org/0009-0000-7796-6100" title="ORCID: 0009-0000-7796-6100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> <a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a> <a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_kelvin"><b>Zou</b> Kelvin</a> <a href="https://orcid.org/0009-0004-4976-747X" title="ORCID: 0009-0004-4976-747X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - CIB Conferences, Vol. 1, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#dynamic`](keyword/dynamic)
-    [`#practice`](keyword/practice)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#supply`](keyword/supply)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/supply"><button class="btn">#supply</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Supply%20Chain%20Dynamics%20of%203D%20Concrete%20Printing%20Construction%20Practice" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411472904" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.7771/3067-4883.1940" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.7771/3067-4883.1940?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing has gained increasing interest as a revolutionary digital technology in the construction industry. This technology has been supported as an effective tool for improving construction efficiency. Through a previous systematic review study, we comprehensively analysed the benefits and challenges of 3D printing technology implementation in the construction industry. This paper will follow the findings of the review study, investigating supply chain management strategies and challenges in 3D concrete printing projects in conjunction with a questionnaire pilot study. This paper is part of an ongoing research programme focusing on the decision-making mechanism of construction supply chain management in 3D printing. The purpose of this study is to identify key challenges in 3D concrete printing and supply chain. This paper adopted data from a literature review and a questionnaire survey pilot study to investigate the challenges of 3D concrete printing implementation and its supply chain management in practical construction projects. A questionnaire survey was conducted with participants who have significant experience in the construction sector. The result of the Five-Point Likert scale questionnaire was statistically analysed and interpreted. As a result, the critical challenges of 3D concrete printing projects have been defined. The findings show that high initial investment, technology awareness, regulation support as well as workforce training significantly affect 3D printing implementation in the construction sector. The study result provides the research programme with practical data in 3D concrete printing practice. The findings of this paper support a follow-up study in discussing the decision-making of the 3D concrete printing supply chain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/tan_qing_bing"><b>Tan</b> Bing</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/spicek_nikola"><b>Spicek</b> Nikola</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../besk_tan_zhon_spic.2023.LCAf3PCPUaMSNBA/">Logistic-Cost-Analysis for 3D Printing Construction Projects Using a Multi-Stage Network-Based Approach</a></li>
@@ -82,7 +61,37 @@ tags:
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../teix_scha_rang_maia.2022.ARMtFi3PaNDPfC/">A Road Map to Find in 3D Printing a New Design Plasticity for Construction:<br/>The State of Art</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ma_sama_roti_zou.2025.ARoSCDo3CPCP,
+      author            = "Jiayue Ma and Don Amila Sajeevan Samarasinghe and James Olabode Bamidele Rotimi and Kelvin Zou",
+      title             = "A Review of Supply Chain Dynamics of 3D Concrete Printing Construction Practice",
+      doi               = "10.7771/3067-4883.1940",
+      year              = "2025",
+      journal           = "CIB Conferences",
+      volume            = "1",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ma, D. A. S. Samarasinghe, J. O. B. Rotimi and K. Zou, “A Review of Supply Chain Dynamics of 3D Concrete Printing Construction Practice”, <i>CIB Conferences</i>, vol. 1, no. 1, 2025, doi: 10.7771/3067-4883.1940.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ma, Jiayue, Don Amila Sajeevan Samarasinghe, James Olabode Bamidele Rotimi, and Kelvin Zou. “A Review of Supply Chain Dynamics of 3D Concrete Printing Construction Practice”. <i>CIB Conferences</i> 1, no. 1 (2025). https://doi.org/10.7771/3067-4883.1940.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

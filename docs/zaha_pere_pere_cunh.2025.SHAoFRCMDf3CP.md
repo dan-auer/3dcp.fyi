@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behzad Zahabizadeh, João Pereira, Eduardo Pereira, Vítor Cunha
+    - footer
+title: Zahabizadeh Behzad, Pereira João, Pereira Eduardo, Cunha Vítor
 description:
 tags:
  - assessment
@@ -20,36 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2025.106113) Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing:<br/>:aca-blank: Recovery of Mechanical Performance and Self-Sealing Capability ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106113" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106113</a>
+#Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Recovery of Mechanical Performance and Self-Sealing Capability</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2025.106113) <a href="https://doi.org/10.1016/j.cemconcomp.2025.106113" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106113" target="_blank">10.1016/j.cemconcomp.2025.106113</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b>&nbsp;Behzad</a></span>, <a href="../../../author/pereira_joao"><b>Pereira</b>&nbsp;João</a></span>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b>&nbsp;Eduardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b>&nbsp;Vítor</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106113
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a> <a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>
-,     <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a>
-,     <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106113
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#capability`](keyword/capability)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#seal`](keyword/seal)
-    [`#self`](keyword/self)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/capability"><button class="btn">#capability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/seal"><button class="btn">#seal</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Self-Healing%20Assessment%20of%20Fiber%20Reinforced%20Cementitious%20Mortars%20Developed%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006805900&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410218158" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106113" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106113?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the self-healing capability of two fibre reinforced cementitious mortars, with and without crystalline admixture, which were specifically developed for 3D concrete printing. Four-point bending tests were carried out to assess the recovery of mechanical properties, focusing on resistance and stiffness recovery indexes. Two residual crack opening displacements of 50 μm and 500 μm were imposed on the different series of the specimens to compare their influence on the self-healing capability. Crack self-sealing efficiency was investigated by capturing crack images using a digital microscope. In addition to the assessment of the self-healing efficiency over time, the relationship between mechanical recovery indexes and average crack widths, as well as the relationship between different recovery indexes were also studied. The results showed a higher recovery performance for mixtures with crystalline admixture in the case of stiffness recovery and self-sealing capabilities. Moreover, the results showed a decreased on the healing efficiency with the increase of the crack widths.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_se-jin"><b>Choi</b> Se-Jin</a>, <a href="../../../author/kim_ji-hwan"><b>Kim</b> Ji-Hwan</a>, <a href="../../../author/jeong_hyojin"><b>Jeong</b> Hyojin</a>, <a href="../../../author/lee_ja-sung"><b>Lee</b> Ja-Sung</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../choi_kim_jeon_lee.2021.SaEIotMPaSo3PCfSHCC/">Simulated and Experimental Investigation of the Mechanical Properties and Solubility of 3D Printed Capsules for Self-Healing Cement Composites</a></li>
       <li><a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a>, <a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../fern_jara_asen_guer.2023.NDTtEtSHCfa3PEM/">Non-Destructive Tests to Evaluate the Self-Healing Capacity for a 3D Printing ECC Material</a></li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
@@ -93,7 +68,36 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zaha_cunh_pere_gonc.2019.DoCBMf3PTWE/">Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zaha_pere_pere_cunh.2025.SHAoFRCMDf3CP,
+      author            = "Behzad Zahabizadeh and João Pereira and Eduardo N. B. Pereira and Vítor M. C. F. Cunha",
+      title             = "Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing: Recovery of Mechanical Performance and Self-Sealing Capability",
+      doi               = "10.1016/j.cemconcomp.2025.106113",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106113",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zahabizadeh, J. Pereira, E. N. B. Pereira and V. M. C. F. Cunha, “Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing: Recovery of Mechanical Performance and Self-Sealing Capability”, <i>Cement and Concrete Composites</i>, p. 106113, 2025, doi: 10.1016/j.cemconcomp.2025.106113.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zahabizadeh, Behzad, João Pereira, Eduardo N. B. Pereira, and Vítor M. C. F. Cunha. “Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing: Recovery of Mechanical Performance and Self-Sealing Capability”. <i>Cement and Concrete Composites</i>, 2025, 106113. https://doi.org/10.1016/j.cemconcomp.2025.106113.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

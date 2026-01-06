@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marwah Thajeel, Sándor Sólyom, György Balázs
+    - footer
+title: Thajeel Marwah, Sólyom Sándor, Balázs György
 description:
 tags:
  - compression
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.14382/epitoanyag-jsbcm.2024.4) Impact of Printing-Directions and Printing-Paths on the Compressive Strength of 3D Printed Concrete ([2024-05](date/2024/05))
-<a href="https://doi.org/10.14382/epitoanyag-jsbcm.2024.4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14382/epitoanyag-jsbcm.2024.4</a>
+#Impact of Printing-Directions and Printing-Paths on the Compressive Strength of 3D Printed Concrete ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.14382/epitoanyag-jsbcm.2024.4) <a href="https://doi.org/10.14382/epitoanyag-jsbcm.2024.4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14382/epitoanyag-jsbcm.2024.4" target="_blank">10.14382/epitoanyag-jsbcm.2024.4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-2378-6066" title="ORCID: 0009-0004-2378-6066" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b>&nbsp;Marwah</a></span>, <a href="../../../author/solyom_sandor"><b>Sólyom</b>&nbsp;Sándor</a></span>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b>&nbsp;György</a></span><br>
+Journal Article - Journal of Silicate Based and Composite Materials, Vol. 76, Iss. 1, pp. 31-38
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a> <a href="https://orcid.org/0009-0004-2378-6066" title="ORCID: 0009-0004-2378-6066" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/solyom_sandor"><b>Sólyom</b> Sándor</a>
-,     <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b> György</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Silicate Based and Composite Materials, Vol. 76, Iss. 1, pp. 31-38
-
-:aca-blank:{ .lg .middle}
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Printing-Directions%20and%20Printing-Paths%20on%20the%20Compressive%20Strength%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399245319" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14382/epitoanyag-jsbcm.2024.4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14382/epitoanyag-jsbcm.2024.4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing, also known as 3D CP, offers an advantage in creating intricate and unique shapes using a printer equipped with a pump, hose pipe and nozzle. The speed at which the printing process occurs is crucial for construction. It depends on factors such as the size and complexity of the printed element, the pump rate and the quality of the concrete used. To achieve precision during printing, it is essential to use high-performance construction materials. Unlike cast methods, 3D CP does not require support formwork. Thus, certain factors like the fresh properties of the material being used, the orientation in which it is printed and how long it is printed can significantly affect the capacity of the printed objects. The layering involved in printing concrete can introduce weaknesses in joints, which affect all mechanical characteristics of 3D printed elements. This study examines how the printing direction and printing paths influence the compressive strength of 3D printed specimens. Additionally, conventional mould cast specimens were tested for comparison purposes. The findings indicate that both the printing directions and paths impact the strength of these printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -83,9 +64,40 @@ tags:
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a>, <a href="../../../author/kopecsko_katalin"><b>Kopecskó</b> Katalin</a>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b> György</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../thaj_kope_bala.2025.EPo3PCbUMaSF/">Enhancing Printability of 3D Printed Concrete by Using Metakaolin and Silica Fume</a></li>
       <li><a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b> Marwah</a>, <a href="../../../author/gyorgy_balazs_l"><b>György</b> L.</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../thaj_gyor.2024.HPo3PCIbA/">Hardened Properties of 3D Printed Concrete Influenced by Anisotropy</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{thaj_soly_bala.2024.IoPDaPPotCSo3PC,
+      author            = "Marwah Manea Thajeel and Sándor Sólyom and György L. Balázs",
+      title             = "Impact of Printing-Directions and Printing-Paths on the Compressive Strength of 3D Printed Concrete",
+      doi               = "10.14382/epitoanyag-jsbcm.2024.4",
+      year              = "2024",
+      journal           = "Journal of Silicate Based and Composite Materials",
+      volume            = "76",
+      number            = "1",
+      pages             = "31--38",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. M. Thajeel, S. Sólyom and G. L. Balázs, “Impact of Printing-Directions and Printing-Paths on the Compressive Strength of 3D Printed Concrete”, <i>Journal of Silicate Based and Composite Materials</i>, vol. 76, no. 1, pp. 31–38, 2024, doi: 10.14382/epitoanyag-jsbcm.2024.4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Thajeel, Marwah Manea, Sándor Sólyom, and György L. Balázs. “Impact of Printing-Directions and Printing-Paths on the Compressive Strength of 3D Printed Concrete”. <i>Journal of Silicate Based and Composite Materials</i> 76, no. 1 (2024): 31–38. https://doi.org/10.14382/epitoanyag-jsbcm.2024.4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

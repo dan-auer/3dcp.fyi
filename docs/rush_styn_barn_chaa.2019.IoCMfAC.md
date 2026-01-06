@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Todd Rushing, Peter Stynoski, Lynette Barna, Ghassan Chaar, Jedadiah Burroughs, Jameson Shannon, Megan Kreiger, Michael Case
+    - footer
+title: Rushing Todd, Stynoski Peter, Barna Lynette, Chaar Ghassan, Burroughs Jedadiah, Shannon Jameson, Kreiger Megan, Case Michael
 description:
 tags:
  - additive
@@ -13,33 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation of Concrete Mixtures for Additive Construction ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/b978-0-12-815481-6.00007-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-12-815481-6.00007-5</a>
+#Investigation of Concrete Mixtures for Additive Construction ([2019-02](date/2019/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00007-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00007-5" target="_blank">10.1016/b978-0-12-815481-6.00007-5</a>
 
--------------------------
+<a href="../../../author/rushing_s_todd"><b>Rushing</b>&nbsp;Todd</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stynoski_b_peter"><b>Stynoski</b>&nbsp;Peter</a></span>, <a href="../../../author/barna_a_lynette"><b>Barna</b>&nbsp;Lynette</a></span>, <a href="../../../author/chaar_k_ghassan"><b>al&nbsp;Chaar</b>&nbsp;Ghassan</a></span>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b>&nbsp;Jedadiah</a></span>, <a href="../../../author/shannon_d_jameson"><b>Shannon</b>&nbsp;Jameson</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span>, <a href="../../../author/case_p_michael"><b>Case</b>&nbsp;Michael</a></span><br>
+Contribution - 3D Concrete Printing Technology, pp. 137-160
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>
-,     <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> <a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/barna_a_lynette"><b>Barna</b> Lynette</a>
-,     <a href="../../../author/chaar_k_ghassan"><b>al Chaar</b> Ghassan</a>
-,     <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a>
-,     <a href="../../../author/shannon_d_jameson"><b>Shannon</b> Jameson</a>
-,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/case_p_michael"><b>Case</b> Michael</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing Technology, pp. 137-160
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#investigation`](keyword/investigation)
-    [`#mixture`](keyword/mixture)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Concrete%20Mixtures%20for%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068874482&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4256532053" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-12-815481-6.00007-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-12-815481-6.00007-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The US Army Engineer Research and Development Center conducted a three-year, applied research program entitled Automated Construction of Expeditionary Structures to develop an adaptable capability to “print” custom-designed expeditionary structures on demand in the field using locally available materials with the minimum number of personnel. This work investigated large-scale, automated “additive construction” (i.e., 3D printing with concrete) for construction applications. The primary focus of this chapter is the phased development and demonstration of a printable concrete mixture using conventional materials and natural aggregates, including 9.5 mm coarse aggregate. A qualitative screening test was proposed in which concrete mixtures were forced through a modified clay extruder and evaluated on performance and potential to be suitable for nozzle extrusion in 3D printing with concrete. Standard methods were used to evaluate fresh and hardened properties of concrete mixtures including flow, time of setting, compressive and flexural strengths, and shrinkage, among others. Conventional concrete mixtures, typically with a high percentage of coarse aggregate, were found to be unsuitable for additive construction applications; however, reducing the amount of coarse aggregate provided concrete mixtures that were promising for additive construction while still utilizing materials that are generally available worldwide. The principle outcome of the program was successful printing of a structurally sound, 48 m2, full-scale building. Although this chapter only provides details on the materials study, the program consisted of many significant task groups, including concrete printer design and fabrication, development of system, construction, and performance requirements, energy and modeling, materials and testing, and architectural and structural analysis. A brief summary of the overall outcomes is presented here, while details of the total program are documented elsewhere.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/spielberg_a_nathan"><b>Spielberg</b> Nathan</a>, <a href="../../../author/klein_john"><b>Klein</b> John</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2014/05">(2014-05)</a><br><a href="../../../keat_spie_klei_oxma.2014.ACAAtDC/">A Compound Arm Approach to Digital Construction:<br/>A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -72,8 +49,9 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "46 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
@@ -120,4 +98,34 @@ tags:
       <li><a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../kim_yeon_lee.2019.SDCoSMCMf3CP/">Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{rush_styn_barn_chaa.2019.IoCMfAC,
+      author            = "Todd S. Rushing and Peter B. Stynoski and Lynette A. Barna and Ghassan K. Al Chaar and Jedadiah F. Burroughs and Jameson D. Shannon and Megan A. Kreiger and Michael P. Case",
+      title             = "Investigation of Concrete Mixtures for Additive Construction",
+      doi               = "10.1016/b978-0-12-815481-6.00007-5",
+      year              = "2019",
+      pages             = "137--160",
+      booktitle         = "3D Concrete Printing Technology: Construction and Building Applications",
+      editor            = "Jay Gnananandan Sanjayan and Ali Nazari and Behzad Nematollahi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. S. Rushing, “Investigation of Concrete Mixtures for Additive Construction”, in <i>3D Concrete Printing Technology: Construction and Building Applications</i>,  2019, pp. 137–160. doi: 10.1016/b978-0-12-815481-6.00007-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rushing, Todd S., Peter B. Stynoski, Lynette A. Barna, Ghassan K. Al Chaar, Jedadiah F. Burroughs, Jameson D. Shannon, Megan A. Kreiger, and Michael P. Case. “Investigation of Concrete Mixtures for Additive Construction”. In <i>3D Concrete Printing Technology: Construction and Building Applications</i>, edited by Jay Gnananandan Sanjayan, Ali Nazari, and Behzad Nematollahi, 137–60, 2019. https://doi.org/10.1016/b978-0-12-815481-6.00007-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Konrad Graser, Alexander Walzer, Jens Hunhevicz, René Jähne, Fabian Seiler, Roman Wüst, Daniel Hall
+    - footer
+title: Graser Konrad, Walzer Alexander, Hunhevicz Jens, Jähne René, Seiler Fabian, Wüst Roman, Hall Daniel
 description:
 tags:
  - concept
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2023.104964) Qualitative Technology Evaluation of Digital Fabrication with Concrete:<br/>:aca-blank: Conceptual Framework and Scoreboard ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.autcon.2023.104964" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.104964</a>
+#Qualitative Technology Evaluation of Digital Fabrication with Concrete&nbsp;([2023-06](date/2023/06))
+<div class="h1-like">Conceptual Framework and Scoreboard</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2023.104964) <a href="https://doi.org/10.1016/j.autcon.2023.104964" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104964" target="_blank">10.1016/j.autcon.2023.104964</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graser_konrad"><b>Graser</b>&nbsp;Konrad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3946-7954" title="ORCID: 0000-0003-3946-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1296-2384" title="ORCID: 0000-0002-1296-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b>&nbsp;Jens</a></span>, <a href="../../../author/jahne_rene"><b>Jähne</b>&nbsp;René</a></span>, <a href="../../../author/seiler_fabian"><b>Seiler</b>&nbsp;Fabian</a></span>, <a href="../../../author/wust_roman"><b>Wüst</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0957-484X" title="ORCID: 0000-0002-0957-484X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hall_m_daniel"><b>Hall</b>&nbsp;Daniel</a></span><br>
+Journal Article - Automation in Construction, Vol. 154, No. 104964
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a> <a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a> <a href="https://orcid.org/0000-0003-3946-7954" title="ORCID: 0000-0003-3946-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a> <a href="https://orcid.org/0000-0002-1296-2384" title="ORCID: 0000-0002-1296-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jahne_rene"><b>Jähne</b> René</a>
-,     <a href="../../../author/seiler_fabian"><b>Seiler</b> Fabian</a>
-,     <a href="../../../author/wust_roman"><b>Wüst</b> Roman</a>
-,     <a href="../../../author/hall_m_daniel"><b>Hall</b> Daniel</a> <a href="https://orcid.org/0000-0002-0957-484X" title="ORCID: 0000-0002-0957-484X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 154, No. 104964
-
-:aca-blank:{ .lg .middle}
-    [`#concept`](keyword/concept)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#evaluation`](keyword/evaluation)
-    [`#fabrication`](keyword/fabrication)
-    [`#framework`](keyword/framework)
-    [`#quality`](keyword/quality)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Qualitative%20Technology%20Evaluation%20of%20Digital%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162149643&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380764859" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.104964" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104964?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The adoption of digital fabrication with concrete (DFC) has the potential to bring sustainability, productivity, and process innovation to the construction industry. However, DFC adoption towards market-ready construction systems is lagging due to a lack of understanding in matching its technology capabilities with the needs of potential adopters. This paper describes a DFC Evaluation Framework, analyzing current advancements in DFC through a Conceptual Framework Analysis. The framework is focused on the inputs, process parameters and outcomes of a given technology solution independently of the enabling technology type. It can be used to classify and compare DFC technologies along their systemic characteristics, which are both technical and non-technical in nature. The DFC Scoreboard, an interactive tool to match DFC technologies with the needs of prospective adopters, is developed and tested based on the framework. The paper discusses how the DFC Evaluation Framework and Scoreboard offer one of the first systemic overviews of DFC adoption, with the capability to match technology capabilities and user needs in the technology adoption process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -98,7 +74,6 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../llor_scot_gram_kohl.2019.CoRSPwSDC/">Challenges of Real-Scale Production with Smart Dynamic Casting</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
-      <li><a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../luca.2024.F3t5P/">From 3D to 5D Printing:<br/>Additive Manufacturing of Functional Construction Materials</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../marc_sanj.2021.RMf3CPUPCBP/">Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations</a></li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../mata_bisc_kauf.2019.EtPoDFfSaECS/">Exploiting the Potential of Digital Fabrication for Sustainable and Economic Concrete Structures</a></li>
@@ -117,10 +92,40 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mararo_m_ian"><b>Mararo</b> Ian</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mara_baba_aigb.2025.TUtPo3CPiK/">Towards Understanding the Perceptions of 3D Construction Printing in Kenya</a></li>
       <li><a href="../../../author/hassan_amer"><b>Hassan</b> Amer</a>, <a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a>, <a href="../../../author/noaman_faisal_mohammed"><b>Noaman</b> Mohammed</a>, <a href="../../../author/zhang_chunwei"><b>Zhang</b> Chunwei</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hass_alom_noam_zhan.2025.3PCfSC/">3D Printed Concrete for Sustainable Construction:<br/>A Review of Mechanical Properties and Environmental Impact</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../vare_tino_mend_tole.2024.3PCBCRwSF/">3D Printable Cement-Based Composites Reinforced with Sisal-Fibers:<br/>Rheology, Printability and Hardened Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gras_walz_hunh_jahn.2023.QTEoDFwC,
+      author            = "Konrad Graser and Alexander Nikolas Walzer and Jens Juri Hunhevicz and René Jähne and Fabian Seiler and Roman Wüst and Daniel M. Hall",
+      title             = "Qualitative Technology Evaluation of Digital Fabrication with Concrete: Conceptual Framework and Scoreboard",
+      doi               = "10.1016/j.autcon.2023.104964",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "154",
+      pages             = "104964",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Graser, “Qualitative Technology Evaluation of Digital Fabrication with Concrete: Conceptual Framework and Scoreboard”, <i>Automation in Construction</i>, vol. 154, p. 104964, 2023, doi: 10.1016/j.autcon.2023.104964.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Graser, Konrad, Alexander Nikolas Walzer, Jens Juri Hunhevicz, René Jähne, Fabian Seiler, Roman Wüst, and Daniel M. Hall. “Qualitative Technology Evaluation of Digital Fabrication with Concrete: Conceptual Framework and Scoreboard”. <i>Automation in Construction</i> 154 (2023): 104964. https://doi.org/10.1016/j.autcon.2023.104964.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

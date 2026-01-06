@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mengtong Zou, Chuanbei Liu, Keying Zhang, Wuqian Li, Qing Cao, Lihua Zhang, Tao Gu, Gaoyin Zhang, Laibao Liu
+    - footer
+title: Zou Mengtong, Liu Chuanbei, Zhang Keying, Li Wuqian, Cao Qing, Zhang Lihua, Gu Tao, Zhang Gaoyin, Liu Laibao
 description:
 tags:
  - concrete
@@ -16,37 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.jobe.2023.107988" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107988</a>
+#Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107988" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107988" target="_blank">10.1016/j.jobe.2023.107988</a>
 
--------------------------
+<a href="../../../author/zou_mengtong"><b>Zou</b>&nbsp;Mengtong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3982-8409" title="ORCID: 0000-0002-3982-8409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chuanbei"><b>Liu</b>&nbsp;Chuanbei</a></span>, <a href="../../../author/zhang_keying"><b>Zhang</b>&nbsp;Keying</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-5014-2269" title="ORCID: 0009-0003-5014-2269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_wuqian"><b>Li</b>&nbsp;Wuqian</a></span>, <a href="../../../author/cao_qing"><b>Cao</b>&nbsp;Qing</a></span>, <a href="../../../author/zhang_lihua"><b>Zhang</b>&nbsp;Lihua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4801-6058" title="ORCID: 0000-0002-4801-6058" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gu_tao"><b>Gu</b>&nbsp;Tao</a></span>, <a href="../../../author/zhang_gaoyin"><b>Zhang</b>&nbsp;Gaoyin</a></span>, <a href="../../../author/liu_laibao"><b>Liu</b>&nbsp;Laibao</a></span><br>
+Journal Article - Journal of Building Engineering, No. 107988
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>
-,     <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a> <a href="https://orcid.org/0000-0002-3982-8409" title="ORCID: 0000-0002-3982-8409" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>
-,     <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> <a href="https://orcid.org/0009-0003-5014-2269" title="ORCID: 0009-0003-5014-2269" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cao_qing"><b>Cao</b> Qing</a>
-,     <a href="../../../author/zhang_lihua"><b>Zhang</b> Lihua</a>
-,     <a href="../../../author/gu_tao"><b>Gu</b> Tao</a> <a href="https://orcid.org/0000-0002-4801-6058" title="ORCID: 0000-0002-4801-6058" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_gaoyin"><b>Zhang</b> Gaoyin</a>
-,     <a href="../../../author/liu_laibao"><b>Liu</b> Laibao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 107988
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#evaluation`](keyword/evaluation)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#rubber`](keyword/rubber)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20and%20Control%20of%20Printability%20and%20Rheological%20Properties%20of%203D%20Printed%20Rubberized%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175334810&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388201853" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107988" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107988?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The preparation of 3D-printed rubberized concrete (3DPRC) is crucial for achieving effective resource utilization of waste tires and improved performance of 3D-printed concrete (3DPC). This study presents a systematic investigation into the effects and mechanisms of different rubber aggregate (RA) on 3DPC printability and rheological properties, employing printing and rheological testing. Upon RA incorporation, 3DPC exhibited reduced extrudability and improved buildability, with a more pronounced effect observed at higher dosages and finer particle sizes. Water absorption in the surface cracks of RA increased the concrete's static and dynamic yield stresses, resulting in decreased extrudability and improved buildability. Notably, the heat treatment resulted in the partial closure of cracks on the RA surface, thereby reducing its water absorption rate and achieving a substantial increase in its extrudability, while maintaining buildability without compromise. As determined by flowability and green strength testing of 3DPRC, the suitable flowability range was 159–182 mm and green strength was 8.05–19.14 kPa, which corresponded to the rheological properties (dynamic yield stress: 637.53–899.81 Pa; static yield stress: 1299.55–1935.50 Pa). Overall, this study provides an important theoretical basis and experimental reference for designing and preparing 3DPRC, as well as for evaluating its printability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -104,8 +77,9 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC/">Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
       <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a></li>
@@ -121,4 +95,33 @@ tags:
       <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../seo_lee.2024.IoCAoBaDoCfAM/">Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing</a></li>
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zou_liu_zhan_li.2023.EaCoPaRPo3PRC,
+      author            = "Mengtong Zou and Chuanbei Liu and Keying Zhang and Wuqian Li and Qing Cao and Lihua Zhang and Tao Gu and Gaoyin Zhang and Laibao Liu",
+      title             = "Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete",
+      doi               = "10.1016/j.jobe.2023.107988",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "107988",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Zou, “Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete”, <i>Journal of Building Engineering</i>, p. 107988, 2023, doi: 10.1016/j.jobe.2023.107988.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zou, Mengtong, Chuanbei Liu, Keying Zhang, Wuqian Li, Qing Cao, Lihua Zhang, Tao Gu, Gaoyin Zhang, and Laibao Liu. “Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete”. <i>Journal of Building Engineering</i>, 2023, 107988. https://doi.org/10.1016/j.jobe.2023.107988.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

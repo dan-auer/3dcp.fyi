@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ruiqing Liu, Hongjian Du
+    - footer
+title: Liu Ruiqing, Du Hongjian
 description:
 tags:
  - analysis
@@ -21,35 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimizing Thermal Insulation Through Geometric Design:<br/>:aca-blank: Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.enbuild.2025.116437" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.enbuild.2025.116437</a>
+#Optimizing Thermal Insulation Through Geometric Design&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.enbuild.2025.116437" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2025.116437" target="_blank">10.1016/j.enbuild.2025.116437</a>
 
--------------------------
+<a href="../../../author/liu_ruiqing"><b>Liu</b>&nbsp;Ruiqing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
+Journal Article - Energy and Buildings, No. 116437
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_ruiqing"><b>Liu</b> Ruiqing</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energy and Buildings, No. 116437
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#geometry`](keyword/geometry)
-    [`#insulation`](keyword/insulation)
-    [`#light`](keyword/light)
-    [`#normal`](keyword/normal)
-    [`#optimization`](keyword/optimization)
-    [`#pattern`](keyword/pattern)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/normal"><button class="btn">#normal</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Thermal%20Insulation%20Through%20Geometric%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018666568&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7081951818" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.enbuild.2025.116437" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.enbuild.2025.116437?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Thermal performance plays a crucial role in the energy efficiency of 3D-printed concrete (3DPC) buildings, yet it remains underexplored compared to structural considerations. Unlike traditional cast-in-place walls, 3DPC walls enable complex internal geometries that can enhance insulation while reducing material consumption. This study investigates the thermal insulation performance of 3DPC walls with different patterns using both normal mortar and lightweight mortar mixtures. Ten walls were analyzed in total, including five normal 3DPC walls and five lightweight 3DPC walls. Thermal transmittance (U-value) assessed resistive insulation, while time lag and decremental factor evaluated capacitive insulation. All 3DPC hollow walls exhibited lower U-values compared to the solid wall, with reductions ranging from 45.3 % to 73.6 %. Among them, the double-row triangular (2TRI) wall demonstrated the best overall thermal insulation. When combined with a lightweight mixture, it achieved the lowest U-value of 1.90 W/(m2·K), representing a 73.6 % reduction relative to the solid configuration. With normal mixture, it had the lowest decremental factor (0.741) and a time lag of 105 min. These findings confirm that air layer configurations in 3DPC walls can greatly improve thermal insulation. Lightweight mixture performs better for resistive insulation, while normal-density mixture is more efficient in capacitive insulation. This study provides valuable insights for enhancing energy efficiency in additive construction. The findings contribute to the development of sustainable building practices, supporting the integration of 3D printing technology into energy-efficient architectural design and future construction standards.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
@@ -86,7 +62,37 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a>, <a href="../../../author/wan_yujia"><b>Wan</b> Yujia</a>, <a href="../../../author/owyong_shawn"><b>Owyong</b> Shawn</a>, <a href="../../../author/connie-lim_en"><b>Connie Lim</b> En</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wan_owyo_conn.2026.TLCC/">Towards Low-Carbon Construction:<br/>Nature-Inspired Internal Patterns for Thermal Insulation in Lightweight Concrete Component Cast Using 3D-Printed Formwork</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_du.2025.OTITGD,
+      author            = "Ruiqing Liu and Hongjian Du",
+      title             = "Optimizing Thermal Insulation Through Geometric Design: Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns",
+      doi               = "10.1016/j.enbuild.2025.116437",
+      year              = "2025",
+      journal           = "Energy and Buildings",
+      pages             = "116437",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Liu  and H. Du, “Optimizing Thermal Insulation Through Geometric Design: Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns”, <i>Energy and Buildings</i>, p. 116437, 2025, doi: 10.1016/j.enbuild.2025.116437.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Ruiqing, and Hongjian Du. “Optimizing Thermal Insulation Through Geometric Design: Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns”. <i>Energy and Buildings</i>, 2025, 116437. https://doi.org/10.1016/j.enbuild.2025.116437.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

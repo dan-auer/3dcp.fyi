@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guillermo Ortega, Javier Madrid, Nils Olsson, José Tenorio Ríos
+    - footer
+title: Ortega Guillermo, Madrid Javier, Olsson Nils, Tenorio Ríos José
 description:
 tags:
  - application
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/10/9/144/pdf?version=1597841356) The Application of 3D Printing Techniques in the Manufacturing of Cement-Based Construction Products and Experiences Based on the Assessment of Such Products ([2020-08](date/2020/08))
-<a href="https://doi.org/10.3390/buildings10090144" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings10090144</a>
+#The Application of 3D Printing Techniques in the Manufacturing of Cement-Based Construction Products and Experiences Based on the Assessment of Such Products ([2020-08](date/2020/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/10/9/144/pdf?version=1597841356) <a href="https://doi.org/10.3390/buildings10090144" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings10090144" target="_blank">10.3390/buildings10090144</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2213-1699" title="ORCID: 0000-0002-2213-1699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b>&nbsp;Guillermo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/madrid_alonso_javier"><b>Madrid</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b>&nbsp;Nils</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0273-3414" title="ORCID: 0000-0002-0273-3414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b>&nbsp;José</a></span><br>
+Journal Article - Buildings, Vol. 10, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a> <a href="https://orcid.org/0000-0002-2213-1699" title="ORCID: 0000-0002-2213-1699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> <a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> <a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="https://orcid.org/0000-0002-0273-3414" title="ORCID: 0000-0002-0273-3414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 10, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#experience`](keyword/experience)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/experience"><button class="btn">#experience</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Application%20of%203D%20Printing%20Techniques%20in%20the%20Manufacturing%20of%20Cement-Based%20Construction%20Products%20and%20Experiences%20Based%20on%20the%20Assessment%20of%20Such%20Products" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85090390212&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3076741375" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings10090144" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings10090144?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry has embraced digitisation and industrialisation in response to the need to increase its productivity, optimise material consumption and improve workmanship. Additive manufacturing (AM), more widely known as 3D printing, has driven substantial progress in these respects in other industries, and a number of national and international projects have helped to introduce the technique to the construction industry. As with other innovative processes not covered by uniform standards, appropriate assessments and testing methodologies to control the quality of the 3D-printed end products, while not obligatory, are advisable. This article shows that regulation is not an obstacle to the use of an innovative product, such as 3D printing, by proposing quality-control tests and an assessment methodology, in the understanding that standardisation ensures the viability of a technology. The information, including the methods and results, is based on the authors’ experiences in the development of three research projects pertaining to 3D printing. This paper also discusses whether the performance of the materials used in 3D printing could be superior to traditional ones.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
@@ -77,8 +54,8 @@ tags:
       <li><a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/shafqat_ali"><b>Shafqat</b> Ali</a>, <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>, <a href="../../../author/okland_andreas"><b>Økland</b> Andreas</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../olss_shaf_aric_kla.2019.3PTiC/">3D Printing Technology in Construction:<br/>Results from a Survey</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_sama_roti_feng.2025.EGPIotAo3CPT/">Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology:<br/>A Roadmap for New Zealand</a></li>
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../madr_orte_olss_teno.2024.3C/">3D Constructing:<br/>Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation</a></li>
@@ -90,6 +67,35 @@ tags:
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../garc_moro_band.2021.AEo3PB/">Architectural Evaluation of 3D Printed Buildings</a></li>
       <li><a href="../../../author/li_chenshu"><b>Li</b> Chenshu</a>, <a href="../../../author/zhou_xiaoyan"><b>Zhou</b> Xiaoyan</a>, <a href="../../../author/liu_xingyu"><b>Liu</b> Xingyu</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../li_zhou_liu.2021.ItBDAVaAPoRLPC3PT/">Integrating the Bio-Digital Aesthetic Value and Architecture Potential of Rapid-Liquid-Printed-Concrete 3D Printing Technology</a></li>
-      <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../dey_srin_pand_sith.2023.PoCMf3CP/">Processing of Cementitious Materials for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{orte_madr_olss_teno.2020.TAo3PTitMoCBCPaEBotAoSP,
+      author            = "Guillermo Sotorrío Ortega and Javier Alonso Madrid and Nils Olof Emanuel Olsson and José Antonio Tenorio Ríos",
+      title             = "The Application of 3D Printing Techniques in the Manufacturing of Cement-Based Construction Products and Experiences Based on the Assessment of Such Products",
+      doi               = "10.3390/buildings10090144",
+      year              = "2020",
+      journal           = "Buildings",
+      volume            = "10",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. S. Ortega, J. A. Madrid, N. O. E. Olsson and J. A. T. Ríos, “The Application of 3D Printing Techniques in the Manufacturing of Cement-Based Construction Products and Experiences Based on the Assessment of Such Products”, <i>Buildings</i>, vol. 10, no. 9, 2020, doi: 10.3390/buildings10090144.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ortega, Guillermo Sotorrío, Javier Alonso Madrid, Nils Olof Emanuel Olsson, and José Antonio Tenorio Ríos. “The Application of 3D Printing Techniques in the Manufacturing of Cement-Based Construction Products and Experiences Based on the Assessment of Such Products”. <i>Buildings</i> 10, no. 9 (2020). https://doi.org/10.3390/buildings10090144.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

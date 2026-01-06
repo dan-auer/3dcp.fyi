@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Darssni Ravichandran, Prabhat Prem, Gollapalli Bhaskara, Srinivasan Maheswaran, Babitha Benjamin
+    - footer
+title: Ravichandran Darssni, Prem Prabhat, Bhaskara Gollapalli, Maheswaran Srinivasan, Benjamin Babitha
 description:
 tags:
  - aggregate
@@ -23,40 +24,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1007/s41062-025-02145-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41062-025-02145-0</a>
+#Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41062-025-02145-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-02145-0" target="_blank">10.1007/s41062-025-02145-0</a>
 
--------------------------
+<a href="../../../author/ravichandran_darssni"><b>Ravichandran</b>&nbsp;Darssni</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b>&nbsp;Gollapalli</a></span>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b>&nbsp;Srinivasan</a></span>, <a href="../../../author/benjamin_babitha"><b>Benjamin</b>&nbsp;Babitha</a></span><br>
+Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>
-,     <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>
-,     <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a>
-,     <a href="../../../author/benjamin_babitha"><b>Benjamin</b> Babitha</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#alteration`](keyword/alteration)
-    [`#concrete`](keyword/concrete)
-    [`#copper`](keyword/copper)
-    [`#dependency`](keyword/dependency)
-    [`#fiber`](keyword/fiber)
-    [`#fine`](keyword/fine)
-    [`#height`](keyword/height)
-    [`#incorporation`](keyword/incorporation)
-    [`#plain`](keyword/plain)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#slag`](keyword/slag)
-    [`#strength`](keyword/strength)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/alteration"><button class="btn">#alteration</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/plain"><button class="btn">#plain</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Properties%20of%203D%20Printable%20Plain%20and%20Fibered%20High%20Strength%20Concrete%20Incorporating%20Copper%20Slag%20as%20an%20Alternate%20Fine%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011978387&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412531982" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41062-025-02145-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41062-025-02145-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Numerous studies have investigated the application of copper slag in concrete mixes for traditional construction. However, there is a notable gap in comprehensive research on its potential for three-dimensional concrete printing. This research aims to address this gap by (i) developing concrete mixes using copper slag for 3D printing in the first phase. A total of 37 printing trials are conducted with varying water-to-binder ratios, aggregate-to-binder ratios, and steel fiber dosages to finalize the mix; (ii) in the second phase, a total of nine 3D printable mixes are finalized where the a) fine aggregate in the 3D printable control mix (silica sand) is replaced with copper slag at substitution levels of 0, 25, 50, 75, and 100% and b) steel fiber dosages with two different aspect ratios (29 and 48) and fiber dosages of 1% and 2% are incorporated to characterize fresh density, flowability, compressive and split strength; (iii) in the third phase the static yield stress, dynamic yield stress, and viscosity recovery of are measured at rest times of 10, 20, and 30 min using constant shear rate tests, flow curve tests, and three-interval thixotropy tests (iv) finally, energy consumption, CO2 emissions, cost analysis, and life cycle inventory analysis are evaluated. The findings demonstrate that copper slag exhibits superior buildability and printability properties compared to silica sand. The research shows that up to 100% of the fine aggregate in 3D-printable concrete mixtures can be effectively replaced with copper slag without compromising the material’s strength or printing performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../ding_xiao_zou_yu.2021.FPo3PFRCwRS/">Flexural Properties of 3D Printed Fiber-Reinforced Concrete with Recycled Sand</a></li>
@@ -112,7 +82,37 @@ tags:
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA,
+      author            = "Darssni Ravichandran and Prabhat Ranjan Prem and Gollapalli S. Vijaya Bhaskara and Srinivasan Maheswaran and Babitha Benjamin",
+      title             = "Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate",
+      doi               = "10.1007/s41062-025-02145-0",
+      year              = "2025",
+      journal           = "Innovative Infrastructure Solutions",
+      volume            = "10",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Ravichandran, P. R. Prem, G. S. V. Bhaskara, S. Maheswaran and B. Benjamin, “Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate”, <i>Innovative Infrastructure Solutions</i>, vol. 10, no. 8, 2025, doi: 10.1007/s41062-025-02145-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ravichandran, Darssni, Prabhat Ranjan Prem, Gollapalli S. Vijaya Bhaskara, Srinivasan Maheswaran, and Babitha Benjamin. “Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate”. <i>Innovative Infrastructure Solutions</i> 10, no. 8 (2025). https://doi.org/10.1007/s41062-025-02145-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

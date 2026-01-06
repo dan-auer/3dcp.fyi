@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harun Tanyildizi, Maksut Seloglu, Ahmet Coskun
+    - footer
+title: Tanyildizi Harun, Seloglu Maksut, Coskun Ahmet
 description:
 tags:
  - effect
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.jobe.2024.110431" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110431</a>
+#The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110431" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110431" target="_blank">10.1016/j.jobe.2024.110431</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7585-2609" title="ORCID: 0000-0002-7585-2609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b>&nbsp;Harun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0200-8423" title="ORCID: 0000-0002-0200-8423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seloglu_maksut"><b>Seloglu</b>&nbsp;Maksut</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2140-2995" title="ORCID: 0000-0002-2140-2995" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/coskun_ahmet"><b>Coskun</b>&nbsp;Ahmet</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 96, No. 110431
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a> <a href="https://orcid.org/0000-0002-7585-2609" title="ORCID: 0000-0002-7585-2609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a> <a href="https://orcid.org/0000-0002-0200-8423" title="ORCID: 0000-0002-0200-8423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="https://orcid.org/0000-0002-2140-2995" title="ORCID: 0000-0002-2140-2995" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 96, No. 110431
-
-:aca-blank:{ .lg .middle}
-    [`#effect`](keyword/effect)
-    [`#freeze`](keyword/freeze)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#thaw`](keyword/thaw)
-    [`#zinc`](keyword/zinc)
-
-
--------------------------
+<a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> <a href="../../keyword/zinc"><button class="btn">#zinc</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Nano-Zinc-Oxide%20on%20Freeze-Thaw-Resistance%20of%203D%20Printed%20Geopolymer%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201448273&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401673159" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110431" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110431?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this study was to investigate the freeze-thaw resistance of 3D-printed geopolymer mortars containing nano zinc oxide (nano-ZnO). Metakaolin (MK) and fly ash (FA) were selected as binders in the geopolymer mortar. The mixes containing 0 %, 0.25 %, 0.5 %, and 0.75 % nano-ZnO were prepared. The viscosity, setting time, buildability, and flow experiments were made to determine the fresh properties of the samples. Then, 40 × 40 × 160 mm samples for hardened properties were produced using the 3D printer, and they were cured at 20 ± 2 °C for 28 days. In this study, the 3D-printed geopolymer mortars were subjected to freeze-thaw cycles according to TS EN 15177 standard. Finally, ultrasonic pulse velocity (UPV), the weight change, flexural strength, and compressive strength of 3D-printed geopolymer mortar samples exposed to freeze-thaw cycles were determined. Also, the microstructure of 3D-printed geopolymer mortar samples was analyzed using X-ray diffraction (XRD), scanning electron microscopy (SEM), and energy-dispersive X-ray (EDX) analysis. This study found that the 3D-printed geopolymer mortars containing 5 % nano-ZnO had the highest resistance to freeze-thaw, with a compressive strength retention rate of 95.72 %. Thus, this study showed that the 3D-printed geopolymer mortars containing ZnO were resistant to freeze-thaw.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -91,8 +70,8 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wang_xiao_wang_jian.2022.FTRo3PCwDS/">Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand</a></li>
       <li><a href="../../../author/ziada_mahmoud"><b>Ziada</b> Mahmoud</a>, <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ziad_tany_selo_cosk.2024.BBCHo3PPFRGM/">Bacteria-Based Crack-Healing of 3D Printed PVA-Fiber-Reinforced Geopolymer Mortars</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/safdar-gardezi_shujaa_syed"><b>Safdar Gardezi</b> Syed</a>, <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/haroglu_hasan"><b>Haroglu</b> Hasan</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safd_tany_haro_cosk.2025.AAPo3PNZMGM/">Acid Attack Performance of 3D Printing Nano-ZnO Modified Geopolymer Mortar</a></li>
@@ -101,4 +80,34 @@ tags:
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>Bakri Abdullah</b> Mohd</a>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tany_selo_bakr_raza.2025.TRaMPo3PG/">The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/durmaz_taner"><b>Durmaz</b> Taner</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../tany_cosk_selo_durm.2025.EoMPo3PGMUtTM/">Examination of Mechanical Properties of 3D Printed Geopolymer-Mortar Using the Taguchi -Method</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tany_selo_cosk.2024.TEoNZOoFTRo3PGM,
+      author            = "Harun Tanyildizi and Maksut Seloglu and Ahmet Coskun",
+      title             = "The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars",
+      doi               = "10.1016/j.jobe.2024.110431",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "96",
+      pages             = "110431",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Tanyildizi, M. Seloglu and A. Coskun, “The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars”, <i>Journal of Building Engineering</i>, vol. 96, p. 110431, 2024, doi: 10.1016/j.jobe.2024.110431.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tanyildizi, Harun, Maksut Seloglu, and Ahmet Coskun. “The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars”. <i>Journal of Building Engineering</i> 96 (2024): 110431. https://doi.org/10.1016/j.jobe.2024.110431.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

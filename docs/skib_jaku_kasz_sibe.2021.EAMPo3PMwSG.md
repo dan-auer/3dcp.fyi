@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Szymon Skibicki, Patrycja Jakubowska, Maria Kaszyńska, Daniel Sibera, Krzysztof Cendrowski, Marcin Hoffmann
+    - footer
+title: Skibicki Szymon, Jakubowska Patrycja, Kaszyńska Maria, Sibera Daniel, Cendrowski Krzysztof, Hoffmann Marcin
 description:
 tags:
  - age
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/1/100/pdf?version=1640272498) Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet ([2021-12](date/2021/12))
-<a href="https://doi.org/10.3390/ma15010100" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15010100</a>
+#Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet ([2021-12](date/2021/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/1/100/pdf?version=1640272498) <a href="https://doi.org/10.3390/ma15010100" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15010100" target="_blank">10.3390/ma15010100</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6193-6628" title="ORCID: 0000-0001-6193-6628" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jakubowska_patrycja"><b>Jakubowska</b>&nbsp;Patrycja</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaszynska_maria"><b>Kaszyńska</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibera_daniel"><b>Sibera</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jakubowska_patrycja"><b>Jakubowska</b> Patrycja</a> <a href="https://orcid.org/0000-0001-6193-6628" title="ORCID: 0000-0001-6193-6628" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a> <a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> <a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> <a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#early`](keyword/early)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Mechanical%20Properties%20of%203D%20Printed%20Mortar%20with%20Spent%20Garnet" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121592630&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200510600" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15010100" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15010100?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study determines the effect of spent garnet as a replacement for natural sand in 3D-printed mortar at early ages. Five mixes with different spent garnet amounts were prepared (0%, 25%, 50%, 75% and 100% by volume). The ratio of binder to aggregate remained unchanged. In all mixes the water/binder ratio was assumed as a constant value of 0.375. Tests were performed to confirm the printability of the mix (a path quality test using a gantry robot with an extruder). Determinations of key buildability properties of the mix (green strength and Young's Modulus) during uniaxial compressive strength at 15 min, 30 min and 45 min after adding water were conducted. A hydraulic press and the GOM ARAMIS precision image analysis system were used to conduct the study. The results showed that an increase in spent garnet content caused a decrease in green strength and Young's Modulus (up to 69.91% and 80.37%, respectively). It was found that to maintain proper buildability, the recommended maximum replacement rate of natural sand with garnet is 50%. This research contributes new knowledge in terms of using recycled waste in the 3D printing technology of cementitious materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../cho_krug_best_heev.2020.ACRMTfPAo3PC/">A Compendious Rheo-Mechanical Test for Printability-Assessment of 3D Printable Concrete</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
@@ -98,8 +76,8 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA/">Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mim_shai_sark.2025.S3PCIAFA/">Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>A Review</a></li>
@@ -115,4 +93,34 @@ tags:
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../noai_chou_alba_skib.2023.RBAiOPAAM/">Recycled Brick-Aggregates in One-Part Alkali-Activated Materials:<br/>Impact on 3D Printing Performance and Material-Properties</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../fede_tech_skib_chou.2023.Do3PHCCMA/">Development of 3D Printed Heavyweight Concrete Containing Magnetite-Aggregate</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{skib_jaku_kasz_sibe.2021.EAMPo3PMwSG,
+      author            = "Szymon Skibicki and Patrycja Jakubowska and Maria Kaszyńska and Daniel Sibera and Krzysztof Cendrowski and Marcin Hoffmann",
+      title             = "Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet",
+      doi               = "10.3390/ma15010100",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Skibicki, P. Jakubowska, M. Kaszyńska, D. Sibera, K. Cendrowski and M. Hoffmann, “Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet”, <i>Materials</i>, vol. 15, no. 1, 2021, doi: 10.3390/ma15010100.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skibicki, Szymon, Patrycja Jakubowska, Maria Kaszyńska, Daniel Sibera, Krzysztof Cendrowski, and Marcin Hoffmann. “Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet”. <i>Materials</i> 15, no. 1 (2021). https://doi.org/10.3390/ma15010100.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

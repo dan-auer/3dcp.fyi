@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Songyuan Geng, Qiling Luo, Kun Liu, Yunchao Li, Yuchen Hou, Wujian Long
+    - footer
+title: Geng Songyuan, Luo Qiling, Liu Kun, Li Yunchao, Hou Yuchen, Long Wujian
 description:
 tags:
  - construction
@@ -12,30 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e01952) Research Status and Prospect of Machine Learning in Construction 3D Printing ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cscm.2023.e01952" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e01952</a>
+#Research Status and Prospect of Machine Learning in Construction 3D Printing ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01952) <a href="https://doi.org/10.1016/j.cscm.2023.e01952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01952" target="_blank">10.1016/j.cscm.2023.e01952</a>
 
--------------------------
+<a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <a href="../../../author/liu_kun"><b>Liu</b>&nbsp;Kun</a></span>, <a href="../../../author/li_yunchao"><b>Li</b>&nbsp;Yunchao</a></span>, <a href="../../../author/hou_yuchen"><b>Hou</b>&nbsp;Yuchen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span><br>
+Journal Article - Case Studies in Construction Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>
-,     <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>
-,     <a href="../../../author/liu_kun"><b>Liu</b> Kun</a>
-,     <a href="../../../author/li_yunchao"><b>Li</b> Yunchao</a>
-,     <a href="../../../author/hou_yuchen"><b>Hou</b> Yuchen</a>
-,     <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20Status%20and%20Prospect%20of%20Machine%20Learning%20in%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149638481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321793802" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e01952" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e01952?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing brings new opportunities for the development of civil engineering. Machine learning (ML) is also widely used in various fields of 3D printing. To describe the main research issues and potential future applications of ML for construction 3D printing, it is essential to comprehensively overview the current research topics. This paper aims to review, summarize, analyze, and introduce the research progress of ML applications in construction 3D printing, followed by a discussion of the current challenges and future research scope. Firstly, the classification and working principle of 3D printing and ML technology were introduced. Secondly, in the aspects of the design of construction materials, control of printing process, and quality inspection of construction components, the application status of ML in construction 3D printing was discussed. Based on this, in terms of interlayer bond performance enhancement, real-time status monitoring, and anisotropic behavior control, the future potential and challenges of ML in construction 3D printing were summarized, to provide a reference for promoting the realization of high-efficiency, intelligence, and sustainability in the field of civil engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -109,8 +89,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/meni_simone"><b>Meni</b> Simone</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rizz_meni_crem_ferr.2025.APFEMfItIoMaPPi3CP/">A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing</a></li>
@@ -128,4 +108,32 @@ tags:
       <li><a href="../../../author/zivkovic_milijana"><b>Živković</b> Milijana</a>, <a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zivk_zujo_milo.2023.A3PSCUAI/">Architectural 3D Printed Structures Created Using Artificial Intelligence:<br/>A Review of Techniques and Applications</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/fu_junen"><b>Fu</b> Junen</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../geng_long_luo_fu.2023.IPoDYSi3PCBoML/">Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geng_luo_liu_li.2023.RSaPoMLiC3P,
+      author            = "Songyuan Geng and Qiling Luo and Kun Liu and Yunchao Li and Yuchen Hou and Wujian Long",
+      title             = "Research Status and Prospect of Machine Learning in Construction 3D Printing",
+      doi               = "10.1016/j.cscm.2023.e01952",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Geng, Q. Luo, K. Liu, Y. Li, Y. Hou and W. Long, “Research Status and Prospect of Machine Learning in Construction 3D Printing”, <i>Case Studies in Construction Materials</i>, 2023, doi: 10.1016/j.cscm.2023.e01952.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geng, Songyuan, Qiling Luo, Kun Liu, Yunchao Li, Yuchen Hou, and Wujian Long. “Research Status and Prospect of Machine Learning in Construction 3D Printing”. <i>Case Studies in Construction Materials</i>, 2023. https://doi.org/10.1016/j.cscm.2023.e01952.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

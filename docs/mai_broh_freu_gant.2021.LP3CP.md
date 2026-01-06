@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Inka Mai (née Dressler), Leon Brohmann, Niklas Freund, Stefan Gantner, Harald Kloft, Dirk Lowke, Norman Hack
+    - footer
+title: Mai (née Dressler) Inka, Brohmann Leon, Freund Niklas, Gantner Stefan, Kloft Harald, Lowke Dirk, Hack Norman
 description:
 tags:
  - concrete
@@ -14,33 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/20/6125/pdf?version=1634553054) Large Particle 3D Concrete Printing:<br/>:aca-blank: A Green and Viable Solution ([2021-10](date/2021/10))
-<a href="https://doi.org/10.3390/ma14206125" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14206125</a>
+#Large Particle 3D Concrete Printing&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">A Green and Viable Solution</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/20/6125/pdf?version=1634553054) <a href="https://doi.org/10.3390/ma14206125" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14206125" target="_blank">10.3390/ma14206125</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7448-8630" title="ORCID: 0000-0002-7448-8630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brohmann_leon"><b>Brohmann</b>&nbsp;Leon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gantner_stefan"><b>Gantner</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 20
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> <a href="https://orcid.org/0000-0002-7448-8630" title="ORCID: 0000-0002-7448-8630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 20, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#green`](keyword/green)
-    [`#large`](keyword/large)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#solution`](keyword/solution)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large%20Particle%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117621298&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3205177052" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14206125" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14206125?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Large Particle 3D Concrete Printing (LP3DCP) process presented in this paper is based on the particle bed 3D printing method; here, the integration of significantly larger particles (up to 36 mm) for selective binding using the shotcrete technique is presented. In the LP3DCP process, the integration of large particles, i.e., naturally coarse, crushed or recycled aggregates, reduces the cement volume fraction by more than 50% compared to structures conventionally printed with mortar. Hence, with LP3DCP, the global warming potential, the acidification potential and the total non-renewable primary energy of 3D printed structures can be reduced by approximately 30%. Additionally, the increased proportion of aggregates enables higher compressive strengths than without the coarse aggregates, ranging up to 65 MPa. This article presents fundamental material investigations on particle packing and matrix penetration as well as compressive strength tests and geometry studies. The results of this systematic investigation are presented, and the best set is applied to produce a large-scale demonstrator of one cubic meter of size and complex geometry. Moreover, the demonstrator features reinforcement and subtractive surface processing strategies. Further improvements of the LP3DCP technology as well as construction applications and architectural design potentials are discussed thereafter.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -104,8 +82,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../paul_lee_tay_lim.2026.UtSPo3CPwLAaSCC/">Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
@@ -133,4 +111,34 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../lowk_mai_keit_perr.2022.MPIiPB3PatUP/">Material-Process Interactions in Particle-Bed 3D Printing and the Underlying Physics</a></li>
       <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../gant_roth_huhn_hack.2022.RSfAMiCBoDFW/">Reinforcement-Strategies for Additive Manufacturing in Construction Based on Dynamic Fiber Winding:<br/>Concepts and Initial Case Studies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mai_broh_freu_gant.2021.LP3CP,
+      author            = "Inka Mai (née Dressler) and Leon Brohmann and Niklas Freund and Stefan Gantner and Harald Kloft and Dirk Lowke and Norman Peter Hack",
+      title             = "Large Particle 3D Concrete Printing: A Green and Viable Solution",
+      doi               = "10.3390/ma14206125",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "20",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. M. (née Dressler), “Large Particle 3D Concrete Printing: A Green and Viable Solution”, <i>Materials</i>, vol. 14, no. 20, 2021, doi: 10.3390/ma14206125.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dressler), Inka Mai (née, Leon Brohmann, Niklas Freund, Stefan Gantner, Harald Kloft, Dirk Lowke, and Norman Peter Hack. “Large Particle 3D Concrete Printing: A Green and Viable Solution”. <i>Materials</i> 14, no. 20 (2021). https://doi.org/10.3390/ma14206125.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mien Tran, Thanh Le, Nguyen Cao, Thi Nguyen
+    - footer
+title: Tran Mien, Le Thanh, Cao Nguyen, Nguyen Thi
 description:
 tags:
  - aggregate
@@ -21,37 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainable Prospect for Entire Replacement of River Sand with Recycled Glass Aggregate in 3D Printing Concrete:<br/>:aca-blank: Rheological Properties, Printability, and Alkali-Silica Reaction ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1061/jmcee7.mteng-18746" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-18746</a>
+#Sustainable Prospect for Entire Replacement of River Sand with Recycled Glass Aggregate in 3D Printing Concrete&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">Rheological Properties, Printability, and Alkali-Silica Reaction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-18746" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-18746" target="_blank">10.1061/jmcee7.mteng-18746</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span>, <a href="../../../author/le_t_thanh"><b>Le</b>&nbsp;Thanh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5517-2094" title="ORCID: 0000-0001-5517-2094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_thi_nguyen"><b>Cao</b>&nbsp;Nguyen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6988-4778" title="ORCID: 0000-0002-6988-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b>&nbsp;Thi</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> <a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>
-,     <a href="../../../author/cao_thi_nguyen"><b>Cao</b> Nguyen</a> <a href="https://orcid.org/0000-0001-5517-2094" title="ORCID: 0000-0001-5517-2094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> <a href="https://orcid.org/0000-0002-6988-4778" title="ORCID: 0000-0002-6988-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#alkali`](keyword/alkali)
-    [`#concrete`](keyword/concrete)
-    [`#glass`](keyword/glass)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#replacement`](keyword/replacement)
-    [`#rheology`](keyword/rheology)
-    [`#sand`](keyword/sand)
-    [`#silica`](keyword/silica)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Prospect%20for%20Entire%20Replacement%20of%20River%20Sand%20with%20Recycled%20Glass%20Aggregate%20in%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001569659&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408987509" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-18746" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-18746?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Replacing river sand entirely with recycled glass (RG) aggregate in concrete is an intriguing approach to multiplying the sustainable impact of three-dimensional concrete printing (3DCP). This research aims to evaluate the prospects for utilizing solely RG as aggregate in concrete for 3DCP considering various factors, including rheological properties, shape stability, phase separation, and alkali–silica reaction (ASR). RG was prepared to obtain an approximate grading of river sand, which served as reference material. Varying quantities of fly ash were incorporated into the binder containing 8% silica fume to determine the appropriate concrete proportion that not only provided suitable properties for 3DCP but also hindered the ASR of RG. Actual 3D printing was conducted to examine the printability of concrete. The result indicated that when fly ash was not added, replacing river sand entirely with RG aggregate resulted in significant reductions in the rheological properties and thixotropy index of concrete while displaying negligible impact on shape stability, bleeding, and printability. Nevertheless, the addition of fly ash caused a decrease in rheological properties and thixotropy index, as well as an increase in the deformation and bleeding on both types of concrete, affecting the printability of the mixtures. The variation in the thixotropy index indicated that RG concrete appeared to be inappropriate for 3D printing since the incorporation of fly ash exceeded 30%. This observation agreed well with the findings related to shape stability and bleeding of concrete, where concrete using RG aggregate with more than 30% fly ash exhibited significant deformation and bleeding. Although the ASR of RG aggregate seemed substantially severe in mortar bars without fly ash, it was well hindered in RG concrete incorporating fly ash, making concrete using RG innocuous according to a recent standard. These findings present a promising prospect for the entire replacement of river sand by RG in concrete for 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
@@ -95,7 +69,37 @@ tags:
       <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/vu_h_tran"><b>Vu</b> Tran</a>, <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../tran_vu_nguy.2023.SAfOP3PGCBoSaSFM/">Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tran_le_cao_nguy.2025.SPfERoRSwRGAi3PC,
+      author            = "Mien van Tran and Thanh T. Le and Nguyen Thi Cao and Thi Hai Yen Nguyen",
+      title             = "Sustainable Prospect for Entire Replacement of River Sand with Recycled Glass Aggregate in 3D Printing Concrete: Rheological Properties, Printability, and Alkali-Silica Reaction",
+      doi               = "10.1061/jmcee7.mteng-18746",
+      year              = "2025",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "37",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. van Tran, T. T. Le, N. T. Cao and T. H. Y. Nguyen, “Sustainable Prospect for Entire Replacement of River Sand with Recycled Glass Aggregate in 3D Printing Concrete: Rheological Properties, Printability, and Alkali-Silica Reaction”, <i>Journal of Materials in Civil Engineering</i>, vol. 37, no. 6, 2025, doi: 10.1061/jmcee7.mteng-18746.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tran, Mien van, Thanh T. Le, Nguyen Thi Cao, and Thi Hai Yen Nguyen. “Sustainable Prospect for Entire Replacement of River Sand with Recycled Glass Aggregate in 3D Printing Concrete: Rheological Properties, Printability, and Alkali-Silica Reaction”. <i>Journal of Materials in Civil Engineering</i> 37, no. 6 (2025). https://doi.org/10.1061/jmcee7.mteng-18746.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

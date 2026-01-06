@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Oluwole Oladunni, Carman Lee, Idowu Ibrahim, Oludolapo Olanrewaju
+    - footer
+title: Oladunni Oluwole, Lee Carman, Ibrahim Idowu, Olanrewaju Oludolapo
 description:
 tags:
  - additive
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3389/fbuil.2025.1535626) Advances in Sustainable Additive Manufacturing:<br/>:aca-blank: A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions ([2025-03](date/2025/03))
-<a href="https://doi.org/10.3389/fbuil.2025.1535626" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fbuil.2025.1535626</a>
+#Advances in Sustainable Additive Manufacturing&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3389/fbuil.2025.1535626) <a href="https://doi.org/10.3389/fbuil.2025.1535626" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fbuil.2025.1535626" target="_blank">10.3389/fbuil.2025.1535626</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2718-7974" title="ORCID: 0000-0002-2718-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oladunni_joseph_oluwole"><b>Oladunni</b>&nbsp;Oluwole</a></span>, <a href="../../../author/lee_k-m_carman"><b>Lee</b>&nbsp;Carman</a></span>, <a href="../../../author/ibrahim_david_idowu"><b>Ibrahim</b>&nbsp;Idowu</a></span>, <a href="../../../author/olanrewaju_akanni_oludolapo"><b>Olanrewaju</b>&nbsp;Oludolapo</a></span><br>
+Journal Article - Frontiers in Built Environment, Vol. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/oladunni_joseph_oluwole"><b>Oladunni</b> Oluwole</a> <a href="https://orcid.org/0000-0002-2718-7974" title="ORCID: 0000-0002-2718-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_k-m_carman"><b>Lee</b> Carman</a>
-,     <a href="../../../author/ibrahim_david_idowu"><b>Ibrahim</b> Idowu</a>
-,     <a href="../../../author/olanrewaju_akanni_oludolapo"><b>Olanrewaju</b> Oludolapo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Built Environment, Vol. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#construction`](keyword/construction)
-    [`#emission`](keyword/emission)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advances%20in%20Sustainable%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002484254&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408991181" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fbuil.2025.1535626" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fbuil.2025.1535626?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Background and Objective: Additive Manufacturing (AM), driven by digital 3D design data, is a transformative technology that holds significant potential to revolutionize the construction industry. Its untapped capacity to optimize material utilization, enhance design flexibility, and substantially reduce greenhouse gas (GHG) emissions emplaces it as key enabler to sustainable construction. Although being adopted in biomedical, aerospace, and automotive industries, AM remains underexplored in construction. This study systematically evaluates the role of AM in advancing sustainable construction, particularly its impact on reducing GHG emissions. Materials and methods: Systematic research was conducted using resourceful methodologies. These are to include PRISMA meta-analysis, Cochrane Collaboration, EPPI-Reviewer 4, VOSviewer, and Databases with Search Engines. The tools were employed to synthesize, organize, and to deduce relevant materials and literature, facilitating comparative analyses of AM and traditional (conventional) subtractive manufacturing (TSM). The systematic review essentially concentrates on metrics such as design process efficiency, cost-effectiveness, production rates, and material sustainability. Furthermore, on diverse AM techniques, and materials, to include concrete, composites, and polymers, being evaluated for their potential to mitigate carbon emissions. Results: Quantitatively, the results connote that AM can better enhance energy efficiency by up to 60%, reduce material waste by 90%, and cushioned to lower GHG emissions by 80%, while achieving labour and cost savings of 50%–60%, and sustainability by 75% in specific design standards. Furthermore, AM enables the production of complex geometrical designs that are unfeasible with conventional methods, improving both structural and mechanical performance, and sustainability. Conclusion: This study expounds the environmental, social and economic benefits of AM, providing highly valuable insights to further incorporate AM to contemporary construction as viable alternative solutions, and sustainable supplements to TSM. Additive manufacturing innovations are deduced to be well positioned as significant strategic driver for eco-friendly built environment, supporting global efforts toward carbon neutrality and sustainable urban developments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/bajpayee_aayushi"><b>Bajpayee</b> Aayushi</a>, <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/pandey_aditi"><b>Pandey</b> Aditi</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bajp_fara_zaki_pand.2020.ISRUaRoSiCMftAMoB/">In-Situ Resource Utilization and Reconfiguration of Soils into Construction Materials for the Additive Manufacturing of Buildings</a></li>
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
@@ -93,7 +71,6 @@ tags:
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/munoz_ivan"><b>Muñoz</b> Ivan</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/uhart_maylis"><b>Uhart</b> Maylis</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../muno_madr_muni_uhar.2021.LCAoIASC3P/">Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
-      <li><a href="../../../author/oladunni_joseph_oluwole"><b>Oladunni</b> Oluwole</a>, <a href="../../../author/lee_k-m_carman"><b>Lee</b> Carman</a>, <a href="../../../author/ibrahim_david_idowu"><b>Ibrahim</b> Idowu</a>, <a href="../../../author/olanrewaju_akanni_oludolapo"><b>Olanrewaju</b> Oludolapo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../olad_lee_ibra_olan.2025.AiSAM/">Advances in Sustainable Additive Manufacturing:<br/>A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
@@ -115,8 +92,36 @@ tags:
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/oladunni_joseph_oluwole"><b>Oladunni</b> Oluwole</a>, <a href="../../../author/lee_k-m_carman"><b>Lee</b> Carman</a>, <a href="../../../author/ibrahim_david_idowu"><b>Ibrahim</b> Idowu</a>, <a href="../../../author/olanrewaju_akanni_oludolapo"><b>Olanrewaju</b> Oludolapo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../olad_lee_ibra_olan.2025.AiSAM/">Advances in Sustainable Additive Manufacturing:<br/>A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{olad_lee_ibra_olan.2025.AiSAM,
+      author            = "Oluwole Joseph Oladunni and Carman K. M. Lee and Idowu David Ibrahim and Oludolapo Akanni Olanrewaju",
+      title             = "Advances in Sustainable Additive Manufacturing: A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions",
+      doi               = "10.3389/fbuil.2025.1535626",
+      year              = "2025",
+      journal           = "Frontiers in Built Environment",
+      volume            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. J. Oladunni, C. K. M. Lee, I. D. Ibrahim and O. A. Olanrewaju, “Advances in Sustainable Additive Manufacturing: A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions”, <i>Frontiers in Built Environment</i>, vol. 11, 2025, doi: 10.3389/fbuil.2025.1535626.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oladunni, Oluwole Joseph, Carman K. M. Lee, Idowu David Ibrahim, and Oludolapo Akanni Olanrewaju. “Advances in Sustainable Additive Manufacturing: A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions”. <i>Frontiers in Built Environment</i> 11 (2025). https://doi.org/10.3389/fbuil.2025.1535626.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

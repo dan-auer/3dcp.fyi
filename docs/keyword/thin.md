@@ -8,7 +8,7 @@ search:
 
 # #thin
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pfle_radl_sam_vill.2025.3CPoTWLBRS/">3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures</a></li>
   <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ivan_tosi_lord_mech.2024.FPoVCMfTWCSS/">Flow Production of Variable Curved Modules for Thin-Walled Concrete Shell Structures</a></li>

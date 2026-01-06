@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Flávio Craveiro, José Duarte, Helena Bártolo, Paulo Bartolo
+    - footer
+title: Craveiro Flávio, Duarte José, Bártolo Helena, Bartolo Paulo
 description:
 tags:
  - additive
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>:aca-blank: A Perspective on Construction 4.0 ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1016/j.autcon.2019.03.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.03.011</a>
+#Additive Manufacturing as an Enabling Technology for Digital Construction&nbsp;([2019-04](date/2019/04))
+<div class="h1-like">A Perspective on Construction 4.0</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2019.03.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.03.011" target="_blank">10.1016/j.autcon.2019.03.011</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/craveiro_flavio"><b>Craveiro</b>&nbsp;Flávio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_galha_helena"><b>Bártolo</b>&nbsp;Helena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b>&nbsp;Paulo</a></span><br>
+Journal Article - Automation in Construction, Vol. 103, pp. 251-267
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a> <a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 103, pp. 251-267
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#digital`](keyword/digital)
-    [`#enabler`](keyword/enabler)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20as%20an%20Enabling%20Technology%20for%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85063756372&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2932253668" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.03.011" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.03.011?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector plays a key role in any country's economy. According to a report published by the World Economic Forum, the construction industry currently accounts for about 6% of the world GDP [1] and is expected to reach around 14.7% in 2030 [2]. Construction is a strategically important sector for the European economy involving a wide range of stakeholders and companies, providing 18 million jobs [209]. According to the World Economic Forum, a 1% rise in productivity worldwide could save $100 billion a year in construction costs [3], with the potential to contribute for a country's competitiveness and sustainable development [[4], [5], [6]]. The construction industry consumes a very significant proportion of the raw materials produced around the world, using for instance 50% of the global steel production, and is responsible for 30% of the world greenhouse gas emissions. Nonetheless, it provides the fabric of the built environment on which society depends [1,3]. The population living in urban areas is rapidly increasing, which impacts the need for affordable houses, public transportation and utility infrastructure. Yet the perceived image of the construction sector is predominantly low-tech, still relying on craft-based methods, characterized by a poor performance and quality image [[7], [8], [9], [10]]. The 2016 survey ‘Sustainability in the Supply Chain’ carried out by the Scape Group [11] concluded that 58% of all construction supplier and contractor respondents identified skilled workforce shortages as an obstacle for a future modernized construction sector. Today, advanced technologies commonly used in the manufacturing sector are being exported for construction and architectural applications. Examples include incremental sheet forming and composite fabrication techniques (Fig. 1). However, contrary to other industries, construction has been slow to adopt new technologies and has never undergone a major disruptive transformation [14]. The uniqueness of the construction sector constitutes a challenge for the direct adaptation of technologies that are used in many other industries. Other industrial sectors, such as automotive, aeronautics and aerospace underwent radical process changes by adopting digital technologies to improve quality and productivity. This digital transformation, usually described as Industry 4.0 [[210], [211], [212], [213]], connects embedded system production technologies and smart production processes and is radically transforming industry and production value chains and business models. This industrial transformation is driven by a shift towards a physical-to-digital-to-physical connection enabled by the use of sensors and controls, augmented reality systems, cognitive and high-performance computing, additive manufacturing, advanced materials, autonomous robots and digital design and simulation systems, among other technologies. The construction sector is facing big challenges characterized by the adoption of digital technologies, sensor systems, intelligent machines, and smart materials. This transformation, which by analogy to the manufacturing sector has been called as Construction 4.0 (Fig. 2) [[15], [16], [17]], will enable construction companies to improve productivity, reduce project delays and cost overruns, manage complexity, and enhance safety, quality and resource-efficiency [18,19]. According to a recent report from the Boston Consulting Group, within ten years full-scale digitalization in non-residential construction will lead to annual global cost savings of 13% to 21% in the engineering and construction phases and 10% to 17% in the operations phase [14]. According to a survey conducted by Roland Berger, 93% of construction stakeholders agree that digitization will affect each process but less than 6% of the construction companies are making full use of digital planning tools [16].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "53 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/biswas_kaushik"><b>Biswas</b> Kaushik</a>, <a href="../../../author/rose_james"><b>Rose</b> James</a>, <a href="../../../author/eikevik_leif"><b>Eikevik</b> Leif</a>, <a href="../../../author/guerguis_maged"><b>Guerguis</b> Maged</a> et al. <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../bisw_rose_eike_guer.2017.AMIE/">Additive Manufacturing Integrated Energy:<br/>Enabling Innovative Solutions for Buildings of the Future</a></li>
@@ -72,7 +53,6 @@ tags:
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/chee_wei-shen_ryan"><b>Chee</b> Ryan</a>, <a href="../../../author/tan_lin_wei"><b>Tan</b> Wei</a>, <a href="../../../author/goh_hern_wei"><b>Goh</b> Wei</a>, <a href="../../../author/amtsberg_felix"><b>Amtsberg</b> Felix</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../chee_tan_goh_amts.2018.LDCbDCI/">Locally Differentiated Concrete by Digitally Controlled Injection</a></li>
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
-      <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_qian.2024.DDROBAo3CPCW/">Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a>, <a href="../../../author/kirchner_nathan"><b>Kirchner</b> Nathan</a> <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../gard_jans_kirc.2016.ARoaCSRSf3PoCF/">A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork</a></li>
@@ -118,8 +98,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "97 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aden_rashid_abdishukri"><b>Aden</b> Abdishukri</a>, <a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b> Alejandra</a>, <a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aden_nune_ponc_rang.2026.FB/">FAB-BIO:<br/>A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</a></li>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
@@ -218,4 +198,34 @@ tags:
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{crav_duar_bart_bart.2019.AMaaETfDC,
+      author            = "Flávio Craveiro and José Pinto Duarte and Helena Galha Bártolo and Paulo Jorge Bartolo",
+      title             = "Additive Manufacturing as an Enabling Technology for Digital Construction: A Perspective on Construction 4.0",
+      doi               = "10.1016/j.autcon.2019.03.011",
+      year              = "2019",
+      journal           = "Automation in Construction",
+      volume            = "103",
+      pages             = "251--267",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Craveiro, J. P. Duarte, H. G. Bártolo and P. J. Bartolo, “Additive Manufacturing as an Enabling Technology for Digital Construction: A Perspective on Construction 4.0”, <i>Automation in Construction</i>, vol. 103, pp. 251–267, 2019, doi: 10.1016/j.autcon.2019.03.011.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Craveiro, Flávio, José Pinto Duarte, Helena Galha Bártolo, and Paulo Jorge Bartolo. “Additive Manufacturing as an Enabling Technology for Digital Construction: A Perspective on Construction 4.0”. <i>Automation in Construction</i> 103 (2019): 251–67. https://doi.org/10.1016/j.autcon.2019.03.011.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

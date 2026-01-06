@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jones Scott 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/mansour_stephan"><b>Mansour</b> Stephan</a>, <a href="../../../author/monkman_sean"><b>Monkman</b> Sean</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krei_krei_mans_monk.2024.ACiP/">Additive Construction in Practice:<br/>Realities of Acceptance Criteria</a></li>
   <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
   <li><a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/hipp_b_julie"><b>Hipp</b> Julie</a>, <a href="../../../author/allen_j_andrew"><b>Allen</b> Andrew</a>, <a href="../../../author/gagnon_v_cedric"><b>Gagnon</b> Cedric</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../jone_hipp_alle_gagn.2022.RaMDoHTS/">Rheology and Microstructure Development of Hydrating-Tricalcium-Silicate:<br/>Implications for Additive Manufacturing in Construction</a></li>

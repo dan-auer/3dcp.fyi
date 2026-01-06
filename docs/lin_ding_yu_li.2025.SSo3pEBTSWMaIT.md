@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manfang Lin, Yao Ding, Fan Yu, Lingzhi Li, Kequan Yu
+    - footer
+title: Lin Manfang, Ding Yao, Yu Fan, Li Lingzhi, Yu Kequan
 description:
 tags:
  - beam
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.engstruct.2025.121205" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.121205</a>
+#Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.121205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121205" target="_blank">10.1016/j.engstruct.2025.121205</a>
 
--------------------------
+<a href="../../../author/lin_manfang"><b>Lin</b>&nbsp;Manfang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_yao"><b>Ding</b>&nbsp;Yao</a></span>, <a href="../../../author/yu_fan"><b>Yu</b>&nbsp;Fan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_lingzhi"><b>Li</b>&nbsp;Lingzhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
+Journal Article - Engineering Structures, Vol. 343, No. 121205
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>
-,     <a href="../../../author/ding_yao"><b>Ding</b> Yao</a> <a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>
-,     <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> <a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 343, No. 121205
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#ecc`](keyword/ecc)
-    [`#interface`](keyword/interface)
-    [`#mesh`](keyword/mesh)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-    [`#strength`](keyword/strength)
-    [`#synergy`](keyword/synergy)
-    [`#wire`](keyword/wire)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Strengthening%20of%203D%E2%80%91printed%20ECC%20Beams%20Through%20Steel-Wire%20Mesh%20and%20Interfaces%20Treatments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013845206&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413544678" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.121205" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.121205?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Engineered cementitious composites (ECC) with superior tensile properties holds the ability to replace steel reinforcement in structures, known as self-reinforced ECC, which offers promising solutions to reinforcement challenges in 3D printing constructions. However, the expanding application scenarios demand efficient and effective reinforcement strategies and compatible interface bonding for the printed structures. This research, therefore, proposed an in-process reinforcing technique through laying steel-wire meshes between ECC layers as well as interface treatments to simultaneously enhance the load capacity and ductility of the printed member. Four-point bending tests were performed on 3DP-ECC beams reinforced with different layers of steel-wire mesh and various interface treatments to evaluate the effectiveness of this reinforcement strategy. Experimental results demonstrated that steel-wire meshes can deform collaboratively with ECC, and enhance the load bearing capacity and ductility of 3DP-ECC beams by 96 %-214 % and 12 %-98 %, respectively, compared to those of unreinforced beam. The combined application of vertical interface nail implantation and interlayer epoxy resin brushing enhances the interface bonding and ductility of 3DP-ECC beams. In addition, a theoretical model for predicting the load-bearing capacity and the load-deflection relationship of 3DP-ECC beams was further proposed and verified. This study validated the feasibility and effectiveness of steel-wire mesh in reinforcing 3DP-ECC beams for efficient construction, highlighting its potential to facilitate automated printing processes and broaden the practical applications of 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
@@ -106,8 +82,38 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lin_ding_yu_li.2025.SSo3pEBTSWMaIT,
+      author            = "Manfang Lin and Yao Ding and Fan Yu and Lingzhi Li and Kequan Yu",
+      title             = "Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments",
+      doi               = "10.1016/j.engstruct.2025.121205",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "343",
+      pages             = "121205",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Lin, Y. Ding, F. Yu, L. Li and K. Yu, “Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments”, <i>Engineering Structures</i>, vol. 343, p. 121205, 2025, doi: 10.1016/j.engstruct.2025.121205.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lin, Manfang, Yao Ding, Fan Yu, Lingzhi Li, and Kequan Yu. “Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments”. <i>Engineering Structures</i> 343 (2025): 121205. https://doi.org/10.1016/j.engstruct.2025.121205.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hüseyin İlcan, Adnan Külak, Oğuzhan Şahin, Alper Aldemir, Mustafa Şahmaran, Mohamed Lachemi
+    - footer
+title: İlcan Hüseyin, Külak Adnan, Şahin Oğuzhan, Aldemir Alper, Şahmaran Mustafa, Lachemi Mohamed
 description:
 tags:
  - 3dcp
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141115" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141115</a>
+#Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141115" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141115" target="_blank">10.1016/j.conbuildmat.2025.141115</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2365-7813" title="ORCID: 0009-0007-2365-7813" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b>&nbsp;Adnan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aldemir_alper"><b>Aldemir</b>&nbsp;Alper</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8332-4101" title="ORCID: 0009-0001-8332-4101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachemi_mohamed"><b>Lachemi</b>&nbsp;Mohamed</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 474, No. 141115
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a> <a href="https://orcid.org/0009-0007-2365-7813" title="ORCID: 0009-0007-2365-7813" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lachemi_mohamed"><b>Lachemi</b> Mohamed</a> <a href="https://orcid.org/0009-0001-8332-4101" title="ORCID: 0009-0001-8332-4101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 474, No. 141115
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#modular`](keyword/modular)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-    [`#system`](keyword/system)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reinforcement%20and%20Modular%20System%20for%203DCP%20Geopolymer%20Structures%20Using%20Construction%20and%20Demolition%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001553598&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409161660" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141115" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141115?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing demand for virgin raw materials, the unresolved accumulation of high volumes of waste materials resulting from construction activities, and the construction sector's lag in adapting to advancing industrial developments highlight an urgent need for sustainable solutions. Addressing these pressing issues, this paper investigates reinforcing strategies for 3D-printed geopolymer structures using construction and demolition waste (CDW) and explores the feasibility of modular systems in 3D-printing construction. The geopolymer synthesis involves CDW-based brick waste, concrete waste, industrial waste-based slag, and silica fume, combined with a 5 M NaOH activator. Reinforcing methods are employed to enhance bending strength, out-of-plane strength, and interlayer bond strength. Diverse reinforcement methods, such as fiber and steel in printed structures, varied wall designs including simple box, zigzag, crosstie reinforced wall, and specific interlayer bond strength enhancement applications like wetting, chipping, and shear stud were investigated by conducting three-point bending and compressive strength tests. Furthermore, modular 3D-printing wall performance was compared with the monolithic printed wall by performing direct tensile test. The results indicate that the inclusion of steel reinforcement led to notable improvement in bending capacity, with an enhancement of approximately 26 % for single steel reinforcement and 163 % for structures employing multiple steel reinforcements, compared to the plain structure. Besides, results showed that out-of-plane capacity of 3D-printing walls could be modified significantly by altering the cross-sectional geometry. The implemented reinforcing strategies including wetting, chipping and shear stud significantly improved the interface bond strength capacity by 80 % compared to scenarios with no interface treatment. Also, it was observed that printing time interval had notable influence of interlayer mechanical performance of 3D-printing structure. The tests conducted on modular system showed that tested modular connection effectively transmits an equivalent tensile load as its non-modular counterpart and exhibits similar failure behavior. The findings advance the understanding of reinforcement strategies for 3D-printed structures and offer practical insights for improving their structural integrity and sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -117,8 +92,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW,
+      author            = "Hüseyin İlcan and Adnan Yılmaz Külak and Oğuzhan Şahin and Alper Aldemir and Mustafa Şahmaran and Mohamed Lachemi",
+      title             = "Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste",
+      doi               = "10.1016/j.conbuildmat.2025.141115",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "474",
+      pages             = "141115",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. İlcan, A. Y. Külak, O. Şahin, A. Aldemir, M. Şahmaran and M. Lachemi, “Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste”, <i>Construction and Building Materials</i>, vol. 474, p. 141115, 2025, doi: 10.1016/j.conbuildmat.2025.141115.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">İlcan, Hüseyin, Adnan Yılmaz Külak, Oğuzhan Şahin, Alper Aldemir, Mustafa Şahmaran, and Mohamed Lachemi. “Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste”. <i>Construction and Building Materials</i> 474 (2025): 141115. https://doi.org/10.1016/j.conbuildmat.2025.141115.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seyed Ghaffar, Paul Mullett
+    - footer
+title: Ghaffar Seyed, Mullett Paul
 description:
 tags:
  - construction
@@ -13,27 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://bura.brunel.ac.uk/handle/2438/16760) Commentary:<br/>:aca-blank: 3D Printing Set to Transform the Construction Industry ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1680/jstbu.18.00136" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jstbu.18.00136</a>
+#Commentary&nbsp;([2018-09](date/2018/09))
+<div class="h1-like">3D Printing Set to Transform the Construction Industry</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://bura.brunel.ac.uk/handle/2438/16760) <a href="https://doi.org/10.1680/jstbu.18.00136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jstbu.18.00136" target="_blank">10.1680/jstbu.18.00136</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <a href="../../../author/mullett_paul"><b>Mullett</b>&nbsp;Paul</a></span><br>
+Journal Article - Proceedings of the Institution of Civil Engineers - Structures and Buildings, Vol. 171, Iss. 10, pp. 737-738
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mullett_paul"><b>Mullett</b> Paul</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Proceedings of the Institution of Civil Engineers - Structures and Buildings, Vol. 171, Iss. 10, pp. 737-738
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#setting`](keyword/setting)
-    [`#transform`](keyword/transform)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Commentary" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85053505284&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,22 +36,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2893036417" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jstbu.18.00136" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jstbu.18.00136?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     It is often claimed that three-dimensional (3D) printing – known in the trade as ‘additive manufacturing’– will change the way structures and buildings are constructed, from architecturally driven geometric forms to functional, low-cost housing and emergency shelters. Additive manufacturing uses a combination of materials science, architecture and design, computation and robotics. The aim of this manufacturing technology is to shorten the supply chain in the construction industry through the autonomous production of building components directly from digital models with a minimum amount of human intervention and temporary works. The key for its successful development and implementation is industry stakeholder collaboration involving materials science, architecture/ design, computation and robotics. There are fundamental interdependencies between the materials, the printing technologies, and both the scale and geometric complexity of any printed structure. For a given project, by understanding and optimising the mix design for fresh rheology of materials and providing sufficient adhesion/cohesion of the layer interface, the designer can incorporate geometric complexity and aim to minimise temporary works.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_li_guo_wang.2025.SB3PTSC/">Spray-Based 3D Printed Tunnel Slag Concrete:<br/>Evaluation for Printability and Mechanical Performance</a></li>
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/medina_moises"><b>Medina</b> Moisés</a>, <a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b> Alexander</a>, <a href="../../../author/moreno_francisco"><b>Moreno</b> Francisco</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../forc_medi_opaz_more.2025.AMitCI/">Additive Manufacturing in the Construction Industry</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
@@ -83,4 +67,35 @@ tags:
       <li><a href="../../../author/haustein_a_martin"><b>Haustein</b> Martin</a>, <a href="../../../author/kluwe_niklas_moritz"><b>Kluwe</b> Moritz</a>, <a href="../../../author/schwarze_rudiger"><b>Schwarze</b> Rüdiger</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../haus_kluw_schw.2020.EIotPoaMCTP/">Experimental Investigation of the Pumping of a Model-Concrete Through Pipes</a></li>
       <li><a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lafh_dakh.2019.PIoPCM/">Performance Indicators of Printed Construction Materials:<br/>A Durability-Based Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ghaf_mull.2018.C,
+      author            = "Seyed Hamidreza Ghaffar and Paul Mullett",
+      title             = "Commentary: 3D Printing Set to Transform the Construction Industry",
+      doi               = "10.1680/jstbu.18.00136",
+      year              = "2018",
+      journal           = "Proceedings of the Institution of Civil Engineers - Structures and Buildings",
+      volume            = "171",
+      number            = "10",
+      pages             = "737--738",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Ghaffar  and P. Mullett, “Commentary: 3D Printing Set to Transform the Construction Industry”, <i>Proceedings of the Institution of Civil Engineers - Structures and Buildings</i>, vol. 171, no. 10, pp. 737–738, 2018, doi: 10.1680/jstbu.18.00136.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghaffar, Seyed Hamidreza, and Paul Mullett. “Commentary: 3D Printing Set to Transform the Construction Industry”. <i>Proceedings of the Institution of Civil Engineers - Structures and Buildings</i> 171, no. 10 (2018): 737–38. https://doi.org/10.1680/jstbu.18.00136.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

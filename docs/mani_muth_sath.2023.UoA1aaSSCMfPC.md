@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Aravindhraj Mani, S. Muthukumar, K. Sathyanarayanan
+    - footer
+title: Mani Aravindhraj, Muthukumar S., Sathyanarayanan K.
 description:
 tags:
  - cement
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Use of Alccofine 1203 as a Sustainable Supplementary Cementitious Material for Printable Concrete ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.matpr.2023.08.152" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.08.152</a>
+#Use of Alccofine 1203 as a Sustainable Supplementary Cementitious Material for Printable Concrete ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.08.152" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.08.152" target="_blank">10.1016/j.matpr.2023.08.152</a>
 
--------------------------
+<a href="../../../author/mani_aravindhraj"><b>Mani</b>&nbsp;Aravindhraj</a></span>, <a href="../../../author/muthukumar_s"><b>Muthukumar</b>&nbsp;S.</a></span>, <a href="../../../author/sathyanarayanan_s_k"><b>Sathyanarayanan</b>&nbsp;K.</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>
-,     <a href="../../../author/muthukumar_s"><b>Muthukumar</b> S.</a>
-,     <a href="../../../author/sathyanarayanan_s_k"><b>Sathyanarayanan</b> K.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#supplement`](keyword/supplement)
-    [`#sustainability`](keyword/sustainability)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/supplement"><button class="btn">#supplement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Alccofine%201203%20as%20a%20Sustainable%20Supplementary%20Cementitious%20Material%20for%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182019717&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385973351" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.08.152" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.08.152?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Major climatic shifts and delicate heating effects have given rise to CO2 emissions in the environment at a global level. This is due to the manufacture of cement and other greenhouse gases (GHG). Numerous studies are being done to find alternatives to cement as a means of preventing or reducing this release of GHG. One of the newer construction methods, three-dimensional concrete printing (3DCP), uses more cement for both the binding process and to attain mechanical qualities. The objective of this paper is to provide an overview of the preferences of supplementary cementitious materials (SCMs) and to suggest alccofine-1203 as a partial substitute for cement in the process of 3DCP. Alccofine-1203, one of the SCMs, contains ultra-fine particles with a unique chemical composition that improved cement hydration and pozzolanic activity. In this research finding, cement is partially replaced with alccofine-1203 with various proportions like 2%,4%,6%,8% & 10%. Substituting alccofine-1203, resulted in good workability and showed vital results for slump cone and flowability tests at 6%. Alccofine-1203 replaced mortar cubes performed better than the conventional mortar cubes in terms of mechanical properties because of the presence of calcium and silica in alccofine-1203.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -79,8 +59,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../mani_seka.2024.NDTTfIMPaPDiE3PC/">Non-Destructive Testing Techniques for Investigating Mechanical Property and Porosity-Disparities in Extrusion 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mani_muth_sath.2023.UoA1aaSSCMfPC,
+      author            = "Aravindhraj Mani and S. Muthukumar and K. S. Sathyanarayanan",
+      title             = "Use of Alccofine 1203 as a Sustainable Supplementary Cementitious Material for Printable Concrete",
+      doi               = "10.1016/j.matpr.2023.08.152",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mani, S. Muthukumar and K. S. Sathyanarayanan, “Use of Alccofine 1203 as a Sustainable Supplementary Cementitious Material for Printable Concrete”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.08.152.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mani, Aravindhraj, S. Muthukumar, and K. S. Sathyanarayanan. “Use of Alccofine 1203 as a Sustainable Supplementary Cementitious Material for Printable Concrete”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.08.152.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

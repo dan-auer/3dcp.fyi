@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sayanthan Ramakrishnan, Shravan Muthukrishnan, Jay Sanjayan, Kirubajiny Pasupathy
+    - footer
+title: Ramakrishnan Sayanthan, Muthukrishnan Shravan, Sanjayan Jay, Pasupathy Kirubajiny
 description:
 tags:
  - concrete
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Concrete 3D Printing of Lightweight Elements Using Hollow-Core Extrusion of Filaments ([2021-08](date/2021/08))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104220" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104220</a>
+#Concrete 3D Printing of Lightweight Elements Using Hollow-Core Extrusion of Filaments ([2021-08](date/2021/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104220" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104220" target="_blank">10.1016/j.cemconcomp.2021.104220</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b>&nbsp;Sayanthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b>&nbsp;Shravan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1303-9548" title="ORCID: 0000-0003-1303-9548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b>&nbsp;Kirubajiny</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 123
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> <a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a> <a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a> <a href="https://orcid.org/0000-0003-1303-9548" title="ORCID: 0000-0003-1303-9548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 123, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#core`](keyword/core)
-    [`#element`](keyword/element)
-    [`#extrusion`](keyword/extrusion)
-    [`#filament`](keyword/filament)
-    [`#hollow`](keyword/hollow)
-    [`#light`](keyword/light)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/core"><button class="btn">#core</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%203D%20Printing%20of%20Lightweight%20Elements%20Using%20Hollow-Core%20Extrusion%20of%20Filaments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112842144&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3190937051" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104220" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104220?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates an approach of 3D printing lightweight concrete elements using extrusion of hollow-core filaments. Two different filament shapes of rectangular hollow shape and U-shape were printed by using customised nozzles. The primary challenge in hollow-core 3D printing is the extrudability and the stability of the overhang of the filament at fresh state. The stability of the overhang was assessed by determining the viscosity recovery rate and yield strength growth rate of the mix with nanoclay as a thixotropic additive. The mix containing 0.2 wt% of nanoclay has shown good extrudability and enhanced stability of the overhang. The hollowcore 3D printed elements have shown a reduced density of 1369.6 kg/m3 and 1701.7 kg/m3, compared to 2114.1 kg/m3 obtained for solid-core printing. The compressive strength and the Modulus of Rupture (MoR) of hollow-core filaments evaluated at different directions reveal a significant strength loss in perpendicular and lateral directions due to the effective bond area reduction between filaments. The thermal performance of 3D printed panels assessed using simulated test room experiments reports that the hollow-core panels have high thermal inertia due to increased insulation capacity. However, the lack of thermal energy storage has resulted in high indoor temperature in these test rooms.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -97,8 +75,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "52 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
       <li><a href="../../../author/liu_ruiqing"><b>Liu</b> Ruiqing</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_du.2025.OTITGD/">Optimizing Thermal Insulation Through Geometric Design:<br/>Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
@@ -151,4 +130,33 @@ tags:
       <li><a href="../../../author/saruhan_vedat"><b>Saruhan</b> Vedat</a>, <a href="../../../author/keskinates_muhammer"><b>Keskinateş</b> Muhammer</a>, <a href="../../../author/felekoglu_tosun_kamile"><b>Felekoğlu</b> Kamile</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../saru_kesk_fele_fele.2022.EoFRoEaBoMAMPCM/">Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars:<br/>A Rheometer-Based Simulation-Analysis</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/a_ruhan"><b>A</b> Ruhan</a>, <a href="../../../author/xie_panpan"><b>Xie</b> Panpan</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ma_a_xie_pan.2022.3PAIC/">3D Printable Aerogel-Incorporated Concrete:<br/>Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rama_muth_sanj_pasu.2021.C3PoLEUHCEoF,
+      author            = "Sayanthan Ramakrishnan and Shravan Muthukrishnan and Jay Gnananandan Sanjayan and Kirubajiny Pasupathy",
+      title             = "Concrete 3D Printing of Lightweight Elements Using Hollow-Core Extrusion of Filaments",
+      doi               = "10.1016/j.cemconcomp.2021.104220",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "123",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ramakrishnan, S. Muthukrishnan, J. G. Sanjayan and K. Pasupathy, “Concrete 3D Printing of Lightweight Elements Using Hollow-Core Extrusion of Filaments”, <i>Cement and Concrete Composites</i>, vol. 123, 2021, doi: 10.1016/j.cemconcomp.2021.104220.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ramakrishnan, Sayanthan, Shravan Muthukrishnan, Jay Gnananandan Sanjayan, and Kirubajiny Pasupathy. “Concrete 3D Printing of Lightweight Elements Using Hollow-Core Extrusion of Filaments”. <i>Cement and Concrete Composites</i> 123 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104220.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Imane Krimi, Zoubeir Lafhaj, Laure Ducoulombier
+    - footer
+title: Krimi Imane, Lafhaj Zoubeir, Ducoulombier Laure
 description:
 tags:
  - additive
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Prospective Study on the Integration of Additive Manufacturing to Building Industry:<br/>:aca-blank: Case of a French Construction Company ([2017-05](date/2017/05))
-<a href="https://doi.org/10.1016/j.addma.2017.04.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2017.04.002</a>
+#Prospective Study on the Integration of Additive Manufacturing to Building Industry&nbsp;([2017-05](date/2017/05))
+<div class="h1-like">Case of a French Construction Company</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2017.04.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2017.04.002" target="_blank">10.1016/j.addma.2017.04.002</a>
 
--------------------------
+<a href="../../../author/krimi_imane"><b>Krimi</b>&nbsp;Imane</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b>&nbsp;Zoubeir</a></span>, <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b>&nbsp;Laure</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 16, pp. 107-114
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/krimi_imane"><b>Krimi</b> Imane</a>
-,     <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a> <a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b> Laure</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 16, pp. 107-114
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#case`](keyword/case)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#integration`](keyword/integration)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Prospective%20Study%20on%20the%20Integration%20of%20Additive%20Manufacturing%20to%20Building%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85019741889&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2617609332" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2017.04.002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2017.04.002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The objective ofthis paper is to present a reflection on the use ofAdditive manufacturing in construction. In this research examples from manufacturing industries are presented. Some Advantages of additive manufacturing in industry were identified. Relevant cases used to promote AM for construction are: building rate improvement and schedules shortening. This study investigated these advantages in three parts. Firstly, a comparison between construction and manufacturing industry was presented. Secondly, Design and Building rate for construction were studied using data from a French construction company. Finally a comparison was made between conventional processes and Additive manufacturing. Conventional processes included prefabrication and casting on site. Results showed that pre-casting may be faster than AM in some cases. Time saving is not necessary the best advantage from applying additive manufacturing to construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -77,8 +58,8 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/safdar-gardezi_shujaa_syed"><b>Safdar Gardezi</b> Syed</a>, <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/haroglu_hasan"><b>Haroglu</b> Hasan</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safd_tany_haro_cosk.2025.AAPo3PNZMGM/">Acid Attack Performance of 3D Printing Nano-ZnO Modified Geopolymer Mortar</a></li>
       <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_sun_wang_huan.2025.EaEEoaP3PSUURAfCaDW/">Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste:<br/>A Case Study in China</a></li>
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/medina_moises"><b>Medina</b> Moisés</a>, <a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b> Alexander</a>, <a href="../../../author/moreno_francisco"><b>Moreno</b> Francisco</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../forc_medi_opaz_more.2025.AMitCI/">Additive Manufacturing in the Construction Industry</a></li>
@@ -103,4 +84,34 @@ tags:
       <li><a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a>, <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../poul_paqu_garn_fure.2018.OSDo3PftBC/">On-Site Deployment of 3D Printing for the Building Construction:<br/>The Case of YhnovaTM</a></li>
       <li><a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/rabenantoandro_zaid_andry"><b>Rabenantoandro</b> Andry</a>, <a href="../../../author/krimi_imane"><b>Krimi</b> Imane</a>, <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../lafh_rabe_krim_dakh.2018.3PiC/">3D Printing in Construction:<br/>Application-Framework for a Robotic-Arm Based on the Extrusion-Technique</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{krim_lafh_duco.2017.PSotIoAMtBI,
+      author            = "Imane Krimi and Zoubeir Lafhaj and Laure Ducoulombier",
+      title             = "Prospective Study on the Integration of Additive Manufacturing to Building Industry: Case of a French Construction Company",
+      doi               = "10.1016/j.addma.2017.04.002",
+      year              = "2017",
+      journal           = "Additive Manufacturing",
+      volume            = "16",
+      pages             = "107--114",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Krimi, Z. Lafhaj and L. Ducoulombier, “Prospective Study on the Integration of Additive Manufacturing to Building Industry: Case of a French Construction Company”, <i>Additive Manufacturing</i>, vol. 16, pp. 107–114, 2017, doi: 10.1016/j.addma.2017.04.002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Krimi, Imane, Zoubeir Lafhaj, and Laure Ducoulombier. “Prospective Study on the Integration of Additive Manufacturing to Building Industry: Case of a French Construction Company”. <i>Additive Manufacturing</i> 16 (2017): 107–14. https://doi.org/10.1016/j.addma.2017.04.002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

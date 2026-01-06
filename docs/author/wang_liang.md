@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wang Liang 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
   <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/quan_hongzhu"><b>Quan</b> Hongzhu</a>, <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_zhan_quan_liu.2024.EATDMPo3PCwCA/">Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates</a></li>
   <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/sheng_haitao"><b>Sheng</b> Haitao</a>, <a href="../../../author/feng_binqing"><b>Feng</b> Binqing</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_shen_feng_wang.2024.DoNAEWotPo3PCSCC/">Development of Novel Alkaline-Electrolyzed-Water on the Properties of 3D Printed Calcium-Sulphoaluminate-Cement Composites</a></li>

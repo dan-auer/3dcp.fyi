@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Lucen, Li Long, Zhang Shipeng, Zhang Huanghua, Xiao Jianzhuang, Poon Sun
+    - footer
+title: Lucen Hao, Long Li, Shipeng Zhang, Huanghua Zhang, Jianzhuang Xiao, Sun Poon
 description:
 tags:
  - co2
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Synergistic Effect of Greenhouse Gas CO2 and Silica-Fume on the Properties of 3D Printed Mortar ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1016/j.compositesb.2023.111188" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2023.111188</a>
+#The Synergistic Effect of Greenhouse Gas CO2 and Silica-Fume on the Properties of 3D Printed Mortar ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2023.111188" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2023.111188" target="_blank">10.1016/j.compositesb.2023.111188</a>
 
--------------------------
+<a href="../../../author/lucen_hao"><b>Lucen</b>&nbsp;Hao</a></span>, <a href="../../../author/long_li"><b>Long</b>&nbsp;Li</a></span>, <a href="../../../author/shipeng_zhang"><b>Shipeng</b>&nbsp;Zhang</a></span>, <a href="../../../author/huanghua_zhang"><b>Huanghua</b>&nbsp;Zhang</a></span>, <a href="../../../author/jianzhuang_xiao"><b>Jianzhuang</b>&nbsp;Xiao</a></span>, <a href="../../../author/sun_chin_poon"><b>Sun</b>&nbsp;Poon</a></span><br>
+Journal Article - Composites Part B: Engineering, No. 111188
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lucen_hao"><b>Lucen</b> Hao</a>
-,     <a href="../../../author/long_li"><b>Long</b> Li</a>
-,     <a href="../../../author/shipeng_zhang"><b>Shipeng</b> Zhang</a>
-,     <a href="../../../author/huanghua_zhang"><b>Huanghua</b> Zhang</a>
-,     <a href="../../../author/jianzhuang_xiao"><b>Jianzhuang</b> Xiao</a>
-,     <a href="../../../author/sun_chin_poon"><b>Sun</b> Poon</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, No. 111188
-
-:aca-blank:{ .lg .middle}
-    [`#co2`](keyword/co2)
-    [`#effect`](keyword/effect)
-    [`#fume`](keyword/fume)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#silica`](keyword/silica)
-    [`#synergy`](keyword/synergy)
-
-
--------------------------
+<a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Synergistic%20Effect%20of%20Greenhouse%20Gas%20CO2%20and%20Silica-Fume%20on%20the%20Properties%20of%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181584660&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390452927" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2023.111188" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2023.111188?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To fulfil the requirements of pumpability and buildability, the rheological properties of mortar/concrete for 3D printing should follow much stricter requirements than traditional-cast mortar/concrete. This study proposed to use a secondary CO2 mixing technique coupled with the addition of silica fume (SF) to achieve in-situ rheology control of 3D printed mortar. The influences of CO2 mixing on the properties of the cast mortar and the 3D printed mortar prepared with SF were systematically studied. The pH, conductivity and ion concentration were tested to revel the essential chemical reactions and phase evolutions during CO2 mixing. It was found that the CO2 mixing effectively enhanced the early-age penetration resistance and yield stress of mortar incorporated with SF, and thus significantly improved the buildability of 3D printed mortar, while the maximum printing layer increased higher than 33 layers. Meanwhile, the mechanical properties of the SF-incorporated mortar were improved by this process. It was revealed that during the CO2 mixing process, the injected CO2 rapidly reacted with calcium ions to form CaCO3, which further reacted with C3A to form monocarboaluminate (Mc). The fast precipitation of calcium ions during CO2 mixing accelerated the hydration of C3A and C3S, contributing to the rapid development of strength at early ages and the improved performance of hardened mortar. The addition of SF in mortar greatly amplified the beneficial effect of CO2 mixing, which due to SF as nucleation sites promoted the formation of CaCO3 and Mc during CO2 mixing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../hou_xiao_duan_ma.2021.FPo3PMwRP/">Fresh Properties of 3D Printed Mortar with Recycled Powder</a></li>
@@ -94,8 +70,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
@@ -110,4 +87,33 @@ tags:
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
       <li><a href="../../../author/stout_ivy"><b>Stout</b> Ivy</a>, <a href="../../../author/godfrey_grant"><b>Godfrey</b> Grant</a>, <a href="../../../author/dayley_jenna"><b>Dayley</b> Jenna</a>, <a href="../../../author/rodriguez_dexter"><b>Rodriguez</b> Dexter</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../stou_godf_dayl_rodr.2024.CMPaDfAM/">Concrete Mixture Properties and Designs for Additive Manufacturing:<br/>A Review of 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luce_long_ship_huan.2023.TSEoGGCaSFotPo3PM,
+      author            = "Hao Lucen and Li Long and Zhang Shipeng and Zhang Huanghua and Xiao Jianzhuang and Poon Chin Sun",
+      title             = "The Synergistic Effect of Greenhouse Gas CO2 and Silica-Fume on the Properties of 3D Printed Mortar",
+      doi               = "10.1016/j.compositesb.2023.111188",
+      year              = "2023",
+      journal           = "Composites Part B: Engineering",
+      pages             = "111188",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Lucen, L. Long, Z. Shipeng, Z. Huanghua, X. Jianzhuang and P. C. Sun, “The Synergistic Effect of Greenhouse Gas CO2 and Silica-Fume on the Properties of 3D Printed Mortar”, <i>Composites Part B: Engineering</i>, p. 111188, 2023, doi: 10.1016/j.compositesb.2023.111188.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lucen, Hao, Li Long, Zhang Shipeng, Zhang Huanghua, Xiao Jianzhuang, and Poon Chin Sun. “The Synergistic Effect of Greenhouse Gas CO2 and Silica-Fume on the Properties of 3D Printed Mortar”. <i>Composites Part B: Engineering</i>, 2023, 111188. https://doi.org/10.1016/j.compositesb.2023.111188.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

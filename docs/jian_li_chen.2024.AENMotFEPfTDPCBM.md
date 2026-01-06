@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wei Jiang, Wenqian Li, Xi Chen
+    - footer
+title: Jiang Wei, Li Wenqian, Chen Xi
 description:
 tags:
  - base
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Extended Numerical Model of the First Exothermic Peak for Three Dimensional Printed Cement-Based Materials ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1007/s11709-024-1036-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-024-1036-8</a>
+#An Extended Numerical Model of the First Exothermic Peak for Three Dimensional Printed Cement-Based Materials ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-024-1036-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1036-8" target="_blank">10.1007/s11709-024-1036-8</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6815-7432" title="ORCID: 0000-0001-6815-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_wei"><b>Jiang</b>&nbsp;Wei</a></span>, <a href="../../../author/li_wenqian"><b>Li</b>&nbsp;Wenqian</a></span>, <a href="../../../author/chen_xi"><b>Chen</b>&nbsp;Xi</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_wei"><b>Jiang</b> Wei</a> <a href="https://orcid.org/0000-0001-6815-7432" title="ORCID: 0000-0001-6815-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_wenqian"><b>Li</b> Wenqian</a>
-,     <a href="../../../author/chen_xi"><b>Chen</b> Xi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#dimension`](keyword/dimension)
-    [`#first`](keyword/first)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#peak`](keyword/peak)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/peak"><button class="btn">#peak</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Extended%20Numerical%20Model%20of%20the%20First%20Exothermic%20Peak%20for%20Three%20Dimensional%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192564585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396770915" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-024-1036-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-024-1036-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The first exothermic peak of cement-based material occurs a few minutes after mixing, and the properties of three dimensional (3D) printed concrete, such as setting time, are very sensitive to this. Against this background, based on the classical Park cement exothermic model of hydration, we propose and construct a numerical model of the first exothermic peak, taking into account the proportions of C3S, C3A and quicklime in particular. The calculated parameters are calibrated by means of relevant published exothermic test data. It is found that this developed model offers a good simulation of the first exothermic peak of hydration for C3S and C3A proportions from 0 to 100% of cement clinker and reflects the effect of quicklime content at 8%–10%. The unique value of this research is provision of an important computational tool for applications that are sensitive to the first exothermic peak of hydration, such as 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/hirsch_tamino"><b>Hirsch</b> Tamino</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorn_hirs_step.2019.SotIoAotHoPCaTAi3P/">Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing</a></li>
@@ -82,7 +59,35 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_li_chen.2024.AENMotFEPfTDPCBM,
+      author            = "Wei Jiang and Wenqian Li and Xi Chen",
+      title             = "An Extended Numerical Model of the First Exothermic Peak for Three Dimensional Printed Cement-Based Materials",
+      doi               = "10.1007/s11709-024-1036-8",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Jiang, W. Li and X. Chen, “An Extended Numerical Model of the First Exothermic Peak for Three Dimensional Printed Cement-Based Materials”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-024-1036-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Wei, Wenqian Li, and Xi Chen. “An Extended Numerical Model of the First Exothermic Peak for Three Dimensional Printed Cement-Based Materials”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-024-1036-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

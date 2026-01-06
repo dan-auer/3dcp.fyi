@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ariane Rubin, Jéssica Hasse, Wellington Repette
+    - footer
+title: Rubin Ariane, Hasse Jéssica, Repette Wellington
 description:
 tags:
  - accelerator
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Evaluation of Rheological Parameters of 3D Printable Concretes and the Effect of Accelerating-Admixture ([2021-01](date/2021/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.122221" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.122221</a>
+#The Evaluation of Rheological Parameters of 3D Printable Concretes and the Effect of Accelerating-Admixture ([2021-01](date/2021/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.122221" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.122221" target="_blank">10.1016/j.conbuildmat.2020.122221</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5636-5023" title="ORCID: 0000-0001-5636-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b>&nbsp;Ariane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0885-2342" title="ORCID: 0000-0002-0885-2342" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasse_amanda_jessica"><b>Hasse</b>&nbsp;Jéssica</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0697-2794" title="ORCID: 0000-0003-0697-2794" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/repette_longuini_wellington"><b>Repette</b>&nbsp;Wellington</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 276
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b> Ariane</a> <a href="https://orcid.org/0000-0001-5636-5023" title="ORCID: 0000-0001-5636-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hasse_amanda_jessica"><b>Hasse</b> Jéssica</a> <a href="https://orcid.org/0000-0002-0885-2342" title="ORCID: 0000-0002-0885-2342" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/repette_longuini_wellington"><b>Repette</b> Wellington</a> <a href="https://orcid.org/0000-0003-0697-2794" title="ORCID: 0000-0003-0697-2794" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 276, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#admixture`](keyword/admixture)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#evaluation`](keyword/evaluation)
-    [`#parameter`](keyword/parameter)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Evaluation%20of%20Rheological%20Parameters%20of%203D%20Printable%20Concretes%20and%20the%20Effect%20of%20Accelerating-Admixture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099840989&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3128922475" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.122221" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.122221?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Direct shear test and rotational rheometry were performed and compared as methods to estimate the rheological parameters of 3D printable concretes. For this, 3 concrete mixes, having a cohesive flow nature were produced with different proportions of accelerating admixtures, in order to evaluate the improvement on the yield strength gain of said mixes. Results have shown that both methods can predict the fresh state evolution of concrete. However, the obtained values for yield strength on the rotational rheometry tests were higher than those collected on the direct shear test. The yield stress for some concretes tends to evolve linearly with increasing resting time, and when using accelerating admixtures, the increase becomes exponential, even during the first few minutes, due to the high ettringite formation caused by the accelerator action. A model for the exponential evolution of the yield stress is proposed and an analytical model, which predicts the buildability capacity of printable concretes, is reviewed and updated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -94,8 +73,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>
       <li><a href="../../../author/lamb_bannon"><b>Lamb</b> Bannon</a>, <a href="../../../author/sabih_gauhar"><b>Sabih</b> Gauhar</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lamb_sabi.2025.Ai3CPM/">Advancements in 3D Concrete Printing Materials</a></li>
       <li><a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kand_bodd_nant.2025.NRTPfPCo3PM/">Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar</a></li>
@@ -120,4 +99,33 @@ tags:
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhat_jain_sant.2022.CoMEaaEAotBoaA3PC/">Criticality of Microstructural Evolution at an Early-Age on the Buildability of an Accelerated 3D Printable Concrete</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rubi_hass_repe.2021.TEoRPo3PCatEoAA,
+      author            = "Ariane Prevedello Rubin and Jéssica Amanda Hasse and Wellington Longuini Repette",
+      title             = "The Evaluation of Rheological Parameters of 3D Printable Concretes and the Effect of Accelerating-Admixture",
+      doi               = "10.1016/j.conbuildmat.2020.122221",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "276",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. P. Rubin, J. A. Hasse and W. L. Repette, “The Evaluation of Rheological Parameters of 3D Printable Concretes and the Effect of Accelerating-Admixture”, <i>Construction and Building Materials</i>, vol. 276, 2021, doi: 10.1016/j.conbuildmat.2020.122221.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rubin, Ariane Prevedello, Jéssica Amanda Hasse, and Wellington Longuini Repette. “The Evaluation of Rheological Parameters of 3D Printable Concretes and the Effect of Accelerating-Admixture”. <i>Construction and Building Materials</i> 276 (2021). https://doi.org/10.1016/j.conbuildmat.2020.122221.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

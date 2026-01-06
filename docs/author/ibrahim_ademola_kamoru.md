@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ibrahim Kamoru 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ibra_zijl_baba.2024.TDBo3PFRLCCCCUSL/">Time-Dependent Behavior of 3D Printed Fiber-Reinforced Limestone-Calcined-Clay-Cement Concrete Under Sustained Loadings</a></li>
   <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ibra_zijl_baba.2024.MoLoFi3PLCCCCIbEMO/">Mitigation of Lack-of-Fusion in 3D Printed Limestone-Calcined-Clay-Cement Concrete Induced by Effective Micro-Organisms</a></li>
   <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../baba_norv_kola_paul.2024.3PLCCCCIRPW/">3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>RESIN8</a></li>

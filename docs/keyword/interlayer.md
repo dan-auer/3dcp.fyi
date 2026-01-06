@@ -8,7 +8,7 @@ search:
 
 # #interlayer
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/li_baidian"><b>Li</b> Baidian</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a>, <a href="../../../author/gu_kan"><b>Gu</b> Kan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_wu_gu.2026.EIPaSo3PUwAT/">Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings</a></li>
   <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
   <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>

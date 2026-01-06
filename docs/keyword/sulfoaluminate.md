@@ -8,7 +8,7 @@ search:
 
 # #sulfoaluminate
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/senf_ferdinand"><b>Senf</b> Ferdinand</a>, <a href="../../../author/javed_rezan"><b>Javed</b> Rezan</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../senf_jave_funk_gelb.2025.EESo3PCMBoCSCaBFCCIB/">Enhanced Environmental Sustainability of 3D-Printed Concrete Mixtures Based on Calcium Sulfoaluminate (CSA) and Blast Furnace Cement (CEM III/B)</a></li>
   <li><a href="../../../author/wu_mushuang"><b>Wu</b> Mushuang</a>, <a href="../../../author/wang_zixiao"><b>Wang</b> Zixiao</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhu_mengyu"><b>Zhu</b> Mengyu</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wu_wang_chen_zhu.2024.EoSSoRaMPoSCBS3PC/">Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete</a></li>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../tao_moha_rahu_schu.2024.HaMoCSPCBSfSoDA/">Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications</a></li>

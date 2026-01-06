@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ozbulut Osman 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/datta_ipsita"><b>Datta</b> Ipsita</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baha_datt_ozbu.2026.Fo3POSWLHIfDMCiAM/">Feasibility of 3D Printing Oyster Shell Waste Laden Hydrogel Inks for Developing Mycelium Composite in Architectural Materials</a></li>
   <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
   <li><a href="../../../author/baytak_tugba"><b>Baytak</b> Tugba</a>, <a href="../../../author/gdeh_tawfeeq"><b>Gdeh</b> Tawfeeq</a>, <a href="../../../author/jiang_zhangfan"><b>Jiang</b> Zhangfan</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bayt_gdeh_jian_arce.2024.RMaEPoPGECCwLaCC/">Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay</a></li>

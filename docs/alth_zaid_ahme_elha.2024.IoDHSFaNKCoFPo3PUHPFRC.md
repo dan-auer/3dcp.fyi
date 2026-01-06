@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fadi Althoey, Osama Zaid, Bilal Ahmed, Khaled Elhadi
+    - footer
+title: Althoey Fadi, Zaid Osama, Ahmed Bilal, Elhadi Khaled
 description:
 tags:
  - clay
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.110917) Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.jobe.2024.110917" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110917</a>
+#Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.110917) <a href="https://doi.org/10.1016/j.jobe.2024.110917" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110917" target="_blank">10.1016/j.jobe.2024.110917</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7223-213X" title="ORCID: 0000-0002-7223-213X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/althoey_fadi"><b>Althoey</b>&nbsp;Fadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8071-1341" title="ORCID: 0000-0002-8071-1341" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zaid_osama"><b>Zaid</b>&nbsp;Osama</a></span>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b>&nbsp;Bilal</a></span>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b>&nbsp;Khaled</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 97, No. 110917
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a> <a href="https://orcid.org/0000-0002-7223-213X" title="ORCID: 0000-0002-7223-213X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a> <a href="https://orcid.org/0000-0002-8071-1341" title="ORCID: 0000-0002-8071-1341" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>
-,     <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 97, No. 110917
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#double`](keyword/double)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#height`](keyword/height)
-    [`#kaolin`](keyword/kaolin)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/double"><button class="btn">#double</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/kaolin"><button class="btn">#kaolin</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Double%20Hooked%20Steel-Fibers%20and%20Nano-Kaolin-Clay%20on%20Fresh%20Properties%20of%203D%20Printable%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205541614&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403044212" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110917" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110917?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to their enhanced engineering properties, ultra-high-performance fiber-reinforced concrete (UHPFRC) mixtures are increasingly used in advanced construction techniques, including 3D concrete printing (3DCP). However, balancing workability, extrudability, buildability, and structural integrity remains challenging. This paper addresses this by investigating the fresh and hardened properties of UHPFRC mixtures containing (0.25 % and 0.5 %) nano-kaolin clay (NKC) and (1.5 % and 3 %) double-hooked end steel fibers (DHE-SFs). Rheological tests were conducted, including flowability, viscosity, yield stress, pumpability, and buildability trials at print speeds of 30, 60, and 120 mm/s. Results indicate that mixtures with higher NKC and DHE-SFs content, such as M9-SF3-NKC0.5, show significant improvements. Flowability tests reveal that while the control mixture M1-SF0-NKC0 shows a 32.5 % increase, M9-SF3-NKC0.5 shows a 24.1 % increase, indicating enhanced cohesion. Viscosity tests demonstrate shear-thinning behavior, with M9-SF3-NKC0.5 showing a 145.7 % increase, indicating better structural integrity. Yield stress tests reveal M9-SF3-NKC0.5 achieves a maximum initial yield stress of 0.405 kPa. Pumpability trials confirm all mixtures are pumpable at 30 mm/s, but only those with higher NKC and DHE-SFs maintain pumpability at 120 mm/s. Buildability trials show that M9-SF3-NKC0.5 maintains structural integrity without collapse at all speeds. Hardened property tests reveal compressive strengths increase from 110 MPa in the control to 150 MPa in M9-SF3-NKC0.5, while tensile strengths increase from 8 MPa to 12 MPa. These findings highlight the dual benefit of NKC and DHE-SFs in enhancing UHPFRC’s fresh workability and long-term strength, which is crucial for reliable 3DCP applications. The study concludes that optimizing NKC and DHE-SFs content in UHPC mixtures significantly improves the performance of 3D-printed concrete, ensuring enhanced durability and structural integrity, thus providing a firm foundation for future advancements in 3DCP technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "54 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/biricik_oznur"><b>Biricik</b> Öznur</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../biri_mard.2022.PATBoSCCa3PC/">Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete:<br/>A State of the Art Review</a></li>
@@ -130,8 +104,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -139,4 +113,34 @@ tags:
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
       <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/sheng_ruiyi"><b>Sheng</b> Ruiyi</a>, <a href="../../../author/wang_qiling"><b>Wang</b> Qiling</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC/">Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete:<br/>Emphasis on Rheological and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC,
+      author            = "Fadi Althoey and Osama Zaid and Bilal Ahmed and Khaled Mohamed Elhadi",
+      title             = "Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.jobe.2024.110917",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "97",
+      pages             = "110917",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Althoey, O. Zaid, B. Ahmed and K. M. Elhadi, “Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete”, <i>Journal of Building Engineering</i>, vol. 97, p. 110917, 2024, doi: 10.1016/j.jobe.2024.110917.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Althoey, Fadi, Osama Zaid, Bilal Ahmed, and Khaled Mohamed Elhadi. “Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete”. <i>Journal of Building Engineering</i> 97 (2024): 110917. https://doi.org/10.1016/j.jobe.2024.110917.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Raphaël Comminal, Marcin Serdeczny, David Pedersen, Jon Spangenberg
+    - footer
+title: Comminal Raphaël, Serdeczny Marcin, Pedersen David, Spangenberg Jon
 description:
 tags:
  - additive
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://backend.orbit.dtu.dk/ws/files/200739998/Post_print_Motion_planning_and_numerical_simulation_of_material_deposition_at_corners_in_extrusion_additive_manufacturing.pdf) Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing ([2019-06](date/2019/06))
-<a href="https://doi.org/10.1016/j.addma.2019.06.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2019.06.005</a>
+#Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing ([2019-06](date/2019/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://backend.orbit.dtu.dk/ws/files/200739998/Post_print_Motion_planning_and_numerical_simulation_of_material_deposition_at_corners_in_extrusion_additive_manufacturing.pdf) <a href="https://doi.org/10.1016/j.addma.2019.06.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.06.005" target="_blank">10.1016/j.addma.2019.06.005</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/comminal_raphael"><b>Comminal</b>&nbsp;Raphaël</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1691-773X" title="ORCID: 0000-0003-1691-773X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7013-7614" title="ORCID: 0000-0002-7013-7614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pedersen_bue_david"><b>Pedersen</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 29
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> <a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a> <a href="https://orcid.org/0000-0003-1691-773X" title="ORCID: 0000-0003-1691-773X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a> <a href="https://orcid.org/0000-0002-7013-7614" title="ORCID: 0000-0002-7013-7614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 29, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#corner`](keyword/corner)
-    [`#deposition`](keyword/deposition)
-    [`#extrusion`](keyword/extrusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#motion`](keyword/motion)
-    [`#numeric`](keyword/numeric)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/corner"><button class="btn">#corner</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/motion"><button class="btn">#motion</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Motion-Planning%20and%20Numerical%20Simulation%20of%20Material-Deposition%20at%20Corners%20in%20Extrusion%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070353001&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,21 +39,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2953541858" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2019.06.005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2019.06.005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The material deposition along a toolpath with a sharp corner is simulated with a computational fluid dynamics model. We investigate the effects of smoothing the toolpath and material over-extrusion on the corner rounding and the corner swelling, for 90° and 30° turns. The toolpath motion is controlled with trapezoidal velocity profiles constrained by a maximal acceleration. The toolpath smoothing of the corner is parametrized by a blending acceleration factor. Analytical solutions for the deviation of the smoothed toolpath from the trajectory of the sharp corner, as well as the additional printing time required by the deceleration and acceleration phases in the vicinity of the turn are provided. Moreover, several scenarios with different blending acceleration factors are simulated, for the cases of a constant extrusion rate and an extrusion rate proportional to the printing head speed. The constant extrusion rate causes material over-extrusion during the deceleration and acceleration phases of the printing head. However, the toolpath smoothing reduces the corner swelling. The amount of underfill and overfill at the inside and outside of the corner are quantified, as compared to an ideal case where the printing head would instantaneously change its speed direction at the corner. The numerical results show that there is an optimal amount of toolpath smoothing where the over-extrusion compensates for the corner rounding; hence improving the quality of the corner. A uniform road width is obtained with the proportional extrusion rate.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../serd_comm_pede_span.2019.NSotMFiMEAM/">Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
       <li><a href="../../../author/yamakawa_soji"><b>Yamakawa</b> Soji</a>, <a href="../../../author/vazquez-santiago_kyshalee"><b>Vazquez-Santiago</b> Kyshalee</a>, <a href="../../../author/xia_yixuan"><b>Xia</b> Yixuan</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yama_vazq_xia_ogur.2025.CS3PSfNTP/">Concrete Spray 3D Printing Simulator for Nozzle Trajectory Planning</a></li>
@@ -113,4 +90,33 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../liu_li_tay_weng.2020.RNaNSoMDaCi3CMP/">Rotation-Nozzle and Numerical Simulation of Mass-Distribution at Corners in 3D Cementitious Material-Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{comm_serd_pede_span.2019.MPaNSoMDaCiEAM,
+      author            = "Raphaël Comminal and Marcin P. Serdeczny and David Bue Pedersen and Jon Spangenberg",
+      title             = "Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing",
+      doi               = "10.1016/j.addma.2019.06.005",
+      year              = "2019",
+      journal           = "Additive Manufacturing",
+      volume            = "29",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Comminal, M. P. Serdeczny, D. B. Pedersen and J. Spangenberg, “Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing”, <i>Additive Manufacturing</i>, vol. 29, 2019, doi: 10.1016/j.addma.2019.06.005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Comminal, Raphaël, Marcin P. Serdeczny, David Bue Pedersen, and Jon Spangenberg. “Motion-Planning and Numerical Simulation of Material-Deposition at Corners in Extrusion Additive Manufacturing”. <i>Additive Manufacturing</i> 29 (2019). https://doi.org/10.1016/j.addma.2019.06.005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

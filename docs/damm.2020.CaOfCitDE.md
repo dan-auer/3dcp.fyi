@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Henri Damme
+    - footer
+title: Damme Henri
 description:
 tags:
  - challenge
@@ -12,25 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Challenges and Opportunities for Concrete in the Digital Era ([2020-04](date/2020/04))
-<a href="https://doi.org/10.1007/978-3-030-39734-0_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-39734-0_3</a>
+#Challenges and Opportunities for Concrete in the Digital Era ([2020-04](date/2020/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-39734-0_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-39734-0_3" target="_blank">10.1007/978-3-030-39734-0_3</a>
 
--------------------------
+<a href="../../../author/damme_henri"><b>van&nbsp;Damme</b>&nbsp;Henri</a></span><br>
+Contribution - Proceedings of the Gulf Conference on Sustainable Built Environment, pp. 27-56
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/damme_henri"><b>van Damme</b> Henri</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the Gulf Conference on Sustainable Built Environment, pp. 27-56
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#opportunity`](keyword/opportunity)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Challenges%20and%20Opportunities%20for%20Concrete%20in%20the%20Digital%20Era" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009090202&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3015816840" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-39734-0_3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-39734-0_3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Unloved by the majority and yet ubiquitous, concrete is the backbone of our modern built environment. More concrete is produced than any other synthetic material on earth. Twice as much concrete and mortar is used in construction—roughly 35 billion tons [1]—as the total of all other industrial building materials including wood [2], steel [3, 4], plastic [5], and aluminum [6]. Roads, bridges, tunnels, dams, power plants, ports, airports, dikes and seawalls, waste- and freshwater plants and networks—all these infrastructures rely on the extensive use of concrete, just like schools, hospitals, and public and commercial buildings. There seems to be no other currently known material available in the quantities required to meet the global demand for building and infrastructure. Although the word concrete is a generic term that applies to any granular composite to which cohesion is provided thanks to a binding phase—bitumen, clay, epoxy, lime, etc.—modern concrete relies almost exclusively on the use of Portland cement or its variants. Not surprisingly considering the success of concrete, the global demand for cement has seen an unprecedented growth in the last half-century, especially since the turn of the third millennium (Fig. 1). In relative terms, the increase of cement demand is surpassed by that of plastic [10] (Fig. 1), but in absolute terms, cement remains by far the largest industrially manufactured product. There is a wide consensus that this exceptional growth of cement and concrete consumption on the global scale is temporary and due to a handful of actors only among the emerging countries, China in particular [7, 8]. But there are also good reasons to consider that a slower but lasting growth will go on for long. Developed countries face the challenge of maintaining and upgrading their extensive but aging transport, power, water, and telecommunication networks, whereas many developing countries still dedicate a large fraction of their national income to satisfy basic human development needs like access to water, sanitation, electricity, and affordable housing. Altogether, this is likely to drive a lasting increase of concrete demand for decades to come.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
@@ -68,7 +53,37 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/schwartz_joseph"><b>Schwartz</b> Joseph</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../schw.2018.GSaTPfDDaFwC/">Graphic Statics and Their Potential for Digital Design and Fabrication with Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{damm.2020.CaOfCitDE,
+      author            = "Henri van Damme",
+      title             = "Challenges and Opportunities for Concrete in the Digital Era",
+      doi               = "10.1007/978-3-030-39734-0_3",
+      year              = "2020",
+      pages             = "27--56",
+      booktitle         = "Proceedings of the Gulf Conference on Sustainable Built Environment",
+      editor            = "Ali Bumajdad and Walid Bouhamra and Osamah A. Alsayegh and Hasan A. Kamal and Salem Falah Alhajraf",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. van Damme, “Challenges and Opportunities for Concrete in the Digital Era”, in <i>Proceedings of the Gulf Conference on Sustainable Built Environment</i>,  2020, pp. 27–56. doi: 10.1007/978-3-030-39734-0_3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Damme, Henri van. “Challenges and Opportunities for Concrete in the Digital Era”. In <i>Proceedings of the Gulf Conference on Sustainable Built Environment</i>, edited by Ali Bumajdad, Walid Bouhamra, Osamah A. Alsayegh, Hasan A. Kamal, and Salem Falah Alhajraf, 27–56, 2020. https://doi.org/10.1007/978-3-030-39734-0_3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

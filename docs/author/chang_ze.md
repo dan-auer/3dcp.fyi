@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Chang Ze 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
   <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_he_schl.2023.LMoEACo3PSwtCoSH/">Lattice-Modelling of Early-Age Creep of 3D Printed Segments with the Consideration of Stress-History</a></li>
   <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_chen_schl.2023.DEACIBo3PC/">Does Early-Age Creep Influence Buildability of 3D Printed Concrete?:<br/>Insights from Numerical Simulations</a></li>

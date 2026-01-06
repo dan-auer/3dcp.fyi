@@ -8,7 +8,7 @@ search:
 
 # #quantification
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO/">Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization</a></li>
   <li><a href="../../../author/rider_bo"><b>Rider</b> Bo</a>, <a href="../../../author/kurtis_e_k"><b>Kurtis</b> K.</a>, <a href="../../../author/stewart_k_l"><b>Stewart</b> L.</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ride_kurt_stew.2024.QoPaSiFR3PM/">Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar:<br/>Connecting Material-Composition and Structural Performance</a></li>
   <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>

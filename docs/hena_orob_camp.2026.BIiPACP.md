@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Laura Henao-Rios, Armando Orobio, Wilmer Campaña
+    - footer
+title: Henao-Rios Laura, Orobio Armando, Campaña Wilmer
 description:
 tags:
  - additive
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s41024-025-00678-6.pdf) BIM Integration in Prefabricated Additive Construction Projects:<br/>:aca-blank: Case Study ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1007/s41024-025-00678-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41024-025-00678-6</a>
+#BIM Integration in Prefabricated Additive Construction Projects&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Case Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41024-025-00678-6.pdf) <a href="https://doi.org/10.1007/s41024-025-00678-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00678-6" target="_blank">10.1007/s41024-025-00678-6</a>
 
--------------------------
+<a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b>&nbsp;Laura</a></span>, <a href="../../../author/orobio_armando"><b>Orobio</b>&nbsp;Armando</a></span>, <a href="../../../author/campana_wilmer"><b>Campaña</b>&nbsp;Wilmer</a></span><br>
+Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b> Laura</a>
-,     <a href="../../../author/orobio_armando"><b>Orobio</b> Armando</a>
-,     <a href="../../../author/campana_wilmer"><b>Campaña</b> Wilmer</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bim`](keyword/bim)
-    [`#case`](keyword/case)
-    [`#construction`](keyword/construction)
-    [`#integration`](keyword/integration)
-    [`#prefabrication`](keyword/prefabrication)
-    [`#projection`](keyword/projection)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=BIM%20Integration%20in%20Prefabricated%20Additive%20Construction%20Projects" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013523481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413293164" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41024-025-00678-6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41024-025-00678-6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A methodological development of a series of scripts created in Dynamo for Revit, aimed at improving workflows in prefabricated additive construction projects, is presented. Through a case study involving the construction of houses using 3D printing, automated solutions were explored to optimize the process from architectural design in BIM to the physical execution of the project. The results highlight how the integration of these digital tools can accelerate the design time in the manufacturing of prefabricated components, thereby demonstrating the potential of BIM for prefabricated additive construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/oktaviani_dana_astiti"><b>Oktaviani</b> Astiti</a>, <a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bera_sari_okta_mira.2024.IoBa3PToPPaPoPCCiCP/">Impact of BIM and 3D Printing Technologies on Production Process and Productivity of Pre-Cast Concrete in Construction Project</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -83,7 +64,37 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/lee_jia-shen_brian"><b>Lee</b> Brian</a>, <a href="../../../author/gan_jia-hui_nicole"><b>Gan</b> Nicole</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_moha_lee_gan.2021.EBIfLTPPiDCPwDDS/">Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script:<br/>A Case Study</a></li>
       <li><a href="../../../author/xu_zhen"><b>Xu</b> Zhen</a>, <a href="../../../author/song_tao"><b>Song</b> Tao</a>, <a href="../../../author/guo_shuai"><b>Guo</b> Shuai</a>, <a href="../../../author/peng_jiangtao"><b>Peng</b> Jiangtao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xu_song_guo_peng.2022.RTAf3PiC/">Robotics Technologies Aided for 3D Printing in Construction:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hena_orob_camp.2026.BIiPACP,
+      author            = "Laura M. Henao-Rios and Armando Orobio and Wilmer Campaña",
+      title             = "BIM Integration in Prefabricated Additive Construction Projects: Case Study",
+      doi               = "10.1007/s41024-025-00678-6",
+      year              = "2026",
+      journal           = "Journal of Building Pathology and Rehabilitation",
+      volume            = "11",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. M. Henao-Rios, A. Orobio and W. Campaña, “BIM Integration in Prefabricated Additive Construction Projects: Case Study”, <i>Journal of Building Pathology and Rehabilitation</i>, vol. 11, no. 1, 2026, doi: 10.1007/s41024-025-00678-6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Henao-Rios, Laura M., Armando Orobio, and Wilmer Campaña. “BIM Integration in Prefabricated Additive Construction Projects: Case Study”. <i>Journal of Building Pathology and Rehabilitation</i> 11, no. 1 (2026). https://doi.org/10.1007/s41024-025-00678-6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Elisabeth Radl, Marc-Patrick Pfleger, Juliian Karolyi, Markus Vill
+    - footer
+title: Radl Elisabeth, Pfleger Marc-Patrick, Karolyi Juliian, Vill Markus
 description:
 tags:
  - advance
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Specimen Design and Advanced Material-Testing for 3D Printing Concretes ([2024-04](date/2024/04))
-<a href="https://doi.org/10.2749/manchester.2024.0115" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2749/manchester.2024.0115</a>
+#Specimen Design and Advanced Material-Testing for 3D Printing Concretes ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/manchester.2024.0115" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/manchester.2024.0115" target="_blank">10.2749/manchester.2024.0115</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/radl_elisabeth"><b>Radl</b>&nbsp;Elisabeth</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b>&nbsp;Marc-Patrick</a></span>, <a href="../../../author/karolyi_juliian"><b>Karolyi</b>&nbsp;Juliian</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vill_markus"><b>Vill</b>&nbsp;Markus</a></span><br>
+Contribution - Proceedings of the 2024 IABSE Symposium, No. 82
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a> <a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a> <a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/karolyi_juliian"><b>Karolyi</b> Juliian</a>
-,     <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2024 IABSE Symposium, pp. 82
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#specimen`](keyword/specimen)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Specimen%20Design%20and%20Advanced%20Material-Testing%20for%203D%20Printing%20Concretes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,25 +37,51 @@ tags:
 <a href="https://inciteful.xyz/p/W4395470838" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2749/manchester.2024.0115" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2749/manchester.2024.0115?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper deals with the design of concrete samples for the material testing of 3D-printable concrete mixtures. Due to the rapid advancements and increasing pilot projects in the field of 3D printing in construction, it is of great importance to develop standards and design principles that allow a comparison of different material compositions in cast and 3D-printed specimen forms. Starting from general theoretical background of concrete 3D printing and over all characteristics of concrete objects which are built up by multiple material layers, typical issues are identified. From theoretical correlations with the properties of the currently common 3D printing processes, an orthotropic material behaviour can be derived.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/meurer_maximilian"><b>Meurer</b> Maximilian</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../meur_cla.2021.MPoH3PCaM/">Mechanical Properties of Hardened 3D Printed Concretes and Mortars:<br/>Development of a Consistent Experimental Characterization-Strategy</a></li>
       <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/geyer_sebastian"><b>Geyer</b> Sebastian</a>, <a href="../../../author/holzl_christian"><b>Hölzl</b> Christian</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pfle_geye_holz_vill.2023.ItItCFoTWCSb3PPE/">Investigations to Improve the Carbon Footprint of Thin Walled Concrete Structures by 3D Printing Prefabricated Elements</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pfle_radl_sam_vill.2025.3CPoTWLBRS/">3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures</a></li>
       <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pfle_sam_radl_vill.2024.AotSoCLFaRfAMC/">Assessment of the Suitability of Carbon Long Fibers as Reinforcement for Additively Manufactured Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{radl_pfle_karo_vill.2024.SDaAMTf3PC,
+      author            = "Elisabeth Radl and Marc-Patrick Pfleger and Juliian Karolyi and Markus Vill",
+      title             = "Specimen Design and Advanced Material-Testing for 3D Printing Concretes",
+      doi               = "10.2749/manchester.2024.0115",
+      year              = "2024",
+      pages             = "82",
+      booktitle         = "Proceedings of the 2024 IABSE Symposium: Construction's Role for a World in Emergency",
+      editor            = "International Association for Bridge and Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Radl, M.-P. Pfleger, J. Karolyi and M. Vill, “Specimen Design and Advanced Material-Testing for 3D Printing Concretes”, in <i>Proceedings of the 2024 IABSE Symposium: Construction's Role for a World in Emergency</i>,  2024, p. 82. doi: 10.2749/manchester.2024.0115.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Radl, Elisabeth, Marc-Patrick Pfleger, Juliian Karolyi, and Markus Vill. “Specimen Design and Advanced Material-Testing for 3D Printing Concretes”. In <i>Proceedings of the 2024 IABSE Symposium: Construction's Role for a World in Emergency</i>, edited by International Association for Bridge and Structural Engineering, 82, 2024. https://doi.org/10.2749/manchester.2024.0115.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

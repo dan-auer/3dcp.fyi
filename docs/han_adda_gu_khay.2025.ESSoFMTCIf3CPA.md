@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seongho Han, Alfred Addai-NImoh, Yucun Gu, Kamal Khayat
+    - footer
+title: Han Seongho, Addai-NImoh Alfred, Gu Yucun, Khayat Kamal
 description:
 tags:
  - application
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1116&context=c3_2025) Enhanced Shape Stability of Flowable Mortar Through CO2 Injection for 3D Concrete Printing Application ([2025-10](date/2025/10))
-<a href="https://doi.org/10.5703/1288284318055" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.5703/1288284318055</a>
+#Enhanced Shape Stability of Flowable Mortar Through CO2 Injection for 3D Concrete Printing Application ([2025-10](date/2025/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1116&context=c3_2025) <a href="https://doi.org/10.5703/1288284318055" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318055" target="_blank">10.5703/1288284318055</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7355-7737" title="ORCID: 0000-0002-7355-7737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_seongho"><b>Han</b>&nbsp;Seongho</a></span>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b>&nbsp;Alfred</a></span>, <a href="../../../author/gu_yucun"><b>Gu</b>&nbsp;Yucun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
+Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/han_seongho"><b>Han</b> Seongho</a> <a href="https://orcid.org/0000-0002-7355-7737" title="ORCID: 0000-0002-7355-7737" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>
-,     <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>
-,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#flow`](keyword/flow)
-    [`#injection`](keyword/injection)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#shape`](keyword/shape)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhanced%20Shape%20Stability%20of%20Flowable%20Mortar%20Through%20CO2%20Injection%20for%203D%20Concrete%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,19 +40,44 @@ tags:
 <a href="https://inciteful.xyz/p/W4414558531" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.5703/1288284318055" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.5703/1288284318055?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the direct injection of CO2 into the 3D printer head during the printing process, enabling real-time control of yield stress evolution in flowable mixtures. CO2 concentrations ranging from 0.5% to 1.4% by cement weight were tested by varying injection times. CO2 injection reduced slump flow of mortar from 250 to 100 mm, as reflected in the decreased width and increased height ofprinted layers. Mortar with 0.5% CO2 maintained flowability but experienced shape collapse during layer stacking, while higher CO2 concentrations led to nozzle blockages.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{han_adda_gu_khay.2025.ESSoFMTCIf3CPA,
+      author            = "Seongho Han and Alfred Addai-NImoh and Yucun Gu and Kamal H. Khayat",
+      title             = "Enhanced Shape Stability of Flowable Mortar Through CO2 Injection for 3D Concrete Printing Application",
+      doi               = "10.5703/1288284318055",
+      year              = "2025",
+      booktitle         = "Proceedings of the Carbon Conscious Concrete Symposium 2025",
+      editor            = "xxx",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Han, A. Addai-NImoh, Y. Gu and K. H. Khayat, “Enhanced Shape Stability of Flowable Mortar Through CO2 Injection for 3D Concrete Printing Application”, in <i>Proceedings of the Carbon Conscious Concrete Symposium 2025</i>,  2025. doi: 10.5703/1288284318055.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Han, Seongho, Alfred Addai-NImoh, Yucun Gu, and Kamal H. Khayat. “Enhanced Shape Stability of Flowable Mortar Through CO2 Injection for 3D Concrete Printing Application”. In <i>Proceedings of the Carbon Conscious Concrete Symposium 2025</i>, edited by xxx, 2025. https://doi.org/10.5703/1288284318055.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

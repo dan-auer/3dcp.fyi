@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongyao Shen, Lingnan Pan, Jun Qian
+    - footer
+title: Shen Hongyao, Pan Lingnan, Qian Jun
 description:
 tags:
  - additive
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Research on Large-Scale Additive Manufacturing Based on Multi-Robot Collaboration Technology ([2019-10](date/2019/10))
-<a href="https://doi.org/10.1016/j.addma.2019.100906" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2019.100906</a>
+#Research on Large-Scale Additive Manufacturing Based on Multi-Robot Collaboration Technology ([2019-10](date/2019/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2019.100906" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.100906" target="_blank">10.1016/j.addma.2019.100906</a>
 
--------------------------
+<a href="../../../author/shen_hongyao"><b>Shen</b>&nbsp;Hongyao</a></span>, <a href="../../../author/pan_lingnan"><b>Pan</b>&nbsp;Lingnan</a></span>, <a href="../../../author/qian_jun"><b>Qian</b>&nbsp;Jun</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 30
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shen_hongyao"><b>Shen</b> Hongyao</a>
-,     <a href="../../../author/pan_lingnan"><b>Pan</b> Lingnan</a>
-,     <a href="../../../author/qian_jun"><b>Qian</b> Jun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 30, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#collaboration`](keyword/collaboration)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#multi`](keyword/multi)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/collaboration"><button class="btn">#collaboration</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20Large-Scale%20Additive%20Manufacturing%20Based%20on%20Multi-Robot%20Collaboration%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85074762306&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2977990529" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2019.100906" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2019.100906?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is considered a promising technology for many applications, such as in the construction industry. However, the size of a design is constrained by the chamber volume of the 3D printer, and large-scale additive manufacturing technology with flexible equipment is still unproven. This paper proposes a large-scale 3D printing system composed of multiple robots working in collaboration. For this flexible and extensible 3D printing system, the influences of the multi-robot layout on the maximum reachable area and the geometry adaptability are discussed. Furthermore, a printer task optimized scheduling algorithm based on efficiency egalitarianism is proposed in this paper, and a robot interference avoidance strategy is designed by dividing the printing layer into several safe areas and interference areas. Collaborative printing experiments are implemented on the multi-robot platform, and the results show that the efficiency improvement with four robots exceeds 73 % compared with a general printing method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -78,8 +56,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/roschli_c_alex"><b>Roschli</b> Alex</a>, <a href="../../../author/post_k_brian"><b>Post</b> Brian</a>, <a href="../../../author/wang_l_peter"><b>Wang</b> Peter</a>, <a href="../../../author/chesser_c_phillip"><b>Chesser</b> Phillip</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../rosc_post_wang_ches.2025.TCoSUiLFAM/">The Cost of Scaling-Up in Large-Format Additive Manufacturing</a></li>
@@ -95,4 +73,33 @@ tags:
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhou_du_lai_wang.2022.PaHVIEfTDPC/">Preparation and High-Velocity Impact Experiment for Three-Dimensional-Printed Concrete</a></li>
       <li><a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a>, <a href="../../../author/mohammed_abdullah"><b>Mohammed</b> Abdullah</a>, <a href="../../../author/wang_lihui"><b>Wang</b> Lihui</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hagh_moha_wang.2021.EEMR3PfLSC/">Energy Efficient Multi-Robotic 3D Printing for Large-Scale Construction:<br/>Could This Technique Contribute to Sustainability of Future Buildings?</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shen_pan_qian.2019.RoLSAMBoMRCT,
+      author            = "Hongyao Shen and Lingnan Pan and Jun Qian",
+      title             = "Research on Large-Scale Additive Manufacturing Based on Multi-Robot Collaboration Technology",
+      doi               = "10.1016/j.addma.2019.100906",
+      year              = "2019",
+      journal           = "Additive Manufacturing",
+      volume            = "30",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Shen, L. Pan and J. Qian, “Research on Large-Scale Additive Manufacturing Based on Multi-Robot Collaboration Technology”, <i>Additive Manufacturing</i>, vol. 30, 2019, doi: 10.1016/j.addma.2019.100906.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shen, Hongyao, Lingnan Pan, and Jun Qian. “Research on Large-Scale Additive Manufacturing Based on Multi-Robot Collaboration Technology”. <i>Additive Manufacturing</i> 30 (2019). https://doi.org/10.1016/j.addma.2019.100906.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

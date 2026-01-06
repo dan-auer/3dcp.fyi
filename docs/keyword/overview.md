@@ -8,7 +8,7 @@ search:
 
 # #overview
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
   <li><a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/palermo_alessandro"><b>Palermo</b> Alessandro</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lopo_scot_cluc_pale.2024.SRf3CPHiNZ/">Sustainable Resilience for 3D Concrete Printed Homes in New Zealand:<br/>A Three Years Research Government Funding Overview</a></li>
   <li><a href="../../../author/lo_tzu-hsien"><b>Lo</b> Tzu-Hsien</a>, <a href="../../../author/liu_bosheng"><b>Liu</b> Bosheng</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../lo_liu.2024.OoILPwDBMfCF/">Overview of Injection Liquid Printing with Dredged-Based Material for Concrete Formwork</a></li>

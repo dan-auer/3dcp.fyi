@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohsen Shahmirzadi, Aliakbar Gholampour, Alireza Kashani, Tuan Ngo
+    - footer
+title: Shahmirzadi Mohsen, Gholampour Aliakbar, Kashani Alireza, Ngo Tuan
 description:
 tags:
  - clay
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2023.133967) Geopolymer Mortars for Use in Construction 3D Printing:<br/>:aca-blank: Effect of LSS, Graphene-Oxide and Nano-Clay at Different Environmental Conditions ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133967" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133967</a>
+#Geopolymer Mortars for Use in Construction 3D Printing&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">Effect of LSS, Graphene-Oxide and Nano-Clay at Different Environmental Conditions</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2023.133967) <a href="https://doi.org/10.1016/j.conbuildmat.2023.133967" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133967" target="_blank">10.1016/j.conbuildmat.2023.133967</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7070-2951" title="ORCID: 0000-0002-7070-2951" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gholampour_aliakbar"><b>Gholampour</b>&nbsp;Aliakbar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ngo_d_tuan"><b>Ngo</b>&nbsp;Tuan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 409, No. 133967
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b> Mohsen</a> <a href="https://orcid.org/0000-0002-7070-2951" title="ORCID: 0000-0002-7070-2951" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 409, No. 133967
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#condition`](keyword/condition)
-    [`#construction`](keyword/construction)
-    [`#difference`](keyword/difference)
-    [`#effect`](keyword/effect)
-    [`#environment`](keyword/environment)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#graphene`](keyword/graphene)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Geopolymer%20Mortars%20for%20Use%20in%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175459998&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388066104" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133967" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133967?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The environmental impact of concrete 3D printing (C3DP) has become a concern due to its large cement consumption and over-exploitation of natural resources. This study investigates the viability of using geopolymer mixtures in C3DP prepared with fly ash (FA)/ground granulated blast furnace slag (GGBS) and underutilised aggregate as substitutes for ordinary Portland cement (OPC) and natural aggregate, respectively. This paper focuses on the rheological, mechanical, and shrinkage properties of FA/GGBS-based geopolymer mortar with lead smelter slag (LSS) as natural sand (NS) substitute and the impact of adding nanoclay (NC) and graphene oxide (GO), as thixotropy agents, on the yield stress development and viscosity recovery properties of the mixtures. The effect of various outdoor environmental conditions of 24 ◦C -50 %RH, 35 ◦C -90 %RH and 35 ◦C -50 %RH on pore water evaporation and 28-day drying shrinkage of 3D printable geopolymer mortar was studied, considering the effect of NS, LSS, NC and GO in free-formed and control conditions. LSS GO-modified mortars exhibited superior viscosity recovery capacity and yield stress evolution compared to their NCmodified counterparts. Moreover, using LSS instead of NS resulted in increased 28-day compressive strength under various environmental conditions, and LSS mortars exhibited lower drying shrinkage in both conventional casting and free-formed conditions. The findings of this paper will serve as a benchmark for further studies on the effect of different curing techniques (internal or external) on the hardened state dimensional stability of 3D printed products using alkali-activated binder systems to improve the structural integrity by controlling the water evaporation and drying shrinkage development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -108,8 +84,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
@@ -123,4 +99,34 @@ tags:
       <li><a href="../../../author/han_kang"><b>Han</b> Kang</a>, <a href="../../../author/gu_fei"><b>Gu</b> Fei</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/tian_xinchen"><b>Tian</b> Xinchen</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../han_gu_yang_tian.2024.PFRRMBGf3P/">PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing:<br/>Printability, Mechanical Properties and Microanalysis</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jaji_zijl_baba.2024.DaPSoMB3PGC/">Durability and Pore-Structure of Metakaolin-Based 3D Printed Geopolymer Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_ghol_kash_ngo.2023.GMfUiC3P,
+      author            = "Mohsen Rezaei Shahmirzadi and Aliakbar Gholampour and Alireza Kashani and Tuan D. Ngo",
+      title             = "Geopolymer Mortars for Use in Construction 3D Printing: Effect of LSS, Graphene-Oxide and Nano-Clay at Different Environmental Conditions",
+      doi               = "10.1016/j.conbuildmat.2023.133967",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "409",
+      pages             = "133967",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Shahmirzadi, A. Gholampour, A. Kashani and T. D. Ngo, “Geopolymer Mortars for Use in Construction 3D Printing: Effect of LSS, Graphene-Oxide and Nano-Clay at Different Environmental Conditions”, <i>Construction and Building Materials</i>, vol. 409, p. 133967, 2023, doi: 10.1016/j.conbuildmat.2023.133967.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahmirzadi, Mohsen Rezaei, Aliakbar Gholampour, Alireza Kashani, and Tuan D. Ngo. “Geopolymer Mortars for Use in Construction 3D Printing: Effect of LSS, Graphene-Oxide and Nano-Clay at Different Environmental Conditions”. <i>Construction and Building Materials</i> 409 (2023): 133967. https://doi.org/10.1016/j.conbuildmat.2023.133967.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

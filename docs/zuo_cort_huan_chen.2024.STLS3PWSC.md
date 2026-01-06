@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zibo Zuo, Wouter Corte, Yulin Huang, Xiaoming Chen, Yamei Zhang, Jin Li, Longlong Zhang, Jianzhuang Xiao, Yong Yuan, Ketao Zhang, Lulu Zhang, Viktor Mechtcherine
+    - footer
+title: Zuo Zibo, Corte Wouter, Huang Yulin, Chen Xiaoming, Zhang Yamei, Li Jin, Zhang Longlong, Xiao Jianzhuang, Yuan Yong, Zhang Ketao, Zhang Lulu, Mechtcherine Viktor
 description:
 tags:
  - constraint
@@ -15,39 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2346821?needAccess=true) Strategies Towards Large-Scale 3D Printing Without Size-Constraints ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1080/17452759.2024.2346821" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2024.2346821</a>
+#Strategies Towards Large-Scale 3D Printing Without Size-Constraints ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2346821?needAccess=true) <a href="https://doi.org/10.1080/17452759.2024.2346821" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2346821" target="_blank">10.1080/17452759.2024.2346821</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span>, <a href="../../../author/huang_yulin"><b>Huang</b>&nbsp;Yulin</a></span>, <a href="../../../author/chen_xiaoming"><b>Chen</b>&nbsp;Xiaoming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/li_jin"><b>Li</b>&nbsp;Jin</a></span>, <a href="../../../author/zhang_longlong"><b>Zhang</b>&nbsp;Longlong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6033-071X" title="ORCID: 0000-0002-6033-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_ketao"><b>Zhang</b>&nbsp;Ketao</a></span>, <a href="../../../author/zhang_lulu"><b>Zhang</b>&nbsp;Lulu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> <a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>
-,     <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jin"><b>Li</b> Jin</a>
-,     <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a> <a href="https://orcid.org/0000-0002-6033-071X" title="ORCID: 0000-0002-6033-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_lulu"><b>Zhang</b> Lulu</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#constraint`](keyword/constraint)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#size`](keyword/size)
-    [`#strategy`](keyword/strategy)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/constraint"><button class="btn">#constraint</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strategies%20Towards%20Large-Scale%203D%20Printing%20Without%20Size-Constraints" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192059102&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396619460" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2024.2346821" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2024.2346821?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing has been prooundly changing the production mode o traditional industries. However, this technique is usually limited to metre-scale abrication, which prevents large-scale 3D printing (LS3DP) applications such as the manuacturing o buildings, aircrat, ships, and rockets. LS3DP aces great challenges, particularly, it not only requires conronting problems not yet solved by conventional 3D printing, such as the inability to print unctional structures due to limitations by single-material manuacturing, but also needs to overcome the size eect limitation o large-scale printing. Here, we systematically review the state o the art in the integration o materials and technologies in LS3DP. We also demonstrate some disruptive engineering cases o LS3DP in the eld o construction. The challenges and strategies or overcoming size constraints to achieve LS3DP o unctional structures are discussed, including multiunctional 3D printing processes rom nano- to large-scale and large-scale 4D printing processes, diverse printable materials and sustainable structures, horizontal and vertical sizeindependent printers, collaborative and intelligent control o the entire process, and extreme environment printing. These strategies can provide tremendous opportunities or the ully automated, intelligent, and unmanned production o these dierent material megastructures and internal multiscale multiunctional components such as buildings/structures, aerospace vehicles, and marine equipment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "77 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
@@ -151,12 +122,42 @@ tags:
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../zuo_gong_huan.2017.Po3PiCbUCCT/">Performance of 3D Printing in Construction by Using Computer-Control-Technology</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
       <li><a href="../../../author/cao_yifang"><b>Cao</b> Yifang</a>, <a href="../../../author/shen_luming"><b>Shen</b> Luming</a>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a>, <a href="../../../author/abbas_ali"><b>Abbas</b> Ali</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cao_shen_mukh_abba.2025.IotIBSia3PMwBSiIS/">Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
       <li><a href="../../../author/hiremath_shivashankarayya"><b>Hiremath</b> Shivashankarayya</a>, <a href="../../../author/mathapati_shrishail_gururaj"><b>Mathapati</b> Gururaj</a>, <a href="../../../author/chiniwar_s_dundesh"><b>Chiniwar</b> Dundesh</a>, <a href="../../../author/vishwanatha_m_h"><b>Vishwanatha</b> H.</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../hire_math_chin_vish.2025.PEoCCbDaESfC3P/">Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zuo_cort_huan_chen.2024.STLS3PWSC,
+      author            = "Zibo Zuo and Wouter de Corte and Yulin Huang and Xiaoming Chen and Yamei Zhang and Jin Li and Longlong Zhang and Jianzhuang Xiao and Yong Yuan and Ketao Zhang and Lulu Zhang and Viktor Mechtcherine",
+      title             = "Strategies Towards Large-Scale 3D Printing Without Size-Constraints",
+      doi               = "10.1080/17452759.2024.2346821",
+      year              = "2024",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zuo, “Strategies Towards Large-Scale 3D Printing Without Size-Constraints”, <i>Virtual and Physical Prototyping</i>, vol. 19, no. 1, 2024, doi: 10.1080/17452759.2024.2346821.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zuo, Zibo, Wouter de Corte, Yulin Huang, Xiaoming Chen, Yamei Zhang, Jin Li, Longlong Zhang, et al.. “Strategies Towards Large-Scale 3D Printing Without Size-Constraints”. <i>Virtual and Physical Prototyping</i> 19, no. 1 (2024). https://doi.org/10.1080/17452759.2024.2346821.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

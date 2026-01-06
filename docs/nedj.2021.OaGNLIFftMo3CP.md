@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Boumediene Nedjar
+    - footer
+title: Nedjar Boumediene
 description:
 tags:
  - concrete
@@ -15,28 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.archives-ouvertes.fr/hal-03350680/file/doc00033675.pdf) On a Geometrically Non-Linear Incremental Formulation for the Modeling of 3D Concrete Printing ([2021-07](date/2021/07))
-<a href="https://doi.org/10.1016/j.mechrescom.2021.103748" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.mechrescom.2021.103748</a>
+#On a Geometrically Non-Linear Incremental Formulation for the Modeling of 3D Concrete Printing ([2021-07](date/2021/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-03350680/file/doc00033675.pdf) <a href="https://doi.org/10.1016/j.mechrescom.2021.103748" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mechrescom.2021.103748" target="_blank">10.1016/j.mechrescom.2021.103748</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2227-258X" title="ORCID: 0000-0002-2227-258X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nedjar_boumediene"><b>Nedjar</b>&nbsp;Boumediene</a></span><br>
+Journal Article - Mechanics Research Communications, Vol. 116
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nedjar_boumediene"><b>Nedjar</b> Boumediene</a> <a href="https://orcid.org/0000-0002-2227-258X" title="ORCID: 0000-0002-2227-258X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Mechanics Research Communications, Vol. 116, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#formulas`](keyword/formulas)
-    [`#geometry`](keyword/geometry)
-    [`#incremental`](keyword/incremental)
-    [`#linear`](keyword/linear)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/incremental"><button class="btn">#incremental</button></a> <a href="../../keyword/linear"><button class="btn">#linear</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=On%20a%20Geometrically%20Non-Linear%20Incremental%20Formulation%20for%20the%20Modeling%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111805385&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3185311393" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.mechrescom.2021.103748" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.mechrescom.2021.103748?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Of interest in this paper is a modeling framework when constitutive relations are given in incremental form. This is particularly true for aging concretes due to hydration. Furthermore, having in mind applications to 3D concrete printing, geometrical nonlinearities must be accounted for due to the soft nature of the fresh material. The kinematics must then be adapted adequately for a theoretically sound formulation. For this, the multiplicative split is chosen here for the deformation gradient into its known part at an earlier time and the relative deformation gradient. From the geometric point of view, this gives rise to an intermediate configuration on which incremental constitutive relations can be ideally defined prior to be transported back to the reference configuration for a Lagrangian formulation. Model examples are given for the purpose of demonstration and a set of simulations illustrate the effectiveness of the proposed framework.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
@@ -73,8 +55,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
       <li><a href="../../../author/ozalp_abdulkadir"><b>Özalp</b> Abdulkadir</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../ozal_alde.2025.AIBDCPTfTDPCW/">Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls</a></li>
       <li><a href="../../../author/huang_tao"><b>Huang</b> Tao</a>, <a href="../../../author/peng_zhongqi"><b>Peng</b> Zhongqi</a>, <a href="../../../author/wang_mengge"><b>Wang</b> Mengge</a>, <a href="../../../author/feng_shuang"><b>Feng</b> Shuang</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../huan_peng_wang_feng.2024.SotITPo3PC/">Study on the Ionic Transport Properties of 3D Printed Concrete</a></li>
@@ -90,4 +72,33 @@ tags:
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../nguy_nguy_pand_tran.2022.3CPMoTWS/">3D Concrete Printing Modelling of Thin-Walled Structures</a></li>
       <li><a href="../../../author/nedjar_boumediene"><b>Nedjar</b> Boumediene</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../nedj.2022.IVaFSftMo3CP/">Incremental Viscoelasticity at Finite Strains for the Modelling of 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nedj.2021.OaGNLIFftMo3CP,
+      author            = "Boumediene Nedjar",
+      title             = "On a Geometrically Non-Linear Incremental Formulation for the Modeling of 3D Concrete Printing",
+      doi               = "10.1016/j.mechrescom.2021.103748",
+      year              = "2021",
+      journal           = "Mechanics Research Communications",
+      volume            = "116",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Nedjar, “On a Geometrically Non-Linear Incremental Formulation for the Modeling of 3D Concrete Printing”, <i>Mechanics Research Communications</i>, vol. 116, 2021, doi: 10.1016/j.mechrescom.2021.103748.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nedjar, Boumediene. “On a Geometrically Non-Linear Incremental Formulation for the Modeling of 3D Concrete Printing”. <i>Mechanics Research Communications</i> 116 (2021). https://doi.org/10.1016/j.mechrescom.2021.103748.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

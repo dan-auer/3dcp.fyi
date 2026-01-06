@@ -2,29 +2,21 @@
 hide:
     - navigation
     - tags
-title: Viktor Mechtcherine
+    - footer
+title: Mechtcherine Viktor
 description:
 tags:
  - additive
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://tud.qucosa.de/api/qucosa%3A81875/attachment/ATT-0/) Additive Fertigung mit Beton ([2022-09](date/2022/09))
-<a href="https://doi.org/10.25368/2022.389" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.25368/2022.389</a>
+#Additive Fertigung mit Beton ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://tud.qucosa.de/api/qucosa%3A81875/attachment/ATT-0/) <a href="https://doi.org/10.25368/2022.389" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.25368/2022.389" target="_blank">10.25368/2022.389</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Contribution - Beiträge zum 61. Forschungskolloquium mit 9. Jahrestagung des DAfStb, pp. 129-134
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Beiträge zum 61. Forschungskolloquium mit 9. Jahrestagung des DAfStb, pp. 129-134
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Fertigung%20mit%20Beton" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -39,17 +31,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313031243" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.25368/2022.389" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.25368/2022.389?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article provides an overview of the current state of affairs in the field of additive manufacturing processes with concrete, also known as 3D concrete printing. In particular, the associated material testing of printable or printed fresh, hardened and hardened concrete is discussed. Possible variants for the integration of reinforcement in additive manufacturing with concrete are also presented.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../freu_mai_lowk.2020.StBPoVISRitS3PP/">Studying the Bond Properties of Vertical Integrated Short Reinforcement in the Shotcrete 3D Printing Process</a></li>
       <li><a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b> Sadegh</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/kruger_markus"><b>Krüger</b> Markus</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ghou_butl_krug_mech.2021.MtDoCPiF3PCE/">Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements</a></li>
@@ -72,7 +60,37 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/maciejewski_yannick"><b>Maciejewski</b> Yannick</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../wege_sten_gehl_maci.2021.AftCotF3PDHiG/">Approval for the Construction of the First 3D Printed Detached House in Germany:<br/>Significance of Large-Scale Element Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mech.2022.AFmB,
+      author            = "Viktor Mechtcherine",
+      title             = "Additive Fertigung mit Beton",
+      doi               = "10.25368/2022.389",
+      year              = "2022",
+      pages             = "129--134",
+      booktitle         = "Beiträge zum 61. Forschungskolloquium mit 9. Jahrestagung des DAfStb",
+      editor            = "Manfred Curbach and Steffen Marx and Viktor Mechtcherine",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Mechtcherine, “Additive Fertigung mit Beton”, in <i>Beiträge zum 61. Forschungskolloquium mit 9. Jahrestagung des DAfStb</i>,  2022, pp. 129–134. doi: 10.25368/2022.389.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mechtcherine, Viktor. “Additive Fertigung Mit Beton”. In <i>Beiträge Zum 61. Forschungskolloquium Mit 9. Jahrestagung Des DAfStb</i>, edited by Manfred Curbach, Steffen Marx, and Viktor Mechtcherine, 129–34, 2022. https://doi.org/10.25368/2022.389.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

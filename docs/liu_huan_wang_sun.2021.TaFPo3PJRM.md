@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Miao Liu, Yimiao Huang, Fang Wang, Junbo Sun, Guowei Ma
+    - footer
+title: Liu Miao, Huang Yimiao, Wang Fang, Sun Junbo, Ma Guowei
 description:
 tags:
  - flexural
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Tensile and Flexural Properties of 3D Printed Jackets-Reinforced Mortar ([2021-05](date/2021/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.123639" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.123639</a>
+#Tensile and Flexural Properties of 3D Printed Jackets-Reinforced Mortar ([2021-05](date/2021/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.123639" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.123639" target="_blank">10.1016/j.conbuildmat.2021.123639</a>
 
--------------------------
+<a href="../../../author/liu_miao"><b>Liu</b>&nbsp;Miao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4013-7215" title="ORCID: 0000-0003-4013-7215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yimiao"><b>Huang</b>&nbsp;Yimiao</a></span>, <a href="../../../author/wang_fang"><b>Wang</b>&nbsp;Fang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 296, No. 123639
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>
-,     <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a> <a href="https://orcid.org/0000-0003-4013-7215" title="ORCID: 0000-0003-4013-7215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 296, No. 123639
-
-:aca-blank:{ .lg .middle}
-    [`#flexural`](keyword/flexural)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tensile%20and%20Flexural%20Properties%20of%203D%20Printed%20Jackets-Reinforced%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85106382398&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3164549297" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.123639" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.123639?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recently, 3D printing technology has been rapidly developing in the construction sector around the world. However, the insufficient tensile and flexural strengths of the printed material is a crucial problem due to the difficulty of applying steel reinforcement. As a printable material, fibres can be added to the mixture to improve the post-cracking behaviour and toughness of reinforced mortar. Therefore, the present study proposes a 3D-printed fibre-reinforced mortar frame with basalt and carbon fibres to develop a fibre-jacket-reinforced specimen. Specimens with different numbers of reinforcing layers (two, four and six layers) and four different printing paths were fabricated to investigate the strengthening effect on both flexural and tensile capacities. Results from both tests show that a properly designed printing path can significantly improve the tensile and flexural strengths of 3D-printed mortar due to the fibre alignment effect. The strength of fibre-jacket-reinforced specimens is enhanced to a different extent compared with the strength of cast specimens without fibre (with maximum flexural strengths of up to 167% and splitting tensile strengths of up to 128% compared with the respective strengths of the control groups). Meanwhile, both strengths of the fibre-jacket-reinforced specimens with six reinforcement layers almost reach the same strengths of a fully printed fibre-reinforced specimen, but the amount of fibre is reduced by half. In addition, an electromechanical impedance (EMI) technique is applied to monitor the damage during the loading process and an analytical model is developed to predict the enhanced bending capacities of the proposed fibre-jacket-reinforced specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
@@ -85,8 +64,8 @@ tags:
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/sun_hao"><b>Sun</b> Hao</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_sun_wang_zhan.2025.RBIPSaADSBo3PECC/">Relationship Between Interfacial Pore Structure and Anisotropic Dynamic Splitting Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/mann_dhruv"><b>Mann</b> Dhruv</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sun_asla_mann_huan.2025.MaPBo3PSSOWCS/">Mechanical and Piezoresistive Behaviour of 3D Printed Self-Sensing One-Way Concrete Slab</a></li>
       <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/qifeng_lyu"><b>Qifeng</b> Lyu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_sing_wang_qife.2025.3PAiC/">3D-Printed Application in Concretes</a></li>
@@ -101,4 +80,34 @@ tags:
       <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a></li>
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_huan_wang_sun.2021.TaFPo3PJRM,
+      author            = "Miao Liu and Yimiao Huang and Fang Wang and Junbo Sun and Guowei Ma",
+      title             = "Tensile and Flexural Properties of 3D Printed Jackets-Reinforced Mortar",
+      doi               = "10.1016/j.conbuildmat.2021.123639",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "296",
+      pages             = "123639",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Liu, Y. Huang, F. Wang, J. Sun and G. Ma, “Tensile and Flexural Properties of 3D Printed Jackets-Reinforced Mortar”, <i>Construction and Building Materials</i>, vol. 296, p. 123639, 2021, doi: 10.1016/j.conbuildmat.2021.123639.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Miao, Yimiao Huang, Fang Wang, Junbo Sun, and Guowei Ma. “Tensile and Flexural Properties of 3D Printed Jackets-Reinforced Mortar”. <i>Construction and Building Materials</i> 296 (2021): 123639. https://doi.org/10.1016/j.conbuildmat.2021.123639.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

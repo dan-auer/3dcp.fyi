@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Arce Gabriel 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
   <li><a href="../../../author/baytak_tugba"><b>Baytak</b> Tugba</a>, <a href="../../../author/gdeh_tawfeeq"><b>Gdeh</b> Tawfeeq</a>, <a href="../../../author/jiang_zhangfan"><b>Jiang</b> Zhangfan</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bayt_gdeh_jian_arce.2024.RMaEPoPGECCwLaCC/">Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay</a></li>
   <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bani_voso_arce_noor.2024.ASMo3PSvES/">Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors</a></li>

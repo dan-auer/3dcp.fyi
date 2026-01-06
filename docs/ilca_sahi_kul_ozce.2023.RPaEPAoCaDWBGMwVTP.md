@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hüseyin İlcan, Oğuzhan Şahin, Anil Kul, Emircan Ozcelikci, Mustafa Şahmaran
+    - footer
+title: İlcan Hüseyin, Şahin Oğuzhan, Kul Anil, Ozcelikci Emircan, Şahmaran Mustafa
 description:
 tags:
  - assessment
@@ -22,39 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104891" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104891</a>
+#Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols ([2022-12](date/2022/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104891" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104891" target="_blank">10.1016/j.cemconcomp.2022.104891</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kul_anil"><b>Kul</b>&nbsp;Anil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6112-9735" title="ORCID: 0000-0002-6112-9735" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozcelikci_emircan"><b>Ozcelikci</b>&nbsp;Emircan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 136
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> <a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozcelikci_emircan"><b>Ozcelikci</b> Emircan</a> <a href="https://orcid.org/0000-0002-6112-9735" title="ORCID: 0000-0002-6112-9735" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 136, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#extrusion`](keyword/extrusion)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#property`](keyword/property)
-    [`#protocol`](keyword/protocol)
-    [`#rheology`](keyword/rheology)
-    [`#test`](keyword/test)
-    [`#variation`](keyword/variation)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/protocol"><button class="btn">#protocol</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Property%20and%20Extrudability%20Performance-Assessment%20of%20Construction%20and%20Demolition%20Waste-Based%20Geopolymer%20Mortars%20with%20Varied%20Testing%20Protocols" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143736639&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311779028" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104891" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104891?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated fresh properties of 100% construction and demolition waste (CDW)-based geopolymer mortars providing innovative solutions for waste upcycling in favor of continuously transforming sustainable construction applications. Mortars were produced by utilizing hollow brick, red clay brick, roof tile, glass and concrete wastes as precursors and crushed concrete waste as aggregates. For activation, different combinations of NaOH-(molar concentrations of 7.5-10-12.5-15) and Ca(OH)2-(0-4-8%, by weight of binder) were used. For rheological assessments, different protocols including flow curve, constant shear rate, varied shear rate and three interval thixotropy testing (3ITT) were implemented. Ram extrusion was performed to investigate the extrudability performance of the mixtures. The study showed that the mortars’ rheological properties can be driven by arranging alkaline activator content. Although empirical approaches of flow curve, constant shear rate, and varied shear rate were able to verify the existence of thixotropy behavior, they were not capable of quantifying the viscosity recovery level of the mixtures, as opposed to 3ITT method. The 3ITT results showed that the viscosity recovery performances of geopolymers with varying activator content were between 65 and 82%. Ram extrusion demonstrated that mixtures were extruded without showing any types of failures, although some of them had different types of failures on the extruded specimen with the increased resting time beyond 60 min. However, except for 15M-activated mixtures, each mixture was extrudable even after 120 min. In general, this study presents a comprehensive investigation of assessing the rheological properties and extrudability performance of the CDW-based geopolymers via performing various testing methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -103,8 +74,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
       <li><a href="../../../author/mahmoodi_obaid"><b>Mahmoodi</b> Obaid</a>, <a href="../../../author/siad_hocine"><b>Siad</b> Hocine</a>, <a href="../../../author/lachemi_mohamed"><b>Lachemi</b> Mohamed</a>, <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mahm_siad_lach_sahm.2025.RAiCBG/">Recent Advances in CDW-Based Geopolymers:<br/>A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability</a></li>
@@ -125,4 +96,33 @@ tags:
       <li><a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ozk_ilca_amin_tugl.2023.BPaAPo3PCaDWBG/">Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers:<br/>Effect of Operational- and Material-Oriented Parameters</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ilca_sahi_kul_ozce.2023.RPaEPAoCaDWBGMwVTP,
+      author            = "Hüseyin İlcan and Oğuzhan Şahin and Anil Kul and Emircan Ozcelikci and Mustafa Şahmaran",
+      title             = "Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols",
+      doi               = "10.1016/j.cemconcomp.2022.104891",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "136",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. İlcan, O. Şahin, A. Kul, E. Ozcelikci and M. Şahmaran, “Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols”, <i>Cement and Concrete Composites</i>, vol. 136, 2023, doi: 10.1016/j.cemconcomp.2022.104891.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">İlcan, Hüseyin, Oğuzhan Şahin, Anil Kul, Emircan Ozcelikci, and Mustafa Şahmaran. “Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols”. <i>Cement and Concrete Composites</i> 136 (2023). https://doi.org/10.1016/j.cemconcomp.2022.104891.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

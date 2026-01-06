@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ze Chang, Minfei Liang, Yading Xu, Erik Schlangen, Branko Šavija
+    - footer
+title: Chang Ze, Liang Minfei, Xu Yading, Schlangen Erik, Šavija Branko
 description:
 tags:
  - concrete
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2022.104719) 3D Concrete Printing:<br/>:aca-blank: Lattice Modeling of Structural Failure considering Damage and Deformed Geometry ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104719" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104719</a>
+#3D Concrete Printing&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">Lattice Modeling of Structural Failure considering Damage and Deformed Geometry</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2022.104719) <a href="https://doi.org/10.1016/j.cemconcomp.2022.104719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104719" target="_blank">10.1016/j.cemconcomp.2022.104719</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chang_ze"><b>Chang</b>&nbsp;Ze</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4982-0117" title="ORCID: 0000-0003-4982-0117" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liang_minfei"><b>Liang</b>&nbsp;Minfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> <a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a> <a href="https://orcid.org/0000-0003-4982-0117" title="ORCID: 0000-0003-4982-0117" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_yading"><b>Xu</b> Yading</a> <a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 133, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#damage`](keyword/damage)
-    [`#deformation`](keyword/deformation)
-    [`#failure`](keyword/failure)
-    [`#geometry`](keyword/geometry)
-    [`#lattice`](keyword/lattice)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85136167539&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4291221360" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104719" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104719?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research studies the impact of localized damage and deformed printing geometry on the structural failure of plastic collapse for 3D concrete printing (3DCP) using the lattice model. Two different approaches are utilized for buildability quantification: the (previously developed) load-unload method, which updates and relaxes the printing system after each analysis step and repeatedly applies the gravitational loading to the undeformed structure; and the incremental method, which keeps the load after each analysis step and applies the incremental loading to the deformed printing system. The former can consider the material yielding but cannot capture accurately the structural deformation during printing process. Compared to the load-unload method, the incremental method can not only consider deformed printing geometry but can also simulate the non-proportional loading conditions and disequilibrium force occurring during 3D printing. In this study, computational uniaxial compression tests are first conducted to compare two algorithms. The numerical results indicate the consideration of nonequilibrium force and deformed geometry affects the peak load and crack information for fracture analysis. Subsequently, the incremental method is incorporated into the lattice model to quantify buildability of 3DCP. The predictions are compared with previously published numerical results obtained using the load-unload method. The lattice model based on incremental method reproduces correct failure mode; better quantitative agreement about critical printing height also can be obtained. These numerical analyses demonstrate that the incremental solution is an approximate method for buildability quantification since it can account for the nonequilibrium force induced by the deformed printing geometry and localized damage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chan_schl_savi.2020.ELMtStPPo3PCM/">Extended-Lattice-Model to Simulate the Printing-Process of 3D Printed Cementitious Materials</a></li>
@@ -108,8 +85,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
       <li><a href="../../../author/ozalp_abdulkadir"><b>Özalp</b> Abdulkadir</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../ozal_alde.2025.AIBDCPTfTDPCW/">Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls</a></li>
@@ -124,4 +101,33 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
       <li><a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a>, <a href="../../../author/podrouzek_jan"><b>Podroužek</b> Jan</a>, <a href="../../../author/koutny_daniel"><b>Koutný</b> Daniel</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vesp_podr_kout.2023.DAtSIPfD3PoCfCAut8m/">DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 mm</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chan_lian_xu_schl.2022.3CP,
+      author            = "Ze Chang and Minfei Liang and Yading Xu and Erik Schlangen and Branko Šavija",
+      title             = "3D Concrete Printing: Lattice Modeling of Structural Failure considering Damage and Deformed Geometry",
+      doi               = "10.1016/j.cemconcomp.2022.104719",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Chang, M. Liang, Y. Xu, E. Schlangen and B. Šavija, “3D Concrete Printing: Lattice Modeling of Structural Failure considering Damage and Deformed Geometry”, <i>Cement and Concrete Composites</i>, vol. 133, 2022, doi: 10.1016/j.cemconcomp.2022.104719.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chang, Ze, Minfei Liang, Yading Xu, Erik Schlangen, and Branko Šavija. “3D Concrete Printing: Lattice Modeling of Structural Failure Considering Damage and Deformed Geometry”. <i>Cement and Concrete Composites</i> 133 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104719.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

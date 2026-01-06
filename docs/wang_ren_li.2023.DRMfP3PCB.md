@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qing Wang, Xiaodan Ren, Jie Li
+    - footer
+title: Wang Qing, Ren Xiaodan, Li Jie
 description:
 tags:
  - buildability
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Damage-Rheology Model for Predicting 3D Printed Concrete Buildability ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.autcon.2023.105037" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.105037</a>
+#Damage-Rheology Model for Predicting 3D Printed Concrete Buildability ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.105037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105037" target="_blank">10.1016/j.autcon.2023.105037</a>
 
--------------------------
+<a href="../../../author/wang_qing"><b>Wang</b>&nbsp;Qing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_xiaodan"><b>Ren</b>&nbsp;Xiaodan</a></span>, <a href="../../../author/li_jie"><b>Li</b>&nbsp;Jie</a></span><br>
+Journal Article - Automation in Construction, Vol. 155, No. 105037
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_qing"><b>Wang</b> Qing</a>
-,     <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jie"><b>Li</b> Jie</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 155, No. 105037
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#damage`](keyword/damage)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Damage-Rheology%20Model%20for%20Predicting%203D%20Printed%20Concrete%20Buildability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169901336&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385522738" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.105037" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.105037?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Insufficient buildability during printing can result in structural instability of three-dimensional (3D) printed concrete. A damage-rheology model was developed to predict such structural failure by simulating the early-age behavior of 3D printed concrete. The model captures essential characteristics of early-age concrete, including structural build-up, softening damage, irreversible deformation, and creep effect. Based on continuum damage mechanics, the model integrates the damage-plasticity theory and the Burgers model. A time-dependent thixotropic model is used to characterize the structural build-up behavior, considering the evolution of material properties as functions of the structural parameter. The model is systematically validated by comparing its predictions with uniaxial creep, straight-wall printing, and hollow-cylinder printing tests. The study investigates the effect of early-age creep on structural responses. Numerical results demonstrate the ability of the model to accurately predict the buildability of early-age 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
       <li><a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../espo_casa_menn_aspr.2021.EACBo3PM/">Early-Age Creep Behavior of 3D Printable Mortars:<br/>Experimental Characterisation and Analytical Modelling</a></li>
@@ -87,8 +67,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
       <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sara_rama.2025.EACBo3PM/">Early Age Creep Behavior of 3D Printable Mortar:<br/>Hydration and Viscoelasticity Coupling Model</a></li>
@@ -101,4 +81,34 @@ tags:
       <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/jin_lang"><b>Jin</b> Lang</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gao_jin_chen_chen.2024.RBo3PC/">Rheological Behavior of 3D Printed Concrete:<br/>Influential Factors and Printability Prediction Scheme</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_ren_li.2023.DRMfP3PCB,
+      author            = "Qing Wang and Xiaodan Ren and Jie Li",
+      title             = "Damage-Rheology Model for Predicting 3D Printed Concrete Buildability",
+      doi               = "10.1016/j.autcon.2023.105037",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "155",
+      pages             = "105037",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Wang, X. Ren and J. Li, “Damage-Rheology Model for Predicting 3D Printed Concrete Buildability”, <i>Automation in Construction</i>, vol. 155, p. 105037, 2023, doi: 10.1016/j.autcon.2023.105037.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Qing, Xiaodan Ren, and Jie Li. “Damage-Rheology Model for Predicting 3D Printed Concrete Buildability”. <i>Automation in Construction</i> 155 (2023): 105037. https://doi.org/10.1016/j.autcon.2023.105037.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

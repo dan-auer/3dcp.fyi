@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gregory Gibbons, Reuben Williams, Phil Purnell, Elham Farahi
+    - footer
+title: Gibbons Gregory, Williams Reuben, Purnell Phil, Farahi Elham
 description:
 tags:
  - cement
@@ -11,27 +12,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://wrap.warwick.ac.uk/4465/1/WRAP_Gibbons_GG_AAC_final.pdf) 3D Printing of Cement Composites ([2013-07](date/2013/07))
-<a href="https://doi.org/10.1179/174367509x12472364600878" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1179/174367509x12472364600878</a>
+#3D Printing of Cement Composites ([2013-07](date/2013/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://wrap.warwick.ac.uk/4465/1/WRAP_Gibbons_GG_AAC_final.pdf) <a href="https://doi.org/10.1179/174367509x12472364600878" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1179/174367509x12472364600878" target="_blank">10.1179/174367509x12472364600878</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8722-6165" title="ORCID: 0000-0001-8722-6165" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gibbons_john_gregory"><b>Gibbons</b>&nbsp;Gregory</a></span>, <a href="../../../author/williams_reuben"><b>Williams</b>&nbsp;Reuben</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6099-3804" title="ORCID: 0000-0002-6099-3804" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/purnell_phil"><b>Purnell</b>&nbsp;Phil</a></span>, <a href="../../../author/farahi_elham"><b>Farahi</b>&nbsp;Elham</a></span><br>
+Journal Article - Advances in Applied Ceramics, Vol. 109, Iss. 5, pp. 287-290
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a> <a href="https://orcid.org/0000-0001-8722-6165" title="ORCID: 0000-0001-8722-6165" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>
-,     <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a> <a href="https://orcid.org/0000-0002-6099-3804" title="ORCID: 0000-0002-6099-3804" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Applied Ceramics, Vol. 109, Iss. 5, pp. 287-290
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-77954189862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,20 +33,16 @@ tags:
 <a href="https://inciteful.xyz/p/W1495687927" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1179/174367509x12472364600878" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1179/174367509x12472364600878?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aims of this study were to investigate the feasibility of generating 3D structures directly in rapid-hardening Portland cement (RHPC) using 3D Printing (3DP) technology. 3DP is a Additive Layer Manufacturing (ALM) process that generates parts directly from CAD in a layer-wise manner. 3D structures were successfully printed using a polyvinylalcohol: RHPC ratio of 3:97 w/w, with print resolutions of better than 1mm. The test components demonstrated the manufacture of features, including off-axis holes, overhangs / undercuts etc that would not be manufacturable using simple mould tools. Samples hardened by 1 day postbuild immersion in water at RT offered Modulus of Rupture (MOR) values of up to 0.8±0.1MPa, and, after 26 days immersion in water at RT, offered MOR values of 2.2±0.2MPa, similar to bassanite-based materials more typically used in 3DP (1-3 MPa). Post-curing by water immersion restructured the structure, removing the layering typical of ALM processes, and infilling porosit
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "51 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chhabra_gulshan"><b>Chhabra</b> Gulshan</a>, <a href="../../../author/gupta_anjali"><b>Gupta</b> Anjali</a>, <a href="../../../author/bali_rajan"><b>Bali</b> Rajan</a>, <a href="../../../author/tanwar_lovesh"><b>Tanwar</b> Lovesh</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chha_gupt_bali_tanw.2024.ASiC/">Advancing Sustainability in Construction:<br/>A Comprehensive Study on 3D-Printed Concrete Technologies</a></li>
       <li><a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a>, <a href="../../../author/khan_n_subim"><b>Khan</b> Subim</a>, <a href="../../../author/lal_s_dhirajkumar"><b>Lal</b> Dhirajkumar</a>, <a href="../../../author/sonawane_r_pavankumar"><b>Sonawane</b> Pavankumar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../khar_khan_lal_sona.2025.DaDoaNAf3CPA/">Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/pour_k_arash"><b>Pour</b> Arash</a>, <a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b> Ehsan</a>, <a href="../../../author/yang_y_t"><b>Yang</b> T.</a>, <a href="../../../author/li_shaofan"><b>Li</b> Shaofan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pour_fars_yang_li.2025.3PoCaGC/">3D Printing of Conventional and Geopolymer Concretes:<br/>Advancements, Challenges, Future Directions, and Cost Analysis</a></li>
@@ -112,4 +95,35 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gibb_will_purn_fara.2010.3PoCC,
+      author            = "Gregory John Gibbons and Reuben Williams and Phil Purnell and Elham Farahi",
+      title             = "3D Printing of Cement Composites",
+      doi               = "10.1179/174367509x12472364600878",
+      year              = "2010",
+      journal           = "Advances in Applied Ceramics",
+      volume            = "109",
+      number            = "5",
+      pages             = "287--290",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. J. Gibbons, R. Williams, P. Purnell and E. Farahi, “3D Printing of Cement Composites”, <i>Advances in Applied Ceramics</i>, vol. 109, no. 5, pp. 287–290, 2010, doi: 10.1179/174367509x12472364600878.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gibbons, Gregory John, Reuben Williams, Phil Purnell, and Elham Farahi. “3D Printing of Cement Composites”. <i>Advances in Applied Ceramics</i> 109, no. 5 (2010): 287–90. https://doi.org/10.1179/174367509x12472364600878.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

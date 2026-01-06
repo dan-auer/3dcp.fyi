@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huawei Liu, Chao Liu, Yamei Zhang, Guoliang Bai
+    - footer
+title: Liu Huawei, Liu Chao, Zhang Yamei, Bai Guoliang
 description:
 tags:
  - aggregate
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bonding Properties Between 3D Printed Coarse Aggregate Concrete and Rebar Based on Interface Structural Characteristics ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.addma.2023.103893" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103893</a>
+#Bonding Properties Between 3D Printed Coarse Aggregate Concrete and Rebar Based on Interface Structural Characteristics ([2023-11](date/2023/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2023.103893" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103893" target="_blank">10.1016/j.addma.2023.103893</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/bai_guoliang"><b>Bai</b>&nbsp;Guoliang</a></span><br>
+Journal Article - Additive Manufacturing, No. 103893
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 103893
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#characteristic`](keyword/characteristic)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#interface`](keyword/interface)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rebar`](keyword/rebar)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bonding%20Properties%20Between%203D%20Printed%20Coarse%20Aggregate%20Concrete%20and%20Rebar%20Based%20on%20Interface%20Structural%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180500439&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388894434" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103893" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103893?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The bonding properties between 3D printed concrete and rebar are a critical factor in determining the performance and service life of 3D printed concrete building structures. Due to the difficult elimination of pores formed at the interface between the rebar and concrete during rebar placement, it becomes a key factor affecting the interfacial bonding performance. This work focuses on the structural defect characteristics of the bonding interface between 3D printed natural coarse aggregate concrete (3DPNAC) and ribbed rebar, the bonding properties of 3DPNAC-rebar with different rebar arrangement directions (parallel, vertical, 45°) were investigated through artificial placement of the rebar and compared with those of 3D printed mortar (3DPM) and cast concrete. The results showed that the bonding strength between 3DPNAC and rebar was higher than that of 3DPM, and the distribution characteristics of pore defects and natural coarse aggregate were the primary causes of the structural differences between the bonding interfaces of 3DPNAC and 3DPM with rebar. The partition distribution and geometric configuration of pore defects in the bonding interface area were identified as pivotal factors in the degradation of the bond strength between 3DPNAC and rebar. Based on the structural composition of the 3DPNAC-rebar bond interface, a bond interface-partitioning model was proposed to elucidate the bond-slip damage mechanism. Finally, a bond-slip model of 3DPNAC and rebar was established. This study can provide important guidance for the structural design and application of 3D printed concrete structures with rebar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../aram_cald_puen.2023.WJPo3PCBSUFL/">Wet Joint Performance of 3D Printed Concrete Beam Segments Under Flexural Loading</a></li>
@@ -116,8 +91,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
@@ -134,4 +109,33 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wu_liu_bai_liu.2024.EoTIotILAo3PCwRS/">Effect of Time Interval on the Inter-Layer Adhesion of 3D Printed Concrete with Recycled Sand:<br/>Multi-Factor Influencing Mechanisms and Superabsorbent Polymer Enhancement</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_liu_zhan_bai.2023.BPB3PCACaRBoISC,
+      author            = "Huawei Liu and Chao Liu and Yamei Zhang and Guoliang Bai",
+      title             = "Bonding Properties Between 3D Printed Coarse Aggregate Concrete and Rebar Based on Interface Structural Characteristics",
+      doi               = "10.1016/j.addma.2023.103893",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+      pages             = "103893",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Liu, C. Liu, Y. Zhang and G. Bai, “Bonding Properties Between 3D Printed Coarse Aggregate Concrete and Rebar Based on Interface Structural Characteristics”, <i>Additive Manufacturing</i>, p. 103893, 2023, doi: 10.1016/j.addma.2023.103893.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Huawei, Chao Liu, Yamei Zhang, and Guoliang Bai. “Bonding Properties Between 3D Printed Coarse Aggregate Concrete and Rebar Based on Interface Structural Characteristics”. <i>Additive Manufacturing</i>, 2023, 103893. https://doi.org/10.1016/j.addma.2023.103893.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

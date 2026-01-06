@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Szymon Skibicki, Karol Federowicz, Marcin Hoffmann, Mehdi Chougan, Daniel Sibera, Krzysztof Cendrowski, Mateusz Techman, João Pacheco, Maxime Liard, Paweł Sikora
+    - footer
+title: Skibicki Szymon, Federowicz Karol, Hoffmann Marcin, Chougan Mehdi, Sibera Daniel, Cendrowski Krzysztof, Techman Mateusz, Pacheco João, Liard Maxime, Sikora Paweł
 description:
 tags:
  - aggregate
@@ -18,40 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/17/11/2580/pdf?version=1716819100) Potential of Reusing 3D Printed Concrete (3DPC) Fine Recycled Aggregates as a Strategy Towards Decreasing Cement Content in 3DPC ([2024-05](date/2024/05))
-<a href="https://doi.org/10.3390/ma17112580" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17112580</a>
+#Potential of Reusing 3D Printed Concrete (3DPC) Fine Recycled Aggregates as a Strategy Towards Decreasing Cement Content in 3DPC ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/11/2580/pdf?version=1716819100) <a href="https://doi.org/10.3390/ma17112580" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17112580" target="_blank">10.3390/ma17112580</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/federowicz_karol"><b>Federowicz</b>&nbsp;Karol</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibera_daniel"><b>Sibera</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9348-1226" title="ORCID: 0000-0001-9348-1226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pacheco_nuno_joao"><b>Pacheco</b>&nbsp;João</a></span>, <a href="../../../author/liard_maxime"><b>Liard</b>&nbsp;Maxime</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 11, No. 2580
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> <a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> <a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> <a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pacheco_nuno_joao"><b>Pacheco</b> João</a> <a href="https://orcid.org/0000-0001-9348-1226" title="ORCID: 0000-0001-9348-1226" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>
-,     <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 11, No. 2580
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#content`](keyword/content)
-    [`#decrease`](keyword/decrease)
-    [`#fine`](keyword/fine)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/decrease"><button class="btn">#decrease</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Potential%20of%20Reusing%203D%20Printed%20Concrete%20%283DPC%29%20Fine%20Recycled%20Aggregates%20as%20a%20Strategy%20Towards%20Decreasing%20Cement%20Content%20in%203DPC" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195878579&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399042629" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17112580" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17112580?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the new potential strategy of using fine recycled aggregates (fRA) derived from waste 3D printed concrete (3DPC) as a substitute for cement in additive manufacturing. This study hypothesizes that fRA can optimize mixture design, reduce cement content, and contribute to sustainable construction practices. Experimental programs were conducted to evaluate the fresh and hardened properties, printability window, and buildability of 3DPC mixes containing fRA. Mixes with replacement rates of cement with fRA by 10 vol%, 20 vol%, 30 vol%, 40 vol%, and 50 vol% were produced. A comprehensive experimental protocol consisting of rheological studies (static and dynamic yield stress), dynamic elastic modulus determination (first 24 h of hydration), flexural and compressive strengths (2 d and 28 d), and an open porosity test was performed. The obtained results were verified by printing tests. In addition, an economic and environmental life cycle assessment (LCA) of the mixes was performed. The results indicate that up to 50 vol% cement replacement with fRA is feasible, albeit with some technical drawbacks. While fRA incorporation enhances sustainability by reducing CO2 emissions and material costs, it adversely affects the printability window, green strength, setting time, and mechanical properties, particularly in the initial curing stages. Therefore, with higher replacement rates (above 20 vol%), potential optimization efforts are needed to mitigate drawbacks such as reduced green strength and buildability. Notably, replacement rates of up to 20 vol% can be successfully used without compromising the overall material properties or altering the mixture design. The LCA analysis shows that reducing the cement content and increasing the fRA addition results in a significant reduction in mix cost (up to 24%) and a substantial decrease in equivalent CO2 emissions (up to 48%). In conclusion, this study underscores the potential of fRA as a sustainable alternative to cement in 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
@@ -97,8 +67,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
@@ -116,4 +86,35 @@ tags:
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
       <li><a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/jin_chen"><b>Jin</b> Chen</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhou_geng_jin_liu.2024.IoRSotPoFASBGMf3P/">Influence of Residue Soil on the Properties of Fly-Ash-Slag-Based Geopolymer Materials for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{skib_fede_hoff_chou.2024.PoR3PC3FRAaaSTDCCi3,
+      author            = "Szymon Skibicki and Karol Federowicz and Marcin Hoffmann and Mehdi Chougan and Daniel Sibera and Krzysztof Cendrowski and Mateusz Techman and João Nuno Pacheco and Maxime Liard and Paweł Sikora",
+      title             = "Potential of Reusing 3D Printed Concrete (3DPC) Fine Recycled Aggregates as a Strategy Towards Decreasing Cement Content in 3DPC",
+      doi               = "10.3390/ma17112580",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "11",
+      pages             = "2580",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Skibicki, “Potential of Reusing 3D Printed Concrete (3DPC) Fine Recycled Aggregates as a Strategy Towards Decreasing Cement Content in 3DPC”, <i>Materials</i>, vol. 17, no. 11, p. 2580, 2024, doi: 10.3390/ma17112580.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skibicki, Szymon, Karol Federowicz, Marcin Hoffmann, Mehdi Chougan, Daniel Sibera, Krzysztof Cendrowski, Mateusz Techman, João Nuno Pacheco, Maxime Liard, and Paweł Sikora. “Potential of Reusing 3D Printed Concrete (3DPC) Fine Recycled Aggregates as a Strategy Towards Decreasing Cement Content in 3DPC”. <i>Materials</i> 17, no. 11 (2024): 2580. https://doi.org/10.3390/ma17112580.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

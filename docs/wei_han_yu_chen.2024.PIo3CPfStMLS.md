@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ying Wei, Song Han, Shiwei Yu, Ziwei Chen, Ziang Li, Hailong Wang, Wenbo Cheng, Mingzhe An
+    - footer
+title: Wei Ying, Han Song, Yu Shiwei, Chen Ziwei, Li Ziang, Wang Hailong, Cheng Wenbo, An Mingzhe
 description:
 tags:
  - concrete
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.autcon.2024.105449" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105449</a>
+#Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105449" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105449" target="_blank">10.1016/j.autcon.2024.105449</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3636-049X" title="ORCID: 0000-0003-3636-049X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wei_ying"><b>Wei</b>&nbsp;Ying</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_song"><b>Han</b>&nbsp;Song</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_shiwei"><b>Yu</b>&nbsp;Shiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3707-0235" title="ORCID: 0000-0002-3707-0235" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_ziwei"><b>Chen</b>&nbsp;Ziwei</a></span>, <a href="../../../author/li_ziang"><b>Li</b>&nbsp;Ziang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <a href="../../../author/cheng_wenbo"><b>Cheng</b>&nbsp;Wenbo</a></span>, <a href="../../../author/an_mingzhe"><b>An</b>&nbsp;Mingzhe</a></span><br>
+Journal Article - Automation in Construction, Vol. 164, No. 105449
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wei_ying"><b>Wei</b> Ying</a> <a href="https://orcid.org/0000-0003-3636-049X" title="ORCID: 0000-0003-3636-049X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_song"><b>Han</b> Song</a> <a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> <a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a> <a href="https://orcid.org/0000-0002-3707-0235" title="ORCID: 0000-0002-3707-0235" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_ziang"><b>Li</b> Ziang</a>
-,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheng_wenbo"><b>Cheng</b> Wenbo</a>
-,     <a href="../../../author/an_mingzhe"><b>An</b> Mingzhe</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 164, No. 105449
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#layer`](keyword/layer)
-    [`#multi`](keyword/multi)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#single`](keyword/single)
-    [`#stack`](keyword/stack)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/single"><button class="btn">#single</button></a> <a href="../../keyword/stack"><button class="btn">#stack</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Parameter%20Impact%20on%203D%20Concrete%20Printing%20from%20Single%20to%20Multi-Layer%20Stacking" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192085256&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396634180" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105449" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105449?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Previous studies have revealed that the design of printing parameters influences the filament shape, while the similarity degree between filament shape and modeled slice directly determines the precision of multi-layer stacking structures. This paper experimentally investigates the influence of printing parameters on filament shape and pressure along the printing path. Computational Fluid Dynamic simulation is employed to verify the experimental findings from the aspect of internal stress distribution. The results highlight the crucial role of printing pressure in connecting these parameters with filament shape. A settlement theory of the multi-layer structure is proposed and tested based the filament shape analysis. In practice, guaranteeing filament shape and adjusting printing progress can be achieved through proportional changes in nozzle travel speed and screw rotation speed. Controlling structure settlement is possible by adjusting nozzle height and time interval. These findings provide a solid foundation for the precise manufacturing of 3D printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -111,8 +86,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/shang_yuqing"><b>Shang</b> Yuqing</a>, <a href="../../../author/yu_zheming"><b>Yu</b> Zheming</a>, <a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../shan_yu_ma_wei.2026.Ro3PMaPPoBFRC/">Research on 3D Printing Materials and Printing Parameters of Basalt Fiber Reinforced Concrete</a></li>
@@ -127,4 +102,34 @@ tags:
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/quan_hongzhu"><b>Quan</b> Hongzhu</a>, <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_zhan_quan_liu.2024.EATDMPo3PCwCA/">Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wei_han_yu_chen.2024.PIo3CPfStMLS,
+      author            = "Ying Wei and Song Han and Shiwei Yu and Ziwei Chen and Ziang Li and Hailong Wang and Wenbo Cheng and Mingzhe An",
+      title             = "Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking",
+      doi               = "10.1016/j.autcon.2024.105449",
+      year              = "2024",
+      journal           = "Automation in Construction",
+      volume            = "164",
+      pages             = "105449",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wei, “Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking”, <i>Automation in Construction</i>, vol. 164, p. 105449, 2024, doi: 10.1016/j.autcon.2024.105449.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wei, Ying, Song Han, Shiwei Yu, Ziwei Chen, Ziang Li, Hailong Wang, Wenbo Cheng, and Mingzhe An. “Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking”. <i>Automation in Construction</i> 164 (2024): 105449. https://doi.org/10.1016/j.autcon.2024.105449.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

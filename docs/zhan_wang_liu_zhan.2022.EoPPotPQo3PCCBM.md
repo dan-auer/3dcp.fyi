@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongping Zhang, Jianhong Wang, Yaling Liu, Xiaoshuang Zhang, Zhiyi Zhao
+    - footer
+title: Zhang Hongping, Wang Jianhong, Liu Yaling, Zhang Xiaoshuang, Zhao Zhiyi
 description:
 tags:
  - base
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.matlet.2021.131271" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matlet.2021.131271</a>
+#Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2021.131271" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2021.131271" target="_blank">10.1016/j.matlet.2021.131271</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9799-6374" title="ORCID: 0000-0001-9799-6374" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hongping"><b>Zhang</b>&nbsp;Hongping</a></span>, <a href="../../../author/wang_jianhong"><b>Wang</b>&nbsp;Jianhong</a></span>, <a href="../../../author/liu_yaling"><b>Liu</b>&nbsp;Yaling</a></span>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b>&nbsp;Xiaoshuang</a></span>, <a href="../../../author/zhao_zhiyi"><b>Zhao</b>&nbsp;Zhiyi</a></span><br>
+Journal Article - Materials Letters, Vol. 308
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a> <a href="https://orcid.org/0000-0001-9799-6374" title="ORCID: 0000-0001-9799-6374" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>
-,     <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>
-,     <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a>
-,     <a href="../../../author/zhao_zhiyi"><b>Zhao</b> Zhiyi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Letters, Vol. 308, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#material`](keyword/material)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#quality`](keyword/quality)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Processing%20Parameters%20on%20the%20Printing%20Quality%20of%203D%20Printed%20Composite%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119247344&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3212145882" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matlet.2021.131271" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matlet.2021.131271?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The adaptive processing parameters are the important factors affecting the printing quality of the 3D printed composite cement-based materials. The printing line width decreases with increasing printing speed under the same nozzle diameter conditions, the best printing speed is 50 mm/s. The concrete needs to go through the leveling stage with slower speed at the beginning stage to keep less deformation; after this stage, with the extension of concrete hardening time, the printing thickness of each layer tends to a certain value , which is basically consistent with the height of the nozzle from the printing layer platform. The printed quality of intermittent printing with joints is higher than that of continuous printing without joints, but it likely to cause stress concentration at the discontinuity, which needs special treatment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/zahiri_behnam"><b>Zahiri</b> Behnam</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> et al. <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../khos_yuan_zahi_zhan.2016.CbCCUSCwPA/">Construction by Contour Crafting Using Sulfur-Concrete with Planetary Applications</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -77,8 +53,8 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
       <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
@@ -97,4 +73,33 @@ tags:
       <li><a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../wang_jia_deng_zhan.2022.BBBSBa3PC/">Bond Behavior Between Steel-Bars and 3D Printed Concrete:<br/>Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating</a></li>
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/cheng_zhi"><b>Cheng</b> Zhi</a>, <a href="../../../author/zhao_zhiyi"><b>Zhao</b> Zhiyi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhan_liu_chen_zhao.2022.EoLMPoSo3PCCBM/">Effect of Layering Molding Process on Strength of 3D Printed Composite Cement-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM,
+      author            = "Hongping Zhang and Jianhong Wang and Yaling Liu and Xiaoshuang Zhang and Zhiyi Zhao",
+      title             = "Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials",
+      doi               = "10.1016/j.matlet.2021.131271",
+      year              = "2022",
+      journal           = "Materials Letters",
+      volume            = "308",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhang, J. Wang, Y. Liu, X. Zhang and Z. Zhao, “Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials”, <i>Materials Letters</i>, vol. 308, 2022, doi: 10.1016/j.matlet.2021.131271.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Hongping, Jianhong Wang, Yaling Liu, Xiaoshuang Zhang, and Zhiyi Zhao. “Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials”. <i>Materials Letters</i> 308 (2022). https://doi.org/10.1016/j.matlet.2021.131271.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sotirios Pemas, Konstantina Sougioultzi, Chrysoula Kouroutzidou, Maria Stefanidou, Avraam Konstantinidis, Eleftheria Pechlivani
+    - footer
+title: Pemas Sotirios, Sougioultzi Konstantina, Kouroutzidou Chrysoula, Stefanidou Maria, Konstantinidis Avraam, Pechlivani Eleftheria
 description:
 tags:
  - base
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/polym16152182) Enhancing Clay-Based 3D Printed Mortars with Polymeric Mesh Reinforcement Techniques ([2024-07](date/2024/07))
-<a href="https://doi.org/10.3390/polym16152182" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/polym16152182</a>
+#Enhancing Clay-Based 3D Printed Mortars with Polymeric Mesh Reinforcement Techniques ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/polym16152182) <a href="https://doi.org/10.3390/polym16152182" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym16152182" target="_blank">10.3390/polym16152182</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-4416-0813" title="ORCID: 0009-0000-4416-0813" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pemas_sotirios"><b>Pemas</b>&nbsp;Sotirios</a></span>, <a href="../../../author/sougioultzi_konstantina"><b>Sougioultzi</b>&nbsp;Konstantina</a></span>, <a href="../../../author/kouroutzidou_chrysoula"><b>Kouroutzidou</b>&nbsp;Chrysoula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1428-9533" title="ORCID: 0000-0002-1428-9533" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stefanidou_maria"><b>Stefanidou</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9302-9563" title="ORCID: 0000-0001-9302-9563" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/konstantinidis_a_avraam"><b>Konstantinidis</b>&nbsp;Avraam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6385-2815" title="ORCID: 0000-0001-6385-2815" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b>&nbsp;Eleftheria</a></span><br>
+Journal Article - Polymers, Vol. 16, Iss. 15, No. 2182
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a> <a href="https://orcid.org/0009-0000-4416-0813" title="ORCID: 0009-0000-4416-0813" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sougioultzi_konstantina"><b>Sougioultzi</b> Konstantina</a>
-,     <a href="../../../author/kouroutzidou_chrysoula"><b>Kouroutzidou</b> Chrysoula</a>
-,     <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="https://orcid.org/0000-0002-1428-9533" title="ORCID: 0000-0002-1428-9533" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/konstantinidis_a_avraam"><b>Konstantinidis</b> Avraam</a> <a href="https://orcid.org/0000-0001-9302-9563" title="ORCID: 0000-0001-9302-9563" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a> <a href="https://orcid.org/0000-0001-6385-2815" title="ORCID: 0000-0001-6385-2815" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Polymers, Vol. 16, Iss. 15, No. 2182
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#clay`](keyword/clay)
-    [`#enhancement`](keyword/enhancement)
-    [`#mesh`](keyword/mesh)
-    [`#mortar`](keyword/mortar)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Clay-Based%203D%20Printed%20Mortars%20with%20Polymeric%20Mesh%20Reinforcement%20Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199581539&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401201346" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/polym16152182" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/polym16152182?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) technologies, including 3D mortar printing (3DMP), 3D concrete printing (3DCP), and Liquid Deposition Modeling (LDM), offer significant advantages in construction. They reduce project time, costs, and resource requirements while enabling free design possibilities and automating construction processes, thereby reducing workplace accidents. However, AM faces challenges in achieving superior mechanical performance compared to traditional methods due to poor interlayer bonding and material anisotropies. This study aims to enhance structural properties in AM constructions by embedding 3D-printed polymeric meshes in clay-based mortars. Clay-based materials are chosen for their environmental benefits. The study uses meshes with optimal geometry from the literature, printed with three widely used polymeric materials in 3D printing applications (PLA, ABS, and PETG). To reinforce the mechanical properties of the printed specimens, the meshes were strategically placed in the interlayer direction during the 3D printing process. The results show that the 3D-printed specimens with meshes have improved flexural strength, validating the successful integration of these reinforcements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
@@ -85,10 +60,40 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
       <li><a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a>, <a href="../../../author/baliakas_dimitrios"><b>Baliakas</b> Dimitrios</a>, <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pema_bali_pech_stef.2025.MPoBPMwBAfGaSC/">Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction</a></li>
-      <li><a href="../../../author/kladovasilakis_nikolaos"><b>Kladovasilakis</b> Nikolaos</a>, <a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a>, <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../klad_pema_pech.2024.CADo3PCBCMRwBILS/">Computer-Aided Design of 3D Printed Clay-Based Composite Mortars Reinforced with Bio-Inspired Lattice Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pema_soug_kour_stef.2024.ECB3PMwPMRT,
+      author            = "Sotirios Pemas and Konstantina Sougioultzi and Chrysoula Kouroutzidou and Maria Stefanidou and Avraam A. Konstantinidis and Eleftheria Maria Pechlivani",
+      title             = "Enhancing Clay-Based 3D Printed Mortars with Polymeric Mesh Reinforcement Techniques",
+      doi               = "10.3390/polym16152182",
+      year              = "2024",
+      journal           = "Polymers",
+      volume            = "16",
+      number            = "15",
+      pages             = "2182",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Pemas, K. Sougioultzi, C. Kouroutzidou, M. Stefanidou, A. A. Konstantinidis and E. M. Pechlivani, “Enhancing Clay-Based 3D Printed Mortars with Polymeric Mesh Reinforcement Techniques”, <i>Polymers</i>, vol. 16, no. 15, p. 2182, 2024, doi: 10.3390/polym16152182.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pemas, Sotirios, Konstantina Sougioultzi, Chrysoula Kouroutzidou, Maria Stefanidou, Avraam A. Konstantinidis, and Eleftheria Maria Pechlivani. “Enhancing Clay-Based 3D Printed Mortars with Polymeric Mesh Reinforcement Techniques”. <i>Polymers</i> 16, no. 15 (2024): 2182. https://doi.org/10.3390/polym16152182.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

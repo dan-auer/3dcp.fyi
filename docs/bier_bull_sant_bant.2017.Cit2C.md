@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joseph Biernacki, Jeffrey Bullard, Gaurav Sant, Nemkumar Banthia, Kevin Brown, Fredrik Glasser, Scott Jones, Tyler Ley, Richard Livingston, Luc Nicoleau, Jan Olek, Florence Sanchez, Rouzbeh Shahsavari, Paul Stutzman, Konstantin Sobolev, Tracie Prater
+    - footer
+title: Biernacki Joseph, Bullard Jeffrey, Sant Gaurav, Banthia Nemkumar, Brown Kevin, Glasser Fredrik, Jones Scott, Ley Tyler, Livingston Richard, Nicoleau Luc, Olek Jan, Sanchez Florence, Shahsavari Rouzbeh, Stutzman Paul, Sobolev Konstantin, Prater Tracie
 description:
 tags:
  - cement
@@ -11,39 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://europepmc.org/articles/pmc5615410?pdf=render) Cements in the 21st Century:<br/>:aca-blank: Challenges, Perspectives, and Opportunities ([2017-04](date/2017/04))
-<a href="https://doi.org/10.1111/jace.14948" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1111/jace.14948</a>
+#Cements in the 21st Century&nbsp;([2017-04](date/2017/04))
+<div class="h1-like">Challenges, Perspectives, and Opportunities</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://europepmc.org/articles/pmc5615410?pdf=render) <a href="https://doi.org/10.1111/jace.14948" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jace.14948" target="_blank">10.1111/jace.14948</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/biernacki_j_joseph"><b>Biernacki</b>&nbsp;Joseph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0600-9319" title="ORCID: 0000-0002-0600-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bullard_w_jeffrey"><b>Bullard</b>&nbsp;Jeffrey</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <a href="../../../author/brown_kevin"><b>Brown</b>&nbsp;Kevin</a></span>, <a href="../../../author/glasser_p_fredrik"><b>Glasser</b>&nbsp;Fredrik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span>, <a href="../../../author/ley_tyler"><b>Ley</b>&nbsp;Tyler</a></span>, <a href="../../../author/livingston_richard"><b>Livingston</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0941-5977" title="ORCID: 0000-0003-0941-5977" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicoleau_luc"><b>Nicoleau</b>&nbsp;Luc</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2103-3229" title="ORCID: 0000-0002-2103-3229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanchez_florence"><b>Sanchez</b>&nbsp;Florence</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6897-881X" title="ORCID: 0000-0002-6897-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahsavari_rouzbeh"><b>Shahsavari</b>&nbsp;Rouzbeh</a></span>, <a href="../../../author/stutzman_e_paul"><b>Stutzman</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8343-5453" title="ORCID: 0000-0001-8343-5453" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sobolev_konstantin"><b>Sobolev</b>&nbsp;Konstantin</a></span>, <a href="../../../author/prater_tracie"><b>Prater</b>&nbsp;Tracie</a></span><br>
+Journal Article - Journal of the American Ceramic Society, Vol. 100, Iss. 7, pp. 2746-2773
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-0600-9319" title="ORCID: 0000-0002-0600-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> <a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brown_kevin"><b>Brown</b> Kevin</a>
-,     <a href="../../../author/glasser_p_fredrik"><b>Glasser</b> Fredrik</a>
-,     <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a> <a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ley_tyler"><b>Ley</b> Tyler</a>
-,     <a href="../../../author/livingston_richard"><b>Livingston</b> Richard</a>
-,     <a href="../../../author/nicoleau_luc"><b>Nicoleau</b> Luc</a> <a href="https://orcid.org/0000-0003-0941-5977" title="ORCID: 0000-0003-0941-5977" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="https://orcid.org/0000-0002-2103-3229" title="ORCID: 0000-0002-2103-3229" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shahsavari_rouzbeh"><b>Shahsavari</b> Rouzbeh</a> <a href="https://orcid.org/0000-0002-6897-881X" title="ORCID: 0000-0002-6897-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stutzman_e_paul"><b>Stutzman</b> Paul</a>
-,     <a href="../../../author/sobolev_konstantin"><b>Sobolev</b> Konstantin</a> <a href="https://orcid.org/0000-0001-8343-5453" title="ORCID: 0000-0001-8343-5453" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/prater_tracie"><b>Prater</b> Tracie</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of the American Ceramic Society, Vol. 100, Iss. 7, pp. 2746-2773
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#challenge`](keyword/challenge)
-    [`#opportunity`](keyword/opportunity)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cements%20in%20the%2021st%20Century" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85019932199&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2607650933" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1111/jace.14948" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1111/jace.14948?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In a book published in 1906, Richard Meade outlined the history of portland cement up to that point1. Since then there has been great progress in portland cement-based construction materials technologies brought about by advances in the materials science of composites and the development of chemical additives (admixtures) for applications. The resulting functionalities, together with its economy and the sheer abundance of its raw materials, have elevated ordinary portland cement (OPC) concrete to the status of most used synthetic material on Earth. While the 20th century was characterized by the emergence of computer technology, computational science and engineering, and instrumental analysis, the fundamental composition of portland cement has remained surprisingly constant. And, although our understanding of ordinary portland cement (OPC) chemistry has grown tremendously, the intermediate steps in hydration and the nature of calcium silicate hydrate (C-S-H), the major product of OPC hydration, remain clouded in uncertainty. Nonetheless, the century also witnessed great advances in the materials technology of cement despite the uncertain understanding of its most fundamental components. Unfortunately, OPC also has a tremendous consumption-based environmental impact, and concrete made from OPC has a poor strength-to-weight ratio. If these challenges are not addressed, the dominance of OPC could wane over the next 100 years. With this in mind, this paper envisions what the 21st century holds in store for OPC in terms of the driving forces that will shape our continued use of this material. Will a new material replace OPC, and concrete as we know it today, as the preeminent infrastructure construction material?
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/carlo_tony"><b>Carlo</b> Tony</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/chen_yong"><b>Chen</b> Yong</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../carl_khos_chen.2013.MAwFC/">Manufacturing Additively, with Fresh Concrete</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -81,15 +53,13 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
-      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../pand_tay_paul_tan.2018.CCaFPo3CP/">Current Challenges and Future Potential of 3D Concrete Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/micaelli_francesca"><b>Micaelli</b> Francesca</a> et al. <a href="../../../date/2012/06">(2012-06)</a><br><a href="../../../perr_meli_rang_mica.2012.UoREaaCRTtStBoHYSFaLSR/">Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2011/10">(2011-10)</a><br><a href="../../../rael_frat.2011.DCPBCf3P/">Developing Concrete Polymer Building Components for 3D Printing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
       <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
       <li><a href="../../../author/wijethunge_anjalee"><b>Wijethunge</b> Anjalee</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/le_an"><b>Le</b> An</a>, <a href="../../../author/gajanayake_akvan"><b>Gajanayake</b> Akvan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wije_sama_le_gaja.2025.ASRoS3CP/">A Systematic Review on Sustainable 3D Concrete Printing:<br/>Opportunities and Challenges</a></li>
@@ -126,4 +96,35 @@ tags:
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bier_bull_sant_bant.2017.Cit2C,
+      author            = "Joseph J. Biernacki and Jeffrey W. Bullard and Gaurav Sant and Nemkumar Banthia and Kevin Brown and Fredrik P. Glasser and Scott Z. Jones and Tyler Ley and Richard Livingston and Luc Nicoleau and Jan Olek and Florence Sanchez and Rouzbeh Shahsavari and Paul E. Stutzman and Konstantin Sobolev and Tracie Prater",
+      title             = "Cements in the 21st Century: Challenges, Perspectives, and Opportunities",
+      doi               = "10.1111/jace.14948",
+      year              = "2017",
+      journal           = "Journal of the American Ceramic Society",
+      volume            = "100",
+      number            = "7",
+      pages             = "2746--2773",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. J. Biernacki, “Cements in the 21st Century: Challenges, Perspectives, and Opportunities”, <i>Journal of the American Ceramic Society</i>, vol. 100, no. 7, pp. 2746–2773, 2017, doi: 10.1111/jace.14948.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Biernacki, Joseph J., Jeffrey W. Bullard, Gaurav Sant, Nemkumar Banthia, Kevin Brown, Fredrik P. Glasser, Scott Z. Jones, et al.. “Cements in the 21st Century: Challenges, Perspectives, and Opportunities”. <i>Journal of the American Ceramic Society</i> 100, no. 7 (2017): 2746–73. https://doi.org/10.1111/jace.14948.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

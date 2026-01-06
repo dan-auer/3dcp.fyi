@@ -8,7 +8,7 @@ search:
 
 # #cable
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/lee_chang-hwan"><b>Lee</b> Chang-Hwan</a>, <a href="../../../author/gwak_kwan-woong"><b>Gwak</b> Kwan-Woong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lee_gwak.2025.EVoaCDPRf3PBC/">Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction</a></li>
   <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/kumar_vijay"><b>Kumar</b> Vijay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/borsaikia_c_arun"><b>Borsaikia</b> Arun</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maur_kuma_pand_bors.2025.IPCRi3CPwaSN/">Inline Polymer Cable Reinforcement in 3D Concrete Printing with a Special Nozzle</a></li>
   <li><a href="../../../author/qian_sen"><b>Qian</b> Sen</a>, <a href="../../../author/li_changqi"><b>Li</b> Changqi</a>, <a href="../../../author/zhao_zeyap"><b>Zhao</b> Zeyap</a>, <a href="../../../author/zi_bin"><b>Zi</b> Bin</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../qian_li_zhao_zi.2025.MaEVoaCDRfTDPC/">Modeling and Experimental Validation of a Cable-Driven Robot for Three-Dimensional Printing Construction</a></li>

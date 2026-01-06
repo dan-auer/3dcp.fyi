@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Öznur Biricik, Ali Mardani
+    - footer
+title: Biricik Öznur, Mardani Ali
 description:
 tags:
  - behavior
@@ -17,31 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete:<br/>:aca-blank: A State of the Art Review ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.127688" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.127688</a>
+#Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete&nbsp;([2022-05](date/2022/05))
+<div class="h1-like">A State of the Art Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127688" target="_blank">10.1016/j.conbuildmat.2022.127688</a>
 
--------------------------
+<a href="../../../author/biricik_oznur"><b>Biricik</b>&nbsp;Öznur</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 339
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/biricik_oznur"><b>Biricik</b> Öznur</a>
-,     <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 339, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#compaction`](keyword/compaction)
-    [`#concrete`](keyword/concrete)
-    [`#parameter`](keyword/parameter)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-    [`#self`](keyword/self)
-    [`#state`](keyword/state)
-    [`#thixotropy`](keyword/thixotropy)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compaction"><button class="btn">#compaction</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Parameters%20Affecting%20Thixotropic%20Behavior%20of%20Self-Compacting%20Concrete%20and%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129459183&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225294455" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.127688" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.127688?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Structural changes as a result of thixotropic behavior are very important in cementitious systems such as selfcompacting concrete (SCC) and 3-dimensional concrete (3D) mixtures with high binder volume. In this context, it was understood that the examination of the parameters affecting the thixotropy behavior of cementitious systems is realized by measuring the time-dependent change of the rheological properties of the mixture. For this purpose, it was understood that rheometer, measurement and comparison methods, which are quite different from each other, are used. In this study, the parameters affecting the thixotropic properties of cementitious systems; the parameters originating from cement, mineral-chemical admixtures, aggregate and mixture properties (water/binder (w/b) ratio and mixing process) were examined under the headings. In addition to these, the rheometer, measurement and evaluation methods used in the studies were examined. It was stated that the interaction between particles, bond strength of particles, flocculation and thixotropic change rate increase with the increase of cement fineness, alkali and C3A ratio. It was emphasized that the thixotropic property of the mixture increased with the use of mineral additives such as silica fume, limestone dust and blast furnace slag, and the reverse of this behavior was observed when fly ash was used. It was reported that the addition of clay and calcined clay to cementitious systems increases the thixotropic behavior due to its layered structure. It was emphasized that the structural build-up of cementitious systems decreases with the addition of water reducer admixtures, and increases with the addition of viscosity modifying admixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -90,8 +70,9 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/atalay_berrin"><b>Atalay</b> Berrin</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_atal.2025.PaBaAfSaHP3PC/">Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete</a></li>
@@ -103,4 +84,33 @@ tags:
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../jaya_raje_sanj.2022.RfC3P/">Rheometry for Concrete 3D Printing:<br/>A Review and an Experimental Comparison</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{biri_mard.2022.PATBoSCCa3PC,
+      author            = "Öznur Biricik and Ali Mardani",
+      title             = "Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete: A State of the Art Review",
+      doi               = "10.1016/j.conbuildmat.2022.127688",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "339",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Ö. Biricik  and A. Mardani, “Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete: A State of the Art Review”, <i>Construction and Building Materials</i>, vol. 339, 2022, doi: 10.1016/j.conbuildmat.2022.127688.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Biricik, Öznur, and Ali Mardani. “Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete: A State of the Art Review”. <i>Construction and Building Materials</i> 339 (2022). https://doi.org/10.1016/j.conbuildmat.2022.127688.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

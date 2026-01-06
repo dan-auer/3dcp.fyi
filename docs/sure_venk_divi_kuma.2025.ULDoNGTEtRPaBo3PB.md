@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sahil Surehali, Akshay Venkatachalam, Ranjith Divigalpitiya, Aditya Kumar, Narayanan Neithalath
+    - footer
+title: Surehali Sahil, Venkatachalam Akshay, Divigalpitiya Ranjith, Kumar Aditya, Neithalath Narayanan
 description:
 tags:
  - binder
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.nxmate.2025.100811) Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.nxmate.2025.100811" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.nxmate.2025.100811</a>
+#Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.nxmate.2025.100811) <a href="https://doi.org/10.1016/j.nxmate.2025.100811" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.nxmate.2025.100811" target="_blank">10.1016/j.nxmate.2025.100811</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5751-9514" title="ORCID: 0000-0001-5751-9514" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/surehali_sahil"><b>Surehali</b>&nbsp;Sahil</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-4767-5094" title="ORCID: 0009-0001-4767-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/venkatachalam_akshay"><b>Venkatachalam</b>&nbsp;Akshay</a></span>, <a href="../../../author/divigalpitiya_ranjith"><b>Divigalpitiya</b>&nbsp;Ranjith</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7550-8034" title="ORCID: 0000-0001-7550-8034" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_aditya"><b>Kumar</b>&nbsp;Aditya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Next Materials, Vol. 8, No. 100811
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a> <a href="https://orcid.org/0000-0001-5751-9514" title="ORCID: 0000-0001-5751-9514" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/venkatachalam_akshay"><b>Venkatachalam</b> Akshay</a> <a href="https://orcid.org/0009-0001-4767-5094" title="ORCID: 0009-0001-4767-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/divigalpitiya_ranjith"><b>Divigalpitiya</b> Ranjith</a>
-,     <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> <a href="https://orcid.org/0000-0001-7550-8034" title="ORCID: 0000-0001-7550-8034" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Next Materials, Vol. 8, No. 100811
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#buildability`](keyword/buildability)
-    [`#dosage`](keyword/dosage)
-    [`#enhancement`](keyword/enhancement)
-    [`#graphene`](keyword/graphene)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/dosage"><button class="btn">#dosage</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Ultra-Low%20Dosages%20of%20Novel%20Graphene%20Types%20Enhance%20the%20Rheological%20Properties%20and%20Buildability%20of%203D%20Printed%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007629474&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411162809" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.nxmate.2025.100811" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.nxmate.2025.100811?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of graphene as a high-performance concrete additive is attractive; but, its cost and concerns about production scalability and dispersion efficiency in concrete are impediments to widespread use. This study explores the impact of ultra-low dosages (≤0.02 % by mass of binder) of two novel graphene types—fractal graphene (FG) and reactive graphene (RG)—produced through a cost-effective, environmentally friendly, and scalable process, on the rheological properties of 3D-printable concrete. Both FG and RG significantly enhance the dynamic and static yield stresses and viscoelastic properties of the binder, with RG-modified mixtures exhibiting slightly more pronounced enhancements due to the presence of functional groups. Temporal evolution of static yield stress (τs) and storage modulus (G’) reveal aspects relating to structural build-up facilitated by the graphene particulates (structuration parameter from τs-t, and rate of structural build-up, and residual structural factor from G’-t relations), that are important in extrusion and shape stability. Experimental buildability tests on hollow cylinders reveal that the selected ultra-low graphene dosages more than double the achievable build heights at 30, 60, and 90 min of mixing. This enhancement is further corroborated by an analytical model for plastic collapse, which incorporates plastic yield stress derived from green compression testing. Finally, this paper introduces an approach wherein the storage modulus and its evolution—determined through oscillatory rheology experiments—serve as versatile indicators of key rheological properties essential for material delivery, extrusion, and layer build-up in concrete 3D printing. This methodology holds promise for paving the way toward a standardized rheological test for 3D-printable binders.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
@@ -105,7 +80,6 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../sure_trip_neit.2023.AiAMCSUCL/">Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading:<br/>Quantification of the Effects of Layer-Height and Fiber-Reinforcement</a></li>
       <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b> Atharwa</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../sure_trip_nimb_neit.2023.ACTi3PCaIDoLHaIT/">Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types</a></li>
-      <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/venkatachalam_akshay"><b>Venkatachalam</b> Akshay</a>, <a href="../../../author/divigalpitiya_ranjith"><b>Divigalpitiya</b> Ranjith</a>, <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB/">Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../trip_nair_neit.2022.ACAoBo3PCatUoBLSSCBFCTTP/">A Comprehensive Analysis of Buildability of 3D Printed Concrete and the Use of Bi-Linear Stress-Strain Criterion-Based Failure Curves Towards Their Prediction</a></li>
@@ -114,8 +88,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM/">Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/venkatachalam_akshay"><b>Venkatachalam</b> Akshay</a>, <a href="../../../author/divigalpitiya_ranjith"><b>Divigalpitiya</b> Ranjith</a>, <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB/">Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB,
+      author            = "Sahil Surehali and Akshay Venkatachalam and Ranjith Divigalpitiya and Aditya Kumar and Narayanan Neithalath",
+      title             = "Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders",
+      doi               = "10.1016/j.nxmate.2025.100811",
+      year              = "2025",
+      journal           = "Next Materials",
+      volume            = "8",
+      pages             = "100811",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Surehali, A. Venkatachalam, R. Divigalpitiya, A. Kumar and N. Neithalath, “Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders”, <i>Next Materials</i>, vol. 8, p. 100811, 2025, doi: 10.1016/j.nxmate.2025.100811.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Surehali, Sahil, Akshay Venkatachalam, Ranjith Divigalpitiya, Aditya Kumar, and Narayanan Neithalath. “Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders”. <i>Next Materials</i> 8 (2025): 100811. https://doi.org/10.1016/j.nxmate.2025.100811.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

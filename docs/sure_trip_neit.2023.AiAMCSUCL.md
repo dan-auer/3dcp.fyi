@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sahil Surehali, Avinaya Tripathi, Narayanan Neithalath
+    - footer
+title: Surehali Sahil, Tripathi Avinaya, Neithalath Narayanan
 description:
 tags:
  - additive
@@ -21,36 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/15/5488/pdf?version=1691315238) Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading:<br/>:aca-blank: Quantification of the Effects of Layer-Height and Fiber-Reinforcement ([2023-08](date/2023/08))
-<a href="https://doi.org/10.3390/ma16155488" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16155488</a>
+#Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading&nbsp;([2023-08](date/2023/08))
+<div class="h1-like">Quantification of the Effects of Layer-Height and Fiber-Reinforcement</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/15/5488/pdf?version=1691315238) <a href="https://doi.org/10.3390/ma16155488" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16155488" target="_blank">10.3390/ma16155488</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5751-9514" title="ORCID: 0000-0001-5751-9514" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/surehali_sahil"><b>Surehali</b>&nbsp;Sahil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tripathi_avinaya"><b>Tripathi</b>&nbsp;Avinaya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 15, No. 5488
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a> <a href="https://orcid.org/0000-0001-5751-9514" title="ORCID: 0000-0001-5751-9514" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> <a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 15, No. 5488
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#layer`](keyword/layer)
-    [`#load`](keyword/load)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#quantification`](keyword/quantification)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#specimen`](keyword/specimen)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/quantification"><button class="btn">#quantification</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Anisotropy%20in%20Additively%20Manufactured%20Concrete%20Specimens%20Under%20Compressive%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85167825963&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385611150" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16155488" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16155488?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper analyzes the effect of print layer heights and loading direction on the compressive response of plain and fiber-reinforced (steel or basalt fiber) 3D printed concrete. Slabs with three different layer heights (6, 13, and 20 mm) are printed, and extracted cubes are subjected to compression (i) along the direction of printing, (ii) along the direction of layer build-up, and (iii) perpendicular to the above two directions. Digital image correlation (DIC) is used as a non-contact means to acquire the strain profiles. While the 3D printed specimens show lower strengths, as compared to cast specimens, when tested in all three directions, this effect can be reduced through the use of fiber reinforcement. Peak stress and peak strain-based anisotropy coefficients, which are linearly related, are used to characterize and quantify the directional dependence of peak stress and strain. Interfaceparallel cracking is found to be the major failure mechanism, and anisotropy coefficients increase with an increase in layer height, which is attributable to the increasing significance of interfacial defects. Thus, orienting the weaker interfaces appropriately, through changes in printing direction, or strengthening them through material modifications (such as fiber reinforcement) or process changes (lower layer height, enables attainment of near-isotropy in 3D printed concrete elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "58 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -135,8 +110,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
@@ -149,4 +124,35 @@ tags:
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../nair_trip_neit.2024.CRaFPiDF3PCUCaTDoPLH/">Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sure_trip_neit.2023.AiAMCSUCL,
+      author            = "Sahil Surehali and Avinaya Tripathi and Narayanan Neithalath",
+      title             = "Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading: Quantification of the Effects of Layer-Height and Fiber-Reinforcement",
+      doi               = "10.3390/ma16155488",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "15",
+      pages             = "5488",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Surehali, A. Tripathi and N. Neithalath, “Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading: Quantification of the Effects of Layer-Height and Fiber-Reinforcement”, <i>Materials</i>, vol. 16, no. 15, p. 5488, 2023, doi: 10.3390/ma16155488.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Surehali, Sahil, Avinaya Tripathi, and Narayanan Neithalath. “Anisotropy in Additively Manufactured Concrete Specimens Under Compressive Loading: Quantification of the Effects of Layer-Height and Fiber-Reinforcement”. <i>Materials</i> 16, no. 15 (2023): 5488. https://doi.org/10.3390/ma16155488.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

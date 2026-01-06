@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Christian Negron-McFarlane, Eric Kreiger, Megan Kreiger
+    - footer
+title: Negron-McFarlane Christian, Kreiger Eric, Kreiger Megan
 description:
 tags:
  - additive
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-# Determination of Print Speed Based on the Fresh Mechanical Strength over Time of Additively Constructed Concrete by Unconfined Compression ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408141311-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408141311-0</a>
+#Determination of Print Speed Based on the Fresh Mechanical Strength over Time of Additively Constructed Concrete by Unconfined Compression ([2024-09](date/2024/09))
+ <a href="https://doi.org/10.24355/dbbs.084-202408141311-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408141311-0" target="_blank">10.24355/dbbs.084-202408141311-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2052-359X" title="ORCID: 0000-0003-2052-359X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b>&nbsp;Christian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a> <a href="https://orcid.org/0000-0003-2052-359X" title="ORCID: 0000-0003-2052-359X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#determination`](keyword/determination)
-    [`#fresh`](keyword/fresh)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#speed`](keyword/speed)
-    [`#strength`](keyword/strength)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/speed"><button class="btn">#speed</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Determination%20of%20Print%20Speed%20Based%20on%20the%20Fresh%20Mechanical%20Strength%20over%20Time%20of%20Additively%20Constructed%20Concrete%20by%20Unconfined%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6907572262" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408141311-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408141311-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive construction is a complex process that is influenced by different factors, such as printing parameters, design and construction, as well as materials properties. Since no formwork is used, a fundamental understanding of shape stability and print stability is required to ensure the successful completion of printed components. Additionally, utilizing additive construction in remote field applications increases the variables associated with printing and requires a quantifiable methodology for both laboratory and on-site to maintain quality control. This study focuses on the use of the unconfined compression test to characterize the buildability of the fresh additively constructed concrete with 9.5 mm aggregates. Mechanical properties, such as load and elastic modulus gain, were evaluated in addition to plate buckling theory to determine the print stability of the printing process based on the two primary failure mechanisms: plastic collapse and elastic buckling. This study identifies a method of determining failure parameters to identify the layer deposition limit and print speed to decrease failure during the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../digg_krei.2021.UITAtAitAoSEQfAC/">Using Isolated Temporal Analysis to Aid in the Assessment of Structural Element Quality for Additive Construction</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../khan_koc.2023.BAo3CPP/">Buildability-Analysis of 3D Concrete Printing Process:<br/>A Parametric Study Using Design of Experiment-Approach</a></li>
@@ -92,7 +67,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{negr_krei_krei.2024.DoPSBotFMSoToACCbUC,
+      author            = "Christian Negron-McFarlane and Eric L. Kreiger and Megan A. Kreiger",
+      title             = "Determination of Print Speed Based on the Fresh Mechanical Strength over Time of Additively Constructed Concrete by Unconfined Compression",
+      doi               = "10.24355/dbbs.084-202408141311-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Negron-McFarlane, E. L. Kreiger and M. A. Kreiger, “Determination of Print Speed Based on the Fresh Mechanical Strength over Time of Additively Constructed Concrete by Unconfined Compression”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408141311-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Negron-McFarlane, Christian, Eric L. Kreiger, and Megan A. Kreiger. “Determination of Print Speed Based on the Fresh Mechanical Strength over Time of Additively Constructed Concrete by Unconfined Compression”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408141311-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

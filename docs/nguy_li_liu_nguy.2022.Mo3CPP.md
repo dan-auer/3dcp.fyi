@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vuong Nguyen, Shuai Li, Junli Liu, Kien Nguyen, Jonathan Tran
+    - footer
+title: Nguyen Vuong, Li Shuai, Liu Junli, Nguyen Kien, Tran Jonathan
 description:
 tags:
  - concrete
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modelling of 3D Concrete Printing Process:<br/>:aca-blank: A Perspective on Material and Structural Simulations ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.addma.2022.103333" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.103333</a>
+#Modelling of 3D Concrete Printing Process&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">A Perspective on Material and Structural Simulations</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.103333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103333" target="_blank">10.1016/j.addma.2022.103333</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_vuong"><b>van&nbsp;Nguyen</b>&nbsp;Vuong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shuai"><b>Li</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_junli"><b>Liu</b>&nbsp;Junli</a></span>, <a href="../../../author/nguyen_kien"><b>Nguyen</b>&nbsp;Kien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
+Journal Article - Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> <a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_shuai"><b>Li</b> Shuai</a> <a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_junli"><b>Liu</b> Junli</a> <a href="https://orcid.org/0000-0002-8282-8439" title="ORCID: 0000-0002-8282-8439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a>
-,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#simulation`](keyword/simulation)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modelling%20of%203D%20Concrete%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145665540&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4310862077" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.103333" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.103333?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) offers solutions for affordable construction including cost minimisation, productivity improvement, and sustainability alignment, as well as being able to tailor products with complex design requirements. Various 3DCP techniques, printable materials, and computational design tools have been developed to meet the requirements of mechanical and structural properties as well as durability. Coupled with parametric design and numerical simulation approach, the 3DCP could enable further construction optimisation, and realisation of complex designs. While major effort is devoted to developing materials and mix designs, limited attention is given to the development of predictive modelling and design optimisation specifically for 3D printing of concrete/mortar from the fresh to the hardening states. The benefit of additive manufacturing in construction is often recognised by the building of highly complex structures obtained from the generative design or structural optimisation processes. Here, various constraints need to be considered, such as overhang angle, printing direction, anisotropic properties of concrete, and printing toolpath optimisation. Continuous improvement in non-deterministic/statistical or machine learning (ML) approach could also lead to the development of a future robust 3DCP simulation tool when data is scarce or limited. This work will provide a snapshot of the current state-of-the-art development of modelling and design optimisation tools for 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "77 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/andersen_sebastian"><b>Andersen</b> Sebastian</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/paegle_ieva"><b>Paegle</b> Ieva</a>, <a href="../../../author/nielsen_henrik_jens"><b>Nielsen</b> Jens</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ande_silv_paeg_niel.2020.NMDtEABo3PC/">Numerical Model Describing the Early-Age Behavior of 3D Printed Concrete:<br/>Work in Progress</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
@@ -144,8 +123,8 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "88 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
@@ -235,4 +214,32 @@ tags:
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../wan_yang_wang_ma.2023.GCPPf3CPMBS/">Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure</a></li>
       <li><a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a>, <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../wang_asla_dysk_past.2023.DTAi3CP/">Digital Twin Applications in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nguy_li_liu_nguy.2022.Mo3CPP,
+      author            = "Vuong van Nguyen and Shuai Li and Junli Liu and Kien Nguyen and Jonathan Phuong Tran",
+      title             = "Modelling of 3D Concrete Printing Process: A Perspective on Material and Structural Simulations",
+      doi               = "10.1016/j.addma.2022.103333",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. van Nguyen, S. Li, J. Liu, K. Nguyen and J. P. Tran, “Modelling of 3D Concrete Printing Process: A Perspective on Material and Structural Simulations”, <i>Additive Manufacturing</i>, 2022, doi: 10.1016/j.addma.2022.103333.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nguyen, Vuong van, Shuai Li, Junli Liu, Kien Nguyen, and Jonathan Phuong Tran. “Modelling of 3D Concrete Printing Process: A Perspective on Material and Structural Simulations”. <i>Additive Manufacturing</i>, 2022. https://doi.org/10.1016/j.addma.2022.103333.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

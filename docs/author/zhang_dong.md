@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhang Dong 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../teng_xu_yang_yu.2025.DoSSHCCCDf3P/">Development of Sustainable Strain-Hardening Cementitious Composites Containing Diatomite for 3D Printing</a></li>
   <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../yu_teng_ye_zhan.2025.SDMtPtFSo3PECCB/">Size-Dependent Model to Predict the Flexural-Strength of 3D Printed Engineered Cementitious Composites Beams</a></li>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../teng_zhan_li_weng.2024.FSoRPwaBECRS/">Feasibility Study on Reinforcement Placement with a BIM-Enabled Collaborative Robot System</a></li>

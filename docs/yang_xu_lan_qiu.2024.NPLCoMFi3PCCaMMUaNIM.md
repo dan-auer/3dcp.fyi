@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rijiao Yang, Chengji Xu, Yan Lan, Yue Qiu, Zhendi Wang, Yu Peng, Qiang Zeng
+    - footer
+title: Yang Rijiao, Xu Chengji, Lan Yan, Qiu Yue, Wang Zhendi, Peng Yu, Zeng Qiang
 description:
 tags:
  - cement
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Near Pixel-Level Characterisation of Micro-Fibers in 3D Printed Cementitious Composites and Migration Mechanisms Using a Novel Iterative Method ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.compositesa.2024.108404" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesa.2024.108404</a>
+#Near Pixel-Level Characterisation of Micro-Fibers in 3D Printed Cementitious Composites and Migration Mechanisms Using a Novel Iterative Method ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesa.2024.108404" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesa.2024.108404" target="_blank">10.1016/j.compositesa.2024.108404</a>
 
--------------------------
+<a href="../../../author/yang_rijiao"><b>Yang</b>&nbsp;Rijiao</a></span>, <a href="../../../author/xu_chengji"><b>Xu</b>&nbsp;Chengji</a></span>, <a href="../../../author/lan_yan"><b>Lan</b>&nbsp;Yan</a></span>, <a href="../../../author/qiu_yue"><b>Qiu</b>&nbsp;Yue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhendi"><b>Wang</b>&nbsp;Zhendi</a></span>, <a href="../../../author/peng_yu"><b>Peng</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_qiang"><b>Zeng</b>&nbsp;Qiang</a></span><br>
+Journal Article - Composites Part A: Applied Science and Manufacturing, Vol. 186, No. 108404
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>
-,     <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>
-,     <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>
-,     <a href="../../../author/qiu_yue"><b>Qiu</b> Yue</a>
-,     <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> <a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>
-,     <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> <a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part A: Applied Science and Manufacturing, Vol. 186, No. 108404
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#iteration`](keyword/iteration)
-    [`#level`](keyword/level)
-    [`#mechanism`](keyword/mechanism)
-    [`#method`](keyword/method)
-    [`#micro`](keyword/micro)
-    [`#migration`](keyword/migration)
-    [`#near`](keyword/near)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/iteration"><button class="btn">#iteration</button></a> <a href="../../keyword/level"><button class="btn">#level</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/migration"><button class="btn">#migration</button></a> <a href="../../keyword/near"><button class="btn">#near</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Near%20Pixel-Level%20Characterisation%20of%20Micro-Fibers%20in%203D%20Printed%20Cementitious%20Composites%20and%20Migration%20Mechanisms%20Using%20a%20Novel%20Iterative%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201386874&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401490039" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesa.2024.108404" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesa.2024.108404?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Microfibre reinforcement is widely used for additively manufactured composites, however, it remains a challenging task to resolve the 3D distribution of microfibres in the matrix with low contrast and resolution for image analysis. To address this challenge, we propose a novel iterative destruction–filtering–repairing (DFR) image processing method, and take glass microfibre-embedded extrusion-moulded cementitious filaments (EMCFs) as an example for 3D structural analysis with X-ray computed tomography. Results show that the DFR method enables near pixel-level microfibre diagnosis with high accuracy beyond the ordinary image processing method. The glass microfibres are unevenly distributed in the EMCFs and their orientations are different between the filament body and the interfacial zone, uncovering the mechanisms of extrusion-affected material migration, collision, and redistribution. Our findings make a breakthrough in image analysis with limited resolution and contrast, providing a broad path towards better understanding the microstructure of 3D printed fibre-reinforcement composites.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../chen_pan_zhu_ma.2023.IMPo3POPGCwSFR/">Improving Mechanical Properties of 3D Printable One-Part Geopolymer Concrete with Steel-Fiber-Reinforcement</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC/">Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites</a></li>
@@ -120,9 +91,39 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_xu_lan_qiu.2024.NPLCoMFi3PCCaMMUaNIM,
+      author            = "Rijiao Yang and Chengji Xu and Yan Lan and Yue Qiu and Zhendi Wang and Yu Peng and Qiang Zeng",
+      title             = "Near Pixel-Level Characterisation of Micro-Fibers in 3D Printed Cementitious Composites and Migration Mechanisms Using a Novel Iterative Method",
+      doi               = "10.1016/j.compositesa.2024.108404",
+      year              = "2024",
+      journal           = "Composites Part A: Applied Science and Manufacturing",
+      volume            = "186",
+      pages             = "108404",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Yang, “Near Pixel-Level Characterisation of Micro-Fibers in 3D Printed Cementitious Composites and Migration Mechanisms Using a Novel Iterative Method”, <i>Composites Part A: Applied Science and Manufacturing</i>, vol. 186, p. 108404, 2024, doi: 10.1016/j.compositesa.2024.108404.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Rijiao, Chengji Xu, Yan Lan, Yue Qiu, Zhendi Wang, Yu Peng, and Qiang Zeng. “Near Pixel-Level Characterisation of Micro-Fibers in 3D Printed Cementitious Composites and Migration Mechanisms Using a Novel Iterative Method”. <i>Composites Part A: Applied Science and Manufacturing</i> 186 (2024): 108404. https://doi.org/10.1016/j.compositesa.2024.108404.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

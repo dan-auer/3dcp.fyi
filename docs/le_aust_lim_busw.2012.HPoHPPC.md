@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thanh Le, Simon Austin, Sungwoo Lim, Richard Buswell, R. Law, Alistar Gibb, Tony Thorpe
+    - footer
+title: Le Thanh, Austin Simon, Lim Sungwoo, Buswell Richard, Law R., Gibb Alistar, Thorpe Tony
 description:
 tags:
  - concrete
@@ -14,33 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://figshare.com/articles/journal_contribution/Hardened_properties_of_high-performance_printing_concrete/9450122/1/files/17072144.pdf) Hardened Properties of High-Performance Printing Concrete ([2012-01](date/2012/01))
-<a href="https://doi.org/10.1016/j.cemconres.2011.12.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2011.12.003</a>
+#Hardened Properties of High-Performance Printing Concrete ([2012-01](date/2012/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/Hardened_properties_of_high-performance_printing_concrete/9450122/1/files/17072144.pdf) <a href="https://doi.org/10.1016/j.cemconres.2011.12.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2011.12.003" target="_blank">10.1016/j.cemconres.2011.12.003</a>
 
--------------------------
+<a href="../../../author/le_t_thanh"><b>Le</b>&nbsp;Thanh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/austin_a_simon"><b>Austin</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9371-2968" title="ORCID: 0000-0002-9371-2968" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_sungwoo"><b>Lim</b>&nbsp;Sungwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <a href="../../../author/law_r"><b>Law</b>&nbsp;R.</a></span>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b>&nbsp;Alistar</a></span>, <a href="../../../author/thorpe_tony"><b>Thorpe</b>&nbsp;Tony</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 42, Iss. 3, pp. 558-566
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>
-,     <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> <a href="https://orcid.org/0000-0001-9821-2244" title="ORCID: 0000-0001-9821-2244" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a> <a href="https://orcid.org/0000-0002-9371-2968" title="ORCID: 0000-0002-9371-2968" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/law_r"><b>Law</b> R.</a>
-,     <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>
-,     <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 42, Iss. 3, pp. 558-566
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hardened%20Properties%20of%20High-Performance%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84858076586&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,25 +36,23 @@ tags:
 <a href="https://inciteful.xyz/p/W2009892931" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2011.12.003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2011.12.003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the hardened properties of a high-performance fibre-reinforced fine-aggregate concrete extruded through a 9 mm diameter nozzle to build layer-by-layer structural components in a printing process. The printing process is a digitally controlled additive method capable of manufacturing architectural and structural components without formwork, unlike conventional concrete construction methods. The effects of the layering process on density, compressive strength, flexural strength, tensile bond strength and drying shrinkage are presented together with the implication for mix proportions. A control concrete (mould-cast specimens) had a density ofapproximately 2250 kg/m3, high strength (107 MPa in compression, 11 MPa in flexure) and 3 MPa in direct tension, together with a relatively low drying shrinkage of 175 μm (cured in water) and 855 μm (cured in a chamber at 20 °C and 60% relative humidity) at 184 days. In contrast well printed concrete had a density of 2350 kg/m3, compressive strength of 75–102 MPa, flexural strength of 6–17 MPa depending on testing direction, and tensile bond strength between layers varying from 2.3 to 0.7 MPa, reducing as the printing time gap between layers increased. The well printed concrete had significantly fewer voids greater than 0.2 mm diameter (1.0%) when compared with the mould-cast control (3.8%), whilst samples of poorly printed material had more voids (4.8%) mainly formed in the interstices between filaments. The additive extrusion process was thus shown to retain the intrinsic high performance of the material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
-      <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
-      <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "742 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
@@ -812,6 +791,36 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/jeon_kwang-hyun"><b>Jeon</b> Kwang-Hyun</a>, <a href="../../../author/park_min-beom"><b>Park</b> Min-Beom</a>, <a href="../../../author/kang_min-kyung"><b>Kang</b> Min-Kyung</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../jeon_park_kang_kim.2013.DoaAFCSaICM/">Development of an Automated Freeform Construction System and Its Construction Materials</a></li>
-      <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{le_aust_lim_busw.2012.HPoHPPC,
+      author            = "Thanh T. Le and Simon A. Austin and Sungwoo Lim and Richard A. Buswell and R. Law and Alistar G.F. Gibb and Tony Thorpe",
+      title             = "Hardened Properties of High-Performance Printing Concrete",
+      doi               = "10.1016/j.cemconres.2011.12.003",
+      year              = "2012",
+      journal           = "Cement and Concrete Research",
+      volume            = "42",
+      number            = "3",
+      pages             = "558--566",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. T. Le, “Hardened Properties of High-Performance Printing Concrete”, <i>Cement and Concrete Research</i>, vol. 42, no. 3, pp. 558–566, 2012, doi: 10.1016/j.cemconres.2011.12.003.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Le, Thanh T., Simon A. Austin, Sungwoo Lim, Richard A. Buswell, R. Law, Alistar G.F. Gibb, and Tony Thorpe. “Hardened Properties of High-Performance Printing Concrete”. <i>Cement and Concrete Research</i> 42, no. 3 (2012): 558–66. https://doi.org/10.1016/j.cemconres.2011.12.003.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

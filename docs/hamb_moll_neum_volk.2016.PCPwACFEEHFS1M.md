@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manuel Hambach, Hendrik Möller, Thomas Neumann, Dirk Volkmer
+    - footer
+title: Hambach Manuel, Möller Hendrik, Neumann Thomas, Volkmer Dirk
 description:
 tags:
  - alignment
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa) ([2016-08](date/2016/08))
-<a href="https://doi.org/10.1016/j.cemconres.2016.08.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2016.08.011</a>
+#Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa) ([2016-08](date/2016/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2016.08.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2016.08.011" target="_blank">10.1016/j.cemconres.2016.08.011</a>
 
--------------------------
+<a href="../../../author/hambach_manuel"><b>Hambach</b>&nbsp;Manuel</a></span>, <a href="../../../author/moller_hendrik"><b>Möller</b>&nbsp;Hendrik</a></span>, <a href="../../../author/neumann_thomas"><b>Neumann</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8105-2157" title="ORCID: 0000-0002-8105-2157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volkmer_dirk"><b>Volkmer</b>&nbsp;Dirk</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 89, pp. 80-86
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>
-,     <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>
-,     <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>
-,     <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="https://orcid.org/0000-0002-8105-2157" title="ORCID: 0000-0002-8105-2157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 89, pp. 80-86
-
-:aca-blank:{ .lg .middle}
-    [`#alignment`](keyword/alignment)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#height`](keyword/height)
-    [`#paste`](keyword/paste)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Portland-Cement-Paste%20with%20Aligned%20Carbon-Fibers%20Exhibiting%20Exceptionally%20High%20Flexural%20Strength%20%28%3E100%20MPa%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84991735426&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,24 +38,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2509907599" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2016.08.011" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2016.08.011?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Here, we introduce a nozzle injection technique for carbon fiber-reinforced cement paste leading to unidirectional alignment ofcement-embedded short carbon fibers that follow the movement direction of the guided nozzle. In comparison to non-reinforced cement pastes, this novel material exhibits a tremendous increase of its flexural strength upon admixing and aligning 1 to 3 percent (by volume) of chopped carbon fibers. Cement pastes containing carbon fibers aligned in the stress direction thus acquire high compressive and flexural strength values at the same time. Mechanical tests prove thematerial to withstand flexural loads larger than 100MPa in conjunction with a deflection hardeningbehavior resembling that ofhigh performancefiber-reinforced cementious composites at relatively low fiber volume content. Insights into the preparation, fiber alignment, rheology and the fracture behavior of this material are presented in this study
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/takashima_hiroyuki"><b>Takashima</b> Hiroyuki</a>, <a href="../../../author/miyagai_kiyotaka"><b>Miyagai</b> Kiyotaka</a>, <a href="../../../author/hashida_toshiyuki"><b>Hashida</b> Toshiyuki</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2002/09">(2002-09)</a><br><a href="../../../taka_miya_hash_li.2003.ADAftMPoPDFRCCbEM/">A Design Approach for the Mechanical Properties of Polypropylene-Discontinuous-Fiber-Reinforced Cementitious Composites by Extrusion-Molding</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "66 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P/">Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.</a></li>
       <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>
       <li><a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a>, <a href="../../../author/qian_hui"><b>Qian</b> Hui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>, <a href="../../../author/fenglin_liu"><b>Fenglin</b> Liu</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF/">Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers</a></li>
@@ -141,4 +119,34 @@ tags:
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hamb_moll_neum_volk.2016.PCPwACFEEHFS1M,
+      author            = "Manuel Hambach and Hendrik Möller and Thomas Neumann and Dirk Volkmer",
+      title             = "Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)",
+      doi               = "10.1016/j.cemconres.2016.08.011",
+      year              = "2016",
+      journal           = "Cement and Concrete Research",
+      volume            = "89",
+      pages             = "80--86",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Hambach, H. Möller, T. Neumann and D. Volkmer, “Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)”, <i>Cement and Concrete Research</i>, vol. 89, pp. 80–86, 2016, doi: 10.1016/j.cemconres.2016.08.011.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hambach, Manuel, Hendrik Möller, Thomas Neumann, and Dirk Volkmer. “Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)”. <i>Cement and Concrete Research</i> 89 (2016): 80–86. https://doi.org/10.1016/j.cemconres.2016.08.011.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

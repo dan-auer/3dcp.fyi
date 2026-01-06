@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ye Qian, Geert Schutter
+    - footer
+title: Qian Ye, Schutter Geert
 description:
 tags:
  - adsorption
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/11/5/695/pdf?version=1525350229) Different Effects of NSF and PCE Superplasticizer on Adsorption, Dynamic Yield-Stress and Thixotropy of Cement-Pastes ([2018-04](date/2018/04))
-<a href="https://doi.org/10.3390/ma11050695" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma11050695</a>
+#Different Effects of NSF and PCE Superplasticizer on Adsorption, Dynamic Yield-Stress and Thixotropy of Cement-Pastes ([2018-04](date/2018/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/11/5/695/pdf?version=1525350229) <a href="https://doi.org/10.3390/ma11050695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11050695" target="_blank">10.3390/ma11050695</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Journal Article - Materials, Vol. 11, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 11, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adsorption`](keyword/adsorption)
-    [`#cement`](keyword/cement)
-    [`#difference`](keyword/difference)
-    [`#dynamic`](keyword/dynamic)
-    [`#effect`](keyword/effect)
-    [`#paste`](keyword/paste)
-    [`#stress`](keyword/stress)
-    [`#superplasticizer`](keyword/superplasticizer)
-    [`#thixotropy`](keyword/thixotropy)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/adsorption"><button class="btn">#adsorption</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Different%20Effects%20of%20NSF%20and%20PCE%20Superplasticizer%20on%20Adsorption%2C%20Dynamic%20Yield-Stress%20and%20Thixotropy%20of%20Cement-Pastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046286697&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,25 +40,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2802655513" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma11050695" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma11050695?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study compares the differences and similarities of two types of superplasticizers&mdash;NSF (Naphthalene Sulfonate Formaldehyde) and PCE (PolyCarboxylate Ester)&mdash;in fresh cement paste systems, in terms of adsorption, dynamic yield stress, and thixotropic index. Results show that with either NSF or PCE addition, the more superplasticizer is added, the more it is adsorbed and the more it remains in the interstitial pore solution. The dynamic yield stress and thixotropic index also decrease with increasing addition the amount of either superplasticizer. However, NSF is less efficient in decreasing the dynamic yield stress than PCE. More importantly, the decreasing patterns of dynamic yield stress and thixotropic index are different with NSF and PCE additions; this is tied to the adsorption and dispersing mechanisms of these two types of superplasticizers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../qian_kawa.2016.UoCRPtMSYSaSRoFCP/">Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes</a></li>
-      <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../qian_schu.2018.EToFCPwNCiPoPESP/">Enhancing Thixotropy of Fresh Cement-Pastes with Nano-Clay in Presence of Polycarboxylate-Ether Superplasticizer (PCE)</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
@@ -89,4 +66,34 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qian_schu.2018.DEoNaPSoADYSaToCP,
+      author            = "Ye Qian and Geert de Schutter",
+      title             = "Different Effects of NSF and PCE Superplasticizer on Adsorption, Dynamic Yield-Stress and Thixotropy of Cement-Pastes",
+      doi               = "10.3390/ma11050695",
+      year              = "2018",
+      journal           = "Materials",
+      volume            = "11",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Qian  and G. de Schutter, “Different Effects of NSF and PCE Superplasticizer on Adsorption, Dynamic Yield-Stress and Thixotropy of Cement-Pastes”, <i>Materials</i>, vol. 11, no. 5, 2018, doi: 10.3390/ma11050695.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qian, Ye, and Geert de Schutter. “Different Effects of NSF and PCE Superplasticizer on Adsorption, Dynamic Yield-Stress and Thixotropy of Cement-Pastes”. <i>Materials</i> 11, no. 5 (2018). https://doi.org/10.3390/ma11050695.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

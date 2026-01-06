@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Asad Bajwa, Don Samarasinghe, Claire Flemmer, Ding Bao
+    - footer
+title: Bajwa Asad, Samarasinghe Don, Flemmer Claire, Bao Ding
 description:
 tags:
  - 3dcp
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://docs.lib.purdue.edu/context/cib-conferences/article/1927/viewcontent/1927_acc.pdf) A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP) ([2025-06](date/2025/06))
-<a href="https://doi.org/10.7771/3067-4883.1927" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.7771/3067-4883.1927</a>
+#A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP) ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/context/cib-conferences/article/1927/viewcontent/1927_acc.pdf) <a href="https://doi.org/10.7771/3067-4883.1927" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7771/3067-4883.1927" target="_blank">10.7771/3067-4883.1927</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6929-2094" title="ORCID: 0000-0002-6929-2094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b>&nbsp;Asad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2080-8261" title="ORCID: 0000-0003-2080-8261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flemmer_l_claire"><b>Flemmer</b>&nbsp;Claire</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bao_wen_ding"><b>Bao</b>&nbsp;Ding</a></span><br>
+Journal Article - CIB Conferences, Vol. 1, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a> <a href="https://orcid.org/0000-0002-6929-2094" title="ORCID: 0000-0002-6929-2094" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> <a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> <a href="https://orcid.org/0000-0003-2080-8261" title="ORCID: 0000-0003-2080-8261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - CIB Conferences, Vol. 1, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#behavior`](keyword/behavior)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#element`](keyword/element)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Literature%20Review%20on%20the%20Thermal%20Behaviour%20of%20Building%20Elements%20Constructed%20Through%203D%20Concrete%20Printing%20%283DCP%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411472997" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.7771/3067-4883.1927" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.7771/3067-4883.1927?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is increasingly used in construction due to its high speed, low waste, and geometric freedom capabilities. Researchers have signaled that 3DCP can help achieve long desired sustainability in the construction industry. Understanding the thermal behaviour of 3DCP based building elements could play a crucial role in attaining an energy efficient envelope, yet research on assessing the thermal behaviour of printed elements remains limited. This systematic literature review of records published between 2013 to 2023, provides a comprehensive overview of the thermal behaviour of several 3DCP-based materials and the important factors affecting heat transfer properties. The most common 3DCP materials with optimal thermal, mechanical and structural properties are geopolymers, phase change materials, fiber reinforced composites, polymer lattices, lightweight and foam concrete. Experimental analysis of heat transfer characteristics shows that 3DCP elements exhibit anisotropic tendencies due to a layered design and a specific fiber orientation. Thermal behaviour is expressed in terms of thermal conductivity (K value, W/mK) and overall heat transfer co-efficient (U value, W/m). Infill rate and pattern, relative density, printing speed, additive infusion, cavity fillers, geometric configurations, mix composition, surface irregularities, material fillers, and structural inhomogeneities are the main factors affecting the thermal behaviour of building elements. Effective control of the printing parameters, geometric optimization, and the correct balance of additives and fillers in the mix have the potential to lower thermal conductivity, providing an effective insulation blanket. Moreover, future research efforts could use standard techniques to interpret the thermal behaviour and the underlying factors.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
@@ -109,7 +85,37 @@ tags:
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
       <li><a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>, <a href="../../../author/shen_zhenglai"><b>Shen</b> Zhenglai</a>, <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>, <a href="../../../author/li_yucen"><b>Li</b> Yucen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zand_shen_sorg_li.2024.PtFLaUL3PCC/">Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bajw_sama_flem_bao.2025.ASLRotTBoBECT3CP3,
+      author            = "Asad Ur Rehman Bajwa and Don Amila Sajeevan Samarasinghe and Claire L. Flemmer and Ding Wen Bao",
+      title             = "A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP)",
+      doi               = "10.7771/3067-4883.1927",
+      year              = "2025",
+      journal           = "CIB Conferences",
+      volume            = "1",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. U. R. Bajwa, D. A. S. Samarasinghe, C. L. Flemmer and D. W. Bao, “A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP)”, <i>CIB Conferences</i>, vol. 1, no. 1, 2025, doi: 10.7771/3067-4883.1927.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bajwa, Asad Ur Rehman, Don Amila Sajeevan Samarasinghe, Claire L. Flemmer, and Ding Wen Bao. “A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP)”. <i>CIB Conferences</i> 1, no. 1 (2025). https://doi.org/10.7771/3067-4883.1927.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

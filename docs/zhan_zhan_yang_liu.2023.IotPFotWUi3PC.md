@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Zhang, Yunsheng Zhang, Lin Yang, Guojian Liu, Hongjian Du
+    - footer
+title: Zhang Yu, Zhang Yunsheng, Yang Lin, Liu Guojian, Du Hongjian
 description:
 tags:
  - concrete
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.matlet.2022.133642" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matlet.2022.133642</a>
+#Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete ([2022-12](date/2022/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2022.133642" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2022.133642" target="_blank">10.1016/j.matlet.2022.133642</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2596" title="ORCID: 0000-0002-6910-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_lin"><b>Yang</b>&nbsp;Lin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_guojian"><b>Liu</b>&nbsp;Guojian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
+Journal Article - Materials Letters, Vol. 333
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> <a href="https://orcid.org/0000-0002-6910-2596" title="ORCID: 0000-0002-6910-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> <a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Letters, Vol. 333, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#influence`](keyword/influence)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20the%20Pore%20Feature%20on%20the%20Water-Uptake%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143503876&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311430882" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matlet.2022.133642" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matlet.2022.133642?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The water uptake in 3D printed concrete along the printing direction is experimentally studied using X-CT combined with CsCl enhancing, molded concrete is as reference. The pore feature of the printed and molded concrete is analyzed by re-structuring X-CT images. Results show that in printed concrete quicker ingress of water is acquired, compared with molded concrete. This could be related to the elongated pores along the filament in printed concrete, while almost of all the pores in molded concrete are in spherical shape.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -72,8 +52,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/chen_weihua"><b>Chen</b> Weihua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW/">Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
@@ -85,4 +65,33 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../xiao_bai_wu_duan.2024.ILBSaPCo3PECC/">Inter-Layer Bonding Strength and Pore Characteristics of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../chen_zhan_liu_zhan.2023.3PCPF/">3D Printed Concrete Permanent Formwork:<br/>Effect of Post-Cast Concrete Proportion on Interface Bonding</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_zhan_yang_liu.2023.IotPFotWUi3PC,
+      author            = "Yu Zhang and Yunsheng Zhang and Lin Yang and Guojian Liu and Hongjian Du",
+      title             = "Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete",
+      doi               = "10.1016/j.matlet.2022.133642",
+      year              = "2023",
+      journal           = "Materials Letters",
+      volume            = "333",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, Y. Zhang, L. Yang, G. Liu and H. Du, “Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete”, <i>Materials Letters</i>, vol. 333, 2023, doi: 10.1016/j.matlet.2022.133642.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yu, Yunsheng Zhang, Lin Yang, Guojian Liu, and Hongjian Du. “Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete”. <i>Materials Letters</i> 333 (2023). https://doi.org/10.1016/j.matlet.2022.133642.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

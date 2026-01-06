@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qamar Shahzad, Nadeem Abbas, Muhammad Akbar, Ehab Sabi, Blessen Thomas, Muhammad Arshid
+    - footer
+title: Shahzad Qamar, Abbas Nadeem, Akbar Muhammad, Sabi Ehab, Thomas Blessen, Arshid Muhammad
 description:
 tags:
  - alignment
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fmats.2024.1355647/pdf?isPublishedV2=False) Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete ([2024-03](date/2024/03))
-<a href="https://doi.org/10.3389/fmats.2024.1355647" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fmats.2024.1355647</a>
+#Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fmats.2024.1355647/pdf?isPublishedV2=False) <a href="https://doi.org/10.3389/fmats.2024.1355647" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2024.1355647" target="_blank">10.3389/fmats.2024.1355647</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad_qamar"><b>Shahzad</b>&nbsp;Qamar</a></span>, <a href="../../../author/abbas_nadeem"><b>Abbas</b>&nbsp;Nadeem</a></span>, <a href="../../../author/akbar_muhammad"><b>Akbar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/sabi_ehab"><b>Sabi</b>&nbsp;Ehab</a></span>, <a href="../../../author/thomas_skariah_blessen"><b>Thomas</b>&nbsp;Blessen</a></span>, <a href="../../../author/arshid_usman_muhammad"><b>Arshid</b>&nbsp;Muhammad</a></span><br>
+Journal Article - Frontiers in Materials, Vol. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abbas_nadeem"><b>Abbas</b> Nadeem</a>
-,     <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>
-,     <a href="../../../author/sabi_ehab"><b>Sabi</b> Ehab</a>
-,     <a href="../../../author/thomas_skariah_blessen"><b>Thomas</b> Blessen</a>
-,     <a href="../../../author/arshid_usman_muhammad"><b>Arshid</b> Muhammad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Materials, Vol. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#alignment`](keyword/alignment)
-    [`#concrete`](keyword/concrete)
-    [`#diameter`](keyword/diameter)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#influence`](keyword/influence)
-    [`#nozzle`](keyword/nozzle)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#speed`](keyword/speed)
-
-
--------------------------
+<a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/diameter"><button class="btn">#diameter</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/speed"><button class="btn">#speed</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Print-Speed%20and%20Nozzle-Diameter%20on%20the%20Fiber-Alignment%20in%203D%20Printed%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188505694&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392714085" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fmats.2024.1355647" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fmats.2024.1355647?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The limitations in the available reinforcing methods have accompanied the increasing popularity of 3D Concrete Printing (3DCP). Incorporating steel fibers as reinforcement is a promising approach to overcome these limitations. However, the impact of the printing process on the alignment of these fibers is not well understood. Therefore, the objective of this research is to quantitatively analyze the distribution of steel fiber alignment in 3D printed concrete. To achieve this, digital image analysis was employed to assess the influence of nozzle diameter, print speed, and fiber content on fiber alignment in both moldcast and 3D-printed samples. UHPC matrix without fiber addition and fiber reinforced UHPC composites with brass-coated steel fiber contents of 1.5% and 3% by volume fraction were printed. Furthermore, Material nozzles ranging from 10 mm to 40 mm in size were employed and printing speeds of 15, 25, 35, and 45 mm/s were adjusted. Subsequently, the study examined the implications of fiber alignment on the hardened performance of printed specimens and compared them with conventionally mold-cast samples. The findings of the study demonstrated that increasing the fiber content and using smaller diameter nozzles during the printing procedure led to significant improvements in fiber orientation along the printing direction. As a result, the mechanical performance of the printed samples showed a substantial enhancement compared to the specimens produced through mold casting, primarily due to the improved fiber alignment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -90,7 +64,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/abbas_nadeem"><b>Abbas</b> Nadeem</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/sabi_ehab"><b>Sabi</b> Ehab</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shah_abba_akba_sabi.2024.IoPSaNDotFAi3PUHPC/">Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../shah_li.2023.AIMfBAo3PCaEA/">An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a>, <a href="../../../author/naseem_rabia"><b>Naseem</b> Rabia</a>, <a href="../../../author/yao_yonggang"><b>Yao</b> Yonggang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../shah_shen_nase_yao.2021.IoPCMoCBfC3P/">Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/wang_xujiang"><b>Wang</b> Xujiang</a>, <a href="../../../author/wang_wenlong"><b>Wang</b> Wenlong</a>, <a href="../../../author/wan_yi"><b>Wan</b> Yi</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../shah_wang_wang_wan.2020.CAaOoSTFaMSfC3PMDfSW/">Coordinated Adjustment and Optimization of Setting-Time, Flowability, and Mechanical Strength for Construction 3D Printing Material Derived from Solid Waste</a></li>
@@ -98,8 +71,9 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
@@ -108,6 +82,34 @@ tags:
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../si_khan_mcna.2025.ACRoRDaPPi3CP/">A Comprehensive Review of Rheological Dynamics and Process Parameters in 3D Concrete Printing</a></li>
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/alzara_majed"><b>Alzara</b> Majed</a>, <a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../shah_akba_alza_yosr.2024.TDBEo3PC/">Time-Dependent Buildability Evaluation of 3D Printed Concrete:<br/>Experimental Validation and Numerical Simulation</a></li>
-      <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/abbas_nadeem"><b>Abbas</b> Nadeem</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/sabi_ehab"><b>Sabi</b> Ehab</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shah_abba_akba_sabi.2024.IoPSaNDotFAi3PUHPC/">Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_abba_akba_sabi.2024.IoPSaNDotFAi3PUHPC,
+      author            = "Qamar Shahzad and Nadeem Abbas and Muhammad Akbar and Ehab Sabi and Blessen Skariah Thomas and Muhammad Usman Arshid",
+      title             = "Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete",
+      doi               = "10.3389/fmats.2024.1355647",
+      year              = "2024",
+      journal           = "Frontiers in Materials",
+      volume            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Shahzad, N. Abbas, M. Akbar, E. Sabi, B. S. Thomas and M. U. Arshid, “Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete”, <i>Frontiers in Materials</i>, vol. 11, 2024, doi: 10.3389/fmats.2024.1355647.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahzad, Qamar, Nadeem Abbas, Muhammad Akbar, Ehab Sabi, Blessen Skariah Thomas, and Muhammad Usman Arshid. “Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete”. <i>Frontiers in Materials</i> 11 (2024). https://doi.org/10.3389/fmats.2024.1355647.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

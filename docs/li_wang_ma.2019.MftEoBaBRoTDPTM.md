@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhijian Li, Li Wang, Guowei Ma
+    - footer
+title: Li Zhijian, Wang Li, Ma Guowei
 description:
 tags:
  - bending
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Method for the Enhancement of Buildability and Bending-Resistance of Three-Dimensional-Printable Tailing Mortar ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/b978-0-12-815481-6.00008-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-12-815481-6.00008-7</a>
+#Method for the Enhancement of Buildability and Bending-Resistance of Three-Dimensional-Printable Tailing Mortar ([2019-02](date/2019/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00008-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00008-7" target="_blank">10.1016/b978-0-12-815481-6.00008-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Contribution - 3D Concrete Printing Technology, pp. 161-180
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing Technology, pp. 161-180
-
-:aca-blank:{ .lg .middle}
-    [`#bending`](keyword/bending)
-    [`#buildability`](keyword/buildability)
-    [`#dimension`](keyword/dimension)
-    [`#enhancement`](keyword/enhancement)
-    [`#method`](keyword/method)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#resistance`](keyword/resistance)
-    [`#tailing`](keyword/tailing)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Method%20for%20the%20Enhancement%20of%20Buildability%20and%20Bending-Resistance%20of%20Three-Dimensional-Printable%20Tailing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150087313&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2916169140" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-12-815481-6.00008-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-12-815481-6.00008-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent few years, significant progress has been made in developing various 3D printing techniques to accommodate the need for constructionscale 3D printing. Many attempts have been conducted to explore the potential of 3D printing in the building and construction industries, such as D-shape, contour crafting, and concrete printing [16]. Such techniques are well-suited to the production of one-off, complex structures that would often be difficult to produce using traditional manufacturing methods. Cementitious materials that are compatible with 3D printing promote rapid application of this innovative technique in the construction field with the added advantages of low cost, high efficiency, design flexibility, and being environmentally friendly [610]. It is critical to ensure a complementary connection between the designs of the printable mix and printing machine. Currently, various 3D-printable mixtures have been continuously developed, such as high-performance composites [11,12] and fiber-reinforced mixtures [13], among others. A number of specific implementation practices have been presented, for example, a five-story apartment 3D printed by WinSun [14], the Big Delta project [15], a castle printed in situ [16], and architectural elements [17], etc. All of these projects demonstrated the great potential and feasibility of 3D printing in constructing large-scale building components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -92,8 +69,8 @@ tags:
       <li><a href="../../../author/voigt_thomas"><b>Voigt</b> Thomas</a>, <a href="../../../author/malonn_tim"><b>Malonn</b> Tim</a>, <a href="../../../author/shah_p_surendra"><b>Shah</b> Surendra</a> <a href="../../../date/2005/10">(2005-10)</a><br><a href="../../../voig_malo_shah.2006.GaEACSoECMMwCTaUT/">Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wu_liu_liu_bai.2024.MotIoMSPSotTMPo3PCwRS/">Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/bayatkashkooli_samira"><b>Bayatkashkooli</b> Samira</a>, <a href="../../../author/amirsardari_anita"><b>Amirsardari</b> Anita</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../baya_amir_raje_sanj.2024.IoALCo3PCW/">Investigation of Axial Load Capacity of 3D Printed Concrete Wall</a></li>
@@ -108,4 +85,34 @@ tags:
       <li><a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../kim_yeon_lee.2019.SDCoSMCMf3CP/">Strength Development Characteristics of SBR-Modified Cementitious Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/yeon_kyu-seok"><b>Yeon</b> Kyu-Seok</a>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../yeon_kim_yeon_lee.2019.FPoEMCMfUiACbE/">Fresh Properties of EVA-Modified Cementitious Mixtures for Use in Additive Construction by Extrusion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{li_wang_ma.2019.MftEoBaBRoTDPTM,
+      author            = "Zhijian Li and Li Wang and Guowei Ma",
+      title             = "Method for the Enhancement of Buildability and Bending-Resistance of Three-Dimensional-Printable Tailing Mortar",
+      doi               = "10.1016/b978-0-12-815481-6.00008-7",
+      year              = "2019",
+      pages             = "161--180",
+      booktitle         = "3D Concrete Printing Technology: Construction and Building Applications",
+      editor            = "Jay Gnananandan Sanjayan and Ali Nazari and Behzad Nematollahi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, L. Wang and G. Ma, “Method for the Enhancement of Buildability and Bending-Resistance of Three-Dimensional-Printable Tailing Mortar”, in <i>3D Concrete Printing Technology: Construction and Building Applications</i>,  2019, pp. 161–180. doi: 10.1016/b978-0-12-815481-6.00008-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zhijian, Li Wang, and Guowei Ma. “Method for the Enhancement of Buildability and Bending-Resistance of Three-Dimensional-Printable Tailing Mortar”. In <i>3D Concrete Printing Technology: Construction and Building Applications</i>, edited by Jay Gnananandan Sanjayan, Ali Nazari, and Behzad Nematollahi, 161–80, 2019. https://doi.org/10.1016/b978-0-12-815481-6.00008-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

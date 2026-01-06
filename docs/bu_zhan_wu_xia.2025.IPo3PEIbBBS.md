@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dechao Bu, Jiawei Zhang, Gan Wu, Zixu Xia, Hongrui Zhang, Cong Lu, Yiming Yao
+    - footer
+title: Bu Dechao, Zhang Jiawei, Wu Gan, Xia Zixu, Zhang Hongrui, Lu Cong, Yao Yiming
 description:
 tags:
  - bouligand
@@ -14,33 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143826" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143826</a>
+#Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143826" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143826" target="_blank">10.1016/j.conbuildmat.2025.143826</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-0686-1616" title="ORCID: 0009-0001-0686-1616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bu_dechao"><b>Bu</b>&nbsp;Dechao</a></span>, <a href="../../../author/zhang_jiawei"><b>Zhang</b>&nbsp;Jiawei</a></span>, <a href="../../../author/wu_gan"><b>Wu</b>&nbsp;Gan</a></span>, <a href="../../../author/xia_zixu"><b>Xia</b>&nbsp;Zixu</a></span>, <a href="../../../author/zhang_hongrui"><b>Zhang</b>&nbsp;Hongrui</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_yiming"><b>Yao</b>&nbsp;Yiming</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 496, No. 143826
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a> <a href="https://orcid.org/0009-0001-0686-1616" title="ORCID: 0009-0001-0686-1616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>
-,     <a href="../../../author/wu_gan"><b>Wu</b> Gan</a>
-,     <a href="../../../author/xia_zixu"><b>Xia</b> Zixu</a>
-,     <a href="../../../author/zhang_hongrui"><b>Zhang</b> Hongrui</a>
-,     <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>
-,     <a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a> <a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 496, No. 143826
-
-:aca-blank:{ .lg .middle}
-    [`#bouligand`](keyword/bouligand)
-    [`#ecc`](keyword/ecc)
-    [`#inspiration`](keyword/inspiration)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20Performance%20of%203D%20Printed%20ECC%20Inspired%20by%20Biological%20Bouligand%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017231052&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414713189" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143826" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143826?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Inspired by nature, this study employed the Bouligand structure found in the periodic regions of the mantis shrimp's hammer-like dactyl clubs to enhance the impact resistance of 3D printed engineered cementitious composites (3DP-ECC). Specimens with varying layer pitch angles (0°, 15°, 30°, 45°, 90°) were fabricated to mimic this helical stacking and tested under dynamic loading (input energy of 26 J). The results indicated that the Bouligand structure effectively mitigated the anisotropy of 3DP-ECC. This helical stacking structure showed a significant enhancement in the Y direction. Conventionally printed 3DP-ECC at the 0° angle absorbed only 5.04 J (19.4 % of the input energy). However, increasing the pitch angle to 45° resulted in a significant improvement, with the absorbed energy rising to 16.87 J (64.9 %). The DIC results demonstrated that the crack width and propagation rate in the Bouligand group were smaller than those in the control group. The reconstructed fracture morphology from 3D scanning revealed more pronounced internal crack twisting in the Bouligand group. The roughness index (RN) of specimen’s cracked surfaces in the X and Y directions increased by 13.6 % and 23.6 %, respectively, which was positively correlated with impact resistance. Finally, the anisotropic behavior of the material was discussed, with particular attention to how variations in pitch angle influence both peak load and energy absorption. The study applied the Bouligand structure to 3DP-ECC, effectively reducing the mechanical anisotropy. The outcomes contribute to the development of impact-resistant elements, facilitating their application in protective infrastructure and digitally fabricated structural members.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -82,7 +59,37 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bu_zhan_wu_xia.2025.IPo3PEIbBBS,
+      author            = "Dechao Bu and Jiawei Zhang and Gan Wu and Zixu Xia and Hongrui Zhang and Cong Lu and Yiming Yao",
+      title             = "Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure",
+      doi               = "10.1016/j.conbuildmat.2025.143826",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "496",
+      pages             = "143826",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Bu, “Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure”, <i>Construction and Building Materials</i>, vol. 496, p. 143826, 2025, doi: 10.1016/j.conbuildmat.2025.143826.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bu, Dechao, Jiawei Zhang, Gan Wu, Zixu Xia, Hongrui Zhang, Cong Lu, and Yiming Yao. “Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure”. <i>Construction and Building Materials</i> 496 (2025): 143826. https://doi.org/10.1016/j.conbuildmat.2025.143826.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

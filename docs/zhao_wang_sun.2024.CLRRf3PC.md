@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Cong Zhao, Hailong Wang, Xiaoyan Sun
+    - footer
+title: Zhao Cong, Wang Hailong, Sun Xiaoyan
 description:
 tags:
  - concrete
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-# Cross-Layer Reinforcement Robot for 3D Printing Concrete:<br/>:aca-blank: Hardware, Software, and Validation ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408200644-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408200644-0</a>
+#Cross-Layer Reinforcement Robot for 3D Printing Concrete&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Hardware, Software, and Validation</div>
+ <a href="https://doi.org/10.24355/dbbs.084-202408200644-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408200644-0" target="_blank">10.24355/dbbs.084-202408200644-0</a>
 
--------------------------
+<a href="../../../author/zhao_cong"><b>Zhao</b>&nbsp;Cong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_cong"><b>Zhao</b> Cong</a>
-,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#cross`](keyword/cross)
-    [`#hardware`](keyword/hardware)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-    [`#software`](keyword/software)
-    [`#validation`](keyword/validation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/hardware"><button class="btn">#hardware</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/software"><button class="btn">#software</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cross-Layer%20Reinforcement%20Robot%20for%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6963858814" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408200644-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408200644-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A significant technical challenge faced by 3D printing concrete (3DPC) is integrating reinforcing materials, such as steel fibre and rebar, across multiple layers. Additionally, an automated reinforcement process is essential to ensure the installation precision of the reinforcement and maintain the construc-tion efficiency of 3DPC. This study proposes a robotic system to achieve collab-orative work between cross-layer reinforcement installation and concrete print-ing. The proposed system consists of two main modules: a concrete printing module and a cross-layer reinforcement installation module. This study devel-oped a simple Cartesian robot as a preliminary cross-layer reinforcement instal-lation module, which can work with a gantry-style 3D printer. A set of software based on Robot Operating System 2 was used to control the robot’s actions. The robot has three linear joints and one revolute joint, the revolute joint enables the insertion of cross-layer reinforcement at different angles. With specially de-signed end-effectors, this robot can handle different reinforcing materials. Steel fibre and U-shaped steel rebar were adopted to rein-force the printed concrete, and then X-Ray Computed Tomography (XCT) scanning analysis was used to verify the reliability of this system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../best_heev_krug_cho.2020.SFLi3PC/">Steel-Fiber Links in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../best_krug_zijl.2023.RRfCP/">Rivet Reinforcement for Concrete Printing</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../cao_yu_cui.2023.ESotISRSTtR3PCiVD/">Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions</a></li>
@@ -81,7 +60,36 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zhao_wang_sun.2024.CLRRf3PC,
+      author            = "Cong Zhao and Hailong Wang and Xiaoyan Sun",
+      title             = "Cross-Layer Reinforcement Robot for 3D Printing Concrete: Hardware, Software, and Validation",
+      doi               = "10.24355/dbbs.084-202408200644-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Zhao, H. Wang and X. Sun, “Cross-Layer Reinforcement Robot for 3D Printing Concrete: Hardware, Software, and Validation”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408200644-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Cong, Hailong Wang, and Xiaoyan Sun. “Cross-Layer Reinforcement Robot for 3D Printing Concrete: Hardware, Software, and Validation”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408200644-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

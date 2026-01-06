@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Liming Yang, Samad Sepasgozar, Sara Shirowzhan, Alireza Kashani, David Edwards
+    - footer
+title: Yang Liming, Sepasgozar Samad, Shirowzhan Sara, Kashani Alireza, Edwards David
 description:
 tags:
  - bond
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.autcon.2022.104671" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104671</a>
+#Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete ([2022-12](date/2022/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104671" target="_blank">10.1016/j.autcon.2022.104671</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0095-5635" title="ORCID: 0000-0003-0095-5635" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_liming"><b>Yang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2568-3111" title="ORCID: 0000-0003-2568-3111" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b>&nbsp;Samad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1511-3617" title="ORCID: 0000-0003-1511-3617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9727-6000" title="ORCID: 0000-0001-9727-6000" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/edwards_j_david"><b>Edwards</b>&nbsp;David</a></span><br>
+Journal Article - Automation in Construction, Vol. 146
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_liming"><b>Yang</b> Liming</a> <a href="https://orcid.org/0000-0003-0095-5635" title="ORCID: 0000-0003-0095-5635" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a> <a href="https://orcid.org/0000-0003-2568-3111" title="ORCID: 0000-0003-2568-3111" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a> <a href="https://orcid.org/0000-0003-1511-3617" title="ORCID: 0000-0003-1511-3617" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/edwards_j_david"><b>Edwards</b> David</a> <a href="https://orcid.org/0000-0001-9727-6000" title="ORCID: 0000-0001-9727-6000" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 146, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#criteria`](keyword/criteria)
-    [`#enhancement`](keyword/enhancement)
-    [`#extrusion`](keyword/extrusion)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nozzle%20Criteria%20for%20Enhancing%20Extrudability%2C%20Buildability%20and%20Inter-Layer%20Bonding%20in%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144071681&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4311274187" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104671" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104671?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The technology supporting 3D Printing Concrete (3DPC) has developed rapidly in recent years. However, inadequate understanding of nozzle-related parameters and a lack of standards for fresh and hardened property testing methods are key challenges to addressing, or rethinking, how to improve printability. To explore how nozzle design and relevant parameters impact upon printability and delineate nozzle operability criteria, this paper conducts a systematic content review of 70 research papers on nozzle design that were published over the past decade (2012 to 2022), focusing on notable gaps in prevailing literature in terms of: current design practices of a nozzle; correlations between nozzle and printability; and current advances in testing methods. Emergent findings suggest that four nozzle-design parameters have the highest potential impacts on printability, viz.: nozzle travel speed; nozzle size; nozzle shape; and distance of the nozzle to the build. Subsequently, the research proposes operability criteria for these four parameters to assist researchers and practitioners set appropriate nozzle-related parameters during printing. Finally, sustainability challenges (such as reduced printing productivity, the blocking problem and limited utilization of waste recycling) in nozzle-adopting are further elucidated upon and recommendations for future work are given. Overall, the findings presented provide both theoretical and practical contributions for nozzle development and open a new horizon in optimization for 3DPC performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "75 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -148,8 +123,10 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "67 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
@@ -216,4 +193,33 @@ tags:
       <li><a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a>, <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../razz_cerr_pan_kora.2023.NaPAfHP3PC/">Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/liu_kun"><b>Liu</b> Kun</a>, <a href="../../../author/li_yunchao"><b>Li</b> Yunchao</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../geng_luo_liu_li.2023.RSaPoMLiC3P/">Research Status and Prospect of Machine Learning in Construction 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_sepa_shir_kash.2023.NCfEEBaILBi3PC,
+      author            = "Liming Yang and Samad M. E. Sepasgozar and Sara Shirowzhan and Alireza Kashani and David J. Edwards",
+      title             = "Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete",
+      doi               = "10.1016/j.autcon.2022.104671",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "146",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Yang, S. M. E. Sepasgozar, S. Shirowzhan, A. Kashani and D. J. Edwards, “Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete”, <i>Automation in Construction</i>, vol. 146, 2023, doi: 10.1016/j.autcon.2022.104671.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Liming, Samad M. E. Sepasgozar, Sara Shirowzhan, Alireza Kashani, and David J. Edwards. “Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete”. <i>Automation in Construction</i> 146 (2023). https://doi.org/10.1016/j.autcon.2022.104671.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

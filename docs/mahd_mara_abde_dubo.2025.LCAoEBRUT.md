@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Deena Mahdy, Eugene Marais, Marwa Abdelrahim, Alexandre Dubor, Edouard Cabay
+    - footer
+title: Mahdy Deena, Marais Eugene, Abdelrahim Marwa, Dubor Alexandre, Cabay Edouard
 description:
 tags:
  - assessment
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04925) Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>:aca-blank: A 3D Printed On-Site Load-Bearing Structure ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04925" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04925</a>
+#Life Cycle Assessment of Earth-Based Residential Unit “TOVA”&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">A 3D Printed On-Site Load-Bearing Structure</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04925) <a href="https://doi.org/10.1016/j.cscm.2025.e04925" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04925" target="_blank">10.1016/j.cscm.2025.e04925</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdy_deena"><b>el&nbsp;Mahdy</b>&nbsp;Deena</a></span>, <a href="../../../author/marais_eugene"><b>Marais</b>&nbsp;Eugene</a></span>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b>&nbsp;Marwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8129-4834" title="ORCID: 0000-0002-8129-4834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dubor_alexandre"><b>Dubor</b>&nbsp;Alexandre</a></span>, <a href="../../../author/cabay_edouard"><b>Cabay</b>&nbsp;Edouard</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04925
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mahdy_deena"><b>el Mahdy</b> Deena</a> <a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>
-,     <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>
-,     <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> <a href="https://orcid.org/0000-0002-8129-4834" title="ORCID: 0000-0002-8129-4834" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04925
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#bearing`](keyword/bearing)
-    [`#cycle`](keyword/cycle)
-    [`#earth`](keyword/earth)
-    [`#life`](keyword/life)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#site`](keyword/site)
-    [`#structure`](keyword/structure)
-    [`#unit`](keyword/unit)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Earth-Based%20Residential%20Unit%20%E2%80%9CTOVA%E2%80%9D" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008174050&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411263388" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04925" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04925?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to assess the environmental life cycle of a real lead-bearing 3D printed earthen-based (3DP-E) structure built on-site, “TOVA” in Spain. The method followed a cradle-to-site approach focusing on wall structure. Three different structure scenarios are compared with the 3DP-E; conventional fired bricks construction, 3DP concrete (3DP-C), and 3DP-E (optimised). The results show that the conventional structure scenario is the highest impact in all the indicators. Global warming indicates the highest results in the conventional method than the 3DP methods with a value of 12004.5 kg CO2 eq, while 264.759kg CO2 eq, 161.368 kg CO2 eq, and 592.995 kg CO2 eq, respectively for the 3DP-E, 3DP-E(O), and 3DP-C respectively. A significant environmental enhancement in global warming for 3DP-E and 3DP-E(optimized) are 55% and 72% respectively compared to 3DP-C, and around 97% enhancement compared to the conventional technique. Regarding the carbon emission from transportation, 3DP-E recorded the lowest ratio from transportation, as 85% of the materials were locally sourced from the site. Unlike the 3DP-C and conventional scenarios where both had the highest ratio of 100%, where all the materials were imported. This paper contributes by highlighting the potential of 3DP-E to enhance sustainability by reducing the environmental impact of construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
@@ -97,7 +72,6 @@ tags:
       <li><a href="../../../author/khalili-tari_mohammadreza"><b>Khalili Tari</b> Mohammadreza</a>, <a href="../../../author/reza-faraji_amir"><b>Reza Faraji</b> Amir</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../khal_reza_asla_zahe.2023.ESaLCAoa3PB/">Energy Simulation and Life Cycle Assessment of a 3D Printable Building</a></li>
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../kuzm_fera_bave_rous.2020.EIo6ARAf3CP/">Environmental Impacts of 6-Axis Robotic Arm for 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_siyu"><b>Liu</b> Siyu</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>, <a href="../../../author/pan_zehua"><b>Pan</b> Zehua</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lu_li_pan.2022.ACSoEPo3PaCCoCPwIW/">A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes</a></li>
-      <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
       <li><a href="../../../author/mir_namra"><b>Mir</b> Namra</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../mir_khan_kul_sahi.2022.LCAoCaDWBGSfUi3AM/">Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
       <li><a href="../../../author/moghayedi_alireza"><b>Moghayedi</b> Alireza</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a>, <a href="../../../author/lediga_refilwe"><b>Lediga</b> Refilwe</a>, <a href="../../../author/mosiea_tshepang"><b>Mosiea</b> Tshepang</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mogh_maha_ledi_mosi.2024.RAHiA/">Revolutionizing Affordable Housing in Africa:<br/>A Comprehensive Technical and Sustainability Study of 3D Printing Technology</a></li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
@@ -121,10 +95,38 @@ tags:
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
-      <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mahd_mara_abde_dubo.2025.LCAoEBRUT,
+      author            = "Deena El Mahdy and Eugene Marais and Marwa Abdelrahim and Alexandre Dubor and Edouard Cabay",
+      title             = "Life Cycle Assessment of Earth-Based Residential Unit “TOVA”: A 3D Printed On-Site Load-Bearing Structure",
+      doi               = "10.1016/j.cscm.2025.e04925",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04925",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. E. Mahdy, E. Marais, M. Abdelrahim, A. Dubor and E. Cabay, “Life Cycle Assessment of Earth-Based Residential Unit “TOVA”: A 3D Printed On-Site Load-Bearing Structure”, <i>Case Studies in Construction Materials</i>, p. e04925, 2025, doi: 10.1016/j.cscm.2025.e04925.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mahdy, Deena El, Eugene Marais, Marwa Abdelrahim, Alexandre Dubor, and Edouard Cabay. “Life Cycle Assessment of Earth-Based Residential Unit “TOVA”: A 3D Printed On-Site Load-Bearing Structure”. <i>Case Studies in Construction Materials</i>, 2025, e04925. https://doi.org/10.1016/j.cscm.2025.e04925.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jingming Cai, Zhaoliang Sheng, Xiaoyi Wang, Yizhi Fang, Jinlong Pan
+    - footer
+title: Cai Jingming, Sheng Zhaoliang, Wang Xiaoyi, Fang Yizhi, Pan Jinlong
 description:
 tags:
  - beam
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.jobe.2021.103773" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.103773</a>
+#Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.103773" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103773" target="_blank">10.1016/j.jobe.2021.103773</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_jingming"><b>Cai</b>&nbsp;Jingming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6181-8186" title="ORCID: 0000-0002-6181-8186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sheng_zhaoliang"><b>Sheng</b>&nbsp;Zhaoliang</a></span>, <a href="../../../author/wang_xiaoyi"><b>Wang</b>&nbsp;Xiaoyi</a></span>, <a href="../../../author/fang_yizhi"><b>Fang</b>&nbsp;Yizhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 46
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a> <a href="https://orcid.org/0000-0002-6181-8186" title="ORCID: 0000-0002-6181-8186" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>
-,     <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 46, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Reinforcement-Configurations%20on%20the%20Flexural%20Behaviors%20of%203D%20Printed%20Fiber-Reinforced%20Cementitious%20Composite%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120406472&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3217746520" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.103773" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.103773?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The three-dimensional (3D) printing technology has gained increasing attention in recent years. Even though the cementitious materials for 3D printing have been intensively investigated, little attention has been paid to the mechanical behaviors of 3D printed structural members. This paper was intended to investigate the mechanical behaviors of 3D printed fiber reinforced cementitious composite (FRCC) beams. Totally four 3D printed FRCC beams with different reinforcement methods, as well as one conventional steel reinforced FRCC beam, were fabricated and tested. The failure mechanisms were investigated and the effectiveness of different reinforcement methods was discussed. It was concluded that the 3D printed FRCC beams, with proper reinforcement method, could have comparable or even higher load-bearing capacity than conventional steel reinforced FRCC beam. However, the post-peak ductility of 3D printed FRCC beam is much lower due to the initiation of interlayer shear crack, indicating that the interlayer bonding strength of 3D printed FRCC should be further increased. The finite element (FE) model was also proposed to simulate the flexural behaviors of 3D printed FRCC beam as well as the conventional steel reinforced FRCC beam with identical steel reinforcements. The failure mechanism was analyzed and compared based on the proposed FE model. It was found that more steel reinforcements participated in bearing flexural load for 3D printed FRCC beam, thus the flexural bearing capacity of 3D printed FRCC beam is slightly higher than conventional cast-in-situ FRCC beam.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
@@ -92,8 +68,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
       <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
@@ -118,4 +94,33 @@ tags:
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../ahad_vali.2022.UoNSMAitRo3CPI/">Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB,
+      author            = "Jingming Cai and Zhaoliang Sheng and Xiaoyi Wang and Yizhi Fang and Jinlong Pan",
+      title             = "Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams",
+      doi               = "10.1016/j.jobe.2021.103773",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "46",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Cai, Z. Sheng, X. Wang, Y. Fang and J. Pan, “Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams”, <i>Journal of Building Engineering</i>, vol. 46, 2022, doi: 10.1016/j.jobe.2021.103773.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cai, Jingming, Zhaoliang Sheng, Xiaoyi Wang, Yizhi Fang, and Jinlong Pan. “Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams”. <i>Journal of Building Engineering</i> 46 (2022). https://doi.org/10.1016/j.jobe.2021.103773.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guojun Yang, Yiwei Weng, Jiefu Tian, Zhenjun Yang
+    - footer
+title: Yang Guojun, Weng Yiwei, Tian Jiefu, Yang Zhenjun
 description:
 tags:
  - beam
@@ -22,38 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>:aca-blank: Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.engstruct.2025.120486" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.120486</a>
+#3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.120486" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120486" target="_blank">10.1016/j.engstruct.2025.120486</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-0895-0329" title="ORCID: 0009-0002-0895-0329" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_guojun"><b>Yang</b>&nbsp;Guojun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <a href="../../../author/tian_jiefu"><b>Tian</b>&nbsp;Jiefu</a></span>, <a href="../../../author/yang_zhenjun"><b>Yang</b>&nbsp;Zhenjun</a></span><br>
+Journal Article - Engineering Structures, Vol. 336, No. 120486
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a> <a href="https://orcid.org/0009-0002-0895-0329" title="ORCID: 0009-0002-0895-0329" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>
-,     <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 336, No. 120486
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#composite`](keyword/composite)
-    [`#cost`](keyword/cost)
-    [`#design`](keyword/design)
-    [`#distribution`](keyword/distribution)
-    [`#effect`](keyword/effect)
-    [`#failure`](keyword/failure)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#mode`](keyword/mode)
-    [`#orientation`](keyword/orientation)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#transition`](keyword/transition)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/mode"><button class="btn">#mode</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transition"><button class="btn">#transition</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Towards%20Cost-Effective%20Design%20of%20Composite%20UHPFRC%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003965267&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410051714" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.120486" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.120486?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To reduce the high cost of ultra-high-performance fiber-reinforced concrete (UHPFRC) structures, this study proposes a novel composite UHPFRC beam design and a 3D printing–casting mixed fabrication method with optimal fiber orientation and distribution. Specifically, the UHPFRC is 3D-printed (3DP-UHPFRC) only in tensile stress-critical regions such as lower bending and diagonal shear, with the fibers aligned along the principal tensile stress direction to provide optimal crack constraining and bridging effects, while the fiber-free UHPC is cast elsewhere. Four-point bending tests of 12 beams considering 3 parameters, namely fabrication process, 3DP-UHPFRC layer thickness, and shear reinforcement were carried out, assisted by digital image correlation (DIC) to observe surface crack propagation and micro X-ray computed tomography (μXCT) to characterize the internal 3D microstructures around the printed interlayer interfaces and print-cast interfaces. Compared with the cast beam with a fiber volume fraction of 1.5 %, the composite beams achieved a maximum fiber reduction of 53 % for the same ultimate load and 72 % for the same nominal cracking load, with corresponding material cost reductions of 24 % and 33 %. The DIC analyses showed that 3D-printing fibers in the diagonal shear regions shifted the beam failure mode from brittle shear to ductile flexure, though the fiber saving was reduced to 35 %. The 3D μXCT images indicated that 3D printing was able to force most of the fibers to align along the printing direction and did not evidently result in more pores near the interfaces, thus hardly affecting the beam structural behavior.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
@@ -99,11 +72,41 @@ tags:
       <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC/">The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_weng_tian_yang.2025.3PTCEDoCUB,
+      author            = "Guojun Yang and Yiwei Weng and Jiefu Tian and Zhenjun Yang",
+      title             = "3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams: Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition",
+      doi               = "10.1016/j.engstruct.2025.120486",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "336",
+      pages             = "120486",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Yang, Y. Weng, J. Tian and Z. Yang, “3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams: Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition”, <i>Engineering Structures</i>, vol. 336, p. 120486, 2025, doi: 10.1016/j.engstruct.2025.120486.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Guojun, Yiwei Weng, Jiefu Tian, and Zhenjun Yang. “3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams: Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition”. <i>Engineering Structures</i> 336 (2025): 120486. https://doi.org/10.1016/j.engstruct.2025.120486.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

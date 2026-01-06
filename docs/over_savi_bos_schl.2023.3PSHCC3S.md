@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anne Overmeir, Branko Šavija, Freek Bos, Erik Schlangen
+    - footer
+title: Overmeir Anne, Šavija Branko, Bos Freek, Schlangen Erik
 description:
 tags:
  - cement
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2023.132924) 3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC):<br/>:aca-blank: Tailoring Fresh and Hardened State Properties ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132924" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132924</a>
+#3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC)&nbsp;([2023-08](date/2023/08))
+<div class="h1-like">Tailoring Fresh and Hardened State Properties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2023.132924) <a href="https://doi.org/10.1016/j.conbuildmat.2023.132924" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132924" target="_blank">10.1016/j.conbuildmat.2023.132924</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3213-6979" title="ORCID: 0000-0002-3213-6979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/overmeir_linde_anne"><b>van&nbsp;Overmeir</b>&nbsp;Anne</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 403
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/overmeir_linde_anne"><b>van Overmeir</b> Anne</a> <a href="https://orcid.org/0000-0002-3213-6979" title="ORCID: 0000-0002-3213-6979" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 403, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#state`](keyword/state)
-    [`#strain`](keyword/strain)
-    [`#tailoring`](keyword/tailoring)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Strain-Hardening%20Cementitious%20Composites%20%283DP-SHCC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169789398&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386322605" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132924" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132924?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the introduction of 3D concrete printing, research started on how to include reinforcement in 3D printed structures. Initial studies on the implementation of strain hardening cementitious composites (SHCC) as selfreinforcing printable mortars have shown promising results. The development of this new type of SHCC comes with additional challenges. Where SHCC by itself is already a complex material engineered to achieve specific micromechanical behaviour under tensile loading, its application in 3D printing techniques imposes even more requirements - the so-called ‘printability’ requirements. The question that rises for the development of this new material is how to achieve printability without losing strain hardening capacity. This paper investigates the influence of raw materials and additives, such as silica fume, limestone powder, viscosity modifying agents and water, on the fresh and hardened mechanical properties of printable SHCC, by improving on a previously developed mixture. The fresh material mixtures were subjected to slump flow tests to analyse their applicability for 3D printing. In hardened state, the mixtures were tested on their compressive strength and flexural strength to assess their potential for strain hardening capacity. Finally, two mixtures were selected for printing. The mixtures were assessed on print quality and buildability by the deployment of a buildability test. Furthermore, the printed elements were mechanically tested at 28 days, on compressive strength, flexural strength and uniaxial tensile strength and strain. It was concluded that the silica fume content and water to solid ratio are relevant variables for 3DP-SHCC optimization. The study has yielded two 3DP-SHCC mix designs that display significant strain hardening capacity and good printability properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -81,7 +59,6 @@ tags:
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../figu_rodr_ahme_bos.2020.MBoPSHCC/">Mechanical Behavior of Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
       <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../hass_bos_sale.2022.CtBPoAPHRi3PC/">Characterizing the Bond Properties of Automatically Placed Helical Reinforcement in 3D Printed Concrete</a></li>
-      <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../hass_nefs_bos_sale.2023.APoCSHCCaHRf3CPS/">Application Potential of Combining Strain-Hardening Cementitious Composites and Helical Reinforcement for 3D Concrete Printed Structures:<br/>Case Study of a Spiral Staircase</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
@@ -91,7 +68,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../over_figu_savi_bos.2022.DaAoPSHCCwOPSD/">Design and Analyses of Printable Strain-Hardening Cementitious Composites with Optimized Particle-Size-Distribution</a></li>
-      <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../over_savi_bos_schl.2023.Eo3CPPotMPoPSHCC/">Effects of 3D Concrete Printing Phases on the Mechanical Performance of Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR/">Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
@@ -106,8 +82,8 @@ tags:
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM/">Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>
@@ -130,4 +106,33 @@ tags:
       <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../hass_nefs_bos_sale.2023.APoCSHCCaHRf3CPS/">Application Potential of Combining Strain-Hardening Cementitious Composites and Helical Reinforcement for 3D Concrete Printed Structures:<br/>Case Study of a Spiral Staircase</a></li>
       <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../over_savi_bos_schl.2023.Eo3CPPotMPoPSHCC/">Effects of 3D Concrete Printing Phases on the Mechanical Performance of Printable Strain-Hardening Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{over_savi_bos_schl.2023.3PSHCC3S,
+      author            = "Anne Linde van Overmeir and Branko Šavija and Freek Paul Bos and Erik Schlangen",
+      title             = "3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC): Tailoring Fresh and Hardened State Properties",
+      doi               = "10.1016/j.conbuildmat.2023.132924",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "403",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. L. van Overmeir, B. Šavija, F. P. Bos and E. Schlangen, “3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC): Tailoring Fresh and Hardened State Properties”, <i>Construction and Building Materials</i>, vol. 403, 2023, doi: 10.1016/j.conbuildmat.2023.132924.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Overmeir, Anne Linde van, Branko Šavija, Freek Paul Bos, and Erik Schlangen. “3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC): Tailoring Fresh and Hardened State Properties”. <i>Construction and Building Materials</i> 403 (2023). https://doi.org/10.1016/j.conbuildmat.2023.132924.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

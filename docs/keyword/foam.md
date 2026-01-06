@@ -8,7 +8,7 @@ search:
 
 # #foam
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../card_parm_varg_rest.2026.IoVAiLFCf3P/">Incorporation of Vitrified Ashes in Lightweight Foamed Concrete for 3D Printing:<br/>Thermal and Mechanical Assessment</a></li>
   <li><a href="../../../author/muller_niklas"><b>Müller</b> Niklas</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../mull_cla.2025.AMoTOLSUFC/">Additive Manufacturing of Topology-Optimized Lightweight Slabs Using Foam Concrete</a></li>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>

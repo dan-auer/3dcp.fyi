@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehrab Nodehi, Federico Aguayo, Shahab Nodehi, Aliakbar Gholampour, Togay Ozbakkaloglu, Osman Gencel
+    - footer
+title: Nodehi Mehrab, Aguayo Federico, Nodehi Shahab, Gholampour Aliakbar, Ozbakkaloglu Togay, Gencel Osman
 description:
 tags:
  - concrete
@@ -12,30 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Durability Properties of 3D Printed Concrete ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.autcon.2022.104479" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104479</a>
+#Durability Properties of 3D Printed Concrete ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104479" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104479" target="_blank">10.1016/j.autcon.2022.104479</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nodehi_mehrab"><b>Nodehi</b>&nbsp;Mehrab</a></span>, <a href="../../../author/aguayo_federico"><b>Aguayo</b>&nbsp;Federico</a></span>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b>&nbsp;Shahab</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gholampour_aliakbar"><b>Gholampour</b>&nbsp;Aliakbar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b>&nbsp;Togay</a></span>, <a href="../../../author/gencel_osman"><b>Gencel</b>&nbsp;Osman</a></span><br>
+Journal Article - Automation in Construction, Vol. 142
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a> <a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>
-,     <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>
-,     <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> <a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 142, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Durability%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134756500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285890919" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104479" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104479?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of concrete is commonly viewed as a promising way to manufacture novel structural sections with numerous benefits. This process, however, relies upon a specific set of timely parameters that can have significant impact on the long-term performance and durability of the printed sections, especially since they are potentially expected to be exposed to the outside environments. In that respect, this article provides a critical review of the durability properties of 3D printed concrete (3DPC) sections, including the effect of printing parameters, mixture proportions, and key materials on shrinkage behavior, porosity and pore connectivity, freeze thawing, fire, chemical, and acid resistance. Based on this review, it is found that the thermo-durability properties of 3D printed concrete sections are highly sensitive to the shrinkage potential and printing time interval, which can significantly alter the porosity and pore connectivity of the printed concrete, especially at interlayer bonding regions. Suggestions for improving the durability of 3D printed concrete sections exposed to the various environments are also provided in the final part of this review.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "88 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
@@ -150,8 +130,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "120 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
@@ -272,4 +253,33 @@ tags:
       <li><a href="../../../author/kan_deyuan"><b>Kan</b> Deyuan</a>, <a href="../../../author/liu_guifeng"><b>Liu</b> Guifeng</a>, <a href="../../../author/cao_cindy_shuang"><b>Cao</b> Shuang</a>, <a href="../../../author/chen_zhengfa"><b>Chen</b> Zhengfa</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kan_liu_cao_chen.2022.MPaPSoMWCNTRRPCfTDPMbME/">Mechanical Properties and Pore-Structure of Multi-Walled Carbon-Nano-Tube-Reinforced Reactive Powder-Concrete for Three-Dimensional Printing Manufactured by Material-Extrusion</a></li>
       <li><a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/ziemelis_krists"><b>Ziemelis</b> Krists</a>, <a href="../../../author/vanags_andris"><b>Vanags</b> Andris</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../spur_sink_ziem_vana.2022.TEoAEAoFaHPo3C/">The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{node_agua_node_ghol.2022.DPo3PC,
+      author            = "Mehrab Nodehi and Federico Aguayo and Shahab Edin Nodehi and Aliakbar Gholampour and Togay Ozbakkaloglu and Osman Gencel",
+      title             = "Durability Properties of 3D Printed Concrete",
+      doi               = "10.1016/j.autcon.2022.104479",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "142",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Nodehi, F. Aguayo, S. E. Nodehi, A. Gholampour, T. Ozbakkaloglu and O. Gencel, “Durability Properties of 3D Printed Concrete”, <i>Automation in Construction</i>, vol. 142, 2022, doi: 10.1016/j.autcon.2022.104479.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nodehi, Mehrab, Federico Aguayo, Shahab Edin Nodehi, Aliakbar Gholampour, Togay Ozbakkaloglu, and Osman Gencel. “Durability Properties of 3D Printed Concrete”. <i>Automation in Construction</i> 142 (2022). https://doi.org/10.1016/j.autcon.2022.104479.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sofia Pessoa, Sandra Lucas, Nuno Simões, Ana Guimarães
+    - footer
+title: Pessoa Sofia, Lucas Sandra, Simões Nuno, Guimarães Ana
 description:
 tags:
  - analysis
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2025.142523) Heat Transfer in a 3D-Printed Multilayer Wall System:<br/>:aca-blank: An Experimental and Numerical Analysis ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142523" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142523</a>
+#Heat Transfer in a 3D-Printed Multilayer Wall System&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">An Experimental and Numerical Analysis</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.142523) <a href="https://doi.org/10.1016/j.conbuildmat.2025.142523" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142523" target="_blank">10.1016/j.conbuildmat.2025.142523</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_sofia"><b>Pessoa</b>&nbsp;Sofia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3418-0030" title="ORCID: 0000-0003-3418-0030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/simoes_nuno"><b>Simões</b>&nbsp;Nuno</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 490, No. 142523
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a> <a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="https://orcid.org/0000-0003-3418-0030" title="ORCID: 0000-0003-3418-0030" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 490, No. 142523
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#experiment`](keyword/experiment)
-    [`#heat`](keyword/heat)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Heat%20Transfer%20in%20a%203D-Printed%20Multilayer%20Wall%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009914635&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412431236" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142523" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142523?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As the construction industry explores new technologies, particularly automated methods, the thermal performance of 3D-printed concrete walls remains under-researched. This paper presents a study combining experimental tests and numerical simulations to evaluate the thermal behaviour of a multilayer wall system designed for 3D printing (3DP). The wall consists of two outer cement-based layers, commonly used in 3DP constructions, with an inner layer of thermal mortar for insulation. To assess its effective performance, a large-scale prototype wall was 3D-printed, and thermal tests were conducted in a hot box under both steady-state and dynamic conditions. Additional tests were performed after humidifying the thermal mortar to better understand the moisture impact. Numerical simulations were carried out using WUFI 2D to model transient heat transfer, and these results were validated against experimental measurements of temperature and heat flux. After the model was validated, the study extended to a sensitivity analysis of the insulation’s thermal properties and the comparative simulation of seven additional wall configurations to evaluate the impact of insulation thickness, insulation positioning, and the inclusion of an air space on the thermal response. The wall’s U-value in standard conditioning conditions was 0.746 W/(m²·°C). The numerical model showed good agreement with experimental data. Introducing an air gap had a more significant effect on thermal performance than the insulation’s position, with thinner insulation correlating with greater temperature fluctuations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -84,7 +64,37 @@ tags:
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../szab_reit_llor_wang.2020.A/">ACDC:<br/>The Admixture-Controlled Digital Casting and Its Application to Thin-Folded Concrete Structures</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../wolf_bos_sale.2023.LLoPM/">Lessons Learned of Project Milestone:<br/>The First 3D Printed Concrete House in the Netherlands</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pess_luca_simo_guim.2025.HTia3PMWS,
+      author            = "Sofia Pessoa and Sandra Simaria de Oliveira Lucas and Nuno Simões and Ana Sofia Guimarães",
+      title             = "Heat Transfer in a 3D-Printed Multilayer Wall System: An Experimental and Numerical Analysis",
+      doi               = "10.1016/j.conbuildmat.2025.142523",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "490",
+      pages             = "142523",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Pessoa, S. S. de Oliveira Lucas, N. Simões and A. S. Guimarães, “Heat Transfer in a 3D-Printed Multilayer Wall System: An Experimental and Numerical Analysis”, <i>Construction and Building Materials</i>, vol. 490, p. 142523, 2025, doi: 10.1016/j.conbuildmat.2025.142523.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pessoa, Sofia, Sandra Simaria de Oliveira Lucas, Nuno Simões, and Ana Sofia Guimarães. “Heat Transfer in a 3D-Printed Multilayer Wall System: An Experimental and Numerical Analysis”. <i>Construction and Building Materials</i> 490 (2025): 142523. https://doi.org/10.1016/j.conbuildmat.2025.142523.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

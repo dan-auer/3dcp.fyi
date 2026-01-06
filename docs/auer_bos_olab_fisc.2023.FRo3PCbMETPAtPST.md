@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Auer, Freek Bos, Mohammad Olabi, Oliver Fischer
+    - footer
+title: Auer Daniel, Bos Freek, Olabi Mohammad, Fischer Oliver
 description:
 tags:
  - alignment
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories ([2023-10](date/2023/10))
-<a href="https://doi.org/10.52825/ocp.v3i.759" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v3i.759</a>
+#Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52825/ocp.v3i.759" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v3i.759" target="_blank">10.52825/ocp.v3i.759</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9701-7807" title="ORCID: 0000-0002-9701-7807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/auer_daniel"><b>Auer</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-7694-0751" title="ORCID: 0009-0007-7694-0751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olabi_mohammad"><b>Olabi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0528-5634" title="ORCID: 0000-0003-0528-5634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fischer_oliver"><b>Fischer</b>&nbsp;Oliver</a></span><br>
+Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/auer_daniel"><b>Auer</b> Daniel</a> <a href="https://orcid.org/0000-0002-9701-7807" title="ORCID: 0000-0002-9701-7807" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olabi_mohammad"><b>Olabi</b> Mohammad</a> <a href="https://orcid.org/0009-0007-7694-0751" title="ORCID: 0009-0007-7694-0751" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="https://orcid.org/0000-0003-0528-5634" title="ORCID: 0000-0003-0528-5634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#alignment`](keyword/alignment)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#path`](keyword/path)
-    [`#principal`](keyword/principal)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#stress`](keyword/stress)
-    [`#tool`](keyword/tool)
-    [`#trajectory`](keyword/trajectory)
-
-
--------------------------
+<a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/principal"><button class="btn">#principal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> <a href="../../keyword/trajectory"><button class="btn">#trajectory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fiber-Reinforcement%20of%203D%20Printed%20Concrete%20by%20Material-Extrusion-Tool-Paths%20Aligned%20to%20Principal%20Stress-Trajectories" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389815499" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v3i.759" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v3i.759?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing of cementitious materials is a rapidly growing branch of manufacturing both in research and industry, particularly the variant of material deposition by extrusion. This process results in a strong anisotropy in mechanical properties, owing largely to the interfaces between adjacent filaments. This anisotropy is even more pronounced when fiber reinforced mortars or continuous entrained reinforcement components such as cables are used. To exploit orientation-dependent performance, the print path can be designed to align with the principal (tensile) stress trajectories. However, obtaining an appropriate print path based on this concept poses several challenges, related to the filling of intermediate spaces between two trajectories. In this paper, an approach for planning such a robot toolpath is presented, elaborated, and illustrated by means of a case study on a well-known reference case. The main features of the tool planning method are the relaxation of the offset width, the avoidance of toolpaths with acute angles by intersecting offset curves, and a continuous toolpath.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
       <li><a href="../../../author/blagojevic_boris"><b>Blagojevic</b> Boris</a>, <a href="../../../author/sawodny_oliver"><b>Sawodny</b> Oliver</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../blag_sawo.2023.PPfGCEF/">Path-Planning for Graded Concrete Element Fabrication</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -99,10 +73,40 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../slep_borr.2024.FIMfCLDaQIiAMfC/">Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/kroon_c-j_kim"><b>Kroon</b> Kim</a>, <a href="../../../author/sloots_joes"><b>Sloots</b> Joes</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../nefs_kroo_sloo_bos.2024.ODo3PSaILS/">Orientation-Dependency of 3D Printed SHCC at Increasing Length Scale</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{auer_bos_olab_fisc.2023.FRo3PCbMETPAtPST,
+      author            = "Daniel Auer and Freek Paul Bos and Mohammad Olabi and Oliver Fischer",
+      title             = "Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories",
+      doi               = "10.52825/ocp.v3i.759",
+      year              = "2023",
+      volume            = "3",
+      booktitle         = "Visions and Strategies for Reinforcing Additively Manufactured Constructions",
+      editor            = "Asko Fromm and Norman Peter Hack",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Auer, F. P. Bos, M. Olabi and O. Fischer, “Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories”, in <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions</i>,  2023, vol. 3. doi: 10.52825/ocp.v3i.759.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Auer, Daniel, Freek Paul Bos, Mohammad Olabi, and Oliver Fischer. “Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories”. In <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions</i>, edited by Asko Fromm and Norman Peter Hack, Vol. 3, 2023. https://doi.org/10.52825/ocp.v3i.759.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

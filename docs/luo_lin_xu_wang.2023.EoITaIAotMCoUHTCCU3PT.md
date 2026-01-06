@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Surong Luo, Qian Lin, Wei Xu, Dehui Wang
+    - footer
+title: Luo Surong, Lin Qian, Xu Wei, Wang Dehui
 description:
 tags:
  - agent
@@ -21,37 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.130936" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.130936</a>
+#Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology ([2023-03](date/2023/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.130936" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.130936" target="_blank">10.1016/j.conbuildmat.2023.130936</a>
 
--------------------------
+<a href="../../../author/luo_surong"><b>Luo</b>&nbsp;Surong</a></span>, <a href="../../../author/lin_qian"><b>Lin</b>&nbsp;Qian</a></span>, <a href="../../../author/xu_wei"><b>Xu</b>&nbsp;Wei</a></span>, <a href="../../../author/wang_dehui"><b>Wang</b>&nbsp;Dehui</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 374
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_surong"><b>Luo</b> Surong</a>
-,     <a href="../../../author/lin_qian"><b>Lin</b> Qian</a>
-,     <a href="../../../author/xu_wei"><b>Xu</b> Wei</a>
-,     <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 374, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#height`](keyword/height)
-    [`#interface`](keyword/interface)
-    [`#interval`](keyword/interval)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-    [`#time`](keyword/time)
-    [`#toughness`](keyword/toughness)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/toughness"><button class="btn">#toughness</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Interval%20Time%20and%20Interfacial%20Agents%20on%20the%20Mechanical%20Characteristics%20of%20Ultra-High-Toughness%20Cementitious%20Composites%20Under%203D%20Printed%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149731884&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4323659715" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.130936" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.130936?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Anisotropic mechanical characteristics are crucial to the application of the printed structure. This study is aimed to investigate the effects of interval time and interfacial agents on the anisotropic mechanical strength of ultrahigh toughness cementitious composite under 3D-printed technology. The bending capacity of ultra-high toughness cementitious composite under 3D-printed technology was compared with mould-casting ultra-high toughness cementitious composite. The compressive strength, flexural strength and splitting tensile strength were measured to represent mechanical properties in different directions and the microstructure of ultra-high toughness cementitious composite under 3D-printed technology with different interval time and interfacial agents were characterized using nanoindentation, scanning electron microscopy, and X-ray computed tomography. The experimental results indicated that the ultimate bending strength and bending toughness of ultra-high toughness cementitious composite under 3D-printed technology were 13.6% and 3.3% to 13.3% higher than those of mould-casting ultra-high toughness cementitious composite at 28 d, respectively. As the interval time increased, the mechanical properties showed differential development patterns. Specifically, compressive strength and splitting tensile strength had a higher rate of decline in the X direction (parallel to the printing path) than in the Y and Z directions but flexural strength was the opposite. A 3-h interval time reduced the 28d compressive strength and splitting tensile strength in the X direction by 24.02% and 49.64% but the strength only decreased by 10.57% and 26.59% in the Z-direction. The addition of interfacial agents reduced anisotropy in compressive strength and splitting tensile strength but increased the anisotropy of flexural strength. When the interval time was 3 h, the increase rate of the 28-d flexural strength in the X direction, in which the flexural strength was weakest, was 22%–29% lower than that in the Y and Z directions under the effects of interfacial agents. A microstructure analysis showed that the filling effect and high moisture content of interfacial agents counteracted the negative impact of interval time on the width of the interface between layers and the porosity of ultra-high toughness cementitious composite under 3D-printed technology, which can enhance the interlayer bonding. These results can promote the application of ultra-high toughness cementitious composite under 3D-printed technology in additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -118,8 +91,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -140,4 +113,33 @@ tags:
       <li><a href="../../../author/silveira-junior_gomes_jairon"><b>Silveira Júnior</b> Jairon</a>, <a href="../../../author/moura-cerqueira_kevin"><b>Moura Cerqueira</b> Kevin</a>, <a href="../../../author/moura_carlos-araujo_ruan"><b>Moura</b> Ruan</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../silv_mour_mour_mato.2024.IoTGotBoCMDf3P/">Influence of Time-Gap on the Buildability of Cement Mixtures Designed for 3D Printing</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a>, <a href="../../../author/majewska_julia"><b>Majewska</b> Julia</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../skib_szew_maje_sibe.2024.TEoILAoSDi3PBE/">The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luo_lin_xu_wang.2023.EoITaIAotMCoUHTCCU3PT,
+      author            = "Surong Luo and Qian Lin and Wei Xu and Dehui Wang",
+      title             = "Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology",
+      doi               = "10.1016/j.conbuildmat.2023.130936",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "374",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Luo, Q. Lin, W. Xu and D. Wang, “Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology”, <i>Construction and Building Materials</i>, vol. 374, 2023, doi: 10.1016/j.conbuildmat.2023.130936.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Surong, Qian Lin, Wei Xu, and Dehui Wang. “Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology”. <i>Construction and Building Materials</i> 374 (2023). https://doi.org/10.1016/j.conbuildmat.2023.130936.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zakiah Altehaini, Mohammed Dayili, Meshari Alrajab, Adel Harbi, Ali Alutaibi, Eyad Garatly
+    - footer
+title: Altehaini Zakiah, Dayili Mohammed, Alrajab Meshari, Harbi Adel, Alutaibi Ali, Garatly Eyad
 description:
 tags:
  - buildability
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1719&context=icdcs) Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia:<br/>:aca-blank: A Case Study ([2025-10](date/2025/10))
-<a href="https://doi.org/10.5703/1288284318114" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.5703/1288284318114</a>
+#Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">A Case Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1719&context=icdcs) <a href="https://doi.org/10.5703/1288284318114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318114" target="_blank">10.5703/1288284318114</a>
 
--------------------------
+<a href="../../../author/altehaini_zakiah"><b>Altehaini</b>&nbsp;Zakiah</a></span>, <a href="../../../author/dayili_mohammed"><b>Dayili</b>&nbsp;Mohammed</a></span>, <a href="../../../author/alrajab_meshari"><b>Alrajab</b>&nbsp;Meshari</a></span>, <a href="../../../author/harbi_al_adel"><b>Harbi</b>&nbsp;Adel</a></span>, <a href="../../../author/alutaibi_ali"><b>Alutaibi</b>&nbsp;Ali</a></span>, <a href="../../../author/garatly_eyad"><b>Garatly</b>&nbsp;Eyad</a></span><br>
+Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/altehaini_zakiah"><b>Altehaini</b> Zakiah</a>
-,     <a href="../../../author/dayili_mohammed"><b>Dayili</b> Mohammed</a>
-,     <a href="../../../author/alrajab_meshari"><b>Alrajab</b> Meshari</a>
-,     <a href="../../../author/harbi_al_adel"><b>Harbi</b> Adel</a>
-,     <a href="../../../author/alutaibi_ali"><b>Alutaibi</b> Ali</a>
-,     <a href="../../../author/garatly_eyad"><b>Garatly</b> Eyad</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#case`](keyword/case)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Deploying%203D%20Concrete%20Printing%20for%20Large-Scale%20Building%20Construction%20in%20Saudi%20Arabia" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415151326" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.5703/1288284318114" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.5703/1288284318114?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper details the successful large-scale implementation of 3D concrete printing (3DCP) for the construction of large building in remote area of Saudi Arabia. As one of the first religious buildings in the region constructed using additive manufacturing, this project showcases 3DCP's technological and environmental potential for contemporary building. In order to ensure sustainability and cost effectiveness, the mosque was constructed using a COBOD BOD2 gantry printer and a customised concrete mix made up of 99% locally sourced materials and 1% CEMEX D-fab admixture. To maximise thermal insulation and accommodate mechanical, electrical, and plumbing (MEP) systems, the structure included a dual-layer wall system with two outer layers that were each 5 cm thick and separated by a 10 cm cavity. In comparison to traditional methods, the project achieved impressive metrics, such as a 30% increase in energy efficiency, a 50% reduction in construction time, and an 80% labor savings. The printer reached a maximum build height of 5.54 meters while operating at a production rate of 350 linear meters per hour. With its ability to withstand thermal stress, chloride ion penetration, and cracking in extreme weather conditions, the concrete mix showed exceptional durability. With an overall average compressive strength of 33.52 MPa, which is higher than the design strength of 30 MPa, compressive strength tests produced consistent average results across all phases. Through creative reinforcement techniques, accurate automated layer calibration, and environmentally friendly building methods, this case study demonstrates the scalability and adaptability of 3DCP in harsh climates. Significant accomplishments include a 40–50% decrease in carbon emissions and an 85% reduction in material waste, with effective waste as low as 2-4 percent. The findings support 3DCP as a groundbreaking approach to durable, effective, and ecologically friendly building, providing a replicable framework for approaching public, industrial, and residential developments worldwide.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a>, <a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b> Inken</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../glot_rase_petr.2024.MBoHPCatEoCJ/">Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints:<br/>An Experimental Investigation</a></li>
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../harb_rozi_louk_yahi.2023.EotSRoDSaMPo3PM/">Effect of the Structuration-Rate on Dimensional Stability and Mechanical Performance of 3D Printed Mortars</a></li>
@@ -79,7 +57,36 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{alte_dayi_alra_harb.2025.D3CPfLSBCiSA,
+      author            = "Zakiah Altehaini and Mohammed Dayili and Meshari Alrajab and Adel al Harbi and Ali Alutaibi and Eyad Garatly",
+      title             = "Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia: A Case Study",
+      doi               = "10.5703/1288284318114",
+      year              = "2025",
+      booktitle         = "Proceedings of the 8th International Conference on Durability of Concrete Structures",
+      editor            = "P. A. Muhammed Basheer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Altehaini, M. Dayili, M. Alrajab, A. al Harbi, A. Alutaibi and E. Garatly, “Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia: A Case Study”, in <i>Proceedings of the 8th International Conference on Durability of Concrete Structures</i>,  2025. doi: 10.5703/1288284318114.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Altehaini, Zakiah, Mohammed Dayili, Meshari Alrajab, Adel al Harbi, Ali Alutaibi, and Eyad Garatly. “Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia: A Case Study”. In <i>Proceedings of the 8th International Conference on Durability of Concrete Structures</i>, edited by P. A. Muhammed Basheer, 2025. https://doi.org/10.5703/1288284318114.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

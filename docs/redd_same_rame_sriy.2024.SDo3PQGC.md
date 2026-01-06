@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: B. Reddy, Sk Sameer, V. Ramesh, B. Sriya, A. Gayatri, K. Babu
+    - footer
+title: Reddy B., Sameer Sk, Ramesh V., Sriya B., Gayatri A., Babu K.
 description:
 tags:
  - concrete
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1742-6596/2779/1/012042) Sustainable Development of 3D Printable Quaternary Geopolymer Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1088/1742-6596/2779/1/012042" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1742-6596/2779/1/012042</a>
+#Sustainable Development of 3D Printable Quaternary Geopolymer Concrete ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1742-6596/2779/1/012042) <a href="https://doi.org/10.1088/1742-6596/2779/1/012042" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/2779/1/012042" target="_blank">10.1088/1742-6596/2779/1/012042</a>
 
--------------------------
+<a href="../../../author/reddy_charan-kumar_b"><b>Reddy</b>&nbsp;B.</a></span>, <a href="../../../author/sameer_khaja_sk"><b>Sameer</b>&nbsp;Sk</a></span>, <a href="../../../author/ramesh_v"><b>Ramesh</b>&nbsp;V.</a></span>, <a href="../../../author/sriya_b"><b>Sriya</b>&nbsp;B.</a></span>, <a href="../../../author/gayatri_a"><b>Gayatri</b>&nbsp;A.</a></span>, <a href="../../../author/babu_mahesh_k"><b>Babu</b>&nbsp;K.</a></span><br>
+Journal Article - Journal of Physics: Conference Series, Vol. 2779, Iss. 1, No. 012042
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/reddy_charan-kumar_b"><b>Reddy</b> B.</a>
-,     <a href="../../../author/sameer_khaja_sk"><b>Sameer</b> Sk</a>
-,     <a href="../../../author/ramesh_v"><b>Ramesh</b> V.</a>
-,     <a href="../../../author/sriya_b"><b>Sriya</b> B.</a>
-,     <a href="../../../author/gayatri_a"><b>Gayatri</b> A.</a>
-,     <a href="../../../author/babu_mahesh_k"><b>Babu</b> K.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Physics: Conference Series, Vol. 2779, Iss. 1, No. 012042
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#printability`](keyword/printability)
-    [`#quaternary`](keyword/quaternary)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/quaternary"><button class="btn">#quaternary</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Development%20of%203D%20Printable%20Quaternary%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201539320&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401458200" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1742-6596/2779/1/012042" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1742-6596/2779/1/012042?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry has been looking a cost-effective way to build structures with unique and intricate designs, mass customization, and reduced labor costs, material consumption and environmental impact. One promising possibility is geopolymer 3D printing concrete(3DPC). The interlocking that takes place when materials are bound in an alkaline environment is known as geopolymerization. A potential utility for pozzolanic materials as GPC binding agents is their high silica and alumina content. The primary objective of this research is to determine the viability of quaternary blended 3D printing geo polymer concrete (GPC). As "quaternary" means "fourth in sequence (Since "quaternary" implies "fourth in sequence,)," the four binder components that make up Geopolymer Concrete are glass powder, silica fume, ground granulated blast furnace slag (GGBS), and fly ash. The paper describes mix design methodologies and emphasizes various aspects of mixture compositions and how they affect the features of 3DPC. The results represent that printability, extrudability were satisfied for the mix proportion of 1:1.3 with 40% Fly ash, 40% GGBS, 10% glass powder, 7% silica fume, 3% Viscosity modifying agent (VMA) including 1.5% of Auramix 200 and 2% of CAC hyper fluid plus. Further, buildability was attained by replacing 40% river sand with M sand. Mechanical properties like compressive strength, flexural strength and split tensile strength are studied for the ideal mix. The obtained results for compressive strength, flexural strength, split tensile strength, are 91 MPa, 5.93 MPa, 4.5 MPa, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
@@ -77,8 +55,39 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../weng_li_wong_tan.2021.SCaBADSfILBSEi3CP/">Synchronized Concrete and Bonding-Agent-Deposition-System for Inter-Layer Bond Strength Enhancement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{redd_same_rame_sriy.2024.SDo3PQGC,
+      author            = "B. Charan Kumar Reddy and Sk Khaja Sameer and V. Ramesh and B. Sriya and A. Gayatri and K. Mahesh Babu",
+      title             = "Sustainable Development of 3D Printable Quaternary Geopolymer Concrete",
+      doi               = "10.1088/1742-6596/2779/1/012042",
+      year              = "2024",
+      journal           = "Journal of Physics: Conference Series",
+      volume            = "2779",
+      number            = "1",
+      pages             = "012042",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. C. K. Reddy, S. K. Sameer, V. Ramesh, B. Sriya, A. Gayatri and K. M. Babu, “Sustainable Development of 3D Printable Quaternary Geopolymer Concrete”, <i>Journal of Physics: Conference Series</i>, vol. 2779, no. 1, p. 012042, 2024, doi: 10.1088/1742-6596/2779/1/012042.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Reddy, B. Charan Kumar, Sk Khaja Sameer, V. Ramesh, B. Sriya, A. Gayatri, and K. Mahesh Babu. “Sustainable Development of 3D Printable Quaternary Geopolymer Concrete”. <i>Journal of Physics: Conference Series</i> 2779, no. 1 (2024): 012042. https://doi.org/10.1088/1742-6596/2779/1/012042.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rania Mohamed, Abdelaziz Mohamed
+    - footer
+title: Mohamed Rania, Mohamed Abdelaziz
 description:
 tags:
  - benefit
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction:<br/>:aca-blank: A Review ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1007/s40964-024-00622-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-024-00622-z</a>
+#Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-024-00622-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00622-z" target="_blank">10.1007/s40964-024-00622-z</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-6452-9996" title="ORCID: 0009-0001-6452-9996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohamed_abdelrahim_rania"><b>Mohamed</b>&nbsp;Rania</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5492-2460" title="ORCID: 0000-0002-5492-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohamed_farouk-a_abdelaziz"><b>Mohamed</b>&nbsp;Abdelaziz</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mohamed_abdelrahim_rania"><b>Mohamed</b> Rania</a> <a href="https://orcid.org/0009-0001-6452-9996" title="ORCID: 0009-0001-6452-9996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohamed_farouk-a_abdelaziz"><b>Mohamed</b> Abdelaziz</a> <a href="https://orcid.org/0000-0002-5492-2460" title="ORCID: 0000-0002-5492-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#benefit`](keyword/benefit)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#environment`](keyword/environment)
-    [`#exploration`](keyword/exploration)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20the%20Environmental%20Benefits%20of%203D%20Printing%20Technology%20in%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193282359&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4397002407" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-024-00622-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-024-00622-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a novel exploration of the potential of 3D printing technology to address the significant environmental impact and waste generation associated with the construction industry. The construction sector profoundly affects global resource consumption, waste generation, and material inefficiency. Innovative approaches are needed to address these challenges and work towards a sustainable future. 3D printing technology has emerged as a promising solution for reducing the environmental footprint of construction. This article provides a comprehensive review of the environmental benefits of 3D printing, particularly in waste reduction, material optimization and enhancing energy efficiency within construction practices. The research articles selected for this study were gathered from online web databases such as Google Scholar, Scopus, MDPI, and Web of Science. This study reviews the latest publication trends in the discipline by exploring publications from 2006 to 2023. The findings highlight the urgency of tackling pollution caused by the construction industry, which acts as a significant contributor to global greenhouse gas emissions. Buildings consume a significant amount of global energy supply and deplete resources such as water, wood, sand, and gravel. The integration of 3D printing technology in the construction industry offers potential solutions to mitigate these negative impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
@@ -82,8 +63,8 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../oztu_borg_ince.2026.3PitCS/">3D Printing in the Construction Sector:<br/>Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature</a></li>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
@@ -98,4 +79,32 @@ tags:
       <li><a href="../../../author/lu_haoyu"><b>Lu</b> Haoyu</a>, <a href="../../../author/zhang_lizhi"><b>Zhang</b> Lizhi</a>, <a href="../../../author/wang_junkai"><b>Wang</b> Junkai</a>, <a href="../../../author/shi_zhaoxin"><b>Shi</b> Zhaoxin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lu_zhan_wang_shi.2025.PToSLIfYSAo3PC/">Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete</a></li>
       <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moha_moha.2024.EtEBo3PTiCC,
+      author            = "Rania Abdelrahim Mohamed and Abdelaziz Farouk A. Mohamed",
+      title             = "Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction: A Review",
+      doi               = "10.1007/s40964-024-00622-z",
+      year              = "2024",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. A. Mohamed  and A. F. A. Mohamed, “Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction: A Review”, <i>Progress in Additive Manufacturing</i>, 2024, doi: 10.1007/s40964-024-00622-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mohamed, Rania Abdelrahim, and Abdelaziz Farouk A. Mohamed. “Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction: A Review”. <i>Progress in Additive Manufacturing</i>, 2024. https://doi.org/10.1007/s40964-024-00622-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

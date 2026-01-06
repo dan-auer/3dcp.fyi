@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wei Chen, Yongying Guan, Binrong Zhu, Jinsheng Han, Yamei Zhang, Yuandi Qian, Jingming Cai, Jinlong Pan
+    - footer
+title: Chen Wei, Guan Yongying, Zhu Binrong, Han Jinsheng, Zhang Yamei, Qian Yuandi, Cai Jingming, Pan Jinlong
 description:
 tags:
  - characteristic
@@ -19,39 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140176" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140176</a>
+#Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140176" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140176" target="_blank">10.1016/j.conbuildmat.2025.140176</a>
 
--------------------------
+<a href="../../../author/chen_wei"><b>Chen</b>&nbsp;Wei</a></span>, <a href="../../../author/guan_yongying"><b>Guan</b>&nbsp;Yongying</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <a href="../../../author/han_jinsheng"><b>Han</b>&nbsp;Jinsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <a href="../../../author/qian_yuandi"><b>Qian</b>&nbsp;Yuandi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_jingming"><b>Cai</b>&nbsp;Jingming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 464, No. 140176
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>
-,     <a href="../../../author/guan_yongying"><b>Guan</b> Yongying</a>
-,     <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_yuandi"><b>Qian</b> Yuandi</a>
-,     <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 464, No. 140176
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#extrusion`](keyword/extrusion)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#shape`](keyword/shape)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Extruded%20Strip-Shape%20and%20Dimension%20on%20the%20Mechanical%20Properties%20and%20Pore-Characteristics%20of%203D%20Printed%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216085781&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406865027" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140176" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140176?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Geopolymer concrete is increasingly recognized as an effective alternative to ordinary Portland cement (OPC) for 3D concrete printing. However, the mechanical anisotropy inherent in extrusion-based 3D printed concrete poses limitations for components and large-scale applications. To overcome these challenges, understanding the variations in pore characteristics and macroscopic mechanical properties within printed structures is essential. This study investigates these properties in extruded strips produced from circular and rectangular extrusion nozzles under varying printing parameters. Pore defects within the strips were characterized using X-ray computed tomography (CT), which included analyses of pore volume, distribution, shape, and connectivity. The findings indicate that strips printed with circular nozzles exhibit more interstrip pore defects, leading to inferior macro-mechanical properties compared to those printed with rectangular nozzles. Adjusting the print traverse size reduces the size of interstrip connected pores and transforms large-volume pores (volume >1 mm³) into medium-volume pores (0.01–0.1 mm³). Moreover, the orientation of independent pore defects between strips differs from that within the matrix. The study concludes with an analysis of the formation and evolution of pore defects at the interstrip interfaces and within the matrix under different molding processes and traverse sizes, elucidating how variations in pore distribution characteristics impact the mechanical properties of 3D printed geopolymer concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -114,12 +85,42 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/rabczuk_timon"><b>Rabczuk</b> Timon</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhi_wu_rabc.2023.EoTVLBFoRPaREaCoTDPM/">Effects of Time-Varying Liquid Bridge Forces on Rheological Properties, and Resulting Extrudability and Constructability of Three-Dimensional Printing Mortar</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_asla.2025.MaUPVPo3PRCCRwPF/">Mechanical and Ultrasonic Pulse Velocity Performance of 3D Printed Rubberised Cementitious Composites Reinforced with PVA Fibers</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>
       <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_guan_zhu_han.2025.IoESSaDotMPaPCo3PGC,
+      author            = "Wei Chen and Yongying Guan and Binrong Zhu and Jinsheng Han and Yamei Zhang and Yuandi Qian and Jingming Cai and Jinlong Pan",
+      title             = "Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.140176",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "464",
+      pages             = "140176",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Chen, “Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete”, <i>Construction and Building Materials</i>, vol. 464, p. 140176, 2025, doi: 10.1016/j.conbuildmat.2025.140176.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Wei, Yongying Guan, Binrong Zhu, Jinsheng Han, Yamei Zhang, Yuandi Qian, Jingming Cai, and Jinlong Pan. “Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete”. <i>Construction and Building Materials</i> 464 (2025): 140176. https://doi.org/10.1016/j.conbuildmat.2025.140176.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

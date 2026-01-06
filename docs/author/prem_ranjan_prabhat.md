@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Prem Prabhat 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>
   <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
   <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS/">Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States</a></li>

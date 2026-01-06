@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xinhao Liu, Jiajun Hu, Xiaolu Guo
+    - footer
+title: Liu Xinhao, Hu Jiajun, Guo Xiaolu
 description:
 tags:
  - bond
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.jobe.2024.109060" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109060</a>
+#Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109060" target="_blank">10.1016/j.jobe.2024.109060</a>
 
--------------------------
+<a href="../../../author/liu_xinhao"><b>Liu</b>&nbsp;Xinhao</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_jiajun"><b>Hu</b>&nbsp;Jiajun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_xiaolu"><b>Guo</b>&nbsp;Xiaolu</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109060
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>
-,     <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a> <a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109060
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#fiber`](keyword/fiber)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Inter-Layer%20Bonding%20Property%20of%203D%20Printed%20Fiber-Reinforced%20Geopolymer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188031316&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392883516" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109060" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109060?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The interlayer bonding property is crucial for 3D printed fiber reinforced geopolymer (3DP-FRG). The effects of fiber content and interval time on printability and interlayer bonding property of 3DP-FRG were studied, including printability, stability, mechanical property, interlayer drying shrinkage, interlayer relative humidity, average interlayer gap width, and interlayer self-healing products. The results showed that fiber has both advantages and disadvantages for 3DP-FRG. The fiber improves stability, mechanical properties, and drying shrinkage properties of 3DP-FRG and has the optimum fiber content of 0.5 vol%. However, fiber negatively affects printability, interlayer relative humidity, and average interlayer gap width. When the interval time is less than 20 min, the interval time has no significant effect on the interlayer bonding property. The 28 d compressive strength, flexural strength, and interlayer bonding strength of 3DP-FRG with 0.5 vol% fiber increases by 24%, 14%, and 9% compared with the blank specimen, the 28 d drying shrinkage reduced by 27%, and the 28 d average interlayer gap width increases from 27 μm to 42 μm, respectively. 3DP-FRG has a certain potential for interlayer gaps self-healing; the self-healing products are N(C)-A-S-H gel, calcite, and sodium zeolite. The self-healing products, unreacted fly ash, and sand fill the interlayer gap. Moreover, fibers wrapped by a self-healing product can pass through the interlayer gap to connect adjacent layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
@@ -105,8 +83,8 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
@@ -122,4 +100,33 @@ tags:
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_hu_guo.2024.PaILBPo3PFRG,
+      author            = "Xinhao Liu and Jiajun Hu and Xiaolu Guo",
+      title             = "Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer",
+      doi               = "10.1016/j.jobe.2024.109060",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109060",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, J. Hu and X. Guo, “Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer”, <i>Journal of Building Engineering</i>, p. 109060, 2024, doi: 10.1016/j.jobe.2024.109060.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xinhao, Jiajun Hu, and Xiaolu Guo. “Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer”. <i>Journal of Building Engineering</i>, 2024, 109060. https://doi.org/10.1016/j.jobe.2024.109060.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Keita Emmanuel 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
   <li><a href="../../../author/guillen_natali-inga_ruth"><b>Guillen</b> Ruth</a>, <a href="../../../author/naldoni_lapo"><b>Naldoni</b> Lapo</a>, <a href="../../../author/quka_katerina"><b>Quka</b> Katerina</a>, <a href="../../../author/gioia_flavio"><b>Gioia</b> Flavio</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guil_nald_quka_gioi.2025.WRo3PCwBS/">Water Resistance of 3D Printed Clay with Bio-Stabilizers</a></li>
   <li><a href="../../../author/denis_l"><b>Denis</b> L.</a>, <a href="../../../author/omikrine-metalssi_o"><b>Omikrine-Metalssi</b> O.</a>, <a href="../../../author/karam-cabrerizo_r"><b>Karam-Cabrerizo</b> R.</a>, <a href="../../../author/barnes-davin_l"><b>Barnes-Davin</b> L.</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../deni_omik_kara_barn.2024.IoVEADoPCM/">Impact of Very Early-Age Drying on Printed Concrete Microstructures</a></li>

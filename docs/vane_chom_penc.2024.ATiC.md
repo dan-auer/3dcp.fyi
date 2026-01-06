@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vojtěch Vaněk, Štěpánka Chomová, Jan Pěnčík
+    - footer
+title: Vaněk Vojtěch, Chomová Štěpánka, Pěnčík Jan
 description:
 tags:
  - additive
@@ -12,27 +13,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Technologies in Construction:<br/>:aca-blank: Shifting the Paradigm of Building ([2024-01](date/2024/01))
-<a href="https://doi.org/10.13164/juniorstav.2024.24045" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.13164/juniorstav.2024.24045</a>
+#Additive Technologies in Construction&nbsp;([2024-01](date/2024/01))
+<div class="h1-like">Shifting the Paradigm of Building</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.13164/juniorstav.2024.24045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13164/juniorstav.2024.24045" target="_blank">10.13164/juniorstav.2024.24045</a>
 
--------------------------
+<a href="../../../author/vanek_vojtech"><b>Vaněk</b>&nbsp;Vojtěch</a></span>, <a href="../../../author/chomova_stepanka"><b>Chomová</b>&nbsp;Štěpánka</a></span>, <a href="../../../author/pencik_jan"><b>Pěnčík</b>&nbsp;Jan</a></span><br>
+Contribution - Proceedings 26th International Scientific Conference Of Civil Engineering, pp. 1-9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vanek_vojtech"><b>Vaněk</b> Vojtěch</a>
-,     <a href="../../../author/chomova_stepanka"><b>Chomová</b> Štěpánka</a>
-,     <a href="../../../author/pencik_jan"><b>Pěnčík</b> Jan</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings 26th International Scientific Conference Of Civil Engineering, pp. 1-9
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Technologies%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396803376" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.13164/juniorstav.2024.24045" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.13164/juniorstav.2024.24045?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is gaining importance in the building construction industry. With 3D printers for concrete or other materials, there have been significant advances in the material properties and technical excellence of the printed structures, which has enabled their huge expansion in the construction market. If properly embraced, additive manufacturing in the construction industry can bring about fundamental changes in structural design, crating safer, more efficient, economical, environmentally friendly and aesthetically attractive building elements and structures. Another application in the construction industry is in space construction. Here it has a major role in the use of autonomous site control on distant planes, which can be first tested, used and developed on Earth.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -91,7 +75,37 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{vane_chom_penc.2024.ATiC,
+      author            = "Vojtěch Vaněk and Štěpánka Chomová and Jan Pěnčík",
+      title             = "Additive Technologies in Construction: Shifting the Paradigm of Building",
+      doi               = "10.13164/juniorstav.2024.24045",
+      year              = "2024",
+      pages             = "1--9",
+      booktitle         = "Proceedings 26th International Scientific Conference Of Civil Engineering",
+      editor            = "Eva Šuhajdová",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Vaněk, Š. Chomová and J. Pěnčík, “Additive Technologies in Construction: Shifting the Paradigm of Building”, in <i>Proceedings 26th International Scientific Conference Of Civil Engineering</i>,  2024, pp. 1–9. doi: 10.13164/juniorstav.2024.24045.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vaněk, Vojtěch, Štěpánka Chomová, and Jan Pěnčík. “Additive Technologies in Construction: Shifting the Paradigm of Building”. In <i>Proceedings 26th International Scientific Conference Of Civil Engineering</i>, edited by Eva Šuhajdová, 1–9, 2024. https://doi.org/10.13164/juniorstav.2024.24045.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

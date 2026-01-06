@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nicolas Ducoulombier, Victor Bono, Fatima Kachkouch, Yohan Jacquet, Arnaud Perrot
+    - footer
+title: Ducoulombier Nicolas, Bono Victor, Kachkouch Fatima, Jacquet Yohan, Perrot Arnaud
 description:
 tags:
  - labor
@@ -10,27 +11,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} From Laboratory to Practice ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1002/9781394352081.ch3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9781394352081.ch3</a>
+#From Laboratory to Practice ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781394352081.ch3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394352081.ch3" target="_blank">10.1002/9781394352081.ch3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-7596-9395" title="ORCID: 0009-0006-7596-9395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bono_victor"><b>de&nbsp;Bono</b>&nbsp;Victor</a></span>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Contribution - 3D Concrete Printing, pp. 67-101
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> <a href="https://orcid.org/0009-0006-7596-9395" title="ORCID: 0009-0006-7596-9395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>
-,     <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing, pp. 67-101
-
-:aca-blank:{ .lg .middle}
-    [`#labor`](keyword/labor)
-    [`#practice`](keyword/practice)
-
-
--------------------------
+<a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Laboratory%20to%20Practice" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004540764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +32,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406548919" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9781394352081.ch3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9781394352081.ch3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Compared with the cast concrete used in traditional construction methods, 3D concrete printing imposes new specifications in the fresh state and induces a potentially more complex anisotropic mechanical behavior in the hardened state. The 3D concrete printing process essentially requires no formwork to guarantee geometric conformity. On the other hand, the printed material is directly exposed to variations in humidity, temperature and air flow. When 3D printing cementitious materials, it may be necessary to determine the physical properties of the printed materials. For example, the bulk density of printed materials can be monitored to assess the homogeneity of the printed material. The durability of printed concrete structures is closely linked to the properties of the materials in their fresh state and to the printing process. The strong interaction between process and material is directly correlated to the final durability of the printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -103,7 +86,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{duco_bono_kach_jacq.2025.FLtP,
+      author            = "Nicolas Ducoulombier and Victor de Bono and Fatima Zahraa Kachkouch and Yohan Jacquet and Arnaud Perrot",
+      title             = "From Laboratory to Practice",
+      doi               = "10.1002/9781394352081.ch3",
+      year              = "2025",
+      pages             = "67--101",
+      booktitle         = "3D Concrete Printing: State of the Art and Applications",
+      editor            = "Arnaud Perrot and Yohan Jacquet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ducoulombier, V. de Bono, F. Z. Kachkouch, Y. Jacquet and A. Perrot, “From Laboratory to Practice”, in <i>3D Concrete Printing: State of the Art and Applications</i>,  2025, pp. 67–101. doi: 10.1002/9781394352081.ch3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ducoulombier, Nicolas, Victor de Bono, Fatima Zahraa Kachkouch, Yohan Jacquet, and Arnaud Perrot. “From Laboratory to Practice”. In <i>3D Concrete Printing: State of the Art and Applications</i>, edited by Arnaud Perrot and Yohan Jacquet, 67–101, 2025. https://doi.org/10.1002/9781394352081.ch3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

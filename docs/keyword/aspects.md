@@ -8,7 +8,8 @@ search:
 
 # #aspects
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tene.2025.TAoFaRCSU3CP/">Technological Aspects of Fabricating a Reinforced Concrete Shell Using 3D Concrete Printing</a></li>
   <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.3PAoFAaGABaTBCM/">3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar</a></li>
   <li><a href="../../../author/nayaka_ramesh"><b>Nayaka</b> Ramesh</a>, <a href="../../../author/kumar_ujwal_h"><b>Kumar</b> H.</a>, <a href="../../../author/sharif_ahamed"><b>Sharif</b> Ahamed</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../naya_kuma_shar_zhan.2025.EKAaSBo3CP3/">Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP):<br/>A Selective Review</a></li>
   <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vasi.2024.SAoC3P/">Standardization Aspects of Concrete 3D Printing</a></li>

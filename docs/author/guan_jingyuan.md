@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Guan Jingyuan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guan_wang_bai_ma.2025.E3PFCvFHSCR/">Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement</a></li>
   <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../guan_wang_wan_ma.2025.MaSFPo1SRASMb3PCaPF/">Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork</a></li>
   <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../guan_wang_huan_ma.2025.3PCCSFbPSRPF/">3D Printed Concrete Composite Slabs Fabricated by Pre-Stressed Reinforced Permanent Formwork:<br/>Design, Manufacturing, and Performance</a></li>

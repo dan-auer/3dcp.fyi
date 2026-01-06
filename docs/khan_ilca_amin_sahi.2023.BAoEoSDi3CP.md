@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shoukat Khan, Hüseyin İlcan, Ehsan Aminipour, Oğuzhan Şahin, Ans Rashid, Mustafa Şahmaran, Muammer Koç
+    - footer
+title: Khan Shoukat, İlcan Hüseyin, Aminipour Ehsan, Şahin Oğuzhan, Rashid Ans, Şahmaran Mustafa, Koç Muammer
 description:
 tags:
  - analysis
@@ -17,36 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e02295) Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing:<br/>:aca-blank: An Experimental and Numerical Study ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.cscm.2023.e02295" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e02295</a>
+#Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">An Experimental and Numerical Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02295) <a href="https://doi.org/10.1016/j.cscm.2023.e02295" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02295" target="_blank">10.1016/j.cscm.2023.e02295</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rashid_ans"><b>al&nbsp;Rashid</b>&nbsp;Ans</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02295
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> <a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rashid_ans"><b>al Rashid</b> Ans</a> <a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02295
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability-Analysis%20on%20Effect%20of%20Structural%20Design%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164991471&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383612906" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e02295" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e02295?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The importance of numerical modeling and simulation approaches increases with increased scale as it allows for early results predictions. This study evaluated the buildability of novel construction and demolition waste (CDW)-based geopolymer materials for 3-dimensional printing (3DP) structures for the built environment. The feasibility of the developed numerical model for 3DP of built environment structures was also evaluated. This study reported the fresh-state properties of geopolymer-based materials, and based on these results, numerical modeling for 3DP of geopolymer material was performed. Three cylindrical structures with diameters of 300 mm, 450 mm, and 600 mm were printed, with the same printing conditions, resulting in buildability of 352.5 mm, 322.5 mm, and 277.5 mm (total height constructed before the collapse), respectively. In the next stage of the study, a comparative analysis was performed to assess the compatibility of numerical models for CDW-based geopolymer materials. In the numerical results, three structures showed early failure prediction from experimental results at 31.91%, 29.10%, and 29.73%, respectively. The geopolymer materials developed were suitable for 3DP, and close agreement in results and repeatability were observed. The numerical model provided a reliable failure prediction for different structures. Hence, the model can be utilized to evaluate the buildability of the structures before the actual 3DP, which can significantly reduce the time and cost of the project.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
@@ -99,8 +74,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
@@ -123,4 +98,34 @@ tags:
       <li><a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../imra_rash_khan_ilca.2023.BAoSPSi3CP/">Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khan_ilca_amin_sahi.2023.BAoEoSDi3CP,
+      author            = "Shoukat Alim Khan and Hüseyin İlcan and Ehsan Aminipour and Oğuzhan Şahin and Ans Al Rashid and Mustafa Şahmaran and Muammer Koç",
+      title             = "Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing: An Experimental and Numerical Study",
+      doi               = "10.1016/j.cscm.2023.e02295",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "19",
+      pages             = "e02295",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. A. Khan, “Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing: An Experimental and Numerical Study”, <i>Case Studies in Construction Materials</i>, vol. 19, p. e02295, 2023, doi: 10.1016/j.cscm.2023.e02295.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khan, Shoukat Alim, Hüseyin İlcan, Ehsan Aminipour, Oğuzhan Şahin, Ans Al Rashid, Mustafa Şahmaran, and Muammer Koç. “Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing: An Experimental and Numerical Study”. <i>Case Studies in Construction Materials</i> 19 (2023): e02295. https://doi.org/10.1016/j.cscm.2023.e02295.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

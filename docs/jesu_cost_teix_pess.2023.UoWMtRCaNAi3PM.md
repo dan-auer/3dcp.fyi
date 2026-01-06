@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manuel Jesus, Joana Costa, João Teixeira, Sofia Pessoa, Ana Guimarães, Bárbara Rangel, Luís Moreira, Lino Maia, Rui Neto, Jorge Alves
+    - footer
+title: Jesus Manuel, Costa Joana, Teixeira João, Pessoa Sofia, Guimarães Ana, Rangel Bárbara, Moreira Luís, Maia Lino, Neto Rui, Alves Jorge
 description:
 tags:
  - aggregate
@@ -17,39 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Use of Waste Materials to Reduce Cement and Natural Aggregates in 3D Printing Mortars ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1007/978-3-031-09319-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-09319-7_6</a>
+#Use of Waste Materials to Reduce Cement and Natural Aggregates in 3D Printing Mortars ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-09319-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-09319-7_6" target="_blank">10.1007/978-3-031-09319-7_6</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8305-7843" title="ORCID: 0000-0001-8305-7843" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_joana"><b>Costa</b>&nbsp;Joana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_sofia"><b>Pessoa</b>&nbsp;Sofia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9537-9791" title="ORCID: 0000-0002-9537-9791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moreira_luis"><b>Moreira</b>&nbsp;Luís</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_lino"><b>Maia</b>&nbsp;Lino</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2719-5672" title="ORCID: 0000-0003-2719-5672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neto_rui"><b>Neto</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span><br>
+Contribution - 3D Printing for Construction with Alternative Materials, pp. 127-153
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> <a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/costa_joana"><b>Costa</b> Joana</a> <a href="https://orcid.org/0000-0001-8305-7843" title="ORCID: 0000-0001-8305-7843" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> <a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a> <a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moreira_luis"><b>Moreira</b> Luís</a> <a href="https://orcid.org/0000-0002-9537-9791" title="ORCID: 0000-0002-9537-9791" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neto_rui"><b>Neto</b> Rui</a> <a href="https://orcid.org/0000-0003-2719-5672" title="ORCID: 0000-0003-2719-5672" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Printing for Construction with Alternative Materials, pp. 127-153
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#natural`](keyword/natural)
-    [`#print`](keyword/print)
-    [`#reduction`](keyword/reduction)
-    [`#use`](keyword/use)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Waste%20Materials%20to%20Reduce%20Cement%20and%20Natural%20Aggregates%20in%203D%20Printing%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313352255" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-09319-7_6" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-09319-7_6?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (3DP) is an example of a sustainable technology capable of replacing traditional manufacturing processes. One of its advantages is the use of optimized production processes, even for customized products, as well as the almost non-existence of waste. 3DP mortars (3DPM), therefore, rely heavily on Portland cement (PC), a material with high carbon emissions and energy consumption related to its manufacture. In order to comply with the growing environmental regulations and concerns, it is imperative that its use becomes more moderate and, as such, alternatives to PC or additives to reduce its percentage are being sought. At the Faculty of Engineering of University of Porto, research has been conducted to produce 3DPM with different waste materials. This study has the following objectives: (i) reduce PC by adding sugarcane bagasse ash (SCBA), with a strong emphasis on performance; (ii) substitute natural sand with recycled brick sand (RBS), aiming at replacing a natural aggregate while exploring new aesthetic possibilities. As to assess their viability as 3DPM, several mortars with different amounts of SCBA and RBS were formulated, taking into account some of its fresh and hardened properties as well as exploring different colours and textures. In the end, the best compositions were printed using material extrusion equipment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -97,9 +68,39 @@ tags:
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../teix_scha_rang_alve.2021.Do3PSMBoaBA/">Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/soliman_a_nancy"><b>Soliman</b> Nancy</a>, <a href="../../../author/omran_ahmed"><b>Omran</b> Ahmed</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kili_soli_omra_ozbu.2024.EoCNoRaMPo3PCC/">Effects of Cellulose Nanofibrils on Rheological and Mechanical Properties of 3D Printable Cement Composites</a></li>
       <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>, <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a>, <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sing_cola_fari.2023.SNCC3P/">Sustainable Non-Conventional Concrete 3D Printing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{jesu_cost_teix_pess.2023.UoWMtRCaNAi3PM,
+      author            = "Manuel Jesus and Joana Costa and João Teixeira and Sofia Pessoa and Ana Sofia Guimarães and Bárbara Rangel and Luís Moreira and Lino Maia and Rui Neto and Jorge Lino Alves",
+      title             = "Use of Waste Materials to Reduce Cement and Natural Aggregates in 3D Printing Mortars",
+      doi               = "10.1007/978-3-031-09319-7_6",
+      year              = "2023",
+      pages             = "127--153",
+      booktitle         = "3D Printing for Construction with Alternative Materials",
+      editor            = "Bárbara Rangel and Ana Sofia Guimarães and Jorge Lino Alves and Leonardo Santana",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Jesus, “Use of Waste Materials to Reduce Cement and Natural Aggregates in 3D Printing Mortars”, in <i>3D Printing for Construction with Alternative Materials</i>,  2023, pp. 127–153. doi: 10.1007/978-3-031-09319-7_6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jesus, Manuel, Joana Costa, João Teixeira, Sofia Pessoa, Ana Sofia Guimarães, Bárbara Rangel, Luís Moreira, Lino Maia, Rui Neto, and Jorge Lino Alves. “Use of Waste Materials to Reduce Cement and Natural Aggregates in 3D Printing Mortars”. In <i>3D Printing for Construction with Alternative Materials</i>, edited by Bárbara Rangel, Ana Sofia Guimarães, Jorge Lino Alves, and Leonardo Santana, 127–53, 2023. https://doi.org/10.1007/978-3-031-09319-7_6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

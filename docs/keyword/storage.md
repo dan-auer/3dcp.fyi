@@ -8,7 +8,7 @@ search:
 
 # #storage
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/castro-chincho_ana"><b>Castro-Chincho</b> Ana</a>, <a href="../../../author/ivorra-martinez_juan"><b>Ivorra-Martinez</b> Juan</a>, <a href="../../../author/perejon_antonio"><b>Perejón</b> Antonio</a>, <a href="../../../author/sanchez-jimenez_e_pedro"><b>Sánchez-Jiménez</b> Pedro</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../cast_ivor_pere_sanc.2025.3PMLSfCLTES/">3D-Printed Mineral Limestone Structures for Calcium Looping Thermochemical Energy Storage:<br/>Reactivity and Performance Across Cycles</a></li>
   <li><a href="../../../author/khan_hilal"><b>Khan</b> Hilal</a>, <a href="../../../author/zahid_zamil"><b>Zahid</b> Zamil</a>, <a href="../../../author/hussain_fazal"><b>Hussain</b> Fazal</a>, <a href="../../../author/ahmad_junaid"><b>Ahmad</b> Junaid</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../khan_zahi_huss_ahma.2025.SMBBCCfCSESaSIA/">Sustainable Multifunctional Biochar-Based Cementitious Composites for Carbon Sequestration, Energy Storage, and Smart Infrastructure Applications:<br/>A Review</a></li>
   <li><a href="../../../author/yu_kun-hao"><b>Yu</b> Kun-Hao</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/nah_hee_so"><b>Nah</b> So</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yu_teng_nah_chai.2025.3CPoTPMSfECCaS/">3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage</a></li>

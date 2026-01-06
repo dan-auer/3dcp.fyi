@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Yu, Weiwei Zhang, Binbin Yin, Weikang Sun, Arslan Akbar, Yang Zhang, Kim Liew
+    - footer
+title: Yu Hao, Zhang Weiwei, Yin Binbin, Sun Weikang, Akbar Arslan, Zhang Yang, Liew Kim
 description:
 tags:
  - concrete
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.cma.2024.116761" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cma.2024.116761</a>
+#Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cma.2024.116761" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cma.2024.116761" target="_blank">10.1016/j.cma.2024.116761</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8353-8110" title="ORCID: 0000-0001-8353-8110" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_hao"><b>Yu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2013-9715" title="ORCID: 0000-0003-2013-9715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_weiwei"><b>Zhang</b>&nbsp;Weiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_binbin"><b>Yin</b>&nbsp;Binbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6092-9725" title="ORCID: 0000-0001-6092-9725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_weikang"><b>Sun</b>&nbsp;Weikang</a></span>, <a href="../../../author/akbar_arslan"><b>Akbar</b>&nbsp;Arslan</a></span>, <a href="../../../author/zhang_yang"><b>Zhang</b>&nbsp;Yang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liew_meow_kim"><b>Liew</b>&nbsp;Kim</a></span><br>
+Journal Article - Computer Methods in Applied Mechanics and Engineering, Vol. 420, No. 116761
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yu_hao"><b>Yu</b> Hao</a> <a href="https://orcid.org/0000-0001-8353-8110" title="ORCID: 0000-0001-8353-8110" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a> <a href="https://orcid.org/0000-0003-2013-9715" title="ORCID: 0000-0003-2013-9715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> <a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> <a href="https://orcid.org/0000-0001-6092-9725" title="ORCID: 0000-0001-6092-9725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akbar_arslan"><b>Akbar</b> Arslan</a>
-,     <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a>
-,     <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Computer Methods in Applied Mechanics and Engineering, Vol. 420, No. 116761
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#deformation`](keyword/deformation)
-    [`#extrusion`](keyword/extrusion)
-    [`#layer`](keyword/layer)
-    [`#model`](keyword/model)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#smooth`](keyword/smooth)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/smooth"><button class="btn">#smooth</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%20Extrusion-Process%20and%20Layer-Deformation%20in%203D%20Concrete%20Printing%20via%20Smoothed%20Particle-Hydrodynamics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182512252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390861526" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cma.2024.116761" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cma.2024.116761?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     We developed a computational framework to simulate the intricate processes of extrusion and layer deformation in 3D concrete printing (3DCP). A novel two-dimensional (2D) virtual printing scheme is proposed that enables direct prediction of cross-sectional shape, releasing simulations from the constraint of rectangular nozzles inherent in traditional 2D models. The proposed scheme accurately captures significant lateral deformation, previously ignored by conventional 2D models. It is noteworthy that, for the first time, the effect of time-dependent yield stress on layer deformation is considered by introducing the structuration rate. Further, to leverage advantages in avoiding mesh generation and additional interface tracking, a weakly compressible smoothed particle hydrodynamics (SPH) method incorporating the regularized Bingham model is equipped in the proposed framework. The simulated cross-sectional shapes exhibit excellent consistency with experimental results and outperform existing numerical results across various nozzle heights, printing velocities, and extrusion velocities. Our exploration of rheological parameters reveals that the final layer deformation is influenced by the yield stress, while its deformation rate is affected by the plastic viscosity. The proposed virtual printing framework emerges as a promising tool for enhancing predictability and efficiency in the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a></li>
@@ -98,9 +72,9 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../yu_zhan_liew_yin.2026.SMFaEDi3CP/">Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/meni_simone"><b>Meni</b> Simone</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rizz_meni_crem_ferr.2025.APFEMfItIoMaPPi3CP/">A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing</a></li>
@@ -111,4 +85,34 @@ tags:
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lim_tan.2024.ARMfCAM/">A Rheological Model for Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH,
+      author            = "Hao Yu and Weiwei Zhang and Binbin Yin and Weikang Sun and Arslan Akbar and Yang Zhang and Kim Meow Liew",
+      title             = "Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics",
+      doi               = "10.1016/j.cma.2024.116761",
+      year              = "2024",
+      journal           = "Computer Methods in Applied Mechanics and Engineering",
+      volume            = "420",
+      pages             = "116761",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Yu, “Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics”, <i>Computer Methods in Applied Mechanics and Engineering</i>, vol. 420, p. 116761, 2024, doi: 10.1016/j.cma.2024.116761.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yu, Hao, Weiwei Zhang, Binbin Yin, Weikang Sun, Arslan Akbar, Yang Zhang, and Kim Meow Liew. “Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics”. <i>Computer Methods in Applied Mechanics and Engineering</i> 420 (2024): 116761. https://doi.org/10.1016/j.cma.2024.116761.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

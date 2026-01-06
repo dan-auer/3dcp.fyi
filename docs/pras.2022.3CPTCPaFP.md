@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: C. Prasad
+    - footer
+title: Prasad C.
 description:
 tags:
  - concrete
@@ -15,28 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing Technology Current Progress and Future Perspective:<br/>:aca-blank: A State of the Art Review ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1007/978-981-19-0189-8_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-19-0189-8_3</a>
+#3D Concrete Printing Technology Current Progress and Future Perspective&nbsp;([2021-10](date/2021/10))
+<div class="h1-like">A State of the Art Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-19-0189-8_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-0189-8_3" target="_blank">10.1007/978-981-19-0189-8_3</a>
 
--------------------------
+<a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b>&nbsp;C.</a></span><br>
+Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 27-39
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 27-39
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#future`](keyword/future)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Technology%20Current%20Progress%20and%20Future%20Perspective" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131124436&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4285252652" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-19-0189-8_3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-19-0189-8_3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is a transformative window of opportunity to have a tremendous economic and societal influence over the next years. The technique, originally contained in the production of tiny objects, developed shape in the 1980s and moves into large-scale building application using concrete and additional cement and binding materials. This article offers state-of-the-art 3D concrete printing achievements in the field of equipment, materials and computer modeling. There will be several demonstration projects and potential and difficulties related to 3D concrete printing will be explored. Formulation of ink using local and local products is and will continue to be a serious difficulty. Further developments in large-scale 3D printers will continue. The review should be fascinating both to experienced engineers and beginners in 3D printing, even those focusing mostly on transition through current study to implementation of 3D printing in construction. This content covers evolution of 3D printing concrete with regard to its functionality, mechanical features and the construction plan, in attempt to implement 3D printed concrete reachable thoroughly. Furthermore, the applications of 3D printed concrete and its development have also been highlighted.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -77,8 +60,39 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../giri_prem_kuma.2023.DoCMf3PUSTaT/">Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{pras.2022.3CPTCPaFP,
+      author            = "C. Venkata Siva Rama Prasad",
+      title             = "3D Concrete Printing Technology Current Progress and Future Perspective: A State of the Art Review",
+      doi               = "10.1007/978-981-19-0189-8_3",
+      year              = "2022",
+      volume            = "233",
+      pages             = "27--39",
+      booktitle         = "Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering",
+      editor            = "Pala Gireesh Kumar and Kolluru V. L. Subramaniam and S. Moses Santhakumar and Neelima Satyam D.",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. V. S. R. Prasad, “3D Concrete Printing Technology Current Progress and Future Perspective: A State of the Art Review”, in <i>Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering</i>,  2022, vol. 233, pp. 27–39. doi: 10.1007/978-981-19-0189-8_3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Prasad, C. Venkata Siva Rama. “3D Concrete Printing Technology Current Progress and Future Perspective: A State of the Art Review”. In <i>Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering: Recent Advances in Civil Engineering</i>, edited by Pala Gireesh Kumar, Kolluru V. L. Subramaniam, S. Moses Santhakumar, and Neelima Satyam D., 233:27–39, 2022. https://doi.org/10.1007/978-981-19-0189-8_3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

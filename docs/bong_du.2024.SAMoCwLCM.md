@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shin Bong, Hongjian Du
+    - footer
+title: Bong Shin, Du Hongjian
 description:
 tags:
  - additive
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/b978-0-443-15672-4.00011-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-15672-4.00011-5</a>
+#Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-15672-4.00011-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-15672-4.00011-5" target="_blank">10.1016/b978-0-443-15672-4.00011-5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bong_hau_shin"><b>Bong</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
+Contribution - Sustainable Concrete Materials and Structures, pp. 317-341
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> <a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Sustainable Concrete Materials and Structures, pp. 317-341
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#low`](keyword/low)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Additive%20Manufacturing%20of%20Concrete%20with%20Low-Carbon%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200211885&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399680081" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-15672-4.00011-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-15672-4.00011-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing of concrete, also known as 3D printing of concrete, is a rapidly emerging construction technology that eliminates the need for conventional formwork while fabricating concrete components with complex geometries through a layer-by-layer buildup process. This technology can significantly improve productivity, reduce labor demands, and decrease carbon emissions. However, the use of high ordinary Portland cement (OPC) content in printable concretes compensates the environmental advantages offered by this technology. Currently, there are two approaches, namely replacing OPC with sustainable alternative OPC-free binders, and partially substituting OPC with high volume of supplementary cementitious materials (SCMs). In this chapter, several promising OPC-free binder systems and high-volume SCMs mixtures were reviewed, highlighting their main advantages and challenges within the context of this technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "66 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -130,8 +111,38 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chaj_savi.2024.TEoUSFGPWoFPo3PCC/">The Effect of Using Surface Functionalized Granite-Powder-Waste on Fresh Properties of 3D Printed Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bong_du.2024.SAMoCwLCM,
+      author            = "Shin Hau Bong and Hongjian Du",
+      title             = "Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials",
+      doi               = "10.1016/b978-0-443-15672-4.00011-5",
+      year              = "2024",
+      pages             = "317--341",
+      booktitle         = "Sustainable Concrete Materials and Structures",
+      editor            = "Ashraf Ashour and Xinyue Wang and Baoguo Han",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Bong  and H. Du, “Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials”, in <i>Sustainable Concrete Materials and Structures</i>,  2024, pp. 317–341. doi: 10.1016/b978-0-443-15672-4.00011-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bong, Shin Hau, and Hongjian Du. “Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials”. In <i>Sustainable Concrete Materials and Structures</i>, edited by Ashraf Ashour, Xinyue Wang, and Baoguo Han, 317–41, 2024. https://doi.org/10.1016/b978-0-443-15672-4.00011-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

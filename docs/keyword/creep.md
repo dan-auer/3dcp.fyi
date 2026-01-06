@@ -8,7 +8,7 @@ search:
 
 # #creep
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sara_rama.2025.EACBo3PM/">Early Age Creep Behavior of 3D Printable Mortar:<br/>Hydration and Viscoelasticity Coupling Model</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../xia_chen_chen_jia.2024.UaMtPDo3PCBoVCB/">Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior</a></li>
   <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>

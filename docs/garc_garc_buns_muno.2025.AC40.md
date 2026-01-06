@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gonzalo Garcés, Rodrigo García-Alvarado, Victor Bunster, Claudia Muñoz-Sanguinetti
+    - footer
+title: Garcés Gonzalo, García-Alvarado Rodrigo, Bunster Victor, Muñoz-Sanguinetti Claudia
 description:
 tags:
  - additive
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Construction 4.0:<br/>:aca-blank: A Systematic Review of 3D Concrete Printing for Construction 4.0 ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1108/ecam-07-2024-0875" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/ecam-07-2024-0875</a>
+#Additive Construction 4.0&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">A Systematic Review of 3D Concrete Printing for Construction 4.0</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/ecam-07-2024-0875" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ecam-07-2024-0875" target="_blank">10.1108/ecam-07-2024-0875</a>
 
--------------------------
+<a href="../../../author/garces_gonzalo"><b>Garcés</b>&nbsp;Gonzalo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-4567" title="ORCID: 0000-0002-7665-4567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bunster_victor"><b>Bunster</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4859-478X" title="ORCID: 0000-0002-4859-478X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b>&nbsp;Claudia</a></span><br>
+Journal Article - Engineering, Construction and Architectural Management
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>
-,     <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a> <a href="https://orcid.org/0000-0002-7665-4567" title="ORCID: 0000-0002-7665-4567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering, Construction and Architectural Management, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Construction%204.0" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008216370&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411280418" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/ecam-07-2024-0875" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/ecam-07-2024-0875?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive construction or concrete 3D printing provides a fully digitalized solution to conventional construction while enabling smart and sustainable construction practices. Growing demand for cost-effective construction solutions has driven the development of this technology as a potential approach to realizing Industry 4.0 principles in construction. In this context, studies suggest that the integration of additive construction and Construction 4.0 can potentially address problems such as, for example, cost overruns, labor costs and waste of construction materials. However, this is a new and constantly evolving field that lacks a comprehensive understanding of its potential advantages and limitations. To evaluate the integration potential of additive construction and Construction 4.0, this article presents a systematic literature review and bibliometric analysis of relevant, verifiable and recurring issues. The research is based on a mixed approach that combines quantitative and qualitative methods. The first stage employs bibliometric analysis to assess publication trends and conceptual relationships, while the second stage conducts a systematic review to identify gaps in literature and conceptual interactions. Finally, an additional bibliometric study is carried out to identify conceptual connections and technological trends. The methodology is complemented by data collection and mapping and analysis using the PRISMA methodology, which is based on a five-stage process: preliminary, identification, screening, eligibility and inclusion. The results show how additive construction aims for optimization and sustainability in a construction project and drives some of the potential benefits of Construction 4.0 through intelligent management, also finding gaps in the literature to explore the main connections between 3D concrete printing and the latest emerging Construction 4.0 technologies to promote the development of smart buildings. Finally, a theoretical framework of Additive Construction 4.0 is proposed that is based on the interconnection of Additive Construction and Construction 4.0 through horizontal integration (integrates the demands of interested parties by applying methodologies and strategies throughout the entire 3D construction process) and vertical integration (connects actors and instances throughout the project life cycle and interconnects physical and digital components). The study recognizes the following limitations that could hinder the integration of concrete 3D printing with construction 4.0 technologies: (1) traditional design approaches are not suitable for concrete 3D printing, requiring new design methods that consider the features and limitations of this technology; (2) the integration of Construction 4.0 and concrete 3D printing is still in its early stages of development, creating uncertainty about its effective implementation and (3) there is a lack of studies that analyze the impact of the integration of Construction 4.0 technologies and the building information modeling (BIM) methodology in additive construction, which limits the understanding of its potential benefits and challenges. In addition, there is a lack of technical discussions on structural aspects that should also be studied in greater depth. This study contributes by identifying the main interactions of additive construction, concrete 3D printing and Construction 4.0 tools and technologies through the generation and analysis of co-occurrence maps of keywords, connections and their networks in the literature. In this sense, this research identifies the current state and future trends for the integration of additive construction based on concrete and Construction 4.0 and how these concepts are interrelated from a perspective of sustainable, intelligent, digitalized and industrialized construction, closing gaps in existing review articles.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "62 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -126,8 +107,36 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_jass_liu_wang.2024.AIBMRi3PC/">Artificial Intelligence-Based Microcracks Research in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{garc_garc_buns_muno.2025.AC40,
+      author            = "Gonzalo Garcés and Rodrigo García-Alvarado and Victor Bunster and Claudia Muñoz-Sanguinetti",
+      title             = "Additive Construction 4.0: A Systematic Review of 3D Concrete Printing for Construction 4.0",
+      doi               = "10.1108/ecam-07-2024-0875",
+      year              = "2025",
+      journal           = "Engineering, Construction and Architectural Management",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Garcés, R. García-Alvarado, V. Bunster and C. Muñoz-Sanguinetti, “Additive Construction 4.0: A Systematic Review of 3D Concrete Printing for Construction 4.0”, <i>Engineering, Construction and Architectural Management</i>, 2025, doi: 10.1108/ecam-07-2024-0875.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Garcés, Gonzalo, Rodrigo García-Alvarado, Victor Bunster, and Claudia Muñoz-Sanguinetti. “Additive Construction 4.0: A Systematic Review of 3D Concrete Printing for Construction 4.0”. <i>Engineering, Construction and Architectural Management</i>, 2025. https://doi.org/10.1108/ecam-07-2024-0875.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

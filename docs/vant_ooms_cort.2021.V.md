@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gieljan Vantyghem, Ticho Ooms, Wouter Corte
+    - footer
+title: Vantyghem Gieljan, Ooms Ticho, Corte Wouter
 description:
 tags:
  - base
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} VoxelPrint:<br/>:aca-blank: A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing ([2020-11](date/2020/11))
-<a href="https://doi.org/10.1016/j.autcon.2020.103469" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2020.103469</a>
+#VoxelPrint&nbsp;([2020-11](date/2020/11))
+<div class="h1-like">A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2020.103469" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2020.103469" target="_blank">10.1016/j.autcon.2020.103469</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b>&nbsp;Gieljan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ooms_ticho"><b>Ooms</b>&nbsp;Ticho</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span><br>
+Journal Article - Automation in Construction, Vol. 122
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> <a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a> <a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 122, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#grasshopper`](keyword/grasshopper)
-    [`#numeric`](keyword/numeric)
-    [`#plug`](keyword/plug)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/grasshopper"><button class="btn">#grasshopper</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/plug"><button class="btn">#plug</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=VoxelPrint" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85096874295&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3109334581" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2020.103469" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2020.103469?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, we present a Grasshopper plug-in that can be used to construct simulation files, designed specifically for 3D concrete printing applications. A custom Grasshopper component library was developed in C# using the RhinoCommon SDK. The component allows for the voxelization of any three-dimensional shape into a set of identical finite elements and produces ready-to-use Input files for simulation in Abaqus. The main contribution of this work is providing an extensive, yet easy-to-use plugin to be used by both non-experts (e.g. architects and designers that are familiar with the parametric toolbox that is provided by Grasshopper) and more advanced users (that can experiment with the broad range of input parameters in an attempt to optimize their 3D prints). The core component generates input (.INP) files based on state-of-the art numerical methods for simulation of concrete printing. The plug-in is made freely available for educational and academic use and can be downloaded from www.food4rhino.com/app/Concre3DLab.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
@@ -74,8 +55,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "61 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
@@ -138,4 +119,33 @@ tags:
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{vant_ooms_cort.2021.V,
+      author            = "Gieljan Vantyghem and Ticho Ooms and Wouter de Corte",
+      title             = "VoxelPrint: A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing",
+      doi               = "10.1016/j.autcon.2020.103469",
+      year              = "2021",
+      journal           = "Automation in Construction",
+      volume            = "122",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Vantyghem, T. Ooms and W. de Corte, “VoxelPrint: A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing”, <i>Automation in Construction</i>, vol. 122, 2021, doi: 10.1016/j.autcon.2020.103469.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Vantyghem, Gieljan, Ticho Ooms, and Wouter de Corte. “VoxelPrint: A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing”. <i>Automation in Construction</i> 122 (2021). https://doi.org/10.1016/j.autcon.2020.103469.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

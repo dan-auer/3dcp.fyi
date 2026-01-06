@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peng Cui, Chun-ran Wu, Jie Chen, Fuming Luo, Shi-cong Kou
+    - footer
+title: Cui Peng, Wu Chun-ran, Chen Jie, Luo Fuming, Kou Shi-cong
 description:
 tags:
  - cement
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.122677" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.122677</a>
+#Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material ([2021-02](date/2021/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.122677" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.122677" target="_blank">10.1016/j.conbuildmat.2021.122677</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4391-004X" title="ORCID: 0000-0003-4391-004X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_peng"><b>Cui</b>&nbsp;Peng</a></span>, <a href="../../../author/wu_chun-ran"><b>Wu</b>&nbsp;Chun-ran</a></span>, <a href="../../../author/chen_jie"><b>Chen</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1034-9524" title="ORCID: 0000-0003-1034-9524" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luo_fuming"><b>Luo</b>&nbsp;Fuming</a></span>, <a href="../../../author/kou_shi-cong"><b>Kou</b>&nbsp;Shi-cong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 282
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_peng"><b>Cui</b> Peng</a> <a href="https://orcid.org/0000-0003-4391-004X" title="ORCID: 0000-0003-4391-004X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>
-,     <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>
-,     <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> <a href="https://orcid.org/0000-0003-1034-9524" title="ORCID: 0000-0003-1034-9524" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kou_shi-cong"><b>Kou</b> Shi-cong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 282, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#magnesium`](keyword/magnesium)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Preparation%20of%20Magnesium-Oxysulfate%20Cement%20as%20a%203D%20Printing%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101574646&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,23 +34,18 @@ tags:
 <a href="https://inciteful.xyz/p/W3211329735" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.122677" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.122677?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mechanical properties and setting time of magnesium oxysulfate cement (MOS) were evaluated in the context of three-dimensional printing. MOS samples with MgO-to-magnesium sulfate mole ratios ranging from 2 ~ 9 and four water-to-solid weight ratios ranging from 0.27 ~ 0.57 were developed. The initial and final setting time was ~30 and 40 min, respectively. Moreover, MOS was prepared for 3D printing. The MOS micro-structure was examined. The average pore diameter was less than 20 nm, and the total porosity ranged from 11.76 to 37.39%. The gel pore content (<10 nm) and average pore diameter influenced the MOS compressive strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
-      <li><a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>, <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>, <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../cui_wu_chen_luo.2021.PoMOCaa3PM/">Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -83,12 +63,40 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a>, <a href="../../../author/su_anshuang"><b>Su</b> Anshuang</a>, <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_su_gao.2025.IoIPo3PMOCBMbCC/">Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing</a></li>
       <li><a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a>, <a href="../../../author/wen_xiaodong"><b>Wen</b> Xiaodong</a>, <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_wen_gao.2025.RaMPo3PMOC/">Rheological and Mechanical Properties of 3D-Printable Magnesium-Oxysulfate-Cements</a></li>
       <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_han_liu_yang.2025.Rot3PPaFSoCMiLG/">Research on the 3D Printing Process and Filament Shape of Cementitious Materials in Low Gravity</a></li>
       <li><a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a>, <a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/tang_wei"><b>Tang</b> Wei</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../luo_cui_tang_wu.2023.IoESotPaMo3PMC/">Influences of Engineering Spoil on the Properties and Microstructure of 3D Printable Magnesium-Cement</a></li>
-      <li><a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>, <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>, <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../cui_wu_chen_luo.2021.PoMOCaa3PM/">Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_wu_chen_luo.2021.PoMOCaa3PM,
+      author            = "Peng Cui and Chun-ran Wu and Jie Chen and Fuming Luo and Shi-cong Kou",
+      title             = "Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material",
+      doi               = "10.1016/j.conbuildmat.2021.122677",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "282",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Cui, C.-. ran . Wu, J. Chen, F. Luo and S.-. cong . Kou, “Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material”, <i>Construction and Building Materials</i>, vol. 282, 2021, doi: 10.1016/j.conbuildmat.2021.122677.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Peng, Chun-ran Wu, Jie Chen, Fuming Luo, and Shi-cong Kou. “Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material”. <i>Construction and Building Materials</i> 282 (2021). https://doi.org/10.1016/j.conbuildmat.2021.122677.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

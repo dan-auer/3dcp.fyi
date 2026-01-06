@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ondřej Jankovský, Petr Lodňánek, Anna-Marie Lauermannová, Adéla Jiříčková, Jozef Vlček, Hana Ovčačíková, Michaela Topinková, Petra Maierová, Jiří Fiedor, Petr Miarka, Martina Záleská, Adam Pivák, Milena Pavlíková, Zbyšek Pavlík
+    - footer
+title: Jankovský Ondřej, Lodňánek Petr, Lauermannová Anna-Marie, Jiříčková Adéla, Vlček Jozef, Ovčačíková Hana, Topinková Michaela, Maierová Petra, Fiedor Jiří, Miarka Petr, Záleská Martina, Pivák Adam, Pavlíková Milena, Pavlík Zbyšek
 description:
 tags:
  - buildability
@@ -19,45 +20,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement:<br/>:aca-blank: Towards Sustainable 3D-Printable Building Composites ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.oceram.2025.100841" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.oceram.2025.100841</a>
+#Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Towards Sustainable 3D-Printable Building Composites</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.oceram.2025.100841" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.oceram.2025.100841" target="_blank">10.1016/j.oceram.2025.100841</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3501-8943" title="ORCID: 0000-0002-3501-8943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jankovsky_ondrej"><b>Jankovský</b>&nbsp;Ondřej</a></span>, <a href="../../../author/lodnanek_petr"><b>Lodňánek</b>&nbsp;Petr</a></span>, <a href="../../../author/lauermannova_anna-marie"><b>Lauermannová</b>&nbsp;Anna-Marie</a></span>, <a href="../../../author/jirickova_adela"><b>Jiříčková</b>&nbsp;Adéla</a></span>, <a href="../../../author/vlcek_jozef"><b>Vlček</b>&nbsp;Jozef</a></span>, <a href="../../../author/ovcacikova_hana"><b>Ovčačíková</b>&nbsp;Hana</a></span>, <a href="../../../author/topinkova_michaela"><b>Topinková</b>&nbsp;Michaela</a></span>, <a href="../../../author/maierova_petra"><b>Maierová</b>&nbsp;Petra</a></span>, <a href="../../../author/fiedor_jiri"><b>Fiedor</b>&nbsp;Jiří</a></span>, <a href="../../../author/miarka_petr"><b>Miarka</b>&nbsp;Petr</a></span>, <a href="../../../author/zaleska_martina"><b>Záleská</b>&nbsp;Martina</a></span>, <a href="../../../author/pivak_adam"><b>Pivák</b>&nbsp;Adam</a></span>, <a href="../../../author/pavlikova_milena"><b>Pavlíková</b>&nbsp;Milena</a></span>, <a href="../../../author/pavlik_zbysek"><b>Pavlík</b>&nbsp;Zbyšek</a></span><br>
+Journal Article - Open Ceramics, No. 100841
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jankovsky_ondrej"><b>Jankovský</b> Ondřej</a> <a href="https://orcid.org/0000-0002-3501-8943" title="ORCID: 0000-0002-3501-8943" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lodnanek_petr"><b>Lodňánek</b> Petr</a>
-,     <a href="../../../author/lauermannova_anna-marie"><b>Lauermannová</b> Anna-Marie</a>
-,     <a href="../../../author/jirickova_adela"><b>Jiříčková</b> Adéla</a>
-,     <a href="../../../author/vlcek_jozef"><b>Vlček</b> Jozef</a>
-,     <a href="../../../author/ovcacikova_hana"><b>Ovčačíková</b> Hana</a>
-,     <a href="../../../author/topinkova_michaela"><b>Topinková</b> Michaela</a>
-,     <a href="../../../author/maierova_petra"><b>Maierová</b> Petra</a>
-,     <a href="../../../author/fiedor_jiri"><b>Fiedor</b> Jiří</a>
-,     <a href="../../../author/miarka_petr"><b>Miarka</b> Petr</a>
-,     <a href="../../../author/zaleska_martina"><b>Záleská</b> Martina</a>
-,     <a href="../../../author/pivak_adam"><b>Pivák</b> Adam</a>
-,     <a href="../../../author/pavlikova_milena"><b>Pavlíková</b> Milena</a>
-,     <a href="../../../author/pavlik_zbysek"><b>Pavlík</b> Zbyšek</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Open Ceramics, No. 100841
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fill`](keyword/fill)
-    [`#furnace`](keyword/furnace)
-    [`#magnesium`](keyword/magnesium)
-    [`#printability`](keyword/printability)
-    [`#replacement`](keyword/replacement)
-    [`#slag`](keyword/slag)
-    [`#sustainability`](keyword/sustainability)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Ladle%20Furnace%20Slag%20as%20Filler%20Replacement%20in%20Magnesium%20Oxychloride%20Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014911011&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,20 +42,45 @@ tags:
 <a href="https://inciteful.xyz/p/W4413854775" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.oceram.2025.100841" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.oceram.2025.100841?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In response to the global demand for CO2 emissions reduction, Portland cement (PC) replacement with more eco-friendly materials has been focused on in material studies. One of the studied alternatives is magnesium oxychloride cement (MOC), which offers excellent mechanical properties and lower production temperatures. The ecological impact of MOC alone is significant, but if we incorporate waste material as a filler replacement in MOC composites, we can decrease overall emissions even more. In this paper, we focused on the development of an eco-friendly material with a safely incorporated ladle furnace slag (SL). Firstly, the SL was characterized by numerous analytical methods (XRF, XRD, SEM, EDS, STA-MS) to attain knowledge about its elemental and phase composition. In the following step, MOC composite materials with SL used as a silica sand partial replacement were prepared by casting. Such prepared materials were then characterized by XRF, XRD, SEM, EDS, and MIP. Furthermore, their structural and mechanical properties were assessed. Based on the obtained results, an optimized composition of mixtures was used for 3D printing to demonstrate the suitability of this material for this purpose. Finally, X-ray computed micro-tomography imaging was used to study the quality of printed cubes, in particular porosity and the amount of macroscopic defects. This paper presents an innovative approach in which waste SL from steel production can replace silica sand filler in significant quantities, demonstrating that such a designed material is suitable for additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhon_huan_liu_wang.2024.CDAMoSSSM/">CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jank_lodn_laue_jiri.2025.UoLFSaFRiMOC,
+      author            = "Ondřej Jankovský and Petr Lodňánek and Anna-Marie Lauermannová and Adéla Jiříčková and Jozef Vlček and Hana Ovčačíková and Michaela Topinková and Petra Maierová and Jiří Fiedor and Petr Miarka and Martina Záleská and Adam Pivák and Milena Pavlíková and Zbyšek Pavlík",
+      title             = "Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement: Towards Sustainable 3D-Printable Building Composites",
+      doi               = "10.1016/j.oceram.2025.100841",
+      year              = "2025",
+      journal           = "Open Ceramics",
+      pages             = "100841",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Jankovský, “Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement: Towards Sustainable 3D-Printable Building Composites”, <i>Open Ceramics</i>, p. 100841, 2025, doi: 10.1016/j.oceram.2025.100841.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jankovský, Ondřej, Petr Lodňánek, Anna-Marie Lauermannová, Adéla Jiříčková, Jozef Vlček, Hana Ovčačíková, Michaela Topinková, et al.. “Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement: Towards Sustainable 3D-Printable Building Composites”. <i>Open Ceramics</i>, 2025, 100841. https://doi.org/10.1016/j.oceram.2025.100841.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

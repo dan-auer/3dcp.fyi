@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yang Wang, Liu-Chao Qiu, Song-Gui Chen, Yi Liu, Shuo Li
+    - footer
+title: Wang Yang, Qiu Liu-Chao, Chen Song-Gui, Liu Yi, Li Shuo
 description:
 tags:
  - base
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2025.2498359) Modelling of 3D Concrete Printing Based on SPH Method with the Herschel-Bulkley-Papanastasiou Rheology Model ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1080/19942060.2025.2498359" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/19942060.2025.2498359</a>
+#Modelling of 3D Concrete Printing Based on SPH Method with the Herschel-Bulkley-Papanastasiou Rheology Model ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/19942060.2025.2498359) <a href="https://doi.org/10.1080/19942060.2025.2498359" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19942060.2025.2498359" target="_blank">10.1080/19942060.2025.2498359</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yang"><b>Wang</b>&nbsp;Yang</a></span>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b>&nbsp;Liu-Chao</a></span>, <a href="../../../author/chen_song-gui"><b>Chen</b>&nbsp;Song-Gui</a></span>, <a href="../../../author/liu_yi"><b>Liu</b>&nbsp;Yi</a></span>, <a href="../../../author/li_shuo"><b>Li</b>&nbsp;Shuo</a></span><br>
+Journal Article - Engineering Applications of Computational Fluid Mechanics, Vol. 19, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> <a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>
-,     <a href="../../../author/chen_song-gui"><b>Chen</b> Song-Gui</a>
-,     <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>
-,     <a href="../../../author/li_shuo"><b>Li</b> Shuo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Applications of Computational Fluid Mechanics, Vol. 19, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bulkley`](keyword/bulkley)
-    [`#concrete`](keyword/concrete)
-    [`#herschel`](keyword/herschel)
-    [`#method`](keyword/method)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bulkley"><button class="btn">#bulkley</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/herschel"><button class="btn">#herschel</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modelling%20of%203D%20Concrete%20Printing%20Based%20on%20SPH%20Method%20with%20the%20Herschel-Bulkley-Papanastasiou%20Rheology%20Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004476898&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410132874" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/19942060.2025.2498359" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/19942060.2025.2498359?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A smooth particle hydrodynamic (SPH) method combined with the Herschel–Bulkley-Papanastasiou (HBP) model is proposed to simulate 3D concrete printing (3DCP). HBP model can better resolve the divergence of equivalent viscosity coefficient under small deformation and extend the compatibility of simulation to dilatant and pseudoplastic fluids, so it possesses natural superiority in modelling the 3D printing of cement-based material with visco-plastic rheology behaviour. The HBP-based SPH method considers the influence of the printing parameters including nozzle characteristics and printing-to-extrusion velocity ratio on the cross-sectional geometry of the deposited filament, and its outcomes agree qualitatively well with the experiment results. Furthermore, by utilising process parameters furnished by simulation cases, it is possible to determine the critical conditions under which filaments printed by different nozzle shapes are vulnerable to tearing, and the corresponding critical intervals when tearing occurs are also defined. 3DPC experiments verify these findings and confirm that SPH simulation provides additional information on the geometric characteristics of single-layer structures, as well as physical quantities that cannot be straightforwardly measured.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/cheng_hanbin"><b>Cheng</b> Hanbin</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>, <a href="../../../author/hilman_michael"><b>Hilman</b> Michael</a>, <a href="../../../author/liu_feihong"><b>Liu</b> Feihong</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_radl_hilm_liu.2024.MCDv3PURKPM/">Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method</a></li>
@@ -103,7 +80,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_qiu_chen_liu.2025.Mo3CPBoSMwtHBPRM,
+      author            = "Yang Wang and Liu-Chao Qiu and Song-Gui Chen and Yi Liu and Shuo Li",
+      title             = "Modelling of 3D Concrete Printing Based on SPH Method with the Herschel-Bulkley-Papanastasiou Rheology Model",
+      doi               = "10.1080/19942060.2025.2498359",
+      year              = "2025",
+      journal           = "Engineering Applications of Computational Fluid Mechanics",
+      volume            = "19",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, L.-C. Qiu, S.-G. Chen, Y. Liu and S. Li, “Modelling of 3D Concrete Printing Based on SPH Method with the Herschel-Bulkley-Papanastasiou Rheology Model”, <i>Engineering Applications of Computational Fluid Mechanics</i>, vol. 19, no. 1, 2025, doi: 10.1080/19942060.2025.2498359.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yang, Liu-Chao Qiu, Song-Gui Chen, Yi Liu, and Shuo Li. “Modelling of 3D Concrete Printing Based on SPH Method with the Herschel-Bulkley-Papanastasiou Rheology Model”. <i>Engineering Applications of Computational Fluid Mechanics</i> 19, no. 1 (2025). https://doi.org/10.1080/19942060.2025.2498359.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

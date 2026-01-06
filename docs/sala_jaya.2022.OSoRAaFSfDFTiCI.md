@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: M. Salaimanimagudam, Jaganathan Jayaprakash
+    - footer
+title: Salaimanimagudam M., Jayaprakash Jaganathan
 description:
 tags:
  - assembly
@@ -21,35 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry:<br/>:aca-blank: A Critical Review ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.istruc.2022.10.094" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2022.10.094</a>
+#Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">A Critical Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2022.10.094" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2022.10.094" target="_blank">10.1016/j.istruc.2022.10.094</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b>&nbsp;Jaganathan</a></span><br>
+Journal Article - Structures, Vol. 46, pp. 725-749
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> <a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 46, pp. 725-749
-
-:aca-blank:{ .lg .middle}
-    [`#assembly`](keyword/assembly)
-    [`#construction`](keyword/construction)
-    [`#critical`](keyword/critical)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#formwork`](keyword/formwork)
-    [`#industry`](keyword/industry)
-    [`#optimization`](keyword/optimization)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-    [`#selective`](keyword/selective)
-    [`#system`](keyword/system)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimum%20Selection%20of%20Reinforcement%2C%20Assembly%2C%20and%20Formwork%20System%20for%20Digital%20Fabrication%20Technique%20in%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141250396&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,19 +44,14 @@ tags:
 <a href="https://inciteful.xyz/p/W4308345462" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2022.10.094" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2022.10.094?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication is the revolution in construction industries, enabling the design possibility of optimum and complex structural elements with mass customization and minimal material utilization. Topology optimization and digital fabrication are interdependent. The utilization of digital fabrication in topology optimization ensures the optimality of topology optimized structure and vice versa. The combination of digital fabrication and topology optimization enables the generation of lightweight structures with low material consumption. The complex topology optimized structure can be fabricated using digital fabrication. However, the structural efficacy of digitally fabricated structures is low. The optimal selection of reinforcement, assembly, and formwork helps to increase the structural efficacy of digitally fabricated structures. The authors, in this review, provide an overview and outlook of different digital fabrication techniques and their potential. Moreover, it highlights the optimal selection of digital fabrication techniques for manufacturing topology-optimized structures without manufacturing-driven constraints.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "93 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
-      <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -170,8 +145,8 @@ tags:
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhou_yuan_zhou.2021.DaFoa3CPPSB/">Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2015/08">(2015-08)</a><br><a href="../../../zhou_li.2015.MCBMaBPvE/">Manufacturing Cement-Based Materials and Building Products via Extrusion:<br/>From Laboratory to Factory</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.EoNSODPIaIoGFMRi3PC/">Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a>, <a href="../../../author/anwar_parvez_mohammed"><b>Anwar</b> Mohammed</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sala_jaya_anwa.2025.SoRIMf3PCUM/">Selection of Reinforcement Incorporation Method for 3D Printed Concrete Using MCDM</a></li>
@@ -183,4 +158,34 @@ tags:
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wars_pand_bisw.2023.EFAMaMPoFR3PC/">Exploring Fiber Addition Methods and Mechanical Properties of Fiber-Reinforced 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sala_jaya.2022.OSoRAaFSfDFTiCI,
+      author            = "M. P. Salaimanimagudam and Jaganathan Jayaprakash",
+      title             = "Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry: A Critical Review",
+      doi               = "10.1016/j.istruc.2022.10.094",
+      year              = "2022",
+      journal           = "Structures",
+      volume            = "46",
+      pages             = "725--749",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Salaimanimagudam  and J. Jayaprakash, “Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry: A Critical Review”, <i>Structures</i>, vol. 46, pp. 725–749, 2022, doi: 10.1016/j.istruc.2022.10.094.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Salaimanimagudam, M. P., and Jaganathan Jayaprakash. “Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry: A Critical Review”. <i>Structures</i> 46 (2022): 725–49. https://doi.org/10.1016/j.istruc.2022.10.094.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

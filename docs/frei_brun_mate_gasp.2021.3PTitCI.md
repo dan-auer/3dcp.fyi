@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tiago Freire, Francis Brun, Artur Mateus, Florindo Gaspar
+    - footer
+title: Freire Tiago, Brun Francis, Mateus Artur, Gaspar Florindo
 description:
 tags:
  - construction
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Technology in the Construction Industry ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1007/978-3-030-35533-3_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-35533-3_19</a>
+#3D Printing Technology in the Construction Industry ([2019-11](date/2019/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-35533-3_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-35533-3_19" target="_blank">10.1007/978-3-030-35533-3_19</a>
 
--------------------------
+<a href="../../../author/freire_tiago"><b>Freire</b>&nbsp;Tiago</a></span>, <a href="../../../author/brun_francis"><b>Brun</b>&nbsp;Francis</a></span>, <a href="../../../author/mateus_artur"><b>Mateus</b>&nbsp;Artur</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
+Contribution - Proceedings of the International Conference on Automation Innovation in Construction, pp. 157-167
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/freire_tiago"><b>Freire</b> Tiago</a>
-,     <a href="../../../author/brun_francis"><b>Brun</b> Francis</a>
-,     <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>
-,     <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the International Conference on Automation Innovation in Construction, pp. 157-167
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Technology%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097391114&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3085420964" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-35533-3_19" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-35533-3_19?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The demand for cost-effective solutions led to the development of 3D printing technology in the construction industry, as a possible constructive solution in the scope of the so-called Industry 4.0. It has been shown to be feasible in several areas, due to its low cost, speed, geometric freedom and being an environmentally friendly solution, mainly due to the possibility of using raw materials of endogenous origin, biodegradable or even to the reuse of waste. This technology is generally composed of one or more printheads, supported by a rail-guided crane. Another widely used strand is the robotic arms (extendable or not). In both, the end of the printhead is composed of an injector through which the mortar is forced to pass, using pumps. Bridges, shelters for soldiers, homes for disadvantaged people, or even destroyed by natural disasters, as well as the rehabilitation of buildings, are some examples of what has already been done, using 3D printing. This paper gives an overview of the applications of this type of technology, as also the possibilities, as for example dimensional, shape, building time, finishing and material characteristics. Printing technology, types of equipment, variants, design, alternative energy supply are presented. Examples are given about equipment that have been developed and tested for initial testing, demonstration and commercial implementation, and that may be used in the future. The advantages and future possibilities of 3D printing in construction are also discussed. It is an emerging technology with a great potential for evolution, namely in terms of materials for printing, size and finishing, or even in terms of simultaneous printing of mortar and insulation materials. However, it is currently limited for the lack of legislation and certification.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -68,8 +50,8 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bajw_flem_sama_bao.2025.So3PT/">Sustainability of 3D Printing Technology:<br/>A Review on Research Trends and Developments</a></li>
@@ -81,4 +63,34 @@ tags:
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
       <li><a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../sepa_shi_yang_shir.2020.AMAfI40/">Additive Manufacturing Applications for Industry 4.0:<br/>A Systematic Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{frei_brun_mate_gasp.2021.3PTitCI,
+      author            = "Tiago Freire and Francis Brun and Artur Mateus and Florindo Gaspar",
+      title             = "3D Printing Technology in the Construction Industry",
+      doi               = "10.1007/978-3-030-35533-3_19",
+      year              = "2021",
+      pages             = "157--167",
+      booktitle         = "Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions",
+      editor            = "Hugo Rodrigues and Florindo Gaspar and Paulo Fernandes and Artur Mateus",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Freire, F. Brun, A. Mateus and F. Gaspar, “3D Printing Technology in the Construction Industry”, in <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>,  2021, pp. 157–167. doi: 10.1007/978-3-030-35533-3_19.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Freire, Tiago, Francis Brun, Artur Mateus, and Florindo Gaspar. “3D Printing Technology in the Construction Industry”. In <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>, edited by Hugo Rodrigues, Florindo Gaspar, Paulo Fernandes, and Artur Mateus, 157–67, 2021. https://doi.org/10.1007/978-3-030-35533-3_19.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jiang Yaqing 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../pan_guo_jian_ji.2022.FaDBoCMTNwDGP/">Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters:<br/>Experimental and Numerical Approaches</a></li>
   <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM/">How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?</a></li>
   <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../pan_jian_ji.2022.ILBIo3PCMwFRPSaHDPS/">Inter-Layer Bonding Investigation of 3D Printing Cementitious Materials with Fluidity-Retaining Polycarboxylate-Superplasticizer and High-Dispersion Polycarboxylate Superplasticizer</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robert Guamán-Rivera, Rodrigo García-Alvarado, Alejandro Martínez-Rocamora, Fernando Cheein
+    - footer
+title: Guamán-Rivera Robert, García-Alvarado Rodrigo, Martínez-Rocamora Alejandro, Cheein Fernando
 description:
 tags:
  - buildability
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/12/11/4378/pdf?version=1592226116) A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry ([2020-05](date/2020/05))
-<a href="https://doi.org/10.3390/su12114378" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su12114378</a>
+#A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry ([2020-05](date/2020/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/12/11/4378/pdf?version=1592226116) <a href="https://doi.org/10.3390/su12114378" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su12114378" target="_blank">10.3390/su12114378</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1387-0315" title="ORCID: 0000-0003-1387-0315" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2874-0081" title="ORCID: 0000-0002-2874-0081" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b>&nbsp;Alejandro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6347-7696" title="ORCID: 0000-0002-6347-7696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheein_auat_fernando"><b>Cheein</b>&nbsp;Fernando</a></span><br>
+Journal Article - Sustainability, Vol. 12, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a> <a href="https://orcid.org/0000-0003-1387-0315" title="ORCID: 0000-0003-1387-0315" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a> <a href="https://orcid.org/0000-0002-2874-0081" title="ORCID: 0000-0002-2874-0081" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="https://orcid.org/0000-0002-6347-7696" title="ORCID: 0000-0002-6347-7696" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 12, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#comprehension`](keyword/comprehension)
-    [`#construction`](keyword/construction)
-    [`#difference`](keyword/difference)
-    [`#element`](keyword/element)
-    [`#evaluation`](keyword/evaluation)
-    [`#industry`](keyword/industry)
-    [`#manipulator`](keyword/manipulator)
-    [`#mobile`](keyword/mobile)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manipulator"><button class="btn">#manipulator</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Performance%20Evaluation%20of%20Different%20Mobile%20Manipulators%20Used%20as%20Displaceable%203D%20Printers%20of%20Building%20Elements%20for%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085956374&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3030517361" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su12114378" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su12114378?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is currently technologically challenged to incorporate new developments for enhancing the process, such as the use of 3D printing for complex building structures, which is the aim of this brief. To do so, we show a systematic study regarding the usability and performance of mobile manipulators as displaceable 3D printing machinery in construction sites, with emphasis on the three main different existing mobile platforms: the car-like, the unicycle and the omnidirectional (mecanum wheeled), with an UR5 manipulator on them. To evaluate its performance, we propose the printing of the following building elements: helical, square, circular and mesh, with different sizes. As metrics, we consider the total control effort observed in the robots and the total tracking error associated with the energy consumed in the activity to get a more sustainable process. In addition, to further test our work, we constrained the robot workspace thus resembling real life construction sites. In general, the statistical results show that the omnidirectional platform presents the best results –lowest tracking error and lowest control effort– for circular, helicoidal and mesh building elements; and car-like platform shows the best results for square-like building element. Then, an innovative performance analysis is achieved for the printing of building elements, with a contribution to the reduction of energy consumption.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -100,10 +74,40 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/pietrasik_l_lukasz"><b>Pietrasik</b> Lukasz</a>, <a href="../../../author/sounigo_eliott"><b>Sounigo</b> Eliott</a>, <a href="../../../author/tsai_ping-hsun"><b>Tsai</b> Ping-Hsun</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../jenn_piet_soun_tsai.2023.CMTLOSP/">Continuous Mobile Thin-Layer On-Site Printing</a></li>
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
       <li><a href="../../../author/villacres_juan"><b>Villacrés</b> Juan</a>, <a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/menendez_oswaldo"><b>Menéndez</b> Oswaldo</a>, <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../vill_guam_mene_chee.2021.3PDEUAVSfSC/">3D Printing Deformation Estimation Using Artificial Vision-Strategies for Smart-Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{guam_garc_mart_chee.2020.ACPEoDMMUaD3PoBEftCI,
+      author            = "Robert Guamán-Rivera and Rodrigo García-Alvarado and Alejandro Martínez-Rocamora and Fernando Auat Cheein",
+      title             = "A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry",
+      doi               = "10.3390/su12114378",
+      year              = "2020",
+      journal           = "Sustainability",
+      volume            = "12",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Guamán-Rivera, R. García-Alvarado, A. Martínez-Rocamora and F. A. Cheein, “A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry”, <i>Sustainability</i>, vol. 12, no. 11, 2020, doi: 10.3390/su12114378.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Guamán-Rivera, Robert, Rodrigo García-Alvarado, Alejandro Martínez-Rocamora, and Fernando Auat Cheein. “A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry”. <i>Sustainability</i> 12, no. 11 (2020). https://doi.org/10.3390/su12114378.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

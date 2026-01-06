@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stefanie Rückrich, Guy Austern, Ofer Denay, Paul Seiwert, Yoav Sterman, Sürayyn Selvan, Ezri Tarazi, Abraham Yezioro, Yasha Grobman
+    - footer
+title: Rückrich Stefanie, Austern Guy, Denay Ofer, Seiwert Paul, Sterman Yoav, Selvan Sürayyn, Tarazi Ezri, Yezioro Abraham, Grobman Yasha
 description:
 tags:
  - application
@@ -17,38 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D-Printed Earth-Fiber Envelopes:<br/>:aca-blank: Optimization of Thermal Performance and Industrial Applicability ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.jobe.2025.113006" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113006</a>
+#3D-Printed Earth-Fiber Envelopes&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Optimization of Thermal Performance and Industrial Applicability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113006" target="_blank">10.1016/j.jobe.2025.113006</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7688-5683" title="ORCID: 0000-0001-7688-5683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruckrich_stefanie"><b>Rückrich</b>&nbsp;Stefanie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3377-4814" title="ORCID: 0000-0003-3377-4814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/austern_guy"><b>Austern</b>&nbsp;Guy</a></span>, <a href="../../../author/denay_ofer"><b>Denay</b>&nbsp;Ofer</a></span>, <a href="../../../author/seiwert_paul"><b>Seiwert</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3072-8337" title="ORCID: 0000-0003-3072-8337" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sterman_yoav"><b>Sterman</b>&nbsp;Yoav</a></span>, <a href="../../../author/selvan_surayyn"><b>Selvan</b>&nbsp;Sürayyn</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7576-6057" title="ORCID: 0000-0002-7576-6057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarazi_ezri"><b>Tarazi</b>&nbsp;Ezri</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3392-7921" title="ORCID: 0000-0003-3392-7921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yezioro_abraham"><b>Yezioro</b>&nbsp;Abraham</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4683-4601" title="ORCID: 0000-0003-4683-4601" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/grobman_jacob_yasha"><b>Grobman</b>&nbsp;Yasha</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113006
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ruckrich_stefanie"><b>Rückrich</b> Stefanie</a> <a href="https://orcid.org/0000-0001-7688-5683" title="ORCID: 0000-0001-7688-5683" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/austern_guy"><b>Austern</b> Guy</a> <a href="https://orcid.org/0000-0003-3377-4814" title="ORCID: 0000-0003-3377-4814" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/denay_ofer"><b>Denay</b> Ofer</a>
-,     <a href="../../../author/seiwert_paul"><b>Seiwert</b> Paul</a>
-,     <a href="../../../author/sterman_yoav"><b>Sterman</b> Yoav</a> <a href="https://orcid.org/0000-0003-3072-8337" title="ORCID: 0000-0003-3072-8337" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/selvan_surayyn"><b>Selvan</b> Sürayyn</a>
-,     <a href="../../../author/tarazi_ezri"><b>Tarazi</b> Ezri</a> <a href="https://orcid.org/0000-0002-7576-6057" title="ORCID: 0000-0002-7576-6057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yezioro_abraham"><b>Yezioro</b> Abraham</a> <a href="https://orcid.org/0000-0003-3392-7921" title="ORCID: 0000-0003-3392-7921" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/grobman_jacob_yasha"><b>Grobman</b> Yasha</a> <a href="https://orcid.org/0000-0003-4683-4601" title="ORCID: 0000-0003-4683-4601" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113006
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#earth`](keyword/earth)
-    [`#envelope`](keyword/envelope)
-    [`#fiber`](keyword/fiber)
-    [`#industry`](keyword/industry)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D-Printed%20Earth-Fiber%20Envelopes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006839696&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410790411" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113006" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113006?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing with earth-based materials is emerging as a sustainable building method; however, challenges remain regarding strength, thermal performance, and both logistical and environmental viability. This study aims to optimize the passive thermal performance and facilitate the industrial applicability of printed envelopes through advanced material and geometric design; implementing a mass-customizable computational toolpath framework, and refining the printing processing parameters. The design approach is guided by experimental exploration and the integration of state-of-the-art knowledge. The results present a high-strength material mix with over 55 vol% fiber-content, including fibers several centimeters in length, printed using an 8 mm nozzle outlet. The medium-resolution printing method balances efficiency, shape accuracy, and thermal performance. Mechanical tests showed that small, lab-cast specimens achieved compressive strengths of up to 10.6 MPa, surpassing typical cob-like materials. Likewise, thermal conductivity measurements of approximately 0.35–0.37 W/m·K confirm the material’s potential for passive temperature regulation. Furthermore, by segmenting the wall into repeatable yet customizable units and integrating cavities and ventilation channels, the system can be adapted to different building sizes, performance requirements, and assembly methods. Full-scale prototypes were printed to evaluate the applicability in buildings. While load-bearing capacity remains limited, results suggest that 3D-printed earth-fiber walls up to 30 cm thick can achieve simulated U-values of approximately 0.8–0.9 W/m2·K. These findings demonstrate that engineered fiber-earth composites, combined with strategic toolpath design, can enhance both mechanical and thermal performance in earthen construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ashr_naza_meis_duar.2022.AGBAfTPG/">A Grammar-Based Algorithm for Tool-Path-Generation:<br/>Compensating for Material-Deformation in the Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b> Julie</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM/">Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing</a></li>
       <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/leithner_felicitas"><b>Leithner</b> Felicitas</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../brie_koll_leit_matt.2022.TOoAMLCWEwICStSaM/">Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements</a></li>
@@ -93,7 +66,36 @@ tags:
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ruck_aust_dena_seiw.2025.3PEFE,
+      author            = "Stefanie Rückrich and Guy Austern and Ofer Denay and Paul Seiwert and Yoav Sterman and Sürayyn Selvan and Ezri Tarazi and Abraham Yezioro and Yasha Jacob Grobman",
+      title             = "3D-Printed Earth-Fiber Envelopes: Optimization of Thermal Performance and Industrial Applicability",
+      doi               = "10.1016/j.jobe.2025.113006",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113006",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Rückrich, “3D-Printed Earth-Fiber Envelopes: Optimization of Thermal Performance and Industrial Applicability”, <i>Journal of Building Engineering</i>, p. 113006, 2025, doi: 10.1016/j.jobe.2025.113006.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rückrich, Stefanie, Guy Austern, Ofer Denay, Paul Seiwert, Yoav Sterman, Sürayyn Selvan, Ezri Tarazi, Abraham Yezioro, and Yasha Jacob Grobman. “3D-Printed Earth-Fiber Envelopes: Optimization of Thermal Performance and Industrial Applicability”. <i>Journal of Building Engineering</i>, 2025, 113006. https://doi.org/10.1016/j.jobe.2025.113006.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yameng Ji, Philippe Poullain, Ali Leklou
+    - footer
+title: Ji Yameng, Poullain Philippe, Leklou Ali
 description:
 tags:
  - design
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Selection and Design of Earthen Materials for 3D Printing ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133114" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133114</a>
+#The Selection and Design of Earthen Materials for 3D Printing ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133114" target="_blank">10.1016/j.conbuildmat.2023.133114</a>
 
--------------------------
+<a href="../../../author/ji_yameng"><b>Ji</b>&nbsp;Yameng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2333-1203" title="ORCID: 0000-0002-2333-1203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poullain_philippe"><b>Poullain</b>&nbsp;Philippe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1242-089X" title="ORCID: 0000-0003-1242-089X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leklou_nordine_ali"><b>Leklou</b>&nbsp;Ali</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 404, No. 133114
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ji_yameng"><b>Ji</b> Yameng</a>
-,     <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a> <a href="https://orcid.org/0000-0002-2333-1203" title="ORCID: 0000-0002-2333-1203" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a> <a href="https://orcid.org/0000-0003-1242-089X" title="ORCID: 0000-0003-1242-089X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 404, No. 133114
-
-:aca-blank:{ .lg .middle}
-    [`#design`](keyword/design)
-    [`#earth`](keyword/earth)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-
-
--------------------------
+<a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Selection%20and%20Design%20of%20Earthen%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171762255&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386591367" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133114" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133114?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Significant efforts are being made to reform the construction industry using 3D printing. Among an extensive variety of printing materials, eco-friendly earth materials have recently received increased attention. Nonetheless, corresponding research is limited, particularly in assessing the availability of earthen mixture and printing performance. This study presents a methodical and effective procedure for selecting earthen formulations for 3D printing. Four different soils were identified based on their characteristics, including granularity, clay behavior, and linear shrinkage, in order to select suitable construction materials. In addition, the rheological behavior (yield stress) of the earthen mixture was investigated so that printing formulations could be selected effectively. Finally, the printing performance was evaluated for establishing recommendations for selecting appropriate mixtures, and an analytical model of mass transfer based on the drying process for predicting the occurrence of plastic collapse was also proposed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/bajpayee_aayushi"><b>Bajpayee</b> Aayushi</a>, <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/pandey_aditi"><b>Pandey</b> Aditi</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bajp_fara_zaki_pand.2020.ISRUaRoSiCMftAMoB/">In-Situ Resource Utilization and Reconfiguration of Soils into Construction Materials for the Additive Manufacturing of Buildings</a></li>
@@ -77,8 +59,9 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yous_rash_koc.2025.AMfVAULESaBWM/">Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials</a></li>
@@ -96,4 +79,34 @@ tags:
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ji_poul_lekl.2023.TSaDoEMf3P,
+      author            = "Yameng Ji and Philippe Poullain and Ali Nordine Leklou",
+      title             = "The Selection and Design of Earthen Materials for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2023.133114",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "404",
+      pages             = "133114",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Ji, P. Poullain and A. N. Leklou, “The Selection and Design of Earthen Materials for 3D Printing”, <i>Construction and Building Materials</i>, vol. 404, p. 133114, 2023, doi: 10.1016/j.conbuildmat.2023.133114.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ji, Yameng, Philippe Poullain, and Ali Nordine Leklou. “The Selection and Design of Earthen Materials for 3D Printing”. <i>Construction and Building Materials</i> 404 (2023): 133114. https://doi.org/10.1016/j.conbuildmat.2023.133114.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

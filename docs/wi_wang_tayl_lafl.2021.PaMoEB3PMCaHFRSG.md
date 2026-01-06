@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kwangwoo Wi, Kejin Wang, Peter Taylor, Simon Laflamme, Sri Sritharan, Hantang Qin
+    - footer
+title: Wi Kwangwoo, Wang Kejin, Taylor Peter, Laflamme Simon, Sritharan Sri, Qin Hantang
 description:
 tags:
  - base
@@ -19,37 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Properties and Microstructure of Extrusion-Based 3D Printing Mortar Containing a Highly Flowable, Rapid Set Grout ([2021-09](date/2021/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104243" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104243</a>
+#Properties and Microstructure of Extrusion-Based 3D Printing Mortar Containing a Highly Flowable, Rapid Set Grout ([2021-09](date/2021/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104243" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104243" target="_blank">10.1016/j.cemconcomp.2021.104243</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9415-3187" title="ORCID: 0000-0001-9415-3187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wi_kwangwoo"><b>Wi</b>&nbsp;Kwangwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kejin"><b>Wang</b>&nbsp;Kejin</a></span>, <a href="../../../author/taylor_c_peter"><b>Taylor</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0601-9664" title="ORCID: 0000-0002-0601-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laflamme_simon"><b>Laflamme</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9941-8156" title="ORCID: 0000-0001-9941-8156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sritharan_sri"><b>Sritharan</b>&nbsp;Sri</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qin_hantang"><b>Qin</b>&nbsp;Hantang</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 124
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a> <a href="https://orcid.org/0000-0001-9415-3187" title="ORCID: 0000-0001-9415-3187" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> <a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taylor_c_peter"><b>Taylor</b> Peter</a>
-,     <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> <a href="https://orcid.org/0000-0002-0601-9664" title="ORCID: 0000-0002-0601-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sritharan_sri"><b>Sritharan</b> Sri</a> <a href="https://orcid.org/0000-0001-9941-8156" title="ORCID: 0000-0001-9941-8156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qin_hantang"><b>Qin</b> Hantang</a> <a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 124, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#containment`](keyword/containment)
-    [`#extrusion`](keyword/extrusion)
-    [`#flow`](keyword/flow)
-    [`#grout`](keyword/grout)
-    [`#micro`](keyword/micro)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rapid`](keyword/rapid)
-    [`#setting`](keyword/setting)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/grout"><button class="btn">#grout</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Properties%20and%20Microstructure%20of%20Extrusion-Based%203D%20Printing%20Mortar%20Containing%20a%20Highly%20Flowable%2C%20Rapid%20Set%20Grout" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85113981108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3197604498" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104243" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104243?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, a highly flowable, rapid set crack repair grout powder (CRG) was used to facilitate mix design of 3D printing mortar. Various mortar mixtures with different amounts of CRG were evaluated for setting time, flowability, and printability. For the first time, pore/micro-structures of printed filaments and their bonds were examined in detail. The results have provided a better understanding of the anisotropic mechanical behavior of printed mortar. Plausible explanations have been made for the observations that printed samples displayed lower compressive but higher flexural strength than cast samples. It is demonstrated that CRG can be simply used as a raw material component to expedite the 3D printing concrete mix design process since finding the balance among various admixtures (e.g., water-reducing agent, thixotropic agent, accelerator, etc.) is not required.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -110,8 +83,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/rahman_m-arifur_s"><b>Rahman</b> S.</a>, <a href="../../../author/khair_sanjida"><b>Khair</b> Sanjida</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rahm_khai_shai_sark.2025.D3PCILSaPF/">Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber:<br/>Buildability, Mechanical, and Microstructural Insights</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
@@ -141,4 +114,33 @@ tags:
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_rongfei"><b>Zhang</b> Rongfei</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/he_chunhui"><b>He</b> Chunhui</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_zhan_liu_he.2022.AotMPaDMf3PCBoPS/">Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wi_wang_tayl_lafl.2021.PaMoEB3PMCaHFRSG,
+      author            = "Kwangwoo Wi and Kejin Wang and Peter C. Taylor and Simon Laflamme and Sri Sritharan and Hantang Qin",
+      title             = "Properties and Microstructure of Extrusion-Based 3D Printing Mortar Containing a Highly Flowable, Rapid Set Grout",
+      doi               = "10.1016/j.cemconcomp.2021.104243",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "124",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Wi, K. Wang, P. C. Taylor, S. Laflamme, S. Sritharan and H. Qin, “Properties and Microstructure of Extrusion-Based 3D Printing Mortar Containing a Highly Flowable, Rapid Set Grout”, <i>Cement and Concrete Composites</i>, vol. 124, 2021, doi: 10.1016/j.cemconcomp.2021.104243.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wi, Kwangwoo, Kejin Wang, Peter C. Taylor, Simon Laflamme, Sri Sritharan, and Hantang Qin. “Properties and Microstructure of Extrusion-Based 3D Printing Mortar Containing a Highly Flowable, Rapid Set Grout”. <i>Cement and Concrete Composites</i> 124 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104243.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

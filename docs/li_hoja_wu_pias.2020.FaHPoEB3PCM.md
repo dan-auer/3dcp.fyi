@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhanzhao Li, Maryam Hojati, Zhengyu Wu, Jonathon Piasente, Negar Ashrafi, José Duarte, Shadi Nazarian, Sven Bilén, Ali Memari, Aleksandra Radlińska
+    - footer
+title: Li Zhanzhao, Hojati Maryam, Wu Zhengyu, Piasente Jonathon, Ashrafi Negar, Duarte José, Nazarian Shadi, Bilén Sven, Memari Ali, Radlińska Aleksandra
 description:
 tags:
  - base
@@ -17,39 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/12/14/5628/pdf?version=1594699693) Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>:aca-blank: A Review ([2020-07](date/2020/07))
-<a href="https://doi.org/10.3390/su12145628" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su12145628</a>
+#Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/12/14/5628/pdf?version=1594699693) <a href="https://doi.org/10.3390/su12145628" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su12145628" target="_blank">10.3390/su12145628</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7674-7424" title="ORCID: 0000-0001-7674-7424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhanzhao"><b>Li</b>&nbsp;Zhanzhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6321-3420" title="ORCID: 0000-0002-6321-3420" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_zhengyu"><b>Wu</b>&nbsp;Zhengyu</a></span>, <a href="../../../author/piasente_jonathon"><b>Piasente</b>&nbsp;Jonathon</a></span>, <a href="../../../author/ashrafi_negar"><b>Ashrafi</b>&nbsp;Negar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5416-7039" title="ORCID: 0000-0002-5416-7039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bilen_g_sven"><b>Bilén</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b>&nbsp;Aleksandra</a></span><br>
+Journal Article - Sustainability, Vol. 12, Iss. 14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a> <a href="https://orcid.org/0000-0001-7674-7424" title="ORCID: 0000-0001-7674-7424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> <a href="https://orcid.org/0000-0002-6321-3420" title="ORCID: 0000-0002-6321-3420" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a>
-,     <a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> <a href="https://orcid.org/0000-0002-5416-7039" title="ORCID: 0000-0002-5416-7039" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 12, Iss. 14, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#extrusion`](keyword/extrusion)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20and%20Hardened%20Properties%20of%20Extrusion-Based%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088842846&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3042047916" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su12145628" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su12145628?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printing of cementitious materials is an innovative construction approach with which building elements can be constructed without the use of formwork. Despite potential benefits in the construction industry, it introduces various engineering challenges from the material point of view. This paper reviews the properties of extrusion-based 3D-printed cementitious materials in both fresh and hardened states. Four main properties of fresh-state printing materials are addressed: flowability, extrudability, buildability, and open time, along with hardened properties, including density, compressive strength, flexural strength, tensile bond strength, shrinkage, and cracking. Experimental testing and effective factors of each property are covered, and a mix design procedure is proposed. The main objective of this paper is to provide an overview of the recent development in 3D-printing of cementitious materials and to identify the research gaps that need further investigation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "91 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
@@ -94,7 +66,6 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
-      <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hoja_sedg_li_mema.2024.FSo3PCB/">Flexural Strength of 3D Printed Concrete Beams:<br/>Exploring Barbed-Wire Reinforcement and Cross-Sectional Geometry</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -168,8 +139,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "94 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
@@ -265,4 +236,34 @@ tags:
       <li><a href="../../../author/dubov_alexey"><b>Dubov</b> Alexey</a>, <a href="../../../author/ruben_sam"><b>Ruben</b> Sam</a>, <a href="../../../author/korshikov_vasily"><b>Korshikov</b> Vasily</a>, <a href="../../../author/ivanova_anna"><b>Ivanova</b> Anna</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../dubo_rube_kors_ivan.2022.3PoPwCFtRSRaSSiC/">3D Printing of Polymers with Continuous Fibers to Replace Steel-Reinforcement and Structural Steel in Construction</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_hoja_wu_pias.2020.FaHPoEB3PCM,
+      author            = "Zhanzhao Li and Maryam Hojati and Zhengyu Wu and Jonathon Piasente and Negar Ashrafi and José Pinto Duarte and Shadi Nazarian and Sven G. Bilén and Ali M. Memari and Aleksandra Radlińska",
+      title             = "Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials: A Review",
+      doi               = "10.3390/su12145628",
+      year              = "2020",
+      journal           = "Sustainability",
+      volume            = "12",
+      number            = "14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, “Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials: A Review”, <i>Sustainability</i>, vol. 12, no. 14, 2020, doi: 10.3390/su12145628.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zhanzhao, Maryam Hojati, Zhengyu Wu, Jonathon Piasente, Negar Ashrafi, José Pinto Duarte, Shadi Nazarian, Sven G. Bilén, Ali M. Memari, and Aleksandra Radlińska. “Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials: A Review”. <i>Sustainability</i> 12, no. 14 (2020). https://doi.org/10.3390/su12145628.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

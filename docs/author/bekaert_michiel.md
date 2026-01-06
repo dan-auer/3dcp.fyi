@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Bekaert Michiel 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a></li>
   <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../beka_titt_schu.2024.IoCCotSBoTDPCF/">Influence of Curing Conditions on the Shrinkage Behavior of Three-Dimensional Printed Concrete Formwork</a></li>
   <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../beka_titt_schu.2023.TEoCCotSLo3PCF/">The Effect of Curing Conditions on the Service Life of 3D Printed Concrete Formwork</a></li>

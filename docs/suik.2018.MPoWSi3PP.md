@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Akke Suiker
+    - footer
+title: Suiker Akke
 description:
 tags:
  - design
@@ -18,31 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://pure.tue.nl/ws/files/92211392/IJMS_2018.pdf) Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>:aca-blank: Theory, Design Tools and Experiments ([2018-01](date/2018/01))
-<a href="https://doi.org/10.1016/j.ijmecsci.2018.01.010" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ijmecsci.2018.01.010</a>
+#Mechanical Performance of Wall Structures in 3D Printing Processes&nbsp;([2018-01](date/2018/01))
+<div class="h1-like">Theory, Design Tools and Experiments</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://pure.tue.nl/ws/files/92211392/IJMS_2018.pdf) <a href="https://doi.org/10.1016/j.ijmecsci.2018.01.010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijmecsci.2018.01.010" target="_blank">10.1016/j.ijmecsci.2018.01.010</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9960-3666" title="ORCID: 0000-0002-9960-3666" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/suiker_s-j_akke"><b>Suiker</b>&nbsp;Akke</a></span><br>
+Journal Article - International Journal of Mechanical Sciences, Vol. 137, pp. 145-170
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="https://orcid.org/0000-0002-9960-3666" title="ORCID: 0000-0002-9960-3666" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Mechanical Sciences, Vol. 137, pp. 145-170
-
-:aca-blank:{ .lg .middle}
-    [`#design`](keyword/design)
-    [`#experiment`](keyword/experiment)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#structure`](keyword/structure)
-    [`#theory`](keyword/theory)
-    [`#tool`](keyword/tool)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%20Wall%20Structures%20in%203D%20Printing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85041425898&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,22 +41,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2783942745" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ijmecsci.2018.01.010" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ijmecsci.2018.01.010?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the current contribution for the first time a mechanistic model is presented that can be used for analysing and optimising the mechanical performance of straight wall structures in 3D printing processes. The two failure mechanisms considered are elastic buckling and plastic collapse . The model incorporates the most relevant process parameters, which are the printing velocity, the curing characteristics of the printing material, the geometrical features of the printed object, the heterogeneous strength and stiffness properties, the presence of imperfections, and the non-uniform dead weight loading. The sensitivity to elastic buckling and plastic collapse is first explored for three basic configurations, namely i) a free wall, ii) a simply-supported wall and iii) a fully-clamped wall, which are printed under linear or exponentially-decaying curing processes. As demonstrated for the specific case of a rectangular wall lay-out, the design graphs and failure mechanism maps constructed for these basic configurations provide a convenient practical tool for analysing arbitrary wall structures under a broad range of possible printing process parameters. Here, the simply-supported wall results in a lower bound for the wall buckling length, corresponding to global buckling of the complete wall structure, while the fully-clamped wall gives an upper bound , reflecting local buckling of an individual wall. The range of critical buckling lengths defined by these bounds may be further narrowed by the critical wall length for plastic collapse. For an arbitrary wall configuration the critical buckling length and corresponding buckling mode can be accurately predicted by deriving an expression for the non-uniform rotational stiffness provided by the support structure of a buckling wall. This has been elaborated for the specific case of a wall structure characterised by a rectangular lay-out. It is further shown that under the presence of imperfections the buckling response at growing deflection correctly asymptotes towards the bifurcation buckling length of an ideally straight wall. The buckling responses computed for a free wall and a wall structure with a rectangular lay-out turn out to be in good agreement with experimental results of 3D printed concrete wall structures. Hence, the model can be applied to systematically explore the influence of individual printing process parameters on the mechanical performance of particular wall structures, which should lead to clear directions for the optimisation on printing time and material usage. The model may be further utilised as a validation tool for finite element models of wall structures printed under specific process conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "209 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_suik.2025.CoEAEPPo3PMUIT/">Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -119,7 +99,7 @@ tags:
       <li><a href="../../../author/to_bao_quoc"><b>To</b> Quoc</a>, <a href="../../../author/pham_vo-anh_koa"><b>Pham</b> Koa</a>, <a href="../../../author/lee_gayoon"><b>Lee</b> Gayoon</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../to_pham_lee_shin.2024.EaFEotIoILBSi3PCMUCaFL/">Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings</a></li>
       <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/wei_jingjie"><b>Wei</b> Jingjie</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../li_wei_khay.2024.3PoFRCCLBCM/">3D Printing of Fiber-Reinforced Calcined Clay-Limestone-Based Cementitious Materials:<br/>From Mixture Design to Printability Evaluation</a></li>
       <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a>, <a href="../../../author/ma_hongyan"><b>Ma</b> Hongyan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gu_zhen_ma_long.2024.EoAKoSPoPaILBo3PC/">Effect of Absorption Kinetics of Superabsorbent Polymers on Printability and Inter-Layer Bond of 3D Printing Concrete</a></li>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../deet_bos_blaa_sale.2024.AILDTEtMtRTiCCP/">An In-Line Dye Tracer Experiment to Measure the Residence Time in Continuous Concrete Processing</a></li>
       <li><a href="../../../author/bayatkashkooli_samira"><b>Bayatkashkooli</b> Samira</a>, <a href="../../../author/amirsardari_anita"><b>Amirsardari</b> Anita</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../baya_amir_raje_sanj.2024.IoALCo3PCW/">Investigation of Axial Load Capacity of 3D Printed Concrete Wall</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../oulk_akhr_jai.2024.3CPS/">3D Concrete Printing Success:<br/>An Exhaustive Diagnosis and Failure-Modes-Analysis</a></li>
@@ -282,4 +262,34 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{suik.2018.MPoWSi3PP,
+      author            = "Akke S. J. Suiker",
+      title             = "Mechanical Performance of Wall Structures in 3D Printing Processes: Theory, Design Tools and Experiments",
+      doi               = "10.1016/j.ijmecsci.2018.01.010",
+      year              = "2018",
+      journal           = "International Journal of Mechanical Sciences",
+      volume            = "137",
+      pages             = "145--170",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. J. Suiker, “Mechanical Performance of Wall Structures in 3D Printing Processes: Theory, Design Tools and Experiments”, <i>International Journal of Mechanical Sciences</i>, vol. 137, pp. 145–170, 2018, doi: 10.1016/j.ijmecsci.2018.01.010.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Suiker, Akke S. J.. “Mechanical Performance of Wall Structures in 3D Printing Processes: Theory, Design Tools and Experiments”. <i>International Journal of Mechanical Sciences</i> 137 (2018): 145–70. https://doi.org/10.1016/j.ijmecsci.2018.01.010.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

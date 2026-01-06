@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gerrit Placzek, Patrick Schwerdtner
+    - footer
+title: Placzek Gerrit, Schwerdtner Patrick
 description:
 tags:
  - concrete
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2673-4591/53/1/54/pdf?version=1706599095) From Process to System:<br/>:aca-blank: A Review on the Implications of Concrete 3D Printing on Project Delivery ([2023-10](date/2023/10))
-<a href="https://doi.org/10.3390/iocbd2023-16383" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/iocbd2023-16383</a>
+#From Process to System&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">A Review on the Implications of Concrete 3D Printing on Project Delivery</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-4591/53/1/54/pdf?version=1706599095) <a href="https://doi.org/10.3390/iocbd2023-16383" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/iocbd2023-16383" target="_blank">10.3390/iocbd2023-16383</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span><br>
+Contribution - Proceedings of the the 1st International Online Conference on Buildings, No. 54
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> <a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the the 1st International Online Conference on Buildings, pp. 54
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#delievery`](keyword/delievery)
-    [`#implication`](keyword/implication)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#projection`](keyword/projection)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/delievery"><button class="btn">#delievery</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=From%20Process%20to%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197240948&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391367366" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/iocbd2023-16383" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/iocbd2023-16383?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this study is to question the need for alternative project delivery methods to foster the integration of concrete 3D printing in the construction industry. For this purpose, a literature review was carried out. The results indicate that the traditional planning and construction process will have to be reconsidered. On the one hand, new roles and changes in responsibilities may emerge, and, on the other hand, a holistic design process and early contractor involvement will be required to fully exploit the potential of concrete 3D printing. Therefore, alternative project delivery models need to be adopted.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -85,10 +66,40 @@ tags:
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../teiz_blic_king_leit.2018.Bf3PiC/">BIM for 3D Printing in Construction</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/keune_anna"><b>Keune</b> Anna</a>, <a href="../../../author/simsic_ziva"><b>Simšič</b> Živa</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../keun_sims_klof_dorf.2025.AE/">AMC Edu:<br/>Lab Design to Learn About Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.AGSo3PB/">A Global Snapshot of 3D Printed Buildings:<br/>Uncovering Robotic-Oriented Fabrication-Strategies</a></li>
       <li><a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../davi_drod.2024.RGEEfaAFoCFFS/">Robot-Guided End Effector for an Automated Finishing of Concrete Free-Form Surfaces</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{plac_schw.2023.FPtS,
+      author            = "Gerrit Placzek and Patrick Schwerdtner",
+      title             = "From Process to System: A Review on the Implications of Concrete 3D Printing on Project Delivery",
+      doi               = "10.3390/iocbd2023-16383",
+      year              = "2023",
+      pages             = "54",
+      booktitle         = "Proceedings of the the 1st International Online Conference on Buildings: Advances in Building Planning, Design, Construction, and Operation",
+      editor            = "David Arditi",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Placzek  and P. Schwerdtner, “From Process to System: A Review on the Implications of Concrete 3D Printing on Project Delivery”, in <i>Proceedings of the the 1st International Online Conference on Buildings: Advances in Building Planning, Design, Construction, and Operation</i>,  2023, p. 54. doi: 10.3390/iocbd2023-16383.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Placzek, Gerrit, and Patrick Schwerdtner. “From Process to System: A Review on the Implications of Concrete 3D Printing on Project Delivery”. In <i>Proceedings of the the 1st International Online Conference on Buildings: Advances in Building Planning, Design, Construction, and Operation</i>, edited by David Arditi, 54, 2023. https://doi.org/10.3390/iocbd2023-16383.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

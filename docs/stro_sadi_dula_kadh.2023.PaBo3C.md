@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Max Strohle, Monower Sadique, Anmar Dulaimi, Mustafa Kadhim
+    - footer
+title: Strohle Max, Sadique Monower, Dulaimi Anmar, Kadhim Mustafa
 description:
 tags:
  - barrier
@@ -12,28 +13,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s41062-022-00975-w.pdf) Prospect and Barrier of 3D Concrete:<br/>:aca-blank: A Systematic Review ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1007/s41062-022-00975-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41062-022-00975-w</a>
+#Prospect and Barrier of 3D Concrete&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">A Systematic Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41062-022-00975-w.pdf) <a href="https://doi.org/10.1007/s41062-022-00975-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-022-00975-w" target="_blank">10.1007/s41062-022-00975-w</a>
 
--------------------------
+<a href="../../../author/strohle_max"><b>Strohle</b>&nbsp;Max</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7967-2659" title="ORCID: 0000-0001-7967-2659" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadique_monower"><b>Sadique</b>&nbsp;Monower</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6014-866X" title="ORCID: 0000-0002-6014-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dulaimi_anmar"><b>Dulaimi</b>&nbsp;Anmar</a></span>, <a href="../../../author/kadhim_amoori_mustafa"><b>Kadhim</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Innovative Infrastructure Solutions, Vol. 8, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/strohle_max"><b>Strohle</b> Max</a>
-,     <a href="../../../author/sadique_monower"><b>Sadique</b> Monower</a> <a href="https://orcid.org/0000-0001-7967-2659" title="ORCID: 0000-0001-7967-2659" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dulaimi_anmar"><b>Dulaimi</b> Anmar</a> <a href="https://orcid.org/0000-0002-6014-866X" title="ORCID: 0000-0002-6014-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kadhim_amoori_mustafa"><b>Kadhim</b> Mustafa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Innovative Infrastructure Solutions, Vol. 8, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#barrier`](keyword/barrier)
-    [`#concrete`](keyword/concrete)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Prospect%20and%20Barrier%20of%203D%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142347280&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308993816" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41062-022-00975-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41062-022-00975-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to explore the current state of the art and potential of 3D concrete printing and its use in large-scale applications. The study analysed 373 academic research, all of which were obtained from the Scopus database. The review conducted on some crucial issues on development of 3D concrete that included materials and their desirable properties, printer nozzle developments, reinforcement in printing, geopolymers as printing materials, and the use of coarse graded aggregates. This study provides researchers and institutions with an in-depth insight into 3D concrete printing and research trends worldwide and assesses the future of 3D concrete printing in large-scale applications. The requirement of more research on the mechanics of 3D printers, standardising a printer nozzle, the automation of reinforcing processes, and use of coarse graded aggregate for large-scale structural application were identified in this review. It also shows how 3D concrete printing has evolved and changed over time and gives an insight into the future of 3D concrete printing—making this scientometric review a framework for future studies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -92,8 +75,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a>, <a href="../../../author/volodymyrov_anton"><b>Volodymyrov</b> Anton</a>, <a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a>, <a href="../../../author/firsov_pavlo"><b>Firsov</b> Pavlo</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rezn_volo_tene_firs.2026.NAo3PPFiMSBC/">Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction</a></li>
       <li><a href="../../../author/motiani_ronak"><b>Motiani</b> Ronak</a>, <a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b> Saha</a>, <a href="../../../author/dalal_p_sejal"><b>Dalal</b> Sejal</a>, <a href="../../../author/vora_jay"><b>Vora</b> Jay</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../moti_sylv_dala_vora.2025.IRTf3PC/">Innovative Reinforcement Techniques for 3D-Printed Concrete:<br/>The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
@@ -105,4 +88,34 @@ tags:
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../plac_schw.2023.CAMiC/">Concrete Additive Manufacturing in Construction:<br/>Integration Based on Component-Related Fabrication-Strategies</a></li>
       <li><a href="../../../author/shenawa_amaal"><b>Shenawa</b> Amaal</a>, <a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b> Poonam</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../shen_karo.2023.3PiCMCSaTPR/">3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{stro_sadi_dula_kadh.2023.PaBo3C,
+      author            = "Max Strohle and Monower Sadique and Anmar Dulaimi and Mustafa Amoori Kadhim",
+      title             = "Prospect and Barrier of 3D Concrete: A Systematic Review",
+      doi               = "10.1007/s41062-022-00975-w",
+      year              = "2023",
+      journal           = "Innovative Infrastructure Solutions",
+      volume            = "8",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Strohle, M. Sadique, A. Dulaimi and M. A. Kadhim, “Prospect and Barrier of 3D Concrete: A Systematic Review”, <i>Innovative Infrastructure Solutions</i>, vol. 8, no. 1, 2023, doi: 10.1007/s41062-022-00975-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Strohle, Max, Monower Sadique, Anmar Dulaimi, and Mustafa Amoori Kadhim. “Prospect and Barrier of 3D Concrete: A Systematic Review”. <i>Innovative Infrastructure Solutions</i> 8, no. 1 (2023). https://doi.org/10.1007/s41062-022-00975-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

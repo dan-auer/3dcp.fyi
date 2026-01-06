@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehrab Nodehi, Togay Ozbakkaloglu, Aliakbar Gholampour
+    - footer
+title: Nodehi Mehrab, Ozbakkaloglu Togay, Gholampour Aliakbar
 description:
 tags:
  - activation
@@ -19,34 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete:<br/>:aca-blank: A Review ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.autcon.2022.104215" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104215</a>
+#Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104215" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104215" target="_blank">10.1016/j.autcon.2022.104215</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nodehi_mehrab"><b>Nodehi</b>&nbsp;Mehrab</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b>&nbsp;Togay</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gholampour_aliakbar"><b>Gholampour</b>&nbsp;Aliakbar</a></span><br>
+Journal Article - Automation in Construction, Vol. 138
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a> <a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> <a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 138, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#conventional`](keyword/conventional)
-    [`#effect`](keyword/effect)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#supplement`](keyword/supplement)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/supplement"><button class="btn">#supplement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Supplementary%20Cementitious%20Materials%20on%20Properties%20of%203D%20Printed%20Conventional%20and%20Alkali-Activated%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127494894&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4280631303" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104215" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104215?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is a novel technology that has been introduced to construction industry and has been found to have numerous potentials including high speed fabrication of customized building elements without formworks and low material waste. Despite such superiority, to ensure the extrudability of materials and their coherent adhesion, most commonly, a higher content of the Portland cement (PC) with other chemical admixtures are used in 3D printed concrete (3DPC) mixes. This common practice, however, can result in augmentation of greenhouse gas emissions and also increase in the costs associated with 3D printing. To avoid this, and provide favorable printability properties, supplementary cementitious materials (SCMs) have gradually become a key ingredient of 3DPC. Utilizing SCMs, previous studies have found the critical effects of SCMs on operational aspects of 3D printers and their controls on a variety of functional parameters. To closely evaluate such parameters, the present study provides a review of the effect of SCMs on 3DPC with and without alkaline activator, focusing on manufacturing techniques, rheological properties, mechanical properties, bond strength between printed layers, effect of curing regime, and shrinkage behavior. The main challenges and future research direction of 3DPC are also presented. Based on the presented review, it is found that coal fly ash, silica fume, blast furnace slag and metakaolin are the main SCMs that are commonly used to enhance pumpability, printability, and buildability of 3DPC, as well as addressing environmental issues associated with the larger use of PC in 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "98 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -171,8 +148,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "64 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
@@ -238,4 +215,33 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
       <li><a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a>, <a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a>, <a href="../../../author/brozovsky_jiri"><b>Brožovský</b> Jiří</a>, <a href="../../../author/meszarosova_lenka"><b>Mészárosová</b> Lenka</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../meli_zizk_broz_mesz.2022.SotIoCBMf3PwFAaSP/">Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{node_ozba_ghol.2022.EoSCMoPo3PCaAAC,
+      author            = "Mehrab Nodehi and Togay Ozbakkaloglu and Aliakbar Gholampour",
+      title             = "Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete: A Review",
+      doi               = "10.1016/j.autcon.2022.104215",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "138",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Nodehi, T. Ozbakkaloglu and A. Gholampour, “Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete: A Review”, <i>Automation in Construction</i>, vol. 138, 2022, doi: 10.1016/j.autcon.2022.104215.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nodehi, Mehrab, Togay Ozbakkaloglu, and Aliakbar Gholampour. “Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete: A Review”. <i>Automation in Construction</i> 138 (2022). https://doi.org/10.1016/j.autcon.2022.104215.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kolluru Subramaniam, Sohanth Maganty, Tippabhotla Kamakshi, Dhruv Ghandhi, Manideep Thakur, Omkar Kulkarni, Ranga Vemuri
+    - footer
+title: Subramaniam Kolluru, Maganty Sohanth, Kamakshi Tippabhotla, Ghandhi Dhruv, Thakur Manideep, Kulkarni Omkar, Vemuri Ranga
 description:
 tags:
  - bridge
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1007/s40964-025-01446-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-025-01446-1</a>
+#Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-025-01446-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01446-1" target="_blank">10.1007/s40964-025-01446-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span>, <a href="../../../author/maganty_sohanth"><b>Maganty</b>&nbsp;Sohanth</a></span>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b>&nbsp;Tippabhotla</a></span>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b>&nbsp;Dhruv</a></span>, <a href="../../../author/thakur_singh_manideep"><b>Thakur</b>&nbsp;Manideep</a></span>, <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b>&nbsp;Omkar</a></span>, <a href="../../../author/vemuri_rao_ranga"><b>Vemuri</b>&nbsp;Ranga</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>
-,     <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>
-,     <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a>
-,     <a href="../../../author/thakur_singh_manideep"><b>Thakur</b> Manideep</a>
-,     <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a>
-,     <a href="../../../author/vemuri_rao_ranga"><b>Vemuri</b> Ranga</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bridge`](keyword/bridge)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#efficient`](keyword/efficient)
-    [`#form`](keyword/form)
-    [`#function`](keyword/function)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Deployment%20of%20a%20Functionally%20Efficient%203D-Printed%20Concrete%20Bridge%20Developed%20by%20Form%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-025-01446-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-025-01446-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is emerging as a technology that can significantly impact the state of practice and overcome the limitations of conventional construction processes. Design and fabrication of a free-standing structure using a layer deposition process is demonstrated for a large-scale application. A 7.5 m pedestrian bridge is designed following the concept of form-specific structural optimization. A self-equilibrated system of a laterally restrained concrete compression form is used to develop the structural system of the bridge. The structural form, consisting of a lattice structure of constant width interconnected beams is developed within a compression form derived from the concept of a tied arch. Issues related to layer-induced orthotropy in the printed assembly are addressed in determining the configuration of the printed filaments that form the structure. The evolution of the structural system of the functionally efficient bridge that minimizes the use of material under the constraints of constant-width filaments and print-path continuity is presented. The final lattice form with interconnected beam members is arrived at by iterative analysis to minimize stress in members and deflection of the structure. A prototype 5.5 m bridge is load-tested for validation. The material testing, design development, off-site printing, and installation of the 7.5 m span printed, two-part pedestrian bridge are detailed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -104,7 +79,35 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO,
+      author            = "Kolluru V. L. Subramaniam and Sohanth Maganty and Tippabhotla A. Kamakshi and Dhruv Ghandhi and Manideep Singh Thakur and Omkar Kulkarni and Ranga Rao Vemuri",
+      title             = "Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization",
+      doi               = "10.1007/s40964-025-01446-1",
+      year              = "2025",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. V. L. Subramaniam, “Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization”, <i>Progress in Additive Manufacturing</i>, 2025, doi: 10.1007/s40964-025-01446-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Subramaniam, Kolluru V. L., Sohanth Maganty, Tippabhotla A. Kamakshi, Dhruv Ghandhi, Manideep Singh Thakur, Omkar Kulkarni, and Ranga Rao Vemuri. “Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization”. <i>Progress in Additive Manufacturing</i>, 2025. https://doi.org/10.1007/s40964-025-01446-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

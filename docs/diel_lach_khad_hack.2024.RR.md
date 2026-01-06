@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gido Dielemans, Lukas Lachmayer, Noor Khader, Norman Hack, Annika Raatz, Kathrin Dörfler
+    - footer
+title: Dielemans Gido, Lachmayer Lukas, Khader Noor, Hack Norman, Raatz Annika, Dörfler Kathrin
 description:
 tags:
  - buildability
@@ -14,32 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotic Repair:<br/>:aca-blank: In-Place 3D Printing for Repair of Building Components Using a Mobile Robot ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/978-3-031-64269-2_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-64269-2_20</a>
+#Robotic Repair&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">In-Place 3D Printing for Repair of Building Components Using a Mobile Robot</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_20" target="_blank">10.1007/978-3-031-64269-2_20</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dielemans_gido"><b>Dielemans</b>&nbsp;Gido</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4503-1444" title="ORCID: 0000-0003-4503-1444" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khader_noor"><b>Khader</b>&nbsp;Noor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span><br>
+Contribution - Construction 3D Printing, pp. 156-164
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> <a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> <a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khader_noor"><b>Khader</b> Noor</a> <a href="https://orcid.org/0000-0003-4503-1444" title="ORCID: 0000-0003-4503-1444" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Construction 3D Printing, pp. 156-164
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#mobile`](keyword/mobile)
-    [`#print`](keyword/print)
-    [`#repair`](keyword/repair)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/repair"><button class="btn">#repair</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Repair" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201312874&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,27 +37,53 @@ tags:
 <a href="https://inciteful.xyz/p/W4400485342" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-64269-2_20" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-64269-2_20?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Through the deployment of a mobile construction robot capable of conducting high-resolution object scanning and precise in situ Additive Manufacturing (AM), we present a novel design-to-fabrication workflow for repairing existing building structures. The integration of AM techniques into context-aware mobile robotic systems enables high-precision in-place fabrication for new construction and for repair of existing structures. The benefits of transferring AM processes on-site extend in relation to tolerance handling, direct manipulation of existing structures, and removing constraints on shape stability compared to pre-fabricated elements by utilizing the context. By incorporating geometrical data obtained through 3D capture methods into the design and planning environment of architects and engineers, a direct interface between the existing building site and the planned digital geometry is created, facilitating accurate design of in-place repair or additions to existing building components. To evaluate this approach, we conducted an experiment in which a mobile robot equipped with a clay extrusion 3D printing system conceptually repaired a set of damaged brick wall segments. This workflow involved capturing the existing context with two levels of resolution: low-resolution 3D scene capture with a depth camera to generate a trajectory for high-resolution scanning, from which a dense point cloud is recorded using a 2D laser profile sensor by following the designated trajectories. This dense point cloud enables the operator to identify both the geometry of the existing brick wall, generate the missing volume, and a print path trajectory that fits the bounds of the volume while considering functional and architectural parameters. The accurate completion of the missing volume was successfully demonstrated by in-place 3D printing using clay extrusion with the mobile robotic system, showing the conceptual effectiveness of the proposed approach.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/mitterberger_daniela"><b>Mitterberger</b> Daniela</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../jenn_mitt_llor_vase.2022.ROSATLP/">Robotic On-Site Adaptive Thin-Layer Printing:<br/>Challenges and Workflow for Design and Fabrication of Bespoke Cementitious Plasterwork at Full-Architectural-Scale</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/pietrasik_l_lukasz"><b>Pietrasik</b> Lukasz</a>, <a href="../../../author/sounigo_eliott"><b>Sounigo</b> Eliott</a>, <a href="../../../author/tsai_ping-hsun"><b>Tsai</b> Ping-Hsun</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../jenn_piet_soun_tsai.2023.CMTLOSP/">Continuous Mobile Thin-Layer On-Site Printing</a></li>
       <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../lach_reck_diel_dorf.2022.ASaLoaMRfMSAMiC/">Autonomous Sensing and Localization of a Mobile Robot for Multi-Step Additive Manufacturing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/keune_anna"><b>Keune</b> Anna</a>, <a href="../../../author/simsic_ziva"><b>Simšič</b> Živa</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../keun_sims_klof_dorf.2025.AE/">AMC Edu:<br/>Lab Design to Learn About Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{diel_lach_khad_hack.2024.RR,
+      author            = "Gido Dielemans and Lukas Lachmayer and Noor Khader and Norman Peter Hack and Annika Raatz and Kathrin Dörfler",
+      title             = "Robotic Repair: In-Place 3D Printing for Repair of Building Components Using a Mobile Robot",
+      doi               = "10.1007/978-3-031-64269-2_20",
+      year              = "2024",
+      pages             = "156--164",
+      booktitle         = "Construction 3D Printing: Selected Papers from the 4th International Conference on 3D Construction Printing Conference",
+      editor            = "Ming Jen Tan and Mingyang Li and Yi Wei Daniel Tay and Teck Neng Wong and Paulo Jorge Bartolo",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Dielemans, L. Lachmayer, N. Khader, N. P. Hack, A. Raatz and K. Dörfler, “Robotic Repair: In-Place 3D Printing for Repair of Building Components Using a Mobile Robot”, in <i>Construction 3D Printing: Selected Papers from the 4th International Conference on 3D Construction Printing Conference</i>,  2024, pp. 156–164. doi: 10.1007/978-3-031-64269-2_20.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dielemans, Gido, Lukas Lachmayer, Noor Khader, Norman Peter Hack, Annika Raatz, and Kathrin Dörfler. “Robotic Repair: In-Place 3D Printing for Repair of Building Components Using a Mobile Robot”. In <i>Construction 3D Printing: Selected Papers from the 4th International Conference on 3D Construction Printing Conference</i>, edited by Ming Jen Tan, Mingyang Li, Yi Wei Daniel Tay, Teck Neng Wong, and Paulo Jorge Bartolo, 156–64, 2024. https://doi.org/10.1007/978-3-031-64269-2_20.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

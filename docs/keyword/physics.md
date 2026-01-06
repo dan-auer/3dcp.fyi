@@ -8,7 +8,7 @@ search:
 
 # #physics
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
   <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>

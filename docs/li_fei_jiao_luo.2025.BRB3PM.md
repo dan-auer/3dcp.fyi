@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Leo Li, Zuojie Fei, Chujie Jiao, Tao Luo, Lewei He, Tongjing Zheng
+    - footer
+title: Li Leo, Fei Zuojie, Jiao Chujie, Luo Tao, He Lewei, Zheng Tongjing
 description:
 tags:
  - approach
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bauxite Residue-Based 3D Printing Mortar:<br/>:aca-blank: Enhancing Performance and Sustainability Through the Paste Replacement Approach ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143340" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143340</a>
+#Bauxite Residue-Based 3D Printing Mortar&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Enhancing Performance and Sustainability Through the Paste Replacement Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143340" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143340" target="_blank">10.1016/j.conbuildmat.2025.143340</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_gu_leo"><b>Li</b>&nbsp;Leo</a></span>, <a href="../../../author/fei_zuojie"><b>Fei</b>&nbsp;Zuojie</a></span>, <a href="../../../author/jiao_chujie"><b>Jiao</b>&nbsp;Chujie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7905-5973" title="ORCID: 0000-0002-7905-5973" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luo_tao"><b>Luo</b>&nbsp;Tao</a></span>, <a href="../../../author/he_lewei"><b>He</b>&nbsp;Lewei</a></span>, <a href="../../../author/zheng_tongjing"><b>Zheng</b>&nbsp;Tongjing</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 494, No. 143340
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> <a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>
-,     <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>
-,     <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> <a href="https://orcid.org/0000-0002-7905-5973" title="ORCID: 0000-0002-7905-5973" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_lewei"><b>He</b> Lewei</a>
-,     <a href="../../../author/zheng_tongjing"><b>Zheng</b> Tongjing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 494, No. 143340
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#base`](keyword/base)
-    [`#enhancement`](keyword/enhancement)
-    [`#mortar`](keyword/mortar)
-    [`#paste`](keyword/paste)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#replacement`](keyword/replacement)
-    [`#residual`](keyword/residual)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/residual"><button class="btn">#residual</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bauxite%20Residue-Based%203D%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015524135&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7081959140" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143340" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143340?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Produced in massive quantities across the world, bauxite residue (BR) is an underutilized solid waste with serious environmental implications. Aiming for more efficient BR utilization, this study introduces a paste replacement approach into 3D printing mortar for the first time. In this approach, BR replaces part of the paste (water + cement) without changing the water-to-cement ratio, and a water reducer is used to regulate the mixture’s workability. The results indicate that BR-based mortars achieve optimal printability metrics based on this approach. Concurrently, the use of BR as a paste replacement demonstrates multifaceted enhancements, including strength improvement (up to 16.8 %), refined packing density, optimized microstructure, and accelerated hydration kinetics, while achieving significant reductions in cement consumption (maximum 10.0 %) and carbon emissions (peak reduction 9.6 %). Mechanistically, these benefits originate from the synergistic interplay between lowered equivalent water-to-cement ratio, enhanced packing density, and precise water reducer dosage control. Furthermore, the cementing efficiency factor of BR was determined to be 0.739, and a high-precision model for compressive strength was formulated. Finally, the proposed eco-efficiency indices (strength-cement ratio, strength-carbon ratio and strength-cost ratio) collectively validate that the paste replacement strategy provides a scalable technical pathway for productive utilization of industrial solid wastes and development of environmentally-friendly, economical construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/zheng_dapeng"><b>Zheng</b> Dapeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cao_yu_zhen_cui.2022.NPtEtIBSi3PC/">Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete</a></li>
@@ -89,7 +64,6 @@ tags:
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/li_g_l"><b>Li</b> L.</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/chu_h_s"><b>Chu</b> S.</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS/">Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica</a></li>
-      <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/cheng_cong-mi"><b>Cheng</b> Cong-Mi</a>, <a href="../../../author/xie_hui-zhu"><b>Xie</b> Hui-Zhu</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../li_xiao_chen_xie.2023.AGFt3PM/">Adding Glass-Fibers to 3D Printable Mortar:<br/>Effects on Printability and Material-Anisotropy</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/xiong_z"><b>Xiong</b> Z.</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../li_xiao_fang_xion.2021.FoGBFRSCSMf3P/">Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../li_zhan.2024.FoU3P/">Feasibility of Underwater 3D Printing:<br/>Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar</a></li>
@@ -119,8 +93,37 @@ tags:
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a>, <a href="../../../author/hama_yukio"><b>Hama</b> Yukio</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhou_gou_zhan_hama.2024.IoABTfAi3PCvaMAaAM/">Investigation of Activated Bauxite-Tailings for Application in 3D Printed Concrete via a Modified Anderson and Anderson-Model</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_fei_jiao_luo.2025.BRB3PM,
+      author            = "Leo Gu Li and Zuojie Fei and Chujie Jiao and Tao Luo and Lewei He and Tongjing Zheng",
+      title             = "Bauxite Residue-Based 3D Printing Mortar: Enhancing Performance and Sustainability Through the Paste Replacement Approach",
+      doi               = "10.1016/j.conbuildmat.2025.143340",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "494",
+      pages             = "143340",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. G. Li, Z. Fei, C. Jiao, T. Luo, L. He and T. Zheng, “Bauxite Residue-Based 3D Printing Mortar: Enhancing Performance and Sustainability Through the Paste Replacement Approach”, <i>Construction and Building Materials</i>, vol. 494, p. 143340, 2025, doi: 10.1016/j.conbuildmat.2025.143340.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Leo Gu, Zuojie Fei, Chujie Jiao, Tao Luo, Lewei He, and Tongjing Zheng. “Bauxite Residue-Based 3D Printing Mortar: Enhancing Performance and Sustainability Through the Paste Replacement Approach”. <i>Construction and Building Materials</i> 494 (2025): 143340. https://doi.org/10.1016/j.conbuildmat.2025.143340.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

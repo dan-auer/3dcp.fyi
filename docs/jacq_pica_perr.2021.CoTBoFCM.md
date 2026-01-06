@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yohan Jacquet, Vincent Picandet, Arnaud Perrot
+    - footer
+title: Jacquet Yohan, Picandet Vincent, Perrot Arnaud
 description:
 tags:
  - behavior
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Characterization of Tensile Behavior of Fresh Cementitious Materials ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733125" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733125</a>
+#Characterization of Tensile Behavior of Fresh Cementitious Materials ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733125" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733125" target="_blank">10.14359/51733125</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1898-8486" title="ORCID: 0000-0003-1898-8486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/picandet_vincent"><b>Picandet</b>&nbsp;Vincent</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 217-226
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="https://orcid.org/0000-0003-1898-8486" title="ORCID: 0000-0003-1898-8486" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 217-226
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Tensile%20Behavior%20of%20Fresh%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121663997&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3207160355" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733125" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733125?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The mixture design of cement-based materials for casting and three-dimensional (3D) printing processes are very different because of their workability requirements. For 3D printing, a compromise has to be found between pumpability and printability to build a structure able to resist its own weight. Specific admixtures can be used to guarantee specific properties and avoid printing defects. This study is part of an ongoing work about the characterization of the tensile behavior of fresh cementitious materials governing deposit-induced cracks during the printing process. During printing, the material layer can be bent, in a sharp corner of a printed structure or during gravity-driven deposition, inducing tensile cracks in part of the outgoing extruded section. This paper presents a new device to test cementitious materials under tension to analyze visco-elastoplastic properties and damage mechanisms. Special attention is paid to the influence of viscosity-modifying admixtures on tensile behavior to improve material printability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duco_carn_mesn_demo.2020.TST/">The Slug-Test:<br/>In-Line-Assessment of Yield-Stress for Extrusion-Based Additive Manufacturing</a></li>
@@ -82,11 +63,42 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../duco_bono_kach_jacq.2025.FLtP/">From Laboratory to Practice</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq.2025.3CPbEaFD/">3D Concrete Printing by Extrusion and Filament-Deposition</a></li>
       <li><a href="../../../author/li_ben"><b>Li</b> Ben</a>, <a href="../../../author/li_kaihang"><b>Li</b> Kaihang</a>, <a href="../../../author/lyu_xuetao"><b>Lyu</b> Xuetao</a>, <a href="../../../author/zhao_canhao"><b>Zhao</b> Canhao</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_li_lyu_zhao.2024.MMaPCoMPoBFM3PCBM/">Microscopic Mechanism and Predicting Calculation on Mechanical Properties of Basalt-Fiber-Modified 3D Printing Cement-Based Materials</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vare_barl_perr.2023.EaSBUo3PCPwFANCaV/">Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jacq_pica_perr.2021.CoTBoFCM,
+      author            = "Yohan Jacquet and Vincent Picandet and Arnaud Perrot",
+      title             = "Characterization of Tensile Behavior of Fresh Cementitious Materials",
+      doi               = "10.14359/51733125",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "217--226",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jacquet, V. Picandet and A. Perrot, “Characterization of Tensile Behavior of Fresh Cementitious Materials”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 217–226, 2021, doi: 10.14359/51733125.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jacquet, Yohan, Vincent Picandet, and Arnaud Perrot. “Characterization of Tensile Behavior of Fresh Cementitious Materials”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 217–26. https://doi.org/10.14359/51733125.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jie Yu, Fengming Xu, Hanghua Zhang, Junhong Ye, Jiangtao Yu, Jian-Guo Dai, Yiwei Weng
+    - footer
+title: Yu Jie, Xu Fengming, Zhang Hanghua, Ye Junhong, Yu Jiangtao, Dai Jian-Guo, Weng Yiwei
 description:
 tags:
  - age
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Leveraging Incinerator Bottom Ash for Mitigating Early-Age Shrinkage in 3D Printed Engineered Cementitious Composites ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.105933" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.105933</a>
+#Leveraging Incinerator Bottom Ash for Mitigating Early-Age Shrinkage in 3D Printed Engineered Cementitious Composites ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.105933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.105933" target="_blank">10.1016/j.cemconcomp.2025.105933</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jie"><b>Yu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-0591" title="ORCID: 0000-0002-8678-0591" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_fengming"><b>Xu</b>&nbsp;Fengming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7224-4555" title="ORCID: 0000-0001-7224-4555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hanghua"><b>Zhang</b>&nbsp;Hanghua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9904-7914" title="ORCID: 0000-0001-9904-7914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_jian-guo"><b>Dai</b>&nbsp;Jian-Guo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 157, No. 105933
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> <a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a> <a href="https://orcid.org/0000-0002-8678-0591" title="ORCID: 0000-0002-8678-0591" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a> <a href="https://orcid.org/0000-0001-7224-4555" title="ORCID: 0000-0001-7224-4555" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>
-,     <a href="../../../author/dai_jian-guo"><b>Dai</b> Jian-Guo</a> <a href="https://orcid.org/0000-0001-9904-7914" title="ORCID: 0000-0001-9904-7914" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 157, No. 105933
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#ash`](keyword/ash)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#early`](keyword/early)
-    [`#engineered`](keyword/engineered)
-    [`#lever`](keyword/lever)
-    [`#mitigation`](keyword/mitigation)
-    [`#print`](keyword/print)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Leveraging%20Incinerator%20Bottom%20Ash%20for%20Mitigating%20Early-Age%20Shrinkage%20in%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214587178&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406316034" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.105933" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.105933?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the use of incinerator bottom ash (IBA) as a supplementary cementitious material to mitigate early age shrinkage in 3D printed engineered cementitious composites (3DP-ECC). IBA was processed through milling and thermal treatment before incorporation into 3DP-ECC. The fresh and hardened properties, hydration kinetics and products, early age shrinkage, and microstructural characteristics of 3DP-ECC with IBA were evaluated. Results indicate that pre-treated IBA reduces autogenous shrinkage and plastic shrinkage by 56 % and 30 %, respectively. The substitution of IBA increases the volume fraction of macropores (>1000 nm) of 3DP-ECC at 3 days and 7 days by approximately 300 % and 500 %, respectively, alleviating early age shrinkage. Sustainability analysis reveals that the incorporation of IBA can reduce the normalized embodied energy and carbon footprint of 3DP-ECC by over 17 %. These findings provide a promising approach to utilizing waste materials in mitigating early age shrinkage in 3DP-ECC towards sustainable digital construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../moel_krug_comb.2022.MEACi3PCUFSPSRABCCaCM/">Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures</a></li>
@@ -94,8 +67,8 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
@@ -103,4 +76,34 @@ tags:
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yu_xu_zhan_ye.2025.LIBAfMEASi3PECC,
+      author            = "Jie Yu and Fengming Xu and Hanghua Zhang and Junhong Ye and Jiangtao Yu and Jian-Guo Dai and Yiwei Weng",
+      title             = "Leveraging Incinerator Bottom Ash for Mitigating Early-Age Shrinkage in 3D Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2025.105933",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "157",
+      pages             = "105933",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Yu, “Leveraging Incinerator Bottom Ash for Mitigating Early-Age Shrinkage in 3D Printed Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, vol. 157, p. 105933, 2025, doi: 10.1016/j.cemconcomp.2025.105933.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yu, Jie, Fengming Xu, Hanghua Zhang, Junhong Ye, Jiangtao Yu, Jian-Guo Dai, and Yiwei Weng. “Leveraging Incinerator Bottom Ash for Mitigating Early-Age Shrinkage in 3D Printed Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i> 157 (2025): 105933. https://doi.org/10.1016/j.cemconcomp.2025.105933.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

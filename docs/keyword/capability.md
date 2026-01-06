@@ -8,7 +8,7 @@ search:
 
 # #capability
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
   <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a>, <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zaha_pere_pere_cunh.2025.SHAoFRCMDf3CP/">Self-Healing Assessment of Fiber Reinforced Cementitious Mortars Developed for 3D Concrete Printing:<br/>Recovery of Mechanical Performance and Self-Sealing Capability</a></li>
   <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>

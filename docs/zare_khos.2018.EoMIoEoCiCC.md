@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Babak Zareiyan, Behrokh Khoshnevis
+    - footer
+title: Zareiyan Babak, Khoshnevis Behrokh
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting ([2018-05](date/2018/05))
-<a href="https://doi.org/10.1108/rpj-01-2017-0006" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/rpj-01-2017-0006</a>
+#Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting ([2018-05](date/2018/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-01-2017-0006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-01-2017-0006" target="_blank">10.1108/rpj-01-2017-0006</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zareiyan_babak"><b>Zareiyan</b>&nbsp;Babak</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
+Journal Article - Rapid Prototyping Journal, Vol. 24, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a> <a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Rapid Prototyping Journal, Vol. 24, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#mixture`](keyword/mixture)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Mixture%20Ingredients%20on%20Extrudability%20of%20Concrete%20in%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85027507434&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2797257810" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/rpj-01-2017-0006" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/rpj-01-2017-0006?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the extrudability (flow-ability and shape-stability) of concrete mixtures with the Contour Crafting (CC) Automated Construction process. Several experiments have been performed for flow-ability and shape-stability of concrete mixtures. Experimental results were compared to understand significant factors and their interactions. After developing the empirical model for flow-ability the model was validated. The experimental investigation of varied combination of concrete components developed a mixture within constrains of the CC nozzle and improved the quality of the extruded part. Several experimental samples were fabricated using CC and the derived empirical model was validated after more than 700 h of work.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -69,10 +51,9 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
-      <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../zare_khos.2018.EoMIoEoCiCC/">Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhou_yuecheng"><b>Zhou</b> Yuecheng</a>, <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>, <a href="../../../author/li_haonian"><b>Li</b> Haonian</a>, <a href="../../../author/wang_chong"><b>Wang</b> Chong</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhou_xiao_li_wang.2025.SotRPaPoMSMMMf3P/">Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing</a></li>
       <li><a href="../../../author/panchal_priyanka"><b>Panchal</b> Priyanka</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../panc_choi.2025.ARoEoNFtMCFaEEPo3PC/">A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete</a></li>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>Bakri Abdullah</b> Mohd</a>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tany_selo_bakr_raza.2025.TRaMPo3PG/">The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>A Review</a></li>
@@ -95,7 +76,35 @@ tags:
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../moei_hoss_yahi.2020.EotRMtEtBUoCMUf3P/">Effectiveness of the Rheometric Methods to Evaluate the Build-Up of Cementitious Mortars Used for 3D Printing</a></li>
       <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lao_li_wong_tan.2020.ISFQiEB3CPUMLBEGC/">Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control</a></li>
       <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../lim_weng_pham.2020.3PoCCSUAMF/">3D Printing of Curved Concrete Surfaces Using Adaptable Membrane Formwork</a></li>
-      <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../zare_khos.2018.EoMIoEoCiCC/">Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting</a></li>
-      <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zare_khos.2018.EoMIoEoCiCC,
+      author            = "Babak Zareiyan and Behrokh Khoshnevis",
+      title             = "Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting",
+      doi               = "10.1108/rpj-01-2017-0006",
+      year              = "2018",
+      journal           = "Rapid Prototyping Journal",
+      volume            = "24",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zareiyan  and B. Khoshnevis, “Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting”, <i>Rapid Prototyping Journal</i>, vol. 24, no. 4, 2018, doi: 10.1108/rpj-01-2017-0006.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zareiyan, Babak, and Behrokh Khoshnevis. “Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting”. <i>Rapid Prototyping Journal</i> 24, no. 4 (2018). https://doi.org/10.1108/rpj-01-2017-0006.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

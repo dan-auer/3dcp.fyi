@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Aravindhraj Mani, Muthu Sekar
+    - footer
+title: Mani Aravindhraj, Sekar Muthu
 description:
 tags:
  - evaluation
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1080/10589759.2025.2543976" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/10589759.2025.2543976</a>
+#NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10589759.2025.2543976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10589759.2025.2543976" target="_blank">10.1080/10589759.2025.2543976</a>
 
--------------------------
+<a href="../../../author/mani_aravindhraj"><b>Mani</b>&nbsp;Aravindhraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8808-7208" title="ORCID: 0000-0001-8808-7208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sekar_kumar_muthu"><b>Sekar</b>&nbsp;Muthu</a></span><br>
+Journal Article - Nondestructive Testing and Evaluation, pp. 1-34
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>
-,     <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="https://orcid.org/0000-0001-8808-7208" title="ORCID: 0000-0001-8808-7208" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Nondestructive Testing and Evaluation, pp. 1-34
-
-:aca-blank:{ .lg .middle}
-    [`#evaluation`](keyword/evaluation)
-    [`#fiber`](keyword/fiber)
-    [`#green`](keyword/green)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixing`](keyword/mixing)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=NDT%20Techniques%20for%20Evaluating%20Mechanical%20Properties%20in%20Green%20and%20Fiber-Reinforced%203D%20Printable%20Mixes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012611601&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413041922" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/10589759.2025.2543976" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/10589759.2025.2543976?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Non-Destructive Testing (NDT) techniques play a vital role in assessing the structural integrity and durability of 3D-printed concrete, allowing damage-free evaluation and ensuring compliance with industry standards. The inherent porosity in 3D-printed concrete, resulting from its layer-by-layer deposition, presents challenges to long-term performance. This research examines the combined effects of ground granulated blast furnace slag, Alccofine 1203, and polypropylene fibres in reducing porosity and improving structural properties. The mercury intrusion porosimetry test indicates a 19.07% reduction in porosity for the fibre-reinforced printed elements, while their internal structure is 28.75% more tortuous than that of unreinforced printed elements. NDT methods, including ultrasonic pulse velocity, rebound hammer, and water absorption tests, along with destructive rapid chloride penetration tests, offer both qualitative and quantitative insights into the performance of the printed elements. Experimental results show that the M8 mix exhibited a reduction in charge passed compared to the M4 mix by 5.29% in the X direction, 4.67% in the Y direction, and 2.41% in the Z direction, indicating improved chloride ion resistance across all orientations. UPV results closely match compressive strength trends, with R² values of 0.96 (without fibre) and 0.98 (with fibre). Mix M8 (G20A8F0.2) exhibited superior mechanical and durability performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -97,7 +76,36 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mani_seka.2025.NTfEMPiGaFR3PM,
+      author            = "Aravindhraj Mani and Muthu Kumar Sekar",
+      title             = "NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes",
+      doi               = "10.1080/10589759.2025.2543976",
+      year              = "2025",
+      journal           = "Nondestructive Testing and Evaluation",
+      pages             = "1--34",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mani  and M. K. Sekar, “NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes”, <i>Nondestructive Testing and Evaluation</i>, pp. 1–34, 2025, doi: 10.1080/10589759.2025.2543976.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mani, Aravindhraj, and Muthu Kumar Sekar. “NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes”. <i>Nondestructive Testing and Evaluation</i>, 2025, 1–34. https://doi.org/10.1080/10589759.2025.2543976.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

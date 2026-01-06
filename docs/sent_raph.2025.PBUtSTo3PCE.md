@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shanmugaraj Senthilnathan, Benny Raphael
+    - footer
+title: Senthilnathan Shanmugaraj, Raphael Benny
 description:
 tags:
  - buildability
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1061/jaeied.aeeng-1936" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jaeied.aeeng-1936</a>
+#Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeied.aeeng-1936" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-1936" target="_blank">10.1061/jaeied.aeeng-1936</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5725-0698" title="ORCID: 0000-0002-5725-0698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b>&nbsp;Shanmugaraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raphael_benny"><b>Raphael</b>&nbsp;Benny</a></span><br>
+Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a> <a href="https://orcid.org/0000-0002-5725-0698" title="ORCID: 0000-0002-5725-0698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#surface`](keyword/surface)
-    [`#texture`](keyword/texture)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/texture"><button class="btn">#texture</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Predicting%20Buildability%20Using%20the%20Surface%20Texture%20of%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217664218&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407148240" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jaeied.aeeng-1936" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jaeied.aeeng-1936?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The buildability of three-dimensional (3D) printable concrete is commonly measured by the number of layers that can be printed before a collapse or excessive deformations. Buildability depends on rheological properties and their dynamic changes over time due to hydration and evaporation. These variations influence strength development and lead to dimensional changes in individual layers, potentially resulting in failures such as plastic or buckling collapse. Despite the importance of dimensional changes, no studies have monitored these variations in real time to predict buildability failure. In this study, dimensional changes are indirectly assessed by tracking surface texture changes using two-dimensional (2D) cameras and computer vision techniques. Entropy standard deviation (ESD) is introduced as a metric to quantify temporal textural changes and assess buildability collapse. Results indicate that significant variations in surface texture values of individual layers are observed in collapsed elements, allowing for failure prediction before the collapse. The limiting ESD value for a concrete mix can be identified by carrying out a set of experimental prints. This value could be used for the early prediction of buildability collapse. Experimental data show that buildability collapse can be predicted with 100% accuracy by monitoring the maximum ESD values of all the printed layers. Based on this concept, a methodology has been developed for real-time, nonintrusive buildability assessment of 3D printed elements, offering the potential for feedback control systems to enhance quality, reduce material wastage, and improve the sustainability of concrete 3D printing technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/maitenaz_sebastien"><b>Maitenaz</b> Sébastien</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arch_mait_demo_char.2021.StSoaHMSaGCSbAM/">Strategy to Shape, on a Half-Meter Scale, a Geopolymer Composite Structure by Additive Manufacturing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -96,9 +77,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
       <li><a href="../../../author/bettermann_luca"><b>Bettermann</b> Luca</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/esser_sebastian"><b>Esser</b> Sebastian</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bett_slep_esse_borr.2025.DDPCiAMfC/">Data-Driven Parameter Calibration in Additive Manufacturing for Construction:<br/>An Introduction to Learning by Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sent_raph.2025.PBUtSTo3PCE,
+      author            = "Shanmugaraj Senthilnathan and Benny Raphael",
+      title             = "Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements",
+      doi               = "10.1061/jaeied.aeeng-1936",
+      year              = "2025",
+      journal           = "Journal of Architectural Engineering",
+      volume            = "31",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Senthilnathan  and B. Raphael, “Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements”, <i>Journal of Architectural Engineering</i>, vol. 31, no. 2, 2025, doi: 10.1061/jaeied.aeeng-1936.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Senthilnathan, Shanmugaraj, and Benny Raphael. “Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements”. <i>Journal of Architectural Engineering</i> 31, no. 2 (2025). https://doi.org/10.1061/jaeied.aeeng-1936.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

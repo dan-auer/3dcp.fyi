@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rafael Robayo-Salazar, Ruby Gutiérrez, Mónica Villaquirán-Caicedo, Silvio Delvasto Arjona
+    - footer
+title: Robayo-Salazar Rafael, Gutiérrez Ruby, Villaquirán-Caicedo Mónica, Delvasto Arjona Silvio
 description:
 tags:
  - cement
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing with Cementitious Materials:<br/>:aca-blank: Challenges and Opportunities for the Construction Sector ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.autcon.2022.104693" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2022.104693</a>
+#3D Printing with Cementitious Materials&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">Challenges and Opportunities for the Construction Sector</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104693" target="_blank">10.1016/j.autcon.2022.104693</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gutierrez_mejia_ruby"><b>de&nbsp;Gutiérrez</b>&nbsp;Ruby</a></span>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b>&nbsp;Mónica</a></span>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b>&nbsp;Silvio</a></span><br>
+Journal Article - Automation in Construction, Vol. 146
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> <a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> <a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>
-,     <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 146, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#challenge`](keyword/challenge)
-    [`#construction`](keyword/construction)
-    [`#material`](keyword/material)
-    [`#opportunity`](keyword/opportunity)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143798505&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4310723178" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2022.104693" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2022.104693?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review article includes a description of additive manufacturing from its advantages and opportunities for the construction sector, highlighting the definition of a design methodology for cementitious material mixes suitable for 3D printing and the properties required of them. Included among the materials analyzed are conventional ones based on Ordinary Portland Cement (OPC) and non-conventional ones, with alkali-activated materials (geopolymers) to the fore. In United States, Europe and Asia this technology has interesting construction projects, however, in Latin America, 3D printing is still in the experimental phase, so it can be considered as a technology that is in the process of being adopted. The results obtained in the development and research phase in different countries such as Mexico, Brazil, Chile, Colombia, Guatemala, Peru, among others, are promising and it is projected as an industrial reality in the near future. This paper presents the main challenges and opportunities in implementing additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
@@ -111,8 +92,8 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "80 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ribe_rang_bran_figu.2026.INVT3CP/">Improving Natural Ventilation Through 3D Concrete Printing</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
@@ -194,4 +175,33 @@ tags:
       <li><a href="../../../author/shenawa_amaal"><b>Shenawa</b> Amaal</a>, <a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b> Poonam</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../shen_karo.2023.3PiCMCSaTPR/">3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review</a></li>
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/gorostiza-carabano_javier"><b>Gorostiza Carabaño</b> Javier</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../madr_orte_goro_olss.2023.3C/">3D Claying:<br/>3D Printing and Recycling Clay</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{roba_guti_vill_delv.2023.3PwCM,
+      author            = "Rafael Robayo-Salazar and Ruby Mejía de Gutiérrez and Mónica A. Villaquirán-Caicedo and Silvio Delvasto Arjona",
+      title             = "3D Printing with Cementitious Materials: Challenges and Opportunities for the Construction Sector",
+      doi               = "10.1016/j.autcon.2022.104693",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "146",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Robayo-Salazar, R. M. de Gutiérrez, M. A. Villaquirán-Caicedo and S. D. Arjona, “3D Printing with Cementitious Materials: Challenges and Opportunities for the Construction Sector”, <i>Automation in Construction</i>, vol. 146, 2023, doi: 10.1016/j.autcon.2022.104693.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Robayo-Salazar, Rafael, Ruby Mejía de Gutiérrez, Mónica A. Villaquirán-Caicedo, and Silvio Delvasto Arjona. “3D Printing with Cementitious Materials: Challenges and Opportunities for the Construction Sector”. <i>Automation in Construction</i> 146 (2023). https://doi.org/10.1016/j.autcon.2022.104693.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #emergent
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bawab_jad"><b>Bawab</b> Jad</a>, <a href="../../../author/dieb_amr"><b>Dieb</b> Amr</a>, <a href="../../../author/hassan_hilal"><b>Hassan</b> Hilal</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bawa_dieb_hass.2025.PIitDoCFCUEAf3P/">Preliminary Investigation into the Development of Cement-Free Composites Using Emerging Alternatives for 3D Printing</a></li>
   <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
   <li><a href="../../../author/gardan_julien"><b>Gardan</b> Julien</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a>, <a href="../../../author/attajer_ali"><b>Attajer</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../gard_hedj_atta.2025.AMiC/">Additive Manufacturing in Construction:<br/>State of the Art and Emerging Trends in Civil Engineering</a></li>

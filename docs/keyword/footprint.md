@@ -8,7 +8,8 @@ search:
 
 # #footprint
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/vega-coloma_mabel"><b>Vega-Coloma</b> Mabel</a>, <a href="../../../author/letelier_viviana"><b>Letelier</b> Viviana</a>, <a href="../../../author/marrero_madelyn"><b>Marrero</b> Madelyn</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../muno_vega_lete_marr.2026.EFo3PCURM/">Environmental Footprint of 3D-Printed Concrete Using Recycled Materials</a></li>
   <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
   <li><a href="../../../author/panchal_priyanka"><b>Panchal</b> Priyanka</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../panc_choi.2025.ARoEoNFtMCFaEEPo3PC/">A Review on Effect of Natural Fibers to Mitigate CO2 Footprint and Enhance Engineering Properties of 3D Printing Concrete</a></li>
   <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jin_caro_ouel.2024.MtCFo3PC/">Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Liu, Xinwei Zhang, Quan Jiang, Yong Xia, Dongqi Hou, Long Li
+    - footer
+title: Liu Qiang, Zhang Xinwei, Jiang Quan, Xia Yong, Hou Dongqi, Li Long
 description:
 tags:
  - base
@@ -14,32 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Nano-Al2O3, Nano-MgO and Nano-Fe2O3 on the Properties of Cement-Based 3D Printing:<br/>:aca-blank: A Comparative Study ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.jobe.2025.113322" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113322</a>
+#Effects of Nano-Al2O3, Nano-MgO and Nano-Fe2O3 on the Properties of Cement-Based 3D Printing&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Comparative Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113322" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113322" target="_blank">10.1016/j.jobe.2025.113322</a>
 
--------------------------
+<a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhang_xinwei"><b>Zhang</b>&nbsp;Xinwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/xia_yong"><b>Xia</b>&nbsp;Yong</a></span>, <a href="../../../author/hou_dongqi"><b>Hou</b>&nbsp;Dongqi</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-8518-3407" title="ORCID: 0009-0003-8518-3407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_long"><b>Li</b>&nbsp;Long</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113322
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>
-,     <a href="../../../author/zhang_xinwei"><b>Zhang</b> Xinwei</a>
-,     <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a> <a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>
-,     <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a>
-,     <a href="../../../author/li_long"><b>Li</b> Long</a> <a href="https://orcid.org/0009-0003-8518-3407" title="ORCID: 0009-0003-8518-3407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113322
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#comparision`](keyword/comparision)
-    [`#effect`](keyword/effect)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Nano-Al2O3%2C%20Nano-MgO%20and%20Nano-Fe2O3%20on%20the%20Properties%20of%20Cement-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009806396&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412053911" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113322" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113322?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nanomaterials provide a new way to control the properties of cement-based composites due to their unique microstructural effects and surface properties. Nano-Al2O3 (NA), Nano-MgO (NM) and Nano-Fe2O3 (NF) are commonly used to modify concrete composites. In this study, these three functional nanomaterials are selected to systematically study their effects on the fresh properties, printing properties and hardening properties of cement-based materials. The research shows that adding an appropriate amount of NA, NM, and NF nanomaterials can reduce the flowability, improve the printability and enhance the physical and mechanical properties of the printing material. Among them, the physical and mechanical properties of the printing mortar with 3∼4 wt% NA and 4 wt% NF are the best, but the compressive strength of the printed specimens with 2 wt% NM reach the highest values. The microscopic mechanism indicates that the 4 wt% NA sample has the fewest pores due to NA accelerating cement hydration. There are more harmful pores in 4 wt % NM specimens because NM exhibits expansive properties. NF can make the cement matrix relatively dense by refining the crystal size of Ca(OH)2 crystal. The research results can provide new ideas and methods for the nanomaterials modification of cement-based 3D printing materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
       <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../kaus_sone_amat_perr.2022.IoNCotFaRBo3PM/">Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/huang_mojia"><b>Huang</b> Mojia</a>, <a href="../../../author/xin_jie"><b>Xin</b> Jie</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_jian_huan_xin.2022.MEoAPDfCB3M/">Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials:<br/>Printability and Mechanical Performance Tests</a></li>
@@ -75,9 +54,38 @@ tags:
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../pott_step.2021.PTaaFMtDYSaSBUf3PoCM/">Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>, <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chun_liar_loot.2021.TEoNSotFaHPo3PM/">The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/sakolaree_natthanicha"><b>Sakolaree</b> Natthanicha</a>, <a href="../../../author/taweesint_jutamas"><b>Taweesint</b> Jutamas</a>, <a href="../../../author/sungsiri_krisana"><b>Sungsiri</b> Krisana</a>, <a href="../../../author/assawamankongcharoen_sirikamol"><b>Assawamankongcharoen</b> Sirikamol</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sako_tawe_sung_assa.2025.EoFaMPaSoHMCMf3PT/">Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_zhan_jian_xia.2025.EoNANMaNFotPoCB3P,
+      author            = "Qiang Liu and Xinwei Zhang and Quan Jiang and Yong Xia and Dongqi Hou and Long Li",
+      title             = "Effects of Nano-Al2O3, Nano-MgO and Nano-Fe2O3 on the Properties of Cement-Based 3D Printing: A Comparative Study",
+      doi               = "10.1016/j.jobe.2025.113322",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113322",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, X. Zhang, Q. Jiang, Y. Xia, D. Hou and L. Li, “Effects of Nano-Al2O3, Nano-MgO and Nano-Fe2O3 on the Properties of Cement-Based 3D Printing: A Comparative Study”, <i>Journal of Building Engineering</i>, p. 113322, 2025, doi: 10.1016/j.jobe.2025.113322.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiang, Xinwei Zhang, Quan Jiang, Yong Xia, Dongqi Hou, and Long Li. “Effects of Nano-Al2O3, Nano-MgO and Nano-Fe2O3 on the Properties of Cement-Based 3D Printing: A Comparative Study”. <i>Journal of Building Engineering</i>, 2025, 113322. https://doi.org/10.1016/j.jobe.2025.113322.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

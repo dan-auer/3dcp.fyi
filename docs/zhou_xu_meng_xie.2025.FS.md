@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wen Zhou, Yading Xu, Zhaozheng Meng, Jinbao Xie, Yubao Zhou, Erik Schlangen, Branko Šavija
+    - footer
+title: Zhou Wen, Xu Yading, Meng Zhaozheng, Xie Jinbao, Zhou Yubao, Schlangen Erik, Šavija Branko
 description:
 tags:
  - anisotropy
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Filament Stitching:<br/>:aca-blank: An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106044" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106044</a>
+#Filament Stitching&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106044" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106044" target="_blank">10.1016/j.cemconcomp.2025.106044</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_wen"><b>Zhou</b>&nbsp;Wen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5768-6408" title="ORCID: 0000-0002-5768-6408" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meng_zhaozheng"><b>Meng</b>&nbsp;Zhaozheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0357-2333" title="ORCID: 0000-0002-0357-2333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_jinbao"><b>Xie</b>&nbsp;Jinbao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2714-3848" title="ORCID: 0000-0003-2714-3848" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_yubao"><b>Zhou</b>&nbsp;Yubao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 160, No. 106044
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_yading"><b>Xu</b> Yading</a> <a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a> <a href="https://orcid.org/0000-0002-5768-6408" title="ORCID: 0000-0002-5768-6408" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> <a href="https://orcid.org/0000-0002-0357-2333" title="ORCID: 0000-0002-0357-2333" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_yubao"><b>Zhou</b> Yubao</a> <a href="https://orcid.org/0000-0003-2714-3848" title="ORCID: 0000-0003-2714-3848" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 160, No. 106044
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#architecture`](keyword/architecture)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#filament`](keyword/filament)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Filament%20Stitching" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000213177&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408561411" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106044" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106044?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Anisotropy in 3D-printed concrete structures has persistently raised concerns regarding structural integrity and safety. In this study, an architected 3D printing strategy, “stitching”, was proposed to mitigate anisotropy in 3D-printed Engineered Cementitious Composites (ECC). This approach integrates the direction-dependent tensile resistance of extruded ECC, the mechanical interlocking between three-dimensional layers, and a deliberately engineered interwoven interface system. As a result, the out-of-plane direction of the printed structure can be self-reinforced without external reinforcements. Four-point bending tests demonstrated that the “stitching” pattern induced multi-cracking and flexural-hardening behavior in the out-of-plane direction, boosting its energy dissipation to 343 % of the reference “parallel” printing and achieving 48.6 % of cast ECC. Additionally, micro-CT scanning and acoustic emission tests further validated the controlled crack propagation enabled by the engineered interface architecture. The proposed strategy has been proven to substantially alleviate anisotropy and enhance structural integrity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "65 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
@@ -136,8 +112,9 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -145,4 +122,34 @@ tags:
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_xu_meng_xie.2025.FS,
+      author            = "Wen Zhou and Yading Xu and Zhaozheng Meng and Jinbao Xie and Yubao Zhou and Erik Schlangen and Branko Šavija",
+      title             = "Filament Stitching: An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.cemconcomp.2025.106044",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "160",
+      pages             = "106044",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zhou, “Filament Stitching: An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites”, <i>Cement and Concrete Composites</i>, vol. 160, p. 106044, 2025, doi: 10.1016/j.cemconcomp.2025.106044.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Wen, Yading Xu, Zhaozheng Meng, Jinbao Xie, Yubao Zhou, Erik Schlangen, and Branko Šavija. “Filament Stitching: An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites”. <i>Cement and Concrete Composites</i> 160 (2025): 106044. https://doi.org/10.1016/j.cemconcomp.2025.106044.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

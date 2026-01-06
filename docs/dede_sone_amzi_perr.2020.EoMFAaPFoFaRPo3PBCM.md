@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marie Dedenis, Mohammed Sonebi, Sofiane Amziane, Arnaud Perrot, Giuseppina Amato
+    - footer
+title: Dedenis Marie, Sonebi Mohammed, Amziane Sofiane, Perrot Arnaud, Amato Giuseppina
 description:
 tags:
  - ash
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Metakaolin, Fly-Ash and Polypropylene-Fibers on Fresh and Rheological Properties of 3D Printing Based Cement Materials ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_21</a>
+#Effect of Metakaolin, Fly-Ash and Polypropylene-Fibers on Fresh and Rheological Properties of 3D Printing Based Cement Materials ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_21" target="_blank">10.1007/978-3-030-49916-7_21</a>
 
--------------------------
+<a href="../../../author/dedenis_marie"><b>Dedenis</b>&nbsp;Marie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amziane_sofiane"><b>Amziane</b>&nbsp;Sofiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amato_giuseppina"><b>Amato</b>&nbsp;Giuseppina</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 206-215
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a> <a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 206-215
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Metakaolin%2C%20Fly-Ash%20and%20Polypropylene-Fibers%20on%20Fresh%20and%20Rheological%20Properties%20of%203D%20Printing%20Based%20Cement%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088240995&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,23 +40,19 @@ tags:
 <a href="https://inciteful.xyz/p/W3041999997" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_21" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_21?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this paper is to investigate the effect of mix composition such as the percentages of metakaolin (MTK) and fly ash (FA) on the fresh and rheological properties and also the percentage of polypropylene fibres. Several tests were used to determine the rheological properties such as the flow table test, the cylindrical slump test and penetrometer test. The estimated yield stress values were then calculated from the results of cylindrical slump test and the fresh density of mortar. The extrusion of layers for 3D printing was carried out using a controlled air pressure gun. This tool made it possible to test the extrusion of each mortar mix directly after mixing by producing several layers on top of each other. The use of MTK had a significant effect on the fresh and rheological proprieties. It was observed that replacing cement with MTK led more cohesive and dry mixes and therefore difficult to extrude. Using a combination of FA and MTK has increased the yield stress, cohesion, reduced the penetration and improved the shape stability and printability. It also reduced bleeding and segregation. Finally, adding more polypropylene fibres reduced the workability by improving the cohesion with a denser fibre network and reduced the penetration. Thus led to an increase in the yield stress and a reduction of the fresh properties. Good relations were observed between the fresh and rheological properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_amzi.2019.3PiC/">3D Printing in Concrete:<br/>General Considerations and Technologies</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.EtRoMiBaTB3PM/">Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars:<br/>Deep Insights into Printability</a></li>
       <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zafa_bakh_hoja.2023.PaSFEoSRECC/">Printability and Shape Fidelity Evaluation of Self-Reinforced Engineered Cementitious Composites</a></li>
@@ -91,4 +66,35 @@ tags:
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../pott_step.2021.PTaaFMtDYSaSBUf3PoCM/">Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials</a></li>
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{dede_sone_amzi_perr.2020.EoMFAaPFoFaRPo3PBCM,
+      author            = "Marie Dedenis and Mohammed Sonebi and Sofiane Amziane and Arnaud Perrot and Giuseppina Amato",
+      title             = "Effect of Metakaolin, Fly-Ash and Polypropylene-Fibers on Fresh and Rheological Properties of 3D Printing Based Cement Materials",
+      doi               = "10.1007/978-3-030-49916-7_21",
+      year              = "2020",
+      volume            = "28",
+      pages             = "206--215",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Dedenis, M. Sonebi, S. Amziane, A. Perrot and G. Amato, “Effect of Metakaolin, Fly-Ash and Polypropylene-Fibers on Fresh and Rheological Properties of 3D Printing Based Cement Materials”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 206–215. doi: 10.1007/978-3-030-49916-7_21.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dedenis, Marie, Mohammed Sonebi, Sofiane Amziane, Arnaud Perrot, and Giuseppina Amato. “Effect of Metakaolin, Fly-Ash and Polypropylene-Fibers on Fresh and Rheological Properties of 3D Printing Based Cement Materials”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:206–15, 2020. https://doi.org/10.1007/978-3-030-49916-7_21.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

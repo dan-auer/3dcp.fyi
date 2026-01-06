@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Reza Sedghi, Muhammad Zafar, Maryam Hojati
+    - footer
+title: Sedghi Reza, Zafar Muhammad, Hojati Maryam
 description:
 tags:
  - cement
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/15/19/14425/pdf?version=1696156749) Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures ([2023-10](date/2023/10))
-<a href="https://doi.org/10.3390/su151914425" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su151914425</a>
+#Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures ([2023-10](date/2023/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/15/19/14425/pdf?version=1696156749) <a href="https://doi.org/10.3390/su151914425" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su151914425" target="_blank">10.3390/su151914425</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sedghi_reza"><b>Sedghi</b>&nbsp;Reza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Journal Article - Sustainability, Vol. 15, Iss. 19, No. 14425
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a> <a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> <a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 15, Iss. 19, No. 14425
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#exploration`](keyword/exploration)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#light`](keyword/light)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Fresh%20and%20Hardened%20Properties%20of%20Sustainable%203D%20Printed%20Lightweight%20Cementitious%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174214203&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387234826" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su151914425" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su151914425?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates using lightweight concrete in 3D printing to reduce transportation costs and maintain structural strength. Normal-weight river (RS) sand was replaced with pumice and expanded glass at 50% and 100% volumes to decrease the material density. This substitution reduced the weight of various mixes up to 25.1%, with apparent porosity ranging from 11.37% to 27.9%. This study found that aggregate characteristics, including the shape, size, and absorption capacity, influenced printability. Rounded aggregates like expanded glass flowed better and required less water than irregular pumice. Lightweight aggregates had finer textures and higher porosity, needing more water. According to the extrudability results, the best print quality was achieved using 100% expanded glass, incorporating methylcellulose (MC) and polyethylene (PE) fibers. Moreover, the buildability outcomes highlighted a reliance on the printing speed and the water-to-binder (W/B) ratio. Comparing cast and 3D printed specimens, cast concrete reached a maximum compressive strength of 65.6 MPa, while 3D printed concrete achieved a maximum strength of 43.4 MPa. RS had the highest strength (65.6 MPa), while expanded glass showed the lowest (17.5 MPa) in both cast and 3D printed specimens. Adding PE and MC enhanced the print quality and increased the compressive strength due to the fibers’ bridging capacity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bakh_sedg_hoja.2021.APSotMDo3PECC/">A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
@@ -112,8 +90,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
       <li><a href="../../../author/zafar_tayyab"><b>Zafar</b> Tayyab</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_zafa_hoja.2025.Et3PoECCwICfRCiAR/">Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mim_shai_sark.2025.S3PCIAFA/">Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>A Review</a></li>
@@ -125,4 +103,35 @@ tags:
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cuev_chun_siko_step.2024.PoNWaL3PCCwRG/">Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass:<br/>Sorption and Microstructural Perspective</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sedg_zafa_hoja.2023.EFaHPoS3PLCM,
+      author            = "Reza Sedghi and Muhammad Saeed Zafar and Maryam Hojati",
+      title             = "Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures",
+      doi               = "10.3390/su151914425",
+      year              = "2023",
+      journal           = "Sustainability",
+      volume            = "15",
+      number            = "19",
+      pages             = "14425",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Sedghi, M. S. Zafar and M. Hojati, “Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures”, <i>Sustainability</i>, vol. 15, no. 19, p. 14425, 2023, doi: 10.3390/su151914425.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sedghi, Reza, Muhammad Saeed Zafar, and Maryam Hojati. “Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures”. <i>Sustainability</i> 15, no. 19 (2023): 14425. https://doi.org/10.3390/su151914425.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

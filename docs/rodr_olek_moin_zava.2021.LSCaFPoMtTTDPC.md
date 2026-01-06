@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fabian Rodriguez, Jan Olek, Mohamadreza Moini, Pablo Zavattieri, Jeffrey Youngblood
+    - footer
+title: Rodriguez Fabian, Olek Jan, Moini Mohamadreza, Zavattieri Pablo, Youngblood Jeffrey
 description:
 tags:
  - characteristic
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Linking Solids Content and Flow Properties of Mortars to Their Three-Dimensional Printing Characteristics ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733136" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733136</a>
+#Linking Solids Content and Flow Properties of Mortars to Their Three-Dimensional Printing Characteristics ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733136" target="_blank">10.14359/51733136</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b>&nbsp;Fabian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 371-382
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a> <a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 371-382
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#content`](keyword/content)
-    [`#dimension`](keyword/dimension)
-    [`#flow`](keyword/flow)
-    [`#link`](keyword/link)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#solid`](keyword/solid)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Linking%20Solids%20Content%20and%20Flow%20Properties%20of%20Mortars%20to%20Their%20Three-Dimensional%20Printing%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121662801&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3205449906" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733136" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733136?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Layer-by-layer additive manufacturing (AM) of cement-based elements requires an understanding of the fresh-state characteristics of the materials. The focus of this work was on linking the flow properties and solids content of mortars with their three-dimensional (3D) printing characteristics (printability, buildability, and dimensional stability of multilayer elements). In the initial stages of the study, the analysis of the combined effects of solids content and flow characteristics of mortars helped to identify the boundaries of a printable/buildable zone for the 3D-printing system with the 4.0 mm diameter nozzle used in the study. The mortars that were located inside the printable/buildable zone were subsequently used to 3D print multilayer prismatic elements. The quality of printed elements was assessed by quantifying their dimensional stability. Elements with vertical deformations lower than 5% were classified as high-quality type, whereas those with deformations between 5 and 10% were classified as good-quality type. The findings of the research indicate that to produce acceptable quality elements while using a 3D-printing system with a 4.0 mm diameter nozzle, the solids content of mortars should be in the range of 60 to 70% and their flow values should be in the range of 90 to 160%. These findings were further expanded upon by comparing them with literature-based information on the extent of the printable/buildable zone for mixtures with a wide range of solids contents that were 3D-printed with larger nozzles. Such information is important with respect to the ability to convert mortar mixtures used in the current study to concrete mixtures for use with larger-scale 3D-printing systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
@@ -100,8 +75,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/salifu_n"><b>Salifu</b> N.</a>, <a href="../../../author/bassuoni_t_mohamed"><b>Bassuoni</b> Mohamed</a>, <a href="../../../author/guven_gursans"><b>Guven</b> Gursans</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sali_bass_guve.2025.PEoLBCaCNi3CP/">Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing</a></li>
@@ -118,4 +93,35 @@ tags:
       <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM/">Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars</a></li>
       <li><a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a>, <a href="../../../author/evseeva_anastasiia"><b>Evseeva</b> Anastasiia</a>, <a href="../../../author/dickey_brandon"><b>Dickey</b> Brandon</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../ghan_evse_dick_gupt.2023.EEoPDoFaTRoTDPCP/">Examining Effect of Printing-Directionality on Freezing-and-Thawing Response of Three-Dimensional-Printed Cement-Paste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rodr_olek_moin_zava.2021.LSCaFPoMtTTDPC,
+      author            = "Fabian B. Rodriguez and Jan Olek and Mohamadreza Moini and Pablo D. Zavattieri and Jeffrey P. Youngblood",
+      title             = "Linking Solids Content and Flow Properties of Mortars to Their Three-Dimensional Printing Characteristics",
+      doi               = "10.14359/51733136",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "371--382",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. B. Rodriguez, J. Olek, M. Moini, P. D. Zavattieri and J. P. Youngblood, “Linking Solids Content and Flow Properties of Mortars to Their Three-Dimensional Printing Characteristics”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 371–382, 2021, doi: 10.14359/51733136.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rodriguez, Fabian B., Jan Olek, Mohamadreza Moini, Pablo D. Zavattieri, and Jeffrey P. Youngblood. “Linking Solids Content and Flow Properties of Mortars to Their Three-Dimensional Printing Characteristics”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 371–82. https://doi.org/10.14359/51733136.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

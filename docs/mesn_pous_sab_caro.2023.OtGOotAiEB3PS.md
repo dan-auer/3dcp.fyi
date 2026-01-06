@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Romain Mesnil, Valentin Poussard, Karam Sab, Jean-François Caron
+    - footer
+title: Mesnil Romain, Poussard Valentin, Sab Karam, Caron Jean-François
 description:
 tags:
  - anisotropy
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.science/hal-03935032/file/Homogenisation_for_3d_printing__no_highlight.pdf) On the Geometrical Origin of the Anisotropy in Extrusion-Based 3D Printed Structures ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.engstruct.2022.115082" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2022.115082</a>
+#On the Geometrical Origin of the Anisotropy in Extrusion-Based 3D Printed Structures ([2022-11](date/2022/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.science/hal-03935032/file/Homogenisation_for_3d_printing__no_highlight.pdf) <a href="https://doi.org/10.1016/j.engstruct.2022.115082" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2022.115082" target="_blank">10.1016/j.engstruct.2022.115082</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <a href="../../../author/poussard_valentin"><b>Poussard</b>&nbsp;Valentin</a></span>, <a href="../../../author/sab_karam"><b>Sab</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span><br>
+Journal Article - Engineering Structures, Vol. 275
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poussard_valentin"><b>Poussard</b> Valentin</a>
-,     <a href="../../../author/sab_karam"><b>Sab</b> Karam</a>
-,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 275, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#extrusion`](keyword/extrusion)
-    [`#geometry`](keyword/geometry)
-    [`#origin`](keyword/origin)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/origin"><button class="btn">#origin</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=On%20the%20Geometrical%20Origin%20of%20the%20Anisotropy%20in%20Extrusion-Based%203D%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141533808&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308714775" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2022.115082" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2022.115082?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Structures that are 3D printed by an extrusion process have periodic geometrical heterogeneity whose influence on the final stiffness properties is not extensively discussed in the existing literature. The objective of this article is to quantify the effect of local lace geometry on the anisotropy of extrusion-based 3d printed structures. A numerical homogenisation scheme is implemented to compute an equivalent homogeneous Kirchhoff–Love plate stiffness. The methodology is applied to the parametric study of an oblong lace resulting from oriented lace pressing. The study reveals that the bending stiffness in the two principal directions may vary by an order of magnitude for common lace geometries, even in the assumption of a perfect bound between layers.Numerical benchmarks against 3D Finite Element Analysis show that the proposed approach is accurate while significantly decreasing the number of degrees of freedom of the numerical model. Beyond understanding of geometrical defects on the overall stiffness of 3D printed structures, this approach can thus be applied for efficient structural analysis of 3D printed pieces with thousands of layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/maitenaz_sebastien"><b>Maitenaz</b> Sébastien</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arch_mait_demo_char.2021.StSoaHMSaGCSbAM/">Strategy to Shape, on a Half-Meter Scale, a Geopolymer Composite Structure by Additive Manufacturing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
@@ -87,8 +66,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
       <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
       <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>
@@ -104,4 +83,33 @@ tags:
       <li><a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/bouten_sam"><b>Bouten</b> Sam</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dell_bout_mele_bloc.2023.SDaEoSaU3CPMAB/">Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mesn_pous_sab_caro.2023.OtGOotAiEB3PS,
+      author            = "Romain Mesnil and Valentin Poussard and Karam Sab and Jean-François Caron",
+      title             = "On the Geometrical Origin of the Anisotropy in Extrusion-Based 3D Printed Structures",
+      doi               = "10.1016/j.engstruct.2022.115082",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "275",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Mesnil, V. Poussard, K. Sab and J.-F. Caron, “On the Geometrical Origin of the Anisotropy in Extrusion-Based 3D Printed Structures”, <i>Engineering Structures</i>, vol. 275, 2023, doi: 10.1016/j.engstruct.2022.115082.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mesnil, Romain, Valentin Poussard, Karam Sab, and Jean-François Caron. “On the Geometrical Origin of the Anisotropy in Extrusion-Based 3D Printed Structures”. <i>Engineering Structures</i> 275 (2023). https://doi.org/10.1016/j.engstruct.2022.115082.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

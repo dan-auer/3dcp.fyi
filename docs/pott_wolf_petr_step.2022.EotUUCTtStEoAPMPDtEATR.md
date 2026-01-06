@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ursula Pott, Christoph Wolf, Yuri Petryna, Dietmar Stephan
+    - footer
+title: Pott Ursula, Wolf Christoph, Petryna Yuri, Stephan Dietmar
 description:
 tags:
  - age
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106956" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106956</a>
+#Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2022.106956" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106956" target="_blank">10.1016/j.cemconres.2022.106956</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pott_ursula"><b>Pott</b>&nbsp;Ursula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0832-8073" title="ORCID: 0000-0002-0832-8073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_christoph"><b>Wolf</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6801-5677" title="ORCID: 0000-0002-6801-5677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petryna_yuri"><b>Petryna</b>&nbsp;Yuri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 161
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> <a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a> <a href="https://orcid.org/0000-0002-0832-8073" title="ORCID: 0000-0002-0832-8073" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> <a href="https://orcid.org/0000-0002-6801-5677" title="ORCID: 0000-0002-6801-5677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 161, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#axis`](keyword/axis)
-    [`#compression`](keyword/compression)
-    [`#early`](keyword/early)
-    [`#evaluation`](keyword/evaluation)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#test`](keyword/test)
-    [`#transition`](keyword/transition)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/transition"><button class="btn">#transition</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20the%20Unconfined%20Uniaxial%20Compression-Test%20to%20Study%20the%20Evolution%20of%20Apparent%20Printable%20Mortar-Properties%20During%20the%20Early-Age%20Transition-Regime" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137026281&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4294079577" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106956" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106956?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The aim of this study is the evaluation of the unconfined uniaxial compression test (UUCT) to study the evolution of the apparent material properties of the printable mortar during the early age transition regime between the non-Newtonian fluid and the cohesive frictional material. For this application it is important to establish validated and reliable test procedures. The main focus lies on the determination of the apparent static Young's modulus, which defines limitations for stability failure of 3D printed structures. The results of UUCT beyond the apparent elastic range help to better distinguish between ductile and brittle behavior. A numerical simulation of the UUCT by the Mohr-Coulomb material model with apparent material properties determined by UUCT and direct shear test is able to reproduce the behavior at different ages, including material stiffness and deformation patterns, which is considered as an additional validation of the test procedure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -98,9 +73,9 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/marquez_alvaro"><b>Marquez</b> Alvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA/">Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>
@@ -118,4 +93,33 @@ tags:
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM/">Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method</a></li>
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT/">Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR,
+      author            = "Ursula Pott and Christoph Wolf and Yuri Petryna and Dietmar Stephan",
+      title             = "Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime",
+      doi               = "10.1016/j.cemconres.2022.106956",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "161",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Pott, C. Wolf, Y. Petryna and D. Stephan, “Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime”, <i>Cement and Concrete Research</i>, vol. 161, 2022, doi: 10.1016/j.cemconres.2022.106956.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pott, Ursula, Christoph Wolf, Yuri Petryna, and Dietmar Stephan. “Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime”. <i>Cement and Concrete Research</i> 161 (2022). https://doi.org/10.1016/j.cemconres.2022.106956.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

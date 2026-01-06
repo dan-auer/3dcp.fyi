@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Techman Mateusz 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>

@@ -8,7 +8,7 @@ search:
 
 # #resolution
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../nabo_bres.2022.AF/">Additive Formwork:<br/>Examining Design, Fabrication Space and Resolution for Bespoke Concrete Elements</a></li>
   <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../kuzm_duco_fera_rous.2022.EIoEBAM/">Environmental Impact of Extrusion-Based Additive Manufacturing:<br/>Generic Model, Power-Measurements and Influence of Printing-Resolution</a></li>
   <li><a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a>, <a href="../../../author/williams_ella"><b>Williams</b> Ella</a>, <a href="../../../author/bennett_michael"><b>Bennett</b> Michael</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../nich_ross_will_benn.2020.IRTMRSaMLfCR3PiA/">Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture</a></li>

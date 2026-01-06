@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joseph Ingaglio, John Fox, Clay Naito, Paolo Bocchini
+    - footer
+title: Ingaglio Joseph, Fox John, Naito Clay, Bocchini Paolo
 description:
 tags:
  - aggregate
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2019.02.065" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2019.02.065</a>
+#Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates ([2019-02](date/2019/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2019.02.065" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.02.065" target="_blank">10.1016/j.conbuildmat.2019.02.065</a>
 
--------------------------
+<a href="../../../author/ingaglio_joseph"><b>Ingaglio</b>&nbsp;Joseph</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7106-8158" title="ORCID: 0000-0001-7106-8158" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fox_t_john"><b>Fox</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3835-8131" title="ORCID: 0000-0003-3835-8131" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naito_j_clay"><b>Naito</b>&nbsp;Clay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5685-2283" title="ORCID: 0000-0002-5685-2283" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bocchini_paolo"><b>Bocchini</b>&nbsp;Paolo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 206, pp. 494-503
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ingaglio_joseph"><b>Ingaglio</b> Joseph</a>
-,     <a href="../../../author/fox_t_john"><b>Fox</b> John</a> <a href="https://orcid.org/0000-0001-7106-8158" title="ORCID: 0000-0001-7106-8158" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a> <a href="https://orcid.org/0000-0003-3835-8131" title="ORCID: 0000-0003-3835-8131" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="https://orcid.org/0000-0002-5685-2283" title="ORCID: 0000-0002-5685-2283" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 206, pp. 494-503
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#fine`](keyword/fine)
-    [`#hydration`](keyword/hydration)
-    [`#jet`](keyword/jet)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/jet"><button class="btn">#jet</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Material-Characteristics%20of%20Binder-Jet%203D%20Printed%20Hydrated%20CSA%20Cement%20with%20the%20Addition%20of%20Fine%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85061742287&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2915100305" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2019.02.065" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2019.02.065?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent advances in additive manufacturing technologies for cementitious construction have mainly focused on low resolution fused deposition methods, herein the authors aim to advance high resolution binder jet printing methods. The inherent challenge of additive binder jet cement-based printing is to achieve adequate mechanical strengths and maintain geometry without the agitation and casting of conventional fabrication. The authors utilize a commercially available binder jet printer to fabricate sample specimens that are used to assess material and geometric properties. A novel water-based binder formulation, compatible with concrete chemistry and piezoelectric jetting, is developed. This study examines a dry cementitious mix comprised of round grain fine aggregates and calcium sulfoaluminate (CSA) cement. The printed samples have a density of 1474–1501 kg/m3, 28-day compressive strengths of 5.94–6.70 MPa, and flexural strengths of 1.76–2.39 MPa. The results indicate that binder jet printed CSA cement with the addition of fine aggregates possess the strength and the resolution to produce high detail objects with rapid production capability and compatibility in applications with conventional construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -82,8 +59,8 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "46 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/zhou_juanlan"><b>Zhou</b> Juanlan</a>, <a href="../../../author/shi_xiangwen"><b>Shi</b> Xiangwen</a>, <a href="../../../author/zheng_hongrun"><b>Zheng</b> Hongrun</a>, <a href="../../../author/jin_ruoyu"><b>Jin</b> Ruoyu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA/">Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates:<br/>Rheology, Strength, and Anisotropy</a></li>
       <li><a href="../../../author/ali_sufiyan_syed"><b>Ali</b> Syed</a>, <a href="../../../author/haq_moin_mohd"><b>Haq</b> Mohd</a>, <a href="../../../author/khan_ahmad_rizwan"><b>Khan</b> Rizwan</a>, <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b> Ahmad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ali_haq_khan_hash.2025.ACRo3PoC/">A Comprehensive Review on 3D Printing of Concrete:<br/>Materials, Methods and Mechanical Properties</a></li>
@@ -131,4 +108,34 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../xia_nema_sanj.2019.PPTtESoPCMDFUPB3PP/">Post-Processing Techniques to Enhance Strength of Portland Cement Mortar Digitally Fabricated Using Powder-Based 3D Printing Process</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{inga_fox_nait_bocc.2019.MCoBJ3PHCCwtAoFA,
+      author            = "Joseph Ingaglio and John T. Fox and Clay J. Naito and Paolo Bocchini",
+      title             = "Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates",
+      doi               = "10.1016/j.conbuildmat.2019.02.065",
+      year              = "2019",
+      journal           = "Construction and Building Materials",
+      volume            = "206",
+      pages             = "494--503",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ingaglio, J. T. Fox, C. J. Naito and P. Bocchini, “Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates”, <i>Construction and Building Materials</i>, vol. 206, pp. 494–503, 2019, doi: 10.1016/j.conbuildmat.2019.02.065.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ingaglio, Joseph, John T. Fox, Clay J. Naito, and Paolo Bocchini. “Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates”. <i>Construction and Building Materials</i> 206 (2019): 494–503. https://doi.org/10.1016/j.conbuildmat.2019.02.065.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

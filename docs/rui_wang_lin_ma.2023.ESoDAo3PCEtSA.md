@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Aoyu Rui, Li Wang, Wenyu Lin, Guowei Ma
+    - footer
+title: Rui Aoyu, Wang Li, Lin Wenyu, Ma Guowei
 description:
 tags:
  - anisotropy
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133590" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133590</a>
+#Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133590" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133590" target="_blank">10.1016/j.conbuildmat.2023.133590</a>
 
--------------------------
+<a href="../../../author/rui_aoyu"><b>Rui</b>&nbsp;Aoyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/lin_wenyu"><b>Lin</b>&nbsp;Wenyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 407, No. 133590
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rui_aoyu"><b>Rui</b> Aoyu</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 407, No. 133590
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#attack`](keyword/attack)
-    [`#concrete`](keyword/concrete)
-    [`#damage`](keyword/damage)
-    [`#experiment`](keyword/experiment)
-    [`#exposure`](keyword/exposure)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/attack"><button class="btn">#attack</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Damage%20Anisotropy%20of%203D%20Printed%20Concrete%20Exposed%20to%20Sulfate-Attack" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173169431&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387276325" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133590" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133590?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) technology has grown substantially in recent years and expanded from use in the development of architectural landscapes to the manufacture of load-bearing structures. The durability performance of 3D-printed concrete materials is crucial for the application of 3DCP in engineering structures. In this study, polypropylene (PP) fibre-reinforced sulfoaluminate cement-based composites were prepared for 3D printing, and their mechanical and durability performances after exposed to a sulfate-attack environment were experimentally assessed. The surface damage, mass loss, dynamic modulus, and residual strength of the prepared 3D-printed concrete were quantified during 150 cycles of sulfate attacks. The damage anisotropy of 3DCP exposed to sulfate attacks was introduced and elucidated from both the meso- and microscales. The pore characteristics of the matrix and interfaces were investigated through computerised tomography (CT) scanning and scanning electron microscopy (SEM) to uncover the influence of interfaces on the sulfate resistant performances. The results indicate that the damage anisotropy of 3DCP after exposed to sulfate attack was reduced due to the self-healing properties of sulfoaluminate cementitious composites.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "44 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -110,8 +89,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/altehaini_zakiah"><b>Altehaini</b> Zakiah</a>, <a href="../../../author/dayili_mohammed"><b>Dayili</b> Mohammed</a>, <a href="../../../author/alrajab_meshari"><b>Alrajab</b> Meshari</a>, <a href="../../../author/harbi_al_adel"><b>Harbi</b> Adel</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../alte_dayi_alra_harb.2025.D3CPfLSBCiSA/">Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia:<br/>A Case Study</a></li>
@@ -135,4 +114,34 @@ tags:
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
       <li><a href="../../../author/dong_wei"><b>Dong</b> Wei</a>, <a href="../../../author/wang_junfeng"><b>Wang</b> Junfeng</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/qu_shuqiang"><b>Qu</b> Shuqiang</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dong_wang_hang_qu.2024.RoPPaSFRo3PCwFSaAS/">Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rui_wang_lin_ma.2023.ESoDAo3PCEtSA,
+      author            = "Aoyu Rui and Li Wang and Wenyu Lin and Guowei Ma",
+      title             = "Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack",
+      doi               = "10.1016/j.conbuildmat.2023.133590",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "407",
+      pages             = "133590",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Rui, L. Wang, W. Lin and G. Ma, “Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack”, <i>Construction and Building Materials</i>, vol. 407, p. 133590, 2023, doi: 10.1016/j.conbuildmat.2023.133590.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rui, Aoyu, Li Wang, Wenyu Lin, and Guowei Ma. “Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack”. <i>Construction and Building Materials</i> 407 (2023): 133590. https://doi.org/10.1016/j.conbuildmat.2023.133590.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

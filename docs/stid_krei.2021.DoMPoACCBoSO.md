@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Samuel Stidwell, Eric Kreiger
+    - footer
+title: Stidwell Samuel, Kreiger Eric
 description:
 tags:
  - additive
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Determination of Mechanical Properties of Additively Constructed Concrete Based on Specimen-Orientation ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1520/stp163620200091" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1520/stp163620200091</a>
+#Determination of Mechanical Properties of Additively Constructed Concrete Based on Specimen-Orientation ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200091" target="_blank">10.1520/stp163620200091</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1428-9074" title="ORCID: 0000-0002-1428-9074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stidwell_samuel"><b>Stidwell</b>&nbsp;Samuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span><br>
+Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 55-74
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/stidwell_samuel"><b>Stidwell</b> Samuel</a> <a href="https://orcid.org/0000-0002-1428-9074" title="ORCID: 0000-0002-1428-9074" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 55-74
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#determination`](keyword/determination)
-    [`#mechanics`](keyword/mechanics)
-    [`#orientation`](keyword/orientation)
-    [`#property`](keyword/property)
-    [`#specimen`](keyword/specimen)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Determination%20of%20Mechanical%20Properties%20of%20Additively%20Constructed%20Concrete%20Based%20on%20Specimen-Orientation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164200748&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4212765696" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1520/stp163620200091" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1520/stp163620200091?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As more applications of additive concrete construction (ACC) continue to be explored, some, such as buildings and bridges, call for a focus of structural integrity. It is essential that the material properties of multilayered additively constructed elements be determined prior to use to ensure that the strength meets or exceeds the requirements of the application. The layered deposition process of concrete additive construction introduces anisotropy in fabricated elements, which can be due to interface weakness or inherent geometric discontinuities. The weaknesses can be the result of the ACC process (material extrusion, print speed, and print stability) or the printable material properties (water content, curing rate, fibers, aggregate size) leading to variation in mechanical properties. Typical cast concrete elements are assumed to be isotropic, meaning that mechanical behavior is not affected by element orientation. Therefore, it is critical that ACC elements be tested for the effects of orientation on mechanical properties, as this can affect the mechanical behavior of structural elements. This study proposes six potential tests to characterize the mechanical properties of ACC and explores the effect of orientation on the mechanical properties of specimens cut from multilayered ACC elements. Specimens were tested for compressive strength under two principal orientations (Y and Z), bending strength under two orientations (X and Z); and two different interface strength tests (using splitting tension and direct shear). The resulting compressive strengths exceeded the compressive limit of 1,900 psi (13.1 MPa), flexural strengths were high at 36% to 41% of the compressive strength results, depending on orientation. Direct shear and splitting tensile strength of the layer-layer interfaces were 14.6% to 16.6% and 9% to 10% of the compressive strength results, respectively. Overall, the orientation of the specimen did not seem to have much effect on performance for this particular material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -86,9 +65,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/yin_hongxi"><b>Yin</b> Hongxi</a>, <a href="../../../author/qu_ming"><b>Qu</b> Ming</a>, <a href="../../../author/zhang_haiyan"><b>Zhang</b> Haiyan</a>, <a href="../../../author/lim_yechan"><b>Lim</b> YeChan</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../yin_qu_zhan_lim.2018.3PaB/">3D Printing and Buildings:<br/>A Technology Review and Future Outlook</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/perez-rivera_anthony"><b>Perez-Rivera</b> Anthony</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/stidwell_samuel"><b>Stidwell</b> Samuel</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pere_krei_stid_styn.2023.FEMoRACCS/">Finite-Element Modeling of Reinforced Additively Constructed Concrete Structures</a></li>
-      <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../digg_krei.2021.UITAtAitAoSEQfAC/">Using Isolated Temporal Analysis to Aid in the Assessment of Structural Element Quality for Additive Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{stid_krei.2021.DoMPoACCBoSO,
+      author            = "Samuel Stidwell and Eric L. Kreiger",
+      title             = "Determination of Mechanical Properties of Additively Constructed Concrete Based on Specimen-Orientation",
+      doi               = "10.1520/stp163620200091",
+      year              = "2021",
+      pages             = "55--74",
+      booktitle         = "Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers",
+      editor            = "Scott Z. Jones and Eric L. Kreiger",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Stidwell  and E. L. Kreiger, “Determination of Mechanical Properties of Additively Constructed Concrete Based on Specimen-Orientation”, in <i>Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers</i>,  2021, pp. 55–74. doi: 10.1520/stp163620200091.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Stidwell, Samuel, and Eric L. Kreiger. “Determination of Mechanical Properties of Additively Constructed Concrete Based on Specimen-Orientation”. In <i>Standards Development for Cement and Concrete for Use in Additive Construction: Selected Technical Papers</i>, edited by Scott Z. Jones and Eric L. Kreiger, 55–74, 2021. https://doi.org/10.1520/stp163620200091.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcell Tudela, Kelssy Cardenas Palomino, Sophie Bienvenu, Federico Dunkelberg, Javier Nakamatsu, Suyeon Kim, Gaby Ruiz, Miguel Pando, Rafael Aguilar, Guido Silva
+    - footer
+title: Tudela Marcell, Cardenas Palomino Kelssy, Bienvenu Sophie, Dunkelberg Federico, Nakamatsu Javier, Kim Suyeon, Ruiz Gaby, Pando Miguel, Aguilar Rafael, Silva Guido
 description:
 tags:
  - aggregate
@@ -16,38 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_1</a>
+#Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_1" target="_blank">10.1007/978-3-031-70031-6_1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-3775-4332" title="ORCID: 0009-0003-3775-4332" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tudela_marcell"><b>Tudela</b>&nbsp;Marcell</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-1846-9482" title="ORCID: 0009-0006-1846-9482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b>&nbsp;Kelssy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9574-670X" title="ORCID: 0000-0001-9574-670X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bienvenu_sophie"><b>le&nbsp;Bienvenu</b>&nbsp;Sophie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3181-9003" title="ORCID: 0000-0003-3181-9003" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b>&nbsp;Federico</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_suyeon"><b>Kim</b>&nbsp;Suyeon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3835-9708" title="ORCID: 0000-0003-3835-9708" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruiz_gaby"><b>Ruiz</b>&nbsp;Gaby</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9940-7887" title="ORCID: 0000-0001-9940-7887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pando_a_miguel"><b>Pando</b>&nbsp;Miguel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aguilar_rafael"><b>Aguilar</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_guido"><b>Silva</b>&nbsp;Guido</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 3-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a> <a href="https://orcid.org/0009-0003-3775-4332" title="ORCID: 0009-0003-3775-4332" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b> Kelssy</a> <a href="https://orcid.org/0009-0006-1846-9482" title="ORCID: 0009-0006-1846-9482" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bienvenu_sophie"><b>le Bienvenu</b> Sophie</a> <a href="https://orcid.org/0000-0001-9574-670X" title="ORCID: 0000-0001-9574-670X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b> Federico</a> <a href="https://orcid.org/0000-0003-3181-9003" title="ORCID: 0000-0003-3181-9003" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> <a href="https://orcid.org/0000-0001-7721-7716" title="ORCID: 0000-0001-7721-7716" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> <a href="https://orcid.org/0000-0003-1621-1489" title="ORCID: 0000-0003-1621-1489" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> <a href="https://orcid.org/0000-0003-3835-9708" title="ORCID: 0000-0003-3835-9708" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pando_a_miguel"><b>Pando</b> Miguel</a> <a href="https://orcid.org/0000-0001-9940-7887" title="ORCID: 0000-0001-9940-7887" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> <a href="https://orcid.org/0000-0002-8175-8950" title="ORCID: 0000-0002-8175-8950" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> <a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 3-10
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#development`](keyword/development)
-    [`#printability`](keyword/printability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20and%20Characterization%20of%20a%20Printable%20Concrete%20Made%20with%20Construction%20and%20Demolition-Waste-Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203046485&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402088612" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To address the environmental challenges associated with Construction and Demolition Wastes (CDW) disposal and the depletion of natural sand resources by the construction industry, this paper investigates the potential use of fine aggregates from CDW as a complete replacement for natural sand in concrete formulations tailored for 3D printing applications. The study begins by physically characterizing fine aggregates produced by crushing and sieving CDW from concrete and fired clay brick residues. This stage includes water content and water absorption capacity tests, specific gravity tests and unit weight tests, and particle size analysis. Then, a 3D printable concrete mix formulated entirely with CDW fine aggregates, replacing 100% of natural sand, is developed using mortar flow and rotational rheology tests. This formulation is validated by printing a medium-sized wall using a 3D printing system developed in-house. Finally, compression tests are performed on printed filaments to examine mechanical properties such as compressive strength and modulus of elasticity. Fresh-state and hardened-state properties are compared with control concrete samples made with natural sand (0% of CDW fine aggregates). The study demonstrates the feasibility of formulating printable concretes with a total replacement of sand by CDW for real-size applications. However, special attention must be given in large-scale projects to the rate of workability loss caused by the high water absorption capacity of CDW fine aggregates. The research findings offer valuable insights into the potential and performance of CDW aggregates in 3D-printed concrete applications within the context of a circular economy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/li_lei"><b>Li</b> Lei</a>, <a href="../../../author/yao_qinye"><b>Yao</b> Qinye</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../duan_li_yao_zou.2022.EoMotFaHPo3PCC/">Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../hou_xiao_duan_ma.2021.FPo3PMwRP/">Fresh Properties of 3D Printed Mortar with Recycled Powder</a></li>
@@ -80,7 +52,38 @@ tags:
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/baldoceda_jordan"><b>Baldoceda</b> Jordan</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_quis_bald_kim.2024.ACoCDBULCCMaFBTO/">Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{tude_card_bien_dunk.2024.DaCoaPCMwCaDWA,
+      author            = "Marcell Tudela and Kelssy Tatiana Cardenas Palomino and Sophie le Bienvenu and Federico Dunkelberg and Javier Nakamatsu and Suyeon Kim and Gaby Ruiz and Miguel A. Pando and Rafael Aguilar and Guido Silva",
+      title             = "Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates",
+      doi               = "10.1007/978-3-031-70031-6_1",
+      year              = "2024",
+      volume            = "53",
+      pages             = "3--10",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Tudela, “Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 3–10. doi: 10.1007/978-3-031-70031-6_1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tudela, Marcell, Kelssy Tatiana Cardenas Palomino, Sophie le Bienvenu, Federico Dunkelberg, Javier Nakamatsu, Suyeon Kim, Gaby Ruiz, Miguel A. Pando, Rafael Aguilar, and Guido Silva. “Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:3–10, 2024. https://doi.org/10.1007/978-3-031-70031-6_1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

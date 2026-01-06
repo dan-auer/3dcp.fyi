@@ -8,7 +8,7 @@ search:
 
 # #tunnel
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
   <li><a href="../../../author/ke_zhijiang"><b>Ke</b> Zhijiang</a>, <a href="../../../author/li_zichang"><b>Li</b> Zichang</a>, <a href="../../../author/chen_zhengfei"><b>Chen</b> Zhengfei</a>, <a href="../../../author/xu_yao"><b>Xu</b> Yao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ke_li_chen_xu.2026.TAaCoRAB3PfHTL/">Technological Advancements and Challenges of Robotic Arm-Based 3D Printing for Hydraulic Tunnel Lining</a></li>
   <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a>, <a href="../../../author/huang_zhongkai"><b>Huang</b> Zhongkai</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_xu_chen_huan.2025.3PCTL/">3D Printed Concrete Tunnel Lining:<br/>Comparative Study on Mechanical Properties of Curved and Straight Printed Specimens</a></li>

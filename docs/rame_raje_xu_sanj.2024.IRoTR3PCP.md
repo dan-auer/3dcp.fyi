@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Akilesh Ramesh, Pathmanathan Rajeev, Shanqing Xu, Jay Sanjayan, Guoxing Lu
+    - footer
+title: Ramesh Akilesh, Rajeev Pathmanathan, Xu Shanqing, Sanjayan Jay, Lu Guoxing
 description:
 tags:
  - concrete
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2024.118489) Impact Response of Textile-Reinforced 3D Printed Concrete Panels ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.engstruct.2024.118489" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2024.118489</a>
+#Impact Response of Textile-Reinforced 3D Printed Concrete Panels ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2024.118489) <a href="https://doi.org/10.1016/j.engstruct.2024.118489" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.118489" target="_blank">10.1016/j.engstruct.2024.118489</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-2850-9500" title="ORCID: 0009-0004-2850-9500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramesh_akilesh"><b>Ramesh</b>&nbsp;Akilesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <a href="../../../author/xu_shanqing"><b>Xu</b>&nbsp;Shanqing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <a href="../../../author/lu_guoxing"><b>Lu</b>&nbsp;Guoxing</a></span><br>
+Journal Article - Engineering Structures, Vol. 315, No. 118489
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> <a href="https://orcid.org/0009-0004-2850-9500" title="ORCID: 0009-0004-2850-9500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_shanqing"><b>Xu</b> Shanqing</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_guoxing"><b>Lu</b> Guoxing</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 315, No. 118489
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#response`](keyword/response)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20Response%20of%20Textile-Reinforced%203D%20Printed%20Concrete%20Panels" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196968168&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400076379" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2024.118489" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2024.118489?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study assessed the impact response of 3D-printed textile-reinforced concrete for structural applications of 3D concrete printed structures, where impact is a significant load case. To study the impact response, two layers of AR-glass and two layers of carbon textile-reinforced 3D-printed high-strength concrete panels were investigated experimentally under low-velocity impacts from drop weights, respectively. The effect of textile reinforcement on the impact behaviour was compared with unreinforced printed specimens. The specimens were subjected to increasing levels of impact load until the failure was observed. The effect of textile reinforcement on the impact resistance, cumulative energy absorption capacity and failure pattern of printed specimens were investigated and compared with their mould-cast counterparts. To understand the effect of textile reinforcement on the printed and mould-cast panel specimens, a quasi-static flexural test was performed to evaluate the load vs deformation behaviour. The test results from the quasi-static flexural test showed that the incorporation of textile reinforcement improved the first crack strength by about 40 % and enhanced post-peak behaviour for both printed and mould-cast specimens. Further, providing carbon textile reinforcement significantly improved the impact resistance by 75 % when compared to AR glass textile-reinforced specimens due to the higher stiffness and better strain-hardening behaviour. Moreover, the effect of textile reinforcement on enhancing the energy absorption capacity of 3D-printed specimens was more evident at higher impact velocities. The cumulative energy absorption capacity of carbon textile-reinforced specimens was observed to be 60 % higher compared to AR glass textile-reinforced specimens. During high-velocity impacts, the textile reinforcement was observed to improve damage distribution by enhancing the bridging between the interlayers. The damage condition at failure showed that AR-glass textile-reinforced printed and mould-cast specimens showed severe punching failure on the compression face and widened cracks and spalling on the tension face. However, carbon textile reinforcement enhanced the impact resistance, thus showing multiple cracks and reduced spalling on the tension face even after multiple impacts. Overall, the impact performance of 3D-printed textile-reinforced concrete panels showed highlevel impact resistance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -84,7 +64,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
       <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../raje_rame_nava_sanj.2023.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../raje_rame_nava_sanj.2024.UFRfFMWtIPi3CP/">Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../rame_raje_sanj.2024.BSBoTRi3PC/">Bond-Slip Behavior of Textile-Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../rame_raje_sanj_mech.2024.IPTRMf3CPaISP/">In-Process Textile Reinforcement Method for 3D Concrete Printing and Its Structural Performance</a></li>
       <li><a href="../../../author/rensburg_jacobus-janse_johannes"><b>Rensburg</b> Johannes</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../rens_baba_comb.2022.ATRMf3PC/">A Textile Reinforcement Method for 3D Printed Concrete</a></li>
@@ -95,12 +74,42 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/wu_gan"><b>Wu</b> Gan</a>, <a href="../../../author/xia_zixu"><b>Xia</b> Zixu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bu_zhan_wu_xia.2025.IPo3PEIbBBS/">Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure</a></li>
       <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ahad_vali.2025.ZRMf3CP/">Zigzag Reinforcement Method for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rame_raje_xu_sanj.2024.IRoTR3PCP,
+      author            = "Akilesh Ramesh and Pathmanathan Rajeev and Shanqing Xu and Jay Gnananandan Sanjayan and Guoxing Lu",
+      title             = "Impact Response of Textile-Reinforced 3D Printed Concrete Panels",
+      doi               = "10.1016/j.engstruct.2024.118489",
+      year              = "2024",
+      journal           = "Engineering Structures",
+      volume            = "315",
+      pages             = "118489",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Ramesh, P. Rajeev, S. Xu, J. G. Sanjayan and G. Lu, “Impact Response of Textile-Reinforced 3D Printed Concrete Panels”, <i>Engineering Structures</i>, vol. 315, p. 118489, 2024, doi: 10.1016/j.engstruct.2024.118489.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ramesh, Akilesh, Pathmanathan Rajeev, Shanqing Xu, Jay Gnananandan Sanjayan, and Guoxing Lu. “Impact Response of Textile-Reinforced 3D Printed Concrete Panels”. <i>Engineering Structures</i> 315 (2024): 118489. https://doi.org/10.1016/j.engstruct.2024.118489.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

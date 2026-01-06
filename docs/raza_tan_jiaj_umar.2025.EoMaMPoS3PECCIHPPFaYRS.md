@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ali Raza, Binglin Tan, Zhou Jiajia, Muhammad Umar, Syed Ali, Safdar Iqbal, Chengfang Yuan
+    - footer
+title: Raza Ali, Tan Binglin, Jiajia Zhou, Umar Muhammad, Ali Syed, Iqbal Safdar, Yuan Chengfang
 description:
 tags:
  - cement
@@ -21,40 +22,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05578" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05578</a>
+#Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand ([2025-11](date/2025/11))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05578" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05578" target="_blank">10.1016/j.cscm.2025.e05578</a>
 
--------------------------
+<a href="../../../author/raza_ali"><b>Raza</b>&nbsp;Ali</a></span>, <a href="../../../author/tan_binglin"><b>Tan</b>&nbsp;Binglin</a></span>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b>&nbsp;Zhou</a></span>, <a href="../../../author/umar_muhammad"><b>Umar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/ali_basit_syed"><b>Ali</b>&nbsp;Syed</a></span>, <a href="../../../author/iqbal_safdar"><b>Iqbal</b>&nbsp;Safdar</a></span>, <a href="../../../author/yuan_chengfang"><b>Yuan</b>&nbsp;Chengfang</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05578
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raza_ali"><b>Raza</b> Ali</a>
-,     <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>
-,     <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>
-,     <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>
-,     <a href="../../../author/ali_basit_syed"><b>Ali</b> Syed</a>
-,     <a href="../../../author/iqbal_safdar"><b>Iqbal</b> Safdar</a>
-,     <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05578
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#evaluation`](keyword/evaluation)
-    [`#fiber`](keyword/fiber)
-    [`#hybrid`](keyword/hybrid)
-    [`#incorporation`](keyword/incorporation)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#pva`](keyword/pva)
-    [`#sand`](keyword/sand)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Mechanical%20and%20Microstructural%20Properties%20of%20Sustainable%203D-Printed%20Engineered%20Cementitious%20Composites%20Incorporating%20Hybrid%20PE/PVA%20Fibers%20and%20Yellow%20River%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106160266" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05578" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05578?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious composites is an emerging construction method that eliminates the reliance on steel reinforcement, thereby improving crack resistance. This study investigates the mechanical and microstructural properties of 3D-printed engineered cementitious composites (3DP-ECC) incorporating hybrid polyethylene (PE) and polyvinyl alcohol (PVA) fibers, along with Yellow River Sand (YRS) as a sustainable alternative to quartz sand. The utilization of the YRS lowers the cost of ECC production and addresses environmental concerns, such as sedimentation and flooding. Mechanical properties of 3DP-ECC were determined in the X, Y, and Z printing directions and compared to Cast specimens to determine anisotropic behaviour through Digital Image Correlation (DIC). X-ray Computed Tomography (XCT) and Scanning Electron Microscopy (SEM-EDS) were used to investigate the microstructural characteristics. Results show that the Cast and 3DP-ECC specimens exhibited strain-hardening with tensile strains exceeding 3%. At R25, the tensile strength results for Cast ECC and 3DP-ECC were 6.58 MPa and 4.60 MPa, respectively, while the tensile strain value was 4.60% and 3.90%, respectively. The four-point bending results show that the Cast and 3DP-ECC specimens in the Z-direction exhibited enhanced bending capacity and minor cracking, whereas the X- and Y-direction specimens showed 13% and 16% reductions, respectively, compared to the Z-direction. In terms of compressive strength, the R50 group showed strengths of 49.7 MPa in Cast specimens and 45.9 MPa in 3DP specimens. Microstructural analysis identified dense hydration gels and strong fiber–matrix bonding, although XCT showed interlayer voids in 3DP-ECC, and porosity decreased with higher YRS content. This study has shown that hybrid PE/PVA fibers and YRS have the potential to enhance the sustainability and crack resistance of 3DP-ECC. However, this study highlights the importance of maximizing fiber orientation and interlayer bonding to improve the structural performance of 3DP-ECC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a>, <a href="../../../author/qian_hui"><b>Qian</b> Hui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a>, <a href="../../../author/fenglin_liu"><b>Fenglin</b> Liu</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF/">Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../asla_zhan.2024.S3PCSUHQSRM/">Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
@@ -115,7 +85,36 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS,
+      author            = "Ali Raza and Binglin Tan and Zhou Jiajia and Muhammad Umar and Syed Basit Ali and Safdar Iqbal and Chengfang Yuan",
+      title             = "Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand",
+      doi               = "10.1016/j.cscm.2025.e05578",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05578",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Raza, “Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand”, <i>Case Studies in Construction Materials</i>, p. e05578, 2025, doi: 10.1016/j.cscm.2025.e05578.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raza, Ali, Binglin Tan, Zhou Jiajia, Muhammad Umar, Syed Basit Ali, Safdar Iqbal, and Chengfang Yuan. “Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand”. <i>Case Studies in Construction Materials</i>, 2025, e05578. https://doi.org/10.1016/j.cscm.2025.e05578.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

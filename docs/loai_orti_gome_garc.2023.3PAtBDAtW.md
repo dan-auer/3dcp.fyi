@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sebastián Loaiza, Albert Ortiz, Daniel Gómez, José García Alvarez, Peter Thomson, Eimar Vallejo
+    - footer
+title: Loaiza Sebastián, Ortiz Albert, Gómez Daniel, García Alvarez José, Thomson Peter, Vallejo Eimar
 description:
 tags:
  - application
@@ -15,33 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://revistaingenieria.univalle.edu.co/index.php/ingenieria_y_competitividad/article/download/13236/17488) 3D Printing Applied to Building Development Around the World:<br/>:aca-blank: A Systematic Literature Review ([2024-11](date/2024/11))
-<a href="https://doi.org/10.25100/iyc.v25isuplemento.13236" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.25100/iyc.v25isuplemento.13236</a>
+#3D Printing Applied to Building Development Around the World&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">A Systematic Literature Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://revistaingenieria.univalle.edu.co/index.php/ingenieria_y_competitividad/article/download/13236/17488) <a href="https://doi.org/10.25100/iyc.v25isuplemento.13236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.25100/iyc.v25isuplemento.13236" target="_blank">10.25100/iyc.v25isuplemento.13236</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8033-1253" title="ORCID: 0000-0001-8033-1253" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/loaiza_velez_sebastian"><b>Loaiza</b>&nbsp;Sebastián</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9657-2174" title="ORCID: 0000-0001-9657-2174" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ortiz_albert"><b>Ortiz</b>&nbsp;Albert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5244-8876" title="ORCID: 0000-0001-5244-8876" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gomez_daniel"><b>Gómez</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2580-805X" title="ORCID: 0000-0003-2580-805X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarez_jaime_jose"><b>García Alvarez</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9404-0710" title="ORCID: 0000-0002-9404-0710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thomson_peter"><b>Thomson</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3557-2861" title="ORCID: 0000-0003-3557-2861" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vallejo_andres-sandoval_eimar"><b>Vallejo</b>&nbsp;Eimar</a></span><br>
+Journal Article - Ingeniería y Competitividad, Vol. 25, Iss. Suplemento
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/loaiza_velez_sebastian"><b>Loaiza</b> Sebastián</a> <a href="https://orcid.org/0000-0001-8033-1253" title="ORCID: 0000-0001-8033-1253" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ortiz_albert"><b>Ortiz</b> Albert</a> <a href="https://orcid.org/0000-0001-9657-2174" title="ORCID: 0000-0001-9657-2174" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gomez_daniel"><b>Gómez</b> Daniel</a> <a href="https://orcid.org/0000-0001-5244-8876" title="ORCID: 0000-0001-5244-8876" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garcia-alvarez_jaime_jose"><b>García Alvarez</b> José</a> <a href="https://orcid.org/0000-0003-2580-805X" title="ORCID: 0000-0003-2580-805X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thomson_peter"><b>Thomson</b> Peter</a> <a href="https://orcid.org/0000-0002-9404-0710" title="ORCID: 0000-0002-9404-0710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vallejo_andres-sandoval_eimar"><b>Vallejo</b> Eimar</a> <a href="https://orcid.org/0000-0003-3557-2861" title="ORCID: 0000-0003-3557-2861" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Ingeniería y Competitividad, Vol. 25, Iss. Suplemento, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#buildability`](keyword/buildability)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-    [`#world`](keyword/world)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/world"><button class="btn">#world</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Applied%20to%20Building%20Development%20Around%20the%20World" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404316630" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.25100/iyc.v25isuplemento.13236" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.25100/iyc.v25isuplemento.13236?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is undergoing a transformation towards automation, and 3D printing is at the forefront of this revolution. However, to optimise 3D printing in construction, it is crucial to consider the printer’s scale, the printing material’s rheological properties, and the printed structure’s mechanical properties. This paper provides an overview of the state of the art in this field, including the promising technologies, such as D-Shape and Contour Crafting, used in building applications. The paper also compares the use in 3D printing of conventional materials, like concrete, with non-conventional earth-based materials, such as sand, clay, and mud, or combinations with cementing materials. This review highlights the need for more research on alternative materials to concrete, particularly in developed countries. Nevertheless, earth-based materials offer significant potential for 3D printing in developing countries, where they are readily available. However, further research is necessary to improve the mechanical properties of 3D-printed elements, particularly for large-scale structures, to ensure their reliability and safety, making 3D printing a mainstream building method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../anto_yoo_beda_reit.2019.VM/">Vertical Modulations</a></li>
@@ -120,7 +98,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{loai_orti_gome_garc.2023.3PAtBDAtW,
+      author            = "Sebastián Vélez Loaiza and Albert Ortiz and Daniel Gómez and José Jaime García Alvarez and Peter Thomson and Eimar Andrés Sandoval Vallejo",
+      title             = "3D Printing Applied to Building Development Around the World: A Systematic Literature Review",
+      doi               = "10.25100/iyc.v25isuplemento.13236",
+      year              = "2023",
+      journal           = "Ingeniería y Competitividad",
+      volume            = "25",
+      number            = "Suplemento",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. V. Loaiza, A. Ortiz, D. Gómez, J. J. G. Alvarez, P. Thomson and E. A. S. Vallejo, “3D Printing Applied to Building Development Around the World: A Systematic Literature Review”, <i>Ingeniería y Competitividad</i>, vol. 25, no. Suplemento, 2023, doi: 10.25100/iyc.v25isuplemento.13236.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Loaiza, Sebastián Vélez, Albert Ortiz, Daniel Gómez, José Jaime García Alvarez, Peter Thomson, and Eimar Andrés Sandoval Vallejo. “3D Printing Applied to Building Development Around the World: A Systematic Literature Review”. <i>Ingeniería Y Competitividad</i> 25, no. Suplemento (2023). https://doi.org/10.25100/iyc.v25isuplemento.13236.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

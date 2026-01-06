@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammadmadhi Abedi, Muhammad Waris, Mubarak Alawi, Khalifa Jabri
+    - footer
+title: Abedi Mohammadmadhi, Waris Muhammad, Alawi Mubarak, Jabri Khalifa
 description:
 tags:
  - carbon
@@ -23,39 +24,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Transformative Low-Carbon 3D-Printed Infrastructure:<br/>:aca-blank: Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143123" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143123</a>
+#Transformative Low-Carbon 3D-Printed Infrastructure&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.conbuildmat.2025.143123" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143123" target="_blank">10.1016/j.conbuildmat.2025.143123</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b>&nbsp;Mohammadmadhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waris_bilal_muhammad"><b>Waris</b>&nbsp;Muhammad</a></span>, <a href="../../../author/alawi_khamis_mubarak"><b>al&nbsp;Alawi</b>&nbsp;Mubarak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabri_saif_khalifa"><b>al&nbsp;Jabri</b>&nbsp;Khalifa</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 493, No. 143123
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> <a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a> <a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alawi_khamis_mubarak"><b>al Alawi</b> Mubarak</a>
-,     <a href="../../../author/jabri_saif_khalifa"><b>al Jabri</b> Khalifa</a> <a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 493, No. 143123
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#heat`](keyword/heat)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#lc3`](keyword/lc3)
-    [`#learn`](keyword/learn)
-    [`#limestone`](keyword/limestone)
-    [`#low`](keyword/low)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#sensor`](keyword/sensor)
-    [`#transform`](keyword/transform)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Transformative%20Low-Carbon%203D-Printed%20Infrastructure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013331471&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413364276" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143123" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143123?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study presents a systematic effort to develop a sustainable, multifunctional limestone calcined clay composite tailored for 3D-printed concrete construction (LC³-3DPCC), incorporating integrated self-sensing and self-heating capabilities. A targeted formulation strategy was adopted to predict and optimize the mix design using locally sourced clays, ensuring printability, scalability, and material consistency for large-scale applications. A dataset of 287 unique mix designs was generated and evaluated through comprehensive laboratory testing. The data were analyzed using both linear and nonlinear machine learning regression models. Among them, the Random Forest Regression model demonstrated the highest predictive accuracy for compressive strength, flexural strength, and yield stress, leading to the identification of an optimal formulation. To enhance multifunctionality, recycled carbon nanotubes (CNTs) were incorporated into the optimized LC³ -3DPCC matrix, resulting in improved self-sensing and self-heating performance. The enhanced composite achieved a compressive strength of 35 MPa, a flexural strength of 4 MPa, and a yield stress of 700 Pa, while maintaining high structural integrity and printability. Real-time structural monitoring under cyclic and monotonic loading was confirmed through piezo-resistivity-assisted digital image correlation analysis. The material also exhibited efficient Joule heating, reaching temperatures of 30°C, 60°C, and 80°C at applied currents of 0.5 A, 1.0 A, and 1.5 A, respectively—demonstrating its suitability for heating functions and cold-weather environments. Notably, interlayer bond strength increased by 52 % compared to the plain composite and by 121 % relative to the optimized clay-based 3DPCC. The CNT-modified composite retained 71 % of its compressive strength at 300°C and 44 % at 700°C, indicating excellent thermal durability. Microstructural analyses using X-ray computed tomography and thermogravimetric analysis (TGA) clarified mechanical isotropy and thermal stability improvement mechanisms. Collectively, these findings confirm that the proposed multifunctional LC³ -3DPCC is a promising candidate for scalable, sustainable, and net-zero construction, offering real-time monitoring and efficient self-heating functionalities. Future work should explore large-scale production, field deployment, and long-term performance. Supporting Python codes are provided in the Appendix (A) and supplementary materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
@@ -96,7 +68,37 @@ tags:
       <li><a href="../../../author/song_hongwei"><b>Song</b> Hongwei</a>, <a href="../../../author/li_xinle"><b>Li</b> Xinle</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../song_li.2021.AOotRMPD3PaMPoNiCC/">An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites</a></li>
       <li><a href="../../../author/yan_ruizhen"><b>Yan</b> Ruizhen</a>, <a href="../../../author/meng_fangqi"><b>Meng</b> Fangqi</a>, <a href="../../../author/ke_guoju"><b>Ke</b> Guoju</a>, <a href="../../../author/jia_kerui"><b>Jia</b> Kerui</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yan_meng_ke_jia.2024.CEotAo3PMwDWP/">Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abed_wari_alaw_jabr.2025.TLC3PI,
+      author            = "Mohammadmadhi Abedi and Muhammad Bilal Waris and Mubarak Khamis Al Alawi and Khalifa Saif Al Jabri",
+      title             = "Transformative Low-Carbon 3D-Printed Infrastructure: Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites",
+      doi               = "10.1016/j.conbuildmat.2025.143123",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "493",
+      pages             = "143123",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Abedi, M. B. Waris, M. K. A. Alawi and K. S. A. Jabri, “Transformative Low-Carbon 3D-Printed Infrastructure: Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites”, <i>Construction and Building Materials</i>, vol. 493, p. 143123, 2025, doi: 10.1016/j.conbuildmat.2025.143123.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abedi, Mohammadmadhi, Muhammad Bilal Waris, Mubarak Khamis Al Alawi, and Khalifa Saif Al Jabri. “Transformative Low-Carbon 3D-Printed Infrastructure: Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites”. <i>Construction and Building Materials</i> 493 (2025): 143123. https://doi.org/10.1016/j.conbuildmat.2025.143123.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

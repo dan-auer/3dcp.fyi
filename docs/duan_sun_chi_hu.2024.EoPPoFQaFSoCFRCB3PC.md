@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jiaqi Duan, Shouzheng Sun, Shengfeng Chi, Chunyou Hu, Chaowei Ling, Hongya Fu, Zhenyu Han
+    - footer
+title: Duan Jiaqi, Sun Shouzheng, Chi Shengfeng, Hu Chunyou, Ling Chaowei, Fu Hongya, Han Zhenyu
 description:
 tags:
  - base
@@ -22,41 +23,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Process Parameters on Forming Quality and Flexural Strength of Continuous-Fiber-Reinforced Cement-Based 3D Printed Composites ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137241" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137241</a>
+#Effect of Process Parameters on Forming Quality and Flexural Strength of Continuous-Fiber-Reinforced Cement-Based 3D Printed Composites ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137241" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137241" target="_blank">10.1016/j.conbuildmat.2024.137241</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-3264-856X" title="ORCID: 0009-0005-3264-856X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_jiaqi"><b>Duan</b>&nbsp;Jiaqi</a></span>, <a href="../../../author/sun_shouzheng"><b>Sun</b>&nbsp;Shouzheng</a></span>, <a href="../../../author/chi_shengfeng"><b>Chi</b>&nbsp;Shengfeng</a></span>, <a href="../../../author/hu_chunyou"><b>Hu</b>&nbsp;Chunyou</a></span>, <a href="../../../author/ling_chaowei"><b>Ling</b>&nbsp;Chaowei</a></span>, <a href="../../../author/fu_hongya"><b>Fu</b>&nbsp;Hongya</a></span>, <a href="../../../author/han_zhenyu"><b>Han</b>&nbsp;Zhenyu</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 438, No. 137241
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/duan_jiaqi"><b>Duan</b> Jiaqi</a> <a href="https://orcid.org/0009-0005-3264-856X" title="ORCID: 0009-0005-3264-856X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_shouzheng"><b>Sun</b> Shouzheng</a>
-,     <a href="../../../author/chi_shengfeng"><b>Chi</b> Shengfeng</a>
-,     <a href="../../../author/hu_chunyou"><b>Hu</b> Chunyou</a>
-,     <a href="../../../author/ling_chaowei"><b>Ling</b> Chaowei</a>
-,     <a href="../../../author/fu_hongya"><b>Fu</b> Hongya</a>
-,     <a href="../../../author/han_zhenyu"><b>Han</b> Zhenyu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 438, No. 137241
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#continuous`](keyword/continuous)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#form`](keyword/form)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#quality`](keyword/quality)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Process%20Parameters%20on%20Forming%20Quality%20and%20Flexural%20Strength%20of%20Continuous-Fiber-Reinforced%20Cement-Based%203D%20Printed%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197074458&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400145132" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137241" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137241?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Continuous fiber reinforced cement-based composites (CFRCCs) 3D printing technology holds promise for fabricating intricate components with enhanced mechanical properties, demonstrating significant technical potential. However, for this emerging technology, the relationship between process parameters and the performance of printed specimens remains unexplored. This study developed a novel CFRCCs 3D printing system to investigate, for the first time, the effect of process parameters on forming quality and flexural strength. Quantitative indexes were proposed to evaluate the extrudability and buildability of CFRCCs 3D printing. The experimental results showed that the printed lace displayed consistent width without interruptions, showcasing strong extrudability. Continuous fibers enhanced shape retention and improved stability during layer-by-layer stacking, demonstrating excellent buildability. Additionally, a one-factor experiment investigated the impact of printing speed, pumping flow rate, layer thickness, and nozzle diameter on the flexural strength of 3D printed CFRCCs. The results highlight the significant influence of process parameters on the flexural strength of printed specimens, indicating the necessity of appropriate parameter selection during CFRCCs 3D printing. Notably, the flexural strength of continuous fiber reinforced specimens (0.0218 % fiber volume fraction) exhibited a 27.7 % increase compared to unreinforced specimens under identical process parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "50 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alarrak_rashed"><b>Alarrak</b> Rashed</a>, <a href="../../../author/jeon_byeonguk"><b>Jeon</b> Byeonguk</a>, <a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../alar_jeon_bran.2023.FPoEFRMwPAF/">Fracture Properties of Extruded Fiber-Reinforced Mortar with Preferentially Aligned Fibers</a></li>
       <li><a href="../../../author/alarrak_rashed"><b>Alarrak</b> Rashed</a>, <a href="../../../author/jeon_byeonguk"><b>Jeon</b> Byeonguk</a>, <a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../alar_jeon_bran.2023.FToEFRMwPAF/">Flexural Toughness of Extruded Fiber-Reinforced Mortar with Preferentially Aligned Fibers</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -133,12 +102,43 @@ tags:
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/junjie_zhang"><b>Junjie</b> Zhang</a>, <a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI/">Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration</a></li>
       <li><a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b> P.</a>, <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b> G.</a>, <a href="../../../author/roy_dipankar"><b>Roy</b> Dipankar</a>, <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b> George</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../venu_nakk_roy_alan.2024.EtUoRFAi3P/">Evaluating the Use of Recycled Fine Aggregates in 3D Printing:<br/>A Systematic Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duan_sun_chi_hu.2024.EoPPoFQaFSoCFRCB3PC,
+      author            = "Jiaqi Duan and Shouzheng Sun and Shengfeng Chi and Chunyou Hu and Chaowei Ling and Hongya Fu and Zhenyu Han",
+      title             = "Effect of Process Parameters on Forming Quality and Flexural Strength of Continuous-Fiber-Reinforced Cement-Based 3D Printed Composites",
+      doi               = "10.1016/j.conbuildmat.2024.137241",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "438",
+      pages             = "137241",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Duan, “Effect of Process Parameters on Forming Quality and Flexural Strength of Continuous-Fiber-Reinforced Cement-Based 3D Printed Composites”, <i>Construction and Building Materials</i>, vol. 438, p. 137241, 2024, doi: 10.1016/j.conbuildmat.2024.137241.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Duan, Jiaqi, Shouzheng Sun, Shengfeng Chi, Chunyou Hu, Chaowei Ling, Hongya Fu, and Zhenyu Han. “Effect of Process Parameters on Forming Quality and Flexural Strength of Continuous-Fiber-Reinforced Cement-Based 3D Printed Composites”. <i>Construction and Building Materials</i> 438 (2024): 137241. https://doi.org/10.1016/j.conbuildmat.2024.137241.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #projection
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b> Laura</a>, <a href="../../../author/orobio_armando"><b>Orobio</b> Armando</a>, <a href="../../../author/campana_wilmer"><b>Campaña</b> Wilmer</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../hena_orob_camp.2026.BIiPACP/">BIM Integration in Prefabricated Additive Construction Projects:<br/>Case Study</a></li>
   <li><a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a>, <a href="../../../author/georgiou_ioulios"><b>Georgiou</b> Ioulios</a>, <a href="../../../author/carrasco-perez_emanuel_patricio"><b>Carrasco Pérez</b> Patricio</a>, <a href="../../../author/soria_romanella"><b>Soria</b> Romanella</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../band_geor_carr_sori.2025.DfACTDP/">Deployment for Additive Construction Through Digital Platforms:<br/>Gananoque Project as a Case Study</a></li>
   <li><a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>, <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>, <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../drag_sale_drag_hedj.2025.DViCPMU3P/">Design Validation in Construction Project Management Using 3D Printing</a></li>

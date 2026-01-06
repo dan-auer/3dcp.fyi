@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Giacomo Rizzieri, Liberato Ferrara, Massimiliano Cremonesi
+    - footer
+title: Rizzieri Giacomo, Ferrara Liberato, Cremonesi Massimiliano
 description:
 tags:
  - concrete
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s00466-023-02367-y.pdf) Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1007/s00466-023-02367-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00466-023-02367-y</a>
+#Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s00466-023-02367-y.pdf) <a href="https://doi.org/10.1007/s00466-023-02367-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00466-023-02367-y" target="_blank">10.1007/s00466-023-02367-y</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b>&nbsp;Giacomo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7885-029X" title="ORCID: 0000-0001-7885-029X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b>&nbsp;Massimiliano</a></span><br>
+Journal Article - Computational Mechanics
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> <a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="https://orcid.org/0000-0001-7885-029X" title="ORCID: 0000-0001-7885-029X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Computational Mechanics, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#deposition`](keyword/deposition)
-    [`#element`](keyword/element)
-    [`#extrusion`](keyword/extrusion)
-    [`#finite`](keyword/finite)
-    [`#layer`](keyword/layer)
-    [`#method`](keyword/method)
-    [`#numeric`](keyword/numeric)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20of%20the%20Extrusion%20and%20Layer-Deposition-Processes%20in%203D%20Concrete%20Printing%20with%20the%20Particle-Finite-Element-Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165691627&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385239672" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00466-023-02367-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00466-023-02367-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is a rapidly evolving technology that allows for the efficient and accurate construction of complex concrete objects. In this paper, a numerical modelling approach is presented for the simulation of the printing process of cementitious materials, based on the homogeneous fluid assumption. To cope with the large deformations of the domain and the nonlinearity resulting from the use of a non-Newtonian rheological law, the Navier–Stokes equations are solved in the framework of the Particle Finite Element Method (PFEM). Furthermore, tailored solutions have been formulated and implemented for the time-dependent moving boundary conditions at the nozzle outlet and for the efficient handling of the inter-layer contact in the same PFEM framework. The overall computational cost is decreased by the implementation of an adaptive de-refinement technique, which drastically reduces the number of degrees of freedom in time. The proposed modelling approach is finally validated by simulating the printing process of six rectilinear layers and one multi-layer “wall”. The results show good agreement with the experimental data and provide valuable insights into the printing process, paving the way for the use of numerical modelling tools for the optimization of materials and processes in the field of 3D Concrete Printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
       <li><a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../espo_casa_menn_aspr.2021.EACBo3PM/">Early-Age Creep Behavior of 3D Printable Mortars:<br/>Experimental Characterisation and Analytical Modelling</a></li>
@@ -82,15 +57,14 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ramyar_elham"><b>Ramyar</b> Elham</a>, <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ramy_cusa.2022.DFCMfSoOSCaPCF/">Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow</a></li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a></li>
-      <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../rizz_crem_ferr.2023.A2NMo3CPIT/">A 2D Numerical Model of 3D Concrete Printing Including Thixotropy</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../span_silv_comm_moll.2021.NSoML3CP/">Numerical Simulation of Multi-Layer 3D Concrete Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/liew_xiang_jia"><b>Liew</b> Jia</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../yu_zhan_liew_yin.2026.SMFaEDi3CP/">Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing</a></li>
       <li><a href="../../../author/niu_huaxian"><b>Niu</b> Huaxian</a>, <a href="../../../author/yu_bo"><b>Yu</b> Bo</a>, <a href="../../../author/hao_ji"><b>Hao</b> Ji</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../niu_yu_hao.2025.CBFFAoSNi3CP/">CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing</a></li>
@@ -114,4 +88,32 @@ tags:
       <li><a href="../../../author/lu_yue"><b>Lu</b> Yue</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_yan"><b>Li</b> Yan</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lu_xiao_li.2024.3PRCIPF/">3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../rizz_crem_ferr.2023.A2NMo3CPIT/">A 2D Numerical Model of 3D Concrete Printing Including Thixotropy</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rizz_ferr_crem.2023.NSotEaLDPi3CPwtPFEM,
+      author            = "Giacomo Rizzieri and Liberato Ferrara and Massimiliano Cremonesi",
+      title             = "Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method",
+      doi               = "10.1007/s00466-023-02367-y",
+      year              = "2023",
+      journal           = "Computational Mechanics",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Rizzieri, L. Ferrara and M. Cremonesi, “Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method”, <i>Computational Mechanics</i>, 2023, doi: 10.1007/s00466-023-02367-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rizzieri, Giacomo, Liberato Ferrara, and Massimiliano Cremonesi. “Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method”. <i>Computational Mechanics</i>, 2023. https://doi.org/10.1007/s00466-023-02367-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

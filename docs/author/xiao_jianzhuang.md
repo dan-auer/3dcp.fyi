@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Xiao Jianzhuang 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sing_zhao_sun.2025.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D-Printed Concrete Through Recycled Ultra-Fine Waste Glass Powder:<br/>Corrigendum</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_zhu_yu_xiao.2025.DTBoTDPSFRUPC/">Direct Tensile Behavior of Three-Dimensional-Printable Steel Fiber-Reinforced Ultrahigh Performance Concrete</a></li>
   <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/he_yao"><b>He</b> Yao</a>, <a href="../../../author/yu_miao"><b>Yu</b> Miao</a>, <a href="../../../author/wang_changhao"><b>Wang</b> Changhao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xiao_he_yu_wang.2025.EoPCMotPoM/">Effects of Pressurized CO2 Mixing on the Properties of Mortar</a></li>

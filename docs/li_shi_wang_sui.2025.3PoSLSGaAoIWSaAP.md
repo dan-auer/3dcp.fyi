@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Liqing Li, Zhenkun Shi, Lei Wang, Yi Sui, Banglu Xi
+    - footer
+title: Li Liqing, Shi Zhenkun, Wang Lei, Sui Yi, Xi Banglu
 description:
 tags:
  - analysis
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.jobe.2025.115099" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.115099</a>
+#3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.115099" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.115099" target="_blank">10.1016/j.jobe.2025.115099</a>
 
--------------------------
+<a href="../../../author/li_liqing"><b>Li</b>&nbsp;Liqing</a></span>, <a href="../../../author/shi_zhenkun"><b>Shi</b>&nbsp;Zhenkun</a></span>, <a href="../../../author/wang_lei"><b>Wang</b>&nbsp;Lei</a></span>, <a href="../../../author/sui_yi"><b>Sui</b>&nbsp;Yi</a></span>, <a href="../../../author/xi_banglu"><b>Xi</b>&nbsp;Banglu</a></span><br>
+Journal Article - Journal of Building Engineering, No. 115099
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_liqing"><b>Li</b> Liqing</a>
-,     <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>
-,     <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>
-,     <a href="../../../author/sui_yi"><b>Sui</b> Yi</a>
-,     <a href="../../../author/xi_banglu"><b>Xi</b> Banglu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 115099
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-    [`#soil`](keyword/soil)
-    [`#surface`](keyword/surface)
-    [`#weak`](keyword/weak)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/weak"><button class="btn">#weak</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Simulated%20Lunar%20Soil%20Geopolymer%20and%20Analysis%20of%20Its%20Weak%20Surface%20and%20Anisotropic%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7117251622" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.115099" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.115099?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D-printed simulated lunar soil geopolymer (SLSG) is a new type of building material that combines in-situ usage of lunar resources with intelligent construction. However, its anisotropic mechanical properties affect the performance and application potential of lunar buildings to a certain extent. In this study, we evaluated the anisotropic and interlayer bonding properties of 3D-printed SLSG based on compressive, flexural, and interlayer split tensile strengths. We analyzed the distribution of anisotropic weak surfaces of the 3D-printed SLSG via CT (Computed Tomography) scanning, MIP (Mercury Intrusion Porosimetry) , and SEM (Scanning Electron Microscope). The differences in the pore structure and microstructure between the 3D-printed and molded SLSG were comparatively analyzed to elucidate the intrinsic connection between the anisotropic mechanical behavior of the 3D-printed SLSG, its microstructural characteristics, and the generation of weak surfaces. This helps elucidate the inherent connection between the anisotropic mechanical behavior and microstructure of the 3D-printed SLSG, along with their intrinsic connection with the generation of these weak surfaces. The split tensile strengths of the 3D-printed SLSG L1-2 and L3-4 layers are 1.20 and 1.35 MPa, respectively, which vary significantly and are 30.1%–37.8% lower than those of the mold-cast ones. The facies porosity variations of the 3D-printed SLSGs exhibit significant anisotropic characteristics, and their weak surfaces are attributed to process defects, such as path gaps and weak interlayer bonding. The compressive strength and flexural strength of the 3D-printed SLSG along the X, Y, and Z directions are lower than that of the mold-cast SLSG. Consequently, the 28-d compressive strength along the X-axis direction is 65.8% of that of the mold-cast SLSG, and the anisotropy index of the 28-d compressive strength is 0.71, which is average for 3D-printed building materials. The anisotropy index of the 28-d flexural strength affected by the weak surface is 0.73. This study presents a good basis for analyzing the 3D printing of the lunar loam geopolymers. Furthermore, it presents a technical reference for analyzing the structural properties of 3D-printed SLSGs, along with a theoretical basis and new concepts for their optimal designs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
@@ -94,7 +70,36 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP,
+      author            = "Liqing Li and Zhenkun Shi and Lei Wang and Yi Sui and Banglu Xi",
+      title             = "3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance",
+      doi               = "10.1016/j.jobe.2025.115099",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "115099",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Li, Z. Shi, L. Wang, Y. Sui and B. Xi, “3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance”, <i>Journal of Building Engineering</i>, p. 115099, 2025, doi: 10.1016/j.jobe.2025.115099.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Liqing, Zhenkun Shi, Lei Wang, Yi Sui, and Banglu Xi. “3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance”. <i>Journal of Building Engineering</i>, 2025, 115099. https://doi.org/10.1016/j.jobe.2025.115099.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

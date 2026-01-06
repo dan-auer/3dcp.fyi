@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Hua, Yizhuo Liu, Ludger Hovestadt, Siyuan He, Xiuning Yao, Zixuan Peng, Yufei Zou, Bo Yang
+    - footer
+title: Hua Hao, Liu Yizhuo, Hovestadt Ludger, He Siyuan, Yao Xiuning, Peng Zixuan, Zou Yufei, Yang Bo
 description:
 tags:
  - base
@@ -19,39 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Digital Nervi:<br/>:aca-blank: Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1002/suco.70105" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.70105</a>
+#Digital Nervi&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.70105" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70105" target="_blank">10.1002/suco.70105</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5988-7767" title="ORCID: 0000-0001-5988-7767" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_hao"><b>Hua</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-6662-5101" title="ORCID: 0009-0006-6662-5101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_yizhuo"><b>Liu</b>&nbsp;Yizhuo</a></span>, <a href="../../../author/hovestadt_ludger"><b>Hovestadt</b>&nbsp;Ludger</a></span>, <a href="../../../author/he_siyuan"><b>He</b>&nbsp;Siyuan</a></span>, <a href="../../../author/yao_xiuning"><b>Yao</b>&nbsp;Xiuning</a></span>, <a href="../../../author/peng_zixuan"><b>Peng</b>&nbsp;Zixuan</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9921-7102" title="ORCID: 0009-0003-9921-7102" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_yufei"><b>Zou</b>&nbsp;Yufei</a></span>, <a href="../../../author/yang_bo"><b>Yang</b>&nbsp;Bo</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hua_hao"><b>Hua</b> Hao</a> <a href="https://orcid.org/0000-0001-5988-7767" title="ORCID: 0000-0001-5988-7767" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_yizhuo"><b>Liu</b> Yizhuo</a> <a href="https://orcid.org/0009-0006-6662-5101" title="ORCID: 0009-0006-6662-5101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hovestadt_ludger"><b>Hovestadt</b> Ludger</a>
-,     <a href="../../../author/he_siyuan"><b>He</b> Siyuan</a>
-,     <a href="../../../author/yao_xiuning"><b>Yao</b> Xiuning</a>
-,     <a href="../../../author/peng_zixuan"><b>Peng</b> Zixuan</a>
-,     <a href="../../../author/zou_yufei"><b>Zou</b> Yufei</a> <a href="https://orcid.org/0009-0003-9921-7102" title="ORCID: 0009-0003-9921-7102" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#formwork`](keyword/formwork)
-    [`#light`](keyword/light)
-    [`#nervi`](keyword/nervi)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#rib`](keyword/rib)
-    [`#slab`](keyword/slab)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/nervi"><button class="btn">#nervi</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Nervi" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003814668&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409823341" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.70105" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.70105?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The material efficiency of cast-in-situ concrete floor slabs can be significantly improved through topology optimization and 3D-printed formwork. The isostatic ribbed slab (IRS), a legacy of Pier Luigi Nervi, aligns the ribs with the isostatic lines of the principal bending moments. This work introduces the Functional IRS as a cast-in-situ lightweight concrete slab system using 3D-printed permanent formwork. The Functional IRS serves as a compact functional ceiling plenum that integrates skylights and building devices such as air ducts. To create openings in ribs, the coupled pods (formwork) were developed to comply with the material-extrusion 3D concrete printing (3DCP) process. A 1:5 scale mockup with curved supporting walls was constructed to verify the feasibility of the construction method. With supports of irregular shape, optimized IRS saves about 30% of the material compared to grid slab. The lightweight ‘digital Nervi’ slab presents a holistic response to global low-carbon concerns by integrating computational optimization and additive manufacturing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/asensio_javier"><b>Asensio</b> Javier</a>, <a href="../../../author/josa_irene"><b>Josa</b> Irene</a>, <a href="../../../author/monserrat_andrea"><b>Monserrat</b> Andrea</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../asen_josa_mons_fuen.2023.3PCF/">3D‐Printed Concrete Footbridges:<br/>An Approach to Assess the Sustainability Performance</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
@@ -108,8 +80,36 @@ tags:
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zuo_qinxin"><b>Zuo</b> Qinxin</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yu_zuo_zhan_pan.2024.AIoEtBPo3PCPFaPCC/">An Investigation on Enhancing the Bonding Properties of 3D Printed Concrete Permanent Formwork and Post-Casted Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hua_liu_hove_he.2025.DN,
+      author            = "Hao Hua and Yizhuo Liu and Ludger Hovestadt and Siyuan He and Xiuning Yao and Zixuan Peng and Yufei Zou and Bo Yang",
+      title             = "Digital Nervi: Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork",
+      doi               = "10.1002/suco.70105",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Hua, “Digital Nervi: Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.70105.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hua, Hao, Yizhuo Liu, Ludger Hovestadt, Siyuan He, Xiuning Yao, Zixuan Peng, Yufei Zou, and Bo Yang. “Digital Nervi: Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.70105.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

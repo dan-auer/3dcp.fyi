@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Zafar, Adnan Shahid, Reza Sedghi, Maryam Hojati
+    - footer
+title: Zafar Muhammad, Shahid Adnan, Sedghi Reza, Hojati Maryam
 description:
 tags:
  - additive
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimization of Biopolymer Additives for 3D Printable Cementitious Systems:<br/>:aca-blank: A Design of Experiment Approach ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04515" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04515</a>
+#Optimization of Biopolymer Additives for 3D Printable Cementitious Systems&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">A Design of Experiment Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2025.e04515" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04515" target="_blank">10.1016/j.cscm.2025.e04515</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/shahid_adnan"><b>Shahid</b>&nbsp;Adnan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sedghi_reza"><b>Sedghi</b>&nbsp;Reza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04515
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> <a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shahid_adnan"><b>Shahid</b> Adnan</a>
-,     <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a> <a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04515
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#approach`](keyword/approach)
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#experiment`](keyword/experiment)
-    [`#optimization`](keyword/optimization)
-    [`#printability`](keyword/printability)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Biopolymer%20Additives%20for%203D%20Printable%20Cementitious%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000587064&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408287646" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04515" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04515?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study delves into the utilization of biopolymers in the burgeoning domain of 3D concrete printing. Diverging from traditional oil-based chemical admixtures, the potential of biodegradable additives, including corn starch (CCS), methylcellulose (MC), and xanthan gum (XG), as rheology modifiers were explored. To address this challenge, a response surface methodology was employed to achieve optimized mixes with different combinations of these biopolymers with superior rheology and printability. The response surface methodology suggested a hundred different optimized combinations. Four of them were selected based on their rheological parameters for further evaluation. These mixes are defined as M1 (CCS-2%, MC-2%, XG-2%), M2 (CCS-0%, MC-2%, XG-2%), M3 (CCS-1.67%, MC-1.69%, XG-1.12%), and M4 (CCS-1.92%, MC-1.34%, XG-1.35%) based on different contents of CCS, MC, and XG. Non-contacting digital image correlation was employed to assess the buildability and green strength of the optimized mixes. The results revealed that these rheology modifiers tailored the rheology, green strength and printability parameters (extrudability, buildability), which affirmed the efficacy of biopolymers in additive concrete manufacturing. However, the higher contents (2%) of MC and XG displayed retarding effects resulting in the slower development of green strength even at t=60 and t=90 mins. The peak stress values for green strength at t=90 mins were recorded as 0.594, 0.728, 1.628, and 1.331 kPa for optimized mixes M1, M2, M3, and M4, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
@@ -102,9 +81,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>
-      <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zafa_shah_sedg_hoja.2025.OoBAf3PCS,
+      author            = "Muhammad Saeed Zafar and Adnan Shahid and Reza Sedghi and Maryam Hojati",
+      title             = "Optimization of Biopolymer Additives for 3D Printable Cementitious Systems: A Design of Experiment Approach",
+      doi               = "10.1016/j.cscm.2025.e04515",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04515",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. S. Zafar, A. Shahid, R. Sedghi and M. Hojati, “Optimization of Biopolymer Additives for 3D Printable Cementitious Systems: A Design of Experiment Approach”, <i>Case Studies in Construction Materials</i>, p. e04515, 2025, doi: 10.1016/j.cscm.2025.e04515.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zafar, Muhammad Saeed, Adnan Shahid, Reza Sedghi, and Maryam Hojati. “Optimization of Biopolymer Additives for 3D Printable Cementitious Systems: A Design of Experiment Approach”. <i>Case Studies in Construction Materials</i>, 2025, e04515. https://doi.org/10.1016/j.cscm.2025.e04515.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

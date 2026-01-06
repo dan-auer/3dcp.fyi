@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: AlaEddin Douba, Palash Badjatya, Shiho Kawashima
+    - footer
+title: Douba AlaEddin, Badjatya Palash, Kawashima Shiho
 description:
 tags:
  - carbonation
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Enhancing Carbonation and Strength of MgO Cement Through 3D Printing ([2022-03](date/2022/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.126867" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.126867</a>
+#Enhancing Carbonation and Strength of MgO Cement Through 3D Printing ([2022-03](date/2022/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.conbuildmat.2022.126867" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.126867" target="_blank">10.1016/j.conbuildmat.2022.126867</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/douba_alaeddin"><b>Douba</b>&nbsp;AlaEddin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3505-7918" title="ORCID: 0000-0002-3505-7918" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/badjatya_palash"><b>Badjatya</b>&nbsp;Palash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 328
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a> <a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a> <a href="https://orcid.org/0000-0002-3505-7918" title="ORCID: 0000-0002-3505-7918" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 328, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#enhancement`](keyword/enhancement)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Carbonation%20and%20Strength%20of%20MgO%20Cement%20Through%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126604987&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4220817108" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.126867" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.126867?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Magnesium oxide (MgO), which develops physical strength through carbonation, is a potential alternative to carbon intensive Portland cement. In this paper, we examined whether 3D printing could improve carbonation and compressive strength. The rheology of MgO paste was modified using mixtures of nanoclays and methylcellulose to produce cylinders with exposed open-to-air and closed (solid) infills. The results showed significant increases in strength at 3 and 28 days compared to conventionally cast specimens. This was attributed to higher exposed surface area and increase in porosity caused by high early water evaporation, both of which led to higher CO2 intake.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
@@ -93,8 +75,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
       <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../maie_armi_sesh_carc.2025.LBGSKREC/">Locust Bean Gum–Stabilized Kaolin-Rich Earthen Composites:<br/>From On-Land to Underwater 3D Printing</a></li>
@@ -119,4 +101,33 @@ tags:
       <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/mikofsky_a_rebecca"><b>Mikofsky</b> Rebecca</a>, <a href="../../../author/huang_qiqi"><b>Huang</b> Qiqi</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../maie_armi_miko_huan.2024.Ra3PoABSEC/">Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete</a></li>
       <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/zhou_junhui"><b>Zhou</b> Junhui</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pi_lu_li_zhou.2023.CPaFMo3PECC3EUBL/">Crack Propagation and Failure Mechanism of 3D Printing Engineered Cementitious Composites (3DP-ECC) Under Bending Loads</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{doub_badj_kawa.2022.ECaSoMCT3P,
+      author            = "AlaEddin Douba and Palash Badjatya and Shiho Kawashima",
+      title             = "Enhancing Carbonation and Strength of MgO Cement Through 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2022.126867",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "328",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Douba, P. Badjatya and S. Kawashima, “Enhancing Carbonation and Strength of MgO Cement Through 3D Printing”, <i>Construction and Building Materials</i>, vol. 328, 2022, doi: 10.1016/j.conbuildmat.2022.126867.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Douba, AlaEddin, Palash Badjatya, and Shiho Kawashima. “Enhancing Carbonation and Strength of MgO Cement Through 3D Printing”. <i>Construction and Building Materials</i> 328 (2022). https://doi.org/10.1016/j.conbuildmat.2022.126867.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

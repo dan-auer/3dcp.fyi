@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Albanela Dulaj, Theo Salet, Sandra Lucas
+    - footer
+title: Dulaj Albanela, Salet Theo, Lucas Sandra
 description:
 tags:
  - concrete
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e02913) A Study of the Effects of MWCNTs on the Fresh and Hardened State Properties of 3D Printable Concrete ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.cscm.2024.e02913" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e02913</a>
+#A Study of the Effects of MWCNTs on the Fresh and Hardened State Properties of 3D Printable Concrete ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e02913) <a href="https://doi.org/10.1016/j.cscm.2024.e02913" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02913" target="_blank">10.1016/j.cscm.2024.e02913</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8304-4716" title="ORCID: 0000-0002-8304-4716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dulaj_albanela"><b>Dulaj</b>&nbsp;Albanela</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e02913
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a> <a href="https://orcid.org/0000-0002-8304-4716" title="ORCID: 0000-0002-8304-4716" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e02913
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Study%20of%20the%20Effects%20of%20MWCNTs%20on%20the%20Fresh%20and%20Hardened%20State%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185514083&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391255965" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e02913" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e02913?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Much research in 3D concrete printing focuses on material design and testing new additives to improve performance. However, there are very few examples of studies using carbon nanomaterials to improve mechanical performance and create smart mortars with self-sensing capabilities. 3D concrete printing is a new technology that focuses on optimizing the building industry, a composition able to monitor structural health can provide important insights into stress levels and microcrack concentration in critical structural parts. In this study, multi-walled carbon nanotubes (MWCNTs) were embedded in a printable concrete, and its self-sensing ability was investigated. Four compositions with different concentrations of MWCNTs were prepared to assess the porosity distribution and mechanical properties in the fresh and hardened states. To evaluate the self-sensing ability of the material, the change in conductivity was measured using a resistivity meter with a four-point Wenner probe, while the material was tested under compression and tension. The results showed that porosity, strongly influenced by the distribution of nanomaterials in the matrix, had a significant effect on the fresh and hardened state behavior and self-sensing ability of the compositions, and the composition with better self-sensing capabilities was the one with a MWCNTs content of 0.5% per binder content.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -86,11 +66,40 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-sousa_nilton_israel"><b>Lopes Sousa</b> Israel</a>, <a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lope_liu_ales_lafl.2025.PPo3PCCDwCM/">Piezoresistive Performance of 3D Printed Cementitious Composites Doped with Carbon Microfibers</a></li>
       <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a>, <a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a>, <a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a>, <a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nan_qiao_leng_bai.2025.ASRi3PC/">Advancing Structural Reinforcement in 3D Printed Concrete:<br/>Current Methods, Challenges, and Innovations</a></li>
       <li><a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/mesquita_esequiel"><b>Mesquita</b> Esequiel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sous_ales_mesq_lafl.2024.CRo3PCCwCI/">Comprehensive Review of 3D Printed Cementitious Composites with Carbon Inclusions:<br/>Current Status and Perspective for Self-Sensing Capabilities</a></li>
       <li><a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a>, <a href="../../../author/peeters_sef"><b>Peeters</b> Sef</a>, <a href="../../../author/poorsolhjouy_payam"><b>Poorsolhjouy</b> Payam</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dula_peet_poor_sale.2024.CAaNMotECo3PCNTCNC/">Combined Analytical and Numerical Modelling of the Electrical Conductivity of 3D Printed Carbon-Nano-Tube-Cementitious-Nano-Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dula_sale_luca.2024.ASotEoMotFaHSPo3PC,
+      author            = "Albanela Dulaj and Theo A. M. Salet and Sandra Simaria de Oliveira Lucas",
+      title             = "A Study of the Effects of MWCNTs on the Fresh and Hardened State Properties of 3D Printable Concrete",
+      doi               = "10.1016/j.cscm.2024.e02913",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e02913",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Dulaj, T. A. M. Salet and S. S. de Oliveira Lucas, “A Study of the Effects of MWCNTs on the Fresh and Hardened State Properties of 3D Printable Concrete”, <i>Case Studies in Construction Materials</i>, p. e02913, 2024, doi: 10.1016/j.cscm.2024.e02913.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dulaj, Albanela, Theo A. M. Salet, and Sandra Simaria de Oliveira Lucas. “A Study of the Effects of MWCNTs on the Fresh and Hardened State Properties of 3D Printable Concrete”. <i>Case Studies in Construction Materials</i>, 2024, e02913. https://doi.org/10.1016/j.cscm.2024.e02913.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

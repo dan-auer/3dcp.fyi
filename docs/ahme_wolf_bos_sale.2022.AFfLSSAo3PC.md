@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zeeshan Ahmed, Robert Wolfs, Freek Bos, Theo Salet
+    - footer
+title: Ahmed Zeeshan, Wolfs Robert, Bos Freek, Salet Theo
 description:
 tags:
  - application
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tib-op.org/ojs/index.php/ocp/article/download/74/246) A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>:aca-blank: The Case of a 29m Bridge in the Netherlands ([2021-11](date/2021/11))
-<a href="https://doi.org/10.52825/ocp.v1i.74" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v1i.74</a>
+#A Framework for Large-Scale Structural Applications of 3D Printed Concrete&nbsp;([2021-11](date/2021/11))
+<div class="h1-like">The Case of a 29m Bridge in the Netherlands</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/74/246) <a href="https://doi.org/10.52825/ocp.v1i.74" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.74" target="_blank">10.52825/ocp.v1i.74</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b>&nbsp;Zeeshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
+Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 5-19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 5-19
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#bridge`](keyword/bridge)
-    [`#case`](keyword/case)
-    [`#concrete`](keyword/concrete)
-    [`#framework`](keyword/framework)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Framework%20for%20Large-Scale%20Structural%20Applications%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4212798202" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v1i.74" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v1i.74?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this work, a framework for large-scale structural applications of 3D printed concrete is presented, which serves as an important step to develop a regulatory basis for approval in the Netherlands. The steps in this framework, consisting of a design phase, testing phase and manufacturing phase, towards a final output were presented and discussed theoretically. The framework was then applied to the case of a 29 m 3D printed bridge, funded by Rijkswaterstaat Major Projects and Maintenance, constructed in the Netherlands. The full application of the framework illustrates that despite the absence of standards, it is possible to safely apply 3D printed structures in practice. With the gradual increase of testing data expected to become available over the coming years, the extent of the application of the framework can be reduced step-by-step.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hermens_j_lex"><b>Hermens</b> Lex</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bos_wolf_ahme_herm.2019.TIoMTotIPSaSoa3PM/">The Influence of Material Temperature on the In-Print Strength and Stability of a 3D Print Mortar</a></li>
@@ -84,8 +62,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
@@ -120,4 +98,35 @@ tags:
       <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../hass_bos_sale.2022.CtBPoAPHRi3PC/">Characterizing the Bond Properties of Automatically Placed Helical Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{ahme_wolf_bos_sale.2022.AFfLSSAo3PC,
+      author            = "Zeeshan Yunus Ahmed and Robert Johannes Maria Wolfs and Freek Paul Bos and Theo A. M. Salet",
+      title             = "A Framework for Large-Scale Structural Applications of 3D Printed Concrete: The Case of a 29m Bridge in the Netherlands",
+      doi               = "10.52825/ocp.v1i.74",
+      year              = "2022",
+      volume            = "1",
+      pages             = "5--19",
+      booktitle         = "Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures",
+      editor            = "Deutsche Forschungsgemeinschaft",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Y. Ahmed, R. J. M. Wolfs, F. P. Bos and T. A. M. Salet, “A Framework for Large-Scale Structural Applications of 3D Printed Concrete: The Case of a 29m Bridge in the Netherlands”, in <i>Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures</i>,  2022, vol. 1, pp. 5–19. doi: 10.52825/ocp.v1i.74.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahmed, Zeeshan Yunus, Robert Johannes Maria Wolfs, Freek Paul Bos, and Theo A. M. Salet. “A Framework for Large-Scale Structural Applications of 3D Printed Concrete: The Case of a 29m Bridge in the Netherlands”. In <i>Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures</i>, edited by Deutsche Forschungsgemeinschaft, 1:5–19, 2022. https://doi.org/10.52825/ocp.v1i.74.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

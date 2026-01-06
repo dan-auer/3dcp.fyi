@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianzhuang Xiao, Haoran Liu, Tao Ding, Kequan Yu, Lihai Zhang, Xuwen Xiao, Hehua Zhu
+    - footer
+title: Xiao Jianzhuang, Liu Haoran, Ding Tao, Yu Kequan, Zhang Lihai, Xiao Xuwen, Zhu Hehua
 description:
 tags:
  - challenge
@@ -14,33 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rebar-Free Concrete Construction:<br/>:aca-blank: Concept, Opportunities and Challenges ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.jobe.2024.108933" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108933</a>
+#Rebar-Free Concrete Construction&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">Concept, Opportunities and Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108933" target="_blank">10.1016/j.jobe.2024.108933</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_haoran"><b>Liu</b>&nbsp;Haoran</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1282-992X" title="ORCID: 0000-0002-1282-992X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_lihai"><b>Zhang</b>&nbsp;Lihai</a></span>, <a href="../../../author/xiao_xuwen"><b>Xiao</b>&nbsp;Xuwen</a></span>, <a href="../../../author/zhu_hehua"><b>Zhu</b>&nbsp;Hehua</a></span><br>
+Journal Article - Journal of Building Engineering, No. 108933
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> <a href="https://orcid.org/0000-0003-1883-2385" title="ORCID: 0000-0003-1883-2385" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> <a href="https://orcid.org/0000-0002-1282-992X" title="ORCID: 0000-0002-1282-992X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_xuwen"><b>Xiao</b> Xuwen</a>
-,     <a href="../../../author/zhu_hehua"><b>Zhu</b> Hehua</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 108933
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concept`](keyword/concept)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#opportunity`](keyword/opportunity)
-    [`#rebar`](keyword/rebar)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rebar-Free%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186717654&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392245061" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108933" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108933?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To tackle the challenges associated with traditional reinforced concrete structures, such as labor-intensive construction and durability deterioration over time, this paper proposes an innovative concept called rebar-free concrete construction (RFCC) and explores its potential for future development. Three key aspects of RFCC, including materials, structures, and construction technologies, are comprehensively investigated in this study. It reveals that fiber-reinforced concrete is a promising material for RFCC as it addresses challenges related to load-carrying capacity, ductility, and compatibility with construction technologies, and reduces labor and enables construction in extreme conditions, such as lunar construction. In addition, it shows that bio-inspired structures and optimized designs can significantly contribute to RFCC through offering a balance between architectural aesthetics, load capacity, ductility, and construction efficiency. Furthermore, the paper proposes a design path for RFCC and presents its development prospects. In summary, this paper provides a comprehensive understanding of the innovative concept of RFCC and its potential for future developments. By exploring these aspects of RFCC, researchers and engineers can work towards developing sustainable and resilient construction solutions for the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "50 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albalawi_i_hamed"><b>Albalawi</b> Hamed</a>, <a href="../../../author/khan_n_zainab"><b>Khan</b> Zainab</a>, <a href="../../../author/valle-perez_uriel_alexander"><b>Valle-Pérez</b> Alexander</a>, <a href="../../../author/kahin_m_kowther"><b>Kahin</b> Kowther</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../alba_khan_vall_kahi.2021.SaEFCRT3PaF/">Sustainable and Eco-Friendly Coral Restoration Through 3D Printing and Fabrication</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -117,8 +95,37 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xiao_liu_ding_yu.2024.RFCC,
+      author            = "Jianzhuang Xiao and Haoran Liu and Tao Ding and Kequan Yu and Lihai Zhang and Xuwen Xiao and Hehua Zhu",
+      title             = "Rebar-Free Concrete Construction: Concept, Opportunities and Challenges",
+      doi               = "10.1016/j.jobe.2024.108933",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "108933",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Xiao, “Rebar-Free Concrete Construction: Concept, Opportunities and Challenges”, <i>Journal of Building Engineering</i>, p. 108933, 2024, doi: 10.1016/j.jobe.2024.108933.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xiao, Jianzhuang, Haoran Liu, Tao Ding, Kequan Yu, Lihai Zhang, Xuwen Xiao, and Hehua Zhu. “Rebar-Free Concrete Construction: Concept, Opportunities and Challenges”. <i>Journal of Building Engineering</i>, 2024, 108933. https://doi.org/10.1016/j.jobe.2024.108933.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

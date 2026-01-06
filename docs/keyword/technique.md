@@ -8,7 +8,7 @@ search:
 
 # #technique
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
   <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
   <li><a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b> Rajesh</a>, <a href="../../../author/pande_b_prashant"><b>Pande</b> Prashant</a>, <a href="../../../author/madurwar_v_kamlesh"><b>Madurwar</b> Kamlesh</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bhag_pand_madu_raut.2025.LCAo3PBMTSDOaEIAUCIT/">Life Cycle Assessment of 3D-Printed Building Materials Towards Sustainability-Driven Optimization and Environmental Impact Analysis Using Computational Intelligence Techniques</a></li>

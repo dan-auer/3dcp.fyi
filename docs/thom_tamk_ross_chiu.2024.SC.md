@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mette Thomsen, Martin Tamke, Gabriella Rossi, Ruxandra-Stefania Chiujdea, Kate Heywood, Maria Sparre-Petersen, Paul Nicholas
+    - footer
+title: Thomsen Mette, Tamke Martin, Rossi Gabriella, Chiujdea Ruxandra-Stefania, Heywood Kate, Sparre-Petersen Maria, Nicholas Paul
 description:
 tags:
  - additive
@@ -15,34 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sustainable Construction:<br/>:aca-blank: Additive Manufacturing in a Circular Design Framework ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1201/9781003403890-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1201/9781003403890-1</a>
+#Sustainable Construction&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Additive Manufacturing in a Circular Design Framework</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003403890-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003403890-1" target="_blank">10.1201/9781003403890-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3093-8556" title="ORCID: 0000-0002-3093-8556" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b>&nbsp;Mette</a></span>, <a href="../../../author/tamke_martin"><b>Tamke</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0746-1566" title="ORCID: 0000-0003-0746-1566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rossi_gabriella"><b>Rossi</b>&nbsp;Gabriella</a></span>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b>&nbsp;Ruxandra-Stefania</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7015-5783" title="ORCID: 0000-0002-7015-5783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heywood_kate"><b>Heywood</b>&nbsp;Kate</a></span>, <a href="../../../author/sparre-petersen_maria"><b>Sparre-Petersen</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span><br>
+Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 1-27
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b> Mette</a> <a href="https://orcid.org/0000-0002-3093-8556" title="ORCID: 0000-0002-3093-8556" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tamke_martin"><b>Tamke</b> Martin</a>
-,     <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a> <a href="https://orcid.org/0000-0003-0746-1566" title="ORCID: 0000-0003-0746-1566" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a>
-,     <a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a> <a href="https://orcid.org/0000-0002-7015-5783" title="ORCID: 0000-0002-7015-5783" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sparre-petersen_maria"><b>Sparre-Petersen</b> Maria</a>
-,     <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 1-27
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#circular`](keyword/circular)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#framework`](keyword/framework)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401514090" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1201/9781003403890-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1201/9781003403890-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The chapter underscores the urgent need for circular architectural practices amid escalating environmental concerns. It highlights how additive manufacturing and 3D construction can incorporate circular material practices and become relevant for fostering circularity within the built environment. The paper situates 3D printing processes in the current circular frameworks and proposes means to overcome the present downcycling of waste streams in construction and instead upcycle materials into novel building components. The chapter addresses key challenges in conceptualizing, implementing, and assessing circularity-driven strategies. Through in-depth analysis of two comprehensive case studies conducted at the Centre for IT and Architecture (CITA), the chapter provides a nuanced exploration of 3D printing's potential to fabricate architectural elements using recycled materials, with a focus on glass and lignocellulosic biopolymers. Positioned strategically within the overarching circular design framework, these case studies elucidate the complex dynamics between material sourcing, fabrication methodologies, and final performance characteristics. By proposing innovative approaches to material procurement, waste utilization, and the establishment of closed-loop material cycles, the chapter makes a significant contribution to advancing sustainable building paradigms. It offers invaluable insights into the transformative capabilities of 3D printing technologies in architecture, setting a precedent for future endeavours in environmentally conscious construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
@@ -79,7 +56,37 @@ tags:
       <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../roux_kuzm_rous_mesn.2022.LCAoaC3PP/">Life Cycle Assessment of a Concrete 3D Printing Process</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{thom_tamk_ross_chiu.2024.SC,
+      author            = "Mette Ramsgaard Thomsen and Martin Tamke and Gabriella Rossi and Ruxandra-Stefania Chiujdea and Kate Heywood and Maria Sparre-Petersen and Paul Nicholas",
+      title             = "Sustainable Construction: Additive Manufacturing in a Circular Design Framework",
+      doi               = "10.1201/9781003403890-1",
+      year              = "2024",
+      pages             = "1--27",
+      booktitle         = "3D Printing for Construction in the Transformation of the Building Industry",
+      editor            = "Bárbara Rangel and Ana Sofia Guimarães and João Teixeira",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Thomsen, “Sustainable Construction: Additive Manufacturing in a Circular Design Framework”, in <i>3D Printing for Construction in the Transformation of the Building Industry</i>,  2024, pp. 1–27. doi: 10.1201/9781003403890-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Thomsen, Mette Ramsgaard, Martin Tamke, Gabriella Rossi, Ruxandra-Stefania Chiujdea, Kate Heywood, Maria Sparre-Petersen, and Paul Nicholas. “Sustainable Construction: Additive Manufacturing in a Circular Design Framework”. In <i>3D Printing for Construction in the Transformation of the Building Industry</i>, edited by Bárbara Rangel, Ana Sofia Guimarães, and João Teixeira, 1–27, 2024. https://doi.org/10.1201/9781003403890-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

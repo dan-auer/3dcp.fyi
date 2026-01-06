@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: S. Santhosh, Benny Raphael, Manu Santhanam
+    - footer
+title: Santhosh S., Raphael Benny, Santhanam Manu
 description:
 tags:
  - beam
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1061/jaeied.aeeng-1942" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jaeied.aeeng-1942</a>
+#Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeied.aeeng-1942" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-1942" target="_blank">10.1061/jaeied.aeeng-1942</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1584-7434" title="ORCID: 0000-0003-1584-7434" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhosh_gokul_s"><b>Santhosh</b>&nbsp;S.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raphael_benny"><b>Raphael</b>&nbsp;Benny</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span><br>
+Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a> <a href="https://orcid.org/0000-0003-1584-7434" title="ORCID: 0000-0003-1584-7434" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#incorporation`](keyword/incorporation)
-    [`#inspiration`](keyword/inspiration)
-    [`#lattice`](keyword/lattice)
-    [`#optimization`](keyword/optimization)
-    [`#pattern`](keyword/pattern)
-    [`#print`](keyword/print)
-    [`#shape`](keyword/shape)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%203D%20Printing%20of%20Shape-Optimized%20Lattice%20Beams%20Incorporating%20Nature-Inspired%20Patterns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005571371&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410453888" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jaeied.aeeng-1942" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jaeied.aeeng-1942?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advent of concrete three-dimensional (3D) printing has opened new frontiers in architectural design, offering unprecedented geometric freedom and potential for material efficiency. While 3D-printed lattice beams are known for minimizing material usage, most current research has focused only on traditional repetitive patterns. Organic forms and patterns found in nature have not been deeply explored for 3D-printed concrete lattice beams. This paper investigates the potential material savings of using nature-inspired Voronoi patterns in concrete 3D-printed beams, comparing them with conventional patterns in shape-optimized lattice beams. 3D-printable lattice beams with various infill patterns are generated using a parametric design system and optimized using genetic algorithm. The design system varies geometric model parameters within specified ranges, and each configuration is analyzed using a finite-element software. The analysis results are used by the genetic algorithm to optimize the member sizes, orientation, and other case-specific geometric parameters (depending on the type of beam) to minimize material usage, while satisfying the relevant constraints. A small-scale beam of 700 mm span is 3D-printed and tested under center-point loading to validate the system, demonstrating practical feasibility. The findings indicate that concrete 3D printing can effectively incorporate nature-inspired patterns in shape-optimized structures, opening new avenues for architectural design and material resource efficiency.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
@@ -89,7 +67,37 @@ tags:
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zafa_bakh_hoja.2022.T3PECC/">Toward 3D Printable Engineered Cementitious Composites:<br/>Mix-Design Proportioning, Flowability, and Mechanical Performance</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sant_raph_sant.2025.C3PoSOLBINIP,
+      author            = "S. Gokul Santhosh and Benny Raphael and Manu Santhanam",
+      title             = "Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns",
+      doi               = "10.1061/jaeied.aeeng-1942",
+      year              = "2025",
+      journal           = "Journal of Architectural Engineering",
+      volume            = "31",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. G. Santhosh, B. Raphael and M. Santhanam, “Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns”, <i>Journal of Architectural Engineering</i>, vol. 31, no. 3, 2025, doi: 10.1061/jaeied.aeeng-1942.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Santhosh, S. Gokul, Benny Raphael, and Manu Santhanam. “Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns”. <i>Journal of Architectural Engineering</i> 31, no. 3 (2025). https://doi.org/10.1061/jaeied.aeeng-1942.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

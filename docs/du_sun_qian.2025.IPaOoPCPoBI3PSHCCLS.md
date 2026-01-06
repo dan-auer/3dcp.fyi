@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guoqiang Du, Yan Sun, Ye Qian
+    - footer
+title: Du Guoqiang, Sun Yan, Qian Ye
 description:
 tags:
  - bio
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106070" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106070</a>
+#In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106070" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106070" target="_blank">10.1016/j.cemconcomp.2025.106070</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_guoqiang"><b>Du</b>&nbsp;Guoqiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106070
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> <a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yan"><b>Sun</b> Yan</a> <a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106070
-
-:aca-blank:{ .lg .middle}
-    [`#bio`](keyword/bio)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#compression`](keyword/compression)
-    [`#hardened`](keyword/hardened)
-    [`#inspiration`](keyword/inspiration)
-    [`#lattice`](keyword/lattice)
-    [`#performance`](keyword/performance)
-    [`#plane`](keyword/plane)
-    [`#strain`](keyword/strain)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Plane%20and%20Out-of-Plane%20Compressive%20Performance%20of%20Bio-Inspired%203D%20Printed%20Strain-Hardening%20Cementitious%20Composite%20Lattice%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001591584&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408960568" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106070" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106070?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Porous lattice structures are widely used in energy absorption applications due to their excellent energy absorption characteristics. Strain-hardening cementitious composites (SHCC) are promising materials for 3D printed concrete. Inspired by the slender stems of Elytrigia repens, this study designed and fabricated five different types of 3D printed porous lattice SHCC structures: triangular, rectangular, regular honeycomb, auxetic honeycomb, and circular. Compressive tests were conducted in both the in-plane and out-of-plane directions to evaluate their compressive behavior. Compared to the mold-cast solid specimens, the printed porous lattice specimens exhibited superior energy absorption capacity and ductility. Under in-plane loading, the ductility factor of the printed specimens was 3.03 to 7.47 times higher than that of the mold-cast specimens; while under out-of-plane loading, the specific energy absorption was 1.41 to 2.57 times higher. A finite element model (FEM) was developed to simulate the compressive behavior of the 3D printed porous lattice SHCC structures, using the concrete plastic damage model and cohesive elements. Based on the developed FEM, the relative density of the five structures was expanded, ranging from 0.31 to 0.79. A power law function was established based on the relative density to predict the mechanical performance of the bio-inspired 3D printed porous lattice SHCC structures. The coefficient of determination for the prediction model ranged from 0.77 to 0.99, with an average of 0.94, indicating that the model accurately reflects the mechanical performance trends of the structures and exhibits high accuracy and reliability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../du_qian.2024.EoPPaLDoFBo3PSHCC/">Effects of Printing-Patterns and Loading-Directions on Fracture Behavior of 3D Printed Strain-Hardening Cementitious Composites</a></li>
@@ -100,12 +76,42 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_muda.2025.3PPoSHCCwDUFiCwR/">3D Printing Performance of Strain-Hardening Cementitious Composites with Different UHMWPE Fibers in Correlation with Rheology</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sun_du_deng_qian.2025.EoNTotMPo3PUHPSHCCUS/">Effects of Nozzle Thickness on the Mechanical Properties of 3D Printable Ultra-High Performance Strain-Hardening Cementitious Composites (UHP-SHCC)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{du_sun_qian.2025.IPaOoPCPoBI3PSHCCLS,
+      author            = "Guoqiang Du and Yan Sun and Ye Qian",
+      title             = "In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures",
+      doi               = "10.1016/j.cemconcomp.2025.106070",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106070",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Du, Y. Sun and Y. Qian, “In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures”, <i>Cement and Concrete Composites</i>, p. 106070, 2025, doi: 10.1016/j.cemconcomp.2025.106070.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Du, Guoqiang, Yan Sun, and Ye Qian. “In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures”. <i>Cement and Concrete Composites</i>, 2025, 106070. https://doi.org/10.1016/j.cemconcomp.2025.106070.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

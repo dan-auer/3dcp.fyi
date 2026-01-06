@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Dey Dhrutiman 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>, <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../dey_pand_shuk_rawa.2025.ACAoTPo3PCLW/">A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls</a></li>
   <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/kumar_gaurav"><b>Kumar</b> Gaurav</a>, <a href="../../../author/prasad_durga_ventrapragada"><b>Prasad</b> Ventrapragada</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../dey_kuma_pras_pand.2025.EIoTPo3PSIwLCaI/">Experimental Investigation of Thermal Performance of 3D Printed Slab Infused with Lightweight Concrete as Insulation</a></li>
   <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kuma_dey_pand_muth.2025.IotNGoMPo3PC/">Influence of the Nozzle Geometry on Mechanical Properties of 3D Printed Concrete:<br/>Experiment and Finite Element Study</a></li>

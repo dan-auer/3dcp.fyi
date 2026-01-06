@@ -8,7 +8,7 @@ search:
 
 # #management
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>, <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>, <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../drag_sale_drag_hedj.2025.DViCPMU3P/">Design Validation in Construction Project Management Using 3D Printing</a></li>
   <li><a href="../../../author/sun_yifan"><b>Sun</b> Yifan</a>, <a href="../../../author/ma_siqi"><b>Ma</b> Siqi</a>, <a href="../../../author/chen_qingze"><b>Chen</b> Qingze</a>, <a href="../../../author/chen_guoliang"><b>Chen</b> Guoliang</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sun_ma_chen_chen.2025.LRSD3PGwOMaTMP/">Lunar Regolith Simulant-Derived 3D-Printed Geopolymers with Optimized Mechanical and Thermal Management Properties</a></li>
   <li><a href="../../../author/yue_hongzhe"><b>Yue</b> Hongzhe</a>, <a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/zhao_zixuan"><b>Zhao</b> Zixuan</a>, <a href="../../../author/lai_sha"><b>Lai</b> Sha</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yue_wang_zhao_lai.2025.IBBaR/">Interactions Between BIM and Robotics:<br/>Towards Intelligent Construction Engineering and Management</a></li>

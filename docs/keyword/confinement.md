@@ -8,7 +8,7 @@ search:
 
 # #confinement
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_wang_sun_sing.2025.CPaDEoCSCwSFSCbCFR3PM/">Compressive Performance and Damage Evolution of Concrete Short Columns with Shell-Filling Structure Confined by Continuous Fiber Reinforced 3D Printed Mortar</a></li>
   <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_li_wang_wang.2024.APotSRRCCbtSCR3CPPF/">Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork</a></li>
   <li><a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sun_li_liu_chen.2024.CPaDMoCSCCbSWR3/">Compressive Performance and Damage Mechanism of Concrete Short Columns Confined by Steel-Wires-Reinforced 3DPM</a></li>

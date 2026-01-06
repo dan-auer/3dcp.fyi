@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yonghong Zhang, Suping Cui, Bohao Yang, Xinxin Wang, Tao Liu
+    - footer
+title: Zhang Yonghong, Cui Suping, Yang Bohao, Wang Xinxin, Liu Tao
 description:
 tags:
  - base
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04254) Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04254" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04254</a>
+#Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning ([2025-01](date/2025/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04254) <a href="https://doi.org/10.1016/j.cscm.2025.e04254" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04254" target="_blank">10.1016/j.cscm.2025.e04254</a>
 
--------------------------
+<a href="../../../author/zhang_yonghong"><b>Zhang</b>&nbsp;Yonghong</a></span>, <a href="../../../author/cui_suping"><b>Cui</b>&nbsp;Suping</a></span>, <a href="../../../author/yang_bohao"><b>Yang</b>&nbsp;Bohao</a></span>, <a href="../../../author/wang_xinxin"><b>Wang</b>&nbsp;Xinxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1016-4191" title="ORCID: 0000-0003-1016-4191" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_tao"><b>Liu</b>&nbsp;Tao</a></span><br>
+Journal Article - Case Studies in Construction Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>
-,     <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>
-,     <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a>
-,     <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a>
-,     <a href="../../../author/liu_tao"><b>Liu</b> Tao</a> <a href="https://orcid.org/0000-0003-1016-4191" title="ORCID: 0000-0003-1016-4191" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#mechanics`](keyword/mechanics)
-    [`#model`](keyword/model)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20on%203D%20Printing%20Concrete%20Mechanical%20Properties-Prediction-Model%20Based%20on%20Machine-Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215390694&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406388727" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04254" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04254?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study proposes an effective machine learning-based prediction method to satisfy the urgent requirement to anticipate the mechanical properties of 3D-printed concrete. The goal is to support the accurate use of 3D printing technology in the building sector. We have successfully created machine learning models that can predict compressive strength and flexural strength by combining experimental data from a variety of 3D printed concrete samples and carefully preparing the data. Our study explores the fundamentals and practicality of several models, such as artificial neural networks, decision trees, random forests, support vector regression, and linear regression. We have made sure that our prediction findings are reliable and scientifically sound by implementing stringent model training and validation procedures. With a correlation coefficient between 0.96 and 0.98 with real values, experimental results demonstrate the random forest model's remarkable predicted accuracy, greatly beyond that of conventional prediction techniques. The practical use of 3D printed concrete in engineering projects is strengthened by this work, which also opens up new avenues for investigation and highlights the enormous potential of machine learning to improve the prediction of mechanical properties of building materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
@@ -91,17 +67,43 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wu_dinglue"><b>Wu</b> Dinglue</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zhang_shunxian"><b>Zhang</b> Shunxian</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wu_luo_long_zhan.2024.AC3PwPILBS/">Advancing Construction 3D Printing with Predictive Inter-Layer Bonding Strength:<br/>A Stacking Model Paradigm</a></li>
       <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a></li>
-      <li><a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>, <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>, <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a>, <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_cui_yang_wang.2025.Ro3PCMPPMBoML/">Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
       <li><a href="../../../author/asif_usama"><b>Asif</b> Usama</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../asif.2025.CAoECMfPMPoFR3PC/">Comparative Analysis of Evolutionary Computational Methods for Predicting Mechanical Properties of Fiber-Reinforced 3D Printed Concrete</a></li>
-      <li><a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>, <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>, <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a>, <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_cui_yang_wang.2025.Ro3PCMPPMBoML/">Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_cui_yang_wang.2025.Ro3PCMPPMBoML,
+      author            = "Yonghong Zhang and Suping Cui and Bohao Yang and Xinxin Wang and Tao Liu",
+      title             = "Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning",
+      doi               = "10.1016/j.cscm.2025.e04254",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, S. Cui, B. Yang, X. Wang and T. Liu, “Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning”, <i>Case Studies in Construction Materials</i>, 2025, doi: 10.1016/j.cscm.2025.e04254.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yonghong, Suping Cui, Bohao Yang, Xinxin Wang, and Tao Liu. “Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning”. <i>Case Studies in Construction Materials</i>, 2025. https://doi.org/10.1016/j.cscm.2025.e04254.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

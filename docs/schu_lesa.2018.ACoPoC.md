@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Geert Schutter, Karel Lesage
+    - footer
+title: Schutter Geert, Lesage Karel
 description:
 tags:
  - activation
@@ -13,27 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-018-1256-2.pdf) Active Control of Properties of Concrete:<br/>:aca-blank: A (P)Review ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1617/s11527-018-1256-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-018-1256-2</a>
+#Active Control of Properties of Concrete&nbsp;([2018-09](date/2018/09))
+<div class="h1-like">A (P)Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-018-1256-2.pdf) <a href="https://doi.org/10.1617/s11527-018-1256-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-018-1256-2" target="_blank">10.1617/s11527-018-1256-2</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesage_karel"><b>Lesage</b>&nbsp;Karel</a></span><br>
+Journal Article - Materials and Structures, Vol. 51, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="https://orcid.org/0000-0003-3891-7036" title="ORCID: 0000-0003-3891-7036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 51, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Active%20Control%20of%20Properties%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85053630547&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,21 +36,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2891728118" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-018-1256-2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-018-1256-2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete properties to a large extent depend on mix design and processing, currently leaving only limited options to actively modify concrete properties during or after casting. This paper gives a (p)review on a more advanced active control of properties of concrete, based on the application of external signals to trigger an intended response in the material, either in fresh or hardened state. Current practices in concrete industry that could be considered as active control are briefly summarized. More advanced active control mechanisms as studied in other fields, e.g. based on hydrogels and other functional polymers, are reviewed and some principles are listed. A specific focus is further given on potential methods for active rheology control. Based on the concepts developed in other fields, substantial progress could be made in order to achieve active control of fresh and hardened concrete properties. However, several challenges remain, like the stability and functioning of the responsive material in a cementitious environment, the applicability of the control signal in a cementitious material, and the economy, logistics and safety of a control system on a construction site or in precast industry. Finding solutions to these challenges will lead to marvelous opportunities in general, and for 3D and even 4D printing more particularly.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
@@ -95,4 +79,34 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../vant_cort_stee_boel.2019.DBTOf3PBS/">Density-Based Topology-Optimization for 3D Printable Building Structures</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{schu_lesa.2018.ACoPoC,
+      author            = "Geert de Schutter and Karel Lesage",
+      title             = "Active Control of Properties of Concrete: A (P)Review",
+      doi               = "10.1617/s11527-018-1256-2",
+      year              = "2018",
+      journal           = "Materials and Structures",
+      volume            = "51",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. de Schutter  and K. Lesage, “Active Control of Properties of Concrete: A (P)Review”, <i>Materials and Structures</i>, vol. 51, no. 5, 2018, doi: 10.1617/s11527-018-1256-2.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Schutter, Geert de, and Karel Lesage. “Active Control of Properties of Concrete: A (P)Review”. <i>Materials and Structures</i> 51, no. 5 (2018). https://doi.org/10.1617/s11527-018-1256-2.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #measurement
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>, <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA/">Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino</a></li>
   <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
   <li><a href="../../../author/ishikawa_shinichi"><b>Ishikawa</b> Shinichi</a>, <a href="../../../author/yamada_ryo"><b>Yamada</b> Ryo</a>, <a href="../../../author/tasaki_ryosuke"><b>Tasaki</b> Ryosuke</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ishi_yama_tasa.2025.HSIFMaMLSCf3PoUS/">High-Sensitivity Interlayer Force Measurement and Multi-Layer Smoothing Control for 3D Printing on Uneven Surfaces</a></li>

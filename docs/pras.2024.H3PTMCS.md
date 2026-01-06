@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lapyote Prasittisopin
+    - footer
+title: Prasittisopin Lapyote
 description:
 tags:
  - analysis
@@ -13,26 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2624-6511/7/6/135/pdf?version=1731410774) How 3D Printing Technology Makes Cities Smarter:<br/>:aca-blank: A Review, Thematic Analysis, and Perspectives ([2024-11](date/2024/11))
-<a href="https://doi.org/10.3390/smartcities7060135" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/smartcities7060135</a>
+#How 3D Printing Technology Makes Cities Smarter&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">A Review, Thematic Analysis, and Perspectives</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2624-6511/7/6/135/pdf?version=1731410774) <a href="https://doi.org/10.3390/smartcities7060135" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/smartcities7060135" target="_blank">10.3390/smartcities7060135</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b>&nbsp;Lapyote</a></span><br>
+Journal Article - Smart Cities, Vol. 7, Iss. 6, pp. 3458-3488
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Smart Cities, Vol. 7, Iss. 6, pp. 3458-3488
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#smart`](keyword/smart)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=How%203D%20Printing%20Technology%20Makes%20Cities%20Smarter" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212241061&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404263639" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/smartcities7060135" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/smartcities7060135?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a comprehensive review of the transformative impacts of 3D printing technology on smart cities. As cities face rapid urbanization, resource shortages, and environmental degradation, innovative solutions such as additive manufacturing (AM) offer potential pathways for sustainable urban development. By synthesizing 66 publications from 2015 to 2024, the study examines how 3D printing improves urban infrastructure, enhances sustainability, and fosters community engagement in city planning. Key benefits of 3D printing include reducing construction time and material waste, lowering costs, and enabling the creation of scalable, affordable housing solutions. The paper also addresses emerging areas such as the integration of 3D printing with digital twins (DTs), machine learning (ML), and AI to optimize urban infrastructure and predictive maintenance. It highlights the use of smart materials and soft robotics for structural health monitoring (SHM) and repairs. Despite the promising advancements, challenges remain in terms of cost, scalability, and the need for interdisciplinary collaboration among engineers, designers, urban planners, and policymakers. The findings suggest a roadmap for future research and practical applications of 3D printing in smart cities, contributing to the ongoing discourse on sustainable and technologically advanced urban development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/ibrahim-shema_abdulsalam"><b>Ibrahim Shema</b> Abdulsalam</a>, <a href="../../../author/umar-ibrahim_abdullahi"><b>Umar Ibrahim</b> Abdullahi</a>, <a href="../../../author/awad-abuhussain_mohammed"><b>Awad Abuhussain</b> Mohammed</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../alot_ibra_umar_awad.2024.Ao3PAIaIoTftCoEFIH/">Assimilation of 3D Printing, Artificial Intelligence and Internet of Things for the Construction of Eco-Friendly Intelligent Homes:<br/>An Explorative Review</a></li>
       <li><a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a>, <a href="../../../author/tayoun_yara"><b>Tayoun</b> Yara</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chad_dubo_caba_tayo.2024.AMftCBE/">Additive Manufacturing for the Circular Built Environment:<br/>Towards Circular Construction with Earth-Based Materials</a></li>
@@ -92,13 +77,43 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_khai_daha_mash.2025.RoSi3CP/">Review on Sustainability in 3D Concrete Printing:<br/>Focus on Waste Utilization and Life Cycle Assessment</a></li>
       <li><a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b> Kantawich</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pethrung_sirichai"><b>Pethrung</b> Sirichai</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../suph_pras_peth_pans.2025.FPEo3PCW/">Fire Performance Evaluation of 3D-Printed Concrete Walls:<br/>A Combined Full-Scale and Numerical Modeling Approach</a></li>
-      <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pongpaisanseree_kittisak"><b>Pongpaisanseree</b> Kittisak</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pras_pong_jira_sngu.2020.TaSIoLS3EPWP/">Thermal- and Sound-Insulation of Large-Scale 3D Extrusion-Printing Wall-Panel</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pras.2024.H3PTMCS,
+      author            = "Lapyote Prasittisopin",
+      title             = "How 3D Printing Technology Makes Cities Smarter: A Review, Thematic Analysis, and Perspectives",
+      doi               = "10.3390/smartcities7060135",
+      year              = "2024",
+      journal           = "Smart Cities",
+      volume            = "7",
+      number            = "6",
+      pages             = "3458--3488",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Prasittisopin, “How 3D Printing Technology Makes Cities Smarter: A Review, Thematic Analysis, and Perspectives”, <i>Smart Cities</i>, vol. 7, no. 6, pp. 3458–3488, 2024, doi: 10.3390/smartcities7060135.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Prasittisopin, Lapyote. “How 3D Printing Technology Makes Cities Smarter: A Review, Thematic Analysis, and Perspectives”. <i>Smart Cities</i> 7, no. 6 (2024): 3458–88. https://doi.org/10.3390/smartcities7060135.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

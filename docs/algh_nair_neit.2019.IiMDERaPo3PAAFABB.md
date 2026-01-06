@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hussam Alghamdi, Sooraj Nair, Narayanan Neithalath
+    - footer
+title: Alghamdi Hussam, Nair Sooraj, Neithalath Narayanan
 description:
 tags:
  - activation
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2019.107634) Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders ([2019-02](date/2019/02))
-<a href="https://doi.org/10.1016/j.matdes.2019.107634" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2019.107634</a>
+#Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders ([2019-02](date/2019/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2019.107634) <a href="https://doi.org/10.1016/j.matdes.2019.107634" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2019.107634" target="_blank">10.1016/j.matdes.2019.107634</a>
 
--------------------------
+<a href="../../../author/alghamdi_hussam"><b>Alghamdi</b>&nbsp;Hussam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b>&nbsp;Sooraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Materials & Design, Vol. 167
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>
-,     <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> <a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, Vol. 167, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#design`](keyword/design)
-    [`#extrusion`](keyword/extrusion)
-    [`#insights`](keyword/insights)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Insights%20into%20Material-Design%2C%20Extrusion%20Rheology%2C%20and%20Properties%20of%203D%20Printable%20Alkali-Activated%20Fly-Ash-Based%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85061185109&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2914168325" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2019.107634" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2019.107634?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Material design of alkali activated fly ash-based binders for extrusion-based 3D printing, the rheological responses that are influential in ensuring printability, and the properties of such binders are discussed in this paper. Fly ash is supplementedwith fine limestone, slag, or portland cement to provide adequate microstructural packing required for printability. The alkaline activators help reduce the yield stress and enhance the cohesiveness of the mixtures. Based on the measured shear yield stress at different times and concurrent printing ofa filament, the printability window and yield stress bounds for printability, applicable for the chosen printing parameters, are established. This approach could be used for mixture qualification for extrusion-based printing. The Benbow-Bridgwater model is implemented on extrusion rheology results of pastes to determine the extrusion yield stress and wall slip shear stress, which are useful process-related parameters. It is shown that these parameters can also be related to shear and extensional rheological properties of alkali-activated pastes, thus ensuring a much-needed link between parameters related to material design and the process of extrusion. Mechanical properties and pore structure similar to those of conventionally cast mixtures are achieved.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
@@ -102,8 +77,8 @@ tags:
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "145 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/khalid_waleed_lawand"><b>Khalid</b> Lawand</a>, <a href="../../../author/mermerdas_kasim"><b>Mermerdaş</b> Kasım</a>, <a href="../../../author/ekmen_sevin"><b>Ekmen</b> Şevin</a>, <a href="../../../author/khidhir-bzeni_dillshad"><b>Khidhir Bzeni</b> Dillshad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khal_merm_ekme_khid.2025.OoFaHPoFR3PGCURSM/">Optimization of Fresh and Hardened Properties of Fiber-Reinforced 3D Printed Geopolymer Composites Using Response Surface Methodology:<br/>A Data-Driven Approach Based on Prior Experimental Studies</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
@@ -250,4 +225,33 @@ tags:
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{algh_nair_neit.2019.IiMDERaPo3PAAFABB,
+      author            = "Hussam Alghamdi and Sooraj Kumar A. O. Nair and Narayanan Neithalath",
+      title             = "Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders",
+      doi               = "10.1016/j.matdes.2019.107634",
+      year              = "2019",
+      journal           = "Materials & Design",
+      volume            = "167",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Alghamdi, S. K. A. O. Nair and N. Neithalath, “Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders”, <i>Materials & Design</i>, vol. 167, 2019, doi: 10.1016/j.matdes.2019.107634.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alghamdi, Hussam, Sooraj Kumar A. O. Nair, and Narayanan Neithalath. “Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders”. <i>Materials & Design</i> 167 (2019). https://doi.org/10.1016/j.matdes.2019.107634.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

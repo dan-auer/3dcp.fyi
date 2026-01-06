@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weiguo Xu, Yuan Gao, Chenwei Sun, Zhi Wang
+    - footer
+title: Xu Weiguo, Gao Yuan, Sun Chenwei, Wang Zhi
 description:
 tags:
  - application
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project ([2020-09](date/2020/09))
-<a href="https://doi.org/10.2307/j.ctv13xpsvw.22" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2307/j.ctv13xpsvw.22</a>
+#Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project ([2020-09](date/2020/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2307/j.ctv13xpsvw.22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xpsvw.22" target="_blank">10.2307/j.ctv13xpsvw.22</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weiguo"><b>Xu</b>&nbsp;Weiguo</a></span>, <a href="../../../author/gao_yuan"><b>Gao</b>&nbsp;Yuan</a></span>, <a href="../../../author/sun_chenwei"><b>Sun</b>&nbsp;Chenwei</a></span>, <a href="../../../author/wang_zhi"><b>Wang</b>&nbsp;Zhi</a></span><br>
+Contribution - Fabricate 2020, pp. 140-147
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>
-,     <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>
-,     <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Fabricate 2020, pp. 140-147
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#bridge`](keyword/bridge)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#print`](keyword/print)
-    [`#projection`](keyword/projection)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fabrication%20and%20Application%20of%203D%20Printed%20Concrete%20Structural%20Components%20in%20the%20Boshan%20Pedestrian%20Bridge%20Project" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,23 +38,19 @@ tags:
 <a href="https://inciteful.xyz/p/W3043942858" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2307/j.ctv13xpsvw.22" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2307/j.ctv13xpsvw.22?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Since the introduction of 3D concrete printing technology about two decades ago (Khoshnevis et al., 1998), it has received increasing attention from people in both academia and the construction industry. This growing attention coincided with the advent of digital design and intelligent construction in the building construction industry; the latter was developed to address the challenges of labour shortage, increased structural complexity, low efficiency, and sustainability in building construction. However, at present, 3D printing technology is primarily used for the fabrication of decorative building components or prototypes in the laboratory only. This is because some technological improvements are still required before 3D-printed concrete can be widely used for fabrication of primary load-bearing building structures (Bos et al., 2016). One notable example of the use of 3D-printed concrete structures in practice is the bridge in the Netherlands which was built by researchers at the Eindhoven University of Technology (TU/e) in 2017. For the construction of the bridge, they used cable reinforced concrete and the whole structure was enhanced with steel tendons. The bridge proves the feasibility and safety of 3D-printed concrete structures for public use (Salet et al., 2018); however, the use of 3D-printed concrete as the sole structural material in large-scale building projects still poses questions in regard to efficacy and safety of such buildings. The objective of our present research is to study the use of 3D-printed concrete in real-world projects, including those involving large-scale structural components and building systems. Accordingly, a pedestrian arch bridge was built using only 3D-printed concrete components, including structural units, handrails, and decorative deck panels; the bridge is composed of 44 units of 3D-printed concrete voussoirs, which was the result of a synthetic solution of material, design and an original-designed printing system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/ali_sufiyan_syed"><b>Ali</b> Syed</a>, <a href="../../../author/haq_moin_mohd"><b>Haq</b> Mohd</a>, <a href="../../../author/khan_ahmad_rizwan"><b>Khan</b> Rizwan</a>, <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b> Ahmad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ali_haq_khan_hash.2025.ACRo3PoC/">A Comprehensive Review on 3D Printing of Concrete:<br/>Materials, Methods and Mechanical Properties</a></li>
@@ -112,12 +90,35 @@ tags:
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../anto_jipa_reit_dill.2020.FCb/">Fast Complexity</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
-      <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../anto_jipa_reit_dill.2020.FC/">Fast Complexity:<br/>Additive Manufacturing for Prefabricated Concrete Slabs</a></li>
-      <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gebh_mata_anto_burg.2020.AILFRaPTaaRSfDF/">Aligned Inter-Layer Fiber-Reinforcement and Post-Tensioning as a Reinforcement-Strategy for Digital Fabrication</a></li>
-      <li><a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rash_khan_gham_koc.2020.AM/">Additive Manufacturing:<br/>Technology, Applications, Markets, and Opportunities for the Built Environment</a></li>
-      <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
-      <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
-      <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_amzi.2019.3PiC/">3D Printing in Concrete:<br/>General Considerations and Technologies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{xu_gao_sun_wang.2020.FaAo3PCSCitBPBP,
+      author            = "Weiguo Xu and Yuan Gao and Chenwei Sun and Zhi Wang",
+      title             = "Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project",
+      doi               = "10.2307/j.ctv13xpsvw.22",
+      year              = "2020",
+      pages             = "140--147",
+      booktitle         = "Fabricate 2020",
+      editor            = "Jane Burry and Jenny Sabin and Bob Sheil and Marilena Skavara",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Xu, Y. Gao, C. Sun and Z. Wang, “Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project”, in <i>Fabricate 2020</i>,  2020, pp. 140–147. doi: 10.2307/j.ctv13xpsvw.22.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Weiguo, Yuan Gao, Chenwei Sun, and Zhi Wang. “Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project”. In <i>Fabricate 2020</i>, edited by Jane Burry, Jenny Sabin, Bob Sheil, and Marilena Skavara, 140–47, 2020. https://doi.org/10.2307/j.ctv13xpsvw.22.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

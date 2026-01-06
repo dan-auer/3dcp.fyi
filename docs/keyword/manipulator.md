@@ -8,7 +8,7 @@ search:
 
 # #manipulator
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
   <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a></li>
   <li><a href="../../../author/nakanishi_reina"><b>Nakanishi</b> Reina</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/yamamoto_shinya"><b>Yamamoto</b> Shinya</a>, <a href="../../../author/abe_hiroyuki"><b>Abe</b> Hiroyuki</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../naka_ogur_yama_abe.2024.DaDoaSMSf3CPwaM/">Design and Development of a Shape Measurement System for 3D Construction Printing with a Manipulator</a></li>

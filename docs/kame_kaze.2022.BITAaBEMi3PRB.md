@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ehsan Kamel, Ali Kazemian
+    - footer
+title: Kamel Ehsan, Kazemian Ali
 description:
 tags:
  - analysis
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.enbuild.2022.112670" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.enbuild.2022.112670</a>
+#BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.enbuild.2022.112670" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2022.112670" target="_blank">10.1016/j.enbuild.2022.112670</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3941-9111" title="ORCID: 0000-0002-3941-9111" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamel_ehsan"><b>Kamel</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
+Journal Article - Energy and Buildings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a> <a href="https://orcid.org/0000-0002-3941-9111" title="ORCID: 0000-0002-3941-9111" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energy and Buildings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#bim`](keyword/bim)
-    [`#buildability`](keyword/buildability)
-    [`#energy`](keyword/energy)
-    [`#integration`](keyword/integration)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=BIM-Integrated%20Thermal%20Analysis%20and%20Building%20Energy%20Modeling%20in%203D%20Printed%20Residential%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142898044&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,24 +38,18 @@ tags:
 <a href="https://inciteful.xyz/p/W4309779209" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.enbuild.2022.112670" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.enbuild.2022.112670?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A transformation toward automated construction is happening in the construction industry to lower the construction time, cost, and environmental impacts. Construction 3D printing (C3DP) is one of the highpotential technologies driving digital transformation in the construction industry. Almost all technical advancements and activities in C3DP, however, have been focused on the construction phase. This leads to a knowledge gap about different aspects of the operation phase, such as energy performance. This study develops and evaluates a building energy modeling (BEM) workflow for C3DP based on building information modeling (BIM), using a case study and considering the specifics of 3D-printed buildings. To this aim, multiple scenarios are studied to assess the workflow and measure energy savings. These scenarios include two climate zones in the U.S, normal and lightweight concrete, multiple wall configurations, and building layouts feasible with C3DP, such as curved wall designs. The BIM-to-BEM workflow showed proficiency, and the case study shows that common 3D-printed wall systems cannot meet the minimum requirements of the energy codes, especially in cold climate regions. Yet, compared to an uninsulated 3D-printed building, a properly designed all-electric 3D-printed residential building could lead to 26% lower energy use intensity and 6.35 metric tons lower CO2 emissions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../fall_gugl_dome_ricc.2019.EIotMSaTCoEFCaPVoIPAi3PMIP/">Experimental Investigation on the Mechanical Strength and Thermal Conductivity of Extrudable Foamed Concrete and Preliminary Views on Its Potential Application in 3D Printed Multilayer Insulating Panels</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
-      <li><a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kame_kaze.2022.BITAaBEMi3PRB/">BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../kasz_olcz_tech_skib.2019.THPo3PW/">Thermal-Humidity Parameters of 3D Printed Wall</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../kaze_khos.2021.RTEQMTfC3P/">Real-Time Extrusion-Quality-Monitoring-Techniques for Construction 3D Printing</a></li>
-      <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/seylabi_elnaz"><b>Seylabi</b> Elnaz</a>, <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kaze_seyl_eken.2022.C3P/">Concrete 3D Printing:<br/>Challenges and Opportunities for the Construction Industry</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kont_tryf.2018.IPDwRAMf3CP/">Integrating Parametric Design with Robotic Additive Manufacturing for 3D Clay Printing:<br/>An Experimental Study</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
@@ -94,8 +72,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_jiale"><b>Zhang</b> Jiale</a>, <a href="../../../author/luo_hanbin"><b>Luo</b> Hanbin</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_luo_xu.2022.TFBEBAaR/">Towards Fully BIM-Enabled Building Automation and Robotics:<br/>A Perspective of Lifecycle Information Flow</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pess_luca_simo_guim.2025.HTia3PMWS/">Heat Transfer in a 3D-Printed Multilayer Wall System:<br/>An Experimental and Numerical Analysis</a></li>
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kash.2025.RMaECiSSBT3PWD/">Reducing Material and Energy Consumption in Single-Story Buildings Through 3D-Printed Wall Designs</a></li>
@@ -105,6 +83,33 @@ tags:
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../roja_hasa.2024.NDTAf3CPitAI/">Novel Digital Twin Architecture for 3D Concrete Printing in the AEC Industry</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
       <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>, <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a>, <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sing_cola_fari.2023.SNCC3P/">Sustainable Non-Conventional Concrete 3D Printing:<br/>A Review</a></li>
-      <li><a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kame_kaze.2022.BITAaBEMi3PRB/">BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kame_kaze.2022.BITAaBEMi3PRB,
+      author            = "Ehsan Kamel and Ali Kazemian",
+      title             = "BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings",
+      doi               = "10.1016/j.enbuild.2022.112670",
+      year              = "2022",
+      journal           = "Energy and Buildings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Kamel  and A. Kazemian, “BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings”, <i>Energy and Buildings</i>, 2022, doi: 10.1016/j.enbuild.2022.112670.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kamel, Ehsan, and Ali Kazemian. “BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings”. <i>Energy and Buildings</i>, 2022. https://doi.org/10.1016/j.enbuild.2022.112670.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

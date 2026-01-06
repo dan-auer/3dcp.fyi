@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Aly Aly Ahmed, Islam Mantawy
+    - footer
+title: Aly Ahmed Aly, Mantawy Islam
 description:
 tags:
  - additive
@@ -14,28 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Construction of Low Embodied Carbon Concrete:<br/>:aca-blank: Geopolymer Concrete ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.jobe.2025.112984" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112984</a>
+#Additive Construction of Low Embodied Carbon Concrete&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Geopolymer Concrete</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112984" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112984" target="_blank">10.1016/j.jobe.2025.112984</a>
 
--------------------------
+<a href="../../../author/aly-ahmed_muhammed_aly"><b>Aly Ahmed</b>&nbsp;Aly</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7309-5061" title="ORCID: 0000-0001-7309-5061" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantawy_m_islam"><b>Mantawy</b>&nbsp;Islam</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112984
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aly-ahmed_muhammed_aly"><b>Aly Ahmed</b> Aly</a>
-,     <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> <a href="https://orcid.org/0000-0001-7309-5061" title="ORCID: 0000-0001-7309-5061" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112984
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#low`](keyword/low)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Construction%20of%20Low%20Embodied%20Carbon%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007633434&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410618728" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112984" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112984?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive construction offers numerous advantages over conventional methods, including precise material deposition, reduced waste, enhanced design flexibility, and faster construction times. However, traditional concrete construction contributes significantly to environmental challenges, primarily due to the high energy consumption and greenhouse gas emissions associated with Portland cement production. To address these concerns, this paper investigates the potential of geopolymer concrete—an eco-friendly, cement-free alternative derived from industrial by-products and activated by alkali activators—for the use in additive construction. The research focuses on three main objectives: (1) developing five customized geopolymer concrete mixtures for additive construction, utilizing a blend of fly ash (type C), silica fume, and ground granulated blast furnace slag, fine and medium sand aggregates, and an alkaline activator (sodium silicate and sodium hydroxide), (2) evaluating the printability of 3D-printed geopolymer concrete with various architectural designs, and (3) assessing the hardened properties of the developed mixtures. Experimental results confirm the successful printing of complex geometries, including circular paths, slopes, and varying cross-sections, demonstrating the material’s suitability for additive construction. Key findings include: (1) increasing the slag content to 50% of the total binder weight enhances compressive strength reaching 37 MPa at 28 days if compared to a mixture without slag (22 MPa at 28 days), (2) maintaining the alkaline activator temperature between 11οc to 13οc optimizes setting time and printability, and (3) extending the idle time—introduced as a new printing metric for geopolymer concrete—from six to 15 minutes before printing facilitates the transition to a printable consistency.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../jaji_zijl_baba.2023.SMFRMBGf3CPA/">Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application:<br/>Evaluating Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>
@@ -77,7 +60,36 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aly_mant.2025.ACoLECC,
+      author            = "Aly Muhammed Aly Ahmed and Islam M. Mantawy",
+      title             = "Additive Construction of Low Embodied Carbon Concrete: Geopolymer Concrete",
+      doi               = "10.1016/j.jobe.2025.112984",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112984",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. M. A. Ahmed  and I. M. Mantawy, “Additive Construction of Low Embodied Carbon Concrete: Geopolymer Concrete”, <i>Journal of Building Engineering</i>, p. 112984, 2025, doi: 10.1016/j.jobe.2025.112984.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ahmed, Aly Muhammed Aly, and Islam M. Mantawy. “Additive Construction of Low Embodied Carbon Concrete: Geopolymer Concrete”. <i>Journal of Building Engineering</i>, 2025, 112984. https://doi.org/10.1016/j.jobe.2025.112984.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

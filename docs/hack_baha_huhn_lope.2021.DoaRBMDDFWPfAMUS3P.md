@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Norman Hack, Mohammad Bahar, Christian Hühne, William Lopez, Stefan Gantner, Noor Khader, Tom Rothe
+    - footer
+title: Hack Norman, Bahar Mohammad, Hühne Christian, Lopez William, Gantner Stefan, Khader Noor, Rothe Tom
 description:
 tags:
  - additive
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2079-6439/9/6/39/pdf?version=1623242166) Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing ([2021-06](date/2021/06))
-<a href="https://doi.org/10.3390/fib9060039" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/fib9060039</a>
+#Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing ([2021-06](date/2021/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2079-6439/9/6/39/pdf?version=1623242166) <a href="https://doi.org/10.3390/fib9060039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/fib9060039" target="_blank">10.3390/fib9060039</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8549-4198" title="ORCID: 0000-0002-8549-4198" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bahar_mohammad"><b>Bahar</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huhne_christian"><b>Hühne</b>&nbsp;Christian</a></span>, <a href="../../../author/lopez_william"><b>Lopez</b>&nbsp;William</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gantner_stefan"><b>Gantner</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4503-1444" title="ORCID: 0000-0003-4503-1444" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khader_noor"><b>Khader</b>&nbsp;Noor</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rothe_niklas_tom"><b>Rothe</b>&nbsp;Tom</a></span><br>
+Journal Article - Fibers, Vol. 9, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a> <a href="https://orcid.org/0000-0002-8549-4198" title="ORCID: 0000-0002-8549-4198" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> <a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lopez_william"><b>Lopez</b> William</a>
-,     <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khader_noor"><b>Khader</b> Noor</a> <a href="https://orcid.org/0000-0003-4503-1444" title="ORCID: 0000-0003-4503-1444" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> <a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Fibers, Vol. 9, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#development`](keyword/development)
-    [`#direction`](keyword/direction)
-    [`#dynamic`](keyword/dynamic)
-    [`#fiber`](keyword/fiber)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#robot`](keyword/robot)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Robot-Based%20Multi-Directional%20Dynamic%20Fiber%20Winding%20Process%20for%20Additive%20Manufacturing%20Using%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108717881&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3168451992" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/fib9060039" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/fib9060039?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The research described in this paper is dedicated to the use of continuous fibers as reinforcement for additive manufacturing, particularly using Shotcrete. Composites and in particular fiber reinforced polymers (FRP) are increasingly present in concrete reinforcement. Their corrosion resistance, high tensile strength, low weight, and high flexibility offer an interesting alternative to conventional steel reinforcement, especially with respect to their use in Concrete 3D Printing. This paper presents an initial development of a dynamic robot-based manufacturing process for FRP concrete reinforcement as an innovative way to increase shape freedom and efficiency in concrete construction. The focus here is on prefabricated fiber reinforcement, which is concreted in a subsequent additive process to produce load-bearing components. After the presentation of the fabrication concept for the integration of FRP reinforcement and the state of the art, a requirements analysis regarding the mechanical bonding behavior in concrete is carried out. This is followed by a description of the development of a dynamic fiber winding process and its integration into an automated production system for individualized fiber reinforcement. Next, initial tests for the automated application of concrete by means of Shotcrete 3D Printing are carried out. In addition, an outlook describes further technical development steps and provides an outline of advanced manufacturing concepts for additive concrete manufacturing with integrated fiber reinforcement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorf_hack_sand_gift.2019.MRFBFC/">Mobile Robotic Fabrication Beyond Factory Conditions:<br/>Case Study Mesh Mould Wall of the DFAB HOUSE</a></li>
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../gras_baur_apol_dorf.2020.DH/">DFAB House:<br/>A Comprehensive Demonstrator of Digital Fabrication in Architecture</a></li>
@@ -90,8 +61,8 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
@@ -122,4 +93,34 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
       <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P,
+      author            = "Norman Peter Hack and Mohammad Bahar and Christian Hühne and William Lopez and Stefan Gantner and Noor Khader and Tom Niklas Rothe",
+      title             = "Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing",
+      doi               = "10.3390/fib9060039",
+      year              = "2021",
+      journal           = "Fibers",
+      volume            = "9",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. P. Hack, “Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing”, <i>Fibers</i>, vol. 9, no. 6, 2021, doi: 10.3390/fib9060039.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hack, Norman Peter, Mohammad Bahar, Christian Hühne, William Lopez, Stefan Gantner, Noor Khader, and Tom Niklas Rothe. “Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing”. <i>Fibers</i> 9, no. 6 (2021). https://doi.org/10.3390/fib9060039.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

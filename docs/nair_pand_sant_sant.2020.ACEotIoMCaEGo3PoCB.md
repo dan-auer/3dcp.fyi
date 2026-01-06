@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sooraj Nair, Subhashree Panda, Manu Santhanam, Gaurav Sant, Narayanan Neithalath
+    - footer
+title: Nair Sooraj, Panda Subhashree, Santhanam Manu, Sant Gaurav, Neithalath Narayanan
 description:
 tags:
  - binder
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S0958946520301633) A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders ([2020-05](date/2020/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2020.103671" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2020.103671</a>
+#A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders ([2020-05](date/2020/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0958946520301633) <a href="https://doi.org/10.1016/j.cemconcomp.2020.103671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2020.103671" target="_blank">10.1016/j.cemconcomp.2020.103671</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b>&nbsp;Sooraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6235-0570" title="ORCID: 0000-0002-6235-0570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_subhashree"><b>Panda</b>&nbsp;Subhashree</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 112
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> <a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_subhashree"><b>Panda</b> Subhashree</a> <a href="https://orcid.org/0000-0002-6235-0570" title="ORCID: 0000-0002-6235-0570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> <a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 112, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#critical`](keyword/critical)
-    [`#examination`](keyword/examination)
-    [`#extrusion`](keyword/extrusion)
-    [`#geometry`](keyword/geometry)
-    [`#influence`](keyword/influence)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Examination%20of%20the%20Influence%20of%20Material-Characteristics%20and%20Extruder-Geometry%20on%203D%20Printing%20of%20Cementitious%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085273777&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3026114808" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2020.103671" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2020.103671?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion pressure-displacement tests on cementitious pastes with multiple starting materials and differing particle packing, subjected to different extrusion geometries are reported. The steady state extrusion pressure (equivalent to extrusion yield stress) and the deadzone length (static zone of material buildup at die entry) are determined from the pressure-displacement response to characterize the extrudability and/or printability. A unique “geometric ratio” is used to account for the effects of barrel-die geometry on paste extrusion. The ratio of extrusion yield stress (25–75 kPa) to the measured shear yield stress (50–300 Pa), the deadzone length, and the measured-to-designed filament volume at a given flow rate (print speed) are found to remain relatively invariant with geometric ratio for mixtures with high degree of microstructural packing, and thus better extrudability and shape stability. This paper marries materials- and process-related issues and, could pave the way for test methods for 3D printable mixture qualification.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
@@ -92,8 +67,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "72 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
       <li><a href="../../../author/yang_shuai"><b>Yang</b> Shuai</a>, <a href="../../../author/li_fei"><b>Li</b> Fei</a>, <a href="../../../author/lu_ya"><b>Lu</b> Ya</a>, <a href="../../../author/xu_xiaoming"><b>Xu</b> Xiaoming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_li_lu_xu.2025.SotPCoa3PSftPoPO/">Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization</a></li>
@@ -167,4 +142,33 @@ tags:
       <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../vall_farz_khay.2021.EoFBaPIVoSSo3PE/">Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>A Review</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nair_pand_sant_sant.2020.ACEotIoMCaEGo3PoCB,
+      author            = "Sooraj Kumar A. O. Nair and Subhashree Panda and Manu Santhanam and Gaurav Sant and Narayanan Neithalath",
+      title             = "A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders",
+      doi               = "10.1016/j.cemconcomp.2020.103671",
+      year              = "2020",
+      journal           = "Cement and Concrete Composites",
+      volume            = "112",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. A. O. Nair, S. Panda, M. Santhanam, G. Sant and N. Neithalath, “A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders”, <i>Cement and Concrete Composites</i>, vol. 112, 2020, doi: 10.1016/j.cemconcomp.2020.103671.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nair, Sooraj Kumar A. O., Subhashree Panda, Manu Santhanam, Gaurav Sant, and Narayanan Neithalath. “A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders”. <i>Cement and Concrete Composites</i> 112 (2020). https://doi.org/10.1016/j.cemconcomp.2020.103671.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

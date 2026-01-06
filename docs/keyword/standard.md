@@ -8,7 +8,7 @@ search:
 
 # #standard
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_lomb.2025.ASDWfOSMPaGo3/">A Streamlined Decentralised Workflow for Obtaining Specific Mechanical Performance and Grade of 3DPC:<br/>Towards the Standardisation and Industrialisation of 3DCP</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a>, <a href="../../../author/dounas_theodoros"><b>Dounas</b> Theodoros</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marc_lomb_doun_agka.2025.ATFftSaIo3CPTDS/">A Theoretical Framework for the Standardisation and Industrialisation of 3D Concrete Printing Through Decentralised Science</a></li>
   <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>

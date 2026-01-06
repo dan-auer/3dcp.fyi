@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiong Liu, Qiming Wang, Chang Sun, Amardeep Singh, Vivian Tam, Baorong Jia
+    - footer
+title: Liu Qiong, Wang Qiming, Sun Chang, Singh Amardeep, Tam Vivian, Jia Baorong
 description:
 tags:
  - column
@@ -24,42 +25,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Compressive Performance and Damage Evolution of Concrete Short Columns with Shell-Filling Structure Confined by Continuous Fiber Reinforced 3D Printed Mortar ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141212" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141212</a>
+#Compressive Performance and Damage Evolution of Concrete Short Columns with Shell-Filling Structure Confined by Continuous Fiber Reinforced 3D Printed Mortar ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141212" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141212" target="_blank">10.1016/j.conbuildmat.2025.141212</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1116-0910" title="ORCID: 0009-0001-1116-0910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_qiming"><b>Wang</b>&nbsp;Qiming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_chang"><b>Sun</b>&nbsp;Chang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <a href="../../../author/tam_w-y_vivian"><b>Tam</b>&nbsp;Vivian</a></span>, <a href="../../../author/jia_baorong"><b>Jia</b>&nbsp;Baorong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 475, No. 141212
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a> <a href="https://orcid.org/0009-0001-1116-0910" title="ORCID: 0009-0001-1116-0910" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_chang"><b>Sun</b> Chang</a> <a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a>
-,     <a href="../../../author/jia_baorong"><b>Jia</b> Baorong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 475, No. 141212
-
-:aca-blank:{ .lg .middle}
-    [`#column`](keyword/column)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#confinement`](keyword/confinement)
-    [`#continuous`](keyword/continuous)
-    [`#damage`](keyword/damage)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#fiber`](keyword/fiber)
-    [`#fill`](keyword/fill)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shell`](keyword/shell)
-    [`#short`](keyword/short)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/confinement"><button class="btn">#confinement</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Compressive%20Performance%20and%20Damage%20Evolution%20of%20Concrete%20Short%20Columns%20with%20Shell-Filling%20Structure%20Confined%20by%20Continuous%20Fiber%20Reinforced%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002024983&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -74,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409369622" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141212" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141212?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, 3D printed mortar(3DPM) hollow columns, which were reinforced with continuous polyethylene (PE) fibers or carbon fibers, were proposed to work as a formwork. Concrete was then poured into the hollow formwork to form concrete columns, allowing for an investigation into the effects of continuous fiber reinforcement on the confinement behavior and compressive strength of the composite column. Apart from the tensile tests of the fibers, pull-out tests were also conducted on both fresh and hardened printed mortar to analyze the characteristics of different fibers. Theoretical analyses were performed to discuss the stress-strain curves of the core concrete under varied confinement conditions. And the finite element analysis was employed to adjust single fiber parameters, yielding insights into compressive strength and nonlinear behavior. The experimental results indicated that 12 K carbon fibers achieved a maximum strength enhancement of 23.36 %, while 3 K carbon fibers exhibited a maximum ductility enhancement of 996 %. In contrast, three-strand PE fibers resulted in a strength enhancement of 8.72 %, and single-strand PE fibers achieved a ductility enhancement of up to 811 %, altering the failure mode to ductile failure. Numerical simulations revealed that curve deviation is significant when the fiber content is low. In the finite element simulation, as the fiber content increased, the stress state of the fibers changed, and the increase in the peak load gradually decreased, with values of 193 N, 229 N, and 242 N, respectively. These findings demonstrate the feasibility of continuous fiber-reinforced 3D printed concrete(3DPC), achieving enhanced ductility by following the printing path. This study provides additional reinforcement methods for 3DPC technology and proposes a construction approach using 3DPC as formwork filler.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
@@ -126,8 +94,38 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_wang_sun_sing.2025.CPaDEoCSCwSFSCbCFR3PM,
+      author            = "Qiong Liu and Qiming Wang and Chang Sun and Amardeep Singh and Vivian W. Y. Tam and Baorong Jia",
+      title             = "Compressive Performance and Damage Evolution of Concrete Short Columns with Shell-Filling Structure Confined by Continuous Fiber Reinforced 3D Printed Mortar",
+      doi               = "10.1016/j.conbuildmat.2025.141212",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "475",
+      pages             = "141212",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, Q. Wang, C. Sun, A. Singh, V. W. Y. Tam and B. Jia, “Compressive Performance and Damage Evolution of Concrete Short Columns with Shell-Filling Structure Confined by Continuous Fiber Reinforced 3D Printed Mortar”, <i>Construction and Building Materials</i>, vol. 475, p. 141212, 2025, doi: 10.1016/j.conbuildmat.2025.141212.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiong, Qiming Wang, Chang Sun, Amardeep Singh, Vivian W. Y. Tam, and Baorong Jia. “Compressive Performance and Damage Evolution of Concrete Short Columns with Shell-Filling Structure Confined by Continuous Fiber Reinforced 3D Printed Mortar”. <i>Construction and Building Materials</i> 475 (2025): 141212. https://doi.org/10.1016/j.conbuildmat.2025.141212.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

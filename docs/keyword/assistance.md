@@ -8,7 +8,8 @@ search:
 
 # #assistance
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
   <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../cui_liu_guo_da.2025.GQIi3CPUAACV/">Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision</a></li>
   <li><a href="../../../author/huang_junxiang"><b>Huang</b> Junxiang</a>, <a href="../../../author/peng_zeqin"><b>Peng</b> Zeqin</a>, <a href="../../../author/tan_xianzhong"><b>Tan</b> Xianzhong</a>, <a href="../../../author/gong_guofang"><b>Gong</b> Guofang</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../huan_peng_tan_gong.2025.MAotMFA3PSFRC/">Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a>, <a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/mannel_mike"><b>Männel</b> Mike</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lind_glin_funk_mann.2025.TDfPCCEiRAFP/">Tool-Development for Pre-Cast Concrete Elements in Robot-Assisted Flow-Production</a></li>

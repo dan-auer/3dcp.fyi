@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hou-Qi Sun, Jun-Jie Zeng, Shan-Shan Xie, Jun-Run Xia, Shiwei Yu, Yan Zhuge
+    - footer
+title: Sun Hou-Qi, Zeng Jun-Jie, Xie Shan-Shan, Xia Jun-Run, Yu Shiwei, Zhuge Yan
 description:
 tags:
  - bond
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106308" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106308</a>
+#Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cemconcomp.2025.106308" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106308" target="_blank">10.1016/j.cemconcomp.2025.106308</a>
 
--------------------------
+<a href="../../../author/sun_hou-qi"><b>Sun</b>&nbsp;Hou-Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <a href="../../../author/xie_shan-shan"><b>Xie</b>&nbsp;Shan-Shan</a></span>, <a href="../../../author/xia_jun-run"><b>Xia</b>&nbsp;Jun-Run</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_shiwei"><b>Yu</b>&nbsp;Shiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 165, No. 106308
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>
-,     <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>
-,     <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a>
-,     <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> <a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> <a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 165, No. 106308
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#interlayer`](keyword/interlayer)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Microstructural%20Characterization%20of%20Interlayer%20Bonding%20in%20Multi-Material%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016310337&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414447399" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106308" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106308?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Layer-by-layer deposition in 3D-printed concrete (3DPC) facilitates functionally graded concrete (FGC) structures for sustainable construction. This study addresses the critical interfacial bonding challenge in multi-material systems by investigating printable alkali-activated concrete (AAC), normal concrete (NC), and engineered cementitious composite (ECC). Homogeneous concrete (HGC) and FGC specimens were fabricated, evaluating bonding strength evolution at 0–60 min intervals. Surface moisture content trends were monitored, revealing an overall decline with time, interrupted by a rebound at 30–45 min due to internal moisture redistribution. Results showed that the bonding strength in FGC specimens decreased linearly over time, whereas HGC specimens showed partial recovery at 45 min. Results quantified a linear decline in bonding strength for FGC specimens, with strength reduction reaching up to 32.25 % at 60 min compared to initial values. In contrast, HGC specimens exhibited partial recovery at 45 min, demonstrating strength restoration of up to 17.34 % relative to the 30 min interval. A multiscale analytical framework—combining molecular dynamics (MD), mercury intrusion porosimetry (MIP), and backscattered electron microscopy (BSE)—was employed to elucidate bonding mechanisms. MD simulations highlighted the importance of surface moisture for molecular-scale adhesion. MIP and BSE results confirmed that concrete type and interfacial moisture significantly influence pore structure and hydration, directly affecting bond strength. These findings offer critical insights into compatibility and time-dependent degradation in multi-material 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../cao_yu_cui.2023.ESotISRSTtR3PCiVD/">Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -108,10 +84,40 @@ tags:
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zeng_sun_deng_yan.2025.BPBFBa3PHPC/">Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zeng_yan_jian_li.2024.3PoFGaBRfRCP/">3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates:<br/>Development and Effectiveness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_zeng_xie_xia.2026.MaMCoIBiMM3PC,
+      author            = "Hou-Qi Sun and Jun-Jie Zeng and Shan-Shan Xie and Jun-Run Xia and Shiwei Yu and Yan Zhuge",
+      title             = "Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete",
+      doi               = "10.1016/j.cemconcomp.2025.106308",
+      year              = "2026",
+      journal           = "Cement and Concrete Composites",
+      volume            = "165",
+      pages             = "106308",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H.-Q. Sun, J.-J. Zeng, S.-S. Xie, J.-R. Xia, S. Yu and Y. Zhuge, “Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete”, <i>Cement and Concrete Composites</i>, vol. 165, p. 106308, 2026, doi: 10.1016/j.cemconcomp.2025.106308.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Hou-Qi, Jun-Jie Zeng, Shan-Shan Xie, Jun-Run Xia, Shiwei Yu, and Yan Zhuge. “Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete”. <i>Cement and Concrete Composites</i> 165 (2026): 106308. https://doi.org/10.1016/j.cemconcomp.2025.106308.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

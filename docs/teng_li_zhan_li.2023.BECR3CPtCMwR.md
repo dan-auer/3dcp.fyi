@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fei Teng, Mingyang Li, Dong Zhang, Heng Li, Yiwei Weng
+    - footer
+title: Teng Fei, Li Mingyang, Zhang Dong, Li Heng, Weng Yiwei
 description:
 tags:
  - bim
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.hkie.org.hk/hkietransactions/doc.php?id=932) BIM-Enabled Collaborative-Robots 3D Concrete Printing to Construct MiC with Reinforcement ([2023-11](date/2023/11))
-<a href="https://doi.org/10.33430/v30n1thie-2022-0023" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.33430/v30n1thie-2022-0023</a>
+#BIM-Enabled Collaborative-Robots 3D Concrete Printing to Construct MiC with Reinforcement ([2023-11](date/2023/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.hkie.org.hk/hkietransactions/doc.php?id=932) <a href="https://doi.org/10.33430/v30n1thie-2022-0023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.33430/v30n1thie-2022-0023" target="_blank">10.33430/v30n1thie-2022-0023</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_fei"><b>Teng</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_heng"><b>Li</b>&nbsp;Heng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - HKIE Transactions, Vol. 30, Iss. 1, pp. 106-115
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/teng_fei"><b>Teng</b> Fei</a> <a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>
-,     <a href="../../../author/li_heng"><b>Li</b> Heng</a> <a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - HKIE Transactions, Vol. 30, Iss. 1, pp. 106-115
-
-:aca-blank:{ .lg .middle}
-    [`#bim`](keyword/bim)
-    [`#collaboration`](keyword/collaboration)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#enabler`](keyword/enabler)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/collaboration"><button class="btn">#collaboration</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=BIM-Enabled%20Collaborative-Robots%203D%20Concrete%20Printing%20to%20Construct%20MiC%20with%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184209018&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389092456" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.33430/v30n1thie-2022-0023" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.33430/v30n1thie-2022-0023?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) has attracted much attention in recent years due to its advantage of advancing the conventional construction sector. However, the wide adoption of 3DCP in infrastructure and housing construction, i.e., Modular Integrated Construction, is hindered by the challenge of introducing reinforcement rebars in printed structures. This paper aims to tackle the abovementioned limitation by the application of a BIM-enabled collaborative-robots 3DCP system. In the proposed system, Building Information Modelling (BIM) and robot-arm 3D concrete printers are integrated to be a seamless information communication platform. The data of printed concrete structures and reinforcement rebars are extracted, separated, processed, and analysed on a BIM platform (i.e., Revit) by using a self-developed script. Then, these obtained data are sent to two robots to conduct different printing tasks, i.e., concurrent concrete structure printing and reinforcement rebar placement, respectively. The proposed system is successfully validated by a case study conducted in a virtual environment. This work demonstrates a seamless framework for concurrent print concrete structure and place reinforcement rebars to advance the automation of 3DCP by integrating BIM with robot-arm 3D printers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
@@ -89,8 +66,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a>, <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB/">Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building</a></li>
@@ -105,4 +82,35 @@ tags:
       <li><a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb/">A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing</a></li>
       <li><a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP/">A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{teng_li_zhan_li.2023.BECR3CPtCMwR,
+      author            = "Fei Teng and Mingyang Li and Dong Zhang and Heng Li and Yiwei Weng",
+      title             = "BIM-Enabled Collaborative-Robots 3D Concrete Printing to Construct MiC with Reinforcement",
+      doi               = "10.33430/v30n1thie-2022-0023",
+      year              = "2023",
+      journal           = "HKIE Transactions",
+      volume            = "30",
+      number            = "1",
+      pages             = "106--115",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Teng, M. Li, D. Zhang, H. Li and Y. Weng, “BIM-Enabled Collaborative-Robots 3D Concrete Printing to Construct MiC with Reinforcement”, <i>HKIE Transactions</i>, vol. 30, no. 1, pp. 106–115, 2023, doi: 10.33430/v30n1thie-2022-0023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Teng, Fei, Mingyang Li, Dong Zhang, Heng Li, and Yiwei Weng. “BIM-Enabled Collaborative-Robots 3D Concrete Printing to Construct MiC with Reinforcement”. <i>HKIE Transactions</i> 30, no. 1 (2023): 106–15. https://doi.org/10.33430/v30n1thie-2022-0023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

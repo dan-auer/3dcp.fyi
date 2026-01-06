@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wen Si, Liam Carr, Asad Zia, Mehran Khan, Ciaran McNally
+    - footer
+title: Si Wen, Carr Liam, Zia Asad, Khan Mehran, McNally Ciaran
 description:
 tags:
  - advance
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2504-477X/9/8/449/pdf?version=1755600064) Advancing 3D Printable Concrete with Nanoclays:<br/>:aca-blank: Rheological and Mechanical Insights for Construction Applications ([2025-08](date/2025/08))
-<a href="https://doi.org/10.3390/jcs9080449" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/jcs9080449</a>
+#Advancing 3D Printable Concrete with Nanoclays&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Rheological and Mechanical Insights for Construction Applications</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2504-477X/9/8/449/pdf?version=1755600064) <a href="https://doi.org/10.3390/jcs9080449" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs9080449" target="_blank">10.3390/jcs9080449</a>
 
--------------------------
+<a href="../../../author/si_wen"><b>Si</b>&nbsp;Wen</a></span>, <a href="../../../author/carr_liam"><b>Carr</b>&nbsp;Liam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5528-929X" title="ORCID: 0000-0002-5528-929X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zia_asad"><b>Zia</b>&nbsp;Asad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_mehran"><b>Khan</b>&nbsp;Mehran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
+Journal Article - Journal of Composites Science, Vol. 9, Iss. 8, No. 449
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/si_wen"><b>Si</b> Wen</a>
-,     <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>
-,     <a href="../../../author/zia_asad"><b>Zia</b> Asad</a> <a href="https://orcid.org/0000-0002-5528-929X" title="ORCID: 0000-0002-5528-929X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> <a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Composites Science, Vol. 9, Iss. 8, No. 449
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#insights`](keyword/insights)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%203D%20Printable%20Concrete%20with%20Nanoclays" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014410996&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413329968" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/jcs9080449" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/jcs9080449?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is an emerging technology that improves design flexibility and material efficiency in construction. However, widespread adoption of 3DCP requires overcoming key material challenges. These include controlling rheology for pumpability and buildability and achieving sufficient mechanical strength. This paper provides a comprehensive review of the application of nanoclays (NCs) as a key admixture to address these challenges. The effects of three primary NCs (attapulgite (ATT), bentonite (BEN), and sepiolite (SEP)) on the fresh- and hardened-state properties of printable mortars are systematically analyzed. This review summarize findings on how NCs enhanced thixotropy, yield stress, and cohesion, which are critical for shape retention and the successful printing of multilayered structures. Quantitative analysis reveals that optimized dosages of NCs can increase compressive strength by up to 34% and flexural strength by up to 20%. For enhancing rheology and printability, a dosage of approximately 0.5% by binder weight is often suggested for ATT and SEP. In contrast, BEN can be used at higher replacement levels (up to 20%) to also function as a supplementary cementitious material (SCM), though this significantly impacts workability. This review consolidates the current knowledge to provide a clear framework for selecting appropriate NCs and dosages to develop high-performance, reliable, and sustainable materials for 3DCP applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b> Ahmed</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../abda_sone_dede_amzi.2022.MPo3PCCFAMaNC/">Mechanical Performance of 3D Printed Concrete Containing Fly-Ash, Metakaolin and Nano-Clay</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
@@ -117,10 +95,41 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{si_carr_zia_khan.2025.A3PCwN,
+      author            = "Wen Si and Liam Carr and Asad Zia and Mehran Khan and Ciaran McNally",
+      title             = "Advancing 3D Printable Concrete with Nanoclays: Rheological and Mechanical Insights for Construction Applications",
+      doi               = "10.3390/jcs9080449",
+      year              = "2025",
+      journal           = "Journal of Composites Science",
+      volume            = "9",
+      number            = "8",
+      pages             = "449",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Si, L. Carr, A. Zia, M. Khan and C. McNally, “Advancing 3D Printable Concrete with Nanoclays: Rheological and Mechanical Insights for Construction Applications”, <i>Journal of Composites Science</i>, vol. 9, no. 8, p. 449, 2025, doi: 10.3390/jcs9080449.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Si, Wen, Liam Carr, Asad Zia, Mehran Khan, and Ciaran McNally. “Advancing 3D Printable Concrete with Nanoclays: Rheological and Mechanical Insights for Construction Applications”. <i>Journal of Composites Science</i> 9, no. 8 (2025): 449. https://doi.org/10.3390/jcs9080449.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

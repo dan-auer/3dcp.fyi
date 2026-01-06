@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Enlai Dong, Zijian Jia, Lutao Jia, Suduan Rao, Xudong Zhao, Rui Yu, Zedi Zhang, Yueyi Gao, Wei Wang, Yamei Zhang, Yu Chen, Nemkumar Banthia
+    - footer
+title: Dong Enlai, Jia Zijian, Jia Lutao, Rao Suduan, Zhao Xudong, Yu Rui, Zhang Zedi, Gao Yueyi, Wang Wei, Zhang Yamei, Chen Yu, Banthia Nemkumar
 description:
 tags:
  - alignment
@@ -17,41 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105786" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105786</a>
+#Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105786" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105786" target="_blank">10.1016/j.cemconcomp.2024.105786</a>
 
--------------------------
+<a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/rao_suduan"><b>Rao</b>&nbsp;Suduan</a></span>, <a href="../../../author/zhao_xudong"><b>Zhao</b>&nbsp;Xudong</a></span>, <a href="../../../author/yu_rui"><b>Yu</b>&nbsp;Rui</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <a href="../../../author/gao_yueyi"><b>Gao</b>&nbsp;Yueyi</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 154, No. 105786
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>
-,     <a href="../../../author/zhao_xudong"><b>Zhao</b> Xudong</a>
-,     <a href="../../../author/yu_rui"><b>Yu</b> Rui</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 154, No. 105786
-
-:aca-blank:{ .lg .middle}
-    [`#alignment`](keyword/alignment)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#model`](keyword/model)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#theory`](keyword/theory)
-
-
--------------------------
+<a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%20Fiber-Alignment%20in%203D%20Printed%20Ultra-High-Performance%20Concrete%20Based%20on%20Stereology-Theory" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205934354&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403144375" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105786" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105786?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper introduces a theoretical model for forecasting fiber orientation in 3D-printed ultra-high-performance concrete (3DP-UHPC). Initially, the dynamic evolution process of fiber alignment in 3DP-UHPC was characterized using X-ray computed tomography (X-CT) and image analysis. The results indicated that fiber alignment during extrusion process was primarily constrained by the rigid boundary of nozzle. Leveraging stereology theory, the regularity of fiber alignment affected by boundary effects was elucidated. Following layer deposition, the flattening effect resulting from the nozzle’s extrusion force and gravity of upper layers influenced fiber alignment along printing direction. To quantify this impact, a flattening correction coefficient was introduced to modify fiber orientation coefficient in an ideal state. Finally, considering the overlapping effect of boundary and flattening on fiber orientation in 3DP-UHPC, a theoretical model was developed to predict fiber orientation. The model demonstrated robust adaptability, providing valuable insights into the design of 3DP-UHPC with improved fiber reinforcement efficiency.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -104,8 +73,9 @@ tags:
       <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../yan_zeng_zhug_liao.2023.CBoFC3PUHPCC/">Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../yang_wu_liu.2023.RDBo3PUHPFRCUDST/">Rate-Dependent Behavior of 3D Printed Ultra-High-Performance Fiber-Reinforced Concrete Under Dynamic Splitting Tensile</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -119,4 +89,34 @@ tags:
       <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC/">The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../dong_yuan_chen_jia.2025.PLSESEwUHPC/">Printing Large-Size Eggshell-Shaped Elements with Ultra-High-Performance Concrete:<br/>From Material-Design to Structural Bearing-Capacity-Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dong_jia_jia_rao.2024.MFAi3PUHPCBoST,
+      author            = "Enlai Dong and Zijian Jia and Lutao Jia and Suduan Rao and Xudong Zhao and Rui Yu and Zedi Zhang and Yueyi Gao and Wei Wang and Yamei Zhang and Yu Chen and Nemkumar Banthia",
+      title             = "Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory",
+      doi               = "10.1016/j.cemconcomp.2024.105786",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "154",
+      pages             = "105786",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Dong, “Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory”, <i>Cement and Concrete Composites</i>, vol. 154, p. 105786, 2024, doi: 10.1016/j.cemconcomp.2024.105786.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dong, Enlai, Zijian Jia, Lutao Jia, Suduan Rao, Xudong Zhao, Rui Yu, Zedi Zhang, et al.. “Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory”. <i>Cement and Concrete Composites</i> 154 (2024): 105786. https://doi.org/10.1016/j.cemconcomp.2024.105786.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

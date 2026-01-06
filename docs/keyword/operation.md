@@ -8,7 +8,7 @@ search:
 
 # #operation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kul_koca.2025.PAoDaOPi3CPoWE/">Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements</a></li>
   <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a>, <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../capu_farr_bile_duar.2025.VBSaDTTiC3CP/">Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing:<br/>Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications</a></li>
   <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_hao_zhan_xiao.2024.RTMaFOSf3PCBoCV/">Real-Time Monitoring and Feedback Operation System for 3D Printed Concrete Based on Computer-Vision</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mona Sando, Dietmar Stephan
+    - footer
+title: Sando Mona, Stephan Dietmar
 description:
 tags:
  - geopolymer
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04352" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04352</a>
+#The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2025.e04352" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04352" target="_blank">10.1016/j.cscm.2025.e04352</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-6802-4113" title="ORCID: 0009-0003-6802-4113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sando_mona"><b>Sando</b>&nbsp;Mona</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04352
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sando_mona"><b>Sando</b> Mona</a> <a href="https://orcid.org/0009-0003-6802-4113" title="ORCID: 0009-0003-6802-4113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04352
-
-:aca-blank:{ .lg .middle}
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mixing`](keyword/mixing)
-    [`#printability`](keyword/printability)
-    [`#sequence`](keyword/sequence)
-    [`#shape`](keyword/shape)
-
-
--------------------------
+<a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sequence"><button class="btn">#sequence</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Role%20of%20Mixing%20Sequence%20in%20Shaping%20the%203D-Printability%20of%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216874214&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407064156" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04352" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04352?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the influence of sample preparation on a geopolymer composed of fly ash and ground oo granulated blast furnace slag, specifically designed for extrusion-based 3D printing. We examine the impact of oo geopolymerisation processes and evaluate their suitability for printing. Various methods, including penetration ro testing, slow penetration testing, uniaxial unconfined compression testing, ultrasonic wave transmission, heat flow pro analysis, and compressive strength testing, were employed to assess early structural buildup to gain insights into pr their effects on printability and buildability. Our results show that the way in which the liquid components are p combined with the pecrusors is crucial for influencings the geopolymerisation rate and the geopolymer’s overall e-p performance. By analysing the transition points of yield stress, calculating the Young’s modulus and examining e-p green strength as an early indicator of compressive strength in the yet unset geopolymer, we accurately determine re the printability duration using only small-scale laboratory tests, without physical printing tests. When liquid Pre components are added individually, a high OH concentration locally increases pH and accelerates particle Pr dissolution. By pre-mixing sodium hydroxide with water, the local pH decreases, the geopolymerisation rate is P slowed down and the printability is prolonged. A homogeneous distribution of all liquids additionally leads to an l P even distribution of dissolved silicon ions. This accelerates geopolymerisation that the system becomes al P unprintable. Our measurements reveal that as structural condensation of the geopolymer begins, the rheological al properties shift, rendering the material unsuitable for printing. The results demonstrate that optimised mixing na strategies impact the suitability of the geopolymer for extrusion-based 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "53 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../bala_sasi_govi.2024.SoCoCACoEAPo3PC/">Study on Criticality of Coarse Aggregate Content on Early-Age Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -113,10 +96,39 @@ tags:
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../xia_chen_chen_jia.2024.UaMtPDo3PCBoVCB/">Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>
       <li><a href="../../../author/gailitis_rihards"><b>Gailitis</b> Rihards</a>, <a href="../../../author/radina_liga"><b>Radina</b> Liga</a>, <a href="../../../author/pakrastins_leonids"><b>Pakrastins</b> Leonids</a>, <a href="../../../author/sprince_andina"><b>Sprince</b> Andina</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gail_radi_pakr_spri.2025.MaELTPAoF3PGC/">Mechanical and Early Long-Term Property Assessment of Foamed 3D-Printable Geopolymer Composite</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sand_step.2025.TRoMSiSt3PoG,
+      author            = "Mona Sando and Dietmar Stephan",
+      title             = "The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers",
+      doi               = "10.1016/j.cscm.2025.e04352",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04352",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sando  and D. Stephan, “The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers”, <i>Case Studies in Construction Materials</i>, p. e04352, 2025, doi: 10.1016/j.cscm.2025.e04352.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sando, Mona, and Dietmar Stephan. “The Role of Mixing Sequence in Shaping the 3D-Printability of Geopolymers”. <i>Case Studies in Construction Materials</i>, 2025, e04352. https://doi.org/10.1016/j.cscm.2025.e04352.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

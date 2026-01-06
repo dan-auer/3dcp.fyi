@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sofia Pessoa, Manuel Jesus, Ana Guimarães, Sandra Lucas, Nuno Simões
+    - footer
+title: Pessoa Sofia, Jesus Manuel, Guimarães Ana, Lucas Sandra, Simões Nuno
 description:
 tags:
  - cement
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e02355) Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.cscm.2023.e02355" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e02355</a>
+#Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02355) <a href="https://doi.org/10.1016/j.cscm.2023.e02355" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02355" target="_blank">10.1016/j.cscm.2023.e02355</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_sofia"><b>Pessoa</b>&nbsp;Sofia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3418-0030" title="ORCID: 0000-0003-3418-0030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/simoes_nuno"><b>Simões</b>&nbsp;Nuno</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e02355
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a> <a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> <a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="https://orcid.org/0000-0003-3418-0030" title="ORCID: 0000-0003-3418-0030" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e02355
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#experiment`](keyword/experiment)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Characterisation%20of%20Hygrothermal%20Properties%20of%20a%203D%20Printed%20Cementitious%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166661246&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385376203" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e02355" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e02355?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (3DP) presents great potential for automation, sustainability, and quality control in the construction sector. However, research on 3DP in Construction has been carried out primarily from a structural standpoint, and information on the thermal performance, comfort and energy efficiency of these solutions remains very limited. Given the importance of assessing how printed walls perform when subjected to hygrothermal solicitations, this work experimentally analyses a cement-based mortar specially developed for 3DP. An extensive laboratory campaign was carried out and the following set of physical, hygric and thermal properties were obtained: the dry bulk density, saturation moisture content, specific heat capacity, porosity, water absorption due to capillary action, water vapour permeability, thermal conductivity (dry and moisture-dependent), and the sorption isotherm. The results show that the 3D printed cement-based mortar, which presents a dry density of 2060 kg/m and a thermal conductivity of 1.33 W/(mK) , has a hygrothermal performance comparable to that of traditional cast concrete. This indicates that additional thermal insulation materials are required to obtain appropriate thermal performance through the building envelope. Moreover, this detailed hygrothermal characterisation is suitable for design purposes, allowing the use of the obtained properties in future numerical simulations, important for studying the hygrothermal performance of printed building elements in service.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -82,15 +61,14 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
-      <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pess_jesu_rang_guim.2023.PSotAoTMi3PCW/">Preliminary Study of the Application of Thermal Mortar in 3D Printed Concrete Walls</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
       <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a></li>
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vale_samb_chou_ghaf.2023.CAAMwWTRDfAM/">Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing:<br/>An Eco-Sustainable and Energy Saving Approach</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../varg_bres_silf.2025.CHF/">Circular Hybrid Façades:<br/>Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements</a></li>
       <li><a href="../../../author/crook_thomas"><b>Crook</b> Thomas</a>, <a href="../../../author/li_matthew"><b>Li</b> Matthew</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/allinson_david"><b>Allinson</b> David</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../croo_li_busw_alli.2025.AHPo3PC/">Anisotropic Hygrothermal Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
@@ -103,4 +81,33 @@ tags:
       <li><a href="../../../author/ghaderi_ehsan"><b>Ghaderi</b> Ehsan</a>, <a href="../../../author/evans_pete"><b>Evans</b> Pete</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a>, <a href="../../../author/senske_nick"><b>Senske</b> Nick</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../ghad_evan_doyl_sens.2024.HBo3CPWA/">Hygrothermal Behavior of 3D Concrete Printed Wall Assemblies</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pess_jesu_guim_luca.2023.ECoHPoa3PCM,
+      author            = "Sofia Pessoa and Manuel Jesus and Ana Sofia Guimarães and Sandra Simaria de Oliveira Lucas and Nuno Simões",
+      title             = "Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar",
+      doi               = "10.1016/j.cscm.2023.e02355",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e02355",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Pessoa, M. Jesus, A. S. Guimarães, S. S. de Oliveira Lucas and N. Simões, “Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar”, <i>Case Studies in Construction Materials</i>, p. e02355, 2023, doi: 10.1016/j.cscm.2023.e02355.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pessoa, Sofia, Manuel Jesus, Ana Sofia Guimarães, Sandra Simaria de Oliveira Lucas, and Nuno Simões. “Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar”. <i>Case Studies in Construction Materials</i>, 2023, e02355. https://doi.org/10.1016/j.cscm.2023.e02355.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

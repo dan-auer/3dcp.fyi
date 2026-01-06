@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Raghed Thib, Sébastien Rémond, Naima Belayachi, Elise Rémond, Ahmed Loukili
+    - footer
+title: Thib Raghed, Rémond Sébastien, Belayachi Naima, Rémond Elise, Loukili Ahmed
 description:
 tags:
  - characteristic
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printable Eco-Efficient Mortars Under Salt Water:<br/>:aca-blank: Mix Design and Characterization ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144288" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144288</a>
+#3D Printable Eco-Efficient Mortars Under Salt Water&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Mix Design and Characterization</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.144288" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144288" target="_blank">10.1016/j.conbuildmat.2025.144288</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0006-3142-9397" title="ORCID: 0009-0006-3142-9397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thib_raghed"><b>al&nbsp;Thib</b>&nbsp;Raghed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4112-3368" title="ORCID: 0000-0003-4112-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belayachi_naima"><b>Belayachi</b>&nbsp;Naima</a></span>, <a href="../../../author/remond_elise"><b>Rémond</b>&nbsp;Elise</a></span>, <a href="../../../author/loukili_ahmed"><b>Loukili</b>&nbsp;Ahmed</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 501, No. 144288
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/thib_raghed"><b>al Thib</b> Raghed</a> <a href="https://orcid.org/0009-0006-3142-9397" title="ORCID: 0009-0006-3142-9397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a> <a href="https://orcid.org/0000-0003-4112-3368" title="ORCID: 0000-0003-4112-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a>
-,     <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 501, No. 144288
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#design`](keyword/design)
-    [`#efficient`](keyword/efficient)
-    [`#mixing`](keyword/mixing)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#salt`](keyword/salt)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/salt"><button class="btn">#salt</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Eco-Efficient%20Mortars%20Under%20Salt%20Water" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020983861&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415756414" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144288" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144288?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D Printing (3DP) is an emerging technology with significant potential to improve construction productivity, reduce material consumption and waste, and enable complex shapes. It is particularly promising for construction in challenging environments such as underwater infrastructure. However, traditional printable mortars are heavily dependent on Portland cement with high carbon footprint, motivating the development of low-carbon alternatives. This study aims to formulate and characterize at macroscopic scale low-carbon 3DP mortars suitable for both air and controlled submerged saline environments, with and without an Anti-Washout Agent (AWA). Mortars were designed using a blend of Portland cement, slag, and limestone filler. Fresh and hardened properties were characterized at the laboratory scale, followed by printing simple shapes in air and under salt water to evaluate printability, mechanical strength, and porosity. The results show that the developed mortars can be successfully printed in both environments. The addition of AWA increased water demand, which negatively impacted printability and mechanical strength. Mechanical tests revealed slightly higher compressive strength in 3D printed samples compared to moulded ones, with minimal anisotropy related to printing direction. Surface porosity was much higher than bulk porosity for mortars printed under salt water (88 % and 69 % increase for mortars without and with AWA). A comparable increase in surface porosity was observed in the air for mortar without AWA (68 %). However, adding AWA reduced very significantly surface porosity in comparison to the bulk for air-printed samples (15 % increase). This research demonstrates the feasibility of low-carbon 3DP mortars for underwater construction, providing valuable insights for sustainable concrete 3D printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -89,7 +67,37 @@ tags:
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/hu_yan-ye"><b>Hu</b> Yan-Ye</a>, <a href="../../../author/cheng_song-gui"><b>Cheng</b> Song-Gui</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_qiu_hu_chen.2023.IFoMPaMCoU3PC/">Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{thib_remo_bela_remo.2025.3PEEMUSW,
+      author            = "Raghed Al Thib and Sébastien Rémond and Naima Belayachi and Elise Rémond and Ahmed Loukili",
+      title             = "3D Printable Eco-Efficient Mortars Under Salt Water: Mix Design and Characterization",
+      doi               = "10.1016/j.conbuildmat.2025.144288",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "501",
+      pages             = "144288",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. A. Thib, S. Rémond, N. Belayachi, E. Rémond and A. Loukili, “3D Printable Eco-Efficient Mortars Under Salt Water: Mix Design and Characterization”, <i>Construction and Building Materials</i>, vol. 501, p. 144288, 2025, doi: 10.1016/j.conbuildmat.2025.144288.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Thib, Raghed Al, Sébastien Rémond, Naima Belayachi, Elise Rémond, and Ahmed Loukili. “3D Printable Eco-Efficient Mortars Under Salt Water: Mix Design and Characterization”. <i>Construction and Building Materials</i> 501 (2025): 144288. https://doi.org/10.1016/j.conbuildmat.2025.144288.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

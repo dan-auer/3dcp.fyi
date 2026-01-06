@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Darssni Ravichandran, Prabhat Prem, Greeshma Giridhar, Gollapalli Bhaskara, Srinivasan Maheswaran
+    - footer
+title: Ravichandran Darssni, Prem Prabhat, Giridhar Greeshma, Bhaskara Gollapalli, Maheswaran Srinivasan
 description:
 tags:
  - copper
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.istruc.2025.108819" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.108819</a>
+#Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.108819" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.108819" target="_blank">10.1016/j.istruc.2025.108819</a>
 
--------------------------
+<a href="../../../author/ravichandran_darssni"><b>Ravichandran</b>&nbsp;Darssni</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giridhar_greeshma"><b>Giridhar</b>&nbsp;Greeshma</a></span>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b>&nbsp;Gollapalli</a></span>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b>&nbsp;Srinivasan</a></span><br>
+Journal Article - Structures, Vol. 75, No. 108819
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>
-,     <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> <a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>
-,     <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 75, No. 108819
-
-:aca-blank:{ .lg .middle}
-    [`#copper`](keyword/copper)
-    [`#dependency`](keyword/dependency)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#sand`](keyword/sand)
-    [`#silica`](keyword/silica)
-    [`#slag`](keyword/slag)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Properties%20of%203D-Printed%20UHPC%20with%20Silica%20Sand%2C%20Copper%20Slag%2C%20and%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001555252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409183710" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.108819" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.108819?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the development and characterization of 3D-printable Ultra-High-Performance Concrete (3DP-UHPC) by optimizing its rheological and mechanical properties. The research examines the influence of fine aggregate gradation, incorporating silica sand (SS-GI: 2–1 mm, SS-GII: 1–0.5 mm, SS-GIII: 0.5–0.09 mm) and copper slag (CS-GI: 2–1 mm) as an alternative fine aggregate. Additionally, steel fibers are incorporated at dosages of 0.5 %, 1 %, and 2 % to assess their impact on extrudability and buildability. Following systematic printing trials, ten optimal mix compositions demonstrating superior buildability, shape stability, and extrusion efficiency are selected for in-depth analysis. The selected mixes undergo flowability assessments, extrudability evaluations, stress growth tests, compressive strength testing, and microstructural characterization to evaluate early-age properties. The experimental findings reveal that both static and dynamic yield stress increase over resting time, following the order CS-GI > SS-GI & GII > SS-GIII. Copper slag-based formulations exhibit enhanced rheological performance, which is attributed to improved particle packing density and reduced porosity. Moreover, both plain and fiber-reinforced copper slag mixes demonstrate superior compressive strength across the X, Y, and Z axes due to their vitreous microstructure and densified matrix. The anisotropic strength behavior is examined for copper slag replacements at 25 %, 50 %, 75 %, and 100 % substitution levels. Microstructural analyses indicate that early nucleation of calcium silicate hydrate (CSH) gel contributes to ultra-high-strength development. While steel fiber incorporation reduces flowability, it enhances rheological stability and printability through mechanical interlocking within the binder matrix. The research establishes copper slag as a viable alternative for sustainable applications for 3D concrete printing of UHPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -93,7 +69,6 @@ tags:
       <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../prem_ambi_kuma_ghod.2024.ATMtPtSBo3PC/">A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete</a></li>
       <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../prem_ambi_kuma_giri.2024.SBUMfTDCPBoKT/">Structural Build-Up-Model for Three-Dimensional Concrete Printing Based on Kinetics-Theory</a></li>
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../qiu_sun_qian.2024.IoGaTPotBBB3PUSaCNC/">Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete</a></li>
-      <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hong_guang-yao"><b>Hong</b> Guang-Yao</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sun_zeng_hong_zhug.2025.3PFGCP/">3D Printed Functionally Graded Concrete Plates:<br/>Concept and Bending Behavior</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_lesa_titt_yuan.2022.IoSSRaMCoTAPo3PC/">Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete</a></li>
       <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTiSC/">Concrete 3D Printing Technology in Sustainable Construction:<br/>A Review on Raw Materials, Concrete Types and Performances</a></li>
@@ -106,13 +81,42 @@ tags:
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zeng_sun_deng_yan.2025.BPBFBa3PHPC/">Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhan_sanj.2024.QNMTf3PFC/">Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
       <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS/">Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States</a></li>
-      <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF,
+      author            = "Darssni Ravichandran and Prabhat Ranjan Prem and Greeshma Giridhar and Gollapalli S. Vijaya Bhaskara and Srinivasan Maheswaran",
+      title             = "Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers",
+      doi               = "10.1016/j.istruc.2025.108819",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "75",
+      pages             = "108819",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Ravichandran, P. R. Prem, G. Giridhar, G. S. V. Bhaskara and S. Maheswaran, “Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers”, <i>Structures</i>, vol. 75, p. 108819, 2025, doi: 10.1016/j.istruc.2025.108819.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ravichandran, Darssni, Prabhat Ranjan Prem, Greeshma Giridhar, Gollapalli S. Vijaya Bhaskara, and Srinivasan Maheswaran. “Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers”. <i>Structures</i> 75 (2025): 108819. https://doi.org/10.1016/j.istruc.2025.108819.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

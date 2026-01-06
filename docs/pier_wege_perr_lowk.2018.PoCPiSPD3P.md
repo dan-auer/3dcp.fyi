@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexandre Pierre, Daniel Weger, Arnaud Perrot, Dirk Lowke
+    - footer
+title: Pierre Alexandre, Weger Daniel, Perrot Arnaud, Lowke Dirk
 description:
 tags:
  - analysis
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Penetration of Cement-Pastes into Sand-Packings During 3D Printing:<br/>:aca-blank: Analytical and Experimental Study ([2018-01](date/2018/01))
-<a href="https://doi.org/10.1617/s11527-018-1148-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-018-1148-5</a>
+#Penetration of Cement-Pastes into Sand-Packings During 3D Printing&nbsp;([2018-01](date/2018/01))
+<div class="h1-like">Analytical and Experimental Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-018-1148-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-018-1148-5" target="_blank">10.1617/s11527-018-1148-5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_alexandre"><b>Pierre</b>&nbsp;Alexandre</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Journal Article - Materials and Structures, Vol. 51, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 51, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cement`](keyword/cement)
-    [`#experiment`](keyword/experiment)
-    [`#packing`](keyword/packing)
-    [`#paste`](keyword/paste)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Penetration%20of%20Cement-Pastes%20into%20Sand-Packings%20During%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85041127231&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2794158138" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-018-1148-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-018-1148-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing processes of concrete and cement based materials could bring architectural and structural innovation in construction industry. Additive manufacturing and digital fabrication methods in civil engineering have recently been developed at laboratory scale. Among the 3D printing processes that could bring new perspectives in innovative and designed architectural elements, one of the most interesting is called the selective paste intrusion method. The component is built layer by layer by selectively applying cement paste on an aggregate packing using a 3D printer nozzle and a subsequent penetration of the paste into the aggregate layer. The implementability of the selective paste intrusion method requires the prediction of the flow of a yield stress fluid through a porous media. The rheological behaviour of the cement paste must be adapted for its penetration through the porous network of the aggregate particle packing. An adequate penetration depth of the cement paste produces homogeneous materials that are capable of sustaining a high mechanical stress. We show in this paper that the compressive strength of component made by such a technique is directly linked to the penetration depth of the cement paste into the aggregate layer; consequently, this paper aims at predicting the penetration depth of cement pastes into sand layers. A theoretical framework has been developed to propose an evaluation of penetration depth as a function of the average sand grain diameter and the yield stress of the cement paste, which is experimentally validated with specific penetration measurements. Finally, we stress that the prediction of penetration with an analytical model is an effective technique to ensure building homogeneous cement based materials with the 3D printing selective binding method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
@@ -78,8 +57,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "57 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_cort_ooms_wan.2025.MPoPB3PCIP/">Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns</a></li>
@@ -138,4 +117,34 @@ tags:
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pier_wege_perr_lowk.2018.PoCPiSPD3P,
+      author            = "Alexandre Pierre and Daniel Weger and Arnaud Perrot and Dirk Lowke",
+      title             = "Penetration of Cement-Pastes into Sand-Packings During 3D Printing: Analytical and Experimental Study",
+      doi               = "10.1617/s11527-018-1148-5",
+      year              = "2018",
+      journal           = "Materials and Structures",
+      volume            = "51",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Pierre, D. Weger, A. Perrot and D. Lowke, “Penetration of Cement-Pastes into Sand-Packings During 3D Printing: Analytical and Experimental Study”, <i>Materials and Structures</i>, vol. 51, no. 1, 2018, doi: 10.1617/s11527-018-1148-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pierre, Alexandre, Daniel Weger, Arnaud Perrot, and Dirk Lowke. “Penetration of Cement-Pastes into Sand-Packings During 3D Printing: Analytical and Experimental Study”. <i>Materials and Structures</i> 51, no. 1 (2018). https://doi.org/10.1617/s11527-018-1148-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

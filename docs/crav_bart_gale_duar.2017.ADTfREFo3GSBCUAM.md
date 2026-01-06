@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Flávio Craveiro, Helena Bártolo, Andrew Gale, José Duarte, Paulo Bartolo
+    - footer
+title: Craveiro Flávio, Bártolo Helena, Gale Andrew, Duarte José, Bartolo Paulo
 description:
 tags:
  - additive
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://research.manchester.ac.uk/files/95757148/AUTOMATION_IN_CONSTRUCTION.pdf) A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing ([2017-07](date/2017/07))
-<a href="https://doi.org/10.1016/j.autcon.2017.05.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2017.05.006</a>
+#A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing ([2017-07](date/2017/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://research.manchester.ac.uk/files/95757148/AUTOMATION_IN_CONSTRUCTION.pdf) <a href="https://doi.org/10.1016/j.autcon.2017.05.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.05.006" target="_blank">10.1016/j.autcon.2017.05.006</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/craveiro_flavio"><b>Craveiro</b>&nbsp;Flávio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_galha_helena"><b>Bártolo</b>&nbsp;Helena</a></span>, <a href="../../../author/gale_andrew"><b>Gale</b>&nbsp;Andrew</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b>&nbsp;Paulo</a></span><br>
+Journal Article - Automation in Construction, Vol. 82, pp. 75-83
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a> <a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 82, pp. 75-83
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#design`](keyword/design)
-    [`#efficient`](keyword/efficient)
-    [`#fabrication`](keyword/fabrication)
-    [`#grade`](keyword/grade)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#structure`](keyword/structure)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Design%20Tool%20for%20Resource-Efficient%20Fabrication%20of%203D%20Graded%20Structural%20Building%20Components%20Using%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85024113904&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,24 +40,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2734904574" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2017.05.006" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2017.05.006?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector is under increasing pressure to improve its efficiency and effectiveness, reducing environmental impacts, material use and costs. A computational tool was developed to design and fabricate functionally graded building components. The material composition was defined based on voxel determination in order to design building elements with varying material stiffness. A cement-based conceptual building wall was investigated with a varied material composition, using two different lightweight aggregates, a granulated cork one and the other with expanded clay. This functionally graded material concept applied to lightweight building components will allow producing resource-efficient graded building components tailored to specific loading conditions, minimizing waste generation, emissions and resource consumption.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/wang_heyu"><b>Wang</b> Heyu</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../li_xing_wang_sun.2024.TEoHGoSSHTiEB3PS/">The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tarh_tarh_jacq_perr.2024.MBo3PaTREFC/">Mechanical Behavior of 3D Printed and Textile-Reinforced Eco-Friendly Composites</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
@@ -119,4 +94,34 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../duar_naza_ashr.2018.DSf3P/">Designing Shelters for 3D Printing:<br/>A Studio Experiment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM,
+      author            = "Flávio Craveiro and Helena Galha Bártolo and Andrew Gale and José Pinto Duarte and Paulo Jorge Bartolo",
+      title             = "A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing",
+      doi               = "10.1016/j.autcon.2017.05.006",
+      year              = "2017",
+      journal           = "Automation in Construction",
+      volume            = "82",
+      pages             = "75--83",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Craveiro, H. G. Bártolo, A. Gale, J. P. Duarte and P. J. Bartolo, “A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing”, <i>Automation in Construction</i>, vol. 82, pp. 75–83, 2017, doi: 10.1016/j.autcon.2017.05.006.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Craveiro, Flávio, Helena Galha Bártolo, Andrew Gale, José Pinto Duarte, and Paulo Jorge Bartolo. “A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing”. <i>Automation in Construction</i> 82 (2017): 75–83. https://doi.org/10.1016/j.autcon.2017.05.006.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kathryn Jones, Mo Li
+    - footer
+title: Jones Kathryn, Li Mo
 description:
 tags:
  - additive
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jclepro.2023.137709) Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.jclepro.2023.137709" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2023.137709</a>
+#Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jclepro.2023.137709) <a href="https://doi.org/10.1016/j.jclepro.2023.137709" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.137709" target="_blank">10.1016/j.jclepro.2023.137709</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0009-4705-2768" title="ORCID: 0009-0009-4705-2768" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_es_kathryn"><b>Jones</b>&nbsp;Kathryn</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mo"><b>Li</b>&nbsp;Mo</a></span><br>
+Journal Article - Journal of Cleaner Production, No. 137709
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jones_es_kathryn"><b>Jones</b> Kathryn</a> <a href="https://orcid.org/0009-0009-4705-2768" title="ORCID: 0009-0009-4705-2768" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, No. 137709
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#assessment`](keyword/assessment)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#conventional`](keyword/conventional)
-    [`#cycle`](keyword/cycle)
-    [`#life`](keyword/life)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#tall`](keyword/tall)
-    [`#wind`](keyword/wind)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/tall"><button class="btn">#tall</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Ultra-Tall%20Wind%20Turbine%20Towers%20Comparing%20Concrete%20Additive%20Manufacturing%20to%20Conventional%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164216507&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380342364" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2023.137709" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2023.137709?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Wind power is a quickly growing renewable energy resource within the continental United States and is expected to continue increasing as more wind farms are installed onshore and offshore. As a part of this growth, larger turbines benefit from economies of scale from taller towers. However, the development of ultra-tall wind turbine towers is hindered by transportation restrictions which limit the diameter and weight of the prefabricated tower sections. One proposed solution to this problem is to employ concrete additive manufacturing technology to build ultra-tall wind turbine towers on-site. To evaluate the potential environmental impacts of this approach, this study performed a life cycle assessment comparing four prototype 7.5-MW wind turbine towers designed with a height of 140 m: a conventional tubular steel tower assembled using bolted connections, two 3D printed concrete tower additively manufactured on-site with normal-strength (35 MPa) or high-strength (78 MPa) concrete, and a 3D cast concrete tower with normal strength (35 MPa) concrete cast into concrete formworks additively manufactured with high-strength (78 MPa) concrete. The 3D cast concrete tower segments are manufactured off-site and assembled on-site. The life cycle assessment examined the impacts of differences in materials inventory, structural designs, manufacturing methods, maintenance schedules, and end-of-life options for the four towers. The results indicate that the material production stage dominates, contributing over 92% of the total CO2 emissions and 67–93% of the energy consumption of the four towers. Compared with the steel tower, the normal-strength 3D printed concrete tower has 23% lower total life cycle CO2 emissions but 29% higher energy consumption; the high-strength 3D printed concrete tower has 16% higher life cycle CO2 emissions and 64% higher energy consumption. Parametric studies were also conducted to examine the effects of cement content by weight, distance from the concrete plant to the tower construction site, the number of tower sections, rated tower life, and tower end-of-life recycling rate. The results indicate that reducing cement content in 3D printed concrete such as by incorporating waste or recycled materials can significantly reduce the life cycle environmental impacts of ultra-tall turbine towers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
@@ -83,8 +61,8 @@ tags:
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/zhang_yonghong"><b>Zhang</b> Yonghong</a>, <a href="../../../author/cui_suping"><b>Cui</b> Suping</a>, <a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a>, <a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhan_cui_wang_yang.2025.MaPoRWTBB3PC/">Microstructure and Performance of Recycled Wind Turbine Blade-Based 3D Printed Concrete</a></li>
@@ -97,4 +75,33 @@ tags:
       <li><a href="../../../author/lu_yue"><b>Lu</b> Yue</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_yan"><b>Li</b> Yan</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lu_xiao_li.2024.3PRCIPF/">3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/yang_in-hwan"><b>Yang</b> In-Hwan</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a>, <a href="../../../author/jeong_seung-tae"><b>Jeong</b> Seung-Tae</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../yang_bui_park_jeon.2023.AFSotLBoa3PCfAiaWTT/">A Feasibility Study on the Lateral Behavior of a 3D Printed Column for Application in a Wind Turbine Tower</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jone_li.2023.LCAoUTWTTCCAMtCM,
+      author            = "Kathryn E.S. Jones and Mo Li",
+      title             = "Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing",
+      doi               = "10.1016/j.jclepro.2023.137709",
+      year              = "2023",
+      journal           = "Journal of Cleaner Production",
+      pages             = "137709",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. E. S. Jones  and M. Li, “Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing”, <i>Journal of Cleaner Production</i>, p. 137709, 2023, doi: 10.1016/j.jclepro.2023.137709.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jones, Kathryn E.S., and Mo Li. “Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing”. <i>Journal of Cleaner Production</i>, 2023, 137709. https://doi.org/10.1016/j.jclepro.2023.137709.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

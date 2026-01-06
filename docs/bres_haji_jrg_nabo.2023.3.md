@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luca Breseghello, Hamed Hajikarimian, Henrik Jørgensen, Roberto Naboni
+    - footer
+title: Breseghello Luca, Hajikarimian Hamed, Jørgensen Henrik, Naboni Roberto
 description:
 tags:
  - beam
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2023.116511) 3DLightBeam+:<br/>:aca-blank: Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.engstruct.2023.116511" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.116511</a>
+#3DLightBeam+&nbsp;([2023-07](date/2023/07))
+<div class="h1-like">Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2023.116511) <a href="https://doi.org/10.1016/j.engstruct.2023.116511" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116511" target="_blank">10.1016/j.engstruct.2023.116511</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0048-9371" title="ORCID: 0000-0003-0048-9371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b>&nbsp;Hamed</a></span>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b>&nbsp;Henrik</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span><br>
+Journal Article - Engineering Structures, Vol. 292, No. 116511
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a> <a href="https://orcid.org/0000-0003-0048-9371" title="ORCID: 0000-0003-0048-9371" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>
-,     <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 292, No. 116511
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#efficient`](keyword/efficient)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#simulation`](keyword/simulation)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3DLightBeam%2B" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165213659&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4383505991" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.116511" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.116511?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper presents a workflow for the design, material testing and numerical simulation of shape-optimised reinforced 3D Concrete Printed (3DCP) beams tested structurally in three-point bending. Building upon previous research on structurally optimised toolpath planning for 3DCP, the presented work suggests a method for the computational design optimisation process based on material efficiency principles and the parallel development of a lossless data transfer tool from the 3D modelling environment to a Finite Element Analysis (FEA) workspace taking into account the layered process characteristic of 3DCP and the consequent weak interactions generated between adjacent printed concrete filaments. The proposed FEA model was calibrated through cored cylindrical specimens and then applied to the design, fabrication and experimental testing of a proof-of-concept shape- and infill-optimised 3-metre simply supported beam. The comparative analysis of simulation and structural testing proves the reliability of the numerical model, which correctly estimated peak load and damage patterns for 3DCP. The tests highlight how, with a shear failure mode, the dominant cracks start from the support region and reach the area of load application. The presented work advances the research in 3DCP by developing 3DLightBeam+, a carbon-efficient reinforced concrete beam design with a 200% higher flexural strength-toweight ratio than a full comparable beam. The beam is conceived through a seamless workflow for its FE analysis and structural verification that accurately predicts structural capacity and behaviour without destructive testing methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../bhoo_mele_bloc.2020.MS/">Morph & Slerp:<br/>Shape Description for 3D Printing of Concrete</a></li>
@@ -110,8 +88,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/qu_yao"><b>Qu</b> Yao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_wang_li_qu.2025.IPi3PUHPCCBfSFP/">Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance</a></li>
@@ -148,4 +126,34 @@ tags:
       <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kurn_kim.2023.UIBfSTDPIA/">Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/talaei_ardeshir"><b>Talaei</b> Ardeshir</a>, <a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bres_tala_flor_nabo.2023.SE/">Shape-Env:<br/>Camera-Enhanced Robotic Terrain-Shaping for Complex 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bres_haji_jrg_nabo.2023.3,
+      author            = "Luca Breseghello and Hamed Hajikarimian and Henrik Brøner Jørgensen and Roberto Naboni",
+      title             = "3DLightBeam+: Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams",
+      doi               = "10.1016/j.engstruct.2023.116511",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "292",
+      pages             = "116511",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Breseghello, H. Hajikarimian, H. B. Jørgensen and R. Naboni, “3DLightBeam+: Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams”, <i>Engineering Structures</i>, vol. 292, p. 116511, 2023, doi: 10.1016/j.engstruct.2023.116511.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Breseghello, Luca, Hamed Hajikarimian, Henrik Brøner Jørgensen, and Roberto Naboni. “3DLightBeam+: Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams”. <i>Engineering Structures</i> 292 (2023): 116511. https://doi.org/10.1016/j.engstruct.2023.116511.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

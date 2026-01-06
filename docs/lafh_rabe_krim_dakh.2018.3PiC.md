@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zoubeir Lafhaj, Andry Rabenantoandro, Imane Krimi, Zakaria Dakhli, Laure Ducoulombier, Thomas Danel, Emma Attouri, Mélanie Denecker
+    - footer
+title: Lafhaj Zoubeir, Rabenantoandro Andry, Krimi Imane, Dakhli Zakaria, Ducoulombier Laure, Danel Thomas, Attouri Emma, Denecker Mélanie
 description:
 tags:
  - application
@@ -17,35 +18,12 @@ tags:
 
 ---
 
-# 3D Printing in Construction:<br/>:aca-blank: Application-Framework for a Robotic-Arm Based on the Extrusion-Technique ([2018-03](date/2018/03))
--------------------------
+#3D Printing in Construction&nbsp;([2018-03](date/2018/03))
+<div class="h1-like">Application-Framework for a Robotic-Arm Based on the Extrusion-Technique</div>
+<span class="author"><a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b>&nbsp;Zoubeir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9689-121X" title="ORCID: 0000-0002-9689-121X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rabenantoandro_zaid_andry"><b>Rabenantoandro</b>&nbsp;Andry</a></span>, <a href="../../../author/krimi_imane"><b>Krimi</b>&nbsp;Imane</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6097-0015" title="ORCID: 0000-0001-6097-0015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dakhli_zakaria"><b>Dakhli</b>&nbsp;Zakaria</a></span>, <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b>&nbsp;Laure</a></span>, <a href="../../../author/danel_thomas"><b>Danel</b>&nbsp;Thomas</a></span>, <a href="../../../author/attouri_emma"><b>Attouri</b>&nbsp;Emma</a></span>, <a href="../../../author/denecker_melanie"><b>Denecker</b>&nbsp;Mélanie</a></span><br>
+Contribution - International Conference on Smart, Sustainable and Sensuous Settlements Transformation, pp. 199-206
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a> <a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rabenantoandro_zaid_andry"><b>Rabenantoandro</b> Andry</a> <a href="https://orcid.org/0000-0002-9689-121X" title="ORCID: 0000-0002-9689-121X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/krimi_imane"><b>Krimi</b> Imane</a>
-,     <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> <a href="https://orcid.org/0000-0001-6097-0015" title="ORCID: 0000-0001-6097-0015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b> Laure</a>
-,     <a href="../../../author/danel_thomas"><b>Danel</b> Thomas</a>
-,     <a href="../../../author/attouri_emma"><b>Attouri</b> Emma</a>
-,     <a href="../../../author/denecker_melanie"><b>Denecker</b> Mélanie</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - International Conference on Smart, Sustainable and Sensuous Settlements Transformation, pp. 199-206
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#arm`](keyword/arm)
-    [`#base`](keyword/base)
-    [`#construction`](keyword/construction)
-    [`#extrusion`](keyword/extrusion)
-    [`#framework`](keyword/framework)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -60,17 +38,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3DCP (3D concrete printing) recently gained a rapid development and showed a large range of potential applications in construction. The latter may drastically evolve thanks to the technique used in 3D printing, which consists in an additive manufacturing process where products are built on a layer-by-layer basis, through a series of cross-sectional slices. This article examines the use of industrial existing solutions to match the need for 3DCP based on the extrusion technique in the construction industry. The first part of the paper adapts an intermediate route with existing technologies. After that, the coordination of those technologies is set to develop an operational 3D Printer. Based on this experimentation, we propose an application framework for 3D printing in construction based on the extrusion technique piloted by a robotic arm.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
@@ -84,7 +58,35 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lafh_rabe_krim_dakh.2018.3PiC,
+      author            = "Zoubeir Lafhaj and Andry Zaid Rabenantoandro and Imane Krimi and Zakaria Dakhli and Laure Ducoulombier and Thomas Danel and Emma Attouri and Mélanie Denecker",
+      title             = "3D Printing in Construction: Application-Framework for a Robotic-Arm Based on the Extrusion-Technique",
+      year              = "2018",
+      pages             = "199--206",
+      booktitle         = "International Conference on Smart, Sustainable and Sensuous Settlements Transformation",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Lafhaj, “3D Printing in Construction: Application-Framework for a Robotic-Arm Based on the Extrusion-Technique”, in <i>International Conference on Smart, Sustainable and Sensuous Settlements Transformation</i>,  2018, pp. 199–206.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lafhaj, Zoubeir, Andry Zaid Rabenantoandro, Imane Krimi, Zakaria Dakhli, Laure Ducoulombier, Thomas Danel, Emma Attouri, and Mélanie Denecker. “3D Printing in Construction: Application-Framework for a Robotic-Arm Based on the Extrusion-Technique”. In <i>International Conference on Smart, Sustainable and Sensuous Settlements Transformation</i>, 199–206, 2018.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

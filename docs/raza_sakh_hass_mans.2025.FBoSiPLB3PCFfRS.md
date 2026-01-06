@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Saim Raza, Mahsa Sakha, Zohaib Hassan, Behzad Manshadi, Xiaomeng Wang, Haifeng Fan, Benjamin Dillenburger, Moslem Shahverdi
+    - footer
+title: Raza Saim, Sakha Mahsa, Hassan Zohaib, Manshadi Behzad, Wang Xiaomeng, Fan Haifeng, Dillenburger Benjamin, Shahverdi Moslem
 description:
 tags:
  - bearing
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2025.120531) Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.engstruct.2025.120531" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.120531</a>
+#Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2025.120531) <a href="https://doi.org/10.1016/j.engstruct.2025.120531" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120531" target="_blank">10.1016/j.engstruct.2025.120531</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_saim"><b>Raza</b>&nbsp;Saim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sakha_mahsa"><b>Sakha</b>&nbsp;Mahsa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2162-0682" title="ORCID: 0000-0003-2162-0682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hassan_zohaib"><b>Hassan</b>&nbsp;Zohaib</a></span>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8136-0731" title="ORCID: 0000-0002-8136-0731" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiaomeng"><b>Wang</b>&nbsp;Xiaomeng</a></span>, <a href="../../../author/fan_haifeng"><b>Fan</b>&nbsp;Haifeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahverdi_moslem"><b>Shahverdi</b>&nbsp;Moslem</a></span><br>
+Journal Article - Engineering Structures, Vol. 338, No. 120531
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/raza_saim"><b>Raza</b> Saim</a> <a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a> <a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a> <a href="https://orcid.org/0000-0003-2162-0682" title="ORCID: 0000-0003-2162-0682" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a>
-,     <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a> <a href="https://orcid.org/0000-0002-8136-0731" title="ORCID: 0000-0002-8136-0731" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> <a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 338, No. 120531
-
-:aca-blank:{ .lg .middle}
-    [`#bearing`](keyword/bearing)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#flexural`](keyword/flexural)
-    [`#formwork`](keyword/formwork)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#rib`](keyword/rib)
-    [`#slab`](keyword/slab)
-
-
--------------------------
+<a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Behavior%20of%20Stay-in-Place%20Load-Bearing%203D-Printed%20Concrete%20Formwork%20for%20Ribbed%20Slabs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005485944&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410560070" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.120531" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.120531?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Conventional timber formworks for concrete slabs are generally less suitable for complex geometries and are more cost-effective for flat, planar designs. Moreover, conventional formworks are temporary, non-load-bearing structures that require additional shoring elements to support the weight of wet concrete and live loads during onsite casting, resulting in significant labor work and costs. To address these challenges, the current study presents a novel approach for concrete slab construction using 3D-printed concrete (3DPC) formwork integrated with the post-tensioning system. The proposed formwork serves as both a stay-in-place, load-bearing component of the slab system and an effective fabrication method for complex slab geometries. It overcomes the current limitation of 3DPC formworks, which are typically used as non-load-bearing, sacrificial components due to the lack of a feasible method for integrating reinforcement in 3DPC without interfering with the printing process. In this fabrication method, lightweight 3DPC formwork is first printed, then post-tensioned using unbonded tendons, and subsequently filled with cast concrete. Post-tensioning enhances the formwork’s structural capacity, enabling it to support wet concrete and live loads without temporary shoring or with minimal shoring requirements for long spans. To assess the feasibility of the proposed approach, two distinct ribbed slab formwork designs were developed, printed, post-tensioned, and experimentally examined under large-scale four-point bending loading. The experimental results demonstrated that the designed post-tensioned 3DPC formworks exhibited sufficient cracking moment capacity to resist factored dead and live loads during construction for free spans up to 5 m, without the need for temporary support. Furthermore, with a single temporary support for the formwork during construction, the span length of the slab can be extended to 10 m.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
@@ -104,9 +77,39 @@ tags:
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/qu_yao"><b>Qu</b> Yao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_wang_li_qu.2025.IPi3PUHPCCBfSFP/">Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS,
+      author            = "Saim Raza and Mahsa Sakha and Zohaib Hassan and Behzad Manshadi and Xiaomeng Wang and Haifeng Fan and Benjamin Dillenburger and Moslem Shahverdi",
+      title             = "Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs",
+      doi               = "10.1016/j.engstruct.2025.120531",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "338",
+      pages             = "120531",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Raza, “Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs”, <i>Engineering Structures</i>, vol. 338, p. 120531, 2025, doi: 10.1016/j.engstruct.2025.120531.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Raza, Saim, Mahsa Sakha, Zohaib Hassan, Behzad Manshadi, Xiaomeng Wang, Haifeng Fan, Benjamin Dillenburger, and Moslem Shahverdi. “Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs”. <i>Engineering Structures</i> 338 (2025): 120531. https://doi.org/10.1016/j.engstruct.2025.120531.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Nishiwaki Tomoya 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gao_shan"><b>Gao</b> Shan</a>, <a href="../../../author/li_tianyu"><b>Li</b> Tianyu</a>, <a href="../../../author/yuan_jian"><b>Yuan</b> Jian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gao_li_yuan_nish.2025.MPo3PMTM/">Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar</a></li>
   <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a>, <a href="../../../author/xiong_gang"><b>Xiong</b> Gang</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../ding_ou_qi_xion.2024.ILBPo3PECC/">Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites:<br/>Rheological Regulation and Fiber Hybridization</a></li>
   <li><a href="../../../author/egawa_ryo"><b>Egawa</b> Ryo</a>, <a href="../../../author/nezu_shoichi"><b>Nezu</b> Shoichi</a>, <a href="../../../author/nishijo_keisuke"><b>Nishijo</b> Keisuke</a>, <a href="../../../author/ohno_kazunori"><b>Ohno</b> Kazunori</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../egaw_nezu_nish_ohno.2024.DSMRISUCRMf3CP/">Different Sized Metal Reinforcement Insertion System Using Cartridge Replacement Mechanism for 3D Concrete Printer</a></li>

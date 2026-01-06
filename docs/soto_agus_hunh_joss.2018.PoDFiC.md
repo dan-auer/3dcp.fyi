@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Borja Soto, Isolda Agustí-Juan, Jens Hunhevicz, Samuel Joss, Konrad Graser, Guillaume Habert, Bryan Adey
+    - footer
+title: Soto Borja, Agustí-Juan Isolda, Hunhevicz Jens, Joss Samuel, Graser Konrad, Habert Guillaume, Adey Bryan
 description:
 tags:
  - analysis
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.sciencedirect.com/science/article/am/pii/S092658051731124X) Productivity of Digital Fabrication in Construction:<br/>:aca-blank: Cost and Time-Analysis of a Robotically Built Wall ([2018-05](date/2018/05))
-<a href="https://doi.org/10.1016/j.autcon.2018.04.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2018.04.004</a>
+#Productivity of Digital Fabrication in Construction&nbsp;([2018-05](date/2018/05))
+<div class="h1-like">Cost and Time-Analysis of a Robotically Built Wall</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S092658051731124X) <a href="https://doi.org/10.1016/j.autcon.2018.04.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2018.04.004" target="_blank">10.1016/j.autcon.2018.04.004</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soto_garcia_borja"><b>de&nbsp;Soto</b>&nbsp;Borja</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b>&nbsp;Isolda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1296-2384" title="ORCID: 0000-0002-1296-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b>&nbsp;Jens</a></span>, <a href="../../../author/joss_samuel"><b>Joss</b>&nbsp;Samuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graser_konrad"><b>Graser</b>&nbsp;Konrad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habert_guillaume"><b>Habert</b>&nbsp;Guillaume</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4932-5901" title="ORCID: 0000-0002-4932-5901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adey_tyrone_bryan"><b>Adey</b>&nbsp;Bryan</a></span><br>
+Journal Article - Automation in Construction, Vol. 92, pp. 297-311
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/soto_garcia_borja"><b>de Soto</b> Borja</a> <a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> <a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a> <a href="https://orcid.org/0000-0002-1296-2384" title="ORCID: 0000-0002-1296-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a>
-,     <a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a> <a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adey_tyrone_bryan"><b>Adey</b> Bryan</a> <a href="https://orcid.org/0000-0002-4932-5901" title="ORCID: 0000-0002-4932-5901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 92, pp. 297-311
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#cost`](keyword/cost)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#production`](keyword/production)
-    [`#robot`](keyword/robot)
-    [`#time`](keyword/time)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Productivity%20of%20Digital%20Fabrication%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046347842&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2800751821" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2018.04.004" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2018.04.004?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Although automation has been actively and successfully used in different industries since the 1970s, its application to the construction industry is still rare or not fully exploited. In order to help provide the construction industry with an additional incentive to adopt more automation, an investigation was undertaken to assess the effects of digital fabrication (dfab) on productivity by analyzing the cost and time required for the construction of a robotically-fabricated complex concrete wall onsite. After defining the different tasks for the conventional and robotically fabricated concrete wall, data was collected from different sources and used in a simulation to describe the distribution of time and cost for the different construction scenarios. In the example, it was found that productivity is higher when the robotic construction method is used for complex walls, indicating that it is possible to obtain significant economic benefit from the use of additive dfab to construct complex structures. Further research is required to assess the social impacts of using dfab.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -83,8 +57,9 @@ tags:
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "164 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/aden_rashid_abdishukri"><b>Aden</b> Abdishukri</a>, <a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b> Alejandra</a>, <a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aden_nune_ponc_rang.2026.FB/">FAB-BIO:<br/>A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../gaud.2025.ACMPo3/">A Critical Materials Perspective on 3DCP</a></li>
@@ -249,4 +224,34 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{soto_agus_hunh_joss.2018.PoDFiC,
+      author            = "Borja García de Soto and Isolda Agustí-Juan and Jens Juri Hunhevicz and Samuel Joss and Konrad Graser and Guillaume Habert and Bryan Tyrone Adey",
+      title             = "Productivity of Digital Fabrication in Construction: Cost and Time-Analysis of a Robotically Built Wall",
+      doi               = "10.1016/j.autcon.2018.04.004",
+      year              = "2018",
+      journal           = "Automation in Construction",
+      volume            = "92",
+      pages             = "297--311",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. G. de Soto, “Productivity of Digital Fabrication in Construction: Cost and Time-Analysis of a Robotically Built Wall”, <i>Automation in Construction</i>, vol. 92, pp. 297–311, 2018, doi: 10.1016/j.autcon.2018.04.004.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Soto, Borja García de, Isolda Agustí-Juan, Jens Juri Hunhevicz, Samuel Joss, Konrad Graser, Guillaume Habert, and Bryan Tyrone Adey. “Productivity of Digital Fabrication in Construction: Cost and Time-Analysis of a Robotically Built Wall”. <i>Automation in Construction</i> 92 (2018): 297–311. https://doi.org/10.1016/j.autcon.2018.04.004.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

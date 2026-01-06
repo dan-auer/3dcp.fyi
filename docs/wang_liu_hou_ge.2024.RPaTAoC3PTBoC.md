@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jun Wang, Zhenhua Liu, Jia Hou, Mengmeng Ge
+    - footer
+title: Wang Jun, Liu Zhenhua, Hou Jia, Ge Mengmeng
 description:
 tags:
  - analysis
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/4/989/pdf?version=1712067784) Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace ([2024-04](date/2024/04))
-<a href="https://doi.org/10.3390/buildings14040989" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14040989</a>
+#Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace ([2024-04](date/2024/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/4/989/pdf?version=1712067784) <a href="https://doi.org/10.3390/buildings14040989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14040989" target="_blank">10.3390/buildings14040989</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_jun"><b>Wang</b>&nbsp;Jun</a></span>, <a href="../../../author/liu_zhenhua"><b>Liu</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8038-335X" title="ORCID: 0000-0002-8038-335X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hou_jia"><b>Hou</b>&nbsp;Jia</a></span>, <a href="../../../author/ge_mengmeng"><b>Ge</b>&nbsp;Mengmeng</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 4, No. 989
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_jun"><b>Wang</b> Jun</a> <a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhenhua"><b>Liu</b> Zhenhua</a>
-,     <a href="../../../author/hou_jia"><b>Hou</b> Jia</a> <a href="https://orcid.org/0000-0002-8038-335X" title="ORCID: 0000-0002-8038-335X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ge_mengmeng"><b>Ge</b> Mengmeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 4, No. 989
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#technology`](keyword/technology)
-    [`#trend`](keyword/trend)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research-Progress%20and%20Trend-Analysis%20of%20Concrete%203D%20Printing%20Technology%20Based%20on%20CiteSpace" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191389632&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393860894" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14040989" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14040989?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an emerging method in engineering construction, concrete 3D printing has experienced rapid development in recent years due to its advantages in terms of automation, digitization, and intelligence. In order to comprehensively understand the research progress of concrete 3D printing technology, the literature on concrete 3D printing technology published in the Web of Science core database from 2014 to 2023 is used as a data source, and the visualization tool CiteSpace is utilized to research and analyze these results from the following aspects: number of publications, collaboration networks, research hotspots, and evolutionary trends. The results show that the number of publications in the field of concrete 3D printing technology has been increasing from year to year, with a gradually accelerating growth rate. The top three journals in terms of publication volume are Construction and Building Materials, Cement and Concrete Composites, and Materials. Research in the field of concrete 3D printing technology is mainly conducted through collaborations among research groups or institutions, while there are relatively fewer interactions among researchers from different institutions, regions, and countries. The current research direction mainly focuses on 3D printing materials, process parameters, and technology. The research content has progressed from initial explorations of concrete 3D printing technology to detailed studies of 3D printing materials and their performance. Overall, the research in this field continues to add further details to our knowledge of concrete 3D printing technology, and its application in engineering is gradually increasing. The automated, digitized, and intelligent construction methods of concrete 3D printing technology serve as a powerful driving force for the transformation and upgrading of the field of architecture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "51 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -117,8 +96,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/anop_darya"><b>Anop</b> Darya</a>, <a href="../../../author/sadenova_marzhan"><b>Sadenova</b> Marzhan</a>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b> Nail</a>, <a href="../../../author/rudenko_olga"><b>Rudenko</b> Olga</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../anop_sade_beis_rude.2025.AMaaAtCSiCSA/">Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment</a></li>
@@ -128,4 +107,35 @@ tags:
       <li><a href="../../../author/schossler_teixeira_rodrigo"><b>Schossler</b> Rodrigo</a>, <a href="../../../author/ullah_shafi"><b>Ullah</b> Shafi</a>, <a href="../../../author/alajlan_zaid"><b>Alajlan</b> Zaid</a>, <a href="../../../author/yu_xiong"><b>Yu</b> Xiong</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../scho_ulla_alaj_yu.2025.DDAi3CP/">Data-Driven Analysis in 3D Concrete Printing:<br/>Predicting and Optimizing Construction Mixtures</a></li>
       <li><a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a>, <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>, <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huse_tan_sale_lim.2024.TPaMPoTDPCEDMP/">Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>A Review and Bibliometric Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_liu_hou_ge.2024.RPaTAoC3PTBoC,
+      author            = "Jun Wang and Zhenhua Liu and Jia Hou and Mengmeng Ge",
+      title             = "Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace",
+      doi               = "10.3390/buildings14040989",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "4",
+      pages             = "989",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Wang, Z. Liu, J. Hou and M. Ge, “Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace”, <i>Buildings</i>, vol. 14, no. 4, p. 989, 2024, doi: 10.3390/buildings14040989.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Jun, Zhenhua Liu, Jia Hou, and Mengmeng Ge. “Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace”. <i>Buildings</i> 14, no. 4 (2024): 989. https://doi.org/10.3390/buildings14040989.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

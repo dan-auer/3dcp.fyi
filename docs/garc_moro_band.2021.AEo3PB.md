@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rodrigo García-Alvarado, Ginnia Moroni-Orellana, Pablo Banda-Pérez
+    - footer
+title: García-Alvarado Rodrigo, Moroni-Orellana Ginnia, Banda-Pérez Pablo
 description:
 tags:
  - architecture
@@ -12,27 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/11/6/254/pdf?version=1623738849) Architectural Evaluation of 3D Printed Buildings ([2021-06](date/2021/06))
-<a href="https://doi.org/10.3390/buildings11060254" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings11060254</a>
+#Architectural Evaluation of 3D Printed Buildings ([2021-06](date/2021/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/11/6/254/pdf?version=1623738849) <a href="https://doi.org/10.3390/buildings11060254" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings11060254" target="_blank">10.3390/buildings11060254</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b>&nbsp;Ginnia</a></span>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b>&nbsp;Pablo</a></span><br>
+Journal Article - Buildings, Vol. 11, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a> <a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 11, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#buildability`](keyword/buildability)
-    [`#evaluation`](keyword/evaluation)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Architectural%20Evaluation%20of%203D%20Printed%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108738442&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3167298778" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings11060254" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings11060254?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D-printed constructions express the capacity of automated technologies to elaborate buildings through additive manufacturing. These constructions require an architectural design according to their manufacturing conditions. This research reviews buildings that have been executed with these technologies in order to determine architectural characteristics. From an Internet search, a register was compiled of 112 cases of 3D-printed constructions around the globe. They include some 10,000 m2 of built surface area and were mainly erected in the last five years. The review shows that cases were built by approximately thirty executors, mostly entrepreneurs’ companies who have made different buildings as single-family dwellings constructed with gantries or robotic arms, either on-site or in factories. Most of the components printed are walls, with single or double filaments with interior voids. In some cases, they integrate reinforcements and openings. The geometry of the 3D-printed constructions varies between orthogonal layouts that replicate existing buildings and spherical shapes that reflect printing capabilities. Many of the cases are a combination of these characteristics, mixing a technological adaptation to existing architecture and new operative conditions. This review reveals the emerging development of this construction system with the progressive consolidation of some architectural attributes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -80,8 +63,8 @@ tags:
       <li><a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../sepa_shi_yang_shir.2020.AMAfI40/">Additive Manufacturing Applications for Industry 4.0:<br/>A Systematic Critical Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/moreno_naser_inna"><b>Moreno</b> Inna</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_more_alva.2025.OtTPo3PA/">On the Tectonic Properties of 3D Printed Architecture:<br/>On the Tectonic Properties of 3D Printed Architecture</a></li>
       <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
       <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../vale_sang_cant.2025.FTMtG/">From Traditional Materials to Geopolymers:<br/>History, Performance, Sustainability and 3D Printing Applications</a></li>
@@ -108,6 +91,35 @@ tags:
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../li_zhan_tay_ting.2022.TD3PfBaC/">Three-Dimensional (3D) Printing for Building and Construction</a></li>
       <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_yuanhong"><b>Li</b> Yuanhong</a>, <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/huang_mingyang"><b>Huang</b> Mingyang</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../cui_li_cao_huan.2022.ESo3CPCBotBE/">Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation</a></li>
-      <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../dey_srin_pand_sith.2023.PoCMf3CP/">Processing of Cementitious Materials for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{garc_moro_band.2021.AEo3PB,
+      author            = "Rodrigo García-Alvarado and Ginnia Moroni-Orellana and Pablo Salvador Banda-Pérez",
+      title             = "Architectural Evaluation of 3D Printed Buildings",
+      doi               = "10.3390/buildings11060254",
+      year              = "2021",
+      journal           = "Buildings",
+      volume            = "11",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. García-Alvarado, G. Moroni-Orellana and P. S. Banda-Pérez, “Architectural Evaluation of 3D Printed Buildings”, <i>Buildings</i>, vol. 11, no. 6, 2021, doi: 10.3390/buildings11060254.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">García-Alvarado, Rodrigo, Ginnia Moroni-Orellana, and Pablo Salvador Banda-Pérez. “Architectural Evaluation of 3D Printed Buildings”. <i>Buildings</i> 11, no. 6 (2021). https://doi.org/10.3390/buildings11060254.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

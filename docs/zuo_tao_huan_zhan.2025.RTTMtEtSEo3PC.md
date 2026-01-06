@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zibo Zuo, Yaxin Tao, Yulin Huang, Longlong Zhang, Jin Li, Wouter Corte
+    - footer
+title: Zuo Zibo, Tao Yaxin, Huang Yulin, Zhang Longlong, Li Jin, Corte Wouter
 description:
 tags:
  - concrete
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete:<br/>:aca-blank: From Lab to In-Situ Printing ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141459" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141459</a>
+#Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">From Lab to In-Situ Printing</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141459" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141459" target="_blank">10.1016/j.conbuildmat.2025.141459</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <a href="../../../author/huang_yulin"><b>Huang</b>&nbsp;Yulin</a></span>, <a href="../../../author/zhang_longlong"><b>Zhang</b>&nbsp;Longlong</a></span>, <a href="../../../author/li_jin"><b>Li</b>&nbsp;Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 479, No. 141459
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> <a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>
-,     <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a>
-,     <a href="../../../author/li_jin"><b>Li</b> Jin</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 479, No. 141459
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#situ`](keyword/situ)
-    [`#strength`](keyword/strength)
-    [`#temperature`](keyword/temperature)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Temperature%20Monitoring%20to%20Evaluate%20the%20Strength%20Evolution%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003592852&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410052362" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141459" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141459?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Assessing the strength evolution of 3D printed concrete, particularly when created in-situ with varying ambient temperatures, is critical for ensuring its buildability and structural performance. This paper introduces a method, termed Updated Real-time Monitoring and Modification (URMM), tailored for evaluating the strength evolution of 3D printed concrete during the construction process. URMM operates by continuously monitoring temperature using an embedded temperature sensor within 3D printed concrete. It then employs remote real-time computational analysis, utilizing a correction maturity algorithm, to predict the strength evolution of 3D printed concrete based on the modified maturity method. To demonstrate its applicability, a case study involving the 3D printing of a 6-meter tall concrete structure is presented, showcasing the implementation of URMM. The experimental outcomes indicate that URMM effectively enables accurate, non-destructive, and real-time monitoring of the strength evolution of 3D printed concrete. The research aims to provide a strength evaluation method to facilitate the widespread move of 3D printed concrete from the laboratory to the construction site.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../beka_titt_schu.2023.TEoCCotSLo3PCF/">The Effect of Curing Conditions on the Service Life of 3D Printed Concrete Formwork</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -104,7 +79,37 @@ tags:
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zuo_tao_huan_zhan.2025.RTTMtEtSEo3PC,
+      author            = "Zibo Zuo and Yaxin Tao and Yulin Huang and Longlong Zhang and Jin Li and Wouter de Corte",
+      title             = "Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete: From Lab to In-Situ Printing",
+      doi               = "10.1016/j.conbuildmat.2025.141459",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "479",
+      pages             = "141459",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zuo, Y. Tao, Y. Huang, L. Zhang, J. Li and W. de Corte, “Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete: From Lab to In-Situ Printing”, <i>Construction and Building Materials</i>, vol. 479, p. 141459, 2025, doi: 10.1016/j.conbuildmat.2025.141459.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zuo, Zibo, Yaxin Tao, Yulin Huang, Longlong Zhang, Jin Li, and Wouter de Corte. “Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete: From Lab to In-Situ Printing”. <i>Construction and Building Materials</i> 479 (2025): 141459. https://doi.org/10.1016/j.conbuildmat.2025.141459.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

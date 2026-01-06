@@ -8,7 +8,8 @@ search:
 
 # #prediction
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/eisazadeh_hamid"><b>Eisazadeh</b> Hamid</a>, <a href="../../../author/chatroudi_hosseini_narges"><b>Chatroudi</b> Narges</a>, <a href="../../../author/alizadeh_roozbeh"><b>Alizadeh</b> Roozbeh</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../eisa_chat_aliz.2025.ABPaNAoMaMPoCFR3PC/">AI-Based Prediction and Numerical Analysis of Mechanical and Microstructural Parameters of Carbon Fiber Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
   <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>

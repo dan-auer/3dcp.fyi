@@ -8,7 +8,7 @@ search:
 
 # #textile
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
   <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tarh_tarh_perr.2025.FPoGFTR3PC/">Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xia_chen_zhan_wang.2025.ISCNSRABTfMPSi3PC/">In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete</a></li>

@@ -8,7 +8,7 @@ search:
 
 # #weight
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
   <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../amin_mema.2025.DoELwCf3P/">Development of EPS Light‐weight Concrete for 3D Printing</a></li>
   <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cuev_chun_siko_step.2024.PoNWaL3PCCwRG/">Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass:<br/>Sorption and Microstructural Perspective</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Bundur Zeynep 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
   <li><a href="../../../author/sarikaya_kerem_m"><b>Sarıkaya</b> M.</a>, <a href="../../../author/benam_s_shaghayegh"><b>Benam</b> Shaghayegh</a>, <a href="../../../author/yilmaz_taner"><b>Yılmaz</b> Taner</a>, <a href="../../../author/erkmen_bulent"><b>Erkmen</b> Bülent</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sar_bena_ylm_erkm.2025.SPAo3PCS/">Seismic Performance Assessment of 3D-Printed Concrete Structures</a></li>
   <li><a href="../../../author/bas_sercan"><b>Baş</b> Sercan</a>, <a href="../../../author/aydin_eray_ozan"><b>Aydın</b> Ozan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/guven_gursans"><b>Guven</b> Gursans</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../bas_ayd_bund_guve.2024.BIMBBOS3PPOaPPfDF/">Building Information Modeling (BIM)-Based On-Site 3D Printer Position-Optimization and Path-Planning for Digital Fabrication</a></li>

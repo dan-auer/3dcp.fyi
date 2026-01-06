@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Markus Colyn, Adewumi Babafemi, Gideon Zijl
+    - footer
+title: Colyn Markus, Babafemi Adewumi, Zijl Gideon
 description:
 tags:
  - additive
@@ -19,34 +20,14 @@ tags:
 
 ---
 
-# Advancements in Sustainability of 3D Concrete Printing:<br/>:aca-blank: Presenting Low-Carbon Mixtures for Additively Manufactured Concrete Structures in Practice ([2024-09](date/2024/09))
-<a href="https://doi.org/10.24355/dbbs.084-202408021127-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.24355/dbbs.084-202408021127-0</a>
+#Advancements in Sustainability of 3D Concrete Printing&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Presenting Low-Carbon Mixtures for Additively Manufactured Concrete Structures in Practice</div>
+ <a href="https://doi.org/10.24355/dbbs.084-202408021127-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408021127-0" target="_blank">10.24355/dbbs.084-202408021127-0</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-5945-2041" title="ORCID: 0009-0004-5945-2041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/colyn_markus"><b>Colyn</b>&nbsp;Markus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a> <a href="https://orcid.org/0009-0004-5945-2041" title="ORCID: 0009-0004-5945-2041" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#low`](keyword/low)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mixture`](keyword/mixture)
-    [`#practice`](keyword/practice)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancements%20in%20Sustainability%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6926306541" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.24355/dbbs.084-202408021127-0" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.24355/dbbs.084-202408021127-0?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is regarded as an environmentally friendly construction technique with minimum waste generation. However, challenges persist, particularly in the composition of 3D printable concrete mixtures. The need for specific rheological properties and printer system resolutions have led to a higher volume fraction of binder materials compared to conventional concrete. This in turn, poses challenges to the environmental and economic sustainability of 3DCP. The scientific community is actively addressing these concerns by striving to enhance 3D printable concrete mixtures. The focus is on replacing traditional components such as ordinary Portland cement and natural aggregates with more sustainable alternatives such as supplementary cementitious materials, sourced from diverse waste streams, and construction and demolition waste. Researchers are developing innovative 3D printable concrete mixtures that incorporate locally available low-carbon materials. The primary goal is to achieve the necessary rheological properties for 3D printing while mitigating the environmental impact associated with high cement content. By exploring alternative materials and optimising mix designs, the scientific community aims to strike a balance between the structural requirements of 3DCP and the imperative for environmentally responsible construction practices. This study assesses the practical feasibility of different low-carbon 3D printable concrete formulations identified in existing literature. Our investigation focuses on crucial factors such as strength requirements, material costs, and the carbon footprint associated with these concrete mixes. The methodology involves evaluating the reported strengths of various low-carbon 3D printable concrete formulations from existing literature and calculating the corresponding reduced carbon footprint. The study aims to evaluate the practicality of these formulations in real-world scenarios, particularly when compared to the specifications set by completed projects that have already utilised 3DCP for structural components. In conclusion, ongoing advancements in 3DCP materials suggest a trajectory toward reduced costs and carbon footprints, closing in on conventional concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/tan_qing_bing"><b>Tan</b> Bing</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/spicek_nikola"><b>Spicek</b> Nikola</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../besk_tan_zhon_spic.2023.LCAf3PCPUaMSNBA/">Logistic-Cost-Analysis for 3D Printing Construction Projects Using a Multi-Stage Network-Based Approach</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -86,7 +63,36 @@ tags:
       <li><a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../pasu_rama_sanj.2023.3CPoEFGCBW/">3D Concrete Printing of Eco-Friendly Geopolymer Containing Brick Waste</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC/">Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{coly_baba_zijl.2024.AiSo3CP,
+      author            = "Markus Colyn and Adewumi John Babafemi and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Advancements in Sustainability of 3D Concrete Printing: Presenting Low-Carbon Mixtures for Additively Manufactured Concrete Structures in Practice",
+      doi               = "10.24355/dbbs.084-202408021127-0",
+      year              = "2024",
+      booktitle         = "Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Colyn, A. J. Babafemi and G. P. A. G. van Zijl, “Advancements in Sustainability of 3D Concrete Printing: Presenting Low-Carbon Mixtures for Additively Manufactured Concrete Structures in Practice”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408021127-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Colyn, Markus, Adewumi John Babafemi, and Gideon Pieter Adriaan Greeff van Zijl. “Advancements in Sustainability of 3D Concrete Printing: Presenting Low-Carbon Mixtures for Additively Manufactured Concrete Structures in Practice”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408021127-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

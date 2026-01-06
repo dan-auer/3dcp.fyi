@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sharu Kandy, Sebastian Remke, Thiyagarajan Ranganathan, Shubham Wani, Xiaodi Dai, Narayanan Neithalath, Aditya Kumar, Mathieu Bauchy, Edward Garboczi, Torben Gädt, Samanvaya Srivastava, Gaurav Sant
+    - footer
+title: Kandy Sharu, Remke Sebastian, Ranganathan Thiyagarajan, Wani Shubham, Dai Xiaodi, Neithalath Narayanan, Kumar Aditya, Bauchy Mathieu, Garboczi Edward, Gädt Torben, Srivastava Samanvaya, Sant Gaurav
 description:
 tags:
  - design
@@ -14,38 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105905" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105905</a>
+#Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105905" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105905" target="_blank">10.1016/j.cemconcomp.2024.105905</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9939-8239" title="ORCID: 0000-0001-9939-8239" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b>&nbsp;Sharu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8471-0477" title="ORCID: 0000-0002-8471-0477" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remke_sebastian"><b>Remke</b>&nbsp;Sebastian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0356-0797" title="ORCID: 0000-0002-0356-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b>&nbsp;Thiyagarajan</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-0170-2904" title="ORCID: 0009-0002-0170-2904" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wani_kiran_shubham"><b>Wani</b>&nbsp;Shubham</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_xiaodi"><b>Dai</b>&nbsp;Xiaodi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7550-8034" title="ORCID: 0000-0001-7550-8034" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_aditya"><b>Kumar</b>&nbsp;Aditya</a></span>, <a href="../../../author/bauchy_mathieu"><b>Bauchy</b>&nbsp;Mathieu</a></span>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b>&nbsp;Edward</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7940-5403" title="ORCID: 0000-0001-7940-5403" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gadt_torben"><b>Gädt</b>&nbsp;Torben</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3519-7224" title="ORCID: 0000-0002-3519-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srivastava_samanvaya"><b>Srivastava</b>&nbsp;Samanvaya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 157, No. 105905
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a> <a href="https://orcid.org/0000-0001-9939-8239" title="ORCID: 0000-0001-9939-8239" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a> <a href="https://orcid.org/0000-0002-8471-0477" title="ORCID: 0000-0002-8471-0477" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b> Thiyagarajan</a> <a href="https://orcid.org/0000-0002-0356-0797" title="ORCID: 0000-0002-0356-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wani_kiran_shubham"><b>Wani</b> Shubham</a> <a href="https://orcid.org/0009-0002-0170-2904" title="ORCID: 0009-0002-0170-2904" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> <a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> <a href="https://orcid.org/0000-0001-7550-8034" title="ORCID: 0000-0001-7550-8034" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bauchy_mathieu"><b>Bauchy</b> Mathieu</a>
-,     <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>
-,     <a href="../../../author/gadt_torben"><b>Gädt</b> Torben</a> <a href="https://orcid.org/0000-0001-7940-5403" title="ORCID: 0000-0001-7940-5403" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/srivastava_samanvaya"><b>Srivastava</b> Samanvaya</a> <a href="https://orcid.org/0000-0002-3519-7224" title="ORCID: 0000-0002-3519-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> <a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 157, No. 105905
-
-:aca-blank:{ .lg .middle}
-    [`#design`](keyword/design)
-    [`#formulas`](keyword/formulas)
-    [`#function`](keyword/function)
-    [`#print`](keyword/print)
-    [`#stiffness`](keyword/stiffness)
-    [`#suspension`](keyword/suspension)
-
-
--------------------------
+<a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> <a href="../../keyword/suspension"><button class="btn">#suspension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Function%20of%20Thermoresponsive-Ultrafast%20Stiffening%20Suspension%20Formulations%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214271566&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406063077" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105905" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105905?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     An inability to accurately control the rate and extent of solidification of cementitious suspensions is a major impediment to creating geometrically complex structural shapes via 3D printing. In this work, we have developed a thermoresponsive rapid stiffening system that will stiffen suspensions of minerals such as quartz, limestone, portlandite, and Ordinary Portland Cement (OPC) over a wide pH range. When exposed to trigger temperatures between 40 °C and 70 °C, the polymer binder system undergoes a thermally triggered free radical polymerization (FRP) reaction, leading to an ultrafast stiffening of the suspension at an average rate on the order of 1 kPa/s and achieving MPa-level strength in less than a minute. The cured composites exhibit flexural strength and strain capacity far greater than OPC-based composites ( 25 MPa, 1 %). We successfully demonstrated 3D printing using these engineered slurries, showcasing their thermal response, thermal latency, and printability, thereby validating our design approach and its potential for diverse applications. These thermoresponsive slurries facilitate freestyle printing, non-horizontal printing, and the creation of complex geometries with high overhangs. This approach provides a means to surmount the significant limitations of extrusion-based 3D printing using particulate suspensions and open up new possibilities in integrating design and production.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../chen_liu_cao_chen.2022.SIoRPR3PPfAAM/">Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials:<br/>Effect of Precursor Nature</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
@@ -96,7 +68,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kand_remk_rang_wani.2025.DaFoTUSSFf3P,
+      author            = "Sharu Bhagavathi Kandy and Sebastian Remke and Thiyagarajan Ranganathan and Shubham Kiran Wani and Xiaodi Dai and Narayanan Neithalath and Aditya Kumar and Mathieu Bauchy and Edward J. Garboczi and Torben Gädt and Samanvaya Srivastava and Gaurav Sant",
+      title             = "Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing",
+      doi               = "10.1016/j.cemconcomp.2024.105905",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "157",
+      pages             = "105905",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. B. Kandy, “Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing”, <i>Cement and Concrete Composites</i>, vol. 157, p. 105905, 2025, doi: 10.1016/j.cemconcomp.2024.105905.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kandy, Sharu Bhagavathi, Sebastian Remke, Thiyagarajan Ranganathan, Shubham Kiran Wani, Xiaodi Dai, Narayanan Neithalath, Aditya Kumar, et al.. “Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing”. <i>Cement and Concrete Composites</i> 157 (2025): 105905. https://doi.org/10.1016/j.cemconcomp.2024.105905.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

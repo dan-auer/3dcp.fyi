@@ -2,32 +2,21 @@
 hide:
     - navigation
     - tags
-title: Yota Adilenidou, Zeeshan Ahmed, Freek Bos, Marjan Colletti
+    - footer
+title: Adilenidou Yota, Ahmed Zeeshan, Bos Freek, Colletti Marjan
 description:
 tags:
  - form
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/acadia19_168.pdf) Unprintable Forms ([2019-10](date/2019/10))
-<a href="https://doi.org/10.52842/conf.acadia.2019.168" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.acadia.2019.168</a>
+#Unprintable Forms ([2019-10](date/2019/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia19_168.pdf) <a href="https://doi.org/10.52842/conf.acadia.2019.168" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2019.168" target="_blank">10.52842/conf.acadia.2019.168</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5556-2452" title="ORCID: 0000-0002-5556-2452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adilenidou_yota"><b>Adilenidou</b>&nbsp;Yota</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b>&nbsp;Zeeshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <a href="../../../author/colletti_marjan"><b>Colletti</b>&nbsp;Marjan</a></span><br>
+Contribution - Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 168-177
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/adilenidou_yota"><b>Adilenidou</b> Yota</a> <a href="https://orcid.org/0000-0002-5556-2452" title="ORCID: 0000-0002-5556-2452" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/colletti_marjan"><b>Colletti</b> Marjan</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 168-177
-
-:aca-blank:{ .lg .middle}
-    [`#form`](keyword/form)
-
-
--------------------------
+<a href="../../keyword/form"><button class="btn">#form</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Unprintable%20Forms" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -42,17 +31,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4288648327" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.acadia.2019.168" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.acadia.2019.168?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a 3D Concrete Printing (3DCP) experiment at the full scale of virtualarchitectural bodies developed through a computational technique based on the use of Cellular Automata (CA). The theoretical concept behind this technique is the decoding of errors in form generation and the invention of a process that would recreate the errors as a response to optimization (Adilenidou 2015). The generative design process established a family of structural and formal elements whose proliferation is guided through sets of differential grids (multi-grids) leading to the build-up of large span structures and edifices, for example, a cathedral. This tooling system is capable of producing, with specific inputs, a large number of outcomes in different scales. However, the resulting virtual surfaces could be considered as "unprintable" either due to their need of extra support or due to the presence of many cavities in the surface topology. The above characteristics could be categorized as errors, malfunctions, or undesired details in the geometry of a form that would need to be eliminated to prepare it for printing. This research project attempts to transform these "fabrication imprecisions" through new 3DCP techniques into factors of robustness of the resulting structure. The process includes the elimination of the detail / "errors" of the surface and their later reinsertion as structural folds that would strengthen the assembly. Through this process, the tangible outputs achieved fulfill design and functional requirements without compromising their structural integrity due to the manufacturing constraints.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kaze_yuan_meie_coch.2017.CS3P/">Construction-Scale 3D Printing:<br/>Shape Stability of Fresh Printing Concrete</a></li>
@@ -64,9 +49,39 @@ tags:
       <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a> et al. <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../meib_jipa_gies_sham.2018.SS/">Smart Slab:<br/>Computational Design and Digital Fabrication of a Lightweight Concrete Slab</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a>, <a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ozde_alac.2025.CEfLAaS3CP/">Cognitive Ecosystem for Lifecycle-Adaptive and Sustainable 3D Concrete Printing</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bres_sani_nabo.2021.TPSDaMiR3CP/">Tool-Path Simulation, Design and Manipulation in Robotic 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{adil_ahme_bos_coll.2019.UF,
+      author            = "Yota Adilenidou and Zeeshan Yunus Ahmed and Freek Paul Bos and Marjan Colletti",
+      title             = "Unprintable Forms",
+      doi               = "10.52842/conf.acadia.2019.168",
+      year              = "2019",
+      pages             = "168--177",
+      booktitle         = "Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture: Ubiquity and Autonomy",
+      editor            = "Kory Bieg and Danelle Briscoe and Clay Odom",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Adilenidou, Z. Y. Ahmed, F. P. Bos and M. Colletti, “Unprintable Forms”, in <i>Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture: Ubiquity and Autonomy</i>,  2019, pp. 168–177. doi: 10.52842/conf.acadia.2019.168.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Adilenidou, Yota, Zeeshan Yunus Ahmed, Freek Paul Bos, and Marjan Colletti. “Unprintable Forms”. In <i>Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture: Ubiquity and Autonomy</i>, edited by Kory Bieg, Danelle Briscoe, and Clay Odom, 168–77, 2019. https://doi.org/10.52842/conf.acadia.2019.168.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

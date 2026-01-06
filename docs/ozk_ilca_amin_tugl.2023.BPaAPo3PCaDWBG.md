@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hamza Özkılıç, Hüseyin İlcan, Ehsan Aminipour, Merve Tuğluca, Alper Aldemir, Mustafa Şahmaran
+    - footer
+title: Özkılıç Hamza, İlcan Hüseyin, Aminipour Ehsan, Tuğluca Merve, Aldemir Alper, Şahmaran Mustafa
 description:
 tags:
  - anisotropy
@@ -23,41 +24,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers:<br/>:aca-blank: Effect of Operational- and Material-Oriented Parameters ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.jobe.2023.107688" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107688</a>
+#Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers&nbsp;([2023-08](date/2023/08))
+<div class="h1-like">Effect of Operational- and Material-Oriented Parameters</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107688" target="_blank">10.1016/j.jobe.2023.107688</a>
 
--------------------------
+<a href="../../../author/ozkilic_hamza"><b>Özkılıç</b>&nbsp;Hamza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5197-4863" title="ORCID: 0000-0002-5197-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b>&nbsp;Merve</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aldemir_alper"><b>Aldemir</b>&nbsp;Alper</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Journal of Building Engineering, No. 107688
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>
-,     <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a> <a href="https://orcid.org/0000-0002-5197-4863" title="ORCID: 0000-0002-5197-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 107688
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#bond`](keyword/bond)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#effect`](keyword/effect)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#material`](keyword/material)
-    [`#operation`](keyword/operation)
-    [`#orientation`](keyword/orientation)
-    [`#parameter`](keyword/parameter)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bond%20Properties%20and%20Anisotropy%20Performance%20of%203D%20Printed%20Construction%20and%20Demolition%20Waste-Based%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169569589&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,17 +46,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386295500" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107688" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107688?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the bond performance of printed construction and demolition wastes (CDW)-based geopolymer, providing utilization of CDW in green materials through high tech-manufacturing methodologies. Considering the requirements of three-dimensional-additive manufacturing (3D-AM), the effects of operational and material-oriented parameters on mechanical performance were examined by conducting compressive strength, triplet shear, direct tensile, and diagonal tension tests. Anisotropy performance (perpendicular, lateral, and parallel), printing time intervals (0, 15, 30, 60-min.) between two consecutive layers, material aging time (0, 30, 60, 120-min.) of CDW-based materials, manufacturing methodologies (cast, horizontal- and vertical-printed) were evaluated on the printed specimen. The study showed that the tests conducted on masonry structures could be used on the 3D-printed structure as well. An anisotropic behavior in the compressive strength results was obtained by observing a decreasing trend in results from perpendicular to parallel and, parallel to lateral loading directions. Increasing printing time interval had a negative influence on the compressive strength of CDW-based geopolymers and anisotropy performance was mitigated in a 60-min printing time interval. Although bond strength decreased with raised printing time intervals, similar bond strength values were recorded for 30-min and 60-min printing time intervals. Similarly, increased material aging time caused decrement in bond strength, yet comparable bond strength was obtained for specimen printed with 60-min and 120-min aged mixture. According to the results, printing time intervals showed more prominent effects on bond strength compared to the material aging time. The test results indicate that vertical-printed specimens demonstrated similar mechanical performance with cast specimens, whereas horizontal-printed specimens exhibited slightly weaker performance compared to those.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beer_luca_pont.2020.AFRSBMf3P/">An Fe-Rich Slag-Based Mortar for 3D Printing</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
@@ -127,8 +97,8 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
@@ -148,4 +118,33 @@ tags:
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../liu_hu_guo.2024.PaILBPo3PFRG/">Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer</a></li>
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a>, <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ilca_ozk_tugl_sahm.2024.ILMPo3PCS/">Inter-Layer Mechanical Performance of 3D Printed Cementitious Systems:<br/>A Comprehensive Study on Operational and Material Parameters</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ozk_ilca_amin_tugl.2023.BPaAPo3PCaDWBG,
+      author            = "Hamza Özkılıç and Hüseyin İlcan and Ehsan Aminipour and Merve Sönmez Tuğluca and Alper Aldemir and Mustafa Şahmaran",
+      title             = "Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers: Effect of Operational- and Material-Oriented Parameters",
+      doi               = "10.1016/j.jobe.2023.107688",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "107688",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Özkılıç, H. İlcan, E. Aminipour, M. S. Tuğluca, A. Aldemir and M. Şahmaran, “Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers: Effect of Operational- and Material-Oriented Parameters”, <i>Journal of Building Engineering</i>, p. 107688, 2023, doi: 10.1016/j.jobe.2023.107688.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Özkılıç, Hamza, Hüseyin İlcan, Ehsan Aminipour, Merve Sönmez Tuğluca, Alper Aldemir, and Mustafa Şahmaran. “Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers: Effect of Operational- and Material-Oriented Parameters”. <i>Journal of Building Engineering</i>, 2023, 107688. https://doi.org/10.1016/j.jobe.2023.107688.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

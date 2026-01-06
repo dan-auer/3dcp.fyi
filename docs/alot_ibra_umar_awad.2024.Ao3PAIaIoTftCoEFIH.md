@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Badr Alotaibi, Abdulsalam Ibrahim Shema, Abdullahi Umar Ibrahim, Mohammed Awad Abuhussain, Halima Abdulmalik, Yakubu Aminu Dodo, Cemil Atakara
+    - footer
+title: Alotaibi Badr, Ibrahim Shema Abdulsalam, Umar Ibrahim Abdullahi, Awad Abuhussain Mohammed, Abdulmalik Halima, Aminu Dodo Yakubu, Atakara Cemil
 description:
 tags:
  - artificial
@@ -13,32 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.heliyon.2024.e36846) Assimilation of 3D Printing, Artificial Intelligence and Internet of Things for the Construction of Eco-Friendly Intelligent Homes:<br/>:aca-blank: An Explorative Review ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.heliyon.2024.e36846" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.heliyon.2024.e36846</a>
+#Assimilation of 3D Printing, Artificial Intelligence and Internet of Things for the Construction of Eco-Friendly Intelligent Homes&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">An Explorative Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.heliyon.2024.e36846) <a href="https://doi.org/10.1016/j.heliyon.2024.e36846" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2024.e36846" target="_blank">10.1016/j.heliyon.2024.e36846</a>
 
--------------------------
+<a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b>&nbsp;Badr</a></span>, <a href="../../../author/ibrahim-shema_abdulsalam"><b>Ibrahim Shema</b>&nbsp;Abdulsalam</a></span>, <a href="../../../author/umar-ibrahim_abdullahi"><b>Umar Ibrahim</b>&nbsp;Abdullahi</a></span>, <a href="../../../author/awad-abuhussain_mohammed"><b>Awad Abuhussain</b>&nbsp;Mohammed</a></span>, <a href="../../../author/abdulmalik_halima"><b>Abdulmalik</b>&nbsp;Halima</a></span>, <a href="../../../author/aminu-dodo_yakubu"><b>Aminu Dodo</b>&nbsp;Yakubu</a></span>, <a href="../../../author/atakara_cemil"><b>Atakara</b>&nbsp;Cemil</a></span><br>
+Journal Article - Heliyon, Vol. 10, Iss. 17, No. e36846
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>
-,     <a href="../../../author/ibrahim-shema_abdulsalam"><b>Ibrahim Shema</b> Abdulsalam</a>
-,     <a href="../../../author/umar-ibrahim_abdullahi"><b>Umar Ibrahim</b> Abdullahi</a>
-,     <a href="../../../author/awad-abuhussain_mohammed"><b>Awad Abuhussain</b> Mohammed</a>
-,     <a href="../../../author/abdulmalik_halima"><b>Abdulmalik</b> Halima</a>
-,     <a href="../../../author/aminu-dodo_yakubu"><b>Aminu Dodo</b> Yakubu</a>
-,     <a href="../../../author/atakara_cemil"><b>Atakara</b> Cemil</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Heliyon, Vol. 10, Iss. 17, No. e36846
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#construction`](keyword/construction)
-    [`#intelligence`](keyword/intelligence)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assimilation%20of%203D%20Printing%2C%20Artificial%20Intelligence%20and%20Internet%20of%20Things%20for%20the%20Construction%20of%20Eco-Friendly%20Intelligent%20Homes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202721408&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401877547" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.heliyon.2024.e36846" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.heliyon.2024.e36846?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is witnessing a transformative shift towards sustainable and intelligent housing solutions driven by advancements in 3D printing, Artificial Intelligence (AI), and the Internet of Things (IoT). Several architectural and construction firms have adopted innovative technologies to make construction easier, sustainable, efficient, cheap, fast, low generation of waste etc. This explorative review critically examines the integration of these technologies in the construction of eco-friendly intelligent homes. Drawing on a comprehensive analysis of literature spanning from 2010 to 2024, the review explores the synergistic potential and challenges associated with amalgamating 3D printing, AI, and IoT in construction processes. The increase need of smart homes equipped with sensors that can sense and regulate temperature, prevent or control fire, sense gas leakage, motion detectors and alarms for security and other application is in high demand. These types of smart homes can only be achieved by integrating different technologies together which include 3D printing (3DP), AI and Internet of Things (IoT). Despite the growing research in the field of automated construction, there are few articles that attempt to integrate these technologies together for futuristic smart homes and potential of smart cities. This study is aim at providing up-to-date advancement in technological innovation within the construction sector with regards to applications of 3DP, IoT, and AI. Key findings highlight how 3D printing enables rapid prototyping and customization of building components, AI enhances energy efficiency and occupant comfort through predictive analytics and automation, while IoT facilitates real-time monitoring and control of building systems. Furthermore, the review discusses the environmental benefits, cost-effectiveness, and societal implications of adopting such integrated approaches. However, challenges such as regulatory barriers, technological limitations, and the need for skilled labor are identified as critical barriers to widespread implementation. Future research directions are proposed to address these challenges and further optimize the integration of 3D printing, AI, and IoT for the construction of sustainable intelligent homes. In this review article, the need for 3DP in construction, advantage and disadvantage of 3DP, (AI) and IoT and the application of these technologies in addressing challenges regarding 3DP and promoting sustainability in the construction industries were comprehensively explored.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aghimien_douglas"><b>Aghimien</b> Douglas</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b> Lerato</a>, <a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b> Wellington</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../aghi_aigb_aghi_thwa.2020.MaCf3PfHDiSA/">Making a Case for 3D Printing for Housing Delivery in South Africa</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
@@ -87,10 +66,41 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alot_ibra_umar_awad.2024.Ao3PAIaIoTftCoEFIH,
+      author            = "Badr Saad Alotaibi and Abdulsalam Ibrahim Shema and Abdullahi Umar Ibrahim and Mohammed Awad Abuhussain and Halima Abdulmalik and Yakubu Aminu Dodo and Cemil Atakara",
+      title             = "Assimilation of 3D Printing, Artificial Intelligence and Internet of Things for the Construction of Eco-Friendly Intelligent Homes: An Explorative Review",
+      doi               = "10.1016/j.heliyon.2024.e36846",
+      year              = "2024",
+      journal           = "Heliyon",
+      volume            = "10",
+      number            = "17",
+      pages             = "e36846",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. S. Alotaibi, “Assimilation of 3D Printing, Artificial Intelligence and Internet of Things for the Construction of Eco-Friendly Intelligent Homes: An Explorative Review”, <i>Heliyon</i>, vol. 10, no. 17, p. e36846, 2024, doi: 10.1016/j.heliyon.2024.e36846.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alotaibi, Badr Saad, Abdulsalam Ibrahim Shema, Abdullahi Umar Ibrahim, Mohammed Awad Abuhussain, Halima Abdulmalik, Yakubu Aminu Dodo, and Cemil Atakara. “Assimilation of 3D Printing, Artificial Intelligence and Internet of Things for the Construction of Eco-Friendly Intelligent Homes: An Explorative Review”. <i>Heliyon</i> 10, no. 17 (2024): e36846. https://doi.org/10.1016/j.heliyon.2024.e36846.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

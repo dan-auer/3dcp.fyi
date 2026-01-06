@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Zafar, Farid Javadnejad, Maryam Hojati
+    - footer
+title: Zafar Muhammad, Javadnejad Farid, Hojati Maryam
 description:
 tags:
  - cement
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.addma.2025.104889" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.104889</a>
+#Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.104889" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104889" target="_blank">10.1016/j.addma.2025.104889</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9942-8442" title="ORCID: 0000-0001-9942-8442" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/javadnejad_farid"><b>Javadnejad</b>&nbsp;Farid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
+Journal Article - Additive Manufacturing, No. 104889
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> <a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a> <a href="https://orcid.org/0000-0001-9942-8442" title="ORCID: 0000-0001-9942-8442" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104889
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Rheological%20Properties%20of%203D%20Printed%20Cementitious%20Materials%20via%20Ensemble%20Machine%20Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011179859&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412439649" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.104889" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.104889?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The complex interaction between rheology-modifying admixtures and fresh cementitious mix printability limits 3D printing applications in construction. To optimize the properties of 3D printable concrete, this study presents a machine learning (ML)-based, knowledge-guided framework that integrates data-driven modeling with expert validation. A structured workflow uses a small dataset to predict and refine optimal mix designs. A total of 77 lab samples were prepared with varying amounts of nano-clay (NC), silica fume (SF), bentonite volclay (BC), and methylcellulose (MC). Their rheological properties, including plastic viscosity (VIS), dynamic yield stress (DYS), and static yield stress (SYS), were measured using a rheometer. Ensemble ML models were developed through automated preprocessing, cross-validated hyperparameter tuning, and RMSE-based selection. The top five models per rheological responses were combined using a voting regressor, improving predictive accuracy while mitigating overfitting. Predictions were visualized using contour maps from gridded synthetic data, revealing nonlinear interactions among input features. A key innovation is applying expert ratings to contour maps to guide the selection of high-performing mixes. This step allows domain knowledge to define acceptable printability ranges and helps address ML uncertainty from limited training data. Optimized mixes were selected based on rating maps and re-evaluated through additional rheology and 3D printing tests. The results demonstrated that the mixes met satisfactory extrudability and buildability requirements, confirming the validity of the defined expert rating criteria and the practical utility of the framework in optimizing 3D printable concrete mixes containing the defined additives. The proposed approach ensures both predictive robustness and practical applicability. It enables iterative refinement of models as new data becomes available and offers a systematic approach to navigating complex mix interactions. Overall, combining ensemble modeling, contour visualization, and knowledge-driven evaluation provides a powerful tool for advancing 3D concrete printing mix design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>
@@ -104,9 +83,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zafa_java_hoja.2025.ORPo3PCMvEML,
+      author            = "Muhammad Saeed Zafar and Farid Javadnejad and Maryam Hojati",
+      title             = "Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning",
+      doi               = "10.1016/j.addma.2025.104889",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "104889",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. S. Zafar, F. Javadnejad and M. Hojati, “Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning”, <i>Additive Manufacturing</i>, p. 104889, 2025, doi: 10.1016/j.addma.2025.104889.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zafar, Muhammad Saeed, Farid Javadnejad, and Maryam Hojati. “Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning”. <i>Additive Manufacturing</i>, 2025, 104889. https://doi.org/10.1016/j.addma.2025.104889.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

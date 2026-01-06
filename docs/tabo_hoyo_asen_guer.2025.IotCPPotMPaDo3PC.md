@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Isabella Taborda-Llano, Ary Hoyos-Montilla, Eloy Asensio, Ana Guerrero, Jorge Tobón
+    - footer
+title: Taborda-Llano Isabella, Hoyos-Montilla Ary, Asensio Eloy, Guerrero Ana, Tobón Jorge
 description:
 tags:
  - concrete
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>:aca-blank: A Systematic Review ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.jobe.2025.114965" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114965</a>
+#Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">A Systematic Review</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114965" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114965" target="_blank">10.1016/j.jobe.2025.114965</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4509-949X" title="ORCID: 0000-0003-4509-949X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b>&nbsp;Isabella</a></span>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b>&nbsp;Ary</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9795-8677" title="ORCID: 0000-0001-9795-8677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asensio_eloy"><b>Asensio</b>&nbsp;Eloy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4130-1032" title="ORCID: 0000-0002-4130-1032" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guerrero_m_ana"><b>Guerrero</b>&nbsp;Ana</a></span>, <a href="../../../author/tobon_i_jorge"><b>Tobón</b>&nbsp;Jorge</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114965
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a> <a href="https://orcid.org/0000-0003-4509-949X" title="ORCID: 0000-0003-4509-949X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>
-,     <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a> <a href="https://orcid.org/0000-0001-9795-8677" title="ORCID: 0000-0001-9795-8677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> <a href="https://orcid.org/0000-0002-4130-1032" title="ORCID: 0000-0002-4130-1032" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tobon_i_jorge"><b>Tobón</b> Jorge</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114965
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#durability`](keyword/durability)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#parameter`](keyword/parameter)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20the%20Construction%20Process%20Parameters%20on%20the%20Mechanical%20Performance%20and%20Durability%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417299080" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114965" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114965?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The parameters of the 3D printing construction process are interdependent variables that significantly influence not only the mechanical performance of 3D printed concrete (3DPC), but also its long-term durability the overall life cycle. Despite the growing interest in this field, no systematic review has yet been conducted to specifically evaluate the influence of these parameters on both mechanical behavior and durability. To address this gap, a systematic review was performed using data extracted from the Web of Science, Scopus, and ScienceDirect databases. Based on the collected literature, key construction process parameters were identified, including the printing interval between layers (PIBL), printing velocity (PV), pumpability, nozzle geometry (NG), and layer geometry (height and width). The findings reveal that variations in printing systems substantially affect the optimization of process parameters. Moreover, while mechanical properties have been extensively studied, their relationship with durability has often been overlooked. The most influential parameter affecting durability was identified as the printing interval between layers, followed by printing velocity. Notably, these parameters are often adjusted based solely on the fresh-state performance of the material. To reinforce the findings, an experimental demonstration was conducted by the authors with a 3DP-ECC, highlighting the practical implications of optimizing these process variables. This study provides a scientific foundation for future studies and encourages both academic and industrial researchers to consider the durability-performance correlation in 3DPC structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "107 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
@@ -182,7 +157,36 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC,
+      author            = "Isabella Taborda-Llano and Ary A. Hoyos-Montilla and Eloy Asensio and Ana M. Guerrero and Jorge I. Tobón",
+      title             = "Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete: A Systematic Review",
+      doi               = "10.1016/j.jobe.2025.114965",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114965",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Taborda-Llano, A. A. Hoyos-Montilla, E. Asensio, A. M. Guerrero and J. I. Tobón, “Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete: A Systematic Review”, <i>Journal of Building Engineering</i>, p. 114965, 2025, doi: 10.1016/j.jobe.2025.114965.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Taborda-Llano, Isabella, Ary A. Hoyos-Montilla, Eloy Asensio, Ana M. Guerrero, and Jorge I. Tobón. “Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete: A Systematic Review”. <i>Journal of Building Engineering</i>, 2025, 114965. https://doi.org/10.1016/j.jobe.2025.114965.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

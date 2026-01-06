@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Syed Warsi, Biranchi Panda, Pankaj Biswas
+    - footer
+title: Warsi Syed, Panda Biranchi, Biswas Pankaj
 description:
 tags:
  - analysis
@@ -19,34 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19:<br/>:aca-blank: Analytical Investigation and Numerical Modelling ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.istruc.2025.109371" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.109371</a>
+#Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Analytical Investigation and Numerical Modelling</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109371" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109371" target="_blank">10.1016/j.istruc.2025.109371</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/biswas_pankaj"><b>Biswas</b>&nbsp;Pankaj</a></span><br>
+Journal Article - Structures, Vol. 78, No. 109371
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> <a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 78, No. 109371
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#earthquake`](keyword/earthquake)
-    [`#investigation`](keyword/investigation)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#resistance`](keyword/resistance)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/earthquake"><button class="btn">#earthquake</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20of%20Earthquake-Resistant%203D%20Printed%20Concrete%20Wall%20Based%20on%20ACI%20318-19" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007436327&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412430373" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.109371" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.109371?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Designing earthquake-resistant 3D printed concrete (3DPC) walls presents critical challenges, particularly due to the absence of codal provisions specific to 3DPC structures. The current American Concrete Institute (ACI) 318 standard, catering to conventional reinforced concrete (RC) and precast systems, fundamentally differs from 3DPC structures in terms of material behavior, construction methods, and reinforcement integration. Based on this need, this study investigates the applicability of ACI 318–19 in conjunction with Eurocode 8 provisions to 3DPC, while focusing on practical strategies for integration of reinforcement within hollow 3DPC walls. The study specifically examines two reinforcement configurations—single-layer and double-layer setups—selected for their practical implications in 3DPC construction. Single-layer reinforcement is relatively straightforward to integrate in 3DPC, while double-layer reinforcement requires a strategic infill pattern to achieve the necessary reinforcement layout within the 3DPC structure. The dynamic performance of these configurations is evaluated through numerical and analytical analysis, with structural parameters such as reinforcement ratio, concrete compressive strength, axial load, aspect ratio, and slenderness ratio held constant. The findings highlight the distinct performance characteristics of each reinforcement approach under quasi-static cyclic lateral loading, with double-layer reinforcement configuration demonstrating 30.6 % higher lateral load capacity (465.72 kN) compared to the single-layer design (356 kN), and exhibits 9.8 % increase in failure displacement, a higher ductility factor (4.36 vs. 4.01), and improved energy dissipation capacity, particularly at larger drift levels. Whereas single layer reinforcement exhibits lower strain concentrations, indicating better resistance to strain-induced damage. This work provides key insights for adapting ACI-based design principles to 3DPC, addressing both structural feasibility and practicality in earthquake-resistant 3DPC wall design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/liu_mingjian"><b>Liu</b> Mingjian</a>, <a href="../../../author/huo_liang"><b>Huo</b> Liang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../han_yan_liu_huo.2022.ESoLS3PCWUAC/">Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression</a></li>
@@ -87,8 +64,38 @@ tags:
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhang_ying"><b>Zhang</b> Ying</a>, <a href="../../../author/wan_zhiming"><b>Wan</b> Zhiming</a>, <a href="../../../author/wu_lei"><b>Wu</b> Lei</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_wan_wu.2021.SoMPoISPRCWwCC/">Study on Mechanical Properties of In-Situ Printed Reinforced Concrete Wall with Core Column</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wars_pand_bisw.2025.DoER3PCWBoA31,
+      author            = "Syed Bustan Fatima Warsi and Biranchi Narayan Panda and Pankaj Biswas",
+      title             = "Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19: Analytical Investigation and Numerical Modelling",
+      doi               = "10.1016/j.istruc.2025.109371",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "78",
+      pages             = "109371",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. B. F. Warsi, B. N. Panda and P. Biswas, “Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19: Analytical Investigation and Numerical Modelling”, <i>Structures</i>, vol. 78, p. 109371, 2025, doi: 10.1016/j.istruc.2025.109371.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Warsi, Syed Bustan Fatima, Biranchi Narayan Panda, and Pankaj Biswas. “Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19: Analytical Investigation and Numerical Modelling”. <i>Structures</i> 78 (2025): 109371. https://doi.org/10.1016/j.istruc.2025.109371.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

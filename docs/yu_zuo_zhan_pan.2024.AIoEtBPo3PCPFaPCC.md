@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qian Yu, Qinxin Zuo, Yamei Zhang, Jinlong Pan
+    - footer
+title: Yu Qian, Zuo Qinxin, Zhang Yamei, Pan Jinlong
 description:
 tags:
  - bond
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Investigation on Enhancing the Bonding Properties of 3D Printed Concrete Permanent Formwork and Post-Casted Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.137841" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.137841</a>
+#An Investigation on Enhancing the Bonding Properties of 3D Printed Concrete Permanent Formwork and Post-Casted Concrete ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137841" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137841" target="_blank">10.1016/j.conbuildmat.2024.137841</a>
 
--------------------------
+<a href="../../../author/yu_qian"><b>Yu</b>&nbsp;Qian</a></span>, <a href="../../../author/zuo_qinxin"><b>Zuo</b>&nbsp;Qinxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 444, No. 137841
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yu_qian"><b>Yu</b> Qian</a>
-,     <a href="../../../author/zuo_qinxin"><b>Zuo</b> Qinxin</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 444, No. 137841
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#formwork`](keyword/formwork)
-    [`#investigation`](keyword/investigation)
-    [`#permanent`](keyword/permanent)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Investigation%20on%20Enhancing%20the%20Bonding%20Properties%20of%203D%20Printed%20Concrete%20Permanent%20Formwork%20and%20Post-Casted%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200986862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401505720" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.137841" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.137841?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Employing 3D-printed permanent formwork (3DPF) technology for rapidly manufacturing prefabricated components constructed with reinforced concrete represents a promising application of additive manufacturing technology in load-bearing constructions. Ensuring efficient bonding between 3DPF and post-casted concrete (PCC) is a prerequisite for the widespread adoption of this technology. This research aims to enhance the 3DPF-PCC interface through: physical (groove), chemical (cement paste) and composite methods. The interfacial bond strength was quantitatively analysed by splitting tensile strength and shear strength. X-ray computed tomography scanning was utilized for the quantitative characterization of pore structures. Digital image processing techniques were employed to monitor crack development during splitting tensile tests. The mechanism for strengthening the shear strength of the grooved interface was elucidated using a finite element model, and a modified formula for calculating the shear strength of the 3DPF-PCC grooved interface was proposed. The physical method improves shear strength by increasing interlocking structures significantly. The composite method weakens mechanical interlocking structures, increases interface porosity, and adversely affects interface bonding strength. It is recommended that future engineering applications adopt the physical process to improve mechanical interlocking structures and ensure interface bonding strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
@@ -89,12 +66,43 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a></li>
       <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guan_wang_bai_ma.2025.E3PFCvFHSCR/">Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>
       <li><a href="../../../author/hua_hao"><b>Hua</b> Hao</a>, <a href="../../../author/liu_yizhuo"><b>Liu</b> Yizhuo</a>, <a href="../../../author/hovestadt_ludger"><b>Hovestadt</b> Ludger</a>, <a href="../../../author/he_siyuan"><b>He</b> Siyuan</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hua_liu_hove_he.2025.DN/">Digital Nervi:<br/>Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork</a></li>
       <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/guo_yazhao"><b>Guo</b> Yazhao</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/liu_qizhou"><b>Liu</b> Qizhou</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_guo_wang_liu.2024.SotCPo3PCPFCC/">Study on the Compression Performance of 3D Printing Concrete Permanent Formwork Composite Columns</a></li>
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../qiu_sun_qian.2024.IoGaTPotBBB3PUSaCNC/">Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yu_zuo_zhan_pan.2024.AIoEtBPo3PCPFaPCC,
+      author            = "Qian Yu and Qinxin Zuo and Yamei Zhang and Jinlong Pan",
+      title             = "An Investigation on Enhancing the Bonding Properties of 3D Printed Concrete Permanent Formwork and Post-Casted Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.137841",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "444",
+      pages             = "137841",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Yu, Q. Zuo, Y. Zhang and J. Pan, “An Investigation on Enhancing the Bonding Properties of 3D Printed Concrete Permanent Formwork and Post-Casted Concrete”, <i>Construction and Building Materials</i>, vol. 444, p. 137841, 2024, doi: 10.1016/j.conbuildmat.2024.137841.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yu, Qian, Qinxin Zuo, Yamei Zhang, and Jinlong Pan. “An Investigation on Enhancing the Bonding Properties of 3D Printed Concrete Permanent Formwork and Post-Casted Concrete”. <i>Construction and Building Materials</i> 444 (2024): 137841. https://doi.org/10.1016/j.conbuildmat.2024.137841.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

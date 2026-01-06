@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Carolina Medicis, Sergio Gonzalez, Yezid Alvarado, Hermes Vacca, Ivan Mondragon, Rodrigo García, Giovanni Hernandez
+    - footer
+title: Medicis Carolina, Gonzalez Sergio, Alvarado Yezid, Vacca Hermes, Mondragon Ivan, García Rodrigo, Hernandez Giovanni
 description:
 tags:
  - available
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/18/6326/pdf?version=1662993712) Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete ([2022-09](date/2022/09))
-<a href="https://doi.org/10.3390/ma15186326" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15186326</a>
+#Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/18/6326/pdf?version=1662993712) <a href="https://doi.org/10.3390/ma15186326" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15186326" target="_blank">10.3390/ma15186326</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6423-9219" title="ORCID: 0000-0002-6423-9219" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/medicis_carolina"><b>Medicis</b>&nbsp;Carolina</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1689-0661" title="ORCID: 0000-0003-1689-0661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gonzalez_sergio"><b>Gonzalez</b>&nbsp;Sergio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1260-8211" title="ORCID: 0000-0002-1260-8211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alvarado_a_yezid"><b>Alvarado</b>&nbsp;Yezid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3159-6997" title="ORCID: 0000-0003-3159-6997" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vacca_ariel_hermes"><b>Vacca</b>&nbsp;Hermes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7828-6681" title="ORCID: 0000-0002-7828-6681" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mondragon_f_ivan"><b>Mondragon</b>&nbsp;Ivan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4726-6538" title="ORCID: 0000-0003-4726-6538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia_rill_rodrigo"><b>García</b>&nbsp;Rodrigo</a></span>, <a href="../../../author/hernandez_giovanni"><b>Hernandez</b>&nbsp;Giovanni</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 18
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/medicis_carolina"><b>Medicis</b> Carolina</a> <a href="https://orcid.org/0000-0002-6423-9219" title="ORCID: 0000-0002-6423-9219" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gonzalez_sergio"><b>Gonzalez</b> Sergio</a> <a href="https://orcid.org/0000-0003-1689-0661" title="ORCID: 0000-0003-1689-0661" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alvarado_a_yezid"><b>Alvarado</b> Yezid</a> <a href="https://orcid.org/0000-0002-1260-8211" title="ORCID: 0000-0002-1260-8211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vacca_ariel_hermes"><b>Vacca</b> Hermes</a> <a href="https://orcid.org/0000-0003-3159-6997" title="ORCID: 0000-0003-3159-6997" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mondragon_f_ivan"><b>Mondragon</b> Ivan</a> <a href="https://orcid.org/0000-0002-7828-6681" title="ORCID: 0000-0002-7828-6681" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garcia_rill_rodrigo"><b>García</b> Rodrigo</a> <a href="https://orcid.org/0000-0003-4726-6538" title="ORCID: 0000-0003-4726-6538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hernandez_giovanni"><b>Hernandez</b> Giovanni</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 18, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#available`](keyword/available)
-    [`#base`](keyword/base)
-    [`#commercial`](keyword/commercial)
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/available"><button class="btn">#available</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/commercial"><button class="btn">#commercial</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%20Commercially%20Available%20Premix%20UHPC-Based%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138837185&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4295540011" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15186326" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15186326?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Several recent studies have attempted to formulate printable cementitious materials to meet the printing requirements, but these materials are designed to work with specific printing equipment and printing configurations. This paper aims to systematically develop and perform characterization of a commercially available ultra-high-performance concrete-class material (UHPC) modified to be printable. Four percentages of superplasticizer were used (100%, 94%, 88%, 82%) to adjust the UHPC mixture for 3D-printing requirements. A superplasticizer amount of 88% was considered adequate to meet the requirements. Several fresh and hardened properties of UHPC were measured experimentally: shape-retention ability and green strength were investigated in fresh state, and compressive and flexural strength were evaluated in three loading directions to evaluate the anisotropic effects. Furthermore, the strength of the interlayer bond was investigated. The UHPC developed in this study met the criteria for extrudability, buildability, and shape retention to ensure printability. In comparison with mold-cast UHPC, printed UHPC exhibited superior flexural performance (15–18%), but reduced compressive strength (32–56%). Finally, the results demonstrated that a commercially available UHPC-class material can be used for 3DCP, which possesses all necessary properties, both fresh and hardened.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -103,8 +79,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/huang_zhangshuo"><b>Huang</b> Zhangshuo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../ding_zhu_huan.2025.ESotSFODoEB3PUHPC/">Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete</a></li>
       <li><a href="../../../author/shukla_kant_bishnu"><b>Shukla</b> Bishnu</a>, <a href="../../../author/bharti_gaurav"><b>Bharti</b> Gaurav</a>, <a href="../../../author/parashar_bhupender"><b>Parashar</b> Bhupender</a>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b> Pushpendra</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../shuk_bhar_para_shar.2025.VItPo3CPfSC/">Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction:<br/>Current Status and Future Prospects</a></li>
@@ -116,4 +92,34 @@ tags:
       <li><a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a>, <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>, <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fan_zhu_fan_lu.2023.IDaMoUHPC/">Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{medi_gonz_alva_vacc.2022.MPoCAPUB3PC,
+      author            = "Carolina Medicis and Sergio Gonzalez and Yezid A. Alvarado and Hermes Ariel Vacca and Ivan F. Mondragon and Rodrigo Rill García and Giovanni Hernandez",
+      title             = "Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete",
+      doi               = "10.3390/ma15186326",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "18",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Medicis, “Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete”, <i>Materials</i>, vol. 15, no. 18, 2022, doi: 10.3390/ma15186326.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Medicis, Carolina, Sergio Gonzalez, Yezid A. Alvarado, Hermes Ariel Vacca, Ivan F. Mondragon, Rodrigo Rill García, and Giovanni Hernandez. “Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete”. <i>Materials</i> 15, no. 18 (2022). https://doi.org/10.3390/ma15186326.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

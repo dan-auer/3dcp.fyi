@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ashitta Mathew, Nivin Philip, Agnieszka Jędrzejewska
+    - footer
+title: Mathew Ashitta, Philip Nivin, Jędrzejewska Agnieszka
 description:
 tags:
  - characteristic
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing Sustainability and Performance of 3D Printing Mortar with Alccofine 1203, GGBS, and Kaolin:<br/>:aca-blank: Experimental Investigation and Mechanical Characterization ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1007/s40996-024-01481-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40996-024-01481-y</a>
+#Enhancing Sustainability and Performance of 3D Printing Mortar with Alccofine 1203, GGBS, and Kaolin&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">Experimental Investigation and Mechanical Characterization</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40996-024-01481-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-024-01481-y" target="_blank">10.1007/s40996-024-01481-y</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-4050-9803" title="ORCID: 0009-0000-4050-9803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b>&nbsp;Ashitta</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0353-2630" title="ORCID: 0000-0002-0353-2630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/philip_nivin"><b>Philip</b>&nbsp;Nivin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4395-0447" title="ORCID: 0000-0003-4395-0447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b>&nbsp;Agnieszka</a></span><br>
+Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a> <a href="https://orcid.org/0009-0000-4050-9803" title="ORCID: 0009-0000-4050-9803" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a> <a href="https://orcid.org/0000-0002-0353-2630" title="ORCID: 0000-0002-0353-2630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a> <a href="https://orcid.org/0000-0003-4395-0447" title="ORCID: 0000-0003-4395-0447" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#enhancement`](keyword/enhancement)
-    [`#experiment`](keyword/experiment)
-    [`#investigation`](keyword/investigation)
-    [`#kaolin`](keyword/kaolin)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/kaolin"><button class="btn">#kaolin</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Sustainability%20and%20Performance%20of%203D%20Printing%20Mortar%20with%20Alccofine%201203%2C%20GGBS%2C%20and%20Kaolin" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194715163&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399208436" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40996-024-01481-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40996-024-01481-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is currently dealing with various challenges like inefficient labor, frequent crises at building sites, and complexities in managing construction processes. 3D printing concrete (3DPC) offers the potential to greatly enhance speed, safety, efficiency, performance, and sustainability in concrete construction. It could significantly impact the future of global building economics. This paper presents the development and experimental results on the usability of 3D printing mortar (3DPM) by incorporating alccofine 1203, ground granulated blast furnace slag (GGBS) and kaolin. Four replacement ratios of Portland cement by alccofine (10–50%) and GGBS (30–40%) were investigated to examine the fresh and hardened behavior as well as microstructure of the newly developed 3DPM. A suitable mortar mix was developed experimentally containing 30% GGBS and 20% alccofine 1203 as partial replacement of cement, meeting the target mean strength. The study demonstrated that the developed mortar exhibited satisfactory printing properties in fresh state as well as mechanical properties in hardened state. The incorporation of an optimal alccofine 1203 dosage resulted in a noticeable increase in the compressive strength. The obtained capillary suction capability, indicates a reduced water absorption rate. Due to the incorporation of alccofine 1203 and GGBS the porosity decreased and mortar quality improved. In addition, the use of alccofine 1203 and kaolin greatly enhanced the transport properties of the mortar mix. The study also confirmed decreased pore anisotropy due to the presence of kaolin as a filler material in the mix.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -88,8 +66,36 @@ tags:
       <li><a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>, <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/sun_xuemei"><b>Sun</b> Xuemei</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_zhan_li_sun.2022.EoFaGoCSRaPPoCB3PM/">Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{math_phil_jedr.2024.ESaPo3PMwA1GaK,
+      author            = "Ashitta Mariam Mathew and Nivin Philip and Agnieszka Jędrzejewska",
+      title             = "Enhancing Sustainability and Performance of 3D Printing Mortar with Alccofine 1203, GGBS, and Kaolin: Experimental Investigation and Mechanical Characterization",
+      doi               = "10.1007/s40996-024-01481-y",
+      year              = "2024",
+      journal           = "Iranian Journal of Science and Technology, Transactions of Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. M. Mathew, N. Philip and A. Jędrzejewska, “Enhancing Sustainability and Performance of 3D Printing Mortar with Alccofine 1203, GGBS, and Kaolin: Experimental Investigation and Mechanical Characterization”, <i>Iranian Journal of Science and Technology, Transactions of Civil Engineering</i>, 2024, doi: 10.1007/s40996-024-01481-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mathew, Ashitta Mariam, Nivin Philip, and Agnieszka Jędrzejewska. “Enhancing Sustainability and Performance of 3D Printing Mortar with Alccofine 1203, GGBS, and Kaolin: Experimental Investigation and Mechanical Characterization”. <i>Iranian Journal of Science and Technology, Transactions of Civil Engineering</i>, 2024. https://doi.org/10.1007/s40996-024-01481-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

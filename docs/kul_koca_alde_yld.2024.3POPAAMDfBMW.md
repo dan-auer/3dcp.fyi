@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anil Kul, Öznur Kocaer, Alper Aldemir, Gürkan Yıldırım, Sandra Lucas
+    - footer
+title: Kul Anil, Kocaer Öznur, Aldemir Alper, Yıldırım Gürkan, Lucas Sandra
 description:
 tags:
  - activation
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e04081) 3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.cscm.2024.e04081" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e04081</a>
+#3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes ([2024-12](date/2024/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e04081) <a href="https://doi.org/10.1016/j.cscm.2024.e04081" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e04081" target="_blank">10.1016/j.cscm.2024.e04081</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kul_anil"><b>Kul</b>&nbsp;Anil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0611-2284" title="ORCID: 0000-0003-0611-2284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kocaer_oznur"><b>Kocaer</b>&nbsp;Öznur</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aldemir_alper"><b>Aldemir</b>&nbsp;Alper</a></span>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b>&nbsp;Gürkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04081
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> <a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="https://orcid.org/0000-0003-0611-2284" title="ORCID: 0000-0003-0611-2284" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04081
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#brick`](keyword/brick)
-    [`#derivative`](keyword/derivative)
-    [`#masonry`](keyword/masonry)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/masonry"><button class="btn">#masonry</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20One-Part%20Alkali-Activated%20Mortar%20Derived%20from%20Brick-Masonry-Wastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211033813&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404958044" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e04081" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e04081?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The exponential growth in demand for housing has resulted in a greater focus on rapid construction methods that adhere to circular economy principles. 3D concrete printing is becoming a powerful tool to find solutions to the common challenges of affordable housing for more people, rapid construction, and the digitalization of the construction industry. However, a coherent synthesis of green and digital initiatives has not yet been achieved. For 3D printable materials, recycling of materials that have reached the end of their service life should also be enabled and supported, in line with circular economy goals that prioritize waste reduction and maximization of resource efficiency. With these objectives in mind, the current study focuses on the development of a one-part 3D printable alkali-activated mortar (3DPM) derived from brick masonry waste (BMW). BMWs were used as the main precursor and filler phase, whereas materials such as ground granulated blast furnace slag, kaolin clay, and limestone have been utilized to enhance/control the mechanical and rheological properties. To investigate the evolution of alkali-activation and the effect of anisotropy, the macromechanical properties of the developed 3DPM were investigated by compressive strength, flexural strength, split tensile, and direct tensile tests. The micromechanical properties were analyzed using X-ray fluorescence spectrometry (XRF), X-ray diffraction (XRD), Fourier transform infrared (FTIR), thermogravimetry (TG), differential scanning calorimetry (DSC), scanning electron microscopy and energy dispersive X-ray spectroscopy (SEM/EDX), and computed tomography (MicroCT) tests. Overall, the results revealed the presence of anisotropy, which can be reduced by optimizing the layer height. Through this optimization, reductions in pore content and distribution, validated by MicroCT, indicated that the disadvantage of the weak interlayer bond zone in stress transfer could be diminished. Micromechanical analysis showed that the gel formation responsible for the strength was the calcium-based gel structures. Considering these findings, it is believed that the BMW-based 3DPM can be an important alternative for the digitalization of the construction industry and its transition to a circular economy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -91,9 +68,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kul_koca.2025.PAoDaOPi3CPoWE/">Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements</a></li>
       <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW/">Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kul_koca_alde_yld.2024.3POPAAMDfBMW,
+      author            = "Anil Kul and Öznur Kocaer and Alper Aldemir and Gürkan Yıldırım and Sandra Simaria de Oliveira Lucas",
+      title             = "3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes",
+      doi               = "10.1016/j.cscm.2024.e04081",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04081",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kul, Ö. Kocaer, A. Aldemir, G. Yıldırım and S. S. de Oliveira Lucas, “3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes”, <i>Case Studies in Construction Materials</i>, p. e04081, 2024, doi: 10.1016/j.cscm.2024.e04081.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kul, Anil, Öznur Kocaer, Alper Aldemir, Gürkan Yıldırım, and Sandra Simaria de Oliveira Lucas. “3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes”. <i>Case Studies in Construction Materials</i>, 2024, e04081. https://doi.org/10.1016/j.cscm.2024.e04081.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

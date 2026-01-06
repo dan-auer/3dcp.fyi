@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seung Cho, Jacques Kruger, Algurnon Rooyen, Stephan Zeranka, Gideon Zijl
+    - footer
+title: Cho Seung, Kruger Jacques, Rooyen Algurnon, Zeranka Stephan, Zijl Gideon
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica ([2019-09](date/2019/09))
-<a href="https://doi.org/10.1007/978-3-030-22566-7_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-22566-7_43</a>
+#Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica ([2019-09](date/2019/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-22566-7_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_43" target="_blank">10.1007/978-3-030-22566-7_43</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rooyen_steve_algurnon"><b>van&nbsp;Rooyen</b>&nbsp;Algurnon</a></span>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b>&nbsp;Stephan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 373-381
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rooyen_steve_algurnon"><b>van Rooyen</b> Algurnon</a> <a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 373-381
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#incorporation`](keyword/incorporation)
-    [`#light`](keyword/light)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20of%203D%20Printable%20Lightweight%20Foam-Concrete%20Incorporating%20Nano-Silica" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071493910&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,22 +37,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2969313456" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-22566-7_43" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-22566-7_43?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Lightweight foam concrete (LWFC) has relatively high workability, or low static and dynamic shear resistance in the fresh state. It is also sensitive to applied pressure. These limitations present challenges for 3D printing of LWFC, through its pumping and extrusion, and bearing pressure of subsequent layers. The associated risks of 3D printing LWFC is therefore twofold, altering the LWFC properties during the printing process, and insufficient buildability. Inclusion of appropriate nanoparticles, with high surface area to volume ratio, is proposed here to influence the microstructure of the cementitious composite in the fresh and hardened state, in order to increase the shear resistance, and limit the impact of the 3D printing process on its density. Nano-SiO2 (nS) particles with a diameter smaller than 30 nm and 99.5% purity are incorporated into LWFC at 2% and 3% by weight of cement. Rheometer results indicate increased shear resistance and thixotropic behavior. Conservative buildability prediction based on the thixotropic properties is validated by 3D printed nLWFC building height of a circular hollow column.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/akturk_busra"><b>Aktürk</b> Büşra</a>, <a href="../../../author/ertugrul_onur"><b>Ertuğrul</b> Onur</a>, <a href="../../../author/ozen_can_omer"><b>Özen</b> Ömer</a>, <a href="../../../author/oktay_didem"><b>Oktay</b> Didem</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../aktu_ertu_ozen_okta.2025.IoNSaRMoRP3PaMPoOPSCASBM/">Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes</a></li>
@@ -99,4 +77,35 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../krug_zera_zijl.2020.ARBQSSRMfDFC/">A Rheology-Based Quasi-Static Shape-Retention-Model for Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{cho_krug_rooy_zera.2019.Ro3PLFCINS,
+      author            = "Seung Cho and Jacques Pienaar Kruger and Algurnon Steve van Rooyen and Stephan Zeranka and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica",
+      doi               = "10.1007/978-3-030-22566-7_43",
+      year              = "2019",
+      volume            = "23",
+      pages             = "373--381",
+      booktitle         = "Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete",
+      editor            = "Viktor Mechtcherine and Kamal H. Khayat and Egor Secrieru",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Cho, J. P. Kruger, A. S. van Rooyen, S. Zeranka and G. P. A. G. van Zijl, “Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica”, in <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>,  2019, vol. 23, pp. 373–381. doi: 10.1007/978-3-030-22566-7_43.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cho, Seung, Jacques Pienaar Kruger, Algurnon Steve van Rooyen, Stephan Zeranka, and Gideon Pieter Adriaan Greeff van Zijl. “Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica”. In <i>Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete</i>, edited by Viktor Mechtcherine, Kamal H. Khayat, and Egor Secrieru, 23:373–81, 2019. https://doi.org/10.1007/978-3-030-22566-7_43.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Devansh Goel, Sudarshan Kore
+    - footer
+title: Goel Devansh, Kore Sudarshan
 description:
 tags:
  - bibliometry
@@ -13,27 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mapping the Bibliometric Progression of 3D Concrete Printing:<br/>:aca-blank: A Concise Review ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1007/s41024-025-00665-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41024-025-00665-x</a>
+#Mapping the Bibliometric Progression of 3D Concrete Printing&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Concise Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-025-00665-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00665-x" target="_blank">10.1007/s41024-025-00665-x</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-7058-2358" title="ORCID: 0009-0000-7058-2358" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/goel_devansh"><b>Goel</b>&nbsp;Devansh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3427-4205" title="ORCID: 0000-0003-3427-4205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b>&nbsp;Sudarshan</a></span><br>
+Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 10, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a> <a href="https://orcid.org/0009-0000-7058-2358" title="ORCID: 0009-0000-7058-2358" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> <a href="https://orcid.org/0000-0003-3427-4205" title="ORCID: 0000-0003-3427-4205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 10, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bibliometry`](keyword/bibliometry)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mapping%20the%20Bibliometric%20Progression%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010715025&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412475739" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41024-025-00665-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41024-025-00665-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The introduction of 3D concrete printing (3DCP) marks a substantial milestone in construction technology, enabling greater design flexibility, reduced material waste, and faster construction timelines. This bibliometric review examines current and emerging trends in 3DCP research, identifying critical areas for advancement. This review examines the development trajectory of 3DCP research by analyzing leading publications, authors, affiliations, and funding organizations. Additionally, the paper discusses the progression of 3DCP, from early efforts in robotics and materials science to current developments in large-scale applications and sustainability. The evaluation provides a roadmap for future studies by identifying potential research gaps and upcoming themes through the use of keyword co-occurrences. This analysis is a valuable tool for practitioners and researchers seeking to make significant contributions to the field of 3DCP. This study will further enhance the potential of this technology and its integration into traditional construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -95,7 +79,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{goel_kore.2025.MtBPo3CP,
+      author            = "Devansh Goel and Sudarshan Dattatraya Kore",
+      title             = "Mapping the Bibliometric Progression of 3D Concrete Printing: A Concise Review",
+      doi               = "10.1007/s41024-025-00665-x",
+      year              = "2025",
+      journal           = "Journal of Building Pathology and Rehabilitation",
+      volume            = "10",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Goel  and S. D. Kore, “Mapping the Bibliometric Progression of 3D Concrete Printing: A Concise Review”, <i>Journal of Building Pathology and Rehabilitation</i>, vol. 10, no. 2, 2025, doi: 10.1007/s41024-025-00665-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Goel, Devansh, and Sudarshan Dattatraya Kore. “Mapping the Bibliometric Progression of 3D Concrete Printing: A Concise Review”. <i>Journal of Building Pathology and Rehabilitation</i> 10, no. 2 (2025). https://doi.org/10.1007/s41024-025-00665-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

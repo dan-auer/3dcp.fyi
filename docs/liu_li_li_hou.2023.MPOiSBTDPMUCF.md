@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Jixiang Li, Qi Li, Gunayu Hou
+    - footer
+title: Liu Xiongfei, Li Jixiang, Li Qi, Hou Gunayu
 description:
 tags:
  - base
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Performance Optimization in Spray-Based Three-Dimensional-Printed Mortar Using Carbon-Fiber ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1061/(asce)mt.1943-5533.0004587" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/(asce)mt.1943-5533.0004587</a>
+#Mechanical Performance Optimization in Spray-Based Three-Dimensional-Printed Mortar Using Carbon-Fiber ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)mt.1943-5533.0004587" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)mt.1943-5533.0004587" target="_blank">10.1061/(asce)mt.1943-5533.0004587</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9509-2520" title="ORCID: 0000-0002-9509-2520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_jixiang"><b>Li</b>&nbsp;Jixiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3995-4907" title="ORCID: 0000-0002-3995-4907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_qi"><b>Li</b>&nbsp;Qi</a></span>, <a href="../../../author/hou_gunayu"><b>Hou</b>&nbsp;Gunayu</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 35, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="https://orcid.org/0000-0002-9509-2520" title="ORCID: 0000-0002-9509-2520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_qi"><b>Li</b> Qi</a> <a href="https://orcid.org/0000-0002-3995-4907" title="ORCID: 0000-0002-3995-4907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hou_gunayu"><b>Hou</b> Gunayu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 35, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#carbon`](keyword/carbon)
-    [`#dimension`](keyword/dimension)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#optimization`](keyword/optimization)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#spray`](keyword/spray)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20Optimization%20in%20Spray-Based%20Three-Dimensional-Printed%20Mortar%20Using%20Carbon-Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143593761&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4310346249" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/(asce)mt.1943-5533.0004587" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/(asce)mt.1943-5533.0004587?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     From the perspective of the features of effective vertical and overhanging construction, the spray-based three-dimensional (S-3D) mortar printing technology has promoted the application of 3D printing in construction fields. Carbon fibers were used to optimize the mechanical performance of S-3D printed mortar. The effects of carbon fiber volume (0%, 0.5%, 1.0%, 1.5%, and 2.0%) and length (3 and 5 mm) on the working properties, printing accuracy, mechanical properties, and microstructural properties of the S-3D printed mortar were studied comprehensively. The test results showed that the S-3D printed mortar with the 1.5 vol% and 3 mm length carbon fiber (L3-V1.5 specimen) showed optimal printing accuracy in the single-layer and accumulative thickness tests. The S-3D printed L3-V1.5 mortar had the maximum flexural strength, which increased by 53.06% and 39.96% at 7 and 28 days, respectively, more than those of its cast counterparts. In addition, the S-3D printing process enhanced the interlayer bonding strength, and the ultimate interlayer splitting strength of the S-3D printed L3-V1.5 mortar increased by 2.16% and 3.33% at 7 and 28 days, respectively, more than those of the cast mortar without carbon fibers. The S-3D printing process improved the carbon fiber alignment and compactness and, thus, the mechanical properties of the S-3D printed mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -120,8 +95,8 @@ tags:
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/yamakawa_soji"><b>Yamakawa</b> Soji</a>, <a href="../../../author/vazquez-santiago_kyshalee"><b>Vazquez-Santiago</b> Kyshalee</a>, <a href="../../../author/xia_yixuan"><b>Xia</b> Yixuan</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yama_vazq_xia_ogur.2025.CS3PSfNTP/">Concrete Spray 3D Printing Simulator for Nozzle Trajectory Planning</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sun_wang_zhan_liu.2025.SB3PFC/">Spray-Based 3D Printed Foam Concrete:<br/>Stress Concentration Relieve Utilization</a></li>
@@ -131,4 +106,34 @@ tags:
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../alon_blan_cast_yori.2024.CoRFi3PMUMCA/">Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hou_guanyu"><b>Hou</b> Guanyu</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../liu_cai_ma_hou.2024.SB3CPPDM/">Spray-Based 3D Concrete Printing-Parameter Design-Model:<br/>Actionable Insight for High Printing Quality</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_li_hou.2023.MPOiSBTDPMUCF,
+      author            = "Xiongfei Liu and Jixiang Li and Qi Li and Gunayu Hou",
+      title             = "Mechanical Performance Optimization in Spray-Based Three-Dimensional-Printed Mortar Using Carbon-Fiber",
+      doi               = "10.1061/(asce)mt.1943-5533.0004587",
+      year              = "2023",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "35",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, J. Li, Q. Li and G. Hou, “Mechanical Performance Optimization in Spray-Based Three-Dimensional-Printed Mortar Using Carbon-Fiber”, <i>Journal of Materials in Civil Engineering</i>, vol. 35, no. 2, 2023, doi: 10.1061/(asce)mt.1943-5533.0004587.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Jixiang Li, Qi Li, and Gunayu Hou. “Mechanical Performance Optimization in Spray-Based Three-Dimensional-Printed Mortar Using Carbon-Fiber”. <i>Journal of Materials in Civil Engineering</i> 35, no. 2 (2023). https://doi.org/10.1061/(asce)mt.1943-5533.0004587.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

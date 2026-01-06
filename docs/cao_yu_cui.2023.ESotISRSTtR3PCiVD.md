@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangpeng Cao, Shiheng Yu, Hongzhi Cui
+    - footer
+title: Cao Xiangpeng, Yu Shiheng, Cui Hongzhi
 description:
 tags:
  - concrete
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132756" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132756</a>
+#Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132756" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132756" target="_blank">10.1016/j.conbuildmat.2023.132756</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/yu_shiheng"><b>Yu</b>&nbsp;Shiheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 400
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a> <a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>
-,     <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 400, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#experiment`](keyword/experiment)
-    [`#print`](keyword/print)
-    [`#rebar`](keyword/rebar)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#situ`](keyword/situ)
-    [`#technique`](keyword/technique)
-    [`#vertical`](keyword/vertical)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/vertical"><button class="btn">#vertical</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20of%20the%20In-Situ%20Rebar-Splicing-Technique%20to%20Reinforce%203D%20Printed%20Concrete%20in%20Vertical%20Directions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166483804&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385610380" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132756" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132756?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study proposed the in-situ rebar splicing technique (ISRST) to address the challenge of vertical continuous reinforcements in the 3D concrete printing. The technique involves splicing inserted rebar segments in stacked mortar layers with high-fluidity material during the printing process. Epoxy resin worked as the experimental splicing material and resulted in successful outcomes. It effectively eliminated visible gaps surrounding the directly inserted rebars and improved the bonding strength to the composite by 315.7%. Pull-out tests concluded that the spliced rebars with 40 mm overlapping performed well, with a splicing ratio of 93.2% and a direct tensile force of 12.52 kN. Moreover, the in-situ-spliced rebars effectively reinforced the cast and printed beams with flexural behavior improvements of 85.8% and 131.6%, respectively. The ISRST was proven successful through simulation and is technically feasible for hybridizing with a 3D printing system to manufacture rebar-reinforced concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -98,8 +76,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
       <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
@@ -114,4 +92,33 @@ tags:
       <li><a href="../../../author/zhao_cong"><b>Zhao</b> Cong</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhao_wang_sun.2024.CLRRf3PC/">Cross-Layer Reinforcement Robot for 3D Printing Concrete:<br/>Hardware, Software, and Validation</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cao_yu_cui.2023.ESotISRSTtR3PCiVD,
+      author            = "Xiangpeng Cao and Shiheng Yu and Hongzhi Cui",
+      title             = "Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions",
+      doi               = "10.1016/j.conbuildmat.2023.132756",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "400",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Cao, S. Yu and H. Cui, “Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions”, <i>Construction and Building Materials</i>, vol. 400, 2023, doi: 10.1016/j.conbuildmat.2023.132756.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cao, Xiangpeng, Shiheng Yu, and Hongzhi Cui. “Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions”. <i>Construction and Building Materials</i> 400 (2023). https://doi.org/10.1016/j.conbuildmat.2023.132756.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

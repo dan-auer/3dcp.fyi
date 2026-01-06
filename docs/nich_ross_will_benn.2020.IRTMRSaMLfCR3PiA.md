@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paul Nicholas, Gabriella Rossi, Ella Williams, Michael Bennett, Tim Schork
+    - footer
+title: Nicholas Paul, Rossi Gabriella, Williams Ella, Bennett Michael, Schork Tim
 description:
 tags:
  - architecture
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://opus.lib.uts.edu.au/bitstream/10453/142105/2/IJAC_conformal_3dPrinting.pdf) Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture ([2020-08](date/2020/08))
-<a href="https://doi.org/10.1177/1478077120948203" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1177/1478077120948203</a>
+#Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture ([2020-08](date/2020/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://opus.lib.uts.edu.au/bitstream/10453/142105/2/IJAC_conformal_3dPrinting.pdf) <a href="https://doi.org/10.1177/1478077120948203" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/1478077120948203" target="_blank">10.1177/1478077120948203</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0746-1566" title="ORCID: 0000-0003-0746-1566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rossi_gabriella"><b>Rossi</b>&nbsp;Gabriella</a></span>, <a href="../../../author/williams_ella"><b>Williams</b>&nbsp;Ella</a></span>, <a href="../../../author/bennett_michael"><b>Bennett</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4583-2439" title="ORCID: 0000-0002-4583-2439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schork_tim"><b>Schork</b>&nbsp;Tim</a></span><br>
+Journal Article - International Journal of Architectural Computing, Vol. 18, Iss. 4, pp. 371-384
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a> <a href="https://orcid.org/0000-0003-0746-1566" title="ORCID: 0000-0003-0746-1566" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/williams_ella"><b>Williams</b> Ella</a>
-,     <a href="../../../author/bennett_michael"><b>Bennett</b> Michael</a>
-,     <a href="../../../author/schork_tim"><b>Schork</b> Tim</a> <a href="https://orcid.org/0000-0002-4583-2439" title="ORCID: 0000-0002-4583-2439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Architectural Computing, Vol. 18, Iss. 4, pp. 371-384
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#conformity`](keyword/conformity)
-    [`#integration`](keyword/integration)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#resolution`](keyword/resolution)
-    [`#robot`](keyword/robot)
-    [`#scan`](keyword/scan)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/conformity"><button class="btn">#conformity</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/resolution"><button class="btn">#resolution</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integrating%20Real-Time%20Multi-Resolution%20Scanning%20and%20Machine%20Learning%20for%20Conformal%20Robotic%203D%20Printing%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089367025&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3049331511" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1177/1478077120948203" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1177/1478077120948203?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic 3D printing applications are rapidly growing in architecture, where they enable the introduction of new materials and bespoke geometries. However, current approaches remain limited to printing on top of a flat build bed. This limits robotic 3D printing’s impact as a sustainable technology: opportunities to customize or enhance existing elements, or to utilize complex material behaviour are missed. This paper addresses the potentials of conformal 3D printing and presents a novel and robust workflow for printing onto unknown and arbitrarily shaped 3D substrates. The workflow combines dual-resolution Robotic Scanning, Neural Network prediction and printing of PETG plastic. This integrated approach offers the advantage of responding directly to unknown geometries through automated performance design customization. This paper firstly contextualizes the work within the current state of the art of conformal printing. We then describe our methodology and the design experiment we have used to test it. We lastly describe the key findings, potentials and limitations of the work, as well as the next steps in this research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../batt_mill_zivk.2019.SA3PoODCCLS/">Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
@@ -86,8 +59,8 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_liu_chen_xuan.2025.DaPo3PBSFRCCCB/">Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams</a></li>
@@ -105,4 +78,35 @@ tags:
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../li_nguy_tran.2023.DDaPSo3CPoNPS/">Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces</a></li>
       <li><a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../sepa_shi_yang_shir.2020.AMAfI40/">Additive Manufacturing Applications for Industry 4.0:<br/>A Systematic Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nich_ross_will_benn.2020.IRTMRSaMLfCR3PiA,
+      author            = "Paul Nicholas and Gabriella Rossi and Ella Williams and Michael Bennett and Tim Schork",
+      title             = "Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture",
+      doi               = "10.1177/1478077120948203",
+      year              = "2020",
+      journal           = "International Journal of Architectural Computing",
+      volume            = "18",
+      number            = "4",
+      pages             = "371--384",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Nicholas, G. Rossi, E. Williams, M. Bennett and T. Schork, “Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture”, <i>International Journal of Architectural Computing</i>, vol. 18, no. 4, pp. 371–384, 2020, doi: 10.1177/1478077120948203.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nicholas, Paul, Gabriella Rossi, Ella Williams, Michael Bennett, and Tim Schork. “Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture”. <i>International Journal of Architectural Computing</i> 18, no. 4 (2020): 371–84. https://doi.org/10.1177/1478077120948203.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

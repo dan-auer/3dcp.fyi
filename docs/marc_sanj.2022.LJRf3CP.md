@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Taylor Marchment, Jay Sanjayan
+    - footer
+title: Marchment Taylor, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -12,26 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Lap Joint Reinforcement for 3D Concrete Printing ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1061/(asce)st.1943-541x.0003361" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/(asce)st.1943-541x.0003361</a>
+#Lap Joint Reinforcement for 3D Concrete Printing ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)st.1943-541x.0003361" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)st.1943-541x.0003361" target="_blank">10.1061/(asce)st.1943-541x.0003361</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchment_taylor"><b>Marchment</b>&nbsp;Taylor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Journal of Structural Engineering, Vol. 148, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Structural Engineering, Vol. 148, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#joint`](keyword/joint)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Lap%20Joint%20Reinforcement%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128493022&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4224144894" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/(asce)st.1943-541x.0003361" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/(asce)st.1943-541x.0003361?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion three-dimensional (3D) concrete printing (3DcP) is an automated construction technology that involves the layer-by-layer deposition of stiff concrete to build a structure without formworks. The interlayer strength is compromised by weak bonds and lack of vertical reinforcements. The bar-penetration technique is a 3DcP reinforcement method where reinforcing bar is inserted vertically through freshly printed layers. Application of a cement paste to the bar during penetration has proven to increase the bar to matrix bond. To be effective as continuous reinforcement, a sequential vertical lapping of bars is considered. For this method to be effective, an understanding of minimum lap length in 3DcP requirements is crucial. This study investigates center- and off-center-lapped samples with lap lengths of 20, 17, 14, and 11 times the bar diameter, subjected to three-point bending tests. Failure modes and crack patterns were recorded and compared with single-bar-penetrated samples. Results and findings were further validated by the printing and testing of a large-scale wall section. Comparisons with small scale results and design calculations showed promising structural performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "53 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -111,8 +95,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -135,4 +119,34 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/mukhametrakhimov_kh_rustem"><b>Mukhametrakhimov</b> Rustem</a>, <a href="../../../author/ziganshina_liliya"><b>Ziganshina</b> Liliya</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mukh_ziga.2023.IoTaQCo3/">Improvement of Technology and Quality-Control of 3DCP</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{marc_sanj.2022.LJRf3CP,
+      author            = "Taylor Marchment and Jay Gnananandan Sanjayan",
+      title             = "Lap Joint Reinforcement for 3D Concrete Printing",
+      doi               = "10.1061/(asce)st.1943-541x.0003361",
+      year              = "2022",
+      journal           = "Journal of Structural Engineering",
+      volume            = "148",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Marchment  and J. G. Sanjayan, “Lap Joint Reinforcement for 3D Concrete Printing”, <i>Journal of Structural Engineering</i>, vol. 148, no. 6, 2022, doi: 10.1061/(asce)st.1943-541x.0003361.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Marchment, Taylor, and Jay Gnananandan Sanjayan. “Lap Joint Reinforcement for 3D Concrete Printing”. <i>Journal of Structural Engineering</i> 148, no. 6 (2022). https://doi.org/10.1061/(asce)st.1943-541x.0003361.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

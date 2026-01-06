@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ze Chang, Minfei Liang, Yu Chen, Erik Schlangen, Branko Šavija
+    - footer
+title: Chang Ze, Liang Minfei, Chen Yu, Schlangen Erik, Šavija Branko
 description:
 tags:
  - age
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2023.103788) Does Early-Age Creep Influence Buildability of 3D Printed Concrete?:<br/>:aca-blank: Insights from Numerical Simulations ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.addma.2023.103788" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2023.103788</a>
+#Does Early-Age Creep Influence Buildability of 3D Printed Concrete?&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">Insights from Numerical Simulations</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2023.103788) <a href="https://doi.org/10.1016/j.addma.2023.103788" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103788" target="_blank">10.1016/j.addma.2023.103788</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chang_ze"><b>Chang</b>&nbsp;Ze</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4982-0117" title="ORCID: 0000-0003-4982-0117" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liang_minfei"><b>Liang</b>&nbsp;Minfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Additive Manufacturing, No. 103788
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> <a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a> <a href="https://orcid.org/0000-0003-4982-0117" title="ORCID: 0000-0003-4982-0117" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 103788
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#creep`](keyword/creep)
-    [`#early`](keyword/early)
-    [`#influence`](keyword/influence)
-    [`#insights`](keyword/insights)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/creep"><button class="btn">#creep</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Does%20Early-Age%20Creep%20Influence%20Buildability%20of%203D%20Printed%20Concrete%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171879763&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,20 +41,15 @@ tags:
 <a href="https://inciteful.xyz/p/W4386777839" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2023.103788" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2023.103788?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cementitious materials may exhibit significant creep at very early age. This is potentially important for concrete 3D printing, where the material is progressively loaded even before it sets. However, does creep actually affect the buildability of 3D printed concrete? Herein, the influence of early-age creep on the buildability of 3D printed concrete is studied numerically. Creep is considered using the “local-force method”, which was developed in our previous work. This 3D printing model be used to quantify the influence of early-age creep on typical failure modes, i.e., structural instability due to buckling and plastic collapse resulting from material yielding. The green strength and early-age creep experiments are conducted to characterize early-age visco-elastic-plastic behaviors. The model is then validated with the comparison to printing experiment about buildability quantification and failure mode prediction. Parametric analyses are subsequently performed to quantify the influence of early-age creep on various printing geometries in which different failure modes are dominant. The numerical results highlight the significance of initial printing time and material mix design for predicting the buildability of 3D printing of concrete. Finally, a discussion on how creep affects structural buildability is given from the perspective of localized damage and element strain.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_he_schl.2023.LMoEACo3PSwtCoSH/">Lattice-Modelling of Early-Age Creep of 3D Printed Segments with the Consideration of Stress-History</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../chan_lian_xu_schl.2022.3CP/">3D Concrete Printing:<br/>Lattice Modeling of Structural Failure considering Damage and Deformed Geometry</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chan_lian_xu_wan.2023.EACo3PM/">Early-Age Creep of 3D Printable Mortar:<br/>Experiments and Analytical Modelling</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chan_xu_chen_gan.2021.ADLMfAoBPo3PC/">A Discrete Lattice-Model for Assessment of Buildability Performance of 3D Printed Concrete</a></li>
@@ -109,8 +84,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
       <li><a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a>, <a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wagn_silv_ribe_figu.2025.ANaFAtMtAMEoCM/">A Novel and Flexible Approach to Modeling the Additive Manufacturing Extrusion of Cementitious Materials</a></li>
@@ -125,4 +100,33 @@ tags:
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chan_lian_chen_schl.2023.DEACIBo3PC,
+      author            = "Ze Chang and Minfei Liang and Yu Chen and Erik Schlangen and Branko Šavija",
+      title             = "Does Early-Age Creep Influence Buildability of 3D Printed Concrete?: Insights from Numerical Simulations",
+      doi               = "10.1016/j.addma.2023.103788",
+      year              = "2023",
+      journal           = "Additive Manufacturing",
+      pages             = "103788",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Chang, M. Liang, Y. Chen, E. Schlangen and B. Šavija, “Does Early-Age Creep Influence Buildability of 3D Printed Concrete?: Insights from Numerical Simulations”, <i>Additive Manufacturing</i>, p. 103788, 2023, doi: 10.1016/j.addma.2023.103788.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chang, Ze, Minfei Liang, Yu Chen, Erik Schlangen, and Branko Šavija. “Does Early-Age Creep Influence Buildability of 3D Printed Concrete?: Insights from Numerical Simulations”. <i>Additive Manufacturing</i>, 2023, 103788. https://doi.org/10.1016/j.addma.2023.103788.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

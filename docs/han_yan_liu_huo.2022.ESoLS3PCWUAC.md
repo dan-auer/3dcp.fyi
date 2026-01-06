@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaoyu Han, Jiachuan Yan, Mingjian Liu, Liang Huo, Junlin Li
+    - footer
+title: Han Xiaoyu, Yan Jiachuan, Liu Mingjian, Huo Liang, Li Junlin
 description:
 tags:
  - axis
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.autcon.2021.103993" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2021.103993</a>
+#Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression ([2021-10](date/2021/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2021.103993" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103993" target="_blank">10.1016/j.autcon.2021.103993</a>
 
--------------------------
+<a href="../../../author/han_xiaoyu"><b>Han</b>&nbsp;Xiaoyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_jiachuan"><b>Yan</b>&nbsp;Jiachuan</a></span>, <a href="../../../author/liu_mingjian"><b>Liu</b>&nbsp;Mingjian</a></span>, <a href="../../../author/huo_liang"><b>Huo</b>&nbsp;Liang</a></span>, <a href="../../../author/li_junlin"><b>Li</b>&nbsp;Junlin</a></span><br>
+Journal Article - Automation in Construction, Vol. 133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>
-,     <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a> <a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_mingjian"><b>Liu</b> Mingjian</a>
-,     <a href="../../../author/huo_liang"><b>Huo</b> Liang</a>
-,     <a href="../../../author/li_junlin"><b>Li</b> Junlin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 133, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Large-Scale%203D%20Printed%20Concrete%20Walls%20Under%20Axial%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85116581191&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3203148937" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2021.103993" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2021.103993?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the structural mechanical properties and failure modes of large-scale three-dimensional (3D) printed concrete walls under axial compression loads. Eight large-scale 3D printed concrete wall specimens with varying ratios of height to thickness were tested under axial compression, including two specimens without horizontal steel reinforcement and six specimens with horizontal steel reinforcement. It can be concluded that the failure of 3D printed concrete walls under an axial compression load is brittle. The use of horizontal steel reinforcement reduces the ultimate bearing capacity of 3D printed concrete walls under axial compression. The layers in which the horizontal steel reinforcement is set are weak zones. Based on the stress state characteristics, the structural mechanical properties were further studied by modeling the test results of the strains of large-scale 3D printed concrete walls. The failure load was defined accordingly, and a formula for predicting the failure loads was proposed and validated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
@@ -95,8 +72,8 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "72 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aden_rashid_abdishukri"><b>Aden</b> Abdishukri</a>, <a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b> Alejandra</a>, <a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aden_nune_ponc_rang.2026.FB/">FAB-BIO:<br/>A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
@@ -170,4 +147,33 @@ tags:
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_yali"><b>Li</b> Yali</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP/">Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment</a></li>
       <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{han_yan_liu_huo.2022.ESoLS3PCWUAC,
+      author            = "Xiaoyu Han and Jiachuan Yan and Mingjian Liu and Liang Huo and Junlin Li",
+      title             = "Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression",
+      doi               = "10.1016/j.autcon.2021.103993",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Han, J. Yan, M. Liu, L. Huo and J. Li, “Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression”, <i>Automation in Construction</i>, vol. 133, 2022, doi: 10.1016/j.autcon.2021.103993.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Han, Xiaoyu, Jiachuan Yan, Mingjian Liu, Liang Huo, and Junlin Li. “Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression”. <i>Automation in Construction</i> 133 (2022). https://doi.org/10.1016/j.autcon.2021.103993.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

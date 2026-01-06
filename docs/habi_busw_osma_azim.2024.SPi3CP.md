@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alireza Habibi, Richard Buswell, Mohamed Osmani, Mohamadmahdi Aziminezhad
+    - footer
+title: Habibi Alireza, Buswell Richard, Osmani Mohamed, Aziminezhad Mohamadmahdi
 description:
 tags:
  - analysis
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.111354) Sustainability Principles in 3D Concrete Printing:<br/>:aca-blank: Analysing Trends, Classifying Strategies, and Future Directions ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111354" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111354</a>
+#Sustainability Principles in 3D Concrete Printing&nbsp;([2024-11](date/2024/11))
+<div class="h1-like">Analysing Trends, Classifying Strategies, and Future Directions</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.111354) <a href="https://doi.org/10.1016/j.jobe.2024.111354" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111354" target="_blank">10.1016/j.jobe.2024.111354</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2707-2237" title="ORCID: 0000-0002-2707-2237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habibi_alireza"><b>Habibi</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <a href="../../../author/osmani_mohamed"><b>Osmani</b>&nbsp;Mohamed</a></span>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b>&nbsp;Mohamadmahdi</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111354
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a> <a href="https://orcid.org/0000-0002-2707-2237" title="ORCID: 0000-0002-2707-2237" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>
-,     <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111354
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#classification`](keyword/classification)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#future`](keyword/future)
-    [`#print`](keyword/print)
-    [`#strategy`](keyword/strategy)
-    [`#sustainability`](keyword/sustainability)
-    [`#trend`](keyword/trend)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/classification"><button class="btn">#classification</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sustainability%20Principles%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209350079&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404410004" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111354" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111354?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent years have seen an increasing interest in 3D concrete printing (3DCP); however, its sustainability challenges, particularly regarding environmental concerns, require close attention. To mitigate sustainability-related problems of technology, new realm of research has emerged: sustainable 3DCP. However, this field currently lacks a classification framework for sustainability practices and approaches. To fill this gap, current study aims to classify strategies in 3DCP to enhance environmental sustainability and offer recommendations for further research. To achieve this goal, first, a bibliometric analysis, a computer-aided statistical method for reviewing the literature, is employed. This analysis will explore, measure, and map existing research to identify current trends and the state-of-the-art in the field. Subsequently, a thematic analysis of the keywords categorises prior sustainability strategies. Finally, benchmarking concrete technology offers some recommendations for mitigating sustainability concerns and assessing the benefits of applied strategies. The results show that research in the realm of sustainable 3DCP began in 2017 and has a significant growth rate of 1.5 times per year. Besides, strategies to improve the sustainability performance of 3DCP pursue four main targets: reducing carbon footprint and raw material consumption, increasing durability characteristics, and enhancing thermal performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "121 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmadi_khatereh"><b>Ahmadi</b> Khatereh</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ahma_mous_dehe.2023.IoNCMSFoMaSHPo3PCUGOaPA/">Influence of Nano-Coated Micro-Steel-Fibers on Mechanical and Self-Healing Properties of 3D Printable Concrete Using Graphene-Oxide and Polyvinyl-Alcohol</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/asensio_javier"><b>Asensio</b> Javier</a>, <a href="../../../author/josa_irene"><b>Josa</b> Irene</a>, <a href="../../../author/monserrat_andrea"><b>Monserrat</b> Andrea</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../asen_josa_mons_fuen.2023.3PCF/">3D‐Printed Concrete Footbridges:<br/>An Approach to Assess the Sustainability Performance</a></li>
@@ -191,10 +169,11 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
+      <li><a href="../../../author/sifan_mohamed"><b>Sifan</b> Mohamed</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b> Sunday</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sifa_upas_pool_popo.2025.FPaDoLWPw3PCaSLCS/">Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections</a></li>
       <li><a href="../../../author/gumruk_idil"><b>Gümrük</b> Idil</a>, <a href="../../../author/schroder_w-a_torsten"><b>Schröder</b> Torsten</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../gumr_schr_wolf_sale.2025.3C/">3DCP-CI:<br/>Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs</a></li>
       <li><a href="../../../author/kim_ki_young"><b>Kim</b> Young</a>, <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>, <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_scop_hadd.2025.AIitRo3PiRB/">An Investigation into the Role of 3D Printing in Residential Buildings:<br/>An Emirati Housing Case Study</a></li>
       <li><a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/effting_carmeane"><b>Effting</b> Carmeane</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safa_scha_efft_mato.2025.TEoCNotRHoCPaBo3PC/">The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete</a></li>
@@ -204,4 +183,33 @@ tags:
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
       <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a>, <a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a>, <a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a>, <a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nan_qiao_leng_bai.2025.ASRi3PC/">Advancing Structural Reinforcement in 3D Printed Concrete:<br/>Current Methods, Challenges, and Innovations</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{habi_busw_osma_azim.2024.SPi3CP,
+      author            = "Alireza Habibi and Richard A. Buswell and Mohamed Osmani and Mohamadmahdi Aziminezhad",
+      title             = "Sustainability Principles in 3D Concrete Printing: Analysing Trends, Classifying Strategies, and Future Directions",
+      doi               = "10.1016/j.jobe.2024.111354",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111354",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Habibi, R. A. Buswell, M. Osmani and M. Aziminezhad, “Sustainability Principles in 3D Concrete Printing: Analysing Trends, Classifying Strategies, and Future Directions”, <i>Journal of Building Engineering</i>, p. 111354, 2024, doi: 10.1016/j.jobe.2024.111354.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Habibi, Alireza, Richard A. Buswell, Mohamed Osmani, and Mohamadmahdi Aziminezhad. “Sustainability Principles in 3D Concrete Printing: Analysing Trends, Classifying Strategies, and Future Directions”. <i>Journal of Building Engineering</i>, 2024, 111354. https://doi.org/10.1016/j.jobe.2024.111354.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

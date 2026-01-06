@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yassir Abbas, Abdulaziz Alsaif
+    - footer
+title: Abbas Yassir, Alsaif Abdulaziz
 description:
 tags:
  - binder
@@ -21,35 +22,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>:aca-blank: Interpreting Nonlinear Synergies Among Binder Components and Proportions ([2025-11](date/2025/11))
-<a href="https://doi.org/10.32604/cmes.2025.073088" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.32604/cmes.2025.073088</a>
+#Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Interpreting Nonlinear Synergies Among Binder Components and Proportions</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.32604/cmes.2025.073088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32604/cmes.2025.073088" target="_blank">10.32604/cmes.2025.073088</a>
 
--------------------------
+<a href="../../../author/abbas_m_yassir"><b>Abbas</b>&nbsp;Yassir</a></span>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b>&nbsp;Abdulaziz</a></span><br>
+Journal Article - Computer Modeling in Engineering & Sciences, Vol. 145, Iss. 2, pp. 1789-1819
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>
-,     <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Computer Modeling in Engineering & Sciences, Vol. 145, Iss. 2, pp. 1789-1819
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#component`](keyword/component)
-    [`#concrete`](keyword/concrete)
-    [`#data`](keyword/data)
-    [`#design`](keyword/design)
-    [`#explainability`](keyword/explainability)
-    [`#mixing`](keyword/mixing)
-    [`#model`](keyword/model)
-    [`#nonlinear`](keyword/nonlinear)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#proportion`](keyword/proportion)
-    [`#synergy`](keyword/synergy)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/nonlinear"><button class="btn">#nonlinear</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Explainable%20Data-Driven%20Modeling%20for%20Optimized%20Mix%20Design%20of%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023050811&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4416716670" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.32604/cmes.2025.073088" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.32604/cmes.2025.073088?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid advancement of three-dimensional printed concrete (3DPC) requires intelligent and interpretable frameworks to optimize mixture design for strength, printability, and sustainability. While machine learning (ML) models have improved predictive accuracy, their limited transparency has hindered their widespread adoption in materials engineering. To overcome this barrier, this study introduces a Random Forests ensemble learning model integrated with SHapley Additive exPlanations (SHAP) and Partial Dependence Plots (PDPs) to model and explain the compressive strength behavior of 3DPC mixtures. Unlike conventional “black-box” models, SHAP quantifies each variable’s contribution to predictions based on cooperative game theory, which enables causal interpretability, whereas PDP visualizes nonlinear and interactive effects between features that offer practical mix design insights. A systematically optimized random forest model achieved strong generalization (R2 = 0.978 for training, 0.834 for validation, and 0.868 for testing). The analysis identified curing age, Portland cement, silica fume, and the water-tobinder ratio as dominant predictors, with curing age exerting the highest positive influence on strength development. The integrated SHAP-PDP framework revealed synergistic interactions among binder constituents and curing parameters, which established transparent, data-driven guidelines for performance optimization. Theoretically, the study advances explainable artificial intelligence in cementitious material science by linking microstructural mechanisms to model-based reasoning, thereby enhancing both the interpretability and applicability ofML-driven mix design for next-generation 3DPC systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "94 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../alva_pren_gonz_guer.2021.OMDf3CPUMT/">Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings:<br/>A Case Study in Spain</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/arif_muhammad"><b>Arif</b> Muhammad</a>, <a href="../../../author/jan_faizullah"><b>Jan</b> Faizullah</a>, <a href="../../../author/rezzoug_aissa"><b>Rezzoug</b> Aïssa</a>, <a href="../../../author/afridi_ali_muhammad"><b>Afridi</b> Muhammad</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../arif_jan_rezz_afri.2024.DDMfPCSo3PFRCUIMLA/">Data-Driven Models for Predicting Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Interpretable Machine Learning Algorithms</a></li>
@@ -170,7 +146,38 @@ tags:
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.PaEMPoMCM3PECCBotRSM/">Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology</a></li>
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abba_alsa.2025.EDDMfOMDo3PC,
+      author            = "Yassir M. Abbas and Abdulaziz Alsaif",
+      title             = "Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete: Interpreting Nonlinear Synergies Among Binder Components and Proportions",
+      doi               = "10.32604/cmes.2025.073088",
+      year              = "2025",
+      journal           = "Computer Modeling in Engineering & Sciences",
+      volume            = "145",
+      number            = "2",
+      pages             = "1789--1819",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. M. Abbas  and A. Alsaif, “Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete: Interpreting Nonlinear Synergies Among Binder Components and Proportions”, <i>Computer Modeling in Engineering & Sciences</i>, vol. 145, no. 2, pp. 1789–1819, 2025, doi: 10.32604/cmes.2025.073088.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abbas, Yassir M., and Abdulaziz Alsaif. “Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete: Interpreting Nonlinear Synergies Among Binder Components and Proportions”. <i>Computer Modeling in Engineering & Sciences</i> 145, no. 2 (2025): 1789–1819. https://doi.org/10.32604/cmes.2025.073088.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

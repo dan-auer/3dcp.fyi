@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lieyun Ding, Ran Wei, Haichao Che
+    - footer
+title: Ding Lieyun, Wei Ran, Che Haichao
 description:
 tags:
  - automation
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.proeng.2014.10.536) Development of a BIM-Based Automated Construction System ([2014-12](date/2014/12))
-<a href="https://doi.org/10.1016/j.proeng.2014.10.536" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.proeng.2014.10.536</a>
+#Development of a BIM-Based Automated Construction System ([2014-12](date/2014/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.proeng.2014.10.536) <a href="https://doi.org/10.1016/j.proeng.2014.10.536" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.proeng.2014.10.536" target="_blank">10.1016/j.proeng.2014.10.536</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_lieyun"><b>Ding</b>&nbsp;Lieyun</a></span>, <a href="../../../author/wei_ran"><b>Wei</b>&nbsp;Ran</a></span>, <a href="../../../author/che_haichao"><b>Che</b>&nbsp;Haichao</a></span><br>
+Journal Article - Procedia Engineering, Vol. 85, pp. 123-131
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a> <a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>
-,     <a href="../../../author/che_haichao"><b>Che</b> Haichao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia Engineering, Vol. 85, pp. 123-131
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#base`](keyword/base)
-    [`#bim`](keyword/bim)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20BIM-Based%20Automated%20Construction%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84949115681&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2029652048" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.proeng.2014.10.536" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.proeng.2014.10.536?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automation technology has advanced in industry, such as aerospace, ship building, automobile, etc. However, automation technology in construction has grown slowly, because the currently available automation technology and engineering technology may not be suitable for large scale construction products effectively and economically. This paper describes current additive manufacturing (AM) processes in construction which has the potential of application in the production of large structures. Based on the similar procedure, the paper explores a new BIM-based automated construction system (BIMAC) including composition of BIMAC, detail of execution setup, data issues, filling layer algorithm and shows printed example results, which are the highly customized building components. The further research about construction scale AM is presented. While still in its infancy, this research has the potential to improve the traditional construction methods, and solve problems like high accident, low quality, loss of skilled workers, and so on.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2005/11">(2005-11)</a><br><a href="../../../hwan_khos.2005.AICPCCC/">An Innovative Construction Process-Contour Crafting (CC)</a></li>
@@ -72,8 +53,8 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
       <li><a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b> Laura</a>, <a href="../../../author/orobio_armando"><b>Orobio</b> Armando</a>, <a href="../../../author/campana_wilmer"><b>Campaña</b> Wilmer</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../hena_orob_camp.2026.BIiPACP/">BIM Integration in Prefabricated Additive Construction Projects:<br/>Case Study</a></li>
       <li><a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/petzold_frank"><b>Petzold</b> Frank</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_petz.2025.ODMoDD/">Ontology-Driven Mixture-of-Domain Documentation:<br/>A Backbone Approach Enabling Question Answering for Additive Construction</a></li>
@@ -97,4 +78,34 @@ tags:
       <li><a href="../../../author/tan_kang"><b>Tan</b> Kang</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../tan.2018.TFoCAIaC3PiCE/">The Framework of Combining Artificial Intelligence and Construction 3D Printing in Civil Engineering</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_wei_che.2014.DoaBBACS,
+      author            = "Lieyun Ding and Ran Wei and Haichao Che",
+      title             = "Development of a BIM-Based Automated Construction System",
+      doi               = "10.1016/j.proeng.2014.10.536",
+      year              = "2014",
+      journal           = "Procedia Engineering",
+      volume            = "85",
+      pages             = "123--131",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Ding, R. Wei and H. Che, “Development of a BIM-Based Automated Construction System”, <i>Procedia Engineering</i>, vol. 85, pp. 123–131, 2014, doi: 10.1016/j.proeng.2014.10.536.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Lieyun, Ran Wei, and Haichao Che. “Development of a BIM-Based Automated Construction System”. <i>Procedia Engineering</i> 85 (2014): 123–31. https://doi.org/10.1016/j.proeng.2014.10.536.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

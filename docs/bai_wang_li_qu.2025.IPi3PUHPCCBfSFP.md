@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gang Bai, Li Wang, Zhijian Li, Yao Qu, Guowei Ma
+    - footer
+title: Bai Gang, Wang Li, Li Zhijian, Qu Yao, Ma Guowei
 description:
 tags:
  - beam
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.engstruct.2025.121255" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2025.121255</a>
+#Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.engstruct.2025.121255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121255" target="_blank">10.1016/j.engstruct.2025.121255</a>
 
--------------------------
+<a href="../../../author/bai_gang"><b>Bai</b>&nbsp;Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <a href="../../../author/qu_yao"><b>Qu</b>&nbsp;Yao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Engineering Structures, Vol. 343, No. 121255
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qu_yao"><b>Qu</b> Yao</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 343, No. 121255
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#flexural`](keyword/flexural)
-    [`#height`](keyword/height)
-    [`#integration`](keyword/integration)
-    [`#performance`](keyword/performance)
-    [`#prestressed`](keyword/prestressed)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/prestressed"><button class="btn">#prestressed</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integrating%20Prestress%20into%203D%20Printed%20Ultra-High%20Performance%20Concrete%20Composite%20Beams%20for%20Superior%20Flexural%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014931694&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413916992" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2025.121255" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2025.121255?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The high-performance flexural capacity of 3D printed concrete structures (3DPS) without steel reinforcement cages has become a central focus in construction 3D printing technology. Previous studies have found that combining 3D printed ultra-high performance concrete (3DP-UHPC) skeletons with single steel bars is an effective alternative method to traditional reinforcement cages. To further enhance the flexural capacity of 3DPS, this study proposes a form-force coupling method using 3DP-UHPC skeletons and prestressing to enhance cage-free 3D printed structures. The bending performance of prestressed 3D printed concrete composite beams (P-CRC) is evaluated. Key assessments include monitoring the prestress tensioning process, measuring short-term prestress loss, and analyzing the cracking load, ultimate load-bearing capacity, failure modes, and strain of P-CRC beams. Results show that P-CRC beams exhibit significantly superior performance compared to reinforced concrete beam. Their cracking load is nearly 6 times higher than that of RC beam, and it approaches the ultimate load of reinforced concrete beam. The ultimate load-bearing capacity is increased by approximately 40 %, while flexural toughness is enhanced fivefold. These findings provide valuable experimental data and theoretical support for the broader adoption of 3D concrete printing, particularly in large-span applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
@@ -105,7 +81,37 @@ tags:
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bai_wang_li_qu.2025.IPi3PUHPCCBfSFP,
+      author            = "Gang Bai and Li Wang and Zhijian Li and Yao Qu and Guowei Ma",
+      title             = "Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance",
+      doi               = "10.1016/j.engstruct.2025.121255",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "343",
+      pages             = "121255",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Bai, L. Wang, Z. Li, Y. Qu and G. Ma, “Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance”, <i>Engineering Structures</i>, vol. 343, p. 121255, 2025, doi: 10.1016/j.engstruct.2025.121255.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bai, Gang, Li Wang, Zhijian Li, Yao Qu, and Guowei Ma. “Integrating Prestress into 3D Printed Ultra-High Performance Concrete Composite Beams for Superior Flexural Performance”. <i>Engineering Structures</i> 343 (2025): 121255. https://doi.org/10.1016/j.engstruct.2025.121255.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

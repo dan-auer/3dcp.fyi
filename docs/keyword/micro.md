@@ -8,7 +8,7 @@ search:
 
 # #micro
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
   <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC/">Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics</a></li>
   <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Popescu Mariana 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kariouh_anass"><b>Kariouh</b> Anass</a>, <a href="../../../author/popescu_mariana"><b>Popescu</b> Mariana</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kari_pope.2024.RFFfCCCS/">Reusable Flexible Formworks for Constructing Complex Concrete Structures</a></li>
   <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
   <li><a href="../../../author/goidea_ana"><b>Goidea</b> Ana</a>, <a href="../../../author/popescu_mariana"><b>Popescu</b> Mariana</a>, <a href="../../../author/johansson_tetov_anton"><b>Johansson</b> Anton</a>, <a href="../../../author/andreen_david"><b>Andreén</b> David</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../goid_pope_joha_andr.2024.AMoFGMi3PBE/">Algorithmic Modeling of Functionally Graded Metamaterials in 3D Printed Building Envelopes</a></li>

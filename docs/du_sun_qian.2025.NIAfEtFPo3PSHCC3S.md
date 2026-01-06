@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guoqiang Du, Yan Sun, Ye Qian
+    - footer
+title: Du Guoqiang, Sun Yan, Qian Ye
 description:
 tags:
  - approach
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Nature-Inspired Approach for Enhancing the Fracture Performance of 3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC) ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.engstruct.2024.119074" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2024.119074</a>
+#Nature-Inspired Approach for Enhancing the Fracture Performance of 3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC) ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2024.119074" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.119074" target="_blank">10.1016/j.engstruct.2024.119074</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_guoqiang"><b>Du</b>&nbsp;Guoqiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span><br>
+Journal Article - Engineering Structures, Vol. 322, No. 119074
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> <a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yan"><b>Sun</b> Yan</a> <a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 322, No. 119074
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#enhancement`](keyword/enhancement)
-    [`#fracture`](keyword/fracture)
-    [`#hardened`](keyword/hardened)
-    [`#inspiration`](keyword/inspiration)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nature-Inspired%20Approach%20for%20Enhancing%20the%20Fracture%20Performance%20of%203D%20Printed%20Strain-Hardening%20Cementitious%20Composites%20%283DP-SHCC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205287416&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403012522" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2024.119074" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2024.119074?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology enhances design flexibility, enables the creation of complex geometrical structures, facilitates rapid prototyping, and allows the fabrication of micro- and macroscopic structures. This study investigates the use of 3D concrete printing to create Bouligand structures inspired by mantis shrimp. Bouligand-printed strain-hardening cementitious composites (SHCC) with different pitch angles (15°, 30°, 45°, 60°, 75°, and 90°) are fabricated and compared with traditional parallel-printed and mold-cast SHCC. The fracture behavior of these specimens is investigated through three-point bending tests on notched beams. The results reveal that Bouligand-printed specimens exhibit enhanced flexural strength, fracture energy, and fracture toughness, ranging from 0.97 to 1.29 times, 0.99 to 1.63 times and 0.87 to 1.47 times that of the mold-cast specimens, respectively. Bouligand-printed specimens with a pitch angle of 30° exhibits the highest flexural strength, fracture energy, and fracture toughness. The Bouligand-printed SHCC enhance toughness through the synergistic effects of crack twisting and bridging. A finite element model integrating cohesive elements with the concrete plastic damage model is developed to numerically replicate the experimental process. This study highlights the potential of 3D concrete printing for the fabrication of biomimetic concrete structures with superior fracture performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../cao_yu_cui.2023.ESotISRSTtR3PCiVD/">Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
@@ -102,8 +79,9 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.PaEMPoMCM3PECCBotRSM/">Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -113,4 +91,34 @@ tags:
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sun_du_deng_qian.2025.EoNTotMPo3PUHPSHCCUS/">Effects of Nozzle Thickness on the Mechanical Properties of 3D Printable Ultra-High Performance Strain-Hardening Cementitious Composites (UHP-SHCC)</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../du_qian.2025.EtFaFBo3PSHCCwNISaDBS/">Enhancing the Fracture and Flexural Behavior of 3D Printed Strain-Hardening Cementitious Composites with Nature-Inspired Single and Double Bouligand Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{du_sun_qian.2025.NIAfEtFPo3PSHCC3S,
+      author            = "Guoqiang Du and Yan Sun and Ye Qian",
+      title             = "Nature-Inspired Approach for Enhancing the Fracture Performance of 3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC)",
+      doi               = "10.1016/j.engstruct.2024.119074",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "322",
+      pages             = "119074",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Du, Y. Sun and Y. Qian, “Nature-Inspired Approach for Enhancing the Fracture Performance of 3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC)”, <i>Engineering Structures</i>, vol. 322, p. 119074, 2025, doi: 10.1016/j.engstruct.2024.119074.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Du, Guoqiang, Yan Sun, and Ye Qian. “Nature-Inspired Approach for Enhancing the Fracture Performance of 3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC)”. <i>Engineering Structures</i> 322 (2025): 119074. https://doi.org/10.1016/j.engstruct.2024.119074.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

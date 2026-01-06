@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Michail Elistratkin, Nataliya Alfimova, Daniil Podgorniy, Andrey Olisov, Vladimir Promakhov, Natalia Kozhukhova
+    - footer
+title: Elistratkin Michail, Alfimova Nataliya, Podgorniy Daniil, Olisov Andrey, Promakhov Vladimir, Kozhukhova Natalia
 description:
 tags:
  - characteristic
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/5/593/pdf?version=1652261120) Influence of Equipment Operation Parameters on the Characteristics of a Track Produced with Construction 3D Printing ([2022-05](date/2022/05))
-<a href="https://doi.org/10.3390/buildings12050593" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12050593</a>
+#Influence of Equipment Operation Parameters on the Characteristics of a Track Produced with Construction 3D Printing ([2022-05](date/2022/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/5/593/pdf?version=1652261120) <a href="https://doi.org/10.3390/buildings12050593" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12050593" target="_blank">10.3390/buildings12050593</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3303-224X" title="ORCID: 0000-0002-3303-224X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elistratkin_yu_michail"><b>Elistratkin</b>&nbsp;Michail</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3013-0829" title="ORCID: 0000-0003-3013-0829" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alfimova_i_nataliya"><b>Alfimova</b>&nbsp;Nataliya</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7435-5005" title="ORCID: 0000-0001-7435-5005" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/podgorniy_s_daniil"><b>Podgorniy</b>&nbsp;Daniil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5629-7697" title="ORCID: 0000-0002-5629-7697" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olisov_vitalievich_andrey"><b>Olisov</b>&nbsp;Andrey</a></span>, <a href="../../../author/promakhov_vladimir"><b>Promakhov</b>&nbsp;Vladimir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9380-0968" title="ORCID: 0000-0002-9380-0968" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kozhukhova_natalia"><b>Kozhukhova</b>&nbsp;Natalia</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 5, No. 593
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/elistratkin_yu_michail"><b>Elistratkin</b> Michail</a> <a href="https://orcid.org/0000-0002-3303-224X" title="ORCID: 0000-0002-3303-224X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alfimova_i_nataliya"><b>Alfimova</b> Nataliya</a> <a href="https://orcid.org/0000-0003-3013-0829" title="ORCID: 0000-0003-3013-0829" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/podgorniy_s_daniil"><b>Podgorniy</b> Daniil</a> <a href="https://orcid.org/0000-0001-7435-5005" title="ORCID: 0000-0001-7435-5005" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olisov_vitalievich_andrey"><b>Olisov</b> Andrey</a> <a href="https://orcid.org/0000-0002-5629-7697" title="ORCID: 0000-0002-5629-7697" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/promakhov_vladimir"><b>Promakhov</b> Vladimir</a>
-,     <a href="../../../author/kozhukhova_natalia"><b>Kozhukhova</b> Natalia</a> <a href="https://orcid.org/0000-0002-9380-0968" title="ORCID: 0000-0002-9380-0968" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 5, No. 593
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#construction`](keyword/construction)
-    [`#equipment`](keyword/equipment)
-    [`#influence`](keyword/influence)
-    [`#operation`](keyword/operation)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/equipment"><button class="btn">#equipment</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Equipment%20Operation%20Parameters%20on%20the%20Characteristics%20of%20a%20Track%20Produced%20with%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130139772&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4225319041" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12050593" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12050593?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive technologies are widely used in various industries. However, nowadays, the large-scale implementation of these technologies in the construction industry is difficult, due to a lot of open practical and scientific questions in terms of both building mixtures and 3D printing equipment. When performing studies focused on the development of cost-effective mixtures based on readily available raw materials for building extrusion 3D printing, it was found that the final result was determined by the rheology of the building mixture, the speed of the screw, and other factors. The article studied the combined effect on the extrusion of the building mixture and the parameters of the printed track of such factors as the thickness of the layer, the linear printhead traversed velocity of the forming device, and the speed of rotation of the screw. We aimed to establish relationships between the above factors, providing an increase in the stability of the printing process and the quality of the resulting structure. To carry out the research, an experimental program and original methods were developed, involving printing in different regimes using a laboratory construction 3D printer. Based on the regression analysis of the data obtained, it was found that the process of 3D printing by extrusion methods cannot be described by a linear function. It was found that a change in the linear speed of the nozzle movement can increase the yield of the mixture, and also lead to track stretching and the degradation of some parameters. The boundary value, in this case, is the layer thickness of 0.77–0.8 of the nozzle width. The response of the system to changes in the linear printhead traversed velocity and the frequency of rotation of the screw occurs in different ways. A change in the linear printhead traversed velocity at the optimal height of the layer has a slight effect on its width. Reducing the speed of rotation of the screw leads to a decrease in the overall dynamics of the mixture flow and an increase in its viscosity due to its thixotropic nature. When the previous speed of rotation of the mixture is restored, the dynamics of the flow are restored with a noticeable delay. In general, this is recommended to ensure the highest dynamics of the printing process. For the laboratory construction 3D printer and the building mixture used in the article, the regime with the following parameters was recommended: a linear printhead traversed velocity of 900 mm/min; an extruder frequency of 25 rpm; and a relative layer thickness of 0.8 (of the nozzle width). This regime provides the optimal ratio of performance/quality and the stability of track parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../krug_cho_zera_vint.2020.3CPPOfHRDCAPC/">3D Concrete Printer Parameter Optimization for High-Rate Digital Construction Avoiding Plastic Collapse</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
@@ -85,8 +61,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b> Lidija</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sapa_sink_sahm_kora.2025.EBPf3PC/">Establishing Benchmark Properties for 3D-Printed Concrete:<br/>A Study of Printability, Strength, and Durability</a></li>
       <li><a href="../../../author/buson_marcio"><b>Buson</b> Márcio</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a>, <a href="../../../author/rezende_antonio_marco"><b>Rezende</b> Marco</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../buso_varu_reze.2024.FIoTDPwEBMatFoEotUoP/">First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto</a></li>
       <li><a href="../../../author/elistratkin_yu_michail"><b>Elistratkin</b> Michail</a>, <a href="../../../author/lesovik_stanislavovich_valeriy"><b>Lesovik</b> Valeriy</a>, <a href="../../../author/sheremet_a_alena"><b>Sheremet</b> Alena</a>, <a href="../../../author/alfimova_i_nataliya"><b>Alfimova</b> Nataliya</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../elis_leso_sher_alfi.2023.PNfTL3CP/">Prototype Nozzle for Three-Layer 3D Concrete Printing</a></li>
@@ -94,4 +70,35 @@ tags:
       <li><a href="../../../author/brousek_josef"><b>Břoušek</b> Josef</a>, <a href="../../../author/petr_tomas"><b>Petr</b> Tomas</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../brou_petr_mend.2023.DAoLSRAfPCMUP/">Displacement-Analysis of Large-Scale Robotic Arm for Printing Cement-Mortar Using Photogrammetry</a></li>
       <li><a href="../../../author/li_zihan"><b>Li</b> Zihan</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/cheng_xiang"><b>Cheng</b> Xiang</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_liu_chen_nie.2022.Io3PCBMP/">Improvement of 3D Printing Cement-Based Material-Process:<br/>Parameter Experiment and Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{elis_alfi_podg_olis.2022.IoEOPotCoaTPwC3P,
+      author            = "Michail Yu Elistratkin and Nataliya I. Alfimova and Daniil S. Podgorniy and Andrey Vitalievich Olisov and Vladimir Promakhov and Natalia Kozhukhova",
+      title             = "Influence of Equipment Operation Parameters on the Characteristics of a Track Produced with Construction 3D Printing",
+      doi               = "10.3390/buildings12050593",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "5",
+      pages             = "593",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Y. Elistratkin, N. I. Alfimova, D. S. Podgorniy, A. V. Olisov, V. Promakhov and N. Kozhukhova, “Influence of Equipment Operation Parameters on the Characteristics of a Track Produced with Construction 3D Printing”, <i>Buildings</i>, vol. 12, no. 5, p. 593, 2022, doi: 10.3390/buildings12050593.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Elistratkin, Michail Yu, Nataliya I. Alfimova, Daniil S. Podgorniy, Andrey Vitalievich Olisov, Vladimir Promakhov, and Natalia Kozhukhova. “Influence of Equipment Operation Parameters on the Characteristics of a Track Produced with Construction 3D Printing”. <i>Buildings</i> 12, no. 5 (2022): 593. https://doi.org/10.3390/buildings12050593.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

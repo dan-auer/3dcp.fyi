@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ivo Kothman, Niels Faber
+    - footer
+title: Kothman Ivo, Faber Niels
 description:
 tags:
  - change
@@ -13,27 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} How 3D Printing Technology Changes the Rules of the Game:<br/>:aca-blank: Insights from the Construction Sector ([2016-09](date/2016/09))
-<a href="https://doi.org/10.1108/jmtm-01-2016-0010" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/jmtm-01-2016-0010</a>
+#How 3D Printing Technology Changes the Rules of the Game&nbsp;([2016-09](date/2016/09))
+<div class="h1-like">Insights from the Construction Sector</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/jmtm-01-2016-0010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jmtm-01-2016-0010" target="_blank">10.1108/jmtm-01-2016-0010</a>
 
--------------------------
+<a href="../../../author/kothman_ivo"><b>Kothman</b>&nbsp;Ivo</a></span>, <a href="../../../author/faber_niels"><b>Faber</b>&nbsp;Niels</a></span><br>
+Journal Article - Journal of Manufacturing Technology Management, Vol. 27, Iss. 7, pp. 932-943
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kothman_ivo"><b>Kothman</b> Ivo</a>
-,     <a href="../../../author/faber_niels"><b>Faber</b> Niels</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Manufacturing Technology Management, Vol. 27, Iss. 7, pp. 932-943
-
-:aca-blank:{ .lg .middle}
-    [`#change`](keyword/change)
-    [`#construction`](keyword/construction)
-    [`#insights`](keyword/insights)
-    [`#print`](keyword/print)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=How%203D%20Printing%20Technology%20Changes%20the%20Rules%20of%20the%20Game" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84995920267&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,23 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2548181984" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/jmtm-01-2016-0010" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/jmtm-01-2016-0010?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Purpose – The purpose of this paper is to present several insights on how disruptive technologies potentially impact the eco-performance of entire supply chains, by providing performance improvements compared to existing technologies, enabling more efficient manufacturing methods and affecting the entire structure of the supply chain. Design/methodology/approach – To illustrate the authors’ position, a case from the construction sector is presented, for which the feasibility and impact of 3D printing technology has been studied. The empirical study focuses on the effect of the use of 3D printing technology on the building supply chain, aimed primarily at manufacturing companies in construction, but including suppliers, architects and designers as well. Findings – 3D printing of concrete potentially provides several improvements in manufacturing performance, such as a shortening of lead times, integration of functions and allowing for reduced material usage, therefore possibly turning production steps within the construction supply chain obsolete while also reducing logistical and production efforts. Research limitations/implications – Whether disruptive technologies other than 3D printing have a similar potential is unknown. Though the case study shows the potential of disruptive technologies in impacting supply chains, the authors realize that more empirical work is needed to understand the underlying mechanisms. Originality/value – The originality of this paper lies in relating disruptive technological advancements to manufacturing technologies and transitions of supply chains’ eco-performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "34 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../oulk_akhr_jai_riha.2025.CaABM3P/">Clay and Alginate-Based Mixtures 3D Printing:<br/>A Numerical Procedure for Shape Stability and Buildability Assessment</a></li>
       <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
@@ -100,4 +84,35 @@ tags:
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{koth_fabe.2016.H3PTCtRotG,
+      author            = "Ivo Kothman and Niels Faber",
+      title             = "How 3D Printing Technology Changes the Rules of the Game: Insights from the Construction Sector",
+      doi               = "10.1108/jmtm-01-2016-0010",
+      year              = "2016",
+      journal           = "Journal of Manufacturing Technology Management",
+      volume            = "27",
+      number            = "7",
+      pages             = "932--943",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Kothman  and N. Faber, “How 3D Printing Technology Changes the Rules of the Game: Insights from the Construction Sector”, <i>Journal of Manufacturing Technology Management</i>, vol. 27, no. 7, pp. 932–943, 2016, doi: 10.1108/jmtm-01-2016-0010.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kothman, Ivo, and Niels Faber. “How 3D Printing Technology Changes the Rules of the Game: Insights from the Construction Sector”. <i>Journal of Manufacturing Technology Management</i> 27, no. 7 (2016): 932–43. https://doi.org/10.1108/jmtm-01-2016-0010.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sara Alonso-Cañon, Elena Blanco-Fernandez, Daniel Castro-Fresno, Adrian Yoris-Nobile, Laura Castañon-Jano
+    - footer
+title: Alonso-Cañon Sara, Blanco-Fernandez Elena, Castro-Fresno Daniel, Yoris-Nobile Adrian, Castañon-Jano Laura
 description:
 tags:
  - analysis
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1007/s00170-024-14126-1) Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1007/s00170-024-14126-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00170-024-14126-1</a>
+#Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s00170-024-14126-1) <a href="https://doi.org/10.1007/s00170-024-14126-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-024-14126-1" target="_blank">10.1007/s00170-024-14126-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b>&nbsp;Adrian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5968-2726" title="ORCID: 0000-0002-5968-2726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castanon-jano_laura"><b>Castañon-Jano</b>&nbsp;Laura</a></span><br>
+Journal Article - The International Journal of Advanced Manufacturing Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a> <a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> <a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a> <a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> <a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castanon-jano_laura"><b>Castañon-Jano</b> Laura</a> <a href="https://orcid.org/0000-0002-5968-2726" title="ORCID: 0000-0002-5968-2726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Advanced Manufacturing Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#comparison`](keyword/comparison)
-    [`#criteria`](keyword/criteria)
-    [`#fiber`](keyword/fiber)
-    [`#mortar`](keyword/mortar)
-    [`#multi`](keyword/multi)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Reinforcement-Fibers%20in%203D%20Printing%20Mortars%20Using%20Multi-Criteria%20Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200366668&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401317209" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00170-024-14126-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00170-024-14126-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) has developed rapidly in recent years, with a relatively high amount of mortars emerging apt for 3D printing. Some of these mortars include fibers to improve their strength. Despite mechanical properties having been quite well studied, there still is missing information on cost, printability, and environmental impacts. The objective of this research is to select the best mortars with fibers considering four criteria: printability, mechanical strength, and economic and environmental impact applying a multi-criteria decision-making analysis (MCDMA). Seven types of fibers with different dosages were assessed in the reinforced mortars: zylon, aramid, carbon, glass, cellulose, textile, and polypropylene. AHP method and equal weights were used as ponderation techniques of the criteria while WASPAS and TOPSIS methods were used to calculate the rankings of the MCDMA. Printability was measured through rheological tests using a rotational rheometer, mechanical strength through flexural tests at 28 days based on EN 196–1, and cost just considering the materials and environmental impact through a life cycle assessment (LCA). The results showed that 13-mm-long glass fibers with a content of 0.1% were the best alternative, closely followed by the mortar with 6 mm cellulose fibers with a content of 0.05%. For the best option (G13;0.1), the increments in the printability index, flexural strength, cost, and LCA were − 14.37%, 16.70%, 5.88%, and 2.86%, respectively. It can also be concluded that high elastic modulus fibers (zylon and aramid), although able to increase significantly the flexural strength (up to 30% in the case of zylon), prevent them from being an optimal solution due to their high cost.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
@@ -97,11 +74,39 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG/">Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sedighi_saeed"><b>Sedighi</b> Saeed</a>, <a href="../../../author/rahai_alireza"><b>Rahai</b> Alireza</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC/">Multi-Criteria Optimization for Sustainable Concrete Mix Considering the Synergistic Effect of Recycled Steel Fiber and LC3 Concrete</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/cuesta-astorga_eva"><b>Cuesta-Astorga</b> Eva</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../alon_blan_cues_inda.2025.SotB3PHPMUMCA/">Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alon_blan_cast_yori.2024.CoRFi3PMUMCA,
+      author            = "Sara Alonso-Cañon and Elena Blanco-Fernandez and Daniel Castro-Fresno and Adrian Isidro Yoris-Nobile and Laura Castañon-Jano",
+      title             = "Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis",
+      doi               = "10.1007/s00170-024-14126-1",
+      year              = "2024",
+      journal           = "The International Journal of Advanced Manufacturing Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Alonso-Cañon, E. Blanco-Fernandez, D. Castro-Fresno, A. I. Yoris-Nobile and L. Castañon-Jano, “Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis”, <i>The International Journal of Advanced Manufacturing Technology</i>, 2024, doi: 10.1007/s00170-024-14126-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alonso-Cañon, Sara, Elena Blanco-Fernandez, Daniel Castro-Fresno, Adrian Isidro Yoris-Nobile, and Laura Castañon-Jano. “Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis”. <i>The International Journal of Advanced Manufacturing Technology</i>, 2024. https://doi.org/10.1007/s00170-024-14126-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

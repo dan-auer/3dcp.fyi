@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matteo Sambucci, Marco Valente
+    - footer
+title: Sambucci Matteo, Valente Marco
 description:
 tags:
  - acoustic
@@ -20,34 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.civilejournal.org/index.php/cej/article/download/2754/pdf) Influence of Waste-Tire-Rubber-Particles-Size on the Microstructural, Mechanical, and Acoustic Insulation Properties of 3D Printable Cement Mortars ([2021-06](date/2021/06))
-<a href="https://doi.org/10.28991/cej-2021-03091701" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.28991/cej-2021-03091701</a>
+#Influence of Waste-Tire-Rubber-Particles-Size on the Microstructural, Mechanical, and Acoustic Insulation Properties of 3D Printable Cement Mortars ([2021-06](date/2021/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.civilejournal.org/index.php/cej/article/download/2754/pdf) <a href="https://doi.org/10.28991/cej-2021-03091701" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.28991/cej-2021-03091701" target="_blank">10.28991/cej-2021-03091701</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sambucci_matteo"><b>Sambucci</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valente_marco"><b>Valente</b>&nbsp;Marco</a></span><br>
+Journal Article - Civil Engineering Journal, Vol. 7, Iss. 6, pp. 937-952
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Civil Engineering Journal, Vol. 7, Iss. 6, pp. 937-952
-
-:aca-blank:{ .lg .middle}
-    [`#acoustic`](keyword/acoustic)
-    [`#cement`](keyword/cement)
-    [`#influence`](keyword/influence)
-    [`#insulation`](keyword/insulation)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#particle`](keyword/particle)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rubber`](keyword/rubber)
-    [`#size`](keyword/size)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Waste-Tire-Rubber-Particles-Size%20on%20the%20Microstructural%2C%20Mechanical%2C%20and%20Acoustic%20Insulation%20Properties%20of%203D%20Printable%20Cement%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85113724601&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3167593126" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.28991/cej-2021-03091701" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.28991/cej-2021-03091701?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technologies of construction materials are gaining ground in the building industry. As well documented in the literature, these advanced manufacturing methodologies aim to reduce work-related injuries and materials waste, enhancing architectural flexibility which would enable more sophisticated designs for engineering and aesthetic purposes. In this framework, the development of functional and eco-sustainable printable materials represents an extremely attractive challenge for research, promoting digital fabrication to reach its maximum cost-effective and technological potentials. The use of recycled tire rubber particles in 3D printable Portland-based compounds is an exclusive contribution in this field. This line of research aims to integrate the well-known engineering performances of rubber-cement materials with the advanced peculiarities of additive manufacturing methodologies. As an innovative contribution, the authors propose here a detailed study on the possible relationship between rubber particle size and technological properties of the 3D printable mix. Specifically, two groups of continuous size grading polymer aggregates (0-1 mm rubber powder and 1-3 mm rubber granules as fine and coarse fractions, respectively) were analyzed in terms of impact on rheology, print quality, microstructure, mechanical properties, and acoustic insulation performance. Concerning the print quality, rubber aggregates altered the fluidity of the fresh mix, improving the adhesion between the printed layers and therefore enhancing the mechanical isotropy in the post-hardening sample. A remarkable influence of the rubber gradation on the compounds’ behaviour was found in hardened properties. By comparing the rubberized compounds, the fine polymer fraction shows greater interfacial cohesion with the cement paste. However, more significant mechanical strength loss was found due to a greater reduction in density and increased porosity degree. On the other hand, mortars doped with larger rubber particles tend to have a higher unit weight, finest pore distribution, minor mechanical strength drop, and higher ductility but worse interface binding with the matrix. Regarding the acoustic insulation properties, a proper balance between rubber powder and granules in the mixes allows to obtain comparable/superior performance compared to plain mortar but the effect of the aggregate size is strongly dependent on the sound frequency range investigated. Future findings revolve around applicability studies of these formulations in civil and architectural fields, benefiting from the design flexibility of 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ma_li_wang_zhan.2020.RTQoFaHMPf3PMbIwPT/">Real-Time Quantification of Fresh and Hardened Mechanical Property for 3D Printing Material by Intellectualization with Piezoelectric Transducers</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
@@ -86,8 +62,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/manalo_c_allan"><b>Manalo</b> Allan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P/">Rheological, Mechanical and Fire Resistance Performance of Waste Glass Activated Geopolymers for Concrete 3D Printing</a></li>
@@ -112,4 +88,35 @@ tags:
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../node_ozba_ghol.2022.EoSCMoPo3PCaAAC/">Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{samb_vale.2021.IoWTRPSotMMaAIPo3PCM,
+      author            = "Matteo Sambucci and Marco Valente",
+      title             = "Influence of Waste-Tire-Rubber-Particles-Size on the Microstructural, Mechanical, and Acoustic Insulation Properties of 3D Printable Cement Mortars",
+      doi               = "10.28991/cej-2021-03091701",
+      year              = "2021",
+      journal           = "Civil Engineering Journal",
+      volume            = "7",
+      number            = "6",
+      pages             = "937--952",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sambucci  and M. Valente, “Influence of Waste-Tire-Rubber-Particles-Size on the Microstructural, Mechanical, and Acoustic Insulation Properties of 3D Printable Cement Mortars”, <i>Civil Engineering Journal</i>, vol. 7, no. 6, pp. 937–952, 2021, doi: 10.28991/cej-2021-03091701.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sambucci, Matteo, and Marco Valente. “Influence of Waste-Tire-Rubber-Particles-Size on the Microstructural, Mechanical, and Acoustic Insulation Properties of 3D Printable Cement Mortars”. <i>Civil Engineering Journal</i> 7, no. 6 (2021): 937–52. https://doi.org/10.28991/cej-2021-03091701.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

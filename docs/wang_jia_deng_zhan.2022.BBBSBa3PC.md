@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhibin Wang, Lutao Jia, Zhicong Deng, Chao Zhang, Zedi Zhang, Chun Chen, Jinlong Pan, Yamei Zhang
+    - footer
+title: Wang Zhibin, Jia Lutao, Deng Zhicong, Zhang Chao, Zhang Zedi, Chen Chun, Pan Jinlong, Zhang Yamei
 description:
 tags:
  - bar
@@ -20,40 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bond Behavior Between Steel-Bars and 3D Printed Concrete:<br/>:aca-blank: Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.128708" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128708</a>
+#Bond Behavior Between Steel-Bars and 3D Printed Concrete&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128708" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128708" target="_blank">10.1016/j.conbuildmat.2022.128708</a>
 
--------------------------
+<a href="../../../author/wang_zhibin"><b>Wang</b>&nbsp;Zhibin</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/deng_zhicong"><b>Deng</b>&nbsp;Zhicong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <a href="../../../author/chen_chun"><b>Chen</b>&nbsp;Chun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 349
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>
-,     <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> <a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 349, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#coat`](keyword/coat)
-    [`#concrete`](keyword/concrete)
-    [`#diameter`](keyword/diameter)
-    [`#effect`](keyword/effect)
-    [`#paste`](keyword/paste)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/diameter"><button class="btn">#diameter</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bond%20Behavior%20Between%20Steel-Bars%20and%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135900379&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4291237955" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.128708" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.128708?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to the unique layer by layer deposition process of extrusion-based 3D printed concrete (3DPC), the bonding of steel bars with 3DPC differs from that with traditional cast concrete. To understand the steel-printed concrete bond behavior, this paper mainly explored the effect of preparation technologies, concrete rheological properties, steel bar diameter and paste coating on steel bars on the bond behavior between ribbed steel bars and concrete. According to pull-out test and X-ray computed tomography test, the results showed that bond strengths between 3DPC and steel bars were obviously lower than those between steel bars and cast concrete. The rheological properties of fresh concrete show significant impact on the bond behavior of reinforced 3D printed samples. Lower yield stress and plastic viscosity can narrow the bond strength gap between printed samples and cast samples. The utilization of surface coated steel bar with fresh cement paste can effectively enhance the steel-3DPC bond strength. The variations in steel–concrete bond strengths can be explained via pore structure at steel–concrete interface. The results suggest that it is of great importance to control the quality of reinforced 3D printed concrete by optimizing the rheological properties of fresh concrete for 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -116,8 +87,9 @@ tags:
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM/">Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../syed_abid_khan.2025.AIMLAfPRBPi3CP/">An Interpretable Machine Learning Approach for Predicting Reinforcement Bond Performance in 3D Concrete Printing</a></li>
       <li><a href="../../../author/sagyntay_mukhagali"><b>Sagyntay</b> Mukhagali</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/mustafa_azamat"><b>Mustafa</b> Azamat</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sagy_stor_must_plas.2025.APo3PSwIRMBoSRB/">Automated Production of 3D Printed Сoncrete Structures with Integrated Reinforcement Mesh Based on Standard Reinforcement Bars</a></li>
@@ -145,4 +117,33 @@ tags:
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lyu_dai_chen.2024.MSaOPoTCMbME3PwPMF/">Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_jia_deng_zhan.2022.BBBSBa3PC,
+      author            = "Zhibin Wang and Lutao Jia and Zhicong Deng and Chao Zhang and Zedi Zhang and Chun Chen and Jinlong Pan and Yamei Zhang",
+      title             = "Bond Behavior Between Steel-Bars and 3D Printed Concrete: Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating",
+      doi               = "10.1016/j.conbuildmat.2022.128708",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "349",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Wang, “Bond Behavior Between Steel-Bars and 3D Printed Concrete: Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating”, <i>Construction and Building Materials</i>, vol. 349, 2022, doi: 10.1016/j.conbuildmat.2022.128708.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Zhibin, Lutao Jia, Zhicong Deng, Chao Zhang, Zedi Zhang, Chun Chen, Jinlong Pan, and Yamei Zhang. “Bond Behavior Between Steel-Bars and 3D Printed Concrete: Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating”. <i>Construction and Building Materials</i> 349 (2022). https://doi.org/10.1016/j.conbuildmat.2022.128708.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

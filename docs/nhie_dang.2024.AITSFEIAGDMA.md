@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nhat-Luong Nhieu, Tri Dang
+    - footer
+title: Nhieu Nhat-Luong, Dang Tri
 description:
 tags:
  - application
@@ -19,33 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/math12132086) An Integrated T-Spherical Fuzzy Einstein Interaction Aggregator Group Decision-Making Approach:<br/>:aca-blank: A Case Study of Concrete 3D Printing Robot Application in Vietnam ([2024-07](date/2024/07))
-<a href="https://doi.org/10.3390/math12132086" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/math12132086</a>
+#An Integrated T-Spherical Fuzzy Einstein Interaction Aggregator Group Decision-Making Approach&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">A Case Study of Concrete 3D Printing Robot Application in Vietnam</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/math12132086) <a href="https://doi.org/10.3390/math12132086" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/math12132086" target="_blank">10.3390/math12132086</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9732-601X" title="ORCID: 0000-0002-9732-601X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nhieu_nhat-luong"><b>Nhieu</b>&nbsp;Nhat-Luong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5052-3027" title="ORCID: 0000-0001-5052-3027" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dang_dung_tri"><b>Dang</b>&nbsp;Tri</a></span><br>
+Journal Article - Mathematics, Vol. 12, Iss. 13, No. 2086
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nhieu_nhat-luong"><b>Nhieu</b> Nhat-Luong</a> <a href="https://orcid.org/0000-0002-9732-601X" title="ORCID: 0000-0002-9732-601X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dang_dung_tri"><b>Dang</b> Tri</a> <a href="https://orcid.org/0000-0001-5052-3027" title="ORCID: 0000-0001-5052-3027" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Mathematics, Vol. 12, Iss. 13, No. 2086
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#approach`](keyword/approach)
-    [`#case`](keyword/case)
-    [`#concrete`](keyword/concrete)
-    [`#decision`](keyword/decision)
-    [`#fuzzy`](keyword/fuzzy)
-    [`#integration`](keyword/integration)
-    [`#interaction`](keyword/interaction)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#sphere`](keyword/sphere)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/fuzzy"><button class="btn">#fuzzy</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/sphere"><button class="btn">#sphere</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Integrated%20T-Spherical%20Fuzzy%20Einstein%20Interaction%20Aggregator%20Group%20Decision-Making%20Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198476986&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,19 +42,46 @@ tags:
 <a href="https://inciteful.xyz/p/W4400283859" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/math12132086" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/math12132086?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study introduces the integrated T-spherical fuzzy Einstein interaction aggregator group decision-making approach, a novel framework designed to enhance multi-criteria decisionmaking (MCDM). Implementing the case study of concrete 3D printing technology in Vietnam, this approach integrates T-spherical fuzzy sets with Einstein aggregation operators to handle the complexities of uncertain and subjective expert judgments effectively. The methodology provides a robust mechanism for evaluating and prioritizing the barriers and strategies associated with the implementation of concrete 3D printing. Findings from this study underline the significance of technological advancements and strategic financial incentives, with R&D strategy emerging as the top priority. This research contributes to both theoretical advancements in decision-making frameworks and offers practical insights for industries looking to integrate emerging technologies. Moreover, it demonstrates the application of advanced fuzzy set theories in real-world settings, providing a valuable tool for decision-makers facing similar technological adoption challenges.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nhie_dang.2024.AITSFEIAGDMA,
+      author            = "Nhat-Luong Nhieu and Tri Dung Dang",
+      title             = "An Integrated T-Spherical Fuzzy Einstein Interaction Aggregator Group Decision-Making Approach: A Case Study of Concrete 3D Printing Robot Application in Vietnam",
+      doi               = "10.3390/math12132086",
+      year              = "2024",
+      journal           = "Mathematics",
+      volume            = "12",
+      number            = "13",
+      pages             = "2086",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N.-L. Nhieu  and T. D. Dang, “An Integrated T-Spherical Fuzzy Einstein Interaction Aggregator Group Decision-Making Approach: A Case Study of Concrete 3D Printing Robot Application in Vietnam”, <i>Mathematics</i>, vol. 12, no. 13, p. 2086, 2024, doi: 10.3390/math12132086.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nhieu, Nhat-Luong, and Tri Dung Dang. “An Integrated T-Spherical Fuzzy Einstein Interaction Aggregator Group Decision-Making Approach: A Case Study of Concrete 3D Printing Robot Application in Vietnam”. <i>Mathematics</i> 12, no. 13 (2024): 2086. https://doi.org/10.3390/math12132086.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

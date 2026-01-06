@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mugahed Amran, Hakim Abdelgader, Ali Onaizi, Roman Fediuk, Togay Ozbakkaloglu, Raizal Rashid, Gunasekaran Murali
+    - footer
+title: Amran Mugahed, Abdelgader Hakim, Onaizi Ali, Fediuk Roman, Ozbakkaloglu Togay, Rashid Raizal, Murali Gunasekaran
 description:
 tags:
  - activation
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printable Alkali-Activated Concretes for Building Applications:<br/>:aca-blank: A Critical Review ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.126126" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.126126</a>
+#3D Printable Alkali-Activated Concretes for Building Applications&nbsp;([2021-12](date/2021/12))
+<div class="h1-like">A Critical Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.126126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.126126" target="_blank">10.1016/j.conbuildmat.2021.126126</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4434-6295" title="ORCID: 0000-0002-4434-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amran_mugahed"><b>Amran</b>&nbsp;Mugahed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8563-056X" title="ORCID: 0000-0001-8563-056X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b>&nbsp;Hakim</a></span>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fediuk_roman"><b>Fediuk</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b>&nbsp;Togay</a></span>, <a href="../../../author/rashid_sm_raizal"><b>Rashid</b>&nbsp;Raizal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1151-0853" title="ORCID: 0000-0002-1151-0853" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/murali_gunasekaran"><b>Murali</b>&nbsp;Gunasekaran</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 319
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a> <a href="https://orcid.org/0000-0002-4434-6295" title="ORCID: 0000-0002-4434-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a> <a href="https://orcid.org/0000-0001-8563-056X" title="ORCID: 0000-0001-8563-056X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>
-,     <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> <a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> <a href="https://orcid.org/0000-0003-3015-736X" title="ORCID: 0000-0003-3015-736X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rashid_sm_raizal"><b>Rashid</b> Raizal</a>
-,     <a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a> <a href="https://orcid.org/0000-0002-1151-0853" title="ORCID: 0000-0002-1151-0853" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 319, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#application`](keyword/application)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#printability`](keyword/printability)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Alkali-Activated%20Concretes%20for%20Building%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121634924&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200196531" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.126126" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.126126?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction sector has embraced digitalization and industrialization to boost production, reduce material consumption, and improve workmanship. The 3D-printed concrete technology (3DPCT), more broadly recognized as the design of a 3D object via a computer-aided design (CAD) model or a digital 3D model, has accelerated considerable progress in these areas in other industries. Although 3DPCT has advanced remarkably in recent years, producing an appropriate 3D printing material that improves performance while reducing material consumption, which is really important for CO2 reduction, is urgently needed. The present 3DPCT faces many obstacles, one of which is the limited range of printable concretes. To tackle this limitation, extensive studies on developing creative approaches for formulating alkali-activated materials (AAMs) for 3DPCT for modern building applications have been conducted. AAMs are maintainable substitutive binders to ordinary Portland cement. Therefore, the need to undertake a comprehensive literature review on the current status of AAM performance on 3D-printable concretes for building applications is substantial. This article comprehensively reviews the quality requirements, advantages, disadvantages, common techniques, delivery, and placement of 3DCP. This literature also delivers indepth reviews on the behaviors and the properties of AAM-based concrete composites used in 3D-printed construction. Moreover, research trends are moving toward a wide-ranging understanding concerning the economic benefits and the environmental footprints of 3DCP for building applications with AAMs as suitable concrete materials for the emerging robust eco-friendly concrete composite for digital construction constructions nowadays. Given the merits of the study, several hotspot research topics for future investigations are also provided for facilitating the wide use of 3DPCT in real applications to address rapidly the gap between demand and supply for smart and cost-effective homes for upcoming generations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "151 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
@@ -222,8 +198,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "43 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/atalay_berrin"><b>Atalay</b> Berrin</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_atal.2025.PaBaAfSaHP3PC/">Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
@@ -268,4 +244,33 @@ tags:
       <li><a href="../../../author/nemova_darya"><b>Nemova</b> Darya</a>, <a href="../../../author/kotov_vladimirovich_evgeny"><b>Kotov</b> Evgeny</a>, <a href="../../../author/andreeva_darya"><b>Andreeva</b> Darya</a>, <a href="../../../author/khorobrov_svyatoslav"><b>Khorobrov</b> Svyatoslav</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../nemo_koto_andr_khor.2022.ESotTPo3PES/">Experimental Study on the Thermal Performance of 3D Printed Enclosing Structures</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{amra_abde_onai_fedi.2022.3PAACfBA,
+      author            = "Mugahed Amran and Hakim S. Abdelgader and Ali M. Onaizi and Roman Fediuk and Togay Ozbakkaloglu and Raizal S.M. Rashid and Gunasekaran Murali",
+      title             = "3D Printable Alkali-Activated Concretes for Building Applications: A Critical Review",
+      doi               = "10.1016/j.conbuildmat.2021.126126",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "319",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Amran, “3D Printable Alkali-Activated Concretes for Building Applications: A Critical Review”, <i>Construction and Building Materials</i>, vol. 319, 2022, doi: 10.1016/j.conbuildmat.2021.126126.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Amran, Mugahed, Hakim S. Abdelgader, Ali M. Onaizi, Roman Fediuk, Togay Ozbakkaloglu, Raizal S.M. Rashid, and Gunasekaran Murali. “3D Printable Alkali-Activated Concretes for Building Applications: A Critical Review”. <i>Construction and Building Materials</i> 319 (2022). https://doi.org/10.1016/j.conbuildmat.2021.126126.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

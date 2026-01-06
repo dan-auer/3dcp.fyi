@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Neesha Silva, Upendra Rajapaksha, Chameera Udawattha
+    - footer
+title: Silva Neesha, Rajapaksha Upendra, Udawattha Chameera
 description:
 tags:
  - construction
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Tailoring 3D Printing for Personalized Housing:<br/>:aca-blank: Selecting the Right Technology for Custom Home Construction ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1080/13467581.2025.2584640" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/13467581.2025.2584640</a>
+#Tailoring 3D Printing for Personalized Housing&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Selecting the Right Technology for Custom Home Construction</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1080/13467581.2025.2584640" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/13467581.2025.2584640" target="_blank">10.1080/13467581.2025.2584640</a>
 
--------------------------
+<a href="../../../author/silva_neesha"><b>Silva</b>&nbsp;Neesha</a></span>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b>&nbsp;Upendra</a></span>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b>&nbsp;Chameera</a></span><br>
+Journal Article - Journal of Asian Architecture and Building Engineering, pp. 1-21
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>
-,     <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>
-,     <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Asian Architecture and Building Engineering, pp. 1-21
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#customization`](keyword/customization)
-    [`#house`](keyword/house)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-    [`#tailoring`](keyword/tailoring)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tailoring%203D%20Printing%20for%20Personalized%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022272013&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7104932451" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/13467581.2025.2584640" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/13467581.2025.2584640?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction of 3D printing (C3DP) is emerging as a transformative method globally, addressing labour shortages in developed nations while offering cost-effective and sustainable solutions for developing countries. This study investigates the most suitable C3DP technologies for application in developing contexts, focusing on their compatibility with unique geographic, cultural, and socio-economic conditions. The research analyses eight leading C3DP companies, ranked by 2024 performance, through representative house-scale case studies. Using secondary data, construction processes, machine capacities, project durations, and services were examined. Concurrently, a pilot study in Sri Lanka identified typical housing characteristics, resulting in a context-specific house typology. A five-tier evaluation framework, geographic adaptability, material compatibility, infrastructure readiness, regulatory framework, and sustainability, was used to assess each technology’s suitability. Results reveal significant variability among C3DP technologies, underscoring that no single solution fits all contexts. For countries like Sri Lanka, technology adoption must align with local housing demands to ensure user acceptance. The study highlights the relative suitability of different technologies within typical Sri Lankan housing constraints and offers strategic insights for context-responsive selection. This study serves as a foundational step in evaluating the readiness for C3DP adoption in developing countries, underscoring the importance of context-specific technological assessment to drive industry advancement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bohl_freu_mai_lowk.2023.S3P/">Shotcrete 3D Printing:<br/>Effect of Material‐Process-Interaction on the Global and Local Material Density</a></li>
@@ -83,7 +64,36 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{silv_raja_udaw.2025.T3PfPH,
+      author            = "Neesha Silva and Upendra Rajapaksha and Chameera Udawattha",
+      title             = "Tailoring 3D Printing for Personalized Housing: Selecting the Right Technology for Custom Home Construction",
+      doi               = "10.1080/13467581.2025.2584640",
+      year              = "2025",
+      journal           = "Journal of Asian Architecture and Building Engineering",
+      pages             = "1--21",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Silva, U. Rajapaksha and C. Udawattha, “Tailoring 3D Printing for Personalized Housing: Selecting the Right Technology for Custom Home Construction”, <i>Journal of Asian Architecture and Building Engineering</i>, pp. 1–21, 2025, doi: 10.1080/13467581.2025.2584640.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silva, Neesha, Upendra Rajapaksha, and Chameera Udawattha. “Tailoring 3D Printing for Personalized Housing: Selecting the Right Technology for Custom Home Construction”. <i>Journal of Asian Architecture and Building Engineering</i>, 2025, 1–21. https://doi.org/10.1080/13467581.2025.2584640.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

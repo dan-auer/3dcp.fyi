@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Enlai Dong, Zijian Jia, Suduan Rao, Lutao Jia, Kailun Xia, Yifan Gong, Hanquan Yuan, Yu Chen, Wei Wang, Yamei Zhang, Nemkumar Banthia
+    - footer
+title: Dong Enlai, Jia Zijian, Rao Suduan, Jia Lutao, Xia Kailun, Gong Yifan, Yuan Hanquan, Chen Yu, Wang Wei, Zhang Yamei, Banthia Nemkumar
 description:
 tags:
  - alignment
@@ -19,42 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.cemconres.2025.108011" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2025.108011</a>
+#Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2025.108011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.108011" target="_blank">10.1016/j.cemconres.2025.108011</a>
 
--------------------------
+<a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/rao_suduan"><b>Rao</b>&nbsp;Suduan</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/xia_kailun"><b>Xia</b>&nbsp;Kailun</a></span>, <a href="../../../author/gong_yifan"><b>Gong</b>&nbsp;Yifan</a></span>, <a href="../../../author/yuan_hanquan"><b>Yuan</b>&nbsp;Hanquan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 198, No. 108011
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>
-,     <a href="../../../author/gong_yifan"><b>Gong</b> Yifan</a>
-,     <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 198, No. 108011
-
-:aca-blank:{ .lg .middle}
-    [`#alignment`](keyword/alignment)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#fiber`](keyword/fiber)
-    [`#fluid`](keyword/fluid)
-    [`#height`](keyword/height)
-    [`#mechanism`](keyword/mechanism)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#theory`](keyword/theory)
-
-
--------------------------
+<a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fiber%20Alignment%20Mechanism%20in%203D-Printed%20Ultra-High%20Performance%20Concrete%20Based%20on%20Fluid%20Dynamics%20Theory" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013112057&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413148508" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2025.108011" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2025.108011?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to clarify fiber orientation mechanism in 3D printed ultra-high performance concrete (3DP-UHPC) within a shear flow field. Firstly, the internal flow field characteristics of 3DP-UHPC were examined under various rheological parameters and extrusion speeds. Furthermore, velocity distribution patterns of 3DP-UHPC in nozzle were analyzed by fluid dynamic theory. The fiber orientation in 3DP-UHPC was investigated by X-ray computed tomography technology (X-CT) to validate the prediction model. Results indicate that the flow field in 3DP-UHPC comprises two distinct zones: a low-velocity gradient plug flow region, which minimally impacts fiber rotation, and a high-velocity gradient shear flow region which significantly affects fiber alignment. By reducing the viscosity of UHPC and increasing the extrusion speed, the velocity gradients in both zones are enhanced, optimizing fiber alignment in the printing direction. Based on the Jeffery equation, the velocity gradient coefficient is introduced to establish the relationship between velocity gradient and fiber rotation angle in different nozzle areas, thereby refining the previously proposed fiber orientation prediction model, and effectively controlling the relative error of fiber orientation coefficient to within 6 %.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
@@ -104,9 +72,40 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_sanj.2024.PL3CPUQNM/">Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT,
+      author            = "Enlai Dong and Zijian Jia and Suduan Rao and Lutao Jia and Kailun Xia and Yifan Gong and Hanquan Yuan and Yu Chen and Wei Wang and Yamei Zhang and Nemkumar Banthia",
+      title             = "Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory",
+      doi               = "10.1016/j.cemconres.2025.108011",
+      year              = "2025",
+      journal           = "Cement and Concrete Research",
+      volume            = "198",
+      pages             = "108011",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Dong, “Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory”, <i>Cement and Concrete Research</i>, vol. 198, p. 108011, 2025, doi: 10.1016/j.cemconres.2025.108011.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dong, Enlai, Zijian Jia, Suduan Rao, Lutao Jia, Kailun Xia, Yifan Gong, Hanquan Yuan, et al.. “Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory”. <i>Cement and Concrete Research</i> 198 (2025): 108011. https://doi.org/10.1016/j.cemconres.2025.108011.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

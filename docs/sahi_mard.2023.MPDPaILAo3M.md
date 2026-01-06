@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hatice Şahin, Ali Mardani
+    - footer
+title: Şahin Hatice, Mardani Ali
 description:
 tags:
  - adhesion
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties, Durability Performance and Inter-Layer Adhesion of 3DPC Mixtures:<br/>:aca-blank: A State‐of‐the‐art Review ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1002/suco.202200473" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202200473</a>
+#Mechanical Properties, Durability Performance and Inter-Layer Adhesion of 3DPC Mixtures&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">A State‐of‐the‐art Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.202200473" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202200473" target="_blank">10.1002/suco.202200473</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a> <a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#durability`](keyword/durability)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixture`](keyword/mixture)
-    [`#performance`](keyword/performance)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%2C%20Durability%20Performance%20and%20Inter-Layer%20Adhesion%20of%203DPC%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148286866&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320726556" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.202200473" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.202200473?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, the strength and durability performance of 3D printing concrete mixtures (3DPC) were examined in terms of the materials used in their production and printing process parameters (interlayer interval time, printing speed, and nozzle shape). Due to the anisotropic nature of 3DPC, it was understood that the compressive strength depends on the loading direction. It was emphasized that it is necessary to control the shrinkage behavior of 3DPC mixtures due to the lack of formwork and the high dosage of binders. It was reported that the interlayer adhesion of 3DPC is highly dependent on the interlayer interval time and printing speed parameters. It was understood that nozzle shape and standoff distance affect the mechanical properties and surface roughness of 3DPC specimens, and this effect is more pronounced in mixtures with high static yield stress values.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "107 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
@@ -148,7 +127,6 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a></li>
-      <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
       <li><a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b> Charbel</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../sakk_assa_hamz_nakh.2019.TaIBSoPMPM/">Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
@@ -178,8 +156,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
@@ -195,4 +173,32 @@ tags:
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sahi_mard.2023.HDRBAtILBSo3M/">How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures?</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/temel_muge"><b>Temel</b> Müge</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../sahi_teme_mard.2023.DoOVUDiCS/">Determination of Optimum VMA Utilization Dosage in Cementitious Systems:<br/>In Terms of Rheological and Flowability Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sahi_mard.2023.MPDPaILAo3M,
+      author            = "Hatice Gizem Şahin and Ali Mardani",
+      title             = "Mechanical Properties, Durability Performance and Inter-Layer Adhesion of 3DPC Mixtures: A State‐of‐the‐art Review",
+      doi               = "10.1002/suco.202200473",
+      year              = "2023",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. G. Şahin  and A. Mardani, “Mechanical Properties, Durability Performance and Inter-Layer Adhesion of 3DPC Mixtures: A State‐of‐the‐art Review”, <i>Structural Concrete</i>, 2023, doi: 10.1002/suco.202200473.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Şahin, Hatice Gizem, and Ali Mardani. “Mechanical Properties, Durability Performance and Inter-Layer Adhesion of 3DPC Mixtures: A State‐of‐the‐art Review”. <i>Structural Concrete</i>, 2023. https://doi.org/10.1002/suco.202200473.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

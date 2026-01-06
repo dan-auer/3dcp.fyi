@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Imtiaz Iqbal, Tala Kasim, Svetlana Besklubova, Ali Mustafa, Mujib Rahman, Hisham Alabduljabbar, Furqan Ahmad
+    - footer
+title: Iqbal Imtiaz, Kasim Tala, Besklubova Svetlana, Mustafa Ali, Rahman Mujib, Alabduljabbar Hisham, Ahmad Furqan
 description:
 tags:
  - anisotropy
@@ -21,40 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s41598-025-11068-w_reference.pdf) Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML) ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1038/s41598-025-11068-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s41598-025-11068-w</a>
+#Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML) ([2025-12](date/2025/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-025-11068-w_reference.pdf) <a href="https://doi.org/10.1038/s41598-025-11068-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-11068-w" target="_blank">10.1038/s41598-025-11068-w</a>
 
--------------------------
+<a href="../../../author/iqbal_imtiaz"><b>Iqbal</b>&nbsp;Imtiaz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kasim_tala"><b>Kasim</b>&nbsp;Tala</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <a href="../../../author/mustafa_ali"><b>Mustafa</b>&nbsp;Ali</a></span>, <a href="../../../author/rahman_mujib"><b>Rahman</b>&nbsp;Mujib</a></span>, <a href="../../../author/alabduljabbar_hisham"><b>Alabduljabbar</b>&nbsp;Hisham</a></span>, <a href="../../../author/ahmad_furqan"><b>Ahmad</b>&nbsp;Furqan</a></span><br>
+Journal Article - Scientific Reports
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>
-,     <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> <a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> <a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a>
-,     <a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a>
-,     <a href="../../../author/alabduljabbar_hisham"><b>Alabduljabbar</b> Hisham</a>
-,     <a href="../../../author/ahmad_furqan"><b>Ahmad</b> Furqan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Scientific Reports, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#determination`](keyword/determination)
-    [`#enhancement`](keyword/enhancement)
-    [`#explainability`](keyword/explainability)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#network`](keyword/network)
-    [`#neural`](keyword/neural)
-    [`#passive`](keyword/passive)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/passive"><button class="btn">#passive</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Passive%20Determination%20of%20Anisotropic%20Compressive%20Strength%20of%203D%20Printed%20Concrete%20Using%20Multiple%20Neural%20Networks%20Enhanced%20with%20Explainable%20Machine%20Learning%20%28XML%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417267057" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s41598-025-11068-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s41598-025-11068-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) offers significant advantages over traditional construction such as faster construction time, reduced material wastage, and enhanced ability to execute complex architectural designs. The incorporation of various fibres and industrial wastes into 3DCP can improve performance and sustainability but introduces non-linear effects on compressive strength (CS) that are difficult to predict with standard laboratory methods. This study aims to develop reliable prediction models for the CS of 3DCP by employing advanced neural network and deep learning algorithms such as Multilayer Perceptron (MLP), Convolutional Neural Network (CNN), and Radial Basis Functional Neural Network (RBFNN). A comprehensive database of 200 experimental instances of CS of 3DCP was collected from published literature. The database includes mixture constituents of 3DCP as inputs and CS as the output. The trained algorithms were validated by means of k-fold validation, error metrics, and residual assessment. Among the tested algorithms, the CNN model exhibited the highest predictive performance with a testing R² value of 0.95, demonstrating its robustness in modelling the complex behaviour of 3DCP. To enhance interpretability, Shapley (SHAP) and Individual Conditional Expectation (ICE) analyses were performed, identifying the water-to-cement ratio, loading direction, and fibre content as key factors influencing compressive strength. Finally, a graphical user interface (GUI) has been developed for stakeholders to implement the findings of this study practically.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ambi_raje_kali.2023.MDOaPEoEB3PC/">Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete</a></li>
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
@@ -122,7 +92,35 @@ tags:
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX,
+      author            = "Imtiaz Iqbal and Tala Kasim and Svetlana Besklubova and Ali Mustafa and Mujib Rahman and Hisham Alabduljabbar and Furqan Ahmad",
+      title             = "Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)",
+      doi               = "10.1038/s41598-025-11068-w",
+      year              = "2025",
+      journal           = "Scientific Reports",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Iqbal, “Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)”, <i>Scientific Reports</i>, 2025, doi: 10.1038/s41598-025-11068-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Iqbal, Imtiaz, Tala Kasim, Svetlana Besklubova, Ali Mustafa, Mujib Rahman, Hisham Alabduljabbar, and Furqan Ahmad. “Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)”. <i>Scientific Reports</i>, 2025. https://doi.org/10.1038/s41598-025-11068-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehdi Maboudi, Markus Gerke, Norman Hack, Leon Brohmann, Patrick Schwerdtner, Gerrit Placzek
+    - footer
+title: Maboudi Mehdi, Gerke Markus, Hack Norman, Brohmann Leon, Schwerdtner Patrick, Placzek Gerrit
 description:
 tags:
  - additive
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B4-2020/763/2020/isprs-archives-XLIII-B4-2020-763-2020.pdf) Current Surveying Methods for the Integration of Additive Manufacturing in the Construction Process ([2020-08](date/2020/08))
-<a href="https://doi.org/10.5194/isprs-archives-xliii-b4-2020-763-2020" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.5194/isprs-archives-xliii-b4-2020-763-2020</a>
+#Current Surveying Methods for the Integration of Additive Manufacturing in the Construction Process ([2020-08](date/2020/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B4-2020/763/2020/isprs-archives-XLIII-B4-2020-763-2020.pdf) <a href="https://doi.org/10.5194/isprs-archives-xliii-b4-2020-763-2020" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5194/isprs-archives-xliii-b4-2020-763-2020" target="_blank">10.5194/isprs-archives-xliii-b4-2020-763-2020</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maboudi_mehdi"><b>Maboudi</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gerke_markus"><b>Gerke</b>&nbsp;Markus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7448-8630" title="ORCID: 0000-0002-7448-8630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brohmann_leon"><b>Brohmann</b>&nbsp;Leon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span><br>
+Journal Article - The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. XLIII-B4-2020, pp. 763-768
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a> <a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> <a href="https://orcid.org/0000-0002-7448-8630" title="ORCID: 0000-0002-7448-8630" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> <a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. XLIII-B4-2020, pp. 763-768
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#integration`](keyword/integration)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#method`](keyword/method)
-    [`#process`](keyword/process)
-    [`#survey`](keyword/survey)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/survey"><button class="btn">#survey</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Current%20Surveying%20Methods%20for%20the%20Integration%20of%20Additive%20Manufacturing%20in%20the%20Construction%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105888674&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,23 +37,19 @@ tags:
 <a href="https://inciteful.xyz/p/W3080767391" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.5194/isprs-archives-xliii-b4-2020-763-2020" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.5194/isprs-archives-xliii-b4-2020-763-2020?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Technical University of Braunschweig (Brunswick) and Technical University of Munich were successful to establish a Collaborative Research Centre called “Additive Manufacturing in Construction (AMC)- The Challenge of Large Scale” starting from 2020 and funded by the German Research Foundation (DFG). The aim of this project is “to create the basic conditions for the introduction of additive manufacturing in construction, and thus to pave the way for the use of resource-efficient constructions with a high level of design freedom”. Surveying engineering (geodetic surveying, photogrammetry, laser scanning and GNSS) plays a major role in one of the sub-projects called “Integration of Additive Manufacturing in the Construction Process”. This paper aims at introducing the large scale AMC with the main focus on investigating the role of surveying engineering in this topic which will be a topic of high interest in the coming years in the digital fabrication within construction field. After a short introduction on additive manufacturing in construction, this paper will present the general aims and structure of the Collaborative Research Centre. Thereupon, the importance of geometric quality inspection and establishing and transferring different coordinate systems during the Additive Manufacturing (AM) construction steps (elements fabrication, installation and whole structure/building control) and the role of geodetic surveying, photogrammetry, laser scanning and GNSS will be outlined. This will be presented within a subproject called “C06: Integration of Additive Manufacturing in the Construction Process” and potentials and challenges for integrating surveying engineering in component and building level additive manufacturing in construction are mentioned.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mabo_mawa_gerk.2025.GIi3CM/">Geometric Inspection in 3D Concrete Manufacturing:<br/>Comparison of Data Capturing Techniques</a></li>
@@ -85,4 +62,34 @@ tags:
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALBPAfS3PCC/">A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../plac_schw.2020.DoIAfC3PitCPBoFoAM/">Derivation of Integration Approaches for "Concrete 3D Printing" in the Construction Process Based on Features of Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mabo_gerk_hack_broh.2020.CSMftIoAMitCP,
+      author            = "Mehdi Maboudi and Markus Gerke and Norman Peter Hack and Leon Brohmann and Patrick Schwerdtner and Gerrit Placzek",
+      title             = "Current Surveying Methods for the Integration of Additive Manufacturing in the Construction Process",
+      doi               = "10.5194/isprs-archives-xliii-b4-2020-763-2020",
+      year              = "2020",
+      journal           = "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+      volume            = "XLIII-B4-2020",
+      pages             = "763--768",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Maboudi, M. Gerke, N. P. Hack, L. Brohmann, P. Schwerdtner and G. Placzek, “Current Surveying Methods for the Integration of Additive Manufacturing in the Construction Process”, <i>The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. XLIII-B4-2020, pp. 763–768, 2020, doi: 10.5194/isprs-archives-xliii-b4-2020-763-2020.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Maboudi, Mehdi, Markus Gerke, Norman Peter Hack, Leon Brohmann, Patrick Schwerdtner, and Gerrit Placzek. “Current Surveying Methods for the Integration of Additive Manufacturing in the Construction Process”. <i>The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i> XLIII-B4-2020 (2020): 763–68. https://doi.org/10.5194/isprs-archives-xliii-b4-2020-763-2020.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

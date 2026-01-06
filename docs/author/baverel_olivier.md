@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Baverel Olivier 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../mesn_duba_bave.2025.SAo3P/">Structural Applications of 3D Printing</a></li>
   <li><a href="../../../author/motamedi_mahan"><b>Motamedi</b> Mahan</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/tang_anh-minh"><b>Tang</b> Anh-Minh</a>, <a href="../../../author/pereira_jean-michel"><b>Pereira</b> Jean-Michel</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mota_mesn_tang_pere.2024.SBUo3PEbD/">Structural Build-Up of 3D Printed Earth by Drying</a></li>
   <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Yuan, Zemin Li, Dajun Zhou, Tingjie Huang, Hai Huang, Dengwu Jiao, Caijun Shi
+    - footer
+title: Yuan Qiang, Li Zemin, Zhou Dajun, Huang Tingjie, Huang Hai, Jiao Dengwu, Shi Caijun
 description:
 tags:
  - buildability
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar ([2019-08](date/2019/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2019.07.326" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2019.07.326</a>
+#A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar ([2019-08](date/2019/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2019.07.326" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.07.326" target="_blank">10.1016/j.conbuildmat.2019.07.326</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/li_zemin"><b>Li</b>&nbsp;Zemin</a></span>, <a href="../../../author/zhou_dajun"><b>Zhou</b>&nbsp;Dajun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1023-6159" title="ORCID: 0000-0003-1023-6159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_tingjie"><b>Huang</b>&nbsp;Tingjie</a></span>, <a href="../../../author/huang_hai"><b>Huang</b>&nbsp;Hai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiao_dengwu"><b>Jiao</b>&nbsp;Dengwu</a></span>, <a href="../../../author/shi_caijun"><b>Shi</b>&nbsp;Caijun</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 227
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> <a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>
-,     <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>
-,     <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> <a href="https://orcid.org/0000-0003-1023-6159" title="ORCID: 0000-0003-1023-6159" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_hai"><b>Huang</b> Hai</a>
-,     <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="https://orcid.org/0000-0002-8943-757X" title="ORCID: 0000-0002-8943-757X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 227, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#feasibility`](keyword/feasibility)
-    [`#fresh`](keyword/fresh)
-    [`#measurement`](keyword/measurement)
-    [`#method`](keyword/method)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Feasible%20Method%20for%20Measuring%20the%20Buildability%20of%20Fresh%203D%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070499482&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2968099208" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2019.07.326" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2019.07.326?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The buildability of fresh concrete is of great importance to 3D printing technology. In this paper, the buildability of3D printing mortar was evaluated from the perspective of deformation of fresh mortar during the process of printing. A deformation monitoring device was designed to monitor the change of deformation of printing layer with stacking. The physical and chemical effects on the evolution of structural build-up were evaluated by the growth rate of static yield stress and penetration resistance. Results showed that the chemical effect was more effective than the physical effect, and the combination of physical and chemical effects was the most effective one. The growth of penetration resistance had a linear relationship with the growth of static yield stress, and both of them can be used to characterize the structural build-up of fresh mortar. The deformation value and optimal printing interval time could be obtained by simulating the printing process using the deformation monitoring device. An equation between the optimal interval time and the growth rate of static yield stress was established.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../flat_wang.2018.EfSIoDC/">Editorial for Special Issue on Digital Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kaze_yuan_meie_coch.2017.CS3P/">Construction-Scale 3D Printing:<br/>Shape Stability of Fresh Printing Concrete</a></li>
@@ -85,8 +61,8 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "113 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
@@ -201,4 +177,33 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/chen_long"><b>Chen</b> Long</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../sun_wang_wang_chen.2020.IoMWNotFaHPoa3PPMI/">Influence of Multi-Walled Nanotubes on the Fresh and Hardened Properties of a 3D Printing PVA Mortar Ink</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_li_zhou_huan.2019.AFMfMtBoF3PM,
+      author            = "Qiang Yuan and Zemin Li and Dajun Zhou and Tingjie Huang and Hai Huang and Dengwu Jiao and Caijun Shi",
+      title             = "A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar",
+      doi               = "10.1016/j.conbuildmat.2019.07.326",
+      year              = "2019",
+      journal           = "Construction and Building Materials",
+      volume            = "227",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Yuan, “A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar”, <i>Construction and Building Materials</i>, vol. 227, 2019, doi: 10.1016/j.conbuildmat.2019.07.326.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Qiang, Zemin Li, Dajun Zhou, Tingjie Huang, Hai Huang, Dengwu Jiao, and Caijun Shi. “A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar”. <i>Construction and Building Materials</i> 227 (2019). https://doi.org/10.1016/j.conbuildmat.2019.07.326.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

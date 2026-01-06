@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Wang, Wenwei Yang, Li Wang, Dan Zhang, Zhijian Li, Guowei Ma
+    - footer
+title: Wang Qiang, Yang Wenwei, Wang Li, Zhang Dan, Li Zhijian, Ma Guowei
 description:
 tags:
  - analysis
@@ -20,38 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flexural Performance of the Integrated Steel-Truss-Reinforced 3D Printed Concrete Beams:<br/>:aca-blank: Experimental and Numerical Analysis ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.jobe.2024.110794" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110794</a>
+#Flexural Performance of the Integrated Steel-Truss-Reinforced 3D Printed Concrete Beams&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Experimental and Numerical Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110794" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110794" target="_blank">10.1016/j.jobe.2024.110794</a>
 
--------------------------
+<a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span>, <a href="../../../author/yang_wenwei"><b>Yang</b>&nbsp;Wenwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/zhang_dan"><b>Zhang</b>&nbsp;Dan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Journal of Building Engineering, No. 110794
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>
-,     <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>
-,     <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 110794
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#flexural`](keyword/flexural)
-    [`#integration`](keyword/integration)
-    [`#numeric`](keyword/numeric)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-    [`#truss`](keyword/truss)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/truss"><button class="btn">#truss</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Performance%20of%20the%20Integrated%20Steel-Truss-Reinforced%203D%20Printed%20Concrete%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204709090&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402654236" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110794" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110794?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explored the feasibility of the integrated steel truss (IST) reinforced 3D printed concrete beams (3DPC truss beams for abbreviation) as a load-bearing element. Forty-five 3DPC truss blocks were firstly tested under axial compression to obtain an appropriate sectional dimension range and reinforcement ratio for the design of 3DPC truss beams. Subsequently, six reinforced and one non-reinforced 3DPC truss beams were designed and tested under flexural loading. The results demonstrated no debonding or local anchorage failure, indicating a strong integration between the printed layers and IST. More notably, the 3DPC truss beams exhibited a ductile failure mode comparable to that of balanced-reinforced RC beams, an outcome rarely observed in contemporary reinforced 3DPC structures. Finally, a time cost-efficient design flow with great accuracy based on finite element analysis for the flexural performance of 3DPC truss beams was proposed and validated. The results from this study show substantial promise for 3DPC truss beams in future applications, particularly in constructing lateral structures that require significant load-bearing capacity and enhanced ductility.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -107,8 +80,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
       <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pfle_radl_sam_vill.2025.3CPoTWLBRS/">3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
@@ -121,4 +94,33 @@ tags:
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../teng_xu_yang_yu.2025.DoSSHCCCDf3P/">Development of Sustainable Strain-Hardening Cementitious Composites Containing Diatomite for 3D Printing</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/chen_dongjian"><b>Chen</b> Dongjian</a>, <a href="../../../author/liu_shiyuan"><b>Liu</b> Shiyuan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF/">Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_yang_wang_zhan.2024.FPotISTR3PCB,
+      author            = "Qiang Wang and Wenwei Yang and Li Wang and Dan Zhang and Zhijian Li and Guowei Ma",
+      title             = "Flexural Performance of the Integrated Steel-Truss-Reinforced 3D Printed Concrete Beams: Experimental and Numerical Analysis",
+      doi               = "10.1016/j.jobe.2024.110794",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "110794",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Wang, W. Yang, L. Wang, D. Zhang, Z. Li and G. Ma, “Flexural Performance of the Integrated Steel-Truss-Reinforced 3D Printed Concrete Beams: Experimental and Numerical Analysis”, <i>Journal of Building Engineering</i>, p. 110794, 2024, doi: 10.1016/j.jobe.2024.110794.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Qiang, Wenwei Yang, Li Wang, Dan Zhang, Zhijian Li, and Guowei Ma. “Flexural Performance of the Integrated Steel-Truss-Reinforced 3D Printed Concrete Beams: Experimental and Numerical Analysis”. <i>Journal of Building Engineering</i>, 2024, 110794. https://doi.org/10.1016/j.jobe.2024.110794.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Yuning Chen, Zedi Zhang, Geng Niu, Yuanliang Xiong, Lei Ma, Qi Fu, Chun Chen, Nemkumar Banthia, Yamei Zhang
+    - footer
+title: Liu Chao, Chen Yuning, Zhang Zedi, Niu Geng, Xiong Yuanliang, Ma Lei, Fu Qi, Chen Chun, Banthia Nemkumar, Zhang Yamei
 description:
 tags:
  - bubble
@@ -18,40 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study of the Influence of Sand on Rheological Properties, Bubble Features and Buildability of Fresh Foamed Concrete for 3D Printing ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.129292" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129292</a>
+#Study of the Influence of Sand on Rheological Properties, Bubble Features and Buildability of Fresh Foamed Concrete for 3D Printing ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129292" target="_blank">10.1016/j.conbuildmat.2022.129292</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niu_geng"><b>Niu</b>&nbsp;Geng</a></span>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b>&nbsp;Yuanliang</a></span>, <a href="../../../author/ma_lei"><b>Ma</b>&nbsp;Lei</a></span>, <a href="../../../author/fu_qi"><b>Fu</b>&nbsp;Qi</a></span>, <a href="../../../author/chen_chun"><b>Chen</b>&nbsp;Chun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 356
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> <a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>
-,     <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>
-,     <a href="../../../author/fu_qi"><b>Fu</b> Qi</a>
-,     <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 356, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bubble`](keyword/bubble)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#fresh`](keyword/fresh)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/bubble"><button class="btn">#bubble</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20of%20the%20Influence%20of%20Sand%20on%20Rheological%20Properties%2C%20Bubble%20Features%20and%20Buildability%20of%20Fresh%20Foamed%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138990310&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4298393045" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129292" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129292?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Using sand to partially replace binder in the preparation of foamed concrete (FC) can reduce shrinkage, result in a lower carbon footprint, and enhance eco-friendliness. The hardening properties and application of 3D printed FCs (3DPFC) are closely related to its performance. The effects of sand content and fineness on the rheological properties, buildability, pressure field, and bubble features of the FC used for 3D printing were studied and discussed. It was found that the doped sand competed with water in the surrounding paste, thus increasing the interparticle interaction force and difficulty of bubble integration, resulting in the decrease of air content and bubble diameter of FC. The static yield stress and thixotropy of sand-containing FC depends on the thickness and rheological properties of the bubble-containing paste layer around the sand particles. Replacing the binder with sand, especially with fine sand, intensifies the pressure field in the FC during the mixing process. The buildability of 3DPFC is linearly correlated with the average bubble diameter of FC. A formula is proposed to predict the buildability of 3DPFC based on the static yield stress and air content.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
@@ -93,8 +63,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xue_wang_lee_huan.2025.DoS3PCM/">Development of Sustainable 3D Printing Concrete Materials:<br/>Impact of Natural Minerals and Wastes at High Replacement Ratios</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
@@ -112,4 +82,33 @@ tags:
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/fu_junen"><b>Fu</b> Junen</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../geng_long_luo_fu.2023.IPoDYSi3PCBoML/">Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lyu_dai_chen.2023.SSPCMbMEaAB3P/">Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_chen_zhan_niu.2022.SotIoSoRPBFaBoFFCf3P,
+      author            = "Chao Liu and Yuning Chen and Zedi Zhang and Geng Niu and Yuanliang Xiong and Lei Ma and Qi Fu and Chun Chen and Nemkumar Banthia and Yamei Zhang",
+      title             = "Study of the Influence of Sand on Rheological Properties, Bubble Features and Buildability of Fresh Foamed Concrete for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2022.129292",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "356",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “Study of the Influence of Sand on Rheological Properties, Bubble Features and Buildability of Fresh Foamed Concrete for 3D Printing”, <i>Construction and Building Materials</i>, vol. 356, 2022, doi: 10.1016/j.conbuildmat.2022.129292.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Yuning Chen, Zedi Zhang, Geng Niu, Yuanliang Xiong, Lei Ma, Qi Fu, Chun Chen, Nemkumar Banthia, and Yamei Zhang. “Study of the Influence of Sand on Rheological Properties, Bubble Features and Buildability of Fresh Foamed Concrete for 3D Printing”. <i>Construction and Building Materials</i> 356 (2022). https://doi.org/10.1016/j.conbuildmat.2022.129292.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

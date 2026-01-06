@@ -8,7 +8,7 @@ search:
 
 # #demolition
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
   <li><a href="../../../author/ding_yong"><b>Ding</b> Yong</a>, <a href="../../../author/kindler_oswin_robert"><b>Kindler</b> Robert</a>, <a href="../../../author/cen_tianyu"><b>Cen</b> Tianyu</a>, <a href="../../../author/chen_xiulin"><b>Chen</b> Xiulin</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_kind_cen_chen.2025.VoDWaBBiSBMvCMa3P/">Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing</a></li>

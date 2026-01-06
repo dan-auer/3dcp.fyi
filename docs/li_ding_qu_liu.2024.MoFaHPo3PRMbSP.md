@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bingying Li, Tao Ding, Changwei Qu, Wei Liu
+    - footer
+title: Li Bingying, Ding Tao, Qu Changwei, Liu Wei
 description:
 tags:
  - fresh
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modification of Fresh and Hardened Properties of 3D Printed Recycled Mortar by Superabsorbent Polymers ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.jobe.2024.110189" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110189</a>
+#Modification of Fresh and Hardened Properties of 3D Printed Recycled Mortar by Superabsorbent Polymers ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110189" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110189" target="_blank">10.1016/j.jobe.2024.110189</a>
 
--------------------------
+<a href="../../../author/li_bingying"><b>Li</b>&nbsp;Bingying</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7958-9804" title="ORCID: 0000-0001-7958-9804" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qu_changwei"><b>Qu</b>&nbsp;Changwei</a></span>, <a href="../../../author/liu_wei"><b>Liu</b>&nbsp;Wei</a></span><br>
+Journal Article - Journal of Building Engineering, No. 110189
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_bingying"><b>Li</b> Bingying</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qu_changwei"><b>Qu</b> Changwei</a> <a href="https://orcid.org/0000-0001-7958-9804" title="ORCID: 0000-0001-7958-9804" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_wei"><b>Liu</b> Wei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 110189
-
-:aca-blank:{ .lg .middle}
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modification%20of%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printed%20Recycled%20Mortar%20by%20Superabsorbent%20Polymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198542346&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400571157" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110189" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110189?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The high water absorption level of recycled sand limits the applicability of 3D-printed recycled mortar. In this study, superabsorbent polymers (SAPs) were adopted to modify the properties of both fresh and hardened 3D-printed recycled mortar. The effects of various SAP dosages, particle sizes, and addition methods were carefully examined. X-ray diffraction (XRD) and computed tomography (CT) were adopted to observe the microstructure. The test results showed that the addition of SAP effectively improved the printability of the mixed mortar. Particularly, with the addition of SAP, the autogenous shrinkage was reduced by more than 50%, indicating that the polymer had an obvious inhibitory effect on shrinkage. Furthermore, the hydration of cementitious materials was promoted, resulting in an increase in compressive strength by 27%–69%. Microstructural analysis further confirmed that the addition of SAP optimized the pore structure and enhanced the density of the 3D-printed mortar but did not change the types of hydration products. Generally, for the modification of 3D-printed mortar with recycled sand, it would be recommended to add SAP at a doping level of 0.4% with a particle size of 60-100 mesh.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chen_lian_zhan_li.2023.CSPBUaRMfCMitCo3CP/">Can Superabsorbent Polymers Be Used as Rheology-Modifiers for Cementitious Materials in the Context of 3D Concrete Printing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -90,10 +68,39 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_nana"><b>Liu</b> Nana</a>, <a href="../../../author/wang_jie"><b>Wang</b> Jie</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../liu_wang.2025.ESotEoWBRo3PFoCM/">Experimental Study on the Effect of Water-Binder Ratio on 3D Printing Form of Concrete Mortar</a></li>
       <li><a href="../../../author/sbardelotto_kloeckner_eduardo"><b>Sbardelotto</b> Eduardo</a>, <a href="../../../author/vieira_gomes_manuel"><b>Vieira</b> Manuel</a>, <a href="../../../author/ferreira-dos-santos_karyne"><b>Ferreira dos Santos</b> Karyne</a>, <a href="../../../author/pereira-dos-santos_samuel"><b>Pereira dos Santos</b> Samuel</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sbar_viei_ferr_pere.2025.ESotRBo3PMIFRCAF/">Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA)</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/li_xin"><b>Li</b> Xin</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS/">Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_ding_qu_liu.2024.MoFaHPo3PRMbSP,
+      author            = "Bingying Li and Tao Ding and Changwei Qu and Wei Liu",
+      title             = "Modification of Fresh and Hardened Properties of 3D Printed Recycled Mortar by Superabsorbent Polymers",
+      doi               = "10.1016/j.jobe.2024.110189",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "110189",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Li, T. Ding, C. Qu and W. Liu, “Modification of Fresh and Hardened Properties of 3D Printed Recycled Mortar by Superabsorbent Polymers”, <i>Journal of Building Engineering</i>, p. 110189, 2024, doi: 10.1016/j.jobe.2024.110189.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Bingying, Tao Ding, Changwei Qu, and Wei Liu. “Modification of Fresh and Hardened Properties of 3D Printed Recycled Mortar by Superabsorbent Polymers”. <i>Journal of Building Engineering</i>, 2024, 110189. https://doi.org/10.1016/j.jobe.2024.110189.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

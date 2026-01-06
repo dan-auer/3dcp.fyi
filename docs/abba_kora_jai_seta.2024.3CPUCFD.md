@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Khalid Abbaoui, Issam Korachi, Mostapha Jai, Berin Šeta, Md. Mollah
+    - footer
+title: Abbaoui Khalid, Korachi Issam, Jai Mostapha, Šeta Berin, Mollah Md.
 description:
 tags:
  - boundary
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmapro.2024.03.042) 3D Concrete Printing Using Computational Fluid Dynamics:<br/>:aca-blank: Modeling of Material-Extrusion with Slip-Boundaries ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.jmapro.2024.03.042" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmapro.2024.03.042</a>
+#3D Concrete Printing Using Computational Fluid Dynamics&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">Modeling of Material-Extrusion with Slip-Boundaries</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmapro.2024.03.042) <a href="https://doi.org/10.1016/j.jmapro.2024.03.042" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmapro.2024.03.042" target="_blank">10.1016/j.jmapro.2024.03.042</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5007-7714" title="ORCID: 0000-0002-5007-7714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abbaoui_khalid"><b>el&nbsp;Abbaoui</b>&nbsp;Khalid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2532-6181" title="ORCID: 0000-0003-2532-6181" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korachi_issam"><b>al&nbsp;Korachi</b>&nbsp;Issam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jai_mostapha"><b>el&nbsp;Jai</b>&nbsp;Mostapha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5989-1122" title="ORCID: 0000-0002-5989-1122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seta_berin"><b>Šeta</b>&nbsp;Berin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mollah_tusher_md"><b>Mollah</b>&nbsp;Md.</a></span><br>
+Journal Article - Journal of Manufacturing Processes, Vol. 118, pp. 448-459
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/abbaoui_khalid"><b>el Abbaoui</b> Khalid</a> <a href="https://orcid.org/0000-0002-5007-7714" title="ORCID: 0000-0002-5007-7714" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/korachi_issam"><b>al Korachi</b> Issam</a> <a href="https://orcid.org/0000-0003-2532-6181" title="ORCID: 0000-0003-2532-6181" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jai_mostapha"><b>el Jai</b> Mostapha</a> <a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> <a href="https://orcid.org/0000-0002-5989-1122" title="ORCID: 0000-0002-5989-1122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> <a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Manufacturing Processes, Vol. 118, pp. 448-459
-
-:aca-blank:{ .lg .middle}
-    [`#boundary`](keyword/boundary)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#extrusion`](keyword/extrusion)
-    [`#fluid`](keyword/fluid)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#slip`](keyword/slip)
-
-
--------------------------
+<a href="../../keyword/boundary"><button class="btn">#boundary</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slip"><button class="btn">#slip</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Using%20Computational%20Fluid%20Dynamics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189684056&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393851009" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmapro.2024.03.042" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmapro.2024.03.042?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the role of slip boundary conditions in computational fluid dynamics modeling of material extrusion and layer deposition during 3D concrete printing. The mortar flow governed by the Navier-Stokes equations was simulated for two different slip boundary conditions at the extrusion nozzle wall: no-slip and free-slip. The simulations were conducted with two constitutive models: a generalized Newtonian fluid model and an elasto-viscoplastic fluid model. The cross-sectional shapes of up to three printed layers were compared to the experimental results from literature for different geometrical- and speed-ratios. The results reveal that employing free-slip boundary conditions at the extrusion nozzle wall improves layer-mimicking quality for both constitutive models, indicating the presence and importance of a lubricating layer of fine particles at the concrete-solid wall interface. This enhanced performance is primarily due to the observed decrease in extrusion pressure that minimizes layer height- and width-deviations compared to the experimental prints. Furthermore, the free-slip boundary conditions play an important role in predicting the multilayer prints, its deformation and groove shapes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../abba_kora_moll_span.2023.NMoPCDi3CP/">Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -111,8 +87,8 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_zhisong"><b>Xu</b> Zhisong</a>, <a href="../../../author/li_zhuguo"><b>Li</b> Zhuguo</a>, <a href="../../../author/jiang_fei"><b>Jiang</b> Fei</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../xu_li_jian.2022.NAtPFoFCBoMM/">Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
@@ -130,4 +106,34 @@ tags:
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../oulk_riha_akhr_jai.2025.IoEBMi3CP/">Integration of Earth-Based Materials in 3D Concrete Printing:<br/>Physico-Chemical and Technological Characterization</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{abba_kora_jai_seta.2024.3CPUCFD,
+      author            = "Khalid El Abbaoui and Issam Al Korachi and Mostapha El Jai and Berin Šeta and Md. Tusher Mollah",
+      title             = "3D Concrete Printing Using Computational Fluid Dynamics: Modeling of Material-Extrusion with Slip-Boundaries",
+      doi               = "10.1016/j.jmapro.2024.03.042",
+      year              = "2024",
+      journal           = "Journal of Manufacturing Processes",
+      volume            = "118",
+      pages             = "448--459",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. E. Abbaoui, I. A. Korachi, M. E. Jai, B. Šeta and M. T. Mollah, “3D Concrete Printing Using Computational Fluid Dynamics: Modeling of Material-Extrusion with Slip-Boundaries”, <i>Journal of Manufacturing Processes</i>, vol. 118, pp. 448–459, 2024, doi: 10.1016/j.jmapro.2024.03.042.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Abbaoui, Khalid El, Issam Al Korachi, Mostapha El Jai, Berin Šeta, and Md. Tusher Mollah. “3D Concrete Printing Using Computational Fluid Dynamics: Modeling of Material-Extrusion with Slip-Boundaries”. <i>Journal of Manufacturing Processes</i> 118 (2024): 448–59. https://doi.org/10.1016/j.jmapro.2024.03.042.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

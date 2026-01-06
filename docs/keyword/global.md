@@ -8,7 +8,7 @@ search:
 
 # #global
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko.2025.GF3PCDWTiBP/">Globally First 3D‐Printed Concrete Drinking Water Tank in Barczewko, Poland</a></li>
   <li><a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_sama_roti_feng.2025.EGPIotAo3CPT/">Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology:<br/>A Roadmap for New Zealand</a></li>
   <li><a href="../../../author/obermeier_nico"><b>Obermeier</b> Nico</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/wiese_felix"><b>Wiese</b> Felix</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ober_rich_wies_sten.2024.LGWPaRE3PCBC/">Low Global-Warming-Potential and Resource-Efficient 3D Printing Cement-Based Concrete</a></li>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Zhi Yefan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
   <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>
   <li><a href="../../../author/yu_kun-hao"><b>Yu</b> Kun-Hao</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/nah_hee_so"><b>Nah</b> So</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yu_teng_nah_chai.2025.3CPoTPMSfECCaS/">3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage</a></li>

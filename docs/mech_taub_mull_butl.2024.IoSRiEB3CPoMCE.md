@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Viktor Mechtcherine, Markus Taubert, Steffen Müller, Marko Butler, Frank Will, Florian Storch, Paul Plaschnick, Jens Otto, Patrick Maiwald
+    - footer
+title: Mechtcherine Viktor, Taubert Markus, Müller Steffen, Butler Marko, Will Frank, Storch Florian, Plaschnick Paul, Otto Jens, Maiwald Patrick
 description:
 tags:
  - base
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1007/978-3-031-70031-6_36" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70031-6_36</a>
+#Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_36" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_36" target="_blank">10.1007/978-3-031-70031-6_36</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3999-5186" title="ORCID: 0000-0002-3999-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taubert_markus"><b>Taubert</b>&nbsp;Markus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muller_steffen"><b>Müller</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/butler_marko"><b>Butler</b>&nbsp;Marko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/will_frank"><b>Will</b>&nbsp;Frank</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/storch_florian"><b>Storch</b>&nbsp;Florian</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-1395-6569" title="ORCID: 0009-0008-1395-6569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/plaschnick_paul"><b>Plaschnick</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/otto_jens"><b>Otto</b>&nbsp;Jens</a></span>, <a href="../../../author/maiwald_patrick"><b>Maiwald</b>&nbsp;Patrick</a></span><br>
+Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 311-318
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a> <a href="https://orcid.org/0000-0002-3999-5186" title="ORCID: 0000-0002-3999-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> <a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> <a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/will_frank"><b>Will</b> Frank</a> <a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/storch_florian"><b>Storch</b> Florian</a> <a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> <a href="https://orcid.org/0009-0008-1395-6569" title="ORCID: 0009-0008-1395-6569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/otto_jens"><b>Otto</b> Jens</a> <a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maiwald_patrick"><b>Maiwald</b> Patrick</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 311-318
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#extrusion`](keyword/extrusion)
-    [`#integration`](keyword/integration)
-    [`#mono`](keyword/mono)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/mono"><button class="btn">#mono</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%20Steel%20Reinforcement%20into%20Extrusion-Based%203D%20Concrete%20Printing%20of%20Monolithic%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203042841&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402087904" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70031-6_36" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70031-6_36?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The field of 3D concrete printing and the integration of load-bearing reinforcement remains a significant challenge. This paper introduces three innovative methods for constructing monolithic, steel-reinforced concrete walls using the CONPrint3D technology, which was previously developed for large-scale, monolithic, on-site 3D concrete printing. These methods include: 1) the additive application of reinforcement meshes hung in front of a printed core wall, 2) the lateral additive filling within a reinforcement cage, and 3) the fully automated construction of a welded reinforcement structure followed immediately by layer-by-layer encasement with extruded concrete. In the paper, the material challenges regarding concrete and the mechanical engineering development approaches are discussed. A comparative evaluation of these proposed and in lab scale tested new processes against established construction methods is included.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
@@ -90,7 +62,38 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mech_taub_mull_butl.2024.IoSRiEB3CPoMCE,
+      author            = "Viktor Mechtcherine and Markus Taubert and Steffen Müller and Marko Butler and Frank Will and Florian Storch and Paul Plaschnick and Jens Otto and Patrick Maiwald",
+      title             = "Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements",
+      doi               = "10.1007/978-3-031-70031-6_36",
+      year              = "2024",
+      volume            = "53",
+      pages             = "311--318",
+      booktitle         = "Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication",
+      editor            = "Dirk Lowke and Niklas Freund and David Böhler and Friedrich Herding",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Mechtcherine, “Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 311–318. doi: 10.1007/978-3-031-70031-6_36.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mechtcherine, Viktor, Markus Taubert, Steffen Müller, Marko Butler, Frank Will, Florian Storch, Paul Plaschnick, Jens Otto, and Patrick Maiwald. “Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:311–18, 2024. https://doi.org/10.1007/978-3-031-70031-6_36.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

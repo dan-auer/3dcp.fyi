@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamed Gomaa, Wassim Jabi, Veronica Soebarto, Yi Xie
+    - footer
+title: Gomaa Mohamed, Jabi Wassim, Soebarto Veronica, Xie Yi
 description:
 tags:
  - construction
@@ -14,30 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://orca.cardiff.ac.uk/148042/1/DigitalManufacturingForEarthConstruction.pdf) Digital Manufacturing for Earth Construction:<br/>:aca-blank: A Critical Review ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1016/j.jclepro.2022.130630" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2022.130630</a>
+#Digital Manufacturing for Earth Construction&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">A Critical Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://orca.cardiff.ac.uk/148042/1/DigitalManufacturingForEarthConstruction.pdf) <a href="https://doi.org/10.1016/j.jclepro.2022.130630" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.130630" target="_blank">10.1016/j.jclepro.2022.130630</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9463-4888" title="ORCID: 0000-0001-9463-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gomaa_mohamed"><b>Gomaa</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabi_wassim"><b>Jabi</b>&nbsp;Wassim</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1397-8414" title="ORCID: 0000-0003-1397-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soebarto_veronica"><b>Soebarto</b>&nbsp;Veronica</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 338, No. 130630
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a> <a href="https://orcid.org/0000-0001-9463-4888" title="ORCID: 0000-0001-9463-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="https://orcid.org/0000-0003-1397-8414" title="ORCID: 0000-0003-1397-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 338, No. 130630
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#critical`](keyword/critical)
-    [`#digital`](keyword/digital)
-    [`#earth`](keyword/earth)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Digital%20Manufacturing%20for%20Earth%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123683720&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4206948681" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2022.130630" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2022.130630?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent years have witnessed a rapid adoption of digital manufacturing techniques in the architecture and construction industry, with a strong focus on additive manufacturing and 3D concrete printing. The increasing awareness of the undesirable environmental implications of cement-based products has led to reapproaching earth materials within a digitally based construction process. The attempts to digitise earth construction started in 2011; however, the past three years have seen a surge in the number of research projects that explore the potentials of digital earth construction. This paper collected, reviewed and analysed the state-of-the-art research on digital earth construction since 2011, then focused on highlighting the potential of, as well as the challenges associated with the process of adopting this new construction method on an industrial scale. The insights from this study will bridge the gaps in knowledge among disparate research threads and collectively provide critical information for an enhanced utilisation of digital techniques in earth construction in the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -73,7 +54,6 @@ tags:
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/salamatian_ali"><b>Salamatian</b> Ali</a>, <a href="../../../author/gosslar_joschua"><b>Gosslar</b> Joschua</a>, <a href="../../../author/dorresteijn_evelien"><b>Dorresteijn</b> Evelien</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../klof_sala_goss_dorr.2024.RRECR/">Robotic Rammed Earth-Concrete (RREC):<br/>A Novel Additive Manufacturing Technology to Strengthen Rammed Earth Structures by Integrated Rammed Concrete Parts</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
@@ -84,8 +64,8 @@ tags:
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "59 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mato_milh_varu.2025.NTfEC/">New Technologies for Earth Construction:<br/>3D Printing, a Reality or a Mirage?</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
@@ -146,4 +126,34 @@ tags:
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/huang_mojia"><b>Huang</b> Mojia</a>, <a href="../../../author/xin_jie"><b>Xin</b> Jie</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../liu_jian_huan_xin.2022.TFaHPo3PCBMwSCNT/">The Fresh and Hardened Properties of 3D Printing Cement-Base Materials with Self-Cleaning Nano-TiO2:<br/>An Exploratory Study</a></li>
       <li><a href="../../../author/ma_jiaming"><b>Ma</b> Jiaming</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a>, <a href="../../../author/javan_rezaee_anooshe"><b>Javan</b> Anooshe</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ma_goma_bao_java.2022.PN/">Print Nervi:<br/>Design and Construction of a Ribbed Floor System in the Digital Era</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{goma_jabi_soeb_xie.2022.DMfEC,
+      author            = "Mohamed Gomaa and Wassim Jabi and Veronica Soebarto and Yi Min Xie",
+      title             = "Digital Manufacturing for Earth Construction: A Critical Review",
+      doi               = "10.1016/j.jclepro.2022.130630",
+      year              = "2022",
+      journal           = "Journal of Cleaner Production",
+      volume            = "338",
+      pages             = "130630",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Gomaa, W. Jabi, V. Soebarto and Y. M. Xie, “Digital Manufacturing for Earth Construction: A Critical Review”, <i>Journal of Cleaner Production</i>, vol. 338, p. 130630, 2022, doi: 10.1016/j.jclepro.2022.130630.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gomaa, Mohamed, Wassim Jabi, Veronica Soebarto, and Yi Min Xie. “Digital Manufacturing for Earth Construction: A Critical Review”. <i>Journal of Cleaner Production</i> 338 (2022): 130630. https://doi.org/10.1016/j.jclepro.2022.130630.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

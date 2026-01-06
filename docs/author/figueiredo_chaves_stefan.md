@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Figueiredo Stefan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../over_figu_savi_bos.2022.DaAoPSHCCwOPSD/">Design and Analyses of Printable Strain-Hardening Cementitious Composites with Optimized Particle-Size-Distribution</a></li>
   <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../figu_over_nefs_schl.2020.QAoPSHCCMiTDPF/">Quality-Assessment of Printable Strain-Hardening Cementitious Composites Manufactured in Two Different Printing Facilities</a></li>
   <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../figu_rodr_ahme_bos.2020.MBoPSHCC/">Mechanical Behavior of Printed Strain-Hardening Cementitious Composites</a></li>

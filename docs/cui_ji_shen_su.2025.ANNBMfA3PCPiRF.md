@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weijiu Cui, Dongsheng Ji, Liang Shen, Shiyong Su, Xinyu Shi, Jidong Liu, Zirui Bai, Yubo Sun, Jian Gong, Yaxin Tao
+    - footer
+title: Cui Weijiu, Ji Dongsheng, Shen Liang, Su Shiyong, Shi Xinyu, Liu Jidong, Bai Zirui, Sun Yubo, Gong Jian, Tao Yaxin
 description:
 tags:
  - assessment
@@ -18,40 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rineng.2025.105970) A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.rineng.2025.105970" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2025.105970</a>
+#A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2025.105970) <a href="https://doi.org/10.1016/j.rineng.2025.105970" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.105970" target="_blank">10.1016/j.rineng.2025.105970</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <a href="../../../author/ji_dongsheng"><b>Ji</b>&nbsp;Dongsheng</a></span>, <a href="../../../author/shen_liang"><b>Shen</b>&nbsp;Liang</a></span>, <a href="../../../author/su_shiyong"><b>Su</b>&nbsp;Shiyong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <a href="../../../author/liu_jidong"><b>Liu</b>&nbsp;Jidong</a></span>, <a href="../../../author/bai_zirui"><b>Bai</b>&nbsp;Zirui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8348-8280" title="ORCID: 0000-0001-8348-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yubo"><b>Sun</b>&nbsp;Yubo</a></span>, <a href="../../../author/gong_jian"><b>Gong</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
+Journal Article - Results in Engineering, No. 105970
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>
-,     <a href="../../../author/shen_liang"><b>Shen</b> Liang</a>
-,     <a href="../../../author/su_shiyong"><b>Su</b> Shiyong</a>
-,     <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> <a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_jidong"><b>Liu</b> Jidong</a>
-,     <a href="../../../author/bai_zirui"><b>Bai</b> Zirui</a>
-,     <a href="../../../author/sun_yubo"><b>Sun</b> Yubo</a> <a href="https://orcid.org/0000-0001-8348-8280" title="ORCID: 0000-0001-8348-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, No. 105970
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#model`](keyword/model)
-    [`#network`](keyword/network)
-    [`#neural`](keyword/neural)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Neural%20Network-Based%20Model%20for%20Assessing%203D%20Printable%20Concrete%20Performance%20in%20Robotic%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009284284&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411659728" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2025.105970" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2025.105970?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing has advanced rapidly in the construction industry, offering benefits such as faster construction, reduced labor demands, and minimized material waste. Nevertheless, the mixture design process for 3D printable concrete remains largely dependent on trial-and-error methods, which are both time-consuming and resource-intensive. This study proposes a neural network-based approach to predict the performance of 3D printable concrete. Key mixture parameters, including the water-to-binder ratio, sand-to-binder ratio, and fly ash content, are identified, and experiments are conducted to assess printability and mechanical properties across various formulations. Based on experimental results, a back-propagation neural network (BPNN) model is developed and trained using multiple inputs, including flowability, setting time, extrusion width, printing height, compressive strength, and flexural strength, to predict optimal mixture proportions. Additionally, grey correlation analysis is employed to evaluate the influence of each input parameter on the model's predictions. The sensitivity analysis highlights that flowability and mechanical strength are the most critical factors affecting prediction accuracy, while extrusion width and printing height exert a comparatively smaller influence.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -100,9 +70,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_ji_shen_su.2025.ANNBMfA3PCPiRF,
+      author            = "Weijiu Cui and Dongsheng Ji and Liang Shen and Shiyong Su and Xinyu Shi and Jidong Liu and Zirui Bai and Yubo Sun and Jian Gong and Yaxin Tao",
+      title             = "A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication",
+      doi               = "10.1016/j.rineng.2025.105970",
+      year              = "2025",
+      journal           = "Results in Engineering",
+      pages             = "105970",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Cui, “A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication”, <i>Results in Engineering</i>, p. 105970, 2025, doi: 10.1016/j.rineng.2025.105970.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Weijiu, Dongsheng Ji, Liang Shen, Shiyong Su, Xinyu Shi, Jidong Liu, Zirui Bai, Yubo Sun, Jian Gong, and Yaxin Tao. “A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication”. <i>Results in Engineering</i>, 2025, 105970. https://doi.org/10.1016/j.rineng.2025.105970.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

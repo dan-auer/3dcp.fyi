@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiling Luo, Ke-Ke Yu, Wujian Long, Shuyi Zheng, Songyuan Geng, Ganlin Feng, Hailong Wang, Zhanghong Qiu
+    - footer
+title: Luo Qiling, Yu Ke-Ke, Long Wujian, Zheng Shuyi, Geng Songyuan, Feng Ganlin, Wang Hailong, Qiu Zhanghong
 description:
 tags:
  - adhesion
@@ -20,40 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03517) Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03517" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03517</a>
+#Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03517) <a href="https://doi.org/10.1016/j.cscm.2024.e03517" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03517" target="_blank">10.1016/j.cscm.2024.e03517</a>
 
--------------------------
+<a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <a href="../../../author/yu_ke-ke"><b>Yu</b>&nbsp;Ke-Ke</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7015-5719" title="ORCID: 0000-0001-7015-5719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zheng_shuyi"><b>Zheng</b>&nbsp;Shuyi</a></span>, <a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <a href="../../../author/feng_ganlin"><b>Feng</b>&nbsp;Ganlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <a href="../../../author/qiu_zhanghong"><b>Qiu</b>&nbsp;Zhanghong</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03517
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>
-,     <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>
-,     <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> <a href="https://orcid.org/0000-0001-7015-5719" title="ORCID: 0000-0001-7015-5719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>
-,     <a href="../../../author/feng_ganlin"><b>Feng</b> Ganlin</a>
-,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qiu_zhanghong"><b>Qiu</b> Zhanghong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03517
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#fresh`](keyword/fresh)
-    [`#influence`](keyword/influence)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#mechanics`](keyword/mechanics)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Different%20Types%20of%20Superabsorbent%20Polymers%20on%20Fresh%20Mechanical%20Properties%20and%20Inter-Layer%20Adhesion%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198256857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400519739" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03517" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03517?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete (3DPC) is an essential technology for achieving efficient, precise, and sustainable construction. Nevertheless, due to limitations in materials and processes, 3DPC is prone to insufficient green strength and weakness in the interlayer area, which can result in print collapse and diminish its interlayer adhesion strength. Therefore, understanding green strength and interlayer adhesion strength of 3DPC is crucial for ensuring its structural safety. Superabsorbent polymer (SAP) serves as a novel type of concrete admixture, demonstrating the potential to promote green strength development and augment interlayer adhesion properties by facilitating the hydration process through water absorption and release. This study presents the first investigation into the effects of two commercially available SAPs on green strength and interlayer adhesion of 3D printed concrete. The role of SAP in improving interlayer adhesion performance in 3DPC is further elucidated through X-ray diffraction (XRD), Scanning electron microscopy (SEM). The results indicate that, compared to the control group, in the absence of added compensated water to SA1, the compressive strength at 15 min and splitting tensile strength of the printed specimen at 28 d increased by 282 % and 24.9 %, respectively, whereas SA2 demonstrates a relatively weaker enhancement effect. This study demonstrates that SAP promotes structural accumulation during the 3DPC printing stage, thereby presenting itself as a favorable material choice for applications involving 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../chen_lian_zhan_li.2023.CSPBUaRMfCMitCo3CP/">Can Superabsorbent Polymers Be Used as Rheology-Modifiers for Cementitious Materials in the Context of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/toosumran_nuttapon"><b>Toosumran</b> Nuttapon</a>, <a href="../../../author/chehab_noura"><b>Chehab</b> Noura</a>, <a href="../../../author/spanjers_henri"><b>Spanjers</b> Henri</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../chen_toos_cheh_span.2022.FSoUDBtCtSaEAHo3PCM/">Feasibility Study of Using Desalination-Brine to Control the Stiffness and Early-Age Hydration of 3D Printable Cementitious Materials</a></li>
@@ -102,12 +72,43 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
       <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a>, <a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a>, <a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a>, <a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nan_qiao_leng_bai.2025.ASRi3PC/">Advancing Structural Reinforcement in 3D Printed Concrete:<br/>Current Methods, Challenges, and Innovations</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC,
+      author            = "Qiling Luo and Ke-Ke Yu and Wujian Long and Shuyi Zheng and Songyuan Geng and Ganlin Feng and Hailong Wang and Zhanghong Qiu",
+      title             = "Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete",
+      doi               = "10.1016/j.cscm.2024.e03517",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "21",
+      pages             = "e03517",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Luo, “Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete”, <i>Case Studies in Construction Materials</i>, vol. 21, p. e03517, 2024, doi: 10.1016/j.cscm.2024.e03517.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Qiling, Ke-Ke Yu, Wujian Long, Shuyi Zheng, Songyuan Geng, Ganlin Feng, Hailong Wang, and Zhanghong Qiu. “Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete”. <i>Case Studies in Construction Materials</i> 21 (2024): e03517. https://doi.org/10.1016/j.cscm.2024.e03517.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

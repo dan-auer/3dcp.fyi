@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Li, Ata Zahedi, Frank Petzold
+    - footer
+title: Li Chao, Zahedi Ata, Petzold Frank
 description:
 tags:
  - additive
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/12/2072/pdf?version=1671496195) Pragmatic Design Decision Support for Additive Construction Using Formal Knowledge and Its Prospects for Synergy with a Feedback Mechanism ([2022-11](date/2022/11))
-<a href="https://doi.org/10.3390/buildings12122072" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12122072</a>
+#Pragmatic Design Decision Support for Additive Construction Using Formal Knowledge and Its Prospects for Synergy with a Feedback Mechanism ([2022-11](date/2022/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/12/2072/pdf?version=1671496195) <a href="https://doi.org/10.3390/buildings12122072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12122072" target="_blank">10.3390/buildings12122072</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1385-071X" title="ORCID: 0000-0003-1385-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_chao"><b>Li</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0296-9205" title="ORCID: 0000-0003-0296-9205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahedi_ata"><b>Zahedi</b>&nbsp;Ata</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8974-0926" title="ORCID: 0000-0001-8974-0926" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petzold_frank"><b>Petzold</b>&nbsp;Frank</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 12
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_chao"><b>Li</b> Chao</a> <a href="https://orcid.org/0000-0003-1385-071X" title="ORCID: 0000-0003-1385-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zahedi_ata"><b>Zahedi</b> Ata</a> <a href="https://orcid.org/0000-0003-0296-9205" title="ORCID: 0000-0003-0296-9205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/petzold_frank"><b>Petzold</b> Frank</a> <a href="https://orcid.org/0000-0001-8974-0926" title="ORCID: 0000-0001-8974-0926" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 12, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#decision`](keyword/decision)
-    [`#design`](keyword/design)
-    [`#feedback`](keyword/feedback)
-    [`#knowledge`](keyword/knowledge)
-    [`#mechanism`](keyword/mechanism)
-    [`#support`](keyword/support)
-    [`#synergy`](keyword/synergy)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/knowledge"><button class="btn">#knowledge</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Pragmatic%20Design%20Decision%20Support%20for%20Additive%20Construction%20Using%20Formal%20Knowledge%20and%20Its%20Prospects%20for%20Synergy%20with%20a%20Feedback%20Mechanism" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144885815&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4310215145" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12122072" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12122072?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry has long been labor-intensive, with slow productivity growth and a significant environmental impact. In this regard, the ever-increasing practices of additive manufacturing (AM) in construction have presented a variety of advantages and are deemed one of the critical technologies for the concept of Construction 4.0. Building information modeling (BIM) as an enabler for the digital transformation in the architecture, engineering, and construction (AEC) domain provides a framework for considering novel AM methods during the early stages of archi- tectural design. It is known that decisions during early design stages significantly impact the sub- sequent planning and construction phases, whereas missing AM knowledge by architects and en- gineers could in turn impede the adoption of AM technologies when the early determination of appropriate manufacturing methods needs to be made. Meanwhile, the early stages of architectural design are characterized by vagueness, uncertainty, and incompleteness, which have to be clarified iteratively by both architects and domain experts. To this end, this paper introduces a knowledge- driven design decision support prospectively coupled with a feedback mechanism under the BIM methodology. As such, architects can be assisted in choosing appropriate construction methods during the early stages of architectural design.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
@@ -75,7 +53,6 @@ tags:
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../freu_mai_lowk.2020.StBPoVISRitS3PP/">Studying the Bond Properties of Vertical Integrated Short Reinforcement in the Shotcrete 3D Printing Process</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
-      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/lydon_gearoid"><b>Lydon</b> Gearóid</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jipa_lydo_yoo_chou.2024.H/">HiRes:<br/>3D Printed Formwork for an Integrated Slab</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2b/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
@@ -89,9 +66,39 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/petzold_frank"><b>Petzold</b> Frank</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_petz.2025.ODMoDD/">Ontology-Driven Mixture-of-Domain Documentation:<br/>A Backbone Approach Enabling Question Answering for Additive Construction</a></li>
       <li><a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a>, <a href="../../../author/ahmad_e_muhammad"><b>Ahmad</b> Muhammad</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../pera_ahma_smar.2023.PIMfAMoCS/">Printing-Information-Modeling for Additive Manufacturing of Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_zahe_petz.2022.PDDSfACUFKaIPfSwaFM,
+      author            = "Chao Li and Ata Zahedi and Frank Petzold",
+      title             = "Pragmatic Design Decision Support for Additive Construction Using Formal Knowledge and Its Prospects for Synergy with a Feedback Mechanism",
+      doi               = "10.3390/buildings12122072",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "12",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Li, A. Zahedi and F. Petzold, “Pragmatic Design Decision Support for Additive Construction Using Formal Knowledge and Its Prospects for Synergy with a Feedback Mechanism”, <i>Buildings</i>, vol. 12, no. 12, 2022, doi: 10.3390/buildings12122072.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Chao, Ata Zahedi, and Frank Petzold. “Pragmatic Design Decision Support for Additive Construction Using Formal Knowledge and Its Prospects for Synergy with a Feedback Mechanism”. <i>Buildings</i> 12, no. 12 (2022). https://doi.org/10.3390/buildings12122072.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

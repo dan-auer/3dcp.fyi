@@ -8,7 +8,7 @@ search:
 
 # #quasi
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.SAo3PCWUQSCLUCMM/">Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model</a></li>
   <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/yu_jiamian"><b>Yu</b> Jiamian</a>, <a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_bu_yu_shao.2024.FBoTR3PCUQSaDIL/">Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads</a></li>
   <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/chen_bingzhi"><b>Chen</b> Bingzhi</a>, <a href="../../../author/liu_qimin"><b>Liu</b> Qimin</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../he_chen_liu_chen.2024.AQEDoIVaIEotILSo3PC/">A Quasi-Exponential Distribution of Interfacial Voids and Its Effect on the Inter-Layer Strength of 3D Printed Concrete</a></li>

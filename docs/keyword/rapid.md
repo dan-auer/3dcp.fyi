@@ -8,7 +8,7 @@ search:
 
 # #rapid
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
   <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>
   <li><a href="../../../author/gonsalves_a_nicolas"><b>Gonsalves</b> Nicolas</a>, <a href="../../../author/morgan_ashlei"><b>Morgan</b> Ashlei</a>, <a href="../../../author/thiele_heidi"><b>Thiele</b> Heidi</a>, <a href="../../../author/olarra_andre"><b>Olarra</b> Andre</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gons_morg_thie_olar.2025.3PoSIURSCCwBA/">3D Printing of Sustainable Infrastructure Using Rapid-Set Clay Concrete with Biobased Additives</a></li>

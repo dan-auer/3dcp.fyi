@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ya Ou, Ding Bao, Guan-Qi Zhu, Dan Luo
+    - footer
+title: Ou Ya, Bao Ding, Zhu Guan-Qi, Luo Dan
 description:
 tags:
  - additive
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831540) Additive Fabrication of Large-Scale Customizable Formwork Using Robotic Fiber-Reinforced Polymer Winding ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1089/3dp.2020.0358" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2020.0358</a>
+#Additive Fabrication of Large-Scale Customizable Formwork Using Robotic Fiber-Reinforced Polymer Winding ([2022-04](date/2022/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831540) <a href="https://doi.org/10.1089/3dp.2020.0358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0358" target="_blank">10.1089/3dp.2020.0358</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3795-3852" title="ORCID: 0000-0003-3795-3852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ou_ya"><b>Ou</b>&nbsp;Ya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bao_wen_ding"><b>Bao</b>&nbsp;Ding</a></span>, <a href="../../../author/zhu_guan-qi"><b>Zhu</b>&nbsp;Guan-Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1760-0451" title="ORCID: 0000-0003-1760-0451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luo_dan"><b>Luo</b>&nbsp;Dan</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, pp. 109-121
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ou_ya"><b>Ou</b> Ya</a> <a href="https://orcid.org/0000-0003-3795-3852" title="ORCID: 0000-0003-3795-3852" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_guan-qi"><b>Zhu</b> Guan-Qi</a>
-,     <a href="../../../author/luo_dan"><b>Luo</b> Dan</a> <a href="https://orcid.org/0000-0003-1760-0451" title="ORCID: 0000-0003-1760-0451" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, pp. 109-121
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#customization`](keyword/customization)
-    [`#fabrication`](keyword/fabrication)
-    [`#fiber`](keyword/fiber)
-    [`#formwork`](keyword/formwork)
-    [`#large`](keyword/large)
-    [`#polymer`](keyword/polymer)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Fabrication%20of%20Large-Scale%20Customizable%20Formwork%20Using%20Robotic%20Fiber-Reinforced%20Polymer%20Winding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129250161&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3199994526" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2020.0358" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2020.0358?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Based on the established system of concrete-filled fiber-reinforced polymer (FRP) tube (CFFT) in civil engineering and construction industry, this research presents a novel fabrication method for freeform FRP formwork through an additive process of winding FRP fabric with industrial robots. Different from the filament winding or fused deposition modeling process in additive manufacture, large-scale formwork is fabricated with layered winding of FRP fabric and simultaneously applying fast cure epoxy resin in the proposed methods. It increases the fabrication speed and material efficiency compared with the typical fabrication process of FRP formworks, and achieved the geometry flexibility from the numerically controlled additive process. The fabrication methods are developed through a series of preliminary tests, exploring the appropriate fabrication parameters, such as the overlapping height of each layer, winding speed, and epoxy resin type. Two additional prototypes addressing geometrical flexibility are also fabricated. Based on the feasibility studies, the article discussed the potential application of this system on a double-skin tubular arch (DSTA) bridge and a tree-like topological optimized column as the future outlook of this method. As developed based on the established construction systems such as CFFTs and DSTAs, not only the proposed system is compatible with current structure and construction system, but it also benefits from combining an off-shelf material with a flexible and accurate programmable robotic process. This research contributes to the scope of additive manufacturing system by targeting the fabrication of nonuniform optimized large-scale structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
@@ -80,8 +56,39 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ou_bao_zhu_luo.2022.AFoLSCFURFRPW,
+      author            = "Ya Ou and Ding Wen Bao and Guan-Qi Zhu and Dan Luo",
+      title             = "Additive Fabrication of Large-Scale Customizable Formwork Using Robotic Fiber-Reinforced Polymer Winding",
+      doi               = "10.1089/3dp.2020.0358",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+      volume            = "9",
+      number            = "2",
+      pages             = "109--121",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Ou, D. W. Bao, G.-Q. Zhu and D. Luo, “Additive Fabrication of Large-Scale Customizable Formwork Using Robotic Fiber-Reinforced Polymer Winding”, <i>3D Printing and Additive Manufacturing</i>, vol. 9, no. 2, pp. 109–121, 2022, doi: 10.1089/3dp.2020.0358.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ou, Ya, Ding Wen Bao, Guan-Qi Zhu, and Dan Luo. “Additive Fabrication of Large-Scale Customizable Formwork Using Robotic Fiber-Reinforced Polymer Winding”. <i>3D Printing and Additive Manufacturing</i> 9, no. 2 (2022): 109–21. https://doi.org/10.1089/3dp.2020.0358.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

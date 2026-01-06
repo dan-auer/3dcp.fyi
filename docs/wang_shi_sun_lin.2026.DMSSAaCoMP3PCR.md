@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hailong Wang, Yiqing Shi, Xiaoyan Sun, Xiqiang Lin, Yinlin Ye
+    - footer
+title: Wang Hailong, Shi Yiqing, Sun Xiaoyan, Lin Xiqiang, Ye Yinlin
 description:
 tags:
  - analysis
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.autcon.2025.106705" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106705</a>
+#Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2025.106705" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106705" target="_blank">10.1016/j.autcon.2025.106705</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <a href="../../../author/shi_yiqing"><b>Shi</b>&nbsp;Yiqing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <a href="../../../author/lin_xiqiang"><b>Lin</b>&nbsp;Xiqiang</a></span>, <a href="../../../author/ye_yinlin"><b>Ye</b>&nbsp;Yinlin</a></span><br>
+Journal Article - Automation in Construction, Vol. 182, No. 106705
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>
-,     <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>
-,     <a href="../../../author/ye_yinlin"><b>Ye</b> Yinlin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 182, No. 106705
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#modular`](keyword/modular)
-    [`#multi`](keyword/multi)
-    [`#prefabrication`](keyword/prefabrication)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%2C%20Multi-Scale%20Structural%20Analysis%2C%20and%20Construction%20of%20Modular%20Prefabricated%203D-Printed%20Concrete%20Residence" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7113902376" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106705" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106705?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Residential building construction is increasingly challenged by labour shortages and limited funding. Modular prefabricated 3D printing concrete (3DPC) technology, integrated with digital design and automated construction, offers an efficient and standardised solution to the construction of residential buildings, and has seen emerging applications worldwide. This paper presents the process from architectural and structural design based on one digital model to 3D printing and assembly of a modular prefabricated 3DPC residence, incorporating a multi-scale numerical simulation method for structural analysis. The study identifies the primary limitation of modular 3DPC as the size constraints imposed by printing and transportation equipment. A case study in Hebei Province, China, demonstrates the practicality. Results indicate that under the most unfavourable conditions, the maximum stresses are within 1.3 % of the limit values, ensuring a high safety margin. The 3DPC residence demonstrates time and cost savings, with digital design optimizing coordination among structural, architectural, and MEP systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../aram_cald_puen.2023.PMo3PCSBwRUBM/">Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
@@ -118,7 +93,37 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zhao_wang_sun_wang.2024.AIPRTQMfAMiC/">Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_shi_sun_lin.2026.DMSSAaCoMP3PCR,
+      author            = "Hailong Wang and Yiqing Shi and Xiaoyan Sun and Xiqiang Lin and Yinlin Ye",
+      title             = "Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence",
+      doi               = "10.1016/j.autcon.2025.106705",
+      year              = "2026",
+      journal           = "Automation in Construction",
+      volume            = "182",
+      pages             = "106705",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Wang, Y. Shi, X. Sun, X. Lin and Y. Ye, “Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence”, <i>Automation in Construction</i>, vol. 182, p. 106705, 2026, doi: 10.1016/j.autcon.2025.106705.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Hailong, Yiqing Shi, Xiaoyan Sun, Xiqiang Lin, and Yinlin Ye. “Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence”. <i>Automation in Construction</i> 182 (2026): 106705. https://doi.org/10.1016/j.autcon.2025.106705.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

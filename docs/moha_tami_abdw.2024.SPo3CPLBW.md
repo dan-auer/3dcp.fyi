@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arafat Mohammed, Adil Tamimi, Ahmed Abdwais
+    - footer
+title: Mohammed Arafat, Tamimi Adil, Abdwais Ahmed
 description:
 tags:
  - bearing
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Performance of 3D Concrete Printed Load-Bearing Walls ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1007/s40964-024-00914-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-024-00914-4</a>
+#Structural Performance of 3D Concrete Printed Load-Bearing Walls ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-024-00914-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00914-4" target="_blank">10.1007/s40964-024-00914-4</a>
 
--------------------------
+<a href="../../../author/mohammed_a_arafat"><b>Mohammed</b>&nbsp;Arafat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tamimi_k_adil"><b>al&nbsp;Tamimi</b>&nbsp;Adil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2178-4217" title="ORCID: 0000-0002-2178-4217" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdwais_h_ahmed"><b>al&nbsp;Abdwais</b>&nbsp;Ahmed</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mohammed_a_arafat"><b>Mohammed</b> Arafat</a>
-,     <a href="../../../author/tamimi_k_adil"><b>al Tamimi</b> Adil</a> <a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abdwais_h_ahmed"><b>al Abdwais</b> Ahmed</a> <a href="https://orcid.org/0000-0002-2178-4217" title="ORCID: 0000-0002-2178-4217" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bearing`](keyword/bearing)
-    [`#concrete`](keyword/concrete)
-    [`#load`](keyword/load)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance%20of%203D%20Concrete%20Printed%20Load-Bearing%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212037823&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405383144" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-024-00914-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-024-00914-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Modern construction techniques have evolved in recent years with the introduction of 3D concrete printing (3DCP) technology. This innovative digital construction approach offers rapid, cost-effective, and sustainable solutions. The 3DCP walls used as load-bearing walls are an essential component and the primary section of the 3D printed constructions. Therefore, this study investigates the behavior of large-scale 3DCP walls under axial loading to evaluate their load-bearing capacity. The used mix consists of optimized materials, including glass fibers (GF) for fiber reinforcement, enhanced mechanical properties, and crack resistance. Rheological testing ensured the mix’s quality and efficiency, assessing properties like extrudability, flowability, and buildability. Mechanical tests confirmed the mix as high-strength concrete with 85 MPa compressive strength. Uniform axial compression loading tests were conducted to analyze the structural behavior, deformation, and crack patterns of 3DCP load-bearing walls with different cross-section configurations. The walls were categorized into two types: gapped walls, which include GLBW-3T (three-truss gapped wall), GLBW-4T (four-truss gapped wall), and GLBW-5T (five-truss gapped wall), and a solid wall (SLBW), which is a fully solid section designed to achieve the sectional maximum load-bearing capacity. In this study, material consumption was a key factor in identifying the optimal and economical structural efficiency. The SLBW exhibited the highest resistance to cracking with a crack load-to-volume ratio of 4.02 N/cm3. Conversely, GLBW-3T and GLBW-5T, both featuring gapped sections with varying truss configurations, showed similar efficiency with crack load-to-volume ratios of 3.12 N/cm3 and 3.04 N/cm3, respectively. GLBW-4T demonstrated the least efficient performance, with a crack load-to-volume ratio of 2.48 N/cm3. Moreover, the crack pattern intensity and structural stability were highest in the SLBW, followed by the GLBW-3T, while, the GLBW-5T performed the least favorably. This study underscores the superior structural performance and material efficiency of the GLBW-3T configuration, achieving an optimal balance of material use and structural integrity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -88,9 +68,37 @@ tags:
       <li><a href="../../../author/tu_haidong"><b>Tu</b> Haidong</a>, <a href="../../../author/wei_zhenyun"><b>Wei</b> Zhenyun</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/kahla_nabil"><b>Kahla</b> Nabil</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tu_wei_bahr_kahl.2023.RAaFTi3PCUWM/">Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../oztu_borg_ince.2026.3PitCS/">3D Printing in the Construction Sector:<br/>Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature</a></li>
       <li><a href="../../../author/manny_agemar"><b>Manny</b> Agemar</a>, <a href="../../../author/dehn_frank"><b>Dehn</b> Frank</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../mann_dehn.2025.Bo3PiCC/">Basics of 3D Printing in Concrete Construction:<br/>Recommendations for Practice</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moha_tami_abdw.2024.SPo3CPLBW,
+      author            = "Arafat A. Mohammed and Adil K. Al Tamimi and Ahmed H. Al Abdwais",
+      title             = "Structural Performance of 3D Concrete Printed Load-Bearing Walls",
+      doi               = "10.1007/s40964-024-00914-4",
+      year              = "2024",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. A. Mohammed, A. K. A. Tamimi and A. H. A. Abdwais, “Structural Performance of 3D Concrete Printed Load-Bearing Walls”, <i>Progress in Additive Manufacturing</i>, 2024, doi: 10.1007/s40964-024-00914-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mohammed, Arafat A., Adil K. Al Tamimi, and Ahmed H. Al Abdwais. “Structural Performance of 3D Concrete Printed Load-Bearing Walls”. <i>Progress in Additive Manufacturing</i>, 2024. https://doi.org/10.1007/s40964-024-00914-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

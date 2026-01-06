@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ghasan Huseien, Shea Tan, Ali Saleh, Nor Lim, Sib Ghoshal
+    - footer
+title: Huseien Ghasan, Tan Shea, Saleh Ali, Lim Nor, Ghoshal Sib
 description:
 tags:
  - analysis
@@ -21,38 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/9/2667/pdf?version=1724759592) Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>:aca-blank: A Review and Bibliometric Analysis ([2024-08](date/2024/08))
-<a href="https://doi.org/10.3390/buildings14092667" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14092667</a>
+#Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">A Review and Bibliometric Analysis</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/9/2667/pdf?version=1724759592) <a href="https://doi.org/10.3390/buildings14092667" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14092667" target="_blank">10.3390/buildings14092667</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2963-0335" title="ORCID: 0000-0002-2963-0335" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b>&nbsp;Ghasan</a></span>, <a href="../../../author/tan_qin_shea"><b>Tan</b>&nbsp;Shea</a></span>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8778-9347" title="ORCID: 0000-0001-8778-9347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b>&nbsp;Nor</a></span>, <a href="../../../author/ghoshal_k_sib"><b>Ghoshal</b>&nbsp;Sib</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 9, No. 2667
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a> <a href="https://orcid.org/0000-0002-2963-0335" title="ORCID: 0000-0002-2963-0335" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>
-,     <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>
-,     <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> <a href="https://orcid.org/0000-0001-8778-9347" title="ORCID: 0000-0001-8778-9347" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghoshal_k_sib"><b>Ghoshal</b> Sib</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 9, No. 2667
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#bibliometry`](keyword/bibliometry)
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#dimension`](keyword/dimension)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixing`](keyword/mixing)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#proportion`](keyword/proportion)
-    [`#review`](keyword/review)
-    [`#test`](keyword/test)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Test-Procedures%20and%20Mechanical%20Properties%20of%20Three-Dimensional%20Printable%20Concrete%20Enclosing%20Different%20Mix-Proportions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205220074&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401909185" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14092667" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14092667?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printable concrete (3DPC) has become increasingly popular in the building and architecture industries due to its low cost and fast design. Currently, there is great interest in the mix design methods and mechanical properties of 3DPC, particularly in relation to yield stress analysis. The ability to extrude and build 3D-printed objects can be significantly affected by factors such as the rate of extrusion, nozzle size, and type of pumps used. It has been observed that a yield stress lower than 1.5 to 2.5 kPa is not sufficient to maintain the shape stability of concrete, while a yield stress above this range can limit the material’s extrudability. Furthermore, the strength properties of 3DPC are influenced by factors such as changes in yield stress and superplasticiser dosages. To meet the high mechanical strength and durability requirements of 3DPC in the construction industry, it is essential to analyse the material’s early-age mechanical properties. However, the development of standardised test methods for 3DPC is still deficient. To address this issue, a bibliometric analysis was conducted to comprehensively review the diverse test methods and mechanical characteristics of 3DPC with different mix proportions. To produce high-performance concrete from various additives and waste materials, it is critical to have a basic understanding of the hydration processes of 3DPC. Moreover, a detailed analysis of the environmental impact and energy efficiency of 3DPC is necessary for its widespread implementation. This review article will highlight the recent trends, upcoming challenges, and benefits of using 3DPC. It serves as a taxonomy to navigate the field of 3DPC towards sustainable development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "126 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
@@ -172,7 +145,6 @@ tags:
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rama_pasu_mech_sanj.2024.PHMoGaOSfHAACi3CP/">Print-Head Mixing of Geopolymer and OPC Slurries for Hybrid Alkali-Activated Cement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rei_nere_mech.2022.MDaRBoSCBMitCo3P/">Material-Design and Rheological Behavior of Sustainable Cement-Based Materials in the Context of 3D Printing</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sael_wan_casp_titt.2024.MVRwAM/">Material-Volume Reduction with Additive Manufacturing:<br/>Challenges for Structural Application</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
@@ -206,10 +178,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{huse_tan_sale_lim.2024.TPaMPoTDPCEDMP,
+      author            = "Ghasan Fahim Huseien and Shea Qin Tan and Ali Taha Saleh and Nor Hasanah Abdul Shukor Lim and Sib K. Ghoshal",
+      title             = "Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions: A Review and Bibliometric Analysis",
+      doi               = "10.3390/buildings14092667",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "9",
+      pages             = "2667",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. F. Huseien, S. Q. Tan, A. T. Saleh, N. H. A. S. Lim and S. K. Ghoshal, “Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions: A Review and Bibliometric Analysis”, <i>Buildings</i>, vol. 14, no. 9, p. 2667, 2024, doi: 10.3390/buildings14092667.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Huseien, Ghasan Fahim, Shea Qin Tan, Ali Taha Saleh, Nor Hasanah Abdul Shukor Lim, and Sib K. Ghoshal. “Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions: A Review and Bibliometric Analysis”. <i>Buildings</i> 14, no. 9 (2024): 2667. https://doi.org/10.3390/buildings14092667.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

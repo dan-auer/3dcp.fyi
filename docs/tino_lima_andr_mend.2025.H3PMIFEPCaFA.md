@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matheus Tinoco, Rayane Lima Moura Paiva, Luiza Andrade, Oscar Mendoza Reales
+    - footer
+title: Tinoco Matheus, Lima Moura Paiva Rayane, Andrade Luiza, Mendoza Reales Oscar
 description:
 tags:
  - alternative
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s44242-025-00089-3.pdf) Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>:aca-blank: A Sustainable Alternative to Cement-Intensive Systems ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1007/s44242-025-00089-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44242-025-00089-3</a>
+#Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash&nbsp;([2025-12](date/2025/12))
+<div class="h1-like">A Sustainable Alternative to Cement-Intensive Systems</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44242-025-00089-3.pdf) <a href="https://doi.org/10.1007/s44242-025-00089-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44242-025-00089-3" target="_blank">10.1007/s44242-025-00089-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b>&nbsp;Matheus</a></span>, <a href="../../../author/lima-moura-paiva_rayane"><b>de&nbsp;Lima Moura Paiva</b>&nbsp;Rayane</a></span>, <a href="../../../author/andrade_draeger_luiza"><b>de&nbsp;Andrade</b>&nbsp;Luiza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
+Journal Article - Low-Carbon Materials and Green Construction, Vol. 3, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a> <a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lima-moura-paiva_rayane"><b>de Lima Moura Paiva</b> Rayane</a>
-,     <a href="../../../author/andrade_draeger_luiza"><b>de Andrade</b> Luiza</a>
-,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Low-Carbon Materials and Green Construction, Vol. 3, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#alternative`](keyword/alternative)
-    [`#ash`](keyword/ash)
-    [`#cement`](keyword/cement)
-    [`#earth`](keyword/earth)
-    [`#fine`](keyword/fine)
-    [`#hybrid`](keyword/hybrid)
-    [`#incorporation`](keyword/incorporation)
-    [`#mixture`](keyword/mixture)
-    [`#printability`](keyword/printability)
-    [`#sustainability`](keyword/sustainability)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Hybrid%203D%20Printable%20Mixtures%20Incorporating%20Fine%20Earth%2C%20Portland%20Cement%2C%20and%20Fly%20Ash" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44242-025-00089-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44242-025-00089-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing offers efficiency and design flexibility in construction, but its sustainability is limited by the carbon footprint of cement-based materials. In this sense, the present study proposes hybrid printable matrices with Portland cement (30%–50%), fine earth (50%–70%), and fly ash (0–10%). Hydration and rheology of pastes were analyzed using isothermal calorimetry, thermogravimetric analysis (TGA), and rheometry, while printable mortars were evaluated using a flow table, cone penetration, and uniaxial compression. Environmental performance was assessed through cradle-to-gate life cycle assessment (LCA). Cone penetration tests showed that increasing earth from 50% to 70% raises the structuration rate from 8.6 to 33.1 Pa/min, enhancing buildability but narrowing the open time. Fly ash mitigated this effect by reducing structuration and extending open time. In compression, increasing the mass fraction of earth from 50% to 70% reduced the strength from 19.2 MPa to 5.6 MPa. The mixture containing 60% earth and 10% fly ash achieved 10.7 MPa, showing improved strength at equivalent cement content. Regarding environmental impacts, the climate change potential decreased from 355.1 kg CO₂eq/m3 (50% earth, 50% cement) to 243.1 kg CO₂eq/m3 (60% earth, 30% cement, and 10% fly ash), 32% lower and below the 500–583 kg CO₂eq/m3 reported in the literature for printable mortars. These findings show the potential of earth–fly ash–cement hybrid matrices for eco-friendly, 3D printable mortars with balanced rheological, mechanical, and environmental performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC/">Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete</a></li>
       <li><a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../cava_tole_mend.2024.IoRCPoRoPCBM/">Influence of Recycled Concrete-Powder on Rheology of Printable Cement-Based Matrixes</a></li>
@@ -95,7 +71,37 @@ tags:
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vare_barl_perr.2023.EaSBUo3PCPwFANCaV/">Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../vare_tino_mend_tole.2024.3PCBCRwSF/">3D Printable Cement-Based Composites Reinforced with Sisal-Fibers:<br/>Rheology, Printability and Hardened Properties</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tino_lima_andr_mend.2025.H3PMIFEPCaFA,
+      author            = "Matheus Pimentel Tinoco and Rayane de Lima Moura Paiva and Luiza Draeger de Andrade and Oscar Aurelio Mendoza Reales",
+      title             = "Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash: A Sustainable Alternative to Cement-Intensive Systems",
+      doi               = "10.1007/s44242-025-00089-3",
+      year              = "2025",
+      journal           = "Low-Carbon Materials and Green Construction",
+      volume            = "3",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Tinoco, R. de Lima Moura Paiva, L. D. de Andrade and O. A. M. Reales, “Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash: A Sustainable Alternative to Cement-Intensive Systems”, <i>Low-Carbon Materials and Green Construction</i>, vol. 3, no. 1, 2025, doi: 10.1007/s44242-025-00089-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tinoco, Matheus Pimentel, Rayane de Lima Moura Paiva, Luiza Draeger de Andrade, and Oscar Aurelio Mendoza Reales. “Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash: A Sustainable Alternative to Cement-Intensive Systems”. <i>Low-Carbon Materials and Green Construction</i> 3, no. 1 (2025). https://doi.org/10.1007/s44242-025-00089-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

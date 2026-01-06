@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohsen Shahmirzadi, Aliakbar Gholampour, Alireza Kashani, Tuan Ngo
+    - footer
+title: Shahmirzadi Mohsen, Gholampour Aliakbar, Kashani Alireza, Ngo Tuan
 description:
 tags:
  - behavior
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Shrinkage Behavior of Cementitious 3D Printing Materials:<br/>:aca-blank: Effect of Temperature and Relative Humidity ([2021-09](date/2021/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2021.104238" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2021.104238</a>
+#Shrinkage Behavior of Cementitious 3D Printing Materials&nbsp;([2021-09](date/2021/09))
+<div class="h1-like">Effect of Temperature and Relative Humidity</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104238" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104238" target="_blank">10.1016/j.cemconcomp.2021.104238</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7070-2951" title="ORCID: 0000-0002-7070-2951" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gholampour_aliakbar"><b>Gholampour</b>&nbsp;Aliakbar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ngo_d_tuan"><b>Ngo</b>&nbsp;Tuan</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 124
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b> Mohsen</a> <a href="https://orcid.org/0000-0002-7070-2951" title="ORCID: 0000-0002-7070-2951" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 124, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#humidity`](keyword/humidity)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/humidity"><button class="btn">#humidity</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Shrinkage%20Behavior%20of%20Cementitious%203D%20Printing%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85115608833&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3201285222" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2021.104238" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2021.104238?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based concrete 3D printing is at its infancy and many aspects of this new technology need to be thoroughly investigated to pave the way for its widespread use in construction. Since the inherent drying shrinkage of the hardened cement paste is the source of the drying shrinkage of 3D printed concrete, the shrinkage behavior of cementitious 3D printing materials with very high cement to fine aggregate ratios is one of the major challenges for researchers working on this innovative technology. Besides, due to the absence of formwork in this technique, an outdoor 3D printing environment causes excessive moisture loss and drying shrinkage cracking. This paper presents the first comprehensive investigation on the effects of different outdoor environmental conditions i.e. relative humidity (RH) and temperature on the moisture loss, drying and autogenous shrinkage of cementitious 3D printing materials, considering different sand to cement (S/C), and surface to volume (S/V) ratios of free-formed specimens. Mass loss and length change of mortars which were cured for up to 168 days under standard condition (24 ̊C-50%RH with 24 h of sealed initial curing) were compared with those at 24 ̊C-50%RH, 35 ̊C-85%RH and 35 ̊C-45%RH (free-formed specimens without initial curing) to investigate the effect of outdoor printing environment and the absence of formworks on the deformations caused by shrinkage. The drying shrinkage results indicate that 28 days free-formed specimens under different non-standard curing conditions show a length change up to 30% lower than specimens in the standard environment. Moreover, increasing the sand to cement ratio from 0.8 to 1.0 results in a 10% decrease in the drying shrinkage strain. This study also discusses the higher susceptibility of free-formed specimens to carbonation shrinkage and demonstrates that printed specimens have higher shrinkage deformation in the longer term compared to conventional casting specimens. The results of nitrogen adsorption-desorption analysis also prove that the total porosity in free-formed specimens in all environmental conditions reduces and reaches a finer pore structure after 112 days compared to conventional casting specimens. These results point to the importance of internal or external curing for reducing shrinkage in concrete 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
@@ -92,8 +71,9 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "55 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
@@ -149,4 +129,33 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_ghol_kash_ngo.2021.SBoC3PM,
+      author            = "Mohsen Rezaei Shahmirzadi and Aliakbar Gholampour and Alireza Kashani and Tuan D. Ngo",
+      title             = "Shrinkage Behavior of Cementitious 3D Printing Materials: Effect of Temperature and Relative Humidity",
+      doi               = "10.1016/j.cemconcomp.2021.104238",
+      year              = "2021",
+      journal           = "Cement and Concrete Composites",
+      volume            = "124",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Shahmirzadi, A. Gholampour, A. Kashani and T. D. Ngo, “Shrinkage Behavior of Cementitious 3D Printing Materials: Effect of Temperature and Relative Humidity”, <i>Cement and Concrete Composites</i>, vol. 124, 2021, doi: 10.1016/j.cemconcomp.2021.104238.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahmirzadi, Mohsen Rezaei, Aliakbar Gholampour, Alireza Kashani, and Tuan D. Ngo. “Shrinkage Behavior of Cementitious 3D Printing Materials: Effect of Temperature and Relative Humidity”. <i>Cement and Concrete Composites</i> 124 (2021). https://doi.org/10.1016/j.cemconcomp.2021.104238.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

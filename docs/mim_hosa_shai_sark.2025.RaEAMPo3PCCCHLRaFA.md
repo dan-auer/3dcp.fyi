@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nusrat Mim, Anwar Hosan, Faiz Shaikh, Prabir Sarker
+    - footer
+title: Mim Nusrat, Hosan Anwar, Shaikh Faiz, Sarker Prabir
 description:
 tags:
  - age
@@ -21,37 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rineng.2025.106280) Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.rineng.2025.106280" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2025.106280</a>
+#Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate ([2025-07](date/2025/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2025.106280) <a href="https://doi.org/10.1016/j.rineng.2025.106280" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.106280" target="_blank">10.1016/j.rineng.2025.106280</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5906-2175" title="ORCID: 0000-0001-5906-2175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mim_jahan_nusrat"><b>Mim</b>&nbsp;Nusrat</a></span>, <a href="../../../author/hosan_anwar"><b>Hosan</b>&nbsp;Anwar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b>&nbsp;Faiz</a></span>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b>&nbsp;Prabir</a></span><br>
+Journal Article - Results in Engineering, No. 106280
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> <a href="https://orcid.org/0000-0001-5906-2175" title="ORCID: 0000-0001-5906-2175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a>
-,     <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> <a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, No. 106280
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#aggregate`](keyword/aggregate)
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#copper`](keyword/copper)
-    [`#early`](keyword/early)
-    [`#fine`](keyword/fine)
-    [`#leach`](keyword/leach)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#residual`](keyword/residual)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/leach"><button class="btn">#leach</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/residual"><button class="btn">#residual</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20and%20Early%20Age%20Mechanical%20Properties%20of%203D%20Printed%20Concrete%20Containing%20Copper%20Heap%20Leach%20Residue%20as%20Fine%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010557741&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412437642" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2025.106280" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2025.106280?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The utilization of mine waste as a fine aggregate in 3D printed concrete (3DPC) not only addresses the shortage of natural resources but also provides significant environmental benefits. This research investigates the feasibility of using copper heap leach residue (CHLR) as an alternative to fine aggregate in the 3DPC. The workability, rheological properties, buildability, hydration properties, and early-age mechanical strength of 3DPC incorporating varying dosages (0%, 25%, 50%, 75% and 100%) of CHLR are evaluated. The findings reveal that increasing CHLR content leads to reduced flowability and faster fluidity loss, primarily due to CHLR’s rough surface texture, flaky morphology, and high-water absorption, which increase internal friction and disrupt particle packing. Despite this, appropriate dosages of high-range water-reducing admixtures and set accelerators ensured a consistent 45-minute printing window. Setting times shortened with higher CHLR dosages due to enhanced hydration kinetics, while buildability improved up to 75% replacement, beyond which excessive pore formation hindered structural stability. Rheological measurements revealed higher yield stress and plastic viscosity, indicating enhanced thixotropy and interparticle interaction. The compressive strength is improved by 17% at 75% CHLR supported by reduced free water and denser microstructure but decreased at 100% CHLR. Overall, the study concludes that the CHLR can be effectively used as a partial replacement of natural sand in 3D printed concrete, optimizing both buildability and mechanical properties, especially at up to 75% replacement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -116,9 +89,38 @@ tags:
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xue_wang_lee_huan.2025.DoS3PCM/">Development of Sustainable 3D Printing Concrete Materials:<br/>Impact of Natural Minerals and Wastes at High Replacement Ratios</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA,
+      author            = "Nusrat Jahan Mim and Anwar Hosan and Faiz Uddin Ahmed Shaikh and Prabir Kumar Sarker",
+      title             = "Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate",
+      doi               = "10.1016/j.rineng.2025.106280",
+      year              = "2025",
+      journal           = "Results in Engineering",
+      pages             = "106280",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. J. Mim, A. Hosan, F. U. A. Shaikh and P. K. Sarker, “Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate”, <i>Results in Engineering</i>, p. 106280, 2025, doi: 10.1016/j.rineng.2025.106280.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mim, Nusrat Jahan, Anwar Hosan, Faiz Uddin Ahmed Shaikh, and Prabir Kumar Sarker. “Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate”. <i>Results in Engineering</i>, 2025, 106280. https://doi.org/10.1016/j.rineng.2025.106280.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

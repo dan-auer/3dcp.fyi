@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Osama Zaid, Mohamed Ouni
+    - footer
+title: Zaid Osama, Ouni Mohamed
 description:
 tags:
  - additive
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advancements in 3D Printing of Cementitious Materials:<br/>:aca-blank: A Review of Mineral Additives, Properties, and Systematic Developments ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136254" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136254</a>
+#Advancements in 3D Printing of Cementitious Materials&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">A Review of Mineral Additives, Properties, and Systematic Developments</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136254" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136254" target="_blank">10.1016/j.conbuildmat.2024.136254</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8071-1341" title="ORCID: 0000-0002-8071-1341" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zaid_osama"><b>Zaid</b>&nbsp;Osama</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4470-5523" title="ORCID: 0000-0003-4470-5523" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouni_hechmi_mohamed"><b>el&nbsp;Ouni</b>&nbsp;Mohamed</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 427, No. 136254
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a> <a href="https://orcid.org/0000-0002-8071-1341" title="ORCID: 0000-0002-8071-1341" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ouni_hechmi_mohamed"><b>el Ouni</b> Mohamed</a> <a href="https://orcid.org/0000-0003-4470-5523" title="ORCID: 0000-0003-4470-5523" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 427, No. 136254
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#advance`](keyword/advance)
-    [`#cement`](keyword/cement)
-    [`#development`](keyword/development)
-    [`#material`](keyword/material)
-    [`#mineral`](keyword/mineral)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancements%20in%203D%20Printing%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190516395&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394904118" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136254" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136254?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology revolutionizes construction by creating custom building components with increased efficiency and reduced waste. This paper reviews advancements in the 3D printing of cementitious materials, focusing on integrating mineral additives (MAs) like metakaolin, micro-silica, slag, and fly ash to address environmental and economic challenges linked with high-Portland cement content in 3D concrete printing (3DCP). MAs enhance the pumpability, printability, and buildability of 3DCP while reducing its environmental impact. The review emphasizes optimizing cement mixtures, including alkali-activated materials, to enhance sustainability and performance. It discusses the mixture design's importance, balancing mechanical properties and environmental impacts, and examines MAs' influence on rheological properties, mechanical performance, and 3DCP durability, including layer bond strength. The paper also discusses global 3D printing technology adoption in construction and challenges in additive manufacturing implementation. By analyzing printing parameters, mixture proportions, and materials' effects on long-term performance, this review highlights 3D printing's potential for economically viable and eco-friendly structural elements. It aims to guide future advancements in 3D printable cementitious materials, meeting modern construction demands while addressing traditional concrete production's environmental challenges.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "182 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
@@ -252,8 +231,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
@@ -288,4 +267,34 @@ tags:
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
       <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/puzule_liga"><b>Puzule</b> Līga</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sahm_puzu_sapa_slos.2024.GCPCf3P/">Gypsum-Cement-Pozzolan Composites for 3D Printing:<br/>Properties and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zaid_ouni.2024.Ai3PoCM,
+      author            = "Osama Zaid and Mohamed Hechmi El Ouni",
+      title             = "Advancements in 3D Printing of Cementitious Materials: A Review of Mineral Additives, Properties, and Systematic Developments",
+      doi               = "10.1016/j.conbuildmat.2024.136254",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "427",
+      pages             = "136254",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Zaid  and M. H. E. Ouni, “Advancements in 3D Printing of Cementitious Materials: A Review of Mineral Additives, Properties, and Systematic Developments”, <i>Construction and Building Materials</i>, vol. 427, p. 136254, 2024, doi: 10.1016/j.conbuildmat.2024.136254.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zaid, Osama, and Mohamed Hechmi El Ouni. “Advancements in 3D Printing of Cementitious Materials: A Review of Mineral Additives, Properties, and Systematic Developments”. <i>Construction and Building Materials</i> 427 (2024): 136254. https://doi.org/10.1016/j.conbuildmat.2024.136254.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

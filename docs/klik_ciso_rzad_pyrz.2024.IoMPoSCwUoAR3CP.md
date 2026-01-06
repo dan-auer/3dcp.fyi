@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Przemysław Klik, Adam Cisowski, Witold Rządkowski, Paweł Pyrzanowski, Michał Kowalik
+    - footer
+title: Klik Przemysław, Cisowski Adam, Rządkowski Witold, Pyrzanowski Paweł, Kowalik Michał
 description:
 tags:
  - automation
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.12913/22998624/189847) Investigation of Mechanical Properties of Structures Created with Use of Automatically Reinforced 3D Concrete Printing:<br/>:aca-blank: Preliminary Study ([2024-08](date/2024/08))
-<a href="https://doi.org/10.12913/22998624/189847" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.12913/22998624/189847</a>
+#Investigation of Mechanical Properties of Structures Created with Use of Automatically Reinforced 3D Concrete Printing&nbsp;([2024-08](date/2024/08))
+<div class="h1-like">Preliminary Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.12913/22998624/189847) <a href="https://doi.org/10.12913/22998624/189847" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.12913/22998624/189847" target="_blank">10.12913/22998624/189847</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9783-5597" title="ORCID: 0000-0001-9783-5597" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/klik_przemyslaw"><b>Klik</b>&nbsp;Przemysław</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4066-6598" title="ORCID: 0000-0003-4066-6598" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cisowski_adam"><b>Cisowski</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8586-2966" title="ORCID: 0000-0002-8586-2966" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rzadkowski_witold"><b>Rządkowski</b>&nbsp;Witold</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1015-7645" title="ORCID: 0000-0003-1015-7645" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pyrzanowski_pawel"><b>Pyrzanowski</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7632-6782" title="ORCID: 0000-0002-7632-6782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b>&nbsp;Michał</a></span><br>
+Journal Article - Advances in Science and Technology Research Journal, Vol. 18, Iss. 5, pp. 41-50
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/klik_przemyslaw"><b>Klik</b> Przemysław</a> <a href="https://orcid.org/0000-0001-9783-5597" title="ORCID: 0000-0001-9783-5597" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a> <a href="https://orcid.org/0000-0003-4066-6598" title="ORCID: 0000-0003-4066-6598" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rzadkowski_witold"><b>Rządkowski</b> Witold</a> <a href="https://orcid.org/0000-0002-8586-2966" title="ORCID: 0000-0002-8586-2966" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pyrzanowski_pawel"><b>Pyrzanowski</b> Paweł</a> <a href="https://orcid.org/0000-0003-1015-7645" title="ORCID: 0000-0003-1015-7645" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> <a href="https://orcid.org/0000-0002-7632-6782" title="ORCID: 0000-0002-7632-6782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Science and Technology Research Journal, Vol. 18, Iss. 5, pp. 41-50
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#investigation`](keyword/investigation)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-    [`#use`](keyword/use)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Mechanical%20Properties%20of%20Structures%20Created%20with%20Use%20of%20Automatically%20Reinforced%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201645257&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401078556" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.12913/22998624/189847" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.12913/22998624/189847?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D concrete printing (3DCP) technology is a rapidly developing and promising technique for creating concrete structures. One of the main challenges of the 3DCP technology is the method of reinforcement, which should be integrated with the automated printing process, while maintaining the best mechanical properties important for the strength of the structure. The main reason to undertake the subject is low degree of automation in construction industry, which results in high cost of human labour, as well as high rate of accidents in process. The article proposes a technology for automatic reinforcement of concrete structures with glass fibres and epoxy resin. Maximum bending force tests of the beams reinforced with the proposed method were carried out and compared with the beams reinforced with commonly used methods. Although not being an article focused on DIC analysis, several images were presented to compare the behaviour of non-reinforced beam with automatically reinforced one and to show cracking propagation of a chosen automatically reinforced beam. The proposed method of reinforcement in the 3DCP process enables full automation and constructions with high bending strength, simultaneously reducing the level of risk involved in conventional construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
@@ -86,8 +63,39 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a>, <a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ciso_kowa.2025.TIotCSGoSCi3PCE/">The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements:<br/>A Preliminary Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{klik_ciso_rzad_pyrz.2024.IoMPoSCwUoAR3CP,
+      author            = "Przemysław Klik and Adam Cisowski and Witold Rządkowski and Paweł Pyrzanowski and Michał Piotr Kowalik",
+      title             = "Investigation of Mechanical Properties of Structures Created with Use of Automatically Reinforced 3D Concrete Printing: Preliminary Study",
+      doi               = "10.12913/22998624/189847",
+      year              = "2024",
+      journal           = "Advances in Science and Technology Research Journal",
+      volume            = "18",
+      number            = "5",
+      pages             = "41--50",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Klik, A. Cisowski, W. Rządkowski, P. Pyrzanowski and M. P. Kowalik, “Investigation of Mechanical Properties of Structures Created with Use of Automatically Reinforced 3D Concrete Printing: Preliminary Study”, <i>Advances in Science and Technology Research Journal</i>, vol. 18, no. 5, pp. 41–50, 2024, doi: 10.12913/22998624/189847.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Klik, Przemysław, Adam Cisowski, Witold Rządkowski, Paweł Pyrzanowski, and Michał Piotr Kowalik. “Investigation of Mechanical Properties of Structures Created with Use of Automatically Reinforced 3D Concrete Printing: Preliminary Study”. <i>Advances in Science and Technology Research Journal</i> 18, no. 5 (2024): 41–50. https://doi.org/10.12913/22998624/189847.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

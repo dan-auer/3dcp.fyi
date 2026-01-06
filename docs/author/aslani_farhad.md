@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Aslani Farhad 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bate_asla.2025.Po3PCCwGRUAC/">Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression</a></li>
   <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
   <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_asla.2025.MaUPVPo3PRCCRwPF/">Mechanical and Ultrasonic Pulse Velocity Performance of 3D Printed Rubberised Cementitious Composites Reinforced with PVA Fibers</a></li>

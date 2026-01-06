@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: L. Li, Z. Fang, S. Chu, Albert Kwan
+    - footer
+title: Li L., Fang Z., Chu S., Kwan Albert
 description:
 tags:
  - ash
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1680/jmacr.24.00244" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jmacr.24.00244</a>
+#Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.24.00244" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.24.00244" target="_blank">10.1680/jmacr.24.00244</a>
 
--------------------------
+<a href="../../../author/li_g_l"><b>Li</b>&nbsp;L.</a></span>, <a href="../../../author/fang_q_z"><b>Fang</b>&nbsp;Z.</a></span>, <a href="../../../author/chu_h_s"><b>Chu</b>&nbsp;S.</a></span>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b>&nbsp;Albert</a></span><br>
+Journal Article - Magazine of Concrete Research, pp. 1-48
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_g_l"><b>Li</b> L.</a>
-,     <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>
-,     <a href="../../../author/chu_h_s"><b>Chu</b> S.</a>
-,     <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Magazine of Concrete Research, pp. 1-48
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#effect`](keyword/effect)
-    [`#improvement`](keyword/improvement)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#silica`](keyword/silica)
-    [`#synergy`](keyword/synergy)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20Mechanical%20Properties%20of%203D%20Printed%20Mortar%20by%20Exploiting%20Synergistic%20Effects%20of%20Fly-Ash-Microsphere%20and%20Nano-Silica" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209352038&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404136275" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jmacr.24.00244" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jmacr.24.00244?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fly ash microsphere (FAM), being a superfine fly ash, and nano-silica (N-S), being an ultrafine amorphous silica, have been proven to be useful for enhancing the performance of traditional cement-based materials. To explore the possibility of improving the performance of 3D printed mortar by the combined addition of FAM and N-S, a series of 3D printed mortars with varying water/cementitious materials (W/CM) ratios, FAM contents and N-S contents were made to evaluate their performance attributes. The results showed that optimizing the water reducer dosage could make the 3D printed mortars achieve great extrudability, buildability and dimensional stability. The W/CM ratio, FAM content and N-S content were the main factors determining the mechanical properties of the 3D printed mortar. The co-addition of FAM and N-S could enhance the flexural, compressive and bond strengths at a percentage increase larger than the sum of the percentage increase due to individual addition of FAM and N-S. Hence, the FAM and N-S should better be used together to release their synergistic effects for the design of 3D printed mortar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../ambi_kali_seba_shek.2023.MAf3PC/">Mixing Approach for 3D Printable Concrete:<br/>Method of Addition and Optimization of Superplasticizer Dosage</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
@@ -117,8 +94,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/altehaini_zakiah"><b>Altehaini</b> Zakiah</a>, <a href="../../../author/dayili_mohammed"><b>Dayili</b> Mohammed</a>, <a href="../../../author/alrajab_meshari"><b>Alrajab</b> Meshari</a>, <a href="../../../author/harbi_al_adel"><b>Harbi</b> Adel</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../alte_dayi_alra_harb.2025.D3CPfLSBCiSA/">Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia:<br/>A Case Study</a></li>
@@ -126,4 +103,33 @@ tags:
       <li><a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/ayough_pouria"><b>Ayough</b> Pouria</a>, <a href="../../../author/nawaz_waleed"><b>Nawaz</b> Waleed</a>, <a href="../../../author/elchalakani_mohamed"><b>Elchalakani</b> Mohamed</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lyu_ayou_nawa_elch.2025.DaCoPRUHPC/">Development and Characterization of Printable Rubberised Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/demirbas_osman_ali"><b>Demirbaş</b> Ali</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../demi_tugl_sahi_ilca.2025.ACSotVoRCAi3PCS/">A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS,
+      author            = "L. G. Li and Z. Q. Fang and S. H. Chu and Albert Kwok Hung Kwan",
+      title             = "Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica",
+      doi               = "10.1680/jmacr.24.00244",
+      year              = "2024",
+      journal           = "Magazine of Concrete Research",
+      pages             = "1--48",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. G. Li, Z. Q. Fang, S. H. Chu and A. K. H. Kwan, “Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica”, <i>Magazine of Concrete Research</i>, pp. 1–48, 2024, doi: 10.1680/jmacr.24.00244.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, L. G., Z. Q. Fang, S. H. Chu, and Albert Kwok Hung Kwan. “Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica”. <i>Magazine of Concrete Research</i>, 2024, 1–48. https://doi.org/10.1680/jmacr.24.00244.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Uday Boddepalli, Indu Gandhi, Biranchi Panda
+    - footer
+title: Boddepalli Uday, Gandhi Indu, Panda Biranchi
 description:
 tags:
  - ash
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136464" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136464</a>
+#Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136464" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136464" target="_blank">10.1016/j.conbuildmat.2024.136464</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boddepalli_uday"><b>Boddepalli</b>&nbsp;Uday</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3530-8609" title="ORCID: 0000-0002-3530-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b>&nbsp;Indu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 429, No. 136464
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> <a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="https://orcid.org/0000-0002-3530-8609" title="ORCID: 0000-0002-3530-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 429, No. 136464
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#foam`](keyword/foam)
-    [`#improvement`](keyword/improvement)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#stability`](keyword/stability)
-    [`#synergy`](keyword/synergy)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Effect%20of%20Fly-Ash%20and%20Polyvinyl-Alcohol-Fibers%20in%20Improving%20Stability%2C%20Rheology%2C%20and%20Mechanical%20Properties%20of%203D%20Printable%20Foam-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192110683&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396646680" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136464" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136464?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Foam concrete, a lightweight cellular cementitious mixture has gained significant attention globally due to its multifunctional properties. Employing such multifunctional material to additive manufacturing helps in reducing the material wastage, time for construction and cost of production. However, there are various challenges encountered in employing such material with conflicting attributes in 3D concrete printing technology. Therefore, it is important to address these challenging requirements (i.e. stability along with printability). In this study, fly ash and polyvinyl alcohol fibers are employed as sand replacement and reinforcing material respectively to improve stability, rheology and mechanical characteristics of 3D printable foam concrete. Initially, printability of the mixture is achieved through moderation of slump and slump flow. Further, these mixtures are studied for fresh density, rheological properties and buildability. Essential hardened properties like oven dry density, compressive strength, flexural strength, bond strength, and thermal conductivity are studied. Later, microstructural studies are conducted to analyze the variations in hardened properties. Results show that replacement of sand with fly ash has significant influence (more than 100%) in improving the printability (for both 1300 and 1000 kg/m3 densities), however it has negative impact on the stability of foam. Stability of foam concrete could be counteracted by adding the fibers which forms networks with the foam bubbles and reduced the breakage and coalescence. Nonetheless, addition of fly ash increased the mechanical performance and thermal conductivity, but the dry density is increased due to bubble breakage. Addition of fibers reduced dry density with significant reduction in thermal conductivity and minimal compromise in mechanical performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bodd_gand_pand.2023.SoTDPFCaFoSC/">Stability of Three-Dimensional Printable Foam-Concrete as Function of Surfactant Characteristics</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../cho_krug_rooy_zera.2019.Ro3PLFCINS/">Rheology of 3D Printable Lightweight Foam-Concrete Incorporating Nano-Silica</a></li>
@@ -98,8 +73,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
       <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
       <li><a href="../../../author/xiahou_xiaer"><b>Xiahou</b> Xiaer</a>, <a href="../../../author/ding_xingyuan"><b>Ding</b> Xingyuan</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiah_ding_yu_lu.2025.FWtS/">From Waste to Strength:<br/>Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete</a></li>
@@ -113,4 +88,34 @@ tags:
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a></li>
       <li><a href="../../../author/liu_xiaoshuang"><b>Liu</b> Xiaoshuang</a>, <a href="../../../author/li_shiming"><b>Li</b> Shiming</a>, <a href="../../../author/duan_yanjun"><b>Duan</b> Yanjun</a>, <a href="../../../author/du_zhiqin"><b>Du</b> Zhiqin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_li_duan_du.2024.IoPIotIBo3PFCfSaGBA/">Influence of Printing Interval on the Imbibition Behavior of 3D Printed Foam-Concrete for Sustainable and Green Building Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC,
+      author            = "Uday Boddepalli and Indu Siva Ranjani Gandhi and Biranchi Narayan Panda",
+      title             = "Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.136464",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "429",
+      pages             = "136464",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Boddepalli, I. S. R. Gandhi and B. N. Panda, “Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete”, <i>Construction and Building Materials</i>, vol. 429, p. 136464, 2024, doi: 10.1016/j.conbuildmat.2024.136464.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Boddepalli, Uday, Indu Siva Ranjani Gandhi, and Biranchi Narayan Panda. “Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete”. <i>Construction and Building Materials</i> 429 (2024): 136464. https://doi.org/10.1016/j.conbuildmat.2024.136464.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #constraint
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/perez_banda_pablo"><b>Perez</b> Pablo</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>, <a href="../../../author/valenzuela_rozas_sebastian"><b>Valenzuela</b> Sebastián</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_pere_alva_vale.2025.3PoSD/">3D Printing of Surrealist Dreams:<br/>Constraints, Failures, and Craftsmanship in 1:1 Digital Fabrication</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xiao_hack_klof_lowk.2025.CBFFoSTfI3CPTVBGS/">Constraint-Based Form-Finding of Space Trusses for Injection 3D Concrete Printing Through Vector-Based Graphic Statics</a></li>
   <li><a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wolf_robe_unge.2024.OFfLSPB3PCSUVC/">Optimization Framework for Large-Scale Powder-Bed 3D Printed Concrete Structures Under Various Constraints</a></li>

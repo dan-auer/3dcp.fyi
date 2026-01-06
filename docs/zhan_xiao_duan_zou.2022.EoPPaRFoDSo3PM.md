@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hanghua Zhang, Jianzhuang Xiao, Zhenhua Duan, Shuai Zou, Bing Xia
+    - footer
+title: Zhang Hanghua, Xiao Jianzhuang, Duan Zhenhua, Zou Shuai, Xia Bing
 description:
 tags:
  - dry
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.128007" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128007</a>
+#Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128007" target="_blank">10.1016/j.conbuildmat.2022.128007</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7224-4555" title="ORCID: 0000-0001-7224-4555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hanghua"><b>Zhang</b>&nbsp;Hanghua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_shuai"><b>Zou</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8597-0254" title="ORCID: 0000-0002-8597-0254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_bing"><b>Xia</b>&nbsp;Bing</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 342
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a> <a href="https://orcid.org/0000-0001-7224-4555" title="ORCID: 0000-0001-7224-4555" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> <a href="https://orcid.org/0000-0002-8597-0254" title="ORCID: 0000-0002-8597-0254" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 342, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#dry`](keyword/dry)
-    [`#effect`](keyword/effect)
-    [`#mortar`](keyword/mortar)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Printing%20Paths%20and%20Recycled%20Fines%20on%20Drying%20Shrinkage%20of%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131464372&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281971997" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.128007" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.128007?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing process poses great impacts on the properties of mortar, especially on the shrinkage behavior of 3D printed mortar (3DPM) prepared with recycled fine aggregate (RFA) and recycled powder (RP). This study focuses on the effects of printing paths on the flowability and the drying shrinkage of 3DPM. RFA and RP, together with their contents, are used as variables in 3DPM. The results show that the flow loss of mortar during the first 30 mins increased with the incorporation of recycled fines due to the high water-absorption of RFA and the low hydration reactivity of RP. The drying shrinkage development of 3DPM was higher than that of cast mortar during the first 28 days, but exhibited a deceleration in shrinkage increasing rate after 28 days. Printing path showed a limited effect on the mass loss of 3DPM during the test period, but had significant impacts on the drying shrinkage and the shrinkage development trend. An increase in drying shrinkage of 3DPM was caused by 50 ~ 100% RFA replacement (29.1 ~ 57.9% in 60 days), while 10 ~ 20% RP content decreased the drying shrinkage of 3DPM (3.3 ~ 12.4% in 60 days). Additionally, the incorporation of recycled fines delayed the development of 3DPM drying shrinkage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -98,8 +76,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
@@ -136,4 +114,33 @@ tags:
       <li><a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/paudel_satish"><b>Paudel</b> Satish</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../tana_jira_paud_tang.2022.EaNIo3PMWUUAC/">Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_dexin"><b>Li</b> Dexin</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wang_lin_ma_li.2022.MaMPo3PACBCEtET/">Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM,
+      author            = "Hanghua Zhang and Jianzhuang Xiao and Zhenhua Duan and Shuai Zou and Bing Xia",
+      title             = "Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar",
+      doi               = "10.1016/j.conbuildmat.2022.128007",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "342",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhang, J. Xiao, Z. Duan, S. Zou and B. Xia, “Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar”, <i>Construction and Building Materials</i>, vol. 342, 2022, doi: 10.1016/j.conbuildmat.2022.128007.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Hanghua, Jianzhuang Xiao, Zhenhua Duan, Shuai Zou, and Bing Xia. “Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar”. <i>Construction and Building Materials</i> 342 (2022). https://doi.org/10.1016/j.conbuildmat.2022.128007.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

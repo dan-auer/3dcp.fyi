@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Behrokh Khoshnevis, Madhu Thangavelu, Xiao Yuan, Jing Zhang
+    - footer
+title: Khoshnevis Behrokh, Thangavelu Madhu, Yuan Xiao, Zhang Jing
 description:
 tags:
  - advance
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup ([2013-09](date/2013/09))
-<a href="https://doi.org/10.2514/6.2013-5438" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2514/6.2013-5438</a>
+#Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup ([2013-09](date/2013/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2514/6.2013-5438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2013-5438" target="_blank">10.2514/6.2013-5438</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b>&nbsp;Madhu</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <a href="../../../author/zhang_jing"><b>Zhang</b>&nbsp;Jing</a></span><br>
+Contribution - Proceedings of AIAA SPACE 2013 Conference and Exposition
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>
-,     <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>
-,     <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of AIAA SPACE 2013 Conference and Exposition, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#buildup`](keyword/buildup)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/buildup"><button class="btn">#buildup</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advances%20in%20Contour%20Crafting%20Technology%20for%20Extraterrestrial%20Settlement%20Infrastructure%20Buildup" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,22 +36,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2331500007" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2514/6.2013-5438" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2514/6.2013-5438?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Several unique systems including the Lunar Electric Rover, the unpressurized Chariot rover, the versatile light-weight crane and Athlete cargo transporter as well as the habitat module mockups and a new generation of spacesuits are undergoing coordinated tests at NASA’s facility for Desert Research and Test Studies (D-RATS). A synergetic simulation plan is proposed for utilizing these maturing systems coupled with a unique, patented robotic fabrication technology called Contour Crafting, tailored for swift and reliable lunar infrastructure development. Landing pads, roads, shade walls and thermal and micrormeteoritic shield and other unpressurized structures that make up a majority of the initial lunar settlement infrastructure may be built using this technology, fully utilizing In-Situ Resource Utilization(ISRU) strategy. The intent is to increase astronaut safety, improve buildup performance, ameliorate lunar dust interference and concerns, and reduce time-tocommission, all in an economic manner. This paper reports on the progress being made in the study and selection of simulated in-situ materials, advances in contour crafting systems being developed, and some early results and data in extruding molten sulfur concrete using beneficiated lunar and Mars soil simulants.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>, <a href="../../../author/leach_neil"><b>Leach</b> Neil</a>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a> <a href="../../../date/2012/04">(2012-04)</a><br><a href="../../../khos_carl_leac_than.2012.CCSPfLSIBU/">Contour Crafting Simulation-Plan for Lunar Settlement Infrastructure Build-Up</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
       <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sana_lito.2025.LBCot3PCSBoaSAaLTiS11/">Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1</a></li>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/najar_mohamed"><b>Najar</b> Mohamed</a>, <a href="../../../author/deshpande_sachin"><b>Deshpande</b> Sachin</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../sakh_naja_desh.2024.PPo3PGTPEBP/">Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties:<br/>A Review</a></li>
@@ -88,4 +68,33 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/zahiri_behnam"><b>Zahiri</b> Behnam</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> et al. <a href="../../../date/2015/09">(2015-09)</a><br><a href="../../../khos_yuan_zahi_zhan.2015.DAoSCSMbCC/">Deformation-Analysis of Sulfur-Concrete Structures Made by Contour Crafting</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{khos_than_yuan_zhan.2013.AiCCTfESIB,
+      author            = "Behrokh Khoshnevis and Madhu Thangavelu and Xiao Yuan and Jing Zhang",
+      title             = "Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup",
+      doi               = "10.2514/6.2013-5438",
+      year              = "2013",
+      booktitle         = "Proceedings of AIAA SPACE 2013 Conference and Exposition",
+      editor            = "American Institute of Aeronautics and Astronautics",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Khoshnevis, M. Thangavelu, X. Yuan and J. Zhang, “Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup”, in <i>Proceedings of AIAA SPACE 2013 Conference and Exposition</i>,  2013. doi: 10.2514/6.2013-5438.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khoshnevis, Behrokh, Madhu Thangavelu, Xiao Yuan, and Jing Zhang. “Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup”. In <i>Proceedings of AIAA SPACE 2013 Conference and Exposition</i>, edited by American Institute of Aeronautics and Astronautics, 2013. https://doi.org/10.2514/6.2013-5438.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

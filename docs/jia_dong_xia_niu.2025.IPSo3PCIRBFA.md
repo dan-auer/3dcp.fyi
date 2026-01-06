@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lutao Jia, Enlai Dong, Kailun Xia, Geng Niu, Zijian Jia, Hanquan Yuan, Yueyi Gao, Yamei Zhang
+    - footer
+title: Jia Lutao, Dong Enlai, Xia Kailun, Niu Geng, Jia Zijian, Yuan Hanquan, Gao Yueyi, Zhang Yamei
 description:
 tags:
  - aggregate
@@ -22,42 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates:<br/>:aca-blank: Insights from Water Transport and Structural Evolution ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112665" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112665</a>
+#Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Insights from Water Transport and Structural Evolution</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112665" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112665" target="_blank">10.1016/j.jobe.2025.112665</a>
 
--------------------------
+<a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <a href="../../../author/xia_kailun"><b>Xia</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niu_geng"><b>Niu</b>&nbsp;Geng</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/yuan_hanquan"><b>Yuan</b>&nbsp;Hanquan</a></span>, <a href="../../../author/gao_yueyi"><b>Gao</b>&nbsp;Yueyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112665
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>
-,     <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>
-,     <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> <a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>
-,     <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112665
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#brick`](keyword/brick)
-    [`#concrete`](keyword/concrete)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#fine`](keyword/fine)
-    [`#incorporation`](keyword/incorporation)
-    [`#insights`](keyword/insights)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#structure`](keyword/structure)
-    [`#transport`](keyword/transport)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Initial%20Plastic%20Shrinkage%20of%203D-Printed%20Concrete%20Incorporating%20Recycled%20Brick%20Fine%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002493234&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409454563" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112665" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112665?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to factors such as low water-to-cement ratio, high cement content, absence of formwork, and high surface area-to-volume ratio, 3D-printed concrete (3DPC) is prone to early plastic shrinkage and cracking, posing risks to mechanical properties and long-term durability. This paper investigated the influence of substituting natural river sand with recycled brick fine aggregates (RBFA) on the performance of 3DPC during plastic phase of hydration. In this study, two different strategies for incorporating RBFA were evaluated: dry RBFA-D and water-saturated RBFA-W. The water absorption-release characteristics of RBFA impact water evaporation rate, the growth of capillary pressure and the evolution of elastic modulus, thereby influencing the plastic shrinkage of 3DPC. RBFA-W continuously releases water into the paste, offsetting water evaporation, decreasing the rise in capillary pressure, and thereby reducing plastic shrinkage. Conversely, adding RBFA-D speeds up capillary pressure growth, yet its rapid increase in elastic modulus strengthens its capacity to resist plastic shrinkage. Based on the water transport, structural development, and plastic shrinkage evolution, three clear stages were distinguished in this research. This study presents a new strategy to mitigate plastic shrinkage of 3DPC using RBFA.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../burg_hube_llor_mata.2022.DaFoORCFSULS3PF/">Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork</a></li>
       <li><a href="../../../author/cheng_hanbin"><b>Cheng</b> Hanbin</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>, <a href="../../../author/hilman_michael"><b>Hilman</b> Michael</a>, <a href="../../../author/liu_feihong"><b>Liu</b> Feihong</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_radl_hilm_liu.2024.MCDv3PURKPM/">Modeling Concrete-Deposition via 3D Printing Using Reproducing Kernel-Particle-Method</a></li>
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../chri_zijl_vill.2022.TIoRBAi3PC/">The Incorporation of Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
@@ -109,9 +78,38 @@ tags:
       <li><a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/liu_hao"><b>Liu</b> Hao</a>, <a href="../../../author/huo_longfei"><b>Huo</b> Longfei</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../yang_li_liu_huo.2024.EtPfCCaRo3PCB/">Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges:<br/>Construction, Dismantlement, and Reconstruction of a Box Arch Bridge</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_hao_zhan_xiao.2023.AMTfPSaCi3PCUDOFS/">Advanced Measurement Techniques for Plastic Shrinkage and Cracking in 3D Printed Concrete Utilising Distributed Optical Fiber Sensor</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jia_dong_xia_niu.2025.IPSo3PCIRBFA,
+      author            = "Lutao Jia and Enlai Dong and Kailun Xia and Geng Niu and Zijian Jia and Hanquan Yuan and Yueyi Gao and Yamei Zhang",
+      title             = "Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates: Insights from Water Transport and Structural Evolution",
+      doi               = "10.1016/j.jobe.2025.112665",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112665",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Jia, “Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates: Insights from Water Transport and Structural Evolution”, <i>Journal of Building Engineering</i>, p. 112665, 2025, doi: 10.1016/j.jobe.2025.112665.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jia, Lutao, Enlai Dong, Kailun Xia, Geng Niu, Zijian Jia, Hanquan Yuan, Yueyi Gao, and Yamei Zhang. “Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates: Insights from Water Transport and Structural Evolution”. <i>Journal of Building Engineering</i>, 2025, 112665. https://doi.org/10.1016/j.jobe.2025.112665.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

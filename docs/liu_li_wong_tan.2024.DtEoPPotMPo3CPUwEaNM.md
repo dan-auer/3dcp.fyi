@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhenbang Liu, Mingyang Li, Teck Wong, Ming Tan
+    - footer
+title: Liu Zhenbang, Li Mingyang, Wong Teck, Tan Ming
 description:
 tags:
  - concrete
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Determine the Effects of Pore Properties on the Mechanical Performances of 3D Concrete Printing Units with Experimental and Numerical Methods ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.jobe.2024.109730" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109730</a>
+#Determine the Effects of Pore Properties on the Mechanical Performances of 3D Concrete Printing Units with Experimental and Numerical Methods ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109730" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109730" target="_blank">10.1016/j.jobe.2024.109730</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhenbang"><b>Liu</b>&nbsp;Zhenbang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109730
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> <a href="https://orcid.org/0000-0002-3250-206X" title="ORCID: 0000-0002-3250-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109730
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#determination`](keyword/determination)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#numeric`](keyword/numeric)
-    [`#performance`](keyword/performance)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#unit`](keyword/unit)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Determine%20the%20Effects%20of%20Pore%20Properties%20on%20the%20Mechanical%20Performances%20of%203D%20Concrete%20Printing%20Units%20with%20Experimental%20and%20Numerical%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194945179&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4398231303" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109730" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109730?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The anisotropic performances of 3D concrete printing (3DCP) units were usually considered correlated to interlayers. While recent studies proposed that the anisotropy might be caused by pores, the link between pore properties and mechanical performances remains at a qualitative level. In this paper, Computed Tomography (CT) scans and mechanical tests were first conducted to determine the pore properties and the mechanical performances of 3DCP units. Afterwards, MATLAB codes were adopted to convert CT scan images into finite element (FE) models containing pores and solid elements of concrete, and an inverse method was applied to obtain the constitutive model of concrete. Finally, CT-scan-based simulation was carried out, and the corresponding results were compared to experimental results to determine the quantitative link between the pore properties and the mechanical performances of 3DCP units. CT scan results showed that pores can be represented by a biconvex-lens shape without the obvious orientation along the printing direction, which differs from the observation in previous studies. Compared to the mechanical test results, CT-scan-based simulation results showed good agreement with a maximum error of 5.9%, which revealed its feasibility for evaluating the 3DCP unit mechanical performances. Because the model only contains a sole variable – pores, the consistency between simulation results and test results proves the quantitative link between the pore properties and the mechanical performances of 3DCP units.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -108,8 +82,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
@@ -119,4 +93,33 @@ tags:
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/du_liangfen"><b>Du</b> Liangfen</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_du_liu_li.2024.3CCPwPRCR/">3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber:<br/>Mechanical and Acoustic Insulation Properties</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_li_wang_wang.2024.APotSRRCCbtSCR3CPPF/">Axial Performances of the Steel-Rebar-Reinforced Column Confined by the Steel-Cable-Reinforced 3D Concrete Printing Permanent Formwork</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_wong_tan.2024.DtEoPPotMPo3CPUwEaNM,
+      author            = "Zhenbang Liu and Mingyang Li and Teck Neng Wong and Ming Jen Tan",
+      title             = "Determine the Effects of Pore Properties on the Mechanical Performances of 3D Concrete Printing Units with Experimental and Numerical Methods",
+      doi               = "10.1016/j.jobe.2024.109730",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109730",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Liu, M. Li, T. N. Wong and M. J. Tan, “Determine the Effects of Pore Properties on the Mechanical Performances of 3D Concrete Printing Units with Experimental and Numerical Methods”, <i>Journal of Building Engineering</i>, p. 109730, 2024, doi: 10.1016/j.jobe.2024.109730.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Zhenbang, Mingyang Li, Teck Neng Wong, and Ming Jen Tan. “Determine the Effects of Pore Properties on the Mechanical Performances of 3D Concrete Printing Units with Experimental and Numerical Methods”. <i>Journal of Building Engineering</i>, 2024, 109730. https://doi.org/10.1016/j.jobe.2024.109730.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

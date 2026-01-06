@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Chen, Oğuzhan Çopuroğlu, Frederic Veer
+    - footer
+title: Chen Yu, Çopuroğlu Oğuzhan, Veer Frederic
 description:
 tags:
  - approach
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-# A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach ([2018-01](date/2018/01))
-<a href="https://doi.org/10.13140/rg.2.2.12323.71205" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.13140/rg.2.2.12323.71205</a>
+#A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach ([2018-01](date/2018/01))
+ <a href="https://doi.org/10.13140/rg.2.2.12323.71205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13140/rg.2.2.12323.71205" target="_blank">10.13140/rg.2.2.12323.71205</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9821-0019" title="ORCID: 0000-0002-9821-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/veer_frederic"><b>Veer</b>&nbsp;Frederic</a></span><br>
+Journal Article - Heron, Vol. 62, Iss. 3, pp. 167-194
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="https://orcid.org/0000-0002-9821-0019" title="ORCID: 0000-0002-9821-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Heron, Vol. 62, Iss. 3, pp. 167-194
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#co2`](keyword/co2)
-    [`#concrete`](keyword/concrete)
-    [`#critical`](keyword/critical)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20of%203D%20Concrete%20Printing%20as%20a%20Low-CO2%20Concrete%20Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2938519838" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.13140/rg.2.2.12323.71205" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.13140/rg.2.2.12323.71205?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete is by volume the most widely used building material all over the world. The concrete industry emits large quantities of greenhouse gases. Therefore, developing low CO2 concrete becomes an urgent issue for those countries with significant concrete production and consumption. In recent years, 3D concrete printing (3DCP) which is a new concrete construction method, is being developed by many research institutions and enterprises throughout the world. The primary advantages of 3DCP include increasing architecture flexibility, reducing labor usage, as well as saving in-situ construction time and cost. According to the statements by Tay et al. [2017], Wolfs et al. [2018], and Bos et al. [2016], 3DCP as a future construction trend may be a potential low CO2 approach. Thus, the objective of this paper is to critically explore the possible low CO2 strategies for 3DCP which have not been systematically conducted so far. Initially, this study introduces an overview of 3DCP by reviewing the relevant publications over last 20 years. Moreover, the potential low CO2 aspects of 3DCP are illustrated and discussed. Finally, the challenges and opportunities of developing 3DCP are analyzed and summarized. Overall, 3DCP is exploring possibilities of a low CO2 concrete approach, since it might consume less concrete materials and does not need formwork. On the other hand, to maximize CO2 reduction and accelerate the development of this technique, the future routes of 3DCP can be identified such as developing low CO2 printable concrete, seeking the proper reinforcement methods, improving print quality and capability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -83,11 +63,8 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/martins_filipe_pedro"><b>Martins</b> Pedro</a>, <a href="../../../author/sousa_pedro_jose"><b>Sousa</b> José</a> <a href="../../../date/2014/09">(2014-09)</a><br><a href="../../../mart_sous.2014.DFTiCA/">Digital Fabrication Technology in Concrete Architecture</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_lim_moha_paul.2017.AoRCPUFCS/">Automation of Robotic Concrete Printing Using Feedback-Control-System</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
@@ -103,8 +80,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vigneshwari_are"><b>Vigneshwari</b> Are</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../vign_jaya.2024.ARo3PCMCCaIOT/">A Review on 3D Printable Cementitious Material Containing Copper and Iron-Ore-Tailings:<br/>Material-Characterization, Activation-Methods, Engineering-Properties, Durability, and Microstructure-Behavior</a></li>
       <li><a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a>, <a href="../../../author/podrouzek_jan"><b>Podroužek</b> Jan</a>, <a href="../../../author/koutny_daniel"><b>Koutný</b> Daniel</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vesp_podr_kout.2023.DAtSIPfD3PoCfCAut8m/">DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 mm</a></li>
       <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a>, <a href="../../../author/subasi_serkan"><b>Subaşı</b> Serkan</a>, <a href="../../../author/marasli_muhammed"><b>Maraşlı</b> Muhammed</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../mato_emir_suba_mara.2023.ACBC3P/">Architectonic Cement-Based Composites 3D Printing</a></li>
@@ -113,4 +90,35 @@ tags:
       <li><a href="../../../author/mahadevan_meera"><b>Mahadevan</b> Meera</a>, <a href="../../../author/francis_ann"><b>Francis</b> Ann</a>, <a href="../../../author/thomas_albert"><b>Thomas</b> Albert</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../maha_fran_thom.2020.ASBIoSAo3PS/">A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../nere_krau_mech.2020.DPTfBo3PCCEV/">Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_copu_veer.2017.ACRo3CPaaLCCA,
+      author            = "Yu Chen and Oğuzhan Çopuroğlu and Frederic Veer",
+      title             = "A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach",
+      doi               = "10.13140/rg.2.2.12323.71205",
+      year              = "2017",
+      journal           = "Heron",
+      volume            = "62",
+      number            = "3",
+      pages             = "167--194",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, O. Çopuroğlu and F. Veer, “A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach”, <i>Heron</i>, vol. 62, no. 3, pp. 167–194, 2017, doi: 10.13140/rg.2.2.12323.71205.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yu, Oğuzhan Çopuroğlu, and Frederic Veer. “A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach”. <i>Heron</i> 62, no. 3 (2017): 167–94. https://doi.org/10.13140/rg.2.2.12323.71205.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

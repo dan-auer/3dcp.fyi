@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nawaf Alanazi, John Kolawole, Richard Buswell, Luca Susmel
+    - footer
+title: Alanazi Nawaf, Kolawole John, Buswell Richard, Susmel Luca
 description:
 tags:
  - assessment
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.prostr.2022.12.041) The Theory of Critical Distances to Perform the Static Assessment of 3D Printed Concrete Weakened by Manufacturing-Defects and Cracks ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1016/j.prostr.2022.12.041" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.prostr.2022.12.041</a>
+#The Theory of Critical Distances to Perform the Static Assessment of 3D Printed Concrete Weakened by Manufacturing-Defects and Cracks ([2022-07](date/2022/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.prostr.2022.12.041) <a href="https://doi.org/10.1016/j.prostr.2022.12.041" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2022.12.041" target="_blank">10.1016/j.prostr.2022.12.041</a>
 
--------------------------
+<a href="../../../author/alanazi_nawaf"><b>Alanazi</b>&nbsp;Nawaf</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolawole_temitope_john"><b>Kolawole</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7753-9176" title="ORCID: 0000-0001-7753-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/susmel_luca"><b>Susmel</b>&nbsp;Luca</a></span><br>
+Contribution - Proceedings of the 23rd European Conference on Fracture, pp. 336-342
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>
-,     <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> <a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="https://orcid.org/0000-0001-7753-9176" title="ORCID: 0000-0001-7753-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 23rd European Conference on Fracture, pp. 336-342
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#critical`](keyword/critical)
-    [`#defect`](keyword/defect)
-    [`#distance`](keyword/distance)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#static`](keyword/static)
-    [`#theory`](keyword/theory)
-    [`#weaknesses`](keyword/weaknesses)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/distance"><button class="btn">#distance</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> <a href="../../keyword/weaknesses"><button class="btn">#weaknesses</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Theory%20of%20Critical%20Distances%20to%20Perform%20the%20Static%20Assessment%20of%203D%20Printed%20Concrete%20Weakened%20by%20Manufacturing-Defects%20and%20Cracks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85158973103&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313422929" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.prostr.2022.12.041" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.prostr.2022.12.041?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The Theory of Critical Distances groups together a number of approaches postulating that, in cracked/notched materials subjected to static loading, breakage takes place as soon as a critical length-dependent effective stress exceeds the material tensile strength. The characteristic length used by the Theory of Critical Distances is a material property that can directly be estimated from the ultimate tensile strength and the plane strain fracture toughness. In the present investigation, based on a large number of bespoke experimental results, it is demonstrated that the Theory of Critical Distances is successful also in quantifying the detrimental effect of cracks and manufacturing defects in 3D-printed concrete subjected to Mode I static loading.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -89,8 +64,39 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../susm.2024.ToCDaNFB3PC/">Theory of Critical Distances and Notched Filament-Based 3D Printed Components:<br/>Lessons Learned from Polymers and Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{alan_kola_busw_susm.2022.TToCDtPtSAo3PCWbMDaC,
+      author            = "Nawaf Alanazi and John Temitope Kolawole and Richard A. Buswell and Luca Susmel",
+      title             = "The Theory of Critical Distances to Perform the Static Assessment of 3D Printed Concrete Weakened by Manufacturing-Defects and Cracks",
+      doi               = "10.1016/j.prostr.2022.12.041",
+      year              = "2022",
+      volume            = "42",
+      pages             = "336--342",
+      booktitle         = "Proceedings of the 23rd European Conference on Fracture",
+      editor            = "Pedro Moreira and Luis Reis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Alanazi, J. T. Kolawole, R. A. Buswell and L. Susmel, “The Theory of Critical Distances to Perform the Static Assessment of 3D Printed Concrete Weakened by Manufacturing-Defects and Cracks”, in <i>Proceedings of the 23rd European Conference on Fracture</i>,  2022, vol. 42, pp. 336–342. doi: 10.1016/j.prostr.2022.12.041.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alanazi, Nawaf, John Temitope Kolawole, Richard A. Buswell, and Luca Susmel. “The Theory of Critical Distances to Perform the Static Assessment of 3D Printed Concrete Weakened by Manufacturing-Defects and Cracks”. In <i>Proceedings of the 23rd European Conference on Fracture</i>, edited by Pedro Moreira and Luis Reis, 42:336–42, 2022. https://doi.org/10.1016/j.prostr.2022.12.041.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

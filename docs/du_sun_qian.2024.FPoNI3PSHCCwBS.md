@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Guoqiang Du, Yan Sun, Ye Qian
+    - footer
+title: Du Guoqiang, Sun Yan, Qian Ye
 description:
 tags:
  - bouligand
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Flexural Performance of Nature-Inspired 3D Printed Strain-Hardening Cementitious Composites with Bouligand Structures ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105494" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105494</a>
+#Flexural Performance of Nature-Inspired 3D Printed Strain-Hardening Cementitious Composites with Bouligand Structures ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105494" target="_blank">10.1016/j.cemconcomp.2024.105494</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_guoqiang"><b>Du</b>&nbsp;Guoqiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 149, No. 105494
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> <a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yan"><b>Sun</b> Yan</a> <a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 149, No. 105494
-
-:aca-blank:{ .lg .middle}
-    [`#bouligand`](keyword/bouligand)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#flexural`](keyword/flexural)
-    [`#hardened`](keyword/hardened)
-    [`#inspiration`](keyword/inspiration)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#strain`](keyword/strain)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Performance%20of%20Nature-Inspired%203D%20Printed%20Strain-Hardening%20Cementitious%20Composites%20with%20Bouligand%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187786630&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392799062" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105494" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105494?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Inspired by nature, this study employed the Bouligand structures, as observed in the dactyl club of mantis shrimp, to enhance the performance of 3D-printed Strain-Hardening Cementitious Composites (3DP-SHCC). Twenty sets of printed and mold-cast specimens were prepared to investigate the effects of Bouligand structures on the flexural performance of 3DP-SHCC. Three printing patterns (parallel, cross, and Bouligand printing) and five pitch angles (15°, 30°, 45°, 60°, 75°) were used for the Bouligand printing pattern. The results showed that the flexural performance of parallel-printed SHCC exhibited significant directionality. The flexural strength and toughness of parallel-printed SHCC in the X direction were 1.28 times and 3.27 times greater than the mold-cast SHCC. However, the flexural strength and toughness in the Y direction were 0.58 times and 0.25 times those of the mold-cast SHCC. The cross-printed and Bouligand-printed SHCC alleviated the directionality. The flexural performance of cross-printed SHCC was lower than that of the mold-cast SHCC. Compared to parallel-printed SHCC, the flexural strength and toughness of Bouligand-printed SHCC increased by 1.25 to 1.73 times and 3.48 to 5.10 times, respectively, in the Y direction. Bouligand-printing twisted the fiber angles, enabling effective crack bridging across multiple directions and endowing the SHCC with uniform mechanical properties in various directions. The Bouligand structures provided valuable inspiration for optimizing 3DP-SHCC structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -89,8 +66,9 @@ tags:
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../xu_qian.2023.EoFVFFLWBRaNCAot3PoSHCC/">Effects of Fiber-Volume Fraction, Fiber Length, Water-Binder Ratio, and Nano-Clay Addition on the 3D Printability of Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_qian_yu_leun.2022.TPo3PSHCCCMPNSaPP/">Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_du_muda.2025.RIoFFRCCUHHUFf3CPE/">Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/wu_gan"><b>Wu</b> Gan</a>, <a href="../../../author/xia_zixu"><b>Xia</b> Zixu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bu_zhan_wu_xia.2025.IPo3PEIbBBS/">Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure</a></li>
@@ -112,4 +90,34 @@ tags:
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../du_qian.2024.EoPPaLDoFBo3PSHCC/">Effects of Printing-Patterns and Loading-Directions on Fracture Behavior of 3D Printed Strain-Hardening Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{du_sun_qian.2024.FPoNI3PSHCCwBS,
+      author            = "Guoqiang Du and Yan Sun and Ye Qian",
+      title             = "Flexural Performance of Nature-Inspired 3D Printed Strain-Hardening Cementitious Composites with Bouligand Structures",
+      doi               = "10.1016/j.cemconcomp.2024.105494",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "149",
+      pages             = "105494",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Du, Y. Sun and Y. Qian, “Flexural Performance of Nature-Inspired 3D Printed Strain-Hardening Cementitious Composites with Bouligand Structures”, <i>Cement and Concrete Composites</i>, vol. 149, p. 105494, 2024, doi: 10.1016/j.cemconcomp.2024.105494.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Du, Guoqiang, Yan Sun, and Ye Qian. “Flexural Performance of Nature-Inspired 3D Printed Strain-Hardening Cementitious Composites with Bouligand Structures”. <i>Cement and Concrete Composites</i> 149 (2024): 105494. https://doi.org/10.1016/j.cemconcomp.2024.105494.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

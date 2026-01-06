@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongzhi Jiang, Yujia Li, Zhe Yang, Yangbo Li, Bobo Xiong
+    - footer
+title: Jiang Xiongzhi, Li Yujia, Yang Zhe, Li Yangbo, Xiong Bobo
 description:
 tags:
  - concrete
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/2/455/pdf?version=1707277768) Harnessing Path-Optimization to Enhance the Strength of Three-Dimensional Printed Concrete ([2024-02](date/2024/02))
-<a href="https://doi.org/10.3390/buildings14020455" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14020455</a>
+#Harnessing Path-Optimization to Enhance the Strength of Three-Dimensional Printed Concrete ([2024-02](date/2024/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/2/455/pdf?version=1707277768) <a href="https://doi.org/10.3390/buildings14020455" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14020455" target="_blank">10.3390/buildings14020455</a>
 
--------------------------
+<a href="../../../author/jiang_xiongzhi"><b>Jiang</b>&nbsp;Xiongzhi</a></span>, <a href="../../../author/li_yujia"><b>Li</b>&nbsp;Yujia</a></span>, <a href="../../../author/yang_zhe"><b>Yang</b>&nbsp;Zhe</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6821-5751" title="ORCID: 0000-0001-6821-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yangbo"><b>Li</b>&nbsp;Yangbo</a></span>, <a href="../../../author/xiong_bobo"><b>Xiong</b>&nbsp;Bobo</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 2, No. 455
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_xiongzhi"><b>Jiang</b> Xiongzhi</a>
-,     <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>
-,     <a href="../../../author/yang_zhe"><b>Yang</b> Zhe</a>
-,     <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> <a href="https://orcid.org/0000-0001-6821-5751" title="ORCID: 0000-0001-6821-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiong_bobo"><b>Xiong</b> Bobo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 2, No. 455
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#enhancement`](keyword/enhancement)
-    [`#optimization`](keyword/optimization)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Harnessing%20Path-Optimization%20to%20Enhance%20the%20Strength%20of%20Three-Dimensional%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185703844&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391613668" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14020455" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14020455?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The path-dependent strength of three-dimensional printed concrete (3DPC) hinders further engineering application. Printing path optimization is a feasible solution to improve the strength of 3DPC. Here, the mix ratio of 3DPC was studied to print standard concrete specimens with different printing paths using our customized concrete 3D printer, which features fully sealed extrusion and ultrathin nozzles. These paths include crosswise, vertical, arched, and diagonal patterns. Their flexural and compressive strengths were tested. In order to verify the tested results and expose the mechanism of strength enhancement, digital image correlation (DIC) was used to capture the dynamic gradual fracture in the flexural tests. Also, the meso- and microstructures of the 3D-printed concrete specimens were pictured. The results reported here show that arched-path concrete has 30% more flexural strength than others because it makes better use of filament-wise strength. The findings here provide a pathway to improve the strength of 3D-printed concrete by path optimization, boosting 3DPC’s extensive application in civil engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -103,8 +80,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
@@ -112,4 +89,35 @@ tags:
       <li><a href="../../../author/shen_jing"><b>Shen</b> Jing</a>, <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b> Xiaoman</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../shen_li_zhan_li.2024.TDPCbaUTNaFSE/">Three-Dimensional Printable Concrete by an Ultra-Thin Nozzle and Fully-Sealed Extrusion</a></li>
       <li><a href="../../../author/capeto_paula_ana"><b>Capêto</b> Ana</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/uribe_e-b_braian"><b>Uribe</b> Braian</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../cape_jesu_urib_guim.2024.BaGF/">Building a Greener Future:<br/>Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_li_yang_li.2024.HPOtEtSoTDPC,
+      author            = "Xiongzhi Jiang and Yujia Li and Zhe Yang and Yangbo Li and Bobo Xiong",
+      title             = "Harnessing Path-Optimization to Enhance the Strength of Three-Dimensional Printed Concrete",
+      doi               = "10.3390/buildings14020455",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "2",
+      pages             = "455",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Jiang, Y. Li, Z. Yang, Y. Li and B. Xiong, “Harnessing Path-Optimization to Enhance the Strength of Three-Dimensional Printed Concrete”, <i>Buildings</i>, vol. 14, no. 2, p. 455, 2024, doi: 10.3390/buildings14020455.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Xiongzhi, Yujia Li, Zhe Yang, Yangbo Li, and Bobo Xiong. “Harnessing Path-Optimization to Enhance the Strength of Three-Dimensional Printed Concrete”. <i>Buildings</i> 14, no. 2 (2024): 455. https://doi.org/10.3390/buildings14020455.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

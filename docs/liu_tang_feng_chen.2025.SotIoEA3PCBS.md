@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Renlong Liu, Jiyu Tang, Hu Feng, Zhangqi Cheng
+    - footer
+title: Liu Renlong, Tang Jiyu, Feng Hu, Cheng Zhangqi
 description:
 tags:
  - age
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on the Instability of Early Age 3D Printing Cement-Based Structure:<br/>:aca-blank: Considering the Influence of Interface ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.engfracmech.2025.111565" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engfracmech.2025.111565</a>
+#Study on the Instability of Early Age 3D Printing Cement-Based Structure&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Considering the Influence of Interface</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engfracmech.2025.111565" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfracmech.2025.111565" target="_blank">10.1016/j.engfracmech.2025.111565</a>
 
--------------------------
+<a href="../../../author/liu_renlong"><b>Liu</b>&nbsp;Renlong</a></span>, <a href="../../../author/tang_jiyu"><b>Tang</b>&nbsp;Jiyu</a></span>, <a href="../../../author/feng_hu"><b>Feng</b>&nbsp;Hu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7745-7074" title="ORCID: 0000-0001-7745-7074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_zhangqi"><b>Cheng</b>&nbsp;Zhangqi</a></span><br>
+Journal Article - Engineering Fracture Mechanics, No. 111565
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>
-,     <a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>
-,     <a href="../../../author/feng_hu"><b>Feng</b> Hu</a>
-,     <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="https://orcid.org/0000-0001-7745-7074" title="ORCID: 0000-0001-7745-7074" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Fracture Mechanics, No. 111565
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#early`](keyword/early)
-    [`#influence`](keyword/influence)
-    [`#interface`](keyword/interface)
-    [`#print`](keyword/print)
-    [`#stability`](keyword/stability)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Instability%20of%20Early%20Age%203D%20Printing%20Cement-Based%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017116200&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414574910" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engfracmech.2025.111565" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engfracmech.2025.111565?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Early collapse poses a significant challenge in the realm of three-dimensional printing concrete (3DPC) processes. Concurrently, the interface assumes a pivotal role in influencing the structural performance of 3DPC. However, the influence of the interface is seldom considered in detail in early collapse predictions. To address this issue, a novel 3D printing cement-based structure model that incorporates the influence of interface performance is proposed by introducing the concept of an equivalent interface. The computational model was constructed using the peridynamics (PD) method, incorporating parameter corrections for specific bonds to account for interface effects. The results demonstrated that, compared with the exaggerated failure height of cylinder structures simulated in most similar studies, the model with equivalent interface effectively reduced the number of failure layers and the simulation results were closer to the experimental results. Furthermore, we conduct a thorough investigation into the impact of different degrees of interface performance attenuation on the failure height of cylindrical structures, offering comprehensive insights into the underlying mechanisms. These findings contribute to addressing the pressing issue of early collapse in 3DPC processes and offer valuable implications for accurately predicting the failure height of printed concrete components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
@@ -102,7 +80,36 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_tang_feng_chen.2025.SotIoEA3PCBS,
+      author            = "Renlong Liu and Jiyu Tang and Hu Feng and Zhangqi Cheng",
+      title             = "Study on the Instability of Early Age 3D Printing Cement-Based Structure: Considering the Influence of Interface",
+      doi               = "10.1016/j.engfracmech.2025.111565",
+      year              = "2025",
+      journal           = "Engineering Fracture Mechanics",
+      pages             = "111565",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Liu, J. Tang, H. Feng and Z. Cheng, “Study on the Instability of Early Age 3D Printing Cement-Based Structure: Considering the Influence of Interface”, <i>Engineering Fracture Mechanics</i>, p. 111565, 2025, doi: 10.1016/j.engfracmech.2025.111565.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Renlong, Jiyu Tang, Hu Feng, and Zhangqi Cheng. “Study on the Instability of Early Age 3D Printing Cement-Based Structure: Considering the Influence of Interface”. <i>Engineering Fracture Mechanics</i>, 2025, 111565. https://doi.org/10.1016/j.engfracmech.2025.111565.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

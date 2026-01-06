@@ -8,7 +8,7 @@ search:
 
 # #transport
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../dong_wu_liu_wu.2025.CTAaIDi3PUHPC/">Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>Multi-Scale Evaluation and Engineering Implications</a></li>
   <li><a href="../../../author/ersoy_seher"><b>Ersoy</b> Seher</a>, <a href="../../../author/abuqasim_shaima"><b>Abuqasim</b> Shaima</a>, <a href="../../../author/kurtay-yildiz_mine"><b>Kurtay Yıldız</b> Mine</a>, <a href="../../../author/ozturk_s_irfan"><b>Öztürk</b> İrfan</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../erso_abuq_kurt_oztu.2025.MLAoWTi3PCvKT/">Machine Learning Approximation of Water Transport in 3D-Printable Composites via Karsten Tube</a></li>
   <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jia_dong_xia_niu.2025.IPSo3PCIRBFA/">Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates:<br/>Insights from Water Transport and Structural Evolution</a></li>

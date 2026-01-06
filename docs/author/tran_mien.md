@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 # van Tran Mien 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
   <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a></li>
   <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/cao_thi_nguyen"><b>Cao</b> Nguyen</a>, <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../tran_le_cao_nguy.2025.SPfERoRSwRGAi3PC/">Sustainable Prospect for Entire Replacement of River Sand with Recycled Glass Aggregate in 3D Printing Concrete:<br/>Rheological Properties, Printability, and Alkali-Silica Reaction</a></li>
   <li><a href="../../../author/tran_nhi"><b>Tran</b> Nhi</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tran_tran_tran_nguy.2024.EF3PCUSSA/">Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate:<br/>Buildability, Printability and Mechanical Properties</a></li>

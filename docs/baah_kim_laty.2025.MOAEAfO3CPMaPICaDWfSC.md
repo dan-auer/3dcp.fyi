@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thomas Baah, Heejeong Kim, Marat Latypov
+    - footer
+title: Baah Thomas, Kim Heejeong, Latypov Marat
 description:
 tags:
  - adaption
@@ -23,38 +24,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s44416-025-00033-5.pdf) Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1007/s44416-025-00033-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s44416-025-00033-5</a>
+#Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction ([2025-11](date/2025/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44416-025-00033-5.pdf) <a href="https://doi.org/10.1007/s44416-025-00033-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44416-025-00033-5" target="_blank">10.1007/s44416-025-00033-5</a>
 
--------------------------
+<a href="../../../author/baah_tawiah_thomas"><b>Baah</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_heejeong"><b>Kim</b>&nbsp;Heejeong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4416-0877" title="ORCID: 0000-0003-4416-0877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/latypov_marat"><b>Latypov</b>&nbsp;Marat</a></span><br>
+Journal Article - Discover Concrete and Cement, Vol. 1, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>
-,     <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="https://orcid.org/0000-0003-4416-0877" title="ORCID: 0000-0003-4416-0877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Discover Concrete and Cement, Vol. 1, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#experiment`](keyword/experiment)
-    [`#incorporation`](keyword/incorporation)
-    [`#mixture`](keyword/mixture)
-    [`#multi`](keyword/multi)
-    [`#objective`](keyword/objective)
-    [`#optimization`](keyword/optimization)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/objective"><button class="btn">#objective</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Multi-Objective%20Adaptive%20Experimental%20Approach%20for%20Optimizing%203D%20Concrete%20Printing%20Mixtures%20and%20Parameters%20Incorporating%20Construction%20and%20Demolition%20Waste%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7105876640" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s44416-025-00033-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s44416-025-00033-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is emerging as a transformative technology in the construction industry with a potential for lower manufacturing costs, enhanced design flexibility, and greater efficiency. Integrating construction and demolition waste (CDW) into 3DCP mixtures offers sustainability benefits but at the same time is associated with challenges of material variability and complex printing requirements. This study introduces a multi-objective Bayesian approach to concurrent optimization of mixture design and printing parameters targeting superior buildability with maximized CDW replacement. Following experimental trials driven by the multiobjective Bayesian optimization algorithm, we achieved 66 % improvement in terms of buildability at 97 % CDW replacement of natural sand. These mixture designs together with optimized printing parameters allowed 3DCP of six to ten layers without collapse. Mechanical tests combined with XRD and SEM characterization showed that higher CDW content with silica fume increased compressive strength, particularly in cast specimens. The tests performed in multiple directions further revealed anisotropy of compressive strength in 3D-printed samples with the highest strength in the Y-direction followed by that in the X and Z directions. Our findings demonstrate a viable path toward sustainable, high-performance concrete printing with substantial use of recycled materials facilitated by multiobjective Bayesian optimization approaches.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/asensio_javier"><b>Asensio</b> Javier</a>, <a href="../../../author/josa_irene"><b>Josa</b> Irene</a>, <a href="../../../author/monserrat_andrea"><b>Monserrat</b> Andrea</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../asen_josa_mons_fuen.2023.3PCF/">3D‐Printed Concrete Footbridges:<br/>An Approach to Assess the Sustainability Performance</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -119,7 +91,37 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC,
+      author            = "Thomas Tawiah Baah and Heejeong Kim and Marat Latypov",
+      title             = "Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction",
+      doi               = "10.1007/s44416-025-00033-5",
+      year              = "2025",
+      journal           = "Discover Concrete and Cement",
+      volume            = "1",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. T. Baah, H. Kim and M. Latypov, “Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction”, <i>Discover Concrete and Cement</i>, vol. 1, no. 1, 2025, doi: 10.1007/s44416-025-00033-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Baah, Thomas Tawiah, Heejeong Kim, and Marat Latypov. “Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction”. <i>Discover Concrete and Cement</i> 1, no. 1 (2025). https://doi.org/10.1007/s44416-025-00033-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

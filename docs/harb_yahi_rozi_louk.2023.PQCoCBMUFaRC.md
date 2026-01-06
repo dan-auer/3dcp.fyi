@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ilhame Harbouz, Ammar Yahia, Emmanuel Rozière, Ahmed Loukili
+    - footer
+title: Harbouz Ilhame, Yahia Ammar, Rozière Emmanuel, Loukili Ahmed
 description:
 tags:
  - base
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.104965" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.104965</a>
+#Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions ([2023-02](date/2023/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.104965" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.104965" target="_blank">10.1016/j.cemconcomp.2023.104965</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0493-3089" title="ORCID: 0000-0003-0493-3089" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/harbouz_ilhame"><b>Harbouz</b>&nbsp;Ilhame</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5829-816X" title="ORCID: 0000-0001-5829-816X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roziere_emmanuel"><b>Rozière</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/loukili_ahmed"><b>Loukili</b>&nbsp;Ahmed</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 138
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a> <a href="https://orcid.org/0000-0003-0493-3089" title="ORCID: 0000-0003-0493-3089" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>
-,     <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-5829-816X" title="ORCID: 0000-0001-5829-816X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 138, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#condition`](keyword/condition)
-    [`#control`](keyword/control)
-    [`#flow`](keyword/flow)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#rest`](keyword/rest)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/rest"><button class="btn">#rest</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printing%20Quality-Control%20of%20Cement-Based%20Materials%20Under%20Flow%20and%20Rest-Conditions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150857030&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320716677" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.104965" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.104965?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Time-dependent rheological properties of cement-based materials have a significant impact on 3D printing processes, where multiple rheological requirements should be met. A proper high rate of structural build-up is recommended to ensure the buildability and stability of printed elements. However, the loss of workability may occur rapidly, resulting in a significant reduction in print quality. Workability and buildability requirements usually interfere due to the time-dependent rheological behavior of cement-based materials under flow and rest conditions. This research aims to highlight the effects of time-dependent behavior on the printability of cementbased materials. The coupling mechanisms of microstructure development at rest and under shearing conditions are discussed. A new thixotropy index is proposed to quantify the printability window of cement-based materials based on their structuration rates. An experimental study was conducted on printable mortars incorporating a viscosity-modifying agent (VMA) to assess printing quality as a function of the degree of thixotropy. Different types of stability failures were captured and discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -94,8 +71,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a></li>
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../harb_yahi_rozi_louk.2025.ST/">Squeeze Test:<br/>A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kim_oh_lee_dong.2025.Eo3PCPFotFBoRCB/">Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams:<br/>Experimental and Analytical Investigations</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
@@ -108,4 +86,33 @@ tags:
       <li><a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b> Ignasius</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/masud_arif"><b>Masud</b> Arif</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../wija_krei_masu.2024.MoCPPwFI/">Modeling of Concrete Printing Process with Frictional Interface</a></li>
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../jacq_perr.2023.SCD/">Sewing Concrete Device:<br/>Combining In-Line Rheology-Control and Reinforcement-System for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{harb_yahi_rozi_louk.2023.PQCoCBMUFaRC,
+      author            = "Ilhame Harbouz and Ammar Yahia and Emmanuel Rozière and Ahmed Loukili",
+      title             = "Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions",
+      doi               = "10.1016/j.cemconcomp.2023.104965",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "138",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Harbouz, A. Yahia, E. Rozière and A. Loukili, “Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions”, <i>Cement and Concrete Composites</i>, vol. 138, 2023, doi: 10.1016/j.cemconcomp.2023.104965.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Harbouz, Ilhame, Ammar Yahia, Emmanuel Rozière, and Ahmed Loukili. “Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions”. <i>Cement and Concrete Composites</i> 138 (2023). https://doi.org/10.1016/j.cemconcomp.2023.104965.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

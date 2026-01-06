@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Liu, Yazhao Guo, Yang Wang, Qizhou Liu, Yuefeng Hu, Lian-Gang Wang, Kai Qian
+    - footer
+title: Liu Bing, Guo Yazhao, Wang Yang, Liu Qizhou, Hu Yuefeng, Wang Lian-Gang, Qian Kai
 description:
 tags:
  - column
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on the Compression Performance of 3D Printing Concrete Permanent Formwork Composite Columns ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.jobe.2024.111245" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111245</a>
+#Study on the Compression Performance of 3D Printing Concrete Permanent Formwork Composite Columns ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111245" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111245" target="_blank">10.1016/j.jobe.2024.111245</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6360-2402" title="ORCID: 0000-0001-6360-2402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_bing"><b>Liu</b>&nbsp;Bing</a></span>, <a href="../../../author/guo_yazhao"><b>Guo</b>&nbsp;Yazhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yang"><b>Wang</b>&nbsp;Yang</a></span>, <a href="../../../author/liu_qizhou"><b>Liu</b>&nbsp;Qizhou</a></span>, <a href="../../../author/hu_yuefeng"><b>Hu</b>&nbsp;Yuefeng</a></span>, <a href="../../../author/wang_lian-gang"><b>Wang</b>&nbsp;Lian-Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8905-4384" title="ORCID: 0000-0002-8905-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_kai"><b>Qian</b>&nbsp;Kai</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111245
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_bing"><b>Liu</b> Bing</a> <a href="https://orcid.org/0000-0001-6360-2402" title="ORCID: 0000-0001-6360-2402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_yazhao"><b>Guo</b> Yazhao</a>
-,     <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> <a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_qizhou"><b>Liu</b> Qizhou</a>
-,     <a href="../../../author/hu_yuefeng"><b>Hu</b> Yuefeng</a>
-,     <a href="../../../author/wang_lian-gang"><b>Wang</b> Lian-Gang</a>
-,     <a href="../../../author/qian_kai"><b>Qian</b> Kai</a> <a href="https://orcid.org/0000-0002-8905-4384" title="ORCID: 0000-0002-8905-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111245
-
-:aca-blank:{ .lg .middle}
-    [`#column`](keyword/column)
-    [`#composite`](keyword/composite)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#performance`](keyword/performance)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Compression%20Performance%20of%203D%20Printing%20Concrete%20Permanent%20Formwork%20Composite%20Columns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208971609&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404082877" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111245" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111245?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing concrete technology is increasingly being utilized in the construction industry as an advanced manufacturing method. To study the compressive performance of 3D printing concrete permanent formwork composite columns, both axial and eccentric compression tests were conducted. Through comparative analysis between composite columns and cast-in-place columns, the effects of the longitudinal reinforcement ratio on failure modes, load-displacement curves, load-longitudinal reinforcement strain curves, concrete strain distributions in the center section, and ultimate load-bearing capacity are examined. The results showed that the 3D printing concrete permanent formwork exhibited good overall integrity with the core concrete, with no debonding occurring before failure, thus offering a viable replacement for traditional formwork. Under axial and eccentric compression, the load-bearing capacity of the 3D printing composite columns was superior to that of the cast-in-place columns. Specifically, excluding the eccentrically loaded column with a reinforcement ratio of 1.88%, the load-bearing capacity of other 3D printing concrete permanent formwork composite columns improved by more than 11% compared to traditional concrete columns. Based on the calculation formula for the load-bearing capacity of cast-in-place reinforced concrete, a formula for the compressive load-bearing capacity of the 3D printing composite columns was derived. This formula showed good agreement with the experimental results, providing a solid foundation for the future application of 3D printing concrete permanent formwork composite columns in practical engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
@@ -98,12 +73,41 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
       <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS/">Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS/">Study on Mechanical Properties and Environmental Benefits of 3D Printed Lean Magnesium Ore Concrete Filled Columns Based on Three-Dimensional Meso-Structure</a></li>
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS/">Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_guo_wang_liu.2024.SotCPo3PCPFCC,
+      author            = "Bing Liu and Yazhao Guo and Yang Wang and Qizhou Liu and Yuefeng Hu and Lian-Gang Wang and Kai Qian",
+      title             = "Study on the Compression Performance of 3D Printing Concrete Permanent Formwork Composite Columns",
+      doi               = "10.1016/j.jobe.2024.111245",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111245",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Liu, “Study on the Compression Performance of 3D Printing Concrete Permanent Formwork Composite Columns”, <i>Journal of Building Engineering</i>, p. 111245, 2024, doi: 10.1016/j.jobe.2024.111245.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Bing, Yazhao Guo, Yang Wang, Qizhou Liu, Yuefeng Hu, Lian-Gang Wang, and Kai Qian. “Study on the Compression Performance of 3D Printing Concrete Permanent Formwork Composite Columns”. <i>Journal of Building Engineering</i>, 2024, 111245. https://doi.org/10.1016/j.jobe.2024.111245.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

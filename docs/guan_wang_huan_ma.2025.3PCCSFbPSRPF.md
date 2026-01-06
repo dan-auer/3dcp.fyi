@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jingyuan Guan, Li Wang, Yimiao Huang, Guowei Ma
+    - footer
+title: Guan Jingyuan, Wang Li, Huang Yimiao, Ma Guowei
 description:
 tags:
  - composite
@@ -20,36 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete Composite Slabs Fabricated by Pre-Stressed Reinforced Permanent Formwork:<br/>:aca-blank: Design, Manufacturing, and Performance ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.engstruct.2024.119446" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2024.119446</a>
+#3D Printed Concrete Composite Slabs Fabricated by Pre-Stressed Reinforced Permanent Formwork&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">Design, Manufacturing, and Performance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2024.119446" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.119446" target="_blank">10.1016/j.engstruct.2024.119446</a>
 
--------------------------
+<a href="../../../author/guan_jingyuan"><b>Guan</b>&nbsp;Jingyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4013-7215" title="ORCID: 0000-0003-4013-7215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yimiao"><b>Huang</b>&nbsp;Yimiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
+Journal Article - Engineering Structures, Vol. 325, No. 119446
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a> <a href="https://orcid.org/0000-0003-4013-7215" title="ORCID: 0000-0003-4013-7215" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 325, No. 119446
-
-:aca-blank:{ .lg .middle}
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#formwork`](keyword/formwork)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#performance`](keyword/performance)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#slab`](keyword/slab)
-    [`#stress`](keyword/stress)
-
-
--------------------------
+<a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Composite%20Slabs%20Fabricated%20by%20Pre-Stressed%20Reinforced%20Permanent%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211059554&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405073334" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2024.119446" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2024.119446?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To promote the application of 3D printing in large-span structural engineering, this paper proposes a 3D-printed reinforced structure with prestressed permanent formwork (PR-3DCPPF). This innovative approach combines post-tensioning prestressing technology to achieve the assembly construction of large-scale permanent formwork structures, thereby enhancing the construction efficiency, flexibility, and load-bearing performance of 3D printing structures. This study designed and digitally fabricated a 3D-printed a PR-3DCPPF slab structure with a length of 6.0 m, comprising six identical 3D printing formwork units. These formwork units were independently printed, assembled through post-tensioning prestressing, reinforced with cage reinforcement and concrete casting, and then the entire structure was collaborative working by prestressed formwork and cast-in-place concrete. The load-carrying capacity and prestress loss of the formwork unit were assessed post-tensioning, and the flexural performance of the printed composite slab structure was tested across various stages, confirming compliance with structural standards. The experimental validation demonstrates that the proposed structure exhibits a deflection-to-span ratio of less than 0.1 % during the service stage and an ultimate loadbearing capacity exceeding 141 kN, proving its excellent mechanical performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../burg_hube_llor_mata.2022.DaFoORCFSULS3PF/">Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
@@ -111,8 +86,8 @@ tags:
       <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhou_yuan_zhou.2021.DaFoa3CPPSB/">Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
       <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>
@@ -127,4 +102,34 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../wang_yang_wang_bai.2025.RDaSPftTO3PCTB/">Reinforcement Design and Structural Performance for the Topology Optimized 3D Printed Concrete Truss Beams</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{guan_wang_huan_ma.2025.3PCCSFbPSRPF,
+      author            = "Jingyuan Guan and Li Wang and Yimiao Huang and Guowei Ma",
+      title             = "3D Printed Concrete Composite Slabs Fabricated by Pre-Stressed Reinforced Permanent Formwork: Design, Manufacturing, and Performance",
+      doi               = "10.1016/j.engstruct.2024.119446",
+      year              = "2025",
+      journal           = "Engineering Structures",
+      volume            = "325",
+      pages             = "119446",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Guan, L. Wang, Y. Huang and G. Ma, “3D Printed Concrete Composite Slabs Fabricated by Pre-Stressed Reinforced Permanent Formwork: Design, Manufacturing, and Performance”, <i>Engineering Structures</i>, vol. 325, p. 119446, 2025, doi: 10.1016/j.engstruct.2024.119446.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Guan, Jingyuan, Li Wang, Yimiao Huang, and Guowei Ma. “3D Printed Concrete Composite Slabs Fabricated by Pre-Stressed Reinforced Permanent Formwork: Design, Manufacturing, and Performance”. <i>Engineering Structures</i> 325 (2025): 119446. https://doi.org/10.1016/j.engstruct.2024.119446.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

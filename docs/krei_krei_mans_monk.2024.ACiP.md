@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Megan Kreiger, Eric Kreiger, Stephan Mansour, Sean Monkman, Mohammad Delavar, Petros Sideris, Casey Roberts, Matthew Friedell, Shawn Platt, Scott Jones
+    - footer
+title: Kreiger Megan, Kreiger Eric, Mansour Stephan, Monkman Sean, Delavar Mohammad, Sideris Petros, Roberts Casey, Friedell Matthew, Platt Shawn, Jones Scott
 description:
 tags:
  - acceptance
@@ -13,35 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Construction in Practice:<br/>:aca-blank: Realities of Acceptance Criteria ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107652" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107652</a>
+#Additive Construction in Practice&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Realities of Acceptance Criteria</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2024.107652" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107652" target="_blank">10.1016/j.cemconres.2024.107652</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <a href="../../../author/mansour_stephan"><b>Mansour</b>&nbsp;Stephan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1295-3776" title="ORCID: 0000-0003-1295-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/monkman_sean"><b>Monkman</b>&nbsp;Sean</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4688-1224" title="ORCID: 0000-0002-4688-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1183-7397" title="ORCID: 0000-0002-1183-7397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sideris_petros"><b>Sideris</b>&nbsp;Petros</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-7835-5292" title="ORCID: 0009-0006-7835-5292" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roberts_casey"><b>Roberts</b>&nbsp;Casey</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-1665-2759" title="ORCID: 0009-0003-1665-2759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/friedell_matthew"><b>Friedell</b>&nbsp;Matthew</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1837-4572" title="ORCID: 0000-0003-1837-4572" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/platt_l_shawn"><b>Platt</b>&nbsp;Shawn</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 186, No. 107652
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mansour_stephan"><b>Mansour</b> Stephan</a>
-,     <a href="../../../author/monkman_sean"><b>Monkman</b> Sean</a> <a href="https://orcid.org/0000-0003-1295-3776" title="ORCID: 0000-0003-1295-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a> <a href="https://orcid.org/0000-0002-4688-1224" title="ORCID: 0000-0002-4688-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="https://orcid.org/0000-0002-1183-7397" title="ORCID: 0000-0002-1183-7397" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roberts_casey"><b>Roberts</b> Casey</a> <a href="https://orcid.org/0009-0006-7835-5292" title="ORCID: 0009-0006-7835-5292" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/friedell_matthew"><b>Friedell</b> Matthew</a> <a href="https://orcid.org/0009-0003-1665-2759" title="ORCID: 0009-0003-1665-2759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/platt_l_shawn"><b>Platt</b> Shawn</a> <a href="https://orcid.org/0000-0003-1837-4572" title="ORCID: 0000-0003-1837-4572" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a> <a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 186, No. 107652
-
-:aca-blank:{ .lg .middle}
-    [`#acceptance`](keyword/acceptance)
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#criteria`](keyword/criteria)
-    [`#practice`](keyword/practice)
-
-
--------------------------
+<a href="../../keyword/acceptance"><button class="btn">#acceptance</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Construction%20in%20Practice" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202937344&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,20 +36,15 @@ tags:
 <a href="https://inciteful.xyz/p/W4402213964" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107652" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107652?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive Construction has increased dramatically within the United States in the last few years. Efforts to develop acceptance criteria have increased since 2020 and are being developed through integration of research efforts and early engagement with partners across academia, industry, and government. This review paper builds on the work by Bos et al. (2022) through addressing gaps identified and outlines developments within the United States through engagements with the international community to align experts within the field towards common goals, acceptance criteria, and the early integration of acceptance criteria with lessons learned for Additive Construction in practice.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/moser_h_newell"><b>Moser</b> Newell</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/esfahani_nasr_ebrahim"><b>Esfahani</b> Ebrahim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../afar_mose_garb_esfa.2022.PFMfAMoCBM/">Print Fidelity Metrics for Additive Manufacturing of Cement-Based Materials</a></li>
       <li><a href="../../../author/bello_d_nicholas"><b>Bello</b> Nicholas</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bell_mema.2023.CRotTaCSo3CPoBbSC/">Comparative Review of the Technology and Case Studies of 3D Concrete Printing of Buildings by Several Companies</a></li>
-      <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bohl_mai_lowk.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>A Comparison of Extrusion 3D Printing, Shotcrete 3D Printing and Conventional Casting</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
@@ -87,8 +62,8 @@ tags:
       <li><a href="../../../author/tu_haidong"><b>Tu</b> Haidong</a>, <a href="../../../author/wei_zhenyun"><b>Wei</b> Zhenyun</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/kahla_nabil"><b>Kahla</b> Nabil</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tu_wei_bahr_kahl.2023.RAaFTi3PCUWM/">Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials</a></li>
       <li><a href="../../../author/wang_t_brydon"><b>Wang</b> Brydon</a>, <a href="../../../author/rimmer_matthew"><b>Rimmer</b> Matthew</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wang_rimm.2021.3PaH/">3D Printing and Housing:<br/>Intellectual Property and Construction Law</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/kim_ki_young"><b>Kim</b> Young</a>, <a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a>, <a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_scop_hadd.2025.AIitRo3PiRB/">An Investigation into the Role of 3D Printing in Residential Buildings:<br/>An Emirati Housing Case Study</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>
@@ -101,4 +76,34 @@ tags:
       <li><a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/petzold_frank"><b>Petzold</b> Frank</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_petz.2025.ODMoDD/">Ontology-Driven Mixture-of-Domain Documentation:<br/>A Backbone Approach Enabling Question Answering for Additive Construction</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wolf.2024.TSQo3CP/">The Status Quo of 3D Concrete Printing:<br/>Are We There Yet?</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{krei_krei_mans_monk.2024.ACiP,
+      author            = "Megan A. Kreiger and Eric L. Kreiger and Stephan Mansour and Sean Monkman and Mohammad Aghajani Delavar and Petros Sideris and Casey Roberts and Matthew Friedell and Shawn L. Platt and Scott Z. Jones",
+      title             = "Additive Construction in Practice: Realities of Acceptance Criteria",
+      doi               = "10.1016/j.cemconres.2024.107652",
+      year              = "2024",
+      journal           = "Cement and Concrete Research",
+      volume            = "186",
+      pages             = "107652",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Kreiger, “Additive Construction in Practice: Realities of Acceptance Criteria”, <i>Cement and Concrete Research</i>, vol. 186, p. 107652, 2024, doi: 10.1016/j.cemconres.2024.107652.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kreiger, Megan A., Eric L. Kreiger, Stephan Mansour, Sean Monkman, Mohammad Aghajani Delavar, Petros Sideris, Casey Roberts, Matthew Friedell, Shawn L. Platt, and Scott Z. Jones. “Additive Construction in Practice: Realities of Acceptance Criteria”. <i>Cement and Concrete Research</i> 186 (2024): 107652. https://doi.org/10.1016/j.cemconres.2024.107652.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

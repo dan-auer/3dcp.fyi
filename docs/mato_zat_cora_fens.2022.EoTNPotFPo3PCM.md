@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paulo Matos, Tuani Zat, Kiara Corazza, Emilia Fensterseifer, Rafael Sakata, Gihad Mohamad, Erich Rodríguez
+    - footer
+title: Matos Paulo, Zat Tuani, Corazza Kiara, Fensterseifer Emilia, Sakata Rafael, Mohamad Gihad, Rodríguez Erich
 description:
 tags:
  - cement
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/15/11/3896/pdf?version=1654054335) Effect of TiO2 Nano-Particles on the Fresh Performance of 3D Printed Cementitious Materials ([2022-05](date/2022/05))
-<a href="https://doi.org/10.3390/ma15113896" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma15113896</a>
+#Effect of TiO2 Nano-Particles on the Fresh Performance of 3D Printed Cementitious Materials ([2022-05](date/2022/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/11/3896/pdf?version=1654054335) <a href="https://doi.org/10.3390/ma15113896" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15113896" target="_blank">10.3390/ma15113896</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matos_ricardo_paulo"><b>de&nbsp;Matos</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1178-4341" title="ORCID: 0000-0003-1178-4341" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zat_tuani"><b>Zat</b>&nbsp;Tuani</a></span>, <a href="../../../author/corazza_kiara"><b>Corazza</b>&nbsp;Kiara</a></span>, <a href="../../../author/fensterseifer_emilia"><b>Fensterseifer</b>&nbsp;Emilia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7022-3846" title="ORCID: 0000-0002-7022-3846" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sakata_dors_rafael"><b>Sakata</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6380-364X" title="ORCID: 0000-0002-6380-364X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohamad_gihad"><b>Mohamad</b>&nbsp;Gihad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1914-4541" title="ORCID: 0000-0003-1914-4541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_davi_erich"><b>Rodríguez</b>&nbsp;Erich</a></span><br>
+Journal Article - Materials, Vol. 15, Iss. 11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/matos_ricardo_paulo"><b>de Matos</b> Paulo</a> <a href="https://orcid.org/0000-0002-3695-1356" title="ORCID: 0000-0002-3695-1356" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a> <a href="https://orcid.org/0000-0003-1178-4341" title="ORCID: 0000-0003-1178-4341" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/corazza_kiara"><b>Corazza</b> Kiara</a>
-,     <a href="../../../author/fensterseifer_emilia"><b>Fensterseifer</b> Emilia</a>
-,     <a href="../../../author/sakata_dors_rafael"><b>Sakata</b> Rafael</a> <a href="https://orcid.org/0000-0002-7022-3846" title="ORCID: 0000-0002-7022-3846" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohamad_gihad"><b>Mohamad</b> Gihad</a> <a href="https://orcid.org/0000-0002-6380-364X" title="ORCID: 0000-0002-6380-364X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rodriguez_davi_erich"><b>Rodríguez</b> Erich</a> <a href="https://orcid.org/0000-0003-1914-4541" title="ORCID: 0000-0003-1914-4541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 15, Iss. 11, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#particle`](keyword/particle)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20TiO2%20Nano-Particles%20on%20the%20Fresh%20Performance%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132311283&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4281879042" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma15113896" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma15113896?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing (3DP) of cementitious materials shows several advantages compared to conventional construction methods, but it requires specific fresh-state properties. Nanomaterials have been used in cement-based materials to achieve specific fresh and hardened properties, being potential candidates for 3DP applications. However, there are no reports on using TiO2 nanoparticles (nano-TiO2) in 3DP cementitious composites. Thus, the current work aims to assess the effect of nano-TiO2 on the fresh performance of 3DP cementitious materials. For this purpose, nano-TiO2 was incorporated in pastes and mortars from 0 to 1.5 wt.%. Time-resolved hydration (in situ XRD) and rheological and printing-related properties (buildability and printability) were evaluated. Results showed that nano-TiO2 particles enhanced the cement hydration kinetics, leading to further ettringite formation up to 140 min compared to plain cement paste. Rheological measurements showed that the nano-TiO2 incorporation progressively increased the static and dynamic stress, viscosity, and structuration rate of pastes. Furthermore, nano-TiO2 improved the buildability of the composites, progressively increasing the maximum number of successive layers printed before failure from 11 (0 wt.% TiO2) to 64 (1.5 wt.% TiO2). By contrast, the nano-TiO2 addition reduced the printability (i.e., the printable period during which the sample was able to be molded by the 3D-printing process) from 140 min (0% TiO2) to 90 min (1.5% TiO2). Thus, incorporating "high" nano-TiO2 contents (e.g., &gt;1 wt.%) was beneficial for buildability but would require a quicker 3DP process. The adoption of nano-TiO2 contents of around 0.75-1.00% may be an interesting choice since it reduced the printability of paste by 30 min compared with the control mix but allowed for printing 24 layers (118% higher than plain mortar).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
@@ -90,8 +66,9 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a></li>
       <li><a href="../../../author/li_ben"><b>Li</b> Ben</a>, <a href="../../../author/li_kaihang"><b>Li</b> Kaihang</a>, <a href="../../../author/lyu_xuetao"><b>Lyu</b> Xuetao</a>, <a href="../../../author/zhao_canhao"><b>Zhao</b> Canhao</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_li_lyu_zhao.2024.MMaPCoMPoBFM3PCBM/">Microscopic Mechanism and Predicting Calculation on Mechanical Properties of Basalt-Fiber-Modified 3D Printing Cement-Based Materials</a></li>
@@ -103,4 +80,34 @@ tags:
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mato_zat_cora_fens.2022.EoTNPotFPo3PCM,
+      author            = "Paulo Ricardo de Matos and Tuani Zat and Kiara Corazza and Emilia Fensterseifer and Rafael Dors Sakata and Gihad Mohamad and Erich Davi Rodríguez",
+      title             = "Effect of TiO2 Nano-Particles on the Fresh Performance of 3D Printed Cementitious Materials",
+      doi               = "10.3390/ma15113896",
+      year              = "2022",
+      journal           = "Materials",
+      volume            = "15",
+      number            = "11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. R. de Matos, “Effect of TiO2 Nano-Particles on the Fresh Performance of 3D Printed Cementitious Materials”, <i>Materials</i>, vol. 15, no. 11, 2022, doi: 10.3390/ma15113896.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Matos, Paulo Ricardo de, Tuani Zat, Kiara Corazza, Emilia Fensterseifer, Rafael Dors Sakata, Gihad Mohamad, and Erich Davi Rodríguez. “Effect of TiO2 Nano-Particles on the Fresh Performance of 3D Printed Cementitious Materials”. <i>Materials</i> 15, no. 11 (2022). https://doi.org/10.3390/ma15113896.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

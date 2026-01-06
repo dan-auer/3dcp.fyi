@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vedat Saruhan, Muhammer Keskinateş, Kamile Felekoğlu, Burak Felekoğlu
+    - footer
+title: Saruhan Vedat, Keskinateş Muhammer, Felekoğlu Kamile, Felekoğlu Burak
 description:
 tags:
  - additive
@@ -22,38 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars:<br/>:aca-blank: A Rheometer-Based Simulation-Analysis ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.jobe.2022.104636" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2022.104636</a>
+#Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars&nbsp;([2022-05](date/2022/05))
+<div class="h1-like">A Rheometer-Based Simulation-Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.104636" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.104636" target="_blank">10.1016/j.jobe.2022.104636</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1337-1364" title="ORCID: 0000-0003-1337-1364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saruhan_vedat"><b>Saruhan</b>&nbsp;Vedat</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8334-3073" title="ORCID: 0000-0001-8334-3073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keskinates_muhammer"><b>Keskinateş</b>&nbsp;Muhammer</a></span>, <a href="../../../author/felekoglu_tosun_kamile"><b>Felekoğlu</b>&nbsp;Kamile</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7426-1698" title="ORCID: 0000-0002-7426-1698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/felekoglu_burak"><b>Felekoğlu</b>&nbsp;Burak</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 54
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/saruhan_vedat"><b>Saruhan</b> Vedat</a> <a href="https://orcid.org/0000-0003-1337-1364" title="ORCID: 0000-0003-1337-1364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/keskinates_muhammer"><b>Keskinateş</b> Muhammer</a> <a href="https://orcid.org/0000-0001-8334-3073" title="ORCID: 0000-0001-8334-3073" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/felekoglu_tosun_kamile"><b>Felekoğlu</b> Kamile</a>
-,     <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="https://orcid.org/0000-0002-7426-1698" title="ORCID: 0000-0002-7426-1698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 54, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#mineral`](keyword/mineral)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Fiber-Reinforcement%20on%20Extrudability%20and%20Buildability%20of%20Mineral-Additive-Modified%20Portland-Cement%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130336101&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4280497799" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2022.104636" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2022.104636?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to analyze the role of fiber reinforcement on the extrudability/buildability of mortars with an alternative rheometer-based simulation method. Mortars reinforced with an innovative high tenacity polymeric fiber and w/o fiber are prepared. The subjected shear rate history of mortars throughout the extrusion pipe is simulated with aid of a rheometer equipped by a dragging ball. Shear rate dependent variation of shear stress and viscosity values as a function of time have been measured. These parameters are associated with the expected shear rates at longitudinal axis of extrusion pipe. Critical points where cross section changes at longitudinal direction are determined and effect of shear rate variation on rheological parameters is discussed. Extrudability and buildability coefficients are proposed based on shear stress and viscosity values at these critical points throughout the extrusion pipe. Test results revealed that fiber reinforcement has a paramount effect on rheological parameters of mortars where proposed simulation method is capable of precisely detect the buildability of fiber-reinforced mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a></li>
@@ -104,12 +77,41 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a>, <a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b> Kelssy</a>, <a href="../../../author/bienvenu_sophie"><b>Bienvenu</b> Sophie</a>, <a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b> Federico</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tude_card_bien_dunk.2024.DaCoaPCMwCaDWA/">Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/beytekin_elif_hatice"><b>Beytekin</b> Hatice</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../sahi_mard_beyt.2024.EoSFUoSBUMaDSPoFR3PC/">Effect of Silica-Fume Utilization on Structural Build-Up, Mechanical and Dimensional Stability Performance of Fiber-Reinforced 3D Printable Concrete</a></li>
       <li><a href="../../../author/rogers_helen"><b>Rogers</b> Helen</a>, <a href="../../../author/srivastava_mohit"><b>Srivastava</b> Mohit</a>, <a href="../../../author/tsakou_myriam-elissavet"><b>Tsakou</b> Myriam-Elissavet</a>, <a href="../../../author/prashad_anisha"><b>Prashad</b> Anisha</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../roge_sriv_tsak_pras.2024.SSCMf3PH/">Sustainable Supply Chain Models for 3D Printed Houses</a></li>
       <li><a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../kana_rama_muth_sanj.2023.EoMAotBo3CP/">Effect of Magnetorheological Additives on the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/mahamoudou_faharidine"><b>Mahamoudou</b> Faharidine</a>, <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a>, <a href="../../../author/elobaid-musa_mohamed_moneef"><b>Elobaid Musa</b> Moneef</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../uddi_maha_deng_elob.2023.PoRPo3PPFRCbML/">Prediction of Rheological Parameters of 3D Printed Polypropylene-Fiber-Reinforced Concrete by Machine Learning</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saru_kesk_fele_fele.2022.EoFRoEaBoMAMPCM,
+      author            = "Vedat Saruhan and Muhammer Keskinateş and Kamile Tosun Felekoğlu and Burak Felekoğlu",
+      title             = "Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars: A Rheometer-Based Simulation-Analysis",
+      doi               = "10.1016/j.jobe.2022.104636",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+      volume            = "54",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Saruhan, M. Keskinateş, K. T. Felekoğlu and B. Felekoğlu, “Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars: A Rheometer-Based Simulation-Analysis”, <i>Journal of Building Engineering</i>, vol. 54, 2022, doi: 10.1016/j.jobe.2022.104636.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Saruhan, Vedat, Muhammer Keskinateş, Kamile Tosun Felekoğlu, and Burak Felekoğlu. “Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars: A Rheometer-Based Simulation-Analysis”. <i>Journal of Building Engineering</i> 54 (2022). https://doi.org/10.1016/j.jobe.2022.104636.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

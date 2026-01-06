@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ning An, Huai Wang, Liu Le, Shuo Li, Peijun Wang, Mei Liu
+    - footer
+title: An Ning, Wang Huai, Le Liu, Li Shuo, Wang Peijun, Liu Mei
 description:
 tags:
  - base
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1177/13694332241291247" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1177/13694332241291247</a>
+#Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/13694332241291247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332241291247" target="_blank">10.1177/13694332241291247</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9627-162X" title="ORCID: 0000-0001-9627-162X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_ning"><b>An</b>&nbsp;Ning</a></span>, <a href="../../../author/wang_huai"><b>Wang</b>&nbsp;Huai</a></span>, <a href="../../../author/le_liu"><b>Le</b>&nbsp;Liu</a></span>, <a href="../../../author/li_shuo"><b>Li</b>&nbsp;Shuo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <a href="../../../author/liu_mei"><b>Liu</b>&nbsp;Mei</a></span><br>
+Journal Article - Advances in Structural Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/an_ning"><b>An</b> Ning</a> <a href="https://orcid.org/0000-0001-9627-162X" title="ORCID: 0000-0001-9627-162X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>
-,     <a href="../../../author/le_liu"><b>Le</b> Liu</a>
-,     <a href="../../../author/li_shuo"><b>Li</b> Shuo</a>
-,     <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> <a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_mei"><b>Liu</b> Mei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Structural Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#detection`](keyword/detection)
-    [`#extrusion`](keyword/extrusion)
-    [`#method`](keyword/method)
-    [`#monitoring`](keyword/monitoring)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Monitoring%20of%20Extrudability%20and%20Buildability%20in%203D%20Concrete%20Printing%20Based%20on%20Target%20Detection%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208186804&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403301397" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1177/13694332241291247" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1177/13694332241291247?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To improve the quality of printed concrete structures, more refined and efficient detection methods are needed for construction monitoring. This paper proposes a target detection model for quantifying the extrudability and buildability of printed concrete. This model combines the squeeze-excitation attention mechanism with the YOLOv8 target detection model, thereby enhancing the target detection capability. The quantification of extrudability is achieved by detecting the number and size of two common defects in the concrete printing process: cracks and notches. The quantification of buildability is achieved by calculating the overall height deviation of concrete printing based on the height of the extrusion height detection box. Within the investigated case, detection results show that the proposed model improves the mean average precision (mAP) by about 0.15 compared to the original YOLOv8 model in the detection of cracks, notches, and extrusion height, reaching 0.94. Most inference times are under 39 milliseconds per image, demonstrating real-time detection capability. For extrudability, detection relative errors for notch widths within 1.5 mm are generally controlled within 10%. For buildability, underprinting and overprinting states can be determined based on the overall height deviation in concrete printing. The proposed method overcomes the problems of low real-time performance and difficulty in quantifying printing status in previous concrete 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../chan_wan_xu_schl.2022.CNNfPCPaSCWCoAVSi3PC/">Convolutional Neural Network for Predicting Crack-Pattern and Stress-Crack-Width Curve of Air-Void Structure in 3D Printed Concrete</a></li>
@@ -91,9 +65,38 @@ tags:
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wan_wang_ma.2022.CaAPPBoTMf3CP/">Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing</a></li>
       <li><a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../yass_hamz_sakk.2020.ABMtOWoRSaC3P/">Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{an_wang_le_li.2024.RTMoEaBi3CPBoTDM,
+      author            = "Ning An and Huai Wang and Liu Le and Shuo Li and Peijun Wang and Mei Liu",
+      title             = "Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method",
+      doi               = "10.1177/13694332241291247",
+      year              = "2024",
+      journal           = "Advances in Structural Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. An, H. Wang, L. Le, S. Li, P. Wang and M. Liu, “Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method”, <i>Advances in Structural Engineering</i>, 2024, doi: 10.1177/13694332241291247.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">An, Ning, Huai Wang, Liu Le, Shuo Li, Peijun Wang, and Mei Liu. “Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method”. <i>Advances in Structural Engineering</i>, 2024. https://doi.org/10.1177/13694332241291247.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

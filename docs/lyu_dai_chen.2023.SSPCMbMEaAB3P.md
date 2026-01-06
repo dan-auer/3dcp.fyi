@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qifeng Lyu, Pengfei Dai, Anguo Chen
+    - footer
+title: Lyu Qifeng, Dai Pengfei, Chen Anguo
 description:
 tags:
  - aggregate
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131909" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131909</a>
+#Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing ([2023-05](date/2023/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131909" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131909" target="_blank">10.1016/j.conbuildmat.2023.131909</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span>, <a href="../../../author/dai_pengfei"><b>Dai</b>&nbsp;Pengfei</a></span>, <a href="../../../author/chen_anguo"><b>Chen</b>&nbsp;Anguo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 392, No. 131909
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>
-,     <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 392, No. 131909
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#bed`](keyword/bed)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#mortar`](keyword/mortar)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#structuration`](keyword/structuration)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Sandwich-Structured%20Porous%20Concrete%20Manufactured%20by%20Mortar-Extrusion%20and%20Aggregate-Bed%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160527815&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4378512823" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131909" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131909?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To facilitate automation in manufacturing porous concrete and also decrease the cement content of relevant 3D printed concrete, a new type of sandwich-structured porous concrete was proposed in this work by using mortarextrusion and aggregate-bed 3D printing. Three mixes of mortar made of cement, sand, water, superplasticizer, hydroxypropyl methylcellulose and sodium gluconate with different water-to-cement ratios were evaluated, and one of which was selected to manufacture the sandwich-structured porous concrete by printing the mortar first and then spreading single-sized coarse aggregates on top of the mortar. The printing process went well with the designed mixes and procedures. The porosity and permeability of the printed porous concrete were tested based on the water permeation methods and X-ray computed tomography. And the compressive strength and splitting tensile strength of the specimens were also tested. Results showed the mortar with a water-to-cement ratio of 0.325 was more appropriate for the present printing. And larger aggregate increased the mortar infill in the pores and thus reduced the porosity of the printed porous concrete, which resulted in higher mechanical strengths and lower permeability. On the contrary, smaller aggregates were prone to overlap each other, which facilitated the printing procedures but reduced the strength of the concrete. Generally, the aggregates with size of 1 ~ 1.5 times of the designed mortar-layer thickness showed better performances on the property tests for the printed porous concrete. Moreover, better buildability resulted in shallower aggregate-embedding depth, and finally increased the permeability but decreased the compressive strengths of the concrete. Larger porosity mainly appeared in smaller-aggregate specimens which reduced the possibility of loading on the aggregate layer during the parallel splitting tensile strength test, and thus increased the measured value. However, larger porosity generally led to smaller compressive and perpendicular splitting tensile strengths but larger permeability. This study may help to increase the manufacturing efficiency and environmental friendliness of porous concrete in future practice.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a></li>
@@ -104,8 +82,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
@@ -121,4 +99,34 @@ tags:
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lyu_dai_chen.2024.MSaOPoTCMbME3PwPMF/">Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers</a></li>
       <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lyu_dai_zong_zhu.2023.PGAaMSo3PVCBwCaS/">Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lyu_dai_chen.2023.SSPCMbMEaAB3P,
+      author            = "Qifeng Lyu and Pengfei Dai and Anguo Chen",
+      title             = "Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2023.131909",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "392",
+      pages             = "131909",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Lyu, P. Dai and A. Chen, “Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing”, <i>Construction and Building Materials</i>, vol. 392, p. 131909, 2023, doi: 10.1016/j.conbuildmat.2023.131909.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lyu, Qifeng, Pengfei Dai, and Anguo Chen. “Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing”. <i>Construction and Building Materials</i> 392 (2023): 131909. https://doi.org/10.1016/j.conbuildmat.2023.131909.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

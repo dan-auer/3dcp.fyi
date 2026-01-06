@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenxin Lao, Yi Tay, Didier Quirin, Ming Tan
+    - footer
+title: Lao Wenxin, Tay Yi, Quirin Didier, Tan Ming
 description:
 tags:
  - additive
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-# The Effect of Nozzle Shapes on the Compactness and Strength of Structure Printed in Additive Manufacturing of Concrete ([2018-05](date/2018/05))
-<a href="https://doi.org/10.25341/d4v01x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.25341/d4v01x</a>
+#The Effect of Nozzle Shapes on the Compactness and Strength of Structure Printed in Additive Manufacturing of Concrete ([2018-05](date/2018/05))
+ <a href="https://doi.org/10.25341/d4v01x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.25341/d4v01x" target="_blank">10.25341/d4v01x</a>
 
--------------------------
+<a href="../../../author/lao_wenxin"><b>Lao</b>&nbsp;Wenxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <a href="../../../author/quirin_didier"><b>Quirin</b>&nbsp;Didier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Contribution - Proceedings of the 3rd International Conference on Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>
-,     <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quirin_didier"><b>Quirin</b> Didier</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 3rd International Conference on Progress in Additive Manufacturing, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#compaction`](keyword/compaction)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#shape`](keyword/shape)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/compaction"><button class="btn">#compaction</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Nozzle%20Shapes%20on%20the%20Compactness%20and%20Strength%20of%20Structure%20Printed%20in%20Additive%20Manufacturing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85053615216&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,20 +40,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2949323160" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.25341/d4v01x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.25341/d4v01x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In direct-extrusion based Additive Manufacturing of Concrete (AMoC), the compactness and the mechanical strength of printed parts can be improved by optimizing the shape of extrudate. The shape of extrudate is significantly affected by the shape of nozzle outlet because of the viscoelastic behavior of fresh concrete. In this paper, different shapes of nozzle were tested to find the nozzle design for the optimized printing quality. Three different nozzles were fabricated by Fused Deposition Method mounted on a mechatronic nozzle, which was plugged on a robotic arm. From the compression test of the specimen and the observation of cross-section of the specimen, the mechanical strength and compactness of the sample were obtained. The result could help to find the relationship between the quality of concrete printing and the shape of nozzle outlet.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../oliv_picc_mila_gram.2025.TEoHC3TNDC/">Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization</a></li>
       <li><a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b> Meryem</a>, <a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yaba_ozer.2025.EAUTR3CPoSFG/">Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries</a></li>
       <li><a href="../../../author/chen_hao"><b>Chen</b> Hao</a>, <a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/chen_peng"><b>Chen</b> Peng</a>, <a href="../../../author/li_ning"><b>Li</b> Ning</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_chen_li.2023.ARotESDfLSEB3CP/">A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing</a></li>
@@ -85,4 +61,32 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../crav_bart_duar_bart.2020.AMMENfFGCP/">A Multi-Material Extrusion-Nozzle for Functionally-Graded Concrete Printing</a></li>
       <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tjahjowidodo_tegoeh"><b>Tjahjowidodo</b> Tegoeh</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../lao_li_tjah.2021.VGNfSQEi3CP/">Variable-Geometry Nozzle for Surface Quality Enhancement in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lao_tay_quir_tan.2018.TEoNSotCaSoSPiAMoC,
+      author            = "Wenxin Lao and Yi Wei Daniel Tay and Didier Quirin and Ming Jen Tan",
+      title             = "The Effect of Nozzle Shapes on the Compactness and Strength of Structure Printed in Additive Manufacturing of Concrete",
+      doi               = "10.25341/d4v01x",
+      year              = "2018",
+      booktitle         = "Proceedings of the 3rd International Conference on Progress in Additive Manufacturing: Pro-AM 2018",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Lao, Y. W. D. Tay, D. Quirin and M. J. Tan, “The Effect of Nozzle Shapes on the Compactness and Strength of Structure Printed in Additive Manufacturing of Concrete”,  2018. doi: 10.25341/d4v01x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lao, Wenxin, Yi Wei Daniel Tay, Didier Quirin, and Ming Jen Tan. “The Effect of Nozzle Shapes on the Compactness and Strength of Structure Printed in Additive Manufacturing of Concrete”. In <i>Proceedings of the 3rd International Conference on Progress in Additive Manufacturing: Pro-AM 2018</i>, 2018. https://doi.org/10.25341/d4v01x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

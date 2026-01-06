@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maša Žujović, Radojko Obradović, Ivana Rakonjac, Jelena Milošević
+    - footer
+title: Žujović Maša, Obradović Radojko, Rakonjac Ivana, Milošević Jelena
 description:
 tags:
  - architecture
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/9/1319/pdf?version=1661678394) 3D Printing Technologies in Architectural Design and Construction:<br/>:aca-blank: A Systematic Literature Review ([2022-08](date/2022/08))
-<a href="https://doi.org/10.3390/buildings12091319" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12091319</a>
+#3D Printing Technologies in Architectural Design and Construction&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">A Systematic Literature Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/9/1319/pdf?version=1661678394) <a href="https://doi.org/10.3390/buildings12091319" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12091319" target="_blank">10.3390/buildings12091319</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6346-5102" title="ORCID: 0000-0001-6346-5102" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zujovic_masa"><b>Žujović</b>&nbsp;Maša</a></span>, <a href="../../../author/obradovic_radojko"><b>Obradović</b>&nbsp;Radojko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5246-9244" title="ORCID: 0000-0002-5246-9244" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rakonjac_ivana"><b>Rakonjac</b>&nbsp;Ivana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7293-8194" title="ORCID: 0000-0001-7293-8194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/milosevic_jelena"><b>Milošević</b>&nbsp;Jelena</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a> <a href="https://orcid.org/0000-0001-6346-5102" title="ORCID: 0000-0001-6346-5102" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>
-,     <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a> <a href="https://orcid.org/0000-0002-5246-9244" title="ORCID: 0000-0002-5246-9244" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="https://orcid.org/0000-0001-7293-8194" title="ORCID: 0000-0001-7293-8194" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#system`](keyword/system)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Technologies%20in%20Architectural%20Design%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138816390&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4293659589" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12091319" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12091319?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The proliferation of digital technologies considerably changed the field of architecture. Digital fabrication pushes architecture into an unexpected new domain of previously unachievable complexity, detail, and materiality. Understanding these technologies’ impact can help direct future research, innovate design and construction processes, and improve the education of future professionals. However, comprehensive reviews offering a holistic perspective on the effects of 3D printing technologies on architecture are limited. Therefore, this study aims to provide a systematic review of state-of-the-art research on 3D printing technologies in architectural design and construction. The review was performed using three major databases, and selected peer-reviewed journal articles published in the last ten-year period were included in quantitative and qualitative analyses. Using bibliometric analysis, the research progress is summarized through the identified trend of the annual number of articles, prominent authors and co-authorship network, and key topics in the literature organized in three clusters. Further, content analysis of selected articles enabled coding cluster themes. Moreover, the analysis differentiated two categories of 3D printing technologies based on the scale of the system, elaborating their peculiarities in terms of materials, methods, and applications. Finally, challenges and promising directions for future work and research challenges are discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "49 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdallah_k_yomna"><b>Abdallah</b> Yomna</a>, <a href="../../../author/estevez_t_alberto"><b>Estévez</b> Alberto</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_este.2021.3PBCB/">3D Printed Biodigital Clay Bricks</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -115,8 +95,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
@@ -145,4 +125,34 @@ tags:
       <li><a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>, <a href="../../../author/mattei_gabriele"><b>Mattei</b> Gabriele</a>, <a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/du_chaoyu"><b>Du</b> Chaoyu</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lin_matt_chei_du.2023.P/">PneuPrint:<br/>3D Printing on Inflatables</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zujo_obra_rako_milo.2022.3PTiADaC,
+      author            = "Maša Žujović and Radojko Obradović and Ivana Rakonjac and Jelena Milošević",
+      title             = "3D Printing Technologies in Architectural Design and Construction: A Systematic Literature Review",
+      doi               = "10.3390/buildings12091319",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Žujović, R. Obradović, I. Rakonjac and J. Milošević, “3D Printing Technologies in Architectural Design and Construction: A Systematic Literature Review”, <i>Buildings</i>, vol. 12, no. 9, 2022, doi: 10.3390/buildings12091319.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Žujović, Maša, Radojko Obradović, Ivana Rakonjac, and Jelena Milošević. “3D Printing Technologies in Architectural Design and Construction: A Systematic Literature Review”. <i>Buildings</i> 12, no. 9 (2022). https://doi.org/10.3390/buildings12091319.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

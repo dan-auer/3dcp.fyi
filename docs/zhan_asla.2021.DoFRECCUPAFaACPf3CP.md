@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yifan Zhang, Farhad Aslani
+    - footer
+title: Zhang Yifan, Aslani Farhad
 description:
 tags:
  - activation
@@ -19,33 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing ([2021-08](date/2021/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.124453" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.124453</a>
+#Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing ([2021-08](date/2021/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.124453" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.124453" target="_blank">10.1016/j.conbuildmat.2021.124453</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0614-4016" title="ORCID: 0000-0003-0614-4016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yifan"><b>Zhang</b>&nbsp;Yifan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 303
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="https://orcid.org/0000-0003-0614-4016" title="ORCID: 0000-0003-0614-4016" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 303, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#engineered`](keyword/engineered)
-    [`#fiber`](keyword/fiber)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Fiber-Reinforced%20Engineered%20Cementitious%20Composite%20Using%20Polyvinyl-Alcohol-Fiber%20and%20Activated%20Carbon-Powder%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112374323&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3196213328" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.124453" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.124453?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) technology offers a revolutionary technique of building modern structures with lower costs, less construction wastes, and higher efficiency compared to traditional construction processes. Concretes produced by 3DCP exhibit better performance in various aspects, compared to traditionally cast concretes. This study proposes a polyvinyl alcohol (PVA) fibre reinforced engineered cementitious composite (ECC) coupling activated carbon powder (ACP), which is preferred for 3DCP. To develop a preferred mix that has both competitive mechanical strength and printability for 3DCP, seven mixes with varying contents of PVA (1 vol % and 1.5 vol%) and ACP (0.5 wt% and 1 wt%) were prepared and tested by traditional casting. To evaluate the performance of each mix, fresh properties such as slump flow and mechanical properties, including compressive strength and flexural strength, were assessed. A preferred mix with the highest flexural strength was then chosen and optimised through the re-calibration of the use of chemical admixtures. A group of samples of the adjusted mix was then prepared by 3DCP and the aforementioned properties tested and compared with the cast ones. Results show that the printed samples had less compressive strength but still remained competitive compared to cast samples, while their flexural strength was substantially enhanced. Moreover, the structure’s anisotropy of printed mix was also studied, leading to the finding that when the filament was perpendicular to the loading direction, higher compressive strength and flexural strength were obtained, compared to the parallel position of the filament vis-a-vis the loading direction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
@@ -83,8 +60,8 @@ tags:
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/chen_long"><b>Chen</b> Long</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../sun_wang_wang_chen.2020.IoMWNotFaHPoa3PPMI/">Influence of Multi-Walled Nanotubes on the Fresh and Hardened Properties of a 3D Printing PVA Mortar Ink</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "56 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
@@ -142,4 +119,33 @@ tags:
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../sing_liu_xiao_lyu.2022.MaMPo3PCDwSFuDLD/">Mechanical and Macrostructural Properties of 3D Printed Concrete Dosed with Steel-Fibers under Different Loading-Direction</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_asla.2021.DoFRECCUPAFaACPf3CP,
+      author            = "Yifan Zhang and Farhad Aslani",
+      title             = "Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing",
+      doi               = "10.1016/j.conbuildmat.2021.124453",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "303",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang  and F. Aslani, “Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing”, <i>Construction and Building Materials</i>, vol. 303, 2021, doi: 10.1016/j.conbuildmat.2021.124453.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yifan, and Farhad Aslani. “Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing”. <i>Construction and Building Materials</i> 303 (2021). https://doi.org/10.1016/j.conbuildmat.2021.124453.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #rib
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS/">Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs</a></li>
   <li><a href="../../../author/hua_hao"><b>Hua</b> Hao</a>, <a href="../../../author/liu_yizhuo"><b>Liu</b> Yizhuo</a>, <a href="../../../author/hovestadt_ludger"><b>Hovestadt</b> Ludger</a>, <a href="../../../author/he_siyuan"><b>He</b> Siyuan</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hua_liu_hove_he.2025.DN/">Digital Nervi:<br/>Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork</a></li>
   <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../enge_hegg_cla.2025.MAFwC/">Multimodal Automated Fabrication with Concrete:<br/>Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</a></li>

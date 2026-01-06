@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Binrong Zhu, Yufei Wang, Junbo Sun, Yang Wei, Huzi Ye, Hongyu Zhao, Xiangyu Wang
+    - footer
+title: Zhu Binrong, Wang Yufei, Sun Junbo, Wei Yang, Ye Huzi, Zhao Hongyu, Wang Xiangyu
 description:
 tags:
  - cement
@@ -20,39 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2023.e02607) An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.cscm.2023.e02607" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2023.e02607</a>
+#An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites ([2023-10](date/2023/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02607) <a href="https://doi.org/10.1016/j.cscm.2023.e02607" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02607" target="_blank">10.1016/j.cscm.2023.e02607</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2915-3898" title="ORCID: 0000-0003-2915-3898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wei_yang"><b>Wei</b>&nbsp;Yang</a></span>, <a href="../../../author/ye_huzi"><b>Ye</b>&nbsp;Huzi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span><br>
+Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02607
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> <a href="https://orcid.org/0000-0003-2915-3898" title="ORCID: 0000-0003-2915-3898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>
-,     <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02607
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#compression`](keyword/compression)
-    [`#experiment`](keyword/experiment)
-    [`#flexural`](keyword/flexural)
-    [`#influence`](keyword/influence)
-    [`#particle`](keyword/particle)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rubber`](keyword/rubber)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Experimental%20Study%20on%20the%20Influence%20of%20Waste-Rubber-Particles%20on%20the%20Compressive%2C%20Flexural%20and%20Impact%20Properties%20of%203D%20Printable%20Sustainable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175051233&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387873177" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2023.e02607" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2023.e02607?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To promote the sustainable development of the construction industry, this study examined the influence of the rubber particles addition on the fresh and hardened engineering properties of rubber particle (RP) modified 3D printable sustainable cementitious composites (3DPSCC) incorporating polypropylene (PP) fibers, in which RP derived from waste tires partially replaced sand between 0% and 100% volume replacement. A series of flowability tests, printing tests and mechanical tests in different loading directions were carried out to investigate the printability and anisotropic mechanical properties of the 3DPSCC. The results show that all test specimens can be successfully printed due to their good workability, extrudability, and buildability in the fresh state. The compressive, flexural strength, and impact strengths of 3DPSCC, in general, decreased with the increasing RP content and exhibited obvious anisotropy, which could be owing to the presence of both inter-layer and intra-layer interfaces in each group of specimens during the printing process. The impact resistant of the modified specimens improved with the addition of RP, as the average maximum displacement gradually increased from 0.41 mm to 0.92 mm, despite the weakening strength. The optimal mixture was regarded as RP-40 (40% RP replacement) exhibiting comparable anisotropic compressive strength (higher than 30 MPa), enough anisotropic flexural strength (higher than 4 MPa), and superior energy dissipation capacity (highest among all 3DPSCC), which can meet the strength requirement of concrete (i.e., 25 MPa for steel reinforced concrete structure) and is suitable for structural applications as a sustainable impact-resistant material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -120,8 +91,8 @@ tags:
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhu_xiaowei"><b>Zhu</b> Xiaowei</a>, <a href="../../../author/zhang_xudong"><b>Zhang</b> Xudong</a>, <a href="../../../author/zhang_jicheng"><b>Zhang</b> Jicheng</a>, <a href="../../../author/chen_miao"><b>Chen</b> Miao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_zhan_zhan_chen.2025.SoATaMPo3PSAIC/">Study on Anisotropic Thermal and Mechanical Properties of 3D-Printed Scrap-Aerogel-Incorporated Concrete</a></li>
       <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_sun_wang_huan.2025.EaEEoaP3PSUURAfCaDW/">Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste:<br/>A Case Study in China</a></li>
       <li><a href="../../../author/su_yanli"><b>Su</b> Yanli</a>, <a href="../../../author/wu_chang"><b>Wu</b> Chang</a>, <a href="../../../author/shang_jiaqi"><b>Shang</b> Jiaqi</a>, <a href="../../../author/zhang_pu"><b>Zhang</b> Pu</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../su_wu_shan_zhan.2025.MPo3PHDCCwSCaMCR/">Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber</a></li>
@@ -140,4 +111,34 @@ tags:
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../nair_trip_neit.2024.CRaFPiDF3PCUCaTDoPLH/">Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC,
+      author            = "Binrong Zhu and Yufei Wang and Junbo Sun and Yang Wei and Huzi Ye and Hongyu Zhao and Xiangyu Wang",
+      title             = "An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites",
+      doi               = "10.1016/j.cscm.2023.e02607",
+      year              = "2023",
+      journal           = "Case Studies in Construction Materials",
+      volume            = "19",
+      pages             = "e02607",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zhu, “An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites”, <i>Case Studies in Construction Materials</i>, vol. 19, p. e02607, 2023, doi: 10.1016/j.cscm.2023.e02607.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Binrong, Yufei Wang, Junbo Sun, Yang Wei, Huzi Ye, Hongyu Zhao, and Xiangyu Wang. “An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites”. <i>Case Studies in Construction Materials</i> 19 (2023): e02607. https://doi.org/10.1016/j.cscm.2023.e02607.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alireza Kashani, Tuan Ngo
+    - footer
+title: Kashani Alireza, Ngo Tuan
 description:
 tags:
  - concrete
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete ([2017-07](date/2017/07))
-<a href="https://doi.org/10.22260/isarc2018/0037" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2018/0037</a>
+#Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete ([2017-07](date/2017/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2018/0037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2018/0037" target="_blank">10.22260/isarc2018/0037</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ngo_d_tuan"><b>Ngo</b>&nbsp;Tuan</a></span><br>
+Contribution - Proceedings of the 35th International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 35th International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mixture`](keyword/mixture)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Mixture-Properties%20for%203D%20Printing%20of%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086058416&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,26 +36,21 @@ tags:
 <a href="https://inciteful.xyz/p/W2884084330" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2018/0037" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2018/0037?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Freedom of design, customisation, automation, waste minimisation, reduced labour and building complex structures with cheaper materials are the main initiatives for developing 3D printed structures. The fresh properties important aspects of concrete are the most of a successful 3D printing. Concrete requires high workability for extrusion, optimum open time and high early strength in order to support the subsequent layers for 3D printing. Therefore, a mixture design that can satisfy these requirements is needed. Geopolymer concrete is a sustainable solution to traditional Portland cementbased concrete that uses waste materials. In addition, the controlled alkali-activation of geopolymer precursors in order to achieve optimum setting and workability compared to Portland cement provides freedom of mixture design for 3D printing. This paper will investigate the fresh properties of geopolymer mixtures in order to find an effective mixture that is compatible with 3D printing technology and can be also strong enough to stand as a structure. Rheology (workability), open time and compressive strength, as well as, printing parameters such as extrusion pressure and printhead speed was studied in order to achieve a successful geopolymer mixture for 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
-      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../ghod_sing_sing_chow.2025.AMSMaSiCaBA/">Additively Manufactured Smart Materials and Structures in Construction and Building Applications</a></li>
@@ -108,4 +89,33 @@ tags:
       <li><a href="../../../author/mahadevan_meera"><b>Mahadevan</b> Meera</a>, <a href="../../../author/francis_ann"><b>Francis</b> Ann</a>, <a href="../../../author/thomas_albert"><b>Thomas</b> Albert</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../maha_fran_thom.2020.ASBIoSAo3PS/">A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures</a></li>
       <li><a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/texier-mandoki_n"><b>Texier-Mandoki</b> N.</a>, <a href="../../../author/bourbon_x"><b>Bourbon</b> X.</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../arch_texi_bour_caro.2020.AotGCFBttSP/">Adaptation of the Geopolymer Composite Formulation Binder to the Shaping Process</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kash_ngo.2018.OoMPf3PoGC,
+      author            = "Alireza Kashani and Tuan D. Ngo",
+      title             = "Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete",
+      doi               = "10.22260/isarc2018/0037",
+      year              = "2018",
+      booktitle         = "Proceedings of the 35th International Symposium on Automation and Robotics in Construction",
+      editor            = "Jochen Teizer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kashani  and T. D. Ngo, “Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete”, in <i>Proceedings of the 35th International Symposium on Automation and Robotics in Construction</i>,  2018. doi: 10.22260/isarc2018/0037.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kashani, Alireza, and Tuan D. Ngo. “Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete”. In <i>Proceedings of the 35th International Symposium on Automation and Robotics in Construction</i>, edited by Jochen Teizer, 2018. https://doi.org/10.22260/isarc2018/0037.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

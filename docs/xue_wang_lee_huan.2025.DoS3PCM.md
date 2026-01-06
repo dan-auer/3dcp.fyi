@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jia-Chen Xue, Wei-Chien Wang, Ming-Gin Lee, Chia-Yun Huang
+    - footer
+title: Xue Jia-Chen, Wang Wei-Chien, Lee Ming-Gin, Huang Chia-Yun
 description:
 tags:
  - concrete
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of Sustainable 3D Printing Concrete Materials:<br/>:aca-blank: Impact of Natural Minerals and Wastes at High Replacement Ratios ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.jobe.2025.114020" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114020</a>
+#Development of Sustainable 3D Printing Concrete Materials&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Impact of Natural Minerals and Wastes at High Replacement Ratios</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114020" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114020" target="_blank">10.1016/j.jobe.2025.114020</a>
 
--------------------------
+<a href="../../../author/xue_jia-chen"><b>Xue</b>&nbsp;Jia-Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2400-1644" title="ORCID: 0000-0002-2400-1644" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_wei-chien"><b>Wang</b>&nbsp;Wei-Chien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0209-4226" title="ORCID: 0000-0003-0209-4226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_ming-gin"><b>Lee</b>&nbsp;Ming-Gin</a></span>, <a href="../../../author/huang_chia-yun"><b>Huang</b>&nbsp;Chia-Yun</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114020
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>
-,     <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a> <a href="https://orcid.org/0000-0002-2400-1644" title="ORCID: 0000-0002-2400-1644" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a> <a href="https://orcid.org/0000-0003-0209-4226" title="ORCID: 0000-0003-0209-4226" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114020
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#height`](keyword/height)
-    [`#material`](keyword/material)
-    [`#mineral`](keyword/mineral)
-    [`#natural`](keyword/natural)
-    [`#print`](keyword/print)
-    [`#ratio`](keyword/ratio)
-    [`#replacement`](keyword/replacement)
-    [`#sustainability`](keyword/sustainability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Sustainable%203D%20Printing%20Concrete%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016094472&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414161194" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114020" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114020?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study examined nine natural mineral derivatives and industrial/agricultural wastes available in Taiwan: silica fume (SF), fly ash (FA), blast-furnace slag (BF), limestone powder (LP), metakaolin (MK), paper sludge fly ash (PSFA), reactive ultra-fine fly ash (RUFA), oyster shell powder (OSP), and calcium sulfate whisker (CSW). Their effects on 3D printing concrete matrices with 30% cement replacement were evaluated by measuring rheological parameters (static yield stress, dynamic yield stress, plastic viscosity, viscosity recovery) and compressive strength. Results showed that materials with hydraulic activity and fine particle size (SF, MK, RUFA, PSFA) enhanced printability without reducing strength, increasing static yield stress by 30%–61%. FA and BF, with larger particle size, caused no adverse effects, whereas inert materials (LP, OSP, CSW) weakened rheology, reducing static yield stress by 36%–46%. At 30% replacement, SF, MK, RUFA, FA, and BF maintained strength and showed optimal potential for application at levels ≤30%, ensuring print quality while improving environmental benefits. Notably, SF, FA, and BF remained effective at up to 60% replacement, with all mixtures maintaining height loss within 0%–4% and tanθ within 0–0.09, confirming excellent printability and minimal structural deformation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
       <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB/">Fresh and Strength Properties of 3D Printable Concrete Mixtures Utilising a High Volume of Sustainable Alternative Binders</a></li>
@@ -91,9 +67,38 @@ tags:
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../yang_che.2022.RoAMFaaPRfFAi3PCM/">Recycling of Aggregate Micro-Fines as a Partial Replacement for Fly-Ash in 3D Printing Cementitious Materials</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xue_wang_lee_huan.2025.DoS3PCM,
+      author            = "Jia-Chen Xue and Wei-Chien Wang and Ming-Gin Lee and Chia-Yun Huang",
+      title             = "Development of Sustainable 3D Printing Concrete Materials: Impact of Natural Minerals and Wastes at High Replacement Ratios",
+      doi               = "10.1016/j.jobe.2025.114020",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114020",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J.-C. Xue, W.-C. Wang, M.-G. Lee and C.-Y. Huang, “Development of Sustainable 3D Printing Concrete Materials: Impact of Natural Minerals and Wastes at High Replacement Ratios”, <i>Journal of Building Engineering</i>, p. 114020, 2025, doi: 10.1016/j.jobe.2025.114020.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xue, Jia-Chen, Wei-Chien Wang, Ming-Gin Lee, and Chia-Yun Huang. “Development of Sustainable 3D Printing Concrete Materials: Impact of Natural Minerals and Wastes at High Replacement Ratios”. <i>Journal of Building Engineering</i>, 2025, 114020. https://doi.org/10.1016/j.jobe.2025.114020.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Norman Hack, Willi Lauer
+    - footer
+title: Hack Norman, Lauer Willi
 description:
 tags:
  - concrete
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mesh Mould:<br/>:aca-blank: Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork ([2014-04](date/2014/04))
-<a href="https://doi.org/10.1002/ad.1753" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/ad.1753</a>
+#Mesh Mould&nbsp;([2014-04](date/2014/04))
+<div class="h1-like">Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/ad.1753" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.1753" target="_blank">10.1002/ad.1753</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b>&nbsp;Willi</a></span><br>
+Journal Article - Architectural Design, Vol. 84, Iss. 3, pp. 44-53
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Design, Vol. 84, Iss. 3, pp. 44-53
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fabrication`](keyword/fabrication)
-    [`#formwork`](keyword/formwork)
-    [`#mesh`](keyword/mesh)
-    [`#mould`](keyword/mould)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#robot`](keyword/robot)
-    [`#space`](keyword/space)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mesh%20Mould" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84899861069&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,20 +39,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2067389456" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/ad.1753" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/ad.1753?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital architecture in the 1990s was predominantly concerned with new computer-aided design strategies and was often criticised for neglecting issues of materialisation and construction.1 Th e gap between what it is digitally possible to design and what is physically feasible to build narrowed when throughout the early 2000s CNC machines became more commonly available and eventually enabled designers and architects to bring their designs back from the virtual medium into the physical world. Th ese machines off ered unprecedented freedom for the fabrication of geometrically complex parts and intricate surfaces. However, they were largely limited to subtractive processes and prefabrication. With the introduction of industrial robots to architectural research,2 the scope of digitally controllable fabrication processes widened dramatically. Unlike with most specialised machines, such as CNC gantry mills, the scope of the industrial robot is not defi ned and limited by its kinematics and off ers an opportunity not only to customise the machined parts, but beyond that the entire fabrication process. Th e generic, versatile and anthropomorphic nature of robots has inspired architecture students and researchers to equip these machines with almost every conceivable tool for gluing, melting, drilling, winding, cutting, pouring or painting. Even though, in the domain of architecture, robotic fabrication is still a new fi eld of research, a remarkable amount of small yet sophisticated architectural structures have already been built and have impressively demonstrated the fl exibility of such robots. Displaying a high degree of spatial and structural diff erentiation, these prototypical designs already hint at the potential for the application at a larger scale of load-bearing structures. However, until now applications in construction at the large scale have barely been investigated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "103 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
       <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>
@@ -171,6 +152,36 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2017/03">(2017-03)</a><br><a href="../../../llor_reit_wang_gram.2017.SDC/">Smart Dynamic Casting:<br/>Slipforming with Flexible Formwork</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a>, <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2013/09">(2013-09)</a><br><a href="../../../hack_laue_lang_gram.2013.OR/">Overcoming Repetition:<br/>Robotic Fabrication Processes at a Large-Scale</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hack_laue.2014.MM,
+      author            = "Norman Peter Hack and Willi Viktor Lauer",
+      title             = "Mesh Mould: Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork",
+      doi               = "10.1002/ad.1753",
+      year              = "2014",
+      journal           = "Architectural Design",
+      volume            = "84",
+      number            = "3",
+      pages             = "44--53",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. P. Hack  and W. V. Lauer, “Mesh Mould: Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork”, <i>Architectural Design</i>, vol. 84, no. 3, pp. 44–53, 2014, doi: 10.1002/ad.1753.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hack, Norman Peter, and Willi Viktor Lauer. “Mesh Mould: Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork”. <i>Architectural Design</i> 84, no. 3 (2014): 44–53. https://doi.org/10.1002/ad.1753.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

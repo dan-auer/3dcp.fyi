@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: He Zhu, Kequan Yu, Wesley McGee, Tsz Ng, Victor Li
+    - footer
+title: Zhu He, Yu Kequan, McGee Wesley, Ng Tsz, Li Victor
 description:
 tags:
  - cement
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733109" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733109</a>
+#Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733109" target="_blank">10.14359/51733109</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1503-6076" title="ORCID: 0000-0003-1503-6076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_he"><b>Zhu</b>&nbsp;He</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcgee_wesley"><b>McGee</b>&nbsp;Wesley</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1840-9130" title="ORCID: 0000-0003-1840-9130" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ng_yan_tsz"><b>Ng</b>&nbsp;Tsz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 111-122
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_he"><b>Zhu</b> He</a> <a href="https://orcid.org/0000-0003-1503-6076" title="ORCID: 0000-0003-1503-6076" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> <a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> <a href="https://orcid.org/0000-0003-1840-9130" title="ORCID: 0000-0003-1840-9130" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 111-122
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#composite`](keyword/composite)
-    [`#dimension`](keyword/dimension)
-    [`#engineered`](keyword/engineered)
-    [`#limestone`](keyword/limestone)
-    [`#print`](keyword/print)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Limestone-Calcined-Clay-Cement%20for%20Three-Dimensional%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122056461&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3207828311" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733109" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733109?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The feasibility of three-dimensional (3D)-printable (3DP) engineered cementitious composites (ECC) has previously been demonstrated. However, the high carbon footprint of ordinary portland cement-based ECC remains a sustainability challenge. An emerging green limestone calcined clay cement was employed as an intrinsic rheology modifier. Both fresh and hardened properties were investigated. The lower-carbon cement increased the viscosity and shape-retention ability compared to portland cement-based ECC, endowing the new composite with intrinsic printability. The compressive strength and split tensile strength exhibited anisotropy, depending on the loading direction relative to the layered geometry. Despite the negative impact of the progressive cavity pump on fiber dispersion, 3D-printable limestone calcined clay cement-based ECC retained a ductility of 3.0% at 28 days, showing promise in sustainable construction applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -81,8 +58,8 @@ tags:
       <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
@@ -100,4 +77,35 @@ tags:
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_yu_mcge_ng.2021.LCCCfTDPECC,
+      author            = "He Zhu and Kequan Yu and Wesley McGee and Tsz Yan Ng and Victor C. Li",
+      title             = "Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites",
+      doi               = "10.14359/51733109",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "111--122",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhu, K. Yu, W. McGee, T. Y. Ng and V. C. Li, “Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 111–122, 2021, doi: 10.14359/51733109.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, He, Kequan Yu, Wesley McGee, Tsz Yan Ng, and Victor C. Li. “Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 111–22. https://doi.org/10.14359/51733109.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

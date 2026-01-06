@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehdi Chougan, Seyed Ghaffar, Behzad Nematollahi, Paweł Sikora, Tobias Dorn, Dietmar Stephan, Abdulrahman Albar, Mazen Kheetan
+    - footer
+title: Chougan Mehdi, Ghaffar Seyed, Nematollahi Behzad, Sikora Paweł, Dorn Tobias, Stephan Dietmar, Albar Abdulrahman, Kheetan Mazen
 description:
 tags:
  - activation
@@ -20,40 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2022.111183) Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.matdes.2022.111183" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2022.111183</a>
+#Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2022.111183) <a href="https://doi.org/10.1016/j.matdes.2022.111183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2022.111183" target="_blank">10.1016/j.matdes.2022.111183</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorn_tobias"><b>Dorn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/albar_m_abdulrahman"><b>Albar</b>&nbsp;Abdulrahman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kheetan_j_mazen"><b>al&nbsp;Kheetan</b>&nbsp;Mazen</a></span><br>
+Journal Article - Materials & Design
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a> <a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> <a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kheetan_j_mazen"><b>al Kheetan</b> Mazen</a> <a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials & Design, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#additive`](keyword/additive)
-    [`#alkali`](keyword/alkali)
-    [`#clay`](keyword/clay)
-    [`#cost`](keyword/cost)
-    [`#effect`](keyword/effect)
-    [`#low`](keyword/low)
-    [`#material`](keyword/material)
-    [`#mineral`](keyword/mineral)
-    [`#natural`](keyword/natural)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Natural%20and%20Calcined-Halloysite-Clay-Minerals%20as%20Low-Cost-Additives%20on%20the%20Performance%20of%203D%20Printed%20Alkali-Activated%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138779215&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,20 +42,15 @@ tags:
 <a href="https://inciteful.xyz/p/W4297860807" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matdes.2022.111183" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matdes.2022.111183?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the effects of natural and calcined halloysite clay minerals (‘‘NH” and ‘‘CH”, respectively) on the performance of 3D printed alkali-activated materials (AAMs). Halloysite clay minerals are selected as they are low-cost and abundantly available. At first, different characterisation techniques were employed to characterise the NH and CH additives. Mechanical performance, extrusion window, and shape stability of several AAM formulations containing various dosages (0.5 wt% to 5 wt %) of the NH and CH additives were evaluated. The best-performing mixtures in terms of fresh and hardened properties namely, NH-1.5 and CH-1.5 mixtures (containing 1.5 wt% ofNH and CH additives, respectively) were then selected for 3D printing. The results showed that the CH-1.5 mixture exhibited enhanced shape stability, buildability, and mechanical properties as compared to the control mixture. The flexural and compressive strengths of 3D printed CH-1.5 samples were 88% and 40%, respectively higher than those of the printed control samples. Using the CH-1.5 mixture, a twisted column with an intricate shape was printed to verify the suitability of the developed CH-modified AAM for the construction of complex structures. This study establishes the use of halloysite clay minerals as low-cost additives for enhancing the mechanical properties and printing performance of AAMs.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
-      <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chou_ghaf_nema_siko.2022.EoNaCHCMaLCAotPo3PAAM/">Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -93,8 +62,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../noai_chou_samb_vale.2025.OLCCCCELGWCf3PA/">Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications</a></li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/seidy_eslam"><b>Seidy</b> Eslam</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../noai_chou_seid_alba.2025.OLCCCfE3PPoLCM/">Optimizing Limestone Calcined Clay Cement for Enhanced 3D Printing Performance of Low-Carbon Materials</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
@@ -123,6 +92,33 @@ tags:
       <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../saho_gupt.2023.3PEBAAM/">3D Printable Earth-Based Alkali-Activated Materials:<br/>Role of Mix-Design and Clay-Rich Soil</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_xing_sun_feng.2023.MSSCaHMPo3PBW/">Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
-      <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chou_ghaf_nema_siko.2022.EoNaCHCMaLCAotPo3PAAM/">Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chou_ghaf_nema_siko.2022.EoNaCHCMaLCAotPo3PAAM,
+      author            = "Mehdi Chougan and Seyed Hamidreza Ghaffar and Behzad Nematollahi and Paweł Sikora and Tobias Dorn and Dietmar Stephan and Abdulrahman M. Albar and Mazen J. al Kheetan",
+      title             = "Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials",
+      doi               = "10.1016/j.matdes.2022.111183",
+      year              = "2022",
+      journal           = "Materials & Design",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chougan, “Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials”, <i>Materials & Design</i>, 2022, doi: 10.1016/j.matdes.2022.111183.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chougan, Mehdi, Seyed Hamidreza Ghaffar, Behzad Nematollahi, Paweł Sikora, Tobias Dorn, Dietmar Stephan, Abdulrahman M. Albar, and Mazen J. al Kheetan. “Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials”. <i>Materials & Design</i>, 2022. https://doi.org/10.1016/j.matdes.2022.111183.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

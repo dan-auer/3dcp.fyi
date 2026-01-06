@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lei Wang, Venkatesh Nerella, Dianmo Li, Yuying Zhang, Bin Ma, Egor Ivaniuk, Junyi Zhang, Xiaohong Zhu, Jianhua Yan, Viktor Mechtcherine, Daniel Tsang
+    - footer
+title: Wang Lei, Nerella Venkatesh, Li Dianmo, Zhang Yuying, Ma Bin, Ivaniuk Egor, Zhang Junyi, Zhu Xiaohong, Yan Jianhua, Mechtcherine Viktor, Tsang Daniel
 description:
 tags:
  - augmentation
@@ -13,36 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1038/s43246-024-00700-3) Biochar-Augmented Climate-Positive 3D Printable Concrete ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1038/s43246-024-00700-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s43246-024-00700-3</a>
+#Biochar-Augmented Climate-Positive 3D Printable Concrete ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1038/s43246-024-00700-3) <a href="https://doi.org/10.1038/s43246-024-00700-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s43246-024-00700-3" target="_blank">10.1038/s43246-024-00700-3</a>
 
--------------------------
+<a href="../../../author/wang_lei"><b>Wang</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <a href="../../../author/li_dianmo"><b>Li</b>&nbsp;Dianmo</a></span>, <a href="../../../author/zhang_yuying"><b>Zhang</b>&nbsp;Yuying</a></span>, <a href="../../../author/ma_bin"><b>Ma</b>&nbsp;Bin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b>&nbsp;Egor</a></span>, <a href="../../../author/zhang_junyi"><b>Zhang</b>&nbsp;Junyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_xiaohong"><b>Zhu</b>&nbsp;Xiaohong</a></span>, <a href="../../../author/yan_jianhua"><b>Yan</b>&nbsp;Jianhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tsang_c-w_daniel"><b>Tsang</b>&nbsp;Daniel</a></span><br>
+Journal Article - Communications Materials, Vol. 5, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_dianmo"><b>Li</b> Dianmo</a>
-,     <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>
-,     <a href="../../../author/ma_bin"><b>Ma</b> Bin</a>
-,     <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> <a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_junyi"><b>Zhang</b> Junyi</a>
-,     <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a> <a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yan_jianhua"><b>Yan</b> Jianhua</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> <a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Communications Materials, Vol. 5, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#augmentation`](keyword/augmentation)
-    [`#climate`](keyword/climate)
-    [`#concrete`](keyword/concrete)
-    [`#positive`](keyword/positive)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/augmentation"><button class="btn">#augmentation</button></a> <a href="../../keyword/climate"><button class="btn">#climate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/positive"><button class="btn">#positive</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Biochar-Augmented%20Climate-Positive%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210505030&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404816326" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s43246-024-00700-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s43246-024-00700-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) concrete printing is a revolutionary technology in the construction industry. Here we show that climate-positive biochar is a carbon-negative additive for decreasing the carbon footprint of 3D printable concrete, while enhancing its performance. As biochar enhanced the effective water-tobinder ratio and served as a substrate for hydrates, the polymerization of hydrates increased in biocharaugmented concrete. The incorporation of 2wt% biochar enhanced the structural build-up rate of fresh mixtures by 22% at 40 min. The 3D printing tests demonstrated that biochar improved the pumpability and extrudability of mixtures at the initial 20 min, and enhanced the buildability of 3D printed concretes at the after 40min. The carbon footprint of 3D printable concretewas reducedby 8.3% through incorporating 2 wt % biochar. Thus, we developed a desirable biochar-augmented mixture for 3D concrete printing. Future field-scale application will make substantial contribution to the attainment of carbon emission reduction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
@@ -88,8 +62,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
       <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
@@ -97,4 +71,34 @@ tags:
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/khan_hilal"><b>Khan</b> Hilal</a>, <a href="../../../author/zahid_zamil"><b>Zahid</b> Zamil</a>, <a href="../../../author/hussain_fazal"><b>Hussain</b> Fazal</a>, <a href="../../../author/ahmad_junaid"><b>Ahmad</b> Junaid</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../khan_zahi_huss_ahma.2025.SMBBCCfCSESaSIA/">Sustainable Multifunctional Biochar-Based Cementitious Composites for Carbon Sequestration, Energy Storage, and Smart Infrastructure Applications:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_nere_li_zhan.2024.BACP3PC,
+      author            = "Lei Wang and Venkatesh Naidu Nerella and Dianmo Li and Yuying Zhang and Bin Ma and Egor Ivaniuk and Junyi Zhang and Xiaohong Zhu and Jianhua Yan and Viktor Mechtcherine and Daniel C. W. Tsang",
+      title             = "Biochar-Augmented Climate-Positive 3D Printable Concrete",
+      doi               = "10.1038/s43246-024-00700-3",
+      year              = "2024",
+      journal           = "Communications Materials",
+      volume            = "5",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Wang, “Biochar-Augmented Climate-Positive 3D Printable Concrete”, <i>Communications Materials</i>, vol. 5, no. 1, 2024, doi: 10.1038/s43246-024-00700-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Lei, Venkatesh Naidu Nerella, Dianmo Li, Yuying Zhang, Bin Ma, Egor Ivaniuk, Junyi Zhang, et al.. “Biochar-Augmented Climate-Positive 3D Printable Concrete”. <i>Communications Materials</i> 5, no. 1 (2024). https://doi.org/10.1038/s43246-024-00700-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

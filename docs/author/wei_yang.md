@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wei Yang 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>

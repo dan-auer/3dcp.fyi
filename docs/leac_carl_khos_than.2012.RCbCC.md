@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Neil Leach, Anders Carlson, Behrokh Khoshnevis, Madhu Thangavelu
+    - footer
+title: Leach Neil, Carlson Anders, Khoshnevis Behrokh, Thangavelu Madhu
 description:
 tags:
  - case
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotic Construction by Contour Crafting:<br/>:aca-blank: The Case of Lunar Construction ([2012-09](date/2012/09))
-<a href="https://doi.org/10.1260/1478-0771.10.3.423" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1260/1478-0771.10.3.423</a>
+#Robotic Construction by Contour Crafting&nbsp;([2012-09](date/2012/09))
+<div class="h1-like">The Case of Lunar Construction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1260/1478-0771.10.3.423" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1260/1478-0771.10.3.423" target="_blank">10.1260/1478-0771.10.3.423</a>
 
--------------------------
+<a href="../../../author/leach_neil"><b>Leach</b>&nbsp;Neil</a></span>, <a href="../../../author/carlson_anders"><b>Carlson</b>&nbsp;Anders</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b>&nbsp;Madhu</a></span><br>
+Journal Article - International Journal of Architectural Computing, Vol. 10, Iss. 3, pp. 423-438
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/leach_neil"><b>Leach</b> Neil</a>
-,     <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>
-,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Architectural Computing, Vol. 10, Iss. 3, pp. 423-438
-
-:aca-blank:{ .lg .middle}
-    [`#case`](keyword/case)
-    [`#construction`](keyword/construction)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Construction%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84872857109&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,21 +36,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2008199122" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1260/1478-0771.10.3.423" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1260/1478-0771.10.3.423?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Contour Crafting is a digitally controlled construction process invented by Professor Behrokh Khoshnevis that fabricates components directly from computer models, using layered fabrication technology. By obviating the need for formwork used in traditional concrete construction, CC can reduce costs and construction times significantly. The technique has great potential as a robotic form of construction reliant on relatively minimal human labor as a form of construction in relatively hazardous environments, such as the Moon with its radiation levels that can prove highly damaging. Current research funded by NASA has been exploring the potential for using CC on the Moon to build structures making use of readily available regolith that is found in great abundance on the surface of the Moon.This article offers an overview of this research and evaluates the merits of using CC on the Moon.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq.2025.3CPbEaFD/">3D Concrete Printing by Extrusion and Filament-Deposition</a></li>
       <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../xiao_liu_ding_yu.2024.RFCC/">Rebar-Free Concrete Construction:<br/>Concept, Opportunities and Challenges</a></li>
@@ -81,4 +63,35 @@ tags:
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/fischer_thomas"><b>Fischer</b> Thomas</a>, <a href="../../../author/herr_m_christiane"><b>Herr</b> Christiane</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../fisc_herr.2016.PCoa3CPP/">Parametric Customisation of a 3D Concrete Printed Pavilion</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{leac_carl_khos_than.2012.RCbCC,
+      author            = "Neil Leach and Anders Carlson and Behrokh Khoshnevis and Madhu Thangavelu",
+      title             = "Robotic Construction by Contour Crafting: The Case of Lunar Construction",
+      doi               = "10.1260/1478-0771.10.3.423",
+      year              = "2012",
+      journal           = "International Journal of Architectural Computing",
+      volume            = "10",
+      number            = "3",
+      pages             = "423--438",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Leach, A. Carlson, B. Khoshnevis and M. Thangavelu, “Robotic Construction by Contour Crafting: The Case of Lunar Construction”, <i>International Journal of Architectural Computing</i>, vol. 10, no. 3, pp. 423–438, 2012, doi: 10.1260/1478-0771.10.3.423.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Leach, Neil, Anders Carlson, Behrokh Khoshnevis, and Madhu Thangavelu. “Robotic Construction by Contour Crafting: The Case of Lunar Construction”. <i>International Journal of Architectural Computing</i> 10, no. 3 (2012): 423–38. https://doi.org/10.1260/1478-0771.10.3.423.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

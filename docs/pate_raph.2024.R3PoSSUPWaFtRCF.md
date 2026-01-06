@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abhishek Patel, Benny Raphael
+    - footer
+title: Patel Abhishek, Raphael Benny
 description:
 tags:
  - carbon
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Robotic 3D Printing of Structural Slabs Using Polyethylene Waste as Filler to Reduce Carbon Footprint ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1007/s41693-024-00119-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41693-024-00119-9</a>
+#Robotic 3D Printing of Structural Slabs Using Polyethylene Waste as Filler to Reduce Carbon Footprint ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-024-00119-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00119-9" target="_blank">10.1007/s41693-024-00119-9</a>
 
--------------------------
+<a href="../../../author/patel_abhishek"><b>Patel</b>&nbsp;Abhishek</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raphael_benny"><b>Raphael</b>&nbsp;Benny</a></span><br>
+Journal Article - Construction Robotics, Vol. 8, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>
-,     <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Robotics, Vol. 8, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#fill`](keyword/fill)
-    [`#footprint`](keyword/footprint)
-    [`#print`](keyword/print)
-    [`#reduction`](keyword/reduction)
-    [`#robot`](keyword/robot)
-    [`#slab`](keyword/slab)
-    [`#structure`](keyword/structure)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Printing%20of%20Structural%20Slabs%20Using%20Polyethylene%20Waste%20as%20Filler%20to%20Reduce%20Carbon%20Footprint" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396515554" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41693-024-00119-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41693-024-00119-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is an emerging technology with great potential to revolutionize the construction industry with respect to productivity, cost, time, quality, and sustainability. However, the concrete mix used for 3D printing has very high cement content, leading to a high carbon footprint of concrete 3D printed elements. The filler slab is a technique used to reduce raw material consumption by introducing materials like clay pots as filler. However, clay pots have high carbon footprints. Furthermore, a high level of supervision is needed to make sure that clay pots do not come into contact with rebar cages. Replacing clay pots with compressed polyethylene waste can help reduce the carbon footprint of 3D-printed slabs. This paper proposes an automated methodology to 3D print concrete slabs with recycled plastic waste as filler. A gantry-type 3D printer with an integrated pick-and-place function is used. A case study is used to bring out the savings in carbon footprint of the proposed system. A cradle-to-gate life cycle assessment is performed to compare three different scenarios: conventional slab, filler slab with clay pots, and filler slab with polyethylene (PE) waste. The case study results indicate that the proposed methodology can reduce the consumption of material and carbon emissions related to it. It also avoids the emissions due to incineration and improper management of polyethylene wastes. The findings of the paper provide a direction toward leveraging the benefits of concrete 3D printing and automation towards sustainable construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -79,7 +58,37 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pate_raph.2024.R3PoSSUPWaFtRCF,
+      author            = "Abhishek Patel and Benny Raphael",
+      title             = "Robotic 3D Printing of Structural Slabs Using Polyethylene Waste as Filler to Reduce Carbon Footprint",
+      doi               = "10.1007/s41693-024-00119-9",
+      year              = "2024",
+      journal           = "Construction Robotics",
+      volume            = "8",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Patel  and B. Raphael, “Robotic 3D Printing of Structural Slabs Using Polyethylene Waste as Filler to Reduce Carbon Footprint”, <i>Construction Robotics</i>, vol. 8, no. 1, 2024, doi: 10.1007/s41693-024-00119-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Patel, Abhishek, and Benny Raphael. “Robotic 3D Printing of Structural Slabs Using Polyethylene Waste as Filler to Reduce Carbon Footprint”. <i>Construction Robotics</i> 8, no. 1 (2024). https://doi.org/10.1007/s41693-024-00119-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

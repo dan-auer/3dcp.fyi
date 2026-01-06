@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eylül Aydin, Burhan Kara, Zeynep Bundur, Nilüfer Özyurt, Özkan Bebek, Mehmet Gulgun
+    - footer
+title: Aydin Eylül, Kara Burhan, Bundur Zeynep, Özyurt Nilüfer, Bebek Özkan, Gulgun Mehmet
 description:
 tags:
  - cement
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.128935" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128935</a>
+#A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing ([2022-08](date/2022/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128935" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128935" target="_blank">10.1016/j.conbuildmat.2022.128935</a>
 
--------------------------
+<a href="../../../author/aydin_mina_eylul"><b>Aydin</b>&nbsp;Eylül</a></span>, <a href="../../../author/kara_burhan"><b>Kara</b>&nbsp;Burhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozyurt_nilufer"><b>Özyurt</b>&nbsp;Nilüfer</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bebek_ozkan"><b>Bebek</b>&nbsp;Özkan</a></span>, <a href="../../../author/gulgun_ali_mehmet"><b>Gulgun</b>&nbsp;Mehmet</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 350
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>
-,     <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>
-,     <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a> <a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> <a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gulgun_ali_mehmet"><b>Gulgun</b> Mehmet</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 350, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#comparision`](keyword/comparision)
-    [`#evaluation`](keyword/evaluation)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#sepiolite`](keyword/sepiolite)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sepiolite"><button class="btn">#sepiolite</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comparative%20Evaluation%20of%20Sepiolite%20and%20Nano-Montmorillonite%20on%20the%20Rheology%20of%20Cementitious%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85136531230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4293156199" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.128935" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.128935?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Through the last decade, methods of digital manufacturing of concrete gained a significant interest compared to conventional concrete. The main challenge in additive manufacturing (3D printing) is to design a highly thixotropic cementitious system. This study aims to investigate the use of sepiolite as a rheology modifier as a novel approach to improve the thixotropic behavior and adapt cementitious systems to 3D printing. To understand the influence of sepiolite on rheological properties, a comparative evaluation with nano-montmorillonite was established. The effectiveness of clay addition was also investigated in fly-ash amended cement-based materials. The rheological analysis was done on cement-paste samples containing both clays in terms of their effects on thixotropy, structural build-up, and recovery. A preliminary printability assessment was done with a lab scale printer having a ram extruder. The results show that the incorporation of clays increased the dynamic yield stress and time-dependent evolution of static yield stress. Moreover, the addition of clays improved the thixotropic behavior of cement-based systems, particularly those containing fly-ash. Herein, the sepiolite was found to be more effective compared to nano-montmorillonite in terms of improving thixotropy, structural build-up and recovery. The results showed that use of fly-ash enhances the printability of the mix for the specified extruder and the samples containing 1% nano-montmorillonite or 0.5% sepiolite can be printed. The positive effects of sepiolite were attributed to opposing surface charges of the clay layers and its micro-fibrous microstructure. The findings in this study enabled an in-depth understanding of the rheology and printability of fly-ash amended clay containing printable cement-based mortars.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
@@ -91,8 +68,9 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
@@ -118,4 +96,33 @@ tags:
       <li><a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b> Mehrdad</a>, <a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b> Elena</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../razz_cerr_pan_kora.2023.NaPAfHP3PC/">Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../giri_prem_jiao.2023.EoVSRaDRTotRo3PC/">Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P,
+      author            = "Eylül Mina Aydin and Burhan Kara and Zeynep Başaran Bundur and Nilüfer Özyurt and Özkan Bebek and Mehmet Ali Gulgun",
+      title             = "A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2022.128935",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "350",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. M. Aydin, B. Kara, Z. B. Bundur, N. Özyurt, Ö. Bebek and M. A. Gulgun, “A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing”, <i>Construction and Building Materials</i>, vol. 350, 2022, doi: 10.1016/j.conbuildmat.2022.128935.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aydin, Eylül Mina, Burhan Kara, Zeynep Başaran Bundur, Nilüfer Özyurt, Özkan Bebek, and Mehmet Ali Gulgun. “A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing”. <i>Construction and Building Materials</i> 350 (2022). https://doi.org/10.1016/j.conbuildmat.2022.128935.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

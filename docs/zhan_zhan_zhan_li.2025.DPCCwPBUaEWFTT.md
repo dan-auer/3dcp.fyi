@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junyi Zhang, Chao Zhang, Yuying Zhang, Muduo Li, Xiaohong Zhu, Yan Xia, Lei Wang, Daniel Tsang
+    - footer
+title: Zhang Junyi, Zhang Chao, Zhang Yuying, Li Muduo, Zhu Xiaohong, Xia Yan, Wang Lei, Tsang Daniel
 description:
 tags:
  - cement
@@ -16,36 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.jobe.2025.114181" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114181</a>
+#Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114181" target="_blank">10.1016/j.jobe.2025.114181</a>
 
--------------------------
+<a href="../../../author/zhang_junyi"><b>Zhang</b>&nbsp;Junyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <a href="../../../author/zhang_yuying"><b>Zhang</b>&nbsp;Yuying</a></span>, <a href="../../../author/li_muduo"><b>Li</b>&nbsp;Muduo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_xiaohong"><b>Zhu</b>&nbsp;Xiaohong</a></span>, <a href="../../../author/xia_yan"><b>Xia</b>&nbsp;Yan</a></span>, <a href="../../../author/wang_lei"><b>Wang</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tsang_c-w_daniel"><b>Tsang</b>&nbsp;Daniel</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 113, No. 114181
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_junyi"><b>Zhang</b> Junyi</a>
-,     <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> <a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>
-,     <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>
-,     <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a> <a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_yan"><b>Xia</b> Yan</a>
-,     <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>
-,     <a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> <a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 113, No. 114181
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#design`](keyword/design)
-    [`#porosity`](keyword/porosity)
-    [`#printability`](keyword/printability)
-    [`#theory`](keyword/theory)
-    [`#thickness`](keyword/thickness)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Designing%20Printable%20Cement%20Composites%20with%20Porous%20Biochar%20Using%20an%20Extended%20Water%20Film%20Thickness%20Theory" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016995885&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414517746" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114181" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114181?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Driven by the demand for sustainable construction solutions, there is a sparked interest in biochar-cement composites. Tailored biochar can modify the rheological and hardened properties of cement composites, potentially making them more suitable for 3D printing applications. This study examined the influence of wood waste biochar (WWBC) on the solid packing, water film thickness (WFT), printability, rheology, and microstructure of 3D printable cement composites (3DPCC). For designing 3DPCC with varying content of WWBC, the WFT parameter was the first time proposed to act as an indicator for adjusting the printability of WWBC-3DPCC, which we revealed to be within 0.040–0.055 μm. Adding WWBC facilitated the pumping and extrusion of 3DPCC during the printing window and maintained the shape stability of printed structures. This can be explained by the denser solid packing state, lower initial yield stress, higher thixotropy, and accelerated structural build-up kinetics of the mixture. All of these factors contributed to refining the microstructure and strengthening the interlayer bonding of 3DPCC. The results suggest the value-added utilisation of WWBC to improve the diverse properties of 3DPCC, and provides essential fundamentals for controlling the rheological behaviour of fresh cement-based mixtures containing porous particles.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -84,8 +58,38 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_zhan_zhan_li.2025.DPCCwPBUaEWFTT,
+      author            = "Junyi Zhang and Chao Zhang and Yuying Zhang and Muduo Li and Xiaohong Zhu and Yan Xia and Lei Wang and Daniel C. W. Tsang",
+      title             = "Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory",
+      doi               = "10.1016/j.jobe.2025.114181",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      volume            = "113",
+      pages             = "114181",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhang, “Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory”, <i>Journal of Building Engineering</i>, vol. 113, p. 114181, 2025, doi: 10.1016/j.jobe.2025.114181.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Junyi, Chao Zhang, Yuying Zhang, Muduo Li, Xiaohong Zhu, Yan Xia, Lei Wang, and Daniel C. W. Tsang. “Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory”. <i>Journal of Building Engineering</i> 113 (2025): 114181. https://doi.org/10.1016/j.jobe.2025.114181.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

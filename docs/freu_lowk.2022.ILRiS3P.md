@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Niklas Freund, Dirk Lowke
+    - footer
+title: Freund Niklas, Lowke Dirk
 description:
 tags:
  - inter
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tib-op.org/ojs/index.php/ocp/article/download/72/258) Inter-Layer Reinforcement in Shotcrete 3D Printing ([2021-11](date/2021/11))
-<a href="https://doi.org/10.52825/ocp.v1i.72" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v1i.72</a>
+#Inter-Layer Reinforcement in Shotcrete 3D Printing ([2021-11](date/2021/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/72/258) <a href="https://doi.org/10.52825/ocp.v1i.72" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.72" target="_blank">10.52825/ocp.v1i.72</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
+Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 83-95
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 83-95
-
-:aca-blank:{ .lg .middle}
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Reinforcement%20in%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4213184487" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v1i.72" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v1i.72?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing with cement-based materials has recently become increasingly common on construction site. The high degree of freedom in individual geometric shapes, the associated potential for resource-efficient designs, and the high degree of automation could make this technology a milestone in the history of construction industry. Many of the existing additive manufacturing techniques are initially based on unreinforced concrete. However, for many structural elements, the use of reinforcement is indispensable and therefore the reinforcement integration represents a prerequisite. One promising reinforcement strategy is the use of interlayer reinforcement. This method specifically uses the layered characteristic of the additive manufacturing process by integrating reinforcement between the applied layers. In combination with an adaptive path planning, it is therefore possible to manufacture force-flow-compliant reinforced elements with a minimal increase in process complexity compared to an unreinforced production. However, besides the integration process itself, material-process interactions represent an important research topic. Especially for Shotcrete-3D-Printing, the use of accelerators can significantly change the structural build-up of the applied material and thus effect the bonding ability of the sprayed concrete to the integrated reinforcement element. The present study investigates the effect of accelerator dosage on the bond properties of integrated rebars. The resulting bond is analyzed nondestructively via computer tomography and mechanically by pull-out tests according to RILEM RC6. The results show that the material compaction caused by the sprayed application leads to excellent bond properties. However, when high accelerator dosages are used, bond deteriorations can be observed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -84,8 +67,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/mahmood_sultan"><b>Mahmood</b> Sultan</a>, <a href="../../../author/isa_nura_muhammed"><b>Isa</b> Muhammed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../kola_busw_mahm_isa.2025.OtOoAoEB3PC/">On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete:<br/>The Roles of Filament Skin and Agglomeration</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../freu_davi_drod_lowk.2024.VSRI/">Vibrated Short Rebar Insertion:<br/>The Effect of Integration Time on the Resulting Bond Quality</a></li>
       <li><a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../renn_gant_roth_baz.2024.SEoS3PaRFWfTSE/">Structural Evaluation of Shotcrete 3D Printing and Robotic Fiber Winding for Thin-Shell Elements</a></li>
@@ -96,4 +79,35 @@ tags:
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../dorr_freu_herr_bagh.2023.AFFORIfS3P/">Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../gebh_espo_menn_mata.2022.ILSotIo3CPSUotBBoVR/">Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{freu_lowk.2022.ILRiS3P,
+      author            = "Niklas Freund and Dirk Lowke",
+      title             = "Inter-Layer Reinforcement in Shotcrete 3D Printing",
+      doi               = "10.52825/ocp.v1i.72",
+      year              = "2022",
+      volume            = "1",
+      pages             = "83--95",
+      booktitle         = "Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures",
+      editor            = "Deutsche Forschungsgemeinschaft",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Freund  and D. Lowke, “Inter-Layer Reinforcement in Shotcrete 3D Printing”, in <i>Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures</i>,  2022, vol. 1, pp. 83–95. doi: 10.52825/ocp.v1i.72.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Freund, Niklas, and Dirk Lowke. “Inter-Layer Reinforcement in Shotcrete 3D Printing”. In <i>Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures</i>, edited by Deutsche Forschungsgemeinschaft, 1:83–95, 2022. https://doi.org/10.52825/ocp.v1i.72.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

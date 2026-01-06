@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pathmanathan Rajeev, Akilesh Ramesh, Satheeskumar Navaratnam, Jay Sanjayan
+    - footer
+title: Rajeev Pathmanathan, Ramesh Akilesh, Navaratnam Satheeskumar, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2023.105047) Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105047" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105047</a>
+#Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing ([2023-04](date/2023/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.105047) <a href="https://doi.org/10.1016/j.cemconcomp.2023.105047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105047" target="_blank">10.1016/j.cemconcomp.2023.105047</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-2850-9500" title="ORCID: 0009-0004-2850-9500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramesh_akilesh"><b>Ramesh</b>&nbsp;Akilesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7772-4531" title="ORCID: 0000-0001-7772-4531" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b>&nbsp;Satheeskumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 139
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> <a href="https://orcid.org/0009-0004-2850-9500" title="ORCID: 0009-0004-2850-9500" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a> <a href="https://orcid.org/0000-0001-7772-4531" title="ORCID: 0000-0001-7772-4531" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 139, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#improvement`](keyword/improvement)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Using%20Fiber%20Recovered%20from%20Face%20Mask%20Waste%20to%20Improve%20Printability%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151522537&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4362662016" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105047" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105047?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Surgical face mask usage has rapidly increased in the last two years due to the COVID-19 pandemic. This generates vast amounts of plastic waste, causing significant risks to the ecosystem. Thus, this study assesses the potential of using recycled fibre from face mask waste as fibre reinforcement in 3D concrete printing (3DCP) applications to improve printability while reducing landfill waste. The effect of recycled fibre from waste face masks on the rheological characteristics of printable mixes and the mechanical performance of printed elements was evaluated for different contents of shredded face masks (i.e., 1% and 2% by vol). The rheological properties like static and dynamic yield strengths, apparent viscosity, and thixotropic behaviour, along with compressive and flexural strength, were evaluated for 3D printed specimens and mechanical properties were compared to their mould-cast counterparts. Further, the variation in the interlayer bond strength and porosity due to different fibre dosages was also investigated. In addition, a comparative study on the fresh and hardened properties was performed for the printable mixes with polypropylene (PP) fibres and face masks. The addition of face masks significantly improved the rheological properties with good extrudability and buildability for all the dosages. Compared to face masks, mixes with PP fibres showed poor extrudability with higher fibre dosages. The compressive strength was increased by 41% for a 1% dosage of face masks when compared to the unreinforced concrete. Furthermore, the flexural strength when tested along the weaker interface, showed an increase of 74% and 82% for the addition of 1% and 2% face mask content. The interlayer bond strength of 1% face mask content showed 21% improvement and was observed to have the highest surface moisture content. The mechanical performance of face masks and PP fibres are observed to be comparable for 1% dosage. The mechanical properties of printed and mould-cast specimens were also observed to be similar.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -92,8 +72,9 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC/">Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
@@ -120,4 +101,33 @@ tags:
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sing_wang_zhou_sun.2023.UoATiFR3PC/">Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete:<br/>A Sustainable Approach for Construction Materials</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{raje_rame_nava_sanj.2023.UFRfFMWtIPi3CP,
+      author            = "Pathmanathan Rajeev and Akilesh Ramesh and Satheeskumar Navaratnam and Jay Gnananandan Sanjayan",
+      title             = "Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing",
+      doi               = "10.1016/j.cemconcomp.2023.105047",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "139",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Rajeev, A. Ramesh, S. Navaratnam and J. G. Sanjayan, “Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing”, <i>Cement and Concrete Composites</i>, vol. 139, 2023, doi: 10.1016/j.cemconcomp.2023.105047.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rajeev, Pathmanathan, Akilesh Ramesh, Satheeskumar Navaratnam, and Jay Gnananandan Sanjayan. “Using Fiber Recovered from Face Mask Waste to Improve Printability in 3D Concrete Printing”. <i>Cement and Concrete Composites</i> 139 (2023). https://doi.org/10.1016/j.cemconcomp.2023.105047.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaoyu Luo, Yuqi Zhao, Xiaofei Yao, Cunjun Zou, Jiawei Hu, Hao Shi
+    - footer
+title: Luo Xiaoyu, Zhao Yuqi, Yao Xiaofei, Zou Cunjun, Hu Jiawei, Shi Hao
 description:
 tags:
  - base
@@ -16,34 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>:aca-blank: A Review ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/978-3-031-87959-3_42" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-87959-3_42</a>
+#3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-87959-3_42" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-87959-3_42" target="_blank">10.1007/978-3-031-87959-3_42</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-1040-5022" title="ORCID: 0009-0005-1040-5022" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luo_xiaoyu"><b>Luo</b>&nbsp;Xiaoyu</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-3661-260X" title="ORCID: 0009-0002-3661-260X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_yuqi"><b>Zhao</b>&nbsp;Yuqi</a></span>, <a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span>, <a href="../../../author/zou_cunjun"><b>Zou</b>&nbsp;Cunjun</a></span>, <a href="../../../author/hu_jiawei"><b>Hu</b>&nbsp;Jiawei</a></span>, <a href="../../../author/shi_hao"><b>Shi</b>&nbsp;Hao</a></span><br>
+Contribution - Application and Development of Data Simulation and Mechanical Analysis in Civil Engineering, pp. 496-506
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a> <a href="https://orcid.org/0009-0005-1040-5022" title="ORCID: 0009-0005-1040-5022" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a> <a href="https://orcid.org/0009-0002-3661-260X" title="ORCID: 0009-0002-3661-260X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>
-,     <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a>
-,     <a href="../../../author/hu_jiawei"><b>Hu</b> Jiawei</a>
-,     <a href="../../../author/shi_hao"><b>Shi</b> Hao</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Application and Development of Data Simulation and Mechanical Analysis in Civil Engineering, pp. 496-506
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#chemical`](keyword/chemical)
-    [`#concrete`](keyword/concrete)
-    [`#interface`](keyword/interface)
-    [`#method`](keyword/method)
-    [`#physics`](keyword/physics)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Concrete%20Interface%20Treatment%20Based%20on%20Physical%20and%20Chemical%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005482075&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410195900" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-87959-3_42" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-87959-3_42?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing technology (3DCP) represents a significant advancement in the construction industry. However, the production process often encounters interface issues, which may arise between layers, strips, or between the 3D printing template and the post-cast concrete. The inadequate performance of these interfaces is a central challenge in 3DCP components. This paper analyses the formation mechanisms and existing problems of these three interfaces, focusing on the improvement of the interface performance using both physical and chemical means in the existing research. Physical methods include altering interface roughness and designing macro-interlocking features, while chemical methods involve the application of cement-based and polymer interfacial agents. This paper aims to provide researchers with a comprehensive understanding of these two critical approaches for improving 3DCP component interfaces and to propose more advanced enhancement strategies to facilitate the further development of the 3DCP industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "51 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../beka_titt_schu.2024.IoCCotSBoTDPCF/">Influence of Curing Conditions on the Shrinkage Behavior of Three-Dimensional Printed Concrete Formwork</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -121,8 +98,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{luo_zhao_yao_zou.2025.3PCITBoPaCM,
+      author            = "Xiaoyu Luo and Yuqi Zhao and Xiaofei Yao and Cunjun Zou and Jiawei Hu and Hao Shi",
+      title             = "3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods: A Review",
+      doi               = "10.1007/978-3-031-87959-3_42",
+      year              = "2025",
+      pages             = "496--506",
+      booktitle         = "Application and Development of Data Simulation and Mechanical Analysis in Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Luo, Y. Zhao, X. Yao, C. Zou, J. Hu and H. Shi, “3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods: A Review”, in <i>Application and Development of Data Simulation and Mechanical Analysis in Civil Engineering</i>,  2025, pp. 496–506. doi: 10.1007/978-3-031-87959-3_42.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Luo, Xiaoyu, Yuqi Zhao, Xiaofei Yao, Cunjun Zou, Jiawei Hu, and Hao Shi. “3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods: A Review”. In <i>Application and Development of Data Simulation and Mechanical Analysis in Civil Engineering</i>, 496–506, 2025. https://doi.org/10.1007/978-3-031-87959-3_42.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

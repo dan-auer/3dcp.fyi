@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md. Ali, Gani Issayev, Essam Shehab, Shoaib Sarfraz
+    - footer
+title: Ali Md., Issayev Gani, Shehab Essam, Sarfraz Shoaib
 description:
 tags:
  - construction
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://repository.kaust.edu.sa/bitstream/10754/675670/2/Revised%20manuscript.pdf) A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering ([2022-02](date/2022/02))
-<a href="https://doi.org/10.1108/rpj-07-2021-0160" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1108/rpj-07-2021-0160</a>
+#A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering ([2022-02](date/2022/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.kaust.edu.sa/bitstream/10754/675670/2/Revised%20manuscript.pdf) <a href="https://doi.org/10.1108/rpj-07-2021-0160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-07-2021-0160" target="_blank">10.1108/rpj-07-2021-0160</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_hazrat_md"><b>Ali</b>&nbsp;Md.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5120-8387" title="ORCID: 0000-0001-5120-8387" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/issayev_gani"><b>Issayev</b>&nbsp;Gani</a></span>, <a href="../../../author/shehab_essam"><b>Shehab</b>&nbsp;Essam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1373-2054" title="ORCID: 0000-0002-1373-2054" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b>&nbsp;Shoaib</a></span><br>
+Journal Article - Rapid Prototyping Journal, Vol. ahead of print, Iss. ahead of print
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a> <a href="https://orcid.org/0000-0001-5120-8387" title="ORCID: 0000-0001-5120-8387" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>
-,     <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="https://orcid.org/0000-0002-1373-2054" title="ORCID: 0000-0002-1373-2054" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Rapid Prototyping Journal, Vol. ahead of print, Iss. ahead of print, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#critical`](keyword/critical)
-    [`#digital`](keyword/digital)
-    [`#engineered`](keyword/engineered)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20of%203D%20Printing%20and%20Digital%20Manufacturing%20in%20Construction%20Engineering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125056991&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4286948746" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1108/rpj-07-2021-0160" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1108/rpj-07-2021-0160?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, 3D printing technologies have been widely used in the construction industry. 3D printing in construction is very attractive because of its capability of process automation and the possibility of saving labor, waste materials, construction time and hazardous procedures for humans. Significant researches were conducted to identify the performance of the materials, while some researches focused on the development of novel techniques and methods, such as building information modeling. This paper aims to provide a detailed overview of the state-of-the-art of currently used 3D printing technologies in the construction areas and global acceptance in its applications. The working principle of additive manufacturing in construction engineering (CE) is presented in terms of structural design, materials used and theoretical background of the leading technologies that are used to construct buildings and structures as well as their distinctive features. The trends of 3D printing processes in CE are very promising, as well as the development of novel materials, will gain further momentum. The findings also indicate that the digital twin (DT) in construction technology would bring the industry a step forward toward achieving the goal of Industry 5.0. This review highlights the prospects of digital manufacturing and the DT in construction engineering. It also indicates the future research direction of 3D printing in various constriction sectors.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "57 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/annappa_vani"><b>Annappa</b> Vani</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../anna_gasp_mate_vito.2021.3PfCUSS/">3D Printing for Construction Using Stone Sludge</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
@@ -123,8 +102,8 @@ tags:
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "38 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
       <li><a href="../../../author/castro-chincho_ana"><b>Castro-Chincho</b> Ana</a>, <a href="../../../author/ivorra-martinez_juan"><b>Ivorra-Martinez</b> Juan</a>, <a href="../../../author/perejon_antonio"><b>Perejón</b> Antonio</a>, <a href="../../../author/sanchez-jimenez_e_pedro"><b>Sánchez-Jiménez</b> Pedro</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../cast_ivor_pere_sanc.2025.3PMLSfCLTES/">3D-Printed Mineral Limestone Structures for Calcium Looping Thermochemical Energy Storage:<br/>Reactivity and Performance Across Cycles</a></li>
@@ -164,4 +143,34 @@ tags:
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a>, <a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dvor_marc_hage_maro.2022.DoCSCCf3P/">Design of Cement-Slag Concrete Composition for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ali_issa_sheh_sarf.2022.ACRo3PaDMiCE,
+      author            = "Md. Hazrat Ali and Gani Issayev and Essam Shehab and Shoaib Sarfraz",
+      title             = "A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering",
+      doi               = "10.1108/rpj-07-2021-0160",
+      year              = "2022",
+      journal           = "Rapid Prototyping Journal",
+      volume            = "ahead of print",
+      number            = "ahead of print",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. H. Ali, G. Issayev, E. Shehab and S. Sarfraz, “A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering”, <i>Rapid Prototyping Journal</i>, vol. ahead of print, no. ahead of print, 2022, doi: 10.1108/rpj-07-2021-0160.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ali, Md. Hazrat, Gani Issayev, Essam Shehab, and Shoaib Sarfraz. “A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering”. <i>Rapid Prototyping Journal</i> ahead of print, no. ahead of print (2022). https://doi.org/10.1108/rpj-07-2021-0160.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

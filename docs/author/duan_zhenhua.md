@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Duan Zhenhua 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/wang_jiyuan"><b>Wang</b> Jiyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../nasr_wang_duan_deng.2025.AtVaIoRHDPFi3PCC/">Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites</a></li>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../nasr_duan_sing_deng.2025.FPaRBo3PCCIRPaNF/">Fresh Properties and Rheological Behavior of 3D-Printed Cementitious Composites Incorporating Recycled PVC and Nylon Fibers:<br/>An Experimental Approach</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Volkan Arslan, Zekeriya Dogan
+    - footer
+title: Arslan Volkan, Dogan Zekeriya
 description:
 tags:
  - dimension
@@ -11,25 +12,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2673-4605/13/1/18/pdf?version=1676454051) Three-Dimensional, Printable Paving Stone:<br/>:aca-blank: A Preliminary Study ([2023-04](date/2023/04))
-<a href="https://doi.org/10.3390/materproc2023013018" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/materproc2023013018</a>
+#Three-Dimensional, Printable Paving Stone&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">A Preliminary Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-4605/13/1/18/pdf?version=1676454051) <a href="https://doi.org/10.3390/materproc2023013018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/materproc2023013018" target="_blank">10.3390/materproc2023013018</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0368-5653" title="ORCID: 0000-0002-0368-5653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arslan_volkan"><b>Arslan</b>&nbsp;Volkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2721-4450" title="ORCID: 0000-0002-2721-4450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dogan_zekeriya"><b>Dogan</b>&nbsp;Zekeriya</a></span><br>
+Contribution - 10th MATBUD
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/arslan_volkan"><b>Arslan</b> Volkan</a> <a href="https://orcid.org/0000-0002-0368-5653" title="ORCID: 0000-0002-0368-5653" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dogan_zekeriya"><b>Dogan</b> Zekeriya</a> <a href="https://orcid.org/0000-0002-2721-4450" title="ORCID: 0000-0002-2721-4450" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 10th MATBUD, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#dimension`](keyword/dimension)
-    [`#printability`](keyword/printability)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%2C%20Printable%20Paving%20Stone" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -44,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321101426" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/materproc2023013018" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/materproc2023013018?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing applications have emerged as a new production method in the construction industry. The materials that are to be used in 3D production process play an important role for a sustainable built environment. The main objective of this study is to design a suitable mixture to produce 3D printed concrete paving stones. In this respect, a unique 3D printer was also developed. The results show that the setting time of cement-based mortars was shortened by increasing the ratio of the added accelerator admixture. However, the optimum mixture proportions for 3D printed concrete paving stones were not reached. The results of the study are expected to develop a sustainable method of paving stone production.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
@@ -69,7 +55,35 @@ tags:
       <li><a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ulub.2022.LSCI/">Lunar Shelter Construction Issues:<br/>The State of the Art Towards 3D Printing Technologies</a></li>
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{arsl_doga.2023.TDPPS,
+      author            = "Volkan Arslan and Zekeriya Dogan",
+      title             = "Three-Dimensional, Printable Paving Stone: A Preliminary Study",
+      doi               = "10.3390/materproc2023013018",
+      year              = "2023",
+      booktitle         = "10th MATBUD",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Arslan  and Z. Dogan, “Three-Dimensional, Printable Paving Stone: A Preliminary Study”,  2023. doi: 10.3390/materproc2023013018.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Arslan, Volkan, and Zekeriya Dogan. “Three-Dimensional, Printable Paving Stone: A Preliminary Study”. In <i>10th MATBUD</i>, 2023. https://doi.org/10.3390/materproc2023013018.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

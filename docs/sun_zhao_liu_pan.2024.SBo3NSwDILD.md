@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chang Sun, Haiye Zhao, Qiong Liu, Feng Pan
+    - footer
+title: Sun Chang, Zhao Haiye, Liu Qiong, Pan Feng
 description:
 tags:
  - behavior
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Shear Behavior of 3DPM-NM Specimens with Different Interfacial Locking Designs ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136021" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136021</a>
+#Shear Behavior of 3DPM-NM Specimens with Different Interfacial Locking Designs ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136021" target="_blank">10.1016/j.conbuildmat.2024.136021</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_chang"><b>Sun</b>&nbsp;Chang</a></span>, <a href="../../../author/zhao_haiye"><b>Zhao</b>&nbsp;Haiye</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span>, <a href="../../../author/pan_feng"><b>Pan</b>&nbsp;Feng</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 425, No. 136021
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_chang"><b>Sun</b> Chang</a> <a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_haiye"><b>Zhao</b> Haiye</a>
-,     <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_feng"><b>Pan</b> Feng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 425, No. 136021
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#design`](keyword/design)
-    [`#difference`](keyword/difference)
-    [`#interface`](keyword/interface)
-    [`#shear`](keyword/shear)
-    [`#specimen`](keyword/specimen)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Shear%20Behavior%20of%203DPM-NM%20Specimens%20with%20Different%20Interfacial%20Locking%20Designs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189744348&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393972339" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136021" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136021?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Since 3D printed concrete has a promising application in engineering, the combination of 3D printing concrete and other building materials has become a hot research topic.This paper investigates the shear properties of 3DPM-NM specimens which use 3D printed mortar (3DPM) as the precast part and normal mortar(NM) as the cast-in-place part. Four different types of interfacial locking design were analyzed in this paper, including L-shaped, C-shaped, S-shaped and K-shaped. The shear damage law of the specimens was analyzed using digital image correlation (DIC) technology. The results show that L-shaped specimens are basically damaged along the shear surface during the loading process. Most of the initial cracks in the C-shaped, S-shaped and K-shaped specimens appeared along the interfacial bonding surface during the loading process. Then, the cracks in the C, S and K-shaped specimens continued to develop along the interfacial bonding surface or spilt through the specimens directly. The results show the shear properties of the C-shaped specimens are similar to those of L-shaped specimens. And the mechanical properties of S-shaped and K-shaped specimens are better than those of L-shaped specimens which increased by 96% (S-shaped), 78% (K-shaped) respectively. The mean slip is increased by 10% in S-shaped specimens and 28% in K-shaped specimens compared with that of L-shaped specimens. According to the AASHTO GSCB INTERIM-2003 specification, the modified formula for the shear bearing capacity of 3DPM-NM specimens is proposed in this study. The calculated resultsare in good agreement with the test results, which theoretically provide guidance for the application of 3DPM, lay the foundation for its feasibility as a structural body of a building.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
@@ -83,8 +63,38 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_zhao_liu_pan.2024.SBo3NSwDILD,
+      author            = "Chang Sun and Haiye Zhao and Qiong Liu and Feng Pan",
+      title             = "Shear Behavior of 3DPM-NM Specimens with Different Interfacial Locking Designs",
+      doi               = "10.1016/j.conbuildmat.2024.136021",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "425",
+      pages             = "136021",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Sun, H. Zhao, Q. Liu and F. Pan, “Shear Behavior of 3DPM-NM Specimens with Different Interfacial Locking Designs”, <i>Construction and Building Materials</i>, vol. 425, p. 136021, 2024, doi: 10.1016/j.conbuildmat.2024.136021.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Chang, Haiye Zhao, Qiong Liu, and Feng Pan. “Shear Behavior of 3DPM-NM Specimens with Different Interfacial Locking Designs”. <i>Construction and Building Materials</i> 425 (2024): 136021. https://doi.org/10.1016/j.conbuildmat.2024.136021.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

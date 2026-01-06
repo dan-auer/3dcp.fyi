@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Dörfler Kathrin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
   <li><a href="../../../author/keune_anna"><b>Keune</b> Anna</a>, <a href="../../../author/simsic_ziva"><b>Simšič</b> Živa</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../keun_sims_klof_dorf.2025.AE/">AMC Edu:<br/>Lab Design to Learn About Additive Manufacturing in Construction</a></li>
   <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>

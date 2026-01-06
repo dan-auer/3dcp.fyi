@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Khaja Shaik, Mallikarjun Perumalla, Charan Boilla
+    - footer
+title: Shaik Khaja, Perumalla Mallikarjun, Boilla Charan
 description:
 tags:
  - concrete
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144887" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144887</a>
+#Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.conbuildmat.2025.144887" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144887" target="_blank">10.1016/j.conbuildmat.2025.144887</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7250-5364" title="ORCID: 0000-0001-7250-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaik_sameer_khaja"><b>Shaik</b>&nbsp;Khaja</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5755-3800" title="ORCID: 0000-0001-5755-3800" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b>&nbsp;Mallikarjun</a></span>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b>&nbsp;Charan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 506, No. 144887
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a> <a href="https://orcid.org/0000-0001-7250-5364" title="ORCID: 0000-0001-7250-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a> <a href="https://orcid.org/0000-0001-5755-3800" title="ORCID: 0000-0001-5755-3800" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 506, No. 144887
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#experiment`](keyword/experiment)
-    [`#investigation`](keyword/investigation)
-    [`#numeric`](keyword/numeric)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Topology%20Optimization%20with%20Experimental-Numerical%20Investigation%20of%203D-Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7115804125" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144887" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144887?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Introducing a new era in construction, three-dimensional concrete printing (3DCP) merges sustainability with geometrically sophisticated structural (Architectural) liberty. Despite its exciting potential, optimizing structural topology and material composition for mechanical performance and printability is a big scientific challenge. This research addresses the influence of topology optimization and sustainable mix design on the structural behavior of 3D-printed concrete (3DCP) elements through a combined experimental–numerical approach. A novel eco-efficient cementitious mixture, free of chemical admixtures and incorporating fly ash and ground granulated blast-furnace slag (GGBS) at a binder-to-fine aggregate ratio of 1:1.25, was developed with excellent rheological and printability characteristics. Seven topological configurations ArchN, Triangular, Triangle, Lattice, and Hexagonal were analysed using finite element simulations in Abaqus CAE to evaluate stress distribution, deformation, and load capacity. Two models, Truss and Triangular, were then printed using the TVASTA Nirmaan printer and experimentally tested under conditions replicating the simulations. The numerical and experimental results showed close agreement, with an average deviation of 2.3 %, validating the accuracy of the modeling framework. The triangular topology exhibited superior performance due to its efficient stress transfer and geometric stability. This study establishes a foundation for sustainable, performance driven 3DCP design, promoting material efficiency and eco-friendly construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../bai_xiao_ding_yu.2024.IBPB3PECCaPCC/">Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bai_xiao_wu_ding.2024.EaNSotFBo3PCBwUSEF/">Experimental and Numerical Study on the Flexural Behavior of 3D Printed Composite Beams with U-Shaped ECC Formwork</a></li>
@@ -90,7 +69,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shai_peru_boil.2026.TOwENIo3PCE,
+      author            = "Khaja Sameer Shaik and Mallikarjun Perumalla and Charan Kumar Reddy Boilla",
+      title             = "Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements",
+      doi               = "10.1016/j.conbuildmat.2025.144887",
+      year              = "2026",
+      journal           = "Construction and Building Materials",
+      volume            = "506",
+      pages             = "144887",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. S. Shaik, M. Perumalla and C. K. R. Boilla, “Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements”, <i>Construction and Building Materials</i>, vol. 506, p. 144887, 2026, doi: 10.1016/j.conbuildmat.2025.144887.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shaik, Khaja Sameer, Mallikarjun Perumalla, and Charan Kumar Reddy Boilla. “Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements”. <i>Construction and Building Materials</i> 506 (2026): 144887. https://doi.org/10.1016/j.conbuildmat.2025.144887.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

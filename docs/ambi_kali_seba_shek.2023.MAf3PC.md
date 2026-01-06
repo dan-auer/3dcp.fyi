@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Parukutty Ambily, Senthil Kaliyavaradhan, Shilpa Sebastian, Deepadharshan Shekar
+    - footer
+title: Ambily Parukutty, Kaliyavaradhan Senthil, Sebastian Shilpa, Shekar Deepadharshan
 description:
 tags:
  - approach
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mixing Approach for 3D Printable Concrete:<br/>:aca-blank: Method of Addition and Optimization of Superplasticizer Dosage ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1680/jmacr.23.00165" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jmacr.23.00165</a>
+#Mixing Approach for 3D Printable Concrete&nbsp;([2023-12](date/2023/12))
+<div class="h1-like">Method of Addition and Optimization of Superplasticizer Dosage</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.23.00165" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.23.00165" target="_blank">10.1680/jmacr.23.00165</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b>&nbsp;Senthil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0441-6292" title="ORCID: 0000-0003-0441-6292" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sebastian_shilpa"><b>Sebastian</b>&nbsp;Shilpa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8180-8981" title="ORCID: 0000-0001-8180-8981" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shekar_deepadharshan"><b>Shekar</b>&nbsp;Deepadharshan</a></span><br>
+Journal Article - Magazine of Concrete Research, pp. 1-41
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a> <a href="https://orcid.org/0000-0003-0441-6292" title="ORCID: 0000-0003-0441-6292" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="https://orcid.org/0000-0001-8180-8981" title="ORCID: 0000-0001-8180-8981" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Magazine of Concrete Research, pp. 1-41
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#dosage`](keyword/dosage)
-    [`#method`](keyword/method)
-    [`#mixing`](keyword/mixing)
-    [`#optimization`](keyword/optimization)
-    [`#printability`](keyword/printability)
-    [`#superplasticizer`](keyword/superplasticizer)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dosage"><button class="btn">#dosage</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mixing%20Approach%20for%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180781220&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4389674136" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jmacr.23.00165" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jmacr.23.00165?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study systematically investigates the superplasticizer (SP) addition methods and optimum SP dosage with various water binder (w/b) ratios for mixing 3D printable concrete (3DPC). In the present study, five distinct strategies were adopted to arrive at the optimum Method of Addition (MoA). The first strategy applied the random mixing approach to identify the methods for adding SP with varying time patterns through visual observation. Secondly, a constant time pattern was adopted from the random approach for mixing and the optimal SP dosage was determined. The third strategy examined different addition methods with the optimum SP dosage. In the fourth strategy, the batching effect of the material with the optimum SP dosage was assessed, and finally, the printable region with different w/b ratios and SP dosages were correlated. The observations illustrated that the optimum SP dosage in the range of 0.10 to 0.21% of binder with a w/b ratio of 0.21 to 0.25 achieved adequate printability parameters by full addition of SP following a constant wet mixing time as the optimal application. However, after applying the optimum SP dosage, a supplemental SP dosage is required at appropriate intervals to retain the workability for higher batches.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ambi_raje_kali.2023.MDOaPEoEB3PC/">Mix-Design, Optimization and Performance-Evaluation of Extrusion-Based 3D Printable Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -83,11 +62,40 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ambi_kali_seba_shek.2025.S3PCMUCS/">Sustainable 3D Printable Concrete-Mix Using Copper-Slag</a></li>
       <li><a href="../../../author/li_g_l"><b>Li</b> L.</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/chu_h_s"><b>Chu</b> S.</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS/">Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ambi_kali_seba_shek.2023.MAf3PC,
+      author            = "Parukutty S. Ambily and Senthil Kumar Kaliyavaradhan and Shilpa Sebastian and Deepadharshan Shekar",
+      title             = "Mixing Approach for 3D Printable Concrete: Method of Addition and Optimization of Superplasticizer Dosage",
+      doi               = "10.1680/jmacr.23.00165",
+      year              = "2023",
+      journal           = "Magazine of Concrete Research",
+      pages             = "1--41",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. S. Ambily, S. K. Kaliyavaradhan, S. Sebastian and D. Shekar, “Mixing Approach for 3D Printable Concrete: Method of Addition and Optimization of Superplasticizer Dosage”, <i>Magazine of Concrete Research</i>, pp. 1–41, 2023, doi: 10.1680/jmacr.23.00165.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ambily, Parukutty S., Senthil Kumar Kaliyavaradhan, Shilpa Sebastian, and Deepadharshan Shekar. “Mixing Approach for 3D Printable Concrete: Method of Addition and Optimization of Superplasticizer Dosage”. <i>Magazine of Concrete Research</i>, 2023, 1–41. https://doi.org/10.1680/jmacr.23.00165.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

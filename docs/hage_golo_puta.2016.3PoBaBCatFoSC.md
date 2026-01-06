@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Izabela Hager, Anna Golonka, Roman Putanowicz
+    - footer
+title: Hager Izabela, Golonka Anna, Putanowicz Roman
 description:
 tags:
  - buildability
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.proeng.2016.07.357) 3D Printing of Buildings and Building Components as the Future of Sustainable Construction? ([2016-08](date/2016/08))
-<a href="https://doi.org/10.1016/j.proeng.2016.07.357" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.proeng.2016.07.357</a>
+#3D Printing of Buildings and Building Components as the Future of Sustainable Construction? ([2016-08](date/2016/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.proeng.2016.07.357) <a href="https://doi.org/10.1016/j.proeng.2016.07.357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.proeng.2016.07.357" target="_blank">10.1016/j.proeng.2016.07.357</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span>, <a href="../../../author/golonka_anna"><b>Golonka</b>&nbsp;Anna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5480-8553" title="ORCID: 0000-0002-5480-8553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putanowicz_roman"><b>Putanowicz</b>&nbsp;Roman</a></span><br>
+Journal Article - Procedia Engineering, Vol. 151, pp. 292-299
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> <a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>
-,     <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="https://orcid.org/0000-0002-5480-8553" title="ORCID: 0000-0002-5480-8553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia Engineering, Vol. 151, pp. 292-299
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#component`](keyword/component)
-    [`#construction`](keyword/construction)
-    [`#future`](keyword/future)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Buildings%20and%20Building%20Components%20as%20the%20Future%20of%20Sustainable%20Construction%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84985026326&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,23 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2482629727" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.proeng.2016.07.357" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.proeng.2016.07.357?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper presents the state-of-the-art concerning the current achievements in the field of 3D printing of buildings and building components. The 3D printing technologies, comparing to traditional techniques of constructing the buildings, could be considered as environmental friendly derivative giving almost unlimited possibilities for geometric complexity realizations. Two kinds of technologies were described in this paper with pointing to Contour Crafting as a promising technique that may be able to revolutionize construction industry in near future. Numerous advantages of this technology, such as reduction of the costs and time, minimizing the pollution of environment and decrease of injuries and fatalities on construction sites could be cited. Despite many advantages and hopes, some concerns are summarized in the conclusions, as the technology still has many limitations. A brief description of few examples of pioneering usage of 3D printing in construction industry are presented (Canal House in Amsterdam, WinSun company and printing application for building carried out by Skanska company). Creating a model that will be appropriate for 3D printers is possible in many different modelling programs. One of the most popular formats for sharing such models is STL format. In the paper sample models crated in Autodesk Inventor are shown, but also other tools suitable for preparing models for 3D printing are briefly discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "201 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
@@ -269,4 +250,34 @@ tags:
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hage_golo_puta.2016.3PoBaBCatFoSC,
+      author            = "Izabela Hager and Anna Golonka and Roman Putanowicz",
+      title             = "3D Printing of Buildings and Building Components as the Future of Sustainable Construction?",
+      doi               = "10.1016/j.proeng.2016.07.357",
+      year              = "2016",
+      journal           = "Procedia Engineering",
+      volume            = "151",
+      pages             = "292--299",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Hager, A. Golonka and R. Putanowicz, “3D Printing of Buildings and Building Components as the Future of Sustainable Construction?”, <i>Procedia Engineering</i>, vol. 151, pp. 292–299, 2016, doi: 10.1016/j.proeng.2016.07.357.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hager, Izabela, Anna Golonka, and Roman Putanowicz. “3D Printing of Buildings and Building Components as the Future of Sustainable Construction?”. <i>Procedia Engineering</i> 151 (2016): 292–99. https://doi.org/10.1016/j.proeng.2016.07.357.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

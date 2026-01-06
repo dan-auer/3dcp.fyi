@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ahsan Waqar, Idris Othman, Juan Pomares
+    - footer
+title: Waqar Ahsan, Othman Idris, Pomares Juan
 description:
 tags:
  - construction
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1660-4601/20/5/3800/pdf?version=1676972256) Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling ([2023-02](date/2023/02))
-<a href="https://doi.org/10.3390/ijerph20053800" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ijerph20053800</a>
+#Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1660-4601/20/5/3800/pdf?version=1676972256) <a href="https://doi.org/10.3390/ijerph20053800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ijerph20053800" target="_blank">10.3390/ijerph20053800</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1059-0003" title="ORCID: 0000-0002-1059-0003" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waqar_ahsan"><b>Waqar</b>&nbsp;Ahsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6822-8122" title="ORCID: 0000-0001-6822-8122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/othman_idris"><b>Othman</b>&nbsp;Idris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6773-9112" title="ORCID: 0000-0002-6773-9112" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pomares_carlos_juan"><b>Pomares</b>&nbsp;Juan</a></span><br>
+Journal Article - International journal of environmental research and public health, Vol. 20, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/waqar_ahsan"><b>Waqar</b> Ahsan</a> <a href="https://orcid.org/0000-0002-1059-0003" title="ORCID: 0000-0002-1059-0003" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/othman_idris"><b>Othman</b> Idris</a> <a href="https://orcid.org/0000-0001-6822-8122" title="ORCID: 0000-0001-6822-8122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pomares_carlos_juan"><b>Pomares</b> Juan</a> <a href="https://orcid.org/0000-0002-6773-9112" title="ORCID: 0000-0002-6773-9112" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International journal of environmental research and public health, Vol. 20, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#equation`](keyword/equation)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#projection`](keyword/projection)
-    [`#structure`](keyword/structure)
-    [`#success`](keyword/success)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/equation"><button class="btn">#equation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/success"><button class="btn">#success</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%203D%20Printing%20on%20the%20Overall%20Project%20Success%20of%20Residential%20Construction%20Projects%20Using%20Structural%20Equation%20Modelling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149939878&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4321497587" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ijerph20053800" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ijerph20053800?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     After a decade of research and development, 3D printing is now an established technique in the construction sector, complete with its own set of accepted standards. The use of 3D printing in construction might potentially improve the outcome of the project as a whole. However, traditional strategies are often used in the residential construction industry in Malaysia, which causes serious public safety and health issues along with a negative impact on the environment. In the context of project management, overall project success (OPS) has five dimensions, such as cost, time, quality, safety, and environment. Understanding the role of 3D printing in relation to OPS dimensions in Malaysian residential construction projects would allow construction professionals to adopt 3D printing more easily. The aim of the study was to find the impact of 3D construction printing on OPS while considering the implications for all five dimensions. Fifteen professionals were interviewed to first evaluate and summarise the impact factors of 3D printing using the current literature. Then, a pilot survey was conducted, and the results were checked using exploratory factor analysis (EFA). The feasibility of 3D printing in the building sector was investigated by surveying industry experts. Partial least squares structural equation modelling was used to investigate and validate the fundamental structure and linkages between 3D printing and OPS (PLS-SEM). A strong correlation was found between 3D printing in residential projects and OPS. Highly positive implications are indicated by the environmental and safety dimensions of OPS. Malaysian decision-makers may look to the outcomes of introducing 3D printing into the residential construction industry as a modern method for increasing environmental sustainability, public health and safety, reducing cost and time, and increasing the quality of construction work. With this study's findings in hand, construction engineering management in Malaysia's residential building sector might benefit from a deeper understanding of how 3D printing is used for improving environmental compliance, public health and safety, and project scope.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -101,8 +81,8 @@ tags:
       <li><a href="../../../author/xu_xuchu"><b>Xu</b> Xuchu</a>, <a href="../../../author/wang_ruoyu"><b>Wang</b> Ruoyu</a>, <a href="../../../author/cao_qiming"><b>Cao</b> Qiming</a>, <a href="../../../author/feng_chen"><b>Feng</b> Chen</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../xu_wang_cao_feng.2020.T3PaCLCf3CP/">Towards 3D-Perception and Closed-Loop-Control for 3D Construction Printing</a></li>
       <li><a href="../../../author/yang_hongxiong"><b>Yang</b> Hongxiong</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>, <a href="../../../author/chen_yuhong"><b>Chen</b> Yuhong</a>, <a href="../../../author/li_yijia"><b>Li</b> Yijia</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../yang_chun_chen_li.2018.TCCMoC3PAwIoT/">The Cost Calculation Method of Construction 3D Printing Aligned with Internet of Things</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dragomir_mihai"><b>Dragomir</b> Mihai</a>, <a href="../../../author/salem_tareq"><b>Salem</b> Tareq</a>, <a href="../../../author/dragomir_diana"><b>Dragomir</b> Diana</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../drag_sale_drag_hedj.2025.DViCPMU3P/">Design Validation in Construction Project Management Using 3D Printing</a></li>
       <li><a href="../../../author/jalil_siti-nur-natasha-abdul"><b>Jalil</b> Siti Nur Natasha Abdul</a>, <a href="../../../author/rizal-alias_ahmad"><b>Rizal Alias</b> Ahmad</a>, <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../jali_riza_alia.2025.CaSiI3CP3TiM/">Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia:<br/>Materials and Design Codes</a></li>
       <li><a href="../../../author/oladunni_joseph_oluwole"><b>Oladunni</b> Oluwole</a>, <a href="../../../author/lee_k-m_carman"><b>Lee</b> Carman</a>, <a href="../../../author/ibrahim_david_idowu"><b>Ibrahim</b> Idowu</a>, <a href="../../../author/olanrewaju_akanni_oludolapo"><b>Olanrewaju</b> Oludolapo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../olad_lee_ibra_olan.2025.AiSAM/">Advances in Sustainable Additive Manufacturing:<br/>A Systematic Review for Construction Industry to Mitigate Greenhouse Gas Emissions</a></li>
@@ -110,4 +90,34 @@ tags:
       <li><a href="../../../author/melcher_e_grace"><b>Melcher</b> Grace</a>, <a href="../../../author/rauch_andy"><b>Rauch</b> Andy</a>, <a href="../../../author/yashar_melodie"><b>Yashar</b> Melodie</a>, <a href="../../../author/ballard_jason"><b>Ballard</b> Jason</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../melc_rauc_yash_ball.2024.3PICP/">3D Printing ICONs Cosmic Pavilion:<br/>A Case Study in Cementitious Extrusion of Unsupported Cantilevers</a></li>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lato_guim_rang.2024.BAoP3PCBMfC/">Bibliometric Analysis of Personalized 3D Printed Concrete-Based Modules for Construction:<br/>Leveraging the Ordinatio Method</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{waqa_othm_poma.2023.Io3PotOPSoRCPUSEM,
+      author            = "Ahsan Waqar and Idris Othman and Juan Carlos Pomares",
+      title             = "Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling",
+      doi               = "10.3390/ijerph20053800",
+      year              = "2023",
+      journal           = "International journal of environmental research and public health",
+      volume            = "20",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Waqar, I. Othman and J. C. Pomares, “Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling”, <i>International journal of environmental research and public health</i>, vol. 20, no. 5, 2023, doi: 10.3390/ijerph20053800.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Waqar, Ahsan, Idris Othman, and Juan Carlos Pomares. “Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling”. <i>International Journal of Environmental Research and Public Health</i> 20, no. 5 (2023). https://doi.org/10.3390/ijerph20053800.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

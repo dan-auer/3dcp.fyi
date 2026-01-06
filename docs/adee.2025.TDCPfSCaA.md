@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Adeel
+    - footer
+title: Adeel Muhammad
 description:
 tags:
  - architecture
@@ -17,30 +18,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>:aca-blank: A Comprehensive Review ([2025-11](date/2025/11))
-<a href="https://doi.org/10.36922/jcau025370074" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.36922/jcau025370074</a>
+#Three-Dimensional Concrete Printing for Sustainable Construction and Architecture&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">A Comprehensive Review</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.36922/jcau025370074" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.36922/jcau025370074" target="_blank">10.36922/jcau025370074</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-7591-7621" title="ORCID: 0009-0007-7591-7621" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adeel_muhammad"><b>Adeel</b>&nbsp;Muhammad</a></span><br>
+Journal Article - Journal of Chinese Architecture and Urbanism, Vol. 0, Iss. 0, No. 025370074
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="https://orcid.org/0009-0007-7591-7621" title="ORCID: 0009-0007-7591-7621" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Chinese Architecture and Urbanism, Vol. 0, Iss. 0, No. 025370074
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#dimension`](keyword/dimension)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Concrete%20Printing%20for%20Sustainable%20Construction%20and%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,18 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7105851990" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.36922/jcau025370074" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.36922/jcau025370074?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) has emerged as a transformative technology in the construction and architecture industries, offering automation, design flexibility, cost savings, and reduced environmental impact. Over the past decade, research has advanced in material development, structural performance, process optimization, and large-scale applications, such as housing, infrastructure, and disaster relief. Despite this progress, challenges remain, including the absence of standardized mix designs, reinforcement strategies, quality control measures, durability data, and universal regulatory frameworks. This article aims to provide a systematic review of recent developments in three-dimensional printable materials, process parameters, architectural integration, structural performance, and sustainability outcomes. Global case studies and bibliometric insights are synthesized to identify regional leadership, emerging technologies, and existing gaps. Particular emphasis is placed on sustainability through waste-based supplementary cementitious materials, enhanced thermal and mechanical performance, and circular economy approaches. The review highlights key research gaps in material compatibility, large-scale structural validation, and life-cycle assessment, while proposing a roadmap for future adoption. By consolidating current knowledge, this study serves as a reference for researchers, architects, and industry professionals working toward sustainable and scalable applications of 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
@@ -108,8 +88,38 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{adee.2025.TDCPfSCaA,
+      author            = "Muhammad Adeel",
+      title             = "Three-Dimensional Concrete Printing for Sustainable Construction and Architecture: A Comprehensive Review",
+      doi               = "10.36922/jcau025370074",
+      year              = "2025",
+      journal           = "Journal of Chinese Architecture and Urbanism",
+      volume            = "0",
+      number            = "0",
+      pages             = "025370074",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Adeel, “Three-Dimensional Concrete Printing for Sustainable Construction and Architecture: A Comprehensive Review”, <i>Journal of Chinese Architecture and Urbanism</i>, vol. 0, no. 0, p. 025370074, 2025, doi: 10.36922/jcau025370074.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Adeel, Muhammad. “Three-Dimensional Concrete Printing for Sustainable Construction and Architecture: A Comprehensive Review”. <i>Journal of Chinese Architecture and Urbanism</i> (2025): 025370074. https://doi.org/10.36922/jcau025370074.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

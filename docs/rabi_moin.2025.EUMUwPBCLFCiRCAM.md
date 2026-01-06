@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mahsa Rabiei, Mohamadreza Moini
+    - footer
+title: Rabiei Mahsa, Moini Mohamadreza
 description:
 tags:
  - additive
@@ -20,34 +21,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.autcon.2025.106494" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106494</a>
+#Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106494" target="_blank">10.1016/j.autcon.2025.106494</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-2137-641X" title="ORCID: 0009-0007-2137-641X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rabiei_mahsa"><b>Rabiei</b>&nbsp;Mahsa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
+Journal Article - Automation in Construction, Vol. 180, No. 106494
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a> <a href="https://orcid.org/0009-0007-2137-641X" title="ORCID: 0009-0007-2137-641X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 180, No. 106494
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#closed`](keyword/closed)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#extrusion`](keyword/extrusion)
-    [`#feedback`](keyword/feedback)
-    [`#loop`](keyword/loop)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#pressure`](keyword/pressure)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/closed"><button class="btn">#closed</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/loop"><button class="btn">#loop</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrusion%20Under%20Material%20Uncertainty%20with%20Pressure-Based%20Closed-Loop%20Feedback%20Control%20in%20Robotic%20Concrete%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014618565&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413922009" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106494" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106494?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the main challenges in extrusion-based robotic concrete additive manufacturing process is material uncertainty under pressure which leads to geometric inaccuracies. Here, a real-time pressure-based closed-loop feedback control system is developed to address the geometric fidelity challenges that arise from the material uncertainty under extrusion. A robotic extrusion process is instrumented with a load sensor and assessed with and without activation of the pressure-based controller. The reliability and robustness of a pressure-based closed-loop control system is examined by introducing single- and double-perturbation of the extrusion and assessing the recovery of the geometry (width, height) of the extruded filaments to a baseline reference. The developed control system reacts to retrieve and maintain geometric fidelity among all experiments and repetitions, thereby highlighting the utility of pressure as a feedback parameter to handle material uncertainty that is common in extrusion-based robotic manufacturing process. Future directions include evaluating the control system in unseen conditions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
@@ -102,7 +78,37 @@ tags:
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rabi_moin.2025.EUMUwPBCLFCiRCAM,
+      author            = "Mahsa Rabiei and Mohamadreza Moini",
+      title             = "Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing",
+      doi               = "10.1016/j.autcon.2025.106494",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "180",
+      pages             = "106494",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rabiei  and M. Moini, “Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing”, <i>Automation in Construction</i>, vol. 180, p. 106494, 2025, doi: 10.1016/j.autcon.2025.106494.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rabiei, Mahsa, and Mohamadreza Moini. “Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing”. <i>Automation in Construction</i> 180 (2025): 106494. https://doi.org/10.1016/j.autcon.2025.106494.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

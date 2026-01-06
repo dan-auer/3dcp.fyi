@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Graser Konrad 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/jahne_rene"><b>Jähne</b> René</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../gras_walz_hunh_jahn.2023.QTEoDFwC/">Qualitative Technology Evaluation of Digital Fabrication with Concrete:<br/>Conceptual Framework and Scoreboard</a></li>
   <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/kahlert_aniko"><b>Kahlert</b> Aniko</a>, <a href="../../../author/hall_m_daniel"><b>Hall</b> Daniel</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../gras_kahl_hall.2021.DH/">DFAB HOUSE:<br/>Implications of a Building-Scale Demonstrator for Adoption of Digital Fabrication in AEC</a></li>
   <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/adel_arash"><b>Adel</b> Arash</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/pont_sanz_daniel"><b>Pont</b> Daniel</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gras_adel_baur_pont.2021.PPoI/">Parallel Paths of Inquiry:<br/>Detailing for DFAB HOUSE</a></li>

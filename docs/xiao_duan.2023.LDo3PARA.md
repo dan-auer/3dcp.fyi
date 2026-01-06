@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianzhuang Xiao, Zhenhua Duan
+    - footer
+title: Xiao Jianzhuang, Duan Zhenhua
 description:
 tags:
  - adoption
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Latest Development of 3D Printing Adopting Recycled Aggregate ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/b978-0-323-89838-6.00016-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-323-89838-6.00016-5</a>
+#Latest Development of 3D Printing Adopting Recycled Aggregate ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-323-89838-6.00016-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-89838-6.00016-5" target="_blank">10.1016/b978-0-323-89838-6.00016-5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span><br>
+Contribution - Multi-Functional Concrete with Recycled Aggregates, pp. 307-344
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Multi-Functional Concrete with Recycled Aggregates, pp. 307-344
-
-:aca-blank:{ .lg .middle}
-    [`#adoption`](keyword/adoption)
-    [`#aggregate`](keyword/aggregate)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Latest%20Development%20of%203D%20Printing%20Adopting%20Recycled%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150123161&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320002295" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-323-89838-6.00016-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-323-89838-6.00016-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Currently, 3D concrete printing (3DCP) has received worldwide attention due to its digital construction advantages including high efficiency and less labor requirement. Meanwhile, the problems of pollution caused by construction and demolition waste (C&D waste) as well as the shortage of river sand have become more and more serious. Therefore, 3D recycled mortar printing, which incorporates recycled fine aggregates into 3D printing, has great advantages on practical applications, which will not only alleviate the pollution from C&D waste and the pressure of shortage on river sand but will also reduce the labor requirement and output of by-products on conventional construction. In this chapter, a printing system, printability of 3D recycled mortar, and its related physical and mechanical properties are mainly introduced, and onsite printing is also carried out.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -73,10 +56,40 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hermida_luis_jose"><b>Hermida</b> José</a>, <a href="../../../author/saavedra_ruth"><b>Saavedra</b> Ruth</a>, <a href="../../../author/hidalgo-astudillo_samantha"><b>Hidalgo-Astudillo</b> Samantha</a>, <a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../herm_saav_hida_tosi.2025.IoFRAotPo3PC/">Influence of Fine Recycled Aggregates on the Properties of 3D Printing Concrete</a></li>
       <li><a href="../../../author/shoaei_parham"><b>Shoaei</b> Parham</a>, <a href="../../../author/gallantree-smith_harrison"><b>Gallantree-Smith</b> Harrison</a>, <a href="../../../author/martinez-pacheco_victor"><b>Martínez Pacheco</b> Victor</a>, <a href="../../../author/pamies_ramon"><b>Pamies</b> Ramón</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../shoa_gall_mart_pami.2024.CAo3PoPCMwHMaMFCaVMA/">Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{xiao_duan.2023.LDo3PARA,
+      author            = "Jianzhuang Xiao and Zhenhua Duan",
+      title             = "Latest Development of 3D Printing Adopting Recycled Aggregate",
+      doi               = "10.1016/b978-0-323-89838-6.00016-5",
+      year              = "2023",
+      pages             = "307--344",
+      booktitle         = "Multi-Functional Concrete with Recycled Aggregates",
+      editor            = "Yidong Xu",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Xiao  and Z. Duan, “Latest Development of 3D Printing Adopting Recycled Aggregate”, in <i>Multi-Functional Concrete with Recycled Aggregates</i>,  2023, pp. 307–344. doi: 10.1016/b978-0-323-89838-6.00016-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xiao, Jianzhuang, and Zhenhua Duan. “Latest Development of 3D Printing Adopting Recycled Aggregate”. In <i>Multi-Functional Concrete with Recycled Aggregates</i>, edited by Yidong Xu, 307–44, 2023. https://doi.org/10.1016/b978-0-323-89838-6.00016-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

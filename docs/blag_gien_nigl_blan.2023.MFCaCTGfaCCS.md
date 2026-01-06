@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Boris Blagojevic, Andreas Gienger, David Nigl, Lucio Blandini, Oliver Sawodny
+    - footer
+title: Blagojevic Boris, Gienger Andreas, Nigl David, Blandini Lucio, Sawodny Oliver
 description:
 tags:
  - concrete
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modeling, Feedforward-Control, and Constrained Trajectory-Generation for a Concrete-Conveyance-System ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1115/1.4063073" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1115/1.4063073</a>
+#Modeling, Feedforward-Control, and Constrained Trajectory-Generation for a Concrete-Conveyance-System ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/1.4063073" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/1.4063073" target="_blank">10.1115/1.4063073</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2637-6527" title="ORCID: 0000-0003-2637-6527" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blagojevic_boris"><b>Blagojevic</b>&nbsp;Boris</a></span>, <a href="../../../author/gienger_andreas"><b>Gienger</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3501-1861" title="ORCID: 0000-0003-3501-1861" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nigl_david"><b>Nigl</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blandini_lucio"><b>Blandini</b>&nbsp;Lucio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sawodny_oliver"><b>Sawodny</b>&nbsp;Oliver</a></span><br>
+Journal Article - Journal of Dynamic Systems, Measurement, and Control, Vol. 145, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/blagojevic_boris"><b>Blagojevic</b> Boris</a> <a href="https://orcid.org/0000-0003-2637-6527" title="ORCID: 0000-0003-2637-6527" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gienger_andreas"><b>Gienger</b> Andreas</a>
-,     <a href="../../../author/nigl_david"><b>Nigl</b> David</a> <a href="https://orcid.org/0000-0003-3501-1861" title="ORCID: 0000-0003-3501-1861" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> <a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sawodny_oliver"><b>Sawodny</b> Oliver</a> <a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Dynamic Systems, Measurement, and Control, Vol. 145, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#constraint`](keyword/constraint)
-    [`#control`](keyword/control)
-    [`#conveyor`](keyword/conveyor)
-    [`#feedback`](keyword/feedback)
-    [`#generation`](keyword/generation)
-    [`#model`](keyword/model)
-    [`#system`](keyword/system)
-    [`#trajectory`](keyword/trajectory)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constraint"><button class="btn">#constraint</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/conveyor"><button class="btn">#conveyor</button></a> <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/trajectory"><button class="btn">#trajectory</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%2C%20Feedforward-Control%2C%20and%20Constrained%20Trajectory-Generation%20for%20a%20Concrete-Conveyance-System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176224432&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385461565" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1115/1.4063073" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1115/1.4063073?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Automated fabrication of concrete elements requires precise control of outgoing volume flow. Since measurements ofthe volume flow or the total extruded volume are challenging during production, a feedforward control is required, which in turn necessitates a model of the dynamics at hand. In this paper, a concrete conveyance system with two pumps is considered. These are mounted at the inlet and outlet of the hose, respectively. Based on previous work, a dynamical model with concentrated parameters is derived, which is motivated on the general distributed dynamics oftwo-phase flow. The model is validated by experiments, with parameters calculated by a tailored estimation approach. Based thereon, a feedforward control approach is presented and tested in simulation, exploiting the approximate flatness of the system. The flat parametrization is then used for constrained, smooth setpoint transition ofthe volume flow with minimal transition time.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/blagojevic_boris"><b>Blagojevic</b> Boris</a>, <a href="../../../author/schonemann_benjamin"><b>Schonemann</b> Benjamin</a>, <a href="../../../author/nigl_david"><b>Nigl</b> David</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../blag_scho_nigl_blan.2021.TPfCEFwOC/">Trajectory-Planning for Concrete Element Fabrication with Optimal Control</a></li>
       <li><a href="../../../author/le_d_h"><b>Le</b> H.</a>, <a href="../../../author/kadri_hadj"><b>Kadri</b> Hadj</a>, <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a>, <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> et al. <a href="../../../date/2015/01">(2015-01)</a><br><a href="../../../le_kadr_aggo_vier.2015.EoLLoVPoCiaPP/">Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
@@ -79,7 +55,37 @@ tags:
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2014/11">(2014-11)</a><br><a href="../../../secr_butl_mech.2014.TPoC/">Testing Pumpability of Concrete:<br/>From Laboratory into Practice</a></li>
       <li><a href="../../../author/worner_mark"><b>Wörner</b> Mark</a>, <a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a>, <a href="../../../author/schuler_benjamin"><b>Schuler</b> Benjamin</a>, <a href="../../../author/pfinder_julian"><b>Pfinder</b> Julian</a> et al. <a href="../../../date/2016/12">(2016-12)</a><br><a href="../../../worn_schm_schu_pfin.2016.TToGC/">The Technology of Graded Concrete:<br/>From the Development of Concrete Mixtures and the Conceptual Design to the Automatized Manufacturing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{blag_gien_nigl_blan.2023.MFCaCTGfaCCS,
+      author            = "Boris Blagojevic and Andreas Gienger and David Nigl and Lucio Blandini and Oliver Sawodny",
+      title             = "Modeling, Feedforward-Control, and Constrained Trajectory-Generation for a Concrete-Conveyance-System",
+      doi               = "10.1115/1.4063073",
+      year              = "2023",
+      journal           = "Journal of Dynamic Systems, Measurement, and Control",
+      volume            = "145",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Blagojevic, A. Gienger, D. Nigl, L. Blandini and O. Sawodny, “Modeling, Feedforward-Control, and Constrained Trajectory-Generation for a Concrete-Conveyance-System”, <i>Journal of Dynamic Systems, Measurement, and Control</i>, vol. 145, no. 10, 2023, doi: 10.1115/1.4063073.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Blagojevic, Boris, Andreas Gienger, David Nigl, Lucio Blandini, and Oliver Sawodny. “Modeling, Feedforward-Control, and Constrained Trajectory-Generation for a Concrete-Conveyance-System”. <i>Journal of Dynamic Systems, Measurement, and Control</i> 145, no. 10 (2023). https://doi.org/10.1115/1.4063073.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

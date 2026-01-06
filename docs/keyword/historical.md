@@ -8,7 +8,7 @@ search:
 
 # #historical
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../vale_sang_cant.2025.FTMtG/">From Traditional Materials to Geopolymers:<br/>History, Performance, Sustainability and 3D Printing Applications</a></li>
   <li><a href="../../../author/chovghi_frederic"><b>Chovghi</b> Frederic</a>, <a href="../../../author/richter_david"><b>Richter</b> David</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chov_rich_dorf_dac.2024.RtHCC/">Reconsidering the Historical Cap Ceiling:<br/>Layerwise Form-Finding of Self-Supporting Vaulted Structures for In-Situ 3D Printing</a></li>
   <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_he_schl.2023.LMoEACo3PSwtCoSH/">Lattice-Modelling of Early-Age Creep of 3D Printed Segments with the Consideration of Stress-History</a></li>

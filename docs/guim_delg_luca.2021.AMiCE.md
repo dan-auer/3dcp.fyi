@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ana Guimarães, João Delgado, Sandra Lucas
+    - footer
+title: Guimarães Ana, Delgado João, Lucas Sandra
 description:
 tags:
  - advance
@@ -11,26 +12,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1073/14/15/4474/pdf?version=1627112354) Advanced Manufacturing in Civil Engineering ([2021-07](date/2021/07))
-<a href="https://doi.org/10.3390/en14154474" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/en14154474</a>
+#Advanced Manufacturing in Civil Engineering ([2021-07](date/2021/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/14/15/4474/pdf?version=1627112354) <a href="https://doi.org/10.3390/en14154474" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en14154474" target="_blank">10.3390/en14154474</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1026-4523" title="ORCID: 0000-0002-1026-4523" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Energies, Vol. 14, Iss. 15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> <a href="https://orcid.org/0000-0002-1026-4523" title="ORCID: 0000-0002-1026-4523" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Energies, Vol. 14, Iss. 15, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#engineered`](keyword/engineered)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advanced%20Manufacturing%20in%20Civil%20Engineering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112608637&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3184704989" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/en14154474" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/en14154474?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The main goal of this work is the analysis of potential energy and green benefits of 3D printing on building construction. Current literature reports a considerable number of benefits for 3D printing, namely, reduction of material use, lower operational costs and time-saving. The authors also mention design freedom, higher efficiency, productivity and quality. This work presents the latest developments in 3D printing in civil engineering, namely, a review of the last 3D printing projects and the limitations of construction 3D printing with a focus on large-scale applications, technology costs, mix development and optimisation and thermal behaviour.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -96,13 +80,42 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ma_jiayue"><b>Ma</b> Jiayue</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/zou_kelvin"><b>Zou</b> Kelvin</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../ma_sama_roti_zou.2024.SCLo3PB/">Supply Chain Landscape of 3D Printed Buildings:<br/>A Stakeholder Decision Support Framework</a></li>
       <li><a href="../../../author/capeto_paula_ana"><b>Capêto</b> Ana</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/uribe_e-b_braian"><b>Uribe</b> Braian</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../cape_jesu_urib_guim.2024.BaGF/">Building a Greener Future:<br/>Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars</a></li>
       <li><a href="../../../author/souza_araujo_eduarda"><b>Souza</b> Eduarda</a>, <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../souz_ribe_sten_nema.2024.3PSLCMfCoASHiB/">3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil:<br/>Potential, Challenges, and Research Needs</a></li>
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../teix_scha_rang_maia.2022.ARMtFi3PaNDPfC/">A Road Map to Find in 3D Printing a New Design Plasticity for Construction:<br/>The State of Art</a></li>
-      <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{guim_delg_luca.2021.AMiCE,
+      author            = "Ana Sofia Guimarães and João M. P. Q. Delgado and Sandra Simaria de Oliveira Lucas",
+      title             = "Advanced Manufacturing in Civil Engineering",
+      doi               = "10.3390/en14154474",
+      year              = "2021",
+      journal           = "Energies",
+      volume            = "14",
+      number            = "15",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. Guimarães, J. M. P. Q. Delgado and S. S. de Oliveira Lucas, “Advanced Manufacturing in Civil Engineering”, <i>Energies</i>, vol. 14, no. 15, 2021, doi: 10.3390/en14154474.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Guimarães, Ana Sofia, João M. P. Q. Delgado, and Sandra Simaria de Oliveira Lucas. “Advanced Manufacturing in Civil Engineering”. <i>Energies</i> 14, no. 15 (2021). https://doi.org/10.3390/en14154474.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

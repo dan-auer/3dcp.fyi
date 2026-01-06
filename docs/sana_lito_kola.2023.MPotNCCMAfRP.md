@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vladimír Šána, Jiří Litoš, Karel Kolář
+    - footer
+title: Šána Vladimír, Litoš Jiří, Kolář Karel
 description:
 tags:
  - cement
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of the New Cement Composite Mixture Appropriate for Robotic Processing ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133909" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133909</a>
+#Mechanical Properties of the New Cement Composite Mixture Appropriate for Robotic Processing ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133909" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133909" target="_blank">10.1016/j.conbuildmat.2023.133909</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1303-5846" title="ORCID: 0000-0003-1303-5846" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sana_vladimir"><b>Šána</b>&nbsp;Vladimír</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5807-1237" title="ORCID: 0000-0002-5807-1237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/litos_jiri"><b>Litoš</b>&nbsp;Jiří</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0626-0474" title="ORCID: 0000-0002-0626-0474" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolar_karel"><b>Kolář</b>&nbsp;Karel</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 409, No. 133909
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a> <a href="https://orcid.org/0000-0003-1303-5846" title="ORCID: 0000-0003-1303-5846" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="https://orcid.org/0000-0002-5807-1237" title="ORCID: 0000-0002-5807-1237" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kolar_karel"><b>Kolář</b> Karel</a> <a href="https://orcid.org/0000-0002-0626-0474" title="ORCID: 0000-0002-0626-0474" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 409, No. 133909
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixture`](keyword/mixture)
-    [`#process`](keyword/process)
-    [`#property`](keyword/property)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20the%20New%20Cement%20Composite%20Mixture%20Appropriate%20for%20Robotic%20Processing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175179015&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388078892" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133909" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133909?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper is focused on the development of new cement composite, which would be useable for robotic processing in terms of sculpting. The newly developed mixture is programmable, which means that a user is able to predict and determine the initial time of hardening. The results of the newly designed cement composite were compared to the commercially available mixtures. In our study, we had to firstly design optimal composition of the concrete mixture, or more precisely cement composite, to permit its treatment for required time-period. The final mixture was treated to the experimental investigation in order to obtain its mechanical and fracture properties. Beside the destructive tests, the specimens were also treated to the measurement of volume changes in the hardening phase. Finally, the individual relief was formed by fundamental sculpting techniques such as imprinting and dragging an impactor through the fresh concrete composite.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -91,8 +71,38 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sana_lito.2025.LBCot3PCSBoaSAaLTiS11/">Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sana_lito_kola.2023.MPotNCCMAfRP,
+      author            = "Vladimír Šána and Jiří Litoš and Karel Kolář",
+      title             = "Mechanical Properties of the New Cement Composite Mixture Appropriate for Robotic Processing",
+      doi               = "10.1016/j.conbuildmat.2023.133909",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "409",
+      pages             = "133909",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Šána, J. Litoš and K. Kolář, “Mechanical Properties of the New Cement Composite Mixture Appropriate for Robotic Processing”, <i>Construction and Building Materials</i>, vol. 409, p. 133909, 2023, doi: 10.1016/j.conbuildmat.2023.133909.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Šána, Vladimír, Jiří Litoš, and Karel Kolář. “Mechanical Properties of the New Cement Composite Mixture Appropriate for Robotic Processing”. <i>Construction and Building Materials</i> 409 (2023): 133909. https://doi.org/10.1016/j.conbuildmat.2023.133909.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

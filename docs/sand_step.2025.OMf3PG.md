@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mona Sando, Dietmar Stephan
+    - footer
+title: Sando Mona, Stephan Dietmar
 description:
 tags:
  - analysis
@@ -20,34 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2025.142480) Online Monitoring for 3D Printable Geopolymers:<br/>:aca-blank: Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142480" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142480</a>
+#Online Monitoring for 3D Printable Geopolymers&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.142480) <a href="https://doi.org/10.1016/j.conbuildmat.2025.142480" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142480" target="_blank">10.1016/j.conbuildmat.2025.142480</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-6802-4113" title="ORCID: 0009-0003-6802-4113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sando_mona"><b>Sando</b>&nbsp;Mona</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 490, No. 142480
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sando_mona"><b>Sando</b> Mona</a> <a href="https://orcid.org/0009-0003-6802-4113" title="ORCID: 0009-0003-6802-4113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 490, No. 142480
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#automation`](keyword/automation)
-    [`#effect`](keyword/effect)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#image`](keyword/image)
-    [`#mixing`](keyword/mixing)
-    [`#monitoring`](keyword/monitoring)
-    [`#online`](keyword/online)
-    [`#printability`](keyword/printability)
-    [`#sequence`](keyword/sequence)
-    [`#slug`](keyword/slug)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/online"><button class="btn">#online</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sequence"><button class="btn">#sequence</button></a> <a href="../../keyword/slug"><button class="btn">#slug</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Online%20Monitoring%20for%203D%20Printable%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009655562&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411982630" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142480" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142480?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study examines how mixing sequences affect the rheological and structural properties of a hybrid geopolymer mortar consisting of fly ash and ground granulated blast furnace slag for extrusion-based 3D printing. The slug test with automated image analysis is applied as an online measurement method on an identical printing head, representing a novel application of this approach to a 3D printable geopolymer. This enables real-time monitoring of the impact of the mixing sequence on dynamic yield stress, slug frequency, slug length, and extruded mass. Additionally, optical analysis of the extruded slugs improves the evaluation of the 3D printable geopolymers. Validation of the slug test results is performed through vibrated flow spread, structuration rate testing, thermogravimetric analysis, and scanning electron microscopy (SEM). The results demonstrate that the mixing sequence of the liquid components critically influences reaction kinetics by modulating local pH and ion distribution. SEM images reveal that the early structural formation is directly linked to the printability window. The results indicate that optimised sample preparation balances early-age shear-thinning behaviour, resulting in improved printability. Therefore, the slug test with automated image analysis is an effective, simple method for evaluating printability and dynamic yield stress under real 3D printing conditions with the perspective of implementing this as a fully automated inline testing method.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "38 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bos_wolf.2022.AVIoNNDFfQCoAM/">Automated Visual Inspection of Near-Nozzle Droplet-Formation for Quality-Control of Additive Manufacturing</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chaj_savi.2024.TEoUSFGPWoFPo3PCC/">The Effect of Using Surface Functionalized Granite-Powder-Waste on Fresh Properties of 3D Printed Cementitious Composites</a></li>
@@ -112,8 +89,38 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/alves-santos_filipa_sara"><b>Alves Santos</b> Sara</a>, <a href="../../../author/worms_paul"><b>Worms</b> Paul</a>, <a href="../../../author/gurlo_aleksander"><b>Gurlo</b> Aleksander</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sand_alve_worm_gurl.2025.EoCEICFRia3PGC/">Evaluation of Continuous Epoxy-Impregnated Carbon Fiber Reinforcement in a 3D-Printable Geopolymer Composite</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sand_step.2025.OMf3PG,
+      author            = "Mona Sando and Dietmar Stephan",
+      title             = "Online Monitoring for 3D Printable Geopolymers: Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects",
+      doi               = "10.1016/j.conbuildmat.2025.142480",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "490",
+      pages             = "142480",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Sando  and D. Stephan, “Online Monitoring for 3D Printable Geopolymers: Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects”, <i>Construction and Building Materials</i>, vol. 490, p. 142480, 2025, doi: 10.1016/j.conbuildmat.2025.142480.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sando, Mona, and Dietmar Stephan. “Online Monitoring for 3D Printable Geopolymers: Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects”. <i>Construction and Building Materials</i> 490 (2025): 142480. https://doi.org/10.1016/j.conbuildmat.2025.142480.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

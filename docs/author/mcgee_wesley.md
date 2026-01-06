@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  McGee Wesley 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhou_xu_savi_mcge.2024.SECCE/">Stitching Engineered Cementitious Composites (ECC ):<br/>Unraveling Anisotropy Challenges Through Architectured 3D Printing Path Design</a></li>
   <li><a href="../../../author/vatandoost_mohsen"><b>Vatandoost</b> Mohsen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/buelow_peter"><b>Buelow</b> Peter</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../vata_mcge_buel.2024.UTL3PHCSfCC/">Ultra-Thin-Layered 3D Printed Hollow-Core Sections for Concrete Casting</a></li>
   <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>

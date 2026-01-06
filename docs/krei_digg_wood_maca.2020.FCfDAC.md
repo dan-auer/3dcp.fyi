@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eric Kreiger, Brandy Diggs-McGee, Tanner Wood, Bruce MacAllister, Megan Kreiger
+    - footer
+title: Kreiger Eric, Diggs-McGee Brandy, Wood Tanner, MacAllister Bruce, Kreiger Megan
 description:
 tags:
  - additive
@@ -11,28 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Field Considerations for Deploying Additive Construction ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_109" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_109</a>
+#Field Considerations for Deploying Additive Construction ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_109" target="_blank">10.1007/978-3-030-49916-7_109</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2052-0946" title="ORCID: 0000-0003-2052-0946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b>&nbsp;Brandy</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-7777-5790" title="ORCID: 0009-0001-7777-5790" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wood_tanner"><b>Wood</b>&nbsp;Tanner</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9372-3434" title="ORCID: 0009-0003-9372-3434" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/macallister_bruce"><b>MacAllister</b>&nbsp;Bruce</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1147-1163
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a> <a href="https://orcid.org/0000-0003-2052-0946" title="ORCID: 0000-0003-2052-0946" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wood_tanner"><b>Wood</b> Tanner</a> <a href="https://orcid.org/0009-0001-7777-5790" title="ORCID: 0009-0001-7777-5790" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/macallister_bruce"><b>MacAllister</b> Bruce</a> <a href="https://orcid.org/0009-0003-9372-3434" title="ORCID: 0009-0003-9372-3434" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1147-1163
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#field`](keyword/field)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Field%20Considerations%20for%20Deploying%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088251928&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3041661906" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_109" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_109?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While the additive construction printing systems and applications have grown in size, number and types, they represent and benefit specific needs of individual programs or business interests. Work of start-up companies, construction firms, and research institutions has focused on applications for the commercial construction industry. The development of printing systems are directly connected to the application. Each application requires a different range of mobility, from stationary machines to machines capable of being setup in minutes instead of hours. These printers are based on pre-existing equipment types including gantry, robotic arm, cable bot, and jib crane. Alternatively, this technology has clear applications for Humanitarian Assistance and Disaster Response (HADR) and military deployed operations. Unique requirements of these operations include the necessity for using highly deployable mobile printers with local or indigenous materials. The US Army Construction Engineering Research Laboratory (CERL) has developed collapsible deployable printing systems, trained military personnel to independently operate these systems, and performed demonstrations using locally available materials with applicable reinforcing methods. The results of this work not only applies to military construction, but to the construction industry. Through larger demonstrations, CERL has started to confront the struggles that the industry faces. These challenges include continuous equipment operation and maintenance cycles, the development of printable mixes with variable local materials, the development of printing systems that can accommodate variations in materials, and applicable construction methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -74,8 +56,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/besharatian_boshra"><b>Besharatian</b> Boshra</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hasa_besh_dora.2025.ACPCP/">Additively Constructed Plain Concrete Pipes:<br/>Structural Performance and Site Implementation</a></li>
@@ -97,7 +79,36 @@ tags:
       <li><a href="../../../author/stidwell_samuel"><b>Stidwell</b> Samuel</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../stid_krei.2021.DoMPoACCBoSO/">Determination of Mechanical Properties of Additively Constructed Concrete Based on Specimen-Orientation</a></li>
       <li><a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../krei.2021.GBoGH/">Go Big or Go Home:<br/>Printing Concrete Buildings</a></li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
-      <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
-      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{krei_digg_wood_maca.2020.FCfDAC,
+      author            = "Eric L. Kreiger and Brandy N. Diggs-McGee and Tanner Wood and Bruce MacAllister and Megan A. Kreiger",
+      title             = "Field Considerations for Deploying Additive Construction",
+      doi               = "10.1007/978-3-030-49916-7_109",
+      year              = "2020",
+      volume            = "28",
+      pages             = "1147--1163",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. L. Kreiger, B. N. Diggs-McGee, T. Wood, B. MacAllister and M. A. Kreiger, “Field Considerations for Deploying Additive Construction”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 1147–1163. doi: 10.1007/978-3-030-49916-7_109.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kreiger, Eric L., Brandy N. Diggs-McGee, Tanner Wood, Bruce MacAllister, and Megan A. Kreiger. “Field Considerations for Deploying Additive Construction”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:1147–63, 2020. https://doi.org/10.1007/978-3-030-49916-7_109.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

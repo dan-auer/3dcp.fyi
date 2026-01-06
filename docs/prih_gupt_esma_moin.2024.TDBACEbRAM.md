@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arjun Prihar, Shashank Gupta, Hadi Esmaeeli, Mohamadreza Moini
+    - footer
+title: Prihar Arjun, Gupta Shashank, Esmaeeli Hadi, Moini Mohamadreza
 description:
 tags:
  - additive
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s41467-024-51640-y.pdf) Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1038/s41467-024-51640-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s41467-024-51640-y</a>
+#Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41467-024-51640-y.pdf) <a href="https://doi.org/10.1038/s41467-024-51640-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41467-024-51640-y" target="_blank">10.1038/s41467-024-51640-y</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prihar_arjun"><b>Prihar</b>&nbsp;Arjun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_shashank"><b>Gupta</b>&nbsp;Shashank</a></span>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b>&nbsp;Hadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
+Journal Article - Nature Communications, Vol. 15, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> <a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> <a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>
-,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Nature Communications, Vol. 15, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#architecture`](keyword/architecture)
-    [`#bouligand`](keyword/bouligand)
-    [`#concrete`](keyword/concrete)
-    [`#double`](keyword/double)
-    [`#enabler`](keyword/enabler)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#robot`](keyword/robot)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/double"><button class="btn">#double</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tough%20Double-Bouligand%20Architected%20Concrete%20Enabled%20by%20Robotic%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202644654&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401987321" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s41467-024-51640-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s41467-024-51640-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Nature has developed numerous design motifs by arrangingmodest materials into complex architectures. The damage-tolerant, double-bouligand architecture found in the coelacanth fish scale is comprised of collagen fibrils helically arranged in a bilayer manner. Here, we exploit the toughening mechanisms ofdouble-bouligand designs by engineering architected concrete using a large-scale two-component robotic additive manufacturing process. The process enables intricate fabrication of the architected concrete components at large-scale. The double-bouligand designs are benchmarked against bouligand and conventional rectilinear counterparts and monolithic casts. In contrast to cast concrete, double-bouligand design demonstrates a non-brittle response and a rising R-curve, due to a hypothesized bilayer crack shielding mechanism. In addition, interlocking behind and crack deflection ahead of the crack tip in bilayer double-bouligand architected concrete elicits a 63% increase in fracture toughness compared to cast counterparts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../bent_jone_bent_pelt.2019.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
@@ -120,8 +98,8 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../du_deng_qian.2025.B3PHBCCfUHIP/">Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
@@ -132,4 +110,34 @@ tags:
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lori_mehr.2024.MPaCDMi3PPGwCS/">Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../du_qian.2024.BIIi3CP/">Bio-Inspired Innovations in 3D Concrete Printing:<br/>Structures, Materials and Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{prih_gupt_esma_moin.2024.TDBACEbRAM,
+      author            = "Arjun Prihar and Shashank Gupta and Hadi S. Esmaeeli and Mohamadreza Moini",
+      title             = "Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing",
+      doi               = "10.1038/s41467-024-51640-y",
+      year              = "2024",
+      journal           = "Nature Communications",
+      volume            = "15",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Prihar, S. Gupta, H. S. Esmaeeli and M. Moini, “Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing”, <i>Nature Communications</i>, vol. 15, no. 1, 2024, doi: 10.1038/s41467-024-51640-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Prihar, Arjun, Shashank Gupta, Hadi S. Esmaeeli, and Mohamadreza Moini. “Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing”. <i>Nature Communications</i> 15, no. 1 (2024). https://doi.org/10.1038/s41467-024-51640-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

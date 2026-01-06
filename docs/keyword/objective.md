@@ -8,7 +8,7 @@ search:
 
 # #objective
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
   <li><a href="../../../author/wang_xiaoqi"><b>Wang</b> Xiaoqi</a>, <a href="../../../author/liu_xing"><b>Liu</b> Xing</a>, <a href="../../../author/xu_yanling"><b>Xu</b> Yanling</a>, <a href="../../../author/cao_jianfu"><b>Cao</b> Jianfu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_liu_xu_cao.2025.AGALHCPPAfC3PoCPSBoMOOaRL/">A General Adaptive Layer Height Continuous Path Planning Algorithm for Concrete 3D Printing of Complex Porous Structures Based on Multi-Objective Optimization and Reinforcement Learning</a></li>
   <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../jin_ouel_caro.2025.MOOoaSLMf3P/">Multi-Objective Optimization of a Sustainable LC3 Mortar for 3D Printing</a></li>

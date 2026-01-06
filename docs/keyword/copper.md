@@ -8,7 +8,7 @@ search:
 
 # #copper
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>
   <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA/">Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate</a></li>
   <li><a href="../../../author/nieswiec_martyna"><b>Nieświec</b> Martyna</a>, <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../nies_chaj_savi.2025.EoGCSotFPo3PCC/">Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites</a></li>

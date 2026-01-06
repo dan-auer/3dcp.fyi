@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Flávio Craveiro, Shadi Nazarian, Helena Bártolo, Paulo Bartolo, José Duarte
+    - footer
+title: Craveiro Flávio, Nazarian Shadi, Bártolo Helena, Bartolo Paulo, Duarte José
 description:
 tags:
  - automation
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://scholarsphere.psu.edu/resources/ee88bf48-3454-4f90-ae5b-859202ace424) An Automated System for 3D Printing Functionally Graded Concrete-Based Materials ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1016/j.addma.2020.101146" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2020.101146</a>
+#An Automated System for 3D Printing Functionally Graded Concrete-Based Materials ([2020-02](date/2020/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://scholarsphere.psu.edu/resources/ee88bf48-3454-4f90-ae5b-859202ace424) <a href="https://doi.org/10.1016/j.addma.2020.101146" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101146" target="_blank">10.1016/j.addma.2020.101146</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/craveiro_flavio"><b>Craveiro</b>&nbsp;Flávio</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_galha_helena"><b>Bártolo</b>&nbsp;Helena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 33
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a> <a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 33, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Automated%20System%20for%203D%20Printing%20Functionally%20Graded%20Concrete-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079838671&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,22 +38,17 @@ tags:
 <a href="https://inciteful.xyz/p/W3008940275" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2020.101146" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2020.101146?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, the interest in developing additive manufacturing (AM) technologies in the architecture, engineering and construction (AEC) industry has increased, motivated by the potential to support greater formal complexity. In this context, AM has been largely used to design and fabricate physical parts with homogeneous materials. This paper proposes a new strategy, aimed at the design and fabrication of functionally graded concrete parts with specific thermo-mechanical performance. The paper describes the development of the AM system to materialize such parts. The computational tool developed to design the material to meet specific performance requirements, and the design and testing of the material are described elsewhere. A functionally graded concrete part obtained by replacing sand with cork was produced and is evaluated.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chee_wei-shen_ryan"><b>Chee</b> Ryan</a>, <a href="../../../author/tan_lin_wei"><b>Tan</b> Wei</a>, <a href="../../../author/goh_hern_wei"><b>Goh</b> Wei</a>, <a href="../../../author/amtsberg_felix"><b>Amtsberg</b> Felix</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../chee_tan_goh_amts.2018.LDCbDCI/">Locally Differentiated Concrete by Digitally Controlled Injection</a></li>
-      <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../crav_bart_duar_bart.2020.AMMENfFGCP/">A Multi-Material Extrusion-Nozzle for Functionally-Graded Concrete Printing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -83,9 +59,10 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "69 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
@@ -154,4 +131,33 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{crav_naza_bart_bart.2020.AASf3PFGCBM,
+      author            = "Flávio Craveiro and Shadi Nazarian and Helena Galha Bártolo and Paulo Jorge Bartolo and José Pinto Duarte",
+      title             = "An Automated System for 3D Printing Functionally Graded Concrete-Based Materials",
+      doi               = "10.1016/j.addma.2020.101146",
+      year              = "2020",
+      journal           = "Additive Manufacturing",
+      volume            = "33",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Craveiro, S. Nazarian, H. G. Bártolo, P. J. Bartolo and J. P. Duarte, “An Automated System for 3D Printing Functionally Graded Concrete-Based Materials”, <i>Additive Manufacturing</i>, vol. 33, 2020, doi: 10.1016/j.addma.2020.101146.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Craveiro, Flávio, Shadi Nazarian, Helena Galha Bártolo, Paulo Jorge Bartolo, and José Pinto Duarte. “An Automated System for 3D Printing Functionally Graded Concrete-Based Materials”. <i>Additive Manufacturing</i> 33 (2020). https://doi.org/10.1016/j.addma.2020.101146.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

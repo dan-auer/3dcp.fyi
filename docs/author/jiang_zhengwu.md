@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Jiang Zhengwu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD/">Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance</a></li>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yiyuan"><b>Zhang</b> Yiyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_titt_tao_zhan.2024.UCi3PCBMwEBS/">Understanding Carbonation in 3D Printed Cement-Based Materials with Exposed Bottom Surface</a></li>

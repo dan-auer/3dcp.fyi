@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,6 +9,6 @@ search:
 
 #  Roy Krishanu 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/dani_alamsah_aflah"><b>Dani</b> Aflah</a>, <a href="../../../author/lim_b-p_james"><b>Lim</b> James</a>, <a href="../../../author/roy_krishanu"><b>Roy</b> Krishanu</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../khan_dani_lim_roy.2024.AtFo3PCiNZH/">Appraising the Feasibility of 3D Printing Construction in New Zealand Housing</a></li>
 </ol>

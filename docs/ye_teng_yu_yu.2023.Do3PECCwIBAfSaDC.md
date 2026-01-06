@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Junhong Ye, Fei Teng, Jie Yu, Shiwei Yu, Hongjian Du, Dong Zhang, Shaoqin Ruan, Yiwei Weng
+    - footer
+title: Ye Junhong, Teng Fei, Yu Jie, Yu Shiwei, Du Hongjian, Zhang Dong, Ruan Shaoqin, Weng Yiwei
 description:
 tags:
  - ash
@@ -17,37 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.jclepro.2023.138639" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2023.138639</a>
+#Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2023.138639" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.138639" target="_blank">10.1016/j.jclepro.2023.138639</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_fei"><b>Teng</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jie"><b>Yu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_shiwei"><b>Yu</b>&nbsp;Shiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6172-9247" title="ORCID: 0000-0002-6172-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruan_shaoqin"><b>Ruan</b>&nbsp;Shaoqin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 422
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> <a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teng_fei"><b>Teng</b> Fei</a> <a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> <a href="https://orcid.org/0000-0003-0922-3238" title="ORCID: 0000-0003-0922-3238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> <a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>
-,     <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a> <a href="https://orcid.org/0000-0002-6172-9247" title="ORCID: 0000-0002-6172-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 422, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#development`](keyword/development)
-    [`#digital`](keyword/digital)
-    [`#engineered`](keyword/engineered)
-    [`#printability`](keyword/printability)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printable%20Engineered%20Cementitious%20Composites%20with%20Incineration-Bottom-Ash%20for%20Sustainable%20and%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169812704&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386319909" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2023.138639" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2023.138639?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to develop 3D printable engineered cementitious composites (3DPECC) with incineration bottom ash (IBA) for the enhancement of sustainability. The impacts of using IBA to substitute aggregate (0%, 20%, 40%, and 60% by volume) on the fresh properties, hydration kinetics, and hardened properties of 3DPECC were investigated. The 3DPECC incorporated IBA was firstly tailored for 3D printing by the optimization of fresh properties. The results show that the addition of IBA enhances hydration degree while leading to a porous IBA in the matrix. Due to the enhanced hydration degree, printed specimens with 20% IBA substitution exhibit improved tensile strength (6.19 MPa), compressive strength (50.47 MPa), and flexural strength (22.60 MPa) compared to that of printed specimens without IBA. Due to the porous IBA, printed specimens with 60% IBA substitution reduce 14.9%, 1.5%, and 14.5% on the tensile, compressive, and flexural strength, respectively, compared to printed specimens with 20% IBA substitution. Sustainability analysis reveals that 3DPECC with 60% IBA substitution reduces 1.27 kg/m3 and 14.74 $/m3 on embodied carbon and cost, respectively, compared to that of 3DPECC without IBA. The findings reveal that recycling IBA in 3DPECC is a feasible solution to facilitate municipal solid waste management and sustainable construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lu_qian_li_weng.2019.DSB3PCMwFACaAEA/">Designing Spray-Based 3D Printable Cementitious Materials with Fly-Ash-Cenosphere and Air-Entraining Agent</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/zhu_weiping"><b>Zhu</b> Weiping</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lu_zhu_weng_liu.2020.SoMASaaCMfSSB3P/">Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
@@ -86,8 +59,8 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
@@ -110,4 +83,33 @@ tags:
       <li><a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_dai_lyu.2024.EoASFotPoTDPCC/">Effect of Alkalized Straw-Fibers on the Properties of Three Dimensional Printed Cementitious Composite</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/dai_yecheng"><b>Dai</b> Yecheng</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ye_yang_yu_dai.2024.SEoFaFBo3PECC/">Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites:<br/>Experimental and Numerical Studies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC,
+      author            = "Junhong Ye and Fei Teng and Jie Yu and Shiwei Yu and Hongjian Du and Dong Zhang and Shaoqin Ruan and Yiwei Weng",
+      title             = "Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction",
+      doi               = "10.1016/j.jclepro.2023.138639",
+      year              = "2023",
+      journal           = "Journal of Cleaner Production",
+      volume            = "422",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Ye, “Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction”, <i>Journal of Cleaner Production</i>, vol. 422, 2023, doi: 10.1016/j.jclepro.2023.138639.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ye, Junhong, Fei Teng, Jie Yu, Shiwei Yu, Hongjian Du, Dong Zhang, Shaoqin Ruan, and Yiwei Weng. “Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction”. <i>Journal of Cleaner Production</i> 422 (2023). https://doi.org/10.1016/j.jclepro.2023.138639.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lucia Ferrari, Giacomo Rizzieri, Liberato Ferrara, Elisa Franzoni
+    - footer
+title: Ferrari Lucia, Rizzieri Giacomo, Ferrara Liberato, Franzoni Elisa
 description:
 tags:
  - application
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106452" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106452</a>
+#Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cemconcomp.2025.106452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106452" target="_blank">10.1016/j.cemconcomp.2025.106452</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6785-9977" title="ORCID: 0000-0001-6785-9977" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrari_lucia"><b>Ferrari</b>&nbsp;Lucia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b>&nbsp;Giacomo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b>&nbsp;Elisa</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 167, No. 106452
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a> <a href="https://orcid.org/0000-0001-6785-9977" title="ORCID: 0000-0001-6785-9977" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> <a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 167, No. 106452
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#ceramic`](keyword/ceramic)
-    [`#composite`](keyword/composite)
-    [`#control`](keyword/control)
-    [`#incorporation`](keyword/incorporation)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Control%20of%20Cementitious%20Composites%20Incorporating%20Ceramic%20Wastes%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106452" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106452?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In response to the environmental impact of cement production and industrial discarded materials, this study explores the valorisation of ceramic wastes as replacement of clinker in low-carbon cementitious composites for application in additive manufacturing. Ceramic wastes from different sources were used as substitute of calcined clay in limestone calcined clay cement (LC3) mortar. The embodied CO2 reduction of these new binders exceeds 40 % compared to Portland Cement (PC), thus representing a notable advancement in low-emission cementitious composites. The influence of six ceramic wastes on the fresh state performance of mortar was assessed through flow table tests and rheological measurements. A ball measuring system was used to assess viscosity, static yield stress, and their early-age evolution, combining the high resolution of benchtop rheometers with the possibility of testing of 3D-printable mortars with aggregates up to 2 mm, featuring high yield stress values. Numerical simulations based on the Particle Finite Element Method were then used to evaluate the printability of developed mix designs, avoiding time consuming trial and error testing campaigns and paving the way for through printing trials on a selected set of waste materials. Numerical simulations highlighted that, while all tested formulations showed good performance for small-scale 3D printing, careful material selection becomes crucial when targeting larger structures to ensure stability and minimize deformation. Additionally, the simulations allowed prediction of material behaviour, particularly valuable given the high variability of waste-based constituents, emphasizing the innovative combination of circular economy concepts with a unique approach to additive manufacturing supported by numerical simulations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
@@ -81,7 +58,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ferr_rizz_ferr_fran.2026.RCoCCICWf3PA,
+      author            = "Lucia Ferrari and Giacomo Rizzieri and Liberato Ferrara and Elisa Franzoni",
+      title             = "Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications",
+      doi               = "10.1016/j.cemconcomp.2025.106452",
+      year              = "2026",
+      journal           = "Cement and Concrete Composites",
+      volume            = "167",
+      pages             = "106452",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Ferrari, G. Rizzieri, L. Ferrara and E. Franzoni, “Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications”, <i>Cement and Concrete Composites</i>, vol. 167, p. 106452, 2026, doi: 10.1016/j.cemconcomp.2025.106452.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ferrari, Lucia, Giacomo Rizzieri, Liberato Ferrara, and Elisa Franzoni. “Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications”. <i>Cement and Concrete Composites</i> 167 (2026): 106452. https://doi.org/10.1016/j.cemconcomp.2025.106452.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

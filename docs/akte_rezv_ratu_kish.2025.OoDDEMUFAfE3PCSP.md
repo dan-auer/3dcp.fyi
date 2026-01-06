@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Usmi Akter, Syed Rezvi, Md. Ratul, Saad Kishor
+    - footer
+title: Akter Usmi, Rezvi Syed, Ratul Md., Kishor Saad
 description:
 tags:
  - algorithm
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1109/qpain66474.2025.11171958" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/qpain66474.2025.11171958</a>
+#Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/qpain66474.2025.11171958" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/qpain66474.2025.11171958" target="_blank">10.1109/qpain66474.2025.11171958</a>
 
--------------------------
+<a href="../../../author/akter_usmi"><b>Akter</b>&nbsp;Usmi</a></span>, <a href="../../../author/rezvi_effti_syed"><b>Rezvi</b>&nbsp;Syed</a></span>, <a href="../../../author/ratul_jobayer-parvez_md"><b>Ratul</b>&nbsp;Md.</a></span>, <a href="../../../author/kishor_kaiyum_saad"><b>Kishor</b>&nbsp;Saad</a></span><br>
+Contribution - Proceedings of the 2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking, pp. 1-6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/akter_usmi"><b>Akter</b> Usmi</a>
-,     <a href="../../../author/rezvi_effti_syed"><b>Rezvi</b> Syed</a>
-,     <a href="../../../author/ratul_jobayer-parvez_md"><b>Ratul</b> Md.</a>
-,     <a href="../../../author/kishor_kaiyum_saad"><b>Kishor</b> Saad</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking, pp. 1-6
-
-:aca-blank:{ .lg .middle}
-    [`#algorithm`](keyword/algorithm)
-    [`#concrete`](keyword/concrete)
-    [`#data`](keyword/data)
-    [`#enhancement`](keyword/enhancement)
-    [`#model`](keyword/model)
-    [`#optimization`](keyword/optimization)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Data-Driven%20Ensemble%20Models%20Using%20Firefly%20Algorithm%20for%20Enhanced%203D%20Printed%20Concrete%20Strength%20Prediction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019060593&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414604956" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/qpain66474.2025.11171958" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/qpain66474.2025.11171958?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) has emerged as a transformative construction technology. However, optimizing mix design for 3D-printed fiber-reinforced concrete (3DP-FRC) remains a multifactorial challenge due to the interplay of time-dependent rheology, printability constraints, and heterogeneous material compositions. This study develops six ensemble machine learning (ML) models-Decision Tree (DT), Random Forest (RF), Extreme Gradient Boosting (XGB), and their Firefly Algorithm (FA)-optimized counterparts (FADT, FA-RF, FA-XGB)-to predict the compressive strength (CS) of 3DP-FRC. A dataset comprising 17 features of 299 experimental samples was used. Evaluation metrics including Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and Coefficient of Determination (R2) were employed. The FA-XGB model achieved the highest predictive accuracy with R2=98.87%,RMSE=4.7, and MAE =3.31 on the test set. FA optimization led to RMSE and MAE reductions of 19.44 % and 27.83 % for the XGB model, respectively. SHapley Additive explanations (SHAP) analysis identified water-to-binder ratio, OPC, superplasticizer, silica fume, and load direction as key influential features. Modified Taylor diagrams further validated the superiority of the FA-XGB model. The findings underscore the potential of integrating metaheuristic optimization with ensemble learning to produce robust, scalable models for 3DP-FRC mix design. The hybrid FA-XGB framework offers a reliable, data-driven approach for performance-oriented 3DCP applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/arif_muhammad"><b>Arif</b> Muhammad</a>, <a href="../../../author/jan_faizullah"><b>Jan</b> Faizullah</a>, <a href="../../../author/rezzoug_aissa"><b>Rezzoug</b> Aïssa</a>, <a href="../../../author/afridi_ali_muhammad"><b>Afridi</b> Muhammad</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../arif_jan_rezz_afri.2024.DDMfPCSo3PFRCUIMLA/">Data-Driven Models for Predicting Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Interpretable Machine Learning Algorithms</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -80,7 +57,36 @@ tags:
       <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{akte_rezv_ratu_kish.2025.OoDDEMUFAfE3PCSP,
+      author            = "Usmi Akter and Syed Effti Rezvi and Md. Jobayer Parvez Ratul and Saad Kaiyum Kishor",
+      title             = "Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction",
+      doi               = "10.1109/qpain66474.2025.11171958",
+      year              = "2025",
+      pages             = "1--6",
+      booktitle         = "Proceedings of the 2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Akter, S. E. Rezvi, M. J. P. Ratul and S. K. Kishor, “Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction”, in <i>Proceedings of the 2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking</i>,  2025, pp. 1–6. doi: 10.1109/qpain66474.2025.11171958.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Akter, Usmi, Syed Effti Rezvi, Md. Jobayer Parvez Ratul, and Saad Kaiyum Kishor. “Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction”. In <i>Proceedings of the 2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking</i>, 1–6, 2025. https://doi.org/10.1109/qpain66474.2025.11171958.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

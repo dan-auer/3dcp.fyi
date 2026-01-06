@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Lu, Weiping Zhu, Yiwei Weng, Zhixin Liu, En-Hua Yang, Kah Leong, Ming Tan, Teck Wong, Shunzhi Qian
+    - footer
+title: Lu Bing, Zhu Weiping, Weng Yiwei, Liu Zhixin, Yang En-Hua, Leong Kah, Tan Ming, Wong Teck, Qian Shunzhi
 description:
 tags:
  - activation
@@ -15,36 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/148288/2/Study%20of%20MgO-activated%20slag%20as%20a%20cementless%20material%20for%20sustainable%20spray-based%203D%20printing.pdf) Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1016/j.jclepro.2020.120671" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jclepro.2020.120671</a>
+#Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing ([2020-02](date/2020/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/148288/2/Study%20of%20MgO-activated%20slag%20as%20a%20cementless%20material%20for%20sustainable%20spray-based%203D%20printing.pdf) <a href="https://doi.org/10.1016/j.jclepro.2020.120671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2020.120671" target="_blank">10.1016/j.jclepro.2020.120671</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <a href="../../../author/zhu_weiping"><b>Zhu</b>&nbsp;Weiping</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhixin"><b>Liu</b>&nbsp;Zhixin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6066-8254" title="ORCID: 0000-0001-6066-8254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_en-hua"><b>Yang</b>&nbsp;En-Hua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9302-1163" title="ORCID: 0000-0002-9302-1163" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leong_fai_kah"><b>Leong</b>&nbsp;Kah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Journal of Cleaner Production, Vol. 258
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> <a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_weiping"><b>Zhu</b> Weiping</a>
-,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> <a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_en-hua"><b>Yang</b> En-Hua</a> <a href="https://orcid.org/0000-0001-6066-8254" title="ORCID: 0000-0001-6066-8254" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leong_fai_kah"><b>Leong</b> Kah</a> <a href="https://orcid.org/0000-0002-9302-1163" title="ORCID: 0000-0002-9302-1163" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Cleaner Production, Vol. 258, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#base`](keyword/base)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#slag`](keyword/slag)
-    [`#spray`](keyword/spray)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20of%20MgO-Activated-Slag%20as%20a%20Cementless%20Material%20for%20Sustainable%20Spray-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079642072&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3009036674" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jclepro.2020.120671" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jclepro.2020.120671?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing technology greatly facilitates automation in construction which enhances efficiency, productivity and sustainability. This study develops a slag-based mixture as a cementless material for sustainable spray-based 3D printing. Effects of MgO and fly ash cenosphere (FAC) addition on setting, hydration and rheological properties of fresh mixtures are investigated to obtain the optimal mixture. Results show that inclusion of MgO effectively reduces initial setting time of the fresh mixtures. With 40 wt% of GGBS replaced by MgO, initial setting time is greatly reduced from 305 min to 67 min (78% reduction). Fourier-Transformed Infrared (FTIR) spectra suggest the acceleration is plausibly due to the physical aspects. Furthermore, the FTIR spectra show that MgO can effectively activate the slag and also improve water retention. Rheological tests reveal that FAC addition generally reduces dynamic yield stress and plastic viscosity while increases static yield stress of the fresh mixtures, resulting in lower pumping pressures and higher critical ratios. The mixture with 20 wt%/40 wt% FAC addition has 29%/31% lower pumping pressure and 78%/68% higher critical ratio compared with plain MgO-activated slag material, respectively. Hence, the material with tailored rheology leads to better delivery and deposition performance of the mixture and overall spray-printing quality. An optimal mixture was finally selected based on setting, hydration, rheological properties and spray performance. The developed cementless mixture was successfully applied in the vertical spray-based 3D printing of filament and profile, which confirmed its feasibility in engineering applications
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
@@ -82,8 +56,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -120,4 +94,33 @@ tags:
       <li><a href="../../../author/ning_xin"><b>Ning</b> Xin</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/wu_chunlin"><b>Wu</b> Chunlin</a>, <a href="../../../author/wang_chao"><b>Wang</b> Chao</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ning_liu_wu_wang.2021.3PiC/">3D Printing in Construction:<br/>Current Status, Implementation Hindrances, and Development Agenda</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_zhu_weng_liu.2020.SoMASaaCMfSSB3P,
+      author            = "Bing Lu and Weiping Zhu and Yiwei Weng and Zhixin Liu and En-Hua Yang and Kah Fai Leong and Ming Jen Tan and Teck Neng Wong and Shunzhi Qian",
+      title             = "Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing",
+      doi               = "10.1016/j.jclepro.2020.120671",
+      year              = "2020",
+      journal           = "Journal of Cleaner Production",
+      volume            = "258",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Lu, “Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing”, <i>Journal of Cleaner Production</i>, vol. 258, 2020, doi: 10.1016/j.jclepro.2020.120671.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Bing, Weiping Zhu, Yiwei Weng, Zhixin Liu, En-Hua Yang, Kah Fai Leong, Ming Jen Tan, Teck Neng Wong, and Shunzhi Qian. “Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing”. <i>Journal of Cleaner Production</i> 258 (2020). https://doi.org/10.1016/j.jclepro.2020.120671.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

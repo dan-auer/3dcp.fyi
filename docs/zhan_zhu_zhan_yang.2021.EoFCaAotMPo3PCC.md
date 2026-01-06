@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Zhang, Liming Zhu, Fan Zhang, Mijia Yang
+    - footer
+title: Zhang Hao, Zhu Liming, Zhang Fan, Yang Mijia
 description:
 tags:
  - alignment
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/9/2223/pdf?version=1619661502) Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites ([2021-04](date/2021/04))
-<a href="https://doi.org/10.3390/ma14092223" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14092223</a>
+#Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites ([2021-04](date/2021/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/9/2223/pdf?version=1619661502) <a href="https://doi.org/10.3390/ma14092223" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14092223" target="_blank">10.3390/ma14092223</a>
 
--------------------------
+<a href="../../../author/zhang_hao"><b>Zhang</b>&nbsp;Hao</a></span>, <a href="../../../author/zhu_liming"><b>Zhu</b>&nbsp;Liming</a></span>, <a href="../../../author/zhang_fan"><b>Zhang</b>&nbsp;Fan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5781-8765" title="ORCID: 0000-0002-5781-8765" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_mijia"><b>Yang</b>&nbsp;Mijia</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>
-,     <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>
-,     <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>
-,     <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="https://orcid.org/0000-0002-5781-8765" title="ORCID: 0000-0002-5781-8765" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#alignment`](keyword/alignment)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#content`](keyword/content)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Fiber%20Content%20and%20Alignment%20on%20the%20Mechanical%20Properties%20of%203D%20Printing%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105626663&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3157105087" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14092223" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14092223?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper studies aligned glass fiber-reinforced composites for printing. To determine the influence of fiber content and alignment on the mechanical properties of this novel material, a large number of standard test specimens were prepared, which included samples fabricated by mold-casting, randomly dispersed fiber reinforced mixtures and aligned fiber cement composites containing 10 types of fiber volume ratios manufactured by nozzle sizes ranging of 24 and 10 mm (fiber length = 12 mm). Mechanical properties and failure modes of the specimens under compression and flexural tests were studied experimentally. The anisotropic behaviors of printed samples were analyzed by different loading directions. As a result, the compressive and flexural strength of printed samples showed obvious anisotropy. With the increase of fiber volume ratio, flexural strength of the fiber reinforced composite was elevated tremendously but its compression strength reduced slightly. Moreover, fiber alignment also had a significant influence on the mechanical properties of the fiber reinforced composite. The composite cement-based material with 1 vol.-% aligned fiber exhibited an excellent flexural strength of 9.38 MPa, which increased by 483% in comparison to that of the plain cement paste.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
@@ -81,8 +58,8 @@ tags:
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/li_fuhai"><b>Li</b> Fuhai</a>, <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/li_kepu"><b>Li</b> Kepu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xiao_yang_li.2025.MPaAo3PCMwMMBoOPPD/">Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design</a></li>
@@ -102,4 +79,34 @@ tags:
       <li><a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/lv_chun"><b>Lv</b> Chun</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lv.2022.Po3PPFRM/">Properties of 3D Printed Polymer Fiber-Reinforced Mortars:<br/>A Review</a></li>
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC,
+      author            = "Hao Zhang and Liming Zhu and Fan Zhang and Mijia Yang",
+      title             = "Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites",
+      doi               = "10.3390/ma14092223",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhang, L. Zhu, F. Zhang and M. Yang, “Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites”, <i>Materials</i>, vol. 14, no. 9, 2021, doi: 10.3390/ma14092223.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Hao, Liming Zhu, Fan Zhang, and Mijia Yang. “Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites”. <i>Materials</i> 14, no. 9 (2021). https://doi.org/10.3390/ma14092223.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

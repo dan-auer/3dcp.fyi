@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ahmed Yassin, Mohamed Hafez, Mohamed Aboelhassan
+    - footer
+title: Yassin Ahmed, Hafez Mohamed, Aboelhassan Mohamed
 description:
 tags:
  - behavior
@@ -23,38 +24,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/7/1201/pdf?version=1743940738) Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P ([2025-04](date/2025/04))
-<a href="https://doi.org/10.3390/buildings15071201" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15071201</a>
+#Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/7/1201/pdf?version=1743940738) <a href="https://doi.org/10.3390/buildings15071201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15071201" target="_blank">10.3390/buildings15071201</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7312-8134" title="ORCID: 0000-0001-7312-8134" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yassin_m_ahmed"><b>Yassin</b>&nbsp;Ahmed</a></span>, <a href="../../../author/hafez_ahmed_mohamed"><b>Hafez</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6272-3701" title="ORCID: 0000-0002-6272-3701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b>&nbsp;Mohamed</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 7, No. 1201
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yassin_m_ahmed"><b>Yassin</b> Ahmed</a> <a href="https://orcid.org/0000-0001-7312-8134" title="ORCID: 0000-0001-7312-8134" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hafez_ahmed_mohamed"><b>Hafez</b> Mohamed</a>
-,     <a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b> Mohamed</a> <a href="https://orcid.org/0000-0002-6272-3701" title="ORCID: 0000-0002-6272-3701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 7, No. 1201
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#difference`](keyword/difference)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#investigation`](keyword/investigation)
-    [`#mechanics`](keyword/mechanics)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#synthesis`](keyword/synthesis)
-    [`#type`](keyword/type)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/synthesis"><button class="btn">#synthesis</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20Numerical%20Investigation%20on%20the%20Effect%20of%20Different%20Types%20of%20Synthetic%20Fibers%20on%20the%20Flexure%20Behavior%20and%20Mechanical%20Properties%20of%203D%20Cementitious%20Composite%20Printing%20Provided%20with%20Cement%20CEM%20II/A-P" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002311553&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409211823" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15071201" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15071201?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete printing in three dimensions is believed to be an innovative construction method. Numerous researchers conducted laboratory experiments over the past decade to examine the behavior of concrete mixtures and the material properties that are pertinent to the 3D concrete printing industry. Furthermore, the global warming effect is being further exacerbated by the increased use of cement, which increases carbon dioxide (CO2) emissions and pollution. Various standards endorse the utilization of Portland-composite cement in construction to mitigate CO2 emissions, particularly cement CEM II/A-P. This research provides an experimental and numerical study to examine the evolution of cementitious composite utilizing cement CEM II/A-P for three-dimensional concrete printing, combining three different types of synthetic fiber. The thorough experimental analysis includes three combinations integrating diverse fiber types (polypropylene, high-modulus polyacrylonitrile, and alkali-resistant glass fibers) alongside a reference mixture devoid of fiber. The three distinct fiber types in the mixtures (polypropylene, high modulus polyacrylonitrile, and alkali-resistant glass fibers) were evaluated to assess their impact on (i) the flowability of the cementitious mortar and the slump flow test of fresh concrete, (ii) the concrete compressive strength, (iii) the uniaxial tensile strength, (iv) the splitting tensile strength, and (v) the flexural tensile strength. Previous researchers designed a cylinder stability test to determine the shape stability of the 3D concrete layers and their capacity to support the stresses from subsequent layers. Furthermore, the numerical analysis corroborated the experimental findings with the finite element software ANSYS 2023 R2. The flexural performance of the examined beams was validated using the Menetrey–Willam constitutive model, which has recently been incorporated into ANSYS. The experimental data indicated that the incorporation of synthetic fiber into the CEM II/A-P mixtures enhanced the concrete’s compressive strength, the splitting tensile strength, and the flexural tensile strength, particularly in combination including alkali-resistant glass fibers. The numerical results demonstrated the efficacy of the Menetrey–Willam constitutive model, featuring a linear softening yield function in accurately simulating the flexural behavior of the analyzed beams with various fiber types.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a>, <a href="../../../author/teopilus_d"><b>Teopilus</b> D.</a>, <a href="../../../author/sunaryo_h_a"><b>Sunaryo</b> A.</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../anto_agra_teop_suna.2021.IotMMaFAf3CP/">Investigation of the Material-Mixtures and Fiber-Addition for 3D Concrete Printing</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a>, <a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b> Ruben</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../aram_cald_puen_cast.2024.Eo3PotTSSoCS/">Effects of 3D Printing on the Tensile Splitting Strength of Concrete Structures</a></li>
       <li><a href="../../../author/arif_muhammad"><b>Arif</b> Muhammad</a>, <a href="../../../author/jan_faizullah"><b>Jan</b> Faizullah</a>, <a href="../../../author/rezzoug_aissa"><b>Rezzoug</b> Aïssa</a>, <a href="../../../author/afridi_ali_muhammad"><b>Afridi</b> Muhammad</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../arif_jan_rezz_afri.2024.DDMfPCSo3PFRCUIMLA/">Data-Driven Models for Predicting Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Interpretable Machine Learning Algorithms</a></li>
@@ -122,7 +94,38 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zuo_li_shi.2021.OTDPBCoOPCaCSCwR/">Optimizing Three-Dimensional Printing Binder Composed of Ordinary-Portland-Cement and Calcium-Sulfoaluminate-Cement with Retarders</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yass_hafe_aboe.2025.EaNIotEoDToSFotFBaMPo3CCPPwCCIAP,
+      author            = "Ahmed M. Yassin and Mohamed Ahmed Hafez and Mohamed Gamal Aboelhassan",
+      title             = "Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P",
+      doi               = "10.3390/buildings15071201",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "7",
+      pages             = "1201",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. M. Yassin, M. A. Hafez and M. G. Aboelhassan, “Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P”, <i>Buildings</i>, vol. 15, no. 7, p. 1201, 2025, doi: 10.3390/buildings15071201.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yassin, Ahmed M., Mohamed Ahmed Hafez, and Mohamed Gamal Aboelhassan. “Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P”. <i>Buildings</i> 15, no. 7 (2025): 1201. https://doi.org/10.3390/buildings15071201.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

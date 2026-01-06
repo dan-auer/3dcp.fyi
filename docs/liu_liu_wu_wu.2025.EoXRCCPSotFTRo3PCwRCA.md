@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Huawei Liu, Yiwen Wu, Jian Wu, Shumin Ding
+    - footer
+title: Liu Chao, Liu Huawei, Wu Yiwen, Wu Jian, Ding Shumin
 description:
 tags:
  - aggregate
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140492" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140492</a>
+#Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140492" target="_blank">10.1016/j.conbuildmat.2025.140492</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <a href="../../../author/wu_jian"><b>Wu</b>&nbsp;Jian</a></span>, <a href="../../../author/ding_shumin"><b>Ding</b>&nbsp;Shumin</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 469, No. 140492
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/wu_jian"><b>Wu</b> Jian</a>
-,     <a href="../../../author/ding_shumin"><b>Ding</b> Shumin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 469, No. 140492
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#character`](keyword/character)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#freeze`](keyword/freeze)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#ray`](keyword/ray)
-    [`#recycling`](keyword/recycling)
-    [`#resistance`](keyword/resistance)
-    [`#structure`](keyword/structure)
-    [`#thaw`](keyword/thaw)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ray"><button class="btn">#ray</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20X-Ray%20CT%20Characterized%20Pore%20Structure%20on%20the%20Freeze-Thaw%20Resistance%20of%203D%20Printed%20Concrete%20with%20Recycled%20Coarse%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218240756&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407846970" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140492" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140492?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of concrete 3D printing technology in cold regions still faces durability challenges. The incorporation of coarse aggregates can significantly enhance the durability of 3D printed concrete, making it a priority consideration for optimizing the performance of 3D printed mortar. This work focuses on pore structure characteristics and investigates the effects of varying recycled coarse aggregate (RCA) replacement ratios (0 %, 50 %, 100 %) on the apparent morphology, mass loss, and relative dynamic elastic modulus of 3D printed recycled aggregate concrete (3DPRAC) under freeze–thaw (F–T) cycling conditions. Comprehensive analyses of the internal pore structure of 3DPRAC were conducted via X-ray computed tomography and scanning electron microscopy. The results showed that the F–T resistance of 3DPRAC was inferior to that of cast concrete. Although the incorporation of RCA exacerbates F–T damage in 3D printed concrete, this damage did not necessarily worsen with increasing RCA replacement ratios. The unique ellipsoidal pores in 3DPRAC, along with the porous old mortar and its ITZ contained in the RCA, were identified as key factors in degrading the F–T resistance of 3DPRAC by promoting the development of crack networks. Finally, the degradation mechanisms of the F–T resistance of 3DPRAC based on pore structure characteristics were discussed. This research deepens the understanding of the durability performance of 3DPRAC and may facilitate the application of digital concrete manufacturing technology in cold regions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
@@ -104,8 +76,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
@@ -116,4 +88,34 @@ tags:
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
       <li><a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/xu_quanbiao"><b>Xu</b> Quanbiao</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../song_xu_wang_sun.2025.FDAMPo3PC/">Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete:<br/>Experimental and Theoretical Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_liu_wu_wu.2025.EoXRCCPSotFTRo3PCwRCA,
+      author            = "Chao Liu and Huawei Liu and Yiwen Wu and Jian Wu and Shumin Ding",
+      title             = "Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate",
+      doi               = "10.1016/j.conbuildmat.2025.140492",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "469",
+      pages             = "140492",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, H. Liu, Y. Wu, J. Wu and S. Ding, “Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate”, <i>Construction and Building Materials</i>, vol. 469, p. 140492, 2025, doi: 10.1016/j.conbuildmat.2025.140492.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Huawei Liu, Yiwen Wu, Jian Wu, and Shumin Ding. “Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate”. <i>Construction and Building Materials</i> 469 (2025): 140492. https://doi.org/10.1016/j.conbuildmat.2025.140492.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

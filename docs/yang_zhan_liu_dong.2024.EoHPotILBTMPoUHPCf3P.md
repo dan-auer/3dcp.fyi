@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yekai Yang, Chiyu Zhang, Zhongxian Liu, Liang Dong, Ting Yang, Qingxin Zhao, Chengqing Wu
+    - footer
+title: Yang Yekai, Zhang Chiyu, Liu Zhongxian, Dong Liang, Yang Ting, Zhao Qingxin, Wu Chengqing
 description:
 tags:
  - bond
@@ -21,40 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Hydration Process on the Inter-Layer Bond Tensile Mechanical Properties of Ultra-High-Performance Concrete for 3D Printing ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138902" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138902</a>
+#Effect of Hydration Process on the Inter-Layer Bond Tensile Mechanical Properties of Ultra-High-Performance Concrete for 3D Printing ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138902" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138902" target="_blank">10.1016/j.conbuildmat.2024.138902</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yekai"><b>Yang</b>&nbsp;Yekai</a></span>, <a href="../../../author/zhang_chiyu"><b>Zhang</b>&nbsp;Chiyu</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_liang"><b>Dong</b>&nbsp;Liang</a></span>, <a href="../../../author/yang_ting"><b>Yang</b>&nbsp;Ting</a></span>, <a href="../../../author/zhao_qingxin"><b>Zhao</b>&nbsp;Qingxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 451, No. 138902
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> <a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_chiyu"><b>Zhang</b> Chiyu</a>
-,     <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>
-,     <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> <a href="https://orcid.org/0009-0004-6613-1668" title="ORCID: 0009-0004-6613-1668" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_ting"><b>Yang</b> Ting</a>
-,     <a href="../../../author/zhao_qingxin"><b>Zhao</b> Qingxin</a>
-,     <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> <a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 451, No. 138902
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#height`](keyword/height)
-    [`#hydration`](keyword/hydration)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#property`](keyword/property)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Hydration%20Process%20on%20the%20Inter-Layer%20Bond%20Tensile%20Mechanical%20Properties%20of%20Ultra-High-Performance%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207295901&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403810592" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138902" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138902?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     It is crucial to reveal interlayer interface characteristics for fully analysing the mechanical properties of 3D printed ultra-high performance concrete (3DP-UHPC). Despite its significance, the interlayer bonding behaviour of 3DP-UHPC has not been fully explored. To fill this gap, this study adopted different curing times and conditions to investigate the effect of hydration process on the interlayer microstructure and mechanical properties under different interlayer interval times. As the result show that, the interlayer microstructure remained dense for interval times less than 5 minutes, but interlayer gaps became increasingly apparent as the interval time exceeded this threshold. Promoting hydration, however, helped heal interlayer defects in 3DP-UHPC. Additionally, the interlayer bond tensile strength gradually decreased with increasing interval time but remained almost unchanged when the interval time exceeded 1 day. Notably, hot water bath curing enhanced the bond tensile strength of specimens with interval times within 60 minutes, but its improvement was insignificant for interval times exceeding 1 day. Based on these experimental results, a preliminary interlayer bond tensile stress-strain equation of 3DP-UHPC was derived. The findings of this study offer promising avenues for the improvement and promotion of 3DP-UHPC technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "33 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../deng_jia_zhan_wang.2022.3PLACPwSPAM/">3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method:<br/>Printability, Mechanical Properties and Pore-Structure</a></li>
@@ -114,11 +84,41 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../dong_wu_liu_wu.2025.CTAaIDi3PUHPC/">Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>Multi-Scale Evaluation and Engineering Implications</a></li>
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_chen_lan_yang.2025.QEfFPo3PUHPCLiDD/">Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_zhan_liu_dong.2024.EoHPotILBTMPoUHPCf3P,
+      author            = "Yekai Yang and Chiyu Zhang and Zhongxian Liu and Liang Dong and Ting Yang and Qingxin Zhao and Chengqing Wu",
+      title             = "Effect of Hydration Process on the Inter-Layer Bond Tensile Mechanical Properties of Ultra-High-Performance Concrete for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2024.138902",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "451",
+      pages             = "138902",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Yang, “Effect of Hydration Process on the Inter-Layer Bond Tensile Mechanical Properties of Ultra-High-Performance Concrete for 3D Printing”, <i>Construction and Building Materials</i>, vol. 451, p. 138902, 2024, doi: 10.1016/j.conbuildmat.2024.138902.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Yekai, Chiyu Zhang, Zhongxian Liu, Liang Dong, Ting Yang, Qingxin Zhao, and Chengqing Wu. “Effect of Hydration Process on the Inter-Layer Bond Tensile Mechanical Properties of Ultra-High-Performance Concrete for 3D Printing”. <i>Construction and Building Materials</i> 451 (2024): 138902. https://doi.org/10.1016/j.conbuildmat.2024.138902.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

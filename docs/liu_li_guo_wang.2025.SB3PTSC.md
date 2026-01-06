@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Chuang Li, Pei Guo, Li Wang, Jinnan Chen, Guowei Ma, Qiao Wang
+    - footer
+title: Liu Xiongfei, Li Chuang, Guo Pei, Wang Li, Chen Jinnan, Ma Guowei, Wang Qiao
 description:
 tags:
  - base
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Spray-Based 3D Printed Tunnel Slag Concrete:<br/>:aca-blank: Evaluation for Printability and Mechanical Performance ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140392" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140392</a>
+#Spray-Based 3D Printed Tunnel Slag Concrete&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">Evaluation for Printability and Mechanical Performance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140392" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140392" target="_blank">10.1016/j.conbuildmat.2025.140392</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/li_chuang"><b>Li</b>&nbsp;Chuang</a></span>, <a href="../../../author/guo_pei"><b>Guo</b>&nbsp;Pei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8466-2890" title="ORCID: 0000-0002-8466-2890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_jinnan"><b>Chen</b>&nbsp;Jinnan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/wang_qiao"><b>Wang</b>&nbsp;Qiao</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 467, No. 140392
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>
-,     <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a> <a href="https://orcid.org/0000-0002-8466-2890" title="ORCID: 0000-0002-8466-2890" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 467, No. 140392
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#slag`](keyword/slag)
-    [`#spray`](keyword/spray)
-    [`#tunnel`](keyword/tunnel)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Spray-Based%203D%20Printed%20Tunnel%20Slag%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217972242&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407597733" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140392" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140392?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     A spray-based 3D (S-3D) printed tunnel slag concrete material is developed in this paper. The effects of tunnel slag as fine aggregate, with replacement rates of 0 %, 60 %, 80 %, 100 %, and 120 %, on the workability, printability, and mechanical properties of the S-3D printed concrete are systematically investigated. The hydration process of the printed concrete is further analyzed by SEM, XRD, and X-CT. The test results demonstrate that the fine particles and stone powder in the tunnel slag, along with its rough texture, significantly optimize the rheological property of the concrete. The concrete with 100 % tunnel slag exhibits optimal thixotropy, printing accuracy, and buildability, along with enhanced mechanical properties. The compressive, flexural, and interlayer splitting strengths of the S-3D printed concrete with 100 % tunnel slag at 28 d increased by 8.84 %, 7.69 %, and 8.72 %, respectively, compared to the printed concrete without tunnel slag, achieving maximum strengths of 77.6 MPa, 14.0 MPa, and 2.12 MPa. The rough surface of the tunnel slag also facilitates stronger interface bonding with the cementitious materials. Additionally, combined with the effect of S-3D printing process, the S-3D printed concrete with 100 % tunnel slag shows a minimum porosity, decreased by 41.30 % compared to the printed concrete without tunnel slag. A tunnel lining structure model is successfully printed using the optimal 100 % tunnel slag concrete, demonstrating a novel approach to the resource utilization of tunnel slag and its application in intelligent lining construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../freu_mai_lowk.2020.StBPoVISRitS3PP/">Studying the Bond Properties of Vertical Integrated Short Reinforcement in the Shotcrete 3D Printing Process</a></li>
@@ -103,8 +77,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
@@ -112,4 +86,34 @@ tags:
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mukh.2025.3PCF/">3D-Printed Concrete Fracture:<br/>Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_li_guo_wang.2025.SB3PTSC,
+      author            = "Xiongfei Liu and Chuang Li and Pei Guo and Li Wang and Jinnan Chen and Guowei Ma and Qiao Wang",
+      title             = "Spray-Based 3D Printed Tunnel Slag Concrete: Evaluation for Printability and Mechanical Performance",
+      doi               = "10.1016/j.conbuildmat.2025.140392",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "467",
+      pages             = "140392",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, “Spray-Based 3D Printed Tunnel Slag Concrete: Evaluation for Printability and Mechanical Performance”, <i>Construction and Building Materials</i>, vol. 467, p. 140392, 2025, doi: 10.1016/j.conbuildmat.2025.140392.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Chuang Li, Pei Guo, Li Wang, Jinnan Chen, Guowei Ma, and Qiao Wang. “Spray-Based 3D Printed Tunnel Slag Concrete: Evaluation for Printability and Mechanical Performance”. <i>Construction and Building Materials</i> 467 (2025): 140392. https://doi.org/10.1016/j.conbuildmat.2025.140392.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

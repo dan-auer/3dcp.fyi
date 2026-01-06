@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shin Bong, Behzad Nematollahi, Ali Nazari, Ming Xia, Jay Sanjayan
+    - footer
+title: Bong Shin, Nematollahi Behzad, Nazari Ali, Xia Ming, Sanjayan Jay
 description:
 tags:
  - application
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/12/6/902/pdf?version=1552903688) Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications ([2019-03](date/2019/03))
-<a href="https://doi.org/10.3390/ma12060902" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma12060902</a>
+#Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications ([2019-03](date/2019/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/6/902/pdf?version=1552903688) <a href="https://doi.org/10.3390/ma12060902" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12060902" target="_blank">10.3390/ma12060902</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bong_hau_shin"><b>Bong</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazari_ali"><b>Nazari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xia_ming"><b>Xia</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Materials, Vol. 12, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> <a href="https://orcid.org/0000-0002-9187-8155" title="ORCID: 0000-0002-9187-8155" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> <a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 12, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#construction`](keyword/construction)
-    [`#cure`](keyword/cure)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#method`](keyword/method)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Method%20of%20Optimization%20for%20Ambient%20Temperature%20Cured%20Sustainable%20Geopolymers%20for%203D%20Printing%20Construction%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85063426828&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2921330678" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma12060902" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma12060902?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Since the initial introduction of geopolymers, these materials have been characterised as environmentally-friendly sustainable substitutes for ordinary Portland cement (OPC). There is a routine increase in the application of geopolymers, especially in advanced technologies. Because of its better rheological characteristics compared to OPC, geopolymers are appropriate materials for extrusion-based 3D printing technologies. This paper focuses on the optimisation of an ambient temperature cured geopolymer for 3D printing construction applications. The effects of mixture parameters, including the type of hydroxide solution (HS), the type of silicate solution (SS) and the mass ratio of SS to HS on the workability, extrudability, shape retention ability and mechanical performance of different geopolymer mixtures were investigated. Accordingly, an optimum mixture was identified for geopolymers cured at ambient temperatures. Mechanical properties of the optimised mixture, including flexural and compressive strengths, were measured in different directions with respect to the printed layers. Further, uniaxial tension tests were also conducted on the optimised mixture to measure its interlayer bond strength. The results showed that among the activators investigated, the sodium-based activator composed of sodium hydroxide and sodium silicate solutions, with a SiO₂/Na₂O ratio of 3.22, was the most effective activator, providing appropriate workability and extrudability, along with reasonable strength and a high shape retention ability. The acquired mechanical properties exhibited anisotropic behaviour in different testing direction. The strength of the interlayer bond was found to be adequate to avoid interfacial shear failure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -92,8 +68,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "80 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../oztu_borg_ince.2026.3PitCS/">3D Printing in the Construction Sector:<br/>Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature</a></li>
@@ -175,4 +151,34 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/dakhli_zakaria"><b>Dakhli</b> Zakaria</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lafh_dakh.2019.PIoPCM/">Performance Indicators of Printed Construction Materials:<br/>A Durability-Based Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bong_nema_naza_xia.2019.MoOfATCSGf3PCA,
+      author            = "Shin Hau Bong and Behzad Nematollahi and Ali Nazari and Ming Xia and Jay Gnananandan Sanjayan",
+      title             = "Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications",
+      doi               = "10.3390/ma12060902",
+      year              = "2019",
+      journal           = "Materials",
+      volume            = "12",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. H. Bong, B. Nematollahi, A. Nazari, M. Xia and J. G. Sanjayan, “Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications”, <i>Materials</i>, vol. 12, no. 6, 2019, doi: 10.3390/ma12060902.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bong, Shin Hau, Behzad Nematollahi, Ali Nazari, Ming Xia, and Jay Gnananandan Sanjayan. “Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications”. <i>Materials</i> 12, no. 6 (2019). https://doi.org/10.3390/ma12060902.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

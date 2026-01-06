@@ -8,7 +8,7 @@ search:
 
 # #plane
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
   <li><a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a>, <a href="../../../author/seepim_sirakan"><b>Seepim</b> Sirakan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dhan_tana_tang_seep.2025.IoOoPBBo3PRaUW/">Investigation of Out-of-Plane Bending Behaviour of 3D-Printed Reinforced and Unreinforced Walls</a></li>
   <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>

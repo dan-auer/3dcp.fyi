@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhengyuan Chen, Shutong Yang, Qi Liu, Mingqi Xu, Sheng Wang, Tian Lan
+    - footer
+title: Chen Zhengyuan, Yang Shutong, Liu Qi, Xu Mingqi, Wang Sheng, Lan Tian
 description:
 tags:
  - activation
@@ -25,43 +26,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.jobe.2024.108964" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108964</a>
+#Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108964" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108964" target="_blank">10.1016/j.jobe.2024.108964</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-6537-7461" title="ORCID: 0009-0001-6537-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhengyuan"><b>Chen</b>&nbsp;Zhengyuan</a></span>, <a href="../../../author/yang_shutong"><b>Yang</b>&nbsp;Shutong</a></span>, <a href="../../../author/liu_qi"><b>Liu</b>&nbsp;Qi</a></span>, <a href="../../../author/xu_mingqi"><b>Xu</b>&nbsp;Mingqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6363-9413" title="ORCID: 0000-0002-6363-9413" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_sheng"><b>Wang</b>&nbsp;Sheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lan_tian"><b>Lan</b>&nbsp;Tian</a></span><br>
+Journal Article - Journal of Building Engineering, No. 108964
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> <a href="https://orcid.org/0009-0001-6537-7461" title="ORCID: 0009-0001-6537-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>
-,     <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>
-,     <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a>
-,     <a href="../../../author/wang_sheng"><b>Wang</b> Sheng</a> <a href="https://orcid.org/0000-0002-6363-9413" title="ORCID: 0000-0002-6363-9413" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lan_tian"><b>Lan</b> Tian</a> <a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 108964
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#ash`](keyword/ash)
-    [`#closed`](keyword/closed)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#evaluation`](keyword/evaluation)
-    [`#fiber`](keyword/fiber)
-    [`#form`](keyword/form)
-    [`#fracture`](keyword/fracture)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#resistance`](keyword/resistance)
-    [`#sand`](keyword/sand)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/closed"><button class="btn">#closed</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Closed-Form%20Fracture-Model%20for%20Evaluating%20Crack-Resistance%20of%203D%20Printed%20Fiber-Reinforced%20Alkali-Activated%20Slag/Fly-Ash%20Recycled-Sand%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186763144&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -76,17 +47,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392360503" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108964" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108964?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To reduce resource consumption and greenhouse gas emissions, 3D printed alkali-activated slag/fly ash recycled sand (RS) concrete (3DP AARSC) was developed in this paper. The reasonable evaluation of its crack resistance is crucial to structural safety and stability since steel bars are still difficult to embed in 3DP samples automatically so far. The realistic fracture parameters can be responsible for the reasonable evaluation and are extremely difficult to predict accurately based on traditional methods unless the specimen sizes are large enough. Therefore, the purpose of this study is to determine the size-independent tensile strength (ft) and fracture toughness (KIC) through a predictive fracture model incorporating the heterogeneity and discontinuity of 3DP AARSC. First, fracture tests of small-sized specimens were conducted to clarify the fracture mechanisms of 3DP AARSC in different loading directions. Subsequently, based on the boundary effect model, the size-independent ft and KIC were explicitly correlated to the maximum fracture load (Fmax) in different loading directions and directly obtained if Fmax was measured from the tests. The results displayed that the predicted ft and KIC of 3DP AARSC loaded perpendicular to the printing direction were significantly higher than the counterparts of concrete loaded parallel to the printing direction by 108.7% at most. The greatest cracking resistance was demonstrated in the specimens with the RS replacement rate of 60% for natural river sand (NS), resulting in the maximum increase of 19.9% in ft and KIC compared with the 3DP concrete with 100% NS. The fiber addition and partial RS replacement increased the difference in the crack resistance along various loading directions. Moreover, the fiber incorporation had no significant improvement in the crack resistance of 3DP AARSC loaded parallel to the printing direction and apparently increased its ft and KIC along other loading directions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bong_nema_nere_mech.2022.MoF3PSHAACfAC/">Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -118,8 +85,8 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sbardelotto_kloeckner_eduardo"><b>Sbardelotto</b> Eduardo</a>, <a href="../../../author/vieira_gomes_manuel"><b>Vieira</b> Manuel</a>, <a href="../../../author/ferreira-dos-santos_karyne"><b>Ferreira dos Santos</b> Karyne</a>, <a href="../../../author/pereira-dos-santos_samuel"><b>Pereira dos Santos</b> Samuel</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sbar_viei_ferr_pere.2025.ESotRBo3PMIFRCAF/">Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA)</a></li>
       <li><a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mukh.2025.3PCF/">3D-Printed Concrete Fracture:<br/>Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
@@ -129,4 +96,33 @@ tags:
       <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a>, <a href="../../../author/gebel_seyma"><b>Gebel</b> Şeyma</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../takv_top_gokg_gebe.2024.Ao3CPTiBCwDADDiH/">Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing</a></li>
       <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lan_yang_xu_chen.2024.QAoIFPi3PAARSCBoaCFFM/">Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_yang_liu_xu.2024.CFFMfECRo3PFRAASFARSC,
+      author            = "Zhengyuan Chen and Shutong Yang and Qi Liu and Mingqi Xu and Sheng Wang and Tian Lan",
+      title             = "Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete",
+      doi               = "10.1016/j.jobe.2024.108964",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "108964",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Chen, S. Yang, Q. Liu, M. Xu, S. Wang and T. Lan, “Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete”, <i>Journal of Building Engineering</i>, p. 108964, 2024, doi: 10.1016/j.jobe.2024.108964.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Zhengyuan, Shutong Yang, Qi Liu, Mingqi Xu, Sheng Wang, and Tian Lan. “Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete”. <i>Journal of Building Engineering</i>, 2024, 108964. https://doi.org/10.1016/j.jobe.2024.108964.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Mollah Md. 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a>, <a href="../../../author/sanchez_salgado_p"><b>Sánchez</b> P.</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/ezquerro_m_j"><b>Ezquerro</b> J.</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kach_sanc_moll_ezqu.2025.NAoC3PLH/">Numerical Analysis of Coaxially 3D Printed Lunar Habitats:<br/>Integrating Regolith and PCM for Passive Temperature Control</a></li>
   <li><a href="../../../author/haghighat_negin"><b>Haghighat</b> Negin</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/sannerud_y_stian"><b>Sannerud</b> Stian</a>, <a href="../../../author/boyer_julie"><b>Boyer</b> Julie</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hagh_moll_sann_boye.2024.RaPoCPMwFfMS/">Rheology and Printability of Cement-Paste Modified with Filler from Manufactured Sand</a></li>
   <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>

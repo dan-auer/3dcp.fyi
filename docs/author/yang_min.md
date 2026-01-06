@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Yang Min 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../nasr_duan_sing_deng.2025.FPaRBo3PCCIRPaNF/">Fresh Properties and Rheological Behavior of 3D-Printed Cementitious Composites Incorporating Recycled PVC and Nylon Fibers:<br/>An Experimental Approach</a></li>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF/">Enhancing Mechanical Properties of 3D Printed Cementitious Composites Utilizing Hybrid Recycled PP and PET-Fibers</a></li>

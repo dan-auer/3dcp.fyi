@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lukas Lachmayer, Lars Dittrich, Tobias Recker, Robin Dörrie, Harald Kloft, Annika Raatz
+    - footer
+title: Lachmayer Lukas, Dittrich Lars, Recker Tobias, Dörrie Robin, Kloft Harald, Raatz Annika
 description:
 tags:
  - additive
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Line Image-Based Reinforcement Detection for Concrete Additive Manufacturing Processes Using a Convolutional Neural Network ([2024-06](date/2024/06))
-<a href="https://doi.org/10.22260/isarc2024/0007" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2024/0007</a>
+#In-Line Image-Based Reinforcement Detection for Concrete Additive Manufacturing Processes Using a Convolutional Neural Network ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0007" target="_blank">10.22260/isarc2024/0007</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <a href="../../../author/dittrich_lars"><b>Dittrich</b>&nbsp;Lars</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1632-0538" title="ORCID: 0000-0003-1632-0538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/recker_tobias"><b>Recker</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span><br>
+Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> <a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dittrich_lars"><b>Dittrich</b> Lars</a>
-,     <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> <a href="https://orcid.org/0000-0003-1632-0538" title="ORCID: 0000-0003-1632-0538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#convolution`](keyword/convolution)
-    [`#detection`](keyword/detection)
-    [`#image`](keyword/image)
-    [`#line`](keyword/line)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#network`](keyword/network)
-    [`#neural`](keyword/neural)
-    [`#process`](keyword/process)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/convolution"><button class="btn">#convolution</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Line%20Image-Based%20Reinforcement%20Detection%20for%20Concrete%20Additive%20Manufacturing%20Processes%20Using%20a%20Convolutional%20Neural%20Network" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199609362&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399043511" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.22260/isarc2024/0007" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.22260/isarc2024/0007?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Within the scope of additive manufacturing of structural concrete components, the integration of reinforcement provides an inevitable opportunity to enhance the load bearing capacity of the components. Besides the rebar integration itself, ensuring asplanned concrete cover is key to achieve a stable and long-term legally permissible integration. The thickness of the as-built concrete cover however is unpredictably altered during printing by the varying material behaviour of the printed concrete. In addition, the lack of opportunities to anchor reinforcement elements before printing can lead to a displacement of reinforcement during printing. In this publication, we present an approach for determining the position of reinforcement elements within additively manufactured components without post-process measurement steps. During the printing process, RGB images and depth camera data are recorded by a camera mounted to the print head. Subsequently, a neural network is employed to distinguish between reinforcement structures and the deposited material within the coloured image. By overlaying the colour image data with the depth information a 3D point cloud is generated, within which the reinforcement is marked.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../dorr_freu_herr_bagh.2023.AFFORIfS3P/">Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing</a></li>
@@ -88,8 +60,37 @@ tags:
       <li><a href="../../../author/pacillo_arcangelo_gerardo"><b>Pacillo</b> Gerardo</a>, <a href="../../../author/ranocchiai_giovanna"><b>Ranocchiai</b> Giovanna</a>, <a href="../../../author/loccarini_federica"><b>Loccarini</b> Federica</a>, <a href="../../../author/fagone_mario"><b>Fagone</b> Mario</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../paci_rano_locc_fago.2021.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Technologies, Processes, Materials, and Their Applications of 3D and 4D Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{lach_ditt_reck_dorr.2024.ILIBRDfCAMPUaCNN,
+      author            = "Lukas Lachmayer and Lars Dittrich and Tobias Recker and Robin Dörrie and Harald Kloft and Annika Raatz",
+      title             = "In-Line Image-Based Reinforcement Detection for Concrete Additive Manufacturing Processes Using a Convolutional Neural Network",
+      doi               = "10.22260/isarc2024/0007",
+      year              = "2024",
+      booktitle         = "Proceedings of the 41st International Symposium on Automation and Robotics in Construction",
+      editor            = "Vincente Gonzalez-Moret and Jiansong Zhang and Borja García de Soto and Ioannis Brilakis",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Lachmayer, L. Dittrich, T. Recker, R. Dörrie, H. Kloft and A. Raatz, “In-Line Image-Based Reinforcement Detection for Concrete Additive Manufacturing Processes Using a Convolutional Neural Network”, in <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>,  2024. doi: 10.22260/isarc2024/0007.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lachmayer, Lukas, Lars Dittrich, Tobias Recker, Robin Dörrie, Harald Kloft, and Annika Raatz. “In-Line Image-Based Reinforcement Detection for Concrete Additive Manufacturing Processes Using a Convolutional Neural Network”. In <i>Proceedings of the 41st International Symposium on Automation and Robotics in Construction</i>, edited by Vincente Gonzalez-Moret, Jiansong Zhang, Borja García de Soto, and Ioannis Brilakis, 2024. https://doi.org/10.22260/isarc2024/0007.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

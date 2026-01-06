@@ -8,7 +8,8 @@ search:
 
 # #vibration
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
   <li><a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a>, <a href="../../../author/halim_alvin"><b>Halim</b> Alvin</a>, <a href="../../../author/budiman_franky"><b>Budiman</b> Franky</a>, <a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b> Pamuda</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chan_hali_budi_pudj.2024.ESoBSoESRiVB3PCM/">Experimental Study of Bond Strength of Embedded Steel Reinforcement in Vibration-Based 3D Printed Concrete Mortar</a></li>
   <li><a href="../../../author/zhao_shuai"><b>Zhao</b> Shuai</a>, <a href="../../../author/zhou_ran"><b>Zhou</b> Ran</a>, <a href="../../../author/luo_mingming"><b>Luo</b> Mingming</a>, <a href="../../../author/liu_jianfei"><b>Liu</b> Jianfei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_zhou_luo_liu.2025.DFOSSfVMo3PB/">Distributed Fiber Optic Sensing System for Vibration Monitoring of 3D Printed Bridges</a></li>
   <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../freu_davi_drod_lowk.2024.VSRI/">Vibrated Short Rebar Insertion:<br/>The Effect of Integration Time on the Resulting Bond Quality</a></li>

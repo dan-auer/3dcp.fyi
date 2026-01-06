@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sanjeet Mishra, Bikash Upadhyay, B. Das
+    - footer
+title: Mishra Sanjeet, Upadhyay Bikash, Das B.
 description:
 tags:
  - binary
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars:<br/>:aca-blank: Deep Insights into Printability ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1080/15623599.2025.2514622" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/15623599.2025.2514622</a>
+#Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Deep Insights into Printability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15623599.2025.2514622" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2025.2514622" target="_blank">10.1080/15623599.2025.2514622</a>
 
--------------------------
+<a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b>&nbsp;Sanjeet</a></span>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b>&nbsp;Bikash</a></span>, <a href="../../../author/das_b_b"><b>Das</b>&nbsp;B.</a></span><br>
+Journal Article - International Journal of Construction Management, pp. 1-19
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>
-,     <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>
-,     <a href="../../../author/das_b_b"><b>Das</b> B.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Construction Management, pp. 1-19
-
-:aca-blank:{ .lg .middle}
-    [`#binary`](keyword/binary)
-    [`#blend`](keyword/blend)
-    [`#depth`](keyword/depth)
-    [`#exploration`](keyword/exploration)
-    [`#insights`](keyword/insights)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-    [`#ternary`](keyword/ternary)
-
-
--------------------------
+<a href="../../keyword/binary"><button class="btn">#binary</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20the%20Role%20of%20Metakaolin%20in%20Binary%20and%20Ternary%20Blended%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008751391&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411209129" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/15623599.2025.2514622" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/15623599.2025.2514622?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the utilisation of metakaolin and GGBS as partial replacements for OPC, examining their impact on printability, mechanical properties, microstructure and hydration kinetics in binary and ternary mortars. The printability of the mixes was thoroughly assessed through measurements of flowability, extrudability, open time, yield stress, shape retention, and buildability. It is observed that shape retention improved by 46% in the OPC–GGBS–metakaolin mix and 56.25% in the OPC–metakaolin mix, while the OPC–GGBS mix showed minimal improvement. Mechanical properties were evaluated, including water absorption, porosity, compressive, and flexural strength. Printed specimens exhibited anisotropic strength, with the lowest on the ZX plane and highest on the YZ plane. The 70% OPC, 20% GGBS, and 10% metakaolin mix demonstrated superior printability and mechanical performance, supported by optimal particle packing via the modified Andreasen and Andersen model. Furthermore, the denser microstructure observed in SEM micrographs, the decrease in Ca/Si ratio from EDX measurements, the emergence of additional C–S–H and C–A–S–H peaks in X-ray diffraction, the pronounced Si–O–Si/Al stretching bands in FTIR and the increased WH% (with consumption of CH) in TGA collectively confirm that GGBS and metakaolin significantly contributed to the secondary hydration reactions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bodur_burak"><b>Bodur</b> Burak</a>, <a href="../../../author/mecit-isik_ahmet_muhammet"><b>Mecit Işık</b> Muhammet</a>, <a href="../../../author/benli_ahmet"><b>Benli</b> Ahmet</a>, <a href="../../../author/bayrak_baris"><b>Bayrak</b> Barış</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodu_meci_benl_bayr.2024.DoGR3PLCCRwMAaMSF/">Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers:<br/>Printability and Environmental Perspective</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -89,8 +69,37 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mish_upad_das.2025.EtRoMiBaTB3PM,
+      author            = "Sanjeet Kumar Mishra and Bikash Upadhyay and B. B. Das",
+      title             = "Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars: Deep Insights into Printability",
+      doi               = "10.1080/15623599.2025.2514622",
+      year              = "2025",
+      journal           = "International Journal of Construction Management",
+      pages             = "1--19",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. Mishra, B. Upadhyay and B. B. Das, “Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars: Deep Insights into Printability”, <i>International Journal of Construction Management</i>, pp. 1–19, 2025, doi: 10.1080/15623599.2025.2514622.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mishra, Sanjeet Kumar, Bikash Upadhyay, and B. B. Das. “Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars: Deep Insights into Printability”. <i>International Journal of Construction Management</i>, 2025, 1–19. https://doi.org/10.1080/15623599.2025.2514622.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

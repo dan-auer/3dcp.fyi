@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dong An, Yixia Zhang, Chunhui Yang
+    - footer
+title: An Dong, Zhang Yixia, Yang Chunhui
 description:
 tags:
  - boundary
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.engstruct.2023.117104) Numerical Modelling of 3D Concrete Printing:<br/>:aca-blank: Material-Models, Boundary-Conditions and Failure-Identification ([2023-11](date/2023/11))
-<a href="https://doi.org/10.1016/j.engstruct.2023.117104" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.117104</a>
+#Numerical Modelling of 3D Concrete Printing&nbsp;([2023-11](date/2023/11))
+<div class="h1-like">Material-Models, Boundary-Conditions and Failure-Identification</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2023.117104) <a href="https://doi.org/10.1016/j.engstruct.2023.117104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.117104" target="_blank">10.1016/j.engstruct.2023.117104</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_dong"><b>An</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1912-8277" title="ORCID: 0000-0003-1912-8277" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_x_yixia"><b>Zhang</b>&nbsp;Yixia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_richard_chunhui"><b>Yang</b>&nbsp;Chunhui</a></span><br>
+Journal Article - Engineering Structures, Vol. 299, No. 117104
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/an_dong"><b>An</b> Dong</a> <a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a> <a href="https://orcid.org/0000-0003-1912-8277" title="ORCID: 0000-0003-1912-8277" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 299, No. 117104
-
-:aca-blank:{ .lg .middle}
-    [`#boundary`](keyword/boundary)
-    [`#concrete`](keyword/concrete)
-    [`#condition`](keyword/condition)
-    [`#failure`](keyword/failure)
-    [`#identification`](keyword/identification)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/boundary"><button class="btn">#boundary</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/identification"><button class="btn">#identification</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Modelling%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176112363&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4388439714" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.117104" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.117104?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) attracts significant attention as an innovative manufacturing technology for the construction industry. As one of the challenges in 3DCP, failure mechanisms of 3D printed concrete structures were not well understood yet and hard to predict. The three-dimensional finite element (FE) method is an effective method to simulate such a layer-by-layer process. However, some existing technical issues in FE modelling, including additional initial deformations, failure identification, selection of material models, concrete foundation interactions and initial imperfections, need to be addressed for accurate simulation of 3DCP. In this study, FE models using a novel tracing element approach are developed to capture mechanical behaviours and failure modes of typical 3D printed concrete structures. The developed FE models was validated by comparing the obtained numerical results with those data available in literature. Furthermore, four material constitutive models are investigated analytically and numerically to compare their applicability in modelling 3D printed concrete structures. The obtained results show that the Mohr-Coulomb and Concrete Damage Plasticity (CDP) models can accurately predict failure behaviours of 3D printed concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
@@ -96,8 +75,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
       <li><a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a>, <a href="../../../author/volodymyrov_anton"><b>Volodymyrov</b> Anton</a>, <a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a>, <a href="../../../author/firsov_pavlo"><b>Firsov</b> Pavlo</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rezn_volo_tene_firs.2026.NAo3PPFiMSBC/">Numerical Analysis of 3D-Printed Permanent Formwork in Multi-Story Building Construction</a></li>
@@ -119,4 +98,34 @@ tags:
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/alzara_majed"><b>Alzara</b> Majed</a>, <a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../shah_akba_alza_yosr.2024.TDBEo3PC/">Time-Dependent Buildability Evaluation of 3D Printed Concrete:<br/>Experimental Validation and Numerical Simulation</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{an_zhan_yang.2024.NMo3CP,
+      author            = "Dong An and Yixia X. Zhang and Chunhui Richard Yang",
+      title             = "Numerical Modelling of 3D Concrete Printing: Material-Models, Boundary-Conditions and Failure-Identification",
+      doi               = "10.1016/j.engstruct.2023.117104",
+      year              = "2024",
+      journal           = "Engineering Structures",
+      volume            = "299",
+      pages             = "117104",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. An, Y. X. Zhang and C. R. Yang, “Numerical Modelling of 3D Concrete Printing: Material-Models, Boundary-Conditions and Failure-Identification”, <i>Engineering Structures</i>, vol. 299, p. 117104, 2024, doi: 10.1016/j.engstruct.2023.117104.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">An, Dong, Yixia X. Zhang, and Chunhui Richard Yang. “Numerical Modelling of 3D Concrete Printing: Material-Models, Boundary-Conditions and Failure-Identification”. <i>Engineering Structures</i> 299 (2024): 117104. https://doi.org/10.1016/j.engstruct.2023.117104.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

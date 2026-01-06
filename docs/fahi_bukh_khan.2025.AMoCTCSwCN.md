@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdullah Fahim, Syed Bukhari, Mehdi Khanzadeh Moradllo
+    - footer
+title: Fahim Abdullah, Bukhari Syed, Khanzadeh Moradllo Mehdi
 description:
 tags:
  - additive
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143753" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143753</a>
+#Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143753" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143753" target="_blank">10.1016/j.conbuildmat.2025.143753</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0005-7301-4256" title="ORCID: 0009-0005-7301-4256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fahim_abdullah"><b>al&nbsp;Fahim</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8318-8146" title="ORCID: 0000-0002-8318-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3889-4455" title="ORCID: 0000-0002-3889-4455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b>&nbsp;Mehdi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 495, No. 143753
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fahim_abdullah"><b>al Fahim</b> Abdullah</a> <a href="https://orcid.org/0009-0005-7301-4256" title="ORCID: 0009-0005-7301-4256" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a> <a href="https://orcid.org/0000-0002-8318-8146" title="ORCID: 0000-0002-8318-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> <a href="https://orcid.org/0000-0002-3889-4455" title="ORCID: 0000-0002-3889-4455" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 495, No. 143753
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#carbonation`](keyword/carbonation)
-    [`#cellulose`](keyword/cellulose)
-    [`#cement`](keyword/cement)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#system`](keyword/system)
-    [`#ternary`](keyword/ternary)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Carbonatable%20Ternary%20Cementitious%20Systems%20with%20Cellulose%20Nanocrystals" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020860402&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7083314036" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143753" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143753?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Production of carbonatable cementitious materials (CCMs) using mineral carbonation is a sustainable approach for alleviating CO2 emissions from the production of cement. With the rapid advancement of concrete 3D printing, developing 3D-printable CCMs is crucial for sustainable construction. However, previous studies on millimeter-scale single-binder 3D-printed CCMs face limitations due to size constraints, material shortages, and inconsistent performance across different geographic regions. This study addresses these challenges by developing ternary binder CCMs incorporating wollastonite, hydrated lime, ordinary portland cement, and ground granulated blast furnace slag, along with cellulose nanocrystals (CNCs) to enhance fresh and hardened properties. The obtained results demonstrate that CCMs achieve 60 %-70 % carbonation within 14 days, with flexural strength comparable to control OPC samples (≈8.5 MPa), while CNCs further improve strength by 25 %. CNCs also improve extrudability and buildability, reducing the need for chemical admixtures. The results from life cycle assessment indicate that the developed 3D printed CCM systems achieve a 30–65 % reduction in global warming potential compared to 3D printed OPC mixtures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/pape_yann"><b>Pape</b> Yann</a>, <a href="../../../author/chen_qiyi"><b>Chen</b> Qiyi</a>, <a href="../../../author/advincula_c_rigoberto"><b>Advincula</b> Rigoberto</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../anle_pape_chen_advi.2023.AICCMaIPaCMC/">An Innovative Carbonated Cementitious Material and Its Printability and Carbon Mineralization Capacity</a></li>
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
@@ -78,9 +58,39 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_shuai"><b>Huang</b> Shuai</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhon_huan_liu_wang.2024.CA3PMfMSV/">CO2-Absorbing 3D Printable Mixtures for Magnesium-Slag Valorization</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fahi_bukh_khan.2025.AMoCTCSwCN,
+      author            = "Abdullah Al Fahim and Syed Jafar Shah Bukhari and Mehdi Khanzadeh Moradllo",
+      title             = "Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals",
+      doi               = "10.1016/j.conbuildmat.2025.143753",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "495",
+      pages             = "143753",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. A. Fahim, S. J. S. Bukhari and M. K. Moradllo, “Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals”, <i>Construction and Building Materials</i>, vol. 495, p. 143753, 2025, doi: 10.1016/j.conbuildmat.2025.143753.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fahim, Abdullah Al, Syed Jafar Shah Bukhari, and Mehdi Khanzadeh Moradllo. “Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals”. <i>Construction and Building Materials</i> 495 (2025): 143753. https://doi.org/10.1016/j.conbuildmat.2025.143753.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

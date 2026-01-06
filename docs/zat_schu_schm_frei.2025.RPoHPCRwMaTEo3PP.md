@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tuani Zat, Sílvio Schuster, Ester Schmitt Duarte, Natália Freitas Daudt, Robinson Cruz, Erich Rodríguez
+    - footer
+title: Zat Tuani, Schuster Sílvio, Schmitt Duarte Ester, Freitas Daudt Natália, Cruz Robinson, Rodríguez Erich
 description:
 tags:
  - concrete
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.jobe.2025.112406" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112406</a>
+#Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112406" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112406" target="_blank">10.1016/j.jobe.2025.112406</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1178-4341" title="ORCID: 0000-0003-1178-4341" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zat_tuani"><b>Zat</b>&nbsp;Tuani</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2269-7788" title="ORCID: 0000-0003-2269-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b>&nbsp;Sílvio</a></span>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b>&nbsp;Ester</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8028-9112" title="ORCID: 0000-0001-8028-9112" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freitas-daudt_natalia"><b>de&nbsp;Freitas Daudt</b>&nbsp;Natália</a></span>, <a href="../../../author/cruz_carlos-dudley_robinson"><b>Cruz</b>&nbsp;Robinson</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1914-4541" title="ORCID: 0000-0003-1914-4541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_davi_erich"><b>Rodríguez</b>&nbsp;Erich</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112406
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a> <a href="https://orcid.org/0000-0003-1178-4341" title="ORCID: 0000-0003-1178-4341" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a> <a href="https://orcid.org/0000-0003-2269-7788" title="ORCID: 0000-0003-2269-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>
-,     <a href="../../../author/freitas-daudt_natalia"><b>de Freitas Daudt</b> Natália</a> <a href="https://orcid.org/0000-0001-8028-9112" title="ORCID: 0000-0001-8028-9112" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cruz_carlos-dudley_robinson"><b>Cruz</b> Robinson</a>
-,     <a href="../../../author/rodriguez_davi_erich"><b>Rodríguez</b> Erich</a> <a href="https://orcid.org/0000-0003-1914-4541" title="ORCID: 0000-0003-1914-4541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112406
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Properties%20of%20High-Performance%20Concrete%20Reinforced%20with%20Microfibers%20and%20Their%20Effects%20on%203D%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000752185&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408666462" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112406" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112406?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fiber-reinforced composites have been used to improve the mechanical properties and overall performance of 3D printed concretes. Short fibers improve mechanical properties as well as reduce cracking due to autogenous and drying shrinkage of printed material. Moreover, the rheological properties of micro-reinforced composite materials play an important role to improve their processability by additive manufacturing. Therefore, the present study investigates the effect of micro-fibers addition on rheological properties and 3D printing processability of concrete based composites. For that a set a concrete mixtures containing steel, rock wool, or cellulose microfiber (varying from 0.5 wt.% to 2.0 wt.%) were produced. An extensive rheological assessment of the mixtures, utilizing oscillatory tests modes, like amplitude, frequency and time sweep, was conducted. The capacity to produce a continuous filament (extrudability test) and the ability to support successive layer deposition without failure (buildability test) were evaluated. The results show that incorporating fibers on concrete allows precise control of the material’s rheological properties, leading to optimize printability. The fibers addition increases the storage G’ and loss modulus G’’ of concrete, with the cellulose reinforced concrete exhibiting the highest storage G’ and loss modulus G’’. Consequently, fiber addition affects layer support and open time during printing. Among the tested materials, cellulose fibers had the most significant impact on the concrete rheological behavior. Furthermore, extrusion nozzle size should be adjusted according to fiber length to prevent clogging during extrusion. These findings contribute to better understanding the role of rheological properties in optimizing the 3D printing process of microfiber reinforced concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "56 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -128,10 +103,40 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.PaEMPoMCM3PECCBotRSM/">Printability and Early Mechanical Properties of Material-Composition Modified 3D Printing Engineered Cementitious Composites Based on the Response-Surface-Methodology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/cuesta-astorga_eva"><b>Cuesta-Astorga</b> Eva</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../alon_blan_cues_inda.2025.SotB3PHPMUMCA/">Selection of the Best 3D Printing High-Performance Mortars Using Multi-Criteria Analysis</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
       <li><a href="../../../author/zafar_tayyab"><b>Zafar</b> Tayyab</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_zafa_hoja.2025.Et3PoECCwICfRCiAR/">Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP,
+      author            = "Tuani Zat and Sílvio Lisbôa Schuster and Ester Schmitt Duarte and Natália de Freitas Daudt and Robinson Carlos Dudley Cruz and Erich Davi Rodríguez",
+      title             = "Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process",
+      doi               = "10.1016/j.jobe.2025.112406",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112406",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Zat, S. L. Schuster, E. S. Duarte, N. de Freitas Daudt, R. C. D. Cruz and E. D. Rodríguez, “Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process”, <i>Journal of Building Engineering</i>, p. 112406, 2025, doi: 10.1016/j.jobe.2025.112406.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zat, Tuani, Sílvio Lisbôa Schuster, Ester Schmitt Duarte, Natália de Freitas Daudt, Robinson Carlos Dudley Cruz, and Erich Davi Rodríguez. “Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process”. <i>Journal of Building Engineering</i>, 2025, 112406. https://doi.org/10.1016/j.jobe.2025.112406.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

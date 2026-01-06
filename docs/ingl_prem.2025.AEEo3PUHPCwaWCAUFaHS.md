@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vaibhav Ingle, Prabhat Prem
+    - footer
+title: Ingle Vaibhav, Prem Prabhat
 description:
 tags:
  - acoustic
@@ -21,35 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.jobe.2025.113491" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113491</a>
+#Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113491" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113491" target="_blank">10.1016/j.jobe.2025.113491</a>
 
--------------------------
+<a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b>&nbsp;Vaibhav</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113491
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>
-,     <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113491
-
-:aca-blank:{ .lg .middle}
-    [`#acoustic`](keyword/acoustic)
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#emission`](keyword/emission)
-    [`#examination`](keyword/examination)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-    [`#without`](keyword/without)
-
-
--------------------------
+<a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Acoustic%20Emission%20Examination%20of%203D%20Printed%20Ultra-High%20Performance%20Concrete%20with%20and%20Without%20Coarse%20Aggregate%20Under%20Fresh%20and%20Hardened%20States" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011055335&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6884309076" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113491" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113491?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, plain and fibered 3D printable ultra-high performance concrete mixes with and without coarse aggregate are characterized in the fresh and hardened state using acoustic emission testing. In the fresh state, the flow table, slump value, and open time tests are conducted, and acoustic emission parameters are used to determine the transition of the concrete from a printable phase to a non-printable phase. In the hardened state, the influence of rise time to amplitude ratio, and average frequency in the X, Y, and Z directions is analysed to characterize AE responses in compression, split, flexure, and fracture. The fracture behavior is evaluated using specimens with notch-to-depth ratios of 0.05, 0.2, and 0.5, where fracture energy and AE energy are interlinked to understand failure mechanisms. From the test results, it was found that acoustic emission tests characterize the anisotropic behavior in 3D printed specimens and determine the printability states.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../giri_prem_kuma.2023.DoCMf3PUSTaT/">Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques</a></li>
@@ -102,8 +77,37 @@ tags:
       <li><a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b> Wojciech</a>, <a href="../../../author/pietras_daniel"><b>Pietras</b> Daniel</a>, <a href="../../../author/sadowski_tomasz"><b>Sadowski</b> Tomasz</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zbys_piet_sado.2023.DICAotDPo3PLBSttTPBP/">Data-Image-Correlation-Analysis of the Destruction-Process of 3D Printable Layered Beams Subjected to the Three-Point Bending Process</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS,
+      author            = "Vaibhav Vinod Ingle and Prabhat Ranjan Prem",
+      title             = "Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States",
+      doi               = "10.1016/j.jobe.2025.113491",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113491",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. V. Ingle  and P. R. Prem, “Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States”, <i>Journal of Building Engineering</i>, p. 113491, 2025, doi: 10.1016/j.jobe.2025.113491.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ingle, Vaibhav Vinod, and Prabhat Ranjan Prem. “Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States”. <i>Journal of Building Engineering</i>, 2025, 113491. https://doi.org/10.1016/j.jobe.2025.113491.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

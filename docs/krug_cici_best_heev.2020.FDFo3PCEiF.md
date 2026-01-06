@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jacques Kruger, Antonio Cicione, Frederick Bester, Marchant Heever, Seung Cho, Richard Walls, Gideon Zijl
+    - footer
+title: Kruger Jacques, Cicione Antonio, Bester Frederick, Heever Marchant, Cho Seung, Walls Richard, Zijl Gideon
 description:
 tags:
  - concrete
@@ -14,33 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Facilitating Ductile Failure of 3D Printed Concrete Elements in Fire ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_46" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_46</a>
+#Facilitating Ductile Failure of 3D Printed Concrete Elements in Fire ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_46" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_46" target="_blank">10.1007/978-3-030-49916-7_46</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1368-4718" title="ORCID: 0000-0002-1368-4718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cicione_antonio"><b>Cicione</b>&nbsp;Antonio</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bester_a_frederick"><b>Bester</b>&nbsp;Frederick</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heever_marchant"><b>van den&nbsp;Heever</b>&nbsp;Marchant</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0913-3200" title="ORCID: 0000-0002-0913-3200" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walls_shaun_richard"><b>Walls</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 449-458
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a> <a href="https://orcid.org/0000-0002-1368-4718" title="ORCID: 0000-0002-1368-4718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a> <a href="https://orcid.org/0000-0001-8262-5538" title="ORCID: 0000-0001-8262-5538" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/heever_marchant"><b>van den Heever</b> Marchant</a> <a href="https://orcid.org/0000-0001-5980-2719" title="ORCID: 0000-0001-5980-2719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a> <a href="https://orcid.org/0000-0002-0913-3200" title="ORCID: 0000-0002-0913-3200" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 449-458
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#ductility`](keyword/ductility)
-    [`#element`](keyword/element)
-    [`#failure`](keyword/failure)
-    [`#fire`](keyword/fire)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Facilitating%20Ductile%20Failure%20of%203D%20Printed%20Concrete%20Elements%20in%20Fire" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088242058&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3041604411" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_46" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_46?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research investigates 3D printed concrete behaviour at elevated temperatures. Preliminary studies indicate that delamination of filament layers occurs at elevated temperatures, as opposed to thermo-hygral spalling, which typically occurs in conventionally cast high-performance concrete samples. Brittle structural failure may therefore occur during a fire scenario since little to no reinforcement is currently included in the 3DCP process. This research proposes the incorporation of steel fibres into the additive manufacturing process to facilitate ductile failure and increase interlayer mechanical properties. The fibres are vertically aligned, orthogonal to the printing plane, and strategically positioned to bridge multiple filament layers. 3D printed rectangular samples are heated via radiant gas panels and thereafter tested in four-point bending once they have cooled down to ambient temperature to determine post-fire flexural capacity and ductility properties. This study shows that steel fibre inclusion improves the structural fire performance of 3D printed elements by 33% and provides post-peak mechanical ductility to yield deflection softening. More research is required to ultimately develop a standardized economical structural fire design process for 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "6 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../krug_cho_zera_vint.2020.3CPPOfHRDCAPC/">3D Concrete Printer Parameter Optimization for High-Rate Digital Construction Avoiding Plastic Collapse</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -73,8 +50,8 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "21 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
@@ -97,4 +74,35 @@ tags:
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{krug_cici_best_heev.2020.FDFo3PCEiF,
+      author            = "Jacques Pienaar Kruger and Antonio Cicione and Frederick A. Bester and Marchant van den Heever and Seung Cho and Richard Shaun Walls and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Facilitating Ductile Failure of 3D Printed Concrete Elements in Fire",
+      doi               = "10.1007/978-3-030-49916-7_46",
+      year              = "2020",
+      volume            = "28",
+      pages             = "449--458",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. P. Kruger, “Facilitating Ductile Failure of 3D Printed Concrete Elements in Fire”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 449–458. doi: 10.1007/978-3-030-49916-7_46.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kruger, Jacques Pienaar, Antonio Cicione, Frederick A. Bester, Marchant van den Heever, Seung Cho, Richard Shaun Walls, and Gideon Pieter Adriaan Greeff van Zijl. “Facilitating Ductile Failure of 3D Printed Concrete Elements in Fire”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:449–58, 2020. https://doi.org/10.1007/978-3-030-49916-7_46.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

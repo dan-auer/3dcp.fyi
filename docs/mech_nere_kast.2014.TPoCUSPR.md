@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Viktor Mechtcherine, Venkatesh Nerella, Knut Kasten
+    - footer
+title: Mechtcherine Viktor, Nerella Venkatesh, Kasten Knut
 description:
 tags:
  - concrete
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Testing Pumpability of Concrete Using Sliding-Pipe Rheometer ([2013-12](date/2013/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2013.11.037" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2013.11.037</a>
+#Testing Pumpability of Concrete Using Sliding-Pipe Rheometer ([2013-12](date/2013/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2013.11.037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2013.11.037" target="_blank">10.1016/j.conbuildmat.2013.11.037</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <a href="../../../author/kasten_knut"><b>Kasten</b>&nbsp;Knut</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 53, pp. 312-323
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 53, pp. 312-323
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#pipe`](keyword/pipe)
-    [`#pumpability`](keyword/pumpability)
-    [`#rheology`](keyword/rheology)
-    [`#sliding`](keyword/sliding)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sliding"><button class="btn">#sliding</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Testing%20Pumpability%20of%20Concrete%20Using%20Sliding-Pipe%20Rheometer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84891592094&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,20 +36,17 @@ tags:
 <a href="https://inciteful.xyz/p/W1998644955" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2013.11.037" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2013.11.037?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The pumping of concrete is an important part of modern construction processes. Irrespective of the immense practical significance of this process, pumping pressure is still being estimated using conventional methods such as the slump test, which has proved inadequate. The Sliding Pipe Rheometer (Sliper) is a new device developed to resolve this problem and provide reliable estimations of pumping pressures. Using this device, a series of laboratory tests to investigate the pumpability of concretes with various compositions was performed. The results obtained provide a solid basis to demonstrate the links between mixture parameters, e.g., water-to-binder ratio, aggregate shape, admixtures, and consistency class, and the pumpability of concrete. For the sake of comparison, all the concretes were tested using a concrete viscometer and the flow table test as well. This comparison emphasized the advantages of using Sliper to determine the rheological behavior of concrete during pumping, while a good correlation between the results obtained in the test series with Sliper and the concrete viscometer was found. Finally, the predicting capability of Sliper was validated under field conditions by measuring full-scale pumping pressure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "72 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
@@ -137,4 +119,34 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2014/11">(2014-11)</a><br><a href="../../../secr_butl_mech.2014.TPoC/">Testing Pumpability of Concrete:<br/>From Laboratory into Practice</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mech_nere_kast.2014.TPoCUSPR,
+      author            = "Viktor Mechtcherine and Venkatesh Naidu Nerella and Knut Kasten",
+      title             = "Testing Pumpability of Concrete Using Sliding-Pipe Rheometer",
+      doi               = "10.1016/j.conbuildmat.2013.11.037",
+      year              = "2014",
+      journal           = "Construction and Building Materials",
+      volume            = "53",
+      pages             = "312--323",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Mechtcherine, V. N. Nerella and K. Kasten, “Testing Pumpability of Concrete Using Sliding-Pipe Rheometer”, <i>Construction and Building Materials</i>, vol. 53, pp. 312–323, 2014, doi: 10.1016/j.conbuildmat.2013.11.037.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mechtcherine, Viktor, Venkatesh Naidu Nerella, and Knut Kasten. “Testing Pumpability of Concrete Using Sliding-Pipe Rheometer”. <i>Construction and Building Materials</i> 53 (2014): 312–23. https://doi.org/10.1016/j.conbuildmat.2013.11.037.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

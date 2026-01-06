@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Yang, Xinglong Xu, Zuxiang Lei, Junbo Sun, Yufei Wang, Gan Luo, Han Yao, Yangling Mei
+    - footer
+title: Yang Chao, Xu Xinglong, Lei Zuxiang, Sun Junbo, Wang Yufei, Luo Gan, Yao Han, Mei Yangling
 description:
 tags:
  - ceramic
@@ -20,40 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jmrt.2024.06.036) Enhancing Mechanical Properties of Three-Dimensional Concrete at Elevated Temperatures Through Recycled Ceramic-Powder Treatment Methods ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.jmrt.2024.06.036" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jmrt.2024.06.036</a>
+#Enhancing Mechanical Properties of Three-Dimensional Concrete at Elevated Temperatures Through Recycled Ceramic-Powder Treatment Methods ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2024.06.036) <a href="https://doi.org/10.1016/j.jmrt.2024.06.036" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2024.06.036" target="_blank">10.1016/j.jmrt.2024.06.036</a>
 
--------------------------
+<a href="../../../author/yang_chao"><b>Yang</b>&nbsp;Chao</a></span>, <a href="../../../author/xu_xinglong"><b>Xu</b>&nbsp;Xinglong</a></span>, <a href="../../../author/lei_zuxiang"><b>Lei</b>&nbsp;Zuxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <a href="../../../author/luo_gan"><b>Luo</b>&nbsp;Gan</a></span>, <a href="../../../author/yao_han"><b>Yao</b>&nbsp;Han</a></span>, <a href="../../../author/mei_yangling"><b>Mei</b>&nbsp;Yangling</a></span><br>
+Journal Article - Journal of Materials Research and Technology, Vol. 31, pp. 434-446
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_chao"><b>Yang</b> Chao</a>
-,     <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>
-,     <a href="../../../author/lei_zuxiang"><b>Lei</b> Zuxiang</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-,     <a href="../../../author/luo_gan"><b>Luo</b> Gan</a>
-,     <a href="../../../author/yao_han"><b>Yao</b> Han</a>
-,     <a href="../../../author/mei_yangling"><b>Mei</b> Yangling</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials Research and Technology, Vol. 31, pp. 434-446
-
-:aca-blank:{ .lg .middle}
-    [`#ceramic`](keyword/ceramic)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#elevation`](keyword/elevation)
-    [`#enhancement`](keyword/enhancement)
-    [`#mechanics`](keyword/mechanics)
-    [`#method`](keyword/method)
-    [`#powder`](keyword/powder)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#temperature`](keyword/temperature)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Mechanical%20Properties%20of%20Three-Dimensional%20Concrete%20at%20Elevated%20Temperatures%20Through%20Recycled%20Ceramic-Powder%20Treatment%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195879440&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -68,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399617127" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jmrt.2024.06.036" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jmrt.2024.06.036?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To promote the construction industry and establish a green environment, the integration of sustainable building materials is urgently required. This study presents the influences of three materials (silica fume, fly ash, and recycled ceramic powder (RCP)) and different RCP dosages (0%, 10%, 20%, and 30%) on the mechanical properties and microstructure of concrete at different temperatures. The study presents the results of comprehensive flow tests, printability assessments, mechanical evaluations under different loading directions, high-temperature analyses, digital image correlation, X-ray powder diffraction and scanning electron microscopy. The experimental findings indicate the successful printing of all samples, with wall structure failure occurring only at a height of 730 mm. Furthermore, compared to those of other materials, the RCP displays a superior heat resistance, with a significant increase in compressive strength (28.9%) to 53.9 MPa at 300 °C. Additionally, the introduction of the RCP into 3D-printed concrete results in an anisotropic behaviour, with an initial enhancement in the mechanical strength, followed by attenuation as the RCP content increases. Microstructural analysis reveals enhanced interfacial adhesion with RCP addition, albeit accompanied by the emergence of numerous pores. The optimal mixture, which is designated as RCP-2-0-1 with 20% of the cement replaced by RCP, exhibits a significant anisotropic compressive strength (55.9 MPa) and an adequate anisotropic flexural strength (12.49 MPa) and impressive heat resistance (11.7% increase in compressive strength at 300 °C). This renders it a suitable sustainable impact-resistant thermal material for use in structural applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC/">Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites</a></li>
       <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../dong_yang_liu_ren.2022.MaMBo3PUHPCaET/">Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures</a></li>
@@ -100,9 +70,39 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_sun_chen_liu.2025.3PCwRMI/">3D Printed Concrete with Red Mud Incorporation:<br/>Influence of Red Mud Manufacturing Procedures on Mechanical Properties at Elevated Temperatures</a></li>
       <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/ge_yutian"><b>Ge</b> Yutian</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../huan_ge_wang_wang.2024.RCBPUiFR3PC/">Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete:<br/>An Eco-Friendly Substitute to Conventional Fine Aggregates</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_xu_lei_sun.2024.EMPoTDCaETTRCPTM,
+      author            = "Chao Yang and Xinglong Xu and Zuxiang Lei and Junbo Sun and Yufei Wang and Gan Luo and Han Yao and Yangling Mei",
+      title             = "Enhancing Mechanical Properties of Three-Dimensional Concrete at Elevated Temperatures Through Recycled Ceramic-Powder Treatment Methods",
+      doi               = "10.1016/j.jmrt.2024.06.036",
+      year              = "2024",
+      journal           = "Journal of Materials Research and Technology",
+      volume            = "31",
+      pages             = "434--446",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Yang, “Enhancing Mechanical Properties of Three-Dimensional Concrete at Elevated Temperatures Through Recycled Ceramic-Powder Treatment Methods”, <i>Journal of Materials Research and Technology</i>, vol. 31, pp. 434–446, 2024, doi: 10.1016/j.jmrt.2024.06.036.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Chao, Xinglong Xu, Zuxiang Lei, Junbo Sun, Yufei Wang, Gan Luo, Han Yao, and Yangling Mei. “Enhancing Mechanical Properties of Three-Dimensional Concrete at Elevated Temperatures Through Recycled Ceramic-Powder Treatment Methods”. <i>Journal of Materials Research and Technology</i> 31 (2024): 434–46. https://doi.org/10.1016/j.jmrt.2024.06.036.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

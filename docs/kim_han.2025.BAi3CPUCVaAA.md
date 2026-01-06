@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yoon-Chul Kim, Tong-Seok Han
+    - footer
+title: Kim Yoon-Chul, Han Tong-Seok
 description:
 tags:
  - analysis
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114374" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114374</a>
+#Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114374" target="_blank">10.1016/j.jobe.2025.114374</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-5112-772X" title="ORCID: 0009-0004-5112-772X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_yoon-chul"><b>Kim</b>&nbsp;Yoon-Chul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-3922" title="ORCID: 0000-0002-5281-3922" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_tong-seok"><b>Han</b>&nbsp;Tong-Seok</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114374
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a> <a href="https://orcid.org/0009-0004-5112-772X" title="ORCID: 0009-0004-5112-772X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="https://orcid.org/0000-0002-5281-3922" title="ORCID: 0000-0002-5281-3922" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114374
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#annotation`](keyword/annotation)
-    [`#automation`](keyword/automation)
-    [`#buildability`](keyword/buildability)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/annotation"><button class="btn">#annotation</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability%20Analysis%20in%203D%20Concrete%20Printing%20Using%20Computer%20Vision%20and%20Automated%20Annotation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019247747&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415320512" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114374" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114374?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Advanced 3D concrete printing (3DCP) requires real-time monitoring and feedback control to ensure build quality. This study developed a vision-based deep learning workflow to delineate interlayers in 3DCP structures, enabling both layer-wise analysis and overall structural assessment. To improve reliability and efficiency, a grayscale pattern recognition technique was introduced to generate training annotations and reduce manual labeling effort. The automated annotation reduced manual labeling time from nearly an hour to under one minute per batch of images. The resulting dataset was used for transfer learning with DeepLabV3+, achieving an F1-score of 94.28% at a 2-pixel tolerance and real-time inference (98 ms per frame). Based on the segmented interlayers, layer thickness and inclination distributions were computed. By integrating the trained model with image processing techniques, a buildability analysis system was developed to detect structural deformations and visualize results. This workflow enables real-time, robust analysis of diverse 3DCP structures, thereby facilitating efficient monitoring.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_ning"><b>An</b> Ning</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/le_liu"><b>Le</b> Liu</a>, <a href="../../../author/li_shuo"><b>Li</b> Shuo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../an_wang_le_li.2024.RTMoEaBi3CPBoTDM/">Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
@@ -97,7 +77,36 @@ tags:
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zaki_magdy-ahmed_ahmed"><b>Zaki</b> Ahmed</a>, <a href="../../../author/carnevale_marco"><b>Carnevale</b> Marco</a>, <a href="../../../author/giberti_hermes"><b>Giberti</b> Hermes</a>, <a href="../../../author/schlette_christian"><b>Schlette</b> Christian</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zaki_carn_gibe_schl.2024.Mo3CPQTMVRDI/">Monitoring of 3D Concrete Printing Quality Through Multi-View RGB-D Images</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kim_han.2025.BAi3CPUCVaAA,
+      author            = "Yoon-Chul Kim and Tong-Seok Han",
+      title             = "Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation",
+      doi               = "10.1016/j.jobe.2025.114374",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114374",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y.-C. Kim  and T.-S. Han, “Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation”, <i>Journal of Building Engineering</i>, p. 114374, 2025, doi: 10.1016/j.jobe.2025.114374.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kim, Yoon-Chul, and Tong-Seok Han. “Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation”. <i>Journal of Building Engineering</i>, 2025, 114374. https://doi.org/10.1016/j.jobe.2025.114374.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

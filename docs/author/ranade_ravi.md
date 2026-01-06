@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Ranade Ravi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/singh_pranay"><b>Singh</b> Pranay</a>, <a href="../../../author/gadde_swamy_venkateswara"><b>Gadde</b> Venkateswara</a>, <a href="../../../author/zhou_chi"><b>Zhou</b> Chi</a>, <a href="../../../author/okumus_pinar"><b>Okumus</b> Pinar</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sing_gadd_zhou_okum.2024.Do3PSHCCfBRA/">Development of 3D Printable Strain-Hardening Cementitious Composites for Bridge-Related Applications</a></li>
   <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>

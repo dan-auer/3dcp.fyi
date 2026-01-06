@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wan Qian 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>
   <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../guan_wang_wan_ma.2025.MaSFPo1SRASMb3PCaPF/">Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork</a></li>
   <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_lin_wan_li.2024.MAIoCPbHASMBotTDCoCM/">Manufacturing Accuracy Improvement of Concrete Product by Hybrid Additive-Subtractive Method Based on the Time-Dependent Characteristics of Cementitious Materials</a></li>

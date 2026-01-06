@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qingwei Wang, Song Han, Junhao Yang, Ziang Li, Mingzhe An
+    - footer
+title: Wang Qingwei, Han Song, Yang Junhao, Li Ziang, An Mingzhe
 description:
 tags:
  - cement
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.autcon.2024.105881" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105881</a>
+#Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105881" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105881" target="_blank">10.1016/j.autcon.2024.105881</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-8882-2057" title="ORCID: 0009-0000-8882-2057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_qingwei"><b>Wang</b>&nbsp;Qingwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_song"><b>Han</b>&nbsp;Song</a></span>, <a href="../../../author/yang_junhao"><b>Yang</b>&nbsp;Junhao</a></span>, <a href="../../../author/li_ziang"><b>Li</b>&nbsp;Ziang</a></span>, <a href="../../../author/an_mingzhe"><b>An</b>&nbsp;Mingzhe</a></span><br>
+Journal Article - Automation in Construction, Vol. 169, No. 105881
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a> <a href="https://orcid.org/0009-0000-8882-2057" title="ORCID: 0009-0000-8882-2057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_song"><b>Han</b> Song</a> <a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a>
-,     <a href="../../../author/li_ziang"><b>Li</b> Ziang</a>
-,     <a href="../../../author/an_mingzhe"><b>An</b> Mingzhe</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 169, No. 105881
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Printing%20and%20Rheological%20Parameters%20for%203D%20Printing%20with%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209728246&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404629511" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105881" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105881?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In 3D printing, selecting appropriate printing parameters based on material rheology is critical for achieving compatible filaments with optimal performance. However, the process of aligning printing parameters with rheological properties lacks a robust theoretical foundation. This study investigates the influence of printing and rheological parameters on the relative printing length of molded filaments, categorizing them into three distinct printing conditions. Computational Fluid Dynamics (CFD) simulations model the slurry extrusion process, analyzing the cross-sectional shape, stress distributions, extruded profile changes, surface roughness, and pore structure under varying conditions. The optimal printing condition is identified based on filament characteristics, aiming to establish a theoretical basis for synchronizing rheological and printing parameters in practical applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../che_yang.2022.HPPSaCSoEB3PCPCNCC/">Hydration Products, Pore-Structure, and Compressive Strength of Extrusion-Based 3D Printed Cement-Pastes Containing Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -105,7 +84,37 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_han_yang_li.2025.OPaRPf3PwCM,
+      author            = "Qingwei Wang and Song Han and Junhao Yang and Ziang Li and Mingzhe An",
+      title             = "Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials",
+      doi               = "10.1016/j.autcon.2024.105881",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "169",
+      pages             = "105881",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Wang, S. Han, J. Yang, Z. Li and M. An, “Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials”, <i>Automation in Construction</i>, vol. 169, p. 105881, 2025, doi: 10.1016/j.autcon.2024.105881.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Qingwei, Song Han, Junhao Yang, Ziang Li, and Mingzhe An. “Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials”. <i>Automation in Construction</i> 169 (2025): 105881. https://doi.org/10.1016/j.autcon.2024.105881.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

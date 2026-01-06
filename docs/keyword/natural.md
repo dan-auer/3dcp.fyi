@@ -8,7 +8,7 @@ search:
 
 # #natural
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ribe_rang_bran_figu.2026.INVT3CP/">Improving Natural Ventilation Through 3D Concrete Printing</a></li>
   <li><a href="../../../author/knychalla_bruno"><b>Knychalla</b> Bruno</a>, <a href="../../../author/wiesner_christian"><b>Wiesner</b> Christian</a>, <a href="../../../author/sonnleitner_patrick"><b>Sonnleitner</b> Patrick</a>, <a href="../../../author/kowalczyk_magdalena"><b>Kowalczyk</b> Magdalena</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../knyc_wies_sonn_kowa.2025.IFF/">Integrated Fiber Forms:<br/>Functionally Integrated Slab Systems Through Additive Manufacturing and Natural Fiber Reinforcement</a></li>
   <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xue_wang_lee_huan.2025.DoS3PCM/">Development of Sustainable 3D Printing Concrete Materials:<br/>Impact of Natural Minerals and Wastes at High Replacement Ratios</a></li>

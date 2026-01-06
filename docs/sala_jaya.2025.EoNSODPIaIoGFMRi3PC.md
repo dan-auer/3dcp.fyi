@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: M. Salaimanimagudam, Jaganathan Jayaprakash
+    - footer
+title: Salaimanimagudam M., Jayaprakash Jaganathan
 description:
 tags:
  - concrete
@@ -19,33 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141235" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141235</a>
+#Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141235" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141235" target="_blank">10.1016/j.conbuildmat.2025.141235</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b>&nbsp;Jaganathan</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 476, No. 141235
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> <a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 476, No. 141235
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#distance`](keyword/distance)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#glass`](keyword/glass)
-    [`#inclusion`](keyword/inclusion)
-    [`#interval`](keyword/interval)
-    [`#mesh`](keyword/mesh)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distance"><button class="btn">#distance</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Nozzle%20Stand-Off%20Distance%2C%20Printing%20Interval%2C%20and%20Inclusion%20of%20Glass%20Fiber%20Mesh%20Reinforcement%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002302479&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409433124" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141235" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141235?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the effect of the nozzle stand-off distance, printing interval, and inclusion of Glass Fiber Textile (GFT) mesh reinforcement on the inter-filament bonding, flexural strength, inter-layer bonding, and geometrical deviations of the 3D printed concrete specimens are studied using Response Surface Methodology (RSM). Moreover, hierarchical clustering is employed to categorize the data and provide valuable insights into distinct printing configurations. The inter-filament bonding, inter-layer bonding, and flexural strength of printed specimens are determined using the split tensile test and three-point bending test, respectively. In addition to that, the geometrical deviation is determined using the 3D scanning method. The results reveal that the optimal stand-off distance of 14–15 mm without GFT mesh attained the highest inter-filament bonding and flexural strength. The inclusion of two layers of GFT mesh improves the flexural strength but reduces inter-layer bonding by 88.23 % compared to samples without GFT mesh. From the cluster analysis, three distinct configurations are identified with unique strengths and areas for improvement (i) Cluster One (Higher printing interval cluster) exhibits suboptimal performance, (ii) Cluster Two (GFT mesh reinforced cluster) showcases the promising with GFT mesh reinforcement, and (iii) Cluster Three (unreinforced cluster) competes well, even without GFT mesh.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../burg_llor_taha_scot.2020.DaFoaNSSCCUE/">Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell:<br/>Ultra-Thin, 3D Printed Formwork</a></li>
@@ -108,8 +85,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sala_jaya.2025.EoNSODPIaIoGFMRi3PC,
+      author            = "M. P. Salaimanimagudam and Jaganathan Jayaprakash",
+      title             = "Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.141235",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "476",
+      pages             = "141235",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Salaimanimagudam  and J. Jayaprakash, “Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 476, p. 141235, 2025, doi: 10.1016/j.conbuildmat.2025.141235.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Salaimanimagudam, M. P., and Jaganathan Jayaprakash. “Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete”. <i>Construction and Building Materials</i> 476 (2025): 141235. https://doi.org/10.1016/j.conbuildmat.2025.141235.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

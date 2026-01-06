@@ -8,7 +8,7 @@ search:
 
 # #zone
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
   <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../miri_baaj_pola.2025.EIi3PCTCZM/">Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling</a></li>
   <li><a href="../../../author/kumar_sai_s"><b>Kumar</b> S.</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kuma_muth_pand.2025.NIoSBo3PCW/">Numerical Investigation of Structural Behavior of 3D-Printed Concrete Walls:<br/>Insights from Damage Mechanics and Cohesive Zone Approaches</a></li>

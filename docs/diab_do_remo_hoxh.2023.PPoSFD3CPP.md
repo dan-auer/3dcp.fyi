@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zeinab Diab, Duc Do, Sébastien Rémond, Dashnor Hoxha
+    - footer
+title: Diab Zeinab, Do Duc, Rémond Sébastien, Hoxha Dashnor
 description:
 tags:
  - concrete
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Probabilistic Prediction of Structural Failure During 3D Concrete Printing Processes ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1617/s11527-023-02167-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-023-02167-z</a>
+#Probabilistic Prediction of Structural Failure During 3D Concrete Printing Processes ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-023-02167-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-023-02167-z" target="_blank">10.1617/s11527-023-02167-z</a>
 
--------------------------
+<a href="../../../author/diab_zeinab"><b>Diab</b>&nbsp;Zeinab</a></span>, <a href="../../../author/do_phi_duc"><b>Do</b>&nbsp;Duc</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b>&nbsp;Dashnor</a></span><br>
+Journal Article - Materials and Structures, Vol. 56, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>
-,     <a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>
-,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 56, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#failure`](keyword/failure)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#probability`](keyword/probability)
-    [`#process`](keyword/process)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/probability"><button class="btn">#probability</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Probabilistic%20Prediction%20of%20Structural%20Failure%20During%203D%20Concrete%20Printing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153288167&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4365141506" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-023-02167-z" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-023-02167-z?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Structural failure during 3D concrete printing (3DCP) process due to the competition of two mechanisms, the elastic buckling and plastic collapse, has been largely observed in the experiments. Prediction of this phenomena has become as consequence an important task of this innovative construction technique. Due to its strong dependence on various parameters such as the properties of fresh concrete, the geometry of the printed structure and the printing parameters, the accurate prediction of the structural response during 3DCP is challenging. Specifically, the significant evolution in time of mechanical properties as well as the heterogeneous characteristics in nature of concrete at early age make it difficult to be determined and result in high uncertainty. This fact may be a reason for the important gap between the predicted failure of 3DCP and real experiments as usually stated in the literature. To improve the prediction, the probabilistic analysis is conducted in this work, to account for the uncertainty effect of fresh concrete properties on the structure’s response. For this purpose, the Kriging metamodeling technique is chosen to estimate the probability of two failure modes of concrete structure during printing. The applicability and effectiveness of this probabilistic analysis for the 3DCP is demonstrated through a large numerical investigation that is conducted with different structure geometries and printing strategies. The present study elucidates the significant impact of uncertainties on the structural behavior during 3DCP, which has been ignored in the literature.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/carlo_tony"><b>Carlo</b> Tony</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/chen_yong"><b>Chen</b> Yong</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../carl_khos_chen.2013.MAwFC/">Manufacturing Additively, with Fresh Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
@@ -90,8 +69,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
@@ -99,4 +78,34 @@ tags:
       <li><a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>, <a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../do_diab_remo_hoxh.2025.NSTf3P/">Numerical Simulation-Tools for 3D Printing</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_qian.2024.DDROBAo3CPCW/">Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{diab_do_remo_hoxh.2023.PPoSFD3CPP,
+      author            = "Zeinab Diab and Duc Phi Do and Sébastien Rémond and Dashnor Hoxha",
+      title             = "Probabilistic Prediction of Structural Failure During 3D Concrete Printing Processes",
+      doi               = "10.1617/s11527-023-02167-z",
+      year              = "2023",
+      journal           = "Materials and Structures",
+      volume            = "56",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Diab, D. P. Do, S. Rémond and D. Hoxha, “Probabilistic Prediction of Structural Failure During 3D Concrete Printing Processes”, <i>Materials and Structures</i>, vol. 56, no. 4, 2023, doi: 10.1617/s11527-023-02167-z.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Diab, Zeinab, Duc Phi Do, Sébastien Rémond, and Dashnor Hoxha. “Probabilistic Prediction of Structural Failure During 3D Concrete Printing Processes”. <i>Materials and Structures</i> 56, no. 4 (2023). https://doi.org/10.1617/s11527-023-02167-z.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

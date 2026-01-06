@@ -8,7 +8,8 @@ search:
 
 # #space
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/bakr_madhat_somahi"><b>Bakr</b> Somahi</a>, <a href="../../../author/cruz_marcos"><b>Cruz</b> Marcos</a>, <a href="../../../author/mayor-luque_ricardo"><b>Mayor-Luque</b> Ricardo</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bakr_cruz_mayo.2025.CS/">Cura Salad:<br/>Robotic Heated Spatial 3D Printing of Salt-Clay Composites for Health-Oriented Vernacular Architecture</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
   <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
   <li><a href="../../../author/mansour_ali"><b>Mansour</b> Ali</a>, <a href="../../../author/abou-khalil_amine"><b>Abou Khalil</b> Amine</a>, <a href="../../../author/khoury_hiam"><b>Khoury</b> Hiam</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mans_abou_khou.2025.TSaCHRI/">Toward Spatial and Cognitive Human-Robot Interaction:<br/>A Game-Based Simulation for Concrete 3D Printing in Construction</a></li>

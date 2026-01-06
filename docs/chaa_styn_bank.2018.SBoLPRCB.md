@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ghassan Chaar, Peter Stynoski, Marion Banko
+    - footer
+title: Chaar Ghassan, Stynoski Peter, Banko Marion
 description:
 tags:
  - beam
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.2174/1874836801812010375) Structural Behavior of Layer-Printed Reinforced Concrete Beams ([2018-11](date/2018/11))
-<a href="https://doi.org/10.2174/1874836801812010375" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2174/1874836801812010375</a>
+#Structural Behavior of Layer-Printed Reinforced Concrete Beams ([2018-11](date/2018/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.2174/1874836801812010375) <a href="https://doi.org/10.2174/1874836801812010375" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2174/1874836801812010375" target="_blank">10.2174/1874836801812010375</a>
 
--------------------------
+<a href="../../../author/chaar_k_ghassan"><b>al&nbsp;Chaar</b>&nbsp;Ghassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stynoski_b_peter"><b>Stynoski</b>&nbsp;Peter</a></span>, <a href="../../../author/banko_l_marion"><b>Banko</b>&nbsp;Marion</a></span><br>
+Journal Article - The Open Construction & Building Technology Journal, Vol. 12, Iss. 1, pp. 375-388
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chaar_k_ghassan"><b>al Chaar</b> Ghassan</a>
-,     <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> <a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banko_l_marion"><b>Banko</b> Marion</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Open Construction and Building Technology Journal, Vol. 12, Iss. 1, pp. 375-388
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Behavior%20of%20Layer-Printed%20Reinforced%20Concrete%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85064770770&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,22 +37,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2901881235" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2174/1874836801812010375" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2174/1874836801812010375?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing with atypical paste and mortar mixtures has been a topic of research and demonstration within the commercial and military sectors for several years. However, to the authors’ knowledge, printing with traditional concrete (a mixture of cement, fine- and coarse aggregate, and gravel) has yet to be investigated at the scale of habitation structures. This article explores the concrete material properties, printing process, and flexural testing of three-dimensionally printed concrete beams.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../most_krug.2025.ISaFPoM3PCBTFI/">Improving Shear and Flexural Performance of Macroscale 3D Printed Concrete Beams Through Filament Interlocking</a></li>
       <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_cort_ooms_wan.2025.MPoPB3PCIP/">Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns</a></li>
@@ -79,6 +59,36 @@ tags:
       <li><a href="../../../author/budiman_franky"><b>Budiman</b> Franky</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a>, <a href="../../../author/halim_alvin"><b>Halim</b> Alvin</a>, <a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b> Pamuda</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../budi_chan_hali_pudj.2023.FaSBo3PRCB/">Flexural and Shear Behavior of 3D Printed Reinforced Concrete Beams:<br/>An Experimental Study</a></li>
       <li><a href="../../../author/helsel_a_michelle"><b>Helsel</b> Michelle</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../hels_popo_styn_krei.2021.NDTtCILBoICAMP/">Non-Destructive Testing to Characterize Inter-Layer Bonds of Idealized Concrete Additive Manufacturing Products</a></li>
       <li><a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b> Pamuda</a>, <a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../pudj_anto_chan.2020.Ro3PCaSBM/">Review on 3D Printed Concrete as Structural Beam Members</a></li>
-      <li><a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a>, <a href="../../../author/johnson_f_carol"><b>Johnson</b> Carol</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/banko_l_marion"><b>Banko</b> Marion</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../burr_john_chaa_bank.2018.ACwC/">Automated Construction with Concrete:<br/>Response of Wall- and Beam-Sections to Blast-Loads</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chaa_styn_bank.2018.SBoLPRCB,
+      author            = "Ghassan K. Al Chaar and Peter B. Stynoski and Marion L. Banko",
+      title             = "Structural Behavior of Layer-Printed Reinforced Concrete Beams",
+      doi               = "10.2174/1874836801812010375",
+      year              = "2018",
+      journal           = "The Open Construction & Building Technology Journal",
+      volume            = "12",
+      number            = "1",
+      pages             = "375--388",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. K. A. Chaar, P. B. Stynoski and M. L. Banko, “Structural Behavior of Layer-Printed Reinforced Concrete Beams”, <i>The Open Construction & Building Technology Journal</i>, vol. 12, no. 1, pp. 375–388, 2018, doi: 10.2174/1874836801812010375.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chaar, Ghassan K. Al, Peter B. Stynoski, and Marion L. Banko. “Structural Behavior of Layer-Printed Reinforced Concrete Beams”. <i>The Open Construction & Building Technology Journal</i> 12, no. 1 (2018): 375–88. https://doi.org/10.2174/1874836801812010375.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

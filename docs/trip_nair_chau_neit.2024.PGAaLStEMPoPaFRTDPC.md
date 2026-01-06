@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Avinaya Tripathi, Sooraj Nair, Harshitsinh Chauhan, Narayanan Neithalath
+    - footer
+title: Tripathi Avinaya, Nair Sooraj, Chauhan Harshitsinh, Neithalath Narayanan
 description:
 tags:
  - alteration
@@ -21,37 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Print Geometry Alterations and Layer-Staggering to Enhance Mechanical Properties of Plain and Fiber-Reinforced Three-Dimensional-Printed Concrete ([2024-04](date/2024/04))
-<a href="https://doi.org/10.14359/51740262" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51740262</a>
+#Print Geometry Alterations and Layer-Staggering to Enhance Mechanical Properties of Plain and Fiber-Reinforced Three-Dimensional-Printed Concrete ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51740262" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740262" target="_blank">10.14359/51740262</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tripathi_avinaya"><b>Tripathi</b>&nbsp;Avinaya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b>&nbsp;Sooraj</a></span>, <a href="../../../author/chauhan_harshitsinh"><b>Chauhan</b>&nbsp;Harshitsinh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 121, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> <a href="https://orcid.org/0000-0003-4535-4104" title="ORCID: 0000-0003-4535-4104" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> <a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chauhan_harshitsinh"><b>Chauhan</b> Harshitsinh</a>
-,     <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 121, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#alteration`](keyword/alteration)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#enhancement`](keyword/enhancement)
-    [`#fiber`](keyword/fiber)
-    [`#geometry`](keyword/geometry)
-    [`#layer`](keyword/layer)
-    [`#mechanics`](keyword/mechanics)
-    [`#plain`](keyword/plain)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/alteration"><button class="btn">#alteration</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/plain"><button class="btn">#plain</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Print%20Geometry%20Alterations%20and%20Layer-Staggering%20to%20Enhance%20Mechanical%20Properties%20of%20Plain%20and%20Fiber-Reinforced%20Three-Dimensional-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190895428&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394766059" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51740262" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51740262?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Conventional approaches to concrete three-dimensional (3-D) printing relies on printing concrete in a straight (linear) print path, with layers overlaid on top of each other. This results in interlayer and interfilament joints being potential weak spots that compromise the mechanical performance. This paper evaluates simple alterations to the print geometry to mitigate some of these effects. A printable mixture with 30% of limestone powder replacing cement (by mass), with a 28-day compressive strength of approximately 70 MPa in the strongest direction is used. S- and 3-shaped print paths are evaluated as alternatives to the linear print path. Staggering of the layers ensures that the interfilament joints do not lie on the same plane along the depth. Flexural strength enhancement is observed when print geometries are changed and/or layers are staggered. The study shows that print geometry modifications mitigate mechanical property reductions attributed to interfilament defects in 3-D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../arun_nema_sanj_rana.2020.QEoOoSFi3PUHPC/">Quantitative Evaluation of Orientation of Steel-Fibers in 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../best_heev_krug_cho.2020.SFLi3PC/">Steel-Fiber Links in 3D Printed Concrete</a></li>
@@ -106,9 +79,38 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a>, <a href="../../../author/thakur_singh_manideep"><b>Thakur</b> Manideep</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../subr_pari_kulk_thak.2024.Fi3PCB/">Fracture in 3D Printed Concrete Beams:<br/>Deflection and Penetration of Impinging Cracks at Layer Interfaces</a></li>
-      <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../nair_trip_neit.2024.CRaFPiDF3PCUCaTDoPLH/">Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{trip_nair_chau_neit.2024.PGAaLStEMPoPaFRTDPC,
+      author            = "Avinaya Tripathi and Sooraj Kumar A. O. Nair and Harshitsinh Chauhan and Narayanan Neithalath",
+      title             = "Print Geometry Alterations and Layer-Staggering to Enhance Mechanical Properties of Plain and Fiber-Reinforced Three-Dimensional-Printed Concrete",
+      doi               = "10.14359/51740262",
+      year              = "2024",
+      journal           = "ACI Materials Journal",
+      volume            = "121",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Tripathi, S. K. A. O. Nair, H. Chauhan and N. Neithalath, “Print Geometry Alterations and Layer-Staggering to Enhance Mechanical Properties of Plain and Fiber-Reinforced Three-Dimensional-Printed Concrete”, <i>ACI Materials Journal</i>, vol. 121, no. 2, 2024, doi: 10.14359/51740262.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tripathi, Avinaya, Sooraj Kumar A. O. Nair, Harshitsinh Chauhan, and Narayanan Neithalath. “Print Geometry Alterations and Layer-Staggering to Enhance Mechanical Properties of Plain and Fiber-Reinforced Three-Dimensional-Printed Concrete”. <i>ACI Materials Journal</i> 121, no. 2 (2024). https://doi.org/10.14359/51740262.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

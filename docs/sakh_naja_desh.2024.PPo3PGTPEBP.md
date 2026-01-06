@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vishakha Sakhare, Mohamed Najar, Sachin Deshpande
+    - footer
+title: Sakhare Vishakha, Najar Mohamed, Deshpande Sachin
 description:
 tags:
  - buildability
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties:<br/>:aca-blank: A Review ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1080/00038628.2024.2445050" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/00038628.2024.2445050</a>
+#Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2024.2445050" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2024.2445050" target="_blank">10.1080/00038628.2024.2445050</a>
 
--------------------------
+<a href="../../../author/sakhare_vishakha"><b>Sakhare</b>&nbsp;Vishakha</a></span>, <a href="../../../author/najar_mohamed"><b>Najar</b>&nbsp;Mohamed</a></span>, <a href="../../../author/deshpande_sachin"><b>Deshpande</b>&nbsp;Sachin</a></span><br>
+Journal Article - Architectural Science Review, pp. 1-25
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>
-,     <a href="../../../author/najar_mohamed"><b>Najar</b> Mohamed</a>
-,     <a href="../../../author/deshpande_sachin"><b>Deshpande</b> Sachin</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Architectural Science Review, pp. 1-25
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#extrusion`](keyword/extrusion)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#pumpability`](keyword/pumpability)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printing%20Performance%20of%203D%20Printed%20Geopolymer%20Through%20Pumpability%2C%20Extrudability%2C%20Buildability%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213537910&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405885820" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/00038628.2024.2445050" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/00038628.2024.2445050?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the world of automation, additive manufacturing, or three-dimensional printing (3D), is becoming increasingly important. Over the years, geopolymer is established as one of the promising materials offering techno-environmental benefits. This study explores the special printing requirements, performance characteristics of geopolymers, with an emphasis on the optimization of printing performance and the impact of additives. The paper provided insights into the achieving more reliable geopolymer by the optimum choice of raw precursor and additives for improved printing performance. The interaction of printing parameters, printing speed, open time and buildability on the hardened properties of 3D-printed geopolymer is investigated. The dualities to be considered in developing a clean 3D-printed geopolymer blend, are examined. This knowledge can lead to a better choice of low-carbon raw precursors and optimized geopolymeric formulations, ultimately expanding the possibilities and applications of 3D-printed structures in various industries.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "92 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bong_nema_nere_mech.2022.MoF3PSHAACfAC/">Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction</a></li>
@@ -159,11 +139,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sakhare_vishakha"><b>Sakhare</b> Vishakha</a>, <a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b> Shilpa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_khai_daha_mash.2025.RoSi3CP/">Review on Sustainability in 3D Concrete Printing:<br/>Focus on Waste Utilization and Life Cycle Assessment</a></li>
       <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>
-      <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
-      <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sakh_naja_desh.2024.PPo3PGTPEBP,
+      author            = "Vishakha Sakhare and Mohamed Najar and Sachin Deshpande",
+      title             = "Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties: A Review",
+      doi               = "10.1080/00038628.2024.2445050",
+      year              = "2024",
+      journal           = "Architectural Science Review",
+      pages             = "1--25",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Sakhare, M. Najar and S. Deshpande, “Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties: A Review”, <i>Architectural Science Review</i>, pp. 1–25, 2024, doi: 10.1080/00038628.2024.2445050.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sakhare, Vishakha, Mohamed Najar, and Sachin Deshpande. “Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties: A Review”. <i>Architectural Science Review</i>, 2024, 1–25. https://doi.org/10.1080/00038628.2024.2445050.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

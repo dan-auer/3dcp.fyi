@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 #  García-Alvarado Rodrigo 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/vega-coloma_mabel"><b>Vega-Coloma</b> Mabel</a>, <a href="../../../author/letelier_viviana"><b>Letelier</b> Viviana</a>, <a href="../../../author/marrero_madelyn"><b>Marrero</b> Madelyn</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../muno_vega_lete_marr.2026.EFo3PCURM/">Environmental Footprint of 3D-Printed Concrete Using Recycled Materials</a></li>
   <li><a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
   <li><a href="../../../author/casanova_euro"><b>Casanova</b> Euro</a>, <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b> Nelson</a>, <a href="../../../author/valdebenito_michael"><b>Valdebenito</b> Michael</a>, <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../casa_hida_vald_forc.2025.ORoCCWMwAC/">Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction</a></li>
   <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/alucema-contreras_alejandra_elena"><b>Alucema Contreras</b> Elena</a>, <a href="../../../author/burkart-medina_andres_adolfo"><b>Burkart Medina</b> Adolfo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../forc_aluc_burk_garc.2024.CSoVPPf3CPoDGS/">Comparative Study of Visual Programming Procedures for 3D Concrete Printing of Different Geometric Shapes</a></li>

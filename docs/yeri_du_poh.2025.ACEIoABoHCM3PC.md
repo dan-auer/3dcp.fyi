@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Utami Yerikania, Hongjian Du, Leong Poh
+    - footer
+title: Yerikania Utami, Du Hongjian, Poh Leong
 description:
 tags:
  - anisotropy
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142766" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142766</a>
+#A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142766" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142766" target="_blank">10.1016/j.conbuildmat.2025.142766</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-4589-0341" title="ORCID: 0009-0007-4589-0341" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yerikania_utami"><b>Yerikania</b>&nbsp;Utami</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7670-937X" title="ORCID: 0000-0002-7670-937X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poh_hien_leong"><b>Poh</b>&nbsp;Leong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 491, No. 142766
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yerikania_utami"><b>Yerikania</b> Utami</a> <a href="https://orcid.org/0009-0007-4589-0341" title="ORCID: 0009-0007-4589-0341" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poh_hien_leong"><b>Poh</b> Leong</a> <a href="https://orcid.org/0000-0002-7670-937X" title="ORCID: 0000-0002-7670-937X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 491, No. 142766
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#carbon`](keyword/carbon)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#investigation`](keyword/investigation)
-    [`#minimum`](keyword/minimum)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/minimum"><button class="btn">#minimum</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Experimental%20Investigation%20of%20Anisotropy%20Behavior%20on%20Highly%20Carbon-Minimized%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011163035&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412608350" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142766" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142766?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Free-form or layer-by-layer 3D printed concrete (3DPC) exhibits an anisotropy effect, in which the material behaves differently in different loading directions. This study explores the anisotropy in highly carbon-minimized 3DPC, incorporating large volumes of ground granulated blast furnace slag (GGBS) to enhance sustainability. Mechanical tests were performed on 3DPC specimens in three different loading directions (X, Y, Z), and compressive strength was evaluated based on various cube extraction locations within the printed structure, considering the potential impact of overburden stress and confinement. Statistical analysis was performed to identify variations in compressive strength based on specimen location and loading direction in both printed and cast specimens. The findings show that anisotropy was more prominent in mixtures with 100 % ordinary Portland cement (OPC) compared to those with high volumes of GGBS, suggesting that GGBS enhances material uniformity and reduces strength variability. Statistical analysis reveals that the middle sections of the printed specimens demonstrated more consistent strength, while the outer edges exhibited higher variability and more outliers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
@@ -108,7 +86,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yeri_du_poh.2025.ACEIoABoHCM3PC,
+      author            = "Utami Yerikania and Hongjian Du and Leong Hien Poh",
+      title             = "A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2025.142766",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "491",
+      pages             = "142766",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">U. Yerikania, H. Du and L. H. Poh, “A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 491, p. 142766, 2025, doi: 10.1016/j.conbuildmat.2025.142766.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yerikania, Utami, Hongjian Du, and Leong Hien Poh. “A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete”. <i>Construction and Building Materials</i> 491 (2025): 142766. https://doi.org/10.1016/j.conbuildmat.2025.142766.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arun Arunothayan, Jay Sanjayan
+    - footer
+title: Arunothayan Arun, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete ([2023-01](date/2023/01))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.130241" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.130241</a>
+#Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete ([2023-01](date/2023/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.130241" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.130241" target="_blank">10.1016/j.conbuildmat.2022.130241</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b>&nbsp;Arun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 367
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> <a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 367, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#elevation`](keyword/elevation)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Elevated%20Temperature%20Effects%20on%203D%20Printed%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146053792&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319212947" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.130241" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.130241?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of ultra-high performance fiber reinforced concrete (3DP-UHPFRC) enables the construction of thin and lightweight concrete members with complex geometries. However, due to their low permeability, UHPFRCs are vulnerable to explosive spalling when exposed to fire. This study investigated the response of 3DP-UHPFRC to high-temperature exposure conditions ranging from 200 ◦C to 1000 ◦C. Several mixtures were developed with various combinations of hybrid fibers (steel and polymer fibers). Results showed that the interlayer delamination failure was more predominant than spalling in 3DP-UHPFRC specimens. The low incidences of explosive spalling were attributed to the porous interlayers. The residual compressive strength of 3DP-UHPFRC specimens increased after exposure to 400 ◦C temperature, then rapidly decreased after exposures up to 800 ◦C, and plateaued beyond 800 ◦C until 1000 ◦C at 25–30 % of the control strength. The anisotropy of strengths observed in the specimens became insignificant following exposures to 800 ◦C and above. The outcomes were further validated using thermal analysis and microscopic investigations of the test specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../arun_nema_bong_rana.2019.HPo3PUHPFRCfDCA/">Hardened Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction Applications</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -84,8 +65,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_zhan_qian_liu.2023.IoSFotWAo3PC/">Influence of Steel-Fiber on the Water-Absorption of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
@@ -110,4 +91,33 @@ tags:
       <li><a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mune_krug_zijl.2023.IILBi3PCTITH/">Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics</a></li>
       <li><a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a>, <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>, <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fan_zhu_fan_lu.2023.IDaMoUHPC/">Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{arun_sanj.2023.ETEo3PUHPC,
+      author            = "Arun Ravendran Arunothayan and Jay Gnananandan Sanjayan",
+      title             = "Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete",
+      doi               = "10.1016/j.conbuildmat.2022.130241",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "367",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. R. Arunothayan  and J. G. Sanjayan, “Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete”, <i>Construction and Building Materials</i>, vol. 367, 2023, doi: 10.1016/j.conbuildmat.2022.130241.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Arunothayan, Arun Ravendran, and Jay Gnananandan Sanjayan. “Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete”. <i>Construction and Building Materials</i> 367 (2023). https://doi.org/10.1016/j.conbuildmat.2022.130241.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

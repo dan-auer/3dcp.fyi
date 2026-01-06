@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Benoît Furet, Philippe Poullain, Sébastien Garnier
+    - footer
+title: Furet Benoît, Poullain Philippe, Garnier Sébastien
 description:
 tags:
  - base
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal.archives-ouvertes.fr/hal-03484504/file/S2214860418307103.pdf) 3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1016/j.addma.2019.04.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2019.04.002</a>
+#3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete ([2019-04](date/2019/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-03484504/file/S2214860418307103.pdf) <a href="https://doi.org/10.1016/j.addma.2019.04.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.04.002" target="_blank">10.1016/j.addma.2019.04.002</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0505-4545" title="ORCID: 0000-0003-0505-4545" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/furet_benoit"><b>Furet</b>&nbsp;Benoît</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2333-1203" title="ORCID: 0000-0002-2333-1203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poullain_philippe"><b>Poullain</b>&nbsp;Philippe</a></span>, <a href="../../../author/garnier_sebastien"><b>Garnier</b>&nbsp;Sébastien</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 28, pp. 58-64
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a> <a href="https://orcid.org/0000-0003-0505-4545" title="ORCID: 0000-0003-0505-4545" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a> <a href="https://orcid.org/0000-0002-2333-1203" title="ORCID: 0000-0002-2333-1203" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 28, pp. 58-64
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#complexity`](keyword/complexity)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#foam`](keyword/foam)
-    [`#polymer`](keyword/polymer)
-    [`#print`](keyword/print)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20for%20Construction%20Based%20on%20a%20Complex%20Wall%20of%20Polymer-Foam%20and%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85064655007&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2928876706" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2019.04.002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2019.04.002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The objective of this paper is to present a new advanced Additive Manufacturing (AM) process for the construction of concrete structures: Batiprint3dTM. The proposed advanced technology consists of creating a complex wall of 3D-printed materials using a mobile and polyarticulated robot: two polymer-foam printed walls are used to encase a subsequent third wall made of concrete. Once the walls were in place, the foam is maintained to provide both an internal and external insulation to the house without requiring thermal bridges. This technique of the complex wall with 3D-printed composite foam/concrete material is similar to the use of expansive-foam formwork (FW) filled by concrete or Insulated Concrete Forms (ICF) but in that case printed directly on site. By using 3D printing for the foam and extrusion of the concrete with the same robotic system, the technique creates jointly both the structure and thermal elements of the building. In the first part of this paper the composite foam/ concrete 3D printing method and optimized process parameters are présented. Polyurethane (PU) foam has weak mechanical properties and the filling of the internal void with concrete can yield in high deformations and even failure of the FW, it is therefore necessary to control this phenomenon. For that, an experimental study has been conducted to determine a filling procedure capable of minimizing the deformations. The results show that spacers between the two foam walls can allow for wall heights of poured concrete up to 50 cm. The problems solved, it was decided to experiment in full scale this new walls 3D printing method with the construction of YhnovaTM, a real 95m² social housing. This technology Batiprint3dTM have been used, it is possible now to propose a synthesis of the impacts of this new advanced technology for construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -75,8 +54,8 @@ tags:
       <li><a href="../../../author/subrin_kevin"><b>Subrin</b> Kévin</a>, <a href="../../../author/bressac_thomas"><b>Bressac</b> Thomas</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a>, <a href="../../../author/ambiehl_alexandre"><b>Ambiehl</b> Alexandre</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../subr_bres_garn_ambi.2018.IotMRLDfHHCb3P/">Improvement of the Mobile Robot Location Dedicated for Habitable House Construction by 3D Printing</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "101 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
@@ -179,4 +158,34 @@ tags:
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../guam_garc_mart_chee.2020.ACPEoDMMUaD3PoBEftCI/">A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fure_poul_garn.2019.3PfCBoaCWoPFaC,
+      author            = "Benoît Furet and Philippe Poullain and Sébastien Garnier",
+      title             = "3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete",
+      doi               = "10.1016/j.addma.2019.04.002",
+      year              = "2019",
+      journal           = "Additive Manufacturing",
+      volume            = "28",
+      pages             = "58--64",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Furet, P. Poullain and S. Garnier, “3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete”, <i>Additive Manufacturing</i>, vol. 28, pp. 58–64, 2019, doi: 10.1016/j.addma.2019.04.002.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Furet, Benoît, Philippe Poullain, and Sébastien Garnier. “3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete”. <i>Additive Manufacturing</i> 28 (2019): 58–64. https://doi.org/10.1016/j.addma.2019.04.002.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

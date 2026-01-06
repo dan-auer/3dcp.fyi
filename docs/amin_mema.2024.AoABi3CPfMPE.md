@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nima Aminpour, Ali Memari
+    - footer
+title: Aminpour Nima, Memari Ali
 description:
 tags:
  - analysis
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.jobe.2024.111652" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111652</a>
+#Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111652" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111652" target="_blank">10.1016/j.jobe.2024.111652</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6717-3510" title="ORCID: 0000-0001-6717-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aminpour_nima"><b>Aminpour</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span><br>
+Journal Article - Journal of Building Engineering, No. 111652
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a> <a href="https://orcid.org/0000-0001-6717-3510" title="ORCID: 0000-0001-6717-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 111652
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20Anisotropic%20Behavior%20in%203D%20Concrete%20Printing%20for%20Mechanical%20Property%20Evaluation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213029823&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405760720" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111652" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111652?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid expansion of automated construction methods is pivotal in meeting the burgeoning demand for housing. However, ensuring these methods comply with design codes and regulatory standards requires a deep understanding of the material design process. In addition, the use of lightweight concrete is essential in 3D Concrete Printing (3DCP) to reduce the significant weight of printed structures while understanding the strength and behavior of these materials. There are concerns about the layer-by-layer deposition of concrete during printing, as weaker bonding between layers may undermine structural integrity. This study explores the anisotropic behavior of concrete and its impact on mechanical properties. Samples extracted from printed blocks were tested in various orientations, including comparisons with LWC containing Expanded Polystyrene (EPS). The mixtures were selected to evaluate the impact of lightweight aggregates on anisotropic behavior and compare them to normal-weight concrete. The results demonstrate that the timing between layer depositions significantly influences strength. Notably, cracks observed between filaments indicate weaker interlayer bonding, a condition exacerbated by delays between printing each layer, which notably affects flexural and shear strengths. These findings highlight that such delays increase the anisotropic coefficient, underscoring the importance of meticulous attention during the design process. A micro-model was utilized to analyze the 3DCP in detail, employing the Concrete Damage Plasticity (CDP) and interaction-separation law in Abaqus. The numerical analysis exhibited a strong correlation with experimental tests.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
@@ -98,8 +78,8 @@ tags:
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shao_jianwen"><b>Shao</b> Jianwen</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/zou_daoqin"><b>Zou</b> Daoqin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../wang_shao_zhan_zou.2022.BSPaCMoIBVaHFo3PC/">Bond Shear Performances and Constitutive Model of Interfaces Between Vertical and Horizontal Filaments of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -107,4 +87,33 @@ tags:
       <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../most_krug.2025.RABo3PCTIF/">Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{amin_mema.2024.AoABi3CPfMPE,
+      author            = "Nima Aminpour and Ali M. Memari",
+      title             = "Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation",
+      doi               = "10.1016/j.jobe.2024.111652",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "111652",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Aminpour  and A. M. Memari, “Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation”, <i>Journal of Building Engineering</i>, p. 111652, 2024, doi: 10.1016/j.jobe.2024.111652.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aminpour, Nima, and Ali M. Memari. “Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation”. <i>Journal of Building Engineering</i>, 2024, 111652. https://doi.org/10.1016/j.jobe.2024.111652.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

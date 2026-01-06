@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,8 @@ search:
 
 #  Rodriguez Fabian 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
+  <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/agrawal_shubham"><b>Agrawal</b> Shubham</a>, <a href="../../../author/williams_s_christopher"><b>Williams</b> Christopher</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rodr_moin_agra_will.2024.MRoSS3PSMCB/">Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/foster_e-o_kyle"><b>Foster</b> Kyle</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/schmidt_roty"><b>Schmidt</b> Roty</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rodr_fost_fros_schm.2024.UoaLBAfTtRPoMf3P/">Use of a Lignin-Based Admixture for Tailoring the Rheological Properties of Mortars for 3D Printing</a></li>
   <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC/">Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression</a></li>

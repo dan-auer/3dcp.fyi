@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Quoc To, Koa Pham, Gayoon Lee, Myoungsu Shin, Dong Shin, Kihak Lee
+    - footer
+title: To Quoc, Pham Koa, Lee Gayoon, Shin Myoungsu, Shin Dong, Lee Kihak
 description:
 tags:
  - bond
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.jobe.2024.109979" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109979</a>
+#Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109979" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109979" target="_blank">10.1016/j.jobe.2024.109979</a>
 
--------------------------
+<a href="../../../author/to_bao_quoc"><b>To</b>&nbsp;Quoc</a></span>, <a href="../../../author/pham_vo-anh_koa"><b>Pham</b>&nbsp;Koa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6824-8019" title="ORCID: 0000-0001-6824-8019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_gayoon"><b>Lee</b>&nbsp;Gayoon</a></span>, <a href="../../../author/shin_myoungsu"><b>Shin</b>&nbsp;Myoungsu</a></span>, <a href="../../../author/shin_won_dong"><b>Shin</b>&nbsp;Dong</a></span>, <a href="../../../author/lee_kihak"><b>Lee</b>&nbsp;Kihak</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109979
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/to_bao_quoc"><b>To</b> Quoc</a>
-,     <a href="../../../author/pham_vo-anh_koa"><b>Pham</b> Koa</a>
-,     <a href="../../../author/lee_gayoon"><b>Lee</b> Gayoon</a> <a href="https://orcid.org/0000-0001-6824-8019" title="ORCID: 0000-0001-6824-8019" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>
-,     <a href="../../../author/shin_won_dong"><b>Shin</b> Dong</a>
-,     <a href="../../../author/lee_kihak"><b>Lee</b> Kihak</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109979
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#experiment`](keyword/experiment)
-    [`#fem`](keyword/fem)
-    [`#flexural`](keyword/flexural)
-    [`#influence`](keyword/influence)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20FEM%20Evaluation%20of%20the%20Influence%20of%20Inter-Layer%20Bonding%20Strength%20in%203D%20Printed%20Concrete%20Members%20Under%20Compressive%20and%20Flexural%20Loadings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196642319&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399761145" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109979" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109979?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of 3D concrete printing has remarkably increased in the building industry recently. However, the buildability and mechanical qualities of the printed concrete still depends on various influential elements. The purpose of this research was to investigate the impact of the interlayer bond on the anisotropic mechanical behavior of 3D printed concrete after 7 and 28 days of curing, under compressive and flexural loading of in and out of plane laminated surfaces while varying the concrete materials. The mechanical properties of the 3D printed concrete specimens were tested, and the results revealed that the compressive and flexural strengths were strongly dependent on the loading direction of the laminated surface. Analytical modelling of the specimens was performed using the LS-DYNA tool to further validate the experimental results. The effects of the interfacial friction bond and nozzle diameters on compressive and flexural strengths were investigated. Four alternative interlocking configurations, such as “I,” “T,” “S,” and “V”-shaped forms, were examined to increase strength by improving mechanical interlocking in the layers and the laminated surface, as well as interface responses.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -106,8 +78,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
@@ -120,4 +92,33 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhu_cerv_ren.2025.PABAo3PCS/">Peridynamic Anisotropic Behavior Analysis of 3D-Printed Concrete Structures</a></li>
       <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_sing_zhao_sun.2024.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D Printed Concrete Through Recycled Ultra-Fine Waste-Glass-Powder</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{to_pham_lee_shin.2024.EaFEotIoILBSi3PCMUCaFL,
+      author            = "Quoc Bao To and Koa Vo Anh Pham and Gayoon Lee and Myoungsu Shin and Dong Won Shin and Kihak Lee",
+      title             = "Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings",
+      doi               = "10.1016/j.jobe.2024.109979",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109979",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. B. To, K. V. A. Pham, G. Lee, M. Shin, D. W. Shin and K. Lee, “Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings”, <i>Journal of Building Engineering</i>, p. 109979, 2024, doi: 10.1016/j.jobe.2024.109979.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">To, Quoc Bao, Koa Vo Anh Pham, Gayoon Lee, Myoungsu Shin, Dong Won Shin, and Kihak Lee. “Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings”. <i>Journal of Building Engineering</i>, 2024, 109979. https://doi.org/10.1016/j.jobe.2024.109979.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

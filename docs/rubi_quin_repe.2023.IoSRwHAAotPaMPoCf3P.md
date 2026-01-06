@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ariane Rubin, Lucas Quintanilha, Wellington Repette
+    - footer
+title: Rubin Ariane, Quintanilha Lucas, Repette Wellington
 description:
 tags:
  - accelerator
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Structuration-Rate, with Hydration-Accelerating Admixture, on the Physical and Mechanical Properties of Concrete for 3D Printing ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.129826" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129826</a>
+#Influence of Structuration-Rate, with Hydration-Accelerating Admixture, on the Physical and Mechanical Properties of Concrete for 3D Printing ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129826" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129826" target="_blank">10.1016/j.conbuildmat.2022.129826</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5636-5023" title="ORCID: 0000-0001-5636-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b>&nbsp;Ariane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1692-3710" title="ORCID: 0000-0002-1692-3710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quintanilha_carvalho_lucas"><b>Quintanilha</b>&nbsp;Lucas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0697-2794" title="ORCID: 0000-0003-0697-2794" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/repette_longuini_wellington"><b>Repette</b>&nbsp;Wellington</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 363
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b> Ariane</a> <a href="https://orcid.org/0000-0001-5636-5023" title="ORCID: 0000-0001-5636-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quintanilha_carvalho_lucas"><b>Quintanilha</b> Lucas</a> <a href="https://orcid.org/0000-0002-1692-3710" title="ORCID: 0000-0002-1692-3710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/repette_longuini_wellington"><b>Repette</b> Wellington</a> <a href="https://orcid.org/0000-0003-0697-2794" title="ORCID: 0000-0003-0697-2794" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 363, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#accelerator`](keyword/accelerator)
-    [`#admixture`](keyword/admixture)
-    [`#concrete`](keyword/concrete)
-    [`#hydration`](keyword/hydration)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#physics`](keyword/physics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rate`](keyword/rate)
-    [`#structuration`](keyword/structuration)
-
-
--------------------------
+<a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Structuration-Rate%2C%20with%20Hydration-Accelerating%20Admixture%2C%20on%20the%20Physical%20and%20Mechanical%20Properties%20of%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145769936&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4310425675" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129826" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129826?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The effects of the concave exponential evolution of structuration rate (Athix) with aluminum sulfate-based hydration accelerating admixture on the physical and mechanical properties of concretes for 3D printing were investigated. Three printable concrete mixes were produced. The results showed that Athix did not have major implications on the physical and mechanical properties while using multiple batches for printing. However, it changed the behavior of critical deformation and interlayer adhesion. In some cases, it provided greater compressive strengths and favored physical/chemical interlayer bond, which points to the possibility of increasing the printing window.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -118,8 +94,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/geng_shao-bo"><b>Geng</b> Shao-bo</a>, <a href="../../../author/zhang_chen"><b>Zhang</b> Chen</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/hai_lu"><b>Hai</b> Lu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../geng_zhan_zhan_hai.2025.UCGCAi3PC/">Upcycling Coal Gangue Coarse Aggregates into 3D Printed Concrete:<br/>Multi-Scale Mechanisms of Fracture Behaviour</a></li>
       <li><a href="../../../author/shi_ye"><b>Shi</b> Ye</a>, <a href="../../../author/you_ge"><b>You</b> Ge</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../shi_you_wu_liu.2025.EoWFaPFToPo3PLCU/">Effect of Water Film and Paste Film Thicknesses on Printability of 3D Printed Low Cement UHPC</a></li>
@@ -140,4 +116,33 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
       <li><a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a>, <a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a>, <a href="../../../author/uhlik_adam"><b>Uhlík</b> Adam</a>, <a href="../../../author/kolar_karel"><b>Kolář</b> Karel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../lito_sana_uhli_kola.2023.MaPPoCMf3P/">Mechanical and Physical Properties of Cement Mixtures for 3D Processing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rubi_quin_repe.2023.IoSRwHAAotPaMPoCf3P,
+      author            = "Ariane Prevedello Rubin and Lucas Carvalho Quintanilha and Wellington Longuini Repette",
+      title             = "Influence of Structuration-Rate, with Hydration-Accelerating Admixture, on the Physical and Mechanical Properties of Concrete for 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2022.129826",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "363",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. P. Rubin, L. C. Quintanilha and W. L. Repette, “Influence of Structuration-Rate, with Hydration-Accelerating Admixture, on the Physical and Mechanical Properties of Concrete for 3D Printing”, <i>Construction and Building Materials</i>, vol. 363, 2023, doi: 10.1016/j.conbuildmat.2022.129826.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rubin, Ariane Prevedello, Lucas Carvalho Quintanilha, and Wellington Longuini Repette. “Influence of Structuration-Rate, with Hydration-Accelerating Admixture, on the Physical and Mechanical Properties of Concrete for 3D Printing”. <i>Construction and Building Materials</i> 363 (2023). https://doi.org/10.1016/j.conbuildmat.2022.129826.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiangyu Xie, Xuemei Liu, Nan Zhang, Lihai Zhang, Jay Sanjayan
+    - footer
+title: Xie Xiangyu, Liu Xuemei, Zhang Nan, Zhang Lihai, Sanjayan Jay
 description:
 tags:
  - behavior
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106333" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106333</a>
+#Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cemconcomp.2025.106333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106333" target="_blank">10.1016/j.cemconcomp.2025.106333</a>
 
--------------------------
+<a href="../../../author/xie_xiangyu"><b>Xie</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6400-8608" title="ORCID: 0000-0001-6400-8608" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xuemei"><b>Liu</b>&nbsp;Xuemei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_nan"><b>Zhang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1282-992X" title="ORCID: 0000-0002-1282-992X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_lihai"><b>Zhang</b>&nbsp;Lihai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 165, No. 106333
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>
-,     <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="https://orcid.org/0000-0001-6400-8608" title="ORCID: 0000-0001-6400-8608" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a> <a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> <a href="https://orcid.org/0000-0002-1282-992X" title="ORCID: 0000-0002-1282-992X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 165, No. 106333
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#capillary`](keyword/capillary)
-    [`#character`](keyword/character)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#slip`](keyword/slip)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/capillary"><button class="btn">#capillary</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slip"><button class="btn">#slip</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Capillary%20Extrusion%20Rheometry%20for%20Characterising%20Wall%20Slip%20Behaviour%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016882897&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414573547" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106333" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106333?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D concrete printing (3DCP) processes involve the flow of fresh concrete through a pipe, which is dominated by a lubrication layer at the interface between the bulk concrete and the boundary wall. However, the physical and rheological properties of the lubrication layer in 3DCP concrete have not been fully understood, and therefore further research is required. This paper addresses this challenge by conducting a series of comprehensive experimental studies to characterize the rheological properties and wall slip behaviour of printable concrete mortar. The experiments employ multiple rheometric tools, including a rotational vane viscometer, tribometer, capillary extruder, and micro-Computed Tomography (micro-CT). The classic analytical model of wall slip correction is applied to quantify the physical properties of the lubrication layer for fresh concrete with varying aggregate content. The results reveal a linear relationship between the slip velocity and the wall shear stress for all mixtures, indicating stable slip coefficients at different wall shear stresses. Furthermore, it is observed that the thickness of the lubrication layer decreases as aggregate content increases. Assuming the layer consists solely of pure paste, rheological analysis estimated the thickness to lie between 10 and 70 μm for the tested concrete mixtures. However, micro-CT indicated a looser aggregate packing near the wall and revealed a thicker lubrication layer than that predicted by the rheological model. A thicker, paste-rich lubrication layer is shown to facilitate the pumping and extrusion process, which may also influence the interlayer bond strength between the printed filaments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
@@ -88,7 +64,37 @@ tags:
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../xie_zhan_shi_liu.2022.PoLLPoPCBoFIPM/">Prediction of Lubrication-Layer Properties of Pumped Concrete Based on Flow-Induced Particle-Migration</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xie_liu_zhan_zhan.2026.CERfCWSBi3PC,
+      author            = "Xiangyu Xie and Xuemei Liu and Nan Zhang and Lihai Zhang and Jay Gnananandan Sanjayan",
+      title             = "Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete",
+      doi               = "10.1016/j.cemconcomp.2025.106333",
+      year              = "2026",
+      journal           = "Cement and Concrete Composites",
+      volume            = "165",
+      pages             = "106333",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Xie, X. Liu, N. Zhang, L. Zhang and J. G. Sanjayan, “Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete”, <i>Cement and Concrete Composites</i>, vol. 165, p. 106333, 2026, doi: 10.1016/j.cemconcomp.2025.106333.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xie, Xiangyu, Xuemei Liu, Nan Zhang, Lihai Zhang, and Jay Gnananandan Sanjayan. “Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete”. <i>Cement and Concrete Composites</i> 165 (2026): 106333. https://doi.org/10.1016/j.cemconcomp.2025.106333.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

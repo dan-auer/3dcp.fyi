@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Shahzad Qamar 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../shah_li.2025.IoCIotDaPOBo3PCS/">Influence of Concrete Interfaces on the Damage and Pull-Out Behavior of 3D-Printed Concrete Structures</a></li>
   <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../shah_li.2025.IoCIotMPo3PCS/">Impact of Concrete Interfaces on the Mechanical Performance of 3D Printed Concrete Structures</a></li>
   <li><a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a>, <a href="../../../author/hu_xiangcheng"><b>Hu</b> Xiangcheng</a>, <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_hu_shah.2024.ABi3PC/">Anisotropic Behavior in 3D Printed Concrete:<br/>Finite Element Simulation Approach</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Jiangang Zhou, Weijiu Cui, Xinyu Shi, Geert Schutter, Kim Tittelboom
+    - footer
+title: Tao Yaxin, Zhou Jiangang, Cui Weijiu, Shi Xinyu, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - assessment
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Assessment of Plastic Yielding in Extrusion-Based 3D Concrete Printing ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1617/s11527-024-02325-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-024-02325-x</a>
+#Numerical Assessment of Plastic Yielding in Extrusion-Based 3D Concrete Printing ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-024-02325-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-024-02325-x" target="_blank">10.1617/s11527-024-02325-x</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <a href="../../../author/zhou_jiangang"><b>Zhou</b>&nbsp;Jiangang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Materials and Structures, Vol. 57, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_jiangang"><b>Zhou</b> Jiangang</a>
-,     <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> <a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 57, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#numeric`](keyword/numeric)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Assessment%20of%20Plastic%20Yielding%20in%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190470419&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394845322" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-024-02325-x" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-024-02325-x?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Different from conventional mold-cast concrete, extrusion-based 3D printable concrete is deposited layer-by-layer without the support of formwork. Plastic yielding may occur during the 3D printing process, which refers to the non-reversible deformation of the extruded material under load. It is essential to understand and model the plastic yielding of 3D printable concrete in numerical simulations to ensure the high shape stability of 3D-printed elements. To this end, this study explores the influence of process parameters and material properties on the plastic yielding of 3D printable concrete based on computational fluid dynamics (CFD). The material properties were obtained by carrying out flow curve measurements and a Herschel–Bulkley model was adopted. A one-layer element was numerically modeled and validated with the cross-sections of the 3D-printed layer obtained using image analysis. The numerical results agree well with the experiments. After calibrating, the one-layer model was extended to two layers using the user-defined function. The geometrical profile and the plastic-yielded regions in the 3D-printed layers were analyzed as influenced by different process parameters and material properties. Numerical results indicated a high-yielding region in the newly deposited layer, and stresses can be transferred to the underneath layer, resulting in further deformation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a></li>
       <li><a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../chei_remo_khal_aoua.2017.NaESoABiME/">Numerical and Experimental Studies of Aggregate-Blocking in Mortar-Extrusion</a></li>
@@ -107,11 +83,41 @@ tags:
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/ayough_pouria"><b>Ayough</b> Pouria</a>, <a href="../../../author/nawaz_waleed"><b>Nawaz</b> Waleed</a>, <a href="../../../author/elchalakani_mohamed"><b>Elchalakani</b> Mohamed</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lyu_ayou_nawa_elch.2025.DaCoPRUHPC/">Development and Characterization of Printable Rubberised Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
       <li><a href="../../../author/sun_yubo"><b>Sun</b> Yubo</a>, <a href="../../../author/zhang_xinyue"><b>Zhang</b> Xinyue</a>, <a href="../../../author/zhou_jiangang"><b>Zhou</b> Jiangang</a>, <a href="../../../author/wang_yilin"><b>Wang</b> Yilin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sun_zhan_zhou_wang.2024.EAo3PCaaTPDF/">Extrudability-Analysis of 3D Printable Concrete as a Two-Phase Discrete Flow</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_zhou_cui_shi.2024.NAoPYiEB3CP,
+      author            = "Yaxin Tao and Jiangang Zhou and Weijiu Cui and Xinyu Shi and Geert de Schutter and Kim van Tittelboom",
+      title             = "Numerical Assessment of Plastic Yielding in Extrusion-Based 3D Concrete Printing",
+      doi               = "10.1617/s11527-024-02325-x",
+      year              = "2024",
+      journal           = "Materials and Structures",
+      volume            = "57",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, J. Zhou, W. Cui, X. Shi, G. de Schutter and K. van Tittelboom, “Numerical Assessment of Plastic Yielding in Extrusion-Based 3D Concrete Printing”, <i>Materials and Structures</i>, vol. 57, no. 4, 2024, doi: 10.1617/s11527-024-02325-x.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Jiangang Zhou, Weijiu Cui, Xinyu Shi, Geert de Schutter, and Kim van Tittelboom. “Numerical Assessment of Plastic Yielding in Extrusion-Based 3D Concrete Printing”. <i>Materials and Structures</i> 57, no. 4 (2024). https://doi.org/10.1617/s11527-024-02325-x.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

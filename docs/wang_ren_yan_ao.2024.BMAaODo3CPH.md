@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yibo Wang, Changzai Ren, Ming Yan, Chenyang Ao
+    - footer
+title: Wang Yibo, Ren Changzai, Yan Ming, Ao Chenyang
 description:
 tags:
  - analysis
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Blockage-Mechanism-Analysis and Optimization Design of 3D Concrete Print-Head ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1080/21650373.2024.2338526" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2024.2338526</a>
+#Blockage-Mechanism-Analysis and Optimization Design of 3D Concrete Print-Head ([2024-04](date/2024/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2338526" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2338526" target="_blank">10.1080/21650373.2024.2338526</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4556-3005" title="ORCID: 0000-0002-4556-3005" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yibo"><b>Wang</b>&nbsp;Yibo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9562-3336" title="ORCID: 0000-0002-9562-3336" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_changzai"><b>Ren</b>&nbsp;Changzai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8793-3510" title="ORCID: 0000-0002-8793-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_ming"><b>Yan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5971-8055" title="ORCID: 0000-0002-5971-8055" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ao_chenyang"><b>Ao</b>&nbsp;Chenyang</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, Vol. 13, Iss. 5, pp. 786-798
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a> <a href="https://orcid.org/0000-0002-4556-3005" title="ORCID: 0000-0002-4556-3005" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_changzai"><b>Ren</b> Changzai</a> <a href="https://orcid.org/0000-0002-9562-3336" title="ORCID: 0000-0002-9562-3336" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yan_ming"><b>Yan</b> Ming</a> <a href="https://orcid.org/0000-0002-8793-3510" title="ORCID: 0000-0002-8793-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> <a href="https://orcid.org/0000-0002-5971-8055" title="ORCID: 0000-0002-5971-8055" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, Vol. 13, Iss. 5, pp. 786-798
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#block`](keyword/block)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#head`](keyword/head)
-    [`#mechanism`](keyword/mechanism)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/head"><button class="btn">#head</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Blockage-Mechanism-Analysis%20and%20Optimization%20Design%20of%203D%20Concrete%20Print-Head" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189993257&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394674391" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2024.2338526" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2024.2338526?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Fast setting and hardening cement has the advantages of short setting time and high early strength. However, when using screw extrusion for 3D printing, there is often a serious blockage problem, which limits the application. In this study, we presented a novel approach to address this issue. Firstly, the blockage reasons in the printing process were obtained through simulations and experimental tests, then a superhydrophobic coating was applied to reduce the slip coefficient of the screw and the inner surface of the nozzle, the printing performance was improved finally. The results indicated that the pressure gradient in the cylinder decreased by 75.07% compared to the uncoated printhead. The shear rate and the flow velocity at the outlet were homogeneously distributed, and no plug flow was formed in the channel. Even after 60 min of continuous printing, the paste only adhered to the pushing flight flank, and no significant blockage occurred.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
@@ -89,9 +67,40 @@ tags:
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhan_zhan_yang_liu.2022.EoAFaVDi3PC/">Evaluation of Aggregates, Fibers and Voids-Distribution in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wu_changzhong"><b>Wu</b> Changzhong</a>, <a href="../../../author/lu_yuanyuan"><b>Lu</b> Yuanyuan</a>, <a href="../../../author/tian_jiaxin"><b>Tian</b> Jiaxin</a>, <a href="../../../author/zhu_xingyu"><b>Zhu</b> Xingyu</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wu_lu_tian_zhu.2025.Ro3PSoCBoRAaSDoSH/">Research on 3D Printed Section of Concrete Based on Robot Arm and Structural Design of Sprinkler Head</a></li>
       <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a>, <a href="../../../author/yan_ming"><b>Yan</b> Ming</a>, <a href="../../../author/yang_kun"><b>Yang</b> Kun</a>, <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wang_yan_yang_ao.2025.EoWSotECo3PoCM/">Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_ren_yan_ao.2024.BMAaODo3CPH,
+      author            = "Yibo Wang and Changzai Ren and Ming Yan and Chenyang Ao",
+      title             = "Blockage-Mechanism-Analysis and Optimization Design of 3D Concrete Print-Head",
+      doi               = "10.1080/21650373.2024.2338526",
+      year              = "2024",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      volume            = "13",
+      number            = "5",
+      pages             = "786--798",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, C. Ren, M. Yan and C. Ao, “Blockage-Mechanism-Analysis and Optimization Design of 3D Concrete Print-Head”, <i>Journal of Sustainable Cement-Based Materials</i>, vol. 13, no. 5, pp. 786–798, 2024, doi: 10.1080/21650373.2024.2338526.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yibo, Changzai Ren, Ming Yan, and Chenyang Ao. “Blockage-Mechanism-Analysis and Optimization Design of 3D Concrete Print-Head”. <i>Journal of Sustainable Cement-Based Materials</i> 13, no. 5 (2024): 786–98. https://doi.org/10.1080/21650373.2024.2338526.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

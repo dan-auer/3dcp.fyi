@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Josef Válek, Dorota Romanová
+    - footer
+title: Válek Josef, Romanová Dorota
 description:
 tags:
  - aggregate
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dspace.vut.cz/bitstreams/03f381cd-332a-47d6-b8e1-b132b65b32d1/download) 3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes ([2025-09](date/2025/09))
-<a href="https://doi.org/10.13164/juniorstav.2025.25043" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.13164/juniorstav.2025.25043</a>
+#3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dspace.vut.cz/bitstreams/03f381cd-332a-47d6-b8e1-b132b65b32d1/download) <a href="https://doi.org/10.13164/juniorstav.2025.25043" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13164/juniorstav.2025.25043" target="_blank">10.13164/juniorstav.2025.25043</a>
 
--------------------------
+<a href="../../../author/valek_josef"><b>Válek</b>&nbsp;Josef</a></span>, <a href="../../../author/romanova_dorota"><b>Romanová</b>&nbsp;Dorota</a></span><br>
+Contribution - Proceedings 26th International Scientific Conference Of Civil Engineering, pp. 1-9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/valek_josef"><b>Válek</b> Josef</a>
-,     <a href="../../../author/romanova_dorota"><b>Romanová</b> Dorota</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings 26th International Scientific Conference Of Civil Engineering, pp. 1-9
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#comparison`](keyword/comparison)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#real`](keyword/real)
-    [`#simulation`](keyword/simulation)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Simulating%20Device%20in%20Comparison%20to%20Real%20Printing%20and%20Aggregate%20Substitutes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417109671" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.13164/juniorstav.2025.25043" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.13164/juniorstav.2025.25043?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing appears to be a promising way to reduce costs, time and environmental impact. However, this technology is very dependent on the material used. When testing new materials on robotic printing, large amount of material is needed, and the preparation process is complex. For this purpose, a device was developed at BUT FME, enabling simplified printing. Comparative study needs to be performed to verify sufficient similarity between the results of simplified and real printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../chri_zijl_vill.2022.TIoRBAi3PC/">The Incorporation of Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
@@ -71,7 +53,36 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{vale_roma.2025.3CPSDiCtRPaAS,
+      author            = "Josef Válek and Dorota Romanová",
+      title             = "3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes",
+      doi               = "10.13164/juniorstav.2025.25043",
+      year              = "2025",
+      pages             = "1--9",
+      booktitle         = "Proceedings 26th International Scientific Conference Of Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Válek  and D. Romanová, “3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes”, in <i>Proceedings 26th International Scientific Conference Of Civil Engineering</i>,  2025, pp. 1–9. doi: 10.13164/juniorstav.2025.25043.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Válek, Josef, and Dorota Romanová. “3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes”. In <i>Proceedings 26th International Scientific Conference Of Civil Engineering</i>, 1–9, 2025. https://doi.org/10.13164/juniorstav.2025.25043.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

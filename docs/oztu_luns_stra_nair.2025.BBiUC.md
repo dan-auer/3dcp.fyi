@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Onur Ozturk, Caleb Lunsford, James Strait, Sriramya Nair
+    - footer
+title: Ozturk Onur, Lunsford Caleb, Strait James, Nair Sriramya
 description:
 tags:
  - adaption
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Breaking Barriers in Underwater Construction:<br/>:aca-blank: A Two-Stage 3D Printing System with On-Demand Material Adaptation ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106306" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106306</a>
+#Breaking Barriers in Underwater Construction&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">A Two-Stage 3D Printing System with On-Demand Material Adaptation</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106306" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106306" target="_blank">10.1016/j.cemconcomp.2025.106306</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2365-9388" title="ORCID: 0000-0003-2365-9388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozturk_onur"><b>Ozturk</b>&nbsp;Onur</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-3663-4515" title="ORCID: 0009-0003-3663-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lunsford_caleb"><b>Lunsford</b>&nbsp;Caleb</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-9349-5702" title="ORCID: 0009-0002-9349-5702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strait_james"><b>Strait</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5887-5817" title="ORCID: 0000-0002-5887-5817" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b>&nbsp;Sriramya</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 164, No. 106306
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a> <a href="https://orcid.org/0000-0003-2365-9388" title="ORCID: 0000-0003-2365-9388" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a> <a href="https://orcid.org/0009-0003-3663-4515" title="ORCID: 0009-0003-3663-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/strait_james"><b>Strait</b> James</a> <a href="https://orcid.org/0009-0002-9349-5702" title="ORCID: 0009-0002-9349-5702" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="https://orcid.org/0000-0002-5887-5817" title="ORCID: 0000-0002-5887-5817" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 164, No. 106306
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#barrier`](keyword/barrier)
-    [`#construction`](keyword/construction)
-    [`#demand`](keyword/demand)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#stage`](keyword/stage)
-    [`#system`](keyword/system)
-    [`#underwater`](keyword/underwater)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stage"><button class="btn">#stage</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Breaking%20Barriers%20in%20Underwater%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014288451&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413802280" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106306" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106306?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Underwater concreting remains one of the most challenging construction activities, which has resulted in the development of complex material formulations to minimize washout. The automation and customization offered by 3D concrete printing (3DCP) presents a promising pathway for advancing underwater construction but adds additionally complexity to material formulations. In this study, we highlight the capabilities of a two-stage 3DCP system that can inject an admixture at the nozzle with real-time dosage control (an in-built feature of the most two-stage systems). By printing samples with varying overhang angles in both air and underwater, we demonstrate the ability of the two-stage system to overcome major obstacles in underwater construction. In addition to providing real-time modification of extruded material properties, this approach eliminates the need for addition of anti-washout admixtures prior to pumping, which often comprise flowability and strength. While experiments were conducted in static water environments, the system's in-built real-time control mechanism suggests potential adaptability to fluctuating underwater conditions, warranting further investigation. Our findings offer a scalable, responsive framework for 3D printing that could transform the future of marine and offshore construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/shengzhao_e"><b>Shengzhao</b> E.</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../cao_shen_yang_shi.2024.ASftIotBPo3PCILI/">A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -112,9 +90,40 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/deetman_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
+      <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{oztu_luns_stra_nair.2025.BBiUC,
+      author            = "Onur Ozturk and Caleb Lunsford and James Strait and Sriramya Duddukuri Nair",
+      title             = "Breaking Barriers in Underwater Construction: A Two-Stage 3D Printing System with On-Demand Material Adaptation",
+      doi               = "10.1016/j.cemconcomp.2025.106306",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "164",
+      pages             = "106306",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Ozturk, C. Lunsford, J. Strait and S. D. Nair, “Breaking Barriers in Underwater Construction: A Two-Stage 3D Printing System with On-Demand Material Adaptation”, <i>Cement and Concrete Composites</i>, vol. 164, p. 106306, 2025, doi: 10.1016/j.cemconcomp.2025.106306.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ozturk, Onur, Caleb Lunsford, James Strait, and Sriramya Duddukuri Nair. “Breaking Barriers in Underwater Construction: A Two-Stage 3D Printing System with On-Demand Material Adaptation”. <i>Cement and Concrete Composites</i> 164 (2025): 106306. https://doi.org/10.1016/j.cemconcomp.2025.106306.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

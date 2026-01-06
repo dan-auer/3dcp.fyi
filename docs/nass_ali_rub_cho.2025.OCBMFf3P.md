@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ghaith Nassrullah, Mohd Ali, Rashid Rub, Cung-Suk Cho, Bashar Khasawneh, Seyed Ghaffar, Tae-Yeon Kim
+    - footer
+title: Nassrullah Ghaith, Ali Mohd, Rub Rashid, Cho Cung-Suk, Khasawneh Bashar, Ghaffar Seyed, Kim Tae-Yeon
 description:
 tags:
  - base
@@ -18,37 +19,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Optimizing Cement-Based Material Formulation for 3D Printing:<br/>:aca-blank: Integrating Carbon Nanotubes and Silica Fume ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04579" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04579</a>
+#Optimizing Cement-Based Material Formulation for 3D Printing&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">Integrating Carbon Nanotubes and Silica Fume</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e04579" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04579" target="_blank">10.1016/j.cscm.2025.e04579</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0004-2943-9698" title="ORCID: 0009-0004-2943-9698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b>&nbsp;Ghaith</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-0465-404X" title="ORCID: 0009-0001-0465-404X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_mukarram_mohd"><b>Ali</b>&nbsp;Mohd</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1255-6949" title="ORCID: 0000-0003-1255-6949" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rub_k-abu_rashid"><b>al&nbsp;Rub</b>&nbsp;Rashid</a></span>, <a href="../../../author/cho_cung-suk"><b>Cho</b>&nbsp;Cung-Suk</a></span>, <a href="../../../author/khasawneh_el_bashar"><b>Khasawneh</b>&nbsp;Bashar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <a href="../../../author/kim_tae-yeon"><b>Kim</b>&nbsp;Tae-Yeon</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04579
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a> <a href="https://orcid.org/0009-0004-2943-9698" title="ORCID: 0009-0004-2943-9698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a> <a href="https://orcid.org/0009-0001-0465-404X" title="ORCID: 0009-0001-0465-404X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rub_k-abu_rashid"><b>al Rub</b> Rashid</a> <a href="https://orcid.org/0000-0003-1255-6949" title="ORCID: 0000-0003-1255-6949" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cho_cung-suk"><b>Cho</b> Cung-Suk</a>
-,     <a href="../../../author/khasawneh_el_bashar"><b>Khasawneh</b> Bashar</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_tae-yeon"><b>Kim</b> Tae-Yeon</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04579
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#formulas`](keyword/formulas)
-    [`#fume`](keyword/fume)
-    [`#integration`](keyword/integration)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Cement-Based%20Material%20Formulation%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001290840&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408835668" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04579" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04579?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to determine the optimal mix designs of cementitious composites and compare various properties by adding carbon nanotubes (CNTs) and silica fume to the 3D printing system. Adding 0.2% CNTs and 20% silica fume in the mixture significantly improved printing quality, buildability, open-time, and rheology. Compared to the control mix, the layer's width and height error reduced from 140% and 6% to less than 1.5%, while buildability and open-time increased by 210% and 263%, respectively. Furthermore, the compressive and flexural strengths were enhanced with the addition of CNTs and silica fume for both cast and 3D-printed samples. Specifically, at 28 days, the compressive and flexural strengths of 3D-printed samples increased by 78% and 498%, respectively, compared to the control mix. The compressive strength of 3D-printed samples was lower than that of cast samples. However, at later ages, the variation was reduced to less than 2% with the addition of 0.2% CNTs and 20% silica fume. On the other hand, 3D-printed beams showed 8% higher flexural strength than cast beams. Microstructural examination revealed that the addition of silica fume fills gaps in the cement matrix. Moreover, CNTs act as nanoscale linkages within the cement matrix, resulting in enhancements in the buildability and mechanical characteristics of 3D-printed cement-based materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a>, <a href="../../../author/al-rub_k_rashid"><b>Al-Rub</b> Rashid</a>, <a href="../../../author/khaswaneh_bashar"><b>Khaswaneh</b> Bashar</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ali_nass_alr_khas.2024.IoCNToPQaMPo3PCM/">Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials</a></li>
@@ -116,8 +90,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nass_ali_rub_cho.2025.OCBMFf3P,
+      author            = "Ghaith Nassrullah and Mohd Mukarram Ali and Rashid K. Abu Al Rub and Cung-Suk Cho and Bashar El Khasawneh and Seyed Hamidreza Ghaffar and Tae-Yeon Kim",
+      title             = "Optimizing Cement-Based Material Formulation for 3D Printing: Integrating Carbon Nanotubes and Silica Fume",
+      doi               = "10.1016/j.cscm.2025.e04579",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04579",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Nassrullah, “Optimizing Cement-Based Material Formulation for 3D Printing: Integrating Carbon Nanotubes and Silica Fume”, <i>Case Studies in Construction Materials</i>, p. e04579, 2025, doi: 10.1016/j.cscm.2025.e04579.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nassrullah, Ghaith, Mohd Mukarram Ali, Rashid K. Abu Al Rub, Cung-Suk Cho, Bashar El Khasawneh, Seyed Hamidreza Ghaffar, and Tae-Yeon Kim. “Optimizing Cement-Based Material Formulation for 3D Printing: Integrating Carbon Nanotubes and Silica Fume”. <i>Case Studies in Construction Materials</i>, 2025, e04579. https://doi.org/10.1016/j.cscm.2025.e04579.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

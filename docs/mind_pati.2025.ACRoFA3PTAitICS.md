@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pravin Minde, Jagruti Patil
+    - footer
+title: Minde Pravin, Patil Jagruti
 description:
 tags:
  - adaption
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comprehensive Review of Factors Affecting 3D Printing Technology Adaptation in the Indian Construction Sector ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1007/s41024-025-00604-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s41024-025-00604-w</a>
+#A Comprehensive Review of Factors Affecting 3D Printing Technology Adaptation in the Indian Construction Sector ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-025-00604-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00604-w" target="_blank">10.1007/s41024-025-00604-w</a>
 
--------------------------
+<a href="../../../author/minde_pravin"><b>Minde</b>&nbsp;Pravin</a></span>, <a href="../../../author/patil_jagruti"><b>Patil</b>&nbsp;Jagruti</a></span><br>
+Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 10, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/minde_pravin"><b>Minde</b> Pravin</a>
-,     <a href="../../../author/patil_jagruti"><b>Patil</b> Jagruti</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 10, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#comprehension`](keyword/comprehension)
-    [`#construction`](keyword/construction)
-    [`#factor`](keyword/factor)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20of%20Factors%20Affecting%203D%20Printing%20Technology%20Adaptation%20in%20the%20Indian%20Construction%20Sector" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000046380&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408415048" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s41024-025-00604-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s41024-025-00604-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is a transformative technology poised to revolutionize the construction industry. Despite widespread interest, its implementation remains limited in the sector. This research paper offers a comprehensive analysis of the factors influencing the adoption of 3D printing in India’s construction industry, categorizing them into technological and economic dimensions. Key technological aspects include the availability, affordability, and integration of 3D printing with existing construction practices, while economic factors focus on financial viability, return on investment, and material costs. The paper also identifies significant barriers, such as the absence of standardized protocols, insufficient research and development, and a shortage of skilled labour and training programs. Also, the study highlights the environmental and operational advantages of 3D printing, notably in minimizing material waste and labour costs. A comparative case study highlights the substantial time and cost efficiencies of 3D-printed buildings, demonstrating significant reductions in material use and waste generation. The paper concludes with strategic recommendations for industry stakeholders, policymakers, and researchers, emphasizing the need to overcome current challenges through the establishment of standards and increased investment in R&D. At last, it states that 3D printing holds immense potential to revolutionize construction practices, enhancing efficiency, sustainability, and fostering innovative design possibilities.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
@@ -88,8 +69,38 @@ tags:
       <li><a href="../../../author/waqar_ahsan"><b>Waqar</b> Ahsan</a>, <a href="../../../author/othman_idris"><b>Othman</b> Idris</a>, <a href="../../../author/pomares_carlos_juan"><b>Pomares</b> Juan</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../waqa_othm_poma.2023.Io3PotOPSoRCPUSEM/">Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mararo_m_ian"><b>Mararo</b> Ian</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mara_baba_aigb.2025.TUtPo3CPiK/">Towards Understanding the Perceptions of 3D Construction Printing in Kenya</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mind_pati.2025.ACRoFA3PTAitICS,
+      author            = "Pravin Minde and Jagruti Patil",
+      title             = "A Comprehensive Review of Factors Affecting 3D Printing Technology Adaptation in the Indian Construction Sector",
+      doi               = "10.1007/s41024-025-00604-w",
+      year              = "2025",
+      journal           = "Journal of Building Pathology and Rehabilitation",
+      volume            = "10",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Minde  and J. Patil, “A Comprehensive Review of Factors Affecting 3D Printing Technology Adaptation in the Indian Construction Sector”, <i>Journal of Building Pathology and Rehabilitation</i>, vol. 10, no. 2, 2025, doi: 10.1007/s41024-025-00604-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Minde, Pravin, and Jagruti Patil. “A Comprehensive Review of Factors Affecting 3D Printing Technology Adaptation in the Indian Construction Sector”. <i>Journal of Building Pathology and Rehabilitation</i> 10, no. 2 (2025). https://doi.org/10.1007/s41024-025-00604-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

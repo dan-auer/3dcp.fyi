@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manu Mohan, Attupurathu Rahul, Jeroen Stappen, Veerle Cnudde, Geert Schutter, Kim Tittelboom
+    - footer
+title: Mohan Manu, Rahul Attupurathu, Stappen Jeroen, Cnudde Veerle, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - assessment
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Assessment of Pore-Structure Characteristics and Tortuosity of 3D Printed Concrete Using Mercury-Intrusion-Porosimetry and X-Ray Tomography ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105104" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105104</a>
+#Assessment of Pore-Structure Characteristics and Tortuosity of 3D Printed Concrete Using Mercury-Intrusion-Porosimetry and X-Ray Tomography ([2023-05](date/2023/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2023.105104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105104" target="_blank">10.1016/j.cemconcomp.2023.105104</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohan_k_manu"><b>Mohan</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2191-2888" title="ORCID: 0000-0003-2191-2888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stappen_f_jeroen"><b>van&nbsp;Stappen</b>&nbsp;Jeroen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3269-5914" title="ORCID: 0000-0002-3269-5914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cnudde_veerle"><b>Cnudde</b>&nbsp;Veerle</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> <a href="https://orcid.org/0000-0003-1848-3365" title="ORCID: 0000-0003-1848-3365" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stappen_f_jeroen"><b>van Stappen</b> Jeroen</a> <a href="https://orcid.org/0000-0003-2191-2888" title="ORCID: 0000-0003-2191-2888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a> <a href="https://orcid.org/0000-0002-3269-5914" title="ORCID: 0000-0002-3269-5914" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#intrusion`](keyword/intrusion)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#ray`](keyword/ray)
-    [`#structure`](keyword/structure)
-    [`#tomography`](keyword/tomography)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ray"><button class="btn">#ray</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/tomography"><button class="btn">#tomography</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessment%20of%20Pore-Structure%20Characteristics%20and%20Tortuosity%20of%203D%20Printed%20Concrete%20Using%20Mercury-Intrusion-Porosimetry%20and%20X-Ray%20Tomography" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85158903920&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4372207306" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105104" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105104?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based concrete 3D printing is being increasingly used in the construction industry. This paper gives insights into the porosity and pore structure of 3D printed concrete elements using mercury intrusion porosimetry, and X-ray micro-computed tomography. The experiments were conducted with two different cement systems; among which a Portland cement-blast furnace slag blend and a calcium sulfoaluminate cementlimestone blended system. The study reveals that the interlayer region contains larger and interconnected pores with low tortuosity, which could lead to enhanced transport of ions. Using the MIP data, surface fractal dimension and tortuosity parameters were computed. It was observed that the calcium sulfo aluminate-limestone blended system has higher pore complexity and tortuosity than the Portland cement-blast furnace slag system. Compared to mercury intrusion porosimetry, the X-ray micro-computed tomography technique was able to characterize both open and closed pores present in the printed sample at the resolution of the scanning. A significantly higher open porosity and the presence of more elongated pores with a high aspect ratio were observed in the interlayer compared to the bulk region. The current study can be useful in understanding the transport of ions through different regions in printed elements to assess its durability performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
@@ -102,8 +77,8 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../vant_cort_stee_boel.2019.DBTOf3PBS/">Density-Based Topology-Optimization for 3D Printable Building Structures</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -127,4 +102,32 @@ tags:
       <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/aimedieu_patrick"><b>Aimedieu</b> Patrick</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zuo_cane_keit_aime.2024.DIDiEFCBMaVEA/">Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages:<br/>From Standard Casting to 3D Printing</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moha_rahu_stap_cnud.2023.AoPSCaTo3PCUMIPaXRT,
+      author            = "Manu K. Mohan and Attupurathu Vijayan Rahul and Jeroen F. van Stappen and Veerle Cnudde and Geert de Schutter and Kim van Tittelboom",
+      title             = "Assessment of Pore-Structure Characteristics and Tortuosity of 3D Printed Concrete Using Mercury-Intrusion-Porosimetry and X-Ray Tomography",
+      doi               = "10.1016/j.cemconcomp.2023.105104",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. K. Mohan, A. V. Rahul, J. F. van Stappen, V. Cnudde, G. de Schutter and K. van Tittelboom, “Assessment of Pore-Structure Characteristics and Tortuosity of 3D Printed Concrete Using Mercury-Intrusion-Porosimetry and X-Ray Tomography”, <i>Cement and Concrete Composites</i>, 2023, doi: 10.1016/j.cemconcomp.2023.105104.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mohan, Manu K., Attupurathu Vijayan Rahul, Jeroen F. van Stappen, Veerle Cnudde, Geert de Schutter, and Kim van Tittelboom. “Assessment of Pore-Structure Characteristics and Tortuosity of 3D Printed Concrete Using Mercury-Intrusion-Porosimetry and X-Ray Tomography”. <i>Cement and Concrete Composites</i>, 2023. https://doi.org/10.1016/j.cemconcomp.2023.105104.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

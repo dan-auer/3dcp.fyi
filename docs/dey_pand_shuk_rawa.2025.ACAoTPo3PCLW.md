@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dhrutiman Dey, Biranchi Panda, Yash Shukla, Rajan Rawal
+    - footer
+title: Dey Dhrutiman, Panda Biranchi, Shukla Yash, Rawal Rajan
 description:
 tags:
  - assessment
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1007/s40964-025-01042-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-025-01042-3</a>
+#A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-025-01042-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01042-3" target="_blank">10.1007/s40964-025-01042-3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dey_dhrutiman"><b>Dey</b>&nbsp;Dhrutiman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/shukla_yash"><b>Shukla</b>&nbsp;Yash</a></span>, <a href="../../../author/rawal_rajan"><b>Rawal</b>&nbsp;Rajan</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> <a href="https://orcid.org/0000-0003-1447-4568" title="ORCID: 0000-0003-1447-4568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>
-,     <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#lattice`](keyword/lattice)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Assessment%20of%20Thermal%20Performance%20of%203D%20Printed%20Concrete%20Lattice%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000372647&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408490494" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-025-01042-3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-025-01042-3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the pursuit of sustainable and energy-efficient construction solutions, a comprehensive investigation into the thermal performance of 3D-printed concrete lattice walls was performed through a combination of experimental testing and CFD numerical modeling, aiming to uncover the underlying mechanism, direction and magnitude of heat flow affecting thermal transmittance. A calibrated numerical model accurately predicted their thermal performance, underscoring the reliability of the proposed model. Based on the model suggested heat-transfer mechanism, we expand the design space, aiming to uncover configurations that exhibit superior performance with insulation material. The results indicate lowest U value (0.79 W/m2K) of modified partially insulated lattice wall, surpassing the studied lattice configurations. This study offers a critical evaluation of lattice-wall design to develop thermally efficient cost-effective concrete wall, that align with the growing demand for lightweight, functional structures in built environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
       <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/leithner_felicitas"><b>Leithner</b> Felicitas</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../brie_koll_leit_matt.2022.TOoAMLCWEwICStSaM/">Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements</a></li>
@@ -99,7 +77,35 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../wolf_bos_sale.2023.LLoPM/">Lessons Learned of Project Milestone:<br/>The First 3D Printed Concrete House in the Netherlands</a></li>
       <li><a href="../../../author/zahrani_a_abdullah"><b>Zahrani</b> Abdullah</a>, <a href="../../../author/alghamdi_a_abdulrahman"><b>Alghamdi</b> Abdulrahman</a>, <a href="../../../author/basalah_a_ahmad"><b>Basalah</b> Ahmad</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zahr_algh_basa.2022.COo3PCWfIBTP/">Computational Optimization of 3D Printed Concrete Walls for Improved Building Thermal Performance</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dey_pand_shuk_rawa.2025.ACAoTPo3PCLW,
+      author            = "Dhrutiman Dey and Biranchi Narayan Panda and Yash Shukla and Rajan Rawal",
+      title             = "A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls",
+      doi               = "10.1007/s40964-025-01042-3",
+      year              = "2025",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Dey, B. N. Panda, Y. Shukla and R. Rawal, “A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls”, <i>Progress in Additive Manufacturing</i>, 2025, doi: 10.1007/s40964-025-01042-3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dey, Dhrutiman, Biranchi Narayan Panda, Yash Shukla, and Rajan Rawal. “A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls”. <i>Progress in Additive Manufacturing</i>, 2025. https://doi.org/10.1007/s40964-025-01042-3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

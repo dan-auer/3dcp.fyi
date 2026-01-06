@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xin Lyu, Pouria Ayough, Waleed Nawaz, Mohamed Elchalakani
+    - footer
+title: Lyu Xin, Ayough Pouria, Nawaz Waleed, Elchalakani Mohamed
 description:
 tags:
  - characteristic
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2025.113192) Development and Characterization of Printable Rubberised Ultra-High-Performance Concrete ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.jobe.2025.113192" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113192</a>
+#Development and Characterization of Printable Rubberised Ultra-High-Performance Concrete ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.113192) <a href="https://doi.org/10.1016/j.jobe.2025.113192" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113192" target="_blank">10.1016/j.jobe.2025.113192</a>
 
--------------------------
+<a href="../../../author/lyu_xin"><b>Lyu</b>&nbsp;Xin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9187-1319" title="ORCID: 0000-0001-9187-1319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ayough_pouria"><b>Ayough</b>&nbsp;Pouria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5393-8877" title="ORCID: 0000-0001-5393-8877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nawaz_waleed"><b>Nawaz</b>&nbsp;Waleed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9018-0572" title="ORCID: 0000-0002-9018-0572" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elchalakani_mohamed"><b>Elchalakani</b>&nbsp;Mohamed</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113192
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>
-,     <a href="../../../author/ayough_pouria"><b>Ayough</b> Pouria</a> <a href="https://orcid.org/0000-0001-9187-1319" title="ORCID: 0000-0001-9187-1319" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nawaz_waleed"><b>Nawaz</b> Waleed</a> <a href="https://orcid.org/0000-0001-5393-8877" title="ORCID: 0000-0001-5393-8877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/elchalakani_mohamed"><b>Elchalakani</b> Mohamed</a> <a href="https://orcid.org/0000-0002-9018-0572" title="ORCID: 0000-0002-9018-0572" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113192
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20and%20Characterization%20of%20Printable%20Rubberised%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008669591&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411326288" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113192" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113192?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper introduces a printable ultra-high-performance fibre-reinforced concrete (UHPFRC) with an average 28-day compressive strength of 230 MPa and a maximum flexural strength of 31 MPa, which was achieved through extensive testing and adjustments guided by the theory of maximum packing density. Three types of printable UHPFRC mixes were assessed with 0%, 10%, and 20% rubber content. The basic properties were tested, including slump flow, rheology, printability, microstructure, compressive strength and flexural strength. By replacing 20% of the fine aggregate in equal volume with recycled rubber, the UHPFRRuC achieved an average 28-day compressive strength of 137 MPa and a maximum flexural strength of 22 MPa. In addition, this study proves that maintaining a minimum static yield stress of 250 Pa and a plastic viscosity of 20 Pa·s is crucial for ensuring good printability. Additionally, the distribution of steel fibres significantly influences the failure mode of UHPFRC specimens under static uniaxial compression, with fibres aligned parallel to the load direction (3DP-X) showing the highest compressive strength and most cracks. In UHPFRRuC, cracks tend to develop along the rubber particles. This study enhances the understanding of printable UHPFRC and UHPFRRuC. This study explores the development of 3D-printable UHPFRRuC, which overcomes the strength limitations of conventional rubberised concrete while retaining its superior impact resistance and damping properties. By integrating 3D printability, high strength, and enhanced energy absorption, UHPFRRuC presents significant potential for applications in resilient infrastructure, such as roadside barriers, earthquake-resistant slabs, and bridge components, warranting further investigation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -89,8 +69,37 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lyu_ayou_nawa_elch.2025.DaCoPRUHPC,
+      author            = "Xin Lyu and Pouria Ayough and Waleed Nawaz and Mohamed Elchalakani",
+      title             = "Development and Characterization of Printable Rubberised Ultra-High-Performance Concrete",
+      doi               = "10.1016/j.jobe.2025.113192",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113192",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Lyu, P. Ayough, W. Nawaz and M. Elchalakani, “Development and Characterization of Printable Rubberised Ultra-High-Performance Concrete”, <i>Journal of Building Engineering</i>, p. 113192, 2025, doi: 10.1016/j.jobe.2025.113192.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lyu, Xin, Pouria Ayough, Waleed Nawaz, and Mohamed Elchalakani. “Development and Characterization of Printable Rubberised Ultra-High-Performance Concrete”. <i>Journal of Building Engineering</i>, 2025, 113192. https://doi.org/10.1016/j.jobe.2025.113192.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

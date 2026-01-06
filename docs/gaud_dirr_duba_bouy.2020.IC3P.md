@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nadja Gaudillière-Jami, Justin Dirrenberger, Romain Duballet, Charles Bouyssou, Alban Mallet, Philippe Roux, Mahriz Zakeri
+    - footer
+title: Gaudillière-Jami Nadja, Dirrenberger Justin, Duballet Romain, Bouyssou Charles, Mallet Alban, Roux Philippe, Zakeri Mahriz
 description:
 tags:
  - concrete
@@ -11,30 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Industrialising Concrete 3D Printing ([2020-04](date/2020/04))
-<a href="https://doi.org/10.2307/j.ctv13xprf6.31" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.2307/j.ctv13xprf6.31</a>
+#Industrialising Concrete 3D Printing ([2020-04](date/2020/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2307/j.ctv13xprf6.31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xprf6.31" target="_blank">10.2307/j.ctv13xprf6.31</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b>&nbsp;Nadja</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span>, <a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b>&nbsp;Charles</a></span>, <a href="../../../author/mallet_alban"><b>Mallet</b>&nbsp;Alban</a></span>, <a href="../../../author/roux_philippe"><b>Roux</b>&nbsp;Philippe</a></span>, <a href="../../../author/zakeri_mahriz"><b>Zakeri</b>&nbsp;Mahriz</a></span><br>
+Contribution - Design Transactions, pp. 158-165
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>
-,     <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>
-,     <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a>
-,     <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>
-,     <a href="../../../author/zakeri_mahriz"><b>Zakeri</b> Mahriz</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Design Transactions, pp. 158-165
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Industrialising%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3044807305" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.2307/j.ctv13xprf6.31" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.2307/j.ctv13xprf6.31?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Experimentation with 3D-printed concrete in architecture has flourished over the past decade and, consequently, so too has the development of industrial-grade manufacturing processes. 3D printing is part of a wave of robotic construction technologies developed with the ‘digital turn’ in architecture (Carpo, 2012) and, with it, the exploration of the possibilities offered by digital fabrication tools (Gramazio et al., 2015). Robotic technologies for construction sites have been designed since since the mid-20th century, but essentially consisted in the beginning of specialised machines accomplishing a single, repetitive task. Recent research has focused on more versatile machines, such as six-axis robotic arms, to perform a great diversity of tasks. This new approach to robotic construction processes, as well as the ‘digital and informational turn’ accompanying it, makes way for a potentially drastic renewal of the construction industry and its methods. The introduction of these new robotic manufacturing technologies into the construction industry is still in the early stages, with numerous challenges needing to be overcome to reach full integration. These challenges must be studied in light of the potentialities of concrete 3D printing and other robotic fabrication processes, to ensure implementation in the construction industry in the most relevant way. This paper gives a brief analysis of the current advancement of concrete 3D-printing technologies and the challenges facing researchers and companies, alongside three case studies of applications of concrete 3D printing developed by XtreeE. These applications have been developed in partnership with various significant players in the French construction industry, and have led to the manufacturing of several products as part of completed construction projects. Given the practical dimension of these case studies, they provide complementary information to academic research that can be used for further reflection on the industrialisation of such technologies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -73,8 +53,8 @@ tags:
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/do_phi_duc"><b>Do</b> Duc</a>, <a href="../../../author/diab_zeinab"><b>Diab</b> Zeinab</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../do_diab_remo_hoxh.2025.NSTf3P/">Numerical Simulation-Tools for 3D Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq.2025.3CPbEaFD/">3D Concrete Printing by Extrusion and Filament-Deposition</a></li>
@@ -85,4 +65,34 @@ tags:
       <li><a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b> Siavash</a>, <a href="../../../author/tetik_muge"><b>Tetik</b> Müge</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b> Antti</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../khaj_teti_mohi_pelt.2021.AMitCI/">Additive Manufacturing in the Construction Industry:<br/>The Comparative Competitiveness of 3D Concrete Printing</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gaud_dirr_duba_bouy.2020.IC3P,
+      author            = "Nadja Gaudillière-Jami and Justin Dirrenberger and Romain Duballet and Charles Bouyssou and Alban Mallet and Philippe Roux and Mahriz Zakeri",
+      title             = "Industrialising Concrete 3D Printing",
+      doi               = "10.2307/j.ctv13xprf6.31",
+      year              = "2020",
+      pages             = "158--165",
+      booktitle         = "Design Transactions: Rethinking Information Modelling for a New Material Age",
+      editor            = "Bob Sheil and Mette Ramsgaard Thomsen and Martin Tamke and Sean Hanna",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Gaudillière-Jami, “Industrialising Concrete 3D Printing”, in <i>Design Transactions: Rethinking Information Modelling for a New Material Age</i>,  2020, pp. 158–165. doi: 10.2307/j.ctv13xprf6.31.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gaudillière-Jami, Nadja, Justin Dirrenberger, Romain Duballet, Charles Bouyssou, Alban Mallet, Philippe Roux, and Mahriz Zakeri. “Industrialising Concrete 3D Printing”. In <i>Design Transactions: Rethinking Information Modelling for a New Material Age</i>, edited by Bob Sheil, Mette Ramsgaard Thomsen, Martin Tamke, and Sean Hanna, 158–65, 2020. https://doi.org/10.2307/j.ctv13xprf6.31.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

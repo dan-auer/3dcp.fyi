@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wang Zhibin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/luo_zhe"><b>Luo</b> Zhe</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhan_jia_luo_deng.2022.PaPSo3PLCCURCBPwVPF/">Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features</a></li>
   <li><a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../deng_jia_zhan_wang.2022.3PLACPwSPAM/">3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method:<br/>Printability, Mechanical Properties and Pore-Structure</a></li>
   <li><a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../wang_jia_deng_zhan.2022.BBBSBa3PC/">Bond Behavior Between Steel-Bars and 3D Printed Concrete:<br/>Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating</a></li>

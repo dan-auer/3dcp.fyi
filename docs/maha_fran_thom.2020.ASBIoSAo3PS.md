@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meera Mahadevan, Ann Francis, Albert Thomas
+    - footer
+title: Mahadevan Meera, Francis Ann, Thomas Albert
 description:
 tags:
  - aspects
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures ([2020-08](date/2020/08))
-<a href="https://doi.org/10.1016/j.jobe.2020.101735" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2020.101735</a>
+#A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures ([2020-08](date/2020/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2020.101735" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2020.101735" target="_blank">10.1016/j.jobe.2020.101735</a>
 
--------------------------
+<a href="../../../author/mahadevan_meera"><b>Mahadevan</b>&nbsp;Meera</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0273-9883" title="ORCID: 0000-0002-0273-9883" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/francis_ann"><b>Francis</b>&nbsp;Ann</a></span>, <a href="../../../author/thomas_albert"><b>Thomas</b>&nbsp;Albert</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 32
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mahadevan_meera"><b>Mahadevan</b> Meera</a>
-,     <a href="../../../author/francis_ann"><b>Francis</b> Ann</a> <a href="https://orcid.org/0000-0002-0273-9883" title="ORCID: 0000-0002-0273-9883" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/thomas_albert"><b>Thomas</b> Albert</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 32, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aspects`](keyword/aspects)
-    [`#base`](keyword/base)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-    [`#structure`](keyword/structure)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Simulation-Based%20Investigation%20of%20Sustainability%20Aspects%20of%203D%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85091567189&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3082436907" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2020.101735" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2020.101735?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the rise in population and urbanization, the demand for affordable housing and other infrastructure is increasing, especially in developing countries. In this context, the incorporation of technology that ensures faster and cheaper construction of structurally sound structures in a safe working condition is gaining relevance. 3D printing is one such technology in which the building material is extruded layer by layer to create the structure of the desired shape. This technique is gaining importance in the construction sector recently due to its advantages in reducing the cost and time of construction. In this background, it is also important to evaluate the long-term sustainability of structures built with 3D printing techniques which in turn is affected by the potential materials that is used to print. Therefore, this study is an attempt to compare two parameters closely related to environmental sustainability, namely thermal comfort and building energy efficiency of residential buildings built with 3D printable concrete, M25 concrete and conventional brick masonry. The results indicate that the performance of 3D printable concrete as the building envelope is lowest in both these criteria, in comparison to other materials. This necessitates further experimental studies in this domain and improvement of materials used for 3D printing in order to address the concerns of sustainability associated with using it in construction. The study, therefore, enlightens on the relevance of examining the sustainability performance of a new technology being implemented in the construction sector to prevent long-term negative environmental impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
@@ -92,8 +72,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../zuo_gong_huan.2017.Po3PiCbUCCT/">Performance of 3D Printing in Construction by Using Computer-Control-Technology</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>
       <li><a href="../../../author/arumugam_girirajan"><b>Arumugam</b> Girirajan</a>, <a href="../../../author/kusumo_camerlia-may-li"><b>Kusumo</b> Camerlia May Li</a>, <a href="../../../author/mari_salvi_tamil"><b>Mari</b> Tamil</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../arum_kusu_mari.2025.IoBIPotTaEEo3CPBE/">Impact of Bioinspired Infill Pattern on the Thermal and Energy Efficiency of 3D Concrete Printed Building Envelope</a></li>
       <li><a href="../../../author/niroumand_hamed"><b>Niroumand</b> Hamed</a>, <a href="../../../author/balachowski_lech"><b>Bałachowski</b> Lech</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../niro_baa.2025.GBw3PEM/">Green Building with 3D Printed Earth Materials:<br/>Current Issues and Future Prospects of 3D Printed Green Houses for the Construction Sector</a></li>
@@ -113,4 +93,33 @@ tags:
       <li><a href="../../../author/ayegba_onyeche_blessing"><b>Ayegba</b> Blessing</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/nazar_matin_ali"><b>Nazar</b> Ali</a>, <a href="../../../author/huang_mingzhi"><b>Huang</b> Mingzhi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ayeg_egbe_naza_huan.2022.REaTCo3PCBEObPEI/">Resource Efficiency and Thermal Comfort of 3D Printable Concrete Building Envelopes Optimized by Performance Enhancing Insulation:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sunt_upas_naga_pool.2022.FEMtPtFPoBI3PCWPEtRF/">Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{maha_fran_thom.2020.ASBIoSAo3PS,
+      author            = "Meera Mahadevan and Ann Francis and Albert Thomas",
+      title             = "A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures",
+      doi               = "10.1016/j.jobe.2020.101735",
+      year              = "2020",
+      journal           = "Journal of Building Engineering",
+      volume            = "32",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Mahadevan, A. Francis and A. Thomas, “A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures”, <i>Journal of Building Engineering</i>, vol. 32, 2020, doi: 10.1016/j.jobe.2020.101735.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mahadevan, Meera, Ann Francis, and Albert Thomas. “A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures”. <i>Journal of Building Engineering</i> 32 (2020). https://doi.org/10.1016/j.jobe.2020.101735.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

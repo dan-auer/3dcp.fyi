@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yazeed Noaimat, Mehdi Chougan, Mazen Kheetan, Othman Mandhari, Waleed Al-Saidi, Marwan Al-Maqbali, Haitham Al-Hosni, Seyed Ghaffar
+    - footer
+title: Noaimat Yazeed, Chougan Mehdi, Kheetan Mazen, Mandhari Othman, Al-Saidi Waleed, Al-Maqbali Marwan, Al-Hosni Haitham, Ghaffar Seyed
 description:
 tags:
  - cement
@@ -17,37 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rineng.2023.101115) 3D Printing of Limestone-Calcined-Clay-Cement:<br/>:aca-blank: A Review of Its Potential Implementation in the Construction-Industry ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.rineng.2023.101115" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2023.101115</a>
+#3D Printing of Limestone-Calcined-Clay-Cement&nbsp;([2023-04](date/2023/04))
+<div class="h1-like">A Review of Its Potential Implementation in the Construction-Industry</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2023.101115) <a href="https://doi.org/10.1016/j.rineng.2023.101115" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2023.101115" target="_blank">10.1016/j.rineng.2023.101115</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noaimat_afet-adnan_yazeed"><b>al&nbsp;Noaimat</b>&nbsp;Yazeed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kheetan_j_mazen"><b>al&nbsp;Kheetan</b>&nbsp;Mazen</a></span>, <a href="../../../author/mandhari_othman"><b>al&nbsp;Mandhari</b>&nbsp;Othman</a></span>, <a href="../../../author/al-saidi_waleed"><b>Al-Saidi</b>&nbsp;Waleed</a></span>, <a href="../../../author/al-maqbali_marwan"><b>Al-Maqbali</b>&nbsp;Marwan</a></span>, <a href="../../../author/al-hosni_haitham"><b>Al-Hosni</b>&nbsp;Haitham</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span><br>
+Journal Article - Results in Engineering, Vol. 18
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/noaimat_afet-adnan_yazeed"><b>al Noaimat</b> Yazeed</a> <a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kheetan_j_mazen"><b>al Kheetan</b> Mazen</a> <a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mandhari_othman"><b>al Mandhari</b> Othman</a>
-,     <a href="../../../author/al-saidi_waleed"><b>Al-Saidi</b> Waleed</a>
-,     <a href="../../../author/al-maqbali_marwan"><b>Al-Maqbali</b> Marwan</a>
-,     <a href="../../../author/al-hosni_haitham"><b>Al-Hosni</b> Haitham</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, Vol. 18, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#construction`](keyword/construction)
-    [`#implementation`](keyword/implementation)
-    [`#industry`](keyword/industry)
-    [`#limestone`](keyword/limestone)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Limestone-Calcined-Clay-Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153562908&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366401144" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2023.101115" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2023.101115?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rapid development in 3D printing applications requires exploring a sustainable printable mixture to decrease the environmental impact induced by the existing Ordinary Portland Cement (OPC) mixtures and enable 3D printing technology to reach its peak efficiency. The high-volume substitution of OPC with supplementary cementitious materials (SCMs) is of significant interest as a promising solution for developing low-carbon feedstock for 3D printing. Yet, those materials share the problem of limited availability. The combination of limestone and calcined clay could be a promising alternative, offering various benefits, including replacing OPC in high ratios. This paper reviews 3D printable limestone calcined clay cement (LC3) mixtures, compositions, and chemical behaviour. The effect of different sand-to-binder ratios, additives content, OPC replacement levels, clay grade and calcination, and admixtures on the fresh, hardened and printing properties of the 3D printed mixtures are critically discussed. The environmental impact and production cost of the LC3 system compared to OPC and other systems are also critically evaluated along with the applications, future directions and research gaps in this field. The findings of this review show that 3D printed LC3 has a similar hardened performance and better microstructure than OPC system. Moreover, cast LC3 system has 30–50% lower environmental impacts depending on the replacement level and better economic feasibility than OPC. Therefore, making it a suitable feedstock for the innovative manufacturing technology of 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "53 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
@@ -127,8 +101,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
@@ -153,4 +127,33 @@ tags:
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
       <li><a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>, <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>, <a href="../../../author/haddaji_badreddine"><b>Haddaji</b> Badreddine</a>, <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arre_fabi_hadd_chat.2023.RoAi3PToCM/">Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>Key Printing Parameters and Properties Characterization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{noai_chou_khee_mand.2023.3PoLCCC,
+      author            = "Yazeed Afet Adnan Al Noaimat and Mehdi Chougan and Mazen J. al Kheetan and Othman Al Mandhari and Waleed Al-Saidi and Marwan Al-Maqbali and Haitham Al-Hosni and Seyed Hamidreza Ghaffar",
+      title             = "3D Printing of Limestone-Calcined-Clay-Cement: A Review of Its Potential Implementation in the Construction-Industry",
+      doi               = "10.1016/j.rineng.2023.101115",
+      year              = "2023",
+      journal           = "Results in Engineering",
+      volume            = "18",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. A. A. A. Noaimat, “3D Printing of Limestone-Calcined-Clay-Cement: A Review of Its Potential Implementation in the Construction-Industry”, <i>Results in Engineering</i>, vol. 18, 2023, doi: 10.1016/j.rineng.2023.101115.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Noaimat, Yazeed Afet Adnan Al, Mehdi Chougan, Mazen J. al Kheetan, Othman Al Mandhari, Waleed Al-Saidi, Marwan Al-Maqbali, Haitham Al-Hosni, and Seyed Hamidreza Ghaffar. “3D Printing of Limestone-Calcined-Clay-Cement: A Review of Its Potential Implementation in the Construction-Industry”. <i>Results in Engineering</i> 18 (2023). https://doi.org/10.1016/j.rineng.2023.101115.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

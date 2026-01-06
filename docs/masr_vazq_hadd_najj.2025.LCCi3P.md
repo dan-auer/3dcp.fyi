@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdullah Masri, Elaine Vazquez, Assed Haddad, Mohammed Najjar
+    - footer
+title: Masri Abdullah, Vazquez Elaine, Haddad Assed, Najjar Mohammed
 description:
 tags:
  - cost
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Life Cycle Costing in 3D Printing:<br/>:aca-blank: A Literature Review ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1007/978-3-032-08224-4_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-032-08224-4_32</a>
+#Life Cycle Costing in 3D Printing&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">A Literature Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-032-08224-4_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-08224-4_32" target="_blank">10.1007/978-3-032-08224-4_32</a>
 
--------------------------
+<a href="../../../author/masri_al_abdullah"><b>Masri</b>&nbsp;Abdullah</a></span>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b>&nbsp;Elaine</a></span>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b>&nbsp;Assed</a></span>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b>&nbsp;Mohammed</a></span><br>
+Contribution - Proceedings of the 7th International Congress on Recovery, Maintenance and Rehabilitation of Buildings, pp. 378-389
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>
-,     <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>
-,     <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>
-,     <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 7th International Congress on Recovery, Maintenance and Rehabilitation of Buildings, pp. 378-389
-
-:aca-blank:{ .lg .middle}
-    [`#cost`](keyword/cost)
-    [`#cycle`](keyword/cycle)
-    [`#life`](keyword/life)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Costing%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021816308&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415696731" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-032-08224-4_32" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-032-08224-4_32?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This literature review investigates the current state of Life Cycle Cost Analysis (LCCA) in the context of 3D-Printing, synthesizing findings from 20 peer-reviewed studies published between 2019 and 2024. While 3D Printing introduces efficiencies such as reduced material use and labor costs, these benefits are often counterbalanced by elevated energy consumption, particularly in energy-intensive techniques like powder-bed fusion. The analysis reveals several key limitations in existing LCCA practices, including inconsistent cost categorization, limited availability of long-term maintenance data, and a lack of analytical tools suited to additive manufacturing (AM) specific factors such as printer depreciation and digital modeling requirements. Although general-purpose LCCA software like Tally and SimaPro has been applied, their accuracy is constrained by the absence of comprehensive cost benchmarks specific to 3D printing in construction. To advance the field, the review highlights three critical research priorities: establishing standardized cost reporting frameworks, developing open-access databases for AM construction costs, and integrating probabilistic modeling with Building Information Modeling (BIM) to better handle uncertainties. These improvements are essential for conducting robust economic assessments and supporting data-driven decision-making as 3D-printing moves from experimental use to mainstream adoption in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
@@ -79,7 +61,37 @@ tags:
       <li><a href="../../../author/yang_hongxiong"><b>Yang</b> Hongxiong</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>, <a href="../../../author/chen_yuhong"><b>Chen</b> Yuhong</a>, <a href="../../../author/li_yijia"><b>Li</b> Yijia</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../yang_chun_chen_li.2018.TCCMoC3PAwIoT/">The Cost Calculation Method of Construction 3D Printing Aligned with Internet of Things</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{masr_vazq_hadd_najj.2025.LCCi3P,
+      author            = "Abdullah al Masri and Elaine Garrido Vazquez and Assed Naked Haddad and Mohammed K. Najjar",
+      title             = "Life Cycle Costing in 3D Printing: A Literature Review",
+      doi               = "10.1007/978-3-032-08224-4_32",
+      year              = "2025",
+      volume            = "769",
+      pages             = "378--389",
+      booktitle         = "Proceedings of the 7th International Congress on Recovery, Maintenance and Rehabilitation of Buildings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. al Masri, E. G. Vazquez, A. N. Haddad and M. K. Najjar, “Life Cycle Costing in 3D Printing: A Literature Review”, in <i>Proceedings of the 7th International Congress on Recovery, Maintenance and Rehabilitation of Buildings</i>,  2025, vol. 769, pp. 378–389. doi: 10.1007/978-3-032-08224-4_32.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Masri, Abdullah al, Elaine Garrido Vazquez, Assed Naked Haddad, and Mohammed K. Najjar. “Life Cycle Costing in 3D Printing: A Literature Review”. In <i>Proceedings of the 7th International Congress on Recovery, Maintenance and Rehabilitation of Buildings</i>, 769:378–89, 2025. https://doi.org/10.1007/978-3-032-08224-4_32.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

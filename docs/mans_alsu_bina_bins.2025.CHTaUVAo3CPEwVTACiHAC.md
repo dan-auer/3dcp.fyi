@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abraham Mansouri, Abdulla Alsuwaidi, Alreem Binali, Essa Binshaqooi, Mohammad Tayeb, Ahmed Alhammadi, Hussain Alyasi, Abdulla Aljawi, Arun Murali
+    - footer
+title: Mansouri Abraham, Alsuwaidi Abdulla, Binali Alreem, Binshaqooi Essa, Tayeb Mohammad, Alhammadi Ahmed, Alyasi Hussain, Aljawi Abdulla, Murali Arun
 description:
 tags:
  - air
@@ -20,41 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1002/htj.70066" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/htj.70066</a>
+#Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/htj.70066" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/htj.70066" target="_blank">10.1002/htj.70066</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mansouri_abraham"><b>Mansouri</b>&nbsp;Abraham</a></span>, <a href="../../../author/alsuwaidi_abdulla"><b>Alsuwaidi</b>&nbsp;Abdulla</a></span>, <a href="../../../author/binali_alreem"><b>Binali</b>&nbsp;Alreem</a></span>, <a href="../../../author/binshaqooi_essa"><b>Binshaqooi</b>&nbsp;Essa</a></span>, <a href="../../../author/tayeb_mohammad"><b>Tayeb</b>&nbsp;Mohammad</a></span>, <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b>&nbsp;Ahmed</a></span>, <a href="../../../author/alyasi_hussain"><b>Alyasi</b>&nbsp;Hussain</a></span>, <a href="../../../author/aljawi_abdulla"><b>Aljawi</b>&nbsp;Abdulla</a></span>, <a href="../../../author/murali_arun"><b>Murali</b>&nbsp;Arun</a></span><br>
+Journal Article - Heat Transfer
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> <a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alsuwaidi_abdulla"><b>Alsuwaidi</b> Abdulla</a>
-,     <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>
-,     <a href="../../../author/binshaqooi_essa"><b>Binshaqooi</b> Essa</a>
-,     <a href="../../../author/tayeb_mohammad"><b>Tayeb</b> Mohammad</a>
-,     <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b> Ahmed</a>
-,     <a href="../../../author/alyasi_hussain"><b>Alyasi</b> Hussain</a>
-,     <a href="../../../author/aljawi_abdulla"><b>Aljawi</b> Abdulla</a>
-,     <a href="../../../author/murali_arun"><b>Murali</b> Arun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Heat Transfer, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#analysis`](keyword/analysis)
-    [`#arid`](keyword/arid)
-    [`#cavity`](keyword/cavity)
-    [`#climate`](keyword/climate)
-    [`#concrete`](keyword/concrete)
-    [`#envelope`](keyword/envelope)
-    [`#heat`](keyword/heat)
-    [`#print`](keyword/print)
-    [`#thickness`](keyword/thickness)
-    [`#value`](keyword/value)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/arid"><button class="btn">#arid</button></a> <a href="../../keyword/cavity"><button class="btn">#cavity</button></a> <a href="../../keyword/climate"><button class="btn">#climate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> <a href="../../keyword/value"><button class="btn">#value</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Conjugate%20Heat%20Transfer%20and%20U%20Value%20Analysis%20of%203D%20Concrete%20Printed%20Envelopes%20with%20Variable%E2%80%90Thickness%20Air%20Cavities%20in%20Hot%E2%80%90Arid%20Climates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017062020&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414421201" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/htj.70066" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/htj.70066?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The design freedom of three-dimensional (3D) concrete printing (3DCP) enables complex building envelopes with integrated air cavities; however, their thermal performance in extreme climates poses a critical challenge, particularly for cavities with nonuniform geometries. This study presents a combined experimental and numerical analysis of conjugate heat transfer in a real 3DCP building envelope featuring variable-thickness air cavities under hot-arid conditions. A comprehensive methodological framework was employed: (1) in situ U value measurements on north and slanted east cavity walls (3.75 m tall; max cavity width, 900 mm) with and without interior insulation, (2) development of a robust numerical model to simulate conjugate heat transfer across laminar to turbulent flow regimes, and (3) whole-building cooling load estimation for the 168 m2 structure. Results demonstrate that wide cavities (> 25 mm) develop strong buoyancy-driven circulation (Ra ≈ 10¹¹ at ΔT = 20 K), severely degrading insulating performance and yielding high U values of 2.67–3.29 W/(m2 K) for uninsulated walls—approximately 30% higher cooling loads than standard construction. Crucially, parametric analysis reveals that filling cavities with low-conductivity porous media (e.g., sand and k = 0.27 W/[m K]) effectively suppresses convection, restoring thermal performance to near pure conduction levels and reducing U values by up to 82% when complemented with insulation. These findings provide essential, practical strategies for optimizing energy efficiency in future 3DCP buildings constructed in hot-arid climates.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../kasz_olcz_tech_skib.2019.THPo3PW/">Thermal-Humidity Parameters of 3D Printed Wall</a></li>
@@ -89,8 +58,36 @@ tags:
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../tami_hass_rodr_alha.2023.TPo3CPW/">Thermal Performance of 3D Concrete Printed Walls:<br/>Calculated and In-Situ Measured U-Values</a></li>
       <li><a href="../../../author/yin_hongxi"><b>Yin</b> Hongxi</a>, <a href="../../../author/qu_ming"><b>Qu</b> Ming</a>, <a href="../../../author/zhang_haiyan"><b>Zhang</b> Haiyan</a>, <a href="../../../author/lim_yechan"><b>Lim</b> YeChan</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../yin_qu_zhan_lim.2018.3PaB/">3D Printing and Buildings:<br/>A Technology Review and Future Outlook</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a>, <a href="../../../author/birhane_bezawit"><b>Birhane</b> Bezawit</a>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b> Nuhamin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mans_mour_birh_denb.2025.NMoTRi3CPBEUISaA/">Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mans_alsu_bina_bins.2025.CHTaUVAo3CPEwVTACiHAC,
+      author            = "Abraham Mansouri and Abdulla Alsuwaidi and Alreem Binali and Essa Binshaqooi and Mohammad Tayeb and Ahmed Alhammadi and Hussain Alyasi and Abdulla Aljawi and Arun Murali",
+      title             = "Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates",
+      doi               = "10.1002/htj.70066",
+      year              = "2025",
+      journal           = "Heat Transfer",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Mansouri, “Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates”, <i>Heat Transfer</i>, 2025, doi: 10.1002/htj.70066.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mansouri, Abraham, Abdulla Alsuwaidi, Alreem Binali, Essa Binshaqooi, Mohammad Tayeb, Ahmed Alhammadi, Hussain Alyasi, Abdulla Aljawi, and Arun Murali. “Conjugate Heat Transfer and U Value Analysis of 3D Concrete Printed Envelopes with Variable‐Thickness Air Cavities in Hot‐Arid Climates”. <i>Heat Transfer</i>, 2025. https://doi.org/10.1002/htj.70066.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

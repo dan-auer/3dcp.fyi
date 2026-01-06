@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Zhang, Xiaohong Zhu, Muduo Li, Yuying Zhang, Yamei Zhang, Nemkumar Banthia, Hailong Ye, Daniel Tsang
+    - footer
+title: Zhang Chao, Zhu Xiaohong, Li Muduo, Zhang Yuying, Zhang Yamei, Banthia Nemkumar, Ye Hailong, Tsang Daniel
 description:
 tags:
  - adhesion
@@ -14,34 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106383" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106383</a>
+#Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106383" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106383" target="_blank">10.1016/j.cemconcomp.2025.106383</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_xiaohong"><b>Zhu</b>&nbsp;Xiaohong</a></span>, <a href="../../../author/li_muduo"><b>Li</b>&nbsp;Muduo</a></span>, <a href="../../../author/zhang_yuying"><b>Zhang</b>&nbsp;Yuying</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <a href="../../../author/ye_hailong"><b>Ye</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tsang_c-w_daniel"><b>Tsang</b>&nbsp;Daniel</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 106383
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> <a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a> <a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>
-,     <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_hailong"><b>Ye</b> Hailong</a>
-,     <a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> <a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 106383
-
-:aca-blank:{ .lg .middle}
-    [`#adhesion`](keyword/adhesion)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#integration`](keyword/integration)
-    [`#interface`](keyword/interface)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Interface%20Adhesion%20of%203D%20Printable%20Concrete%20by%20Biochar%20Integration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020663839&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415602162" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106383" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106383?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interface adhesion is critical to ensuring the integrity of 3D printable concrete (3DPC) structures, but is susceptible to the negative effects of the printing environment and printing time interval. Here, we innovatively propose an approach to improve interface adhesion for 3DPC using engineered biochar. Our results demonstrated that biochar reduced the dynamic yield stress by 16% and plastic viscosity by 52% without compromising the static yield stress and improved the flow velocity gradient in the extrusion process. The characteristics of the printing process shifted from pore generation to pore removal, and interfacial porosity was reduced by 61%, thus strengthening the interface adhesion for 3DPC. The increases in interfacial microcrack width and porosity were linearly correlated with the surface moisture loss and the growth in rigidity of the substrate layers, respectively. Biochar, as a porous biocarbon with the capacity of moisture regulation, could mitigate the moisture loss and rigidness growth for the substrate layers, reducing the interfacial microcrack width by 64.4% and porosity by 23.8% and enhancing bond strength by 21.3% for 3DPC at the time interval of 60 min. This low-carbon enhancement interface adhesion would broaden the applicability and resilience of concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -105,7 +81,36 @@ tags:
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_zhu_li_zhan.2025.EIAo3PCbBI,
+      author            = "Chao Zhang and Xiaohong Zhu and Muduo Li and Yuying Zhang and Yamei Zhang and Nemkumar Banthia and Hailong Ye and Daniel C. W. Tsang",
+      title             = "Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration",
+      doi               = "10.1016/j.cemconcomp.2025.106383",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      pages             = "106383",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Zhang, “Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration”, <i>Cement and Concrete Composites</i>, p. 106383, 2025, doi: 10.1016/j.cemconcomp.2025.106383.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Chao, Xiaohong Zhu, Muduo Li, Yuying Zhang, Yamei Zhang, Nemkumar Banthia, Hailong Ye, and Daniel C. W. Tsang. “Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration”. <i>Cement and Concrete Composites</i>, 2025, 106383. https://doi.org/10.1016/j.cemconcomp.2025.106383.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

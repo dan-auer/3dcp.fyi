@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mihir Mogra, Ofer Asaf, Aaron Sprecher, Oded Amir
+    - footer
+title: Mogra Mihir, Asaf Ofer, Sprecher Aaron, Amir Oded
 description:
 tags:
  - buildability
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design-Optimization of 3D Printed Concrete Elements Considering Buildability ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.engstruct.2023.116735" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.engstruct.2023.116735</a>
+#Design-Optimization of 3D Printed Concrete Elements Considering Buildability ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.116735" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116735" target="_blank">10.1016/j.engstruct.2023.116735</a>
 
--------------------------
+<a href="../../../author/mogra_mihir"><b>Mogra</b>&nbsp;Mihir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asaf_ofer"><b>Asaf</b>&nbsp;Ofer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprecher_aaron"><b>Sprecher</b>&nbsp;Aaron</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-3286" title="ORCID: 0000-0002-2871-3286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amir_oded"><b>Amir</b>&nbsp;Oded</a></span><br>
+Journal Article - Engineering Structures, Vol. 294, No. 116735
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mogra_mihir"><b>Mogra</b> Mihir</a>
-,     <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a> <a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="https://orcid.org/0000-0002-2871-3286" title="ORCID: 0000-0002-2871-3286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Structures, Vol. 294, No. 116735
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#element`](keyword/element)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design-Optimization%20of%203D%20Printed%20Concrete%20Elements%20Considering%20Buildability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85167815372&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386017152" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.engstruct.2023.116735" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.engstruct.2023.116735?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, we propose an integration of 3D concrete printing buildability requirements into a formal structural optimization problem. The aim is to enable the design of a structural element while balancing between its performance as a load-bearing element and its stability during the printing process. Physical buildability is quantified by stress constraints imposed on the fresh concrete, whose time-dependent strength is determined according to a rheological material characterization. This is complemented by geometric buildability that is achieved by imposing constraints on the overlap between layers. The output of optimization is the shape of the structure and the time instance at which each layer is deposited. Several prototypes were printed for verifying the numerical buildability predictions, showing acceptable quantitative agreement between theory and experiments. A critical trade-off between structural performance and buildability is exposed, that emphasizes the need for further development of holistic methodologies that integrate structural design, material design and tooling limitations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../anto_yoo_beda_reit.2019.VM/">Vertical Modulations</a></li>
@@ -98,8 +78,9 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>
@@ -118,4 +99,34 @@ tags:
       <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kuma_pand_muth.2023.ASPEFf3CPSCtSEitBD/">A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mogr_asaf_spre_amir.2023.DOo3PCECB,
+      author            = "Mihir Mogra and Ofer Asaf and Aaron Sprecher and Oded Amir",
+      title             = "Design-Optimization of 3D Printed Concrete Elements Considering Buildability",
+      doi               = "10.1016/j.engstruct.2023.116735",
+      year              = "2023",
+      journal           = "Engineering Structures",
+      volume            = "294",
+      pages             = "116735",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Mogra, O. Asaf, A. Sprecher and O. Amir, “Design-Optimization of 3D Printed Concrete Elements Considering Buildability”, <i>Engineering Structures</i>, vol. 294, p. 116735, 2023, doi: 10.1016/j.engstruct.2023.116735.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mogra, Mihir, Ofer Asaf, Aaron Sprecher, and Oded Amir. “Design-Optimization of 3D Printed Concrete Elements Considering Buildability”. <i>Engineering Structures</i> 294 (2023): 116735. https://doi.org/10.1016/j.engstruct.2023.116735.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

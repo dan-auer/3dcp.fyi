@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Xiaodi Dai, Geert Schutter, Kim Tittelboom
+    - footer
+title: Tao Yaxin, Dai Xiaodi, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - activation
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Adhesion Performance of Alkali-Activated Material for 3D Printing of Tunnel Linings at Different Temperatures ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1007/s11709-024-1067-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-024-1067-1</a>
+#Adhesion Performance of Alkali-Activated Material for 3D Printing of Tunnel Linings at Different Temperatures ([2024-05](date/2024/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-024-1067-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1067-1" target="_blank">10.1007/s11709-024-1067-1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_xiaodi"><b>Dai</b>&nbsp;Xiaodi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> <a href="https://orcid.org/0000-0002-6260-7786" title="ORCID: 0000-0002-6260-7786" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#adhesion`](keyword/adhesion)
-    [`#alkali`](keyword/alkali)
-    [`#difference`](keyword/difference)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-    [`#tunnel`](keyword/tunnel)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Adhesion%20Performance%20of%20Alkali-Activated%20Material%20for%203D%20Printing%20of%20Tunnel%20Linings%20at%20Different%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193013102&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396899030" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-024-1067-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-024-1067-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Robotic-based technologies such as automated spraying or extrusion-based 3-dimensional (3D) concrete printing can be used to build tunnel linings, aiming at reducing labor and mitigating the associated safety issues, especially in the high-geothermal environment. Extrusion-based 3D concrete printing (3DCP) has additional advantages over automated sprayings, such as improved surface quality and no rebound. However, the effect of different temperatures on the adhesion performance of 3D-printed materials for tunnel linings has not been investigated. This study developed several alkali-activated slag mixtures with different activator modulus ratios to avoid the excessive use of Portland cement and enhance sustainability of 3D printable materials. The thermal responses of the mixtures at different temperatures of 20 and 40 °C were studied. The adhesion strength of the alkali-activated material was evaluated for both early and later ages. Furthermore, the structural evolution of the material exposed to different temperatures was measured. This was followed by microstructure characterization. Results indicate that elevated temperatures accelerate material reactions, resulting in improved early-age adhesion performance. Moreover, higher temperatures contribute to the development of a denser microstructure and enhanced mechanical strength in the hardened stage, particularly in mixtures with higher silicate content.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../dai_tao_titt_schu.2023.RaMPo3PAASMwAoNC/">Rheological and Mechanical Properties of 3D Printable Alkali-Activated Slag Mixtures with Addition of Nano Clay</a></li>
       <li><a href="../../../author/ennab_lena"><b>Ennab</b> Lena</a>, <a href="../../../author/dixit_kumar_manish"><b>Dixit</b> Manish</a>, <a href="../../../author/birgisson_bjorn"><b>Birgisson</b> Bjorn</a>, <a href="../../../author/kumar_pradeep_pranav"><b>Kumar</b> Pranav</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../enna_dixi_birg_kuma.2022.CLCAoLS3PUKBCSCCaCC/">Comparative Life Cycle Assessment of Large-Scale 3D Printing Utilizing Kaolinite-Based Calcium-Sulfoaluminate-Cement Concrete and Conventional Construction</a></li>
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
@@ -87,12 +64,39 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_lesa_titt_yuan.2022.IoSSRaMCoTAPo3PC/">Influence of Substrate-Surface-Roughness and Moisture-Content on Tensile Adhesion Performance of 3D Printable Concrete</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tao_ren_lesa_titt.2022.SSo3PCwRaMSCbSF/">Shape Stability of 3D Printable Concrete with River and Manufactured Sand Characterized by Squeeze Flow</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_ren_vant_lesa.2023.E3CPtHRTL/">Extending 3D Concrete Printing to Hard Rock Tunnel Linings:<br/>Adhesion of Fresh Cementitious Materials for Different Surface Inclinations</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
       <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../vone_odag_brum_dill.2021.FCt3PG/">From Casting to 3D Printing Geopolymers:<br/>A Proof of Concept</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_dai_schu_titt.2024.APoAAMf3PoTLaDT,
+      author            = "Yaxin Tao and Xiaodi Dai and Geert de Schutter and Kim van Tittelboom",
+      title             = "Adhesion Performance of Alkali-Activated Material for 3D Printing of Tunnel Linings at Different Temperatures",
+      doi               = "10.1007/s11709-024-1067-1",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, X. Dai, G. de Schutter and K. van Tittelboom, “Adhesion Performance of Alkali-Activated Material for 3D Printing of Tunnel Linings at Different Temperatures”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-024-1067-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Xiaodi Dai, Geert de Schutter, and Kim van Tittelboom. “Adhesion Performance of Alkali-Activated Material for 3D Printing of Tunnel Linings at Different Temperatures”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-024-1067-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

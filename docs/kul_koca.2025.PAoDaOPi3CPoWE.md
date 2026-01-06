@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anil Kul, Öznur Kocaer
+    - footer
+title: Kul Anil, Kocaer Öznur
 description:
 tags:
  - analysis
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114494" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114494</a>
+#Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114494" target="_blank">10.1016/j.jobe.2025.114494</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kul_anil"><b>Kul</b>&nbsp;Anil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0611-2284" title="ORCID: 0000-0003-0611-2284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kocaer_oznur"><b>Kocaer</b>&nbsp;Öznur</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114494
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> <a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="https://orcid.org/0000-0003-0611-2284" title="ORCID: 0000-0003-0611-2284" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114494
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#element`](keyword/element)
-    [`#operation`](keyword/operation)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Parametric%20Analysis%20of%20Design%20and%20Operational%20Parameters%20in%203D%20Concrete%20Printing%20of%20Wall%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020373249&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415628800" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114494" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114494?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The transformative potential of 3D concrete printing (3DCP) in construction is increasingly evident, promising enhanced precision, reduced waste, greater design flexibility, and improved cost and energy efficiency. However, challenges remain in process optimization, material formulation, and industrial scalability. Integrating advanced numerical modeling with experimental validation is essential for accurately predicting structural behavior, minimizing defects, and developing robust printing strategies. This study employed validated numerical models to analyze failure mechanisms and structuration performance of 3D-printed wall elements across various geometric configurations, and printing parameters. Validation was performed using data from literature and laboratory experiments. A parametric study examined key factors like wall geometry, layer width, and operational parameters affecting structuration (i.e., buildability) performance. Results highlighted the significant influence of pre-design decisions, with overall structural design and layer dimensions proving critical to stability. Specifically, low-aspect-ratio walls increased maximum printable height by up to 330%. In addition, layer aspect ratio improved performance by up to 145% in the base configuration, while printing speed accounted for only about a 30% variation in height, underscoring its secondary role. By systematically exploring design and process interactions, the research identifies optimal configurations that enhance structuration while minimizing instability risks. These insights contribute to the broader adoption of 3DCP by addressing potential issues during the design phase. This work underscores the importance of tailored pre-design strategies in optimizing 3DCP for sustainable, scalable, and efficient construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
@@ -93,7 +73,36 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kul_koca.2025.PAoDaOPi3CPoWE,
+      author            = "Anil Kul and Öznur Kocaer",
+      title             = "Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements",
+      doi               = "10.1016/j.jobe.2025.114494",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114494",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kul  and Ö. Kocaer, “Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements”, <i>Journal of Building Engineering</i>, p. 114494, 2025, doi: 10.1016/j.jobe.2025.114494.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kul, Anil, and Öznur Kocaer. “Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements”. <i>Journal of Building Engineering</i>, 2025, 114494. https://doi.org/10.1016/j.jobe.2025.114494.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

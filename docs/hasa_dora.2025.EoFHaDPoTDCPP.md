@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alireza Hasani, Sattar Dorafshan
+    - footer
+title: Hasani Alireza, Dorafshan Sattar
 description:
 tags:
  - concrete
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes ([2025-11](date/2025/11))
-<a href="https://doi.org/10.14359/51749126" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51749126</a>
+#Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes ([2025-11](date/2025/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51749126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51749126" target="_blank">10.14359/51749126</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-0171-5047" title="ORCID: 0009-0008-0171-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasani_alireza"><b>Hasani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8307-9193" title="ORCID: 0000-0002-8307-9193" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorafshan_sattar"><b>Dorafshan</b>&nbsp;Sattar</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 122, Iss. 6, pp. 73-84
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a> <a href="https://orcid.org/0009-0008-0171-5047" title="ORCID: 0009-0008-0171-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="https://orcid.org/0000-0002-8307-9193" title="ORCID: 0000-0002-8307-9193" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 122, Iss. 6, pp. 73-84
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#durability`](keyword/durability)
-    [`#evaluation`](keyword/evaluation)
-    [`#fresh`](keyword/fresh)
-    [`#hardened`](keyword/hardened)
-    [`#pipe`](keyword/pipe)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Fresh%2C%20Hardened%2C%20and%20Durability%20Properties%20of%20Three-Dimensional%20Concrete%20Printed%20Pipes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414654943" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51749126" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51749126?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive construction augments the laborious construction of structural concrete; however, its implementation remains mostly limited to building envelopes. Culvert construction benefits from alternative methods due to the high demand for transportation infrastructure. In this study, extrusion-based three-dimensional concrete printing (3DCP) is developed for the first time for culvert construction. Large-scale unreinforced concrete pipes were printed, and the early-stage (for example, buildability), mechanical, and durability properties of two commercially available 3DCP materials were determined. Additionally, the specimens were tested structurally and exceeded the expected structural performance (by approximately an average of 32%) under the three-edge bearing test. However, the desired durability was not met due to the porosity of the specimens. The mixture design with microfibers exhibited marginally higher compressive and tensile strength but did not meet durability criteria similar to non-fiber material. Results indicated the 3DCP feasibility for pipe culvert construction and mapped further direction for widespread implementation and addressing concrete pipe durability issues.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/atkinson_d_cynthia"><b>Atkinson</b> Cynthia</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../atki_asla.2023.Po3PCUSSCC/">Performance of 3D Printed Columns Using Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../digg_krei.2021.UITAtAitAoSEQfAC/">Using Isolated Temporal Analysis to Aid in the Assessment of Structural Element Quality for Additive Construction</a></li>
@@ -104,7 +82,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hasa_dora.2025.EoFHaDPoTDCPP,
+      author            = "Alireza Hasani and Sattar Dorafshan",
+      title             = "Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes",
+      doi               = "10.14359/51749126",
+      year              = "2025",
+      journal           = "ACI Materials Journal",
+      volume            = "122",
+      number            = "6",
+      pages             = "73--84",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Hasani  and S. Dorafshan, “Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes”, <i>ACI Materials Journal</i>, vol. 122, no. 6, pp. 73–84, 2025, doi: 10.14359/51749126.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hasani, Alireza, and Sattar Dorafshan. “Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes”. <i>ACI Materials Journal</i> 122, no. 6 (2025): 73–84. https://doi.org/10.14359/51749126.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Li Wengui 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/ren_juanjuan"><b>Ren</b> Juanjuan</a>, <a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zhan_ren_zhan_guo.2025.AIRDT3PCT/">Advanced Impact Resistance Design Through 3D-Printed Concrete Technology:<br/>Unleashing the Potential of Additive Manufacturing for Protective Structures</a></li>
   <li><a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sun_li_liu_chen.2024.CPaDMoCSCCbSWR3/">Compressive Performance and Damage Mechanism of Concrete Short Columns Confined by Steel-Wires-Reinforced 3DPM</a></li>
   <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a>, <a href="../../../author/li_wengui"><b>Li</b> Wengui</a>, <a href="../../../author/guo_yipu"><b>Guo</b> Yipu</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wang_li_guo_kash.2024.C3PTfSC/">Concrete 3D Printing Technology for Sustainable Construction:<br/>A Review on Raw Material, Concrete Type and Performance</a></li>

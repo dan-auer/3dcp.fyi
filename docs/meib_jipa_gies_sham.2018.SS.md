@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mania Meibodi, Mihail-Andrei Jipa, Rena Giesecke, Demetris Shammas, Mathias Bernhard, Matthias Leschok, Konrad Graser, Benjamin Dillenburger
+    - footer
+title: Meibodi Mania, Jipa Mihail-Andrei, Giesecke Rena, Shammas Demetris, Bernhard Mathias, Leschok Matthias, Graser Konrad, Dillenburger Benjamin
 description:
 tags:
  - computer
@@ -16,36 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://papers.cumincad.org/data/works/att/acadia18_434.pdf) Smart Slab:<br/>:aca-blank: Computational Design and Digital Fabrication of a Lightweight Concrete Slab ([2018-10](date/2018/10))
-<a href="https://doi.org/10.52842/conf.acadia.2018.434" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.acadia.2018.434</a>
+#Smart Slab&nbsp;([2018-10](date/2018/10))
+<div class="h1-like">Computational Design and Digital Fabrication of a Lightweight Concrete Slab</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia18_434.pdf) <a href="https://doi.org/10.52842/conf.acadia.2018.434" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2018.434" target="_blank">10.52842/conf.acadia.2018.434</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b>&nbsp;Mania</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <a href="../../../author/giesecke_rena"><b>Giesecke</b>&nbsp;Rena</a></span>, <a href="../../../author/shammas_demetris"><b>Shammas</b>&nbsp;Demetris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5128-4723" title="ORCID: 0000-0002-5128-4723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bernhard_mathias"><b>Bernhard</b>&nbsp;Mathias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3601-7408" title="ORCID: 0000-0002-3601-7408" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leschok_matthias"><b>Leschok</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graser_konrad"><b>Graser</b>&nbsp;Konrad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Contribution - Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), pp. 434-443
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> <a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>
-,     <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a>
-,     <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a> <a href="https://orcid.org/0000-0002-5128-4723" title="ORCID: 0000-0002-5128-4723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a> <a href="https://orcid.org/0000-0002-3601-7408" title="ORCID: 0000-0002-3601-7408" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a> <a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), pp. 434-443
-
-:aca-blank:{ .lg .middle}
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#light`](keyword/light)
-    [`#slab`](keyword/slab)
-    [`#smart`](keyword/smart)
-
-
--------------------------
+<a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Smart%20Slab" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,23 +39,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2935705745" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52842/conf.acadia.2018.434" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52842/conf.acadia.2018.434?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The optimization of slab systems can have a large impact on buildings: more compact slabs allow for more usable space within the same building volume, refined structural concepts allow for material reduction, and integrated prefabrication can reduce complexity on the construction site. We present a novel slab system which reduces material through concentrating concrete in hierarchical ribs on a 20 mm thick concrete shell. This slab structure provides voids to integrate electrical conduits, sprinklers and lighting. It is prefabricated out of prestressed concrete elements, for which we introduce a hybrid formwork approach, combining 3D printing and CNC laser-cut timber formwork. The formwork is used with casting and spraying concrete to enable efficient fabrication of free-form geometry with highly detailed surfaces. A digital process chain connects the design of the elements, the integration of the building services and the fabrication data of the formwork. This research is demonstrated on the project Smart Slab, the first concrete slab using 3D printed formwork. The Smart Slab is around 70% lighter than a conventional concrete slab and showcases a new radical aesthetic with three-dimensional geometric differentiation on multiple scales. The project demonstrates the potential of 3D printing for custom formwork, especially when strategically synthesized with other CNC fabrication methods. This work provides an outlook on how digital fabrication can achieve more sustainable structures and can broaden the design possibilities of concrete in architecture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a> <a href="../../../date/2014/05">(2014-05)</a><br><a href="../../../gard_jans.2014.F/">FreeFab:<br/>Development of a Construction-Scale Robotic Formwork 3D Printer</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/pancho_paolo"><b>Pancho</b> Paolo</a>, <a href="../../../author/sanchez_daniela"><b>Sanchez</b> Daniela</a>, <a href="../../../author/poudel_suman"><b>Poudel</b> Suman</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../rami_panc_sanc_poud.2025.DaDoaLRCfC3P/">Design and Development of a Lean Robotic Cell for Concrete 3D Printing</a></li>
       <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>
       <li><a href="../../../author/vatandoost_mohsen"><b>Vatandoost</b> Mohsen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/buelow_peter"><b>Buelow</b> Peter</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../vata_mcge_buel.2024.UTL3PHCSfCC/">Ultra-Thin-Layered 3D Printed Hollow-Core Sections for Concrete Casting</a></li>
@@ -108,4 +84,34 @@ tags:
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../jipa_giac_gies_chou.2019.3PFfBCS/">3D Printed Formwork for Bespoke Concrete Stairs</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{meib_jipa_gies_sham.2018.SS,
+      author            = "Mania Aghaei Meibodi and Mihail-Andrei Jipa and Rena Giesecke and Demetris Shammas and Mathias Bernhard and Matthias Leschok and Konrad Graser and Benjamin Dillenburger",
+      title             = "Smart Slab: Computational Design and Digital Fabrication of a Lightweight Concrete Slab",
+      doi               = "10.52842/conf.acadia.2018.434",
+      year              = "2018",
+      pages             = "434--443",
+      booktitle         = "Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)",
+      editor            = "Phillip Anzalone and Marcella del Signore and Andrew John Wit",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Meibodi, “Smart Slab: Computational Design and Digital Fabrication of a Lightweight Concrete Slab”, in <i>Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)</i>,  2018, pp. 434–443. doi: 10.52842/conf.acadia.2018.434.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Meibodi, Mania Aghaei, Mihail-Andrei Jipa, Rena Giesecke, Demetris Shammas, Mathias Bernhard, Matthias Leschok, Konrad Graser, and Benjamin Dillenburger. “Smart Slab: Computational Design and Digital Fabrication of a Lightweight Concrete Slab”. In <i>Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA)</i>, edited by Phillip Anzalone, Marcella del Signore, and Andrew John Wit, 434–43, 2018. https://doi.org/10.52842/conf.acadia.2018.434.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

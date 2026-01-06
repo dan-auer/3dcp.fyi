@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongyu Zhao, Xiangyu Wang, Junbo Sun, Fei Wu, Xianda Liu, Zhaohui Chen, Yufei Wang
+    - footer
+title: Zhao Hongyu, Wang Xiangyu, Sun Junbo, Wu Fei, Liu Xianda, Chen Zhaohui, Wang Yufei
 description:
 tags:
  - analysis
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Automated Analysis System for Micro-Defects in 3D Printed Concrete ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.autcon.2025.106105" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106105</a>
+#Automated Analysis System for Micro-Defects in 3D Printed Concrete ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2025.106105" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106105" target="_blank">10.1016/j.autcon.2025.106105</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <a href="../../../author/wu_fei"><b>Wu</b>&nbsp;Fei</a></span>, <a href="../../../author/liu_xianda"><b>Liu</b>&nbsp;Xianda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span><br>
+Journal Article - Automation in Construction, Vol. 173, No. 106105
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> <a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_fei"><b>Wu</b> Fei</a>
-,     <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>
-,     <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 173, No. 106105
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#automation`](keyword/automation)
-    [`#concrete`](keyword/concrete)
-    [`#defect`](keyword/defect)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Analysis%20System%20for%20Micro-Defects%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219691322&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408253240" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106105" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106105?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The internal micro-defects of 3D printed concrete (3DPC) play a pivotal role in influencing its mechanical properties. Nonetheless, the acquisition of representative internal micro-defect information is hindered by computational inefficiencies and quantification limitations of the current equipment system. This paper proposes a deep learning based system to assist SEM equipment in automatically quantifying micro-defects of 3DPC for in-depth microstructural analysis that surpasses traditional SEM methods. Through optimal resizing approach and model enhancement tactics, the proposed micro-defect segmentation model leverages advantages of both convolutional neural networks and transformer. This improvement segmentation capability achieves higher accuracy and faster speed than current algorithms, enabling system to achieve accurate quantitative analyses of micro-defects. Using this automated analysis system, the relationship among micro-defect areas in 3DPC, mechanical properties, and printer parameters is investigated. Therefore, the proposed system reduces labour and computational time, demonstrating significant potential for applications in analyzing concrete microstructure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../chan_wan_xu_schl.2022.CNNfPCPaSCWCoAVSi3PC/">Convolutional Neural Network for Predicting Crack-Pattern and Stress-Crack-Width Curve of Air-Void Structure in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
@@ -88,8 +64,38 @@ tags:
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zhao_wang_sun_wang.2024.AIPRTQMfAMiC/">Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_wang_sun_wu.2025.AASfMDi3PC,
+      author            = "Hongyu Zhao and Xiangyu Wang and Junbo Sun and Fei Wu and Xianda Liu and Zhaohui Chen and Yufei Wang",
+      title             = "Automated Analysis System for Micro-Defects in 3D Printed Concrete",
+      doi               = "10.1016/j.autcon.2025.106105",
+      year              = "2025",
+      journal           = "Automation in Construction",
+      volume            = "173",
+      pages             = "106105",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Zhao, “Automated Analysis System for Micro-Defects in 3D Printed Concrete”, <i>Automation in Construction</i>, vol. 173, p. 106105, 2025, doi: 10.1016/j.autcon.2025.106105.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Hongyu, Xiangyu Wang, Junbo Sun, Fei Wu, Xianda Liu, Zhaohui Chen, and Yufei Wang. “Automated Analysis System for Micro-Defects in 3D Printed Concrete”. <i>Automation in Construction</i> 173 (2025): 106105. https://doi.org/10.1016/j.autcon.2025.106105.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

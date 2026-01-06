@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mahfuzur Rahman, Sanket Rawat, Chunhui Yang, Ahmed Mahil, Yixia Zhang
+    - footer
+title: Rahman Mahfuzur, Rawat Sanket, Yang Chunhui, Mahil Ahmed, Zhang Yixia
 description:
 tags:
  - cement
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.109719) A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.jobe.2024.109719" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109719</a>
+#A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites ([2024-05](date/2024/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.109719) <a href="https://doi.org/10.1016/j.jobe.2024.109719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109719" target="_blank">10.1016/j.jobe.2024.109719</a>
 
--------------------------
+<a href="../../../author/rahman_mahfuzur"><b>Rahman</b>&nbsp;Mahfuzur</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1985-7579" title="ORCID: 0000-0002-1985-7579" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rawat_sanket"><b>Rawat</b>&nbsp;Sanket</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_richard_chunhui"><b>Yang</b>&nbsp;Chunhui</a></span>, <a href="../../../author/mahil_ahmed"><b>Mahil</b>&nbsp;Ahmed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1912-8277" title="ORCID: 0000-0003-1912-8277" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_x_yixia"><b>Zhang</b>&nbsp;Yixia</a></span><br>
+Journal Article - Journal of Building Engineering, No. 109719
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>
-,     <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a> <a href="https://orcid.org/0000-0002-1985-7579" title="ORCID: 0000-0002-1985-7579" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a>
-,     <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a> <a href="https://orcid.org/0000-0003-1912-8277" title="ORCID: 0000-0003-1912-8277" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 109719
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#comprehension`](keyword/comprehension)
-    [`#fresh`](keyword/fresh)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20on%20Fresh%20and%20Rheological%20Properties%20of%203D%20Printable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193933306&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4398693296" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109719" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109719?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The undeniable potential of 3D printing technology to revolutionize global manufacturing processes has led to the emergence of advanced, digitalized, and fully automated construction techniques. Despite the growing interest in this technology, a significant challenge still exists in the development of cement-based printing material due to the complex interaction of various fresh and rheological property parameters. This review comprehensively explores fundamental fresh properties (flowability, buildability, extrudability, pumpability and open time) and rheological properties (static yield stress, dynamic yield stress, plastic viscosity) essential for the formulation of 3D printable cementitious composites, with and without fibres. The results obtained from different rheometers for successful 3D printed mixes are also summarised, highlighting variation in recorded values. Moreover, the review thoroughly investigates factors affecting both fresh and rheological properties, such as the type of supplementary cementitious materials, fibre type and dosage, superplasticizer, and viscosity-modifying admixture. It also identifies the clear impact of these parameters and further recommends the optimal range of some properties, such as a flowability value between 160-200 mm, to achieve desirable 3D printability of cementitious composites. Overall, this review offers valuable insights for developing new mix compositions suitable for 3D printing and serves as a useful tool in establishing guidelines for 3D printable cementitious composite materials, which are currently lacking but crucial for research, development, and application in this field.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "94 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
@@ -163,8 +140,9 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "28 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
@@ -193,4 +171,33 @@ tags:
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ting_tay_quah_tan.2024.SSMfOPi3CPT/">Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/xu_wen"><b>Xu</b> Wen</a>, <a href="../../../author/jiang_dengjie"><b>Jiang</b> Dengjie</a>, <a href="../../../author/zhao_qian"><b>Zhao</b> Qian</a>, <a href="../../../author/wang_linbing"><b>Wang</b> Linbing</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xu_jian_zhao_wang.2024.SoPo3PCFREFC/">Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete:<br/>Characterized by Fluidity and Consistency</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC,
+      author            = "Mahfuzur Rahman and Sanket Rawat and Chunhui Richard Yang and Ahmed Mahil and Yixia X. Zhang",
+      title             = "A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites",
+      doi               = "10.1016/j.jobe.2024.109719",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "109719",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Rahman, S. Rawat, C. R. Yang, A. Mahil and Y. X. Zhang, “A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites”, <i>Journal of Building Engineering</i>, p. 109719, 2024, doi: 10.1016/j.jobe.2024.109719.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rahman, Mahfuzur, Sanket Rawat, Chunhui Richard Yang, Ahmed Mahil, and Yixia X. Zhang. “A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites”. <i>Journal of Building Engineering</i>, 2024, 109719. https://doi.org/10.1016/j.jobe.2024.109719.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

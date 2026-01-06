@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yaxin Tao, Yi Zhang, Geert Schutter, Kim Tittelboom
+    - footer
+title: Tao Yaxin, Zhang Yi, Schutter Geert, Tittelboom Kim
 description:
 tags:
  - automation
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100333) Interfacial Bonding of 3D Printable Concrete with Chemically Reactive Coating for Automatic Repair ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.dibe.2024.100333" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100333</a>
+#Interfacial Bonding of 3D Printable Concrete with Chemically Reactive Coating for Automatic Repair ([2024-01](date/2024/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100333) <a href="https://doi.org/10.1016/j.dibe.2024.100333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100333" target="_blank">10.1016/j.dibe.2024.100333</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100333
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100333
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#bond`](keyword/bond)
-    [`#coat`](keyword/coat)
-    [`#concrete`](keyword/concrete)
-    [`#interface`](keyword/interface)
-    [`#printability`](keyword/printability)
-    [`#repair`](keyword/repair)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/repair"><button class="btn">#repair</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Interfacial%20Bonding%20of%203D%20Printable%20Concrete%20with%20Chemically%20Reactive%20Coating%20for%20Automatic%20Repair" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183467217&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390990511" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100333" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100333?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing can be used to automatically repair concrete structures, while the practical application is still hindered due to the lack of interfacial bonding. A concept using a chemically reactive coating at the interface is proposed to overcome this drawback. Specifically, calcium sulfoaluminate (CSA) cement paste is retarded by adding borax, and the retarded phase can be destroyed with increased pH. The retarded CSA cement paste is placed as coating on the substrate before the repair process, and 3D printable material is placed against the coating afterwards. After that, the hydration reaction of the retarded paste coating can be re-initiated after contact with high-pH 3D printable material, aiming for high interfacial bonding in a short period. We first characterized the structural build-up and early-age mechanical properties of the 3D printable mixtures. We further evaluated the interfacial bonding of samples in the fresh state using a modified pull-out test and investigated the effect of the fresh properties of the materials on the interfacial bonding. After that, we assessed the bond strength of hardened samples based on a modified pull-off test. Finally, we analyzed the microstructure at the interface region using scanning electron microscopy. Results indicate that the placement of chemically reactive coating improves interfacial bonding, which can be attributed to the fast setting and hardening of the material at the interface. Moreover, the enhancement in interfacial bonding is more effective for those 3D printable mixtures that could potentially provide more hydroxide ions to compensate for the retardation of paste coating.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../moha_rahu_schu_titt.2021.EAHRaPCoCCB3PC/">Early-Age Hydration, Rheology and Pumping Characteristics of CSA Cement-Based 3D Printable Concrete</a></li>
@@ -77,8 +56,8 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tao_ren_lesa_titt.2022.SSo3PCwRaMSCbSF/">Shape Stability of 3D Printable Concrete with River and Manufactured Sand Characterized by Squeeze Flow</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_ren_vant_lesa.2023.E3CPtHRTL/">Extending 3D Concrete Printing to Hard Rock Tunnel Linings:<br/>Adhesion of Fresh Cementitious Materials for Different Surface Inclinations</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chan_li-jing"><b>Chan</b> Li-Jing</a>, <a href="../../../author/padil_hazman_khairul"><b>Padil</b> Khairul</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chan_padi_chin_ibra.2025.StEIBi3PC/">Strategies to Enhance Interlayer Bonding in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
@@ -86,4 +65,33 @@ tags:
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tarh_tarh_jacq_perr.2024.MBo3PaTREFC/">Mechanical Behavior of 3D Printed and Textile-Reinforced Eco-Friendly Composites</a></li>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../oulk_akhr_jai.2024.3CPS/">3D Concrete Printing Success:<br/>An Exhaustive Diagnosis and Failure-Modes-Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tao_zhan_schu_titt.2024.IBo3PCwCRCfAR,
+      author            = "Yaxin Tao and Yi Zhang and Geert de Schutter and Kim van Tittelboom",
+      title             = "Interfacial Bonding of 3D Printable Concrete with Chemically Reactive Coating for Automatic Repair",
+      doi               = "10.1016/j.dibe.2024.100333",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      pages             = "100333",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tao, Y. Zhang, G. de Schutter and K. van Tittelboom, “Interfacial Bonding of 3D Printable Concrete with Chemically Reactive Coating for Automatic Repair”, <i>Developments in the Built Environment</i>, p. 100333, 2024, doi: 10.1016/j.dibe.2024.100333.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tao, Yaxin, Yi Zhang, Geert de Schutter, and Kim van Tittelboom. “Interfacial Bonding of 3D Printable Concrete with Chemically Reactive Coating for Automatic Repair”. <i>Developments in the Built Environment</i>, 2024, 100333. https://doi.org/10.1016/j.dibe.2024.100333.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

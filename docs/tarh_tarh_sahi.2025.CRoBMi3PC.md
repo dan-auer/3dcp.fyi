@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeşim Tarhan, İsmail Tarhan, Remzi Şahin
+    - footer
+title: Tarhan Yeşim, Tarhan İsmail, Şahin Remzi
 description:
 tags:
  - binder
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings15010075) Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>:aca-blank: Rheological Perspectives ([2024-12](date/2024/12))
-<a href="https://doi.org/10.3390/buildings15010075" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15010075</a>
+#Comprehensive Review of Binder Matrices in 3D Printing Construction&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">Rheological Perspectives</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings15010075) <a href="https://doi.org/10.3390/buildings15010075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15010075" target="_blank">10.3390/buildings15010075</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5161-3718" title="ORCID: 0000-0002-5161-3718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b>&nbsp;İsmail</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_remzi"><b>Şahin</b>&nbsp;Remzi</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 1, No. 75
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a> <a href="https://orcid.org/0000-0002-5161-3718" title="ORCID: 0000-0002-5161-3718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 1, No. 75
-
-:aca-blank:{ .lg .middle}
-    [`#binder`](keyword/binder)
-    [`#comprehension`](keyword/comprehension)
-    [`#construction`](keyword/construction)
-    [`#matrix`](keyword/matrix)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comprehensive%20Review%20of%20Binder%20Matrices%20in%203D%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214520605&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405968308" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15010075" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15010075?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing technology is transforming the construction industry, which is increasingly turning to advanced materials and techniques to meet environmental and economic challenges. This comprehensive literature review evaluated various binder materials, including cement, geopolymers, earthen materials, supplementary cementitious materials, polymers, and biopolymers, with a focus on their environmental impacts and rheological properties. The study revealed an increasing interest in cementitious binders, which deliver essential structural strength and exhibit a wide range of yield stress values (15 to 6500 Pa), influenced by binder type and supplementary materials such as nanoclay. However, the significant CO2 emissions associated with cement pose major sustainability challenges. As a sustainable alternative, geopolymers demonstrate lower yield stress values (800 to 3000 Pa) while ensuring adequate buildability for vertical printing and reducing environmental impact. These findings underscore the need to adopt sustainable binder matrices to align 3D printing construction practices with global sustainability goals.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "135 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a>, <a href="../../../author/sadhu_ayan"><b>Sadhu</b> Ayan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../akma_sadh.2024.RDo3PTiCE/">Recent Development of 3D Printing Technology in Construction Engineering</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
@@ -200,8 +181,8 @@ tags:
       <li><a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/jin_chen"><b>Jin</b> Chen</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhou_geng_jin_liu.2024.IoRSotPoFASBGMf3P/">Influence of Residue Soil on the Properties of Fly-Ash-Slag-Based Geopolymer Materials for 3D Printing</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abed_wari_alaw_jabr.2025.DDDoSLf3PwOC/">Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays</a></li>
@@ -210,4 +191,35 @@ tags:
       <li><a href="../../../author/cho_eunsan"><b>Cho</b> Eunsan</a>, <a href="../../../author/gwon_seongwoo"><b>Gwon</b> Seongwoo</a>, <a href="../../../author/cha_soowon"><b>Cha</b> Soowon</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cho_gwon_cha_shin.2025.IoAoRPoCCwCM/">Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers:<br/>3D Printing Perspective</a></li>
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tarh_tarh_sahi.2025.CRoBMi3PC,
+      author            = "Yeşim Tarhan and İsmail Hakkı Tarhan and Remzi Şahin",
+      title             = "Comprehensive Review of Binder Matrices in 3D Printing Construction: Rheological Perspectives",
+      doi               = "10.3390/buildings15010075",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "1",
+      pages             = "75",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tarhan, İ. H. Tarhan and R. Şahin, “Comprehensive Review of Binder Matrices in 3D Printing Construction: Rheological Perspectives”, <i>Buildings</i>, vol. 15, no. 1, p. 75, 2025, doi: 10.3390/buildings15010075.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tarhan, Yeşim, İsmail Hakkı Tarhan, and Remzi Şahin. “Comprehensive Review of Binder Matrices in 3D Printing Construction: Rheological Perspectives”. <i>Buildings</i> 15, no. 1 (2025): 75. https://doi.org/10.3390/buildings15010075.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

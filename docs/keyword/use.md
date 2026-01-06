@@ -8,7 +8,7 @@ search:
 
 # #use
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
   <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>
   <li><a href="../../../author/jankovsky_ondrej"><b>Jankovský</b> Ondřej</a>, <a href="../../../author/lodnanek_petr"><b>Lodňánek</b> Petr</a>, <a href="../../../author/lauermannova_anna-marie"><b>Lauermannová</b> Anna-Marie</a>, <a href="../../../author/jirickova_adela"><b>Jiříčková</b> Adéla</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../jank_lodn_laue_jiri.2025.UoLFSaFRiMOC/">Use of Ladle Furnace Slag as Filler Replacement in Magnesium Oxychloride Cement:<br/>Towards Sustainable 3D-Printable Building Composites</a></li>

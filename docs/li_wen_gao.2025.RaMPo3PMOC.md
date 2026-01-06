@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiyan Li, Xiaodong Wen, Xiaojian Gao
+    - footer
+title: Li Qiyan, Wen Xiaodong, Gao Xiaojian
 description:
 tags:
  - cement
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological and Mechanical Properties of 3D-Printable Magnesium-Oxysulfate-Cements ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140618" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140618</a>
+#Rheological and Mechanical Properties of 3D-Printable Magnesium-Oxysulfate-Cements ([2025-02](date/2025/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140618" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140618" target="_blank">10.1016/j.conbuildmat.2025.140618</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9684-5248" title="ORCID: 0000-0002-9684-5248" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_qiyan"><b>Li</b>&nbsp;Qiyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4705-2783" title="ORCID: 0000-0003-4705-2783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wen_xiaodong"><b>Wen</b>&nbsp;Xiaodong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3138-5751" title="ORCID: 0000-0003-3138-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_xiaojian"><b>Gao</b>&nbsp;Xiaojian</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 470, No. 140618
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a> <a href="https://orcid.org/0000-0002-9684-5248" title="ORCID: 0000-0002-9684-5248" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wen_xiaodong"><b>Wen</b> Xiaodong</a> <a href="https://orcid.org/0000-0003-4705-2783" title="ORCID: 0000-0003-4705-2783" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="https://orcid.org/0000-0003-3138-5751" title="ORCID: 0000-0003-3138-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 470, No. 140618
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#magnesium`](keyword/magnesium)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20and%20Mechanical%20Properties%20of%203D-Printable%20Magnesium-Oxysulfate-Cements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218863054&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408059103" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140618" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140618?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Magnesium oxysulfate cement (MOS) offers a promising alternative to 3D-printed Portland cement due to its rapid hardening and high strength. The layer-to-layer interfacial bonding of the 3D printed specimen is closely related to the rheological performance of fresh mixtures. This paper investigates the influence of rheological properties on the printability and mechanical performance of 3D printable magnesium oxysulfate cement (3DP-MOS) paste. The results show that an increase in the magnesium-to-sulfur ratio reduces fluidity and lowers the minimum water content of MOS mortar, enhancing packing density, accelerating early hydration, and improving printability, extrusion stability and structural integrity. MOS mortar with a molar ratio (MgO: MgSO4·7H2O: H2O) of 15:1:12 or 21:1:15 demonstrates optimal flow performance and setting time. Dynamic yield stress values ranging from 587.9 to 888.7 Pa and a consistency factor of 2.0–36.8 in 3DP-MOS mortar ensure stable extrusion width and stacking height, closely aligning with the intended design and ensuring both precision and structural integrity in 3D-printed structures. Additionally, higher dynamic yield stress and a lower consistency factor promote uniform deposition and a denser microstructure in 3D-printed MOS materials, enhancing mechanical properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB/">Fresh and Strength Properties of 3D Printable Concrete Mixtures Utilising a High Volume of Sustainable Alternative Binders</a></li>
@@ -95,9 +76,39 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a>, <a href="../../../author/su_anshuang"><b>Su</b> Anshuang</a>, <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_su_gao.2025.IoIPo3PMOCBMbCC/">Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing</a></li>
       <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/li_bin"><b>Li</b> Bin</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wang_li_chen.2025.EPaMPo3PMPCTSFM/">Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification:<br/>Rheological, Microstructural, and Numerical Insights</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_wen_gao.2025.RaMPo3PMOC,
+      author            = "Qiyan Li and Xiaodong Wen and Xiaojian Gao",
+      title             = "Rheological and Mechanical Properties of 3D-Printable Magnesium-Oxysulfate-Cements",
+      doi               = "10.1016/j.conbuildmat.2025.140618",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "470",
+      pages             = "140618",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Li, X. Wen and X. Gao, “Rheological and Mechanical Properties of 3D-Printable Magnesium-Oxysulfate-Cements”, <i>Construction and Building Materials</i>, vol. 470, p. 140618, 2025, doi: 10.1016/j.conbuildmat.2025.140618.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Qiyan, Xiaodong Wen, and Xiaojian Gao. “Rheological and Mechanical Properties of 3D-Printable Magnesium-Oxysulfate-Cements”. <i>Construction and Building Materials</i> 470 (2025): 140618. https://doi.org/10.1016/j.conbuildmat.2025.140618.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

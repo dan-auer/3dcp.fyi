@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Slava Markin, Venkatesh Nerella, Christof Schröfl, Gyunay Guseynova, Viktor Mechtcherine
+    - footer
+title: Markin Slava, Nerella Venkatesh, Schröfl Christof, Guseynova Gyunay, Mechtcherine Viktor
 description:
 tags:
  - concrete
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/12/15/2433/pdf?version=1564656478) Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication ([2019-07](date/2019/07))
-<a href="https://doi.org/10.3390/ma12152433" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma12152433</a>
+#Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication ([2019-07](date/2019/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/15/2433/pdf?version=1564656478) <a href="https://doi.org/10.3390/ma12152433" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12152433" target="_blank">10.3390/ma12152433</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/markin_viacheslav_slava"><b>Markin</b>&nbsp;Slava</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <a href="../../../author/guseynova_gyunay"><b>Guseynova</b>&nbsp;Gyunay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Materials, Vol. 12, Iss. 15
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> <a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guseynova_gyunay"><b>Guseynova</b> Gyunay</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 12, Iss. 15, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#evaluation`](keyword/evaluation)
-    [`#fabrication`](keyword/fabrication)
-    [`#foam`](keyword/foam)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Material-Design%20and%20Performance-Evaluation%20of%20Foam-Concrete%20for%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070600631&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2954799523" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma12152433" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma12152433?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing with foam concrete, which is known for its distinct physical and mechanical properties, has not yet been purposefully investigated. The article at hand presents a methodological approach for the mixture design of 3D-printable foam concretes and a systematic investigation of the potential application of this type of material in digital construction. Three different foam concrete compositions with water-to-binder ratios between 0.33-0.36 and densities of 1100 to 1580 kg/m³ in the fresh state were produced with a prefoaming technique using a protein-based foaming agent. Based on the fresh-state tests, including 3D printing as such, an optimum composition was identified, and its compressive and flexural strengths were characterized. The printable foam concrete showed low thermal conductivity and relatively high compressive strengths of above 10 MPa; therefore, it fulfilled the requirements for building materials used for load-bearing wall elements in multi-story houses. Thus, it is suitable for 3D-printing applications, while fulfilling both load-carrying and insulating functions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../fall_gugl_dome_ricc.2019.EIotMSaTCoEFCaPVoIPAi3PMIP/">Experimental Investigation on the Mechanical Strength and Thermal Conductivity of Extrudable Foamed Concrete and Preliminary Views on Its Potential Application in 3D Printed Multilayer Insulating Panels</a></li>
@@ -89,9 +66,10 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "51 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../card_parm_varg_rest.2026.IoVAiLFCf3P/">Incorporation of Vitrified Ashes in Lightweight Foamed Concrete for 3D Printing:<br/>Thermal and Mechanical Assessment</a></li>
+      <li><a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../alva_curt_muel_norf.2026.EtDTPoWCTSO/">Enhancing the Dynamic Thermal Performance of Wall Components Through Shape Optimization:<br/>Method and Application to Extruded Blocks and 3D-Printed Walls</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/muller_niklas"><b>Müller</b> Niklas</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../mull_cla.2025.AMoTOLSUFC/">Additive Manufacturing of Topology-Optimized Lightweight Slabs Using Foam Concrete</a></li>
       <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/qifeng_lyu"><b>Qifeng</b> Lyu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_sing_wang_qife.2025.3PAiC/">3D-Printed Application in Concretes</a></li>
@@ -142,4 +120,34 @@ tags:
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS/">3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mark_sahm_nere_nath.2019.IotFCPTSf3PwFC/">Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mark_nere_schr_guse.2019.MDaPEoFCfDF,
+      author            = "Slava Viacheslav Markin and Venkatesh Naidu Nerella and Christof Schröfl and Gyunay Guseynova and Viktor Mechtcherine",
+      title             = "Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication",
+      doi               = "10.3390/ma12152433",
+      year              = "2019",
+      journal           = "Materials",
+      volume            = "12",
+      number            = "15",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. V. Markin, V. N. Nerella, C. Schröfl, G. Guseynova and V. Mechtcherine, “Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication”, <i>Materials</i>, vol. 12, no. 15, 2019, doi: 10.3390/ma12152433.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Markin, Slava Viacheslav, Venkatesh Naidu Nerella, Christof Schröfl, Gyunay Guseynova, and Viktor Mechtcherine. “Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication”. <i>Materials</i> 12, no. 15 (2019). https://doi.org/10.3390/ma12152433.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

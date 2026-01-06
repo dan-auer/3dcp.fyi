@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kailun Xia, Yuning Chen, Zedi Zhang, Wei Wang, Yu Chen, Lutao Jia, Zijian Jia, Shitao Quan, Yamei Zhang
+    - footer
+title: Xia Kailun, Chen Yuning, Zhang Zedi, Wang Wei, Chen Yu, Jia Lutao, Jia Zijian, Quan Shitao, Zhang Yamei
 description:
 tags:
  - bio
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.addma.2025.104753" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.104753</a>
+#In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.104753" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104753" target="_blank">10.1016/j.addma.2025.104753</a>
 
--------------------------
+<a href="../../../author/xia_kailun"><b>Xia</b>&nbsp;Kailun</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <a href="../../../author/zhang_zedi"><b>Zhang</b>&nbsp;Zedi</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <a href="../../../author/jia_lutao"><b>Jia</b>&nbsp;Lutao</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jia_zijian"><b>Jia</b>&nbsp;Zijian</a></span>, <a href="../../../author/quan_shitao"><b>Quan</b>&nbsp;Shitao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span><br>
+Journal Article - Additive Manufacturing, No. 104753
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>
-,     <a href="../../../author/wang_wei"><b>Wang</b> Wei</a>
-,     <a href="../../../author/chen_yu"><b>Chen</b> Yu</a> <a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>
-,     <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> <a href="https://orcid.org/0009-0008-4772-7115" title="ORCID: 0009-0008-4772-7115" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104753
-
-:aca-blank:{ .lg .middle}
-    [`#bio`](keyword/bio)
-    [`#concrete`](keyword/concrete)
-    [`#mitigation`](keyword/mitigation)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#situ`](keyword/situ)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Situ%20Crosslinked%20Nano-SiO2%20Reinforced%20Alginate%20Bio-Textile%20for%20Mitigating%20Plastic%20Shrinkage%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000908688&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408764776" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.104753" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.104753?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Absence of formwork leaves 3D printed concrete (3DPC) with rapid water loss and plastic shrinkage. For water preservation, a strategy based on in-situ generated bio-textile film on 3DPC surface is proposed herein. The conception was achieved by adopting nano SiO2 (NS) reinforced sodium alginate (NSSA) onto 3DPC surface. Triggered by calcium ions on 3DPC surface, in-situ crosslinking of NSSA can generate a water preservation film, where NS serves as reinforcer for film densification. Moreover, through pozzolanic reaction, NS can induce further crosslinking between C-S-H and alginate biopolymer matrix, forming a bio-textile film with enhanced water vapor impermeability, mechanical property and surface adhesion on 3DPC. Within 3 hours and 24 hours after concrete printing, this strategy significantly reduced 3DPC plastic shrinkage by 74% and 59%, and preserved water in 3DPC from evaporation by 72.8% and 75.4%. This study provides a promising new approach for mitigating plastic shrinkage of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
@@ -94,8 +66,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/aimedieu_patrick"><b>Aimedieu</b> Patrick</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zuo_cane_keit_aime.2024.DIDiEFCBMaVEA/">Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages:<br/>From Standard Casting to 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jia_dong_xia_niu.2025.IPSo3PCIRBFA/">Initial Plastic Shrinkage of 3D-Printed Concrete Incorporating Recycled Brick Fine Aggregates:<br/>Insights from Water Transport and Structural Evolution</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xia_chen_zhan_wang.2025.ISCNSRABTfMPSi3PC,
+      author            = "Kailun Xia and Yuning Chen and Zedi Zhang and Wei Wang and Yu Chen and Lutao Jia and Zijian Jia and Shitao Quan and Yamei Zhang",
+      title             = "In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete",
+      doi               = "10.1016/j.addma.2025.104753",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "104753",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Xia, “In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete”, <i>Additive Manufacturing</i>, p. 104753, 2025, doi: 10.1016/j.addma.2025.104753.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xia, Kailun, Yuning Chen, Zedi Zhang, Wei Wang, Yu Chen, Lutao Jia, Zijian Jia, Shitao Quan, and Yamei Zhang. “In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete”. <i>Additive Manufacturing</i>, 2025, 104753. https://doi.org/10.1016/j.addma.2025.104753.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

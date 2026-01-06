@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zahir Azimi, Moein Mousavi, Habib Bengar, Akbar Javadi
+    - footer
+title: Azimi Zahir, Mousavi Moein, Bengar Habib, Javadi Akbar
 description:
 tags:
  - concrete
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand ([2023-12](date/2023/12))
-<a href="https://doi.org/10.1680/jmacr.23.00159" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1680/jmacr.23.00159</a>
+#Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand ([2023-12](date/2023/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.23.00159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.23.00159" target="_blank">10.1680/jmacr.23.00159</a>
 
--------------------------
+<a href="../../../author/azimi_zahir"><b>Azimi</b>&nbsp;Zahir</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_moein"><b>Mousavi</b>&nbsp;Moein</a></span>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b>&nbsp;Habib</a></span>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b>&nbsp;Akbar</a></span><br>
+Journal Article - Magazine of Concrete Research, pp. 1-27
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/azimi_zahir"><b>Azimi</b> Zahir</a>
-,     <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a> <a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>
-,     <a href="../../../author/javadi_a_akbar"><b>Javadi</b> Akbar</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Magazine of Concrete Research, pp. 1-27
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#containment`](keyword/containment)
-    [`#expansion`](keyword/expansion)
-    [`#fire`](keyword/fire)
-    [`#light`](keyword/light)
-    [`#mechanics`](keyword/mechanics)
-    [`#natural`](keyword/natural)
-    [`#post`](keyword/post)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#replacement`](keyword/replacement)
-    [`#sand`](keyword/sand)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Post-Fire%20Mechanical%20Properties%20of%20Lightweight%203D%20Printed%20Concrete%20Containing%20Expanded%20Perlite%20as%20Partial%20Replacement%20of%20Natural%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180928058&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390007576" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1680/jmacr.23.00159" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1680/jmacr.23.00159?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Along with the rise in construction with 3D printing technology, 3D printed (3DP) structures also require weight reduction similar to conventional reinforcement concrete (RC) structures. In addition, the behaviour of this type of structure against fire needs to be investigated. The number of printed layers and the time gap between layers for the 3DP specimens were among the variables examined in the tests. The test results demonstrated that as the replacement percentage of natural sand (NS) with expanded perlite (EP) increased, at 25% volume of replacement the interlayer bond strength increased on average by 18.6%, while at the highest replacement level of 75%, decreased on average by 5.8%. Additionally, by incorporation of EP the compressive and flexural strengths of 3DP specimens declined averagely from 9% to 29.7%, and 39.3% to 49.3%, respectively. As the replacement level of NS increased, residual compressive and flexural strengths increased after exposure to 800 °C. Furthermore, it was demonstrated that exposure to high temperature had the least effect on interlayer bond strength, whereas it significantly reduced the compressive and flexural strength. The results showed that, increasing the time gap between layers reduced interlayer bond strength and flexural strength while negligibly affected compressive strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../dong_yang_liu_ren.2022.MaMBo3PUHPCaET/">Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/crupi_giuseppe"><b>Crupi</b> Giuseppe</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../fall_crup_dome_ricc.2020.IotRBoLFCf3PA/">Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications</a></li>
@@ -88,12 +62,41 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mous_rang.2025.FTDo3PC/">Freeze-Thaw Durability of 3D Printed Concrete:<br/>A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b> Pooneh</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../mous_beng_mous_mahd.2025.ILBSPo3PCUANN/">Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network:<br/>Experimental and Modeling Study</a></li>
       <li><a href="../../../author/li_g_l"><b>Li</b> L.</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/chu_h_s"><b>Chu</b> S.</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS/">Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cuev_chun_siko_step.2024.PoNWaL3PCCwRG/">Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass:<br/>Sorption and Microstructural Perspective</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS,
+      author            = "Zahir Azimi and Moein Mousavi and Habib Akbarzadeh Bengar and Akbar A. Javadi",
+      title             = "Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand",
+      doi               = "10.1680/jmacr.23.00159",
+      year              = "2023",
+      journal           = "Magazine of Concrete Research",
+      pages             = "1--27",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Azimi, M. Mousavi, H. A. Bengar and A. A. Javadi, “Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand”, <i>Magazine of Concrete Research</i>, pp. 1–27, 2023, doi: 10.1680/jmacr.23.00159.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Azimi, Zahir, Moein Mousavi, Habib Akbarzadeh Bengar, and Akbar A. Javadi. “Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand”. <i>Magazine of Concrete Research</i>, 2023, 1–27. https://doi.org/10.1680/jmacr.23.00159.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

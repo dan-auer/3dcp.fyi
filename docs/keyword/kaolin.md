@@ -8,7 +8,7 @@ search:
 
 # #kaolin
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../maie_armi_sesh_carc.2025.LBGSKREC/">Locust Bean Gum–Stabilized Kaolin-Rich Earthen Composites:<br/>From On-Land to Underwater 3D Printing</a></li>
   <li><a href="../../../author/yasin_mazhar"><b>Yasin</b> Mazhar</a>, <a href="../../../author/siddiqi_ahmad_zahid"><b>Siddiqi</b> Zahid</a>, <a href="../../../author/ur-rehman_atteq"><b>Ur Rehman</b> Atteq</a>, <a href="../../../author/noshin_sadaf"><b>Noshin</b> Sadaf</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../yasi_sidd_urr_nosh.2024.IEAMPo3PMEwSLaK/">Innovative Early-Age Mechanical Properties of 3D Printable Mortar Enhanced with SBR-Latex and Kaolin</a></li>
   <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>

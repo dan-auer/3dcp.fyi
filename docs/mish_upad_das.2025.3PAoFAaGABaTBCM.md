@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sanjeet Mishra, Bikash Upadhyay, Bibhuti Das
+    - footer
+title: Mishra Sanjeet, Upadhyay Bikash, Das Bibhuti
 description:
 tags:
  - ash
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1080/19648189.2025.2521381" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/19648189.2025.2521381</a>
+#3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar ([2025-06](date/2025/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/19648189.2025.2521381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2025.2521381" target="_blank">10.1080/19648189.2025.2521381</a>
 
--------------------------
+<a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b>&nbsp;Sanjeet</a></span>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b>&nbsp;Bikash</a></span>, <a href="../../../author/das_busan_bibhuti"><b>Das</b>&nbsp;Bibhuti</a></span><br>
+Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-31
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>
-,     <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>
-,     <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-31
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#aspects`](keyword/aspects)
-    [`#binary`](keyword/binary)
-    [`#blend`](keyword/blend)
-    [`#cement`](keyword/cement)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#ternary`](keyword/ternary)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/binary"><button class="btn">#binary</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Aspects%20of%20Fly%20Ash%20and%20GGBS%20Admixed%20Binary%20and%20Ternary%20Blended%20Cementitious%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008956085&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411589164" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/19648189.2025.2521381" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/19648189.2025.2521381?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the integration of Ground Granulated Blast Furnace Slag (GGBS) and fly ash to sustainably reduce the usage of Ordinary Portland Cement (OPC) in 3D printable mortar to enhance printability and engineering performance. Four mortar mixes were developed, and their printability parameters, such as flowability, extrudability, open time, yield stress, shape retention, and buildability, were assessed. Among mixes, O70G30 (70% OPC, 30% GGBS) showed the best printability, with an 18.3% and 54.3% higher shape retention factor than the control and O70F30 mixes, respectively, which can be attributed to improved particle packing and 5.5% higher yield stress. However, its open time was 22.2% lower than the control. This reduction can be attributed to the finer particle size and higher specific surface area of GGBS, which increased water demand and accelerated the loss of workability. In the hardened state, O70G30 exhibited 24% lower water absorption and 18.5% reduced permeable porosity than the control, indicating a denser microstructure. Printed specimens exhibited anisotropic strength, with the highest values observed on the YZ plane and the lowest on the ZX plane. Depending on the loading direction and mix composition, their compressive strength was 9.4–35.6% lower than that of mould-cast samples, while the flexural strength improved by 16.19% to 40.18%. Microstructural analysis revealed a denser matrix with a lower Ca/Si ratio and enhanced secondary hydration, evidenced by stronger C–S–H peaks in XRD, pronounced Si–O–Si/Al bands in FTIR, and 41.22% higher bound water (WH) with reduced portlandite (CH) in TGA compared to O70F30. These promising results can be attributed to GGBS’s role in enhancing hydration, refining the microstructure, and improving the performance of 3D printable mortar, offering a sustainable and effective pathway for digital construction. Also, the Life Cycle Impact Analysis (LCIA) revealed that the incorporation of supplementary cementitious materials (SCMs) significantly reduces environmental impacts compared to the control mix.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -91,7 +70,36 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mish_upad_das.2025.3PAoFAaGABaTBCM,
+      author            = "Sanjeet Kumar Mishra and Bikash Upadhyay and Bibhuti Busan Das",
+      title             = "3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar",
+      doi               = "10.1080/19648189.2025.2521381",
+      year              = "2025",
+      journal           = "European Journal of Environmental and Civil Engineering",
+      pages             = "1--31",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. K. Mishra, B. Upadhyay and B. B. Das, “3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar”, <i>European Journal of Environmental and Civil Engineering</i>, pp. 1–31, 2025, doi: 10.1080/19648189.2025.2521381.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mishra, Sanjeet Kumar, Bikash Upadhyay, and Bibhuti Busan Das. “3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar”. <i>European Journal of Environmental and Civil Engineering</i>, 2025, 1–31. https://doi.org/10.1080/19648189.2025.2521381.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

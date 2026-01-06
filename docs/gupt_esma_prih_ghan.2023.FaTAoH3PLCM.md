@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shashank Gupta, Hadi Esmaeeli, Arjun Prihar, Rita Ghantous, William Weiss, Mohamadreza Moini
+    - footer
+title: Gupta Shashank, Esmaeeli Hadi, Prihar Arjun, Ghantous Rita, Weiss William, Moini Mohamadreza
 description:
 tags:
  - analysis
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2023.105034) Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.105034" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105034</a>
+#Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials ([2023-04](date/2023/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.105034) <a href="https://doi.org/10.1016/j.cemconcomp.2023.105034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105034" target="_blank">10.1016/j.cemconcomp.2023.105034</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_shashank"><b>Gupta</b>&nbsp;Shashank</a></span>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b>&nbsp;Hadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prihar_arjun"><b>Prihar</b>&nbsp;Arjun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1918-5450" title="ORCID: 0000-0002-1918-5450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghantous_maria_rita"><b>Ghantous</b>&nbsp;Rita</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weiss_jason_william"><b>Weiss</b>&nbsp;William</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> <a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>
-,     <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> <a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> <a href="https://orcid.org/0000-0002-1918-5450" title="ORCID: 0000-0002-1918-5450" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> <a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 140, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#cement`](keyword/cement)
-    [`#fracture`](keyword/fracture)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#transport`](keyword/transport)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fracture-%20and%20Transport-Analysis%20of%20Heterogeneous%203D%20Printed%20Lamellar%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153245870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366819188" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105034" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105034?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the spatial characteristics of microstructural phases in relation to the fracture toughness in Mode-I/II and transport behavior in two orthogonal directions of lamellar 3D-printed cement paste compared to cast counterparts. Using segmentation techniques, it was found that intact 3D-printed materials represent porous interfaces and microchannels. A modified partial-notch Brazil-Nut test was proposed to characterize the Mode-I/II fracture toughness. A new laser-notching process was proposed to generate a sharp notch and account for the sensitivity of fracture processes to microstructural heterogeneities in 3D-printed materials. Unlike Mode-I, significantly higher Mode-II fracture toughness was found in 3D-printed material in the perpendicular direction compared to the cast, owing to the in/out-of-plane crack deflection along the interfaces. The porous interfacial regions were hypothesized to govern the crack initiation in both Mode-I/II. Water transport was characterized by absorption using Neutron Radiography, where interfacial heterogeneities act as capillary breaks, hence directionally influences water absorption and transport.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "59 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
@@ -125,8 +103,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a></li>
       <li><a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b> Meryem</a>, <a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yaba_ozer.2025.EAUTR3CPoSFG/">Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries</a></li>
@@ -139,4 +117,33 @@ tags:
       <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/garlock_e-moreyra_maria"><b>Garlock</b> Maria</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../prih_garl_najm_moin.2024.MPoSACEbRAM/">Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../moin.2023.PiAIM/">Perspectives in Architected Infrastructure Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gupt_esma_prih_ghan.2023.FaTAoH3PLCM,
+      author            = "Shashank Gupta and Hadi S. Esmaeeli and Arjun Prihar and Rita Maria Ghantous and William Jason Weiss and Mohamadreza Moini",
+      title             = "Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials",
+      doi               = "10.1016/j.cemconcomp.2023.105034",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+      volume            = "140",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Gupta, H. S. Esmaeeli, A. Prihar, R. M. Ghantous, W. J. Weiss and M. Moini, “Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials”, <i>Cement and Concrete Composites</i>, vol. 140, 2023, doi: 10.1016/j.cemconcomp.2023.105034.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gupta, Shashank, Hadi S. Esmaeeli, Arjun Prihar, Rita Maria Ghantous, William Jason Weiss, and Mohamadreza Moini. “Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials”. <i>Cement and Concrete Composites</i> 140 (2023). https://doi.org/10.1016/j.cemconcomp.2023.105034.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

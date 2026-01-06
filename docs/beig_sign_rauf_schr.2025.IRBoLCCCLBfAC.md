@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mirza Beigh, Cesare Signorini, Asim Rauf, Christof Schröfl, Thomas Köberle, Konrad Grahl, Thomas Matschei, Viktor Mechtcherine
+    - footer
+title: Beigh Mirza, Signorini Cesare, Rauf Asim, Schröfl Christof, Köberle Thomas, Grahl Konrad, Matschei Thomas, Mechtcherine Viktor
 description:
 tags:
  - automation
@@ -19,39 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2025.141314) Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction:<br/>:aca-blank: Effect of Calcium Sulfate Varieties ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.141314" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.141314</a>
+#Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Effect of Calcium Sulfate Varieties</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.141314) <a href="https://doi.org/10.1016/j.conbuildmat.2025.141314" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141314" target="_blank">10.1016/j.conbuildmat.2025.141314</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7525-6807" title="ORCID: 0000-0002-7525-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b>&nbsp;Mirza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6867-1340" title="ORCID: 0000-0002-6867-1340" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/signorini_cesare"><b>Signorini</b>&nbsp;Cesare</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8207-4761" title="ORCID: 0000-0002-8207-4761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rauf_asim"><b>Rauf</b>&nbsp;Asim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <a href="../../../author/koberle_thomas"><b>Köberle</b>&nbsp;Thomas</a></span>, <a href="../../../author/grahl_konrad"><b>Grahl</b>&nbsp;Konrad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matschei_thomas"><b>Matschei</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 477, No. 141314
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a> <a href="https://orcid.org/0000-0002-7525-6807" title="ORCID: 0000-0002-7525-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/signorini_cesare"><b>Signorini</b> Cesare</a> <a href="https://orcid.org/0000-0002-6867-1340" title="ORCID: 0000-0002-6867-1340" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rauf_asim"><b>Rauf</b> Asim</a> <a href="https://orcid.org/0000-0002-8207-4761" title="ORCID: 0000-0002-8207-4761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/koberle_thomas"><b>Köberle</b> Thomas</a>
-,     <a href="../../../author/grahl_konrad"><b>Grahl</b> Konrad</a>
-,     <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 477, No. 141314
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#behavior`](keyword/behavior)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#construction`](keyword/construction)
-    [`#effect`](keyword/effect)
-    [`#lc3`](keyword/lc3)
-    [`#limestone`](keyword/limestone)
-    [`#rheology`](keyword/rheology)
-    [`#variation`](keyword/variation)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Intrinsic%20Rheological%20Behavior%20of%20Limestone%20Calcined%20Clay%20Cementitious%20%28LC3%29%20Binders%20for%20Automated%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002686996&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409594488" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.141314" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.141314?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As the concrete industry moves toward sustainable, automated construction, understanding the rheological behavior of alternative binders is essential. In particular, the rheology of limestone calcined clay cement (LC3) is extremely sensitive to the type of calcium sulfate used. This study systematically investigates the impact of anhydrite (CaSO4), bassanite (CaSO4⋅0.5 H2O), and gypsum (CaSO4⋅2 H2O) on hydration kinetics, structural build-up, and workability of LC³ pastes. Isothermal calorimetry, rotational and oscillatory rheometry (Large-Amplitude Oscillatory Shear (LAOS) tests) were used to decouple the interplays between sulfate dissolution, hydration and thixotropic behavior. The results indicate that bassanite accelerates early-age structuration due to its rapid dissolution and ettringite formation, yielding a high structuration rate (Athix = 0.5 Pa/min) and optimal shear stress evolution (up to 102 Pa). Conversely, gypsum retards structuration and extends workability beyond 140 minutes, but compromises early stiffening. Anhydrite, despite its coarser morphology, exhibited intermediate behavior with rapid workability reduction. LAOS analysis also identified distinct viscoelastic thresholds. Pastes with bassanite reached critical strain (10−3) and crossover strain (10−2) at minimal deformation, ideal for automated construction, while gypsum formulations showed delayed stiffening. This study demonstrates that sulfate selection directly controls open time, with bassanite formulations requiring a 90-minute operational time frame to balance extrudability and layer stability. These findings underscore the need to tailor calcium sulfate type to application-specific rheological demands and offer a pathway to optimize LC3 binders for automated processes such as robotic shotcreting and 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../beig_nere_schr_mech.2015.StRBoLCCCLMitCoEB3P/">Studying the Rheological Behavior of Limestone-Calcined-Clay-Cement (LC3) Mixtures in the Context of Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -94,7 +66,37 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{beig_sign_rauf_schr.2025.IRBoLCCCLBfAC,
+      author            = "Mirza Abdul Basit Beigh and Cesare Signorini and Asim Rauf and Christof Schröfl and Thomas Köberle and Konrad Grahl and Thomas Matschei and Viktor Mechtcherine",
+      title             = "Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction: Effect of Calcium Sulfate Varieties",
+      doi               = "10.1016/j.conbuildmat.2025.141314",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "477",
+      pages             = "141314",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. B. Beigh, “Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction: Effect of Calcium Sulfate Varieties”, <i>Construction and Building Materials</i>, vol. 477, p. 141314, 2025, doi: 10.1016/j.conbuildmat.2025.141314.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Beigh, Mirza Abdul Basit, Cesare Signorini, Asim Rauf, Christof Schröfl, Thomas Köberle, Konrad Grahl, Thomas Matschei, and Viktor Mechtcherine. “Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction: Effect of Calcium Sulfate Varieties”. <i>Construction and Building Materials</i> 477 (2025): 141314. https://doi.org/10.1016/j.conbuildmat.2025.141314.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiming Peng, Cise Unluer
+    - footer
+title: Peng Yiming, Unluer Cise
 description:
 tags:
  - containment
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.ceramint.2024.06.218) Performance and Microstructural Development of 3D Printable MgO-SiO2 Mixes Containing Magnesium-Silicate-Monohydrate ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/j.ceramint.2024.06.218" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ceramint.2024.06.218</a>
+#Performance and Microstructural Development of 3D Printable MgO-SiO2 Mixes Containing Magnesium-Silicate-Monohydrate ([2024-06](date/2024/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.ceramint.2024.06.218) <a href="https://doi.org/10.1016/j.ceramint.2024.06.218" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ceramint.2024.06.218" target="_blank">10.1016/j.ceramint.2024.06.218</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_yiming"><b>Peng</b>&nbsp;Yiming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unluer_cise"><b>Unluer</b>&nbsp;Cise</a></span><br>
+Journal Article - Ceramics International
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a> <a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Ceramics International, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#containment`](keyword/containment)
-    [`#development`](keyword/development)
-    [`#magnesium`](keyword/magnesium)
-    [`#mixing`](keyword/mixing)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20and%20Microstructural%20Development%20of%203D%20Printable%20MgO-SiO2%20Mixes%20Containing%20Magnesium-Silicate-Monohydrate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196422283&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399772003" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.ceramint.2024.06.218" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.ceramint.2024.06.218?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the inclusion of magnesium silicate monohydrate (MSMH) crystal in MgO-SiO2 mixes designed for extrusion-based 3D printing. Considering the adjustment and optimization of rheological properties are fundamental for the printability of cement pastes, the dynamic rheology, thixotropy and strength development of the prepared mixes were analyzed to characterize their fresh properties, workability, buildability, and mechanical performance. Furthermore, isothermal calorimetry, X-ray diffraction (XRD), thermogravimetric analysis (TG/DTG), and scanning electron microscopy (SEM) were employed to investigate the phase composition and microstructural evolution of the pastes, with and without the presence of MSMH. Addition of MSMH at 2% of the binder component significantly enhanced the plastic viscosity, dynamic yield stress and thixotropy. Pastes incorporating 2% MSMH exhibited excellent structural build-up without affecting extrudability, with a minimal strain deformation in the printed structure. The compressive strength of all pastes exceeded 20 MPa after 3 days, reaching ∼50 MPa at 28 days with 2% MSMH inclusion. The introduction of MSMH improved the peak heat flow measured by isothermal calorimetry and enhanced the formation and growth of hydration products after 7 days of curing, resulting in a more compact microstructure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_yali"><b>Li</b> Yali</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP/">Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment</a></li>
       <li><a href="../../../author/khalil_abdullah"><b>Khalil</b> Abdullah</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../khal_wang_celi.2020.3PMOC/">3D Printable Magnesium Oxide Concrete:<br/>Towards Sustainable Modern Architecture</a></li>
@@ -80,7 +61,35 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{peng_unlu.2024.PaMDo3PMSMCMSM,
+      author            = "Yiming Peng and Cise Unluer",
+      title             = "Performance and Microstructural Development of 3D Printable MgO-SiO2 Mixes Containing Magnesium-Silicate-Monohydrate",
+      doi               = "10.1016/j.ceramint.2024.06.218",
+      year              = "2024",
+      journal           = "Ceramics International",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Peng  and C. Unluer, “Performance and Microstructural Development of 3D Printable MgO-SiO2 Mixes Containing Magnesium-Silicate-Monohydrate”, <i>Ceramics International</i>, 2024, doi: 10.1016/j.ceramint.2024.06.218.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Peng, Yiming, and Cise Unluer. “Performance and Microstructural Development of 3D Printable MgO-SiO2 Mixes Containing Magnesium-Silicate-Monohydrate”. <i>Ceramics International</i>, 2024. https://doi.org/10.1016/j.ceramint.2024.06.218.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

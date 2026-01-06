@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Tay, Guan Ting, Ye Qian, Biranchi Panda, Lewei He, Ming Tan
+    - footer
+title: Tay Yi, Ting Guan, Qian Ye, Panda Biranchi, He Lewei, Tan Ming
 description:
 tags:
  - bond
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/136859/2/Time%20gap%20effect%20on%20bond%20strength%20of%203D-printed%20concrete.pdf) Time-Gap-Effect on Bond Strength of 3D Printed Concrete ([2018-07](date/2018/07))
-<a href="https://doi.org/10.1080/17452759.2018.1500420" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2018.1500420</a>
+#Time-Gap-Effect on Bond Strength of 3D Printed Concrete ([2018-07](date/2018/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/136859/2/Time%20gap%20effect%20on%20bond%20strength%20of%203D-printed%20concrete.pdf) <a href="https://doi.org/10.1080/17452759.2018.1500420" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2018.1500420" target="_blank">10.1080/17452759.2018.1500420</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ting_heng-andrew_guan"><b>Ting</b>&nbsp;Guan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/he_lewei"><b>He</b>&nbsp;Lewei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 14, Iss. 1, pp. 104-113
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> <a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> <a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_lewei"><b>He</b> Lewei</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 14, Iss. 1, pp. 104-113
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#gap`](keyword/gap)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Gap-Effect%20on%20Bond%20Strength%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85050354929&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2883378394" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2018.1500420" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2018.1500420?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     An advancing technology that combines the concrete extrusion with a motion control to create structures with complex geometrical shapes without the need for formwork is known as 3D concrete printing. Since this technique prints layer by layer, the time taken to reach the same position in the subsequent layer is important as it will create an anisotropic property that has a weaker tensile strength at the bond interface of the two printed filaments. Through rheological measurement, which reveals the material deformation and flow behaviour, it is possible to examine the material structural build-up due to time-gap effect by measuring at different time delay. This paper focuses on investigating the time-gap effect on the printed filament with rheological and observation at macroscopic-scale to understand the material behaviour of the initial and subsequent printed layer during its fresh phase. Rheological experiment findings reveal that the tensile strength of the printed specimen is correlated to the material modulus at the initial layer
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/park_kyoungsoo"><b>Park</b> Kyoungsoo</a>, <a href="../../../author/oh_taekeun"><b>Oh</b> Taekeun</a> <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../choi_park_oh.2016.VPoFCPtStFB/">Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
@@ -76,8 +53,11 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "241 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
+      <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
       <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/oh_gyujong"><b>Oh</b> Gyujong</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM/">Effects of the Combined Incorporation of Superabsorbent Polymers and Polyvinyl Alcohol Fibers on Material Properties of 3D Printable Mortar:<br/>Rheology, Shrinkage, and Mechanical Behavior</a></li>
       <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a>, <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN/">Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks</a></li>
       <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>
@@ -317,4 +297,35 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../liu_li_weng_wong.2019.MDAtOtRPotMUi3CMP/">Mixture-Design-Approach to Optimize the Rheological Properties of the Material Used in 3D Cementitious Material-Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tay_ting_qian_pand.2019.TGEoBSo3PC,
+      author            = "Yi Wei Daniel Tay and Guan Heng Andrew Ting and Ye Qian and Biranchi Narayan Panda and Lewei He and Ming Jen Tan",
+      title             = "Time-Gap-Effect on Bond Strength of 3D Printed Concrete",
+      doi               = "10.1080/17452759.2018.1500420",
+      year              = "2019",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "14",
+      number            = "1",
+      pages             = "104--113",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. W. D. Tay, G. H. A. Ting, Y. Qian, B. N. Panda, L. He and M. J. Tan, “Time-Gap-Effect on Bond Strength of 3D Printed Concrete”, <i>Virtual and Physical Prototyping</i>, vol. 14, no. 1, pp. 104–113, 2019, doi: 10.1080/17452759.2018.1500420.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tay, Yi Wei Daniel, Guan Heng Andrew Ting, Ye Qian, Biranchi Narayan Panda, Lewei He, and Ming Jen Tan. “Time-Gap-Effect on Bond Strength of 3D Printed Concrete”. <i>Virtual and Physical Prototyping</i> 14, no. 1 (2019): 104–13. https://doi.org/10.1080/17452759.2018.1500420.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

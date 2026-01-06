@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mouad Mesoudy, Foulki Rida, Amegouz Driss
+    - footer
+title: Mesoudy Mouad, Rida Foulki, Driss Amegouz
 description:
 tags:
  - accuracy
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Addressing Geometrical and Dimensional Accuracy Challenges in 3D Concrete Printing ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1007/978-3-031-94889-3_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-94889-3_21</a>
+#Addressing Geometrical and Dimensional Accuracy Challenges in 3D Concrete Printing ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-94889-3_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-94889-3_21" target="_blank">10.1007/978-3-031-94889-3_21</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-4921-9030" title="ORCID: 0009-0002-4921-9030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b>&nbsp;Mouad</a></span>, <a href="../../../author/rida_foulki"><b>Rida</b>&nbsp;Foulki</a></span>, <a href="../../../author/driss_amegouz"><b>Driss</b>&nbsp;Amegouz</a></span><br>
+Contribution - Advances in Additive Manufacturing, pp. 260-270
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a> <a href="https://orcid.org/0009-0002-4921-9030" title="ORCID: 0009-0002-4921-9030" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rida_foulki"><b>Rida</b> Foulki</a>
-,     <a href="../../../author/driss_amegouz"><b>Driss</b> Amegouz</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Advances in Additive Manufacturing, pp. 260-270
-
-:aca-blank:{ .lg .middle}
-    [`#accuracy`](keyword/accuracy)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#geometry`](keyword/geometry)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Addressing%20Geometrical%20and%20Dimensional%20Accuracy%20Challenges%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012923838&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412906512" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-94889-3_21" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-94889-3_21?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The rise of 3D concrete printing (3DCP) marks a significant shift in construction, redefining design flexibility and efficiency. By eliminating traditional formwork, this technology enables intricate, cost-effective architectural structures. However, achieving precise translation from virtual CAD models to physical structures remains a critical challenge due to the interplay of material properties, process parameters, and equipment limitations. This study investigates the key factors influencing geometrical and dimensional precision in 3DCP, including layer deposition dynamics, concrete rheology, and machine configurations. The findings highlight gaps in understanding stratification effects, material shrinkage, and printing path accuracy. Addressing these challenges is crucial for advancing 3DCP’s reliability and expanding its applications in sustainable and innovative construction. By offering insights into optimizing accuracy, this work serves as a foundation for improving 3DCP practices and achieving intricate, high-quality structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -86,7 +67,36 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yu_sanj_du.2022.EoCMCoAB3CP/">Effects of Cement Mortar Characteristics on Aggregate-Bed 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{meso_rida_dris.2025.AGaDACi3CP,
+      author            = "Mouad el Mesoudy and Foulki Rida and Amegouz Driss",
+      title             = "Addressing Geometrical and Dimensional Accuracy Challenges in 3D Concrete Printing",
+      doi               = "10.1007/978-3-031-94889-3_21",
+      year              = "2025",
+      pages             = "260--270",
+      booktitle         = "Advances in Additive Manufacturing: Materials, Processes, and Applications II",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. el Mesoudy, F. Rida and A. Driss, “Addressing Geometrical and Dimensional Accuracy Challenges in 3D Concrete Printing”, in <i>Advances in Additive Manufacturing: Materials, Processes, and Applications II</i>,  2025, pp. 260–270. doi: 10.1007/978-3-031-94889-3_21.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mesoudy, Mouad el, Foulki Rida, and Amegouz Driss. “Addressing Geometrical and Dimensional Accuracy Challenges in 3D Concrete Printing”. In <i>Advances in Additive Manufacturing: Materials, Processes, and Applications II</i>, 260–70, 2025. https://doi.org/10.1007/978-3-031-94889-3_21.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

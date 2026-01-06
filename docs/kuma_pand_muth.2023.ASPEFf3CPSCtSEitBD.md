@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lalit Kumar, Biranchi Panda, Nelson Muthu
+    - footer
+title: Kumar Lalit, Panda Biranchi, Muthu Nelson
 description:
 tags:
  - buildability
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1007/s40964-023-00509-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-023-00509-5</a>
+#A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-023-00509-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-023-00509-5" target="_blank">10.1007/s40964-023-00509-5</a>
 
--------------------------
+<a href="../../../author/kumar_lalit"><b>Kumar</b>&nbsp;Lalit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2589-3234" title="ORCID: 0000-0002-2589-3234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthu_nelson"><b>Muthu</b>&nbsp;Nelson</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="https://orcid.org/0000-0002-2589-3234" title="ORCID: 0000-0002-2589-3234" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#effect`](keyword/effect)
-    [`#energy`](keyword/energy)
-    [`#formulas`](keyword/formulas)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#shear`](keyword/shear)
-    [`#simple`](keyword/simple)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/simple"><button class="btn">#simple</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Simple%20Potential%20Energy%20Formulation%20for%203D%20Concrete%20Printed%20Structures%20Considering%20the%20Shear%20Effects%20in%20the%20Build-Direction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174532560&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387822298" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-023-00509-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-023-00509-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D concrete printing (3DCP) eliminates the need for traditional casting by precisely depositing predetermined volumes of material in subsequent layers using a computer-controlled positioning method. The mechanical response of the layered 3DCP structures from its fresh stages is dependent on several factors including its composition, geometrical flaws, gravity effect, and external disturbance. In the current work, a theoretical formulation has been established considering the shear effects along the build direction. Accordingly, the elastic strain energy and the work done by external forces are derived to establish the potential energy. For simple cases, when the deflection only varies with the vertical direction, the formulation converges to Euler–Bernoulli and Timoshenko beam theory in the absence and presence of shear forces. Finally, making use of simple kinematic admissible functions for deflection and the angle of rotation, the Rayleigh–Ritz method is used to estimate primary variables based on the principle of minimum potential energy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/prakash_srajan"><b>Prakash</b> Srajan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../dey_sahu_prak_pand.2023.ASitEoMDMoHPo3PC/">A Study into the Effect of Material-Deposition-Methods on Hardened Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -93,7 +69,35 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kuma_pand_muth.2023.ASPEFf3CPSCtSEitBD,
+      author            = "Lalit Kumar and Biranchi Narayan Panda and Nelson Muthu",
+      title             = "A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction",
+      doi               = "10.1007/s40964-023-00509-5",
+      year              = "2023",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Kumar, B. N. Panda and N. Muthu, “A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction”, <i>Progress in Additive Manufacturing</i>, 2023, doi: 10.1007/s40964-023-00509-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kumar, Lalit, Biranchi Narayan Panda, and Nelson Muthu. “A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction”. <i>Progress in Additive Manufacturing</i>, 2023. https://doi.org/10.1007/s40964-023-00509-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

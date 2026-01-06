@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nadja Gaudillière-Jami, Romain Duballet, Charles Bouyssou, Alban Mallet, Philippe Roux, Mahriz Zakeri, Justin Dirrenberger
+    - footer
+title: Gaudillière-Jami Nadja, Duballet Romain, Bouyssou Charles, Mallet Alban, Roux Philippe, Zakeri Mahriz, Dirrenberger Justin
 description:
 tags:
  - additive
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007%2F978-3-319-92294-2_35.pdf) Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-92294-2_35" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-92294-2_35</a>
+#Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars ([2018-09](date/2018/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007%2F978-3-319-92294-2_35.pdf) <a href="https://doi.org/10.1007/978-3-319-92294-2_35" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92294-2_35" target="_blank">10.1007/978-3-319-92294-2_35</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b>&nbsp;Nadja</a></span>, <a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b>&nbsp;Charles</a></span>, <a href="../../../author/mallet_alban"><b>Mallet</b>&nbsp;Alban</a></span>, <a href="../../../author/roux_philippe"><b>Roux</b>&nbsp;Philippe</a></span>, <a href="../../../author/zakeri_mahriz"><b>Zakeri</b>&nbsp;Mahriz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span><br>
+Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 459-472
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>
-,     <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>
-,     <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a>
-,     <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>
-,     <a href="../../../author/zakeri_mahriz"><b>Zakeri</b> Mahriz</a>
-,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 459-472
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#formwork`](keyword/formwork)
-    [`#height`](keyword/height)
-    [`#integration`](keyword/integration)
-    [`#large`](keyword/large)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#performance`](keyword/performance)
-    [`#scale`](keyword/scale)
-    [`#shape`](keyword/shape)
-    [`#truss`](keyword/truss)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/truss"><button class="btn">#truss</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%20Additive%20Manufacturing%20of%20Ultra-High-Performance%20Concrete%20of%20Integrated%20Formwork%20for%20Truss-Shaped%20Pillars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008848865&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2888342193" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-92294-2_35" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-92294-2_35?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the present paper a new additive manufacturing processing route is introduced to produce ultra-high-performance concrete complex architectonic elements, by printing integrated formwork. Interdisciplinary work involving material science, computation, robotics, architecture and design resulted in the development of an innovative way of 3D printing cementitious materials. The 3D printing process involved is based on a FDM-like technique, in the sense that a material is deposited layer by layer through an extrusion printhead mounted on a 6-axis robotic arm. An architectural application is used as a case-study to demonstrate the potentialities of the technology. Along with the detailed description of the design and construction process, a description of the responsibilities and their distribution amongst the stakeholders involved in the project is given. The steps taken to include the 3D printed element in an authorized regulatory context are presented as well. The structural elements produced constitute some of the largest 3D printed concrete parts available until now. Multi-functionality was enabled for structural elements by taking advantage of the complex geometry which can be achieved using our technology for large-scale additive manufacturing. The proposed process succeeds in solving several of the current issues problems that can be found in the production of 3D printed architectural features for an AEC industrial context and therefore suggests an immediately viable route for industry assimilation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -87,8 +59,9 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "53 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
       <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>
       <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
       <li><a href="../../../author/baritakis_mario"><b>Baritakis</b> Mario</a>, <a href="../../../author/traine_phillip"><b>Traine</b> Phillip</a>, <a href="../../../author/granzow_jan"><b>Granzow</b> Jan</a>, <a href="../../../author/dobert_christine"><b>Döbert</b> Christine</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bari_trai_gran_dobe.2024.3PCFfT/">3D-Printed Clay Formwork for Topology:<br/>Optimized Concrete Elements</a></li>
@@ -142,4 +115,34 @@ tags:
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hack_lind_klof.2019.AMSSfS3P/">Adaptive Modular Spatial Structures for Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../wang.2018.DCP/">Digital Concrete Processing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gaud_duba_bouy_mall.2019.LSAMoUHPCoIFfTSP,
+      author            = "Nadja Gaudillière-Jami and Romain Duballet and Charles Bouyssou and Alban Mallet and Philippe Roux and Mahriz Zakeri and Justin Dirrenberger",
+      title             = "Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars",
+      doi               = "10.1007/978-3-319-92294-2_35",
+      year              = "2019",
+      pages             = "459--472",
+      booktitle         = "Robotic Fabrication in Architecture, Art and Design 2018: Radical Cross-Disciplinarity",
+      editor            = "Jan Willmann and Philippe Block and Marco Hutter and Kendra Byrne and Tim Schork",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Gaudillière-Jami, “Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars”, in <i>Robotic Fabrication in Architecture, Art and Design 2018: Radical Cross-Disciplinarity</i>,  2019, pp. 459–472. doi: 10.1007/978-3-319-92294-2_35.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gaudillière-Jami, Nadja, Romain Duballet, Charles Bouyssou, Alban Mallet, Philippe Roux, Mahriz Zakeri, and Justin Dirrenberger. “Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars”. In <i>Robotic Fabrication in Architecture, Art and Design 2018: Radical Cross-Disciplinarity</i>, edited by Jan Willmann, Philippe Block, Marco Hutter, Kendra Byrne, and Tim Schork, 459–72, 2019. https://doi.org/10.1007/978-3-319-92294-2_35.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

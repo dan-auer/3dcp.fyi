@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: S. Rahman, Sanjida Khair, Faiz Shaikh, Prabir Sarker
+    - footer
+title: Rahman S., Khair Sanjida, Shaikh Faiz, Sarker Prabir
 description:
 tags:
  - buildability
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-025-02768-w.pdf) Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber:<br/>:aca-blank: Buildability, Mechanical, and Microstructural Insights ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1617/s11527-025-02768-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02768-w</a>
+#Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber&nbsp;([2025-09](date/2025/09))
+<div class="h1-like">Buildability, Mechanical, and Microstructural Insights</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-025-02768-w.pdf) <a href="https://doi.org/10.1617/s11527-025-02768-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02768-w" target="_blank">10.1617/s11527-025-02768-w</a>
 
--------------------------
+<a href="../../../author/rahman_m-arifur_s"><b>Rahman</b>&nbsp;S.</a></span>, <a href="../../../author/khair_sanjida"><b>Khair</b>&nbsp;Sanjida</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b>&nbsp;Faiz</a></span>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b>&nbsp;Prabir</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rahman_m-arifur_s"><b>Rahman</b> S.</a>
-,     <a href="../../../author/khair_sanjida"><b>Khair</b> Sanjida</a>
-,     <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> <a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#incorporation`](keyword/incorporation)
-    [`#insights`](keyword/insights)
-    [`#lithium`](keyword/lithium)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#pva`](keyword/pva)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/lithium"><button class="btn">#lithium</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Decarbonized%203D%20Printed%20Concrete%20Incorporating%20Lithium%20Slag%20and%20PVA%20Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014919004&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413883246" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02768-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02768-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D concrete printing technology is ubiquitously enhancing modern construction, while its’ production generates high carbon footprint due to high cement content in the mix. The use of low–carbon pozzolans in 3D concrete printing reduces cement usage, however low–volume incorporation of these pozzolans insignificantly offset the carbon footprint. This study pioneers the use of 40% lithium slag (LS) as a cement replacement in the production of decarbonized 3D printed concrete and assesses the changes in rheology, buildability, mechanical, and microstructural properties with/without 1% polyvinyl alcohol (PVA) fibre. The 40% LS mix enhanced 13% higher plastic viscosity recovery compared to the control, and the corresponding buildability height was increased by 34% in the same comparison. At 28 days, the control and 40% LS specimens gained 34.2 MPa and 32.1 MPa of compressive strength. The flexural and bond strengths of 40% LS mix were 3.90 MPa and 2.23 MPa at 28 days. PVA (1 vol.%) fibres incorporated 40% LS mix enhanced the printing quality by reducing the filament breaking, which gained 4.60 MPa and 2.52 MPa of flexural and bond strengths at 28 days. Microstructural analysis using BSE-EDS indicated the formation of amorphous and amorphous intermediate hydration products in contributing mechanical strength development of LS-based 3D-printed concretes. PVA fibre incorporated 40% LS mix reduces 31% embodied carbon compared to the control and establishes its potential to decarbonize and enhance the performance of 3D-printed concretes.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -96,7 +73,37 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rahm_khai_shai_sark.2025.D3PCILSaPF,
+      author            = "S. M. Arifur Rahman and Sanjida Khair and Faiz Uddin Ahmed Shaikh and Prabir Kumar Sarker",
+      title             = "Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber: Buildability, Mechanical, and Microstructural Insights",
+      doi               = "10.1617/s11527-025-02768-w",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. M. A. Rahman, S. Khair, F. U. A. Shaikh and P. K. Sarker, “Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber: Buildability, Mechanical, and Microstructural Insights”, <i>Materials and Structures</i>, vol. 58, no. 7, 2025, doi: 10.1617/s11527-025-02768-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rahman, S. M. Arifur, Sanjida Khair, Faiz Uddin Ahmed Shaikh, and Prabir Kumar Sarker. “Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber: Buildability, Mechanical, and Microstructural Insights”. <i>Materials and Structures</i> 58, no. 7 (2025). https://doi.org/10.1617/s11527-025-02768-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

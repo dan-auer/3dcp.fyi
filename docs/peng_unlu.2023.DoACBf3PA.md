@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiming Peng, Cise Unluer
+    - footer
+title: Peng Yiming, Unluer Cise
 description:
 tags:
  - advantage
@@ -19,33 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.compositesb.2022.110492) Development of Alternative Cementitious Binders for 3D Printing Applications:<br/>:aca-blank: A Critical Review of Progress, Advantages and Challenges ([2022-12](date/2022/12))
-<a href="https://doi.org/10.1016/j.compositesb.2022.110492" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2022.110492</a>
+#Development of Alternative Cementitious Binders for 3D Printing Applications&nbsp;([2022-12](date/2022/12))
+<div class="h1-like">A Critical Review of Progress, Advantages and Challenges</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.compositesb.2022.110492) <a href="https://doi.org/10.1016/j.compositesb.2022.110492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2022.110492" target="_blank">10.1016/j.compositesb.2022.110492</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_yiming"><b>Peng</b>&nbsp;Yiming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unluer_cise"><b>Unluer</b>&nbsp;Cise</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 252
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a> <a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 252, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#advantage`](keyword/advantage)
-    [`#alternative`](keyword/alternative)
-    [`#application`](keyword/application)
-    [`#binder`](keyword/binder)
-    [`#cement`](keyword/cement)
-    [`#challenge`](keyword/challenge)
-    [`#critical`](keyword/critical)
-    [`#development`](keyword/development)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/advantage"><button class="btn">#advantage</button></a> <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Alternative%20Cementitious%20Binders%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145775423&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4313420890" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2022.110492" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2022.110492?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing is a promising technology of great significance in several industries including construction. In line with the urgent need to reduce the environmental impacts of the built environment, traditional binders such as Portland cement are being substituted by suitable alternative binders. This paper systematically reviews the recent advances in the use of key alternative binders such as geopolymers/alkali-activated systems, aluminate cements, MgO-based cements, gypsum-based materials, and limestone-calcined clay-based cementitious materials in the context of 3D printing. A detailed discussion on the progress of research in the use of such alternative binders in the development of 3D-printed components is presented, highlighting the main advances made in recent years, challenges faced and potential solutions to enable the large-scale application of these products. A comprehensive evaluation of the key properties controlling the performance of 3D-printed components prepared with different mixture proportions and curing conditions is also included. The information and recommendations provided in this review aim to pave the way for the direction of future research in this area, with the goal of providing guidance on designing 3D-printed composites with the desired sustainability, cost and flexibility.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "93 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -165,8 +143,8 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "43 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
@@ -211,4 +189,33 @@ tags:
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{peng_unlu.2023.DoACBf3PA,
+      author            = "Yiming Peng and Cise Unluer",
+      title             = "Development of Alternative Cementitious Binders for 3D Printing Applications: A Critical Review of Progress, Advantages and Challenges",
+      doi               = "10.1016/j.compositesb.2022.110492",
+      year              = "2023",
+      journal           = "Composites Part B: Engineering",
+      volume            = "252",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Peng  and C. Unluer, “Development of Alternative Cementitious Binders for 3D Printing Applications: A Critical Review of Progress, Advantages and Challenges”, <i>Composites Part B: Engineering</i>, vol. 252, 2023, doi: 10.1016/j.compositesb.2022.110492.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Peng, Yiming, and Cise Unluer. “Development of Alternative Cementitious Binders for 3D Printing Applications: A Critical Review of Progress, Advantages and Challenges”. <i>Composites Part B: Engineering</i> 252 (2023). https://doi.org/10.1016/j.compositesb.2022.110492.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

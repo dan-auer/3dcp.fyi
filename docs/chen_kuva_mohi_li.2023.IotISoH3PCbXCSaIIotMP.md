@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yanjuan Chen, Jukka Kuva, Ashish Mohite, Zhongsen Li, Hubert Rahier, Fahim Al-Neshawy, Jiangpeng Shu
+    - footer
+title: Chen Yanjuan, Kuva Jukka, Mohite Ashish, Li Zhongsen, Rahier Hubert, Al-Neshawy Fahim, Shu Jiangpeng
 description:
 tags:
  - concrete
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/6/2534/pdf?version=1679487731) Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance ([2023-03](date/2023/03))
-<a href="https://doi.org/10.3390/ma16062534" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16062534</a>
+#Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/6/2534/pdf?version=1679487731) <a href="https://doi.org/10.3390/ma16062534" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16062534" target="_blank">10.3390/ma16062534</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5381-1144" title="ORCID: 0000-0002-5381-1144" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yanjuan"><b>Chen</b>&nbsp;Yanjuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0241-6838" title="ORCID: 0000-0003-0241-6838" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kuva_jukka"><b>Kuva</b>&nbsp;Jukka</a></span>, <a href="../../../author/mohite_ashish"><b>Mohite</b>&nbsp;Ashish</a></span>, <a href="../../../author/li_zhongsen"><b>Li</b>&nbsp;Zhongsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6936-828X" title="ORCID: 0000-0002-6936-828X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahier_hubert"><b>Rahier</b>&nbsp;Hubert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1018-5849" title="ORCID: 0000-0003-1018-5849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/al-neshawy_fahim"><b>Al-Neshawy</b>&nbsp;Fahim</a></span>, <a href="../../../author/shu_jiangpeng"><b>Shu</b>&nbsp;Jiangpeng</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a> <a href="https://orcid.org/0000-0002-5381-1144" title="ORCID: 0000-0002-5381-1144" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kuva_jukka"><b>Kuva</b> Jukka</a> <a href="https://orcid.org/0000-0003-0241-6838" title="ORCID: 0000-0003-0241-6838" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>
-,     <a href="../../../author/li_zhongsen"><b>Li</b> Zhongsen</a>
-,     <a href="../../../author/rahier_hubert"><b>Rahier</b> Hubert</a> <a href="https://orcid.org/0000-0002-6936-828X" title="ORCID: 0000-0002-6936-828X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/al-neshawy_fahim"><b>Al-Neshawy</b> Fahim</a> <a href="https://orcid.org/0000-0003-1018-5849" title="ORCID: 0000-0003-1018-5849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shu_jiangpeng"><b>Shu</b> Jiangpeng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#hardened`](keyword/hardened)
-    [`#influence`](keyword/influence)
-    [`#internal`](keyword/internal)
-    [`#investigation`](keyword/investigation)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#scan`](keyword/scan)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20the%20Internal%20Structure%20of%20Hardened%203D%20Printed%20Concrete%20by%20X-CT%20Scanning%20and%20Its%20Influence%20on%20the%20Mechanical%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151994606&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4353067196" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16062534" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16062534?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As we know, 3DPC is printed layer by layer compared with mold-casting conventional concrete. Pore structure and layer-to-layer interface are two main aspects of the internal structure for 3DPC, which decide 3DPC’s mechanical performance. The layer-to-layer interface caused by printing is specific to 3DPC. The emphasis of this study lies in the layer-to-layer interfaces of 3DPC. The first aim of this study is to quantify the characteristics of the layer-to-layer interface and therefore characterize different aspects of the interfaces. The second aim of this study is to explore how the internal structure of printed concrete influences the mechanical performance of 3DPC. This research set out to design a series of experimental comparisons between 3DPC and casted concrete with the same compositions. Mechanical tests, i.e., compressive stress, ultrasonic Pulse Velocity test, flexural tension, and tension splitting, as well as the Ultrasonic Pulse Velocity test, were performed to check the mechanical performance of 3DPC. Contrary to what has often been expected, the mechanical test results showed the printed concrete has a quality not worse than casted concrete with the same recipe. Meanwhile, the X-ray computed tomography (X-CT) is used to characterize the internal structure, pore shapes, and interfaces of 3DPC. First, the investigation revealed that the lower total porosity and fewer big voids could be the fundamental causes meaning 3DPC has a better mechanical performance than casted concrete. Second, the statistics based on aspect ratio show that the distribution curves follow similar trends, regardless of the printed or casted concrete. Third, this study quantified the depth of the different interfaces for 3DPC. The results suggest that the porosity in an interface varies in a range. The author’s pioneer work has contributed to our present understanding of the interfaces of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../heev_ples_best_krug.2022.AMERMMtaMMGCSCMf3PC/">A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete</a></li>
@@ -110,8 +83,8 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS/">Study on Mechanical Properties and Environmental Benefits of 3D Printed Lean Magnesium Ore Concrete Filled Columns Based on Three-Dimensional Meso-Structure</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/araujo_m-o_olga"><b>Araújo</b> Olga</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA/">Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates</a></li>
@@ -120,4 +93,34 @@ tags:
       <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ibra_zijl_baba.2023.CSoLaFABBBiFRPC/">Comparative Studies of LC³- and Fly-Ash-Based Blended Binders in Fiber-Reinforced Printed Concrete:<br/>Rheological and Quasi-Static Mechanical Characteristics</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_kuva_mohi_li.2023.IotISoH3PCbXCSaIIotMP,
+      author            = "Yanjuan Chen and Jukka Kuva and Ashish Mohite and Zhongsen Li and Hubert Rahier and Fahim Al-Neshawy and Jiangpeng Shu",
+      title             = "Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance",
+      doi               = "10.3390/ma16062534",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, “Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance”, <i>Materials</i>, vol. 16, no. 6, 2023, doi: 10.3390/ma16062534.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yanjuan, Jukka Kuva, Ashish Mohite, Zhongsen Li, Hubert Rahier, Fahim Al-Neshawy, and Jiangpeng Shu. “Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance”. <i>Materials</i> 16, no. 6 (2023). https://doi.org/10.3390/ma16062534.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

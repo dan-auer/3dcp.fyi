@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Wang, Shuaishuai Li, Tian Qin, Ying Yu, Jianzhuang Xiao
+    - footer
+title: Wang Yu, Li Shuaishuai, Qin Tian, Yu Ying, Xiao Jianzhuang
 description:
 tags:
  - concrete
@@ -15,32 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Concrete 3D Printing:<br/>:aca-blank: System Development, Process Planning and Experimental Results ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_97" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_97</a>
+#Concrete 3D Printing&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">System Development, Process Planning and Experimental Results</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_97" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_97" target="_blank">10.1007/978-3-030-49916-7_97</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yu"><b>Wang</b>&nbsp;Yu</a></span>, <a href="../../../author/li_shuaishuai"><b>Li</b>&nbsp;Shuaishuai</a></span>, <a href="../../../author/qin_tian"><b>Qin</b>&nbsp;Tian</a></span>, <a href="../../../author/yu_ying"><b>Yu</b>&nbsp;Ying</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 998-1010
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_shuaishuai"><b>Li</b> Shuaishuai</a>
-,     <a href="../../../author/qin_tian"><b>Qin</b> Tian</a>
-,     <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 998-1010
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#experiment`](keyword/experiment)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#result`](keyword/result)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/result"><button class="btn">#result</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088267408&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3042067731" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_97" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_97?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing is a new construction technology that deposits the concrete from the bottom up layer by layer. The printer and process used in this technology are different from traditional extrusion-based printing technology. This work developed a concrete 3D printing system and its process planning from the point of considering the “large-scale” of the printer and the thixotropy of the concrete. Firstly, the components of the printer were introduced, and the screw as the key part of the extruder subsystem was optimized based on ANSYS Fluent. Secondly, the key technical problems in the process of tool path generation and parameter design were discussed. Lastly, the feasibility of the concrete 3D printing system and process planning were verified by a pavilion printing experiment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -82,8 +61,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sove_cala.2024.DCaPEoaSS3PfARiAMiC/">Design, Calibration and Performance Evaluation of a Small-Scale 3D Printer for Accelerating Research in Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a>, <a href="../../../author/chu_tianwei"><b>Chu</b> Tianwei</a>, <a href="../../../author/jiang_liming"><b>Jiang</b> Liming</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_chen_chu_jian.2024.ESaOMfTRo3PCEtF/">Experimental Study and OpenSees Modelling for Thermal Response of 3D Printed Concrete Exposed to Fires</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/li_lixao"><b>Li</b> Lixao</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../geng_luo_chen_li.2024.IMOOo3PLCCfMSR/">Intelligent Multi-Objective Optimization of 3D Printing Low-Carbon Concrete for Multi-Scenario Requirements</a></li>
@@ -91,4 +70,35 @@ tags:
       <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b> Virama</a>, <a href="../../../author/hurkamp_andre"><b>Hürkamp</b> André</a>, <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../lach_ekan_hurk_raat.2021.AtaOPPfAMiCUFM/">Approach to an Optimized Printing Path for Additive Manufacturing in Construction Utilizing FEM Modeling</a></li>
       <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/zarkiewicz_krzysztof"><b>Żarkiewicz</b> Krzysztof</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../hoff_zark_ziel_skib.2021.FP/">Foundation Piles:<br/>A New Feature for Concrete 3D Printers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wang_li_qin_yu.2020.C3P,
+      author            = "Yu Wang and Shuaishuai Li and Tian Qin and Ying Yu and Jianzhuang Xiao",
+      title             = "Concrete 3D Printing: System Development, Process Planning and Experimental Results",
+      doi               = "10.1007/978-3-030-49916-7_97",
+      year              = "2020",
+      volume            = "28",
+      pages             = "998--1010",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, S. Li, T. Qin, Y. Yu and J. Xiao, “Concrete 3D Printing: System Development, Process Planning and Experimental Results”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 998–1010. doi: 10.1007/978-3-030-49916-7_97.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yu, Shuaishuai Li, Tian Qin, Ying Yu, and Jianzhuang Xiao. “Concrete 3D Printing: System Development, Process Planning and Experimental Results”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:998–1010, 2020. https://doi.org/10.1007/978-3-030-49916-7_97.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

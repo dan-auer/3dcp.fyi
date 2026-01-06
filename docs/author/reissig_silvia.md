@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Reißig Silvia 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/herdan_annika"><b>Herdan</b> Annika</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rei_herd_mech.2024.RBoSFRCitCoAM/">Rheological Behavior of Steel-Fiber-Reinforced Concrete in the Context of Additive Manufacturing</a></li>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ivan_rei_mech.2024.APTfF3PCM/">Automating Penetration Tests for Fresh 3D Printed Cementitious Materials</a></li>
   <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/baumert_chrisitan"><b>Baumert</b> Chrisitan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muth_feys_mikh_baum.2024.CoRRfRMC/">Comparison of Rotational Rheometers for Ready-Mix Concrete</a></li>

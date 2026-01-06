@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yi Zhang, Lucas Lima, David Böhler, Arun Arunothayan, Adewumi Babafemi, Bilal Baz, Laura Caneda-Martínez, Geert Schutter, Hongjian Du, Niklas Freund, Yangyunzhi Gao, Lucija Hanžič, Smrati Jain, Zengwu Jiang, Emmanuel Keita, Dirk Lowke, Inka Mai (née Dressler), Shravan Muthukrishnan, Qiang Ren, Alise Sapata, Māris Šinka, Chalermwut Snguanyat, Katarina Šter, Jolien Putten, Zhendi Wang, Timothy Wangler, Kim Tittelboom
+    - footer
+title: Zhang Yi, Lima Lucas, Böhler David, Arunothayan Arun, Babafemi Adewumi, Baz Bilal, Caneda-Martínez Laura, Schutter Geert, Du Hongjian, Freund Niklas, Gao Yangyunzhi, Hanžič Lucija, Jain Smrati, Jiang Zengwu, Keita Emmanuel, Lowke Dirk, Mai (née Dressler) Inka, Muthukrishnan Shravan, Ren Qiang, Sapata Alise, Šinka Māris, Snguanyat Chalermwut, Šter Katarina, Putten Jolien, Wang Zhendi, Wangler Timothy, Tittelboom Kim
 description:
 tags:
  - assessment
@@ -15,54 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Durability Assessment of 3D Printed Cement-Based Materials:<br/>:aca-blank: A RILEM TC 304-ADC Interlaboratory Study ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1617/s11527-025-02797-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02797-5</a>
+#Durability Assessment of 3D Printed Cement-Based Materials&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">A RILEM TC 304-ADC Interlaboratory Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02797-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02797-5" target="_blank">10.1617/s11527-025-02797-5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7041-8985" title="ORCID: 0000-0002-7041-8985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lima_nascimento_lucas"><b>de&nbsp;Lima</b>&nbsp;Lucas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4621-0612" title="ORCID: 0000-0003-4621-0612" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bohler_david"><b>Böhler</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b>&nbsp;Arun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baz_bilal"><b>Baz</b>&nbsp;Bilal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6423-9876" title="ORCID: 0000-0002-6423-9876" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7059-5351" title="ORCID: 0000-0001-7059-5351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_yangyunzhi"><b>Gao</b>&nbsp;Yangyunzhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8209-4308" title="ORCID: 0000-0002-8209-4308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hanzic_lucija"><b>Hanžič</b>&nbsp;Lucija</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2840-183X" title="ORCID: 0000-0002-2840-183X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jain_smrati"><b>Jain</b>&nbsp;Smrati</a></span>, <a href="../../../author/jiang_zengwu"><b>Jiang</b>&nbsp;Zengwu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keita_emmanuel"><b>Keita</b>&nbsp;Emmanuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b>&nbsp;Shravan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_qiang"><b>Ren</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-1221-2026" title="ORCID: 0009-0007-1221-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sapata_alise"><b>Sapata</b>&nbsp;Alise</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sinka_maris"><b>Šinka</b>&nbsp;Māris</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b>&nbsp;Chalermwut</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7923-5261" title="ORCID: 0000-0002-7923-5261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ster_katarina"><b>Šter</b>&nbsp;Katarina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhendi"><b>Wang</b>&nbsp;Zhendi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lima_nascimento_lucas"><b>de Lima</b> Lucas</a> <a href="https://orcid.org/0000-0002-7041-8985" title="ORCID: 0000-0002-7041-8985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bohler_david"><b>Böhler</b> David</a> <a href="https://orcid.org/0000-0003-4621-0612" title="ORCID: 0000-0003-4621-0612" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> <a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> <a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a> <a href="https://orcid.org/0000-0002-6423-9876" title="ORCID: 0000-0002-6423-9876" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a> <a href="https://orcid.org/0000-0001-7059-5351" title="ORCID: 0000-0001-7059-5351" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hanzic_lucija"><b>Hanžič</b> Lucija</a> <a href="https://orcid.org/0000-0002-8209-4308" title="ORCID: 0000-0002-8209-4308" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a> <a href="https://orcid.org/0000-0002-2840-183X" title="ORCID: 0000-0002-2840-183X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_zengwu"><b>Jiang</b> Zengwu</a>
-,     <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a> <a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a> <a href="https://orcid.org/0009-0007-1221-2026" title="ORCID: 0009-0007-1221-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> <a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ster_katarina"><b>Šter</b> Katarina</a> <a href="https://orcid.org/0000-0002-7923-5261" title="ORCID: 0000-0002-7923-5261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/putten_jolien"><b>van der Putten</b> Jolien</a> <a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> <a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#durability`](keyword/durability)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#rilem`](keyword/rilem)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rilem"><button class="btn">#rilem</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Durability%20Assessment%20of%203D%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020378437&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -77,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415660423" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02797-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02797-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The two major themes in the current construction industry are digital construction and low environmental impact. As a prominent digital construction technology, concrete 3D printing has attracted increasing attention. However, the current understanding of the durability of 3D printed cement-based materials (3DPCM) remains limited, which hinders its wider application, especially as load-bearing, reinforced concrete structures. This work shares the knowledge acquired during a broad interlaboratory study regarding the durability of 3DPCM with 15 laboratories from 13 countries participating, under the framework of TC 304-ADC ‘Assessment of Additively Manufactured Concrete Materials and Structures’. Anisotropy in water absorption capacity, carbonation and chloride ingress resistance of 3DPCM were evaluated by 15 institutes with their own printable materials and printing equipment. Additionally, the impacts of cold joints on these properties were investigated and a comparison between printed and cast samples was carried out. The outcome of this study indicates that the water absorption test provides information on the bulk porosity of the samples, while the carbonation and chloride ingress tests are more effective and visually reflect the local defects, especially the layer interfaces and cold joints. The water ingress depth of cast samples prepared with printable mixtures is an order of magnitude higher compared to conventional concrete, while their carbonation and chloride ingress resistance are comparable. The sorptivity and estimated water ingress height of printed samples measured in the direction parallel to the filaments is generally higher than that measured in the perpendicular direction and in cast samples. Similarly, the carbonation and chloride ingress depth and rate of printed samples measured in the direction parallel to the filaments is generally higher than that measured in the perpendicular direction or in cast samples. The overall durability of 3DPCM is weakened by anisotropy, these effects can be addressed with targeted mixture design and processing strategies. Due to the variations in printers, printing parameters and materials, three types of cross-section geometries were observed in printed samples with cold joints. The carbonation depth that measured from the maximum carbonation ingress point near the cold joint to the sample edge effectively captures the effect of cold joints in all these three types of cross-section geometries of printed samples. Finally, the participants identified areas of improvement in the methodology and suggestions were made to refine the procedure for adoption in future research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../beka_titt_schu.2023.TEoCCotSLo3PCF/">The Effect of Curing Conditions on the Service Life of 3D Printed Concrete Formwork</a></li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bohl_freu_mai_lowk.2023.S3P/">Shotcrete 3D Printing:<br/>Effect of Material‐Process-Interaction on the Global and Local Material Density</a></li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bohl_mai_lowk.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>A Comparison of Extrusion 3D Printing, Shotcrete 3D Printing and Conventional Casting</a></li>
@@ -113,7 +70,37 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD/">Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_lima_bohl_arun.2025.DAo3PCBM,
+      author            = "Yi Zhang and Lucas Nascimento de Lima and David Böhler and Arun Ravendran Arunothayan and Adewumi John Babafemi and Bilal Baz and Laura Caneda-Martínez and Geert de Schutter and Hongjian Du and Niklas Freund and Yangyunzhi Gao and Lucija Hanžič and Smrati Jain and Zengwu Jiang and Emmanuel Keita and Dirk Lowke and Inka Mai (née Dressler) and Shravan Muthukrishnan and Qiang Ren and Alise Sapata and Māris Šinka and Chalermwut Snguanyat and Katarina Šter and Jolien van der Putten and Zhendi Wang and Timothy Paul Wangler and Kim van Tittelboom",
+      title             = "Durability Assessment of 3D Printed Cement-Based Materials: A RILEM TC 304-ADC Interlaboratory Study",
+      doi               = "10.1617/s11527-025-02797-5",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Zhang, “Durability Assessment of 3D Printed Cement-Based Materials: A RILEM TC 304-ADC Interlaboratory Study”, <i>Materials and Structures</i>, vol. 58, no. 9, 2025, doi: 10.1617/s11527-025-02797-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Yi, Lucas Nascimento de Lima, David Böhler, Arun Ravendran Arunothayan, Adewumi John Babafemi, Bilal Baz, Laura Caneda-Martínez, et al.. “Durability Assessment of 3D Printed Cement-Based Materials: A RILEM TC 304-ADC Interlaboratory Study”. <i>Materials and Structures</i> 58, no. 9 (2025). https://doi.org/10.1617/s11527-025-02797-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

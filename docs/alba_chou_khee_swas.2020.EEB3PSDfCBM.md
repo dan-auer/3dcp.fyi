@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdulrahman Albar, Mehdi Chougan, Mazen Kheetan, Mohammad Swash, Seyed Ghaffar
+    - footer
+title: Albar Abdulrahman, Chougan Mehdi, Kheetan Mazen, Swash Mohammad, Ghaffar Seyed
 description:
 tags:
  - base
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.rineng.2020.100135) Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials ([2020-04](date/2020/04))
-<a href="https://doi.org/10.1016/j.rineng.2020.100135" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2020.100135</a>
+#Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials ([2020-04](date/2020/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2020.100135) <a href="https://doi.org/10.1016/j.rineng.2020.100135" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2020.100135" target="_blank">10.1016/j.rineng.2020.100135</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/albar_m_abdulrahman"><b>Albar</b>&nbsp;Abdulrahman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kheetan_j_mazen"><b>al&nbsp;Kheetan</b>&nbsp;Mazen</a></span>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span><br>
+Journal Article - Results in Engineering, Vol. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> <a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kheetan_j_mazen"><b>al Kheetan</b> Mazen</a> <a href="https://orcid.org/0000-0001-8366-7932" title="ORCID: 0000-0001-8366-7932" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, Vol. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effective%20Extrusion-Based%203D%20Printing%20System%20Design%20for%20Cementitious-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084221456&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3022970056" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2020.100135" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2020.100135?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The widespread popularity of additive manufacturing in most industries ranging from biomedical to aerospace suggests a transformation in manufacturing, which has recently also emerged in the construction sector. This paper presents an active system for the extrusion-based 3D printing of cementitious materials. The system can be extended to other materials and scaled up with slight hardware modifications. The proposed system uses an unconventional yet simplistic approach to generate a consistent output of material throughout the printing process. The effectiveness of the extruder is demonstrated through an extensive printing and testing of various cementitious-based materials. The printing and material parameters, which are essential for high mechanical strength printed object were investigated and optimized through a logical iterative loop of trials. The results showed the shape retention of 3D printed objects using the proposed design of extrusion-based system in conjunction with optimized rheology of cementitious-based materials was encouraging for larger scale 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
@@ -86,8 +63,8 @@ tags:
       <li><a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/fryda_herve"><b>Fryda</b> Hervé</a>, <a href="../../../author/bousseau_jean-noel"><b>Bousseau</b> Jean-Noël</a>, <a href="../../../author/andreani_pierre-antoine"><b>Andreani</b> Pierre-Antoine</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../silv_fryd_bous_andr.2020.EoEACSBUf3CPbOR/">Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "46 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/elhag_babeker_ahmed"><b>Elhag</b> Ahmed</a>, <a href="../../../author/mabrouk_abdelkader"><b>Mabrouk</b> Abdelkader</a>, <a href="../../../author/ghazouani_nejib"><b>Ghazouani</b> Nejib</a>, <a href="../../../author/nasir_umara"><b>Nasir</b> Umara</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../elha_mabr_ghaz_nasi.2025.AiS3PGC/">Advances in Sustainable 3D-Printed Geopolymer Concrete:<br/>Materials, Performance, and Environmental Impact in Next Generation Green Construction</a></li>
       <li><a href="../../../author/hiremath_shivashankarayya"><b>Hiremath</b> Shivashankarayya</a>, <a href="../../../author/mathapati_shrishail_gururaj"><b>Mathapati</b> Gururaj</a>, <a href="../../../author/chiniwar_s_dundesh"><b>Chiniwar</b> Dundesh</a>, <a href="../../../author/vishwanatha_m_h"><b>Vishwanatha</b> H.</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../hire_math_chin_vish.2025.PEoCCbDaESfC3P/">Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing</a></li>
@@ -135,4 +112,33 @@ tags:
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alba_chou_khee_swas.2020.EEB3PSDfCBM,
+      author            = "Abdulrahman M. Albar and Mehdi Chougan and Mazen J. al Kheetan and Mohammad Rafiq Swash and Seyed Hamidreza Ghaffar",
+      title             = "Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials",
+      doi               = "10.1016/j.rineng.2020.100135",
+      year              = "2020",
+      journal           = "Results in Engineering",
+      volume            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. M. Albar, M. Chougan, M. J. al Kheetan, M. R. Swash and S. H. Ghaffar, “Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials”, <i>Results in Engineering</i>, vol. 6, 2020, doi: 10.1016/j.rineng.2020.100135.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Albar, Abdulrahman M., Mehdi Chougan, Mazen J. al Kheetan, Mohammad Rafiq Swash, and Seyed Hamidreza Ghaffar. “Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials”. <i>Results in Engineering</i> 6 (2020). https://doi.org/10.1016/j.rineng.2020.100135.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

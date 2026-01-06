@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eric Barnett, Clément Gosselin
+    - footer
+title: Barnett Eric, Gosselin Clément
 description:
 tags:
  - cable
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Large-Scale 3D Printing with a Cable-Suspended Robot ([2015-06](date/2015/06))
-<a href="https://doi.org/10.1016/j.addma.2015.05.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2015.05.001</a>
+#Large-Scale 3D Printing with a Cable-Suspended Robot ([2015-06](date/2015/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2015.05.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2015.05.001" target="_blank">10.1016/j.addma.2015.05.001</a>
 
--------------------------
+<a href="../../../author/barnett_eric"><b>Barnett</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7422-4515" title="ORCID: 0000-0001-7422-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gosselin_m_clement"><b>Gosselin</b>&nbsp;Clément</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 7, pp. 27-44
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>
-,     <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="https://orcid.org/0000-0001-7422-4515" title="ORCID: 0000-0001-7422-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 7, pp. 27-44
-
-:aca-blank:{ .lg .middle}
-    [`#cable`](keyword/cable)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#scale`](keyword/scale)
-    [`#suspension`](keyword/suspension)
-
-
--------------------------
+<a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/suspension"><button class="btn">#suspension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Printing%20with%20a%20Cable-Suspended%20Robot" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84938082967&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W640460597" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2015.05.001" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2015.05.001?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Although additive manufacturing (AM) is now a well-established industry, very few large-scale AM systems have been developed. Here, a large-scale 3D printer is introduced, which uses a six-degreeof-freedom cable-suspended robot for positioning, with polyurethane foam as the object material and shaving foam as the support material. Cable-positioning systems provide large ranges of motion and cables can be compactlywoundon spools, makingthem less expensive,much lighter, more transportable, and more easily reconfigurable, compared to the gantry-type positioning systems traditionally used in 3D printing. The 3D foam printer performance is demonstrated through the construction of a 2.16-mhigh statue of Sir Wilfrid Laurier, the seventh Prime Minister of Canada, at an accuracy of approximately 1cm, which requires 38h of printing time. The system advantages and drawbacks are then discussed, and novel features such as unique support techniques and geometric feedback are highlighted. Finally, a description of the planned system modifications is provided.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -69,8 +51,8 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lee_chang-hwan"><b>Lee</b> Chang-Hwan</a>, <a href="../../../author/gwak_kwan-woong"><b>Gwak</b> Kwan-Woong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lee_gwak.2025.EVoaCDPRf3PBC/">Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq_amzi.2025.3CP/">3D Concrete Printing</a></li>
       <li><a href="../../../author/roschli_c_alex"><b>Roschli</b> Alex</a>, <a href="../../../author/post_k_brian"><b>Post</b> Brian</a>, <a href="../../../author/wang_l_peter"><b>Wang</b> Peter</a>, <a href="../../../author/chesser_c_phillip"><b>Chesser</b> Phillip</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../rosc_post_wang_ches.2025.TCoSUiLFAM/">The Cost of Scaling-Up in Large-Format Additive Manufacturing</a></li>
@@ -113,4 +95,34 @@ tags:
       <li><a href="../../../author/izard_jean-baptiste"><b>Izard</b> Jean-Baptiste</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/herve_pierre-elie"><b>Hervé</b> Pierre-Elie</a>, <a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../izar_dubo_herv_caba.2018.OtIoaCDPRfAAMfC/">On the Improvements of a Cable-Driven Parallel Robot for Achieving Additive Manufacturing for Construction</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{barn_goss.2015.LS3PwaCSR,
+      author            = "Eric Barnett and Clément M. Gosselin",
+      title             = "Large-Scale 3D Printing with a Cable-Suspended Robot",
+      doi               = "10.1016/j.addma.2015.05.001",
+      year              = "2015",
+      journal           = "Additive Manufacturing",
+      volume            = "7",
+      pages             = "27--44",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Barnett  and C. M. Gosselin, “Large-Scale 3D Printing with a Cable-Suspended Robot”, <i>Additive Manufacturing</i>, vol. 7, pp. 27–44, 2015, doi: 10.1016/j.addma.2015.05.001.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Barnett, Eric, and Clément M. Gosselin. “Large-Scale 3D Printing with a Cable-Suspended Robot”. <i>Additive Manufacturing</i> 7 (2015): 27–44. https://doi.org/10.1016/j.addma.2015.05.001.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

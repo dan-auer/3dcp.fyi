@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yidong Chen, Yunsheng Zhang, Bo Pang, Zhiyong Liu, Guojian Liu
+    - footer
+title: Chen Yidong, Zhang Yunsheng, Pang Bo, Liu Zhiyong, Liu Guojian
 description:
 tags:
  - aggregate
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>:aca-blank: Printability and Direction-Dependent Mechanical Performance ([2021-05](date/2021/05))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.123624" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.123624</a>
+#Extrusion-Based 3D Printing Concrete with Coarse Aggregate&nbsp;([2021-05](date/2021/05))
+<div class="h1-like">Printability and Direction-Dependent Mechanical Performance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.123624" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.123624" target="_blank">10.1016/j.conbuildmat.2021.123624</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yidong"><b>Chen</b>&nbsp;Yidong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pang_bo"><b>Pang</b>&nbsp;Bo</a></span>, <a href="../../../author/liu_zhiyong"><b>Liu</b>&nbsp;Zhiyong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_guojian"><b>Liu</b>&nbsp;Guojian</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 296
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> <a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pang_bo"><b>Pang</b> Bo</a> <a href="https://orcid.org/0000-0002-7040-0363" title="ORCID: 0000-0002-7040-0363" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>
-,     <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> <a href="https://orcid.org/0000-0003-2023-2741" title="ORCID: 0000-0003-2023-2741" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 296, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#base`](keyword/base)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#direction`](keyword/direction)
-    [`#extrusion`](keyword/extrusion)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extrusion-Based%203D%20Printing%20Concrete%20with%20Coarse%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85106950440&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,19 +42,14 @@ tags:
 <a href="https://inciteful.xyz/p/W3164178248" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.123624" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.123624?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete with coarse aggregate in the 3D concrete printing (3DCP) has broad prospects for high strength, low cost and shrinkage. In this study, an extrusion-based 3D printer was designed and utilized to print concrete with the largest aggregate size of 20 mm. Printable concrete with coarse aggregate was designed by different volume ratios of cement to aggregate (C/A). Then the effect of C/A on the printability and direction-dependent mechanical performance was investigated. X-ray micro-computed tomography (X-CT) was used to detect and analyze the voids distribution characteristics of printed specimens. Scanning electron microscope (SEM) investigations of microstructure at the interlayer area were conducted. Results indicated that the initial flowability of printable concrete should be within 178– 200 mm, and the recommended printable C/A was within 0.35–0.60. The decrease of C/A improved the maximum printing height and mechanical performance but weakened the shape-stability of the multilayer structure. X-CT results indicated that reducing excess slurry content caused by the decline of C/A decreased the compactness of the printed structure. The compressive strength and flexural strength of 3D printed specimens showed a direction-dependent characteristic, mainly related to the non-uniform distribution of voids revealed by X-CT. SEM images revealed the ‘‘micro-bridging” morphology in the interlayer area and proved that there were carbonation and structural weakening problems at the surface and surrounding of this area.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
-      <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a></li>
@@ -116,8 +90,8 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "87 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -205,6 +179,34 @@ tags:
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD/">A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
-      <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_pang_liu.2021.EB3PCwCA,
+      author            = "Yidong Chen and Yunsheng Zhang and Bo Pang and Zhiyong Liu and Guojian Liu",
+      title             = "Extrusion-Based 3D Printing Concrete with Coarse Aggregate: Printability and Direction-Dependent Mechanical Performance",
+      doi               = "10.1016/j.conbuildmat.2021.123624",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "296",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, Y. Zhang, B. Pang, Z. Liu and G. Liu, “Extrusion-Based 3D Printing Concrete with Coarse Aggregate: Printability and Direction-Dependent Mechanical Performance”, <i>Construction and Building Materials</i>, vol. 296, 2021, doi: 10.1016/j.conbuildmat.2021.123624.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yidong, Yunsheng Zhang, Bo Pang, Zhiyong Liu, and Guojian Liu. “Extrusion-Based 3D Printing Concrete with Coarse Aggregate: Printability and Direction-Dependent Mechanical Performance”. <i>Construction and Building Materials</i> 296 (2021). https://doi.org/10.1016/j.conbuildmat.2021.123624.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

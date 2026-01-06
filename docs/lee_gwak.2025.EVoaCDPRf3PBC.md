@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chang-Hwan Lee, Kwan-Woong Gwak
+    - footer
+title: Lee Chang-Hwan, Gwak Kwan-Woong
 description:
 tags:
  - buildability
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s00170-025-16533-4.pdf) Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1007/s00170-025-16533-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s00170-025-16533-4</a>
+#Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction ([2025-09](date/2025/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s00170-025-16533-4.pdf) <a href="https://doi.org/10.1007/s00170-025-16533-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-025-16533-4" target="_blank">10.1007/s00170-025-16533-4</a>
 
--------------------------
+<a href="../../../author/lee_chang-hwan"><b>Lee</b>&nbsp;Chang-Hwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9170-3139" title="ORCID: 0000-0001-9170-3139" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gwak_kwan-woong"><b>Gwak</b>&nbsp;Kwan-Woong</a></span><br>
+Journal Article - The International Journal of Advanced Manufacturing Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lee_chang-hwan"><b>Lee</b> Chang-Hwan</a>
-,     <a href="../../../author/gwak_kwan-woong"><b>Gwak</b> Kwan-Woong</a> <a href="https://orcid.org/0000-0001-9170-3139" title="ORCID: 0000-0001-9170-3139" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - The International Journal of Advanced Manufacturing Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cable`](keyword/cable)
-    [`#construction`](keyword/construction)
-    [`#experiment`](keyword/experiment)
-    [`#parallel`](keyword/parallel)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#validation`](keyword/validation)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/parallel"><button class="btn">#parallel</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Validation%20of%20a%20Cable%20Driven%20Parallel%20Robot%20for%203D%20Printing%20Building%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016882427&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414427566" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s00170-025-16533-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s00170-025-16533-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents and experimentally validates a novel cable-driven parallel robot (CDPR) for 3D printing building construction (3DPBC). The system uses five cables with four lower cables moving vertically in synchronization with the building height to prevent structural interference. A fifth vertical cable supports the end-effector payload. Key innovations include a real-time minimum tension distribution algorithm and a sensor fusion position estimation method combining laser tracker measurements with cable encoder data. An integrated system was developed incorporating the CDPR, clay extrusion nozzle, and laser tracker. Laboratory experiments involving a scaled two-story building (0.6 m × 0.3 m × 0.6 m) demonstrated precise trajectory tracking with RMS position errors below 1 mm and stable tension control, validating the proposed approach for precise 3DPBC applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -74,7 +54,35 @@ tags:
       <li><a href="../../../author/tho_phuoc_tuong"><b>Tho</b> Tuong</a>, <a href="../../../author/thinh_truong_nguyen"><b>Thinh</b> Nguyen</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../tho_thin.2021.UaCDPRwAi3CP/">Using a Cable-Driven Parallel Robot with Applications in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lee_gwak.2025.EVoaCDPRf3PBC,
+      author            = "Chang-Hwan Lee and Kwan-Woong Gwak",
+      title             = "Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction",
+      doi               = "10.1007/s00170-025-16533-4",
+      year              = "2025",
+      journal           = "The International Journal of Advanced Manufacturing Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C.-H. Lee  and K.-W. Gwak, “Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction”, <i>The International Journal of Advanced Manufacturing Technology</i>, 2025, doi: 10.1007/s00170-025-16533-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lee, Chang-Hwan, and Kwan-Woong Gwak. “Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction”. <i>The International Journal of Advanced Manufacturing Technology</i>, 2025. https://doi.org/10.1007/s00170-025-16533-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

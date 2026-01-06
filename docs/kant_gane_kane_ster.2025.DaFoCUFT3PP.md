@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Antreas Kantaros, Theodore Ganetsos, Zoe Kanetaki, Constantinos Stergiou, Evangelos Pallis, Michail Papoutsidakis
+    - footer
+title: Kantaros Antreas, Ganetsos Theodore, Kanetaki Zoe, Stergiou Constantinos, Pallis Evangelos, Papoutsidakis Michail
 description:
 tags:
  - customization
@@ -13,31 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2227-9717/13/8/2492/pdf?version=1754562919) Design and Fabrication of Customizable Urban Furniture Through 3D Printing Processes ([2025-08](date/2025/08))
-<a href="https://doi.org/10.3390/pr13082492" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/pr13082492</a>
+#Design and Fabrication of Customizable Urban Furniture Through 3D Printing Processes ([2025-08](date/2025/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2227-9717/13/8/2492/pdf?version=1754562919) <a href="https://doi.org/10.3390/pr13082492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr13082492" target="_blank">10.3390/pr13082492</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7927-1468" title="ORCID: 0000-0001-7927-1468" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kantaros_antreas"><b>Kantaros</b>&nbsp;Antreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2081-4960" title="ORCID: 0000-0003-2081-4960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ganetsos_theodore"><b>Ganetsos</b>&nbsp;Theodore</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5114-888X" title="ORCID: 0000-0001-5114-888X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanetaki_zoe"><b>Kanetaki</b>&nbsp;Zoe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2951-6273" title="ORCID: 0000-0003-2951-6273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stergiou_constantinos"><b>Stergiou</b>&nbsp;Constantinos</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2373-9775" title="ORCID: 0000-0003-2373-9775" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pallis_evangelos"><b>Pallis</b>&nbsp;Evangelos</a></span>, <a href="../../../author/papoutsidakis_michail"><b>Papoutsidakis</b>&nbsp;Michail</a></span><br>
+Journal Article - Processes, Vol. 13, Iss. 8, No. 2492
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kantaros_antreas"><b>Kantaros</b> Antreas</a> <a href="https://orcid.org/0000-0001-7927-1468" title="ORCID: 0000-0001-7927-1468" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ganetsos_theodore"><b>Ganetsos</b> Theodore</a> <a href="https://orcid.org/0000-0003-2081-4960" title="ORCID: 0000-0003-2081-4960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kanetaki_zoe"><b>Kanetaki</b> Zoe</a> <a href="https://orcid.org/0000-0001-5114-888X" title="ORCID: 0000-0001-5114-888X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stergiou_constantinos"><b>Stergiou</b> Constantinos</a> <a href="https://orcid.org/0000-0003-2951-6273" title="ORCID: 0000-0003-2951-6273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pallis_evangelos"><b>Pallis</b> Evangelos</a> <a href="https://orcid.org/0000-0003-2373-9775" title="ORCID: 0000-0003-2373-9775" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/papoutsidakis_michail"><b>Papoutsidakis</b> Michail</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Processes, Vol. 13, Iss. 8, No. 2492
-
-:aca-blank:{ .lg .middle}
-    [`#customization`](keyword/customization)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Fabrication%20of%20Customizable%20Urban%20Furniture%20Through%203D%20Printing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014267753&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413040150" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/pr13082492" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/pr13082492?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Continuous progress in the sector of additive manufacturing has drastically aided the design and fabrication of urban furniture, offering high levels of customization and adaptability. This work looks into the potential of 3D printing to transform urban public spaces by allowing for the creation of functional, aesthetically pleasing, and user-centered furniture solutions. Through additive manufacturing processes, urban furniture can be tailored to meet the unique needs of diverse communities, allowing for the extended usage of sustainable materials, modular designs, and smart technologies. The flexibility of 3D printing also promotes the fabrication of complex, intricate designs that would be difficult or cost-prohibitive using traditional methods. Additionally, 3D-printed furniture can be optimized for specific environmental conditions, providing solutions that enhance accessibility, improve comfort, and promote inclusivity. The various advantages of 3D-printed urban furniture are examined, including reduced material waste and the ability to rapidly prototype and iterate designs alongside the potential for on-demand, local production. By embedding sensors and IoT devices, 3D-printed furniture can also contribute to the development of smart cities, providing real-time data for urban management and improving the overall user experience. As cities continue to encourage and adopt sustainable and innovative solutions, 3D printing is believed to play a crucial role in future urban infrastructure planning.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/grassi_giulia"><b>Grassi</b> Giulia</a>, <a href="../../../author/lupica-spagnolo_sonia"><b>Lupica Spagnolo</b> Sonia</a>, <a href="../../../author/paoletti_ingrid"><b>Paoletti</b> Ingrid</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../gras_lupi_paol.2019.FaDToa3PFfDC/">Fabrication and Durability Testing of a 3D Printed Façade for Desert Climates</a></li>
       <li><a href="../../../author/luhar_salmabanu"><b>Luhar</b> Salmabanu</a>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/luhar_ismail"><b>Luhar</b> Ismail</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../luha_sunt_nava_luha.2020.SaRBBNFaIAf3PC/">Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete:<br/>A Review</a></li>
@@ -77,7 +56,38 @@ tags:
       <li><a href="../../../author/yu_haoxuan"><b>Yu</b> Haoxuan</a>, <a href="../../../author/wen_bodong"><b>Wen</b> Bodong</a>, <a href="../../../author/zahidi_izni"><b>Zahidi</b> Izni</a>, <a href="../../../author/chow_ming"><b>Chow</b> Ming</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yu_wen_zahi_chow.2024.CtF/">Constructing the Future:<br/>Policy-Driven Digital Fabrication in China's Urban Development</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kant_gane_kane_ster.2025.DaFoCUFT3PP,
+      author            = "Antreas Kantaros and Theodore Ganetsos and Zoe Kanetaki and Constantinos Stergiou and Evangelos Pallis and Michail Papoutsidakis",
+      title             = "Design and Fabrication of Customizable Urban Furniture Through 3D Printing Processes",
+      doi               = "10.3390/pr13082492",
+      year              = "2025",
+      journal           = "Processes",
+      volume            = "13",
+      number            = "8",
+      pages             = "2492",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kantaros, T. Ganetsos, Z. Kanetaki, C. Stergiou, E. Pallis and M. Papoutsidakis, “Design and Fabrication of Customizable Urban Furniture Through 3D Printing Processes”, <i>Processes</i>, vol. 13, no. 8, p. 2492, 2025, doi: 10.3390/pr13082492.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kantaros, Antreas, Theodore Ganetsos, Zoe Kanetaki, Constantinos Stergiou, Evangelos Pallis, and Michail Papoutsidakis. “Design and Fabrication of Customizable Urban Furniture Through 3D Printing Processes”. <i>Processes</i> 13, no. 8 (2025): 2492. https://doi.org/10.3390/pr13082492.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

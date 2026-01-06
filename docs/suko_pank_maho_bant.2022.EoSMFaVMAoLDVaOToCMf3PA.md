@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Piti Sukontasukkul, Kasidet Panklum, Buchit Maho, Nemkumar Banthia, Pitcha Jongvivatsakul, Thanongsak Imjai, Vanchai Sata, Suchart Limkatanyu, Prinya Chindaprasirt
+    - footer
+title: Sukontasukkul Piti, Panklum Kasidet, Maho Buchit, Banthia Nemkumar, Jongvivatsakul Pitcha, Imjai Thanongsak, Sata Vanchai, Limkatanyu Suchart, Chindaprasirt Prinya
 description:
 tags:
  - agent
@@ -23,44 +24,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application ([2021-12](date/2021/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.126111" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.126111</a>
+#Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application ([2021-12](date/2021/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.126111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.126111" target="_blank">10.1016/j.conbuildmat.2021.126111</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9580-7063" title="ORCID: 0000-0002-9580-7063" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b>&nbsp;Piti</a></span>, <a href="../../../author/panklum_kasidet"><b>Panklum</b>&nbsp;Kasidet</a></span>, <a href="../../../author/maho_buchit"><b>Maho</b>&nbsp;Buchit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <a href="../../../author/jongvivatsakul_pitcha"><b>Jongvivatsakul</b>&nbsp;Pitcha</a></span>, <a href="../../../author/imjai_thanongsak"><b>Imjai</b>&nbsp;Thanongsak</a></span>, <a href="../../../author/sata_vanchai"><b>Sata</b>&nbsp;Vanchai</a></span>, <a href="../../../author/limkatanyu_suchart"><b>Limkatanyu</b>&nbsp;Suchart</a></span>, <a href="../../../author/chindaprasirt_prinya"><b>Chindaprasirt</b>&nbsp;Prinya</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 319
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b> Piti</a> <a href="https://orcid.org/0000-0002-9580-7063" title="ORCID: 0000-0002-9580-7063" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panklum_kasidet"><b>Panklum</b> Kasidet</a>
-,     <a href="../../../author/maho_buchit"><b>Maho</b> Buchit</a>
-,     <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> <a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jongvivatsakul_pitcha"><b>Jongvivatsakul</b> Pitcha</a>
-,     <a href="../../../author/imjai_thanongsak"><b>Imjai</b> Thanongsak</a>
-,     <a href="../../../author/sata_vanchai"><b>Sata</b> Vanchai</a>
-,     <a href="../../../author/limkatanyu_suchart"><b>Limkatanyu</b> Suchart</a>
-,     <a href="../../../author/chindaprasirt_prinya"><b>Chindaprasirt</b> Prinya</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 319, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#agent`](keyword/agent)
-    [`#application`](keyword/application)
-    [`#cement`](keyword/cement)
-    [`#deformation`](keyword/deformation)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#layer`](keyword/layer)
-    [`#micro`](keyword/micro)
-    [`#modification`](keyword/modification)
-    [`#mortar`](keyword/mortar)
-    [`#open`](keyword/open)
-    [`#print`](keyword/print)
-    [`#synthesis`](keyword/synthesis)
-    [`#time`](keyword/time)
-    [`#viscosity`](keyword/viscosity)
-
-
--------------------------
+<a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/open"><button class="btn">#open</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/synthesis"><button class="btn">#synthesis</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Synthetic%20Micro-Fiber%20and%20Viscosity-Modifying-Agent%20on%20Layer%20Deformation%2C%20Viscosity%2C%20and%20Open-Time%20of%20Cement%20Mortar%20for%203D%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122482999&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -75,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200214838" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.126111" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.126111?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Layer deformation or settlement is one of the important issues for cement printing applications. In this study, synthetic microfibers and viscosity modifier agent were introduced into cement mortar mixture to deal with it. Three types of mortar control or plain mortar, fiber reinforced mortar (FRM), and mortar mixed with viscosity modifier agent (VMA) were tested. For FRM, the fibers were mixed at 4 different proportions (from 0.025 to 0.10% by volume of mortar). For VMA, two mix proportions at 0.1 and 0.5% by weight of binder were used. Series of experiment including flow, mechanical properties, viscosity, printability time, and layer deformation were carried out. Results indicated that both VMA and fiber helped reduce the layer deformation and shorten the open time noticeably. However, while the fiber improved the mechanical properties of mortar, the VMA provided negative effect to the mechanical properties. The shear stress corresponding to the open time of FRM mortars was found.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -98,8 +64,8 @@ tags:
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../ghod_sing_sing_chow.2025.AMSMaSiCaBA/">Additively Manufactured Smart Materials and Structures in Construction and Building Applications</a></li>
       <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ahad_vali.2025.ZRMf3CP/">Zigzag Reinforcement Method for 3D Concrete Printing</a></li>
@@ -115,4 +81,33 @@ tags:
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{suko_pank_maho_bant.2022.EoSMFaVMAoLDVaOToCMf3PA,
+      author            = "Piti Sukontasukkul and Kasidet Panklum and Buchit Maho and Nemkumar Banthia and Pitcha Jongvivatsakul and Thanongsak Imjai and Vanchai Sata and Suchart Limkatanyu and Prinya Chindaprasirt",
+      title             = "Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application",
+      doi               = "10.1016/j.conbuildmat.2021.126111",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "319",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Sukontasukkul, “Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application”, <i>Construction and Building Materials</i>, vol. 319, 2022, doi: 10.1016/j.conbuildmat.2021.126111.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sukontasukkul, Piti, Kasidet Panklum, Buchit Maho, Nemkumar Banthia, Pitcha Jongvivatsakul, Thanongsak Imjai, Vanchai Sata, Suchart Limkatanyu, and Prinya Chindaprasirt. “Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application”. <i>Construction and Building Materials</i> 319 (2022). https://doi.org/10.1016/j.conbuildmat.2021.126111.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

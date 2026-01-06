@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sotirios Pemas, Dimitrios Baliakas, Eleftheria Pechlivani, Maria Stefanidou
+    - footer
+title: Pemas Sotirios, Baliakas Dimitrios, Pechlivani Eleftheria, Stefanidou Maria
 description:
 tags:
  - additive
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction ([2025-07](date/2025/07))
-<a href="https://doi.org/10.3390/ma18143375" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma18143375</a>
+#Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction ([2025-07](date/2025/07))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/ma18143375" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18143375" target="_blank">10.3390/ma18143375</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-4416-0813" title="ORCID: 0009-0000-4416-0813" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pemas_sotirios"><b>Pemas</b>&nbsp;Sotirios</a></span>, <a href="../../../author/baliakas_dimitrios"><b>Baliakas</b>&nbsp;Dimitrios</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6385-2815" title="ORCID: 0000-0001-6385-2815" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b>&nbsp;Eleftheria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1428-9533" title="ORCID: 0000-0002-1428-9533" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stefanidou_maria"><b>Stefanidou</b>&nbsp;Maria</a></span><br>
+Journal Article - Materials, Vol. 18, Iss. 14
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a> <a href="https://orcid.org/0009-0000-4416-0813" title="ORCID: 0009-0000-4416-0813" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baliakas_dimitrios"><b>Baliakas</b> Dimitrios</a>
-,     <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a> <a href="https://orcid.org/0000-0001-6385-2815" title="ORCID: 0000-0001-6385-2815" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="https://orcid.org/0000-0002-1428-9533" title="ORCID: 0000-0002-1428-9533" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 18, Iss. 14, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#bio`](keyword/bio)
-    [`#construction`](keyword/construction)
-    [`#green`](keyword/green)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Bio-Printed%20Mortars%20with%20Bio-Additives%20for%20Green%20and%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011644401&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412784624" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma18143375" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma18143375?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) has brought significant breakthroughs to the construction sector, such as the ability to fabricate complex geometries, enhance efficiency, and reduce both material usage and construction waste. However, several challenges must still be addressed to fully transition from conventional construction practices to innovative and sustainable green alternatives. This study investigates the use of non-cementitious traditional mixtures for green construction applications through 3D printing using Liquid Deposition Modeling (LDM) technology. To explore the development of mixtures with enhanced physical and mechanical properties, natural pine and cypress wood shavings were added in varying proportions (1%, 3%, and 5%) as sustainable additives. The aim of this study is twofold: first, to demonstrate the printability of these eco-friendly mortars that can be used for conservation purposes and overcome the challenges of incorporating bio-products in 3D printing; and second, to develop sustainable composites that align with the objectives of the European Green Deal, offering low-emission construction solutions. The proposed mortars use hydrated lime and natural pozzolan as binders, river sand as an aggregate, and a polycarboxylate superplasticizer. While most studies with bio-products focus on traditional methods, this research provides proof of concept for their use in 3D printing. The study results indicate that, at low percentages, both additives had minimal effect on the physical and mechanical properties of the tested mortars, whereas higher percentages led to progressively more significant deterioration. Additionally, compared to molded specimens, the 3D-printed mortars exhibited slightly reduced mechanical strength and increased porosity, attributable to insufficient compaction during the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dias_bran_figu_cruz.2024.TPoNFRi3PC/">The Potential of Natural Fiber-Reinforcement in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/kladovasilakis_nikolaos"><b>Kladovasilakis</b> Nikolaos</a>, <a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a>, <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../klad_pema_pech.2024.CADo3PCBCMRwBILS/">Computer-Aided Design of 3D Printed Clay-Based Composite Mortars Reinforced with Bio-Inspired Lattice Structures</a></li>
@@ -81,7 +58,37 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/tabassum_toiba"><b>Tabassum</b> Toiba</a>, <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b> Ajaz</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../taba_ahma.2023.ARo3PT/">A Review of 3D Printing Technology:<br/>The Future of Sustainable Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pema_bali_pech_stef.2025.MPoBPMwBAfGaSC,
+      author            = "Sotirios Pemas and Dimitrios Baliakas and Eleftheria Maria Pechlivani and Maria Stefanidou",
+      title             = "Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction",
+      doi               = "10.3390/ma18143375",
+      year              = "2025",
+      journal           = "Materials",
+      volume            = "18",
+      number            = "14",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Pemas, D. Baliakas, E. M. Pechlivani and M. Stefanidou, “Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction”, <i>Materials</i>, vol. 18, no. 14, 2025, doi: 10.3390/ma18143375.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pemas, Sotirios, Dimitrios Baliakas, Eleftheria Maria Pechlivani, and Maria Stefanidou. “Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction”. <i>Materials</i> 18, no. 14 (2025). https://doi.org/10.3390/ma18143375.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

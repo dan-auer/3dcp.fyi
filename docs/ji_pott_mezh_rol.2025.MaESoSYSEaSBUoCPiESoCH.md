@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yianliang Ji, Ursula Pott, Alexander Mezhov, Christiane Rößler, Dietmar Stephan
+    - footer
+title: Ji Yianliang, Pott Ursula, Mezhov Alexander, Rößler Christiane, Stephan Dietmar
 description:
 tags:
  - buildability
@@ -21,38 +22,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2024.107710) Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1016/j.cemconres.2024.107710" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2024.107710</a>
+#Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2024.107710) <a href="https://doi.org/10.1016/j.cemconres.2024.107710" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107710" target="_blank">10.1016/j.cemconres.2024.107710</a>
 
--------------------------
+<a href="../../../author/ji_yianliang"><b>Ji</b>&nbsp;Yianliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pott_ursula"><b>Pott</b>&nbsp;Ursula</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2880-8354" title="ORCID: 0000-0003-2880-8354" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mezhov_alexander"><b>Mezhov</b>&nbsp;Alexander</a></span>, <a href="../../../author/rossler_christiane"><b>Rößler</b>&nbsp;Christiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 187, No. 107710
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ji_yianliang"><b>Ji</b> Yianliang</a>
-,     <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> <a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> <a href="https://orcid.org/0000-0003-2880-8354" title="ORCID: 0000-0003-2880-8354" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rossler_christiane"><b>Rößler</b> Christiane</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 187, No. 107710
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#early`](keyword/early)
-    [`#evolutionary`](keyword/evolutionary)
-    [`#experiment`](keyword/experiment)
-    [`#hydration`](keyword/hydration)
-    [`#model`](keyword/model)
-    [`#paste`](keyword/paste)
-    [`#stage`](keyword/stage)
-    [`#static`](keyword/static)
-    [`#stress`](keyword/stress)
-    [`#structure`](keyword/structure)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/stage"><button class="btn">#stage</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modelling%20and%20Experimental%20Study%20on%20Static%20Yield-Stress-Evolution%20and%20Structural%20Build-Up%20of%20Cement-Paste%20in%20Early-Stage%20of%20Cement%20Hydration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209347109&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404556786" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2024.107710" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2024.107710?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Static yield stress is crucial for concrete, especially for 3D printed concrete, as it determines whether the bottom layer can support the load of the subsequent layers or withstand any potential impulses. A better understanding of the evolution of the static yield stress and its changing mechanism is therefore needed. Under the assumption that hydrate formation follows fractal patterns, this work proposes a model for simulating static yield stress that links the hydration process and bridging possibility. To validate the model, parameters were first obtained from the BNG (Boundary Nucleation Growth) equation fitted with calorimetry data, and the relation of associated hydration rates to sound speed variation rate was analyzed. Results showed that the proposed model predicts well the static yield stress obtained with a penetration test, under varying water-cement ratios and accelerator conditions. The fitted parameter β was found to correlate with size and morphology of the hydration products, suggesting that the model can not only simulate the static yield stress, but also capture the structural build-up information. Furthermore, the decrease in fractal-related β implies that more compact hydrates are formed during hydration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/hipp_b_julie"><b>Hipp</b> Julie</a>, <a href="../../../author/allen_j_andrew"><b>Allen</b> Andrew</a>, <a href="../../../author/gagnon_v_cedric"><b>Gagnon</b> Cedric</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../jone_hipp_alle_gagn.2022.RaMDoHTS/">Rheology and Microstructure Development of Hydrating-Tricalcium-Silicate:<br/>Implications for Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/marchesini_h_flavio"><b>Marchesini</b> Flávio</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../mira_marc_lesa_schu.2023.TEotRBoHCS/">The Evolution of the Rheological Behavior of Hydrating Cement Systems:<br/>Combining Constitutive Modeling with Rheometry, Calorimetry and Mechanical Analyses</a></li>
@@ -89,7 +61,37 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ji_pott_mezh_rol.2025.MaESoSYSEaSBUoCPiESoCH,
+      author            = "Yianliang Ji and Ursula Pott and Alexander Mezhov and Christiane Rößler and Dietmar Stephan",
+      title             = "Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration",
+      doi               = "10.1016/j.cemconres.2024.107710",
+      year              = "2025",
+      journal           = "Cement and Concrete Research",
+      volume            = "187",
+      pages             = "107710",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Ji, U. Pott, A. Mezhov, C. Rößler and D. Stephan, “Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration”, <i>Cement and Concrete Research</i>, vol. 187, p. 107710, 2025, doi: 10.1016/j.cemconres.2024.107710.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ji, Yianliang, Ursula Pott, Alexander Mezhov, Christiane Rößler, and Dietmar Stephan. “Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration”. <i>Cement and Concrete Research</i> 187 (2025): 107710. https://doi.org/10.1016/j.cemconres.2024.107710.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

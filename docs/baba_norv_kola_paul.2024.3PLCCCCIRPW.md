@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adewumi Babafemi, Chris Norval, John Kolawole, Suvash Paul, Kamoru Ibrahim
+    - footer
+title: Babafemi Adewumi, Norval Chris, Kolawole John, Paul Suvash, Ibrahim Kamoru
 description:
 tags:
  - cement
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>:aca-blank: RESIN8 ([2024-04](date/2024/04))
-<a href="https://doi.org/10.1016/j.rineng.2024.102112" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.rineng.2024.102112</a>
+#3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste&nbsp;([2024-04](date/2024/04))
+<div class="h1-like">RESIN8</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.rineng.2024.102112" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2024.102112" target="_blank">10.1016/j.rineng.2024.102112</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <a href="../../../author/norval_chris"><b>Norval</b>&nbsp;Chris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolawole_temitope_john"><b>Kolawole</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_chandra_suvash"><b>Paul</b>&nbsp;Suvash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b>&nbsp;Kamoru</a></span><br>
+Journal Article - Results in Engineering, No. 102112
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>
-,     <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> <a href="https://orcid.org/0000-0002-7665-1710" title="ORCID: 0000-0002-7665-1710" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> <a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a> <a href="https://orcid.org/0000-0002-7679-253X" title="ORCID: 0000-0002-7679-253X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Results in Engineering, No. 102112
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#incorporation`](keyword/incorporation)
-    [`#limestone`](keyword/limestone)
-    [`#plastic`](keyword/plastic)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Limestone-Calcined-Clay-Cement%20Concrete%20Incorporating%20Recycled%20Plastic-Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189755108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4394008636" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.rineng.2024.102112" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.rineng.2024.102112?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the use of fly ash, limestone calcined clay (LC2), and RESIN8 (from recycled plastics) fine aggregate for sustainable 3D concrete printing. Four different printable mixes were formulated and tested for their fresh, rheological, and hardened mechanical properties and evaluated for extrudability and buildability performance. They are the control (C), which is a fly ash-cement-based mix, LC2-cement-based mix (LC), and two mixes with RESIN8 replacing the sand by 10% vol., yielding CR (control + 10% RESIN8) and LCR (LC2 + 10 RESIN8). The findings from this study show that both LC2 and RESIN8 mix improved the fresh properties for printability – reduced slump, increased yield stress and its evolution, shape retention, and buildability. The LC2 has dual benefits of improving the pumpability and buildability, which are opposing printable materials’ requirements. Furthermore, the use of LC2 in 3DPC causes the fresh material to be susceptible to increased deformation under sustained load, which can be improved with the addition of RESIN8. Incorporating 10% RESIN8 into C- and LC-printed concrete systems reduced the workability by 3.8% (CR) and 1.9% (LCR) and enhanced buildability performance from 46 (C) to 59 (CR) and 74 (LC) to 90 (LCR) number of layers. Contrary to LC2, which improves the hardened properties and interlayer bond strength in flexure, the use of RESIN8 causes strength reduction and decreased void topology (28% for LCR) and significantly increased porosity by 210% and 259% for CR and LCR, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -107,8 +84,10 @@ tags:
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
+      <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b> Aya</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../aabb_mazi_ahac_zogh.2026.S3PCBICW/">Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste:<br/>Toward Circular Economy in Construction</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_khan_mcna.2025.EoNSwHRoGoEMPaRo3PC/">Effect of Nano Silica with High Replacement of GGBS on Enhancing Mechanical Properties and Rheology of 3D Printed Concrete</a></li>
@@ -117,4 +96,33 @@ tags:
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mim_shai_sark.2025.S3PCIAFA/">Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>A Review</a></li>
       <li><a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/mahmood_sultan"><b>Mahmood</b> Sultan</a>, <a href="../../../author/isa_nura_muhammed"><b>Isa</b> Muhammed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../kola_busw_mahm_isa.2025.OtOoAoEB3PC/">On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete:<br/>The Roles of Filament Skin and Agglomeration</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{baba_norv_kola_paul.2024.3PLCCCCIRPW,
+      author            = "Adewumi John Babafemi and Chris Norval and John Temitope Kolawole and Suvash Chandra Paul and Kamoru Ademola Ibrahim",
+      title             = "3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste: RESIN8",
+      doi               = "10.1016/j.rineng.2024.102112",
+      year              = "2024",
+      journal           = "Results in Engineering",
+      pages             = "102112",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. J. Babafemi, C. Norval, J. T. Kolawole, S. C. Paul and K. A. Ibrahim, “3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste: RESIN8”, <i>Results in Engineering</i>, p. 102112, 2024, doi: 10.1016/j.rineng.2024.102112.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Babafemi, Adewumi John, Chris Norval, John Temitope Kolawole, Suvash Chandra Paul, and Kamoru Ademola Ibrahim. “3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste: RESIN8”. <i>Results in Engineering</i>, 2024, 102112. https://doi.org/10.1016/j.rineng.2024.102112.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

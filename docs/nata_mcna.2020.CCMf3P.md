@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Atteyeh Natanzi, Ciaran McNally
+    - footer
+title: Natanzi Atteyeh, McNally Ciaran
 description:
 tags:
  - character
@@ -12,26 +13,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Characterising Concrete Mixes for 3D Printing ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_9</a>
+#Characterising Concrete Mixes for 3D Printing ([2020-07](date/2020/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_9" target="_blank">10.1007/978-3-030-49916-7_9</a>
 
--------------------------
+<a href="../../../author/natanzi_s_atteyeh"><b>Natanzi</b>&nbsp;Atteyeh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 83-92
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/natanzi_s_atteyeh"><b>Natanzi</b> Atteyeh</a>
-,     <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 83-92
-
-:aca-blank:{ .lg .middle}
-    [`#character`](keyword/character)
-    [`#concrete`](keyword/concrete)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Characterising%20Concrete%20Mixes%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088245765&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -46,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3041392990" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry is currently experiencing significant change as building information modeling (BIM), digital design and construction automation are exerting intense pressure on traditional technologies. As an advanced manufacturing technology, three-dimensional (3D) printing has significant potential applications in the construction sector, by utilizing a programmable robotic arm with a nozzle jet, 3D printing can enable us to construct complex concrete structures layer by layer. This new construction technique offers an advanced approach that can potentially accelerate the construction time and improve efficiency. They can work 24/7, even in a hazardous environment while minimising human errors. However, as an advanced cutting-edge technology, there are several remaining challenges to be overcome in comparison to traditional concrete casting, and these include appropriate pumpability, extrudability, buildability, compressive strength and open time for printing concrete. To overcome these challenges this project will investigate the effect of nanoclay to improve the fresh properties of printing concrete. It is considered that by utilizing different amounts of nanoclay and superplasticiser in the mix it will be possible to significantly affect the fresh properties of 3D printed concrete. Printable materials, like any other cementitious materials, flow only when submitted to stresses higher than a critical yield stress. In this project, a shear vane test was used to measure the yield stress of cement-based materials in the lab.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -70,8 +54,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/carr_liam"><b>Carr</b> Liam</a>, <a href="../../../author/zia_asad"><b>Zia</b> Asad</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_carr_zia_khan.2025.A3PCwN/">Advancing 3D Printable Concrete with Nanoclays:<br/>Rheological and Mechanical Insights for Construction Applications</a></li>
       <li><a href="../../../author/gulati_hemant"><b>Gulati</b> Hemant</a>, <a href="../../../author/lu_tianxing"><b>Lu</b> Tianxing</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../gula_lu.2025.C3PC/">Customized 3D Printable Concrete:<br/>A Systematic Review of Challenges, Methodologies, and Adoption Strategies</a></li>
@@ -85,4 +69,35 @@ tags:
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a>, <a href="../../../author/teopilus_d"><b>Teopilus</b> D.</a>, <a href="../../../author/sunaryo_h_a"><b>Sunaryo</b> A.</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../anto_agra_teop_suna.2021.IotMMaFAf3CP/">Investigation of the Material-Mixtures and Fiber-Addition for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{nata_mcna.2020.CCMf3P,
+      author            = "Atteyeh S. Natanzi and Ciaran McNally",
+      title             = "Characterising Concrete Mixes for 3D Printing",
+      doi               = "10.1007/978-3-030-49916-7_9",
+      year              = "2020",
+      volume            = "28",
+      pages             = "83--92",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. Natanzi  and C. McNally, “Characterising Concrete Mixes for 3D Printing”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 83–92. doi: 10.1007/978-3-030-49916-7_9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Natanzi, Atteyeh S., and Ciaran McNally. “Characterising Concrete Mixes for 3D Printing”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:83–92, 2020. https://doi.org/10.1007/978-3-030-49916-7_9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

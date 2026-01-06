@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vislavath Haripan, Shanmugaraj Senthilnathan, Manu Santhanam, Benny Raphael
+    - footer
+title: Haripan Vislavath, Senthilnathan Shanmugaraj, Santhanam Manu, Raphael Benny
 description:
 tags:
  - aggregate
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.144187" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.144187</a>
+#Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate ([2025-10](date/2025/10))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.conbuildmat.2025.144187" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144187" target="_blank">10.1016/j.conbuildmat.2025.144187</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-4853-7587" title="ORCID: 0009-0003-4853-7587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haripan_vislavath"><b>Haripan</b>&nbsp;Vislavath</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5725-0698" title="ORCID: 0000-0002-5725-0698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b>&nbsp;Shanmugaraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/santhanam_manu"><b>Santhanam</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raphael_benny"><b>Raphael</b>&nbsp;Benny</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 500, No. 144187
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a> <a href="https://orcid.org/0009-0003-4853-7587" title="ORCID: 0009-0003-4853-7587" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a> <a href="https://orcid.org/0000-0002-5725-0698" title="ORCID: 0000-0002-5725-0698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 500, No. 144187
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#element`](keyword/element)
-    [`#fine`](keyword/fine)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printability%20Assessment%20of%20Concrete%203D%20Printed%20Elements%20with%20Recycled%20Fine%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020943983&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415655401" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.144187" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.144187?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the printability of concrete with recycled fine aggregates (RFA) for 3D concrete printing (3DCP). RFA was used to replace conventional fine aggregates - crushed stone sand (CS) at 30 %, 50 %, and 100 % levels. Both rectangular and cylindrical hollow specimens were printed to evaluate mix printability. The methodology combined systematic printing trials, rheological assessments, and advanced computer vision (CV) monitoring. Before printing, rheological assessments were done to check the feasibility of the mix. During printing, inline cameras were used to record layer-wise deformations and surface textures to assess printability. Rheological characterisation indicated that higher RFA content increased initial static yield stress (from 1.69 to 1.86 kPa) and accelerated structural recovery. This enabled the construction of a 1 m cylindrical specimen while reducing deformation from 4 % to 0.8 %. Despite the improved buildability, mechanical property evaluation indicated that a 50 % RFA replacement level optimally balanced rheological performance with compressive strength, achieving 44.6 MPa at 28 days, approximately 3–4 % higher than RFA-30 and markedly superior to RFA-100, where higher replacements significantly reduced compressive strength. Flexural strength increased with delayed printing, correlating with increased surface texture. Additionally, water sorptivity rose with higher RFA content due to increased pore connectivity and aggregate porosity. Compared to the control mix (14.4 × 10⁻⁴ g/mm²·h⁰.⁵), sorptivity increased by 21.9 %, 33.8 %, and 72.1 % for RFA-30, RFA-50, and RFA-100, respectively. The integrated approach of inline computer vision and pre-printing rheological assessments produced consistent results, underscoring the reliability of the printability performance of 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -109,7 +87,37 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hari_sent_sant_raph.2025.PAoC3PEwRFA,
+      author            = "Vislavath Haripan and Shanmugaraj Senthilnathan and Manu Santhanam and Benny Raphael",
+      title             = "Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate",
+      doi               = "10.1016/j.conbuildmat.2025.144187",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "500",
+      pages             = "144187",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Haripan, S. Senthilnathan, M. Santhanam and B. Raphael, “Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate”, <i>Construction and Building Materials</i>, vol. 500, p. 144187, 2025, doi: 10.1016/j.conbuildmat.2025.144187.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Haripan, Vislavath, Shanmugaraj Senthilnathan, Manu Santhanam, and Benny Raphael. “Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate”. <i>Construction and Building Materials</i> 500 (2025): 144187. https://doi.org/10.1016/j.conbuildmat.2025.144187.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

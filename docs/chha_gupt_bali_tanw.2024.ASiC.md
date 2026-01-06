@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gulshan Chhabra, Anjali Gupta, Rajan Bali, Lovesh Tanwar
+    - footer
+title: Chhabra Gulshan, Gupta Anjali, Bali Rajan, Tanwar Lovesh
 description:
 tags:
  - advance
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advancing Sustainability in Construction:<br/>:aca-blank: A Comprehensive Study on 3D-Printed Concrete Technologies ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1109/sustained63638.2024.11074126" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/sustained63638.2024.11074126</a>
+#Advancing Sustainability in Construction&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Comprehensive Study on 3D-Printed Concrete Technologies</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/sustained63638.2024.11074126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/sustained63638.2024.11074126" target="_blank">10.1109/sustained63638.2024.11074126</a>
 
--------------------------
+<a href="../../../author/chhabra_gulshan"><b>Chhabra</b>&nbsp;Gulshan</a></span>, <a href="../../../author/gupta_anjali"><b>Gupta</b>&nbsp;Anjali</a></span>, <a href="../../../author/bali_rajan"><b>Bali</b>&nbsp;Rajan</a></span>, <a href="../../../author/tanwar_lovesh"><b>Tanwar</b>&nbsp;Lovesh</a></span><br>
+Contribution - Proceedings of the 1st International Conference on Sustainability and Technological Advancements in Engineering Domain, pp. 653-658
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chhabra_gulshan"><b>Chhabra</b> Gulshan</a>
-,     <a href="../../../author/gupta_anjali"><b>Gupta</b> Anjali</a>
-,     <a href="../../../author/bali_rajan"><b>Bali</b> Rajan</a>
-,     <a href="../../../author/tanwar_lovesh"><b>Tanwar</b> Lovesh</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st International Conference on Sustainability and Technological Advancements in Engineering Domain, pp. 653-658
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Sustainability%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013619873&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412446669" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/sustained63638.2024.11074126" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/sustained63638.2024.11074126?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing has changed many industries, and its effects on construction, particularly with 3D printed concrete (3DPC), are significant. This study looks at the latest advancements in 3DPC and highlights advantages over traditional building methods, like improved design flexibility, less material waste, and lower labor costs. Using eco-friendly materials such as geopolymers also enhances sustainability by reducing reliance on Portland cement, which contributes greatly to global CO, emissions. The review covers progress in various 3D printing techniques, including Extrusion Printing (EP), Binder Jetting Method (BJM), and 3D Printed Formwork, each offering unique solutions for different construction needs. It evaluates various concrete mixtures, additives, and new materials to show improvements in strength, durability, and ease of printing.. Additionally, the cost evaluation demonstrates the potential for 3DPC to cut down on labor costs while increasing material expenses, ultimately offering a competitive advantage in specific construction scenarios. 3DPC plays a crucial role, particularly in areas with limited resources. This study concludes by assessing the future prospects of 3D printed concrete, projecting its wider adoption in both developed and developing nations, driven by the growing demand for sustainable building practices and housing solutions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -89,7 +69,36 @@ tags:
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{chha_gupt_bali_tanw.2024.ASiC,
+      author            = "Gulshan Chhabra and Anjali Gupta and Rajan Bali and Lovesh Tanwar",
+      title             = "Advancing Sustainability in Construction: A Comprehensive Study on 3D-Printed Concrete Technologies",
+      doi               = "10.1109/sustained63638.2024.11074126",
+      year              = "2024",
+      pages             = "653--658",
+      booktitle         = "Proceedings of the 1st International Conference on Sustainability and Technological Advancements in Engineering Domain",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Chhabra, A. Gupta, R. Bali and L. Tanwar, “Advancing Sustainability in Construction: A Comprehensive Study on 3D-Printed Concrete Technologies”, in <i>Proceedings of the 1st International Conference on Sustainability and Technological Advancements in Engineering Domain</i>,  2024, pp. 653–658. doi: 10.1109/sustained63638.2024.11074126.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chhabra, Gulshan, Anjali Gupta, Rajan Bali, and Lovesh Tanwar. “Advancing Sustainability in Construction: A Comprehensive Study on 3D-Printed Concrete Technologies”. In <i>Proceedings of the 1st International Conference on Sustainability and Technological Advancements in Engineering Domain</i>, 653–58, 2024. https://doi.org/10.1109/sustained63638.2024.11074126.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

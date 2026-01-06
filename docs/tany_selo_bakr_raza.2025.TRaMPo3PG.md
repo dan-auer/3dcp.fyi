@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Harun Tanyildizi, Maksut Seloglu, Mohd Bakri Abdullah, Rafiza Razak, Md Mydin
+    - footer
+title: Tanyildizi Harun, Seloglu Maksut, Bakri Abdullah Mohd, Razak Rafiza, Mydin Md
 description:
 tags:
  - geopolymer
@@ -14,31 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04679) The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>:aca-blank: A Review ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04679" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04679</a>
+#The Rheological and Mechanical Properties of 3D-Printed Geopolymers&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04679) <a href="https://doi.org/10.1016/j.cscm.2025.e04679" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04679" target="_blank">10.1016/j.cscm.2025.e04679</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7585-2609" title="ORCID: 0000-0002-7585-2609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b>&nbsp;Harun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0200-8423" title="ORCID: 0000-0002-0200-8423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seloglu_maksut"><b>Seloglu</b>&nbsp;Maksut</a></span>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>al&nbsp;Bakri Abdullah</b>&nbsp;Mohd</a></span>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b>&nbsp;Rafiza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8639-1089" title="ORCID: 0000-0001-8639-1089" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mydin_azree-othuman_md"><b>Mydin</b>&nbsp;Md</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04679
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a> <a href="https://orcid.org/0000-0002-7585-2609" title="ORCID: 0000-0002-7585-2609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a> <a href="https://orcid.org/0000-0002-0200-8423" title="ORCID: 0000-0002-0200-8423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>al Bakri Abdullah</b> Mohd</a>
-,     <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a>
-,     <a href="../../../author/mydin_azree-othuman_md"><b>Mydin</b> Md</a> <a href="https://orcid.org/0000-0001-8639-1089" title="ORCID: 0000-0001-8639-1089" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04679
-
-:aca-blank:{ .lg .middle}
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Rheological%20and%20Mechanical%20Properties%20of%203D-Printed%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003916037&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409920524" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04679" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04679?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Geopolymer has become an alternative binder to cement in recent years. While producing cement, approximately 0.8 tons of CO2 is released to produce one ton of clinker. The cement industry causes about 5% to 8% of the world's greenhouse gases to be released. Therefore, it is necessary to reduce the carbon footprint of the cement industry. Geopolymers are defined as eco-friendly since they have approximately 80% lower CO2 emissions than cement. In addition, studies have been carried out by many researchers in recent years since geopolymers have high strength and durability properties. In the last ten years, three-dimensional (3D) printers, which are a new technology, have been included in the construction sector. 3D printers are preferred because of their lower material consumption, less waste, no need for molds, faster construction, and reducing occupational accidents. Due to these advantages, the rheological and mechanical properties of 3D-printed geopolymer concrete and geopolymer mortar were briefly discussed in this review. This article summarizes the challenges and practical limitations of 3D printed geopolymers and summarizes the innovations to date to provide a theoretical basis for the development of 3D printed geopolymers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "68 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/akturk_busra"><b>Aktürk</b> Büşra</a>, <a href="../../../author/ertugrul_onur"><b>Ertuğrul</b> Onur</a>, <a href="../../../author/ozen_can_omer"><b>Özen</b> Ömer</a>, <a href="../../../author/oktay_didem"><b>Oktay</b> Didem</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../aktu_ertu_ozen_okta.2025.IoNSaRMoRP3PaMPoOPSCASBM/">Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
@@ -133,7 +113,36 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tany_selo_bakr_raza.2025.TRaMPo3PG,
+      author            = "Harun Tanyildizi and Maksut Seloglu and Mohd Mustafa al Bakri Abdullah and Rafiza Abdul Razak and Md Azree Othuman Mydin",
+      title             = "The Rheological and Mechanical Properties of 3D-Printed Geopolymers: A Review",
+      doi               = "10.1016/j.cscm.2025.e04679",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04679",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Tanyildizi, M. Seloglu, M. M. al Bakri Abdullah, R. A. Razak and M. A. O. Mydin, “The Rheological and Mechanical Properties of 3D-Printed Geopolymers: A Review”, <i>Case Studies in Construction Materials</i>, p. e04679, 2025, doi: 10.1016/j.cscm.2025.e04679.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tanyildizi, Harun, Maksut Seloglu, Mohd Mustafa al Bakri Abdullah, Rafiza Abdul Razak, and Md Azree Othuman Mydin. “The Rheological and Mechanical Properties of 3D-Printed Geopolymers: A Review”. <i>Case Studies in Construction Materials</i>, 2025, e04679. https://doi.org/10.1016/j.cscm.2025.e04679.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

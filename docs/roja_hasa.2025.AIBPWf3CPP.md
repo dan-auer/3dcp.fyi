@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jorge Rojas, Sognad Hasanzadeh
+    - footer
+title: Rojas Jorge, Hasanzadeh Sognad
 description:
 tags:
  - bim
@@ -14,28 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} An Integrated BIM Planning Workflow for 3D Concrete Printing Projects ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1061/jccee5.cpeng-6188" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jccee5.cpeng-6188</a>
+#An Integrated BIM Planning Workflow for 3D Concrete Printing Projects ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jccee5.cpeng-6188" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jccee5.cpeng-6188" target="_blank">10.1061/jccee5.cpeng-6188</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9372-0864" title="ORCID: 0000-0001-9372-0864" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rojas_jorge"><b>Rojas</b>&nbsp;Jorge</a></span>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b>&nbsp;Sognad</a></span><br>
+Journal Article - Journal of Computing in Civil Engineering, Vol. 39, Iss. 5
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a> <a href="https://orcid.org/0000-0001-9372-0864" title="ORCID: 0000-0001-9372-0864" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Computing in Civil Engineering, Vol. 39, Iss. 5, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bim`](keyword/bim)
-    [`#concrete`](keyword/concrete)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-    [`#projection`](keyword/projection)
-    [`#workflow`](keyword/workflow)
-
-
--------------------------
+<a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=An%20Integrated%20BIM%20Planning%20Workflow%20for%203D%20Concrete%20Printing%20Projects" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006972969&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410863641" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jccee5.cpeng-6188" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jccee5.cpeng-6188?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is poised to address such critical challenges as low productivity in construction while offering design flexibility and material usage optimization. Although prior research focused on integrating digital design and fabrication to generate instructions for three-dimensional (3D) printers, existing approaches fall short of developing a building information modeling (BIM) model with the requisite detail for coordination with other construction activities and a lack of customization for defining the printing sequence. This paper streamlines the automation of the modeling process and generation of BIM parameters to consolidate project planning information within a unified level of development (LOD) 400 BIM model. The proposed workflow introduces an automation tool designed to enhance the LOD in 3DCP BIM elements from a lower LOD to LOD 400, which is suitable for fabrication. This proposed approach contributes to industry practices by providing an automated tailored solution for contractors to customize printing sequences and facilitate seamless coordination between 3D-printed elements and nonprinted components, improving overall project efficiency and precision. The outcomes shed light on project visualization and coordination through a detailed 3DCP BIM model and introduce planning parameters for enabling a printing strategy that can incorporate the contractor’s expertise in contrast to other slicer software.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -80,7 +62,6 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
-      <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../roja_hasa.2025.AIBPWf3CPP/">An Integrated BIM Planning Workflow for 3D Concrete Printing Projects</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
@@ -90,9 +71,38 @@ tags:
       <li><a href="../../../author/tu_haidong"><b>Tu</b> Haidong</a>, <a href="../../../author/wei_zhenyun"><b>Wei</b> Zhenyun</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/kahla_nabil"><b>Kahla</b> Nabil</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tu_wei_bahr_kahl.2023.RAaFTi3PCUWM/">Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/lee_jia-shen_brian"><b>Lee</b> Brian</a>, <a href="../../../author/gan_jia-hui_nicole"><b>Gan</b> Nicole</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_moha_lee_gan.2021.EBIfLTPPiDCPwDDS/">Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script:<br/>A Case Study</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
-      <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../roja_hasa.2025.AIBPWf3CPP/">An Integrated BIM Planning Workflow for 3D Concrete Printing Projects</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{roja_hasa.2025.AIBPWf3CPP,
+      author            = "Jorge Rojas and Sognad Hasanzadeh",
+      title             = "An Integrated BIM Planning Workflow for 3D Concrete Printing Projects",
+      doi               = "10.1061/jccee5.cpeng-6188",
+      year              = "2025",
+      journal           = "Journal of Computing in Civil Engineering",
+      volume            = "39",
+      number            = "5",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Rojas  and S. Hasanzadeh, “An Integrated BIM Planning Workflow for 3D Concrete Printing Projects”, <i>Journal of Computing in Civil Engineering</i>, vol. 39, no. 5, 2025, doi: 10.1061/jccee5.cpeng-6188.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rojas, Jorge, and Sognad Hasanzadeh. “An Integrated BIM Planning Workflow for 3D Concrete Printing Projects”. <i>Journal of Computing in Civil Engineering</i> 39, no. 5 (2025). https://doi.org/10.1061/jccee5.cpeng-6188.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

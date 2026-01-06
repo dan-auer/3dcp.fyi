@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhihui Zhao, Mingxu Chen, Yuan Jin, Lingchao Lu, Laibo Li
+    - footer
+title: Zhao Zhihui, Chen Mingxu, Jin Yuan, Lu Lingchao, Li Laibo
 description:
 tags:
  - cement
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.compositesb.2022.109963" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2022.109963</a>
+#Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites ([2022-05](date/2022/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2022.109963" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2022.109963" target="_blank">10.1016/j.compositesb.2022.109963</a>
 
--------------------------
+<a href="../../../author/zhao_zhihui"><b>Zhao</b>&nbsp;Zhihui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/jin_yuan"><b>Jin</b>&nbsp;Yuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span>, <a href="../../../author/li_laibo"><b>Li</b>&nbsp;Laibo</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 239
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>
-,     <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 239, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#control`](keyword/control)
-    [`#magnesium`](keyword/magnesium)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology-Control%20Towards%203D%20Printed%20Magnesium-Potassium-Phosphate-Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130381079&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4280632533" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2022.109963" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2022.109963?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The contradictory requirements in different processes of 3D printing hinder the application of the rapid hardening cementitious materials. This paper studied the printability of 3D printed magnesium potassium phosphate cement (MKPC) modified by silica fume (SF) through conducting the shear-rate-controlled and shear-stress-controlled rheological tests, aiming to better understand the role of SF for extrusion and structural build-up after deposition. The results show that the thixotropy of MKPC was much higher than that of other cementitious systems. The dynamic yield stress increased from 61.68 Pa to 303.38 Pa and the plastic viscosity decreased from 30.38 Pa s to 13.53 Pa s when SF content increased from 0 to 15%. The addition of SF decreased the negative high viscosity of MKPC related to the fast formation of reversible agglomeration in early age, making it an ideal viscosity reducer for extrusion process. SF is also an ideal plasticizer by increasing the static yield stress during the deposition stage. Finally, a stable hollow cuboid of 310 mm × 250 mm × 84 mm with 8 layers was printed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -96,8 +75,8 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "25 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
@@ -124,4 +103,33 @@ tags:
       <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../peng_unlu.2023.DoACBf3PA/">Development of Alternative Cementitious Binders for 3D Printing Applications:<br/>A Critical Review of Progress, Advantages and Challenges</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhao_chen_jin_lu.2022.RCT3PMPPCC,
+      author            = "Zhihui Zhao and Mingxu Chen and Yuan Jin and Lingchao Lu and Laibo Li",
+      title             = "Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites",
+      doi               = "10.1016/j.compositesb.2022.109963",
+      year              = "2022",
+      journal           = "Composites Part B: Engineering",
+      volume            = "239",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Zhao, M. Chen, Y. Jin, L. Lu and L. Li, “Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites”, <i>Composites Part B: Engineering</i>, vol. 239, 2022, doi: 10.1016/j.compositesb.2022.109963.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhao, Zhihui, Mingxu Chen, Yuan Jin, Lingchao Lu, and Laibo Li. “Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites”. <i>Composites Part B: Engineering</i> 239 (2022). https://doi.org/10.1016/j.compositesb.2022.109963.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

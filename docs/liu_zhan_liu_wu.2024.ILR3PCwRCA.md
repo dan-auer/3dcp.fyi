@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chao Liu, Yukun Zhang, Huawei Liu, Yiwen Wu, Shiwei Yu, Chuihui He, Zhan Liang
+    - footer
+title: Liu Chao, Zhang Yukun, Liu Huawei, Wu Yiwen, Yu Shiwei, He Chuihui, Liang Zhan
 description:
 tags:
  - aggregate
@@ -20,39 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate:<br/>:aca-blank: Shear Properties and Enhancement Methods ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.addma.2024.104507" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104507</a>
+#Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate&nbsp;([2024-10](date/2024/10))
+<div class="h1-like">Shear Properties and Enhancement Methods</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104507" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104507" target="_blank">10.1016/j.addma.2024.104507</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/zhang_yukun"><b>Zhang</b>&nbsp;Yukun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_shiwei"><b>Yu</b>&nbsp;Shiwei</a></span>, <a href="../../../author/he_chuihui"><b>He</b>&nbsp;Chuihui</a></span>, <a href="../../../author/liang_zhan"><b>Liang</b>&nbsp;Zhan</a></span><br>
+Journal Article - Additive Manufacturing, No. 104507
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a>
-,     <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> <a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>
-,     <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> <a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/he_chuihui"><b>He</b> Chuihui</a>
-,     <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104507
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shear`](keyword/shear)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Reinforced%203D%20Printed%20Concrete%20with%20Recycled%20Coarse%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207648146&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403599957" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104507" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104507?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In reinforced 3D printed concrete structures, the shear interaction between the rebar and the 3D printed filaments influences both the performance and safety of the concrete structures during service. In this study, the shear performance of the interlayer reinforced interface (IRI) of 3D printed concrete with recycled coarse aggregates (3DPRAC) was investigated, focusing on the pore structure characteristics of the interlayer interface. An enhancement method for the IRI was proposed by varying the number of anchored rebar nails (ARNs) and comparing the results with those of 3D printed concrete with natural coarse aggregates (3DPNAC) and 3D printed mortar (3DPM). The results showed that the ARNs significantly improved the IRI shear strength of 3DPRAC. Specifically, the IRI shear strength of 3DPRAC was 6.1% lower than that of 3DPNAC but 43.6% higher than that of 3DPM. By examining the structural characteristics of the rebar-3DPRAC bonding area, a relationship between pore defects and shear strength was established. This established relationship led to the proposal of a partition model for the interlayer bonding interface. A finite element model of 3D printed concrete incorporating real pore structure characteristics was developed to analyze the stress distribution and damage characteristics of the interface under shear stress. The fracture mode induced by local pores with the crack propagation mechanism was also analyzed. Finally, a unified formula for calculating the shear strength of the 3DPRAC IRI was derived based on the principles of virtual work and plastic limit theory. This study provides theoretical support for engineering applications of 3D-printed reinforced concrete structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../aram_cald_puen.2023.WJPo3PCBSUFL/">Wet Joint Performance of 3D Printed Concrete Beam Segments Under Flexural Loading</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
@@ -122,8 +94,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
@@ -136,4 +108,33 @@ tags:
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/wu_jian"><b>Wu</b> Jian</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_liu_wu_wu.2025.EoXRCCPSotFTRo3PCwRCA/">Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_wang_zhu_wu.2025.Do3PCMfWS/">Design of 3D Printed Concrete Masonry for Wall Structures:<br/>Mechanical Behavior and Strength Calculation Methods Under Various Loads</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_zhan_liu_wu.2024.ILR3PCwRCA,
+      author            = "Chao Liu and Yukun Zhang and Huawei Liu and Yiwen Wu and Shiwei Yu and Chuihui He and Zhan Liang",
+      title             = "Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate: Shear Properties and Enhancement Methods",
+      doi               = "10.1016/j.addma.2024.104507",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104507",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate: Shear Properties and Enhancement Methods”, <i>Additive Manufacturing</i>, p. 104507, 2024, doi: 10.1016/j.addma.2024.104507.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chao, Yukun Zhang, Huawei Liu, Yiwen Wu, Shiwei Yu, Chuihui He, and Zhan Liang. “Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate: Shear Properties and Enhancement Methods”. <i>Additive Manufacturing</i>, 2024, 104507. https://doi.org/10.1016/j.addma.2024.104507.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

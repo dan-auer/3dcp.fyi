@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matthias Kalthoff, Michael Raupach, Thomas Matschei
+    - footer
+title: Kalthoff Matthias, Raupach Michael, Matschei Thomas
 description:
 tags:
  - concrete
@@ -20,35 +21,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2673-7108/2/4/15/pdf?version=1664438878) Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder:<br/>:aca-blank: LabMorTex ([2022-09](date/2022/09))
-<a href="https://doi.org/10.3390/constrmater2040015" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/constrmater2040015</a>
+#Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder&nbsp;([2022-09](date/2022/09))
+<div class="h1-like">LabMorTex</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-7108/2/4/15/pdf?version=1664438878) <a href="https://doi.org/10.3390/constrmater2040015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/constrmater2040015" target="_blank">10.3390/constrmater2040015</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9313-7617" title="ORCID: 0000-0002-9313-7617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kalthoff_matthias"><b>Kalthoff</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raupach_michael"><b>Raupach</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matschei_thomas"><b>Matschei</b>&nbsp;Thomas</a></span><br>
+Journal Article - Construction Materials, Vol. 2, Iss. 4, pp. 217-233
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a> <a href="https://orcid.org/0000-0002-9313-7617" title="ORCID: 0000-0002-9313-7617" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a> <a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction Materials, Vol. 2, Iss. 4, pp. 217-233
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#investigation`](keyword/investigation)
-    [`#labor`](keyword/labor)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#method`](keyword/method)
-    [`#mortar`](keyword/mortar)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rheology`](keyword/rheology)
-    [`#suitability`](keyword/suitability)
-    [`#test`](keyword/test)
-    [`#textile`](keyword/textile)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Rheological%20Test-Methods%20for%20the%20Suitability%20of%20Mortars%20for%20Manufacturing%20of%20Textile-Reinforced%20Concrete%20Using%20a%20Laboratory%20Mortar-Extruder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163885059&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4298004278" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/constrmater2040015" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/constrmater2040015?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     One of the promising technologies to produce carbon textile-reinforced concrete structures is extrusion. For defect-free extrusion, high requirements are placed on the fresh concrete, since it must be transportable through the augers in the extruder and must not change the desired geometric shape after leaving the mouthpiece. For the rheologic description of suitable concretes or mortars for the extrusion process, there is currently a lack of test methods to characterise the fresh concrete before extrusion. At present, new mixtures are first tested in elaborate trials on laboratory extruders before they can be transferred to production scale. The development of compounds is strongly dependent on the know-how and experience of the users. Within the scope of this paper, different methods were investigated and systematic suitability tests for a successful extrusion have been carried out. The results show that the fresh mortar can only be roughly described by the measured data during the mixing process, such as the temperature or the torque. The use of a capillary rheometer only allows a basic characterisation of the fresh mortar. A clear differentiation of the fresh mortar can be made with the help of sphere penetration tests. These allow the mortar to be classified as unsuitable for the extrusion process or as extrudable before the extrusion process, and the suitability of new mixtures can be assessed in advance. The newly developed method offers the possibility of greatly accelerating the implementation of new formulations for the extrusion process, regardless of the experience of the subsequent users, and reducing the need for complex experiments using laboratory extruders.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
@@ -102,8 +78,8 @@ tags:
       <li><a href="../../../author/villacis_n"><b>Villacis</b> N.</a>, <a href="../../../author/gualavisi_m"><b>Gualavisi</b> M.</a>, <a href="../../../author/narvaez-munoz_christian"><b>Narváez-Muñoz</b> Christian</a>, <a href="../../../author/carrion_l"><b>Carrión</b> L.</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../vill_gual_narv_carr.2017.AMoaRCCBCM/">Additive Manufacturing of a Rheological Characterized Cement-Based Composite Material</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cho_eunsan"><b>Cho</b> Eunsan</a>, <a href="../../../author/gwon_seongwoo"><b>Gwon</b> Seongwoo</a>, <a href="../../../author/cha_soowon"><b>Cha</b> Soowon</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cho_gwon_cha_shin.2025.IoAoRPoCCwCM/">Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers:<br/>3D Printing Perspective</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../neef_mech.2024.CFRfEB3CP/">Continuous Fiber-Reinforcement for Extrusion-Based 3D Concrete Printing</a></li>
@@ -116,4 +92,35 @@ tags:
       <li><a href="../../../author/kruppa_henning"><b>Kruppa</b> Henning</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../krup_kalt_neef_rei.2023.AABRfEa3PoCRC/">Alkali-Activated Binder-Requirements for Extrusion and 3D Printing of Carbon-Reinforced Concrete</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/backes_gerta_jana"><b>Backes</b> Jana</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../neef_kalt_mull_back.2023.EoHYSCRCwMIR/">Extrusion of High Yield Strength Carbon-Reinforced Concrete with Mineral Impregnated Rovings</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kalt_raup_mats.2022.IoRTMftSoMfMoTRCUaLME,
+      author            = "Matthias Kalthoff and Michael Raupach and Thomas Matschei",
+      title             = "Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder: LabMorTex",
+      doi               = "10.3390/constrmater2040015",
+      year              = "2022",
+      journal           = "Construction Materials",
+      volume            = "2",
+      number            = "4",
+      pages             = "217--233",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Kalthoff, M. Raupach and T. Matschei, “Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder: LabMorTex”, <i>Construction Materials</i>, vol. 2, no. 4, pp. 217–233, 2022, doi: 10.3390/constrmater2040015.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kalthoff, Matthias, Michael Raupach, and Thomas Matschei. “Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder: LabMorTex”. <i>Construction Materials</i> 2, no. 4 (2022): 217–33. https://doi.org/10.3390/constrmater2040015.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

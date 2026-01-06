@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: R. Athira, Dhanya Sathyan
+    - footer
+title: Athira R., Sathyan Dhanya
 description:
 tags:
  - advance
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Review of 3D Printing Advancements in Geopolymer Concrete:<br/>:aca-blank: Current Challenges and Future Directions ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1007/978-981-95-0229-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-95-0229-5_39</a>
+#Review of 3D Printing Advancements in Geopolymer Concrete&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">Current Challenges and Future Directions</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-0229-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-0229-5_39" target="_blank">10.1007/978-981-95-0229-5_39</a>
 
--------------------------
+<a href="../../../author/athira_r"><b>Athira</b>&nbsp;R.</a></span>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b>&nbsp;Dhanya</a></span><br>
+Contribution - Proceedings of International Conference on Advances in Materials, Modeling, and Analysis for Sustainable and Resilient Infrastructure Volume 1, pp. 507-517
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/athira_r"><b>Athira</b> R.</a>
-,     <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of International Conference on Advances in Materials, Modeling, and Analysis for Sustainable and Resilient Infrastructure Volume 1, pp. 507-517
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#direction`](keyword/direction)
-    [`#future`](keyword/future)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Review%20of%203D%20Printing%20Advancements%20in%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023316341&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106160625" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-95-0229-5_39" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-95-0229-5_39?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review examines the application of 3D printing in construction with a focus on geopolymer concrete, detailing its advancements and persistent challenges. While significant progress has been made in material development and structural performance, issues such as anisotropic mechanical behavior, the impact of raw materials on printability, and energy efficiency of printed elements remain unresolved. Materials like rice husk ash show promise in enhancing rheology, but their long-term durability requires further investigation. The study emphasizes the importance of leveraging advanced technologies and additives to address these limitations, paving the way for future innovations in sustainable construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a></li>
@@ -90,7 +71,37 @@ tags:
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../yang_zeng_peng_wang.2022.AMaILPSo3PFRCC/">Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{athi_sath.2026.Ro3PAiGC,
+      author            = "R. Athira and Dhanya Sathyan",
+      title             = "Review of 3D Printing Advancements in Geopolymer Concrete: Current Challenges and Future Directions",
+      doi               = "10.1007/978-981-95-0229-5_39",
+      year              = "2026",
+      volume            = "719",
+      pages             = "507--517",
+      booktitle         = "Proceedings of International Conference on Advances in Materials, Modeling, and Analysis for Sustainable and Resilient Infrastructure Volume 1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Athira  and D. Sathyan, “Review of 3D Printing Advancements in Geopolymer Concrete: Current Challenges and Future Directions”, in <i>Proceedings of International Conference on Advances in Materials, Modeling, and Analysis for Sustainable and Resilient Infrastructure Volume 1</i>,  2026, vol. 719, pp. 507–517. doi: 10.1007/978-981-95-0229-5_39.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Athira, R., and Dhanya Sathyan. “Review of 3D Printing Advancements in Geopolymer Concrete: Current Challenges and Future Directions”. In <i>Proceedings of International Conference on Advances in Materials, Modeling, and Analysis for Sustainable and Resilient Infrastructure Volume 1</i>, 719:507–17, 2026. https://doi.org/10.1007/978-981-95-0229-5_39.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

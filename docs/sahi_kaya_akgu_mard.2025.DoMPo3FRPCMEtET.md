@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hatice Şahin, Yahya Kaya, Fatih Akgümüş, Naz Mardani, Ali Mardani, Joseph Assaad, Bilal Hamad
+    - footer
+title: Şahin Hatice, Kaya Yahya, Akgümüş Fatih, Mardani Naz, Mardani Ali, Assaad Joseph, Hamad Bilal
 description:
 tags:
  - concrete
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04506" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04506</a>
+#Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2025.e04506" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04506" target="_blank">10.1016/j.cscm.2025.e04506</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <a href="../../../author/kaya_yahya"><b>Kaya</b>&nbsp;Yahya</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-6037-1105" title="ORCID: 0009-0002-6037-1105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b>&nbsp;Fatih</a></span>, <a href="../../../author/mardani_naz"><b>Mardani</b>&nbsp;Naz</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/assaad_j_joseph"><b>Assaad</b>&nbsp;Joseph</a></span>, <a href="../../../author/hamad_bilal"><b>Hamad</b>&nbsp;Bilal</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04506
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a> <a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kaya_yahya"><b>Kaya</b> Yahya</a>
-,     <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a> <a href="https://orcid.org/0009-0002-6037-1105" title="ORCID: 0009-0002-6037-1105" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a>
-,     <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a> <a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04506
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#degradation`](keyword/degradation)
-    [`#elevation`](keyword/elevation)
-    [`#exposure`](keyword/exposure)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/degradation"><button class="btn">#degradation</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Degradation%20of%20Mechanical%20Properties%20of%203D%20Fiber%20Reinforced%20Printed%20Concrete%20Mixtures%20Exposed%20to%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000620526&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408254851" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04506" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04506?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Utilization of 3D printed concrete (3DPC) materials significantly increased in the construction and building industry. In this study, different series of 3DPC mixtures containing three types of fiber (steel, basalt, and polyamide) and concentrations (0.2, 0.4, and 0.6%) are produced and tested under different elevated temperatures of 300, 600, and 900 °C. The evaluated properties include the weight loss, compressive strength, and flexural strength determined in three different loading directions (parallel, perpendicular, and lateral), water absorption, and microstructure changes. Test results showed that the durability of 3DPC mixtures gradually curtailed at increased exposure temperatures. The loss in compressive and flexural strength hovered between 34-56% and 28-73%, respectively, when the mixtures were exposed to 900 °C. The best heat resistance performance was achieved using the 3DPC mixture containing 0.4% steel fibers, while the weakest mix contained 0.6% basalt fibers. Such data can be of particular interest to concrete engineers and designers seeking the use of fiber reinforced 3DPC materials in applications exposed to elevated temperatures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_yass_sakk_hamz.2020.AMAfSRo3PC/">A Modular Approach for Steel Reinforcing of 3D Printed Concrete:<br/>Preliminary Study</a></li>
@@ -114,9 +86,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_zhan_qian_liu.2023.IoSFotWAo3PC/">Influence of Steel-Fiber on the Water-Absorption of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
       <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET,
+      author            = "Hatice Gizem Şahin and Yahya Kaya and Fatih Eren Akgümüş and Naz Mardani and Ali Mardani and Joseph J. Assaad and Bilal Hamad",
+      title             = "Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures",
+      doi               = "10.1016/j.cscm.2025.e04506",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04506",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. G. Şahin, “Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures”, <i>Case Studies in Construction Materials</i>, p. e04506, 2025, doi: 10.1016/j.cscm.2025.e04506.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Şahin, Hatice Gizem, Yahya Kaya, Fatih Eren Akgümüş, Naz Mardani, Ali Mardani, Joseph J. Assaad, and Bilal Hamad. “Degradation of Mechanical Properties of 3D Fiber Reinforced Printed Concrete Mixtures Exposed to Elevated Temperatures”. <i>Case Studies in Construction Materials</i>, 2025, e04506. https://doi.org/10.1016/j.cscm.2025.e04506.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

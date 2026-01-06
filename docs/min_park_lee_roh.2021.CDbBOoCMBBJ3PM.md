@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kyung-Sung Min, Kwang-Min Park, Bong-Chun Lee, Young-Sook Roh
+    - footer
+title: Min Kyung-Sung, Park Kwang-Min, Lee Bong-Chun, Roh Young-Sook
 description:
 tags:
  - base
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/23/7452/pdf?version=1638613387) Chloride Diffusion by Build Orientation of Cementitious Material-Based Binder-Jetting 3D Printing Mortar ([2021-12](date/2021/12))
-<a href="https://doi.org/10.3390/ma14237452" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14237452</a>
+#Chloride Diffusion by Build Orientation of Cementitious Material-Based Binder-Jetting 3D Printing Mortar ([2021-12](date/2021/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/23/7452/pdf?version=1638613387) <a href="https://doi.org/10.3390/ma14237452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14237452" target="_blank">10.3390/ma14237452</a>
 
--------------------------
+<a href="../../../author/min_kyung-sung"><b>Min</b>&nbsp;Kyung-Sung</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3059-3068" title="ORCID: 0000-0002-3059-3068" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_kwang-min"><b>Park</b>&nbsp;Kwang-Min</a></span>, <a href="../../../author/lee_bong-chun"><b>Lee</b>&nbsp;Bong-Chun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6042-6711" title="ORCID: 0000-0002-6042-6711" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roh_young-sook"><b>Roh</b>&nbsp;Young-Sook</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 23
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/min_kyung-sung"><b>Min</b> Kyung-Sung</a>
-,     <a href="../../../author/park_kwang-min"><b>Park</b> Kwang-Min</a> <a href="https://orcid.org/0000-0002-3059-3068" title="ORCID: 0000-0002-3059-3068" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_bong-chun"><b>Lee</b> Bong-Chun</a>
-,     <a href="../../../author/roh_young-sook"><b>Roh</b> Young-Sook</a> <a href="https://orcid.org/0000-0002-6042-6711" title="ORCID: 0000-0002-6042-6711" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 23, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#chloride`](keyword/chloride)
-    [`#diffusion`](keyword/diffusion)
-    [`#material`](keyword/material)
-    [`#mortar`](keyword/mortar)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/diffusion"><button class="btn">#diffusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Chloride%20Diffusion%20by%20Build%20Orientation%20of%20Cementitious%20Material-Based%20Binder-Jetting%203D%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121671254&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4200352544" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14237452" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14237452?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Binder jetting 3D printing (BJ3DP) is used to create geometrical and topology-optimized building structures via architectural geometric design owing to its high degree of freedom in geometry implementation. However, building structures require high mechanical and durability performance. Because of the recent trend of using 3D printing concrete as a structural component in reinforcing bars, its durability with respect to chloride penetration needs to be reviewed. Therefore, in this study, the compressive strength and durability of the chloride diffusion of cement-based 3D-printed output were evaluated. In addition, to confirm the performance difference based on the build orientation, the compressive strength and chloride diffusion were evaluated with respect to the build direction and transverse direction. The experimental results show that the compressive strength was approximately 22.1-26.5% lower in the transverse direction than in the build direction and that the chloride diffusion coefficient was approximately 186.1-407.1% higher in the transverse direction. Consequently, when a structure that requires long-term durability is produced using BJ3DP, it is necessary to examine the design and manufacturing methods in relation to the build orientation in advance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -92,10 +68,40 @@ tags:
       <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vone_odag_brum_dill.2020.GFfBJ3P/">Geopolymer Formulation for Binder-Jet 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
       <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../dong_wu_liu_wu.2025.CTAaIDi3PUHPC/">Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>Multi-Scale Evaluation and Engineering Implications</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hu_tingyu"><b>Hu</b> Tingyu</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../ma_hu_wang_liu.2023.MPCfPB3CP/">Magnesium Phosphate Cement for Powder-Based 3D Concrete Printing:<br/>Systematic Evaluation and Optimization of Printability and Printing Quality</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{min_park_lee_roh.2021.CDbBOoCMBBJ3PM,
+      author            = "Kyung-Sung Min and Kwang-Min Park and Bong-Chun Lee and Young-Sook Roh",
+      title             = "Chloride Diffusion by Build Orientation of Cementitious Material-Based Binder-Jetting 3D Printing Mortar",
+      doi               = "10.3390/ma14237452",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "23",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K.-S. Min, K.-M. Park, B.-C. Lee and Y.-S. Roh, “Chloride Diffusion by Build Orientation of Cementitious Material-Based Binder-Jetting 3D Printing Mortar”, <i>Materials</i>, vol. 14, no. 23, 2021, doi: 10.3390/ma14237452.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Min, Kyung-Sung, Kwang-Min Park, Bong-Chun Lee, and Young-Sook Roh. “Chloride Diffusion by Build Orientation of Cementitious Material-Based Binder-Jetting 3D Printing Mortar”. <i>Materials</i> 14, no. 23 (2021). https://doi.org/10.3390/ma14237452.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

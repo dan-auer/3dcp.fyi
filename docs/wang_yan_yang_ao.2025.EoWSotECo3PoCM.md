@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yibo Wang, Ming Yan, Kun Yang, Chenyang Ao, Changzai Ren
+    - footer
+title: Wang Yibo, Yan Ming, Yang Kun, Ao Chenyang, Ren Changzai
 description:
 tags:
  - cement
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1002/adts.202400977" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/adts.202400977</a>
+#Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/adts.202400977" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/adts.202400977" target="_blank">10.1002/adts.202400977</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4556-3005" title="ORCID: 0000-0002-4556-3005" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yibo"><b>Wang</b>&nbsp;Yibo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8793-3510" title="ORCID: 0000-0002-8793-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_ming"><b>Yan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3669-1486" title="ORCID: 0000-0002-3669-1486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_kun"><b>Yang</b>&nbsp;Kun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5971-8055" title="ORCID: 0000-0002-5971-8055" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ao_chenyang"><b>Ao</b>&nbsp;Chenyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9562-3336" title="ORCID: 0000-0002-9562-3336" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_changzai"><b>Ren</b>&nbsp;Changzai</a></span><br>
+Journal Article - Advanced Theory and Simulations
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a> <a href="https://orcid.org/0000-0002-4556-3005" title="ORCID: 0000-0002-4556-3005" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yan_ming"><b>Yan</b> Ming</a> <a href="https://orcid.org/0000-0002-8793-3510" title="ORCID: 0000-0002-8793-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_kun"><b>Yang</b> Kun</a> <a href="https://orcid.org/0000-0002-3669-1486" title="ORCID: 0000-0002-3669-1486" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> <a href="https://orcid.org/0000-0002-5971-8055" title="ORCID: 0000-0002-5971-8055" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ren_changzai"><b>Ren</b> Changzai</a> <a href="https://orcid.org/0000-0002-9562-3336" title="ORCID: 0000-0002-9562-3336" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advanced Theory and Simulations, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#slip`](keyword/slip)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slip"><button class="btn">#slip</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Wall-Slip%20on%20the%20Extrusion-Characteristics%20of%203D%20Printing%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215502920&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406600374" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/adts.202400977" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/adts.202400977?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper investigates the impact of wall slip on the screw extrusion of cementitious materials. A wall slip extrusion model is developed based on the theory of infinite parallel plates. Then, the extrusion characteristics under different slip conditions of the screw and the cylinder wall are discussed. Finally, the Finite Element Method is used to verify the conclusions drawn from theoretical model analysis. The results show that when −1≤a←1/3 (where a is the ratio of pressure flow to the sum of drag flow and slip flow), slippage on either the screw wall or the cylinder wall can reduce the extrusion flow rate, and the number of flow recirculation planes is one. When −1/3≤a≤1, the number of flow recirculation planes increases to two, and screw wall slip is conducive to expanding the extrusion flow rate. Conversely, cylinder wall slip may reduce the extrusion flow rate. Moreover, the simulation results are consistent with those of the theoretical model, further verifying the rationality of the model.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../harb_yahi_rozi_louk.2023.PQCoCBMUFaRC/">Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions</a></li>
       <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tjahjowidodo_tegoeh"><b>Tjahjowidodo</b> Tegoeh</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../lao_li_tjah.2021.VGNfSQEi3CP/">Variable-Geometry Nozzle for Surface Quality Enhancement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
@@ -79,7 +56,35 @@ tags:
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_yan_yang_ao.2025.EoWSotECo3PoCM,
+      author            = "Yibo Wang and Ming Yan and Kun Yang and Chenyang Ao and Changzai Ren",
+      title             = "Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials",
+      doi               = "10.1002/adts.202400977",
+      year              = "2025",
+      journal           = "Advanced Theory and Simulations",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, M. Yan, K. Yang, C. Ao and C. Ren, “Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials”, <i>Advanced Theory and Simulations</i>, 2025, doi: 10.1002/adts.202400977.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yibo, Ming Yan, Kun Yang, Chenyang Ao, and Changzai Ren. “Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials”. <i>Advanced Theory and Simulations</i>, 2025. https://doi.org/10.1002/adts.202400977.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

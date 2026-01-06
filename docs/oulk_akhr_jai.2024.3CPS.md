@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fatima Oulkhir, Iatimad Akhrif, Mostapha Jai
+    - footer
+title: Oulkhir Fatima, Akhrif Iatimad, Jai Mostapha
 description:
 tags:
  - analysis
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete Printing Success:<br/>:aca-blank: An Exhaustive Diagnosis and Failure-Modes-Analysis ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1007/s40964-024-00638-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-024-00638-5</a>
+#3D Concrete Printing Success&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">An Exhaustive Diagnosis and Failure-Modes-Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-024-00638-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00638-5" target="_blank">10.1007/s40964-024-00638-5</a>
 
--------------------------
+<a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akhrif_iatimad"><b>Akhrif</b>&nbsp;Iatimad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jai_mostapha"><b>el&nbsp;Jai</b>&nbsp;Mostapha</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>
-,     <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> <a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jai_mostapha"><b>el Jai</b> Mostapha</a> <a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#failure`](keyword/failure)
-    [`#mode`](keyword/mode)
-    [`#print`](keyword/print)
-    [`#success`](keyword/success)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/mode"><button class="btn">#mode</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/success"><button class="btn">#success</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Success" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193049391&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396934932" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-024-00638-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-024-00638-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article seeks to implement quality management tools within 3D concrete printing (3DCP) to propose a generative failure mode analysis which was rarely applied to 3DCP realm. Actually, 3DCP technologies have become a set of emergent processes that are used worldwide in many applications inasmuch as they are generating profits but also costs due to its infancy stage. Since 3DCP processes are a versatile domain, this investigation started with an extended state-of-art that allowed listing the most significant process and machines factors that are involved in the success of the printing. Based on main printing principles, printability, extrudability, and buildability, number of associated failures were listed and then organized in terms of cause/effect (Ishikawa) diagrams and SWOT matrices; thereafter, fault tree analysis (FTA) was proposed as a generic way to fit number of 3DCP failures’ analysis. Furthermore, the approach was projected on existing researches; four case studies were applied and the corresponding FTAs were built to evince the proposed methodology. Hence, it was proved that the risk analysis approach built herein could be adapted to real 3DCP applications by associating the corresponding fault trees; the FTA diagrams should graphically facilitate the failure modes mechanisms within 3DCP applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "132 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
@@ -195,8 +177,8 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
@@ -204,6 +186,33 @@ tags:
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../oulk_akhr_jai_riha.2025.CaABM3P/">Clay and Alginate-Based Mixtures 3D Printing:<br/>A Numerical Procedure for Shape Stability and Buildability Assessment</a></li>
       <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../akhr_oulk_jai_riha.2025.EBM3PEaBNI/">Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations</a></li>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../oulk_riha_akhr_jai.2025.IoEBMi3CP/">Integration of Earth-Based Materials in 3D Concrete Printing:<br/>Physico-Chemical and Technological Characterization</a></li>
-      <li><a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a>, <a href="../../../author/pimpalshende_anjusha"><b>Pimpalshende</b> Anjusha</a>, <a href="../../../author/chandak_a_mayuri"><b>Chandak</b> Mayuri</a>, <a href="../../../author/patil_r_tejas"><b>Patil</b> Tejas</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../raut_pimp_chan_pati.2025.ANMMFf3PFRPCUAAMT/">A Novel Multi-Method Framework for 3D Printed Fiber-Reinforced Polymer Concrete Utilizing Advance Additive Manufacturing Techniques</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{oulk_akhr_jai.2024.3CPS,
+      author            = "Fatima Zahra Oulkhir and Iatimad Akhrif and Mostapha El Jai",
+      title             = "3D Concrete Printing Success: An Exhaustive Diagnosis and Failure-Modes-Analysis",
+      doi               = "10.1007/s40964-024-00638-5",
+      year              = "2024",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. Z. Oulkhir, I. Akhrif and M. E. Jai, “3D Concrete Printing Success: An Exhaustive Diagnosis and Failure-Modes-Analysis”, <i>Progress in Additive Manufacturing</i>, 2024, doi: 10.1007/s40964-024-00638-5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Oulkhir, Fatima Zahra, Iatimad Akhrif, and Mostapha El Jai. “3D Concrete Printing Success: An Exhaustive Diagnosis and Failure-Modes-Analysis”. <i>Progress in Additive Manufacturing</i>, 2024. https://doi.org/10.1007/s40964-024-00638-5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Nematollahi Behzad 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/das_jyotish"><b>Das</b> Jyotish</a>, <a href="../../../author/pratama_mirza_m"><b>Pratama</b> M.</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/guadagnini_maurizio"><b>Guadagnini</b> Maurizio</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../das_prat_nema_guad.2025.DPo3PUHSCICI/">Durability Performance of 3D-Printed Ultra-High Strength Concrete Incorporating Corrosion Inhibitor</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../noai_chou_samb_vale.2025.OLCCCCELGWCf3PA/">Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications</a></li>

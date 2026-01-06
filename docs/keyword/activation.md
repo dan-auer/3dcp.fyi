@@ -8,7 +8,7 @@ search:
 
 # #activation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
   <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bodd_kand_nant.2025.EoAALCCMf3CPA/">Evaluation of Alkali-Activated Limestone Calcined Clay Mortars for 3D Concrete Printing Applications</a></li>
   <li><a href="../../../author/li_nan"><b>Li</b> Nan</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/li_lingyu"><b>Li</b> Lingyu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_deng_li_li.2025.PoAMBMPCaAoRS3PT/">Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology</a></li>

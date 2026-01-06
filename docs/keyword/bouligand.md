@@ -8,7 +8,7 @@ search:
 
 # #bouligand
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/wu_gan"><b>Wu</b> Gan</a>, <a href="../../../author/xia_zixu"><b>Xia</b> Zixu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bu_zhan_wu_xia.2025.IPo3PEIbBBS/">Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure</a></li>
   <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../du_deng_qian.2025.B3PHBCCfUHIP/">Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance</a></li>
   <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_sun_qian_chen.2025.BIBAfEFPi3PSHCC3S/">Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC)</a></li>

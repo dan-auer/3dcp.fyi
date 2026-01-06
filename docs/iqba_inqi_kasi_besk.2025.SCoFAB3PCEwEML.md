@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Imtiaz Iqbal, Waleed Inqiad, Tala Kasim, Svetlana Besklubova, Melak Adil, Mujib Rahman
+    - footer
+title: Iqbal Imtiaz, Inqiad Waleed, Kasim Tala, Besklubova Svetlana, Adil Melak, Rahman Mujib
 description:
 tags:
  - ash
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05682" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05682</a>
+#Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05682" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05682" target="_blank">10.1016/j.cscm.2025.e05682</a>
 
--------------------------
+<a href="../../../author/iqbal_imtiaz"><b>Iqbal</b>&nbsp;Imtiaz</a></span>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b>&nbsp;Waleed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kasim_tala"><b>Kasim</b>&nbsp;Tala</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <a href="../../../author/adil_mohammad_melak"><b>Adil</b>&nbsp;Melak</a></span>, <a href="../../../author/rahman_mujib"><b>Rahman</b>&nbsp;Mujib</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05682
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>
-,     <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>
-,     <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> <a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> <a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/adil_mohammad_melak"><b>Adil</b> Melak</a>
-,     <a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05682
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#blend`](keyword/blend)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#explainability`](keyword/explainability)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strength%20Characterisation%20of%20Fly%20Ash%20Blended%203D%20Printed%20Concrete%20Enhanced%20with%20Explainable%20Machine%20Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05682" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05682?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the performance of 3D printed concrete incorporating fly ash as a partial cement replacement and develops a machine learning model to predict its mechanical properties. A total of 28 mixtures were prepared with varying fly ash contents (5–15%), water-to-binder ratios, and superplasticiser dosages. Of these, seven mixes met the requirements for printability in terms of flowability, extrudability, and buildability. Experimental tests were conducted to evaluate compressive strength, flexural strength, water absorption, and sorptivity. Results showed that mixes with 5% and 7.5% fly ash achieved improved strength and durability, whereas higher fly ash levels reduced early-age performance due to clinker dilution and slower pozzolanic activity. Microstructural analyses confirmed the presence of C–S–H, portlandite, and ettringite, with fly ash contributing to pore refinement and matrix densification. To enhance predictive capability, a TPE-optimised Extreme Gradient Boosting (TPE-XGB) model was developed using data obtained from laboratory testing. The model achieved excellent accuracy (R² > 0.997) in predicting compressive and flexural strength. A graphical user interface integrating SHAP visualisation was created to provide transparent predictions, supporting practical implementation. The findings highlight the potential of fly ash to improve the sustainability of 3D printed concrete at optimised dosages and demonstrate the value of interpretable machine learning tools in mix design optimisation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/tan_qing_bing"><b>Tan</b> Bing</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/spicek_nikola"><b>Spicek</b> Nikola</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../besk_tan_zhon_spic.2023.LCAf3PCPUaMSNBA/">Logistic-Cost-Analysis for 3D Printing Construction Projects Using a Multi-Stage Network-Based Approach</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
       <li><a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhang_longfei"><b>Zhang</b> Longfei</a>, <a href="../../../author/wei_kai"><b>Wei</b> Kai</a>, <a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../chen_zhan_wei_gao.2024.RCaSMo3PGCUNCaMO/">Rheology-Control and Shrinkage-Mitigation of 3D Printed Geopolymer Concrete Using Nano-Cellulose and Magnesium-Oxide</a></li>
@@ -91,7 +65,36 @@ tags:
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML,
+      author            = "Imtiaz Iqbal and Waleed bin Inqiad and Tala Kasim and Svetlana Besklubova and Melak Mohammad Adil and Mujib Rahman",
+      title             = "Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning",
+      doi               = "10.1016/j.cscm.2025.e05682",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05682",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Iqbal, W. bin Inqiad, T. Kasim, S. Besklubova, M. M. Adil and M. Rahman, “Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning”, <i>Case Studies in Construction Materials</i>, p. e05682, 2025, doi: 10.1016/j.cscm.2025.e05682.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Iqbal, Imtiaz, Waleed bin Inqiad, Tala Kasim, Svetlana Besklubova, Melak Mohammad Adil, and Mujib Rahman. “Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning”. <i>Case Studies in Construction Materials</i>, 2025, e05682. https://doi.org/10.1016/j.cscm.2025.e05682.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

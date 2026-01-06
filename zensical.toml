@@ -1,6 +1,5 @@
 [project]
 
-
 site_name = "3dcp.fyi"
 repo_url = "https://github.com/dan-auer/3dcp.fyi"
 repo_name = "dan-auer/3dcp.fyi"
@@ -30,7 +29,7 @@ custom_dir = "overrides"
 logo = "assets/logo.svg"
 favicon = "assets/logo.svg"
 language = "en"
-
+font = false
 
 features = [
     #"announce.dismiss",
@@ -64,39 +63,36 @@ features = [
 
 [[project.theme.palette]]
 scheme = "default"
-toggle.icon = "fontawesome/solid/moon"
+toggle.icon = "ti/sun-off"
 toggle.name = "Light Mode"
 accent = "blue"
 primary = "blue"
 
 [[project.theme.palette]]
 scheme = "slate"
-toggle.icon = "fontawesome/solid/sun"
+toggle.icon = "ti/sun"
 toggle.name = "Dark Mode"
-accent = "pink"
-primary = "pink"
+accent = "orange"
+primary = "orange"
 
-[project.theme.font]
-text = "Inter"
-code = "Jetbrains Mono"
 
 [project.theme.icon]
-repo = "fontawesome/brands/github"
+repo = "ti/brand-github"
 
 
 [project.theme.icon.admonition]
 note = "fontawesome/solid/note-sticky"
-abstract = "fontawesome/solid/book"
-info = "fontawesome/solid/circle-info"
-tip = "fontawesome/solid/bullhorn"
-success = "fontawesome/solid/check"
-question = "fontawesome/solid/circle-question"
-warning = "fontawesome/solid/triangle-exclamation"
-failure = "fontawesome/solid/bomb"
-danger = "fontawesome/solid/skull"
-bug = "fontawesome/solid/align-justify"
-example = "fontawesome/solid/flask"
-quote = "fontawesome/solid/quote-left"
+abstract = "ti/chart-bubble"
+info = "ti/blockquote"
+tip = "ti/trophy"
+success = "ti/users"
+question = "ti/user"
+warning = "ti/tex"
+failure = "ti/file-symlink"
+danger = "ti/braces"
+bug = "ti/arrow-bar-to-left"
+example = "ti/arrow-bar-left"
+quote = "ti/sum"
 
 [project.extra]
 generator = false

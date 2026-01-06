@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Saeed Banihashemi, Ali Akbarnezhad, Moslem Sheikhkhoshkar, Hind Haouzi, Bernard Rolfe
+    - footer
+title: Banihashemi Saeed, Akbarnezhad Ali, Sheikhkhoshkar Moslem, Haouzi Hind, Rolfe Bernard
 description:
 tags:
  - buildability
@@ -14,31 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1007/s40964-025-01314-y.pdf) 3D Printing in Construction:<br/>:aca-blank: Sustainable Technology for Building Industry ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1007/s40964-025-01314-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-025-01314-y</a>
+#3D Printing in Construction&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Sustainable Technology for Building Industry</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s40964-025-01314-y.pdf) <a href="https://doi.org/10.1007/s40964-025-01314-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01314-y" target="_blank">10.1007/s40964-025-01314-y</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7438-1235" title="ORCID: 0000-0002-7438-1235" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banihashemi_saeed"><b>Banihashemi</b>&nbsp;Saeed</a></span>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b>&nbsp;Ali</a></span>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b>&nbsp;Moslem</a></span>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b>&nbsp;Hind</a></span>, <a href="../../../author/rolfe_bernard"><b>Rolfe</b>&nbsp;Bernard</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>
-,     <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>
-,     <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>
-,     <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a>
-,     <a href="../../../author/rolfe_bernard"><b>Rolfe</b> Bernard</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013810711&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413449987" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-025-01314-y" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-025-01314-y?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The adoption of 3D printing technology in the construction sector represents a transformative approach to addressing sustainability challenges, resource inefficiencies, and environmental impacts. This study explores the multifaceted potential of 3D printing as a sustainable alternative to conventional construction practices, focusing on material efficiency, architectural flexibility, labor dynamics, and environmental sustainability. Applying the PRISMA framework, the research synthesizes interdisciplinary insights from 75 high-quality journal articles across 2013–2024, emphasizing innovations in material science, digital integration, and circular economy principles. Key findings highlight that 3D printing reduces material waste by up to 60%, enhances construction speed by 50%, and enables the utilization of eco-friendly materials such as geopolymer concrete and biodegradable polymers. Despite these advancements, barriers such as scalability, high initial costs, and regulatory inconsistencies persist. This study concludes by providing lifecycle resources flow model and actionable recommendations for policymakers, industry practitioners, and researchers to foster the integration of 3D printing in construction, including standardization efforts, lifecycle assessments, and the adoption of renewable energy in printing processes. This research positions 3D printing as a cornerstone of the sustainable construction paradigm, contributing to a resilient and eco-conscious built environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../agus_jipa_habe.2019.EAoMFBECwDFT/">Environmental Assessment of Multi-Functional Building Elements Constructed with Digital Fabrication Techniques</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../bent_jone_bent_pelt.2019.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
@@ -108,8 +88,37 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/tan_yanke"><b>Tan</b> Yanke</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zheng_shipeng"><b>Zheng</b> Shipeng</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM/">Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bani_akba_shei_haou.2025.3PiC,
+      author            = "Saeed Banihashemi and Ali Akbarnezhad and Moslem Sheikhkhoshkar and Hind Bril El Haouzi and Bernard Rolfe",
+      title             = "3D Printing in Construction: Sustainable Technology for Building Industry",
+      doi               = "10.1007/s40964-025-01314-y",
+      year              = "2025",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Banihashemi, A. Akbarnezhad, M. Sheikhkhoshkar, H. B. E. Haouzi and B. Rolfe, “3D Printing in Construction: Sustainable Technology for Building Industry”, <i>Progress in Additive Manufacturing</i>, 2025, doi: 10.1007/s40964-025-01314-y.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Banihashemi, Saeed, Ali Akbarnezhad, Moslem Sheikhkhoshkar, Hind Bril El Haouzi, and Bernard Rolfe. “3D Printing in Construction: Sustainable Technology for Building Industry”. <i>Progress in Additive Manufacturing</i>, 2025. https://doi.org/10.1007/s40964-025-01314-y.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

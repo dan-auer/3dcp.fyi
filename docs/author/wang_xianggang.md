@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Wang Xianggang 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS/">Systematic Workflow for Digital Design and On-Site 3D Printing of Large Concrete Structures:<br/>A Case Study of a Full-Size Two-Story Building</a></li>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../dong_yuan_chen_jia.2025.PLSESEwUHPC/">Printing Large-Size Eggshell-Shaped Elements with Ultra-High-Performance Concrete:<br/>From Material-Design to Structural Bearing-Capacity-Assessment</a></li>
   <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_dong_jia_jia.2024.SSEoCSo3PCCCAwVWtBR/">Specimen-Size-Effect on Compressive Strength of 3D Printed Concrete Containing Coarse Aggregate with Varying Water-to-Binder-Ratios</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Stelladriana Volpe, Valentino Sangiorgio, Andrea Petrella, Michele Notarnicola, Humberto Varum, Francesco Fiorito
+    - footer
+title: Volpe Stelladriana, Sangiorgio Valentino, Petrella Andrea, Notarnicola Michele, Varum Humberto, Fiorito Francesco
 description:
 tags:
  - block
@@ -14,32 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://polipapers.upv.es/index.php/vitruvio/article/download/18832/15776) 3D Printed Concrete Blocks Made with Sustainable Recycled Material ([2023-04](date/2023/04))
-<a href="https://doi.org/10.4995/vitruvio-ijats.2023.18832" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.4995/vitruvio-ijats.2023.18832</a>
+#3D Printed Concrete Blocks Made with Sustainable Recycled Material ([2023-04](date/2023/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](http://polipapers.upv.es/index.php/vitruvio/article/download/18832/15776) <a href="https://doi.org/10.4995/vitruvio-ijats.2023.18832" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4995/vitruvio-ijats.2023.18832" target="_blank">10.4995/vitruvio-ijats.2023.18832</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volpe_stelladriana"><b>Volpe</b>&nbsp;Stelladriana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <a href="../../../author/petrella_andrea"><b>Petrella</b>&nbsp;Andrea</a></span>, <a href="../../../author/notarnicola_michele"><b>Notarnicola</b>&nbsp;Michele</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varum_humberto"><b>Varum</b>&nbsp;Humberto</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fiorito_francesco"><b>Fiorito</b>&nbsp;Francesco</a></span><br>
+Journal Article - International Journal of Architectural Technology and Sustainability, Vol. 8, Iss. 1, pp. 71-83
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a> <a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> <a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>
-,     <a href="../../../author/notarnicola_michele"><b>Notarnicola</b> Michele</a>
-,     <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a> <a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a> <a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Architectural Technology and Sustainability, Vol. 8, Iss. 1, pp. 71-83
-
-:aca-blank:{ .lg .middle}
-    [`#block`](keyword/block)
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Blocks%20Made%20with%20Sustainable%20Recycled%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153709522&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4376644914" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.4995/vitruvio-ijats.2023.18832" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.4995/vitruvio-ijats.2023.18832?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of recovered materials in building construction is one of the most effective strategies for reducing the environmental impacts of the construction sector. Innovative technologies such as 3D construction printing can be applied in combination with recycling strategies in order to optimise their performances also from an environmental point of view. In fact, several studies have proposed the processing of waste material into printable material. At the same time, performance studies must be conducted on the building components produced by these methods. This study proposes a methodological approach to design a 3D printable building component made with recycled materials considering the improvement of thermal performances. In particular, the approach is based on three steps: reuse strategy conception; target performance definition, modelling and iterative simulation; 3D printing setting. The methodological approach has been applied to a 3D printable block using as printable material a cement-based mortar with recycled aggregates and recycled insulating material. As a result, the component’s shape (interlocking and inspired by honeycombs) can be customised to achieve the required thermal performance by using recycled materials in the printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../chri_zijl_vill.2022.TIoRBAi3PC/">The Incorporation of Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
@@ -79,9 +57,40 @@ tags:
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{volp_sang_petr_nota.2023.3PCBMwSRM,
+      author            = "Stelladriana Volpe and Valentino Sangiorgio and Andrea Petrella and Michele Notarnicola and Humberto Varum and Francesco Fiorito",
+      title             = "3D Printed Concrete Blocks Made with Sustainable Recycled Material",
+      doi               = "10.4995/vitruvio-ijats.2023.18832",
+      year              = "2023",
+      journal           = "International Journal of Architectural Technology and Sustainability",
+      volume            = "8",
+      number            = "1",
+      pages             = "71--83",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Volpe, V. Sangiorgio, A. Petrella, M. Notarnicola, H. Varum and F. Fiorito, “3D Printed Concrete Blocks Made with Sustainable Recycled Material”, <i>International Journal of Architectural Technology and Sustainability</i>, vol. 8, no. 1, pp. 71–83, 2023, doi: 10.4995/vitruvio-ijats.2023.18832.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Volpe, Stelladriana, Valentino Sangiorgio, Andrea Petrella, Michele Notarnicola, Humberto Varum, and Francesco Fiorito. “3D Printed Concrete Blocks Made with Sustainable Recycled Material”. <i>International Journal of Architectural Technology and Sustainability</i> 8, no. 1 (2023): 71–83. https://doi.org/10.4995/vitruvio-ijats.2023.18832.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

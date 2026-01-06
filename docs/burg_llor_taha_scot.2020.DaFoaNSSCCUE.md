@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Joris Burger, Ena Lloret-Fritschi, Nizar Taha, Fabio Scotto, Thibault Demoulin, Jaime Mata-Falcón, Fabio Gramazio, Matthias Kohler, Robert Flatt
+    - footer
+title: Burger Joris, Lloret-Fritschi Ena, Taha Nizar, Scotto Fabio, Demoulin Thibault, Mata-Falcón Jaime, Gramazio Fabio, Kohler Matthias, Flatt Robert
 description:
 tags:
  - column
@@ -18,39 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell:<br/>:aca-blank: Ultra-Thin, 3D Printed Formwork ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_105" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_105</a>
+#Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">Ultra-Thin, 3D Printed Formwork</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_105" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_105" target="_blank">10.1007/978-3-030-49916-7_105</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/burger_jan_joris"><b>Burger</b>&nbsp;Joris</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <a href="../../../author/taha_nizar"><b>Taha</b>&nbsp;Nizar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0501-6576" title="ORCID: 0000-0002-0501-6576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scotto_fabio"><b>Scotto</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5074-7626" title="ORCID: 0000-0002-5074-7626" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demoulin_thibault"><b>Demoulin</b>&nbsp;Thibault</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1104-1115
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> <a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>
-,     <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a> <a href="https://orcid.org/0000-0002-0501-6576" title="ORCID: 0000-0002-0501-6576" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> <a href="https://orcid.org/0000-0002-5074-7626" title="ORCID: 0000-0002-5074-7626" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1104-1115
-
-:aca-blank:{ .lg .middle}
-    [`#column`](keyword/column)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#eggshell`](keyword/eggshell)
-    [`#fabrication`](keyword/fabrication)
-    [`#formwork`](keyword/formwork)
-    [`#print`](keyword/print)
-    [`#standard`](keyword/standard)
-    [`#structure`](keyword/structure)
-    [`#thin`](keyword/thin)
-
-
--------------------------
+<a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/eggshell"><button class="btn">#eggshell</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Fabrication%20of%20a%20Non-Standard%2C%20Structural%20Concrete%20Column%20Using%20Eggshell" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088263704&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,26 +41,21 @@ tags:
 <a href="https://inciteful.xyz/p/W3041470208" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_105" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_105?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper describes the design and fabrication process of a concrete column cast in ultra-thin, 3D printed formwork, using a process known as Eggshell. The column was prefabricated as part of a real-world construction project, serving as the main load-bearing element for a reciprocal timber frame structure. The fabrication of the column required upscaling of the Eggshell process, to allow for the fabrication of elements of an architectural scale. Furthermore, several challenges had to be addressed such as: integration of reinforcement, establishing the formwork design space, and scaling up the 3D printing process. For the production of the final column a 1.5 mm thin formwork was 3D printed, after which it was combined with a prefabricated reinforcement cage and filled with concrete in a set-on-demand casting process. The successful realization of the project provides a first example of a full-scale building element produced with the Eggshell fabrication process. By 3D printing the formwork, geometrical freedom in concrete construction is greatly expanded, as well as formwork waste reduced.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
-      <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../burg_llor_taha_scot.2020.DaFoaNSSCCUE/">Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell:<br/>Ultra-Thin, 3D Printed Formwork</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../jipa_bern_dill.2017.SF/">Submillimetre Formwork:<br/>3D Printed Plastic Formwork for Concrete Elements</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2017/03">(2017-03)</a><br><a href="../../../llor_reit_wang_gram.2017.SDC/">Smart Dynamic Casting:<br/>Slipforming with Flexible Formwork</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../llor_scot_gram_kohl.2019.CoRSPwSDC/">Challenges of Real-Scale Production with Smart Dynamic Casting</a></li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guan_wang_bai_ma.2025.E3PFCvFHSCR/">Enhancing 3D Printed Formwork Columns via FRP Hoop Shear Connection Reinforcement</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.EoNSODPIaIoGFMRi3PC/">Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a>, <a href="../../../author/anwar_parvez_mohammed"><b>Anwar</b> Mohammed</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sala_jaya_anwa.2025.SoRIMf3PCUM/">Selection of Reinforcement Incorporation Method for 3D Printed Concrete Using MCDM</a></li>
@@ -112,8 +83,36 @@ tags:
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../gebh_burg_mata_llor.2022.TECSwUT3PF/">Towards Efficient Concrete Structures with Ultra-Thin 3D Printed Formwork:<br/>Exploring Reinforcement-Strategies and Optimization</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/chiu_yu-hung"><b>Chiu</b> Yu-Hung</a>, <a href="../../../author/techathuvanun_chanon"><b>Techathuvanun</b> Chanon</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../burg_wang_chiu_tech.2021.MIFG/">Material-Informed Formwork Geometry:<br/>The Effects of Cross-Sectional Variation and Patterns on the Strength of 3D Printed Eggshell Formworks</a></li>
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../pott_step.2021.PTaaFMtDYSaSBUf3PoCM/">Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials</a></li>
-      <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../burg_llor_taha_scot.2020.DaFoaNSSCCUE/">Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell:<br/>Ultra-Thin, 3D Printed Formwork</a></li>
-      <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>
-      <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{burg_llor_taha_scot.2020.DaFoaNSSCCUE,
+      author            = "Joris Jan Burger and Ena Lloret-Fritschi and Nizar Taha and Fabio Scotto and Thibault Demoulin and Jaime Mata-Falcón and Fabio Gramazio and Matthias Daniel Kohler and Robert Johann Flatt",
+      title             = "Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell: Ultra-Thin, 3D Printed Formwork",
+      doi               = "10.1007/978-3-030-49916-7_105",
+      year              = "2020",
+      volume            = "28",
+      pages             = "1104--1115",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. J. Burger, “Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell: Ultra-Thin, 3D Printed Formwork”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 1104–1115. doi: 10.1007/978-3-030-49916-7_105.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Burger, Joris Jan, Ena Lloret-Fritschi, Nizar Taha, Fabio Scotto, Thibault Demoulin, Jaime Mata-Falcón, Fabio Gramazio, Matthias Daniel Kohler, and Robert Johann Flatt. “Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell: Ultra-Thin, 3D Printed Formwork”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:1104–15, 2020. https://doi.org/10.1007/978-3-030-49916-7_105.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

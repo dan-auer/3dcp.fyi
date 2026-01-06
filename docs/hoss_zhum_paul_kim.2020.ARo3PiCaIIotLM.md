@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Md. Hossain, Altynay Zhumabekova, Suvash Paul, Jong Kim
+    - footer
+title: Hossain Md., Zhumabekova Altynay, Paul Suvash, Kim Jong
 description:
 tags:
  - construction
@@ -12,28 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/12/20/8492/pdf?version=1602729177) A Review of 3D Printing in Construction and Its Impact on the Labor Market ([2020-10](date/2020/10))
-<a href="https://doi.org/10.3390/su12208492" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su12208492</a>
+#A Review of 3D Printing in Construction and Its Impact on the Labor Market ([2020-10](date/2020/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/12/20/8492/pdf?version=1602729177) <a href="https://doi.org/10.3390/su12208492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su12208492" target="_blank">10.3390/su12208492</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6897-4640" title="ORCID: 0000-0002-6897-4640" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hossain_aslam_md"><b>Hossain</b>&nbsp;Md.</a></span>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b>&nbsp;Altynay</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_chandra_suvash"><b>Paul</b>&nbsp;Suvash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8796-3832" title="ORCID: 0000-0002-8796-3832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_ryeol_jong"><b>Kim</b>&nbsp;Jong</a></span><br>
+Journal Article - Sustainability, Vol. 12, Iss. 20
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a> <a href="https://orcid.org/0000-0002-6897-4640" title="ORCID: 0000-0002-6897-4640" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>
-,     <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> <a href="https://orcid.org/0000-0001-9997-2077" title="ORCID: 0000-0001-9997-2077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="https://orcid.org/0000-0002-8796-3832" title="ORCID: 0000-0002-8796-3832" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 12, Iss. 20, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#labor`](keyword/labor)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%203D%20Printing%20in%20Construction%20and%20Its%20Impact%20on%20the%20Labor%20Market" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85093078926&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3092985997" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su12208492" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su12208492?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Construction industry is very labor-intensive and one of the major sources of employment in the world. The industry is experiencing low productivity with minimum technological innovations for decades. In recent times, various automation technologies including 3D printing have received increasing interests in construction. 3D printing in construction is found to be very promising to automate the construction processes and have the potential of saving laborious work, material waste, construction time, risky operation for humans, etc. There has been a comprehensive body of research conducted to understand the recent advances, future prospects and challenges of large-scale adoption of 3D printing in construction projects. Being one the labor-intensive industries, this study also investigates the possible impact on the labor market with increasing adoption of 3D printing in construction. It is found that 3D printing can reduce significant number of labors which can solve the labor shortage problem, especially for the countries where construction is heavily dependent on immigrant workers. In contrast, 3D printing might not be favorable for the countries where construction is one of the main workforces and labor is less expensive. Moreover, 3D construction printing will also require people with special skills related to this new technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
@@ -66,7 +48,6 @@ tags:
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/grigoryan_a_erik"><b>Grigoryan</b> Erik</a>, <a href="../../../author/semenova_d_m"><b>Semenova</b> M.</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../grig_seme.2020.AotCPbUaHRwIN/">Automation of the Construction Process by Using a Hinged Robot with Interchangeable Nozzles</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
-      <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
       <li><a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a>, <a href="../../../author/han_sun-jin"><b>Han</b> Sun-Jin</a>, <a href="../../../author/choi_seung-ho"><b>Choi</b> Seung-Ho</a>, <a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../jeon_han_choi_lee.2019.RPCfB3PC/">Rheological Property Criteria for Buildable 3D Printing Concrete</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
@@ -97,9 +78,13 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "130 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_maia.2026.E3CPCwBT/">Expanding 3D Concrete Printing Customization with Biomimetic Textures</a></li>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
@@ -148,7 +133,7 @@ tags:
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/liang_yu-fang"><b>Liang</b> Yu-Fang</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chi-hong"><b>Huang</b> Chi-Hong</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_lian_syu_huan.2024.SaDMCo3PABFRCM/">Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/khieu_hoang_hai"><b>Khieu</b> Hai</a>, <a href="../../../author/black_r_jay"><b>Black</b> Jay</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_khie_blac_nguy.2025.TS3PSFRSfCS/">Two-Scale 3D Printed Steel-Fiber-Reinforcements-Strategy for Concrete Structures</a></li>
       <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/ge_yutian"><b>Ge</b> Yutian</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../huan_ge_wang_wang.2024.RCBPUiFR3PC/">Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete:<br/>An Eco-Friendly Substitute to Conventional Fine Aggregates</a></li>
-      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
+      <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../du_qian.2024.BIIi3CP/">Bio-Inspired Innovations in 3D Concrete Printing:<br/>Structures, Materials and Applications</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../li_lan_nguy_tran.2024.FiC3P/">Frontiers in Construction 3D Printing:<br/>Self-Monitoring, Multi-Robot, Drone-Assisted Processes</a></li>
@@ -225,7 +210,35 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../sunt_upas_gath_pool.2021.FRo3PCCWPEtVFS/">Fire-Resistance of 3D Printed Concrete Composite Wall Panels Exposed to Various Fire Scenarios</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../garc_moro_band.2021.AEo3PB/">Architectural Evaluation of 3D Printed Buildings</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>
-      <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
-      <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../dey_srin_pand_sith.2023.PoCMf3CP/">Processing of Cementitious Materials for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM,
+      author            = "Md. Aslam Hossain and Altynay Zhumabekova and Suvash Chandra Paul and Jong Ryeol Kim",
+      title             = "A Review of 3D Printing in Construction and Its Impact on the Labor Market",
+      doi               = "10.3390/su12208492",
+      year              = "2020",
+      journal           = "Sustainability",
+      volume            = "12",
+      number            = "20",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. A. Hossain, A. Zhumabekova, S. C. Paul and J. R. Kim, “A Review of 3D Printing in Construction and Its Impact on the Labor Market”, <i>Sustainability</i>, vol. 12, no. 20, 2020, doi: 10.3390/su12208492.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hossain, Md. Aslam, Altynay Zhumabekova, Suvash Chandra Paul, and Jong Ryeol Kim. “A Review of 3D Printing in Construction and Its Impact on the Labor Market”. <i>Sustainability</i> 12, no. 20 (2020). https://doi.org/10.3390/su12208492.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

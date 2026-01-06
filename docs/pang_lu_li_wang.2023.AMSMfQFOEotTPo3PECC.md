@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhiming Pang, Cong Lu, Baoshan Li, Jiajie Wang
+    - footer
+title: Pang Zhiming, Lu Cong, Li Baoshan, Wang Jiajie
 description:
 tags:
  - cement
@@ -21,37 +22,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.jobe.2023.106090" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.106090</a>
+#A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites ([2023-02](date/2023/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106090" target="_blank">10.1016/j.jobe.2023.106090</a>
 
--------------------------
+<a href="../../../author/pang_zhiming"><b>Pang</b>&nbsp;Zhiming</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span>, <a href="../../../author/li_baoshan"><b>Li</b>&nbsp;Baoshan</a></span>, <a href="../../../author/wang_jiajie"><b>Wang</b>&nbsp;Jiajie</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 68
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pang_zhiming"><b>Pang</b> Zhiming</a>
-,     <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>
-,     <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>
-,     <a href="../../../author/wang_jiajie"><b>Wang</b> Jiajie</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 68, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#engineered`](keyword/engineered)
-    [`#fiber`](keyword/fiber)
-    [`#model`](keyword/model)
-    [`#multi`](keyword/multi)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#quantity`](keyword/quantity)
-    [`#scale`](keyword/scale)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Multi-Scale%20Model%20for%20Quantifying%20Fiber-Orientation%20Effects%20on%20the%20Tensile%20Properties%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147842951&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319962938" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.106090" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.106090?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The lack of steel reinforcement in conventional 3D concrete printed structures leads to susceptibility to damage during construction. 3D printed Engineered Cementitious Composites (3DP-ECC) are attracting attention as alternatives for providing additional reinforcement by incorporating fibers in 3D concrete printing. However, the effect of the fiber orientation distribution on the tensile performance of 3DP-ECC has not been quantitatively evaluated. This study established an approach for quantifying the fiber orientation distribution for printing nozzles with different shapes and sizes using probability density functions. The effect of the fiber orientation on the tensile behavior of 3DP-ECC was further quantitatively evaluated by analyzing the fiber number, load transfer distance, and fiber bridging properties. A multiscale model was used to evaluate the tensile behavior of 3DP-ECC. The proposed model was validated by analyzing specimens fabricated using casting, 3DP-20 mm, and 3DP-8 mm nozzles, showing good agreement with the experimental results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
@@ -90,8 +63,8 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
@@ -116,4 +89,33 @@ tags:
       <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pi_lu_yao_li.2024.ARBPAMf3PECCCFD/">A Rheological-Based Printability-Assessment Method for 3D Printing Engineered Cementitious Composites Considering Fiber-Dispersion</a></li>
       <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/zhou_junhui"><b>Zhou</b> Junhui</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pi_lu_li_zhou.2023.CPaFMo3PECC3EUBL/">Crack Propagation and Failure Mechanism of 3D Printing Engineered Cementitious Composites (3DP-ECC) Under Bending Loads</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pang_lu_li_wang.2023.AMSMfQFOEotTPo3PECC,
+      author            = "Zhiming Pang and Cong Lu and Baoshan Li and Jiajie Wang",
+      title             = "A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites",
+      doi               = "10.1016/j.jobe.2023.106090",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      volume            = "68",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Pang, C. Lu, B. Li and J. Wang, “A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites”, <i>Journal of Building Engineering</i>, vol. 68, 2023, doi: 10.1016/j.jobe.2023.106090.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pang, Zhiming, Cong Lu, Baoshan Li, and Jiajie Wang. “A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites”. <i>Journal of Building Engineering</i> 68 (2023). https://doi.org/10.1016/j.jobe.2023.106090.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

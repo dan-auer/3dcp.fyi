@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jana Daher, Joelle Kleib, Mahfoud Benzerzour, Nor-Edine Abriak, Georges Aouad
+    - footer
+title: Daher Jana, Kleib Joelle, Benzerzour Mahfoud, Abriak Nor-Edine, Aouad Georges
 description:
 tags:
  - concrete
@@ -12,29 +13,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/9/1400/pdf?version=1662538649) Recycling of Flash-Calcined Dredged Sediment for Concrete 3D Printing ([2022-09](date/2022/09))
-<a href="https://doi.org/10.3390/buildings12091400" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12091400</a>
+#Recycling of Flash-Calcined Dredged Sediment for Concrete 3D Printing ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/9/1400/pdf?version=1662538649) <a href="https://doi.org/10.3390/buildings12091400" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12091400" target="_blank">10.3390/buildings12091400</a>
 
--------------------------
+<a href="../../../author/daher_jana"><b>Daher</b>&nbsp;Jana</a></span>, <a href="../../../author/kleib_joelle"><b>Kleib</b>&nbsp;Joelle</a></span>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b>&nbsp;Mahfoud</a></span>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b>&nbsp;Nor-Edine</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aouad_georges"><b>Aouad</b>&nbsp;Georges</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/daher_jana"><b>Daher</b> Jana</a>
-,     <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>
-,     <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>
-,     <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a>
-,     <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#sediment`](keyword/sediment)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sediment"><button class="btn">#sediment</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recycling%20of%20Flash-Calcined%20Dredged%20Sediment%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138795221&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +34,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4295106749" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12091400" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12091400?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to the large volumes of sediments dredged each year and their classification as waste materials, proper management is needed to efficiently dispose of or recycle them. This study aimed to recycle flash-calcined dredged sediment in the development of an eco-friendly 3D-printable mortar. Mortars with 0, 5, 10, 15, 20, and 30% of flash-calcined sediment were studied. Two tests were carried out to determine the printability of the mixtures. First, a manual gun device was used to examine the extrudability, then a modified minislump test was conducted to assess the buildability and shaperetention ability of the mixtures. Furthermore, the flow table test and the fall cone test were used to evaluate the workability and structural buildup, respectively. The compressive strength was also evaluated at 1, 7, and 28 days for printed and nonprinted mortar specimens. In addition, isothermal calorimetry measurements were conducted on corresponding cement pastes. The results showed that it was possible to print mortars with up to 10% of flash-calcined sediment with the preservation of extrudability and buildability. The results showed that flash-calcined sediment shortened the setting time, decreased the flowability, and enhanced the shape-retention ability. Nonprinted samples with 5% and 10% of flash-calcined sediment showed a similar to higher compressive strength compared to that of the reference mortar. However, printed samples recorded an equal to lower compressive strength than that of nonprinted samples. In addition, no significant change in the hydration process was detected for blended cement pastes compared to the reference cement paste.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../baz_remo_aoua.2022.IotMCotTo3PM/">Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars</a></li>
@@ -87,12 +68,42 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/lee_sang-min"><b>Lee</b> Sang-Min</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rehm_lee_kim.2020.UoMSWIAi3PC/">Use of Municipal Solid-Waste Incineration-Ash in 3D Printable Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../asla_zhan.2024.S3PCSUHQSRM/">Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials</a></li>
       <li><a href="../../../author/gonzalez-fonteboa_belen"><b>González-Fonteboa</b> Belén</a>, <a href="../../../author/seara-paz_sindy"><b>Seara-Paz</b> Sindy</a>, <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../gonz_sear_cane.2024.3PCwB/">3D Printing Concrete with Byproducts</a></li>
       <li><a href="../../../author/genc_gokhan"><b>Genc</b> Gokhan</a>, <a href="../../../author/demircan_kilic_ruya"><b>Demircan</b> Ruya</a>, <a href="../../../author/beyhan_figen"><b>Beyhan</b> Figen</a>, <a href="../../../author/kaplan_gokhan"><b>Kaplan</b> Gökhan</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../genc_demi_beyh_kapl.2023.AotSaPoACRwCBB/">Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders:<br/>Environmental Life-Cycle-Analysis and 3D Printability</a></li>
       <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../dahe_klei_benz_abri.2023.TDoSB3PM/">The Development of Soil-Based 3D Printable Mixtures:<br/>A Mix-Design Methodology and a Case Study</a></li>
       <li><a href="../../../author/li_xiao-sheng"><b>Li</b> Xiao-Sheng</a>, <a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../li_li_zou.2023.DLp3PCUSW/">Developing Low-pH 3D Printing Concrete Using Solid Wastes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dahe_klei_benz_abri.2022.RoFCDSfC3P,
+      author            = "Jana Daher and Joelle Kleib and Mahfoud Benzerzour and Nor-Edine Abriak and Georges Aouad",
+      title             = "Recycling of Flash-Calcined Dredged Sediment for Concrete 3D Printing",
+      doi               = "10.3390/buildings12091400",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Daher, J. Kleib, M. Benzerzour, N.-E. Abriak and G. Aouad, “Recycling of Flash-Calcined Dredged Sediment for Concrete 3D Printing”, <i>Buildings</i>, vol. 12, no. 9, 2022, doi: 10.3390/buildings12091400.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Daher, Jana, Joelle Kleib, Mahfoud Benzerzour, Nor-Edine Abriak, and Georges Aouad. “Recycling of Flash-Calcined Dredged Sediment for Concrete 3D Printing”. <i>Buildings</i> 12, no. 9 (2022). https://doi.org/10.3390/buildings12091400.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

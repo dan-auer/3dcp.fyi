@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mehdi Chougan, Szymon Skibicki, Yazeed Noaimat, Karol Federowicz, Marcin Hoffmann, Daniel Sibera, Krzysztof Cendrowski, Mateusz Techman, Joao Nuno Pacheco, Seyed Ghaffar, Paweł Sikora
+    - footer
+title: Chougan Mehdi, Skibicki Szymon, Noaimat Yazeed, Federowicz Karol, Hoffmann Marcin, Sibera Daniel, Cendrowski Krzysztof, Techman Mateusz, Nuno Pacheco Joao, Ghaffar Seyed, Sikora Paweł
 description:
 tags:
  - aggregate
@@ -20,43 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100529) Comparative Analysis of Ternary Blended Cement with Clay and Engineering-Brick-Aggregate for High-Performance 3D Printing ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.dibe.2024.100529" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100529</a>
+#Comparative Analysis of Ternary Blended Cement with Clay and Engineering-Brick-Aggregate for High-Performance 3D Printing ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100529) <a href="https://doi.org/10.1016/j.dibe.2024.100529" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100529" target="_blank">10.1016/j.dibe.2024.100529</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chougan_mehdi"><b>Chougan</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noaimat_afet-adnan_yazeed"><b>al&nbsp;Noaimat</b>&nbsp;Yazeed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/federowicz_karol"><b>Federowicz</b>&nbsp;Karol</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibera_daniel"><b>Sibera</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/techman_mateusz"><b>Techman</b>&nbsp;Mateusz</a></span>, <a href="../../../author/nuno-pacheco_joao"><b>Nuno Pacheco</b>&nbsp;Joao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sikora_pawel"><b>Sikora</b>&nbsp;Paweł</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100529
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> <a href="https://orcid.org/0000-0002-7851-8665" title="ORCID: 0000-0002-7851-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/noaimat_afet-adnan_yazeed"><b>al Noaimat</b> Yazeed</a> <a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> <a href="https://orcid.org/0000-0002-6622-4539" title="ORCID: 0000-0002-6622-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> <a href="https://orcid.org/0000-0001-7542-8093" title="ORCID: 0000-0001-7542-8093" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> <a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> <a href="https://orcid.org/0000-0001-7809-9280" title="ORCID: 0000-0001-7809-9280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nuno-pacheco_joao"><b>Nuno Pacheco</b> Joao</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="https://orcid.org/0000-0003-1092-1359" title="ORCID: 0000-0003-1092-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100529
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#analysis`](keyword/analysis)
-    [`#blend`](keyword/blend)
-    [`#brick`](keyword/brick)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#comparision`](keyword/comparision)
-    [`#engineered`](keyword/engineered)
-    [`#height`](keyword/height)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#ternary`](keyword/ternary)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20Ternary%20Blended%20Cement%20with%20Clay%20and%20Engineering-Brick-Aggregate%20for%20High-Performance%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203258557&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402095610" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100529" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100529?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Utilising recycled brick aggregate in cementitious mixtures can decrease the overdependency on limited natural resources and improve the sustainability of concrete. This paper presents a potential solution to lower the amount of waste being landfilled and increase the sustainability of 3D concrete printing technology by combining low-carbon ternary blended cement with recycled aggregates. Hence, the effect of incorporating two types of recycled brick aggregate - clay brick (CBA) and engineering brick (EBA) on the properties of 3D printable ternary blended cement were investigated. The natural aggregate in a pre-existing 3D printable blend was substituted by up to 50 wt.-% with two varieties of recycled brick aggregates available throughout Europe. The recycled brick aggregates underwent characterisation to determine their properties. The fresh property evaluation using the green strength test was used to assess the effect of aggregate replacements on the mixture’s shape stability. The mechanical performance of mixtures containing CBA and EBA, both cast and 3D printable mixes, was evaluated and compared to that of the control sample. The results indicated that incorporating recycled brick aggregate enhances green strength and Young’s modulus significantly. Mechanical strength performance showed significant enhancement when incorporating RBA, which reached up to 67% and 55% for both cast and 3D printing methods, respectively. The suitability of the developed mix formulations for 3D printing was assessed by printing cylindrical objects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -117,9 +84,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chou_skib_noai_fede.2024.CAoTBCwCaEBAfHP3P,
+      author            = "Mehdi Chougan and Szymon Skibicki and Yazeed Afet Adnan Al Noaimat and Karol Federowicz and Marcin Hoffmann and Daniel Sibera and Krzysztof Cendrowski and Mateusz Techman and Joao Nuno Pacheco and Seyed Hamidreza Ghaffar and Paweł Sikora",
+      title             = "Comparative Analysis of Ternary Blended Cement with Clay and Engineering-Brick-Aggregate for High-Performance 3D Printing",
+      doi               = "10.1016/j.dibe.2024.100529",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      pages             = "100529",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Chougan, “Comparative Analysis of Ternary Blended Cement with Clay and Engineering-Brick-Aggregate for High-Performance 3D Printing”, <i>Developments in the Built Environment</i>, p. 100529, 2024, doi: 10.1016/j.dibe.2024.100529.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chougan, Mehdi, Szymon Skibicki, Yazeed Afet Adnan Al Noaimat, Karol Federowicz, Marcin Hoffmann, Daniel Sibera, Krzysztof Cendrowski, et al.. “Comparative Analysis of Ternary Blended Cement with Clay and Engineering-Brick-Aggregate for High-Performance 3D Printing”. <i>Developments in the Built Environment</i>, 2024, 100529. https://doi.org/10.1016/j.dibe.2024.100529.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

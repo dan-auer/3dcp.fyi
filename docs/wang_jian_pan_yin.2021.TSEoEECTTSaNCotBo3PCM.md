@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Wang, Yaqing Jiang, Tinghong Pan, Kangting Yin
+    - footer
+title: Wang Yu, Jiang Yaqing, Pan Tinghong, Yin Kangting
 description:
 tags:
  - buildability
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/16/4622/pdf?version=1629260767) The Synergistic Effect of Ester-Ether Copolymerization Thixo-Tropic Superplasticizer and Nano-Clay on the Buildability of 3D Printable Cementitious Materials ([2021-08](date/2021/08))
-<a href="https://doi.org/10.3390/ma14164622" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14164622</a>
+#The Synergistic Effect of Ester-Ether Copolymerization Thixo-Tropic Superplasticizer and Nano-Clay on the Buildability of 3D Printable Cementitious Materials ([2021-08](date/2021/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/16/4622/pdf?version=1629260767) <a href="https://doi.org/10.3390/ma14164622" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14164622" target="_blank">10.3390/ma14164622</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yu"><b>Wang</b>&nbsp;Yu</a></span>, <a href="../../../author/jiang_yaqing"><b>Jiang</b>&nbsp;Yaqing</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <a href="../../../author/yin_kangting"><b>Yin</b>&nbsp;Kangting</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 16
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>
-,     <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> <a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yin_kangting"><b>Yin</b> Kangting</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 16, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#clay`](keyword/clay)
-    [`#effect`](keyword/effect)
-    [`#material`](keyword/material)
-    [`#printability`](keyword/printability)
-    [`#superplasticizer`](keyword/superplasticizer)
-    [`#synergy`](keyword/synergy)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Synergistic%20Effect%20of%20Ester-Ether%20Copolymerization%20Thixo-Tropic%20Superplasticizer%20and%20Nano-Clay%20on%20the%20Buildability%20of%203D%20Printable%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85114030748&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3195389212" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14164622" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14164622?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The shape retention ability of materials deposited layer by layer is called buildability, which is an indispensable performance parameter for successful 3D printable cementitious materials (3DPC). This study investigated the synergistic effect of nano-clay (NC) and thixotropic superplasticizer (TP) on the buildability of 3DPC. The rheological parameters and static yield stress are characterized by the rheology testing, the green strength is measured by a self-made pressure tester, and the fluidity is tested by flow table. Results indicate that NC significantly increases the growth rate of static yield stress and green strength and TP can improve the initial rheological parameters and fluidity, which ensures the initial stiffness and workability of printed materials. The mixture with 7‰ (by mass of cementitious materials) NC and 3‰ TP obtains excellent extrudability and buildability, due to the synergistic effect of NC and TP. Based on the rheology testing and specific printing experiments, a printable window with 1.0 Pa/s~2.0 Pa/s of the rate of static yield stress evolution over time (RST) or 170 mm~200 mm of fluidity is established. This work provides theorical support for the control and evaluation of rheological properties in 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
@@ -99,8 +77,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/song_qiang"><b>Song</b> Qiang</a>, <a href="../../../author/zhou_guangyu"><b>Zhou</b> Guangyu</a>, <a href="../../../author/bao_hailing"><b>Bao</b> Hailing</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../song_zhou_bao_liu.2025.SotEoNPCMaVDotPaMPot3PCM/">Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
@@ -117,6 +95,35 @@ tags:
       <li><a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gao_hua_yue.2023.SoPaRPo3PPFC/">Study on Preparation and Rheological Properties of 3D Printed Pre-Foaming Concrete</a></li>
       <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kili_ma_baha_ozbu.2023.EoVMAaNCoFaRVPaPCoCC/">Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
-      <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_jian_pan_yin.2021.TSEoEECTTSaNCotBo3PCM,
+      author            = "Yu Wang and Yaqing Jiang and Tinghong Pan and Kangting Yin",
+      title             = "The Synergistic Effect of Ester-Ether Copolymerization Thixo-Tropic Superplasticizer and Nano-Clay on the Buildability of 3D Printable Cementitious Materials",
+      doi               = "10.3390/ma14164622",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "16",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Wang, Y. Jiang, T. Pan and K. Yin, “The Synergistic Effect of Ester-Ether Copolymerization Thixo-Tropic Superplasticizer and Nano-Clay on the Buildability of 3D Printable Cementitious Materials”, <i>Materials</i>, vol. 14, no. 16, 2021, doi: 10.3390/ma14164622.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Yu, Yaqing Jiang, Tinghong Pan, and Kangting Yin. “The Synergistic Effect of Ester-Ether Copolymerization Thixo-Tropic Superplasticizer and Nano-Clay on the Buildability of 3D Printable Cementitious Materials”. <i>Materials</i> 14, no. 16 (2021). https://doi.org/10.3390/ma14164622.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

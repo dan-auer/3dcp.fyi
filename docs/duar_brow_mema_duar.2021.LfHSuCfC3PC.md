@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gonçalo Duarte, Nathan Brown, Ali Memari, José Duarte
+    - footer
+title: Duarte Gonçalo, Brown Nathan, Memari Ali, Duarte José
 description:
 tags:
  - compression
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Learning from Historical Structures under Compression for Concrete 3D Printing Construction ([2021-07](date/2021/07))
-<a href="https://doi.org/10.1016/j.jobe.2021.103009" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2021.103009</a>
+#Learning from Historical Structures under Compression for Concrete 3D Printing Construction ([2021-07](date/2021/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.103009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103009" target="_blank">10.1016/j.jobe.2021.103009</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7111-0018" title="ORCID: 0000-0002-7111-0018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_goncalo"><b>Duarte</b>&nbsp;Gonçalo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7585-652X" title="ORCID: 0000-0002-7585-652X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brown_c_nathan"><b>Brown</b>&nbsp;Nathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 43
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a> <a href="https://orcid.org/0000-0002-7111-0018" title="ORCID: 0000-0002-7111-0018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="https://orcid.org/0000-0002-7585-652X" title="ORCID: 0000-0002-7585-652X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 43, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#historical`](keyword/historical)
-    [`#learn`](keyword/learn)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/historical"><button class="btn">#historical</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Learning%20from%20Historical%20Structures%20under%20Compression%20for%20Concrete%203D%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111302794&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3183622476" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2021.103009" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2021.103009?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper reviews and extracts lessons from historic buildings, whose stability relies mainly on compression to resist gravity loads, that can inform the construction of affordable housing and shelters using 3D printed concrete without reinforcement and formwork. The first part consists of a literature survey of historic constructions with systems relying on compression considering four vectors of analysis: (1) form; (2) structural principle; (3) materials; and (4) construction process. The survey starts by identifying forms whose structural principle may be adequate for 3D printing of concrete applications. Then, historic structures displaying similar forms are analyzed in terms of structural behavior, the types of materials employed, and the construction process used to obtain foundations, walls, and roofs. A series of historically inspired shapes for printing is thus obtained from this survey. To address the printability of the structures identified after the survey, the second part of the paper provides a brief description of existing processes for construction scale printing considering material aspects, such as fresh state behavior, and printing system configurations. Addressing the fresh state properties of concrete is crucial as it determines whether the structure fails during printing. Finally, a set of strategies including potential toolpaths and intermediate states are defined to print the identified forms, considering issues concerning material requirements and printing process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../carn_mesn_rous_bave.2019.AEo3PDSIbM/">An Exploration of 3D Printing Design Space Inspired by Masonry</a></li>
@@ -93,8 +72,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "30 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/sameh_hazem"><b>Sameh</b> Hazem</a>, <a href="../../../author/fekry_mayar"><b>Fekry</b> Mayar</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mahd_same_fekr.2025.SSo3PECD/">Structural Stability of 3D-Printed Earthen Catenary Domes:<br/>Experimental and Analytical Insights</a></li>
       <li><a href="../../../author/ilerisoy_yesim_zeynep"><b>İlerisoy</b> Zeynep</a>, <a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../iler_takv_top_gokg.2025.TEo3CPTiAD/">The Effectiveness of 3D Concrete Printing Technology in Architectural Design:<br/>Different Corner-Wall Combinations in 3D Printed Elements and Geometric Form Configurations in Residential Buildings</a></li>
@@ -126,4 +105,33 @@ tags:
       <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../ahad_vali.2022.UoNSMAitRo3CPI/">Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_yali"><b>Li</b> Yali</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP/">Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{duar_brow_mema_duar.2021.LfHSuCfC3PC,
+      author            = "Gonçalo Duarte and Nathan C. Brown and Ali M. Memari and José Pinto Duarte",
+      title             = "Learning from Historical Structures under Compression for Concrete 3D Printing Construction",
+      doi               = "10.1016/j.jobe.2021.103009",
+      year              = "2021",
+      journal           = "Journal of Building Engineering",
+      volume            = "43",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Duarte, N. C. Brown, A. M. Memari and J. P. Duarte, “Learning from Historical Structures under Compression for Concrete 3D Printing Construction”, <i>Journal of Building Engineering</i>, vol. 43, 2021, doi: 10.1016/j.jobe.2021.103009.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Duarte, Gonçalo, Nathan C. Brown, Ali M. Memari, and José Pinto Duarte. “Learning from Historical Structures Under Compression for Concrete 3D Printing Construction”. <i>Journal of Building Engineering</i> 43 (2021). https://doi.org/10.1016/j.jobe.2021.103009.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

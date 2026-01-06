@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jie Xu, Lieyun Ding, Lixiong Cai, Lichao Zhang, Hanbin Luo, Wenbo Qin
+    - footer
+title: Xu Jie, Ding Lieyun, Cai Lixiong, Zhang Lichao, Luo Hanbin, Qin Wenbo
 description:
 tags:
  - concrete
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1016/j.autcon.2019.03.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.03.008</a>
+#Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle ([2019-04](date/2019/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2019.03.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.03.008" target="_blank">10.1016/j.autcon.2019.03.008</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_lieyun"><b>Ding</b>&nbsp;Lieyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3177-8897" title="ORCID: 0000-0003-3177-8897" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_lixiong"><b>Cai</b>&nbsp;Lixiong</a></span>, <a href="../../../author/zhang_lichao"><b>Zhang</b>&nbsp;Lichao</a></span>, <a href="../../../author/luo_hanbin"><b>Luo</b>&nbsp;Hanbin</a></span>, <a href="../../../author/qin_wenbo"><b>Qin</b>&nbsp;Wenbo</a></span><br>
+Journal Article - Automation in Construction, Vol. 104, pp. 95-106
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a> <a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a> <a href="https://orcid.org/0000-0003-3177-8897" title="ORCID: 0000-0003-3177-8897" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a>
-,     <a href="../../../author/luo_hanbin"><b>Luo</b> Hanbin</a>
-,     <a href="../../../author/qin_wenbo"><b>Qin</b> Wenbo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 104, pp. 95-106
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#form`](keyword/form)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#size`](keyword/size)
-    [`#square`](keyword/square)
-    [`#variation`](keyword/variation)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/square"><button class="btn">#square</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Volume-Forming%203D%20Concrete%20Printing%20Using%20a%20Variable-Size%20Square%20Nozzle" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85064436282&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2937283056" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.03.008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.03.008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D Concrete Printing (3DCP) process is rapidly developing worldwide, showing its ability to construct largescale components or even a building. However, the current 3DCP process has found it hard to manufacture architectural components with detailed ornamentations and features on their surface due to the Fused Deposition Modelling (FDM) manner that generates fixed-width filaments. This paper introduces a novel Volume - Forming 3D Concrete Printing (VF3DCP) method applying a variable-size square nozzle to manufacture architectural ornaments. The VF3DCP process is described as to directly fabricate a variable cross-section volume during one-time work instead of an FDM accumulation process. A VF3DCP extrusion kit prototype featured by a steering module and a nozzle-varying module is developed. Functional relationships of four key process parameters for a trial material, including nozzle size, nozzle travel speed, material extrusion rate and toolpath curvature radius, are fitted by two process tests. Two case studies into the manufacture of an architectural carved pattern and a curved wall structure together validate a Voronoi Diagram-based skeleton line-segment algorithm for the single-path and multi-path toolpath planning of the VF3DCP process. The results show the potential of the proposed method in manufacturing architectural ornaments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -84,8 +60,9 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "59 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/gajjar_parth"><b>Gajjar</b> Parth</a>, <a href="../../../author/gajjar_t"><b>Gajjar</b> T.</a>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b> Aniruddha</a>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gajj_gajj_tang_shre.2025.A3PiC/">Advancing 3D Printing in Construction:<br/>Rheological Behaviors of Cementitious Composites with Supplementary Materials</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
@@ -145,4 +122,34 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../shak_neja_paul_sanj.2020.DAFWaPiI3fGaCMM/">Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_ding_cai_zhan.2019.VF3CPUaVSSN,
+      author            = "Jie Jerry Xu and Lieyun Ding and Lixiong Cai and Lichao Zhang and Hanbin Luo and Wenbo Qin",
+      title             = "Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle",
+      doi               = "10.1016/j.autcon.2019.03.008",
+      year              = "2019",
+      journal           = "Automation in Construction",
+      volume            = "104",
+      pages             = "95--106",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. J. Xu, L. Ding, L. Cai, L. Zhang, H. Luo and W. Qin, “Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle”, <i>Automation in Construction</i>, vol. 104, pp. 95–106, 2019, doi: 10.1016/j.autcon.2019.03.008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Jie Jerry, Lieyun Ding, Lixiong Cai, Lichao Zhang, Hanbin Luo, and Wenbo Qin. “Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle”. <i>Automation in Construction</i> 104 (2019): 95–106. https://doi.org/10.1016/j.autcon.2019.03.008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

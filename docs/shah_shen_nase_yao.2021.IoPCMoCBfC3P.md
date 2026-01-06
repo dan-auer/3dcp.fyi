@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qamar Shahzad, Junyi Shen, Rabia Naseem, Yonggang Yao, Saad Waqar, Wenqiang Liu
+    - footer
+title: Shahzad Qamar, Shen Junyi, Naseem Rabia, Yao Yonggang, Waqar Saad, Liu Wenqiang
 description:
 tags:
  - behavior
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2021.125121" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.125121</a>
+#Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing ([2021-10](date/2021/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.125121" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.125121" target="_blank">10.1016/j.conbuildmat.2021.125121</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad_qamar"><b>Shahzad</b>&nbsp;Qamar</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-9330-3890" title="ORCID: 0009-0008-9330-3890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shen_junyi"><b>Shen</b>&nbsp;Junyi</a></span>, <a href="../../../author/naseem_rabia"><b>Naseem</b>&nbsp;Rabia</a></span>, <a href="../../../author/yao_yonggang"><b>Yao</b>&nbsp;Yonggang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3645-4720" title="ORCID: 0000-0002-3645-4720" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waqar_saad"><b>Waqar</b>&nbsp;Saad</a></span>, <a href="../../../author/liu_wenqiang"><b>Liu</b>&nbsp;Wenqiang</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 309
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a> <a href="https://orcid.org/0009-0008-9330-3890" title="ORCID: 0009-0008-9330-3890" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/naseem_rabia"><b>Naseem</b> Rabia</a>
-,     <a href="../../../author/yao_yonggang"><b>Yao</b> Yonggang</a>
-,     <a href="../../../author/waqar_saad"><b>Waqar</b> Saad</a> <a href="https://orcid.org/0000-0002-3645-4720" title="ORCID: 0000-0002-3645-4720" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_wenqiang"><b>Liu</b> Wenqiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 309, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#change`](keyword/change)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#influence`](keyword/influence)
-    [`#material`](keyword/material)
-    [`#phase`](keyword/phase)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Phase-Change-Material%20on%20Concrete%20Behavior%20for%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117131297&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3206229735" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2021.125121" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2021.125121?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale construction 3D printing (C3DP), which is also known as green building construction is an innovative method that can save time, materials, and labor costs. The suitable printing materials should have the properties of good fluidity, excellent early strength, appropriate setting time, suitable viscosity, and cost-effectiveness. Among the main concerns of the construction 3D printing, the clogging of the material induced by premature setting and poor fluidity of the concrete is a significant one. It hinders the pumping capacity of concrete materials from the mixer to the extruder and reduces the overall efficiency of the C3DP process. The existing literature has proposed a variety of materials for C3DP, but there is still no standard information on the material selection. Therefore, it is necessary to solve the problem of material clogging while obtaining the above-mentioned characteristics suitable for printing materials. In the present study, the suitable printing properties for C3DP material were obtained to solve the clogging problem. The composition based on industrial solid waste was used to prepare this material. The use of this material in C3DP was proved to be cost-effective. Suitable setting time (33 min), good fluidity (181 mm), and excellent compressive strength (10.4 MPa and 78.2 MPa for 2 h and 28 days, respectively) were realized. These suitable properties were obtained by adding the phase change material (PCM) at different temperatures. In addition, due to the phase change characteristics, PCM has been proven to effectively solve the clogging problem of material. Furthermore, optimized material was used to print 3D structures with different shapes. We believe that this work can provide innovative ideas for the promotion of green building construction and the production of high-value products.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
@@ -99,8 +75,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a>, <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/subasi_serkan"><b>Subaşı</b> Serkan</a>, <a href="../../../author/ustaoglu_abid"><b>Ustaoğlu</b> Abid</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../genc_node_suba_usta.2025.Po3PCCMPCM/">Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material</a></li>
       <li><a href="../../../author/xiahou_xiaer"><b>Xiahou</b> Xiaer</a>, <a href="../../../author/ding_xingyuan"><b>Ding</b> Xingyuan</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiah_ding_yu_lu.2025.FWtS/">From Waste to Strength:<br/>Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/hiremath_shivashankarayya"><b>Hiremath</b> Shivashankarayya</a>, <a href="../../../author/mathapati_shrishail_gururaj"><b>Mathapati</b> Gururaj</a>, <a href="../../../author/chiniwar_s_dundesh"><b>Chiniwar</b> Dundesh</a>, <a href="../../../author/vishwanatha_m_h"><b>Vishwanatha</b> H.</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../hire_math_chin_vish.2025.PEoCCbDaESfC3P/">Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing</a></li>
@@ -119,4 +95,33 @@ tags:
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../shah_li.2023.TIoPPoEAPBCaMBo3PC/">The Influence of Print-Path on Early-Age Plastic Bearing-Capacity and Mechanical Behavior of 3D Printed Concrete:<br/>A Novel Approach for Practical Applications</a></li>
       <li><a href="../../../author/waqar_ahsan"><b>Waqar</b> Ahsan</a>, <a href="../../../author/othman_idris"><b>Othman</b> Idris</a>, <a href="../../../author/pomares_carlos_juan"><b>Pomares</b> Juan</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../waqa_othm_poma.2023.Io3PotOPSoRCPUSEM/">Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shah_shen_nase_yao.2021.IoPCMoCBfC3P,
+      author            = "Qamar Shahzad and Junyi Shen and Rabia Naseem and Yonggang Yao and Saad Waqar and Wenqiang Liu",
+      title             = "Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2021.125121",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "309",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Shahzad, J. Shen, R. Naseem, Y. Yao, S. Waqar and W. Liu, “Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing”, <i>Construction and Building Materials</i>, vol. 309, 2021, doi: 10.1016/j.conbuildmat.2021.125121.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shahzad, Qamar, Junyi Shen, Rabia Naseem, Yonggang Yao, Saad Waqar, and Wenqiang Liu. “Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing”. <i>Construction and Building Materials</i> 309 (2021). https://doi.org/10.1016/j.conbuildmat.2021.125121.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

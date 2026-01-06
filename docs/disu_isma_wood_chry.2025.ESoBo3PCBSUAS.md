@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Oluwatimilehin Disu, Sikiru Ismail, Luke Wood, Andreas Chrysanthou, Antonios Kanellopoulos
+    - footer
+title: Disu Oluwatimilehin, Ismail Sikiru, Wood Luke, Chrysanthou Andreas, Kanellopoulos Antonios
 description:
 tags:
  - aluminium
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05192" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05192</a>
+#Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate ([2025-08](date/2025/08))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05192" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05192" target="_blank">10.1016/j.cscm.2025.e05192</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-5277-6396" title="ORCID: 0009-0003-5277-6396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/disu_oluwatimilehin"><b>Disu</b>&nbsp;Oluwatimilehin</a></span>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b>&nbsp;Sikiru</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1037-3727" title="ORCID: 0000-0003-1037-3727" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wood_luke"><b>Wood</b>&nbsp;Luke</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9554-5676" title="ORCID: 0000-0001-9554-5676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9278-2035" title="ORCID: 0000-0001-9278-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanellopoulos_antonios"><b>Kanellopoulos</b>&nbsp;Antonios</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05192
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/disu_oluwatimilehin"><b>Disu</b> Oluwatimilehin</a> <a href="https://orcid.org/0009-0003-5277-6396" title="ORCID: 0009-0003-5277-6396" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a>
-,     <a href="../../../author/wood_luke"><b>Wood</b> Luke</a> <a href="https://orcid.org/0000-0003-1037-3727" title="ORCID: 0000-0003-1037-3727" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b> Andreas</a> <a href="https://orcid.org/0000-0001-9554-5676" title="ORCID: 0000-0001-9554-5676" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kanellopoulos_antonios"><b>Kanellopoulos</b> Antonios</a> <a href="https://orcid.org/0000-0001-9278-2035" title="ORCID: 0000-0001-9278-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05192
-
-:aca-blank:{ .lg .middle}
-    [`#aluminium`](keyword/aluminium)
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#experiment`](keyword/experiment)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/aluminium"><button class="btn">#aluminium</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Buildability%20of%203D-Printed%20Cement-Based%20Structures%20Using%20Aluminium%20Sulphate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015412469&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413274647" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05192" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05192?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent advancements in Additive Manufacturing (AM), specifically in 3D printing of cement-based materials, have highlighted the necessity for enhancing buildability through optimising material properties and printing parameters. This study explored the effects of printing speed, layer height and the use of aluminium sulphate (Al2(SO4)3) as an accelerator on the buildability of small-scale cement-based structures. Utilising mastercrete cement, fly ash and ground granulated blast-furnace slag (GGBS), the influence of the above variables on the structural integrity of 3D-printed layers was examined. Experimental results indicated that increasing the aluminium sulphate concentration to a 45% concentration improved buildability. This optimal concentration supported samples of 14 layers to be built, demonstrating enhanced stiffness and load-bearing capacity. The optimal printing speed of 20 mm/s achieved a balance between material deposition and setting time, facilitating the printing of 10 stable layers without accelerator. Conversely, increasing the printing speed resulted in a reduced buildability, due to poor adhesion between layers. Layer height analysis revealed that a layer height of 10 mm was most effective, ensuring proper interlayer adhesion and structural stability. These parameters significantly enhanced the buildability and collectively supported the structural integrity and feasibility of cement-based 3D printing for construction applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bhat_sant.2022.IotEoAFASBAotFPo3PC/">Investigation on the Effect of Alkali-Free Aluminium Sulfate-Based Accelerator on the Fresh Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>
@@ -113,8 +91,37 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhan_sanj.2024.QNMTf3PFC/">Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{disu_isma_wood_chry.2025.ESoBo3PCBSUAS,
+      author            = "Oluwatimilehin Disu and Sikiru O. Ismail and Luke Wood and Andreas Chrysanthou and Antonios Kanellopoulos",
+      title             = "Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate",
+      doi               = "10.1016/j.cscm.2025.e05192",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05192",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Disu, S. O. Ismail, L. Wood, A. Chrysanthou and A. Kanellopoulos, “Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate”, <i>Case Studies in Construction Materials</i>, p. e05192, 2025, doi: 10.1016/j.cscm.2025.e05192.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Disu, Oluwatimilehin, Sikiru O. Ismail, Luke Wood, Andreas Chrysanthou, and Antonios Kanellopoulos. “Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate”. <i>Case Studies in Construction Materials</i>, 2025, e05192. https://doi.org/10.1016/j.cscm.2025.e05192.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

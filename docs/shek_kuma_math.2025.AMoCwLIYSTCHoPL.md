@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shashank Shekhar, Manish Kumar, Rishabh Mathur
+    - footer
+title: Shekhar Shashank, Kumar Manish, Mathur Rishabh
 description:
 tags:
  - additive
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.113823" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113823</a>
+#Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers ([2025-10](date/2025/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113823" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113823" target="_blank">10.1016/j.jobe.2025.113823</a>
 
--------------------------
+<a href="../../../author/shekhar_shashank"><b>Shekhar</b>&nbsp;Shashank</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3518-4391" title="ORCID: 0000-0003-3518-4391" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_manish"><b>Kumar</b>&nbsp;Manish</a></span>, <a href="../../../author/mathur_rishabh"><b>Mathur</b>&nbsp;Rishabh</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113823
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shekhar_shashank"><b>Shekhar</b> Shashank</a>
-,     <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a> <a href="https://orcid.org/0000-0003-3518-4391" title="ORCID: 0000-0003-3518-4391" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mathur_rishabh"><b>Mathur</b> Rishabh</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113823
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#heat`](keyword/heat)
-    [`#layer`](keyword/layer)
-    [`#low`](keyword/low)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Concrete%20with%20Low%20Initial%20Yield%20Strength%20Through%20Controlled%20Heating%20of%20Printed%20Layers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019208521&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414826808" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113823" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113823?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing has emerged as a promising construction technology. Concrete mixtures with initial yield strength greater than 1,000 Pa are generally printed. Mixtures with lower initial yield strengths can enable better bonding among printed layers. This paper presents a method to print concrete mixtures with a low initial yield strength (e.g., 30 Pa). To improve the buildability, the printed layers were heated using an in-house automated printing and heating set-up. Process parameters, namely, stable layer thickness and duration of heating, were determined through suitable experiments. Buildability of the printed concrete was determined using three alternate methods. The results were affected by the slenderness of the specimen, and the nature of heating. The buildability rose sharply soon after 60 seconds-long heating, which can be attributed primarily to the loss of moisture and partly to an enhanced hydration of concrete. The moisture loss leads to an increase in the solid content of the mixture. Besides, it also produces a suction effect. Shear strength of hardened concrete cubes tested parallel to the printed layers was marginally affected for an optimal heating. The method developed herein can enable a sharp rise in buildability of the printed concrete while enhancing the integrity of the printed specimen. Further, it can help avoid chemical accelerators, thereby reducing the pumping pressure and the risk of choking the printing apparatus.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "37 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aghaee_kamran"><b>Aghaee</b> Kamran</a>, <a href="../../../author/li_linfei"><b>Li</b> Linfei</a>, <a href="../../../author/roshan_alireza"><b>Roshan</b> Alireza</a>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b> Parsa</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../agha_li_rosh_nama.2024.AMEiC/">Additive Manufacturing Evolution in Construction:<br/>From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a>, <a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../bent_jone_bent_pelt.2018.TtFoRaSCBf3ACbE/">Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion</a></li>
@@ -108,7 +85,36 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_pile_gure_flat.2022.ACPELaDCP/">A Chemical Process Engineering Look at Digital Concrete Processes:<br/>Critical Step Design, In-Line Mixing, and Scale-Up</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shek_kuma_math.2025.AMoCwLIYSTCHoPL,
+      author            = "Shashank Shekhar and Manish Kumar and Rishabh Mathur",
+      title             = "Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers",
+      doi               = "10.1016/j.jobe.2025.113823",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113823",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Shekhar, M. Kumar and R. Mathur, “Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers”, <i>Journal of Building Engineering</i>, p. 113823, 2025, doi: 10.1016/j.jobe.2025.113823.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shekhar, Shashank, Manish Kumar, and Rishabh Mathur. “Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers”. <i>Journal of Building Engineering</i>, 2025, 113823. https://doi.org/10.1016/j.jobe.2025.113823.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

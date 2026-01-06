@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Müller Steffen 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>
   <li><a href="../../../author/adams_julian_thomas"><b>Adams</b> Thomas</a>, <a href="../../../author/wu_han_chu"><b>Wu</b> Chu</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../adam_wu_mull_mech.2024.ABMoCS/">As-Built Monitoring of Concrete Structures</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mech_taub_mull_butl.2024.IoSRiEB3CPoMCE/">Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements</a></li>

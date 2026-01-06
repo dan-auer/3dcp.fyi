@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Weger, Heejeong Kim, Daniel Talke, Klaudius Henke, Thomas Kränkel, Christoph Gehlen
+    - footer
+title: Weger Daniel, Kim Heejeong, Talke Daniel, Henke Klaudius, Kränkel Thomas, Gehlen Christoph
 description:
 tags:
  - activation
@@ -20,38 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>:aca-blank: Investigation of Thermal Conductivity, Strength and Water-Distribution ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_17</a>
+#Lightweight Concrete 3D Printing by Selective Cement-Activation&nbsp;([2020-07](date/2020/07))
+<div class="h1-like">Investigation of Thermal Conductivity, Strength and Water-Distribution</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_17" target="_blank">10.1007/978-3-030-49916-7_17</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_heejeong"><b>Kim</b>&nbsp;Heejeong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/talke_daniel"><b>Talke</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6589-6053" title="ORCID: 0000-0001-6589-6053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/henke_klaudius"><b>Henke</b>&nbsp;Klaudius</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krankel_thomas"><b>Kränkel</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 162-171
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> <a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a> <a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> <a href="https://orcid.org/0000-0001-6589-6053" title="ORCID: 0000-0001-6589-6053" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> <a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 162-171
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#conductivity`](keyword/conductivity)
-    [`#distribution`](keyword/distribution)
-    [`#investigation`](keyword/investigation)
-    [`#light`](keyword/light)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-    [`#strength`](keyword/strength)
-    [`#temperature`](keyword/temperature)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conductivity"><button class="btn">#conductivity</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Lightweight%20Concrete%203D%20Printing%20by%20Selective%20Cement-Activation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088277195&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,29 +43,23 @@ tags:
 <a href="https://inciteful.xyz/p/W3042005265" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_17" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_17?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The 3D printing technology Selective Cement Activation (SCA) is a particle-bed-based additive manufacturing method in which a dry mixture of sand and cement is spread in thin layers and solidified with water. SCA allows the production of complex and high-resolution components without the necessity for additional support structures. One drawback of concrete 3D-printing for free formed facade elements has been the need for additional thermal insulation to fulfil relevant building requirements. This causes an additional economic and ecological effort to create custom-built insulation to fit the 3D facade. Therefore, this paper discusses the fabrication of lightweight concrete through SCA by replacing the sand (S) with lightweight aggregates (LA, expanded glass beads) in order to decrease the thermal conductivity. However, the open pore structure of the lightweight aggregate could also change the water distribution behavior between the layers which would positively affect the hydration process. Test series with different w/c-ratios (0.3, 0.4 and 0.5) and type of aggregate (S and LA) were produced. Additionally, the test series with LA were fabricated without and with methylcellulose to further increase water absorption. The strength (compressive and flexural) and thermal conductivity were measured direction dependent to take anisotropic effects into account. Additionally, the water distribution perpendicular to the layers was determined using1H-NMR. Specimens produced with LA showed a 3.5 to 4.4 times lower thermal conductivity compared to the specimens produced with S. However, using LA affected the density and thus the strength values of the material. Additionally, the open pore structure of the LA affected the water distribution between the layers which lead to an increase in strength with decreasing w/c-ratio. This is contrary to previous experiments using SCA and sand where strength has improved with increasing w/c-ratio [1–3].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../henk_talk_matt.2020.AMbEoLC/">Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>Strand Geometry, Nozzle Design and Layer Layout</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
-      <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/back_daniel"><b>Back</b> Daniel</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../matt_back_wege_kran.2020.EoCTaLPCoEoLC/">Effect of Cement-Type and Limestone-Powder-Content on Extrudability of Lightweight Concrete</a></li>
       <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/carvalho_santos_luis"><b>Carvalho</b> Luis</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../matt_wege_kran_carv.2019.EoLC/">Extrusion of Lightweight Concrete:<br/>Rheological Investigations</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "32 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bajw_sama_flem_bao.2025.ASLRotTBoBECT3CP3/">A Systematic Literature Review on the Thermal Behaviour of Building Elements Constructed Through 3D Concrete Printing (3DCP)</a></li>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>Bakri Abdullah</b> Mohd</a>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tany_selo_bakr_raza.2025.TRaMPo3PG/">The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>A Review</a></li>
@@ -121,7 +92,36 @@ tags:
       <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/jaugstetter_fabian"><b>Jaugstetter</b> Fabian</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../diel_brie_jaug_henk.2021.AMoTELCWEwCCS/">Additive Manufacturing of Thermally Enhanced Lightweight Concrete Wall Elements with Closed Cellular Structures</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_gehl.2021.PBBbSPI/">Particle-Bed Binding by Selective Paste-Intrusion:<br/>Strength and Durability of Printed Fine-Grain Concrete Members</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
-      <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../henk_talk_matt.2020.AMbEoLC/">Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>Strand Geometry, Nozzle Design and Layer Layout</a></li>
-      <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wege_kim_talk_henk.2020.LC3PbSCA,
+      author            = "Daniel Weger and Heejeong Kim and Daniel Talke and Klaudius Henke and Thomas Kränkel and Christoph Gehlen",
+      title             = "Lightweight Concrete 3D Printing by Selective Cement-Activation: Investigation of Thermal Conductivity, Strength and Water-Distribution",
+      doi               = "10.1007/978-3-030-49916-7_17",
+      year              = "2020",
+      volume            = "28",
+      pages             = "162--171",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Weger, H. Kim, D. Talke, K. Henke, T. Kränkel and C. Gehlen, “Lightweight Concrete 3D Printing by Selective Cement-Activation: Investigation of Thermal Conductivity, Strength and Water-Distribution”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 162–171. doi: 10.1007/978-3-030-49916-7_17.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weger, Daniel, Heejeong Kim, Daniel Talke, Klaudius Henke, Thomas Kränkel, and Christoph Gehlen. “Lightweight Concrete 3D Printing by Selective Cement-Activation: Investigation of Thermal Conductivity, Strength and Water-Distribution”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:162–71, 2020. https://doi.org/10.1007/978-3-030-49916-7_17.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

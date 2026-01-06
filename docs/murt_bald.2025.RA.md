@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ghulam Murtaza, Giorgio Baldinelli
+    - footer
+title: Murtaza Ghulam, Baldinelli Giorgio
 description:
 tags:
  - architecture
@@ -18,32 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Revolutionizing Architecture:<br/>:aca-blank: 3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1002/appl.70033" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/appl.70033</a>
+#Revolutionizing Architecture&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/appl.70033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/appl.70033" target="_blank">10.1002/appl.70033</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0000-1880-1621" title="ORCID: 0009-0000-1880-1621" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/murtaza_ghulam"><b>Murtaza</b>&nbsp;Ghulam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4851-9269" title="ORCID: 0000-0003-4851-9269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b>&nbsp;Giorgio</a></span><br>
+Journal Article - Applied Research, Vol. 4, Iss. 4
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a> <a href="https://orcid.org/0009-0000-1880-1621" title="ORCID: 0009-0000-1880-1621" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="https://orcid.org/0000-0003-4851-9269" title="ORCID: 0000-0003-4851-9269" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Research, Vol. 4, Iss. 4, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#construction`](keyword/construction)
-    [`#enhancement`](keyword/enhancement)
-    [`#industry`](keyword/industry)
-    [`#innovation`](keyword/innovation)
-    [`#large`](keyword/large)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#revolution`](keyword/revolution)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/revolution"><button class="btn">#revolution</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Revolutionizing%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013850264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413490908" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/appl.70033" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/appl.70033?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Traditional architectural methods are changing because of the widespread use of 3D printing technology in large-scale construction, offering new avenues for efficiency, sustainability, and innovative design. This review explores the latest advancements and strategic developments that are shaping this field. It features real-world examples of large-scale 3D-printed structures, highlighting the advantages such as cost efficiency, faster project delivery, and reduced material wastage. The review explores cutting-edge 3D printing systems designed for building and analyzes their strengths and weaknesses. Commonly used 3D printing methods, including contour crafting, concrete printing, and D-shape technology, are examined with a comparison of their performance, material adaptability, and scalability. The role of advanced numerical modeling techniques, such as computational fluid dynamics (CFD) and finite element method (FEM) simulations, is emphasized for optimizing process parameters, predicting material behavior and potential defects ensuring the structural integrity of 3D-printed structures. Additionally, the incorporation of machine learning (ML) techniques in 3D construction printing is also discussed. This exhibits how predictive algorithms and real-time monitoring enhance process efficiency, and adaptability by exhibiting their role in 3D design, process optimization, material properties detection and quality inspection of printed materials. Through the synthesis of current knowledge and identifying opportunities for further research, this paper aims to inspire the widespread application of 3D printing in the construction sector and pave the way for its continued evolution.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "97 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/almomani_a_mohammed"><b>Almomani</b> Mohammed</a>, <a href="../../../author/ababneh_nedal"><b>Ababneh</b> Nedal</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/shbeeb_i_nadim"><b>Shbeeb</b> Nadim</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../almo_abab_abda_shbe.2023.StB3CPTfRCsSCUAHP/">Selecting the Best 3D Concrete Printing Technology for Refugee Camp’s Shelter Construction Using Analytical Hierarchy Process:<br/>The Case of Syrian Refugees in Jordan</a></li>
@@ -167,8 +146,38 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{murt_bald.2025.RA,
+      author            = "Ghulam Murtaza and Giorgio Baldinelli",
+      title             = "Revolutionizing Architecture: 3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance",
+      doi               = "10.1002/appl.70033",
+      year              = "2025",
+      journal           = "Applied Research",
+      volume            = "4",
+      number            = "4",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Murtaza  and G. Baldinelli, “Revolutionizing Architecture: 3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance”, <i>Applied Research</i>, vol. 4, no. 4, 2025, doi: 10.1002/appl.70033.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Murtaza, Ghulam, and Giorgio Baldinelli. “Revolutionizing Architecture: 3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance”. <i>Applied Research</i> 4, no. 4 (2025). https://doi.org/10.1002/appl.70033.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

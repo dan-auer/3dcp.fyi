@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Maria Moraes, Ester Nagata, Afonso Duran, João Rossignolo
+    - footer
+title: Moraes Maria, Nagata Ester, Duran Afonso, Rossignolo João
 description:
 tags:
  - activation
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://www.cell.com/article/S2405844024027270/pdf) Alkali-Activated Materials Applied in 3D Printing Construction:<br/>:aca-blank: A Review ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.heliyon.2024.e26696" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.heliyon.2024.e26696</a>
+#Alkali-Activated Materials Applied in 3D Printing Construction&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://www.cell.com/article/S2405844024027270/pdf) <a href="https://doi.org/10.1016/j.heliyon.2024.e26696" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2024.e26696" target="_blank">10.1016/j.heliyon.2024.e26696</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7554-1755" title="ORCID: 0000-0002-7554-1755" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moraes_julia-bassan_maria"><b>de&nbsp;Moraes</b>&nbsp;Maria</a></span>, <a href="../../../author/nagata_yukimi_ester"><b>Nagata</b>&nbsp;Ester</a></span>, <a href="../../../author/duran_jose-felicio-peres_afonso"><b>Duran</b>&nbsp;Afonso</a></span>, <a href="../../../author/rossignolo_adriano_joao"><b>Rossignolo</b>&nbsp;João</a></span><br>
+Journal Article - Heliyon, Vol. 10, Iss. 5, No. e26696
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moraes_julia-bassan_maria"><b>de Moraes</b> Maria</a> <a href="https://orcid.org/0000-0002-7554-1755" title="ORCID: 0000-0002-7554-1755" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nagata_yukimi_ester"><b>Nagata</b> Ester</a>
-,     <a href="../../../author/duran_jose-felicio-peres_afonso"><b>Duran</b> Afonso</a>
-,     <a href="../../../author/rossignolo_adriano_joao"><b>Rossignolo</b> João</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Heliyon, Vol. 10, Iss. 5, No. e26696
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#alkali`](keyword/alkali)
-    [`#application`](keyword/application)
-    [`#construction`](keyword/construction)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Alkali-Activated%20Materials%20Applied%20in%203D%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186482109&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392059483" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.heliyon.2024.e26696" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.heliyon.2024.e26696?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to contribute to the promising field of alkali-activated materials (AAM) used in 3D printing for construction. Presented as a comprehensive review, the research provides valuable insights for researchers within and beyond the field. The study focuses on identifying prevalent research trends and accessing pertinent information on materials, methodologies, and parameters of interest. The study commenced with a bibliometric analysis of 55 carefully selected publications, followed by an in-depth review of these articles categorized into extrusion-based and powder-based systems. Emphasis was placed on the materials used, methodologies employed, and key findings from these studies. The bibliometric analysis unveiled prevalent keywords, their relevance in the field, highly cited articles, and collaborative networks among researchers. The most influential countries in terms of publications are Australia, China, and Singapore. The review highlighted commonly used materials and their potential impacts on largescale applications of AAM, exploring how various precursors, activators, additives, aggregates, and reinforcements shape the properties of printed AAM, featuring innovative approaches with alternative materials. The methodologies employed in these studies and trends in characterization were outlined, due to the absence of standardized tests for materials in 3D printing applications. The study emphasized how material properties vary concerning production processes, printing parameters, curing methods, and post-treatment, outlining advancements in material characterization necessary for achieving a printable mix design. Through the analysis of these 55 articles, key scientific challenges and hurdles in large-scale applications were identified, suggesting potential focal points for further studies. In summary, AAMs exhibit substantial uniqueness and complexity due to their diverse material composition, resulting in varying properties in both fresh and hardened states. However, this diversity also signifies the adaptability of AAMs to diverse equipment, construction techniques, and desired specifications, showcasing their potential to revolutionize traditional construction by integrating technology and sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "51 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
@@ -92,7 +72,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ma_li_wang_bai.2019.MCRGCfEB3P/">Micro-Cable-Reinforced Geopolymer Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/mir_namra"><b>Mir</b> Namra</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../mir_khan_kul_sahi.2022.LCAoCaDWBGSfUi3AM/">Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
-      <li><a href="../../../author/moraes_julia-bassan_maria"><b>Moraes</b> Maria</a>, <a href="../../../author/nagata_yukimi_ester"><b>Nagata</b> Ester</a>, <a href="../../../author/duran_jose-felicio-peres_afonso"><b>Duran</b> Afonso</a>, <a href="../../../author/rossignolo_adriano_joao"><b>Rossignolo</b> João</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../mora_naga_dura_ross.2024.AAMAi3PC/">Alkali-Activated Materials Applied in 3D Printing Construction:<br/>A Review</a></li>
       <li><a href="../../../author/munir_qaisar"><b>Munir</b> Qaisar</a>, <a href="../../../author/peltonen_riku"><b>Peltonen</b> Riku</a>, <a href="../../../author/karki_timo"><b>Kärki</b> Timo</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../muni_pelt_kark.2021.PPRf3PGMPfISS/">Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../muth_rama_sanj.2020.EoMHoILBaBoG3CP/">Effect of Microwave-Heating on Inter-Layer Bonding and Buildability of Geopolymer 3D Concrete Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../muth_rama_sanj.2022.SoDGUPHMf3CP/">Set-on-Demand Geopolymer Using Print-Head Mixing for 3D Concrete Printing</a></li>
@@ -118,14 +97,45 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vale_samb_chou_ghaf.2023.CAAMwWTRDfAM/">Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing:<br/>An Eco-Sustainable and Energy Saving Approach</a></li>
       <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../vone_odag_brum_dill.2021.FCt3PG/">From Casting to 3D Printing Geopolymers:<br/>A Proof of Concept</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/rahier_hubert"><b>Rahier</b> Hubert</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_chei_rahi.2025.MftDaOoPSASUatBo3PM/">Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
       <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC/">A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete</a></li>
       <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/abilgaziyev_anuar"><b>Abilgaziyev</b> Anuar</a>, <a href="../../../author/temirzakuly_bakbergen"><b>Temirzakuly</b> Bakbergen</a>, <a href="../../../author/kurokawa_syuhei"><b>Kurokawa</b> Syuhei</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../ali_abil_temi_kuro.2024.DoaN3CPfCBoNGMaIC/">Development of a Novel 3D Construction Printer for Consistent Buildability of Novel Geopolymer Mortar and Its Challenges</a></li>
       <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/gomzyakov_albert"><b>Gomzyakov</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kond_gomz_lieb_mech.2024.3PbSAoGBB/">3D Printing by Selective Activation of Geopolymer-Based Binders</a></li>
-      <li><a href="../../../author/moraes_julia-bassan_maria"><b>Moraes</b> Maria</a>, <a href="../../../author/nagata_yukimi_ester"><b>Nagata</b> Ester</a>, <a href="../../../author/duran_jose-felicio-peres_afonso"><b>Duran</b> Afonso</a>, <a href="../../../author/rossignolo_adriano_joao"><b>Rossignolo</b> João</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../mora_naga_dura_ross.2024.AAMAi3PC/">Alkali-Activated Materials Applied in 3D Printing Construction:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mora_naga_dura_ross.2024.AAMAi3PC,
+      author            = "Maria Júlia Bassan de Moraes and Ester Yukimi Nagata and Afonso José Felício Peres Duran and João Adriano Rossignolo",
+      title             = "Alkali-Activated Materials Applied in 3D Printing Construction: A Review",
+      doi               = "10.1016/j.heliyon.2024.e26696",
+      year              = "2024",
+      journal           = "Heliyon",
+      volume            = "10",
+      number            = "5",
+      pages             = "e26696",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. J. B. de Moraes, E. Y. Nagata, A. J. F. P. Duran and J. A. Rossignolo, “Alkali-Activated Materials Applied in 3D Printing Construction: A Review”, <i>Heliyon</i>, vol. 10, no. 5, p. e26696, 2024, doi: 10.1016/j.heliyon.2024.e26696.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moraes, Maria Júlia Bassan de, Ester Yukimi Nagata, Afonso José Felício Peres Duran, and João Adriano Rossignolo. “Alkali-Activated Materials Applied in 3D Printing Construction: A Review”. <i>Heliyon</i> 10, no. 5 (2024): e26696. https://doi.org/10.1016/j.heliyon.2024.e26696.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

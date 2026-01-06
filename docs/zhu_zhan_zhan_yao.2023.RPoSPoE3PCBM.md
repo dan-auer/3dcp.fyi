@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lingli Zhu, Meng Zhang, Yaqi Zhang, Jie Yao, Guang Yang, Xuemao Guan, Yu Zhao
+    - footer
+title: Zhu Lingli, Zhang Meng, Zhang Yaqi, Yao Jie, Yang Guang, Guan Xuemao, Zhao Yu
 description:
 tags:
  - base
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials ([2023-07](date/2023/07))
-<a href="https://doi.org/10.1016/j.jobe.2023.107394" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107394</a>
+#Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials ([2023-07](date/2023/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107394" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107394" target="_blank">10.1016/j.jobe.2023.107394</a>
 
--------------------------
+<a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <a href="../../../author/zhang_meng"><b>Zhang</b>&nbsp;Meng</a></span>, <a href="../../../author/zhang_yaqi"><b>Zhang</b>&nbsp;Yaqi</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-6814-3941" title="ORCID: 0009-0009-6814-3941" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_jie"><b>Yao</b>&nbsp;Jie</a></span>, <a href="../../../author/yang_guang"><b>Yang</b>&nbsp;Guang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guan_xuemao"><b>Guan</b>&nbsp;Xuemao</a></span>, <a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span><br>
+Journal Article - Journal of Building Engineering, No. 107394
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>
-,     <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>
-,     <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>
-,     <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> <a href="https://orcid.org/0009-0009-6814-3941" title="ORCID: 0009-0009-6814-3941" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>
-,     <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 107394
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#extrusion`](keyword/extrusion)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#property`](keyword/property)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20Progress%20on%20Shrinkage%20Properties%20of%20Extruded%203D%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166934590&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385283565" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107394" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107394?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extruded 3D printing is currently a widely used 3D concrete printing technology, which not only accurately prints prefabricated components but also reduces the generation of construction waste. Aiming at the high shrinkage deformation and cracking issues during the solidification and hardening process of 3D printed cement-based materials. This article compares the shrinkage performance and influencing factors of traditional pouring cement-based materials, and summarizes the internal pore structure and hydration structure of cement-based materials under 3D printing conditions from the aspects of printing process, material characteristics, and curing system, and elaborates on their shrinkage characteristics. To provide reference for revealing the influence mechanism of 3D printed layered structure on the shrinkage performance evolution of cement-based materials, and to seek theoretical basis and methodological measures to compensate for or avoid volume changes in 3D printed cement-based materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
@@ -119,8 +94,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>
       <li><a href="../../../author/els_heinrich"><b>Els</b> Heinrich</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../els_zijl_vill.2025.ARoSaRSCi3CP/">A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing</a></li>
@@ -134,4 +110,33 @@ tags:
       <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pal_chou_kapo.2024.IoVPPoMBoACC/">Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete</a></li>
       <li><a href="../../../author/dong_wei"><b>Dong</b> Wei</a>, <a href="../../../author/wang_junfeng"><b>Wang</b> Junfeng</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/qu_shuqiang"><b>Qu</b> Shuqiang</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dong_wang_hang_qu.2024.RoPPaSFRo3PCwFSaAS/">Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM,
+      author            = "Lingli Zhu and Meng Zhang and Yaqi Zhang and Jie Yao and Guang Yang and Xuemao Guan and Yu Zhao",
+      title             = "Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials",
+      doi               = "10.1016/j.jobe.2023.107394",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "107394",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Zhu, “Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials”, <i>Journal of Building Engineering</i>, p. 107394, 2023, doi: 10.1016/j.jobe.2023.107394.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Lingli, Meng Zhang, Yaqi Zhang, Jie Yao, Guang Yang, Xuemao Guan, and Yu Zhao. “Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials”. <i>Journal of Building Engineering</i>, 2023, 107394. https://doi.org/10.1016/j.jobe.2023.107394.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

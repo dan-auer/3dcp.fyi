@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kuzmenko Kateryna 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kuzm_roux_fera.2025.EIo3CP/">Environmental Impact of 3D Concrete Printing</a></li>
   <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../roux_kuzm_rous_mesn.2022.LCAoaC3PP/">Life Cycle Assessment of a Concrete 3D Printing Process</a></li>
   <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../kuzm_duco_fera_rous.2022.EIoEBAM/">Environmental Impact of Extrusion-Based Additive Manufacturing:<br/>Generic Model, Power-Measurements and Influence of Printing-Resolution</a></li>

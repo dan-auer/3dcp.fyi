@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wei Chen, Jinlong Pan, Binrong Zhu, XiaoMeng Ma, Yamei Zhang, Yuning Chen, Xuesen Li, Lingqi Meng, Jingming Cai
+    - footer
+title: Chen Wei, Pan Jinlong, Zhu Binrong, Ma XiaoMeng, Zhang Yamei, Chen Yuning, Li Xuesen, Meng Lingqi, Cai Jingming
 description:
 tags:
  - concrete
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Improving Mechanical Properties of 3D Printable One-Part Geopolymer Concrete with Steel-Fiber-Reinforcement ([2023-06](date/2023/06))
-<a href="https://doi.org/10.1016/j.jobe.2023.107077" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107077</a>
+#Improving Mechanical Properties of 3D Printable One-Part Geopolymer Concrete with Steel-Fiber-Reinforcement ([2023-06](date/2023/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107077" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107077" target="_blank">10.1016/j.jobe.2023.107077</a>
 
--------------------------
+<a href="../../../author/chen_wei"><b>Chen</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <a href="../../../author/ma_xiaomeng"><b>Ma</b>&nbsp;XiaoMeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yuning"><b>Chen</b>&nbsp;Yuning</a></span>, <a href="../../../author/li_xuesen"><b>Li</b>&nbsp;Xuesen</a></span>, <a href="../../../author/meng_lingqi"><b>Meng</b>&nbsp;Lingqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_jingming"><b>Cai</b>&nbsp;Jingming</a></span><br>
+Journal Article - Journal of Building Engineering, No. 107077
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> <a href="https://orcid.org/0009-0005-8572-2911" title="ORCID: 0009-0005-8572-2911" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>
-,     <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a>
-,     <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 107077
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#improvement`](keyword/improvement)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20Mechanical%20Properties%20of%203D%20Printable%20One-Part%20Geopolymer%20Concrete%20with%20Steel-Fiber-Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162129110&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4380148557" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107077" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107077?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper aims to improve the tensile strength, tensile ductility, and bending toughness of a recently developed ‘one-part’ geopolymer for 3D concrete printing (3DCP) applications, in order to address the insufficient tensile strength and brittle fracture characteristics of geopolymer materials in 3D printing scenarios where materials are subjected to tensile stress. The effects of steel fiber content, and aspect ratio, on mechanical properties, were systematically discussed, including compressive strength, flexure strength, splitting tensile strength, uniaxial tensile strength, bending toughness, and the anisotropy of 3D printing ‘one-part'geopolymer fiber reinforcement concrete(3DP-OPGFRC), respectively. The fiber distribution in the printed samples was obtained through x-ray computed tomography (X-CT) testing. In addition, the underlying mechanisms were discussed to provide a deep understanding of the role steel fiber played in the reinforcement. The experimental results showed that the flexural strength increased by 282% to 26.1 MP, and the compressive strength also reached 104.5Mpa. A high tensile ductility, appreciable bending toughness, and strain-hardening behavior can be achieved with steel fiber incorporation. In addition, it has an advantage over the OPC-based steel fiber-reinforced 3D printing materials given in the existing literature (flexural strength 15 Mpa); It is also superior to the tensile strength (<6Mpa) of current geopolymer fiber reinforcements used for 3D printing. It is expected that the development of this 3D printable, steel fiber-reinforced one-part geopolymer material will meet the requirement for high tensile strength in 3D printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -104,8 +76,9 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_chen_lan_yang.2025.QEfFPo3PUHPCLiDD/">Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions</a></li>
@@ -128,4 +101,33 @@ tags:
       <li><a href="../../../author/zhou_yi"><b>Zhou</b> Yi</a>, <a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/alotaibi_saad_badr"><b>Alotaibi</b> Badr</a>, <a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhou_alth_alot_gami.2023.AOoRAiFR3PC/">An Overview of Recent Advancements in Fiber-Reinforced 3D Printing Concrete</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_pan_zhu_ma.2023.IMPo3POPGCwSFR,
+      author            = "Wei Chen and Jinlong Pan and Binrong Zhu and XiaoMeng Ma and Yamei Zhang and Yuning Chen and Xuesen Li and Lingqi Meng and Jingming Cai",
+      title             = "Improving Mechanical Properties of 3D Printable One-Part Geopolymer Concrete with Steel-Fiber-Reinforcement",
+      doi               = "10.1016/j.jobe.2023.107077",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+      pages             = "107077",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Chen, “Improving Mechanical Properties of 3D Printable One-Part Geopolymer Concrete with Steel-Fiber-Reinforcement”, <i>Journal of Building Engineering</i>, p. 107077, 2023, doi: 10.1016/j.jobe.2023.107077.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Wei, Jinlong Pan, Binrong Zhu, XiaoMeng Ma, Yamei Zhang, Yuning Chen, Xuesen Li, Lingqi Meng, and Jingming Cai. “Improving Mechanical Properties of 3D Printable One-Part Geopolymer Concrete with Steel-Fiber-Reinforcement”. <i>Journal of Building Engineering</i>, 2023, 107077. https://doi.org/10.1016/j.jobe.2023.107077.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

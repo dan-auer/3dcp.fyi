@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: C. Sahana, Prabhath Soda, Ashutosh Dwivedi, Sandeep Kumar, Abhishek Kumar, Aakanksha Pundir, Anjaneya Dixit, Souradeep Gupta
+    - footer
+title: Sahana C., Soda Prabhath, Dwivedi Ashutosh, Kumar Sandeep, Kumar Abhishek, Pundir Aakanksha, Dixit Anjaneya, Gupta Souradeep
 description:
 tags:
  - carbon
@@ -18,38 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing with Stabilized Earth:<br/>:aca-blank: Material-Development and Effect of Carbon-Sequestration on Engineering-Performance ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105653" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105653</a>
+#3D Printing with Stabilized Earth&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">Material-Development and Effect of Carbon-Sequestration on Engineering-Performance</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105653" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105653" target="_blank">10.1016/j.cemconcomp.2024.105653</a>
 
--------------------------
+<a href="../../../author/sahana_m_c"><b>Sahana</b>&nbsp;C.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0060-6849" title="ORCID: 0000-0003-0060-6849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b>&nbsp;Prabhath</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b>&nbsp;Ashutosh</a></span>, <a href="../../../author/kumar_sandeep"><b>Kumar</b>&nbsp;Sandeep</a></span>, <a href="../../../author/kumar_abhishek"><b>Kumar</b>&nbsp;Abhishek</a></span>, <a href="../../../author/pundir_aakanksha"><b>Pundir</b>&nbsp;Aakanksha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3045-0761" title="ORCID: 0000-0002-3045-0761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dixit_anjaneya"><b>Dixit</b>&nbsp;Anjaneya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_souradeep"><b>Gupta</b>&nbsp;Souradeep</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 152, No. 105653
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>
-,     <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a> <a href="https://orcid.org/0000-0003-0060-6849" title="ORCID: 0000-0003-0060-6849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> <a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a>
-,     <a href="../../../author/kumar_abhishek"><b>Kumar</b> Abhishek</a>
-,     <a href="../../../author/pundir_aakanksha"><b>Pundir</b> Aakanksha</a>
-,     <a href="../../../author/dixit_anjaneya"><b>Dixit</b> Anjaneya</a> <a href="https://orcid.org/0000-0002-3045-0761" title="ORCID: 0000-0002-3045-0761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 152, No. 105653
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#development`](keyword/development)
-    [`#earth`](keyword/earth)
-    [`#effect`](keyword/effect)
-    [`#engineered`](keyword/engineered)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#sequestration`](keyword/sequestration)
-    [`#stability`](keyword/stability)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sequestration"><button class="btn">#sequestration</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20Stabilized%20Earth" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198028150&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400496190" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105653" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105653?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research examines the feasibility of using excavated soil (clay content of 44 %) as 25 % and 50 % replacement of natural sand in 3D printable formulations. A combination of ordinary Portland cement (OPC) and fly ash (FA) are used as binders for stabilization. The development of engineering properties subject to two curing conditions – normal curing and CO2 curing (5 % concentration for 5 h) are investigated. Experimental findings suggest that a combination of FA and clay (mainly kaolinite) in the used soil reduces plastic viscosity and improves flow retention, thus enhancing the extrusion quality and stability. The flocculation of clay at rest accelerates the evolution of static yield stress after extrusion, imparting 18–30 % better thixotropy. As a result, OPC-FA-soil mixes could be stacked to a height of 1.20 m compared to 0.48–0.54 m for OPC-sand and OPC-FA-sand mixes. Carbon sequestration via CO2 curing leads to an increase in wet compressive strength of OPC-25 % soil and OPC-FA-25 % soil by 29–38 % and 26–47 % respectively at 1-day age, which is ascribed to the densification effect of mineral carbonates. This is also reflected in the reduction in water sorptivity through the inter-layer zones and total shrinkage by 20 % and 16 % respectively. Due to reduced shrinkage and capillary sorption, inter-layer bond strengths in CO2-cured OPC-25 % soil are also improved by 20–50 % than the normally cured counterpart. In summary, the research demonstrates a feasible pathway to develop carbon-sequestering earth-based materials (CO2 uptake of 9–11 wt% of OPC) for additive manufacturing of masonry building and infrastructural members.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bhat_jain_sant.2023.D3PaBLCCBCCwHAC/">Developing 3D Printable and Buildable Limestone-Calcined-Clay-Based Cement Composites with Higher Aggregate Content</a></li>
@@ -106,10 +79,40 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
       <li><a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a>, <a href="../../../author/kumar_abhishek"><b>Kumar</b> Abhishek</a>, <a href="../../../author/pundir_aakanksha"><b>Pundir</b> Aakanksha</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kuma_kuma_pund_dwiv.2025.LCSaFAi3PC/">Low-Clay Soil as Fine Aggregate in 3D Printed Concrete:<br/>Insights into Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../saho_gupt.2025.3PwGSEE/">3D Printing with Geopolymer-Stabilized Excavated Earth:<br/>Enhancement of Printability and Engineering-Performance Through Controlled Retardation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{saha_soda_dwiv_kuma.2024.3PwSE,
+      author            = "C. M. Sahana and Prabhath Ranjan Kumar Soda and Ashutosh Dwivedi and Sandeep Kumar and Abhishek Kumar and Aakanksha Pundir and Anjaneya Dixit and Souradeep Gupta",
+      title             = "3D Printing with Stabilized Earth: Material-Development and Effect of Carbon-Sequestration on Engineering-Performance",
+      doi               = "10.1016/j.cemconcomp.2024.105653",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      volume            = "152",
+      pages             = "105653",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. M. Sahana, “3D Printing with Stabilized Earth: Material-Development and Effect of Carbon-Sequestration on Engineering-Performance”, <i>Cement and Concrete Composites</i>, vol. 152, p. 105653, 2024, doi: 10.1016/j.cemconcomp.2024.105653.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sahana, C. M., Prabhath Ranjan Kumar Soda, Ashutosh Dwivedi, Sandeep Kumar, Abhishek Kumar, Aakanksha Pundir, Anjaneya Dixit, and Souradeep Gupta. “3D Printing with Stabilized Earth: Material-Development and Effect of Carbon-Sequestration on Engineering-Performance”. <i>Cement and Concrete Composites</i> 152 (2024): 105653. https://doi.org/10.1016/j.cemconcomp.2024.105653.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

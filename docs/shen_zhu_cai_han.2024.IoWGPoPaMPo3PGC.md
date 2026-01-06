@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhaoliang Sheng, Binrong Zhu, Jingming Cai, Jinsheng Han, Yamei Zhang, Jinlong Pan
+    - footer
+title: Sheng Zhaoliang, Zhu Binrong, Cai Jingming, Han Jinsheng, Zhang Yamei, Pan Jinlong
 description:
 tags:
  - concrete
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100541) Influence of Waste-Glass-Powder on Printability and Mechanical Properties of 3D Printing Geopolymer Concrete ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.dibe.2024.100541" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100541</a>
+#Influence of Waste-Glass-Powder on Printability and Mechanical Properties of 3D Printing Geopolymer Concrete ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100541) <a href="https://doi.org/10.1016/j.dibe.2024.100541" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100541" target="_blank">10.1016/j.dibe.2024.100541</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6181-8186" title="ORCID: 0000-0002-6181-8186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sheng_zhaoliang"><b>Sheng</b>&nbsp;Zhaoliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_jingming"><b>Cai</b>&nbsp;Jingming</a></span>, <a href="../../../author/han_jinsheng"><b>Han</b>&nbsp;Jinsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yamei"><b>Zhang</b>&nbsp;Yamei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100541
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a> <a href="https://orcid.org/0000-0002-6181-8186" title="ORCID: 0000-0002-6181-8186" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a>
-,     <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="https://orcid.org/0000-0003-1864-2258" title="ORCID: 0000-0003-1864-2258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100541
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#glass`](keyword/glass)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Waste-Glass-Powder%20on%20Printability%20and%20Mechanical%20Properties%20of%203D%20Printing%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204075605&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402451696" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100541" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100541?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Geopolymers represent a promising solution for reducing carbon emissions in 3D printing concrete (3DPC). This study explores the utilization of waste glass powder (WGP) as a novel precursor material to evaluate its influence on the printability and hardened mechanical properties of 3D printing geopolymer concrete based on slag and fly ash. Experimental results indicate that WGP content below 10% accelerates hydration and enhances buildability, whereas content exceeding 10% slows hydration but improves extrudability. Mechanical tests on cured specimens demonstrate a notable increase in compressive and flexural strength with increasing WGP content from 0% to 20%. Microstructural and chemical analyses of the 20% WGP variant reveal a denser morphology and an optimized Si/Al ratio.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../he_chow_li.2020.EoILNaSSoILSo3PCP/">Effects of Inter-Layer Notch and Shear Stress on Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
@@ -93,12 +67,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_yan_sun_tang.2025.EoWGPoPHaMo3PC/">Effects of Waste Glass Powder on Printability, Hydration and Microstructure of 3D Printing Concrete</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/manalo_c_allan"><b>Manalo</b> Allan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P/">Rheological, Mechanical and Fire Resistance Performance of Waste Glass Activated Geopolymers for Concrete 3D Printing</a></li>
       <li><a href="../../../author/balina_karina"><b>Balina</b> Karina</a>, <a href="../../../author/gailitis_rihards"><b>Gailitis</b> Rihards</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/argalis_pavils_pauls"><b>Argalis</b> Pauls</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bali_gail_sink_arga.2025.PLf3PFGCUCWaA/">Prospective LCA for 3D-Printed Foamed Geopolymer Composites Using Construction Waste as Additives</a></li>
       <li><a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_xu_laci.2025.FBo3PGCCWC/">Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shen_zhu_cai_han.2024.IoWGPoPaMPo3PGC,
+      author            = "Zhaoliang Sheng and Binrong Zhu and Jingming Cai and Jinsheng Han and Yamei Zhang and Jinlong Pan",
+      title             = "Influence of Waste-Glass-Powder on Printability and Mechanical Properties of 3D Printing Geopolymer Concrete",
+      doi               = "10.1016/j.dibe.2024.100541",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      pages             = "100541",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Sheng, B. Zhu, J. Cai, J. Han, Y. Zhang and J. Pan, “Influence of Waste-Glass-Powder on Printability and Mechanical Properties of 3D Printing Geopolymer Concrete”, <i>Developments in the Built Environment</i>, p. 100541, 2024, doi: 10.1016/j.dibe.2024.100541.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sheng, Zhaoliang, Binrong Zhu, Jingming Cai, Jinsheng Han, Yamei Zhang, and Jinlong Pan. “Influence of Waste-Glass-Powder on Printability and Mechanical Properties of 3D Printing Geopolymer Concrete”. <i>Developments in the Built Environment</i>, 2024, 100541. https://doi.org/10.1016/j.dibe.2024.100541.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

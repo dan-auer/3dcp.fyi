@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,6 +9,6 @@ search:
 
 #  Bohan Richard 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bohan_p_richard"><b>Bohan</b> Richard</a> <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../boha.2016.AMUC/">Adding Manufacturing Using Concrete:<br/>A Bridge Too Far?</a></li>
 </ol>

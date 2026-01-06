@@ -8,7 +8,7 @@ search:
 
 # #adjustment
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a></li>
   <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bono_duco_mesn_caro.2024.TLCFCMf3P/">Tailored Low-Carbon Footprint Cementitious Material for 3D Printing:<br/>Strategies for Rheology Adjustment and Mechanical Performance Estimation</a></li>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/gouvea_lucas"><b>Gouvêa</b> Lucas</a>, <a href="../../../author/cassia-magalhaes-martins_karenn"><b>Cássia Magalhães Martins</b> Karenn</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../tino_gouv_cass_tole.2023.TUoRHPtAtRPo3PCCTWS/">The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption</a></li>

@@ -8,7 +8,7 @@ search:
 
 # #local
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_khay.2025.PBDo3PCCULAM/">Performance-Based Design of 3D Printable Cement Composite Using Locally Available Materials</a></li>
   <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yous_rash_koc.2025.AMfVAULESaBWM/">Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials</a></li>
   <li><a href="../../../author/sabouni_reem"><b>Sabouni</b> Reem</a>, <a href="../../../author/martini_samer"><b>Martini</b> Samer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sabo_mart.2025.Co3PCMDULUMBoRP/">Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties</a></li>

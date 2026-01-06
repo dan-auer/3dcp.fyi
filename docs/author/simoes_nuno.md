@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Simões Nuno 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pess_luca_simo_guim.2025.HTia3PMWS/">Heat Transfer in a 3D-Printed Multilayer Wall System:<br/>An Experimental and Numerical Analysis</a></li>
   <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pess_jesu_rang_guim.2023.PSotAoTMi3PCW/">Preliminary Study of the Application of Thermal Mortar in 3D Printed Concrete Walls</a></li>
   <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pess_jesu_guim_luca.2023.ECoHPoa3PCM/">Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar</a></li>

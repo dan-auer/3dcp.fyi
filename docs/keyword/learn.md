@@ -8,7 +8,7 @@ search:
 
 # #learn
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
   <li><a href="../../../author/albostami_s_asad"><b>Albostami</b> Asad</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/ismael_h_bashar"><b>Ismael</b> Bashar</a>, <a href="../../../author/hamd_kh-s_rwayda"><b>Hamd</b> Rwayda</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../albo_moha_isma_hamd.2025.OSPf3PFRC/">Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete:<br/>Machine Learning-Driven Insights</a></li>

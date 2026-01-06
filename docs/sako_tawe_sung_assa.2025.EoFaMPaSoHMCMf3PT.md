@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Natthanicha Sakolaree, Jutamas Taweesint, Krisana Sungsiri, Sirikamol Assawamankongcharoen, Weerachart Tangchirapat, Chai Jaturapitakkul
+    - footer
+title: Sakolaree Natthanicha, Taweesint Jutamas, Sungsiri Krisana, Assawamankongcharoen Sirikamol, Tangchirapat Weerachart, Jaturapitakkul Chai
 description:
 tags:
  - containment
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05506" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05506</a>
+#Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology ([2025-11](date/2025/11))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05506" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05506" target="_blank">10.1016/j.cscm.2025.e05506</a>
 
--------------------------
+<a href="../../../author/sakolaree_natthanicha"><b>Sakolaree</b>&nbsp;Natthanicha</a></span>, <a href="../../../author/taweesint_jutamas"><b>Taweesint</b>&nbsp;Jutamas</a></span>, <a href="../../../author/sungsiri_krisana"><b>Sungsiri</b>&nbsp;Krisana</a></span>, <a href="../../../author/assawamankongcharoen_sirikamol"><b>Assawamankongcharoen</b>&nbsp;Sirikamol</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4917-1367" title="ORCID: 0000-0002-4917-1367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tangchirapat_weerachart"><b>Tangchirapat</b>&nbsp;Weerachart</a></span>, <a href="../../../author/jaturapitakkul_chai"><b>Jaturapitakkul</b>&nbsp;Chai</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05506
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sakolaree_natthanicha"><b>Sakolaree</b> Natthanicha</a>
-,     <a href="../../../author/taweesint_jutamas"><b>Taweesint</b> Jutamas</a>
-,     <a href="../../../author/sungsiri_krisana"><b>Sungsiri</b> Krisana</a>
-,     <a href="../../../author/assawamankongcharoen_sirikamol"><b>Assawamankongcharoen</b> Sirikamol</a>
-,     <a href="../../../author/tangchirapat_weerachart"><b>Tangchirapat</b> Weerachart</a> <a href="https://orcid.org/0000-0002-4917-1367" title="ORCID: 0000-0002-4917-1367" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jaturapitakkul_chai"><b>Jaturapitakkul</b> Chai</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05506
-
-:aca-blank:{ .lg .middle}
-    [`#containment`](keyword/containment)
-    [`#evaluation`](keyword/evaluation)
-    [`#fresh`](keyword/fresh)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#shrinkage`](keyword/shrinkage)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Fresh%20and%20Mechanical%20Properties%20and%20Shrinkage%20of%20Hydrophobic%20Mortar%20Containing%20Microfiber%20for%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415898066" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05506" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05506?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the development of hydrophobic mortar tailored for three-dimensional (3D) printing applications by incorporating calcium stearate (CS) and polypropylene (PP) microfiber. CS was used as a partial hydraulic cement replacement at 10, 12.5, and 15% by binder weight, while 6-mm PP microfibers were added at 0.2 and 0.4% by volume. The water-to-binder (W/B) ratio was adjusted to achieve a flowability of 180–190 mm. The research evaluated the fresh properties, mechanical performance, shrinkage, and microstructural characteristics of the 3D-printed mortars. The results indicate that increasing the CS content delayed the setting time and reduced the compressive strength, whereas the addition of PP microfiber effectively enhanced the compressive strength. Notably, the use of 15% CS resulted in a significant 91% reduction in water sorptivity and a water contact angle of up to 142°, imparting hydrophobic and dust removal ability to the mortar surface. Plastic shrinkage was reduced by 53% with the inclusion of CS, and a further reduction was observed with the inclusion of PP microfiber. The combination of 15% CS and 0.2% PP microfiber achieved the greatest suitability for 3D printing applications, improving both printability and structural stability. Microstructural analysis revealed that CS increased pore generation within the matrix. However, this did not adversely affect water absorption as the presence of CS on pore surfaces, confirmed by a high proportion of carbon detected by EDS analysis, led to the development of hydrophobic properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
@@ -87,7 +62,36 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/cu_th_yen"><b>Cu</b> Yen</a>, <a href="../../../author/le_vh_chau"><b>Le</b> Chau</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../tran_cu_le.2021.RaSoCUPFf3CP/">Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sako_tawe_sung_assa.2025.EoFaMPaSoHMCMf3PT,
+      author            = "Natthanicha Sakolaree and Jutamas Taweesint and Krisana Sungsiri and Sirikamol Assawamankongcharoen and Weerachart Tangchirapat and Chai Jaturapitakkul",
+      title             = "Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology",
+      doi               = "10.1016/j.cscm.2025.e05506",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05506",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Sakolaree, J. Taweesint, K. Sungsiri, S. Assawamankongcharoen, W. Tangchirapat and C. Jaturapitakkul, “Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology”, <i>Case Studies in Construction Materials</i>, p. e05506, 2025, doi: 10.1016/j.cscm.2025.e05506.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sakolaree, Natthanicha, Jutamas Taweesint, Krisana Sungsiri, Sirikamol Assawamankongcharoen, Weerachart Tangchirapat, and Chai Jaturapitakkul. “Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology”. <i>Case Studies in Construction Materials</i>, 2025, e05506. https://doi.org/10.1016/j.cscm.2025.e05506.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

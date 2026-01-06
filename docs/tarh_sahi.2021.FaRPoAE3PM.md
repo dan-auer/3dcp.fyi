@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yeşim Tarhan, Remzi Şahin
+    - footer
+title: Tarhan Yeşim, Şahin Remzi
 description:
 tags:
  - air
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/14/9/2409/pdf?version=1620355108) Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars ([2021-05](date/2021/05))
-<a href="https://doi.org/10.3390/ma14092409" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma14092409</a>
+#Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars ([2021-05](date/2021/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/9/2409/pdf?version=1620355108) <a href="https://doi.org/10.3390/ma14092409" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14092409" target="_blank">10.3390/ma14092409</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_remzi"><b>Şahin</b>&nbsp;Remzi</a></span><br>
+Journal Article - Materials, Vol. 14, Iss. 9
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 14, Iss. 9, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#entrainment`](keyword/entrainment)
-    [`#fresh`](keyword/fresh)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20and%20Rheological%20Performances%20of%20Air-Entrained%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105962357&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3159861074" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma14092409" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma14092409?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The effect of air-entraining admixture (AEA) on the fresh and rheological behavior of mortars designed to be used in 3D printers was investigated. Blast furnace slag, calcined kaolin clay, polypropylene fiber, and various chemical additives were used in the mortar mixtures produced with Super White Cement (CEM I 52.5 R) and quartz sand. In addition to unit weight, air content, and compressive strength tests, in order to determine the stability of 3D printable mortar elements created by extruding layer by layer without any deformation, extrudability, buildability, and open time tests were applied. Fresh and rheological properties of 3D printable mortars were also determined. It was concluded that the addition of AEA to the mortars decreased the unit weight, viscosity, yield, and compressive strength, but increased the air content, spread diameter, initial setting time, and thixotropy of 3D printable mortar. It is recommended to develop a unique chemical admixture for 3D printable mortars, considering the active ingredients of the chemical additives that affect fresh and rheological performance of mortar such as superplasticizer, viscosity modifying, and cement hydration control.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "48 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -112,8 +93,8 @@ tags:
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/atalay_berrin"><b>Atalay</b> Berrin</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_atal.2025.PaBaAfSaHP3PC/">Phosphogypsum and Borogypsum as Additives for Sustainable and High-Performance 3D-Printable Concrete</a></li>
       <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mani_seka.2025.NTfEMPiGaFR3PM/">NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes</a></li>
@@ -137,4 +118,34 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../tarh_crav_bart.2023.AESfR3CPC/">An Effective Solution for Reinforcing 3D Concrete Printable Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tarh_sahi.2021.FaRPoAE3PM,
+      author            = "Yeşim Tarhan and Remzi Şahin",
+      title             = "Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars",
+      doi               = "10.3390/ma14092409",
+      year              = "2021",
+      journal           = "Materials",
+      volume            = "14",
+      number            = "9",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Tarhan  and R. Şahin, “Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars”, <i>Materials</i>, vol. 14, no. 9, 2021, doi: 10.3390/ma14092409.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tarhan, Yeşim, and Remzi Şahin. “Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars”. <i>Materials</i> 14, no. 9 (2021). https://doi.org/10.3390/ma14092409.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

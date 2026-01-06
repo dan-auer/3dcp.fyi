@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jinlong Pan, Pengxin Ping, Boyin Ding, Binrong Zhu, Yuanzheng Lin, Neven Ukrainczyk, Hong Zhang, Jingming Cai
+    - footer
+title: Pan Jinlong, Ping Pengxin, Ding Boyin, Zhu Binrong, Lin Yuanzheng, Ukrainczyk Neven, Zhang Hong, Cai Jingming
 description:
 tags:
  - beam
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Impact Behavior of 3D Printed Fiber-Reinforced Cementitious Composite Beams ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.compositesa.2024.108175" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesa.2024.108175</a>
+#Impact Behavior of 3D Printed Fiber-Reinforced Cementitious Composite Beams ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesa.2024.108175" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesa.2024.108175" target="_blank">10.1016/j.compositesa.2024.108175</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span>, <a href="../../../author/ping_pengxin"><b>Ping</b>&nbsp;Pengxin</a></span>, <a href="../../../author/ding_boyin"><b>Ding</b>&nbsp;Boyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <a href="../../../author/lin_yuanzheng"><b>Lin</b>&nbsp;Yuanzheng</a></span>, <a href="../../../author/ukrainczyk_neven"><b>Ukrainczyk</b>&nbsp;Neven</a></span>, <a href="../../../author/zhang_hong"><b>Zhang</b>&nbsp;Hong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_jingming"><b>Cai</b>&nbsp;Jingming</a></span><br>
+Journal Article - Composites Part A: Applied Science and Manufacturing, No. 108175
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ping_pengxin"><b>Ping</b> Pengxin</a>
-,     <a href="../../../author/ding_boyin"><b>Ding</b> Boyin</a>
-,     <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_yuanzheng"><b>Lin</b> Yuanzheng</a>
-,     <a href="../../../author/ukrainczyk_neven"><b>Ukrainczyk</b> Neven</a>
-,     <a href="../../../author/zhang_hong"><b>Zhang</b> Hong</a>
-,     <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="https://orcid.org/0000-0003-2453-582X" title="ORCID: 0000-0003-2453-582X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part A: Applied Science and Manufacturing, No. 108175
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Impact%20Behavior%20of%203D%20Printed%20Fiber-Reinforced%20Cementitious%20Composite%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189482051&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393142655" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesa.2024.108175" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesa.2024.108175?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent interest has grown in using 3D printing for military and civil defense engineering, particularly for infrastructure resilience against impacts. This study delves into the impact resistance of 3D printed fiber-reinforced cementitious composite (FRCC) beams. By analyzing varying fiber content, impact directions, and 3D printing nozzle sizes, the research found that the total energy dissipation of 3D printed FRCC beams was more than 40% higher and the 3D printed beams exhibited superior impact resistance compared to traditional beams, largely due to the fibers' role. The impact energy dissipation varied with different impact directions for the specimens, and the Z direction was identified as the most resistant, demonstrating anisotropic behavior in impact resistance. Smaller nozzle sizes in printing showed higher total energy dissipation, indicating increased impact resistance. X-ray analysis further revealed that the 3D printing process creates denser beams with better fiber–matrix adhesion and less porosity, improving overall impact resistance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/wang_xiaoyi"><b>Wang</b> Xiaoyi</a>, <a href="../../../author/fang_yizhi"><b>Fang</b> Yizhi</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cai_shen_wang_fang.2022.EoRCotFBo3PFRCCB/">Effect of Reinforcement-Configurations on the Flexural Behaviors of 3D Printed Fiber-Reinforced Cementitious Composite Beams</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -90,12 +65,41 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/wu_gan"><b>Wu</b> Gan</a>, <a href="../../../author/xia_zixu"><b>Xia</b> Zixu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bu_zhan_wu_xia.2025.IPo3PEIbBBS/">Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure</a></li>
       <li><a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/he_qianpeng"><b>He</b> Qianpeng</a>, <a href="../../../author/ping_pengxin"><b>Ping</b> Pengxin</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_he_ping_pan.2025.AFBaEAo3PECC3EBULVI/">Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact</a></li>
       <li><a href="../../../author/zhang_ziqi"><b>Zhang</b> Ziqi</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guoa_rongxin"><b>Guoa</b> Rongxin</a>, <a href="../../../author/lin_runsheng"><b>Lin</b> Runsheng</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC/">Simulation and Analysis of Material Stacking and Migration Induced by Extrusion Behavior in 3D Printed Concrete</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/qiu_yue"><b>Qiu</b> Yue</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yang_xu_lan_qiu.2024.NPLCoMFi3PCCaMMUaNIM/">Near Pixel-Level Characterisation of Micro-Fibers in 3D Printed Cementitious Composites and Migration Mechanisms Using a Novel Iterative Method</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pan_ping_ding_zhu.2024.IBo3PFRCCB,
+      author            = "Jinlong Pan and Pengxin Ping and Boyin Ding and Binrong Zhu and Yuanzheng Lin and Neven Ukrainczyk and Hong Zhang and Jingming Cai",
+      title             = "Impact Behavior of 3D Printed Fiber-Reinforced Cementitious Composite Beams",
+      doi               = "10.1016/j.compositesa.2024.108175",
+      year              = "2024",
+      journal           = "Composites Part A: Applied Science and Manufacturing",
+      pages             = "108175",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Pan, “Impact Behavior of 3D Printed Fiber-Reinforced Cementitious Composite Beams”, <i>Composites Part A: Applied Science and Manufacturing</i>, p. 108175, 2024, doi: 10.1016/j.compositesa.2024.108175.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pan, Jinlong, Pengxin Ping, Boyin Ding, Binrong Zhu, Yuanzheng Lin, Neven Ukrainczyk, Hong Zhang, and Jingming Cai. “Impact Behavior of 3D Printed Fiber-Reinforced Cementitious Composite Beams”. <i>Composites Part A: Applied Science and Manufacturing</i>, 2024, 108175. https://doi.org/10.1016/j.compositesa.2024.108175.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

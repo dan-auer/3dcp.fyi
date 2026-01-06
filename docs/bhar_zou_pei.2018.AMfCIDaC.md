@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abhinav Bhardwaj, Na Zou, Zhijian Pei
+    - footer
+title: Bhardwaj Abhinav, Zou Na, Pei Zhijian
 description:
 tags:
  - additive
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing for Civil Infrastructure Design and Construction:<br/>:aca-blank: Current State and Gaps ([2018-06](date/2018/06))
-<a href="https://doi.org/10.1115/msec2018-6688" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1115/msec2018-6688</a>
+#Additive Manufacturing for Civil Infrastructure Design and Construction&nbsp;([2018-06](date/2018/06))
+<div class="h1-like">Current State and Gaps</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/msec2018-6688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/msec2018-6688" target="_blank">10.1115/msec2018-6688</a>
 
--------------------------
+<a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b>&nbsp;Abhinav</a></span>, <a href="../../../author/zou_na"><b>Zou</b>&nbsp;Na</a></span>, <a href="../../../author/pei_zhijian"><b>Pei</b>&nbsp;Zhijian</a></span><br>
+Contribution - Proceedings of the ASME 2018 International Manufacturing Science and Engineering Conference
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>
-,     <a href="../../../author/zou_na"><b>Zou</b> Na</a>
-,     <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the ASME 2018 International Manufacturing Science and Engineering Conference, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#gap`](keyword/gap)
-    [`#infrastructure`](keyword/infrastructure)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20for%20Civil%20Infrastructure%20Design%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85055045298&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2893826612" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1115/msec2018-6688" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1115/msec2018-6688?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) has applications in several fields ranging from aerospace and consumer goods to the medical industry. However, applications of AM in civil infrastructure design and construction are very limited. Based on information shared at the NSF workshop on Additive Manufacturing (3D Printing) for Civil Infrastructure Design and Construction in July 2017, this paper summarizes the current state of the field, gaps, and recommendations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/duro-royo_jorge"><b>Duro-Royo</b> Jorge</a>, <a href="../../../author/mogas-soldevila_laia"><b>Mogas-Soldevila</b> Laia</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../duro_moga_oxma.2015.FBF/">Flow-Based Fabrication:<br/>An Integrated Computational Workflow for Design and Digital Additive Manufacturing of Multifunctional Heterogeneously Structured Objects</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
@@ -78,12 +59,40 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li><a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../loot.2023.GSaFttM/">Giving Shape and Functionality to the Matter:<br/>Digital Construction</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bhar_zou_pei.2018.AMfCIDaC,
+      author            = "Abhinav Bhardwaj and Na Zou and Zhijian Pei",
+      title             = "Additive Manufacturing for Civil Infrastructure Design and Construction: Current State and Gaps",
+      doi               = "10.1115/msec2018-6688",
+      year              = "2018",
+      booktitle         = "Proceedings of the ASME 2018 International Manufacturing Science and Engineering Conference",
+      editor            = "American Society of Mechanical Engineers",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Bhardwaj, N. Zou and Z. Pei, “Additive Manufacturing for Civil Infrastructure Design and Construction: Current State and Gaps”, in <i>Proceedings of the ASME 2018 International Manufacturing Science and Engineering Conference</i>,  2018. doi: 10.1115/msec2018-6688.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhardwaj, Abhinav, Na Zou, and Zhijian Pei. “Additive Manufacturing for Civil Infrastructure Design and Construction: Current State and Gaps”. In <i>Proceedings of the ASME 2018 International Manufacturing Science and Engineering Conference</i>, edited by American Society of Mechanical Engineers, 2018. https://doi.org/10.1115/msec2018-6688.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

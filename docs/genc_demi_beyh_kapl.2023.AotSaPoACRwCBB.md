@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gokhan Genc, Ruya Demircan, Figen Beyhan, Gökhan Kaplan
+    - footer
+title: Genc Gokhan, Demircan Ruya, Beyhan Figen, Kaplan Gökhan
 description:
 tags:
  - adobe
@@ -21,37 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders:<br/>:aca-blank: Environmental Life-Cycle-Analysis and 3D Printability ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1016/j.scitotenv.2023.167695" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.scitotenv.2023.167695</a>
+#Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders&nbsp;([2023-10](date/2023/10))
+<div class="h1-like">Environmental Life-Cycle-Analysis and 3D Printability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.scitotenv.2023.167695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.scitotenv.2023.167695" target="_blank">10.1016/j.scitotenv.2023.167695</a>
 
--------------------------
+<a href="../../../author/genc_gokhan"><b>Genc</b>&nbsp;Gokhan</a></span>, <a href="../../../author/demircan_kilic_ruya"><b>Demircan</b>&nbsp;Ruya</a></span>, <a href="../../../author/beyhan_figen"><b>Beyhan</b>&nbsp;Figen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6067-7337" title="ORCID: 0000-0001-6067-7337" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaplan_gokhan"><b>Kaplan</b>&nbsp;Gökhan</a></span><br>
+Journal Article - Science of the Total Environment, No. 167695
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/genc_gokhan"><b>Genc</b> Gokhan</a>
-,     <a href="../../../author/demircan_kilic_ruya"><b>Demircan</b> Ruya</a>
-,     <a href="../../../author/beyhan_figen"><b>Beyhan</b> Figen</a>
-,     <a href="../../../author/kaplan_gokhan"><b>Kaplan</b> Gökhan</a> <a href="https://orcid.org/0000-0001-6067-7337" title="ORCID: 0000-0001-6067-7337" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Science of the Total Environment, No. 167695
-
-:aca-blank:{ .lg .middle}
-    [`#adobe`](keyword/adobe)
-    [`#analysis`](keyword/analysis)
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#binder`](keyword/binder)
-    [`#construction`](keyword/construction)
-    [`#cycle`](keyword/cycle)
-    [`#environment`](keyword/environment)
-    [`#life`](keyword/life)
-    [`#printability`](keyword/printability)
-    [`#production`](keyword/production)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/adobe"><button class="btn">#adobe</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Assessment%20of%20the%20Sustainability%20and%20Producibility%20of%20Adobe-Constructions%20Reinforced%20with%20Ca-Based%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173860731&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387521767" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.scitotenv.2023.167695" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.scitotenv.2023.167695?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigated the usability of adobe samples reinforced with calcium-based binders in a 3D-printed technique. These adobe samples' physical, mechanical, durability and microstructure characteristics were investigated and their 3D printability characteristics experimentally. In the case of adobe production by 3D-printing method, the compressive strength decreased by 9–33 % compared to mold casting. While the thermal conductivity coefficient of adobe samples varied between 0.833 and 1.421 W/mK, the thermal conductivity was reduced by 43 % thanks to the preference for gypsum. Within the scope of the LCA analysis, the slightest effect in terms of environmental damage was observed in mixtures containing gypsum compared to cement and slaked lime mixtures. As a result, it was determined that adobe's physical and mechanical characteristics could be improved by using gypsum, lime and cement, and these mixtures can be used in 3D-printing. It was determined that more sustainable adobe production is possible with gypsum and lime.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -117,9 +91,38 @@ tags:
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
       <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/puzule_liga"><b>Puzule</b> Līga</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sahm_puzu_sapa_slos.2024.GCPCf3P/">Gypsum-Cement-Pozzolan Composites for 3D Printing:<br/>Properties and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{genc_demi_beyh_kapl.2023.AotSaPoACRwCBB,
+      author            = "Gokhan Genc and Ruya Kilic Demircan and Figen Beyhan and Gökhan Kaplan",
+      title             = "Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders: Environmental Life-Cycle-Analysis and 3D Printability",
+      doi               = "10.1016/j.scitotenv.2023.167695",
+      year              = "2023",
+      journal           = "Science of the Total Environment",
+      pages             = "167695",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. Genc, R. K. Demircan, F. Beyhan and G. Kaplan, “Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders: Environmental Life-Cycle-Analysis and 3D Printability”, <i>Science of the Total Environment</i>, p. 167695, 2023, doi: 10.1016/j.scitotenv.2023.167695.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Genc, Gokhan, Ruya Kilic Demircan, Figen Beyhan, and Gökhan Kaplan. “Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders: Environmental Life-Cycle-Analysis and 3D Printability”. <i>Science of the Total Environment</i>, 2023, 167695. https://doi.org/10.1016/j.scitotenv.2023.167695.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

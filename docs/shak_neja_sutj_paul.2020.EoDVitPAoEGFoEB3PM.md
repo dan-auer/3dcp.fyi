@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Pshtiwan Shakor, Shami Nejadi, Sheila Sutjipto, Gavin Paul, Nadarajah Gowripalan
+    - footer
+title: Shakor Pshtiwan, Nejadi Shami, Sutjipto Sheila, Paul Gavin, Gowripalan Nadarajah
 description:
 tags:
  - absence
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://opus.lib.uts.edu.au/bitstream/10453/138106/4/Binder4.pdf) Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar ([2020-01](date/2020/01))
-<a href="https://doi.org/10.1016/j.addma.2020.101069" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2020.101069</a>
+#Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar ([2020-01](date/2020/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://opus.lib.uts.edu.au/bitstream/10453/138106/4/Binder4.pdf) <a href="https://doi.org/10.1016/j.addma.2020.101069" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101069" target="_blank">10.1016/j.addma.2020.101069</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nejadi_shami"><b>Nejadi</b>&nbsp;Shami</a></span>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b>&nbsp;Sheila</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_gavin"><b>Paul</b>&nbsp;Gavin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6930-2056" title="ORCID: 0000-0001-6930-2056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b>&nbsp;Nadarajah</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 32
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> <a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>
-,     <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="https://orcid.org/0000-0001-6930-2056" title="ORCID: 0000-0001-6930-2056" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 32, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#absence`](keyword/absence)
-    [`#base`](keyword/base)
-    [`#deposition`](keyword/deposition)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#glass`](keyword/glass)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#velocity`](keyword/velocity)
-
-
--------------------------
+<a href="../../keyword/absence"><button class="btn">#absence</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Deposition-Velocity%20in%20the%20Presence-Absence%20of%20E6-Glass-Fiber%20on%20Extrusion-Based%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078679888&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3000751075" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2020.101069" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2020.101069?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive Manufacturing (AM) technologies are widely used in various fields of industry and research. Continual research has enabled AM technologies to be considered as a feasible substitute for certain applications in the construction industry, particularly given the advances in the use of glass fibre reinforced mortar. An investigation of the resulting mechanical properties of various mortar mixes extruded using a robotic arm is presented. The nozzle paths were projected via ‘spline’ interpolation to obtain the desired trajectory and deposition velocity in the reference frame of the manipulator. Along each path, various mortar mixes, with and without chopped glass fibre, were deposited at different velocities. Tests were conducted to determine their mechanical performance when incorporated in printed structures with different layers (1, 2, 4 and 6 layers). The results are compared with those of conventional cast-in-place mortar. In this study, the mixes consist of ordinary Portland cement, fine sand, chopped glass fibres (6 mm) and chemical admixtures, which are used to print prismatic- and cubic-shaped specimens. Mechanical strength tests were performed on the printed specimens to evaluate the behaviour of the materials in the presence and absence of glass fibre. Robot end-effector velocity tests were performed to examine the printability and extrudability of the mortar mixes. Finally, horizontal and vertical line printing tests were used to determine the workability, buildability and uniformity of the mortar mix and to monitor the fibre flow directions in the printed specimens. The results show that printed specimens with glass fibre have enhanced compressive strength compared with specimens without glass fibre.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -100,8 +75,8 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "57 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
@@ -160,4 +135,33 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM,
+      author            = "Pshtiwan N. Shakor and Shami Nejadi and Sheila Sutjipto and Gavin Paul and Nadarajah Gowripalan",
+      title             = "Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar",
+      doi               = "10.1016/j.addma.2020.101069",
+      year              = "2020",
+      journal           = "Additive Manufacturing",
+      volume            = "32",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. N. Shakor, S. Nejadi, S. Sutjipto, G. Paul and N. Gowripalan, “Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar”, <i>Additive Manufacturing</i>, vol. 32, 2020, doi: 10.1016/j.addma.2020.101069.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shakor, Pshtiwan N., Shami Nejadi, Sheila Sutjipto, Gavin Paul, and Nadarajah Gowripalan. “Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar”. <i>Additive Manufacturing</i> 32 (2020). https://doi.org/10.1016/j.addma.2020.101069.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Furkan Akkoyun, Ayse Günal
+    - footer
+title: Akkoyun Furkan, Günal Ayse
 description:
 tags:
  - application
@@ -14,28 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.55524/ijirem.2025.12.1.3) The State of 3D Concrete Printing:<br/>:aca-blank: Current Applications and Future Opportunities ([2025-02](date/2025/02))
-<a href="https://doi.org/10.55524/ijirem.2025.12.1.3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.55524/ijirem.2025.12.1.3</a>
+#The State of 3D Concrete Printing&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">Current Applications and Future Opportunities</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.55524/ijirem.2025.12.1.3) <a href="https://doi.org/10.55524/ijirem.2025.12.1.3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55524/ijirem.2025.12.1.3" target="_blank">10.55524/ijirem.2025.12.1.3</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9932-937X" title="ORCID: 0000-0002-9932-937X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akkoyun_boran_furkan"><b>Akkoyun</b>&nbsp;Furkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4866-2914" title="ORCID: 0000-0002-4866-2914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gunal_yeter_ayse"><b>Günal</b>&nbsp;Ayse</a></span><br>
+Journal Article - International Journal of Innovative Research in Engineering and Management, Vol. 12, Iss. 1, pp. 13-27
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/akkoyun_boran_furkan"><b>Akkoyun</b> Furkan</a> <a href="https://orcid.org/0000-0002-9932-937X" title="ORCID: 0000-0002-9932-937X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gunal_yeter_ayse"><b>Günal</b> Ayse</a> <a href="https://orcid.org/0000-0002-4866-2914" title="ORCID: 0000-0002-4866-2914" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Innovative Research in Engineering and Management, Vol. 12, Iss. 1, pp. 13-27
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#concrete`](keyword/concrete)
-    [`#future`](keyword/future)
-    [`#opportunity`](keyword/opportunity)
-    [`#print`](keyword/print)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20State%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407260315" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.55524/ijirem.2025.12.1.3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.55524/ijirem.2025.12.1.3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology has brought remarkable improvements to manufacturing processes. By converting digital designs into physical objects, it allows for the quick and accurate production of items with intricate geometries. This technology reduces costs while offering enhanced production flexibility. In fields such as jewelry making, medical prosthetics, the food industry, and construction, 3D printers are continuously expanding their applications and evolving with each passing year. In the construction sector, 3D printing has become a key driver of the automation revolution, significantly changing traditional building methods. It offers notable advantages, such as lower costs, faster construction timelines, and improved sustainability. With this technology, construction materials can be directly printed on-site, making it possible to create even highly complex designs with ease. This approach not only minimizes material waste but also enhances energy efficiency. Ranging from prefabricated building components to cost-effective housing projects, 3D printing provides essential solutions, especially in areas requiring rapid construction. Additionally, it allows for greater creative freedom in architectural design, enabling the realization of more innovative and sustainable structures. In short, 3D printing is playing a transformative role in reshaping the construction industry. In conjunction with other automation technologies, it is making construction practices more efficient, economical, and environmentally friendly. This paper examines the advantages and current uses of 3D printing in construction, drawing on findings from recent studies and real-world applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -83,7 +66,38 @@ tags:
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{akko_guna.2025.TSo3CP,
+      author            = "Furkan Boran Akkoyun and Ayse Yeter Günal",
+      title             = "The State of 3D Concrete Printing: Current Applications and Future Opportunities",
+      doi               = "10.55524/ijirem.2025.12.1.3",
+      year              = "2025",
+      journal           = "International Journal of Innovative Research in Engineering and Management",
+      volume            = "12",
+      number            = "1",
+      pages             = "13--27",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. B. Akkoyun  and A. Y. Günal, “The State of 3D Concrete Printing: Current Applications and Future Opportunities”, <i>International Journal of Innovative Research in Engineering and Management</i>, vol. 12, no. 1, pp. 13–27, 2025, doi: 10.55524/ijirem.2025.12.1.3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Akkoyun, Furkan Boran, and Ayse Yeter Günal. “The State of 3D Concrete Printing: Current Applications and Future Opportunities”. <i>International Journal of Innovative Research in Engineering and Management</i> 12, no. 1 (2025): 13–27. https://doi.org/10.55524/ijirem.2025.12.1.3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

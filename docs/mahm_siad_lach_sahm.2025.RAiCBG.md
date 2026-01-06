@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Obaid Mahmoodi, Hocine Siad, Mohamed Lachemi, Mustafa Şahmaran
+    - footer
+title: Mahmoodi Obaid, Siad Hocine, Lachemi Mohamed, Şahmaran Mustafa
 description:
 tags:
  - advance
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jenvman.2025.126358) Recent Advances in CDW-Based Geopolymers:<br/>:aca-blank: A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.jenvman.2025.126358" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jenvman.2025.126358</a>
+#Recent Advances in CDW-Based Geopolymers&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jenvman.2025.126358) <a href="https://doi.org/10.1016/j.jenvman.2025.126358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jenvman.2025.126358" target="_blank">10.1016/j.jenvman.2025.126358</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9453-8394" title="ORCID: 0000-0001-9453-8394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahmoodi_obaid"><b>Mahmoodi</b>&nbsp;Obaid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1217-107X" title="ORCID: 0000-0003-1217-107X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/siad_hocine"><b>Siad</b>&nbsp;Hocine</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8332-4101" title="ORCID: 0009-0001-8332-4101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachemi_mohamed"><b>Lachemi</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Journal of Environmental Management, Vol. 391, No. 126358
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mahmoodi_obaid"><b>Mahmoodi</b> Obaid</a> <a href="https://orcid.org/0000-0001-9453-8394" title="ORCID: 0000-0001-9453-8394" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/siad_hocine"><b>Siad</b> Hocine</a> <a href="https://orcid.org/0000-0003-1217-107X" title="ORCID: 0000-0003-1217-107X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lachemi_mohamed"><b>Lachemi</b> Mohamed</a> <a href="https://orcid.org/0009-0001-8332-4101" title="ORCID: 0009-0001-8332-4101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Environmental Management, Vol. 391, No. 126358
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#durability`](keyword/durability)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recent%20Advances%20in%20CDW-Based%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009516588&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412016612" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jenvman.2025.126358" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jenvman.2025.126358?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing demand for sustainable construction materials has intensified research into geopolymers, with a particular focus on construction and demolition waste (CDW). CDWs present a promising opportunity for reducing the environmental impact of construction by serving as recycled precursors and aggregates in sustainable geopolymeric materials. Recent studies have confirmed the viability of CDW-based geopolymers, demonstrating numerous advantages, including enhanced mechanical durability, cost-efficiency, and overall sustainability characteristics compared to Ordinary Portland Cement (OPC)-based materials. Nevertheless, several challenges continue to impede their broader adoption in the construction industry. This review synthesizes the latest findings on the mechanical properties, durability, 3D printing applications, structural performance, and sustainability features of CDW-based geopolymers, highlighting critical factors such as the influence of CDW precursors and aggregates, mix design parameters, particle packing and shape characteristics. Literature underscores the necessity for enhanced design methodologies and standardized criteria to improve the practical application of CDW-based geopolymers, particularly in optimizing the mechanical performance, durability, and 3D printing formulations. Important limitations regarding the need for research in critical areas of CDW-geopolymers have been given.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bong_nema_nere_mech.2022.MoF3PSHAACfAC/">Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a></li>
@@ -101,8 +77,38 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mahm_siad_lach_sahm.2025.RAiCBG,
+      author            = "Obaid Mahmoodi and Hocine Siad and Mohamed Lachemi and Mustafa Şahmaran",
+      title             = "Recent Advances in CDW-Based Geopolymers: A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability",
+      doi               = "10.1016/j.jenvman.2025.126358",
+      year              = "2025",
+      journal           = "Journal of Environmental Management",
+      volume            = "391",
+      pages             = "126358",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">O. Mahmoodi, H. Siad, M. Lachemi and M. Şahmaran, “Recent Advances in CDW-Based Geopolymers: A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability”, <i>Journal of Environmental Management</i>, vol. 391, p. 126358, 2025, doi: 10.1016/j.jenvman.2025.126358.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mahmoodi, Obaid, Hocine Siad, Mohamed Lachemi, and Mustafa Şahmaran. “Recent Advances in CDW-Based Geopolymers: A Review of Mechanical Performance, Structural Application, 3D Printing, Durability and Sustainability”. <i>Journal of Environmental Management</i> 391 (2025): 126358. https://doi.org/10.1016/j.jenvman.2025.126358.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

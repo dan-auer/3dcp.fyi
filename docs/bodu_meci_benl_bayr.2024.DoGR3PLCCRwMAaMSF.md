@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Burak Bodur, Muhammet Mecit Işık, Ahmet Benli, Barış Bayrak, Ali Öz, Oguzhan Bayraktar, Gökhan Kaplan, Abdulkadir Aydın
+    - footer
+title: Bodur Burak, Mecit Işık Muhammet, Benli Ahmet, Bayrak Barış, Öz Ali, Bayraktar Oguzhan, Kaplan Gökhan, Aydın Abdulkadir
 description:
 tags:
  - attapulgite
@@ -22,42 +23,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers:<br/>:aca-blank: Printability and Environmental Perspective ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.jobe.2024.109447" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109447</a>
+#Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">Printability and Environmental Perspective</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109447" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109447" target="_blank">10.1016/j.jobe.2024.109447</a>
 
--------------------------
+<a href="../../../author/bodur_burak"><b>Bodur</b>&nbsp;Burak</a></span>, <a href="../../../author/mecit-isik_ahmet_muhammet"><b>Mecit Işık</b>&nbsp;Muhammet</a></span>, <a href="../../../author/benli_ahmet"><b>Benli</b>&nbsp;Ahmet</a></span>, <a href="../../../author/bayrak_baris"><b>Bayrak</b>&nbsp;Barış</a></span>, <a href="../../../author/oz_ali"><b>Öz</b>&nbsp;Ali</a></span>, <a href="../../../author/bayraktar_yavuz_oguzhan"><b>Bayraktar</b>&nbsp;Oguzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6067-7337" title="ORCID: 0000-0001-6067-7337" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaplan_gokhan"><b>Kaplan</b>&nbsp;Gökhan</a></span>, <a href="../../../author/aydin_cuneyt_abdulkadir"><b>Aydın</b>&nbsp;Abdulkadir</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 90, No. 109447
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bodur_burak"><b>Bodur</b> Burak</a>
-,     <a href="../../../author/mecit-isik_ahmet_muhammet"><b>Mecit Işık</b> Muhammet</a>
-,     <a href="../../../author/benli_ahmet"><b>Benli</b> Ahmet</a>
-,     <a href="../../../author/bayrak_baris"><b>Bayrak</b> Barış</a>
-,     <a href="../../../author/oz_ali"><b>Öz</b> Ali</a>
-,     <a href="../../../author/bayraktar_yavuz_oguzhan"><b>Bayraktar</b> Oguzhan</a>
-,     <a href="../../../author/kaplan_gokhan"><b>Kaplan</b> Gökhan</a> <a href="https://orcid.org/0000-0001-6067-7337" title="ORCID: 0000-0001-6067-7337" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aydin_cuneyt_abdulkadir"><b>Aydın</b> Abdulkadir</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 90, No. 109447
-
-:aca-blank:{ .lg .middle}
-    [`#attapulgite`](keyword/attapulgite)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#durability`](keyword/durability)
-    [`#environment`](keyword/environment)
-    [`#fiber`](keyword/fiber)
-    [`#green`](keyword/green)
-    [`#light`](keyword/light)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#rubber`](keyword/rubber)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/attapulgite"><button class="btn">#attapulgite</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Durability%20of%20Green%20Rubberized%203D%20Printed%20Lightweight%20Cement%20Composites%20Reinforced%20with%20Micro-Attapulgite%20and%20Micro-Steel-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192072377&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -72,17 +45,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4396622469" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109447" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109447?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing amount of tires manufactured annually worldwide has made waste tire management a major environmental concern. The goal of this work is to investigate the potential applications of waste tire aggregates (WTA) in a novel class of affordable, recycled composite materials. This study assesses the material behavior of rubberized 3D printed lightweight cement composites (3DLC) reinforced with raw micro attapulgite (ATP) and micro steel fibers (MSF) using WTA as a 100 % replacement for fine aggregate manufactured through 3D printing. The paper takes advantage of 3D concrete printing's advantages and addresses the environmental issues associated with waste tires. The extrudability and buildability properties of 3DLC are determined in the fresh state. Physical and thermal properties of 3DLC were determined. Mechanical properties of 3DLC including compressive, flexural, shear strength and flexural toughness were assessed. 3D printed samples were exposed to high temperature and sulfate (MgSO4), and their durability properties were determined. The microstructures of the mixes was analyzed. The CO2 emissions and costs of the blends were also assessed. The outcomes revealed that, the 3DLC mixture with 10 % ATP and 2 % MSF showed the greatest compressive strength performance, with increases of 17.82 and 29.51 % at 28 and 90 days, respectively relative to the mixture without ATP. Regardless of MSF level, at 28 and 90 days, all mixes with 10%ATP content showed the largest flexural strengths. The 3DLC mixture with 10 % ATP and 2 % MSF had the highest measured thermal conductivity. The blends with 20 % ATP and 0 % MSF showed the lowest thermal conductivity. The mixture containing 10 % ATP and 2 % MSF demonstrated the greatest high temperature performance, demonstrating strength enhancement of 21.85, 6.72 and 3.36 % at 200,400 and 600°C respectively. Replacing cement with 10 and 20%ATP greatly increased the sulfate resistance of 3DLC mixtures and the mixture with 20%ATP and 2%MSF exhibited the best sulfate performance. The lowest CO2 emission and cost were determined for the mixture containing 20%ATP and 0%MSF (A20S0).
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/carvalho_c_ivo"><b>Carvalho</b> Ivo</a>, <a href="../../../author/melo_r-s_abcael"><b>Melo</b> Abcael</a>, <a href="../../../author/melo_d-r_carlos"><b>Melo</b> Carlos</a>, <a href="../../../author/brito_s_mateus"><b>Brito</b> Mateus</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../carv_melo_melo_brit.2024.EotEoRWPotRaMPoCMf3P/">Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -112,8 +81,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
@@ -123,4 +92,34 @@ tags:
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mim_shai_sark.2025.S3PCIAFA/">Sustainable 3D Printed Concrete Incorporating Alternative Fine Aggregates:<br/>A Review</a></li>
       <li><a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b> P.</a>, <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b> G.</a>, <a href="../../../author/roy_dipankar"><b>Roy</b> Dipankar</a>, <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b> George</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../venu_nakk_roy_alan.2024.EtUoRFAi3P/">Evaluating the Use of Recycled Fine Aggregates in 3D Printing:<br/>A Systematic Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bodu_meci_benl_bayr.2024.DoGR3PLCCRwMAaMSF,
+      author            = "Burak Bodur and Muhammet Ahmet Mecit Işık and Ahmet Benli and Barış Bayrak and Ali Öz and Oguzhan Yavuz Bayraktar and Gökhan Kaplan and Abdulkadir Cüneyt Aydın",
+      title             = "Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers: Printability and Environmental Perspective",
+      doi               = "10.1016/j.jobe.2024.109447",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "90",
+      pages             = "109447",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Bodur, “Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers: Printability and Environmental Perspective”, <i>Journal of Building Engineering</i>, vol. 90, p. 109447, 2024, doi: 10.1016/j.jobe.2024.109447.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bodur, Burak, Muhammet Ahmet Mecit Işık, Ahmet Benli, Barış Bayrak, Ali Öz, Oguzhan Yavuz Bayraktar, Gökhan Kaplan, and Abdulkadir Cüneyt Aydın. “Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers: Printability and Environmental Perspective”. <i>Journal of Building Engineering</i> 90 (2024): 109447. https://doi.org/10.1016/j.jobe.2024.109447.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Kaushik Sandipan 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/hamill_gerard"><b>Hamill</b> Gerard</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sone_kaus_amzi_hami.2025.OoRaHPo3CP/">Optimization of Rheological and Hardened Properties of 3D Concrete Printing</a></li>
   <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../kaus_sone_amat_perr.2023.EoNCotPoEB3PM/">Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar</a></li>
   <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/das_kumar_utpal"><b>Das</b> Utpal</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../kaus_sone_amat_das.2023.OoMPo3PMBoRPaMSUFDoE/">Optimization of Mix Proportion of 3D Printable Mortar Based on Rheological Properties and Material-Strength Using Factorial Design of Experiment</a></li>

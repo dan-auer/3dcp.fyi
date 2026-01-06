@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Gabrielly Nunes, Marcos Anjos, Ana Lins, Ana Negreiros, Leyla Pessoa
+    - footer
+title: Nunes Gabrielly, Anjos Marcos, Lins Ana, Negreiros Ana, Pessoa Leyla
 description:
 tags:
  - 3dcp
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluation of the Mechanical Behavior of Representative Volumetric Elements of 3DCP Masonry-Mixtures with Partial Replacement of Cement by Limestone-Filler and Metakaolin ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.jobe.2023.107650" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2023.107650</a>
+#Evaluation of the Mechanical Behavior of Representative Volumetric Elements of 3DCP Masonry-Mixtures with Partial Replacement of Cement by Limestone-Filler and Metakaolin ([2023-08](date/2023/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107650" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107650" target="_blank">10.1016/j.jobe.2023.107650</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5519-3714" title="ORCID: 0000-0002-5519-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nunes_da-mota_gabrielly"><b>Nunes</b>&nbsp;Gabrielly</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos&nbsp;Anjos</b>&nbsp;Marcos</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7713-9970" title="ORCID: 0000-0002-7713-9970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lins_beatriz-smith-melo_ana"><b>Lins</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6243-5796" title="ORCID: 0000-0001-6243-5796" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/negreiros_mayara-silva_ana"><b>Negreiros</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-4353-7062" title="ORCID: 0009-0002-4353-7062" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_rodrigues_leyla"><b>Pessoa</b>&nbsp;Leyla</a></span><br>
+Journal Article - Journal of Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nunes_da-mota_gabrielly"><b>Nunes</b> Gabrielly</a> <a href="https://orcid.org/0000-0002-5519-3714" title="ORCID: 0000-0002-5519-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos Anjos</b> Marcos</a> <a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lins_beatriz-smith-melo_ana"><b>Lins</b> Ana</a> <a href="https://orcid.org/0000-0002-7713-9970" title="ORCID: 0000-0002-7713-9970" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/negreiros_mayara-silva_ana"><b>Negreiros</b> Ana</a> <a href="https://orcid.org/0000-0001-6243-5796" title="ORCID: 0000-0001-6243-5796" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pessoa_rodrigues_leyla"><b>Pessoa</b> Leyla</a> <a href="https://orcid.org/0009-0002-4353-7062" title="ORCID: 0009-0002-4353-7062" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#element`](keyword/element)
-    [`#evaluation`](keyword/evaluation)
-    [`#fill`](keyword/fill)
-    [`#limestone`](keyword/limestone)
-    [`#masonry`](keyword/masonry)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixture`](keyword/mixture)
-    [`#replacement`](keyword/replacement)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/masonry"><button class="btn">#masonry</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20the%20Mechanical%20Behavior%20of%20Representative%20Volumetric%20Elements%20of%203DCP%20Masonry-Mixtures%20with%20Partial%20Replacement%20of%20Cement%20by%20Limestone-Filler%20and%20Metakaolin" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85168998338&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386057113" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2023.107650" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2023.107650?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The analysis of 3D printing concrete (3DCP) mixtures as representative masonry volumetric elements (RVE-3DCP) is ideal to better understand the behavior of 3DCP within the masonry typology. Nevertheless, analyzing small pieces might not accurately represent the actual behavior of 3DCP in the intended application, especially as masonry in this specific scenario. This study aims to develop representative 3DCP masonry volumetric elements (blocks, prisms, and mini-walls) produced with 3DCP mixtures with up to 50% cement replacement by limestone filler (LF) and metakaolin (MK). The mechanical behavior of the RVE-3DCP and the small-sized specimens (cubes and prisms) was evaluated in comparison with the pieces made with the reference mixture, only with cement. The RVE-3DCP were also compared to the elements of the hollow concrete block structural masonry system. The properties in the fresh and hardened states were investigated to analyze the influence of LF and MK on the 3DCP mixtures. The results showed that there is a reduction in the compressive strength of RVE-3DCP when compared to the compressive strength of small-sized 3DCP specimens, showing that these cube and prism specimens may not be the ideal typology to analyze the real behavior of 3DCP. Furthermore, these 3DCP mixtures with LF and MK obtained better efficiency indexes about cement consumption per MPa achieved, which proves the good performance of mixtures with reduced cement consumption in the ability to withstand the compressive stresses of 3DCP masonry with sealing or structural function. In addition, the RVE-3DCP in block and prism size may be suitable for analysis of the mechanical behavior of 3DCP mixtures as it represents a reduced geometry of the masonry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/thiruvenkatamani_g"><b>Thiruvenkatamani</b> G.</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhat_jain_sant_thir.2022.MPaFPo3PHCaWSuUL/">Mechanical Properties and Failure-Pattern of 3D Printed Hollow Cylinders and Wall Segments under Uniaxial Loading</a></li>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
@@ -112,12 +85,40 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>
       <li><a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a>, <a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../anjo_maia_souz_mede.2024.EotGoRVME/">Effect of the Geometry of Representative Volumetric Masonry Elements:<br/>Experimental and Numerical Analysis</a></li>
       <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../barb_anjo_maia_camo.2024.EoEPotPo3M/">Effect of Expanded Perlite on the Properties of 3DCP Mixtures</a></li>
       <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../oulk_akhr_jai.2024.3CPS/">3D Concrete Printing Success:<br/>An Exhaustive Diagnosis and Failure-Modes-Analysis</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nune_anjo_lins_negr.2023.EotMBoRVEo3MMwPRoCbLFaM,
+      author            = "Gabrielly da Mota Nunes and Marcos Alyssandro Soares dos Anjos and Ana Beatriz Smith Melo Lins and Ana Mayara Silva Negreiros and Leyla Rodrigues Pessoa",
+      title             = "Evaluation of the Mechanical Behavior of Representative Volumetric Elements of 3DCP Masonry-Mixtures with Partial Replacement of Cement by Limestone-Filler and Metakaolin",
+      doi               = "10.1016/j.jobe.2023.107650",
+      year              = "2023",
+      journal           = "Journal of Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">G. da Mota Nunes, M. A. S. dos Anjos, A. B. S. M. Lins, A. M. S. Negreiros and L. R. Pessoa, “Evaluation of the Mechanical Behavior of Representative Volumetric Elements of 3DCP Masonry-Mixtures with Partial Replacement of Cement by Limestone-Filler and Metakaolin”, <i>Journal of Building Engineering</i>, 2023, doi: 10.1016/j.jobe.2023.107650.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mota Nunes, Gabrielly da, Marcos Alyssandro Soares dos Anjos, Ana Beatriz Smith Melo Lins, Ana Mayara Silva Negreiros, and Leyla Rodrigues Pessoa. “Evaluation of the Mechanical Behavior of Representative Volumetric Elements of 3DCP Masonry-Mixtures with Partial Replacement of Cement by Limestone-Filler and Metakaolin”. <i>Journal of Building Engineering</i>, 2023. https://doi.org/10.1016/j.jobe.2023.107650.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

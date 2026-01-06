@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Lu, Hongliang Li, Mingyang Li, Teck Wong, Shunzhi Qian
+    - footer
+title: Lu Bing, Li Hongliang, Li Mingyang, Wong Teck, Qian Shunzhi
 description:
 tags:
  - ash
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanism and Design of Fluid Catalytic Cracking Ash-Blended Cementitious Composites for High-Performance Printing ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.addma.2022.103286" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.103286</a>
+#Mechanism and Design of Fluid Catalytic Cracking Ash-Blended Cementitious Composites for High-Performance Printing ([2022-11](date/2022/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.103286" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103286" target="_blank">10.1016/j.addma.2022.103286</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <a href="../../../author/li_hongliang"><b>Li</b>&nbsp;Hongliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> <a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#blend`](keyword/blend)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#crack`](keyword/crack)
-    [`#design`](keyword/design)
-    [`#fluid`](keyword/fluid)
-    [`#height`](keyword/height)
-    [`#mechanism`](keyword/mechanism)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanism%20and%20Design%20of%20Fluid%20Catalytic%20Cracking%20Ash-Blended%20Cementitious%20Composites%20for%20High-Performance%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145665638&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4309203430" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.103286" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.103286?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As a common waste in the oil refinery industry, fluid catalytic cracking (FCC) ash is used to partially replace cement for high-performance high-speed 3D concrete printing (3DCP). Effects of FCC ash on hydration, rheology, and compressive strength were evaluated systematically, and the optimal substitution rate was determined as 20 wt. % of cement. A cylinder with 240 mm diameter and 500 mm height was successfully printed at a high speed of 100 mm/s with the optimal mixture in 5 min 53 s only. Moreover, the optimal mixture shows good leaching performance, and it also reduces CO2 emission by 21.45 % and materials’ cost by 17.98 % compared with the control. In addition to material optimization, the contributions of FCC ash to the early hydration and static yield stress were extensively analyzed. Complementary calorimetric and mineralogical investigations show that FCC ash accelerates the initial hydrolysis of cement and hydration of C3A and C3S. On the other hand, the quantitative analyses of static yield stress reveal the contributions of FCC ash on the colloidal force, volume fractions, particle size distribution, and ultimately static yield stress evolution. The developed 3D printable cementitious material possesses multiple advantages, including high-speed printing compatibility, enhanced sustainability, and high commercial values for oil refinery and construction industries. Based on the mineralogical property of FCC ash, the study also enlightens potential research and application of zeolite in 3D concrete printing in the future.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
@@ -88,8 +62,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
       <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lim_tan.2024.ARMfCAM/">A Rheological Model for Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lu_li_qian_li.2024.HP3CPwZ/">High-Performance 3D Concrete Printing with Zeolite</a></li>
@@ -101,4 +75,32 @@ tags:
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/ho_yao_jin"><b>Ho</b> Jin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../li_liu_ho_wong.2023.EIoFaTDRPo3PCM/">Experimental Investigation of Fresh and Time-Dependent Rheological Properties of 3D Printed Cementitious Material</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_li_li_wong.2022.MaDoFCCABCCfHPP,
+      author            = "Bing Lu and Hongliang Li and Mingyang Li and Teck Neng Wong and Shunzhi Qian",
+      title             = "Mechanism and Design of Fluid Catalytic Cracking Ash-Blended Cementitious Composites for High-Performance Printing",
+      doi               = "10.1016/j.addma.2022.103286",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Lu, H. Li, M. Li, T. N. Wong and S. Qian, “Mechanism and Design of Fluid Catalytic Cracking Ash-Blended Cementitious Composites for High-Performance Printing”, <i>Additive Manufacturing</i>, 2022, doi: 10.1016/j.addma.2022.103286.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Bing, Hongliang Li, Mingyang Li, Teck Neng Wong, and Shunzhi Qian. “Mechanism and Design of Fluid Catalytic Cracking Ash-Blended Cementitious Composites for High-Performance Printing”. <i>Additive Manufacturing</i>, 2022. https://doi.org/10.1016/j.addma.2022.103286.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

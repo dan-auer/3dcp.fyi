@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Michael Kosson, Lesa Brown, Garret Thorne, Florence Sanchez
+    - footer
+title: Kosson Michael, Brown Lesa, Thorne Garret, Sanchez Florence
 description:
 tags:
  - architecture
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma17235736) Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials ([2024-11](date/2024/11))
-<a href="https://doi.org/10.3390/ma17235736" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17235736</a>
+#Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials ([2024-11](date/2024/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17235736) <a href="https://doi.org/10.3390/ma17235736" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17235736" target="_blank">10.3390/ma17235736</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9929-5632" title="ORCID: 0000-0002-9929-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kosson_michael"><b>Kosson</b>&nbsp;Michael</a></span>, <a href="../../../author/brown_lesa"><b>Brown</b>&nbsp;Lesa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1653-3480" title="ORCID: 0000-0002-1653-3480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thorne_garret"><b>Thorne</b>&nbsp;Garret</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2103-3229" title="ORCID: 0000-0002-2103-3229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanchez_florence"><b>Sanchez</b>&nbsp;Florence</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 23
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a> <a href="https://orcid.org/0000-0002-9929-5632" title="ORCID: 0000-0002-9929-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>
-,     <a href="../../../author/thorne_garret"><b>Thorne</b> Garret</a> <a href="https://orcid.org/0000-0002-1653-3480" title="ORCID: 0000-0002-1653-3480" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="https://orcid.org/0000-0002-2103-3229" title="ORCID: 0000-0002-2103-3229" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 23, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#formulas`](keyword/formulas)
-    [`#influence`](keyword/influence)
-    [`#internal`](keyword/internal)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Internal%20Architecture%20and%20Ink%20Formulation%20on%20the%20Thermal%20Behavior%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212583536&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404696014" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17235736" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17235736?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cement-based 3D printing provides an opportunity to create cement-based elements with a hierarchy of structures and patterns that are not easily achievable using traditional casting techniques, thereby providing new possibilities for improving thermal control and energy storage in cement-based materials. In this study, the influence of internal architecture and ink formulation on the thermal behavior of 3D-printed cement composite beams was investigated using infrared thermal imaging and a conceptual one-dimensional heat transfer model based on cooling fins in convective media. Three-dimensional printed beams with rectilinear, three-dimensional honeycomb, and Archimedean chord infill patterns and cement ink formulations with and without 5% halloysite nanoclay were exposed to a heating source at one end. The thermal behavior of the beams was found to be predominantly influenced by their internal architecture rather than the cement ink formulation, with differences in void structures and heat transfer pathways among the different architectures resulting in a hierarchy of apparent thermal conductivity. The internal architecture resulted in a reduction in apparent thermal conductivity by up to 75%, while the incorporation of halloysite nanoclay in the cement ink led to a reduction of up to 14%. Among the tested internal architecture, the rectilinear architecture showed a 10-15% higher apparent thermal conductivity compared to the three-dimensional honeycomb architecture and a 35-40% higher apparent thermal conductivity than the Archimedean architecture. The research demonstrates a promising strategy for fabricating and evaluating cement-based materials with thermal management capabilities using 3D printing methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/ayegba_onyeche_blessing"><b>Ayegba</b> Blessing</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/nazar_matin_ali"><b>Nazar</b> Ali</a>, <a href="../../../author/huang_mingzhi"><b>Huang</b> Mingzhi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ayeg_egbe_naza_huan.2022.REaTCo3PCBEObPEI/">Resource Efficiency and Thermal Comfort of 3D Printable Concrete Building Envelopes Optimized by Performance Enhancing Insulation:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -86,8 +63,38 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/nagaratnam_brabha"><b>Nagaratnam</b> Brabha</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sunt_upas_naga_pool.2022.FEMtPtFPoBI3PCWPEtRF/">Finite Element Modelling to Predict the Fire Performance of Bio-Inspired 3D Printed Concrete Wall Panels Exposed to Realistic Fire</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{koss_brow_thor_sanc.2024.IoIAaIFotTBo3PCM,
+      author            = "Michael Kosson and Lesa Brown and Garret Thorne and Florence Sanchez",
+      title             = "Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials",
+      doi               = "10.3390/ma17235736",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "23",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Kosson, L. Brown, G. Thorne and F. Sanchez, “Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials”, <i>Materials</i>, vol. 17, no. 23, 2024, doi: 10.3390/ma17235736.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kosson, Michael, Lesa Brown, Garret Thorne, and Florence Sanchez. “Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials”. <i>Materials</i> 17, no. 23 (2024). https://doi.org/10.3390/ma17235736.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

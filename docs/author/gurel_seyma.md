@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Gürel Şeyma 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/chen_wei-ting"><b>Chen</b> Wei-Ting</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gure_chen_wang_llor.2024.SuiDCoC/">Scaling up in Digital Casting of Concrete:<br/>Towards Industry Integration</a></li>
   <li><a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/garger_moritz"><b>Garger</b> Moritz</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gure_wang_garg_flat.2024.RTDEMfILMPiDC/">Residence-Time-Distribution Evaluation Method for In-Line Mixing Processes in Digital Concrete</a></li>
   <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b> Matineh</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wang_tao_das_mahm.2024.A2SiDC/">Aluminate 2K Systems in Digital Concrete:<br/>Process, Design, Chemistry, and Outlook</a></li>

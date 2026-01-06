@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Spandana Paritala, Kailash Singaram, Indira Bathina, Mohd Khan, Sri Jyosyula
+    - footer
+title: Paritala Spandana, Singaram Kailash, Bathina Indira, Khan Mohd, Jyosyula Sri
 description:
 tags:
  - base
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>:aca-blank: A Review ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.132962" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.132962</a>
+#Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing&nbsp;([2023-08](date/2023/08))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132962" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132962" target="_blank">10.1016/j.conbuildmat.2023.132962</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paritala_spandana"><b>Paritala</b>&nbsp;Spandana</a></span>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b>&nbsp;Kailash</a></span>, <a href="../../../author/bathina_indira"><b>Bathina</b>&nbsp;Indira</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3937-569X" title="ORCID: 0000-0002-3937-569X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_ataullah_mohd"><b>Khan</b>&nbsp;Mohd</a></span>, <a href="../../../author/jyosyula_kalyana-rama_sri"><b>Jyosyula</b>&nbsp;Sri</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 402, No. 132962
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a> <a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>
-,     <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>
-,     <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> <a href="https://orcid.org/0000-0002-3937-569X" title="ORCID: 0000-0002-3937-569X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jyosyula_kalyana-rama_sri"><b>Jyosyula</b> Sri</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 402, No. 132962
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-    [`#pumpability`](keyword/pumpability)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-    [`#suitability`](keyword/suitability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Pumpability%20of%20Mix%20Suitable%20for%20Extrusion-Based%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85168553748&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386006202" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.132962" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.132962?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of concrete is a rapidly growing additive manufacturing technology, bringing advantages like freedom of geometry, formwork-free construction, reduced construction time, and wastage, contributing towards a sustainable built environment. The technology also has the potential to mimic bio-inspired material architectures with enhanced performance. Among the available additive manufacturing techniques, the scalability and the speed of construction motivate the adaptation of extrusion-based concrete 3D printing technology. For conventional concrete pumping, the rheological behaviour and the mix design have been well established. However, for 3D printing, the pumpability of the mix which is governed by its rheology and the flow mechanism has to be viewed in conjunction with the extrudability, shape-retention, and buildability. This study provides a review of significant rheological properties, the effect of various material mixes, and printer configurations on the pumping of conventional as well as printable concrete, and a general comparison between them. The requirements of a pumpable concrete mix based on rheology and the optimal hardened properties for the 3D printing application are discussed. The significant rheological properties affecting the printability of concrete are plastic viscosity, static yield stress, thixotropy, and open time. A detailed review of various factors affecting the pumpability of a printable concrete mix is presented. The key constituents of a concrete mix affecting pumpability identified here are the type of binder(s), chemical admixture, the inclusion of nano-fillers, aggregate shape, size and grading, and aggregate-to-cement ratio. The range of yield stress and plastic viscosity are discussed for the 3D printable mixes. Recommendations are provided to improve the process and quality of 3D concrete printing. State-of-the-art applications and the potential of this technology to manufacture natureinspired material architectures with superior toughness is highlighted.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "139 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
@@ -210,8 +187,8 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "65 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
       <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
@@ -278,4 +255,34 @@ tags:
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pari_sing_bath_khan.2023.RaPoMSfEBC3P,
+      author            = "Spandana Paritala and Kailash Kumar Singaram and Indira Bathina and Mohd Ataullah Khan and Sri Kalyana Rama Jyosyula",
+      title             = "Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing: A Review",
+      doi               = "10.1016/j.conbuildmat.2023.132962",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "402",
+      pages             = "132962",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Paritala, K. K. Singaram, I. Bathina, M. A. Khan and S. K. R. Jyosyula, “Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing: A Review”, <i>Construction and Building Materials</i>, vol. 402, p. 132962, 2023, doi: 10.1016/j.conbuildmat.2023.132962.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Paritala, Spandana, Kailash Kumar Singaram, Indira Bathina, Mohd Ataullah Khan, and Sri Kalyana Rama Jyosyula. “Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing: A Review”. <i>Construction and Building Materials</i> 402 (2023): 132962. https://doi.org/10.1016/j.conbuildmat.2023.132962.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

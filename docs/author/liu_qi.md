@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Liu Qi 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_han_liu_yang.2025.Rot3PPaFSoCMiLG/">Research on the 3D Printing Process and Filament Shape of Cementitious Materials in Low Gravity</a></li>
   <li><a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a>, <a href="../../../author/feng_pan"><b>Feng</b> Pan</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/liu_zhaolong"><b>Liu</b> Zhaolong</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../shao_feng_liu_liu.2024.IitPoPMUISP/">Improvements in the Printability of Printed Mortar Using In-Situ Polymerization</a></li>
   <li><a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a>, <a href="../../../author/liu_zhaolong"><b>Liu</b> Zhaolong</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/wang_haochuan"><b>Wang</b> Haochuan</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../shao_liu_liu_wang.2024.ANStE3PoCBM/">A New Strategy to Enhance 3D Printability of Cement-Based Materials:<br/>In-Situ Polymerization</a></li>

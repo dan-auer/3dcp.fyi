@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hou-Qi Sun, Jun-Jie Zeng, Yan Zhuge, Yue Liu
+    - footer
+title: Sun Hou-Qi, Zeng Jun-Jie, Zhuge Yan, Liu Yue
 description:
 tags:
  - bending
@@ -16,32 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Functionally Graded Concrete Plates:<br/>:aca-blank: Concept and Bending Tests ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/978-981-96-4698-2_53" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-4698-2_53</a>
+#3D Printed Functionally Graded Concrete Plates&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Concept and Bending Tests</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-4698-2_53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-4698-2_53" target="_blank">10.1007/978-981-96-4698-2_53</a>
 
--------------------------
+<a href="../../../author/sun_hou-qi"><b>Sun</b>&nbsp;Hou-Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span>, <a href="../../../author/liu_yue"><b>Liu</b>&nbsp;Yue</a></span><br>
+Contribution - Proceedings of the 1st International Conference on Engineering Structures, pp. 549-556
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>
-,     <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> <a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> <a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_yue"><b>Liu</b> Yue</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st International Conference on Engineering Structures, pp. 549-556
-
-:aca-blank:{ .lg .middle}
-    [`#bending`](keyword/bending)
-    [`#concept`](keyword/concept)
-    [`#concrete`](keyword/concrete)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#plate`](keyword/plate)
-    [`#print`](keyword/print)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/plate"><button class="btn">#plate</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Functionally%20Graded%20Concrete%20Plates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009242113&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411355383" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-4698-2_53" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-4698-2_53?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the advancement of Additive Manufacturing (AM) technology, BigAreaAdditiveManufacturing (BAAM)has been widely applied in automotive, construction, and other engineering fields. Like other Materials Extrusion Additive Manufacturing (MEAM) technologies, the quality of bonding between extruded filaments is crucial to the mechanical properties of the parts. Fibers are added to polymer materials to improve strength and stiffness, introducing challenges like the effects of fiber distribution and orientation on bonding quality. This study presents a bonding strength prediction model for glass fiberreinforced acrylonitrile-styrene-acrylate (ASA) materials, addressing the entire bonding and BAAM process characteristics. Infrared temperature measurement and quasi-static tensile tests systematically identified temperature-time curves and fracture strength data at various printing cycle. Based on polymer healing theory and incorporating BAAM process characteristics, a suitable bonding model for BAAM has been established. Multiple fitting methods established key parameters of the model, enabling precise predictions of bonding strength under varying printing cycle conditions and analysis of parameter impacts at different bonding stages. Research findings demonstrate that: 1) After printed, the temperature of extruded filaments drops quickly to ambient levels, while new filament printing periodically elevates temperatures. Shorter the printing cycles significantly increase temperature and decelerate cooling. 2) Longer printing cycles reduce bonding temperatures, correspondingly diminishing bonding strength. 3) The BAAM bonding model precisely forecasts bonding strength for various printing cycle, with the model achieving a coefficient of determination (R2) of 0.9822. This study not only validates the effectiveness of the BAAM Bond bonding model but also provides theoretical support for optimizing the BAAM process. This contributes to improving the mechanical performance and application reliability ofprinted parts, promoting the broader application ofadditive manufacturing technology in construction and other fields.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../gao_chen_chen_yu.2023.TaMPo3PFGC/">Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete:<br/>The Role of SAC on the Rheology and Phase Evolution of 3DPC</a></li>
@@ -94,7 +73,38 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sun_zeng_zhug_liu.2025.3PFGCP,
+      author            = "Hou-Qi Sun and Jun-Jie Zeng and Yan Zhuge and Yue Liu",
+      title             = "3D Printed Functionally Graded Concrete Plates: Concept and Bending Tests",
+      doi               = "10.1007/978-981-96-4698-2_53",
+      year              = "2025",
+      volume            = "599",
+      pages             = "549--556",
+      booktitle         = "Proceedings of the 1st International Conference on Engineering Structures",
+      editor            = "Jie Yang and Jiyang Fu and Airong Liu and Ching Tai Ng",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H.-Q. Sun, J.-J. Zeng, Y. Zhuge and Y. Liu, “3D Printed Functionally Graded Concrete Plates: Concept and Bending Tests”, in <i>Proceedings of the 1st International Conference on Engineering Structures</i>,  2025, vol. 599, pp. 549–556. doi: 10.1007/978-981-96-4698-2_53.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Hou-Qi, Jun-Jie Zeng, Yan Zhuge, and Yue Liu. “3D Printed Functionally Graded Concrete Plates: Concept and Bending Tests”. In <i>Proceedings of the 1st International Conference on Engineering Structures</i>, edited by Jie Yang, Jiyang Fu, Airong Liu, and Ching Tai Ng, 599:549–56, 2025. https://doi.org/10.1007/978-981-96-4698-2_53.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

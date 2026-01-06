@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: M. Salaimanimagudam, Jaganathan Jayaprakash
+    - footer
+title: Salaimanimagudam M., Jayaprakash Jaganathan
 description:
 tags:
  - beam
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.istruc.2025.108892" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.108892</a>
+#Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.108892" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.108892" target="_blank">10.1016/j.istruc.2025.108892</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b>&nbsp;Jaganathan</a></span><br>
+Journal Article - Structures, Vol. 76, No. 108892
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> <a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 76, No. 108892
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#concrete`](keyword/concrete)
-    [`#lattice`](keyword/lattice)
-    [`#optimization`](keyword/optimization)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#synergy`](keyword/synergy)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Potential%20of%20Topology%20Optimization%20and%20Lattice%20Structures%20in%20Concrete%203D%20Printed%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002486146&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409448417" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.108892" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.108892?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the integration of topology optimization and lattice structures in 3D-printed concrete beams to enhance structural performance and efficiency. Various beam designs, including solid, hexagon lattice, reentrant lattice, square lattice, and topology-optimized + Lattice hybrid configurations, are printed using the concrete 3D printing technique. The 3D-printed beams are tested under two-point loading to determine the load-bearing capacity, material efficiencies, and manufacturability. Results show that the topology-optimized square lattice beam achieved approximately 99.7 % of the solid beam's capacity with a 23 % reduction in material usage, while the topology-optimized reentrant lattice beam reached 95.9 % of the solid beam's capacity with an 81.1 % volume fraction. These findings demonstrate the superior performance of topology-optimized + Lattice hybrid designs in terms of load-bearing capacity and material efficiency compared to traditional solid and lattice beams. From the experimental investigation, it was also noted that no premature failure due to inter-layer delamination was observed during the testing phase.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../aram_cald_puen.2023.PMo3PCSBwRUBM/">Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -87,9 +66,40 @@ tags:
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/zhang_jiangdi"><b>Zhang</b> Jiangdi</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ye_zhan_yu_yu.2024.FBo3PLECCESwHS/">Flexural Behaviors of 3D Printed Lightweight Engineered Cementitious Composites (ECC) Slab with Hollow Sections</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sala_jaya.2025.SPoTOaLSiC3PB,
+      author            = "M. P. Salaimanimagudam and Jaganathan Jayaprakash",
+      title             = "Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams",
+      doi               = "10.1016/j.istruc.2025.108892",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "76",
+      pages             = "108892",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. P. Salaimanimagudam  and J. Jayaprakash, “Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams”, <i>Structures</i>, vol. 76, p. 108892, 2025, doi: 10.1016/j.istruc.2025.108892.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Salaimanimagudam, M. P., and Jaganathan Jayaprakash. “Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams”. <i>Structures</i> 76 (2025): 108892. https://doi.org/10.1016/j.istruc.2025.108892.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

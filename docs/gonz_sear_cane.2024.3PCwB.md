@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Belén González-Fonteboa, Sindy Seara-Paz, Laura Caneda-Martínez
+    - footer
+title: González-Fonteboa Belén, Seara-Paz Sindy, Caneda-Martínez Laura
 description:
 tags:
  - byproduct
@@ -11,26 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printing Concrete with Byproducts ([2024-06](date/2024/06))
-<a href="https://doi.org/10.1016/b978-0-443-19165-7.00010-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/b978-0-443-19165-7.00010-1</a>
+#3D Printing Concrete with Byproducts ([2024-06](date/2024/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-19165-7.00010-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-19165-7.00010-1" target="_blank">10.1016/b978-0-443-19165-7.00010-1</a>
 
--------------------------
+<a href="../../../author/gonzalez-fonteboa_belen"><b>González-Fonteboa</b>&nbsp;Belén</a></span>, <a href="../../../author/seara-paz_sindy"><b>Seara-Paz</b>&nbsp;Sindy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6423-9876" title="ORCID: 0000-0002-6423-9876" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b>&nbsp;Laura</a></span><br>
+Contribution - The Path to Green Concrete, pp. 199-239
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gonzalez-fonteboa_belen"><b>González-Fonteboa</b> Belén</a>
-,     <a href="../../../author/seara-paz_sindy"><b>Seara-Paz</b> Sindy</a>
-,     <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a> <a href="https://orcid.org/0000-0002-6423-9876" title="ORCID: 0000-0002-6423-9876" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - The Path to Green Concrete, pp. 199-239
-
-:aca-blank:{ .lg .middle}
-    [`#byproduct`](keyword/byproduct)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/byproduct"><button class="btn">#byproduct</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Concrete%20with%20Byproducts" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199062108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399433696" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/b978-0-443-19165-7.00010-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/b978-0-443-19165-7.00010-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of 3D printing concrete is a promising technique that may change the construction field and the way to build. One of the most important issues to get an optimal 3D printing concrete is the suitable mix design and the specific requirements in terms of extrudability, buildability and pumpability. The mixes for 3D printable concrete usually incorporate high binder content and a great volume of fine aggregates. The use of industrial byproducts in 3D printing technology is a promising option to move this field towards sustainability. In this regard, some authors have analysed the use of alternative raw materials with low environmental impact replacing aggregates and supplementary cementitious materials (SCMs). This study focuses on the analysis of using alternative aggregates replacing conventional ones and the substitution of cement by SCMs derived from industrial byproducts for 3D printing concrete. Based on the literature, the advantages and limitations of using these wastes have been determined in relation to rheological properties, hardened properties and durability of concrete. Finally, the implementation of nonconventional wastes as SCMs for 3D printing was also analysed. As a result, these studies have proved that the incorporation of alternative aggregates in 3D printing applications is possible if the replacement percentage is limited to the specific values previously analysed. Regarding the conventional SCMs, it has been found that their use provides numerous opportunities to control the printability of 3D concrete. Finally, the use of alternative wastes as SCMs and aggregates is still in its early stages, but promising studies are beginning to be conducted. However, a more in-depth study of their characteristics is still necessary as well as the exploration of further alternatives.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "74 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
@@ -131,7 +115,37 @@ tags:
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gonz_sear_cane.2024.3PCwB,
+      author            = "Belén González-Fonteboa and Sindy Seara-Paz and Laura Caneda-Martínez",
+      title             = "3D Printing Concrete with Byproducts",
+      doi               = "10.1016/b978-0-443-19165-7.00010-1",
+      year              = "2024",
+      pages             = "199--239",
+      booktitle         = "The Path to Green Concrete",
+      editor            = "Jorge de Brito and Francisco Agrela and Rui Vasco Silva",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. González-Fonteboa, S. Seara-Paz and L. Caneda-Martínez, “3D Printing Concrete with Byproducts”, in <i>The Path to Green Concrete</i>,  2024, pp. 199–239. doi: 10.1016/b978-0-443-19165-7.00010-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">González-Fonteboa, Belén, Sindy Seara-Paz, and Laura Caneda-Martínez. “3D Printing Concrete with Byproducts”. In <i>The Path to Green Concrete</i>, edited by Jorge de Brito, Francisco Agrela, and Rui Vasco Silva, 199–239, 2024. https://doi.org/10.1016/b978-0-443-19165-7.00010-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

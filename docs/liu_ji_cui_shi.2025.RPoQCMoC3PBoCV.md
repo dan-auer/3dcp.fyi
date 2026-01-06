@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenliang Liu, Dongsheng Ji, Weijiu Cui, Xinyu Shi, Chao Liu, Yaxin Tao
+    - footer
+title: Liu Wenliang, Ji Dongsheng, Cui Weijiu, Shi Xinyu, Liu Chao, Tao Yaxin
 description:
 tags:
  - base
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/978-981-96-5693-6_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-5693-6_29</a>
+#Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-5693-6_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-5693-6_29" target="_blank">10.1007/978-981-96-5693-6_29</a>
 
--------------------------
+<a href="../../../author/liu_wenliang"><b>Liu</b>&nbsp;Wenliang</a></span>, <a href="../../../author/ji_dongsheng"><b>Ji</b>&nbsp;Dongsheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
+Contribution - Advances in Computer Science and Ubiquitous Computing, pp. 186-191
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>
-,     <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>
-,     <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> <a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> <a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Advances in Computer Science and Ubiquitous Computing, pp. 186-191
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#quality`](keyword/quality)
-    [`#vision`](keyword/vision)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Research%20Progress%20on%20Quality%20Control%20Method%20of%20Concrete%203D%20Printing%20Based%20on%20Computer%20Vision" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006789046&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410357941" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-5693-6_29" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-5693-6_29?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, concrete 3D printing has advanced rapidly in the field of intelligent construction. However, factors such as printing materials, equipment, and processes make it challenging to control the forming quality of printed structures. As a non-contact detection method, computer vision technology has gradually been applied to defect detection for quality control in concrete 3D printing. Therefore, based on domestic and international research, this paper first reviews the key factors influencing the quality of concrete 3D printing, focusing on material properties and printing processes. Subsequently, it discusses traditional evaluation methods alongside those utilizing computer vision for assessing the quality of concrete 3D printing. Finally, the paper proposes a novel quality control approach that integrates deep learning and robotic arm control with computer vision technology. It provides a reference for the quality control and development of concrete 3D printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD/">Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection</a></li>
       <li><a href="../../../author/garcia_rill_rodrigo"><b>García</b> Rodrigo</a>, <a href="../../../author/dokladalova_eva"><b>Dokladalova</b> Eva</a>, <a href="../../../author/dokladal_petr"><b>Dokládal</b> Petr</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../garc_dokl_dokl_caro.2022.ILMo3CPUCV/">In-Line Monitoring of 3D Concrete Printing Using Computer-Vision</a></li>
@@ -89,7 +64,38 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/tan_yanke"><b>Tan</b> Yanke</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zheng_shipeng"><b>Zheng</b> Shipeng</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM/">Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing</a></li>
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zhao_wang_sun_wang.2024.AIPRTQMfAMiC/">Artificial Intelligence Powered Real-Time Quality Monitoring for Additive Manufacturing in Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{liu_ji_cui_shi.2025.RPoQCMoC3PBoCV,
+      author            = "Wenliang Liu and Dongsheng Ji and Weijiu Cui and Xinyu Shi and Chao Liu and Yaxin Tao",
+      title             = "Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision",
+      doi               = "10.1007/978-981-96-5693-6_29",
+      year              = "2025",
+      volume            = "1416",
+      pages             = "186--191",
+      booktitle         = "Advances in Computer Science and Ubiquitous Computing",
+      editor            = "Ji Su Park and David Camacho and Stefanos Gritzalis and James J. Park",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Liu, D. Ji, W. Cui, X. Shi, C. Liu and Y. Tao, “Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision”, in <i>Advances in Computer Science and Ubiquitous Computing</i>,  2025, vol. 1416, pp. 186–191. doi: 10.1007/978-981-96-5693-6_29.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Wenliang, Dongsheng Ji, Weijiu Cui, Xinyu Shi, Chao Liu, and Yaxin Tao. “Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision”. In <i>Advances in Computer Science and Ubiquitous Computing</i>, edited by Ji Su Park, David Camacho, Stefanos Gritzalis, and James J. Park, 1416:186–91, 2025. https://doi.org/10.1007/978-981-96-5693-6_29.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: B. Das, Y. Prathap, Ankit Sandeep, Keval Vaghamshi, Ranjeet Sonawane, Sanjeet Mishra, Salim Barbhuiya
+    - footer
+title: Das B., Prathap Y., Sandeep Ankit, Vaghamshi Keval, Sonawane Ranjeet, Mishra Sanjeet, Barbhuiya Salim
 description:
 tags:
  - characteristic
@@ -16,33 +17,11 @@ tags:
 
 ---
 
-# Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete ([2025-05](date/2025/05))
--------------------------
+#Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete ([2025-05](date/2025/05))
+<a href="../../../author/das_b_b"><b>Das</b>&nbsp;B.</a></span>, <a href="../../../author/prathap_y"><b>Prathap</b>&nbsp;Y.</a></span>, <a href="../../../author/sandeep_ankit"><b>Sandeep</b>&nbsp;Ankit</a></span>, <a href="../../../author/vaghamshi_v_keval"><b>Vaghamshi</b>&nbsp;Keval</a></span>, <a href="../../../author/sonawane_kalyanrao_ranjeet"><b>Sonawane</b>&nbsp;Ranjeet</a></span>, <a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b>&nbsp;Sanjeet</a></span>, <a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b>&nbsp;Salim</a></span><br>
+Contribution - Climate Resilient Construction and Building Materials
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/das_b_b"><b>Das</b> B.</a>
-,     <a href="../../../author/prathap_y"><b>Prathap</b> Y.</a>
-,     <a href="../../../author/sandeep_ankit"><b>Sandeep</b> Ankit</a>
-,     <a href="../../../author/vaghamshi_v_keval"><b>Vaghamshi</b> Keval</a>
-,     <a href="../../../author/sonawane_kalyanrao_ranjeet"><b>Sonawane</b> Ranjeet</a>
-,     <a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>
-,     <a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Climate Resilient Construction and Building Materials, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-    [`#selective`](keyword/selective)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Reviewing%20the%20Materials%20Selection%2C%20Rheology%2C%20Durability%2C%20and%20Microstructural%20Characteristics%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -57,17 +36,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review paper presents a comprehensive analysis of 3Dprinted concrete, focusing on its rheology, interlayer bond strength, microstructure characterisation, and the influence of supplementary cementitious materials (SCMs) on its durability. The rheological behaviour of the 3D-printed concrete is analysed in detail, and the effect of printing parameters such as layer height, printing speed, and nozzle diameter on the flowability and extrudability of the material is examined. The review then discusses interlayer bond strength, which is a critical factor for ensuring the structural integrity of the final product. Various approaches to enhancing interlayer bond strength, including fiber reinforcement and optimising printing parameters, are also discussed. The microstructure of 3D printed concrete is influenced by multiple factors such as printing parameters, cement type, and aggregate size, and its characterisation provides insights into the material's properties and performance. The paper discusses various techniques used to analyse the microstructure of 3D-printed concrete. Finally, the review paper addresses the influence of supplementary cementitious materials (SCMs) on the durability of 3D-printed concrete. SCMs such as fly ash, slag, and silica fumes are commonly used in concrete to improve strength, durability, and sustainability. The study examines the effect of SCMs on the mechanical properties, microstructure, and durability of 3D-printed concrete. It highlights the potential gains of using SCMs in 3D-printed concrete, including increased strength, reduced permeability, and improved resistance to environmental degradation. The findings of this study have significant implications for using 3D-printed concrete in construction applications and provide a foundation for developing new and improved 3D printing techniques and materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "60 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -129,7 +104,34 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{das_prat_sand_vagh.2025.RtMSRDaMCo3PC,
+      author            = "B. B. Das and Y. Prathap and Ankit Sandeep and Keval V. Vaghamshi and Ranjeet Kalyanrao Sonawane and Sanjeet Kumar Mishra and Salim Barbhuiya",
+      title             = "Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete",
+      year              = "2025",
+      booktitle         = "Climate Resilient Construction and Building Materials",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. B. Das, “Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete”,  2025.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Das, B. B., Y. Prathap, Ankit Sandeep, Keval V. Vaghamshi, Ranjeet Kalyanrao Sonawane, Sanjeet Kumar Mishra, and Salim Barbhuiya. “Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete”. In <i>Climate Resilient Construction and Building Materials</i>, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

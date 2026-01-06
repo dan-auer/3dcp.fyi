@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lapyote Prasittisopin, Thanut Sakdanaraseth, Vimolsiddhi Horayangkura
+    - footer
+title: Prasittisopin Lapyote, Sakdanaraseth Thanut, Horayangkura Vimolsiddhi
 description:
 tags:
  - concrete
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion ([2021-06](date/2021/06))
-<a href="https://doi.org/10.1061/(asce)ae.1943-5568.0000485" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/(asce)ae.1943-5568.0000485</a>
+#Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion ([2021-06](date/2021/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)ae.1943-5568.0000485" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)ae.1943-5568.0000485" target="_blank">10.1061/(asce)ae.1943-5568.0000485</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b>&nbsp;Lapyote</a></span>, <a href="../../../author/sakdanaraseth_thanut"><b>Sakdanaraseth</b>&nbsp;Thanut</a></span>, <a href="../../../author/horayangkura_vimolsiddhi"><b>Horayangkura</b>&nbsp;Vimolsiddhi</a></span><br>
+Journal Article - Journal of Architectural Engineering, Vol. 27, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sakdanaraseth_thanut"><b>Sakdanaraseth</b> Thanut</a>
-,     <a href="../../../author/horayangkura_vimolsiddhi"><b>Horayangkura</b> Vimolsiddhi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Architectural Engineering, Vol. 27, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#linear`](keyword/linear)
-    [`#method`](keyword/method)
-    [`#pavilion`](keyword/pavilion)
-    [`#print`](keyword/print)
-    [`#self`](keyword/self)
-    [`#support`](keyword/support)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/linear"><button class="btn">#linear</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/pavilion"><button class="btn">#pavilion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Construction%20Method%20of%20a%203D%20Concrete%20Printing%20Self-Supporting%20Curvi-Linear%20Pavilion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85107408298&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3167790017" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/(asce)ae.1943-5568.0000485" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/(asce)ae.1943-5568.0000485?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the architectural design field, a practical challenge when producing curvilinear geometry with concrete remains. Currently, the use of three-dimensional printing (3DP) technology with concrete during construction has become of interest for engineers and architects with the expectation to mitigate this type of challenge; however, the level of understanding of the construction process is unclear. This paper will present a case study for the design and construction process for a self-supporting curvilinear geometry architecture termed a multipurpose pavilion. The methods in the case study include computer-aided design, structural analysis, joint assembly, and site construction techniques. The results present the benefits and current limitations of the existing technology and could contribute as a method for 3DP design and construction.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "15 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>
@@ -84,8 +62,9 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "15 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
@@ -101,4 +80,34 @@ tags:
       <li><a href="../../../author/tuvayanond_wiput"><b>Tuvayanond</b> Wiput</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tuva_pras.2023.DfMaAoDFaAMiC/">Design for Manufacture and Assembly of Digital Fabrication and Additive Manufacturing in Construction:<br/>A Review</a></li>
       <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../sada_pras_pras.2024.3CP/">3D Cement Printing:<br/>DFMA Guideline of Patterned Load-Bearing Walls for Small Residential Units</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{pras_sakd_hora.2021.DaCMoa3CPSSCLP,
+      author            = "Lapyote Prasittisopin and Thanut Sakdanaraseth and Vimolsiddhi Horayangkura",
+      title             = "Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion",
+      doi               = "10.1061/(asce)ae.1943-5568.0000485",
+      year              = "2021",
+      journal           = "Journal of Architectural Engineering",
+      volume            = "27",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Prasittisopin, T. Sakdanaraseth and V. Horayangkura, “Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion”, <i>Journal of Architectural Engineering</i>, vol. 27, no. 3, 2021, doi: 10.1061/(asce)ae.1943-5568.0000485.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Prasittisopin, Lapyote, Thanut Sakdanaraseth, and Vimolsiddhi Horayangkura. “Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion”. <i>Journal of Architectural Engineering</i> 27, no. 3 (2021). https://doi.org/10.1061/(asce)ae.1943-5568.0000485.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lenganji Simwanda, Abayomi David, Perampalam Gatheeshgar, Oladimeji Olalusi, Miroslav Sykora
+    - footer
+title: Simwanda Lenganji, David Abayomi, Gatheeshgar Perampalam, Olalusi Oladimeji, Sykora Miroslav
 description:
 tags:
  - artificial
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks ([2025-10](date/2025/10))
-<a href="https://doi.org/10.3390/buildings15203794" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15203794</a>
+#Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks ([2025-10](date/2025/10))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/buildings15203794" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15203794" target="_blank">10.3390/buildings15203794</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1944-730X" title="ORCID: 0000-0002-1944-730X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/simwanda_lenganji"><b>Simwanda</b>&nbsp;Lenganji</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-9596-2948" title="ORCID: 0009-0007-9596-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/david_b_abayomi"><b>David</b>&nbsp;Abayomi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b>&nbsp;Perampalam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5297-0071" title="ORCID: 0000-0002-5297-0071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b>&nbsp;Oladimeji</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9346-3204" title="ORCID: 0000-0001-9346-3204" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sykora_miroslav"><b>Sykora</b>&nbsp;Miroslav</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 20, No. 3794
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a> <a href="https://orcid.org/0000-0002-1944-730X" title="ORCID: 0000-0002-1944-730X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a> <a href="https://orcid.org/0009-0007-9596-2948" title="ORCID: 0009-0007-9596-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> <a href="https://orcid.org/0000-0002-6595-998X" title="ORCID: 0000-0002-6595-998X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olalusi_benedict_oladimeji"><b>Olalusi</b> Oladimeji</a> <a href="https://orcid.org/0000-0002-5297-0071" title="ORCID: 0000-0002-5297-0071" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sykora_miroslav"><b>Sykora</b> Miroslav</a> <a href="https://orcid.org/0000-0001-9346-3204" title="ORCID: 0000-0001-9346-3204" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 20, No. 3794
-
-:aca-blank:{ .lg .middle}
-    [`#artificial`](keyword/artificial)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#interlayer`](keyword/interlayer)
-    [`#method`](keyword/method)
-    [`#network`](keyword/network)
-    [`#neural`](keyword/neural)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#response`](keyword/response)
-    [`#strength`](keyword/strength)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimisation%20of%20Interlayer%20Bond%20Strength%20in%203D-Printed%20Concrete%20Using%20Response%20Surface%20Methodology%20and%20Artificial%20Neural%20Networks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020017408&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415401634" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15203794" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15203794?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Enhancing interlayer bond strength remains a critical challenge in the extrusion-based 3D printing of cementitious materials. This study investigates the optimisation of interlayer bond strength in extrusion-based 3D-printed cementitious materials through a combined application of Response Surface Methodology (RSM) and Artificial Neural Networks (ANNs). Using a concise yet comprehensive dataset, RSM provided interpretable main effects, curvature, and interactions, while the ANN captured non-linearities beyond quadratic forms. Comparative analysis revealed that the RSM model achieved higher predictive accuracy (𝑅2=0.95) compared to the ANN model (𝑅2=0.87). Desirability-based optimisation confirmed the critical importance of minimising casting delays to mitigate interlayer weaknesses, with RSM suggesting a water-to-cement (W/C) ratio of approximately 0.45 and a minimal time gap of less than 5 min, while ANN predicted slightly lower optimal W/C values but with reduced reliability due to the limited dataset. Sensitivity analysis using partial dependence plots (PDPs) further highlighted that ordinary Portland cement (OPC) content and W/C ratio are the dominant factors, contributing approximately 2.0 and 1.8 MPa respectively to the variation in predicted bond strength, followed by superplasticiser dosage and silica content. Variables such as water content, viscosity-modifying agent, and time gap exhibited moderate influence, while sand and fibre content had marginal effects within the tested ranges. These results demonstrate that RSM provides robust predictive performance and interpretable optimisation guidance, while ANN offers flexible non-linear modelling but requires larger datasets to achieve stable generalisation. Integrating both methods offers a complementary pathway to advance mix design and process control strategies in 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arif_muhammad"><b>Arif</b> Muhammad</a>, <a href="../../../author/jan_faizullah"><b>Jan</b> Faizullah</a>, <a href="../../../author/rezzoug_aissa"><b>Rezzoug</b> Aïssa</a>, <a href="../../../author/afridi_ali_muhammad"><b>Afridi</b> Muhammad</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../arif_jan_rezz_afri.2024.DDMfPCSo3PFRCUIMLA/">Data-Driven Models for Predicting Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Interpretable Machine Learning Algorithms</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -97,7 +70,38 @@ tags:
       <li><a href="../../../author/wang_cheinfei"><b>Wang</b> Cheinfei</a>, <a href="../../../author/lian_junyin"><b>Lian</b> Junyin</a>, <a href="../../../author/fang_yunhui"><b>Fang</b> Yunhui</a>, <a href="../../../author/fan_guangming"><b>Fan</b> Guangming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_lian_fang_fan.2025.ROo3PCMURSM/">Rheological Optimization of 3D-Printed Cementitious Materials Using Response Surface Methodology</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM/">Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{simw_davi_gath_olal.2025.OoIBSi3PCURSMaANN,
+      author            = "Lenganji Simwanda and Abayomi B. David and Perampalam Gatheeshgar and Oladimeji Benedict Olalusi and Miroslav Sykora",
+      title             = "Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks",
+      doi               = "10.3390/buildings15203794",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "20",
+      pages             = "3794",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Simwanda, A. B. David, P. Gatheeshgar, O. B. Olalusi and M. Sykora, “Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks”, <i>Buildings</i>, vol. 15, no. 20, p. 3794, 2025, doi: 10.3390/buildings15203794.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Simwanda, Lenganji, Abayomi B. David, Perampalam Gatheeshgar, Oladimeji Benedict Olalusi, and Miroslav Sykora. “Optimisation of Interlayer Bond Strength in 3D-Printed Concrete Using Response Surface Methodology and Artificial Neural Networks”. <i>Buildings</i> 15, no. 20 (2025): 3794. https://doi.org/10.3390/buildings15203794.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

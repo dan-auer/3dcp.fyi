@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ebru Kaya, Baraka Ciza, Çağlar Yalçınkaya, Burak Felekoğlu, Halit Yazıcı, Oğuzhan Çopuroğlu
+    - footer
+title: Kaya Ebru, Ciza Baraka, Yalçınkaya Çağlar, Felekoğlu Burak, Yazıcı Halit, Çopuroğlu Oğuzhan
 description:
 tags:
  - ash
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.jobe.2025.112841" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112841</a>
+#A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112841" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112841" target="_blank">10.1016/j.jobe.2025.112841</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5020-2247" title="ORCID: 0000-0002-5020-2247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaya_ebru"><b>Kaya</b>&nbsp;Ebru</a></span>, <a href="../../../author/ciza_baraka"><b>Ciza</b>&nbsp;Baraka</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b>&nbsp;Çağlar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7426-1698" title="ORCID: 0000-0002-7426-1698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/felekoglu_burak"><b>Felekoğlu</b>&nbsp;Burak</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0921-9709" title="ORCID: 0000-0002-0921-9709" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yazici_halit"><b>Yazıcı</b>&nbsp;Halit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112841
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a> <a href="https://orcid.org/0000-0002-5020-2247" title="ORCID: 0000-0002-5020-2247" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>
-,     <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="https://orcid.org/0000-0002-7426-1698" title="ORCID: 0000-0002-7426-1698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yazici_halit"><b>Yazıcı</b> Halit</a> <a href="https://orcid.org/0000-0002-0921-9709" title="ORCID: 0000-0002-0921-9709" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112841
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#blast`](keyword/blast)
-    [`#cement`](keyword/cement)
-    [`#comparision`](keyword/comparision)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#furnace`](keyword/furnace)
-    [`#printability`](keyword/printability)
-    [`#slag`](keyword/slag)
-    [`#substitution`](keyword/substitution)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/blast"><button class="btn">#blast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/substitution"><button class="btn">#substitution</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comparative%20Study%20on%20the%20Effectiveness%20of%20Fly%20Ash%20and%20Blast%20Furnace%20Slag%20as%20Partial%20Cement%20Substitution%20in%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004658544&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410098731" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112841" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112841?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The environmental friendliness of 3D printable mixes is most likely achievable through recycling industrial waste. The effect of partially replacing ordinary Portland cement (OPC) with different ratios (0%, 20%, 40%, and 60% by weight of OPC) of fly ash (FA) and ground granulated blast furnace slag (BFS) on various properties of 3D printable concretes has been studied. The water-to-binder ratio and aggregate volume percentage were 0.3 and 41%, respectively. A standard flow-table test was conducted to adjust superplasticizer dosages for the target flow diameter in the presence of a constant viscosity modifying agent content in all mixtures. A manual injection gun was used to simulate the printing process and monitor the buildability of the mixes. A rotational rheometer was employed to measure the rheological properties. Furthermore, ram extrusion and green strength tests were conducted to quantify the time-dependent properties at early ages. Flexural and compressive strengths were assessed at 7 and 28 days of standard curing. Finally, the embodied carbon (EC) and energy (EE) were evaluated. The findings of this study highlight that at an equal flow diameter, BFS and FA inclusion significantly influence extrusion forces, open time, and green strength of printable mixtures in contrasting ways. BFS improved the green strength, buildability, and static yield stress, increasing the green strength by up to 163.41%; however, it may reduce the open time proportionally with its content. In contrast, FA replacement can extend the open time by lowering the development of extrusion force. However, FA reduced the green strength, with a decline of up to 35.4%. Both pozzolans increased the 28-day flexural and compressive strength, but this effect was not observed in the 60% fly ash-bearing mixture. Overall, BFS outperforms FA in enhancing buildability and structural performance, particularly at an early age. Incorporating BFS and FA significantly reduced carbon emissions and embodied energy, with reductions of up to 40% and 41% for BFS and 62% and 57% for FA, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "43 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -117,10 +91,40 @@ tags:
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML/">Strength Characterisation of Fly Ash Blended 3D Printed Concrete Enhanced with Explainable Machine Learning</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC,
+      author            = "Ebru Kaya and Baraka Ciza and Çağlar Yalçınkaya and Burak Felekoğlu and Halit Yazıcı and Oğuzhan Çopuroğlu",
+      title             = "A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete",
+      doi               = "10.1016/j.jobe.2025.112841",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112841",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Kaya, B. Ciza, Ç. Yalçınkaya, B. Felekoğlu, H. Yazıcı and O. Çopuroğlu, “A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete”, <i>Journal of Building Engineering</i>, p. 112841, 2025, doi: 10.1016/j.jobe.2025.112841.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kaya, Ebru, Baraka Ciza, Çağlar Yalçınkaya, Burak Felekoğlu, Halit Yazıcı, and Oğuzhan Çopuroğlu. “A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete”. <i>Journal of Building Engineering</i>, 2025, 112841. https://doi.org/10.1016/j.jobe.2025.112841.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

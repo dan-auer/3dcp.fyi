@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rijiao Yang, Yi Zhu, Yan Lan, Qiang Zeng, Yu Peng, Zhendi Wang
+    - footer
+title: Yang Rijiao, Zhu Yi, Lan Yan, Zeng Qiang, Peng Yu, Wang Zhendi
 description:
 tags:
  - cement
@@ -20,38 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding ([2022-10](date/2022/10))
-<a href="https://doi.org/10.1016/j.addma.2022.103236" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.103236</a>
+#Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding ([2022-10](date/2022/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.103236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103236" target="_blank">10.1016/j.addma.2022.103236</a>
 
--------------------------
+<a href="../../../author/yang_rijiao"><b>Yang</b>&nbsp;Rijiao</a></span>, <a href="../../../author/zhu_yi"><b>Zhu</b>&nbsp;Yi</a></span>, <a href="../../../author/lan_yan"><b>Lan</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_qiang"><b>Zeng</b>&nbsp;Qiang</a></span>, <a href="../../../author/peng_yu"><b>Peng</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhendi"><b>Wang</b>&nbsp;Zhendi</a></span><br>
+Journal Article - Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>
-,     <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>
-,     <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>
-,     <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> <a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>
-,     <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> <a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#difference`](keyword/difference)
-    [`#distribution`](keyword/distribution)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#filament`](keyword/filament)
-    [`#grain`](keyword/grain)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#matrix`](keyword/matrix)
-    [`#micro`](keyword/micro)
-    [`#mould`](keyword/mould)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Differences%20in%20Micro%20Grain%20%26%20Fiber-Distributions%20Between%20Matrix%20and%20Inter-Layer%20of%20Cementitious%20Filaments%20Affected%20by%20Extrusion-Molding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140314201&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4306853776" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.103236" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.103236?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion molding generally causes laminar structure with obvious interfaces, however, the impacts of extrusion molding on the distributions of micro grains/fibers in the matrix and interface of filaments haven’t been fully addressed. Herein, X-ray computed tomography was employed to track the cement micro particles and glass microfibers in extrusion molded cementitious composites (EMCC). Results show that small grains migrated into the interface while coarse grains stayed in the matrix of filaments. Glass microfibers in the matrix and interface were roughly parallel and perpendicular to the printing direction, respectively. The mechanisms of shearing stress gradients built in the EMCC filaments and collisions on the microfibers during pumping were proposed to account for the featured distributions and directions of the micro grains and fibers. The findings would deepen the understandings in particle redistribution in non-Newtonian liquid during extrusion molding and facilitate the design and development of 3D printing construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
@@ -113,8 +85,8 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/chen_weihua"><b>Chen</b> Weihua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW/">Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
@@ -129,4 +101,32 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../xiao_bai_wu_duan.2024.ILBSaPCo3PECC/">Inter-Layer Bonding Strength and Pore Characteristics of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM,
+      author            = "Rijiao Yang and Yi Zhu and Yan Lan and Qiang Zeng and Yu Peng and Zhendi Wang",
+      title             = "Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding",
+      doi               = "10.1016/j.addma.2022.103236",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Yang, Y. Zhu, Y. Lan, Q. Zeng, Y. Peng and Z. Wang, “Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding”, <i>Additive Manufacturing</i>, 2022, doi: 10.1016/j.addma.2022.103236.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Rijiao, Yi Zhu, Yan Lan, Qiang Zeng, Yu Peng, and Zhendi Wang. “Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding”. <i>Additive Manufacturing</i>, 2022. https://doi.org/10.1016/j.addma.2022.103236.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ji Zhou, Guanyu Hou, Xiongfei Liu, Qi Li, Li Wang, Jixiang Li
+    - footer
+title: Zhou Ji, Hou Guanyu, Liu Xiongfei, Li Qi, Wang Li, Li Jixiang
 description:
 tags:
  - base
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Properties of Spray-Based 3D Printed Micro-Cable-Reinforced Concrete ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1007/978-981-19-5217-3_95" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-19-5217-3_95</a>
+#Mechanical Properties of Spray-Based 3D Printed Micro-Cable-Reinforced Concrete ([2022-04](date/2022/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-19-5217-3_95" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-5217-3_95" target="_blank">10.1007/978-981-19-5217-3_95</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4047-146X" title="ORCID: 0000-0002-4047-146X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_ji"><b>Zhou</b>&nbsp;Ji</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0902-4899" title="ORCID: 0000-0002-0902-4899" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hou_guanyu"><b>Hou</b>&nbsp;Guanyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3995-4907" title="ORCID: 0000-0002-3995-4907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_qi"><b>Li</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9509-2520" title="ORCID: 0000-0002-9509-2520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_jixiang"><b>Li</b>&nbsp;Jixiang</a></span><br>
+Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 934-942
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_ji"><b>Zhou</b> Ji</a> <a href="https://orcid.org/0000-0002-4047-146X" title="ORCID: 0000-0002-4047-146X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hou_guanyu"><b>Hou</b> Guanyu</a> <a href="https://orcid.org/0000-0002-0902-4899" title="ORCID: 0000-0002-0902-4899" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_qi"><b>Li</b> Qi</a> <a href="https://orcid.org/0000-0002-3995-4907" title="ORCID: 0000-0002-3995-4907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="https://orcid.org/0000-0002-9509-2520" title="ORCID: 0000-0002-9509-2520" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 934-942
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cable`](keyword/cable)
-    [`#concrete`](keyword/concrete)
-    [`#mechanics`](keyword/mechanics)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#spray`](keyword/spray)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Spray-Based%203D%20Printed%20Micro-Cable-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138773016&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4294883623" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-19-5217-3_95" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-19-5217-3_95?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Spray-based 3D (S-3D) printing is an intelligent architectural technology by spraying concrete layer by layer, which can solve the problem of collaborative construction between 3D printing and reinforcement. This paper studies the feasibility of S-3D printed concrete with reinforcement. Effects of micro-cables diameters with 0.6, 0.8 and 1.0 mm on the flexural properties of S-3D printed micro-cable reinforced beams are considered. In addition, the interfacial bonding properties between micro-cable and concrete is observed by scanning electron microscope (SEM). The results showed that the ultimate flexural strength of S-3D printed micro-cable reinforced beam is improved by 43.4%–114.1% with the ductility improved by 58.4%–315.7%, respectively, which benefits the firmly bonded interface between micro-cable and concrete. This paper provides an effective method to improve the cooperation between 3D printing and reinforcement.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM/">Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>Rheological and Technological Requirements</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../freu_mai_lowk.2020.StBPoVISRitS3PP/">Studying the Bond Properties of Vertical Integrated Short Reinforcement in the Shotcrete 3D Printing Process</a></li>
@@ -90,7 +65,38 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{zhou_hou_liu_li.2023.MPoSB3PMCRC,
+      author            = "Ji Zhou and Guanyu Hou and Xiongfei Liu and Qi Li and Li Wang and Jixiang Li",
+      title             = "Mechanical Properties of Spray-Based 3D Printed Micro-Cable-Reinforced Concrete",
+      doi               = "10.1007/978-981-19-5217-3_95",
+      year              = "2023",
+      volume            = "211",
+      pages             = "934--942",
+      booktitle         = "Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City",
+      editor            = "Wei Guo and Kai Qian",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhou, G. Hou, X. Liu, Q. Li, L. Wang and J. Li, “Mechanical Properties of Spray-Based 3D Printed Micro-Cable-Reinforced Concrete”, in <i>Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City</i>,  2023, vol. 211, pp. 934–942. doi: 10.1007/978-981-19-5217-3_95.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Ji, Guanyu Hou, Xiongfei Liu, Qi Li, Li Wang, and Jixiang Li. “Mechanical Properties of Spray-Based 3D Printed Micro-Cable-Reinforced Concrete”. In <i>Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City</i>, edited by Wei Guo and Kai Qian, 211:934–42, 2023. https://doi.org/10.1007/978-981-19-5217-3_95.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

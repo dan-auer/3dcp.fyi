@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Anirban Bhowmik, Biswajoy Bhattacharjee, Prakash Sahu
+    - footer
+title: Bhowmik Anirban, Bhattacharjee Biswajoy, Sahu Prakash
 description:
 tags:
  - analysis
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Comprehensive Analysis on Material Properties and Specialized Applications in 3D Concrete Printing ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1007/978-981-96-3165-0_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-96-3165-0_10</a>
+#A Comprehensive Analysis on Material Properties and Specialized Applications in 3D Concrete Printing ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-3165-0_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-3165-0_10" target="_blank">10.1007/978-981-96-3165-0_10</a>
 
--------------------------
+<a href="../../../author/bhowmik_anirban"><b>Bhowmik</b>&nbsp;Anirban</a></span>, <a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b>&nbsp;Biswajoy</a></span>, <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b>&nbsp;Prakash</a></span><br>
+Contribution - Recent Advances in Additive Manufacturing, pp. 133-147
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bhowmik_anirban"><b>Bhowmik</b> Anirban</a>
-,     <a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b> Biswajoy</a>
-,     <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Recent Advances in Additive Manufacturing, pp. 133-147
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#application`](keyword/application)
-    [`#comprehension`](keyword/comprehension)
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Analysis%20on%20Material%20Properties%20and%20Specialized%20Applications%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006876464&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410715846" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-96-3165-0_10" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-96-3165-0_10?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is transforming the construction industry with its efficiency, sustainability, and design freedom. This review explores the technology’s core principles, including hardware, software, and calibration, as well as the diverse range of materials used. It covers post-printing processes like curing and finishing for structural integrity and aesthetics. Despite significant advantages, challenges such as high upfront costs, material limitations, and technological complexities exist. Regulatory constraints and quality control hurdles also need attention. Addressing these challenges through research and innovation is crucial for unlocking the technology’s full potential. This review serves as a guide for professionals, researchers, and policymakers, emphasizing 3DCP’s transformative potential and the need for continued development to overcome existing limitations.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
@@ -83,7 +63,37 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/ahamed_mn_n"><b>Ahamed</b> N.</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../tay_pand_ting_aham.2020.3PfSC/">3D Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{bhow_bhat_sahu.2025.ACAoMPaSAi3CP,
+      author            = "Anirban Bhowmik and Biswajoy Bhattacharjee and Prakash Kumar Sahu",
+      title             = "A Comprehensive Analysis on Material Properties and Specialized Applications in 3D Concrete Printing",
+      doi               = "10.1007/978-981-96-3165-0_10",
+      year              = "2025",
+      pages             = "133--147",
+      booktitle         = "Recent Advances in Additive Manufacturing",
+      editor            = "Manjaiah Mallaiah and Shivraman Thapliyal and Subhash Chandra Bose",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Bhowmik, B. Bhattacharjee and P. K. Sahu, “A Comprehensive Analysis on Material Properties and Specialized Applications in 3D Concrete Printing”, in <i>Recent Advances in Additive Manufacturing</i>,  2025, pp. 133–147. doi: 10.1007/978-981-96-3165-0_10.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bhowmik, Anirban, Biswajoy Bhattacharjee, and Prakash Kumar Sahu. “A Comprehensive Analysis on Material Properties and Specialized Applications in 3D Concrete Printing”. In <i>Recent Advances in Additive Manufacturing</i>, edited by Manjaiah Mallaiah, Shivraman Thapliyal, and Subhash Chandra Bose, 133–47, 2025. https://doi.org/10.1007/978-981-96-3165-0_10.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

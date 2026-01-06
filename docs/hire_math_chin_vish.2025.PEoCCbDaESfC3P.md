@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shivashankarayya Hiremath, Gururaj Mathapati, Dundesh Chiniwar, H. Vishwanatha
+    - footer
+title: Hiremath Shivashankarayya, Mathapati Gururaj, Chiniwar Dundesh, Vishwanatha H.
 description:
 tags:
  - cement
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.nature.com/articles/s41598-025-02860-9.pdf) Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1038/s41598-025-02860-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1038/s41598-025-02860-9</a>
+#Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing ([2025-05](date/2025/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-025-02860-9.pdf) <a href="https://doi.org/10.1038/s41598-025-02860-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-02860-9" target="_blank">10.1038/s41598-025-02860-9</a>
 
--------------------------
+<a href="../../../author/hiremath_shivashankarayya"><b>Hiremath</b>&nbsp;Shivashankarayya</a></span>, <a href="../../../author/mathapati_shrishail_gururaj"><b>Mathapati</b>&nbsp;Gururaj</a></span>, <a href="../../../author/chiniwar_s_dundesh"><b>Chiniwar</b>&nbsp;Dundesh</a></span>, <a href="../../../author/vishwanatha_m_h"><b>Vishwanatha</b>&nbsp;H.</a></span><br>
+Journal Article - Scientific Reports, Vol. 15, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/hiremath_shivashankarayya"><b>Hiremath</b> Shivashankarayya</a>
-,     <a href="../../../author/mathapati_shrishail_gururaj"><b>Mathapati</b> Gururaj</a>
-,     <a href="../../../author/chiniwar_s_dundesh"><b>Chiniwar</b> Dundesh</a>
-,     <a href="../../../author/vishwanatha_m_h"><b>Vishwanatha</b> H.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Scientific Reports, Vol. 15, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#evaluation`](keyword/evaluation)
-    [`#extrusion`](keyword/extrusion)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20Evaluation%20of%20Cementitious%20Composites%20by%20Designing%20an%20Extrusion%20System%20for%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005589230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410588892" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1038/s41598-025-02860-9" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1038/s41598-025-02860-9?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The advancement of construction 3D printing (C3DP) relies heavily on optimizing the material formulation and hardware configuration. This study reports the development of a customized extrusion system—comprising a hopper, auger, and interchangeable nozzles— designed for use with locally sourced, cost-effective cementitious composites. A series of composite mixes were evaluated, with the CSSAW mix (cement, fine sand, fine soil, admixture, and water) exhibiting superior printability, achieving a slump height of 27 cm after 30 min and maintaining structural integrity across 11 printed layers. Compared to the baseline CSW mix, CSSAW showed a 92.8% improvement in flowability and a threefold enhancement in shape retention. Optimization of printing parameters, including a speed of 25 mm/s and layer height of 10 mm, further improved interlayer adhesion and surface quality. The rectangular nozzle was found to enhance deposition consistency and print stability. The findings establish a practical framework for deploying C3DP in real-world construction setups using sustainable materials and scalable extrusion systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bello_d_nicholas"><b>Bello</b> Nicholas</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bell_mema.2023.CRotTaCSo3CPoBbSC/">Comparative Review of the Technology and Case Studies of 3D Concrete Printing of Buildings by Several Companies</a></li>
@@ -101,9 +78,39 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zuo_cort_huan_chen.2024.STLS3PWSC/">Strategies Towards Large-Scale 3D Printing Without Size-Constraints</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/castro-chincho_ana"><b>Castro-Chincho</b> Ana</a>, <a href="../../../author/ivorra-martinez_juan"><b>Ivorra-Martinez</b> Juan</a>, <a href="../../../author/perejon_antonio"><b>Perejón</b> Antonio</a>, <a href="../../../author/sanchez-jimenez_e_pedro"><b>Sánchez-Jiménez</b> Pedro</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../cast_ivor_pere_sanc.2025.3PMLSfCLTES/">3D-Printed Mineral Limestone Structures for Calcium Looping Thermochemical Energy Storage:<br/>Reactivity and Performance Across Cycles</a></li>
       <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{hire_math_chin_vish.2025.PEoCCbDaESfC3P,
+      author            = "Shivashankarayya Hiremath and Gururaj Shrishail Mathapati and Dundesh S. Chiniwar and H. M. Vishwanatha",
+      title             = "Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing",
+      doi               = "10.1038/s41598-025-02860-9",
+      year              = "2025",
+      journal           = "Scientific Reports",
+      volume            = "15",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Hiremath, G. S. Mathapati, D. S. Chiniwar and H. M. Vishwanatha, “Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing”, <i>Scientific Reports</i>, vol. 15, no. 1, 2025, doi: 10.1038/s41598-025-02860-9.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Hiremath, Shivashankarayya, Gururaj Shrishail Mathapati, Dundesh S. Chiniwar, and H. M. Vishwanatha. “Performance Evaluation of Cementitious Composites by Designing an Extrusion System for Construction 3D Printing”. <i>Scientific Reports</i> 15, no. 1 (2025). https://doi.org/10.1038/s41598-025-02860-9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

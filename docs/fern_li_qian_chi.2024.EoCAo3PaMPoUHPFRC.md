@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhirwa Fernand, Yaqi Li, Qiwei Qian, Yin Chi, Zhenjun Yang
+    - footer
+title: Fernand Muhirwa, Li Yaqi, Qian Qiwei, Chi Yin, Yang Zhenjun
 description:
 tags:
  - aggregate
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.1016/j.jobe.2024.110516" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110516</a>
+#Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete ([2024-08](date/2024/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110516" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110516" target="_blank">10.1016/j.jobe.2024.110516</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9731-0245" title="ORCID: 0000-0002-9731-0245" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernand_muhirwa"><b>Fernand</b>&nbsp;Muhirwa</a></span>, <a href="../../../author/li_yaqi"><b>Li</b>&nbsp;Yaqi</a></span>, <a href="../../../author/qian_qiwei"><b>Qian</b>&nbsp;Qiwei</a></span>, <a href="../../../author/chi_yin"><b>Chi</b>&nbsp;Yin</a></span>, <a href="../../../author/yang_zhenjun"><b>Yang</b>&nbsp;Zhenjun</a></span><br>
+Journal Article - Journal of Building Engineering, No. 110516
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fernand_muhirwa"><b>Fernand</b> Muhirwa</a> <a href="https://orcid.org/0000-0002-9731-0245" title="ORCID: 0000-0002-9731-0245" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_yaqi"><b>Li</b> Yaqi</a>
-,     <a href="../../../author/qian_qiwei"><b>Qian</b> Qiwei</a>
-,     <a href="../../../author/chi_yin"><b>Chi</b> Yin</a>
-,     <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 110516
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Coarse%20Aggregates%20on%203D%20Printability%20and%20Mechanical%20Properties%20of%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202044027&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401799037" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110516" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110516?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of ultra high performance fiber reinforced concrete (UHPFRC) suffers from high shrinkage and poor interlayer properties. To mitigate these problems, this study develops new mixtures of UHPFRC materials containing coarse aggregates (CA), and critically examines their suitability for 3D printing (3DP). Totally 90 mould-cast and 3DP cylinder and beam specimens with different CA sizes (5-15mm) and CA-binder ratios (0.3-0.5) were tested under compression and bending in three directions. The internal distribution and volume fractions of steel fibers and pores and the crack trajectories were characterized and analysed by micro X-ray CT scanned 3D images with 37μm voxel resolution. The results show that adding more and bigger CAs into UHPFRC reduced the flowability but enhanced the buildability with desired extrudability achieved by adjusting 3D printing velocity. Although the compressive strength of the 3DP cylinders was 15-42% lower than that of the mould-cast ones due to higher porosities, over 100MPa strength was still achieved for all the 3DP cylinders with less than 10% anisotropy. The CT images did not show evident interlayers and interlayer delamination under compression, indicating the new 3DP mixtures and printing parameters may have highly promoted cement hydration. The flexural strength of 3DP beams was 3-34% higher than that of the cast ones, because most fibres were oriented in the printing or beam axis direction as represented by overall orientation indices calculated from CT images, thereby providing significant crack-bridging effects. The developed new mixtures are therefore well suited for 3D printing, particularly for fabrication of structural members with preferred fibre orientation, such as beams, slabs and shells.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -98,12 +72,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_weng_tian_yang.2025.3PTCEDoCUB/">3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</a></li>
       <li><a href="../../../author/qiao_zhigang"><b>Qiao</b> Zhigang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/wang_fei"><b>Wang</b> Fei</a>, <a href="../../../author/qi_yongle"><b>Qi</b> Yongle</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../qiao_li_wang_qi.2025.OTESi3PCwHCCPCM/">Optimizing Thermal Energy Storage in 3D Printed Concrete with Hollow Ceramsite Composite Phase Change Materials</a></li>
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a></li>
       <li><a href="../../../author/fernand_muhirwa"><b>Fernand</b> Muhirwa</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../fern_yang.2025.SaMBoN3UBwDSFaSFCB/">Structural and Microstructural Behavior of Novel 3DP-UHPFRC Beam with Discrete Steel-Fibers and Steel-FRP Composite Bar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fern_li_qian_chi.2024.EoCAo3PaMPoUHPFRC,
+      author            = "Muhirwa Fernand and Yaqi Li and Qiwei Qian and Yin Chi and Zhenjun Yang",
+      title             = "Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.jobe.2024.110516",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "110516",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Fernand, Y. Li, Q. Qian, Y. Chi and Z. Yang, “Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete”, <i>Journal of Building Engineering</i>, p. 110516, 2024, doi: 10.1016/j.jobe.2024.110516.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fernand, Muhirwa, Yaqi Li, Qiwei Qian, Yin Chi, and Zhenjun Yang. “Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete”. <i>Journal of Building Engineering</i>, 2024, 110516. https://doi.org/10.1016/j.jobe.2024.110516.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

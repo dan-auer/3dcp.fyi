@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Roussel Nicolas 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>
   <li><a href="../../../author/denis_l"><b>Denis</b> L.</a>, <a href="../../../author/omikrine-metalssi_o"><b>Omikrine-Metalssi</b> O.</a>, <a href="../../../author/karam-cabrerizo_r"><b>Karam-Cabrerizo</b> R.</a>, <a href="../../../author/barnes-davin_l"><b>Barnes-Davin</b> L.</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../deni_omik_kara_barn.2024.IoVEADoPCM/">Impact of Very Early-Age Drying on Printed Concrete Microstructures</a></li>

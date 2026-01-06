@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Javier Asensio, Irene Josa, Andrea Monserrat, Albert Fuente
+    - footer
+title: Asensio Javier, Josa Irene, Monserrat Andrea, Fuente Albert
 description:
 tags:
  - approach
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.202201227) 3D‐Printed Concrete Footbridges:<br/>:aca-blank: An Approach to Assess the Sustainability Performance ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1002/suco.202201227" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202201227</a>
+#3D‐Printed Concrete Footbridges&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">An Approach to Assess the Sustainability Performance</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.202201227) <a href="https://doi.org/10.1002/suco.202201227" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202201227" target="_blank">10.1002/suco.202201227</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-0558-6149" title="ORCID: 0000-0002-0558-6149" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asensio_javier"><b>Asensio</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1538-4567" title="ORCID: 0000-0002-1538-4567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/josa_irene"><b>Josa</b>&nbsp;Irene</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1480-4021" title="ORCID: 0000-0002-1480-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/monserrat_andrea"><b>Monserrat</b>&nbsp;Andrea</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fuente_albert"><b>de la&nbsp;Fuente</b>&nbsp;Albert</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/asensio_javier"><b>Asensio</b> Javier</a> <a href="https://orcid.org/0000-0002-0558-6149" title="ORCID: 0000-0002-0558-6149" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/josa_irene"><b>Josa</b> Irene</a> <a href="https://orcid.org/0000-0002-1538-4567" title="ORCID: 0000-0002-1538-4567" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/monserrat_andrea"><b>Monserrat</b> Andrea</a> <a href="https://orcid.org/0000-0002-1480-4021" title="ORCID: 0000-0002-1480-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fuente_albert"><b>de la Fuente</b> Albert</a> <a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#assessment`](keyword/assessment)
-    [`#bridge`](keyword/bridge)
-    [`#concrete`](keyword/concrete)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%E2%80%90Printed%20Concrete%20Footbridges" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171645666&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386932646" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.202201227" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.202201227?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication with concrete (DFC) is fast becoming an attractive alternative for components (i.e., façades, urban furniture) and structural typologies (i.e., short-span footbridges, columns, floor systems) for which complex geometries derived from particular aesthetical criteria and/or construction time constrictions are governing parameters. Additionally, some authors claim that this process allows improving the sustainability of structures, as less material is necessary compared to traditional concrete solutions, thus reducing greenhouse gas emissions linked to material consumption. Nonetheless, the environmental implications of DFC are still under scrutiny and remain objectively unquantified. In this study, a sustainability assessment model to allow decision-makers to evaluate and compare concrete footbridge alternatives—from the sustainability perspective—including those constructed by means of 3D printed concrete (3DPC) techniques, is presented. The proposed approach is based on the MIVES method. For this purpose, the most representative criteria and indicators of sustainability identified are measured and weighted-aggregated in a decision-making tree. The sustainability index (SI) of each alternative is the outcome derived from the application of the model, and the SI was used as reference for evaluating the alternatives. The sustainability of 3Dprinted footbridges is quantified and compared to other concrete-based solutions: traditional reinforced cast-in-place and precast concrete, as traditional solutions, and ultra-high performance precast concrete and textile-reinforced concrete, as innovative alternatives. The results of the analysis lead to conclude that 3D-printed footbridges have positive impacts on environmental and social indicators, but economic indicators still need to be improved to attain a competitive solution. The approach proposed herein to assess the sustainability of footbridges can be extended to other cases and stakeholders' preferences by adapting the components of the method to sensitivities and particular boundary conditions of other scenarios.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -92,8 +72,8 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
@@ -103,4 +83,32 @@ tags:
       <li><a href="../../../author/josa_irene"><b>Josa</b> Irene</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../josa_fuen.2024.TaMMoC/">Traditional and Modern Methods of Construction:<br/>Comparative Study of the Sustainability of Single‐Family Homes</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{asen_josa_mons_fuen.2023.3PCF,
+      author            = "Javier Asensio and Irene Josa and Andrea Monserrat and Albert de la Fuente",
+      title             = "3D‐Printed Concrete Footbridges: An Approach to Assess the Sustainability Performance",
+      doi               = "10.1002/suco.202201227",
+      year              = "2023",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Asensio, I. Josa, A. Monserrat and A. de la Fuente, “3D‐Printed Concrete Footbridges: An Approach to Assess the Sustainability Performance”, <i>Structural Concrete</i>, 2023, doi: 10.1002/suco.202201227.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Asensio, Javier, Irene Josa, Andrea Monserrat, and Albert de la Fuente. “3D‐Printed Concrete Footbridges: An Approach to Assess the Sustainability Performance”. <i>Structural Concrete</i>, 2023. https://doi.org/10.1002/suco.202201227.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

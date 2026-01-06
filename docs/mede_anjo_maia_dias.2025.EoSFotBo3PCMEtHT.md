@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Fernanda Medeiros, Marcos Anjos, José Maia, Leonardo Dias, Sandra Lucas
+    - footer
+title: Medeiros Fernanda, Anjos Marcos, Maia José, Dias Leonardo, Lucas Sandra
 description:
 tags:
  - behavior
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.143037" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.143037</a>
+#Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143037" target="_blank">10.1016/j.conbuildmat.2025.143037</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2639-2260" title="ORCID: 0000-0003-2639-2260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/medeiros_karolline_fernanda"><b>de&nbsp;Medeiros</b>&nbsp;Fernanda</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos&nbsp;Anjos</b>&nbsp;Marcos</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8440-6494" title="ORCID: 0000-0001-8440-6494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b>&nbsp;José</a></span>, <a href="../../../author/dias_s_leonardo"><b>Dias</b>&nbsp;Leonardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 492, No. 143037
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/medeiros_karolline_fernanda"><b>de Medeiros</b> Fernanda</a> <a href="https://orcid.org/0000-0003-2639-2260" title="ORCID: 0000-0003-2639-2260" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos Anjos</b> Marcos</a> <a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a> <a href="https://orcid.org/0000-0001-8440-6494" title="ORCID: 0000-0001-8440-6494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 492, No. 143037
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#exposure`](keyword/exposure)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Sisal%20Fibers%20on%20the%20Behavior%20of%203D-Printed%20Cementitious%20Mixtures%20Exposed%20to%20High%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012589945&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413037381" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.143037" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.143037?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     When exposed to high temperatures, 3D-printed cementitious composites (3DP-CC) often exhibit delamination and poor interlayer bonding. This study aims to develop a 3D-printable cementitious composite reinforced with sisal fibers (3DP-SFCC) and to experimentally evaluate the impact of elevated temperatures on the mechanical, physical, and microstructural behavior of both printed and cast specimens. The 3DP-SFCC mixtures were developed with appropriate buildability for extrusion-based printing systems, incorporating sisal fibers of 6 mm and 12 mm in length at volumetric contents of 0.5 % and 1.0 %. The mixes also included limestone filler and metakaolin. Extrudability, rheological properties, and green strength were evaluated, and physical, mechanical, and microstructural properties were assessed before and after exposure to 200, 400, 600, and 800 °C. Incorporating sisal fibers improved green strength but reduced the mechanical performance of unheated 3DP-SFCC in the hardened state. However, at high temperatures, tests demonstrated that sisal fibers prevented interlayer adhesion loss up to 400 °C, while fiber-free mixtures showed a ∼37 % reduction in interlayer adhesion at the same temperature. Sisal fibers mitigated compressive strength losses at all temperatures analyzed, reducing the strength loss from 34 % in REF-C to only 0.3 % in SF05%12 at 600 °C in the Y direction. Damage was mitigated, especially with the use of 12 mm fibers, and the impact of heating on the anisotropy induced by the 3D printing process was reduced, reinforcing that 3DP-SFCC exhibits improved performance in environments prone to elevated temperatures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
@@ -117,7 +93,37 @@ tags:
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT,
+      author            = "Fernanda Karolline de Medeiros and Marcos Alyssandro Soares dos Anjos and José Vinícius Rodrigues Maia and Leonardo S. Dias and Sandra Simaria de Oliveira Lucas",
+      title             = "Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures",
+      doi               = "10.1016/j.conbuildmat.2025.143037",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "492",
+      pages             = "143037",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. K. de Medeiros, M. A. S. dos Anjos, J. V. R. Maia, L. S. Dias and S. S. de Oliveira Lucas, “Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures”, <i>Construction and Building Materials</i>, vol. 492, p. 143037, 2025, doi: 10.1016/j.conbuildmat.2025.143037.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Medeiros, Fernanda Karolline de, Marcos Alyssandro Soares dos Anjos, José Vinícius Rodrigues Maia, Leonardo S. Dias, and Sandra Simaria de Oliveira Lucas. “Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures”. <i>Construction and Building Materials</i> 492 (2025): 143037. https://doi.org/10.1016/j.conbuildmat.2025.143037.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

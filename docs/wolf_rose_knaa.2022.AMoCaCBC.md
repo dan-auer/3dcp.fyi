@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Alexander Wolf, Philipp Rosendahl, Ulrich Knaack
+    - footer
+title: Wolf Alexander, Rosendahl Philipp, Knaack Ulrich
 description:
 tags:
  - additive
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing of Clay and Ceramic Building Components ([2021-10](date/2021/10))
-<a href="https://doi.org/10.1016/j.autcon.2021.103956" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2021.103956</a>
+#Additive Manufacturing of Clay and Ceramic Building Components ([2021-10](date/2021/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2021.103956" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103956" target="_blank">10.1016/j.autcon.2021.103956</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4114-4951" title="ORCID: 0000-0003-4114-4951" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_alexander"><b>Wolf</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6587-875X" title="ORCID: 0000-0002-6587-875X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9998-6428" title="ORCID: 0000-0001-9998-6428" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/knaack_ulrich"><b>Knaack</b>&nbsp;Ulrich</a></span><br>
+Journal Article - Automation in Construction, Vol. 133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a> <a href="https://orcid.org/0000-0003-4114-4951" title="ORCID: 0000-0003-4114-4951" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a> <a href="https://orcid.org/0000-0002-6587-875X" title="ORCID: 0000-0002-6587-875X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="https://orcid.org/0000-0001-9998-6428" title="ORCID: 0000-0001-9998-6428" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 133, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#buildability`](keyword/buildability)
-    [`#ceramic`](keyword/ceramic)
-    [`#clay`](keyword/clay)
-    [`#component`](keyword/component)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Clay%20and%20Ceramic%20Building%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117688222&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3209787019" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2021.103956" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2021.103956?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing techniques, which have been constantly evolving over the past 30 years, have also reached the construction sector, which is often slow in response to innovations. Technologies for the creation of 3D-printed concrete- or steel-structures are experiencing a market launch through the creation of the first printed buildings and bridges. Even though a variety of additive processing methods for ceramic masses have yet been researched, the state of research in the field of ceramic 3D printing for construction applications is lagging behind. This review focuses on the comparison of work in this field completed until summer 2021, as well as to contextualize the topic in relation to 3D printing and ceramic building materials per se. Finally, the findings will be used to identify potentials and strategies that could help the research topic to develop further.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/im_claire_hyeonji"><b>Im</b> Hyeonji</a>, <a href="../../../author/othman_sulaiman"><b>Othman</b> Sulaiman</a>, <a href="../../../author/castillo_luis-garcia_jose"><b>Castillo</b> Jose</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../im_othm_cast.2018.RSP/">Responsive Spatial Print:<br/>Clay 3D Printing of Spatial Lattices Using Real-Time Model-Recalibration</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -72,8 +53,8 @@ tags:
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../rael_frat.2017.CB/">Clay Bodies:<br/>Crafting the Future with 3D Printing</a></li>
       <li><a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rash_khan_gham_koc.2020.AM/">Additive Manufacturing:<br/>Technology, Applications, Markets, and Opportunities for the Built Environment</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/melero-tur_sofia"><b>Melero-Tur</b> Sofía</a>, <a href="../../../author/jimenez-guerrero_adriano"><b>Jiménez-Guerrero</b> Adriano</a>, <a href="../../../author/perez-fenoy_jose"><b>Pérez-Fenoy</b> José</a>, <a href="../../../author/barbero-barrera_mar_maria"><b>Barbero-Barrera</b> María</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mele_jime_pere_barb.2026.RItPo3PCTtIoWM/">Re-Imagining the Production of 3D Printed Ceramics Through the Incorporation of Waste Materials</a></li>
       <li><a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/al-zuriqat_thamer"><b>Al-Zuriqat</b> Thamer</a>, <a href="../../../author/noufal_mahmoud"><b>Noufal</b> Mahmoud</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pera_alz_nouf_smar.2025.ADDiCP/">Automated Defect Detection in Clay Printing</a></li>
       <li><a href="../../../author/ruckrich_stefanie"><b>Rückrich</b> Stefanie</a>, <a href="../../../author/austern_guy"><b>Austern</b> Guy</a>, <a href="../../../author/denay_ofer"><b>Denay</b> Ofer</a>, <a href="../../../author/seiwert_paul"><b>Seiwert</b> Paul</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ruck_aust_dena_seiw.2025.3PEFE/">3D-Printed Earth-Fiber Envelopes:<br/>Optimization of Thermal Performance and Industrial Applicability</a></li>
@@ -102,4 +83,33 @@ tags:
       <li><a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../rose_wolf.2022.TBCf3PitBE/">The Business Case for 3D Printing in the Built Environment</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wolf_rose_knaa.2022.AMoCaCBC,
+      author            = "Alexander Wolf and Philipp Laurens Rosendahl and Ulrich Knaack",
+      title             = "Additive Manufacturing of Clay and Ceramic Building Components",
+      doi               = "10.1016/j.autcon.2021.103956",
+      year              = "2022",
+      journal           = "Automation in Construction",
+      volume            = "133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Wolf, P. L. Rosendahl and U. Knaack, “Additive Manufacturing of Clay and Ceramic Building Components”, <i>Automation in Construction</i>, vol. 133, 2022, doi: 10.1016/j.autcon.2021.103956.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wolf, Alexander, Philipp Laurens Rosendahl, and Ulrich Knaack. “Additive Manufacturing of Clay and Ceramic Building Components”. <i>Automation in Construction</i> 133 (2022). https://doi.org/10.1016/j.autcon.2021.103956.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

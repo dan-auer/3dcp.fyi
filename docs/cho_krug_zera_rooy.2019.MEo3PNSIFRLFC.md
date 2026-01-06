@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seung Cho, Jacques Kruger, Stephan Zeranka, Algurnon Rooyen, Gideon Zijl
+    - footer
+title: Cho Seung, Kruger Jacques, Zeranka Stephan, Rooyen Algurnon, Zijl Gideon
 description:
 tags:
  - concrete
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Evaluation of 3D Printable Nano-Silica Incorporated Fiber-Reinforced Lightweight Foam-Concrete ([2019-06](date/2019/06))
-<a href="https://doi.org/10.21012/fc10.232696" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.21012/fc10.232696</a>
+#Mechanical Evaluation of 3D Printable Nano-Silica Incorporated Fiber-Reinforced Lightweight Foam-Concrete ([2019-06](date/2019/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.21012/fc10.232696" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc10.232696" target="_blank">10.21012/fc10.232696</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b>&nbsp;Stephan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rooyen_steve_algurnon"><b>van&nbsp;Rooyen</b>&nbsp;Algurnon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Contribution - Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>
-,     <a href="../../../author/rooyen_steve_algurnon"><b>van Rooyen</b> Algurnon</a> <a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#fiber`](keyword/fiber)
-    [`#foam`](keyword/foam)
-    [`#incorporation`](keyword/incorporation)
-    [`#light`](keyword/light)
-    [`#mechanics`](keyword/mechanics)
-    [`#printability`](keyword/printability)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Evaluation%20of%203D%20Printable%20Nano-Silica%20Incorporated%20Fiber-Reinforced%20Lightweight%20Foam-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,23 +40,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2949252302" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.21012/fc10.232696" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.21012/fc10.232696?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Lightweight foam concrete (LWFC) is becoming an interesting structural material. In its fresh state, LWFC is highly flowable. Modification of the rheology is required to include 3D construction printing as a production process for this class of materials. Nanoparticles have been shown to improve thixotropy of cement-based materials, characterized by a high static yield shear stress, but a distinctly lower dynamic yield shear stress. In this paper, 2% nano-silica (n-SiO2) by mass of cement content is added to LWFC, and the consequential improved 3D printability validated by actual 3D printing of laboratory specimens. A systematic experimental study is performed to characterize the mechanical strength and stiffness, as well as fracture energy of n-SiO2 LWFC, against control LWFC without n-SiO2. The n-SiO2 specimens are prepared by both casting and 3D printing, in order to also investigate the influence of the layered 3D printing process, including the cohesion of the interfaces between layers. The mechanical strength, stiffness and fracture energy of n-SiO2 LWFC are shown to be significantly higher than control LWFC specimens without nanoparticles.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../si_khan_mcna.2025.EoNSwHRoGoEMPaRo3PC/">Effect of Nano Silica with High Replacement of GGBS on Enhancing Mechanical Properties and Rheology of 3D Printed Concrete</a></li>
       <li><a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../parm_fall_moro_ferr.2024.3PMFFCBC/">3D Printed Multi-Functional Foamed Concrete Building Components:<br/>Material-Properties, Component Design, and 3D Printing Application</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
@@ -89,4 +64,33 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/crupi_giuseppe"><b>Crupi</b> Giuseppe</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../fall_crup_dome_ricc.2020.IotRBoLFCf3PA/">Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{cho_krug_zera_rooy.2019.MEo3PNSIFRLFC,
+      author            = "Seung Cho and Jacques Pienaar Kruger and Stephan Zeranka and Algurnon Steve van Rooyen and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Mechanical Evaluation of 3D Printable Nano-Silica Incorporated Fiber-Reinforced Lightweight Foam-Concrete",
+      doi               = "10.21012/fc10.232696",
+      year              = "2019",
+      booktitle         = "Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures",
+      editor            = "International Association of Fracture Mechanics for Concrete and Concrete Structures",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Cho, J. P. Kruger, S. Zeranka, A. S. van Rooyen and G. P. A. G. van Zijl, “Mechanical Evaluation of 3D Printable Nano-Silica Incorporated Fiber-Reinforced Lightweight Foam-Concrete”, in <i>Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures</i>,  2019. doi: 10.21012/fc10.232696.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cho, Seung, Jacques Pienaar Kruger, Stephan Zeranka, Algurnon Steve van Rooyen, and Gideon Pieter Adriaan Greeff van Zijl. “Mechanical Evaluation of 3D Printable Nano-Silica Incorporated Fiber-Reinforced Lightweight Foam-Concrete”. In <i>Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures</i>, edited by International Association of Fracture Mechanics for Concrete and Concrete Structures, 2019. https://doi.org/10.21012/fc10.232696.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

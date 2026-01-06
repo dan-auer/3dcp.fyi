@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Takato Ishida, Kiyofumi Nakada
+    - footer
+title: Ishida Takato, Nakada Kiyofumi
 description:
 tags:
  - application
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.jstage.jst.go.jp/article/rheology/51/1/51_1/_pdf) Review of Rheology in Cement-Based Materials and Its Application to 3D Printing Using Concrete ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1678/rheology.51.1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1678/rheology.51.1</a>
+#Review of Rheology in Cement-Based Materials and Its Application to 3D Printing Using Concrete ([2023-02](date/2023/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.jstage.jst.go.jp/article/rheology/51/1/51_1/_pdf) <a href="https://doi.org/10.1678/rheology.51.1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1678/rheology.51.1" target="_blank">10.1678/rheology.51.1</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3919-2348" title="ORCID: 0000-0003-3919-2348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ishida_takato"><b>Ishida</b>&nbsp;Takato</a></span>, <a href="../../../author/nakada_kiyofumi"><b>Nakada</b>&nbsp;Kiyofumi</a></span><br>
+Journal Article - Journal of the Society of Rheology, Vol. 51, Iss. 1, pp. 1-8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ishida_takato"><b>Ishida</b> Takato</a> <a href="https://orcid.org/0000-0003-3919-2348" title="ORCID: 0000-0003-3919-2348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nakada_kiyofumi"><b>Nakada</b> Kiyofumi</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of the Society of Rheology, Vol. 51, Iss. 1, pp. 1-8
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Review%20of%20Rheology%20in%20Cement-Based%20Materials%20and%20Its%20Application%20to%203D%20Printing%20Using%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152092042&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4324137071" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1678/rheology.51.1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1678/rheology.51.1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This review briefly summarizes introductory understandings of concrete rheology and applications in which rheology plays an important role. A mixture of cement and water is the rheological material classified as dispersed systems involving chemical reactions, and it has been considered the most challenging research subject in the field of rheology. This review introduces the most crucial chemical admixture for fresh concrete controlling rheological properties (so-called superplasti- cizer) after summarizing the fundamental knowledge of concrete rheology. In addition, recent research trends on 3D print- ing using concrete, riddled with rheological challenges, are introduced.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jaya_raje_sanj.2021.ERf3CP/">Extrusion Rheometer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
@@ -80,8 +60,39 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/xu_zhisong"><b>Xu</b> Zhisong</a>, <a href="../../../author/li_zhuguo"><b>Li</b> Zhuguo</a>, <a href="../../../author/jiang_fei"><b>Jiang</b> Fei</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../xu_li_jian.2022.NAtPFoFCBoMM/">Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/gao_yang"><b>Gao</b> Yang</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/jiao_huazhe"><b>Jiao</b> Huazhe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_gao_chen_jiao.2024.3PCTfaRP/">3D Printing Concrete Technology from a Rheology Perspective:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ishi_naka.2023.RoRiCBMaIAt3PUC,
+      author            = "Takato Ishida and Kiyofumi Nakada",
+      title             = "Review of Rheology in Cement-Based Materials and Its Application to 3D Printing Using Concrete",
+      doi               = "10.1678/rheology.51.1",
+      year              = "2023",
+      journal           = "Journal of the Society of Rheology",
+      volume            = "51",
+      number            = "1",
+      pages             = "1--8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ishida  and K. Nakada, “Review of Rheology in Cement-Based Materials and Its Application to 3D Printing Using Concrete”, <i>Journal of the Society of Rheology</i>, vol. 51, no. 1, pp. 1–8, 2023, doi: 10.1678/rheology.51.1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ishida, Takato, and Kiyofumi Nakada. “Review of Rheology in Cement-Based Materials and Its Application to 3D Printing Using Concrete”. <i>Journal of the Society of Rheology</i> 51, no. 1 (2023): 1–8. https://doi.org/10.1678/rheology.51.1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

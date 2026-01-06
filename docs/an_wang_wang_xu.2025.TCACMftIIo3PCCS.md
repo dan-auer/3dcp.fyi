@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ning An, Huai Wang, Peijun Wang, Chuanhua Xu, Mei Liu
+    - footer
+title: An Ning, Wang Huai, Wang Peijun, Xu Chuanhua, Liu Mei
 description:
 tags:
  - anisotropy
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Tension-Compression Anisotropic Cohesion Model for the Interlayer Interface of 3D-Printed Concrete Compression Specimens ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112800" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112800</a>
+#Tension-Compression Anisotropic Cohesion Model for the Interlayer Interface of 3D-Printed Concrete Compression Specimens ([2025-04](date/2025/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112800" target="_blank">10.1016/j.jobe.2025.112800</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9627-162X" title="ORCID: 0000-0001-9627-162X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_ning"><b>An</b>&nbsp;Ning</a></span>, <a href="../../../author/wang_huai"><b>Wang</b>&nbsp;Huai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <a href="../../../author/xu_chuanhua"><b>Xu</b>&nbsp;Chuanhua</a></span>, <a href="../../../author/liu_mei"><b>Liu</b>&nbsp;Mei</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112800
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/an_ning"><b>An</b> Ning</a> <a href="https://orcid.org/0000-0001-9627-162X" title="ORCID: 0000-0001-9627-162X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>
-,     <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> <a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_chuanhua"><b>Xu</b> Chuanhua</a>
-,     <a href="../../../author/liu_mei"><b>Liu</b> Mei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112800
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#cohesion`](keyword/cohesion)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#interface`](keyword/interface)
-    [`#interlayer`](keyword/interlayer)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#specimen`](keyword/specimen)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tension-Compression%20Anisotropic%20Cohesion%20Model%20for%20the%20Interlayer%20Interface%20of%203D-Printed%20Concrete%20Compression%20Specimens" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003948136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409867053" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112800" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112800?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Several issues exist with the cohesive model used to simulate the interlayer characteristics of 3D-printed concrete compression specimens: the accuracy of anisotropic simulation is low, cohesion model parameters are difficult to obtain, and the study of these parameters on anisotropic effects is insufficient. This study proposes a tension-compression anisotropic cohesive model to address the limitation of the traditional isotropic model, which lacks dedicated compressive stiffness when applied to printed concrete compression specimens. To obtain suitable model parameters, a parameter inversion framework is proposed, utilizing compression test data from printed specimens. To evaluate the impact of the cohesive model parameters, the SHapley Additive exPlanations method is employed to explore their effects on anisotropy. Results demonstrate that the framework accurately captures the anisotropy of 3D-printed concrete, achieving a relative error below 0.5%. Parametric analysis reveals that when loaded in the horizontal printing direction, the key parameter of the cohesive model is the compressive stiffness, whereas when loaded in the vertical direction, the key parameters are the compressive stiffness and shear stiffness. The cohesion model, inversion framework, and findings provide valuable research approaches and a more comprehensive understanding of the compression performance of 3D-printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/zheng_dapeng"><b>Zheng</b> Dapeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cao_yu_zhen_cui.2022.NPtEtIBSi3PC/">Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../demi_ozka_sahi_ilca.2022.MAEaBPo3PCaDWBGM/">Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars</a></li>
@@ -95,8 +70,37 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{an_wang_wang_xu.2025.TCACMftIIo3PCCS,
+      author            = "Ning An and Huai Wang and Peijun Wang and Chuanhua Xu and Mei Liu",
+      title             = "Tension-Compression Anisotropic Cohesion Model for the Interlayer Interface of 3D-Printed Concrete Compression Specimens",
+      doi               = "10.1016/j.jobe.2025.112800",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112800",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. An, H. Wang, P. Wang, C. Xu and M. Liu, “Tension-Compression Anisotropic Cohesion Model for the Interlayer Interface of 3D-Printed Concrete Compression Specimens”, <i>Journal of Building Engineering</i>, p. 112800, 2025, doi: 10.1016/j.jobe.2025.112800.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">An, Ning, Huai Wang, Peijun Wang, Chuanhua Xu, and Mei Liu. “Tension-Compression Anisotropic Cohesion Model for the Interlayer Interface of 3D-Printed Concrete Compression Specimens”. <i>Journal of Building Engineering</i>, 2025, 112800. https://doi.org/10.1016/j.jobe.2025.112800.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tharun Kumar Devalla, Dodda Srinivas, Biranchi Panda, Thallak Sitharam
+    - footer
+title: Kumar Devalla Tharun, Srinivas Dodda, Panda Biranchi, Sitharam Thallak
 description:
 tags:
  - cement
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation on the Flexural and Tensile Performance of 3D Printable Cementitious Mixtures Considering the Effect of Fiber-Distribution ([2023-04](date/2023/04))
-<a href="https://doi.org/10.1016/j.matpr.2023.04.081" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matpr.2023.04.081</a>
+#Investigation on the Flexural and Tensile Performance of 3D Printable Cementitious Mixtures Considering the Effect of Fiber-Distribution ([2023-04](date/2023/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.04.081" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.04.081" target="_blank">10.1016/j.matpr.2023.04.081</a>
 
--------------------------
+<a href="../../../author/kumar-devalla_tharun"><b>Kumar Devalla</b>&nbsp;Tharun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srinivas_dodda"><b>Srinivas</b>&nbsp;Dodda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sitharam_g_thallak"><b>Sitharam</b>&nbsp;Thallak</a></span><br>
+Journal Article - Materials Today: Proceedings
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kumar-devalla_tharun"><b>Kumar Devalla</b> Tharun</a>
-,     <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> <a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today: Proceedings, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#distribution`](keyword/distribution)
-    [`#effect`](keyword/effect)
-    [`#fiber`](keyword/fiber)
-    [`#flexural`](keyword/flexural)
-    [`#investigation`](keyword/investigation)
-    [`#mixture`](keyword/mixture)
-    [`#performance`](keyword/performance)
-    [`#printability`](keyword/printability)
-    [`#tension`](keyword/tension)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20the%20Flexural%20and%20Tensile%20Performance%20of%203D%20Printable%20Cementitious%20Mixtures%20Considering%20the%20Effect%20of%20Fiber-Distribution" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152962154&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4366251079" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matpr.2023.04.081" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matpr.2023.04.081?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study aims to investigate the orientation distribution of steel fibers in 3D printed concrete. The effects of steel fiber dosage (0.0%, 0.5% & 1.0% by volume) and print speed (40 mm/s & 80 mm/s) on fiber distribution was obtained using optical microscopy in conjunction with digital image processing and a mathematical equation extracted from a trained artificial neural network model. Better fiber orientation results (within 0 – 40 degrees) is achieved while printing at 40 mm/s with 0.5% fiber dosage by volume. The compression, split tensile and flexural tests are also performed and correlated with fiber distribution. The addition of steel fibers increased the compressive, flexural, and split tensile strengths of 3D printed samples up to 24%, 143%, and 63%, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
@@ -83,8 +59,8 @@ tags:
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/motiani_ronak"><b>Motiani</b> Ronak</a>, <a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b> Saha</a>, <a href="../../../author/dalal_p_sejal"><b>Dalal</b> Sejal</a>, <a href="../../../author/vora_jay"><b>Vora</b> Jay</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../moti_sylv_dala_vora.2025.IRTf3PC/">Innovative Reinforcement Techniques for 3D-Printed Concrete:<br/>The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation</a></li>
       <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
@@ -95,4 +71,32 @@ tags:
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a></li>
       <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wars_srin_pand_bisw.2024.ItIoCADotMPo3PC/">Investigating the Impact of Coarse Aggregate Dosage on the Mechanical Performance of 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kuma_srin_pand_sith.2023.IotFaTPo3PCMCtEoFD,
+      author            = "Tharun Kumar Devalla and Dodda Srinivas and Biranchi Narayan Panda and Thallak G. Sitharam",
+      title             = "Investigation on the Flexural and Tensile Performance of 3D Printable Cementitious Mixtures Considering the Effect of Fiber-Distribution",
+      doi               = "10.1016/j.matpr.2023.04.081",
+      year              = "2023",
+      journal           = "Materials Today: Proceedings",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. K. Devalla, D. Srinivas, B. N. Panda and T. G. Sitharam, “Investigation on the Flexural and Tensile Performance of 3D Printable Cementitious Mixtures Considering the Effect of Fiber-Distribution”, <i>Materials Today: Proceedings</i>, 2023, doi: 10.1016/j.matpr.2023.04.081.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Devalla, Tharun Kumar, Dodda Srinivas, Biranchi Narayan Panda, and Thallak G. Sitharam. “Investigation on the Flexural and Tensile Performance of 3D Printable Cementitious Mixtures Considering the Effect of Fiber-Distribution”. <i>Materials Today: Proceedings</i>, 2023. https://doi.org/10.1016/j.matpr.2023.04.081.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

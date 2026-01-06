@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Billy Kazadi, Liang Yao, Li Wang
+    - footer
+title: Kazadi Billy, Yao Liang, Wang Li
 description:
 tags:
  - challenge
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Process Reinforcement Method for 3D Concrete Printing:<br/>:aca-blank: Status, Potentials and Challenges ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1007/978-981-19-5217-3_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-19-5217-3_39</a>
+#In-Process Reinforcement Method for 3D Concrete Printing&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">Status, Potentials and Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-19-5217-3_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-5217-3_39" target="_blank">10.1007/978-981-19-5217-3_39</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0073-041X" title="ORCID: 0000-0003-0073-041X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazadi_kanyiki_billy"><b>Kazadi</b>&nbsp;Billy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5849-4072" title="ORCID: 0000-0001-5849-4072" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_liang"><b>Yao</b>&nbsp;Liang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span><br>
+Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 394-402
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kazadi_kanyiki_billy"><b>Kazadi</b> Billy</a> <a href="https://orcid.org/0000-0003-0073-041X" title="ORCID: 0000-0003-0073-041X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yao_liang"><b>Yao</b> Liang</a> <a href="https://orcid.org/0000-0001-5849-4072" title="ORCID: 0000-0001-5849-4072" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 394-402
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#method`](keyword/method)
-    [`#potential`](keyword/potential)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Process%20Reinforcement%20Method%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138819553&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4294883802" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-19-5217-3_39" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-19-5217-3_39?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3Dconcrete printing (3DCP)as a revolutionary technology has reached the construction industry with numerous achievements. While the key to promote the structural application of 3D printing lie in the effective reinforcement approaches that ensure the mechanical capacities of printed structures. Many researchers have tried to find solutions to reinforce 3D concrete printing elements. Hence, the need to review the different types of in-process reinforcement solutions based on their mechanical performances, their application process challenges, and their performance on different structures. Our primary focus is to examine ten different reinforcement solutions used in 3D concrete printing over the past ten years. This paper shows the improvement of each reinforcement strategy over time and propose a reinforcement solution that can be considered for future research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../freu_mai_lowk.2020.StBPoVISRitS3PP/">Studying the Bond Properties of Vertical Integrated Short Reinforcement in the Shotcrete 3D Printing Process</a></li>
@@ -78,8 +59,39 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shenawa_amaal"><b>Shenawa</b> Amaal</a>, <a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b> Poonam</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../shen_karo.2023.3PiCMCSaTPR/">3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{kaza_yao_wang.2023.IPRMf3CP,
+      author            = "Billy Kanyiki Kazadi and Liang Yao and Li Wang",
+      title             = "In-Process Reinforcement Method for 3D Concrete Printing: Status, Potentials and Challenges",
+      doi               = "10.1007/978-981-19-5217-3_39",
+      year              = "2023",
+      volume            = "211",
+      pages             = "394--402",
+      booktitle         = "Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City",
+      editor            = "Wei Guo and Kai Qian",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. K. Kazadi, L. Yao and L. Wang, “In-Process Reinforcement Method for 3D Concrete Printing: Status, Potentials and Challenges”, in <i>Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City</i>,  2023, vol. 211, pp. 394–402. doi: 10.1007/978-981-19-5217-3_39.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kazadi, Billy Kanyiki, Liang Yao, and Li Wang. “In-Process Reinforcement Method for 3D Concrete Printing: Status, Potentials and Challenges”. In <i>Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City</i>, edited by Wei Guo and Kai Qian, 211:394–402, 2023. https://doi.org/10.1007/978-981-19-5217-3_39.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

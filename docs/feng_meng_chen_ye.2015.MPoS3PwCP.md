@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Peng Feng, Xinmiao Meng, Jian-Fei Chen, Lieping Ye
+    - footer
+title: Feng Peng, Meng Xinmiao, Chen Jian-Fei, Ye Lieping
 description:
 tags:
  - cement
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://pure.qub.ac.uk/files/30628125/Mechanical_properties.pdf) Mechanical Properties of Structures 3D Printed with Cementitious Powders ([2015-06](date/2015/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2015.05.132" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2015.05.132</a>
+#Mechanical Properties of Structures 3D Printed with Cementitious Powders ([2015-06](date/2015/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://pure.qub.ac.uk/files/30628125/Mechanical_properties.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2015.05.132" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2015.05.132" target="_blank">10.1016/j.conbuildmat.2015.05.132</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_peng"><b>Feng</b>&nbsp;Peng</a></span>, <a href="../../../author/meng_xinmiao"><b>Meng</b>&nbsp;Xinmiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0501-3797" title="ORCID: 0000-0002-0501-3797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_jian-fei"><b>Chen</b>&nbsp;Jian-Fei</a></span>, <a href="../../../author/ye_lieping"><b>Ye</b>&nbsp;Lieping</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 93, pp. 486-497
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>
-,     <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a> <a href="https://orcid.org/0000-0002-0501-3797" title="ORCID: 0000-0002-0501-3797" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 93, pp. 486-497
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#mechanics`](keyword/mechanics)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Structures%203D%20Printed%20with%20Cementitious%20Powders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84935001230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,25 +36,21 @@ tags:
 <a href="https://inciteful.xyz/p/W877336968" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2015.05.132" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2015.05.132?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The three dimensional (3D) printing technology has undergone rapid development in the last few years and it is now possible to print engineering structures. This paper presents a study of the mechanical behavior of 3D printed structures using cementitious powder. Microscopic observation reveals that the 3D printed products have a layered orthotropic microstructure, in which each layer consists of parallel strips. Compression and flexural tests were conducted to determine the mechanical properties and failure characteristics of such materials. The test results confirmed that the 3D printed structures are laminated with apparent orthotropy. Based on the experimental results, a stress–strain relationship and a failure criterion based on the maximum stress criterion for orthotropic materials are proposed for the structures of 3D printed material. Finally, a finite element analysis was conducted for a 3D printed shell structure, which shows that the printing direction has a significant influence on the load bearing capacity of the structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "5 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> <a href="../../../date/2013/09">(2013-09)</a><br><a href="../../../khos_than_yuan_zhan.2013.AiCCTfESIB/">Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "225 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>
       <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b> G.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../jana_gane.2025.SEoPFotSaDPo3PC/">Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete</a></li>
@@ -297,4 +277,34 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{feng_meng_chen_ye.2015.MPoS3PwCP,
+      author            = "Peng Feng and Xinmiao Meng and Jian-Fei Chen and Lieping Ye",
+      title             = "Mechanical Properties of Structures 3D Printed with Cementitious Powders",
+      doi               = "10.1016/j.conbuildmat.2015.05.132",
+      year              = "2015",
+      journal           = "Construction and Building Materials",
+      volume            = "93",
+      pages             = "486--497",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Feng, X. Meng, J.-F. Chen and L. Ye, “Mechanical Properties of Structures 3D Printed with Cementitious Powders”, <i>Construction and Building Materials</i>, vol. 93, pp. 486–497, 2015, doi: 10.1016/j.conbuildmat.2015.05.132.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Feng, Peng, Xinmiao Meng, Jian-Fei Chen, and Lieping Ye. “Mechanical Properties of Structures 3D Printed with Cementitious Powders”. <i>Construction and Building Materials</i> 93 (2015): 486–97. https://doi.org/10.1016/j.conbuildmat.2015.05.132.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vladimír Šána, Jiří Litoš
+    - footer
+title: Šána Vladimír, Litoš Jiří
 description:
 tags:
  - assessment
@@ -19,33 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1 ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.istruc.2025.109603" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.istruc.2025.109603</a>
+#Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1 ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109603" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109603" target="_blank">10.1016/j.istruc.2025.109603</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1303-5846" title="ORCID: 0000-0003-1303-5846" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sana_vladimir"><b>Šána</b>&nbsp;Vladimír</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5807-1237" title="ORCID: 0000-0002-5807-1237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/litos_jiri"><b>Litoš</b>&nbsp;Jiří</a></span><br>
+Journal Article - Structures, Vol. 79, No. 109603
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a> <a href="https://orcid.org/0000-0003-1303-5846" title="ORCID: 0000-0003-1303-5846" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> <a href="https://orcid.org/0000-0002-5807-1237" title="ORCID: 0000-0002-5807-1237" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structures, Vol. 79, No. 109603
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#base`](keyword/base)
-    [`#bearing`](keyword/bearing)
-    [`#capacity`](keyword/capacity)
-    [`#concrete`](keyword/concrete)
-    [`#load`](keyword/load)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#static`](keyword/static)
-    [`#structure`](keyword/structure)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Load-Bearing%20Capacity%20of%20the%203D%20Printed%20Concrete%20Structure%20Based%20on%20a%20Static%20Assessment%20and%20Load%20Test%20in%20Scale%201%3A1" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009693481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412045718" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.istruc.2025.109603" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.istruc.2025.109603?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing technology represents a modern advancement in the processing of construction materials. The presented paper addresses both static analyses, utilizing the fundamental theory of elasticity to assess the performance of this type of structure, and mechanical loading tests on a 3D-printed concrete structure. The investigated structure represents the first and unique application of 3D-printed cementitious composites in the Czech Republic. With respect to experimental investigation, large-scale experiments involving full-scale 1:1 printed structures are relatively rare in the literature so far. This study aims to address this gap in knowledge. Initially, the static evaluation of the structure was conducted based on Eurocode guidelines for critical load combinations. Given the ongoing lack of standardized protocols for assessing elements manufactured with 3D printing technologies, the structure was analysed under the assumption of a biaxial stress state. Secondly, the experimental setup was designed to replicate the terminal loading conditions that the structure would experience throughout its life-cycle. Particular forces were applied to the tested structure at precise locations, corresponding to the positions of roof trusses. In terms of horizontal deformations, the maximum displacement was recorded at location H3, with a value of approximately 1.5 mm. For vertical displacements, the greatest value was observed at location V6, near the window opening, with a displacement of nearly 2.5 mm. To further validate and identify the unknown parameters of the mixture used, additional experiments focused on the mechanical properties of the material were conducted. The results showed a 20 % increase in compressive strength at 28 days compared to the 7-day strength, while the flexural tensile strength at 28 days exhibited an increase of nearly 96 % relative to the 7-day values. The static evaluation of the load-bearing structure made from cementitious composite confirmed that it met the standards outlined in the Eurocodes. As demonstrated through both numerical analysis and experimental validation, the printed segment meets the required criteria for use in residential construction and has therefore been deemed structurally safe for application.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/bayatkashkooli_samira"><b>Bayatkashkooli</b> Samira</a>, <a href="../../../author/amirsardari_anita"><b>Amirsardari</b> Anita</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../baya_amir_raje_sanj.2024.IoALCo3PCW/">Investigation of Axial Load Capacity of 3D Printed Concrete Wall</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
@@ -106,7 +83,37 @@ tags:
       <li><a href="../../../author/zhang_ying"><b>Zhang</b> Ying</a>, <a href="../../../author/wan_zhiming"><b>Wan</b> Zhiming</a>, <a href="../../../author/wu_lei"><b>Wu</b> Lei</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_wan_wu.2021.SoMPoISPRCWwCC/">Study on Mechanical Properties of In-Situ Printed Reinforced Concrete Wall with Core Column</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sana_lito.2025.LBCot3PCSBoaSAaLTiS11,
+      author            = "Vladimír Šána and Jiří Litoš",
+      title             = "Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1",
+      doi               = "10.1016/j.istruc.2025.109603",
+      year              = "2025",
+      journal           = "Structures",
+      volume            = "79",
+      pages             = "109603",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Šána  and J. Litoš, “Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1”, <i>Structures</i>, vol. 79, p. 109603, 2025, doi: 10.1016/j.istruc.2025.109603.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Šána, Vladimír, and Jiří Litoš. “Load-Bearing Capacity of the 3D Printed Concrete Structure Based on a Static Assessment and Load Test in Scale 1:1”. <i>Structures</i> 79 (2025): 109603. https://doi.org/10.1016/j.istruc.2025.109603.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

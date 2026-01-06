@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Slava Markin, Genādijs Šahmenko, Venkatesh Nerella, Mathias Näther, Viktor Mechtcherine
+    - footer
+title: Markin Slava, Šahmenko Genādijs, Nerella Venkatesh, Näther Mathias, Mechtcherine Viktor
 description:
 tags:
  - concrete
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1088/1757-899x/660/1/012039) Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete ([2019-11](date/2019/11))
-<a href="https://doi.org/10.1088/1757-899x/660/1/012039" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/1757-899x/660/1/012039</a>
+#Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete ([2019-11](date/2019/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/660/1/012039) <a href="https://doi.org/10.1088/1757-899x/660/1/012039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/660/1/012039" target="_blank">10.1088/1757-899x/660/1/012039</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/markin_viacheslav_slava"><b>Markin</b>&nbsp;Slava</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9700-2018" title="ORCID: 0000-0001-9700-2018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b>&nbsp;Genādijs</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <a href="../../../author/nather_mathias"><b>Näther</b>&nbsp;Mathias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 660, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> <a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a> <a href="https://orcid.org/0000-0001-9700-2018" title="ORCID: 0000-0001-9700-2018" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 660, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#investigation`](keyword/investigation)
-    [`#print`](keyword/print)
-    [`#production`](keyword/production)
-    [`#suitability`](keyword/suitability)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigations%20on%20the%20Foam-Concrete%20Production%20Techniques%20Suitable%20for%203D%20Printing%20with%20Foam-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078236770&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2994034421" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/1757-899x/660/1/012039" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/1757-899x/660/1/012039?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With high thermal insulating property and low density, foam concrete has high potential in 3D-printing applications such as residential buildings. The synergy of the foam concrete and 3D-printing process pre-requisites research and optimization of foam concrete production. This paper presents investigations on the appropriateness of two different methods for production of foam concrete: 1) mixed foaming method in turbulence (colloidal) mixer and 2) mixed foaming method in cavitation disintegrator. Performance of synthetic and protein based foaming agents were examined. The dosage of the foaming agent was varied from 0.7% to 1.2% by weight of cement to produce foam concretes with densities ranging between 800 kg/m3 and 1500 kg/m3. The study shows that foaming ability of the designed concrete compositions depends primarily on their w-b ratio. Moreover, foaming with lesser dosage of foaming agent is possible when turbulence mixer is used. Furthermore, mechanical and physical properties of foam concrete, including compressive strength, bending strength, and water absorption were reported.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../fall_gugl_dome_ricc.2019.EIotMSaTCoEFCaPVoIPAi3PMIP/">Experimental Investigation on the Mechanical Strength and Thermal Conductivity of Extrudable Foamed Concrete and Preliminary Views on Its Potential Application in 3D Printed Multilayer Insulating Panels</a></li>
       <li><a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/bulgakov_alexey"><b>Bulgakov</b> Alexey</a>, <a href="../../../author/sayfeddine_daher"><b>Sayfeddine</b> Daher</a> <a href="../../../date/2015/07">(2015-07)</a><br><a href="../../../krau_otto_bulg_sayf.2018.SOo3CPUtMoC/">Strategic Optimization of 3D Concrete Printing Using the Method of CONPrint3D®</a></li>
@@ -78,8 +56,8 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../ghod_sing_sing_chow.2025.AMSMaSiCaBA/">Additively Manufactured Smart Materials and Structures in Construction and Building Applications</a></li>
       <li><a href="../../../author/liang_jingwen"><b>Liang</b> Jingwen</a>, <a href="../../../author/zeng_zuo"><b>Zeng</b> Zuo</a>, <a href="../../../author/wang_penglin"><b>Wang</b> Penglin</a>, <a href="../../../author/wang_zhongxu"><b>Wang</b> Zhongxu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lian_zeng_wang_wang.2025.ERM3PS/">Emergency Response Mobile 3D Printing System:<br/>A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a></li>
@@ -103,4 +81,34 @@ tags:
       <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../henk_talk_matt.2020.AMbEoLC/">Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>Strand Geometry, Nozzle Design and Layer Layout</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mark_ivan_fata_rei.2020.IoSBUo3PFC/">Investigation on Structural Build-Up of 3D Printable Foam-Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mark_sahm_nere_nath.2019.IotFCPTSf3PwFC,
+      author            = "Slava Viacheslav Markin and Genādijs Šahmenko and Venkatesh Naidu Nerella and Mathias Näther and Viktor Mechtcherine",
+      title             = "Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete",
+      doi               = "10.1088/1757-899x/660/1/012039",
+      year              = "2019",
+      journal           = "IOP Conference Series: Materials Science and Engineering",
+      volume            = "660",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. V. Markin, G. Šahmenko, V. N. Nerella, M. Näther and V. Mechtcherine, “Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete”, <i>IOP Conference Series: Materials Science and Engineering</i>, vol. 660, no. 1, 2019, doi: 10.1088/1757-899x/660/1/012039.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Markin, Slava Viacheslav, Genādijs Šahmenko, Venkatesh Naidu Nerella, Mathias Näther, and Viktor Mechtcherine. “Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete”. <i>IOP Conference Series: Materials Science and Engineering</i> 660, no. 1 (2019). https://doi.org/10.1088/1757-899x/660/1/012039.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

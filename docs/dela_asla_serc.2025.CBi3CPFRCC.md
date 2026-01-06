@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Delavar, Farhad Aslani, Tim Sercombe
+    - footer
+title: Delavar Mohammad, Aslani Farhad, Sercombe Tim
 description:
 tags:
  - behavior
@@ -17,32 +18,14 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>:aca-blank: A Review ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.jobe.2025.114312" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.114312</a>
+#Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">A Review</div>
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114312" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114312" target="_blank">10.1016/j.jobe.2025.114312</a>
 
--------------------------
+<a href="../../../author/delavar_reza_mohammad"><b>Delavar</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6663-8929" title="ORCID: 0000-0001-6663-8929" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sercombe_tim"><b>Sercombe</b>&nbsp;Tim</a></span><br>
+Journal Article - Journal of Building Engineering, No. 114312
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>
-,     <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="https://orcid.org/0000-0001-6663-8929" title="ORCID: 0000-0001-6663-8929" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 114312
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#concrete`](keyword/concrete)
-    [`#crack`](keyword/crack)
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cracking%20Behaviour%20in%203D%20Concrete%20Printed%20Fiber-Reinforced%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018077520&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414871842" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.114312" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.114312?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of 3D concrete printing (3DCP) technology in cementitious composites offers significant opportunities, particularly in enhancing material efficiency and enabling greater design flexibility. However, the layer-by-layer deposition process introduces new challenges, especially regarding crack formation due to factors such as weak interfacial bonding and anisotropic mechanical behaviour. Fiber reinforcement has emerged as an effective strategy to mitigate crack development and enhance overall mechanical performance. This review examines the primary causes of crack initiation, key influencing factors, and mitigation strategies in 3DCP fibre-reinforced cementitious composites. Initially, it analyses crack formation in conventional cement-based materials, focusing on mechanisms of crack initiation, propagation triggers, and challenges associated with crack control. Traditional approaches such as steel reinforcement and chemical admixtures are also discussed. The review then explores recent advances in 3DCP techniques, including material selection, the role of anisotropy, and interlayer adhesion. Experimental findings suggest that maintaining a mini-slump flow diameter between 127 mm and 203 mm ensures suitable printability, while additives such as silica fume improve resistance to cracking. The nature of fracture propagation throughout the 3DCP process is specifically examined, emphasising how printing factors affect the evolution of cracks. An overview of the computational, experimental, and microstructural approaches for assessing crack behaviour is also included in the paper. Finally, the role of fibre characteristics, such as orientation, bridging mechanisms, and aspect ratio, is evaluated in relation to their effect on crack control in 3DCP composites. By synthesizing these findings, the study demonstrates pathways to enhance the durability and mechanical integrity of 3DCP fibre-reinforced cementitious composites, ultimately contributing to improved crack resistance and broader adoption of 3DCP in construction materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "100 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
@@ -169,7 +148,36 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dela_asla_serc.2025.CBi3CPFRCC,
+      author            = "Mohammad Reza Delavar and Farhad Aslani and Tim Sercombe",
+      title             = "Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites: A Review",
+      doi               = "10.1016/j.jobe.2025.114312",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "114312",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Delavar, F. Aslani and T. Sercombe, “Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites: A Review”, <i>Journal of Building Engineering</i>, p. 114312, 2025, doi: 10.1016/j.jobe.2025.114312.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Delavar, Mohammad Reza, Farhad Aslani, and Tim Sercombe. “Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites: A Review”. <i>Journal of Building Engineering</i>, 2025, 114312. https://doi.org/10.1016/j.jobe.2025.114312.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

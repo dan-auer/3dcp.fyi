@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sangiorgio Valentino 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../vale_sang_cant.2025.FTMtG/">From Traditional Materials to Geopolymers:<br/>History, Performance, Sustainability and 3D Printing Applications</a></li>
   <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/rossetti_pietro"><b>Rossetti</b> Pietro</a>, <a href="../../../author/polidoro_anthony"><b>Polidoro</b> Anthony</a>, <a href="../../../author/rossi_emilio"><b>Rossi</b> Emilio</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_ross_poli_ross.2025.SREBAw3PF/">Sustainable Raw-Earth Blocks Achieved with 3D-Printed Formworks:<br/>Parametric Modeling, Prototyping, and Laboratory Testing</a></li>
   <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_bian_forc.2025.ADT3PCF/">Advancing Decarbonization Through 3D Printed Concrete Formworks:<br/>LIFE Cycle Analysis of Technologies, Materials, and Processes</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tao Ding, Ruitao Zhu, Zhangshuo Huang
+    - footer
+title: Ding Tao, Zhu Ruitao, Huang Zhangshuo
 description:
 tags:
  - base
@@ -19,34 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1016/j.jobe.2025.113980" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113980</a>
+#Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113980" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113980" target="_blank">10.1016/j.jobe.2025.113980</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <a href="../../../author/zhu_ruitao"><b>Zhu</b>&nbsp;Ruitao</a></span>, <a href="../../../author/huang_zhangshuo"><b>Huang</b>&nbsp;Zhangshuo</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 113, No. 113980
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>
-,     <a href="../../../author/huang_zhangshuo"><b>Huang</b> Zhangshuo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 113, No. 113980
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#distribution`](keyword/distribution)
-    [`#experiment`](keyword/experiment)
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#height`](keyword/height)
-    [`#orientation`](keyword/orientation)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20the%20Steel%20Fiber%20Orientational%20Distribution%20of%20Extrusion-Based%203D-Printed%20Ultra%20High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015527243&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414037540" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113980" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113980?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The use of ultra high performance concrete (UHPC) as a printed material is an effective approach for addressing reinforcement problems in 3D-printed concrete. However, the quantitative effects of printed processes, equipment parameters, and material compositions on the orientation and distribution of steel fibers remain unclear. This study aims to investigate the orientation and distribution of steel fibers by using digital image analysis and CT scanning techniques. We analyzed the effects of several common printed parameters on the fiber orientation and distribution and developed a model to predict the fiber orientation. The results indicate that a lower ratio of material extrusion speed to nozzle movement speed leads to a greater degree of steel fiber orientation and a more uniform distribution, with ηf and αf increasing by 20 and 8 %. Decreasing the dimensions of the nozzle within a certain range increases ηf and αf. Using the printed parameters selected in this study, we establish a model to predict the fiber orientation coefficient ηf and further predict the probability density function of the inclination angle of steel fibers through ηf. The model's predictions align well with the experimental results presented in this study.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -91,7 +67,37 @@ tags:
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ding_zhu_huan.2025.ESotSFODoEB3PUHPC,
+      author            = "Tao Ding and Ruitao Zhu and Zhangshuo Huang",
+      title             = "Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete",
+      doi               = "10.1016/j.jobe.2025.113980",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      volume            = "113",
+      pages             = "113980",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ding, R. Zhu and Z. Huang, “Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete”, <i>Journal of Building Engineering</i>, vol. 113, p. 113980, 2025, doi: 10.1016/j.jobe.2025.113980.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ding, Tao, Ruitao Zhu, and Zhangshuo Huang. “Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete”. <i>Journal of Building Engineering</i> 113 (2025): 113980. https://doi.org/10.1016/j.jobe.2025.113980.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

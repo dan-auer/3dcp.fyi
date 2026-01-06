@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Büşra Aktürk, Onur Ertuğrul, Ömer Özen, Didem Oktay, Tuğrul Yazar
+    - footer
+title: Aktürk Büşra, Ertuğrul Onur, Özen Ömer, Oktay Didem, Yazar Tuğrul
 description:
 tags:
  - activation
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.jobe.2025.112245" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112245</a>
+#Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112245" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112245" target="_blank">10.1016/j.jobe.2025.112245</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1484-7758" title="ORCID: 0000-0003-1484-7758" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akturk_busra"><b>Aktürk</b>&nbsp;Büşra</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-8199-4551" title="ORCID: 0009-0007-8199-4551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ertugrul_onur"><b>Ertuğrul</b>&nbsp;Onur</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9773-2984" title="ORCID: 0009-0004-9773-2984" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozen_can_omer"><b>Özen</b>&nbsp;Ömer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0093-1994" title="ORCID: 0000-0002-0093-1994" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oktay_didem"><b>Oktay</b>&nbsp;Didem</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8125-1850" title="ORCID: 0000-0002-8125-1850" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yazar_tugrul"><b>Yazar</b>&nbsp;Tuğrul</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 104, No. 112245
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/akturk_busra"><b>Aktürk</b> Büşra</a> <a href="https://orcid.org/0000-0003-1484-7758" title="ORCID: 0000-0003-1484-7758" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ertugrul_onur"><b>Ertuğrul</b> Onur</a> <a href="https://orcid.org/0009-0007-8199-4551" title="ORCID: 0009-0007-8199-4551" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozen_can_omer"><b>Özen</b> Ömer</a> <a href="https://orcid.org/0009-0004-9773-2984" title="ORCID: 0009-0004-9773-2984" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/oktay_didem"><b>Oktay</b> Didem</a> <a href="https://orcid.org/0000-0002-0093-1994" title="ORCID: 0000-0002-0093-1994" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yazar_tugrul"><b>Yazar</b> Tuğrul</a> <a href="https://orcid.org/0000-0002-8125-1850" title="ORCID: 0000-0002-8125-1850" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 104, No. 112245
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#base`](keyword/base)
-    [`#carbonation`](keyword/carbonation)
-    [`#influence`](keyword/influence)
-    [`#mechanics`](keyword/mechanics)
-    [`#mixing`](keyword/mixing)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#silica`](keyword/silica)
-    [`#slag`](keyword/slag)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Nano-Silica%20and%20R-MgO%20on%20Rheological%20Properties%2C%203D%20Printability%2C%20and%20Mechanical%20Properties%20of%20One-Part%20Sodium%20Carbonate-Activated%20Slag-Based%20Mixes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219495889&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408102314" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112245" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112245?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interest in 3D concrete printing is growing quickly in academia and industry. Alkali-activated materials (AAMs) are a greener alternative to cement but traditional AAMs face challenges with high-viscosity alkaline solutions and energy demands. One-part AAMs, using solid activators and aluminosilicate precursors, present a promising solution. This research investigated the potential producibility of one-part sodium carbonate-activated, slag-based 3D printable mixes. The disadvantages of sodium carbonate activation were mitigated by using reactive MgO (r-MgO), obtained through low-temperature calcination, as a partial substitute for the primary precursor, slag. Additionally, nano-silica was incorporated into the mixes to improve rheological and mechanical properties as well as printability. Several mixes were developed using varying amounts of r-MgO, up to 15 %, and a small amount of nano-silica, 1 % by weight. Rheological properties, including static and dynamic yield stress and viscosity recovery, were evaluated. The printability and buildability of the mixes were experimentally assessed to determine their feasibility for 3D printing. The test results indicated that printable, buildable mixes with proper setting times and sufficient compressive strength can be obtained by substituting slag with r-MgO in specific amounts, namely 10 % and 15 % by weight. While yield stress, compressive strength, printability, and buildability improved with r-MgO substitution, setting time decreased. Furthermore, the inclusion of nano-silica significantly enhanced rheological properties, while mechanical properties showed a slight improvement in 3D-printed samples, which also enabled printable mixes with low r-MgO content (5 %). Moreover, the environmental impact of the produced mixes was found to be much lower than that of Portland-cement-based mixes. In conclusion, one-part sodium carbonate-activated, slag-based mixes present a viable and environmentally friendly alternative for 3D-printable mortar, in case of the inclusion of r-MgO.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -122,8 +96,38 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>Bakri Abdullah</b> Mohd</a>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tany_selo_bakr_raza.2025.TRaMPo3PG/">The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aktu_ertu_ozen_okta.2025.IoNSaRMoRP3PaMPoOPSCASBM,
+      author            = "Büşra Aktürk and Onur Ertuğrul and Ömer Can Özen and Didem Oktay and Tuğrul Yazar",
+      title             = "Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes",
+      doi               = "10.1016/j.jobe.2025.112245",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      volume            = "104",
+      pages             = "112245",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Aktürk, O. Ertuğrul, Ö. C. Özen, D. Oktay and T. Yazar, “Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes”, <i>Journal of Building Engineering</i>, vol. 104, p. 112245, 2025, doi: 10.1016/j.jobe.2025.112245.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aktürk, Büşra, Onur Ertuğrul, Ömer Can Özen, Didem Oktay, and Tuğrul Yazar. “Influence of Nano-Silica and R-MgO on Rheological Properties, 3D Printability, and Mechanical Properties of One-Part Sodium Carbonate-Activated Slag-Based Mixes”. <i>Journal of Building Engineering</i> 104 (2025): 112245. https://doi.org/10.1016/j.jobe.2025.112245.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

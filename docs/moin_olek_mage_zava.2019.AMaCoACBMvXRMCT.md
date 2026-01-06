@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohamadreza Moini, Jan Olek, Bryan Magee, Pablo Zavattieri, Jeffrey Youngblood
+    - footer
+title: Moini Mohamadreza, Olek Jan, Magee Bryan, Zavattieri Pablo, Youngblood Jeffrey
 description:
 tags:
  - additive
@@ -19,36 +20,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://arxiv.org/pdf/1808.00396) Additive Manufacturing and Characterization of Architectured Cement-Based Materials via X-Ray Micro-Computed Tomography ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_16</a>
+#Additive Manufacturing and Characterization of Architectured Cement-Based Materials via X-Ray Micro-Computed Tomography ([2018-09](date/2018/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://arxiv.org/pdf/1808.00396) <a href="https://doi.org/10.1007/978-3-319-99519-9_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_16" target="_blank">10.1007/978-3-319-99519-9_16</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olek_jan"><b>Olek</b>&nbsp;Jan</a></span>, <a href="../../../author/magee_bryan"><b>Magee</b>&nbsp;Bryan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b>&nbsp;Jeffrey</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 176-189
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> <a href="https://orcid.org/0000-0003-0467-9877" title="ORCID: 0000-0003-0467-9877" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a>
-,     <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> <a href="https://orcid.org/0000-0003-4953-150X" title="ORCID: 0000-0003-4953-150X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 176-189
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#architecture`](keyword/architecture)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#computer`](keyword/computer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#micro`](keyword/micro)
-    [`#ray`](keyword/ray)
-    [`#tomography`](keyword/tomography)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/ray"><button class="btn">#ray</button></a> <a href="../../keyword/tomography"><button class="btn">#tomography</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20and%20Characterization%20of%20Architectured%20Cement-Based%20Materials%20via%20X-Ray%20Micro-Computed%20Tomography" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052704940&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,23 +41,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2886777935" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_16" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_16?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     There is an increasing interest in the fabrication of cement-based materials via additive manufacturing (AM) techniques. However, the processing-induced heterogeneities and interfaces represent a major challenge. The role of processing in creating interfaces and their characteristics requires understanding of the microstructure of 3D-printed hardened cement paste (hcp). This work investigates the microstructural features of architectured cementbased materials, including processing-induced heterogeneous patterns, interfacial regions (IRs), and pore network distributions with respect to the architectural patterns. A 3D printer was modified and merged with an extrusion system and specimens were 3D-printed using a layer-wise direct ink writing (DIW) process capable of fabrication of ‘lamellar’ architectures of materials. A lab-based X-ray microscope (XRM) was used to perform X-ray microcomputed tomography (micro-CT) evaluations to explore the microstructural characteristics of 3-day old intact (i.e. not tested) 3D printed and cast specimens at two levels of magnification: 0.4X and 4X. CT scans of printed specimen revealed a patterned pore network and several microstructural features, including: (a) macropores (visible during printing), (b) micropores at interfacial regions (IRs), (c) accumulation of anhydrous cement particles near macropores, and (d) rearrangement of filaments away from their designed toolpath. In comparison, microstructural investigation of cast specimen at 4X scan revealed randomly distributed pores with no connectivity throughout the specimen. The aptitude of micro-CT as a non-destructive technique for microstructural characterization of architectured cement-based materials is discussed. The role of processing to induce and to pattern heterogeneities such as IRs in materials is demonstrated and the role of architecture in controlling such heterogeneities and their directionality through the interface is discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "31 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a></li>
       <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b> Lidija</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sapa_sink_sahm_kora.2025.EBPf3PC/">Establishing Benchmark Properties for 3D-Printed Concrete:<br/>A Study of Printability, Strength, and Durability</a></li>
       <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/agrawal_shubham"><b>Agrawal</b> Shubham</a>, <a href="../../../author/williams_s_christopher"><b>Williams</b> Christopher</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rodr_moin_agra_will.2024.MRoSS3PSMCB/">Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams</a></li>
@@ -111,6 +85,36 @@ tags:
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b> Abhinav</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a>, <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../bhar_jone_kala_pei.2019.AMPfIC/">Additive Manufacturing Processes for Infrastructure Construction:<br/>A Review</a></li>
-      <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{moin_olek_mage_zava.2019.AMaCoACBMvXRMCT,
+      author            = "Mohamadreza Moini and Jan Olek and Bryan Magee and Pablo D. Zavattieri and Jeffrey P. Youngblood",
+      title             = "Additive Manufacturing and Characterization of Architectured Cement-Based Materials via X-Ray Micro-Computed Tomography",
+      doi               = "10.1007/978-3-319-99519-9_16",
+      year              = "2019",
+      volume            = "19",
+      pages             = "176--189",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Moini, J. Olek, B. Magee, P. D. Zavattieri and J. P. Youngblood, “Additive Manufacturing and Characterization of Architectured Cement-Based Materials via X-Ray Micro-Computed Tomography”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 176–189. doi: 10.1007/978-3-319-99519-9_16.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Moini, Mohamadreza, Jan Olek, Bryan Magee, Pablo D. Zavattieri, and Jeffrey P. Youngblood. “Additive Manufacturing and Characterization of Architectured Cement-Based Materials via X-Ray Micro-Computed Tomography”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:176–89, 2019. https://doi.org/10.1007/978-3-319-99519-9_16.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Laura Gomez Jaramillo, Mladena Luković, Branko Šavija, Wen Zhou
+    - footer
+title: Gomez Jaramillo Laura, Luković Mladena, Šavija Branko, Zhou Wen
 description:
 tags:
  - cement
@@ -17,31 +18,12 @@ tags:
 
 ---
 
-# Recycled Sand for 3D-Printed Strain Hardening Cementitious Composite:<br/>:aca-blank: A Review of Recent Developments ([2025-06](date/2025/06))
--------------------------
+#Recycled Sand for 3D-Printed Strain Hardening Cementitious Composite&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">A Review of Recent Developments</div>
+<a href="../../../author/gomez-jaramillo_sofia_laura"><b>Gomez Jaramillo</b>&nbsp;Laura</a></span>, <a href="../../../author/lukovic_mladena"><b>Luković</b>&nbsp;Mladena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_wen"><b>Zhou</b>&nbsp;Wen</a></span><br>
+Contribution - Proceedings of the fib Symposium 2025
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gomez-jaramillo_sofia_laura"><b>Gomez Jaramillo</b> Laura</a>
-,     <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#development`](keyword/development)
-    [`#hardened`](keyword/hardened)
-    [`#print`](keyword/print)
-    [`#recycling`](keyword/recycling)
-    [`#review`](keyword/review)
-    [`#sand`](keyword/sand)
-    [`#strain`](keyword/strain)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Recycled%20Sand%20for%203D-Printed%20Strain%20Hardening%20Cementitious%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
@@ -56,17 +38,13 @@ tags:
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing of cementitious materials (3DPCM) has emerged as an innovative breakthrough, enabling the development of structures with complex geometries and faster construction. Additionally, if the raw materials for 3D printing are sourced from recycled materials, this digital construction technique has the potential to address the issue of construction and demolition waste buildup and reduce the over-extraction of natural resources. However, the inclusion of reinforcement remains as one of the distinct challenges of 3DPCM. The development of printable Strain Hardening Cementitious Composites (SHCC), also known as Engineered Cementitious Composites (ECC) has attracted the attention of both academia and industry as an approach to improve the tensile strength and ductility of 3DPCM. SHCC is characterized by controlled microcracking under uniaxial tensile loading and excellent ductility, achieved through the incorporation of short fibers as self-reinforcement. This article surveys the state of the art in current advancements, challenges, and opportunities related to the use of recycled  sand for 3D-printable SHCC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "31 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
@@ -99,7 +77,35 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{gome_luko_savi_zhou.2025.RSf3PSHCC,
+      author            = "Laura Sofia Gomez Jaramillo and Mladena Luković and Branko Šavija and Wen Zhou",
+      title             = "Recycled Sand for 3D-Printed Strain Hardening Cementitious Composite: A Review of Recent Developments",
+      year              = "2025",
+      booktitle         = "Proceedings of the fib Symposium 2025: Concrete Structures",
+      editor            = "fédération internationale du béton",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. S. G. Jaramillo, M. Luković, B. Šavija and W. Zhou, “Recycled Sand for 3D-Printed Strain Hardening Cementitious Composite: A Review of Recent Developments”, in <i>Proceedings of the fib Symposium 2025: Concrete Structures</i>,  2025.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jaramillo, Laura Sofia Gomez, Mladena Luković, Branko Šavija, and Wen Zhou. “Recycled Sand for 3D-Printed Strain Hardening Cementitious Composite: A Review of Recent Developments”. In <i>Proceedings of the Fib Symposium 2025: Concrete Structures</i>, edited by fédération internationale du béton, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

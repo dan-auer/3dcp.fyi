@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Theresa Glotz, Inken Rasehorn, Yuri Petryna
+    - footer
+title: Glotz Theresa, Rasehorn Inken, Petryna Yuri
 description:
 tags:
  - behavior
@@ -18,33 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/ma17246304) Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints:<br/>:aca-blank: An Experimental Investigation ([2024-12](date/2024/12))
-<a href="https://doi.org/10.3390/ma17246304" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma17246304</a>
+#Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">An Experimental Investigation</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17246304) <a href="https://doi.org/10.3390/ma17246304" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17246304" target="_blank">10.3390/ma17246304</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1780-3515" title="ORCID: 0000-0003-1780-3515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/glotz_theresa"><b>Glotz</b>&nbsp;Theresa</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2468-3060" title="ORCID: 0009-0007-2468-3060" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b>&nbsp;Inken</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6801-5677" title="ORCID: 0000-0002-6801-5677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petryna_yuri"><b>Petryna</b>&nbsp;Yuri</a></span><br>
+Journal Article - Materials, Vol. 17, Iss. 24, No. 6304
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a> <a href="https://orcid.org/0000-0003-1780-3515" title="ORCID: 0000-0003-1780-3515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b> Inken</a> <a href="https://orcid.org/0009-0007-2468-3060" title="ORCID: 0009-0007-2468-3060" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> <a href="https://orcid.org/0000-0002-6801-5677" title="ORCID: 0000-0002-6801-5677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 17, Iss. 24, No. 6304
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#cold`](keyword/cold)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#hardened`](keyword/hardened)
-    [`#investigation`](keyword/investigation)
-    [`#joint`](keyword/joint)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Behavior%20of%20Hardened%20Printed%20Concrete%20and%20the%20Effect%20of%20Cold%20Joints" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213236990&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405722013" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma17246304" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma17246304?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The adaptation of 3D printing techniques within the construction industry has opened new possibilities for designing and constructing cementitious materials efficiently and flexibly. The layered nature of extrusion-based concrete printing introduces challenges, such as interlayer weaknesses, that compromise structural integrity and mechanical performance. This experimental study investigates the influence of interlayer orientation and the presence of cold joints (CJ) on mechanical properties, such as stiffness and strength. Three-point bending tests (3PBT) and optical measurement techniques are employed to correlate these properties with the structural response of hardened printed concrete. The analysis determines key properties like Young’s modulus and flexural tensile strength and evaluates them statistically. The investigation examines crack development and failure mechanisms, relating them to the material properties. The findings reveal a strong dependency of material properties and crack formation on layer orientation. Specimens with interlayers aligned parallel to the loading direction exhibit significantly inferior mechanical properties compared with other orientations. The presence of CJ considerably influences the progression of crack formation. This research contributes to a deeper understanding of the structural performance of printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "39 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -110,8 +88,39 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/altehaini_zakiah"><b>Altehaini</b> Zakiah</a>, <a href="../../../author/dayili_mohammed"><b>Dayili</b> Mohammed</a>, <a href="../../../author/alrajab_meshari"><b>Alrajab</b> Meshari</a>, <a href="../../../author/harbi_al_adel"><b>Harbi</b> Adel</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../alte_dayi_alra_harb.2025.D3CPfLSBCiSA/">Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia:<br/>A Case Study</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{glot_rase_petr.2024.MBoHPCatEoCJ,
+      author            = "Theresa Glotz and Inken Jette Rasehorn and Yuri Petryna",
+      title             = "Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints: An Experimental Investigation",
+      doi               = "10.3390/ma17246304",
+      year              = "2024",
+      journal           = "Materials",
+      volume            = "17",
+      number            = "24",
+      pages             = "6304",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Glotz, I. J. Rasehorn and Y. Petryna, “Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints: An Experimental Investigation”, <i>Materials</i>, vol. 17, no. 24, p. 6304, 2024, doi: 10.3390/ma17246304.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Glotz, Theresa, Inken Jette Rasehorn, and Yuri Petryna. “Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints: An Experimental Investigation”. <i>Materials</i> 17, no. 24 (2024): 6304. https://doi.org/10.3390/ma17246304.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

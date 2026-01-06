@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matteo Stefanoni, Ueli Angst, Bernhard Elsener
+    - footer
+title: Stefanoni Matteo, Angst Ueli, Elsener Bernhard
 description:
 tags:
  - challenge
@@ -15,30 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Corrosion Challenges and Opportunities in Digital Fabrication of Reinforced Concrete ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_21</a>
+#Corrosion Challenges and Opportunities in Digital Fabrication of Reinforced Concrete ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_21" target="_blank">10.1007/978-3-319-99519-9_21</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7630-1083" title="ORCID: 0000-0002-7630-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stefanoni_matteo"><b>Stefanoni</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2603-4757" title="ORCID: 0000-0002-2603-4757" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/angst_m_ueli"><b>Angst</b>&nbsp;Ueli</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9993-7834" title="ORCID: 0000-0002-9993-7834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elsener_bernhard"><b>Elsener</b>&nbsp;Bernhard</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 225-233
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a> <a href="https://orcid.org/0000-0002-7630-1083" title="ORCID: 0000-0002-7630-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="https://orcid.org/0000-0002-2603-4757" title="ORCID: 0000-0002-2603-4757" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/elsener_bernhard"><b>Elsener</b> Bernhard</a> <a href="https://orcid.org/0000-0002-9993-7834" title="ORCID: 0000-0002-9993-7834" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 225-233
-
-:aca-blank:{ .lg .middle}
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#corrosion`](keyword/corrosion)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#opportunity`](keyword/opportunity)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/corrosion"><button class="btn">#corrosion</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Corrosion%20Challenges%20and%20Opportunities%20in%20Digital%20Fabrication%20of%20Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052699367&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,26 +37,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2888954029" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_21" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_21?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This contribution addresses corrosion of steel in digitally fabricated concrete. In recent times the concrete processing for digital fabrication applications has been greatly advancing, rising the interest of research institutions, industrial partners, governments and public media. Nevertheless, for a broad large scale application, not just the technological feasibility, but also the long term durability needs to be ensured. This contribution presents a general overview of recently developed digital fabrication technologies and assesses them from the point of view of reinforcement corrosion risks. Experimental results are presented and a number of potential durability issues specific to digital fabrication are raised. On the other hand, we highlight opportunities for making more corrosion-resistant concrete structures by taking advantage of digital fabrication technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
-      <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
-      <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
       <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../komp_marc_mont_levi.2024.FBoTDPCMiVEAaHS/">Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
@@ -82,6 +58,36 @@ tags:
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hermens_j_lex"><b>Hermens</b> Lex</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bos_wolf_ahme_herm.2019.TIoMTotIPSaSoa3PM/">The Influence of Material Temperature on the In-Print Strength and Stability of a 3D Print Mortar</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{stef_angs_else.2019.CCaOiDFoRC,
+      author            = "Matteo Stefanoni and Ueli M. Angst and Bernhard Elsener",
+      title             = "Corrosion Challenges and Opportunities in Digital Fabrication of Reinforced Concrete",
+      doi               = "10.1007/978-3-319-99519-9_21",
+      year              = "2019",
+      volume            = "19",
+      pages             = "225--233",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Stefanoni, U. M. Angst and B. Elsener, “Corrosion Challenges and Opportunities in Digital Fabrication of Reinforced Concrete”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 225–233. doi: 10.1007/978-3-319-99519-9_21.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Stefanoni, Matteo, Ueli M. Angst, and Bernhard Elsener. “Corrosion Challenges and Opportunities in Digital Fabrication of Reinforced Concrete”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:225–33, 2019. https://doi.org/10.1007/978-3-319-99519-9_21.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

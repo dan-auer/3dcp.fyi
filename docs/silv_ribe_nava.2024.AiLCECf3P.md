@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Laura Silvestro, Rodrigo Ribeiro, Iván Navarrete
+    - footer
+title: Silvestro Laura, Ribeiro Rodrigo, Navarrete Iván
 description:
 tags:
  - advance
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.7764/ric.00131.21) Advancements in Low Carbon-Emission Cements for 3D Printing:<br/>:aca-blank: A State-of-the-Art Review ([2024-12](date/2024/12))
-<a href="https://doi.org/10.7764/ric.00131.21" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.7764/ric.00131.21</a>
+#Advancements in Low Carbon-Emission Cements for 3D Printing&nbsp;([2024-12](date/2024/12))
+<div class="h1-like">A State-of-the-Art Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.7764/ric.00131.21) <a href="https://doi.org/10.7764/ric.00131.21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7764/ric.00131.21" target="_blank">10.7764/ric.00131.21</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6437-3047" title="ORCID: 0000-0002-6437-3047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silvestro_laura"><b>Silvestro</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3409-2041" title="ORCID: 0000-0002-3409-2041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7900" title="ORCID: 0000-0002-2918-7900" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navarrete_ivan"><b>Navarrete</b>&nbsp;Iván</a></span><br>
+Journal Article - Revista Ingeniería de Construcción, Vol. 39, pp. 1-10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/silvestro_laura"><b>Silvestro</b> Laura</a> <a href="https://orcid.org/0000-0002-6437-3047" title="ORCID: 0000-0002-6437-3047" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b> Rodrigo</a> <a href="https://orcid.org/0000-0002-3409-2041" title="ORCID: 0000-0002-3409-2041" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="https://orcid.org/0000-0002-2918-7900" title="ORCID: 0000-0002-2918-7900" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Revista Ingeniería de Construcción, Vol. 39, pp. 1-10
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#emission`](keyword/emission)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancements%20in%20Low%20Carbon-Emission%20Cements%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001586264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406018913" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.7764/ric.00131.21" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.7764/ric.00131.21?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete production, heavily reliant on Ordinary Portland Cement (OPC), is a significant contributor to global CO2 emissions, responsible for about 8% of human-related emissions. While past efforts to reduce the carbon footprint of cement focused on improving energy efficiency and incorporating supplementary cementitious materials (SCMs), recent innovations have shifted towards low-carbon binders like calcium sulfoaluminate (CSA) cement, limestone calcined clay (LC3) cement, and geopolymers. These alternatives offer considerable reductions in CO2 emissions during production. However, the adoption of these materials faces challenges, particularly in 3D-printed concrete (3DPC), an emerging construction method that demands specific rheological and mechanical properties. Research into these low-carbon binders shows that CSA cement provides rapid strength development, LC3 mixtures offer promising environmental benefits and structural integrity, and geopolymers achieve high compressive strength but require optimization for durability. This study summarizes a review of the effects of these binders on the fresh properties, mechanical performance, and durability of concrete, emphasizing their potential for use in 3DPC. The findings underscore the importance of optimizing material properties for enhanced performance and sustainability in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
@@ -77,15 +57,43 @@ tags:
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../node_ozba_ghol.2022.EoSCMoPo3PCaAAC/">Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
-      <li><a href="../../../author/silvestro_laura"><b>Silvestro</b> Laura</a>, <a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b> Rodrigo</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../silv_ribe_nava.2024.AiLCECf3P/">Advancements in Low Carbon-Emission Cements for 3D Printing:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_chen_zhan_zhan.2024.HPaMo3PECCBoLCCC/">Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_li_ma.2021.CCBwHBSaMHPCfLS3P/">Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/silvestro_laura"><b>Silvestro</b> Laura</a>, <a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b> Rodrigo</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../silv_ribe_nava.2024.AiLCECf3P/">Advancements in Low Carbon-Emission Cements for 3D Printing:<br/>A State-of-the-Art Review</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{silv_ribe_nava.2024.AiLCECf3P,
+      author            = "Laura Silvestro and Rodrigo Scoczynski Ribeiro and Iván Navarrete",
+      title             = "Advancements in Low Carbon-Emission Cements for 3D Printing: A State-of-the-Art Review",
+      doi               = "10.7764/ric.00131.21",
+      year              = "2024",
+      journal           = "Revista Ingeniería de Construcción",
+      volume            = "39",
+      pages             = "1--10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Silvestro, R. S. Ribeiro and I. Navarrete, “Advancements in Low Carbon-Emission Cements for 3D Printing: A State-of-the-Art Review”, <i>Revista Ingeniería de Construcción</i>, vol. 39, pp. 1–10, 2024, doi: 10.7764/ric.00131.21.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Silvestro, Laura, Rodrigo Scoczynski Ribeiro, and Iván Navarrete. “Advancements in Low Carbon-Emission Cements for 3D Printing: A State-of-the-Art Review”. <i>Revista Ingeniería De Construcción</i> 39 (2024): 1–10. https://doi.org/10.7764/ric.00131.21.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

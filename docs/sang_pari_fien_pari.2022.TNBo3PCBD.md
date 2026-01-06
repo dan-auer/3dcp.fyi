@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Valentino Sangiorgio, Fabio Parisi, Francesco Fieni, Nicola Parisi
+    - footer
+title: Sangiorgio Valentino, Parisi Fabio, Fieni Francesco, Parisi Nicola
 description:
 tags:
  - boundary
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2071-1050/14/2/598/pdf?version=1641461904) The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>:aca-blank: Printability of Complex Internal Geometries ([2022-01](date/2022/01))
-<a href="https://doi.org/10.3390/su14020598" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/su14020598</a>
+#The New Boundaries of 3D-Printed Clay-Bricks-Design&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">Printability of Complex Internal Geometries</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/2/598/pdf?version=1641461904) <a href="https://doi.org/10.3390/su14020598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14020598" target="_blank">10.3390/su14020598</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6421-900X" title="ORCID: 0000-0001-6421-900X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_fabio"><b>Parisi</b>&nbsp;Fabio</a></span>, <a href="../../../author/fieni_francesco"><b>Fieni</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_nicola"><b>Parisi</b>&nbsp;Nicola</a></span><br>
+Journal Article - Sustainability, Vol. 14, Iss. 2, No. 598
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> <a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a> <a href="https://orcid.org/0000-0001-6421-900X" title="ORCID: 0000-0001-6421-900X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>
-,     <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Sustainability, Vol. 14, Iss. 2, No. 598
-
-:aca-blank:{ .lg .middle}
-    [`#boundary`](keyword/boundary)
-    [`#brick`](keyword/brick)
-    [`#clay`](keyword/clay)
-    [`#complexity`](keyword/complexity)
-    [`#design`](keyword/design)
-    [`#geometry`](keyword/geometry)
-    [`#internal`](keyword/internal)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/boundary"><button class="btn">#boundary</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20New%20Boundaries%20of%203D-Printed%20Clay-Bricks-Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122336197&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,24 +40,20 @@ tags:
 <a href="https://inciteful.xyz/p/W4205798623" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/su14020598" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/su14020598?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The building construction sector is undergoing one of the most profound transformations towards the digital transition of production. In recent decades, the advent of a novel technology for the 3D printing of clay opened up new sustainable possibilities in construction. Some architectural applications of 3D-printed clay bricks with simple internal configurations are being developed around the world. On the other hand, the full potential of 3D-printed bricks for building production is still unknown. Scientific studies about the design and printability of 3D-printed bricks exploiting complex internal geometries are completely missing in the related literature. This paper explores the new boundaries of 3D-printed clay bricks realized with a sustainable extrusion-based 3D clay printing process by proposing a novel conception, design, and analysis. In particular, the proposed methodological approach includes: (i) conception and design; (ii) parametric modeling; (iii) simulation of printability; and (iv) prototyping. The new design and conception aim to fully exploit the potential of 3D printing to realize complex internal geometry in a 3D-printed brick. To this aim, the research investigates the printability of internal configuration generated by using geometries with well-known remarkable mechanical properties, such as periodic minimal surfaces. In conclusion, the results are validated by a wide prototyping campaign.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a></li>
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "23 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/serra_valentina"><b>Serra</b> Valentina</a>, <a href="../../../author/callegari_guido"><b>Callegari</b> Guido</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../varg_card_serr_call.2026.DFfP3BCwCI/">DfAM Framework for Prefabricated 3DP Building Components with Cellular Infills</a></li>
       <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../vale_sang_cant.2025.FTMtG/">From Traditional Materials to Geopolymers:<br/>History, Performance, Sustainability and 3D Printing Applications</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
@@ -100,4 +78,35 @@ tags:
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/notarnicola_michele"><b>Notarnicola</b> Michele</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../volp_sang_petr_nota.2023.3PCBMwSRM/">3D Printed Concrete Blocks Made with Sustainable Recycled Material</a></li>
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/gorostiza-carabano_javier"><b>Gorostiza Carabaño</b> Javier</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../madr_orte_goro_olss.2023.3C/">3D Claying:<br/>3D Printing and Recycling Clay</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sang_pari_fien_pari.2022.TNBo3PCBD,
+      author            = "Valentino Sangiorgio and Fabio Parisi and Francesco Fieni and Nicola Parisi",
+      title             = "The New Boundaries of 3D-Printed Clay-Bricks-Design: Printability of Complex Internal Geometries",
+      doi               = "10.3390/su14020598",
+      year              = "2022",
+      journal           = "Sustainability",
+      volume            = "14",
+      number            = "2",
+      pages             = "598",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Sangiorgio, F. Parisi, F. Fieni and N. Parisi, “The New Boundaries of 3D-Printed Clay-Bricks-Design: Printability of Complex Internal Geometries”, <i>Sustainability</i>, vol. 14, no. 2, p. 598, 2022, doi: 10.3390/su14020598.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sangiorgio, Valentino, Fabio Parisi, Francesco Fieni, and Nicola Parisi. “The New Boundaries of 3D-Printed Clay-Bricks-Design: Printability of Complex Internal Geometries”. <i>Sustainability</i> 14, no. 2 (2022): 598. https://doi.org/10.3390/su14020598.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

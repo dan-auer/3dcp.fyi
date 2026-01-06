@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wen Zhou, Wesley McGee, He Zhu, H. Gökçe, Victor Li
+    - footer
+title: Zhou Wen, McGee Wesley, Zhu He, Gökçe H., Li Victor
 description:
 tags:
  - buildability
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>:aca-blank: On the Evaluation of Buildability ([2022-08](date/2022/08))
-<a href="https://doi.org/10.1016/j.cemconcomp.2022.104704" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2022.104704</a>
+#Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites&nbsp;([2022-08](date/2022/08))
+<div class="h1-like">On the Evaluation of Buildability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2022.104704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104704" target="_blank">10.1016/j.cemconcomp.2022.104704</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_wen"><b>Zhou</b>&nbsp;Wen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcgee_wesley"><b>McGee</b>&nbsp;Wesley</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1503-6076" title="ORCID: 0000-0003-1503-6076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_he"><b>Zhu</b>&nbsp;He</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6978-0135" title="ORCID: 0000-0002-6978-0135" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gokce_suleyman_h"><b>Gökçe</b>&nbsp;H.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 133
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> <a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_he"><b>Zhu</b> He</a> <a href="https://orcid.org/0000-0003-1503-6076" title="ORCID: 0000-0003-1503-6076" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> <a href="https://orcid.org/0000-0002-6978-0135" title="ORCID: 0000-0002-6978-0135" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 133, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#composite`](keyword/composite)
-    [`#dependency`](keyword/dependency)
-    [`#engineered`](keyword/engineered)
-    [`#evaluation`](keyword/evaluation)
-    [`#fresh`](keyword/fresh)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Fresh%20Properties%20Characterization%20of%203D%20Printing%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85135775124&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4289260497" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2022.104704" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2022.104704?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Failure of the structure due to poor buildability is a major concern in 3D printing of cementitious materials. Evaluation of buildability based on fresh material properties and print parameters is of significance. In this paper, the buildability of printable engineered cementitious composites was investigated and quantified at the material and the structural scale. Fresh ECC material showed excellent load capacity and deformation resistance at the material scale, therefore preventing material failure of the bottom layers, as confirmed by constant shear rate tests and incremental loading tests. To predict vertical deformation of a 3DP structure, a time-dependent strainstress model of printable ECC was proposed and validated based on the green strength evolution of the material and the buildup rate of the designed structure. At the structural scale, the approach of predicting critical height at self-buckling failure based on stiffness evolution was validated by printing a straight wall and a cylinder structure.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "47 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
@@ -122,8 +97,9 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -161,4 +137,33 @@ tags:
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../liu_xiao_ding.2023.FPo3PCBwEaRFAC/">Flexural Performance of 3D Printed Composite Beams with ECC and Recycled Fine Aggregate Concrete:<br/>Experimental and Numerical Analysis</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_mcge_zhu_gokc.2022.TDFPCo3PECC,
+      author            = "Wen Zhou and Wesley McGee and He Zhu and H. Süleyman Gökçe and Victor C. Li",
+      title             = "Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites: On the Evaluation of Buildability",
+      doi               = "10.1016/j.cemconcomp.2022.104704",
+      year              = "2022",
+      journal           = "Cement and Concrete Composites",
+      volume            = "133",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zhou, W. McGee, H. Zhu, H. S. Gökçe and V. C. Li, “Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites: On the Evaluation of Buildability”, <i>Cement and Concrete Composites</i>, vol. 133, 2022, doi: 10.1016/j.cemconcomp.2022.104704.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Wen, Wesley McGee, He Zhu, H. Süleyman Gökçe, and Victor C. Li. “Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites: On the Evaluation of Buildability”. <i>Cement and Concrete Composites</i> 133 (2022). https://doi.org/10.1016/j.cemconcomp.2022.104704.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

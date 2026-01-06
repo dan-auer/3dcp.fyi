@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jinggao Zhu, Xiaodan Ren, Miguel Cervera
+    - footer
+title: Zhu Jinggao, Ren Xiaodan, Cervera Miguel
 description:
 tags:
  - analysis
@@ -16,31 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>:aca-blank: A Stochastic Analysis ([2023-08](date/2023/08))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133076" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133076</a>
+#Buildability Modeling of 3D Printed Concrete Including Printing-Deviation&nbsp;([2023-08](date/2023/08))
+<div class="h1-like">A Stochastic Analysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133076" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133076" target="_blank">10.1016/j.conbuildmat.2023.133076</a>
 
--------------------------
+<a href="../../../author/zhu_jinggao"><b>Zhu</b>&nbsp;Jinggao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_xiaodan"><b>Ren</b>&nbsp;Xiaodan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cervera_miguel"><b>Cervera</b>&nbsp;Miguel</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 403, No. 133076
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>
-,     <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 403, No. 133076
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#deviation`](keyword/deviation)
-    [`#inclusion`](keyword/inclusion)
-    [`#model`](keyword/model)
-    [`#print`](keyword/print)
-    [`#statistics`](keyword/statistics)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deviation"><button class="btn">#deviation</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/statistics"><button class="btn">#statistics</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability%20Modeling%20of%203D%20Printed%20Concrete%20Including%20Printing-Deviation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169055764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386281836" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133076" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133076?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Owing to the formwork-free construction, 3D concrete printing shows great prospects in construction industry. However, this manner also results in non-verified geometric precision, which is prone to generate uncontrolled printing deviations between the actual and designed print paths. To include this in buildability modeling, a process-dependent stochastic method is proposed based on the characteristics of the 3D printing process. Then, a stochastic analysis procedure is developed by Monte Carlo simulation and verified by the 3D-printed concrete (3DPC) cylinder test. Finally, the verified method is applied to the stochastic analysis of 3DPC buildability modeling. By studying two structural shapes and four correlation times, a clear understanding of the influence of printing deviation as well as guidances for the design of 3D printing process are obtained.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -99,8 +79,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "13 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC/">Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>
@@ -115,4 +95,34 @@ tags:
       <li><a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_sent.2024.3PCUPPC/">3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>Fly-Ash-Based</a></li>
       <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kuma_pand_muth.2023.ASPEFf3CPSCtSEitBD/">A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_ren_cerv.2023.BMo3PCIPD,
+      author            = "Jinggao Zhu and Xiaodan Ren and Miguel Cervera",
+      title             = "Buildability Modeling of 3D Printed Concrete Including Printing-Deviation: A Stochastic Analysis",
+      doi               = "10.1016/j.conbuildmat.2023.133076",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "403",
+      pages             = "133076",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhu, X. Ren and M. Cervera, “Buildability Modeling of 3D Printed Concrete Including Printing-Deviation: A Stochastic Analysis”, <i>Construction and Building Materials</i>, vol. 403, p. 133076, 2023, doi: 10.1016/j.conbuildmat.2023.133076.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Jinggao, Xiaodan Ren, and Miguel Cervera. “Buildability Modeling of 3D Printed Concrete Including Printing-Deviation: A Stochastic Analysis”. <i>Construction and Building Materials</i> 403 (2023): 133076. https://doi.org/10.1016/j.conbuildmat.2023.133076.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

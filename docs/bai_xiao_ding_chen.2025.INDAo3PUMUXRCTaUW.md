@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meiyan Bai, Jianzhuang Xiao, Tao Ding, Weihua Chen
+    - footer
+title: Bai Meiyan, Xiao Jianzhuang, Ding Tao, Chen Weihua
 description:
 tags:
  - assessment
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves ([2025-09](date/2025/09))
-<a href="https://doi.org/10.1617/s11527-025-02776-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02776-w</a>
+#Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves ([2025-09](date/2025/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02776-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02776-w" target="_blank">10.1617/s11527-025-02776-w</a>
 
--------------------------
+<a href="../../../author/bai_meiyan"><b>Bai</b>&nbsp;Meiyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <a href="../../../author/chen_weihua"><b>Chen</b>&nbsp;Weihua</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 8
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_weihua"><b>Chen</b> Weihua</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 8, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#computer`](keyword/computer)
-    [`#destructive`](keyword/destructive)
-    [`#integration`](keyword/integration)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#ray`](keyword/ray)
-    [`#tomography`](keyword/tomography)
-    [`#ultrasonic`](keyword/ultrasonic)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ray"><button class="btn">#ray</button></a> <a href="../../keyword/tomography"><button class="btn">#tomography</button></a> <a href="../../keyword/ultrasonic"><button class="btn">#ultrasonic</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Integrated%20Non-Destructive%20Assessment%20of%203D%20Printed%20UHPC%20Microstructure%20Using%20X-Ray%20Computed%20Tomography%20and%20Ultrasonic%20Waves" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016735201&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414355889" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02776-w" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02776-w?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed ultra-high performance concrete (3DP-UHPC) has gained significant attention for its unique fiber distribution and superior mechanical performance characteristics. This study employed X-ray computed tomography (X-CT) imaging and ultrasonic techniques to quantitatively analyze the internal pore structure and fiber distribution of 3DP-UHPC. The findings revealed that the compressive strength of 3DP-UHPC exhibited anisotropy, following the order Z > X > Y. The pore volume distribution showed substantial variability, with the projected pore lengths along the X, Y and Z axes following the trend X > Y > Z. This uneven distribution contributed to reduced mechanical performance. Steel fibers exhibited a distinct 'cross-like' alignment within the 3D printed plane. Additionally, variations in amplitude, compressive strength, and average wave velocity showed consistent trends, all of which were positively correlated with wave velocity. These insights provide a theoretical foundation for improving non-destructive evaluation techniques and optimizing the performance of 3DP-UHPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "23 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../bai_wang_wang_ma.2021.IPRM/">In-Process Reinforcing Method:<br/>Dual 3D Printing Procedure for Ultra-High-Performance Concrete Reinforced Cementitious Composites</a></li>
@@ -93,7 +70,37 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhan_zhan_yang_liu.2023.IotPFotWUi3PC/">Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW,
+      author            = "Meiyan Bai and Jianzhuang Xiao and Tao Ding and Weihua Chen",
+      title             = "Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves",
+      doi               = "10.1617/s11527-025-02776-w",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "8",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Bai, J. Xiao, T. Ding and W. Chen, “Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves”, <i>Materials and Structures</i>, vol. 58, no. 8, 2025, doi: 10.1617/s11527-025-02776-w.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bai, Meiyan, Jianzhuang Xiao, Tao Ding, and Weihua Chen. “Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves”. <i>Materials and Structures</i> 58, no. 8 (2025). https://doi.org/10.1617/s11527-025-02776-w.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Yuan, Dajun Zhou, Baiyun Li, Hai Huang, Caijun Shi
+    - footer
+title: Yuan Qiang, Zhou Dajun, Li Baiyun, Huang Hai, Shi Caijun
 description:
 tags:
  - admixture
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste ([2017-11](date/2017/11))
-<a href="https://doi.org/10.1016/j.conbuildmat.2017.11.050" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2017.11.050</a>
+#Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste ([2017-11](date/2017/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2017.11.050" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.11.050" target="_blank">10.1016/j.conbuildmat.2017.11.050</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhou_dajun"><b>Zhou</b>&nbsp;Dajun</a></span>, <a href="../../../author/li_baiyun"><b>Li</b>&nbsp;Baiyun</a></span>, <a href="../../../author/huang_hai"><b>Huang</b>&nbsp;Hai</a></span>, <a href="../../../author/shi_caijun"><b>Shi</b>&nbsp;Caijun</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 160, pp. 117-126
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> <a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>
-,     <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>
-,     <a href="../../../author/huang_hai"><b>Huang</b> Hai</a>
-,     <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 160, pp. 117-126
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#mineral`](keyword/mineral)
-    [`#paste`](keyword/paste)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Mineral%20Admixtures%20on%20the%20Structural%20Build-Up%20of%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85034653216&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,21 +37,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2770692002" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2017.11.050" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2017.11.050?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Structural build-up is of great importance in many concrete applications, such as formwork pressure, multi-layers casting, slip form paving, stability, and 3D printing. In this paper, the growth of static yield stress (ss) and thixotropic area were used to characterize the structural build-up of cement paste. The effects of different mineral admixtures, i.e. silica fume (SF), ground slag (GS), fly ash (FA), attapulgite (AG), nano calcium carbonate (NC), and nano silica (NS) on the structural build-up of cement pastes were studied. Calorimetric curves, zeta potential and conductivity of the pastes were also measured. Results showed that thixotropic behavior characterized by the growth of ss and thixotropic area gave different ranking on cement pastes with various mineral admixtures. NS, AG, NC and SF increased the growth of ss over 120 min, and NS was the most effective one. FA and GS decreased the growth of ss over 120 min. Hydration of cement played a dominant role in the structural build-up of cement paste. However, high hydration rate didn’t always lead to high structural build-up rate
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "61 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
@@ -132,4 +109,34 @@ tags:
       <li><a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../huan_huan_yuan_zhou.2019.TDoSBUaIRwHKoCP/">Temperature-Dependence of Structural Build-Up and Its Relation with Hydration Kinetics of Cement-Paste</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yuan_zhou_li_huan.2018.EoMAotSBUoCP,
+      author            = "Qiang Yuan and Dajun Zhou and Baiyun Li and Hai Huang and Caijun Shi",
+      title             = "Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste",
+      doi               = "10.1016/j.conbuildmat.2017.11.050",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "160",
+      pages             = "117--126",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Yuan, D. Zhou, B. Li, H. Huang and C. Shi, “Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste”, <i>Construction and Building Materials</i>, vol. 160, pp. 117–126, 2018, doi: 10.1016/j.conbuildmat.2017.11.050.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yuan, Qiang, Dajun Zhou, Baiyun Li, Hai Huang, and Caijun Shi. “Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste”. <i>Construction and Building Materials</i> 160 (2018): 117–26. https://doi.org/10.1016/j.conbuildmat.2017.11.050.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

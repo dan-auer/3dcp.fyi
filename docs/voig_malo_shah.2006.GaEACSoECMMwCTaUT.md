@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Thomas Voigt, Tim Malonn, Surendra Shah
+    - footer
+title: Voigt Thomas, Malonn Tim, Shah Surendra
 description:
 tags:
  - age
@@ -20,35 +21,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques ([2005-10](date/2005/10))
-<a href="https://doi.org/10.1016/j.cemconres.2005.09.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2005.09.005</a>
+#Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques ([2005-10](date/2005/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2005.09.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2005.09.005" target="_blank">10.1016/j.cemconres.2005.09.005</a>
 
--------------------------
+<a href="../../../author/voigt_thomas"><b>Voigt</b>&nbsp;Thomas</a></span>, <a href="../../../author/malonn_tim"><b>Malonn</b>&nbsp;Tim</a></span>, <a href="../../../author/shah_p_surendra"><b>Shah</b>&nbsp;Surendra</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 36, Iss. 5, pp. 858-867
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/voigt_thomas"><b>Voigt</b> Thomas</a>
-,     <a href="../../../author/malonn_tim"><b>Malonn</b> Tim</a>
-,     <a href="../../../author/shah_p_surendra"><b>Shah</b> Surendra</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 36, Iss. 5, pp. 858-867
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#cement`](keyword/cement)
-    [`#compression`](keyword/compression)
-    [`#early`](keyword/early)
-    [`#extrusion`](keyword/extrusion)
-    [`#green`](keyword/green)
-    [`#monitoring`](keyword/monitoring)
-    [`#mortar`](keyword/mortar)
-    [`#strength`](keyword/strength)
-    [`#technique`](keyword/technique)
-    [`#test`](keyword/test)
-    [`#ultrasonic`](keyword/ultrasonic)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/ultrasonic"><button class="btn">#ultrasonic</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Green%20and%20Early-Age%20Compressive%20Strength%20of%20Extruded%20Cement%20Mortar%20Monitored%20with%20Compression%20Tests%20and%20Ultrasonic%20Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-33748678706&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,20 +42,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2036364828" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2005.09.005" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2005.09.005?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Knowledge about the early age compressive strength development of cementitious materials is an important factor for the progress and safety of many construction projects. This paper uses cylindrical mortar specimens produced with a ram extruder to investigate the transition of the mortar from plastic and deformable to hardened state. In addition, wave transmission and reflection measurements with P- and S-waves were conducted to obtain further information about the microstructural changes during the setting and hardening process. The experiments have shown that uniaxial compression tests conducted on extruded mortar cylinders are a useful tool to evaluate the green strength as well as the initiation and further development of the compressive strength of the tested material. The propagation of P-waves was found to be indicative of the internal structure of the tested mortars as influenced, for example, by the addition of fine clay particles. S-waves used in transmission and reflection mode proved to be sensitive to the inter-particle bonding caused by the cement hydration and expressed by an increase in compressive strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "38 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/raj_shubham"><b>Raj</b> Shubham</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../pari_raj_sing_subr.2025.D3PCbItIoAC/">Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics</a></li>
       <li><a href="../../../author/marquez_alvaro"><b>Marquez</b> Alvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
       <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chen_pan_zhu_han.2025.NPMoBRIFCDi3PGC/">Nonlinear Predictive Modeling of Building Rates Incorporating Filament Compression Deformations in 3D Printed Geopolymer Concrete</a></li>
@@ -116,4 +91,35 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/carlo_tony"><b>Carlo</b> Tony</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/chen_yong"><b>Chen</b> Yong</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../carl_khos_chen.2013.MAwFC/">Manufacturing Additively, with Fresh Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{voig_malo_shah.2006.GaEACSoECMMwCTaUT,
+      author            = "Thomas Voigt and Tim Malonn and Surendra P. Shah",
+      title             = "Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques",
+      doi               = "10.1016/j.cemconres.2005.09.005",
+      year              = "2006",
+      journal           = "Cement and Concrete Research",
+      volume            = "36",
+      number            = "5",
+      pages             = "858--867",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Voigt, T. Malonn and S. P. Shah, “Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques”, <i>Cement and Concrete Research</i>, vol. 36, no. 5, pp. 858–867, 2006, doi: 10.1016/j.cemconres.2005.09.005.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Voigt, Thomas, Tim Malonn, and Surendra P. Shah. “Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques”. <i>Cement and Concrete Research</i> 36, no. 5 (2006): 858–67. https://doi.org/10.1016/j.cemconres.2005.09.005.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

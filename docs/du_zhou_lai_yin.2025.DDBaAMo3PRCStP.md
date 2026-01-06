@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Longyu Du, Jiehang Zhou, Jianzhong Lai, Xuexiang Yin, Mingyu Yang, Tianxiang Chen, Xun Guo, Bin Xiang, Xinzhen Zhao
+    - footer
+title: Du Longyu, Zhou Jiehang, Lai Jianzhong, Yin Xuexiang, Yang Mingyu, Chen Tianxiang, Guo Xun, Xiang Bin, Zhao Xinzhen
 description:
 tags:
  - anisotropy
@@ -17,38 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.139559" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.139559</a>
+#Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139559" target="_blank">10.1016/j.conbuildmat.2024.139559</a>
 
--------------------------
+<a href="../../../author/du_longyu"><b>Du</b>&nbsp;Longyu</a></span>, <a href="../../../author/zhou_jiehang"><b>Zhou</b>&nbsp;Jiehang</a></span>, <a href="../../../author/lai_jianzhong"><b>Lai</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/yin_xuexiang"><b>Yin</b>&nbsp;Xuexiang</a></span>, <a href="../../../author/yang_mingyu"><b>Yang</b>&nbsp;Mingyu</a></span>, <a href="../../../author/chen_tianxiang"><b>Chen</b>&nbsp;Tianxiang</a></span>, <a href="../../../author/guo_xun"><b>Guo</b>&nbsp;Xun</a></span>, <a href="../../../author/xiang_bin"><b>Xiang</b>&nbsp;Bin</a></span>, <a href="../../../author/zhao_xinzhen"><b>Zhao</b>&nbsp;Xinzhen</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 458, No. 139559
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>
-,     <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>
-,     <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>
-,     <a href="../../../author/yin_xuexiang"><b>Yin</b> Xuexiang</a>
-,     <a href="../../../author/yang_mingyu"><b>Yang</b> Mingyu</a>
-,     <a href="../../../author/chen_tianxiang"><b>Chen</b> Tianxiang</a>
-,     <a href="../../../author/guo_xun"><b>Guo</b> Xun</a>
-,     <a href="../../../author/xiang_bin"><b>Xiang</b> Bin</a>
-,     <a href="../../../author/zhao_xinzhen"><b>Zhao</b> Xinzhen</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 458, No. 139559
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#damage`](keyword/damage)
-    [`#dynamic`](keyword/dynamic)
-    [`#mechanism`](keyword/mechanism)
-    [`#penetration`](keyword/penetration)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20Damage%20Behavior%20and%20Anisotropic%20Mechanism%20of%203D%20Printed%20Reinforced%20Concrete%20Subjected%20to%20Penetration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212129474&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405457116" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.139559" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.139559?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The application of 3D printed concrete (3DPC) technology in military area has been a feasible option in recent years, but there are few studies on the dynamic mechanical properties of 3DPC materials. In this paper, 3DPC targets were subjected to projectile impacts by 7.62 mm bullets, where the penetration depth, the mass loss and the anisotropic mechanism of 3DPC targets were discussed. The results showed that the penetration depth and mass loss of 3DPC targets were anisotropic. It was found that differences between the strength of the 3DPC matrix and interface led to ballistic deflection of the bullet, resulting in decrease of penetration depth. Reinforcement of basalt fiber mesh (BFM) and glass fiber (GF) improved the strength of the 3DPC targets to reduce the penetration depth. Meanwhile, the deflection of the bullets may be influenced by the reinforcements. Ceramic aggregates (CA) significantly reduced the penetration depth from over 160 mm to 26 mm, while the mass loss increased because of the interface failure between the aggregates and matrixes. The mass loss could be reduced by BFM for it constrained effect on the aggregates.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../arun_nema_bong_rana.2019.HPo3PUHPFRCfDCA/">Hardened Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction Applications</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
@@ -96,8 +68,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{du_zhou_lai_yin.2025.DDBaAMo3PRCStP,
+      author            = "Longyu Du and Jiehang Zhou and Jianzhong Lai and Xuexiang Yin and Mingyu Yang and Tianxiang Chen and Xun Guo and Bin Xiang and Xinzhen Zhao",
+      title             = "Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration",
+      doi               = "10.1016/j.conbuildmat.2024.139559",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "458",
+      pages             = "139559",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Du, “Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration”, <i>Construction and Building Materials</i>, vol. 458, p. 139559, 2025, doi: 10.1016/j.conbuildmat.2024.139559.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Du, Longyu, Jiehang Zhou, Jianzhong Lai, Xuexiang Yin, Mingyu Yang, Tianxiang Chen, Xun Guo, Bin Xiang, and Xinzhen Zhao. “Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration”. <i>Construction and Building Materials</i> 458 (2025): 139559. https://doi.org/10.1016/j.conbuildmat.2024.139559.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

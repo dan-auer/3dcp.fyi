@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Asmae Najm-Eddine, Mohamed Abouelmajd, Youssef Najm-Eddine, Ilham Erritali, Ismail Arroub, Ahmed Bahlaoui, Manuel Lagache, Soufiane Belhouideg
+    - footer
+title: Najm-Eddine Asmae, Abouelmajd Mohamed, Najm-Eddine Youssef, Erritali Ilham, Arroub Ismail, Bahlaoui Ahmed, Lagache Manuel, Belhouideg Soufiane
 description:
 tags:
  - concrete
@@ -14,34 +15,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Topological Optimization in 3D Concrete Printing Structures:<br/>:aca-blank: A Review ([2025-11](date/2025/11))
-<a href="https://doi.org/10.1109/icoa66896.2025.11236952" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1109/icoa66896.2025.11236952</a>
+#Topological Optimization in 3D Concrete Printing Structures&nbsp;([2025-11](date/2025/11))
+<div class="h1-like">A Review</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/icoa66896.2025.11236952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/icoa66896.2025.11236952" target="_blank">10.1109/icoa66896.2025.11236952</a>
 
--------------------------
+<a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b>&nbsp;Asmae</a></span>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b>&nbsp;Mohamed</a></span>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b>&nbsp;Youssef</a></span>, <a href="../../../author/erritali_ilham"><b>Erritali</b>&nbsp;Ilham</a></span>, <a href="../../../author/arroub_ismail"><b>Arroub</b>&nbsp;Ismail</a></span>, <a href="../../../author/bahlaoui_ahmed"><b>Bahlaoui</b>&nbsp;Ahmed</a></span>, <a href="../../../author/lagache_manuel"><b>Lagache</b>&nbsp;Manuel</a></span>, <a href="../../../author/belhouideg_soufiane"><b>Belhouideg</b>&nbsp;Soufiane</a></span><br>
+Contribution - 2025 11th International Conference on Optimization and Applications (ICOA), pp. 1-6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>
-,     <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>
-,     <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>
-,     <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a>
-,     <a href="../../../author/arroub_ismail"><b>Arroub</b> Ismail</a>
-,     <a href="../../../author/bahlaoui_ahmed"><b>Bahlaoui</b> Ahmed</a>
-,     <a href="../../../author/lagache_manuel"><b>Lagache</b> Manuel</a>
-,     <a href="../../../author/belhouideg_soufiane"><b>Belhouideg</b> Soufiane</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 2025 11th International Conference on Optimization and Applications (ICOA), pp. 1-6
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#structure`](keyword/structure)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Topological%20Optimization%20in%203D%20Concrete%20Printing%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7105988988" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1109/icoa66896.2025.11236952" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1109/icoa66896.2025.11236952?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The deployment of additive manufacturing processes in the construction field has seen significant progress in the last decades. This progress has resulted in innovative techniques in architectural design and construction practices. These processes have benefits and constraints, primarily related to creating extra angle restrictions while printing complicated shapes such as curved concrete elements. The lightning of structures used in building objects is primordial in the reduction of environmental impact. We see the positive impact caused by shape optimization in saving material and making durable objects such as bridges and parametric architectural buildings. The combination of 3D-manufactured concrete and topology optimization allows the production of more performant and lightweight structural elements with no formwork and fewer workers. Many projects integrating shape optimization have been realized worldwide. In this article, we reviewed studies and projects that have explored the feasibility of using topology optimization and 3D printing technology to create complex, lightweight, and performant additively manufactured concrete structures with minimal material waste.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../batt_mill_zivk.2019.SA3PoODCCLS/">Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures</a></li>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
@@ -100,7 +77,36 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{najm_abou_najm_erri.2025.TOi3CPS,
+      author            = "Asmae Najm-Eddine and Mohamed Abouelmajd and Youssef Najm-Eddine and Ilham Erritali and Ismail Arroub and Ahmed Bahlaoui and Manuel Lagache and Soufiane Belhouideg",
+      title             = "Topological Optimization in 3D Concrete Printing Structures: A Review",
+      doi               = "10.1109/icoa66896.2025.11236952",
+      year              = "2025",
+      pages             = "1--6",
+      booktitle         = "2025 11th International Conference on Optimization and Applications (ICOA)",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Najm-Eddine, “Topological Optimization in 3D Concrete Printing Structures: A Review”, in <i>2025 11th International Conference on Optimization and Applications (ICOA)</i>,  2025, pp. 1–6. doi: 10.1109/icoa66896.2025.11236952.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Najm-Eddine, Asmae, Mohamed Abouelmajd, Youssef Najm-Eddine, Ilham Erritali, Ismail Arroub, Ahmed Bahlaoui, Manuel Lagache, and Soufiane Belhouideg. “Topological Optimization in 3D Concrete Printing Structures: A Review”. In <i>2025 11th International Conference on Optimization and Applications (ICOA)</i>, 1–6, 2025. https://doi.org/10.1109/icoa66896.2025.11236952.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #carbonation
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
   <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
   <li><a href="../../../author/song_qiang"><b>Song</b> Qiang</a>, <a href="../../../author/zhou_guangyu"><b>Zhou</b> Guangyu</a>, <a href="../../../author/bao_hailing"><b>Bao</b> Hailing</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../song_zhou_bao_liu.2025.SotEoNPCMaVDotPaMPot3PCM/">Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Susanne Christ, Martin Schnabel, Elke Vorndran, Jürgen Groll, Uwe Gbureck
+    - footer
+title: Christ Susanne, Schnabel Martin, Vorndran Elke, Groll Jürgen, Gbureck Uwe
 description:
 tags:
  - fiber
@@ -11,28 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fiber-Reinforcement During 3D Printing ([2014-10](date/2014/10))
-<a href="https://doi.org/10.1016/j.matlet.2014.10.065" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matlet.2014.10.065</a>
+#Fiber-Reinforcement During 3D Printing ([2014-10](date/2014/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2014.10.065" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2014.10.065" target="_blank">10.1016/j.matlet.2014.10.065</a>
 
--------------------------
+<a href="../../../author/christ_susanne"><b>Christ</b>&nbsp;Susanne</a></span>, <a href="../../../author/schnabel_martin"><b>Schnabel</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9907-7590" title="ORCID: 0000-0001-9907-7590" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vorndran_elke"><b>Vorndran</b>&nbsp;Elke</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3167-8466" title="ORCID: 0000-0003-3167-8466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/groll_jurgen"><b>Groll</b>&nbsp;Jürgen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2584-4176" title="ORCID: 0000-0002-2584-4176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gbureck_uwe"><b>Gbureck</b>&nbsp;Uwe</a></span><br>
+Journal Article - Materials Letters, Vol. 139, pp. 165-168
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>
-,     <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>
-,     <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a> <a href="https://orcid.org/0000-0001-9907-7590" title="ORCID: 0000-0001-9907-7590" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> <a href="https://orcid.org/0000-0003-3167-8466" title="ORCID: 0000-0003-3167-8466" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gbureck_uwe"><b>Gbureck</b> Uwe</a> <a href="https://orcid.org/0000-0002-2584-4176" title="ORCID: 0000-0002-2584-4176" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Letters, Vol. 139, pp. 165-168
-
-:aca-blank:{ .lg .middle}
-    [`#fiber`](keyword/fiber)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fiber-Reinforcement%20During%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84908424134&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -47,20 +33,16 @@ tags:
 <a href="https://inciteful.xyz/p/W2043369394" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matlet.2014.10.065" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matlet.2014.10.065?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional (3D) printing is an attractive rapid prototyping technology for the fabrication of 3D structures by the localized deposition of a reactive binder liquid onto thin powder layers in predominantly technical applications. A practical limitation is often the low green strength ofprinted samples, which can lead to a collapse of large and fragile structures during removal from the powder bed and the following depowdering procedure. Fibre reinforcement may improve green mechanical properties of printed samples, which was investigated in this study using a range of different short fibres added to a matrix of cellulosemodified gypsum powder. Mechanical testing ofprinted samples revealed a bending strength increase of180% and up to 10 times higher work of fracture values compared to non-reinforced printed samples.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a></li>
       <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>, <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_chen_li_wang.2024.SotFBaAo3PPFRC/">Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete</a></li>
@@ -97,4 +79,34 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chri_schn_vorn_grol.2015.FRD3P,
+      author            = "Susanne Christ and Martin Schnabel and Elke Vorndran and Jürgen Groll and Uwe Gbureck",
+      title             = "Fiber-Reinforcement During 3D Printing",
+      doi               = "10.1016/j.matlet.2014.10.065",
+      year              = "2015",
+      journal           = "Materials Letters",
+      volume            = "139",
+      pages             = "165--168",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Christ, M. Schnabel, E. Vorndran, J. Groll and U. Gbureck, “Fiber-Reinforcement During 3D Printing”, <i>Materials Letters</i>, vol. 139, pp. 165–168, 2015, doi: 10.1016/j.matlet.2014.10.065.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Christ, Susanne, Martin Schnabel, Elke Vorndran, Jürgen Groll, and Uwe Gbureck. “Fiber-Reinforcement During 3D Printing”. <i>Materials Letters</i> 139 (2015): 165–68. https://doi.org/10.1016/j.matlet.2014.10.065.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

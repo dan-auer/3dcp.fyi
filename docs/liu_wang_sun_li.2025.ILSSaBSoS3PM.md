@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiong Liu, Qiming Wang, Chang Sun, Jiawang Li, Amardeep Singh
+    - footer
+title: Liu Qiong, Wang Qiming, Sun Chang, Li Jiawang, Singh Amardeep
 description:
 tags:
  - bond
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/coatings15010058) Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar ([2025-01](date/2025/01))
-<a href="https://doi.org/10.3390/coatings15010058" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/coatings15010058</a>
+#Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar ([2025-01](date/2025/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/coatings15010058) <a href="https://doi.org/10.3390/coatings15010058" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/coatings15010058" target="_blank">10.3390/coatings15010058</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1116-0910" title="ORCID: 0009-0001-1116-0910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_qiming"><b>Wang</b>&nbsp;Qiming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_chang"><b>Sun</b>&nbsp;Chang</a></span>, <a href="../../../author/li_jiawang"><b>Li</b>&nbsp;Jiawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span><br>
+Journal Article - Coatings, Vol. 15, Iss. 1, No. 58
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a> <a href="https://orcid.org/0009-0001-1116-0910" title="ORCID: 0009-0001-1116-0910" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_chang"><b>Sun</b> Chang</a> <a href="https://orcid.org/0000-0001-6315-0725" title="ORCID: 0000-0001-6315-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Coatings, Vol. 15, Iss. 1, No. 58
-
-:aca-blank:{ .lg .middle}
-    [`#bond`](keyword/bond)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#shear`](keyword/shear)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Shear%20Strength%20and%20Bonding%20Strength%20of%20Sinuous%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215989146&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406116204" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/coatings15010058" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/coatings15010058?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Addressing the challenge of weak interface strength in 3D-printed mortars, this study introduces a novel technique using sinuous printing trajectories. The self-locking interface is formed by different meandering print trajectories, and the changes in the strength of the test interface are investigated by adjusting the trajectories to form different amplitudes. This ensures alignment of peaks and troughs between layers, aiming for enhanced interfacial cohesion. Experimental tests measured mechanical properties of printed mortar specimens with varying amplitudes. Using Digital Image Correlation technology, strain fields and fracture surfaces were analyzed. Initial results revealed a 28% decrease in shear resistance for side-by-side printed interfaces compared to traditional layered interfaces. As amplitude increased, shear load-bearing capacity improved. Specifically, a 15 mm amplitude saw a 40% rise in interlayer shear strength. However, a 20 mm amplitude led to reduced shear capacity, with even slight forces causing potential fractures. Tensile strength also increased with amplitude. Specimens up to 15 mm amplitude primarily followed the printing interface in fractures, while a 20 mm amplitude cut through mortar strips. Post-fracture analysis showed the highest surface irregularity at a 15 mm amplitude, aligning with tensile load-bearing capacity.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
@@ -108,8 +86,39 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/campos_tatiana"><b>Campos</b> Tatiana</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ribe_camp_bran_figu.2025.3CS/">3DCP Composite Systems:<br/>Additive Manufacturing of a Concrete and Cellulose Interlocking Wall</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_wang_sun_li.2025.ILSSaBSoS3PM,
+      author            = "Qiong Liu and Qiming Wang and Chang Sun and Jiawang Li and Amardeep Singh",
+      title             = "Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar",
+      doi               = "10.3390/coatings15010058",
+      year              = "2025",
+      journal           = "Coatings",
+      volume            = "15",
+      number            = "1",
+      pages             = "58",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, Q. Wang, C. Sun, J. Li and A. Singh, “Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar”, <i>Coatings</i>, vol. 15, no. 1, p. 58, 2025, doi: 10.3390/coatings15010058.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiong, Qiming Wang, Chang Sun, Jiawang Li, and Amardeep Singh. “Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar”. <i>Coatings</i> 15, no. 1 (2025): 58. https://doi.org/10.3390/coatings15010058.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

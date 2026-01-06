@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Qian, Sudong Hua, Hongfei Yue, Guiyang Feng, Liying Qian, WenJia Jiang, Lili Zhang
+    - footer
+title: Qian Hao, Hua Sudong, Yue Hongfei, Feng Guiyang, Qian Liying, Jiang WenJia, Zhang Lili
 description:
 tags:
  - concrete
@@ -18,37 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.jobe.2022.105236" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2022.105236</a>
+#Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization ([2022-09](date/2022/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.105236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.105236" target="_blank">10.1016/j.jobe.2022.105236</a>
 
--------------------------
+<a href="../../../author/qian_hao"><b>Qian</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span>, <a href="../../../author/yue_hongfei"><b>Yue</b>&nbsp;Hongfei</a></span>, <a href="../../../author/feng_guiyang"><b>Feng</b>&nbsp;Guiyang</a></span>, <a href="../../../author/qian_liying"><b>Qian</b>&nbsp;Liying</a></span>, <a href="../../../author/jiang_wenjia"><b>Jiang</b>&nbsp;WenJia</a></span>, <a href="../../../author/zhang_lili"><b>Zhang</b>&nbsp;Lili</a></span><br>
+Journal Article - Journal of Building Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/qian_hao"><b>Qian</b> Hao</a>
-,     <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> <a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>
-,     <a href="../../../author/feng_guiyang"><b>Feng</b> Guiyang</a>
-,     <a href="../../../author/qian_liying"><b>Qian</b> Liying</a>
-,     <a href="../../../author/jiang_wenjia"><b>Jiang</b> WenJia</a>
-,     <a href="../../../author/zhang_lili"><b>Zhang</b> Lili</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#packing`](keyword/packing)
-    [`#particle`](keyword/particle)
-    [`#powder`](keyword/powder)
-    [`#printability`](keyword/printability)
-    [`#recycling`](keyword/recycling)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Utilization%20of%20Recycled%20Construction-Powder%20in%203D%20Concrete%20Printable%20Materials%20through%20Particle-Packing-Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138123350&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4296246752" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2022.105236" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2022.105236?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     With the enhancement of awareness of environmental protection and sustainable development, reuse of industrial solid waste has gradually attracted people’s attention. The utilization of recycled construction powder (RCP) and recycled construction aggregate(RCA)in the production of 3D concrete printable material(3DPM) can not only reduce carbon emissions, but also promote the application of 3D printing technology by reducing material costs. Considering the defect of low-reactivity and inferior property of RCP, the appropriate RCP is screened out according to the modified Andreasen and Andersen model to optimize the gradation of printable materials. Influence of RCP on the fresh property is investigated by rheological experiment and the incipient failure height test. The results show that the addition of 10%RCP would increase the yield stress from 1423Pa to 1573Pa and maintain the viscosity of the material. Moreover, unconfined compressive strength test, isothermal calorimetry and mercury intrusion porosimetry test are also used to characterize the properties of 3DPM. The results show that although the addition of RCP reduces the total heat release of 3DPM, it also reduces the macropore(>1000 nm) of 3DPM from 10.7% to 7.1%, and keep the compressive strength within an acceptable range through the gradation optimization. Finally, the results of laboratory printing or industrial printing also confirm the printing performance of 3DPM.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -92,8 +65,8 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
       <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA/">Rheological and Early Age Mechanical Properties of 3D Printed Concrete Containing Copper Heap Leach Residue as Fine Aggregate</a></li>
@@ -113,4 +86,32 @@ tags:
       <li><a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gao_hua_yue.2023.SoPaRPo3PPFC/">Study on Preparation and Rheological Properties of 3D Printed Pre-Foaming Concrete</a></li>
       <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{qian_hua_yue_feng.2022.UoRCPi3CPMtPPO,
+      author            = "Hao Qian and Sudong Hua and Hongfei Yue and Guiyang Feng and Liying Qian and WenJia Jiang and Lili Zhang",
+      title             = "Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization",
+      doi               = "10.1016/j.jobe.2022.105236",
+      year              = "2022",
+      journal           = "Journal of Building Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Qian, “Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization”, <i>Journal of Building Engineering</i>, 2022, doi: 10.1016/j.jobe.2022.105236.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Qian, Hao, Sudong Hua, Hongfei Yue, Guiyang Feng, Liying Qian, WenJia Jiang, and Lili Zhang. “Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials Through Particle-Packing-Optimization”. <i>Journal of Building Engineering</i>, 2022. https://doi.org/10.1016/j.jobe.2022.105236.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

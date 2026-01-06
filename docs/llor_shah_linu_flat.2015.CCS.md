@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ena Lloret-Fritschi, Amir Shahab, Mettler Linus, Robert Flatt, Fabio Gramazio, Matthias Kohler, Silke Langenberg
+    - footer
+title: Lloret-Fritschi Ena, Shahab Amir, Linus Mettler, Flatt Robert, Gramazio Fabio, Kohler Matthias, Langenberg Silke
 description:
 tags:
  - cast
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Complex Concrete Structures:<br/>:aca-blank: Merging Existing Casting Techniques with Digital Fabrication ([2014-03](date/2014/03))
-<a href="https://doi.org/10.1016/j.cad.2014.02.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cad.2014.02.011</a>
+#Complex Concrete Structures&nbsp;([2014-03](date/2014/03))
+<div class="h1-like">Merging Existing Casting Techniques with Digital Fabrication</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cad.2014.02.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cad.2014.02.011" target="_blank">10.1016/j.cad.2014.02.011</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <a href="../../../author/shahab_r_amir"><b>Shahab</b>&nbsp;Amir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0791-9082" title="ORCID: 0000-0002-0791-9082" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/linus_ken_mettler"><b>Linus</b>&nbsp;Mettler</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6114-2369" title="ORCID: 0000-0001-6114-2369" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/langenberg_silke"><b>Langenberg</b>&nbsp;Silke</a></span><br>
+Journal Article - Computer-Aided Design, Vol. 60, pp. 40-49
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>
-,     <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a> <a href="https://orcid.org/0000-0002-0791-9082" title="ORCID: 0000-0002-0791-9082" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a> <a href="https://orcid.org/0000-0001-6114-2369" title="ORCID: 0000-0001-6114-2369" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Computer-Aided Design, Vol. 60, pp. 40-49
-
-:aca-blank:{ .lg .middle}
-    [`#cast`](keyword/cast)
-    [`#complexity`](keyword/complexity)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#existence`](keyword/existence)
-    [`#fabrication`](keyword/fabrication)
-    [`#structure`](keyword/structure)
-    [`#technique`](keyword/technique)
-
-
--------------------------
+<a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/existence"><button class="btn">#existence</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Complex%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84915791714&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,23 +39,18 @@ tags:
 <a href="https://inciteful.xyz/p/W2320043955" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cad.2014.02.011" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cad.2014.02.011?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Over the course of the 20th century, architectural construction has gone through intense innovation in its material, engineering and design, radically transforming the way buildings were and are conceived. Technological and industrial advances enabled and challenged architects, engineers and constructors to build increasingly complex architectural structures from concrete. Computer-aided design and manufacturing (CAD/CAM) techniques have, more recently, rejuvenated and increased the possibilities of realizing ever more complex geometries. Reinforced concrete is often chosen for such structures as almost any shape can be achieved when placed into a formwork. However, most complex forms generated with these digital design tools bear little relation to the default modes of production used in concrete construction today. A large gap has emerged between the possibilities offered by the digital technology in architectural design and the reality of the building industry, where actually no efficient solutions exist for the production of complex concrete structures. This paper presents construction methods that unfold their full potential by linking digital design, additive fabrication and material properties and hence allow accommodating the construction of complex concrete structures. The emphasis is set on the on-going research project Smart Dynamic Casting (SDC) where advanced material design and robotic fabrication are interconnected in the design and fabrication process of complex concrete structures. The proposed fabrication process is belonging to an emerging architectural phenomenon defined first as Digital Materiality by Gramazio& Kohler (2008) or more recently as Material Ecologies by Neri Oxman [1].
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "187 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
       <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>
@@ -263,7 +238,35 @@ tags:
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
-      <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a>, <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a> <a href="../../../date/2013/05">(2013-05)</a><br><a href="../../../llor_gram_kohl_lang.2013.CCC/">Complex Concrete Constructions:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{llor_shah_linu_flat.2015.CCS,
+      author            = "Ena Lloret-Fritschi and Amir R. Shahab and Mettler Ken Linus and Robert Johann Flatt and Fabio Gramazio and Matthias Daniel Kohler and Silke Langenberg",
+      title             = "Complex Concrete Structures: Merging Existing Casting Techniques with Digital Fabrication",
+      doi               = "10.1016/j.cad.2014.02.011",
+      year              = "2015",
+      journal           = "Computer-Aided Design",
+      volume            = "60",
+      pages             = "40--49",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. Lloret-Fritschi, “Complex Concrete Structures: Merging Existing Casting Techniques with Digital Fabrication”, <i>Computer-Aided Design</i>, vol. 60, pp. 40–49, 2015, doi: 10.1016/j.cad.2014.02.011.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lloret-Fritschi, Ena, Amir R. Shahab, Mettler Ken Linus, Robert Johann Flatt, Fabio Gramazio, Matthias Daniel Kohler, and Silke Langenberg. “Complex Concrete Structures: Merging Existing Casting Techniques with Digital Fabrication”. <i>Computer-Aided Design</i> 60 (2015): 40–49. https://doi.org/10.1016/j.cad.2014.02.011.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

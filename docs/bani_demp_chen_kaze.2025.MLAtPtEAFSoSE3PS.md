@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kasra Banijamali, Mary Dempsey, Jianhua Chen, Ali Kazemian
+    - footer
+title: Banijamali Kasra, Dempsey Mary, Chen Jianhua, Kazemian Ali
 description:
 tags:
  - age
@@ -20,36 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1007/s40964-025-01017-4) Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1007/s40964-025-01017-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-025-01017-4</a>
+#Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures ([2025-02](date/2025/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s40964-025-01017-4) <a href="https://doi.org/10.1007/s40964-025-01017-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01017-4" target="_blank">10.1007/s40964-025-01017-4</a>
 
--------------------------
+<a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/dempsey_mary"><b>Dempsey</b>&nbsp;Mary</a></span>, <a href="../../../author/chen_jianhua"><b>Chen</b>&nbsp;Jianhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>
-,     <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>
-,     <a href="../../../author/chen_jianhua"><b>Chen</b> Jianhua</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#approach`](keyword/approach)
-    [`#early`](keyword/early)
-    [`#embedded`](keyword/embedded)
-    [`#flexural`](keyword/flexural)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#sensor`](keyword/sensor)
-    [`#strength`](keyword/strength)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Machine%20Learning%20Approach%20to%20Predict%20the%20Early-Age%20Flexural%20Strength%20of%20Sensor-Embedded%203D-Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218705526&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4407830869" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-025-01017-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-025-01017-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The absence of formwork in 3D-printed concrete, unlike conventional mold-cast concrete, introduces greater variability in curing conditions, posing significant challenges in accurately estimating the early-age mechanical strength. Therefore, common non-destructive techniques such as the maturity method fail to deliver a generalized predictive model for the mechanical strength of 3D-printed structures. In this study, multiple machine learning (ML) algorithms, including linear regression (LR), support vector regression (SVR), and artificial neural network (ANN), were developed to estimate the early-age flexural strength of 3D-printed beams under varying curing conditions, utilizing data collected from embedded sensors. Six input variables were employed for the ML models, including relative permittivity, internal temperature, and curing method. For model development, 144 data points were collected from an extensive experimental study, and multiple statistical metrics were employed to evaluate the proposed models. The ANN model outperformed the other models in predicting early-age strength, achieving a coefficient of determination of 95.1%. Furthermore, the input variable analysis highlighted the curing method as the most influential factor affecting the strength of 3D-printed beams.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
@@ -111,8 +85,36 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/tan_yanke"><b>Tan</b> Yanke</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zheng_shipeng"><b>Zheng</b> Shipeng</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM/">Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing</a></li>
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bani_demp_chen_kaze.2025.MLAtPtEAFSoSE3PS,
+      author            = "Kasra Banijamali and Mary Dempsey and Jianhua Chen and Ali Kazemian",
+      title             = "Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures",
+      doi               = "10.1007/s40964-025-01017-4",
+      year              = "2025",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Banijamali, M. Dempsey, J. Chen and A. Kazemian, “Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures”, <i>Progress in Additive Manufacturing</i>, 2025, doi: 10.1007/s40964-025-01017-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Banijamali, Kasra, Mary Dempsey, Jianhua Chen, and Ali Kazemian. “Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures”. <i>Progress in Additive Manufacturing</i>, 2025. https://doi.org/10.1007/s40964-025-01017-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

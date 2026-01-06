@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Sant Gaurav 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
   <li><a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a>, <a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b> Thiyagarajan</a>, <a href="../../../author/wani_kiran_shubham"><b>Wani</b> Shubham</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kand_remk_rang_wani.2025.DaFoTUSSFf3P/">Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing</a></li>
   <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a>, <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dai_kand_neit_kuma.2024.TSSaFAsAAbCO2AF3P/">Thermally Stimulated Stiffening and Fly-Ash’s Alkaline-Activation by Ca(OH)2 Addition Facilitates 3D Printing</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jianyu Shen, Taohua Ye, Jianzhuang Xiao, Shuisheng Li
+    - footer
+title: Shen Jianyu, Ye Taohua, Xiao Jianzhuang, Li Shuisheng
 description:
 tags:
  - clay
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical and Thermal Properties of 3D Printed Earth Concrete Solidified by Geopolymers:<br/>:aca-blank: A Study of Utilizing Excavated Clay ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112705" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112705</a>
+#Mechanical and Thermal Properties of 3D Printed Earth Concrete Solidified by Geopolymers&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">A Study of Utilizing Excavated Clay</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112705" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112705" target="_blank">10.1016/j.jobe.2025.112705</a>
 
--------------------------
+<a href="../../../author/shen_jianyu"><b>Shen</b>&nbsp;Jianyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_taohua"><b>Ye</b>&nbsp;Taohua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/li_shuisheng"><b>Li</b>&nbsp;Shuisheng</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112705
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/shen_jianyu"><b>Shen</b> Jianyu</a>
-,     <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a> <a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_shuisheng"><b>Li</b> Shuisheng</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112705
-
-:aca-blank:{ .lg .middle}
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#earth`](keyword/earth)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#solid`](keyword/solid)
-    [`#temperature`](keyword/temperature)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Thermal%20Properties%20of%203D%20Printed%20Earth%20Concrete%20Solidified%20by%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003550266&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409644666" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112705" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112705?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Earth concrete (EC) is a low-carbon and green building material. However, its widespread application is limited due to low strength, low water resistance, and high labor density. In this work, a combination of 3D printing and geopolymer was utilized to solidify excavated clay, and 3D printed earth concrete (3DPEC) was prepared. Firstly, the flowability, consistency, and buildability of 3DPEC were tested to demonstrate the feasibility of EC for 3D printing. Secondly, a quantitative evaluation was conducted on the anisotropic flexural strength, compressive strength, and stacked and adjacent interlayer bonding strengths of 3DPEC. It was found that geopolymer solidification can significantly improve the compressive strength and flexural strength of EC, with a maximum increase of 2378% and 3448%, respectively. Computed tomography (CT) was used to analyze the pore structure and distribution of 3DPEC. The analysis revealed that solidification significantly inhibits cracks and reduces porosity, especially decreasing the number and proportion of pores with a volume greater than 1 mm3. The thermal conductivity of 3DPEC was analyzed using the transient hot wire method. The thermal conductivity of 3DPEC was increased by 43.7% after solidification, but it was about 9.6% to 10.4% lower than cast EC. Therefore, 3DPEC has potential applications in low-rise buildings, attributed to its satisfactory mechanical and thermal properties and low environmental impacts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
@@ -97,7 +74,36 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{shen_ye_xiao_li.2025.MaTPo3PECSbG,
+      author            = "Jianyu Shen and Taohua Ye and Jianzhuang Xiao and Shuisheng Li",
+      title             = "Mechanical and Thermal Properties of 3D Printed Earth Concrete Solidified by Geopolymers: A Study of Utilizing Excavated Clay",
+      doi               = "10.1016/j.jobe.2025.112705",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112705",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Shen, T. Ye, J. Xiao and S. Li, “Mechanical and Thermal Properties of 3D Printed Earth Concrete Solidified by Geopolymers: A Study of Utilizing Excavated Clay”, <i>Journal of Building Engineering</i>, p. 112705, 2025, doi: 10.1016/j.jobe.2025.112705.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Shen, Jianyu, Taohua Ye, Jianzhuang Xiao, and Shuisheng Li. “Mechanical and Thermal Properties of 3D Printed Earth Concrete Solidified by Geopolymers: A Study of Utilizing Excavated Clay”. <i>Journal of Building Engineering</i>, 2025, 112705. https://doi.org/10.1016/j.jobe.2025.112705.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

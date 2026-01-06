@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lior Skoury, Ofer Asaf, Aaron Sprecher, Achim Menges, Thomas Wortmann
+    - footer
+title: Skoury Lior, Asaf Ofer, Sprecher Aaron, Menges Achim, Wortmann Thomas
 description:
 tags:
  - construction
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Data-Informed Digital Twin for Large-Scale 3D Printing in Construction ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.autcon.2025.106706" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2025.106706</a>
+#Data-Informed Digital Twin for Large-Scale 3D Printing in Construction ([2025-12](date/2025/12))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106706" target="_blank">10.1016/j.autcon.2025.106706</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2835-827X" title="ORCID: 0000-0002-2835-827X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skoury_lior"><b>Skoury</b>&nbsp;Lior</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asaf_ofer"><b>Asaf</b>&nbsp;Ofer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprecher_aaron"><b>Sprecher</b>&nbsp;Aaron</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9055-4039" title="ORCID: 0000-0001-9055-4039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menges_achim"><b>Menges</b>&nbsp;Achim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5604-1624" title="ORCID: 0000-0002-5604-1624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wortmann_thomas"><b>Wortmann</b>&nbsp;Thomas</a></span><br>
+Journal Article - Automation in Construction, Vol. 182, No. 106706
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a> <a href="https://orcid.org/0000-0002-2835-827X" title="ORCID: 0000-0002-2835-827X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a> <a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> <a href="https://orcid.org/0000-0001-9055-4039" title="ORCID: 0000-0001-9055-4039" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wortmann_thomas"><b>Wortmann</b> Thomas</a> <a href="https://orcid.org/0000-0002-5604-1624" title="ORCID: 0000-0002-5604-1624" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 182, No. 106706
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#data`](keyword/data)
-    [`#digital`](keyword/digital)
-    [`#information`](keyword/information)
-    [`#large`](keyword/large)
-    [`#print`](keyword/print)
-    [`#scale`](keyword/scale)
-    [`#twin`](keyword/twin)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Data-Informed%20Digital%20Twin%20for%20Large-Scale%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2025.106706" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2025.106706?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Large-scale 3D printing promises major benefits for the architecture, engineering and construction (AEC) industry but faces challenges including variable material behaviour, multi-machine coordination and dynamic process control. This paper presents a data-driven digital twin that couples real-time monitoring, predictive modelling and adaptive feedback. Machine parameters are continuously linked to material rheology and print outcomes, forming a virtual representation of the process. A clustering-based analysis classifies material mixtures and drives feedback control of printing parameters, improving stability, accuracy and efficiency. The digital twin is demonstrated on a large-scale setup with two machines operating in parallel and five services forming a closed feedback loop. Experiments show reduced material consumption by 7.5% and more consistent, higher-quality prints when using the predictive digital twin. These results indicate that integrating digital twins into large-scale 3D printing can support more robust, adaptive and scalable production.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
@@ -115,7 +92,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{skou_asaf_spre_meng.2026.DIDTfLS3PiC,
+      author            = "Lior Skoury and Ofer Asaf and Aaron Sprecher and Achim Menges and Thomas Wortmann",
+      title             = "Data-Informed Digital Twin for Large-Scale 3D Printing in Construction",
+      doi               = "10.1016/j.autcon.2025.106706",
+      year              = "2026",
+      journal           = "Automation in Construction",
+      volume            = "182",
+      pages             = "106706",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Skoury, O. Asaf, A. Sprecher, A. Menges and T. Wortmann, “Data-Informed Digital Twin for Large-Scale 3D Printing in Construction”, <i>Automation in Construction</i>, vol. 182, p. 106706, 2026, doi: 10.1016/j.autcon.2025.106706.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Skoury, Lior, Ofer Asaf, Aaron Sprecher, Achim Menges, and Thomas Wortmann. “Data-Informed Digital Twin for Large-Scale 3D Printing in Construction”. <i>Automation in Construction</i> 182 (2026): 106706. https://doi.org/10.1016/j.autcon.2025.106706.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

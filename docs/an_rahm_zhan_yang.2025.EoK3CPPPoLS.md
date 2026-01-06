@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Dong An, Mahfuzur Rahman, Y. Zhang, Chunhui Yang
+    - footer
+title: An Dong, Rahman Mahfuzur, Zhang Y., Yang Chunhui
 description:
 tags:
  - concrete
@@ -19,35 +20,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2025.e04718) Effects of Key 3D Concrete Printing Process Parameters on Layer Shape:<br/>:aca-blank: Experimental Study and Smooth Particle Hydrodynamics Modelling ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cscm.2025.e04718" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e04718</a>
+#Effects of Key 3D Concrete Printing Process Parameters on Layer Shape&nbsp;([2025-05](date/2025/05))
+<div class="h1-like">Experimental Study and Smooth Particle Hydrodynamics Modelling</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04718) <a href="https://doi.org/10.1016/j.cscm.2025.e04718" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04718" target="_blank">10.1016/j.cscm.2025.e04718</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_dong"><b>An</b>&nbsp;Dong</a></span>, <a href="../../../author/rahman_mahfuzur"><b>Rahman</b>&nbsp;Mahfuzur</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_richard_chunhui"><b>Yang</b>&nbsp;Chunhui</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e04718
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/an_dong"><b>An</b> Dong</a> <a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>
-,     <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>
-,     <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e04718
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#experiment`](keyword/experiment)
-    [`#layer`](keyword/layer)
-    [`#model`](keyword/model)
-    [`#parameter`](keyword/parameter)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#shape`](keyword/shape)
-    [`#smooth`](keyword/smooth)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/smooth"><button class="btn">#smooth</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Key%203D%20Concrete%20Printing%20Process%20Parameters%20on%20Layer%20Shape" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004028408&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410014706" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e04718" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e04718?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) is an innovative technology with significant potential in construction. However, it faces critical challenges in achieving precise layer geometry and dimensional accuracy, as small geometric deviations in individual layers can compromise the stability and performance of the entire structure. To investigate the underlying deformation mechanisms, this study develops an integrated analysis framework combining experimental study with Smooth Particle Hydrodynamics (SPH) modelling. Key rheological and process parameters for 3DCP are identified experimentally. For the first time, a novel three-dimensional (3-D) SPH model is devised to simulate single- and double-layer concrete printing processes, considering nozzle moving speed, material inlet speed, and nozzle height. The high consistency between experimental and SPH results demonstrates the accuracy of models in predicting layer shape and tracking inter-layer deformations. Parametric analysis reveals a self-compensatory effect of nozzle height on layer height variations and demonstrates that a lower nozzle speed to material inlet velocity ratio improves layer shape and structural performance. These findings provide insights into the control of construction materials to enhance printing quality and structural reliability in 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
@@ -101,8 +77,37 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/meni_simone"><b>Meni</b> Simone</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rizz_meni_crem_ferr.2025.APFEMfItIoMaPPi3CP/">A Particle Finite Element Method for Investigating the Influence of Material and Process Parameters in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{an_rahm_zhan_yang.2025.EoK3CPPPoLS,
+      author            = "Dong An and Mahfuzur Rahman and Y. X. Zhang and Chunhui Richard Yang",
+      title             = "Effects of Key 3D Concrete Printing Process Parameters on Layer Shape: Experimental Study and Smooth Particle Hydrodynamics Modelling",
+      doi               = "10.1016/j.cscm.2025.e04718",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e04718",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. An, M. Rahman, Y. X. Zhang and C. R. Yang, “Effects of Key 3D Concrete Printing Process Parameters on Layer Shape: Experimental Study and Smooth Particle Hydrodynamics Modelling”, <i>Case Studies in Construction Materials</i>, p. e04718, 2025, doi: 10.1016/j.cscm.2025.e04718.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">An, Dong, Mahfuzur Rahman, Y. X. Zhang, and Chunhui Richard Yang. “Effects of Key 3D Concrete Printing Process Parameters on Layer Shape: Experimental Study and Smooth Particle Hydrodynamics Modelling”. <i>Case Studies in Construction Materials</i>, 2025, e04718. https://doi.org/10.1016/j.cscm.2025.e04718.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hao Kuang, Yang Deng, Dong Wang, Shouwei Jian, Zhengdong Hong, Tiezhu Wang, Mesfin Manuka, Rong Yang, Fengyang Zhou, Yunchao Yin, Jiyun Huang, Ruoyun Lv, Jian Huang
+    - footer
+title: Kuang Hao, Deng Yang, Wang Dong, Jian Shouwei, Hong Zhengdong, Wang Tiezhu, Manuka Mesfin, Yang Rong, Zhou Fengyang, Yin Yunchao, Huang Jiyun, Lv Ruoyun, Huang Jian
 description:
 tags:
  - base
@@ -18,43 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Strengthening Effect of In-Situ Sprayed UV-Curable Polyurethane-Acrylate Resin Coating on Slag-Based 3D Printing Concrete ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.mtcomm.2025.112758" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.mtcomm.2025.112758</a>
+#Strengthening Effect of In-Situ Sprayed UV-Curable Polyurethane-Acrylate Resin Coating on Slag-Based 3D Printing Concrete ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mtcomm.2025.112758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2025.112758" target="_blank">10.1016/j.mtcomm.2025.112758</a>
 
--------------------------
+<a href="../../../author/kuang_hao"><b>Kuang</b>&nbsp;Hao</a></span>, <a href="../../../author/deng_yang"><b>Deng</b>&nbsp;Yang</a></span>, <a href="../../../author/wang_dong"><b>Wang</b>&nbsp;Dong</a></span>, <a href="../../../author/jian_shouwei"><b>Jian</b>&nbsp;Shouwei</a></span>, <a href="../../../author/hong_zhengdong"><b>Hong</b>&nbsp;Zhengdong</a></span>, <a href="../../../author/wang_tiezhu"><b>Wang</b>&nbsp;Tiezhu</a></span>, <a href="../../../author/manuka_mesfin"><b>Manuka</b>&nbsp;Mesfin</a></span>, <a href="../../../author/yang_rong"><b>Yang</b>&nbsp;Rong</a></span>, <a href="../../../author/zhou_fengyang"><b>Zhou</b>&nbsp;Fengyang</a></span>, <a href="../../../author/yin_yunchao"><b>Yin</b>&nbsp;Yunchao</a></span>, <a href="../../../author/huang_jiyun"><b>Huang</b>&nbsp;Jiyun</a></span>, <a href="../../../author/lv_ruoyun"><b>Lv</b>&nbsp;Ruoyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1550-9067" title="ORCID: 0000-0002-1550-9067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_jian"><b>Huang</b>&nbsp;Jian</a></span><br>
+Journal Article - Materials Today Communications, Vol. 46, No. 112758
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kuang_hao"><b>Kuang</b> Hao</a>
-,     <a href="../../../author/deng_yang"><b>Deng</b> Yang</a>
-,     <a href="../../../author/wang_dong"><b>Wang</b> Dong</a>
-,     <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a>
-,     <a href="../../../author/hong_zhengdong"><b>Hong</b> Zhengdong</a>
-,     <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>
-,     <a href="../../../author/manuka_mesfin"><b>Manuka</b> Mesfin</a>
-,     <a href="../../../author/yang_rong"><b>Yang</b> Rong</a>
-,     <a href="../../../author/zhou_fengyang"><b>Zhou</b> Fengyang</a>
-,     <a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>
-,     <a href="../../../author/huang_jiyun"><b>Huang</b> Jiyun</a>
-,     <a href="../../../author/lv_ruoyun"><b>Lv</b> Ruoyun</a>
-,     <a href="../../../author/huang_jian"><b>Huang</b> Jian</a> <a href="https://orcid.org/0000-0002-1550-9067" title="ORCID: 0000-0002-1550-9067" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Today Communications, Vol. 46, No. 112758
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#coat`](keyword/coat)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#print`](keyword/print)
-    [`#resin`](keyword/resin)
-    [`#situ`](keyword/situ)
-    [`#slag`](keyword/slag)
-    [`#spray`](keyword/spray)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resin"><button class="btn">#resin</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Strengthening%20Effect%20of%20In-Situ%20Sprayed%20UV-Curable%20Polyurethane-Acrylate%20Resin%20Coating%20on%20Slag-Based%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004406862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -69,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410197323" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.mtcomm.2025.112758" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.mtcomm.2025.112758?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed concrete has emerged as one of the most hotly researched 3D printing technologies due to its advantages of shaping without molds and intelligent construction. Given its low heat of hydration and low carbon emissions slag-based cement is becoming more widely used for 3D printing concrete. However, in the formwork-free shaping process, freshly printed slag-based concrete is immediately exposed to air and loses moisture much earlier than traditional cast-in-formwork concrete. As a result, there is a greater risk of drying shrinkage and cracking and poor volumetric stability of the printed part. This study investigated applicability of photopolymerization technology in improving the volumetric stability of 3D printed concrete by using UV-curable polyurethane-acrylate (PUA) resin as in-situ sprayed coating on the surface of freshly printed slag-based cement samples. The results show that, in comparison with the uncoated 3D printed cement samples, the volumetric shrinkage of the coated 3D printed cement samples significantly reduced by 44 % after 28 days of environmental curing. For samples of the same age, the compressive strength of the coated test block was increased by 27 % from 20.03 MPa to 25.49 MPa, and the interlayer bond strength was increased by 41 % from 1.46 MPa to 2.06 MPa. The sprayed UV-curable polyurethane-acrylate resin can cure rapidly on the specimen surface within seconds under the irradiation of UV light to form an in-situ protective coating, which is tightly bonded to the surface of the cement, effectively reducing water dissipation and promoting hydration, allowing more even and condense microstructures to form during hydration from the outer surface to the inner part of the printed sample, resulted in a higher strength.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -106,7 +73,37 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kuan_deng_wang_jian.2025.SEoISSUCPARCoSB3PC,
+      author            = "Hao Kuang and Yang Deng and Dong Wang and Shouwei Jian and Zhengdong Hong and Tiezhu Wang and Mesfin Manuka and Rong Yang and Fengyang Zhou and Yunchao Yin and Jiyun Huang and Ruoyun Lv and Jian Huang",
+      title             = "Strengthening Effect of In-Situ Sprayed UV-Curable Polyurethane-Acrylate Resin Coating on Slag-Based 3D Printing Concrete",
+      doi               = "10.1016/j.mtcomm.2025.112758",
+      year              = "2025",
+      journal           = "Materials Today Communications",
+      volume            = "46",
+      pages             = "112758",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Kuang, “Strengthening Effect of In-Situ Sprayed UV-Curable Polyurethane-Acrylate Resin Coating on Slag-Based 3D Printing Concrete”, <i>Materials Today Communications</i>, vol. 46, p. 112758, 2025, doi: 10.1016/j.mtcomm.2025.112758.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kuang, Hao, Yang Deng, Dong Wang, Shouwei Jian, Zhengdong Hong, Tiezhu Wang, Mesfin Manuka, et al.. “Strengthening Effect of In-Situ Sprayed UV-Curable Polyurethane-Acrylate Resin Coating on Slag-Based 3D Printing Concrete”. <i>Materials Today Communications</i> 46 (2025): 112758. https://doi.org/10.1016/j.mtcomm.2025.112758.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

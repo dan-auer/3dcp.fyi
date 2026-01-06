@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yidong Chen, Yunsheng Zhang, Hongzhu Quan, Cheng Liu, Zhiyong Liu, Yu Zhang, Mingxu Chen, Liang Wang, Zhiyong Wang
+    - footer
+title: Chen Yidong, Zhang Yunsheng, Quan Hongzhu, Liu Cheng, Liu Zhiyong, Zhang Yu, Chen Mingxu, Wang Liang, Wang Zhiyong
 description:
 tags:
  - age
@@ -18,39 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138756" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138756</a>
+#Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138756" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138756" target="_blank">10.1016/j.conbuildmat.2024.138756</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yidong"><b>Chen</b>&nbsp;Yidong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yunsheng"><b>Zhang</b>&nbsp;Yunsheng</a></span>, <a href="../../../author/quan_hongzhu"><b>Quan</b>&nbsp;Hongzhu</a></span>, <a href="../../../author/liu_cheng"><b>Liu</b>&nbsp;Cheng</a></span>, <a href="../../../author/liu_zhiyong"><b>Liu</b>&nbsp;Zhiyong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yu"><b>Zhang</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/wang_liang"><b>Wang</b>&nbsp;Liang</a></span>, <a href="../../../author/wang_zhiyong"><b>Wang</b>&nbsp;Zhiyong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 451, No. 138756
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> <a href="https://orcid.org/0000-0003-3561-8057" title="ORCID: 0000-0003-3561-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> <a href="https://orcid.org/0000-0001-5630-4570" title="ORCID: 0000-0001-5630-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/quan_hongzhu"><b>Quan</b> Hongzhu</a>
-,     <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a>
-,     <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>
-,     <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> <a href="https://orcid.org/0000-0003-4668-1553" title="ORCID: 0000-0003-4668-1553" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_liang"><b>Wang</b> Liang</a>
-,     <a href="../../../author/wang_zhiyong"><b>Wang</b> Zhiyong</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 451, No. 138756
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#aggregate`](keyword/aggregate)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#dependency`](keyword/dependency)
-    [`#early`](keyword/early)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Time-Dependent%20Mechanical%20Properties%20of%203D%20Printed%20Concrete%20with%20Coarse%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206557375&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403513502" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138756" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138756?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Incorporating coarse aggregate into 3D-printed concrete is essential for promoting its practical application, yet the impact on the early age time-dependent mechanical properties, crucial for the multilayer structure stability and quality, is underexplored. In this study, 3D-printed concrete with coarse aggregate (3DPCA) with varying mortar-to-coarse aggregate ratios (M/A) and coarse aggregate gradations were prepared, of which uniaxial unconfined compression and direct shear performance were experimentally investigated. The fundamental formulations between the early age mechanical parameters and the resting time of 3DPCA were characterized and then utilized in a digital model simulating actual printing. Results indicated that the 3DPCA early age mechanical properties, including compressive strength, Young's modulus, cohesion, and friction angle, increased with longer resting time and decreasing M/A, and higher proportions of aggregates above 9.5 mm. High coarse aggregate content caused three distinct compressive strength-displacement curve stages and complicated strength eigenvalue extraction. Coarse aggregate gradation affected shear properties more than content, with larger aggregates improving cohesion and friction angles. The failure mode prediction model based on ABAQUS could accurately predict the maximum collapse layer of 3DPCA that occurred in overall unstable collapse and over-expansion failure but was incapable of localized deformation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../bala_sasi_govi.2024.SoCoCACoEAPo3PC/">Study on Criticality of Coarse Aggregate Content on Early-Age Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
@@ -123,8 +94,38 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a>, <a href="../../../author/wang_ziyuan"><b>Wang</b> Ziyuan</a>, <a href="../../../author/yu_ruifang"><b>Yu</b> Ruifang</a>, <a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../qi_wang_yu_pei.2025.ODaRMAoMPo3PC/">Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chen_zhan_quan_liu.2024.EATDMPo3PCwCA,
+      author            = "Yidong Chen and Yunsheng Zhang and Hongzhu Quan and Cheng Liu and Zhiyong Liu and Yu Zhang and Mingxu Chen and Liang Wang and Zhiyong Wang",
+      title             = "Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates",
+      doi               = "10.1016/j.conbuildmat.2024.138756",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "451",
+      pages             = "138756",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Chen, “Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates”, <i>Construction and Building Materials</i>, vol. 451, p. 138756, 2024, doi: 10.1016/j.conbuildmat.2024.138756.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chen, Yidong, Yunsheng Zhang, Hongzhu Quan, Cheng Liu, Zhiyong Liu, Yu Zhang, Mingxu Chen, Liang Wang, and Zhiyong Wang. “Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates”. <i>Construction and Building Materials</i> 451 (2024): 138756. https://doi.org/10.1016/j.conbuildmat.2024.138756.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

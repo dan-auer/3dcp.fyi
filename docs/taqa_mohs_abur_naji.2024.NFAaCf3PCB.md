@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ala Taqa, Mohamed Mohsen, Mervat Aburumman, Khalid Naji, Ramzi Taha, Ahmed Senouci
+    - footer
+title: Taqa Ala, Mohsen Mohamed, Aburumman Mervat, Naji Khalid, Taha Ramzi, Senouci Ahmed
 description:
 tags:
  - ash
@@ -17,35 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Nano-Fly-Ash and Clay for 3D Printing Concrete Buildings:<br/>:aca-blank: A Fundamental Study of Rheological, Mechanical and Microstructural Properties ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1016/j.jobe.2024.109718" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109718</a>
+#Nano-Fly-Ash and Clay for 3D Printing Concrete Buildings&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">A Fundamental Study of Rheological, Mechanical and Microstructural Properties</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109718" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109718" target="_blank">10.1016/j.jobe.2024.109718</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6197-5296" title="ORCID: 0000-0002-6197-5296" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taqa_abu_ala"><b>Taqa</b>&nbsp;Ala</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6254-5802" title="ORCID: 0000-0002-6254-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohsen_o_mohamed"><b>Mohsen</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0177-3684" title="ORCID: 0000-0002-0177-3684" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aburumman_o_mervat"><b>Aburumman</b>&nbsp;Mervat</a></span>, <a href="../../../author/naji_khalid"><b>Naji</b>&nbsp;Khalid</a></span>, <a href="../../../author/taha_ramzi"><b>Taha</b>&nbsp;Ramzi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8624-808X" title="ORCID: 0000-0001-8624-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/senouci_ahmed"><b>Senouci</b>&nbsp;Ahmed</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 92, No. 109718
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/taqa_abu_ala"><b>Taqa</b> Ala</a> <a href="https://orcid.org/0000-0002-6197-5296" title="ORCID: 0000-0002-6197-5296" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohsen_o_mohamed"><b>Mohsen</b> Mohamed</a> <a href="https://orcid.org/0000-0002-6254-5802" title="ORCID: 0000-0002-6254-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aburumman_o_mervat"><b>Aburumman</b> Mervat</a> <a href="https://orcid.org/0000-0002-0177-3684" title="ORCID: 0000-0002-0177-3684" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/naji_khalid"><b>Naji</b> Khalid</a>
-,     <a href="../../../author/taha_ramzi"><b>Taha</b> Ramzi</a>
-,     <a href="../../../author/senouci_ahmed"><b>Senouci</b> Ahmed</a> <a href="https://orcid.org/0000-0001-8624-808X" title="ORCID: 0000-0001-8624-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 92, No. 109718
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#buildability`](keyword/buildability)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#fundament`](keyword/fundament)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fundament"><button class="btn">#fundament</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Nano-Fly-Ash%20and%20Clay%20for%203D%20Printing%20Concrete%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194310367&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399040115" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109718" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109718?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing concrete (3DPC) represents a recent innovation in the construction and building research sector and novel approach to building techniques. The focus of this study is to develop an environmentally sustainable cementitious composite optimized for 3D printing applications. The research involved preparing 3D printing mixtures that comprised of 50 % Portland Cement (PC), 50 % Colorobia Clay (CC), and varying contents (0 % 5 %, 10 %, and 15 % by weight of cement) of Nano-Fly Ash (N-FA) under standardized printing parameters. The fresh mixture's properties have been evaluated and the mechanical and microstructural properties of the printed samples were assessed, subsequently. The findings demonstrated that incorporating N-FA into the cementitious mixes enhanced their flowability and workability. Specifically, the mix containing a low N-FA concentration of 5 wt% exhibited superior compressive strength relative to the other formulations. Additionally, flexural strength assessments indicated a minimum increase of 39.4 % across all mixes compared to the control 3D-printed mixture. Microstructural investigations by SEM imaging validated the anticipated formation of hydration products, namely calcium-silicate-hydrate (CSH) and ettringite, facilitated by the synergy between clay and fly ash. The t-statistical analysis further corroborated that the inclusion of N-FA significantly bolstered the strength attributes of the mixes designated for 3D printing. In conclusion, this study underscored the efficacy of integrating clay as a sustainable construction material within 3D printing applications. The utilization of clay-cement mixes, augmented with N-FA, emerged as a viable strategy to enhance the sustainability and reduce the carbon footprint of construction practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
@@ -91,8 +67,9 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
       <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
@@ -105,4 +82,34 @@ tags:
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tarh_tarh_jacq_perr.2024.MBo3PaTREFC/">Mechanical Behavior of 3D Printed and Textile-Reinforced Eco-Friendly Composites</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{taqa_mohs_abur_naji.2024.NFAaCf3PCB,
+      author            = "Ala Abu Taqa and Mohamed O. Mohsen and Mervat O. Aburumman and Khalid Naji and Ramzi Taha and Ahmed Senouci",
+      title             = "Nano-Fly-Ash and Clay for 3D Printing Concrete Buildings: A Fundamental Study of Rheological, Mechanical and Microstructural Properties",
+      doi               = "10.1016/j.jobe.2024.109718",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "92",
+      pages             = "109718",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. A. Taqa, M. O. Mohsen, M. O. Aburumman, K. Naji, R. Taha and A. Senouci, “Nano-Fly-Ash and Clay for 3D Printing Concrete Buildings: A Fundamental Study of Rheological, Mechanical and Microstructural Properties”, <i>Journal of Building Engineering</i>, vol. 92, p. 109718, 2024, doi: 10.1016/j.jobe.2024.109718.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Taqa, Ala Abu, Mohamed O. Mohsen, Mervat O. Aburumman, Khalid Naji, Ramzi Taha, and Ahmed Senouci. “Nano-Fly-Ash and Clay for 3D Printing Concrete Buildings: A Fundamental Study of Rheological, Mechanical and Microstructural Properties”. <i>Journal of Building Engineering</i> 92 (2024): 109718. https://doi.org/10.1016/j.jobe.2024.109718.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

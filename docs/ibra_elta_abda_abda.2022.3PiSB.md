@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Iman Ibrahim, Fatma Eltarabishi, Hadeer Abdalla, Mohamed Abdallah
+    - footer
+title: Ibrahim Iman, Eltarabishi Fatma, Abdalla Hadeer, Abdallah Mohamed
 description:
 tags:
  - application
@@ -15,31 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/12/10/1703/pdf?version=1666676551) 3D Printing in Sustainable Buildings:<br/>:aca-blank: Systematic Review and Applications in the United Arab Emirates ([2022-10](date/2022/10))
-<a href="https://doi.org/10.3390/buildings12101703" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings12101703</a>
+#3D Printing in Sustainable Buildings&nbsp;([2022-10](date/2022/10))
+<div class="h1-like">Systematic Review and Applications in the United Arab Emirates</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/10/1703/pdf?version=1666676551) <a href="https://doi.org/10.3390/buildings12101703" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12101703" target="_blank">10.3390/buildings12101703</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0374-3494" title="ORCID: 0000-0003-0374-3494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibrahim_iman"><b>Ibrahim</b>&nbsp;Iman</a></span>, <a href="../../../author/eltarabishi_fatma"><b>Eltarabishi</b>&nbsp;Fatma</a></span>, <a href="../../../author/abdalla_hadeer"><b>Abdalla</b>&nbsp;Hadeer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4304-7234" title="ORCID: 0000-0002-4304-7234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdallah_mohamed"><b>Abdallah</b>&nbsp;Mohamed</a></span><br>
+Journal Article - Buildings, Vol. 12, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ibrahim_iman"><b>Ibrahim</b> Iman</a> <a href="https://orcid.org/0000-0003-0374-3494" title="ORCID: 0000-0003-0374-3494" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/eltarabishi_fatma"><b>Eltarabishi</b> Fatma</a>
-,     <a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>
-,     <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> <a href="https://orcid.org/0000-0002-4304-7234" title="ORCID: 0000-0002-4304-7234" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 12, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#buildability`](keyword/buildability)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-    [`#system`](keyword/system)
-    [`#unit`](keyword/unit)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Sustainable%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140584207&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4306367236" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings12101703" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings12101703?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing (3DP) has been rapidly evolving to be one of the leading technology fields in the coming decades. However, as in the early years of new technologies, 3DP suffersfrom technical limitations and various implications. This study focuses on the applications of 3DPin the construction industry, emphasizing its environmental, financial, and social sustainability as-pects. A systematic bibliographic analysis was carried out for the relevant publications which in-creased by 25-fold from 2014 to 2021. The 3D-printed construction projects in the United Arab Emirates (UAE) are presented to demonstrate the early 3DP technology penetration into its boomingconstruction sector. The UAE case is of particular interest from a sustainability perspective due tothe environmental footprint of the ample construction activities in the country, combined with the ambitious strategic plans to achieve sustainable development goals. This critical analysis showsthat, despite the limited literature, 3DP could potentially be a sustainable alternative with up to 49% less environmental footprint and 78% more cost-effectiveness compared to conventional construc-tion techniques. As the social sustainability aspect was the least addressed, this study discussesrelevant social impact indicators and systematic assessment criteria. It is evident that 3DP is alreadyreshaping the future of the built environment, especially in cases where 3DP is advantageous, suchas customized designs, quick project delivery, and sustainability-oriented constructions.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "9 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
@@ -75,8 +55,8 @@ tags:
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "18 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
       <li><a href="../../../author/mararo_m_ian"><b>Mararo</b> Ian</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mara_baba_aigb.2025.TUtPo3CPiK/">Towards Understanding the Perceptions of 3D Construction Printing in Kenya</a></li>
       <li><a href="../../../author/eid_abdulmohsen_zainab"><b>Eid</b> Zainab</a>, <a href="../../../author/almurbati_nehal"><b>Almurbati</b> Nehal</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../eid_almu.2025.Ao3PBUCaDW/">Applications of 3D Printing Buildings Using Construction and Demolition Waste:<br/>Techniques and Considerations</a></li>
@@ -96,4 +76,34 @@ tags:
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ungu_onut_isop_tara.2023.ANAf3PFRM/">A Novel Approach for 3D Printing Fiber-Reinforced Mortars</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_xing_sun_feng.2023.MSSCaHMPo3PBW/">Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ibra_elta_abda_abda.2022.3PiSB,
+      author            = "Iman Ibrahim and Fatma Eltarabishi and Hadeer Abdalla and Mohamed Abdallah",
+      title             = "3D Printing in Sustainable Buildings: Systematic Review and Applications in the United Arab Emirates",
+      doi               = "10.3390/buildings12101703",
+      year              = "2022",
+      journal           = "Buildings",
+      volume            = "12",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Ibrahim, F. Eltarabishi, H. Abdalla and M. Abdallah, “3D Printing in Sustainable Buildings: Systematic Review and Applications in the United Arab Emirates”, <i>Buildings</i>, vol. 12, no. 10, 2022, doi: 10.3390/buildings12101703.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ibrahim, Iman, Fatma Eltarabishi, Hadeer Abdalla, and Mohamed Abdallah. “3D Printing in Sustainable Buildings: Systematic Review and Applications in the United Arab Emirates”. <i>Buildings</i> 12, no. 10 (2022). https://doi.org/10.3390/buildings12101703.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohd Ali, Ghaith Nassrullah, Rashid Al-Rub, Bashar Khaswaneh, Seyed Ghaffar, Tae-Yeon Kim
+    - footer
+title: Ali Mohd, Nassrullah Ghaith, Al-Rub Rashid, Khaswaneh Bashar, Ghaffar Seyed, Kim Tae-Yeon
 description:
 tags:
  - carbon
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.dibe.2024.100415) Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.dibe.2024.100415" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.dibe.2024.100415</a>
+#Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100415) <a href="https://doi.org/10.1016/j.dibe.2024.100415" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100415" target="_blank">10.1016/j.dibe.2024.100415</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0001-0465-404X" title="ORCID: 0009-0001-0465-404X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_mukarram_mohd"><b>Ali</b>&nbsp;Mohd</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-2943-9698" title="ORCID: 0009-0004-2943-9698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b>&nbsp;Ghaith</a></span>, <a href="../../../author/al-rub_k_rashid"><b>abu&nbsp;Al-Rub</b>&nbsp;Rashid</a></span>, <a href="../../../author/khaswaneh_bashar"><b>al&nbsp;Khaswaneh</b>&nbsp;Bashar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <a href="../../../author/kim_tae-yeon"><b>Kim</b>&nbsp;Tae-Yeon</a></span><br>
+Journal Article - Developments in the Built Environment, No. 100415
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a> <a href="https://orcid.org/0009-0001-0465-404X" title="ORCID: 0009-0001-0465-404X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a> <a href="https://orcid.org/0009-0004-2943-9698" title="ORCID: 0009-0004-2943-9698" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/al-rub_k_rashid"><b>abu Al-Rub</b> Rashid</a>
-,     <a href="../../../author/khaswaneh_bashar"><b>al Khaswaneh</b> Bashar</a>
-,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_tae-yeon"><b>Kim</b> Tae-Yeon</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Developments in the Built Environment, No. 100415
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#influence`](keyword/influence)
-    [`#material`](keyword/material)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#quality`](keyword/quality)
-    [`#tube`](keyword/tube)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/tube"><button class="btn">#tube</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Carbon-Nano-Tubes%20on%20Printing%20Quality%20and%20Mechanical%20Properties%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189001244&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393166218" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.dibe.2024.100415" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.dibe.2024.100415?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the impact of incorporating carbon nanotubes (CNTs) into the 3D printing of cementitious materials, along with the effective dispersion of CNTs. Compared to the control mix, adding CNTs with superplasticizer significantly enhanced the printing quality by reducing the error in height of two-layers from 38% to 30% and an 81% enhancement in the buildability. Moreover, rheology properties revealed shear-thinning behaviour with lower viscosity, resulting in improved flowability. The progressive increase in CNT concentrations up to 0.2% yielded a noteworthy improvement in the mechanical properties. At 28 days, the incorporation of 0.2% CNTs resulted in a significant increase in the flexural strength, compressive strength, and Young's modulus by 99%, 72%, and 43%, respectively, compared to the mix containing silica fume. Microstructural investigation of the CNT-cement matrix revealed nanoscale crack bridges formed by CNTs, reinforcing the cementitious material and improving its mechanical properties.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
@@ -96,11 +71,40 @@ tags:
       <li><a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../wang_asla.2023.SPoRCBw3PCBSEaSSCC/">Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a>, <a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/rub_k-abu_rashid"><b>Rub</b> Rashid</a>, <a href="../../../author/cho_cung-suk"><b>Cho</b> Cung-Suk</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../nass_ali_rub_cho.2025.OCBMFf3P/">Optimizing Cement-Based Material Formulation for 3D Printing:<br/>Integrating Carbon Nanotubes and Silica Fume</a></li>
       <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a>, <a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a>, <a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a>, <a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nan_qiao_leng_bai.2025.ASRi3PC/">Advancing Structural Reinforcement in 3D Printed Concrete:<br/>Current Methods, Challenges, and Innovations</a></li>
       <li><a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/rub_k-abu_rashid"><b>Rub</b> Rashid</a>, <a href="../../../author/banat_fawzi"><b>Banat</b> Fawzi</a>, <a href="../../../author/kim_tae-yeon"><b>Kim</b> Tae-Yeon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ali_rub_bana_kim.2024.EtPQaMPo3PCCwDSBGCSH/">Enhancing the Printing Quality and Mechanical Properties of 3D Printed Cement Composites with Date-Syrup-Based Graphene-Coated-Sand Hybrid</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ali_nass_alr_khas.2024.IoCNToPQaMPo3PCM,
+      author            = "Mohd Mukarram Ali and Ghaith Nassrullah and Rashid K. Abu Al-Rub and Bashar Al Khaswaneh and Seyed Hamidreza Ghaffar and Tae-Yeon Kim",
+      title             = "Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials",
+      doi               = "10.1016/j.dibe.2024.100415",
+      year              = "2024",
+      journal           = "Developments in the Built Environment",
+      pages             = "100415",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. M. Ali, G. Nassrullah, R. K. A. Al-Rub, B. A. Khaswaneh, S. H. Ghaffar and T.-Y. Kim, “Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials”, <i>Developments in the Built Environment</i>, p. 100415, 2024, doi: 10.1016/j.dibe.2024.100415.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ali, Mohd Mukarram, Ghaith Nassrullah, Rashid K. Abu Al-Rub, Bashar Al Khaswaneh, Seyed Hamidreza Ghaffar, and Tae-Yeon Kim. “Influence of Carbon-Nano-Tubes on Printing Quality and Mechanical Properties of 3D Printed Cementitious Materials”. <i>Developments in the Built Environment</i>, 2024, 100415. https://doi.org/10.1016/j.dibe.2024.100415.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

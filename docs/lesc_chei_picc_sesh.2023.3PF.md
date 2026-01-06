@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Matthias Leschok, Ina Cheibas, Valeria Piccioni, Bharath Seshadri, Arno Schlüter, Fabio Gramazio, Matthias Kohler, Benjamin Dillenburger
+    - footer
+title: Leschok Matthias, Cheibas Ina, Piccioni Valeria, Seshadri Bharath, Schlüter Arno, Gramazio Fabio, Kohler Matthias, Dillenburger Benjamin
 description:
 tags:
  - assessment
@@ -14,34 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2023.104918) 3D Printing Facades:<br/>:aca-blank: Design, Fabrication, and Assessment Methods ([2023-05](date/2023/05))
-<a href="https://doi.org/10.1016/j.autcon.2023.104918" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.104918</a>
+#3D Printing Facades&nbsp;([2023-05](date/2023/05))
+<div class="h1-like">Design, Fabrication, and Assessment Methods</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2023.104918) <a href="https://doi.org/10.1016/j.autcon.2023.104918" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104918" target="_blank">10.1016/j.autcon.2023.104918</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3601-7408" title="ORCID: 0000-0002-3601-7408" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leschok_matthias"><b>Leschok</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1109-9101" title="ORCID: 0000-0002-1109-9101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheibas_ina"><b>Cheibas</b>&nbsp;Ina</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0119-8189" title="ORCID: 0000-0003-0119-8189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/piccioni_valeria"><b>Piccioni</b>&nbsp;Valeria</a></span>, <a href="../../../author/seshadri_bharath"><b>Seshadri</b>&nbsp;Bharath</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4999-2218" title="ORCID: 0000-0003-4999-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schluter_arno"><b>Schlüter</b>&nbsp;Arno</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
+Journal Article - Automation in Construction, Vol. 152
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a> <a href="https://orcid.org/0000-0002-3601-7408" title="ORCID: 0000-0002-3601-7408" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a> <a href="https://orcid.org/0000-0002-1109-9101" title="ORCID: 0000-0002-1109-9101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a> <a href="https://orcid.org/0000-0003-0119-8189" title="ORCID: 0000-0003-0119-8189" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/seshadri_bharath"><b>Seshadri</b> Bharath</a>
-,     <a href="../../../author/schluter_arno"><b>Schlüter</b> Arno</a> <a href="https://orcid.org/0000-0003-4999-2218" title="ORCID: 0000-0003-4999-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 152, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#design`](keyword/design)
-    [`#fabrication`](keyword/fabrication)
-    [`#facade`](keyword/facade)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/facade"><button class="btn">#facade</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Facades" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85158012496&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4375952542" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.104918" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.104918?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents a state of the art review for 3D printed facades. In the review, three main topics are identified: (i) computational design strategies for 3D printed facades, (ii) fabrication processes and materials, and (iii) performance assessment. The design section displays computational tools and methods for design to production of 3D printed facades. The chapter fabrication processes, materials, and applications illustrates the technology potential for facade application sorted by material groups. The performance assessment section presents current approaches to evaluating and validating the performance of 3DP facades. Finally, knowledge gaps, challenges, and future trends are discussed to offer insights into leading-edge solutions for facade design and fabrication.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdallah_k_yomna"><b>Abdallah</b> Yomna</a>, <a href="../../../author/estevez_t_alberto"><b>Estévez</b> Alberto</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_este.2021.3PBCB/">3D Printed Biodigital Clay Bricks</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
@@ -109,9 +86,10 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../xiao_zou_ding_duan.2021.FRMw1RFA/">Fiber-Reinforced Mortar with 100% Recycled Fine Aggregates:<br/>A Cleaner Perspective on 3D Printing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "26 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/serra_valentina"><b>Serra</b> Valentina</a>, <a href="../../../author/callegari_guido"><b>Callegari</b> Guido</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../varg_card_serr_call.2026.DFfP3BCwCI/">DfAM Framework for Prefabricated 3DP Building Components with Cellular Infills</a></li>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
       <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/fantucci_stefano"><b>Fantucci</b> Stefano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../card_varg_fant.2026.TOaMEfItTPo3PPWC/">Topological Optimization and Material Exploration for Improving the Thermal Performance of 3D Printed Prefabricated Wall Components</a></li>
       <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teix_jesu_ribe_rang.2026.LFAMwCaCA/">Large Format Additive Manufacturing with Cement and Clay Applications</a></li>
@@ -137,4 +115,33 @@ tags:
       <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/renz_mauritz"><b>Renz</b> Mauritz</a>, <a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b> Ahmad</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../brie_renz_noum_stra.2023.MAF/">Monolithic AM Façade:<br/>Multi-Objective Parametric Design-Optimization of Additively Manufactured Insulating Wall Elements</a></li>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/gora_mateusz"><b>Góra</b> Mateusz</a>, <a href="../../../author/dziura_pawel"><b>Dziura</b> Paweł</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../rudz_maro_gora_dziu.2023.FRoAMAi3CP/">Feasibility Review of Aerated Materials Application in 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lesc_chei_picc_sesh.2023.3PF,
+      author            = "Matthias Leschok and Ina Cheibas and Valeria Piccioni and Bharath Seshadri and Arno Schlüter and Fabio Gramazio and Matthias Daniel Kohler and Benjamin Dillenburger",
+      title             = "3D Printing Facades: Design, Fabrication, and Assessment Methods",
+      doi               = "10.1016/j.autcon.2023.104918",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "152",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Leschok, “3D Printing Facades: Design, Fabrication, and Assessment Methods”, <i>Automation in Construction</i>, vol. 152, 2023, doi: 10.1016/j.autcon.2023.104918.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Leschok, Matthias, Ina Cheibas, Valeria Piccioni, Bharath Seshadri, Arno Schlüter, Fabio Gramazio, Matthias Daniel Kohler, and Benjamin Dillenburger. “3D Printing Facades: Design, Fabrication, and Assessment Methods”. <i>Automation in Construction</i> 152 (2023). https://doi.org/10.1016/j.autcon.2023.104918.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

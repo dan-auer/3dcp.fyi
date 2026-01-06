@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chenyu Lu, Dongpu Sun, Qiang Shen, Zhigang Zhang, Xiaoyue Zhang, Jamal Abdalla, Rami Hawileh
+    - footer
+title: Lu Chenyu, Sun Dongpu, Shen Qiang, Zhang Zhigang, Zhang Xiaoyue, Abdalla Jamal, Hawileh Rami
 description:
 tags:
  - assessment
@@ -19,38 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Buildability of 3D Printing Engineered Cementitious Composites (ECC):<br/>:aca-blank: A Comprehensive Assessment Framework Under Laboratory Conditions ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1016/j.jobe.2025.113390" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113390</a>
+#Buildability of 3D Printing Engineered Cementitious Composites (ECC)&nbsp;([2025-07](date/2025/07))
+<div class="h1-like">A Comprehensive Assessment Framework Under Laboratory Conditions</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113390" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113390" target="_blank">10.1016/j.jobe.2025.113390</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0008-0841-9654" title="ORCID: 0009-0008-0841-9654" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_chenyu"><b>Lu</b>&nbsp;Chenyu</a></span>, <a href="../../../author/sun_dongpu"><b>Sun</b>&nbsp;Dongpu</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-2089-7332" title="ORCID: 0009-0001-2089-7332" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shen_qiang"><b>Shen</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7934-3027" title="ORCID: 0000-0002-7934-3027" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_zhigang"><b>Zhang</b>&nbsp;Zhigang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6420-9984" title="ORCID: 0000-0002-6420-9984" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xiaoyue"><b>Zhang</b>&nbsp;Xiaoyue</a></span>, <a href="../../../author/abdalla_a_jamal"><b>Abdalla</b>&nbsp;Jamal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0184-6732" title="ORCID: 0000-0002-0184-6732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hawileh_a_rami"><b>Hawileh</b>&nbsp;Rami</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113390
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a> <a href="https://orcid.org/0009-0008-0841-9654" title="ORCID: 0009-0008-0841-9654" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>
-,     <a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a> <a href="https://orcid.org/0009-0001-2089-7332" title="ORCID: 0009-0001-2089-7332" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> <a href="https://orcid.org/0000-0002-7934-3027" title="ORCID: 0000-0002-7934-3027" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a> <a href="https://orcid.org/0000-0002-6420-9984" title="ORCID: 0000-0002-6420-9984" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/abdalla_a_jamal"><b>Abdalla</b> Jamal</a>
-,     <a href="../../../author/hawileh_a_rami"><b>Hawileh</b> Rami</a> <a href="https://orcid.org/0000-0002-0184-6732" title="ORCID: 0000-0002-0184-6732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113390
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#comprehension`](keyword/comprehension)
-    [`#condition`](keyword/condition)
-    [`#ecc`](keyword/ecc)
-    [`#engineered`](keyword/engineered)
-    [`#framework`](keyword/framework)
-    [`#labor`](keyword/labor)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Buildability%20of%203D%20Printing%20Engineered%20Cementitious%20Composites%20%28ECC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010878551&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W6902882494" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113390" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113390?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The primary challenge in 3D printing cementitious materials is structural failure due to insufficient buildability, necessitating a thorough evaluation based on fresh material properties and printing parameters. This study presents a comprehensive investigation and quantitative analysis of the printability and buildability of engineered cementitious composites (ECC). Results indicate that for extrudable ECC mixtures with three distinct FA/C ratios (FA/C = 0, 1, and 1.4), the green strength values corresponding to 10% compressive strain reached 45.48 kPa, 27.68 kPa, and 21.44 kPa, respectively, at the critical time point of 40 minutes after water addition. The corresponding Young’s modulus were 650.5 kPa, 356.7 kPa, and 259.6 kPa. These extrudable ECC mixtures demonstrated exceptional load-bearing capacity and deformation resistance. Moreover, a tailored buildability assessment framework has been developed. This framework incorporates the temporal evolution of material green strength, stiffness, and stability during the printing process. Universally applicable to a variety of printable materials, it enables systematic and precise evaluation of the buildability of 3D-printed components under controlled laboratory conditions. This framework establishes a robust theoretical foundation for assessing and advancing the buildability of 3D-printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -105,8 +78,37 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lu_sun_shen_zhan.2025.Bo3PECCE,
+      author            = "Chenyu Lu and Dongpu Sun and Qiang Shen and Zhigang Zhang and Xiaoyue Zhang and Jamal A. Abdalla and Rami A. Hawileh",
+      title             = "Buildability of 3D Printing Engineered Cementitious Composites (ECC): A Comprehensive Assessment Framework Under Laboratory Conditions",
+      doi               = "10.1016/j.jobe.2025.113390",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113390",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Lu, “Buildability of 3D Printing Engineered Cementitious Composites (ECC): A Comprehensive Assessment Framework Under Laboratory Conditions”, <i>Journal of Building Engineering</i>, p. 113390, 2025, doi: 10.1016/j.jobe.2025.113390.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lu, Chenyu, Dongpu Sun, Qiang Shen, Zhigang Zhang, Xiaoyue Zhang, Jamal A. Abdalla, and Rami A. Hawileh. “Buildability of 3D Printing Engineered Cementitious Composites (ECC): A Comprehensive Assessment Framework Under Laboratory Conditions”. <i>Journal of Building Engineering</i>, 2025, 113390. https://doi.org/10.1016/j.jobe.2025.113390.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

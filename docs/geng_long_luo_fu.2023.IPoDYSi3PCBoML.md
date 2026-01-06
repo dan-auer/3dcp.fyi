@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Songyuan Geng, Wujian Long, Qiling Luo, Junen Fu, Wenya Yang, Huanzhou He, Qiubing Ren, Chuanglian Luo
+    - footer
+title: Geng Songyuan, Long Wujian, Luo Qiling, Fu Junen, Yang Wenya, He Huanzhou, Ren Qiubing, Luo Chuanglian
 description:
 tags:
  - base
@@ -18,38 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://madison-proceedings.com/index.php/aetr/article/download/1397/1393) Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning ([2023-07](date/2023/07))
-<a href="https://doi.org/10.56028/aetr.6.1.468.2023" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.56028/aetr.6.1.468.2023</a>
+#Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning ([2023-07](date/2023/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://madison-proceedings.com/index.php/aetr/article/download/1397/1393) <a href="https://doi.org/10.56028/aetr.6.1.468.2023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.56028/aetr.6.1.468.2023" target="_blank">10.56028/aetr.6.1.468.2023</a>
 
--------------------------
+<a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <a href="../../../author/fu_junen"><b>Fu</b>&nbsp;Junen</a></span>, <a href="../../../author/yang_wenya"><b>Yang</b>&nbsp;Wenya</a></span>, <a href="../../../author/he_huanzhou"><b>He</b>&nbsp;Huanzhou</a></span>, <a href="../../../author/ren_qiubing"><b>Ren</b>&nbsp;Qiubing</a></span>, <a href="../../../author/luo_chuanglian"><b>Luo</b>&nbsp;Chuanglian</a></span><br>
+Journal Article - Advances in Engineering Technology Research, Vol. 6, Iss. 1, No. 468
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>
-,     <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>
-,     <a href="../../../author/fu_junen"><b>Fu</b> Junen</a>
-,     <a href="../../../author/yang_wenya"><b>Yang</b> Wenya</a>
-,     <a href="../../../author/he_huanzhou"><b>He</b> Huanzhou</a>
-,     <a href="../../../author/ren_qiubing"><b>Ren</b> Qiubing</a>
-,     <a href="../../../author/luo_chuanglian"><b>Luo</b> Chuanglian</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Advances in Engineering Technology Research, Vol. 6, Iss. 1, No. 468
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#dynamic`](keyword/dynamic)
-    [`#intelligence`](keyword/intelligence)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#stress`](keyword/stress)
-    [`#yield`](keyword/yield)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Intelligent%20Prediction%20of%20Dynamic%20Yield-Stress%20in%203D%20Printing%20Concrete%20Based%20on%20Machine%20Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -64,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4385143189" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.56028/aetr.6.1.468.2023" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.56028/aetr.6.1.468.2023?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Applying 3D printing technology to the construction industry can bring many benefits. However, due to the specificity of 3D printing technology, its application in the construction industry has not yet been promoted. Machine learning (ML) techniques, which are popular at this stage, are expected to provide solutions to these problems. Rheological properties have been a key parameter for the quality of 3D printing concrete, and its accurate prediction can help to integrate 3D printing technology into the construction industry. In this study, a GA-RF model for predicting the dynamic yield stress (DYS) of 3D printing concrete is proposed for the first time, and the hyperparameters of the RF model are intelligently tuned during the training process. In addition, the importance analysis of the input parameters is performed. The results show that the developed prediction model has a high accuracy and the SF content has the most significant effect on DYS. The research results help to advance the construction industry to mass production of 3D printing concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/liu_kun"><b>Liu</b> Kun</a>, <a href="../../../author/li_yunchao"><b>Li</b> Yunchao</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../geng_luo_liu_li.2023.RSaPoMLiC3P/">Research Status and Prospect of Machine Learning in Construction 3D Printing</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_chen_xion_jia.2022.IoHMaSFoBo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Buildability of 3D Printing Foam-Concrete:<br/>From Water State and Flocculation Point of View</a></li>
@@ -89,8 +61,39 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geng_long_luo_fu.2023.IPoDYSi3PCBoML,
+      author            = "Songyuan Geng and Wujian Long and Qiling Luo and Junen Fu and Wenya Yang and Huanzhou He and Qiubing Ren and Chuanglian Luo",
+      title             = "Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning",
+      doi               = "10.56028/aetr.6.1.468.2023",
+      year              = "2023",
+      journal           = "Advances in Engineering Technology Research",
+      volume            = "6",
+      number            = "1",
+      pages             = "468",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Geng, “Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning”, <i>Advances in Engineering Technology Research</i>, vol. 6, no. 1, p. 468, 2023, doi: 10.56028/aetr.6.1.468.2023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geng, Songyuan, Wujian Long, Qiling Luo, Junen Fu, Wenya Yang, Huanzhou He, Qiubing Ren, and Chuanglian Luo. “Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning”. <i>Advances in Engineering Technology Research</i> 6, no. 1 (2023): 468. https://doi.org/10.56028/aetr.6.1.468.2023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

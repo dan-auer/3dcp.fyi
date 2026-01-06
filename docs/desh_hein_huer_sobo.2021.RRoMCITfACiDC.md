@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Aparna Deshmukh, Reed Heintzkill, Rosalba Huerta, Konstantin Sobolev
+    - footer
+title: Deshmukh Aparna, Heintzkill Reed, Huerta Rosalba, Sobolev Konstantin
 description:
 tags:
  - activation
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Response of Magnetorheological Cementitious Inks Tuned for Active Control in Digital Construction ([2021-11](date/2021/11))
-<a href="https://doi.org/10.14359/51733128" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.14359/51733128</a>
+#Rheological Response of Magnetorheological Cementitious Inks Tuned for Active Control in Digital Construction ([2021-11](date/2021/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733128" target="_blank">10.14359/51733128</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6923-349X" title="ORCID: 0000-0002-6923-349X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deshmukh_s_aparna"><b>Deshmukh</b>&nbsp;Aparna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2786-3493" title="ORCID: 0000-0002-2786-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heintzkill_t_reed"><b>Heintzkill</b>&nbsp;Reed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8443-8557" title="ORCID: 0000-0002-8443-8557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huerta_a_rosalba"><b>Huerta</b>&nbsp;Rosalba</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8343-5453" title="ORCID: 0000-0001-8343-5453" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sobolev_konstantin"><b>Sobolev</b>&nbsp;Konstantin</a></span><br>
+Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 263-274
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/deshmukh_s_aparna"><b>Deshmukh</b> Aparna</a> <a href="https://orcid.org/0000-0002-6923-349X" title="ORCID: 0000-0002-6923-349X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/heintzkill_t_reed"><b>Heintzkill</b> Reed</a> <a href="https://orcid.org/0000-0002-2786-3493" title="ORCID: 0000-0002-2786-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huerta_a_rosalba"><b>Huerta</b> Rosalba</a> <a href="https://orcid.org/0000-0002-8443-8557" title="ORCID: 0000-0002-8443-8557" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sobolev_konstantin"><b>Sobolev</b> Konstantin</a> <a href="https://orcid.org/0000-0001-8343-5453" title="ORCID: 0000-0001-8343-5453" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 263-274
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#cement`](keyword/cement)
-    [`#construction`](keyword/construction)
-    [`#control`](keyword/control)
-    [`#digital`](keyword/digital)
-    [`#response`](keyword/response)
-    [`#rheology`](keyword/rheology)
-    [`#tuning`](keyword/tuning)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tuning"><button class="btn">#tuning</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Response%20of%20Magnetorheological%20Cementitious%20Inks%20Tuned%20for%20Active%20Control%20in%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122084709&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,23 +38,19 @@ tags:
 <a href="https://inciteful.xyz/p/W3207714917" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.14359/51733128" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.14359/51733128?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Systematically designed cement mixtures incorporating various proportions of portland cement (PC), high-ferrous Class F fly ash (FA), nanosilica (NS), and nanoalumina (NA) were blended and characterized for rheological response with and without the application of a magnetic field to better understand the effects of doping cement with magnetic material for application in four-dimensional (4D) printing of cementitious smart materials (SM). Control groups doped with industrial-grade magnetite powder (primarily used as pigment) were likewise mixed and characterized to provide contrast to coal-combustion byproduct FA. Mixtures supplemented with ferromagnetic particles showed increased yield stress when exposed to applied magnetic field, leading to non-Newtonian rheological models exhibiting ‘sticky particles’ paradigms as discussed herein. These results suggest that the principle of using an applied magnetic field to modify the flow and slump of cementitious materials extruded through a three-dimensional (3D) printing apparatus is worthy of further pursuit and development.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "3 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a>, <a href="../../../author/brown_lesa"><b>Brown</b> Lesa</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../koss_brow_sanc.2020.EAPo3PCNFaCMFCC/">Early-Age Performance of 3D Printed Carbon-Nano-Fiber and Carbon Micro-Fiber Cement Composites</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schu_lesa.2018.ACoPoC/">Active Control of Properties of Concrete:<br/>A (P)Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/shahid_adnan"><b>Shahid</b> Adnan</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zafa_shah_sedg_hoja.2025.OoBAf3PCS/">Optimization of Biopolymer Additives for 3D Printable Cementitious Systems:<br/>A Design of Experiment Approach</a></li>
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
@@ -85,4 +63,35 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_sanj.2023.MoRMfQMMi3CP/">Mechanisms of Rheological Modifiers for Quick Mixing Method in 3D Concrete Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{desh_hein_huer_sobo.2021.RRoMCITfACiDC,
+      author            = "Aparna S. Deshmukh and Reed T. Heintzkill and Rosalba A. Huerta and Konstantin Sobolev",
+      title             = "Rheological Response of Magnetorheological Cementitious Inks Tuned for Active Control in Digital Construction",
+      doi               = "10.14359/51733128",
+      year              = "2021",
+      journal           = "ACI Materials Journal",
+      volume            = "118",
+      number            = "6",
+      pages             = "263--274",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. S. Deshmukh, R. T. Heintzkill, R. A. Huerta and K. Sobolev, “Rheological Response of Magnetorheological Cementitious Inks Tuned for Active Control in Digital Construction”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 263–274, 2021, doi: 10.14359/51733128.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Deshmukh, Aparna S., Reed T. Heintzkill, Rosalba A. Huerta, and Konstantin Sobolev. “Rheological Response of Magnetorheological Cementitious Inks Tuned for Active Control in Digital Construction”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 263–74. https://doi.org/10.14359/51733128.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

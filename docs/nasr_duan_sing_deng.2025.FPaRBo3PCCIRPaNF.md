@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ahmed Nasr, Zhenhua Duan, Amardeep Singh, Qi Deng, Min Yang, Qiong Sun, Mohammed Arab
+    - footer
+title: Nasr Ahmed, Duan Zhenhua, Singh Amardeep, Deng Qi, Yang Min, Sun Qiong, Arab Mohammed
 description:
 tags:
  - approach
@@ -20,39 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Fresh Properties and Rheological Behavior of 3D-Printed Cementitious Composites Incorporating Recycled PVC and Nylon Fibers:<br/>:aca-blank: An Experimental Approach ([2025-02](date/2025/02))
-<a href="https://doi.org/10.1016/j.jobe.2025.112218" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112218</a>
+#Fresh Properties and Rheological Behavior of 3D-Printed Cementitious Composites Incorporating Recycled PVC and Nylon Fibers&nbsp;([2025-02](date/2025/02))
+<div class="h1-like">An Experimental Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112218" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112218" target="_blank">10.1016/j.jobe.2025.112218</a>
 
--------------------------
+<a href="../../../author/nasr_ahmed"><b>Nasr</b>&nbsp;Ahmed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5167-0969" title="ORCID: 0000-0001-5167-0969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_qi"><b>Deng</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_min"><b>Yang</b>&nbsp;Min</a></span>, <a href="../../../author/sun_qiong"><b>Sun</b>&nbsp;Qiong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0582-3535" title="ORCID: 0000-0003-0582-3535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arab_abd-el-salam_mohammed"><b>Arab</b>&nbsp;Mohammed</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112218
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>
-,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> <a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> <a href="https://orcid.org/0000-0001-5167-0969" title="ORCID: 0000-0001-5167-0969" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_min"><b>Yang</b> Min</a> <a href="https://orcid.org/0000-0002-0134-1734" title="ORCID: 0000-0002-0134-1734" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_qiong"><b>Sun</b> Qiong</a>
-,     <a href="../../../author/arab_abd-el-salam_mohammed"><b>Arab</b> Mohammed</a> <a href="https://orcid.org/0000-0003-0582-3535" title="ORCID: 0000-0003-0582-3535" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112218
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#behavior`](keyword/behavior)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#experiment`](keyword/experiment)
-    [`#fiber`](keyword/fiber)
-    [`#fresh`](keyword/fresh)
-    [`#incorporation`](keyword/incorporation)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#recycling`](keyword/recycling)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Fresh%20Properties%20and%20Rheological%20Behavior%20of%203D-Printed%20Cementitious%20Composites%20Incorporating%20Recycled%20PVC%20and%20Nylon%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219500979&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408020415" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112218" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112218?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing global use of plastic materials is leading to a corresponding rise in plastic wastes, posing significant environmental challenges. This research explores the effects of incorporating recycled plastic fibers (RPFs) derived from nylon and Polyvinyl Chloride (PVC) industry wastes into 3D-printed cementitious composites (3DPCC). The impact of using these two types of fibers on the fresh properties, rheological behavior, green strength, extrudability and buildability of 3DPCC is explored. The main variables in this study are fiber type, volume fraction (0.5%, 1.0%, and 2.0%) and fiber length (6 mm and 12 mm). The results show that adding RPFs, particularly longer fibers, decreases the flowability and workability of 3DPCC, with PVC fibers having a more pronounced effect than nylon fibers. Utilizing RPFs in 3DPCC mixes increased plastic viscosity (PV) and yield stress (YS). At a volume fraction of 2% and a length of 12 mm, PVC fibers increased the static yield stress by 214.5%, the dynamic yield stress by 155.2%, and the PV by 177.7%. Furthermore, the results indicate that samples containing PVC fibers outperform those containing nylon fibers and samples without fiber content in terms of green compressive strength, crack pattern, and buildability. By using a fiber volume fraction of 2% and 12-mm length, PVC fibers reduced structural failure by 36.8%, allowing for the construction of 38 layers compared to 24 layers in the control sample.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bong_nema_naza_xia.2019.FaHPo3PGCiAT/">Fresh and Hardened Properties of 3D Printable Geopolymer Cured in Ambient Temperature</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
@@ -109,9 +81,38 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/wang_jiyuan"><b>Wang</b> Jiyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../nasr_wang_duan_deng.2025.AtVaIoRHDPFi3PCC/">Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites</a></li>
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{nasr_duan_sing_deng.2025.FPaRBo3PCCIRPaNF,
+      author            = "Ahmed Nasr and Zhenhua Duan and Amardeep Singh and Qi Deng and Min Yang and Qiong Sun and Mohammed Abd El-Salam Arab",
+      title             = "Fresh Properties and Rheological Behavior of 3D-Printed Cementitious Composites Incorporating Recycled PVC and Nylon Fibers: An Experimental Approach",
+      doi               = "10.1016/j.jobe.2025.112218",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112218",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Nasr, “Fresh Properties and Rheological Behavior of 3D-Printed Cementitious Composites Incorporating Recycled PVC and Nylon Fibers: An Experimental Approach”, <i>Journal of Building Engineering</i>, p. 112218, 2025, doi: 10.1016/j.jobe.2025.112218.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Nasr, Ahmed, Zhenhua Duan, Amardeep Singh, Qi Deng, Min Yang, Qiong Sun, and Mohammed Abd El-Salam Arab. “Fresh Properties and Rheological Behavior of 3D-Printed Cementitious Composites Incorporating Recycled PVC and Nylon Fibers: An Experimental Approach”. <i>Journal of Building Engineering</i>, 2025, 112218. https://doi.org/10.1016/j.jobe.2025.112218.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

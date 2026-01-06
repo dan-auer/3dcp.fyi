@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Negar Ashrafi, José Duarte, Shadi Nazarian, Nicholas Meisel
+    - footer
+title: Ashrafi Negar, Duarte José, Nazarian Shadi, Meisel Nicholas
 description:
 tags:
  - additive
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete ([2018-10](date/2018/10))
-<a href="https://doi.org/10.1080/17452759.2018.1532800" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2018.1532800</a>
+#Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete ([2018-10](date/2018/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/17452759.2018.1532800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2018.1532800" target="_blank">10.1080/17452759.2018.1532800</a>
 
--------------------------
+<a href="../../../author/ashrafi_negar"><b>Ashrafi</b>&nbsp;Negar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3718-9279" title="ORCID: 0000-0002-3718-9279" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meisel_a_nicholas"><b>Meisel</b>&nbsp;Nicholas</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 14, Iss. 2, pp. 135-140
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="https://orcid.org/0000-0002-3718-9279" title="ORCID: 0000-0002-3718-9279" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 14, Iss. 2, pp. 135-140
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#concrete`](keyword/concrete)
-    [`#deposition`](keyword/deposition)
-    [`#evaluation`](keyword/evaluation)
-    [`#large`](keyword/large)
-    [`#layer`](keyword/layer)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#quality`](keyword/quality)
-    [`#relation`](keyword/relation)
-    [`#scale`](keyword/scale)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Relationship%20Between%20Deposition%20and%20Layer-Quality%20in%20Large-Scale%20Additive%20Manufacturing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85055106438&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,25 +40,20 @@ tags:
 <a href="https://inciteful.xyz/p/W2897579160" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2018.1532800" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2018.1532800?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Scaling up additive manufacturing (AM) for automated building construction requires expertise from different fields of knowledge, including architecture, material science, engineering, and manufacturing to develop processes that work for practical applications. While concrete is a viable candidate for printing due to its common use in building, it raises important challenges in deposition due to the material deformation that occurs as concrete transitions from fresh to hardened states. This study aims to experimentally quantify the deformation of printed concrete layers under the influence of different processing variables, including layer thickness, printing orientation, and direction. A mixer-pump extrudes the material and an industrial 6-axis robotic arm, which provides various ranges of movement in different axes, layers the material. The results of this study can be used to develop a tool for predicting and accounting for the deformation of concrete layers during the AM process.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "29 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../cui_liu_guo_da.2025.GQIi3CPUAACV/">Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision</a></li>
       <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b> Pooneh</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../mous_beng_mous_mahd.2025.ILBSPo3PCUANN/">Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network:<br/>Experimental and Modeling Study</a></li>
@@ -109,4 +84,35 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
       <li><a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../wats_meis_bile_duar.2019.LSAMoCUaSARAfAHC/">Large-Scale Additive Manufacturing of Concrete Using a Six-Axis Robotic Arm for Autonomous Habitat Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC,
+      author            = "Negar Ashrafi and José Pinto Duarte and Shadi Nazarian and Nicholas A. Meisel",
+      title             = "Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete",
+      doi               = "10.1080/17452759.2018.1532800",
+      year              = "2019",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "14",
+      number            = "2",
+      pages             = "135--140",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Ashrafi, J. P. Duarte, S. Nazarian and N. A. Meisel, “Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete”, <i>Virtual and Physical Prototyping</i>, vol. 14, no. 2, pp. 135–140, 2019, doi: 10.1080/17452759.2018.1532800.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ashrafi, Negar, José Pinto Duarte, Shadi Nazarian, and Nicholas A. Meisel. “Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete”. <i>Virtual and Physical Prototyping</i> 14, no. 2 (2019): 135–40. https://doi.org/10.1080/17452759.2018.1532800.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bahirathan Koneswaran, Pathmanathan Rajeev, Jay Sanjayan
+    - footer
+title: Koneswaran Bahirathan, Rajeev Pathmanathan, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1080/10298436.2025.2599876" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/10298436.2025.2599876</a>
+#3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10298436.2025.2599876" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10298436.2025.2599876" target="_blank">10.1080/10298436.2025.2599876</a>
 
--------------------------
+<a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b>&nbsp;Bahirathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - International Journal of Pavement Engineering, Vol. 26, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>
-,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Pavement Engineering, Vol. 26, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#grain`](keyword/grain)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete-Printed%20Geocell%20for%20Reinforcing%20Unbound%20Granular%20Pavement%20Layers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/10298436.2025.2599876" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/10298436.2025.2599876?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extensive research is being conducted in 3D concrete printing (3DcP) for automating building construction. However, only a limited number of studies have investigated the possibility of using it to automate pavement construction. This study proposes an innovative method to create geocells with varying shapes along the vertical direction using 3D printing, which is not possible with the currently available geocell technology. This study evaluates the feasibility of using aggregate-bed 3DcP for selectively binding aggregates in unbound granular pavement layers to provide geocell-type confinement. The performance of the 3DcP geocell confined section was compared with the commonly used plastic geocell confined and unconfined pavement sections using laboratory-scale plate load test results. Further, the mechanical properties of the aggregate-bed 3DcP specimens were determined to assess its structural capacity. The interlayer bond strength showed that a 3DcP concrete geocell cannot achieve the same strength properties as a mould-cast concrete geocell. However, the 3DcP geocell provided the strongest confinement effect at relatively low strain levels, while the plastic geocell performed better at higher strain/pressure levels. Overall, 3DcP geocell confinement improved the ultimate bearing capacity of the subbase layer by 50% compared to the unconfined pavement section.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/gong_fangyuan"><b>Gong</b> Fangyuan</a>, <a href="../../../author/cheng_xuejiao"><b>Cheng</b> Xuejiao</a>, <a href="../../../author/wang_qinghua"><b>Wang</b> Qinghua</a>, <a href="../../../author/chen_yi"><b>Chen</b> Yi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gong_chen_wang_chen.2023.ARotAo3PTiPM/">A Review on the Application of 3D Printing Technology in Pavement Maintenance</a></li>
@@ -75,7 +57,37 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_sanj_du.2020.IoPSaGoAB3CP/">Impact of Particle-Size and Grading on Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kone_raje_sanj.2025.3CPGfRUGPL,
+      author            = "Bahirathan Koneswaran and Pathmanathan Rajeev and Jay Gnananandan Sanjayan",
+      title             = "3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers",
+      doi               = "10.1080/10298436.2025.2599876",
+      year              = "2025",
+      journal           = "International Journal of Pavement Engineering",
+      volume            = "26",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Koneswaran, P. Rajeev and J. G. Sanjayan, “3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers”, <i>International Journal of Pavement Engineering</i>, vol. 26, no. 1, 2025, doi: 10.1080/10298436.2025.2599876.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Koneswaran, Bahirathan, Pathmanathan Rajeev, and Jay Gnananandan Sanjayan. “3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers”. <i>International Journal of Pavement Engineering</i> 26, no. 1 (2025). https://doi.org/10.1080/10298436.2025.2599876.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

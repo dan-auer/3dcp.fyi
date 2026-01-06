@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yiwei Weng, Nisar Mohamed, Brian Lee, Nicole Gan, Mingyang Li, Ming Tan, Heng Li, Shunzhi Qian
+    - footer
+title: Weng Yiwei, Mohamed Nisar, Lee Brian, Gan Nicole, Li Mingyang, Tan Ming, Li Heng, Qian Shunzhi
 description:
 tags:
  - bim
@@ -17,37 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](http://ira.lib.polyu.edu.hk/bitstream/10397/97538/1/Weng_Extracting_Bim_Information.pdf) Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script:<br/>:aca-blank: A Case Study ([2021-02](date/2021/02))
-<a href="https://doi.org/10.1061/(asce)cp.1943-5487.0000964" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/(asce)cp.1943-5487.0000964</a>
+#Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script&nbsp;([2021-02](date/2021/02))
+<div class="h1-like">A Case Study</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](http://ira.lib.polyu.edu.hk/bitstream/10397/97538/1/Weng_Extracting_Bim_Information.pdf) <a href="https://doi.org/10.1061/(asce)cp.1943-5487.0000964" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)cp.1943-5487.0000964" target="_blank">10.1061/(asce)cp.1943-5487.0000964</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b>&nbsp;Nisar</a></span>, <a href="../../../author/lee_jia-shen_brian"><b>Lee</b>&nbsp;Brian</a></span>, <a href="../../../author/gan_jia-hui_nicole"><b>Gan</b>&nbsp;Nicole</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_heng"><b>Li</b>&nbsp;Heng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
+Journal Article - Journal of Computing in Civil Engineering, Vol. 35, Iss. 3
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>
-,     <a href="../../../author/lee_jia-shen_brian"><b>Lee</b> Brian</a>
-,     <a href="../../../author/gan_jia-hui_nicole"><b>Gan</b> Nicole</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_heng"><b>Li</b> Heng</a> <a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Computing in Civil Engineering, Vol. 35, Iss. 3, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bim`](keyword/bim)
-    [`#case`](keyword/case)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#information`](keyword/information)
-    [`#lattice`](keyword/lattice)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Extracting%20BIM%20Information%20for%20Lattice%20Tool-Path-Planning%20in%20Digital%20Concrete%20Printing%20with%20Developed%20Dynamo%20Script" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100871579&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3133403743" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/(asce)cp.1943-5487.0000964" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/(asce)cp.1943-5487.0000964?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, a novel method for printing path design in the three-dimensional (3D) concrete printing process (3DCP) has been developed and applied to a large-scale construction process. Despite the large number of research works in digital concrete printing over the last decade, few studies have explored the method of automatic printing path design, specifically designing the printing path by directly extracting building information modeling (BIM) information from the BIM platform in 3DCP. To obtain BIM information and automatically design the printing path, a script package was developed using a single scripting environment called Dynamo, a Revit plug-in. The proposed method was evaluated using the results of simulation and real-time printing. Compared with the conventional method, the simulation results show that the proposed approach can reduce data loss from a 3D BIM model to printing path generation. The real-time printing test implies that the proposed approach is perfectly suitable for integrating BIM with 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../digg_krei_krei_case.2019.PTvET/">Print Time vs. Elapsed Time:<br/>A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</a></li>
@@ -90,8 +64,8 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "27 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
@@ -120,4 +94,34 @@ tags:
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPBBEa3CP/">Development of Communication Protocols Between BIM Elements and 3D Concrete Printing</a></li>
       <li><a href="../../../author/ning_xin"><b>Ning</b> Xin</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/wu_chunlin"><b>Wu</b> Chunlin</a>, <a href="../../../author/wang_chao"><b>Wang</b> Chao</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ning_liu_wu_wang.2021.3PiC/">3D Printing in Construction:<br/>Current Status, Implementation Hindrances, and Development Agenda</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{weng_moha_lee_gan.2021.EBIfLTPPiDCPwDDS,
+      author            = "Yiwei Weng and Nisar Ahamed Noor Mohamed and Brian Jia Shen Lee and Nicole Jia Hui Gan and Mingyang Li and Ming Jen Tan and Heng Li and Shunzhi Qian",
+      title             = "Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script: A Case Study",
+      doi               = "10.1061/(asce)cp.1943-5487.0000964",
+      year              = "2021",
+      journal           = "Journal of Computing in Civil Engineering",
+      volume            = "35",
+      number            = "3",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Weng, “Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script: A Case Study”, <i>Journal of Computing in Civil Engineering</i>, vol. 35, no. 3, 2021, doi: 10.1061/(asce)cp.1943-5487.0000964.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Weng, Yiwei, Nisar Ahamed Noor Mohamed, Brian Jia Shen Lee, Nicole Jia Hui Gan, Mingyang Li, Ming Jen Tan, Heng Li, and Shunzhi Qian. “Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script: A Case Study”. <i>Journal of Computing in Civil Engineering</i> 35, no. 3 (2021). https://doi.org/10.1061/(asce)cp.1943-5487.0000964.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

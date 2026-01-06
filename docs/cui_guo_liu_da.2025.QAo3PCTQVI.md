@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weijiu Cui, Ruyi Guo, Wenliang Liu, Wan Da, Xinyu Shi, Yubo Sun, Jian Gong, Yaxin Tao
+    - footer
+title: Cui Weijiu, Guo Ruyi, Liu Wenliang, Da Wan, Shi Xinyu, Sun Yubo, Gong Jian, Tao Yaxin
 description:
 tags:
  - assessment
@@ -15,35 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1002/suco.70235" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.70235</a>
+#Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.70235" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70235" target="_blank">10.1002/suco.70235</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <a href="../../../author/guo_ruyi"><b>Guo</b>&nbsp;Ruyi</a></span>, <a href="../../../author/liu_wenliang"><b>Liu</b>&nbsp;Wenliang</a></span>, <a href="../../../author/da_wan"><b>Da</b>&nbsp;Wan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8348-8280" title="ORCID: 0000-0001-8348-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yubo"><b>Sun</b>&nbsp;Yubo</a></span>, <a href="../../../author/gong_jian"><b>Gong</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>
-,     <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>
-,     <a href="../../../author/da_wan"><b>Da</b> Wan</a>
-,     <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> <a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_yubo"><b>Sun</b> Yubo</a> <a href="https://orcid.org/0000-0001-8348-8280" title="ORCID: 0000-0001-8348-8280" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#inspection`](keyword/inspection)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#quantity`](keyword/quantity)
-    [`#visualization`](keyword/visualization)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/visualization"><button class="btn">#visualization</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quality%20Assessment%20of%203D%E2%80%90Printed%20Concrete%20Through%20Quantitative%20Visual%20Inspection" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010754069&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412423197" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.70235" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.70235?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is an advanced technology offering numerous benefits, including design flexibility, higher construction efficiency, and reduced labor cost. However, the unique processing requirements necessitate careful consideration of the quality of 3D-printed concrete. To this end, this study developed a real-time visual inspection method to quantify geometrical and surface quality metrics, integrating rheological parameters for enhanced accuracy. Three binder-to-sand ratios (0.6, 0.8, 1) and sand fineness moduli (2.5, 2.9, 3.3) were tested. We began by comparing various image processing technologies, followed by analyzing the geometrical contour and surface defects from a top-down perspective. Results showed that increasing the binder-to-sand ratio from 0.6 to 1 and reducing the sand fineness modulus from 3.3 to 2.5 reduced defect area ratios by up to 98% (from 4.3% to 0.041%). Subsequently, we integrated rheological parameters to refine the image analysis results and validated the approach through three case studies. The results demonstrate that the developed visual inspection technology effectively assesses the quality of 3D-printed concrete, ensuring precision and reliability in evaluating 3D-printed structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
@@ -100,7 +75,35 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_guo_liu_da.2025.QAo3PCTQVI,
+      author            = "Weijiu Cui and Ruyi Guo and Wenliang Liu and Wan Da and Xinyu Shi and Yubo Sun and Jian Gong and Yaxin Tao",
+      title             = "Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection",
+      doi               = "10.1002/suco.70235",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Cui, “Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.70235.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Weijiu, Ruyi Guo, Wenliang Liu, Wan Da, Xinyu Shi, Yubo Sun, Jian Gong, and Yaxin Tao. “Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.70235.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #distribution
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/huang_zhangshuo"><b>Huang</b> Zhangshuo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../ding_zhu_huan.2025.ESotSFODoEB3PUHPC/">Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete</a></li>
   <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/si_liang"><b>Si</b> Liang</a>, <a href="../../../author/liu_yebao"><b>Liu</b> Yebao</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liu_si_liu_li.2025.OoPPBoCFDfUFMDaCi3CMP/">Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing</a></li>

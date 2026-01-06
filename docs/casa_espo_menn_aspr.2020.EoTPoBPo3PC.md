@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lorenzo Casagrande, Laura Esposito, Costantino Menna, Domenico Asprone, Ferdinando Auricchio
+    - footer
+title: Casagrande Lorenzo, Esposito Laura, Menna Costantino, Asprone Domenico, Auricchio Ferdinando
 description:
 tags:
  - buildability
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.118286" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.118286</a>
+#Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete ([2020-02](date/2020/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.118286" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.118286" target="_blank">10.1016/j.conbuildmat.2020.118286</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5691-0113" title="ORCID: 0000-0002-5691-0113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/casagrande_lorenzo"><b>Casagrande</b>&nbsp;Lorenzo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/esposito_laura"><b>Esposito</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asprone_domenico"><b>Asprone</b>&nbsp;Domenico</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3735-2400" title="ORCID: 0000-0002-3735-2400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/auricchio_ferdinando"><b>Auricchio</b>&nbsp;Ferdinando</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 245
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a> <a href="https://orcid.org/0000-0002-5691-0113" title="ORCID: 0000-0002-5691-0113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> <a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a> <a href="https://orcid.org/0000-0002-3735-2400" title="ORCID: 0000-0002-3735-2400" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 245, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#test`](keyword/test)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Testing%20Procedures%20on%20Buildability%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079545174&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3008107225" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.118286" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.118286?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication with concrete enables the efficient and quick creation of architectural/structural elements without formworks. This technology does, however, introduce new challenges, especially concerning the mechanical requirements of printable materials. Consequently, the mechanical characterisation of early-age printable mortar is essential for designing, controlling and modelling the printing process, but no standardised testing procedures are currently available. In this paper, the results of uniaxial compressive tests performed on cylindrical samples are compared by varying the testing procedures, with the ultimate goal being to investigate their effect on the time-dependent mechanical properties of printable mortar. Finally, the results are used to predict failure during the printing process due to self-buckling or excessive compression on the first mortar layer. The outcomes highlight the role ofspecimen preparation, as well as the displacement rate on the predicted critical number of layers.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -92,8 +71,9 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "84 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
@@ -178,4 +158,33 @@ tags:
       <li><a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/rossino_chiara"><b>Rossino</b> Chiara</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../espo_menn_aspr_ross.2020.AETPtAtBPo3PCE/">An Experimental Testing Procedure to Assess the Buildability Performance of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pankratow_pawel"><b>Pankratow</b> Paweł</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../hoff_skib_pank_ziel.2020.AitCoa3PCWwtUoaLG/">Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{casa_espo_menn_aspr.2020.EoTPoBPo3PC,
+      author            = "Lorenzo Casagrande and Laura Esposito and Costantino Menna and Domenico Asprone and Ferdinando Auricchio",
+      title             = "Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete",
+      doi               = "10.1016/j.conbuildmat.2020.118286",
+      year              = "2020",
+      journal           = "Construction and Building Materials",
+      volume            = "245",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Casagrande, L. Esposito, C. Menna, D. Asprone and F. Auricchio, “Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete”, <i>Construction and Building Materials</i>, vol. 245, 2020, doi: 10.1016/j.conbuildmat.2020.118286.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Casagrande, Lorenzo, Laura Esposito, Costantino Menna, Domenico Asprone, and Ferdinando Auricchio. “Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete”. <i>Construction and Building Materials</i> 245 (2020). https://doi.org/10.1016/j.conbuildmat.2020.118286.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

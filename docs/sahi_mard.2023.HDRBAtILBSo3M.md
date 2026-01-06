@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hatice Şahin, Ali Mardani
+    - footer
+title: Şahin Hatice, Mardani Ali
 description:
 tags:
  - behavior
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures? ([2023-10](date/2023/10))
-<a href="https://doi.org/10.1080/01694243.2023.2266211" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/01694243.2023.2266211</a>
+#How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures? ([2023-10](date/2023/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/01694243.2023.2266211" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/01694243.2023.2266211" target="_blank">10.1080/01694243.2023.2266211</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
+Journal Article - Journal of Adhesion Science and Technology, pp. 1-25
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a> <a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Adhesion Science and Technology, pp. 1-25
-
-:aca-blank:{ .lg .middle}
-    [`#behavior`](keyword/behavior)
-    [`#bond`](keyword/bond)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#mixture`](keyword/mixture)
-    [`#rheology`](keyword/rheology)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=How%20Does%20Rheological%20Behavior%20Affect%20the%20Inter-Layer%20Bonding%20Strength%20of%203DPC%20Mixtures%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173983460&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387458939" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/01694243.2023.2266211" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/01694243.2023.2266211?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The biggest obstacle to become widespread 3D Printing Concrete (3DPC) is the insufficient interlayer-bonding strength (IBS). The parameters affecting the IBS are classified as physical effects such as cleanliness and roughness, effects caused by the material properties it contains, and printer-induced effects for instance interlayer interval time, nozzle shape and printing speed. However, it was stated that the rheological properties of 3DPC mixtures should also be examined in order to strengthen the IBS. In this article, the relationship between IBS and rheological properties of 3DPC mixtures is discussed. It was stated that the static yield stress and the structural build-up have an optimum value in terms of the effect on IBS of 3DPC mixtures. On the other hand, studies indicating that the IBS of 3DPC mixtures depends on surface moisture of the layers were also encountered.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "81 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -145,8 +126,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
       <li><a href="../../../author/li_yifan"><b>Li</b> Yifan</a>, <a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a>, <a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../li_chen_yang_guo.2025.IotIoMRotIBPoSW3PC/">Investigation of the Impact of Material Rheology on the Interlayer Bonding Performance of Solid Waste 3D-Printed Components</a></li>
       <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/ramahi_siraj"><b>Ramahi</b> Siraj</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../irsh_cabi_fadl_rama.2024.WMUi3PCfSCA/">Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications:<br/>A Review</a></li>
@@ -155,4 +136,33 @@ tags:
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/beytekin_elif_hatice"><b>Beytekin</b> Hatice</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../sahi_mard_beyt.2024.EoSFUoSBUMaDSPoFR3PC/">Effect of Silica-Fume Utilization on Structural Build-Up, Mechanical and Dimensional Stability Performance of Fiber-Reinforced 3D Printable Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sahi_mard.2023.HDRBAtILBSo3M,
+      author            = "Hatice Gizem Şahin and Ali Mardani",
+      title             = "How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures?",
+      doi               = "10.1080/01694243.2023.2266211",
+      year              = "2023",
+      journal           = "Journal of Adhesion Science and Technology",
+      pages             = "1--25",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. G. Şahin  and A. Mardani, “How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures?”, <i>Journal of Adhesion Science and Technology</i>, pp. 1–25, 2023, doi: 10.1080/01694243.2023.2266211.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Şahin, Hatice Gizem, and Ali Mardani. “How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures?”. <i>Journal of Adhesion Science and Technology</i>, 2023, 1–25. https://doi.org/10.1080/01694243.2023.2266211.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Adrian Chajec, Branko Šavija
+    - footer
+title: Chajec Adrian, Šavija Branko
 description:
 tags:
  - cement
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.jobe.2024.110707) The Effect of Using Surface Functionalized Granite-Powder-Waste on Fresh Properties of 3D Printed Cementitious Composites ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.jobe.2024.110707" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110707</a>
+#The Effect of Using Surface Functionalized Granite-Powder-Waste on Fresh Properties of 3D Printed Cementitious Composites ([2024-09](date/2024/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.110707) <a href="https://doi.org/10.1016/j.jobe.2024.110707" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110707" target="_blank">10.1016/j.jobe.2024.110707</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chajec_adrian"><b>Chajec</b>&nbsp;Adrian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 97, No. 110707
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a> <a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 97, No. 110707
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#function`](keyword/function)
-    [`#powder`](keyword/powder)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#surface`](keyword/surface)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Using%20Surface%20Functionalized%20Granite-Powder-Waste%20on%20Fresh%20Properties%20of%203D%20Printed%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204202603&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402552219" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110707" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110707?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The production of low-emission additive manufactured cementitious composites using functionalized rock powders offers promising mechanical properties and significantly reduces cement consumption. The effect of powder functionalization on the rheological properties of the mixture remains unclear, so this study investigated how mechanical and chemical functionalization of granite powder waste affects the viscoelastic properties of a cementitious mixture for additive manufacturing. Compression tests were used to track stress-strain changes over time, while Vane and slug tests measured yield stress in mixes with 20 % and 40 % cement replaced by natural (NGP), sieved (SGP), and carbonated granite powder (CGP). The results showed that all three powders (NGP, SGP, and CGP) increased yield stress compared to the reference mix, with CGP having the smallest effect. The functionalization of granite powder may enable the creation of desirable viscoelastic mixtures using sustainable materials. We observed that functionalizing granite powder (SGP and CGP) accelerated changes in the mixture rheological properties, with yield stress increasing by up to 33 %, while NGP showed minimal impact, similar to the reference mix. Differences between the Vane and Slug test results were also identified and their limitations described.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../bong_du.2024.SAMoCwLCM/">Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -98,8 +76,38 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/zhu_shidong"><b>Zhu</b> Shidong</a>, <a href="../../../author/li_wangxin"><b>Li</b> Wangxin</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhu_zhu_li_zhan.2023.ASotPoMSC/">A Study on the Printability of Manufactured Sand Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chaj_savi.2024.TEoUSFGPWoFPo3PCC,
+      author            = "Adrian Chajec and Branko Šavija",
+      title             = "The Effect of Using Surface Functionalized Granite-Powder-Waste on Fresh Properties of 3D Printed Cementitious Composites",
+      doi               = "10.1016/j.jobe.2024.110707",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "97",
+      pages             = "110707",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Chajec  and B. Šavija, “The Effect of Using Surface Functionalized Granite-Powder-Waste on Fresh Properties of 3D Printed Cementitious Composites”, <i>Journal of Building Engineering</i>, vol. 97, p. 110707, 2024, doi: 10.1016/j.jobe.2024.110707.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chajec, Adrian, and Branko Šavija. “The Effect of Using Surface Functionalized Granite-Powder-Waste on Fresh Properties of 3D Printed Cementitious Composites”. <i>Journal of Building Engineering</i> 97 (2024): 110707. https://doi.org/10.1016/j.jobe.2024.110707.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

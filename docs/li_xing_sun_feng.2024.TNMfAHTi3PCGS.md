@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Zhengrong Li, Wenjing Xing, Jingting Sun, Xiwen Feng, Heyu Wang
+    - footer
+title: Li Zhengrong, Xing Wenjing, Sun Jingting, Feng Xiwen, Wang Heyu
 description:
 tags:
  - anisotropy
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.buildenv.2024.111381" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.buildenv.2024.111381</a>
+#Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures ([2024-03](date/2024/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.buildenv.2024.111381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.buildenv.2024.111381" target="_blank">10.1016/j.buildenv.2024.111381</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8676-667X" title="ORCID: 0000-0001-8676-667X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhengrong"><b>Li</b>&nbsp;Zhengrong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6942-8310" title="ORCID: 0000-0001-6942-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xing_wenjing"><b>Xing</b>&nbsp;Wenjing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_jingting"><b>Sun</b>&nbsp;Jingting</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2116-2303" title="ORCID: 0000-0002-2116-2303" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_xiwen"><b>Feng</b>&nbsp;Xiwen</a></span>, <a href="../../../author/wang_heyu"><b>Wang</b>&nbsp;Heyu</a></span><br>
+Journal Article - Building and Environment, Vol. 254, No. 111381
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="https://orcid.org/0000-0001-8676-667X" title="ORCID: 0000-0001-8676-667X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> <a href="https://orcid.org/0000-0001-6942-8310" title="ORCID: 0000-0001-6942-8310" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="https://orcid.org/0000-0003-2161-8216" title="ORCID: 0000-0003-2161-8216" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="https://orcid.org/0000-0002-2116-2303" title="ORCID: 0000-0002-2116-2303" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wang_heyu"><b>Wang</b> Heyu</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Building and Environment, Vol. 254, No. 111381
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#complexity`](keyword/complexity)
-    [`#geometry`](keyword/geometry)
-    [`#heat`](keyword/heat)
-    [`#model`](keyword/model)
-    [`#network`](keyword/network)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Network%20Model%20for%20Anisotropic%20Heat%20Transfer%20in%203D%20Printed%20Complex%20Geometry%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187643757&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4392453212" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.buildenv.2024.111381" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.buildenv.2024.111381?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The sustainability of 3D printed buildings has drawn increasing attention in research. As a foundation for assessing energy efficiency and sustainability, it is crucial to consider the thermal performance of 3D printed walls during the structural design phase. 3D printed walls exhibit anisotropic thermophysical properties and complex heat transfer processes. However, there is a lack of studies accounting for these aspects. This work proposes a thermal network model suitable for objects with changing directions of principal thermal conductivities. The key is to store information on sizes, directions and properties. Analytical solution verification and experimental verification under two-dimensional conditions agree well with the actual results. The numerical simulation of the anisotropic 3D printed wall with complex geometry shows that the reinforced structures and the cavities cause alternating surface temperature distributions, with an average temperature difference of about 0.75 ◦C. Due to the barrier effect of the inclined printed structure, the triangular cavities show higher temperatures than the square cavities. The proposed model is significant for characterizing the relationship between structure and thermal performance and can be used to optimise the thermal design of 3D printed walls.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a></li>
@@ -95,8 +71,8 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "8 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
       <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>
@@ -106,4 +82,34 @@ tags:
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/wang_heyu"><b>Wang</b> Heyu</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../li_xing_wang_sun.2024.TEoHGoSSHTiEB3PS/">The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_xing_sun_feng.2024.TNMfAHTi3PCGS,
+      author            = "Zhengrong Li and Wenjing Xing and Jingting Sun and Xiwen Feng and Heyu Wang",
+      title             = "Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures",
+      doi               = "10.1016/j.buildenv.2024.111381",
+      year              = "2024",
+      journal           = "Building and Environment",
+      volume            = "254",
+      pages             = "111381",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Li, W. Xing, J. Sun, X. Feng and H. Wang, “Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures”, <i>Building and Environment</i>, vol. 254, p. 111381, 2024, doi: 10.1016/j.buildenv.2024.111381.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Zhengrong, Wenjing Xing, Jingting Sun, Xiwen Feng, and Heyu Wang. “Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures”. <i>Building and Environment</i> 254 (2024): 111381. https://doi.org/10.1016/j.buildenv.2024.111381.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

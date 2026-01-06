@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nathalie Labonnote, Anders Rønnquist, Bendik Manum, Petra Rüther
+    - footer
+title: Labonnote Nathalie, Rønnquist Anders, Manum Bendik, Rüther Petra
 description:
 tags:
  - additive
@@ -13,29 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Construction:<br/>:aca-blank: State of the Art, Challenges and Opportunities ([2016-09](date/2016/09))
-<a href="https://doi.org/10.1016/j.autcon.2016.08.026" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2016.08.026</a>
+#Additive Construction&nbsp;([2016-09](date/2016/09))
+<div class="h1-like">State of the Art, Challenges and Opportunities</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2016.08.026" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2016.08.026" target="_blank">10.1016/j.autcon.2016.08.026</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6790-4109" title="ORCID: 0000-0001-6790-4109" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/labonnote_nathalie"><b>Labonnote</b>&nbsp;Nathalie</a></span>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b>&nbsp;Anders</a></span>, <a href="../../../author/manum_bendik"><b>Manum</b>&nbsp;Bendik</a></span>, <a href="../../../author/ruther_petra"><b>Rüther</b>&nbsp;Petra</a></span><br>
+Journal Article - Automation in Construction, Vol. 72, pp. 347-366
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a> <a href="https://orcid.org/0000-0001-6790-4109" title="ORCID: 0000-0001-6790-4109" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>
-,     <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>
-,     <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 72, pp. 347-366
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#challenge`](keyword/challenge)
-    [`#construction`](keyword/construction)
-    [`#opportunity`](keyword/opportunity)
-    [`#state`](keyword/state)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84994104884&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -50,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2523483446" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2016.08.026" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2016.08.026?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The present study has investigated to what extent additive manufacturing technologies can be successfully applied to the construction oflarge-scale structures. The central concept ofadditive construction was defined, and a systematic mapping study was performed in order to assemble relevant publications selected according to a well-defined set ofcriteria. Knowledge gathered fromthe relevant publicationswas organised into four main categories:material science, engineering, building design andmarket analysis. The lack offocus ofmaterial science research towards the characterisation and potential improvement of construction-related material properties has been emphasised. The evolution oftechnological solutions to deposit the construction materials fromgantry solutions to more lightweight systems has been described. The governing parameters for deciding on the most appropriate solutions have been identified as the type of building component, the location for production, and the assembly technique. Benefits of additive construction for building designwere shown to mostly address the perspective ofend-users, but should instead be understood as the emergence ofnew opportunities and new constraints that will necessitate a greater degree ofrational decision-making in the design phase. The relevant markets for additive constructionwere shown to be closely related to the inherent specificities of the project in question. This implies that additive construction can be successfully applied in connection with general housing projects only if housing in general changes to become more optimised and more individualised. It was concluded that additive construction has the potential to revolutionise the construction industry, its success depending on how the whole building industry is ready to tackle three challenges: the need for an architectural paradigm shift, the need for a holistic design process, and the need for rational designs. A list of suggestions for further research is provided, among them the development of tools for assessing the disruptive potential of additive construction in an objective and scientificway.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -84,8 +66,8 @@ tags:
       <li><a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>, <a href="../../../author/leach_neil"><b>Leach</b> Neil</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../than_khos_carl_leac.2012.ACECRSaCCTfLSID/">Architectural Concepts Employing Co-Robot-Strategy and Contour Crafting Technologies for Lunar Settlement Infrastructure Development</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2009/06">(2009-06)</a><br><a href="../../../zhan_khos.2009.CCPPaO/">Contour Crafting Process Planning and Optimization</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "286 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nadais_mariana"><b>Nadais</b> Mariana</a>, <a href="../../../author/cunha_p_rui"><b>Cunha</b> Rui</a>, <a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nada_cunh_pess_delg.2026.EIEQTRTM/">Enhancing Indoor Environmental Quality Through Real-Time Monitoring:<br/>A Case Study of a 3D-Printed House</a></li>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
@@ -373,4 +355,34 @@ tags:
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{labo_rnn_manu_ruth.2016.AC,
+      author            = "Nathalie Labonnote and Anders Rønnquist and Bendik Manum and Petra Rüther",
+      title             = "Additive Construction: State of the Art, Challenges and Opportunities",
+      doi               = "10.1016/j.autcon.2016.08.026",
+      year              = "2016",
+      journal           = "Automation in Construction",
+      volume            = "72",
+      pages             = "347--366",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Labonnote, A. Rønnquist, B. Manum and P. Rüther, “Additive Construction: State of the Art, Challenges and Opportunities”, <i>Automation in Construction</i>, vol. 72, pp. 347–366, 2016, doi: 10.1016/j.autcon.2016.08.026.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Labonnote, Nathalie, Anders Rønnquist, Bendik Manum, and Petra Rüther. “Additive Construction: State of the Art, Challenges and Opportunities”. <i>Automation in Construction</i> 72 (2016): 347–66. https://doi.org/10.1016/j.autcon.2016.08.026.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

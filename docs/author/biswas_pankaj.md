@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Biswas Pankaj 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/fatima_warsi"><b>Fatima</b> Warsi</a>, <a href="../../../author/syed_bustan"><b>Syed</b> Bustan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../fati_syed_pand_bisw.2025.NEotSPoSC3PCW/">Numerical Evaluation of the Seismic Performance of Self-Centering 3D Printed Concrete Wall</a></li>
   <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wars_pand_bisw.2025.DoER3PCWBoA31/">Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19:<br/>Analytical Investigation and Numerical Modelling</a></li>
   <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.SAo3PCWUQSCLUCMM/">Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model</a></li>

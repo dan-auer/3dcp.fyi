@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ticho Ooms, Gieljan Vantyghem, Ruben Coile, Wouter Corte
+    - footer
+title: Ooms Ticho, Vantyghem Gieljan, Coile Ruben, Corte Wouter
 description:
 tags:
  - complexity
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries ([2020-12](date/2020/12))
-<a href="https://doi.org/10.1016/j.addma.2020.101743" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2020.101743</a>
+#A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries ([2020-12](date/2020/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2020.101743" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101743" target="_blank">10.1016/j.addma.2020.101743</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ooms_ticho"><b>Ooms</b>&nbsp;Ticho</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b>&nbsp;Gieljan</a></span>, <a href="../../../author/coile_ruben"><b>van&nbsp;Coile</b>&nbsp;Ruben</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 38
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a> <a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> <a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/coile_ruben"><b>van Coile</b> Ruben</a>
-,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 38, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#complexity`](keyword/complexity)
-    [`#concrete`](keyword/concrete)
-    [`#geometry`](keyword/geometry)
-    [`#model`](keyword/model)
-    [`#numeric`](keyword/numeric)
-    [`#parameter`](keyword/parameter)
-    [`#print`](keyword/print)
-    [`#simulation`](keyword/simulation)
-    [`#strategy`](keyword/strategy)
-
-
--------------------------
+<a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Parametric%20Modelling-Strategy%20for%20the%20Numerical%20Simulation%20of%203D%20Concrete%20Printing%20with%20Complex%20Geometries" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098702369&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3111321228" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2020.101743" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2020.101743?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is a fast-evolving manufacturing technique in the construction industry with numerous advantages over traditional construction methods. Nevertheless, many unknowns about 3DCP in the manufacturing stage still remain, such as the maximum number of printed layers before failure or the maximum speed at which a certain design can be properly printed. In this paper, a numerical model for the simulation of the structural behaviour of 3D printed fresh concrete is proposed and discussed. In order to obtain complete control over the additive process, material properties and layer interactions, the finite element mesh needs to be created from the ground up in a layer-wise manner. Therefore, a parametric tool was developed, which allows for the creation of finite element models without requiring extensive manual modelling. The main advantage of the developed tool is the possibility to automate the pre-processing step for the numerical analysis and simulate the structural behaviour of a randomly shaped object during printing. Additionally, it allows for finding the appropriate material properties for a certain print object at a desired print speed and vice versa. As such, the printing process can first be virtually simulated and improved upon without physical experimentation and the corresponding material waste. Ultimately, the developed tool can assist in an entire 3DCP workflow with regard to efficiency and material usage. Models created with the presented tool were evaluated and validated based on experimental and numerical results from literature. Finally, the case study of a geometrically complex print object is presented, demonstrating the tool’s potential.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -90,8 +67,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "82 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
@@ -174,6 +151,34 @@ tags:
       <li><a href="../../../author/liu_xuanting"><b>Liu</b> Xuanting</a>, <a href="../../../author/sun_bohua"><b>Sun</b> Bohua</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_sun.2021.TIoIotSSi3CPP/">The Influence of Interface on the Structural Stability in 3D Concrete Printing Processes</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../bres_nabo.2022.ATP/">Adaptive Tool-Path:<br/>Enhanced Design and Process-Control for Robotic 3DCP</a></li>
-      <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vant_stee_cort_boel.2020.DOf3CP/">Design-Optimization for 3D Concrete Printing:<br/>Improving Structural and Thermal Performances</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ooms_vant_coil_cort.2021.APMSftNSo3CPwCG,
+      author            = "Ticho Ooms and Gieljan Vantyghem and Ruben van Coile and Wouter de Corte",
+      title             = "A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries",
+      doi               = "10.1016/j.addma.2020.101743",
+      year              = "2021",
+      journal           = "Additive Manufacturing",
+      volume            = "38",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Ooms, G. Vantyghem, R. van Coile and W. de Corte, “A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries”, <i>Additive Manufacturing</i>, vol. 38, 2021, doi: 10.1016/j.addma.2020.101743.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ooms, Ticho, Gieljan Vantyghem, Ruben van Coile, and Wouter de Corte. “A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries”. <i>Additive Manufacturing</i> 38 (2021). https://doi.org/10.1016/j.addma.2020.101743.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

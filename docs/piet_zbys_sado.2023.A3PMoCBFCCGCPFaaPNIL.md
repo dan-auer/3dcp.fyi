@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Daniel Pietras, Wojciech Zbyszyński, Tomasz Sadowski
+    - footer
+title: Pietras Daniel, Zbyszyński Wojciech, Sadowski Tomasz
 description:
 tags:
  - base
@@ -18,33 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/1996-1944/16/12/4235/pdf?version=1686194679) A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer ([2023-06](date/2023/06))
-<a href="https://doi.org/10.3390/ma16124235" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/ma16124235</a>
+#A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer ([2023-06](date/2023/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/12/4235/pdf?version=1686194679) <a href="https://doi.org/10.3390/ma16124235" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16124235" target="_blank">10.3390/ma16124235</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4877-9135" title="ORCID: 0000-0002-4877-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pietras_daniel"><b>Pietras</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6108-2992" title="ORCID: 0000-0001-6108-2992" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b>&nbsp;Wojciech</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9212-8340" title="ORCID: 0000-0001-9212-8340" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadowski_tomasz"><b>Sadowski</b>&nbsp;Tomasz</a></span><br>
+Journal Article - Materials, Vol. 16, Iss. 12, No. 4235
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/pietras_daniel"><b>Pietras</b> Daniel</a> <a href="https://orcid.org/0000-0002-4877-9135" title="ORCID: 0000-0002-4877-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b> Wojciech</a> <a href="https://orcid.org/0000-0001-6108-2992" title="ORCID: 0000-0001-6108-2992" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sadowski_tomasz"><b>Sadowski</b> Tomasz</a> <a href="https://orcid.org/0000-0001-9212-8340" title="ORCID: 0000-0001-9212-8340" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials, Vol. 16, Iss. 12, No. 4235
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#containment`](keyword/containment)
-    [`#fiber`](keyword/fiber)
-    [`#grain`](keyword/grain)
-    [`#inter`](keyword/inter)
-    [`#layer`](keyword/layer)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%203D%20Printing%20Method%20of%20Cement-Based%20FGM%20Composites%20Containing%20Granulated%20Cork%2C%20Polypropylene%20Fibers%2C%20and%20a%20Polyethylene%20Net%20Inter-Layer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163837086&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4379875766" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/ma16124235" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/ma16124235?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The increasing popularity of additive manufacturing technologies in the prototyping and building industry requires the application of novel, improved composite materials. In this paper, we propose the use of a novel 3D printing cement-based composite material with natural, granulated cork, and additional reinforcement using a continuous polyethylene interlayer net combined with polypropylene fibre reinforcement. Our assessment of different physical and mechanical properties of the used materials during the 3D printing process and after curing verified the applicability of the new composite. The composite exhibited orthotropic properties, and the compressive toughness in the direction of layer stacking was lower than that perpendicular to it, by 29.8% without net reinforcement, 42.6% with net reinforcement, and 42.9% with net reinforcement and an additional freeze–thaw test. The use of the polymer net as a continuous reinforcement led to decreased compressive toughness, lowering it on average by 38.5% for the stacking direction and 23.8% perpendicular to the stacking direction. However, the net reinforcement additionally lowered slumping and elephant’s foot effects. Moreover, the net reinforcement added residual strength, which allowed for the continuous use of the composite material after the failure of the brittle material. Data obtained during the process can be used for further development and improvement of 3D-printable building materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
@@ -84,7 +61,6 @@ tags:
       <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ma_zhan_jia_liu.2022.EoDEoMPIRaPSo3PC/">Effect of Drying Environment on Mechanical Properties, Internal RH and Pore-Structure of 3D Printed Concrete</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
-      <li><a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../park_mema_hoja_radl.2024.EoAMBoNMCo3PCBwR/">Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
@@ -98,11 +74,42 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yu_sanj_du.2022.EoCMCoAB3CP/">Effects of Cement Mortar Characteristics on Aggregate-Bed 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shoaei_parham"><b>Shoaei</b> Parham</a>, <a href="../../../author/gallantree-smith_harrison"><b>Gallantree-Smith</b> Harrison</a>, <a href="../../../author/martinez-pacheco_victor"><b>Martínez Pacheco</b> Victor</a>, <a href="../../../author/pamies_ramon"><b>Pamies</b> Ramón</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../shoa_gall_mart_pami.2024.CAo3PoPCMwHMaMFCaVMA/">Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents</a></li>
       <li><a href="../../../author/mu_ru"><b>Mu</b> Ru</a>, <a href="../../../author/chen_jiao"><b>Chen</b> Jiao</a>, <a href="../../../author/qing_longbang"><b>Qing</b> Longbang</a>, <a href="../../../author/fan_chunhao"><b>Fan</b> Chunhao</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../mu_chen_qing_fan.2024.PoaSFRCCSwDDSF/">Properties of a Steel-Fiber-Reinforced Cementitious Composite Stool with Digitally Distributed Steel-Fibers</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ungu_onut_isop_tara.2023.ANAf3PFRM/">A Novel Approach for 3D Printing Fiber-Reinforced Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{piet_zbys_sado.2023.A3PMoCBFCCGCPFaaPNIL,
+      author            = "Daniel Pietras and Wojciech Zbyszyński and Tomasz Sadowski",
+      title             = "A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer",
+      doi               = "10.3390/ma16124235",
+      year              = "2023",
+      journal           = "Materials",
+      volume            = "16",
+      number            = "12",
+      pages             = "4235",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">D. Pietras, W. Zbyszyński and T. Sadowski, “A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer”, <i>Materials</i>, vol. 16, no. 12, p. 4235, 2023, doi: 10.3390/ma16124235.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Pietras, Daniel, Wojciech Zbyszyński, and Tomasz Sadowski. “A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer”. <i>Materials</i> 16, no. 12 (2023): 4235. https://doi.org/10.3390/ma16124235.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

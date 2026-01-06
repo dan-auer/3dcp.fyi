@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Yoris-Nobile Adrian 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/alonso-estebanez_alejandro"><b>Alonso-Estebanez</b> Alejandro</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/bruncic_ana"><b>Brunčič</b> Ana</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../alon_alon_yori_brun.2025.RPRf3PSMUaNLCRR/">Rheological Parameter Ranges for 3D Printing Sustainable Mortars Using a New Low-Cost Rotational Rheometer</a></li>
   <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../alon_blan_cast_yori.2024.CoRFi3PMUMCA/">Comparison of Reinforcement-Fibers in 3D Printing Mortars Using Multi-Criteria Analysis</a></li>
   <li><a href="../../../author/hall_e_alice"><b>Hall</b> Alice</a>, <a href="../../../author/herbert_j-h_roger"><b>Herbert</b> Roger</a>, <a href="../../../author/stafford_richard"><b>Stafford</b> Richard</a>, <a href="../../../author/jones_g"><b>Jones</b> G.</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../hall_herb_staf_jone.2023.3PHEU/">3D Printed Habitat Enhancement Units:<br/>Key Features to Incorporate within Multifunctional Infrastructure</a></li>

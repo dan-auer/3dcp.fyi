@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wenxin Lao, Mingyang Li, Teck Wong, Ming Tan, Tegoeh Tjahjowidodo
+    - footer
+title: Lao Wenxin, Li Mingyang, Wong Teck, Tan Ming, Tjahjowidodo Tegoeh
 description:
 tags:
  - base
@@ -20,37 +21,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://dr.ntu.edu.sg/bitstream/10356/148291/2/IMPROV~3.PDF) Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1080/17452759.2020.1713580" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/17452759.2020.1713580</a>
+#Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control ([2020-02](date/2020/02))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/148291/2/IMPROV~3.PDF) <a href="https://doi.org/10.1080/17452759.2020.1713580" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2020.1713580" target="_blank">10.1080/17452759.2020.1713580</a>
 
--------------------------
+<a href="../../../author/lao_wenxin"><b>Lao</b>&nbsp;Wenxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0074-5101" title="ORCID: 0000-0003-0074-5101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tjahjowidodo_tegoeh"><b>Tjahjowidodo</b>&nbsp;Tegoeh</a></span><br>
+Journal Article - Virtual and Physical Prototyping, Vol. 15, Iss. 2, pp. 178-193
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>
-,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tjahjowidodo_tegoeh"><b>Tjahjowidodo</b> Tegoeh</a> <a href="https://orcid.org/0000-0003-0074-5101" title="ORCID: 0000-0003-0074-5101" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Virtual and Physical Prototyping, Vol. 15, Iss. 2, pp. 178-193
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#extrusion`](keyword/extrusion)
-    [`#finish`](keyword/finish)
-    [`#geometry`](keyword/geometry)
-    [`#improvement`](keyword/improvement)
-    [`#learn`](keyword/learn)
-    [`#machine`](keyword/machine)
-    [`#print`](keyword/print)
-    [`#quality`](keyword/quality)
-    [`#surface`](keyword/surface)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/finish"><button class="btn">#finish</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20Surface-Finish-Quality%20in%20Extrusion-Based%203D%20Concrete%20Printing%20Using%20Machine-Learning-Based%20Extrudate-Geometry-Control" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079050530&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3004460425" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/17452759.2020.1713580" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/17452759.2020.1713580?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) has been gaining popularity in the past few years. Due to the nature of line-by-line printing and the slump of the material deposition in each extruded line, 3D printed structures exhibit obvious lines or marks at the layer interface, which affects surface finish quality and potentially affect bonding strength between layers. This makes it necessary to control the extrudate formation in 3DCP. However, it is difficult to directly analyse the extrudate formation process because the extrudate shape depends on many parameters. In this paper, a machine learning technique is applied to correlate the formation of the extrudate to the printing parameters using an Artificial Neural Network model. The training data for the model development was obtained from extrudates printed in 3DCP experiments. The performance of the trained model was experimentally validated and the predicted extrudate geometry resulting from the developed model showed good agreement to the actual extrudate geometry. Subsequently, the developed model was used to find proper nozzle shapes to produce designated extrudate geometries. Significant improvement on the printing quality was demonstrated using nozzle shapes generated from the model on 3D printed objects consisting a vertical wall, an inclined wall and a curved part.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -102,8 +75,9 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../zare_khos.2018.EoMIoEoCiCC/">Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "61 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>
       <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
       <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
@@ -165,4 +139,35 @@ tags:
       <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tjahjowidodo_tegoeh"><b>Tjahjowidodo</b> Tegoeh</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../lao_li_tjah.2021.VGNfSQEi3CP/">Variable-Geometry Nozzle for Surface Quality Enhancement in 3D Concrete Printing</a></li>
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../yang_li_che.2020.3PCMCNC/">3D Printing Cementitious Materials Containing Nano-CaCO3:<br/>Workability, Strength, and Microstructure</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lao_li_wong_tan.2020.ISFQiEB3CPUMLBEGC,
+      author            = "Wenxin Lao and Mingyang Li and Teck Neng Wong and Ming Jen Tan and Tegoeh Tjahjowidodo",
+      title             = "Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control",
+      doi               = "10.1080/17452759.2020.1713580",
+      year              = "2020",
+      journal           = "Virtual and Physical Prototyping",
+      volume            = "15",
+      number            = "2",
+      pages             = "178--193",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Lao, M. Li, T. N. Wong, M. J. Tan and T. Tjahjowidodo, “Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control”, <i>Virtual and Physical Prototyping</i>, vol. 15, no. 2, pp. 178–193, 2020, doi: 10.1080/17452759.2020.1713580.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lao, Wenxin, Mingyang Li, Teck Neng Wong, Ming Jen Tan, and Tegoeh Tjahjowidodo. “Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control”. <i>Virtual and Physical Prototyping</i> 15, no. 2 (2020): 178–93. https://doi.org/10.1080/17452759.2020.1713580.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

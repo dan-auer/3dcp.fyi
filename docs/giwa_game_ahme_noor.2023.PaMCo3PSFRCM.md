@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ilerioluwa Giwa, Daniel Game, Hassan Ahmed, Hassan Noorvand, Gabriel Arce, Marwa Hassan, Ali Kazemian
+    - footer
+title: Giwa Ilerioluwa, Game Daniel, Ahmed Hassan, Noorvand Hassan, Arce Gabriel, Hassan Marwa, Kazemian Ali
 description:
 tags:
  - cement
@@ -16,35 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.130593" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.130593</a>
+#Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials ([2023-02](date/2023/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.130593" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.130593" target="_blank">10.1016/j.conbuildmat.2023.130593</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giwa_ilerioluwa"><b>Giwa</b>&nbsp;Ilerioluwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0568-227X" title="ORCID: 0000-0002-0568-227X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/game_e_daniel"><b>Game</b>&nbsp;Daniel</a></span>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b>&nbsp;Hassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noorvand_hassan"><b>Noorvand</b>&nbsp;Hassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arce_amador_gabriel"><b>Arce</b>&nbsp;Gabriel</a></span>, <a href="../../../author/hassan_m_marwa"><b>Hassan</b>&nbsp;Marwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 369
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> <a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a> <a href="https://orcid.org/0000-0002-0568-227X" title="ORCID: 0000-0002-0568-227X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>
-,     <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> <a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> <a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hassan_m_marwa"><b>Hassan</b> Marwa</a>
-,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 369, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#characteristic`](keyword/characteristic)
-    [`#fiber`](keyword/fiber)
-    [`#material`](keyword/material)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Performance%20and%20Macrostructural%20Characterization%20of%203D%20Printed%20Steel-Fiber-Reinforced%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147853816&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4320085916" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.130593" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.130593?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The widespread adoption of Construction 3D Printing (C3DP) for structural applications has been hindered by the lack of seamless integration of reinforcement into the automated layering process. Incorporating steel fibers into the printing material could eliminate technical complexities associated with other proposed reinforcement methods for C3DP. This study investigates the fresh and hardened-state properties of printing mixtures including different dosages of steel fibers, especially high dosages which have not been investigated before. This study also considers the effects of other parameters such as sand-to-powder ratio and the limestone content on the properties of steel fiber reinforced printing materials, to reduce the Portland cement content which has a high carbon footprint. The obtained experimental results revealed that high-performance materials incorporating up to 2.5% steel fibers (by volume) can be successfully 3D printed. The mechanical properties of the reinforced mixtures improved significantly at high fiber dosages (2% and 2.5% vol.). The CT-scan results reveal that the orientation and alignment degree of steel fibers in the composite is affected by different parameters such as the binder content and nozzle design. Based on the significant improvement in the tensile properties reported in this study (e.g. up to 148% increase in tensile strength), incorporating high dosages of steel fibers can be an effective C3DP reinforcement technique for structural applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "26 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -80,7 +55,6 @@ tags:
       <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/kumarji_sujay"><b>Kumarji</b> Sujay</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b> Aldo</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gene_kuma_dubo_soll.2020.SRoCW3P/">Simultaneous Reinforcement of Concrete While 3D Printing</a></li>
       <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b> Mehrzad</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hoja_mema_zaha_wu.2022.BWRf3CP/">Barbed-Wire Reinforcement for 3D Concrete Printing</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/seylabi_elnaz"><b>Seylabi</b> Elnaz</a>, <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kaze_seyl_eken.2022.C3P/">Concrete 3D Printing:<br/>Challenges and Opportunities for the Construction Industry</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
@@ -98,8 +72,9 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "33 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>
       <li><a href="../../../author/philip_nivin"><b>Philip</b> Nivin</a>, <a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b> Agnieszka</a>, <a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME/">Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments</a></li>
@@ -133,4 +108,33 @@ tags:
       <li><a href="../../../author/carvalho_c_ivo"><b>Carvalho</b> Ivo</a>, <a href="../../../author/melo_r-s_abcael"><b>Melo</b> Abcael</a>, <a href="../../../author/melo_d-r_carlos"><b>Melo</b> Carlos</a>, <a href="../../../author/brito_s_mateus"><b>Brito</b> Mateus</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../carv_melo_melo_brit.2024.EotEoRWPotRaMPoCMf3P/">Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/ahmadi_khatereh"><b>Ahmadi</b> Khatereh</a>, <a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ahma_mous_dehe.2023.IoNCMSFoMaSHPo3PCUGOaPA/">Influence of Nano-Coated Micro-Steel-Fibers on Mechanical and Self-Healing Properties of 3D Printable Concrete Using Graphene-Oxide and Polyvinyl-Alcohol</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{giwa_game_ahme_noor.2023.PaMCo3PSFRCM,
+      author            = "Ilerioluwa Giwa and Daniel E. Game and Hassan Ahmed and Hassan Noorvand and Gabriel Amador Arce and Marwa M. Hassan and Ali Kazemian",
+      title             = "Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials",
+      doi               = "10.1016/j.conbuildmat.2023.130593",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "369",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. Giwa, “Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials”, <i>Construction and Building Materials</i>, vol. 369, 2023, doi: 10.1016/j.conbuildmat.2023.130593.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Giwa, Ilerioluwa, Daniel E. Game, Hassan Ahmed, Hassan Noorvand, Gabriel Amador Arce, Marwa M. Hassan, and Ali Kazemian. “Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials”. <i>Construction and Building Materials</i> 369 (2023). https://doi.org/10.1016/j.conbuildmat.2023.130593.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

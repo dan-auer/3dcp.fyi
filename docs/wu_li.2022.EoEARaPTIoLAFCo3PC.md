@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yun-Chen Wu, Mo Li
+    - footer
+title: Wu Yun-Chen, Li Mo
 description:
 tags:
  - age
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2022.128559) Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete ([2022-09](date/2022/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2022.128559" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128559</a>
+#Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete ([2022-09](date/2022/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2022.128559) <a href="https://doi.org/10.1016/j.conbuildmat.2022.128559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128559" target="_blank">10.1016/j.conbuildmat.2022.128559</a>
 
--------------------------
+<a href="../../../author/wu_yun-chen"><b>Wu</b>&nbsp;Yun-Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mo"><b>Li</b>&nbsp;Mo</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 351
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>
-,     <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 351, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#early`](keyword/early)
-    [`#effect`](keyword/effect)
-    [`#fracture`](keyword/fracture)
-    [`#interval`](keyword/interval)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Early-Age%20Rheology%20and%20Printing%20Time%20Interval%20on%20Late-Age%20Fracture%20Characteristics%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137273509&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4295193359" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.128559" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.128559?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete additive manufacturing, also known as 3D printing, opens tremendous opportunities in the construction industry, architectural design, defense and space exploration. As concrete is a quasi-brittle material and prone to fracture, it is crucial to understand the effect of the layer-by-layer manufacturing process, such as the variation in printing time intervals and the introduction of printing interlayers, on the fracture behavior of 3D printed concrete. This study elucidated the effects of early-age material rheology, printing time interval and printing path on the late-age load versus crack mouth opening displacement relation, fracture process zone, fracture toughness and fracture energy of 3D printed concrete materials with notch locations at interlayers vs filaments. A dynamic oscillation stress sweep method was used to reveal the time-dependency of early-age rheological parameters. A novel fracture experiment was designed to integrate a digital image correlation system to enable closed-loop control, measurement, and visualization of crack tip parameters during the rapid fracture processes along the printing interlayers or filaments. The results revealed that the fracture characteristics of 3D printed concrete are strongly influenced by its rheology and time-dependency of rheology, which is fundamentally different from normal cast concrete. Increasing the printing time interval increases the storage modulus, yield stress and complex viscosity of 3D printed concrete materials at different shear stress levels, consequently increasing the likelihood of imperfections, and thus decreasing the maximum process zone size developed at the crack tip, fracture toughness and fracture energy of 3D printed concrete. Such effects were found to be stronger on the fracture characteristics of printing interlayers than filaments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
@@ -92,8 +70,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/cotrell_jason"><b>Cotrell</b> Jason</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wu_cotr_li.2020.ILEoFBo3PC/">Inter-Layer Effect on Fracture Behavior of 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "35 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
@@ -130,4 +108,33 @@ tags:
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
       <li><a href="../../../author/shen_yuhang"><b>Shen</b> Yuhang</a>, <a href="../../../author/lin_li"><b>Lin</b> Li</a>, <a href="../../../author/wei_shengjie"><b>Wei</b> Shengjie</a>, <a href="../../../author/yan_jie"><b>Yan</b> Jie</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../shen_lin_wei_yan.2022.RotPaMPoS3PCM/">Research on the Preparation and Mechanical Properties of Solidified 3D Printed Concrete Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wu_li.2022.EoEARaPTIoLAFCo3PC,
+      author            = "Yun-Chen Wu and Mo Li",
+      title             = "Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2022.128559",
+      year              = "2022",
+      journal           = "Construction and Building Materials",
+      volume            = "351",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y.-C. Wu  and M. Li, “Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 351, 2022, doi: 10.1016/j.conbuildmat.2022.128559.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wu, Yun-Chen, and Mo Li. “Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete”. <i>Construction and Building Materials</i> 351 (2022). https://doi.org/10.1016/j.conbuildmat.2022.128559.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

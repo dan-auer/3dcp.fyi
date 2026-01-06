@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: James Bradshaw, Swathi Balasubramanian, Wen Si, Mehran Khan, Ciaran McNally
+    - footer
+title: Bradshaw James, Balasubramanian Swathi, Si Wen, Khan Mehran, McNally Ciaran
 description:
 tags:
  - carbon
@@ -18,35 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/21/3919/pdf?version=1761879209) Towards Greener 3D Printing:<br/>:aca-blank: A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete ([2025-10](date/2025/10))
-<a href="https://doi.org/10.3390/buildings15213919" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15213919</a>
+#Towards Greener 3D Printing&nbsp;([2025-10](date/2025/10))
+<div class="h1-like">A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/21/3919/pdf?version=1761879209) <a href="https://doi.org/10.3390/buildings15213919" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15213919" target="_blank">10.3390/buildings15213919</a>
 
--------------------------
+<a href="../../../author/bradshaw_james"><b>Bradshaw</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3044-4097" title="ORCID: 0000-0002-3044-4097" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b>&nbsp;Swathi</a></span>, <a href="../../../author/si_wen"><b>Si</b>&nbsp;Wen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_mehran"><b>Khan</b>&nbsp;Mehran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 21, No. 3919
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>
-,     <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a> <a href="https://orcid.org/0000-0002-3044-4097" title="ORCID: 0000-0002-3044-4097" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/si_wen"><b>Si</b> Wen</a>
-,     <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> <a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 21, No. 3919
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#fume`](keyword/fume)
-    [`#green`](keyword/green)
-    [`#low`](keyword/low)
-    [`#modification`](keyword/modification)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#silica`](keyword/silica)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Towards%20Greener%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021457949&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415720175" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15213919" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15213919?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study investigates the durability challenges of 3D-printed concrete (3DPC) and examines the effect of silica fume (SF) on its performance, focusing on mechanical properties and selected durability tests as key indicators of mix suitability for 3D printing applications. Five low-carbon mixes were prepared with 50% GGBS replacement and varying silica fume contents (2.5–10%), and were evaluated through slump, compressive strength, rapid chloride migration, and accelerated carbonation tests. The addition of GGBS reduced the concrete’s shape retention, but incorporating silica fume improved flow behaviour, resulting in a more stable mix. The inclusion of GGBS and silica fume initially reduced 1-day strength but led to significant gains by 28 days, with the 5% SF low-carbon mix achieving the highest compressive strength. The low-carbon mixes showed superior chloride resistance, further enhanced by silica fume, though their carbonation resistance decreased with GGBS and SF addition. Overall, the 5% SF low-carbon mix demonstrated the best balance of strength, chloride resistance, and carbon reduction, despite minor trade-offs in early strength and carbonation resistance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bono_duco_mesn_caro.2024.MfFLCPMTPPO/">Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
@@ -100,7 +76,39 @@ tags:
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{brad_bala_si_khan.2025.TG3P,
+      author            = "James Bradshaw and Swathi Balasubramanian and Wen Si and Mehran Khan and Ciaran McNally",
+      title             = "Towards Greener 3D Printing: A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete",
+      doi               = "10.3390/buildings15213919",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "21",
+      pages             = "3919",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Bradshaw, S. Balasubramanian, W. Si, M. Khan and C. McNally, “Towards Greener 3D Printing: A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete”, <i>Buildings</i>, vol. 15, no. 21, p. 3919, 2025, doi: 10.3390/buildings15213919.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bradshaw, James, Swathi Balasubramanian, Wen Si, Mehran Khan, and Ciaran McNally. “Towards Greener 3D Printing: A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete”. <i>Buildings</i> 15, no. 21 (2025): 3919. https://doi.org/10.3390/buildings15213919.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

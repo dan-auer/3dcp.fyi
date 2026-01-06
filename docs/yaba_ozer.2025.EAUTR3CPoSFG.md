@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Meryem Yabanigül, Derya Özer
+    - footer
+title: Yabanigül Meryem, Özer Derya
 description:
 tags:
  - architecture
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.3390/buildings15010060) Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries ([2024-12](date/2024/12))
-<a href="https://doi.org/10.3390/buildings15010060" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15010060</a>
+#Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries ([2024-12](date/2024/12))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings15010060) <a href="https://doi.org/10.3390/buildings15010060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15010060" target="_blank">10.3390/buildings15010060</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3029-9731" title="ORCID: 0000-0002-3029-9731" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b>&nbsp;Meryem</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0288-8771" title="ORCID: 0000-0003-0288-8771" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozer_gulec_derya"><b>Özer</b>&nbsp;Derya</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 1, No. 60
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b> Meryem</a> <a href="https://orcid.org/0000-0002-3029-9731" title="ORCID: 0000-0002-3029-9731" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> <a href="https://orcid.org/0000-0003-0288-8771" title="ORCID: 0000-0003-0288-8771" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 1, No. 60
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#concrete`](keyword/concrete)
-    [`#exploration`](keyword/exploration)
-    [`#fill`](keyword/fill)
-    [`#geometry`](keyword/geometry)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#space`](keyword/space)
-    [`#unit`](keyword/unit)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Architectural%20Units%20Through%20Robotic%203D%20Concrete%20Printing%20of%20Space-Filling%20Geometries" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214492074&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405850339" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15010060" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15010060?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of 3D concrete printing (3DCP) into architectural design and production offers a solution to challenges in the construction industry. This technology presents benefits such as mass customization, waste reduction, and support for complex designs. However, its adoption in construction faces various limitations, including technical, logistical, and legal barriers. This study provides insights relevant to architecture, engineering, and construction practices, guiding future developments in the field. The methodology involves fabricating closed architectural units using 3DCP, emphasizing space-filling geometries and ensuring structural strength. Across three production trials, iterative improvements were made, revealing challenges and insights into design optimization and fabrication techniques. Prioritizing controlled filling of the unit’s internal volume ensures portability and ease of assembly. Leveraging 3D robotic concrete printing technology enables precise fabrication of closed units with controlled voids, enhancing speed and accuracy in production. Experimentation with varying unit sizes and internal support mechanisms, such as sand infill and central supports, enhances performance and viability, addressing geometric capabilities and fabrication efficiency. Among these strategies, sand filling has emerged as an effective solution for internal support as it reduces unit weight, simplifies fabrication, and maintains structural integrity. This approach highlights the potential of lightweight and adaptable modular constructions in the use of 3DCP technologies for architectural applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "52 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
       <li><a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b> Sara</a>, <a href="../../../author/yehia_a_sherif"><b>Yehia</b> Sherif</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ahme_yehi.2022.EoWaSRoLD3PCUCM/">Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods</a></li>
@@ -120,9 +99,41 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yaba_ozer.2025.EAUTR3CPoSFG,
+      author            = "Meryem N. Yabanigül and Derya Güleç Özer",
+      title             = "Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries",
+      doi               = "10.3390/buildings15010060",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "1",
+      pages             = "60",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. N. Yabanigül  and D. G. Özer, “Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries”, <i>Buildings</i>, vol. 15, no. 1, p. 60, 2025, doi: 10.3390/buildings15010060.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yabanigül, Meryem N., and Derya Güleç Özer. “Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries”. <i>Buildings</i> 15, no. 1 (2025): 60. https://doi.org/10.3390/buildings15010060.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wen Zhou, He Zhu, Wei-Hsiu Hu, Ryan Wollaston, Victor Li
+    - footer
+title: Zhou Wen, Zhu He, Hu Wei-Hsiu, Wollaston Ryan, Li Victor
 description:
 tags:
  - carbon
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105473" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105473</a>
+#Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105473" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105473" target="_blank">10.1016/j.cemconcomp.2024.105473</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_wen"><b>Zhou</b>&nbsp;Wen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1503-6076" title="ORCID: 0000-0003-1503-6076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_he"><b>Zhu</b>&nbsp;He</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6789-0456" title="ORCID: 0000-0001-6789-0456" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_wei-hsiu"><b>Hu</b>&nbsp;Wei-Hsiu</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-7230-5591" title="ORCID: 0009-0003-7230-5591" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wollaston_ryan"><b>Wollaston</b>&nbsp;Ryan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105473
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhu_he"><b>Zhu</b> He</a> <a href="https://orcid.org/0000-0003-1503-6076" title="ORCID: 0000-0003-1503-6076" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a> <a href="https://orcid.org/0000-0001-6789-0456" title="ORCID: 0000-0001-6789-0456" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> <a href="https://orcid.org/0009-0003-7230-5591" title="ORCID: 0009-0003-7230-5591" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105473
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#ecc`](keyword/ecc)
-    [`#engineered`](keyword/engineered)
-    [`#expansion`](keyword/expansion)
-    [`#low`](keyword/low)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Low-Carbon%2C%20Expansive%20Engineered%20Cementitious%20Composites%20%28ECC%29%20In%20the%20Context%20of%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185201858&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391692746" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105473" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105473?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Shrinkage and high carbon footprint are two significant challenges in the application of printable cementitious materials. To address these concerns, low-carbon, expansive, printable engineered cementitious composites (ECC) with appropriate mechanical properties were designed and validated. Limestone calcined clay cement (LC3)-based ECC combined with calcium sulfoaluminate cement (CSA) was adopted to design printable mixes with appropriate open times. The length deformation monitoring of cast and printed ECCs revealed that wet curing at an early age could effectively promote expansion. Regarding environmental sustainability, the CSA-ECC mix has a carbon footprint of merely 69% of concrete. Considering ECC's ability to reduce element size and material consumption, the environmental friendliness of printable CSA-ECC can be further enhanced. In addition, mechanical tests confirmed that the proposed ECCs demonstrated comparable or superior performance to their cast counterparts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "40 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -109,8 +86,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
       <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhu_yu_mcge_ng.2021.LCCCfTDPECC/">Limestone-Calcined-Clay-Cement for Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/tan_binglin"><b>Tan</b> Binglin</a>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b> Zhou</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS/">Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand</a></li>
@@ -134,4 +111,33 @@ tags:
       <li><a href="../../../author/xu_wen"><b>Xu</b> Wen</a>, <a href="../../../author/jiang_dengjie"><b>Jiang</b> Dengjie</a>, <a href="../../../author/zhao_qian"><b>Zhao</b> Qian</a>, <a href="../../../author/wang_linbing"><b>Wang</b> Linbing</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xu_jian_zhao_wang.2024.SoPo3PCFREFC/">Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete:<br/>Characterized by Fluidity and Consistency</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_chen_zhan_zhan.2024.HPaMo3PECCBoLCCC/">Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_zhu_hu_woll.2024.LCEECCEItCo3P,
+      author            = "Wen Zhou and He Zhu and Wei-Hsiu Hu and Ryan Wollaston and Victor C. Li",
+      title             = "Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing",
+      doi               = "10.1016/j.cemconcomp.2024.105473",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105473",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Zhou, H. Zhu, W.-H. Hu, R. Wollaston and V. C. Li, “Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing”, <i>Cement and Concrete Composites</i>, p. 105473, 2024, doi: 10.1016/j.cemconcomp.2024.105473.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Wen, He Zhu, Wei-Hsiu Hu, Ryan Wollaston, and Victor C. Li. “Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing”. <i>Cement and Concrete Composites</i>, 2024, 105473. https://doi.org/10.1016/j.cemconcomp.2024.105473.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

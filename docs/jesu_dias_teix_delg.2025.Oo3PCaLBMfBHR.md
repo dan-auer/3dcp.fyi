@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Manuel Jesus, Ricardo Dias, João Teixeira, João Delgado, Jorge Alves, Bárbara Rangel, Ana Guimarães
+    - footer
+title: Jesus Manuel, Dias Ricardo, Teixeira João, Delgado João, Alves Jorge, Rangel Bárbara, Guimarães Ana
 description:
 tags:
  - base
@@ -15,34 +16,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation ([2025-09](date/2025/09))
-<a href="https://doi.org/10.3390/buildings15193464" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15193464</a>
+#Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation ([2025-09](date/2025/09))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/buildings15193464" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15193464" target="_blank">10.3390/buildings15193464</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <a href="../../../author/dias_ricardo"><b>Dias</b>&nbsp;Ricardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1026-4523" title="ORCID: 0000-0002-1026-4523" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 19, No. 3464
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> <a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>
-,     <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> <a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> <a href="https://orcid.org/0000-0002-1026-4523" title="ORCID: 0000-0002-1026-4523" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 19, No. 3464
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#buildability`](keyword/buildability)
-    [`#cement`](keyword/cement)
-    [`#lime`](keyword/lime)
-    [`#mortar`](keyword/mortar)
-    [`#optimization`](keyword/optimization)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/lime"><button class="btn">#lime</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Optimisation%20of%203D%20Printable%20Cement-%20and%20Lime-Based%20Mortars%20for%20Built%20Heritage%20Rehabilitation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019175339&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4414523926" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15193464" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15193464?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional printing (3DP) represents a significant innovation in the construction sector, offering substantial benefits in terms of efficiency, customisation, and sustainability. In the context of built heritage rehabilitation, it is capable of accurately reproducing architectural elements, facilitating conservation efforts, while minimising waste and resource consumption. However, in this field, ensuring material compatibility with original structures is essential. This study explores the development and optimisation of lime and cement-based mortars for 3DP applications, focusing on their physical and mechanical performances (on moulded specimens) for use in replicating elements of a renowned Portuguese theatre. Laboratory testing supports the selection of suitable mortar compositions, aiming to balance performance and fidelity to historical construction practices. This research seeks to contribute to explore the potential of 3DP for heritage conservation, promoting innovative, durable, and culturally sensitive restoration strategies.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
       <li><a href="../../../author/dias_duarte_bruno"><b>Dias</b> Bruno</a>, <a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../dias_roch_fari_luca.2023.LwHPf3PM/">Limes with Hydraulic Properties for 3D Printing Mortars</a></li>
       <li><a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dula_sale_luca.2022.MPaSSAoGMCwDWCf3PA/">Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications</a></li>
@@ -96,7 +72,38 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR,
+      author            = "Manuel Jesus and Ricardo Dias and João Teixeira and João M. P. Q. Delgado and Jorge Lino Alves and Bárbara Rangel and Ana Sofia Guimarães",
+      title             = "Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation",
+      doi               = "10.3390/buildings15193464",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "19",
+      pages             = "3464",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Jesus, “Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation”, <i>Buildings</i>, vol. 15, no. 19, p. 3464, 2025, doi: 10.3390/buildings15193464.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jesus, Manuel, Ricardo Dias, João Teixeira, João M. P. Q. Delgado, Jorge Lino Alves, Bárbara Rangel, and Ana Sofia Guimarães. “Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation”. <i>Buildings</i> 15, no. 19 (2025): 3464. https://doi.org/10.3390/buildings15193464.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

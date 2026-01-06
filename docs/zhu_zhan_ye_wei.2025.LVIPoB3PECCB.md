@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Binrong Zhu, Yuhang Zhang, Huzi Ye, Yang Wei, Jinlong Pan, Mingzhong Zhang
+    - footer
+title: Zhu Binrong, Zhang Yuhang, Ye Huzi, Wei Yang, Pan Jinlong, Zhang Mingzhong
 description:
 tags:
  - beam
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140550" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140550</a>
+#Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140550" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140550" target="_blank">10.1016/j.conbuildmat.2025.140550</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4808-0501" title="ORCID: 0009-0008-4808-0501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yuhang"><b>Zhang</b>&nbsp;Yuhang</a></span>, <a href="../../../author/ye_huzi"><b>Ye</b>&nbsp;Huzi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2915-3898" title="ORCID: 0000-0003-2915-3898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wei_yang"><b>Wei</b>&nbsp;Yang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mingzhong"><b>Zhang</b>&nbsp;Mingzhong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 470, No. 140550
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> <a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a> <a href="https://orcid.org/0009-0008-4808-0501" title="ORCID: 0009-0008-4808-0501" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>
-,     <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> <a href="https://orcid.org/0000-0003-2915-3898" title="ORCID: 0000-0003-2915-3898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 470, No. 140550
-
-:aca-blank:{ .lg .middle}
-    [`#beam`](keyword/beam)
-    [`#biomimetics`](keyword/biomimetics)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#low`](keyword/low)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#velocity`](keyword/velocity)
-
-
--------------------------
+<a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/biomimetics"><button class="btn">#biomimetics</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Low-Velocity%20Impact%20Performance%20of%20Biomimetic%203D%20Printed%20Engineered%20Cementitious%20Composites%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219131107&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408108031" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140550" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140550?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printed engineered cementitious composites (ECC) exhibit remarkable ductility and superior crack control that enhances the load-bearing capacity and toughness of 3D printed structures. Optimising the printing paths across various orientations can effectively reduce the anisotropy in mechanical behaviour of 3D printed concrete. To date, a comprehensive study on energy dissipation in 3D printed ECC under low-velocity impact is still lacking. This paper presents a systematic investigation into both cast and 3D printed polyethylene (PE) fibre-reinforced Bouligand ECC beams using three-point bending and low-velocity impact tests. Results show that the extrusion-based 3D concrete printing (3DCP) process, combined with varying pitch angles in the printing path, significantly enhances quasi-static and low-velocity impact bending performance, particularly in terms of peak load and energy absorption. Energy dissipation under low-velocity impacts was quantified using digital image correlation, with the ranking: 3DP-15 > 3DP-90 > 3DP-0 > 3DP-45 > 3DP-30 > Cast. The enhanced energy dissipation capacity of 3D printed ECC beams under low-velocity impact, compared to cast ECC beams, is primarily attributed to improved fibre bridging from the extrusion-based 3DCP process, crack deflection/twisting energy consumption at interfaces, mechanical interlocking, and sliding friction due to the unique rough surface of printed ECC. Additionally, variations in the energy dissipation capacity of 3D printed ECC beams with different pitch angles under low-velocity impacts may result from a competitive hybrid fracture mode, combining crack deflection/twisting and crack bridging along interfaces. These insights contribute to improved multi-directional low-velocity impact resistance in 3D printed ECC and promote broader applications of 3DCP technology in structural engineering.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bong_nema_mech_li.2023.3PESHGCaPFfCoRCB/">3D Printed Engineered, Strain-Hardening Geopolymer Composite as Permanent Formwork for Construction of Reinforced Concrete Beam</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bong_nema_nere_mech.2022.MoF3PSHAACfAC/">Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction</a></li>
@@ -97,10 +72,40 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhu_zhan_ye_wei.2025.LVIPoB3PECCB,
+      author            = "Binrong Zhu and Yuhang Zhang and Huzi Ye and Yang Wei and Jinlong Pan and Mingzhong Zhang",
+      title             = "Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams",
+      doi               = "10.1016/j.conbuildmat.2025.140550",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "470",
+      pages             = "140550",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Zhu, Y. Zhang, H. Ye, Y. Wei, J. Pan and M. Zhang, “Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams”, <i>Construction and Building Materials</i>, vol. 470, p. 140550, 2025, doi: 10.1016/j.conbuildmat.2025.140550.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhu, Binrong, Yuhang Zhang, Huzi Ye, Yang Wei, Jinlong Pan, and Mingzhong Zhang. “Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams”. <i>Construction and Building Materials</i> 470 (2025): 140550. https://doi.org/10.1016/j.conbuildmat.2025.140550.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdullah Khalil, Xiangyu Wang, Kemal Celik
+    - footer
+title: Khalil Abdullah, Wang Xiangyu, Celik Kemal
 description:
 tags:
  - architecture
@@ -13,28 +14,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printable Magnesium Oxide Concrete:<br/>:aca-blank: Towards Sustainable Modern Architecture ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1016/j.addma.2020.101145" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2020.101145</a>
+#3D Printable Magnesium Oxide Concrete&nbsp;([2020-02](date/2020/02))
+<div class="h1-like">Towards Sustainable Modern Architecture</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2020.101145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101145" target="_blank">10.1016/j.addma.2020.101145</a>
 
--------------------------
+<a href="../../../author/khalil_abdullah"><b>Khalil</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7623-0943" title="ORCID: 0000-0001-7623-0943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/celik_kemal"><b>Celik</b>&nbsp;Kemal</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 33
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khalil_abdullah"><b>Khalil</b> Abdullah</a>
-,     <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="https://orcid.org/0000-0001-7623-0943" title="ORCID: 0000-0001-7623-0943" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 33, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#concrete`](keyword/concrete)
-    [`#magnesium`](keyword/magnesium)
-    [`#printability`](keyword/printability)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Magnesium%20Oxide%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85080983719&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3007524365" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2020.101145" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2020.101145?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Reactive magnesium oxide cement (RMC) is gaining increasing attention as a sustainable construction material due to its significantly low carbon footprint during the production as well as the operational phase compared to the conventional Portland cement. Whereas several studies have demonstrated the potential of RMC as a suitable and environment-friendly construction material, this study reports that RMC can be shaped into complex structures via three-dimensional (3D) printing technology. By adding suitable additives and only 3 wt. % of caustic magnesium oxide to the commercially available RMC, appropriate rheology and buildability were achieved that enabled smooth 3D printing of complex structures with precise shape retention. Moreover, the 3D printed RMC exhibited higher densification and nearly twofold the compressive strength as compared to its cast counterpart. Therefore, this work demonstrates the potential of RMC as a 3D printable construction material for sustainable and modern architecture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "11 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_zhu"><b>Ding</b> Zhu</a>, <a href="../../../author/wang_xiaodong"><b>Wang</b> Xiaodong</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/zou_x-w_patrick"><b>Zou</b> Patrick</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../ding_wang_sanj_zou.2018.AFSoHISCf3P/">A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a></li>
@@ -72,8 +55,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "44 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a>, <a href="../../../author/singh_arshdeep"><b>Singh</b> Arshdeep</a>, <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../ghod_sing_sing_chow.2025.AMSMaSiCaBA/">Additively Manufactured Smart Materials and Structures in Construction and Building Applications</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -119,4 +102,33 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sonat_cem"><b>Sonat</b> Cem</a>, <a href="../../../author/yang_en-hua"><b>Yang</b> En-Hua</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../pand_sona_yang_tan.2021.UoMSHMSHCMi3PA/">Use of Magnesium-Silicate-Hydrate (M-S-H) Cement Mixes in 3D Printing Applications</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/xiong_z"><b>Xiong</b> Z.</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../li_xiao_fang_xion.2021.FoGBFRSCSMf3P/">Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khal_wang_celi.2020.3PMOC,
+      author            = "Abdullah Khalil and Xiangyu Wang and Kemal Celik",
+      title             = "3D Printable Magnesium Oxide Concrete: Towards Sustainable Modern Architecture",
+      doi               = "10.1016/j.addma.2020.101145",
+      year              = "2020",
+      journal           = "Additive Manufacturing",
+      volume            = "33",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Khalil, X. Wang and K. Celik, “3D Printable Magnesium Oxide Concrete: Towards Sustainable Modern Architecture”, <i>Additive Manufacturing</i>, vol. 33, 2020, doi: 10.1016/j.addma.2020.101145.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khalil, Abdullah, Xiangyu Wang, and Kemal Celik. “3D Printable Magnesium Oxide Concrete: Towards Sustainable Modern Architecture”. <i>Additive Manufacturing</i> 33 (2020). https://doi.org/10.1016/j.addma.2020.101145.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

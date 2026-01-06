@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiongfei Liu, Pei Guo, Haonan Wang, Yi Zhang
+    - footer
+title: Liu Xiongfei, Guo Pei, Wang Haonan, Zhang Yi
 description:
 tags:
  - absorbent
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Spray-Based 3D Printed Cementitious Electromagnetic Wave Absorption Materials:<br/>:aca-blank: Optimization with Structures Design ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.140615" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.140615</a>
+#Spray-Based 3D Printed Cementitious Electromagnetic Wave Absorption Materials&nbsp;([2025-03](date/2025/03))
+<div class="h1-like">Optimization with Structures Design</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140615" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140615" target="_blank">10.1016/j.conbuildmat.2025.140615</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/guo_pei"><b>Guo</b>&nbsp;Pei</a></span>, <a href="../../../author/wang_haonan"><b>Wang</b>&nbsp;Haonan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 470, No. 140615
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>
-,     <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>
-,     <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 470, No. 140615
-
-:aca-blank:{ .lg .middle}
-    [`#absorbent`](keyword/absorbent)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#spray`](keyword/spray)
-    [`#structure`](keyword/structure)
-    [`#wave`](keyword/wave)
-
-
--------------------------
+<a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wave"><button class="btn">#wave</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Spray-Based%203D%20Printed%20Cementitious%20Electromagnetic%20Wave%20Absorption%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219067515&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4408125554" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.140615" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.140615?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In light of the advantages of layer-by-layer construction of spray-based 3D (S-3D) printing technology, an integrated design methodology for S-3D printed cementitious electromagnetic wave absorption materials and structures is proposed by adjusting the functional and electromagnetic properties of each layer. The study investigates the effects of structural parameters, i.e., multilayer configurations, absorber gradient, thickness, and surface roughness, on the electromagnetic wave absorption properties (EWAP) of S-3D printed cementitious materials. Experimental results indicate that a matching-loss-reflection multilayer structure can effectively introduce electromagnetic waves deeper into the material for enhanced EWAP. Additionally, optimizing the gradient concentration of magnetite absorbing agent in each functional layer further improves the EWAP of the S-3D printed structure. For the S-3D printed T147 multilayer structure sample, the average reflection loss reaches −9.67 dB, with a peak reflection loss of −13.31 dB and an effective bandwidth of 9.3 GHz below −10 dB. The addition of grooves to the surface significantly enhances the multiple reflection and impedance matching characteristics. Specifically, the incorporation of a 15mm × 15mm grid groove on the S-3D printed T147 sample results in the T147-D15 * 15 sample exhibiting the optimal EWAP, with an average reflection loss of −11.61 dB, a peak reflection loss of −19.72 dB, and an effective bandwidth of 13.8 GHz below −10 dB.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "18 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -90,9 +67,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
       <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_guo_wang_zhan.2025.SB3PCEWAM,
+      author            = "Xiongfei Liu and Pei Guo and Haonan Wang and Yi Zhang",
+      title             = "Spray-Based 3D Printed Cementitious Electromagnetic Wave Absorption Materials: Optimization with Structures Design",
+      doi               = "10.1016/j.conbuildmat.2025.140615",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "470",
+      pages             = "140615",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Liu, P. Guo, H. Wang and Y. Zhang, “Spray-Based 3D Printed Cementitious Electromagnetic Wave Absorption Materials: Optimization with Structures Design”, <i>Construction and Building Materials</i>, vol. 470, p. 140615, 2025, doi: 10.1016/j.conbuildmat.2025.140615.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Xiongfei, Pei Guo, Haonan Wang, and Yi Zhang. “Spray-Based 3D Printed Cementitious Electromagnetic Wave Absorption Materials: Optimization with Structures Design”. <i>Construction and Building Materials</i> 470 (2025): 140615. https://doi.org/10.1016/j.conbuildmat.2025.140615.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #fem
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/lin_chih-chieh"><b>Lin</b> Chih-Chieh</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../li_lin_syu_huan.2025.E3PCMwRPGF/">Enhancing 3D-Printed Cement Mortar with Recycled PCB Glass Fibers:<br/>Printability, Mechanical Strength, and FEM-Based Structural Assessment</a></li>
   <li><a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mukh.2025.3PCF/">3D-Printed Concrete Fracture:<br/>Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</a></li>
   <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rizz_crem_ferr.2024.CtLoFFMi3CP/">Challenging the Limits of Fluid FEM Modelling in 3D Concrete Printing</a></li>

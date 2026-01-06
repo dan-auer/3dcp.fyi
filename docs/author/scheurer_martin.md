@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Scheurer Martin 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/evers_clara"><b>Evers</b> Clara</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ditt_sche_ever_meye.2023.SPoTR3PCE/">Structural Performance of Textile Reinforced 3D Printed Concrete Elements</a></li>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../neef_ditt_sche_grie.2023.UTaIFfAMwC/">Utilizing Textiles as Integrated Formwork for Additive Manufacturing with Concrete</a></li>
   <li><a href="../../../author/nikravan_ata"><b>Nikravan</b> Ata</a>, <a href="../../../author/aydogan_gurabi_olcay"><b>Aydoğan</b> Olcay</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../nikr_aydo_ditt_sche.2023.IoCTFi3PCC/">Implementation of Continuous Textile-Fibers in 3D Printable Cementitious Composite</a></li>

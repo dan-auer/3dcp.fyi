@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Chuanbei Liu, Mengtong Zou, Xuemei Chen, Yongjun Deng, Lihua Zhang, Xu Luo, Laibao Liu
+    - footer
+title: Liu Chuanbei, Zou Mengtong, Chen Xuemei, Deng Yongjun, Zhang Lihua, Luo Xu, Liu Laibao
 description:
 tags:
  - concrete
@@ -19,38 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork:<br/>:aca-blank: Mechanical Properties, Interlayer Interface and Durability ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1016/j.jobe.2025.112544" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.112544</a>
+#Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork&nbsp;([2025-04](date/2025/04))
+<div class="h1-like">Mechanical Properties, Interlayer Interface and Durability</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112544" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112544" target="_blank">10.1016/j.jobe.2025.112544</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-3982-8409" title="ORCID: 0000-0002-3982-8409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chuanbei"><b>Liu</b>&nbsp;Chuanbei</a></span>, <a href="../../../author/zou_mengtong"><b>Zou</b>&nbsp;Mengtong</a></span>, <a href="../../../author/chen_xuemei"><b>Chen</b>&nbsp;Xuemei</a></span>, <a href="../../../author/deng_yongjun"><b>Deng</b>&nbsp;Yongjun</a></span>, <a href="../../../author/zhang_lihua"><b>Zhang</b>&nbsp;Lihua</a></span>, <a href="../../../author/luo_xu"><b>Luo</b>&nbsp;Xu</a></span>, <a href="../../../author/liu_laibao"><b>Liu</b>&nbsp;Laibao</a></span><br>
+Journal Article - Journal of Building Engineering, No. 112544
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a> <a href="https://orcid.org/0000-0002-3982-8409" title="ORCID: 0000-0002-3982-8409" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>
-,     <a href="../../../author/chen_xuemei"><b>Chen</b> Xuemei</a>
-,     <a href="../../../author/deng_yongjun"><b>Deng</b> Yongjun</a>
-,     <a href="../../../author/zhang_lihua"><b>Zhang</b> Lihua</a>
-,     <a href="../../../author/luo_xu"><b>Luo</b> Xu</a>
-,     <a href="../../../author/liu_laibao"><b>Liu</b> Laibao</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 112544
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#feasibility`](keyword/feasibility)
-    [`#formwork`](keyword/formwork)
-    [`#interface`](keyword/interface)
-    [`#interlayer`](keyword/interlayer)
-    [`#mechanics`](keyword/mechanics)
-    [`#permanent`](keyword/permanent)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rubber`](keyword/rubber)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Study%20of%203D-Printed%20Rubberized%20Concrete%20as%20a%20Permanent%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001926984&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4409203539" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.112544" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.112544?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study proposes 3D-printed rubberized concrete (3DPRC) as an innovative permanent formwork solution that integrates recycled rubber aggregates (RA) with 3D concrete printing (3DCP) technology to resolve interfacial bonding and durability limitations. A systematic evaluation of RA dosage (0-15%), particle size (30-70 mesh), and surface treatments (water-soaking, cement coating, and heat treatment) demonstrated that 5% unmodified 50-mesh RA optimizes interlayer adhesion, yielding a compressive strength of 49.78 MPa, flexural strength of 10.59 MPa, exceptional freeze-thaw resistance (>600 cycles), and low chloride ion permeability (diffusion coefficient of 6.99×10-12 m2/s). The absorption-desorption process of RA reduces surface water films on printed filaments and facilitates internal curing at interfaces, suppressing elongated pore formation and refining pore geometry. These synergistic effects enhance interfacial bond strength while mitigating mechanical anisotropy, thereby validating 3DPRC’s suitability as a high-performance permanent formwork system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "55 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
@@ -132,9 +105,38 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_zou_chen_deng.2025.FSo3PRCaaPF,
+      author            = "Chuanbei Liu and Mengtong Zou and Xuemei Chen and Yongjun Deng and Lihua Zhang and Xu Luo and Laibao Liu",
+      title             = "Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork: Mechanical Properties, Interlayer Interface and Durability",
+      doi               = "10.1016/j.jobe.2025.112544",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "112544",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Liu, “Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork: Mechanical Properties, Interlayer Interface and Durability”, <i>Journal of Building Engineering</i>, p. 112544, 2025, doi: 10.1016/j.jobe.2025.112544.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Chuanbei, Mengtong Zou, Xuemei Chen, Yongjun Deng, Lihua Zhang, Xu Luo, and Laibao Liu. “Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork: Mechanical Properties, Interlayer Interface and Durability”. <i>Journal of Building Engineering</i>, 2025, 112544. https://doi.org/10.1016/j.jobe.2025.112544.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

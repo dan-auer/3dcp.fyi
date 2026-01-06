@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bakbergen Temirzakuly, Dias Nurgaliuly, J. Kim, Essam Shehab, Md. Ali
+    - footer
+title: Temirzakuly Bakbergen, Nurgaliuly Dias, Kim J., Shehab Essam, Ali Md.
 description:
 tags:
  - ash
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.70093) Development of Cost-Effective Geopolymer Mortars from Low-Grade Metakaolin and Bottom Ash for 3D Construction Printing ([2025-04](date/2025/04))
-<a href="https://doi.org/10.1002/suco.70093" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.70093</a>
+#Development of Cost-Effective Geopolymer Mortars from Low-Grade Metakaolin and Bottom Ash for 3D Construction Printing ([2025-04](date/2025/04))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.70093) <a href="https://doi.org/10.1002/suco.70093" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70093" target="_blank">10.1002/suco.70093</a>
 
--------------------------
+<a href="../../../author/temirzakuly_bakbergen"><b>Temirzakuly</b>&nbsp;Bakbergen</a></span>, <a href="../../../author/nurgaliuly_dias"><b>Nurgaliuly</b>&nbsp;Dias</a></span>, <a href="../../../author/kim_r_j"><b>Kim</b>&nbsp;J.</a></span>, <a href="../../../author/shehab_essam"><b>Shehab</b>&nbsp;Essam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_hazrat_md"><b>Ali</b>&nbsp;Md.</a></span><br>
+Journal Article - Structural Concrete
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/temirzakuly_bakbergen"><b>Temirzakuly</b> Bakbergen</a>
-,     <a href="../../../author/nurgaliuly_dias"><b>Nurgaliuly</b> Dias</a>
-,     <a href="../../../author/kim_r_j"><b>Kim</b> J.</a>
-,     <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>
-,     <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Structural Concrete, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#construction`](keyword/construction)
-    [`#cost`](keyword/cost)
-    [`#development`](keyword/development)
-    [`#effect`](keyword/effect)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#grade`](keyword/grade)
-    [`#low`](keyword/low)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Cost-Effective%20Geopolymer%20Mortars%20from%20Low-Grade%20Metakaolin%20and%20Bottom%20Ash%20for%203D%20Construction%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003130374&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410779961" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/suco.70093" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/suco.70093?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As part of the pursuit for more cost-effective and sustainable building materials, geopolymers have been a promising substitute for traditional Portland cement with the capability of lowering both carbon footprint and material cost with high mechanical performance. In this work, we explore an economically feasible geopolymer mortar designed for construction 3D printing by assessing four locally sourced precursors: high-grade metakaolin, low-grade MK, bottom ash (BA), and ground granulated blast-furnace slag. When mixed with BA, experimental results show that calcined low-grade MK provides comparable or superior compressive strength, faster setting, and favorable rheological properties to high-grade MK mixtures at reduced cost. Rheology tests confirm that such mixtures still have good extrudability and buildability for 3D printing, while microstructural investigations (SEM and XRD) show good geopolymer gel formation. Through the utilization of local by-products, the process, as suggested, lowers carbon footprint as well as material cost, hence a promising pathway to sustainable additive manufacturing within the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
@@ -83,7 +58,35 @@ tags:
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{temi_nurg_kim_sheh.2025.DoCEGMfLGMaBAf3CP,
+      author            = "Bakbergen Temirzakuly and Dias Nurgaliuly and J. R. Kim and Essam Shehab and Md. Hazrat Ali",
+      title             = "Development of Cost-Effective Geopolymer Mortars from Low-Grade Metakaolin and Bottom Ash for 3D Construction Printing",
+      doi               = "10.1002/suco.70093",
+      year              = "2025",
+      journal           = "Structural Concrete",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Temirzakuly, D. Nurgaliuly, J. R. Kim, E. Shehab and M. H. Ali, “Development of Cost-Effective Geopolymer Mortars from Low-Grade Metakaolin and Bottom Ash for 3D Construction Printing”, <i>Structural Concrete</i>, 2025, doi: 10.1002/suco.70093.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Temirzakuly, Bakbergen, Dias Nurgaliuly, J. R. Kim, Essam Shehab, and Md. Hazrat Ali. “Development of Cost-Effective Geopolymer Mortars from Low-Grade Metakaolin and Bottom Ash for 3D Construction Printing”. <i>Structural Concrete</i>, 2025. https://doi.org/10.1002/suco.70093.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

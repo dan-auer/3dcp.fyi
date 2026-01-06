@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Straßer Alexander 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/haynack_alexander"><b>Haynack</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../stra_hayn_kran_gehl.2024.AMbtSPI/">Additive Manufacturing by the Selective Paste-Intrusion:<br/>Effect of the Distance of the Print Nozzle to the Particle-Bed on the Print Quality</a></li>
   <li><a href="../../../author/krakovska_ema"><b>Krakovská</b> Ema</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krak_brie_stra_kran.2024.FHLCC/">Functionally Hybridised Lightweight Concrete Components:<br/>Monolithic Building Construction Using Selective Paste-Intrusion</a></li>
   <li><a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/asl_najian_reza"><b>Asl</b> Reza</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../schn_diet_rich_asl.2024.FADMaEAoaSCPBUST/">Fabrication-Aware Design Method and Experimental Assessment of a Segmented Concrete Pedestrian Bridge Using SPI Technology.</a></li>

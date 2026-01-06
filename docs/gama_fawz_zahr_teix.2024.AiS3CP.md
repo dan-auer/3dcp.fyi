@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kumari Gamage, Sabrina Fawzia, Tatheer Zahra, Muge Teixeira, Nor Ramli Sulong
+    - footer
+title: Gamage Kumari, Fawzia Sabrina, Zahra Tatheer, Teixeira Muge, Ramli Sulong Nor
 description:
 tags:
  - advance
@@ -16,33 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/2/494/pdf?version=1707567544) Advancement in Sustainable 3D Concrete Printing:<br/>:aca-blank: A Review on Materials, Challenges, and Current Progress in Australia ([2024-02](date/2024/02))
-<a href="https://doi.org/10.3390/buildings14020494" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14020494</a>
+#Advancement in Sustainable 3D Concrete Printing&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">A Review on Materials, Challenges, and Current Progress in Australia</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/2/494/pdf?version=1707567544) <a href="https://doi.org/10.3390/buildings14020494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14020494" target="_blank">10.3390/buildings14020494</a>
 
--------------------------
+<a href="../../../author/gamage_kumari"><b>Gamage</b>&nbsp;Kumari</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1095-2940" title="ORCID: 0000-0002-1095-2940" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fawzia_sabrina"><b>Fawzia</b>&nbsp;Sabrina</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1930-5704" title="ORCID: 0000-0003-1930-5704" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahra_tatheer"><b>Zahra</b>&nbsp;Tatheer</a></span>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b>&nbsp;Muge</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8209-313X" title="ORCID: 0000-0001-8209-313X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramli-sulong_hafizah_nor"><b>Ramli Sulong</b>&nbsp;Nor</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 2, No. 494
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>
-,     <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a> <a href="https://orcid.org/0000-0002-1095-2940" title="ORCID: 0000-0002-1095-2940" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> <a href="https://orcid.org/0000-0003-1930-5704" title="ORCID: 0000-0003-1930-5704" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a>
-,     <a href="../../../author/ramli-sulong_hafizah_nor"><b>Ramli Sulong</b> Nor</a> <a href="https://orcid.org/0000-0001-8209-313X" title="ORCID: 0000-0001-8209-313X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 2, No. 494
-
-:aca-blank:{ .lg .middle}
-    [`#advance`](keyword/advance)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#progress`](keyword/progress)
-    [`#review`](keyword/review)
-    [`#sustainability`](keyword/sustainability)
-
-
--------------------------
+<a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Advancement%20in%20Sustainable%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185889692&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391752845" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14020494" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14020494?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Three-dimensional concrete printing (3DCP) is a sustainable and green approach for rapid construction with the ability to create complex shapes to preserve the intended aesthetic appearance for an affordable cost. Even after a decade of attempts, there are many limitations and challenges to applying this technology for constructions without borders. The lack of guidelines for mix designs, quality control procedures during extrusion, printing and building phases, compatibility of material with extruder, standard testing, and guidelines to verify suitability of mixture with respect to the application and exposure conditions and limited machine capacity are several areas to be addressed for applications without borders. The development of 3DCP applications as a sustainable and green technology is another challenging task due to high Portland cement consumption in 3DCP. However, reducing the high usage of ordinary Portland cement (OPC) with pozzolanic waste materials replacement and environmentally friendly cement indicates the direction of moving 3DCP into a sustainable pathway. The authors reviewed more than 200 refereed articles published on materials and techniques in 3DCP. Inconsistency in disseminating knowledge in research articles has hindered the creation of a monolithically connected chain of research efforts and findings in accelerating the development and adoption of this technology. This paper summarizes the common approach to developing 3DCP mix designs and identifies the key areas for the future development of materials and techniques and challenges to be addressed for the global adoption of 3DCP. The current progress and challenges in the context of Australia’s construction industry and future trends for the acceptance of 3DCP are also reviewed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "87 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
@@ -156,8 +134,9 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "22 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
       <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
@@ -180,4 +159,35 @@ tags:
       <li><a href="../../../author/priyadarshani_suchi"><b>Priyadarshani</b> Suchi</a>, <a href="../../../author/rao_r_roshan"><b>Rao</b> Roshan</a>, <a href="../../../author/mani_monto"><b>Mani</b> Monto</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../priy_rao_mani.2024.PSiBCPitLD/">Paradigm Shifts in Building Construction Priorities in the Last Decade</a></li>
       <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gama_fawz_zahr_teix.2024.AiS3CP,
+      author            = "Kumari Gamage and Sabrina Fawzia and Tatheer Zahra and Muge Belek Fialho Teixeira and Nor Hafizah Ramli Sulong",
+      title             = "Advancement in Sustainable 3D Concrete Printing: A Review on Materials, Challenges, and Current Progress in Australia",
+      doi               = "10.3390/buildings14020494",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "2",
+      pages             = "494",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Gamage, S. Fawzia, T. Zahra, M. B. F. Teixeira and N. H. R. Sulong, “Advancement in Sustainable 3D Concrete Printing: A Review on Materials, Challenges, and Current Progress in Australia”, <i>Buildings</i>, vol. 14, no. 2, p. 494, 2024, doi: 10.3390/buildings14020494.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gamage, Kumari, Sabrina Fawzia, Tatheer Zahra, Muge Belek Fialho Teixeira, and Nor Hafizah Ramli Sulong. “Advancement in Sustainable 3D Concrete Printing: A Review on Materials, Challenges, and Current Progress in Australia”. <i>Buildings</i> 14, no. 2 (2024): 494. https://doi.org/10.3390/buildings14020494.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #comparison
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/valek_josef"><b>Válek</b> Josef</a>, <a href="../../../author/romanova_dorota"><b>Romanová</b> Dorota</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../vale_roma.2025.3CPSDiCtRPaAS/">3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes</a></li>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
   <li><a href="../../../author/kim_ki-yeol"><b>Kim</b> Ki-Yeol</a>, <a href="../../../author/lim_dong-kyu"><b>Lim</b> Dong-Kyu</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kim_lim_choi.2025.CoPMfVCM/">Comparison of Pumping Mechanism for Various Cementitious Materials</a></li>

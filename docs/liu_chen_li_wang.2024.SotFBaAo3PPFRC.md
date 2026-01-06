@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Bing Liu, Yuwen Chen, Dongdong Li, Yang Wang, Songyuan Geng, Kai Qian
+    - footer
+title: Liu Bing, Chen Yuwen, Li Dongdong, Wang Yang, Geng Songyuan, Qian Kai
 description:
 tags:
  - anisotropy
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.138051" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.138051</a>
+#Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete ([2024-09](date/2024/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138051" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138051" target="_blank">10.1016/j.conbuildmat.2024.138051</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6360-2402" title="ORCID: 0000-0001-6360-2402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_bing"><b>Liu</b>&nbsp;Bing</a></span>, <a href="../../../author/chen_yuwen"><b>Chen</b>&nbsp;Yuwen</a></span>, <a href="../../../author/li_dongdong"><b>Li</b>&nbsp;Dongdong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yang"><b>Wang</b>&nbsp;Yang</a></span>, <a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8905-4384" title="ORCID: 0000-0002-8905-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_kai"><b>Qian</b>&nbsp;Kai</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 447, No. 138051
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_bing"><b>Liu</b> Bing</a> <a href="https://orcid.org/0000-0001-6360-2402" title="ORCID: 0000-0001-6360-2402" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>
-,     <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>
-,     <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> <a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>
-,     <a href="../../../author/qian_kai"><b>Qian</b> Kai</a> <a href="https://orcid.org/0000-0002-8905-4384" title="ORCID: 0000-0002-8905-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 447, No. 138051
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#behavior`](keyword/behavior)
-    [`#concrete`](keyword/concrete)
-    [`#fiber`](keyword/fiber)
-    [`#fracture`](keyword/fracture)
-    [`#print`](keyword/print)
-    [`#pva`](keyword/pva)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Fracture%20Behavior%20and%20Anisotropy%20of%203D%20Printing%20PVA-Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202993914&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402233329" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.138051" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.138051?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The development of 3D-printing concrete is propelling the advancement of intelligent construction. The application of 3D-printing concrete faces challenges such as difficulty in reinforcing with bars and high brittleness. The incorporation of PVA fibers effectively addresses the brittleness issue of 3D-printing concrete. It is essential to study the fracture properties of PVA fiber-reinforced 3D-printing concrete, which is crucial for the safety of concrete structures. Therefore, this paper carried out the three-point bending test on 3D-printing PVA fiberreinforced concrete (PFRC) beams with four different PVA fiber dosage (0 wt%, 0.1 wt%, 0.3 wt%, and 0.5 wt%) to study its fracture performance and fracture anisotropy. And the digital image correlation (DIC) technology was employed to explore the fracture process in the test. The results indicate that brittleness in the X loading direction is more pronounced than that in the Y and Z loading directions. Additionally, the incorporation of PVA fibers significantly enhances the fracture toughness of concrete. The increase in fracture toughness follows the trend Z > Y > C > X across different loading directions. When the fiber dosage is less than 0.3 wt%, the contribution of the fibers to the crack resistance of the 3D printing PFRC is minimal. At the same fiber dosage, fracture energy, initiation toughness, and instability toughness decrease in the order of Z > Y > C > X loading direction and increase with higher fiber dosage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -77,7 +53,6 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>, <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_chen_li_wang.2024.SotFBaAo3PPFRC/">Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/liu_xiaoyan"><b>Liu</b> Xiaoyan</a>, <a href="../../../author/li_guangtao"><b>Li</b> Guangtao</a>, <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_li_geng.2022.SoAo3PPFRCUDaNDTM/">Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods</a></li>
       <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
@@ -91,8 +66,9 @@ tags:
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD/">A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "12 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a>, <a href="../../../author/pu_xianghao"><b>Pu</b> Xianghao</a>, <a href="../../../author/zhang_dongyang"><b>Zhang</b> Dongyang</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cui_pu_zhan_li.2026.SotMPo3PCJYRC/">Study on the Mechanical Properties of 3D-Printed Continuous Jute Yarn-Reinforced Concrete</a></li>
       <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/oh_gyujong"><b>Oh</b> Gyujong</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM/">Effects of the Combined Incorporation of Superabsorbent Polymers and Polyvinyl Alcohol Fibers on Material Properties of 3D Printable Mortar:<br/>Rheology, Shrinkage, and Mechanical Behavior</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/huang_zhangshuo"><b>Huang</b> Zhangshuo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../ding_zhu_huan.2025.ESotSFODoEB3PUHPC/">Experimental Study on the Steel Fiber Orientational Distribution of Extrusion-Based 3D-Printed Ultra High-Performance Concrete</a></li>
@@ -104,6 +80,35 @@ tags:
       <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a></li>
       <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_chen_lan_yang.2025.QEfFPo3PUHPCLiDD/">Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions</a></li>
       <li><a href="../../../author/wang_guihua"><b>Wang</b> Guihua</a>, <a href="../../../author/zhou_jiguo"><b>Zhou</b> Jiguo</a>, <a href="../../../author/liu_haoyun"><b>Liu</b> Haoyun</a>, <a href="../../../author/zhang_jianming"><b>Zhang</b> Jianming</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN/">Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR</a></li>
-      <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>, <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_chen_li_wang.2024.SotFBaAo3PPFRC/">Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_chen_li_wang.2024.SotFBaAo3PPFRC,
+      author            = "Bing Liu and Yuwen Chen and Dongdong Li and Yang Wang and Songyuan Geng and Kai Qian",
+      title             = "Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete",
+      doi               = "10.1016/j.conbuildmat.2024.138051",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "447",
+      pages             = "138051",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Liu, Y. Chen, D. Li, Y. Wang, S. Geng and K. Qian, “Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete”, <i>Construction and Building Materials</i>, vol. 447, p. 138051, 2024, doi: 10.1016/j.conbuildmat.2024.138051.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Bing, Yuwen Chen, Dongdong Li, Yang Wang, Songyuan Geng, and Kai Qian. “Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete”. <i>Construction and Building Materials</i> 447 (2024): 138051. https://doi.org/10.1016/j.conbuildmat.2024.138051.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

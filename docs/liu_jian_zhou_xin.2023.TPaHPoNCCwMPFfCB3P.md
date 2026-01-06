@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Qiang Liu, Quan Jiang, Zhenhua Zhou, Jie Xin, Mojia Huang
+    - footer
+title: Liu Qiang, Jiang Quan, Zhou Zhenhua, Xin Jie, Huang Mojia
 description:
 tags:
  - base
@@ -17,34 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.130594" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.130594</a>
+#The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing ([2023-02](date/2023/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.130594" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.130594" target="_blank">10.1016/j.conbuildmat.2023.130594</a>
 
--------------------------
+<a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6490-2044" title="ORCID: 0000-0001-6490-2044" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_zhenhua"><b>Zhou</b>&nbsp;Zhenhua</a></span>, <a href="../../../author/xin_jie"><b>Xin</b>&nbsp;Jie</a></span>, <a href="../../../author/huang_mojia"><b>Huang</b>&nbsp;Mojia</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 369
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>
-,     <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a> <a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhou_zhenhua"><b>Zhou</b> Zhenhua</a> <a href="https://orcid.org/0000-0001-6490-2044" title="ORCID: 0000-0001-6490-2044" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xin_jie"><b>Xin</b> Jie</a>
-,     <a href="../../../author/huang_mojia"><b>Huang</b> Mojia</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 369, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#carbonation`](keyword/carbonation)
-    [`#cement`](keyword/cement)
-    [`#fiber`](keyword/fiber)
-    [`#hardened`](keyword/hardened)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=The%20Printable%20and%20Hardened%20Properties%20of%20Nano-Calcium%20Carbonate%20with%20Modified%20Polypropylene-Fibers%20for%20Cement-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147545419&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319081577" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.130594" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.130594?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Cement-based 3D printing (3DP) technology shows an extensive prospect in the practical application of engineering. Yet, the 3DP material is one of the main factors restricting its rapid development in civil engineering. This study applies the nano-CaCO3 (NC) with modified polypropylene (PP) fibers to modify the cement-based material, and the printable and hardened properties of the mixture are tested. The results indicate that NC can reduce the pastes’ fluidity and increase the pastes’ yield stress, and significantly enhance its printable and hardened performances. When the NC content is 2 wt% −3 wt% of the binder, the printable and hardened properties of the mixture are the best. In particular, the compressive strength of the 3DP specimens with 3 wt% NT content is the best, which is 34% higher than that of the blank group. Yet, the splitting tensile strength of the 3DP specimens with 2 wt% NT content is the best, and the interlayer-direction tensile strength of each group is smaller than the vertical-direction tensile strength. Interestingly, when the NC content is 2 wt% −3 wt% of the binder, compared with the cast specimens, the printed specimens present superior physical–mechanical properties, which indicates the superiority of 3DP technology. The scanning electron microscope (SEM) observation reveals that NC can improve the adhesion on the surface of modified PP fiber, which is also beneficial to the improvement of the hardened properties of the specimens. Besides, the microstructure analysis shows that NC can refine the pore structure, accelerate the hydration process and reduce the mic-cracks.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "17 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
@@ -88,8 +64,9 @@ tags:
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/shi_mengyuan"><b>Shi</b> Mengyuan</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yang_che_shi.2021.IoCCNPotWaSo3PCMCLP/">Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "14 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
@@ -104,4 +81,33 @@ tags:
       <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pi_lu_yao_li.2024.ARBPAMf3PECCCFD/">A Rheological-Based Printability-Assessment Method for 3D Printing Engineered Cementitious Composites Considering Fiber-Dispersion</a></li>
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_jian_zhou_xin.2023.TPaHPoNCCwMPFfCB3P,
+      author            = "Qiang Liu and Quan Jiang and Zhenhua Zhou and Jie Xin and Mojia Huang",
+      title             = "The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing",
+      doi               = "10.1016/j.conbuildmat.2023.130594",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "369",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Q. Liu, Q. Jiang, Z. Zhou, J. Xin and M. Huang, “The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing”, <i>Construction and Building Materials</i>, vol. 369, 2023, doi: 10.1016/j.conbuildmat.2023.130594.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Qiang, Quan Jiang, Zhenhua Zhou, Jie Xin, and Mojia Huang. “The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing”. <i>Construction and Building Materials</i> 369 (2023). https://doi.org/10.1016/j.conbuildmat.2023.130594.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

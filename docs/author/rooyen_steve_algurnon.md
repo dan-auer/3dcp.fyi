@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 # van Rooyen Algurnon 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
   <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/kearsley_elsabe"><b>Kearsley</b> Elsabe</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cho_rooy_kear_zijl.2022.FSo3PFC/">Foam Stability of 3D Printable Foamed Concrete</a></li>
   <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../krug_cho_best_rooy.2021.NTfITDCPC/">Nano-Technology for Improved Three-Dimensional Concrete Printing Constructability</a></li>

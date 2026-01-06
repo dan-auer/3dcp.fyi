@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Christof Schröfl, Venkatesh Nerella, Viktor Mechtcherine
+    - footer
+title: Schröfl Christof, Nerella Venkatesh, Mechtcherine Viktor
 description:
 tags:
  - capillary
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography ([2018-09](date/2018/09))
-<a href="https://doi.org/10.1007/978-3-319-99519-9_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-319-99519-9_20</a>
+#Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography ([2018-09](date/2018/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_20" target="_blank">10.1007/978-3-319-99519-9_20</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 217-224
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 217-224
-
-:aca-blank:{ .lg .middle}
-    [`#capillary`](keyword/capillary)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-    [`#quantity`](keyword/quantity)
-    [`#visualization`](keyword/visualization)
-    [`#water`](keyword/water)
-
-
--------------------------
+<a href="../../keyword/capillary"><button class="btn">#capillary</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/visualization"><button class="btn">#visualization</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Capillary%20Water%20Intake%20by%203D%20Printed%20Concrete%20Visualised%20and%20Quantified%20by%20Neutron%20Radiography" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052683702&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,22 +36,17 @@ tags:
 <a href="https://inciteful.xyz/p/W2889115338" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-319-99519-9_20" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-319-99519-9_20?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Water uptake into two formulations of 3D-printed concrete via capillary suction was assessed by neutron radiography. The samples varied in their layer-to-layer deposition time intervals (TI) and the use of different binders. TI of two and 13 min were short enough to avoid preferential capillary suction at interlayer bonding areas in the fine-grained printable concretes containing supplementary cementitious materials. An increase in the time interval to 24 h gave rise to quick capillary suction through the layer-to-layer interfaces. However, moisture did not redistribute into the matrix regions from the interfaces. For mixture with Portland cement as sole binder and addition of a superabsorbent polymer (SAP), the short layer-to-layer deposition interval of two minutes resulted in tight interlayer bonds with quasi-null capillary suction. Intervals of 13 and 36 min, however, resulted in partially quick and intense absorption of water and immediate absorption by adjacent SAP particles.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "1 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "57 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/drumond_henrique-cota_pedro"><b>Drumond</b> Pedro</a>, <a href="../../../author/milagres_faria-barros_geysiane"><b>Milagres</b> Geysiane</a>, <a href="../../../author/parassen_renata_paloma"><b>Parassen</b> Paloma</a>, <a href="../../../author/santos_nascimento-procopio_luana"><b>Santos</b> Luana</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../drum_mila_para_sant.2025.AoPDiFTo3PRCB/">Assessment of Printing Direction in Flexural Tests of 3D Printed Reinforced Concrete Beams</a></li>
       <li><a href="../../../author/maralapalle_vedprakash"><b>Maralapalle</b> Vedprakash</a>, <a href="../../../author/kumavat_r_hemraj"><b>Kumavat</b> Hemraj</a>, <a href="../../../author/nadaf_b_maheboobsab"><b>Nadaf</b> Maheboobsab</a>, <a href="../../../author/zende_ahmad_aijaz"><b>Zende</b> Aijaz</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mara_kuma_nada_zend.2025.O3GCfSC/">Optimizing 3D Geopolymer Concrete for Sustainable Construction:<br/>A Review of Material Selection, Printing Methods, and Properties</a></li>
       <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../miri_baaj_pola.2025.3PCB/">3D-Printed Concrete Bridges:<br/>Material, Design, Construction, and Reinforcement</a></li>
@@ -125,4 +105,35 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{schr_nere_mech.2019.CWIb3PCVaQbNR,
+      author            = "Christof Schröfl and Venkatesh Naidu Nerella and Viktor Mechtcherine",
+      title             = "Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography",
+      doi               = "10.1007/978-3-319-99519-9_20",
+      year              = "2019",
+      volume            = "19",
+      pages             = "217--224",
+      booktitle         = "Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018",
+      editor            = "Timothy Paul Wangler and Robert Johann Flatt",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. Schröfl, V. N. Nerella and V. Mechtcherine, “Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography”, in <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>,  2019, vol. 19, pp. 217–224. doi: 10.1007/978-3-319-99519-9_20.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Schröfl, Christof, Venkatesh Naidu Nerella, and Viktor Mechtcherine. “Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography”. In <i>Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2018</i>, edited by Timothy Paul Wangler and Robert Johann Flatt, 19:217–24, 2019. https://doi.org/10.1007/978-3-319-99519-9_20.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

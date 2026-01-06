@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Mohammad Givkashi, Faramarz Moodi, Amir Ramezanianpour
+    - footer
+title: Givkashi Mohammad, Moodi Faramarz, Ramezanianpour Amir
 description:
 tags:
  - concrete
@@ -17,32 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions ([2025-03](date/2025/03))
-<a href="https://doi.org/10.1007/s40999-025-01093-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40999-025-01093-1</a>
+#Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions ([2025-03](date/2025/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40999-025-01093-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40999-025-01093-1" target="_blank">10.1007/s40999-025-01093-1</a>
 
--------------------------
+<a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moodi_faramarz"><b>Moodi</b>&nbsp;Faramarz</a></span>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b>&nbsp;Amir</a></span><br>
+Journal Article - International Journal of Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>
-,     <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - International Journal of Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#condition`](keyword/condition)
-    [`#cure`](keyword/cure)
-    [`#difference`](keyword/difference)
-    [`#investigation`](keyword/investigation)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#shrinkage`](keyword/shrinkage)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigating%20Shrinkage%20and%20Mechanical%20Properties%20of%203D%20Printed%20Concretes%20Under%20Different%20Curing%20Conditions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000719870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,22 +39,17 @@ tags:
 <a href="https://inciteful.xyz/p/W4408316389" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40999-025-01093-1" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40999-025-01093-1?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Controlling the shrinkage of 3D printed concrete (3DPC) has always been challenging. The absence of molds and early exposure to environmental conditions establish a foundation for increased shrinkage. This study examines the effects of various curing methods on shrinkage, mass loss, and the compressive and flexural strength of 3DPC. Also, the impact of short-term curing is considered. The results reveal that water curing, due to its provision of supplementary water for the complete hydration of cement, delivers the most favorable outcomes; however, it is not a practical approach for 3DPC applications. For example, the flexural strength of samples cured in water for 7 days (5.72 MPa) exceeds that of samples cured by alternative methods over 28 days (5.33–5.58 MPa). Conversely, the most practical curing method uses a curing agent, which positively impacts shrinkage reduction and strength improvement. The compressive and flexural strengths of samples cured with this method were 7.8% and 8.1% higher, respectively, than those of unprotected samples at 3 days. The synergistic effect of combining these curing methods with one day of wet curing is also evident in the improved results. A single day of wet curing reduces the mass loss by 2.2% and 0.5% in SA and SS samples, respectively.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../beka_titt_schu.2024.IoCCotSBoTDPCF/">Influence of Curing Conditions on the Shrinkage Behavior of Three-Dimensional Printed Concrete Formwork</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../givk_mood_rame.2024.EoPPotPo3PCCAEA/">Effect of Pumping Process on the Properties of 3D Printed Concrete Containing Air-Entraining-Agent</a></li>
-      <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../givk_mood_rame.2025.ISaMPo3PCUDCC/">Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>
       <li><a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a>, <a href="../../../author/lee_jun_hee"><b>Lee</b> Hee</a>, <a href="../../../author/yeon_heum_jung"><b>Yeon</b> Jung</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../kim_yeon_lee_yeon.2019.DSoSMCMfUi3AC/">Dimensional Stability of SBR-Modified Cementitious Mixtures for Use in 3D Additive Construction</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
@@ -98,11 +75,37 @@ tags:
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
-      <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../givk_mood_rame.2025.ISaMPo3PCUDCC/">Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions</a></li>
-      <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{givk_mood_rame.2025.ISaMPo3PCUDCC,
+      author            = "Mohammad Rasul Givkashi and Faramarz Moodi and Amir Mohammad Ramezanianpour",
+      title             = "Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions",
+      doi               = "10.1007/s40999-025-01093-1",
+      year              = "2025",
+      journal           = "International Journal of Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. R. Givkashi, F. Moodi and A. M. Ramezanianpour, “Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions”, <i>International Journal of Civil Engineering</i>, 2025, doi: 10.1007/s40999-025-01093-1.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Givkashi, Mohammad Rasul, Faramarz Moodi, and Amir Mohammad Ramezanianpour. “Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions”. <i>International Journal of Civil Engineering</i>, 2025. https://doi.org/10.1007/s40999-025-01093-1.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

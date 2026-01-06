@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Vasileios Sergis, Claudiane Ouellet-Plamondon
+    - footer
+title: Sergis Vasileios, Ouellet-Plamondon Claudiane
 description:
 tags:
  - algorithm
@@ -13,27 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Algorithmic Mix-Design for 3D Printing Materials ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1007/978-3-031-34027-7_61" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-34027-7_61</a>
+#Algorithmic Mix-Design for 3D Printing Materials ([2024-02](date/2024/02))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-34027-7_61" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-34027-7_61" target="_blank">10.1007/978-3-031-34027-7_61</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7743-470X" title="ORCID: 0000-0002-7743-470X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sergis_vasileios"><b>Sergis</b>&nbsp;Vasileios</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b>&nbsp;Claudiane</a></span><br>
+Contribution - Proceedings of the Canadian Society of Civil Engineering Annual Conference 2022, pp. 915-922
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a> <a href="https://orcid.org/0000-0002-7743-470X" title="ORCID: 0000-0002-7743-470X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the Canadian Society of Civil Engineering Annual Conference 2022, pp. 915-922
-
-:aca-blank:{ .lg .middle}
-    [`#algorithm`](keyword/algorithm)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#mixing`](keyword/mixing)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Algorithmic%20Mix-Design%20for%203D%20Printing%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185714739&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391546897" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-34027-7_61" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-34027-7_61?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing technology aims to revolutionize the construction sector. Researchers are looking for the optimum materials to use in mix design to control the fresh and final properties of the mix. Those properties are contradictory to each other, and finding the optimal mix design has always been a challenge. Developing an optimization tool that considers trade-offs among a variety of competing objectives can improve the mix design process. In this study, the mortars contained combinations of multiple factors, including the cement type, sand type, water content, and admixtures. Three properties investigated are flowability, buildability, and compressive strength. The buildability was assessed by measuring the shear stress with the direct shear apparatus based on the ASTM D3080. The workability was acquired by measuring the flow spread of the mortar mixes following the ASTM C1437, and the compressive strength following the ASTM C109. A multiobjective Pareto optimization method is used to improve the properties simultaneously. Feedforward neural networks were used to predict the properties of new mixes. The genetic algorithm was used to optimize the network parameters. This approach yields promising capability to improve the competing objectives of the mortar mixes by considerably reducing the time and the number of experiments.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -73,7 +56,38 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{serg_ouel.2024.AMDf3PM,
+      author            = "Vasileios Sergis and Claudiane M. Ouellet-Plamondon",
+      title             = "Algorithmic Mix-Design for 3D Printing Materials",
+      doi               = "10.1007/978-3-031-34027-7_61",
+      year              = "2024",
+      volume            = "359",
+      pages             = "915--922",
+      booktitle         = "Proceedings of the Canadian Society of Civil Engineering Annual Conference 2022",
+      editor            = "Rishi Gupta and Min Sun and Svetlana Brzev and M. Shahria Alam and Kelvin Tsun Wai Ng and Jianbing Li and Ashraf El Damatty and Clark Lim",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">V. Sergis  and C. M. Ouellet-Plamondon, “Algorithmic Mix-Design for 3D Printing Materials”, in <i>Proceedings of the Canadian Society of Civil Engineering Annual Conference 2022</i>,  2024, vol. 359, pp. 915–922. doi: 10.1007/978-3-031-34027-7_61.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sergis, Vasileios, and Claudiane M. Ouellet-Plamondon. “Algorithmic Mix-Design for 3D Printing Materials”. In <i>Proceedings of the Canadian Society of Civil Engineering Annual Conference 2022</i>, edited by Rishi Gupta, Min Sun, Svetlana Brzev, M. Shahria Alam, Kelvin Tsun Wai Ng, Jianbing Li, Ashraf El Damatty, and Clark Lim, 359:915–22, 2024. https://doi.org/10.1007/978-3-031-34027-7_61.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

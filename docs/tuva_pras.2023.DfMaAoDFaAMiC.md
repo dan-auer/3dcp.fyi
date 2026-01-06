@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Wiput Tuvayanond, Lapyote Prasittisopin
+    - footer
+title: Tuvayanond Wiput, Prasittisopin Lapyote
 description:
 tags:
  - additive
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/2/429/pdf?version=1675419528) Design for Manufacture and Assembly of Digital Fabrication and Additive Manufacturing in Construction:<br/>:aca-blank: A Review ([2023-02](date/2023/02))
-<a href="https://doi.org/10.3390/buildings13020429" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13020429</a>
+#Design for Manufacture and Assembly of Digital Fabrication and Additive Manufacturing in Construction&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/2/429/pdf?version=1675419528) <a href="https://doi.org/10.3390/buildings13020429" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13020429" target="_blank">10.3390/buildings13020429</a>
 
--------------------------
+<a href="../../../author/tuvayanond_wiput"><b>Tuvayanond</b>&nbsp;Wiput</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b>&nbsp;Lapyote</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 2
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/tuvayanond_wiput"><b>Tuvayanond</b> Wiput</a>
-,     <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 2, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#assembly`](keyword/assembly)
-    [`#construction`](keyword/construction)
-    [`#design`](keyword/design)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20for%20Manufacture%20and%20Assembly%20of%20Digital%20Fabrication%20and%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149237683&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4319081164" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13020429" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13020429?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Design for manufacture and assembly (DfMA) in the architectural, engineering, and construction (AEC) industry is attracting the attention of designers, practitioners, and construction project stakeholders. Digital fabrication (Dfab) and design for additive manufacturing (DfAM) practices are found in current need of further research and development. The DfMA’s conceptual function is to maximize the process efficiency of Dfab and AM building projects. This work reviewed 171 relevant research articles over the past few decades. The concepts and the fundamentals of DfMA in building and construction were explored. In addition, DfMA procedures for Dfab, DfAM, and AM assembly processes were discussed. Lastly, the current machine learning research on DfMA in construction was also highlighted. As Dfab and DFAM are innovated, practical DFMA techniques begin to develop to a great extent. Large research gaps in the DfMA for Dfab and DfAM can be filled in terms of integrating them with product structural performance, management, studied cases, building information modeling (BIM), and machine learning to increase operational efficiency and sustainable practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
@@ -91,8 +72,8 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a></li>
       <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bajw_flem_sama_bao.2025.So3PT/">Sustainability of 3D Printing Technology:<br/>A Review on Research Trends and Developments</a></li>
@@ -112,6 +93,35 @@ tags:
       <li><a href="../../../author/zivkovic_milijana"><b>Živković</b> Milijana</a>, <a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../zivk_zujo_milo.2023.A3PSCUAI/">Architectural 3D Printed Structures Created Using Artificial Intelligence:<br/>A Review of Techniques and Applications</a></li>
       <li><a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>, <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>, <a href="../../../author/haddaji_badreddine"><b>Haddaji</b> Badreddine</a>, <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arre_fabi_hadd_chat.2023.RoAi3PToCM/">Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>Key Printing Parameters and Properties Characterization</a></li>
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../abba_kora_moll_span.2023.NMoPCDi3CP/">Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing</a></li>
-      <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../sada_pras_pras.2024.3CP/">3D Cement Printing:<br/>DFMA Guideline of Patterned Load-Bearing Walls for Small Residential Units</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{tuva_pras.2023.DfMaAoDFaAMiC,
+      author            = "Wiput Tuvayanond and Lapyote Prasittisopin",
+      title             = "Design for Manufacture and Assembly of Digital Fabrication and Additive Manufacturing in Construction: A Review",
+      doi               = "10.3390/buildings13020429",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "2",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Tuvayanond  and L. Prasittisopin, “Design for Manufacture and Assembly of Digital Fabrication and Additive Manufacturing in Construction: A Review”, <i>Buildings</i>, vol. 13, no. 2, 2023, doi: 10.3390/buildings13020429.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Tuvayanond, Wiput, and Lapyote Prasittisopin. “Design for Manufacture and Assembly of Digital Fabrication and Additive Manufacturing in Construction: A Review”. <i>Buildings</i> 13, no. 2 (2023). https://doi.org/10.3390/buildings13020429.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

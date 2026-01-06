@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nima Aminpour, Ali Memari
+    - footer
+title: Aminpour Nima, Memari Ali
 description:
 tags:
  - 3dcp
@@ -16,30 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical and Experimental Study on Reinforced 3DCP Walls Filled with Lightweight Concrete ([2024-10](date/2024/10))
-<a href="https://doi.org/10.1016/j.jobe.2024.110995" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110995</a>
+#Numerical and Experimental Study on Reinforced 3DCP Walls Filled with Lightweight Concrete ([2024-10](date/2024/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110995" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110995" target="_blank">10.1016/j.jobe.2024.110995</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6717-3510" title="ORCID: 0000-0001-6717-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aminpour_nima"><b>Aminpour</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span><br>
+Journal Article - Journal of Building Engineering, No. 110995
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a> <a href="https://orcid.org/0000-0001-6717-3510" title="ORCID: 0000-0001-6717-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 110995
-
-:aca-blank:{ .lg .middle}
-    [`#3dcp`](keyword/3dcp)
-    [`#concrete`](keyword/concrete)
-    [`#experiment`](keyword/experiment)
-    [`#fill`](keyword/fill)
-    [`#light`](keyword/light)
-    [`#numeric`](keyword/numeric)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20and%20Experimental%20Study%20on%20Reinforced%203DCP%20Walls%20Filled%20with%20Lightweight%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206170852&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403284452" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110995" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110995?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper explores the structural viability of 3DCP as a novel additive manufacturing method in the construction industry, focusing on its integration and standardization challenges due to its emerging nature. With the construction industry's increasing interest in innovative materials and robotic construction, 3DCP's unique characteristics necessitate thorough investigation to understand its potential fully. This study aimed to assess the structural capacity of 3DCP walls, employing flexural tests on samples filled with lightweight concrete containing EPS, and comparing the outcomes with those of traditionally cast concrete. Through a comprehensive approach that combines experimental work with numerical analysis, this study intended to calibrate the material's properties based on small-scale tests to inform the design of larger structures. Macro and micro-scale numerical modeling methods were investigated for the analysis of 3DCP. The findings revealed that the inherent strength of 3DCP significantly depends on the material's composition and quality. Moreover, it was observed that the structural integrity of 3DCP walls was somewhat inferior to that of fully cast counterparts. However, a strong correlation between the numerical simulations and experimental data underscores the value of this research. By calibrating 3DCP's properties from small-scale experiments, the study provides a foundational basis for designing larger structures with enhanced reliability. Both numerical methods demonstrate high accuracy for the analysis of 3DCP and can be adopted for the analysis of larger structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
@@ -98,8 +78,37 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lian_liu_wu.2025.SPo3PRCW/">Seismic Performance of 3D Printed Reinforced Concrete Walls:<br/>Experimental Study and Numerical Simulation</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{amin_mema.2024.NaESoR3WFwLC,
+      author            = "Nima Aminpour and Ali M. Memari",
+      title             = "Numerical and Experimental Study on Reinforced 3DCP Walls Filled with Lightweight Concrete",
+      doi               = "10.1016/j.jobe.2024.110995",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      pages             = "110995",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Aminpour  and A. M. Memari, “Numerical and Experimental Study on Reinforced 3DCP Walls Filled with Lightweight Concrete”, <i>Journal of Building Engineering</i>, p. 110995, 2024, doi: 10.1016/j.jobe.2024.110995.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aminpour, Nima, and Ali M. Memari. “Numerical and Experimental Study on Reinforced 3DCP Walls Filled with Lightweight Concrete”. <i>Journal of Building Engineering</i>, 2024, 110995. https://doi.org/10.1016/j.jobe.2024.110995.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ercan Jenny, Ena Lloret-Fritschi, David Jenny, Eliott Sounigo, Ping-Hsun Tsai, Fabio Gramazio, Matthias Kohler
+    - footer
+title: Jenny Ercan, Lloret-Fritschi Ena, Jenny David, Sounigo Eliott, Tsai Ping-Hsun, Gramazio Fabio, Kohler Matthias
 description:
 tags:
  - adaption
@@ -16,35 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1089/3dp.2020.0355) Robotic Plaster Spraying:<br/>:aca-blank: Crafting Surfaces with Adaptive Thin-Layer Printing ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1089/3dp.2020.0355" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1089/3dp.2020.0355</a>
+#Robotic Plaster Spraying&nbsp;([2022-06](date/2022/06))
+<div class="h1-like">Crafting Surfaces with Adaptive Thin-Layer Printing</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1089/3dp.2020.0355) <a href="https://doi.org/10.1089/3dp.2020.0355" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0355" target="_blank">10.1089/3dp.2020.0355</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6974-9296" title="ORCID: 0000-0001-6974-9296" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jenny_selen_ercan"><b>Jenny</b>&nbsp;Ercan</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <a href="../../../author/jenny_david"><b>Jenny</b>&nbsp;David</a></span>, <a href="../../../author/sounigo_eliott"><b>Sounigo</b>&nbsp;Eliott</a></span>, <a href="../../../author/tsai_ping-hsun"><b>Tsai</b>&nbsp;Ping-Hsun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
+Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 3, pp. 177-188
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> <a href="https://orcid.org/0000-0001-6974-9296" title="ORCID: 0000-0001-6974-9296" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/jenny_david"><b>Jenny</b> David</a>
-,     <a href="../../../author/sounigo_eliott"><b>Sounigo</b> Eliott</a>
-,     <a href="../../../author/tsai_ping-hsun"><b>Tsai</b> Ping-Hsun</a>
-,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 3, pp. 177-188
-
-:aca-blank:{ .lg .middle}
-    [`#adaption`](keyword/adaption)
-    [`#craf`](keyword/craf)
-    [`#layer`](keyword/layer)
-    [`#print`](keyword/print)
-    [`#robot`](keyword/robot)
-    [`#spray`](keyword/spray)
-    [`#surface`](keyword/surface)
-    [`#thin`](keyword/thin)
-
-
--------------------------
+<a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Plaster%20Spraying" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130537542&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,24 +39,20 @@ tags:
 <a href="https://inciteful.xyz/p/W3197417758" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1089/3dp.2020.0355" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1089/3dp.2020.0355?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Embedded in a long tradition of craftsmanship, inside or outside building surfaces, is often treated with plaster, which plays both functional and ornamental roles. Today, plasterwork is predominantly produced through rationalized, time-, and cost-efficient processes, used for standardized building elements. These processes have also gained interest in the construction robotics field, and while such approaches target the direct automation of standardized plasterwork, they estrange themselves from the inherent qualities of this malleable material that are well known from the past. This research investigates the design potentials of robotic plaster spraying, proposing an adaptive, thin-layer vertical printing method for plasterwork that aims to introduce a digital craft through additive manufacturing. The presented work is an explorative study of a digitally controlled process that can be applied to broaden the design possibilities for the surfaces of building structures. It involves the spraying of multiple thin layers of plaster onto a vertical surface to create volumetric formations or patterns, without the use of any formwork or support structures. This article describes the experimental setup and the initial results of the data collection method involving systematic studies with physical testing, allowing to develop means to predict and visualize the complex-to-simulate material behavior, which might eventually enable to design with the plasticity of this material in a digital design tool.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "4 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jenn_llor_gram_kohl.2020.CPtCMRFOS/">Crafting Plaster through Continuous Mobile Robotic Fabrication On-Site</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lu_li_wong_qian.2021.EoPPoMDiSB3CPS3/">Effect of Printing Parameters on Material-Distribution in Spray-Based 3D Concrete Printing (S-3DCP)</a></li>
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/zhao_huanyu"><b>Zhao</b> Huanyu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lu_zhao_li_wong.2023.MFCCABf3PoVS/">MgO/Fluid Catalytic Cracking Ash-Blends for 3D Printing on Vertical Surfaces</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../lu_li_wong_qian.2023.DoaFCMwEGfASC/">Development of a Functional Cementitious Mixture with Expanded Graphite for Automated Spray Construction</a></li>
@@ -84,4 +60,35 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../lu_li_wong_qian.2022.SB3CPwCaPA/">Spray-Based 3D Concrete Printing with Calcium and Polymeric Additives:<br/>A Feasibility Study</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/mitterberger_daniela"><b>Mitterberger</b> Daniela</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../jenn_mitt_llor_vase.2022.ROSATLP/">Robotic On-Site Adaptive Thin-Layer Printing:<br/>Challenges and Workflow for Design and Fabrication of Bespoke Cementitious Plasterwork at Full-Architectural-Scale</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jenn_llor_jenn_soun.2022.RPS,
+      author            = "Ercan Selen Jenny and Ena Lloret-Fritschi and David Jenny and Eliott Sounigo and Ping-Hsun Tsai and Fabio Gramazio and Matthias Daniel Kohler",
+      title             = "Robotic Plaster Spraying: Crafting Surfaces with Adaptive Thin-Layer Printing",
+      doi               = "10.1089/3dp.2020.0355",
+      year              = "2022",
+      journal           = "3D Printing and Additive Manufacturing",
+      volume            = "9",
+      number            = "3",
+      pages             = "177--188",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E. S. Jenny, “Robotic Plaster Spraying: Crafting Surfaces with Adaptive Thin-Layer Printing”, <i>3D Printing and Additive Manufacturing</i>, vol. 9, no. 3, pp. 177–188, 2022, doi: 10.1089/3dp.2020.0355.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jenny, Ercan Selen, Ena Lloret-Fritschi, David Jenny, Eliott Sounigo, Ping-Hsun Tsai, Fabio Gramazio, and Matthias Daniel Kohler. “Robotic Plaster Spraying: Crafting Surfaces with Adaptive Thin-Layer Printing”. <i>3D Printing and Additive Manufacturing</i> 9, no. 3 (2022): 177–88. https://doi.org/10.1089/3dp.2020.0355.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

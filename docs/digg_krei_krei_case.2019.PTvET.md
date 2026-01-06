@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Brandy Diggs-McGee, Eric Kreiger, Megan Kreiger, Michael Case
+    - footer
+title: Diggs-McGee Brandy, Kreiger Eric, Kreiger Megan, Case Michael
 description:
 tags:
  - additive
@@ -17,33 +18,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](None) Print Time vs. Elapsed Time:<br/>:aca-blank: A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete ([2019-04](date/2019/04))
-<a href="https://doi.org/10.1016/j.addma.2019.04.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2019.04.008</a>
+#Print Time vs. Elapsed Time&nbsp;([2019-04](date/2019/04))
+<div class="h1-like">A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.addma.2019.04.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.04.008" target="_blank">10.1016/j.addma.2019.04.008</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2052-0946" title="ORCID: 0000-0003-2052-0946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b>&nbsp;Brandy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span>, <a href="../../../author/case_p_michael"><b>Case</b>&nbsp;Michael</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 28, pp. 205-214
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a> <a href="https://orcid.org/0000-0003-2052-0946" title="ORCID: 0000-0003-2052-0946" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/case_p_michael"><b>Case</b> Michael</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 28, pp. 205-214
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#construction`](keyword/construction)
-    [`#continuous`](keyword/continuous)
-    [`#operation`](keyword/operation)
-    [`#print`](keyword/print)
-    [`#temporary`](keyword/temporary)
-    [`#time`](keyword/time)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temporary"><button class="btn">#temporary</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Print%20Time%20vs.%20Elapsed%20Time" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85065535233&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2938823640" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2019.04.008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2019.04.008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In additive construction, ambitious goals to fabricate a concrete building in less than 24 h are attempted. In the field, this goal relies on a metric of print time to make this conclusion, which excludes rest time and delays. The task to complete a building in 24 h was put to the test with the first attempt at a fully continuous print of a structurally reinforced additively constructed concrete (ACC) building. A time series analysis was performed on the events during the construction of a 512 ft2 (16 ft x 32 ft x 9.25 ft) building to explore the effect of delays on the completion time. This analysis included a study of the variation in comprehensive layer print times, expected trends and forecasting for what is expected in future prints of similar types. Furthermore, the study included a determination and comparison of print time, elapsed time and construction time, as well as a look at the effect of environmental conditions on the delay events. Upon finishing, the analysis concluded that the 3D printed building was completed in 14-hours of print time, 31.2-hours elapsed time, or a total of 5 days of construction time. This emphasizes that reports on newly 3D printed constructions need to provide a definition of time that includes all possible duration periods to communicate realistic capabilities of this new technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "14 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>
@@ -84,8 +62,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "58 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
@@ -145,4 +123,34 @@ tags:
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{digg_krei_krei_case.2019.PTvET,
+      author            = "Brandy N. Diggs-McGee and Eric L. Kreiger and Megan A. Kreiger and Michael P. Case",
+      title             = "Print Time vs. Elapsed Time: A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete",
+      doi               = "10.1016/j.addma.2019.04.008",
+      year              = "2019",
+      journal           = "Additive Manufacturing",
+      volume            = "28",
+      pages             = "205--214",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. N. Diggs-McGee, E. L. Kreiger, M. A. Kreiger and M. P. Case, “Print Time vs. Elapsed Time: A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete”, <i>Additive Manufacturing</i>, vol. 28, pp. 205–214, 2019, doi: 10.1016/j.addma.2019.04.008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Diggs-McGee, Brandy N., Eric L. Kreiger, Megan A. Kreiger, and Michael P. Case. “Print Time Vs. Elapsed Time: A Temporal Analysis of a Continuous Printing Operation for Additive Constructed Concrete”. <i>Additive Manufacturing</i> 28 (2019): 205–14. https://doi.org/10.1016/j.addma.2019.04.008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

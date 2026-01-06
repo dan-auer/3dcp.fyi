@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Nan Zhang, Jay Sanjayan
+    - footer
+title: Zhang Nan, Sanjayan Jay
 description:
 tags:
  - concrete
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete ([2024-01](date/2024/01))
-<a href="https://doi.org/10.1016/j.jobe.2024.108445" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.108445</a>
+#Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete ([2024-01](date/2024/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108445" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108445" target="_blank">10.1016/j.jobe.2024.108445</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_nan"><b>Zhang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 83, No. 108445
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a> <a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 83, No. 108445
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#foam`](keyword/foam)
-    [`#mixing`](keyword/mixing)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-    [`#quick`](keyword/quick)
-    [`#technology`](keyword/technology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quick"><button class="btn">#quick</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quick%20Nozzle%20Mixing%20Technology%20for%203D%20Printing%20Foam-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181770452&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4390498585" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.108445" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.108445?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Foam concrete has begun to be combined with 3D printing technology considering multiple advantages, including fire resistance, thermal insulation, sound absorption, and environmental friendliness. However, the traditional production and pumping processes could be challenging. This study attempted to simplify the foaming process using the Quick Nozzle Mixing technology (QNM) with Sodium dodecyl sulfate (SDS) as a foaming agent. First, the surface tension of mixing water with varying dosages of SDS was evaluated. Secondly, the effects of mixing methods on the wet density, flowability, foaming efficiency, and compressive strength of concrete with SDS were investigated. Results show that QNM is a feasible approach directly to producting and printing foam concrete with a low wet density of 1500 kg/m3 and printed compressive strength of 3.5 MPa. Regardless of mixing methods, the critical micelle concentration of SDS dominated the development of flowability, wet density and compressive strength. When the SDS dosage was beyond the critical value, these properties notably changed with increasing SDS dosages. Regarding the Quick Mixing Method, the mixing duration regulated the foaming effect of SDS in concrete. The compressive strength decreased with mixing duration; this effect became more pronounced by increasing SDS dosages. Finally, a relationship was found between compressive strength and wet density that held regardless of mixing method and SDS concentration.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -77,8 +58,9 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_sanj.2023.StEQNMi3CP/">Surfactants to Enable Quick Nozzle Mixing in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
       <li><a href="../../../author/disu_oluwatimilehin"><b>Disu</b> Oluwatimilehin</a>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a>, <a href="../../../author/wood_luke"><b>Wood</b> Luke</a>, <a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b> Andreas</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../disu_isma_wood_chry.2025.ESoBo3PCBSUAS/">Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate</a></li>
       <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/ascensao_guilherme"><b>Ascensão</b> Guilherme</a>, <a href="../../../author/fernandes_fabio"><b>Fernandes</b> Fábio</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lori_nova_asce_fern.2025.CFGf3PA/">Chemically Foamed Geopolymers for 3D Printing Applications</a></li>
@@ -89,4 +71,34 @@ tags:
       <li><a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a>, <a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a>, <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../parm_fall_moro_ferr.2024.3PMFFCBC/">3D Printed Multi-Functional Foamed Concrete Building Components:<br/>Material-Properties, Component Design, and 3D Printing Application</a></li>
       <li><a href="../../../author/wei_ying"><b>Wei</b> Ying</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wei_han_yu_chen.2024.PIo3CPfStMLS/">Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhan_sanj.2024.QNMTf3PFC,
+      author            = "Nan Zhang and Jay Gnananandan Sanjayan",
+      title             = "Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete",
+      doi               = "10.1016/j.jobe.2024.108445",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "83",
+      pages             = "108445",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">N. Zhang  and J. G. Sanjayan, “Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete”, <i>Journal of Building Engineering</i>, vol. 83, p. 108445, 2024, doi: 10.1016/j.jobe.2024.108445.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhang, Nan, and Jay Gnananandan Sanjayan. “Quick Nozzle Mixing Technology for 3D Printing Foam-Concrete”. <i>Journal of Building Engineering</i> 83 (2024): 108445. https://doi.org/10.1016/j.jobe.2024.108445.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

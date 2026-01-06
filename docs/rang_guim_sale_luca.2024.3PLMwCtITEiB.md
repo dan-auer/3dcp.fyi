@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Carolina Rangel, Ana Guimarães, Theo Salet, Sandra Lucas
+    - footer
+title: Rangel Carolina, Guimarães Ana, Salet Theo, Lucas Sandra
 description:
 tags:
  - buildability
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2024.136008) 3D Printing Lightweight Mortars with Cork to Improve Thermal Efficiency in Buildings ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2024.136008" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2024.136008</a>
+#3D Printing Lightweight Mortars with Cork to Improve Thermal Efficiency in Buildings ([2024-03](date/2024/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.136008) <a href="https://doi.org/10.1016/j.conbuildmat.2024.136008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136008" target="_blank">10.1016/j.conbuildmat.2024.136008</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-9506-1134" title="ORCID: 0000-0002-9506-1134" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_maciel_carolina"><b>Rangel</b>&nbsp;Carolina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 425, No. 136008
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a> <a href="https://orcid.org/0000-0002-9506-1134" title="ORCID: 0000-0002-9506-1134" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 425, No. 136008
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#efficient`](keyword/efficient)
-    [`#improvement`](keyword/improvement)
-    [`#light`](keyword/light)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#temperature`](keyword/temperature)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Lightweight%20Mortars%20with%20Cork%20to%20Improve%20Thermal%20Efficiency%20in%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189166866&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393333931" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2024.136008" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2024.136008?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing lightweight aggregate concrete potentially allows building components with reduced thickness and lighter structures. However, the effect of lightweight additives in 3D printing compositions, particularly the use of cork, in the fresh and hardened properties of 3DP is still unknown. This study demonstrates that adding increasing amounts of cork (0%, 25%, 50%, 75%, and 100%) in place of fine sand enhances the insulation of printable mortars. Cork mortars positively reduced the required yield stress at the bottom layer in the fresh state due to lighter bulk densities. Attaining lower hardened densities (1363.0–1791.5 Kg/m3), printed mortars with high amounts of cork (50, 67, and 100%) showed fair values of thermal conductivity ranging between 0.40 and 0.96 W/mk, for a value of 1.42 W/mk of the reference. Cork composites presented sufficient mechanical strength, with a compressive strength between 21.1 MPa at 100% cork and 51.1 MPa at 17% cork compared to 58.3 MPa of reference mortar. Printing did not considerably affect strength development or thermal conductivity in printed mortars. The latest showed isotropic behavior in all test directions, while mild anisotropy was found for compressive and tensile strength. Micro and macrostructure analysis revealed that printing reduces macropores in the sample’s core relative to the compaction of lightweight aggregate mortars. When applied on a large scale, these composites can bring printed constructions closer to meeting thermal comfort standards with reduced selfweight.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
@@ -86,8 +65,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
@@ -100,4 +79,34 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/araujo_m-o_olga"><b>Araújo</b> Olga</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA/">Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates</a></li>
       <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rang_sale_luca.2024.AFfCSLCiAM/">A Framework for Crafting Sustainable Lightweight Concrete in Additive Manufacturing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{rang_guim_sale_luca.2024.3PLMwCtITEiB,
+      author            = "Carolina Maciel Rangel and Ana Sofia Guimarães and Theo A. M. Salet and Sandra Simaria de Oliveira Lucas",
+      title             = "3D Printing Lightweight Mortars with Cork to Improve Thermal Efficiency in Buildings",
+      doi               = "10.1016/j.conbuildmat.2024.136008",
+      year              = "2024",
+      journal           = "Construction and Building Materials",
+      volume            = "425",
+      pages             = "136008",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">C. M. Rangel, A. S. Guimarães, T. A. M. Salet and S. S. de Oliveira Lucas, “3D Printing Lightweight Mortars with Cork to Improve Thermal Efficiency in Buildings”, <i>Construction and Building Materials</i>, vol. 425, p. 136008, 2024, doi: 10.1016/j.conbuildmat.2024.136008.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Rangel, Carolina Maciel, Ana Sofia Guimarães, Theo A. M. Salet, and Sandra Simaria de Oliveira Lucas. “3D Printing Lightweight Mortars with Cork to Improve Thermal Efficiency in Buildings”. <i>Construction and Building Materials</i> 425 (2024): 136008. https://doi.org/10.1016/j.conbuildmat.2024.136008.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #industry
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_lomb.2025.ASDWfOSMPaGo3/">A Streamlined Decentralised Workflow for Obtaining Specific Mechanical Performance and Grade of 3DPC:<br/>Towards the Standardisation and Industrialisation of 3DCP</a></li>
   <li><a href="../../../author/couque_pierre"><b>Couque</b> Pierre</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/corvez_dominique"><b>Corvez</b> Dominique</a>, <a href="../../../author/tanant_julien"><b>Tanant</b> Julien</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../couq_carn_corv_tana.2025.3PCAftI/">3D Printed Concrete - Applications for the Industry:<br/>Latest Feedback from France</a></li>
   <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a>, <a href="../../../author/xiong_zhongming"><b>Xiong</b> Zhongming</a>, <a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a>, <a href="../../../author/jia_qiong"><b>Jia</b> Qiong</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_xion_chen_jia.2025.IWi3PC/">Industrial Waste in 3D Printed Concrete:<br/>A Mechanistic Review on Rheological Control and Printability</a></li>

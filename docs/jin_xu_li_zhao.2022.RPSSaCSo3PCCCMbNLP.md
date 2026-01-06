@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yuan Jin, Jiabin Xu, Yali Li, Zhihui Zhao, Mingxu Chen, Lingchao Lu, Laibo Li
+    - footer
+title: Jin Yuan, Xu Jiabin, Li Yali, Zhao Zhihui, Chen Mingxu, Lu Lingchao, Li Laibo
 description:
 tags:
  - cement
@@ -19,38 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment ([2022-06](date/2022/06))
-<a href="https://doi.org/10.1016/j.addma.2022.102965" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102965</a>
+#Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment ([2022-06](date/2022/06))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.102965" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102965" target="_blank">10.1016/j.addma.2022.102965</a>
 
--------------------------
+<a href="../../../author/jin_yuan"><b>Jin</b>&nbsp;Yuan</a></span>, <a href="../../../author/xu_jiabin"><b>Xu</b>&nbsp;Jiabin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6764-4749" title="ORCID: 0000-0001-6764-4749" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yali"><b>Li</b>&nbsp;Yali</a></span>, <a href="../../../author/zhao_zhihui"><b>Zhao</b>&nbsp;Zhihui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span>, <a href="../../../author/li_laibo"><b>Li</b>&nbsp;Laibo</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 57
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>
-,     <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>
-,     <a href="../../../author/li_yali"><b>Li</b> Yali</a> <a href="https://orcid.org/0000-0001-6764-4749" title="ORCID: 0000-0001-6764-4749" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>
-,     <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> <a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> <a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 57, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#color`](keyword/color)
-    [`#composite`](keyword/composite)
-    [`#compression`](keyword/compression)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#rheology`](keyword/rheology)
-    [`#shape`](keyword/shape)
-    [`#stability`](keyword/stability)
-    [`#strength`](keyword/strength)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/color"><button class="btn">#color</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Properties%2C%20Shape%20Stability%20and%20Compressive%20Strength%20of%203D%20Printed%20Colored%20Cement%20Composites%20Modified%20by%20Needle-Like%20Pigment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132232929&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4282961845" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102965" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102965?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The shape stability and colorability of 3D printed colored cement composites (3DPCCCs) are restricting its development in the architectural decoration area. In this study, the needle-like yellow pigment (YP) and sheetlike blue pigment (BP) were investigated as the coloring components in the 3D printed white Portland cementbased materials to examine their impact on rheological properties, shape stability, colorability and compressive strength. Experimental results showed that the addition of YP improved the static yield stress and thixotropy of 3DPCCCs, corresponding to a significant reduction in structure deformation. Compared with the reference sample, the compressive strength of 3DPCCCs with 2% YP was improved by 12.3% to 47.4 MPa and structure deformation was reduced by about 50%. Although addition of BP improved the extrudability of 3DPCCCs, both shape stability and compressive strength were significantly reduced. Finally, in a scaled-up 3D printed pentagram component (length across to opposite point 270 mm) with 2% YP, the paste exhibited excellent extrudability and buildability, and 16 layers stacking was obtained without noticeable deformation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
@@ -109,8 +81,8 @@ tags:
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>, <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../jin_jian_gan_sun.2025.EtPo3PWCMwA/">Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>Evolution of Early-Age Hydration and Rheology</a></li>
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/chen_song-gui"><b>Chen</b> Song-Gui</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wang_qiu_chen_liu.2025.NSfERPaIBiU3CP/">Novel Strategy for Enhancing Rheological Properties and Interlayer Bonding in Underwater 3D Concrete Printing</a></li>
       <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../seo_lee.2024.IoCAoBaDoCfAM/">Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing</a></li>
@@ -123,4 +95,33 @@ tags:
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP,
+      author            = "Yuan Jin and Jiabin Xu and Yali Li and Zhihui Zhao and Mingxu Chen and Lingchao Lu and Laibo Li",
+      title             = "Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment",
+      doi               = "10.1016/j.addma.2022.102965",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "57",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Jin, “Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment”, <i>Additive Manufacturing</i>, vol. 57, 2022, doi: 10.1016/j.addma.2022.102965.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jin, Yuan, Jiabin Xu, Yali Li, Zhihui Zhao, Mingxu Chen, Lingchao Lu, and Laibo Li. “Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment”. <i>Additive Manufacturing</i> 57 (2022). https://doi.org/10.1016/j.addma.2022.102965.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

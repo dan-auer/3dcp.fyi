@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Albert Fuente, Ana Blanco, Eduardo Galeote, Sergio Cavalaro
+    - footer
+title: Fuente Albert, Blanco Ana, Galeote Eduardo, Cavalaro Sergio
 description:
 tags:
  - base
@@ -21,37 +22,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconres.2022.106801) Structural Fiber-Reinforced Cement-Based Composite Designed for Particle-Bed 3D Printing Systems:<br/>:aca-blank: Case Study Parque De Castilla Footbridge in Madrid ([2022-04](date/2022/04))
-<a href="https://doi.org/10.1016/j.cemconres.2022.106801" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2022.106801</a>
+#Structural Fiber-Reinforced Cement-Based Composite Designed for Particle-Bed 3D Printing Systems&nbsp;([2022-04](date/2022/04))
+<div class="h1-like">Case Study Parque De Castilla Footbridge in Madrid</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2022.106801) <a href="https://doi.org/10.1016/j.cemconres.2022.106801" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106801" target="_blank">10.1016/j.cemconres.2022.106801</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fuente_albert"><b>de la&nbsp;Fuente</b>&nbsp;Albert</a></span>, <a href="../../../author/blanco_ana"><b>Blanco</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8370-4043" title="ORCID: 0000-0001-8370-4043" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/galeote_eduardo"><b>Galeote</b>&nbsp;Eduardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalaro_sergio"><b>Cavalaro</b>&nbsp;Sergio</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 157
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/fuente_albert"><b>de la Fuente</b> Albert</a> <a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/blanco_ana"><b>Blanco</b> Ana</a>
-,     <a href="../../../author/galeote_eduardo"><b>Galeote</b> Eduardo</a> <a href="https://orcid.org/0000-0001-8370-4043" title="ORCID: 0000-0001-8370-4043" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> <a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 157, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#bed`](keyword/bed)
-    [`#bridge`](keyword/bridge)
-    [`#case`](keyword/case)
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#design`](keyword/design)
-    [`#fiber`](keyword/fiber)
-    [`#particle`](keyword/particle)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#structure`](keyword/structure)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Fiber-Reinforced%20Cement-Based%20Composite%20Designed%20for%20Particle-Bed%203D%20Printing%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127782987&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -66,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4223578894" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2022.106801" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2022.106801?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This paper presents the material and process-related research that underpinned the realisation of the Parque de Castilla Footbridge in Madrid in 2016, going from the laboratory to the industrial scale. The fibre-reinforced cement-based composite was first developed and tested in a small-scale particle bed printer focusing on evaluating the influence of the material and process on the mechanical response and density of the printed parts. The solution was then upscaled to a full-size particle bed printer that underwent technical modifications to ensure adequate control and production quality of the footbridge segments. The observations derived from the study provide valuable insights on relevant process-related differences induced by the technology upscaling that can inform future applications of the technology.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
@@ -97,8 +71,8 @@ tags:
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "17 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
@@ -116,6 +90,34 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yu_sanj_du.2022.EoCMCoAB3CP/">Effects of Cement Mortar Characteristics on Aggregate-Bed 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../busw.2022.CDC2S/">CCR Digital Concrete 2022 SI:<br/>Editorial</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{fuen_blan_gale_cava.2022.SFRCBCDfPB3PS,
+      author            = "Albert de la Fuente and Ana Blanco and Eduardo Galeote and Sergio Cavalaro",
+      title             = "Structural Fiber-Reinforced Cement-Based Composite Designed for Particle-Bed 3D Printing Systems: Case Study Parque De Castilla Footbridge in Madrid",
+      doi               = "10.1016/j.cemconres.2022.106801",
+      year              = "2022",
+      journal           = "Cement and Concrete Research",
+      volume            = "157",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. de la Fuente, A. Blanco, E. Galeote and S. Cavalaro, “Structural Fiber-Reinforced Cement-Based Composite Designed for Particle-Bed 3D Printing Systems: Case Study Parque De Castilla Footbridge in Madrid”, <i>Cement and Concrete Research</i>, vol. 157, 2022, doi: 10.1016/j.cemconres.2022.106801.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Fuente, Albert de la, Ana Blanco, Eduardo Galeote, and Sergio Cavalaro. “Structural Fiber-Reinforced Cement-Based Composite Designed for Particle-Bed 3D Printing Systems: Case Study Parque De Castilla Footbridge in Madrid”. <i>Cement and Concrete Research</i> 157 (2022). https://doi.org/10.1016/j.cemconres.2022.106801.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

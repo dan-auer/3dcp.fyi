@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Radomír Mendřický, Petr Keller
+    - footer
+title: Mendřický Radomír, Keller Petr
 description:
 tags:
  - analysis
@@ -15,29 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/1/191/pdf?version=1673884561) Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning ([2023-01](date/2023/01))
-<a href="https://doi.org/10.3390/buildings13010191" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13010191</a>
+#Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning ([2023-01](date/2023/01))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/1/191/pdf?version=1673884561) <a href="https://doi.org/10.3390/buildings13010191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13010191" target="_blank">10.3390/buildings13010191</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0685-7585" title="ORCID: 0000-0003-0685-7585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendricky_radomir"><b>Mendřický</b>&nbsp;Radomír</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8989-8894" title="ORCID: 0000-0002-8989-8894" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keller_petr"><b>Keller</b>&nbsp;Petr</a></span><br>
+Journal Article - Buildings, Vol. 13, Iss. 1
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="https://orcid.org/0000-0003-0685-7585" title="ORCID: 0000-0003-0685-7585" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/keller_petr"><b>Keller</b> Petr</a> <a href="https://orcid.org/0000-0002-8989-8894" title="ORCID: 0000-0002-8989-8894" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 13, Iss. 1, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#analysis`](keyword/analysis)
-    [`#concrete`](keyword/concrete)
-    [`#deformation`](keyword/deformation)
-    [`#extrusion`](keyword/extrusion)
-    [`#mixture`](keyword/mixture)
-    [`#print`](keyword/print)
-    [`#scan`](keyword/scan)
-
-
--------------------------
+<a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20Object-Deformations%20Printed%20by%20Extrusion%20of%20Concrete-Mixtures%20Using%203D-Scanning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146554000&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4315566077" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings13010191" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings13010191?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive technologies in construction and architecture are becoming more and more popular. Due to their advantages, concrete extrusion technologies have great potential for the future. One of the important parameters is the quality and precision achieved in the entire building process. This study investigates the search for a methodology to verify the quality of three-dimensional (3D) printing from concrete mixtures not just as an indication of the resulting accuracy of the process but to monitor the behavior of the printed object in the period immediately after the printing for a period of 28 days. Research has confirmed, among other things, that one of the main causes of dimensional changes over time is shrinkage, which occurs primarily in the length and height directions of the object. The drying behavior of the material also depends on the thickness of the wall, with the thicker parts of the element shrinking more slowly than the thin and peripheral parts. The research also confirmed the hypothesis that digitization using 3D optical scanning could be used for complex three-dimensional analysis of the dimensional accuracy and dimensional stability of concrete elements produced by 3D printing. However, due to the surface structure of printed objects, specific inspection procedures need to be chosen, which are analyzed and described in this paper.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -89,8 +70,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>
       <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mabo_mawa_gerk.2025.GIi3CM/">Geometric Inspection in 3D Concrete Manufacturing:<br/>Comparison of Data Capturing Techniques</a></li>
@@ -103,4 +84,34 @@ tags:
       <li><a href="../../../author/kajzr_daniel"><b>Kajzr</b> Daniel</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a>, <a href="../../../author/cernohorsky_josef"><b>Černohorský</b> Josef</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../kajz_mysl_cern.2023.AOPBRCSf3CP/">An Open PLC-Based Robot-Control-System for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ungu_onut_isop_tara.2023.ANAf3PFRM/">A Novel Approach for 3D Printing Fiber-Reinforced Mortars</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{mend_kell.2023.AoODPbEoCMU3S,
+      author            = "Radomír Mendřický and Petr Keller",
+      title             = "Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning",
+      doi               = "10.3390/buildings13010191",
+      year              = "2023",
+      journal           = "Buildings",
+      volume            = "13",
+      number            = "1",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Mendřický  and P. Keller, “Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning”, <i>Buildings</i>, vol. 13, no. 1, 2023, doi: 10.3390/buildings13010191.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mendřický, Radomír, and Petr Keller. “Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning”. <i>Buildings</i> 13, no. 1 (2023). https://doi.org/10.3390/buildings13010191.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

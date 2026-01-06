@@ -8,7 +8,7 @@ search:
 
 # #proportion
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
   <li><a href="../../../author/sicakova_alena"><b>Sičáková</b> Alena</a>, <a href="../../../author/vercimak_dominik"><b>Verčimák</b> Dominik</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sica_verc.2025.LMwaHPoRFiTo3PP/">Lightweight Mixtures with a High Proportion of Recycled Fillers in Terms of 3D Printing Parameters</a></li>
   <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mato_emir_milh.2025.PSSMPf3P/">Predicting Stabilized Soil Mixture Proportions for 3D Printing:<br/>Preliminary Study Using the Design of Experiments Approach</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Seung Cho, Jacques Kruger, Algurnon Rooyen, Gideon Zijl
+    - footer
+title: Cho Seung, Kruger Jacques, Rooyen Algurnon, Zijl Gideon
 description:
 tags:
  - application
@@ -15,31 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication ([2021-03](date/2021/03))
-<a href="https://doi.org/10.1016/j.compositesb.2021.108800" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.compositesb.2021.108800</a>
+#Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication ([2021-03](date/2021/03))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2021.108800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2021.108800" target="_blank">10.1016/j.compositesb.2021.108800</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rooyen_steve_algurnon"><b>van&nbsp;Rooyen</b>&nbsp;Algurnon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+Journal Article - Composites Part B: Engineering, Vol. 215
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rooyen_steve_algurnon"><b>van Rooyen</b> Algurnon</a> <a href="https://orcid.org/0000-0002-8562-2516" title="ORCID: 0000-0002-8562-2516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Composites Part B: Engineering, Vol. 215, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#buoyancy`](keyword/buoyancy)
-    [`#concrete`](keyword/concrete)
-    [`#digital`](keyword/digital)
-    [`#fabrication`](keyword/fabrication)
-    [`#foam`](keyword/foam)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buoyancy"><button class="btn">#buoyancy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Application%20of%20Buoyant%20Foam-Concrete%20for%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103636630&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3137854880" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.compositesb.2021.108800" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.compositesb.2021.108800?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In the fresh state, conventional lightweight foam concrete (LWFC) has low yield stress which challenges shape retention and buildability in digital construction. Several literatures attempt to address the rheological performance of 3D printable lightweight foam concrete (3DP-LWFC) in essence. This research presents a comprehensive rheological characterisation with controlled shear rate tests and flow curve tests over different foam volume fractions and densities of 700, 1000 and 1400 kg/m3. LWFC is appropriately adapted for extrusion-based 3D printing in the experimental program by incorporating a small amount of nanopowder (replacing 2% of cement mass) for increased yield shear stress, and calcium sulfoaluminate cement replacing 10% of cement mass for improved thixotropy in the fresh state. Accordingly, this raises the yield stress to 347–812 Pa for 700–1400 kg/m3 LWFC compared to static yield stress below 100 Pa of conventional LWFC, improves thixotropic performance in terms of the rate of reflocculation (Rthix 0.21–3.15 Pa/s) and rate of structuration (Athix 0.06–1.02 Pa/s), viscosity (2.5–3.4 Pa⋅s), and elastic shear modulus evolution. Foam volume is found to significantly influence the rheological properties. To analyse the constructability, shape retention and buildability are investigated, resulting in up to 15 deposited filament layers to be reached in a buildability test. Lastly, a practical example is presented whereby a façade element is printed with 3DP-LWFC at a wet density less than 1000 kg/m3, yielding a lightweight element with buoyant characteristics that further expands the application potential of 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
@@ -91,8 +70,8 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "41 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kandagaddala_kumar_revanth"><b>Kandagaddala</b> Revanth</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kand_bodd_nant.2025.NRTPfPCo3PM/">Novel Rheological Test Procedure for Printability Characterization of 3D Printable Mortar</a></li>
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../srin_pand_sura_sith.2025.IoMCaCCoPoS3PM/">Influence of Mixture-Composition and Carbonation-Curing on Properties of Sustainable 3D Printable Mortars</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a>, <a href="../../../author/shi_yifan"><b>Shi</b> Yifan</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_bant_shi_jia.2024.EASMaQSoWLKo3PFCMwSP/">Early-Age Shrinkage Mitigation and Quantitative Study on Water Loss Kinetics of 3D Printed Foam-Concrete Modified with Superabsorbent Polymers</a></li>
@@ -135,4 +114,33 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../krug_cho_best_rooy.2021.NTfITDCPC/">Nano-Technology for Improved Three-Dimensional Concrete Printing Constructability</a></li>
       <li><a href="../../../author/marais_hannelie"><b>Marais</b> Hannelie</a>, <a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../mara_chri_cho_vill.2021.CAoTPo3PCWSwC/">Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cho_krug_rooy_zijl.2021.RaAoBFCfDF,
+      author            = "Seung Cho and Jacques Pienaar Kruger and Algurnon Steve van Rooyen and Gideon Pieter Adriaan Greeff van Zijl",
+      title             = "Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication",
+      doi               = "10.1016/j.compositesb.2021.108800",
+      year              = "2021",
+      journal           = "Composites Part B: Engineering",
+      volume            = "215",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Cho, J. P. Kruger, A. S. van Rooyen and G. P. A. G. van Zijl, “Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication”, <i>Composites Part B: Engineering</i>, vol. 215, 2021, doi: 10.1016/j.compositesb.2021.108800.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cho, Seung, Jacques Pienaar Kruger, Algurnon Steve van Rooyen, and Gideon Pieter Adriaan Greeff van Zijl. “Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication”. <i>Composites Part B: Engineering</i> 215 (2021). https://doi.org/10.1016/j.compositesb.2021.108800.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

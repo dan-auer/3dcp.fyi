@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Lesage Karel 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>
   <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/cizer_ozlem"><b>Cizer</b> Özlem</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/desplentere_frederik"><b>Desplentere</b> Frederik</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../vlie_cize_lesa_desp.2025.RaPAoS3PMIRS/">Rheological- and Pumpability-Analysis of Sustainable 3D Printing Mortars Incorporating Recycled Sand</a></li>

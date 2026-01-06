@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shan Gao, Tianyu Li, Jian Yuan, Tomoya Nishiwaki, Zhenhua Huang
+    - footer
+title: Gao Shan, Li Tianyu, Yuan Jian, Nishiwaki Tomoya, Huang Zhenhua
 description:
 tags:
  - mechanics
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/15/21/11483/pdf?version=1761644718) Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar ([2025-10](date/2025/10))
-<a href="https://doi.org/10.3390/app152111483" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app152111483</a>
+#Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar ([2025-10](date/2025/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/15/21/11483/pdf?version=1761644718) <a href="https://doi.org/10.3390/app152111483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app152111483" target="_blank">10.3390/app152111483</a>
 
--------------------------
+<a href="../../../author/gao_shan"><b>Gao</b>&nbsp;Shan</a></span>, <a href="../../../author/li_tianyu"><b>Li</b>&nbsp;Tianyu</a></span>, <a href="../../../author/yuan_jian"><b>Yuan</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6745-3141" title="ORCID: 0000-0001-6745-3141" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b>&nbsp;Tomoya</a></span>, <a href="../../../author/huang_zhenhua"><b>Huang</b>&nbsp;Zhenhua</a></span><br>
+Journal Article - Applied Sciences, Vol. 15, Iss. 21, No. 11483
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/gao_shan"><b>Gao</b> Shan</a>
-,     <a href="../../../author/li_tianyu"><b>Li</b> Tianyu</a>
-,     <a href="../../../author/yuan_jian"><b>Yuan</b> Jian</a>
-,     <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> <a href="https://orcid.org/0000-0001-6745-3141" title="ORCID: 0000-0001-6745-3141" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/huang_zhenhua"><b>Huang</b> Zhenhua</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 15, Iss. 21, No. 11483
-
-:aca-blank:{ .lg .middle}
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#tailing`](keyword/tailing)
-
-
--------------------------
+<a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D-Printed%20Molybdenum%20Tailings%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021458399&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415610602" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app152111483" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app152111483?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     As an innovative approach to advancing sustainable construction, this study explores the integration of molybdenum tailings as fine aggregate in 3D-printed mortar. The rheological and mechanical properties of the developed mixtures are systematically investigated. Environmental and economic assessments demonstrate that molybdenum tailings sand exhibits negligible global warming potential (GWP), acidification potential (AP), and cumulative energy demand (CED), completely avoiding the environmental impacts associated with natural sand extraction. Economically, full replacement with molybdenum tailings reduces material costs, as the tailings are typically provided without charge by mining enterprises. Furthermore, the template-free 3D printing technology eliminates formwork-related environmental impacts and simplifies construction processes. Experimental results indicate that mortars with cement-to-sand ratios between 1:1 and 1:2 possess favorable printability, with nozzle movement parameters significantly influencing printed dimensions. While increased molybdenum tailings content reduces mechanical strength, the cement-to-sand ratio exerts a more pronounced effect. The compressive strength of mold-printed and free-printed mortar reaches 55–75% and 35–55% of conventional mortar, respectively. Anisotropy analysis reveals minimal directional dependence in flexural strength, whereas compressive strength shows clear anisotropy, with X-direction strength measuring approximately 70% of that in the Y direction. This research provides valuable insights into the sustainable design and performance optimization of 3D-printed mortar using industrial byproducts.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
       <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/liu_xiaoyan"><b>Liu</b> Xiaoyan</a>, <a href="../../../author/li_guangtao"><b>Li</b> Guangtao</a>, <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_li_geng.2022.SoAo3PPFRCUDaNDTM/">Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods</a></li>
       <li><a href="../../../author/ma_liangzhu"><b>Ma</b> Liangzhu</a>, <a href="../../../author/yin_deshun"><b>Yin</b> Deshun</a>, <a href="../../../author/ren_jiangtao"><b>Ren</b> Jiangtao</a>, <a href="../../../author/tian_mingyuan"><b>Tian</b> Mingyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_yin_ren_tian.2024.AETSDRMf3PCMitFS/">An Effective Thixotropic Structural-Dynamics Rheological-Model for 3D Printed Concrete Materials in the Flow-State</a></li>
@@ -70,7 +50,38 @@ tags:
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{gao_li_yuan_nish.2025.MPo3PMTM,
+      author            = "Shan Gao and Tianyu Li and Jian Yuan and Tomoya Nishiwaki and Zhenhua Huang",
+      title             = "Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar",
+      doi               = "10.3390/app152111483",
+      year              = "2025",
+      journal           = "Applied Sciences",
+      volume            = "15",
+      number            = "21",
+      pages             = "11483",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Gao, T. Li, J. Yuan, T. Nishiwaki and Z. Huang, “Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar”, <i>Applied Sciences</i>, vol. 15, no. 21, p. 11483, 2025, doi: 10.3390/app152111483.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Gao, Shan, Tianyu Li, Jian Yuan, Tomoya Nishiwaki, and Zhenhua Huang. “Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar”. <i>Applied Sciences</i> 15, no. 21 (2025): 11483. https://doi.org/10.3390/app152111483.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ömer Mercimek, Oğuzhan Şahin, Alper Çelik, Mehmet Ozkan Ekinci, Eray Teksin, Kaan Bıçakçıoğlu, Sercan Akkaya, Hüseyin İlcan, Hüseyin Ulugöl, Özgür Anıl, Mustafa Şahmaran
+    - footer
+title: Mercimek Ömer, Şahin Oğuzhan, Çelik Alper, Ozkan Ekinci Mehmet, Teksin Eray, Bıçakçıoğlu Kaan, Akkaya Sercan, İlcan Hüseyin, Ulugöl Hüseyin, Anıl Özgür, Şahmaran Mustafa
 description:
 tags:
  - axis
@@ -20,43 +21,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>:aca-blank: Effect of Cold Joint, Axial Load and Load Type ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1016/j.jobe.2025.113788" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2025.113788</a>
+#Structural Performance of Pre-Fabricated 3D Printed Concrete Walls&nbsp;([2025-08](date/2025/08))
+<div class="h1-like">Effect of Cold Joint, Axial Load and Load Type</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113788" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113788" target="_blank">10.1016/j.jobe.2025.113788</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-5367-6077" title="ORCID: 0000-0002-5367-6077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mercimek_omer"><b>Mercimek</b>&nbsp;Ömer</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_oguzhan"><b>Şahin</b>&nbsp;Oğuzhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3816-680X" title="ORCID: 0000-0003-3816-680X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/celik_alper"><b>Çelik</b>&nbsp;Alper</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7199-3703" title="ORCID: 0000-0002-7199-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b>&nbsp;Mehmet</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-2213-8264" title="ORCID: 0009-0006-2213-8264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teksin_eray"><b>Teksin</b>&nbsp;Eray</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-2655-4492" title="ORCID: 0009-0006-2655-4492" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bicakcioglu_kaan"><b>Bıçakçıoğlu</b>&nbsp;Kaan</a></span>, <a href="../../../author/akkaya_tuna_sercan"><b>Akkaya</b>&nbsp;Sercan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ilcan_huseyin"><b>İlcan</b>&nbsp;Hüseyin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0186-3145" title="ORCID: 0000-0002-0186-3145" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ulugol_huseyin"><b>Ulugöl</b>&nbsp;Hüseyin</a></span>, <a href="../../../author/anil_ozgur"><b>Anıl</b>&nbsp;Özgür</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b>&nbsp;Mustafa</a></span><br>
+Journal Article - Journal of Building Engineering, No. 113788
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a> <a href="https://orcid.org/0000-0002-5367-6077" title="ORCID: 0000-0002-5367-6077" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> <a href="https://orcid.org/0000-0003-2104-5761" title="ORCID: 0000-0003-2104-5761" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a> <a href="https://orcid.org/0000-0003-3816-680X" title="ORCID: 0000-0003-3816-680X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> <a href="https://orcid.org/0000-0002-7199-3703" title="ORCID: 0000-0002-7199-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/teksin_eray"><b>Teksin</b> Eray</a> <a href="https://orcid.org/0009-0006-2213-8264" title="ORCID: 0009-0006-2213-8264" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bicakcioglu_kaan"><b>Bıçakçıoğlu</b> Kaan</a> <a href="https://orcid.org/0009-0006-2655-4492" title="ORCID: 0009-0006-2655-4492" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/akkaya_tuna_sercan"><b>Akkaya</b> Sercan</a>
-,     <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-7853-1907" title="ORCID: 0000-0002-7853-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ulugol_huseyin"><b>Ulugöl</b> Hüseyin</a> <a href="https://orcid.org/0000-0002-0186-3145" title="ORCID: 0000-0002-0186-3145" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/anil_ozgur"><b>Anıl</b> Özgür</a>
-,     <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="https://orcid.org/0000-0002-7549-096X" title="ORCID: 0000-0002-7549-096X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, No. 113788
-
-:aca-blank:{ .lg .middle}
-    [`#axis`](keyword/axis)
-    [`#cold`](keyword/cold)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#fabrication`](keyword/fabrication)
-    [`#joint`](keyword/joint)
-    [`#load`](keyword/load)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#type`](keyword/type)
-    [`#wall`](keyword/wall)
-
-
--------------------------
+<a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance%20of%20Pre-Fabricated%203D%20Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014255750&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -71,17 +43,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413364379" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2025.113788" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2025.113788?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In recent years, there has been substantial research on the 3-dimensional printing (3DP) materials, but studies focusing on their structural behavior under lateral monotonic and cyclic loading are relatively limited. This study addresses this gap by performing comprehensive tests on unreinforced 3D-printed walls subjected to lateral loading, offering a novel perspective not previously explored in the literature. The study tested a total of five 3D printed walls, with variables including the presence of cold joints (with or without), different axial load levels (20 and 40 kN), and different loading types (cyclic and monotonic). The experiments involved measuring displacements at various points under applied loading, using digital image correlation (DIC) to capture damage distributions of the 3D-printed walls. Structural performance indices, including load-bearing capacity, rigidity, drift ratio, and energy consumption capacity, were derived from the load-displacement and moment-curvature graphs. The strain and displacement distributions obtained with the DIC method were compared with the experimental damage distributions to assess accuracy and reliability. Finally, the test elements were evaluated according to FEMA 356 standards for post-earthquake usage conditions, providing insights into their performance and safety under such scenarios. The results showed that the presence of cold joints was the most critical parameter. Test specimens without cold joints exhibited a 100% increase in load-bearing capacity and a 207% increase in energy consumption capacity compared to those with cold joints. Increasing the axial load improved the load-bearing capacity of the walls but had no significant effect on their energy dissipation capacity. For the test specimens subjected to monotonic loading, an approximately 10% increase in load-bearing capacity was observed compared to those subjected to cyclic loading.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "32 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../alba_swas_ghaf.2019.TDaDoaESf3PCM/">The Design and Development of an Extrusion-System for 3D Printing Cementitious Materials</a></li>
       <li><a href="../../../author/bici_andjol"><b>Bici</b> Andjol</a>, <a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b> Anna</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bici_yuni.2023.Ao3PTfBC/">Analysis of 3D Printing Techniques for Building Construction:<br/>A Review</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
@@ -115,7 +83,36 @@ tags:
       <li><a href="../../../author/zhang_ying"><b>Zhang</b> Ying</a>, <a href="../../../author/wan_zhiming"><b>Wan</b> Zhiming</a>, <a href="../../../author/wu_lei"><b>Wu</b> Lei</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_wan_wu.2021.SoMPoISPRCWwCC/">Study on Mechanical Properties of In-Situ Printed Reinforced Concrete Wall with Core Column</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{merc_sahi_celi_ozka.2025.SPoPF3PCW,
+      author            = "Ömer Mercimek and Oğuzhan Şahin and Alper Çelik and Mehmet Ozkan Ekinci and Eray Teksin and Kaan Bıçakçıoğlu and Sercan Tuna Akkaya and Hüseyin İlcan and Hüseyin Ulugöl and Özgür Anıl and Mustafa Şahmaran",
+      title             = "Structural Performance of Pre-Fabricated 3D Printed Concrete Walls: Effect of Cold Joint, Axial Load and Load Type",
+      doi               = "10.1016/j.jobe.2025.113788",
+      year              = "2025",
+      journal           = "Journal of Building Engineering",
+      pages             = "113788",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Ö. Mercimek, “Structural Performance of Pre-Fabricated 3D Printed Concrete Walls: Effect of Cold Joint, Axial Load and Load Type”, <i>Journal of Building Engineering</i>, p. 113788, 2025, doi: 10.1016/j.jobe.2025.113788.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mercimek, Ömer, Oğuzhan Şahin, Alper Çelik, Mehmet Ozkan Ekinci, Eray Teksin, Kaan Bıçakçıoğlu, Sercan Tuna Akkaya, et al.. “Structural Performance of Pre-Fabricated 3D Printed Concrete Walls: Effect of Cold Joint, Axial Load and Load Type”. <i>Journal of Building Engineering</i>, 2025, 113788. https://doi.org/10.1016/j.jobe.2025.113788.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

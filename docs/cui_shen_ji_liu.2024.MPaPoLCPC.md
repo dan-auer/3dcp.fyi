@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weijiu Cui, Liang Shen, Dongsheng Ji, Wenliang Liu, Tianheng Wang, Dongshuai Hou, Wenkai Shen, Xinyu Shi, Yaxin Tao
+    - footer
+title: Cui Weijiu, Shen Liang, Ji Dongsheng, Liu Wenliang, Wang Tianheng, Hou Dongshuai, Shen Wenkai, Shi Xinyu, Tao Yaxin
 description:
 tags:
  - carbon
@@ -15,36 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1080/21650373.2024.2374839) Mechanical Performance and Permeability of Low-Carbon Printable Concrete ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1080/21650373.2024.2374839" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/21650373.2024.2374839</a>
+#Mechanical Performance and Permeability of Low-Carbon Printable Concrete ([2024-07](date/2024/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/21650373.2024.2374839) <a href="https://doi.org/10.1080/21650373.2024.2374839" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2374839" target="_blank">10.1080/21650373.2024.2374839</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <a href="../../../author/shen_liang"><b>Shen</b>&nbsp;Liang</a></span>, <a href="../../../author/ji_dongsheng"><b>Ji</b>&nbsp;Dongsheng</a></span>, <a href="../../../author/liu_wenliang"><b>Liu</b>&nbsp;Wenliang</a></span>, <a href="../../../author/wang_tianheng"><b>Wang</b>&nbsp;Tianheng</a></span>, <a href="../../../author/hou_dongshuai"><b>Hou</b>&nbsp;Dongshuai</a></span>, <a href="../../../author/shen_wenkai"><b>Shen</b>&nbsp;Wenkai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
+Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-11
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shen_liang"><b>Shen</b> Liang</a>
-,     <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>
-,     <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>
-,     <a href="../../../author/wang_tianheng"><b>Wang</b> Tianheng</a>
-,     <a href="../../../author/hou_dongshuai"><b>Hou</b> Dongshuai</a>
-,     <a href="../../../author/shen_wenkai"><b>Shen</b> Wenkai</a>
-,     <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> <a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-11
-
-:aca-blank:{ .lg .middle}
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#low`](keyword/low)
-    [`#mechanics`](keyword/mechanics)
-    [`#performance`](keyword/performance)
-    [`#permeability`](keyword/permeability)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20and%20Permeability%20of%20Low-Carbon%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197815954&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400454022" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/21650373.2024.2374839" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/21650373.2024.2374839?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Common issues in 3D printed concrete arise due to its high cement content, processing requirements, and the lack of extensive research into its long-term performance. To this end, this study explores using supplementary cementitious materials from local regions to partially replace cement, aiming at reducing the carbon footprint. Various printable mixtures with different substitution rates are formulated, and corresponding mechanical and permeability tests are conducted. It is revealed that the compressive and flexural strengths of 3D printed concrete with low cement content were lower than the strength of cast concrete due to the construction process of printed concrete; the mechanical strength of 3D printed concrete showed prominent anisotropic characteristics. It was found that, compared with the other two sets of ratios, the higher contents of FA and GGBFS could effectively fill the pores of the printed concrete. Both the capillary water absorption and the content of chloride ions of the low-carbon mixture were significantly lower than that of the pure cement-printed specimens.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "34 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/wang_tianheng"><b>Wang</b> Tianheng</a>, <a href="../../../author/chen_xu"><b>Chen</b> Xu</a>, <a href="../../../author/shen_wenkai"><b>Shen</b> Wenkai</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../cui_wang_chen_shen.2023.So3PCwLCCMBoIRPaMP/">Study of 3D Printed Concrete with Low-Carbon Cementitious Materials Based on Its Rheological Properties and Mechanical Performances</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
@@ -105,11 +79,40 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "4 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/balasubramanian_swathi"><b>Balasubramanian</b> Swathi</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../brad_bala_si_khan.2025.TG3P/">Towards Greener 3D Printing:<br/>A Performance Evaluation of Silica Fume-Modified Low-Carbon Concrete</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/manalo_c_allan"><b>Manalo</b> Allan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P/">Rheological, Mechanical and Fire Resistance Performance of Waste Glass Activated Geopolymers for Concrete 3D Printing</a></li>
       <li><a href="../../../author/tseng_kuo-chang"><b>Tseng</b> Kuo-Chang</a>, <a href="../../../author/chi_maochieh"><b>Chi</b> Maochieh</a>, <a href="../../../author/yeih_weichung"><b>Yeih</b> Weichung</a>, <a href="../../../author/huang_ran"><b>Huang</b> Ran</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tsen_chi_yeih_huan.2025.IoSFAaPCRoPaMPo3PC/">Influence of Slag/Fly Ash as Partial Cement Replacement on Printability and Mechanical Properties of 3D-Printed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_shen_ji_liu.2024.MPaPoLCPC,
+      author            = "Weijiu Cui and Liang Shen and Dongsheng Ji and Wenliang Liu and Tianheng Wang and Dongshuai Hou and Wenkai Shen and Xinyu Shi and Yaxin Tao",
+      title             = "Mechanical Performance and Permeability of Low-Carbon Printable Concrete",
+      doi               = "10.1080/21650373.2024.2374839",
+      year              = "2024",
+      journal           = "Journal of Sustainable Cement-Based Materials",
+      pages             = "1--11",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Cui, “Mechanical Performance and Permeability of Low-Carbon Printable Concrete”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–11, 2024, doi: 10.1080/21650373.2024.2374839.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Weijiu, Liang Shen, Dongsheng Ji, Wenliang Liu, Tianheng Wang, Dongshuai Hou, Wenkai Shen, Xinyu Shi, and Yaxin Tao. “Mechanical Performance and Permeability of Low-Carbon Printable Concrete”. <i>Journal of Sustainable Cement-Based Materials</i>, 2024, 1–11. https://doi.org/10.1080/21650373.2024.2374839.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

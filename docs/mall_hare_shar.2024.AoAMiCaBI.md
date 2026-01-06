@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Balichakra Mallikarjuna, M. Hareeswar, P. Sharath
+    - footer
+title: Mallikarjuna Balichakra, Hareeswar M., Sharath P.
 description:
 tags:
  - additive
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Applications of Additive Manufacturing in Construction and Building Industries ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1007/978-981-99-5949-5_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-981-99-5949-5_12</a>
+#Applications of Additive Manufacturing in Construction and Building Industries ([2023-09](date/2023/09))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-5949-5_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-5949-5_12" target="_blank">10.1007/978-981-99-5949-5_12</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5598-0219" title="ORCID: 0000-0001-5598-0219" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mallikarjuna_balichakra"><b>Mallikarjuna</b>&nbsp;Balichakra</a></span>, <a href="../../../author/hareeswar_n_m"><b>Hareeswar</b>&nbsp;M.</a></span>, <a href="../../../author/sharath_c_p"><b>Sharath</b>&nbsp;P.</a></span><br>
+Contribution - Practical Implementations of Additive Manufacturing Technologies, pp. 251-272
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mallikarjuna_balichakra"><b>Mallikarjuna</b> Balichakra</a> <a href="https://orcid.org/0000-0001-5598-0219" title="ORCID: 0000-0001-5598-0219" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hareeswar_n_m"><b>Hareeswar</b> M.</a>
-,     <a href="../../../author/sharath_c_p"><b>Sharath</b> P.</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Practical Implementations of Additive Manufacturing Technologies, pp. 251-272
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#buildability`](keyword/buildability)
-    [`#construction`](keyword/construction)
-    [`#industry`](keyword/industry)
-    [`#manufacturing`](keyword/manufacturing)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Applications%20of%20Additive%20Manufacturing%20in%20Construction%20and%20Building%20Industries" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174452003&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4387220261" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-981-99-5949-5_12" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-981-99-5949-5_12?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction and building sectors are labor intensive, have a shortage of skilled people, and face low productivity. The automation and digitalization of all relevant steps in construction and building may appear to resolve the issues. Additive manufacturing (AM), also known as three-dimensional (3D) printing, uses computer-aided design data to build complex physical objects by adding material layer-by-layer without using dies, tools, jigs, and fixtures. AM is used in various sectors, including aerospace, biomedical, space, automotive, and others. More recently, AM has gained popularity in construction and building due to its tremendous benefits, such as design freedom, material saving, mass customization, fast prototype, and functional parts. In the construction industry, extrusion-based additive manufacturing processes, commonly known as 3D concrete printing (3DCP) are used. This chapter describes the 3DCP process, process parameters, materials and focuses on the construction applications. The challenges and prospects of 3DCP in construction and building fields are highlighted.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -104,8 +85,38 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../slep_borr.2024.FIMfCLDaQIiAMfC/">Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mall_hare_shar.2024.AoAMiCaBI,
+      author            = "Balichakra Mallikarjuna and M. N. Hareeswar and P. C. Sharath",
+      title             = "Applications of Additive Manufacturing in Construction and Building Industries",
+      doi               = "10.1007/978-981-99-5949-5_12",
+      year              = "2024",
+      pages             = "251--272",
+      booktitle         = "Practical Implementations of Additive Manufacturing Technologies",
+      editor            = "Shashanka Rajendrachari",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">B. Mallikarjuna, M. N. Hareeswar and P. C. Sharath, “Applications of Additive Manufacturing in Construction and Building Industries”, in <i>Practical Implementations of Additive Manufacturing Technologies</i>,  2024, pp. 251–272. doi: 10.1007/978-981-99-5949-5_12.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mallikarjuna, Balichakra, M. N. Hareeswar, and P. C. Sharath. “Applications of Additive Manufacturing in Construction and Building Industries”. In <i>Practical Implementations of Additive Manufacturing Technologies</i>, edited by Shashanka Rajendrachari, 251–72, 2024. https://doi.org/10.1007/978-981-99-5949-5_12.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

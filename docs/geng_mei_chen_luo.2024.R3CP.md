@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Songyuan Geng, Liu Mei, Boyuan Cheng, Qilong Luo, Chen Xiong, Wujian Long
+    - footer
+title: Geng Songyuan, Mei Liu, Cheng Boyuan, Luo Qilong, Xiong Chen, Long Wujian
 description:
 tags:
  - concrete
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Revolutionizing 3D Concrete Printing:<br/>:aca-blank: Leveraging Random-Forest-Model for Precise Printability and Rheological Prediction ([2024-03](date/2024/03))
-<a href="https://doi.org/10.1016/j.jobe.2024.109127" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.109127</a>
+#Revolutionizing 3D Concrete Printing&nbsp;([2024-03](date/2024/03))
+<div class="h1-like">Leveraging Random-Forest-Model for Precise Printability and Rheological Prediction</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109127" target="_blank">10.1016/j.jobe.2024.109127</a>
 
--------------------------
+<a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <a href="../../../author/mei_liu"><b>Mei</b>&nbsp;Liu</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-5534-9419" title="ORCID: 0009-0000-5534-9419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_boyuan"><b>Cheng</b>&nbsp;Boyuan</a></span>, <a href="../../../author/luo_qilong"><b>Luo</b>&nbsp;Qilong</a></span>, <a href="../../../author/xiong_chen"><b>Xiong</b>&nbsp;Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 88, No. 109127
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>
-,     <a href="../../../author/mei_liu"><b>Mei</b> Liu</a>
-,     <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a> <a href="https://orcid.org/0009-0000-5534-9419" title="ORCID: 0009-0000-5534-9419" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/luo_qilong"><b>Luo</b> Qilong</a>
-,     <a href="../../../author/xiong_chen"><b>Xiong</b> Chen</a>
-,     <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> <a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 88, No. 109127
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#lever`](keyword/lever)
-    [`#model`](keyword/model)
-    [`#precision`](keyword/precision)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#random`](keyword/random)
-    [`#revolution`](keyword/revolution)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/precision"><button class="btn">#precision</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/random"><button class="btn">#random</button></a> <a href="../../keyword/revolution"><button class="btn">#revolution</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Revolutionizing%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189109933&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4393339497" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.109127" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.109127?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, a general theoretical framework based on the random forest (RF) algorithm used for predicting the 3D printing concrete rheological properties and printability (3DPCRP) is proposed for the first time, which can avoid the subjective empirical dependence of earlier methods to control the stability of concrete printing. Specifically, the developed prediction models are categorized into two major types, namely rheological properties and printability prediction models. For the rheological properties prediction models, the input parameters include ordinary portland cement (OPC), sulfate aluminate cement (SAC), silica fume (SF), fly ash (FA), sand (S), maximum sand particle size (MAXSS), thixotropic agent (TA), early strength agent (ESA), superplasticizer/binder (SP/B), and water/binder (W/B). The printability prediction models take input parameters such as resting time (RT), DYS, SYS, PV, printing nozzle (PN), extrusion speed (ES), printing speed (PS), printing layer height (LH), and printing layer width (LW). The results of the statistical check index evaluation and shapley additive explanations (SHAP) analysis show that they all have high R2 (0.84–0.99) and low remaining statistical errors. This proves that the models developed in the study can successfully predict 3DPCRP. They can assist researchers in reliably and efficiently predicting the printability of concrete, thereby improving the likelihood of successful printing, print quality, and printing process stability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
@@ -103,12 +78,42 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yu_sanj_du.2022.EoCMCoAB3CP/">Effects of Cement Mortar Characteristics on Aggregate-Bed 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "5 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/albostami_s_asad"><b>Albostami</b> Asad</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/ismael_h_bashar"><b>Ismael</b> Bashar</a>, <a href="../../../author/hamd_kh-s_rwayda"><b>Hamd</b> Rwayda</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../albo_moha_isma_hamd.2025.OSPf3PFRC/">Optimized Strength Predictions for 3D Printed Fiber-Reinforced Concrete:<br/>Machine Learning-Driven Insights</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
       <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC/">A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete</a></li>
       <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
       <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{geng_mei_chen_luo.2024.R3CP,
+      author            = "Songyuan Geng and Liu Mei and Boyuan Cheng and Qilong Luo and Chen Xiong and Wujian Long",
+      title             = "Revolutionizing 3D Concrete Printing: Leveraging Random-Forest-Model for Precise Printability and Rheological Prediction",
+      doi               = "10.1016/j.jobe.2024.109127",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "88",
+      pages             = "109127",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Geng, L. Mei, B. Cheng, Q. Luo, C. Xiong and W. Long, “Revolutionizing 3D Concrete Printing: Leveraging Random-Forest-Model for Precise Printability and Rheological Prediction”, <i>Journal of Building Engineering</i>, vol. 88, p. 109127, 2024, doi: 10.1016/j.jobe.2024.109127.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Geng, Songyuan, Liu Mei, Boyuan Cheng, Qilong Luo, Chen Xiong, and Wujian Long. “Revolutionizing 3D Concrete Printing: Leveraging Random-Forest-Model for Precise Printability and Rheological Prediction”. <i>Journal of Building Engineering</i> 88 (2024): 109127. https://doi.org/10.1016/j.jobe.2024.109127.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

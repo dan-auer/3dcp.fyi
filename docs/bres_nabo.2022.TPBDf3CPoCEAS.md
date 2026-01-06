@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luca Breseghello, Roberto Naboni
+    - footer
+title: Breseghello Luca, Naboni Roberto
 description:
 tags:
  - architecture
@@ -18,32 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2022.102872) Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures ([2022-05](date/2022/05))
-<a href="https://doi.org/10.1016/j.addma.2022.102872" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102872</a>
+#Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures ([2022-05](date/2022/05))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2022.102872) <a href="https://doi.org/10.1016/j.addma.2022.102872" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102872" target="_blank">10.1016/j.addma.2022.102872</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span><br>
+Journal Article - Additive Manufacturing, Vol. 56
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, Vol. 56, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#architecture`](keyword/architecture)
-    [`#base`](keyword/base)
-    [`#carbon`](keyword/carbon)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#efficient`](keyword/efficient)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#tool`](keyword/tool)
-
-
--------------------------
+<a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Tool-Path%20-Based%20Design%20for%203D%20Concrete%20Printing%20of%20Carbon-Efficient%20Architectural%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131042750&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4229034788" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102872" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102872?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The paper presents a data-informed toolpath-based design approach for 3D Concrete Printing (3DCP) for the fabrication of architectural horizontal structures in one continuous printing process. 3DCP has inherent advantages resulting from shaping concrete without formwork and from placing material only where functionally required. However, to date, only a few examples and applications of efficient design solutions through 3DCP exist at the construction scale. Building on the advantages of the technique, the presented work introduces a novel approach for reducing the amount of material employed in structural beams through a high-resolution stress-based optimisation of their material layout in the longitudinal section. The paper presents an innovative workflow for the design and fabrication of 3DCP structures which provides design flexibility by implementing a set of geometric optimisation routines tailored to the concrete extrusion process, and which integrates Finite Element (FE) analysis at multiple stages of the development, for the definition of the printing path, the optimisation of the layer design through speed variation, and the informed placement of the reinforcement bars. The workflow was verified through the design, fabrication and testing of three beam designs which progressively integrates the developed methods. The strength-to-weight ratio of the three designs shows the impact of the proposed workflow, which increases the performance to almost three times between a full beam and the lightest tested beam. The potential for material saving through a design workflow tailored for 3DCP opens to more carbon-efficient and environmental production processes and structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -90,8 +68,8 @@ tags:
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "56 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
@@ -149,4 +127,33 @@ tags:
       <li><a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/orr_j_john"><b>Orr</b> John</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../nuh_oval_orr_shep.2022.DFoRCSUARCS/">Digital Fabrication of Ribbed Concrete Shells Using Automated Robotic Concrete Spraying</a></li>
       <li><a href="../../../author/gislason_styrmir"><b>Gislason</b> Styrmir</a>, <a href="../../../author/bruhn_simon"><b>Bruhn</b> Simon</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sen_burak"><b>Sen</b> Burak</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gisl_bruh_bres_sen.2022.P3PCBSaEP/">Porous 3D Printed Concrete Beams Show an Environmental Promise:<br/>A Cradle-to-Grave Comparative Life Cycle Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bres_nabo.2022.TPBDf3CPoCEAS,
+      author            = "Luca Breseghello and Roberto Naboni",
+      title             = "Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures",
+      doi               = "10.1016/j.addma.2022.102872",
+      year              = "2022",
+      journal           = "Additive Manufacturing",
+      volume            = "56",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Breseghello  and R. Naboni, “Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures”, <i>Additive Manufacturing</i>, vol. 56, 2022, doi: 10.1016/j.addma.2022.102872.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Breseghello, Luca, and Roberto Naboni. “Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures”. <i>Additive Manufacturing</i> 56 (2022). https://doi.org/10.1016/j.addma.2022.102872.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

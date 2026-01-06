@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jiehang Zhou, Longyu Du, Kai Wu, Jianzhong Lai, Xinzhen Zhao
+    - footer
+title: Zhou Jiehang, Du Longyu, Wu Kai, Lai Jianzhong, Zhao Xinzhen
 description:
 tags:
  - concrete
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.cementwapnobeton.pl/pdf-213559-132347?filename=Effective factors and a.pdf) Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete ([2025-11](date/2025/11))
-<a href="https://doi.org/10.32047/cwb.2025.30.2.3" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.32047/cwb.2025.30.2.3</a>
+#Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete ([2025-11](date/2025/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.cementwapnobeton.pl/pdf-213559-132347?filename=Effective factors and a.pdf) <a href="https://doi.org/10.32047/cwb.2025.30.2.3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32047/cwb.2025.30.2.3" target="_blank">10.32047/cwb.2025.30.2.3</a>
 
--------------------------
+<a href="../../../author/zhou_jiehang"><b>Zhou</b>&nbsp;Jiehang</a></span>, <a href="../../../author/du_longyu"><b>Du</b>&nbsp;Longyu</a></span>, <a href="../../../author/wu_kai"><b>Wu</b>&nbsp;Kai</a></span>, <a href="../../../author/lai_jianzhong"><b>Lai</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/zhao_xinzhen"><b>Zhao</b>&nbsp;Xinzhen</a></span><br>
+Journal Article - Cement Wapno Beton, Vol. 30, Iss. 2, pp. 124-143
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>
-,     <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>
-,     <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>
-,     <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>
-,     <a href="../../../author/zhao_xinzhen"><b>Zhao</b> Xinzhen</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement Wapno Beton, Vol. 30, Iss. 2, pp. 124-143
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#extrusion`](keyword/extrusion)
-    [`#factor`](keyword/factor)
-    [`#flow`](keyword/flow)
-    [`#method`](keyword/method)
-    [`#prediction`](keyword/prediction)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effective%20Factors%20and%20a%20Prediction%20Method%20on%20Extrusion%20Flow%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W7106124886" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.32047/cwb.2025.30.2.3" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.32047/cwb.2025.30.2.3?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The size control of 3D printed concrete filament limits application of 3D printed concrete technology. The accuracy of 3D printed concrete will benefit from stability of extrusion flow. Therefore, it is necessary to study the effective factors on extrusion flow. In this paper, the effects from fluidity and mass of loading in material tank on extrusion flow were discussed. The special phenomenon effective on extrusion flow during the printing process was discovered and named as ‘collapse’ and ‘critical loading’. Meanwhile, the liner relationship between fluidity and extrusion flow per unit mass of initial loading in material tank was observed. A feasible method for extrusion flow prediction was proposed based on mathematical results in this study. And some advices were provided according to the experience from this research.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "25 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
@@ -94,7 +71,38 @@ tags:
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{zhou_du_wu_lai.2025.EFaaPMoEFo3PC,
+      author            = "Jiehang Zhou and Longyu Du and Kai Wu and Jianzhong Lai and Xinzhen Zhao",
+      title             = "Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete",
+      doi               = "10.32047/cwb.2025.30.2.3",
+      year              = "2025",
+      journal           = "Cement Wapno Beton",
+      volume            = "30",
+      number            = "2",
+      pages             = "124--143",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Zhou, L. Du, K. Wu, J. Lai and X. Zhao, “Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete”, <i>Cement Wapno Beton</i>, vol. 30, no. 2, pp. 124–143, 2025, doi: 10.32047/cwb.2025.30.2.3.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Zhou, Jiehang, Longyu Du, Kai Wu, Jianzhong Lai, and Xinzhen Zhao. “Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete”. <i>Cement Wapno Beton</i> 30, no. 2 (2025): 124–43. https://doi.org/10.32047/cwb.2025.30.2.3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -8,7 +8,7 @@ search:
 
 # #zero
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
   <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/wissemann_emily"><b>Wissemann</b> Emily</a>, <a href="../../../author/cousin_tim"><b>Cousin</b> Tim</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../curt_pear_wiss_cous.2024.E/">EarthWorks:<br/>Zero-Waste 3D Printed Earthen Formwork for Shape-Optimized, Reinforced Concrete Construction</a></li>
   <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../tay_ting_pand_wong.2022.TNZi3fBC/">Towards Net-Zero in 3DP for Building & Construction</a></li>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Huashan Yang, Weiwei Li, Yujun Che
+    - footer
+title: Yang Huashan, Li Weiwei, Che Yujun
 description:
 tags:
  - cement
@@ -15,30 +16,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fmats.2020.00260/pdf) 3D Printing Cementitious Materials Containing Nano-CaCO3:<br/>:aca-blank: Workability, Strength, and Microstructure ([2020-08](date/2020/08))
-<a href="https://doi.org/10.3389/fmats.2020.00260" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fmats.2020.00260</a>
+#3D Printing Cementitious Materials Containing Nano-CaCO3&nbsp;([2020-08](date/2020/08))
+<div class="h1-like">Workability, Strength, and Microstructure</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fmats.2020.00260/pdf) <a href="https://doi.org/10.3389/fmats.2020.00260" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2020.00260" target="_blank">10.3389/fmats.2020.00260</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span>, <a href="../../../author/li_weiwei"><b>Li</b>&nbsp;Weiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/che_yujun"><b>Che</b>&nbsp;Yujun</a></span><br>
+Journal Article - Frontiers in Materials, Vol. 7
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>
-,     <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers in Materials, Vol. 7, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#containment`](keyword/containment)
-    [`#material`](keyword/material)
-    [`#micro`](keyword/micro)
-    [`#print`](keyword/print)
-    [`#strength`](keyword/strength)
-    [`#workability`](keyword/workability)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Cementitious%20Materials%20Containing%20Nano-CaCO3" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089809773&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3048245106" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3389/fmats.2020.00260" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3389/fmats.2020.00260?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The technology of 3D printing concrete has undergone rapid development in the last few years due to its lower environmental impact than that of conventional concrete. To investigate the fresh and the hardened behavior as well as the microstructure of 3D printing cementitious materials (3DPC) containing nano-CaCO3 (NC), four replacement ratios of NC to binder from 1 to 4% are investigated. 3DPC without NC was used as a control specimen. The workability, such as fluidity, extrudability, printability limit, and deformation under self-weight, and the flexural and compressive strength of 3DPC are tested. The strength development of 3DPC is compared with that of the cast specimens. The hydration products and the microstructure of specimens were also investigated by derivative thermogravimetry (DTG), thermogravimetry analysis (TGA), scanning electron microscopy (SEM), and backscattered electron (BSE) imaging. The results indicate that the fluidity, extrudability, printability limit, and deformation under self-weight demonstrate a decreasing tendency to increase the NC content. This is attributed to the large specific surface area of NC, which increases the mixtures’ consistency. Adding 2% of NC exhibited about 7.2, 39.1, and 22.5% higher compressive strength than that of the control mixture at 7, 28, and 90 days. The enhancement of strength of 3DPC with NC can be ascribed to the filler effects and the seeding effects of NC. Furthermore, NC refines the pore structure and improves the microstructure of 3DPC due to its filler effects and accelerating effects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
@@ -89,8 +70,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b> Mohammed</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../alna.2026.LFAMwCaGM/">Large Format Additive Manufacturing with Cementitious and Geo Materials:<br/>General Considerations, Drivers, and Context</a></li>
       <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
       <li><a href="../../../author/changez_kashif"><b>Changez</b> Kashif</a>, <a href="../../../author/aslam_jawad"><b>Aslam</b> Jawad</a>, <a href="../../../author/bhutta_usman_muhammad"><b>Bhutta</b> Muhammad</a>, <a href="../../../author/butt_ikramullah_shahid"><b>Butt</b> Shahid</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chan_asla_bhut_butt.2026.HASfS3CP/">Hybrid Additive Strategies for Sustainable 3D Concrete Printing:<br/>Balancing Printability, Early-Stage Strength, and Eco-Efficiency</a></li>
@@ -111,4 +92,33 @@ tags:
       <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../guim_delg_luca.2021.AMiCE/">Advanced Manufacturing in Civil Engineering</a></li>
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/shi_mengyuan"><b>Shi</b> Mengyuan</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yang_che_shi.2021.IoCCNPotWaSo3PCMCLP/">Influences of Calcium-Carbonate-Nano-Particles on the Workability and Strength of 3D Printing Cementitious Materials Containing Limestone-Powder</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_li_che.2020.3PCMCNC,
+      author            = "Huashan Yang and Weiwei Li and Yujun Che",
+      title             = "3D Printing Cementitious Materials Containing Nano-CaCO3: Workability, Strength, and Microstructure",
+      doi               = "10.3389/fmats.2020.00260",
+      year              = "2020",
+      journal           = "Frontiers in Materials",
+      volume            = "7",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Yang, W. Li and Y. Che, “3D Printing Cementitious Materials Containing Nano-CaCO3: Workability, Strength, and Microstructure”, <i>Frontiers in Materials</i>, vol. 7, 2020, doi: 10.3389/fmats.2020.00260.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Huashan, Weiwei Li, and Yujun Che. “3D Printing Cementitious Materials Containing Nano-CaCO3: Workability, Strength, and Microstructure”. <i>Frontiers in Materials</i> 7 (2020). https://doi.org/10.3389/fmats.2020.00260.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

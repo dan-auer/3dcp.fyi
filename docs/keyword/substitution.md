@@ -8,7 +8,7 @@ search:
 
 # #substitution
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC/">A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete</a></li>
   <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/sheng_ruiyi"><b>Sheng</b> Ruiyi</a>, <a href="../../../author/wang_qiling"><b>Wang</b> Qiling</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC/">Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete:<br/>Emphasis on Rheological and Microstructural Properties</a></li>
   <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/ge_yutian"><b>Ge</b> Yutian</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../huan_ge_wang_wang.2024.RCBPUiFR3PC/">Recycled Ceramic-Brick-Powder Utilization in Fiber-Reinforced 3D Printing Concrete:<br/>An Eco-Friendly Substitute to Conventional Fine Aggregates</a></li>

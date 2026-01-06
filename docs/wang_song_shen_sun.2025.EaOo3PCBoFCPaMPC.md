@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hailong Wang, Xinlei Song, Wenbin Shen, Xiaoyan Sun, Yaxin Tao, Xiqiang Liu
+    - footer
+title: Wang Hailong, Song Xinlei, Shen Wenbin, Sun Xiaoyan, Tao Yaxin, Liu Xiqiang
 description:
 tags:
  - base
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-openaccess:{ .xgreen } Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics ([2025-10](date/2025/10))
-<a href="https://doi.org/10.1016/j.cscm.2025.e05489" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2025.e05489</a>
+#Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics ([2025-10](date/2025/10))
+:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05489" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05489" target="_blank">10.1016/j.cscm.2025.e05489</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-3887-4466" title="ORCID: 0009-0007-3887-4466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/song_xinlei"><b>Song</b>&nbsp;Xinlei</a></span>, <a href="../../../author/shen_wenbin"><b>Shen</b>&nbsp;Wenbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <a href="../../../author/liu_xiqiang"><b>Liu</b>&nbsp;Xiqiang</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e05489
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a> <a href="https://orcid.org/0009-0007-3887-4466" title="ORCID: 0009-0007-3887-4466" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>
-,     <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liu_xiqiang"><b>Liu</b> Xiqiang</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e05489
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#evaluation`](keyword/evaluation)
-    [`#flow`](keyword/flow)
-    [`#micro`](keyword/micro)
-    [`#optimization`](keyword/optimization)
-    [`#porosity`](keyword/porosity)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20and%20Optimization%20of%203D-Printed%20Concrete%20Based%20on%20Flowability%20Considering%20Printability%20and%20Micro-Pore%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415681118" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2025.e05489" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2025.e05489?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Flowability significantly impacts the performance of 3D printed concrete (3DPC). However, reconciling the conflicting demands of printability (extrudability and buildability) remains a challenge, and a comprehensive framework for quantitative evaluation and optimization remains underexplored. This study addresses the conflicting requirements of extrudability and buildability in 3DPC by developing two novel quantitative indices: the extrudability impact factor (D) and the buildability impact factor (I), both based on flowability measurements. A multi-objective optimization approach integrating the non-dominated sorting genetic algorithm (NSGA-II) and the analytic hierarchy process (AHP)-entropy method was employed to determine the ideal balance between these properties. The ideal solution on the Pareto frontier was further refined using the Technique for Order Preference by Similarity to an Ideal Solution (TOPSIS). Microstructural X-ray computed tomography (XCT) was further used to explore the impact of flowability on pore characteristics, including interlayer and intralayer porosity. Furthermore, a porosity impact factor (P) was proposed to quantify the microstructural characteristics of interlayer and intralayer pores, enabling the establishment of a cubic fitting curve between flowability and P. This curve served to correct the optimal flowability range determined by dual-objective optimization. The results showed that an optimal flowability range (175.8–180.4 mm) minimizes pore-related defects while ensuring high extrusion quality and structural stability. The proposed framework provides a robust, quantitative methodology for optimizing 3DPC material performance, offering theoretical and practical insights for advanced 3D printing applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a>, <a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b> Bilal</a>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b> Khaled</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../alth_zaid_ahme_elha.2024.IoDHSFaNKCoFPo3PUHPFRC/">Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
@@ -103,7 +77,36 @@ tags:
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC,
+      author            = "Hailong Wang and Xinlei Song and Wenbin Shen and Xiaoyan Sun and Yaxin Tao and Xiqiang Liu",
+      title             = "Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics",
+      doi               = "10.1016/j.cscm.2025.e05489",
+      year              = "2025",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e05489",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Wang, X. Song, W. Shen, X. Sun, Y. Tao and X. Liu, “Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics”, <i>Case Studies in Construction Materials</i>, p. e05489, 2025, doi: 10.1016/j.cscm.2025.e05489.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wang, Hailong, Xinlei Song, Wenbin Shen, Xiaoyan Sun, Yaxin Tao, and Xiqiang Liu. “Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics”. <i>Case Studies in Construction Materials</i>, 2025, e05489. https://doi.org/10.1016/j.cscm.2025.e05489.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

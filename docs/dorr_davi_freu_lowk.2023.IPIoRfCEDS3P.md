@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robin Dörrie, Martin David, Niklas Freund, Dirk Lowke, Klaus Dröder, Harald Kloft
+    - footer
+title: Dörrie Robin, David Martin, Freund Niklas, Lowke Dirk, Dröder Klaus, Kloft Harald
 description:
 tags:
  - construction
@@ -15,33 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.tib-op.org/ojs/index.php/ocp/article/download/224/658) In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing ([2023-10](date/2023/10))
-<a href="https://doi.org/10.52825/ocp.v3i.224" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52825/ocp.v3i.224</a>
+#In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing ([2023-10](date/2023/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/224/658) <a href="https://doi.org/10.52825/ocp.v3i.224" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v3i.224" target="_blank">10.52825/ocp.v3i.224</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/david_martin"><b>David</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/david_martin"><b>David</b> Martin</a> <a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#construction`](keyword/construction)
-    [`#element`](keyword/element)
-    [`#integration`](keyword/integration)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=In-Process%20Integration%20of%20Reinforcement%20for%20Construction%20Elements%20During%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,24 +37,19 @@ tags:
 <a href="https://inciteful.xyz/p/W4389784230" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.52825/ocp.v3i.224" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.52825/ocp.v3i.224?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The current state of the art for additive manufacturing often utilises horizontal layer printing approaches for a variety of materials and applications. However, it imposes restrictions on the integration of utilities, mounting fixtures, installations, and reinforcement. Particularly the integration of reinforcement into 3D concrete printing still faces many challenges. It is currently restricted by the nozzle to strand distance, the lack of bond quality, automation, and geometric limitations of the respective 3D concrete printing techniques. The following research presents a case study on additively manufactured concrete construction elements utilising the Shotcrete 3D Printing (SC3DP) technique, focusing on interlayer- and short rebar reinforcement. To demonstrate the potential benefits for an automated reinforcement integration and to uncover further challenges and research questions, a wall segment was produced using a unique combination of Interlayer Reinforcement (ILR) and Short Rebar Insertion (SRI). By incorporating these methods, it was possible to generate three-dimensional continuous reinforcement structures within the wall. The innovative approach showcased takes full advantage of the SC3DP technique, enabling the integration of reinforcement during the printing process itself, thus utilising the geometric freedom, the fast build up rate and the kinetic energy during application. This eliminates the need for premanufactured reinforcement structures, enabling a more efficient and flexible manufacturing process. Furthermore, the discussion includes the potential for surface finishing and attainment of geometrical accuracy through the direct integration of reinforcement. An outlook is given as future construction elements can be produced structurally reinforced without formwork and with a high degree of geometric freedom.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorr_klof.2022.FFCRPPAfRCEUS/">Force-Flow Compliant Robotic Path-Planning Approach for Reinforced Concrete Elements Using SC3DP</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/arre_lidiana"><b>Arrè</b> Lidiana</a>, <a href="../../../author/kienbaum_gabriela"><b>Kienbaum</b> Gabriela</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dorr_lagh_arre_kien.2022.CAMTfACPS/">Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures</a></li>
-      <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../freu_lowk.2022.ILRiS3P/">Inter-Layer Reinforcement in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../freu_mai_lowk.2020.StBPoVISRitS3PP/">Studying the Bond Properties of Vertical Integrated Short Reinforcement in the Shotcrete 3D Printing Process</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/lopez_william"><b>Lopez</b> William</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P/">Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing</a></li>
@@ -89,8 +65,8 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
@@ -103,4 +79,34 @@ tags:
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorr_klof_sawi_freu.2024.ARIiS3PTGSM/">Automated Reinforcement Integration in Shotcrete 3D Printing Through Green State Milling</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{dorr_davi_freu_lowk.2023.IPIoRfCEDS3P,
+      author            = "Robin Dörrie and Martin David and Niklas Freund and Dirk Lowke and Klaus Dröder and Harald Kloft",
+      title             = "In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing",
+      doi               = "10.52825/ocp.v3i.224",
+      year              = "2023",
+      volume            = "3",
+      booktitle         = "Visions and Strategies for Reinforcing Additively Manufactured Constructions",
+      editor            = "Asko Fromm and Norman Peter Hack",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Dörrie, M. David, N. Freund, D. Lowke, K. Dröder and H. Kloft, “In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing”, in <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions</i>,  2023, vol. 3. doi: 10.52825/ocp.v3i.224.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dörrie, Robin, Martin David, Niklas Freund, Dirk Lowke, Klaus Dröder, and Harald Kloft. “In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing”. In <i>Visions and Strategies for Reinforcing Additively Manufactured Constructions</i>, edited by Asko Fromm and Norman Peter Hack, Vol. 3, 2023. https://doi.org/10.52825/ocp.v3i.224.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

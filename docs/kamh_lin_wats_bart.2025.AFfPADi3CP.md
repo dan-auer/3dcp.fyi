@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Abdallah Kamhawi, Yuxin Lin, Christopher Watson, Kira Barton, Mania Meibodi
+    - footer
+title: Kamhawi Abdallah, Lin Yuxin, Watson Christopher, Barton Kira, Meibodi Mania
 description:
 tags:
  - anomaly
@@ -14,31 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Framework for Process Anomaly Detection in 3D Concrete Printing ([2025-12](date/2025/12))
-<a href="https://doi.org/10.1016/j.addma.2025.105056" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2025.105056</a>
+#A Framework for Process Anomaly Detection in 3D Concrete Printing ([2025-12](date/2025/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.105056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.105056" target="_blank">10.1016/j.addma.2025.105056</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b>&nbsp;Abdallah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3867-820X" title="ORCID: 0000-0002-3867-820X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_yuxin"><b>Lin</b>&nbsp;Yuxin</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-0764-9469" title="ORCID: 0009-0007-0764-9469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/watson_christopher"><b>Watson</b>&nbsp;Christopher</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1047-8078" title="ORCID: 0000-0003-1047-8078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barton_kira"><b>Barton</b>&nbsp;Kira</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b>&nbsp;Mania</a></span><br>
+Journal Article - Additive Manufacturing, No. 105056
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a> <a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a> <a href="https://orcid.org/0000-0002-3867-820X" title="ORCID: 0000-0002-3867-820X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a> <a href="https://orcid.org/0009-0007-0764-9469" title="ORCID: 0009-0007-0764-9469" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> <a href="https://orcid.org/0000-0003-1047-8078" title="ORCID: 0000-0003-1047-8078" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 105056
-
-:aca-blank:{ .lg .middle}
-    [`#anomaly`](keyword/anomaly)
-    [`#concrete`](keyword/concrete)
-    [`#detection`](keyword/detection)
-    [`#framework`](keyword/framework)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/anomaly"><button class="btn">#anomaly</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Framework%20for%20Process%20Anomaly%20Detection%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4417397618" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2025.105056" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2025.105056?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Extrusion-based 3D concrete printing offers a transformative opportunity for waste-free fabrication of complex and materially optimized building components. However, the current reliance on manual observation and ad-hoc parameter tuning introduces significant variability into the process and limits the scalability of 3D concrete printing. Existing systems offer no predictive insight into failure events and remain dependent on trial-and-error methods, resulting in increased material consumption, higher costs, and prolonged production times. To address this, the paper introduces a comprehensive framework for process anomaly detection tailored to two-component extrusion-based 3D concrete printing systems. The proposed framework integrates systematic sensor instrumentation, heterogeneous data acquisition, and signal feature characterization to enable real-time monitoring of system health. Non-destructive sensors are deployed to measure environmental conditions, slurry pumpability, hydration behavior, and workability. Collected signals are analyzed using a suite of processing techniques—including frequency analysis, amplitude envelope detection, curve fitting, and magnitude deviation analysis—to extract critical features indicative of emerging anomalies. The methodology presented in this paper establishes a generalizable framework for anomaly detection, using data collected from physical experiments, where the specific metric values derived from the data are tied to the feedstock used in this study for validation. The paper results demonstrate the ability of the proposed methods to detect failure modes—such as pump clogging, material segregation, and two-component mixing head clogging— ahead of human operator detection. These findings confirm the viability of the proposed framework for anomaly detection.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "42 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
@@ -107,7 +86,36 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kamh_lin_wats_bart.2025.AFfPADi3CP,
+      author            = "Abdallah Kamhawi and Yuxin Lin and Christopher Watson and Kira Barton and Mania Aghaei Meibodi",
+      title             = "A Framework for Process Anomaly Detection in 3D Concrete Printing",
+      doi               = "10.1016/j.addma.2025.105056",
+      year              = "2025",
+      journal           = "Additive Manufacturing",
+      pages             = "105056",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Kamhawi, Y. Lin, C. Watson, K. Barton and M. A. Meibodi, “A Framework for Process Anomaly Detection in 3D Concrete Printing”, <i>Additive Manufacturing</i>, p. 105056, 2025, doi: 10.1016/j.addma.2025.105056.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kamhawi, Abdallah, Yuxin Lin, Christopher Watson, Kira Barton, and Mania Aghaei Meibodi. “A Framework for Process Anomaly Detection in 3D Concrete Printing”. <i>Additive Manufacturing</i>, 2025, 105056. https://doi.org/10.1016/j.addma.2025.105056.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

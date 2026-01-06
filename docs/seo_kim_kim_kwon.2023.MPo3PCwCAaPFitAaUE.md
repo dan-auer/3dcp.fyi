@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Eun-A Seo, Won-Woo Kim, Sung-Wook Kim, Hongkyu Kwon, Hojae Lee
+    - footer
+title: Seo Eun-A, Kim Won-Woo, Kim Sung-Wook, Kwon Hongkyu, Lee Hojae
 description:
 tags:
  - aggregate
@@ -18,35 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2023.131184) Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment ([2023-03](date/2023/03))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.131184" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.131184</a>
+#Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment ([2023-03](date/2023/03))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2023.131184) <a href="https://doi.org/10.1016/j.conbuildmat.2023.131184" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131184" target="_blank">10.1016/j.conbuildmat.2023.131184</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seo_eun-a"><b>Seo</b>&nbsp;Eun-A</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7870-0718" title="ORCID: 0000-0001-7870-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_won-woo"><b>Kim</b>&nbsp;Won-Woo</a></span>, <a href="../../../author/kim_sung-wook"><b>Kim</b>&nbsp;Sung-Wook</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwon_hongkyu"><b>Kwon</b>&nbsp;Hongkyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 378
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a> <a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> <a href="https://orcid.org/0000-0001-7870-0718" title="ORCID: 0000-0001-7870-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kim_sung-wook"><b>Kim</b> Sung-Wook</a>
-,     <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 378, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#aggregate`](keyword/aggregate)
-    [`#air`](keyword/air)
-    [`#coarse`](keyword/coarse)
-    [`#concrete`](keyword/concrete)
-    [`#environment`](keyword/environment)
-    [`#fiber`](keyword/fiber)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#underwater`](keyword/underwater)
-
-
--------------------------
+<a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D%20Printed%20Concrete%20with%20Coarse%20Aggregates%20and%20Polypropylene-Fiber%20in%20the%20Air%20and%20Underwater%20Environment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151288125&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4361296892" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.131184" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.131184?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, three-dimensional concrete printing (3DCP) was performed for concrete with coarse aggregates in air and underwater environments for a comparative evaluation of the mechanical properties of the obtained samples. The base concrete mix was selected based on normal weight concrete (NWC) with ordinary Portland cement (OPC) as a binder, and the mechanical properties of the printed concrete applied using 3DCP and mold cast concrete were compared for analysis. For printability, fiber-reinforced concrete (FRC) with polypropylene fiber was additionally considered as a variable, and the fabrication method (printing and mold casting) and conditions (air and underwater environments) were varied. For the specimens fabricated using different materials, fabricating methods, and fabricating environments, the apparent density, compressive strength, splitting tensile strength, and stress–strain curves were comparatively analyzed. Considering the static elastic modulus calculated from the stress–strain curve, the correlation between the values obtained using design codes and those obtained via elastic modulus prediction models presented in previous studies was comparatively analyzed. When the concrete fabricated using the mold casting method was compared with the printed specimen, the density of the mold cast concrete was higher by 34 kg/m3 compared to that of the printed specimen, and the specimen fabricated in the air showed a density that was 45 kg/m3 greater compared to that of the specimen fabricated underwater. The compressive strength (28 days) was found to be approximately 8% higher in NWC compared to that in FRC, and the compressive strength of the underwater specimen was about 72% of that of the air specimen.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
@@ -100,8 +75,9 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhan_jia_wang_jia.2022.ATPDSBotCoMaCAf3PCwCA/">A Two-Phase Design-Strategy Based on the Composite of Mortar and Coarse Aggregate for 3D Printable Concrete with Coarse Aggregate</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "24 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
       <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
       <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>
@@ -126,4 +102,33 @@ tags:
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/hu_yan-ye"><b>Hu</b> Yan-Ye</a>, <a href="../../../author/cheng_song-gui"><b>Cheng</b> Song-Gui</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_qiu_hu_chen.2023.IFoMPaMCoU3PC/">Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete</a></li>
       <li><a href="../../../author/wang_hao"><b>Wang</b> Hao</a>, <a href="../../../author/jiang_minghui"><b>Jiang</b> Minghui</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/zhou_gangming"><b>Zhou</b> Gangming</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_jian_hang_zhou.2023.RotMPaFRoAS3PM/">Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{seo_kim_kim_kwon.2023.MPo3PCwCAaPFitAaUE,
+      author            = "Eun-A Seo and Won-Woo Kim and Sung-Wook Kim and Hongkyu Kwon and Hojae Lee",
+      title             = "Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment",
+      doi               = "10.1016/j.conbuildmat.2023.131184",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "378",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">E.-A. Seo, W.-W. Kim, S.-W. Kim, H. Kwon and H. Lee, “Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment”, <i>Construction and Building Materials</i>, vol. 378, 2023, doi: 10.1016/j.conbuildmat.2023.131184.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Seo, Eun-A, Won-Woo Kim, Sung-Wook Kim, Hongkyu Kwon, and Hojae Lee. “Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment”. <i>Construction and Building Materials</i> 378 (2023). https://doi.org/10.1016/j.conbuildmat.2023.131184.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

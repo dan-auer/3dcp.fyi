@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnesh Das, Yu Song, Sara Mantellato, Timothy Wangler, Robert Flatt, David Lange
+    - footer
+title: Das Arnesh, Song Yu, Mantellato Sara, Wangler Timothy, Flatt Robert, Lange David
 description:
 tags:
  - air
@@ -16,34 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.research-collection.ethz.ch/bitstream/20.500.11850/426811/1/Das_Arnesh_010.pdf) Influence of Pumping-Extrusion on the Air-Void System of 3D Printed Concrete ([2020-07](date/2020/07))
-<a href="https://doi.org/10.1007/978-3-030-49916-7_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-49916-7_43</a>
+#Influence of Pumping-Extrusion on the Air-Void System of 3D Printed Concrete ([2020-07](date/2020/07))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/426811/1/Das_Arnesh_010.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_43" target="_blank">10.1007/978-3-030-49916-7_43</a>
 
--------------------------
+<a href="../../../author/das_arnesh"><b>Das</b>&nbsp;Arnesh</a></span>, <a href="../../../author/song_yu"><b>Song</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantellato_sara"><b>Mantellato</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6517-711X" title="ORCID: 0000-0002-6517-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lange_a_david"><b>Lange</b>&nbsp;David</a></span><br>
+Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 417-427
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>
-,     <a href="../../../author/song_yu"><b>Song</b> Yu</a>
-,     <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> <a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lange_a_david"><b>Lange</b> David</a> <a href="https://orcid.org/0000-0002-6517-711X" title="ORCID: 0000-0002-6517-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 417-427
-
-:aca-blank:{ .lg .middle}
-    [`#air`](keyword/air)
-    [`#concrete`](keyword/concrete)
-    [`#extrusion`](keyword/extrusion)
-    [`#influence`](keyword/influence)
-    [`#print`](keyword/print)
-    [`#pump`](keyword/pump)
-    [`#system`](keyword/system)
-    [`#void`](keyword/void)
-
-
--------------------------
+<a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Pumping-Extrusion%20on%20the%20Air-Void%20System%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088276827&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3041832502" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-49916-7_43" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-49916-7_43?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D printing with concrete offers many advantages over conventional construction methods and interest in this field of research has seen a rapid rise in recent years. While there have been large number of cases of successful fabrication of 3D printed structures, ensuring the long-term durability performance of the fabricated structures is equally important. Freeze-thaw damage is one such deterioration issue, especially in cold places like Switzerland. This study investigated the effect of the different processing conditions encountered in 3D printing, namely pumping, acceleration/mixing and extrusion on the air void system of a standard 3D printable mortar mix. The 3D void size distribution of the air voids obtained using a recently developed stereological model, along with the ASTM C457 results showed that pumping had the major impact on the void structure as both air content and spacing factor decreased significantly. The effect of acceleration/change in rheology and extrusion on the void structure was also prominent from the obtained results. The 3D protected paste volume (PPV) curves showed that pumping and acceleration processes could enhance the freeze-thaw performance.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "7 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
@@ -77,8 +53,8 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "20 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS/">Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure</a></li>
@@ -100,4 +76,35 @@ tags:
       <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../vall_farz_khay.2021.EoFBaPIVoSSo3PE/">Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>A Review</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{das_song_mant_wang.2020.IoPEotAVSo3PC,
+      author            = "Arnesh Das and Yu Song and Sara Mantellato and Timothy Paul Wangler and Robert Johann Flatt and David A. Lange",
+      title             = "Influence of Pumping-Extrusion on the Air-Void System of 3D Printed Concrete",
+      doi               = "10.1007/978-3-030-49916-7_43",
+      year              = "2020",
+      volume            = "28",
+      pages             = "417--427",
+      booktitle         = "Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020",
+      editor            = "Freek Paul Bos and Sandra Simaria de Oliveira Lucas and Robert Johannes Maria Wolfs and Theo A. M. Salet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Das, Y. Song, S. Mantellato, T. P. Wangler, R. J. Flatt and D. A. Lange, “Influence of Pumping-Extrusion on the Air-Void System of 3D Printed Concrete”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 417–427. doi: 10.1007/978-3-030-49916-7_43.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Das, Arnesh, Yu Song, Sara Mantellato, Timothy Paul Wangler, Robert Johann Flatt, and David A. Lange. “Influence of Pumping-Extrusion on the Air-Void System of 3D Printed Concrete”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:417–27, 2020. https://doi.org/10.1007/978-3-030-49916-7_43.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

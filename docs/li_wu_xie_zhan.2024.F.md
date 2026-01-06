@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Yu Li, Hao Wu, Xinjie Xie, Liming Zhang, Philip Yuan, Yi Xie
+    - footer
+title: Li Yu, Wu Hao, Xie Xinjie, Zhang Liming, Yuan Philip, Xie Yi
 description:
 tags:
  - cable
@@ -18,36 +19,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.addma.2024.104012) FloatArch:<br/>:aca-blank: A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization ([2024-02](date/2024/02))
-<a href="https://doi.org/10.1016/j.addma.2024.104012" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2024.104012</a>
+#FloatArch&nbsp;([2024-02](date/2024/02))
+<div class="h1-like">A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2024.104012) <a href="https://doi.org/10.1016/j.addma.2024.104012" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104012" target="_blank">10.1016/j.addma.2024.104012</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-9054-7840" title="ORCID: 0000-0001-9054-7840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yu"><b>Li</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hao"><b>Wu</b>&nbsp;Hao</a></span>, <a href="../../../author/xie_xinjie"><b>Xie</b>&nbsp;Xinjie</a></span>, <a href="../../../author/zhang_liming"><b>Zhang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span><br>
+Journal Article - Additive Manufacturing, No. 104012
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/li_yu"><b>Li</b> Yu</a> <a href="https://orcid.org/0000-0001-9054-7840" title="ORCID: 0000-0001-9054-7840" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> <a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_xinjie"><b>Xie</b> Xinjie</a>
-,     <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a>
-,     <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Additive Manufacturing, No. 104012
-
-:aca-blank:{ .lg .middle}
-    [`#cable`](keyword/cable)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#material`](keyword/material)
-    [`#multi`](keyword/multi)
-    [`#optimization`](keyword/optimization)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#support`](keyword/support)
-    [`#topology`](keyword/topology)
-
-
--------------------------
+<a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=FloatArch" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185459247&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4391481406" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2024.104012" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.addma.2024.104012?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing technology has advanced rapidly over the past decades, providing labor-saving benefits and the capability to achieve rapid construction of free-form structures. However, due to the involvement of robotic automation, the construction process in 3D concrete printing differs significantly from conventional concrete construction, especially in terms of concrete reinforcement. The current commonly used 3D printed concrete (3DPC) reinforcement techniques mainly include designing the 3DPC structure as predominantly compressed or prestressed components, or reinforcing it with auxiliary materials like steel rebars, fibers, or meshes. However, these methods either have limited application scenarios or do not fully utilize the mechanical performance of 3DPC materials. Building upon our previously proposed multi-material bi-directional evolutionary structural optimization (multi-material BESO) method, this paper introduces a new 3DPC structural design approach in which 3DPC components are predominantly subjected to compression, requiring no additional reinforcement but working together with tensioned steel cables to form an efficient composite structural system. We applied this method to the design and construction of an experimental prototype named “FloatArch”. Subsequent load tests and measurements confirmed the feasibility and efficiency of this 3DPC structure. We then designed and constructed the expanded structure “FloatSlab” to further demonstrate the general applicability of the proposed method. The features of prefabricated assembly, not requiring reinforcement or special equipment, and dry construction make this 3DPC structure easy to build and reassemble, providing new prospects for the sustainable use of 3DPC components. The generative design, construction, and validation of cable-supported structure prototypes presented in this paper demonstrate the immense potential of multi-material topology optimization technology for efficient 3DPC structural design, providing a new route to high-performance, innovative and sustainable structural design in additive manufacturing of concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "35 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -109,8 +84,8 @@ tags:
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "37 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b> Mohamed</a>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b> Youssef</a>, <a href="../../../author/erritali_ilham"><b>Erritali</b> Ilham</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../najm_abou_najm_erri.2025.TOi3CPS/">Topological Optimization in 3D Concrete Printing Structures:<br/>A Review</a></li>
       <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
       <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
@@ -148,6 +123,34 @@ tags:
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../du_sun_qian.2024.3PSHCC3SRSRIbtWS/">3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC) Reticulated Shell Roof Inspired by the Water Spider</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhi_teng_akba.2024.D3PCSwSFM/">Designing 3D Printed Concrete Structures with Scaled Fabrication Models</a></li>
       <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huan_xu_anto_dill.2024.SSL/">Self-Supporting Lamellae:<br/>Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures</a></li>
-      <li><a href="../../../author/dimitriou_savvas"><b>Dimitriou</b> Savvas</a>, <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../dimi_kont.2024.FFB3PoSEIbtTAoCV/">Force-Flow Based 3D Printing of Structural Elements Inspired by the Traditional Architecture of Cross-Vaults</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{li_wu_xie_zhan.2024.F,
+      author            = "Yu Li and Hao Wu and Xinjie Xie and Liming Zhang and Philip F. Yuan and Yi Min Xie",
+      title             = "FloatArch: A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization",
+      doi               = "10.1016/j.addma.2024.104012",
+      year              = "2024",
+      journal           = "Additive Manufacturing",
+      pages             = "104012",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Li, H. Wu, X. Xie, L. Zhang, P. F. Yuan and Y. M. Xie, “FloatArch: A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization”, <i>Additive Manufacturing</i>, p. 104012, 2024, doi: 10.1016/j.addma.2024.104012.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Li, Yu, Hao Wu, Xinjie Xie, Liming Zhang, Philip F. Yuan, and Yi Min Xie. “FloatArch: A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization”. <i>Additive Manufacturing</i>, 2024, 104012. https://doi.org/10.1016/j.addma.2024.104012.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

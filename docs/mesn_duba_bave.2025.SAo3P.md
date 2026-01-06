@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Romain Mesnil, Romain Duballet, Olivier Baverel
+    - footer
+title: Mesnil Romain, Duballet Romain, Baverel Olivier
 description:
 tags:
  - application
@@ -11,26 +12,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Structural Applications of 3D Printing ([2025-01](date/2025/01))
-<a href="https://doi.org/10.1002/9781394352081.ch5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/9781394352081.ch5</a>
+#Structural Applications of 3D Printing ([2025-01](date/2025/01))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781394352081.ch5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394352081.ch5" target="_blank">10.1002/9781394352081.ch5</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/baverel_olivier"><b>Baverel</b>&nbsp;Olivier</a></span><br>
+Contribution - 3D Concrete Printing, pp. 131-159
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>
-,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - 3D Concrete Printing, pp. 131-159
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Structural%20Applications%20of%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004493292&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -45,17 +33,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4406548944" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1002/9781394352081.ch5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1002/9781394352081.ch5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This chapter provides an overview of the potential structural applications of printed concrete. First, it identifies mechanical models for printed structures and methods for assessing the mechanical properties of the hardened material. The chapter presents ways of assessing the material properties required for the dimensioning process and suggests ways in which printed structures can be modeled efficiently. It discusses the application of printing as masonry, that is, without reinforcement, with a focus on the question of form and structure. The chapter briefly presents applications of 3D printing in structures reinforced with reinforcement or fibers, with a focus on technology. It presents applications using prestressing and explores the strength dimension of structural morphology. The chapter concludes with a discussion of modeling and optimization tools that could be used to assist engineers in their design approach.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dezaire_steven"><b>Dezaire</b> Steven</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hoekstra_anne"><b>Hoekstra</b> Anne</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bos_deza_ahme_hoek.2020.BoRCi3PC/">Bond of Reinforcement-Cable in 3D Printed Concrete</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
@@ -81,8 +65,38 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{mesn_duba_bave.2025.SAo3P,
+      author            = "Romain Mesnil and Romain Duballet and Olivier Baverel",
+      title             = "Structural Applications of 3D Printing",
+      doi               = "10.1002/9781394352081.ch5",
+      year              = "2025",
+      pages             = "131--159",
+      booktitle         = "3D Concrete Printing: State of the Art and Applications",
+      editor            = "Arnaud Perrot and Yohan Jacquet",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Mesnil, R. Duballet and O. Baverel, “Structural Applications of 3D Printing”, in <i>3D Concrete Printing: State of the Art and Applications</i>,  2025, pp. 131–159. doi: 10.1002/9781394352081.ch5.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mesnil, Romain, Romain Duballet, and Olivier Baverel. “Structural Applications of 3D Printing”. In <i>3D Concrete Printing: State of the Art and Applications</i>, edited by Arnaud Perrot and Yohan Jacquet, 131–59, 2025. https://doi.org/10.1002/9781394352081.ch5.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

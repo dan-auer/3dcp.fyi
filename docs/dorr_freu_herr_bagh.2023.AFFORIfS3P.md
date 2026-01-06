@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Robin Dörrie, Niklas Freund, Eric Herrmann, Abtin Baghdadi, Inka Mai (née Dressler), Felipe Galli, Martin David, Klaus Dröder, Dirk Lowke, Harald Kloft
+    - footer
+title: Dörrie Robin, Freund Niklas, Herrmann Eric, Baghdadi Abtin, Mai (née Dressler) Inka, Galli Felipe, David Martin, Dröder Klaus, Lowke Dirk, Kloft Harald
 description:
 tags:
  - automation
@@ -16,38 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2023.105075) Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.autcon.2023.105075" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2023.105075</a>
+#Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing ([2023-09](date/2023/09))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2023.105075) <a href="https://doi.org/10.1016/j.autcon.2023.105075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105075" target="_blank">10.1016/j.autcon.2023.105075</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <a href="../../../author/herrmann_eric"><b>Herrmann</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1259-6174" title="ORCID: 0000-0003-1259-6174" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baghdadi_abtin"><b>Baghdadi</b>&nbsp;Abtin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <a href="../../../author/galli_felipe"><b>Galli</b>&nbsp;Felipe</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/david_martin"><b>David</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
+Journal Article - Automation in Construction, Vol. 155, No. 105075
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>
-,     <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> <a href="https://orcid.org/0000-0003-1259-6174" title="ORCID: 0000-0003-1259-6174" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/galli_felipe"><b>Galli</b> Felipe</a>
-,     <a href="../../../author/david_martin"><b>David</b> Martin</a> <a href="https://orcid.org/0000-0001-5386-4855" title="ORCID: 0000-0001-5386-4855" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 155, No. 105075
-
-:aca-blank:{ .lg .middle}
-    [`#automation`](keyword/automation)
-    [`#flow`](keyword/flow)
-    [`#force`](keyword/force)
-    [`#integration`](keyword/integration)
-    [`#orientation`](keyword/orientation)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#shotcrete`](keyword/shotcrete)
-
-
--------------------------
+<a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/force"><button class="btn">#force</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Automated%20Force-Flow-Oriented%20Reinforcement%20Integration%20for%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170556668&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386591415" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2023.105075" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2023.105075?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The construction industry faces various challenges, e.g. reducing its carbon footprint and the extensive use of materials. Therefore, Computational Design and Additive Manufacturing gain more importance throughout the industry. In combination, they offer the possibility of manufacturing individually designed building components, which can be less material-consuming and structurally improved. The presented research displays and discusses the effect of force-flow-oriented reinforcement design in concrete beams concerning the flexural strength and the required amount of steel. For this purpose, different reinforcement layouts were designed and integrated into conventionally cast and additively manufactured beam components. For the design of the force-flow-oriented reinforcement layouts, a digital workflow is established, and FEM simulations are utilised. The load-bearing capacity of the beams is compared based on four-point bending tests. Due to the optimised reinforcement layout, an increase of flexural strength of more than 60% was achieved while keeping the reinforcement amount constant. It is also shown that using force-flow-oriented reinforcement layouts can save nearly 60% of the reinforcement needed to achieve the same flexural strength as a beam with a conventional reinforcement cage. Finally, the potential for automated force-flow-oriented reinforcement integration within additively manufactured components is discussed.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "41 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
@@ -115,8 +87,8 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
@@ -129,4 +101,34 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lu_wang_wang_tan.2024.DoRSSSCMfSSHM/">Development of Robotic Sprayable Self-Sensing Cementitious Material for Smart Structural Health Monitoring</a></li>
       <li><a href="../../../author/dimitriou_savvas"><b>Dimitriou</b> Savvas</a>, <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../dimi_kont.2024.FFB3PoSEIbtTAoCV/">Force-Flow Based 3D Printing of Structural Elements Inspired by the Traditional Architecture of Cross-Vaults</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{dorr_freu_herr_bagh.2023.AFFORIfS3P,
+      author            = "Robin Dörrie and Niklas Freund and Eric Herrmann and Abtin Baghdadi and Inka Mai (née Dressler) and Felipe Galli and Martin David and Klaus Dröder and Dirk Lowke and Harald Kloft",
+      title             = "Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing",
+      doi               = "10.1016/j.autcon.2023.105075",
+      year              = "2023",
+      journal           = "Automation in Construction",
+      volume            = "155",
+      pages             = "105075",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Dörrie, “Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing”, <i>Automation in Construction</i>, vol. 155, p. 105075, 2023, doi: 10.1016/j.autcon.2023.105075.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Dörrie, Robin, Niklas Freund, Eric Herrmann, Abtin Baghdadi, Inka Mai (née Dressler), Felipe Galli, Martin David, Klaus Dröder, Dirk Lowke, and Harald Kloft. “Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing”. <i>Automation in Construction</i> 155 (2023): 105075. https://doi.org/10.1016/j.autcon.2023.105075.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

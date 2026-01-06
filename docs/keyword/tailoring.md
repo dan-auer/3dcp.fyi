@@ -8,7 +8,7 @@ search:
 
 # #tailoring
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>
   <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/sharma_deepak"><b>Sharma</b> Deepak</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sahu_shar_pand.2025.TTOLCBDfAM/">Tailoring Topology-Optimized Lightweight Concrete Beam Design for Additive Manufacturing</a></li>
   <li><a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>, <a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sun_bu_lu.2025.RT3U/">Rheology-Tailored 3DP-UHPC:<br/>From Enhanced Printability to Impact Performance</a></li>

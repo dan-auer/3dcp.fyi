@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Luiz Siqueira Neto, Burkan Isgor, William Weiss
+    - footer
+title: Siqueira Neto Luiz, Isgor Burkan, Weiss William
 description:
 tags:
  - absorbent
@@ -16,31 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://link.springer.com/content/pdf/10.1617/s11527-025-02733-7.pdf) Modeling Fluid Absorption in Layered Anisotropic Cement-Based Materials ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1617/s11527-025-02733-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02733-7</a>
+#Modeling Fluid Absorption in Layered Anisotropic Cement-Based Materials ([2025-08](date/2025/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-025-02733-7.pdf) <a href="https://doi.org/10.1617/s11527-025-02733-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02733-7" target="_blank">10.1617/s11527-025-02733-7</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-0460-308X" title="ORCID: 0009-0002-0460-308X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/siqueira-neto_antonio_luiz"><b>de&nbsp;Siqueira Neto</b>&nbsp;Luiz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0554-3501" title="ORCID: 0000-0002-0554-3501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/isgor_o_burkan"><b>Isgor</b>&nbsp;Burkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weiss_jason_william"><b>Weiss</b>&nbsp;William</a></span><br>
+Journal Article - Materials and Structures, Vol. 58, Iss. 6
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/siqueira-neto_antonio_luiz"><b>de Siqueira Neto</b> Luiz</a> <a href="https://orcid.org/0009-0002-0460-308X" title="ORCID: 0009-0002-0460-308X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/isgor_o_burkan"><b>Isgor</b> Burkan</a> <a href="https://orcid.org/0000-0002-0554-3501" title="ORCID: 0000-0002-0554-3501" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> <a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials and Structures, Vol. 58, Iss. 6, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#absorbent`](keyword/absorbent)
-    [`#anisotropy`](keyword/anisotropy)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#fluid`](keyword/fluid)
-    [`#layer`](keyword/layer)
-    [`#material`](keyword/material)
-    [`#model`](keyword/model)
-
-
--------------------------
+<a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modeling%20Fluid%20Absorption%20in%20Layered%20Anisotropic%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012271650&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412840210" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02733-7" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02733-7?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The absorption of fluid in cement-based materials is often related to their durability. Current approaches to predict fluid absorption often assume material isotropy, which may not be accurate for layered systems. This paper presents a moisture transport modeling approach to investigate fluid absorption in layered anisotropic cement-based systems. The model is first validated by predicting the moisture profiles obtained from absorption experiments of two mortar samples, at times between 0.5 and 5 h. The model is then used to simulate layered geometries representative of 3D-printed mortar structures, emphasizing heterogeneity between filament and interfacial regions. Simulation results for the validation example match the moisture profiles obtained in the absorption experiments, with a Root Mean Square Percentage Error (RMSPE) of less than 12% in all cases. Simulation results for the layered geometries illustrate the anisotropic nature of fluid absorption in these systems. A layer arrangement parallel to the absorption direction leads to higher fluid uptake than when the layers are perpendicular to the absorption direction, due to lateral fluid transport from interfacial regions to filament regions. The roles of porosity, pore connectivity, and pore size distribution (PSD) are also examined, providing insights into how the microstructure of the material layers may impact fluid ingress. Additionally, it may be possible for material defects in these systems to be designed to control fluid absorption.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/martys_s_nicos"><b>Martys</b> Nicos</a>, <a href="../../../author/george_l_william"><b>George</b> William</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../jone_bent_mart_geor.2019.RCo3PCPaMb/">Rheological Control of 3D Printable Cement-Paste and Mortars</a></li>
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a></li>
@@ -79,7 +58,37 @@ tags:
       <li><a href="../../../author/torelli_giacomo"><b>Torelli</b> Giacomo</a>, <a href="../../../author/fernandez_gimenez_mar"><b>Fernández</b> Mar</a>, <a href="../../../author/lees_m_janet"><b>Lees</b> Janet</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../tore_fern_lees.2020.FGC/">Functionally Graded Concrete:<br/>Design Objectives, Production Techniques and Analysis Methods for Layered and Continuously Graded Elements</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{siqu_isgo_weis.2025.MFAiLACBM,
+      author            = "Luiz Antonio de Siqueira Neto and Burkan O. Isgor and William Jason Weiss",
+      title             = "Modeling Fluid Absorption in Layered Anisotropic Cement-Based Materials",
+      doi               = "10.1617/s11527-025-02733-7",
+      year              = "2025",
+      journal           = "Materials and Structures",
+      volume            = "58",
+      number            = "6",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. A. de Siqueira Neto, B. O. Isgor and W. J. Weiss, “Modeling Fluid Absorption in Layered Anisotropic Cement-Based Materials”, <i>Materials and Structures</i>, vol. 58, no. 6, 2025, doi: 10.1617/s11527-025-02733-7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Siqueira Neto, Luiz Antonio de, Burkan O. Isgor, and William Jason Weiss. “Modeling Fluid Absorption in Layered Anisotropic Cement-Based Materials”. <i>Materials and Structures</i> 58, no. 6 (2025). https://doi.org/10.1617/s11527-025-02733-7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

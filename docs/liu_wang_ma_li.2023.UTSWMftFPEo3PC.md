@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Miao Liu, Li Wang, Guowei Ma, Weiwei Li, Yuanyuan Zhou
+    - footer
+title: Liu Miao, Wang Li, Ma Guowei, Li Weiwei, Zhou Yuanyuan
 description:
 tags:
  - approach
@@ -19,36 +20,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete:<br/>:aca-blank: A Novel Reinforcing Approach ([2022-11](date/2022/11))
-<a href="https://doi.org/10.1016/j.matlet.2022.133429" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matlet.2022.133429</a>
+#U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete&nbsp;([2022-11](date/2022/11))
+<div class="h1-like">A Novel Reinforcing Approach</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2022.133429" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2022.133429" target="_blank">10.1016/j.matlet.2022.133429</a>
 
--------------------------
+<a href="../../../author/liu_miao"><b>Liu</b>&nbsp;Miao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/li_weiwei"><b>Li</b>&nbsp;Weiwei</a></span>, <a href="../../../author/zhou_yuanyuan"><b>Zhou</b>&nbsp;Yuanyuan</a></span><br>
+Journal Article - Materials Letters, Vol. 331
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>
-,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>
-,     <a href="../../../author/zhou_yuanyuan"><b>Zhou</b> Yuanyuan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Materials Letters, Vol. 331, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#concrete`](keyword/concrete)
-    [`#enhancement`](keyword/enhancement)
-    [`#flexural`](keyword/flexural)
-    [`#mesh`](keyword/mesh)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-    [`#steel`](keyword/steel)
-    [`#type`](keyword/type)
-    [`#wire`](keyword/wire)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=U-Type%20Steel-Wire-Mesh%20for%20the%20Flexural%20Performance%20Enhancement%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141227889&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -63,17 +42,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4308297319" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.matlet.2022.133429" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.matlet.2022.133429?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Effective reinforcing method is of great significance to the 3D concrete printing (3DCP) technology for structural application. Currently available reinforcing measures for 3DCP only provide directional instead of integral reinforcement for 3D printed constructs. To this gap, in this study, a novel reinforcing approach for 3DCP via Utype steel wire mesh (USWM) is proposed, which facilitate integrated horizontal and vertical reinforcements. Printed specimens without reinforcement, with flat steel wire mesh (FSWM) and USWM are manufactured to demonstrate the structural superiority of the currently proposed strengthening approach through flexural tests. The results show that the flexural performance of 3D printed specimens is substantially improved due to introduction of USWM, as indicated by significantly higher load-bearing capacity and deflection hardening compared to the counterparts reinforced with FSWM and plain specimen.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/zhou_xiaolong"><b>Zhou</b> Xiaolong</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../jin_zhou_chen_zhao.2022.HT3PWPCBMwGFT/">High-Toughness 3D Printed White Portland-Cement-Based Materials with Glass-Fiber-Textile</a></li>
@@ -85,8 +60,8 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "19 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/varghese_renny"><b>Varghese</b> Renny</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../varg_rang_maia.2025.SSaSi3PCUDToFR/">Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
@@ -107,4 +82,33 @@ tags:
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../quah_tay_lim_tan.2023.C3P/">Concrete 3D Printing:<br/>Process-Parameters for Process-Control, Monitoring and Diagnosis in Automation and Construction</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{liu_wang_ma_li.2023.UTSWMftFPEo3PC,
+      author            = "Miao Liu and Li Wang and Guowei Ma and Weiwei Li and Yuanyuan Zhou",
+      title             = "U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete: A Novel Reinforcing Approach",
+      doi               = "10.1016/j.matlet.2022.133429",
+      year              = "2023",
+      journal           = "Materials Letters",
+      volume            = "331",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Liu, L. Wang, G. Ma, W. Li and Y. Zhou, “U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete: A Novel Reinforcing Approach”, <i>Materials Letters</i>, vol. 331, 2023, doi: 10.1016/j.matlet.2022.133429.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Liu, Miao, Li Wang, Guowei Ma, Weiwei Li, and Yuanyuan Zhou. “U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete: A Novel Reinforcing Approach”. <i>Materials Letters</i> 331 (2023). https://doi.org/10.1016/j.matlet.2022.133429.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

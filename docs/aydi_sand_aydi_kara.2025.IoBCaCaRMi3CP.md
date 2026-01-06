@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Tolga Aydin, Ilgin Sandalci, Eylül Aydin, Burhan Kara, Ata Nikravan, Nilüfer Özyurt, Özkan Bebek, Zeynep Bundur
+    - footer
+title: Aydin Tolga, Sandalci Ilgin, Aydin Eylül, Kara Burhan, Nikravan Ata, Özyurt Nilüfer, Bebek Özkan, Bundur Zeynep
 description:
 tags:
  - bacteria
@@ -16,36 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing ([2025-08](date/2025/08))
-<a href="https://doi.org/10.1061/jmcee7.mteng-19982" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1061/jmcee7.mteng-19982</a>
+#Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing ([2025-08](date/2025/08))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-19982" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-19982" target="_blank">10.1061/jmcee7.mteng-19982</a>
 
--------------------------
+<a href="../../../author/aydin_tolga"><b>Aydin</b>&nbsp;Tolga</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8136-9357" title="ORCID: 0000-0002-8136-9357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sandalci_ilgin"><b>Sandalci</b>&nbsp;Ilgin</a></span>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b>&nbsp;Eylül</a></span>, <a href="../../../author/kara_burhan"><b>Kara</b>&nbsp;Burhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1306-5810" title="ORCID: 0000-0002-1306-5810" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nikravan_ata"><b>Nikravan</b>&nbsp;Ata</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozyurt_nilufer"><b>Özyurt</b>&nbsp;Nilüfer</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bebek_ozkan"><b>Bebek</b>&nbsp;Özkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span><br>
+Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>
-,     <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a> <a href="https://orcid.org/0000-0002-8136-9357" title="ORCID: 0000-0002-8136-9357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>
-,     <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>
-,     <a href="../../../author/nikravan_ata"><b>Nikravan</b> Ata</a> <a href="https://orcid.org/0000-0002-1306-5810" title="ORCID: 0000-0002-1306-5810" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> <a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a> <a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bacteria`](keyword/bacteria)
-    [`#cell`](keyword/cell)
-    [`#clay`](keyword/clay)
-    [`#concrete`](keyword/concrete)
-    [`#investigation`](keyword/investigation)
-    [`#modification`](keyword/modification)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/bacteria"><button class="btn">#bacteria</button></a> <a href="../../keyword/cell"><button class="btn">#cell</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Bacterial%20Cells%20and%20Clays%20as%20Rheology%20Modifiers%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013069442&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4413194375" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1061/jmcee7.mteng-19982" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1061/jmcee7.mteng-19982?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The developments in digital concrete production placed the concrete industry in a paradox for achieving optimization among improved performance, cost, and sustainability. The three-dimensional (3D) printing material design contradicts the sustainability goal of reducing raw material consumption. This study investigates the role of bacterial cells as rheology-modifying agents (RMA) to enhance the performance of cement-based mortars used in 3D concrete printing. Two bacterial species, Bacillus megaterium and Sporosarcina pasteurii, were incorporated with clays (nanomontmorillonite and sepiolite) in fly ash-amended mix designs. Rheological analysis demonstrated that the inclusion of bacterial cells reduced dynamic yield stress by up to 30%. Incorporation of cells with clays improved the development of static yield stress and increased thixotropy by a factor of ten compared to that of the control samples. The synergistic effect of the bacterial cells and clays further enhanced buildability, with nanomontmorillonite improving shape retention by 6%–9% relative to control mixes, whereas sepiolite contributed to better interlayer bonding. Modular prototypes with optimized mixes achieved layer heights that retained 92%–93% of the target dimensions, indicating improved geometric stability and surface finish. The results of this study will provide a better understanding of the influence of B. megaterium and S. pasteurii cells on the rheology of the fly-ash-amended clay containing printable cement-based mortars. This research provides insight into the potential of biobased RMAs to enhance extrusion, shape retention, and sustainability in 3D concrete printing, paving the way for scalable applications within the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "30 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -102,7 +76,37 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/liu_jian"><b>Liu</b> Jian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhao_jian_xia_liu.2024.MICRf3PC/">Microbial-Induced Carbonate Reinforcement for 3D Printed Concrete:<br/>Testing in Printable and Mechanical Strength</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP,
+      author            = "Tolga Aydin and Ilgin Sandalci and Eylül Mina Aydin and Burhan Kara and Ata Nikravan and Nilüfer Özyurt and Özkan Bebek and Zeynep Başaran Bundur",
+      title             = "Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing",
+      doi               = "10.1061/jmcee7.mteng-19982",
+      year              = "2025",
+      journal           = "Journal of Materials in Civil Engineering",
+      volume            = "37",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. Aydin, “Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing”, <i>Journal of Materials in Civil Engineering</i>, vol. 37, no. 10, 2025, doi: 10.1061/jmcee7.mteng-19982.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Aydin, Tolga, Ilgin Sandalci, Eylül Mina Aydin, Burhan Kara, Ata Nikravan, Nilüfer Özyurt, Özkan Bebek, and Zeynep Başaran Bundur. “Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing”. <i>Journal of Materials in Civil Engineering</i> 37, no. 10 (2025). https://doi.org/10.1061/jmcee7.mteng-19982.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

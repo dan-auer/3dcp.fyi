@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shangjin Jiang, Yuntao Wang, Sudong Hua, Hongfei Yue, Yanan Zhang
+    - footer
+title: Jiang Shangjin, Wang Yuntao, Hua Sudong, Yue Hongfei, Zhang Yanan
 description:
 tags:
  - characteristic
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/14/15/6796/pdf?version=1722756738) Preparation and Performance Characterization of Low-Density 3D Printed Expanded Perlite-Foam-Concrete ([2024-08](date/2024/08))
-<a href="https://doi.org/10.3390/app14156796" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app14156796</a>
+#Preparation and Performance Characterization of Low-Density 3D Printed Expanded Perlite-Foam-Concrete ([2024-08](date/2024/08))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/14/15/6796/pdf?version=1722756738) <a href="https://doi.org/10.3390/app14156796" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14156796" target="_blank">10.3390/app14156796</a>
 
--------------------------
+<a href="../../../author/jiang_shangjin"><b>Jiang</b>&nbsp;Shangjin</a></span>, <a href="../../../author/wang_yuntao"><b>Wang</b>&nbsp;Yuntao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span>, <a href="../../../author/yue_hongfei"><b>Yue</b>&nbsp;Hongfei</a></span>, <a href="../../../author/zhang_yanan"><b>Zhang</b>&nbsp;Yanan</a></span><br>
+Journal Article - Applied Sciences, Vol. 14, Iss. 15, No. 6796
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/jiang_shangjin"><b>Jiang</b> Shangjin</a>
-,     <a href="../../../author/wang_yuntao"><b>Wang</b> Yuntao</a>
-,     <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> <a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>
-,     <a href="../../../author/zhang_yanan"><b>Zhang</b> Yanan</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Applied Sciences, Vol. 14, Iss. 15, No. 6796
-
-:aca-blank:{ .lg .middle}
-    [`#characteristic`](keyword/characteristic)
-    [`#concrete`](keyword/concrete)
-    [`#density`](keyword/density)
-    [`#expansion`](keyword/expansion)
-    [`#foam`](keyword/foam)
-    [`#low`](keyword/low)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/density"><button class="btn">#density</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Preparation%20and%20Performance%20Characterization%20of%20Low-Density%203D%20Printed%20Expanded%20Perlite-Foam-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200723945&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4401322892" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/app14156796" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/app14156796?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Traditional lightweight foam concrete typically introduces a large number of voids into the concrete using surfactants to reduce density. However, in 3D printing, the instability of lightweight foam concrete can affect the workability of the slurry. Additionally, the lower strength of foam with more pores also reduces its mechanical performance. This study found that by replacing sand with expanded perlite in 3D-printed foam concrete, the stability of the foam is improved, enhancing the workability of the mixture and increasing the constructability of printed concrete. Furthermore, analyses of mechanical properties, porosity, and pore size distribution showed that at the same dry density, foam concrete with a higher expanded perlite replacement ratio exhibited higher compressive strength, with a maximum strength increase of up to 39%. Moreover, the introduction of expanded perlite optimized the pore distribution of the foam concrete, resulting in a more uniform material structure. The 3D-printed expanded perlite–foam concrete (3DPFC) prepared in this study provides new insights for the preparation of lightweight 3D-printed concrete, which is of significant importance for the sustainable development of the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
@@ -88,8 +65,39 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/gora_michal"><b>Góra</b> Michał</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../rudz_maro_huty_gora.2025.IoFAaSoPi3PFC/">Influence of Foaming Agents and Stabilizers on Porosity in 3D Printed Foamed Concrete</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{jian_wang_hua_yue.2024.PaPCoLD3PEPFC,
+      author            = "Shangjin Jiang and Yuntao Wang and Sudong Hua and Hongfei Yue and Yanan Zhang",
+      title             = "Preparation and Performance Characterization of Low-Density 3D Printed Expanded Perlite-Foam-Concrete",
+      doi               = "10.3390/app14156796",
+      year              = "2024",
+      journal           = "Applied Sciences",
+      volume            = "14",
+      number            = "15",
+      pages             = "6796",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Jiang, Y. Wang, S. Hua, H. Yue and Y. Zhang, “Preparation and Performance Characterization of Low-Density 3D Printed Expanded Perlite-Foam-Concrete”, <i>Applied Sciences</i>, vol. 14, no. 15, p. 6796, 2024, doi: 10.3390/app14156796.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Jiang, Shangjin, Yuntao Wang, Sudong Hua, Hongfei Yue, and Yanan Zhang. “Preparation and Performance Characterization of Low-Density 3D Printed Expanded Perlite-Foam-Concrete”. <i>Applied Sciences</i> 14, no. 15 (2024): 6796. https://doi.org/10.3390/app14156796.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

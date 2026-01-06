@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Keunhyoung Park, Ali Memari, Maryam Hojati, Aleksandra Radlińska, José Duarte, Shadi Nazarian
+    - footer
+title: Park Keunhyoung, Memari Ali, Hojati Maryam, Radlińska Aleksandra, Duarte José, Nazarian Shadi
 description:
 tags:
  - anisotropy
@@ -17,35 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/14/10/3175/pdf?version=1728131936) Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement ([2024-10](date/2024/10))
-<a href="https://doi.org/10.3390/buildings14103175" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings14103175</a>
+#Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement ([2024-10](date/2024/10))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/10/3175/pdf?version=1728131936) <a href="https://doi.org/10.3390/buildings14103175" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14103175" target="_blank">10.3390/buildings14103175</a>
 
--------------------------
+<a href="../../../author/park_keunhyoung"><b>Park</b>&nbsp;Keunhyoung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span>, <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b>&nbsp;Aleksandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span><br>
+Journal Article - Buildings, Vol. 14, Iss. 10
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/park_keunhyoung"><b>Park</b> Keunhyoung</a>
-,     <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>
-,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 14, Iss. 10, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#beam`](keyword/beam)
-    [`#behavior`](keyword/behavior)
-    [`#capability`](keyword/capability)
-    [`#concrete`](keyword/concrete)
-    [`#effect`](keyword/effect)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/capability"><button class="btn">#capability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Anisotropic%20Mechanical%20Behavior%20on%20Nominal%20Moment%20Capability%20of%203D%20Printed%20Concrete%20Beam%20with%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207406587&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4403192702" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings14103175" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings14103175?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, 3D-printed reinforced concrete beams were tested for flexural performance and compared with the analytical model based on the material test results. Two cementitious mixes (PSU and GCT) were designed for concrete printing and were mechanically tested and compared. Anisotropies in the compressive strength and modulus of elasticity of printed concrete were observed, applied to the analytical prediction of flexural bending behavior, and validated by actual test results. Significant differences between analytical predictions and experimental tests of the bending behaviors of the printed concrete beams were observed. Furthermore, higher compressive strengths and moduli of elasticity were observed when the loading direction was perpendicular to the printed layers or with the PSU mix. The effect of anisotropic mechanical properties on a reinforced beam was compared to the flexural bending tests for both mixes. The analytical model based on the material test results was compared to the flexural bending test results. The significant errors in the prediction of printed concrete’s structural performance, from 10% to 50%, suggest that factors other than reduced compressive strengths may influence the structural behaviors of printed concrete beams.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC/">Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
@@ -100,8 +75,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/pietras_daniel"><b>Pietras</b> Daniel</a>, <a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b> Wojciech</a>, <a href="../../../author/sadowski_tomasz"><b>Sadowski</b> Tomasz</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../piet_zbys_sado.2023.A3PMoCBFCCGCPFaaPNIL/">A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{park_mema_hoja_radl.2024.EoAMBoNMCo3PCBwR,
+      author            = "Keunhyoung Park and Ali M. Memari and Maryam Hojati and Aleksandra Radlińska and José Pinto Duarte and Shadi Nazarian",
+      title             = "Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement",
+      doi               = "10.3390/buildings14103175",
+      year              = "2024",
+      journal           = "Buildings",
+      volume            = "14",
+      number            = "10",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Park, A. M. Memari, M. Hojati, A. Radlińska, J. P. Duarte and S. Nazarian, “Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement”, <i>Buildings</i>, vol. 14, no. 10, 2024, doi: 10.3390/buildings14103175.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Park, Keunhyoung, Ali M. Memari, Maryam Hojati, Aleksandra Radlińska, José Pinto Duarte, and Shadi Nazarian. “Effects of Anisotropic Mechanical Behavior on Nominal Moment Capability of 3D Printed Concrete Beam with Reinforcement”. <i>Buildings</i> 14, no. 10 (2024). https://doi.org/10.3390/buildings14103175.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

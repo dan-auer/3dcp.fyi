@@ -8,7 +8,7 @@ search:
 
 # #minimum
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/alon_lola"><b>Alon</b> Lola</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../brad_gent_alon_kurt.2025.C3PMS/">Construction 3D Printing Material Selection:<br/>Minimizing Cost and Carbon Footprint of Residential Wall Assemblies</a></li>
   <li><a href="../../../author/yerikania_utami"><b>Yerikania</b> Utami</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/poh_hien_leong"><b>Poh</b> Leong</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yeri_du_poh.2025.ACEIoABoHCM3PC/">A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete</a></li>
   <li><a href="../../../author/yu_kun-hao"><b>Yu</b> Kun-Hao</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/nah_hee_so"><b>Nah</b> So</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yu_teng_nah_chai.2025.3CPoTPMSfECCaS/">3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage</a></li>

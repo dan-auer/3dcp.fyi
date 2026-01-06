@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Lukas Lachmayer, Virama Ekanayaka, André Hürkamp, Annika Raatz
+    - footer
+title: Lachmayer Lukas, Ekanayaka Virama, Hürkamp André, Raatz Annika
 description:
 tags:
  - additive
@@ -18,34 +19,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.procir.2021.11.101) Approach to an Optimized Printing Path for Additive Manufacturing in Construction Utilizing FEM Modeling ([2021-11](date/2021/11))
-<a href="https://doi.org/10.1016/j.procir.2021.11.101" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.procir.2021.11.101</a>
+#Approach to an Optimized Printing Path for Additive Manufacturing in Construction Utilizing FEM Modeling ([2021-11](date/2021/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procir.2021.11.101) <a href="https://doi.org/10.1016/j.procir.2021.11.101" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2021.11.101" target="_blank">10.1016/j.procir.2021.11.101</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3949-0310" title="ORCID: 0000-0003-3949-0310" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b>&nbsp;Virama</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6809-7118" title="ORCID: 0000-0001-6809-7118" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hurkamp_andre"><b>Hürkamp</b>&nbsp;André</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span><br>
+Journal Article - Procedia CIRP, Vol. 104, pp. 600-605
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> <a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b> Virama</a> <a href="https://orcid.org/0000-0003-3949-0310" title="ORCID: 0000-0003-3949-0310" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hurkamp_andre"><b>Hürkamp</b> André</a> <a href="https://orcid.org/0000-0001-6809-7118" title="ORCID: 0000-0001-6809-7118" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Procedia CIRP, Vol. 104, pp. 600-605
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#approach`](keyword/approach)
-    [`#construction`](keyword/construction)
-    [`#fem`](keyword/fem)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#model`](keyword/model)
-    [`#optimization`](keyword/optimization)
-    [`#path`](keyword/path)
-    [`#print`](keyword/print)
-    [`#util`](keyword/util)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Approach%20to%20an%20Optimized%20Printing%20Path%20for%20Additive%20Manufacturing%20in%20Construction%20Utilizing%20FEM%20Modeling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121624580&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3215131654" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.procir.2021.11.101" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.procir.2021.11.101?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Based on experiences with common additive manufacturing processes, the application in the construction industry opens up new design freedoms and cost-effective production of complex structures. However, the time-dependent yield strength of fresh concrete leads to deformations of underlying layers during the printing process, especially when using conventional path planning methods in combination with material extrusion or jetting methods. This paper presents a finite element model based approach to minimize the resulting deviations from the target geometry by iteratively adjusting the process parameters according to simulated deformations. To achieve more detailed modelling, the utilized finite element model is derived from the printing path instead of the CAD data.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "19 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -91,8 +67,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>
       <li><a href="../../../author/ozalp_abdulkadir"><b>Özalp</b> Abdulkadir</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../ozal_alde.2025.AIBDCPTfTDPCW/">Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls</a></li>
@@ -103,4 +79,34 @@ tags:
       <li><a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b> Virama</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a>, <a href="../../../author/hurkamp_andre"><b>Hürkamp</b> André</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ekan_lach_raat_hurk.2022.AtOtILWTiAMwCUFM/">Approach to Optimize the Inter-Layer Waiting Time in Additive Manufacturing with Concrete Utilizing FEM Modeling</a></li>
       <li><a href="../../../author/lanwer_jan-paul"><b>Lanwer</b> Jan-Paul</a>, <a href="../../../author/weigel_hendrik"><b>Weigel</b> Hendrik</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../lanw_weig_bagh_empe.2022.JPiA/">Jointing Principles in AMC:<br/>Design and Preparation of Dry Joints</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{lach_ekan_hurk_raat.2021.AtaOPPfAMiCUFM,
+      author            = "Lukas Lachmayer and Virama Ekanayaka and André Hürkamp and Annika Raatz",
+      title             = "Approach to an Optimized Printing Path for Additive Manufacturing in Construction Utilizing FEM Modeling",
+      doi               = "10.1016/j.procir.2021.11.101",
+      year              = "2021",
+      journal           = "Procedia CIRP",
+      volume            = "104",
+      pages             = "600--605",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">L. Lachmayer, V. Ekanayaka, A. Hürkamp and A. Raatz, “Approach to an Optimized Printing Path for Additive Manufacturing in Construction Utilizing FEM Modeling”, <i>Procedia CIRP</i>, vol. 104, pp. 600–605, 2021, doi: 10.1016/j.procir.2021.11.101.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Lachmayer, Lukas, Virama Ekanayaka, André Hürkamp, and Annika Raatz. “Approach to an Optimized Printing Path for Additive Manufacturing in Construction Utilizing FEM Modeling”. <i>Procedia CIRP</i> 104 (2021): 600–605. https://doi.org/10.1016/j.procir.2021.11.101.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

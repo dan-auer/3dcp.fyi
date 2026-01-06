@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Timothy Wangler, Robert Flatt, Nicolas Roussel, Arnaud Perrot, Mohammed Sonebi, Robert Wolfs, Freek Bos, Dirk Lowke, Niklas Freund, Dietmar Stephan, Ursula Pott, Lex Reiter, Steffen Grünewald, Wilson Silva, Geert Schutter
+    - footer
+title: Wangler Timothy, Flatt Robert, Roussel Nicolas, Perrot Arnaud, Sonebi Mohammed, Wolfs Robert, Bos Freek, Lowke Dirk, Freund Niklas, Stephan Dietmar, Pott Ursula, Reiter Lex, Grünewald Steffen, Silva Wilson, Schutter Geert
 description:
 tags:
  - base
@@ -16,43 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://repository.tudelft.nl/islandora/object/uuid%3A3e59a45b-9e5b-48fa-9bfc-c0336cca0112/datastream/OBJ/download) Printable Cement-Based Materials:<br/>:aca-blank: Fresh Properties Measurements and Control ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1007/978-3-030-90535-4_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-030-90535-4_4</a>
+#Printable Cement-Based Materials&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">Fresh Properties Measurements and Control</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3A3e59a45b-9e5b-48fa-9bfc-c0336cca0112/datastream/OBJ/download) <a href="https://doi.org/10.1007/978-3-030-90535-4_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-90535-4_4" target="_blank">10.1007/978-3-030-90535-4_4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/freund_niklas"><b>Freund</b>&nbsp;Niklas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pott_ursula"><b>Pott</b>&nbsp;Ursula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <a href="../../../author/grunewald_steffen"><b>Grünewald</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
+Contribution - Digital Fabrication with Cement-Based Materials, pp. 99-136
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> <a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> <a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/grunewald_steffen"><b>Grünewald</b> Steffen</a>
-,     <a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> <a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Digital Fabrication with Cement-Based Materials, pp. 99-136
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#control`](keyword/control)
-    [`#fresh`](keyword/fresh)
-    [`#material`](keyword/material)
-    [`#measurement`](keyword/measurement)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Printable%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123594412&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -67,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4206479173" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-030-90535-4_4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-030-90535-4_4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Digital fabrication with cementitious materials is a rapidly growing field of research in which the evolution of strength during the various processes, such as 3D printing, is the key controlling parameter. The strength evolves over multiple orders of magnitude during the process, and thus, it is essential to properly characterize the strength evolution in order to guarantee process success. This chapter summarizes the state of the art in these characterization methods for digital fabrication with fresh cementitious materials, reviewing well-known and more recently developed methods.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/craipeau_typhanie"><b>Craipeau</b> Typhanie</a>, <a href="../../../author/lecompte_thibault"><b>Lecompte</b> Thibault</a>, <a href="../../../author/toussaint_fabrice"><b>Toussaint</b> Fabrice</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../crai_leco_tous_perr.2019.EoCFIiSP/">Evolution of Concrete-Formwork Interface in Slipforming Process</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
@@ -95,8 +63,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a>, <a href="../../../author/chen_huapeng"><b>Chen</b> Huapeng</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../zhou_li_fan_chen.2013.RoSSFCPaMiOE/">Rheology of Semi-Solid Fresh Cement-Pastes and Mortars in Orifice-Extrusion</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "6 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/triantafyllidis_zafiris"><b>Triantafyllidis</b> Zafiris</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../raza_tria_anto_dill.2024.SPoFSPSSBCw3PPCF/">Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../demo_mesn_duco_caro.2023.AILSMoPMwaPSV/">Affordable In-Line Structuration Measurements of Printable Mortar with a Pocket-Shear-Vane</a></li>
@@ -104,4 +72,35 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../busw.2022.CDC2S/">CCR Digital Concrete 2022 SI:<br/>Editorial</a></li>
       <li><a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a>, <a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/corazza_kiara"><b>Corazza</b> Kiara</a>, <a href="../../../author/fensterseifer_emilia"><b>Fensterseifer</b> Emilia</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../mato_zat_cora_fens.2022.EoTNPotFPo3PCM/">Effect of TiO2 Nano-Particles on the Fresh Performance of 3D Printed Cementitious Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{wang_flat_rous_perr.2022.PCBM,
+      author            = "Timothy Paul Wangler and Robert Johann Flatt and Nicolas Roussel and Arnaud Perrot and Mohammed Sonebi and Robert Johannes Maria Wolfs and Freek Paul Bos and Dirk Lowke and Niklas Freund and Dietmar Stephan and Ursula Pott and Lex Reiter and Steffen Grünewald and Wilson Ricardo Leal da Silva and Geert de Schutter",
+      title             = "Printable Cement-Based Materials: Fresh Properties Measurements and Control",
+      doi               = "10.1007/978-3-030-90535-4_4",
+      year              = "2022",
+      volume            = "36",
+      pages             = "99--136",
+      booktitle         = "Digital Fabrication with Cement-Based Materials",
+      editor            = "Nicolas Roussel and Dirk Lowke",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">T. P. Wangler, “Printable Cement-Based Materials: Fresh Properties Measurements and Control”, in <i>Digital Fabrication with Cement-Based Materials</i>,  2022, vol. 36, pp. 99–136. doi: 10.1007/978-3-030-90535-4_4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Wangler, Timothy Paul, Robert Johann Flatt, Nicolas Roussel, Arnaud Perrot, Mohammed Sonebi, Robert Johannes Maria Wolfs, Freek Paul Bos, et al.. “Printable Cement-Based Materials: Fresh Properties Measurements and Control”. In <i>Digital Fabrication with Cement-Based Materials</i>, edited by Nicolas Roussel and Dirk Lowke, 36:99–136, 2022. https://doi.org/10.1007/978-3-030-90535-4_4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jiaxu Yao, Jie Luo, Minghong Qiu, Kohei Nagai
+    - footer
+title: Yao Jiaxu, Luo Jie, Qiu Minghong, Nagai Kohei
 description:
 tags:
  - anisotropy
@@ -17,33 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2025.142214) Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1016/j.conbuildmat.2025.142214" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2025.142214</a>
+#Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM ([2025-06](date/2025/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.142214) <a href="https://doi.org/10.1016/j.conbuildmat.2025.142214" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142214" target="_blank">10.1016/j.conbuildmat.2025.142214</a>
 
--------------------------
+<a href="../../../author/yao_jiaxu"><b>Yao</b>&nbsp;Jiaxu</a></span>, <a href="../../../author/luo_jie"><b>Luo</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qiu_minghong"><b>Qiu</b>&nbsp;Minghong</a></span>, <a href="../../../author/nagai_kohei"><b>Nagai</b>&nbsp;Kohei</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 489, No. 142214
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yao_jiaxu"><b>Yao</b> Jiaxu</a>
-,     <a href="../../../author/luo_jie"><b>Luo</b> Jie</a>
-,     <a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a> <a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/nagai_kohei"><b>Nagai</b> Kohei</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 489, No. 142214
-
-:aca-blank:{ .lg .middle}
-    [`#anisotropy`](keyword/anisotropy)
-    [`#bar`](keyword/bar)
-    [`#behavior`](keyword/behavior)
-    [`#compression`](keyword/compression)
-    [`#concrete`](keyword/concrete)
-    [`#model`](keyword/model)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#steel`](keyword/steel)
-
-
--------------------------
+<a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mesoscale%20Modeling%20of%20Anisotropic%20Compressive%20Behavior%20and%20Pull-Out%20Performance%20of%203D%20Printed%20Concrete%20with%20Steel%20Bars%20Using%203D%20RBSM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007779365&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411194148" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2025.142214" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2025.142214?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the anisotropic compressive behavior and pull-out performance of 3D-printed concrete (3DPC) with a steel bar. The layer-by-layer deposition process used for 3DPC introduces a unique mesoscale structure consisting of interlayer interfaces, layer orientation, and adhesive transition zones characterized by high porosity. Numerical simulations implemented with a mesoscale 3D Rigid Body Spring Model (RBSM) were validated against experimental data, demonstrating the proposed model's ability to replicate the anisotropic behavior of 3DPC under various loading and pull-out conditions. For the compressive behavior of 3DPC, results show that specimens loaded parallel to the printing direction exhibit higher strength and bond performance, while those loaded perpendicular perform worse due to stress concentrations and weak adhesive transition zones. The pull-out tests further revealed that the bond strength of a steel bar embedded in 3DPC depends on orientation relative to the printed layers, with specimens aligned parallel to the printing direction outperforming those in the perpendicular direction due to reduced influence of interfacial weak zones. By integrating experimental validation and numerical simulations, this study offers insights into the role of mesoscale structure in determining the anisotropic behavior of 3DPC. This research provides a robust framework for predictive modeling and structural optimization of 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "36 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/mansouri_omar"><b>Mansouri</b> Omar</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../baz_aoua_lebl_mans.2020.MAoC/">Mechanical Assessment of Concrete:<br/>Steel Bonding in 3D Printed Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
@@ -106,7 +83,37 @@ tags:
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yao_luo_qiu_naga.2025.MMoACBaPOPo3PCwSBU3R,
+      author            = "Jiaxu Yao and Jie Luo and Minghong Qiu and Kohei Nagai",
+      title             = "Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM",
+      doi               = "10.1016/j.conbuildmat.2025.142214",
+      year              = "2025",
+      journal           = "Construction and Building Materials",
+      volume            = "489",
+      pages             = "142214",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. Yao, J. Luo, M. Qiu and K. Nagai, “Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM”, <i>Construction and Building Materials</i>, vol. 489, p. 142214, 2025, doi: 10.1016/j.conbuildmat.2025.142214.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yao, Jiaxu, Jie Luo, Minghong Qiu, and Kohei Nagai. “Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM”. <i>Construction and Building Materials</i> 489 (2025): 142214. https://doi.org/10.1016/j.conbuildmat.2025.142214.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

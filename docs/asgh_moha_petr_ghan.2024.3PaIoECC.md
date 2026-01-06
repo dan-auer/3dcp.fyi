@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Y. Asghari, S. Mohammadyan-Yasouj, M. Petrů, H. Ghandvar, S. Koloor
+    - footer
+title: Asghari Y., Mohammadyan-Yasouj S., Petrů M., Ghandvar H., Koloor S.
 description:
 tags:
  - cement
@@ -14,31 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cscm.2024.e03462) 3D Printing and Implementation of Engineered Cementitious Composites:<br/>:aca-blank: A Review ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1016/j.cscm.2024.e03462" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cscm.2024.e03462</a>
+#3D Printing and Implementation of Engineered Cementitious Composites&nbsp;([2024-07](date/2024/07))
+<div class="h1-like">A Review</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03462) <a href="https://doi.org/10.1016/j.cscm.2024.e03462" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03462" target="_blank">10.1016/j.cscm.2024.e03462</a>
 
--------------------------
+<a href="../../../author/asghari_y"><b>Asghari</b>&nbsp;Y.</a></span>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b>&nbsp;S.</a></span>, <a href="../../../author/petru_m"><b>Petrů</b>&nbsp;M.</a></span>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b>&nbsp;H.</a></span>, <a href="../../../author/koloor_s-r_s"><b>Koloor</b>&nbsp;S.</a></span><br>
+Journal Article - Case Studies in Construction Materials, No. e03462
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>
-,     <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>
-,     <a href="../../../author/petru_m"><b>Petrů</b> M.</a>
-,     <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a>
-,     <a href="../../../author/koloor_s-r_s"><b>Koloor</b> S.</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Case Studies in Construction Materials, No. e03462
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#composite`](keyword/composite)
-    [`#engineered`](keyword/engineered)
-    [`#implementation`](keyword/implementation)
-    [`#print`](keyword/print)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20and%20Implementation%20of%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198002582&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -53,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400105376" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cscm.2024.e03462" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cscm.2024.e03462?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     While 3D printing of concrete (3DCP) has gained increasing interest in the construction industry, steel reinforcement remains a significant obstacle to 3D printing (3DP) construction. To address this concern, Engineered Cementitious Composites (ECC), also recognized as Strain-Hardening Cementitious Composites (SHCC), can provide structural performance and integrity, safety, durability, and strength without steel reinforcement. The article reviews scientific works on 3DCP using ECC and proposes further investigations to lead to better development. As a result, generally, Poly-Ethylene (PE) fibers are used more frequently because of their strength. Mix design parameters have been extensively examined in relation to fresh ECC rheological characteristics. Due to the printing process, fiber orientation may affect ultimate tensile strain. As compared to casted ones with random fiber orientation, fiber orientation aligned with tensile stress resulted in a higher ultimate tensile strain. Additionally, research showed that ECC including up to 2% fiber can be mixed, extruded, and built. Morovere, results highlighted the comparison between printed ECC containing PVA and PE fibers, the influence of mix design parameters on extrudability, and the impact of fiber length and volume fraction on strain-hardening properties. The text also covers the effects of fiber orientation and nozzle distance on tensile performance and ultimate tensile strain, as well as the anisotropic properties of 3DP-ECC. As well as this, there are some areas that require further research, such as durability and response to a variety of loading conditions, such as seismic loading.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "83 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dale_ryan"><b>Dale</b> Ryan</a>, <a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b> Afsaneh</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../asla_dale_hami_vali.2022.MaSPo3PRECC/">Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
@@ -148,8 +128,8 @@ tags:
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/ruan_wenqiang"><b>Ruan</b> Wenqiang</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC/">Effects of Composite Cementation System on Rheological and Working Performances of Fresh 3D Printable Engineered Cementitious Composites</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tull.2025.LDi3PECC/">Latest Developments in 3D-Printed Engineered Cementitious Composites:<br/>Technologies, Prospects, and Challenges</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
       <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>
@@ -161,4 +141,33 @@ tags:
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../du_sun_qian.2025.IPaOoPCPoBI3PSHCCLS/">In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{asgh_moha_petr_ghan.2024.3PaIoECC,
+      author            = "Y. Asghari and S. E. Mohammadyan-Yasouj and M. Petrů and H. Ghandvar and S. S. R. Koloor",
+      title             = "3D Printing and Implementation of Engineered Cementitious Composites: A Review",
+      doi               = "10.1016/j.cscm.2024.e03462",
+      year              = "2024",
+      journal           = "Case Studies in Construction Materials",
+      pages             = "e03462",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Y. Asghari, S. E. Mohammadyan-Yasouj, M. Petrů, H. Ghandvar and S. S. R. Koloor, “3D Printing and Implementation of Engineered Cementitious Composites: A Review”, <i>Case Studies in Construction Materials</i>, p. e03462, 2024, doi: 10.1016/j.cscm.2024.e03462.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Asghari, Y., S. E. Mohammadyan-Yasouj, M. Petrů, H. Ghandvar, and S. S. R. Koloor. “3D Printing and Implementation of Engineered Cementitious Composites: A Review”. <i>Case Studies in Construction Materials</i>, 2024, e03462. https://doi.org/10.1016/j.cscm.2024.e03462.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

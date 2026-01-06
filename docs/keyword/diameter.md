@@ -8,7 +8,7 @@ search:
 
 # #diameter
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
   <li><a href="../../../author/muy_yeakleang"><b>Muy</b> Yeakleang</a>, <a href="../../../author/courard_luc"><b>Courard</b> Luc</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muy_cour_bult_remo.2024.IoNDotAoCS/">Influence of Nozzle-Diameter on the Anisotropy of Compressive Strength:<br/>Measured on 3D Printing Concrete Designed with Recycled Fine Aggregates</a></li>
   <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/abbas_nadeem"><b>Abbas</b> Nadeem</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/sabi_ehab"><b>Sabi</b> Ehab</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shah_abba_akba_sabi.2024.IoPSaNDotFAi3PUHPC/">Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete</a></li>

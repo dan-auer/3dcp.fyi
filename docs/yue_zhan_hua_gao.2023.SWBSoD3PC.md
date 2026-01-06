@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hongfei Yue, Zhuxian Zhang, Sudong Hua, Yanan Gao, Sheng Cui, Yuntao Wang, Zheng Zhang, Huajun Zhu
+    - footer
+title: Yue Hongfei, Zhang Zhuxian, Hua Sudong, Gao Yanan, Cui Sheng, Wang Yuntao, Zhang Zheng, Zhu Huajun
 description:
 tags:
  - activation
@@ -21,41 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Solid Waste-Based Set-on-Demand 3D Printed Concrete:<br/>:aca-blank: Active Rheological-Control of Cement-Based Magneto-Rheological Fluids ([2023-09](date/2023/09))
-<a href="https://doi.org/10.1016/j.conbuildmat.2023.133269" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2023.133269</a>
+#Solid Waste-Based Set-on-Demand 3D Printed Concrete&nbsp;([2023-09](date/2023/09))
+<div class="h1-like">Active Rheological-Control of Cement-Based Magneto-Rheological Fluids</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133269" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133269" target="_blank">10.1016/j.conbuildmat.2023.133269</a>
 
--------------------------
+<a href="../../../author/yue_hongfei"><b>Yue</b>&nbsp;Hongfei</a></span>, <a href="../../../author/zhang_zhuxian"><b>Zhang</b>&nbsp;Zhuxian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span>, <a href="../../../author/gao_yanan"><b>Gao</b>&nbsp;Yanan</a></span>, <a href="../../../author/cui_sheng"><b>Cui</b>&nbsp;Sheng</a></span>, <a href="../../../author/wang_yuntao"><b>Wang</b>&nbsp;Yuntao</a></span>, <a href="../../../author/zhang_zheng"><b>Zhang</b>&nbsp;Zheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4888-4258" title="ORCID: 0000-0003-4888-4258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_huajun"><b>Zhu</b>&nbsp;Huajun</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 404, No. 133269
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>
-,     <a href="../../../author/zhang_zhuxian"><b>Zhang</b> Zhuxian</a>
-,     <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> <a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a>
-,     <a href="../../../author/cui_sheng"><b>Cui</b> Sheng</a>
-,     <a href="../../../author/wang_yuntao"><b>Wang</b> Yuntao</a>
-,     <a href="../../../author/zhang_zheng"><b>Zhang</b> Zheng</a>
-,     <a href="../../../author/zhu_huajun"><b>Zhu</b> Huajun</a> <a href="https://orcid.org/0000-0003-4888-4258" title="ORCID: 0000-0003-4888-4258" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 404, No. 133269
-
-:aca-blank:{ .lg .middle}
-    [`#activation`](keyword/activation)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#control`](keyword/control)
-    [`#demand`](keyword/demand)
-    [`#fluid`](keyword/fluid)
-    [`#magnetism`](keyword/magnetism)
-    [`#print`](keyword/print)
-    [`#rheology`](keyword/rheology)
-    [`#setting`](keyword/setting)
-    [`#solid`](keyword/solid)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/magnetism"><button class="btn">#magnetism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Solid%20Waste-Based%20Set-on-Demand%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170644027&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -70,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4386616775" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2023.133269" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2023.133269?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Interventions at the print head, such as magnetic fields, are expected to efficiently improve the buildability of 3D printed concrete (3DPC) without compromising flowability. A cement-based magneto-rheological (MR) fluid material has been developed using electric arc furnace slag powder (EAFSP). This paper found that the storage modulus and dynamic yield stress of cement-based MR fluids dramatically increased with the magnetic field strength and EAFSP concentration. According to the linear fitting results, the rheological properties correlate with the additional energy the magnetic moment obtains whenever a constant magnetic field is applied. Furthermore, after a time-limited magnetic sweep, the 3DPC buildability was improved, probably due to the presence of residual chain-like structures. This research assumes significance for the application of set-on-demand 3DPC.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_figu_yalc_copu.2019.TEoVMAotEoLaCCBCMfEB3CP/">The Effect of Viscosity-Modifying Admixture on the Extrudability of Limestone and Calcined-Clay-Based Cementitious Material for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -111,8 +81,8 @@ tags:
       <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/yao_xiao"><b>Yao</b> Xiao</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yue_hua_qian_yao.2022.IoAoSEAFSaFAiSF3PC/">Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "9 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
       <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sun_zeng_zhug_liu.2025.3PFGCP/">3D Printed Functionally Graded Concrete Plates:<br/>Concept and Bending Tests</a></li>
       <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a></li>
@@ -123,4 +93,34 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/mahmoudi_matineh"><b>Mahmoudi</b> Matineh</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wang_tao_das_mahm.2024.A2SiDC/">Aluminate 2K Systems in Digital Concrete:<br/>Process, Design, Chemistry, and Outlook</a></li>
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yue_zhan_hua_gao.2023.SWBSoD3PC,
+      author            = "Hongfei Yue and Zhuxian Zhang and Sudong Hua and Yanan Gao and Sheng Cui and Yuntao Wang and Zheng Zhang and Huajun Zhu",
+      title             = "Solid Waste-Based Set-on-Demand 3D Printed Concrete: Active Rheological-Control of Cement-Based Magneto-Rheological Fluids",
+      doi               = "10.1016/j.conbuildmat.2023.133269",
+      year              = "2023",
+      journal           = "Construction and Building Materials",
+      volume            = "404",
+      pages             = "133269",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Yue, “Solid Waste-Based Set-on-Demand 3D Printed Concrete: Active Rheological-Control of Cement-Based Magneto-Rheological Fluids”, <i>Construction and Building Materials</i>, vol. 404, p. 133269, 2023, doi: 10.1016/j.conbuildmat.2023.133269.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yue, Hongfei, Zhuxian Zhang, Sudong Hua, Yanan Gao, Sheng Cui, Yuntao Wang, Zheng Zhang, and Huajun Zhu. “Solid Waste-Based Set-on-Demand 3D Printed Concrete: Active Rheological-Control of Cement-Based Magneto-Rheological Fluids”. <i>Construction and Building Materials</i> 404 (2023): 133269. https://doi.org/10.1016/j.conbuildmat.2023.133269.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

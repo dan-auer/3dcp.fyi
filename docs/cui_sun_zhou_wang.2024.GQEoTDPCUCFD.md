@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Weijiu Cui, Haijun Sun, Jiangang Zhou, Sheng Wang, Xinyu Shi, Yaxin Tao
+    - footer
+title: Cui Weijiu, Sun Haijun, Zhou Jiangang, Wang Sheng, Shi Xinyu, Tao Yaxin
 description:
 tags:
  - computer
@@ -18,36 +19,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Geometric Quality Evaluation of Three-Dimensional Printable Concrete Using Computational Fluid Dynamics ([2024-07](date/2024/07))
-<a href="https://doi.org/10.1007/s11709-024-1080-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s11709-024-1080-4</a>
+#Geometric Quality Evaluation of Three-Dimensional Printable Concrete Using Computational Fluid Dynamics ([2024-07](date/2024/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-024-1080-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1080-4" target="_blank">10.1007/s11709-024-1080-4</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <a href="../../../author/sun_haijun"><b>Sun</b>&nbsp;Haijun</a></span>, <a href="../../../author/zhou_jiangang"><b>Zhou</b>&nbsp;Jiangang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6363-9413" title="ORCID: 0000-0002-6363-9413" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_sheng"><b>Wang</b>&nbsp;Sheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
+Journal Article - Frontiers of Structural and Civil Engineering
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> <a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/sun_haijun"><b>Sun</b> Haijun</a>
-,     <a href="../../../author/zhou_jiangang"><b>Zhou</b> Jiangang</a>
-,     <a href="../../../author/wang_sheng"><b>Wang</b> Sheng</a> <a href="https://orcid.org/0000-0002-6363-9413" title="ORCID: 0000-0002-6363-9413" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> <a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Frontiers of Structural and Civil Engineering, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#computer`](keyword/computer)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#dynamic`](keyword/dynamic)
-    [`#evaluation`](keyword/evaluation)
-    [`#fluid`](keyword/fluid)
-    [`#geometry`](keyword/geometry)
-    [`#printability`](keyword/printability)
-    [`#quality`](keyword/quality)
-    [`#three`](keyword/three)
-
-
--------------------------
+<a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Geometric%20Quality%20Evaluation%20of%20Three-Dimensional%20Printable%20Concrete%20Using%20Computational%20Fluid%20Dynamics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197415927&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4400298561" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s11709-024-1080-4" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s11709-024-1080-4?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The importance of geometrical control of three dimensional (3D) printable concrete without the support of formwork is widely acknowledged. In this study, a numerical model based on computational fluid dynamics was developed to evaluate the geometrical quality of a 3D printed layer. The numerical results were compared, using image analysis, with physical cross-sectional sawn samples. The influence of printing parameters (printing speed, nozzle height, and nozzle diameter) and the rheological behavior of printed materials (yield stress), on the geometrical quality of one printed layer was investigated. In addition, the yield zone of the printed layer was analyzed, giving insights on the critical factors for geometrical control in 3D concrete printing. Results indicated that the developed model can precisely describe the extrusion process, as well as the cross-sectional quality.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bhat_sant.2020.EBo3PCbSoAAoS/">Enhancing Buildability of 3D Printable Concrete by Spraying of Accelerating-Admixture on Surface</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -120,9 +94,37 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
       <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{cui_sun_zhou_wang.2024.GQEoTDPCUCFD,
+      author            = "Weijiu Cui and Haijun Sun and Jiangang Zhou and Sheng Wang and Xinyu Shi and Yaxin Tao",
+      title             = "Geometric Quality Evaluation of Three-Dimensional Printable Concrete Using Computational Fluid Dynamics",
+      doi               = "10.1007/s11709-024-1080-4",
+      year              = "2024",
+      journal           = "Frontiers of Structural and Civil Engineering",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">W. Cui, H. Sun, J. Zhou, S. Wang, X. Shi and Y. Tao, “Geometric Quality Evaluation of Three-Dimensional Printable Concrete Using Computational Fluid Dynamics”, <i>Frontiers of Structural and Civil Engineering</i>, 2024, doi: 10.1007/s11709-024-1080-4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Cui, Weijiu, Haijun Sun, Jiangang Zhou, Sheng Wang, Xinyu Shi, and Yaxin Tao. “Geometric Quality Evaluation of Three-Dimensional Printable Concrete Using Computational Fluid Dynamics”. <i>Frontiers of Structural and Civil Engineering</i>, 2024. https://doi.org/10.1007/s11709-024-1080-4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

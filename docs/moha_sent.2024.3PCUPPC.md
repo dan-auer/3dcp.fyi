@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ibrahim Mohamed, Kumar Senthil
+    - footer
+title: Mohamed Ibrahim, Senthil Kumar
 description:
 tags:
  - ash
@@ -13,27 +14,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/59/e3sconf_icsmee2024_01019.pdf) 3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>:aca-blank: Fly-Ash-Based ([2024-05](date/2024/05))
-<a href="https://doi.org/10.1051/e3sconf/202452901019" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1051/e3sconf/202452901019</a>
+#3D Printed Concrete Using Portland-Pozzolana-Cement&nbsp;([2024-05](date/2024/05))
+<div class="h1-like">Fly-Ash-Based</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/59/e3sconf_icsmee2024_01019.pdf) <a href="https://doi.org/10.1051/e3sconf/202452901019" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202452901019" target="_blank">10.1051/e3sconf/202452901019</a>
 
--------------------------
+<a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b>&nbsp;Ibrahim</a></span>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b>&nbsp;Kumar</a></span><br>
+Journal Article - E3S Web of Conferences, Vol. 529, No. 01019
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>
-,     <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - E3S Web of Conferences, Vol. 529, No. 01019
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#base`](keyword/base)
-    [`#cement`](keyword/cement)
-    [`#concrete`](keyword/concrete)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Using%20Portland-Pozzolana-Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195405814&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -48,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4399130926" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1051/e3sconf/202452901019" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1051/e3sconf/202452901019?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This project investigates the feasibility and properties of 3D printed concrete using Portland Pozzolana Cement (PPC). The increasing demand for construction materials, particularly ordinary Portland cement (OPC), has led to a surge in its usage. Consequently, Portland Pozzolana Cement (PPC) has gained popularity as an alternative due to its advantageous properties. PPC, characterized by its enhanced durability and sustainability, has become a preferred choice in the construction industry, offering versatility and reliability in various construction applications. The main focus of the project is economical printing of concrete structures through 3D printing technology. With sustainability and cost-effectiveness as paramount considerations, the study delves into refining the mix proportions ideal for 3D printing applications. By harnessing the potential of Portland Pozzolana Cement (PPC) with a 35% fly ash content, the aim is to strike a balance between structural integrity, workability, and affordability. It examines various key properties essential for successful 3D printing, such as extrudability, printability, flowability, buildability, setting time and thixotropic open time. Furthermore, the project examines the strength of 3D printed concrete mixes. Through testing and studying these properties, the research aims to contribute to the advancement of eco-friendly and efficient construction practices by using 3D printing and innovative cementitious materials. The findings from this study provide valuable insights to enhance the efficiency of 3D printing and the strength of printed concrete structures, including beams, walls, and other structural elements. By implementing these ideas, potential advancements in construction methodologies could be realized, facilitating more robust and cost-effective building practices. This research aims to contribute to the ongoing evolution of 3D printing technology in construction, ultimately fostering innovation and sustainability in the built environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "16 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC/">Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites</a></li>
@@ -69,7 +53,6 @@ tags:
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../kuma_dey_pand_muth.2024.EaNEoMDCaFBoTDPC/">Experimental and Numerical Evaluation of Multi-Directional Compressive and Flexure Behavior of Three-Dimensional Printed Concrete</a></li>
       <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_sent.2024.3PCUPPC/">3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>Fly-Ash-Based</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
@@ -77,10 +60,39 @@ tags:
       <li><a href="../../../author/zhu_ronghua"><b>Zhu</b> Ronghua</a>, <a href="../../../author/egbe_idala_king-james"><b>Egbe</b> King-James</a>, <a href="../../../author/salehi_hadi"><b>Salehi</b> Hadi</a>, <a href="../../../author/shi_zhongtian"><b>Shi</b> Zhongtian</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../zhu_egbe_sale_shi.2024.EF3PCwFAR/">Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements:<br/>Fabrication, Characterization and Machine Learning Prediction</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "2 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/nieswiec_martyna"><b>Nieświec</b> Martyna</a>, <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../nies_chaj_savi.2025.EoGCSotFPo3PCC/">Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>
-      <li><a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_sent.2024.3PCUPPC/">3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>Fly-Ash-Based</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{moha_sent.2024.3PCUPPC,
+      author            = "Ibrahim A. Mohamed and Kumar N. Senthil",
+      title             = "3D Printed Concrete Using Portland-Pozzolana-Cement: Fly-Ash-Based",
+      doi               = "10.1051/e3sconf/202452901019",
+      year              = "2024",
+      journal           = "E3S Web of Conferences",
+      volume            = "529",
+      pages             = "01019",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">I. A. Mohamed  and K. N. Senthil, “3D Printed Concrete Using Portland-Pozzolana-Cement: Fly-Ash-Based”, <i>E3S Web of Conferences</i>, vol. 529, p. 01019, 2024, doi: 10.1051/e3sconf/202452901019.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Mohamed, Ibrahim A., and Kumar N. Senthil. “3D Printed Concrete Using Portland-Pozzolana-Cement: Fly-Ash-Based”. <i>E3S Web of Conferences</i> 529 (2024): 01019. https://doi.org/10.1051/e3sconf/202452901019.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

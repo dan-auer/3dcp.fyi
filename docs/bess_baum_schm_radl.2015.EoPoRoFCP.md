@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Hela Bessaies-Bey, Robert Baumann, Marc Schmitz, Michael Radler, Nicolas Roussel
+    - footer
+title: Bessaies-Bey Hela, Baumann Robert, Schmitz Marc, Radler Michael, Roussel Nicolas
 description:
 tags:
  - cement
@@ -13,30 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes ([2015-05](date/2015/05))
-<a href="https://doi.org/10.1016/j.cemconres.2015.05.012" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2015.05.012</a>
+#Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes ([2015-05](date/2015/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2015.05.012" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2015.05.012" target="_blank">10.1016/j.cemconres.2015.05.012</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b>&nbsp;Hela</a></span>, <a href="../../../author/baumann_robert"><b>Baumann</b>&nbsp;Robert</a></span>, <a href="../../../author/schmitz_marc"><b>Schmitz</b>&nbsp;Marc</a></span>, <a href="../../../author/radler_michael"><b>Radler</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 76, pp. 98-106
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a> <a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/baumann_robert"><b>Baumann</b> Robert</a>
-,     <a href="../../../author/schmitz_marc"><b>Schmitz</b> Marc</a>
-,     <a href="../../../author/radler_michael"><b>Radler</b> Michael</a>
-,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 76, pp. 98-106
-
-:aca-blank:{ .lg .middle}
-    [`#cement`](keyword/cement)
-    [`#effect`](keyword/effect)
-    [`#fresh`](keyword/fresh)
-    [`#paste`](keyword/paste)
-    [`#rheology`](keyword/rheology)
-
-
--------------------------
+<a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Polyacrylamide%20on%20Rheology%20of%20Fresh%20Cement-Pastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84936070863&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,20 +35,16 @@ tags:
 <a href="https://inciteful.xyz/p/W1646538273" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2015.05.012" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2015.05.012?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this paper, we study the effects of polyacrylamide (PAM) on both aqueous solutions and fresh cement pastes. Our solution viscosity and hydrodynamic radii measurements in various solutions suggest that calcium ions lead to a cross-linking of anionic PAM and to the formation of PAM micro-gels. Our adsorption measurements show that themajority ofthese micro-gels adsorb on cement grains whereas our rheological measurements on cement pastes suggest that these micro-gels are able to adsorb simultaneously on several cement grains and bridge them increasing therefore the macroscopic yield stress of the suspension. Finally, we show that the contribution of PAM to yield stress is very sensitive to shear history, as the paste structure seems to progressively lose its ability to rebuild with each shearing or re-mixing cycle. Wesuggest that this feature could find its origin in the progressive flattening of the micro-gels at the surface of the cement grains.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "0 References"
+    <ol class = "bordered-list">
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "16 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_hualong"><b>Li</b> Hualong</a>, <a href="../../../author/shi_ye"><b>Shi</b> Ye</a>, <a href="../../../author/rong_hui"><b>Rong</b> Hui</a>, <a href="../../../author/dai_kaichao"><b>Dai</b> Kaichao</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_shi_rong_dai.2025.EoAotPo3PUHPC/">Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_shuai"><b>Huang</b> Shuai</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhon_huan_liu_wang.2024.CA3PMfMSV/">CO2-Absorbing 3D Printable Mixtures for Magnesium-Slag Valorization</a></li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
@@ -82,4 +62,34 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{bess_baum_schm_radl.2015.EoPoRoFCP,
+      author            = "Hela Bessaies-Bey and Robert Baumann and Marc Schmitz and Michael Radler and Nicolas Roussel",
+      title             = "Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes",
+      doi               = "10.1016/j.cemconres.2015.05.012",
+      year              = "2015",
+      journal           = "Cement and Concrete Research",
+      volume            = "76",
+      pages             = "98--106",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">H. Bessaies-Bey, R. Baumann, M. Schmitz, M. Radler and N. Roussel, “Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes”, <i>Cement and Concrete Research</i>, vol. 76, pp. 98–106, 2015, doi: 10.1016/j.cemconres.2015.05.012.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bessaies-Bey, Hela, Robert Baumann, Marc Schmitz, Michael Radler, and Nicolas Roussel. “Effect of Polyacrylamide on Rheology of Fresh Cement-Pastes”. <i>Cement and Concrete Research</i> 76 (2015): 98–106. https://doi.org/10.1016/j.cemconres.2015.05.012.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

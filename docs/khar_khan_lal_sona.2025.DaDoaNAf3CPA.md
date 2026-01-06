@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Karan Khare, Subim Khan, Dhirajkumar Lal, Pavankumar Sonawane, Ajay Pingale
+    - footer
+title: Khare Karan, Khan Subim, Lal Dhirajkumar, Sonawane Pavankumar, Pingale Ajay
 description:
 tags:
  - application
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications ([2025-07](date/2025/07))
-<a href="https://doi.org/10.1088/2631-8695/adee78" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1088/2631-8695/adee78</a>
+#Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications ([2025-07](date/2025/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1088/2631-8695/adee78" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2631-8695/adee78" target="_blank">10.1088/2631-8695/adee78</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-3775-8037" title="ORCID: 0009-0002-3775-8037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khare_bhaskar_karan"><b>Khare</b>&nbsp;Karan</a></span>, <a href="../../../author/khan_n_subim"><b>Khan</b>&nbsp;Subim</a></span>, <a href="../../../author/lal_s_dhirajkumar"><b>Lal</b>&nbsp;Dhirajkumar</a></span>, <a href="../../../author/sonawane_r_pavankumar"><b>Sonawane</b>&nbsp;Pavankumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7576-3120" title="ORCID: 0000-0002-7576-3120" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pingale_d_ajay"><b>Pingale</b>&nbsp;Ajay</a></span><br>
+Journal Article - Engineering Research Express
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a> <a href="https://orcid.org/0009-0002-3775-8037" title="ORCID: 0009-0002-3775-8037" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/khan_n_subim"><b>Khan</b> Subim</a>
-,     <a href="../../../author/lal_s_dhirajkumar"><b>Lal</b> Dhirajkumar</a>
-,     <a href="../../../author/sonawane_r_pavankumar"><b>Sonawane</b> Pavankumar</a>
-,     <a href="../../../author/pingale_d_ajay"><b>Pingale</b> Ajay</a> <a href="https://orcid.org/0000-0002-7576-3120" title="ORCID: 0000-0002-7576-3120" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Engineering Research Express, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#application`](keyword/application)
-    [`#assembly`](keyword/assembly)
-    [`#concrete`](keyword/concrete)
-    [`#design`](keyword/design)
-    [`#development`](keyword/development)
-    [`#nozzle`](keyword/nozzle)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Development%20of%20a%20Nozzle%20Assembly%20for%203D%20Concrete%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011588760&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4412183727" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1088/2631-8695/adee78" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1088/2631-8695/adee78?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study focuses on the design and development of a nozzle for 3D concrete printing, with the goal of achieving smooth concrete flow, uniform layer deposition, and better print quality. The nozzle was designed using CAD tools and its performance was studied through analytical calculations and computational fluid dynamics simulations to understand the flow behavior inside the nozzle. The velocity profile revealed that concrete enters the nozzle at a high speed of 19.89 m/s, reduces to 0.58 m/s in the wider middle section, and then increases again to 18.33 m/s at the outlet. A pressure drop of -398.2 was noted from the inlet to the middle, which supports controlled re-acceleration of flow. These changes in velocity and pressure help reduce the risk of blockage and support proper extrusion during printing. The results show that the shape and internal design of the nozzle play a key role in controlling concrete flow, improving layer bonding, and maintaining structural stability. This work offers a useful design approach for enhancing the performance and reliability of 3D concrete printing in construction applications.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
@@ -88,7 +66,35 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{khar_khan_lal_sona.2025.DaDoaNAf3CPA,
+      author            = "Karan Bhaskar Khare and Subim N. Khan and Dhirajkumar S. Lal and Pavankumar R. Sonawane and Ajay D. Pingale",
+      title             = "Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications",
+      doi               = "10.1088/2631-8695/adee78",
+      year              = "2025",
+      journal           = "Engineering Research Express",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. B. Khare, S. N. Khan, D. S. Lal, P. R. Sonawane and A. D. Pingale, “Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications”, <i>Engineering Research Express</i>, 2025, doi: 10.1088/2631-8695/adee78.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Khare, Karan Bhaskar, Subim N. Khan, Dhirajkumar S. Lal, Pavankumar R. Sonawane, and Ajay D. Pingale. “Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications”. <i>Engineering Research Express</i>, 2025. https://doi.org/10.1088/2631-8695/adee78.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

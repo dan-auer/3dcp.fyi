@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Jie Xu, Richard Buswell, Peter Kinnell, Istvan Biro, John Hodgson, Nikolaos Konstantinidis, Lieyun Ding
+    - footer
+title: Xu Jie, Buswell Richard, Kinnell Peter, Biro Istvan, Hodgson John, Konstantinidis Nikolaos, Ding Lieyun
 description:
 tags:
  - base
@@ -17,36 +18,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2020.103233) Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing ([2020-06](date/2020/06))
-<a href="https://doi.org/10.1016/j.autcon.2020.103233" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2020.103233</a>
+#Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing ([2020-06](date/2020/06))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2020.103233) <a href="https://doi.org/10.1016/j.autcon.2020.103233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2020.103233" target="_blank">10.1016/j.autcon.2020.103233</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <a href="../../../author/kinnell_peter"><b>Kinnell</b>&nbsp;Peter</a></span>, <a href="../../../author/biro_istvan"><b>Biro</b>&nbsp;Istvan</a></span>, <a href="../../../author/hodgson_john"><b>Hodgson</b>&nbsp;John</a></span>, <a href="../../../author/konstantinidis_nikolaos"><b>Konstantinidis</b>&nbsp;Nikolaos</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_lieyun"><b>Ding</b>&nbsp;Lieyun</a></span><br>
+Journal Article - Automation in Construction, Vol. 117
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>
-,     <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a>
-,     <a href="../../../author/hodgson_john"><b>Hodgson</b> John</a>
-,     <a href="../../../author/konstantinidis_nikolaos"><b>Konstantinidis</b> Nikolaos</a>
-,     <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a> <a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 117, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#concrete`](keyword/concrete)
-    [`#dimension`](keyword/dimension)
-    [`#geometry`](keyword/geometry)
-    [`#inspection`](keyword/inspection)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#precision`](keyword/precision)
-    [`#print`](keyword/print)
-    [`#tolerance`](keyword/tolerance)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/precision"><button class="btn">#precision</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tolerance"><button class="btn">#tolerance</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Inspecting%20Manufacturing%20Precision%20of%203D%20Printed%20Concrete%20Parts%20Based%20on%20Geometric%20Dimensioning%20and%20Tolerancing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085730944&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -61,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3019728132" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2020.103233" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2020.103233?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The additive manufacture of parts using extrusion-based techniques such as 3D Concrete Printing (3DCP) offers an alternative to traditional moulding processes. The precision to which the desired shape can be produced, however, is limited by the extrusion process and layer thickness, exacerbated by the deformation that occurs in the wet material during manufacture. Quantifying manufacturing precision is a critical part of defining process capability and quality control procedures, but this has yet to be explored for these technologies. To address this, this paper presents the problem of evaluating the geometrical precision of manufactured parts and then proposes an approach based on geometric dimensioning and tolerancing (GD&T), commonly used in manufacturing. This is then applied in a case study in order to demonstrate the application of the technique for understanding and defining process capability, to enable more effective design rules that lead to greater confidence in the viability of part designs, and to provide the reliable performance metrics necessary for process improvement and control. The work concludes that the outlook for such techniques is positive and that the application will be beneficial in the future development of quality control procedures for 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "20 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -93,8 +67,9 @@ tags:
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/cai_lixiong"><b>Cai</b> Lixiong</a>, <a href="../../../author/zhang_lichao"><b>Zhang</b> Lichao</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../xu_ding_cai_zhan.2019.VF3CPUaVSSN/">Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "47 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a>, <a href="../../../author/barton_kira"><b>Barton</b> Kira</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kamh_lin_wats_bart.2025.AFfPADi3CP/">A Framework for Process Anomaly Detection in 3D Concrete Printing</a></li>
       <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
       <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
@@ -142,4 +117,33 @@ tags:
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/widjaya_christian_david"><b>Widjaya</b> David</a>, <a href="../../../author/wibowo_ricardo-koentjoro_alexander"><b>Wibowo</b> Alexander</a>, <a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_widj_wibo_chan.2022.UCOaAtCtISToMi3CP/">Using Calcium Oxide and Accelerator to Control the Initial Setting-Time of Mortar in 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT,
+      author            = "Jie Jerry Xu and Richard A. Buswell and Peter Kinnell and Istvan Biro and John Hodgson and Nikolaos Konstantinidis and Lieyun Ding",
+      title             = "Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing",
+      doi               = "10.1016/j.autcon.2020.103233",
+      year              = "2020",
+      journal           = "Automation in Construction",
+      volume            = "117",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">J. J. Xu, “Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing”, <i>Automation in Construction</i>, vol. 117, 2020, doi: 10.1016/j.autcon.2020.103233.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Xu, Jie Jerry, Richard A. Buswell, Peter Kinnell, Istvan Biro, John Hodgson, Nikolaos Konstantinidis, and Lieyun Ding. “Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing”. <i>Automation in Construction</i> 117 (2020). https://doi.org/10.1016/j.autcon.2020.103233.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

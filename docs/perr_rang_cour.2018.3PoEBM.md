@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Arnaud Perrot, Damien Rangeard, Eric Courteille
+    - footer
+title: Perrot Arnaud, Rangeard Damien, Courteille Eric
 description:
 tags:
  - aspects
@@ -14,29 +15,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://hal-univ-rennes1.archives-ouvertes.fr/hal-01833252/file/Perrrot_3D%20printing%20earth-based%20CBMreview.pdf) 3D Printing of Earth-Based Materials:<br/>:aca-blank: Processing Aspects ([2018-04](date/2018/04))
-<a href="https://doi.org/10.1016/j.conbuildmat.2018.04.017" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2018.04.017</a>
+#3D Printing of Earth-Based Materials&nbsp;([2018-04](date/2018/04))
+<div class="h1-like">Processing Aspects</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://hal-univ-rennes1.archives-ouvertes.fr/hal-01833252/file/Perrrot_3D%20printing%20earth-based%20CBMreview.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.017" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.017" target="_blank">10.1016/j.conbuildmat.2018.04.017</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8780-2732" title="ORCID: 0000-0001-8780-2732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/courteille_eric"><b>Courteille</b>&nbsp;Eric</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 172, pp. 670-676
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="https://orcid.org/0000-0001-8780-2732" title="ORCID: 0000-0001-8780-2732" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 172, pp. 670-676
-
-:aca-blank:{ .lg .middle}
-    [`#aspects`](keyword/aspects)
-    [`#base`](keyword/base)
-    [`#earth`](keyword/earth)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#process`](keyword/process)
-
-
--------------------------
+<a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Earth-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85051680281&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W2795531624" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2018.04.017" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2018.04.017?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Due to its low environmental impact, earth construction has received much consideration in recent years. Nevertheless, its development remains limited due to low production rate. Recent developments have been made to improve earth-based materials mix-design and processing methods. Simultaneously, digitally based construction methods have been introduced in the field of construction especially for cement-based materials application. Among these new techniques, the so-called 3D printing by extrusion deposit has been the most intensively studied. In this study, we assess the possibility of adapting this technique to earth-based material. After making the earth’s rheological behaviour suitable for 3D printing, a laboratory-scale printing has been carried out and the printed samples have been mechanically tested.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
@@ -71,8 +53,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "159 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a>, <a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b> Ahmed</a>, <a href="../../../author/ateah_h_ali"><b>Ateah</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tong_guan_elab_atea.2025.E3PC/">Empowering 3D Printed Concrete:<br/>Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</a></li>
       <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
       <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>
@@ -233,4 +215,34 @@ tags:
       <li><a href="../../../author/ding_zhu"><b>Ding</b> Zhu</a>, <a href="../../../author/wang_xiaodong"><b>Wang</b> Xiaodong</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/zou_x-w_patrick"><b>Zou</b> Patrick</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../ding_wang_sanj_zou.2018.AFSoHISCf3P/">A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{perr_rang_cour.2018.3PoEBM,
+      author            = "Arnaud Perrot and Damien Rangeard and Eric Courteille",
+      title             = "3D Printing of Earth-Based Materials: Processing Aspects",
+      doi               = "10.1016/j.conbuildmat.2018.04.017",
+      year              = "2018",
+      journal           = "Construction and Building Materials",
+      volume            = "172",
+      pages             = "670--676",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Perrot, D. Rangeard and E. Courteille, “3D Printing of Earth-Based Materials: Processing Aspects”, <i>Construction and Building Materials</i>, vol. 172, pp. 670–676, 2018, doi: 10.1016/j.conbuildmat.2018.04.017.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Perrot, Arnaud, Damien Rangeard, and Eric Courteille. “3D Printing of Earth-Based Materials: Processing Aspects”. <i>Construction and Building Materials</i> 172 (2018): 670–76. https://doi.org/10.1016/j.conbuildmat.2018.04.017.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ammar Alkhalidi, Dina Hatuqay
+    - footer
+title: Alkhalidi Ammar, Hatuqay Dina
 description:
 tags:
  - buildability
@@ -16,30 +17,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Energy Efficient 3D Printed Buildings:<br/>:aca-blank: Material and Techniques Selection Worldwide Study ([2020-02](date/2020/02))
-<a href="https://doi.org/10.1016/j.jobe.2020.101286" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2020.101286</a>
+#Energy Efficient 3D Printed Buildings&nbsp;([2020-02](date/2020/02))
+<div class="h1-like">Material and Techniques Selection Worldwide Study</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2020.101286" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2020.101286" target="_blank">10.1016/j.jobe.2020.101286</a>
 
--------------------------
+<a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b>&nbsp;Ammar</a></span>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b>&nbsp;Dina</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 30
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>
-,     <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 30, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#buildability`](keyword/buildability)
-    [`#efficient`](keyword/efficient)
-    [`#energy`](keyword/energy)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#selective`](keyword/selective)
-    [`#technique`](keyword/technique)
-    [`#world`](keyword/world)
-
-
--------------------------
+<a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/world"><button class="btn">#world</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Energy%20Efficient%203D%20Printed%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079859186&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -54,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3006827277" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2020.101286" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2020.101286?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing is one of the modern techniques that are emerging in the industry of building construction. It is characterized by being fast, low cost, and an environmentally friendly building process. This work investigates and develops energy efficient and low-cost residential units that can be implemented around the world through a green and sustainable criterion for choices. Distinct printable wall configurations with different materials were designed to reduce the U-values of the painted walls in compliance with climatic zone regulations. The simulation resulted in a minimum thermal transmittance value of 015 W/m2 K Results show that a balance between cavities and 3D printed material should be maintained to achieve the desired U-values and structural performance. To achieve that balance, multiple rows of configurations were introduced in the search of best results. Finally, to study the effect of climatic conditions on the 3D printed built environment, annual energy demand was estimated for each climatic zone.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "8 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
@@ -74,8 +55,8 @@ tags:
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "53 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/fantucci_stefano"><b>Fantucci</b> Stefano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../card_varg_fant.2026.TOaMEfItTPo3PPWC/">Topological Optimization and Material Exploration for Improving the Thermal Performance of 3D Printed Prefabricated Wall Components</a></li>
       <li><a href="../../../author/alvarez_maria_luisa"><b>Álvarez</b> Luisa</a>, <a href="../../../author/fernandez_brian"><b>Fernandez</b> Brian</a>, <a href="../../../author/saldarriaga_federico"><b>Saldarriaga</b> Federico</a>, <a href="../../../author/romero_hector"><b>Romero</b> Héctor</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../alva_fern_sald_rome.2025.DaBEoPDGf3PCW/">Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls</a></li>
       <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a>, <a href="../../../author/zhang_huiliang"><b>Zhang</b> Huiliang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../geng_jian_du_zhan.2025.MTOo3PW/">Multiscale Thermal Optimization of 3D-Printed Walls:<br/>Integrating Structure, Material, and Process with Fire-Thermal Synergy</a></li>
@@ -130,4 +111,33 @@ tags:
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../sunt_gath_upas_pool.2021.NSoFaEPoIL3PCWCiMBS/">Numerical Study of Fire and Energy Performance of Innovative Lightweight 3D Printed Concrete Wall-Configurations in Modular Building System</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alkh_hatu.2020.EE3PB,
+      author            = "Ammar Alkhalidi and Dina Hatuqay",
+      title             = "Energy Efficient 3D Printed Buildings: Material and Techniques Selection Worldwide Study",
+      doi               = "10.1016/j.jobe.2020.101286",
+      year              = "2020",
+      journal           = "Journal of Building Engineering",
+      volume            = "30",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">A. Alkhalidi  and D. Hatuqay, “Energy Efficient 3D Printed Buildings: Material and Techniques Selection Worldwide Study”, <i>Journal of Building Engineering</i>, vol. 30, 2020, doi: 10.1016/j.jobe.2020.101286.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alkhalidi, Ammar, and Dina Hatuqay. “Energy Efficient 3D Printed Buildings: Material and Techniques Selection Worldwide Study”. <i>Journal of Building Engineering</i> 30 (2020). https://doi.org/10.1016/j.jobe.2020.101286.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

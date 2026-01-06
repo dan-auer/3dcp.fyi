@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Ze Chang, Minfei Liang, Yading Xu, Zhi Wan, Erik Schlangen, Branko Šavija
+    - footer
+title: Chang Ze, Liang Minfei, Xu Yading, Wan Zhi, Schlangen Erik, Šavija Branko
 description:
 tags:
  - age
@@ -16,34 +17,14 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.cemconcomp.2023.104973) Early-Age Creep of 3D Printable Mortar:<br/>:aca-blank: Experiments and Analytical Modelling ([2023-02](date/2023/02))
-<a href="https://doi.org/10.1016/j.cemconcomp.2023.104973" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.104973</a>
+#Early-Age Creep of 3D Printable Mortar&nbsp;([2023-02](date/2023/02))
+<div class="h1-like">Experiments and Analytical Modelling</div>
+[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.104973) <a href="https://doi.org/10.1016/j.cemconcomp.2023.104973" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.104973" target="_blank">10.1016/j.cemconcomp.2023.104973</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chang_ze"><b>Chang</b>&nbsp;Ze</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4982-0117" title="ORCID: 0000-0003-4982-0117" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liang_minfei"><b>Liang</b>&nbsp;Minfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1974-6510" title="ORCID: 0000-0002-1974-6510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_zhi"><b>Wan</b>&nbsp;Zhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
+Journal Article - Cement and Concrete Composites
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> <a href="https://orcid.org/0000-0002-2445-3878" title="ORCID: 0000-0002-2445-3878" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a> <a href="https://orcid.org/0000-0003-4982-0117" title="ORCID: 0000-0003-4982-0117" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/xu_yading"><b>Xu</b> Yading</a> <a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> <a href="https://orcid.org/0000-0002-1974-6510" title="ORCID: 0000-0002-1974-6510" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#age`](keyword/age)
-    [`#analysis`](keyword/analysis)
-    [`#creep`](keyword/creep)
-    [`#early`](keyword/early)
-    [`#experiment`](keyword/experiment)
-    [`#model`](keyword/model)
-    [`#mortar`](keyword/mortar)
-    [`#printability`](keyword/printability)
-
-
--------------------------
+<a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/creep"><button class="btn">#creep</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Creep%20of%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149057142&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -58,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4318939442" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.104973" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.104973?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     In this study, an experimental setup to characterize the early-age creep of 3D printable mortar was proposed. The testing protocol comprises quasi-static compressive loading-unloading cycles, with 180-s holding periods in between. An analytical model based on a double power law was used to predict creep compliance with hardening time and loading duration as inputs. Subsequently, this analytical model was validated by comparison to uniaxial compression tests in which loading is increased incrementally, i.e., in steps, showing a good quantitative agreement. Minor differences between the two results were noted, most notably at the beginning of the test. This is because the determination of creep compliance for 3D printable mortar at fresh stage depends on the load level. In the end, the volumetric strain of tested samples from uniaxial compressive test is used to explain why the compressive loading affects the creep deformation.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "29 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
@@ -99,8 +76,8 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "11 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sara_rama.2025.MBPo3PCMUCMM/">Modelling Buildability Performance of 3D Printable Cementitious Materials Using Chemo-Mechanical Model</a></li>
       <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sara_rama.2025.EACBo3PM/">Early Age Creep Behavior of 3D Printable Mortar:<br/>Hydration and Viscoelasticity Coupling Model</a></li>
       <li><a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
@@ -113,4 +90,32 @@ tags:
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_he_schl.2023.LMoEACo3PSwtCoSH/">Lattice-Modelling of Early-Age Creep of 3D Printed Segments with the Consideration of Stress-History</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_chen_schl.2023.DEACIBo3PC/">Does Early-Age Creep Influence Buildability of 3D Printed Concrete?:<br/>Insights from Numerical Simulations</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{chan_lian_xu_wan.2023.EACo3PM,
+      author            = "Ze Chang and Minfei Liang and Yading Xu and Zhi Wan and Erik Schlangen and Branko Šavija",
+      title             = "Early-Age Creep of 3D Printable Mortar: Experiments and Analytical Modelling",
+      doi               = "10.1016/j.cemconcomp.2023.104973",
+      year              = "2023",
+      journal           = "Cement and Concrete Composites",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">Z. Chang, M. Liang, Y. Xu, Z. Wan, E. Schlangen and B. Šavija, “Early-Age Creep of 3D Printable Mortar: Experiments and Analytical Modelling”, <i>Cement and Concrete Composites</i>, 2023, doi: 10.1016/j.cemconcomp.2023.104973.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Chang, Ze, Minfei Liang, Yading Xu, Zhi Wan, Erik Schlangen, and Branko Šavija. “Early-Age Creep of 3D Printable Mortar: Experiments and Analytical Modelling”. <i>Cement and Concrete Composites</i>, 2023. https://doi.org/10.1016/j.cemconcomp.2023.104973.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

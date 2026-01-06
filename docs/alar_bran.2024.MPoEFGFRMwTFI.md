@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Rashed Alarrak, Alexander Brand
+    - footer
+title: Alarrak Rashed, Brand Alexander
 description:
 tags:
  - extrusion
@@ -17,31 +18,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Mechanical Performance of Extruded Functionally-Graded Fiber-Reinforced Mortar with Targeted Fiber-Injection ([2024-12](date/2024/12))
-<a href="https://doi.org/10.1016/j.cemconcomp.2024.105896" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2024.105896</a>
+#Mechanical Performance of Extruded Functionally-Graded Fiber-Reinforced Mortar with Targeted Fiber-Injection ([2024-12](date/2024/12))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105896" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105896" target="_blank">10.1016/j.cemconcomp.2024.105896</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0002-0044-8879" title="ORCID: 0009-0002-0044-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alarrak_rashed"><b>Alarrak</b>&nbsp;Rashed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6699-2020" title="ORCID: 0000-0001-6699-2020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brand_s_alexander"><b>Brand</b>&nbsp;Alexander</a></span><br>
+Journal Article - Cement and Concrete Composites, No. 105896
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/alarrak_rashed"><b>Alarrak</b> Rashed</a> <a href="https://orcid.org/0009-0002-0044-8879" title="ORCID: 0009-0002-0044-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> <a href="https://orcid.org/0000-0001-6699-2020" title="ORCID: 0000-0001-6699-2020" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, No. 105896
-
-:aca-blank:{ .lg .middle}
-    [`#extrusion`](keyword/extrusion)
-    [`#fiber`](keyword/fiber)
-    [`#function`](keyword/function)
-    [`#grade`](keyword/grade)
-    [`#injection`](keyword/injection)
-    [`#mechanics`](keyword/mechanics)
-    [`#mortar`](keyword/mortar)
-    [`#performance`](keyword/performance)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%20Extruded%20Functionally-Graded%20Fiber-Reinforced%20Mortar%20with%20Targeted%20Fiber-Injection" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212542178&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +39,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4405490844" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2024.105896" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2024.105896?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This research investigated the mechanical performance of Functionally Graded Fiber-Reinforced Concrete (FG-FRC) produced via extrusion with a targeted fiber injection. Flexural toughness was assessed using a modified ASTM C1609, and fracture properties were analyzed through implementation of the two-parameter fracture model. The study introduced an innovative targeted fiber injection technique using a conveyor system, tailored for the integration of high-stiffness steel fibers into the mortar prior to extrusion. This method permits the use of fibers in more extrusion systems, since the fibers cannot jam in the pump. The research utilized digital image correlation to observe the full displacement field, allowing for an in-depth examination of crack propagation and strain localization. Additionally, X-ray computed tomography was employed to analyze fiber dosage and distribution within the FG-FRC layers. Results indicated that the targeted fiber injection method facilitated effective fiber distribution within FG-FRC layers, leading to enhanced mechanical performance through fiber dosage’s optimization.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "12 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/alarrak_rashed"><b>Alarrak</b> Rashed</a>, <a href="../../../author/jeon_byeonguk"><b>Jeon</b> Byeonguk</a>, <a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../alar_jeon_bran.2023.FPoEFRMwPAF/">Fracture Properties of Extruded Fiber-Reinforced Mortar with Preferentially Aligned Fibers</a></li>
       <li><a href="../../../author/alarrak_rashed"><b>Alarrak</b> Rashed</a>, <a href="../../../author/jeon_byeonguk"><b>Jeon</b> Byeonguk</a>, <a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../alar_jeon_bran.2023.FToEFRMwPAF/">Flexural Toughness of Extruded Fiber-Reinforced Mortar with Preferentially Aligned Fibers</a></li>
@@ -80,7 +59,36 @@ tags:
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{alar_bran.2024.MPoEFGFRMwTFI,
+      author            = "Rashed Alarrak and Alexander S. Brand",
+      title             = "Mechanical Performance of Extruded Functionally-Graded Fiber-Reinforced Mortar with Targeted Fiber-Injection",
+      doi               = "10.1016/j.cemconcomp.2024.105896",
+      year              = "2024",
+      journal           = "Cement and Concrete Composites",
+      pages             = "105896",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">R. Alarrak  and A. S. Brand, “Mechanical Performance of Extruded Functionally-Graded Fiber-Reinforced Mortar with Targeted Fiber-Injection”, <i>Cement and Concrete Composites</i>, p. 105896, 2024, doi: 10.1016/j.cemconcomp.2024.105896.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Alarrak, Rashed, and Alexander S. Brand. “Mechanical Performance of Extruded Functionally-Graded Fiber-Reinforced Mortar with Targeted Fiber-Injection”. <i>Cement and Concrete Composites</i>, 2024, 105896. https://doi.org/10.1016/j.cemconcomp.2024.105896.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

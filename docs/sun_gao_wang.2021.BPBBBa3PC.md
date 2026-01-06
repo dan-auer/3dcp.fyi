@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Xiaoyan Sun, Chao Gao, Hailong Wang
+    - footer
+title: Sun Xiaoyan, Gao Chao, Wang Hailong
 description:
 tags:
  - bar
@@ -13,28 +14,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bond-Performance Between BFRP-Bars and 3D Printed Concrete ([2020-10](date/2020/10))
-<a href="https://doi.org/10.1016/j.conbuildmat.2020.121325" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2020.121325</a>
+#Bond-Performance Between BFRP-Bars and 3D Printed Concrete ([2020-10](date/2020/10))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.121325" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.121325" target="_blank">10.1016/j.conbuildmat.2020.121325</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <a href="../../../author/gao_chao"><b>Gao</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span><br>
+Journal Article - Construction and Building Materials, Vol. 269
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> <a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>
-,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Construction and Building Materials, Vol. 269, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#bar`](keyword/bar)
-    [`#bond`](keyword/bond)
-    [`#concrete`](keyword/concrete)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Bond-Performance%20Between%20BFRP-Bars%20and%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85094891937&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -49,17 +35,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3095607205" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2020.121325" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2020.121325?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     To improve the design and construction of three-dimensional (3D) printed concrete structures, the bond performance between basalt fibre reinforced polymer (BFRP) bars and 3D printed concrete were analysed via pull-out tests. It is found that the bond strength of 3D printed specimens was lower than that of mould-cast specimens, while the failure mode of BFRP bar-reinforced printed concrete was similar to that of reinforced common concrete. The bonding of sand-coated BFRP bars to 3D printed concrete was superior to that of smooth bars. The printing direction of concrete also affected bond performance, with the bond strengths of parallel and 45° inclined specimens exceeding that of vertically printed specimens. By identifying defects at printed and bonding interfaces, the bond degradation mechanism was determined. Furthermore, a continuous bond–slip model was established to predict the bonding strength between BFRP bars and printed concrete, which agreed well with the experimental results.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "22 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/ding_zhu"><b>Ding</b> Zhu</a>, <a href="../../../author/wang_xiaodong"><b>Wang</b> Xiaodong</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/zou_x-w_patrick"><b>Zou</b> Patrick</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../ding_wang_sanj_zou.2018.AFSoHISCf3P/">A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing</a></li>
@@ -83,8 +65,8 @@ tags:
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/lin_guan"><b>Lin</b> Guan</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_dong_siko_lin.2025.3PCRwFFRPSoG/">3D Printed Concrete Reinforced with Flexible Fiber Reinforced Polymer Strips or Grids:<br/>Concept and Bond Tests</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
@@ -125,4 +107,33 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ding_qin_xiao_chen.2022.ESotBBBSBa3PC/">Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{sun_gao_wang.2021.BPBBBa3PC,
+      author            = "Xiaoyan Sun and Chao Gao and Hailong Wang",
+      title             = "Bond-Performance Between BFRP-Bars and 3D Printed Concrete",
+      doi               = "10.1016/j.conbuildmat.2020.121325",
+      year              = "2021",
+      journal           = "Construction and Building Materials",
+      volume            = "269",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">X. Sun, C. Gao and H. Wang, “Bond-Performance Between BFRP-Bars and 3D Printed Concrete”, <i>Construction and Building Materials</i>, vol. 269, 2021, doi: 10.1016/j.conbuildmat.2020.121325.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Sun, Xiaoyan, Chao Gao, and Hailong Wang. “Bond-Performance Between BFRP-Bars and 3D Printed Concrete”. <i>Construction and Building Materials</i> 269 (2021). https://doi.org/10.1016/j.conbuildmat.2020.121325.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

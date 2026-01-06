@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Paul Bosscher, Robert Williams, L. Bryson, Daniel Castro-Lacouture
+    - footer
+title: Bosscher Paul, Williams Robert, Bryson L., Castro-Lacouture Daniel
 description:
 tags:
  - cable
@@ -14,30 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Cable-Suspended Robotic Contour Crafting System ([2007-04](date/2007/04))
-<a href="https://doi.org/10.1016/j.autcon.2007.02.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2007.02.011</a>
+#Cable-Suspended Robotic Contour Crafting System ([2007-04](date/2007/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2007.02.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2007.02.011" target="_blank">10.1016/j.autcon.2007.02.011</a>
 
--------------------------
+<a href="../../../author/bosscher_paul"><b>Bosscher</b>&nbsp;Paul</a></span>, <a href="../../../author/williams_l_robert"><b>Williams</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2350-2241" title="ORCID: 0000-0003-2350-2241" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bryson_sebastian_l"><b>Bryson</b>&nbsp;L.</a></span>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b>&nbsp;Daniel</a></span><br>
+Journal Article - Automation in Construction, Vol. 17, Iss. 1, pp. 45-55
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>
-,     <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>
-,     <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a> <a href="https://orcid.org/0000-0003-2350-2241" title="ORCID: 0000-0003-2350-2241" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Automation in Construction, Vol. 17, Iss. 1, pp. 45-55
-
-:aca-blank:{ .lg .middle}
-    [`#cable`](keyword/cable)
-    [`#contour`](keyword/contour)
-    [`#craf`](keyword/craf)
-    [`#robot`](keyword/robot)
-    [`#suspension`](keyword/suspension)
-    [`#system`](keyword/system)
-
-
--------------------------
+<a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/suspension"><button class="btn">#suspension</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Cable-Suspended%20Robotic%20Contour%20Crafting%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-34547699059&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -52,22 +36,19 @@ tags:
 <a href="https://inciteful.xyz/p/W2100847090" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2007.02.011" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2007.02.011?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This article introduces a new concept for a contour crafting construction system. Contour crafting is a relatively new layered fabrication technology that enables automated construction of whole structures. The system proposed here consists of a mobile contour crafting platform driven by a translational cable-suspended robot. The platform includes an extrusion system for laying beads of concrete as well as computercontrolled trowels for forming the beads as they are laid. This system is fully automated and its goal is to construct concrete structures rapidly and economically. The novel attributes of this system potentially enable significant improvements over other proposed contour crafting systems, including better portability, lower cost, and the possibility to build much larger structures. This article presents the kinematics and statics of the proposed system, provides a proof of translation-only motion, and uses the reachable workspace of the robot as well as the corresponding cable tensions to approximate the maximum size structure that can be built using this manipulator.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "2 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/russell_richard"><b>Russell</b> Richard</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a>, <a href="../../../author/bukkapatnam_satish"><b>Bukkapatnam</b> Satish</a> <a href="../../../date/2001/09">(2001-09)</a><br><a href="../../../khos_russ_kwon_bukk.2001.CLP/">Crafting Large Prototypes</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "51 Citations"
+    <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bassi_utkarsh"><b>Bassi</b> Utkarsh</a>, <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/verma_kumar_yash"><b>Verma</b> Yash</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bass_saha_bish_verm.2026.DAaDoaB3CP/">Design Analysis and Development of a Benchtop 3D Concrete Printer</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/dahlberg_maike"><b>Dahlberg</b> Maike</a>, <a href="../../../author/thormahlen_jan"><b>Thormählen</b> Jan</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../plac_dahl_thor_schw.2025.HPI3CP/">How Productive Is 3D Concrete Printing?:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/medina_moises"><b>Medina</b> Moisés</a>, <a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b> Alexander</a>, <a href="../../../author/moreno_francisco"><b>Moreno</b> Francisco</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../forc_medi_opaz_more.2025.AMitCI/">Additive Manufacturing in the Construction Industry</a></li>
@@ -119,4 +100,35 @@ tags:
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{boss_will_brys_cast.2007.CSRCCS,
+      author            = "Paul Bosscher and Robert L. Williams and L. Sebastian Bryson and Daniel Castro-Lacouture",
+      title             = "Cable-Suspended Robotic Contour Crafting System",
+      doi               = "10.1016/j.autcon.2007.02.011",
+      year              = "2007",
+      journal           = "Automation in Construction",
+      volume            = "17",
+      number            = "1",
+      pages             = "45--55",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">P. Bosscher, R. L. Williams, L. S. Bryson and D. Castro-Lacouture, “Cable-Suspended Robotic Contour Crafting System”, <i>Automation in Construction</i>, vol. 17, no. 1, pp. 45–55, 2007, doi: 10.1016/j.autcon.2007.02.011.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bosscher, Paul, Robert L. Williams, L. Sebastian Bryson, and Daniel Castro-Lacouture. “Cable-Suspended Robotic Contour Crafting System”. <i>Automation in Construction</i> 17, no. 1 (2007): 45–55. https://doi.org/10.1016/j.autcon.2007.02.011.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

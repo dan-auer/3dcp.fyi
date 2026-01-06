@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shutong Yang, Zhengyuan Chen, Tian Lan, Tiange Yang
+    - footer
+title: Yang Shutong, Chen Zhengyuan, Lan Tian, Yang Tiange
 description:
 tags:
  - concrete
@@ -19,35 +20,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions ([2025-05](date/2025/05))
-<a href="https://doi.org/10.1016/j.cemconcomp.2025.106110" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106110</a>
+#Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions ([2025-05](date/2025/05))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106110" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106110" target="_blank">10.1016/j.cemconcomp.2025.106110</a>
 
--------------------------
+<a href="../../../author/yang_shutong"><b>Yang</b>&nbsp;Shutong</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6537-7461" title="ORCID: 0009-0001-6537-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhengyuan"><b>Chen</b>&nbsp;Zhengyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lan_tian"><b>Lan</b>&nbsp;Tian</a></span>, <a href="../../../author/yang_tiange"><b>Yang</b>&nbsp;Tiange</a></span><br>
+Journal Article - Cement and Concrete Composites, Vol. 162, No. 106110
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>
-,     <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> <a href="https://orcid.org/0009-0001-6537-7461" title="ORCID: 0009-0001-6537-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/lan_tian"><b>Lan</b> Tian</a> <a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Composites, Vol. 162, No. 106110
-
-:aca-blank:{ .lg .middle}
-    [`#concrete`](keyword/concrete)
-    [`#difference`](keyword/difference)
-    [`#direction`](keyword/direction)
-    [`#evaluation`](keyword/evaluation)
-    [`#fracture`](keyword/fracture)
-    [`#height`](keyword/height)
-    [`#load`](keyword/load)
-    [`#performance`](keyword/performance)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#quantity`](keyword/quantity)
-
-
--------------------------
+<a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Evaluation%20for%20Fracture%20Properties%20of%203D%20Printed%20Ultra-High-Performance%20Concrete%20Loaded%20in%20Different%20Directions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005089516&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -62,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4410388218" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106110" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106110?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The integration of ultra-high-performance concrete (UHPC) with 3D printing technology introduces the revolutionary potential, offering exceptional mechanical properties, enhanced design flexibility, and automated construction processes. However, without additional reinforcement, the fracture performance of 3D-printed UHPC (3DP-UHPC) becomes critical to the crack resistance structures. To address the gaps in existing research, this study developed a closed-form fracture model to evaluate its fracture properties in varying loading conditions and copper-plated straight steel fiber dosages. The fracture mechanisms of 3DP-UHPC under different loading directions were systematically analyzed using fracture tests on 155 beams. By introducing the meso-structural characteristic parameter (Cch) and discrete coefficients indicating the heterogeneity and discontinuity of 3DP-UHPC, the fracture model was developed allowing for determining size-independent tensile strength (ft) and fracture toughness (KIC). The results revealed that Cch proved to be the average aggregate size for specimens loaded aligned with the printing direction and the average fiber spacing in other loading directions. The fracture properties of 3DP-UHPC exhibited pronounced directional dependency, with ft and KIC significantly higher when the specimens were loaded in the vertical direction of the printing compared to parallel loading. The fibers substantially improved the fracture resistance, particularly at the 1.5 % dosage, where fibers aligned perpendicular to the cracked section contributed most to crack resistance, achieving ft of 49.43 MPa and KIC of 5.28 MPa∙m1/2. The reliability of the model was statistically validated by incorporating results of specimens with varying notch-to-height ratios and heights into the normality analysis, confirming the size independence of the derived fracture parameters.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "45 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
@@ -119,10 +94,40 @@ tags:
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC/">The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "3 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
       <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{yang_chen_lan_yang.2025.QEfFPo3PUHPCLiDD,
+      author            = "Shutong Yang and Zhengyuan Chen and Tian Lan and Tiange Yang",
+      title             = "Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions",
+      doi               = "10.1016/j.cemconcomp.2025.106110",
+      year              = "2025",
+      journal           = "Cement and Concrete Composites",
+      volume            = "162",
+      pages             = "106110",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Yang, Z. Chen, T. Lan and T. Yang, “Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions”, <i>Cement and Concrete Composites</i>, vol. 162, p. 106110, 2025, doi: 10.1016/j.cemconcomp.2025.106110.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Yang, Shutong, Zhengyuan Chen, Tian Lan, and Tiange Yang. “Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions”. <i>Cement and Concrete Composites</i> 162 (2025): 106110. https://doi.org/10.1016/j.cemconcomp.2025.106110.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

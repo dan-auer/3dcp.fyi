@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Sadegh Ghourchian, Marko Butler, Markus Krüger, Viktor Mechtcherine
+    - footer
+title: Ghourchian Sadegh, Butler Marko, Krüger Markus, Mechtcherine Viktor
 description:
 tags:
  - capillary
@@ -16,32 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements ([2021-04](date/2021/04))
-<a href="https://doi.org/10.1016/j.cemconres.2021.106457" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconres.2021.106457</a>
+#Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements ([2021-04](date/2021/04))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2021.106457" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106457" target="_blank">10.1016/j.cemconres.2021.106457</a>
 
--------------------------
+<a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b>&nbsp;Sadegh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/butler_marko"><b>Butler</b>&nbsp;Marko</a></span>, <a href="../../../author/kruger_markus"><b>Krüger</b>&nbsp;Markus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
+Journal Article - Cement and Concrete Research, Vol. 145
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b> Sadegh</a>
-,     <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> <a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kruger_markus"><b>Krüger</b> Markus</a>
-,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Cement and Concrete Research, Vol. 145, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#capillary`](keyword/capillary)
-    [`#concrete`](keyword/concrete)
-    [`#development`](keyword/development)
-    [`#element`](keyword/element)
-    [`#fresh`](keyword/fresh)
-    [`#model`](keyword/model)
-    [`#pressure`](keyword/pressure)
-    [`#print`](keyword/print)
-
-
--------------------------
+<a href="../../keyword/capillary"><button class="btn">#capillary</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Modelling%20the%20Development%20of%20Capillary%20Pressure%20in%20Freshly%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104613669&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -56,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W3152543643" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.cemconres.2021.106457" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.cemconres.2021.106457?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     3D concrete printing is a promising technology recently developed to automate construction. Since no formwork is used in this technology to support and protect fresh concrete, there are two aspects which considerably accelerate the development of capillary pressure in 3D-printed concrete in comparison to conventionally placed concrete: i) high stiffness of 3D-printed needed to provide sufficient buildability, and ii) very early and fast evaporation of pore water. Accelerated development of capillary pressure may lead to severe plastic shrinkage cracking in 3D-printed elements and, hence, need to be mitigated. This investigation aims at providing a poromechanical model for capillary pressure development in 3D-printed elements. To simulate the development of capillary pressure and plastic shrinkage, environmental factors, material properties, and element geometry need to be considered as a whole. The model inputs – coefficient of permeability, static bulk modulus, air entry pressure and chemical shrinkage rate – were determined experimentally. The model was validated for two finegrained concretes. Both 3D-printed materials yielded faster capillary pressure increase in comparison to cast concrete, while partial substitution of cement with silica fume further accelerated the capillary pressure development. Furthermore, due to the lower permeability of the mixture containing silica fume, the gradient of capillary pressure between 3D-printed layers increased, as did the gradient of plastic shrinkage.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "13 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
@@ -81,8 +59,8 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "39 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/els_heinrich"><b>Els</b> Heinrich</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../els_zijl_vill.2025.ARoSaRSCi3CP/">A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing</a></li>
@@ -123,4 +101,33 @@ tags:
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/blankenstein_paul"><b>Blankenstein</b> Paul</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../mark_schr_blan_mech.2021.TDPWSCaSMf3CP/">Three-Dimensional-Printed Wood-Starch Composite as Support Material for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{ghou_butl_krug_mech.2021.MtDoCPiF3PCE,
+      author            = "Sadegh Ghourchian and Marko Butler and Markus Krüger and Viktor Mechtcherine",
+      title             = "Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements",
+      doi               = "10.1016/j.cemconres.2021.106457",
+      year              = "2021",
+      journal           = "Cement and Concrete Research",
+      volume            = "145",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. Ghourchian, M. Butler, M. Krüger and V. Mechtcherine, “Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements”, <i>Cement and Concrete Research</i>, vol. 145, 2021, doi: 10.1016/j.cemconres.2021.106457.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Ghourchian, Sadegh, Marko Butler, Markus Krüger, and Viktor Mechtcherine. “Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements”. <i>Cement and Concrete Research</i> 145 (2021). https://doi.org/10.1016/j.cemconres.2021.106457.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

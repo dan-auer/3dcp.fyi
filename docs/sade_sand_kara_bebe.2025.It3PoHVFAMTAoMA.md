@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Shaghayegh Sadeghzadeh Benam, Ilgin Sandalci, Burhan Kara, Özkan Bebek, Zeynep Bundur
+    - footer
+title: Sadeghzadeh Benam Shaghayegh, Sandalci Ilgin, Kara Burhan, Bebek Özkan, Bundur Zeynep
 description:
 tags:
  - admixture
@@ -16,33 +17,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Improving the 3D Printability of High-Volume Fly-Ash Mixtures Through Addition of Mineral Admixtures ([2024-11](date/2024/11))
-<a href="https://doi.org/10.1007/978-3-031-70281-5_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-70281-5_30</a>
+#Improving the 3D Printability of High-Volume Fly-Ash Mixtures Through Addition of Mineral Admixtures ([2024-11](date/2024/11))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70281-5_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70281-5_30" target="_blank">10.1007/978-3-031-70281-5_30</a>
 
--------------------------
+<a href="../../../author/sadeghzadeh-benam_shaghayegh"><b>Sadeghzadeh Benam</b>&nbsp;Shaghayegh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8136-9357" title="ORCID: 0000-0002-8136-9357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sandalci_ilgin"><b>Sandalci</b>&nbsp;Ilgin</a></span>, <a href="../../../author/kara_burhan"><b>Kara</b>&nbsp;Burhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bebek_ozkan"><b>Bebek</b>&nbsp;Özkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span><br>
+Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 265-273
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/sadeghzadeh-benam_shaghayegh"><b>Sadeghzadeh Benam</b> Shaghayegh</a>
-,     <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a> <a href="https://orcid.org/0000-0002-8136-9357" title="ORCID: 0000-0002-8136-9357" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>
-,     <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a> <a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 265-273
-
-:aca-blank:{ .lg .middle}
-    [`#admixture`](keyword/admixture)
-    [`#ash`](keyword/ash)
-    [`#height`](keyword/height)
-    [`#improvement`](keyword/improvement)
-    [`#mineral`](keyword/mineral)
-    [`#mixture`](keyword/mixture)
-    [`#printability`](keyword/printability)
-    [`#volume`](keyword/volume)
-
-
--------------------------
+<a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Improving%20the%203D%20Printability%20of%20High-Volume%20Fly-Ash%20Mixtures%20Through%20Addition%20of%20Mineral%20Admixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208963292&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -57,17 +38,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4404054776" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-70281-5_30" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/978-3-031-70281-5_30?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Recent 3D concrete printing technology advancements have rapidly progressed in the construction industry. To meet the layer-by-layer stacking requirements, there is a need to develop high-performance cement-based composites compatible with 3D printers. Using fly ash as a substitute for cement reduces the environmental impact of 3D-printed traditional concrete mixes involving ordinary Portland cement (OPC). This study aims to determine the feasibility of adapting high-volume fly ash (HVFA) mortar to 3D printing by modifying the rheology of the mix with mineral additives. Three different additives were used to achieve this goal: sepiolite, slaked lime, and unslaked lime. The mix design includes 70% fly ash by weight and 5% slaked or unslaked lime by the weight of the binder. Additionally, 0.3% of the binder weight of sepiolite was added as a rheological modifier. Rheological parameters were assessed, including time-dependent evolution of yield stress, viscosity, thixotropy, and structural build-up with resting time. A preliminary printability and shape retention assessment of printed samples was conducted using a lab-scale robotic arm with a pipe as an extruder. Experimental results indicated that adding either slaked or sepiolite increased the static yield stress, dynamic yield stress, and thixotropy. The results show that the rheology of HVFA can be improved by using lime and sepiolite, and the quaternary mix design can be an alternative sustainable solution in the 3D printing of building materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "10 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
@@ -79,8 +56,38 @@ tags:
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../qian_schu.2018.EToFCPwNCiPoPESP/">Enhancing Thixotropy of Fresh Cement-Pastes with Nano-Clay in Presence of Polycarboxylate-Ether Superplasticizer (PCE)</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
-      <li><a href="../../../author/sadeghzadeh-benam_shaghayegh"><b>Sadeghzadeh Benam</b> Shaghayegh</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sade_sand_bund_bebe.2024.BBAtItRoHVFACBMf3P/">Bio-Based Additives to Improve the Rheology of High-Volume Fly-Ash Cement-Based Mortar for 3D Printing</a></li>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{sade_sand_kara_bebe.2025.It3PoHVFAMTAoMA,
+      author            = "Shaghayegh Sadeghzadeh Benam and Ilgin Sandalci and Burhan Kara and Özkan Bebek and Zeynep Başaran Bundur",
+      title             = "Improving the 3D Printability of High-Volume Fly-Ash Mixtures Through Addition of Mineral Admixtures",
+      doi               = "10.1007/978-3-031-70281-5_30",
+      year              = "2025",
+      volume            = "56",
+      pages             = "265--273",
+      booktitle         = "Proceedings of the RILEM Spring Convention and Conference 2024",
+      editor            = "Liberato Ferrara and Giovanni Muciaccia and Davide di Summa",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. S. Benam, I. Sandalci, B. Kara, Ö. Bebek and Z. B. Bundur, “Improving the 3D Printability of High-Volume Fly-Ash Mixtures Through Addition of Mineral Admixtures”, in <i>Proceedings of the RILEM Spring Convention and Conference 2024</i>,  2025, vol. 56, pp. 265–273. doi: 10.1007/978-3-031-70281-5_30.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Benam, Shaghayegh Sadeghzadeh, Ilgin Sandalci, Burhan Kara, Özkan Bebek, and Zeynep Başaran Bundur. “Improving the 3D Printability of High-Volume Fly-Ash Mixtures Through Addition of Mineral Admixtures”. In <i>Proceedings of the RILEM Spring Convention and Conference 2024</i>, edited by Liberato Ferrara, Giovanni Muciaccia, and Davide di Summa, 56:265–73, 2025. https://doi.org/10.1007/978-3-031-70281-5_30.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Marcin Maroszek, Magdalena Rudziewicz, Syed Shah, Doan Tran, Marek Hebda
+    - footer
+title: Maroszek Marcin, Rudziewicz Magdalena, Shah Syed, Tran Doan, Hebda Marek
 description:
 tags:
  - ash
@@ -15,32 +16,13 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/15/21/3988/pdf) Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste ([2025-11](date/2025/11))
-<a href="https://doi.org/10.3390/buildings15213988" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings15213988</a>
+#Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste ([2025-11](date/2025/11))
+[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/21/3988/pdf) <a href="https://doi.org/10.3390/buildings15213988" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15213988" target="_blank">10.3390/buildings15213988</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9289-1890" title="ORCID: 0009-0003-9289-1890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_hung_doan"><b>Tran</b>&nbsp;Doan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
+Journal Article - Buildings, Vol. 15, Iss. 21, No. 3988
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> <a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> <a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>
-,     <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> <a href="https://orcid.org/0009-0003-9289-1890" title="ORCID: 0009-0003-9289-1890" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Buildings, Vol. 15, Iss. 21, No. 3988
-
-:aca-blank:{ .lg .middle}
-    [`#ash`](keyword/ash)
-    [`#construction`](keyword/construction)
-    [`#demolition`](keyword/demolition)
-    [`#development`](keyword/development)
-    [`#material`](keyword/material)
-    [`#print`](keyword/print)
-    [`#waste`](keyword/waste)
-
-
--------------------------
+<a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Eco-Friendly%20Construction%20Materials%20for%203D%20Printing%20Using%20Fly%20Ash%20and%20Demolition%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021457957&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -55,17 +37,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4415924061" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.3390/buildings15213988" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.3390/buildings15213988?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     The study investigates the potential of using Vietnam fly ash (FA) as a substitute for traditional Portland cement to reduce both the volume of landfilled waste and the carbon footprint of concrete mixtures, while maintaining adequate mechanical performance of the produced elements. Additionally, the incorporation of construction and demolition waste, recycled brick aggregate (BR), as a partial aggregate substitute was investigated to enhance the sustainability and resource efficiency of composite formulations. Five mixes, including a reference, were produced by casting and three-dimensional concrete printing (3DCP). Printability (flow table), water absorption (gravimetry and infrared thermography), and flexural/compressive behavior were assessed; printed specimens were tested parallel and perpendicular to the layer plane. Recycled additions reduced flow by 15–22%, yet all mixes remained printable. Printed specimens showed higher capillary uptake than cast ones. In flexure, modified mixtures composition exhibited 50% lower peak stress than the reference. Cast elements outperformed printed ones: the printed reference was 33% weaker than its cast counterpart, and other mixes were 10–15% lower. In compression, printed specimens loaded perpendicular to layers reached 6–7 MPa (35% below cast), whereas parallel loading yielded up to 3.5 MPa with larger scatter. The findings confirm the feasibility of utilizing secondary raw materials in 3DCP formulations to support resource efficiency and carbon footprint reduction in the construction industry.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "27 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dey_srin_bodd_pand.2022.3PoTPCMCFAaL/">3D Printability of Ternary-Portland-Cement Mixes Containing Fly-Ash and Limestone</a></li>
       <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
@@ -94,7 +72,38 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "0 Citations"
+    <ol  class = "bordered-list" reversed>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW,
+      author            = "Marcin Maroszek and Magdalena Rudziewicz and Syed Muzammil Ali Shah and Doan Hung Tran and Marek Hebda",
+      title             = "Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste",
+      doi               = "10.3390/buildings15213988",
+      year              = "2025",
+      journal           = "Buildings",
+      volume            = "15",
+      number            = "21",
+      pages             = "3988",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. Maroszek, M. Rudziewicz, S. M. A. Shah, D. H. Tran and M. Hebda, “Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste”, <i>Buildings</i>, vol. 15, no. 21, p. 3988, 2025, doi: 10.3390/buildings15213988.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Maroszek, Marcin, Magdalena Rudziewicz, Syed Muzammil Ali Shah, Doan Hung Tran, and Marek Hebda. “Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste”. <i>Buildings</i> 15, no. 21 (2025): 3988. https://doi.org/10.3390/buildings15213988.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

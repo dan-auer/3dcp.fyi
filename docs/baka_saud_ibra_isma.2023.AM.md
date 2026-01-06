@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Muhammad Bakar, Nasuha Saude, Mustaffa Ibrahim, Nur Ismail
+    - footer
+title: Bakar Muhammad, Saude Nasuha, Ibrahim Mustaffa, Ismail Nur
 description:
 tags:
  - additive
@@ -18,34 +19,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Additive Manufacturing:<br/>:aca-blank: A Review of Current 3D Concrete Printing on Materials, Methods, Applications, Properties and Challenges ([2022-01](date/2022/01))
-<a href="https://doi.org/10.1063/5.0120868" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1063/5.0120868</a>
+#Additive Manufacturing&nbsp;([2022-01](date/2022/01))
+<div class="h1-like">A Review of Current 3D Concrete Printing on Materials, Methods, Applications, Properties and Challenges</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1063/5.0120868" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0120868" target="_blank">10.1063/5.0120868</a>
 
--------------------------
+<a href="../../../author/bakar_syamir-abu_muhammad"><b>Bakar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/saude_nasuha"><b>Saude</b>&nbsp;Nasuha</a></span>, <a href="../../../author/ibrahim_mustaffa"><b>Ibrahim</b>&nbsp;Mustaffa</a></span>, <a href="../../../author/ismail_amira-natasha_nur"><b>Ismail</b>&nbsp;Nur</a></span><br>
+Contribution - Proceedings of the 1st International Conference on Frontier of Digital Technology Towards a Sustainable Society
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/bakar_syamir-abu_muhammad"><b>Bakar</b> Muhammad</a>
-,     <a href="../../../author/saude_nasuha"><b>Saude</b> Nasuha</a>
-,     <a href="../../../author/ibrahim_mustaffa"><b>Ibrahim</b> Mustaffa</a>
-,     <a href="../../../author/ismail_amira-natasha_nur"><b>Ismail</b> Nur</a>
-  
-:aca-blank:{ .lg .middle}
-    Contribution - Proceedings of the 1st International Conference on Frontier of Digital Technology Towards a Sustainable Society, pp. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#additive`](keyword/additive)
-    [`#application`](keyword/application)
-    [`#challenge`](keyword/challenge)
-    [`#concrete`](keyword/concrete)
-    [`#manufacturing`](keyword/manufacturing)
-    [`#material`](keyword/material)
-    [`#method`](keyword/method)
-    [`#print`](keyword/print)
-    [`#property`](keyword/property)
-    [`#review`](keyword/review)
-
-
--------------------------
+<a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163092921&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -60,17 +41,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4377234929" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1063/5.0120868" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1063/5.0120868?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Additive manufacturing (AM) technology has been widely used in a variety of industries, including automotive, manufacturing, and construction. The main advantages of additive manufacturing or 3D printing are design freedom, mass customization, waste minimization, and the ability to manufacture complex structures, as well as fast prototyping. The exploration of fundamental scientific understanding of the relationships between design, material, process, and product. In this sense, a review of 3D printing technology, process, latest construction machines, construction process, and emerging materials for 3D construction was completed. This review paper was prepared using a variety of research articles as well as numerous recent reports from blogs. Some research gaps are identified based on the review paper. Finally, the use of 3D printing in the construction industry is dependent on the print job's accuracy. Not only that, but the availability of printing materials, the cost of the printing process, and the time required for printing all play a role in the construction industry's technological revolution.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "24 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
@@ -96,8 +73,36 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
       <li><a href="../../../author/yeon_kyu-seok"><b>Yeon</b> Kyu-Seok</a>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../yeon_kim_yeon.2018.FSotUoPMCCa3CPM/">Feasibility Study of the Use of Polymer-Modified Cement Composites as 3D Concrete Printing-Material</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../asla_zhan.2024.S3PCSUHQSRM/">Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @inproceedings{baka_saud_ibra_isma.2023.AM,
+      author            = "Muhammad Syamir Abu Bakar and Nasuha Saude and Mustaffa Ibrahim and Nur Amira Natasha Ismail",
+      title             = "Additive Manufacturing: A Review of Current 3D Concrete Printing on Materials, Methods, Applications, Properties and Challenges",
+      doi               = "10.1063/5.0120868",
+      year              = "2023",
+      booktitle         = "Proceedings of the 1st International Conference on Frontier of Digital Technology Towards a Sustainable Society",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">M. S. A. Bakar, N. Saude, M. Ibrahim and N. A. N. Ismail, “Additive Manufacturing: A Review of Current 3D Concrete Printing on Materials, Methods, Applications, Properties and Challenges”,  2023. doi: 10.1063/5.0120868.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Bakar, Muhammad Syamir Abu, Nasuha Saude, Mustaffa Ibrahim, and Nur Amira Natasha Ismail. “Additive Manufacturing: A Review of Current 3D Concrete Printing on Materials, Methods, Applications, Properties and Challenges”. In <i>Proceedings of the 1st International Conference on Frontier of Digital Technology Towards a Sustainable Society</i>, 2023. https://doi.org/10.1063/5.0120868.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

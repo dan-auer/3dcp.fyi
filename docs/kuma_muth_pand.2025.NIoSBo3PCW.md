@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: S. Kumar, Nelson Muthu, Biranchi Panda
+    - footer
+title: Kumar S., Muthu Nelson, Panda Biranchi
 description:
 tags:
  - approach
@@ -21,36 +22,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Numerical Investigation of Structural Behavior of 3D-Printed Concrete Walls:<br/>:aca-blank: Insights from Damage Mechanics and Cohesive Zone Approaches ([2025-06](date/2025/06))
-<a href="https://doi.org/10.1007/s40964-025-01172-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/s40964-025-01172-8</a>
+#Numerical Investigation of Structural Behavior of 3D-Printed Concrete Walls&nbsp;([2025-06](date/2025/06))
+<div class="h1-like">Insights from Damage Mechanics and Cohesive Zone Approaches</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-025-01172-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01172-8" target="_blank">10.1007/s40964-025-01172-8</a>
 
--------------------------
+<a href="../../../author/kumar_sai_s"><b>Kumar</b>&nbsp;S.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2589-3234" title="ORCID: 0000-0002-2589-3234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthu_nelson"><b>Muthu</b>&nbsp;Nelson</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span><br>
+Journal Article - Progress in Additive Manufacturing
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/kumar_sai_s"><b>Kumar</b> S.</a>
-,     <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="https://orcid.org/0000-0002-2589-3234" title="ORCID: 0000-0002-2589-3234" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Progress in Additive Manufacturing, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#approach`](keyword/approach)
-    [`#behavior`](keyword/behavior)
-    [`#cohesion`](keyword/cohesion)
-    [`#concrete`](keyword/concrete)
-    [`#damage`](keyword/damage)
-    [`#insights`](keyword/insights)
-    [`#investigation`](keyword/investigation)
-    [`#mechanics`](keyword/mechanics)
-    [`#numeric`](keyword/numeric)
-    [`#print`](keyword/print)
-    [`#structure`](keyword/structure)
-    [`#wall`](keyword/wall)
-    [`#zone`](keyword/zone)
-
-
--------------------------
+<a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> <a href="../../keyword/zone"><button class="btn">#zone</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Investigation%20of%20Structural%20Behavior%20of%203D-Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007808229&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -65,17 +44,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4411085908" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1007/s40964-025-01172-8" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1007/s40964-025-01172-8?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     This study explores the structural behavior of 3D-printed concrete (3DPC) walls through numerical simulations, with a focus on the impact of interfaces between printed layers. The numerical analysis is performed in ABAQUS®, with the concrete damage plasticity (CDP) model used to represent the printed layers, while cohesive zone modelling (CZM) is applied to simulate the interfacial behavior. A notable aspect of this work is the implementation of a modified damage equation that introduces an exponent to control damage evolution during compression, aligning it with the constitutive response derived from analytical expressions in the literature. A series of parametric studies are conducted to assess how different parameters, including the damage exponent, maximum compressive strength, and cohesive parameters, influence structural performance. The numerical results are compared with experimental data to validate the approach, demonstrating the critical role of interface behavior in the overall structural integrity of 3DPC walls. This research contributes to the understanding of 3DPC wall performance, providing a framework for future investigations into the optimization of 3DPC structures. In addition, the impact of different infill designs on the structural performance of 3DPC walls is explored, highlighting the importance of infill geometry in enhancing wall stability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "21 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../an_zhan_yang.2024.NMo3CP/">Numerical Modelling of 3D Concrete Printing:<br/>Material-Models, Boundary-Conditions and Failure-Identification</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
@@ -98,8 +73,36 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "1 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{kuma_muth_pand.2025.NIoSBo3PCW,
+      author            = "S. Sai Kumar and Nelson Muthu and Biranchi Narayan Panda",
+      title             = "Numerical Investigation of Structural Behavior of 3D-Printed Concrete Walls: Insights from Damage Mechanics and Cohesive Zone Approaches",
+      doi               = "10.1007/s40964-025-01172-8",
+      year              = "2025",
+      journal           = "Progress in Additive Manufacturing",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">S. S. Kumar, N. Muthu and B. N. Panda, “Numerical Investigation of Structural Behavior of 3D-Printed Concrete Walls: Insights from Damage Mechanics and Cohesive Zone Approaches”, <i>Progress in Additive Manufacturing</i>, 2025, doi: 10.1007/s40964-025-01172-8.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Kumar, S. Sai, Nelson Muthu, and Biranchi Narayan Panda. “Numerical Investigation of Structural Behavior of 3D-Printed Concrete Walls: Insights from Damage Mechanics and Cohesive Zone Approaches”. <i>Progress in Additive Manufacturing</i>, 2025. https://doi.org/10.1007/s40964-025-01172-8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

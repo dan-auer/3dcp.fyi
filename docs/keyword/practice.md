@@ -8,7 +8,7 @@ search:
 
 # #practice
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>
   <li><a href="../../../author/ma_jiayue"><b>Ma</b> Jiayue</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/zuo_kelvin"><b>Zuo</b> Kelvin</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ma_sama_roti_zuo.2025.ERMf3CPSCS/">Establishing Research Methods for 3D Concrete Printing Supply Chain Studies:<br/>Insights from Literature and Practice</a></li>

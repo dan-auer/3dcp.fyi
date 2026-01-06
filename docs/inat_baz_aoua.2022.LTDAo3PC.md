@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Francois Inaty, Bilal Baz, Georges Aouad
+    - footer
+title: Inaty Francois, Baz Bilal, Aouad Georges
 description:
 tags:
  - assessment
@@ -14,29 +15,13 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Long-Term Durability-Assessment of 3D Printed Concrete ([2022-07](date/2022/07))
-<a href="https://doi.org/10.1080/01694243.2022.2102717" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1080/01694243.2022.2102717</a>
+#Long-Term Durability-Assessment of 3D Printed Concrete ([2022-07](date/2022/07))
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/01694243.2022.2102717" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/01694243.2022.2102717" target="_blank">10.1080/01694243.2022.2102717</a>
 
--------------------------
+<a href="../../../author/inaty_francois"><b>el&nbsp;Inaty</b>&nbsp;Francois</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baz_bilal"><b>Baz</b>&nbsp;Bilal</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aouad_georges"><b>Aouad</b>&nbsp;Georges</a></span><br>
+Journal Article - Journal of Adhesion Science and Technology
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/inaty_francois"><b>el Inaty</b> Francois</a>
-,     <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> <a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Adhesion Science and Technology, No. (None,)
-
-:aca-blank:{ .lg .middle}
-    [`#assessment`](keyword/assessment)
-    [`#concrete`](keyword/concrete)
-    [`#durability`](keyword/durability)
-    [`#length`](keyword/length)
-    [`#print`](keyword/print)
-    [`#term`](keyword/term)
-
-
--------------------------
+<a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=Long-Term%20Durability-Assessment%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134641530&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -51,17 +36,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4286716471" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1080/01694243.2022.2102717" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1080/01694243.2022.2102717?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Concrete 3D printing can be described as a revolution conquering the modern construction field. However, additive manufacturing is still confronted with many challenges and several limitations, such as the absence of building codes that regulate this construction approach. This technology is known to be environmentally friendly and its market is widening its horizons by implementing 3D printed concrete in harsh environments, such as bridges, infrastructures, and maritime applications. In this regard, the durability of those structures should be assessed to ensure sustainability. This study consists of assessing the durability of 3D printed concrete by comparing printed and casted samples aged by sulfuric acid attack. Three mixes were subjected to 0.5% sulfuric acid solution over 142 days. In addition to visual inspections of the samples, the mass loss was recorded periodically. Moreover, the total water porosity and the mechanical performance were evaluated. Both printed and casted samples showed degradation when placed in acid solutions, but the printed ones slightly resisted better during the first 84 days. However, after that date, both printed and casted samples presented comparable resistance. In addition, the mechanical performance came in accordance with the mass loss to prove that printed samples resisted well the acid attack by not losing much strength. In contrast, the strength drop rates in degraded printed samples were higher than those in the degraded casted elements between days 112 and 142. Moreover, the water porosity test showed that printed elements have a denser concrete matrix which protects the elements against chemical ingression.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "46 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
@@ -109,8 +90,8 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "10 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
@@ -122,4 +103,32 @@ tags:
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../sahi_mard.2023.MPDPaILAo3M/">Mechanical Properties, Durability Performance and Inter-Layer Adhesion of 3DPC Mixtures:<br/>A State‐of‐the‐art Review</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{inat_baz_aoua.2022.LTDAo3PC,
+      author            = "Francois el Inaty and Bilal Baz and Georges Aouad",
+      title             = "Long-Term Durability-Assessment of 3D Printed Concrete",
+      doi               = "10.1080/01694243.2022.2102717",
+      year              = "2022",
+      journal           = "Journal of Adhesion Science and Technology",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">F. el Inaty, B. Baz and G. Aouad, “Long-Term Durability-Assessment of 3D Printed Concrete”, <i>Journal of Adhesion Science and Technology</i>, 2022, doi: 10.1080/01694243.2022.2102717.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Inaty, Francois el, Bilal Baz, and Georges Aouad. “Long-Term Durability-Assessment of 3D Printed Concrete”. <i>Journal of Adhesion Science and Technology</i>, 2022. https://doi.org/10.1080/01694243.2022.2102717.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

@@ -2,7 +2,8 @@
 hide:
     - navigation
     - tags
-title: Kang Han, Fei Gu, Huashan Yang, Xinchen Tian, Xiangqin Du
+    - footer
+title: Han Kang, Gu Fei, Yang Huashan, Tian Xinchen, Du Xiangqin
 description:
 tags:
  - base
@@ -17,34 +18,14 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing:<br/>:aca-blank: Printability, Mechanical Properties and Microanalysis ([2024-09](date/2024/09))
-<a href="https://doi.org/10.1016/j.jobe.2024.110733" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.110733</a>
+#PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing&nbsp;([2024-09](date/2024/09))
+<div class="h1-like">Printability, Mechanical Properties and Microanalysis</div>
+:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110733" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110733" target="_blank">10.1016/j.jobe.2024.110733</a>
 
--------------------------
+<span class="author"><a href="https://orcid.org/0009-0003-2372-9531" title="ORCID: 0009-0003-2372-9531" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_kang"><b>Han</b>&nbsp;Kang</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-2691-7778" title="ORCID: 0009-0005-2691-7778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gu_fei"><b>Gu</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2771-6362" title="ORCID: 0000-0002-2771-6362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tian_xinchen"><b>Tian</b>&nbsp;Xinchen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2387-6403" title="ORCID: 0000-0003-2387-6403" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_xiangqin"><b>Du</b>&nbsp;Xiangqin</a></span><br>
+Journal Article - Journal of Building Engineering, Vol. 97, No. 110733
 
-:aca-blank:{ .lg .middle}
-      <a href="../../../author/han_kang"><b>Han</b> Kang</a> <a href="https://orcid.org/0009-0003-2372-9531" title="ORCID: 0009-0003-2372-9531" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/gu_fei"><b>Gu</b> Fei</a> <a href="https://orcid.org/0009-0005-2691-7778" title="ORCID: 0009-0005-2691-7778" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/tian_xinchen"><b>Tian</b> Xinchen</a> <a href="https://orcid.org/0000-0002-2771-6362" title="ORCID: 0000-0002-2771-6362" target="_blank">:aca-orcid:{ .lg .middle }</a>
-,     <a href="../../../author/du_xiangqin"><b>Du</b> Xiangqin</a> <a href="https://orcid.org/0000-0003-2387-6403" title="ORCID: 0000-0003-2387-6403" target="_blank">:aca-orcid:{ .lg .middle }</a>
-  
-:aca-blank:{ .lg .middle}
-    Journal Article - Journal of Building Engineering, Vol. 97, No. 110733
-
-:aca-blank:{ .lg .middle}
-    [`#base`](keyword/base)
-    [`#fiber`](keyword/fiber)
-    [`#geopolymer`](keyword/geopolymer)
-    [`#mechanics`](keyword/mechanics)
-    [`#print`](keyword/print)
-    [`#printability`](keyword/printability)
-    [`#property`](keyword/property)
-    [`#pva`](keyword/pva)
-    [`#reinforcement`](keyword/reinforcement)
-
-
--------------------------
+<a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
 <a href="https://scholar.google.com/scholar_lookup?title=PVA-Fiber-Reinforced%20Red%20Mud-Based%20Geopolymer%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203851840&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
@@ -59,17 +40,13 @@ tags:
 <a href="https://inciteful.xyz/p/W4402489986" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
 <a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.110733" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
 <a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.110733?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
-
-
--------------------------
-
 ???+ quote "Abstract" 
     Red mud-based geopolymers are an efficient alternative to resolve the high cement consumption in 3D printed concrete (3DPC). From a materials perspective, good printability and mechanical properties are critical to adopting red mud-based geopolymers in 3DPC. In this study, we selected bauxite tailings-red mud and blast furnace slag to prepare geopolymers. Polyvinyl alcohol (PVA) fibers with 0, 0.3 %, 0.6 %, 0.9 %, and 1.2 % volume fractions were used to reinforce 3D printed red mud-based geopolymers. To evaluate the influence of PVA fiber on the printability and mechanical properties of 3D printed red mud-based geopolymer. We tested the workability, extrudability, structural build-up ability, shape stability, and mechanical properties of the red mud-based geopolymer containing different volume fraction PVA fibers, and a microstructural analysis was performed to reveal the interface bond between the fibers and the geopolymer matrix. The results showed that adding PVA fibers impaired the workability of the red mud-based geopolymer mortar. The red mud-based geopolymer mortar showed a more than threefold increase in extrusion pressure compared to the control mixture (P0) when adding 1.2 % vol fiber. For all other mixtures, the increase was less than twice that of the control mixture. The PVA fiber had a significant positive impact on the structural build-up ability and shape stability of the 3D printable red mud-based geopolymer. In addition, PVA fibers promoted the bending strength of the hardened geopolymer specimens better than the compression strength, and the geopolymer gel on the fibers indicated the good interfacial bonding ability of the PVA fiber. This study demonstrates the feasibility of 3D printed red mud-based geopolymer and the reinforcement of 3D printed red mud-based geopolymer by PVA fibers, providing a material perspective to increase the range of red mud applications in 3D printed concrete.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ quote "References"
-    <ol>
+???+ example "28 References"
+    <ol class = "bordered-list">
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -99,8 +76,8 @@ tags:
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/ziada_mahmoud"><b>Ziada</b> Mahmoud</a>, <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ziad_tany_selo_cosk.2024.BBCHo3PPFRGM/">Bacteria-Based Crack-Healing of 3D Printed PVA-Fiber-Reinforced Geopolymer Mortars</a></li>
     </ol>
-???+ quote "Citations"
-    <ol reversed>
+???+ bug "7 Citations"
+    <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
       <li><a href="../../../author/khalid_waleed_lawand"><b>Khalid</b> Lawand</a>, <a href="../../../author/mermerdas_kasim"><b>Mermerdaş</b> Kasım</a>, <a href="../../../author/ekmen_sevin"><b>Ekmen</b> Şevin</a>, <a href="../../../author/khidhir-bzeni_dillshad"><b>Khidhir Bzeni</b> Dillshad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khal_merm_ekme_khid.2025.OoFaHPoFR3PGCURSM/">Optimization of Fresh and Hardened Properties of Fiber-Reinforced 3D Printed Geopolymer Composites Using Response Surface Methodology:<br/>A Data-Driven Approach Based on Prior Experimental Studies</a></li>
@@ -109,4 +86,34 @@ tags:
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../srin_pand_sura_sith.2025.MDOo3PCCfMA/">Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications:<br/>Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/wu_weihong"><b>Wu</b> Weihong</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../luo_jin_wu_zhan.2024.RaMPoPFR3PHSCwtAoFA/">Rheological and Mechanical Properties of Polyformaldehyde-Fiber-Reinforced 3D Printed High-Strength Concrete with the Addition of Fly-Ash</a></li>
     </ol>
+</div>
+
+<div class="grid cards" markdown>
+
+???+ warning "BibTeX"
+
+    ```bibtex
+    @article{han_gu_yang_tian.2024.PFRRMBGf3P,
+      author            = "Kang Han and Fei Gu and Huashan Yang and Xinchen Tian and Xiangqin Du",
+      title             = "PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing: Printability, Mechanical Properties and Microanalysis",
+      doi               = "10.1016/j.jobe.2024.110733",
+      year              = "2024",
+      journal           = "Journal of Building Engineering",
+      volume            = "97",
+      pages             = "110733",
+    }
+
+
+    ```
+
+???+ failure "Formatted Citation"
+
+    === "IEEE"
+
+    <span id="iee">K. Han, F. Gu, H. Yang, X. Tian and X. Du, “PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing: Printability, Mechanical Properties and Microanalysis”, <i>Journal of Building Engineering</i>, vol. 97, p. 110733, 2024, doi: 10.1016/j.jobe.2024.110733.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+
+    === "CMOS"
+
+    <span id="cmos">Han, Kang, Fei Gu, Huashan Yang, Xinchen Tian, and Xiangqin Du. “PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing: Printability, Mechanical Properties and Microanalysis”. <i>Journal of Building Engineering</i> 97 (2024): 110733. https://doi.org/10.1016/j.jobe.2024.110733.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+
 </div>

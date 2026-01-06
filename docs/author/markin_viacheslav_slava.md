@@ -1,6 +1,7 @@
 ---
 hide:
   - tags
+  - navigation
   - footer
 search:
   exclude: true
@@ -8,7 +9,7 @@ search:
 
 #  Markin Slava 
 
-<ol reversed>
+<ol class = "bordered-list" reversed>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/cordova_a-l_julian"><b>Cordova</b> Julian</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mark_cord_comb_mech.2024.DBo3PCEIbPS/">Deformation Behavior of 3D Printed Concrete Elements Induced by Plastic Shrinkage</a></li>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mark_mech.2024.MPSaCi3PCTSR/">Mitigating Plastic Shrinkage and Cracking in 3D Printed Concrete Through Surface Rewetting</a></li>
   <li><a href="../../../author/gleiser_leonie"><b>Gleiser</b> Leonie</a>, <a href="../../../author/pierer_robin"><b>Pierer</b> Robin</a>, <a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../glei_pier_mark_butl.2024.AMwEBM/">Additive Manufacturing with Earth-Based Materials:<br/>Minimization of Shrinkage Deformation</a></li>
